@@ -1,6 +1,6 @@
 # IDE and Obsidian
 
-.obsidian
-.vscode
-.idea
-.trash
+/.obsidian/
+/.vscode/
+/.idea/
+/.trash/
