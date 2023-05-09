@@ -40,3 +40,7 @@ If I forgot someone, poke me - Sigrunixia
 - 2023-04-28: Cleanup in preparation for major update
 - 2023-03-02: Updated Broken Links, made relative to top-level folder thus enabling to be moved when consistent plugins are used. Merged Pathfinder 2E into TTRPGShare Pathfinder Vault.
 - 2023-02-21: CLI Enabled Initial Load onto Share out of Testing Mode
+
+## Legal Disclaimer
+
+ __"The Obsidian TTRPG Community uses trademarks and/or copyrights owned by Paizo Inc., used under Paizo's Community Use Policy ([paizo.com/communityuse](http://paizo.com/communityuse)). We are expressly prohibited from charging you to use or access this content. __Obsidian TTRPG Community__ is not published, endorsed, or specifically approved by Paizo. For more information about Paizo Inc. and Paizo products, visit [paizo.com](http://paizo.com/).
