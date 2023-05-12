@@ -1,6 +1,12 @@
 # IDE and Obsidian
 
 /.obsidian/
+<<<<<<< Updated upstream
 /.vscode/
 /.idea/
 /.trash/
+=======
+.vscode
+.trash
+/.idea/
+>>>>>>> Stashed changes
