@@ -1,30 +1,57 @@
 # Pathfinder 2E Community Vault
 
-## Plugins Required To Use This Vault
+> Important: It is very helpful when starting with this vault, to learn what [Absolute Paths Are](https://www.redhat.com/sysadmin/linux-path-absolute-relative) and what [Markdown Links Are](https://help.obsidian.md/Linking+notes+and+files/Internal+links) and why both are used.
 
-- To read what [Relevant Path Links are](https://www.coffeecup.com/help/articles/absolute-vs-relative-pathslinks/), and why they are used. 
-- [Admonition](https://github.com/valentine195/obsidian-admonition) by [Javalent](https://github.com/valentine195). 
-- [Fantasy Statblocks](https://github.com/javalent/fantasy-statblocks/) by Javalent
-  Seriously, half the files will not be pretty unless you have this. 
-- [pf2e-admonitions.json](pf2e-admonitions.json) to automatically load the admonition blocks. These have not been styled fully yet. They can be imported directly into Admonitions. 
+This is Obsidian TTRPG Community's Pathfinder 2E Vault, containing nearly everything you need to get started building your next campaign. 
 
 
-## Directions for Sourcebooks
-
-1. Install Admonitions from the Obsidian Community Plugins Page
-2. Download [pf2e-admonitions](pf2e-admonitions.json).
-3. Install [pf2e-admonitions](pf2e-admonitions.json) into the Admonitions settings page. 
-4. **Optional But Super Recommended**: Download [Consistent Attachment and Links](https://github.com/dy-sh/obsidian-consistent-attachments-and-links) off **Community Plugins** and follow its instructions. You can still use `[[text here]]` to begin your links, but when you hit enter or select, Obsidian autocorrects to a relevant Markdown link. This will go a long way to fixing any link shenanigans where you end up with `[[../rules/traits/this-is-dumb.md]]`. 
-	1. If you share files with others, also get [Update Relative Links](https://github.com/val3344/obsidian-update-relative-links) which will turn those `[Pie]Vaultname/rules/traits/pie.md)` into `[Pie](../rules/traits/pie.md)`.
-5. Download the Compendium and Rules Folders into **A TOP-LEVEL FOLDER** in your vault. This means like `/Pathfinder/`, where the first backslash indicates root.   
-	1. Use the [Download Git Directory](https://download-directory.github.io) site.
-
-## Directions for Other Content
-
-Most of the other content has a Readme inside its folder except for Spells-Dataview-Backup. You may ignore this folder at this time. 
+## Required Plugins and Scripts
 
 
-## Attributions
+### Admonitions
+
+[Admonition](https://github.com/valentine195/obsidian-admonition) by [Javalent](https://github.com/valentine195). 
+
+The Compendium and Rules Folders use custom admonitions to call out and format much of their content.
+
+Without these Admonitions, you will see a lot of ugly text.
+
+You can find the [Admonitions.json](https://github.com/ebullient/ttrpg-convert-cli/tree/main/examples) at the TTRPG-CLI repository. The specific admonitions file for this repository will have `pf2e` in the name. 
+
+You can view instructions how to import the .json file at Javalent's [Plugins Documentation](https://plugins.javalent.com/admonitions/import-json#Obtain%20an%20Admonitions.Json%20File)  site.
+
+
+### Fantasy Statblocks
+
+[Fantasy Statblocks](https://github.com/javalent/fantasy-statblocks/) by  [Javalent](https://github.com/valentine195). 
+
+Fantasy Statblocks makes the Bestiary usable and pretty. It also integrates nicely with [Initiative Tracker](https://github.com/javalent/initiative-tracker).
+
+Having issues with the Pathfinder 2E layout? Report an issue at the [Pathfinder 2E Development Repository](https://github.com/Obsidian-TTRPG-Community/Pathfinder-2E-Statblocks-Development).
+
+> **Hint**: If Using ITS Theme, turn off Statblock styling in Style Settings. This will make the Statblock look as it should. 
+
+
+
+## Not Optional, But Highly Recommended
+
+
+### Pathfinder CSS
+
+In order to add little tweaks to the Pathfinder 2E Files, we highly recommend downloading the [Pathfinder 2E CSS](https://github.com/ebullient/ttrpg-convert-cli/tree/main/examples/css-snippets) and adding it to your snippets folder.
+
+
+### Force Note View in Frontmatter
+
+[Obsidian force view mode of note](https://github.com/bwydoogh/obsidian-force-view-mode-of-note) by Bwydoogh
+
+This plugin automatically switches a note to source or reading mode based off a key/value pair within the frontmatter of the note. 
+
+The non-bestiary files are all equipped with this frontmatter setup.
+
+
+
+## Special Thanks
 This community vault has been brought to you by the efforts of many individuals. 
 
 - [eBullient](https://github.com/ebullient), for their [TTRPG-Covert-CLI](https://github.com/ebullient/ttrpg-convert-cli) which pulls the data from PF2ETools and converts it to Markdown Form.
@@ -33,14 +60,19 @@ This community vault has been brought to you by the efforts of many individuals.
 - [Sigrunixia](https://github.com/sigrunixia), eventually, for their over-spazzing on the CSS and getting the thing uploaded onto the Vault.
 - [Robinsving](https://github.com/robinsving), whose dataview spells will get re-added to the CLI spell format, soon. (I promise.)
 
-If I forgot someone, poke me - Sigrunixia
+If I forgot someone, poke me – Sigrunixia
 
 
 ## Changelog
+- 
 - 2023-04-28: Cleanup in preparation for major update
 - 2023-03-02: Updated Broken Links, made relative to top-level folder thus enabling to be moved when consistent plugins are used. Merged Pathfinder 2E into TTRPGShare Pathfinder Vault.
 - 2023-02-21: CLI Enabled Initial Load onto Share out of Testing Mode
 
 ## Legal Disclaimer
 
- __"The Obsidian TTRPG Community uses trademarks and/or copyrights owned by Paizo Inc., used under Paizo's Community Use Policy ([paizo.com/communityuse](http://paizo.com/communityuse)). We are expressly prohibited from charging you to use or access this content. __Obsidian TTRPG Community__ is not published, endorsed, or specifically approved by Paizo. For more information about Paizo Inc. and Paizo products, visit [paizo.com](http://paizo.com/).
+> "The Obsidian TTRPG Community uses trademarks and/or copyrights owned by Paizo Inc., used under [Paizo's Community Use Policy](http://paizo.com/communityuse). 
+>
+> We are expressly prohibited from charging you to use or access this content. __Obsidian TTRPG Community__ is not published, endorsed, or specifically approved by Paizo. 
+>
+> For more information about Paizo Inc. and Paizo products, visit [paizo.com](http://paizo.com/).

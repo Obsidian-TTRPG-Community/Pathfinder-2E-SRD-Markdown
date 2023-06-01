@@ -1,3 +1,8 @@
+---
+aliases: 
+tags: 
+obsidianUIMode: preview
+---
 ```statblock
 columns: 2
 forcecolumns: true
