@@ -1,4 +1,5 @@
 ---
+obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Lifeleecher Brawler"
 tags: 

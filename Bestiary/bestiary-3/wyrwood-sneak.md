@@ -1,4 +1,5 @@
 ---
+obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Wyrwood Sneak"
 tags: 

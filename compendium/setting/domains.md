@@ -1,0 +1,268 @@
+---
+obsidianUIMode: preview
+cssclass: pf2e,pf2e-note
+tags:
+- compendium/src/pf2e/crb
+aliases: ["Domains"]
+---
+# Domains  
+
+
+## Air
+_Source: Core Rulebook p. 441_
+
+You can control winds and the weather.
+
+**Spells** [Pushing Gust](compendium/spells/pushing-gust.md), [Disperse Into Air](compendium/spells/disperse-into-air.md)
+
+## Ambition
+_Source: Core Rulebook p. 441_
+
+You strive to keep up with and outpace the competition.
+
+**Spells** [Blind Ambition](compendium/spells/blind-ambition.md), [Competitive Edge](compendium/spells/competitive-edge.md)
+
+## Cities
+_Source: Core Rulebook p. 441_
+
+You have powers over urban environments and denizens.
+
+**Spells** [Face In The Crowd](compendium/spells/face-in-the-crowd.md), [Pulse Of The City](compendium/spells/pulse-of-the-city.md)
+
+## Confidence
+_Source: Core Rulebook p. 441_
+
+You overcome your fear and project pride.
+
+**Spells** [Veil Of Confidence](compendium/spells/veil-of-confidence.md), [Delusional Pride](compendium/spells/delusional-pride.md)
+
+## Creation
+_Source: Core Rulebook p. 441_
+
+You have divine abilities related to crafting and art.
+
+**Spells** [Splash Of Art](compendium/spells/splash-of-art.md), [Artistic Flourish](compendium/spells/artistic-flourish.md)
+
+## Darkness
+_Source: Core Rulebook p. 441_
+
+You operate in the darkness and take away the light.
+
+**Spells** [Cloak Of Shadow](compendium/spells/cloak-of-shadow.md), [Darkened Eyes](compendium/spells/darkened-eyes.md)
+
+## Death
+_Source: Core Rulebook p. 441_
+
+You have the power to end lives and destroy undead.
+
+**Spells** [Death's Call](compendium/spells/deaths-call.md), [Eradicate Undeath](compendium/spells/eradicate-undeath.md)
+
+## Destruction
+_Source: Core Rulebook p. 441_
+
+You are a conduit for divine devastation.
+
+**Spells** [Cry Of Destruction](compendium/spells/cry-of-destruction.md), [Destructive Aura](compendium/spells/destructive-aura.md)
+
+## Dreams
+_Source: Core Rulebook p. 441_
+
+You have the power to enter and manipulate dreams.
+
+**Spells** [Sweet Dream](compendium/spells/sweet-dream.md), [Dreamer's Call](compendium/spells/dreamers-call.md)
+
+## Earth
+_Source: Core Rulebook p. 441_
+
+You control soil and stone.
+
+**Spells** [Hurtling Stone](compendium/spells/hurtling-stone.md), [Localized Quake](compendium/spells/localized-quake.md)
+
+## Family
+_Source: Core Rulebook p. 441_
+
+You aid and protect your family and community more effectively.
+
+**Spells** [Soothing Words](compendium/spells/soothing-words.md), [Unity](compendium/spells/unity.md)
+
+## Fate
+_Source: Core Rulebook p. 441_
+
+You see and understand hidden inevitabilities.
+
+**Spells** [Read Fate](compendium/spells/read-fate.md), [Tempt Fate](compendium/spells/tempt-fate.md)
+
+## Fire
+_Source: Core Rulebook p. 441_
+
+You control flame.
+
+**Spells** [Fire Ray](compendium/spells/fire-ray.md), [Flame Barrier](compendium/spells/flame-barrier.md)
+
+## Freedom
+_Source: Core Rulebook p. 441_
+
+You liberate yourself and others from shackles and constraints.
+
+**Spells** [Unimpeded Stride](compendium/spells/unimpeded-stride.md), [Word Of Freedom](compendium/spells/word-of-freedom.md)
+
+## Healing
+_Source: Core Rulebook p. 441_
+
+Your healing magic is particularly potent.
+
+**Spells** [Healer's Blessing](compendium/spells/healers-blessing.md), [Rebuke Death](compendium/spells/rebuke-death.md)
+
+## Indulgence
+_Source: Core Rulebook p. 441_
+
+You feast mightily and can shake off the effects of overindulging.
+
+**Spells** [Overstuff](compendium/spells/overstuff.md), [Take Its Course](compendium/spells/take-its-course.md)
+
+## Knowledge
+_Source: Core Rulebook p. 441_
+
+You receive divine insights.
+
+**Spells** [Scholarly Recollection](compendium/spells/scholarly-recollection.md), [Know The Enemy](compendium/spells/know-the-enemy.md)
+
+## Luck
+_Source: Core Rulebook p. 441_
+
+You're unnaturally lucky and keep out of harm's way.
+
+**Spells** [Bit Of Luck](compendium/spells/bit-of-luck.md), [Lucky Break](compendium/spells/lucky-break.md)
+
+## Magic
+_Source: Core Rulebook p. 441_
+
+You perform the unexpected and inexplicable.
+
+**Spells** [Magic's Vessel](compendium/spells/magics-vessel.md), [Mystic Beacon](compendium/spells/mystic-beacon.md)
+
+## Might
+_Source: Core Rulebook p. 441_
+
+Your physical power is bolstered by divine strength.
+
+**Spells** [Athletic Rush](compendium/spells/athletic-rush.md), [Enduring Might](compendium/spells/enduring-might.md)
+
+## Moon
+_Source: Core Rulebook p. 441_
+
+You command powers associated with the moon.
+
+**Spells** [Moonbeam](compendium/spells/moonbeam.md), [Touch Of The Moon](compendium/spells/touch-of-the-moon.md)
+
+## Nature
+_Source: Core Rulebook p. 441_
+
+You hold power over animals and plants.
+
+**Spells** [Vibrant Thorns](compendium/spells/vibrant-thorns.md), [Nature's Bounty](compendium/spells/natures-bounty.md)
+
+## Nightmares
+_Source: Core Rulebook p. 441_
+
+You fill minds with horror and dread.
+
+**Spells** [Waking Nightmare](compendium/spells/waking-nightmare.md), [Shared Nightmare](compendium/spells/shared-nightmare.md)
+
+## Pain
+_Source: Core Rulebook p. 441_
+
+You punish those who displease you with the sharp sting of pain.
+
+**Spells** [Savor The Sting](compendium/spells/savor-the-sting.md), [Retributive Pain](compendium/spells/retributive-pain.md)
+
+## Passion
+_Source: Core Rulebook p. 441_
+
+You evoke passion, whether as love or lust.
+
+**Spells** [Charming Touch](compendium/spells/charming-touch.md), [Captivating Adoration](compendium/spells/captivating-adoration.md)
+
+## Perfection
+_Source: Core Rulebook p. 441_
+
+You strive to perfect your mind, body, and spirit.
+
+**Spells** [Perfected Mind](compendium/spells/perfected-mind.md), [Perfected Form](compendium/spells/perfected-form.md)
+
+## Protection
+_Source: Core Rulebook p. 441_
+
+You ward yourself and others.
+
+**Spells** [Protector's Sacrifice](compendium/spells/protectors-sacrifice.md), [Protector's Sphere](compendium/spells/protectors-sphere.md)
+
+## Secrecy
+_Source: Core Rulebook p. 441_
+
+You protect secrets and keep them hidden.
+
+**Spells** [Forced Quiet](compendium/spells/forced-quiet.md), [Safeguard Secret](compendium/spells/safeguard-secret.md)
+
+## Sun
+_Source: Core Rulebook p. 441_
+
+You harness the power of the sun and other light sources, and punish undead.
+
+**Spells** [Dazzling Flash](compendium/spells/dazzling-flash.md), [Positive Luminance](compendium/spells/positive-luminance.md)
+
+## Travel
+_Source: Core Rulebook p. 441_
+
+You have power over movement and journeys.
+
+**Spells** [Agile Feet](compendium/spells/agile-feet.md), [Traveler's Transit](compendium/spells/travelers-transit.md)
+
+## Trickery
+_Source: Core Rulebook p. 441_
+
+You deceive others and cause mischief.
+
+**Spells** [Sudden Shift](compendium/spells/sudden-shift.md), [Trickster's Twin](compendium/spells/tricksters-twin.md)
+
+## Truth
+_Source: Core Rulebook p. 441_
+
+You pierce lies and discover the truth.
+
+**Spells** [Word Of Truth](compendium/spells/word-of-truth.md), [Glimpse The Truth](compendium/spells/glimpse-the-truth.md)
+
+## Tyranny
+_Source: Core Rulebook p. 441_
+
+You wield power to rule and enslave others.
+
+**Spells** [Touch Of Obedience](compendium/spells/touch-of-obedience.md), [Commanding Lash](compendium/spells/commanding-lash.md)
+
+## Undeath
+_Source: Core Rulebook p. 441_
+
+Your magic carries close ties to the undead.
+
+**Spells** [Touch Of Undeath](compendium/spells/touch-of-undeath.md), [Malignant Sustenance](compendium/spells/malignant-sustenance.md)
+
+## Water
+_Source: Core Rulebook p. 441_
+
+You control water and bodies of water.
+
+**Spells** [Tidal Surge](compendium/spells/tidal-surge.md), [Downpour](compendium/spells/downpour.md)
+
+## Wealth
+_Source: Core Rulebook p. 441_
+
+You hold power over wealth, trade, and treasure.
+
+**Spells** [Appearance Of Wealth](compendium/spells/appearance-of-wealth.md), [Precious Metals](compendium/spells/precious-metals.md)
+
+## Zeal
+_Source: Core Rulebook p. 441_
+
+Your inner fire increases your combat prowess.
+
+**Spells** [Weapon Surge](compendium/spells/weapon-surge.md), [Zeal For Battle](compendium/spells/zeal-for-battle.md)
