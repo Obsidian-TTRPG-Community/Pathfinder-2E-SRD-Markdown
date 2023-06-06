@@ -7,6 +7,7 @@ tags:
 - compendium/src/pf2e/av3
 - compendium/src/pf2e/bl6
 - compendium/src/pf2e/logm
+- compendium/src/pf2e/aoe5
 aliases: ["Domains"]
 ---
 # Domains  
@@ -226,6 +227,13 @@ _Source: Core Rulebook p. 441_
 You command powers associated with the moon.
 
 **Spells** [Moonbeam](compendium/spells/moonbeam.md), [Touch Of The Moon](compendium/spells/touch-of-the-moon.md)
+
+## Naga
+_Source: Agents of Edgewatch #5: Belly of the Black Whale p. 441_
+
+Like the serpentine nagas, you're in tune with cosmic forces that Ravithra once controlled.
+
+**Spells** [Split The Tongue](compendium/spells/split-the-tongue-aoe5.md), [Ordained Purpose](compendium/spells/ordained-purpose-aoe5.md)
 
 ## Nature
 _Source: Core Rulebook p. 441_

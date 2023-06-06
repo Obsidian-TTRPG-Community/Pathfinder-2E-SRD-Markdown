@@ -15,7 +15,7 @@ You draw your weapon and attack with the same motion. You [Interact](rules/actio
 
 ## Quick Draw (Rogue) leads to...
 
-Subtle Shank
+[Subtle Shank](compendium/feats/subtle-shank-aoe3.md)
 
 ## Summary
 

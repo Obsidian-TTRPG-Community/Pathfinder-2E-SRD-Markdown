@@ -169,6 +169,7 @@ cssclass: pf2e,pf2e-index
 - [Ragdya](ragdya-logm.md)
 - [Ranginori](ranginori-logm.md)
 - [Raumya](raumya-logm.md)
+- [Ravithra](ravithra-aoe5.md)
 - [Rovagug](rovagug.md)
 - [Sairazul](sairazul-logm.md)
 - [Saloc](saloc-logm.md)
