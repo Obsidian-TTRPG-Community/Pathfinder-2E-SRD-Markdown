@@ -14,7 +14,7 @@ Your ancestors spent their days cloaked and cradled in illusions, and as a resul
 
 ## Illusion Sense leads to...
 
-Intuitive Illusions, Natural Illusionist
+[Intuitive Illusions](compendium/feats/intuitive-illusions-locg.md), [Natural Illusionist](compendium/feats/natural-illusionist-locg.md)
 
 ## Summary
 

@@ -20,7 +20,7 @@ You can use Wall Jump only once in a turn, unless you're legendary in [Athletics
 
 ## Wall Jump leads to...
 
-Ricocheting Leap
+[Ricocheting Leap](compendium/feats/ricocheting-leap-lome.md)
 
 ## Summary
 

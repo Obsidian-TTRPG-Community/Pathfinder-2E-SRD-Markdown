@@ -16,7 +16,7 @@ If you have the [Stonecunning](compendium/feats/stonecunning.md) dwarf ancestry 
 
 ## Stonewalker leads to...
 
-Stonegate
+[Stonegate](compendium/feats/stonegate-apg.md)
 
 ## Summary
 

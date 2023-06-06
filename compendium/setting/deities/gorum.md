@@ -12,13 +12,13 @@ tags:
 - trait/versatile-p
 aliases: ["Gorum", "Our Lord in Iron"]
 ---
-# Gorum (Our Lord in Iron) *(CN)*  
+# Gorum (Our Lord in Iron) *([CN](rules/traits/chaotic-neutral-b1.md))*  
 *Source: Core Rulebook p. 438*  
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: kill prisoners or surrendering foes, prevent conflict through negotiation, win a battle through underhanded tactics or indirect magic
 - **Areas of Concern**: battle, , strength, , and weapons
-- **Follower Alignments**: CN, CE
+- **Follower Alignments**: [CN](rules/traits/chaotic-neutral-b1.md), [CE](rules/traits/chaotic-evil-b1.md)
 
 ## Devotee benefits
 

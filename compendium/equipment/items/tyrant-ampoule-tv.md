@@ -1,0 +1,22 @@
+---
+obsidianUIMode: preview
+cssclass: pf2e,pf2e-item
+tags:
+- compendium/src/pf2e/tv
+- item/category/consumable
+- trait/alchemical
+- trait/consumable
+- trait/expandable
+aliases: ["Tyrant Ampoule"]
+---
+# Tyrant Ampoule *Item 10*  
+[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [expandable](rules/traits/expandable-tv.md)  
+
+- **Price** 175 gp
+- **Usage** held in 1 hand; **Bulk** L
+- **Activate** [Interact](rules/actions/interact.md)
+- **Category** Consumable
+
+The body of a fearsome tyrannosaurus is shrunken and contained in this bottle, its desiccated form barely constrained within the glass. The effigy of a Gargantuan tyrannosaurus forms when you open the bottle, causing devastation as it rampages. The tyrannosaurus Strides up to 40 feet. It can move through the spaces of Huge or smaller creatures and can attempt to Trample each creature whose space it enters, dealing `2d10+12` bludgeoning damage with a DC 27 basic Reflex save. It can attempt to Trample each creature only once.
+
+*Source: Treasure Vault p. 57*

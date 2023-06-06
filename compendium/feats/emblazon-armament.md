@@ -18,7 +18,7 @@ Carefully etching a sacred image into a physical object, you steel yourself for 
 
 ## Emblazon Armament leads to...
 
-[Emblazon Antimagic](compendium/feats/emblazon-antimagic.md), [Emblazon Energy](compendium/feats/emblazon-energy.md), Emblazon Divinity
+[Emblazon Antimagic](compendium/feats/emblazon-antimagic.md), [Emblazon Energy](compendium/feats/emblazon-energy.md), [Emblazon Divinity](compendium/feats/emblazon-divinity-aoa6.md)
 
 ## Summary
 

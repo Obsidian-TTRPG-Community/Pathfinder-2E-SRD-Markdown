@@ -17,13 +17,13 @@ tags:
 - trait/thrown-60-feet
 aliases: ["Desna", "The Song of the Spheres"]
 ---
-# Desna (The Song of the Spheres) *(CG)*  
+# Desna (The Song of the Spheres) *([CG](rules/traits/chaotic-good-b1.md))*  
 *Source: Core Rulebook p. 438*  
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: cause fear or despair, cast [nightmare](compendium/spells/nightmare.md) or use similar magic to corrupt dreams, engage in bigoted behavior
 - **Areas of Concern**: dreams, , luck, , star, , and travelers
-- **Follower Alignments**: NG, CG, CN
+- **Follower Alignments**: [NG](rules/traits/neutral-good-b1.md), [CG](rules/traits/chaotic-good-b1.md), [CN](rules/traits/chaotic-neutral-b1.md)
 
 ## Devotee benefits
 

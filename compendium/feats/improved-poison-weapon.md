@@ -15,7 +15,7 @@ You deliver poisons in ways that maximize their harmful effects. When you apply 
 
 ## Improved Poison Weapon leads to...
 
-Deadly Poison Weapon
+[Deadly Poison Weapon](compendium/feats/deadly-poison-weapon-aoa5.md)
 
 ## Summary
 

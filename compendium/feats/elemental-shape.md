@@ -15,7 +15,7 @@ You understand the fundamental elements of nature such that you can imbue them i
 
 ## Elemental Shape leads to...
 
-Reactive Transformation
+[Reactive Transformation](compendium/feats/reactive-transformation-apg.md)
 
 ## Summary
 

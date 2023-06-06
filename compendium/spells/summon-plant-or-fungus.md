@@ -15,7 +15,7 @@ aliases: ["Summon Plant Or Fungus"]
 - **Range**30 foot
 - **Duration**sustained up to 1 minute
 
-You conjure a plant or fungus to fight for you. This works like [summon animal](compendium/spells/summon-animal.md), except you summon a common creature that has the [plant](rules/traits/plant.md) or fungus trait and whose level is –1.
+You conjure a plant or fungus to fight for you. This works like [summon animal](compendium/spells/summon-animal.md), except you summon a common creature that has the [plant](rules/traits/plant.md) or [fungus](rules/traits/fungus-b1.md) trait and whose level is –1.
 
 **Heightened (2nd)** Level 1.
 

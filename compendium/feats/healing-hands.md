@@ -15,7 +15,7 @@ Your positive energy is even more vibrant and restorative. When you cast [heal](
 
 ## Healing Hands leads to...
 
-Magic Hands
+[Magic Hands](compendium/feats/magic-hands-apg.md)
 
 ## Summary
 

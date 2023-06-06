@@ -16,7 +16,7 @@ You know about life on the streets and feel the pulse of your local settlement. 
 
 ## Streetwise leads to...
 
-Criminal Connections, Underground Network
+[Criminal Connections](compendium/feats/criminal-connections-apg.md), [Underground Network](compendium/feats/underground-network-apg.md)
 
 ## Summary
 

@@ -15,7 +15,7 @@ You learn a mystical stance that lets you attack from a distance. You gain the [
 
 ## Wild Winds Initiate leads to...
 
-[Wild Winds Gust](compendium/feats/wild-winds-gust.md), Electric Counter
+[Wild Winds Gust](compendium/feats/wild-winds-gust.md), [Electric Counter](compendium/feats/electric-counter-frp2.md)
 
 ## Summary
 

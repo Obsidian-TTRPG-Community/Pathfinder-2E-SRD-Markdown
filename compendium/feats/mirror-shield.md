@@ -17,7 +17,7 @@ You reflect the spell back against the triggering opponent. Make a ranged attack
 
 ## Mirror Shield leads to...
 
-Reflecting Riposte
+[Reflecting Riposte](compendium/feats/reflecting-riposte-ec6.md)
 
 ## Summary
 

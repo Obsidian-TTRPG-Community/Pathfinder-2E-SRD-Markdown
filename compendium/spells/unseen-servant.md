@@ -21,5 +21,7 @@ You summon an unseen servant, which you can command as part of [Sustaining the S
 > 
 > Use this stat block for unseen servant.
 > 
+> !Unseen Servant
+> 
 
 *Source: Core Rulebook p. 380*

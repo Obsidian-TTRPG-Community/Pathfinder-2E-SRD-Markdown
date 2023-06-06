@@ -1,0 +1,17 @@
+---
+obsidianUIMode: preview
+cssclass: pf2e,pf2e-item
+tags:
+- compendium/src/pf2e/tv
+- item/category/ammunition
+aliases: ["8-Round Magazine"]
+---
+# 8-Round Magazine *Item 0*  
+
+- **Price** 2 sp
+- **Bulk** L
+- **Category** Ammunition
+
+
+
+*Source: Treasure Vault p. 30*

@@ -15,7 +15,7 @@ You can transform into a powerful magical creature. Add the purple worm and sea 
 
 ## Monstrosity Shape leads to...
 
-Heart Of The Kaiju
+[Heart Of The Kaiju](compendium/feats/heart-of-the-kaiju-frp3.md)
 
 ## Summary
 

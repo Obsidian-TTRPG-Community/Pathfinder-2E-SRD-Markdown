@@ -17,7 +17,7 @@ Fierceness in battle runs through your blood, and you refuse to fall from your i
 
 ## Orc Ferocity leads to...
 
-[Incredible Ferocity](compendium/feats/incredible-ferocity.md), Ferocious Beasts, Rampaging Ferocity, Undying Ferocity, Defy Death
+[Incredible Ferocity](compendium/feats/incredible-ferocity.md), [Ferocious Beasts](compendium/feats/ferocious-beasts-apg.md), [Rampaging Ferocity](compendium/feats/rampaging-ferocity-apg.md), [Undying Ferocity](compendium/feats/undying-ferocity-apg.md), [Defy Death](compendium/feats/defy-death-loag.md)
 
 ## Summary
 

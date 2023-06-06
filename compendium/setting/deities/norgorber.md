@@ -14,13 +14,13 @@ tags:
 - trait/versatile-s
 aliases: ["Norgorber", "Blackfingers", "Father Skinsaw", "Gray Master", "Reaper of Reputation"]
 ---
-# Norgorber (Blackfingers, Father Skinsaw, Gray Master, Reaper of Reputation) *(NE)*  
+# Norgorber (Blackfingers, Father Skinsaw, Gray Master, Reaper of Reputation) *([NE](rules/traits/neutral-evil-b1.md))*  
 *Source: Core Rulebook p. 439*  
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: allow your true identity to be connected to your dark dealings, share a secret freely, show mercy
 - **Areas of Concern**: greed, , murder, , poison, , and secrets
-- **Follower Alignments**: LE, NE, CE, N
+- **Follower Alignments**: [LE](rules/traits/lawful-evil-b1.md), [NE](rules/traits/neutral-evil-b1.md), [CE](rules/traits/chaotic-evil-b1.md), [N](rules/traits/neutral-b1.md)
 
 ## Devotee benefits
 

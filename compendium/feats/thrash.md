@@ -17,7 +17,7 @@ You thrash the [grabbed](rules/conditions.md#Grabbed) foe around. It takes bludg
 
 ## Thrash leads to...
 
-[Collateral Thrash](compendium/feats/collateral-thrash.md), Whirlwind Toss
+[Collateral Thrash](compendium/feats/collateral-thrash.md), [Whirlwind Toss](compendium/feats/whirlwind-toss-frp3.md)
 
 ## Summary
 

@@ -20,7 +20,7 @@ You can patch up yourself or an adjacent ally, even in combat. Attempt a [Medici
 
 ## Battle Medicine leads to...
 
-Medic Dedication, Doctor's Visitation, Resuscitate, Treat Condition, Holistic Care, Preventative Treatment, Godless Healing, Mortal Healing, Paragon Battle Medicine
+[Medic Dedication](compendium/feats/medic-dedication-apg.md), [Doctor's Visitation](compendium/feats/doctors-visitation-apg.md), [Resuscitate](compendium/feats/resuscitate-apg.md), [Treat Condition](compendium/feats/treat-condition-apg.md), [Holistic Care](compendium/feats/holistic-care-apg.md), [Preventative Treatment](compendium/feats/preventative-treatment-lokl.md), [Godless Healing](compendium/feats/godless-healing-lowg.md), [Mortal Healing](compendium/feats/mortal-healing-logm.md), [Paragon Battle Medicine](compendium/feats/paragon-battle-medicine-lol.md)
 
 ## Summary
 

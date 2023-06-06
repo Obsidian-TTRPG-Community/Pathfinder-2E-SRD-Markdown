@@ -16,13 +16,13 @@ tags:
 - trait/versatile-electricity
 aliases: ["Gozreh", "The Wind and the Waves"]
 ---
-# Gozreh (The Wind and the Waves) *(N)*  
+# Gozreh (The Wind and the Waves) *([N](rules/traits/neutral-b1.md))*  
 *Source: Core Rulebook p. 438*  
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: bring civilization to intrude on the wild, create undead, despoil areas of natural beauty
 - **Areas of Concern**: nature, , the sea, , the weather
-- **Follower Alignments**: NG, LN, N, CN, NE
+- **Follower Alignments**: [NG](rules/traits/neutral-good-b1.md), [LN](rules/traits/lawful-neutral-b1.md), [N](rules/traits/neutral-b1.md), [CN](rules/traits/chaotic-neutral-b1.md), [NE](rules/traits/neutral-evil-b1.md)
 
 ## Devotee benefits
 

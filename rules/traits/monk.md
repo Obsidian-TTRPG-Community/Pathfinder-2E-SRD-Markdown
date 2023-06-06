@@ -11,5 +11,6 @@ aliases: ["Monk"]
 
 This indicates abilities from the monk class.
 
+Abilities with this trait are from the monk class. Weapons with this trait are primarily used by monks. CR.
 
 - **Categories**: Class

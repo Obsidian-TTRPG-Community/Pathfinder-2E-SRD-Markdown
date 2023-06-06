@@ -16,7 +16,7 @@ Your performances inspire admiration and win you fans. You can [Make an Impressi
 
 ## Impressive Performance leads to...
 
-Gladiator Dedication, Fancy Moves, Performative Weapons Training, Play To The Crowd, Call Your Shot, Stage Fighting
+[Gladiator Dedication](compendium/feats/gladiator-dedication-apg.md), [Fancy Moves](compendium/feats/fancy-moves-apg.md), [Performative Weapons Training](compendium/feats/performative-weapons-training-apg.md), [Play To The Crowd](compendium/feats/play-to-the-crowd-apg.md), [Call Your Shot](compendium/feats/call-your-shot-apg.md), [Stage Fighting](compendium/feats/stage-fighting-apg.md)
 
 ## Summary
 

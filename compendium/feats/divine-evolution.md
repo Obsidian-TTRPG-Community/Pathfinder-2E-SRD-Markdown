@@ -16,7 +16,7 @@ The divine might provided by your bloodline flows through you. You gain an addit
 
 ## Divine Evolution leads to...
 
-[Greater Vital Evolution](compendium/feats/greater-vital-evolution.md), Greater Spiritual Evolution
+[Greater Vital Evolution](compendium/feats/greater-vital-evolution.md), [Greater Spiritual Evolution](compendium/feats/greater-spiritual-evolution-apg.md)
 
 ## Summary
 

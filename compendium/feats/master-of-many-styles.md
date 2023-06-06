@@ -17,7 +17,7 @@ You move between stances in an unceasing dance. You use an action with the [stan
 
 ## Master Of Many Styles leads to...
 
-Ki Center
+[Ki Center](compendium/feats/ki-center-apg.md)
 
 ## Summary
 

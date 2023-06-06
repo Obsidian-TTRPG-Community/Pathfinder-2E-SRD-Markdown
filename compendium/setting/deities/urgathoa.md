@@ -16,13 +16,13 @@ tags:
 - trait/trip
 aliases: ["Urgathoa", "Pallid Princess"]
 ---
-# Urgathoa (Pallid Princess) *(NE)*  
+# Urgathoa (Pallid Princess) *([NE](rules/traits/neutral-evil-b1.md))*  
 *Source: Core Rulebook p. 440*  
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: deny your appetites, destroy undead, sacrifice your life
 - **Areas of Concern**: disease, , gluttony, , and undeath
-- **Follower Alignments**: LE, NE, CE
+- **Follower Alignments**: [LE](rules/traits/lawful-evil-b1.md), [NE](rules/traits/neutral-evil-b1.md), [CE](rules/traits/chaotic-evil-b1.md)
 
 ## Devotee benefits
 
@@ -48,7 +48,7 @@ title: [Avatar](compendium/spells/avatar.md) of Urgathoa
 Urgathoa interferes in mortal affairs to fuel her own self-gratification and obsession with observing new sensations.
 
 - **Minor Boon** You feast on the spoils of life and death. You gain the benefits of the irongut Goblin heritage, regardless of your ancestry. If you already have this heritage, the circumstance bonus increases to +4.
-- **Moderate Boon**: Urgathoa blesses you as one of her children. You gain negative healing.
+- **Moderate Boon**: Urgathoa blesses you as one of her children. You gain [negative healing](rules/abilities/negative-healing-b2.md).
 - **Major Boon**: When you contract contagions, you experience fever dreams filled with insight. Once afflicted with a disease, you gain the effects of [foresight](compendium/spells/foresight.md) with yourself as the target until no longer afflicted with any disease.
 
 - **Minor Curse**: You must overindulge or partake in forbidden feasts before you find yourself even remotely sated. You need to eat 20 times as much food as normal to avoid starvation, though you always feel hungry regardless of how much you eat. If you dine on the flesh and blood of sapient creatures, you need to eat only the normal amount of such meals and your hunger abates.

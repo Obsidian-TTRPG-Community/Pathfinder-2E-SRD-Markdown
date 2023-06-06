@@ -16,7 +16,7 @@ You make a dazzling series of attacks with both weapons, using the first attack 
 
 ## Twin Feint leads to...
 
-Twin Distraction
+[Twin Distraction](compendium/feats/twin-distraction-apg.md)
 
 ## Summary
 

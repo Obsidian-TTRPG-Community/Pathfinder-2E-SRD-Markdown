@@ -16,13 +16,13 @@ tags:
 - trait/trip
 aliases: ["Zon-Kuthon", "Midnight Lord"]
 ---
-# Zon-Kuthon (Midnight Lord) *(LE)*  
+# Zon-Kuthon (Midnight Lord) *([LE](rules/traits/lawful-evil-b1.md))*  
 *Source: Core Rulebook p. 440*  
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: create permanent or long-lasting sources of light, provide comfort to those who suffer
 - **Areas of Concern**: darkness, , envy, , loss, , and pain
-- **Follower Alignments**: LN, LE, NE
+- **Follower Alignments**: [LN](rules/traits/lawful-neutral-b1.md), [LE](rules/traits/lawful-evil-b1.md), [NE](rules/traits/neutral-evil-b1.md)
 
 ## Devotee benefits
 

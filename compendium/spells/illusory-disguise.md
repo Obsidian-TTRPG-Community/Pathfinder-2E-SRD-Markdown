@@ -19,7 +19,7 @@ You create an illusion that causes you to appear as another creature of the same
 
 Casting illusory disguise counts as setting up a disguise for the [Impersonate](rules/actions/impersonate.md) use of [Deception](compendium/skills.md#Deception); it ignores any circumstance penalties you might take for disguising yourself as a dissimilar creature, it gives you a +4 status bonus to [Deception](compendium/skills.md#Deception) checks to prevent others from seeing through your disguise, and you add your level even if you're untrained. You can [Dismiss](rules/actions/dismiss.md) this spell.
 
-**Heightened (2nd)** The spell also disguises your voice and [scent](rules/abilities/scent.md), and it gains the [auditory](rules/traits/auditory.md) and olfactory traits.
+**Heightened (2nd)** The spell also disguises your voice and [scent](rules/abilities/scent.md), and it gains the [auditory](rules/traits/auditory.md) and [olfactory](rules/traits/olfactory-b1.md) traits.
 
 **Heightened (3rd)** You can appear as any creature of the same size, even a specific individual. You must have seen an individual to take on their appearance. The spell also disguises your voice and [scent](rules/abilities/scent.md), and it gains the [auditory](rules/traits/auditory.md) trait.
 

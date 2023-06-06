@@ -6,13 +6,13 @@ tags:
 - deity/philosophy
 aliases: ["Prophecies of Kalistrade"]
 ---
-# Prophecies of Kalistrade *(LN)*  
+# Prophecies of Kalistrade *([LN](rules/traits/lawful-neutral-b1.md))*  
 *Source: Core Rulebook p. 440*  
 
 - **Category**: Philosophy
 - **Anathema**: spend money frivolously; offer money to those who don't deserve wealth; overindulge in physical pleasures, food, or drink; give charity to others
 - **Areas of Concern**: trade, , wealth, , self-denial, , stability
-- **Follower Alignments**: LG, LN, LE
+- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [LN](rules/traits/lawful-neutral-b1.md), [LE](rules/traits/lawful-evil-b1.md)
 
 ## Devotee benefits
 
