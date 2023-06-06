@@ -13,7 +13,7 @@ aliases: ["Crimson Shroud"]
 [archetype](rules/traits/archetype.md)  [healing](rules/traits/healing.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  
 
 - **Prerequisites**: [Red Mantis Assassin Dedication](compendium/feats/red-mantis-assassin-dedication-lowg.md)
-- **Frequency**: A number of times per day equal to your number of class feats from the Red Mantis assassin archetype
+- **Frequency**: A number of times per day equal to your number of class feats from the [Red Mantis assassin](compendium/character/archetypes/red-mantis-assassin-aoe3.md) archetype
 - **Activity** Single Action
 
 You swathe yourself in a veil of red mist for 1 minute. While the shroud is active, you gain fast healing equal to half your level.

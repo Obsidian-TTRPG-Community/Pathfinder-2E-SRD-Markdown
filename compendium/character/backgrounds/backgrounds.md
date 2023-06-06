@@ -93,6 +93,7 @@ cssclass: pf2e,pf2e-index
 - [Grizzled Muckrucker](grizzled-muckrucker-aoe0.md)
 - [Guard](guard.md)
 - [Harbor Guard Moonlighter](harbor-guard-moonlighter-aoe0.md)
+- [Harrow-led](harrow-led-aoe4.md)
 - [Haunted](haunted-apg.md)
 - [Haunted Citizen](haunted-citizen-botd.md)
 - [Haunting Vision](haunting-vision-aoa0.md)
