@@ -14,7 +14,7 @@ You move more quickly on foot. Your Speed increases by 5 feet.
 
 ## Fleet leads to...
 
-Skitter
+[Skitter](compendium/feats/skitter-apg.md)
 
 ## Summary
 

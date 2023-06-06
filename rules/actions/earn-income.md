@@ -33,3 +33,5 @@ You can continue working at the task on subsequent days without needing to roll 
 > - **Expert** curate drink selection, present minor court cases
 > - **Master** run a large brewery, present important court cases
 > - **Legendary** run an international brewing franchise, present a case in Hell's courts
+
+![EARN INCOME TASKS](rules/tables/earn-income-tasks-gmg.md)

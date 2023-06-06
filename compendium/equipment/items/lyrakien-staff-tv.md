@@ -1,0 +1,26 @@
+---
+obsidianUIMode: preview
+cssclass: pf2e,pf2e-item
+tags:
+- compendium/src/pf2e/tv
+- item/category/staff
+- trait/evocation
+- trait/magical
+- trait/staff
+aliases: ["Lyrakien Staff"]
+---
+# Lyrakien Staff *Item 6+*  
+[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [staff](rules/traits/staff.md)  
+
+- **Usage** held in 1 hand; **Bulk** 1
+- **Category** Staff
+
+A crystalline sphere, swirling with constantly shifting constellations, sits atop a lyrakien staff, a silver shaft that sparkles with the gentle glow of starlight. Desnans first created the staves, inspired by the music- and freedom-loving lyrakien azatas, but these staves are popular with spellcasters of all faiths who like travel, art, or the stars. While wielding a lyrakien staff, you gain a +1 circumstance bonus on saving throws against [incapacitation](rules/traits/incapacitation.md) effects.
+
+```ad-embed-ability
+title: Activate
+
+You expend a number of charges from the staff to cast a spell from its list.
+```
+
+*Source: Treasure Vault p. 133*

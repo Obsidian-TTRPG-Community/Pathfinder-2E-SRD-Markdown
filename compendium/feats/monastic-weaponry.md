@@ -14,7 +14,7 @@ You have trained with the traditional weaponry of your monastery or school. You 
 
 ## Monastic Weaponry leads to...
 
-Ancestral Weaponry, Peafowl Stance, Peafowl Strut, Shooting Stars Stance, Whirling Blade Stance
+[Ancestral Weaponry](compendium/feats/ancestral-weaponry-apg.md), [Peafowl Stance](compendium/feats/peafowl-stance-apg.md), [Peafowl Strut](compendium/feats/peafowl-strut-apg.md), [Shooting Stars Stance](compendium/feats/shooting-stars-stance-apg.md), [Whirling Blade Stance](compendium/feats/whirling-blade-stance-apg.md)
 
 ## Summary
 

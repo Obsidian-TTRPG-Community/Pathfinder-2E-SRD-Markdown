@@ -15,7 +15,7 @@ You steep yourself in superstition and practice ancient orc mental exercises for
 
 ## Pervasive Superstition leads to...
 
-Spell Devourer
+[Spell Devourer](compendium/feats/spell-devourer-apg.md)
 
 ## Summary
 

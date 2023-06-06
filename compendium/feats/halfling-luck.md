@@ -18,7 +18,7 @@ Your happy-go-lucky nature makes it seem like misfortune avoids you, and to an e
 
 ## Halfling Luck leads to...
 
-[Guiding Luck](compendium/feats/guiding-luck.md), Halfling Ingenuity, Incredible Luck, Shared Luck
+[Guiding Luck](compendium/feats/guiding-luck.md), [Halfling Ingenuity](compendium/feats/halfling-ingenuity-locg.md), [Incredible Luck](compendium/feats/incredible-luck-locg.md), [Shared Luck](compendium/feats/shared-luck-locg.md)
 
 ## Summary
 

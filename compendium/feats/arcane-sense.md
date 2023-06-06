@@ -16,7 +16,7 @@ Your study of magic allows you to instinctively sense its presence. You can cast
 
 ## Arcane Sense leads to...
 
-Eye Of The Arclords
+[Eye Of The Arclords](compendium/feats/eye-of-the-arclords-lowg.md)
 
 ## Summary
 

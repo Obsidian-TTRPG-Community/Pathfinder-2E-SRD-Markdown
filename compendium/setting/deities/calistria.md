@@ -14,13 +14,13 @@ tags:
 - trait/reach-20-feet
 aliases: ["Calistria", "The Savored Sting"]
 ---
-# Calistria (The Savored Sting) *(CN)*  
+# Calistria (The Savored Sting) *([CN](rules/traits/chaotic-neutral-b1.md))*  
 *Source: Core Rulebook p. 437*  
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: become too consumed by love or a need for revenge, let a slight go unanswered
 - **Areas of Concern**: lust, , revenge, , and trickery
-- **Follower Alignments**: CG, CN, CE
+- **Follower Alignments**: [CG](rules/traits/chaotic-good-b1.md), [CN](rules/traits/chaotic-neutral-b1.md), [CE](rules/traits/chaotic-evil-b1.md)
 
 ## Devotee benefits
 

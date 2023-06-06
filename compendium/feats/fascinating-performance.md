@@ -16,7 +16,7 @@ When you [Perform](rules/actions/perform.md), compare your result to the Will DC
 
 ## Fascinating Performance leads to...
 
-Focused Fascination
+[Focused Fascination](compendium/feats/focused-fascination-apg.md)
 
 ## Summary
 

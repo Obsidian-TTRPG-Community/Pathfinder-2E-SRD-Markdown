@@ -12,5 +12,8 @@ aliases: ["Necromancy"]
 
 Effects and magic items with this trait are associated with the necromancy school of magic, typically involving forces of life and death.
 
+Necromancy spells harness the power of life and death.
+
+They can sap life essence or sustain creatures with life-saving healing. Necromancy spells often have the [curse](rules/traits/curse.md), [death](rules/traits/death.md), [healing](rules/traits/healing.md), [negative](rules/traits/negative.md), or [positive](rules/traits/positive.md) traits.
 
 - **Categories**: School (Necromancy)

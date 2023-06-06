@@ -16,7 +16,7 @@ You can call upon the creatures of the wild for aid. You gain an additional spel
 
 ## Primal Evolution leads to...
 
-[Greater Vital Evolution](compendium/feats/greater-vital-evolution.md), Greater Physical Evolution
+[Greater Vital Evolution](compendium/feats/greater-vital-evolution.md), [Greater Physical Evolution](compendium/feats/greater-physical-evolution-apg.md)
 
 ## Summary
 

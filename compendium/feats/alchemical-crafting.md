@@ -16,7 +16,7 @@ You can use the [Craft](rules/actions/craft.md) activity to create alchemical it
 
 ## Alchemical Crafting leads to...
 
-Assassin Dedication, Angel Of Death, Assassinate, Expert Backstabber, Surprise Attack, Angel of Vindication, Eclipsed Vitality
+[Assassin Dedication](compendium/feats/assassin-dedication-apg.md), [Angel Of Death](compendium/feats/angel-of-death-apg.md), [Assassinate](compendium/feats/assassinate-apg.md), [Expert Backstabber](compendium/feats/expert-backstabber-apg.md), [Surprise Attack](compendium/feats/surprise-attack-apg.md), [Angel of Vindication](compendium/feats/angel-of-vindication-lokl.md), [Eclipsed Vitality](compendium/feats/eclipsed-vitality-lokl.md)
 
 ## Summary
 

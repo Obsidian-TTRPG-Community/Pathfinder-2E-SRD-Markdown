@@ -12,13 +12,13 @@ tags:
 - trait/reach-15-feet
 aliases: ["Cayden Cailean", "The Drunken Hero", "The Accidental God"]
 ---
-# Cayden Cailean (The Drunken Hero, The Accidental God) *(CG)*  
+# Cayden Cailean (The Drunken Hero, The Accidental God) *([CG](rules/traits/chaotic-good-b1.md))*  
 *Source: Core Rulebook p. 437*  
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: waste alcohol, be mean or standoffish when drunk, own a slave
 - **Areas of Concern**: ale, , bravery, , freedom, , and wine
-- **Follower Alignments**: NG, CG, CN
+- **Follower Alignments**: [NG](rules/traits/neutral-good-b1.md), [CG](rules/traits/chaotic-good-b1.md), [CN](rules/traits/chaotic-neutral-b1.md)
 
 ## Devotee benefits
 

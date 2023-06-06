@@ -16,7 +16,7 @@ Glimpses of the obscure secrets of the universe loan you power. You become train
 
 ## Occult Evolution leads to...
 
-[Greater Mental Evolution](compendium/feats/greater-mental-evolution.md), Greater Spiritual Evolution
+[Greater Mental Evolution](compendium/feats/greater-mental-evolution.md), [Greater Spiritual Evolution](compendium/feats/greater-spiritual-evolution-apg.md)
 
 ## Summary
 

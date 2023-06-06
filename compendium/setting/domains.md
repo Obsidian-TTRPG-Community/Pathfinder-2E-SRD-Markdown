@@ -2,11 +2,22 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-note
 tags:
+- compendium/src/pf2e/aoa4
 - compendium/src/pf2e/crb
+- compendium/src/pf2e/av3
+- compendium/src/pf2e/bl6
+- compendium/src/pf2e/logm
 aliases: ["Domains"]
 ---
 # Domains  
 
+
+## Abomination
+_Source: Abomination Vaults #3: Eyes of Empty Death p. 65_
+
+You seek to instill abhorrence and horror in those around you.
+
+**Spells** [Lift Nature's Caul](compendium/spells/lift-natures-caul-av3.md), [Fearful Feast](compendium/spells/fearful-feast-av3.md)
 
 ## Air
 _Source: Core Rulebook p. 441_
@@ -22,12 +33,26 @@ You strive to keep up with and outpace the competition.
 
 **Spells** [Blind Ambition](compendium/spells/blind-ambition.md), [Competitive Edge](compendium/spells/competitive-edge.md)
 
+## Change
+_Source: Lost Omens: Gods & Magic p. 112_
+
+You can restructure the physical and metaphysical.
+
+**Spells** [Adapt Self](compendium/spells/adapt-self-logm.md), [Adaptive Ablation](compendium/spells/adaptive-ablation-logm.md)
+
 ## Cities
 _Source: Core Rulebook p. 441_
 
 You have powers over urban environments and denizens.
 
 **Spells** [Face In The Crowd](compendium/spells/face-in-the-crowd.md), [Pulse Of The City](compendium/spells/pulse-of-the-city.md)
+
+## Cold
+_Source: Lost Omens: Gods & Magic p. 112_
+
+You control ice, snow, and freezing temperatures.
+
+**Spells** [Winter Bolt](compendium/spells/winter-bolt-logm.md), [Diamond Dust](compendium/spells/diamond-dust-logm.md)
 
 ## Confidence
 _Source: Core Rulebook p. 441_
@@ -57,6 +82,20 @@ You have the power to end lives and destroy undead.
 
 **Spells** [Death's Call](compendium/spells/deaths-call.md), [Eradicate Undeath](compendium/spells/eradicate-undeath.md)
 
+## Decay
+_Source: Lost Omens: Gods & Magic p. 112_
+
+You have the power to spoil and deteriorate matter.
+
+**Spells** [Withering Grasp](compendium/spells/withering-grasp-logm.md), [Fallow Field](compendium/spells/fallow-field-logm.md)
+
+## Delirium
+_Source: Lost Omens: Gods & Magic p. 113_
+
+You can bring about hallucinations and restlessness.
+
+**Spells** [Hyperfocus](compendium/spells/hyperfocus-logm.md), [Ephemeral Hazards](compendium/spells/ephemeral-hazards-logm.md)
+
 ## Destruction
 _Source: Core Rulebook p. 441_
 
@@ -70,6 +109,20 @@ _Source: Core Rulebook p. 441_
 You have the power to enter and manipulate dreams.
 
 **Spells** [Sweet Dream](compendium/spells/sweet-dream.md), [Dreamer's Call](compendium/spells/dreamers-call.md)
+
+## Dust
+_Source: Lost Omens: Gods & Magic p. 114_
+
+You have the power to dry and crumble what opposes you.
+
+**Spells** [Parch](compendium/spells/parch-logm.md), [Dust Storm](compendium/spells/dust-storm-logm.md)
+
+## Duty
+_Source: Lost Omens: Gods & Magic p. 114_
+
+You defend oaths and carry out your divine missions with great dedication.
+
+**Spells** [Oathkeeper's Insignia](compendium/spells/oathkeepers-insignia-logm.md), [Dutiful Challenge](compendium/spells/dutiful-challenge-logm.md)
 
 ## Earth
 _Source: Core Rulebook p. 441_
@@ -106,6 +159,13 @@ You liberate yourself and others from shackles and constraints.
 
 **Spells** [Unimpeded Stride](compendium/spells/unimpeded-stride.md), [Word Of Freedom](compendium/spells/word-of-freedom.md)
 
+## Glyph
+_Source: Lost Omens: Gods & Magic p. 114_
+
+You wield power over written words and symbols.
+
+**Spells** [Redact](compendium/spells/redact-logm.md), [Ghostly Transcription](compendium/spells/ghostly-transcription-logm.md)
+
 ## Healing
 _Source: Core Rulebook p. 441_
 
@@ -120,12 +180,24 @@ You feast mightily and can shake off the effects of overindulging.
 
 **Spells** [Overstuff](compendium/spells/overstuff.md), [Take Its Course](compendium/spells/take-its-course.md)
 
+## Introspection
+_Source: Blood Lords #6: Ghost King's Rage p. 73_
+
+You guide others in examining their lives, emotions, and motivations to ultimately become a truer version of themselves—a difficult and often painful process.
+
 ## Knowledge
 _Source: Core Rulebook p. 441_
 
 You receive divine insights.
 
 **Spells** [Scholarly Recollection](compendium/spells/scholarly-recollection.md), [Know The Enemy](compendium/spells/know-the-enemy.md)
+
+## Lightning
+_Source: Lost Omens: Gods & Magic p. 115_
+
+You control electricity, thunder, and storms.
+
+**Spells** [Charged Javelin](compendium/spells/charged-javelin-logm.md), [Bottle The Storm](compendium/spells/bottle-the-storm-logm.md)
 
 ## Luck
 _Source: Core Rulebook p. 441_
@@ -190,12 +262,26 @@ You strive to perfect your mind, body, and spirit.
 
 **Spells** [Perfected Mind](compendium/spells/perfected-mind.md), [Perfected Form](compendium/spells/perfected-form.md)
 
+## Plague
+_Source: Lost Omens: Gods & Magic p. 115_
+
+You wield disease and pestilence like a weapon.
+
+**Spells** [Divine Plagues](compendium/spells/divine-plagues-logm.md), [Foul Miasma](compendium/spells/foul-miasma-logm.md)
+
 ## Protection
 _Source: Core Rulebook p. 441_
 
 You ward yourself and others.
 
 **Spells** [Protector's Sacrifice](compendium/spells/protectors-sacrifice.md), [Protector's Sphere](compendium/spells/protectors-sphere.md)
+
+## Repose
+_Source: Lost Omens: Gods & Magic p. 116_
+
+You ease mental burdens.
+
+**Spells** [Share Burden](compendium/spells/share-burden-logm.md), [Font Of Serenity](compendium/spells/font-of-serenity-logm.md)
 
 ## Secrecy
 _Source: Core Rulebook p. 441_
@@ -204,12 +290,54 @@ You protect secrets and keep them hidden.
 
 **Spells** [Forced Quiet](compendium/spells/forced-quiet.md), [Safeguard Secret](compendium/spells/safeguard-secret.md)
 
+## Sorrow
+_Source: Lost Omens: Gods & Magic p. 116_
+
+You have a painful connection to melancholy and sadness.
+
+**Spells** [Lament](compendium/spells/lament-logm.md), [Overflowing Sorrow](compendium/spells/overflowing-sorrow-logm.md)
+
+## Soul
+_Source: Lost Omens: Gods & Magic p. 117_
+
+You wield power over the spiritual.
+
+**Spells** [Eject Soul](compendium/spells/eject-soul-logm.md), [Ectoplasmic Interstice](compendium/spells/ectoplasmic-interstice-logm.md)
+
+## Star
+_Source: Lost Omens: Gods & Magic p. 117_
+
+You command the power of the stars.
+
+**Spells** [Zenith Star](compendium/spells/zenith-star-logm.md), [Asterism](compendium/spells/asterism-logm.md)
+
 ## Sun
 _Source: Core Rulebook p. 441_
 
 You harness the power of the sun and other light sources, and punish undead.
 
 **Spells** [Dazzling Flash](compendium/spells/dazzling-flash.md), [Positive Luminance](compendium/spells/positive-luminance.md)
+
+## Swarm
+_Source: Lost Omens: Gods & Magic p. 117_
+
+You exert control over masses of creatures.
+
+**Spells** [Swarmsense](compendium/spells/swarmsense-logm.md), [Swarm Form](compendium/spells/swarm-form-logm.md)
+
+## Time
+_Source: Lost Omens: Gods & Magic p. 118_
+
+You reign over the flow of time.
+
+**Spells** [Delay Consequence](compendium/spells/delay-consequence-logm.md), [Stasis](compendium/spells/stasis-logm.md)
+
+## Toil
+_Source: Age of Ashes #4: Fires of the Haunted City p. 63_
+
+You work constantly and refuse to let anything stand in your way.
+
+**Spells** [Practice Makes Perfect](compendium/spells/practice-makes-perfect-aoa4.md), [Tireless Worker](compendium/spells/tireless-worker-aoa4.md)
 
 ## Travel
 _Source: Core Rulebook p. 441_
@@ -246,6 +374,20 @@ Your magic carries close ties to the undead.
 
 **Spells** [Touch Of Undeath](compendium/spells/touch-of-undeath.md), [Malignant Sustenance](compendium/spells/malignant-sustenance.md)
 
+## Vigil
+_Source: Lost Omens: Gods & Magic p. 118_
+
+You watch over those long passed and guard their secrets.
+
+**Spells** [Object Memory](compendium/spells/object-memory-logm.md), [Remember The Lost](compendium/spells/remember-the-lost-logm.md)
+
+## Void
+_Source: Lost Omens: Gods & Magic p. 112_
+
+You draw power from emptiness.
+
+**Spells** [Empty Inside](compendium/spells/empty-inside-logm.md), [Door To Beyond](compendium/spells/door-to-beyond-logm.md)
+
 ## Water
 _Source: Core Rulebook p. 441_
 
@@ -259,6 +401,13 @@ _Source: Core Rulebook p. 441_
 You hold power over wealth, trade, and treasure.
 
 **Spells** [Appearance Of Wealth](compendium/spells/appearance-of-wealth.md), [Precious Metals](compendium/spells/precious-metals.md)
+
+## Wyrmkin
+_Source: Lost Omens: Gods & Magic p. 119_
+
+You draw on the power of dragons, linnorms, and other powerful reptilian creatures.
+
+**Spells** [Draconic Barrage](compendium/spells/draconic-barrage-logm.md), [Roar Of The Wyrm](compendium/spells/roar-of-the-wyrm-logm.md)
 
 ## Zeal
 _Source: Core Rulebook p. 441_

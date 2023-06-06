@@ -16,7 +16,7 @@ If you have the spell substitution arcane thesis, you can instead prepare a diff
 
 ## Reprepare Spell leads to...
 
-Reclaim Spell
+[Reclaim Spell](compendium/feats/reclaim-spell-ec6.md)
 
 ## Summary
 

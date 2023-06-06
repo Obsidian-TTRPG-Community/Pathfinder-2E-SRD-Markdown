@@ -14,7 +14,7 @@ When you are raging, your visual senses improve, granting you [darkvision](rules
 
 ## Acute Vision leads to...
 
-[Acute Scent](compendium/feats/acute-scent.md), Instinctive Strike, Nocturnal Sense, Supernatural Senses
+[Acute Scent](compendium/feats/acute-scent.md), [Instinctive Strike](compendium/feats/instinctive-strike-apg.md), [Nocturnal Sense](compendium/feats/nocturnal-sense-apg.md), [Supernatural Senses](compendium/feats/supernatural-senses-apg.md)
 
 ## Summary
 

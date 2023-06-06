@@ -15,7 +15,7 @@ You can prepare a seemingly impossible number of snares in advance, and you're r
 
 ## Ubiquitous Snares leads to...
 
-Impossible Snares
+[Impossible Snares](compendium/feats/impossible-snares-apg.md)
 
 ## Summary
 

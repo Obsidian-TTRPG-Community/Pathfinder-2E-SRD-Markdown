@@ -147,6 +147,12 @@ Druidic is a secret language, and is available only to characters who are druids
 
 It is possible for your character to learn languages later in their adventuring career. Selecting the Multilingual feat, for example, grants a character two new languages chosen from those listed in [Table 2–1: Common Languages](rules/tables/common-languages.md) and [Table 2–2: Uncommon Languages](rules/tables/uncommon-languages.md). Other abilities and effects might grant access to common or uncommon languages, as detailed in their descriptions.
 
+![Common Languages](rules/tables/common-languages.md)
+
+![Uncommon Languages](rules/tables/uncommon-languages.md)
+
+![Secret Language](rules/tables/secret-language.md)
+
 ### Regional Languages
 <sup>CRB p. 65</sup>
 

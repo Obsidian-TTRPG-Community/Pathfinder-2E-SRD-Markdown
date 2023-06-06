@@ -15,7 +15,7 @@ The focused power of your flurry threatens to overwhelm your opponent. When you 
 
 ## Stunning Fist leads to...
 
-Triangle Shot, Vitality-manipulating Stance
+[Triangle Shot](compendium/feats/triangle-shot-apg.md), [Vitality-manipulating Stance](compendium/feats/vitality-manipulating-stance-frp3.md)
 
 ## Summary
 

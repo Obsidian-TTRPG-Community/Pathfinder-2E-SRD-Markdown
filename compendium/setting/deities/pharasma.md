@@ -17,13 +17,13 @@ tags:
 - trait/thrown-40-feet
 aliases: ["Pharasma", "Lady of Graves"]
 ---
-# Pharasma (Lady of Graves) *(N)*  
+# Pharasma (Lady of Graves) *([N](rules/traits/neutral-b1.md))*  
 *Source: Core Rulebook p. 439*  
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: create undead, desecrate a corpse, rob a tomb
 - **Areas of Concern**: birth, , death, , fate, , prophecy, , and time
-- **Follower Alignments**: NG, LN, N
+- **Follower Alignments**: [NG](rules/traits/neutral-good-b1.md), [LN](rules/traits/lawful-neutral-b1.md), [N](rules/traits/neutral-b1.md)
 
 ## Devotee benefits
 

@@ -9,7 +9,7 @@ aliases: ["Dueling Riposte"]
 # Dueling Riposte  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
 [fighter](rules/traits/fighter.md)  
 
-- **Prerequisites**: Dueling Parry
+- **Prerequisites**: [Dueling Parry](compendium/feats/dueling-parry-apg.md)
 - **Trigger** A creature within your reach critically fails a [Strike](rules/actions/strike.md) against you.
 - **Requirements**: You are benefiting from Dueling Parry.
 - **Activity** Reaction
@@ -18,7 +18,7 @@ You riposte against your flailing enemy. Make a melee [Strike](rules/actions/str
 
 ## Dueling Riposte leads to...
 
-[Guiding Riposte](compendium/feats/guiding-riposte.md), [Improved Dueling Riposte](compendium/feats/improved-dueling-riposte.md), Reflecting Riposte
+[Guiding Riposte](compendium/feats/guiding-riposte.md), [Improved Dueling Riposte](compendium/feats/improved-dueling-riposte.md), [Reflecting Riposte](compendium/feats/reflecting-riposte-ec6.md)
 
 ## Summary
 

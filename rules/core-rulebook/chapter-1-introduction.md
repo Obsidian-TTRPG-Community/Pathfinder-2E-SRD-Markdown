@@ -729,6 +729,8 @@ Ability flaws are not nearly as common in Pathfinder as ability boosts. If your 
 
 Once you've finalized your ability scores, you can use them to determine your ability modifiers, which are used in most other statistics in the game. Find the score in [Table 1–1: Ability Modifiers](rules/tables/ability-modifiers.md) to determine its ability modifier.
 
+![Ability Modifiers](rules/tables/ability-modifiers.md)
+
 ### Create a Concept
 <sup>CRB p. 21</sup>
 

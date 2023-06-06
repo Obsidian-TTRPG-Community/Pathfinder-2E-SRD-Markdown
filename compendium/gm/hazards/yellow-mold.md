@@ -8,7 +8,7 @@ tags:
 aliases: ["Yellow Mold"]
 ---
 # Yellow Mold *Hazard 8*  
-[environmental](rules/traits/environmental.md)  fungus  
+[environmental](rules/traits/environmental.md)  [fungus](rules/traits/fungus-b1.md)  
 
 - **Complexity** Simple
 - **Stealth** DC 28 trained  

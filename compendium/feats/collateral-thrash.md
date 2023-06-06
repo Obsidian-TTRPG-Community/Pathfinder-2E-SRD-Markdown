@@ -16,7 +16,7 @@ When you Thrash a [grabbed](rules/conditions.md#Grabbed) foe, you smack that foe
 
 ## Collateral Thrash leads to...
 
-Whirlwind Toss
+[Whirlwind Toss](compendium/feats/whirlwind-toss-frp3.md)
 
 ## Summary
 

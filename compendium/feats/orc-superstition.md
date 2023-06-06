@@ -17,7 +17,7 @@ You defend yourself against magic by relying on techniques derived from orc cult
 
 ## Orc Superstition leads to...
 
-[Pervasive Superstition](compendium/feats/pervasive-superstition.md), Spell Devourer
+[Pervasive Superstition](compendium/feats/pervasive-superstition.md), [Spell Devourer](compendium/feats/spell-devourer-apg.md)
 
 ## Summary
 

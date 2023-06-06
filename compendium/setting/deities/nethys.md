@@ -12,13 +12,13 @@ tags:
 - trait/versatile-cold-electricity-or-fire
 aliases: ["Nethys", "The All-Seeing Eye"]
 ---
-# Nethys (The All-Seeing Eye) *(N)*  
+# Nethys (The All-Seeing Eye) *([N](rules/traits/neutral-b1.md))*  
 *Source: Core Rulebook p. 439*  
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: pursue mundane paths over magical ones
 - **Areas of Concern**: magic
-- **Follower Alignments**: NG, LN, N, CN, NE
+- **Follower Alignments**: [NG](rules/traits/neutral-good-b1.md), [LN](rules/traits/lawful-neutral-b1.md), [N](rules/traits/neutral-b1.md), [CN](rules/traits/chaotic-neutral-b1.md), [NE](rules/traits/neutral-evil-b1.md)
 
 ## Devotee benefits
 

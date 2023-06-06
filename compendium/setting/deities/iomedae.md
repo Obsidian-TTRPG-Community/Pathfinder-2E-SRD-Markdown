@@ -13,13 +13,13 @@ tags:
 - trait/versatile-p
 aliases: ["Iomedae", "The Inheritor"]
 ---
-# Iomedae (The Inheritor) *(LG)*  
+# Iomedae (The Inheritor) *([LG](rules/traits/lawful-goo-b1.md))*  
 *Source: Core Rulebook p. 438*  
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: abandon a companion in need, dishonor yourself, refuse a challenge from an equal
 - **Areas of Concern**: honor, , justice, , rulership, , and valor
-- **Follower Alignments**: LG, NG
+- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [NG](rules/traits/neutral-good-b1.md)
 
 ## Devotee benefits
 

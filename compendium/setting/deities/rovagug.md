@@ -15,13 +15,13 @@ tags:
 - trait/versatile-p
 aliases: ["Rovagug", "Rough Beast"]
 ---
-# Rovagug (Rough Beast) *(CE)*  
+# Rovagug (Rough Beast) *([CE](rules/traits/chaotic-evil-b1.md))*  
 *Source: Core Rulebook p. 439*  
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: create something new, let material ties restrain you, torture a victim or otherwise delay its destruction
 - **Areas of Concern**: destruction, , disaster, , and wrath
-- **Follower Alignments**: NE, CE
+- **Follower Alignments**: [NE](rules/traits/neutral-evil-b1.md), [CE](rules/traits/chaotic-evil-b1.md)
 
 ## Devotee benefits
 

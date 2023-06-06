@@ -20,7 +20,7 @@ You don't consider fiends to be legitimate authorities, even in nations ruled by
 
 ## Fiendsbane Oath leads to...
 
-[Anchoring Aura](compendium/feats/anchoring-aura.md), Banishing Blow
+[Anchoring Aura](compendium/feats/anchoring-aura.md), [Banishing Blow](compendium/feats/banishing-blow-ec6.md)
 
 ## Summary
 

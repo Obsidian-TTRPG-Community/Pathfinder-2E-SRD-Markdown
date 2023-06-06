@@ -14,13 +14,13 @@ tags:
 - trait/reach-20-feet
 aliases: ["Shelyn", "The Eternal Rose"]
 ---
-# Shelyn (The Eternal Rose) *(NG)*  
+# Shelyn (The Eternal Rose) *([NG](rules/traits/neutral-good-b1.md))*  
 *Source: Core Rulebook p. 440*  
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: destroy art or allow it to be destroyed, unless saving a life or pursuing greater art; refuse to accept surrender
 - **Areas of Concern**: art, , beauty, , love, , and music
-- **Follower Alignments**: LG, NG, CG
+- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [NG](rules/traits/neutral-good-b1.md), [CG](rules/traits/chaotic-good-b1.md)
 
 ## Devotee benefits
 

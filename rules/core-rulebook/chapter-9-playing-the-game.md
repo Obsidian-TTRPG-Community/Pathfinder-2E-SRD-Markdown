@@ -1434,6 +1434,8 @@ Table 9–1 also lists the typical reach for creatures of each size, for both ta
 
 The Space entry lists how many feet on a side a creature's space is, so a Large creature fills a 10-foot-by-10-foot space (4 squares on the grid). Sometimes part of a creature extends beyond its space, such as if a giant octopus is grabbing you with its tentacles. In that case, the GM will usually allow attacking the extended portion, even if you can't reach the main creature. A Small or larger creature or object takes up at least 1 square on a grid, and creatures of these sizes can't usually share spaces except in situations like a character riding a mount. Rules for moving through other creatures' spaces appear below.
 
+![Size and Reach](rules/tables/size-and-reach.md)
+
 Multiple Tiny creatures can occupy the same square. At least four can fit in a single square, though the GM might determine that even more can fit. Tiny creatures can occupy a space occupied by a larger creature as well, and if their reach is 0 feet, they must do so in order to attack.
 
 #### Move Actions That Trigger Reactions
@@ -1612,6 +1614,8 @@ Much of exploration mode involves movement and roleplaying. You might be traveli
 <sup>CRB p. 479</sup>
 
 Depending on how the GM tracks movement, you move in feet or miles based on your character's Speed with the relevant movement type. Typical rates are on the table below.
+
+![Travel Speed](rules/tables/travel-speed.md)
 
 The rates in Table 9 –2 assume traveling over flat and clear terrain at a determined pace, but one that's not exhausting.
 

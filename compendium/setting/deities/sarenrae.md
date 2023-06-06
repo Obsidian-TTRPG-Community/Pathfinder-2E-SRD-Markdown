@@ -14,13 +14,13 @@ tags:
 - trait/reach-15-feet
 aliases: ["Sarenrae", "Dawnflower"]
 ---
-# Sarenrae (Dawnflower) *(NG)*  
+# Sarenrae (Dawnflower) *([NG](rules/traits/neutral-good-b1.md))*  
 *Source: Core Rulebook p. 439*  
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: create undead, lie, deny a repentant creature an opportunity for redemption, fail to strike down evil
 - **Areas of Concern**: healing, , honesty, , redemption, , and the sun
-- **Follower Alignments**: LG, NG, CG
+- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [NG](rules/traits/neutral-good-b1.md), [CG](rules/traits/chaotic-good-b1.md)
 
 ## Devotee benefits
 

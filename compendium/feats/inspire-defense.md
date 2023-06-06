@@ -15,7 +15,7 @@ You learn the [inspire defense](compendium/spells/inspire-defense.md) compositio
 
 ## Inspire Defense leads to...
 
-Defensive Coordination
+[Defensive Coordination](compendium/feats/defensive-coordination-apg.md)
 
 ## Summary
 

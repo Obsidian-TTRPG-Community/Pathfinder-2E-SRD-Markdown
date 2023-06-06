@@ -43,12 +43,16 @@ You can benefit from no more than 10 invested magic items each day. Because this
 
 You can still gain the mundane benefits of an item if you don't invest it. A suit of _+1 resilient armor_ still gives you its item bonus to AC when not invested, but it doesn't give its magical bonus to saving throws, and [winged boots](compendium/equipment/items/winged-boots.md) still protect your feet even though you can't activate them to fly. Entirely non-magical items don't need to be invested.
 
+![Invest an Item](rules/actions/invest-an-item.md)
+
 ## Activating Items
 <sup>CRB p. 532</sup>
 
 Some items produce their effects only when used properly in the moment. Others always offer the same benefits as their mundane counterparts when worn, but have magical abilities you can gain by further spending actions. Either case requires you to use the Activate an Item activity. [Activating an Item](rules/actions/activate-an-item.md) works much like [Casting a Spell](rules/actions/cast-a-spell.md), in that the activity takes a variable number of actions and can have different components depending on how you Activate the Item. This information appears in the item's Activate entry.
 
 If an item is used up when activated, as is the case for consumable items, its Activate entry appears toward the top of the stat block. For permanent items with activated abilities, the Activate entry is a paragraph in the description. Activations are not necessarily magical—for instance, drinking an alchemical elixir isn't usually a magical effect.
+
+![Activate an Item](rules/actions/activate-an-item.md)
 
 > [!pf2-brown] DISRUPTING ACTIVATIONS
 > 
@@ -120,10 +124,14 @@ Some items can be activated only a limited number of times per day, as described
 
 Some items, once activated, have effects that can be sustained if you concentrate on them. This works much like the Sustain a Spell action (found on page 304). If an item's description states that you can sustain the effect, that effect lasts until the end of your turn in the round after you Activated the Item. You can use a Sustain an Activation action on that turn to extend the duration.
 
+![Sustain an Activation](rules/actions/sustain-an-activation.md)
+
 ### Dismissing Activations
 <sup>CRB p. 534</sup>
 
 Some item effects can be dismissed, ending the duration early due to you or the target taking action. Dismissing an activation requires using the Dismiss action.
+
+![Dismiss](rules/actions/dismiss.md)
 
 ## Reading Items
 <sup>CRB p. 534</sup>
@@ -410,6 +418,8 @@ The traits for a scroll vary based on the spell it contains.
 
 A scroll always has the consumable, magical, and scroll traits, plus the traits of the spell stored on it.
 
+![Scroll Statistics](rules/tables/scroll-statistics.md)
+
 #### Crafting a Scroll
 <sup>CRB p. 565</sup>
 
@@ -468,6 +478,8 @@ You must be wielding or wearing an item to activate a talisman attached to it. O
 
 Each talisman's stat block indicates the type of item it can be affixed to. Affixing or removing requires using the [Affixing the Talisman](rules/actions/affix-a-talisman.md) activity. A single talisman can be affixed to only one item at a time, and an item can have only one talisman affixed to it at a time without suppressing them all.
 
+![Affix a Talisman](rules/actions/affix-a-talisman.md)
+
 #### Talismans
 <sup>CRB p. 565</sup>
 
@@ -502,6 +514,8 @@ Table 11–4 below provides the Hardness, Hit Points, Broken Threshold, and exam
 Stone is a catchall for any hard stone, such as granite and marble. Likewise, wood covers ordinary woods, such as oak and pine. Metal weapons and armor are assumed to be made of iron or steel unless noted otherwise.
 
 If an object consists of more than one material, the GM typically uses the statistics for the strongest material involved. For instance, breaking a wall made of paper panels over a woven wooden framework would require damaging thin wood, not paper. However, the GM might choose the weaker material based on the item's function. For instance, breaking the wooden handle of a hammer rather than its iron head would still render the item unusable. Sometimes an item is even less sturdy than the Hardness and Hit Points provided for a thin object; for instance, a twig doesn't take 9 damage to break, even though it's made of thin wood. Similarly, a particularly sturdy item or structure might have even higher Hardness and Hit Points. Certain structures, particularly thick walls, are so reinforced that you have to break them down over time with tools. (Page 515 has more information on walls.)
+
+![Material Hardness, Hit Points, and Broken Threshold](rules/tables/material-hardness-hit-points-and-broken-threshold.md)
 
 ### Precious Materials
 <sup>CRB p. 577</sup>
@@ -571,6 +585,8 @@ Four fundamental runes produce the most essential magic of protection and destru
 
 An item can have only one fundamental rune of each type, though etching a stronger rune can upgrade an existing rune to the more powerful version (as described in each rune's entry). As you level up, you typically alternate between increasing an item's potency rune and its striking or resilient rune when you can afford to.
 
+![Fundamental Runes](rules/tables/fundamental-runes.md)
+
 > [!pf2-brown] SPECIFIC ARMOR AND WEAPONS
 > 
 > Unlike armor and weapons enhanced with runes, specific armor and weapons (such as [ghoul hide](compendium/equipment/items/ghoul-hide.md) or a [holy avenger](compendium/equipment/items/holy-avenger.md)) are created for a specific purpose and can work quite differently from other items of their type. Specific magic armor and weapons can't gain property runes, but you can add or improve their fundamental runes.
@@ -586,6 +602,10 @@ An item can have only one fundamental rune of each type, though etching a strong
 > [!pf2-brown] UPGRADING ARMOR AND WEAPON RUNES
 > 
 > You'll often want to upgrade the fundamental runes of magic armor or a magic weapon you already have. This requires upgrading each rune separately. Tables 11–5 and 11–6 summarize the Price of each step, with a number in parentheses indicating the item's level for the Craft activity. This also indicates the typical progression for an adventurer to follow when upgrading their armor and weapons. The tables here don't include progressions that aren't as likely to come up, like turning a +1 weapon directly into a +1 greater striking weapon.
+> 
+> ![Armor Upgrade Prices](rules/tables/armor-upgrade-prices.md)
+> 
+> ![Weapon Upgrade Price](rules/tables/weapon-upgrade-price.md)
 > 
 
 ### Property Runes
