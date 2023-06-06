@@ -32,7 +32,6 @@ Having issues with the Pathfinder 2E layout? Report an issue at the [Pathfinder 
 > **Hint**: If Using ITS Theme, turn off Statblock styling in Style Settings. This will make the Statblock look as it should. 
 
 
-
 ## Not Optional, But Highly Recommended
 
 
@@ -62,9 +61,9 @@ This community vault has been brought to you by the efforts of many individuals.
 
 If I forgot someone, poke me – Sigrunixia
 
-
 ## Changelog
-- 
+
+- 2023-06-02: Switched to a Release Format, and made breaking changes with removal of some core content per Paizo request at PF2E Tools. Started working on re-addition for [Robinsving](https://github.com/robinsving) dataview enabled spells.
 - 2023-04-28: Cleanup in preparation for major update
 - 2023-03-02: Updated Broken Links, made relative to top-level folder thus enabling to be moved when consistent plugins are used. Merged Pathfinder 2E into TTRPGShare Pathfinder Vault.
 - 2023-02-21: CLI Enabled Initial Load onto Share out of Testing Mode
