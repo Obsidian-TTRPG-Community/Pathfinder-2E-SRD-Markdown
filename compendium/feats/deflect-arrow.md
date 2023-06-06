@@ -17,7 +17,7 @@ You gain a +4 circumstance bonus to AC against the triggering attack. If the att
 
 ## Deflect Arrow leads to...
 
-[Arrow Snatching](compendium/feats/arrow-snatching.md), Return Fire
+[Arrow Snatching](compendium/feats/arrow-snatching.md), [Return Fire](compendium/feats/return-fire-apg.md)
 
 ## Summary
 

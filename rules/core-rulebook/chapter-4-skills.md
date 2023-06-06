@@ -99,6 +99,8 @@ General skill actions are skill actions that can be used with multiple different
 
 When you encounter particularly archaic or esoteric texts, the GM might require you to Decipher the Writing before you can understand it. You must be trained in the relevant skill to Decipher Writing. [Arcana](compendium/skills.md#Arcana) is typically used for writing about magic or science, [Occultism](compendium/skills.md#Occultism) for esoteric texts about mysteries and philosophy, [Religion](compendium/skills.md#Religion) for scripture, and Society for coded messages or archaic documents.
 
+![Decipher Writing](rules/actions/decipher-writing.md)
+
 > [!pf2-example] Sample Decipher Tasks
 > 
 > **Trained** entry-level philosophy treatise
@@ -108,6 +110,8 @@ When you encounter particularly archaic or esoteric texts, the GM might require 
 > **Master** spymaster's code or advanced research notes
 > 
 > **Legendary** esoteric planar text written in metaphor by an ancient celestial
+
+![Skills, Key Abilities, and Actions](rules/tables/skills-key-abilities-and-actions.md)
 
 ### Earn Income (Trained)
 <sup>CRB p. 236</sup>
@@ -127,6 +131,8 @@ You can use a skill—typically [Crafting](compendium/skills.md#Crafting), Lore,
 
 In some cases, the GM might let you use a different skill to Earn Income through specialized work. Usually, this is scholarly work, such as using [Religion](compendium/skills.md#Religion) in a monastery to study old texts—but giving sermons at a church would still fall under [Performance](compendium/skills.md#Performance) instead of [Religion](compendium/skills.md#Religion). You also might be able to use physical skills to make money, such as using [Acrobatics](compendium/skills.md#Acrobatics) to perform feats in a circus or [Thievery](compendium/skills.md#Thievery) to pick pockets. If you're using a skill other than [Crafting](compendium/skills.md#Crafting), Lore, or [Performance](compendium/skills.md#Performance), the DC tends to be significantly higher.
 
+![Earn Income](rules/actions/earn-income.md)
+
 > [!pf2-example] Sample Earn Income Tasks
 > 
 > These examples use Alcohol Lore to work in a bar or Legal Lore to perform legal work.
@@ -138,6 +144,8 @@ In some cases, the GM might let you use a different skill to Earn Income through
 > **Master** run a large brewery, present important court cases
 > 
 > **Legendary** run an international brewing franchise, present a case in Hell's courts
+
+![Income Earned](rules/tables/income-earned.md)
 
 #### Crafting Goods for the Market ([Crafting](compendium/skills.md#Crafting))
 <sup>CRB p. 237</sup>
@@ -189,6 +197,8 @@ You perform for an audience to make money. The available audiences determine the
 
 Using the skill related to the appropriate tradition, as explained in Magical Traditions and Skills on page 238, you can attempt to identify a magical item, location, or ongoing effect. In many cases, you can use a skill to attempt to Identify Magic of a tradition other than your own at a higher DC. The GM determines whether you can do this and what the DC is.
 
+![Identify Magic](rules/actions/identify-magic.md)
+
 > [!pf2-example] Magical Traditions and Skills
 > 
 > Each magical tradition has a corresponding skill, as shown on the table below. You must have the trained proficiency rank in a skill to use it to Identify Magic or Learn a Spell.
@@ -207,10 +217,16 @@ Using the skill related to the appropriate tradition, as explained in Magical Tr
 
 If you're a spellcaster, you can use the skill corresponding to your magical tradition to learn a new spell of that tradition. [Table 4–3: Learning a Spell](rules/tables/learning-a-spell.md) lists the Price of the materials needed to Learn a Spell of each level.
 
+![Learn a Spell](rules/actions/learn-a-spell.md)
+
+![Learning a Spell](rules/tables/learning-a-spell.md)
+
 ### Recall Knowledge (Untrained)
 <sup>CRB p. 238</sup>
 
 To remember useful information on a topic, you can attempt to [Recall Knowledge](rules/actions/recall-knowledge.md). You might know basic information about something without needing to attempt a check, but [Recall Knowledge](rules/actions/recall-knowledge.md) requires you to stop and think for a moment so you can recollect more specific facts and apply them. You might even need to spend time investigating first. For instance, to use [Medicine](compendium/skills.md#Medicine) to learn the cause of death, you might need to conduct a forensic examination before attempting to [Recall Knowledge](rules/actions/recall-knowledge.md).
+
+![Recall Knowledge](rules/actions/recall-knowledge.md)
 
 The following skills can be used to [Recall Knowledge](rules/actions/recall-knowledge.md), getting information about the listed topics. In some cases, you can get the GM's permission to use a different but related skill, usually against a higher DC than normal. Some topics might appear on multiple lists, but the skills could give different information. For example, [Arcana](compendium/skills.md#Arcana) might tell you about the magical defenses of a golem, whereas [Crafting](compendium/skills.md#Crafting) could tell you about its sturdy resistance to physical attacks.
 
@@ -244,6 +260,8 @@ The GM might allow checks to [Recall Knowledge](rules/actions/recall-knowledge.m
 
 If you need to provide food and shelter, you can use the [Subsist](rules/actions/subsist.md) downtime activity. This typically uses Society if you're in a settlement or [Survival](compendium/skills.md#Survival) if you're in the wild.
 
+![Subsist](rules/actions/subsist.md)
+
 > [!pf2-example] Sample Subsist Tasks
 > 
 > **Untrained** lush forest with calm weather or large city with plentiful resources
@@ -268,6 +286,8 @@ Most skills include entries for success and failure, as well as descriptions of 
 
 [Acrobatics](compendium/skills.md#Acrobatics) measures your ability to perform tasks requiring coordination and grace. When you use the [Escape](rules/actions/escape.md) basic action (page 470), you can use your [Acrobatics](compendium/skills.md#Acrobatics) modifier instead of your unarmed attack modifier.
 
+![Balance](rules/actions/balance.md)
+
 > [!pf2-example] Sample Balance Tasks
 > 
 > **Untrained** tangled roots, uneven cobblestones
@@ -280,8 +300,12 @@ Most skills include entries for success and failure, as well as descriptions of 
 > 
 > **Legendary** razor's edge, chunks of floor falling in midair
 
+![Tumble Through](rules/actions/tumble-through.md)
+
 #### Acrobatics Trained Actions
 <sup>CRB p. 240</sup>
+
+![Maneuver in Flight](rules/actions/maneuver-in-flight.md)
 
 > [!pf2-example] Sample Maneuver in Flight Tasks
 > 
@@ -292,6 +316,8 @@ Most skills include entries for success and failure, as well as descriptions of 
 > **Master** reverse direction
 > 
 > **Legendary** fly through gale force winds
+
+![Squeeze](rules/actions/squeeze.md)
 
 > [!pf2-example] Sample Squeeze Tasks
 > 
@@ -315,10 +341,14 @@ You must be trained in [Arcana](compendium/skills.md#Arcana) to use it for the f
 - **Identify Magic**, particularly arcane magic.
 - **Learn a Spell** from the [arcane](rules/traits/arcane.md) tradition.
 
+![Borrow an Arcane Spell](rules/actions/borrow-an-arcane-spell.md)
+
 ### Athletics (Str)
 <sup>CRB p. 241</sup>
 
 [Athletics](compendium/skills.md#Athletics) allows you to perform deeds of physical prowess. When you use the [Escape](rules/actions/escape.md) basic action, you can use your [Athletics](compendium/skills.md#Athletics) modifier instead of your unarmed attack modifier.
+
+![Climb](rules/actions/climb.md)
 
 > [!pf2-example] Sample Climb Tasks
 > 
@@ -336,6 +366,50 @@ You must be trained in [Arcana](compendium/skills.md#Arcana) to use it for the f
 > 
 > This table provides a quick reference for how far you can move with a Climb or Swim action.
 > 
+> <table>
+> <tr>
+>   <th colspan="2"></th>
+>   <th colspan="2">Swim Distance</th>
+> </tr>
+> <tr>
+>   <th>Speed</th>
+  <th>Success</th>
+  <th>Critical</th>
+  <th>Success</th>
+  <th>Critical</th>
+> </tr>
+> <tr>
+>   <td>5-15 feet</td>
+  <td>5</td>
+  <td>5</td>
+  <td>5</td>
+  <td>10</td>
+> </tr>
+> <tr>
+>   <td>20-35 feet</td>
+  <td>5</td>
+  <td>10</td>
+  <td>10</td>
+  <td>15</td>
+> </tr>
+> <tr>
+>   <td>40-55 feet</td>
+  <td>10</td>
+  <td>15</td>
+  <td>15</td>
+  <td>20</td>
+> </tr>
+> <tr>
+>   <td>60-65 feet</td>
+  <td>15</td>
+  <td>20</td>
+  <td>20</td>
+  <td>25</td>
+> </tr>
+> </table>
+> 
+
+![Force Open](rules/actions/force-open.md)
 
 > [!pf2-example] Sample Force Open Tasks
 > 
@@ -349,13 +423,23 @@ You must be trained in [Arcana](compendium/skills.md#Arcana) to use it for the f
 > 
 > **Legendary** stone or iron door
 
+![Grapple](rules/actions/grapple.md)
+
+![High Jump](rules/actions/high-jump.md)
+
 > [!pf2-example] Leap
 > 
 > The Leap basic action is used for High Jump and Long Jump. Leap lets you take a careful, short jump. You can Leap up to 10 feet horizontally if your Speed is at least 15 feet, or up to 15 feet horizontally if your Speed is at least 30 feet. You land in the space where your Leap ends (meaning you can typically clear a 5-foot gap if your Speed is between 15 feet and 30 feet, or a 10-foot gap if your Speed is 30 feet or more). If you make a vertical Leap, you can move up to 3 feet vertically and 5 feet horizontally onto an elevated surface.
 
+![Long Jump](rules/actions/long-jump.md)
+
+![Shove](rules/actions/shove.md)
+
 > [!pf2-example] Forced Movement
 > 
 > The [Shove](rules/actions/shove.md) action can force a creature to move. When an effect forces you to move, or if you start falling, the distance you move is defined by the effect that moved you, not by your Speed. Because you're not acting to move, this doesn't trigger reactions triggered by movement.
+
+![Swim](rules/actions/swim.md)
 
 > [!pf2-example] Sample Swim Tasks
 > 
@@ -369,6 +453,8 @@ You must be trained in [Arcana](compendium/skills.md#Arcana) to use it for the f
 > 
 > **Legendary** maelstrom, waterfall
 
+![Trip](rules/actions/trip.md)
+
 > [!pf2-brown] FALLING
 > 
 > When you fall more than 5 feet, you take falling damage when you land, which is bludgeoning damage equal to half the distance you fell. If you take any damage from a fall, you're knocked prone when you land.
@@ -380,6 +466,8 @@ You must be trained in [Arcana](compendium/skills.md#Arcana) to use it for the f
 #### Athletics Trained Action
 <sup>CRB p. 243</sup>
 
+![Disarm](rules/actions/disarm.md)
+
 ### Crafting (Int)
 <sup>CRB p. 243</sup>
 
@@ -389,12 +477,16 @@ Even if you're untrained, you can [Recall Knowledge](rules/actions/recall-knowle
 
 - **Recall Knowledge** about alchemical reactions, the value of items, engineering, unusual materials, and alchemical or mechanical creatures. The GM determines which creatures this applies to, but it usually includes constructs.
 
+![Repair](rules/actions/repair.md)
+
 #### Crafting Trained Actions
 <sup>CRB p. 244</sup>
 
 You must be trained in [Crafting](compendium/skills.md#Crafting) to use it to [Earn Income](rules/actions/earn-income.md).
 
 - **Earn Income** by crafting goods for the market.
+
+![Craft](rules/actions/craft.md)
 
 > [!pf2-example] Consumables and Ammunition
 > 
@@ -414,18 +506,30 @@ You must be trained in [Crafting](compendium/skills.md#Crafting) to use it to [E
 > 
 > Because he's a 5th-level character and an expert at [Crafting](compendium/skills.md#Crafting), he reduces the amount he has to pay by 1 gp for each day spent. After spending 10 days working, he reduces the cost to complete the item from 65 gp to 55 gp. He spends the remaining portion of its Price in materials, completes the [striking](compendium/equipment/items/striking.md) rune, and goes out on his next adventure. (He could have stayed home to keep working on the striking rune, eventually reducing the item's total Price to just the half he paid up front, but adventuring is far more lucrative!) If Ezren's [Crafting](compendium/skills.md#Crafting) check result were a 29 or higher, he'd have gotten a critical success. In that case, he'd reduce the remaining amount by 2 gp per day, lowering the amount needed to complete the item after 10 additional days of work to 45 gp.
 
+![Identify Alchemy](rules/actions/identify-alchemy.md)
+
 ### Deception (Cha)
 <sup>CRB p. 245</sup>
 
 You can trick and mislead others using disguises, lies, and other forms of subterfuge.
 
+![Create a Diversion](rules/actions/create-a-diversion.md)
+
+![Impersonate](rules/actions/impersonate.md)
+
+![Lie](rules/actions/lie.md)
+
 #### Deception Trained Action
 <sup>CRB p. 246</sup>
+
+![Feint](rules/actions/feint.md)
 
 ### Diplomacy (Cha)
 <sup>CRB p. 246</sup>
 
 You influence others through negotiation and flattery.
+
+![Gather Information](rules/actions/gather-information.md)
 
 > [!pf2-example] Sample Gather Information Tasks
 > 
@@ -438,6 +542,8 @@ You influence others through negotiation and flattery.
 > **Master** well-guarded or esoteric information
 > 
 > **Legendary** information known only to an incredibly select few, or only to extraordinary beings
+
+![Make an Impression](rules/actions/make-an-impression.md)
 
 > [!pf2-example] Changing Attitudes
 > 
@@ -453,10 +559,16 @@ You influence others through negotiation and flattery.
 > 
 > No one can ever change the attitude of a player character with these skills. You can roleplay interactions with player characters, and even use [Diplomacy](compendium/skills.md#Diplomacy) results if the player wants a mechanical sense of how convincing or charming a character is, but players make the ultimate decisions about how their characters respond.
 
+![Request](rules/actions/request.md)
+
 ### Intimidation (Cha)
 <sup>CRB p. 247</sup>
 
 You bend others to your will using threats.
+
+![Coerce](rules/actions/coerce.md)
+
+![Demoralize](rules/actions/demoralize.md)
 
 ### Lore (Int)
 <sup>CRB p. 247</sup>
@@ -529,8 +641,16 @@ You can patch up wounds and help people recover from diseases and poisons. Even 
 
 - **[Recall Knowledge](rules/actions/recall-knowledge.md)** about diseases, injuries, poisons, and other ailments. You can use this to perform forensic examinations if you spend 10 minutes (or more, as determined by the GM) checking for evidence such as wound patterns. This is most useful when determining how a body was injured or killed.
 
+![Administer First Aid](rules/actions/administer-first-aid.md)
+
 #### Medicine Trained Actions
 <sup>CRB p. 248</sup>
+
+![Treat Disease](rules/actions/treat-disease.md)
+
+![Treat Poison](rules/actions/treat-poison.md)
+
+![Treat Wounds](rules/actions/treat-wounds.md)
 
 ### Nature (Wis)
 <sup>CRB p. 249</sup>
@@ -538,6 +658,8 @@ You can patch up wounds and help people recover from diseases and poisons. Even 
 You know a great deal about the natural world, and you command and train animals and magical beasts. Even if you're untrained in [Nature](compendium/skills.md#Nature), you can use it to [Recall Knowledge](rules/actions/recall-knowledge.md).
 
 - **[Recall Knowledge](rules/actions/recall-knowledge.md)** about fauna, flora, geography, weather, the environment, creatures of natural origin (like animals, beasts, fey, and plants), the First World, the Material Plane, and the Elemental Planes.
+
+![Command an Animal](rules/actions/command-an-animal.md)
 
 > [!pf2-brown] COMMANDED ANIMALS
 > 
@@ -593,6 +715,8 @@ When you use an action that utilizes the [Performance](compendium/skills.md#Perf
 | Play an instrument | [Auditory](rules/traits/auditory.md) and [manipulate](rules/traits/manipulate.md) |
 | Orate or sing | [Auditory](rules/traits/auditory.md) and [linguistic](rules/traits/linguistic.md) |
 
+![Perform](rules/actions/perform.md)
+
 > [!pf2-example] Sample Perform Tasks
 > 
 > **Untrained** audience of commoners
@@ -645,10 +769,14 @@ You must be trained in Society to use it to [Decipher Writing](rules/actions/dec
 
 - **[Decipher Writing](rules/actions/decipher-writing.md)** that's a coded message, text written in an incomplete or archaic form, or in some cases, text in a language you don't know.
 
+![Create Forgery](rules/actions/create-forgery.md)
+
 ### Stealth (Dex)
 <sup>CRB p. 251</sup>
 
 You are skilled at avoiding detection, allowing you to slip past foes, hide, or conceal an item.
+
+![Conceal an Object](rules/actions/conceal-an-object.md)
 
 > [!pf2-brown] Being Stealthy
 > 
@@ -678,12 +806,16 @@ You are skilled at avoiding detection, allowing you to slip past foes, hide, or 
 > 
 > The creature doesn't know your location.
 
+![Hide](rules/actions/hide.md)
+
 ### Survival (Wis)
 <sup>CRB p. 252</sup>
 
 You are adept at living in the wilderness, foraging for food and building shelter, and with training you discover the secrets of tracking and hiding your trail. Even if you're untrained, you can still use [Survival](compendium/skills.md#Survival) to Subsist (page 240).
 
 - **[Subsist](rules/actions/subsist.md)** in the wild by foraging for food and building shelter.
+
+![Sense Direction](rules/actions/sense-direction.md)
 
 > [!pf2-example] Sense Direction Tasks
 > 
@@ -699,6 +831,10 @@ You are adept at living in the wilderness, foraging for food and building shelte
 
 #### Survival Trained Actions
 <sup>CRB p. 252</sup>
+
+![Cover Tracks](rules/actions/cover-tracks.md)
+
+![Track](rules/actions/track.md)
 
 > [!pf2-example] Sample Track Tasks
 > 
@@ -717,5 +853,13 @@ You are adept at living in the wilderness, foraging for food and building shelte
 
 You are trained in a particular set of skills favored by thieves and miscreants.
 
+![Palm an Object](rules/actions/palm-an-object.md)
+
+![Steal](rules/actions/steal.md)
+
 #### Thievery Trained Actions
 <sup>CRB p. 253</sup>
+
+![Disable a Device](rules/actions/disable-a-device.md)
+
+![Pick a Lock](rules/actions/pick-a-lock.md)

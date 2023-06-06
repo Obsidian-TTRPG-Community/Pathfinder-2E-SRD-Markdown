@@ -160,7 +160,7 @@ Though a published adventure is prewritten, it's not set in stone. Changing the 
 > 
 > A blind character can't detect anything using vision, critically fails [Perception](compendium/skills.md#Perception) checks requiring sight, is immune to [visual](rules/traits/visual.md) effects, and can't be [blinded](rules/conditions.md#Blinded) or [dazzled](rules/conditions.md#Dazzled). You might give this character the [Blind-Fight](compendium/feats/blind-fight-fighter.md) feat for free.
 > 
-> A character with impaired vision might take a –2 to –4 penalty to vision-based [Perception](compendium/skills.md#Perception) checks. Spectacles or other corrective devices might reduce or remove this.
+> A character with impaired vision might take a –2 to –4 penalty to vision-based [Perception](compendium/skills.md#Perception) checks. [Spectacles](compendium/equipment/items/basic-corrective-lenses-lotgb.md) or other corrective devices might reduce or remove this.
 > 
 > ### Deafness or Being Hard of Hearing
 > <sup>CRB p. 487</sup>
@@ -268,6 +268,10 @@ Each creature costs some of the XP from your XP budget for the encounter, based 
 For each additional character in the party beyond the fourth, increase your XP budget by the amount shown in the Character Adjustment value for your encounter in [Table 10–1: Encounter Budget](rules/tables/encounter-budget.md). If you have fewer than four characters, use the same process in reverse: for each missing character, remove that amount of XP from your XP budget. Note that if you adjust your XP budget to account for party size, the XP awards for the encounter don't change—you'll always award the amount of XP listed for a group of four characters.
 
 It's best to use the XP increase from more characters to add more enemies or hazards, and the XP decrease from fewer characters to subtract enemies and hazards, rather than making one enemy tougher or weaker. Encounters are typically more satisfying if the number of enemy creatures is fairly close to the number of player characters.
+
+![Encounter Budget](rules/tables/encounter-budget.md)
+
+![Creature XP and Role](rules/tables/creature-xp-and-role.md)
 
 ## Running a Game Session
 <sup>CRB p. 489</sup>
@@ -670,6 +674,8 @@ Watches and Rest on the next page indicates how long the group needs to set asid
 
 If a surprise encounter would occur during rest, you can roll a die to randomly determine which character is on watch at the time. All characters roll initiative; sleeping characters typically roll Perception with a –4 status penalty for being unconscious. They don't automatically wake up when rolling initiative, but they might roll a Perception check to wake up at the start of their turn due to noise. If a savvy enemy waits for a particularly vulnerable character to take watch before attacking, the attack can happen on that character's watch automatically. However, you might have the ambusher attempt a [Stealth](compendium/skills.md#Stealth) check against the Perception DCs of all characters to see if anyone noticed its approach.
 
+![Watches and Rest](rules/tables/watches-and-rest.md)
+
 #### Daily Preperations
 <sup>CRB p. 500</sup>
 
@@ -811,6 +817,8 @@ If it's something pretty much anyone would have a decent chance at, use the untr
 
 Simple DCs work well when you need a DC on the fly and there's no level associated with the task. They're most useful for skill checks. Because there isn't much gradation between the simple DCs, they don't work as well for hazards or combatants, where the PCs' lives are on the line; you're better off using level-based DCs for such challenges.
 
+![Simple DCs](rules/tables/simple-dcs.md)
+
 ### Level-Based DCs
 <sup>CRB p. 503</sup>
 
@@ -820,6 +828,8 @@ Use these DCs when a PC needs to Identify a Spell or [Recall Knowledge](rules/ac
 
 Note that PCs who invest in a skill become more likely to succeed at a DC of their level as they increase in level, and the listed DCs eventually become very easy for them.
 
+![DCs by Level](rules/tables/dcs-by-level.md)
+
 ### Adjusting Difficulty
 <sup>CRB p. 503</sup>
 
@@ -828,6 +838,8 @@ You might decide a DC should differ from the baseline, whether to account for PC
 Adjustments happen most often with tasks whose DCs are based on their level. Adjustments use a scale of –10 to +10, from incredibly easy checks to incredibly hard ones, and are broken into increments of 2, 5, and 10.
 
 You'll often apply the adjustments for uncommon, rare, or unique subjects.
+
+![DC Adjustments](rules/tables/dc-adjustments.md)
 
 The adjustments' names don't translate to how hard a task actually is for a PC or group of PCs, and adjustments aren't meant to balance out or replace PCs' bonuses and penalties. PCs who invest in a skill will become better and better at that skill as they increase in level. For example, even the best 1st-level PC has grim odds against an incredibly hard 1st-level DC, with a huge chance of critical failure, but by 20th level, an optimized character with a modicum of magic or assistance can take down incredibly hard 20th-level DCs over half the time, critically failing only on a 1. At higher levels, many groups will find that the very hard DC is more like standard for them; keep that in mind if you need a check that presents a true challenge to a high level group.
 
@@ -897,6 +909,8 @@ Sometimes a character might want to follow up on a check to [Recall Knowledge](r
 A character who successfully identifies a creature learns one of its best-known attributes—such as a troll's regeneration (and the fact that it can be stopped by acid or fire) or a manticore's tail spikes. On a critical success, the character also learns something subtler, like a demon's weakness or the trigger for one of the creature's reactions.
 
 The skill used to identify a creature usually depends on that creature's trait, as shown on Table 10–7, but you have leeway on which skills apply. For instance, hags are humanoids but have a strong connection to occult spells and live outside society, so you might allow a character to use [Occultism](compendium/skills.md#Occultism) to identify them without any DC adjustment, while Society is harder. Lore skills can also be used to identify their specific creature. Using the applicable Lore usually has an easy or very easy DC (before adjusting for rarity).
+
+![Creature Identification Skills](rules/tables/creature-identification-skills.md)
 
 > [!pf2-brown] DETERMINING THE SCOPE OF LORE
 > 
@@ -971,6 +985,8 @@ Characters' actions that move the story forward—like securing a major alliance
 
 As mentioned earlier, it's up to you how much XP to give out for accomplishments. As a general guideline, in a given game session, you'll typically give several minor awards, one or two moderate awards, and only one major award, if any.
 
+![XP Awards](rules/tables/xp-awards.md)
+
 #### Party Size
 <sup>CRB p. 508</sup>
 
@@ -1043,6 +1059,8 @@ Giving out uncommon and rare items and formulas can get players more interested 
 
 Uncommon and rare formulas make great treasure for a character who Crafts items. Note that if an uncommon or rare formula is broadly disseminated, it eventually becomes more common. This can take months or years, but the item might start showing up in shops all around the world.
 
+![Party Treasure by Level](rules/tables/party-treasure-by-level.md)
+
 ##### Different Item Levels
 <sup>CRB p. 510</sup>
 
@@ -1098,6 +1116,8 @@ A PC can voluntarily choose an item that has a lower level than any or all of th
 
 If you choose, you can allow the player to instead start with a lump sum of currency and buy whatever common items they want, with a maximum item level of 1 lower than the character's level. This has a lower total value than the normal allotment of permanent items and currency, since the player can select a higher ratio of high-level items.
 
+![Character Wealth](rules/tables/character-wealth.md)
+
 #### Buying and Selling Items
 <sup>CRB p. 511</sup>
 
@@ -1110,12 +1130,16 @@ Each of the environments presented in this section uses the terrain rules (which
 
 Table 10–12 lists the features of various environments alphabetically for quick reference. The Proficiency DC Band entry indicates a range of appropriate simple DCs for that environmental feature, while also providing a rough estimate of the danger or complexity of the feature.
 
+![Enviromental Features](rules/tables/enviromental-features.md)
+
 ### Environmental Damage
 <sup>CRB p. 512</sup>
 
 Some environmental features or natural disasters deal damage. Because the amount of damage can vary based on the specific circumstances, the rules for specific environments and natural disasters use damage categories to describe the damage, rather than exact numbers.
 
 Use Table 10–11 below to determine damage from an environment or natural disaster. When deciding the exact damage amount, use your best judgment based on how extreme you deem the danger to be.
+
+![Enviromental Damage](rules/tables/enviromental-damage.md)
 
 ### Aquatic
 <sup>CRB p. 512</sup>
@@ -1457,6 +1481,8 @@ Particularly hot and cold weather can make creatures fatigued more quickly durin
 
 Appropriate cold-weather gear (such as the winter clothing) can negate the damage from severe cold or reduce the damage from extreme cold to that of particularly severe cold.
 
+![Temperature Effects](rules/tables/temperature-effects.md)
+
 #### Wind
 <sup>CRB p. 517</sup>
 
@@ -1528,6 +1554,8 @@ Tremors knock creatures prone, causing them to fall or careen into other objects
 <sup>CRB p. 518</sup>
 
 Though more gradual floods can damage structures and drown creatures, flash floods are similar to avalanches, except with a liquid mass instead of a solid one. Instead of burying creatures, a flash flood carries creatures and even massive objects away, buffeting the creatures and potentially drowning them. The drowning rules appear on page 478.
+
+![Temperature Effects](rules/tables/temperature-effects.md)
 
 #### Sandstorms
 <sup>CRB p. 519</sup>
@@ -1679,6 +1707,8 @@ Some magical hazards can be counteracted using [dispel magic](compendium/spells/
 <sup>CRB p. 521</sup>
 
 Characters gain Experience Points for overcoming a hazard, whether they disable it, avoid it, or simply endure its attacks. If they trigger the same hazard later on, they don't gain XP for the hazard again. The XP values for hazards of different levels also appear on page 508, but are repeated here for convenience. The XP for a complex hazard is equal to the XP for a monster of the same level, and the XP for a simple hazard is one-fifth of that. Hazards of a lower level than the party's level –4 are trivial and award no XP.
+
+![Hazard XP](rules/tables/hazard-xp.md)
 
 ### Hazard Format
 <sup>CRB p. 522</sup>

@@ -13,13 +13,13 @@ tags:
 - trait/reach-15-feet
 aliases: ["Lamashtu", "Mother of Monsters"]
 ---
-# Lamashtu (Mother of Monsters) *(CE)*  
+# Lamashtu (Mother of Monsters) *([CE](rules/traits/chaotic-evil-b1.md))*  
 *Source: Core Rulebook p. 439*  
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: attempt to treat a mental illness or deformity, provide succor to Lamashtu's enemies
 - **Areas of Concern**: aberrance, , monsters, , and nigthmares
-- **Follower Alignments**: CE
+- **Follower Alignments**: [CE](rules/traits/chaotic-evil-b1.md)
 
 ## Devotee benefits
 

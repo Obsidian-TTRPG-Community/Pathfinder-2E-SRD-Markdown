@@ -16,7 +16,7 @@ You can apply natural cures to heal your allies. You can use [Nature](compendium
 
 ## Natural Medicine leads to...
 
-Herbalist Dedication, Endemic Herbs, Expert Herbalism, Fresh Ingredients, Poultice Preparation, Gravelands Herbalist
+[Herbalist Dedication](compendium/feats/herbalist-dedication-apg.md), [Endemic Herbs](compendium/feats/endemic-herbs-apg.md), [Expert Herbalism](compendium/feats/expert-herbalism-apg.md), [Fresh Ingredients](compendium/feats/fresh-ingredients-apg.md), [Poultice Preparation](compendium/feats/poultice-preparation-apg.md), [Gravelands Herbalist](compendium/feats/gravelands-herbalist-lokl.md)
 
 ## Summary
 

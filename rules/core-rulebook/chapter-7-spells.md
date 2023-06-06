@@ -225,6 +225,8 @@ You replenish all the Focus Points in your pool during your daily preparations. 
 
 Some abilities allow you to increase the Focus Points in your pool beyond 1. Typically, these are feats that give you a new focus spell and increase the number of points in your pool by 1. Your focus pool can't have a capacity beyond 3 Focus Points, even if feats that increase your pool would cause it to exceed this number.
 
+![Refocus](rules/actions/refocus.md)
+
 > [!pf2-brown] Focus Points from Multiple Sources
 > 
 > It's possible, especially through archetypes, to gain focus spells and Focus Points from more than one source. If this happens, you have just one focus pool, adding all the Focus Points together to determine the total size of your pool. (Remember that the maximum number of Focus Points a pool can have is 3.) If you have multiple abilities that give you a focus pool, each one adds 1 Focus Point to your pool. For instance, if you were a cleric with the Domain Initiate feat, you would have a pool with 1 Focus Point. Let's say you then took the champion multiclass archetype and the Healing Touch feat. Normally, this feat would give you a focus pool. Since you already have one, it instead increases your existing pool's capacity by 1.
@@ -256,6 +258,8 @@ You can't use your spell slots to cast your innate spells, but you might have an
 <sup>CRB p. 302</sup>
 
 The casting of a spell can range from a simple word of magical might that creates a fleeting effect to a complex process taking minutes or hours to cast and producing a long-term impact. [Casting a Spell](rules/actions/cast-a-spell.md) is a special activity that takes a number of actions defined by the spell. When you [Cast a Spell](rules/actions/cast-a-spell.md), your spellcasting creates obvious visual manifestations of the gathering magic, although feats such as Conceal Spell (page 210) and Melodious Spell (page 101) can help hide such manifestations or otherwise prevent observers from noticing that you are casting.
+
+![Cast a Spell](rules/actions/cast-a-spell.md)
 
 ### Spell Components
 <sup>CRB p. 303</sup>
@@ -361,6 +365,8 @@ You might need to keep track of the caster's initiative after they stopped being
 
 If the spell's duration is "sustained," it lasts until the end of your next turn unless you use a Sustain a Spell action on that turn to extend the duration of that spell.
 
+![Sustain a Spell](rules/actions/sustain-a-spell.md)
+
 ### Long Durations
 <sup>CRB p. 305</sup>
 
@@ -372,6 +378,8 @@ If you prepare a new spell in the slot (or don't expend a spell slot), the spell
 <sup>CRB p. 305</sup>
 
 Some spells can be dismissed, ending the duration early. This requires the caster or target to use the Dismiss action.
+
+![Dismiss](rules/actions/dismiss.md)
 
 ## Saving Throws
 <sup>CRB p. 305</sup>
@@ -500,6 +508,8 @@ Many rituals need additional secondary casters, who also don't need to be able t
 At the ritual's culmination, you must attempt the skill check listed in the Primary Check entry to determine the ritual's outcome. Primary checks usually have a very hard DC for a level that's twice the ritual's spell level. As with other downtime activities, fortune and misfortune effects can't modify your checks for the ritual, nor can bonuses or penalties that aren't active throughout the process.
 
 The GM can adjust the DCs of rituals, add or change primary or secondary checks, or even waive requirements to fit specific circumstances. For example, performing a ritual in a location where ley lines converge on the night of a new moon might make a normally difficult ritual drastically easier.
+
+![Creature Creation Rituals](rules/tables/creature-creation-rituals.md)
 
 ### Secondary Checks
 <sup>CRB p. 408</sup>

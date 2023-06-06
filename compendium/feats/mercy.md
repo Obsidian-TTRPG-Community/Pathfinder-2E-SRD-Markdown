@@ -18,7 +18,7 @@ Your touch relieves fear and restores movement. If the next action you use is to
 
 ## Mercy leads to...
 
-[Affliction Mercy](compendium/feats/affliction-mercy.md), [Greater Mercy](compendium/feats/greater-mercy.md), [Ultimate Mercy](compendium/feats/ultimate-mercy.md), Blessed Spell, Elucidating Mercy, Invigorating Mercy
+[Affliction Mercy](compendium/feats/affliction-mercy.md), [Greater Mercy](compendium/feats/greater-mercy.md), [Ultimate Mercy](compendium/feats/ultimate-mercy.md), [Blessed Spell](compendium/feats/blessed-spell-apg.md), [Elucidating Mercy](compendium/feats/elucidating-mercy-apg.md), [Invigorating Mercy](compendium/feats/invigorating-mercy-apg.md)
 
 ## Summary
 

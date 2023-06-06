@@ -15,7 +15,7 @@ As you explore your deity's aspects, you move beyond restrictions on healing or 
 
 ## Versatile Font leads to...
 
-Ebb And Flow
+[Ebb And Flow](compendium/feats/ebb-and-flow-apg.md)
 
 ## Summary
 

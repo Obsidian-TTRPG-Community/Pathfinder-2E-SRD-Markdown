@@ -15,7 +15,7 @@ You can restore your health by tapping into your ki. You gain the [wholeness of 
 
 ## Wholeness Of Body leads to...
 
-Endurance Of The Rooted Tree
+[Endurance Of The Rooted Tree](compendium/feats/endurance-of-the-rooted-tree-ec6.md)
 
 ## Summary
 

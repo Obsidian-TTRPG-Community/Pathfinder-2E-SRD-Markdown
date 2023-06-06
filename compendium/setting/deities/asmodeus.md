@@ -13,13 +13,13 @@ tags:
 - trait/reach-15-feet
 aliases: ["Asmodeus", "The Prince of Darkness"]
 ---
-# Asmodeus (The Prince of Darkness) *(LE)*  
+# Asmodeus (The Prince of Darkness) *([LE](rules/traits/lawful-evil-b1.md))*  
 *Source: Core Rulebook p. 437*  
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: break a contract, free a slave, insult Asmodeus by showing mercy to your enemies
 - **Areas of Concern**: contracts, , pride, , slavery and tyranny
-- **Follower Alignments**: LE
+- **Follower Alignments**: [LE](rules/traits/lawful-evil-b1.md)
 
 ## Devotee benefits
 

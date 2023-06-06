@@ -15,7 +15,7 @@ When you [Rage](rules/actions/rage.md), your sense of smell improves. You gain i
 
 ## Acute Scent leads to...
 
-Instinctive Strike, Nocturnal Sense, Supernatural Senses
+[Instinctive Strike](compendium/feats/instinctive-strike-apg.md), [Nocturnal Sense](compendium/feats/nocturnal-sense-apg.md), [Supernatural Senses](compendium/feats/supernatural-senses-apg.md)
 
 ## Summary
 

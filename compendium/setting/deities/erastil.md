@@ -12,13 +12,13 @@ tags:
 - trait/deadly-d8
 aliases: ["Erastil", "Old Deadeye"]
 ---
-# Erastil (Old Deadeye) *(LG)*  
+# Erastil (Old Deadeye) *([LG](rules/traits/lawful-goo-b1.md))*  
 *Source: Core Rulebook p. 438*  
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: abandon your home in its time of need, yourself over your community, tarnish your reputation, tell lies
 - **Areas of Concern**: family, , farming, , hunting, , and trade
-- **Follower Alignments**: LG, NG, LN
+- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [NG](rules/traits/neutral-good-b1.md), [LN](rules/traits/lawful-neutral-b1.md)
 
 ## Devotee benefits
 

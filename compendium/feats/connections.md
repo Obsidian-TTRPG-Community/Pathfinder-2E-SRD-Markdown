@@ -17,7 +17,7 @@ You have social connections you can leverage to trade favors or meet important p
 
 ## Connections leads to...
 
-Quick Contacts
+[Quick Contacts](compendium/feats/quick-contacts-apg.md)
 
 ## Summary
 

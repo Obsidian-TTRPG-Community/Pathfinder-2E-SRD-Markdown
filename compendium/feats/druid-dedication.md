@@ -23,7 +23,7 @@ Choose an order as you would if you were a druid. You become a member of that or
 
 ## Druid Dedication leads to...
 
-[Basic Druid Spellcasting](compendium/feats/basic-druid-spellcasting.md), [Expert Druid Spellcasting](compendium/feats/expert-druid-spellcasting.md), [Master Druid Spellcasting](compendium/feats/master-druid-spellcasting.md), [Primal Breadth](compendium/feats/primal-breadth.md), [Basic Wilding](compendium/feats/basic-wilding.md), [Advanced Wilding](compendium/feats/advanced-wilding.md), [Order Spell](compendium/feats/order-spell.md), Thick Hide Mask, Tireless Guide's Mask
+[Basic Druid Spellcasting](compendium/feats/basic-druid-spellcasting.md), [Expert Druid Spellcasting](compendium/feats/expert-druid-spellcasting.md), [Master Druid Spellcasting](compendium/feats/master-druid-spellcasting.md), [Primal Breadth](compendium/feats/primal-breadth.md), [Basic Wilding](compendium/feats/basic-wilding.md), [Advanced Wilding](compendium/feats/advanced-wilding.md), [Order Spell](compendium/feats/order-spell.md), [Thick Hide Mask](compendium/feats/thick-hide-mask-sot6.md), [Tireless Guide's Mask](compendium/feats/tireless-guides-mask-sot6.md)
 
 ## Summary
 

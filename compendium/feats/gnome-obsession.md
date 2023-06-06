@@ -14,7 +14,7 @@ You might have a flighty nature, but when a topic captures your attention, you d
 
 ## Gnome Obsession leads to...
 
-Eclectic Obsession
+[Eclectic Obsession](compendium/feats/eclectic-obsession-locg.md)
 
 ## Summary
 

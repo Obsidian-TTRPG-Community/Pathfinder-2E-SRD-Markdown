@@ -15,7 +15,7 @@ You can take on the form of some of the world's most fearsome creatures. Add the
 
 ## Dragon Shape leads to...
 
-[True Shapeshifter](compendium/feats/true-shapeshifter.md), Reactive Transformation
+[True Shapeshifter](compendium/feats/true-shapeshifter.md), [Reactive Transformation](compendium/feats/reactive-transformation-apg.md)
 
 ## Summary
 

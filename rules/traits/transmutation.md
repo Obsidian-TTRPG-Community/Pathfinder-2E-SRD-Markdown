@@ -12,5 +12,6 @@ aliases: ["Transmutation"]
 
 Effects and magic items with this trait are associated with the transmutation school of magic, typically changing something's form.
 
+Transmutation spells make alterations to or transform the physical form of a creature or object. The [morph](rules/traits/morph.md) and [polymorph](rules/traits/polymorph.md) traits appear primarily in transmutation spells.
 
 - **Categories**: School (Transmutation)

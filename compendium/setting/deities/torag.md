@@ -13,13 +13,13 @@ tags:
 - trait/shove
 aliases: ["Torag", "Father of Creation"]
 ---
-# Torag (Father of Creation) *(LG)*  
+# Torag (Father of Creation) *([LG](rules/traits/lawful-goo-b1.md))*  
 *Source: Core Rulebook p. 440*  
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: tell lies or cheat someone, intentionally create inferior works, show mercy to the enemies of your people
 - **Areas of Concern**: the forge, , protection, , and strategy
-- **Follower Alignments**: LG, LN
+- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [LN](rules/traits/lawful-neutral-b1.md)
 
 ## Devotee benefits
 

@@ -16,13 +16,13 @@ tags:
 - trait/versatile-p-or-s
 aliases: ["Irori", "Master of Masters"]
 ---
-# Irori (Master of Masters) *(LN)*  
+# Irori (Master of Masters) *([LN](rules/traits/lawful-neutral-b1.md))*  
 *Source: Core Rulebook p. 438*  
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: become addicted to a substance, destroy an important historical text, repeatedly fail to maintain self-control
 - **Areas of Concern**: history, , knowledge, , and self-perfection
-- **Follower Alignments**: LG, LN, LE
+- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [LN](rules/traits/lawful-neutral-b1.md), [LE](rules/traits/lawful-evil-b1.md)
 
 ## Devotee benefits
 

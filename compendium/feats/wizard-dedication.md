@@ -21,7 +21,7 @@ Select one arcane arcane school|wizard||1||school of magic; you don't gain any a
 
 ## Wizard Dedication leads to...
 
-[Arcane School Spell](compendium/feats/arcane-school-spell.md), [Basic Arcana](compendium/feats/basic-arcana.md), [Advanced Arcana](compendium/feats/advanced-arcana.md), [Basic Wizard Spellcasting](compendium/feats/basic-wizard-spellcasting.md), [Arcane Breadth](compendium/feats/arcane-breadth.md), [Expert Wizard Spellcasting](compendium/feats/expert-wizard-spellcasting.md), [Master Wizard Spellcasting](compendium/feats/master-wizard-spellcasting.md), Thick Hide Mask, Tireless Guide's Mask
+[Arcane School Spell](compendium/feats/arcane-school-spell.md), [Basic Arcana](compendium/feats/basic-arcana.md), [Advanced Arcana](compendium/feats/advanced-arcana.md), [Basic Wizard Spellcasting](compendium/feats/basic-wizard-spellcasting.md), [Arcane Breadth](compendium/feats/arcane-breadth.md), [Expert Wizard Spellcasting](compendium/feats/expert-wizard-spellcasting.md), [Master Wizard Spellcasting](compendium/feats/master-wizard-spellcasting.md), [Thick Hide Mask](compendium/feats/thick-hide-mask-sot6.md), [Tireless Guide's Mask](compendium/feats/tireless-guides-mask-sot6.md)
 
 ## Summary
 

@@ -16,7 +16,7 @@ You are skilled at learning information through conversation. The [Gather Inform
 
 ## Hobnobber leads to...
 
-Entourage
+[Entourage](compendium/feats/entourage-locg.md)
 
 ## Summary
 

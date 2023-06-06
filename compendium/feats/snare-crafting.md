@@ -16,7 +16,7 @@ You can use the [Craft](rules/actions/craft.md) activity to create snares, using
 
 ## Snare Crafting leads to...
 
-[Snare Specialist](compendium/feats/snare-specialist.md), [Lightning Snares](compendium/feats/lightning-snares.md), [Powerful Snares](compendium/feats/powerful-snares.md), [Quick Snares](compendium/feats/quick-snares.md), [Ubiquitous Snares](compendium/feats/ubiquitous-snares.md), Impossible Snares, Trapsmith Dedication, Finessed Features, Gear Gnash, Propeller Attachment, Recycled Cogwheels, Repurposed Parts, Snare Genius, Snare Hopping, Snarecrafter Dedication, Giant Snare, Plentiful Snares, Remote Trigger, Surprise Snare, Snare Commando, Vicious Snares
+[Snare Specialist](compendium/feats/snare-specialist.md), [Lightning Snares](compendium/feats/lightning-snares.md), [Powerful Snares](compendium/feats/powerful-snares.md), [Quick Snares](compendium/feats/quick-snares.md), [Ubiquitous Snares](compendium/feats/ubiquitous-snares.md), [Impossible Snares](compendium/feats/impossible-snares-apg.md), Trapsmith Dedication, Finessed Features, Gear Gnash, Propeller Attachment, Recycled Cogwheels, Repurposed Parts, [Snare Genius](compendium/feats/snare-genius-apg.md), [Snare Hopping](compendium/feats/snare-hopping-apg.md), [Snarecrafter Dedication](compendium/feats/snarecrafter-dedication-apg.md), [Giant Snare](compendium/feats/giant-snare-apg.md), [Plentiful Snares](compendium/feats/plentiful-snares-apg.md), [Remote Trigger](compendium/feats/remote-trigger-apg.md), [Surprise Snare](compendium/feats/surprise-snare-apg.md), [Snare Commando](compendium/feats/snare-commando-loag.md), [Vicious Snares](compendium/feats/vicious-snares-loag.md)
 
 ## Summary
 

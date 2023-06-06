@@ -11,13 +11,13 @@ tags:
 - domain/wealth/deity
 aliases: ["Abadar", "The Master of the First Vault"]
 ---
-# Abadar (The Master of the First Vault) *(LN)*  
+# Abadar (The Master of the First Vault) *([LN](rules/traits/lawful-neutral-b1.md))*  
 *Source: Core Rulebook p. 437*  
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: engage in banditry or piracy, steal, undermine a law-abiding court
 - **Areas of Concern**: cities, , law, , merchants, , and wealth
-- **Follower Alignments**: LG, LN, LE
+- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [LN](rules/traits/lawful-neutral-b1.md), [LE](rules/traits/lawful-evil-b1.md)
 
 ## Devotee benefits
 

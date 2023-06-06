@@ -14,7 +14,7 @@ It takes more to kill you than most. You die from the [dying](rules/conditions.m
 
 ## Diehard leads to...
 
-Numb To Death
+[Numb To Death](compendium/feats/numb-to-death-logm.md)
 
 ## Summary
 

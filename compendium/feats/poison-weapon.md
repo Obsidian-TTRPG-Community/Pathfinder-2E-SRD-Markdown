@@ -19,7 +19,7 @@ You apply a [poison](rules/traits/poison.md) to the required weapon; if you're n
 
 ## Poison Weapon leads to...
 
-[Improved Poison Weapon](compendium/feats/improved-poison-weapon.md), Deadly Poison Weapon
+[Improved Poison Weapon](compendium/feats/improved-poison-weapon.md), [Deadly Poison Weapon](compendium/feats/deadly-poison-weapon-aoa5.md)
 
 ## Summary
 

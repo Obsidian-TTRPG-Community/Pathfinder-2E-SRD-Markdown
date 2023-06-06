@@ -15,7 +15,7 @@ Wings free you from the shackles of the ground below. Add the bat and bird forms
 
 ## Soaring Shape leads to...
 
-[Dragon Shape](compendium/feats/dragon-shape.md), [True Shapeshifter](compendium/feats/true-shapeshifter.md), Reactive Transformation
+[Dragon Shape](compendium/feats/dragon-shape.md), [True Shapeshifter](compendium/feats/true-shapeshifter.md), [Reactive Transformation](compendium/feats/reactive-transformation-apg.md)
 
 ## Summary
 

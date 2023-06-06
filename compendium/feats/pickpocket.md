@@ -16,7 +16,7 @@ You can [Steal](rules/actions/steal.md) or [Palm an Object](rules/actions/palm-a
 
 ## Pickpocket leads to...
 
-[Legendary Thief](compendium/feats/legendary-thief.md), Steal Spell, Plant Evidence, Larcenous Hand
+[Legendary Thief](compendium/feats/legendary-thief.md), [Steal Spell](compendium/feats/steal-spell-apg.md), [Plant Evidence](compendium/feats/plant-evidence-apg.md), [Larcenous Hand](compendium/feats/larcenous-hand-lotgb.md)
 
 ## Summary
 

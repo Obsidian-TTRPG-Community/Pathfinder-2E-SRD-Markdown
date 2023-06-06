@@ -1,0 +1,24 @@
+---
+obsidianUIMode: preview
+cssclass: pf2e,pf2e-action
+tags:
+- action
+- compendium/src/pf2e/aoa6
+- trait/auditory
+- trait/concentrate
+- trait/linguistic
+- trait/mental
+aliases: ["Convince Mengkare"]
+---
+# Convince Mengkare
+[auditory](rules/traits/auditory.md)  [concentrate](rules/traits/concentrate.md)  [linguistic](rules/traits/linguistic.md)  [mental](rules/traits/mental.md)  
+*Source: Age of Ashes #6: Broken Promises p. 46*  
+
+
+You spend several minutes debating with the gold dragon Mengkare and have presented a piece of information that could potentially raise his Doubt score and cause him to reconsider his plans to sacrifice the citizens of Promise. Select one of the key skills associated with the argument you made, and attempt a check with that skill—the required DC depends on the skill used, as indicated in the Arguments against Glory section below.
+
+> [!success-degree] 
+> - **Critical Success** You increase Mengkare's Doubt by 2.
+> - **Success** You increase Mengkare's Doubt by 1.
+> - **Failure** You fail to increase Mengkare's Doubt.
+> - **Critical Failure** You undermine your argument. Reduce Mengkare's Doubt by 1.

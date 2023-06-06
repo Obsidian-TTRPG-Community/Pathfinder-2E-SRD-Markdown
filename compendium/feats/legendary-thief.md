@@ -16,7 +16,7 @@ Your ability to [Steal](rules/actions/steal.md) defies belief. You can attempt t
 
 ## Legendary Thief leads to...
 
-Steal Spell
+[Steal Spell](compendium/feats/steal-spell-apg.md)
 
 ## Summary
 

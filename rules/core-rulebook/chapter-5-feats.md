@@ -14,3 +14,7 @@ General feats also include a subcategory of skill feats, which expand on what yo
 
 > [!pf2-note]
 > Please visit the feats page to view all feats.
+
+![General Feats](rules/tables/general-feats.md)
+
+![General Skill Feats](rules/tables/general-skill-feats.md)

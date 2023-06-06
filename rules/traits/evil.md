@@ -12,5 +12,6 @@ aliases: ["Evil"]
 
 Evil effects often manipulate energy from evil-aligned Outer Planes and are antithetical to good divine servants or divine servants of good deities. A creature with this trait is evil in alignment.
 
+Evil effects often manipulate energy from evil-aligned Outer Planes and are antithetical to good divine servants or divine servants of good deities. A creature with this trait is evil in alignment. An ability with this trait can be selected or used only by evil creatures.
 
 - **Categories**: Alignment, Planar

@@ -18,7 +18,7 @@ During your daily preparations, choose any one spell from your book of arcane sp
 
 ## Arcane Evolution leads to...
 
-[Greater Mental Evolution](compendium/feats/greater-mental-evolution.md), Greater Physical Evolution
+[Greater Mental Evolution](compendium/feats/greater-mental-evolution.md), [Greater Physical Evolution](compendium/feats/greater-physical-evolution-apg.md)
 
 ## Summary
 

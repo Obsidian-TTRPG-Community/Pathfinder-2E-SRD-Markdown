@@ -20,7 +20,7 @@ Focus spells are automatically heightened to half your level rounded up. Focus s
 
 ## Domain Initiate leads to...
 
-[Advanced Domain](compendium/feats/advanced-domain.md), [Deity's Protection](compendium/feats/deitys-protection.md), Shield Of Faith, Expanded Domain Initiate
+[Advanced Domain](compendium/feats/advanced-domain.md), [Deity's Protection](compendium/feats/deitys-protection.md), [Shield Of Faith](compendium/feats/shield-of-faith-apg.md), [Expanded Domain Initiate](compendium/feats/expanded-domain-initiate-logm.md)
 
 ## Summary
 

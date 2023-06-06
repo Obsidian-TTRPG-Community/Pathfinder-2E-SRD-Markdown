@@ -15,7 +15,7 @@ aliases: ["Avatar"]
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Duration**1 minute
 
-You transform into an avatar of your deity, assuming a Huge battle form. You must have space to expand or the spell is lost.
+You transform into an avatar of your deity, assuming a [Huge](rules/traits/huge-b1.md) battle form. You must have space to expand or the spell is lost.
 
 You have hands in this battle form and can take manipulate actions. You can [Dismiss](rules/actions/dismiss.md) this spell.
 

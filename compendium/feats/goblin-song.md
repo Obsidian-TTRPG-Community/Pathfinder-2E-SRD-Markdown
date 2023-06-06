@@ -20,7 +20,7 @@ You sing annoying goblin songs, distracting your foes with silly and repetitive 
 
 ## Goblin Song leads to...
 
-Loud Singer
+[Loud Singer](compendium/feats/loud-singer-apg.md)
 
 ## Summary
 

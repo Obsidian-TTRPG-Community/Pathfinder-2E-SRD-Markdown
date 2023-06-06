@@ -18,7 +18,7 @@ You forgo precision to attack at an impossible speed. Make three melee [Strikes]
 
 ## Impossible Flurry leads to...
 
-Accurate Flurry
+[Accurate Flurry](compendium/feats/accurate-flurry-apg.md)
 
 ## Summary
 

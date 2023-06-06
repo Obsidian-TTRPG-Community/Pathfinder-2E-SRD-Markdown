@@ -16,7 +16,7 @@ You were raised among the nobility or have learned proper etiquette and bearing,
 
 ## Courtly Graces leads to...
 
-[Connections](compendium/feats/connections.md), Quick Contacts
+[Connections](compendium/feats/connections.md), [Quick Contacts](compendium/feats/quick-contacts-apg.md)
 
 ## Summary
 

@@ -6,4 +6,8 @@ tags:
 aliases: ["Secret Language"]
 ---
 # Secret Language  
-*Source: Core Rulebook p. 65*
+*Source: Core Rulebook p. 65*  
+
+| Language | Speakers |
+|----------|----------|
+| Druidic | Druids |

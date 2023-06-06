@@ -32,6 +32,8 @@ Most items in the following tables have a Price, which is the amount of currency
 > ### 15 GP (150 SP)
 > <sup>CRB p. 271</sup>
 
+![Coin Values](rules/tables/coin-values.md)
+
 ## Item Level
 <sup>CRB p. 271</sup>
 
@@ -82,12 +84,12 @@ You might need to know the Bulk of a creature, especially if you need to carry s
 
 | Size of Creature | Bulk |
 |------------------|------|
-| Tiny | 1 |
-| Small | 3 |
-| Medium | 6 |
-| Large | 12 |
-| Huge | 24 |
-| Gargantuan | 48 |
+| [Tiny](rules/traits/tiny-b1.md) | 1 |
+| [Small](rules/traits/small-b1.md) | 3 |
+| [Medium](rules/traits/medium-b1.md) | 6 |
+| [Large](rules/traits/large-b1.md) | 12 |
+| [Huge](rules/traits/huge-b1.md) | 24 |
+| [Gargantuan](rules/traits/gargantuan-b1.md) | 48 |
 
 #### Dragging
 <sup>CRB p. 272</sup>
@@ -98,6 +100,8 @@ In some situations, you might drag an object or creature rather than carry it. I
 <sup>CRB p. 272</sup>
 
 Some abilities require you to wield an item, typically a weapon. You're wielding an item any time you're holding it in the number of hands needed to use it effectively. When wielding an item, you're not just carrying it around—you're ready to use it. Other abilities might require you to merely carry or have an item. These apply as long as you have the item on your person; you don't have to wield it.
+
+![Changing Equipment](rules/tables/changing-equipment.md)
 
 ## Item Damage
 <sup>CRB p. 272</sup>
@@ -218,6 +222,10 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 **Plate:** The sturdy plate provides no purchase for a cutting edge. You gain resistance to slashing damage equal to 1 + the value of the armor's potency rune for medium armor, or 2 + the value of the armor's potency rune for heavy armor.
 
+![Unarmored Defense](rules/tables/unarmored-defense.md)
+
+![Armor](rules/tables/armor.md)
+
 > [!pf2-brown] MATERIALS
 > 
 > Most suits of armor and weapons are made from ordinary, commonly available materials like iron, leather, steel, and wood. If you're not sure what a suit of armor is made of, the GM determines the details.
@@ -253,6 +261,8 @@ Each type of armor is described in more detail below.
 
 **[Studded Leather](compendium/equipment/items/studded-leather.md):** This leather armor is reinforced with metal studs and sometimes small metal plates, providing most of the flexibility of leather armor with more robust protection.
 
+![Damaging Armor](rules/tables/damaging-armor.md)
+
 ## Shields
 <sup>CRB p. 277</sup>
 
@@ -283,6 +293,8 @@ Whenever a shield takes damage, the amount of damage it takes is reduced by this
 <sup>CRB p. 277</sup>
 
 This column lists the shield's Hit Points (HP) and Broken Threshold (BT). These measure how much damage the shield can take before it's destroyed (its total HP) and how much it can take before being broken and unusable (its BT). These matter primarily for the [Shield Block](compendium/feats/shield-block.md) reaction.
+
+![Shields](rules/tables/shields.md)
 
 ### Attacking with a Shield
 <sup>CRB p. 277</sup>
@@ -441,6 +453,12 @@ The traits a weapon or unarmed attack has are listed in this entry. Any trait th
 
 Some entries in the ranged weapons tables are followed by an entry indicating the type of ammunition that weapon launches. The damage die is determined by the weapon, not the ammunition. Because that and other relevant statistics vary by weapon, ammunition entries list only the name, quantity, Price, and Bulk. Using ammunition destroys it.
 
+![Unarmed Attacks](rules/tables/unarmed-attacks.md)
+
+![Melee Weapons](rules/tables/melee-weapons.md)
+
+![Ranged Weapons](rules/tables/ranged-weapons.md)
+
 #### Weapon Traits
 <sup>CRB p. 282</sup>
 
@@ -504,6 +522,10 @@ This lists how many hands it takes to use the item effectively. Most items that 
 <sup>CRB p. 287</sup>
 
 You can make a set of tools (such as [alchemist's tools](compendium/equipment/items/alchemists-tools.md) or [healer's tools](compendium/equipment/items/healers-tools.md)) easier to use by wearing it. This allows you to draw and replace the tools as part of the action that uses them. You can wear up to 2 Bulk of tools in this manner; tools beyond this limit must be stowed or drawn with an [Interact](rules/actions/interact.md) action to use.
+
+![Adventuring Gear](rules/tables/adventuring-gear.md)
+
+![Uncommon Adventuring Gear](rules/tables/uncommon-adventuring-gear.md)
 
 ### Adventuring Gear
 <sup>CRB p. 290</sup>
@@ -724,6 +746,8 @@ If you want to quickly decide how to spend your starting money on what your clas
 
 The items listed on Table 6–11 are the most widely available alchemical items from Chapter 11, which a 1st-level character could likely access. The descriptions below are incomplete; each item's full entry appears in Chapter 11 on the page listed in the table. Your GM might allow you to start with other alchemical items from Chapter 11 on a case-by-case basis.
 
+![Alchemical Gear](rules/tables/alchemical-gear.md)
+
 #### Alchemical Bombs
 <sup>CRB p. 292</sup>
 
@@ -768,6 +792,8 @@ Alchemical tools are a type of alchemical item you use, rather than drink or thr
 
 The items on Table 6–12 are the magic items from Chapter 11 that a 1st-level character could most frequently access. The descriptions below are incomplete; the items' full entries appear in Chapter 11 on the pages listed in the table. Your GM might allow you to start with other magic items from Chapter 11 on a case-by-case basis.
 
+![Magical Gear](rules/tables/magical-gear.md)
+
 #### Consumable Magic Items
 <sup>CRB p. 293</sup>
 
@@ -807,6 +833,8 @@ If you have an item, you can try to reverse-engineer its formula. This uses the 
 
 The item's disassembled parts are worth half its Price in raw materials and can't be reassembled unless you successfully reverse-engineer the formula or acquire the formula another way. Reassembling the item from the formula works just like [Crafting](rules/actions/craft.md) it from scratch; you use the disassembled parts as the necessary raw materials.
 
+![Formulas](rules/tables/formulas.md)
+
 #### Items with Multiple Types
 <sup>CRB p. 293</sup>
 
@@ -816,6 +844,8 @@ If an item has multiple types of different levels, each type has its own formula
 <sup>CRB p. 294</sup>
 
 The services listed on [Table 6–14](rules/tables/basic-services-and-consumables.md) describe expenditures for common services and consumables.
+
+![Basic Services and Consumables](rules/tables/basic-services-and-consumables.md)
 
 #### Hirelings
 <sup>CRB p. 294</sup>
@@ -832,10 +862,14 @@ The cost to hire transportation includes standard travel with no amenities. Most
 
 Spellcasting services, listed on [Table 6–15](rules/tables/spellcasting-services.md), are uncommon. Having a spell cast for you requires finding a spellcaster who knows and is willing to cast it. It's hard to find someone who can cast higher-level spells, and uncommon spells typically cost at least 100% more, if you can find someone who knows them at all. Spells that take a long time to cast (over 1 minute) usually cost 25% more. You must pay any cost listed in the spell in addition to the Price on the table.
 
+![Spellcasting Services](rules/tables/spellcasting-services.md)
+
 ### Cost of Living
 <sup>CRB p. 294</sup>
 
 [Table 6–16](rules/tables/cost-of-living.md) shows how much it costs to get by. This covers room and board, dues, taxes, and other fees.
+
+![Cost of Living](rules/tables/cost-of-living.md)
 
 ### Animals
 <sup>CRB p. 294</sup>
@@ -844,30 +878,38 @@ The Prices for animals are listed both for renting and for purchasing them outri
 
 Warhorses and warponies are combat trained. They don't become [frightened](rules/conditions.md#Frightened) or [fleeing](rules/conditions.md#Fleeing) during encounters in this way.
 
+![Animals](rules/tables/animals.md)
+
 #### Barding
 <sup>CRB p. 295</sup>
 
 You can purchase special armor for animals, called barding (shown on [Table 6–18](rules/tables/barding.md)). All animals have a trained proficiency rank in light barding, and combat-trained animals are trained in heavy barding. Barding uses the same rules as armor except for the following. The Price and Bulk of barding depend on the animal's size. Unlike for a suit of armor, barding's Strength entry is listed as a modifier, not a score. Barding can't be etched with magic runes, though special magical barding might be available.
 
+![Barding](rules/tables/barding.md)
+
 ### Items and Sizes
 <sup>CRB p. 295</sup>
 
-The Bulk rules in this chapter are for Small and Medium creatures, as the items are made for creatures of those sizes. Large creatures can carry more, and smaller creatures can carry less, as noted on [Table 6–19](rules/tables/bulk-conversions.md).
+The Bulk rules in this chapter are for [Small](rules/traits/small-b1.md) and [Medium](rules/traits/medium-b1.md) creatures, as the items are made for creatures of those sizes. Large creatures can carry more, and smaller creatures can carry less, as noted on [Table 6–19](rules/tables/bulk-conversions.md).
 
 These rules for Bulk limits come up most often when a group tries to load up a mount or animal companion. The rules for items of different sizes tend to come into play when the characters defeat a big creature that has gear, since in most cases, the only creatures of other sizes are creatures under the GM's control. In most cases, Small or Medium creatures can wield a Large weapon, though it's unwieldy, giving them the clumsy 1 condition, and the larger size is canceled by the difficulty of swinging the weapon, so it grants no special benefit. Large armor is simply too large for Small and Medium creatures.
 
 #### Bulk Conversions for Different Sizes
 <sup>CRB p. 295</sup>
 
-As shown in [Table 6–19](rules/tables/bulk-conversions.md), Large or larger creatures are less encumbered by bulky items than Small or Medium creatures, while Tiny creatures become overburdened more quickly. A Large creature treats 10 items of 1 Bulk as 1 Bulk, a Huge creature treats 10 items of 2 Bulk as 1 Bulk, and so on. A Tiny creature treats 10 items of negligible Bulk as 1 Bulk. Negligible items work in a similar way—a Huge creature treats items of 1 Bulk as negligible, so it can carry any number of items of 1 Bulk. A Tiny creature doesn't treat any items as having negligible Bulk.
+As shown in [Table 6–19](rules/tables/bulk-conversions.md), [Large](rules/traits/large-b1.md) or larger creatures are less encumbered by bulky items than [Small](rules/traits/small-b1.md) or [Medium](rules/traits/medium-b1.md) creatures, while [Tiny](rules/traits/tiny-b1.md) creatures become overburdened more quickly. A [Large](rules/traits/large-b1.md) creature treats 10 items of 1 Bulk as 1 Bulk, a [Huge](rules/traits/huge-b1.md) creature treats 10 items of 2 Bulk as 1 Bulk, and so on. A [Tiny](rules/traits/tiny-b1.md) creature treats 10 items of negligible Bulk as 1 Bulk. Negligible items work in a similar way—a [Huge](rules/traits/huge-b1.md) creature treats items of 1 Bulk as negligible, so it can carry any number of items of 1 Bulk. A [Tiny](rules/traits/tiny-b1.md) creature doesn't treat any items as having negligible Bulk.
+
+![Bulk conversions](rules/tables/bulk-conversions.md)
 
 #### Items of Different Sizes
 <sup>CRB p. 295</sup>
 
-Creatures of sizes other than Small or Medium need items appropriate to their size. These items have different Bulk and possibly a different Price. [Table 6 –20](rules/tables/differently-sized-items.md) provides the Price and Bulk conversion for such items.
+Creatures of sizes other than [Small](rules/traits/small-b1.md) or [Medium](rules/traits/medium-b1.md) need items appropriate to their size. These items have different Bulk and possibly a different Price. [Table 6 –20](rules/tables/differently-sized-items.md) provides the Price and Bulk conversion for such items.
 
-For example, a [morningstar](compendium/equipment/items/morningstar.md) sized for a Medium creature has a Price of 1 gp and 1 Bulk, so one made for a Huge creature has a Price of 4 gp and 4 Bulk. One made for a Tiny creature still costs 1 gp (due to its intricacy) and has 1/2 Bulk, which rounds down to light Bulk.
+![Differently Sized Items](rules/tables/differently-sized-items.md)
 
-Because the way that a creature treats Bulk and the Bulk of gear sized for it scale the same way, Tiny or Large (or larger) creatures can usually wear and carry about the same amount of appropriately sized gear as a Medium creature.
+For example, a [morningstar](compendium/equipment/items/morningstar.md) sized for a [Medium](rules/traits/medium-b1.md) creature has a Price of 1 gp and 1 Bulk, so one made for a [Huge](rules/traits/huge-b1.md) creature has a Price of 4 gp and 4 Bulk. One made for a [Tiny](rules/traits/tiny-b1.md) creature still costs 1 gp (due to its intricacy) and has 1/2 Bulk, which rounds down to light Bulk.
+
+Because the way that a creature treats Bulk and the Bulk of gear sized for it scale the same way, [Tiny](rules/traits/tiny-b1.md) or [Large](rules/traits/large-b1.md) (or larger) creatures can usually wear and carry about the same amount of appropriately sized gear as a [Medium](rules/traits/medium-b1.md) creature.
 
 Higher-level magic items that cost significantly more than 8 times the cost of a mundane item can use their listed Price regardless of size. Precious materials, however, have a Price based on the Bulk of the item, so multiply the Bulk value as described on [Table 6 –20](rules/tables/differently-sized-items.md), then use the formula in the precious material's entry to determine the item's Price. See page 578 for more information.
