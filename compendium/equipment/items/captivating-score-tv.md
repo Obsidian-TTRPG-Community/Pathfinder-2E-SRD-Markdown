@@ -15,7 +15,7 @@ tags:
 aliases: ["Captivating Score"]
 ---
 # Captivating Score *Item 11*  
-[auditory](rules/traits/auditory.md)  [consumable](rules/traits/consumable.md)  [emotion](rules/traits/emotion.md)  [enchantment](rules/traits/enchantment.md)  [incapacitation](rules/traits/incapacitation.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  [missive](rules/traits/missive-tv.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [missive](rules/traits/missive-tv.md "Missive Item Trait")  
 
 - **Price** 250 gp
 - **Usage** held in 1 hand; **Bulk** —

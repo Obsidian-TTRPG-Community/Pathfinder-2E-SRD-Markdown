@@ -10,12 +10,12 @@ tags:
 - domain/tyranny/deity
 aliases: ["Mephistopheles", "The Crimson Son"]
 ---
-# Mephistopheles (The Crimson Son) *([LE](rules/traits/lawful-evil-b1.md))*  
+# Mephistopheles (The Crimson Son) *([LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 75*  
 
 - **Category**: Archdevils
 - **Anathema**: break a contract you made, get caught breaking the law
-- **Follower Alignments**: [LE](rules/traits/lawful-evil-b1.md)
+- **Follower Alignments**: [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait")
 
 ## Devotee benefits
 

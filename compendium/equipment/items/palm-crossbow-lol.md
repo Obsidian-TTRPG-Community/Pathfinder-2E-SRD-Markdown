@@ -8,7 +8,7 @@ tags:
 aliases: ["Palm Crossbow"]
 ---
 # Palm Crossbow *Item 3*  
-[rare](rules/traits/rare.md)  
+[rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 60 gp
 - **Usage** worn; **Bulk** L

@@ -9,7 +9,7 @@ tags:
 aliases: ["Implausible Infiltration"]
 ---
 # Implausible Infiltration  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 18*  
-[magical](rules/traits/magical.md)  [move](rules/traits/move.md)  [rogue](rules/traits/rogue.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [move](rules/traits/move.md "Move Combat Trait")  [rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Prerequisites**: legendary in [Acrobatics](compendium/skills.md#Acrobatics), [Quick Squeeze](compendium/feats/quick-squeeze.md)
 - **Requirements**: You are adjacent to a floor or vertical wall.

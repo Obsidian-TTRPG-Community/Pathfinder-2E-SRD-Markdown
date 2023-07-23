@@ -9,7 +9,7 @@ tags:
 aliases: ["Sack of Rotten Fruit"]
 ---
 # Sack of Rotten Fruit *Item 1*  
-[consumable](rules/traits/consumable.md)  [uncommon](rules/traits/uncommon.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 3 gp
 - **Usage** Held in 1 hand; **Bulk** L

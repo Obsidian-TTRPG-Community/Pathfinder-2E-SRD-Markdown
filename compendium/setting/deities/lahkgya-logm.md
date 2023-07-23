@@ -10,12 +10,12 @@ tags:
 - domain/trickery/deity
 aliases: ["Lahkgya", "Patron of Monkeys"]
 ---
-# Lahkgya (Patron of Monkeys) *([CE](rules/traits/chaotic-evil-b1.md))*  
+# Lahkgya (Patron of Monkeys) *([CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 132*  
 
 - **Category**: Vudrani Gods
 - **Anathema**: work honestly for something you could steal instead, kill a monkey
-- **Follower Alignments**: [CE](rules/traits/chaotic-evil-b1.md)
+- **Follower Alignments**: [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
 

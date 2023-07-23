@@ -8,7 +8,7 @@ tags:
 aliases: ["Automatic Knowledge"]
 ---
 # Automatic Knowledge  *Feat 2*  
-[general](rules/traits/general.md)  [skill](rules/traits/skill.md)  
+[general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: expert in a skill with the [Recall Knowledge](rules/actions/recall-knowledge.md) action, [Assurance](compendium/feats/assurance.md) in that skill
 

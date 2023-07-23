@@ -7,7 +7,7 @@ tags:
 aliases: ["Warren Navigator"]
 ---
 # Warren Navigator  *Feat 1*  
-[ratfolk](rules/traits/ratfolk-b1.md)  
+[ratfolk](rules/traits/ratfolk-b1.md "Ratfolk Ancestry & Heritage Trait")  
 
 
 You're particularly good at solving mazes and navigating twists and turns. You gain the trained proficiency rank in [Survival](compendium/skills.md#Survival).

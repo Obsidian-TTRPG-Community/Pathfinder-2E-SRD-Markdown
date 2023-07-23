@@ -12,7 +12,7 @@ tags:
 aliases: ["Wand of Paralytic Shock"]
 ---
 # Wand of Paralytic Shock *Item 8+*  
-[electricity](rules/traits/electricity.md)  [enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  [wand](rules/traits/wand.md)  
+[electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Wand

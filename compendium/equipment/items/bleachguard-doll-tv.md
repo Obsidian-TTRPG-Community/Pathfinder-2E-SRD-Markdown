@@ -11,7 +11,7 @@ tags:
 aliases: ["Bleachguard Doll"]
 ---
 # Bleachguard Doll *Item 8*  
-[conjuration](rules/traits/conjuration.md)  [intelligent](rules/traits/intelligent-gmg.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [intelligent](rules/traits/intelligent-gmg.md "Intelligent Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Held

@@ -7,7 +7,7 @@ tags:
 aliases: ["Elven Weapon Expertise"]
 ---
 # Elven Weapon Expertise  *Feat 13*  
-[elf](rules/traits/elf.md)  
+[elf](rules/traits/elf.md "Elf Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Elven Weapon Familiarity](compendium/feats/elven-weapon-familiarity.md)
 

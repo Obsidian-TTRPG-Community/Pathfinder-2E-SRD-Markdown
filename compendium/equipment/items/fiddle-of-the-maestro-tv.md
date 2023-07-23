@@ -12,7 +12,7 @@ tags:
 aliases: ["Fiddle of the Maestro"]
 ---
 # Fiddle of the Maestro *Item 16*  
-[coda](rules/traits/coda-tv.md)  [enchantment](rules/traits/enchantment.md)  [occult](rules/traits/occult.md)  [rare](rules/traits/rare.md)  [staff](rules/traits/staff.md)  
+[coda](rules/traits/coda-tv.md "Coda Item Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  
 
 - **Price** 10000 gp
 - **Usage** held in 2 hands; **Bulk** L

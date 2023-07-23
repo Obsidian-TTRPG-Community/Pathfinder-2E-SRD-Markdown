@@ -7,7 +7,7 @@ tags:
 aliases: ["Expert Bard Spellcasting"]
 ---
 # Expert Bard Spellcasting  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Bard Spellcasting](compendium/feats/basic-bard-spellcasting.md), master in [Occultism](compendium/skills.md#Occultism)
 

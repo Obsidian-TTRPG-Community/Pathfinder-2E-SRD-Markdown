@@ -10,7 +10,7 @@ aliases: ["Tetanus"]
 ---
 # Tetanus
 *Disease 1*  
-[disease](rules/traits/disease.md)  
+[disease](rules/traits/disease.md "Disease Effect Trait")  
 
 An infection introduced through open wounds, tetanus can produce stiffness, muscle spasms strong enough to break bones, and ultimately death.
 

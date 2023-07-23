@@ -10,7 +10,7 @@ tags:
 aliases: ["Alchemical Fuse"]
 ---
 # Alchemical Fuse *Item 1*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [fire](rules/traits/fire.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  
 
 - **Usage** held in one hand; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md)

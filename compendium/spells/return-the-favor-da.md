@@ -11,7 +11,7 @@ tags:
 aliases: ["Return the Favor"]
 ---
 # Return the Favor *Focus 3*   
-[hex](rules/traits/hex-apg.md)  [necromancy](rules/traits/necromancy.md)  [rare](rules/traits/rare.md)  [witch](rules/traits/witch-apg.md)  
+[hex](rules/traits/hex-apg.md "Hex Combat Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [witch](rules/traits/witch-apg.md "Witch Class Trait")  
 
 - **Patron** Witch
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 

@@ -9,7 +9,7 @@ tags:
 aliases: ["Clone"]
 ---
 # Clone *Ritual 9*  
-[necromancy](rules/traits/necromancy.md)  [rare](rules/traits/rare.md)  
+[necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Cast** 7 days
 - **Cost** rare laboratory supplies and reagents worth the target's level (minimum 1) × 100 gp

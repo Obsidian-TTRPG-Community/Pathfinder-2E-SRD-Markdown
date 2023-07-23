@@ -12,7 +12,7 @@ tags:
 aliases: ["Careless Delight"]
 ---
 # Careless Delight *Item 9*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [ingested](rules/traits/ingested.md)  [mental](rules/traits/mental.md)  [poison](rules/traits/poison.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [ingested](rules/traits/ingested.md "Ingested Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Price** 130 gp
 - **Usage** held in 1 hand; **Bulk** L

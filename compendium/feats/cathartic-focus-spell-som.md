@@ -7,7 +7,7 @@ tags:
 aliases: ["Cathartic Focus Spell"]
 ---
 # Cathartic Focus Spell  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Cathartic Mage Dedication](compendium/feats/cathartic-mage-dedication-som.md)
 

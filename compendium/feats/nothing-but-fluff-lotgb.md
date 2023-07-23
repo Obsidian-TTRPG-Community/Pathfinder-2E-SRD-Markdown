@@ -7,7 +7,7 @@ tags:
 aliases: ["Nothing But Fluff"]
 ---
 # Nothing But Fluff  *Feat 5*  
-[poppet](rules/traits/poppet-lotgb.md)  
+[poppet](rules/traits/poppet-lotgb.md "Poppet Ancestry & Heritage Trait")  
 
 - **Prerequisites**: stuffed poppet heritage
 

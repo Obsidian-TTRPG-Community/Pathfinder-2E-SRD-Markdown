@@ -7,7 +7,7 @@ tags:
 aliases: ["Expert Summoner Spellcasting"]
 ---
 # Expert Summoner Spellcasting  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Summoner Spellcasting](compendium/feats/basic-summoner-spellcasting-som.md), master in the skill associated with your eidolon's tradition
 

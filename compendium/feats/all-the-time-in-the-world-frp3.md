@@ -8,7 +8,7 @@ tags:
 aliases: ["All The Time In The World"]
 ---
 # All The Time In The World  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 20*  
-[investigator](rules/traits/investigator-apg.md)  [uncommon](rules/traits/uncommon.md)  
+[investigator](rules/traits/investigator-apg.md "Investigator Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Frequency**: once per hour
 - **Activity** Three-Action

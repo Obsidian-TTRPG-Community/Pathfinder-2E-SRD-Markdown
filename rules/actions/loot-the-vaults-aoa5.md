@@ -8,7 +8,7 @@ tags:
 aliases: ["Loot the Vaults"]
 ---
 # Loot the Vaults
-[exploration](rules/traits/exploration.md)  
+[exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  
 *Source: Age of Ashes #5: Against the Scarlet Triad p. 28*  
 
 - **Requirements**: The PCs have reached the basement by Overcoming the [Find the Cells](rules/actions/find-the-cells-aoa5.md) Obstacle.

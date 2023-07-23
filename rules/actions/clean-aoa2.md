@@ -9,7 +9,7 @@ tags:
 aliases: ["Clean"]
 ---
 # Clean
-[downtime](rules/traits/downtime.md)  [manipulate](rules/traits/manipulate.md)  
+[downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 *Source: Age of Ashes #2: Cult of Cinders p. 73*  
 
 

@@ -12,7 +12,7 @@ tags:
 aliases: ["Martyr's Shield"]
 ---
 # Martyr's Shield *Item 7*  
-[abjuration](rules/traits/abjuration.md)  [divine](rules/traits/divine.md)  [intelligent](rules/traits/intelligent-gmg.md)  [lg](rules/traits/lawful-goo-b1.md)  [rare](rules/traits/rare.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [intelligent](rules/traits/intelligent-gmg.md "Intelligent Item Trait")  [lg](rules/traits/lg-b1.md "Lawful Good Alignment Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Held

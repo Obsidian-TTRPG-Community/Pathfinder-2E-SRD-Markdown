@@ -7,7 +7,7 @@ tags:
 aliases: ["Elucidating Mercy"]
 ---
 # Elucidating Mercy  *Feat 10*  
-[champion](rules/traits/champion.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  
 
 - **Prerequisites**: [Mercy](compendium/feats/mercy.md)
 

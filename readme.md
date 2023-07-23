@@ -53,8 +53,8 @@ The non-bestiary files are all equipped with this frontmatter setup.
 ## Special Thanks
 This community vault has been brought to you by the efforts of many individuals. 
 
-- [eBullient](https://github.com/ebullient), for their [TTRPG-Covert-CLI](https://github.com/ebullient/ttrpg-convert-cli) which pulls the data from PF2ETools and converts it to Markdown Form.
-- [Javalent](https://github.com/valentine195), for their useful plugins help make some of the painful parts of 
+- [eBullient](https://github.com/ebullient), for their [TTRPG-Covert-CLI](https://github.com/ebullient/ttrpg-convert-cli) that pulls the data from PF2ETools and converts it to Markdown Form.
+- [Javalent](https://github.com/valentine195), for their useful plugins help make some painful parts of 
   this process much easier. 
 - [Sigrunixia](https://github.com/sigrunixia), eventually, for their over-spazzing on the CSS and getting the thing uploaded onto the Vault.
 - [Robinsving](https://github.com/robinsving), whose dataview spells will get re-added to the CLI spell format, soon. (I promise.)

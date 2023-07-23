@@ -9,7 +9,7 @@ tags:
 aliases: ["Golem Grafter Dedication"]
 ---
 # Golem Grafter Dedication  *Feat 8*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: expert in [Arcana](compendium/skills.md#Arcana) and [Crafting](compendium/skills.md#Crafting), or an ally with expert proficiency in those skills willing to augment you
 

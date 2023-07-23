@@ -7,7 +7,7 @@ tags:
 aliases: ["Fulminating Synergy"]
 ---
 # Fulminating Synergy  *Feat 16*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Dualistic Synergy](compendium/feats/dualistic-synergy-locg.md)
 

@@ -9,7 +9,7 @@ tags:
 aliases: ["Shieldmarshal Dedication"]
 ---
 # Shieldmarshal Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 
 Your elite shieldmarshal training makes you equally at home in the squalor of Smokeside and the splendor of Skyside. You're intimately familiar with the city's labyrinthine streets and statutes. You become trained in [Society](compendium/skills.md#Society); if you were already trained, you become an expert in [Society](compendium/skills.md#Society) instead.

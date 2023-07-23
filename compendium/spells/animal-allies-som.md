@@ -9,9 +9,9 @@ tags:
 aliases: ["Animal Allies"]
 ---
 # Animal Allies *Spell 1*   
-[conjuration](rules/traits/conjuration.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md)
+- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**5-foot emanation
 - **Saving Throw**  basic Reflex

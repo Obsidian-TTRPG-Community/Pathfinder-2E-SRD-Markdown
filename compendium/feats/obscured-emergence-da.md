@@ -7,7 +7,7 @@ tags:
 aliases: ["Obscured Emergence"]
 ---
 # Obscured Emergence  *Feat 12*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: expert in [Stealth](compendium/skills.md#Stealth)
 

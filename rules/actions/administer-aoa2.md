@@ -11,7 +11,7 @@ tags:
 aliases: ["Administer"]
 ---
 # Administer
-[concentrate](rules/traits/concentrate.md)  [downtime](rules/traits/downtime.md)  [linguistic](rules/traits/linguistic.md)  [mental](rules/traits/mental.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 *Source: Age of Ashes #2: Cult of Cinders p. 72*  
 
 

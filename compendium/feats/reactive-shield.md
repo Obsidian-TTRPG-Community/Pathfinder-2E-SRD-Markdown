@@ -7,7 +7,7 @@ tags:
 aliases: ["Reactive Shield"]
 ---
 # Reactive Shield  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
-[fighter](rules/traits/fighter.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 - **Trigger** An enemy hits you with a melee [Strike](rules/actions/strike.md).
 - **Requirements**: You are wielding a shield.

@@ -8,7 +8,7 @@ tags:
 aliases: ["Easily Dismissed"]
 ---
 # Easily Dismissed  *Feat 5*  
-[halfling](rules/traits/halfling.md)  [uncommon](rules/traits/uncommon.md)  
+[halfling](rules/traits/halfling.md "Halfling Ancestry & Heritage Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: Chelaxian nationality
 

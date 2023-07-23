@@ -8,7 +8,7 @@ tags:
 aliases: ["Embodied Dreadnought Subjectivity"]
 ---
 # Embodied Dreadnought Subjectivity  *Feat 5*  
-[fleshwarp](rules/traits/fleshwarp-loag.md)  [uncommon](rules/traits/uncommon.md)  
+[fleshwarp](rules/traits/fleshwarp-loag.md "Fleshwarp Ancestry & Heritage Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: You're from Nex.
 - **Prerequisites**: cataphract fleshwarp heritage

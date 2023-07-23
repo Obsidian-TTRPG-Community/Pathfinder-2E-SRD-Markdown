@@ -7,7 +7,7 @@ tags:
 aliases: ["Final Words"]
 ---
 # Final Words *Hazard 4*  
-[haunt](rules/traits/haunt.md)  
+[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 22 trained to hear the scratch of a quill upon paper  
@@ -18,7 +18,7 @@ As a creature touches a hand-written letter, they witness the letter's author sc
      
 ```ad-embed-ability
 title: Carve in Flesh [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[divine](rules/traits/divine.md)  [necromancy](rules/traits/necromancy.md)  [visual](rules/traits/visual.md)  
+[divine](rules/traits/divine.md "Divine Tradition Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Trigger**: A creature reads the letter
 

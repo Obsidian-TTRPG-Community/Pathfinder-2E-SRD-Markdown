@@ -10,7 +10,7 @@ tags:
 aliases: ["Everstand Stance"]
 ---
 # Everstand Stance  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
-[champion](rules/traits/champion.md)  [fighter](rules/traits/fighter.md)  [stance](rules/traits/stance.md)  [uncommon](rules/traits/uncommon.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  [fighter](rules/traits/fighter.md "Fighter Class Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Requirements**: You are wielding a shield.
 - **Activity** Single Action

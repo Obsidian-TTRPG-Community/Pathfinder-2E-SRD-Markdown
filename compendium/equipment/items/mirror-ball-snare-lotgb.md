@@ -13,7 +13,7 @@ tags:
 aliases: ["Mirror-ball Snare"]
 ---
 # Mirror-ball Snare *Item 6*  
-[consumable](rules/traits/consumable.md)  [mechanical](rules/traits/mechanical.md)  [snare](rules/traits/snare.md)  [trap](rules/traits/trap.md)  [uncommon](rules/traits/uncommon.md)  [visual](rules/traits/visual.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [snare](rules/traits/snare.md "Snare Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Price** 40 gp
 - **Category** Snare

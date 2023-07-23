@@ -9,9 +9,9 @@ tags:
 aliases: ["Barkskin"]
 ---
 # Barkskin *Spell 2*   
-[abjuration](rules/traits/abjuration.md)  [plant](rules/traits/plant.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md)
+- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**touch
 - **Targets**1 willing creature

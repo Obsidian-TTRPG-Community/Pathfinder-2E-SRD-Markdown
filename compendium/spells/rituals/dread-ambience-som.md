@@ -14,7 +14,7 @@ tags:
 aliases: ["Dread Ambience"]
 ---
 # Dread Ambience *Ritual 5*  
-[consecration](rules/traits/consecration.md)  [emotion](rules/traits/emotion.md)  [enchantment](rules/traits/enchantment.md)  [fear](rules/traits/fear.md)  [mental](rules/traits/mental.md)  [uncommon](rules/traits/uncommon.md)  
+[consecration](rules/traits/consecration.md "Consecration Effect Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** 2 days
 - **Cost** candles, specialty salts, and rare herbs worth 80 gp total
@@ -27,11 +27,11 @@ In some places, it always feels like something is observing you, as if the very 
 
 To create this unwelcoming, intimidating aura, you must prepare the area with salts and herbs, traveling the entire edge of the area throughout the casting.
 
-After you complete your ritual, anyone who enters the area receives a status penalty to saving throws against [fear](rules/traits/fear.md) effects within the dread ambience.
+After you complete your ritual, anyone who enters the area receives a status penalty to saving throws against [fear](rules/traits/fear.md "Fear Effect Trait") effects within the dread ambience.
 
 > [!success-degree] 
-> - **Critical Success** The sense of dread is particularly powerful. Every creature in an area takes a –2 status penalty to saving throws against [fear](rules/traits/fear.md) effects.
-> - **Success** The dread ambience succeeds. Every creature in the area takes a –1 status penalty to saving throws against [fear](rules/traits/fear.md) effects.
+> - **Critical Success** The sense of dread is particularly powerful. Every creature in an area takes a –2 status penalty to saving throws against [fear](rules/traits/fear.md "Fear Effect Trait") effects.
+> - **Success** The dread ambience succeeds. Every creature in the area takes a –1 status penalty to saving throws against [fear](rules/traits/fear.md "Fear Effect Trait") effects.
 > - **Failure** The dread ambience fails.
 > - **Critical Failure** The dread ambience fails, and the casters take a –1 status penalty to all Will saves for the next week.
 

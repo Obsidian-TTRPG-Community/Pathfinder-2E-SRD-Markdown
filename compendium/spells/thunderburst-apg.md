@@ -14,7 +14,7 @@ tags:
 aliases: ["Thunderburst"]
 ---
 # Thunderburst *Focus 3*   
-[air](rules/traits/air.md)  [cursebound](rules/traits/cursebound-apg.md)  [evocation](rules/traits/evocation.md)  [oracle](rules/traits/oracle-apg.md)  [sonic](rules/traits/sonic.md)  [uncommon](rules/traits/uncommon.md)  
+[air](rules/traits/air.md "Air Energy & Element Trait")  [cursebound](rules/traits/cursebound-apg.md "Cursebound Spell Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Mystery** Oracle
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Warren Digger"]
 ---
 # Warren Digger  *Feat 13*  
-[ratfolk](rules/traits/ratfolk-b1.md)  
+[ratfolk](rules/traits/ratfolk-b1.md "Ratfolk Ancestry & Heritage Trait")  
 
 
 You've learned to put your sturdy claws to work digging through the earth. You gain a burrow Speed of 15 feet.

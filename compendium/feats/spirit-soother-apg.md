@@ -7,7 +7,7 @@ tags:
 aliases: ["Spirit Soother"]
 ---
 # Spirit Soother  *Feat 5*  
-[duskwalker](rules/traits/duskwalker-apg.md)  
+[duskwalker](rules/traits/duskwalker-apg.md "Duskwalker Ancestry & Heritage Trait")  
 
 
 You are attuned to the minute sounds and sensations of restless spirits. Even if you aren't [Searching](rules/actions/search.md), you can attempt a check to find haunts that normally require you to be [Searching](rules/actions/search.md). You still need to meet any other requirements to find the haunt.

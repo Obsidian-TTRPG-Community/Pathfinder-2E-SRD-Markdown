@@ -7,7 +7,7 @@ tags:
 aliases: ["Otherworldly Acumen"]
 ---
 # Otherworldly Acumen  *Feat 9*  
-[elf](rules/traits/elf.md)  
+[elf](rules/traits/elf.md "Elf Ancestry & Heritage Trait")  
 
 - **Prerequisites**: at least one innate spell gained from an elf ancestry feat
 

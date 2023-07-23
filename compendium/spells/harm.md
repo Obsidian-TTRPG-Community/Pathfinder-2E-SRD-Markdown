@@ -9,9 +9,9 @@ tags:
 aliases: ["Harm"]
 ---
 # Harm *Spell 1*   
-[necromancy](rules/traits/necromancy.md)  [negative](rules/traits/negative.md)  
+[necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait")
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") to [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**varies
 - **Targets**1 living creature or 1 willing undead creature

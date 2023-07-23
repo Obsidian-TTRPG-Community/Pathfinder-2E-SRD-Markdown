@@ -7,7 +7,7 @@ tags:
 aliases: ["Halcyon Spellcasting Sage"]
 ---
 # Halcyon Spellcasting Sage  *Feat 18*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Halcyon Spellcasting Adept](compendium/feats/halcyon-spellcasting-adept-locg.md); legendary in either [Arcana](compendium/skills.md#Arcana) or [Nature](compendium/skills.md#Nature), master in the other
 

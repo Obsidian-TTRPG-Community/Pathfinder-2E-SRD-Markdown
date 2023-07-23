@@ -12,13 +12,13 @@ tags:
 - domain/wealth/deity
 aliases: ["The Offering Plate"]
 ---
-# The Offering Plate *([NG](rules/traits/neutral-good-b1.md))*  
+# The Offering Plate *([NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"))*  
 *Source: Lost Omens: Travel Guide p. 94*  
 
 - **Category**: Pantheon
 - **Anathema**: take resources from those who need them, act selfishly, keep knowledge of wealth to yourself
 - **Areas of Concern**: charity, , hospitality, , community
-- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [NG](rules/traits/neutral-good-b1.md), [CG](rules/traits/chaotic-good-b1.md)
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")
 
 ## Devotee benefits
 

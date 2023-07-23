@@ -12,7 +12,7 @@ tags:
 aliases: ["Black Lotus Extract"]
 ---
 # Black Lotus Extract *Item 19*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [contact](rules/traits/contact.md)  [poison](rules/traits/poison.md)  [virulent](rules/traits/virulent.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [contact](rules/traits/contact.md "Contact Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [virulent](rules/traits/virulent.md "Virulent Item Trait")  
 
 - **Price** 6500 gp
 - **Usage** held in 1 hand; **Bulk** L

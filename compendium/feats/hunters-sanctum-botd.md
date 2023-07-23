@@ -7,7 +7,7 @@ tags:
 aliases: ["Hunter's Sanctum"]
 ---
 # Hunter's Sanctum  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Undead Slayer Dedication](compendium/feats/undead-slayer-dedication-botd.md)
 

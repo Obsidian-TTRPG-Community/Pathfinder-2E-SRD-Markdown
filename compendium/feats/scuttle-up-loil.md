@@ -7,7 +7,7 @@ tags:
 aliases: ["Scuttle Up"]
 ---
 # Scuttle Up  *Feat 1*  
-[kashrishi](rules/traits/kashrishi-loil.md)  
+[kashrishi](rules/traits/kashrishi-loil.md "Kashrishi Ancestry & Heritage Trait")  
 
 - **Prerequisites**: athamasi or xyloshi
 

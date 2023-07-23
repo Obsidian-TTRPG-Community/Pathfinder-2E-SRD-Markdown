@@ -7,7 +7,7 @@ tags:
 aliases: ["Shared Assault"]
 ---
 # Shared Assault  *Feat 12*  
-[bard](rules/traits/bard.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  
 
 - **Prerequisites**: [Courageous Assault](compendium/feats/courageous-assault-apg.md)
 

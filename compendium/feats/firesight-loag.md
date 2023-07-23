@@ -7,7 +7,7 @@ tags:
 aliases: ["Firesight"]
 ---
 # Firesight  *Feat 5*  
-[ifrit](rules/traits/ifrit-b2.md)  
+[ifrit](rules/traits/ifrit-b2.md "Ifrit Ancestry & Heritage Trait")  
 
 
 You can see through the haze of flame. You automatically succeed at the flat check to target a [concealed](rules/conditions.md#Concealed) creature if that creature is [concealed](rules/conditions.md#Concealed) only by smoke and fire.

@@ -7,7 +7,7 @@ tags:
 aliases: ["Beacon Mark"]
 ---
 # Beacon Mark  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Tracing Sigil](compendium/feats/tracing-sigil-lotgb.md)
 
@@ -15,7 +15,7 @@ When you cast [sigil](compendium/spells/sigil.md), you can modify the spell to a
 
 **Heightened (4th)** You attune yourself to the marked target.
 
-While the spell lasts, you can spend a single action, which has the concentrate, [detection](rules/traits/detection.md), and [divination](rules/traits/divination.md) traits, to attempt to locate the target, learning the direction to the target as long as you are within 1 mile of it. If the target is a creature or a creature is in possession of the target object, the creature can attempt a Will saving throw against your spell DC. If it succeeds, your attempt to locate the target fails and you can't attempt this again for 1 day. You can only have a single target marked with a sigil modified in this way. If you [Cast this Spell](rules/actions/cast-a-spell.md) again on a second target, the [sigil](compendium/spells/sigil.md) spell on the first target ends, and your mark fades.
+While the spell lasts, you can spend a single action, which has the concentrate, [detection](rules/traits/detection.md "Detection Effect Trait"), and [divination](rules/traits/divination.md "Divination School Trait") traits, to attempt to locate the target, learning the direction to the target as long as you are within 1 mile of it. If the target is a creature or a creature is in possession of the target object, the creature can attempt a Will saving throw against your spell DC. If it succeeds, your attempt to locate the target fails and you can't attempt this again for 1 day. You can only have a single target marked with a sigil modified in this way. If you [Cast this Spell](rules/actions/cast-a-spell.md) again on a second target, the [sigil](compendium/spells/sigil.md) spell on the first target ends, and your mark fades.
 
 *Source: Lost Omens: The Grand Bazaar p. 124*  
 %% #compendium/src/pf2e/lotgb #trait/archetype %%

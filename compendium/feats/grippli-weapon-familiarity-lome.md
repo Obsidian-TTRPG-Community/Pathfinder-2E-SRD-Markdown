@@ -7,7 +7,7 @@ tags:
 aliases: ["Grippli Weapon Familiarity"]
 ---
 # Grippli Weapon Familiarity  *Feat 1*  
-[grippli](rules/traits/grippli-b2.md)  
+[grippli](rules/traits/grippli-b2.md "Grippli Ancestry & Heritage Trait")  
 
 
 You've trained with weapons ideally suited to marshes and dense forests. You are trained with [blowguns](compendium/equipment/items/blowgun.md), [hatchets](compendium/equipment/items/hatchet.md), [scythes](compendium/equipment/items/scythe.md), [shortbows](compendium/equipment/items/shortbow.md), and [composite shortbows](compendium/equipment/items/composite-shortbow.md).

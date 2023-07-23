@@ -7,7 +7,7 @@ tags:
 aliases: ["Intense Implement"]
 ---
 # Intense Implement  *Feat 18*  
-[thaumaturge](rules/traits/thaumaturge-da.md)  
+[thaumaturge](rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
 
 
 You have an exceptional link to your third implement. You gain the adept benefit for your third implement.

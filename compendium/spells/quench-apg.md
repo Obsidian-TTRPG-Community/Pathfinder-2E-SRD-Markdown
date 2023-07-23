@@ -10,9 +10,9 @@ tags:
 aliases: ["Quench"]
 ---
 # Quench *Spell 2*   
-[abjuration](rules/traits/abjuration.md)  [water](rules/traits/water.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md)
+- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**120 foot
 - **Area**20-foot burst
@@ -22,7 +22,7 @@ You cause the air in the area to become supersaturated with water vapor. Non-mag
 
 The first time each round you [Sustain this Spell](rules/actions/sustain-a-spell.md), you can move the area of vapor anywhere within range, but the only effect when you do so is to automatically extinguish non-magical fires.
 
-If you have the Counterspell reaction, you can use quench to counter any spell with the [fire](rules/traits/fire.md) trait instead of needing to have the triggering fire spell prepared or in your repertoire.
+If you have the Counterspell reaction, you can use quench to counter any spell with the [fire](rules/traits/fire.md "Fire Energy & Element Trait") trait instead of needing to have the triggering fire spell prepared or in your repertoire.
 
 **Heightened (+ 1)** Increase the damage to fire creatures by `2d8`.
 

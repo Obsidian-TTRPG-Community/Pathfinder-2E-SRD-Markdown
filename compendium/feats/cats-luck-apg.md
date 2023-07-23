@@ -8,7 +8,7 @@ tags:
 aliases: ["Cat's Luck"]
 ---
 # Cat's Luck  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 1*  
-[catfolk](rules/traits/catfolk-b1.md)  [fortune](rules/traits/fortune.md)  
+[catfolk](rules/traits/catfolk-b1.md "Catfolk Ancestry & Heritage Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  
 
 - **Frequency**: once per day
 - **Trigger** You fail a Reflex saving throw.

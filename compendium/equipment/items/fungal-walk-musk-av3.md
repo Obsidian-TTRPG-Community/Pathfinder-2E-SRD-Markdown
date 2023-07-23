@@ -10,7 +10,7 @@ tags:
 aliases: ["Fungal Walk Musk"]
 ---
 # Fungal Walk Musk *Item 5*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [olfactory](rules/traits/olfactory-b1.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [olfactory](rules/traits/olfactory-b1.md "Olfactory Effect Trait")  
 
 - **Price** 21 gp
 - **Usage** Held in 1 hand; **Bulk** L

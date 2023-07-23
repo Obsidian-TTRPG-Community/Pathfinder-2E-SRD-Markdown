@@ -11,7 +11,7 @@ tags:
 aliases: ["Gill Hook"]
 ---
 # Gill Hook *Item 0*  
-[azarketi](rules/traits/azarketi-loag.md)  [grapple](rules/traits/grapple.md)  [reach](rules/traits/reach.md)  [uncommon](rules/traits/uncommon.md)  
+[azarketi](rules/traits/azarketi-loag.md "Azarketi Ancestry & Heritage Trait")  [grapple](rules/traits/grapple.md "Grapple Weapon Trait")  [reach](rules/traits/reach.md "Reach Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 2 gp
 - **Bulk** 2

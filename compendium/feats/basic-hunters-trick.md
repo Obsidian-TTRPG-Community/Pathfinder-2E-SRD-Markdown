@@ -7,7 +7,7 @@ tags:
 aliases: ["Basic Hunter's Trick"]
 ---
 # Basic Hunter's Trick  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Ranger Dedication](compendium/feats/ranger-dedication.md)
 

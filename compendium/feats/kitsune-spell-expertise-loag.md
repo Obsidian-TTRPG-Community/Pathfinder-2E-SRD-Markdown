@@ -7,7 +7,7 @@ tags:
 aliases: ["Kitsune Spell Expertise"]
 ---
 # Kitsune Spell Expertise  *Feat 13*  
-[kitsune](rules/traits/kitsune-loag.md)  
+[kitsune](rules/traits/kitsune-loag.md "Kitsune Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Kitsune Spell Mysteries](compendium/feats/kitsune-spell-mysteries-loag.md)
 

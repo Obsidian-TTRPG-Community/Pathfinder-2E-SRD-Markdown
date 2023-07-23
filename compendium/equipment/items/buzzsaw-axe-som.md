@@ -9,12 +9,12 @@ tags:
 aliases: ["Buzzsaw Axe"]
 ---
 # Buzzsaw Axe *Item 11+*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Held
 
-With an aerodynamic cutting edge and a curved handle, this +2 striking battle axe is perfectly suited to whirling motions, and in fact seems like it wants to whirl free from your grip. A [Strike](rules/actions/strike.md) with this axe that benefits from the [sweep](rules/traits/sweep.md) trait's circumstance bonus on attack rolls also gains a +2 circumstance bonus to the damage roll.
+With an aerodynamic cutting edge and a curved handle, this +2 striking battle axe is perfectly suited to whirling motions, and in fact seems like it wants to whirl free from your grip. A [Strike](rules/actions/strike.md) with this axe that benefits from the [sweep](rules/traits/sweep.md "Sweep Weapon Trait") trait's circumstance bonus on attack rolls also gains a +2 circumstance bonus to the damage roll.
 
 ```ad-embed-ability
 title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")

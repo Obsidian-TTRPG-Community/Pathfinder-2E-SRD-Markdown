@@ -8,7 +8,7 @@ tags:
 aliases: ["Comealong"]
 ---
 # Comealong *Item 0*  
-[uncommon](rules/traits/uncommon.md)  
+[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 3 gp
 - **Bulk** 1

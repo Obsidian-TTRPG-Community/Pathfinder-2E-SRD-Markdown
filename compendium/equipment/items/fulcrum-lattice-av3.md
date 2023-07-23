@@ -10,7 +10,7 @@ tags:
 aliases: ["Fulcrum Lattice"]
 ---
 # Fulcrum Lattice *Item 11*  
-[occult](rules/traits/occult.md)  [transmutation](rules/traits/transmutation.md)  [unique](rules/traits/unique.md)  
+[occult](rules/traits/occult.md "Occult Tradition Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Price** 1200 gp
 - **Usage** held in 2 hands; **Bulk** 2

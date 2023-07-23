@@ -11,7 +11,7 @@ tags:
 aliases: ["Terraforming Spell"]
 ---
 # Terraforming Spell  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 16*  
-[concentrate](rules/traits/concentrate.md)  [earth](rules/traits/earth.md)  [metamagic](rules/traits/metamagic.md)  [sorcerer](rules/traits/sorcerer.md)  [transmutation](rules/traits/transmutation.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Activity** Single Action
 

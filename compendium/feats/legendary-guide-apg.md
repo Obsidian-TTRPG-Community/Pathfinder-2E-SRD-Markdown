@@ -8,7 +8,7 @@ tags:
 aliases: ["Legendary Guide"]
 ---
 # Legendary Guide  *Feat 15*  
-[general](rules/traits/general.md)  [skill](rules/traits/skill.md)  
+[general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: legendary in [Survival](compendium/skills.md#Survival)
 

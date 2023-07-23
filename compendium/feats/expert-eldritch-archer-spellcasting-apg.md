@@ -7,7 +7,7 @@ tags:
 aliases: ["Expert Eldritch Archer Spellcasting"]
 ---
 # Expert Eldritch Archer Spellcasting  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Eldritch Archer Spellcasting](compendium/feats/basic-eldritch-archer-spellcasting-apg.md)
 

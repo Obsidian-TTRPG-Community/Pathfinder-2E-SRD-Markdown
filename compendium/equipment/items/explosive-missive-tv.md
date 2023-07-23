@@ -11,7 +11,7 @@ tags:
 aliases: ["Explosive Missive"]
 ---
 # Explosive Missive *Item 4*  
-[consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [missive](rules/traits/missive-tv.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [missive](rules/traits/missive-tv.md "Missive Item Trait")  
 
 - **Price** 13 gp
 - **Usage** held in 1 hand; **Bulk** —

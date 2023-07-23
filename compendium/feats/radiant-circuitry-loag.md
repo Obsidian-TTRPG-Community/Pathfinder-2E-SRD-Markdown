@@ -9,7 +9,7 @@ tags:
 aliases: ["Radiant Circuitry"]
 ---
 # Radiant Circuitry  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
-[android](rules/traits/android-loag.md)  [concentrate](rules/traits/concentrate.md)  [light](rules/traits/light.md)  
+[android](rules/traits/android-loag.md "Android Ancestry & Heritage Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [light](rules/traits/light.md "Light Effect Trait")  
 
 - **Activity** Single Action
 

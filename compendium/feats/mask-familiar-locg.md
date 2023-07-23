@@ -7,7 +7,7 @@ tags:
 aliases: ["Mask Familiar"]
 ---
 # Mask Familiar  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Magaambyan Attendant Dedication](compendium/feats/magaambyan-attendant-dedication-locg.md)
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Cantrip Expansion (Bard)"]
 ---
 # Cantrip Expansion (Bard)  *Feat 2*  
-[bard](rules/traits/bard.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  
 
 
 Study broadens your range of simple spells. Add two additional cantrips from your spell list to your repertoire.

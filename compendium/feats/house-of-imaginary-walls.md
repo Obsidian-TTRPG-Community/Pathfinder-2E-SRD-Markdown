@@ -7,7 +7,7 @@ tags:
 aliases: ["House Of Imaginary Walls"]
 ---
 # House Of Imaginary Walls  *Feat 10*  
-[bard](rules/traits/bard.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  
 
 
 You erect an imaginary barrier others believe to be real. You learn the [house of imaginary walls](compendium/spells/house-of-imaginary-walls.md) composition cantrip.

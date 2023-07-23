@@ -12,7 +12,7 @@ tags:
 aliases: ["Thousand-Pains Fulu"]
 ---
 # Thousand-Pains Fulu *Item 5+*  
-[consumable](rules/traits/consumable.md)  [fulu](rules/traits/fulu-som.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [uncommon](rules/traits/uncommon.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [fulu](rules/traits/fulu-som.md "Fulu Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Usage** affixed to a creature; **Bulk** —
 - **Category** Consumable

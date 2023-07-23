@@ -15,7 +15,7 @@ Though the ultimate goal of the Pathfinder society is to learn, knowledge cannot
 title: Swordmaster Dedication, Feat 6
 collapse: closed
 # Swordmaster Dedication  *Feat 6*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: Strength, Dexterity, or Constitution 14; member of the Pathfinder Society affiliated with the School of Swords
 
@@ -24,14 +24,14 @@ Your Swords training taught you to never lose hold of your weapon. You gain a +2
 **Special.** You cannot select another dedication feat until you have gained two other feats from the Swordmaster archetype.
 
 *Source: Lost Omens: Character Guide p. 115*  
-%% #trait/uncommon #trait/archetype #trait/dedication %%
+%% #trait/archetype #trait/dedication #trait/uncommon %%
 ```  
 
 ```ad-embed-feat
 title: Harrying Strike, Feat 10
 collapse: closed
 # Harrying Strike  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
-[archetype](rules/traits/archetype.md)  [attack](rules/traits/attack.md)  [press](rules/traits/press.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [attack](rules/traits/attack.md "Attack Combat Trait")  [press](rules/traits/press.md "Press Combat Trait")  
 
 - **Prerequisites**: [Swordmaster Dedication](compendium/feats/swordmaster-dedication-locg.md)
 - **Activity** Single Action
@@ -51,7 +51,7 @@ Your attack prevents a foe from pursuing your allies. Make a melee [Strike](rule
 title: Shoulder Catastrophe, Feat 12*
 collapse: closed
 # Shoulder Catastrophe  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Shoulder Catastrophe](compendium/feats/shoulder-catastrophe-locg.md) is intended for use with the Swordmaster Archetype. Its level has been changed accordingly.
 
@@ -69,7 +69,7 @@ You've trained to protect your allies by diverting the worst attacks to yourself
 title: Death's Door, Feat 14*
 collapse: closed
 # Death's Door  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Death's Door](compendium/feats/deaths-door-locg.md) is intended for use with the Swordmaster Archetype. Its level has been changed accordingly.
 

@@ -12,7 +12,7 @@ tags:
 aliases: ["Singing Sword"]
 ---
 # Singing Sword *Item 5*  
-[cg](rules/traits/chaotic-good-b1.md)  [enchantment](rules/traits/enchantment.md)  [intelligent](rules/traits/intelligent-gmg.md)  [occult](rules/traits/occult.md)  [rare](rules/traits/rare.md)  
+[cg](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [intelligent](rules/traits/intelligent-gmg.md "Intelligent Item Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Held
@@ -36,7 +36,7 @@ The singing sword casts [inspire defense](compendium/spells/inspire-defense.md).
 ```ad-embed-ability
 title: Activate [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
-- **Trigger**: You or an ally within 60 feet rolls a saving throw against an [auditory](rules/traits/auditory.md) effect
+- **Trigger**: You or an ally within 60 feet rolls a saving throw against an [auditory](rules/traits/auditory.md "Auditory Effect Trait") effect
 
 **Effect** The singing sword casts [counter performance](compendium/spells/counter-performance.md).
 ```

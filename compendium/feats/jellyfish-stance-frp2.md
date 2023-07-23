@@ -9,12 +9,12 @@ tags:
 aliases: ["Jellyfish Stance"]
 ---
 # Jellyfish Stance  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[monk](rules/traits/monk.md)  [stance](rules/traits/stance.md)  [uncommon](rules/traits/uncommon.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Requirements**: You are unarmored.
 - **Activity** Single Action
 
-You relax your posture and loosen your joints, allowing yourself to move with incredible fluidity. You can make stinging lash attacks that deal `1d8` slashing damage. These attacks are in the brawling, and have the finesse, nonlethal, [reach](rules/traits/reach.md), and [unarmed](rules/traits/unarmed.md) traits.
+You relax your posture and loosen your joints, allowing yourself to move with incredible fluidity. You can make stinging lash attacks that deal `1d8` slashing damage. These attacks are in the brawling, and have the finesse, nonlethal, [reach](rules/traits/reach.md "Reach Weapon Trait"), and [unarmed](rules/traits/unarmed.md "Unarmed Weapon Trait") traits.
 
 While in Jellyfish Stance, you gain a +2 circumstance bonus to Reflex saves and on checks to [Escape](rules/actions/escape.md) and [Squeeze](rules/actions/squeeze.md).
 

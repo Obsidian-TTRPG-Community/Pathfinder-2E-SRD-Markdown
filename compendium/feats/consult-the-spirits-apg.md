@@ -9,7 +9,7 @@ tags:
 aliases: ["Consult The Spirits"]
 ---
 # Consult The Spirits  *Feat 7*  
-[general](rules/traits/general.md)  [secret](rules/traits/secret.md)  [skill](rules/traits/skill.md)  
+[general](rules/traits/general.md "General Feat Trait")  [secret](rules/traits/secret.md "Secret General Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: master in [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), or [Religion](compendium/skills.md#Religion)
 - **Frequency**: once per day

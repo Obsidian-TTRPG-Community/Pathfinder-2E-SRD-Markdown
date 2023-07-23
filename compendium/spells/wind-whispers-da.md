@@ -12,7 +12,7 @@ tags:
 aliases: ["Wind Whispers"]
 ---
 # Wind Whispers *Focus 4*   
-[cleric](rules/traits/cleric.md)  [enchantment](rules/traits/enchantment.md)  [linguistic](rules/traits/linguistic.md)  [mental](rules/traits/mental.md)  [rare](rules/traits/rare.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Domains**: [air (apocryphal)](compendium/setting/domains.md#Air)
 - **Cast** 1 hour 

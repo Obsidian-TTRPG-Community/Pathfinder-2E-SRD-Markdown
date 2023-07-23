@@ -7,10 +7,10 @@ tags:
 aliases: ["Bloodline Resistance"]
 ---
 # Bloodline Resistance  *Feat 8*  
-[sorcerer](rules/traits/sorcerer.md)  
+[sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 
-Your magical blood makes you more resistant to magic. You gain a +1 status bonus to saving throws against spells and [magical](rules/traits/magical.md) effects.
+Your magical blood makes you more resistant to magic. You gain a +1 status bonus to saving throws against spells and [magical](rules/traits/magical.md "Magical Item Trait") effects.
 
 *Source: Core Rulebook p. 200*  
 %% #compendium/src/pf2e/crb #trait/sorcerer %%

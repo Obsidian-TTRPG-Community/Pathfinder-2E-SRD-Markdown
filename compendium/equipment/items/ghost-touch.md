@@ -9,7 +9,7 @@ tags:
 aliases: ["Ghost Touch"]
 ---
 # Ghost Touch *Item 4*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 75 gp
 - **Usage** etched onto a melee weapon

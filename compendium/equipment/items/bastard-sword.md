@@ -8,7 +8,7 @@ tags:
 aliases: ["Bastard Sword"]
 ---
 # Bastard Sword *Item 0*  
-[two-hand <d12>](rules/traits/two-hand.md)  
+[two-hand <d12>](rules/traits/two-hand-d12.md "Two-Hand Weapon Trait")  
 
 - **Price** 4 gp
 - **Bulk** 1

@@ -10,9 +10,9 @@ tags:
 aliases: ["Ill Omen"]
 ---
 # Ill Omen *Spell 1*   
-[curse](rules/traits/curse.md)  [divination](rules/traits/divination.md)  [misfortune](rules/traits/misfortune.md)  
+[curse](rules/traits/curse.md "Curse Effect Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [misfortune](rules/traits/misfortune.md "Misfortune Effect Trait")  
 
-- **Traditions**: [occult](rules/traits/occult.md)
+- **Traditions**: [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot
 - **Targets**1 creature

@@ -9,7 +9,7 @@ tags:
 aliases: ["Staff Acrobat Dedication"]
 ---
 # Staff Acrobat Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: Dexterity 16; trained in [Acrobatics](compendium/skills.md#Acrobatics); trained in [Athletics](compendium/skills.md#Athletics); trained with at least one of the following weapons: staff, bo staff, halfling sling staff, or any weapon in the spear or polearm (referred to in this archetype as "your staff")
 

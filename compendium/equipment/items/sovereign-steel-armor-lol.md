@@ -8,7 +8,7 @@ tags:
 aliases: ["Sovereign Steel Armor"]
 ---
 # Sovereign Steel Armor *Item 13+*  
-[rare](rules/traits/rare.md)  
+[rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** worn armor; **Bulk** varies by armor
 - **Category** Armor

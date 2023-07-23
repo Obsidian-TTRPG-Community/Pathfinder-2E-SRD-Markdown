@@ -9,7 +9,7 @@ tags:
 aliases: ["Arrow-catching Shield"]
 ---
 # Arrow-catching Shield *Item 11*  
-[abjuration](rules/traits/abjuration.md)  [magical](rules/traits/magical.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 1350 gp
 - **Usage** held in 1 hand; **Bulk** 1

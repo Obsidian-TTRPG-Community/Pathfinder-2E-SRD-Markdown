@@ -11,7 +11,7 @@ tags:
 aliases: ["Transpose"]
 ---
 # Transpose  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
-[concentrate](rules/traits/concentrate.md)  [conjuration](rules/traits/conjuration.md)  [manipulate](rules/traits/manipulate.md)  [summoner](rules/traits/summoner-som.md)  [teleportation](rules/traits/teleportation.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [summoner](rules/traits/summoner-som.md "Summoner Class Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  
 
 - **Activity** Single Action
 

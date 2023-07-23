@@ -9,7 +9,7 @@ tags:
 aliases: ["Transcribe Moment"]
 ---
 # Transcribe Moment *Focus 4*   
-[evocation](rules/traits/evocation.md)  [uncommon](rules/traits/uncommon.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 

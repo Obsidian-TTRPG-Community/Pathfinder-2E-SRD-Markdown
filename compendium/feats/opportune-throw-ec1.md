@@ -8,7 +8,7 @@ tags:
 aliases: ["Opportune Throw"]
 ---
 # Opportune Throw  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 16*  
-[archetype](rules/traits/archetype.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: legendary in [Performance](compendium/skills.md#Performance), [Juggler Dedication](compendium/feats/juggler-dedication-ec1.md)
 - **Trigger** A creature within 10 feet of you uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.

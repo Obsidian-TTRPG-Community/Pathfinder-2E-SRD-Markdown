@@ -10,7 +10,7 @@ tags:
 aliases: ["Blindpepper Bolt"]
 ---
 # Blindpepper Bolt *Item 3*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 10 gp
 - **Ammunition** [bolt](compendium/equipment/items/bolt.md)
@@ -21,7 +21,7 @@ The head of this bolt is a vented container that smells strongly of caustic pepp
 
 > [!success-degree] 
 > - **Critical Success** The target is unaffected.
-> - **Success** The target is [dazzled](rules/conditions.md#Dazzled) until the end of your next turn. It can end the effect early if it spends an action, which has the [manipulate](rules/traits/manipulate.md) trait, to wipe down its eyes.
+> - **Success** The target is [dazzled](rules/conditions.md#Dazzled) until the end of your next turn. It can end the effect early if it spends an action, which has the [manipulate](rules/traits/manipulate.md "Manipulate General Trait") trait, to wipe down its eyes.
 > - **Failure** The target is [dazzled](rules/conditions.md#Dazzled) for 1 minute.
 > - **Critical Failure** The target is [blinded](rules/conditions.md#Blinded) until the end of your next turn and [dazzled](rules/conditions.md#Dazzled) for 1 minute.
 

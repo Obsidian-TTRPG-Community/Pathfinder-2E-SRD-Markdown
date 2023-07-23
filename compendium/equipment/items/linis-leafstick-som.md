@@ -12,7 +12,7 @@ tags:
 aliases: ["Lini's Leafstick"]
 ---
 # Lini's Leafstick *Item 15*  
-[magical](rules/traits/magical.md)  [plant](rules/traits/plant.md)  [staff](rules/traits/staff.md)  [transmutation](rules/traits/transmutation.md)  [unique](rules/traits/unique.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Price** 6500 gp
 - **Usage** held in 1 hand; **Bulk** 1

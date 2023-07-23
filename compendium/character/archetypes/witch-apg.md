@@ -21,7 +21,7 @@ The witch archetype grants versatile prepared spells, perfect for characters loo
 title: Witch Dedication, Feat 2
 collapse: closed
 # Witch Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [multiclass](rules/traits/multiclass.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [multiclass](rules/traits/multiclass.md "Multiclass Feat Trait")  
 
 - **Prerequisites**: Intelligence 14
 
@@ -37,7 +37,7 @@ You cast spells like a witch. Choose a patron; You gain a familiar with two comm
 title: Basic Witch Spellcasting, Feat 4
 collapse: closed
 # Basic Witch Spellcasting  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Witch Dedication](compendium/feats/witch-dedication-apg.md)
 
@@ -51,7 +51,7 @@ You gain the basic spellcasting benefits. Each time you gain a spell slot of a n
 title: Basic Witchcraft, Feat 4
 collapse: closed
 # Basic Witchcraft  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Witch Dedication](compendium/feats/witch-dedication-apg.md)
 
@@ -65,7 +65,7 @@ You gain a 1st- or 2nd-level witch feat of your choice. Your familiar no longer 
 title: Advanced Witchcraft, Feat 6
 collapse: closed
 # Advanced Witchcraft  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Witchcraft](compendium/feats/basic-witchcraft-apg.md)
 
@@ -81,7 +81,7 @@ You gain one witch feat. For the purpose of meeting its prerequisites, your witc
 title: Patron's Breadth, Feat 8
 collapse: closed
 # Patron's Breadth  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Witch Spellcasting](compendium/feats/basic-witch-spellcasting-apg.md)
 
@@ -95,7 +95,7 @@ You can cast more spells each day. Increase the spell slots you gain from witch 
 title: Expert Witch Spellcasting, Feat 12*
 collapse: closed
 # Expert Witch Spellcasting  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Expert Witch Spellcasting](compendium/feats/expert-witch-spellcasting-apg.md) is intended for use with the Witch Archetype. Its level has been changed accordingly.
 
@@ -111,7 +111,7 @@ You gain the expert spellcasting benefits.
 title: Master Witch Spellcasting, Feat 18*
 collapse: closed
 # Master Witch Spellcasting  *Feat 18*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Master Witch Spellcasting](compendium/feats/master-witch-spellcasting-apg.md) is intended for use with the Witch Archetype. Its level has been changed accordingly.
 

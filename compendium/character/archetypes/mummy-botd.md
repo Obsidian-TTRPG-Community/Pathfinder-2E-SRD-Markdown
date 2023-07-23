@@ -23,27 +23,27 @@ Mummies are most commonly found in Geb and Osirion, as well as the surrounding n
 title: Mummy Dedication, Feat 2
 collapse: closed
 # Mummy Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [rare](rules/traits/rare.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Prerequisites**: you are dead and were mummified (by natural or ritualistic means)
 
-Whether through natural processes or foul rituals, your body was mummified, and you've risen as an undead mummy. You gain the [mummy](rules/traits/mummy-b1.md) and [undead](rules/traits/undead.md) traits, as well as basic undead benefits (page 44). Many effects that harm the living are far less effective against your desiccated form. Unfortunately, your dried-out body is also highly flammable. You gain the [Toughness](compendium/feats/toughness.md) feat, but also fire weakness equal to half your level.
+Whether through natural processes or foul rituals, your body was mummified, and you've risen as an undead mummy. You gain the [mummy](rules/traits/mummy-b1.md "Mummy Creature Trait") and [undead](rules/traits/undead.md "Undead Creature Type Trait") traits, as well as basic undead benefits (page 44). Many effects that harm the living are far less effective against your desiccated form. Unfortunately, your dried-out body is also highly flammable. You gain the [Toughness](compendium/feats/toughness.md) feat, but also fire weakness equal to half your level.
 
-Your fist draws moisture from the living by touch, making it more damaging and deadly. The damage die for your fist increases to `1d6` instead of `1d4`, and your fist loses the [nonlethal](rules/traits/nonlethal.md) trait.
+Your fist draws moisture from the living by touch, making it more damaging and deadly. The damage die for your fist increases to `1d6` instead of `1d4`, and your fist loses the [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait") trait.
 
 Finally, you become supernaturally bound to the dominant terrain in which you were created, either because you formed naturally from the weather of that terrain or because of the local ingredients and methods used in an intentional mummification process. Choose arctic, desert, mountain, or swamp. This choice can't be changed and may alter the effects of some of your feats.
 
 **Special.** You can't select another dedication feat until you have gained two other feats from the mummy archetype.
 
 *Source: Book of the Dead p. 52*  
-%% #trait/rare #trait/archetype #trait/dedication %%
+%% #trait/archetype #trait/dedication #trait/rare %%
 ```  
 
 ```ad-embed-feat
 title: One with the Land, Feat 4
 collapse: closed
 # One with the Land  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Mummy Dedication](compendium/feats/mummy-dedication-botd.md)
 
@@ -62,7 +62,7 @@ Your connection to your bound terrain strengthens, making you unhindered by loca
 title: Semblance of Life, Feat 4
 collapse: closed
 # Semblance of Life  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  [divine](rules/traits/divine.md)  [illusion](rules/traits/illusion.md)  [visual](rules/traits/visual.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Prerequisites**: [Mummy Dedication](compendium/feats/mummy-dedication-botd.md)
 - **Trigger** You deal damage to a living creature with your fist [Strike](rules/actions/strike.md) or with [Desiccating Inhalation](compendium/feats/desiccating-inhalation-botd.md).
@@ -78,7 +78,7 @@ You draw the moisture you've drained from others into your own flesh, temporaril
 title: Grave Mummification, Feat 6
 collapse: closed
 # Grave Mummification  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Mummy Dedication](compendium/feats/mummy-dedication-botd.md)
 
@@ -92,7 +92,7 @@ Exposure to the elements, magic, alchemy, and other phenomena intensified the ch
 title: Mummy's Despair, Feat 6
 collapse: closed
 # Mummy's Despair  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  [aura](rules/traits/aura.md)  [divine](rules/traits/divine.md)  [emotion](rules/traits/emotion.md)  [enchantment](rules/traits/enchantment.md)  [fear](rules/traits/fear.md)  [mental](rules/traits/mental.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [aura](rules/traits/aura.md "Aura Combat Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 - **Prerequisites**: [Mummy Dedication](compendium/feats/mummy-dedication-botd.md)
 - **Frequency**: once per hour
@@ -108,11 +108,11 @@ You force your mental anguish outward, projecting it upon those around you. You 
 title: Accursed Touch, Feat 8
 collapse: closed
 # Accursed Touch  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Mummy Dedication](compendium/feats/mummy-dedication-botd.md)
 
-You've learned to harness the supernatural curse that animates you, imbuing your most powerful attacks with a terrible curse. When you critically hit with a fist [Strike](rules/actions/strike.md), negative energy binds to it; this is a [curse](rules/traits/curse.md) and a [disease](rules/traits/disease.md). The creature takes `2d6` [persistent negative damage](rules/conditions.md#Persistent%20Damage). While the creature has this [persistent damage](rules/conditions.md#Persistent%20Damage), it's also [stupefied](rules/conditions.md#Stupefied). The [persistent damage](rules/conditions.md#Persistent%20Damage) increases to `3d6` at 14th level and `4d6` at 20th level. This is a critical specialization effect.
+You've learned to harness the supernatural curse that animates you, imbuing your most powerful attacks with a terrible curse. When you critically hit with a fist [Strike](rules/actions/strike.md), negative energy binds to it; this is a [curse](rules/traits/curse.md "Curse Effect Trait") and a [disease](rules/traits/disease.md "Disease Effect Trait"). The creature takes `2d6` [persistent negative damage](rules/conditions.md#Persistent%20Damage). While the creature has this [persistent damage](rules/conditions.md#Persistent%20Damage), it's also [stupefied](rules/conditions.md#Stupefied). The [persistent damage](rules/conditions.md#Persistent%20Damage) increases to `3d6` at 14th level and `4d6` at 20th level. This is a critical specialization effect.
 
 *Source: Book of the Dead p. 52*  
 %% #trait/archetype %%
@@ -122,13 +122,13 @@ You've learned to harness the supernatural curse that animates you, imbuing your
 title: Storm Shroud, Feat 8
 collapse: closed
 # Storm Shroud  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  [concentrate](rules/traits/concentrate.md)  [conjuration](rules/traits/conjuration.md)  [divine](rules/traits/divine.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  
 
 - **Prerequisites**: [Mummy Dedication](compendium/feats/mummy-dedication-botd.md)
 - **Frequency**: once per hour
 - **Activity** Two-Action
 
-You become surrounded by a swirling storm of rain, sand, snow, or clouds, whichever of those suits your bound terrain. This activity has traits appropriate to the storm you create— typically [earth](rules/traits/earth.md) for sand and [water](rules/traits/water.md) for rain, snow, or clouds. You become [concealed](rules/conditions.md#Concealed) for 1 minute. You can't use this concealment to [Hide](rules/actions/hide.md) or [Sneak](rules/actions/sneak.md), as normal for concealment that makes your position obvious.
+You become surrounded by a swirling storm of rain, sand, snow, or clouds, whichever of those suits your bound terrain. This activity has traits appropriate to the storm you create— typically [earth](rules/traits/earth.md "Earth Energy & Element Trait") for sand and [water](rules/traits/water.md "Water Energy & Element Trait") for rain, snow, or clouds. You become [concealed](rules/conditions.md#Concealed) for 1 minute. You can't use this concealment to [Hide](rules/actions/hide.md) or [Sneak](rules/actions/sneak.md), as normal for concealment that makes your position obvious.
 
 *Source: Book of the Dead p. 52*  
 %% #trait/archetype #trait/concentrate #trait/conjuration #trait/divine %%
@@ -138,7 +138,7 @@ You become surrounded by a swirling storm of rain, sand, snow, or clouds, whiche
 title: Channel Rot, Feat 10
 collapse: closed
 # Channel Rot  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Accursed Touch](compendium/feats/accursed-touch-botd.md)
 
@@ -152,7 +152,7 @@ You've learned to channel your curse through weapons you wield instead of solely
 title: Ensnaring Wrappings, Feat 10
 collapse: closed
 # Ensnaring Wrappings  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: Mummy Dedication, expert in [Athletics](compendium/skills.md#Athletics)
 - **Trigger** Your [Strike](rules/actions/strike.md) deals physical damage to a creature that is within reach of your arms and isn't more than one size larger than you.
@@ -168,7 +168,7 @@ Some of your wrappings come loose to ensnare a creature you recently damaged. Yo
 title: Terrain Form, Feat 10
 collapse: closed
 # Terrain Form  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
-[archetype](rules/traits/archetype.md)  [concentrate](rules/traits/concentrate.md)  [divine](rules/traits/divine.md)  [transmutation](rules/traits/transmutation.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Prerequisites**: [Mummy Dedication](compendium/feats/mummy-dedication-botd.md)
 - **Frequency**: once per day
@@ -176,10 +176,10 @@ collapse: closed
 
 You crumble to pieces, becoming composed of the very terrain to which you're bound, with the effects of the [gaseous form](compendium/spells/gaseous-form.md) spell, or you reconstitute into your normal form. The substance you're formed of depends upon your bound terrain, and the action gains the corresponding trait or traits.
 
-- **Arctic** Snow ([water](rules/traits/water.md))
-- **Desert** Sand ([earth](rules/traits/earth.md))
-- **Mountain** Cloud ([water](rules/traits/water.md))
-- **Swamp** Mud ([earth](rules/traits/earth.md), [water](rules/traits/water.md))
+- **Arctic** Snow ([water](rules/traits/water.md "Water Energy & Element Trait"))
+- **Desert** Sand ([earth](rules/traits/earth.md "Earth Energy & Element Trait"))
+- **Mountain** Cloud ([water](rules/traits/water.md "Water Energy & Element Trait"))
+- **Swamp** Mud ([earth](rules/traits/earth.md "Earth Energy & Element Trait"), [water](rules/traits/water.md "Water Energy & Element Trait"))
 
 *Source: Book of the Dead p. 52*  
 %% #trait/archetype #trait/concentrate #trait/divine #trait/transmutation %%
@@ -189,7 +189,7 @@ You crumble to pieces, becoming composed of the very terrain to which you're bou
 title: Desiccating Inhalation, Feat 12*
 collapse: closed
 # Desiccating Inhalation  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 12*  
-[archetype](rules/traits/archetype.md)  [divine](rules/traits/divine.md)  [evocation](rules/traits/evocation.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
 > [!pf2-note] This version of [Desiccating Inhalation](compendium/feats/desiccating-inhalation-botd.md) is intended for use with the Mummy Archetype. Its level has been changed accordingly.
 
@@ -209,13 +209,13 @@ At 14th level and every 2 levels thereafter, the damage increases by `1d8`.
 title: Greater Despair, Feat 12*
 collapse: closed
 # Greater Despair  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Greater Despair](compendium/feats/greater-despair-botd.md) is intended for use with the Mummy Archetype. Its level has been changed accordingly.
 
 - **Prerequisites**: Mummy's Despair
 
-You increase the frequency of Mummy's Despair to once per 10 minutes instead of once per hour. A creature that critically fails its Will saving throw is [paralyzed](rules/conditions.md#Paralyzed) for 1 round instead of [frightened](rules/conditions.md#Frightened). Mummy's Despair gains the [incapacitation](rules/traits/incapacitation.md) trait.
+You increase the frequency of Mummy's Despair to once per 10 minutes instead of once per hour. A creature that critically fails its Will saving throw is [paralyzed](rules/conditions.md#Paralyzed) for 1 round instead of [frightened](rules/conditions.md#Frightened). Mummy's Despair gains the [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait") trait.
 
 *Source: Book of the Dead p. 52*  
 %% #trait/archetype %%

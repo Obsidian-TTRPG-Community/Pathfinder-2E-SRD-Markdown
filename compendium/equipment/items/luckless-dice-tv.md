@@ -12,7 +12,7 @@ tags:
 aliases: ["Luckless Dice"]
 ---
 # Luckless Dice *Item 2*  
-[cursed](rules/traits/cursed-gmg.md)  [magical](rules/traits/magical.md)  [misfortune](rules/traits/misfortune.md)  [rare](rules/traits/rare.md)  [transmutation](rules/traits/transmutation.md)  
+[cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [misfortune](rules/traits/misfortune.md "Misfortune Effect Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Held

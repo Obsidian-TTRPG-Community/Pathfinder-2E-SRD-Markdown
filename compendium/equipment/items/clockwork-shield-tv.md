@@ -9,7 +9,7 @@ tags:
 aliases: ["Clockwork Shield"]
 ---
 # Clockwork Shield *Item 11+*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Held

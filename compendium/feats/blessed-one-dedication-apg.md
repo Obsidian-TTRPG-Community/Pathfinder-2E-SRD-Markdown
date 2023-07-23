@@ -8,7 +8,7 @@ tags:
 aliases: ["Blessed One Dedication"]
 ---
 # Blessed One Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 
 You are touched by a deity and gifted with the ability to alleviate the suffering of others. You gain the [lay on hands](compendium/spells/lay-on-hands.md) devotion spell. It costs 1 Focus Point to cast a focus spell.

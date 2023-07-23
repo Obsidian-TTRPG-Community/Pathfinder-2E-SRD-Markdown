@@ -8,7 +8,7 @@ tags:
 aliases: ["Surprise Snare"]
 ---
 # Surprise Snare  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  [manipulate](rules/traits/manipulate.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 
 - **Prerequisites**: [Snarecrafter Dedication](compendium/feats/snarecrafter-dedication-apg.md)
 - **Activity** Three-Action

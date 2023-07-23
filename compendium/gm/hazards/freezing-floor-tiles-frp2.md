@@ -11,7 +11,7 @@ tags:
 aliases: ["Freezing Floor Tiles"]
 ---
 # Freezing Floor Tiles *Hazard 16*  
-[cold](rules/traits/cold.md)  [complex](rules/traits/complex.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  [trap](rules/traits/trap.md)  
+[cold](rules/traits/cold.md "Cold Energy & Element Trait")  [complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +23 expert or DC 38 (master) to notice the four sensors.  
@@ -28,7 +28,7 @@ Four remote sensors at each corner of the arena cause bursts of freezing magic t
      
 ```ad-embed-ability
 title: Frigid Floor [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[cold](rules/traits/cold.md)  
+[cold](rules/traits/cold.md "Cold Energy & Element Trait")  
 
 - **Trigger**: Hao Jin signals the beginning of the match.
 

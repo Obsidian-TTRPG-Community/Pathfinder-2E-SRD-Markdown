@@ -9,7 +9,7 @@ tags:
 aliases: ["Ink Drowning Vats"]
 ---
 # Ink Drowning Vats *Hazard 18*  
-[complex](rules/traits/complex.md)  [mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +36 master  
@@ -39,7 +39,7 @@ title: Routine
 ```ad-inline-affliction
 title: Poison Ink
 
-[poison](rules/traits/poison.md)  
+[poison](rules/traits/poison.md "Poison Effect Trait")  
 - **Saving Throws**: DC 38 Fortitude
 - **Maximum Duration**: 10 rounds
 

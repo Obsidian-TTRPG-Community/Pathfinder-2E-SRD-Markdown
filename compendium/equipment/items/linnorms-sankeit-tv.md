@@ -11,7 +11,7 @@ tags:
 aliases: ["Linnorm's Sankeit"]
 ---
 # Linnorm's Sankeit *Item 18*  
-[evocation](rules/traits/evocation.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 22750 gp
 - **Usage** worn armor; **Bulk** 2

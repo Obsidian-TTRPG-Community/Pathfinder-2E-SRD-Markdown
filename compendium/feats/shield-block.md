@@ -7,7 +7,7 @@ tags:
 aliases: ["Shield Block"]
 ---
 # Shield Block  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
-[general](rules/traits/general.md)  
+[general](rules/traits/general.md "General Feat Trait")  
 
 - **Trigger** While you have your [shield raised](rules/actions/raise-a-shield.md), you would take damage from a physical attack.
 - **Activity** Reaction

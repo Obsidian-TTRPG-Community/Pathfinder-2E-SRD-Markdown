@@ -7,7 +7,7 @@ tags:
 aliases: ["Strident Command"]
 ---
 # Strident Command  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: master in [Intimidation](compendium/skills.md#Intimidation), [Vigilante Dedication](compendium/feats/vigilante-dedication-apg.md), [Voice of Authority](compendium/feats/voice-of-authority-ngd.md), member of the Gray Gardeners
 

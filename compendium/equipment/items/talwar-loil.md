@@ -10,7 +10,7 @@ tags:
 aliases: ["Talwar"]
 ---
 # Talwar *Item 0*  
-[forceful](rules/traits/forceful.md)  [two-hand <d10>](rules/traits/two-hand.md)  [versatile <P>](rules/traits/versatile.md)  
+[forceful](rules/traits/forceful.md "Forceful Weapon Trait")  [two-hand <d10>](rules/traits/two-hand-d10.md "Two-Hand Weapon Trait")  [versatile <P>](rules/traits/versatile-p.md "Versatile Weapon Trait")  
 
 - **Price** 2 gp
 - **Bulk** 1

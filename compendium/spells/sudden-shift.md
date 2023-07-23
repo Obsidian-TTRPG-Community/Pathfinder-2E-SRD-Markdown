@@ -11,7 +11,7 @@ tags:
 aliases: ["Sudden Shift"]
 ---
 # Sudden Shift *Focus 1*   
-[abjuration](rules/traits/abjuration.md)  [cleric](rules/traits/cleric.md)  [illusion](rules/traits/illusion.md)  [uncommon](rules/traits/uncommon.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [cleric](rules/traits/cleric.md "Cleric Class Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Domains**: [trickery](compendium/setting/domains.md#Trickery)
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 

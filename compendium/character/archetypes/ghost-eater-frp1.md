@@ -15,7 +15,7 @@ The warriors of Minata frequently contend with lost spirits of the Taumatan peop
 title: Ghost Eater Dedication, Feat 2
 collapse: closed
 # Ghost Eater Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: trained in [Occultism](compendium/skills.md#Occultism) or [Religion](compendium/skills.md#Religion)
 
@@ -24,18 +24,18 @@ You have trained as a ghost eater, a hunter specialized in the destruction of sp
 **Special.** You cannot select another dedication feat until you have gained two other feats from this archetype.
 
 *Source: Fists of the Ruby Phoenix #1: Despair on Danger Island p. 79*  
-%% #trait/uncommon #trait/archetype #trait/dedication %%
+%% #trait/archetype #trait/dedication #trait/uncommon %%
 ```  
 
 ```ad-embed-feat
 title: Reach Beyond, Feat 4
 collapse: closed
 # Reach Beyond  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Ghost Eater Dedication](compendium/feats/ghost-eater-dedication-frp1.md)
 
-You've learned to move your spiritual energy past yourself to attack spirits where others can't. You can make melee [Strikes](rules/actions/strike.md) against incorporeal creatures that are inside solid objects as long as the object is within your reach. An incorporeal creature inside of a solid object is [hidden](rules/conditions.md#Hidden), requiring you to succeed at a DC 11 flat check when you target it. You can spend an action, which has the [concentrate](rules/traits/concentrate.md) trait, to focus on a creature inside of a solid object. If you do, the next melee [Strike](rules/actions/strike.md) you make this turn requires you to succeed at only a DC 6 flat check to affect the creature.
+You've learned to move your spiritual energy past yourself to attack spirits where others can't. You can make melee [Strikes](rules/actions/strike.md) against incorporeal creatures that are inside solid objects as long as the object is within your reach. An incorporeal creature inside of a solid object is [hidden](rules/conditions.md#Hidden), requiring you to succeed at a DC 11 flat check when you target it. You can spend an action, which has the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") trait, to focus on a creature inside of a solid object. If you do, the next melee [Strike](rules/actions/strike.md) you make this turn requires you to succeed at only a DC 6 flat check to affect the creature.
 
 *Source: Fists of the Ruby Phoenix #1: Despair on Danger Island p. 79*  
 %% #trait/archetype %%
@@ -45,7 +45,7 @@ You've learned to move your spiritual energy past yourself to attack spirits whe
 title: Disrupting Strikes, Feat 6
 collapse: closed
 # Disrupting Strikes  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Ghost Eater Dedication](compendium/feats/ghost-eater-dedication-frp1.md)
 - **Activity** Single Action
@@ -62,7 +62,7 @@ If you're 14th level or higher, your [Strikes](rules/actions/strike.md) instead 
 title: Cross The Threshold, Feat 16*
 collapse: closed
 # Cross The Threshold  *Feat 16*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Cross The Threshold](compendium/feats/cross-the-threshold-frp1.md) is intended for use with the Ghost Eater Archetype. Its level has been changed accordingly.
 

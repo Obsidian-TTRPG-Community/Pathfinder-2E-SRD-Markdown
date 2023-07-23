@@ -7,7 +7,7 @@ tags:
 aliases: ["Runic Impression"]
 ---
 # Runic Impression  *Feat 8*  
-[magus](rules/traits/magus-som.md)  
+[magus](rules/traits/magus-som.md "Magus Class Trait")  
 
 - **Prerequisites**: focus pool
 

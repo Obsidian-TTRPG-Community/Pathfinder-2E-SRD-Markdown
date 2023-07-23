@@ -12,7 +12,7 @@ tags:
 aliases: ["Ki Blast"]
 ---
 # Ki Blast *Focus 3*   
-[evocation](rules/traits/evocation.md)  [force](rules/traits/force.md)  [monk](rules/traits/monk.md)  [uncommon](rules/traits/uncommon.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") to [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Area**15-foot cone or more

@@ -7,7 +7,7 @@ tags:
 aliases: ["Call Of The Wild"]
 ---
 # Call Of The Wild  *Feat 2*  
-[druid](rules/traits/druid.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  
 
 
 You call upon the creatures of nature to come to your aid. You can spend 10 minutes in concert with nature to replace one of the spells you've prepared in one of your druid spell slots with a [summon animal](compendium/spells/summon-animal.md) or summon plants and fungi spell of the same level.

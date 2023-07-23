@@ -7,7 +7,7 @@ tags:
 aliases: ["Log Roll"]
 ---
 # Log Roll  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Turpin Rowe Lumberjack Dedication](compendium/feats/turpin-rowe-lumberjack-dedication-ec3.md)
 - **Requirements**: You and an adjacent creature are both on a narrow surface or uneven ground and the other creature is [flat-footed](rules/conditions.md#Flat-footed).

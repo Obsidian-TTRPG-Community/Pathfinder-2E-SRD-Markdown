@@ -10,7 +10,7 @@ tags:
 aliases: ["Train Animal"]
 ---
 # Train Animal  *Feat 1*  
-[downtime](rules/traits/downtime.md)  [general](rules/traits/general.md)  [manipulate](rules/traits/manipulate.md)  [skill](rules/traits/skill.md)  
+[downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [general](rules/traits/general.md "General Feat Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: trained in [Nature](compendium/skills.md#Nature)
 

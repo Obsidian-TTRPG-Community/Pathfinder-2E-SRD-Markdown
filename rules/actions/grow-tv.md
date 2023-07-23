@@ -10,7 +10,7 @@ tags:
 aliases: ["Grow"]
 ---
 # Grow
-[downtime](rules/traits/downtime.md)  [manipulate](rules/traits/manipulate.md)  [rare](rules/traits/rare.md)  
+[downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 *Source: Treasure Vault p. 165*  
 
 

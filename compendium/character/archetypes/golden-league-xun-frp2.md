@@ -15,7 +15,7 @@ You've become a xun, a powerful gang enforcer.
 title: Golden League Xun Dedication, Feat 8
 collapse: closed
 # Golden League Xun Dedication  *Feat 8*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: master in [Underworld Lore](compendium/skills.md#Lore)
 
@@ -26,14 +26,14 @@ You gain expert proficiency in two of the following skills (or in two other skil
 **Special.** You can't select another dedication feat until you've gained two other feats from the Golden League Xun archetype.
 
 *Source: Fists of the Ruby Phoenix #2: Ready? Fight! p. 76*  
-%% #trait/uncommon #trait/archetype #trait/dedication %%
+%% #trait/archetype #trait/dedication #trait/uncommon %%
 ```  
 
 ```ad-embed-feat
 title: Beneath Notice, Feat 10
 collapse: closed
 # Beneath Notice  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Golden League Xun Dedication](compendium/feats/golden-league-xun-dedication-frp2.md), expert in [Deception](compendium/skills.md#Deception)
 
@@ -47,7 +47,7 @@ You are skilled at hiding from your foes and targets among the common populace. 
 title: Menacing Prowess, Feat 10
 collapse: closed
 # Menacing Prowess  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Golden League Xun Dedication](compendium/feats/golden-league-xun-dedication-frp2.md), expert in [Intimidation](compendium/skills.md#Intimidation)
 
@@ -61,7 +61,7 @@ Scaring off multiple people at once is your specialty. When you [Demoralize](rul
 title: Rope Mastery, Feat 10
 collapse: closed
 # Rope Mastery  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Golden League Xun Dedication](compendium/feats/golden-league-xun-dedication-frp2.md), expert in [Athletics](compendium/skills.md#Athletics)
 
@@ -77,7 +77,7 @@ In addition, you can use a rope to hamper your foes. When holding a rope, you ca
 title: Silent Sting, Feat 10
 collapse: closed
 # Silent Sting  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Golden League Xun Dedication](compendium/feats/golden-league-xun-dedication-frp2.md), expert in [Stealth](compendium/skills.md#Stealth)
 - **Trigger** You make a [Strike](rules/actions/strike.md) with a weapon of light bulk.

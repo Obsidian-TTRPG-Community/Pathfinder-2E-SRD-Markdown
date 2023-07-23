@@ -7,7 +7,7 @@ tags:
 aliases: ["Gaze Of Veracity"]
 ---
 # Gaze Of Veracity  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Hellknight Signifer Dedication](compendium/feats/hellknight-signifer-dedication-locg.md), ability to cast focus spells
 

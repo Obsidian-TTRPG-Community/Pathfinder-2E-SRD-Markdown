@@ -19,10 +19,10 @@ You're trained in [Occultism](compendium/skills.md#Occultism) and [Astrology Lor
 
 ```ad-embed-ability
 title: Reclaim Destiny [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
-[divination](rules/traits/divination.md)  [occult](rules/traits/occult.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
-- **Trigger**: You are about to attempt a check and are affected by a [fortune](rules/traits/fortune.md) or [misfortune](rules/traits/misfortune.md) effect that modifies the triggering effect
+- **Trigger**: You are about to attempt a check and are affected by a [fortune](rules/traits/fortune.md "Fortune Effect Trait") or [misfortune](rules/traits/misfortune.md "Misfortune Effect Trait") effect that modifies the triggering effect
 
-**Effect** You break the influence over your fortunes and claim a stable hold over your fate. You ignore the [fortune](rules/traits/fortune.md) or [misfortune](rules/traits/misfortune.md) effect and can roll the triggering roll normally.  
+**Effect** You break the influence over your fortunes and claim a stable hold over your fate. You ignore the [fortune](rules/traits/fortune.md "Fortune Effect Trait") or [misfortune](rules/traits/misfortune.md "Misfortune Effect Trait") effect and can roll the triggering roll normally.  
 %% #trait/divination #trait/occult %%
 ```

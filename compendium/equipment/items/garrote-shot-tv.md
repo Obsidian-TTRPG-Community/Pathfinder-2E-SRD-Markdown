@@ -10,7 +10,7 @@ tags:
 aliases: ["Garrote Shot"]
 ---
 # Garrote Shot *Item 15*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 1200 gp
 - **Ammunition** any

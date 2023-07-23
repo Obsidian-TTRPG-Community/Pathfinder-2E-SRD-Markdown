@@ -7,7 +7,7 @@ tags:
 aliases: ["Flexible Halcyon Spellcasting"]
 ---
 # Flexible Halcyon Spellcasting  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Halcyon Spellcasting Initiate](compendium/feats/halcyon-spellcasting-initiate-locg.md)
 

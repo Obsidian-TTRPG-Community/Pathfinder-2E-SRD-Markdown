@@ -8,7 +8,7 @@ tags:
 aliases: ["Full Plate"]
 ---
 # Full Plate *Item 2*  
-[bulwark](rules/traits/bulwark.md)  
+[bulwark](rules/traits/bulwark.md "Bulwark Armor Trait")  
 
 - **Price** 30 gp
 - **Bulk** 4

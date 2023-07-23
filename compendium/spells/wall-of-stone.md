@@ -9,9 +9,9 @@ tags:
 aliases: ["Wall Of Stone"]
 ---
 # Wall Of Stone *Spell 5*   
-[conjuration](rules/traits/conjuration.md)  [earth](rules/traits/earth.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [earth](rules/traits/earth.md "Earth Energy & Element Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**120 foot
 

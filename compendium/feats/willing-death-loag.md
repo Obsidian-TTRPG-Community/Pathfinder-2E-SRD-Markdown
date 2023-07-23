@@ -7,7 +7,7 @@ tags:
 aliases: ["Willing Death"]
 ---
 # Willing Death  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
-[duskwalker](rules/traits/duskwalker-apg.md)  
+[duskwalker](rules/traits/duskwalker-apg.md "Duskwalker Ancestry & Heritage Trait")  
 
 - **Frequency**: once per day
 - **Trigger** An ally within 30 feet takes damage that would otherwise reduce them to 0 Hit Points and give them the [dying](rules/conditions.md#Dying) condition.

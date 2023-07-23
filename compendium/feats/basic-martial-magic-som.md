@@ -7,7 +7,7 @@ tags:
 aliases: ["Basic Martial Magic"]
 ---
 # Basic Martial Magic  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Magus Dedication](compendium/feats/magus-dedication-som.md)
 

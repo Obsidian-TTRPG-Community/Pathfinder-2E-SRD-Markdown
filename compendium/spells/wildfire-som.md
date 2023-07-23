@@ -11,7 +11,7 @@ tags:
 aliases: ["Wildfire"]
 ---
 # Wildfire *Focus 1*   
-[conjuration](rules/traits/conjuration.md)  [fire](rules/traits/fire.md)  [uncommon](rules/traits/uncommon.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot

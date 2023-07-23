@@ -8,7 +8,7 @@ tags:
 aliases: ["Horizon Walker Dedication"]
 ---
 # Horizon Walker Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: trained in [Survival](compendium/skills.md#Survival)
 

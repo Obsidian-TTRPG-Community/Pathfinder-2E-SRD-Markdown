@@ -11,7 +11,7 @@ tags:
 aliases: ["Pyronite"]
 ---
 # Pyronite *Item 11*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [fire](rules/traits/fire.md)  [rare](rules/traits/rare.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 250 gp
 - **Usage** held in one hand; **Bulk** L

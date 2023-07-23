@@ -7,7 +7,7 @@ tags:
 aliases: ["Vanara Battle Clarity"]
 ---
 # Vanara Battle Clarity  *Feat 13*  
-[vanara](rules/traits/vanara-loil.md)  
+[vanara](rules/traits/vanara-loil.md "Vanara Ancestry & Heritage Trait")  
 
 
 Your focus in combat is practically unshakable.

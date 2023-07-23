@@ -13,7 +13,7 @@ tags:
 aliases: ["Terrifying Ammunition"]
 ---
 # Terrifying Ammunition *Item 6*  
-[consumable](rules/traits/consumable.md)  [emotion](rules/traits/emotion.md)  [enchantment](rules/traits/enchantment.md)  [fear](rules/traits/fear.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 - **Price** 50 gp
 - **Ammunition** any
@@ -25,7 +25,7 @@ This black-and-gray ammunition is etched with occult symbols and tiny, grinning 
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
 > - **Success** The creature is [frightened](rules/conditions.md#Frightened).
-> - **Failure** The creature is [frightened](rules/conditions.md#Frightened) and can't reduce its [frightened](rules/conditions.md#Frightened) value below 1 until it spends an action, which has the [concentrate](rules/traits/concentrate.md) trait, to calm itself down.
+> - **Failure** The creature is [frightened](rules/conditions.md#Frightened) and can't reduce its [frightened](rules/conditions.md#Frightened) value below 1 until it spends an action, which has the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") trait, to calm itself down.
 > - **Critical Failure** As failure, but the creature is [frightened](rules/conditions.md#Frightened).
 
 *Source: Advanced Player's Guide p. 259*

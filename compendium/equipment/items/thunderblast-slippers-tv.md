@@ -11,7 +11,7 @@ tags:
 aliases: ["Thunderblast Slippers"]
 ---
 # Thunderblast Slippers *Item 9+*  
-[evocation](rules/traits/evocation.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [sonic](rules/traits/sonic.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  
 
 - **Usage** worn footwear; **Bulk** L
 - **Category** Worn

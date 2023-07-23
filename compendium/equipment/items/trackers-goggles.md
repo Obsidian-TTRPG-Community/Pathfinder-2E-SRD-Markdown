@@ -10,7 +10,7 @@ tags:
 aliases: ["Tracker's Goggles"]
 ---
 # Tracker's Goggles *Item 3+*  
-[divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Usage** worn eyepiece
 - **Category** Worn

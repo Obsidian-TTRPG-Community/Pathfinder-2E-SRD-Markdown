@@ -10,7 +10,7 @@ tags:
 aliases: ["Sculpt Shadows"]
 ---
 # Sculpt Shadows  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 9*  
-[conjuration](rules/traits/conjuration.md)  [fetchling](rules/traits/fetchling-b2.md)  [occult](rules/traits/occult.md)  [shadow](rules/traits/shadow.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [fetchling](rules/traits/fetchling-b2.md "Fetchling Ancestry & Heritage Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [shadow](rules/traits/shadow.md "Shadow General Trait")  
 
 - **Activity** Three-Action
 

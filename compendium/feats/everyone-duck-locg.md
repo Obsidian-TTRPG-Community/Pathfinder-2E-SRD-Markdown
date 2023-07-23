@@ -7,7 +7,7 @@ tags:
 aliases: ["Everyone Duck!"]
 ---
 # Everyone Duck!  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Pathfinder Agent Dedication](compendium/feats/pathfinder-agent-dedication-lowg.md)
 - **Trigger** You fail, but don't critically fail, an attempt to [Disable a Device](rules/actions/disable-a-device.md) on a trap.

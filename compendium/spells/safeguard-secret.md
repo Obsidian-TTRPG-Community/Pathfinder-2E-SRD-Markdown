@@ -11,7 +11,7 @@ tags:
 aliases: ["Safeguard Secret"]
 ---
 # Safeguard Secret *Focus 4*   
-[abjuration](rules/traits/abjuration.md)  [cleric](rules/traits/cleric.md)  [mental](rules/traits/mental.md)  [uncommon](rules/traits/uncommon.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [cleric](rules/traits/cleric.md "Cleric Class Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Domains**: [secrecy](compendium/setting/domains.md#Secrecy)
 - **Cast** 1 minute 

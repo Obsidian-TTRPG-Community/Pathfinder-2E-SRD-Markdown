@@ -11,7 +11,7 @@ tags:
 aliases: ["Piereta"]
 ---
 # Piereta *Item 20*  
-[divine](rules/traits/divine.md)  [evocation](rules/traits/evocation.md)  [intelligent](rules/traits/intelligent-gmg.md)  [unique](rules/traits/unique.md)  
+[divine](rules/traits/divine.md "Divine Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [intelligent](rules/traits/intelligent-gmg.md "Intelligent Item Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Held

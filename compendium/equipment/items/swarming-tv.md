@@ -9,7 +9,7 @@ tags:
 aliases: ["Swarming"]
 ---
 # Swarming *Item 9*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 700 gp
 - **Usage** etched onto a thrown weapon

@@ -7,7 +7,7 @@ tags:
 aliases: ["Signature Spell Expansion"]
 ---
 # Signature Spell Expansion  *Feat 10*  
-[psychic](rules/traits/psychic-da.md)  
+[psychic](rules/traits/psychic-da.md "Psychic Class Trait")  
 
 
 Your direct mental grasp of your power lets you cast more spells with greater freedom. You gain two additional signature spells, each of which must have a minimum level of 3rd or lower.

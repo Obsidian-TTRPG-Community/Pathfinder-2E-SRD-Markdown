@@ -13,7 +13,7 @@ tags:
 aliases: ["Planar Tear"]
 ---
 # Planar Tear *Hazard 22*  
-[complex](rules/traits/complex.md)  [conjuration](rules/traits/conjuration.md)  [divine](rules/traits/divine.md)  [environmental](rules/traits/environmental.md)  [kaiju](rules/traits/kaiju-frp2.md)  [rare](rules/traits/rare.md)  [teleportation](rules/traits/teleportation.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [kaiju](rules/traits/kaiju-frp2.md "Kaiju  Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  
 
 - **Complexity** Complex
 - **Stealth** +32 master to notice Ebeshra twisting its shape in preparation of creating a planar rift  

@@ -8,7 +8,7 @@ tags:
 aliases: ["Duelist's Challenge"]
 ---
 # Duelist's Challenge  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  [open](rules/traits/open.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [open](rules/traits/open.md "Open Combat Trait")  
 
 - **Prerequisites**: [Duelist Dedication](compendium/feats/duelist-dedication-apg.md)
 - **Activity** Single Action

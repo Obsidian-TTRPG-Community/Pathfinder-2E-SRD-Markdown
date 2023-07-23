@@ -7,7 +7,7 @@ tags:
 aliases: ["Dimensional Disappearance"]
 ---
 # Dimensional Disappearance  *Feat 10*  
-[magus](rules/traits/magus-som.md)  
+[magus](rules/traits/magus-som.md "Magus Class Trait")  
 
 - **Prerequisites**: dimensional assault focus spell, laughing shadow hybrid study
 

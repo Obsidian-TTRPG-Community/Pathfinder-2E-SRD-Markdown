@@ -7,7 +7,7 @@ tags:
 aliases: ["Legendary Size"]
 ---
 # Legendary Size  *Feat 9*  
-[vanara](rules/traits/vanara-loil.md)  
+[vanara](rules/traits/vanara-loil.md "Vanara Ancestry & Heritage Trait")  
 
 
 The vanaras of old were tricksters able to step across wide rivers or slip into impossibly small spaces. You can cast [enlarge](compendium/spells/enlarge.md) and shrink once per day each as 2nd-level divine innate spells. You can target only yourself and other vanaras with these spells.

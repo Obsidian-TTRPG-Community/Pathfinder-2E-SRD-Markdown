@@ -7,7 +7,7 @@ tags:
 aliases: ["Camouflage"]
 ---
 # Camouflage  *Feat 10*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: master in [Stealth](compendium/skills.md#Stealth)
 

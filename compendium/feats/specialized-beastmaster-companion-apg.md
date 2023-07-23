@@ -7,7 +7,7 @@ tags:
 aliases: ["Specialized Beastmaster Companion"]
 ---
 # Specialized Beastmaster Companion  *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Incredible Beastmaster Companion](compendium/feats/incredible-beastmaster-companion-apg.md)
 

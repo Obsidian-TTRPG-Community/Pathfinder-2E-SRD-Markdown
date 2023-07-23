@@ -12,7 +12,7 @@ tags:
 aliases: ["Wakizashi"]
 ---
 # Wakizashi *Item 0*  
-[agile](rules/traits/agile.md)  [deadly <d8>](rules/traits/deadly.md)  [finesse](rules/traits/finesse.md)  [uncommon](rules/traits/uncommon.md)  [versatile <p>](rules/traits/versatile.md)  
+[agile](rules/traits/agile.md "Agile Weapon Trait")  [deadly <d8>](rules/traits/deadly-d8.md "Deadly Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [versatile <p>](rules/traits/versatile-p.md "Versatile Weapon Trait")  
 
 - **Price** 1 gp
 - **Bulk** L

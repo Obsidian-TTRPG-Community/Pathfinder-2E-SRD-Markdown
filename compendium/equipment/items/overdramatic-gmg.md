@@ -11,7 +11,7 @@ tags:
 aliases: ["Overdramatic"]
 ---
 # Overdramatic *Item 5*  
-[cursed](rules/traits/cursed-gmg.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** curses a weapon
 - **Category** Curse

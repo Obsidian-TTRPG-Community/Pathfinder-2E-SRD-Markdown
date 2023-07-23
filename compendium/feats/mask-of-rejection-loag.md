@@ -8,7 +8,7 @@ tags:
 aliases: ["Mask Of Rejection"]
 ---
 # Mask Of Rejection  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 5*  
-[fortune](rules/traits/fortune.md)  [orc](rules/traits/orc.md)  
+[fortune](rules/traits/fortune.md "Fortune Effect Trait")  [orc](rules/traits/orc.md "Orc Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Orc Warmask](compendium/feats/orc-warmask-loag.md)
 - **Frequency**: once per day

@@ -7,7 +7,7 @@ tags:
 aliases: ["Sacrifice Armor"]
 ---
 # Sacrifice Armor  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
-[champion](rules/traits/champion.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  
 
 - **Trigger** You are hit by a [Strike](rules/actions/strike.md) that deals physical damage.
 - **Activity** Reaction

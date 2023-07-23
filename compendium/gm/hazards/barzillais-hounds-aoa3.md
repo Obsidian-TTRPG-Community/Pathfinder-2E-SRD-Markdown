@@ -9,7 +9,7 @@ tags:
 aliases: ["Barzillai's Hounds"]
 ---
 # Barzillai's Hounds *Hazard 6*  
-[complex](rules/traits/complex.md)  [haunt](rules/traits/haunt.md)  [rare](rules/traits/rare.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Complexity** Complex
 - **Stealth** +17  
@@ -20,7 +20,7 @@ Hell hounds [invisible](rules/conditions.md#Invisible) to all but their lone tar
      
 ```ad-embed-ability
 title: Begin the Hunt [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[conjuration](rules/traits/conjuration.md)  [occult](rules/traits/occult.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 - **Trigger**: A creature that doesn't openly wear the symbol of [Asmodeus](compendium/setting/deities/asmodeus.md) comes within 60 feet of the haunt's initial location.
 
@@ -39,7 +39,7 @@ title: Speed
 ```
 
 ```ad-inline-attack
-title: Melee [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Jaws (20) ([magical](rules/traits/magical.md))
+title: Melee [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Jaws (20) ([magical](rules/traits/magical.md "Magical Item Trait"))
 **Damage** `1d10+11` piercing plus `1d10` fire 
  
 **Effects** 

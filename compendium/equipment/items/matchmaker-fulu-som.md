@@ -13,7 +13,7 @@ tags:
 aliases: ["Matchmaker Fulu"]
 ---
 # Matchmaker Fulu *Item 3*  
-[consumable](rules/traits/consumable.md)  [enchantment](rules/traits/enchantment.md)  [fortune](rules/traits/fortune.md)  [fulu](rules/traits/fulu-som.md)  [magical](rules/traits/magical.md)  [talisman](rules/traits/talisman.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  [fulu](rules/traits/fulu-som.md "Fulu Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  
 
 - **Price** 10 gp
 - **Usage** affixed to armor

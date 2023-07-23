@@ -9,7 +9,7 @@ tags:
 aliases: ["Twin Eidolon"]
 ---
 # Twin Eidolon  *Feat 20*  
-[polymorph](rules/traits/polymorph.md)  [summoner](rules/traits/summoner-som.md)  [transmutation](rules/traits/transmutation.md)  
+[polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [summoner](rules/traits/summoner-som.md "Summoner Class Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 
 You can transform to match your eidolon. When you [Manifest your Eidolon](rules/actions/manifest-eidolon-som.md), you can call upon its powers to transform yourself into a duplicate until it unmanifests.

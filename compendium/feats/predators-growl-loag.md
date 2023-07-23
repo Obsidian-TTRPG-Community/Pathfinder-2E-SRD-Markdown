@@ -7,7 +7,7 @@ tags:
 aliases: ["Predator's Growl"]
 ---
 # Predator's Growl  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 9*  
-[catfolk](rules/traits/catfolk-b1.md)  
+[catfolk](rules/traits/catfolk-b1.md "Catfolk Ancestry & Heritage Trait")  
 
 - **Prerequisites**: expert in [Intimidation](compendium/skills.md#Intimidation)
 - **Trigger** You successfully [Seek](rules/actions/seek.md) a [hidden](rules/conditions.md#Hidden) or [undetected](rules/conditions.md#Undetected) creature.

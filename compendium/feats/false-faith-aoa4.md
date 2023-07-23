@@ -7,7 +7,7 @@ tags:
 aliases: ["False Faith"]
 ---
 # False Faith  *Feat 1*  
-[cleric](rules/traits/cleric.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  
 
 - **Prerequisites**: worshipper of [Droskar](compendium/setting/deities/droskar-logm.md)
 

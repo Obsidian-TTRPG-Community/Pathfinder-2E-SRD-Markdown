@@ -12,7 +12,7 @@ tags:
 aliases: ["Buugeng"]
 ---
 # Buugeng *Item 0*  
-[agile](rules/traits/agile.md)  [conrasu](rules/traits/conrasu-loag.md)  [sweep](rules/traits/sweep.md)  [twin](rules/traits/twin.md)  [uncommon](rules/traits/uncommon.md)  
+[agile](rules/traits/agile.md "Agile Weapon Trait")  [conrasu](rules/traits/conrasu-loag.md "Conrasu Ancestry & Heritage Trait")  [sweep](rules/traits/sweep.md "Sweep Weapon Trait")  [twin](rules/traits/twin.md "Twin Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 4 gp
 - **Bulk** 1

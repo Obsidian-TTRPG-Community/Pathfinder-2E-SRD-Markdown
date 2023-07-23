@@ -15,7 +15,7 @@ tags:
 aliases: ["Captivating Bauble"]
 ---
 # Captivating Bauble *Item 12*  
-[auditory](rules/traits/auditory.md)  [consumable](rules/traits/consumable.md)  [emotion](rules/traits/emotion.md)  [enchantment](rules/traits/enchantment.md)  [linguistic](rules/traits/linguistic.md)  [magical](rules/traits/magical.md)  [talisman](rules/traits/talisman.md)  [visual](rules/traits/visual.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Price** 350 gp
 - **Usage** affixed to armor; **Bulk** —

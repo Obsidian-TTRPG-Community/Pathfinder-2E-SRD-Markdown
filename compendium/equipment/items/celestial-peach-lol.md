@@ -14,7 +14,7 @@ tags:
 aliases: ["Celestial Peach"]
 ---
 # Celestial Peach *Item 17+*  
-[consumable](rules/traits/consumable.md)  [divine](rules/traits/divine.md)  [healing](rules/traits/healing.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [positive](rules/traits/positive.md)  [rare](rules/traits/rare.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** held in one hand; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md)

@@ -7,7 +7,7 @@ tags:
 aliases: ["Senses of the Bear"]
 ---
 # Senses of the Bear  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 
 While in ursine form, you gain low-light vision and scent (imprecise) 30 feet. If you already had low-light vision, you instead gain darkvision.

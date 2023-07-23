@@ -7,10 +7,10 @@ tags:
 aliases: ["Crushing Grab"]
 ---
 # Crushing Grab  *Feat 2*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 
-Like a powerful constrictor, you crush targets in your unyielding grasp. When you successfully [Grapple](rules/actions/grapple.md) a creature, you can deal bludgeoning damage to that creature equal to your Strength modifier. You can make this attack [nonlethal](rules/traits/nonlethal.md) with no penalty.
+Like a powerful constrictor, you crush targets in your unyielding grasp. When you successfully [Grapple](rules/actions/grapple.md) a creature, you can deal bludgeoning damage to that creature equal to your Strength modifier. You can make this attack [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait") with no penalty.
 
 *Source: Core Rulebook p. 160*  
 %% #compendium/src/pf2e/crb #trait/monk %%

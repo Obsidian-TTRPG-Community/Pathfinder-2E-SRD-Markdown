@@ -11,7 +11,7 @@ tags:
 aliases: ["Temporal Distortion"]
 ---
 # Temporal Distortion *Focus 1*   
-[cursebound](rules/traits/cursebound-apg.md)  [oracle](rules/traits/oracle-apg.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+[cursebound](rules/traits/cursebound-apg.md "Cursebound Spell Trait")  [oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Mystery** Oracle
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 

@@ -9,7 +9,7 @@ tags:
 aliases: ["Dwarven Thrower"]
 ---
 # Dwarven Thrower *Item 13*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 2750 gp
 - **Usage** held in 1 hand; **Bulk** 1

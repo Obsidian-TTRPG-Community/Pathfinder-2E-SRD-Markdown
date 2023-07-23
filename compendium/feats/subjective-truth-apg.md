@@ -8,7 +8,7 @@ tags:
 aliases: ["Subjective Truth"]
 ---
 # Subjective Truth  *Feat 7*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: master in [Deception](compendium/skills.md#Deception), [Vigilante Dedication](compendium/feats/vigilante-dedication-apg.md)
 

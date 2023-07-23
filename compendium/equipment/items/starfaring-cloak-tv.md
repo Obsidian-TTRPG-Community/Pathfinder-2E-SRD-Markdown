@@ -13,7 +13,7 @@ tags:
 aliases: ["Starfaring Cloak"]
 ---
 # Starfaring Cloak *Item 24*  
-[artifact](rules/traits/artifact-gmg.md)  [conjuration](rules/traits/conjuration.md)  [divine](rules/traits/divine.md)  [invested](rules/traits/invested.md)  [light](rules/traits/light.md)  [rare](rules/traits/rare.md)  
+[artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [light](rules/traits/light.md "Light Effect Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** worn; **Bulk** L
 - **Category** Artifact
@@ -25,7 +25,7 @@ title: Activate [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "R
 
 - **Trigger**: You make an attack roll, skill check, or saving throw
 
-**Effect** Reroll the triggering roll and take the higher result. This is a [fortune](rules/traits/fortune.md) effect.
+**Effect** Reroll the triggering roll and take the higher result. This is a [fortune](rules/traits/fortune.md "Fortune Effect Trait") effect.
 ```
 
 ```ad-embed-ability

@@ -9,7 +9,7 @@ tags:
 aliases: ["Spellmaster's Ward"]
 ---
 # Spellmaster's Ward *Focus 5*   
-[abjuration](rules/traits/abjuration.md)  [uncommon](rules/traits/uncommon.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") to [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Duration**sustained up to 1 minute

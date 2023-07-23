@@ -12,7 +12,7 @@ tags:
 aliases: ["Phoenix Fighting Fan"]
 ---
 # Phoenix Fighting Fan *Item 20*  
-[artifact](rules/traits/artifact-gmg.md)  [conjuration](rules/traits/conjuration.md)  [healing](rules/traits/healing.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Artifact

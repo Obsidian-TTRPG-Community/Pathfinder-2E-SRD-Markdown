@@ -10,7 +10,7 @@ tags:
 aliases: ["Spellbook Of Redundant Enchantment"]
 ---
 # Spellbook Of Redundant Enchantment *Item 8*  
-[enchantment](rules/traits/enchantment.md)  [grimoire](rules/traits/grimoire-som.md)  [magical](rules/traits/magical.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [grimoire](rules/traits/grimoire-som.md "Grimoire Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 420 gp
 - **Bulk** L

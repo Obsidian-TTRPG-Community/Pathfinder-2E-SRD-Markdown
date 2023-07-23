@@ -10,12 +10,12 @@ tags:
 - domain/travel/deity
 aliases: ["Ng", "The Hooded"]
 ---
-# Ng (The Hooded) *([N](rules/traits/neutral-b1.md))*  
+# Ng (The Hooded) *([N](rules/traits/n-b1.md "Neutral Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 126*  
 
 - **Category**: Eldest
 - **Anathema**: sleep in the same place twice in a row, wear seasonal decorations out of season
-- **Follower Alignments**: [N](rules/traits/neutral-b1.md)
+- **Follower Alignments**: [N](rules/traits/n-b1.md "Neutral Alignment Trait")
 
 ## Devotee benefits
 

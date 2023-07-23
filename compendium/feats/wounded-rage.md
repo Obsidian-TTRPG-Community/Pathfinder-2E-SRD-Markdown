@@ -8,7 +8,7 @@ tags:
 aliases: ["Wounded Rage"]
 ---
 # Wounded Rage  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 4*  
-[barbarian](rules/traits/barbarian.md)  [rage](rules/traits/rage.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [rage](rules/traits/rage.md "Rage Combat Trait")  
 
 - **Trigger** You take damage and are capable of entering a rage.
 - **Activity** Reaction

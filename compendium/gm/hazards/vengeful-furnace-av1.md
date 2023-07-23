@@ -8,7 +8,7 @@ tags:
 aliases: ["Vengeful Furnace"]
 ---
 # Vengeful Furnace *Hazard 4*  
-[complex](rules/traits/complex.md)  [haunt](rules/traits/haunt.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +15 expert  
@@ -25,7 +25,7 @@ The hatch atop the haunted furnace flips open and disgorges a pair of shrieking,
      
 ```ad-embed-ability
 title: Ghostly Assault [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[divine](rules/traits/divine.md)  [enchantment](rules/traits/enchantment.md)  [fire](rules/traits/fire.md)  [mental](rules/traits/mental.md)  
+[divine](rules/traits/divine.md "Divine Tradition Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 - **Trigger**: A living creature with an Intelligence score of 15 or higher enters the room, or any creature touches the furnace
 
@@ -34,7 +34,7 @@ title: Ghostly Assault [R](rules/core-rulebook/chapter-9-playing-the-game.md#Act
 ```
 ```ad-embed-ability
 title: Burn Knowledge
-[divine](rules/traits/divine.md)  [enchantment](rules/traits/enchantment.md)  [fire](rules/traits/fire.md)  [mental](rules/traits/mental.md)  
+[divine](rules/traits/divine.md "Divine Tradition Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 The target of the haunt's initial Ghostly Assault, as well as any creature later hit by a burning lash [Strike](rules/actions/strike.md), loses random memories, as if these thoughts were incinerated like pages in a burning book. The creature must attempt a DC 23 Will save.
 
@@ -51,7 +51,7 @@ title: Routine
 (3 actions) The burning ghosts lash at a random [stupefied](rules/conditions.md#Stupefied) creature in the room (or any random creature, if no creatures in the room are [stupefied](rules/conditions.md#Stupefied)).
 
 ```ad-inline-attack
-title: Ranged [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Burning Lash (14) ([fire](rules/traits/fire.md), [mental](rules/traits/mental.md), range <10 feet>)
+title: Ranged [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Burning Lash (14) ([fire](rules/traits/fire.md "Fire Energy & Element Trait"), [mental](rules/traits/mental.md "Mental Effect Trait"), range <10 feet>)
 **Damage** `2d6` fire plus `2d6` mental and burn knowledge 
  
 **Effects** burn knowledge

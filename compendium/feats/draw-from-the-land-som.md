@@ -7,7 +7,7 @@ tags:
 aliases: ["Draw From The Land"]
 ---
 # Draw From The Land  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Geomancer Dedication](compendium/feats/geomancer-dedication-som.md), expert in [Nature](compendium/skills.md#Nature)
 - **Requirements**: You gained a terrain attunement benefit this turn, and it matched the terrain you're in.

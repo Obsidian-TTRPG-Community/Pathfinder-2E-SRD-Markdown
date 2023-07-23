@@ -8,7 +8,7 @@ tags:
 aliases: ["Poisoned Lock"]
 ---
 # Poisoned Lock *Hazard 1*  
-[mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  
+[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 17 trained  
@@ -25,7 +25,7 @@ A spring-loaded, poisoned spine is [hidden](rules/conditions.md#Hidden) near the
      
 ```ad-embed-ability
 title: Spring [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[attack](rules/traits/attack.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  
 
 - **Trigger**: A creature tries to unlock or [Pick the Lock](rules/actions/pick-a-lock.md)
 
@@ -34,7 +34,7 @@ title: Spring [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Rea
 ```
 ```ad-embed-ability
 title: Cladis Poison
-[poison](rules/traits/poison.md)  
+[poison](rules/traits/poison.md "Poison Effect Trait")  
 
   
 %% #trait/poison %%

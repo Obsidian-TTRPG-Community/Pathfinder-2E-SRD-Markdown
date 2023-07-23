@@ -7,7 +7,7 @@ tags:
 aliases: ["Ghoran Weapon Expertise"]
 ---
 # Ghoran Weapon Expertise  *Feat 13*  
-[ghoran](rules/traits/ghoran-loil.md)  
+[ghoran](rules/traits/ghoran-loil.md "Ghoran Ancestry & Heritage Trait")  
 
 - **Prerequisites**: Ghoran Weapon Familiarity
 

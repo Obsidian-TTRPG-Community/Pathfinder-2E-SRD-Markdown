@@ -7,7 +7,7 @@ tags:
 aliases: ["Emergency Targe"]
 ---
 # Emergency Targe  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 4*  
-[magus](rules/traits/magus-som.md)  
+[magus](rules/traits/magus-som.md "Magus Class Trait")  
 
 - **Prerequisites**: sparkling targe hybrid study
 - **Trigger** An enemy hits you with a melee [Strike](rules/actions/strike.md) or a melee spell attack roll, or you fail a save against an enemy's spell.

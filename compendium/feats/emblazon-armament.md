@@ -8,7 +8,7 @@ tags:
 aliases: ["Emblazon Armament"]
 ---
 # Emblazon Armament  *Feat 2*  
-[cleric](rules/traits/cleric.md)  [exploration](rules/traits/exploration.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  
 
 
 Carefully etching a sacred image into a physical object, you steel yourself for battle. You can spend 10 minutes emblazoning a symbol of your deity upon a weapon or shield. The symbol doesn't fade until 1 year has passed, but if you Emblazon an Armament, any symbol you previously emblazoned and any symbol already emblazoned on that item instantly disappears. The item becomes a religious symbol of your deity and can be used as a divine focus while emblazoned, and it gains another benefit determined by the type of item. This benefit applies only to followers of the deity the symbol represents.

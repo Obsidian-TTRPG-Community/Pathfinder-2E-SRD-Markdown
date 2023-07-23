@@ -7,7 +7,7 @@ tags:
 aliases: ["Effortless Concentration"]
 ---
 # Effortless Concentration  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 16*  
-[summoner](rules/traits/summoner-som.md)  
+[summoner](rules/traits/summoner-som.md "Summoner Class Trait")  
 
 - **Trigger** Your turn begins.
 - **Activity** Free Action

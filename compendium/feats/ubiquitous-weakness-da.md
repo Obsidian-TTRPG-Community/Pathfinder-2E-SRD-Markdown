@@ -8,7 +8,7 @@ tags:
 aliases: ["Ubiquitous Weakness"]
 ---
 # Ubiquitous Weakness  *Feat 20*  
-[manipulate](rules/traits/manipulate.md)  [thaumaturge](rules/traits/thaumaturge-da.md)  
+[manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [thaumaturge](rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
 
 - **Prerequisites**: Share Weakness
 

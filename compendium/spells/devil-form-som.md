@@ -11,13 +11,13 @@ tags:
 aliases: ["Devil Form"]
 ---
 # Devil Form *Spell 6*   
-[evil](rules/traits/evil.md)  [lawful](rules/traits/lawful.md)  [polymorph](rules/traits/polymorph.md)  [transmutation](rules/traits/transmutation.md)  
+[evil](rules/traits/evil.md "Evil Alignment Trait")  [lawful](rules/traits/lawful.md "Lawful Alignment Trait")  [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [divine](rules/traits/divine.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Duration**1 minute
 
-You bind yourself to the power of Hell, transforming into a Medium devil battle form. When you cast this spell, choose barbazu, erinys, osyluth, or sarglagon. If you choose osyluth or sarglagon, the battle form is Large and you must have enough space to expand into or the spell is lost. While in this form you gain the [devil](rules/traits/devil.md) and [fiend](rules/traits/fiend.md) traits.
+You bind yourself to the power of Hell, transforming into a Medium devil battle form. When you cast this spell, choose barbazu, erinys, osyluth, or sarglagon. If you choose osyluth or sarglagon, the battle form is Large and you must have enough space to expand into or the spell is lost. While in this form you gain the [devil](rules/traits/devil.md "Devil Creature Trait") and [fiend](rules/traits/fiend.md "Fiend Creature Type Trait") traits.
 
 You have hands in this battle form and can use manipulate actions. You can [Dismiss](rules/actions/dismiss.md) the spell.
 
@@ -32,9 +32,9 @@ You gain the following statistics and abilities regardless of the form that you 
 
 You also gain specific abilities based on the type of devil you choose:
 
-- **Barbazu** Speed 35 feet; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") glaive (deadly <d8>, forceful, reach <10 feet>), **Damage** `2d8+10` slashing plus `1d6` evil and `1d6` [persistent bleed](rules/conditions.md#Persistent%20Damage); **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") beard, **Damage** `3d8` piercing plus `1d6` evil; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") claw ([agile](rules/traits/agile.md)), **Damage** `3d6` slashing plus `1d6` evil.
-- **Erinys** Speed 25 feet, fly 40 feet; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") longsword ([versatile <P>](rules/traits/versatile.md)), **Damage** `1d8+10` slashing plus `1d6` evil and `1d6` fire; **Ranged** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") composite longbow (deadly <d10>, range increment <100 feet>, volley), **Damage** `1d8` piercing plus `1d6` evil and `1d6` fire.
+- **Barbazu** Speed 35 feet; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") glaive (deadly <d8>, forceful, reach <10 feet>), **Damage** `2d8+10` slashing plus `1d6` evil and `1d6` [persistent bleed](rules/conditions.md#Persistent%20Damage); **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") beard, **Damage** `3d8` piercing plus `1d6` evil; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") claw ([agile](rules/traits/agile.md "Agile Weapon Trait")), **Damage** `3d6` slashing plus `1d6` evil.
+- **Erinys** Speed 25 feet, fly 40 feet; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") longsword ([versatile <P>](rules/traits/versatile-p.md "Versatile Weapon Trait")), **Damage** `1d8+10` slashing plus `1d6` evil and `1d6` fire; **Ranged** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") composite longbow (deadly <d10>, range increment <100 feet>, volley), **Damage** `1d8` piercing plus `1d6` evil and `1d6` fire.
 - **Osyluth** Speed 35 feet, fly 30 feet; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") jaws, **Damage** `2d10+10` piercing plus `1d6` evil; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") claw (agile, reach <10 feet>), **Damage** `2d6` slashing plus `1d6` evil; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") stinger (reach <15 feet>), **Damage** `1d10` piercing plus `1d6` evil and `1d6` poison; **Ranged** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") bone shard (range increment <30 feet>), **Damage** `2d6` piercing plus `1d6` evil.
-- **Sarglagon** Speed 25 feet, fly 25 feet, swim 30 feet; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") fangs, **Damage** `2d10+10` piercing plus `1d6` evil; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") tentacle arm ([agile](rules/traits/agile.md)), **Damage** `1d8` bludgeoning plus `1d6` evil and `1d6` poison.
+- **Sarglagon** Speed 25 feet, fly 25 feet, swim 30 feet; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") fangs, **Damage** `2d10+10` piercing plus `1d6` evil; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") tentacle arm ([agile](rules/traits/agile.md "Agile Weapon Trait")), **Damage** `1d8` bludgeoning plus `1d6` evil and `1d6` poison.
 
 *Source: Secrets of Magic p. 99*

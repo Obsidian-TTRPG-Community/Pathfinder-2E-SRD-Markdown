@@ -12,7 +12,7 @@ tags:
 aliases: ["Wand Of Fey Flames"]
 ---
 # Wand Of Fey Flames *Item 7*  
-[evocation](rules/traits/evocation.md)  [light](rules/traits/light.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  [wand](rules/traits/wand.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [light](rules/traits/light.md "Light Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
 
 - **Price** 360 gp
 - **Usage** held in 1 hand; **Bulk** L

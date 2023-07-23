@@ -14,16 +14,16 @@ tags:
 aliases: ["Compel True Name"]
 ---
 # Compel True Name *Spell 4*   
-[auditory](rules/traits/auditory.md)  [enchantment](rules/traits/enchantment.md)  [incapacitation](rules/traits/incapacitation.md)  [linguistic](rules/traits/linguistic.md)  [mental](rules/traits/mental.md)  [rare](rules/traits/rare.md)  [true name](rules/traits/true-name-som.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [true name](rules/traits/true-name-som.md "True Name General Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [divine](rules/traits/divine.md), [occult](rules/traits/occult.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot
 - **Targets**1 creature whose true name you know
 - **Saving Throw** Will
 - **Duration**varies
 
-You instruct the target to do something, compelling obedience by calling it by its true name. Your instructions can't be self-destructive. Though this spell has the [linguistic](rules/traits/linguistic.md) trait, this applies only to the instructions; the creature doesn't need to know its own true name to be affected.
+You instruct the target to do something, compelling obedience by calling it by its true name. Your instructions can't be self-destructive. Though this spell has the [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait") trait, this applies only to the instructions; the creature doesn't need to know its own true name to be affected.
 
 The target must attempt a Will saving throw.
 

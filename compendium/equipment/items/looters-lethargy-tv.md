@@ -12,7 +12,7 @@ tags:
 aliases: ["Looter's Lethargy"]
 ---
 # Looter's Lethargy *Item 2*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [contact](rules/traits/contact.md)  [poison](rules/traits/poison.md)  [uncommon](rules/traits/uncommon.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [contact](rules/traits/contact.md "Contact Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 6 gp
 - **Usage** held in 1 hand; **Bulk** L

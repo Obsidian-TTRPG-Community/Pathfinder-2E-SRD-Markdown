@@ -7,10 +7,10 @@ tags:
 aliases: ["Eldritch Nails"]
 ---
 # Eldritch Nails  *Feat 4*  
-[witch](rules/traits/witch-apg.md)  
+[witch](rules/traits/witch-apg.md "Witch Class Trait")  
 
 
-Your nails are supernaturally long and sharp. You gain a nails unarmed attack that deals `1d6` slashing damage. Your nails are in the brawling group and have the [agile](rules/traits/agile.md) and [unarmed](rules/traits/unarmed.md) traits.
+Your nails are supernaturally long and sharp. You gain a nails unarmed attack that deals `1d6` slashing damage. Your nails are in the brawling group and have the [agile](rules/traits/agile.md "Agile Weapon Trait") and [unarmed](rules/traits/unarmed.md "Unarmed Weapon Trait") traits.
 
 You can etch your nails with runes with the same cost and restrictions as for etching runes onto handwraps of mighty blows; runes etched onto your nails apply to nails unarmed attacks with both hands but not to other unarmed attacks.
 

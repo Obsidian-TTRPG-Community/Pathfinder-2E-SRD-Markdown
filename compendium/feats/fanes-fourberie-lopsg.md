@@ -10,7 +10,7 @@ tags:
 aliases: ["Fane's Fourberie"]
 ---
 # Fane's Fourberie  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 2*  
-[rogue](rules/traits/rogue.md)  [stance](rules/traits/stance.md)  [swashbuckler](rules/traits/swashbuckler-apg.md)  [uncommon](rules/traits/uncommon.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  [swashbuckler](rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Activity** Single Action
 

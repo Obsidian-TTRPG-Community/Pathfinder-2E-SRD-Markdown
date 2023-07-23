@@ -7,7 +7,7 @@ tags:
 aliases: ["Deny The Songs Of War"]
 ---
 # Deny The Songs Of War  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Nantambu Chime-Ringer Dedication](compendium/feats/nantambu-chime-ringer-dedication-sot2.md)
 

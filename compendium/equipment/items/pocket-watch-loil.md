@@ -8,7 +8,7 @@ tags:
 aliases: ["Pocket Watch"]
 ---
 # Pocket Watch *Item 2*  
-[uncommon](rules/traits/uncommon.md)  
+[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 25 gp
 - **Usage** held in 1 hand; **Bulk** L

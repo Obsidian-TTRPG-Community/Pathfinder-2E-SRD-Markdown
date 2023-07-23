@@ -8,7 +8,7 @@ tags:
 aliases: ["Alchemical Chart"]
 ---
 # Alchemical Chart *Item 4+*  
-[alchemical](rules/traits/alchemical.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Held

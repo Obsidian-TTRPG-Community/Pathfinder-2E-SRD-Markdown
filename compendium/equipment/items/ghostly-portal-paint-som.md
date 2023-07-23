@@ -12,7 +12,7 @@ tags:
 aliases: ["Ghostly Portal Paint"]
 ---
 # Ghostly Portal Paint *Item 9*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [oil](rules/traits/oil.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [oil](rules/traits/oil.md "Oil Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 120 gp
 - **Usage** held in 2 hands; **Bulk** L

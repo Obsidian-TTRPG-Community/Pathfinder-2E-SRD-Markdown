@@ -8,7 +8,7 @@ tags:
 aliases: ["Discover"]
 ---
 # Discover
-[concentrate](rules/traits/concentrate.md)  [secret](rules/traits/secret.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [secret](rules/traits/secret.md "Secret General Trait")  
 *Source: Gamemastery Guide p. 151*  
 
 **Variant Rule** Influence

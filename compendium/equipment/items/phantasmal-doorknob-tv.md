@@ -12,7 +12,7 @@ tags:
 aliases: ["Phantasmal Doorknob"]
 ---
 # Phantasmal Doorknob *Item 6+*  
-[emotion](rules/traits/emotion.md)  [illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  [spellheart](rules/traits/spellheart-som.md)  
+[emotion](rules/traits/emotion.md "Emotion Effect Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [spellheart](rules/traits/spellheart-som.md "Spellheart Equipment Trait")  
 
 - **Usage** affixed to armor or a weapon; **Bulk** —
 - **Category** Spellheart

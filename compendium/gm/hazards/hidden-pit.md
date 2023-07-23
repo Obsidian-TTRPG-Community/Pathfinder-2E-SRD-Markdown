@@ -8,7 +8,7 @@ tags:
 aliases: ["Hidden Pit"]
 ---
 # Hidden Pit *Hazard 0*  
-[mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  
+[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 18 (or 0 if the trapdoor is disabled or [broken](rules/conditions.md#Broken))  

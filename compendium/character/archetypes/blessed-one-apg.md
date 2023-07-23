@@ -15,7 +15,7 @@ Through luck or deed, heritage or heroics, you carry the blessing of a deity. Th
 title: Blessed One Dedication, Feat 2
 collapse: closed
 # Blessed One Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 
 You are touched by a deity and gifted with the ability to alleviate the suffering of others. You gain the [lay on hands](compendium/spells/lay-on-hands.md) devotion spell. It costs 1 Focus Point to cast a focus spell.
@@ -32,7 +32,7 @@ This feat grants a focus pool of 1 Focus Point that you can recover using the [R
 title: Blessed Sacrifice, Feat 4
 collapse: closed
 # Blessed Sacrifice  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Blessed One Dedication](compendium/feats/blessed-one-dedication-apg.md)
 
@@ -46,7 +46,7 @@ You gain the [protector's sacrifice](compendium/spells/protectors-sacrifice.md) 
 title: Accelerating Touch, Feat 6*
 collapse: closed
 # Accelerating Touch  *Feat 6*  
-[champion](rules/traits/champion.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  
 
 > [!pf2-note] This version of [Accelerating Touch](compendium/feats/accelerating-touch-apg.md) is intended for use with the Blessed One Archetype. Its level has been changed accordingly.
 
@@ -62,14 +62,14 @@ Your healing energies are infused with bounding energy. A creature that recovers
 title: Mercy, Feat 6*
 collapse: closed
 # Mercy  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[champion](rules/traits/champion.md)  [concentrate](rules/traits/concentrate.md)  [metamagic](rules/traits/metamagic.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 > [!pf2-note] This version of [Mercy](compendium/feats/mercy.md) is intended for use with the Blessed One Archetype. Its level has been changed accordingly.
 
 - **Prerequisites**: devotion spell ([lay on hands](compendium/spells/lay-on-hands.md))
 - **Activity** Single Action
 
-Your touch relieves fear and restores movement. If the next action you use is to cast [lay on hands](compendium/spells/lay-on-hands.md), you can attempt to counteract a [fear](rules/traits/fear.md) effect or an effect imposing the [paralyzed](rules/conditions.md#Paralyzed) condition on the target, in addition to the other benefits of lay on hands.
+Your touch relieves fear and restores movement. If the next action you use is to cast [lay on hands](compendium/spells/lay-on-hands.md), you can attempt to counteract a [fear](rules/traits/fear.md "Fear Effect Trait") effect or an effect imposing the [paralyzed](rules/conditions.md#Paralyzed) condition on the target, in addition to the other benefits of lay on hands.
 
 *Source: Core Rulebook p. 111*  
 %% #trait/champion #trait/concentrate #trait/metamagic %%
@@ -79,7 +79,7 @@ Your touch relieves fear and restores movement. If the next action you use is to
 title: Blessed Spell, Feat 8
 collapse: closed
 # Blessed Spell  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  [concentrate](rules/traits/concentrate.md)  [metamagic](rules/traits/metamagic.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 - **Prerequisites**: [Blessed One Dedication](compendium/feats/blessed-one-dedication-apg.md), ability to cast spells from spell slots, [Mercy](compendium/feats/mercy.md)
 - **Frequency**: once per 10 minutes
@@ -95,7 +95,7 @@ When you focus your magic on an ally, you can remove harmful conditions. If your
 title: Invigorating Mercy, Feat 8*
 collapse: closed
 # Invigorating Mercy  *Feat 8*  
-[champion](rules/traits/champion.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  
 
 > [!pf2-note] This version of [Invigorating Mercy](compendium/feats/invigorating-mercy-apg.md) is intended for use with the Blessed One Archetype. Its level has been changed accordingly.
 
@@ -111,7 +111,7 @@ Your divine touch rejuvenates the weak and tired. When you use Mercy, you can in
 title: Greater Mercy, Feat 10*
 collapse: closed
 # Greater Mercy  *Feat 10*  
-[champion](rules/traits/champion.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  
 
 > [!pf2-note] This version of [Greater Mercy](compendium/feats/greater-mercy.md) is intended for use with the Blessed One Archetype. Its level has been changed accordingly.
 
@@ -127,7 +127,7 @@ Your faith enhances your ability to remove conditions. When you use [Mercy](comp
 title: Blessed Denial, Feat 12*
 collapse: closed
 # Blessed Denial  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Blessed Denial](compendium/feats/blessed-denial-apg.md) is intended for use with the Blessed One Archetype. Its level has been changed accordingly.
 
@@ -145,7 +145,7 @@ You exude peace and protection, lessening a harmful condition as it falls upon a
 title: Elucidating Mercy, Feat 12*
 collapse: closed
 # Elucidating Mercy  *Feat 12*  
-[champion](rules/traits/champion.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  
 
 > [!pf2-note] This version of [Elucidating Mercy](compendium/feats/elucidating-mercy-apg.md) is intended for use with the Blessed One Archetype. Its level has been changed accordingly.
 
@@ -161,7 +161,7 @@ Your mercy grants clarity to those around you just when they need it most. When 
 title: Resilient Touch, Feat 12*
 collapse: closed
 # Resilient Touch  *Feat 12*  
-[champion](rules/traits/champion.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  
 
 > [!pf2-note] This version of [Resilient Touch](compendium/feats/resilient-touch-apg.md) is intended for use with the Blessed One Archetype. Its level has been changed accordingly.
 
@@ -179,13 +179,13 @@ An ally that recovers Hit Points from your lay on hands gains a +1 status bonus 
 title: Affliction Mercy, Feat 14*
 collapse: closed
 # Affliction Mercy  *Feat 14*  
-[champion](rules/traits/champion.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  
 
 > [!pf2-note] This version of [Affliction Mercy](compendium/feats/affliction-mercy.md) is intended for use with the Blessed One Archetype. Its level has been changed accordingly.
 
 - **Prerequisites**: [Mercy](compendium/feats/mercy.md)
 
-The divine grace that flows through you grants reprieve from an affliction. When you use [Mercy](compendium/feats/mercy.md), you can instead attempt to counteract a [curse](rules/traits/curse.md), [disease](rules/traits/disease.md), or [poison](rules/traits/poison.md).
+The divine grace that flows through you grants reprieve from an affliction. When you use [Mercy](compendium/feats/mercy.md), you can instead attempt to counteract a [curse](rules/traits/curse.md "Curse Effect Trait"), [disease](rules/traits/disease.md "Disease Effect Trait"), or [poison](rules/traits/poison.md "Poison Effect Trait").
 
 *Source: Core Rulebook p. 113*  
 %% #trait/champion %%
@@ -195,7 +195,7 @@ The divine grace that flows through you grants reprieve from an affliction. When
 title: Amplifying Touch, Feat 14*
 collapse: closed
 # Amplifying Touch  *Feat 14*  
-[champion](rules/traits/champion.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  
 
 > [!pf2-note] This version of [Amplifying Touch](compendium/feats/amplifying-touch-apg.md) is intended for use with the Blessed One Archetype. Its level has been changed accordingly.
 
@@ -211,7 +211,7 @@ Your healing energies empower attacks. An ally that recovers Hit Points from you
 title: Rejuvenating Touch, Feat 20*
 collapse: closed
 # Rejuvenating Touch  *Feat 20*  
-[champion](rules/traits/champion.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  
 
 > [!pf2-note] This version of [Rejuvenating Touch](compendium/feats/rejuvenating-touch-apg.md) is intended for use with the Blessed One Archetype. Its level has been changed accordingly.
 

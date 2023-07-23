@@ -7,7 +7,7 @@ tags:
 aliases: ["Deity's Protection"]
 ---
 # Deity's Protection  *Feat 14*  
-[cleric](rules/traits/cleric.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  
 
 - **Prerequisites**: [Advanced Domain](compendium/feats/advanced-domain.md)
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Venom Spit"]
 ---
 # Venom Spit  *Feat 5*  
-[nagaji](rules/traits/nagaji-loil.md)  
+[nagaji](rules/traits/nagaji-loil.md "Nagaji Ancestry & Heritage Trait")  
 
 
 You've learned the art of lobbing toxic spittle at vulnerable spots on your foes, especially the eyes. You gain a venomous spit ranged unarmed attack with a range increment of 10 feet that deals `1d4` poison damage. On a critical hit, the target takes [persistent poison damage](rules/conditions.md#Persistent%20Damage) equal to the number of weapon damage dice. Your spit doesn't have a weapon group, nor a critical specialization effect.

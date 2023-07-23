@@ -8,7 +8,7 @@ tags:
 aliases: ["Martyr"]
 ---
 # Martyr  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
-[cleric](rules/traits/cleric.md)  [metamagic](rules/traits/metamagic.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 - **Prerequisites**: divine font
 - **Activity** Single Action

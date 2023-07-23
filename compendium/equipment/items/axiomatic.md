@@ -10,7 +10,7 @@ tags:
 aliases: ["Axiomatic"]
 ---
 # Axiomatic *Item 11*  
-[evocation](rules/traits/evocation.md)  [lawful](rules/traits/lawful.md)  [magical](rules/traits/magical.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [lawful](rules/traits/lawful.md "Lawful Alignment Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 1400 gp
 - **Usage** etched onto a weapon without an anarchic rune

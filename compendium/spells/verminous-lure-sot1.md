@@ -10,9 +10,9 @@ tags:
 aliases: ["Verminous Lure"]
 ---
 # Verminous Lure *Spell 1*   
-[olfactory](rules/traits/olfactory-b1.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+[olfactory](rules/traits/olfactory-b1.md "Olfactory Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md)
+- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot
 - **Targets**1 creature or object

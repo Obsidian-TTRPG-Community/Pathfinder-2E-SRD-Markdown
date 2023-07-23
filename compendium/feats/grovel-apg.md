@@ -11,7 +11,7 @@ tags:
 aliases: ["Grovel"]
 ---
 # Grovel  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 5*  
-[auditory](rules/traits/auditory.md)  [concentrate](rules/traits/concentrate.md)  [emotion](rules/traits/emotion.md)  [kobold](rules/traits/kobold-b1.md)  [mental](rules/traits/mental.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [kobold](rules/traits/kobold-b1.md "Kobold Ancestry & Heritage Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 - **Prerequisites**: trained in [Deception](compendium/skills.md#Deception)
 - **Activity** Single Action

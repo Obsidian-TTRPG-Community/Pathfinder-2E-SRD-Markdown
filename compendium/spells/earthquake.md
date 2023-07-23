@@ -10,9 +10,9 @@ tags:
 aliases: ["Earthquake"]
 ---
 # Earthquake *Spell 8*   
-[earth](rules/traits/earth.md)  [evocation](rules/traits/evocation.md)  
+[earth](rules/traits/earth.md "Earth Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**500 foot
 - **Area**60-foot burst

@@ -7,7 +7,7 @@ tags:
 aliases: ["Ubiquitous Snares"]
 ---
 # Ubiquitous Snares  *Feat 16*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: [Snare Specialist](compendium/feats/snare-specialist.md)
 

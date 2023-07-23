@@ -12,7 +12,7 @@ aliases: ["Unending Thirst"]
 ---
 # Unending Thirst
 *Curse 15*  
-[curse](rules/traits/curse.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+[curse](rules/traits/curse.md "Curse Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 This curse kills through dehydration in the same vein as the curse of the ravenous, but with deadly speed.
 

@@ -10,7 +10,7 @@ tags:
 aliases: ["Rusting Ammunition"]
 ---
 # Rusting Ammunition *Item 13+*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [force](rules/traits/force.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  
 
 - **Ammunition** any
 - **Activate** [Interact](rules/actions/interact.md)

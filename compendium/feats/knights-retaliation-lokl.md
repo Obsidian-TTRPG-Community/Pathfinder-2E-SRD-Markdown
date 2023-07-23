@@ -9,7 +9,7 @@ tags:
 aliases: ["Knight's Retaliation"]
 ---
 # Knight's Retaliation  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
-[fighter](rules/traits/fighter.md)  [swashbuckler](rules/traits/swashbuckler-apg.md)  [uncommon](rules/traits/uncommon.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  [swashbuckler](rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: Knights of Lastwall have access to this feat.
 - **Prerequisites**: trained in [Athletics](compendium/skills.md#Athletics)

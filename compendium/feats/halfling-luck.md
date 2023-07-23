@@ -8,7 +8,7 @@ tags:
 aliases: ["Halfling Luck"]
 ---
 # Halfling Luck  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 1*  
-[fortune](rules/traits/fortune.md)  [halfling](rules/traits/halfling.md)  
+[fortune](rules/traits/fortune.md "Fortune Effect Trait")  [halfling](rules/traits/halfling.md "Halfling Ancestry & Heritage Trait")  
 
 - **Frequency**: once per day
 - **Trigger** You fail a skill check or saving throw.

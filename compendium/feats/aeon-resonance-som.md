@@ -7,7 +7,7 @@ tags:
 aliases: ["Aeon Resonance"]
 ---
 # Aeon Resonance  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Embed Aeon Stone](compendium/feats/embed-aeon-stone-som.md)
 

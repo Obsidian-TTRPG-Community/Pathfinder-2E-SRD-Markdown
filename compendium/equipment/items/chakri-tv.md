@@ -10,7 +10,7 @@ tags:
 aliases: ["Chakri"]
 ---
 # Chakri *Item 0*  
-[recovery](rules/traits/recovery-tv.md)  [thrown](rules/traits/thrown.md)  [uncommon](rules/traits/uncommon.md)  
+[recovery](rules/traits/recovery-tv.md "Recovery Weapon Trait")  [thrown](rules/traits/thrown.md "Thrown Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 2 sp
 - **Bulk** L

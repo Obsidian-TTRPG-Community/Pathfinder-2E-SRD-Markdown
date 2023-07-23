@@ -7,7 +7,7 @@ tags:
 aliases: ["Grippli Lore"]
 ---
 # Grippli Lore  *Feat 1*  
-[grippli](rules/traits/grippli-b2.md)  
+[grippli](rules/traits/grippli-b2.md "Grippli Ancestry & Heritage Trait")  
 
 
 You are well versed in grippli culture and tactics. You gain the trained proficiency in [Nature](compendium/skills.md#Nature) and [Stealth](compendium/skills.md#Stealth). If you would automatically become trained in one of those skills, you instead become trained in a skill of your choice. You also become trained in [Grippli Lore](compendium/skills.md#Lore).

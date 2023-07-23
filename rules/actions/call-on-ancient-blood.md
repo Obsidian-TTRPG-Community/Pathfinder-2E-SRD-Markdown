@@ -10,7 +10,7 @@ aliases: ["Call on Ancient Blood"]
 *Source: Core Rulebook p. 35*  
 
 **Ancestry** Dwarf; **Heritage** Dwarf||Ancient-Blooded|Ancient-Blooded||
-- **Trigger** You attempt a saving throw against a [magical](rules/traits/magical.md) effect, but you haven't rolled yet.
+- **Trigger** You attempt a saving throw against a [magical](rules/traits/magical.md "Magical Item Trait") effect, but you haven't rolled yet.
 - **Activity**: Reaction
 
 Your ancestors' innate resistance to magic surges, before slowly ebbing down. You gain a +1 circumstance bonus until the end of this turn. This bonus also applies to the triggering save.

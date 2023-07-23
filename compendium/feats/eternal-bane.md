@@ -7,7 +7,7 @@ tags:
 aliases: ["Eternal Bane"]
 ---
 # Eternal Bane  *Feat 16*  
-[cleric](rules/traits/cleric.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  
 
 - **Prerequisites**: evil alignment
 

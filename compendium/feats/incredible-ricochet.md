@@ -9,7 +9,7 @@ tags:
 aliases: ["Incredible Ricochet"]
 ---
 # Incredible Ricochet  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 12*  
-[concentrate](rules/traits/concentrate.md)  [fighter](rules/traits/fighter.md)  [press](rules/traits/press.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [fighter](rules/traits/fighter.md "Fighter Class Trait")  [press](rules/traits/press.md "Press Combat Trait")  
 
 - **Prerequisites**: [Incredible Aim](compendium/feats/incredible-aim.md)
 - **Activity** Single Action

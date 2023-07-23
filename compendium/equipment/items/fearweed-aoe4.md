@@ -12,7 +12,7 @@ tags:
 aliases: ["Fearweed"]
 ---
 # Fearweed *Item 10*  
-[consumable](rules/traits/consumable.md)  [contact](rules/traits/contact.md)  [divine](rules/traits/divine.md)  [poison](rules/traits/poison.md)  [uncommon](rules/traits/uncommon.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [contact](rules/traits/contact.md "Contact Item Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 160 gp
 - **Usage** held in 2 hands; **Bulk** L

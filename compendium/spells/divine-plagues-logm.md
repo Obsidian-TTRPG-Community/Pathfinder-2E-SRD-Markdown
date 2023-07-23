@@ -9,7 +9,7 @@ tags:
 aliases: ["Divine Plagues"]
 ---
 # Divine Plagues *Focus 1*   
-[disease](rules/traits/disease.md)  [necromancy](rules/traits/necromancy.md)  
+[disease](rules/traits/disease.md "Disease Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 - **Domains**: [plague](compendium/setting/domains.md#Plague)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
@@ -26,7 +26,7 @@ Your deity sends wracking plagues. The target must attempt a Fortitude save. Whe
 ```ad-inline-affliction
 title: Divine Plague _Level 1_
 
-[disease](rules/traits/disease.md)  
+[disease](rules/traits/disease.md "Disease Effect Trait")  
 
 ## Stages
 
@@ -37,10 +37,10 @@ title: Divine Plague _Level 1_
 **Stage 3** [clumsy](rules/conditions.md#Clumsy), [enfeebled](rules/conditions.md#Enfeebled), or [stupefied](rules/conditions.md#Stupefied) and the target can't recover from the condition until they are cured} (1 day)
 
 
-%% #trait/disease #affliction/level/level-1 %%
+%% #affliction/level/level-1 #trait/disease %%
 ```
 
-**Heightened (5th)** The divine plague disease gains the [virulent](rules/traits/virulent.md) trait. The condition value for the [clumsy](rules/conditions.md#Clumsy), [enfeebled](rules/conditions.md#Enfeebled), or [stupefied](rules/conditions.md#Stupefied) condition is 2 instead of 1.
+**Heightened (5th)** The divine plague disease gains the [virulent](rules/traits/virulent.md "Virulent Item Trait") trait. The condition value for the [clumsy](rules/conditions.md#Clumsy), [enfeebled](rules/conditions.md#Enfeebled), or [stupefied](rules/conditions.md#Stupefied) condition is 2 instead of 1.
 
 ## Summary
 

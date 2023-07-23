@@ -11,7 +11,7 @@ tags:
 aliases: ["Five-feather Wreath"]
 ---
 # Five-feather Wreath *Item 4+*  
-[air](rules/traits/air.md)  [magical](rules/traits/magical.md)  [spellheart](rules/traits/spellheart-som.md)  [transmutation](rules/traits/transmutation.md)  
+[air](rules/traits/air.md "Air Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [spellheart](rules/traits/spellheart-som.md "Spellheart Equipment Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Usage** affixed to armor or a weapon
 - **Category** Spellheart

@@ -8,7 +8,7 @@ tags:
 aliases: ["Sling"]
 ---
 # Sling *Item 0*  
-[propulsive](rules/traits/propulsive.md)  
+[propulsive](rules/traits/propulsive.md "Propulsive Weapon Trait")  
 
 - **Price** 0 gp
 - **Bulk** L

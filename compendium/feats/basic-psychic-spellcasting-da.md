@@ -7,7 +7,7 @@ tags:
 aliases: ["Basic Psychic Spellcasting"]
 ---
 # Basic Psychic Spellcasting  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Psychic Dedication](compendium/feats/psychic-dedication-da.md)
 

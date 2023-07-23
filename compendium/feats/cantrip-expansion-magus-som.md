@@ -7,7 +7,7 @@ tags:
 aliases: ["Cantrip Expansion (Magus)"]
 ---
 # Cantrip Expansion (Magus)  *Feat 2*  
-[magus](rules/traits/magus-som.md)  
+[magus](rules/traits/magus-som.md "Magus Class Trait")  
 
 
 Dedicated study allows you to prepare a wider range of simple spells. You can prepare two additional cantrips each day.

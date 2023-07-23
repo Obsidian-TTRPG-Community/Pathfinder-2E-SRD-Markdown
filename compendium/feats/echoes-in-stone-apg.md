@@ -8,7 +8,7 @@ tags:
 aliases: ["Echoes In Stone"]
 ---
 # Echoes In Stone  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 9*  
-[concentrate](rules/traits/concentrate.md)  [dwarf](rules/traits/dwarf.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [dwarf](rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  
 
 - **Requirements**: You are standing on a stone or earthen surface.
 - **Activity** Single Action

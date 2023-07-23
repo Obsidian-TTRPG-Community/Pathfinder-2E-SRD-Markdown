@@ -10,7 +10,7 @@ tags:
 aliases: ["Demon Mask"]
 ---
 # Demon Mask *Item 4+*  
-[enchantment](rules/traits/enchantment.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Usage** worn mask; **Bulk** L
 - **Category** Worn

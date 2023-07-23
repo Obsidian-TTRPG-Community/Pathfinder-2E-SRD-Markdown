@@ -7,7 +7,7 @@ tags:
 aliases: ["Defensive Instincts"]
 ---
 # Defensive Instincts  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 9*  
-[goloma](rules/traits/goloma-lome.md)  
+[goloma](rules/traits/goloma-lome.md "Goloma Ancestry & Heritage Trait")  
 
 - **Requirements**: you are adjacent to at least two enemies
 - **Activity** Single Action

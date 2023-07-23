@@ -8,7 +8,7 @@ tags:
 aliases: ["Diviner on Duty"]
 ---
 # Diviner on Duty
-[exploration](rules/traits/exploration.md)  
+[exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  
 *Source: Age of Ashes #5: Against the Scarlet Triad p. 28*  
 
 - **Trigger** A PC uses magic to aid in overcoming an Obstacle during infiltration.

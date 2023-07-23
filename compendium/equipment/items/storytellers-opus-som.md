@@ -10,7 +10,7 @@ tags:
 aliases: ["Storyteller's Opus"]
 ---
 # Storyteller's Opus *Item 6*  
-[grimoire](rules/traits/grimoire-som.md)  [illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  
+[grimoire](rules/traits/grimoire-som.md "Grimoire Item Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 230 gp
 - **Bulk** L

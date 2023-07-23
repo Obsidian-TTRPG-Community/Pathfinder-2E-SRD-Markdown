@@ -9,7 +9,7 @@ tags:
 aliases: ["Magical Hearing Aids"]
 ---
 # Magical Hearing Aids *Item 1*  
-[divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 5 gp
 - **Usage** worn

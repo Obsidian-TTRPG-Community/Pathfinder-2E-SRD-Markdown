@@ -13,13 +13,13 @@ tags:
 - trait/reach-20-feet
 aliases: ["Tsukiyo", "Prince of the Moon"]
 ---
-# Tsukiyo (Prince of the Moon) *([LG](rules/traits/lawful-goo-b1.md))*  
+# Tsukiyo (Prince of the Moon) *([LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 71*  
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: harm another out of envy, force aid on those who do not want it, inflict harmful mental effects on others as punishment
 - **Areas of Concern**: jade, , the moon, , spirits
-- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [LN](rules/traits/lawful-neutral-b1.md), [NG](rules/traits/neutral-good-b1.md), [N](rules/traits/neutral-b1.md), [CG](rules/traits/chaotic-good-b1.md)
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")
 
 ## Devotee benefits
 
@@ -37,8 +37,8 @@ When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Ts
 title: [Avatar](compendium/spells/avatar.md) of Tsukiyo
 
 - **Speed**: Speed 70 feet, [air walk](compendium/spells/air-walk.md), ignore difficult terrain and greater difficult terrain
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") longspear ([reach <20 feet>](rules/traits/reach.md)), **Damage** `6d10+6` piercing
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") moonbeam ([nonlethal](rules/traits/nonlethal.md), silver), **Damage** `6d6+3` mental
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") longspear ([reach <20 feet>](rules/traits/reach-20-feet.md "Reach Weapon Trait")), **Damage** `6d10+6` piercing
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") moonbeam ([nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait"), silver), **Damage** `6d6+3` mental
 ```
 
 ## Divine intercession
@@ -46,8 +46,8 @@ title: [Avatar](compendium/spells/avatar.md) of Tsukiyo
 
 Ever mercurial, the Prince of the Moon gives his blessings rarely and somewhat spontaneously. An understanding soul, he is as slow to curse as he is to bless.
 
-- **Minor Boon** Tsukiyo's simplest show of gratitude is a gift of clarity. Once, when you roll a failure on a saving throw against a [mental](rules/traits/mental.md) effect, you get a critical success instead. Tsukiyo typically grants this boon against a particularly consequential [mental](rules/traits/mental.md) effect.
-- **Moderate Boon**: Tsukiyo watches over you and guards your sleep. You are guaranteed a peaceful night's rest no matter what conditions you are sleeping in. Even [nightmare](compendium/spells/nightmare.md) and similar abilities can't disrupt your sleep unless they come from a deity, [artifact](rules/traits/artifact-gmg.md), or similarly powerful source.
+- **Minor Boon** Tsukiyo's simplest show of gratitude is a gift of clarity. Once, when you roll a failure on a saving throw against a [mental](rules/traits/mental.md "Mental Effect Trait") effect, you get a critical success instead. Tsukiyo typically grants this boon against a particularly consequential [mental](rules/traits/mental.md "Mental Effect Trait") effect.
+- **Moderate Boon**: Tsukiyo watches over you and guards your sleep. You are guaranteed a peaceful night's rest no matter what conditions you are sleeping in. Even [nightmare](compendium/spells/nightmare.md) and similar abilities can't disrupt your sleep unless they come from a deity, [artifact](rules/traits/artifact-gmg.md "Artifact Item Trait"), or similarly powerful source.
 - **Major Boon**: Tsukiyo shares some of his own nature and can lead a favored soul back along the same path he has walked. The next time you would die, you are instead instantly restored to full health and lose any negative conditions you have.
 
 - **Minor Curse**: Those who offend Tsukiyo find that light actively shuns them. You lose any [low-light vision](rules/abilities/low-light-vision.md) or [darkvision](rules/abilities/darkvision.md) you have, and you treat all light levels as one step lower.

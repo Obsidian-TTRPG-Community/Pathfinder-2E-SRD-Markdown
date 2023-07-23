@@ -10,7 +10,7 @@ tags:
 aliases: ["Legerdemain Handkerchief"]
 ---
 # Legerdemain Handkerchief *Item 2*  
-[conjuration](rules/traits/conjuration.md)  [extradimensional](rules/traits/extradimensional.md)  [magical](rules/traits/magical.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [extradimensional](rules/traits/extradimensional.md "Extradimensional Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 25 gp
 - **Usage** held in 1 hand; **Bulk** —

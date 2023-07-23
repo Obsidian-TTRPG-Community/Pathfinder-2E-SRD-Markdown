@@ -9,7 +9,7 @@ tags:
 aliases: ["Light Hammer"]
 ---
 # Light Hammer *Item 0*  
-[agile](rules/traits/agile.md)  [thrown <20 ft.>](rules/traits/thrown.md)  
+[agile](rules/traits/agile.md "Agile Weapon Trait")  [thrown <20 ft.>](rules/traits/thrown-20-ft.md "Thrown Weapon Trait")  
 
 - **Price** 3 sp
 - **Bulk** L

@@ -12,7 +12,7 @@ tags:
 aliases: ["Tempest Surge"]
 ---
 # Tempest Surge *Focus 1*   
-[air](rules/traits/air.md)  [druid](rules/traits/druid.md)  [electricity](rules/traits/electricity.md)  [evocation](rules/traits/evocation.md)  [uncommon](rules/traits/uncommon.md)  
+[air](rules/traits/air.md "Air Energy & Element Trait")  [druid](rules/traits/druid.md "Druid Class Trait")  [electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot

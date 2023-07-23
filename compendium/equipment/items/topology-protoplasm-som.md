@@ -11,7 +11,7 @@ tags:
 aliases: ["Topology Protoplasm"]
 ---
 # Topology Protoplasm *Item 7*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [oil](rules/traits/oil.md)  [transmutation](rules/traits/transmutation.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [oil](rules/traits/oil.md "Oil Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 70 gp
 - **Usage** held in 1 hand; **Bulk** L

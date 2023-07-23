@@ -10,12 +10,12 @@ tags:
 - domain/water/deity
 aliases: ["Lysianassa", "Empress of the Torrent"]
 ---
-# Lysianassa (Empress of the Torrent) *([NG](rules/traits/neutral-good-b1.md))*  
+# Lysianassa (Empress of the Torrent) *([NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 126*  
 
 - **Category**: Elemental Lords
 - **Anathema**: pollute clean bodies of water, dam a river, disrespect sincere gifts of water or drink
-- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [NG](rules/traits/neutral-good-b1.md), [N](rules/traits/neutral-b1.md), [CG](rules/traits/chaotic-good-b1.md)
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")
 
 ## Devotee benefits
 

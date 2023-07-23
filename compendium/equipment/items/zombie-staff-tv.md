@@ -10,7 +10,7 @@ tags:
 aliases: ["Zombie Staff"]
 ---
 # Zombie Staff *Item 7+*  
-[magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [staff](rules/traits/staff.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Staff

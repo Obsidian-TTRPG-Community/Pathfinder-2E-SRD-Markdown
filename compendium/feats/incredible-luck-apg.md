@@ -8,7 +8,7 @@ tags:
 aliases: ["Incredible Luck"]
 ---
 # Incredible Luck  *Feat 18*  
-[fortune](rules/traits/fortune.md)  [swashbuckler](rules/traits/swashbuckler-apg.md)  
+[fortune](rules/traits/fortune.md "Fortune Effect Trait")  [swashbuckler](rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  
 
 - **Prerequisites**: [Charmed Life](compendium/feats/charmed-life-apg.md)
 

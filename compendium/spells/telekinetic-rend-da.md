@@ -12,7 +12,7 @@ tags:
 aliases: ["Telekinetic Rend"]
 ---
 # Telekinetic Rend *Cantrip 1*   
-[cantrip](rules/traits/cantrip.md)  [evocation](rules/traits/evocation.md)  [psychic](rules/traits/psychic-da.md)  [uncommon](rules/traits/uncommon.md)  
+[cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**60 foot

@@ -11,7 +11,7 @@ tags:
 aliases: ["Hellfire Boots"]
 ---
 # Hellfire Boots *Item 13*  
-[evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 3000 gp
 - **Usage** worn; **Bulk** 1

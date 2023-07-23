@@ -8,7 +8,7 @@ tags:
 aliases: ["Wellspring Control"]
 ---
 # Wellspring Control  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [fortune](rules/traits/fortune.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  
 
 - **Prerequisites**: [Wellspring Mage Dedication](compendium/feats/wellspring-mage-dedication-som.md)
 

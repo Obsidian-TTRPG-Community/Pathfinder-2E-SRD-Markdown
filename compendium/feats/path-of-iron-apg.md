@@ -8,7 +8,7 @@ tags:
 aliases: ["Path Of Iron"]
 ---
 # Path Of Iron  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 14*  
-[archetype](rules/traits/archetype.md)  [flourish](rules/traits/flourish.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 - **Prerequisites**: [Martial Artist Dedication](compendium/feats/martial-artist-dedication-apg.md)
 - **Frequency**: once per minute

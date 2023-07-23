@@ -14,7 +14,7 @@ aliases: ["Rage of The Excommunicant"]
 ---
 # Rage of The Excommunicant
 *Curse 10*  
-[curse](rules/traits/curse.md)  [enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  [rare](rules/traits/rare.md)  
+[curse](rules/traits/curse.md "Curse Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 Placed upon heretics or those who broke faith, this curse causes symbols of your former faith to burn you upon sight.
 

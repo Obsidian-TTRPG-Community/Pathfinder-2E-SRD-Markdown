@@ -10,7 +10,7 @@ tags:
 aliases: ["Spirit Veil"]
 ---
 # Spirit Veil *Focus 3*   
-[illusion](rules/traits/illusion.md)  [sorcerer](rules/traits/sorcerer.md)  [uncommon](rules/traits/uncommon.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bloodline** Sorcerer
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

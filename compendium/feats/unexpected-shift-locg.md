@@ -7,7 +7,7 @@ tags:
 aliases: ["Unexpected Shift"]
 ---
 # Unexpected Shift  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
-[gnome](rules/traits/gnome.md)  
+[gnome](rules/traits/gnome.md "Gnome Ancestry & Heritage Trait")  
 
 - **Trigger** You would take damage from an attack, spell, or other effect.
 - **Activity** Reaction

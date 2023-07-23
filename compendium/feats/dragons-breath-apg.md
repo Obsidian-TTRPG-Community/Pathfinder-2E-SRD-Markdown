@@ -7,7 +7,7 @@ tags:
 aliases: ["Dragon's Breath"]
 ---
 # Dragon's Breath  *Feat 9*  
-[kobold](rules/traits/kobold-b1.md)  
+[kobold](rules/traits/kobold-b1.md "Kobold Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Kobold Breath](compendium/feats/kobold-breath-apg.md)
 

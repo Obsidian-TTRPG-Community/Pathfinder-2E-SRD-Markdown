@@ -12,7 +12,7 @@ tags:
 aliases: ["Mask Of The Banshee"]
 ---
 # Mask Of The Banshee *Item 9+*  
-[auditory](rules/traits/auditory.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [negative](rules/traits/negative.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  
 
 - **Usage** worn mask
 - **Category** Worn

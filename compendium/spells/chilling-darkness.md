@@ -12,9 +12,9 @@ tags:
 aliases: ["Chilling Darkness"]
 ---
 # Chilling Darkness *Spell 3*   
-[attack](rules/traits/attack.md)  [cold](rules/traits/cold.md)  [darkness](rules/traits/darkness.md)  [evil](rules/traits/evil.md)  [evocation](rules/traits/evocation.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  [cold](rules/traits/cold.md "Cold Energy & Element Trait")  [darkness](rules/traits/darkness.md "Darkness Effect Trait")  [evil](rules/traits/evil.md "Evil Alignment Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**120 foot
 - **Targets**1 creature

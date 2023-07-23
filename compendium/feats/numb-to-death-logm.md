@@ -7,7 +7,7 @@ tags:
 aliases: ["Numb To Death"]
 ---
 # Numb To Death  *Feat 7*  
-[general](rules/traits/general.md)  
+[general](rules/traits/general.md "General Feat Trait")  
 
 - **Prerequisites**: [Diehard](compendium/feats/diehard.md), you have died at least once
 - **Frequency**: once per day

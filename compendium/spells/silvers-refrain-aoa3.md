@@ -13,7 +13,7 @@ tags:
 aliases: ["Silver's Refrain"]
 ---
 # Silver's Refrain *Cantrip 1*   
-[abjuration](rules/traits/abjuration.md)  [bard](rules/traits/bard.md)  [cantrip](rules/traits/cantrip.md)  [composition](rules/traits/composition.md)  [rare](rules/traits/rare.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [bard](rules/traits/bard.md "Bard Class Trait")  [cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [composition](rules/traits/composition.md "Composition Spell Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Area**60-foot emanation

@@ -8,9 +8,9 @@ tags:
 aliases: ["Countless Eyes"]
 ---
 # Countless Eyes *Spell 4*   
-[divination](rules/traits/divination.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**touch
 - **Targets**1 creature

@@ -15,7 +15,7 @@ The provocator is a gladiator who mixes brilliant performance with mastery of we
 title: Provocator Dedication, Feat 10
 collapse: closed
 # Provocator Dedication  *Feat 10*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: Successfully defeat the ebaraks in the Irorium.
 - **Prerequisites**: Strength 14, Charisma 14
@@ -25,14 +25,14 @@ For you, fighting is as much about style as skill. You become trained in simple 
 **Special.** You can't select another dedication feat until you have gained two other feats from the provocator archetype.
 
 *Source: Agents of Edgewatch #3: All or Nothing p. 78*  
-%% #trait/uncommon #trait/archetype #trait/dedication %%
+%% #trait/archetype #trait/dedication #trait/uncommon %%
 ```  
 
 ```ad-embed-feat
 title: Cartwheel Dodge, Feat 12*
 collapse: closed
 # Cartwheel Dodge  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Cartwheel Dodge](compendium/feats/cartwheel-dodge-aoe3.md) is intended for use with the Provocator Archetype. Its level has been changed accordingly.
 
@@ -51,7 +51,7 @@ You [Step](rules/actions/step.md) up to 10 feet.
 title: Flourishing Finish, Feat 12*
 collapse: closed
 # Flourishing Finish  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 12*  
-[archetype](rules/traits/archetype.md)  [concentrate](rules/traits/concentrate.md)  [emotion](rules/traits/emotion.md)  [mental](rules/traits/mental.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 > [!pf2-note] This version of [Flourishing Finish](compendium/feats/flourishing-finish-aoe3.md) is intended for use with the Provocator Archetype. Its level has been changed accordingly.
 
@@ -75,7 +75,7 @@ Regardless of the result, each target is immune to your Flourishing Finish for 1
 title: Murderer's Circle, Feat 14*
 collapse: closed
 # Murderer's Circle  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Murderer's Circle](compendium/feats/murderers-circle-aoe3.md) is intended for use with the Provocator Archetype. Its level has been changed accordingly.
 
@@ -92,7 +92,7 @@ You [Strike](rules/actions/strike.md) a target within reach and then [Step](rule
 title: Pin To The Spot, Feat 14*
 collapse: closed
 # Pin To The Spot  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Pin To The Spot](compendium/feats/pin-to-the-spot-aoe3.md) is intended for use with the Provocator Archetype. Its level has been changed accordingly.
 
@@ -109,7 +109,7 @@ You [Strike](rules/actions/strike.md) a target within reach. If you hit and deal
 title: Performance Weapon Expert, Feat 16*
 collapse: closed
 # Performance Weapon Expert  *Feat 16*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Performance Weapon Expert](compendium/feats/performance-weapon-expert-aoe3.md) is intended for use with the Provocator Archetype. Its level has been changed accordingly.
 

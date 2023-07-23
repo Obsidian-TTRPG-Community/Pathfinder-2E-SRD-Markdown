@@ -12,7 +12,7 @@ tags:
 aliases: ["Golden Blade of Mzali"]
 ---
 # Golden Blade of Mzali *Item 15*  
-[evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  [light](rules/traits/light.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [light](rules/traits/light.md "Light Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 6500 gp
 - **Usage** held in 1 hand; **Bulk** 1
@@ -22,7 +22,7 @@ Each of these golden spears was forged in the days of old Mzali, when the sun ki
 
 [Walkena](compendium/setting/deities/walkena-logm.md) retains a single golden blade, which he grants to his Master of Spears.
 
-This +2 greater striking returning spear is coated in brilliant gold, and beautiful engravings run along the shaft, depicting the rising and setting of the sun against Mzali's skyline. The spear glows with the effects of 4th-level [light](compendium/spells/light.md). You can suppress or resume this light by using an action, which has the [concentrate](rules/traits/concentrate.md) trait. When you hit a creature with the spear, it takes `1d6` additional fire damage. When you critically hit a creature with the spear, the creature takes `1d8` [persistent fire damage](rules/conditions.md#Persistent%20Damage) and `1d8` [persistent bleed damage](rules/conditions.md#Persistent%20Damage) as its blood boils away. Unlike normal when taking two types of [persistent damage](rules/conditions.md#Persistent%20Damage), a creature needs only a single successful flat check to remove both the fire and bleed damage.
+This +2 greater striking returning spear is coated in brilliant gold, and beautiful engravings run along the shaft, depicting the rising and setting of the sun against Mzali's skyline. The spear glows with the effects of 4th-level [light](compendium/spells/light.md). You can suppress or resume this light by using an action, which has the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") trait. When you hit a creature with the spear, it takes `1d6` additional fire damage. When you critically hit a creature with the spear, the creature takes `1d8` [persistent fire damage](rules/conditions.md#Persistent%20Damage) and `1d8` [persistent bleed damage](rules/conditions.md#Persistent%20Damage) as its blood boils away. Unlike normal when taking two types of [persistent damage](rules/conditions.md#Persistent%20Damage), a creature needs only a single successful flat check to remove both the fire and bleed damage.
 
 ```ad-embed-ability
 title: Activate [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")

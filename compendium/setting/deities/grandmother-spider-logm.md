@@ -16,13 +16,13 @@ tags:
 - trait/versatile-p
 aliases: ["Grandmother Spider", "The Weaver", "Nana Anadi"]
 ---
-# Grandmother Spider (The Weaver, Nana Anadi) *([N](rules/traits/neutral-b1.md))*  
+# Grandmother Spider (The Weaver, Nana Anadi) *([N](rules/traits/n-b1.md "Neutral Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 60*  
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: abuse someone you have power over; harm someone who has given you sincere kindness; let a slight go unanswered, own a slave
 - **Areas of Concern**: family, , illusion, , stories, , twilight, , weaving
-- **Follower Alignments**: [NG](rules/traits/neutral-good-b1.md), [N](rules/traits/neutral-b1.md), [CG](rules/traits/chaotic-good-b1.md), [CN](rules/traits/chaotic-neutral-b1.md)
+- **Follower Alignments**: [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")
 
 ## Devotee benefits
 
@@ -40,7 +40,7 @@ When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Gr
 title: [Avatar](compendium/spells/avatar.md) of Grandmother Spider
 
 - **Speed**: Speed 70 feet, climb 70 feet, immune to [immobilized](rules/conditions.md#Immobilized)
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") leg ([deadly <3d8>](rules/traits/deadly.md), [finesse](rules/traits/finesse.md), [reach <15 feet>](rules/traits/reach.md), [versatile <p>](rules/traits/versatile.md)), **Damage** `6d6+6` bludgeoning
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") leg ([deadly <3d8>](rules/traits/deadly-3d8.md "Deadly Weapon Trait"), [finesse](rules/traits/finesse.md "Finesse Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [versatile <p>](rules/traits/versatile-p.md "Versatile Weapon Trait")), **Damage** `6d6+6` bludgeoning
 - **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") venom web **Damage** `6d6+3` poison
 ```
 

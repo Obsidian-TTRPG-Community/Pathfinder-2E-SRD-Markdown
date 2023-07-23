@@ -10,12 +10,12 @@ tags:
 - domain/void/deity
 aliases: ["Azathoth", "The Primal Chaos"]
 ---
-# Azathoth (The Primal Chaos) *([CN](rules/traits/chaotic-neutral-b1.md))*  
+# Azathoth (The Primal Chaos) *([CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 130*  
 
 - **Category**: Outer Gods
 - **Anathema**: none
-- **Follower Alignments**: [CN](rules/traits/chaotic-neutral-b1.md), [CE](rules/traits/chaotic-evil-b1.md)
+- **Follower Alignments**: [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
 

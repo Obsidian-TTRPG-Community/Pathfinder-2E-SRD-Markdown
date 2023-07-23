@@ -9,7 +9,7 @@ tags:
 aliases: ["Authorized"]
 ---
 # Authorized *Item 3*  
-[abjuration](rules/traits/abjuration.md)  [magical](rules/traits/magical.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 50 gp
 - **Usage** etched onto a weapon

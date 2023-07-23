@@ -7,7 +7,7 @@ tags:
 aliases: ["Duelist's Edge"]
 ---
 # Duelist's Edge  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Aldori Duelist Dedication](compendium/feats/aldori-duelist-dedication-lowg.md)
 - **Trigger** You roll initiative, and you can observe at least one opponent.

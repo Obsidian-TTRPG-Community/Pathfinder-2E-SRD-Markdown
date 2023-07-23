@@ -9,7 +9,7 @@ tags:
 aliases: ["Hellknight Plate"]
 ---
 # Hellknight Plate *Item 2*  
-[bulwark](rules/traits/bulwark.md)  [uncommon](rules/traits/uncommon.md)  
+[bulwark](rules/traits/bulwark.md "Bulwark Armor Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** A character who is a member of the Hellknights has access to this option.
 - **Price** 35 gp

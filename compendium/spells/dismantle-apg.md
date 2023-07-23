@@ -8,9 +8,9 @@ tags:
 aliases: ["Dismantle"]
 ---
 # Dismantle *Spell 2*   
-[transmutation](rules/traits/transmutation.md)  
+[transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**touch
 - **Targets**1 non-magical object in your possession of 1 Bulk or less

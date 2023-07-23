@@ -10,7 +10,7 @@ tags:
 aliases: ["Vigilant Eye"]
 ---
 # Vigilant Eye *Item 9+*  
-[divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [spellheart](rules/traits/spellheart-som.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [spellheart](rules/traits/spellheart-som.md "Spellheart Equipment Trait")  
 
 - **Usage** affixed to armor or a weapon; **Bulk** —
 - **Category** Spellheart

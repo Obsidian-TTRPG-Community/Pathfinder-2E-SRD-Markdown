@@ -10,9 +10,9 @@ tags:
 aliases: ["Drop Dead"]
 ---
 # Drop Dead *Spell 5*   
-[illusion](rules/traits/illusion.md)  [uncommon](rules/traits/uncommon.md)  [visual](rules/traits/visual.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [divine](rules/traits/divine.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait")
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
 - **Trigger**A creature within range is hit by an attack from an enemy.
 - **Range**120 foot

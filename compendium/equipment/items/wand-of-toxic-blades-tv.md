@@ -12,7 +12,7 @@ tags:
 aliases: ["Wand of Toxic Blades"]
 ---
 # Wand of Toxic Blades *Item 15+*  
-[evocation](rules/traits/evocation.md)  [force](rules/traits/force.md)  [magical](rules/traits/magical.md)  [poison](rules/traits/poison.md)  [wand](rules/traits/wand.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Poison

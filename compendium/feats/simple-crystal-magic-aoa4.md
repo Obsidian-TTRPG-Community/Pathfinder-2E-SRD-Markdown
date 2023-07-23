@@ -7,7 +7,7 @@ tags:
 aliases: ["Simple Crystal Magic"]
 ---
 # Simple Crystal Magic  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Crystal Keeper Dedication](compendium/feats/crystal-keeper-dedication-aoa4.md)
 

@@ -10,7 +10,7 @@ tags:
 aliases: ["Habu's Cudgel"]
 ---
 # Habu's Cudgel *Item 8*  
-[magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [unique](rules/traits/unique.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Price** 415 gp
 - **Usage** held in 1 hand; **Bulk** 1

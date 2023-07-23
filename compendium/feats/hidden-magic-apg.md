@@ -8,7 +8,7 @@ tags:
 aliases: ["Hidden Magic"]
 ---
 # Hidden Magic  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: expert in [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), or [Religion](compendium/skills.md#Religion); [Vigilante Dedication](compendium/feats/vigilante-dedication-apg.md)
 

@@ -9,7 +9,7 @@ tags:
 aliases: ["Hellknight Dedication"]
 ---
 # Hellknight Dedication  *Feat 6*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Hellknight Armiger Dedication](compendium/feats/hellknight-armiger-dedication-lowg.md), lawful alignment, member of a Hellknight order, passed the Hellknight Test
 

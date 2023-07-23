@@ -7,7 +7,7 @@ tags:
 aliases: ["Unfetter Eidolon"]
 ---
 # Unfetter Eidolon  *Feat 1*  
-[summoner](rules/traits/summoner-som.md)  
+[summoner](rules/traits/summoner-som.md "Summoner Class Trait")  
 
 
 You can allow your eidolon to travel far from your side. You learn the [unfetter eidolon](compendium/spells/unfetter-eidolon-som.md) link spell. Increase the number of Focus Points in your focus pool by 1.

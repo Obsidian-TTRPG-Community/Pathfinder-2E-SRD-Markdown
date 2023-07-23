@@ -7,7 +7,7 @@ tags:
 aliases: ["Snare Specialist"]
 ---
 # Snare Specialist  *Feat 4*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: expert in [Crafting](compendium/skills.md#Crafting), [Snare Crafting](compendium/feats/snare-crafting.md)
 

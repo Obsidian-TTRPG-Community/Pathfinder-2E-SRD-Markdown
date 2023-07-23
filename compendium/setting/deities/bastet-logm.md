@@ -10,12 +10,12 @@ tags:
 - domain/trickery/deity
 aliases: ["Bastet", "The Sly Enchantress"]
 ---
-# Bastet (The Sly Enchantress) *([CN](rules/traits/chaotic-neutral-b1.md))*  
+# Bastet (The Sly Enchantress) *([CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 124*  
 
 - **Category**: Ancient Osirian Gods
 - **Anathema**: kill or abuse a house cat, abandon a child, choose to marry
-- **Follower Alignments**: [N](rules/traits/neutral-b1.md), [CG](rules/traits/chaotic-good-b1.md), [CN](rules/traits/chaotic-neutral-b1.md)
+- **Follower Alignments**: [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")
 
 ## Devotee benefits
 

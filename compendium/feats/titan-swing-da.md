@@ -10,7 +10,7 @@ tags:
 aliases: ["Titan Swing"]
 ---
 # Titan Swing  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 2*  
-[deviant](rules/traits/deviant-da.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  [transmutation](rules/traits/transmutation.md)  
+[deviant](rules/traits/deviant-da.md "Deviant Action & Ability Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Activity** Two-Action
 

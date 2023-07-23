@@ -12,7 +12,7 @@ tags:
 aliases: ["Whip"]
 ---
 # Whip *Item 0*  
-[disarm](rules/traits/disarm.md)  [finesse](rules/traits/finesse.md)  [nonlethal](rules/traits/nonlethal.md)  [reach](rules/traits/reach.md)  [trip](rules/traits/trip.md)  
+[disarm](rules/traits/disarm.md "Disarm Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait")  [reach](rules/traits/reach.md "Reach Weapon Trait")  [trip](rules/traits/trip.md "Trip Weapon Trait")  
 
 - **Price** 1 sp
 - **Bulk** 1

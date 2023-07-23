@@ -12,7 +12,7 @@ tags:
 aliases: ["Jahan Waystone"]
 ---
 # Jahan Waystone *Item 21*  
-[artifact](rules/traits/artifact-gmg.md)  [conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  [teleportation](rules/traits/teleportation.md)  
+[artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  
 
 - **Usage** Worn
 - **Category** Artifact

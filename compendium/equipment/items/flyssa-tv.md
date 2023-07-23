@@ -10,7 +10,7 @@ tags:
 aliases: ["Flyssa"]
 ---
 # Flyssa *Item 0*  
-[agile](rules/traits/agile.md)  [finesse](rules/traits/finesse.md)  [versatile <P>](rules/traits/versatile.md)  
+[agile](rules/traits/agile.md "Agile Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [versatile <P>](rules/traits/versatile-p.md "Versatile Weapon Trait")  
 
 - **Price** 1 gp
 - **Bulk** L

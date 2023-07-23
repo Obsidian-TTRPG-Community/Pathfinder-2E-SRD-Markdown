@@ -13,7 +13,7 @@ tags:
 aliases: ["Tempest Touch"]
 ---
 # Tempest Touch *Focus 1*   
-[cold](rules/traits/cold.md)  [cursebound](rules/traits/cursebound-apg.md)  [evocation](rules/traits/evocation.md)  [oracle](rules/traits/oracle-apg.md)  [uncommon](rules/traits/uncommon.md)  [water](rules/traits/water.md)  
+[cold](rules/traits/cold.md "Cold Energy & Element Trait")  [cursebound](rules/traits/cursebound-apg.md "Cursebound Spell Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
 - **Mystery** Oracle
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 

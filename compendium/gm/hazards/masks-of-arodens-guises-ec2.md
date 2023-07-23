@@ -10,7 +10,7 @@ tags:
 aliases: ["Masks Of Aroden's Guises"]
 ---
 # Masks Of Aroden's Guises *Hazard 10*  
-[complex](rules/traits/complex.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  [trap](rules/traits/trap.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +20 expert  
@@ -31,7 +31,7 @@ AC 30; Fort +20, Ref +16 Statue Hardness 18; Statue HP 48 (BT 24); Immunities cr
      
 ```ad-embed-ability
 title: Unmasked Statues [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[occult](rules/traits/occult.md)  
+[occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 - **Trigger**: A creature removes the mask from a statue
 

@@ -8,7 +8,7 @@ tags:
 aliases: ["Knight's Standard"]
 ---
 # Knight's Standard *Item 0*  
-[uncommon](rules/traits/uncommon.md)  
+[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** Knights of Lastwall have access to this item.
 - **Price** 5 gp

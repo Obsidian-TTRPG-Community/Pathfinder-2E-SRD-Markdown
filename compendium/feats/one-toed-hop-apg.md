@@ -7,7 +7,7 @@ tags:
 aliases: ["One-toed Hop"]
 ---
 # One-toed Hop  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 5*  
-[tengu](rules/traits/tengu-b1.md)  
+[tengu](rules/traits/tengu-b1.md "Tengu Ancestry & Heritage Trait")  
 
 - **Activity** Single Action
 

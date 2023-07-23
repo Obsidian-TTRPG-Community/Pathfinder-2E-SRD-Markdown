@@ -9,7 +9,7 @@ tags:
 aliases: ["Red Mantis Assassin Dedication"]
 ---
 # Red Mantis Assassin Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: You are from Mediogalti Island.
 - **Prerequisites**: trained in sawtooth sabers, deity is [Achaekek](compendium/setting/deities/achaekek-logm.md), lawful evil alignment, member of the Red Mantis assassins

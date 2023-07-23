@@ -10,7 +10,7 @@ tags:
 aliases: ["Inveigle"]
 ---
 # Inveigle *Ritual 2*  
-[enchantment](rules/traits/enchantment.md)  [mental](rules/traits/mental.md)  [uncommon](rules/traits/uncommon.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** 1 day
 - **Cost** rare oils worth a total value of 10 gp × the target's level

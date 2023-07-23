@@ -7,7 +7,7 @@ tags:
 aliases: ["Swift River"]
 ---
 # Swift River  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 18*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Trigger** Your turn ends and you have a status penalty to your Speed or are [immobilized](rules/conditions.md#Immobilized) or [slowed](rules/conditions.md#Slowed).
 - **Activity** Free Action

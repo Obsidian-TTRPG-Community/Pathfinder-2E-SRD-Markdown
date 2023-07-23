@@ -7,7 +7,7 @@ tags:
 aliases: ["The Tyrant Falls!"]
 ---
 # The Tyrant Falls!  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 20*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Knight Reclaimant Dedication](compendium/feats/knight-reclaimant-dedication-locg.md), Invoke the Crimson Oath (Character Guide 95)
 - **Frequency**: once per day
@@ -20,7 +20,7 @@ The oath's power is overwhelming—too much for a mortal frame—but victory is 
 - At the beginning of each of your turns, you become [drained](rules/conditions.md#Drained) or increase the value of your [drained](rules/conditions.md#Drained) condition by 1 if you are already [drained](rules/conditions.md#Drained). You can't reduce the value of your [drained](rules/conditions.md#Drained) condition or remove it while The Tyrant Falls! is active. While The Tyrant Falls! is active, your [drained](rules/conditions.md#Drained) condition does not penalize your Fortitude save.
 - You can cast [invoke the Crimson Oath](compendium/spells/invoke-the-crimson-oath-locg.md) (Character Guide 90) at will without expending Focus Points. When you do, increase the area to a 40-foot cone.
 - You gain resistance to all damage equal to half your character level.
-- Any melee weapon you wield gains the [reach](rules/traits/reach.md) trait if it didn't already possess it, or increases its reach by 5 feet if it already has the [reach](rules/traits/reach.md) trait. Your [Strikes](rules/actions/strike.md) with that weapon deal an extra `2d6` positive or negative damage (whichever is more effective against the target).
+- Any melee weapon you wield gains the [reach](rules/traits/reach.md "Reach Weapon Trait") trait if it didn't already possess it, or increases its reach by 5 feet if it already has the [reach](rules/traits/reach.md "Reach Weapon Trait") trait. Your [Strikes](rules/actions/strike.md) with that weapon deal an extra `2d6` positive or negative damage (whichever is more effective against the target).
 
 *Source: Lost Omens: Knights of Lastwall p. 76*  
 %% #compendium/src/pf2e/lokl #trait/archetype %%

@@ -12,7 +12,7 @@ tags:
 aliases: ["Life Boost"]
 ---
 # Life Boost *Focus 1*   
-[healing](rules/traits/healing.md)  [hex](rules/traits/hex-apg.md)  [necromancy](rules/traits/necromancy.md)  [uncommon](rules/traits/uncommon.md)  [witch](rules/traits/witch-apg.md)  
+[healing](rules/traits/healing.md "Healing Effect Trait")  [hex](rules/traits/hex-apg.md "Hex Combat Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [witch](rules/traits/witch-apg.md "Witch Class Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**30 foot

@@ -10,12 +10,12 @@ tags:
 - domain/sun/deity
 aliases: ["Sturovenen", "The Dragoneagle"]
 ---
-# Sturovenen (The Dragoneagle) *([LG](rules/traits/lawful-goo-b1.md))*  
+# Sturovenen (The Dragoneagle) *([LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 132*  
 
 - **Category**: Sarkorian Gods
 - **Anathema**: command a subordinate to perform a task you're not willing to perform yourself
-- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [LN](rules/traits/lawful-neutral-b1.md), [NG](rules/traits/neutral-good-b1.md)
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait")
 
 ## Devotee benefits
 

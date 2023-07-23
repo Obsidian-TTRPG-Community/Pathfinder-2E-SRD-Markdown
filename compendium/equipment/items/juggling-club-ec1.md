@@ -11,7 +11,7 @@ tags:
 aliases: ["Juggling Club"]
 ---
 # Juggling Club *Item 0*  
-[agile](rules/traits/agile.md)  [nonlethal](rules/traits/nonlethal.md)  [thrown <20 feet>](rules/traits/thrown.md)  [uncommon](rules/traits/uncommon.md)  
+[agile](rules/traits/agile.md "Agile Weapon Trait")  [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait")  [thrown <20 feet>](rules/traits/thrown-20-feet.md "Thrown Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1 sp
 - **Bulk** L

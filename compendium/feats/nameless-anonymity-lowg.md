@@ -7,7 +7,7 @@ tags:
 aliases: ["Nameless Anonymity"]
 ---
 # Nameless Anonymity  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Magic Warrior Dedication](compendium/feats/magic-warrior-dedication-lowg.md)
 

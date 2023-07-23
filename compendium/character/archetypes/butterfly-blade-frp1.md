@@ -15,7 +15,7 @@ You've trained in one of Goka's oldest traditions of espionage, intimidation, an
 title: Butterfly Blade Dedication, Feat 4
 collapse: closed
 # Butterfly Blade Dedication  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: Defeat a member of the Butterfly Blades in a sanctioned bout.
 - **Prerequisites**: trained in butterfly swords
@@ -25,14 +25,14 @@ You become trained in [Deception](compendium/skills.md#Deception) and [Stealth](
 **Special.** You cannot select another dedication feat until you have gained two other feats from this archetype.
 
 *Source: Fists of the Ruby Phoenix #1: Despair on Danger Island p. 78*  
-%% #trait/uncommon #trait/archetype #trait/dedication %%
+%% #trait/archetype #trait/dedication #trait/uncommon %%
 ```  
 
 ```ad-embed-feat
 title: Clever Gambit, Feat 4*
 collapse: closed
 # Clever Gambit  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 4*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 > [!pf2-note] This version of [Clever Gambit](compendium/feats/clever-gambit-apg.md) is intended for use with the Butterfly Blade Archetype. Its level has been changed accordingly.
 
@@ -50,7 +50,7 @@ Your battle tactics are aided by your assessment of your foes' capabilities, all
 title: Combat Assessment, Feat 4*
 collapse: closed
 # Combat Assessment  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[fighter](rules/traits/fighter.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 > [!pf2-note] This version of [Combat Assessment](compendium/feats/combat-assessment-apg.md) is intended for use with the Butterfly Blade Archetype. Its level has been changed accordingly.
 
@@ -66,7 +66,7 @@ You make a telegraphed attack to learn about your foe. Make a melee [Strike](rul
 title: Dread Striker, Feat 4*
 collapse: closed
 # Dread Striker  *Feat 4*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 > [!pf2-note] This version of [Dread Striker](compendium/feats/dread-striker.md) is intended for use with the Butterfly Blade Archetype. Its level has been changed accordingly.
 
@@ -81,7 +81,7 @@ You capitalize on your enemies' fear to slip past their defenses. Any creature t
 title: Quick Draw (Ranger), Feat 4*
 collapse: closed
 # Quick Draw (Ranger)  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 > [!pf2-note] This version of [Quick Draw (Ranger)](compendium/feats/quick-draw-ranger.md) is intended for use with the Butterfly Blade Archetype. Its level has been changed accordingly.
 
@@ -97,7 +97,7 @@ You draw your weapon and attack with the same motion. You [Interact](rules/actio
 title: Butterfly's Kiss, Feat 6
 collapse: closed
 # Butterfly's Kiss  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Butterfly Blade Dedication](compendium/feats/butterfly-blade-dedication-frp1.md)
 
@@ -111,7 +111,7 @@ You can make nonlethal [Strikes](rules/actions/strike.md) with a butterfly sword
 title: Butterfly's Sting, Feat 6
 collapse: closed
 # Butterfly's Sting  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Butterfly Blade Dedication](compendium/feats/butterfly-blade-dedication-frp1.md)
 
@@ -127,7 +127,7 @@ You don't increase the number of dice as you gain levels.
 title: Mastermind's Eye, Feat 6
 collapse: closed
 # Mastermind's Eye  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Butterfly Blade Dedication](compendium/feats/butterfly-blade-dedication-frp1.md)
 
@@ -141,7 +141,7 @@ When you succeed at identifying a creature using [Recall Knowledge](rules/action
 title: Deadly Butterfly, Feat 8
 collapse: closed
 # Deadly Butterfly  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Butterfly Blade Dedication](compendium/feats/butterfly-blade-dedication-frp1.md)
 
@@ -155,7 +155,7 @@ You gain access to the butterfly sword's critical specialization effect. If you 
 title: Innocent Butterfly, Feat 14*
 collapse: closed
 # Innocent Butterfly  *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Innocent Butterfly](compendium/feats/innocent-butterfly-frp1.md) is intended for use with the Butterfly Blade Archetype. Its level has been changed accordingly.
 

@@ -8,7 +8,7 @@ tags:
 aliases: ["Gauntlet Buckler"]
 ---
 # Gauntlet Buckler *Item 0*  
-[foldaway](rules/traits/foldaway-tv.md)  
+[foldaway](rules/traits/foldaway-tv.md "Foldaway Item Trait")  
 
 - **Price** 5 gp
 - **Bulk** 1

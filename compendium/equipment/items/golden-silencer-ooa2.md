@@ -12,7 +12,7 @@ tags:
 aliases: ["Golden Silencer"]
 ---
 # Golden Silencer *Item 6+*  
-[consumable](rules/traits/consumable.md)  [illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  [talisman](rules/traits/talisman.md)  [uncommon](rules/traits/uncommon.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Usage** affixed to a firearm; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md); **Requirements** You're an expert in
@@ -20,6 +20,6 @@ aliases: ["Golden Silencer"]
 
 [Stealth](compendium/skills.md#Stealth).
 
-The Golden Gunners are dreaded for their use of their golden silencers, which they put to good use in clandestine raids. They silence both the loud gunshot and the screams of creatures [wounded](rules/conditions.md#Wounded) by its shot. A weapon with a golden silencer attached emits no light and makes no noise when fired. A target hit by a ranged [Strike](rules/actions/strike.md) from the affixed weapon must succeed at a DC 20 Fortitude save or be silenced as well until the start of its next turn. A silenced creature can't call for help or use sonic abilities, nor can it use abilities with the [auditory](rules/traits/auditory.md) trait. This prevents it from casting spells that include verbal components.
+The Golden Gunners are dreaded for their use of their golden silencers, which they put to good use in clandestine raids. They silence both the loud gunshot and the screams of creatures [wounded](rules/conditions.md#Wounded) by its shot. A weapon with a golden silencer attached emits no light and makes no noise when fired. A target hit by a ranged [Strike](rules/actions/strike.md) from the affixed weapon must succeed at a DC 20 Fortitude save or be silenced as well until the start of its next turn. A silenced creature can't call for help or use sonic abilities, nor can it use abilities with the [auditory](rules/traits/auditory.md "Auditory Effect Trait") trait. This prevents it from casting spells that include verbal components.
 
 *Source: Outlaws of Alkenstar #2: Cradle of Quartz p. 76*

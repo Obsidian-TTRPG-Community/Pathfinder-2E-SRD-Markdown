@@ -7,7 +7,7 @@ tags:
 aliases: ["Eternal Wings"]
 ---
 # Eternal Wings  *Feat 17*  
-[sylph](rules/traits/sylph-b2.md)  
+[sylph](rules/traits/sylph-b2.md "Sylph Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Wings of Air](compendium/feats/wings-of-air-loag.md)
 

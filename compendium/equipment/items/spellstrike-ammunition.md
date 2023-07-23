@@ -10,7 +10,7 @@ tags:
 aliases: ["Spellstrike Ammunition"]
 ---
 # Spellstrike Ammunition *Item 3+*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Ammunition** any
 - **Activate** [Cast a Spell](rules/actions/cast-a-spell.md)

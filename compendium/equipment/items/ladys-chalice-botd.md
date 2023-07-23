@@ -11,7 +11,7 @@ tags:
 aliases: ["Lady's Chalice"]
 ---
 # Lady's Chalice *Item 3*  
-[conjuration](rules/traits/conjuration.md)  [divine](rules/traits/divine.md)  [good](rules/traits/good.md)  [uncommon](rules/traits/uncommon.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [good](rules/traits/good.md "Good Alignment Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 60 gp
 - **Usage** held in 1 hand; **Bulk** L
@@ -30,7 +30,7 @@ title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "S
 
 - **Requirements**: The Lady's chalice is full of a vial's worth of holy water
 
-**Effect** The chalice splashes a spiral of holy water into an adjacent space. This is a simple thrown weapon with a range of 5 feet. Unlike an alchemical bomb, it doesn't add the [manipulate](rules/traits/manipulate.md) trait to the attack made with it. If it hits, it deals `2d6` good damage and 2 good splash damage (including to you, if you're evil).
+**Effect** The chalice splashes a spiral of holy water into an adjacent space. This is a simple thrown weapon with a range of 5 feet. Unlike an alchemical bomb, it doesn't add the [manipulate](rules/traits/manipulate.md "Manipulate General Trait") trait to the attack made with it. If it hits, it deals `2d6` good damage and 2 good splash damage (including to you, if you're evil).
 ```
 
 *Source: Book of the Dead p. 200*

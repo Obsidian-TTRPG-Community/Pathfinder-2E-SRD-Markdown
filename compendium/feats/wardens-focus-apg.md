@@ -7,7 +7,7 @@ tags:
 aliases: ["Warden's Focus"]
 ---
 # Warden's Focus  *Feat 12*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: warden spells
 

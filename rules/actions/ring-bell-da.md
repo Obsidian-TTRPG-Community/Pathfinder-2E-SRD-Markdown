@@ -14,7 +14,7 @@ tags:
 aliases: ["Ring Bell"]
 ---
 # Ring Bell [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[auditory](rules/traits/auditory.md)  [emotion](rules/traits/emotion.md)  [enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [manipulate](rules/traits/manipulate.md)  [mental](rules/traits/mental.md)  [thaumaturge](rules/traits/thaumaturge-da.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [thaumaturge](rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
 *Source: Dark Archive p. 37*  
 
 - **Trigger** The target of your [Exploit Vulnerability](rules/actions/exploit-vulnerability-da.md) makes a [Strike](rules/actions/strike.md) or [Casts a Spell](rules/actions/cast-a-spell.md) that would affect you or one of your allies.

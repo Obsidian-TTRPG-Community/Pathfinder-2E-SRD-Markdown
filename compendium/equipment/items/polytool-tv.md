@@ -10,7 +10,7 @@ tags:
 aliases: ["Polytool"]
 ---
 # Polytool *Item 1*  
-[agile](rules/traits/agile.md)  [modular <b, p, or s>](rules/traits/modular-logm.md)  [uncommon](rules/traits/uncommon.md)  
+[agile](rules/traits/agile.md "Agile Weapon Trait")  [modular <b, p, or s>](rules/traits/modular-b-p-or-s-logm.md "Modular Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 10 gp
 - **Bulk** 1

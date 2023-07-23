@@ -12,7 +12,7 @@ tags:
 aliases: ["Remorhaz Armor"]
 ---
 # Remorhaz Armor *Item 10*  
-[evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 975 gp
 - **Usage** worn armor; **Bulk** 2

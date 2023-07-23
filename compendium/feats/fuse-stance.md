@@ -7,7 +7,7 @@ tags:
 aliases: ["Fuse Stance"]
 ---
 # Fuse Stance  *Feat 20*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Prerequisites**: at least two stances
 

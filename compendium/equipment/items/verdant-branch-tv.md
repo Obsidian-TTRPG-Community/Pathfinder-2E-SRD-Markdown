@@ -10,7 +10,7 @@ tags:
 aliases: ["Verdant Branch"]
 ---
 # Verdant Branch *Item 7*  
-[necromancy](rules/traits/necromancy.md)  [plant](rules/traits/plant.md)  [primal](rules/traits/primal.md)  
+[necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  
 
 - **Price** 360 gp
 - **Usage** worn; **Bulk** L

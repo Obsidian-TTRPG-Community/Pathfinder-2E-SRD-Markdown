@@ -7,7 +7,7 @@ tags:
 aliases: ["Shattered Window"]
 ---
 # Shattered Window *Hazard 1*  
-[haunt](rules/traits/haunt.md)  
+[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 17 trained to notice cracks spider-webbing across the window  

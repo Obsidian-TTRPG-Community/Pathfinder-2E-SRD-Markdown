@@ -7,7 +7,7 @@ tags:
 aliases: ["Bloodline Wellspring"]
 ---
 # Bloodline Wellspring  *Feat 18*  
-[sorcerer](rules/traits/sorcerer.md)  
+[sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 - **Prerequisites**: [Bloodline Focus](compendium/feats/bloodline-focus.md)
 

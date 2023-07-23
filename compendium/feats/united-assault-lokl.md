@@ -10,7 +10,7 @@ tags:
 aliases: ["United Assault"]
 ---
 # United Assault  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 2*  
-[fighter](rules/traits/fighter.md)  [flourish](rules/traits/flourish.md)  [ranger](rules/traits/ranger.md)  [uncommon](rules/traits/uncommon.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  [ranger](rules/traits/ranger.md "Ranger Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: Knights of Lastwall have access to this feat.
 - **Activity** Single Action

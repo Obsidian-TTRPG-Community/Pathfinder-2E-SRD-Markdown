@@ -7,7 +7,7 @@ tags:
 aliases: ["Positive Luminance"]
 ---
 # Positive Luminance  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Hallowed Necromancer Dedication](compendium/feats/hallowed-necromancer-dedication-botd.md)
 

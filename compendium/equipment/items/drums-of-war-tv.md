@@ -11,7 +11,7 @@ tags:
 aliases: ["Drums of War"]
 ---
 # Drums of War *Item 4+*  
-[coda](rules/traits/coda-tv.md)  [evocation](rules/traits/evocation.md)  [occult](rules/traits/occult.md)  [staff](rules/traits/staff.md)  
+[coda](rules/traits/coda-tv.md "Coda Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  
 
 - **Usage** held in 2 hands; **Bulk** 1
 - **Category** Coda

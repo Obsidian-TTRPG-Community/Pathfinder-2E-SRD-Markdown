@@ -7,7 +7,7 @@ tags:
 aliases: ["Linked Focus"]
 ---
 # Linked Focus  *Feat 4*  
-[wizard](rules/traits/wizard.md)  
+[wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Prerequisites**: arcane bond, arcane school
 - **Frequency**: once per day

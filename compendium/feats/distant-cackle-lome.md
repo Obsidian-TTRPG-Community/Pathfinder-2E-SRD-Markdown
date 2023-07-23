@@ -7,7 +7,7 @@ tags:
 aliases: ["Distant Cackle"]
 ---
 # Distant Cackle  *Feat 5*  
-[gnoll](rules/traits/gnoll-b1.md)  
+[gnoll](rules/traits/gnoll-b1.md "Gnoll Ancestry & Heritage Trait")  
 
 - **Prerequisites**: witch gnoll heritage
 

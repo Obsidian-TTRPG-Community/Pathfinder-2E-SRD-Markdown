@@ -10,12 +10,12 @@ tags:
 - domain/undeath/deity
 aliases: ["Zyphus", "The Grim Harvestman"]
 ---
-# Zyphus (The Grim Harvestman) *([NE](rules/traits/neutral-evil-b1.md))*  
+# Zyphus (The Grim Harvestman) *([NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 130*  
 
 - **Category**: Other Gods
 - **Anathema**: spread hope, provide aid to Pharasmins
-- **Follower Alignments**: [NE](rules/traits/neutral-evil-b1.md), [CE](rules/traits/chaotic-evil-b1.md)
+- **Follower Alignments**: [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
 

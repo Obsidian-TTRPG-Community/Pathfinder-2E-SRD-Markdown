@@ -22,7 +22,7 @@ Two blades, each hidden in a 15-foot-long ceiling groove, are both connected to 
      
 ```ad-embed-ability
 title: Falling Scythes [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[attack](rules/traits/attack.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  
 
 When the trip wire is pulled or severed, both blades swing down, each one attacking all creatures under the ceiling grooves. The trap makes a melee attack with each blade with +17 to each attack roll. There's no multiple attack penalty on these attacks. On a hit, a blade deals `2d12 + 4` slashing damage. On a critical hit, the damage is doubled plus 6 extra damage.  
 %% #trait/attack %%

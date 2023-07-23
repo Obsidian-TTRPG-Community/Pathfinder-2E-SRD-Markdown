@@ -10,9 +10,9 @@ tags:
 aliases: ["Roaring Applause"]
 ---
 # Roaring Applause *Spell 3*   
-[emotion](rules/traits/emotion.md)  [enchantment](rules/traits/enchantment.md)  [mental](rules/traits/mental.md)  
+[emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [divine](rules/traits/divine.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**60 foot
 - **Targets**1 creature
@@ -26,7 +26,7 @@ Targets of this spell must be able to see, hear, or otherwise understand you. Th
 > [!success-degree] 
 > - **Critical Success** The target is unaffected.
 > - **Success** The target becomes mildly distracted by your display and applauds while it isn't fully occupied. It can't use reactions.
-> - **Failure** The target applauds you so vigorously that it can't use reactions and is [slowed](rules/conditions.md#Slowed). The applause is so involved that it has the [manipulate](rules/traits/manipulate.md) trait. This triggers reactions based on the [manipulate](rules/traits/manipulate.md) trait at the start of the target's turn.
+> - **Failure** The target applauds you so vigorously that it can't use reactions and is [slowed](rules/conditions.md#Slowed). The applause is so involved that it has the [manipulate](rules/traits/manipulate.md "Manipulate General Trait") trait. This triggers reactions based on the [manipulate](rules/traits/manipulate.md "Manipulate General Trait") trait at the start of the target's turn.
 > - **Critical Failure** As failure, plus the target is so distracted by its vigorous applauding of you that it's [fascinated](rules/conditions.md#Fascinated) with you.
 
 **Heightened (6th)** You can target up to 10 creatures.

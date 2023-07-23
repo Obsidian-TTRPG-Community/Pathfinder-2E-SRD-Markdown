@@ -7,7 +7,7 @@ tags:
 aliases: ["Bloodthirsty Urge"]
 ---
 # Bloodthirsty Urge *Hazard 10*  
-[haunt](rules/traits/haunt.md)  
+[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 31 trained  
@@ -18,7 +18,7 @@ An object haunted by the echoes of a vicious mind attempts to kill someone who c
      
 ```ad-embed-ability
 title: Quietus [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[death](rules/traits/death.md)  [emotion](rules/traits/emotion.md)  [fear](rules/traits/fear.md)  [illusion](rules/traits/illusion.md)  [mental](rules/traits/mental.md)  [occult](rules/traits/occult.md)  
+[death](rules/traits/death.md "Death Effect Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 - **Trigger**: A creature moves within 10 feet of the haunted object.
 

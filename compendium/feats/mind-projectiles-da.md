@@ -7,7 +7,7 @@ tags:
 aliases: ["Mind Projectiles"]
 ---
 # Mind Projectiles  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Mind Smith Dedication](compendium/feats/mind-smith-dedication-da.md)
 

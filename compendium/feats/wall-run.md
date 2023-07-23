@@ -7,7 +7,7 @@ tags:
 aliases: ["Wall Run"]
 ---
 # Wall Run  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Activity** Single Action
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Hero's Wings"]
 ---
 # Hero's Wings  *Feat 17*  
-[sprite](rules/traits/sprite-b1.md)  
+[sprite](rules/traits/sprite-b1.md "Sprite Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Energize Wings](compendium/feats/energize-wings-loag.md)
 

@@ -9,7 +9,7 @@ tags:
 aliases: ["Possibility Tome"]
 ---
 # Possibility Tome *Item 18*  
-[divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 22000 gp
 - **Usage** held in 2 hands; **Bulk** 2

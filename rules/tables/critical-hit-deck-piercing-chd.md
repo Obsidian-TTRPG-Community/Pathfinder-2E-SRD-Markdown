@@ -38,14 +38,14 @@ aliases: ["Critical Hit Deck: Piercing"]
 | 26 | **Lodged in the Bone** _Crit Effect:_ The target takes `1d6` [persistent bleed damage](rules/conditions.md#Persistent%20Damage). |
 | 27 | **Pierced Elbow** The target drops one item it is holding (determined randomly by the GM). |
 | 28 | **Hand Wound** _Crit Effect:_ Until healed, the target is [clumsy](rules/conditions.md#Clumsy) and can't use one of its hands (determined randomly by the GM). |
-| 29 | **Overreaction** Normal damage. The target triggers reactions as if it just used a [move](rules/traits/move.md) action. It is also [flat-footed](rules/conditions.md#Flat-footed) until the end of its next turn. |
+| 29 | **Overreaction** Normal damage. The target triggers reactions as if it just used a [move](rules/traits/move.md "Move Combat Trait") action. It is also [flat-footed](rules/conditions.md#Flat-footed) until the end of its next turn. |
 | 30 | **Clean Through** Triple damage. |
 | 31 | **Cheek Pierced** The target must succeed at a DC 5 flat check to cast spells with a verbal component until healed. |
 | 32 | **Head Shot** Triple damage. _Crit Effect:_ The target must succeed at a Fortitude save or die. |
 | 33 | **Spinal Tap** Normal damage. _Crit Effect:_ The target is [sickened](rules/conditions.md#Sickened). |
 | 34 | **Heart Shot** Triple damage. _Crit Effect:_ The target takes `1d4` [persistent bleed damage](rules/conditions.md#Persistent%20Damage). |
 | 35 | **Nailed in Place** As the bow critical specialization effect. If this is a melee weapon, you must drop the weapon to gain this effect. If this attack already has that effect, the [Athletics](compendium/skills.md#Athletics) check to pull free is DC 20 instead of DC 10. |
-| 36 | **Javelin Catcher** Triple damage if the attack was ranged or [thrown](rules/traits/thrown.md) attack. Double damage for all other attacks. |
+| 36 | **Javelin Catcher** Triple damage if the attack was ranged or [thrown](rules/traits/thrown.md "Thrown Weapon Trait") attack. Double damage for all other attacks. |
 | 37 | **Infection** The target must succeed at a Fortitude save or contract filth fever. |
 | 38 | **Eye Patch for You** Triple damage. _Crit Effect:_ The target is [dazzled](rules/conditions.md#Dazzled) until healed. |
 | 39 | **Knockback** The target is pushed 10 feet. |

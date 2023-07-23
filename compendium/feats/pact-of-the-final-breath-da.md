@@ -10,7 +10,7 @@ tags:
 aliases: ["Pact of the Final Breath"]
 ---
 # Pact of the Final Breath  *Feat 12*  
-[archetype](rules/traits/archetype.md)  [divine](rules/traits/divine.md)  [necromancy](rules/traits/necromancy.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Pactbinder Dedication](compendium/feats/pactbinder-dedication-da.md)
 

@@ -14,7 +14,7 @@ tags:
 aliases: ["Mind-Swap Potion"]
 ---
 # Mind-Swap Potion *Item 15*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  [necromancy](rules/traits/necromancy.md)  [possession](rules/traits/possession.md)  [potion](rules/traits/potion.md)  [rare](rules/traits/rare.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [possession](rules/traits/possession.md "Possession Effect Trait")  [potion](rules/traits/potion.md "Potion Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 1000 gp
 - **Usage** held in 1 hand; **Bulk** L

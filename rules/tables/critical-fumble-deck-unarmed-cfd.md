@@ -25,7 +25,7 @@ aliases: ["Critical Fumble Deck: Unarmed"]
 | 13 | **Torn Muscle** Until healed, you are [enfeebled](rules/conditions.md#Enfeebled). |
 | 14 | **Hit the Wall** You are [fatigued](rules/conditions.md#Fatigued). |
 | 15 | **Frustration** You take a -2 circumstance penalty to attack rolls until the end of your next turn. |
-| 16 | **Overextended** You trigger reactions as if you had used a [move](rules/traits/move.md) action. |
+| 16 | **Overextended** You trigger reactions as if you had used a [move](rules/traits/move.md "Move Combat Trait") action. |
 | 17 | **Bit Your Tongue!** You take 1 [persistent bleed damage](rules/conditions.md#Persistent%20Damage). |
 | 18 | **Upset Stomach** You are [sickened](rules/conditions.md#Sickened). |
 | 19 | **Tiring Attack** You are [fatigued](rules/conditions.md#Fatigued). |

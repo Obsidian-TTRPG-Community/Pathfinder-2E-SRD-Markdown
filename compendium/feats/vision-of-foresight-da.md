@@ -10,7 +10,7 @@ tags:
 aliases: ["Vision of Foresight"]
 ---
 # Vision of Foresight  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  [divination](rules/traits/divination.md)  [fortune](rules/traits/fortune.md)  [occult](rules/traits/occult.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 - **Prerequisites**: [Sleepwalker Dedication](compendium/feats/sleepwalker-dedication-da.md)
 - **Requirements**: You're in a Daydream Trance

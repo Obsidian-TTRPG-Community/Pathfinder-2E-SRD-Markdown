@@ -7,7 +7,7 @@ tags:
 aliases: ["Catfolk Weapon Rake"]
 ---
 # Catfolk Weapon Rake  *Feat 5*  
-[catfolk](rules/traits/catfolk-b1.md)  
+[catfolk](rules/traits/catfolk-b1.md "Catfolk Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Catfolk Weapon Familiarity](compendium/feats/catfolk-weapon-familiarity-apg.md)
 

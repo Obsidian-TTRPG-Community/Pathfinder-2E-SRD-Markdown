@@ -14,7 +14,7 @@ tags:
 aliases: ["Reveal True Name"]
 ---
 # Reveal True Name  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 1*  
-[auditory](rules/traits/auditory.md)  [concentrate](rules/traits/concentrate.md)  [emotion](rules/traits/emotion.md)  [general](rules/traits/general.md)  [mental](rules/traits/mental.md)  [rare](rules/traits/rare.md)  [skill](rules/traits/skill.md)  [true name](rules/traits/true-name-som.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [general](rules/traits/general.md "General Feat Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  [true name](rules/traits/true-name-som.md "True Name General Trait")  
 
 - **Prerequisites**: trained in [Intimidation](compendium/skills.md#Intimidation) and at least one of [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), and [Religion](compendium/skills.md#Religion)
 - **Activity** Two-Action

@@ -7,7 +7,7 @@ tags:
 aliases: ["Perfect Distraction"]
 ---
 # Perfect Distraction  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 16*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Prerequisites**: legendary in [Deception](compendium/skills.md#Deception)
 - **Activity** Single Action

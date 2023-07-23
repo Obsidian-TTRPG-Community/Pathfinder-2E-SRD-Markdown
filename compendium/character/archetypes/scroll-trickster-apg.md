@@ -15,7 +15,7 @@ Magic has long been written down, and in myriad forms. From the classic rolled p
 title: Scroll Trickster Dedication, Feat 2
 collapse: closed
 # Scroll Trickster Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: trained in [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), or [Religion](compendium/skills.md#Religion)
 
@@ -31,7 +31,7 @@ You've studied scrolls in depth. This might have been a comprehensive education 
 title: Basic Scroll Cache, Feat 6
 collapse: closed
 # Basic Scroll Cache  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Scroll Trickster Dedication](compendium/feats/scroll-trickster-dedication-apg.md)
 
@@ -51,7 +51,7 @@ At 8th level, add a second temporary scroll containing a 2nd-level spell.
 title: Skim Scroll, Feat 8
 collapse: closed
 # Skim Scroll  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Scroll Trickster Dedication](compendium/feats/scroll-trickster-dedication-apg.md)
 - **Activity** Single Action
@@ -66,7 +66,7 @@ You can activate the magic of a scroll with a cursory read as you draw it from y
 title: Camouflage, Feat 12*
 collapse: closed
 # Camouflage  *Feat 12*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 > [!pf2-note] This version of [Camouflage](compendium/feats/camouflage.md) is intended for use with the Scroll Trickster Archetype. Its level has been changed accordingly.
 
@@ -82,7 +82,7 @@ You alter your appearance to blend in to the wilderness. In natural terrain, you
 title: Expert Scroll Cache, Feat 12*
 collapse: closed
 # Expert Scroll Cache  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Expert Scroll Cache](compendium/feats/expert-scroll-cache-apg.md) is intended for use with the Scroll Trickster Archetype. Its level has been changed accordingly.
 
@@ -98,7 +98,7 @@ Your scroll collection is more powerful. In addition to your daily scrolls from 
 title: Master Scroll Cache, Feat 18*
 collapse: closed
 # Master Scroll Cache  *Feat 18*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Master Scroll Cache](compendium/feats/master-scroll-cache-apg.md) is intended for use with the Scroll Trickster Archetype. Its level has been changed accordingly.
 

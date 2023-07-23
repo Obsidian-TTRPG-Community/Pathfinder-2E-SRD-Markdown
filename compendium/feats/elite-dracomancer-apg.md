@@ -7,7 +7,7 @@ tags:
 aliases: ["Elite Dracomancer"]
 ---
 # Elite Dracomancer  *Feat 13*  
-[kobold](rules/traits/kobold-b1.md)  
+[kobold](rules/traits/kobold-b1.md "Kobold Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Dracomancer](compendium/feats/dracomancer-apg.md)
 

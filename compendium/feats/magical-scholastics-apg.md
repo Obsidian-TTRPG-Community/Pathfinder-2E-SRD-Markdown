@@ -7,7 +7,7 @@ tags:
 aliases: ["Magical Scholastics"]
 ---
 # Magical Scholastics  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Archaeologist Dedication](compendium/feats/archaeologist-dedication-apg.md)
 

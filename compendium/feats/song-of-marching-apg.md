@@ -7,7 +7,7 @@ tags:
 aliases: ["Song Of Marching"]
 ---
 # Song Of Marching  *Feat 6*  
-[bard](rules/traits/bard.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  
 
 
 You learn the [song of marching](compendium/spells/song-of-marching-apg.md) composition cantrip, which enables you and your allies to cross vast distances without strain.

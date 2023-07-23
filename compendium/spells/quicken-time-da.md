@@ -9,9 +9,9 @@ tags:
 aliases: ["Quicken Time"]
 ---
 # Quicken Time *Spell 5*   
-[transmutation](rules/traits/transmutation.md)  
+[transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**120 foot
 - **Area**20-foot burst

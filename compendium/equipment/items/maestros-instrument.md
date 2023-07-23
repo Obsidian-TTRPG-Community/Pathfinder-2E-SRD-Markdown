@@ -9,7 +9,7 @@ tags:
 aliases: ["Maestro's Instrument"]
 ---
 # Maestro's Instrument *Item 3+*  
-[enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Usage** held in 2 hands; **Bulk** 1
 - **Category** Held

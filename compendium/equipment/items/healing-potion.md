@@ -12,7 +12,7 @@ tags:
 aliases: ["Healing Potion"]
 ---
 # Healing Potion *Item 1+*  
-[consumable](rules/traits/consumable.md)  [healing](rules/traits/healing.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [potion](rules/traits/potion.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [potion](rules/traits/potion.md "Potion Item Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md)

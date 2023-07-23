@@ -9,7 +9,7 @@ tags:
 aliases: ["Ghoul Dedication"]
 ---
 # Ghoul Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [rare](rules/traits/rare.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Prerequisites**: You were killed by b1.
 
@@ -17,13 +17,13 @@ You have succumbed to b1, dying and returning as a ghoul, an undead cursed with 
 
 Your fingernails sharpen into claws; your teeth become razor sharp, ready to tear flesh off the bone; and your tongue grows long and pointed.
 
-You gain the [ghoul](rules/traits/ghoul-b1.md) and [undead](rules/traits/undead.md) traits and the basic undead benefits (page 44). Your undead craving is for the flesh of dead creatures; freshly dead corpses from sapient creatures fulfill your cravings much more than non-sapient or rotted corpses, but any dead creature can stave off the hunger for at least a little while. You gain two unarmed attacks in the brawling weapon group. The first unarmed attack is a claw that deals `1d4` slashing damage with the [agile](rules/traits/agile.md) and [finesse](rules/traits/finesse.md) traits, and the second unarmed attack is a set of jaws that deal `1d6` piercing damage and have the [finesse](rules/traits/finesse.md) trait.
+You gain the [ghoul](rules/traits/ghoul-b1.md "Ghoul Creature Trait") and [undead](rules/traits/undead.md "Undead Creature Type Trait") traits and the basic undead benefits (page 44). Your undead craving is for the flesh of dead creatures; freshly dead corpses from sapient creatures fulfill your cravings much more than non-sapient or rotted corpses, but any dead creature can stave off the hunger for at least a little while. You gain two unarmed attacks in the brawling weapon group. The first unarmed attack is a claw that deals `1d4` slashing damage with the [agile](rules/traits/agile.md "Agile Weapon Trait") and [finesse](rules/traits/finesse.md "Finesse Weapon Trait") traits, and the second unarmed attack is a set of jaws that deal `1d6` piercing damage and have the [finesse](rules/traits/finesse.md "Finesse Weapon Trait") trait.
 
 You gain the Consume Flesh action (see below). Satisfying your craving is difficult. Consuming Flesh temporarily satiates you. Many ghoul feats have extra abilities or functions that can be used when you are satiated, though using those abilities also causes you to lose your satiated status. You can always Consume Flesh, but eating more than a normal amount has no further effect; a ghoul's hunger is satiated, or it is not.
 
 ```ad-embed-ability
 title: Consume Flesh [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[manipulate](rules/traits/manipulate.md)  
+[manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 
 - **Requirements**: You are adjacent to the corpse of a Small or larger creature that died in the last hour
 

@@ -12,7 +12,7 @@ aliases: ["Curse of The Rotting Heart"]
 ---
 # Curse of The Rotting Heart
 *Curse 9*  
-[curse](rules/traits/curse.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+[curse](rules/traits/curse.md "Curse Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 A shriveled, spectral heart appears inside your body, beating alongside your own.
 

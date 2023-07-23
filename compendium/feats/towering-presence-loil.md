@@ -12,7 +12,7 @@ tags:
 aliases: ["Towering Presence"]
 ---
 # Towering Presence  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 5*  
-[concentrate](rules/traits/concentrate.md)  [divine](rules/traits/divine.md)  [illusion](rules/traits/illusion.md)  [polymorph](rules/traits/polymorph.md)  [tiefling](rules/traits/tiefling-b1.md)  [transmutation](rules/traits/transmutation.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [tiefling](rules/traits/tiefling-b1.md "Tiefling Ancestry & Heritage Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Prerequisites**: [Faultspawn](compendium/feats/faultspawn-loil.md)
 - **Frequency**: once per hour

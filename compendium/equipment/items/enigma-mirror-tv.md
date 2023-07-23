@@ -10,7 +10,7 @@ tags:
 aliases: ["Enigma Mirror"]
 ---
 # Enigma Mirror *Item 7+*  
-[illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  [spellheart](rules/traits/spellheart-som.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [spellheart](rules/traits/spellheart-som.md "Spellheart Equipment Trait")  
 
 - **Usage** affixed to armor or a weapon; **Bulk** —
 - **Category** Spellheart

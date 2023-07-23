@@ -7,7 +7,7 @@ tags:
 aliases: ["Uncanny Agility"]
 ---
 # Uncanny Agility  *Feat 1*  
-[tengu](rules/traits/tengu-b1.md)  
+[tengu](rules/traits/tengu-b1.md "Tengu Ancestry & Heritage Trait")  
 
 
 You have near-supernatural poise that lets you move swiftly across the most unsteady surfaces. You gain the [Steady Balance](compendium/feats/steady-balance.md) skill feat. You can [Step](rules/actions/step.md) into difficult terrain caused by uneven ground, such as a rocky field or hilly incline.

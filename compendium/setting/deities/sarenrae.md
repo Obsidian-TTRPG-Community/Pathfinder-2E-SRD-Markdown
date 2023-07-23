@@ -14,13 +14,13 @@ tags:
 - trait/reach-15-feet
 aliases: ["Sarenrae", "Dawnflower"]
 ---
-# Sarenrae (Dawnflower) *([NG](rules/traits/neutral-good-b1.md))*  
+# Sarenrae (Dawnflower) *([NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"))*  
 *Source: Core Rulebook p. 439*  
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: create undead, lie, deny a repentant creature an opportunity for redemption, fail to strike down evil
 - **Areas of Concern**: healing, , honesty, , redemption, , and the sun
-- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [NG](rules/traits/neutral-good-b1.md), [CG](rules/traits/chaotic-good-b1.md)
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")
 
 ## Devotee benefits
 
@@ -36,8 +36,8 @@ aliases: ["Sarenrae", "Dawnflower"]
 title: [Avatar](compendium/spells/avatar.md) of Sarenrae
 
 - **Speed**: Speed 30 feet, fly 70 feet
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") scimitar ([forceful](rules/traits/forceful.md), [nonlethal](rules/traits/nonlethal.md), [reach <15 feet>](rules/traits/reach.md)), **Damage** `6d6+6` slashing
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") everflame ([nonlethal](rules/traits/nonlethal.md)), **Damage** `6d6+3` fire
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") scimitar ([forceful](rules/traits/forceful.md "Forceful Weapon Trait"), [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait")), **Damage** `6d6+6` slashing
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") everflame ([nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait")), **Damage** `6d6+3` fire
 ```
 
 ## Divine intercession
@@ -51,4 +51,4 @@ Sarenrae often bestows boons for making a sacrifice to do better or taking a ris
 
 - **Minor Curse**: The sun burns you for your transgression. You receive a sunburn that causes you to become permanently [clumsy](rules/conditions.md#Clumsy).
 - **Moderate Curse** The sun shines its light on everything you say. You become unable to tell lies, and if you attempt to do so, you instead compulsively blurt out the truth on the matter in question. You are still able to withhold information or lie by omission.
-- **Major Curse**: Sarenrae restricts your ability to harm others. All attacks you make, spells you cast, and other sources of damage you deal are [nonlethal](rules/traits/nonlethal.md) except against fiends and undead, and you can't ever make them lethal. You deal minimum damage except against fiends and undead. All creatures except fiends and undead gain a +4 status bonus to their AC and saving throws against your attacks and other effects.
+- **Major Curse**: Sarenrae restricts your ability to harm others. All attacks you make, spells you cast, and other sources of damage you deal are [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait") except against fiends and undead, and you can't ever make them lethal. You deal minimum damage except against fiends and undead. All creatures except fiends and undead gain a +4 status bonus to their AC and saving throws against your attacks and other effects.

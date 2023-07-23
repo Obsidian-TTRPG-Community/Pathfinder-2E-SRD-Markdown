@@ -9,9 +9,9 @@ tags:
 aliases: ["Endure"]
 ---
 # Endure *Spell 1*   
-[enchantment](rules/traits/enchantment.md)  [mental](rules/traits/mental.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**touch
 - **Targets**1 creature

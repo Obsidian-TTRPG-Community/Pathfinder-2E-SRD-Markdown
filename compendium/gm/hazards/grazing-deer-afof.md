@@ -9,7 +9,7 @@ tags:
 aliases: ["Grazing Deer"]
 ---
 # Grazing Deer *Hazard 3*  
-[complex](rules/traits/complex.md)  [environmental](rules/traits/environmental.md)  [uncommon](rules/traits/uncommon.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Complexity** Complex
 - **Stealth** +20 expert  

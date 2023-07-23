@@ -9,7 +9,7 @@ tags:
 aliases: ["Fight the Fire"]
 ---
 # Fight the Fire
-[exploration](rules/traits/exploration.md)  [manipulate](rules/traits/manipulate.md)  
+[exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 *Source: Age of Ashes #6: Broken Promises p. 12*  
 
 

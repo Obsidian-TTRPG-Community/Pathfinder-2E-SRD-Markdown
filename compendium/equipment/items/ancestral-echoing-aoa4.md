@@ -12,7 +12,7 @@ tags:
 aliases: ["Ancestral Echoing"]
 ---
 # Ancestral Echoing *Item 15*  
-[dwarf](rules/traits/dwarf.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  [saggorak](rules/traits/saggorak-aoa4.md)  
+[dwarf](rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [saggorak](rules/traits/saggorak-aoa4.md "Saggorak  Trait")  
 
 - **Price** 9500 gp
 - **Usage** etched onto a weapon

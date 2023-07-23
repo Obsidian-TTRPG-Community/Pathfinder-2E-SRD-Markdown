@@ -10,9 +10,9 @@ tags:
 aliases: ["Magic Mailbox"]
 ---
 # Magic Mailbox *Spell 4*   
-[conjuration](rules/traits/conjuration.md)  [teleportation](rules/traits/teleportation.md)  [uncommon](rules/traits/uncommon.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [divine](rules/traits/divine.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 1 hour 
 - **Range**touch
 - **Targets**2 containers, each no larger than 5 feet in any dimension

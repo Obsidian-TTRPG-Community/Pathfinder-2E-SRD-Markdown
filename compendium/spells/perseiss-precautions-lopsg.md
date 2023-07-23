@@ -11,9 +11,9 @@ tags:
 aliases: ["Perseis's Precautions"]
 ---
 # Perseis's Precautions *Spell 3*   
-[divination](rules/traits/divination.md)  [fortune](rules/traits/fortune.md)  [prediction](rules/traits/prediction.md)  [uncommon](rules/traits/uncommon.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  [prediction](rules/traits/prediction.md "Prediction Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**touch
 - **Duration**10 minutes

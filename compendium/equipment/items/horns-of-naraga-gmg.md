@@ -12,7 +12,7 @@ tags:
 aliases: ["Horns Of Naraga"]
 ---
 # Horns Of Naraga *Item 26*  
-[artifact](rules/traits/artifact-gmg.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [unique](rules/traits/unique.md)  
+[artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Usage** worn headwear; **Bulk** 2
 - **Category** Artifact

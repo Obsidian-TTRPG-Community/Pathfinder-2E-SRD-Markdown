@@ -8,7 +8,7 @@ tags:
 aliases: ["Shattering Blows"]
 ---
 # Shattering Blows  *Feat 16*  
-[barbarian](rules/traits/barbarian.md)  [rage](rules/traits/rage.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [rage](rules/traits/rage.md "Rage Combat Trait")  
 
 
 Your forceful blows shatter objects with ease. While you are [raging](rules/actions/rage.md), your melee [Strikes](rules/actions/strike.md) ignore 5 points of an object's Hardness. If you have the devastator class feature, you instead ignore 10 points of an object's Hardness.

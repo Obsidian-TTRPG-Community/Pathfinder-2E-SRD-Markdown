@@ -12,7 +12,7 @@ tags:
 aliases: ["Perfected Robes"]
 ---
 # Perfected Robes *Item 22*  
-[artifact](rules/traits/artifact-gmg.md)  [divination](rules/traits/divination.md)  [divine](rules/traits/divine.md)  [invested](rules/traits/invested.md)  [rare](rules/traits/rare.md)  
+[artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** worn; **Bulk** L
 - **Category** Artifact
@@ -22,7 +22,7 @@ These unadorned white robes, fastened with simple brass pins in the shape of a h
 ```ad-embed-ability
 title: Activate [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
 
-If your next action is to attempt a d20 roll with which you have legendary proficiency, roll twice and take the better result. This is a [fortune](rules/traits/fortune.md) effect.
+If your next action is to attempt a d20 roll with which you have legendary proficiency, roll twice and take the better result. This is a [fortune](rules/traits/fortune.md "Fortune Effect Trait") effect.
 ```
 
 ```ad-embed-ability

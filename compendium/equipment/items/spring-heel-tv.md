@@ -10,7 +10,7 @@ tags:
 aliases: ["Spring Heel"]
 ---
 # Spring Heel *Item 5*  
-[mechanical](rules/traits/mechanical.md)  [uncommon](rules/traits/uncommon.md)  clockwork  
+[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  clockwork  
 
 - **Price** 150 gp
 - **Usage** worn; **Bulk** 1

@@ -7,7 +7,7 @@ tags:
 aliases: ["Sneak Attacker"]
 ---
 # Sneak Attacker  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Rogue Dedication](compendium/feats/rogue-dedication.md)
 

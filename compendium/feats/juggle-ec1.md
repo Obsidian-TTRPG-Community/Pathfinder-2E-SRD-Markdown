@@ -11,7 +11,7 @@ tags:
 aliases: ["Juggle"]
 ---
 # Juggle  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 2*  
-[concentrate](rules/traits/concentrate.md)  [general](rules/traits/general.md)  [manipulate](rules/traits/manipulate.md)  [skill](rules/traits/skill.md)  [uncommon](rules/traits/uncommon.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [general](rules/traits/general.md "General Feat Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: Dexterity 16, trained in [Performance](compendium/skills.md#Performance)
 - **Activity** Single Action

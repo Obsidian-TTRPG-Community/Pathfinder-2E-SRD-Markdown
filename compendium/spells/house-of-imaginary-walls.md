@@ -13,7 +13,7 @@ tags:
 aliases: ["House Of Imaginary Walls"]
 ---
 # House Of Imaginary Walls *Cantrip 5*   
-[bard](rules/traits/bard.md)  [cantrip](rules/traits/cantrip.md)  [composition](rules/traits/composition.md)  [illusion](rules/traits/illusion.md)  [uncommon](rules/traits/uncommon.md)  [visual](rules/traits/visual.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  [cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [composition](rules/traits/composition.md "Composition Spell Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**touch

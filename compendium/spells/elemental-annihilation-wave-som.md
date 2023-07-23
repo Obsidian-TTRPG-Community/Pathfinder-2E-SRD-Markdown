@@ -13,9 +13,9 @@ tags:
 aliases: ["Elemental Annihilation Wave"]
 ---
 # Elemental Annihilation Wave *Spell 3*   
-[air](rules/traits/air.md)  [earth](rules/traits/earth.md)  [evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  [water](rules/traits/water.md)  
+[air](rules/traits/air.md "Air Energy & Element Trait")  [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") to 2 rounds 
 - **Area**30-foot cone
 - **Saving Throw**  basic Reflex

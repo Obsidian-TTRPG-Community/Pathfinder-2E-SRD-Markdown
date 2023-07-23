@@ -10,7 +10,7 @@ tags:
 aliases: ["Storming Breath"]
 ---
 # Storming Breath  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 6*  
-[deviant](rules/traits/deviant-da.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[deviant](rules/traits/deviant-da.md "Deviant Action & Ability Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Activity** Two-Action
 

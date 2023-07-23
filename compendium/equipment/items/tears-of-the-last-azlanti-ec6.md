@@ -12,7 +12,7 @@ tags:
 aliases: ["Tears Of The Last Azlanti"]
 ---
 # Tears Of The Last Azlanti *Item 25*  
-[arcane](rules/traits/arcane.md)  [artifact](rules/traits/artifact-gmg.md)  [invested](rules/traits/invested.md)  [transmutation](rules/traits/transmutation.md)  [unique](rules/traits/unique.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Usage** worn necklace; **Bulk** L
 - **Category** Artifact
@@ -30,32 +30,32 @@ Once per day, you can attempt to exchange the aeon stone in a given bail for ano
   <th>Default Aeon Stone</th>
 </tr>
 <tr>
-  <td>1</br>**Active Power:** Telepathy with a range of 100 feet</td>
+  <td>1<br />**Active Power:** Telepathy with a range of 100 feet</td>
   <td>Patience</td>
   <td>Gold nodule</td>
 </tr>
 <tr>
-  <td>2</br>**Active Power:** Cast [hypercognition](compendium/spells/hypercognition.md) at will</td>
+  <td>2<br />**Active Power:** Cast [hypercognition](compendium/spells/hypercognition.md) at will</td>
   <td>Remembrance</td>
   <td>Tourmaline sphere</td>
 </tr>
 <tr>
-  <td>3</br>**Active Power:** Worn armor gains the antimagic property rune</td>
+  <td>3<br />**Active Power:** Worn armor gains the antimagic property rune</td>
   <td>Resilience</td>
   <td>Clear spindle</td>
 </tr>
 <tr>
-  <td>4</br>**Active Power:** Wielded weapons gain the vorpal property rune</td>
+  <td>4<br />**Active Power:** Wielded weapons gain the vorpal property rune</td>
   <td>Tenacity</td>
   <td>Pink rhomboid</td>
 </tr>
 <tr>
-  <td>5</br>**Active Power:** Skill checks for downtime activities or to [Recall Knowledge](rules/actions/recall-knowledge.md) are one degree of success higher</td>
+  <td>5<br />**Active Power:** Skill checks for downtime activities or to [Recall Knowledge](rules/actions/recall-knowledge.md) are one degree of success higher</td>
   <td>Wisdom</td>
   <td>Orange prism</td>
 </tr>
 <tr>
-  <td>6</br>**Active Power:** You can craft items up to 5 levels higher than your actual level</td>
+  <td>6<br />**Active Power:** You can craft items up to 5 levels higher than your actual level</td>
   <td>Invention</td>
   <td>Lavender and green ellipsoid</td>
 </tr>

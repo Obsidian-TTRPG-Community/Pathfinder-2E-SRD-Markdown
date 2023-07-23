@@ -12,9 +12,9 @@ tags:
 aliases: ["Haunting Hymn"]
 ---
 # Haunting Hymn *Cantrip 1*   
-[auditory](rules/traits/auditory.md)  [cantrip](rules/traits/cantrip.md)  [evocation](rules/traits/evocation.md)  [sonic](rules/traits/sonic.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md), [occult](rules/traits/occult.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**15-foot cone
 - **Saving Throw** Fortitude

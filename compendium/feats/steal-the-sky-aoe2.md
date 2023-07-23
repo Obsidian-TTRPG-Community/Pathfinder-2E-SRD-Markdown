@@ -7,7 +7,7 @@ tags:
 aliases: ["Steal The Sky"]
 ---
 # Steal The Sky  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Jalmeri Heavenseeker Dedication](compendium/feats/jalmeri-heavenseeker-dedication-aoe2.md)
 

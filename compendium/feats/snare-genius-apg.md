@@ -7,7 +7,7 @@ tags:
 aliases: ["Snare Genius"]
 ---
 # Snare Genius  *Feat 5*  
-[kobold](rules/traits/kobold-b1.md)  
+[kobold](rules/traits/kobold-b1.md "Kobold Ancestry & Heritage Trait")  
 
 - **Prerequisites**: expert in [Crafting](compendium/skills.md#Crafting), [Snare Crafting](compendium/feats/snare-crafting.md)
 

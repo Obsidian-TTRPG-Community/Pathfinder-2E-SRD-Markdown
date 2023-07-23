@@ -10,7 +10,7 @@ tags:
 aliases: ["Control Weather"]
 ---
 # Control Weather *Ritual 8*  
-[evocation](rules/traits/evocation.md)  [uncommon](rules/traits/uncommon.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** 1 day
 - **Secondary Casters** 1

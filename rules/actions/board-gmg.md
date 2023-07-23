@@ -7,7 +7,7 @@ tags:
 aliases: ["Board"]
 ---
 # Board [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[move](rules/traits/move.md)  
+[move](rules/traits/move.md "Move Combat Trait")  
 *Source: Gamemastery Guide p. 175*  
 
 **Variant Rule** Vehicles

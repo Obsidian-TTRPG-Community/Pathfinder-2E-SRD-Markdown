@@ -10,7 +10,7 @@ tags:
 aliases: ["Ward Domain"]
 ---
 # Ward Domain *Ritual 6*  
-[abjuration](rules/traits/abjuration.md)  [uncommon](rules/traits/uncommon.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** 1 day
 - **Cost** rare incenses, oils, and powdered silver, worth 150 gp total

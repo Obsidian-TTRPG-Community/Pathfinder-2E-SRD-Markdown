@@ -10,7 +10,7 @@ tags:
 aliases: ["Thundering"]
 ---
 # Thundering *Item 8+*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [sonic](rules/traits/sonic.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  
 
 - **Usage** etched onto a weapon
 - **Category** Rune

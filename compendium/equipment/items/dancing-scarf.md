@@ -11,7 +11,7 @@ tags:
 aliases: ["Dancing Scarf"]
 ---
 # Dancing Scarf *Item 3+*  
-[illusion](rules/traits/illusion.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [visual](rules/traits/visual.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Usage** worn belt; **Bulk** —
 - **Category** Worn

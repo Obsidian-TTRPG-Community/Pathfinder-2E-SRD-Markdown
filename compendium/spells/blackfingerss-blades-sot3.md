@@ -10,9 +10,9 @@ tags:
 aliases: ["Blackfingers's Blades"]
 ---
 # Blackfingers's Blades *Spell 5*   
-[poison](rules/traits/poison.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+[poison](rules/traits/poison.md "Poison Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md), [primal](rules/traits/primal.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**touch
 - **Targets**up to 4 weapons, each wielded by a separate willing creature within range

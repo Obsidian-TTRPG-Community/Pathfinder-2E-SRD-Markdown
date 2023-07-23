@@ -8,7 +8,7 @@ tags:
 aliases: ["Diverse Recognition"]
 ---
 # Diverse Recognition  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Pathfinder Agent Dedication](compendium/feats/pathfinder-agent-dedication-lowg.md), master in a skill used to [Recall Knowledge](rules/actions/recall-knowledge.md)
 - **Frequency**: once per round

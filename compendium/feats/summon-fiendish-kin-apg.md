@@ -7,7 +7,7 @@ tags:
 aliases: ["Summon Fiendish Kin"]
 ---
 # Summon Fiendish Kin  *Feat 13*  
-[tiefling](rules/traits/tiefling-b1.md)  
+[tiefling](rules/traits/tiefling-b1.md "Tiefling Ancestry & Heritage Trait")  
 
 - **Prerequisites**: any tiefling lineage feat
 

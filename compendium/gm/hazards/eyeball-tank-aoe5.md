@@ -9,7 +9,7 @@ tags:
 aliases: ["Eyeball Tank"]
 ---
 # Eyeball Tank *Hazard 15*  
-[complex](rules/traits/complex.md)  [magical](rules/traits/magical.md)  [trap](rules/traits/trap.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +31 master  
@@ -37,7 +37,7 @@ title: Routine
 (3 actions) Each round, the vat uses all three of its actions to shoot random eye rays at any living creatures (except Ixusoth) in range.
 
 ```ad-inline-attack
-title: Ranged [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Despair Ray (28) ([emotion](rules/traits/emotion.md), [enchantment](rules/traits/enchantment.md), [mental](rules/traits/mental.md), range <100 feet>)
+title: Ranged [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Despair Ray (28) ([emotion](rules/traits/emotion.md "Emotion Effect Trait"), [enchantment](rules/traits/enchantment.md "Enchantment School Trait"), [mental](rules/traits/mental.md "Mental Effect Trait"), range <100 feet>)
 **Damage** target is subjected to a [crushing despair](compendium/spells/crushing-despair.md) spell (DC 33) 
  
 **Effects** target is subjected to a [crushing despair](compendium/spells/crushing-despair.md) spell (DC 33)
@@ -46,7 +46,7 @@ title: Ranged [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Sin
 ```
 
 ```ad-inline-attack
-title: Ranged [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Feeblemind Ray (28) ([curse](rules/traits/curse.md), [enchantment](rules/traits/enchantment.md), [incapacitation](rules/traits/incapacitation.md), [mental](rules/traits/mental.md), range <100 feet>)
+title: Ranged [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Feeblemind Ray (28) ([curse](rules/traits/curse.md "Curse Effect Trait"), [enchantment](rules/traits/enchantment.md "Enchantment School Trait"), [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait"), [mental](rules/traits/mental.md "Mental Effect Trait"), range <100 feet>)
 **Damage** target is subjected to a [feeblemind](compendium/spells/feeblemind.md) spell (DC 36) 
  
 **Effects** target is subjected to a [feeblemind](compendium/spells/feeblemind.md) spell (DC 36)
@@ -55,7 +55,7 @@ title: Ranged [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Sin
 ```
 
 ```ad-inline-attack
-title: Ranged [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Spirit Blast Ray (28) ([force](rules/traits/force.md), [necromancy](rules/traits/necromancy.md), range <100 feet>)
+title: Ranged [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Spirit Blast Ray (28) ([force](rules/traits/force.md "Force Energy & Element Trait"), [necromancy](rules/traits/necromancy.md "Necromancy School Trait"), range <100 feet>)
 **Damage** target is subjected to a [spirit blast](compendium/spells/spirit-blast.md) spell (DC 36) 
  
 **Effects** target is subjected to a [spirit blast](compendium/spells/spirit-blast.md) spell (DC 36)

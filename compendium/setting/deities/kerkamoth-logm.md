@@ -10,12 +10,12 @@ tags:
 - domain/void/deity
 aliases: ["Kerkamoth", "The Waiting Void"]
 ---
-# Kerkamoth (The Waiting Void) *([LN](rules/traits/lawful-neutral-b1.md))*  
+# Kerkamoth (The Waiting Void) *([LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 130*  
 
 - **Category**: Monitor Demigods
 - **Anathema**: attempt to preserve something indefinitely, perform an act of wanton and significant destruction
-- **Follower Alignments**: [LN](rules/traits/lawful-neutral-b1.md), [N](rules/traits/neutral-b1.md)
+- **Follower Alignments**: [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait")
 
 ## Devotee benefits
 

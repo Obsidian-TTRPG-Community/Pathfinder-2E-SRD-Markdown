@@ -9,7 +9,7 @@ tags:
 aliases: ["Powered Full Plate"]
 ---
 # Powered Full Plate *Item 7*  
-[alchemical](rules/traits/alchemical.md)  [rare](rules/traits/rare.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 360 gp
 - **Usage** worn armor; **Bulk** 4

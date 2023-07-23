@@ -8,7 +8,7 @@ tags:
 aliases: ["Incredible Aim"]
 ---
 # Incredible Aim  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
-[concentrate](rules/traits/concentrate.md)  [fighter](rules/traits/fighter.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 - **Activity** Two-Action
 

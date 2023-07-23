@@ -8,7 +8,7 @@ tags:
 aliases: ["Battle Axe"]
 ---
 # Battle Axe *Item 0*  
-[sweep](rules/traits/sweep.md)  
+[sweep](rules/traits/sweep.md "Sweep Weapon Trait")  
 
 - **Price** 1 gp
 - **Bulk** 1

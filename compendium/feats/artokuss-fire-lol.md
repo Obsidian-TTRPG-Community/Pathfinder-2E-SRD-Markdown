@@ -9,7 +9,7 @@ tags:
 aliases: ["Artokus's Fire"]
 ---
 # Artokus's Fire  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 6*  
-[additive <2>](rules/traits/additive.md)  [alchemist](rules/traits/alchemist.md)  [rare](rules/traits/rare.md)  
+[additive <2>](rules/traits/additive-2.md "Additive Feat Trait")  [alchemist](rules/traits/alchemist.md "Alchemist Class Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Frequency**: once per round
 - **Trigger** You use [Quick Alchemy](rules/actions/quick-alchemy.md) to craft an alchemist's fire, and that bomb's level is at least 2 levels lower than your advanced alchemy level.

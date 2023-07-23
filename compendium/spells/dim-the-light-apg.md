@@ -11,7 +11,7 @@ tags:
 aliases: ["Dim The Light"]
 ---
 # Dim The Light *Focus 1*   
-[darkness](rules/traits/darkness.md)  [evocation](rules/traits/evocation.md)  [sorcerer](rules/traits/sorcerer.md)  [uncommon](rules/traits/uncommon.md)  
+[darkness](rules/traits/darkness.md "Darkness Effect Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bloodline** Sorcerer
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 

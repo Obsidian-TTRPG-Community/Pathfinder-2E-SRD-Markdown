@@ -12,9 +12,9 @@ tags:
 aliases: ["Mask Of Terror"]
 ---
 # Mask Of Terror *Spell 7*   
-[emotion](rules/traits/emotion.md)  [fear](rules/traits/fear.md)  [illusion](rules/traits/illusion.md)  [mental](rules/traits/mental.md)  [visual](rules/traits/visual.md)  
+[emotion](rules/traits/emotion.md "Emotion Effect Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot
 - **Targets**1 creature

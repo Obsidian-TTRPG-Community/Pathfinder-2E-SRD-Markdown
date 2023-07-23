@@ -8,7 +8,7 @@ tags:
 aliases: ["Tandem Strike"]
 ---
 # Tandem Strike  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 6*  
-[summoner](rules/traits/summoner-som.md)  [tandem](rules/traits/tandem-som.md)  
+[summoner](rules/traits/summoner-som.md "Summoner Class Trait")  [tandem](rules/traits/tandem-som.md "Tandem Action & Ability Trait")  
 
 - **Requirements**: A creature is in your and your eidolon's reach.
 - **Activity** Two-Action

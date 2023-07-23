@@ -8,7 +8,7 @@ tags:
 aliases: ["True Perception"]
 ---
 # True Perception  *Feat 19*  
-[general](rules/traits/general.md)  [revelation](rules/traits/revelation.md)  
+[general](rules/traits/general.md "General Feat Trait")  [revelation](rules/traits/revelation.md "Revelation Effect Trait")  
 
 - **Prerequisites**: legendary in [Perception](compendium/skills.md#Perception)
 

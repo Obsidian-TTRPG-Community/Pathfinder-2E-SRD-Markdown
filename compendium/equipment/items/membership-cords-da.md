@@ -8,7 +8,7 @@ tags:
 aliases: ["Membership Cords"]
 ---
 # Membership Cords *Item 0*  
-[uncommon](rules/traits/uncommon.md)  
+[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** Member of a secret society
 - **Price** 5 gp

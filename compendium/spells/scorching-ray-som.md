@@ -10,9 +10,9 @@ tags:
 aliases: ["Scorching Ray"]
 ---
 # Scorching Ray *Spell 2*   
-[attack](rules/traits/attack.md)  [evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") to [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**60 foot
 - **Targets**1 or more creatures

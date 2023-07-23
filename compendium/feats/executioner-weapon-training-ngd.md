@@ -7,7 +7,7 @@ tags:
 aliases: ["Executioner Weapon Training"]
 ---
 # Executioner Weapon Training  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Vigilante Dedication](compendium/feats/vigilante-dedication-apg.md), member of the Gray Gardeners
 

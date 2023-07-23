@@ -13,7 +13,7 @@ tags:
 aliases: ["Fire-jump Ring"]
 ---
 # Fire-jump Ring *Item 10*  
-[conjuration](rules/traits/conjuration.md)  [fire](rules/traits/fire.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [teleportation](rules/traits/teleportation.md)  [uncommon](rules/traits/uncommon.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 940 gp
 - **Usage** worn

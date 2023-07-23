@@ -10,7 +10,7 @@ tags:
 aliases: ["Wasp Guard"]
 ---
 # Wasp Guard *Item 8*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  
+[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 - **Price** 487 gp
 - **Usage** worn armor; **Bulk** 1
@@ -23,7 +23,7 @@ title: Activate [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "R
 
 - **Trigger**: An enemy within 30 feet Strikes you with an attack
 
-**Effect** You animate the exoskeletons of the wasp guard armor into a spectral swarm of wasps that seeks revenge for the slight. The swarm flies to the triggering enemy's space and swarms about them, dealing `1d8` [persistent poison damage](rules/conditions.md#Persistent%20Damage). If the affected enemy has any allies within 30 feet, the enemy can spend a single action, which has the [manipulate](rules/traits/manipulate.md) trait, to shoo the swarm away. This ends the [persistent damage](rules/conditions.md#Persistent%20Damage) on that enemy automatically, but the swarm instead moves to affect the enemy's ally.
+**Effect** You animate the exoskeletons of the wasp guard armor into a spectral swarm of wasps that seeks revenge for the slight. The swarm flies to the triggering enemy's space and swarms about them, dealing `1d8` [persistent poison damage](rules/conditions.md#Persistent%20Damage). If the affected enemy has any allies within 30 feet, the enemy can spend a single action, which has the [manipulate](rules/traits/manipulate.md "Manipulate General Trait") trait, to shoo the swarm away. This ends the [persistent damage](rules/conditions.md#Persistent%20Damage) on that enemy automatically, but the swarm instead moves to affect the enemy's ally.
 ```
 
 *Source: Treasure Vault p. 19*

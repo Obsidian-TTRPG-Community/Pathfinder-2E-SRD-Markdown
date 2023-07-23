@@ -7,7 +7,7 @@ tags:
 aliases: ["Favored Terrain"]
 ---
 # Favored Terrain  *Feat 2*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 
 You have studied a specific terrain to overcome its challenges. Choose aquatic, arctic, desert, forest, mountain, plains, sky, swamp, or underground as your favored terrain. When in that terrain, you can ignore the effects of non-magical difficult terrain.

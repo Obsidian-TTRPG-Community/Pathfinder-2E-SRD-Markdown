@@ -9,7 +9,7 @@ tags:
 aliases: ["Clone Mirrors"]
 ---
 # Clone Mirrors *Hazard 6*  
-[complex](rules/traits/complex.md)  [magical](rules/traits/magical.md)  [trap](rules/traits/trap.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** DC 21  
@@ -26,7 +26,7 @@ Two opposing mirrors spawn illusory duplicates of creatures in the hall in an un
      
 ```ad-embed-ability
 title: Spawn Reflection [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[illusion](rules/traits/illusion.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  
 
 - **Trigger**: A creature is reflected in the mirror
 

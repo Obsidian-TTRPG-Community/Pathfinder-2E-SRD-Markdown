@@ -13,7 +13,7 @@ tags:
 aliases: ["Armor of the Holy Warrior"]
 ---
 # Armor of the Holy Warrior *Item 16*  
-[divine](rules/traits/divine.md)  [good](rules/traits/good.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [rare](rules/traits/rare.md)  
+[divine](rules/traits/divine.md "Divine Tradition Trait")  [good](rules/traits/good.md "Good Alignment Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 9000 gp
 - **Usage** worn armor; **Bulk** 3

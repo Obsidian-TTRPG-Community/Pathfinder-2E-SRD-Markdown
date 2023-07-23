@@ -11,7 +11,7 @@ tags:
 aliases: ["Triangular Teeth"]
 ---
 # Triangular Teeth *Item 2*  
-[abjuration](rules/traits/abjuration.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [tattoo](rules/traits/tattoo-lowg.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [tattoo](rules/traits/tattoo-lowg.md "Tattoo Item Trait")  
 
 - **Price** 33 gp
 - **Usage** tattooed on the body; **Bulk** —
@@ -24,7 +24,7 @@ title: Activate [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "R
 
 - **Trigger**: You would be hit by an attack against your AC
 
-**Effect** You gain a +1 circumstance bonus to AC against the attack, or a +2 circumstance bonus if the attacker is in water or has the amphibious, [aquatic](rules/traits/aquatic-b1.md), or [water](rules/traits/water.md) trait. Whether the attack hits or misses, you gain a +2 status bonus to damage with the next [Strike](rules/actions/strike.md) you make against the attacker before the end of your next turn.
+**Effect** You gain a +1 circumstance bonus to AC against the attack, or a +2 circumstance bonus if the attacker is in water or has the amphibious, [aquatic](rules/traits/aquatic-b1.md "Aquatic Creature Trait"), or [water](rules/traits/water.md "Water Energy & Element Trait") trait. Whether the attack hits or misses, you gain a +2 status bonus to damage with the next [Strike](rules/actions/strike.md) you make against the attacker before the end of your next turn.
 ```
 
 *Source: Treasure Vault p. 122*

@@ -7,7 +7,7 @@ tags:
 aliases: ["Rapid Manifestation"]
 ---
 # Rapid Manifestation  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Soulforger Dedication](compendium/feats/soulforger-dedication-som.md)
 - **Trigger** You roll initiative or a hazard attacks you.

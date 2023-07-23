@@ -10,9 +10,9 @@ tags:
 aliases: ["Healing Plaster"]
 ---
 # Healing Plaster *Cantrip 1*   
-[cantrip](rules/traits/cantrip.md)  [earth](rules/traits/earth.md)  [transmutation](rules/traits/transmutation.md)  
+[cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md)
+- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**5 foot
 - **Targets**a handful of dirt or mud

@@ -15,7 +15,7 @@ You're a specially trained detective for the Edgewatch guard precinct in Absalom
 title: Edgewatch Detective Dedication, Feat 2
 collapse: closed
 # Edgewatch Detective Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: Intelligence 14 or Wisdom 14
 
@@ -24,14 +24,14 @@ You become trained in [Society](compendium/skills.md#Society) or [Thievery](comp
 **Special.** You can't select another dedication feat until you have gained two other feats from the this archetype.
 
 *Source: Agents of Edgewatch #1: Devil at the Dreaming Palace p. 79*  
-%% #trait/uncommon #trait/archetype #trait/dedication %%
+%% #trait/archetype #trait/dedication #trait/uncommon %%
 ```  
 
 ```ad-embed-feat
 title: Sense Alignment, Feat 4
 collapse: closed
 # Sense Alignment  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  [secret](rules/traits/secret.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [secret](rules/traits/secret.md "Secret General Trait")  
 
 - **Prerequisites**: [Edgewatch Detective Dedication](compendium/feats/edgewatch-detective-dedication-aoe1.md)
 - **Activity** Three-Action
@@ -52,11 +52,11 @@ You read the body language of an intelligent creature within 30 feet and pick up
 title: Arcane Sensitivity, Feat 6
 collapse: closed
 # Arcane Sensitivity  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Edgewatch Detective Dedication](compendium/feats/edgewatch-detective-dedication-aoe1.md)
 
-You can sense the presence of the supernatural, even if you don't have any magical ability yourself. You can spend a single action (this action has the [concentrate](rules/traits/concentrate.md) trait) to determine if any magical auras are present in the area.
+You can sense the presence of the supernatural, even if you don't have any magical ability yourself. You can spend a single action (this action has the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") trait) to determine if any magical auras are present in the area.
 
 This has the effects of a 1st-level [detect magic](compendium/spells/detect-magic.md) spell but isn't magical. By straining, you can also discover the source of the magic and its school (with the effect of a 4th-level [detect magic](compendium/spells/detect-magic.md) spell), but doing so prevents you from using this ability again until you've rested for 8 hours.
 
@@ -68,7 +68,7 @@ This has the effects of a 1st-level [detect magic](compendium/spells/detect-magi
 title: Bolera's Interrogation, Feat 6
 collapse: closed
 # Bolera's Interrogation  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Edgewatch Detective Dedication](compendium/feats/edgewatch-detective-dedication-aoe1.md)
 - **Frequency**: three per day

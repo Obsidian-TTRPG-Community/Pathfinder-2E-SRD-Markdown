@@ -9,7 +9,7 @@ tags:
 aliases: ["Dragon's Crest"]
 ---
 # Dragon's Crest *Item 1*  
-[adjustment](rules/traits/adjustment-lotgb.md)  [uncommon](rules/traits/uncommon.md)  
+[adjustment](rules/traits/adjustment-lotgb.md "Adjustment  Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 10 gp
 - **Usage** applied to a shield

@@ -8,7 +8,7 @@ tags:
 aliases: ["Devil's Eye"]
 ---
 # Devil's Eye  *Feat 4*  
-[aftermath](rules/traits/aftermath-da.md)  [rare](rules/traits/rare.md)  
+[aftermath](rules/traits/aftermath-da.md "Aftermath Class Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Prerequisites**: You made a bargain with a devil or won a legal case or other similar duel of wits against a devil.
 
@@ -18,9 +18,9 @@ You gain the Objection reaction. You also become an expert in [Legal Lore](compe
 
 ```ad-embed-ability
 title: Objection [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[fortune](rules/traits/fortune.md)  
+[fortune](rules/traits/fortune.md "Fortune Effect Trait")  
 
-- **Trigger**: You're about to attempt a saving throw against a [linguistic](rules/traits/linguistic.md) effect
+- **Trigger**: You're about to attempt a saving throw against a [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait") effect
 
 **Effect** Your devil's eye crackles with infernal glee as you discover a loophole in the wording of the triggering effect. You roll your saving throw twice, taking the higher result.  
 %% #trait/fortune %%

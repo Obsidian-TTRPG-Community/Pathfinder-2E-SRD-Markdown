@@ -7,7 +7,7 @@ tags:
 aliases: ["Perfect Dive"]
 ---
 # Perfect Dive  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
-[azarketi](rules/traits/azarketi-loag.md)  
+[azarketi](rules/traits/azarketi-loag.md "Azarketi Ancestry & Heritage Trait")  
 
 - **Activity** Single Action
 

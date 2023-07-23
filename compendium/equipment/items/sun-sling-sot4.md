@@ -10,7 +10,7 @@ tags:
 aliases: ["Sun Sling"]
 ---
 # Sun Sling *Item 0*  
-[propulsive](rules/traits/propulsive.md)  [uncommon](rules/traits/uncommon.md)  concussive  
+[propulsive](rules/traits/propulsive.md "Propulsive Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  concussive  
 
 - **Price** 3 gp
 - **Bulk** L

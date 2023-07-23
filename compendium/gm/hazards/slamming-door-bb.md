@@ -22,7 +22,7 @@ Pressure-sensitive panels in the floor connect to a stone slab hidden in a hallw
      
 ```ad-embed-ability
 title: Slam Shut [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[attack](rules/traits/attack.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  
 
 When pressure is placed on any floor tile, the door falls, closing off the hallway. The stone slab deals `3d8` bludgeoning damage to anyone beneath or adjacent to the slab when it drops and pushes them out of its space in a random direction. A creature that succeeds at a DC 17 Reflex save takes no damage and rolls out of the way in a random direction. On a critical success, they roll out of the way and can choose which direction.
 

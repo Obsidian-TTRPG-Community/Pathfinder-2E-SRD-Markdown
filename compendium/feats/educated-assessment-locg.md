@@ -8,7 +8,7 @@ tags:
 aliases: ["Educated Assessment"]
 ---
 # Educated Assessment  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 12*  
-[archetype](rules/traits/archetype.md)  [secret](rules/traits/secret.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [secret](rules/traits/secret.md "Secret General Trait")  
 
 - **Prerequisites**: [Pathfinder Agent Dedication](compendium/feats/pathfinder-agent-dedication-lowg.md)
 - **Activity** Single Action

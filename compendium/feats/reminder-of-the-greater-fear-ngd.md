@@ -8,7 +8,7 @@ tags:
 aliases: ["Reminder of the Greater Fear"]
 ---
 # Reminder of the Greater Fear  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
-[archetype](rules/traits/archetype.md)  [vigilante](rules/traits/vigilante-apg.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [vigilante](rules/traits/vigilante-apg.md "Vigilante Feat Trait")  
 
 - **Prerequisites**: master in [Intimidation](compendium/skills.md#Intimidation), [Vigilante Dedication](compendium/feats/vigilante-dedication-apg.md)
 - **Frequency**: once per 10 minutes

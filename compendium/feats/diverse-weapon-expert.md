@@ -7,7 +7,7 @@ tags:
 aliases: ["Diverse Weapon Expert"]
 ---
 # Diverse Weapon Expert  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Fighter Dedication](compendium/feats/fighter-dedication.md), expert in any kind of weapon or unarmed attack
 

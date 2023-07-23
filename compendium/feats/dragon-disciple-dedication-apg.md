@@ -9,7 +9,7 @@ tags:
 aliases: ["Dragon Disciple Dedication"]
 ---
 # Dragon Disciple Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: You are a kobold with the dragonscaled or spellscaled heritage, a dragon instinct barbarian, or a draconic bloodline sorcerer.
 
@@ -28,7 +28,7 @@ You choose to study or worship one type of dragon, and your focus grants you a m
 > [!pf2-note]
 > [^1]Mwangi Expanse, p.76
 
-You also gain a +1 circumstance bonus to saving throws against [sleep](rules/traits/sleep.md) effects and effects that would make you [paralyzed](rules/conditions.md#Paralyzed).
+You also gain a +1 circumstance bonus to saving throws against [sleep](rules/traits/sleep.md "Sleep Effect Trait") effects and effects that would make you [paralyzed](rules/conditions.md#Paralyzed).
 
 **Special.** You can't select another dedication feat until you have gained two other feats from the dragon disciple archetype. If you later take the [sorcerer archetype](compendium/character/archetypes/sorcerer.md), you must choose the draconic bloodline.
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Shared Attunement"]
 ---
 # Shared Attunement  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Geomancer Dedication](compendium/feats/geomancer-dedication-som.md)
 

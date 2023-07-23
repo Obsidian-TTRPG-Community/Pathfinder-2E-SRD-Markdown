@@ -10,7 +10,7 @@ tags:
 aliases: ["Reveal Hidden Self"]
 ---
 # Reveal Hidden Self  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 5*  
-[concentrate](rules/traits/concentrate.md)  [divine](rules/traits/divine.md)  [illusion](rules/traits/illusion.md)  [tiefling](rules/traits/tiefling-b1.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [tiefling](rules/traits/tiefling-b1.md "Tiefling Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Beastbrood](compendium/feats/beastbrood-loag.md)
 - **Frequency**: once per day

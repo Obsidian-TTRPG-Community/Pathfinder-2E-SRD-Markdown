@@ -10,7 +10,7 @@ tags:
 aliases: ["Magic's Vessel"]
 ---
 # Magic's Vessel *Focus 1*   
-[cleric](rules/traits/cleric.md)  [enchantment](rules/traits/enchantment.md)  [uncommon](rules/traits/uncommon.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Domains**: [magic](compendium/setting/domains.md#Magic)
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 

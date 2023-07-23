@@ -9,7 +9,7 @@ tags:
 aliases: ["Pacifying"]
 ---
 # Pacifying *Item 5*  
-[enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 150 gp
 - **Usage** etched onto a weapon
@@ -19,7 +19,7 @@ This rune turns weapons into instruments of peacemaking.
 
 ```ad-embed-ability
 title: Activate [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[mental](rules/traits/mental.md)  
+[mental](rules/traits/mental.md "Mental Effect Trait")  
 
 - **Trigger**: You damage a creature with the etched weapon
 

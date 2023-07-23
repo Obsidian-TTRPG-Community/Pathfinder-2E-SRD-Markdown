@@ -8,9 +8,9 @@ tags:
 aliases: ["Time Sense"]
 ---
 # Time Sense *Spell 1*   
-[divination](rules/traits/divination.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 
 When you [Cast the Spell](rules/actions/cast-a-spell.md), you gain a perfect sense of time. You can learn exactly what time it is, down to the second. You can instead choose to gain a perfect sense of the calendar if you have knowledge in that area—if you're trained in [Nature](compendium/skills.md#Nature), you can learn exactly how long it is until sunrise and how many days until the next solstice. If you're trained in [Astronomy Lore](compendium/skills.md#Lore), you can learn precisely when any known predictable astronomical conjunction will begin and end, and so on.

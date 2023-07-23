@@ -9,7 +9,7 @@ tags:
 aliases: ["Call Spirit"]
 ---
 # Call Spirit *Ritual 5*  
-[necromancy](rules/traits/necromancy.md)  [uncommon](rules/traits/uncommon.md)  
+[necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** 1 hour
 - **Cost** rare candles and incense worth a total value of 50 gp

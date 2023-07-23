@@ -11,7 +11,7 @@ tags:
 aliases: ["Staff of Power"]
 ---
 # Staff of Power *Item 16*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  [staff](rules/traits/staff.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  
 
 - **Price** 10000 gp
 - **Usage** held in 1 hand; **Bulk** 1
@@ -21,7 +21,7 @@ This staff of magically hardened wood is topped with a silver sculpture depictin
 
 Voluntarily destroying a staff of power unleashes an incredible blast of energy. When wielding the staff, you can [Interact](rules/actions/interact.md) to break it. This releases a 30-foot-burst magical explosion centered on the staff. This deals `2d8` force damage per charge remaining in the staff (DC 40 basic Reflex save)
 
-You automatically critically fail your save. A creature reduced to 0 Hit Points by this damage dies instantly; this is a [death](rules/traits/death.md) effect.
+You automatically critically fail your save. A creature reduced to 0 Hit Points by this damage dies instantly; this is a [death](rules/traits/death.md "Death Effect Trait") effect.
 
 ```ad-embed-ability
 title: Activate

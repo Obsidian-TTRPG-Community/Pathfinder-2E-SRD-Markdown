@@ -9,7 +9,7 @@ tags:
 aliases: ["Avalanche Strike"]
 ---
 # Avalanche Strike  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 16*  
-[archetype](rules/traits/archetype.md)  [flourish](rules/traits/flourish.md)  [open](rules/traits/open.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  [open](rules/traits/open.md "Open Combat Trait")  
 
 - **Prerequisites**: [Mauler Dedication](compendium/feats/mauler-dedication-apg.md)
 - **Requirements**: You are wielding a melee weapon in two hands.

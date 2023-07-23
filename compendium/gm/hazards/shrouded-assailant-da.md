@@ -8,7 +8,7 @@ tags:
 aliases: ["Shrouded Assailant"]
 ---
 # Shrouded Assailant *Hazard 17*  
-[complex](rules/traits/complex.md)  [haunt](rules/traits/haunt.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** DC 43  
@@ -25,7 +25,7 @@ A spirit steps out of a covered mirror, pulling off and becoming shrouded in the
      
 ```ad-embed-ability
 title: Don Shroud [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[occult](rules/traits/occult.md)  
+[occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 - **Trigger**: A creature enters the area
 

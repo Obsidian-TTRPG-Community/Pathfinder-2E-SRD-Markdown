@@ -10,7 +10,7 @@ tags:
 aliases: ["Ooze Ammunition"]
 ---
 # Ooze Ammunition *Item 2+*  
-[acid](rules/traits/acid.md)  [alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  
+[acid](rules/traits/acid.md "Acid Energy & Element Trait")  [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  
 
 - **Ammunition** any
 - **Activate** [Interact](rules/actions/interact.md)

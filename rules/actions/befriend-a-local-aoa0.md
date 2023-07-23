@@ -10,7 +10,7 @@ tags:
 aliases: ["Befriend a Local"]
 ---
 # Befriend a Local
-[concentrate](rules/traits/concentrate.md)  [downtime](rules/traits/downtime.md)  [linguistic](rules/traits/linguistic.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  
 *Source: Age of Ashes Player's Guide p. 9*  
 
 

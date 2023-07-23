@@ -9,7 +9,7 @@ tags:
 aliases: ["Skeptic's Defense"]
 ---
 # Skeptic's Defense  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 7*  
-[general](rules/traits/general.md)  [skill](rules/traits/skill.md)  [uncommon](rules/traits/uncommon.md)  
+[general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: master in [Intimidation](compendium/skills.md#Intimidation)
 - **Frequency**: once per day

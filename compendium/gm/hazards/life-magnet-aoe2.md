@@ -9,7 +9,7 @@ tags:
 aliases: ["Life Magnet"]
 ---
 # Life Magnet *Hazard 7*  
-[complex](rules/traits/complex.md)  [magical](rules/traits/magical.md)  [trap](rules/traits/trap.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +17 expert  

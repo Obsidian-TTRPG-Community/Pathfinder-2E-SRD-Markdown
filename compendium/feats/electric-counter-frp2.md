@@ -10,7 +10,7 @@ tags:
 aliases: ["Electric Counter"]
 ---
 # Electric Counter  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 16*  
-[evocation](rules/traits/evocation.md)  [monk](rules/traits/monk.md)  [uncommon](rules/traits/uncommon.md)  electric  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  electric  
 
 - **Prerequisites**: [Wild Winds Initiate](compendium/feats/wild-winds-initiate.md)
 - **Trigger** You would take damage.

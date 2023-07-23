@@ -7,7 +7,7 @@ tags:
 aliases: ["Idol Threat"]
 ---
 # Idol Threat  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 13*  
-[tiefling](rules/traits/tiefling-b1.md)  
+[tiefling](rules/traits/tiefling-b1.md "Tiefling Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Beastbrood](compendium/feats/beastbrood-loag.md)
 - **Requirements**: You're holding something sacred or precious to a creature, such as a relic or personal depiction of their deity or a precious personal memento.

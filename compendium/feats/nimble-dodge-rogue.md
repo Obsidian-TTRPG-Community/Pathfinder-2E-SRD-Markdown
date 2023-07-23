@@ -7,7 +7,7 @@ tags:
 aliases: ["Nimble Dodge (Rogue)"]
 ---
 # Nimble Dodge (Rogue)  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Trigger** A creature targets you with an attack and you can see the attacker.
 - **Requirements**: You are not [encumbered](rules/conditions.md#Encumbered).

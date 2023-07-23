@@ -10,7 +10,7 @@ tags:
 aliases: ["Implacable"]
 ---
 # Implacable *Item 11*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1200 gp
 - **Usage** etched onto medium or heavy armor

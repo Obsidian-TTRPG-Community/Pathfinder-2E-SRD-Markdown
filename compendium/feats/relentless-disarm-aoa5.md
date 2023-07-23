@@ -7,7 +7,7 @@ tags:
 aliases: ["Relentless Disarm"]
 ---
 # Relentless Disarm  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Zephyr Guard Dedication](compendium/feats/zephyr-guard-dedication-aoa5.md), trained in [Athletics](compendium/skills.md#Athletics)
 

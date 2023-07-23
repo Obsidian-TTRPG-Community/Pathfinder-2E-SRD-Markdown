@@ -7,7 +7,7 @@ tags:
 aliases: ["Armor Proficiency"]
 ---
 # Armor Proficiency  *Feat 1*  
-[general](rules/traits/general.md)  
+[general](rules/traits/general.md "General Feat Trait")  
 
 
 You become trained in light armor. If you already were trained in light armor, you gain training in medium armor. If you were trained in both, you become trained in heavy armor.

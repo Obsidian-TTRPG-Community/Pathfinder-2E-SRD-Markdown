@@ -7,7 +7,7 @@ tags:
 aliases: ["Lesser Enhance Venom"]
 ---
 # Lesser Enhance Venom  *Feat 1*  
-[vishkanya](rules/traits/vishkanya-loil.md)  
+[vishkanya](rules/traits/vishkanya-loil.md "Vishkanya Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Envenom](rules/actions/envenom-loil.md)
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Velstrac Magic"]
 ---
 # Velstrac Magic  *Feat 9*  
-[tiefling](rules/traits/tiefling-b1.md)  
+[tiefling](rules/traits/tiefling-b1.md "Tiefling Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Shackleborn](compendium/feats/shackleborn-loag.md)
 

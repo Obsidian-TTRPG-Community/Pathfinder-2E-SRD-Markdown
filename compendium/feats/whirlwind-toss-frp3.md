@@ -9,7 +9,7 @@ tags:
 aliases: ["Whirlwind Toss"]
 ---
 # Whirlwind Toss  *Feat 20*  
-[barbarian](rules/traits/barbarian.md)  [rage](rules/traits/rage.md)  [uncommon](rules/traits/uncommon.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [rage](rules/traits/rage.md "Rage Combat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Collateral Thrash](compendium/feats/collateral-thrash.md)
 - **Requirements**: You have a foe [grabbed](rules/conditions.md#Grabbed).

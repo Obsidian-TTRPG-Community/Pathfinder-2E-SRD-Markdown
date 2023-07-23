@@ -10,7 +10,7 @@ tags:
 aliases: ["Gamepiece Chariot"]
 ---
 # Gamepiece Chariot *Item 11*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 1200 gp
 - **Usage** held in one hand; **Bulk** —

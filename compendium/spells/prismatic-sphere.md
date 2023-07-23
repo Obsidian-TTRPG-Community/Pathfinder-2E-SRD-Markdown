@@ -9,9 +9,9 @@ tags:
 aliases: ["Prismatic Sphere"]
 ---
 # Prismatic Sphere *Spell 9*   
-[abjuration](rules/traits/abjuration.md)  [light](rules/traits/light.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [light](rules/traits/light.md "Light Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**10 foot
 - **Duration**1 hour

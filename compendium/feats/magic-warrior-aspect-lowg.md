@@ -7,7 +7,7 @@ tags:
 aliases: ["Magic Warrior Aspect"]
 ---
 # Magic Warrior Aspect  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Magic Warrior Dedication](compendium/feats/magic-warrior-dedication-lowg.md)
 

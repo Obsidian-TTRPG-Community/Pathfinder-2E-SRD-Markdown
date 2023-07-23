@@ -15,7 +15,7 @@ Some say that a good offense is the best defense, but you find such boasting sma
 title: Bastion Dedication, Feat 2
 collapse: closed
 # Bastion Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: [Shield Block](compendium/feats/shield-block.md)
 
@@ -33,7 +33,7 @@ This fulfills any prerequisites requiring [Reactive Shield](compendium/feats/rea
 title: Disarming Block, Feat 4
 collapse: closed
 # Disarming Block  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Bastion Dedication](compendium/feats/bastion-dedication-apg.md), trained in [Athletics](compendium/skills.md#Athletics)
 - **Trigger** You [Shield Block](compendium/feats/shield-block.md) a melee [Strike](rules/actions/strike.md) made with a held weapon.
@@ -49,7 +49,7 @@ You attempt to [Disarm](rules/actions/disarm.md) the creature whose attack you b
 title: Nimble Shield Hand, Feat 6
 collapse: closed
 # Nimble Shield Hand  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Bastion Dedication](compendium/feats/bastion-dedication-apg.md)
 
@@ -63,7 +63,7 @@ You are so used to wielding a shield that you can do so even while using the han
 title: Shielded Stride, Feat 6*
 collapse: closed
 # Shielded Stride  *Feat 6*  
-[fighter](rules/traits/fighter.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 > [!pf2-note] This version of [Shielded Stride](compendium/feats/shielded-stride.md) is intended for use with the Bastion Archetype. Its level has been changed accordingly.
 
@@ -78,7 +78,7 @@ When your shield is up, your enemies' blows can't touch you. When you have your 
 title: Reflexive Shield, Feat 8*
 collapse: closed
 # Reflexive Shield  *Feat 8*  
-[fighter](rules/traits/fighter.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 > [!pf2-note] This version of [Reflexive Shield](compendium/feats/reflexive-shield.md) is intended for use with the Bastion Archetype. Its level has been changed accordingly.
 
@@ -93,7 +93,7 @@ You can use your shield to fend off the worst of area effects and other damage. 
 title: Shield Warden (Fighter), Feat 8*
 collapse: closed
 # Shield Warden (Fighter)  *Feat 8*  
-[fighter](rules/traits/fighter.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 > [!pf2-note] This version of [Shield Warden (Fighter)](compendium/feats/shield-warden-fighter.md) is intended for use with the Bastion Archetype. Its level has been changed accordingly.
 
@@ -109,7 +109,7 @@ You use your shield to protect your allies. When you have a [shield raised](rule
 title: Destructive Block, Feat 10
 collapse: closed
 # Destructive Block  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Bastion Dedication](compendium/feats/bastion-dedication-apg.md)
 
@@ -123,7 +123,7 @@ You can protect yourself more effectively, at the expense of your shield. When y
 title: Quick Shield Block (Fighter), Feat 10*
 collapse: closed
 # Quick Shield Block (Fighter)  *Feat 10*  
-[fighter](rules/traits/fighter.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 > [!pf2-note] This version of [Quick Shield Block (Fighter)](compendium/feats/quick-shield-block-fighter.md) is intended for use with the Bastion Archetype. Its level has been changed accordingly.
 
@@ -139,7 +139,7 @@ You can bring your shield into place with hardly a thought. At the start of each
 title: Mirror Shield, Feat 12*
 collapse: closed
 # Mirror Shield  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 12*  
-[fighter](rules/traits/fighter.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 > [!pf2-note] This version of [Mirror Shield](compendium/feats/mirror-shield.md) is intended for use with the Bastion Archetype. Its level has been changed accordingly.
 
@@ -157,7 +157,7 @@ You reflect the spell back against the triggering opponent. Make a ranged attack
 title: Shield Salvation, Feat 12*
 collapse: closed
 # Shield Salvation  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Shield Salvation](compendium/feats/shield-salvation-apg.md) is intended for use with the Bastion Archetype. Its level has been changed accordingly.
 

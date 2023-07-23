@@ -10,7 +10,7 @@ tags:
 aliases: ["Glean Lore"]
 ---
 # Glean Lore  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
-[divination](rules/traits/divination.md)  [divine](rules/traits/divine.md)  [oracle](rules/traits/oracle-apg.md)  [secret](rules/traits/secret.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  [secret](rules/traits/secret.md "Secret General Trait")  
 
 - **Activity** Single Action
 

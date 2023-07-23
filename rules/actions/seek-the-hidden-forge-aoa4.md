@@ -9,7 +9,7 @@ tags:
 aliases: ["Seek the Hidden Forge"]
 ---
 # Seek the Hidden Forge
-[downtime](rules/traits/downtime.md)  [secret](rules/traits/secret.md)  
+[downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [secret](rules/traits/secret.md "Secret General Trait")  
 *Source: Age of Ashes #4: Fires of the Haunted City p. 18*  
 
 - **Requirements**: At least one Hidden Forge clue.

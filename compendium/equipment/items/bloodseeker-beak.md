@@ -11,7 +11,7 @@ tags:
 aliases: ["Bloodseeker Beak"]
 ---
 # Bloodseeker Beak *Item 4*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [talisman](rules/traits/talisman.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  
 
 - **Price** 20 gp
 - **Usage** affixed to a weapon; **Bulk** —

@@ -7,7 +7,7 @@ tags:
 aliases: ["Snagging Strike"]
 ---
 # Snagging Strike  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
-[fighter](rules/traits/fighter.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 - **Requirements**: You have one hand free, and your target is within reach of that hand.
 - **Activity** Single Action

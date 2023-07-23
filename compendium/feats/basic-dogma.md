@@ -7,7 +7,7 @@ tags:
 aliases: ["Basic Dogma"]
 ---
 # Basic Dogma  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Cleric Dedication](compendium/feats/cleric-dedication.md)
 

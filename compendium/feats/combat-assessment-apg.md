@@ -7,7 +7,7 @@ tags:
 aliases: ["Combat Assessment"]
 ---
 # Combat Assessment  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
-[fighter](rules/traits/fighter.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 - **Activity** Single Action
 

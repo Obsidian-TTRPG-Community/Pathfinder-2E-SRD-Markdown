@@ -7,10 +7,10 @@ tags:
 aliases: ["Orc Warmask"]
 ---
 # Orc Warmask  *Feat 1*  
-[orc](rules/traits/orc.md)  
+[orc](rules/traits/orc.md "Orc Ancestry & Heritage Trait")  
 
 
-You paint your face to create a warmask, an invested magic item of negligible Bulk with an item level equal to your level and a usage of worn (mask). It has the [divination](rules/traits/divination.md) trait and a magical tradition trait depending on its type. Donning or removing your warmask requires 1 minute of work, though you don't need to Invest the mask each time. The warmask is unique to you and might signify your hold, your accomplishments, or your faith. While creating your mask, you must choose the source of your warmask's power from the options below. This source determines the mask's associated skill as well as magical tradition.
+You paint your face to create a warmask, an invested magic item of negligible Bulk with an item level equal to your level and a usage of worn (mask). It has the [divination](rules/traits/divination.md "Divination School Trait") trait and a magical tradition trait depending on its type. Donning or removing your warmask requires 1 minute of work, though you don't need to Invest the mask each time. The warmask is unique to you and might signify your hold, your accomplishments, or your faith. While creating your mask, you must choose the source of your warmask's power from the options below. This source determines the mask's associated skill as well as magical tradition.
 
 Once you select this source, it can't be changed. You become trained in the associated skill, and you gain the [Dubious Knowledge](compendium/feats/dubious-knowledge.md) skill feat as a bonus feat.
 

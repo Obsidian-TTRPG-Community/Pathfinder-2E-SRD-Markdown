@@ -8,7 +8,7 @@ tags:
 aliases: ["Soul Flare"]
 ---
 # Soul Flare  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 4*  
-[archetype](rules/traits/archetype.md)  [concentrate](rules/traits/concentrate.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
 
 - **Prerequisites**: [Soulforger Dedication](compendium/feats/soulforger-dedication-som.md)
 - **Trigger** An attack you made with a soulforged weapon or shield misses a creature, or a creature hits you with an attack while you're either wearing manifested soulforged armor or have your soulforged shield raised.

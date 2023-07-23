@@ -7,7 +7,7 @@ tags:
 aliases: ["Auspicious Mount"]
 ---
 # Auspicious Mount  *Feat 16*  
-[champion](rules/traits/champion.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  
 
 - **Prerequisites**: divine ally (steed), [Imposing Destrier](compendium/feats/imposing-destrier.md)
 

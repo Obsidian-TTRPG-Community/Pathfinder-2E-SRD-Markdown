@@ -8,9 +8,9 @@ tags:
 aliases: ["Bilocation"]
 ---
 # Bilocation *Spell 9*   
-[conjuration](rules/traits/conjuration.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Duration**10 minutes
 

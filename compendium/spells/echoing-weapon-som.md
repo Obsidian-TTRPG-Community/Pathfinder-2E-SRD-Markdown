@@ -9,9 +9,9 @@ tags:
 aliases: ["Echoing Weapon"]
 ---
 # Echoing Weapon *Spell 1*   
-[evocation](rules/traits/evocation.md)  [sonic](rules/traits/sonic.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [divine](rules/traits/divine.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**touch
 - **Targets**1 weapon

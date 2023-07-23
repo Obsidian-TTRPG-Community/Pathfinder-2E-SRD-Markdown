@@ -10,7 +10,7 @@ tags:
 aliases: ["Healing Vapor"]
 ---
 # Healing Vapor *Item 4+*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [healing](rules/traits/healing.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  
 
 - **Usage** held in 2 hands; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md)

@@ -10,7 +10,7 @@ tags:
 aliases: ["Firebrand Braggart Dedication"]
 ---
 # Firebrand Braggart Dedication  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [misfortune](rules/traits/misfortune.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [misfortune](rules/traits/misfortune.md "Misfortune Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: Charisma 14, second mark member of the Firebrands
 - **Activity** Single Action

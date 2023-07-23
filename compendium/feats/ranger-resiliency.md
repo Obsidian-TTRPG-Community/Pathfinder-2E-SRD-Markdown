@@ -7,7 +7,7 @@ tags:
 aliases: ["Ranger Resiliency"]
 ---
 # Ranger Resiliency  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Ranger Dedication](compendium/feats/ranger-dedication.md), class granting no more Hit Points per level than 8 + your Constitution modifier
 

@@ -9,7 +9,7 @@ tags:
 aliases: ["Dispel a Disguise"]
 ---
 # Dispel a Disguise
-[exploration](rules/traits/exploration.md)  [secret](rules/traits/secret.md)  
+[exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [secret](rules/traits/secret.md "Secret General Trait")  
 *Source: Age of Ashes #5: Against the Scarlet Triad p. 27*  
 
 - **Requirements**: When Blending In or using a [Cunning Disguise](rules/actions/cunning-disguise-aoa5.md), a PC has noticed something is off about a guest.

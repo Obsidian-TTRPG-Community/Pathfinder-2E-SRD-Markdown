@@ -7,7 +7,7 @@ tags:
 aliases: ["Flashing Shield"]
 ---
 # Flashing Shield  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Lastwall Sentry Dedication](compendium/feats/lastwall-sentry-dedication-lowg.md), you worship a good-aligned deity
 - **Trigger** You use the Shield Block reaction, and the opponent that triggered the Shield Block is undead and adjacent to you.

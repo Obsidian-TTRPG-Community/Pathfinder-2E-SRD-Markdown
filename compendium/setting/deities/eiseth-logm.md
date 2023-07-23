@@ -10,12 +10,12 @@ tags:
 - domain/zeal/deity
 aliases: ["Eiseth", "The Erinyes Queen"]
 ---
-# Eiseth (The Erinyes Queen) *([LE](rules/traits/lawful-evil-b1.md))*  
+# Eiseth (The Erinyes Queen) *([LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 75*  
 
 - **Category**: Queens of the Night
 - **Anathema**: allow a slight to go unanswered, show humility or fear
-- **Follower Alignments**: [LE](rules/traits/lawful-evil-b1.md)
+- **Follower Alignments**: [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait")
 
 ## Devotee benefits
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Improved Command Undead"]
 ---
 # Improved Command Undead  *Feat 10*  
-[cleric](rules/traits/cleric.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  
 
 - **Prerequisites**: harmful font, [Command Undead](compendium/feats/command-undead.md), evil alignment
 

@@ -11,9 +11,9 @@ tags:
 aliases: ["Infectious Melody"]
 ---
 # Infectious Melody *Spell 4*   
-[auditory](rules/traits/auditory.md)  [enchantment](rules/traits/enchantment.md)  [mental](rules/traits/mental.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions**: [occult](rules/traits/occult.md)
+- **Traditions**: [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**15-foot emanation
 - **Targets**enemies in the area

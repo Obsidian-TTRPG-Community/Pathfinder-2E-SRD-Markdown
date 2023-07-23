@@ -10,12 +10,12 @@ tags:
 - domain/wyrmkin/deity
 aliases: ["Geryon", "The Serpent"]
 ---
-# Geryon (The Serpent) *([LE](rules/traits/lawful-evil-b1.md))*  
+# Geryon (The Serpent) *([LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 75*  
 
 - **Category**: Archdevils
 - **Anathema**: declare knowledge heresy or forbidden, break your word
-- **Follower Alignments**: [LE](rules/traits/lawful-evil-b1.md)
+- **Follower Alignments**: [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait")
 
 ## Devotee benefits
 

@@ -10,7 +10,7 @@ tags:
 aliases: ["Endless Grimoire"]
 ---
 # Endless Grimoire *Item 6+*  
-[divination](rules/traits/divination.md)  [grimoire](rules/traits/grimoire-som.md)  [magical](rules/traits/magical.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [grimoire](rules/traits/grimoire-som.md "Grimoire Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Bulk** L
 - **Category** Grimoire

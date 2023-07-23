@@ -9,9 +9,9 @@ tags:
 aliases: ["Dream Message"]
 ---
 # Dream Message *Spell 3*   
-[enchantment](rules/traits/enchantment.md)  [mental](rules/traits/mental.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [divine](rules/traits/divine.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 10 minutes 
 - **Range**planetary
 - **Targets**1 creature you know by name and have met in person

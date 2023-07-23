@@ -7,7 +7,7 @@ tags:
 aliases: ["Share Eidolon Magic"]
 ---
 # Share Eidolon Magic  *Feat 14*  
-[summoner](rules/traits/summoner-som.md)  
+[summoner](rules/traits/summoner-som.md "Summoner Class Trait")  
 
 - **Prerequisites**: [Magical Understudy](compendium/feats/magical-understudy-som.md)
 

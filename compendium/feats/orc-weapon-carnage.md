@@ -7,7 +7,7 @@ tags:
 aliases: ["Orc Weapon Carnage"]
 ---
 # Orc Weapon Carnage  *Feat 5*  
-[orc](rules/traits/orc.md)  
+[orc](rules/traits/orc.md "Orc Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Orc Weapon Familiarity](compendium/feats/orc-weapon-familiarity.md)
 

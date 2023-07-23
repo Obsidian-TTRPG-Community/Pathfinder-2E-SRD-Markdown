@@ -9,7 +9,7 @@ tags:
 aliases: ["Conceal an Object"]
 ---
 # Conceal an Object (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[manipulate](rules/traits/manipulate.md)  [secret](rules/traits/secret.md)  
+[manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [secret](rules/traits/secret.md "Secret General Trait")  
 *Source: Core Rulebook p. 251*  
 
 **Skill** [stealth](compendium/skills.md#Stealth) (untrained)

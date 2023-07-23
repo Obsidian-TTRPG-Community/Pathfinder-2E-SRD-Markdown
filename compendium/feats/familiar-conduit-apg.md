@@ -9,7 +9,7 @@ tags:
 aliases: ["Familiar Conduit"]
 ---
 # Familiar Conduit  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  [concentrate](rules/traits/concentrate.md)  [metamagic](rules/traits/metamagic.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 - **Prerequisites**: [Familiar Master Dedication](compendium/feats/familiar-master-dedication-apg.md), able to cast spells
 - **Requirements**: You have line of effect to your familiar.

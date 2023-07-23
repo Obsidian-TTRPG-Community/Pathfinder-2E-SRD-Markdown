@@ -7,7 +7,7 @@ tags:
 aliases: ["Glimpse Grave"]
 ---
 # Glimpse Grave *Hazard 20*  
-[haunt](rules/traits/haunt.md)  
+[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 48 master to notice the words on the tombstone waver  
@@ -18,7 +18,7 @@ A tombstone bears the name of those who look upon it, causing their hearts to se
      
 ```ad-embed-ability
 title: Stop Heart [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[death](rules/traits/death.md)  [illusion](rules/traits/illusion.md)  [incapacitation](rules/traits/incapacitation.md)  [linguistic](rules/traits/linguistic.md)  [occult](rules/traits/occult.md)  [visual](rules/traits/visual.md)  
+[death](rules/traits/death.md "Death Effect Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Trigger**: A creature reads or touches the tombstone
 

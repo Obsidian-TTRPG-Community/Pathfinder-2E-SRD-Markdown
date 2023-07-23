@@ -10,12 +10,12 @@ tags:
 - domain/perfection/deity
 aliases: ["Otolmens", "The Universal"]
 ---
-# Otolmens (The Universal) *([LN](rules/traits/lawful-neutral-b1.md))*  
+# Otolmens (The Universal) *([LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 130*  
 
 - **Category**: Monitor Demigods
 - **Anathema**: suppress a factual report, ignore facts, misrepresent quantitative data
-- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [LN](rules/traits/lawful-neutral-b1.md)
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait")
 
 ## Devotee benefits
 

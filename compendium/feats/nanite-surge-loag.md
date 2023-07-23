@@ -8,7 +8,7 @@ tags:
 aliases: ["Nanite Surge"]
 ---
 # Nanite Surge  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
-[android](rules/traits/android-loag.md)  [concentrate](rules/traits/concentrate.md)  
+[android](rules/traits/android-loag.md "Android Ancestry & Heritage Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
 
 - **Frequency**: once per hour
 - **Trigger** You attempt a skill check requiring three actions or fewer.

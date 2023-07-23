@@ -7,7 +7,7 @@ tags:
 aliases: ["Tiger Slash"]
 ---
 # Tiger Slash  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 6*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Prerequisites**: [Tiger Stance](compendium/feats/tiger-stance.md)
 - **Requirements**: You are in Tiger Stance.

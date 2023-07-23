@@ -9,7 +9,7 @@ tags:
 aliases: ["Daikyu"]
 ---
 # Daikyu *Item 0*  
-[propulsive](rules/traits/propulsive.md)  [uncommon](rules/traits/uncommon.md)  
+[propulsive](rules/traits/propulsive.md "Propulsive Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 8 gp
 - **Bulk** 2

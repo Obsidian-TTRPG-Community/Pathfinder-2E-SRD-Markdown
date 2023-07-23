@@ -8,7 +8,7 @@ tags:
 aliases: ["Bless Shield"]
 ---
 # Bless Shield  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  [divine](rules/traits/divine.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  
 
 - **Prerequisites**: [Lastwall Sentry Dedication](compendium/feats/lastwall-sentry-dedication-lowg.md), you worship a good-aligned deity
 - **Activity** Single Action

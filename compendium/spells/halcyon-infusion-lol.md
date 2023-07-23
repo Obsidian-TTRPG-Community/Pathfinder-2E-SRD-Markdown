@@ -10,9 +10,9 @@ tags:
 aliases: ["Halcyon Infusion"]
 ---
 # Halcyon Infusion *Spell 6*   
-[divination](rules/traits/divination.md)  [mental](rules/traits/mental.md)  [rare](rules/traits/rare.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** 10 minutes 
 - **Range**touch
 - **Targets**one willing creature of lower level than you

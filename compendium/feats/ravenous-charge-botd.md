@@ -8,7 +8,7 @@ tags:
 aliases: ["Ravenous Charge"]
 ---
 # Ravenous Charge  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  [open](rules/traits/open.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [open](rules/traits/open.md "Open Combat Trait")  
 
 - **Prerequisites**: [Zombie Dedication](compendium/feats/zombie-dedication-botd.md)
 - **Activity** Two-Action

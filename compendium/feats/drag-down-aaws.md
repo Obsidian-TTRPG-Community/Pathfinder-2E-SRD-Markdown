@@ -7,7 +7,7 @@ tags:
 aliases: ["Drag Down"]
 ---
 # Drag Down  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 5*  
-[azarketi](rules/traits/azarketi-loag.md)  
+[azarketi](rules/traits/azarketi-loag.md "Azarketi Ancestry & Heritage Trait")  
 
 - **Activity** Two-Action
 

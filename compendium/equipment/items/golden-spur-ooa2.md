@@ -13,7 +13,7 @@ tags:
 aliases: ["Golden Spur"]
 ---
 # Golden Spur *Item 11*  
-[conjuration](rules/traits/conjuration.md)  [consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [talisman](rules/traits/talisman.md)  [teleportation](rules/traits/teleportation.md)  [uncommon](rules/traits/uncommon.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 300 gp
 - **Usage** affixed to a firearm or crossbow; **Bulk** —

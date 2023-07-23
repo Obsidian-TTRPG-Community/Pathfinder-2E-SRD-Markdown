@@ -9,7 +9,7 @@ tags:
 aliases: ["Guardian Ghosts"]
 ---
 # Guardian Ghosts  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
-[archetype](rules/traits/archetype.md)  [divine](rules/traits/divine.md)  [necromancy](rules/traits/necromancy.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 - **Prerequisites**: [Undead Master Dedication](compendium/feats/undead-master-dedication-botd.md)
 - **Frequency**: once per 10 minutes

@@ -10,12 +10,12 @@ tags:
 - domain/might/deity
 aliases: ["Szuriel", "Angel of Desolation"]
 ---
-# Szuriel (Angel of Desolation) *([NE](rules/traits/neutral-evil-b1.md))*  
+# Szuriel (Angel of Desolation) *([NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 128*  
 
 - **Category**: Horsemen
 - **Anathema**: show mercy to creatures who do not worship Szuriel, choose to marry or have children
-- **Follower Alignments**: [LE](rules/traits/lawful-evil-b1.md), [NE](rules/traits/neutral-evil-b1.md), [CE](rules/traits/chaotic-evil-b1.md)
+- **Follower Alignments**: [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"), [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
 

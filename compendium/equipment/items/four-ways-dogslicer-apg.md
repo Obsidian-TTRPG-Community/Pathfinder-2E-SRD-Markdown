@@ -13,7 +13,7 @@ tags:
 aliases: ["Four-ways Dogslicer"]
 ---
 # Four-ways Dogslicer *Item 12*  
-[cold](rules/traits/cold.md)  [electricity](rules/traits/electricity.md)  [evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[cold](rules/traits/cold.md "Cold Energy & Element Trait")  [electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1700 gp
 - **Usage** held in 1 hand; **Bulk** L

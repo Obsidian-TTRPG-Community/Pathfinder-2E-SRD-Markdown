@@ -13,9 +13,9 @@ tags:
 aliases: ["Shadow Army"]
 ---
 # Shadow Army *Spell 10*   
-[auditory](rules/traits/auditory.md)  [illusion](rules/traits/illusion.md)  [mental](rules/traits/mental.md)  [shadow](rules/traits/shadow.md)  [visual](rules/traits/visual.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [shadow](rules/traits/shadow.md "Shadow General Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**500 foot
 - **Area**50-foot burst

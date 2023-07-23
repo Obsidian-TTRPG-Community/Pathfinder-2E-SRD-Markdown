@@ -7,7 +7,7 @@ tags:
 aliases: ["Bounce Back"]
 ---
 # Bounce Back  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 13*  
-[human](rules/traits/human.md)  
+[human](rules/traits/human.md "Human Ancestry & Heritage Trait")  
 
 - **Frequency**: once per day
 - **Trigger** You lose the [dying](rules/conditions.md#Dying) condition.

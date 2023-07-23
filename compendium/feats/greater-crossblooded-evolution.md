@@ -7,7 +7,7 @@ tags:
 aliases: ["Greater Crossblooded Evolution"]
 ---
 # Greater Crossblooded Evolution  *Feat 18*  
-[sorcerer](rules/traits/sorcerer.md)  
+[sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 - **Prerequisites**: [Crossblooded Evolution](compendium/feats/crossblooded-evolution.md)
 

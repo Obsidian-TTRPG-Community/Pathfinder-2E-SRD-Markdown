@@ -7,7 +7,7 @@ tags:
 aliases: ["Larcenous Hand"]
 ---
 # Larcenous Hand  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Agile Hand](compendium/feats/agile-hand-lotgb.md), [Pickpocket](compendium/feats/pickpocket.md) skill feat
 

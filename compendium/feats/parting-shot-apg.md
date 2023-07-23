@@ -7,9 +7,9 @@ tags:
 aliases: ["Parting Shot"]
 ---
 # Parting Shot  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 4*  
-[fighter](rules/traits/fighter.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
-- **Requirements**: You are wielding a loaded ranged weapon or a ranged weapon with [reload 0](rules/traits/reload.md).
+- **Requirements**: You are wielding a loaded ranged weapon or a ranged weapon with reload 0.
 - **Activity** Two-Action
 
 You jump back and fire a quick shot that catches your opponent off guard. You [Step](rules/actions/step.md) and then make a ranged [Strike](rules/actions/strike.md) with the required weapon. Your target is [flat-footed](rules/conditions.md#Flat-footed) against the attack.

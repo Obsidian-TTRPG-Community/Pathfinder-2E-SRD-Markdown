@@ -9,7 +9,7 @@ tags:
 aliases: ["Sacred Defense"]
 ---
 # Sacred Defense  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 7*  
-[divine](rules/traits/divine.md)  [general](rules/traits/general.md)  [skill](rules/traits/skill.md)  
+[divine](rules/traits/divine.md "Divine Tradition Trait")  [general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: master in [Religion](compendium/skills.md#Religion), you follow a deity
 - **Frequency**: once per hour

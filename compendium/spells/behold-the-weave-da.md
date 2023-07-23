@@ -10,9 +10,9 @@ tags:
 aliases: ["Behold the Weave"]
 ---
 # Behold the Weave *Spell 3*   
-[divination](rules/traits/divination.md)  [incapacitation](rules/traits/incapacitation.md)  [prediction](rules/traits/prediction.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [prediction](rules/traits/prediction.md "Prediction Effect Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md), [occult](rules/traits/occult.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot
 - **Targets**1 creature

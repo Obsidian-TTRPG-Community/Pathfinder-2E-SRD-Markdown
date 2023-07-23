@@ -7,7 +7,7 @@ tags:
 aliases: ["Spell Pitchers"]
 ---
 # Spell Pitchers *Hazard 1*  
-[environmental](rules/traits/environmental.md)  
+[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 20 trained to recognize the plant among others  
@@ -18,7 +18,7 @@ A large pitcher plant occupying a 5-foot space sits seemingly dormant with its d
 
 - **AC** 16 , **Fort** +11, **Ref** +5
 - **HP** 40 (BT 20)
-- **Immunities** [mental](rules/traits/mental.md)
+- **Immunities** [mental](rules/traits/mental.md "Mental Effect Trait")
 - **Resistances** 
 - **Weaknesses** slashing 10
      

@@ -7,7 +7,7 @@ tags:
 aliases: ["Manifold Edge"]
 ---
 # Manifold Edge  *Feat 18*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: hunter's edge, masterful hunter
 

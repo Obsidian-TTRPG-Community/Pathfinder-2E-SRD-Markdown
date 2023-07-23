@@ -8,7 +8,7 @@ tags:
 aliases: ["Elysium's Cadence"]
 ---
 # Elysium's Cadence  *Feat 6*  
-[aftermath](rules/traits/aftermath-da.md)  [rare](rules/traits/rare.md)  
+[aftermath](rules/traits/aftermath-da.md "Aftermath Class Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Prerequisites**: You've partied extensively with an azata or entered a romantic relationship with an azata.
 
@@ -16,7 +16,7 @@ You've been ensnared by an azata's infectious enthusiasm for life, love, and fre
 
 ```ad-embed-ability
 title: Set Free [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[fortune](rules/traits/fortune.md)  
+[fortune](rules/traits/fortune.md "Fortune Effect Trait")  
 
 - **Trigger**: You attempt a check to remove or counteract an effect with the [confused](rules/conditions.md#Confused), [controlled](rules/conditions.md#Controlled), [fascinated](rules/conditions.md#Fascinated), [immobilized](rules/conditions.md#Immobilized), [paralyzed](rules/conditions.md#Paralyzed), or [restrained](rules/conditions.md#Restrained) conditions
 

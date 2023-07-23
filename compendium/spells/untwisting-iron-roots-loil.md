@@ -11,7 +11,7 @@ tags:
 aliases: ["Untwisting Iron Roots"]
 ---
 # Untwisting Iron Roots *Focus 5*   
-[earth](rules/traits/earth.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+[earth](rules/traits/earth.md "Earth Energy & Element Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Area**10-foot emanation

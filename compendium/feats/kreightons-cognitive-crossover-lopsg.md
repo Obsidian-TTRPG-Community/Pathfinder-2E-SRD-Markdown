@@ -9,7 +9,7 @@ tags:
 aliases: ["Kreighton's Cognitive Crossover"]
 ---
 # Kreighton's Cognitive Crossover  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 4*  
-[general](rules/traits/general.md)  [skill](rules/traits/skill.md)  [uncommon](rules/traits/uncommon.md)  
+[general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Trigger** You gain no information from a [Recall Knowledge](rules/actions/recall-knowledge.md) check (usually because you failed the secret check) using one of the two skills you chose for this feat.
 - **Activity** Reaction

@@ -9,7 +9,7 @@ tags:
 aliases: ["Insistent Door Knocker"]
 ---
 # Insistent Door Knocker *Item 6+*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Held

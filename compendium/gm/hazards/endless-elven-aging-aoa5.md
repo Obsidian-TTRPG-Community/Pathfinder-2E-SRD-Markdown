@@ -9,7 +9,7 @@ tags:
 aliases: ["Endless Elven Aging"]
 ---
 # Endless Elven Aging *Hazard 17*  
-[complex](rules/traits/complex.md)  [haunt](rules/traits/haunt.md)  [magical](rules/traits/magical.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Complexity** Complex
 - **Stealth** +33 master  
@@ -26,7 +26,7 @@ A haunted mural fascinates characters and swiftly drains their vitality.
      
 ```ad-embed-ability
 title: Lifelike Scintillation [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[divination](rules/traits/divination.md)  [occult](rules/traits/occult.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 - **Trigger**: A living creature examines the mural or enters the room
 
@@ -40,7 +40,7 @@ title: Routine
 
 ```ad-embed-ability
 title: Captivate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[charm](rules/traits/charm-b1.md)  [enchantment](rules/traits/enchantment.md)  [incapacitation](rules/traits/incapacitation.md)  [mental](rules/traits/mental.md)  [occult](rules/traits/occult.md)  
+[charm](rules/traits/charm-b1.md "Charm  Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 The faintly moving images compel one creature within 30 feet of the room to move into the room. The creature attempts a DC 38 Will save.
 
@@ -53,7 +53,7 @@ The faintly moving images compel one creature within 30 feet of the room to move
 
 ```ad-embed-ability
 title: Live a Thousand Lives [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[mental](rules/traits/mental.md)  [occult](rules/traits/occult.md)  
+[mental](rules/traits/mental.md "Mental Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 The haunt causes a living creature in the room to experience a full elven life, weathering every wound, misfortune, loss, and consequence of aging centuries in a matter of seconds. The target must attempt a DC 38 Fortitude save.
 

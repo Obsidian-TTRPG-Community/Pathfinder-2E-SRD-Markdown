@@ -8,7 +8,7 @@ tags:
 aliases: ["Aggravating Scratch"]
 ---
 # Aggravating Scratch  *Feat 9*  
-[catfolk](rules/traits/catfolk-b1.md)  [disease](rules/traits/disease.md)  
+[catfolk](rules/traits/catfolk-b1.md "Catfolk Ancestry & Heritage Trait")  [disease](rules/traits/disease.md "Disease Effect Trait")  
 
 - **Prerequisites**: claw unarmed attack
 

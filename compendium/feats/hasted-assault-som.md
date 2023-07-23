@@ -7,7 +7,7 @@ tags:
 aliases: ["Hasted Assault"]
 ---
 # Hasted Assault  *Feat 14*  
-[magus](rules/traits/magus-som.md)  
+[magus](rules/traits/magus-som.md "Magus Class Trait")  
 
 - **Prerequisites**: focus pool
 

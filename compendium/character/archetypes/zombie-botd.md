@@ -21,29 +21,29 @@ One day you might be nothing more than a walking corpse, but for now, you retain
 title: Zombie Dedication, Feat 2
 collapse: closed
 # Zombie Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [rare](rules/traits/rare.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Prerequisites**: You died and were animated as a husk zombie.
 
-Despite your death and subsequent reanimation as a rotting corpse, you retain most of your mind and identity. Yet, it's always there: the hunger for the flesh and organs of the living. You gain the [undead](rules/traits/undead.md) and [zombie](rules/traits/zombie-b1.md) traits, and the basic undead benefits (page 44). Unlike a typical zombie, you're not [mindless](rules/traits/mindless.md). Reduce all your Speeds by 5 feet. Your fist loses the [nonlethal](rules/traits/nonlethal.md) trait.
+Despite your death and subsequent reanimation as a rotting corpse, you retain most of your mind and identity. Yet, it's always there: the hunger for the flesh and organs of the living. You gain the [undead](rules/traits/undead.md "Undead Creature Type Trait") and [zombie](rules/traits/zombie-b1.md "Zombie Creature Trait") traits, and the basic undead benefits (page 44). Unlike a typical zombie, you're not [mindless](rules/traits/mindless.md "Mindless Creature Trait"). Reduce all your Speeds by 5 feet. Your fist loses the [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait") trait.
 
 Because of its progressing state of decay, your body requires continual maintenance to remain at its best. Each day after your rest period, your body is deteriorated due to natural decay. Additionally, some zombie abilities allow you to push for a greater effect in exchange for a chance of deteriorating your body.
 
 While your body is deteriorated, you're [slowed](rules/conditions.md#Slowed). You can spend 10 minutes checking and repairing your joints and other weak parts of your body to recover from deterioration. You can perform these repairs as part of your daily preparations. Because it's a natural result of your body's functions, you can't remove the [slowed](rules/conditions.md#Slowed) condition from deterioration through any other means.
 
-You crave the flesh of the living. You gain a jaws unarmed attack that deals `1d8` piercing damage. Your jaws are in the brawling group and have the [unarmed](rules/traits/unarmed.md) trait. You can use your jaws [Strike](rules/actions/strike.md) only against a creature that's [grabbed](rules/conditions.md#Grabbed) or [restrained](rules/conditions.md#Restrained) by you.
+You crave the flesh of the living. You gain a jaws unarmed attack that deals `1d8` piercing damage. Your jaws are in the brawling group and have the [unarmed](rules/traits/unarmed.md "Unarmed Weapon Trait") trait. You can use your jaws [Strike](rules/actions/strike.md) only against a creature that's [grabbed](rules/conditions.md#Grabbed) or [restrained](rules/conditions.md#Restrained) by you.
 
 **Special.** You can't select another dedication feat until you have gained two other feats from the zombie archetype.
 
 *Source: Book of the Dead p. 60*  
-%% #trait/rare #trait/archetype #trait/dedication %%
+%% #trait/archetype #trait/dedication #trait/rare %%
 ```  
 
 ```ad-embed-feat
 title: Ankle Biter, Feat 4
 collapse: closed
 # Ankle Biter  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Zombie Dedication](compendium/feats/zombie-dedication-botd.md)
 
@@ -57,7 +57,7 @@ You fight just as well on the ground as you do standing up. While you are [prone
 title: Bashing Charge, Feat 4*
 collapse: closed
 # Bashing Charge  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 4*  
-[barbarian](rules/traits/barbarian.md)  [flourish](rules/traits/flourish.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 > [!pf2-note] This version of [Bashing Charge](compendium/feats/bashing-charge-apg.md) is intended for use with the Zombie Archetype. Its level has been changed accordingly.
 
@@ -74,7 +74,7 @@ You smash, bust, and charge through solid obstacles without hesitation. [Stride]
 title: Combat Grab, Feat 4*
 collapse: closed
 # Combat Grab  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[fighter](rules/traits/fighter.md)  [press](rules/traits/press.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  [press](rules/traits/press.md "Press Combat Trait")  
 
 > [!pf2-note] This version of [Combat Grab](compendium/feats/combat-grab.md) is intended for use with the Zombie Archetype. Its level has been changed accordingly.
 
@@ -91,12 +91,12 @@ You swipe at your opponent and grab at them. Make a melee [Strike](rules/actions
 title: Crushing Grab, Feat 4*
 collapse: closed
 # Crushing Grab  *Feat 4*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 > [!pf2-note] This version of [Crushing Grab](compendium/feats/crushing-grab.md) is intended for use with the Zombie Archetype. Its level has been changed accordingly.
 
 
-Like a powerful constrictor, you crush targets in your unyielding grasp. When you successfully [Grapple](rules/actions/grapple.md) a creature, you can deal bludgeoning damage to that creature equal to your Strength modifier. You can make this attack [nonlethal](rules/traits/nonlethal.md) with no penalty.
+Like a powerful constrictor, you crush targets in your unyielding grasp. When you successfully [Grapple](rules/actions/grapple.md) a creature, you can deal bludgeoning damage to that creature equal to your Strength modifier. You can make this attack [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait") with no penalty.
 
 *Source: Core Rulebook p. 160*  
 %% #trait/monk %%
@@ -106,7 +106,7 @@ Like a powerful constrictor, you crush targets in your unyielding grasp. When yo
 title: Feast, Feat 4
 collapse: closed
 # Feast  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  [manipulate](rules/traits/manipulate.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 
 - **Prerequisites**: [Zombie Dedication](compendium/feats/zombie-dedication-botd.md)
 - **Requirements**: You are adjacent to a [restrained](rules/conditions.md#Restrained) or [unconscious](rules/conditions.md#Unconscious) creature, or a deceased creature that died in the past hour.
@@ -124,7 +124,7 @@ You can instead choose to gain temporary Hit Points equal to double your level, 
 title: Ravenous Charge, Feat 4
 collapse: closed
 # Ravenous Charge  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  [open](rules/traits/open.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [open](rules/traits/open.md "Open Combat Trait")  
 
 - **Prerequisites**: [Zombie Dedication](compendium/feats/zombie-dedication-botd.md)
 - **Activity** Two-Action
@@ -139,10 +139,10 @@ Hungry for the flesh of the living, you hurl yourself into the fray, teeth gnash
 title: Brains!, Feat 6
 collapse: closed
 # Brains!  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Feast](compendium/feats/feast-botd.md)
-- **Trigger** You Feast upon a humanoid's brain. The humanoid can't be [mindless](rules/traits/mindless.md) (or, if you're Feasting on a corpse, can't have been mindless while alive).
+- **Trigger** You Feast upon a humanoid's brain. The humanoid can't be [mindless](rules/traits/mindless.md "Mindless Creature Trait") (or, if you're Feasting on a corpse, can't have been mindless while alive).
 - **Activity** Free Action
 
 You consume the brains of your foe, causing synapses long rotten to fire and enabling you to shake off your mental torpor. You gain a +1 status bonus on skill checks to [Recall Knowledge](rules/actions/recall-knowledge.md) for 1 hour. If the humanoid had a higher modifier to the skill check you're using to [Recall Knowledge](rules/actions/recall-knowledge.md) than you do, the status bonus increases to +2.
@@ -155,11 +155,11 @@ You consume the brains of your foe, causing synapses long rotten to fire and ena
 title: Numb, Feat 6
 collapse: closed
 # Numb  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Zombie Dedication](compendium/feats/zombie-dedication-botd.md)
 
-As your body continues to rot and putrefy, your senses deaden and your undead powers grow. You gain the advanced undead benefits (page 44), as well as a +1 circumstance bonus on saving throws against [emotion](rules/traits/emotion.md) and pain effects. While your body is deteriorated, your numbness amplifies in two ways: the circumstance bonus from this feat increases to +2, and if you roll a success on a saving throw against an [emotion](rules/traits/emotion.md) or pain effect, you get a critical success instead.
+As your body continues to rot and putrefy, your senses deaden and your undead powers grow. You gain the advanced undead benefits (page 44), as well as a +1 circumstance bonus on saving throws against [emotion](rules/traits/emotion.md "Emotion Effect Trait") and pain effects. While your body is deteriorated, your numbness amplifies in two ways: the circumstance bonus from this feat increases to +2, and if you roll a success on a saving throw against an [emotion](rules/traits/emotion.md "Emotion Effect Trait") or pain effect, you get a critical success instead.
 
 *Source: Book of the Dead p. 61*  
 %% #trait/archetype %%
@@ -169,11 +169,11 @@ As your body continues to rot and putrefy, your senses deaden and your undead po
 title: Out of Hand, Feat 8
 collapse: closed
 # Out of Hand  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Zombie Dedication](compendium/feats/zombie-dedication-botd.md)
 
-Even when your limbs are severed, they remain a part of you. When an arm is severed from your body, it gains the [minion](rules/traits/minion.md) trait. While severed, your limb has the statistics of a familiar (Core Rulebook 217–218) without any familiar or master abilities, except its Speed is 5 feet, it can't move further than 100 feet from you, it can [Interact](rules/actions/interact.md) with things, and it can still make any unarmed [Strikes](rules/actions/strike.md) it could have made while attached to you (usually a fist [Strike](rules/actions/strike.md)). Any [Strikes](rules/actions/strike.md) it makes share your multiple attack penalty and use your attack bonus and damage. If your arm is reduced to 0 HP or is ever more than 100 feet from you, it becomes inert until reattached. The GM might allow you to detach other limbs that have unarmed attacks using the below action (for example, if you're a tiefling with [Form of the Fiend](compendium/feats/form-of-the-fiend-apg.md), giving you a tail unarmed attack). You gain the Lay Down Arms action.
+Even when your limbs are severed, they remain a part of you. When an arm is severed from your body, it gains the [minion](rules/traits/minion.md "Minion Creature Trait") trait. While severed, your limb has the statistics of a familiar (Core Rulebook 217–218) without any familiar or master abilities, except its Speed is 5 feet, it can't move further than 100 feet from you, it can [Interact](rules/actions/interact.md) with things, and it can still make any unarmed [Strikes](rules/actions/strike.md) it could have made while attached to you (usually a fist [Strike](rules/actions/strike.md)). Any [Strikes](rules/actions/strike.md) it makes share your multiple attack penalty and use your attack bonus and damage. If your arm is reduced to 0 HP or is ever more than 100 feet from you, it becomes inert until reattached. The GM might allow you to detach other limbs that have unarmed attacks using the below action (for example, if you're a tiefling with [Form of the Fiend](compendium/feats/form-of-the-fiend-apg.md), giving you a tail unarmed attack). You gain the Lay Down Arms action.
 
 ```ad-embed-ability
 title: Lay Down Arms [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
@@ -189,7 +189,7 @@ You pull your arm off, harmlessly severing it from your body and dropping it in 
 title: Shamble, Feat 8
 collapse: closed
 # Shamble  [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies") *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Zombie Dedication](compendium/feats/zombie-dedication-botd.md)
 - **Activity** Varies ([>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") OR [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action"))
@@ -206,7 +206,7 @@ You can choose to ignore all circumstance and status penalties to your Speed whe
 title: Unkillable, Feat 8
 collapse: closed
 # Unkillable  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Zombie Dedication](compendium/feats/zombie-dedication-botd.md)
 - **Frequency**: once per hour
@@ -223,7 +223,7 @@ You're relentless and nigh unkillable, shrugging off blows that should destroy y
 title: Festering Wounds, Feat 12*
 collapse: closed
 # Festering Wounds  *Feat 12*  
-[archetype](rules/traits/archetype.md)  [disease](rules/traits/disease.md)  [divine](rules/traits/divine.md)  [necromancy](rules/traits/necromancy.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [disease](rules/traits/disease.md "Disease Effect Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 > [!pf2-note] This version of [Festering Wounds](compendium/feats/festering-wounds-botd.md) is intended for use with the Zombie Archetype. Its level has been changed accordingly.
 
@@ -239,7 +239,7 @@ Wounds you inflict with your unarmed attacks fester and rot, becoming infected a
 title: Corpse Stench, Feat 14*
 collapse: closed
 # Corpse Stench  *Feat 14*  
-[archetype](rules/traits/archetype.md)  [aura](rules/traits/aura.md)  [olfactory](rules/traits/olfactory-b1.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [aura](rules/traits/aura.md "Aura Combat Trait")  [olfactory](rules/traits/olfactory-b1.md "Olfactory Effect Trait")  
 
 > [!pf2-note] This version of [Corpse Stench](compendium/feats/corpse-stench-botd.md) is intended for use with the Zombie Archetype. Its level has been changed accordingly.
 
@@ -255,7 +255,7 @@ Your body exudes an overwhelming scent of decay in a 10-foot emanation, so putri
 title: Seize, Feat 14*
 collapse: closed
 # Seize  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 14*  
-[archetype](rules/traits/archetype.md)  [flourish](rules/traits/flourish.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 > [!pf2-note] This version of [Seize](compendium/feats/seize-botd.md) is intended for use with the Zombie Archetype. Its level has been changed accordingly.
 

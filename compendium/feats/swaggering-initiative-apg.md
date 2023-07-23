@@ -7,7 +7,7 @@ tags:
 aliases: ["Swaggering Initiative"]
 ---
 # Swaggering Initiative  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 4*  
-[swashbuckler](rules/traits/swashbuckler-apg.md)  
+[swashbuckler](rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  
 
 - **Trigger** You are about to roll initiative.
 - **Activity** Free Action

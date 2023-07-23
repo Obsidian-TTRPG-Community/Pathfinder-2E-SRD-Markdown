@@ -7,7 +7,7 @@ tags:
 aliases: ["Shared Avoidance"]
 ---
 # Shared Avoidance  *Feat 10*  
-[cleric](rules/traits/cleric.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  
 
 - **Prerequisites**: [Premonition of Avoidance](compendium/feats/premonition-of-avoidance-apg.md)
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Orc Weapon Expertise"]
 ---
 # Orc Weapon Expertise  *Feat 13*  
-[orc](rules/traits/orc.md)  
+[orc](rules/traits/orc.md "Orc Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Orc Weapon Familiarity](compendium/feats/orc-weapon-familiarity.md)
 

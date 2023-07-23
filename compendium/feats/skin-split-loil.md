@@ -7,7 +7,7 @@ tags:
 aliases: ["Skin Split"]
 ---
 # Skin Split  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 5*  
-[nagaji](rules/traits/nagaji-loil.md)  
+[nagaji](rules/traits/nagaji-loil.md "Nagaji Ancestry & Heritage Trait")  
 
 - **Frequency**: once per day
 - **Activity** Two-Action

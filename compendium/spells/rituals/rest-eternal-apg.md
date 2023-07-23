@@ -9,7 +9,7 @@ tags:
 aliases: ["Rest Eternal"]
 ---
 # Rest Eternal *Ritual 4*  
-[necromancy](rules/traits/necromancy.md)  [uncommon](rules/traits/uncommon.md)  
+[necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** 1 day
 - **Cost** rare oils to anoint the body worth a total value of the target's level (minimum 1) × 25 gp

@@ -9,7 +9,7 @@ tags:
 aliases: ["Reading Ring"]
 ---
 # Reading Ring *Item 1+*  
-[divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Usage** worn
 - **Category** Reading

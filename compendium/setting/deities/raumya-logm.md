@@ -10,12 +10,12 @@ tags:
 - domain/wealth/deity
 aliases: ["Raumya", "The Evil Prince"]
 ---
-# Raumya (The Evil Prince) *([NE](rules/traits/neutral-evil-b1.md))*  
+# Raumya (The Evil Prince) *([NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 132*  
 
 - **Category**: Vudrani Gods
 - **Anathema**: abuse a loyal subject, harm or kill a non-combatant
-- **Follower Alignments**: [LE](rules/traits/lawful-evil-b1.md), [NG](rules/traits/neutral-good-b1.md), [N](rules/traits/neutral-b1.md), [NE](rules/traits/neutral-evil-b1.md)
+- **Follower Alignments**: [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait")
 
 ## Devotee benefits
 

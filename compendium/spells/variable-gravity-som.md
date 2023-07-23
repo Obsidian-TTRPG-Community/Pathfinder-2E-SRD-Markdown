@@ -8,13 +8,13 @@ tags:
 aliases: ["Variable Gravity"]
 ---
 # Variable Gravity *Spell 4*   
-[transmutation](rules/traits/transmutation.md)  
+[transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Duration**5 minutes
 
-You can adjust how strongly gravity grips you, changing between low gravity, normal gravity, and high gravity with ease. Choose one type of gravity when you cast the spell. While the spell lasts, you can change the type of gravity with a single action, which has the [concentrate](rules/traits/concentrate.md) trait. The spell doesn't alter your physical appearance, so it's impossible to what type of gravity you're subjected to by casual observation.
+You can adjust how strongly gravity grips you, changing between low gravity, normal gravity, and high gravity with ease. Choose one type of gravity when you cast the spell. While the spell lasts, you can change the type of gravity with a single action, which has the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") trait. The spell doesn't alter your physical appearance, so it's impossible to what type of gravity you're subjected to by casual observation.
 
 - **Low Gravity** You can jump double the normal distance when you [Long Jump](rules/actions/long-jump.md) or [Leap](rules/actions/leap.md), though still to a maximum of your Speed. When you [High Jump](rules/actions/high-jump.md), you can use the calculation for a [Long Jump](rules/actions/long-jump.md) but don't double the distance. Rather than the normal calculation for falling damage, when you fall, you take no damage for the first 10 feet and then take bludgeoning damage equal to a quarter of the remaining distance you fell. Abilities that adjust how much falling damage you take still apply.
 - **High Gravity** You become [encumbered](rules/conditions.md#Encumbered). You gain a +2 status bonus to your saving throws and DCs to resist forced movement and attempts to knock you [prone](rules/conditions.md#Prone). You reduce the distance forced movement moves you by half or 10 feet, whichever is more

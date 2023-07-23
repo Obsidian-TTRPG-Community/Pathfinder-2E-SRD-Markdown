@@ -9,7 +9,7 @@ tags:
 aliases: ["Blast Tumbler"]
 ---
 # Blast Tumbler *Hazard 10*  
-[magical](rules/traits/magical.md)  [mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 32 master  
@@ -20,7 +20,7 @@ A hard-to-reach rune is placed on the lock's tumbler. It emits a blast of force 
      
 ```ad-embed-ability
 title: Force Blast [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[evocation](rules/traits/evocation.md)  [force](rules/traits/force.md)  [occult](rules/traits/occult.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 - **Trigger**: A non-undead creature opens the door or critically fails an attempt to disarm or dispel the rune
 

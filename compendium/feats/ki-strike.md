@@ -7,7 +7,7 @@ tags:
 aliases: ["Ki Strike"]
 ---
 # Ki Strike  *Feat 1*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 
 Your study of the flow of mystical energy allows you to harness it into your physical strikes. You gain the [ki strike](compendium/spells/ki-strike.md) ki spell and a focus pool of 1 Focus Point.

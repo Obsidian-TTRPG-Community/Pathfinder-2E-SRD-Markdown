@@ -7,7 +7,7 @@ tags:
 aliases: ["Glutton for Flesh"]
 ---
 # Glutton for Flesh  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Ghoul Dedication](compendium/feats/ghoul-dedication-botd.md)
 

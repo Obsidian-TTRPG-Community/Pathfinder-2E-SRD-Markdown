@@ -7,7 +7,7 @@ tags:
 aliases: ["Ancestral Mage"]
 ---
 # Ancestral Mage  *Feat 10*  
-[sorcerer](rules/traits/sorcerer.md)  
+[sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 - **Prerequisites**: [Ancestral Blood Magic](compendium/feats/ancestral-blood-magic-apg.md)
 

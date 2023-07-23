@@ -7,7 +7,7 @@ tags:
 aliases: ["Disengaging Twist"]
 ---
 # Disengaging Twist  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Wrestler Dedication](compendium/feats/wrestler-dedication-lotgb.md)
 - **Trigger** A creature gives you the [grabbed](rules/conditions.md#Grabbed) or [restrained](rules/conditions.md#Restrained) condition.

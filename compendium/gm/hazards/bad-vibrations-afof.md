@@ -10,7 +10,7 @@ tags:
 aliases: ["Bad Vibrations"]
 ---
 # Bad Vibrations *Hazard 3*  
-[complex](rules/traits/complex.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  [trap](rules/traits/trap.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** DC 20 expert  

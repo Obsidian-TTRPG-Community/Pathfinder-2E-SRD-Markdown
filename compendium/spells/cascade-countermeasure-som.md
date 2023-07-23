@@ -10,7 +10,7 @@ tags:
 aliases: ["Cascade Countermeasure"]
 ---
 # Cascade Countermeasure *Focus 3*   
-[abjuration](rules/traits/abjuration.md)  [magus](rules/traits/magus-som.md)  [uncommon](rules/traits/uncommon.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [magus](rules/traits/magus-som.md "Magus Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Requirements**You're benefiting from [Arcane Cascade](rules/actions/arcane-cascade-som.md).

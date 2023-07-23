@@ -13,7 +13,7 @@ tags:
 aliases: ["Sparking Spellgun"]
 ---
 # Sparking Spellgun *Item 5+*  
-[attack](rules/traits/attack.md)  [consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  [magical](rules/traits/magical.md)  [spellgun](rules/traits/spellgun-tv.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [spellgun](rules/traits/spellgun-tv.md "Spellgun Item Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md), , [Strike](rules/actions/strike.md)

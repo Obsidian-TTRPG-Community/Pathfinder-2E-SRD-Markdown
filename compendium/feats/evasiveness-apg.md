@@ -7,7 +7,7 @@ tags:
 aliases: ["Evasiveness"]
 ---
 # Evasiveness  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Swashbuckler Dedication](compendium/feats/swashbuckler-dedication-apg.md), expert in Reflex saves
 

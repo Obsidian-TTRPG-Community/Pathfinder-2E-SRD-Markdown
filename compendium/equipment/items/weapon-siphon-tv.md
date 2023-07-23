@@ -9,7 +9,7 @@ tags:
 aliases: ["Weapon Siphon"]
 ---
 # Weapon Siphon *Item 1*  
-[adjustment](rules/traits/adjustment-lotgb.md)  [alchemical](rules/traits/alchemical.md)  
+[adjustment](rules/traits/adjustment-lotgb.md "Adjustment  Trait")  [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  
 
 - **Price** 10 gp
 - **Usage** attached to a melee weapon; **Bulk** L

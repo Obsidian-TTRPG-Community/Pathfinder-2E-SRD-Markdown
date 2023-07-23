@@ -7,7 +7,7 @@ tags:
 aliases: ["Thousand Faces"]
 ---
 # Thousand Faces  *Feat 4*  
-[druid](rules/traits/druid.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  
 
 - **Prerequisites**: [Wild Shape](compendium/feats/wild-shape.md)
 

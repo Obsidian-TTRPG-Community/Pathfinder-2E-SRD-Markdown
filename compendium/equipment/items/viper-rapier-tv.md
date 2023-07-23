@@ -11,7 +11,7 @@ tags:
 aliases: ["Viper Rapier"]
 ---
 # Viper Rapier *Item 20*  
-[apex](rules/traits/apex.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+[apex](rules/traits/apex.md "Apex Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 70000 gp
 - **Usage** held in 1 hand; **Bulk** 1

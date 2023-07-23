@@ -11,7 +11,7 @@ tags:
 aliases: ["Emergency Eye"]
 ---
 # Emergency Eye *Item 7*  
-[consumable](rules/traits/consumable.md)  [divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [talisman](rules/traits/talisman.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  
 
 - **Price** 60 gp
 - **Usage** affixed to armor; **Bulk** —

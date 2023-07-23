@@ -11,7 +11,7 @@ tags:
 aliases: ["Accompaniment Cloak"]
 ---
 # Accompaniment Cloak *Item 11*  
-[focused](rules/traits/focused.md)  [illusion](rules/traits/illusion.md)  [invested](rules/traits/invested.md)  [occult](rules/traits/occult.md)  
+[focused](rules/traits/focused.md "Focused Item Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 - **Price** 1300 gp
 - **Usage** worn cloak; **Bulk** L

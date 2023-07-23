@@ -7,7 +7,7 @@ tags:
 aliases: ["Innocuous"]
 ---
 # Innocuous  *Feat 1*  
-[halfling](rules/traits/halfling.md)  
+[halfling](rules/traits/halfling.md "Halfling Ancestry & Heritage Trait")  
 
 
 Halflings have been unobtrusive assistants of larger folk for untold ages, and your people count on this assumption of innocence. You gain the trained proficiency rank in [Deception](compendium/skills.md#Deception) (or another skill of your choice, if you're already trained in [Deception](compendium/skills.md#Deception))

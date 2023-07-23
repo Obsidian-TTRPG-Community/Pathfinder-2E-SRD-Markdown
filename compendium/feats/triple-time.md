@@ -7,7 +7,7 @@ tags:
 aliases: ["Triple Time"]
 ---
 # Triple Time  *Feat 4*  
-[bard](rules/traits/bard.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  
 
 
 You learn the [triple time](compendium/spells/triple-time.md) composition cantrip, which speeds up you and your allies for a round.

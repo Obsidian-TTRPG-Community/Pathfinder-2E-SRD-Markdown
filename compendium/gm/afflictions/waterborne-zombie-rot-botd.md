@@ -10,7 +10,7 @@ aliases: ["Waterborne Zombie Rot"]
 ---
 # Waterborne Zombie Rot
 *Disease 1*  
-[disease](rules/traits/disease.md)  
+[disease](rules/traits/disease.md "Disease Effect Trait")  
 
 Typically carried by plague zombies, this version of the disease is found in water supplies tainted by a zombie corpse.
 

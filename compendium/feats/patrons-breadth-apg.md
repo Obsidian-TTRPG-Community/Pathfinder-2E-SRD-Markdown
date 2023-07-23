@@ -7,7 +7,7 @@ tags:
 aliases: ["Patron's Breadth"]
 ---
 # Patron's Breadth  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Witch Spellcasting](compendium/feats/basic-witch-spellcasting-apg.md)
 

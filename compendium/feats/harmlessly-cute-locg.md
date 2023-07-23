@@ -7,7 +7,7 @@ tags:
 aliases: ["Harmlessly Cute"]
 ---
 # Harmlessly Cute  *Feat 1*  
-[leshy](rules/traits/leshy-b1.md)  
+[leshy](rules/traits/leshy-b1.md "Leshy Ancestry & Heritage Trait")  
 
 
 Your size and demeanor make it easy for you to convince others that you mean no harm. You gain the [Shameless Request](compendium/feats/shameless-request.md) skill feat as a bonus feat. Additionally, you gain a +1 circumstance bonus to initiative checks when you roll [Deception](compendium/skills.md#Deception) for initiative.

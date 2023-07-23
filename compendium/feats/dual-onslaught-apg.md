@@ -7,7 +7,7 @@ tags:
 aliases: ["Dual Onslaught"]
 ---
 # Dual Onslaught  *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: Dual-Weapon Dedication
 

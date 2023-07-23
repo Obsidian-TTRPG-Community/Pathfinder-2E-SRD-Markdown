@@ -10,7 +10,7 @@ tags:
 aliases: ["Dragon's Breath"]
 ---
 # Dragon's Breath *Item 4+*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Usage** applied to dueling cape or shield
 - **Category** Rune

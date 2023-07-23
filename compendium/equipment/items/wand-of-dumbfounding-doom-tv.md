@@ -15,7 +15,7 @@ tags:
 aliases: ["Wand of Dumbfounding Doom"]
 ---
 # Wand of Dumbfounding Doom *Item 8+*  
-[divination](rules/traits/divination.md)  [emotion](rules/traits/emotion.md)  [fear](rules/traits/fear.md)  [incapacitation](rules/traits/incapacitation.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  [prediction](rules/traits/prediction.md)  [wand](rules/traits/wand.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [prediction](rules/traits/prediction.md "Prediction Effect Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Wand

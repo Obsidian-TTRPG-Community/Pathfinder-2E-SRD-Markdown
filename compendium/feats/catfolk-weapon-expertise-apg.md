@@ -7,7 +7,7 @@ tags:
 aliases: ["Catfolk Weapon Expertise"]
 ---
 # Catfolk Weapon Expertise  *Feat 13*  
-[catfolk](rules/traits/catfolk-b1.md)  
+[catfolk](rules/traits/catfolk-b1.md "Catfolk Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Catfolk Weapon Familiarity](compendium/feats/catfolk-weapon-familiarity-apg.md)
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Mighty Dragon Shape"]
 ---
 # Mighty Dragon Shape  *Feat 18*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Shape of the Dragon](compendium/feats/shape-of-the-dragon-apg.md) > [!pf2-note]
 > (or [Shape of the Cloud Dragon](compendium/feats/shape-of-the-cloud-dragon-sot3.md))

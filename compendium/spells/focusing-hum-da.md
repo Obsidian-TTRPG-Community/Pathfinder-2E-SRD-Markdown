@@ -10,9 +10,9 @@ tags:
 aliases: ["Focusing Hum"]
 ---
 # Focusing Hum *Spell 3*   
-[divination](rules/traits/divination.md)  [enchantment](rules/traits/enchantment.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md), [occult](rules/traits/occult.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Area**15-foot emanation centered on you
 - **Duration**sustained up to 1 minute

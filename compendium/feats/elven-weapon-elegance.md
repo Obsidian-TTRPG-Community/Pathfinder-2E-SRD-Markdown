@@ -7,7 +7,7 @@ tags:
 aliases: ["Elven Weapon Elegance"]
 ---
 # Elven Weapon Elegance  *Feat 5*  
-[elf](rules/traits/elf.md)  
+[elf](rules/traits/elf.md "Elf Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Elven Weapon Familiarity](compendium/feats/elven-weapon-familiarity.md)
 

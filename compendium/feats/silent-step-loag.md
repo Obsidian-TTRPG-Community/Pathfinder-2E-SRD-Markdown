@@ -8,7 +8,7 @@ tags:
 aliases: ["Silent Step"]
 ---
 # Silent Step  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 9*  
-[catfolk](rules/traits/catfolk-b1.md)  [flourish](rules/traits/flourish.md)  
+[catfolk](rules/traits/catfolk-b1.md "Catfolk Ancestry & Heritage Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 - **Activity** Single Action
 

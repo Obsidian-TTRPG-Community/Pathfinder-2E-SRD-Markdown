@@ -7,7 +7,7 @@ tags:
 aliases: ["Acute Vision"]
 ---
 # Acute Vision  *Feat 1*  
-[barbarian](rules/traits/barbarian.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  
 
 
 When you are raging, your visual senses improve, granting you [darkvision](rules/abilities/darkvision.md).

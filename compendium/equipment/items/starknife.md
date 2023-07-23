@@ -12,7 +12,7 @@ tags:
 aliases: ["Starknife"]
 ---
 # Starknife *Item 0*  
-[agile](rules/traits/agile.md)  [deadly <d6>](rules/traits/deadly.md)  [finesse](rules/traits/finesse.md)  [thrown <20 ft.>](rules/traits/thrown.md)  [versatile <s>](rules/traits/versatile.md)  
+[agile](rules/traits/agile.md "Agile Weapon Trait")  [deadly <d6>](rules/traits/deadly-d6.md "Deadly Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [thrown <20 ft.>](rules/traits/thrown-20-ft.md "Thrown Weapon Trait")  [versatile <s>](rules/traits/versatile-s.md "Versatile Weapon Trait")  
 
 - **Price** 2 gp
 - **Bulk** L

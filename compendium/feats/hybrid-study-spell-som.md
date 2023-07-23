@@ -7,7 +7,7 @@ tags:
 aliases: ["Hybrid Study Spell"]
 ---
 # Hybrid Study Spell  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Magus Dedication](compendium/feats/magus-dedication-som.md)
 

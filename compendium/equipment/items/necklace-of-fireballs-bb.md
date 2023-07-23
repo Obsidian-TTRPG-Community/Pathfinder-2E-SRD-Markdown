@@ -9,7 +9,7 @@ tags:
 aliases: ["Necklace of Fireballs"]
 ---
 # Necklace of Fireballs *Item 5*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 44 gp
 - **Usage** worn
@@ -19,7 +19,7 @@ This hemp string has several lustrous, red beads of various sizes hanging from i
 
 ```ad-embed-ability
 title: Pluck a Sphere [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[manipulate](rules/traits/manipulate.md)  
+[manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 
 You detach a sphere from the necklace, causing it to glow with orange light. If you or anyone else hurls it (an [Interact](rules/actions/interact.md) action with the ranged trait), it detonates where it lands in a 20-foot burst. A large sphere deals `6d6` fire damage, and a small one deals `4d6` fire damage. Any creature in the area must attempt a DC 21 basic Reflex save. Your toss can place the center of the fireball anywhere within 70 feet. If no one hurls the sphere by the start of your next turn, it turns into a non-magical red bead.  
 %% #trait/manipulate %%

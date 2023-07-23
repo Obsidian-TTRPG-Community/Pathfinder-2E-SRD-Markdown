@@ -8,7 +8,7 @@ tags:
 aliases: ["Whodunnit?"]
 ---
 # Whodunnit?  *Feat 8*  
-[investigator](rules/traits/investigator-apg.md)  [uncommon](rules/traits/uncommon.md)  
+[investigator](rules/traits/investigator-apg.md "Investigator Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Frequency**: once per day
 
@@ -16,7 +16,7 @@ You carefully consider your case and narrow down some of the details. When you [
 
 Your questions must come from the following list, applying to either the creature or the clue you found:
 
-- Was the clue left by a [creature trait]? (Choose a creature trait such as [humanoid](rules/traits/humanoid.md), [undead](rules/traits/undead.md), or [dwarf](rules/traits/dwarf.md); this trait must be accurate as of the time the clue was left.)
+- Was the clue left by a [creature trait]? (Choose a creature trait such as [humanoid](rules/traits/humanoid.md "Humanoid Creature Type Trait"), [undead](rules/traits/undead.md "Undead Creature Type Trait"), or [dwarf](rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait"); this trait must be accurate as of the time the clue was left.)
 - Was this clue left within the last hour?
 - Was this clue left within the last day?
 - Was the creature that left the clue in a heightened emotional state when it left the clue?

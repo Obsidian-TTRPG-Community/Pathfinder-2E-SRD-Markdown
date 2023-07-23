@@ -7,7 +7,7 @@ tags:
 aliases: ["Razzle-dazzle"]
 ---
 # Razzle-dazzle  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 1*  
-[gnome](rules/traits/gnome.md)  
+[gnome](rules/traits/gnome.md "Gnome Ancestry & Heritage Trait")  
 
 - **Frequency**: once per hour
 - **Trigger** You blind or dazzle a creature.

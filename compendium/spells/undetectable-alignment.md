@@ -9,9 +9,9 @@ tags:
 aliases: ["Undetectable Alignment"]
 ---
 # Undetectable Alignment *Spell 2*   
-[abjuration](rules/traits/abjuration.md)  [uncommon](rules/traits/uncommon.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md), [occult](rules/traits/occult.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 1 minute 
 - **Range**touch
 - **Targets**1 creature or object

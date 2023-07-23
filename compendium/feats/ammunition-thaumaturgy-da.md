@@ -7,7 +7,7 @@ tags:
 aliases: ["Ammunition Thaumaturgy"]
 ---
 # Ammunition Thaumaturgy  *Feat 1*  
-[thaumaturge](rules/traits/thaumaturge-da.md)  
+[thaumaturge](rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
 
 
 You're so used to handling your implement, weapon, and esoterica in the heat of combat that adding a few bullets or arrows to the mix is no extra burden. You can [Interact](rules/actions/interact.md) to reload a weapon using the hand holding your implement.

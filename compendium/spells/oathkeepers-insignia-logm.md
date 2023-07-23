@@ -8,7 +8,7 @@ tags:
 aliases: ["Oathkeeper's Insignia"]
 ---
 # Oathkeeper's Insignia *Focus 1*   
-[conjuration](rules/traits/conjuration.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  
 
 - **Domains**: [duty](compendium/setting/domains.md#Duty)
 - **Cast** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") 

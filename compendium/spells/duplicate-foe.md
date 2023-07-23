@@ -8,9 +8,9 @@ tags:
 aliases: ["Duplicate Foe"]
 ---
 # Duplicate Foe *Spell 7*   
-[conjuration](rules/traits/conjuration.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**30 foot
 - **Targets**1 enemy of level 15 or lower

@@ -12,7 +12,7 @@ tags:
 aliases: ["Grim Ring"]
 ---
 # Grim Ring *Item 5*  
-[detection](rules/traits/detection.md)  [divination](rules/traits/divination.md)  [divine](rules/traits/divine.md)  [invested](rules/traits/invested.md)  [uncommon](rules/traits/uncommon.md)  
+[detection](rules/traits/detection.md "Detection Effect Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 150 gp
 - **Usage** worn; **Bulk** —
@@ -24,7 +24,7 @@ This reveals the presence or absence of undead in the area, but it doesn't pinpo
 
 ```ad-embed-ability
 title: Activate [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[positive](rules/traits/positive.md)  
+[positive](rules/traits/positive.md "Positive Energy & Element Trait")  
 
 - **Trigger**: You gain the [drained](rules/conditions.md#Drained) condition from an undead creature
 

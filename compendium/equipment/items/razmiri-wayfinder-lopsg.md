@@ -11,7 +11,7 @@ tags:
 aliases: ["Razmiri Wayfinder"]
 ---
 # Razmiri Wayfinder *Item 10*  
-[illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [uncommon](rules/traits/uncommon.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 900 gp
 - **Usage** worn; **Bulk** –

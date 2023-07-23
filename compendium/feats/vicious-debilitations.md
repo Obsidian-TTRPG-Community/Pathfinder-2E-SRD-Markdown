@@ -7,7 +7,7 @@ tags:
 aliases: ["Vicious Debilitations"]
 ---
 # Vicious Debilitations  *Feat 10*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Prerequisites**: Ruffian racket, [Debilitating Strike](rules/actions/debilitating-strike.md)
 

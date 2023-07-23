@@ -7,7 +7,7 @@ tags:
 aliases: ["First World Adept"]
 ---
 # First World Adept  *Feat 9*  
-[gnome](rules/traits/gnome.md)  
+[gnome](rules/traits/gnome.md "Gnome Ancestry & Heritage Trait")  
 
 - **Prerequisites**: at least one primal innate spell
 

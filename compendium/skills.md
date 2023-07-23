@@ -27,7 +27,7 @@ You must be trained in Arcana to use it for the following general skill actions.
 
 - **[Decipher Writing](rules/actions/decipher-writing.md)** about arcane theory.
 - **[Identify Magic](rules/actions/identify-magic.md)**, particularly arcane magic.
-- **[Learn a Spell](rules/actions/learn-a-spell.md)** from the [arcane](rules/traits/arcane.md) tradition.
+- **[Learn a Spell](rules/actions/learn-a-spell.md)** from the [arcane](rules/traits/arcane.md "Arcane Tradition Trait") tradition.
 
 ## Athletics
 _Source: Core Rulebook p. 241_
@@ -103,7 +103,7 @@ You know a great deal about the natural world, and you command and train animals
 You must be trained in Nature to use the following general skill actions.
 
 - **[Identify Magic](rules/actions/identify-magic.md)**, particularly primal magic.
-- **[Learn a Spell](rules/actions/learn-a-spell.md)** from the [primal](rules/traits/primal.md) tradition.
+- **[Learn a Spell](rules/actions/learn-a-spell.md)** from the [primal](rules/traits/primal.md "Primal Tradition Trait") tradition.
 
 ## Occultism
 _Source: Core Rulebook p. 249_
@@ -119,7 +119,7 @@ You must be trained in Occultism to use it for the following general skill actio
 
 - **[Decipher Writing](rules/actions/decipher-writing.md)** on occult topics, including complex metaphysical systems, syncretic principles, weird philosophies, and incoherent ramblings.
 - **[Identify Magic](rules/actions/identify-magic.md)**, particularly occult magic.
-- **[Learn a Spell](rules/actions/learn-a-spell.md)** from the [occult](rules/traits/occult.md) tradition.
+- **[Learn a Spell](rules/actions/learn-a-spell.md)** from the [occult](rules/traits/occult.md "Occult Tradition Trait") tradition.
 
 ## Perception
 _Source: Core Rulebook p. 448_
@@ -156,10 +156,10 @@ When you use an action that utilizes the Performance skill, it gains one or more
 
 | Performance | Additional Traits |
 |-------------|-------------------|
-| Act or perform comedy | [Auditory](rules/traits/auditory.md), [linguistic](rules/traits/linguistic.md), and [visual](rules/traits/visual.md) |
-| Dance | [Move](rules/traits/move.md) and [visual](rules/traits/visual.md) |
-| Play an instrument | [Auditory](rules/traits/auditory.md) and [manipulate](rules/traits/manipulate.md) |
-| Orate or sing | [Auditory](rules/traits/auditory.md) and [linguistic](rules/traits/linguistic.md) |
+| Act or perform comedy | [Auditory](rules/traits/auditory.md "Auditory Effect Trait"), [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait"), and [visual](rules/traits/visual.md "Visual Effect Trait") |
+| Dance | [Move](rules/traits/move.md "Move Combat Trait") and [visual](rules/traits/visual.md "Visual Effect Trait") |
+| Play an instrument | [Auditory](rules/traits/auditory.md "Auditory Effect Trait") and [manipulate](rules/traits/manipulate.md "Manipulate General Trait") |
+| Orate or sing | [Auditory](rules/traits/auditory.md "Auditory Effect Trait") and [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait") |
 
 ### Performance Trained Action
 <sup>CRB p. 250</sup>
@@ -182,7 +182,7 @@ You must be trained in Religion to use it for the following general skill action
 
 - **[Decipher Writing](rules/actions/decipher-writing.md)** of a religious nature, including allegories, homilies, and proverbs.
 - **[Identify Magic](rules/actions/identify-magic.md)**, particularly divine magic.
-- **[Learn a Spell](rules/actions/learn-a-spell.md)** from the [divine](rules/traits/divine.md) tradition.
+- **[Learn a Spell](rules/actions/learn-a-spell.md)** from the [divine](rules/traits/divine.md "Divine Tradition Trait") tradition.
 
 ## Society
 _Source: Core Rulebook p. 250_

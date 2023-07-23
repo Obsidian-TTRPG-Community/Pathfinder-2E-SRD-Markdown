@@ -7,7 +7,7 @@ tags:
 aliases: ["Clinging Climber"]
 ---
 # Clinging Climber  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Vampire Dedication](compendium/feats/vampire-dedication-botd.md), trained in [Athletics](compendium/skills.md#Athletics)
 

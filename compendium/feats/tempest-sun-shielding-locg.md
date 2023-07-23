@@ -7,7 +7,7 @@ tags:
 aliases: ["Tempest-sun Shielding"]
 ---
 # Tempest-sun Shielding  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Tempest-Sun Redirection](compendium/feats/tempest-sun-redirection-locg.md)
 - **Trigger** You or an ally within 30 feet takes damage.

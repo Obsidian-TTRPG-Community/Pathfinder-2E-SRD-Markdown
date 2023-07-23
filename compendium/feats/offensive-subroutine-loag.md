@@ -7,7 +7,7 @@ tags:
 aliases: ["Offensive Subroutine"]
 ---
 # Offensive Subroutine  *Feat 9*  
-[android](rules/traits/android-loag.md)  
+[android](rules/traits/android-loag.md "Android Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Nanite Surge](compendium/feats/nanite-surge-loag.md)
 

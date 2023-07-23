@@ -13,7 +13,7 @@ tags:
 aliases: ["Shobhad Longrifle"]
 ---
 # Shobhad Longrifle *Item 1*  
-[backstabber](rules/traits/backstabber.md)  [fatal <d12>](rules/traits/fatal.md)  [rare](rules/traits/rare.md)  [volley <30 feet>](rules/traits/volley.md)  concussive  kickback  
+[backstabber](rules/traits/backstabber.md "Backstabber Weapon Trait")  [fatal <d12>](rules/traits/fatal-d12.md "Fatal Weapon Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [volley <30 feet>](rules/traits/volley-30-feet.md "Volley Weapon Trait")  concussive  kickback  
 
 - **Price** 20 gp
 - **Bulk** 1

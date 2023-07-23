@@ -7,7 +7,7 @@ tags:
 aliases: ["Enhanced Psychopomp Familiar"]
 ---
 # Enhanced Psychopomp Familiar  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Psychopomp Familiar](compendium/feats/psychopomp-familiar-botd.md)
 

@@ -8,7 +8,7 @@ tags:
 aliases: ["Cartographer's Kit"]
 ---
 # Cartographer's Kit *Item 3*  
-[uncommon](rules/traits/uncommon.md)  
+[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 42 gp
 - **Bulk** 1

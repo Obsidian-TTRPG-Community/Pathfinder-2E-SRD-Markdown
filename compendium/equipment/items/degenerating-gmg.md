@@ -12,7 +12,7 @@ tags:
 aliases: ["Degenerating"]
 ---
 # Degenerating *Item 5*  
-[acid](rules/traits/acid.md)  [cursed](rules/traits/cursed-gmg.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [rare](rules/traits/rare.md)  
+[acid](rules/traits/acid.md "Acid Energy & Element Trait")  [cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** curses a weapon
 - **Category** Curse

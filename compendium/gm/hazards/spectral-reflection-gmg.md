@@ -7,7 +7,7 @@ tags:
 aliases: ["Spectral Reflection"]
 ---
 # Spectral Reflection *Hazard 5*  
-[haunt](rules/traits/haunt.md)  
+[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 26 expert  

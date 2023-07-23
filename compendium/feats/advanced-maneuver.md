@@ -7,7 +7,7 @@ tags:
 aliases: ["Advanced Maneuver"]
 ---
 # Advanced Maneuver  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Maneuver](compendium/feats/basic-maneuver.md)
 

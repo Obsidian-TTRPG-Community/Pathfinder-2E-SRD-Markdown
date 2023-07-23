@@ -7,11 +7,11 @@ tags:
 aliases: ["Paradoxical Mystery"]
 ---
 # Paradoxical Mystery  *Feat 20*  
-[oracle](rules/traits/oracle-apg.md)  
+[oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  
 
 - **Prerequisites**: [Greater Revelation](compendium/feats/greater-revelation-apg.md)
 
-The truest depths of your divine mystery are fathomless and contradictory, granting you changing powers that even you can barely begin to fathom. Each day during your daily preparations, choose one basic or advanced domain spell from any domain from the Core Rulebook or another domain to which you have access, or any initial or advanced revelation spell from another mystery. You gain that spell as a revelation spell until your next daily preparations, and it has the [cursebound](rules/traits/cursebound-apg.md) trait.
+The truest depths of your divine mystery are fathomless and contradictory, granting you changing powers that even you can barely begin to fathom. Each day during your daily preparations, choose one basic or advanced domain spell from any domain from the Core Rulebook or another domain to which you have access, or any initial or advanced revelation spell from another mystery. You gain that spell as a revelation spell until your next daily preparations, and it has the [cursebound](rules/traits/cursebound-apg.md "Cursebound Spell Trait") trait.
 
 *Source: Advanced Player's Guide p. 81*  
 %% #compendium/src/pf2e/apg #trait/oracle %%

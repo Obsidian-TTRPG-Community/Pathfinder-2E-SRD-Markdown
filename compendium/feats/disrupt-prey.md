@@ -7,9 +7,9 @@ tags:
 aliases: ["Disrupt Prey"]
 ---
 # Disrupt Prey  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 4*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
-- **Trigger** Your hunted prey is within your reach, and it uses a [manipulate](rules/traits/manipulate.md) action, uses a [move](rules/traits/move.md) action, or leaves a square during a move action it's using.
+- **Trigger** Your hunted prey is within your reach, and it uses a [manipulate](rules/traits/manipulate.md "Manipulate General Trait") action, uses a [move](rules/traits/move.md "Move Combat Trait") action, or leaves a square during a move action it's using.
 - **Activity** Reaction
 
 Make a melee [Strike](rules/actions/strike.md) against your prey. If the attack is a critical hit, you disrupt the triggering action.

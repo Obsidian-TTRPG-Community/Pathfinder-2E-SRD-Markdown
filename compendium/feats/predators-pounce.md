@@ -11,7 +11,7 @@ tags:
 aliases: ["Predator's Pounce"]
 ---
 # Predator's Pounce  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 12*  
-[barbarian](rules/traits/barbarian.md)  [flourish](rules/traits/flourish.md)  [instinct](rules/traits/instinct.md)  [open](rules/traits/open.md)  [rage](rules/traits/rage.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  [instinct](rules/traits/instinct.md "Instinct Action & Ability Trait")  [open](rules/traits/open.md "Open Combat Trait")  [rage](rules/traits/rage.md "Rage Combat Trait")  
 
 - **Prerequisites**: Animal instinct
 - **Requirements**: You are unarmored or wearing light armor.

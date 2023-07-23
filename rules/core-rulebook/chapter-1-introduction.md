@@ -446,7 +446,7 @@ _Erik rolls an attack roll for the ghast, getting an 9 on the die. Looking at th
 
 **Erik:** You twist away from the ghast as its tongue leaves a slimy film on your armor. With its final action, the undead menace lashes out at you with its claw.
 
-_Erik rolls a second attack with the ghast, this time with its claw. Normally this attack would take a –5 multiple attack penalty, but since the claw has the [agile](rules/traits/agile.md) trait, the penalty is only –4. He rolls a 19 on the die, adds 11 for the ghoul's attack modifier and subtracts 4, for a total of 26._
+_Erik rolls a second attack with the ghast, this time with its claw. Normally this attack would take a –5 multiple attack penalty, but since the claw has the [agile](rules/traits/agile.md "Agile Weapon Trait") trait, the penalty is only –4. He rolls a 19 on the die, adds 11 for the ghoul's attack modifier and subtracts 4, for a total of 26._
 
 **Erik:** You may have dodged the ghast's bite, but the thing's bony claw rakes across your face!
 
@@ -601,7 +601,7 @@ Activities are special tasks that you complete by spending one or more of your a
 
 Activities that use two actions use this symbol: [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action"). Activities that use three actions use this symbol: [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action"). A few special activities, such as spells you can cast in an instant, can be performed by spending a free action or a reaction.
 
-All tasks that take longer than a turn are activities. If an activity is meant to be done during exploration, it has the [exploration](rules/traits/exploration.md) trait. An activity that takes a day or more of commitment and that can be done only during downtime has the [downtime](rules/traits/downtime.md) trait.
+All tasks that take longer than a turn are activities. If an activity is meant to be done during exploration, it has the [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait") trait. An activity that takes a day or more of commitment and that can be done only during downtime has the [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait") trait.
 
 ### Reading Rules
 <sup>CRB p. 18</sup>

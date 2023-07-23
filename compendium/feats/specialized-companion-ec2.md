@@ -8,7 +8,7 @@ tags:
 aliases: ["Specialized Companion"]
 ---
 # Specialized Companion  *Feat 18*  
-[archetype](rules/traits/archetype.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Splendid Companion](compendium/feats/splendid-companion-ec2.md)
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Mounted Shield"]
 ---
 # Mounted Shield  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Cavalier Dedication](compendium/feats/cavalier-dedication-apg.md)
 

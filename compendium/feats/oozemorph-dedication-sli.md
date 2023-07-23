@@ -9,7 +9,7 @@ tags:
 aliases: ["Oozemorph Dedication"]
 ---
 # Oozemorph Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 
 You are plagued by sporadic anatomical rearrangements, which grant you insights into other creatures with unusual anatomies. You become trained in [Occultism](compendium/skills.md#Occultism) and [Ooze Lore](compendium/skills.md#Lore); if you were already trained, you become an expert instead. You gain a +2 circumstance bonus to Reflex saves to avoid being Engulfed by creatures, and to checks to [Escape](rules/actions/escape.md) after being Engulfed.

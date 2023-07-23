@@ -12,7 +12,7 @@ tags:
 aliases: ["Needle Of Vengeance"]
 ---
 # Needle Of Vengeance *Focus 1*   
-[enchantment](rules/traits/enchantment.md)  [hex](rules/traits/hex-apg.md)  [mental](rules/traits/mental.md)  [uncommon](rules/traits/uncommon.md)  [witch](rules/traits/witch-apg.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [hex](rules/traits/hex-apg.md "Hex Combat Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [witch](rules/traits/witch-apg.md "Witch Class Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**30 foot

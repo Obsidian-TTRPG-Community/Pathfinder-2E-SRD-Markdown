@@ -7,7 +7,7 @@ tags:
 aliases: ["Incredible Mount"]
 ---
 # Incredible Mount  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Impressive Mount](compendium/feats/impressive-mount-apg.md)
 

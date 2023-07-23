@@ -10,7 +10,7 @@ tags:
 aliases: ["Glaive Of The Artist"]
 ---
 # Glaive Of The Artist *Item 14*  
-[enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** follower of [Shelyn](compendium/setting/deities/shelyn.md)
 - **Price** 4000 gp

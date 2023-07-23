@@ -8,7 +8,7 @@ tags:
 aliases: ["Dualborn"]
 ---
 # Dualborn  *Feat 1*  
-[lineage](rules/traits/lineage-apg.md)  [suli](rules/traits/suli-b2.md)  
+[lineage](rules/traits/lineage-apg.md "Lineage  Trait")  [suli](rules/traits/suli-b2.md "Suli Ancestry & Heritage Trait")  
 
 
 Your suli heritage can be traced back to two geniekin ancestors of opposing elements, or to an elemental ancestor that embodied two combined elements.

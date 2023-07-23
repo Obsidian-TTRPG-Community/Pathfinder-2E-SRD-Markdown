@@ -8,7 +8,7 @@ tags:
 aliases: ["Perilous Flash Flood"]
 ---
 # Perilous Flash Flood *Hazard 10*  
-[complex](rules/traits/complex.md)  [environmental](rules/traits/environmental.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +22 expert  

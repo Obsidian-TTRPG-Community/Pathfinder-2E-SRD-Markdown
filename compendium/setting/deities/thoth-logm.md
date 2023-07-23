@@ -10,12 +10,12 @@ tags:
 - domain/moon/deity
 aliases: ["Thoth", "Lord of Divine Words"]
 ---
-# Thoth (Lord of Divine Words) *([LN](rules/traits/lawful-neutral-b1.md))*  
+# Thoth (Lord of Divine Words) *([LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 124*  
 
 - **Category**: Ancient Osirian Gods
 - **Anathema**: upset stable mechanisms or ecosystems, fail to correct false information
-- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [LN](rules/traits/lawful-neutral-b1.md), [N](rules/traits/neutral-b1.md)
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait")
 
 ## Devotee benefits
 

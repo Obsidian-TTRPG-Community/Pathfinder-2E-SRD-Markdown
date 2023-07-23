@@ -7,7 +7,7 @@ tags:
 aliases: ["Improved Twin Riposte (Ranger)"]
 ---
 # Improved Twin Riposte (Ranger)  *Feat 16*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: Twin Riposte
 

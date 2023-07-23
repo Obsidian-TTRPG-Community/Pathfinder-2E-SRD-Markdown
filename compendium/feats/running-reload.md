@@ -7,7 +7,7 @@ tags:
 aliases: ["Running Reload"]
 ---
 # Running Reload  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Activity** Single Action
 

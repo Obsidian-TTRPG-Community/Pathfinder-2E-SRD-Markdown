@@ -8,7 +8,7 @@ tags:
 aliases: ["Dutiful Challenge"]
 ---
 # Dutiful Challenge *Focus 4*   
-[abjuration](rules/traits/abjuration.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  
 
 - **Domains**: [duty](compendium/setting/domains.md#Duty)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

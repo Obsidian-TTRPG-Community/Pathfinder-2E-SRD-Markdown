@@ -7,7 +7,7 @@ tags:
 aliases: ["Daring Act"]
 ---
 # Daring Act  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: trained in [Acrobatics](compendium/skills.md#Acrobatics) or [Athletics](compendium/skills.md#Athletics), [Firebrand Braggart Dedication](compendium/feats/firebrand-braggart-dedication-locg.md)
 - **Activity** Two-Action

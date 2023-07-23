@@ -11,7 +11,7 @@ tags:
 aliases: ["Infiltrator's Elixir"]
 ---
 # Infiltrator's Elixir *Item 2*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [elixir](rules/traits/elixir.md)  [polymorph](rules/traits/polymorph.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [elixir](rules/traits/elixir.md "Elixir Item Trait")  [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  
 
 - **Price** 6 gp
 - **Usage** held in 1 hand; **Bulk** L

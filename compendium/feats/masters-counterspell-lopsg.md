@@ -8,7 +8,7 @@ tags:
 aliases: ["Master's Counterspell"]
 ---
 # Master's Counterspell  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 16*  
-[abjuration](rules/traits/abjuration.md)  [archetype](rules/traits/archetype.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spellmaster Dedication](compendium/feats/spellmaster-dedication-locg.md), master in spell attack rolls and spell DCs
 - **Trigger** A creature [Casts a Spell](rules/actions/cast-a-spell.md) that you have prepared, and that spell was cast or created with a tradition of magic in which you have master proficiency in spell attack rolls and spell DCs.

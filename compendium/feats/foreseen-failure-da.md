@@ -10,7 +10,7 @@ tags:
 aliases: ["Foreseen Failure"]
 ---
 # Foreseen Failure  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 12*  
-[divination](rules/traits/divination.md)  [fortune](rules/traits/fortune.md)  [occult](rules/traits/occult.md)  [psychic](rules/traits/psychic-da.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  
 
 - **Frequency**: once per day
 - **Trigger** A spell you cast has no effect because you critically failed all your spell attack rolls or because all targets critically succeeded at their saving throws.

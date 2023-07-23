@@ -14,7 +14,7 @@ tags:
 aliases: ["Sweet Dream"]
 ---
 # Sweet Dream *Focus 1*   
-[auditory](rules/traits/auditory.md)  [cleric](rules/traits/cleric.md)  [enchantment](rules/traits/enchantment.md)  [linguistic](rules/traits/linguistic.md)  [mental](rules/traits/mental.md)  [sleep](rules/traits/sleep.md)  [uncommon](rules/traits/uncommon.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [cleric](rules/traits/cleric.md "Cleric Class Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [sleep](rules/traits/sleep.md "Sleep Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Domains**: [dreams](compendium/setting/domains.md#Dreams)
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 

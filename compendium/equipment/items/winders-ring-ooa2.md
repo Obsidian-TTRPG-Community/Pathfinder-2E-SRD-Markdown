@@ -10,7 +10,7 @@ tags:
 aliases: ["Winder's Ring"]
 ---
 # Winder's Ring *Item 7*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 360 gp
 - **Usage** worn; **Bulk** —
@@ -29,7 +29,7 @@ On a failure, the winder's ring exhausts itself, and you can't activate it again
 ```ad-embed-ability
 title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 
-The winder's ring transforms into a clockwork spy (Pathfinder Bestiary 3 48) that doesn't require winding and obeys your spoken commands for up to 1 hour. In this form, the winder's ring has the [minion](rules/traits/minion.md) trait. You can use this action again to return the clockwork spy to winder's ring form as long as you're adjacent to the clockwork spy. If the clockwork spy is slain, it reverts to its ring shape, and the winder's ring can't be activated again until 1 week has passed.
+The winder's ring transforms into a clockwork spy (Pathfinder Bestiary 3 48) that doesn't require winding and obeys your spoken commands for up to 1 hour. In this form, the winder's ring has the [minion](rules/traits/minion.md "Minion Creature Trait") trait. You can use this action again to return the clockwork spy to winder's ring form as long as you're adjacent to the clockwork spy. If the clockwork spy is slain, it reverts to its ring shape, and the winder's ring can't be activated again until 1 week has passed.
 ```
 
 *Source: Outlaws of Alkenstar #2: Cradle of Quartz p. 79*

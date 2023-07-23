@@ -7,7 +7,7 @@ tags:
 aliases: ["Supertaster"]
 ---
 # Supertaster  *Feat 7*  
-[general](rules/traits/general.md)  
+[general](rules/traits/general.md "General Feat Trait")  
 
 - **Prerequisites**: master in [Perception](compendium/skills.md#Perception)
 

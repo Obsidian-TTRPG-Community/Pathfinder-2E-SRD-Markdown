@@ -8,7 +8,7 @@ tags:
 aliases: ["Triggerbrand Salvo"]
 ---
 # Triggerbrand Salvo  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[flourish](rules/traits/flourish.md)  gunslinger  
+[flourish](rules/traits/flourish.md "Flourish Combat Trait")  gunslinger  
 
 - **Prerequisites**: way of the triggerbrand
 - **Requirements**: You're wielding a combination weapon.

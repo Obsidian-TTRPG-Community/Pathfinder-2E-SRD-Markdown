@@ -7,7 +7,7 @@ tags:
 aliases: ["Reactive Dismissal"]
 ---
 # Reactive Dismissal  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 4*  
-[summoner](rules/traits/summoner-som.md)  
+[summoner](rules/traits/summoner-som.md "Summoner Class Trait")  
 
 - **Trigger** Your eidolon would take damage.
 - **Activity** Reaction

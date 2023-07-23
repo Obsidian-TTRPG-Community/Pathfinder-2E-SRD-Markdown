@@ -7,7 +7,7 @@ tags:
 aliases: ["Moderate Enhance Venom"]
 ---
 # Moderate Enhance Venom  *Feat 9*  
-[vishkanya](rules/traits/vishkanya-loil.md)  
+[vishkanya](rules/traits/vishkanya-loil.md "Vishkanya Ancestry & Heritage Trait")  
 
 - **Prerequisites**: Lesser Enhance Venom
 

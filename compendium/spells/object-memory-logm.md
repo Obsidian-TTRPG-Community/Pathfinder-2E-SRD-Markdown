@@ -8,7 +8,7 @@ tags:
 aliases: ["Object Memory"]
 ---
 # Object Memory *Focus 1*   
-[divination](rules/traits/divination.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  
 
 - **Domains**: [vigil](compendium/setting/domains.md#Vigil)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

@@ -14,7 +14,7 @@ tags:
 aliases: ["Triggerbrand"]
 ---
 # Triggerbrand *Item 1*  
-[uncommon](rules/traits/uncommon.md)  combination  
+[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  combination  
 
 - **Price** 10 gp
 - **Bulk** 1

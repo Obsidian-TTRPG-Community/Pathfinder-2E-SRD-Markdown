@@ -11,7 +11,7 @@ tags:
 aliases: ["Mask Of Allure"]
 ---
 # Mask Of Allure *Item 18*  
-[apex](rules/traits/apex.md)  [enchantment](rules/traits/enchantment.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+[apex](rules/traits/apex.md "Apex Item Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 24000 gp
 - **Usage** worn mask; **Bulk** L
@@ -25,7 +25,7 @@ When you invest the mask, you either increase your Charisma score by 2 or increa
 
 ```ad-embed-ability
 title: Activate [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
-[visual](rules/traits/visual.md)  
+[visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Trigger**: You attempt a [Deception](compendium/skills.md#Deception), [Diplomacy](compendium/skills.md#Diplomacy), [Intimidation](compendium/skills.md#Intimidation), or [Performance](compendium/skills.md#Performance) check
 

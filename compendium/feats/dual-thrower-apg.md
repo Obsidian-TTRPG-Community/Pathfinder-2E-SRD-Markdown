@@ -7,7 +7,7 @@ tags:
 aliases: ["Dual Thrower"]
 ---
 # Dual Thrower  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Dual-Weapon Warrior Dedication](compendium/feats/dual-weapon-warrior-dedication-apg.md)
 

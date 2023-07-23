@@ -7,7 +7,7 @@ tags:
 aliases: ["Greater Enhance Venom"]
 ---
 # Greater Enhance Venom  *Feat 17*  
-[vishkanya](rules/traits/vishkanya-loil.md)  
+[vishkanya](rules/traits/vishkanya-loil.md "Vishkanya Ancestry & Heritage Trait")  
 
 - **Prerequisites**: Moderate Enhance Venom
 

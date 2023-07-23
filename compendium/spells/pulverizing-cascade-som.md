@@ -11,7 +11,7 @@ tags:
 aliases: ["Pulverizing Cascade"]
 ---
 # Pulverizing Cascade *Focus 3*   
-[evocation](rules/traits/evocation.md)  [uncommon](rules/traits/uncommon.md)  [water](rules/traits/water.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**120 foot

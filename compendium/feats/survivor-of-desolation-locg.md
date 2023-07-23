@@ -7,7 +7,7 @@ tags:
 aliases: ["Survivor Of Desolation"]
 ---
 # Survivor Of Desolation  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Knight Reclaimant Dedication](compendium/feats/knight-reclaimant-dedication-locg.md)
 

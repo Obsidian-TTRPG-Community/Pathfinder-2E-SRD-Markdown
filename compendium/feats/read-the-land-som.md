@@ -8,7 +8,7 @@ tags:
 aliases: ["Read The Land"]
 ---
 # Read The Land  *Feat 12*  
-[archetype](rules/traits/archetype.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Geomancer Dedication](compendium/feats/geomancer-dedication-som.md), master in [Nature](compendium/skills.md#Nature)
 

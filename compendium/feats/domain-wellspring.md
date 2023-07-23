@@ -7,7 +7,7 @@ tags:
 aliases: ["Domain Wellspring"]
 ---
 # Domain Wellspring  *Feat 18*  
-[cleric](rules/traits/cleric.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  
 
 - **Prerequisites**: [Domain Focus](compendium/feats/domain-focus.md)
 

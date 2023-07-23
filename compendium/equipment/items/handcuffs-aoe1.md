@@ -8,7 +8,7 @@ tags:
 aliases: ["Handcuffs"]
 ---
 # Handcuffs *Item 3+*  
-[uncommon](rules/traits/uncommon.md)  
+[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Held

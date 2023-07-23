@@ -11,13 +11,13 @@ tags:
 - domain/zeal/deity
 aliases: ["The Godclaw"]
 ---
-# The Godclaw *([LN](rules/traits/lawful-neutral-b1.md))*  
+# The Godclaw *([LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 93*  
 
 - **Category**: Pantheon
 - **Anathema**: rest when there is lawlessness to fight, believe you know or understand more than the pantheon
 - **Areas of Concern**: discipline, , laws, , order, , strategy
-- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [LN](rules/traits/lawful-neutral-b1.md), [LE](rules/traits/lawful-evil-b1.md)
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait")
 
 ## Devotee benefits
 

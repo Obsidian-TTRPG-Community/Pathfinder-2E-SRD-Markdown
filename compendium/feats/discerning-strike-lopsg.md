@@ -7,7 +7,7 @@ tags:
 aliases: ["Discerning Strike"]
 ---
 # Discerning Strike  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Pathfinder Agent Dedication](compendium/feats/pathfinder-agent-dedication-lowg.md), [Thorough Reports](compendium/feats/thorough-reports-lowg.md)
 - **Requirements**: You have successfully identified the target with [Recall Knowledge](rules/actions/recall-knowledge.md) during this combat.

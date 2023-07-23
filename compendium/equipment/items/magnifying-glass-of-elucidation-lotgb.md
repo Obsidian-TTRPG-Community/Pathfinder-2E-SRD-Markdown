@@ -10,7 +10,7 @@ tags:
 aliases: ["Magnifying Glass Of Elucidation"]
 ---
 # Magnifying Glass Of Elucidation *Item 5*  
-[divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 125 gp
 - **Usage** held in 1 hand
@@ -23,7 +23,7 @@ When you use a magnifying glass to examine writing of its imbued language, it tr
 ```ad-embed-ability
 title: Activate [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")
 
-You scan up to two pages of writing with the magnifying glass of elucidation, imbuing the magnifying glass with the information you scanned. You can use a separate 3-action activity to have the magnifying glass reproduce the imbued information onto blank paper exactly as it appeared when you Activated the magnifying glass. The reproduction is a direct copy of the pages but doesn't imbue the reproduction with any [magical](rules/traits/magical.md) effects or other special effects. As such, you can copy the writing of a scroll, for example, but it will only be mundane writing and not have any [magical](rules/traits/magical.md) effect. The magnifying glass can only hold one instance of information at a given time; [Activating](rules/actions/activate-an-item.md) the magnifying glass a second time or reproducing the information clears out the magnifying glass's information.
+You scan up to two pages of writing with the magnifying glass of elucidation, imbuing the magnifying glass with the information you scanned. You can use a separate 3-action activity to have the magnifying glass reproduce the imbued information onto blank paper exactly as it appeared when you Activated the magnifying glass. The reproduction is a direct copy of the pages but doesn't imbue the reproduction with any [magical](rules/traits/magical.md "Magical Item Trait") effects or other special effects. As such, you can copy the writing of a scroll, for example, but it will only be mundane writing and not have any [magical](rules/traits/magical.md "Magical Item Trait") effect. The magnifying glass can only hold one instance of information at a given time; [Activating](rules/actions/activate-an-item.md) the magnifying glass a second time or reproducing the information clears out the magnifying glass's information.
 ```
 
 *Source: Lost Omens: The Grand Bazaar p. 110*

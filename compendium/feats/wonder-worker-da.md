@@ -7,7 +7,7 @@ tags:
 aliases: ["Wonder Worker"]
 ---
 # Wonder Worker  *Feat 20*  
-[thaumaturge](rules/traits/thaumaturge-da.md)  
+[thaumaturge](rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
 
 - **Prerequisites**: legendary in [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), or [Religion](compendium/skills.md#Religion)
 

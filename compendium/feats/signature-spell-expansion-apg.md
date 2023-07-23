@@ -7,7 +7,7 @@ tags:
 aliases: ["Signature Spell Expansion"]
 ---
 # Signature Spell Expansion  *Feat 10*  
-[sorcerer](rules/traits/sorcerer.md)  
+[sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 
 Your innate connection to magic lets you cast more spells with greater freedom. You gain two additional signature spells, each of which must have a minimum level of 3rd or lower.

@@ -7,7 +7,7 @@ tags:
 aliases: ["Nimble Shield Hand"]
 ---
 # Nimble Shield Hand  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Bastion Dedication](compendium/feats/bastion-dedication-apg.md)
 

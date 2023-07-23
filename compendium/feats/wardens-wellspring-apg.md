@@ -7,7 +7,7 @@ tags:
 aliases: ["Warden's Wellspring"]
 ---
 # Warden's Wellspring  *Feat 18*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: warden's focus
 

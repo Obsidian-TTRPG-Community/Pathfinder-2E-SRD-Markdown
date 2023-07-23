@@ -15,13 +15,13 @@ tags:
 - trait/versatile-p
 aliases: ["Rovagug", "Rough Beast"]
 ---
-# Rovagug (Rough Beast) *([CE](rules/traits/chaotic-evil-b1.md))*  
+# Rovagug (Rough Beast) *([CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait"))*  
 *Source: Core Rulebook p. 439*  
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: create something new, let material ties restrain you, torture a victim or otherwise delay its destruction
 - **Areas of Concern**: destruction, , disaster, , and wrath
-- **Follower Alignments**: [NE](rules/traits/neutral-evil-b1.md), [CE](rules/traits/chaotic-evil-b1.md)
+- **Follower Alignments**: [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
 
@@ -37,8 +37,8 @@ aliases: ["Rovagug", "Rough Beast"]
 title: [Avatar](compendium/spells/avatar.md) of Rovagug
 
 - **Speed**: Speed 50 feet, burrow 30 feet, immune to [immobilized](rules/conditions.md#Immobilized)
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") jaws ([reach <15 feet>](rules/traits/reach.md)), **Damage** `6d12+6` piercing
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") leg ([agile](rules/traits/agile.md), [reach <15 feet>](rules/traits/reach.md), [versatile <p>](rules/traits/versatile.md)), **Damage** `6d8+6` bludgeoning
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") jaws ([reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait")), **Damage** `6d12+6` piercing
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") leg ([agile](rules/traits/agile.md "Agile Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [versatile <p>](rules/traits/versatile-p.md "Versatile Weapon Trait")), **Damage** `6d8+6` bludgeoning
 ```
 
 ## Divine intercession
@@ -46,7 +46,7 @@ title: [Avatar](compendium/spells/avatar.md) of Rovagug
 
 Rovagug's imprisonment means he can almost never intercede on Golarion, but some places lead far enough into the earth that the god's profane influence can leak through. He is as likely to curse those who draw his attention as he is to reward them, though great enough acts of violence and destruction may earn his favor.
 
-- **Minor Boon** Your attack becomes more destructive. Once, one of your failed or successful attacks becomes a critical hit, and your weapon or unarmed attack gains the reach d12 trait for this attack, replacing any [deadly](rules/traits/deadly.md) trait it already had. Rovagug typically grants this boon when the critical hit could destroy something precious or significant.
+- **Minor Boon** Your attack becomes more destructive. Once, one of your failed or successful attacks becomes a critical hit, and your weapon or unarmed attack gains the reach d12 trait for this attack, replacing any [deadly](rules/traits/deadly.md "Deadly Weapon Trait") trait it already had. Rovagug typically grants this boon when the critical hit could destroy something precious or significant.
 - **Moderate Boon**: You can devour all. You mouth grows into a horrible circular, insectile maw of needle-like teeth. You gain a bite unarmed attack that deals `1d8` piercing damage. Additionally, you can stomach eating anything you can fit down your throat—even rocks or small objects. You gain a +4 status bonus to saves resulting from eating something, such as diseases, poisons, or other effects of the ingested object. This doesn't allow you to digest magic items that would otherwise be difficult or impossible to destroy, such as cursed items or artifacts.
 - **Major Boon**: You can crack the surface of Golaron, accelerating the release of the Rough Beast. You gain the [Quaking Stomp](compendium/feats/quaking-stomp.md) barbarian feat.
 

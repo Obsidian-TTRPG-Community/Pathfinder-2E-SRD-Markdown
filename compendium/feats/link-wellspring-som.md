@@ -7,7 +7,7 @@ tags:
 aliases: ["Link Wellspring"]
 ---
 # Link Wellspring  *Feat 18*  
-[summoner](rules/traits/summoner-som.md)  
+[summoner](rules/traits/summoner-som.md "Summoner Class Trait")  
 
 - **Prerequisites**: [Link Focus](compendium/feats/link-focus-som.md)
 

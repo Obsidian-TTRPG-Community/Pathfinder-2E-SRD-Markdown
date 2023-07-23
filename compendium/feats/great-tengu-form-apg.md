@@ -7,7 +7,7 @@ tags:
 aliases: ["Great Tengu Form"]
 ---
 # Great Tengu Form  *Feat 17*  
-[tengu](rules/traits/tengu-b1.md)  
+[tengu](rules/traits/tengu-b1.md "Tengu Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Long-Nosed Form](compendium/feats/long-nosed-form-apg.md)
 

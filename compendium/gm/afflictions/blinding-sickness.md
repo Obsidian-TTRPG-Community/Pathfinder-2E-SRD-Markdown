@@ -10,7 +10,7 @@ aliases: ["Blinding Sickness"]
 ---
 # Blinding Sickness
 *Disease 7*  
-[disease](rules/traits/disease.md)  
+[disease](rules/traits/disease.md "Disease Effect Trait")  
 
 Endemic to jungles of the Mwangi Expanse, blinding sickness is transmitted by dirty water or the bites of certain creatures.
 

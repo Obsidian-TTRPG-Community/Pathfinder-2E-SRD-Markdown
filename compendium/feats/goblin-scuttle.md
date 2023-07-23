@@ -7,7 +7,7 @@ tags:
 aliases: ["Goblin Scuttle"]
 ---
 # Goblin Scuttle  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
-[goblin](rules/traits/goblin.md)  
+[goblin](rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  
 
 - **Trigger** An ally ends a move action adjacent to you.
 - **Activity** Reaction

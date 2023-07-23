@@ -10,7 +10,7 @@ tags:
 aliases: ["Ephemeral Tracking"]
 ---
 # Ephemeral Tracking *Focus 3*   
-[divination](rules/traits/divination.md)  [ranger](rules/traits/ranger.md)  [uncommon](rules/traits/uncommon.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [ranger](rules/traits/ranger.md "Ranger Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Duration**1 hour

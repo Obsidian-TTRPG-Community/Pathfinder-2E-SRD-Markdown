@@ -13,7 +13,7 @@ tags:
 aliases: ["Dragonfly Potion"]
 ---
 # Dragonfly Potion *Item 12*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [morph](rules/traits/morph.md)  [potion](rules/traits/potion.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [morph](rules/traits/morph.md "Morph Effect Trait")  [potion](rules/traits/potion.md "Potion Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 310 gp
 - **Usage** held in 1 hand; **Bulk** L

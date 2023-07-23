@@ -8,7 +8,7 @@ tags:
 aliases: ["Skeleton Key"]
 ---
 # Skeleton Key *Item 3*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 12 gp
 

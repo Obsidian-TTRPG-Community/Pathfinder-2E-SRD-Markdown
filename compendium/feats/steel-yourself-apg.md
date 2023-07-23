@@ -10,7 +10,7 @@ tags:
 aliases: ["Steel Yourself!"]
 ---
 # Steel Yourself!  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  [auditory](rules/traits/auditory.md)  [emotion](rules/traits/emotion.md)  [mental](rules/traits/mental.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 - **Prerequisites**: [Marshal Dedication](compendium/feats/marshal-dedication-apg.md)
 - **Activity** Single Action

@@ -10,7 +10,7 @@ tags:
 aliases: ["For Love, for Lightning"]
 ---
 # For Love, for Lightning *Focus 6*   
-[electricity](rules/traits/electricity.md)  [evocation](rules/traits/evocation.md)  [uncommon](rules/traits/uncommon.md)  
+[electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Requirements**You are wielding a sword or spear made partly or wholly of metal.

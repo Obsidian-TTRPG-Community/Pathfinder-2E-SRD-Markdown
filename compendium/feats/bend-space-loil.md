@@ -8,7 +8,7 @@ tags:
 aliases: ["Bend Space"]
 ---
 # Bend Space  *Feat 17*  
-[kashrishi](rules/traits/kashrishi-loil.md)  [uncommon](rules/traits/uncommon.md)  
+[kashrishi](rules/traits/kashrishi-loil.md "Kashrishi Ancestry & Heritage Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: Transcendent Realization
 

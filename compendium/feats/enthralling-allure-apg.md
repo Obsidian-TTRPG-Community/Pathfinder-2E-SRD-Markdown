@@ -7,7 +7,7 @@ tags:
 aliases: ["Enthralling Allure"]
 ---
 # Enthralling Allure  *Feat 5*  
-[dhampir](rules/traits/dhampir-b1.md)  
+[dhampir](rules/traits/dhampir-b1.md "Dhampir Ancestry & Heritage Trait")  
 
 
 The powers of domination employed by your progenitors have manifested in you as well. Once per day, you can cast [charm](compendium/spells/charm.md) as a 1st-level divine innate spell.

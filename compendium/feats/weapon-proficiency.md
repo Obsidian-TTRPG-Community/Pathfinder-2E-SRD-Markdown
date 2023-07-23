@@ -7,7 +7,7 @@ tags:
 aliases: ["Weapon Proficiency"]
 ---
 # Weapon Proficiency  *Feat 1*  
-[general](rules/traits/general.md)  
+[general](rules/traits/general.md "General Feat Trait")  
 
 
 You become trained in all simple weapons. If you were already trained in all simple weapons, you become trained in all martial weapons. If you were already trained in all martial weapons, you become trained in one advanced weapon of your choice.

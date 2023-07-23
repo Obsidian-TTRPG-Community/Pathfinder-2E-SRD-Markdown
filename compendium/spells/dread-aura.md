@@ -15,7 +15,7 @@ tags:
 aliases: ["Dread Aura"]
 ---
 # Dread Aura *Focus 4*   
-[aura](rules/traits/aura.md)  [emotion](rules/traits/emotion.md)  [enchantment](rules/traits/enchantment.md)  [fear](rules/traits/fear.md)  [mental](rules/traits/mental.md)  [uncommon](rules/traits/uncommon.md)  [wizard](rules/traits/wizard.md)  
+[aura](rules/traits/aura.md "Aura Combat Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**30-foot-radius emanation centered on you

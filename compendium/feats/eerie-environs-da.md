@@ -8,7 +8,7 @@ tags:
 aliases: ["Eerie Environs"]
 ---
 # Eerie Environs  *Feat 8*  
-[druid](rules/traits/druid.md)  [ranger](rules/traits/ranger.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  [ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: trained in [Intimidation](compendium/skills.md#Intimidation), trained in [Stealth](compendium/skills.md#Stealth)
 

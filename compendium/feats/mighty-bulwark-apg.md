@@ -7,7 +7,7 @@ tags:
 aliases: ["Mighty Bulwark"]
 ---
 # Mighty Bulwark  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Sentinel Dedication](compendium/feats/sentinel-dedication-apg.md)
 

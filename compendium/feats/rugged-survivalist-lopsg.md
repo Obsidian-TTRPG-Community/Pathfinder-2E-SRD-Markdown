@@ -8,7 +8,7 @@ tags:
 aliases: ["Rugged Survivalist"]
 ---
 # Rugged Survivalist  *Feat 12*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Swordmaster Dedication](compendium/feats/swordmaster-dedication-locg.md), master in [Survival](compendium/skills.md#Survival)
 

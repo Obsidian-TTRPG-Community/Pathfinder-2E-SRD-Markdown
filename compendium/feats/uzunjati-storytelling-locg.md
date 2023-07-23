@@ -9,7 +9,7 @@ tags:
 aliases: ["Uzunjati Storytelling"]
 ---
 # Uzunjati Storytelling  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  [concentrate](rules/traits/concentrate.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Magaambyan Attendant Dedication](compendium/feats/magaambyan-attendant-dedication-locg.md), Uzunjati affiliation, master in a [Recall Knowledge](rules/actions/recall-knowledge.md) skill
 - **Activity** Single Action

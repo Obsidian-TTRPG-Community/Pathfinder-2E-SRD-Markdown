@@ -10,7 +10,7 @@ tags:
 aliases: ["You're Next (Rogue)"]
 ---
 # You're Next (Rogue)  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
-[emotion](rules/traits/emotion.md)  [fear](rules/traits/fear.md)  [mental](rules/traits/mental.md)  [rogue](rules/traits/rogue.md)  
+[emotion](rules/traits/emotion.md "Emotion Effect Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Prerequisites**: trained in [Intimidation](compendium/skills.md#Intimidation)
 - **Trigger** You reduce an enemy to 0 hit points.

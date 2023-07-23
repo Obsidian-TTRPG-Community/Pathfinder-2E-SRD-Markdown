@@ -13,7 +13,7 @@ tags:
 aliases: ["Kusarigama"]
 ---
 # Kusarigama *Item 0*  
-[disarm](rules/traits/disarm.md)  [monk](rules/traits/monk.md)  [reach](rules/traits/reach.md)  [trip](rules/traits/trip.md)  [uncommon](rules/traits/uncommon.md)  [versatile <b>](rules/traits/versatile.md)  
+[disarm](rules/traits/disarm.md "Disarm Weapon Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  [reach](rules/traits/reach.md "Reach Weapon Trait")  [trip](rules/traits/trip.md "Trip Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [versatile <b>](rules/traits/versatile-b.md "Versatile Weapon Trait")  
 
 - **Access** If the player character come from a region in Tian Xia, this weapon is common
 - **Price** 2 gp

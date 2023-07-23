@@ -8,7 +8,7 @@ tags:
 aliases: ["No Escape"]
 ---
 # No Escape  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 2*  
-[barbarian](rules/traits/barbarian.md)  [rage](rules/traits/rage.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [rage](rules/traits/rage.md "Rage Combat Trait")  
 
 - **Trigger** A foe within reach attempts to move away from you.
 - **Activity** Reaction

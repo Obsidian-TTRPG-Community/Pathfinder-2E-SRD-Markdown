@@ -12,7 +12,7 @@ tags:
 aliases: ["Tears of Death"]
 ---
 # Tears of Death *Item 20*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [contact](rules/traits/contact.md)  [poison](rules/traits/poison.md)  [virulent](rules/traits/virulent.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [contact](rules/traits/contact.md "Contact Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [virulent](rules/traits/virulent.md "Virulent Item Trait")  
 
 - **Price** 12000 gp
 - **Usage** held in 2 hands; **Bulk** L

@@ -10,7 +10,7 @@ tags:
 aliases: ["Gakgung"]
 ---
 # Gakgung *Item 0*  
-[deadly <d8>](rules/traits/deadly.md)  [monk](rules/traits/monk.md)  [propulsive](rules/traits/propulsive.md)  
+[deadly <d8>](rules/traits/deadly-d8.md "Deadly Weapon Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  [propulsive](rules/traits/propulsive.md "Propulsive Weapon Trait")  
 
 - **Price** 6 gp
 - **Bulk** L

@@ -20,7 +20,7 @@ The champion archetype greatly improves defenses, particularly armor. It's a gre
 title: Champion Dedication, Feat 2
 collapse: closed
 # Champion Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [multiclass](rules/traits/multiclass.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [multiclass](rules/traits/multiclass.md "Multiclass Feat Trait")  
 
 - **Prerequisites**: Strength 14, Charisma 14
 
@@ -38,7 +38,7 @@ You are bound by your deity's anathema and must follow the champion's code and a
 title: Basic Devotion, Feat 4
 collapse: closed
 # Basic Devotion  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Champion Dedication](compendium/feats/champion-dedication.md)
 
@@ -52,7 +52,7 @@ You gain a 1st- or 2nd-level champion feat.
 title: Champion Resiliency, Feat 4
 collapse: closed
 # Champion Resiliency  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Champion Dedication](compendium/feats/champion-dedication.md), class granting no more Hit Points per level than 8 + your Constitution modifier
 
@@ -66,7 +66,7 @@ You gain 3 additional Hit Points for each champion archetype class feat you have
 title: Healing Touch, Feat 4
 collapse: closed
 # Healing Touch  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Champion Dedication](compendium/feats/champion-dedication.md)
 
@@ -80,7 +80,7 @@ You gain the appropriate devotion spell for your cause ([lay on hands](compendiu
 title: Advanced Devotion, Feat 6
 collapse: closed
 # Advanced Devotion  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Devotion](compendium/feats/basic-devotion.md)
 
@@ -96,7 +96,7 @@ You gain one champion feat. For the purpose of meeting its prerequisites, your c
 title: Champion's Reaction, Feat 6
 collapse: closed
 # Champion's Reaction  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Champion Dedication](compendium/feats/champion-dedication.md)
 
@@ -110,7 +110,7 @@ You can use the champion's reaction associated with your cause.
 title: Divine Ally, Feat 6
 collapse: closed
 # Divine Ally  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Champion Dedication](compendium/feats/champion-dedication.md)
 
@@ -124,7 +124,7 @@ You gain a divine ally|Champion||3 of your choice.
 title: Diverse Armor Expert, Feat 14*
 collapse: closed
 # Diverse Armor Expert  *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Diverse Armor Expert](compendium/feats/diverse-armor-expert.md) is intended for use with the Champion Archetype. Its level has been changed accordingly.
 

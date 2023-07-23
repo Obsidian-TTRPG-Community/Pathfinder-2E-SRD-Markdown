@@ -7,7 +7,7 @@ tags:
 aliases: ["Warped Constriction"]
 ---
 # Warped Constriction  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Living Vessel Dedication](compendium/feats/living-vessel-dedication-da.md), your entity is an aberration or outer entity
 - **Requirements**: You have a foe [grabbed](rules/conditions.md#Grabbed) or [restrained](rules/conditions.md#Restrained).

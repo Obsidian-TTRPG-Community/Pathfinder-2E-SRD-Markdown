@@ -8,7 +8,7 @@ tags:
 aliases: ["Entombed Spirit"]
 ---
 # Entombed Spirit *Hazard 2*  
-[complex](rules/traits/complex.md)  [haunt](rules/traits/haunt.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +11 trained  
@@ -25,7 +25,7 @@ The wall bulges out in the shape of a howling humanoid face as it twists and for
      
 ```ad-embed-ability
 title: Gasp [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[enchantment](rules/traits/enchantment.md)  [fear](rules/traits/fear.md)  [mental](rules/traits/mental.md)  [occult](rules/traits/occult.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 - **Trigger**: A creature moves adjacent to the wall where the corpse is entombed
 

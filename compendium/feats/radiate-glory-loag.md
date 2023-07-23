@@ -11,7 +11,7 @@ tags:
 aliases: ["Radiate Glory"]
 ---
 # Radiate Glory  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 17*  
-[aasimar](rules/traits/aasimar-apg.md)  [divine](rules/traits/divine.md)  [evocation](rules/traits/evocation.md)  [light](rules/traits/light.md)  [visual](rules/traits/visual.md)  
+[aasimar](rules/traits/aasimar-apg.md "Aasimar Ancestry & Heritage Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [light](rules/traits/light.md "Light Effect Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Activity** Single Action
 

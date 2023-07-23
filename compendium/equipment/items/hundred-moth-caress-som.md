@@ -10,7 +10,7 @@ tags:
 aliases: ["Hundred-moth Caress"]
 ---
 # Hundred-moth Caress *Item 8*  
-[divine](rules/traits/divine.md)  [necromancy](rules/traits/necromancy.md)  [negative](rules/traits/negative.md)  
+[divine](rules/traits/divine.md "Divine Tradition Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  
 
 - **Price** 475 gp
 - **Usage** held in 2 hands; **Bulk** 2
@@ -20,9 +20,9 @@ The handles of this +1 striking scythe are made from a dull, gray wood of bone-l
 
 ```ad-embed-ability
 title: Activate [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
-[divine](rules/traits/divine.md)  [necromancy](rules/traits/necromancy.md)  [negative](rules/traits/negative.md)  
+[divine](rules/traits/divine.md "Divine Tradition Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  
 
-You deal `1d10` negative damage to yourself. If your next action is to [Strike](rules/actions/strike.md) with the scythe or to [Cast a Spell](rules/actions/cast-a-spell.md) with the [disease](rules/traits/disease.md) or [negative](rules/traits/negative.md) trait, that [Strike](rules/actions/strike.md) or spell deals additional negative damage equal to the damage you took (after any reductions or increases from immunity, resistances, weaknesses).  
+You deal `1d10` negative damage to yourself. If your next action is to [Strike](rules/actions/strike.md) with the scythe or to [Cast a Spell](rules/actions/cast-a-spell.md) with the [disease](rules/traits/disease.md "Disease Effect Trait") or [negative](rules/traits/negative.md "Negative Energy & Element Trait") trait, that [Strike](rules/actions/strike.md) or spell deals additional negative damage equal to the damage you took (after any reductions or increases from immunity, resistances, weaknesses).  
 %% #trait/divine #trait/necromancy #trait/negative %%
 ```
 

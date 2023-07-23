@@ -7,7 +7,7 @@ tags:
 aliases: ["Greater Animal Senses"]
 ---
 # Greater Animal Senses  *Feat 5*  
-[beastkin](rules/traits/beastkin-loag.md)  
+[beastkin](rules/traits/beastkin-loag.md "Beastkin Ancestry & Heritage Trait")  
 
 
 Your senses advance to match those of your animal aspect. You gain one of the following senses available to your inherent animal: echolocation (imprecise) 30 feet or [tremorsense](rules/abilities/tremorsense.md) (imprecise) 30 feet. If your inherent animal doesn't typically have a specific type of sense, you can't gain the sense with this feat.

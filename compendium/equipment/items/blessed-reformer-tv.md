@@ -11,7 +11,7 @@ tags:
 aliases: ["Blessed Reformer"]
 ---
 # Blessed Reformer *Item 14*  
-[divine](rules/traits/divine.md)  [evocation](rules/traits/evocation.md)  [good](rules/traits/good.md)  [uncommon](rules/traits/uncommon.md)  
+[divine](rules/traits/divine.md "Divine Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [good](rules/traits/good.md "Good Alignment Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 4500 gp
 - **Usage** held in 1 hand; **Bulk** 1

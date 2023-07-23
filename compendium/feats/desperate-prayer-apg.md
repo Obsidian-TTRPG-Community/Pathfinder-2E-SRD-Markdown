@@ -7,7 +7,7 @@ tags:
 aliases: ["Desperate Prayer"]
 ---
 # Desperate Prayer  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 1*  
-[champion](rules/traits/champion.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  
 
 - **Frequency**: once per day
 - **Trigger** You begin your turn and have no Focus Points in your pool.

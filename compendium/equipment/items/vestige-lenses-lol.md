@@ -9,7 +9,7 @@ tags:
 aliases: ["Vestige Lenses"]
 ---
 # Vestige Lenses *Item 3*  
-[alchemical](rules/traits/alchemical.md)  [rare](rules/traits/rare.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 40 gp
 - **Usage** worn eyepiece; **Bulk** L

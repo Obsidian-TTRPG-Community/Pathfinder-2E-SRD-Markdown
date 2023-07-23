@@ -8,9 +8,9 @@ tags:
 aliases: ["Temporary Tool"]
 ---
 # Temporary Tool *Spell 1*   
-[conjuration](rules/traits/conjuration.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait")
 - **Cast** 1 minute 
 - **Duration**until used or 1 minute; see text
 

@@ -10,9 +10,9 @@ tags:
 aliases: ["Instant Armor"]
 ---
 # Instant Armor *Spell 2*   
-[conjuration](rules/traits/conjuration.md)  [contingency](rules/traits/contingency-som.md)  [extradimensional](rules/traits/extradimensional.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [contingency](rules/traits/contingency-som.md "Contingency Spell Trait")  [extradimensional](rules/traits/extradimensional.md "Extradimensional Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [divine](rules/traits/divine.md), [occult](rules/traits/occult.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** 10 minutes 
 - **Duration**24 hours
 
@@ -20,7 +20,7 @@ Upon casting this spell, the armor you're wearing is whisked away into an extrad
 
 ```ad-embed-ability
 title: Armor Up! [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[manipulate](rules/traits/manipulate.md)  
+[manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 
 You snap your fingers. The armor returns to your body.  
 %% #trait/manipulate %%

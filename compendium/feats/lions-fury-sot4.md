@@ -7,7 +7,7 @@ tags:
 aliases: ["Lion's Fury"]
 ---
 # Lion's Fury  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: Lion's Might
 

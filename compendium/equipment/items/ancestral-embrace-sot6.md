@@ -12,7 +12,7 @@ tags:
 aliases: ["Ancestral Embrace"]
 ---
 # Ancestral Embrace *Item 26*  
-[artifact](rules/traits/artifact-gmg.md)  [divine](rules/traits/divine.md)  [invested](rules/traits/invested.md)  [necromancy](rules/traits/necromancy.md)  [unique](rules/traits/unique.md)  
+[artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Usage** worn armor; **Bulk** 1
 - **Category** Artifact

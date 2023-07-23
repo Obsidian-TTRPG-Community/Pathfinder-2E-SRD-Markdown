@@ -11,7 +11,7 @@ tags:
 aliases: ["Violin of the Waves"]
 ---
 # Violin of the Waves *Item 9*  
-[auditory](rules/traits/auditory.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 700 gp
 - **Usage** held in 2 hands; **Bulk** 1
@@ -26,7 +26,7 @@ title: Activate [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Actions 
 
 - **Requirements**: You must be aboard a ship
 
-**Effect** You play the song. Once it's completed, the weather immediately calms to the normal as it would for the season, as control weather. For the next day, the weather remains in this state, unless affected by other [magical](rules/traits/magical.md) effects.
+**Effect** You play the song. Once it's completed, the weather immediately calms to the normal as it would for the season, as control weather. For the next day, the weather remains in this state, unless affected by other [magical](rules/traits/magical.md "Magical Item Trait") effects.
 
 Anyone aboard the ship finds their mind wanders when performing tasks however, daydreaming of drunken revelry or other forms of entertainment, and the crew of the ship takes a –2 status penalty to skill checks to do anything other than participate in such revelry.
 ```

@@ -9,7 +9,7 @@ tags:
 aliases: ["Iron Dart Launcher"]
 ---
 # Iron Dart Launcher *Hazard 4*  
-[mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  [uncommon](rules/traits/uncommon.md)  
+[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 25 expert  

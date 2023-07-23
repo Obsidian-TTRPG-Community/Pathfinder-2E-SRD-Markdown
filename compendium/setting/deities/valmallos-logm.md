@@ -10,12 +10,12 @@ tags:
 - domain/magic/deity
 aliases: ["Valmallos", "The Answering Rite"]
 ---
-# Valmallos (The Answering Rite) *([LN](rules/traits/lawful-neutral-b1.md))*  
+# Valmallos (The Answering Rite) *([LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 130*  
 
 - **Category**: Monitor Demigods
 - **Anathema**: grant magic to those who cannot use it responsibly, cause a magical disaster, ignore magical misconduct
-- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [LN](rules/traits/lawful-neutral-b1.md)
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait")
 
 ## Devotee benefits
 

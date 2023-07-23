@@ -7,7 +7,7 @@ tags:
 aliases: ["Flamboyant Athlete"]
 ---
 # Flamboyant Athlete  *Feat 4*  
-[swashbuckler](rules/traits/swashbuckler-apg.md)  
+[swashbuckler](rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  
 
 - **Prerequisites**: expert in [Athletics](compendium/skills.md#Athletics)
 

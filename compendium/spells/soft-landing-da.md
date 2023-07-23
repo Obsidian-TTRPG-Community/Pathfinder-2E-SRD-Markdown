@@ -9,9 +9,9 @@ tags:
 aliases: ["Soft Landing"]
 ---
 # Soft Landing *Spell 4*   
-[abjuration](rules/traits/abjuration.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**mile
 - **Area**20-foot tall, 60-foot radius cylinder with the ground at the bottom

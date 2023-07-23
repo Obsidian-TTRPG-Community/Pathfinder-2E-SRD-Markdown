@@ -21,7 +21,7 @@ Beings of any alignment can inhabit a living vessel. Evil-aligned beings, especi
 title: Living Vessel Dedication, Feat 2
 collapse: closed
 # Living Vessel Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [rare](rules/traits/rare.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 
 Whether willingly or not, you've become a vessel for a being of unimaginable power. You and your GM should work together to determine the being's nature and decide how much you know and how much remains a mystery to you for now. Some decisions might influence your options later.
@@ -47,20 +47,20 @@ No matter the entity's nature, the entity is sure to wreak vengeance upon the fo
 **Special.** You can't select another dedication feat until you've gained two other feats from the living vessel archetype.
 
 *Source: Dark Archive p. 140*  
-%% #trait/rare #trait/archetype #trait/dedication %%
+%% #trait/archetype #trait/dedication #trait/rare %%
 ````  
 
 ```ad-embed-feat
 title: Entity's Strike, Feat 4
 collapse: closed
 # Entity's Strike  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Living Vessel Dedication](compendium/feats/living-vessel-dedication-da.md)
 
 The more you try to force your body to stay yours, the more it warps to channel the energy flowing through you.
 
-Whether you grow horns to match the wild hunt fey within you, develop a claw like that of the treachery demon sharing your soul, or feel a tentacle rip out of you from the outer being that imprinted itself on your psyche, the entity within you refuses to be contained. You gain an unarmed attack of your choice with its type determined by your entity. It deals `1d6` damage of a damage type appropriate for the unarmed attack (such as bludgeoning for the tentacle). This unarmed attack is in the brawling weapon group and has the agile, [finesse](rules/traits/finesse.md), and [magical](rules/traits/magical.md) traits.
+Whether you grow horns to match the wild hunt fey within you, develop a claw like that of the treachery demon sharing your soul, or feel a tentacle rip out of you from the outer being that imprinted itself on your psyche, the entity within you refuses to be contained. You gain an unarmed attack of your choice with its type determined by your entity. It deals `1d6` damage of a damage type appropriate for the unarmed attack (such as bludgeoning for the tentacle). This unarmed attack is in the brawling weapon group and has the agile, [finesse](rules/traits/finesse.md "Finesse Weapon Trait"), and [magical](rules/traits/magical.md "Magical Item Trait") traits.
 
 *Source: Dark Archive p. 140*  
 %% #trait/archetype %%
@@ -70,7 +70,7 @@ Whether you grow horns to match the wild hunt fey within you, develop a claw lik
 title: Tap Vitality, Feat 6
 collapse: closed
 # Tap Vitality  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  [concentrate](rules/traits/concentrate.md)  [healing](rules/traits/healing.md)  [necromancy](rules/traits/necromancy.md)  [positive](rules/traits/positive.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  
 
 - **Prerequisites**: [Living Vessel Dedication](compendium/feats/living-vessel-dedication-da.md)
 - **Frequency**: once per hour
@@ -88,7 +88,7 @@ You tap into the entity's life force to heal your wounds, though at the cost of 
 title: Exude Abyssal Corruption, Feat 8
 collapse: closed
 # Exude Abyssal Corruption  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  [manipulate](rules/traits/manipulate.md)  [poison](rules/traits/poison.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Prerequisites**: [Living Vessel Dedication](compendium/feats/living-vessel-dedication-da.md), your entity is a demon
 - **Activity** Single Action
@@ -105,7 +105,7 @@ At 14th level, the poison damage increases to `2d6`, and at 20th level, the pois
 title: Fey's Trickery, Feat 8
 collapse: closed
 # Fey's Trickery  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  [illusion](rules/traits/illusion.md)  [primal](rules/traits/primal.md)  [visual](rules/traits/visual.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Prerequisites**: [Living Vessel Dedication](compendium/feats/living-vessel-dedication-da.md), your entity is a fey
 - **Frequency**: once per hour
@@ -121,7 +121,7 @@ You connect with the fey trickster within yourself to create whimsical illusory 
 title: Warped Constriction, Feat 8
 collapse: closed
 # Warped Constriction  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Living Vessel Dedication](compendium/feats/living-vessel-dedication-da.md), your entity is an aberration or outer entity
 - **Requirements**: You have a foe [grabbed](rules/conditions.md#Grabbed) or [restrained](rules/conditions.md#Restrained).
@@ -137,7 +137,7 @@ The entity inhabiting your body is an aberrant being with unfathomable motivatio
 title: Vessel's Form, Feat 16*
 collapse: closed
 # Vessel's Form  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 16*  
-[archetype](rules/traits/archetype.md)  [concentrate](rules/traits/concentrate.md)  [polymorph](rules/traits/polymorph.md)  [transmutation](rules/traits/transmutation.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 > [!pf2-note] This version of [Vessel's Form](compendium/feats/vessels-form-da.md) is intended for use with the Living Vessel Archetype. Its level has been changed accordingly.
 

@@ -8,7 +8,7 @@ tags:
 aliases: ["Hide"]
 ---
 # Hide (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[secret](rules/traits/secret.md)  
+[secret](rules/traits/secret.md "Secret General Trait")  
 *Source: Core Rulebook p. 251*  
 
 **Skill** [stealth](compendium/skills.md#Stealth) (untrained)

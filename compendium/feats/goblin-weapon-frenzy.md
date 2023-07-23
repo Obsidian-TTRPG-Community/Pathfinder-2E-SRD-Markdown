@@ -7,7 +7,7 @@ tags:
 aliases: ["Goblin Weapon Frenzy"]
 ---
 # Goblin Weapon Frenzy  *Feat 5*  
-[goblin](rules/traits/goblin.md)  
+[goblin](rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Goblin Weapon Familiarity](compendium/feats/goblin-weapon-familiarity.md)
 

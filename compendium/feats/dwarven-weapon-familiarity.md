@@ -7,7 +7,7 @@ tags:
 aliases: ["Dwarven Weapon Familiarity"]
 ---
 # Dwarven Weapon Familiarity  *Feat 1*  
-[dwarf](rules/traits/dwarf.md)  
+[dwarf](rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  
 
 
 Your kin have instilled in you an affinity for hard-hitting weapons, and you prefer these to more elegant arms. You are trained with the [battle axe](compendium/equipment/items/battle-axe.md), [pick](compendium/equipment/items/pick.md), and [warhammer](compendium/equipment/items/warhammer.md).

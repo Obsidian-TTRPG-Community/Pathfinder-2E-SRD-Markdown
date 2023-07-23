@@ -7,7 +7,7 @@ tags:
 aliases: ["Wayfinder Resonance Infiltrator"]
 ---
 # Wayfinder Resonance Infiltrator  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Pathfinder Agent Dedication](compendium/feats/pathfinder-agent-dedication-lowg.md), [Wayfinder Resonance Tinkerer](compendium/feats/wayfinder-resonance-tinkerer-lowg.md) (World Guide 23)
 

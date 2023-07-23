@@ -9,9 +9,9 @@ tags:
 aliases: ["Mage Hand"]
 ---
 # Mage Hand *Cantrip 1*   
-[cantrip](rules/traits/cantrip.md)  [evocation](rules/traits/evocation.md)  
+[cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot
 - **Targets**1 unattended object of light Bulk or less

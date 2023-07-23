@@ -7,7 +7,7 @@ tags:
 aliases: ["Conflux Focus"]
 ---
 # Conflux Focus  *Feat 12*  
-[magus](rules/traits/magus-som.md)  
+[magus](rules/traits/magus-som.md "Magus Class Trait")  
 
 - **Prerequisites**: conflux spells
 

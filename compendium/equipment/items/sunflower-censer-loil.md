@@ -10,7 +10,7 @@ tags:
 aliases: ["Sunflower Censer"]
 ---
 # Sunflower Censer *Item 8*  
-[illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 480 gp
 - **Usage** worn or held in one hand; **Bulk** L

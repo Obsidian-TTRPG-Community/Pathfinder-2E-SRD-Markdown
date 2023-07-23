@@ -10,7 +10,7 @@ tags:
 aliases: ["Battle Medicine"]
 ---
 # Battle Medicine  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
-[general](rules/traits/general.md)  [healing](rules/traits/healing.md)  [manipulate](rules/traits/manipulate.md)  [skill](rules/traits/skill.md)  
+[general](rules/traits/general.md "General Feat Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: trained in [Medicine](compendium/skills.md#Medicine)
 - **Requirements**: You are holding or wearing [healer's tools](compendium/equipment/items/healers-tools.md) and have a hand free.

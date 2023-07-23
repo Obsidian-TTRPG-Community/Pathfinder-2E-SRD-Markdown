@@ -10,7 +10,7 @@ tags:
 aliases: ["Wish-twisted Form"]
 ---
 # Wish-twisted Form *Focus 5*   
-[sorcerer](rules/traits/sorcerer.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+[sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bloodline** Sorcerer
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

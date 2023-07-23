@@ -22,7 +22,7 @@ A wall socket loaded with a spear connects to a floor tile in one 5-foot square.
      
 ```ad-embed-ability
 title: Spear [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[attack](rules/traits/attack.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  
 
 When pressure is applied to the floor tile, the trap shoots a spear, making an attack against the creature or object on the floor tile. The trap makes a ranged attack, rolling a `1d20` and adding 14. On a hit, it deals `2d6 + 6` piercing damage (doubled on a critical hit as normal).  
 %% #trait/attack %%

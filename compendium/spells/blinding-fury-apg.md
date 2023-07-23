@@ -12,9 +12,9 @@ tags:
 aliases: ["Blinding Fury"]
 ---
 # Blinding Fury *Spell 6*   
-[curse](rules/traits/curse.md)  [emotion](rules/traits/emotion.md)  [enchantment](rules/traits/enchantment.md)  [incapacitation](rules/traits/incapacitation.md)  [mental](rules/traits/mental.md)  
+[curse](rules/traits/curse.md "Curse Effect Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md), [occult](rules/traits/occult.md), [primal](rules/traits/primal.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
 - **Trigger**A creature damages you.
 - **Range**60 foot

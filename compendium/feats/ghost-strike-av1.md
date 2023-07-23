@@ -7,7 +7,7 @@ tags:
 aliases: ["Ghost Strike"]
 ---
 # Ghost Strike  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Ghost Hunter Dedication](compendium/feats/ghost-hunter-dedication-av1.md)
 - **Activity** Two-Action

@@ -8,7 +8,7 @@ tags:
 aliases: ["Feint"]
 ---
 # Feint (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[mental](rules/traits/mental.md)  
+[mental](rules/traits/mental.md "Mental Effect Trait")  
 *Source: Core Rulebook p. 246*  
 
 **Skill** [deception](compendium/skills.md#Deception) (trained)

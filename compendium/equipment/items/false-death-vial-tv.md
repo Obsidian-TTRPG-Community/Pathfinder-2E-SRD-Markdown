@@ -12,7 +12,7 @@ tags:
 aliases: ["False Death Vial"]
 ---
 # False Death Vial *Item 13+*  
-[conjuration](rules/traits/conjuration.md)  [consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [talisman](rules/traits/talisman.md)  [uncommon](rules/traits/uncommon.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Usage** affixed to explorer's clothing (or another item in the unarmored defense category); **Bulk** —
 - **Activate** envision; **Trigger** You would be reduced to 0 Hit Points by damage but not immediately killed; **Requirements** You are unarmored.

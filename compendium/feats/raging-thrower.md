@@ -7,7 +7,7 @@ tags:
 aliases: ["Raging Thrower"]
 ---
 # Raging Thrower  *Feat 1*  
-[barbarian](rules/traits/barbarian.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  
 
 
 Thrown weapons become especially deadly in your fury. You apply the additional damage from [Rage](rules/actions/rage.md) to your thrown weapon attacks. If you have the [Brutal Critical](compendium/feats/brutal-critical.md) feat or the devastator class feature, apply their benefits to thrown weapon attacks.

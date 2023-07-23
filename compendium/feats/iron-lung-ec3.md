@@ -7,7 +7,7 @@ tags:
 aliases: ["Iron Lung"]
 ---
 # Iron Lung  *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Golem Grafter Dedication](compendium/feats/golem-grafter-dedication-ec3.md)
 
@@ -15,7 +15,7 @@ Your lungs are infused with the resilience of iron. Treat the result of your sav
 
 ```ad-embed-ability
 title: Exhale Poison [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
-[arcane](rules/traits/arcane.md)  [necromancy](rules/traits/necromancy.md)  [poison](rules/traits/poison.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Requirements**: You were within the area of an inhaled poison within the last minute
 

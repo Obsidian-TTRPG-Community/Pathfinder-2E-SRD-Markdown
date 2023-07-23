@@ -7,7 +7,7 @@ tags:
 aliases: ["Miracle Worker"]
 ---
 # Miracle Worker  *Feat 18*  
-[alchemist](rules/traits/alchemist.md)  
+[alchemist](rules/traits/alchemist.md "Alchemist Class Trait")  
 
 - **Frequency**: once every minute
 

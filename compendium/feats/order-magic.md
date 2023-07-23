@@ -7,7 +7,7 @@ tags:
 aliases: ["Order Magic"]
 ---
 # Order Magic  *Feat 4*  
-[druid](rules/traits/druid.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  
 
 - **Prerequisites**: [Order Explorer](compendium/feats/order-explorer.md)
 

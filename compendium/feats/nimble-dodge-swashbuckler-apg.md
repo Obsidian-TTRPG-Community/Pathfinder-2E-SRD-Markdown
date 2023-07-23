@@ -7,7 +7,7 @@ tags:
 aliases: ["Nimble Dodge (Swashbuckler)"]
 ---
 # Nimble Dodge (Swashbuckler)  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
-[swashbuckler](rules/traits/swashbuckler-apg.md)  
+[swashbuckler](rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  
 
 - **Trigger** A creature you can see targets you with an attack.
 - **Requirements**: You aren't [encumbered](rules/conditions.md#Encumbered).

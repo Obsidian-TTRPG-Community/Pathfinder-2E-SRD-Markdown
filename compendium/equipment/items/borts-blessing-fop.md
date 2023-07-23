@@ -10,7 +10,7 @@ tags:
 aliases: ["Bort's Blessing"]
 ---
 # Bort's Blessing *Item 5*  
-[divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [rare](rules/traits/rare.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 160 gp
 - **Usage** worn

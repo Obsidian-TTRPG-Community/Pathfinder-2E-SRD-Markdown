@@ -7,7 +7,7 @@ tags:
 aliases: ["Lorefinder"]
 ---
 # Lorefinder  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Eldritch Researcher Dedication](compendium/feats/eldritch-researcher-dedication-av2.md)
 

@@ -11,7 +11,7 @@ tags:
 aliases: ["Establish Ward"]
 ---
 # Establish Ward *Focus 5*   
-[abjuration](rules/traits/abjuration.md)  [sorcerer](rules/traits/sorcerer.md)  [uncommon](rules/traits/uncommon.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bloodline** Sorcerer
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

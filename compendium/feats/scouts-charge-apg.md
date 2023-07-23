@@ -8,7 +8,7 @@ tags:
 aliases: ["Scout's Charge"]
 ---
 # Scout's Charge  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  [flourish](rules/traits/flourish.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 - **Prerequisites**: [Scout Dedication](compendium/feats/scout-dedication-apg.md)
 - **Activity** Two-Action

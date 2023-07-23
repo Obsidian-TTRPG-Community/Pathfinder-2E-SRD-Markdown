@@ -7,7 +7,7 @@ tags:
 aliases: ["Heal Companion"]
 ---
 # Heal Companion  *Feat 1*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: an animal companion
 

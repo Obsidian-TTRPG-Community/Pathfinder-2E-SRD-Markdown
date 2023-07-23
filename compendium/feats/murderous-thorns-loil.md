@@ -7,7 +7,7 @@ tags:
 aliases: ["Murderous Thorns"]
 ---
 # Murderous Thorns  *Feat 5*  
-[ghoran](rules/traits/ghoran-loil.md)  
+[ghoran](rules/traits/ghoran-loil.md "Ghoran Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Hidden](rules/conditions.md#Hidden) Thorn or thorned rose
 

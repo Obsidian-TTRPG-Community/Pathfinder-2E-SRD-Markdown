@@ -7,7 +7,7 @@ tags:
 aliases: ["Zombie Horde"]
 ---
 # Zombie Horde  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 20*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Clockwork Reanimator Dedication](compendium/feats/clockwork-reanimator-dedication-ooa3.md)
 - **Activity** Three-Action

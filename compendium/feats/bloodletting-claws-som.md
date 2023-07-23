@@ -8,7 +8,7 @@ tags:
 aliases: ["Bloodletting Claws"]
 ---
 # Bloodletting Claws  *Feat 4*  
-[evolution](rules/traits/evolution-som.md)  [summoner](rules/traits/summoner-som.md)  
+[evolution](rules/traits/evolution-som.md "Evolution Feat Trait")  [summoner](rules/traits/summoner-som.md "Summoner Class Trait")  
 
 
 Your eidolon inflicts bleeding wounds on a telling blow. If your eidolon critically hits with a melee unarmed [Strike](rules/actions/strike.md) that deals slashing or piercing, its target takes `1d6` [persistent bleed damage](rules/conditions.md#Persistent%20Damage). Your eidolon gains an item bonus to this bleed damage equal to the unarmed attack's item bonus to attack rolls. This is a critical specialization effect.

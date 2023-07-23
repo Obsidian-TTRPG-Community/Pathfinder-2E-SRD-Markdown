@@ -7,7 +7,7 @@ tags:
 aliases: ["Earned Glory"]
 ---
 # Earned Glory  *Feat 1*  
-[half-elf](rules/traits/half-elf.md)  
+[half-elf](rules/traits/half-elf.md "Half-Elf Ancestry & Heritage Trait")  
 
 
 Elves are often skeptical of their half-elven kin, and you are experienced at telling stories of your accomplishments to gain their respect. You are trained in [Performance](compendium/skills.md#Performance). If you would automatically become trained in [Performance](compendium/skills.md#Performance) (from your background or class, for example), you instead become trained in a skill of your choice.

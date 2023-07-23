@@ -7,7 +7,7 @@ tags:
 aliases: ["Delay Trap"]
 ---
 # Delay Trap  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Trigger** A trap within your reach is triggered.
 - **Activity** Reaction

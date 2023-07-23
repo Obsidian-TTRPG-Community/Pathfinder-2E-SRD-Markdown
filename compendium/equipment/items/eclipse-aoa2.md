@@ -11,7 +11,7 @@ tags:
 aliases: ["Eclipse"]
 ---
 # Eclipse *Item 8*  
-[evocation](rules/traits/evocation.md)  [light](rules/traits/light.md)  [magical](rules/traits/magical.md)  [unique](rules/traits/unique.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [light](rules/traits/light.md "Light Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Price** 450 gp
 - **Usage** held in 1 hand; **Bulk** L
@@ -24,7 +24,7 @@ Whenever you score a critical hit with _Eclipse_, the target creature's eyes are
 ```ad-embed-ability
 title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 
-_Eclipse's_ blades glow like starlit night sky, causing it to shed light as a torch until you deactivate it as a single action, which has the [concentrate](rules/traits/concentrate.md) trait.
+_Eclipse's_ blades glow like starlit night sky, causing it to shed light as a torch until you deactivate it as a single action, which has the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") trait.
 ```
 
 ```ad-embed-ability

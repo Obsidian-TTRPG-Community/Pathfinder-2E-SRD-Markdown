@@ -17,13 +17,13 @@ tags:
 - trait/reach-15-feet
 aliases: ["Gruhastha", "The Keeper"]
 ---
-# Gruhastha (The Keeper) *([CN](rules/traits/chaotic-neutral-b1.md))*  
+# Gruhastha (The Keeper) *([CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 62*  
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: deny a sincere student education, destroy knowledge, disrespect the traditions of those around you, willfully spread ignorance or wrong information
 - **Areas of Concern**: enlightenment, , the Vudrani holy book
-- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [NG](rules/traits/neutral-good-b1.md)
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait")
 
 ## Devotee benefits
 
@@ -41,8 +41,8 @@ When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Gr
 title: [Avatar](compendium/spells/avatar.md) of Gruhastha
 
 - **Speed**: Speed 50 feet, fly 70 feet
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") fist ([agile](rules/traits/agile.md), [finesse](rules/traits/finesse.md), [nonlethal](rules/traits/nonlethal.md), [reach <15 feet>](rules/traits/reach.md)), **Damage** `6d6+6` bludgeoning
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") arrow of enlightenment ([deadly <3d10>](rules/traits/deadly.md)), **Damage** `6d6+3` piercing
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") fist ([agile](rules/traits/agile.md "Agile Weapon Trait"), [finesse](rules/traits/finesse.md "Finesse Weapon Trait"), [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait")), **Damage** `6d6+6` bludgeoning
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") arrow of enlightenment ([deadly <3d10>](rules/traits/deadly-3d10.md "Deadly Weapon Trait")), **Damage** `6d6+3` piercing
 ```
 
 ## Divine intercession
@@ -52,7 +52,7 @@ The Keeper encourages the search for knowledge and rewards those that travel the
 
 - **Minor Boon** Books fall open to insightful passages, and memories spring to mind when they are most needed. Once, when you fail a check to [Recall Knowledge](rules/actions/recall-knowledge.md), you critically succeed instead. Gruhastha typically grants this boon for an extremely consequential attempt to [Recall Knowledge](rules/actions/recall-knowledge.md), particularly when misinformation would have dire consequences.
 - **Moderate Boon**: The Keeper speeds your path toward learning new talents. You become permanently trained in two additional skills of your choice. Additionally, you can select a skill you are already trained in and permanently increase your proficiency rank in that skill, following the usual rules for skill increases.
-- **Major Boon**: You are a divine inspiration to others around you. When attempting any checks to [Recall Knowledge](rules/actions/recall-knowledge.md), you can roll twice and use the better result; this is a [fortune](rules/traits/fortune.md) effect. Additionally, allies within 60 feet gain a +2 status bonus to Will saves.
+- **Major Boon**: You are a divine inspiration to others around you. When attempting any checks to [Recall Knowledge](rules/actions/recall-knowledge.md), you can roll twice and use the better result; this is a [fortune](rules/traits/fortune.md "Fortune Effect Trait") effect. Additionally, allies within 60 feet gain a +2 status bonus to Will saves.
 
 - **Minor Curse**: As you stray from the truth, dissonant notes seem to interrupt you whenever you speak. You take a –2 status penalty to all [Deception](compendium/skills.md#Deception) checks.
 - **Moderate Curse** Enlightenment begins to elude you, leaving you at a loss for knowledge. Whenever you attempt a check to [Recall Knowledge](rules/actions/recall-knowledge.md), you use a result one degree of success worse than the result you rolled.

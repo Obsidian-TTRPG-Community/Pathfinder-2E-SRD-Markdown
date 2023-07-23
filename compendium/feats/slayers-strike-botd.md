@@ -11,7 +11,7 @@ tags:
 aliases: ["Slayer's Strike"]
 ---
 # Slayer's Strike  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  [flourish](rules/traits/flourish.md)  [necromancy](rules/traits/necromancy.md)  [occult](rules/traits/occult.md)  [positive](rules/traits/positive.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  
 
 - **Prerequisites**: [Undead Slayer Dedication](compendium/feats/undead-slayer-dedication-botd.md)
 - **Activity** Two-Action

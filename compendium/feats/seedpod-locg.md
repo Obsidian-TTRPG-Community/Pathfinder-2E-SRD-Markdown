@@ -7,10 +7,10 @@ tags:
 aliases: ["Seedpod"]
 ---
 # Seedpod  *Feat 1*  
-[leshy](rules/traits/leshy-b1.md)  
+[leshy](rules/traits/leshy-b1.md "Leshy Ancestry & Heritage Trait")  
 
 
-Your body produces a nearly endless supply of hard seedpods. You gain a seedpod ranged unarmed attack with a range increment of 10 feet that deals `1d4` bludgeoning damage; these [Strikes](rules/actions/strike.md) have the [manipulate](rules/traits/manipulate.md) trait. On a critical hit, a seedpod bursts, issuing forth a tangle of vegetation that imposes a –10-foot circumstance penalty on the target's Speed for 1 round. Seedpods do not add critical specialization effects.
+Your body produces a nearly endless supply of hard seedpods. You gain a seedpod ranged unarmed attack with a range increment of 10 feet that deals `1d4` bludgeoning damage; these [Strikes](rules/actions/strike.md) have the [manipulate](rules/traits/manipulate.md "Manipulate General Trait") trait. On a critical hit, a seedpod bursts, issuing forth a tangle of vegetation that imposes a –10-foot circumstance penalty on the target's Speed for 1 round. Seedpods do not add critical specialization effects.
 
 ## Seedpod leads to...
 

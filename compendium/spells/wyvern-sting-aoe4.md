@@ -10,9 +10,9 @@ tags:
 aliases: ["Wyvern Sting"]
 ---
 # Wyvern Sting *Spell 5*   
-[necromancy](rules/traits/necromancy.md)  [poison](rules/traits/poison.md)  [uncommon](rules/traits/uncommon.md)  
+[necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**touch
 - **Targets**1 creature
@@ -29,7 +29,7 @@ You duplicate the venomous sting of a wyvern. You deal `3d4` piercing damage to 
 ```ad-inline-affliction
 title: Wyvern Venom _Level 9_
 
-[poison](rules/traits/poison.md)  
+[poison](rules/traits/poison.md "Poison Effect Trait")  
 - **Maximum Duration**: 6 rounds
 
 ## Stages
@@ -41,7 +41,7 @@ title: Wyvern Venom _Level 9_
 **Stage 3** `8d6` poison damage (1 round)
 
 
-%% #trait/poison #affliction/level/level-9 %%
+%% #affliction/level/level-9 #trait/poison %%
 ```
 
 ## Summary

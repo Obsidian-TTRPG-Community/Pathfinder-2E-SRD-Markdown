@@ -9,7 +9,7 @@ tags:
 aliases: ["Master Spellcasting"]
 ---
 # Master Spellcasting  *Feat 18*  
-[[class]](rules/traits/any-class-som.md)  [pervasive magic](rules/traits/pervasive-magic-som.md)  [rare](rules/traits/rare.md)  
+[[class]](rules/traits/class-som.md "Any Class Class Trait")  [pervasive magic](rules/traits/pervasive-magic-som.md "Pervasive Magic General Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Prerequisites**: [Expert Spellcasting](compendium/feats/expert-spellcasting-som.md)
 

@@ -12,7 +12,7 @@ tags:
 aliases: ["Boarding Axe"]
 ---
 # Boarding Axe *Item 0*  
-[agile](rules/traits/agile.md)  [azarketi](rules/traits/azarketi-loag.md)  [climbing](rules/traits/climbing-aaws.md)  [uncommon](rules/traits/uncommon.md)  [versatile <p>](rules/traits/versatile.md)  
+[agile](rules/traits/agile.md "Agile Weapon Trait")  [azarketi](rules/traits/azarketi-loag.md "Azarketi Ancestry & Heritage Trait")  [climbing](rules/traits/climbing-aaws.md "Climbing Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [versatile <p>](rules/traits/versatile-p.md "Versatile Weapon Trait")  
 
 - **Price** 1 gp
 - **Bulk** L

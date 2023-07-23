@@ -10,7 +10,7 @@ tags:
 aliases: ["Confounding Portal"]
 ---
 # Confounding Portal *Hazard 0*  
-[illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  [trap](rules/traits/trap.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 16  
@@ -21,7 +21,7 @@ Tiny runes carved around a doorframe or on a hall's walls surreptitiously confou
      
 ```ad-embed-ability
 title: Confounding Misdirection [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[arcane](rules/traits/arcane.md)  [illusion](rules/traits/illusion.md)  [mental](rules/traits/mental.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 - **Trigger**: A creature passes through the rune-carved doorway or hallway
 

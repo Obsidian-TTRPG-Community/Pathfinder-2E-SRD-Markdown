@@ -7,7 +7,7 @@ tags:
 aliases: ["Rain-scribe Mobility"]
 ---
 # Rain-scribe Mobility  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Magaambyan Attendant Dedication](compendium/feats/magaambyan-attendant-dedication-locg.md), Rain-Scribes affiliation
 - **Activity** Two-Action

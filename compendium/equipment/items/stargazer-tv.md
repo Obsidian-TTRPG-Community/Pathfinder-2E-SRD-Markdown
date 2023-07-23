@@ -12,7 +12,7 @@ tags:
 aliases: ["Stargazer"]
 ---
 # Stargazer *Item 14*  
-[divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [scrying](rules/traits/scrying.md)  [uncommon](rules/traits/uncommon.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [scrying](rules/traits/scrying.md "Scrying Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 6500 gp
 - **Usage** held in 1 hand; **Bulk** L

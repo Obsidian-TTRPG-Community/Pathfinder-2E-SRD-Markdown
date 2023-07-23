@@ -10,12 +10,12 @@ tags:
 - domain/zeal/deity
 aliases: ["Angradd", "The Forge-Fire"]
 ---
-# Angradd (The Forge-Fire) *([LG](rules/traits/lawful-goo-b1.md))*  
+# Angradd (The Forge-Fire) *([LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 126*  
 
 - **Category**: Dwarven Gods
 - **Anathema**: allow weaker evils to survive due to the presence of larger evils, deceive others outside of tactical gain
-- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [LN](rules/traits/lawful-neutral-b1.md)
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait")
 
 ## Devotee benefits
 

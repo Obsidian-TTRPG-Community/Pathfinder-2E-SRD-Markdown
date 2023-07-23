@@ -9,7 +9,7 @@ tags:
 aliases: ["Immovable Arm"]
 ---
 # Immovable Arm *Item 9*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 700 gp
 - **Usage** worn; **Bulk** 1

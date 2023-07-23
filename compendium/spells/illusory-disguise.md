@@ -9,9 +9,9 @@ tags:
 aliases: ["Illusory Disguise"]
 ---
 # Illusory Disguise *Spell 1*   
-[illusion](rules/traits/illusion.md)  [visual](rules/traits/visual.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Duration**1 hour
 
@@ -19,8 +19,8 @@ You create an illusion that causes you to appear as another creature of the same
 
 Casting illusory disguise counts as setting up a disguise for the [Impersonate](rules/actions/impersonate.md) use of [Deception](compendium/skills.md#Deception); it ignores any circumstance penalties you might take for disguising yourself as a dissimilar creature, it gives you a +4 status bonus to [Deception](compendium/skills.md#Deception) checks to prevent others from seeing through your disguise, and you add your level even if you're untrained. You can [Dismiss](rules/actions/dismiss.md) this spell.
 
-**Heightened (2nd)** The spell also disguises your voice and [scent](rules/abilities/scent.md), and it gains the [auditory](rules/traits/auditory.md) and [olfactory](rules/traits/olfactory-b1.md) traits.
+**Heightened (2nd)** The spell also disguises your voice and [scent](rules/abilities/scent.md), and it gains the [auditory](rules/traits/auditory.md "Auditory Effect Trait") and [olfactory](rules/traits/olfactory-b1.md "Olfactory Effect Trait") traits.
 
-**Heightened (3rd)** You can appear as any creature of the same size, even a specific individual. You must have seen an individual to take on their appearance. The spell also disguises your voice and [scent](rules/abilities/scent.md), and it gains the [auditory](rules/traits/auditory.md) trait.
+**Heightened (3rd)** You can appear as any creature of the same size, even a specific individual. You must have seen an individual to take on their appearance. The spell also disguises your voice and [scent](rules/abilities/scent.md), and it gains the [auditory](rules/traits/auditory.md "Auditory Effect Trait") trait.
 
 *Source: Core Rulebook p. 345*

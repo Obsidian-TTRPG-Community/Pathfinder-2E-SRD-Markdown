@@ -9,7 +9,7 @@ tags:
 aliases: ["Armageddon Orb"]
 ---
 # Armageddon Orb *Hazard 23*  
-[magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  [trap](rules/traits/trap.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 10 or [detect magic](compendium/spells/detect-magic.md).  
@@ -20,7 +20,7 @@ A roiling red orb, forged from a drop of the god Rovagug's blood, rains fire fro
      
 ```ad-embed-ability
 title: Burn It All [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[death](rules/traits/death.md)  [divine](rules/traits/divine.md)  [evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  
+[death](rules/traits/death.md "Death Effect Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  
 
 - **Trigger**: A special condition set by the trap's creator occurs; this is typically the event of their death.
 

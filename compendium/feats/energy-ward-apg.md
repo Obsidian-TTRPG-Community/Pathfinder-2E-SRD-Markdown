@@ -8,7 +8,7 @@ tags:
 aliases: ["Energy Ward"]
 ---
 # Energy Ward  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 10*  
-[abjuration](rules/traits/abjuration.md)  [sorcerer](rules/traits/sorcerer.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 - **Frequency**: once per turn
 - **Requirements**: Your most recent action was to cast a non-cantrip spell that dealt energy damage.

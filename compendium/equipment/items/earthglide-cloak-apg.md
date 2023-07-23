@@ -11,7 +11,7 @@ tags:
 aliases: ["Earthglide Cloak"]
 ---
 # Earthglide Cloak *Item 15*  
-[earth](rules/traits/earth.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+[earth](rules/traits/earth.md "Earth Energy & Element Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 6500 gp
 - **Usage** worn cloak

@@ -11,7 +11,7 @@ tags:
 aliases: ["Mask of Uncanny Breath"]
 ---
 # Mask of Uncanny Breath *Item 11*  
-[focused](rules/traits/focused.md)  [invested](rules/traits/invested.md)  [necromancy](rules/traits/necromancy.md)  [occult](rules/traits/occult.md)  
+[focused](rules/traits/focused.md "Focused Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 - **Price** 1200 gp
 - **Usage** worn mask; **Bulk** L

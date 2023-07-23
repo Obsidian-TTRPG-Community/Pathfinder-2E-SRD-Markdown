@@ -7,7 +7,7 @@ tags:
 aliases: ["Ghostly Resistance"]
 ---
 # Ghostly Resistance  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Ghost Dedication](compendium/feats/ghost-dedication-botd.md)
 

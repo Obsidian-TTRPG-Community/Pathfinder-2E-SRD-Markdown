@@ -7,7 +7,7 @@ tags:
 aliases: ["Speak With Bats"]
 ---
 # Speak With Bats  *Feat 1*  
-[sprite](rules/traits/sprite-b1.md)  
+[sprite](rules/traits/sprite-b1.md "Sprite Ancestry & Heritage Trait")  
 
 - **Prerequisites**: nyktera heritage
 

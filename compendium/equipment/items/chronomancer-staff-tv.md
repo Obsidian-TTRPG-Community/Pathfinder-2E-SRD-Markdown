@@ -11,7 +11,7 @@ tags:
 aliases: ["Chronomancer Staff"]
 ---
 # Chronomancer Staff *Item 17*  
-[divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  [staff](rules/traits/staff.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  
 
 - **Price** 15000 gp
 - **Usage** held in 1 hand; **Bulk** 1

@@ -10,7 +10,7 @@ tags:
 aliases: ["Rebounding Breastplate"]
 ---
 # Rebounding Breastplate *Item 20*  
-[evocation](rules/traits/evocation.md)  [force](rules/traits/force.md)  [magical](rules/traits/magical.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 70000 gp
 - **Usage** worn armor

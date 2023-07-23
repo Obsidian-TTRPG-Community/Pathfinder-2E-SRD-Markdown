@@ -7,7 +7,7 @@ tags:
 aliases: ["Kashrishi Revivification"]
 ---
 # Kashrishi Revivification  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 13*  
-[kashrishi](rules/traits/kashrishi-loil.md)  
+[kashrishi](rules/traits/kashrishi-loil.md "Kashrishi Ancestry & Heritage Trait")  
 
 - **Frequency**: once per day
 - **Trigger** You have the [dying](rules/conditions.md#Dying) condition and are about to attempt a recovery check.

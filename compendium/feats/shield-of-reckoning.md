@@ -8,7 +8,7 @@ tags:
 aliases: ["Shield Of Reckoning"]
 ---
 # Shield Of Reckoning  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
-[champion](rules/traits/champion.md)  [flourish](rules/traits/flourish.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 - **Prerequisites**: champion's reaction, divine ally (shield), tenets of good, [Shield Warden](compendium/feats/shield-warden-champion.md)
 - **Trigger** A foe's attack against an ally matches the trigger for both your [Shield Block](compendium/feats/shield-block.md) reaction and your champion's reaction.

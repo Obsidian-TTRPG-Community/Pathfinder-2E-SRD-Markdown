@@ -7,7 +7,7 @@ tags:
 aliases: ["Blessed Blood"]
 ---
 # Blessed Blood  *Feat 1*  
-[sorcerer](rules/traits/sorcerer.md)  
+[sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 - **Prerequisites**: bloodline that grants divine spells, you follow a deity
 

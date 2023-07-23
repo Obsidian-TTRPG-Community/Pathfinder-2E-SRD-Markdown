@@ -11,7 +11,7 @@ tags:
 aliases: ["Guiding Star"]
 ---
 # Guiding Star *Item 7*  
-[chaotic](rules/traits/chaotic.md)  [divine](rules/traits/divine.md)  [evocation](rules/traits/evocation.md)  [good](rules/traits/good.md)  
+[chaotic](rules/traits/chaotic.md "Chaotic Alignment Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [good](rules/traits/good.md "Good Alignment Trait")  
 
 - **Price** 325 gp
 - **Usage** held in 1 hand Bulk L

@@ -7,7 +7,7 @@ tags:
 aliases: ["Precise Finisher"]
 ---
 # Precise Finisher  *Feat 6*  
-[swashbuckler](rules/traits/swashbuckler-apg.md)  
+[swashbuckler](rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  
 
 - **Prerequisites**: [Confident Finisher](rules/actions/confident-finisher-apg.md)
 

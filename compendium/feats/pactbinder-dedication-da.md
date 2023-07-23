@@ -9,7 +9,7 @@ tags:
 aliases: ["Pactbinder Dedication"]
 ---
 # Pactbinder Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: trained in [Diplomacy](compendium/skills.md#Diplomacy) as well as either [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), or [Religion](compendium/skills.md#Religion)
 
@@ -17,7 +17,7 @@ The first step toward forming a successful pact is an understanding of the magic
 
 ```ad-embed-ability
 title: Binding Vow [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[auditory](rules/traits/auditory.md)  [concentrate](rules/traits/concentrate.md)  [enchantment](rules/traits/enchantment.md)  [occult](rules/traits/occult.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 You bind yourself by formally speaking a binding vow. Supernatural power flows through and around you as you speak it, and all those present to hear it intrinsically know that it binds you. Breaking this vow is anathema to you, and if you break it willingly, you lose all pactbinder benefits until you fulfill your vow or, if that's impossible, participate in an atone ritual. The vow doesn't prevent unwilling violations and can't be used to try to circumvent mind-control magic, confusion, or similar situations where you perform an action not entirely of your own volition. A Binding Vow doesn't end until you've fulfilled it. Even if you die, the vow still binds you if you return to life. The vow doesn't force you to go to ridiculous extremes, such as [dying](rules/conditions.md#Dying), to fulfill your vow unless you specifically swear to go to such extremes. Trying to subvert your binding vow by making selfish promises (such as swearing to an ally that you'll kill someone you already wanted to kill) is in itself a violation of your vow, as is attempting to subvert other vows you've made (such as those from other pactbinder feats or a champion's code).
 

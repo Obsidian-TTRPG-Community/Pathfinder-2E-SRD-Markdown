@@ -12,7 +12,7 @@ tags:
 aliases: ["Mosquito Blight"]
 ---
 # Mosquito Blight *Ritual 5*  
-[conjuration](rules/traits/conjuration.md)  [disease](rules/traits/disease.md)  [necromancy](rules/traits/necromancy.md)  [rare](rules/traits/rare.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [disease](rules/traits/disease.md "Disease Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Cast** 1 day
 - **Cost** amber and rare incense worth 750 gp
@@ -26,7 +26,7 @@ title: Witch's Hunger, _Disease 1_
 collapse: closed
 # Witch's Hunger
 *Disease 1*  
-[disease](rules/traits/disease.md)  
+[disease](rules/traits/disease.md "Disease Effect Trait")  
 
 ```ad-inline-affliction
 title: Saving Throw: Fortitude

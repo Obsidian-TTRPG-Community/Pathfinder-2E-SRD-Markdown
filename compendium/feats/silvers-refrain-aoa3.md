@@ -8,7 +8,7 @@ tags:
 aliases: ["Silver's Refrain"]
 ---
 # Silver's Refrain  *Feat 12*  
-[bard](rules/traits/bard.md)  [rare](rules/traits/rare.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 
 You learn the [silver's refrain](compendium/spells/silvers-refrain-aoa3.md) composition cantrip, which aids you when fighting devils.

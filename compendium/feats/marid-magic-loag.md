@@ -7,7 +7,7 @@ tags:
 aliases: ["Marid Magic"]
 ---
 # Marid Magic  *Feat 9*  
-[undine](rules/traits/undine-b2.md)  
+[undine](rules/traits/undine-b2.md "Undine Ancestry & Heritage Trait")  
 
 
 You channel the magic of marids. You can cast [hydraulic push](compendium/spells/hydraulic-push.md) and [obscuring mist](compendium/spells/obscuring-mist.md) each once per day as 2nd-level arcane innate spells.

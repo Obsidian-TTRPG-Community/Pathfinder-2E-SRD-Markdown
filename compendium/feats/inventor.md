@@ -9,7 +9,7 @@ tags:
 aliases: ["Inventor"]
 ---
 # Inventor  *Feat 7*  
-[downtime](rules/traits/downtime.md)  [general](rules/traits/general.md)  [skill](rules/traits/skill.md)  
+[downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: master in [Crafting](compendium/skills.md#Crafting)
 

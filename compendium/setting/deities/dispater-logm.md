@@ -10,12 +10,12 @@ tags:
 - domain/tyranny/deity
 aliases: ["Dispater", "Iron Lord"]
 ---
-# Dispater (Iron Lord) *([LN](rules/traits/lawful-neutral-b1.md))*  
+# Dispater (Iron Lord) *([LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 74*  
 
 - **Category**: Archdevils
 - **Anathema**: act above your station, neglect your defenses, betray a lover
-- **Follower Alignments**: [LN](rules/traits/lawful-neutral-b1.md), [LE](rules/traits/lawful-evil-b1.md)
+- **Follower Alignments**: [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait")
 
 ## Devotee benefits
 

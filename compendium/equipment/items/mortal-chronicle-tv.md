@@ -11,7 +11,7 @@ tags:
 aliases: ["Mortal Chronicle"]
 ---
 # Mortal Chronicle *Item 1*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [tattoo](rules/traits/tattoo-lowg.md)  [transmutation](rules/traits/transmutation.md)  
+[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [tattoo](rules/traits/tattoo-lowg.md "Tattoo Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 10 gp
 - **Usage** tattooed on the body; **Bulk** —

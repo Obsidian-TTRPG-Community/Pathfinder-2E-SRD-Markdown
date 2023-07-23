@@ -12,7 +12,7 @@ tags:
 aliases: ["Mother Maw"]
 ---
 # Mother Maw *Item 15*  
-[conjuration](rules/traits/conjuration.md)  [cursed](rules/traits/cursed-gmg.md)  [extradimensional](rules/traits/extradimensional.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [extradimensional](rules/traits/extradimensional.md "Extradimensional Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** placed on a surface; **Bulk** L
 - **Category** Held

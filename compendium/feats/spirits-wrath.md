@@ -11,7 +11,7 @@ tags:
 aliases: ["Spirit's Wrath"]
 ---
 # Spirit's Wrath  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 12*  
-[attack](rules/traits/attack.md)  [barbarian](rules/traits/barbarian.md)  [concentrate](rules/traits/concentrate.md)  [instinct](rules/traits/instinct.md)  [rage](rules/traits/rage.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  [barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [instinct](rules/traits/instinct.md "Instinct Action & Ability Trait")  [rage](rules/traits/rage.md "Rage Combat Trait")  
 
 - **Prerequisites**: Spirit instinct
 - **Activity** Single Action

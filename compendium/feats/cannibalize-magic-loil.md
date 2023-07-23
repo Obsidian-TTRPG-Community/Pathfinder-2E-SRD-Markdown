@@ -7,7 +7,7 @@ tags:
 aliases: ["Cannibalize Magic"]
 ---
 # Cannibalize Magic  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 13*  
-[rare](rules/traits/rare.md)  
+[rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Prerequisites**: [Fey Influence](compendium/feats/fey-influence-loil.md)
 - **Frequency**: once per day

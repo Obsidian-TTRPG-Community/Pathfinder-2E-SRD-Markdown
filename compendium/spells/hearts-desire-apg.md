@@ -12,7 +12,7 @@ tags:
 aliases: ["Heart's Desire"]
 ---
 # Heart's Desire *Focus 3*   
-[emotion](rules/traits/emotion.md)  [illusion](rules/traits/illusion.md)  [mental](rules/traits/mental.md)  [sorcerer](rules/traits/sorcerer.md)  [uncommon](rules/traits/uncommon.md)  
+[emotion](rules/traits/emotion.md "Emotion Effect Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bloodline** Sorcerer
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

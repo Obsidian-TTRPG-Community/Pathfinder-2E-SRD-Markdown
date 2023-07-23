@@ -8,9 +8,9 @@ tags:
 aliases: ["Invisibility"]
 ---
 # Invisibility *Spell 2*   
-[illusion](rules/traits/illusion.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**touch
 - **Targets**1 creature

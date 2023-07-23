@@ -12,7 +12,7 @@ tags:
 aliases: ["Ursine Avenger Hood"]
 ---
 # Ursine Avenger Hood *Item 2*  
-[artifact](rules/traits/artifact-gmg.md)  [invested](rules/traits/invested.md)  [primal](rules/traits/primal.md)  [transmutation](rules/traits/transmutation.md)  [unique](rules/traits/unique.md)  
+[artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Usage** worn; **Bulk** L
 - **Category** Artifact

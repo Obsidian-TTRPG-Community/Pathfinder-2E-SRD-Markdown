@@ -7,7 +7,7 @@ tags:
 aliases: ["Effortless Concentration (Sorcerer)"]
 ---
 # Effortless Concentration (Sorcerer)  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 16*  
-[sorcerer](rules/traits/sorcerer.md)  
+[sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 - **Trigger** Your turn begins.
 - **Activity** Free Action

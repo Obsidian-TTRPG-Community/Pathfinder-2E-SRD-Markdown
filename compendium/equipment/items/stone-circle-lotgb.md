@@ -11,7 +11,7 @@ tags:
 aliases: ["Stone Circle"]
 ---
 # Stone Circle *Item 10+*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [structure](rules/traits/structure.md)  [uncommon](rules/traits/uncommon.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [structure](rules/traits/structure.md "Structure General Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Usage** held in one hand; **Bulk** — (when not activated)
 - **Category** Structure

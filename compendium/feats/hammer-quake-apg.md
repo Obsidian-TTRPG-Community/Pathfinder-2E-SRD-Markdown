@@ -9,10 +9,10 @@ tags:
 aliases: ["Hammer Quake"]
 ---
 # Hammer Quake  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 14*  
-[archetype](rules/traits/archetype.md)  [flourish](rules/traits/flourish.md)  [open](rules/traits/open.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  [open](rules/traits/open.md "Open Combat Trait")  
 
 - **Prerequisites**: [Mauler Dedication](compendium/feats/mauler-dedication-apg.md)
-- **Requirements**: You're wielding a non-[finesse](rules/traits/finesse.md) melee weapon in two hands.
+- **Requirements**: You're wielding a non-[finesse](rules/traits/finesse.md "Finesse Weapon Trait") melee weapon in two hands.
 - **Activity** Three-Action
 
 You smash the ground with your weapon, knocking nearby creatures to the ground. Choose a square within your reach, including your own space. If there's a foe in the chosen square, [Strike](rules/actions/strike.md) that foe with the required weapon.

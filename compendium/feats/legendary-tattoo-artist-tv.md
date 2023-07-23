@@ -8,7 +8,7 @@ tags:
 aliases: ["Legendary Tattoo Artist"]
 ---
 # Legendary Tattoo Artist  *Feat 15*  
-[general](rules/traits/general.md)  [skill](rules/traits/skill.md)  
+[general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Tattoo Artist](compendium/feats/tattoo-artist-tv.md), master in [Crafting](compendium/skills.md#Crafting)
 

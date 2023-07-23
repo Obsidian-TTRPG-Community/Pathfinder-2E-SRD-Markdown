@@ -8,7 +8,7 @@ tags:
 aliases: ["Dual-Weapon Warrior Dedication"]
 ---
 # Dual-Weapon Warrior Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 
 You're exceptional in your use of two weapons. You gain the [Double Slice](compendium/feats/double-slice.md) fighter feat. This serves as Double Slice for the purpose of meeting prerequisites.

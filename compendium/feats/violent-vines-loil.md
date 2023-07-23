@@ -7,7 +7,7 @@ tags:
 aliases: ["Violent Vines"]
 ---
 # Violent Vines  *Feat 13*  
-[ghoran](rules/traits/ghoran-loil.md)  
+[ghoran](rules/traits/ghoran-loil.md "Ghoran Ancestry & Heritage Trait")  
 
 
 When angered, you can imbue nearby vines with your wrath, provoking them into a murderous rampage. Once per hour, you can cast [murderous vine](compendium/spells/murderous-vine-som.md) (Secrets of Magic 117) as a primal innate spell.

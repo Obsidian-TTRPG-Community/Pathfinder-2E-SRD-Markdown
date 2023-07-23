@@ -10,7 +10,7 @@ tags:
 aliases: ["Wind at Your Back"]
 ---
 # Wind at Your Back *Item 5*  
-[air](rules/traits/air.md)  [conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  
+[air](rules/traits/air.md "Air Energy & Element Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 130 gp
 - **Usage** held in 2 hands; **Bulk** L

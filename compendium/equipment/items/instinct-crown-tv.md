@@ -10,7 +10,7 @@ tags:
 aliases: ["Instinct Crown"]
 ---
 # Instinct Crown *Item 10*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 900 gp
 - **Usage** worn headwear; **Bulk** L
@@ -43,7 +43,7 @@ Giant: If you have the space to do so and aren't already, you become Large. Your
 
 Spirit: You take on the partial form of a spirit, becoming somewhat incorporeal. Your raging resistance applies to all physical damage and poison damage, although you halve this resistance against magical attacks.
 
-Superstition: Your body fights off the effects of magic with even greater effect. Until the end of your rage, when you attempt a saving throw against magic, roll twice and take the higher result. This is a [fortune](rules/traits/fortune.md) effect. Also, your raging resistance applies to all magic traditions while you rage.
+Superstition: Your body fights off the effects of magic with even greater effect. Until the end of your rage, when you attempt a saving throw against magic, roll twice and take the higher result. This is a [fortune](rules/traits/fortune.md "Fortune Effect Trait") effect. Also, your raging resistance applies to all magic traditions while you rage.
 ```
 
 *Source: Treasure Vault p. 152*

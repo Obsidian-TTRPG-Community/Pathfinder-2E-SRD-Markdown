@@ -8,7 +8,7 @@ tags:
 aliases: ["Explosive Death Drop"]
 ---
 # Explosive Death Drop  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 14*  
-[fire](rules/traits/fire.md)  [monk](rules/traits/monk.md)  
+[fire](rules/traits/fire.md "Fire Energy & Element Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Prerequisites**: [Blazing Talon Surge](compendium/feats/blazing-talon-surge-lopsg.md)
 - **Requirements**: You are in Rain of Embers Stance and have a target [grabbed](rules/conditions.md#Grabbed) or [restrained](rules/conditions.md#Restrained).

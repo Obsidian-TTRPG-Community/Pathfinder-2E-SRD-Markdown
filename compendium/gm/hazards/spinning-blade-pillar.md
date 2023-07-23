@@ -9,7 +9,7 @@ tags:
 aliases: ["Spinning Blade Pillar"]
 ---
 # Spinning Blade Pillar *Hazard 4*  
-[complex](rules/traits/complex.md)  [mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +11 trained or DC 26 (expert) to notice the control panel.  
@@ -26,7 +26,7 @@ A metal pole with three razor-sharp spinning blades is [hidden](rules/conditions
      
 ```ad-embed-ability
 title: Rising Pillar [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[attack](rules/traits/attack.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  
 
 - **Trigger**: A creature steps on one of the trapped floor tiles.
 

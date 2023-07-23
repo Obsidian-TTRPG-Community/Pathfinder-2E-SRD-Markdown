@@ -7,7 +7,7 @@ tags:
 aliases: ["Slayer's Presence"]
 ---
 # Slayer's Presence  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Frighten Undead](compendium/feats/frighten-undead-botd.md)
 

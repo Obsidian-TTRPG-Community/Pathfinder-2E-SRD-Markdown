@@ -7,7 +7,7 @@ tags:
 aliases: ["Spellbook Prodigy"]
 ---
 # Spellbook Prodigy  *Feat 1*  
-[wizard](rules/traits/wizard.md)  
+[wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Prerequisites**: trained in [Arcana](compendium/skills.md#Arcana)
 

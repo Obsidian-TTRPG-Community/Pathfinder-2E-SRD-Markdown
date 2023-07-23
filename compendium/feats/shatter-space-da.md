@@ -8,7 +8,7 @@ tags:
 aliases: ["Shatter Space"]
 ---
 # Shatter Space  *Feat 14*  
-[amp](rules/traits/amp-da.md)  [psychic](rules/traits/psychic-da.md)  
+[amp](rules/traits/amp-da.md "Amp Feat Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  
 
 
 The sheer power of your magic fractures reality. Use this amp in place of a psi cantrip's normal amp entry. The cantrip must be one that takes 2 or more actions to cast.

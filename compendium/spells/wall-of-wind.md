@@ -9,9 +9,9 @@ tags:
 aliases: ["Wall Of Wind"]
 ---
 # Wall Of Wind *Spell 3*   
-[air](rules/traits/air.md)  [evocation](rules/traits/evocation.md)  
+[air](rules/traits/air.md "Air Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**120 foot
 - **Duration**1 minute

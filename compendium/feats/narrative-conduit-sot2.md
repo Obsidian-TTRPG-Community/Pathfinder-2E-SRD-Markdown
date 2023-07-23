@@ -10,7 +10,7 @@ tags:
 aliases: ["Narrative Conduit"]
 ---
 # Narrative Conduit  *Feat 6*  
-[archetype](rules/traits/archetype.md)  [auditory](rules/traits/auditory.md)  [linguistic](rules/traits/linguistic.md)  [magical](rules/traits/magical.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Prerequisites**: [Folklorist Dedication](compendium/feats/folklorist-dedication-sot2.md)
 

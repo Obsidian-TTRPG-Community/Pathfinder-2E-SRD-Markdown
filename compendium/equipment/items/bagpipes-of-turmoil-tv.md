@@ -11,7 +11,7 @@ tags:
 aliases: ["Bagpipes of Turmoil"]
 ---
 # Bagpipes of Turmoil *Item 4+*  
-[coda](rules/traits/coda-tv.md)  [enchantment](rules/traits/enchantment.md)  [occult](rules/traits/occult.md)  [staff](rules/traits/staff.md)  
+[coda](rules/traits/coda-tv.md "Coda Item Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  
 
 - **Usage** held in 2 hands; **Bulk** 1
 - **Category** Coda

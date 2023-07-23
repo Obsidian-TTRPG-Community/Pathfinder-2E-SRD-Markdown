@@ -7,7 +7,7 @@ tags:
 aliases: ["Dual Studies"]
 ---
 # Dual Studies  *Feat 1*  
-[summoner](rules/traits/summoner-som.md)  
+[summoner](rules/traits/summoner-som.md "Summoner Class Trait")  
 
 
 You and your eidolon have some skills you practice on your own. Choose two skills. Your eidolon becomes trained in one of those skills and you become trained in the other skill. At 7th level, you each become an expert in the chosen skills.

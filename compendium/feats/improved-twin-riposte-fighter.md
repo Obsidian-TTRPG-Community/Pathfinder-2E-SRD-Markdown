@@ -7,7 +7,7 @@ tags:
 aliases: ["Improved Twin Riposte (Fighter)"]
 ---
 # Improved Twin Riposte (Fighter)  *Feat 14*  
-[fighter](rules/traits/fighter.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 - **Prerequisites**: Twin Riposte
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Twin Feint"]
 ---
 # Twin Feint  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 1*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Requirements**: You are wielding two melee weapons, each in a different hand.
 - **Activity** Two-Action

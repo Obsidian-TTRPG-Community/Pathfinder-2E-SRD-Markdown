@@ -8,7 +8,7 @@ tags:
 aliases: ["Blood Of Belcorra"]
 ---
 # Blood Of Belcorra *Hazard 3*  
-[complex](rules/traits/complex.md)  [haunt](rules/traits/haunt.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +23 expert  
@@ -25,7 +25,7 @@ A bloody image of Belcorra arises, emits a soul-draining light, then inhales blo
      
 ```ad-embed-ability
 title: Gauntlight Beam [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[light](rules/traits/light.md)  [necromancy](rules/traits/necromancy.md)  
+[light](rules/traits/light.md "Light Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 - **Trigger**: A living creature ends its turn in area A11 at night
 

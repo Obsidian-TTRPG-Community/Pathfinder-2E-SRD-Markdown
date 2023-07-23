@@ -8,7 +8,7 @@ tags:
 aliases: ["Shameless Request"]
 ---
 # Shameless Request  *Feat 7*  
-[general](rules/traits/general.md)  [skill](rules/traits/skill.md)  
+[general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Requirements**: master in [Diplomacy](compendium/skills.md#Diplomacy).
 

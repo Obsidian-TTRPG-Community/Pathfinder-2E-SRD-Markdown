@@ -11,7 +11,7 @@ tags:
 aliases: ["Reducer Round"]
 ---
 # Reducer Round *Item 5*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 25 gp
 - **Ammunition** round

@@ -7,7 +7,7 @@ tags:
 aliases: ["Green Slime"]
 ---
 # Green Slime *Hazard 9*  
-[environmental](rules/traits/environmental.md)  
+[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 30 expert  

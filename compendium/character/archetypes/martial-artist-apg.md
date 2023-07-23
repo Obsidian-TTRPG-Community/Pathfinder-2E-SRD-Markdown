@@ -15,10 +15,10 @@ You have trained in the martial arts, making your unarmed strikes lethal. You se
 title: Martial Artist Dedication, Feat 2
 collapse: closed
 # Martial Artist Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 
-You have trained to use your fists as deadly weapons. The damage die for your fist unarmed attacks becomes `1d6` instead of `1d4`. You don't take the –2 circumstance penalty for making a lethal attack with your [nonlethal](rules/traits/nonlethal.md) unarmed attacks.
+You have trained to use your fists as deadly weapons. The damage die for your fist unarmed attacks becomes `1d6` instead of `1d4`. You don't take the –2 circumstance penalty for making a lethal attack with your [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait") unarmed attacks.
 
 Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency rank in all unarmed attacks.
 
@@ -32,7 +32,7 @@ Whenever you gain a class feature that grants you expert or greater proficiency 
 title: Brawling Focus, Feat 4*
 collapse: closed
 # Brawling Focus  *Feat 4*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 > [!pf2-note] This version of [Brawling Focus](compendium/feats/brawling-focus.md) is intended for use with the Martial Artist Archetype. Its level has been changed accordingly.
 
@@ -47,14 +47,14 @@ You know how to make the most of your attacks when fighting hand-to-hand. You ga
 title: Crane Stance, Feat 4*
 collapse: closed
 # Crane Stance  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[monk](rules/traits/monk.md)  [stance](rules/traits/stance.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
 
 > [!pf2-note] This version of [Crane Stance](compendium/feats/crane-stance.md) is intended for use with the Martial Artist Archetype. Its level has been changed accordingly.
 
 - **Requirements**: You are unarmored.
 - **Activity** Single Action
 
-You enter the stance of a crane, holding your arms in an imitation of a crane's wings and using flowing, defensive motions. You gain a +1 circumstance bonus to AC, but the only [Strikes](rules/actions/strike.md) you can make are crane wing attacks. These deal `1d6` bludgeoning damage; are in the brawling group; and have the [agile](rules/traits/agile.md), [finesse](rules/traits/finesse.md), [nonlethal](rules/traits/nonlethal.md), and [unarmed](rules/traits/unarmed.md) traits.
+You enter the stance of a crane, holding your arms in an imitation of a crane's wings and using flowing, defensive motions. You gain a +1 circumstance bonus to AC, but the only [Strikes](rules/actions/strike.md) you can make are crane wing attacks. These deal `1d6` bludgeoning damage; are in the brawling group; and have the [agile](rules/traits/agile.md "Agile Weapon Trait"), [finesse](rules/traits/finesse.md "Finesse Weapon Trait"), [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait"), and [unarmed](rules/traits/unarmed.md "Unarmed Weapon Trait") traits.
 
 While in Crane Stance, reduce the DC for [High Jump](rules/actions/high-jump.md) and [Long Jump](rules/actions/long-jump.md) by 5, and when you [Leap](rules/actions/leap.md), you can move an additional 5 feet horizontally or 2 feet vertically.
 
@@ -66,14 +66,14 @@ While in Crane Stance, reduce the DC for [High Jump](rules/actions/high-jump.md)
 title: Dragon Stance, Feat 4*
 collapse: closed
 # Dragon Stance  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[monk](rules/traits/monk.md)  [stance](rules/traits/stance.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
 
 > [!pf2-note] This version of [Dragon Stance](compendium/feats/dragon-stance.md) is intended for use with the Martial Artist Archetype. Its level has been changed accordingly.
 
 - **Requirements**: You are unarmored.
 - **Activity** Single Action
 
-You enter the stance of a dragon and make powerful leg strikes like a lashing dragon's tail. You can make dragon tail attacks that deal `1d10` bludgeoning damage. They are in the brawling group and have the [backswing](rules/traits/backswing.md), [nonlethal](rules/traits/nonlethal.md), and [unarmed](rules/traits/unarmed.md) traits.
+You enter the stance of a dragon and make powerful leg strikes like a lashing dragon's tail. You can make dragon tail attacks that deal `1d10` bludgeoning damage. They are in the brawling group and have the [backswing](rules/traits/backswing.md "Backswing Weapon Trait"), [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait"), and [unarmed](rules/traits/unarmed.md "Unarmed Weapon Trait") traits.
 
 While in Dragon Stance, you can ignore the first square of difficult terrain while [Striding](rules/actions/stride.md).
 
@@ -85,7 +85,7 @@ While in Dragon Stance, you can ignore the first square of difficult terrain whi
 title: Gorilla Stance, Feat 4*
 collapse: closed
 # Gorilla Stance  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[monk](rules/traits/monk.md)  [stance](rules/traits/stance.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
 
 > [!pf2-note] This version of [Gorilla Stance](compendium/feats/gorilla-stance-apg.md) is intended for use with the Martial Artist Archetype. Its level has been changed accordingly.
 
@@ -93,7 +93,7 @@ collapse: closed
 
 You lower yourself to the ground and take an imposing, knuckle-walking stance. While in this stance, the only [Strikes](rules/actions/strike.md) you can make are gorilla slam unarmed attacks.
 
-These deal `1d8` bludgeoning damage; are in the brawling group; and have the [backswing](rules/traits/backswing.md), [forceful](rules/traits/forceful.md), [grapple](rules/traits/grapple.md), [nonlethal](rules/traits/nonlethal.md), and [unarmed](rules/traits/unarmed.md) traits. While you are in Gorilla Stance, you gain a +2 circumstance bonus to [Athletics](compendium/skills.md#Athletics) checks to [Climb](rules/actions/climb.md), and if you roll a success on an [Athletics](compendium/skills.md#Athletics) check to [Climb](rules/actions/climb.md), you get a critical success instead.
+These deal `1d8` bludgeoning damage; are in the brawling group; and have the [backswing](rules/traits/backswing.md "Backswing Weapon Trait"), [forceful](rules/traits/forceful.md "Forceful Weapon Trait"), [grapple](rules/traits/grapple.md "Grapple Weapon Trait"), [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait"), and [unarmed](rules/traits/unarmed.md "Unarmed Weapon Trait") traits. While you are in Gorilla Stance, you gain a +2 circumstance bonus to [Athletics](compendium/skills.md#Athletics) checks to [Climb](rules/actions/climb.md), and if you roll a success on an [Athletics](compendium/skills.md#Athletics) check to [Climb](rules/actions/climb.md), you get a critical success instead.
 
 *Source: Advanced Player's Guide p. 128*  
 %% #trait/monk #trait/stance %%
@@ -103,14 +103,14 @@ These deal `1d8` bludgeoning damage; are in the brawling group; and have the [ba
 title: Mountain Stance, Feat 4*
 collapse: closed
 # Mountain Stance  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[monk](rules/traits/monk.md)  [stance](rules/traits/stance.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
 
 > [!pf2-note] This version of [Mountain Stance](compendium/feats/mountain-stance.md) is intended for use with the Martial Artist Archetype. Its level has been changed accordingly.
 
 - **Requirements**: You are unarmored and touching the ground.
 - **Activity** Single Action
 
-You enter the stance of an implacable mountain—a technique created by dwarven monks—allowing you to strike with the weight of an avalanche and block blows with your garments. The only [Strikes](rules/actions/strike.md) you can make are falling stone unarmed attacks. These deal `1d8` bludgeoning damage; are in the brawling group; and have the [forceful](rules/traits/forceful.md), [nonlethal](rules/traits/nonlethal.md), and [unarmed](rules/traits/unarmed.md) traits.
+You enter the stance of an implacable mountain—a technique created by dwarven monks—allowing you to strike with the weight of an avalanche and block blows with your garments. The only [Strikes](rules/actions/strike.md) you can make are falling stone unarmed attacks. These deal `1d8` bludgeoning damage; are in the brawling group; and have the [forceful](rules/traits/forceful.md "Forceful Weapon Trait"), [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait"), and [unarmed](rules/traits/unarmed.md "Unarmed Weapon Trait") traits.
 
 While in Mountain Stance, you gain a +4 item bonus to AC and a +2 circumstance bonus to any defenses against being [Shoved](rules/actions/shove.md) or [Tripped](rules/actions/trip.md). You have a Dexterity modifier cap to your AC of +0, meaning you don't add your Dexterity to your AC, and your Speeds are all reduced by 5 feet. The item bonus to AC from Mountain Stance is cumulative with armor potency runes on your [explorer's clothing](compendium/equipment/items/explorers-clothing.md), [mage armor](compendium/spells/mage-armor.md), and bracers of armor.
 
@@ -122,14 +122,14 @@ While in Mountain Stance, you gain a +4 item bonus to AC and a +2 circumstance b
 title: Stumbling Stance, Feat 4*
 collapse: closed
 # Stumbling Stance  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[monk](rules/traits/monk.md)  [stance](rules/traits/stance.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
 
 > [!pf2-note] This version of [Stumbling Stance](compendium/feats/stumbling-stance-apg.md) is intended for use with the Martial Artist Archetype. Its level has been changed accordingly.
 
 - **Prerequisites**: trained in [Deception](compendium/skills.md#Deception)
 - **Activity** Single Action
 
-You enter a seemingly unfocused stance that mimics the movements of the inebriated—bobbing, weaving, leaving false openings, and distracting your enemies from your true movements. While in this stance, you gain a +1 circumstance bonus to [Deception](compendium/skills.md#Deception) checks to [Feint](rules/actions/feint.md). The only [Strikes](rules/actions/strike.md) you can make are stumbling swing unarmed attacks. These deal `1d8` bludgeoning damage; are in the brawling group; and have the [agile](rules/traits/agile.md), [backstabber](rules/traits/backstabber.md), [finesse](rules/traits/finesse.md), [nonlethal](rules/traits/nonlethal.md), and [unarmed](rules/traits/unarmed.md) traits. If an enemy hits you with a melee [Strike](rules/actions/strike.md) while in this stance, it becomes [flat-footed](rules/conditions.md#Flat-footed) against the next stumbling swing [Strike](rules/actions/strike.md) you make against it before the end of your next turn.
+You enter a seemingly unfocused stance that mimics the movements of the inebriated—bobbing, weaving, leaving false openings, and distracting your enemies from your true movements. While in this stance, you gain a +1 circumstance bonus to [Deception](compendium/skills.md#Deception) checks to [Feint](rules/actions/feint.md). The only [Strikes](rules/actions/strike.md) you can make are stumbling swing unarmed attacks. These deal `1d8` bludgeoning damage; are in the brawling group; and have the [agile](rules/traits/agile.md "Agile Weapon Trait"), [backstabber](rules/traits/backstabber.md "Backstabber Weapon Trait"), [finesse](rules/traits/finesse.md "Finesse Weapon Trait"), [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait"), and [unarmed](rules/traits/unarmed.md "Unarmed Weapon Trait") traits. If an enemy hits you with a melee [Strike](rules/actions/strike.md) while in this stance, it becomes [flat-footed](rules/conditions.md#Flat-footed) against the next stumbling swing [Strike](rules/actions/strike.md) you make against it before the end of your next turn.
 
 *Source: Advanced Player's Guide p. 128*  
 %% #trait/monk #trait/stance %%
@@ -139,14 +139,14 @@ You enter a seemingly unfocused stance that mimics the movements of the inebriat
 title: Tiger Stance, Feat 4*
 collapse: closed
 # Tiger Stance  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[monk](rules/traits/monk.md)  [stance](rules/traits/stance.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
 
 > [!pf2-note] This version of [Tiger Stance](compendium/feats/tiger-stance.md) is intended for use with the Martial Artist Archetype. Its level has been changed accordingly.
 
 - **Requirements**: You are unarmored.
 - **Activity** Single Action
 
-You enter the stance of a tiger and can make tiger claw attacks. These deal `1d8` slashing damage; are in the brawling group; and have the [agile](rules/traits/agile.md), [finesse](rules/traits/finesse.md), [nonlethal](rules/traits/nonlethal.md), and [unarmed](rules/traits/unarmed.md) traits. On a critical success with your tiger claws, if you deal damage, the target takes `1d4` [persistent bleed damage](rules/conditions.md#Persistent%20Damage).
+You enter the stance of a tiger and can make tiger claw attacks. These deal `1d8` slashing damage; are in the brawling group; and have the [agile](rules/traits/agile.md "Agile Weapon Trait"), [finesse](rules/traits/finesse.md "Finesse Weapon Trait"), [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait"), and [unarmed](rules/traits/unarmed.md "Unarmed Weapon Trait") traits. On a critical success with your tiger claws, if you deal damage, the target takes `1d4` [persistent bleed damage](rules/conditions.md#Persistent%20Damage).
 
 As long as your Speed is at least 20 feet while in Tiger Stance, you can [Step](rules/actions/step.md) 10 feet.
 
@@ -158,16 +158,16 @@ As long as your Speed is at least 20 feet while in Tiger Stance, you can [Step](
 title: Wolf Stance, Feat 4*
 collapse: closed
 # Wolf Stance  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[monk](rules/traits/monk.md)  [stance](rules/traits/stance.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
 
 > [!pf2-note] This version of [Wolf Stance](compendium/feats/wolf-stance.md) is intended for use with the Martial Artist Archetype. Its level has been changed accordingly.
 
 - **Requirements**: You are unarmored.
 - **Activity** Single Action
 
-You enter the stance of a wolf, low to the ground with your hands held like fanged teeth. You can make wolf jaw unarmed attacks. These deal `1d8` piercing damage; are in the brawling group; and have the [agile](rules/traits/agile.md), [backstabber](rules/traits/backstabber.md), [finesse](rules/traits/finesse.md), [nonlethal](rules/traits/nonlethal.md), and [unarmed](rules/traits/unarmed.md) traits.
+You enter the stance of a wolf, low to the ground with your hands held like fanged teeth. You can make wolf jaw unarmed attacks. These deal `1d8` piercing damage; are in the brawling group; and have the [agile](rules/traits/agile.md "Agile Weapon Trait"), [backstabber](rules/traits/backstabber.md "Backstabber Weapon Trait"), [finesse](rules/traits/finesse.md "Finesse Weapon Trait"), [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait"), and [unarmed](rules/traits/unarmed.md "Unarmed Weapon Trait") traits.
 
-If you're flanking a target while in Wolf Stance, your wolf jaw unarmed attacks also gain the [trip](rules/traits/trip.md) trait.
+If you're flanking a target while in Wolf Stance, your wolf jaw unarmed attacks also gain the [trip](rules/traits/trip.md "Trip Weapon Trait") trait.
 
 *Source: Core Rulebook p. 159*  
 %% #trait/monk #trait/stance %%
@@ -177,7 +177,7 @@ If you're flanking a target while in Wolf Stance, your wolf jaw unarmed attacks 
 title: Follow-up Strike, Feat 6
 collapse: closed
 # Follow-up Strike  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  [flourish](rules/traits/flourish.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 - **Prerequisites**: [Martial Artist Dedication](compendium/feats/martial-artist-dedication-apg.md)
 - **Requirements**: Your last action was a missed [Strike](rules/actions/strike.md) with a melee unarmed attack.
@@ -195,7 +195,7 @@ Make another [Strike](rules/actions/strike.md) with a melee unarmed attack, usin
 title: Crane Flutter, Feat 8*
 collapse: closed
 # Crane Flutter  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 > [!pf2-note] This version of [Crane Flutter](compendium/feats/crane-flutter.md) is intended for use with the Martial Artist Archetype. Its level has been changed accordingly.
 
@@ -214,7 +214,7 @@ You interpose your arm between yourself and your opponent. Your circumstance bon
 title: Dragon Roar, Feat 8*
 collapse: closed
 # Dragon Roar  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
-[auditory](rules/traits/auditory.md)  [emotion](rules/traits/emotion.md)  [fear](rules/traits/fear.md)  [mental](rules/traits/mental.md)  [monk](rules/traits/monk.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  
 
 > [!pf2-note] This version of [Dragon Roar](compendium/feats/dragon-roar.md) is intended for use with the Martial Artist Archetype. Its level has been changed accordingly.
 
@@ -234,7 +234,7 @@ After you use Dragon Roar, you can't use it again for `1d4` rounds. Its effects 
 title: Gorilla Pound, Feat 8*
 collapse: closed
 # Gorilla Pound  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
-[emotion](rules/traits/emotion.md)  [flourish](rules/traits/flourish.md)  [mental](rules/traits/mental.md)  [monk](rules/traits/monk.md)  
+[emotion](rules/traits/emotion.md "Emotion Effect Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  
 
 > [!pf2-note] This version of [Gorilla Pound](compendium/feats/gorilla-pound-apg.md) is intended for use with the Martial Artist Archetype. Its level has been changed accordingly.
 
@@ -258,7 +258,7 @@ If your [Strike](rules/actions/strike.md) hits, you gain a circumstance bonus to
 title: Grievous Blow, Feat 8
 collapse: closed
 # Grievous Blow  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  [flourish](rules/traits/flourish.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 - **Prerequisites**: [Martial Artist Dedication](compendium/feats/martial-artist-dedication-apg.md)
 - **Activity** Two-Action
@@ -277,7 +277,7 @@ This attack also ignores an amount of resistance to physical damage, or to a spe
 title: Mountain Stronghold, Feat 8*
 collapse: closed
 # Mountain Stronghold  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 > [!pf2-note] This version of [Mountain Stronghold](compendium/feats/mountain-stronghold.md) is intended for use with the Martial Artist Archetype. Its level has been changed accordingly.
 
@@ -297,7 +297,7 @@ You focus on your connection to the earth and call upon the mountain to block at
 title: Stumbling Feint, Feat 8*
 collapse: closed
 # Stumbling Feint  *Feat 8*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 > [!pf2-note] This version of [Stumbling Feint](compendium/feats/stumbling-feint-apg.md) is intended for use with the Martial Artist Archetype. Its level has been changed accordingly.
 
@@ -314,7 +314,7 @@ You lash out confusingly with what seems to be a weak move but instead allows yo
 title: Tiger Slash, Feat 8*
 collapse: closed
 # Tiger Slash  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 > [!pf2-note] This version of [Tiger Slash](compendium/feats/tiger-slash.md) is intended for use with the Martial Artist Archetype. Its level has been changed accordingly.
 
@@ -332,7 +332,7 @@ You make a fierce swipe with both hands. Make a tiger claw [Strike](rules/action
 title: Wolf Drag, Feat 8*
 collapse: closed
 # Wolf Drag  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 > [!pf2-note] This version of [Wolf Drag](compendium/feats/wolf-drag.md) is intended for use with the Martial Artist Archetype. Its level has been changed accordingly.
 
@@ -340,7 +340,7 @@ collapse: closed
 - **Requirements**: You are in Wolf Stance.
 - **Activity** Two-Action
 
-You rip your enemy off their feet. Make a wolf jaw [Strike](rules/actions/strike.md). Your wolf jaw gains the [fatal <d12>](rules/traits/fatal.md) trait for this [Strike](rules/actions/strike.md), and if the attack succeeds, you knock the target [prone](rules/conditions.md#Prone).
+You rip your enemy off their feet. Make a wolf jaw [Strike](rules/actions/strike.md). Your wolf jaw gains the [fatal <d12>](rules/traits/fatal-d12.md "Fatal Weapon Trait") trait for this [Strike](rules/actions/strike.md), and if the attack succeeds, you knock the target [prone](rules/conditions.md#Prone).
 
 *Source: Core Rulebook p. 162*  
 %% #trait/monk %%
@@ -350,7 +350,7 @@ You rip your enemy off their feet. Make a wolf jaw [Strike](rules/actions/strike
 title: Path Of Iron, Feat 14*
 collapse: closed
 # Path Of Iron  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 14*  
-[archetype](rules/traits/archetype.md)  [flourish](rules/traits/flourish.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 > [!pf2-note] This version of [Path Of Iron](compendium/feats/path-of-iron-apg.md) is intended for use with the Martial Artist Archetype. Its level has been changed accordingly.
 
@@ -368,7 +368,7 @@ With a burst of effort, you weave a path through your enemies, striking each in 
 title: Mountain Quake, Feat 16*
 collapse: closed
 # Mountain Quake  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 16*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 > [!pf2-note] This version of [Mountain Quake](compendium/feats/mountain-quake.md) is intended for use with the Martial Artist Archetype. Its level has been changed accordingly.
 

@@ -8,7 +8,7 @@ tags:
 aliases: ["Endurance Of The Rooted Tree"]
 ---
 # Endurance Of The Rooted Tree  *Feat 20*  
-[monk](rules/traits/monk.md)  [uncommon](rules/traits/uncommon.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Wholeness of Body](compendium/feats/wholeness-of-body.md)
 

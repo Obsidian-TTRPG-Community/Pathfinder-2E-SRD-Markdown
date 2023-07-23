@@ -8,7 +8,7 @@ tags:
 aliases: ["Shatter Defenses"]
 ---
 # Shatter Defenses  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[fighter](rules/traits/fighter.md)  [press](rules/traits/press.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  [press](rules/traits/press.md "Press Combat Trait")  
 
 - **Requirements**: A [frightened](rules/conditions.md#Frightened) creature is in your melee reach.
 - **Activity** Single Action

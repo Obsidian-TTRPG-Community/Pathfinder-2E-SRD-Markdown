@@ -7,7 +7,7 @@ tags:
 aliases: ["Thunder God's Fan"]
 ---
 # Thunder God's Fan  *Feat 13*  
-[tengu](rules/traits/tengu-b1.md)  
+[tengu](rules/traits/tengu-b1.md "Tengu Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Wind God's Fan](compendium/feats/wind-gods-fan-loag.md)
 

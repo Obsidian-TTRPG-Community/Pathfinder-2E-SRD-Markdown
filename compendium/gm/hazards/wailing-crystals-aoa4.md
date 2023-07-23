@@ -9,7 +9,7 @@ tags:
 aliases: ["Wailing Crystals"]
 ---
 # Wailing Crystals *Hazard 13*  
-[complex](rules/traits/complex.md)  [environmental](rules/traits/environmental.md)  [magical](rules/traits/magical.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Complexity** Complex
 - **Stealth** +27 master or DC 37 (master) to notice what appear to be screaming ghostly faces in the crystals  
@@ -26,7 +26,7 @@ Three clusters of gleaming, colorful crystals are corrupted with necromantic ene
      
 ```ad-embed-ability
 title: Echoing Cry [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[occult](rules/traits/occult.md)  
+[occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 - **Trigger**: A living creature approaches within 20 feet of a wailing crystal.
 
@@ -40,7 +40,7 @@ title: Routine
 
 ```ad-embed-ability
 title: Anguished Shriek
-[emotion](rules/traits/emotion.md)  [enchantment](rules/traits/enchantment.md)  [mental](rules/traits/mental.md)  [occult](rules/traits/occult.md)  [sonic](rules/traits/sonic.md)  
+[emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  
 
 A shrieking, distorted face composed of writhing necromantic energy lances out of the crystals to target a random living creature within 20 feet. The target takes `4d6` mental damage and `4d6` sonic damage (DC 33 basic Will save).  
 %% #trait/emotion #trait/enchantment #trait/mental #trait/occult #trait/sonic %%

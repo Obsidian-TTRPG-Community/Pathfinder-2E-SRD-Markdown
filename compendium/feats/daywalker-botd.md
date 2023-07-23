@@ -9,7 +9,7 @@ tags:
 aliases: ["Daywalker"]
 ---
 # Daywalker  *Feat 6*  
-[abjuration](rules/traits/abjuration.md)  [archetype](rules/traits/archetype.md)  [divine](rules/traits/divine.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  
 
 - **Prerequisites**: [Vampire Dedication](compendium/feats/vampire-dedication-botd.md)
 

@@ -10,7 +10,7 @@ tags:
 aliases: ["Necklace of Fireballs"]
 ---
 # Necklace of Fireballs *Item 5+*  
-[evocation](rules/traits/evocation.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Usage** worn; **Bulk** —
 - **Category** Worn

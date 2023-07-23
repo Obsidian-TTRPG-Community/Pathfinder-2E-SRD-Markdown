@@ -10,7 +10,7 @@ tags:
 aliases: ["Fallow Field"]
 ---
 # Fallow Field *Focus 4*   
-[necromancy](rules/traits/necromancy.md)  [negative](rules/traits/negative.md)  
+[necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  
 
 - **Domains**: [decay](compendium/setting/domains.md#Decay)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
@@ -19,12 +19,12 @@ aliases: ["Fallow Field"]
 - **Saving Throw** Will
 - **Duration**sustained up to 1 minute
 
-A sickly yellow light fills the area as entropic forces prevent healing. When a creature within the area would regain Hit Points, such as from a [healing](rules/traits/healing.md) effect or an ability like fast healing or regeneration, it must attempt a Will save.
+A sickly yellow light fills the area as entropic forces prevent healing. When a creature within the area would regain Hit Points, such as from a [healing](rules/traits/healing.md "Healing Effect Trait") effect or an ability like fast healing or regeneration, it must attempt a Will save.
 
 > [!success-degree] 
-> - **Critical Success** The creature regains the full number of Hit Points that would be restored by the [healing](rules/traits/healing.md) effect, and is temporarily immune for 1 minute.
+> - **Critical Success** The creature regains the full number of Hit Points that would be restored by the [healing](rules/traits/healing.md "Healing Effect Trait") effect, and is temporarily immune for 1 minute.
 > - **Success** The creature regains the full number of Hit Points that would be restored.
 > - **Failure** The creature regains only half the number of Hit Points that would be restored.
-> - **Critical Failure** The creature does not regain Hit Points from the [healing](rules/traits/healing.md) effect.
+> - **Critical Failure** The creature does not regain Hit Points from the [healing](rules/traits/healing.md "Healing Effect Trait") effect.
 
 *Source: Lost Omens: Gods & Magic p. 113*

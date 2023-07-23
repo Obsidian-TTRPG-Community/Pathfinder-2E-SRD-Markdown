@@ -10,13 +10,13 @@ tags:
 aliases: ["Deck Of Illusions"]
 ---
 # Deck Of Illusions *Item 6*  
-[illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 200 gp
 - **Usage** held in 2 hands
 - **Category** Held
 
-This set of 34 parchment cards usually comes in a velvet bag or simple leather wrap. Each card depicts a different creature, monster, or other being that, when the deck is activated, immediately appears as a believable, life-size illusion. You can look at the card's artwork, but no [magical](rules/traits/magical.md) effect takes place until you Activate the deck, shuffling and drawing randomly.
+This set of 34 parchment cards usually comes in a velvet bag or simple leather wrap. Each card depicts a different creature, monster, or other being that, when the deck is activated, immediately appears as a believable, life-size illusion. You can look at the card's artwork, but no [magical](rules/traits/magical.md "Magical Item Trait") effect takes place until you Activate the deck, shuffling and drawing randomly.
 
 ```ad-embed-ability
 title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")

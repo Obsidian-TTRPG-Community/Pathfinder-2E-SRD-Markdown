@@ -12,7 +12,7 @@ tags:
 aliases: ["Wand of Tormented Slumber"]
 ---
 # Wand of Tormented Slumber *Item 10*  
-[enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  [sleep](rules/traits/sleep.md)  [wand](rules/traits/wand.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [sleep](rules/traits/sleep.md "Sleep Effect Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
 
 - **Price** 1000 gp
 - **Usage** held in 1 hand; **Bulk** L

@@ -7,7 +7,7 @@ tags:
 aliases: ["Aasimar's Mercy"]
 ---
 # Aasimar's Mercy  *Feat 13*  
-[aasimar](rules/traits/aasimar-apg.md)  
+[aasimar](rules/traits/aasimar-apg.md "Aasimar Ancestry & Heritage Trait")  
 
 
 Your celestial powers allow you to remove lesser afflictions with ease. Each day, you can cast two 4th-level divine innate spells. You can choose from the following spells each time you cast: [remove curse](compendium/spells/remove-curse.md), [remove disease](compendium/spells/remove-disease.md), and [neutralize poison](compendium/spells/neutralize-poison.md).

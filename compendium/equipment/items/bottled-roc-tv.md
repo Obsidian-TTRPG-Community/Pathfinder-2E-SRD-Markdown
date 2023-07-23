@@ -10,7 +10,7 @@ tags:
 aliases: ["Bottled Roc"]
 ---
 # Bottled Roc *Item 9*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [expandable](rules/traits/expandable-tv.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [expandable](rules/traits/expandable-tv.md "Expandable Item Trait")  
 
 - **Price** 140 gp
 - **Usage** held in 1 hand; **Bulk** L

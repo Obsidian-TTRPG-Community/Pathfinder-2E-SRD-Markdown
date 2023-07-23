@@ -7,7 +7,7 @@ tags:
 aliases: ["Amplifying Touch"]
 ---
 # Amplifying Touch  *Feat 12*  
-[champion](rules/traits/champion.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  
 
 - **Prerequisites**: devotion spell (lay on hands)
 

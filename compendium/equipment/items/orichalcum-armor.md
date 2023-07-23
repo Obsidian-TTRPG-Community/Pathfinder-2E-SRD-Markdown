@@ -8,7 +8,7 @@ tags:
 aliases: ["Orichalcum Armor"]
 ---
 # Orichalcum Armor *Item 20*  
-[rare](rules/traits/rare.md)  
+[rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** worn armor; **Bulk** varies by armor
 - **Category** Material

@@ -9,7 +9,7 @@ tags:
 aliases: ["Angry Vegetation"]
 ---
 # Angry Vegetation *Hazard 20*  
-[complex](rules/traits/complex.md)  [environmental](rules/traits/environmental.md)  [unique](rules/traits/unique.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Complexity** Complex
 - **Stealth** DC 42 master to notice massive buds beneath the other foliage before they open.  
@@ -20,7 +20,7 @@ Five large flowers in the weed-choked field unfurl, each dusting pollen onto vin
 
 - **AC** 37 , **Fort** +33, **Ref** +30
 - **HP** 120 per flower
-- **Immunities** [mental](rules/traits/mental.md)
+- **Immunities** [mental](rules/traits/mental.md "Mental Effect Trait")
 - **Resistances** 
 - **Weaknesses** fire 20
      

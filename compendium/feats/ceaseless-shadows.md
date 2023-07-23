@@ -7,7 +7,7 @@ tags:
 aliases: ["Ceaseless Shadows"]
 ---
 # Ceaseless Shadows  *Feat 13*  
-[halfling](rules/traits/halfling.md)  
+[halfling](rules/traits/halfling.md "Halfling Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Distracting Shadows](compendium/feats/distracting-shadows.md)
 

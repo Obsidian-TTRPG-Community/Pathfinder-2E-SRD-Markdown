@@ -12,7 +12,7 @@ tags:
 aliases: ["Arsonous"]
 ---
 # Arsonous *Item 7*  
-[cursed](rules/traits/cursed-gmg.md)  [evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** curses a ring, staff, or wand
 - **Category** Curse

@@ -9,7 +9,7 @@ tags:
 aliases: ["Inoculation"]
 ---
 # Inoculation  *Feat 1*  
-[general](rules/traits/general.md)  [healing](rules/traits/healing.md)  [skill](rules/traits/skill.md)  
+[general](rules/traits/general.md "General Feat Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: trained in [Medicine](compendium/skills.md#Medicine)
 

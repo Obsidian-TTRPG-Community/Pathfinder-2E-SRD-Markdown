@@ -9,9 +9,9 @@ tags:
 aliases: ["Shape Stone"]
 ---
 # Shape Stone *Spell 4*   
-[earth](rules/traits/earth.md)  [transmutation](rules/traits/transmutation.md)  
+[earth](rules/traits/earth.md "Earth Energy & Element Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**touch
 - **Targets**cube of stone 10 feet across or smaller

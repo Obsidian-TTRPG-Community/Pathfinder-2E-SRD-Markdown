@@ -7,7 +7,7 @@ tags:
 aliases: ["Thorough Search"]
 ---
 # Thorough Search  *Feat 3*  
-[general](rules/traits/general.md)  
+[general](rules/traits/general.md "General Feat Trait")  
 
 - **Prerequisites**: expert in [Perception](compendium/skills.md#Perception)
 

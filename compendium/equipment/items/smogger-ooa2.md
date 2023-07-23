@@ -11,7 +11,7 @@ tags:
 aliases: ["Smogger"]
 ---
 # Smogger *Item 9*  
-[conjuration](rules/traits/conjuration.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 600 gp
 - **Usage** worn backpack; **Bulk** 2
@@ -21,7 +21,7 @@ Some mutants savor the acrid smog of Alkenstar and the Gunworks. A smogger recre
 
 ```ad-embed-ability
 title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
-[poison](rules/traits/poison.md)  
+[poison](rules/traits/poison.md "Poison Effect Trait")  
 
 The smogger creates a 10-foot-radius emanation of smog centered on you, which moves with you. You and other creatures in the smog are [concealed](rules/conditions.md#Concealed) while inside the smog, and other creatures are [concealed](rules/conditions.md#Concealed) to you and other creatures in the smog. A strong wind doesn't disperse the smog but reduces it to a 5-footradius emanation. A creature that must breathe that begins its turn inside of the smog can choose to hold its breath as a free action for the round, but if it doesn't, it becomes [sickened](rules/conditions.md#Sickened). The smogger can maintain this effect for up to 1 minute, and the wearer of the smogger can [Dismiss](rules/actions/dismiss.md) the effect.  
 %% #trait/poison %%
@@ -29,7 +29,7 @@ The smogger creates a 10-foot-radius emanation of smog centered on you, which mo
 
 ```ad-embed-ability
 title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
-[poison](rules/traits/poison.md)  
+[poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Requirements**: The smogger's above activation is in effect
 

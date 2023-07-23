@@ -13,9 +13,9 @@ tags:
 aliases: ["Impending Doom"]
 ---
 # Impending Doom *Spell 3*   
-[divination](rules/traits/divination.md)  [emotion](rules/traits/emotion.md)  [fear](rules/traits/fear.md)  [incapacitation](rules/traits/incapacitation.md)  [mental](rules/traits/mental.md)  [prediction](rules/traits/prediction.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [prediction](rules/traits/prediction.md "Prediction Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [divine](rules/traits/divine.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot
 - **Targets**1 living creature

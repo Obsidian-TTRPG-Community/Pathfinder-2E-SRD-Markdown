@@ -8,7 +8,7 @@ tags:
 aliases: ["Damurdiel's Vengeance"]
 ---
 # Damurdiel's Vengeance *Hazard 19*  
-[complex](rules/traits/complex.md)  [haunt](rules/traits/haunt.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +37 legendary or DC 47 to notice the dagger left in the pool start to move on its own  
@@ -25,7 +25,7 @@ An elven woman wearing a robe stands in the water. She beckons anyone who enters
      
 ```ad-embed-ability
 title: Surprise Strike [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[attack](rules/traits/attack.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  
 
 - **Trigger**: A creature approaches within 5 feet of the pool's edge
 
@@ -38,7 +38,7 @@ title: Routine
 (3 actions) The haunt attempts to [Strike](rules/actions/strike.md) with the dagger.
 
 ```ad-inline-attack
-title: Ranged [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Dagger (40) ([agile](rules/traits/agile.md), [thrown <10 feet>](rules/traits/thrown.md), [versatile <S>](rules/traits/versatile.md))
+title: Ranged [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Dagger (40) ([agile](rules/traits/agile.md "Agile Weapon Trait"), [thrown <10 feet>](rules/traits/thrown-10-feet.md "Thrown Weapon Trait"), [versatile <S>](rules/traits/versatile-s.md "Versatile Weapon Trait"))
 **Damage** `4d4+10` piercing plus 20 negative 
  
 **Effects** 

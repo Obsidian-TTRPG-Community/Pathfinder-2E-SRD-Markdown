@@ -7,7 +7,7 @@ tags:
 aliases: ["Transcendent Realization"]
 ---
 # Transcendent Realization  *Feat 9*  
-[kashrishi](rules/traits/kashrishi-loil.md)  
+[kashrishi](rules/traits/kashrishi-loil.md "Kashrishi Ancestry & Heritage Trait")  
 
 - **Prerequisites**: Unlock Secret
 

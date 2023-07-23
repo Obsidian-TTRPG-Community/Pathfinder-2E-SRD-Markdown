@@ -10,7 +10,7 @@ tags:
 aliases: ["Glasses Of Sociability"]
 ---
 # Glasses Of Sociability *Item 3*  
-[divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 60 gp
 - **Usage** worn eyepiece; **Bulk** L

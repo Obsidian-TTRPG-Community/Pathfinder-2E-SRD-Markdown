@@ -7,7 +7,7 @@ tags:
 aliases: ["Bespell Weapon (Sorcerer)"]
 ---
 # Bespell Weapon (Sorcerer)  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 4*  
-[sorcerer](rules/traits/sorcerer.md)  
+[sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 - **Frequency**: once per turn
 - **Requirements**: Your most recent action was to cast a non-cantrip spell.

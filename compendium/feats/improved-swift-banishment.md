@@ -7,7 +7,7 @@ tags:
 aliases: ["Improved Swift Banishment"]
 ---
 # Improved Swift Banishment  *Feat 18*  
-[cleric](rules/traits/cleric.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  
 
 - **Prerequisites**: [Swift Banishment](compendium/feats/swift-banishment.md)
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Drain Soul Cage"]
 ---
 # Drain Soul Cage  *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Lich Dedication](compendium/feats/lich-dedication-botd.md), [Drain Bonded Item](rules/actions/drain-bonded-item.md), spellbook
 

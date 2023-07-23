@@ -10,7 +10,7 @@ tags:
 aliases: ["Investigate Chamber"]
 ---
 # Investigate Chamber
-[exploration](rules/traits/exploration.md)  [manipulate](rules/traits/manipulate.md)  [move](rules/traits/move.md)  
+[exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [move](rules/traits/move.md "Move Combat Trait")  
 *Source: Age of Ashes #6: Broken Promises p. 33*  
 
 

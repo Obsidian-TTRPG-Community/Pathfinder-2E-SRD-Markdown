@@ -9,7 +9,7 @@ tags:
 aliases: ["Raga of Remembrance"]
 ---
 # Raga of Remembrance *Ritual 10*  
-[necromancy](rules/traits/necromancy.md)  [unique](rules/traits/unique.md)  
+[necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Cast** 1 hour
 - **Cost** ceramics, incense, and pigments worth 100,000 gp

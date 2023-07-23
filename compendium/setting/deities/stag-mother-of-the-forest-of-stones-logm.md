@@ -10,12 +10,12 @@ tags:
 - domain/pain/deity
 aliases: ["Stag Mother of the Forest of Stones", "She Who Listens"]
 ---
-# Stag Mother of the Forest of Stones (She Who Listens) *([N](rules/traits/neutral-b1.md))*  
+# Stag Mother of the Forest of Stones (She Who Listens) *([N](rules/traits/n-b1.md "Neutral Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 132*  
 
 - **Category**: Sarkorian Gods
 - **Anathema**: harm a pregnant mother or innocent child, including animals
-- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [LN](rules/traits/lawful-neutral-b1.md), [LE](rules/traits/lawful-evil-b1.md), [NG](rules/traits/neutral-good-b1.md), [N](rules/traits/neutral-b1.md), [NE](rules/traits/neutral-evil-b1.md), [CG](rules/traits/chaotic-good-b1.md), [CN](rules/traits/chaotic-neutral-b1.md)
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")
 
 ## Devotee benefits
 

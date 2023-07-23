@@ -11,7 +11,7 @@ tags:
 aliases: ["Bargainer's Instrument"]
 ---
 # Bargainer's Instrument *Item 15*  
-[conjuration](rules/traits/conjuration.md)  [consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 1000 gp
 - **Usage** held in 2 hands; **Bulk** L

@@ -9,7 +9,7 @@ tags:
 aliases: ["Ready"]
 ---
 # Ready *Item 6+*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Usage** etched onto armor
 - **Category** Rune

@@ -7,7 +7,7 @@ tags:
 aliases: ["Primal Rampage"]
 ---
 # Primal Rampage  *Feat 13*  
-[lizardfolk](rules/traits/lizardfolk-b1.md)  
+[lizardfolk](rules/traits/lizardfolk-b1.md "Lizardfolk Ancestry & Heritage Trait")  
 
 
 You tap into the unstoppable, primeval strength of your ancient kin. You gain [freedom of movement](compendium/spells/freedom-of-movement.md) and [stoneskin](compendium/spells/stoneskin.md) as 4th-level primal innate spells that you can cast once per day. As a 3-action activity, you can [Cast a Spell](rules/actions/cast-a-spell.md) twice to cast both of these innate spells, as long as they are both still available for the day.

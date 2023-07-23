@@ -8,7 +8,7 @@ tags:
 aliases: ["Silver"]
 ---
 # Silver *Item 2+*  
-[precious](rules/traits/precious.md)  
+[precious](rules/traits/precious.md "Precious Item Trait")  
 
 - **Category** Material
 
@@ -17,17 +17,17 @@ Silver weapons are a bane to creatures ranging from devils to werewolves. Silver
 | Silver Items | Hardness | HP | BT |
 |--------------|----------|----|----|
 | **Thin Items** |  |  |  |
-| Low-grade | 3 | 12 | 6 |
-| Standard-grade | 5 | 20 | 10 |
-| High-grade | 8 | 32 | 16 |
+| multiRow |  |
+| multiRow |  |
+| multiRow |  |
 | **Items** |  |  |  |
-| Low-grade | 5 | 20 | 10 |
-| Standard-grade | 7 | 28 | 14 |
-| High-grade | 10 | 40 | 20 |
+| multiRow |  |
+| multiRow |  |
+| multiRow |  |
 | **Structures** |  |  |  |
-| Low-grade | 10 | 40 | 20 |
-| Standard-grade | 14 | 56 | 28 |
-| High-grade | 20 | 80 | 40 |
+| multiRow |  |
+| multiRow |  |
+| multiRow |  |
 
 
 *Source: Core Rulebook p. 579*

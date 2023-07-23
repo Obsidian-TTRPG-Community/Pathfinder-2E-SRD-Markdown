@@ -10,7 +10,7 @@ tags:
 aliases: ["Gloaming Shard"]
 ---
 # Gloaming Shard *Item 11*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [shadow](rules/traits/shadow.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [shadow](rules/traits/shadow.md "Shadow General Trait")  
 
 - **Price** 1400 gp
 - **Usage** held in 1 hand; **Bulk** L
@@ -20,12 +20,12 @@ The blade of this +2 striking returning dagger shines the color of twilight, wit
 
 ```ad-embed-ability
 title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
-[shadow](rules/traits/shadow.md)  [teleportation](rules/traits/teleportation.md)  
+[shadow](rules/traits/shadow.md "Shadow General Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  
 
 You make a thrown [Strike](rules/actions/strike.md) with the gloaming shard at a target within 60 feet. Whether you hit or miss, rather than returning to you, the blade pulls you down into your own shadow and along the connecting thread.
 
 You instantly teleport to a space adjacent to the target of your [Strike](rules/actions/strike.md), as dimension door, and then catch the dagger in your hand.  
-%% #trait/teleportation #trait/shadow %%
+%% #trait/shadow #trait/teleportation %%
 ```
 
 *Source: Secrets of Magic p. 185*

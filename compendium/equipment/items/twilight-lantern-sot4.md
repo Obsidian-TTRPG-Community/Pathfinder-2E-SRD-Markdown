@@ -11,7 +11,7 @@ tags:
 aliases: ["Twilight Lantern"]
 ---
 # Twilight Lantern *Item 6+*  
-[light](rules/traits/light.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+[light](rules/traits/light.md "Light Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Held
@@ -29,7 +29,7 @@ The light can have a minimum radius of 5 feet and a maximum radius equal to doub
 ```ad-embed-ability
 title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
 
-You raise the lantern and unleash a beam of powerful moonlight, targeting a [darkness](rules/traits/darkness.md) effect within 60 feet. The lantern attempts to counteract the effect with a counteract modifier of +10.
+You raise the lantern and unleash a beam of powerful moonlight, targeting a [darkness](rules/traits/darkness.md "Darkness Effect Trait") effect within 60 feet. The lantern attempts to counteract the effect with a counteract modifier of +10.
 ```
 
 *Source: Strength of Thousands #4: Secrets of the Temple-City p. 76*

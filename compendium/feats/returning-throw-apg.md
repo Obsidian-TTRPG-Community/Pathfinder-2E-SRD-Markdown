@@ -7,7 +7,7 @@ tags:
 aliases: ["Returning Throw"]
 ---
 # Returning Throw  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 9*  
-[dwarf](rules/traits/dwarf.md)  
+[dwarf](rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  
 
 - **Activity** Two-Action
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Cut From The Air"]
 ---
 # Cut From The Air  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
-[fighter](rules/traits/fighter.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 - **Trigger** You are the target of a physical ranged [Strike](rules/actions/strike.md).
 - **Requirements**: You're aware of the attack, not [flat-footed](rules/conditions.md#Flat-footed) against it, and either have a hand free or are wielding a melee weapon.

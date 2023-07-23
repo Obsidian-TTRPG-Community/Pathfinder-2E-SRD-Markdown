@@ -10,9 +10,9 @@ tags:
 aliases: ["Fire Seeds"]
 ---
 # Fire Seeds *Spell 6*   
-[evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  [plant](rules/traits/plant.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md)
+- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Saving Throw**  basic Reflex
 - **Duration**1 minute

@@ -7,7 +7,7 @@ tags:
 aliases: ["Acclimatization"]
 ---
 # Acclimatization  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Horizon Walker Dedication](compendium/feats/horizon-walker-dedication-apg.md)
 

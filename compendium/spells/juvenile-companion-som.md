@@ -9,9 +9,9 @@ tags:
 aliases: ["Juvenile Companion"]
 ---
 # Juvenile Companion *Spell 1*   
-[polymorph](rules/traits/polymorph.md)  [transmutation](rules/traits/transmutation.md)  
+[polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md)
+- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**touch
 - **Targets**your companion

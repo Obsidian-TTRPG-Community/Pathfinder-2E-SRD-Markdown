@@ -7,7 +7,7 @@ tags:
 aliases: ["Overpowering Charge (Barbarian)"]
 ---
 # Overpowering Charge (Barbarian)  *Feat 10*  
-[barbarian](rules/traits/barbarian.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  
 
 - **Prerequisites**: Barreling Charge
 

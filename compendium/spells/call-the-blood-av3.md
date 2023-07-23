@@ -11,9 +11,9 @@ tags:
 aliases: ["Call The Blood"]
 ---
 # Call The Blood *Spell 4*   
-[death](rules/traits/death.md)  [necromancy](rules/traits/necromancy.md)  [negative](rules/traits/negative.md)  [uncommon](rules/traits/uncommon.md)  
+[death](rules/traits/death.md "Death Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**60 foot
 - **Targets**1 living creature

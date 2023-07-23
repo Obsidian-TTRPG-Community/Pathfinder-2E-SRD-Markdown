@@ -8,7 +8,7 @@ tags:
 aliases: ["Aerial Piledriver"]
 ---
 # Aerial Piledriver  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 10*  
-[archetype](rules/traits/archetype.md)  [attack](rules/traits/attack.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [attack](rules/traits/attack.md "Attack Combat Trait")  
 
 - **Prerequisites**: [Wrestler Dedication](compendium/feats/wrestler-dedication-lotgb.md)
 - **Requirements**: You have a creature [grabbed](rules/conditions.md#Grabbed) or [restrained](rules/conditions.md#Restrained).

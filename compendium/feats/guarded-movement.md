@@ -7,7 +7,7 @@ tags:
 aliases: ["Guarded Movement"]
 ---
 # Guarded Movement  *Feat 4*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 
 Your guard is up, even while moving. You gain a +4 circumstance bonus to AC against reactions triggered by your movement.

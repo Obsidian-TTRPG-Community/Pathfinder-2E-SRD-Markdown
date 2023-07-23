@@ -8,7 +8,7 @@ tags:
 aliases: ["Suli-jann"]
 ---
 # Suli-jann  *Feat 1*  
-[lineage](rules/traits/lineage-apg.md)  [suli](rules/traits/suli-b2.md)  
+[lineage](rules/traits/lineage-apg.md "Lineage  Trait")  [suli](rules/traits/suli-b2.md "Suli Ancestry & Heritage Trait")  
 
 
 Your elemental ancestor was a janni, genies that walk the mortal world and embody all four elements together. You inherited a janni's nature as a wanderer and ability to survive in many types of environment, from the hottest desert to the coldest tundra.

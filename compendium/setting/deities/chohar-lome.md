@@ -16,13 +16,13 @@ tags:
 - trait/reach-15-feet
 aliases: ["Chohar", "The Golden Lion"]
 ---
-# Chohar (The Golden Lion) *([LG](rules/traits/lawful-goo-b1.md))*  
+# Chohar (The Golden Lion) *([LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"))*  
 *Source: Lost Omens: The Mwangi Expanse p. 135*  
 
 - **Category**: Mwangi Gods
 - **Anathema**: break your word, be cruel to the innocent, rebuke someone due to their homeland
 - **Areas of Concern**: justice, , loyalty, , work
-- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [LN](rules/traits/lawful-neutral-b1.md), [NG](rules/traits/neutral-good-b1.md)
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait")
 
 ## Devotee benefits
 
@@ -40,6 +40,6 @@ When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Ch
 title: [Avatar](compendium/spells/avatar.md) of Chohar
 
 - **Speed**: Speed 70 feet, [air walk](compendium/spells/air-walk.md)
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") slam ([agile](rules/traits/agile.md), [reach <15 feet>](rules/traits/reach.md)), **Damage** `5d6+6` piercing and `1d6` fire
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") slam ([agile](rules/traits/agile.md "Agile Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait")), **Damage** `5d6+6` piercing and `1d6` fire
 - **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") sunbeam **Damage** `6d6+6` fire
 ```

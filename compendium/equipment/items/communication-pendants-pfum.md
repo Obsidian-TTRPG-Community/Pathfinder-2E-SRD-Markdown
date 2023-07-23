@@ -12,7 +12,7 @@ tags:
 aliases: ["Communication Pendants"]
 ---
 # Communication Pendants *Item 13*  
-[auditory](rules/traits/auditory.md)  [divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 3000 gp
 - **Usage** worn; **Bulk** L

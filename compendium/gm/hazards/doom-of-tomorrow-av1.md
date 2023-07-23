@@ -8,7 +8,7 @@ tags:
 aliases: ["Doom Of Tomorrow"]
 ---
 # Doom Of Tomorrow *Hazard 3*  
-[magical](rules/traits/magical.md)  [trap](rules/traits/trap.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 20 expert  

@@ -9,7 +9,7 @@ tags:
 aliases: ["Harbinger's Caw"]
 ---
 # Harbinger's Caw  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 13*  
-[auditory](rules/traits/auditory.md)  [misfortune](rules/traits/misfortune.md)  [tengu](rules/traits/tengu-b1.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [misfortune](rules/traits/misfortune.md "Misfortune Effect Trait")  [tengu](rules/traits/tengu-b1.md "Tengu Ancestry & Heritage Trait")  
 
 - **Frequency**: once per day
 - **Trigger** A creature within 60 feet is about to attempt an attack roll or skill check.

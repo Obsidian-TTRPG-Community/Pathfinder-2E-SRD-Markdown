@@ -98,8 +98,8 @@ Theme templates (introduced in the _Lost Omens Character Guide_) allow a GM to r
 
 **4th Level or Higher:** The creature can cast the initial domain spell of one of the deity's domains and gains a pool of 1 Focus Point.
 
-**7th Level or Higher:** The creature can cast the 1st-level spell the deity grants clerics three times per day as a [divine](rules/traits/divine.md) innate spell.
+**7th Level or Higher:** The creature can cast the 1st-level spell the deity grants clerics three times per day as a [divine](rules/traits/divine.md "Divine Tradition Trait") innate spell.
 
 **12th Level or Higher:** The creature can cast the advanced domain spell of the domain you chose for 4th level or higher, and its focus pool increases to 2 Focus Points.
 
-**17th Level or Higher:** The creature has been truly blessed. Either the creature can cast the deity's other deity spells of up to 7th level once per day each as [divine](rules/traits/divine.md) innate spells, or, at the GM's discretion, the creature gains the benefits of one of the deity's boons.
+**17th Level or Higher:** The creature has been truly blessed. Either the creature can cast the deity's other deity spells of up to 7th level once per day each as [divine](rules/traits/divine.md "Divine Tradition Trait") innate spells, or, at the GM's discretion, the creature gains the benefits of one of the deity's boons.

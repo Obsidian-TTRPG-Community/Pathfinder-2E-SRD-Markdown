@@ -12,7 +12,7 @@ tags:
 aliases: ["Retrieval Prism"]
 ---
 # Retrieval Prism *Item 3+*  
-[conjuration](rules/traits/conjuration.md)  [consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [talisman](rules/traits/talisman.md)  [teleportation](rules/traits/teleportation.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  
 
 - **Usage** affixed to armor
 - **Activate** command; **Requirements** You have a free hand.

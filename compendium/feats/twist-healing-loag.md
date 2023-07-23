@@ -7,7 +7,7 @@ tags:
 aliases: ["Twist Healing"]
 ---
 # Twist Healing  *Feat 17*  
-[dhampir](rules/traits/dhampir-b1.md)  
+[dhampir](rules/traits/dhampir-b1.md "Dhampir Ancestry & Heritage Trait")  
 
 - **Prerequisites**: ability to cast [heal](compendium/spells/heal.md) and [harm](compendium/spells/harm.md)
 

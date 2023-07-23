@@ -8,7 +8,7 @@ tags:
 aliases: ["Curse of the Werecreature"]
 ---
 # Curse of the Werecreature
-[curse](rules/traits/curse.md)  [necromancy](rules/traits/necromancy.md)  [primal](rules/traits/primal.md)  
+[curse](rules/traits/curse.md "Curse Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  
 
 This curse affects only humanoids.
 

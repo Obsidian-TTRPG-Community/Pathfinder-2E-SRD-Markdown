@@ -10,7 +10,7 @@ tags:
 aliases: ["Alghollthu Lash"]
 ---
 # Alghollthu Lash *Item 7*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 350 gp
 - **Usage** held in 1 hand; **Bulk** 1
@@ -26,7 +26,7 @@ The next creature you successfully [Strike](rules/actions/strike.md) with this w
 ```ad-inline-affliction
 title: Alghollthu Slime
 
-[curse](rules/traits/curse.md)  [occult](rules/traits/occult.md)  
+[curse](rules/traits/curse.md "Curse Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 A [remove disease](compendium/spells/remove-disease.md) spell can counteract this curse, but immunity to disease offers no protection against it.
 
 - **Saving Throws**: DC 25 Fortitude

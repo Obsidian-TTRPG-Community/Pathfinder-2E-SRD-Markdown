@@ -8,7 +8,7 @@ tags:
 aliases: ["Confabulator"]
 ---
 # Confabulator  *Feat 2*  
-[general](rules/traits/general.md)  [skill](rules/traits/skill.md)  
+[general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: expert in [Deception](compendium/skills.md#Deception)
 

@@ -10,12 +10,12 @@ tags:
 - domain/void/deity
 aliases: ["Nhimbaloth", "The Empty Death"]
 ---
-# Nhimbaloth (The Empty Death) *([CE](rules/traits/chaotic-evil-b1.md))*  
+# Nhimbaloth (The Empty Death) *([CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 130*  
 
 - **Category**: Outer Gods
 - **Anathema**: none
-- **Follower Alignments**: [CE](rules/traits/chaotic-evil-b1.md)
+- **Follower Alignments**: [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
 

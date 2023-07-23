@@ -13,7 +13,7 @@ tags:
 aliases: ["Hellfire Plume"]
 ---
 # Hellfire Plume *Focus 5*   
-[evil](rules/traits/evil.md)  [evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  [sorcerer](rules/traits/sorcerer.md)  [uncommon](rules/traits/uncommon.md)  
+[evil](rules/traits/evil.md "Evil Alignment Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bloodline** Sorcerer
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

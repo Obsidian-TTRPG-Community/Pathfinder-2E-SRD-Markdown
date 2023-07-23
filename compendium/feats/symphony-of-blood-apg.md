@@ -7,7 +7,7 @@ tags:
 aliases: ["Symphony Of Blood"]
 ---
 # Symphony Of Blood  *Feat 17*  
-[dhampir](rules/traits/dhampir-b1.md)  
+[dhampir](rules/traits/dhampir-b1.md "Dhampir Ancestry & Heritage Trait")  
 
 
 You call forth the blood of your foes to grant you vigor. Once per day, you can cast [vampiric exsanguination](compendium/spells/vampiric-exsanguination.md) as a 7th-level divine innate spell.

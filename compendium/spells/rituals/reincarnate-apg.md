@@ -9,7 +9,7 @@ tags:
 aliases: ["Reincarnate"]
 ---
 # Reincarnate *Ritual 3*  
-[necromancy](rules/traits/necromancy.md)  [uncommon](rules/traits/uncommon.md)  
+[necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** 4 hours
 - **Cost** rare herbs worth a total value of the target's level (minimum 1) × 25 gp
@@ -21,7 +21,7 @@ aliases: ["Reincarnate"]
 
 You call forth the target's soul and attempt to incarnate it into a brand-new body. As the soul won't be returning to the original body, only a small portion of the creature's remains are required. These remains must have been part of the original body at the time of death, and the target must have died within the past week. If [Pharasma](compendium/setting/deities/pharasma.md) has decided that the target's time has come or the target's soul is trapped or doesn't wish to return, this ritual automatically fails, but you discover this after you succeed at the [Religion](compendium/skills.md#Religion) check and can end the ritual without paying the cost.
 
-If the ritual is successful, the target's new body has a random ancestry. First roll `1d20`. On a result of 1 through 14, the new body is one of a [common](rules/traits/common.md) ancestry, while on a 15 through 20 they become a member of an [uncommon](rules/traits/uncommon.md) or [rare](rules/traits/rare.md) ancestry. The GM chooses possible ancestries based on those found in the region and then rolls randomly between them. For instance, the GM could roll `1d6` to choose a common ancestry from the Core Rulebook. The target replaces their ancestry Hit Points, size, Speeds, ability boosts, ability flaws, traits, and special abilities with those of their new ancestry. The target loses their heritage and ancestry feats, selecting replacements from their new ancestry. The target's background, class features, and known languages remain unaltered.
+If the ritual is successful, the target's new body has a random ancestry. First roll `1d20`. On a result of 1 through 14, the new body is one of a [common](rules/traits/common.md "Common Rarity Trait") ancestry, while on a 15 through 20 they become a member of an [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait") or [rare](rules/traits/rare.md "Rare Rarity Trait") ancestry. The GM chooses possible ancestries based on those found in the region and then rolls randomly between them. For instance, the GM could roll `1d6` to choose a common ancestry from the Core Rulebook. The target replaces their ancestry Hit Points, size, Speeds, ability boosts, ability flaws, traits, and special abilities with those of their new ancestry. The target loses their heritage and ancestry feats, selecting replacements from their new ancestry. The target's background, class features, and known languages remain unaltered.
 
 > [!success-degree] 
 > - **Critical Success** You reincarnate the target into a new adult body. This new body has full HP and has the same spells prepared and points in their pools as the original did when it died.

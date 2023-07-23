@@ -9,7 +9,7 @@ tags:
 aliases: ["Guisarme"]
 ---
 # Guisarme *Item 0*  
-[reach](rules/traits/reach.md)  [trip](rules/traits/trip.md)  
+[reach](rules/traits/reach.md "Reach Weapon Trait")  [trip](rules/traits/trip.md "Trip Weapon Trait")  
 
 - **Price** 2 gp
 - **Bulk** 2

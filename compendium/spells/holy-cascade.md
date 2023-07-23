@@ -12,9 +12,9 @@ tags:
 aliases: ["Holy Cascade"]
 ---
 # Holy Cascade *Spell 4*   
-[evocation](rules/traits/evocation.md)  [good](rules/traits/good.md)  [positive](rules/traits/positive.md)  [water](rules/traits/water.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [good](rules/traits/good.md "Good Alignment Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Cost**one vial of [holy water](compendium/equipment/items/holy-water.md)
 - **Range**500 foot

@@ -7,7 +7,7 @@ tags:
 aliases: ["Volatile Grease"]
 ---
 # Volatile Grease  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [grease](compendium/spells/grease.md)
 

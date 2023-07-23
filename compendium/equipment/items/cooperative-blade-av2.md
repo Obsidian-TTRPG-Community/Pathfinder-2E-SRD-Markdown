@@ -10,7 +10,7 @@ tags:
 aliases: ["Cooperative Blade"]
 ---
 # Cooperative Blade *Item 6*  
-[divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [unique](rules/traits/unique.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Price** 250 gp
 - **Usage** held in 1 hand; **Bulk** 1

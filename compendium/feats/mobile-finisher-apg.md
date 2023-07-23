@@ -8,7 +8,7 @@ tags:
 aliases: ["Mobile Finisher"]
 ---
 # Mobile Finisher  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 12*  
-[finisher](rules/traits/finisher-apg.md)  [swashbuckler](rules/traits/swashbuckler-apg.md)  
+[finisher](rules/traits/finisher-apg.md "Finisher Combat Trait")  [swashbuckler](rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  
 
 - **Activity** Single Action
 

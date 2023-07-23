@@ -7,7 +7,7 @@ tags:
 aliases: ["Waking Dream"]
 ---
 # Waking Dream  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Sleepwalker Dedication](compendium/feats/sleepwalker-dedication-da.md)
 

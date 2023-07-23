@@ -11,7 +11,7 @@ tags:
 aliases: ["Read Fate"]
 ---
 # Read Fate *Focus 1*   
-[cleric](rules/traits/cleric.md)  [divination](rules/traits/divination.md)  [prediction](rules/traits/prediction.md)  [uncommon](rules/traits/uncommon.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [prediction](rules/traits/prediction.md "Prediction Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Domains**: [fate](compendium/setting/domains.md#Fate)
 - **Cast** 1 minute 

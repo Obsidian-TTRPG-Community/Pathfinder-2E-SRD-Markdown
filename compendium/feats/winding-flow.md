@@ -7,7 +7,7 @@ tags:
 aliases: ["Winding Flow"]
 ---
 # Winding Flow  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Frequency**: once per round
 - **Activity** Single Action

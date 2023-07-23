@@ -10,7 +10,7 @@ tags:
 aliases: ["Ventriloquist's Ring"]
 ---
 # Ventriloquist's Ring *Item 3+*  
-[illusion](rules/traits/illusion.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Usage** worn; **Bulk** —
 - **Category** Worn

@@ -11,7 +11,7 @@ tags:
 aliases: ["Orb Shard"]
 ---
 # Orb Shard *Item 20*  
-[artifact](rules/traits/artifact-gmg.md)  [enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** held in 1 hand; **Bulk** –
 - **Category** Artifact

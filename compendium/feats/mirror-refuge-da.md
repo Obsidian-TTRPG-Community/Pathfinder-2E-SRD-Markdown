@@ -10,7 +10,7 @@ tags:
 aliases: ["Mirror Refuge"]
 ---
 # Mirror Refuge  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 9*  
-[conjuration](rules/traits/conjuration.md)  [extradimensional](rules/traits/extradimensional.md)  [occult](rules/traits/occult.md)  [reflection](rules/traits/reflection-da.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [extradimensional](rules/traits/extradimensional.md "Extradimensional Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [reflection](rules/traits/reflection-da.md "Reflection Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Mirror-Risen](compendium/feats/mirror-risen-da.md)
 - **Frequency**: once per day

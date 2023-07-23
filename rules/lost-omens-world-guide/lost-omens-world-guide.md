@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-book
 tags:
+- book-lost-omens-lost-omens-world-guide
 - compendium/src/pf2e/lowg
-- book/lost-omens/lost-omens-world-guide
 aliases: ["Lost Omens: World Guide"]
 ---
 **[Chapter 1: Overview](rules/lost-omens-world-guide/chapter-1-overview.md)**

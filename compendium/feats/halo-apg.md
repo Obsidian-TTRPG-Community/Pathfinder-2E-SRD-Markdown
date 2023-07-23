@@ -7,10 +7,10 @@ tags:
 aliases: ["Halo"]
 ---
 # Halo  *Feat 1*  
-[aasimar](rules/traits/aasimar-apg.md)  
+[aasimar](rules/traits/aasimar-apg.md "Aasimar Ancestry & Heritage Trait")  
 
 
-You are surrounded by a halo of light and goodness at all times. Your halo sheds light with the effects of a divine [light](compendium/spells/light.md) cantrip. A cantrip is heightened to a spell level equal to half your level rounded up. You can suppress or reestablish the halo with a single action, which has the [concentrate](rules/traits/concentrate.md) trait.
+You are surrounded by a halo of light and goodness at all times. Your halo sheds light with the effects of a divine [light](compendium/spells/light.md) cantrip. A cantrip is heightened to a spell level equal to half your level rounded up. You can suppress or reestablish the halo with a single action, which has the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") trait.
 
 ## Halo leads to...
 

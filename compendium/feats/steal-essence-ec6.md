@@ -8,7 +8,7 @@ tags:
 aliases: ["Steal Essence"]
 ---
 # Steal Essence  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 20*  
-[rogue](rules/traits/rogue.md)  [uncommon](rules/traits/uncommon.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: legendary in [Thievery](compendium/skills.md#Thievery) or master in [Arcana](compendium/skills.md#Arcana),
 - **Requirements**: A magic item is within your reach.

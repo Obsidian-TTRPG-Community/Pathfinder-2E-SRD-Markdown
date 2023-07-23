@@ -7,7 +7,7 @@ tags:
 aliases: ["Hell's Armaments"]
 ---
 # Hell's Armaments  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Hellknight Dedication](compendium/feats/hellknight-dedication-locg.md)
 

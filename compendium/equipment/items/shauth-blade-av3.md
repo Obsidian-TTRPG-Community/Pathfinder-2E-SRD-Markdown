@@ -11,7 +11,7 @@ tags:
 aliases: ["Shauth Blade"]
 ---
 # Shauth Blade *Item 0*  
-[agile](rules/traits/agile.md)  [deadly <d8>](rules/traits/deadly.md)  [finesse](rules/traits/finesse.md)  [versatile <p>](rules/traits/versatile.md)  
+[agile](rules/traits/agile.md "Agile Weapon Trait")  [deadly <d8>](rules/traits/deadly-d8.md "Deadly Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [versatile <p>](rules/traits/versatile-p.md "Versatile Weapon Trait")  
 
 - **Price** 2 gp
 - **Bulk** L

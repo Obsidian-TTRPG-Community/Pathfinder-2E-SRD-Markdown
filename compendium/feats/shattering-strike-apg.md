@@ -7,7 +7,7 @@ tags:
 aliases: ["Shattering Strike"]
 ---
 # Shattering Strike  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Improvised Pummel](compendium/feats/improvised-pummel-apg.md)
 - **Trigger** An improvised weapon that you are wielding becomes [broken](rules/conditions.md#Broken) as a result of a critical success on an [Improvised Pummel](compendium/feats/improvised-pummel-apg.md).

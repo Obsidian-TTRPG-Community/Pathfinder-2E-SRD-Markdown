@@ -7,7 +7,7 @@ tags:
 aliases: ["Skitter"]
 ---
 # Skitter  *Feat 3*  
-[general](rules/traits/general.md)  
+[general](rules/traits/general.md "General Feat Trait")  
 
 - **Prerequisites**: Dexterity 16, [Fleet](compendium/feats/fleet.md)
 

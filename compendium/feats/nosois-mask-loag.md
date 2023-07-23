@@ -7,7 +7,7 @@ tags:
 aliases: ["Nosoi's Mask"]
 ---
 # Nosoi's Mask  *Feat 1*  
-[duskwalker](rules/traits/duskwalker-apg.md)  
+[duskwalker](rules/traits/duskwalker-apg.md "Duskwalker Ancestry & Heritage Trait")  
 
 - **Prerequisites**: trained in [Crafting](compendium/skills.md#Crafting)
 

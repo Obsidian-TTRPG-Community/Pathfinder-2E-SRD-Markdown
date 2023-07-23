@@ -62,9 +62,9 @@ Illusions create the semblance of something real, fooling the eyes, ears, and ot
 
 > [!pf2-brown] Disbelieving Illusions
 > 
-> Sometimes illusions allow an affected creature a chance to disbelieve the spell, which lets the creature effectively ignore the spell if it succeeds at doing so. This usually happens when a creature [Seeks](rules/actions/seek.md) or otherwise spends actions to engage with the illusion, comparing the result of its [Perception](compendium/skills.md#Perception) check (or another check or saving throw, at the GM's discretion) to the caster's spell DC. [Mental](rules/traits/mental.md) illusions typically provide rules in the spell's description for disbelieving the effect (often allowing the affected creature to attempt a Will save).
+> Sometimes illusions allow an affected creature a chance to disbelieve the spell, which lets the creature effectively ignore the spell if it succeeds at doing so. This usually happens when a creature [Seeks](rules/actions/seek.md) or otherwise spends actions to engage with the illusion, comparing the result of its [Perception](compendium/skills.md#Perception) check (or another check or saving throw, at the GM's discretion) to the caster's spell DC. [Mental](rules/traits/mental.md "Mental Effect Trait") illusions typically provide rules in the spell's description for disbelieving the effect (often allowing the affected creature to attempt a Will save).
 > 
-> If the illusion is [visual](rules/traits/visual.md), and a creature interacts with the illusion in a way that would prove it is not what it seems, the creature might know that an illusion is present, but it still can't ignore the illusion without successfully disbelieving it. For instance, if a character is pushed through the illusion of a door, they will know that the door is an illusion, but they still can't see through it. Disbelieving an illusion makes it and those things it blocks seem hazy and indistinct, so even in the case where a visual illusion is disbelieved, it may, at the GM's discretion, block vision enough to make those on the other side concealed..
+> If the illusion is [visual](rules/traits/visual.md "Visual Effect Trait"), and a creature interacts with the illusion in a way that would prove it is not what it seems, the creature might know that an illusion is present, but it still can't ignore the illusion without successfully disbelieving it. For instance, if a character is pushed through the illusion of a door, they will know that the door is an illusion, but they still can't see through it. Disbelieving an illusion makes it and those things it blocks seem hazy and indistinct, so even in the case where a visual illusion is disbelieved, it may, at the GM's discretion, block vision enough to make those on the other side concealed..
 
 ### Necromancy
 <sup>CRB p. 298</sup>
@@ -182,7 +182,7 @@ A cantrip is always automatically heightened to half your level, rounded up. For
 > ### Minion
 > <sup>CRB p. 301</sup>
 > 
-> Minions are creatures that directly serve another creature. A creature with this trait can use only 2 actions per turn and can't use reactions. Your minion acts on your turn in combat, once per turn, when you spend an action to issue it commands. For an animal companion, you Command an Animal; for a minion that's a spell or magic item effect like a summoned minion you Sustain a Spell or Sustain an Activation; and if not otherwise specified, you issue a verbal command, which is a single action with the auditory and [concentrate](rules/traits/concentrate.md)s. If given no commands, by default minions use no actions except to defend themselves or to escape obvious harm. If left unattended for long enough, typically 1 minute, mindless minions usually don't act, animals often indulge their creature comforts, and sapient minions act how they please.
+> Minions are creatures that directly serve another creature. A creature with this trait can use only 2 actions per turn and can't use reactions. Your minion acts on your turn in combat, once per turn, when you spend an action to issue it commands. For an animal companion, you Command an Animal; for a minion that's a spell or magic item effect like a summoned minion you Sustain a Spell or Sustain an Activation; and if not otherwise specified, you issue a verbal command, which is a single action with the auditory and [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")s. If given no commands, by default minions use no actions except to defend themselves or to escape obvious harm. If left unattended for long enough, typically 1 minute, mindless minions usually don't act, animals often indulge their creature comforts, and sapient minions act how they please.
 > 
 > ### Morph
 > <sup>CRB p. 301</sup>
@@ -285,7 +285,7 @@ Spells that require you to touch the target require a somatic component. You can
 
 A verbal component is a vocalization of words of power.
 
-You must speak them in a strong voice, so it's hard to conceal that you're [Casting a Spell](rules/actions/cast-a-spell.md). The spell gains the [concentrate](rules/traits/concentrate.md). You must be able to speak to provide this component.
+You must speak them in a strong voice, so it's hard to conceal that you're [Casting a Spell](rules/actions/cast-a-spell.md). The spell gains the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait"). You must be able to speak to provide this component.
 
 #### Focus
 <sup>CRB p. 303</sup>
@@ -300,11 +300,11 @@ Foci tend to be expensive, and you need to acquire them in advance to [Cast the 
 > 
 > Some classes can substitute one component for another or alter how a component works.
 > 
-> If you're a bard [Casting a Spell](rules/actions/cast-a-spell.md) from the [occult](rules/traits/occult.md) tradition you can usually play an [instrument](compendium/equipment/items/musical-instrument.md) for spells requiring somatic or material components, as long as it takes at least one of your hands to do so. If you use an instrument, you don't need a spell component pouch or another hand free. You can usually also play an instrument for spells requiring verbal components, instead of speaking.
+> If you're a bard [Casting a Spell](rules/actions/cast-a-spell.md) from the [occult](rules/traits/occult.md "Occult Tradition Trait") tradition you can usually play an [instrument](compendium/equipment/items/musical-instrument.md) for spells requiring somatic or material components, as long as it takes at least one of your hands to do so. If you use an instrument, you don't need a spell component pouch or another hand free. You can usually also play an instrument for spells requiring verbal components, instead of speaking.
 > 
-> If you're a cleric [Casting a Spell](rules/actions/cast-a-spell.md) from the [divine](rules/traits/divine.md) tradition while holding a divine focus (such as a religious symbol or [text](compendium/equipment/items/religious-text.md)), you can replace any material component the spell requires by using the divine focus as a focus component instead. Unlike the normal rules for a focus component, you can't retrieve or stow the focus when making this substitution.
+> If you're a cleric [Casting a Spell](rules/actions/cast-a-spell.md) from the [divine](rules/traits/divine.md "Divine Tradition Trait") tradition while holding a divine focus (such as a religious symbol or [text](compendium/equipment/items/religious-text.md)), you can replace any material component the spell requires by using the divine focus as a focus component instead. Unlike the normal rules for a focus component, you can't retrieve or stow the focus when making this substitution.
 > 
-> If you're a druid [Casting a Spell](rules/actions/cast-a-spell.md) from the [primal](rules/traits/primal.md) tradition while holding a primal focus (such as [holly and mistletoe](compendium/equipment/items/holly-and-mistletoe.md)), you can replace any material component the spell requires by using the primal focus as a focus component instead. Unlike the normal rules for a focus component, you can't retrieve or stow the focus when making this substitution.
+> If you're a druid [Casting a Spell](rules/actions/cast-a-spell.md) from the [primal](rules/traits/primal.md "Primal Tradition Trait") tradition while holding a primal focus (such as [holly and mistletoe](compendium/equipment/items/holly-and-mistletoe.md)), you can replace any material component the spell requires by using the primal focus as a focus component instead. Unlike the normal rules for a focus component, you can't retrieve or stow the focus when making this substitution.
 > 
 > If you're a sorcerer [Casting a Spell](rules/actions/cast-a-spell.md) from the magical tradition that matches your bloodline, you can draw on the magic within your blood to replace any material component with a somatic component.
 > 

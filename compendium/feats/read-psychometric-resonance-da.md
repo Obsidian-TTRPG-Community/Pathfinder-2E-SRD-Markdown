@@ -15,7 +15,7 @@ tags:
 aliases: ["Read Psychometric Resonance"]
 ---
 # Read Psychometric Resonance  *Feat 1*  
-[concentrate](rules/traits/concentrate.md)  [divination](rules/traits/divination.md)  [emotion](rules/traits/emotion.md)  [exploration](rules/traits/exploration.md)  [general](rules/traits/general.md)  [mental](rules/traits/mental.md)  [occult](rules/traits/occult.md)  [skill](rules/traits/skill.md)  [uncommon](rules/traits/uncommon.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [general](rules/traits/general.md "General Feat Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: trained in [Occultism](compendium/skills.md#Occultism)
 
@@ -23,7 +23,7 @@ With a touch, you can read the psychic impressions left on objects by their prev
 
 ```ad-embed-ability
 title: Psychometric Assessment
-[concentrate](rules/traits/concentrate.md)  [divination](rules/traits/divination.md)  [emotion](rules/traits/emotion.md)  [exploration](rules/traits/exploration.md)  [mental](rules/traits/mental.md)  [occult](rules/traits/occult.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 - **Requirements**: Your bare hands are touching an object in which you detected psychometric resonance
 

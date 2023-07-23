@@ -12,7 +12,7 @@ tags:
 aliases: ["Cleansing Flames"]
 ---
 # Cleansing Flames *Focus 5*   
-[fire](rules/traits/fire.md)  [healing](rules/traits/healing.md)  [necromancy](rules/traits/necromancy.md)  [sorcerer](rules/traits/sorcerer.md)  [uncommon](rules/traits/uncommon.md)  
+[fire](rules/traits/fire.md "Fire Energy & Element Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bloodline** Sorcerer
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

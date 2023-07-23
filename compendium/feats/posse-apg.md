@@ -8,7 +8,7 @@ tags:
 aliases: ["Posse"]
 ---
 # Posse  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [exploration](rules/traits/exploration.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  
 
 - **Prerequisites**: [Bounty Hunter Dedication](compendium/feats/bounty-hunter-dedication-apg.md)
 - **Requirements**: You have designated prey with [Hunt Prey](rules/actions/hunt-prey.md).

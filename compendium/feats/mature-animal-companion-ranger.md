@@ -7,7 +7,7 @@ tags:
 aliases: ["Mature Animal Companion (Ranger)"]
 ---
 # Mature Animal Companion (Ranger)  *Feat 6*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: [Animal Companion (Ranger)](compendium/feats/animal-companion-ranger.md)
 

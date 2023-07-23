@@ -8,7 +8,7 @@ tags:
 aliases: ["Reverse Engineering"]
 ---
 # Reverse Engineering  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: expert in [Crafting](compendium/skills.md#Crafting), [Scrounger Dedication](compendium/feats/scrounger-dedication-apg.md)
 

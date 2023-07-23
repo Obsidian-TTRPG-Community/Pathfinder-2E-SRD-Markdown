@@ -7,7 +7,7 @@ tags:
 aliases: ["Tengu Lore"]
 ---
 # Tengu Lore  *Feat 1*  
-[tengu](rules/traits/tengu-b1.md)  
+[tengu](rules/traits/tengu-b1.md "Tengu Ancestry & Heritage Trait")  
 
 
 You learned skills for surviving in the place where your people were dispersed. You gain the trained proficiency rank in [Society](compendium/skills.md#Society) and [Survival](compendium/skills.md#Survival). If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in [Tengu Lore](compendium/skills.md#Lore).

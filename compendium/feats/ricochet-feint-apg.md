@@ -7,7 +7,7 @@ tags:
 aliases: ["Ricochet Feint"]
 ---
 # Ricochet Feint  *Feat 12*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Prerequisites**: [Ricochet Stance](compendium/feats/ricochet-stance-rogue-apg.md)
 

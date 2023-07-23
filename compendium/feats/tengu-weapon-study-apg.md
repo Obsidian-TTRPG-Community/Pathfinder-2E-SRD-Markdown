@@ -7,7 +7,7 @@ tags:
 aliases: ["Tengu Weapon Study"]
 ---
 # Tengu Weapon Study  *Feat 5*  
-[tengu](rules/traits/tengu-b1.md)  
+[tengu](rules/traits/tengu-b1.md "Tengu Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Tengu Weapon Familiarity](compendium/feats/tengu-weapon-familiarity-apg.md)
 

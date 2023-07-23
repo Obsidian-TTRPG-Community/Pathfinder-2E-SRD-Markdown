@@ -10,12 +10,12 @@ tags:
 - domain/wealth/deity
 aliases: ["Hastur", "The King in Yellow"]
 ---
-# Hastur (The King in Yellow) *([CE](rules/traits/chaotic-evil-b1.md))*  
+# Hastur (The King in Yellow) *([CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 130*  
 
 - **Category**: Great Old Ones
 - **Anathema**: none
-- **Follower Alignments**: [NE](rules/traits/neutral-evil-b1.md), [CE](rules/traits/chaotic-evil-b1.md)
+- **Follower Alignments**: [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
 

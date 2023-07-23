@@ -28,7 +28,7 @@ The free alchemical items from the alchemist archetype are extremely useful to c
 title: Alchemist Dedication, Feat 2
 collapse: closed
 # Alchemist Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [multiclass](rules/traits/multiclass.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [multiclass](rules/traits/multiclass.md "Multiclass Feat Trait")  
 
 - **Prerequisites**: Intelligence 14
 
@@ -48,7 +48,7 @@ You also gain the [Alchemical Crafting](compendium/feats/alchemical-crafting.md)
 title: Basic Concoction, Feat 4
 collapse: closed
 # Basic Concoction  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Alchemist Dedication](compendium/feats/alchemist-dedication.md)
 
@@ -62,7 +62,7 @@ You gain a 1st- or 2nd-level alchemist feat.
 title: Quick Alchemy, Feat 4
 collapse: closed
 # Quick Alchemy  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Alchemist Dedication](compendium/feats/alchemist-dedication.md)
 
@@ -76,7 +76,7 @@ You gain the [Quick Alchemy](rules/actions/quick-alchemy.md) action.
 title: Advanced Concoction, Feat 6
 collapse: closed
 # Advanced Concoction  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Concoction](compendium/feats/basic-concoction.md)
 
@@ -92,7 +92,7 @@ You gain one alchemist feat. For the purpose of meeting its prerequisites, your 
 title: Expert Alchemy, Feat 6
 collapse: closed
 # Expert Alchemy  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Alchemist Dedication](compendium/feats/alchemist-dedication.md), expert in [Crafting](compendium/skills.md#Crafting)
 
@@ -106,7 +106,7 @@ Your advanced alchemy level increases to 3. At 10th level, it increases to 5.
 title: Master Alchemy, Feat 12*
 collapse: closed
 # Master Alchemy  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Master Alchemy](compendium/feats/master-alchemy.md) is intended for use with the Alchemist Archetype. Its level has been changed accordingly.
 

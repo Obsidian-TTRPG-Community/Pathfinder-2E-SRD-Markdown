@@ -13,7 +13,7 @@ tags:
 aliases: ["Fu Water"]
 ---
 # Fu Water *Item 5*  
-[consumable](rules/traits/consumable.md)  [divine](rules/traits/divine.md)  [good](rules/traits/good.md)  [necromancy](rules/traits/necromancy.md)  [potion](rules/traits/potion.md)  [splash](rules/traits/splash.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [good](rules/traits/good.md "Good Alignment Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [potion](rules/traits/potion.md "Potion Item Trait")  [splash](rules/traits/splash.md "Splash Weapon Trait")  
 
 - **Price** 21 gp
 - **Usage** held in 1 hand
@@ -24,7 +24,7 @@ Burnt fulu ashes float in this liquid, lending a distinctive red color and impar
 ```ad-embed-ability
 title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 
-This potion functions as a bottle of holy water. Like holy water, you throw it as a [Strike](rules/actions/strike.md). It's a simple thrown weapon with a range increment of 20 feet. Unlike an alchemical bomb, it doesn't add the [manipulate](rules/traits/manipulate.md) trait to the attack made with it.
+This potion functions as a bottle of holy water. Like holy water, you throw it as a [Strike](rules/actions/strike.md). It's a simple thrown weapon with a range increment of 20 feet. Unlike an alchemical bomb, it doesn't add the [manipulate](rules/traits/manipulate.md "Manipulate General Trait") trait to the attack made with it.
 ```
 
 ```ad-embed-ability

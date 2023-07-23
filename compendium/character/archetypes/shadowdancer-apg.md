@@ -27,7 +27,7 @@ Regardless of the reason why someone embraces the shadows, the shadows embrace t
 title: Shadowdancer Dedication, Feat 8
 collapse: closed
 # Shadowdancer Dedication  *Feat 8*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: master in [Stealth](compendium/skills.md#Stealth), expert in [Performance](compendium/skills.md#Performance)
 
@@ -43,7 +43,7 @@ You dedicate yourself to the shadows. Your coloring becomes gray and gloomy, you
 title: Shadow Magic, Feat 10
 collapse: closed
 # Shadow Magic  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Shadowdancer Dedication](compendium/feats/shadowdancer-dedication-apg.md)
 
@@ -59,7 +59,7 @@ Shadowdancer focus spells are occult spells. You become trained in occult spell 
 title: Shadow Sneak Attack, Feat 10
 collapse: closed
 # Shadow Sneak Attack  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Shadowdancer Dedication](compendium/feats/shadowdancer-dedication-apg.md)
 
@@ -75,7 +75,7 @@ Sneak attack|rogue|crb|1 from multiple sources isn't cumulative. If you have sne
 title: Uncanny Dodge, Feat 10*
 collapse: closed
 # Uncanny Dodge  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Uncanny Dodge](compendium/feats/uncanny-dodge.md) is intended for use with the Shadowdancer Archetype. Its level has been changed accordingly.
 
@@ -91,7 +91,7 @@ You gain the deny advantage class feature (page 181).
 title: Additional Shadow Magic, Feat 12*
 collapse: closed
 # Additional Shadow Magic  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Additional Shadow Magic](compendium/feats/additional-shadow-magic-apg.md) is intended for use with the Shadowdancer Archetype. Its level has been changed accordingly.
 
@@ -107,7 +107,7 @@ Choose an additional shadowdancer focus spell you haven't already selected from 
 title: Shadow Illusion, Feat 12*
 collapse: closed
 # Shadow Illusion  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Shadow Illusion](compendium/feats/shadow-illusion-apg.md) is intended for use with the Shadowdancer Archetype. Its level has been changed accordingly.
 
@@ -123,7 +123,7 @@ With an artful eye, you shape shadows into illusory forms. You gain the [shadow 
 title: Shadow Power, Feat 14*
 collapse: closed
 # Shadow Power  *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Shadow Power](compendium/feats/shadow-power-apg.md) is intended for use with the Shadowdancer Archetype. Its level has been changed accordingly.
 
@@ -139,7 +139,7 @@ You can focus the shadows into a powerful blast. You can cast [shadow blast](com
 title: Spring From The Shadows, Feat 14*
 collapse: closed
 # Spring From The Shadows  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 14*  
-[flourish](rules/traits/flourish.md)  [rogue](rules/traits/rogue.md)  
+[flourish](rules/traits/flourish.md "Flourish Combat Trait")  [rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 > [!pf2-note] This version of [Spring From The Shadows](compendium/feats/spring-from-the-shadows.md) is intended for use with the Shadowdancer Archetype. Its level has been changed accordingly.
 
@@ -155,7 +155,7 @@ Leaping out from hiding, you assail your target when they least expect it. You [
 title: Sense The Unseen (Rogue), Feat 16*
 collapse: closed
 # Sense The Unseen (Rogue)  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 16*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 > [!pf2-note] This version of [Sense The Unseen (Rogue)](compendium/feats/sense-the-unseen-rogue.md) is intended for use with the Shadowdancer Archetype. Its level has been changed accordingly.
 
@@ -172,17 +172,17 @@ When you look for foes, you catch the slightest of cues. Even though you failed 
 title: Cognitive Loophole, Feat 18*
 collapse: closed
 # Cognitive Loophole  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 18*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 > [!pf2-note] This version of [Cognitive Loophole](compendium/feats/cognitive-loophole.md) is intended for use with the Shadowdancer Archetype. Its level has been changed accordingly.
 
 - **Trigger** Your turn ends.
-- **Requirements**: You are currently affected by a [mental](rules/traits/mental.md) effect that you gained by failing, but not critically failing, a saving throw.
+- **Requirements**: You are currently affected by a [mental](rules/traits/mental.md "Mental Effect Trait") effect that you gained by failing, but not critically failing, a saving throw.
 - **Activity** Reaction
 
-You can find a loophole in a [mental](rules/traits/mental.md) effect to temporarily overcome it. Until the end of your next turn, you ignore a single [mental](rules/traits/mental.md) effect that meets the requirement. You can suppress a particular effect using Cognitive Loophole only once.
+You can find a loophole in a [mental](rules/traits/mental.md "Mental Effect Trait") effect to temporarily overcome it. Until the end of your next turn, you ignore a single [mental](rules/traits/mental.md "Mental Effect Trait") effect that meets the requirement. You can suppress a particular effect using Cognitive Loophole only once.
 
-**Special.** You can use this reaction even if the [mental](rules/traits/mental.md) effect is preventing you from using reactions.
+**Special.** You can use this reaction even if the [mental](rules/traits/mental.md "Mental Effect Trait") effect is preventing you from using reactions.
 
 *Source: Core Rulebook p. 188*  
 %% #trait/rogue %%
@@ -192,13 +192,13 @@ You can find a loophole in a [mental](rules/traits/mental.md) effect to temporar
 title: Shadow Master, Feat 18*
 collapse: closed
 # Shadow Master  *Feat 18*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Shadow Master](compendium/feats/shadow-master-apg.md) is intended for use with the Shadowdancer Archetype. Its level has been changed accordingly.
 
 - **Prerequisites**: [Shadowdancer Dedication](compendium/feats/shadowdancer-dedication-apg.md)
 
-The shadows protect you better than any armor can, and they give you power to plunge others into darkness. Whenever you are in an area of dim light or darkness, you gain resistance 5 to all damage except force and damage from [Strikes](rules/actions/strike.md) with the [ghost touch](compendium/equipment/items/ghost-touch.md) property rune. When you attempt a Reflex saving throw in an area of dim light or darkness, you can roll twice and take the higher result; this is a [fortune](rules/traits/fortune.md) effect.
+The shadows protect you better than any armor can, and they give you power to plunge others into darkness. Whenever you are in an area of dim light or darkness, you gain resistance 5 to all damage except force and damage from [Strikes](rules/actions/strike.md) with the [ghost touch](compendium/equipment/items/ghost-touch.md) property rune. When you attempt a Reflex saving throw in an area of dim light or darkness, you can roll twice and take the higher result; this is a [fortune](rules/traits/fortune.md "Fortune Effect Trait") effect.
 
 *Source: Advanced Player's Guide p. 192*  
 %% #trait/archetype %%

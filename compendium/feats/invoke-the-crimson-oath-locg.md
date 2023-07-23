@@ -7,7 +7,7 @@ tags:
 aliases: ["Invoke The Crimson Oath"]
 ---
 # Invoke The Crimson Oath  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Knight Reclaimant Dedication](compendium/feats/knight-reclaimant-dedication-locg.md)
 

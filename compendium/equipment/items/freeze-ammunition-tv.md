@@ -11,7 +11,7 @@ tags:
 aliases: ["Freeze Ammunition"]
 ---
 # Freeze Ammunition *Item 5*  
-[alchemical](rules/traits/alchemical.md)  [cold](rules/traits/cold.md)  [consumable](rules/traits/consumable.md)  [splash](rules/traits/splash.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [cold](rules/traits/cold.md "Cold Energy & Element Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [splash](rules/traits/splash.md "Splash Weapon Trait")  
 
 - **Price** 28 gp
 - **Ammunition** any

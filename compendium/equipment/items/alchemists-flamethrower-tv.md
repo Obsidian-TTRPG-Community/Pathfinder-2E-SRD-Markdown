@@ -10,7 +10,7 @@ tags:
 aliases: ["Alchemist's Flamethrower"]
 ---
 # Alchemist's Flamethrower *Item 2*  
-[alchemical](rules/traits/alchemical.md)  [fire](rules/traits/fire.md)  [rare](rules/traits/rare.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 35 gp
 - **Usage** held in two hands; **Bulk** 1
@@ -20,7 +20,7 @@ This long cylinder is topped by a pair of brass sockets and a collection of poli
 
 ```ad-embed-ability
 title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
-[fire](rules/traits/fire.md)  
+[fire](rules/traits/fire.md "Fire Energy & Element Trait")  
 
 - **Requirements**: The flamethrower is loaded
 

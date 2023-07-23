@@ -7,7 +7,7 @@ tags:
 aliases: ["Deep Lore"]
 ---
 # Deep Lore  *Feat 18*  
-[bard](rules/traits/bard.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  
 
 - **Prerequisites**: Enigma muse, legendary in [Occultism](compendium/skills.md#Occultism)
 

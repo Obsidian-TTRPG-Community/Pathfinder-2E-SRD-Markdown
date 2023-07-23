@@ -7,7 +7,7 @@ tags:
 aliases: ["Primal Summons"]
 ---
 # Primal Summons  *Feat 12*  
-[druid](rules/traits/druid.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  
 
 - **Prerequisites**: [Call of the Wild](compendium/feats/call-of-the-wild.md)
 

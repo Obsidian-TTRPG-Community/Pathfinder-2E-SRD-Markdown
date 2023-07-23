@@ -7,7 +7,7 @@ tags:
 aliases: ["Dual-Weapon Blitz"]
 ---
 # Dual-Weapon Blitz  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Dual-Weapon Warrior Dedication](compendium/feats/dual-weapon-warrior-dedication-apg.md)
 - **Requirements**: You are wielding two one-handed melee weapons, each in a different hand.

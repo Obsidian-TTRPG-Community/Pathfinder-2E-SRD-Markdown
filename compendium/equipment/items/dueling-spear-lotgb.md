@@ -11,7 +11,7 @@ tags:
 aliases: ["Dueling Spear"]
 ---
 # Dueling Spear *Item 0*  
-[disarm](rules/traits/disarm.md)  [finesse](rules/traits/finesse.md)  [uncommon](rules/traits/uncommon.md)  [versatile <s>](rules/traits/versatile.md)  
+[disarm](rules/traits/disarm.md "Disarm Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [versatile <s>](rules/traits/versatile-s.md "Versatile Weapon Trait")  
 
 - **Price** 2 gp
 - **Bulk** 2

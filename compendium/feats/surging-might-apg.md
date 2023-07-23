@@ -9,7 +9,7 @@ tags:
 aliases: ["Surging Might"]
 ---
 # Surging Might  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
-[manipulate](rules/traits/manipulate.md)  [metamagic](rules/traits/metamagic.md)  [oracle](rules/traits/oracle-apg.md)  
+[manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  [oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  
 
 - **Activity** Single Action
 

@@ -13,7 +13,7 @@ aliases: ["Boatman's Toll Curse"]
 ---
 # Boatman's Toll Curse
 *Curse 20*  
-[curse](rules/traits/curse.md)  [death](rules/traits/death.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  
+[curse](rules/traits/curse.md "Curse Effect Trait")  [death](rules/traits/death.md "Death Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 Your soul is treated as collateral for the crimes you've committed. This punishment is reserved for those who have committed truly heinous acts, such as using holy magic against an important undead citizen or conspiring with enemies of the state.
 

@@ -10,12 +10,12 @@ tags:
 - domain/zeal/deity
 aliases: ["Dagon", "The Shadow in the Sea"]
 ---
-# Dagon (The Shadow in the Sea) *([CE](rules/traits/chaotic-evil-b1.md))*  
+# Dagon (The Shadow in the Sea) *([CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 76*  
 
 - **Category**: Demon Lords
 - **Anathema**: break a sworn oath, settle in a land-locked area, share Dagon's secrets with outsiders
-- **Follower Alignments**: [CN](rules/traits/chaotic-neutral-b1.md), [CE](rules/traits/chaotic-evil-b1.md)
+- **Follower Alignments**: [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
 

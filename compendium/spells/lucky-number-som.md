@@ -9,9 +9,9 @@ tags:
 aliases: ["Lucky Number"]
 ---
 # Lucky Number *Spell 2*   
-[contingency](rules/traits/contingency-som.md)  [divination](rules/traits/divination.md)  
+[contingency](rules/traits/contingency-som.md "Contingency Spell Trait")  [divination](rules/traits/divination.md "Divination School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [divine](rules/traits/divine.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 10 minutes 
 - **Duration**until the next time you make your daily preparations
 

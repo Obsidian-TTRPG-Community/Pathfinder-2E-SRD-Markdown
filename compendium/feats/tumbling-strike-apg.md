@@ -9,7 +9,7 @@ tags:
 aliases: ["Tumbling Strike"]
 ---
 # Tumbling Strike  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  [flourish](rules/traits/flourish.md)  [move](rules/traits/move.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  [move](rules/traits/move.md "Move Combat Trait")  
 
 - **Prerequisites**: [Acrobat Dedication](compendium/feats/acrobat-dedication-apg.md)
 - **Requirements**: You are adjacent to an enemy.

@@ -12,7 +12,7 @@ aliases: ["Grave Curse"]
 ---
 # Grave Curse
 *Curse Level Varies*  
-[curse](rules/traits/curse.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  
+[curse](rules/traits/curse.md "Curse Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 A grave curse punishes you for stealing from a tomb or other resting place.
 

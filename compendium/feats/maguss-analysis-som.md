@@ -7,7 +7,7 @@ tags:
 aliases: ["Magus's Analysis"]
 ---
 # Magus's Analysis  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
-[magus](rules/traits/magus-som.md)  
+[magus](rules/traits/magus-som.md "Magus Class Trait")  
 
 - **Prerequisites**: [Spellstrike](rules/actions/spellstrike-som.md)
 - **Activity** Single Action

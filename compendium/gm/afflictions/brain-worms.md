@@ -11,7 +11,7 @@ aliases: ["Brain Worms"]
 ---
 # Brain Worms
 *Disease 11*  
-[disease](rules/traits/disease.md)  [virulent](rules/traits/virulent.md)  
+[disease](rules/traits/disease.md "Disease Effect Trait")  [virulent](rules/traits/virulent.md "Virulent Item Trait")  
 
 Scholars suspect these brain parasites have an otherworldly or extraplanar origin. Though transmitted by the bites of infected targets, the disease remains relatively rare—most hosts are killed by the effects before they can pass it on. While infected, whenever you attack due to confusion, you bite your target (if you don't have a jaws or fangs attack, you deal piercing damage as an unarmed attack with damage equal to your lowest unarmed attack).
 

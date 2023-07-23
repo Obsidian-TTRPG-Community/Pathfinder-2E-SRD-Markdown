@@ -9,7 +9,7 @@ tags:
 aliases: ["Caterwaul Sling"]
 ---
 # Caterwaul Sling *Item 5*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 155 gp
 - **Usage** held in 1 hand; **Bulk** L
@@ -19,7 +19,7 @@ Made of shiny brown leather, this +1 striking sling has a single white thread in
 
 ```ad-embed-ability
 title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
-[sonic](rules/traits/sonic.md)  
+[sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  
 
 You pull the white thread free, then whirl the sling in circles at high speed. It lets out an ear-piercing wave of sound.
 

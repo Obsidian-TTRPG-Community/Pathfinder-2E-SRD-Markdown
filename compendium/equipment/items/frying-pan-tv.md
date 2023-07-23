@@ -9,7 +9,7 @@ tags:
 aliases: ["Frying Pan"]
 ---
 # Frying Pan *Item 0*  
-[fatal <d8>](rules/traits/fatal.md)  [halfling](rules/traits/halfling.md)  
+[fatal <d8>](rules/traits/fatal-d8.md "Fatal Weapon Trait")  [halfling](rules/traits/halfling.md "Halfling Ancestry & Heritage Trait")  
 
 - **Price** 1 sp
 - **Bulk** L

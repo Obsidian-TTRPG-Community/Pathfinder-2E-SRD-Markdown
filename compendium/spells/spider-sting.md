@@ -9,9 +9,9 @@ tags:
 aliases: ["Spider Sting"]
 ---
 # Spider Sting *Spell 1*   
-[necromancy](rules/traits/necromancy.md)  [poison](rules/traits/poison.md)  
+[necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**touch
 - **Targets**1 creature
@@ -28,7 +28,7 @@ You magically duplicate a spider's venomous sting. You deal `1d4` piercing damag
 ```ad-inline-affliction
 title: Spider Venom _Level 1_
 
-[poison](rules/traits/poison.md)  
+[poison](rules/traits/poison.md "Poison Effect Trait")  
 - **Maximum Duration**: 4 rounds
 
 ## Stages
@@ -38,7 +38,7 @@ title: Spider Venom _Level 1_
 **Stage 2** `1d4` poison damage and [enfeebled](rules/conditions.md#Enfeebled) (1 round)
 
 
-%% #trait/poison #affliction/level/level-1 %%
+%% #affliction/level/level-1 #trait/poison %%
 ```
 
 ## Summary

@@ -9,7 +9,7 @@ tags:
 aliases: ["Share Weakness"]
 ---
 # Share Weakness  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
-[esoterica](rules/traits/esoterica-da.md)  [manipulate](rules/traits/manipulate.md)  [thaumaturge](rules/traits/thaumaturge-da.md)  
+[esoterica](rules/traits/esoterica-da.md "Esoterica Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [thaumaturge](rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
 
 - **Prerequisites**: [Exploit Vulnerability](rules/actions/exploit-vulnerability-da.md), mortal weakness
 - **Requirements**: You are Exploiting a creature's Vulnerability using mortal weakness.

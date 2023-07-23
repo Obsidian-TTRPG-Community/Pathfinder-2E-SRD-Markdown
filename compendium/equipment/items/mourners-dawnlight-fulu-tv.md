@@ -12,7 +12,7 @@ tags:
 aliases: ["Mourner's Dawnlight Fulu"]
 ---
 # Mourner's Dawnlight Fulu *Item 9*  
-[consumable](rules/traits/consumable.md)  [divination](rules/traits/divination.md)  [fulu](rules/traits/fulu-som.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [fulu](rules/traits/fulu-som.md "Fulu Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 120 gp
 - **Usage** held in 2 hands; **Bulk** —

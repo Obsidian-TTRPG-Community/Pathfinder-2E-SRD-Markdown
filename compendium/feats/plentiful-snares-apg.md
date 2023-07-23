@@ -7,7 +7,7 @@ tags:
 aliases: ["Plentiful Snares"]
 ---
 # Plentiful Snares  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Snarecrafter Dedication](compendium/feats/snarecrafter-dedication-apg.md)
 

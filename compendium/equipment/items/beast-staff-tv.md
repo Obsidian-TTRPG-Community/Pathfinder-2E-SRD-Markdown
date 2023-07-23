@@ -10,7 +10,7 @@ tags:
 aliases: ["Beast Staff"]
 ---
 # Beast Staff *Item 7+*  
-[magical](rules/traits/magical.md)  [staff](rules/traits/staff.md)  [transmutation](rules/traits/transmutation.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Staff

@@ -11,7 +11,7 @@ tags:
 aliases: ["Portentous Spell"]
 ---
 # Portentous Spell  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 16*  
-[manipulate](rules/traits/manipulate.md)  [mental](rules/traits/mental.md)  [metamagic](rules/traits/metamagic.md)  [oracle](rules/traits/oracle-apg.md)  [visual](rules/traits/visual.md)  
+[manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  [oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Activity** Single Action
 

@@ -8,7 +8,7 @@ tags:
 aliases: ["Collateral Thrash"]
 ---
 # Collateral Thrash  *Feat 16*  
-[barbarian](rules/traits/barbarian.md)  [rage](rules/traits/rage.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [rage](rules/traits/rage.md "Rage Combat Trait")  
 
 - **Prerequisites**: [Thrash](compendium/feats/thrash.md)
 

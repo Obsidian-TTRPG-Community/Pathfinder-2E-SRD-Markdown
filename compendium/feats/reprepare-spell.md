@@ -7,7 +7,7 @@ tags:
 aliases: ["Reprepare Spell"]
 ---
 # Reprepare Spell  *Feat 18*  
-[wizard](rules/traits/wizard.md)  
+[wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 
 You've discovered how to reuse some of your spell slots over and over. You can spend 10 minutes to prepare a spell that you already cast today, regaining access to that spell slot. The spell must be of 4th level or lower and one that does not have a duration. You can reprepare a spell in this way even if you've already reprepared that spell previously in the same day.

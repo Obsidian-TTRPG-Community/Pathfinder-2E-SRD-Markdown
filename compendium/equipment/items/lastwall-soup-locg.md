@@ -11,7 +11,7 @@ tags:
 aliases: ["Lastwall Soup"]
 ---
 # Lastwall Soup *Item 1*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [elixir](rules/traits/elixir.md)  [uncommon](rules/traits/uncommon.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [elixir](rules/traits/elixir.md "Elixir Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 3 gp
 - **Usage** held in 2 hands; **Bulk** L

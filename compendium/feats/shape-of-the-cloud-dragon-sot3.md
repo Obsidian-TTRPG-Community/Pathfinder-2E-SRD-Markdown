@@ -8,7 +8,7 @@ tags:
 aliases: ["Shape of the Cloud Dragon"]
 ---
 # Shape of the Cloud Dragon  *Feat 14*  
-[archetype](rules/traits/archetype.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Dragon Disciple Dedication](compendium/feats/dragon-disciple-dedication-apg.md)
 
@@ -16,7 +16,7 @@ You've discovered how to transform yourself into a cloud dragon. Once per day, y
 
 While in this form, you gain the following cloud dragon–specific abilities:
 
-- **Cloud** cloud walk (you can walk on clouds or fog); **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") jaws, **Damage** `2d10` piercing plus `1d12` electricity; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") claw ([agile](rules/traits/agile.md)), **Damage** `3d10` slashing; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") tail ([reach <10 feet>](rules/traits/reach.md)), **Damage** `3d10` bludgeoning; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") horn ([reach <10 feet>](rules/traits/reach.md)), **Damage** `3d8` piercing; breath weapon 30-foot cone, `6d12` electricity.
+- **Cloud** cloud walk (you can walk on clouds or fog); **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") jaws, **Damage** `2d10` piercing plus `1d12` electricity; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") claw ([agile](rules/traits/agile.md "Agile Weapon Trait")), **Damage** `3d10` slashing; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") tail ([reach <10 feet>](rules/traits/reach-10-feet.md "Reach Weapon Trait")), **Damage** `3d10` bludgeoning; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") horn ([reach <10 feet>](rules/traits/reach-10-feet.md "Reach Weapon Trait")), **Damage** `3d8` piercing; breath weapon 30-foot cone, `6d12` electricity.
 
 **Special.** You can use this feat in place of [Shape of the Dragon](compendium/feats/shape-of-the-dragon-apg.md) to fulfill feat requirements.
 

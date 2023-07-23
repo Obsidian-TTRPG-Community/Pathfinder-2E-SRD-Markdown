@@ -8,7 +8,7 @@ tags:
 aliases: ["Flamboyant Cruelty"]
 ---
 # Flamboyant Cruelty  *Feat 8*  
-[rare](rules/traits/rare.md)  [swashbuckler](rules/traits/swashbuckler-apg.md)  
+[rare](rules/traits/rare.md "Rare Rarity Trait")  [swashbuckler](rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  
 
 
 You love to kick your enemies when they're down, and you look fabulous when you do.

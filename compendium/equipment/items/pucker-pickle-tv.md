@@ -10,7 +10,7 @@ tags:
 aliases: ["Pucker Pickle"]
 ---
 # Pucker Pickle *Item 5*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [poison](rules/traits/poison.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Price** 30 gp
 - **Usage** held in 1 hand; **Bulk** L

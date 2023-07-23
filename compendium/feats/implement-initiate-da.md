@@ -7,7 +7,7 @@ tags:
 aliases: ["Implement Initiate"]
 ---
 # Implement Initiate  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Thaumaturge Dedication](compendium/feats/thaumaturge-dedication-da.md)
 

@@ -11,7 +11,7 @@ tags:
 aliases: ["Starshot Arrow"]
 ---
 # Starshot Arrow *Item 7+*  
-[conjuration](rules/traits/conjuration.md)  [consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Ammunition** [arrow](compendium/equipment/items/arrow.md)
 - **Activate** [Interact](rules/actions/interact.md)

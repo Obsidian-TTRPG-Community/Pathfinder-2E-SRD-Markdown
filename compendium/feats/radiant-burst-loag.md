@@ -11,7 +11,7 @@ tags:
 aliases: ["Radiant Burst"]
 ---
 # Radiant Burst  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 13*  
-[fire](rules/traits/fire.md)  [ifrit](rules/traits/ifrit-b2.md)  [incapacitation](rules/traits/incapacitation.md)  [light](rules/traits/light.md)  [visual](rules/traits/visual.md)  
+[fire](rules/traits/fire.md "Fire Energy & Element Trait")  [ifrit](rules/traits/ifrit-b2.md "Ifrit Ancestry & Heritage Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [light](rules/traits/light.md "Light Effect Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Frequency**: once per day
 - **Activity** Two-Action

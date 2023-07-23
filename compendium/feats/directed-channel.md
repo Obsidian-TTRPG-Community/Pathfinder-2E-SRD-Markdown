@@ -7,7 +7,7 @@ tags:
 aliases: ["Directed Channel"]
 ---
 # Directed Channel  *Feat 4*  
-[cleric](rules/traits/cleric.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  
 
 
 You can shape the energy you channel in a single direction, reaching farther and in a more directed fashion. When you cast a version of [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md) that has an area, you can make its area a 60-foot cone instead of a 30-foot emanation.

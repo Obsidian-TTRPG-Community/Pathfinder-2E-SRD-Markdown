@@ -10,7 +10,7 @@ aliases: ["Invoke Celestial Privilege"]
 *Source: Core Rulebook p. 123*  
 
 **Ancestry** kitsune; **Heritage** kitsune|LOAG|Celestial Envoy|Celestial Envoy|LOAG|
-- **Trigger** You attempt a saving throw against a [divine](rules/traits/divine.md) effect, but you haven't rolled yet.
+- **Trigger** You attempt a saving throw against a [divine](rules/traits/divine.md "Divine Tradition Trait") effect, but you haven't rolled yet.
 - **Activity**: Reaction
 
-You rise above the triggering effect, refusing to be harmed by it. You gain a +1 circumstance bonus to the triggering saving throw and to any other saving throws you attempt against [divine](rules/traits/divine.md) effects until the start of your next turn.
+You rise above the triggering effect, refusing to be harmed by it. You gain a +1 circumstance bonus to the triggering saving throw and to any other saving throws you attempt against [divine](rules/traits/divine.md "Divine Tradition Trait") effects until the start of your next turn.

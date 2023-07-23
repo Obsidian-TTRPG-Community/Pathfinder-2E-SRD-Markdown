@@ -11,7 +11,7 @@ tags:
 aliases: ["Sparkler"]
 ---
 # Sparkler *Item 1*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [fire](rules/traits/fire.md)  [uncommon](rules/traits/uncommon.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** Sparklers are common in Tian Xia and Vudra and can be Crafted by those who can specifically [Craft](rules/actions/craft.md) fireworks (such as a fireworks technician; Guns & Gears 134).
 - **Price** 4 sp

@@ -15,12 +15,12 @@ tags:
 - trait/versatile-slashing
 aliases: ["Vildeis", "The Cardinal Martyr"]
 ---
-# Vildeis (The Cardinal Martyr) *([LG](rules/traits/lawful-goo-b1.md))*  
+# Vildeis (The Cardinal Martyr) *([LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 128*  
 
 - **Category**: Empyreal Lords
 - **Anathema**: joke or laugh about injustice, sacrifice others in your place, indulge in luxury
-- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md)
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait")
 
 ## Devotee benefits
 
@@ -35,6 +35,6 @@ aliases: ["Vildeis", "The Cardinal Martyr"]
 title: [Avatar](compendium/spells/avatar.md) of Vildeis
 
 - **Speed**: Speed 30 feet, fly 70 feet
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") dagger ([agile](rules/traits/agile.md), [finesse](rules/traits/finesse.md), [reach <15 feet>](rules/traits/reach.md), [thrown <40 feet>](rules/traits/thrown.md), [versatile <slashing>](rules/traits/versatile.md)), **Damage** `5d4+6` piercing and `1d6` persistent bleed damage
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") dagger ([agile](rules/traits/agile.md "Agile Weapon Trait"), [finesse](rules/traits/finesse.md "Finesse Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [thrown <40 feet>](rules/traits/thrown-40-feet.md "Thrown Weapon Trait"), [versatile <slashing>](rules/traits/versatile-slashing.md "Versatile Weapon Trait")), **Damage** `5d4+6` piercing and `1d6` persistent bleed damage
 - **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") cry of the martyred **Damage** `5d6+3` sonic and `1d6` persistent mental
 ```

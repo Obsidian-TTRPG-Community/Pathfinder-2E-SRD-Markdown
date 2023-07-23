@@ -10,7 +10,7 @@ tags:
 aliases: ["Heedless Spurs"]
 ---
 # Heedless Spurs *Item 15*  
-[abjuration](rules/traits/abjuration.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 5200 gp
 - **Usage** worn anklets; **Bulk** L

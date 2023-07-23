@@ -11,7 +11,7 @@ tags:
 aliases: ["Antivenom Potion"]
 ---
 # Antivenom Potion *Item 2*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [potion](rules/traits/potion.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [potion](rules/traits/potion.md "Potion Item Trait")  
 
 - **Price** 6 gp
 - **Usage** held in 1 hand; **Bulk** L

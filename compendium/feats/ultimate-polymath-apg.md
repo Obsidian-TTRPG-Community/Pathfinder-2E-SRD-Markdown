@@ -7,7 +7,7 @@ tags:
 aliases: ["Ultimate Polymath"]
 ---
 # Ultimate Polymath  *Feat 20*  
-[bard](rules/traits/bard.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  
 
 - **Prerequisites**: polymath muse
 

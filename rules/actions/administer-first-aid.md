@@ -8,7 +8,7 @@ tags:
 aliases: ["Administer First Aid"]
 ---
 # Administer First Aid (basic) [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
-[manipulate](rules/traits/manipulate.md)  
+[manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 *Source: Core Rulebook p. 248*  
 
 **Skill** [medicine](compendium/skills.md#Medicine) (untrained)

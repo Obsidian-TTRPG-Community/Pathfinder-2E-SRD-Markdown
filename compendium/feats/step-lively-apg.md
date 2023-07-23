@@ -7,7 +7,7 @@ tags:
 aliases: ["Step Lively"]
 ---
 # Step Lively  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 5*  
-[halfling](rules/traits/halfling.md)  
+[halfling](rules/traits/halfling.md "Halfling Ancestry & Heritage Trait")  
 
 - **Trigger** A Large or larger enemy ends a move action adjacent to you.
 - **Activity** Reaction

@@ -8,7 +8,7 @@ tags:
 aliases: ["Invulnerable Juggernaut"]
 ---
 # Invulnerable Juggernaut  *Feat 20*  
-[barbarian](rules/traits/barbarian.md)  [uncommon](rules/traits/uncommon.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 
 You are unstoppable, able to shrug off mortal wounds with ease. You gain resistance equal to 3 + your Constitution modifier to all damage, and your resistance from raging resistance increases to 8 + your Constitution modifier.

@@ -7,7 +7,7 @@ tags:
 aliases: ["Animal Swiftness"]
 ---
 # Animal Swiftness  *Feat 17*  
-[beastkin](rules/traits/beastkin-loag.md)  
+[beastkin](rules/traits/beastkin-loag.md "Beastkin Ancestry & Heritage Trait")  
 
 
 You move like an animal. Your Speed increases by 5 feet. In addition, you gain one of the following Speeds available to your inherent animal: climb, fly, or swim. You gain this Speed only while in your hybrid shape.

@@ -11,7 +11,7 @@ tags:
 aliases: ["Grasping Grave"]
 ---
 # Grasping Grave *Focus 5*   
-[necromancy](rules/traits/necromancy.md)  [sorcerer](rules/traits/sorcerer.md)  [uncommon](rules/traits/uncommon.md)  
+[necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bloodline** Sorcerer
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

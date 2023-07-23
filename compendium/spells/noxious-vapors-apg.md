@@ -10,9 +10,9 @@ tags:
 aliases: ["Noxious Vapors"]
 ---
 # Noxious Vapors *Spell 1*   
-[evocation](rules/traits/evocation.md)  [poison](rules/traits/poison.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**10-foot emanation
 - **Saving Throw**  basic Fortitude

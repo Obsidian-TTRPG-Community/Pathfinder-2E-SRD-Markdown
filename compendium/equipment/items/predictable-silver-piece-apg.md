@@ -9,7 +9,7 @@ tags:
 aliases: ["Predictable Silver Piece"]
 ---
 # Predictable Silver Piece *Item 1*  
-[divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 3 gp
 - **Usage** held in 1 hand

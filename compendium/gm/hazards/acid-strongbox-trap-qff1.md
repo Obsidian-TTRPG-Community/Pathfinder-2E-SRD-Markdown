@@ -10,7 +10,7 @@ tags:
 aliases: ["Acid Strongbox Trap"]
 ---
 # Acid Strongbox Trap *Hazard 4*  
-[acid](rules/traits/acid.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [trap](rules/traits/trap.md)  
+[acid](rules/traits/acid.md "Acid Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 22 trained  
@@ -21,7 +21,7 @@ An [invisible](rules/conditions.md#Invisible) magic field around the strongbox r
      
 ```ad-embed-ability
 title: Acidic Spray [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[acid](rules/traits/acid.md)  [arcane](rules/traits/arcane.md)  [evocation](rules/traits/evocation.md)  
+[acid](rules/traits/acid.md "Acid Energy & Element Trait")  [arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
 - **Trigger**: A creature touches the strongbox directly or with a held tool
 

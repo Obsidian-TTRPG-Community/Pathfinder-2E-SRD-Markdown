@@ -9,7 +9,7 @@ tags:
 aliases: ["Rallying Charge"]
 ---
 # Rallying Charge  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  [open](rules/traits/open.md)  [visual](rules/traits/visual.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [open](rules/traits/open.md "Open Combat Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Prerequisites**: [Marshal Dedication](compendium/feats/marshal-dedication-apg.md)
 - **Activity** Two-Action

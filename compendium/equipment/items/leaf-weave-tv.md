@@ -8,7 +8,7 @@ tags:
 aliases: ["Leaf Weave"]
 ---
 # Leaf Weave *Item 0*  
-[laminar](rules/traits/laminar-tv.md)  
+[laminar](rules/traits/laminar-tv.md "Laminar Armor Trait")  
 
 - **Price** 4 gp
 - **Bulk** 1

@@ -10,7 +10,7 @@ tags:
 aliases: ["Dragon's Eye Charm"]
 ---
 # Dragon's Eye Charm *Item 7*  
-[divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 360 gp
 - **Usage** held in 1 hand; **Bulk** L

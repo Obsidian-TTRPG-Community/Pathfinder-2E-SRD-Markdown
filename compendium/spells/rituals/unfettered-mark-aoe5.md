@@ -9,7 +9,7 @@ tags:
 aliases: ["Unfettered Mark"]
 ---
 # Unfettered Mark *Ritual 8*  
-[abjuration](rules/traits/abjuration.md)  [rare](rules/traits/rare.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Cast** 1 hour
 - **Cost** rare inks and needles worth a total value of 100 gp × the spell level × the target's level (see text)

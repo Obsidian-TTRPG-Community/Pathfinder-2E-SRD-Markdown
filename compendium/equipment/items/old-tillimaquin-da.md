@@ -10,7 +10,7 @@ tags:
 aliases: ["Old Tillimaquin"]
 ---
 # Old Tillimaquin *Item 12*  
-[enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [unique](rules/traits/unique.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Price** 2000 gp
 - **Bulk** 3
@@ -20,7 +20,7 @@ This beloved tavern mascot is a shabby old stuffed beast mounted on an immense s
 
 ```ad-embed-ability
 title: Activate [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies")
-[divination](rules/traits/divination.md)  [fortune](rules/traits/fortune.md)  [occult](rules/traits/occult.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 You rub Old Tillimaquin's bronzed claws for good luck before setting out on a task that might benefit the town. You can reroll a single failed saving throw within the next 24 hours, but you must take the second result, even if it's worse than your original result. Each person who rubs the claws can benefit only once per month, but there's no limit to how many people can draw on Old Tillimaquin's luck.  
 %% #trait/divination #trait/fortune #trait/occult %%

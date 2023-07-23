@@ -9,7 +9,7 @@ tags:
 aliases: ["Instinctive Obfuscation"]
 ---
 # Instinctive Obfuscation  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 13*  
-[gnome](rules/traits/gnome.md)  [illusion](rules/traits/illusion.md)  [visual](rules/traits/visual.md)  
+[gnome](rules/traits/gnome.md "Gnome Ancestry & Heritage Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Prerequisites**: at least one arcane or occult innate spell gained from a gnome heritage or gnome ancestry feat
 - **Frequency**: once per day

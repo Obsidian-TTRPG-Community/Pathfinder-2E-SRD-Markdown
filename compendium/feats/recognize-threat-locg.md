@@ -8,7 +8,7 @@ tags:
 aliases: ["Recognize Threat"]
 ---
 # Recognize Threat  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: master in a [Recall Knowledge](rules/actions/recall-knowledge.md) skill, [Pathfinder Agent Dedication](compendium/feats/pathfinder-agent-dedication-lowg.md)
 - **Trigger** Your first turn of an encounter begins, and you can see a creature.

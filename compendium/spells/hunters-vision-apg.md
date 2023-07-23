@@ -10,7 +10,7 @@ tags:
 aliases: ["Hunter's Vision"]
 ---
 # Hunter's Vision *Focus 5*   
-[divination](rules/traits/divination.md)  [ranger](rules/traits/ranger.md)  [uncommon](rules/traits/uncommon.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [ranger](rules/traits/ranger.md "Ranger Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**30 foot

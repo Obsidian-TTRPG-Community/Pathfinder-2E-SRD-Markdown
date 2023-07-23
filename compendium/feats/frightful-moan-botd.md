@@ -13,7 +13,7 @@ tags:
 aliases: ["Frightful Moan"]
 ---
 # Frightful Moan  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  [auditory](rules/traits/auditory.md)  [divine](rules/traits/divine.md)  [emotion](rules/traits/emotion.md)  [enchantment](rules/traits/enchantment.md)  [fear](rules/traits/fear.md)  [mental](rules/traits/mental.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 - **Prerequisites**: [Ghost Dedication](compendium/feats/ghost-dedication-botd.md)
 - **Frequency**: once per 10 minutes

@@ -7,7 +7,7 @@ tags:
 aliases: ["Handy With Your Paws"]
 ---
 # Handy With Your Paws  *Feat 1*  
-[shoony](rules/traits/shoony-ec3.md)  
+[shoony](rules/traits/shoony-ec3.md "Shoony Ancestry & Heritage Trait")  
 
 
 You gain a +1 circumstance bonus to [Crafting](compendium/skills.md#Crafting) checks to [Repair](rules/actions/repair.md) non-magical items, and you don't need a repair kit for such repairs as long as you have any amount of junk, spare parts, or debris at your disposal.

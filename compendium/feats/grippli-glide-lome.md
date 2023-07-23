@@ -7,7 +7,7 @@ tags:
 aliases: ["Grippli Glide"]
 ---
 # Grippli Glide  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 5*  
-[grippli](rules/traits/grippli-b2.md)  
+[grippli](rules/traits/grippli-b2.md "Grippli Ancestry & Heritage Trait")  
 
 - **Prerequisites**: windweb grippli
 - **Requirements**: You must have at least one hand free.

@@ -7,7 +7,7 @@ tags:
 aliases: ["Reptile Rider"]
 ---
 # Reptile Rider  *Feat 1*  
-[lizardfolk](rules/traits/lizardfolk-b1.md)  
+[lizardfolk](rules/traits/lizardfolk-b1.md "Lizardfolk Ancestry & Heritage Trait")  
 
 
 To you, crocodilians, giant lizards, and dinosaurs are loyal steeds, not monsters.

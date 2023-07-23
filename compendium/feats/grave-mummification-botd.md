@@ -7,7 +7,7 @@ tags:
 aliases: ["Grave Mummification"]
 ---
 # Grave Mummification  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Mummy Dedication](compendium/feats/mummy-dedication-botd.md)
 

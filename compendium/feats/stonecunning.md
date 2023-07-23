@@ -7,7 +7,7 @@ tags:
 aliases: ["Stonecunning"]
 ---
 # Stonecunning  *Feat 1*  
-[dwarf](rules/traits/dwarf.md)  
+[dwarf](rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  
 
 
 You have a knack for noticing even small inconsistencies and craftsmanship techniques in the stonework around you. You gain a +2 circumstance bonus to [Perception](compendium/skills.md#Perception) checks to notice unusual stonework. This bonus applies to checks to discover mechanical traps made of stone or [hidden](rules/conditions.md#Hidden) within stone.

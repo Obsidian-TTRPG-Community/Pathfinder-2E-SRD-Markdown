@@ -12,7 +12,7 @@ tags:
 aliases: ["Wand of Refracting Rays"]
 ---
 # Wand of Refracting Rays *Item 11+*  
-[evocation](rules/traits/evocation.md)  [light](rules/traits/light.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  [wand](rules/traits/wand.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [light](rules/traits/light.md "Light Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Wand

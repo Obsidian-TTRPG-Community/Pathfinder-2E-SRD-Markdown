@@ -12,7 +12,7 @@ tags:
 aliases: ["Color Spray Trap"]
 ---
 # Color Spray Trap *Hazard 4*  
-[auditory](rules/traits/auditory.md)  [illusion](rules/traits/illusion.md)  [incapacitation](rules/traits/incapacitation.md)  [magical](rules/traits/magical.md)  [trap](rules/traits/trap.md)  [visual](rules/traits/visual.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 22 trained to notice the glyph on the doorjamb  

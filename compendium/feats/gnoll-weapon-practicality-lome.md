@@ -7,7 +7,7 @@ tags:
 aliases: ["Gnoll Weapon Practicality"]
 ---
 # Gnoll Weapon Practicality  *Feat 5*  
-[gnoll](rules/traits/gnoll-b1.md)  
+[gnoll](rules/traits/gnoll-b1.md "Gnoll Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Gnoll Weapon Familiarity](compendium/feats/gnoll-weapon-familiarity-lome.md)
 

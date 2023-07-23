@@ -7,7 +7,7 @@ tags:
 aliases: ["Aggressive Block"]
 ---
 # Aggressive Block  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 2*  
-[fighter](rules/traits/fighter.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 - **Trigger** You use the [Shield Block](compendium/feats/shield-block.md) reaction, and the opponent that triggered [Shield Block](compendium/feats/shield-block.md) is adjacent to you and is your size or smaller.
 - **Activity** Free Action

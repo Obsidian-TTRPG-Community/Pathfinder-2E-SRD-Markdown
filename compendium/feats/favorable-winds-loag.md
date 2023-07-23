@@ -10,7 +10,7 @@ tags:
 aliases: ["Favorable Winds"]
 ---
 # Favorable Winds  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 5*  
-[air](rules/traits/air.md)  [changeling](rules/traits/changeling-b1.md)  [concentrate](rules/traits/concentrate.md)  [occult](rules/traits/occult.md)  
+[air](rules/traits/air.md "Air Energy & Element Trait")  [changeling](rules/traits/changeling-b1.md "Changeling Ancestry & Heritage Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 - **Prerequisites**: [Virga May](compendium/feats/virga-may-loag.md)
 - **Activity** Single Action

@@ -7,7 +7,7 @@ tags:
 aliases: ["Ancient Memories"]
 ---
 # Ancient Memories  *Feat 1*  
-[ghoran](rules/traits/ghoran-loil.md)  
+[ghoran](rules/traits/ghoran-loil.md "Ghoran Ancestry & Heritage Trait")  
 
 
 In the long years since Ghorus's day, you've done pretty much everything at one time or another. During your daily preparations, you can explore your memories of your past lives to become trained in one skill of your choice.

@@ -11,9 +11,9 @@ tags:
 aliases: ["Tame"]
 ---
 # Tame *Cantrip 1*   
-[auditory](rules/traits/auditory.md)  [cantrip](rules/traits/cantrip.md)  [enchantment](rules/traits/enchantment.md)  [mental](rules/traits/mental.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions**: [occult](rules/traits/occult.md), [primal](rules/traits/primal.md)
+- **Traditions**: [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**10 foot
 - **Targets**1 non-[hostile](rules/conditions.md#Hostile) domesticated animal

@@ -10,12 +10,12 @@ tags:
 - domain/soul/deity
 aliases: ["Alglenweis", "Princess of the Rime"]
 ---
-# Alglenweis (Princess of the Rime) *([CG](rules/traits/chaotic-good-b1.md))*  
+# Alglenweis (Princess of the Rime) *([CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 132*  
 
 - **Category**: Sarkorian Gods
 - **Anathema**: destroy an artistic creation without providing something in its place, refuse to act if called upon
-- **Follower Alignments**: [NG](rules/traits/neutral-good-b1.md), [CG](rules/traits/chaotic-good-b1.md), [CN](rules/traits/chaotic-neutral-b1.md)
+- **Follower Alignments**: [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")
 
 ## Devotee benefits
 

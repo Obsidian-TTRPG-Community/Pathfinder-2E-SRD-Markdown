@@ -7,7 +7,7 @@ tags:
 aliases: ["Disturbing Defense"]
 ---
 # Disturbing Defense  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Oozemorph Dedication](compendium/feats/oozemorph-dedication-sli.md)
 

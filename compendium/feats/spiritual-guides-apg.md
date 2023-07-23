@@ -9,7 +9,7 @@ tags:
 aliases: ["Spiritual Guides"]
 ---
 # Spiritual Guides  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 4*  
-[barbarian](rules/traits/barbarian.md)  [concentrate](rules/traits/concentrate.md)  [fortune](rules/traits/fortune.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  
 
 - **Prerequisites**: spirit instinct
 - **Frequency**: once per day

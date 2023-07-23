@@ -9,7 +9,7 @@ tags:
 aliases: ["Angazhan's Rake Trap"]
 ---
 # Angazhan's Rake Trap *Hazard 7*  
-[mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  [uncommon](rules/traits/uncommon.md)  
+[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 27 expert  
@@ -26,7 +26,7 @@ Six metal talons [concealed](rules/conditions.md#Concealed) in the walls swing o
      
 ```ad-embed-ability
 title: Raking Strike [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[attack](rules/traits/attack.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  
 
 - **Trigger**: one of the pressure plates is depressed
 

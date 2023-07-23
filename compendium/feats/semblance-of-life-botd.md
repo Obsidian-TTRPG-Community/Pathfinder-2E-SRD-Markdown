@@ -10,7 +10,7 @@ tags:
 aliases: ["Semblance of Life"]
 ---
 # Semblance of Life  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  [divine](rules/traits/divine.md)  [illusion](rules/traits/illusion.md)  [visual](rules/traits/visual.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Prerequisites**: [Mummy Dedication](compendium/feats/mummy-dedication-botd.md)
 - **Trigger** You deal damage to a living creature with your fist [Strike](rules/actions/strike.md) or with [Desiccating Inhalation](compendium/feats/desiccating-inhalation-botd.md).

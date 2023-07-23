@@ -11,7 +11,7 @@ tags:
 aliases: ["Eye of Apprehension"]
 ---
 # Eye of Apprehension *Item 12*  
-[consumable](rules/traits/consumable.md)  [divination](rules/traits/divination.md)  [fortune](rules/traits/fortune.md)  [talisman](rules/traits/talisman.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  
 
 - **Price** 400 gp
 - **Usage** affixed to armor; **Bulk** —

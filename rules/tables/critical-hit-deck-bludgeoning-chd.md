@@ -12,7 +12,7 @@ aliases: ["Critical Hit Deck: Bludgeoning"]
 |-------|--------|
 | 1 | **Crunch** _Crit Effect:_ The target is [sickened](rules/conditions.md#Sickened). |
 | 2 | **Where Am I?** Normal damage. _Crit Effect:_ The target is [stunned](rules/conditions.md#Stunned). |
-| 3 | **Surprise Opening** _Crit Effect:_ You gain 1 action that you can use before the end of your turn to use an [attack](rules/traits/attack.md) action against the target. |
+| 3 | **Surprise Opening** _Crit Effect:_ You gain 1 action that you can use before the end of your turn to use an [attack](rules/traits/attack.md "Attack Combat Trait") action against the target. |
 | 4 | **Cracked Rib** The target is [fatigued](rules/conditions.md#Fatigued). |
 | 5 | **Feeble Parry** _Crit Effect:_ The target drops one weapon it's wielding determined by the GM. |
 | 6 | **Cracked Knee** _Crit Effect:_ Until healed, the target is [clumsy](rules/conditions.md#Clumsy) and takes a -5-foot status penalty to land Speed. |
@@ -33,8 +33,8 @@ aliases: ["Critical Hit Deck: Bludgeoning"]
 | 21 | **Collapsed Lung** Normal damage. _Crit Effect:_ Until healed, t he target is [enfeebled](rules/conditions.md#Enfeebled) and [fatigued](rules/conditions.md#Fatigued). |
 | 22 | **Bony Masher** Normal damage. _Crit Effect:_ Either the target is [clumsy](rules/conditions.md#Clumsy) and takes a -10-foot status penalty to land Speed or is [clumsy](rules/conditions.md#Clumsy) and can't use one of its arms (your choice). Either effect last until healed. |
 | 23 | **Overwhelming Smash** Triple damage. |
-| 24 | **Ruptured Spleen** Normal damage. _Crit Effect:_ The target takes 1 [persistent bleed damage](rules/conditions.md#Persistent%20Damage) that can't be removed until the target has been subject to [magical](rules/traits/magical.md) healing. |
-| 25 | **Off Balance** Normal damage. The target triggers reactions as if it just used a [move](rules/traits/move.md) action. It is also [flat-footed](rules/conditions.md#Flat-footed) until the end of its next turn. |
+| 24 | **Ruptured Spleen** Normal damage. _Crit Effect:_ The target takes 1 [persistent bleed damage](rules/conditions.md#Persistent%20Damage) that can't be removed until the target has been subject to [magical](rules/traits/magical.md "Magical Item Trait") healing. |
+| 25 | **Off Balance** Normal damage. The target triggers reactions as if it just used a [move](rules/traits/move.md "Move Combat Trait") action. It is also [flat-footed](rules/conditions.md#Flat-footed) until the end of its next turn. |
 | 26 | **Crushed Intestines** Normal damage. _Crit Effect:_ The target is [wounded](rules/conditions.md#Wounded) and [enfeebled](rules/conditions.md#Enfeebled) until it is no longer wounded. |
 | 27 | **Crushed Trachea** _Crit Effect:_ The target is suffocating until subject to magical healing. It can't speak while it is suffocating. |
 | 28 | **Skull Crush** _Crit Effect:_ The target is [stupefied](rules/conditions.md#Stupefied) until healed. |

@@ -12,7 +12,7 @@ tags:
 aliases: ["Undertaker's Manifest"]
 ---
 # Undertaker's Manifest *Item 6*  
-[darkness](rules/traits/darkness.md)  [evocation](rules/traits/evocation.md)  [grimoire](rules/traits/grimoire-som.md)  [magical](rules/traits/magical.md)  [shadow](rules/traits/shadow.md)  
+[darkness](rules/traits/darkness.md "Darkness Effect Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [grimoire](rules/traits/grimoire-som.md "Grimoire Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [shadow](rules/traits/shadow.md "Shadow General Trait")  
 
 - **Price** 220 gp
 - **Bulk** L

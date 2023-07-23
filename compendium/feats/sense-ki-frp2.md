@@ -8,7 +8,7 @@ tags:
 aliases: ["Sense Ki"]
 ---
 # Sense Ki  *Feat 12*  
-[monk](rules/traits/monk.md)  [uncommon](rules/traits/uncommon.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: ki spells
 

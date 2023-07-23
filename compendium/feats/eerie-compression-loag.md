@@ -7,7 +7,7 @@ tags:
 aliases: ["Eerie Compression"]
 ---
 # Eerie Compression  *Feat 9*  
-[fleshwarp](rules/traits/fleshwarp-loag.md)  
+[fleshwarp](rules/traits/fleshwarp-loag.md "Fleshwarp Ancestry & Heritage Trait")  
 
 - **Prerequisites**: Medium size
 

@@ -11,7 +11,7 @@ tags:
 aliases: ["Dagger"]
 ---
 # Dagger *Item 0*  
-[agile](rules/traits/agile.md)  [finesse](rules/traits/finesse.md)  [thrown <10 ft.>](rules/traits/thrown.md)  [versatile <s>](rules/traits/versatile.md)  
+[agile](rules/traits/agile.md "Agile Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [thrown <10 ft.>](rules/traits/thrown-10-ft.md "Thrown Weapon Trait")  [versatile <s>](rules/traits/versatile-s.md "Versatile Weapon Trait")  
 
 - **Price** 2 sp
 - **Bulk** L

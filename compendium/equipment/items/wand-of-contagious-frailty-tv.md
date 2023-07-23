@@ -10,7 +10,7 @@ tags:
 aliases: ["Wand of Contagious Frailty"]
 ---
 # Wand of Contagious Frailty *Item 5*  
-[magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [wand](rules/traits/wand.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
 
 - **Price** 160 gp
 - **Usage** held in 1 hand; **Bulk** L

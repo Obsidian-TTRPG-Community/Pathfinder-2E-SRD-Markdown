@@ -7,7 +7,7 @@ tags:
 aliases: ["Big Mouth"]
 ---
 # Big Mouth  *Feat 9*  
-[ratfolk](rules/traits/ratfolk-b1.md)  
+[ratfolk](rules/traits/ratfolk-b1.md "Ratfolk Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Cheek Pouches](compendium/feats/cheek-pouches-apg.md)
 

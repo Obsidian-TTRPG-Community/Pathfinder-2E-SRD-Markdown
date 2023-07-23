@@ -15,7 +15,7 @@ Adventurers raid tombs for material gain, but true archaeologists treasure the k
 title: Archaeologist Dedication, Feat 2
 collapse: closed
 # Archaeologist Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: trained in [Perception](compendium/skills.md#Perception), [Society](compendium/skills.md#Society), and [Thievery](compendium/skills.md#Thievery)
 
@@ -33,7 +33,7 @@ You become an expert in [Society](compendium/skills.md#Society) and [Thievery](c
 title: Magical Scholastics, Feat 4
 collapse: closed
 # Magical Scholastics  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Archaeologist Dedication](compendium/feats/archaeologist-dedication-apg.md)
 
@@ -47,7 +47,7 @@ While study is key to your success, a bit of magic is a helpful tool in discover
 title: Settlement Scholastics, Feat 4
 collapse: closed
 # Settlement Scholastics  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Archaeologist Dedication](compendium/feats/archaeologist-dedication-apg.md)
 
@@ -63,7 +63,7 @@ Your studies open up new horizons. You become an expert in a [Lore](compendium/s
 title: Trap Finder (Rogue), Feat 4*
 collapse: closed
 # Trap Finder (Rogue)  *Feat 4*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 > [!pf2-note] This version of [Trap Finder (Rogue)](compendium/feats/trap-finder-rogue.md) is intended for use with the Archaeologist Archetype. Its level has been changed accordingly.
 
@@ -80,7 +80,7 @@ You can disable traps that require a proficiency rank of master in [Thievery](co
 title: Scholastic Identification, Feat 7
 collapse: closed
 # Scholastic Identification  *Feat 7*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Archaeologist Dedication](compendium/feats/archaeologist-dedication-apg.md), master in [Society](compendium/skills.md#Society)
 
@@ -94,7 +94,7 @@ You have the knowledge needed to understand ancient texts and cultural artifacts
 title: Archaeologist's Luck, Feat 8
 collapse: closed
 # Archaeologist's Luck  *Feat 8*  
-[archetype](rules/traits/archetype.md)  [fortune](rules/traits/fortune.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  
 
 - **Prerequisites**: [Archaeologist Dedication](compendium/feats/archaeologist-dedication-apg.md)
 - **Frequency**: once per hour
@@ -110,7 +110,7 @@ You are more than just skillful; your drive to find the secrets of the past mani
 title: Delay Trap, Feat 10*
 collapse: closed
 # Delay Trap  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 > [!pf2-note] This version of [Delay Trap](compendium/feats/delay-trap.md) is intended for use with the Archaeologist Archetype. Its level has been changed accordingly.
 
@@ -127,7 +127,7 @@ You can jam the workings of a trap to delay its effects. Attempt a [Thievery](co
 title: Greater Magical Scholastics, Feat 10
 collapse: closed
 # Greater Magical Scholastics  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Archaeologist Dedication](compendium/feats/archaeologist-dedication-apg.md), [Magical Scholastics](compendium/feats/magical-scholastics-apg.md)
 

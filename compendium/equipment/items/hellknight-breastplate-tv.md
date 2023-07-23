@@ -8,7 +8,7 @@ tags:
 aliases: ["Hellknight Breastplate"]
 ---
 # Hellknight Breastplate *Item 1*  
-[uncommon](rules/traits/uncommon.md)  
+[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** A character who is a member of the Hellknights has access to this option.
 - **Price** 10 gp

@@ -7,7 +7,7 @@ tags:
 aliases: ["Cautious Curiosity"]
 ---
 # Cautious Curiosity  *Feat 9*  
-[gnome](rules/traits/gnome.md)  
+[gnome](rules/traits/gnome.md "Gnome Ancestry & Heritage Trait")  
 
 - **Prerequisites**: at least one arcane or occult innate spell gained from a gnome heritage or gnome ancestry feat
 

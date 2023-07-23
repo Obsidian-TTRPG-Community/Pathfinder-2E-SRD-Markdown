@@ -7,7 +7,7 @@ tags:
 aliases: ["Oracular Providence"]
 ---
 # Oracular Providence  *Feat 20*  
-[oracle](rules/traits/oracle-apg.md)  
+[oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  
 
 - **Prerequisites**: oracular clarity
 

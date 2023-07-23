@@ -13,7 +13,7 @@ tags:
 aliases: ["Shaken Confidence"]
 ---
 # Shaken Confidence *Focus 4*   
-[cleric](rules/traits/cleric.md)  [emotion](rules/traits/emotion.md)  [enchantment](rules/traits/enchantment.md)  [mental](rules/traits/mental.md)  [misfortune](rules/traits/misfortune.md)  [rare](rules/traits/rare.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [misfortune](rules/traits/misfortune.md "Misfortune Effect Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Domains**: [confidence (apocryphal)](compendium/setting/domains.md#Confidence)
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 

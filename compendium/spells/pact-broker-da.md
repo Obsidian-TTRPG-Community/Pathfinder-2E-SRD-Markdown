@@ -13,7 +13,7 @@ tags:
 aliases: ["Pact Broker"]
 ---
 # Pact Broker *Cantrip 1*   
-[cantrip](rules/traits/cantrip.md)  [enchantment](rules/traits/enchantment.md)  [hex](rules/traits/hex-apg.md)  [mental](rules/traits/mental.md)  [rare](rules/traits/rare.md)  [witch](rules/traits/witch-apg.md)  
+[cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [hex](rules/traits/hex-apg.md "Hex Combat Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [witch](rules/traits/witch-apg.md "Witch Class Trait")  
 
 - **Patron** Witch
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 

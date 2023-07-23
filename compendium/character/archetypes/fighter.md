@@ -27,7 +27,7 @@ The fighter archetype grants access to great feats for characters focusing on an
 title: Fighter Dedication, Feat 2
 collapse: closed
 # Fighter Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [multiclass](rules/traits/multiclass.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [multiclass](rules/traits/multiclass.md "Multiclass Feat Trait")  
 
 - **Prerequisites**: Strength 14, Dexterity 14
 
@@ -43,7 +43,7 @@ You become trained in simple weapons and martial weapons. You become trained in 
 title: Basic Maneuver, Feat 4
 collapse: closed
 # Basic Maneuver  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Fighter Dedication](compendium/feats/fighter-dedication.md)
 
@@ -57,7 +57,7 @@ You gain a 1st- or 2nd-level fighter feat.
 title: Fighter Resiliency, Feat 4
 collapse: closed
 # Fighter Resiliency  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Fighter Dedication](compendium/feats/fighter-dedication.md), class granting no more Hit Points per level than 8 + your Constitution modifier
 
@@ -71,7 +71,7 @@ You gain 3 additional Hit Points for each fighter archetype class feat you have.
 title: Opportunist, Feat 4
 collapse: closed
 # Opportunist  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Fighter Dedication](compendium/feats/fighter-dedication.md)
 
@@ -85,7 +85,7 @@ You gain the [Attack of Opportunity](rules/actions/attack-of-opportunity.md) rea
 title: Advanced Maneuver, Feat 6
 collapse: closed
 # Advanced Maneuver  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Maneuver](compendium/feats/basic-maneuver.md)
 
@@ -101,7 +101,7 @@ You gain a fighter feat. For the purpose of meeting its prerequisites, your figh
 title: Diverse Weapon Expert, Feat 12*
 collapse: closed
 # Diverse Weapon Expert  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Diverse Weapon Expert](compendium/feats/diverse-weapon-expert.md) is intended for use with the Fighter Archetype. Its level has been changed accordingly.
 

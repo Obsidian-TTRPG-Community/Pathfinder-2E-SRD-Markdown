@@ -10,7 +10,7 @@ tags:
 aliases: ["Frost"]
 ---
 # Frost *Item 8+*  
-[cold](rules/traits/cold.md)  [conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  
+[cold](rules/traits/cold.md "Cold Energy & Element Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Usage** etched onto a weapon
 - **Category** Rune

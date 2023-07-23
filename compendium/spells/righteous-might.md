@@ -9,9 +9,9 @@ tags:
 aliases: ["Righteous Might"]
 ---
 # Righteous Might *Spell 6*   
-[polymorph](rules/traits/polymorph.md)  [transmutation](rules/traits/transmutation.md)  
+[polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Requirements**You have a deity.
 - **Duration**1 minute

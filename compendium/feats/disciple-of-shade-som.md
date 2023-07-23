@@ -7,7 +7,7 @@ tags:
 aliases: ["Disciple Of Shade"]
 ---
 # Disciple Of Shade  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Shadowcaster Dedication](compendium/feats/shadowcaster-dedication-som.md)
 

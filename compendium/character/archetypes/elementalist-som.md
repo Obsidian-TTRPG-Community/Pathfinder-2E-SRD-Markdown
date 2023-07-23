@@ -22,7 +22,7 @@ If you're a sorcerer with the elemental bloodline, you can replace your [initial
 
 **Druid Elementalist Adjustments:** If you're a druid of the storm order, you can choose to replace your starting order spell, [tempest surge](compendium/spells/tempest-surge.md), with [updraft](compendium/spells/updraft-som.md).
 
-**Wizard Elementalist Adjustments:** If you're a wizard with an arcane school, instead of specializing in a school of magic, you specialize in one of the four elements: air, earth, fire, or water. Any benefits your arcane school would grant you that are associated with a selected spell school, you instead apply to your selected element. For example, if you select air as your element, you can prepare only spells that have the [air](rules/traits/air.md) trait in your extra arcane school slots, you can prepare an extra air cantrip, and you add an extra air spell from the elemental spell list to your spellbook. Additionally, in place of your arcane school spell, you learn the initial elemental focus spell of your selected element. In all other ways, your arcane school|Wizard||1 functions as written in the Core Rulebook. If you later select the [Advanced School Spell](compendium/feats/advanced-school-spell.md) wizard feat, instead of gaining the listed school spell, you gain the advanced elemental focus spell of your selected element.
+**Wizard Elementalist Adjustments:** If you're a wizard with an arcane school, instead of specializing in a school of magic, you specialize in one of the four elements: air, earth, fire, or water. Any benefits your arcane school would grant you that are associated with a selected spell school, you instead apply to your selected element. For example, if you select air as your element, you can prepare only spells that have the [air](rules/traits/air.md "Air Energy & Element Trait") trait in your extra arcane school slots, you can prepare an extra air cantrip, and you add an extra air spell from the elemental spell list to your spellbook. Additionally, in place of your arcane school spell, you learn the initial elemental focus spell of your selected element. In all other ways, your arcane school|Wizard||1 functions as written in the Core Rulebook. If you later select the [Advanced School Spell](compendium/feats/advanced-school-spell.md) wizard feat, instead of gaining the listed school spell, you gain the advanced elemental focus spell of your selected element.
 
 *Source: Secrets of Magic p. 206*
 
@@ -30,11 +30,11 @@ If you're a sorcerer with the elemental bloodline, you can replace your [initial
 title: Elementalist Dedication, Feat 2
 collapse: closed
 # Elementalist Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [class](rules/traits/class-som.md)  [dedication](rules/traits/dedication.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [class](rules/traits/class-som.md "Class Class Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: elemental magic
 
-Each day when you make your daily preparations, you can attune yourself to one element of your choice: air, earth, fire, or water. You gain resistance equal to half your level (minimum 1 resistance) against damage dealt by effects with your attuned [elemental](rules/traits/elemental.md) trait. This attunement lasts until you next make your daily preparations.
+Each day when you make your daily preparations, you can attune yourself to one element of your choice: air, earth, fire, or water. You gain resistance equal to half your level (minimum 1 resistance) against damage dealt by effects with your attuned [elemental](rules/traits/elemental.md "Elemental Creature Type Trait") trait. This attunement lasts until you next make your daily preparations.
 
 **Special.** You can't select another dedication feat until you've gained two other feats from the elementalist archetype.
 
@@ -46,14 +46,14 @@ Each day when you make your daily preparations, you can attune yourself to one e
 title: Dousing Spell, Feat 4
 collapse: closed
 # Dousing Spell  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  [metamagic](rules/traits/metamagic.md)  [water](rules/traits/water.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
 - **Prerequisites**: [Elementalist Dedication](compendium/feats/elementalist-dedication-som.md)
 - **Activity** Single Action
 
 You enhance your spell with elemental water, soaking the target. If the next action you use is to [Cast a Spell](rules/actions/cast-a-spell.md) targeting a single creature, you soak the target of the spell with water.
 
-If the target has [persistent acid](rules/conditions.md#Persistent%20Damage) or fire damage, the DC to end those conditions is reduced to 10, and the creature can attempt a flat check to end those types of [persistent damage](rules/conditions.md#Persistent%20Damage) immediately. The spell gains the [water](rules/traits/water.md) trait (causing it to deal extra damage to creatures with weakness to water).
+If the target has [persistent acid](rules/conditions.md#Persistent%20Damage) or fire damage, the DC to end those conditions is reduced to 10, and the creature can attempt a flat check to end those types of [persistent damage](rules/conditions.md#Persistent%20Damage) immediately. The spell gains the [water](rules/traits/water.md "Water Energy & Element Trait") trait (causing it to deal extra damage to creatures with weakness to water).
 
 *Source: Secrets of Magic p. 206*  
 %% #trait/archetype #trait/metamagic #trait/water %%
@@ -63,7 +63,7 @@ If the target has [persistent acid](rules/conditions.md#Persistent%20Damage) or 
 title: Elemental Familiar, Feat 4
 collapse: closed
 # Elemental Familiar  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Elementalist Dedication](compendium/feats/elementalist-dedication-som.md), Familiar
 
@@ -71,7 +71,7 @@ Your familiar becomes an elemental spirit capable of taking on aspects of the fo
 
 Other than taking the form of an elemental instead of an animal, this familiar continues to use all the same rules as other familiars.
 
-Your familiar gains one additional familiar ability each day, which must be one of the following elemental familiar abilities. While your familiar has an elemental familiar ability, your familiar is composed of the associated elemental matter and gains the matching [elemental](rules/traits/elemental.md) trait. You can't select more than one elemental familiar ability at a time.
+Your familiar gains one additional familiar ability each day, which must be one of the following elemental familiar abilities. While your familiar has an elemental familiar ability, your familiar is composed of the associated elemental matter and gains the matching [elemental](rules/traits/elemental.md "Elemental Creature Type Trait") trait. You can't select more than one elemental familiar ability at a time.
 
 - **Air** If your familiar stays completely still for 1 round, it becomes [invisible](rules/conditions.md#Invisible) until it next takes an action. Any motion, even being moved or carried by another creature, ends this effect.
 - **Earth** Your familiar gains resistance to physical damage (except adamantine) equal to half your level.
@@ -86,7 +86,7 @@ Your familiar gains one additional familiar ability each day, which must be one 
 title: Familiar (Sorcerer), Feat 4*
 collapse: closed
 # Familiar (Sorcerer)  *Feat 4*  
-[sorcerer](rules/traits/sorcerer.md)  
+[sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 > [!pf2-note] This version of [Familiar (Sorcerer)](compendium/feats/familiar-sorcerer.md) is intended for use with the Elementalist Archetype. Its level has been changed accordingly.
 
@@ -101,22 +101,22 @@ An animal serves you and assists your spellcasting. You gain a familiar.
 title: Burning Spell, Feat 6
 collapse: closed
 # Burning Spell  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  [fire](rules/traits/fire.md)  [metamagic](rules/traits/metamagic.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 - **Prerequisites**: [Elementalist Dedication](compendium/feats/elementalist-dedication-som.md)
 - **Activity** Single Action
 
-You enhance your spell with elemental fire, causing it to set the target on fire. If the next action you use is to [Cast a non-cantrip Spell](rules/actions/cast-a-spell.md) that deals damage at a single target, the spell deals additional [persistent fire damage](rules/conditions.md#Persistent%20Damage) equal to the spell level, in addition to its other effects. This has no effect if the spell already deals [persistent fire damage](rules/conditions.md#Persistent%20Damage). The spell gains the [fire](rules/traits/fire.md) trait.
+You enhance your spell with elemental fire, causing it to set the target on fire. If the next action you use is to [Cast a non-cantrip Spell](rules/actions/cast-a-spell.md) that deals damage at a single target, the spell deals additional [persistent fire damage](rules/conditions.md#Persistent%20Damage) equal to the spell level, in addition to its other effects. This has no effect if the spell already deals [persistent fire damage](rules/conditions.md#Persistent%20Damage). The spell gains the [fire](rules/traits/fire.md "Fire Energy & Element Trait") trait.
 
 *Source: Secrets of Magic p. 207*  
-%% #trait/archetype #trait/metamagic #trait/fire %%
+%% #trait/archetype #trait/fire #trait/metamagic %%
 ```  
 
 ```ad-embed-feat
 title: Enhanced Familiar (Sorcerer), Feat 6*
 collapse: closed
 # Enhanced Familiar (Sorcerer)  *Feat 6*  
-[sorcerer](rules/traits/sorcerer.md)  
+[sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 > [!pf2-note] This version of [Enhanced Familiar (Sorcerer)](compendium/feats/enhanced-familiar-sorcerer.md) is intended for use with the Elementalist Archetype. Its level has been changed accordingly.
 
@@ -132,13 +132,13 @@ You infuse your familiar with additional primal energy, increasing its abilities
 title: Current Spell, Feat 8*
 collapse: closed
 # Current Spell  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
-[abjuration](rules/traits/abjuration.md)  [concentrate](rules/traits/concentrate.md)  [druid](rules/traits/druid.md)  [metamagic](rules/traits/metamagic.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [druid](rules/traits/druid.md "Druid Class Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 > [!pf2-note] This version of [Current Spell](compendium/feats/current-spell-apg.md) is intended for use with the Elementalist Archetype. Its level has been changed accordingly.
 
 - **Activity** Single Action
 
-As you use your magic to manipulate air or water, you divert some of its currents to form a barrier around you. If your next action is to [Cast a Spell](rules/actions/cast-a-spell.md) with the [air](rules/traits/air.md) or [water](rules/traits/water.md) trait, until the start of your next turn, you gain a +1 circumstance bonus to AC or a +2 circumstance bonus against ranged attacks. This effect has the [air](rules/traits/air.md) or [water](rules/traits/water.md) trait, or both, depending on the traits of the spell you cast. You also gain a +1 circumstance bonus to all saves against effects with the [air](rules/traits/air.md) trait, [water](rules/traits/water.md) trait, or both until the start of your next turn, depending on the spell's traits.
+As you use your magic to manipulate air or water, you divert some of its currents to form a barrier around you. If your next action is to [Cast a Spell](rules/actions/cast-a-spell.md) with the [air](rules/traits/air.md "Air Energy & Element Trait") or [water](rules/traits/water.md "Water Energy & Element Trait") trait, until the start of your next turn, you gain a +1 circumstance bonus to AC or a +2 circumstance bonus against ranged attacks. This effect has the [air](rules/traits/air.md "Air Energy & Element Trait") or [water](rules/traits/water.md "Water Energy & Element Trait") trait, or both, depending on the traits of the spell you cast. You also gain a +1 circumstance bonus to all saves against effects with the [air](rules/traits/air.md "Air Energy & Element Trait") trait, [water](rules/traits/water.md "Water Energy & Element Trait") trait, or both until the start of your next turn, depending on the spell's traits.
 
 *Source: Advanced Player's Guide p. 124*  
 %% #trait/abjuration #trait/concentrate #trait/druid #trait/metamagic %%
@@ -148,10 +148,10 @@ As you use your magic to manipulate air or water, you divert some of its current
 title: Metabolize Element, Feat 8
 collapse: closed
 # Metabolize Element  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Elementalist Dedication](compendium/feats/elementalist-dedication-som.md)
-- **Trigger** You take damage from a foe's spell or magical ability with the air, earth, [fire](rules/traits/fire.md), or [water](rules/traits/water.md) trait.
+- **Trigger** You take damage from a foe's spell or magical ability with the air, earth, [fire](rules/traits/fire.md "Fire Energy & Element Trait"), or [water](rules/traits/water.md "Water Energy & Element Trait") trait.
 - **Activity** Reaction
 
 Your rapidly metabolize the elemental particles in your opponent's spell to gain a boost of energy. You gain the [quickened](rules/conditions.md#Quickened) condition until the end of your next turn.
@@ -166,7 +166,7 @@ You can use the extra action only to [Step](rules/actions/step.md) or [Stride](r
 title: Water Step, Feat 8*
 collapse: closed
 # Water Step  *Feat 8*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 > [!pf2-note] This version of [Water Step](compendium/feats/water-step.md) is intended for use with the Elementalist Archetype. Its level has been changed accordingly.
 
@@ -181,12 +181,12 @@ You can [Stride](rules/actions/stride.md) across liquid and surfaces that don't 
 title: Rockslide Spell, Feat 10
 collapse: closed
 # Rockslide Spell  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
-[archetype](rules/traits/archetype.md)  [earth](rules/traits/earth.md)  [metamagic](rules/traits/metamagic.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 - **Prerequisites**: [Elementalist Dedication](compendium/feats/elementalist-dedication-som.md)
 - **Activity** Single Action
 
-You enhance your spell with elemental earth, causing chunks of stone to litter the ground. If the next action you use is to [Cast a non-cantrip Spell](rules/actions/cast-a-spell.md) that affects an area, a number of 5-foot squares in the area equal to the spell level become difficult terrain for 1 round. These squares must be on the ground, and the entire area of difficult terrain must be contiguous. The spell gains the [earth](rules/traits/earth.md) trait.
+You enhance your spell with elemental earth, causing chunks of stone to litter the ground. If the next action you use is to [Cast a non-cantrip Spell](rules/actions/cast-a-spell.md) that affects an area, a number of 5-foot squares in the area equal to the spell level become difficult terrain for 1 round. These squares must be on the ground, and the entire area of difficult terrain must be contiguous. The spell gains the [earth](rules/traits/earth.md "Earth Energy & Element Trait") trait.
 
 *Source: Secrets of Magic p. 207*  
 %% #trait/archetype #trait/earth #trait/metamagic %%
@@ -196,12 +196,12 @@ You enhance your spell with elemental earth, causing chunks of stone to litter t
 title: Redirect Elements, Feat 12*
 collapse: closed
 # Redirect Elements  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Redirect Elements](compendium/feats/redirect-elements-som.md) is intended for use with the Elementalist Archetype. Its level has been changed accordingly.
 
 - **Prerequisites**: [Elementalist Dedication](compendium/feats/elementalist-dedication-som.md)
-- **Trigger** The spell attack roll for a foe's spell with an [elemental](rules/traits/elemental.md) trait targeting you fails or critically fails.
+- **Trigger** The spell attack roll for a foe's spell with an [elemental](rules/traits/elemental.md "Elemental Creature Type Trait") trait targeting you fails or critically fails.
 - **Activity** Reaction
 
 You seize the elemental essence of an incoming spell and redirect the spell to a creature of your choice within the spell's area. The attacker rerolls the spell's attack roll against the new target.
@@ -214,7 +214,7 @@ You seize the elemental essence of an incoming spell and redirect the spell to a
 title: Wind-tossed Spell, Feat 14*
 collapse: closed
 # Wind-tossed Spell  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 14*  
-[air](rules/traits/air.md)  [archetype](rules/traits/archetype.md)  [concentrate](rules/traits/concentrate.md)  [metamagic](rules/traits/metamagic.md)  
+[air](rules/traits/air.md "Air Energy & Element Trait")  [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 > [!pf2-note] This version of [Wind-tossed Spell](compendium/feats/wind-tossed-spell-som.md) is intended for use with the Elementalist Archetype. Its level has been changed accordingly.
 
@@ -223,7 +223,7 @@ collapse: closed
 
 You enhance your spell with elemental air, using the wind to find your target and carry your magic around cover.
 
-If the next action you use is to [Cast a Spell](rules/actions/cast-a-spell.md) that requires a spell attack roll, you ignore the target's [concealed](rules/conditions.md#Concealed) condition and any cover they have from you. The spell gains the [air](rules/traits/air.md) trait.
+If the next action you use is to [Cast a Spell](rules/actions/cast-a-spell.md) that requires a spell attack roll, you ignore the target's [concealed](rules/conditions.md#Concealed) condition and any cover they have from you. The spell gains the [air](rules/traits/air.md "Air Energy & Element Trait") trait.
 
 *Source: Secrets of Magic p. 207*  
 %% #trait/air #trait/archetype #trait/concentrate #trait/metamagic %%

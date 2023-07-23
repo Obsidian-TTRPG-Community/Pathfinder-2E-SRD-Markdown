@@ -7,7 +7,7 @@ tags:
 aliases: ["Regrowth"]
 ---
 # Regrowth  *Feat 17*  
-[leshy](rules/traits/leshy-b1.md)  
+[leshy](rules/traits/leshy-b1.md "Leshy Ancestry & Heritage Trait")  
 
 
 Your command over your vital essence allows you or an ally to recover from grievous wounds. You can cast [regenerate](compendium/spells/regenerate.md) as a 7th-level primal innate spell once per day.

@@ -8,7 +8,7 @@ tags:
 aliases: ["Extendable Tail"]
 ---
 # Extendable Tail *Item 3*  
-[mechanical](rules/traits/mechanical.md)  
+[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  
 
 - **Price** 10 gp
 - **Usage** worn; **Bulk** 1

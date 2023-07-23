@@ -8,10 +8,10 @@ tags:
 aliases: ["Emberkin"]
 ---
 # Emberkin  *Feat 1*  
-[aasimar](rules/traits/aasimar-apg.md)  [lineage](rules/traits/lineage-apg.md)  
+[aasimar](rules/traits/aasimar-apg.md "Aasimar Ancestry & Heritage Trait")  [lineage](rules/traits/lineage-apg.md "Lineage  Trait")  
 
 
-A peri's roaring spirit burns in your soul. Peris engage in constant struggle to right the wrongs of their fallen forebears, and that struggle has been passed on to you. You have a direct impulse to right wrongs and better the world. You gain a +1 circumstance bonus to saving throws against [fire](rules/traits/fire.md) effects, and your perception is unaffected by non-magical flames, fog and smoke.
+A peri's roaring spirit burns in your soul. Peris engage in constant struggle to right the wrongs of their fallen forebears, and that struggle has been passed on to you. You have a direct impulse to right wrongs and better the world. You gain a +1 circumstance bonus to saving throws against [fire](rules/traits/fire.md "Fire Energy & Element Trait") effects, and your perception is unaffected by non-magical flames, fog and smoke.
 
 ## Emberkin leads to...
 

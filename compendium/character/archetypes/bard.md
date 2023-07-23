@@ -21,7 +21,7 @@ The bard archetype grants powerful effects that tend to use actions; it's a grea
 title: Bard Dedication, Feat 2
 collapse: closed
 # Bard Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [multiclass](rules/traits/multiclass.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [multiclass](rules/traits/multiclass.md "Multiclass Feat Trait")  
 
 - **Prerequisites**: Charisma 14
 
@@ -39,7 +39,7 @@ Choose a muse as you would if you were a bard. You have that muse for all purpos
 title: Basic Bard Spellcasting, Feat 4
 collapse: closed
 # Basic Bard Spellcasting  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Bard Dedication](compendium/feats/bard-dedication.md)
 
@@ -53,7 +53,7 @@ You gain the basic spellcasting benefits. Each time you gain a spell slot of a n
 title: Basic Muse's Whispers, Feat 4
 collapse: closed
 # Basic Muse's Whispers  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Bard Dedication](compendium/feats/bard-dedication.md)
 
@@ -67,7 +67,7 @@ You gain a 1st- or 2nd-level bard feat.
 title: Advanced Muse's Whispers, Feat 6
 collapse: closed
 # Advanced Muse's Whispers  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Muse's Whispers](compendium/feats/basic-muses-whispers.md)
 
@@ -83,7 +83,7 @@ You gain one bard feat. For the purpose of meeting its prerequisites, your bard 
 title: Counter Perform, Feat 6
 collapse: closed
 # Counter Perform  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Bard Dedication](compendium/feats/bard-dedication.md)
 
@@ -97,7 +97,7 @@ You gain the [counter performance](compendium/spells/counter-performance.md) com
 title: Inspirational Performance, Feat 8
 collapse: closed
 # Inspirational Performance  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Bard Dedication](compendium/feats/bard-dedication.md)
 
@@ -111,7 +111,7 @@ You gain the [inspire courage](compendium/spells/inspire-courage.md) composition
 title: Occult Breadth, Feat 8
 collapse: closed
 # Occult Breadth  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Bard Spellcasting](compendium/feats/basic-bard-spellcasting.md)
 
@@ -125,7 +125,7 @@ Your repertoire expands, and you can cast more occult spells each day. Increase 
 title: Expert Bard Spellcasting, Feat 12*
 collapse: closed
 # Expert Bard Spellcasting  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Expert Bard Spellcasting](compendium/feats/expert-bard-spellcasting.md) is intended for use with the Bard Archetype. Its level has been changed accordingly.
 
@@ -141,7 +141,7 @@ You gain the expert spellcasting benefits.
 title: Master Bard Spellcasting, Feat 18*
 collapse: closed
 # Master Bard Spellcasting  *Feat 18*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Master Bard Spellcasting](compendium/feats/master-bard-spellcasting.md) is intended for use with the Bard Archetype. Its level has been changed accordingly.
 

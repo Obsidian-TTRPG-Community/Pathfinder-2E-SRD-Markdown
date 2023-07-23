@@ -9,7 +9,7 @@ tags:
 aliases: ["Cursed Effigy"]
 ---
 # Cursed Effigy  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
-[curse](rules/traits/curse.md)  [esoterica](rules/traits/esoterica-da.md)  [thaumaturge](rules/traits/thaumaturge-da.md)  
+[curse](rules/traits/curse.md "Curse Effect Trait")  [esoterica](rules/traits/esoterica-da.md "Esoterica Action & Ability Trait")  [thaumaturge](rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
 
 - **Prerequisites**: [Exploit Vulnerability](rules/actions/exploit-vulnerability-da.md)
 - **Requirements**: Your last action was a successful [Strike](rules/actions/strike.md) against the target of your [Exploit Vulnerability](rules/actions/exploit-vulnerability-da.md), and the [Strike](rules/actions/strike.md) dealt physical damage.

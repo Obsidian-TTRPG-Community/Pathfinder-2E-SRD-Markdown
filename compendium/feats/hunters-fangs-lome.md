@@ -7,7 +7,7 @@ tags:
 aliases: ["Hunter's Fangs"]
 ---
 # Hunter's Fangs  *Feat 5*  
-[anadi](rules/traits/anadi-lome.md)  
+[anadi](rules/traits/anadi-lome.md "Anadi Ancestry & Heritage Trait")  
 
 
 Your fangs are exceptionally painful. Whenever you score a critical hit with your fangs unarmed attack, you apply the unarmed attack's critical specialization effect.

@@ -8,7 +8,7 @@ tags:
 aliases: ["Deadly Traps"]
 ---
 # Deadly Traps
-[exploration](rules/traits/exploration.md)  
+[exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  
 *Source: Age of Ashes #5: Against the Scarlet Triad p. 28*  
 
 

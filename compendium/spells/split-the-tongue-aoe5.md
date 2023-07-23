@@ -9,7 +9,7 @@ tags:
 aliases: ["Split The Tongue"]
 ---
 # Split The Tongue *Focus 1*   
-[transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+[transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Domains**: [naga](compendium/setting/domains.md#Naga)
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 

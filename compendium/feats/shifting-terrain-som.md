@@ -7,7 +7,7 @@ tags:
 aliases: ["Shifting Terrain"]
 ---
 # Shifting Terrain  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Rough Terrain Stance](compendium/feats/rough-terrain-stance-som.md), master in [Nature](compendium/skills.md#Nature)
 - **Requirements**: Your terrain attunement matches the terrain you're in and you're in Rough Terrain Stance.

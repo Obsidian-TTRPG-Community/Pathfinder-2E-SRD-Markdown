@@ -10,9 +10,9 @@ tags:
 aliases: ["Blazing Dive"]
 ---
 # Blazing Dive *Spell 3*   
-[air](rules/traits/air.md)  [evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  
+[air](rules/traits/air.md "Air Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Saving Throw**  basic Reflex
 

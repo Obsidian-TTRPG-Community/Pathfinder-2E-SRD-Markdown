@@ -13,7 +13,7 @@ tags:
 aliases: ["Enveloping Light"]
 ---
 # Enveloping Light *Item 3+*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [positive](rules/traits/positive.md)  [tattoo](rules/traits/tattoo-lowg.md)  [uncommon](rules/traits/uncommon.md)  
+[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  [tattoo](rules/traits/tattoo-lowg.md "Tattoo Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Usage** tattoo
 - **Category** Tattoo

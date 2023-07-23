@@ -10,7 +10,7 @@ tags:
 aliases: ["Granny's Hedge Trimmer"]
 ---
 # Granny's Hedge Trimmer *Item 1*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Damage** `1d4` S
 - **Hands** 2

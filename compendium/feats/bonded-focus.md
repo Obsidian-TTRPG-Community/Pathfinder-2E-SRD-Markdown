@@ -7,7 +7,7 @@ tags:
 aliases: ["Bonded Focus"]
 ---
 # Bonded Focus  *Feat 14*  
-[wizard](rules/traits/wizard.md)  
+[wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Prerequisites**: arcane bond
 

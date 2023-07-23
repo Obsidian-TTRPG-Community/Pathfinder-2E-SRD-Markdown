@@ -10,7 +10,7 @@ tags:
 aliases: ["Cranial Detonation"]
 ---
 # Cranial Detonation  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 18*  
-[death](rules/traits/death.md)  [mindshift](rules/traits/mindshift-da.md)  [psyche](rules/traits/psyche-da.md)  [psychic](rules/traits/psychic-da.md)  
+[death](rules/traits/death.md "Death Effect Trait")  [mindshift](rules/traits/mindshift-da.md "Mindshift Action & Ability Trait")  [psyche](rules/traits/psyche-da.md "Psyche Action & Ability Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  
 
 - **Frequency**: once per round
 - **Trigger** You successfully reduce one or more non-mindless enemies to 0 Hit Points with a spell.

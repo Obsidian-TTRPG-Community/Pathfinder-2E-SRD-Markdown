@@ -11,7 +11,7 @@ tags:
 aliases: ["Dominion Aura"]
 ---
 # Dominion Aura  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 17*  
-[aura](rules/traits/aura.md)  [divine](rules/traits/divine.md)  [evocation](rules/traits/evocation.md)  [force](rules/traits/force.md)  [tiefling](rules/traits/tiefling-b1.md)  
+[aura](rules/traits/aura.md "Aura Combat Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  [tiefling](rules/traits/tiefling-b1.md "Tiefling Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Faultspawn](compendium/feats/faultspawn-loil.md)
 - **Frequency**: once per day

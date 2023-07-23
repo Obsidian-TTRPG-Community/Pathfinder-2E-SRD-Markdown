@@ -8,7 +8,7 @@ tags:
 aliases: ["Tumble Through"]
 ---
 # Tumble Through (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[move](rules/traits/move.md)  
+[move](rules/traits/move.md "Move Combat Trait")  
 *Source: Core Rulebook p. 240*  
 
 **Skill** [acrobatics](compendium/skills.md#Acrobatics) (untrained)

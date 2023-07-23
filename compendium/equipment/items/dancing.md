@@ -10,7 +10,7 @@ tags:
 aliases: ["Dancing"]
 ---
 # Dancing *Item 13*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 2700 gp
 - **Usage** etched onto a melee weapon

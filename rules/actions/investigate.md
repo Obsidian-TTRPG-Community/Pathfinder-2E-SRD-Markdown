@@ -9,7 +9,7 @@ tags:
 aliases: ["Investigate"]
 ---
 # Investigate (basic)
-[concentrate](rules/traits/concentrate.md)  [exploration](rules/traits/exploration.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  
 *Source: Core Rulebook p. 480*  
 
 

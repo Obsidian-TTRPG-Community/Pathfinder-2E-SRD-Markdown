@@ -7,7 +7,7 @@ tags:
 aliases: ["Sun's Fury"]
 ---
 # Sun's Fury  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Bright Lion Dedication](compendium/feats/bright-lion-dedication-lol.md)
 

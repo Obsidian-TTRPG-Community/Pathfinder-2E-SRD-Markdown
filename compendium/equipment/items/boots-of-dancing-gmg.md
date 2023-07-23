@@ -12,7 +12,7 @@ tags:
 aliases: ["Boots Of Dancing"]
 ---
 # Boots Of Dancing *Item 11*  
-[cursed](rules/traits/cursed-gmg.md)  [enchantment](rules/traits/enchantment.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** worn shoes; **Bulk** L
 - **Category** Worn

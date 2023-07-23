@@ -9,7 +9,7 @@ tags:
 aliases: ["Command an Animal"]
 ---
 # Command an Animal (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[auditory](rules/traits/auditory.md)  [concentrate](rules/traits/concentrate.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
 *Source: Core Rulebook p. 249*  
 
 **Skill** [nature](compendium/skills.md#Nature) (untrained)

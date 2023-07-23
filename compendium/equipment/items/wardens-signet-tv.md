@@ -11,7 +11,7 @@ tags:
 aliases: ["Warden's Signet"]
 ---
 # Warden's Signet *Item 11*  
-[abjuration](rules/traits/abjuration.md)  [focused](rules/traits/focused.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [focused](rules/traits/focused.md "Focused Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 1250 gp
 - **Usage** worn; **Bulk** —

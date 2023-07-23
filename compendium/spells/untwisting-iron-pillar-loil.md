@@ -10,7 +10,7 @@ tags:
 aliases: ["Untwisting Iron Pillar"]
 ---
 # Untwisting Iron Pillar *Focus 9*   
-[abjuration](rules/traits/abjuration.md)  [earth](rules/traits/earth.md)  [uncommon](rules/traits/uncommon.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Duration**5 rounds

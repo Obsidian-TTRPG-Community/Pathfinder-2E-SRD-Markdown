@@ -8,7 +8,7 @@ tags:
 aliases: ["Orichalcum Shield"]
 ---
 # Orichalcum Shield *Item 17+*  
-[rare](rules/traits/rare.md)  
+[rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** varies by shield
 - **Category** Shield; **Group** Shield 

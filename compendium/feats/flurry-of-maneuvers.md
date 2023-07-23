@@ -7,7 +7,7 @@ tags:
 aliases: ["Flurry Of Maneuvers"]
 ---
 # Flurry Of Maneuvers  *Feat 4*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Prerequisites**: expert in [Athletics](compendium/skills.md#Athletics)
 

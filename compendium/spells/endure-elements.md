@@ -8,9 +8,9 @@ tags:
 aliases: ["Endure Elements"]
 ---
 # Endure Elements *Spell 2*   
-[abjuration](rules/traits/abjuration.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [divine](rules/traits/divine.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** 10 minutes 
 - **Range**touch
 - **Targets**1 willing creature

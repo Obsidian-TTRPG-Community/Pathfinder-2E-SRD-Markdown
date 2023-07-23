@@ -12,7 +12,7 @@ tags:
 aliases: ["Empathic Cords"]
 ---
 # Empathic Cords *Item 8*  
-[divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  [rare](rules/traits/rare.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 450 gp
 - **Usage** worn

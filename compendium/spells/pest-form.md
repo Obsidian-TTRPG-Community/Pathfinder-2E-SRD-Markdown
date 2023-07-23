@@ -9,13 +9,13 @@ tags:
 aliases: ["Pest Form"]
 ---
 # Pest Form *Spell 1*   
-[polymorph](rules/traits/polymorph.md)  [transmutation](rules/traits/transmutation.md)  
+[polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Duration**10 minutes
 
-You transform into a the battle form of a Tiny animal, such as a cat, insect, lizard, or rat. You can decide the specific type of animal (such as a rat or praying mantis), but this has no effect on the form's Size or statistics. While in this form, you gain the [animal](rules/traits/animal.md) trait, and you can't make [Strikes](rules/actions/strike.md). You can [Dismiss](rules/actions/dismiss.md) the spell.
+You transform into a the battle form of a Tiny animal, such as a cat, insect, lizard, or rat. You can decide the specific type of animal (such as a rat or praying mantis), but this has no effect on the form's Size or statistics. While in this form, you gain the [animal](rules/traits/animal.md "Animal Creature Type Trait") trait, and you can't make [Strikes](rules/actions/strike.md). You can [Dismiss](rules/actions/dismiss.md) the spell.
 
 You gain the following statistics and abilities:
 

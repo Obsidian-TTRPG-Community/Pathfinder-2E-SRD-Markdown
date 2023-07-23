@@ -7,7 +7,7 @@ tags:
 aliases: ["Theoretical Acumen"]
 ---
 # Theoretical Acumen  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 1*  
-[gnome](rules/traits/gnome.md)  
+[gnome](rules/traits/gnome.md "Gnome Ancestry & Heritage Trait")  
 
 - **Frequency**: once per day
 - **Trigger** You succeed at a skill check to [Recall Knowledge](rules/actions/recall-knowledge.md) to identify a creature.

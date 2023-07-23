@@ -9,7 +9,7 @@ tags:
 aliases: ["Composite Shortbow"]
 ---
 # Composite Shortbow *Item 0*  
-[deadly <d10>](rules/traits/deadly.md)  [propulsive](rules/traits/propulsive.md)  
+[deadly <d10>](rules/traits/deadly-d10.md "Deadly Weapon Trait")  [propulsive](rules/traits/propulsive.md "Propulsive Weapon Trait")  
 
 - **Price** 14 gp
 - **Bulk** 1

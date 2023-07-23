@@ -9,7 +9,7 @@ tags:
 aliases: ["Snake Oil"]
 ---
 # Snake Oil *Item 1*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  
 
 - **Price** 2 gp
 - **Usage** held in 2 hands; **Bulk** L

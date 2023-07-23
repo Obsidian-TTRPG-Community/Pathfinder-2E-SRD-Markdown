@@ -7,7 +7,7 @@ tags:
 aliases: ["Strangle"]
 ---
 # Strangle  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Wrestler Dedication](compendium/feats/wrestler-dedication-lotgb.md)
 - **Requirements**: You have a creature [grabbed](rules/conditions.md#Grabbed) or [restrained](rules/conditions.md#Restrained).

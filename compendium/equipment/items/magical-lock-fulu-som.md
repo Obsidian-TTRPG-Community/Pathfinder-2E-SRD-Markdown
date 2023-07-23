@@ -11,7 +11,7 @@ tags:
 aliases: ["Magical Lock Fulu"]
 ---
 # Magical Lock Fulu *Item 4*  
-[consumable](rules/traits/consumable.md)  [fulu](rules/traits/fulu-som.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [fulu](rules/traits/fulu-som.md "Fulu Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 15 gp
 - **Usage** affixed to a door, window, or container

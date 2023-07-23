@@ -7,7 +7,7 @@ tags:
 aliases: ["Sneak Savant"]
 ---
 # Sneak Savant  *Feat 10*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Prerequisites**: master in [Stealth](compendium/skills.md#Stealth)
 

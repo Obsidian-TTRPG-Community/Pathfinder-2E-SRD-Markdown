@@ -10,7 +10,7 @@ tags:
 aliases: ["Handwraps of Mighty Blows"]
 ---
 # Handwraps of Mighty Blows *Item 2+*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Usage** worn gloves; **Bulk** —
 - **Category** Worn

@@ -7,11 +7,11 @@ tags:
 aliases: ["Vicious Venom"]
 ---
 # Vicious Venom  *Feat 17*  
-[vishkanya](rules/traits/vishkanya-loil.md)  
+[vishkanya](rules/traits/vishkanya-loil.md "Vishkanya Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Envenom](rules/actions/envenom-loil.md)
 
-The venom you produce is exceptionally potent and difficult to overcome. Your vishkanyan venom gains the [virulent](rules/traits/virulent.md) trait, requiring two consecutive saves to reduce the venom's stage by 1. A critical success reduces your venom's stage by only 1 instead of by 2.
+The venom you produce is exceptionally potent and difficult to overcome. Your vishkanyan venom gains the [virulent](rules/traits/virulent.md "Virulent Item Trait") trait, requiring two consecutive saves to reduce the venom's stage by 1. A critical success reduces your venom's stage by only 1 instead of by 2.
 
 *Source: Lost Omens: Impossible Lands p. 63*  
 %% #compendium/src/pf2e/loil #trait/vishkanya %%

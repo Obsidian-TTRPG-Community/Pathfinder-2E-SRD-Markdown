@@ -8,7 +8,7 @@ tags:
 aliases: ["Wave Spiral"]
 ---
 # Wave Spiral  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 12*  
-[monk](rules/traits/monk.md)  [water](rules/traits/water.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
 - **Prerequisites**: [Reflective Ripple Stance](compendium/feats/reflective-ripple-stance-som.md)
 - **Frequency**: once per minute

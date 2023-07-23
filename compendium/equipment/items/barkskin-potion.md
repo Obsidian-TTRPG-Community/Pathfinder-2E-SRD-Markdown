@@ -11,7 +11,7 @@ tags:
 aliases: ["Barkskin Potion"]
 ---
 # Barkskin Potion *Item 4*  
-[abjuration](rules/traits/abjuration.md)  [consumable](rules/traits/consumable.md)  [potion](rules/traits/potion.md)  [primal](rules/traits/primal.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [potion](rules/traits/potion.md "Potion Item Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  
 
 - **Price** 15 gp
 - **Usage** held in 1 hand; **Bulk** L

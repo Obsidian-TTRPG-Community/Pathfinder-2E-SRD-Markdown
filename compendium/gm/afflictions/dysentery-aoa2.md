@@ -10,7 +10,7 @@ aliases: ["Dysentery"]
 ---
 # Dysentery
 *Disease 4*  
-[disease](rules/traits/disease.md)  
+[disease](rules/traits/disease.md "Disease Effect Trait")  
 
 The victim suffers from violent nausea and gradual dehydration, and can't recover from the sickened condition from dysentery until the disease is cured.
 

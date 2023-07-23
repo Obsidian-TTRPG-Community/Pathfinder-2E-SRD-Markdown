@@ -9,7 +9,7 @@ tags:
 aliases: ["Quaking Stomp"]
 ---
 # Quaking Stomp  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 20*  
-[barbarian](rules/traits/barbarian.md)  [manipulate](rules/traits/manipulate.md)  [rage](rules/traits/rage.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [rage](rules/traits/rage.md "Rage Combat Trait")  
 
 - **Frequency**: once per 10 minutes
 - **Activity** Single Action

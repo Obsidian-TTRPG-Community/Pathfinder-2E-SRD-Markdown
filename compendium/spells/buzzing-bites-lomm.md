@@ -12,7 +12,7 @@ tags:
 aliases: ["Buzzing Bites"]
 ---
 # Buzzing Bites *Cantrip 1*   
-[cantrip](rules/traits/cantrip.md)  [evocation](rules/traits/evocation.md)  [hex](rules/traits/hex-apg.md)  [rare](rules/traits/rare.md)  [witch](rules/traits/witch-apg.md)  
+[cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [hex](rules/traits/hex-apg.md "Hex Combat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [witch](rules/traits/witch-apg.md "Witch Class Trait")  
 
 - **Patron** Witch
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 

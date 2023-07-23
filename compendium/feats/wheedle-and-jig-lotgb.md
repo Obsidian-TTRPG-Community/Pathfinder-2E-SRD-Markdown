@@ -7,7 +7,7 @@ tags:
 aliases: ["Wheedle And Jig"]
 ---
 # Wheedle And Jig  *Feat 9*  
-[poppet](rules/traits/poppet-lotgb.md)  
+[poppet](rules/traits/poppet-lotgb.md "Poppet Ancestry & Heritage Trait")  
 
 
 You make capering motions and silly sounds to captivate onlookers. You can cast [enthrall](compendium/spells/enthrall.md) as a 3rd-level arcane innate spell once per day.

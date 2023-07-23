@@ -7,7 +7,7 @@ tags:
 aliases: ["Aquatic Eyes"]
 ---
 # Aquatic Eyes  *Feat 1*  
-[undine](rules/traits/undine-b2.md)  
+[undine](rules/traits/undine-b2.md "Undine Ancestry & Heritage Trait")  
 
 
 As your connection to water grows, you can see more easily in places with less light, such as the depths of the ocean. You gain [low-light vision](rules/abilities/low-light-vision.md), or you gain [darkvision](rules/abilities/darkvision.md) if your ancestry already has [low-light vision](rules/abilities/low-light-vision.md).

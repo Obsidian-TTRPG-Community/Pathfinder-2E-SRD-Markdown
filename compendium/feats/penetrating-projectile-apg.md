@@ -9,7 +9,7 @@ tags:
 aliases: ["Penetrating Projectile"]
 ---
 # Penetrating Projectile  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 16*  
-[barbarian](rules/traits/barbarian.md)  [flourish](rules/traits/flourish.md)  [rage](rules/traits/rage.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  [rage](rules/traits/rage.md "Rage Combat Trait")  
 
 - **Requirements**: You are wielding a ranged or thrown weapon that deals piercing damage.
 - **Activity** Two-Action

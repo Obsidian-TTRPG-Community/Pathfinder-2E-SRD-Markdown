@@ -7,7 +7,7 @@ tags:
 aliases: ["Wildborn Adept"]
 ---
 # Wildborn Adept  *Feat 5*  
-[elf](rules/traits/elf.md)  
+[elf](rules/traits/elf.md "Elf Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Wildborn Magic](compendium/feats/wildborn-magic-locg.md)
 

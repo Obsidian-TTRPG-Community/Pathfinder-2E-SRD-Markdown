@@ -12,7 +12,7 @@ tags:
 aliases: ["Spell-eating Pitch"]
 ---
 # Spell-eating Pitch *Item 12*  
-[consumable](rules/traits/consumable.md)  [divine](rules/traits/divine.md)  [injury](rules/traits/injury.md)  [poison](rules/traits/poison.md)  [uncommon](rules/traits/uncommon.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [injury](rules/traits/injury.md "Injury Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 325 gp
 - **Usage** held in 2 hands; **Bulk** L

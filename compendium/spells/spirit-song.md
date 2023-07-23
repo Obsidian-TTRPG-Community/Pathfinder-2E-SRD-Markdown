@@ -10,9 +10,9 @@ tags:
 aliases: ["Spirit Song"]
 ---
 # Spirit Song *Spell 8*   
-[force](rules/traits/force.md)  [necromancy](rules/traits/necromancy.md)  
+[force](rules/traits/force.md "Force Energy & Element Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
-- **Traditions**: [occult](rules/traits/occult.md)
+- **Traditions**: [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**60-foot cone
 - **Saving Throw**  basic Fortitude

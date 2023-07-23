@@ -9,9 +9,9 @@ tags:
 aliases: ["Wall Of Fire"]
 ---
 # Wall Of Fire *Spell 4*   
-[evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**120 foot
 - **Duration**1 minute

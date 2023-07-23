@@ -7,7 +7,7 @@ tags:
 aliases: ["Devoted Focus"]
 ---
 # Devoted Focus  *Feat 10*  
-[champion](rules/traits/champion.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  
 
 - **Prerequisites**: devotion spells
 

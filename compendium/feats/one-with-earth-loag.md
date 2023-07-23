@@ -7,7 +7,7 @@ tags:
 aliases: ["One With Earth"]
 ---
 # One With Earth  *Feat 13*  
-[oread](rules/traits/oread-b2.md)  
+[oread](rules/traits/oread-b2.md "Oread Ancestry & Heritage Trait")  
 
 
 You've learned to harness your connection to the earth to travel through it. You gain a burrow Speed of 15 feet.

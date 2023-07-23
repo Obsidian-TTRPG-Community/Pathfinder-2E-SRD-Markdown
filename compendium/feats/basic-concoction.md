@@ -7,7 +7,7 @@ tags:
 aliases: ["Basic Concoction"]
 ---
 # Basic Concoction  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Alchemist Dedication](compendium/feats/alchemist-dedication.md)
 

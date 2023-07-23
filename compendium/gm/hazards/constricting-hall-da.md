@@ -9,7 +9,7 @@ tags:
 aliases: ["Constricting Hall"]
 ---
 # Constricting Hall *Hazard 8*  
-[complex](rules/traits/complex.md)  [magical](rules/traits/magical.md)  [trap](rules/traits/trap.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** DC 31  
@@ -20,7 +20,7 @@ A hall's four walls become fluid and elastic when a creature reaches the hall's 
      
 ```ad-embed-ability
 title: Lose Form [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[occult](rules/traits/occult.md)  [transmutation](rules/traits/transmutation.md)  
+[occult](rules/traits/occult.md "Occult Tradition Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Trigger**: A creature reaches the hall's midpoint
 

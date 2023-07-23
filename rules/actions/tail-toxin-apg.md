@@ -9,7 +9,7 @@ tags:
 aliases: ["Tail Toxin"]
 ---
 # Tail Toxin [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[kobold](rules/traits/kobold-b1.md)  [poison](rules/traits/poison.md)  
+[kobold](rules/traits/kobold-b1.md "Kobold Ancestry & Heritage Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 *Source: Advanced Player's Guide p. 14*  
 
 **Ancestry** Kobold; **Heritage** Kobold|APG|Venomtail|Venomtail|APG|

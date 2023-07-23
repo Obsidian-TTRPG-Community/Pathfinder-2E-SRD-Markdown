@@ -8,9 +8,9 @@ tags:
 aliases: ["Animate Rope"]
 ---
 # Animate Rope *Spell 1*   
-[transmutation](rules/traits/transmutation.md)  
+[transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**100 foot
 - **Targets**up to 50 feet of rope or a nonliving rope-like object
@@ -18,7 +18,7 @@ aliases: ["Animate Rope"]
 
 You cause a length or section of rope or a rope-like object to animate and follow simple commands. You can give it two commands when you [Cast the Spell](rules/actions/cast-a-spell.md), and one command each time you [Sustain the Spell](rules/actions/sustain-a-spell.md).
 
-- **Bind** ([attack](rules/traits/attack.md)) The rope attempts to partially bind a creature. Attempt a spell attack roll against the target's Reflex DC. If you succeed, the target takes a –10-foot circumstance penalty to its Speed (–20-foot on a critical success). This ends if the target [Escapes](rules/actions/escape.md) against your spell DC or breaks the rope. (A standard adventuring rope has Hardness 2, HP 8, and a [Broken](rules/conditions.md#Broken) Threshold of 4.)
+- **Bind** ([attack](rules/traits/attack.md "Attack Combat Trait")) The rope attempts to partially bind a creature. Attempt a spell attack roll against the target's Reflex DC. If you succeed, the target takes a –10-foot circumstance penalty to its Speed (–20-foot on a critical success). This ends if the target [Escapes](rules/actions/escape.md) against your spell DC or breaks the rope. (A standard adventuring rope has Hardness 2, HP 8, and a [Broken](rules/conditions.md#Broken) Threshold of 4.)
 - **Coil** The rope forms a tidy, coiled stack.
 - **Crawl** The rope inches along the ground like a snake, moving one of its ends 10 feet. The rope must move along a surface, but that surface doesn't need to be horizontal.
 - **Knot** The rope ties a sturdy knot in itself.

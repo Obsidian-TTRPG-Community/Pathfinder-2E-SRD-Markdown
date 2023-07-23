@@ -10,7 +10,7 @@ tags:
 aliases: ["Identify Alchemy"]
 ---
 # Identify Alchemy (basic) [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Duration or Frequency")
-[concentrate](rules/traits/concentrate.md)  [exploration](rules/traits/exploration.md)  [secret](rules/traits/secret.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [secret](rules/traits/secret.md "Secret General Trait")  
 *Source: Core Rulebook p. 245*  
 
 **Skill** [crafting](compendium/skills.md#Crafting) (trained)

@@ -10,7 +10,7 @@ tags:
 aliases: ["Kraken's Guard"]
 ---
 # Kraken's Guard *Item 19*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 40000 gp
 - **Usage** held in one hand; **Bulk** 1

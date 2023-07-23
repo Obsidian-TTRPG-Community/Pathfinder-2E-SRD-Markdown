@@ -7,7 +7,7 @@ tags:
 aliases: ["Ranged Reprisal"]
 ---
 # Ranged Reprisal  *Feat 1*  
-[champion](rules/traits/champion.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  
 
 - **Prerequisites**: Paladin cause
 

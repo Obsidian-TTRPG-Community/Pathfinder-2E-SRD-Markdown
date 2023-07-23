@@ -7,7 +7,7 @@ tags:
 aliases: ["Secure Disguises"]
 ---
 # Secure Disguises
-[downtime](rules/traits/downtime.md)  
+[downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  
 *Source: Gamemastery Guide p. 163*  
 
 **Variant Rule** Infiltration

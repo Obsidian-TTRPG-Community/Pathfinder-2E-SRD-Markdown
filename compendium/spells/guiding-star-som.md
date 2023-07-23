@@ -10,9 +10,9 @@ tags:
 aliases: ["Guiding Star"]
 ---
 # Guiding Star *Spell 2*   
-[detection](rules/traits/detection.md)  [divination](rules/traits/divination.md)  [mental](rules/traits/mental.md)  
+[detection](rules/traits/detection.md "Detection Effect Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md), [primal](rules/traits/primal.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**planetary
 - **Targets**1 creature you've met

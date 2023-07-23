@@ -8,7 +8,7 @@ tags:
 aliases: ["Writ Of Authenticity"]
 ---
 # Writ Of Authenticity *Item 2*  
-[uncommon](rules/traits/uncommon.md)  
+[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 5 gp
 - **Usage** held in 1 hand

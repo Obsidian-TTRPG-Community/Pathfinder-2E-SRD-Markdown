@@ -7,7 +7,7 @@ tags:
 aliases: ["Ten Lives"]
 ---
 # Ten Lives  *Feat 17*  
-[catfolk](rules/traits/catfolk-b1.md)  
+[catfolk](rules/traits/catfolk-b1.md "Catfolk Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Evade Doom](compendium/feats/evade-doom-loag.md)
 

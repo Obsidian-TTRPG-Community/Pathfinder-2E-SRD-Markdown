@@ -7,7 +7,7 @@ tags:
 aliases: ["Effortless Concentration"]
 ---
 # Effortless Concentration  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 16*  
-[witch](rules/traits/witch-apg.md)  
+[witch](rules/traits/witch-apg.md "Witch Class Trait")  
 
 - **Trigger** Your turn begins.
 - **Activity** Free Action

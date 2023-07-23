@@ -7,7 +7,7 @@ tags:
 aliases: ["Twin Distraction"]
 ---
 # Twin Distraction  *Feat 4*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Prerequisites**: [Twin Feint](compendium/feats/twin-feint.md)
 - **Requirements**: You are wielding two melee weapons, each in a different hand.

@@ -11,7 +11,7 @@ tags:
 aliases: ["Disintegration Bolt"]
 ---
 # Disintegration Bolt *Item 15*  
-[consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1300 gp
 - **Ammunition** [bolt](compendium/equipment/items/bolt.md)

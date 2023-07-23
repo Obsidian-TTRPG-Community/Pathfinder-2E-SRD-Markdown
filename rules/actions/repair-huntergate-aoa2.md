@@ -9,7 +9,7 @@ tags:
 aliases: ["Repair Huntergate"]
 ---
 # Repair Huntergate
-[exploration](rules/traits/exploration.md)  [manipulate](rules/traits/manipulate.md)  
+[exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 *Source: Age of Ashes #2: Cult of Cinders p. 7*  
 
 - **Prerequisites**: trained in [Crafting](compendium/skills.md#Crafting) or [Thievery](compendium/skills.md#Thievery)

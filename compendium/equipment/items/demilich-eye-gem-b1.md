@@ -9,7 +9,7 @@ tags:
 aliases: ["Demilich Eye Gem"]
 ---
 # Demilich Eye Gem *Item 15*  
-[arcane](rules/traits/arcane.md)  [rare](rules/traits/rare.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 3000 gp
 - **Usage** held in 1 hand; **Bulk** —

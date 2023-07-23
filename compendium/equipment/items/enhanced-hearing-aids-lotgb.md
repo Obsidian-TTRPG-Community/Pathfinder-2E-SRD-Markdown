@@ -9,7 +9,7 @@ tags:
 aliases: ["Enhanced Hearing Aids"]
 ---
 # Enhanced Hearing Aids *Item 3*  
-[divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 50 gp
 - **Usage** worn; **Bulk** L

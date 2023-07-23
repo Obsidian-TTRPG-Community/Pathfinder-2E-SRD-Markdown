@@ -8,7 +8,7 @@ tags:
 aliases: ["Lonely Machine Spirit"]
 ---
 # Lonely Machine Spirit *Hazard 3*  
-[complex](rules/traits/complex.md)  [haunt](rules/traits/haunt.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +13 trained  
@@ -25,7 +25,7 @@ Ghostly smoke rising from an alchemical engine belches forth; the screeching sou
      
 ```ad-embed-ability
 title: Painful Whistle [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[sonic](rules/traits/sonic.md)  
+[sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  
 
 - **Trigger**: A living creature approaches within 10 feet of the engine (marked with a "T" on the map)
 

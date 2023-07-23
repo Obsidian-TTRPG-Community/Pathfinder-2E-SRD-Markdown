@@ -11,7 +11,7 @@ tags:
 aliases: ["Wildwood Ink"]
 ---
 # Wildwood Ink *Item 4+*  
-[invested](rules/traits/invested.md)  [primal](rules/traits/primal.md)  [tattoo](rules/traits/tattoo-lowg.md)  [transmutation](rules/traits/transmutation.md)  
+[invested](rules/traits/invested.md "Invested Item Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [tattoo](rules/traits/tattoo-lowg.md "Tattoo Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Usage** tattooed on the body; **Bulk** —
 - **Category** Tattoo

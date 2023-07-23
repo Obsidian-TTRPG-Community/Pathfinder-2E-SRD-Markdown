@@ -11,7 +11,7 @@ tags:
 aliases: ["Whisperer of Souls"]
 ---
 # Whisperer of Souls *Item 28*  
-[artifact](rules/traits/artifact-gmg.md)  [divine](rules/traits/divine.md)  [necromancy](rules/traits/necromancy.md)  [unique](rules/traits/unique.md)  
+[artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Usage** held in 2 hands; **Bulk** 2
 - **Category** Artifact

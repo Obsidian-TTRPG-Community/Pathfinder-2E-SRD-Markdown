@@ -8,7 +8,7 @@ tags:
 aliases: ["Smoke Bomb"]
 ---
 # Smoke Bomb  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 2*  
-[additive <1>](rules/traits/additive.md)  [alchemist](rules/traits/alchemist.md)  
+[additive <1>](rules/traits/additive-1.md "Additive Feat Trait")  [alchemist](rules/traits/alchemist.md "Alchemist Class Trait")  
 
 - **Frequency**: once per round
 - **Trigger** You use [Quick Alchemy](rules/actions/quick-alchemy.md) to craft an alchemical bomb with a level at least 1 lower than your advanced alchemy level.

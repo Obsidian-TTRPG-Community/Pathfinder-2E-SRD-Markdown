@@ -8,7 +8,7 @@ tags:
 aliases: ["Defend"]
 ---
 # Defend (basic)
-[exploration](rules/traits/exploration.md)  
+[exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  
 *Source: Core Rulebook p. 479*  
 
 

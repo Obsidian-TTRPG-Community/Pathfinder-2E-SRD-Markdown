@@ -7,7 +7,7 @@ tags:
 aliases: ["Agonizing Rebuke"]
 ---
 # Agonizing Rebuke  *Feat 5*  
-[hobgoblin](rules/traits/hobgoblin-locg.md)  
+[hobgoblin](rules/traits/hobgoblin-locg.md "Hobgoblin Ancestry & Heritage Trait")  
 
 
 When you terrorize your enemies, you also cause them painful mental distress.

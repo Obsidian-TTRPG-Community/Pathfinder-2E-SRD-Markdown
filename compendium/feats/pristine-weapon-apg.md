@@ -7,7 +7,7 @@ tags:
 aliases: ["Pristine Weapon"]
 ---
 # Pristine Weapon  *Feat 10*  
-[druid](rules/traits/druid.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  
 
 - **Prerequisites**: [Verdant Weapon](compendium/feats/verdant-weapon-apg.md)
 

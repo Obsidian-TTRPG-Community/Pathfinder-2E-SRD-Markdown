@@ -11,7 +11,7 @@ tags:
 aliases: ["Shrink Down"]
 ---
 # Shrink Down  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[concentrate](rules/traits/concentrate.md)  [eidolon](rules/traits/eidolon-som.md)  [evolution](rules/traits/evolution-som.md)  [summoner](rules/traits/summoner-som.md)  [transmutation](rules/traits/transmutation.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [eidolon](rules/traits/eidolon-som.md "Eidolon Creature Type Trait")  [evolution](rules/traits/evolution-som.md "Evolution Feat Trait")  [summoner](rules/traits/summoner-som.md "Summoner Class Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Activity** Single Action
 

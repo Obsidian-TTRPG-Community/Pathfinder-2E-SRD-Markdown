@@ -9,9 +9,9 @@ tags:
 aliases: ["Spell Turning"]
 ---
 # Spell Turning *Spell 7*   
-[abjuration](rules/traits/abjuration.md)  [uncommon](rules/traits/uncommon.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Duration**1 hour
 

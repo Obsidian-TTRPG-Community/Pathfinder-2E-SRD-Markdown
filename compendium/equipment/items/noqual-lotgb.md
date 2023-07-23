@@ -9,7 +9,7 @@ tags:
 aliases: ["Noqual"]
 ---
 # Noqual *Item 0+*  
-[precious](rules/traits/precious.md)  [rare](rules/traits/rare.md)  
+[precious](rules/traits/precious.md "Precious Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Category** Material
 
@@ -18,14 +18,14 @@ Light and strong, noqual also demonstrates a powerful resistance to magic. A sid
 | Noqual Items | Hardness | HP | BT |
 |--------------|----------|----|----|
 | **Thin Items** |  |  |  |
-| Standard-grade | 6 | 24 | 12 |
-| High-grade | 10 | 40 | 20 |
+| multiRow |  |
+| multiRow |  |
 | **Items** |  |  |  |
-| Standard-grade | 10 | 40 | 20 |
-| High-grade | 13 | 52 | 26 |
+| multiRow |  |
+| multiRow |  |
 | **Structures** |  |  |  |
-| Standard-grade | 20 | 80 | 40 |
-| High-grade | 26 | 104 | 52 |
+| multiRow |  |
+| multiRow |  |
 
 
 *Source: Lost Omens: The Grand Bazaar p. 99*

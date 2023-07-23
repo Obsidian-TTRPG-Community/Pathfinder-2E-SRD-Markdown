@@ -7,7 +7,7 @@ tags:
 aliases: ["Underworld Investigator"]
 ---
 # Underworld Investigator  *Feat 1*  
-[investigator](rules/traits/investigator-apg.md)  
+[investigator](rules/traits/investigator-apg.md "Investigator Class Trait")  
 
 
 Your work as an investigator makes you familiar with the criminal element. You might be a criminal yourself, or you might have gained an understanding of how they operate from the outside. You become trained in [Underworld Lore](compendium/skills.md#Lore), and you gain your [Pursue a Lead](rules/actions/pursue-a-lead-apg.md) circumstance bonus to [Thievery](compendium/skills.md#Thievery) checks to investigate the subject of your lead (such as checks to [Steal](rules/actions/steal.md) a clue from a suspect or [Pick a Lock](rules/actions/pick-a-lock.md) to open a safe with damning documents).

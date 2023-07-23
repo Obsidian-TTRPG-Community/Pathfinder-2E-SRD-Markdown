@@ -11,7 +11,7 @@ tags:
 aliases: ["Katana"]
 ---
 # Katana *Item 0*  
-[deadly <d8>](rules/traits/deadly.md)  [two-hand <d10>](rules/traits/two-hand.md)  [uncommon](rules/traits/uncommon.md)  [versatile <p>](rules/traits/versatile.md)  
+[deadly <d8>](rules/traits/deadly-d8.md "Deadly Weapon Trait")  [two-hand <d10>](rules/traits/two-hand-d10.md "Two-Hand Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [versatile <p>](rules/traits/versatile-p.md "Versatile Weapon Trait")  
 
 - **Price** 2 gp
 - **Bulk** 1

@@ -8,7 +8,7 @@ tags:
 aliases: ["Knockback Strike"]
 ---
 # Knockback Strike  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 10*  
-[concentrate](rules/traits/concentrate.md)  [monk](rules/traits/monk.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Activity** Two-Action
 

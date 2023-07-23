@@ -7,7 +7,7 @@ tags:
 aliases: ["Darkseer"]
 ---
 # Darkseer  *Feat 5*  
-[human](rules/traits/human.md)  
+[human](rules/traits/human.md "Human Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Gloomseer](compendium/feats/gloomseer-locg.md)
 

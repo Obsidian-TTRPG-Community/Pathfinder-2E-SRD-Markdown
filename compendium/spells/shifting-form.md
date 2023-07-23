@@ -11,7 +11,7 @@ tags:
 aliases: ["Shifting Form"]
 ---
 # Shifting Form *Focus 4*   
-[morph](rules/traits/morph.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  [wizard](rules/traits/wizard.md)  
+[morph](rules/traits/morph.md "Morph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Duration**1 minute

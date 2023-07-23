@@ -7,7 +7,7 @@ tags:
 aliases: ["Scamper Underfoot"]
 ---
 # Scamper Underfoot  *Feat 1*  
-[shoony](rules/traits/shoony-ec3.md)  
+[shoony](rules/traits/shoony-ec3.md "Shoony Ancestry & Heritage Trait")  
 
 
 You are used to ducking under foes and can scurry around the battlefield with ease. You gain a +1 circumstance bonus to [Acrobatics](compendium/skills.md#Acrobatics) checks to [Tumble Through](rules/actions/tumble-through.md) the spaces of Medium or larger enemies, and the presence of an enemy doesn't make the squares difficult terrain.

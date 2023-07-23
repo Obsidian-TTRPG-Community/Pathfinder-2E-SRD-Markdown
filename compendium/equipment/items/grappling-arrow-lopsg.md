@@ -8,7 +8,7 @@ tags:
 aliases: ["Grappling Arrow"]
 ---
 # Grappling Arrow *Item 0*  
-[uncommon](rules/traits/uncommon.md)  
+[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 2 sp
 - **Ammunition** [arrow](compendium/equipment/items/arrow.md)

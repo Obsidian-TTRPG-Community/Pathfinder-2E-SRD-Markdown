@@ -11,7 +11,7 @@ tags:
 aliases: ["Boost Eidolon"]
 ---
 # Boost Eidolon *Cantrip 1*   
-[cantrip](rules/traits/cantrip.md)  [evocation](rules/traits/evocation.md)  [summoner](rules/traits/summoner-som.md)  [uncommon](rules/traits/uncommon.md)  
+[cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [summoner](rules/traits/summoner-som.md "Summoner Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**100 foot

@@ -10,7 +10,7 @@ tags:
 aliases: ["Arcane Cascade"]
 ---
 # Arcane Cascade [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[concentrate](rules/traits/concentrate.md)  [magus](rules/traits/magus-som.md)  [stance](rules/traits/stance.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [magus](rules/traits/magus-som.md "Magus Class Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
 *Source: Secrets of Magic p. 38*  
 
 **Class** magus

@@ -7,7 +7,7 @@ tags:
 aliases: ["Hands Of The Forgotten"]
 ---
 # Hands Of The Forgotten *Hazard 8*  
-[haunt](rules/traits/haunt.md)  
+[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 28 trained  
@@ -18,7 +18,7 @@ Ethereal hands stretch out from the walls and floor, attempting to restrain near
      
 ```ad-embed-ability
 title: Waylay [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[force](rules/traits/force.md)  [negative](rules/traits/negative.md)  [occult](rules/traits/occult.md)  
+[force](rules/traits/force.md "Force Energy & Element Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 - **Trigger**: A creature moves into the area marked on the map
 

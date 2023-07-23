@@ -11,7 +11,7 @@ tags:
 aliases: ["Unfolding Wind Crash"]
 ---
 # Unfolding Wind Crash *Focus 9*   
-[air](rules/traits/air.md)  [evocation](rules/traits/evocation.md)  [move](rules/traits/move.md)  [uncommon](rules/traits/uncommon.md)  
+[air](rules/traits/air.md "Air Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [move](rules/traits/move.md "Move Combat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Saving Throw**  basic Reflex

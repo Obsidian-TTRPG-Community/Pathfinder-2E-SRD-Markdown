@@ -8,7 +8,7 @@ tags:
 aliases: ["Ratfolk Roll"]
 ---
 # Ratfolk Roll  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 5*  
-[move](rules/traits/move.md)  [ratfolk](rules/traits/ratfolk-b1.md)  
+[move](rules/traits/move.md "Move Combat Trait")  [ratfolk](rules/traits/ratfolk-b1.md "Ratfolk Ancestry & Heritage Trait")  
 
 - **Activity** Two-Action
 

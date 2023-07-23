@@ -7,7 +7,7 @@ tags:
 aliases: ["Shadow Spells"]
 ---
 # Shadow Spells  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Shadowcaster Dedication](compendium/feats/shadowcaster-dedication-som.md)
 

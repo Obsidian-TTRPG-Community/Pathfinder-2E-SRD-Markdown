@@ -9,9 +9,9 @@ tags:
 aliases: ["Bracing Tendrils"]
 ---
 # Bracing Tendrils *Spell 3*   
-[evocation](rules/traits/evocation.md)  [force](rules/traits/force.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Duration**1 minute
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Fearsome Fangs"]
 ---
 # Fearsome Fangs  *Feat 16*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: Ursine Avenger Form
 

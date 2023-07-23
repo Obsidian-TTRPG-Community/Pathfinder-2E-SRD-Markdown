@@ -12,7 +12,7 @@ tags:
 aliases: ["Knockout Dram"]
 ---
 # Knockout Dram *Item 7*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [ingested](rules/traits/ingested.md)  [poison](rules/traits/poison.md)  [uncommon](rules/traits/uncommon.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [ingested](rules/traits/ingested.md "Ingested Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 70 gp
 - **Usage** held in 1 hand; **Bulk** L

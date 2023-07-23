@@ -7,7 +7,7 @@ tags:
 aliases: ["Vile Desecration"]
 ---
 # Vile Desecration  *Feat 1*  
-[cleric](rules/traits/cleric.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  
 
 - **Prerequisites**: evil alignment
 

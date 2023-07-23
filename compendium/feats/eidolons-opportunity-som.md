@@ -9,7 +9,7 @@ tags:
 aliases: ["Eidolon's Opportunity"]
 ---
 # Eidolon's Opportunity  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
-[eidolon](rules/traits/eidolon-som.md)  [evolution](rules/traits/evolution-som.md)  [summoner](rules/traits/summoner-som.md)  
+[eidolon](rules/traits/eidolon-som.md "Eidolon Creature Type Trait")  [evolution](rules/traits/evolution-som.md "Evolution Feat Trait")  [summoner](rules/traits/summoner-som.md "Summoner Class Trait")  
 
 - **Trigger** A creature within your eidolon's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.
 - **Activity** Reaction

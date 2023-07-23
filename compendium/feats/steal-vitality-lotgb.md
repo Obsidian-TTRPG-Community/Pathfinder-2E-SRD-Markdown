@@ -7,7 +7,7 @@ tags:
 aliases: ["Steal Vitality"]
 ---
 # Steal Vitality  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [vampiric touch](compendium/spells/vampiric-touch.md)
 

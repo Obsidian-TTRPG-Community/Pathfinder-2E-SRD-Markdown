@@ -10,7 +10,7 @@ tags:
 aliases: ["Halfling Sling Staff"]
 ---
 # Halfling Sling Staff *Item 0*  
-[halfling](rules/traits/halfling.md)  [propulsive](rules/traits/propulsive.md)  [uncommon](rules/traits/uncommon.md)  
+[halfling](rules/traits/halfling.md "Halfling Ancestry & Heritage Trait")  [propulsive](rules/traits/propulsive.md "Propulsive Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 5 gp
 - **Bulk** 1

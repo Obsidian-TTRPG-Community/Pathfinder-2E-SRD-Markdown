@@ -10,9 +10,9 @@ tags:
 aliases: ["Wall Of Ice"]
 ---
 # Wall Of Ice *Spell 5*   
-[cold](rules/traits/cold.md)  [evocation](rules/traits/evocation.md)  [water](rules/traits/water.md)  
+[cold](rules/traits/cold.md "Cold Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**120 foot
 - **Duration**1 minute

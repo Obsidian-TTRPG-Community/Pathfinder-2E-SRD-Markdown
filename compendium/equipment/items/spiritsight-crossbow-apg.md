@@ -11,7 +11,7 @@ tags:
 aliases: ["Spiritsight Crossbow"]
 ---
 # Spiritsight Crossbow *Item 8*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [teleportation](rules/traits/teleportation.md)  [uncommon](rules/traits/uncommon.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 450 gp
 - **Usage** held in 2 hands; **Bulk** 2

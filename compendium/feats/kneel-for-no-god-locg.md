@@ -7,7 +7,7 @@ tags:
 aliases: ["Kneel For No God"]
 ---
 # Kneel For No God  *Feat 9*  
-[dwarf](rules/traits/dwarf.md)  
+[dwarf](rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  
 
 - **Access**: Vahird ethnicity
 - **Prerequisites**: ancient-blooded dwarf heritage

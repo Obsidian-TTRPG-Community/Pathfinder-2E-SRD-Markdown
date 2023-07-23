@@ -7,7 +7,7 @@ tags:
 aliases: ["Aegis Of Arnisant"]
 ---
 # Aegis Of Arnisant  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Knight Vigilant Dedication](compendium/feats/knight-vigilant-dedication-locg.md), [Shield Block](compendium/feats/shield-block.md), master in [Religion](compendium/skills.md#Religion)
 - **Requirements**: You are wielding a shield.
@@ -17,7 +17,7 @@ Inspired by the tale of Arnisant, you transform your shield into a magic ward. U
 
 ```ad-embed-ability
 title: Absorb into the Aegis [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[manipulate](rules/traits/manipulate.md)  
+[manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 
 - **Trigger**: An enemy casts a spell that targets you or an ally within 15 feet of you.
 

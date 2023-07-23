@@ -8,7 +8,7 @@ tags:
 aliases: ["Brown Mold"]
 ---
 # Brown Mold *Hazard 2*  
-[environmental](rules/traits/environmental.md)  [fungus](rules/traits/fungus-b1.md)  
+[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [fungus](rules/traits/fungus-b1.md "Fungus Creature Type Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 21 trained  
@@ -19,13 +19,13 @@ This unassuming fungus leeches heat out of the air.
 
 - **AC** 18 , **Fort** +11, 
 - **HP** 30 (BT 15)
-- **Immunities** critical hits; [fire](rules/traits/fire.md); object immunities; precision damage
+- **Immunities** critical hits; [fire](rules/traits/fire.md "Fire Energy & Element Trait"); object immunities; precision damage
 - **Resistances** 
 - **Weaknesses** cold 10
      
 ```ad-embed-ability
 title: Emit Cold
-[aura](rules/traits/aura.md)  [cold](rules/traits/cold.md)  
+[aura](rules/traits/aura.md "Aura Combat Trait")  [cold](rules/traits/cold.md "Cold Energy & Element Trait")  
 
 5 feet. Brown mold deals `2d6` cold damage to nearby creatures.  
 %% #trait/aura #trait/cold %%

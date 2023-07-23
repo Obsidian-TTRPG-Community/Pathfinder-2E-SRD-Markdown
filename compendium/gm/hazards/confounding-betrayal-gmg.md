@@ -8,7 +8,7 @@ tags:
 aliases: ["Confounding Betrayal"]
 ---
 # Confounding Betrayal *Hazard 8*  
-[complex](rules/traits/complex.md)  [haunt](rules/traits/haunt.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +21 expert  
@@ -19,7 +19,7 @@ Allies appear to shed their disguises and reveal themselves to be malevolent mon
      
 ```ad-embed-ability
 title: Unmask [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[illusion](rules/traits/illusion.md)  [occult](rules/traits/occult.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 - **Trigger**: Two or more creatures enter the haunt's area
 

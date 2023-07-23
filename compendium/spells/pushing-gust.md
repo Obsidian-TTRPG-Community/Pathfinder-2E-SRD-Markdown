@@ -11,7 +11,7 @@ tags:
 aliases: ["Pushing Gust"]
 ---
 # Pushing Gust *Focus 1*   
-[air](rules/traits/air.md)  [cleric](rules/traits/cleric.md)  [conjuration](rules/traits/conjuration.md)  [uncommon](rules/traits/uncommon.md)  
+[air](rules/traits/air.md "Air Energy & Element Trait")  [cleric](rules/traits/cleric.md "Cleric Class Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Domains**: [air](compendium/setting/domains.md#Air)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

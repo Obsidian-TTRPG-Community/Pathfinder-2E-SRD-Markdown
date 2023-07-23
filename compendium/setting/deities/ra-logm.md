@@ -10,12 +10,12 @@ tags:
 - domain/time/deity
 aliases: ["Ra", "King of the Heavens"]
 ---
-# Ra (King of the Heavens) *([LN](rules/traits/lawful-neutral-b1.md))*  
+# Ra (King of the Heavens) *([LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 124*  
 
 - **Category**: Ancient Osirian Gods
 - **Anathema**: avoid personal change, kill a plant or a creature with cold damage, seal a building to completely block sunlight
-- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [LN](rules/traits/lawful-neutral-b1.md), [N](rules/traits/neutral-b1.md)
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait")
 
 ## Devotee benefits
 

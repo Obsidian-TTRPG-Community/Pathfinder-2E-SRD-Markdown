@@ -9,7 +9,7 @@ tags:
 aliases: ["Empower Ley Line"]
 ---
 # Empower Ley Line *Ritual 7*  
-[evocation](rules/traits/evocation.md)  [rare](rules/traits/rare.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Cast** 1 day
 - **Cost** magical foci worth a total value of 50 gp × the spell level × the target's level
@@ -19,7 +19,7 @@ aliases: ["Empower Ley Line"]
 - **Range**10 feet
 - **Targets**1 ley line or ley line node up to double this ritual's level
 
-You draw upon surrounding magical energy to empower a ley line, enhancing both its [positive](rules/traits/positive.md) and [negative](rules/traits/negative.md) effects.
+You draw upon surrounding magical energy to empower a ley line, enhancing both its [positive](rules/traits/positive.md "Positive Energy & Element Trait") and [negative](rules/traits/negative.md "Negative Energy & Element Trait") effects.
 
 The duration of an empowered ley line's benefits increases: when you successfully Tap a Ley Line that's empowered, you gain its benefits until the end of your next turn on a success (1 minute on a critical success)
 

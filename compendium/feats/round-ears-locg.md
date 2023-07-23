@@ -7,7 +7,7 @@ tags:
 aliases: ["Round Ears"]
 ---
 # Round Ears  *Feat 1*  
-[half-elf](rules/traits/half-elf.md)  
+[half-elf](rules/traits/half-elf.md "Half-Elf Ancestry & Heritage Trait")  
 
 
 Your elven lineage is subtle enough that you look barely different from other humans, and you've learned to use that to your advantage. You gain the trained proficiency rank in [Deception](compendium/skills.md#Deception) (or another skill of your choice, if you were already trained in [Deception](compendium/skills.md#Deception))

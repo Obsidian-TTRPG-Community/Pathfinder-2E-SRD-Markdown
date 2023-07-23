@@ -7,7 +7,7 @@ tags:
 aliases: ["Distracting Feint"]
 ---
 # Distracting Feint  *Feat 2*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Prerequisites**: Scoundrel racket
 

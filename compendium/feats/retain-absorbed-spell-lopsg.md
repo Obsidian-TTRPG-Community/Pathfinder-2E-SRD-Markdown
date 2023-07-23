@@ -7,7 +7,7 @@ tags:
 aliases: ["Retain Absorbed Spell"]
 ---
 # Retain Absorbed Spell  *Feat 18*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Absorb Spell](compendium/feats/absorb-spell-locg.md)
 

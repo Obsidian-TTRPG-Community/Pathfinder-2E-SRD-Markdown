@@ -10,20 +10,20 @@ aliases: ["Activate an Item"]
 *Source: Core Rulebook p. 532*  
 
 
-- **Requirements**: You can Activate an Item with the [invested](rules/traits/invested.md) trait only if it's invested by you. If the item requires you to [Interact](rules/actions/interact.md) with it, you must be wielding it (if it's a held item) or touching it with a free hand (if it's another type of item).
+- **Requirements**: You can Activate an Item with the [invested](rules/traits/invested.md "Invested Item Trait") trait only if it's invested by you. If the item requires you to [Interact](rules/actions/interact.md) with it, you must be wielding it (if it's a held item) or touching it with a free hand (if it's another type of item).
 - **Activity**: Varies
 
 You call forth the effect of an item by properly activating it. This is a special activity that takes a variable number of actions, as listed in the item's stat block.
 
 Some items can be activated as a reaction or free action. In this case, you Activate the Item as a reaction or free action (as appropriate) instead of as an activity. Such cases are noted in the item's Activate entry in its stat block—for example, "**Activate** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") command."
 
-**Long Activation Times** Some items take minutes or hours to activate. The Activate an Item activity for these items includes a mix of the listed activation components, but it's not necessary to break down which one you're providing at a given time. You can't use other actions or reactions while activating such an item, though at the GM's discretion, you might be able to speak a few sentences. As with other activities that take a long time, these activations have the [exploration](rules/traits/exploration.md) trait, and you can't activate them in an encounter. If combat breaks out while you're activating one, your activation is disrupted (see the Disrupting Activations sidebar).
+**Long Activation Times** Some items take minutes or hours to activate. The Activate an Item activity for these items includes a mix of the listed activation components, but it's not necessary to break down which one you're providing at a given time. You can't use other actions or reactions while activating such an item, though at the GM's discretion, you might be able to speak a few sentences. As with other activities that take a long time, these activations have the [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait") trait, and you can't activate them in an encounter. If combat breaks out while you're activating one, your activation is disrupted (see the Disrupting Activations sidebar).
 
 **Activation Components** Each activation entry lists any components involved in the activation after the action icons or text, such as "[>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") command." The activation components, described below, add traits (listed in parentheses) and requirements to the activation. If you can't provide the components, you fail to Activate the Item.
 
-- Command ([auditory](rules/traits/auditory.md), [concentrate](rules/traits/concentrate.md))
-- Envision ([concentrate](rules/traits/concentrate.md))
-- [Interact](rules/actions/interact.md) ([manipulate](rules/traits/manipulate.md))
+- Command ([auditory](rules/traits/auditory.md "Auditory Effect Trait"), [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait"))
+- Envision ([concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait"))
+- [Interact](rules/actions/interact.md) ([manipulate](rules/traits/manipulate.md "Manipulate General Trait"))
 - [Cast a Spell](rules/actions/cast-a-spell.md)
 
 Some items produce their effects only when used properly in the moment. Others always offer the same benefits as their mundane counterparts when worn, but have magical abilities you can gain by further spending actions. Either case requires you to use the Activate an Item activity.
@@ -40,9 +40,9 @@ Activations are not necessarily magical—for instance, drinking an alchemical e
 
 **Activation Components** An item's activate entry lists the components required to activate its abilities. Each component adds certain traits to the Activate an Item activity, and some components have special requirements. The components that appear in this book are listed below.
 
-**Command** This component is a specific utterance you must make in a loud and strong voice. Activate an Item gains the auditory and [concentrate](rules/traits/concentrate.md)s. You must be able to speak to provide this component.
+**Command** This component is a specific utterance you must make in a loud and strong voice. Activate an Item gains the auditory and [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")s. You must be able to speak to provide this component.
 
-**Envision** This component is a specific image or phenomenon you need to imagine. Activate an Item gains the [concentrate](rules/traits/concentrate.md).
+**Envision** This component is a specific image or phenomenon you need to imagine. Activate an Item gains the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait").
 
 **Interact** This component works like the Interact basic action.
 

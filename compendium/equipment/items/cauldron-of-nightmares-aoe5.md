@@ -11,7 +11,7 @@ tags:
 aliases: ["Cauldron Of Nightmares"]
 ---
 # Cauldron Of Nightmares *Item 17*  
-[illusion](rules/traits/illusion.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 13000 gp
 - **Usage** held in 2 hands; **Bulk** 1

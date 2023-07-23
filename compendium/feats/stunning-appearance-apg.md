@@ -8,7 +8,7 @@ tags:
 aliases: ["Stunning Appearance"]
 ---
 # Stunning Appearance  *Feat 16*  
-[archetype](rules/traits/archetype.md)  [vigilante](rules/traits/vigilante-apg.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [vigilante](rules/traits/vigilante-apg.md "Vigilante Feat Trait")  
 
 - **Prerequisites**: [Startling Appearance](compendium/feats/startling-appearance-loag.md)
 

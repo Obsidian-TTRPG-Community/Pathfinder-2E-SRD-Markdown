@@ -12,7 +12,7 @@ tags:
 aliases: ["Nunchaku"]
 ---
 # Nunchaku *Item 0*  
-[backswing](rules/traits/backswing.md)  [disarm](rules/traits/disarm.md)  [finesse](rules/traits/finesse.md)  [monk](rules/traits/monk.md)  [uncommon](rules/traits/uncommon.md)  
+[backswing](rules/traits/backswing.md "Backswing Weapon Trait")  [disarm](rules/traits/disarm.md "Disarm Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 2 sp
 - **Bulk** L

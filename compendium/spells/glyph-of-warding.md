@@ -8,9 +8,9 @@ tags:
 aliases: ["Glyph Of Warding"]
 ---
 # Glyph Of Warding *Spell 3*   
-[abjuration](rules/traits/abjuration.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [divine](rules/traits/divine.md), [occult](rules/traits/occult.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** 10 minutes 
 - **Range**touch
 - **Targets**1 container or a 10-foot-by-10-foot area

@@ -8,7 +8,7 @@ tags:
 aliases: ["Maul"]
 ---
 # Maul *Item 0*  
-[shove](rules/traits/shove.md)  
+[shove](rules/traits/shove.md "Shove Weapon Trait")  
 
 - **Price** 3 gp
 - **Bulk** 2

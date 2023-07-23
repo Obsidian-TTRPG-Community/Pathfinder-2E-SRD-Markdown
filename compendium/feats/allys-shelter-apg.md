@@ -8,7 +8,7 @@ tags:
 aliases: ["Ally's Shelter"]
 ---
 # Ally's Shelter  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 5*  
-[fortune](rules/traits/fortune.md)  [kobold](rules/traits/kobold-b1.md)  
+[fortune](rules/traits/fortune.md "Fortune Effect Trait")  [kobold](rules/traits/kobold-b1.md "Kobold Ancestry & Heritage Trait")  
 
 - **Frequency**: once per day
 - **Trigger** You attempt a saving throw while adjacent to one or more allies, but you haven't rolled yet.

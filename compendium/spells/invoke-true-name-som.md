@@ -11,9 +11,9 @@ tags:
 aliases: ["Invoke True Name"]
 ---
 # Invoke True Name *Cantrip 1*   
-[cantrip](rules/traits/cantrip.md)  [enchantment](rules/traits/enchantment.md)  [rare](rules/traits/rare.md)  [true name](rules/traits/true-name-som.md)  
+[cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [true name](rules/traits/true-name-som.md "True Name General Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [divine](rules/traits/divine.md), [occult](rules/traits/occult.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**30 foot
 - **Targets**1 creature whose true name you know

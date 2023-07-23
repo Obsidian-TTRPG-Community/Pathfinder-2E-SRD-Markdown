@@ -8,7 +8,7 @@ tags:
 aliases: ["Expand Aura"]
 ---
 # Expand Aura  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 16*  
-[champion](rules/traits/champion.md)  [concentrate](rules/traits/concentrate.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
 
 - **Prerequisites**: You have at least one aura from a champion feat or feature.
 - **Activity** Single Action

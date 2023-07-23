@@ -10,9 +10,9 @@ tags:
 aliases: ["Private Sanctum"]
 ---
 # Private Sanctum *Spell 4*   
-[abjuration](rules/traits/abjuration.md)  [uncommon](rules/traits/uncommon.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 10 minutes 
 - **Range**touch
 - **Area**100-foot burst

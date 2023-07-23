@@ -9,7 +9,7 @@ tags:
 aliases: ["Alter Ego Dedication"]
 ---
 # Alter Ego Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: trained in [Deception](compendium/skills.md#Deception) and [Stealth](compendium/skills.md#Stealth)
 
@@ -17,7 +17,7 @@ You make yourself into a living mirror, becoming a double of someone unremarkabl
 
 ```ad-embed-ability
 title: Assume a Role
-[concentrate](rules/traits/concentrate.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
 
 - **Requirements**: You've spent at least 1 hour studying a creature whose role you intend to copy and have done so within the last 3 days. This could include meeting and learning from someone in that role, tailing and spying on someone, using magic to observe them at work, or some other method, as long as you have a visual source of information
 

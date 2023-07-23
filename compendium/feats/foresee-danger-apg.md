@@ -8,7 +8,7 @@ tags:
 aliases: ["Foresee Danger"]
 ---
 # Foresee Danger  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 12*  
-[concentrate](rules/traits/concentrate.md)  [investigator](rules/traits/investigator-apg.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [investigator](rules/traits/investigator-apg.md "Investigator Class Trait")  
 
 - **Trigger** A creature targets you with an attack and you can see the attacker.
 - **Activity** Reaction

@@ -9,7 +9,7 @@ tags:
 aliases: ["Build Library"]
 ---
 # Build Library
-[downtime](rules/traits/downtime.md)  [manipulate](rules/traits/manipulate.md)  
+[downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 *Source: Age of Ashes #2: Cult of Cinders p. 73*  
 
 - **Requirements**: [Crafting](compendium/skills.md#Crafting) (master), any [Lore](compendium/skills.md#Lore) (master), or hired bookmaker; organized specialists

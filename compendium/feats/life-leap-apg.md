@@ -10,7 +10,7 @@ tags:
 aliases: ["Life Leap"]
 ---
 # Life Leap  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 9*  
-[gnome](rules/traits/gnome.md)  [move](rules/traits/move.md)  [necromancy](rules/traits/necromancy.md)  [teleportation](rules/traits/teleportation.md)  
+[gnome](rules/traits/gnome.md "Gnome Ancestry & Heritage Trait")  [move](rules/traits/move.md "Move Combat Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  
 
 - **Requirements**: You must be adjacent to a living creature.
 - **Activity** Single Action

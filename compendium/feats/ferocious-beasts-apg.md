@@ -7,7 +7,7 @@ tags:
 aliases: ["Ferocious Beasts"]
 ---
 # Ferocious Beasts  *Feat 13*  
-[orc](rules/traits/orc.md)  
+[orc](rules/traits/orc.md "Orc Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Beast Trainer](compendium/feats/beast-trainer-apg.md) or animal companion, [Orc Ferocity](compendium/feats/orc-ferocity.md)
 

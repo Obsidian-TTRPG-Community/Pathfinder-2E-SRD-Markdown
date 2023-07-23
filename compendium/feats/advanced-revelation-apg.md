@@ -7,7 +7,7 @@ tags:
 aliases: ["Advanced Revelation"]
 ---
 # Advanced Revelation  *Feat 6*  
-[oracle](rules/traits/oracle-apg.md)  
+[oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  
 
 - **Prerequisites**: initial revelation spell
 

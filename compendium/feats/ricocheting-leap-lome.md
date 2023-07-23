@@ -7,7 +7,7 @@ tags:
 aliases: ["Ricocheting Leap"]
 ---
 # Ricocheting Leap  *Feat 9*  
-[grippli](rules/traits/grippli-b2.md)  
+[grippli](rules/traits/grippli-b2.md "Grippli Ancestry & Heritage Trait")  
 
 - **Prerequisites**: master in [Athletics](compendium/skills.md#Athletics), [Wall Jump](compendium/feats/wall-jump.md)
 

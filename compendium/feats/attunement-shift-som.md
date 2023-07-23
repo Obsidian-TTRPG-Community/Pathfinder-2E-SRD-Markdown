@@ -7,11 +7,11 @@ tags:
 aliases: ["Attunement Shift"]
 ---
 # Attunement Shift  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Geomancer Dedication](compendium/feats/geomancer-dedication-som.md)
 - **Frequency**: once per 10 minutes
-- **Requirements**: Your previous action was to cast a spell with the [air](rules/traits/air.md), [cold](rules/traits/cold.md), [earth](rules/traits/earth.md), [fire](rules/traits/fire.md), [plant](rules/traits/plant.md), or [water](rules/traits/water.md) trait
+- **Requirements**: Your previous action was to cast a spell with the [air](rules/traits/air.md "Air Energy & Element Trait"), [cold](rules/traits/cold.md "Cold Energy & Element Trait"), [earth](rules/traits/earth.md "Earth Energy & Element Trait"), [fire](rules/traits/fire.md "Fire Energy & Element Trait"), [plant](rules/traits/plant.md "Plant Creature Type Trait"), or [water](rules/traits/water.md "Water Energy & Element Trait") trait
 - **Activity** Free Action
 
 The magic of your spell floods into you, overriding your connection to the land around you. You alter your terrain attunement to a terrain that matches a trait of the spell you just cast. You thereby gain your terrain attunement benefit when you cast further spells with the same descriptor, instead of using the terrain you're actually in. For instance, if you cast [tanglefoot](compendium/spells/tanglefoot.md), your terrain attunement switches to your choice of forest or swamp, and your terrain attunement applies when you cast another plant spell.

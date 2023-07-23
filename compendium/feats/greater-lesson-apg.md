@@ -7,7 +7,7 @@ tags:
 aliases: ["Greater Lesson"]
 ---
 # Greater Lesson  *Feat 6*  
-[witch](rules/traits/witch-apg.md)  
+[witch](rules/traits/witch-apg.md "Witch Class Trait")  
 
 
 Your patron grants you greater knowledge. Choose a greater or basic lesson. You gain its associated hex, and your familiar learns the associated spell. Increase the number of Focus Points in your focus pool by 1.

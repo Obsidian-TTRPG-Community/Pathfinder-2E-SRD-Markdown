@@ -10,7 +10,7 @@ tags:
 aliases: ["Craft Disharmonic Instrument"]
 ---
 # Craft Disharmonic Instrument
-[downtime](rules/traits/downtime.md)  [manipulate](rules/traits/manipulate.md)  [rare](rules/traits/rare.md)  
+[downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 *Source: Lost Omens: Monsters of Myth p. 53*  
 
 - **Requirements**: Legendary in [Crafting](compendium/skills.md#Crafting)

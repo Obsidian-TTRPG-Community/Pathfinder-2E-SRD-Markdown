@@ -9,7 +9,7 @@ tags:
 aliases: ["Volatile Reagents"]
 ---
 # Volatile Reagents *Hazard 2*  
-[alchemical](rules/traits/alchemical.md)  [complex](rules/traits/complex.md)  [environmental](rules/traits/environmental.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +5 trained  

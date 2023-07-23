@@ -9,7 +9,7 @@ tags:
 aliases: ["Hat Of Many Minds"]
 ---
 # Hat Of Many Minds *Item 12*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 1800 gp
 - **Usage** worn headwear; **Bulk** L

@@ -9,7 +9,7 @@ tags:
 aliases: ["Mana Whorl"]
 ---
 # Mana Whorl *Hazard 7*  
-[complex](rules/traits/complex.md)  [environmental](rules/traits/environmental.md)  [magical](rules/traits/magical.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Complexity** Complex
 - **Stealth** +14 trained to identify as dangerous quicksand; +20 (expert) to recognize its magical properties  

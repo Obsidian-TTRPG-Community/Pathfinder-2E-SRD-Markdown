@@ -8,7 +8,7 @@ tags:
 aliases: ["Phonetic Training"]
 ---
 # Phonetic Training  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Linguist Dedication](compendium/feats/linguist-dedication-apg.md), expert in [Society](compendium/skills.md#Society)
 

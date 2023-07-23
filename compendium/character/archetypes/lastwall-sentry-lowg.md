@@ -15,7 +15,7 @@ While the nation of Lastwall is gone, leaving only the horror of the Gravelands 
 title: Lastwall Sentry Dedication, Feat 2
 collapse: closed
 # Lastwall Sentry Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: You are from the Eye of Dread region.
 - **Prerequisites**: member of the Knights of Lastwall, [Shield Block](compendium/feats/shield-block.md)
@@ -25,14 +25,14 @@ You've sworn yourself as a sentry for the Knights of Lastwall, the first line of
 **Special.** You can't select another dedication feat until you have gained two other feats from the Lastwall sentry archetype.
 
 *Source: Lost Omens: World Guide p. 47*  
-%% #trait/uncommon #trait/archetype #trait/dedication %%
+%% #trait/archetype #trait/dedication #trait/uncommon %%
 ```  
 
 ```ad-embed-feat
 title: Eye Of Ozem, Feat 4
 collapse: closed
 # Eye Of Ozem  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Lastwall Sentry Dedication](compendium/feats/lastwall-sentry-dedication-lowg.md), expert in [Perception](compendium/skills.md#Perception)
 
@@ -46,11 +46,11 @@ You've learned how to spot danger at a distance, allowing you to serve as a sent
 title: Necromantic Resistance, Feat 4
 collapse: closed
 # Necromantic Resistance  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Lastwall Sentry Dedication](compendium/feats/lastwall-sentry-dedication-lowg.md)
 
-As part of your training, you've inured yourself against necromancy through repeated exposure. You gain a +1 circumstance bonus to saves against [necromancy](rules/traits/necromancy.md) effects and gain resistance to negative damage equal to half your level.
+As part of your training, you've inured yourself against necromancy through repeated exposure. You gain a +1 circumstance bonus to saves against [necromancy](rules/traits/necromancy.md "Necromancy School Trait") effects and gain resistance to negative damage equal to half your level.
 
 *Source: Lost Omens: World Guide p. 47*  
 %% #trait/archetype %%
@@ -60,7 +60,7 @@ As part of your training, you've inured yourself against necromancy through repe
 title: Grave Sense, Feat 6
 collapse: closed
 # Grave Sense  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Lastwall Sentry Dedication](compendium/feats/lastwall-sentry-dedication-lowg.md)
 
@@ -76,11 +76,11 @@ You sense undead as a vague sense (Core Rulebook 465) similar to a human's sense
 title: Necromantic Tenacity, Feat 8
 collapse: closed
 # Necromantic Tenacity  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Necromantic Resistance](compendium/feats/necromantic-resistance-lowg.md)
 
-Your training against necromantic effects allows you to escape the worst of their touch. If you roll a success on a saving throw against a [necromancy](rules/traits/necromancy.md) effect, you get a critical success instead; if you roll a critical failure on such a save, you get a failure instead.
+Your training against necromantic effects allows you to escape the worst of their touch. If you roll a success on a saving throw against a [necromancy](rules/traits/necromancy.md "Necromancy School Trait") effect, you get a critical success instead; if you roll a critical failure on such a save, you get a failure instead.
 
 *Source: Lost Omens: World Guide p. 47*  
 %% #trait/archetype %%
@@ -90,7 +90,7 @@ Your training against necromantic effects allows you to escape the worst of thei
 title: Lastwall Warden, Feat 10
 collapse: closed
 # Lastwall Warden  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Lastwall Sentry Dedication](compendium/feats/lastwall-sentry-dedication-lowg.md)
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Social Purview"]
 ---
 # Social Purview  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Vigilante Dedication](compendium/feats/vigilante-dedication-apg.md)
 

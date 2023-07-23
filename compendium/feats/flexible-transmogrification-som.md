@@ -7,7 +7,7 @@ tags:
 aliases: ["Flexible Transmogrification"]
 ---
 # Flexible Transmogrification  *Feat 12*  
-[summoner](rules/traits/summoner-som.md)  
+[summoner](rules/traits/summoner-som.md "Summoner Class Trait")  
 
 
 You've learned how to transmogrify your eidolon to suit the circumstances of the day. Each day, choose one evolution feat of 6th level or lower during your daily preparations. Your eidolon gains that feat until your next daily preparations.

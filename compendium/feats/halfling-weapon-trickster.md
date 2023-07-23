@@ -7,7 +7,7 @@ tags:
 aliases: ["Halfling Weapon Trickster"]
 ---
 # Halfling Weapon Trickster  *Feat 5*  
-[halfling](rules/traits/halfling.md)  
+[halfling](rules/traits/halfling.md "Halfling Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Halfling Weapon Familiarity](compendium/feats/halfling-weapon-familiarity.md)
 

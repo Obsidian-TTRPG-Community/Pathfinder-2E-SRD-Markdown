@@ -7,7 +7,7 @@ tags:
 aliases: ["Diamond Soul"]
 ---
 # Diamond Soul  *Feat 12*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 
 You have fortified your body and mind against eldritch effects. You gain a +1 status bonus to saving throws against magic.

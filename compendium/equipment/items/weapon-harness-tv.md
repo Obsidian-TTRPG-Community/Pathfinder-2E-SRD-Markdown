@@ -9,7 +9,7 @@ tags:
 aliases: ["Weapon Harness"]
 ---
 # Weapon Harness *Item 1*  
-[adjustment](rules/traits/adjustment-lotgb.md)  [uncommon](rules/traits/uncommon.md)  
+[adjustment](rules/traits/adjustment-lotgb.md "Adjustment  Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 6 gp
 - **Usage** applied to armor; **Bulk** L

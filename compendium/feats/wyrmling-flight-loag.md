@@ -7,7 +7,7 @@ tags:
 aliases: ["Wyrmling Flight"]
 ---
 # Wyrmling Flight  *Feat 17*  
-[kobold](rules/traits/kobold-b1.md)  
+[kobold](rules/traits/kobold-b1.md "Kobold Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Hatchling Flight](compendium/feats/hatchling-flight-loag.md)
 

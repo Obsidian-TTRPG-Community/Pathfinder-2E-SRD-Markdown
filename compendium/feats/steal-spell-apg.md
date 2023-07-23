@@ -8,7 +8,7 @@ tags:
 aliases: ["Steal Spell"]
 ---
 # Steal Spell  *Feat 16*  
-[magical](rules/traits/magical.md)  [rogue](rules/traits/rogue.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Prerequisites**: [Legendary Thief](compendium/feats/legendary-thief.md), [Loaner Spell](compendium/feats/loaner-spell-apg.md)
 

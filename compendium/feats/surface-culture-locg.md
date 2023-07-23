@@ -8,7 +8,7 @@ tags:
 aliases: ["Surface Culture"]
 ---
 # Surface Culture  *Feat 1*  
-[dwarf](rules/traits/dwarf.md)  [uncommon](rules/traits/uncommon.md)  
+[dwarf](rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: any surface dwarf ethnicity
 

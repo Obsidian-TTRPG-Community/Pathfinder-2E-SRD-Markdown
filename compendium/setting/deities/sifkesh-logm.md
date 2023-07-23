@@ -10,12 +10,12 @@ tags:
 - domain/trickery/deity
 aliases: ["Sifkesh", "The Whispered Doubt"]
 ---
-# Sifkesh (The Whispered Doubt) *([CE](rules/traits/chaotic-evil-b1.md))*  
+# Sifkesh (The Whispered Doubt) *([CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 126*  
 
 - **Category**: Demon Lords
 - **Anathema**: spread hope, offer forgiveness, sincerely honor or call upon another god
-- **Follower Alignments**: [NE](rules/traits/neutral-evil-b1.md), [CE](rules/traits/chaotic-evil-b1.md)
+- **Follower Alignments**: [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
 

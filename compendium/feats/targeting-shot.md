@@ -9,7 +9,7 @@ tags:
 aliases: ["Targeting Shot"]
 ---
 # Targeting Shot  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 14*  
-[concentrate](rules/traits/concentrate.md)  [press](rules/traits/press.md)  [ranger](rules/traits/ranger.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [press](rules/traits/press.md "Press Combat Trait")  [ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: [Hunter's Aim](compendium/feats/hunters-aim.md)
 - **Activity** Single Action

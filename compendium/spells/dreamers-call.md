@@ -12,7 +12,7 @@ tags:
 aliases: ["Dreamer's Call"]
 ---
 # Dreamer's Call *Focus 4*   
-[cleric](rules/traits/cleric.md)  [enchantment](rules/traits/enchantment.md)  [incapacitation](rules/traits/incapacitation.md)  [mental](rules/traits/mental.md)  [uncommon](rules/traits/uncommon.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Domains**: [dreams](compendium/setting/domains.md#Dreams)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

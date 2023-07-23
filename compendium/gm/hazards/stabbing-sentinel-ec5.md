@@ -9,7 +9,7 @@ tags:
 aliases: ["Stabbing Sentinel"]
 ---
 # Stabbing Sentinel *Hazard 18*  
-[magical](rules/traits/magical.md)  [mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 45 master  
@@ -26,7 +26,7 @@ A [petrified](rules/conditions.md#Petrified) creature momentarily animates to at
      
 ```ad-embed-ability
 title: Animated Attack [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[attack](rules/traits/attack.md)  [necromancy](rules/traits/necromancy.md)  [transmutation](rules/traits/transmutation.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Trigger**: A living or undead creature moves within 5 feet of the stabbing sentinel
 

@@ -8,7 +8,7 @@ tags:
 aliases: ["Macabre Virtuoso"]
 ---
 # Macabre Virtuoso  *Feat 6*  
-[archetype](rules/traits/archetype.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Reanimator Dedication](compendium/feats/reanimator-dedication-botd.md); expert in [Arcana](compendium/skills.md#Arcana), [Occultism](compendium/skills.md#Occultism), or [Religion](compendium/skills.md#Religion)
 

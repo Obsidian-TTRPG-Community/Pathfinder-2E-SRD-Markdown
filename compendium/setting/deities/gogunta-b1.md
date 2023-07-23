@@ -10,12 +10,12 @@ tags:
 - domain/water/deity
 aliases: ["Gogunta", "Song of the Swamp"]
 ---
-# Gogunta (Song of the Swamp) *([CE](rules/traits/chaotic-evil-b1.md))*  
+# Gogunta (Song of the Swamp) *([CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait"))*  
 *Source: Bestiary p. 45*  
 
 - **Category**: Demon Lords
 - **Anathema**: grant mercy to boggards who worship other gods
-- **Follower Alignments**: [CE](rules/traits/chaotic-evil-b1.md)
+- **Follower Alignments**: [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
 

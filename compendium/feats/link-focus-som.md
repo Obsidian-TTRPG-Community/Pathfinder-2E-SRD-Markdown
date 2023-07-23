@@ -7,7 +7,7 @@ tags:
 aliases: ["Link Focus"]
 ---
 # Link Focus  *Feat 12*  
-[summoner](rules/traits/summoner-som.md)  
+[summoner](rules/traits/summoner-som.md "Summoner Class Trait")  
 
 - **Prerequisites**: link spells
 

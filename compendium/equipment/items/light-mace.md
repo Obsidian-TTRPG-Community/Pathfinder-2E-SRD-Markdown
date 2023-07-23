@@ -10,7 +10,7 @@ tags:
 aliases: ["Light Mace"]
 ---
 # Light Mace *Item 0*  
-[agile](rules/traits/agile.md)  [finesse](rules/traits/finesse.md)  [shove](rules/traits/shove.md)  
+[agile](rules/traits/agile.md "Agile Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [shove](rules/traits/shove.md "Shove Weapon Trait")  
 
 - **Price** 4 sp
 - **Bulk** L

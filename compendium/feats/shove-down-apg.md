@@ -7,7 +7,7 @@ tags:
 aliases: ["Shove Down"]
 ---
 # Shove Down  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 6*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Prerequisites**: trained in [Athletics](compendium/skills.md#Athletics)
 - **Requirements**: Your last action was a successful [Shove](rules/actions/shove.md).

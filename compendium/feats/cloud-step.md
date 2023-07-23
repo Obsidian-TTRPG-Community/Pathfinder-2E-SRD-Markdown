@@ -7,7 +7,7 @@ tags:
 aliases: ["Cloud Step"]
 ---
 # Cloud Step  *Feat 16*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Prerequisites**: legendary in [Acrobatics](compendium/skills.md#Acrobatics)
 

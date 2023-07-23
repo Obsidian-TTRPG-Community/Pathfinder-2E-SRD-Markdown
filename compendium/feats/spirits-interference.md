@@ -11,7 +11,7 @@ tags:
 aliases: ["Spirits' Interference"]
 ---
 # Spirits' Interference  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[barbarian](rules/traits/barbarian.md)  [divine](rules/traits/divine.md)  [instinct](rules/traits/instinct.md)  [necromancy](rules/traits/necromancy.md)  [rage](rules/traits/rage.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [instinct](rules/traits/instinct.md "Instinct Action & Ability Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [rage](rules/traits/rage.md "Rage Combat Trait")  
 
 - **Prerequisites**: Spirit instinct
 - **Activity** Single Action

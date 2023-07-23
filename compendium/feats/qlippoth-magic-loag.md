@@ -7,7 +7,7 @@ tags:
 aliases: ["Qlippoth Magic"]
 ---
 # Qlippoth Magic  *Feat 9*  
-[tiefling](rules/traits/tiefling-b1.md)  
+[tiefling](rules/traits/tiefling-b1.md "Tiefling Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Riftmarked](compendium/feats/riftmarked-loag.md)
 

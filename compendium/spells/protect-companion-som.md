@@ -9,12 +9,12 @@ tags:
 aliases: ["Protect Companion"]
 ---
 # Protect Companion *Cantrip 1*   
-[abjuration](rules/traits/abjuration.md)  [cantrip](rules/traits/cantrip.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [divine](rules/traits/divine.md), [occult](rules/traits/occult.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**30 foot
-- **Targets**your eidolon, or a creature with the [minion](rules/traits/minion.md) trait under your control
+- **Targets**your eidolon, or a creature with the [minion](rules/traits/minion.md "Minion Creature Trait") trait under your control
 - **Duration**until the start of your next turn
 
 You extend your aura, as a magical shield that protects your eidolon or minion. The target gains a +1 circumstance bonus to AC until the start of your next turn. You gain the following reaction; after using the reaction, the spell ends and you can't cast [protect companion](compendium/spells/protect-companion-som.md) again for 10 minutes.

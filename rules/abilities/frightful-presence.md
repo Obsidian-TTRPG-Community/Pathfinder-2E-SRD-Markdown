@@ -9,7 +9,7 @@ tags:
 aliases: ["Frightful Presence"]
 ---
 # Frightful Presence
-[aura](rules/traits/aura.md)  [emotion](rules/traits/emotion.md)  [fear](rules/traits/fear.md)  [mental](rules/traits/mental.md)  
+[aura](rules/traits/aura.md "Aura Combat Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 A creature that first enters the area must attempt a Will save. Regardless of the result of the saving throw, the creature is temporarily immune to this monster's Frightful Presence for 1 minute.
 

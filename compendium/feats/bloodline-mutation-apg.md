@@ -7,7 +7,7 @@ tags:
 aliases: ["Bloodline Mutation"]
 ---
 # Bloodline Mutation  *Feat 20*  
-[sorcerer](rules/traits/sorcerer.md)  
+[sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 - **Prerequisites**: a bloodline based on a specific type of creature
 

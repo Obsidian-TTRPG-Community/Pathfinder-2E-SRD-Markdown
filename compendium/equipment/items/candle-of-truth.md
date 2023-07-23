@@ -12,7 +12,7 @@ tags:
 aliases: ["Candle of Truth"]
 ---
 # Candle of Truth *Item 8*  
-[consumable](rules/traits/consumable.md)  [enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  [uncommon](rules/traits/uncommon.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 75 gp
 - **Usage** held in 1 hand; **Bulk** —

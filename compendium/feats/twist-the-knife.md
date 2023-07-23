@@ -7,7 +7,7 @@ tags:
 aliases: ["Twist The Knife"]
 ---
 # Twist The Knife  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Requirements**: Your last action was a melee [Strike](rules/actions/strike.md) that dealt sneak attack damage to a [flat-footed](rules/conditions.md#Flat-footed) target.
 - **Activity** Single Action

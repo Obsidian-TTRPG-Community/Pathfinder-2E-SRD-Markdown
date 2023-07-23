@@ -10,7 +10,7 @@ tags:
 aliases: ["Fey Disappearance"]
 ---
 # Fey Disappearance *Focus 3*   
-[enchantment](rules/traits/enchantment.md)  [sorcerer](rules/traits/sorcerer.md)  [uncommon](rules/traits/uncommon.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bloodline** Sorcerer
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 

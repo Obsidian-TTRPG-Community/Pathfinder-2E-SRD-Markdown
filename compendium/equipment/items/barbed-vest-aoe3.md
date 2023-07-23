@@ -12,7 +12,7 @@ tags:
 aliases: ["Barbed Vest"]
 ---
 # Barbed Vest *Item 10*  
-[cursed](rules/traits/cursed-gmg.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [rare](rules/traits/rare.md)  
+[cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** worn armor; **Bulk** 1
 - **Category** Armor

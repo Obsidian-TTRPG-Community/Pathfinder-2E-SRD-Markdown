@@ -15,7 +15,7 @@ From the wise owl perched on the wizard's shoulder to the crafty gremlin that se
 title: Familiar Master Dedication, Feat 2
 collapse: closed
 # Familiar Master Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 
 You have forged a mystical bond with a creature. This might have involved complex rituals and invocations, such as meditating under the moon until something crept out of the forest. Or maybe you just did each other a good turn, such as rescuing the beast from a trap or a foe, and then being rescued in turn. Whatever the details, you are now comrades until the end. You gain a familiar (Core Rulebook 198). If you already have a familiar, you gain the [Enhanced Familiar](compendium/feats/enhanced-familiar-wizard.md) feat.
@@ -30,7 +30,7 @@ You have forged a mystical bond with a creature. This might have involved comple
 title: Enhanced Familiar (Wizard), Feat 4*
 collapse: closed
 # Enhanced Familiar (Wizard)  *Feat 4*  
-[wizard](rules/traits/wizard.md)  
+[wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 > [!pf2-note] This version of [Enhanced Familiar (Wizard)](compendium/feats/enhanced-familiar-wizard.md) is intended for use with the Familiar Master Archetype. Its level has been changed accordingly.
 
@@ -48,7 +48,7 @@ You infuse your familiar with additional magical energy. You can select four fam
 title: Familiar Conduit, Feat 4
 collapse: closed
 # Familiar Conduit  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  [concentrate](rules/traits/concentrate.md)  [metamagic](rules/traits/metamagic.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 - **Prerequisites**: [Familiar Master Dedication](compendium/feats/familiar-master-dedication-apg.md), able to cast spells
 - **Requirements**: You have line of effect to your familiar.
@@ -64,7 +64,7 @@ Under your tutelage, your familiar has grown attuned to the hidden currents of t
 title: Familiar Mascot, Feat 4
 collapse: closed
 # Familiar Mascot  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Familiar Master Dedication](compendium/feats/familiar-master-dedication-apg.md)
 
@@ -80,7 +80,7 @@ When selecting master abilities, you can choose an ally to benefit from any spec
 title: Improved Familiar (Familiar Master), Feat 6
 collapse: closed
 # Improved Familiar (Familiar Master)  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Familiar Master Dedication](compendium/feats/familiar-master-dedication-apg.md)
 
@@ -94,7 +94,7 @@ You find it easy to attract a powerful and unusual familiar to your side. The nu
 title: Mutable Familiar, Feat 8
 collapse: closed
 # Mutable Familiar  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Familiar Master Dedication](compendium/feats/familiar-master-dedication-apg.md)
 
@@ -108,7 +108,7 @@ Your familiar's supernatural spirit has outgrown its corporeal body. You can con
 title: Incredible Familiar (Familiar Master), Feat 10
 collapse: closed
 # Incredible Familiar (Familiar Master)  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: Enhanced Familiar
 

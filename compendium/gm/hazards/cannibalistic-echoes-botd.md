@@ -7,7 +7,7 @@ tags:
 aliases: ["Cannibalistic Echoes"]
 ---
 # Cannibalistic Echoes *Hazard 16*  
-[haunt](rules/traits/haunt.md)  
+[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 42 master to sense something unusual lurking in the area's echoes  

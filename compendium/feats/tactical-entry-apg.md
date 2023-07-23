@@ -7,7 +7,7 @@ tags:
 aliases: ["Tactical Entry"]
 ---
 # Tactical Entry  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 8*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Prerequisites**: master in [Stealth](compendium/skills.md#Stealth)
 - **Requirements**: You rolled [Stealth](compendium/skills.md#Stealth) for initiative in this encounter, and neither you nor any enemies have acted yet in this encounter.

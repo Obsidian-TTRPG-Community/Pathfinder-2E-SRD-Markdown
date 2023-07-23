@@ -7,7 +7,7 @@ tags:
 aliases: ["Versatile Signature"]
 ---
 # Versatile Signature  *Feat 4*  
-[bard](rules/traits/bard.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  
 
 - **Prerequisites**: Polymath muse
 

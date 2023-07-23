@@ -12,7 +12,7 @@ tags:
 aliases: ["Rock-braced"]
 ---
 # Rock-braced *Item 13*  
-[abjuration](rules/traits/abjuration.md)  [dwarf](rules/traits/dwarf.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  [saggorak](rules/traits/saggorak-aoa4.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [dwarf](rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [saggorak](rules/traits/saggorak-aoa4.md "Saggorak  Trait")  
 
 - **Price** 3000 gp
 - **Usage** etched onto medium or heavy armor

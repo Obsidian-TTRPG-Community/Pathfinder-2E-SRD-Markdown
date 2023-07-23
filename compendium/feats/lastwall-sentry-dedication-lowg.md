@@ -9,7 +9,7 @@ tags:
 aliases: ["Lastwall Sentry Dedication"]
 ---
 # Lastwall Sentry Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: You are from the Eye of Dread region.
 - **Prerequisites**: member of the Knights of Lastwall, [Shield Block](compendium/feats/shield-block.md)

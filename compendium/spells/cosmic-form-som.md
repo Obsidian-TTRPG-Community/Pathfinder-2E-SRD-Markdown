@@ -9,9 +9,9 @@ tags:
 aliases: ["Cosmic Form"]
 ---
 # Cosmic Form *Spell 7*   
-[polymorph](rules/traits/polymorph.md)  [transmutation](rules/traits/transmutation.md)  
+[polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md), [primal](rules/traits/primal.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Duration**1 minute
 

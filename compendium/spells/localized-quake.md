@@ -13,7 +13,7 @@ tags:
 aliases: ["Localized Quake"]
 ---
 # Localized Quake *Focus 4*   
-[cleric](rules/traits/cleric.md)  [earth](rules/traits/earth.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Domains**: [earth](compendium/setting/domains.md#Earth)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

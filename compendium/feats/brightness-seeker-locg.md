@@ -7,14 +7,14 @@ tags:
 aliases: ["Brightness Seeker"]
 ---
 # Brightness Seeker  *Feat 9*  
-[elf](rules/traits/elf.md)  
+[elf](rules/traits/elf.md "Elf Ancestry & Heritage Trait")  
 
 
 Once per day, you can spend 10 minutes studying your surroundings in search of omens related to a particular course of action to cast [augury](compendium/spells/augury.md) as an innate divine spell. Unless the result of the [augury](compendium/spells/augury.md) was "nothing," you gain the following reaction for the next 30 minutes:
 
 ```ad-embed-ability
 title: Call Upon the Brightness [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[concentrate](rules/traits/concentrate.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
 
 - **Trigger**: You attempt an attack roll, skill check, or saving throw while performing the course of action from your augury, but you haven't rolled yet
 

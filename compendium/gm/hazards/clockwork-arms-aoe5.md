@@ -9,7 +9,7 @@ tags:
 aliases: ["Clockwork Arms"]
 ---
 # Clockwork Arms *Hazard 15*  
-[complex](rules/traits/complex.md)  [mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +30 expert  
@@ -43,7 +43,7 @@ If an arm already has a creature [grabbed](rules/conditions.md#Grabbed), the tra
 ```
 
 ```ad-inline-attack
-title: Melee [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Claw (28) ([reach <20 feet>](rules/traits/reach.md))
+title: Melee [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Claw (28) ([reach <20 feet>](rules/traits/reach-20-feet.md "Reach Weapon Trait"))
 **Damage** `3d10+15` slashing plus Grab 
  
 **Effects** Grab

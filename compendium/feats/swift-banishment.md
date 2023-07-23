@@ -7,7 +7,7 @@ tags:
 aliases: ["Swift Banishment"]
 ---
 # Swift Banishment  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 14*  
-[cleric](rules/traits/cleric.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  
 
 - **Trigger** You critically hit a creature that is not on its home plane.
 - **Requirements**: You have a [banishment](compendium/spells/banishment.md) spell prepared.

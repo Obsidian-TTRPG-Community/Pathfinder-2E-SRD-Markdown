@@ -7,7 +7,7 @@ tags:
 aliases: ["Improvised Repair"]
 ---
 # Improvised Repair  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 3*  
-[general](rules/traits/general.md)  
+[general](rules/traits/general.md "General Feat Trait")  
 
 - **Activity** Three-Action
 

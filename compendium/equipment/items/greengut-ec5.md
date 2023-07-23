@@ -11,7 +11,7 @@ tags:
 aliases: ["Greengut"]
 ---
 # Greengut *Item 17*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [poison](rules/traits/poison.md)  [uncommon](rules/traits/uncommon.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 2500 gp
 - **Usage** held in 1 hand; **Bulk** L

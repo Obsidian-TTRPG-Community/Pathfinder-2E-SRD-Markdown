@@ -8,9 +8,9 @@ tags:
 aliases: ["Time Pocket"]
 ---
 # Time Pocket *Spell 3*   
-[transmutation](rules/traits/transmutation.md)  
+[transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 1 minute 
 - **Range**touch
 - **Targets**one item of 1 Bulk or less that a willing creature is holding

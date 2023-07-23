@@ -7,7 +7,7 @@ tags:
 aliases: ["Basic Sorcerer Spellcasting"]
 ---
 # Basic Sorcerer Spellcasting  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Sorcerer Dedication](compendium/feats/sorcerer-dedication.md)
 

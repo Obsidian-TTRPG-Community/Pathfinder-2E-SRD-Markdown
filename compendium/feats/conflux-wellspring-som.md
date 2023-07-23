@@ -7,7 +7,7 @@ tags:
 aliases: ["Conflux Wellspring"]
 ---
 # Conflux Wellspring  *Feat 18*  
-[magus](rules/traits/magus-som.md)  
+[magus](rules/traits/magus-som.md "Magus Class Trait")  
 
 - **Prerequisites**: [Conflux Focus](compendium/feats/conflux-focus-som.md)
 

@@ -8,7 +8,7 @@ tags:
 aliases: ["Shield Spikes"]
 ---
 # Shield Spikes *Item 0*  
-[attached <to shield>](rules/traits/attached.md)  
+[attached <to shield>](rules/traits/attached-to-shield.md "Attached Weapon Trait")  
 
 - **Price** 5 sp
 - **Bulk** —

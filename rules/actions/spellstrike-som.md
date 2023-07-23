@@ -8,16 +8,16 @@ tags:
 aliases: ["Spellstrike"]
 ---
 # Spellstrike [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
-[magus](rules/traits/magus-som.md)  
+[magus](rules/traits/magus-som.md "Magus Class Trait")  
 *Source: Secrets of Magic p. 37*  
 
 **Class** magus
 - **Frequency**: until recharged (see below)
 - **Activity**: Two-Action
 
-You channel a spell into a punch or sword thrust to deliver a combined attack. You [Cast a Spell](rules/actions/cast-a-spell.md) that takes 1 or 2 actions to cast and requires a spell attack roll. The effects of the spell don't occur immediately but are imbued into your attack instead. Make a melee Strike with a weapon or unarmed attack. Your spell is coupled with your attack, using your attack roll result to determine the effects of both the Strike and the spell. This counts as two attacks for your multiple attack penalty, but you don't apply the penalty until after you've completed the Spellstrike. The infusion of spell energy grants your [Strike](rules/actions/strike.md) the [arcane](rules/traits/arcane.md) trait, making it [magical](rules/traits/magical.md).
+You channel a spell into a punch or sword thrust to deliver a combined attack. You [Cast a Spell](rules/actions/cast-a-spell.md) that takes 1 or 2 actions to cast and requires a spell attack roll. The effects of the spell don't occur immediately but are imbued into your attack instead. Make a melee Strike with a weapon or unarmed attack. Your spell is coupled with your attack, using your attack roll result to determine the effects of both the Strike and the spell. This counts as two attacks for your multiple attack penalty, but you don't apply the penalty until after you've completed the Spellstrike. The infusion of spell energy grants your [Strike](rules/actions/strike.md) the [arcane](rules/traits/arcane.md "Arcane Tradition Trait") trait, making it [magical](rules/traits/magical.md "Magical Item Trait").
 
-After you use Spellstrike, you can't do so again until you recharge your Spellstrike as a single action, which has the [concentrate](rules/traits/concentrate.md) trait. You also recharge your Spellstrike when you cast a conflux spell that takes at least 1 action to cast; casting a focus spell of another type doesn't recharge your Spellstrike.
+After you use Spellstrike, you can't do so again until you recharge your Spellstrike as a single action, which has the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") trait. You also recharge your Spellstrike when you cast a conflux spell that takes at least 1 action to cast; casting a focus spell of another type doesn't recharge your Spellstrike.
 
 **Spellstrike Specifics** Though the base [Spellstrike](rules/actions/spellstrike-som.md) rules cover most spells, various modifications apply to more complicated spells when loaded into your fist, blade, or other attack.
 

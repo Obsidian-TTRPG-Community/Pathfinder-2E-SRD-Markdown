@@ -10,7 +10,7 @@ tags:
 aliases: ["Pivot Strike"]
 ---
 # Pivot Strike  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 14*  
-[archetype](rules/traits/archetype.md)  [attack](rules/traits/attack.md)  [open](rules/traits/open.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [attack](rules/traits/attack.md "Attack Combat Trait")  [open](rules/traits/open.md "Open Combat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Staff Acrobat Dedication](compendium/feats/staff-acrobat-dedication-ec1.md)
 - **Requirements**: You are wielding your staff.

@@ -9,7 +9,7 @@ tags:
 aliases: ["Voicebox"]
 ---
 # Voicebox *Item 0*  
-[illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 5 sp
 - **Usage** worn necklace; **Bulk** —

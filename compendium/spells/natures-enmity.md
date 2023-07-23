@@ -9,9 +9,9 @@ tags:
 aliases: ["Nature's Enmity"]
 ---
 # Nature's Enmity *Spell 9*   
-[enchantment](rules/traits/enchantment.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md)
+- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**120 foot
 - **Area**500-foot burst

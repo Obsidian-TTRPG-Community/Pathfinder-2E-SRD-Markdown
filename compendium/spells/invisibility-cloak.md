@@ -10,7 +10,7 @@ tags:
 aliases: ["Invisibility Cloak"]
 ---
 # Invisibility Cloak *Focus 4*   
-[illusion](rules/traits/illusion.md)  [uncommon](rules/traits/uncommon.md)  [wizard](rules/traits/wizard.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Duration**1 minute

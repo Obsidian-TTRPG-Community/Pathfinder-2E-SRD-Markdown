@@ -10,9 +10,9 @@ tags:
 aliases: ["Rope Trick"]
 ---
 # Rope Trick *Spell 4*   
-[conjuration](rules/traits/conjuration.md)  [extradimensional](rules/traits/extradimensional.md)  [uncommon](rules/traits/uncommon.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [extradimensional](rules/traits/extradimensional.md "Extradimensional Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 10 minutes 
 - **Range**touch
 - **Targets**1 touched piece of rope from 5 to 30 feet long

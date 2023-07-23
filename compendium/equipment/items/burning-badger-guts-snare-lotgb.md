@@ -13,7 +13,7 @@ tags:
 aliases: ["Burning Badger Guts Snare"]
 ---
 # Burning Badger Guts Snare *Item 10*  
-[consumable](rules/traits/consumable.md)  [fire](rules/traits/fire.md)  [mechanical](rules/traits/mechanical.md)  [snare](rules/traits/snare.md)  [trap](rules/traits/trap.md)  [uncommon](rules/traits/uncommon.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [snare](rules/traits/snare.md "Snare Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 170 gp
 - **Category** Snare

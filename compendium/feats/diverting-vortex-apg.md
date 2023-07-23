@@ -7,7 +7,7 @@ tags:
 aliases: ["Diverting Vortex"]
 ---
 # Diverting Vortex  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[sorcerer](rules/traits/sorcerer.md)  
+[sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 - **Requirements**: Your most recent action was to cast a noncantrip spell.
 - **Activity** Single Action

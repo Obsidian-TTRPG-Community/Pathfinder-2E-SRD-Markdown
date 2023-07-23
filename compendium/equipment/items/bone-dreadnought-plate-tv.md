@@ -8,7 +8,7 @@ tags:
 aliases: ["Bone Dreadnought Plate"]
 ---
 # Bone Dreadnought Plate *Item 10*  
-[alchemical](rules/traits/alchemical.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  
 
 - **Price** 1000 gp
 - **Usage** worn armor; **Bulk** 5

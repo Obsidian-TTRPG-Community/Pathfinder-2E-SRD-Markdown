@@ -7,7 +7,7 @@ tags:
 aliases: ["Protective Subroutine"]
 ---
 # Protective Subroutine  *Feat 5*  
-[android](rules/traits/android-loag.md)  
+[android](rules/traits/android-loag.md "Android Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Nanite Surge](compendium/feats/nanite-surge-loag.md)
 

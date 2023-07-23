@@ -10,7 +10,7 @@ tags:
 aliases: ["Shock"]
 ---
 # Shock *Item 8+*  
-[electricity](rules/traits/electricity.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  
+[electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Usage** etched onto a weapon
 - **Category** Rune

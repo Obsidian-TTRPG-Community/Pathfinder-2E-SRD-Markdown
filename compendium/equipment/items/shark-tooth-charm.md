@@ -11,7 +11,7 @@ tags:
 aliases: ["Shark Tooth Charm"]
 ---
 # Shark Tooth Charm *Item 5*  
-[abjuration](rules/traits/abjuration.md)  [consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [talisman](rules/traits/talisman.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  
 
 - **Price** 23 gp
 - **Usage** affixed to armor; **Bulk** —

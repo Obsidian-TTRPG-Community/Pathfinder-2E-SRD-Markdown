@@ -10,7 +10,7 @@ tags:
 aliases: ["Immortal Bastion"]
 ---
 # Immortal Bastion *Item 20*  
-[abjuration](rules/traits/abjuration.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 70000 gp
 - **Usage** worn armor; **Bulk** 5
@@ -21,7 +21,7 @@ This impressive +3 greater resilient greater fortification bastion plate is buil
 ```ad-embed-ability
 title: Activate [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
-- **Trigger**: You are reduced to 0 Hit Points or would die from a [death](rules/traits/death.md) effect
+- **Trigger**: You are reduced to 0 Hit Points or would die from a [death](rules/traits/death.md "Death Effect Trait") effect
 
 **Effect** You drop to 1 Hit Point instead of being reduced to 0 HP or [dying](rules/conditions.md#Dying), and you gain 100 temporary Hit Points that last until the start of your next turn.
 ```

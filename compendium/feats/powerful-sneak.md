@@ -7,7 +7,7 @@ tags:
 aliases: ["Powerful Sneak"]
 ---
 # Powerful Sneak  *Feat 18*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 
 You have learned to exploit your enemies' lowered defenses. When you succeed or critically succeed at a [Strike](rules/actions/strike.md) using your Strength modifier on the attack roll and you would deal sneak attack damage, you can change the additional damage from sneak attack into ordinary damage of the same type as your [Strike](rules/actions/strike.md), rather than precision damage.

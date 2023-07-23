@@ -8,7 +8,7 @@ tags:
 aliases: ["Thief's Trap"]
 ---
 # Thief's Trap *Hazard 20*  
-[magical](rules/traits/magical.md)  [trap](rules/traits/trap.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 50 master to notice that the hairline cracks on the passage walls actually form runes.  

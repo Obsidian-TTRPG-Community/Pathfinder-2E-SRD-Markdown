@@ -9,7 +9,7 @@ tags:
 aliases: ["Treat Disease"]
 ---
 # Treat Disease (basic) [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Duration or Frequency")
-[downtime](rules/traits/downtime.md)  [manipulate](rules/traits/manipulate.md)  
+[downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 *Source: Core Rulebook p. 248*  
 
 **Skill** [medicine](compendium/skills.md#Medicine) (trained)

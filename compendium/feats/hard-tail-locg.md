@@ -7,7 +7,7 @@ tags:
 aliases: ["Hard Tail"]
 ---
 # Hard Tail  *Feat 1*  
-[goblin](rules/traits/goblin.md)  
+[goblin](rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  
 
 - **Prerequisites**: tailed goblin heritage
 

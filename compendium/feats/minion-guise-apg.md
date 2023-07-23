@@ -9,7 +9,7 @@ tags:
 aliases: ["Minion Guise"]
 ---
 # Minion Guise  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  [social](rules/traits/social-apg.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  [social](rules/traits/social-apg.md "Social Feat Trait")  
 
 - **Prerequisites**: animal companion or familiar, expert in [Deception](compendium/skills.md#Deception), [Vigilante Dedication](compendium/feats/vigilante-dedication-apg.md)
 

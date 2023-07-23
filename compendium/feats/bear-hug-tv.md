@@ -7,7 +7,7 @@ tags:
 aliases: ["Bear Hug"]
 ---
 # Bear Hug  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Requirements**: Your last action was a successful claw [Strike](rules/actions/strike.md).
 - **Activity** Single Action

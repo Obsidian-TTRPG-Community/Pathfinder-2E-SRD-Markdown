@@ -7,7 +7,7 @@ tags:
 aliases: ["Grippli Weapon Expertise"]
 ---
 # Grippli Weapon Expertise  *Feat 13*  
-[grippli](rules/traits/grippli-b2.md)  
+[grippli](rules/traits/grippli-b2.md "Grippli Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Grippli Weapon Familiarity](compendium/feats/grippli-weapon-familiarity-lome.md)
 

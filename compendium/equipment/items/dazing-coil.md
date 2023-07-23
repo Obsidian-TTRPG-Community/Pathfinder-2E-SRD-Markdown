@@ -11,7 +11,7 @@ tags:
 aliases: ["Dazing Coil"]
 ---
 # Dazing Coil *Item 14*  
-[consumable](rules/traits/consumable.md)  [enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [talisman](rules/traits/talisman.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  
 
 - **Price** 900 gp
 - **Usage** affixed to a weapon; **Bulk** —

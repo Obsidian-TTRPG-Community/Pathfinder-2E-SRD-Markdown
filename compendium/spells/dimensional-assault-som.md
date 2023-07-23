@@ -11,7 +11,7 @@ tags:
 aliases: ["Dimensional Assault"]
 ---
 # Dimensional Assault *Focus 1*   
-[conjuration](rules/traits/conjuration.md)  [magus](rules/traits/magus-som.md)  [teleportation](rules/traits/teleportation.md)  [uncommon](rules/traits/uncommon.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magus](rules/traits/magus-som.md "Magus Class Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**half your Speed

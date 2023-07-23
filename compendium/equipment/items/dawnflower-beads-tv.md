@@ -13,7 +13,7 @@ tags:
 aliases: ["Dawnflower Beads"]
 ---
 # Dawnflower Beads *Item 11*  
-[divine](rules/traits/divine.md)  [healing](rules/traits/healing.md)  [intelligent](rules/traits/intelligent-gmg.md)  [necromancy](rules/traits/necromancy.md)  [positive](rules/traits/positive.md)  [rare](rules/traits/rare.md)  
+[divine](rules/traits/divine.md "Divine Tradition Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [intelligent](rules/traits/intelligent-gmg.md "Intelligent Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** held in 1 hand; **Bulk** —
 - **Category** Held

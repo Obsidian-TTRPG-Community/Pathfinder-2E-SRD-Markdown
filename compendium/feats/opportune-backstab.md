@@ -7,7 +7,7 @@ tags:
 aliases: ["Opportune Backstab"]
 ---
 # Opportune Backstab  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Trigger** A creature within your melee reach is hit by a melee attack from one of your allies.
 - **Activity** Reaction

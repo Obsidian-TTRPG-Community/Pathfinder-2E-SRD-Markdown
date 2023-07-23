@@ -12,13 +12,13 @@ tags:
 - domain/protection/deity
 aliases: ["Hearth and Harvest"]
 ---
-# Hearth and Harvest *([NG](rules/traits/neutral-good-b1.md))*  
+# Hearth and Harvest *([NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"))*  
 *Source: Lost Omens: Travel Guide p. 93*  
 
 - **Category**: Pantheon
 - **Anathema**: allow harm to come to children, destroy shelter, refuse to provide for the family or community
 - **Areas of Concern**: community, , harvest, , home, , protection of family and children
-- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [NG](rules/traits/neutral-good-b1.md), [CG](rules/traits/chaotic-good-b1.md)
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")
 
 ## Devotee benefits
 

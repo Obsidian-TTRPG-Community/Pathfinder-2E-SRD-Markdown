@@ -11,7 +11,7 @@ tags:
 aliases: ["Potion of Water Breathing"]
 ---
 # Potion of Water Breathing *Item 3*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [potion](rules/traits/potion.md)  [transmutation](rules/traits/transmutation.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [potion](rules/traits/potion.md "Potion Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 11 gp
 - **Usage** held in 1 hand; **Bulk** L

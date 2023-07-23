@@ -11,7 +11,7 @@ tags:
 aliases: ["Archivist's Gaze"]
 ---
 # Archivist's Gaze *Item 18*  
-[apex](rules/traits/apex.md)  [divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+[apex](rules/traits/apex.md "Apex Item Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 24000 gp
 - **Usage** worn eyepiece

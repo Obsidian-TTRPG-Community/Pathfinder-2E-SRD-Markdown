@@ -10,9 +10,9 @@ tags:
 aliases: ["Repelling Pulse"]
 ---
 # Repelling Pulse *Spell 5*   
-[evocation](rules/traits/evocation.md)  [force](rules/traits/force.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md), [occult](rules/traits/occult.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**30-foot emanation
 - **Saving Throw** Reflex

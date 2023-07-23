@@ -7,7 +7,7 @@ tags:
 aliases: ["Accursed Magic"]
 ---
 # Accursed Magic  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Curse Maelstrom Dedication](compendium/feats/curse-maelstrom-dedication-da.md)
 

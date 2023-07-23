@@ -7,7 +7,7 @@ tags:
 aliases: ["Gecko's Grip"]
 ---
 # Gecko's Grip  *Feat 5*  
-[lizardfolk](rules/traits/lizardfolk-b1.md)  
+[lizardfolk](rules/traits/lizardfolk-b1.md "Lizardfolk Ancestry & Heritage Trait")  
 
 - **Prerequisites**: cliffscale lizardfolk
 

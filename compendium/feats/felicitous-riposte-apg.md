@@ -8,7 +8,7 @@ tags:
 aliases: ["Felicitous Riposte"]
 ---
 # Felicitous Riposte  *Feat 16*  
-[fortune](rules/traits/fortune.md)  [swashbuckler](rules/traits/swashbuckler-apg.md)  
+[fortune](rules/traits/fortune.md "Fortune Effect Trait")  [swashbuckler](rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  
 
 
 You take advantage of your foe's openings with uncanny odds. When you make an [Opportune Riposte](rules/actions/opportune-riposte-apg.md), roll twice on the attack roll and take the better result.

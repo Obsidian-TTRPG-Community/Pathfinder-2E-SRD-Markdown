@@ -11,7 +11,7 @@ tags:
 aliases: ["Arrow Attracting"]
 ---
 # Arrow Attracting *Item 8*  
-[abjuration](rules/traits/abjuration.md)  [cursed](rules/traits/cursed-gmg.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** curses armor or shield
 - **Category** Curse

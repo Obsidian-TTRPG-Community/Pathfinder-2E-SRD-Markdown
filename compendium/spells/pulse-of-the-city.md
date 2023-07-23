@@ -11,7 +11,7 @@ tags:
 aliases: ["Pulse Of The City"]
 ---
 # Pulse Of The City *Focus 4*   
-[cleric](rules/traits/cleric.md)  [divination](rules/traits/divination.md)  [scrying](rules/traits/scrying.md)  [uncommon](rules/traits/uncommon.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [scrying](rules/traits/scrying.md "Scrying Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Domains**: [cities](compendium/setting/domains.md#Cities)
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 

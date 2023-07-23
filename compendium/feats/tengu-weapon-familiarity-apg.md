@@ -7,7 +7,7 @@ tags:
 aliases: ["Tengu Weapon Familiarity"]
 ---
 # Tengu Weapon Familiarity  *Feat 1*  
-[tengu](rules/traits/tengu-b1.md)  
+[tengu](rules/traits/tengu-b1.md "Tengu Ancestry & Heritage Trait")  
 
 
 You've trained with a blade and other tengu weapons ever since you hatched. You gain access to [khakkaras](compendium/equipment/items/khakkara-apg.md). Additionally, choose two weapons from the sword group. You can choose from among all common martial swords, plus the [katana](compendium/equipment/items/katana.md), [temple sword](compendium/equipment/items/temple-sword.md), and [wakizashi](compendium/equipment/items/wakizashi-apg.md). For the purpose of determining your proficiency, that weapon is a simple weapon, and if the weapon isn't common, you gain access to it. If you are trained in all martial weapons, you add common advanced swords to the swords you can choose from.

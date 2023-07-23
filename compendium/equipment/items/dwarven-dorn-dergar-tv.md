@@ -11,7 +11,7 @@ tags:
 aliases: ["Dwarven Dorn-dergar"]
 ---
 # Dwarven Dorn-dergar *Item 0*  
-[dwarf](rules/traits/dwarf.md)  [razing](rules/traits/razing-tv.md)  [reach](rules/traits/reach.md)  [uncommon](rules/traits/uncommon.md)  
+[dwarf](rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  [razing](rules/traits/razing-tv.md "Razing Weapon Trait")  [reach](rules/traits/reach.md "Reach Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 8 gp
 - **Bulk** 2

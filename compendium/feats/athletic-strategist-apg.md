@@ -7,7 +7,7 @@ tags:
 aliases: ["Athletic Strategist"]
 ---
 # Athletic Strategist  *Feat 2*  
-[investigator](rules/traits/investigator-apg.md)  
+[investigator](rules/traits/investigator-apg.md "Investigator Class Trait")  
 
 - **Prerequisites**: trained in [Athletics](compendium/skills.md#Athletics)
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Improved Knockdown"]
 ---
 # Improved Knockdown  *Feat 10*  
-[fighter](rules/traits/fighter.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 - **Prerequisites**: [Knockdown](compendium/feats/knockdown.md)
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Iruxi Unarmed Cunning"]
 ---
 # Iruxi Unarmed Cunning  *Feat 5*  
-[lizardfolk](rules/traits/lizardfolk-b1.md)  
+[lizardfolk](rules/traits/lizardfolk-b1.md "Lizardfolk Ancestry & Heritage Trait")  
 
 
 You make the most of your iruxi unarmed attacks. Whenever you score a critical hit with a claw or an unarmed attack you gained from a lizardfolk ancestry feat, you apply the unarmed attack's critical specialization effect.

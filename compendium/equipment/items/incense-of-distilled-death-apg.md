@@ -11,7 +11,7 @@ tags:
 aliases: ["Incense Of Distilled Death"]
 ---
 # Incense Of Distilled Death *Item 12*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [negative](rules/traits/negative.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  
 
 - **Price** 350 gp
 - **Usage** held in 1 hands

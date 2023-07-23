@@ -10,9 +10,9 @@ tags:
 aliases: ["Gray Shadow"]
 ---
 # Gray Shadow *Spell 6*   
-[necromancy](rules/traits/necromancy.md)  [shadow](rules/traits/shadow.md)  [uncommon](rules/traits/uncommon.md)  
+[necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [shadow](rules/traits/shadow.md "Shadow General Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**30 foot
 - **Targets**1 [dying](rules/conditions.md#Dying) creature

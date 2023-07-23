@@ -11,7 +11,7 @@ tags:
 aliases: ["Toolkit of Bronze Whispers"]
 ---
 # Toolkit of Bronze Whispers *Item 5*  
-[divine](rules/traits/divine.md)  [intelligent](rules/traits/intelligent-gmg.md)  [rare](rules/traits/rare.md)  [transmutation](rules/traits/transmutation.md)  
+[divine](rules/traits/divine.md "Divine Tradition Trait")  [intelligent](rules/traits/intelligent-gmg.md "Intelligent Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Usage** held in 2 hands; **Bulk** 2
 - **Category** Held

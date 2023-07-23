@@ -7,7 +7,7 @@ tags:
 aliases: ["Castigating Weapon"]
 ---
 # Castigating Weapon  *Feat 10*  
-[cleric](rules/traits/cleric.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  
 
 - **Prerequisites**: [Holy Castigation](compendium/feats/holy-castigation.md)
 

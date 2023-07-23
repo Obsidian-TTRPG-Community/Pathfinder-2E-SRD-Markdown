@@ -11,7 +11,7 @@ tags:
 aliases: ["Voice from the Grave"]
 ---
 # Voice from the Grave *Item 10*  
-[magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  [necromancy](rules/traits/necromancy.md)  [uncommon](rules/traits/uncommon.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1700 gp
 - **Usage** held in 1 hand; **Bulk** L

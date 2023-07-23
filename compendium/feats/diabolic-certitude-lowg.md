@@ -8,7 +8,7 @@ tags:
 aliases: ["Diabolic Certitude"]
 ---
 # Diabolic Certitude  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Hellknight Armiger Dedication](compendium/feats/hellknight-armiger-dedication-lowg.md)
 - **Trigger** Your turn begins and you can observe a devil.

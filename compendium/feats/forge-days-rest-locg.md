@@ -8,7 +8,7 @@ tags:
 aliases: ["Forge-day's Rest"]
 ---
 # Forge-day's Rest  *Feat 1*  
-[dwarf](rules/traits/dwarf.md)  [uncommon](rules/traits/uncommon.md)  
+[dwarf](rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: underground dwarf ethnicity
 

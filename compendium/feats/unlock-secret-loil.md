@@ -7,7 +7,7 @@ tags:
 aliases: ["Unlock Secret"]
 ---
 # Unlock Secret  *Feat 5*  
-[kashrishi](rules/traits/kashrishi-loil.md)  
+[kashrishi](rules/traits/kashrishi-loil.md "Kashrishi Ancestry & Heritage Trait")  
 
 - **Prerequisites**: Open Mind
 

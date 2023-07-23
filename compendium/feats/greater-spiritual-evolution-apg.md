@@ -7,7 +7,7 @@ tags:
 aliases: ["Greater Spiritual Evolution"]
 ---
 # Greater Spiritual Evolution  *Feat 12*  
-[sorcerer](rules/traits/sorcerer.md)  
+[sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 - **Prerequisites**: [Divine Evolution](compendium/feats/divine-evolution.md) or [Occult Evolution](compendium/feats/occult-evolution.md)
 

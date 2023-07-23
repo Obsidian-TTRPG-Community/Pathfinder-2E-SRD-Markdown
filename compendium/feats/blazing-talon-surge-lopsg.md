@@ -9,7 +9,7 @@ tags:
 aliases: ["Blazing Talon Surge"]
 ---
 # Blazing Talon Surge  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 6*  
-[fire](rules/traits/fire.md)  [flourish](rules/traits/flourish.md)  [monk](rules/traits/monk.md)  
+[fire](rules/traits/fire.md "Fire Energy & Element Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Prerequisites**: [Rain of Embers Stance](compendium/feats/rain-of-embers-stance-lopsg.md)
 - **Requirements**: You are in Rain of Embers Stance.

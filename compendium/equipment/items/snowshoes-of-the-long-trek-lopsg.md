@@ -10,7 +10,7 @@ tags:
 aliases: ["Snowshoes Of The Long Trek"]
 ---
 # Snowshoes Of The Long Trek *Item 5*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 550 gp
 - **Usage** worn; **Bulk** –

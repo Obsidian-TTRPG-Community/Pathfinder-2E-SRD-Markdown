@@ -8,7 +8,7 @@ tags:
 aliases: ["Remote Trigger"]
 ---
 # Remote Trigger *Item 5*  
-[alchemical](rules/traits/alchemical.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  
 
 - **Price** 125 gp
 - **Usage** held in 1 hand; **Bulk** L

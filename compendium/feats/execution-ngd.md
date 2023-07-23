@@ -8,7 +8,7 @@ tags:
 aliases: ["Execution"]
 ---
 # Execution  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 14*  
-[archetype](rules/traits/archetype.md)  [vigilante](rules/traits/vigilante-apg.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [vigilante](rules/traits/vigilante-apg.md "Vigilante Feat Trait")  
 
 - **Prerequisites**: [Harsh Judgment](compendium/feats/harsh-judgment-ngd.md), [Vigilante Dedication](compendium/feats/vigilante-dedication-apg.md), member of the Gray Gardeners
 - **Requirements**: You have condemned a foe with [Harsh Judgment](compendium/feats/harsh-judgment-ngd.md).

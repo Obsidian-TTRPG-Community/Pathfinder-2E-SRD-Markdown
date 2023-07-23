@@ -8,7 +8,7 @@ tags:
 aliases: ["Daemonic Fog"]
 ---
 # Daemonic Fog *Hazard 10*  
-[environmental](rules/traits/environmental.md)  [magical](rules/traits/magical.md)  
+[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 30 expert  
@@ -19,7 +19,7 @@ The fog solidifies into tiny, gnawing creatures that devour everyone within befo
      
 ```ad-embed-ability
 title: Gnawing Fog [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[divine](rules/traits/divine.md)  [evocation](rules/traits/evocation.md)  
+[divine](rules/traits/divine.md "Divine Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
 - **Trigger**: A creature crosses the cavern's midpoint (the dotted line on the map)
 

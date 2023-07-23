@@ -7,7 +7,7 @@ tags:
 aliases: ["Maker Of Miracles"]
 ---
 # Maker Of Miracles  *Feat 20*  
-[cleric](rules/traits/cleric.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  
 
 - **Prerequisites**: miraculous spell
 

@@ -9,7 +9,7 @@ tags:
 aliases: ["Perfect Finisher"]
 ---
 # Perfect Finisher  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 14*  
-[finisher](rules/traits/finisher-apg.md)  [fortune](rules/traits/fortune.md)  [swashbuckler](rules/traits/swashbuckler-apg.md)  
+[finisher](rules/traits/finisher-apg.md "Finisher Combat Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  [swashbuckler](rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  
 
 - **Activity** Single Action
 

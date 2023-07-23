@@ -7,7 +7,7 @@ tags:
 aliases: ["Soothing Ballad"]
 ---
 # Soothing Ballad  *Feat 14*  
-[bard](rules/traits/bard.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  
 
 
 You soothe your allies' wounds with the power of your performance. You learn the [soothing ballad](compendium/spells/soothing-ballad.md) composition spell. Increase the number of Focus Points in your focus pool by 1.

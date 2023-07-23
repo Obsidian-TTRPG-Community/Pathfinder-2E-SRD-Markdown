@@ -7,7 +7,7 @@ tags:
 aliases: ["Familiar Mascot"]
 ---
 # Familiar Mascot  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Familiar Master Dedication](compendium/feats/familiar-master-dedication-apg.md)
 

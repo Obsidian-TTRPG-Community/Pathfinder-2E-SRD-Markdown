@@ -9,7 +9,7 @@ tags:
 aliases: ["Elemental Sentinel"]
 ---
 # Elemental Sentinel *Ritual 1*  
-[conjuration](rules/traits/conjuration.md)  [uncommon](rules/traits/uncommon.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** 1 day
 - **Cost** precious metals, rare incense, and herbs worth a total value of 15 gp per spell level

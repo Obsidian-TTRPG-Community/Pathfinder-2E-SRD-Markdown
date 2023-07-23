@@ -7,7 +7,7 @@ tags:
 aliases: ["Revivification Protocol"]
 ---
 # Revivification Protocol  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 13*  
-[android](rules/traits/android-loag.md)  
+[android](rules/traits/android-loag.md "Android Ancestry & Heritage Trait")  
 
 - **Frequency**: once per day
 - **Trigger** You have the [dying](rules/conditions.md#Dying) condition and are about to attempt a recovery check.

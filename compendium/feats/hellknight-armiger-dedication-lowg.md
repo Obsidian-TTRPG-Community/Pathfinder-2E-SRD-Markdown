@@ -9,7 +9,7 @@ tags:
 aliases: ["Hellknight Armiger Dedication"]
 ---
 # Hellknight Armiger Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: You are from Old Cheliax.
 - **Prerequisites**: member of a Hellknight order, trained in heavy armor as well as your order's favored weapon

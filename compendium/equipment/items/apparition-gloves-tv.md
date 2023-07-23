@@ -9,7 +9,7 @@ tags:
 aliases: ["Apparition Gloves"]
 ---
 # Apparition Gloves *Item 2*  
-[illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 25 gp
 - **Usage** worn gloves; **Bulk** L

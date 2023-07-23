@@ -8,7 +8,7 @@ tags:
 aliases: ["Swarmsense"]
 ---
 # Swarmsense *Focus 1*   
-[divination](rules/traits/divination.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  
 
 - **Domains**: [swarm](compendium/setting/domains.md#Swarm)
 - **Cast** 1 minute 

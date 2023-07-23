@@ -8,7 +8,7 @@ tags:
 aliases: ["Eternal Flame"]
 ---
 # Eternal Flame *Hazard 7*  
-[complex](rules/traits/complex.md)  [haunt](rules/traits/haunt.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +18 expert  
@@ -19,7 +19,7 @@ A raging spectral inferno arises out of thin air, strengthening all undead creat
      
 ```ad-embed-ability
 title: Searing Agony [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[divination](rules/traits/divination.md)  [mental](rules/traits/mental.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 - **Trigger**: A living creature approaches within 10 feet of the remains of a victim of the original fire
 
@@ -37,7 +37,7 @@ title: Searing Agony [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actio
 title: Routine
 (1 action) Phantom flames rage across the haunted area, dealing `4d6` fire damage to each living creature within the area (DC 23 basic Will save). Undead creatures in the area are infused with flames for the following round.
 
-They gain the [fire](rules/traits/fire.md) trait and immunity to fire, and all their attacks deal an additional `1d6` fire damage. Objects in the area are unaffected.
+They gain the [fire](rules/traits/fire.md "Fire Energy & Element Trait") trait and immunity to fire, and all their attacks deal an additional `1d6` fire damage. Objects in the area are unaffected.
 ```
 ^routine
 

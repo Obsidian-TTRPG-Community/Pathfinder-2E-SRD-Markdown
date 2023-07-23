@@ -8,7 +8,7 @@ tags:
 aliases: ["Delay Consequence"]
 ---
 # Delay Consequence *Focus 1*   
-[abjuration](rules/traits/abjuration.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  
 
 - **Domains**: [time](compendium/setting/domains.md#Time)
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 

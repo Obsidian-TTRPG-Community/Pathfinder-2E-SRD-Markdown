@@ -7,7 +7,7 @@ tags:
 aliases: ["Brawling Focus"]
 ---
 # Brawling Focus  *Feat 2*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 
 You know how to make the most of your attacks when fighting hand-to-hand. You gain access to the critical specialization effects of unarmed strikes in the brawling group and weapons in the brawling group. If you have [Monastic Weaponry](compendium/feats/monastic-weaponry.md), you also gain the critical specialization effects of all monk weapons in which you are trained.

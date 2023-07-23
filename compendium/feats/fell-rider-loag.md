@@ -7,7 +7,7 @@ tags:
 aliases: ["Fell Rider"]
 ---
 # Fell Rider  *Feat 9*  
-[hobgoblin](rules/traits/hobgoblin-locg.md)  
+[hobgoblin](rules/traits/hobgoblin-locg.md "Hobgoblin Ancestry & Heritage Trait")  
 
 - **Prerequisites**: animal companion
 

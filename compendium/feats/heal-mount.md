@@ -7,7 +7,7 @@ tags:
 aliases: ["Heal Mount"]
 ---
 # Heal Mount  *Feat 8*  
-[champion](rules/traits/champion.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  
 
 - **Prerequisites**: divine ally (steed)
 

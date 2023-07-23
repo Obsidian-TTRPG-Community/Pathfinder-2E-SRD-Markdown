@@ -10,7 +10,7 @@ tags:
 aliases: ["Consume Energy"]
 ---
 # Consume Energy  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 2*  
-[abjuration](rules/traits/abjuration.md)  [deviant](rules/traits/deviant-da.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [deviant](rules/traits/deviant-da.md "Deviant Action & Ability Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Trigger** An enemy within 60 feet uses an ability that has the trait corresponding to your deviation damage type.
 - **Activity** Reaction

@@ -10,7 +10,7 @@ tags:
 aliases: ["Everstand Strike"]
 ---
 # Everstand Strike  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[champion](rules/traits/champion.md)  [fighter](rules/traits/fighter.md)  [press](rules/traits/press.md)  [uncommon](rules/traits/uncommon.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  [fighter](rules/traits/fighter.md "Fighter Class Trait")  [press](rules/traits/press.md "Press Combat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Everstand Stance](compendium/feats/everstand-stance-locg.md)
 - **Requirements**: You are wielding a shield in two hands.

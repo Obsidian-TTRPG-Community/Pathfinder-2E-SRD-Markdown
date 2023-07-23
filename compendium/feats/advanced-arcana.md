@@ -7,7 +7,7 @@ tags:
 aliases: ["Advanced Arcana"]
 ---
 # Advanced Arcana  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Arcana](compendium/feats/basic-arcana.md)
 

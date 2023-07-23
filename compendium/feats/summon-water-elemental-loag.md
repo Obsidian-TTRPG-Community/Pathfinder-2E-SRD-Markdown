@@ -7,7 +7,7 @@ tags:
 aliases: ["Summon Water Elemental"]
 ---
 # Summon Water Elemental  *Feat 13*  
-[undine](rules/traits/undine-b2.md)  
+[undine](rules/traits/undine-b2.md "Undine Ancestry & Heritage Trait")  
 
 
 You can summon an elemental ally. Once per day, you can cast [summon elemental](compendium/spells/summon-elemental.md) as a 5th-level primal innate spell, but the elemental summoned must be a water elemental.

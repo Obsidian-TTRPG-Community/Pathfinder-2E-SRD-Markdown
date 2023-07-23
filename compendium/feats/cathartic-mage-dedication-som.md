@@ -9,7 +9,7 @@ tags:
 aliases: ["Cathartic Mage Dedication"]
 ---
 # Cathartic Mage Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: Cha 14 or ability to cast spells from spell slots
 
@@ -25,7 +25,7 @@ You gain the Catharsis reaction and the Settle Emotions activity.
 
 ```ad-embed-ability
 title: Catharsis [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[concentrate](rules/traits/concentrate.md)  [emotion](rules/traits/emotion.md)  [mental](rules/traits/mental.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 - **Trigger**: determined by your catharsis emotion
 
@@ -35,7 +35,7 @@ title: Catharsis [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "
 
 ```ad-embed-ability
 title: Settle Emotions
-[concentrate](rules/traits/concentrate.md)  [emotion](rules/traits/emotion.md)  [mental](rules/traits/mental.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 You spend 10 minutes using techniques you've developed to calm your emotions and bring them back under control. This allows you to access your Catharsis again.  
 %% #trait/concentrate #trait/emotion #trait/mental %%

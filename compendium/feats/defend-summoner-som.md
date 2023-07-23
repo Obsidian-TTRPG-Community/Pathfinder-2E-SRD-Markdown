@@ -9,7 +9,7 @@ tags:
 aliases: ["Defend Summoner"]
 ---
 # Defend Summoner  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[eidolon](rules/traits/eidolon-som.md)  [evolution](rules/traits/evolution-som.md)  [summoner](rules/traits/summoner-som.md)  
+[eidolon](rules/traits/eidolon-som.md "Eidolon Creature Type Trait")  [evolution](rules/traits/evolution-som.md "Evolution Feat Trait")  [summoner](rules/traits/summoner-som.md "Summoner Class Trait")  
 
 - **Activity** Single Action
 

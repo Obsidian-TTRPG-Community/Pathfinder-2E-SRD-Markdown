@@ -11,7 +11,7 @@ tags:
 aliases: ["Eye Slash"]
 ---
 # Eye Slash *Item 1+*  
-[divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [tattoo](rules/traits/tattoo-lowg.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [tattoo](rules/traits/tattoo-lowg.md "Tattoo Item Trait")  
 
 - **Usage** tattooed on the body; **Bulk** —
 - **Category** Tattoo

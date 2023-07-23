@@ -12,7 +12,7 @@ aliases: ["Curse of Biting Swarms"]
 ---
 # Curse of Biting Swarms
 *Curse 5*  
-[curse](rules/traits/curse.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+[curse](rules/traits/curse.md "Curse Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 You emit a deathlike stench that attracts swarms of carrion-eating insects.
 

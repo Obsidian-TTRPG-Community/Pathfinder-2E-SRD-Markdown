@@ -10,7 +10,7 @@ tags:
 aliases: ["Gorilla Pound"]
 ---
 # Gorilla Pound  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[emotion](rules/traits/emotion.md)  [flourish](rules/traits/flourish.md)  [mental](rules/traits/mental.md)  [monk](rules/traits/monk.md)  
+[emotion](rules/traits/emotion.md "Emotion Effect Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Prerequisites**: expert in [Intimidation](compendium/skills.md#Intimidation), [Gorilla Stance](compendium/feats/gorilla-stance-apg.md)
 - **Requirements**: You are in Gorilla Stance.

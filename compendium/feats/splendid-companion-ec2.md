@@ -8,7 +8,7 @@ tags:
 aliases: ["Splendid Companion"]
 ---
 # Splendid Companion  *Feat 12*  
-[archetype](rules/traits/archetype.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Mature Trained Companion](compendium/feats/mature-trained-companion-ec2.md)
 

@@ -9,9 +9,9 @@ tags:
 aliases: ["Cast Into Time"]
 ---
 # Cast Into Time *Spell 6*   
-[divination](rules/traits/divination.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**15-foot cone
 - **Saving Throw** Fortitude

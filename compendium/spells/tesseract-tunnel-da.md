@@ -12,12 +12,12 @@ tags:
 aliases: ["Tesseract Tunnel"]
 ---
 # Tesseract Tunnel *Cantrip 5*   
-[cantrip](rules/traits/cantrip.md)  [conjuration](rules/traits/conjuration.md)  [psychic](rules/traits/psychic-da.md)  [teleportation](rules/traits/teleportation.md)  [uncommon](rules/traits/uncommon.md)  
+[cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Duration**sustained up to 1 minute
 
-You race from point to point, tearing open a tunnel in space. You create a portal in your current space and then [Stride](rules/actions/stride.md), creating another portal in the space you end your [Stride](rules/actions/stride.md). Until the beginning of your next turn, any creature that enters the first portal can immediately transport itself to the exit portal as part of its move action, which adds the [teleportation](rules/traits/teleportation.md) trait to its movement.
+You race from point to point, tearing open a tunnel in space. You create a portal in your current space and then [Stride](rules/actions/stride.md), creating another portal in the space you end your [Stride](rules/actions/stride.md). Until the beginning of your next turn, any creature that enters the first portal can immediately transport itself to the exit portal as part of its move action, which adds the [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait") trait to its movement.
 
 You can have only one tesseract tunnel open at a time; creating another causes the first to immediately close. You can use tesseract tunnel while [Burrowing](rules/actions/burrow.md), [Climbing](rules/actions/climb.md), [Flying](rules/actions/fly.md), or [Swimming](rules/actions/swim.md) instead of [Striding](rules/actions/stride.md) if you have the corresponding movement type.
 

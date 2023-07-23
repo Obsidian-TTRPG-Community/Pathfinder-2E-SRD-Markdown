@@ -7,7 +7,7 @@ tags:
 aliases: ["City Scavenger"]
 ---
 # City Scavenger  *Feat 1*  
-[goblin](rules/traits/goblin.md)  
+[goblin](rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  
 
 
 You know that the greatest treasures often look like refuse, and you scoff at those who throw away perfectly good scraps. You gain a +1 circumstance bonus to checks to [Subsist](rules/actions/subsist.md), and you can use [Society](compendium/skills.md#Society) or [Survival](compendium/skills.md#Survival) when you [Subsist](rules/actions/subsist.md) in a settlement.

@@ -8,7 +8,7 @@ tags:
 aliases: ["Interweave Dispel"]
 ---
 # Interweave Dispel  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 14*  
-[metamagic](rules/traits/metamagic.md)  [sorcerer](rules/traits/sorcerer.md)  
+[metamagic](rules/traits/metamagic.md "Metamagic General Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 - **Prerequisites**: [dispel magic](compendium/spells/dispel-magic.md) in your spell repertoire
 - **Activity** Single Action

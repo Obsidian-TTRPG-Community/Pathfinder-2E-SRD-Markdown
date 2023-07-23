@@ -22,7 +22,7 @@ A spring-loaded, poisoned spine is hidden near the keyhole of a lock. Disabling 
      
 ```ad-embed-ability
 title: Spring [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[attack](rules/traits/attack.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  
 
 When a creature tries to unlock or [Pick the Lock](rules/actions/pick-a-lock.md), a spine extends to attack that creature. The trap makes a melee attack with +13 to its attack roll. On a hit, it deals 1 piercing damage and `1d6` [persistent poison damage](rules/conditions.md#Persistent%20Damage) (on a critical hit, 2 piercing damage and `2d6` [persistent poison damage](rules/conditions.md#Persistent%20Damage)).  
 %% #trait/attack %%

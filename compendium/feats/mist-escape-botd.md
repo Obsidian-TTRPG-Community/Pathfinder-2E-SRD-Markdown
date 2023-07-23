@@ -7,7 +7,7 @@ tags:
 aliases: ["Mist Escape"]
 ---
 # Mist Escape  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Coffin Bound](compendium/feats/coffin-bound-botd.md), [Turn to Mist](compendium/feats/turn-to-mist-botd.md)
 - **Trigger** You are reduced to 0 HP.

@@ -11,7 +11,7 @@ tags:
 aliases: ["Private Workshop"]
 ---
 # Private Workshop *Item 6*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [structure](rules/traits/structure.md)  [uncommon](rules/traits/uncommon.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [structure](rules/traits/structure.md "Structure General Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 200 gp
 - **Bulk** L (when not activated)

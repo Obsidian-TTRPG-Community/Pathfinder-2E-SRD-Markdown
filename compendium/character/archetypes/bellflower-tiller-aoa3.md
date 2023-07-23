@@ -15,7 +15,7 @@ Bellflower tillers handle most of the ground-level efforts of freeing slaves and
 title: Bellflower Dedication, Feat 6
 collapse: closed
 # Bellflower Dedication  *Feat 6*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: Charisma 14, expert in [Stealth](compendium/skills.md#Stealth) and [Survival](compendium/skills.md#Survival), member of the Bellflower Network
 
@@ -24,92 +24,92 @@ You dedicate yourself to freeing slaves and escorting them to freedom. You gain 
 **Special.** You cannot select another dedication feat until you have gained two other feats from the Bellflower tiller archetype.
 
 *Source: Age of Ashes #3: Tomorrow Must Burn p. 75*  
-%% #trait/uncommon #trait/archetype #trait/dedication %%
+%% #trait/archetype #trait/dedication #trait/uncommon %%
 ```  
 
 ```ad-embed-feat
 title: Garden Path, Feat 8
 collapse: closed
 # Garden Path  *Feat 8*  
-[archetype](rules/traits/archetype.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Bellflower Dedication](compendium/feats/bellflower-dedication-aoa3.md)
 
-You can guide your crop to move without notice. When you and any of your crop are [Avoiding Notice](rules/actions/avoid-notice.md), you can choose one member of your crop to temporarily gain the benefits of the [Quiet Allies](compendium/feats/quiet-allies.md) skill feat until the group is no longer [Avoiding Notice](rules/actions/avoid-notice.md). The group rolls two checks instead of one, using the higher die roll. This is a [fortune](rules/traits/fortune.md) effect.
+You can guide your crop to move without notice. When you and any of your crop are [Avoiding Notice](rules/actions/avoid-notice.md), you can choose one member of your crop to temporarily gain the benefits of the [Quiet Allies](compendium/feats/quiet-allies.md) skill feat until the group is no longer [Avoiding Notice](rules/actions/avoid-notice.md). The group rolls two checks instead of one, using the higher die roll. This is a [fortune](rules/traits/fortune.md "Fortune Effect Trait") effect.
 
 *Source: Age of Ashes #3: Tomorrow Must Burn p. 75*  
-%% #trait/uncommon #trait/archetype %%
+%% #trait/archetype #trait/uncommon %%
 ```  
 
 ```ad-embed-feat
 title: Practiced Guidance, Feat 8
 collapse: closed
 # Practiced Guidance  *Feat 8*  
-[archetype](rules/traits/archetype.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Bellflower Dedication](compendium/feats/bellflower-dedication-aoa3.md)
 
 Making one's way to safety can be harrowing, but you have extensive practice at helping others along that path. When you roll a success to [Aid](rules/actions/aid.md) a member of your crop, you get a critical success instead.
 
 *Source: Age of Ashes #3: Tomorrow Must Burn p. 75*  
-%% #trait/uncommon #trait/archetype %%
+%% #trait/archetype #trait/uncommon %%
 ```  
 
 ```ad-embed-feat
 title: Scarecrow, Feat 8
 collapse: closed
 # Scarecrow  *Feat 8*  
-[archetype](rules/traits/archetype.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Bellflower Dedication](compendium/feats/bellflower-dedication-aoa3.md)
 
 You fight fiercely to protect your crop. When you hit a creature that is adjacent to two or more members of your crop with a weapon or unarmed attack, you gain a circumstance bonus to your damage roll equal to the number of weapon damage dice. When you hit a creature who has a member of your crop [grabbed](rules/conditions.md#Grabbed), that member can attempt to [Escape](rules/actions/escape.md) using a reaction.
 
 *Source: Age of Ashes #3: Tomorrow Must Burn p. 75*  
-%% #trait/uncommon #trait/archetype %%
+%% #trait/archetype #trait/uncommon %%
 ```  
 
 ```ad-embed-feat
 title: Tiller's Aid, Feat 10
 collapse: closed
 # Tiller's Aid  *Feat 10*  
-[archetype](rules/traits/archetype.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Bellflower Dedication](compendium/feats/bellflower-dedication-aoa3.md)
 
 You can use the [Aid](rules/actions/aid.md) reaction to help a member of your crop even if you haven't prepared to do so.
 
 *Source: Age of Ashes #3: Tomorrow Must Burn p. 75*  
-%% #trait/uncommon #trait/archetype %%
+%% #trait/archetype #trait/uncommon %%
 ```  
 
 ```ad-embed-feat
 title: Tiller's Drive, Feat 10
 collapse: closed
 # Tiller's Drive  *Feat 10*  
-[archetype](rules/traits/archetype.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Bellflower Dedication](compendium/feats/bellflower-dedication-aoa3.md)
 
 Your Speed bonus from Bellflower Dedication increases to +10 feet. Members of your crop receive a +5-foot circumstance bonus to Speed.
 
 *Source: Age of Ashes #3: Tomorrow Must Burn p. 75*  
-%% #trait/uncommon #trait/archetype %%
+%% #trait/archetype #trait/uncommon %%
 ```  
 
 ```ad-embed-feat
 title: Cut The Bonds, Feat 12*
 collapse: closed
 # Cut The Bonds  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 12*  
-[archetype](rules/traits/archetype.md)  [attack](rules/traits/attack.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [attack](rules/traits/attack.md "Attack Combat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 > [!pf2-note] This version of [Cut The Bonds](compendium/feats/cut-the-bonds-aoa3.md) is intended for use with the Bellflower Tiller Archetype. Its level has been changed accordingly.
 
 - **Prerequisites**: [Bellflower Dedication](compendium/feats/bellflower-dedication-aoa3.md), expert in a melee weapon
 - **Activity** Single Action
 
-Select a [magical](rules/traits/magical.md) effect that has made an adjacent member of your crop [clumsy](rules/conditions.md#Clumsy), [grabbed](rules/conditions.md#Grabbed), [paralyzed](rules/conditions.md#Paralyzed), [restrained](rules/conditions.md#Restrained), or [slowed](rules/conditions.md#Slowed). Attempt a counteract check using your attack modifier (including your multiple attack penalty) with a melee weapon with which you have expert proficiency. Your counteract level is half your level rounded up. On a success, you free that member from the effect; on a failure, you can't attempt to use Cut the Bonds on that effect on that crop member until 24 hours have passed.
+Select a [magical](rules/traits/magical.md "Magical Item Trait") effect that has made an adjacent member of your crop [clumsy](rules/conditions.md#Clumsy), [grabbed](rules/conditions.md#Grabbed), [paralyzed](rules/conditions.md#Paralyzed), [restrained](rules/conditions.md#Restrained), or [slowed](rules/conditions.md#Slowed). Attempt a counteract check using your attack modifier (including your multiple attack penalty) with a melee weapon with which you have expert proficiency. Your counteract level is half your level rounded up. On a success, you free that member from the effect; on a failure, you can't attempt to use Cut the Bonds on that effect on that crop member until 24 hours have passed.
 
 *Source: Age of Ashes #3: Tomorrow Must Burn p. 75*  
-%% #trait/uncommon #trait/archetype #trait/attack %%
+%% #trait/archetype #trait/attack #trait/uncommon %%
 ```

@@ -11,12 +11,12 @@ tags:
 aliases: ["Spear of the Destroyer's Flame"]
 ---
 # Spear of the Destroyer's Flame *Item 20*  
-[artifact](rules/traits/artifact-gmg.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [unique](rules/traits/unique.md)  
+[artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Usage** held in 2 hands; **Bulk** 3
 - **Category** Artifact
 
-The tip of this longspear is edged with several razor-sharp obsidian blades. The spear has the [thrown 30 feet](rules/traits/thrown.md) weapon trait, in addition to the normal weapon traits for a longspear.
+The tip of this longspear is edged with several razor-sharp obsidian blades. The spear has the thrown 30 feet weapon trait, in addition to the normal weapon traits for a longspear.
 
 While the Spear of the Destroyer's Flame is in your possession, you gain fire resistance 20. When you critically hit a creature with the spear, the creature's blood begins to boil, unleashing blasts of heat from the wound. The creature takes `2d8` [persistent fire damage](rules/conditions.md#Persistent%20Damage), in addition to the persistent fire damage from the greater flaming rune; all creatures adjacent to the creature when it takes the persistent fire damage take an equal amount of fire damage. Like the fire damage from the greater flaming rune, this fire damage ignores a creature's fire resistance, though it doesn't ignore fire immunity.
 

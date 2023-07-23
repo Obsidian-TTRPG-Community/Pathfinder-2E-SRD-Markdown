@@ -11,7 +11,7 @@ tags:
 aliases: ["Corrupted Shield"]
 ---
 # Corrupted Shield  *Feat 6*  
-[champion](rules/traits/champion.md)  [divine](rules/traits/divine.md)  [necromancy](rules/traits/necromancy.md)  [negative](rules/traits/negative.md)  [uncommon](rules/traits/uncommon.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: divine ally (shield), tenets of evil
 

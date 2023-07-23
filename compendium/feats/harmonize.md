@@ -10,7 +10,7 @@ tags:
 aliases: ["Harmonize"]
 ---
 # Harmonize  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[bard](rules/traits/bard.md)  [concentrate](rules/traits/concentrate.md)  [manipulate](rules/traits/manipulate.md)  [metamagic](rules/traits/metamagic.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 - **Prerequisites**: Maestro muse
 - **Activity** Single Action

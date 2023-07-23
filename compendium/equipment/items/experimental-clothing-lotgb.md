@@ -8,7 +8,7 @@ tags:
 aliases: ["Experimental Clothing"]
 ---
 # Experimental Clothing *Item 2*  
-[uncommon](rules/traits/uncommon.md)  
+[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 25 gp
 - **Usage** worn clothing; **Bulk** L

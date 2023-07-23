@@ -10,7 +10,7 @@ tags:
 aliases: ["Vermin Repellent Agent"]
 ---
 # Vermin Repellent Agent *Item 3+*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [uncommon](rules/traits/uncommon.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Usage** held in 2 hands; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md)

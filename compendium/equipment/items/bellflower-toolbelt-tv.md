@@ -11,7 +11,7 @@ tags:
 aliases: ["Bellflower Toolbelt"]
 ---
 # Bellflower Toolbelt *Item 6*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  [transmutation](rules/traits/transmutation.md)  
+[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 220 gp
 - **Usage** worn belt; **Bulk** 1

@@ -13,7 +13,7 @@ aliases: ["Curse of Nightmares"]
 ---
 # Curse of Nightmares
 *Curse 2*  
-[curse](rules/traits/curse.md)  [illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  
+[curse](rules/traits/curse.md "Curse Effect Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 This curse plagues you with terrible nightmares whenever you sleep, preventing you from resting properly.
 

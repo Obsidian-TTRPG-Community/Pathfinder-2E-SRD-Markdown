@@ -7,7 +7,7 @@ tags:
 aliases: ["Quick Bomber"]
 ---
 # Quick Bomber  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
-[alchemist](rules/traits/alchemist.md)  
+[alchemist](rules/traits/alchemist.md "Alchemist Class Trait")  
 
 - **Activity** Single Action
 

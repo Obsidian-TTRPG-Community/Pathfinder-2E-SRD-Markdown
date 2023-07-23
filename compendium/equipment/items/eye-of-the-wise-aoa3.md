@@ -11,7 +11,7 @@ tags:
 aliases: ["Eye Of The Wise"]
 ---
 # Eye Of The Wise *Item 11*  
-[artifact](rules/traits/artifact-gmg.md)  [divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [unique](rules/traits/unique.md)  
+[artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Artifact

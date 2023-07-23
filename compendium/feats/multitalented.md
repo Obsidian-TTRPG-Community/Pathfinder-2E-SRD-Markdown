@@ -7,7 +7,7 @@ tags:
 aliases: ["Multitalented"]
 ---
 # Multitalented  *Feat 9*  
-[human](rules/traits/human.md)  
+[human](rules/traits/human.md "Human Ancestry & Heritage Trait")  
 
 
 You've learned to split your focus between multiple classes with ease. You gain a 2nd-level multiclass dedication feat, even if you normally couldn't take another dedication feat until you take more feats from your current archetype.

@@ -7,7 +7,7 @@ tags:
 aliases: ["Envenom Strike"]
 ---
 # Envenom Strike  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 9*  
-[nagaji](rules/traits/nagaji-loil.md)  
+[nagaji](rules/traits/nagaji-loil.md "Nagaji Ancestry & Heritage Trait")  
 
 - **Prerequisites**: you possess a [Strike](rules/actions/strike.md) from a nagaji heritage or ancestry feat that deals poison damage
 - **Frequency**: once per 10 minutes

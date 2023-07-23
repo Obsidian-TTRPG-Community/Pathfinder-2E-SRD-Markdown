@@ -9,7 +9,7 @@ tags:
 aliases: ["Knight Reclaimant Dedication"]
 ---
 # Knight Reclaimant Dedication  *Feat 6*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: trained in [Survival](compendium/skills.md#Survival) and [Stealth](compendium/skills.md#Stealth), any non-evil alignment, member of the Knights of Lastwall of knight rank
 

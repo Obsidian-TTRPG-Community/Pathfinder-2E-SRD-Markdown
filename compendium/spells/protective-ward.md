@@ -12,7 +12,7 @@ tags:
 aliases: ["Protective Ward"]
 ---
 # Protective Ward *Focus 1*   
-[abjuration](rules/traits/abjuration.md)  [aura](rules/traits/aura.md)  [uncommon](rules/traits/uncommon.md)  [wizard](rules/traits/wizard.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [aura](rules/traits/aura.md "Aura Combat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Area**5-foot-radius emanation centered on you

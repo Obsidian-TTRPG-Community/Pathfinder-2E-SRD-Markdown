@@ -9,9 +9,9 @@ tags:
 aliases: ["Brand The Impenitent"]
 ---
 # Brand The Impenitent *Spell 2*   
-[abjuration](rules/traits/abjuration.md)  [curse](rules/traits/curse.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [curse](rules/traits/curse.md "Curse Effect Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**touch
 - **Targets**1 creature

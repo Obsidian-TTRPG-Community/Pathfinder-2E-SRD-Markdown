@@ -10,9 +10,9 @@ tags:
 aliases: ["False Vision"]
 ---
 # False Vision *Spell 5*   
-[illusion](rules/traits/illusion.md)  [uncommon](rules/traits/uncommon.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 10 minutes 
 - **Range**touch
 - **Area**100-foot burst

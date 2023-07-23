@@ -7,7 +7,7 @@ tags:
 aliases: ["Instinctual Interception"]
 ---
 # Instinctual Interception  *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Knight Vigilant Dedication](compendium/feats/knight-vigilant-dedication-locg.md), Interrupt Charge
 

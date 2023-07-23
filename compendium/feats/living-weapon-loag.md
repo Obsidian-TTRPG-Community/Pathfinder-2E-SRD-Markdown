@@ -7,10 +7,10 @@ tags:
 aliases: ["Living Weapon"]
 ---
 # Living Weapon  *Feat 1*  
-[fleshwarp](rules/traits/fleshwarp-loag.md)  
+[fleshwarp](rules/traits/fleshwarp-loag.md "Fleshwarp Ancestry & Heritage Trait")  
 
 
-You've learned to use part of your form as a weapon. When you select this feat, you gain a claws unarmed attack that deals `1d4` slashing damage and has the [agile](rules/traits/agile.md) and [finesse](rules/traits/finesse.md) traits; a horn, jaws, or tusk unarmed attack that deals `1d6` piercing damage and has the versatile S trait; or a tail unarmed attack that deals `1d6` bludgeoning damage and has the [backswing](rules/traits/backswing.md) trait. Each of these unarmed attacks is in the brawling weapon group.
+You've learned to use part of your form as a weapon. When you select this feat, you gain a claws unarmed attack that deals `1d4` slashing damage and has the [agile](rules/traits/agile.md "Agile Weapon Trait") and [finesse](rules/traits/finesse.md "Finesse Weapon Trait") traits; a horn, jaws, or tusk unarmed attack that deals `1d6` piercing damage and has the versatile S trait; or a tail unarmed attack that deals `1d6` bludgeoning damage and has the [backswing](rules/traits/backswing.md "Backswing Weapon Trait") trait. Each of these unarmed attacks is in the brawling weapon group.
 
 Your features are mutable; you can select this feat at any level, and you can retrain into or out of this feat or change the type of attack you gain.
 

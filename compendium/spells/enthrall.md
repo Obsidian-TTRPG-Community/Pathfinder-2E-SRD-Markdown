@@ -10,9 +10,9 @@ tags:
 aliases: ["Enthrall"]
 ---
 # Enthrall *Spell 3*   
-[auditory](rules/traits/auditory.md)  [emotion](rules/traits/emotion.md)  [enchantment](rules/traits/enchantment.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**120 foot
 - **Targets**all creatures in range
@@ -21,7 +21,7 @@ aliases: ["Enthrall"]
 
 Your words fascinate your targets. You speak or sing without interruption throughout the casting and duration. Targets who notice your speech or song might give their undivided attention; each target must attempt a Will save. The GM might grant a circumstance bonus (to a maximum of +4) if the target is of an opposing religion, ancestry, or political leaning, or is otherwise unlikely to agree with what you're saying.
 
-Each creature that comes within range has to attempt a save when you [Sustain the Spell](rules/actions/sustain-a-spell.md). If you're speaking, enthrall gains the [linguistic](rules/traits/linguistic.md) trait.
+Each creature that comes within range has to attempt a save when you [Sustain the Spell](rules/actions/sustain-a-spell.md). If you're speaking, enthrall gains the [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait") trait.
 
 > [!success-degree] 
 > - **Critical Success** The target is unaffected and notices that you tried to use magic.

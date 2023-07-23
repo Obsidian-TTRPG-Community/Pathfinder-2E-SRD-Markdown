@@ -7,7 +7,7 @@ tags:
 aliases: ["Transcribe Moment"]
 ---
 # Transcribe Moment  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Scrollmaster Dedication](compendium/feats/scrollmaster-dedication-locg.md)
 

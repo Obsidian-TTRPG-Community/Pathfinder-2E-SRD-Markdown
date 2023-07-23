@@ -7,7 +7,7 @@ tags:
 aliases: ["Elven Weapon Familiarity"]
 ---
 # Elven Weapon Familiarity  *Feat 1*  
-[elf](rules/traits/elf.md)  
+[elf](rules/traits/elf.md "Elf Ancestry & Heritage Trait")  
 
 
 You favor bows and other elegant weapons. You are trained with [longbows](compendium/equipment/items/longbow.md), [composite longbows](compendium/equipment/items/composite-longbow.md), [longswords](compendium/equipment/items/longsword.md), [rapiers](compendium/equipment/items/rapier.md), [shortbows](compendium/equipment/items/shortbow.md), and [composite shortbows](compendium/equipment/items/composite-shortbow.md).

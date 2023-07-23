@@ -13,7 +13,7 @@ tags:
 aliases: ["Homeward Wayfinder"]
 ---
 # Homeward Wayfinder *Item 13*  
-[conjuration](rules/traits/conjuration.md)  [evocation](rules/traits/evocation.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [teleportation](rules/traits/teleportation.md)  [uncommon](rules/traits/uncommon.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 2750 gp
 - **Usage** worn
@@ -24,7 +24,7 @@ Homeward wayfinders are powerful escape tools in the hands of a Pathfinder agent
 ```ad-embed-ability
 title: Activate [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Duration or Frequency")
 
-You teleport back to the attuned Pathfinder Lodge, as long as you are no more than 100 miles away. This [teleportation](rules/traits/teleportation.md) effect fails if you would bring another creature with you, even if you're carrying it in an extradimensional space.
+You teleport back to the attuned Pathfinder Lodge, as long as you are no more than 100 miles away. This [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait") effect fails if you would bring another creature with you, even if you're carrying it in an extradimensional space.
 ```
 
 *Source: Lost Omens: Pathfinder Society Guide p. 122*

@@ -8,9 +8,9 @@ tags:
 aliases: ["Retrocognition"]
 ---
 # Retrocognition *Spell 7*   
-[divination](rules/traits/divination.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  
 
-- **Traditions**: [occult](rules/traits/occult.md)
+- **Traditions**: [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 1 minute 
 - **Duration**sustained
 

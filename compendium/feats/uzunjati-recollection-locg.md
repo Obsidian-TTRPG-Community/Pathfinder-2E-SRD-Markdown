@@ -8,7 +8,7 @@ tags:
 aliases: ["Uzunjati Recollection"]
 ---
 # Uzunjati Recollection  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Uzunjati Storytelling](compendium/feats/uzunjati-storytelling-locg.md), master in a [Recall Knowledge](rules/actions/recall-knowledge.md) skill
 - **Activity** Single Action

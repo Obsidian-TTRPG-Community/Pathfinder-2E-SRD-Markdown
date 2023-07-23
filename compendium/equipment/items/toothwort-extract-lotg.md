@@ -10,7 +10,7 @@ tags:
 aliases: ["Toothwort Extract"]
 ---
 # Toothwort Extract *Item 3*  
-[additive <1>](rules/traits/additive.md)  [alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  
+[additive <1>](rules/traits/additive-1.md "Additive Feat Trait")  [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  
 
 - **Price** 9 gp
 - **Usage** held in 1 hand; **Bulk** L

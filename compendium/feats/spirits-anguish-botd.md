@@ -9,7 +9,7 @@ tags:
 aliases: ["Spirit's Anguish"]
 ---
 # Spirit's Anguish  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  [evocation](rules/traits/evocation.md)  [sonic](rules/traits/sonic.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  
 
 - **Prerequisites**: [Exorcist Dedication](compendium/feats/exorcist-dedication-botd.md)
 - **Cost**: 1 spirit wisp or spirit remnant from your spirit dwelling

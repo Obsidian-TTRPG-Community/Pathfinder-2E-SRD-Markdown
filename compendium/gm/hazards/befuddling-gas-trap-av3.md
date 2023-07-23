@@ -9,7 +9,7 @@ tags:
 aliases: ["Befuddling Gas Trap"]
 ---
 # Befuddling Gas Trap *Hazard 11*  
-[complex](rules/traits/complex.md)  [mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +21 expert or DC 31 (expert) to notice the [hidden](rules/conditions.md#Hidden) override mechanism on the north wall.  
@@ -26,7 +26,7 @@ Seven nozzles [hidden](rules/conditions.md#Hidden) within holes in the 15-foot-h
      
 ```ad-embed-ability
 title: Gas Release [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[inhaled](rules/traits/inhaled.md)  [mental](rules/traits/mental.md)  [poison](rules/traits/poison.md)  
+[inhaled](rules/traits/inhaled.md "Inhaled Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Trigger**: Both secret doors are closed and at least one creature is in the room
 

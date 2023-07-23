@@ -9,7 +9,7 @@ tags:
 aliases: ["Exhaling Portal"]
 ---
 # Exhaling Portal *Hazard 9*  
-[complex](rules/traits/complex.md)  [magical](rules/traits/magical.md)  [trap](rules/traits/trap.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** DC 33  
@@ -20,7 +20,7 @@ Magic runes carved into a doorframe connect a door to the Plane of Air when open
      
 ```ad-embed-ability
 title: Gust [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[air](rules/traits/air.md)  [conjuration](rules/traits/conjuration.md)  
+[air](rules/traits/air.md "Air Energy & Element Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  
 
 - **Trigger**: A creature opens the door
 

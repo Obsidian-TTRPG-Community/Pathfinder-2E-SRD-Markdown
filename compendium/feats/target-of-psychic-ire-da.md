@@ -10,7 +10,7 @@ tags:
 aliases: ["Target of Psychic Ire"]
 ---
 # Target of Psychic Ire  *Feat 16*  
-[amp](rules/traits/amp-da.md)  [evocation](rules/traits/evocation.md)  [occult](rules/traits/occult.md)  [psychic](rules/traits/psychic-da.md)  
+[amp](rules/traits/amp-da.md "Amp Feat Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  
 
 
 Your magic saturates your surroundings with hateful psychic energy. Use this amp in place of a psi cantrip's normal amp entry. The cantrip must be one that takes 2 or more actions to cast and targets a creature.

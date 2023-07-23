@@ -7,7 +7,7 @@ tags:
 aliases: ["Eclectic Sword Training"]
 ---
 # Eclectic Sword Training  *Feat 9*  
-[tengu](rules/traits/tengu-b1.md)  
+[tengu](rules/traits/tengu-b1.md "Tengu Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Tengu Weapon Familiarity](compendium/feats/tengu-weapon-familiarity-apg.md)
 

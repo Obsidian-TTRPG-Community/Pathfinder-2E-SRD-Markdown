@@ -8,7 +8,7 @@ tags:
 aliases: ["Fleeting Shadow"]
 ---
 # Fleeting Shadow  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  [flourish](rules/traits/flourish.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 - **Prerequisites**: [Scout Dedication](compendium/feats/scout-dedication-apg.md)
 - **Activity** Two-Action

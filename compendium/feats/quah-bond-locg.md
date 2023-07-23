@@ -8,7 +8,7 @@ tags:
 aliases: ["Quah Bond"]
 ---
 # Quah Bond  *Feat 1*  
-[human](rules/traits/human.md)  [uncommon](rules/traits/uncommon.md)  
+[human](rules/traits/human.md "Human Ancestry & Heritage Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: Shoanti ethnicity
 

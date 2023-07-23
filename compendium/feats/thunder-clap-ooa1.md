@@ -8,7 +8,7 @@ tags:
 aliases: ["Thunder Clap"]
 ---
 # Thunder Clap  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  [sonic](rules/traits/sonic.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  
 
 - **Prerequisites**: [Powder Punch Stance](compendium/feats/powder-punch-stance-ooa1.md)
 - **Requirements**: You're in [Powder Punch Stance](compendium/feats/powder-punch-stance-ooa1.md).

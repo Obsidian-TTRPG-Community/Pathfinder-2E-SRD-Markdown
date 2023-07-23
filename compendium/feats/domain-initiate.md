@@ -7,7 +7,7 @@ tags:
 aliases: ["Domain Initiate"]
 ---
 # Domain Initiate  *Feat 1*  
-[cleric](rules/traits/cleric.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  
 
 
 Your deity bestows a special spell related to their powers. Select one domain—a subject of particular interest to you within your religion—from your deity's list. You gain an initial domain spell for that domain, a spell unique to the domain and not available to other clerics. Each domain's theme and domain spells appear in [Table 8–2: Domains](rules/tables/domains.md).

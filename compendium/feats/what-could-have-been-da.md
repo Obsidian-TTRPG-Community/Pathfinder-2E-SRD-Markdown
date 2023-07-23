@@ -9,7 +9,7 @@ tags:
 aliases: ["What Could Have Been"]
 ---
 # What Could Have Been  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  [concentrate](rules/traits/concentrate.md)  [metamagic](rules/traits/metamagic.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 - **Prerequisites**: [Time Mage Dedication](compendium/feats/time-mage-dedication-da.md)
 - **Activity** Free Action

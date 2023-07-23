@@ -7,7 +7,7 @@ tags:
 aliases: ["Bespell Weapon (Wizard)"]
 ---
 # Bespell Weapon (Wizard)  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 4*  
-[wizard](rules/traits/wizard.md)  
+[wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Frequency**: once per turn
 - **Requirements**: Your most recent action was to cast a non-cantrip spell.

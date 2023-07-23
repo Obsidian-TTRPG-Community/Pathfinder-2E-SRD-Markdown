@@ -8,7 +8,7 @@ tags:
 aliases: ["Shooting Stars Stance"]
 ---
 # Shooting Stars Stance  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 2*  
-[monk](rules/traits/monk.md)  [stance](rules/traits/stance.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
 
 - **Prerequisites**: [Monastic Weaponry](compendium/feats/monastic-weaponry.md)
 - **Activity** Single Action

@@ -10,9 +10,9 @@ tags:
 aliases: ["Penumbral Disguise"]
 ---
 # Penumbral Disguise *Spell 2*   
-[illusion](rules/traits/illusion.md)  [shadow](rules/traits/shadow.md)  [uncommon](rules/traits/uncommon.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [shadow](rules/traits/shadow.md "Shadow General Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**touch
 - **Targets**1 willing creature

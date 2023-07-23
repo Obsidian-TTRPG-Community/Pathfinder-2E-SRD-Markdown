@@ -7,7 +7,7 @@ tags:
 aliases: ["Gravity Weapon"]
 ---
 # Gravity Weapon  *Feat 1*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 
 Your expertise with your weapons and commitment to taking out your targets lends you magical power. You gain the [gravity weapon](compendium/spells/gravity-weapon-apg.md) warden spell and a focus pool of 1 Focus Point.

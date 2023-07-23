@@ -11,7 +11,7 @@ tags:
 aliases: ["Skarja's Heartstone"]
 ---
 # Skarja's Heartstone *Item 13*  
-[abjuration](rules/traits/abjuration.md)  [invested](rules/traits/invested.md)  [occult](rules/traits/occult.md)  [uncommon](rules/traits/uncommon.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 2500 gp
 - **Usage** worn

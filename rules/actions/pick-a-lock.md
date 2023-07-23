@@ -8,7 +8,7 @@ tags:
 aliases: ["Pick a Lock"]
 ---
 # Pick a Lock (basic) [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
-[manipulate](rules/traits/manipulate.md)  
+[manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 *Source: Core Rulebook p. 253*  
 
 **Skill** [thievery](compendium/skills.md#Thievery) (trained)

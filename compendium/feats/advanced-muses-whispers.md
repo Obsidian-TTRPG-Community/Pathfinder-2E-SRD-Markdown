@@ -7,7 +7,7 @@ tags:
 aliases: ["Advanced Muse's Whispers"]
 ---
 # Advanced Muse's Whispers  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Muse's Whispers](compendium/feats/basic-muses-whispers.md)
 

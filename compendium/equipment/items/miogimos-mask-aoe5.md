@@ -11,7 +11,7 @@ tags:
 aliases: ["Miogimo's Mask"]
 ---
 # Miogimo's Mask *Item 16*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [unique](rules/traits/unique.md)  
+[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Price** 9500 gp
 - **Usage** worn mask; **Bulk** L

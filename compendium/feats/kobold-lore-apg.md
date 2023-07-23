@@ -7,7 +7,7 @@ tags:
 aliases: ["Kobold Lore"]
 ---
 # Kobold Lore  *Feat 1*  
-[kobold](rules/traits/kobold-b1.md)  
+[kobold](rules/traits/kobold-b1.md "Kobold Ancestry & Heritage Trait")  
 
 
 You attentively learned key kobold survival strategies and mythology from your elders. You gain the trained proficiency rank in [Stealth](compendium/skills.md#Stealth) and [Thievery](compendium/skills.md#Thievery). If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in [Kobold Lore](compendium/skills.md#Lore).

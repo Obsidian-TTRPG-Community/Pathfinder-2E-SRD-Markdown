@@ -12,7 +12,7 @@ tags:
 aliases: ["Gaffe Glasses"]
 ---
 # Gaffe Glasses *Item 3*  
-[cursed](rules/traits/cursed-gmg.md)  [divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** worn eyepiece; **Bulk** L
 - **Category** Worn

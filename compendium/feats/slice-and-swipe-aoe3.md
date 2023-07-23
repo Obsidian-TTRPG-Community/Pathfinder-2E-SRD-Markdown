@@ -10,7 +10,7 @@ tags:
 aliases: ["Slice And Swipe"]
 ---
 # Slice And Swipe  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[flourish](rules/traits/flourish.md)  [manipulate](rules/traits/manipulate.md)  [rogue](rules/traits/rogue.md)  [uncommon](rules/traits/uncommon.md)  
+[flourish](rules/traits/flourish.md "Flourish Combat Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [rogue](rules/traits/rogue.md "Rogue Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: Help either the Washboard Dogs or the Diobel
 - **Requirements**: You're wielding a melee weapon that deals slashing damage and you have a free hand.

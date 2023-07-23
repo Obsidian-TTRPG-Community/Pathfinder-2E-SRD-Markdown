@@ -11,7 +11,7 @@ tags:
 aliases: ["Elemental Tempest"]
 ---
 # Elemental Tempest *Focus 4*   
-[evocation](rules/traits/evocation.md)  [metamagic](rules/traits/metamagic.md)  [uncommon](rules/traits/uncommon.md)  [wizard](rules/traits/wizard.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 

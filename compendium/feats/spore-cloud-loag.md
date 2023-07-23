@@ -7,7 +7,7 @@ tags:
 aliases: ["Spore Cloud"]
 ---
 # Spore Cloud  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 9*  
-[leshy](rules/traits/leshy-b1.md)  
+[leshy](rules/traits/leshy-b1.md "Leshy Ancestry & Heritage Trait")  
 
 - **Frequency**: once per hour
 - **Activity** Two-Action

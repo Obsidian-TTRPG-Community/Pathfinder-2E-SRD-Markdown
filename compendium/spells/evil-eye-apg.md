@@ -16,7 +16,7 @@ tags:
 aliases: ["Evil Eye"]
 ---
 # Evil Eye *Cantrip 1*   
-[cantrip](rules/traits/cantrip.md)  [curse](rules/traits/curse.md)  [emotion](rules/traits/emotion.md)  [enchantment](rules/traits/enchantment.md)  [fear](rules/traits/fear.md)  [hex](rules/traits/hex-apg.md)  [mental](rules/traits/mental.md)  [uncommon](rules/traits/uncommon.md)  [witch](rules/traits/witch-apg.md)  
+[cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [curse](rules/traits/curse.md "Curse Effect Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [hex](rules/traits/hex-apg.md "Hex Combat Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [witch](rules/traits/witch-apg.md "Witch Class Trait")  
 
 - **Patron** Witch
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 

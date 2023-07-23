@@ -13,7 +13,7 @@ tags:
 aliases: ["Fear Gem"]
 ---
 # Fear Gem *Item 4*  
-[consumable](rules/traits/consumable.md)  [enchantment](rules/traits/enchantment.md)  [fear](rules/traits/fear.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  [talisman](rules/traits/talisman.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  
 
 - **Price** 20 gp
 - **Usage** affixed to a weapon; **Bulk** —

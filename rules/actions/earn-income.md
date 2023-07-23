@@ -8,7 +8,7 @@ tags:
 aliases: ["Earn Income"]
 ---
 # Earn Income (basic)
-[downtime](rules/traits/downtime.md)  
+[downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  
 *Source: Core Rulebook p. 236*  
 
 

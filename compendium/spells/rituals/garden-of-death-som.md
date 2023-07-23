@@ -13,7 +13,7 @@ tags:
 aliases: ["Garden Of Death"]
 ---
 # Garden Of Death *Ritual 4*  
-[consecration](rules/traits/consecration.md)  [necromancy](rules/traits/necromancy.md)  [plant](rules/traits/plant.md)  [poison](rules/traits/poison.md)  [uncommon](rules/traits/uncommon.md)  
+[consecration](rules/traits/consecration.md "Consecration Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** 1 day
 - **Cost** water infused with a dozen deadly toxins worth a total of 50 gp

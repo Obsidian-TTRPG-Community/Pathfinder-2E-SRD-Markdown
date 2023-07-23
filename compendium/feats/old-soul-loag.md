@@ -7,7 +7,7 @@ tags:
 aliases: ["Old Soul"]
 ---
 # Old Soul  *Feat 1*  
-[dhampir](rules/traits/dhampir-b1.md)  
+[dhampir](rules/traits/dhampir-b1.md "Dhampir Ancestry & Heritage Trait")  
 
 - **Prerequisites**: at least 100 years old
 

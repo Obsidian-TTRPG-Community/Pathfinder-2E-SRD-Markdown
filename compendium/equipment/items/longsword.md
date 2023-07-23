@@ -8,7 +8,7 @@ tags:
 aliases: ["Longsword"]
 ---
 # Longsword *Item 0*  
-[versatile <p>](rules/traits/versatile.md)  
+[versatile <p>](rules/traits/versatile-p.md "Versatile Weapon Trait")  
 
 - **Price** 1 gp
 - **Bulk** 1

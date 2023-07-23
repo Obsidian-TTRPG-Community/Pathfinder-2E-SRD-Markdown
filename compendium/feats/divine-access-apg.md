@@ -7,7 +7,7 @@ tags:
 aliases: ["Divine Access"]
 ---
 # Divine Access  *Feat 4*  
-[oracle](rules/traits/oracle-apg.md)  
+[oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  
 
 
 Your ability to tap into divine magic surpasses the spells traditionally available to you (the divine spell list). Choose one deity who grants one of your mystery's granted domains. Add up to three cleric spells of your choice granted by that deity to your spell list. You can select from these spells when you add or swap spells in your spell repertoire.

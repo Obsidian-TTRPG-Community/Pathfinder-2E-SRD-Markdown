@@ -7,7 +7,7 @@ tags:
 aliases: ["Greater Bloodline"]
 ---
 # Greater Bloodline  *Feat 10*  
-[sorcerer](rules/traits/sorcerer.md)  
+[sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 - **Prerequisites**: bloodline spell
 

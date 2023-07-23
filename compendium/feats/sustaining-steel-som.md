@@ -11,7 +11,7 @@ tags:
 aliases: ["Sustaining Steel"]
 ---
 # Sustaining Steel  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 10*  
-[arcane](rules/traits/arcane.md)  [healing](rules/traits/healing.md)  [magus](rules/traits/magus-som.md)  [necromancy](rules/traits/necromancy.md)  [positive](rules/traits/positive.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [magus](rules/traits/magus-som.md "Magus Class Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  
 
 - **Prerequisites**: [Arcane Cascade](rules/actions/arcane-cascade-som.md), inexorable iron hybrid study
 - **Trigger** You [Cast a Spell](rules/actions/cast-a-spell.md) using a spell slot.

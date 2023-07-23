@@ -9,7 +9,7 @@ tags:
 aliases: ["Lamellar Breastplate"]
 ---
 # Lamellar Breastplate *Item 0*  
-[hindering](rules/traits/hindering-tv.md)  [laminar](rules/traits/laminar-tv.md)  
+[hindering](rules/traits/hindering-tv.md "Hindering Armor Trait")  [laminar](rules/traits/laminar-tv.md "Laminar Armor Trait")  
 
 - **Price** 7 gp
 - **Bulk** 2

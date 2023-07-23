@@ -7,7 +7,7 @@ tags:
 aliases: ["Reptile Speaker"]
 ---
 # Reptile Speaker  *Feat 1*  
-[lizardfolk](rules/traits/lizardfolk-b1.md)  
+[lizardfolk](rules/traits/lizardfolk-b1.md "Lizardfolk Ancestry & Heritage Trait")  
 
 
 You hear the sounds of reptiles as language. You can ask questions of, receive answers from, and use the [Diplomacy](compendium/skills.md#Diplomacy) skill with animals that are reptiles (the GM determines which animals count as reptiles).

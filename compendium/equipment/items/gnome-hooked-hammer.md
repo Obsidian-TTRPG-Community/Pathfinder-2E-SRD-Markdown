@@ -12,7 +12,7 @@ tags:
 aliases: ["Gnome Hooked Hammer"]
 ---
 # Gnome Hooked Hammer *Item 0*  
-[gnome](rules/traits/gnome.md)  [trip](rules/traits/trip.md)  [two-hand <d10>](rules/traits/two-hand.md)  [uncommon](rules/traits/uncommon.md)  [versatile <p>](rules/traits/versatile.md)  
+[gnome](rules/traits/gnome.md "Gnome Ancestry & Heritage Trait")  [trip](rules/traits/trip.md "Trip Weapon Trait")  [two-hand <d10>](rules/traits/two-hand-d10.md "Two-Hand Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [versatile <p>](rules/traits/versatile-p.md "Versatile Weapon Trait")  
 
 - **Price** 2 gp
 - **Bulk** 1

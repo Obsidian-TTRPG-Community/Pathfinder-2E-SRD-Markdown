@@ -11,7 +11,7 @@ tags:
 aliases: ["Self-Immolating Note"]
 ---
 # Self-Immolating Note *Item 1*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [fire](rules/traits/fire.md)  [uncommon](rules/traits/uncommon.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** Member of a secret society
 - **Price** 3 gp

@@ -10,7 +10,7 @@ tags:
 aliases: ["Consecrated Aura"]
 ---
 # Consecrated Aura  *Feat 14*  
-[abjuration](rules/traits/abjuration.md)  [archetype](rules/traits/archetype.md)  [aura](rules/traits/aura.md)  [positive](rules/traits/positive.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [aura](rules/traits/aura.md "Aura Combat Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  
 
 - **Prerequisites**: [Hallowed Necromancer Dedication](compendium/feats/hallowed-necromancer-dedication-botd.md)
 

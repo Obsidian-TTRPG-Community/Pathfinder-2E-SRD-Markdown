@@ -13,7 +13,7 @@ tags:
 aliases: ["Gift of the Poisoned Heart"]
 ---
 # Gift of the Poisoned Heart *Item 16*  
-[consumable](rules/traits/consumable.md)  [cursed](rules/traits/cursed-gmg.md)  [evil](rules/traits/evil.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [rare](rules/traits/rare.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [evil](rules/traits/evil.md "Evil Alignment Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** held in 1 hand; **Bulk** –
 - **Activate** command, , [Interact](rules/actions/interact.md)

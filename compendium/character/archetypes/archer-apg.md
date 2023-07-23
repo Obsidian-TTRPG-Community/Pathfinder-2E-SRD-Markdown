@@ -15,7 +15,7 @@ Bows of all types are powerful weapons. Generals and hunters alike recognize the
 title: Archer Dedication, Feat 2
 collapse: closed
 # Archer Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 
 You become trained in all simple and martial weapons in the bow weapon group. Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency rank in all simple and martial weapons in the bow weapon group. If you are at least an expert in the bow you are using, you gain access to the critical specialization effect with that bow.
@@ -30,7 +30,7 @@ You become trained in all simple and martial weapons in the bow weapon group. Wh
 title: Assisting Shot, Feat 4*
 collapse: closed
 # Assisting Shot  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[fighter](rules/traits/fighter.md)  [press](rules/traits/press.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  [press](rules/traits/press.md "Press Combat Trait")  
 
 > [!pf2-note] This version of [Assisting Shot](compendium/feats/assisting-shot.md) is intended for use with the Archer Archetype. Its level has been changed accordingly.
 
@@ -47,14 +47,14 @@ With a quick shot, you interfere with a foe in combat. Make a [Strike](rules/act
 title: Point-blank Shot, Feat 4*
 collapse: closed
 # Point-blank Shot  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[fighter](rules/traits/fighter.md)  [open](rules/traits/open.md)  [stance](rules/traits/stance.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  [open](rules/traits/open.md "Open Combat Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
 
 > [!pf2-note] This version of [Point-blank Shot](compendium/feats/point-blank-shot.md) is intended for use with the Archer Archetype. Its level has been changed accordingly.
 
 - **Requirements**: You are wielding a ranged weapon.
 - **Activity** Single Action
 
-You take aim to pick off nearby enemies quickly. When using a ranged volley weapon while you are in this stance, you don't take the penalty to your attack rolls from the [volley](rules/traits/volley.md) trait. When using a ranged weapon that doesn't have the [volley](rules/traits/volley.md) trait, you gain a +2 circumstance bonus to damage rolls on attacks against targets within the weapon's first range increment.
+You take aim to pick off nearby enemies quickly. When using a ranged volley weapon while you are in this stance, you don't take the penalty to your attack rolls from the [volley](rules/traits/volley.md "Volley Weapon Trait") trait. When using a ranged weapon that doesn't have the [volley](rules/traits/volley.md "Volley Weapon Trait") trait, you gain a +2 circumstance bonus to damage rolls on attacks against targets within the weapon's first range increment.
 
 *Source: Core Rulebook p. 144*  
 %% #trait/fighter #trait/open #trait/stance %%
@@ -64,12 +64,12 @@ You take aim to pick off nearby enemies quickly. When using a ranged volley weap
 title: Quick Shot, Feat 4
 collapse: closed
 # Quick Shot  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  [open](rules/traits/open.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [open](rules/traits/open.md "Open Combat Trait")  
 
 - **Prerequisites**: [Archer Dedication](compendium/feats/archer-dedication-apg.md)
 - **Activity** Single Action
 
-You draw your bow and attack with the same action. You [Interact](rules/actions/interact.md) to draw a weapon from the bow weapon group that is loaded or has [reload 0](rules/traits/reload.md), then [Strike](rules/actions/strike.md) with that weapon.
+You draw your bow and attack with the same action. You [Interact](rules/actions/interact.md) to draw a weapon from the bow weapon group that is loaded or has reload 0, then [Strike](rules/actions/strike.md) with that weapon.
 
 *Source: Advanced Player's Guide p. 157*  
 %% #trait/archetype #trait/open %%
@@ -79,7 +79,7 @@ You draw your bow and attack with the same action. You [Interact](rules/actions/
 title: Advanced Bow Training, Feat 6
 collapse: closed
 # Advanced Bow Training  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Archer Dedication](compendium/feats/archer-dedication-apg.md)
 
@@ -93,7 +93,7 @@ Through constant practice and the crucible of experience, you increase your skil
 title: Crossbow Terror, Feat 6
 collapse: closed
 # Crossbow Terror  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Archer Dedication](compendium/feats/archer-dedication-apg.md)
 
@@ -107,11 +107,11 @@ You are a dynamo with the crossbow. You gain a +2 circumstance bonus to damage w
 title: Double Shot, Feat 6*
 collapse: closed
 # Double Shot  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 6*  
-[fighter](rules/traits/fighter.md)  [flourish](rules/traits/flourish.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 > [!pf2-note] This version of [Double Shot](compendium/feats/double-shot.md) is intended for use with the Archer Archetype. Its level has been changed accordingly.
 
-- **Requirements**: You are wielding a ranged weapon with [reload <0>](rules/traits/reload.md).
+- **Requirements**: You are wielding a ranged weapon with [reload <0>](rules/traits/reload-0.md "Reload Weapon Trait").
 - **Activity** Two-Action
 
 You shoot twice in blindingly fast succession. Make two [Strikes](rules/actions/strike.md), each against a separate target and with a –2 penalty. Both attacks count toward your multiple attack penalty, but the penalty doesn't increase until after you've made both of them.
@@ -124,11 +124,11 @@ You shoot twice in blindingly fast succession. Make two [Strikes](rules/actions/
 title: Parting Shot, Feat 6*
 collapse: closed
 # Parting Shot  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 6*  
-[fighter](rules/traits/fighter.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 > [!pf2-note] This version of [Parting Shot](compendium/feats/parting-shot-apg.md) is intended for use with the Archer Archetype. Its level has been changed accordingly.
 
-- **Requirements**: You are wielding a loaded ranged weapon or a ranged weapon with [reload 0](rules/traits/reload.md).
+- **Requirements**: You are wielding a loaded ranged weapon or a ranged weapon with reload 0.
 - **Activity** Two-Action
 
 You jump back and fire a quick shot that catches your opponent off guard. You [Step](rules/actions/step.md) and then make a ranged [Strike](rules/actions/strike.md) with the required weapon. Your target is [flat-footed](rules/conditions.md#Flat-footed) against the attack.
@@ -141,7 +141,7 @@ You jump back and fire a quick shot that catches your opponent off guard. You [S
 title: Running Reload, Feat 6*
 collapse: closed
 # Running Reload  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 > [!pf2-note] This version of [Running Reload](compendium/feats/running-reload.md) is intended for use with the Archer Archetype. Its level has been changed accordingly.
 
@@ -157,7 +157,7 @@ You can reload your weapon on the move. You [Stride](rules/actions/stride.md), [
 title: Archer's Aim, Feat 8
 collapse: closed
 # Archer's Aim  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  [concentrate](rules/traits/concentrate.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
 
 - **Prerequisites**: [Archer Dedication](compendium/feats/archer-dedication-apg.md)
 - **Activity** Two-Action
@@ -174,7 +174,7 @@ You gain a +2 circumstance bonus to the attack roll and ignore the target's [con
 title: Triple Shot, Feat 8*
 collapse: closed
 # Triple Shot  *Feat 8*  
-[fighter](rules/traits/fighter.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 > [!pf2-note] This version of [Triple Shot](compendium/feats/triple-shot.md) is intended for use with the Archer Archetype. Its level has been changed accordingly.
 
@@ -190,7 +190,7 @@ You can quickly fire multiple shots with greater control. When you use Double Sh
 title: Mobile Shot Stance, Feat 10*
 collapse: closed
 # Mobile Shot Stance  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
-[fighter](rules/traits/fighter.md)  [stance](rules/traits/stance.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
 
 > [!pf2-note] This version of [Mobile Shot Stance](compendium/feats/mobile-shot-stance.md) is intended for use with the Archer Archetype. Its level has been changed accordingly.
 
@@ -206,12 +206,12 @@ Your shots become nimble and deadly. While you're in this stance, your ranged [S
 title: Multishot Stance, Feat 18*
 collapse: closed
 # Multishot Stance  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 18*  
-[fighter](rules/traits/fighter.md)  [stance](rules/traits/stance.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
 
 > [!pf2-note] This version of [Multishot Stance](compendium/feats/multishot-stance.md) is intended for use with the Archer Archetype. Its level has been changed accordingly.
 
 - **Prerequisites**: [Triple Shot](compendium/feats/triple-shot.md)
-- **Requirements**: You are wielding a ranged weapon with [reload 0](rules/traits/reload.md).
+- **Requirements**: You are wielding a ranged weapon with reload 0.
 - **Activity** Single Action
 
 You lock yourself in a stable position so you can fire swiftly and accurately. While you are in this stance, your penalty for [Double Shot](compendium/feats/double-shot.md) is reduced to –1, or –2 if you add the extra action to make three [Strikes](rules/actions/strike.md). If you move from your position, this stance ends.

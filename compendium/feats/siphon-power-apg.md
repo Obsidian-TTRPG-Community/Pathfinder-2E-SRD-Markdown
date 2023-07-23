@@ -7,7 +7,7 @@ tags:
 aliases: ["Siphon Power"]
 ---
 # Siphon Power  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 16*  
-[witch](rules/traits/witch-apg.md)  
+[witch](rules/traits/witch-apg.md "Witch Class Trait")  
 
 - **Frequency**: once per day
 - **Requirements**: You haven't acted yet on your turn.

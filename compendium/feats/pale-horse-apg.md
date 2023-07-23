@@ -8,7 +8,7 @@ tags:
 aliases: ["Pale Horse"]
 ---
 # Pale Horse  *Feat 12*  
-[champion](rules/traits/champion.md)  [uncommon](rules/traits/uncommon.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: divine ally (steed), tenets of evil
 

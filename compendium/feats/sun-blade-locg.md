@@ -8,7 +8,7 @@ tags:
 aliases: ["Sun Blade"]
 ---
 # Sun Blade  *Feat 4*  
-[champion](rules/traits/champion.md)  [uncommon](rules/traits/uncommon.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 
 You can unleash burning sunlight from your sword or spear. You gain the [sun blade](compendium/spells/sun-blade-locg.md) devotion spell. Increase the number of Focus Points in your focus pool by 1.

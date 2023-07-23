@@ -12,12 +12,12 @@ tags:
 - trait/two-handed-d12
 aliases: ["Ragathiel", "General of Vengeance"]
 ---
-# Ragathiel (General of Vengeance) *([LG](rules/traits/lawful-goo-b1.md))*  
+# Ragathiel (General of Vengeance) *([LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 128*  
 
 - **Category**: Empyreal Lords
 - **Anathema**: cower from combat, forgive those who have irreparably sinned, leave allies unwillingly in darkness
-- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md)
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait")
 
 ## Devotee benefits
 
@@ -32,6 +32,6 @@ aliases: ["Ragathiel", "General of Vengeance"]
 title: [Avatar](compendium/spells/avatar.md) of Ragathiel
 
 - **Speed**: Speed 30 feet, fly 70 feet
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") bastard sword ([reach <15 feet>](rules/traits/reach.md), silver, two-handed <d12>), **Damage** `5d8+6` slashing and `1d8` fire
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") bastard sword ([reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), silver, two-handed <d12>), **Damage** `5d8+6` slashing and `1d8` fire
 - **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") flames of righteous vengeance **Damage** `4d6+3` fire and `1d6` fire splash The caster is immune to this splash damage
 ```

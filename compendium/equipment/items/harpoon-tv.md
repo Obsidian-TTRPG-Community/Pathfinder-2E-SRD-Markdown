@@ -9,7 +9,7 @@ tags:
 aliases: ["Harpoon"]
 ---
 # Harpoon *Item 0*  
-[tethered](rules/traits/tethered-b1.md)  [thrown](rules/traits/thrown.md)  
+[tethered](rules/traits/tethered-b1.md "Tethered Weapon Trait")  [thrown](rules/traits/thrown.md "Thrown Weapon Trait")  
 
 - **Price** 1 gp
 - **Bulk** 1

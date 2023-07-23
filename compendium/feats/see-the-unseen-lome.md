@@ -7,7 +7,7 @@ tags:
 aliases: ["See The Unseen"]
 ---
 # See The Unseen  *Feat 13*  
-[goloma](rules/traits/goloma-lome.md)  
+[goloma](rules/traits/goloma-lome.md "Goloma Ancestry & Heritage Trait")  
 
 
 You notice things that others can't see at all. While you're adjacent to an [undetected](rules/conditions.md#Undetected) creature of your level or lower, it is instead only [hidden](rules/conditions.md#Hidden) from you. You only need a successful DC 5 flat check to target a [hidden](rules/conditions.md#Hidden) creature.

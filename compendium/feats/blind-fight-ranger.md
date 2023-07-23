@@ -7,7 +7,7 @@ tags:
 aliases: ["Blind-fight (Ranger)"]
 ---
 # Blind-fight (Ranger)  *Feat 8*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: master in [Perception](compendium/skills.md#Perception)
 

@@ -9,9 +9,9 @@ tags:
 aliases: ["Animal Messenger"]
 ---
 # Animal Messenger *Spell 2*   
-[enchantment](rules/traits/enchantment.md)  [mental](rules/traits/mental.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md)
+- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** 1 minute 
 - **Range**120 foot
 - **Duration**see text

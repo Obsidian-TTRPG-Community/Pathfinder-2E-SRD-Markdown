@@ -12,7 +12,7 @@ tags:
 aliases: ["Medusa Armor"]
 ---
 # Medusa Armor *Item 14*  
-[cursed](rules/traits/cursed-gmg.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  [transmutation](rules/traits/transmutation.md)  
+[cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Usage** worn armor; **Bulk** 3
 - **Category** Armor

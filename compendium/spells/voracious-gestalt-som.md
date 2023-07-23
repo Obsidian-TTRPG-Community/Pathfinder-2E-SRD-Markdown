@@ -12,9 +12,9 @@ tags:
 aliases: ["Voracious Gestalt"]
 ---
 # Voracious Gestalt *Spell 9*   
-[aura](rules/traits/aura.md)  [death](rules/traits/death.md)  [evil](rules/traits/evil.md)  [necromancy](rules/traits/necromancy.md)  
+[aura](rules/traits/aura.md "Aura Combat Trait")  [death](rules/traits/death.md "Death Effect Trait")  [evil](rules/traits/evil.md "Evil Alignment Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md), [occult](rules/traits/occult.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**30-foot emanation
 - **Saving Throw**  basic Fortitude

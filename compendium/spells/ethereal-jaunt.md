@@ -10,15 +10,15 @@ tags:
 aliases: ["Ethereal Jaunt"]
 ---
 # Ethereal Jaunt *Spell 7*   
-[conjuration](rules/traits/conjuration.md)  [teleportation](rules/traits/teleportation.md)  [uncommon](rules/traits/uncommon.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md), [occult](rules/traits/occult.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Duration**sustained up to 1 minute
 
 You travel to the Ethereal Plane, which overlaps the Material Plane. Material Plane creatures can't see you, and you can move through things on the Material Plane. You move at half your normal Speeds, but can move in any direction (including up and down)
 
-You can see onto the Material Plane within a radius of 60 feet; it is gray, hazy, and [concealed](rules/conditions.md#Concealed) from you. You can't affect the Material Plane, and you can't be affected by the Material Plane except by [force](rules/traits/force.md) effects and abjurations originating there.
+You can see onto the Material Plane within a radius of 60 feet; it is gray, hazy, and [concealed](rules/conditions.md#Concealed) from you. You can't affect the Material Plane, and you can't be affected by the Material Plane except by [force](rules/traits/force.md "Force Energy & Element Trait") effects and abjurations originating there.
 
 When the spell ends, you return to the Material Plane. If you're in the air, you fall (unless you can fly), and if you're inside an object, you're pushed into the nearest open space and take `1d6` damage per 5 feet you were pushed.
 

@@ -10,7 +10,7 @@ tags:
 aliases: ["Draxie's Recipe Book"]
 ---
 # Draxie's Recipe Book *Item 4*  
-[grimoire](rules/traits/grimoire-som.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+[grimoire](rules/traits/grimoire-som.md "Grimoire Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 90 gp
 - **Bulk** L

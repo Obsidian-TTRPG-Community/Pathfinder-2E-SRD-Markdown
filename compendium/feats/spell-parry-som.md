@@ -7,7 +7,7 @@ tags:
 aliases: ["Spell Parry"]
 ---
 # Spell Parry  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 2*  
-[magus](rules/traits/magus-som.md)  
+[magus](rules/traits/magus-som.md "Magus Class Trait")  
 
 - **Requirements**: You have one or more hands free.
 - **Activity** Single Action

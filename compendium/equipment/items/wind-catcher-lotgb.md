@@ -10,7 +10,7 @@ tags:
 aliases: ["Wind-catcher"]
 ---
 # Wind-catcher *Item 7+*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Usage** applied to a wind-powered vehicle
 - **Category** Rune

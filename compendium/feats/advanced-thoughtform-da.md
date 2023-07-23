@@ -7,7 +7,7 @@ tags:
 aliases: ["Advanced Thoughtform"]
 ---
 # Advanced Thoughtform  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Thoughtform](compendium/feats/basic-thoughtform-da.md)
 

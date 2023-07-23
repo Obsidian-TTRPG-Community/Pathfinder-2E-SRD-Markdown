@@ -12,7 +12,7 @@ tags:
 aliases: ["Addlebrain"]
 ---
 # Addlebrain *Item 7*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [inhaled](rules/traits/inhaled.md)  [poison](rules/traits/poison.md)  [rare](rules/traits/rare.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [inhaled](rules/traits/inhaled.md "Inhaled Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 58 gp
 - **Usage** held in 2 hands; **Bulk** L

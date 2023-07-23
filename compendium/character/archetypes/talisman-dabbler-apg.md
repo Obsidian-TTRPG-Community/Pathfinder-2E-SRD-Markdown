@@ -15,7 +15,7 @@ The classic idea of magic is that of a hoary wizard, poring over a crumbling boo
 title: Talisman Dabbler Dedication, Feat 2
 collapse: closed
 # Talisman Dabbler Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 
 You are trained in the use of talismans and similar magical paraphernalia. This training might have occurred in a formal classroom or been an agglomeration of folk magic picked up over time. You can craft talismans and know the formulas for all common talismans in the Core Rulebook of your level or lower. You remember talisman formulas and don't need a formula book for them.
@@ -36,7 +36,7 @@ Finally, when you [Affix a Talisman](rules/actions/affix-a-talisman.md), you can
 title: Quick Fix, Feat 4
 collapse: closed
 # Quick Fix  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Talisman Dabbler Dedication](compendium/feats/talisman-dabbler-dedication-apg.md)
 
@@ -54,7 +54,7 @@ You gain the ability to [Affix a Talisman](rules/actions/affix-a-talisman.md) as
 title: Deeper Dabbler, Feat 8
 collapse: closed
 # Deeper Dabbler  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Talisman Dabbler Dedication](compendium/feats/talisman-dabbler-dedication-apg.md)
 
@@ -70,7 +70,7 @@ With some streamlining to your process and a deeper collection of talisman mater
 title: Talismanic Sage, Feat 14*
 collapse: closed
 # Talismanic Sage  *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Talismanic Sage](compendium/feats/talismanic-sage-apg.md) is intended for use with the Talisman Dabbler Archetype. Its level has been changed accordingly.
 

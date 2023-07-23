@@ -7,7 +7,7 @@ tags:
 aliases: ["Elf Atavism"]
 ---
 # Elf Atavism  *Feat 1*  
-[half-elf](rules/traits/half-elf.md)  
+[half-elf](rules/traits/half-elf.md "Half-Elf Ancestry & Heritage Trait")  
 
 
 Your elven blood runs particularly strong, granting you features far more elven than those of a typical half-elf. You may also have been raised among elves, steeped in your elven ancestors' heritage. You gain the benefits of the elf heritage of your elven parent or ancestors. You typically can't select a heritage that depends on or improves an elven feature you don't have. For example, you couldn't gain the cavern elf's [darkvision](rules/abilities/darkvision.md) ability if you didn't have [low-light vision](rules/abilities/low-light-vision.md). In these cases, at the GM's discretion, you might gain a different benefit.

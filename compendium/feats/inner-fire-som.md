@@ -7,7 +7,7 @@ tags:
 aliases: ["Inner Fire"]
 ---
 # Inner Fire  *Feat 6*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Prerequisites**: [Stoked Flame Stance](compendium/feats/stoked-flame-stance-som.md)
 

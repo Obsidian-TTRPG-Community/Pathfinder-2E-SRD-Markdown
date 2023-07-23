@@ -11,7 +11,7 @@ tags:
 aliases: ["Orc Necksplitter"]
 ---
 # Orc Necksplitter *Item 0*  
-[forceful](rules/traits/forceful.md)  [orc](rules/traits/orc.md)  [sweep](rules/traits/sweep.md)  [uncommon](rules/traits/uncommon.md)  
+[forceful](rules/traits/forceful.md "Forceful Weapon Trait")  [orc](rules/traits/orc.md "Orc Ancestry & Heritage Trait")  [sweep](rules/traits/sweep.md "Sweep Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 2 gp
 - **Bulk** 1

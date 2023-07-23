@@ -10,7 +10,7 @@ tags:
 aliases: ["Summoner's Call"]
 ---
 # Summoner's Call  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 12*  
-[concentrate](rules/traits/concentrate.md)  [conjuration](rules/traits/conjuration.md)  [summoner](rules/traits/summoner-som.md)  [teleportation](rules/traits/teleportation.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [summoner](rules/traits/summoner-som.md "Summoner Class Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  
 
 - **Trigger** You or your eidolon take damage from a foe or hazard.
 - **Requirements**: Your eidolon is manifested more than 5 feet away.

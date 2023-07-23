@@ -7,7 +7,7 @@ tags:
 aliases: ["Winglets"]
 ---
 # Winglets  *Feat 5*  
-[kobold](rules/traits/kobold-b1.md)  
+[kobold](rules/traits/kobold-b1.md "Kobold Ancestry & Heritage Trait")  
 
 
 You're among the few kobolds who grow a set of draconic wings later in life. The wings are initially small and weak; while not enough for full flight, a strong flap allows you to jump further.

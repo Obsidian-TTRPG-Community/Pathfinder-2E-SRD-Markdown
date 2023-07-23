@@ -7,7 +7,7 @@ tags:
 aliases: ["Unnerving Expansion"]
 ---
 # Unnerving Expansion  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Curse Maelstrom Dedication](compendium/feats/curse-maelstrom-dedication-da.md)
 - **Activity** Single Action

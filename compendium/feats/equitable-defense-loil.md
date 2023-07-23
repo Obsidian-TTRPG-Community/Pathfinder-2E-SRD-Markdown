@@ -7,7 +7,7 @@ tags:
 aliases: ["Equitable Defense"]
 ---
 # Equitable Defense  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Shieldmarshal Dedication](compendium/feats/shieldmarshal-dedication-loil.md)
 - **Frequency**: once per 10 minutes

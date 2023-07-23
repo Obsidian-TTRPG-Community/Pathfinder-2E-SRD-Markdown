@@ -11,7 +11,7 @@ tags:
 aliases: ["Touch Of The Moon"]
 ---
 # Touch Of The Moon *Focus 4*   
-[cleric](rules/traits/cleric.md)  [enchantment](rules/traits/enchantment.md)  [light](rules/traits/light.md)  [uncommon](rules/traits/uncommon.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [light](rules/traits/light.md "Light Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Domains**: [moon](compendium/setting/domains.md#Moon)
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 

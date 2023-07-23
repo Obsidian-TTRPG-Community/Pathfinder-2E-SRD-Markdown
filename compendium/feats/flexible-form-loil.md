@@ -7,7 +7,7 @@ tags:
 aliases: ["Flexible Form"]
 ---
 # Flexible Form  *Feat 1*  
-[ghoran](rules/traits/ghoran-loil.md)  
+[ghoran](rules/traits/ghoran-loil.md "Ghoran Ancestry & Heritage Trait")  
 
 - **Prerequisites**: any heritage except strong oak
 

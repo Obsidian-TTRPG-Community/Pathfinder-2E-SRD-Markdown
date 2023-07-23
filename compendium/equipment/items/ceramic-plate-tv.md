@@ -9,7 +9,7 @@ tags:
 aliases: ["Ceramic Plate"]
 ---
 # Ceramic Plate *Item 0*  
-[adjusted <armor latches>](rules/traits/adjusted-tv.md)  [noisy](rules/traits/noisy.md)  
+[adjusted <armor latches>](rules/traits/adjusted-armor-latches-tv.md "Adjusted Armor Trait")  [noisy](rules/traits/noisy.md "Noisy Armor Trait")  
 
 - **Price** 6 gp
 - **Bulk** 2

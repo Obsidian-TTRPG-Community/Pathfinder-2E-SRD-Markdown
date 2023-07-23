@@ -11,7 +11,7 @@ tags:
 aliases: ["Whirlwind Vial"]
 ---
 # Whirlwind Vial *Item 11*  
-[air](rules/traits/air.md)  [alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [expandable](rules/traits/expandable-tv.md)  
+[air](rules/traits/air.md "Air Energy & Element Trait")  [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [expandable](rules/traits/expandable-tv.md "Expandable Item Trait")  
 
 - **Price** 250 gp
 - **Usage** held in 1 hand; **Bulk** L

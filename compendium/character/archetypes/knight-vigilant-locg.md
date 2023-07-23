@@ -15,7 +15,7 @@ Taking their lead from heroic stories of the Shining Crusade, the knights vigila
 title: Knight Vigilant Dedication, Feat 6
 collapse: closed
 # Knight Vigilant Dedication  *Feat 6*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: trained in [Religion](compendium/skills.md#Religion), any good alignment, member of the Knights of Lastwall of knight rank
 
@@ -24,14 +24,14 @@ You are dedicated to the cause of the Shining Sentinels. You gain expert profici
 **Special.** You cannot select another dedication feat until you have gained two other feats from the Knight Vigilant archetype.
 
 *Source: Lost Omens: Character Guide p. 94*  
-%% #trait/uncommon #trait/archetype #trait/dedication %%
+%% #trait/archetype #trait/dedication #trait/uncommon %%
 ```  
 
 ```ad-embed-feat
 title: Shield Warden (Fighter), Feat 8*
 collapse: closed
 # Shield Warden (Fighter)  *Feat 8*  
-[fighter](rules/traits/fighter.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 > [!pf2-note] This version of [Shield Warden (Fighter)](compendium/feats/shield-warden-fighter.md) is intended for use with the Knight Vigilant Archetype. Its level has been changed accordingly.
 
@@ -47,11 +47,11 @@ You use your shield to protect your allies. When you have a [shield raised](rule
 title: Unshakable Idealism, Feat 8
 collapse: closed
 # Unshakable Idealism  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Knight Vigilant Dedication](compendium/feats/knight-vigilant-dedication-locg.md), expert in Will saves
 
-Your faith and hope can't be shaken, and you won't flee when lives are at stake. You gain a +1 circumstance bonus on saves against [fear](rules/traits/fear.md) effects and [emotion](rules/traits/emotion.md) effects that inflict despair. When you would gain the [fleeing](rules/conditions.md#Fleeing) condition, you can choose to stand your ground and be [stunned](rules/conditions.md#Stunned) for the effect's duration as well, preventing you from running and allowing you to re-enter the fight more quickly when the effect ends.
+Your faith and hope can't be shaken, and you won't flee when lives are at stake. You gain a +1 circumstance bonus on saves against [fear](rules/traits/fear.md "Fear Effect Trait") effects and [emotion](rules/traits/emotion.md "Emotion Effect Trait") effects that inflict despair. When you would gain the [fleeing](rules/conditions.md#Fleeing) condition, you can choose to stand your ground and be [stunned](rules/conditions.md#Stunned) for the effect's duration as well, preventing you from running and allowing you to re-enter the fight more quickly when the effect ends.
 
 *Source: Lost Omens: Character Guide p. 94*  
 %% #trait/archetype %%
@@ -61,7 +61,7 @@ Your faith and hope can't be shaken, and you won't flee when lives are at stake.
 title: Endure Death's Touch, Feat 10
 collapse: closed
 # Endure Death's Touch  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Knight Vigilant Dedication](compendium/feats/knight-vigilant-dedication-locg.md), expert in medium or heavy armor
 - **Trigger** An undead hits you with an unarmed attack.
@@ -78,7 +78,7 @@ Your conviction redirects the undead's attack through your armor and then harmle
 title: Aegis Of Arnisant, Feat 12*
 collapse: closed
 # Aegis Of Arnisant  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Aegis Of Arnisant](compendium/feats/aegis-of-arnisant-locg.md) is intended for use with the Knight Vigilant Archetype. Its level has been changed accordingly.
 
@@ -90,7 +90,7 @@ Inspired by the tale of Arnisant, you transform your shield into a magic ward. U
 
 ```ad-embed-ability
 title: Absorb into the Aegis [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[manipulate](rules/traits/manipulate.md)  
+[manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 
 - **Trigger**: An enemy casts a spell that targets you or an ally within 15 feet of you.
 
@@ -106,7 +106,7 @@ title: Absorb into the Aegis [R](rules/core-rulebook/chapter-9-playing-the-game.
 title: Knight In Shining Armor, Feat 12*
 collapse: closed
 # Knight In Shining Armor  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Knight In Shining Armor](compendium/feats/knight-in-shining-armor-locg.md) is intended for use with the Knight Vigilant Archetype. Its level has been changed accordingly.
 
@@ -124,7 +124,7 @@ Knight Reclaimant Knights reclaimant spend much of their time amid the horrors o
 title: Mirror Shield, Feat 12*
 collapse: closed
 # Mirror Shield  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 12*  
-[fighter](rules/traits/fighter.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 > [!pf2-note] This version of [Mirror Shield](compendium/feats/mirror-shield.md) is intended for use with the Knight Vigilant Archetype. Its level has been changed accordingly.
 

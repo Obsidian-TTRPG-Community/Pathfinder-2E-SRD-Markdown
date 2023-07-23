@@ -8,7 +8,7 @@ tags:
 aliases: ["Pharaoh's Ward"]
 ---
 # Pharaoh's Ward *Hazard 7*  
-[magical](rules/traits/magical.md)  [trap](rules/traits/trap.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 25 expert  
@@ -19,7 +19,7 @@ A curse is imbued on an entryway's threshold.
      
 ```ad-embed-ability
 title: Curse the Intruders [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[curse](rules/traits/curse.md)  [divine](rules/traits/divine.md)  [necromancy](rules/traits/necromancy.md)  
+[curse](rules/traits/curse.md "Curse Effect Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 - **Trigger**: The seal on the tomb is [broken](rules/conditions.md#Broken) from the outside.
 

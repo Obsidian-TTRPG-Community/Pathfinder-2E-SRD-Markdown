@@ -9,7 +9,7 @@ tags:
 aliases: ["Extradimensional Stash"]
 ---
 # Extradimensional Stash  *Feat 20*  
-[extradimensional](rules/traits/extradimensional.md)  [rogue](rules/traits/rogue.md)  [uncommon](rules/traits/uncommon.md)  
+[extradimensional](rules/traits/extradimensional.md "Extradimensional Effect Trait")  [rogue](rules/traits/rogue.md "Rogue Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: legendary in [Thievery](compendium/skills.md#Thievery)
 

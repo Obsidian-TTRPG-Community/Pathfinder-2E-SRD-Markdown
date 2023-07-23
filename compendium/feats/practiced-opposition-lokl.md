@@ -7,7 +7,7 @@ tags:
 aliases: ["Practiced Opposition"]
 ---
 # Practiced Opposition  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Lastwall Sentry Dedication](compendium/feats/lastwall-sentry-dedication-lowg.md)
 - **Activity** Single Action

@@ -8,7 +8,7 @@ tags:
 aliases: ["Sacral Monarch"]
 ---
 # Sacral Monarch  *Feat 14*  
-[champion](rules/traits/champion.md)  [oracle](rules/traits/oracle-apg.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  [oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  
 
 - **Prerequisites**: [Sacral Lord](compendium/feats/sacral-lord-da.md), master in [Occultism](compendium/skills.md#Occultism) or [Religion](compendium/skills.md#Religion)
 

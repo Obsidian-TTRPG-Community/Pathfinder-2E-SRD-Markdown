@@ -11,7 +11,7 @@ tags:
 aliases: ["Radiant Spark"]
 ---
 # Radiant Spark *Item 25*  
-[artifact](rules/traits/artifact-gmg.md)  [conjuration](rules/traits/conjuration.md)  [occult](rules/traits/occult.md)  [unique](rules/traits/unique.md)  
+[artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Artifact

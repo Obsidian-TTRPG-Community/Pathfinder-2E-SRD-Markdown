@@ -7,7 +7,7 @@ tags:
 aliases: ["Elaborate Scroll Esoterica"]
 ---
 # Elaborate Scroll Esoterica  *Feat 12*  
-[thaumaturge](rules/traits/thaumaturge-da.md)  
+[thaumaturge](rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
 
 - **Prerequisites**: Scroll Esoterica
 

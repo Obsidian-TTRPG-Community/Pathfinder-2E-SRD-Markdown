@@ -11,7 +11,7 @@ tags:
 aliases: ["Drum Of Upheaval"]
 ---
 # Drum Of Upheaval *Item 20*  
-[conjuration](rules/traits/conjuration.md)  [earth](rules/traits/earth.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 60000 gp
 - **Usage** held in 2 hands; **Bulk** 1

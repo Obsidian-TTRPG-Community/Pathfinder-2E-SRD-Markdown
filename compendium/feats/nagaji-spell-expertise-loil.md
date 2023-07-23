@@ -7,7 +7,7 @@ tags:
 aliases: ["Nagaji Spell Expertise"]
 ---
 # Nagaji Spell Expertise  *Feat 13*  
-[nagaji](rules/traits/nagaji-loil.md)  
+[nagaji](rules/traits/nagaji-loil.md "Nagaji Ancestry & Heritage Trait")  
 
 - **Prerequisites**: Nagaji Spell Mysteries
 

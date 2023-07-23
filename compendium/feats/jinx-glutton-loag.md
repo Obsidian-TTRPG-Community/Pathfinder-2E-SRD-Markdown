@@ -7,7 +7,7 @@ tags:
 aliases: ["Jinx Glutton"]
 ---
 # Jinx Glutton  *Feat 13*  
-[tengu](rules/traits/tengu-b1.md)  
+[tengu](rules/traits/tengu-b1.md "Tengu Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Eat Fortune](compendium/feats/eat-fortune-apg.md)
 

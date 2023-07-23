@@ -7,7 +7,7 @@ tags:
 aliases: ["Surprise Attack"]
 ---
 # Surprise Attack  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Assassin Dedication](compendium/feats/assassin-dedication-apg.md)
 

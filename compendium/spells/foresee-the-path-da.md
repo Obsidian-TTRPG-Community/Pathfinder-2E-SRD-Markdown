@@ -11,7 +11,7 @@ tags:
 aliases: ["Foresee the Path"]
 ---
 # Foresee the Path *Cantrip 5*   
-[cantrip](rules/traits/cantrip.md)  [divination](rules/traits/divination.md)  [psychic](rules/traits/psychic-da.md)  [uncommon](rules/traits/uncommon.md)  
+[cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**60 foot

@@ -15,7 +15,7 @@ You attract the loyalty of animals, and as your powers increase you can command 
 > 
 > ```ad-embed-ability
 > title: Call Companion
-> [exploration](rules/traits/exploration.md)  
+> [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  
 > 
 > You spend 1 minute calling for a different animal companion, switching your active companion for another of your animal companions.  
 > %% #trait/exploration %%
@@ -27,7 +27,7 @@ You attract the loyalty of animals, and as your powers increase you can command 
 title: Beastmaster Dedication, Feat 2
 collapse: closed
 # Beastmaster Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: trained in [Nature](compendium/skills.md#Nature)
 
@@ -47,11 +47,11 @@ When you gain your first beastmaster focus spell, you become trained in primal s
 title: Additional Companion, Feat 4
 collapse: closed
 # Additional Companion  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Beastmaster Dedication](compendium/feats/beastmaster-dedication-apg.md)
 
-Another animal joins you in your travels. It is a young animal companion that has the [minion](rules/traits/minion.md) trait. See Beastmaster Animal Companions for rules on how having multiple animal companions works.
+Another animal joins you in your travels. It is a young animal companion that has the [minion](rules/traits/minion.md "Minion Creature Trait") trait. See Beastmaster Animal Companions for rules on how having multiple animal companions works.
 
 **Special.** You can select this feat more than once, gaining an additional animal companion each time, to a maximum of four total companions (including the one you gained from Beastmaster Dedication and possibly one you gained from sources other than the beastmaster archetype).
 
@@ -63,7 +63,7 @@ Another animal joins you in your travels. It is a young animal companion that ha
 title: Heal Animal, Feat 4
 collapse: closed
 # Heal Animal  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Beastmaster Dedication](compendium/feats/beastmaster-dedication-apg.md)
 
@@ -77,7 +77,7 @@ You can heal your animal companion's wounds. You can cast [heal animal](compendi
 title: Magic Hide, Feat 4*
 collapse: closed
 # Magic Hide  *Feat 4*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 > [!pf2-note] This version of [Magic Hide](compendium/feats/magic-hide-apg.md) is intended for use with the Beastmaster Archetype. Its level has been changed accordingly.
 
@@ -93,7 +93,7 @@ You can defend your companion in battle. You gain the [magic hide](compendium/sp
 title: Mature Beastmaster Companion, Feat 4
 collapse: closed
 # Mature Beastmaster Companion  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Beastmaster Dedication](compendium/feats/beastmaster-dedication-apg.md)
 
@@ -107,7 +107,7 @@ All of your animal companions grow up, becoming mature animal companions and gai
 title: Wild Empathy, Feat 4*
 collapse: closed
 # Wild Empathy  *Feat 4*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 > [!pf2-note] This version of [Wild Empathy](compendium/feats/wild-empathy.md) is intended for use with the Beastmaster Archetype. Its level has been changed accordingly.
 
@@ -122,7 +122,7 @@ You have a connection to the creatures of the natural world that allows you to c
 title: Beastmaster's Trance, Feat 6
 collapse: closed
 # Beastmaster's Trance  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Beastmaster Dedication](compendium/feats/beastmaster-dedication-apg.md)
 
@@ -138,7 +138,7 @@ You gain the focus spell [beastmaster trance](compendium/spells/beastmaster-tran
 title: Companion's Cry, Feat 6*
 collapse: closed
 # Companion's Cry  *Feat 6*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 > [!pf2-note] This version of [Companion's Cry](compendium/feats/companions-cry.md) is intended for use with the Beastmaster Archetype. Its level has been changed accordingly.
 
@@ -154,7 +154,7 @@ You can urge your companion to do its utmost. You can spend 2 actions to [Comman
 title: Incredible Beastmaster Companion, Feat 8
 collapse: closed
 # Incredible Beastmaster Companion  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Mature Beastmaster Companion](compendium/feats/mature-beastmaster-companion-apg.md)
 
@@ -170,7 +170,7 @@ They each become nimble or savage animal companions (your choice, choose for eac
 title: Beastmaster Bond, Feat 10
 collapse: closed
 # Beastmaster Bond  *Feat 10*  
-[archetype](rules/traits/archetype.md)  [divination](rules/traits/divination.md)  [mental](rules/traits/mental.md)  [primal](rules/traits/primal.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  
 
 - **Prerequisites**: [Beastmaster Dedication](compendium/feats/beastmaster-dedication-apg.md)
 
@@ -184,7 +184,7 @@ You can communicate telepathically with your animal companions within 100 feet. 
 title: Enlarge Companion, Feat 10*
 collapse: closed
 # Enlarge Companion  *Feat 10*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 > [!pf2-note] This version of [Enlarge Companion](compendium/feats/enlarge-companion-apg.md) is intended for use with the Beastmaster Archetype. Its level has been changed accordingly.
 
@@ -200,7 +200,7 @@ You make your companion enormous. You gain the [enlarge companion](compendium/sp
 title: Beastmaster's Call, Feat 12*
 collapse: closed
 # Beastmaster's Call  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 12*  
-[archetype](rules/traits/archetype.md)  [auditory](rules/traits/auditory.md)  [concentrate](rules/traits/concentrate.md)  [conjuration](rules/traits/conjuration.md)  [primal](rules/traits/primal.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  
 
 > [!pf2-note] This version of [Beastmaster's Call](compendium/feats/beastmasters-call-apg.md) is intended for use with the Beastmaster Archetype. Its level has been changed accordingly.
 
@@ -211,14 +211,14 @@ collapse: closed
 You quickly call in a primal projection of a non-active companion to provide the companion's support benefit. The projection arrives in an unoccupied square of your choice within 30 feet of you, grants you its support benefit, and then disappears on your next turn. The projection has the same AC and saving throw modifiers as the real companion, and if it would take any damage before your next turn, it disappears and the support benefit ends immediately.
 
 *Source: Advanced Player's Guide p. 161*  
-%% #trait/archetype #trait/auditory #trait/concentrate #trait/primal #trait/conjuration %%
+%% #trait/archetype #trait/auditory #trait/concentrate #trait/conjuration #trait/primal %%
 ```  
 
 ```ad-embed-feat
 title: Side By Side (Ranger), Feat 14*
 collapse: closed
 # Side By Side (Ranger)  *Feat 14*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 > [!pf2-note] This version of [Side By Side (Ranger)](compendium/feats/side-by-side-ranger.md) is intended for use with the Beastmaster Archetype. Its level has been changed accordingly.
 
@@ -234,7 +234,7 @@ You and your animal companion fight in tandem, distracting your foes and keeping
 title: Specialized Beastmaster Companion, Feat 14*
 collapse: closed
 # Specialized Beastmaster Companion  *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Specialized Beastmaster Companion](compendium/feats/specialized-beastmaster-companion-apg.md) is intended for use with the Beastmaster Archetype. Its level has been changed accordingly.
 
@@ -252,7 +252,7 @@ Your nimble and savage animal companions become cunning enough to become special
 title: Lead The Pack, Feat 16*
 collapse: closed
 # Lead The Pack  *Feat 16*  
-[archetype](rules/traits/archetype.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 > [!pf2-note] This version of [Lead The Pack](compendium/feats/lead-the-pack-apg.md) is intended for use with the Beastmaster Archetype. Its level has been changed accordingly.
 
@@ -261,5 +261,5 @@ collapse: closed
 You can have up to two animal companions active at once. However, when you do, it's slightly more difficult to Command them. If you don't Command either of your companions, one of the two (your choice) can still use 1 action on your turn to [Stride](rules/actions/stride.md) or [Strike](rules/actions/strike.md), as per Mature Beastmaster Companion, but not both. When you [Command an Animal](rules/actions/command-an-animal.md), either choose one of the companions to take 2 actions, as normal, or else both companions can take 1 action to [Stride](rules/actions/stride.md) or [Strike](rules/actions/strike.md). Either way, you can't [Command an Animal](rules/actions/command-an-animal.md) to make either companion act again until your next turn.
 
 *Source: Advanced Player's Guide p. 161*  
-%% #trait/uncommon #trait/archetype %%
+%% #trait/archetype #trait/uncommon %%
 ```

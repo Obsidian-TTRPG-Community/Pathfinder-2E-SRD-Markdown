@@ -11,7 +11,7 @@ tags:
 aliases: ["Efficient Apport"]
 ---
 # Efficient Apport *Focus 1*   
-[conjuration](rules/traits/conjuration.md)  [teleportation](rules/traits/teleportation.md)  [uncommon](rules/traits/uncommon.md)  [wizard](rules/traits/wizard.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**60 foot

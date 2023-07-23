@@ -10,7 +10,7 @@ tags:
 aliases: ["Gravity Weapon"]
 ---
 # Gravity Weapon *Focus 1*   
-[evocation](rules/traits/evocation.md)  [ranger](rules/traits/ranger.md)  [uncommon](rules/traits/uncommon.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [ranger](rules/traits/ranger.md "Ranger Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Duration**1 minute

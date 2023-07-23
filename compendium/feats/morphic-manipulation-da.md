@@ -13,7 +13,7 @@ tags:
 aliases: ["Morphic Manipulation"]
 ---
 # Morphic Manipulation  *Feat 7*  
-[exploration](rules/traits/exploration.md)  [general](rules/traits/general.md)  [necromancy](rules/traits/necromancy.md)  [positive](rules/traits/positive.md)  [primal](rules/traits/primal.md)  [skill](rules/traits/skill.md)  [uncommon](rules/traits/uncommon.md)  
+[exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [general](rules/traits/general.md "General Feat Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: master in [Nature](compendium/skills.md#Nature)
 

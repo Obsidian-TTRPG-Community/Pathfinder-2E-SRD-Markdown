@@ -7,7 +7,7 @@ tags:
 aliases: ["Lasting Doubt"]
 ---
 # Lasting Doubt  *Feat 12*  
-[champion](rules/traits/champion.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  
 
 - **Prerequisites**: Redeemer cause
 

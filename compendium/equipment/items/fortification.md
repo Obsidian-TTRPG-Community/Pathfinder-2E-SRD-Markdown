@@ -9,7 +9,7 @@ tags:
 aliases: ["Fortification"]
 ---
 # Fortification *Item 12+*  
-[abjuration](rules/traits/abjuration.md)  [magical](rules/traits/magical.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Usage** etched onto medium or heavy armor
 - **Category** Rune

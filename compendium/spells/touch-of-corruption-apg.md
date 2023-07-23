@@ -11,7 +11,7 @@ tags:
 aliases: ["Touch Of Corruption"]
 ---
 # Touch Of Corruption *Focus 1*   
-[champion](rules/traits/champion.md)  [necromancy](rules/traits/necromancy.md)  [negative](rules/traits/negative.md)  [uncommon](rules/traits/uncommon.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**touch

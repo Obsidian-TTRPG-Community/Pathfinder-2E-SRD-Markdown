@@ -11,7 +11,7 @@ tags:
 aliases: ["Ghosthand's Comet"]
 ---
 # Ghosthand's Comet *Item 23*  
-[artifact](rules/traits/artifact-gmg.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [unique](rules/traits/unique.md)  
+[artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Usage** held in 2 hands; **Bulk** 2
 - **Category** Artifact

@@ -8,7 +8,7 @@ tags:
 aliases: ["Tenacious Blood Magic"]
 ---
 # Tenacious Blood Magic  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 20*  
-[sorcerer](rules/traits/sorcerer.md)  [uncommon](rules/traits/uncommon.md)  
+[sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Frequency**: once per minute
 - **Trigger** You apply an effect from your blood magic that lasts for 1 round.

@@ -12,7 +12,7 @@ tags:
 aliases: ["Drover's Band"]
 ---
 # Drover's Band *Item 7*  
-[enchantment](rules/traits/enchantment.md)  [incapacitation](rules/traits/incapacitation.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 675 gp
 - **Usage** worn bracers; **Bulk** L

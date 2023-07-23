@@ -20,7 +20,7 @@ Performing an alter ego means going unregarded. Passing as just a face in the cr
 title: Alter Ego Dedication, Feat 2
 collapse: closed
 # Alter Ego Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: trained in [Deception](compendium/skills.md#Deception) and [Stealth](compendium/skills.md#Stealth)
 
@@ -28,7 +28,7 @@ You make yourself into a living mirror, becoming a double of someone unremarkabl
 
 ```ad-embed-ability
 title: Assume a Role
-[concentrate](rules/traits/concentrate.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
 
 - **Requirements**: You've spent at least 1 hour studying a creature whose role you intend to copy and have done so within the last 3 days. This could include meeting and learning from someone in that role, tailing and spying on someone, using magic to observe them at work, or some other method, as long as you have a visual source of information
 
@@ -43,18 +43,18 @@ You stop assuming the role after 24 hours, if you start studying for a new role,
 **Special.** You can't select another dedication feat until you've gained two other feats from the alter ego archetype.
 
 *Source: Dark Archive p. 126*  
-%% #trait/uncommon #trait/archetype #trait/dedication %%
+%% #trait/archetype #trait/dedication #trait/uncommon %%
 ````  
 
 ```ad-embed-feat
 title: Change of Face, Feat 4
 collapse: closed
 # Change of Face  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Alter Ego Dedication](compendium/feats/alter-ego-dedication-da.md)
 
-You know that for the best disguise to work, one requires not only the right skills but also the right look—luckily you can copy both using special magical techniques. When you [Impersonate](rules/actions/impersonate.md), you don't need a disguise kit; instead, simple illusions or temporary transmutations ripple over your body like mirror shards, providing the supplies that the kit ordinarily would. When you [Impersonate](rules/actions/impersonate.md) in this way, your [Impersonate](rules/actions/impersonate.md) activity gains the [occult](rules/traits/occult.md) trait.
+You know that for the best disguise to work, one requires not only the right skills but also the right look—luckily you can copy both using special magical techniques. When you [Impersonate](rules/actions/impersonate.md), you don't need a disguise kit; instead, simple illusions or temporary transmutations ripple over your body like mirror shards, providing the supplies that the kit ordinarily would. When you [Impersonate](rules/actions/impersonate.md) in this way, your [Impersonate](rules/actions/impersonate.md) activity gains the [occult](rules/traits/occult.md "Occult Tradition Trait") trait.
 
 *Source: Dark Archive p. 126*  
 %% #trait/archetype #trait/skill %%
@@ -64,7 +64,7 @@ You know that for the best disguise to work, one requires not only the right ski
 title: Fake It Till You Make It, Feat 4
 collapse: closed
 # Fake It Till You Make It  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Alter Ego Dedication](compendium/feats/alter-ego-dedication-da.md)
 
@@ -78,7 +78,7 @@ When you take on a role, you become more capable with all sorts of tasks involvi
 title: In Plain Sight, Feat 4
 collapse: closed
 # In Plain Sight  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Alter Ego Dedication](compendium/feats/alter-ego-dedication-da.md)
 
@@ -92,7 +92,7 @@ People often only see what they want to see, a weakness you know how to take ful
 title: Sound Mirror, Feat 6
 collapse: closed
 # Sound Mirror  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Alter Ego Dedication](compendium/feats/alter-ego-dedication-da.md)
 
@@ -106,7 +106,7 @@ You twist not just the visual, but the auditory as well, allowing you to pass wi
 title: Muscle Mimicry, Feat 7
 collapse: closed
 # Muscle Mimicry  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 7*  
-[archetype](rules/traits/archetype.md)  [concentrate](rules/traits/concentrate.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Alter Ego Dedication](compendium/feats/alter-ego-dedication-da.md); trained in [Athletics](compendium/skills.md#Athletics), master in [Deception](compendium/skills.md#Deception)
 - **Trigger** An enemy makes a successful [Disarm](rules/actions/disarm.md), [Escape](rules/actions/escape.md),
@@ -124,7 +124,7 @@ Your study of another allows you to mirror their movements subtly, even in the h
 title: Swap Reflections, Feat 8
 collapse: closed
 # Swap Reflections  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  [conjuration](rules/traits/conjuration.md)  [extradimensional](rules/traits/extradimensional.md)  [incapacitation](rules/traits/incapacitation.md)  [occult](rules/traits/occult.md)  [teleportation](rules/traits/teleportation.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [extradimensional](rules/traits/extradimensional.md "Extradimensional Effect Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  
 
 - **Prerequisites**: [Alter Ego Dedication](compendium/feats/alter-ego-dedication-da.md)
 - **Frequency**: once per 10 minutes
@@ -146,7 +146,7 @@ You've learned how to use even your reflection to your advantage. You send your 
 title: Borrow Memories, Feat 14*
 collapse: closed
 # Borrow Memories  *Feat 14*  
-[archetype](rules/traits/archetype.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 > [!pf2-note] This version of [Borrow Memories](compendium/feats/borrow-memories-da.md) is intended for use with the Alter Ego Archetype. Its level has been changed accordingly.
 
@@ -157,5 +157,5 @@ Knowing how someone thinks makes it much easier to know where they'll be, or eve
 If you cast [mind probe](compendium/spells/mind-probe.md) on a target you're studying for the purpose of Assuming their Role, and the target fails their save, you can delay the spell from coming into effect until you Assume their Role. When you use the spell this way, you can Sustain it up to 10 times during its duration, asking a question each time. The spell lasts until you ask all 10 questions or are no longer Assuming the Role, whichever comes first. You don't need to [Sustain the Spell](rules/actions/sustain-a-spell.md) to extend its duration—only when asking a question—nor do you need to be in range or have line of effect to Sustain it.
 
 *Source: Dark Archive p. 127*  
-%% #trait/uncommon #trait/archetype %%
+%% #trait/archetype #trait/uncommon %%
 ```

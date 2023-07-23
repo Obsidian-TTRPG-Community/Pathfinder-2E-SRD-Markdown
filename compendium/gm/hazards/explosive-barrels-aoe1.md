@@ -8,7 +8,7 @@ tags:
 aliases: ["Explosive Barrels"]
 ---
 # Explosive Barrels *Hazard 2*  
-[environmental](rules/traits/environmental.md)  [fire](rules/traits/fire.md)  
+[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 15  

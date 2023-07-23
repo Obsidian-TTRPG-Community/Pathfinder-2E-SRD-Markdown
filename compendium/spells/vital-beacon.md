@@ -10,9 +10,9 @@ tags:
 aliases: ["Vital Beacon"]
 ---
 # Vital Beacon *Spell 4*   
-[healing](rules/traits/healing.md)  [necromancy](rules/traits/necromancy.md)  [positive](rules/traits/positive.md)  
+[healing](rules/traits/healing.md "Healing Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md), [primal](rules/traits/primal.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** 1 minute 
 - **Duration**until your next daily preparations
 

@@ -10,9 +10,9 @@ tags:
 aliases: ["Hydraulic Torrent"]
 ---
 # Hydraulic Torrent *Spell 4*   
-[evocation](rules/traits/evocation.md)  [water](rules/traits/water.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md)
+- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**60-foot line
 - **Saving Throw** Fortitude

@@ -7,7 +7,7 @@ tags:
 aliases: ["Blind-fight (Rogue)"]
 ---
 # Blind-fight (Rogue)  *Feat 8*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Prerequisites**: master in [Perception](compendium/skills.md#Perception)
 

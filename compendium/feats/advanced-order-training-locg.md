@@ -8,7 +8,7 @@ tags:
 aliases: ["Advanced Order Training"]
 ---
 # Advanced Order Training  *Feat 12*  
-[archetype](rules/traits/archetype.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Hellknight Armiger Dedication](compendium/feats/hellknight-armiger-dedication-lowg.md); [Hellknight Dedication](compendium/feats/hellknight-dedication-locg.md) or [Hellknight Signifer Dedication](compendium/feats/hellknight-signifer-dedication-locg.md)
 

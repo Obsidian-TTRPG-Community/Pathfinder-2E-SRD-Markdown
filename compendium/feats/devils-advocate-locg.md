@@ -8,7 +8,7 @@ tags:
 aliases: ["Devil's Advocate"]
 ---
 # Devil's Advocate  *Feat 1*  
-[human](rules/traits/human.md)  [uncommon](rules/traits/uncommon.md)  
+[human](rules/traits/human.md "Human Ancestry & Heritage Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: Chelaxian nationality
 

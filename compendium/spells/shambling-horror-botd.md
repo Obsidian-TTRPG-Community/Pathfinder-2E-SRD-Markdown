@@ -10,7 +10,7 @@ tags:
 aliases: ["Shambling Horror"]
 ---
 # Shambling Horror *Focus 6*   
-[evil](rules/traits/evil.md)  [necromancy](rules/traits/necromancy.md)  [uncommon](rules/traits/uncommon.md)  
+[evil](rules/traits/evil.md "Evil Alignment Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**touch
@@ -19,6 +19,6 @@ aliases: ["Shambling Horror"]
 
 You reanimate the corpse of a fallen creature as an undead minion under your control. The reanimated creature is an undead skeleton (Bestiary 298, Bestiary 3 236, page 146) or zombie (Bestiary 340, Bestiary 3 302, page 170). Choose a skeleton or zombie stat block of the same size as the original creature and of a level no higher than the creature's original level. The shambling horror keeps Speeds it had in life, as well as melee [Strikes](rules/actions/strike.md) that deal only physical damage. These attacks use the highest attack modifier from the skeleton or zombie you choose. Some of the skeleton's or zombie's abilities might not make sense for the shambling horror, and some abilities the creature had in life might not persist in undeath; the GM makes the final choice of what abilities the horror has.
 
-A shambling horror has the [minion](rules/traits/minion.md) trait. You can't control more than one shambling horror at the same time—if you create a new one while one is already under your control, you must choose one to release, causing it to lose the [minion](rules/traits/minion.md) trait. Shambling horrors that have been released expire when the spell duration does. After the duration expires, you can cast shambling horror again on the same corpse to animate it once more. However, after the next sunrise, you can no longer animate the corpse as a shambling horror.
+A shambling horror has the [minion](rules/traits/minion.md "Minion Creature Trait") trait. You can't control more than one shambling horror at the same time—if you create a new one while one is already under your control, you must choose one to release, causing it to lose the [minion](rules/traits/minion.md "Minion Creature Trait") trait. Shambling horrors that have been released expire when the spell duration does. After the duration expires, you can cast shambling horror again on the same corpse to animate it once more. However, after the next sunrise, you can no longer animate the corpse as a shambling horror.
 
 *Source: Book of the Dead p. 35*

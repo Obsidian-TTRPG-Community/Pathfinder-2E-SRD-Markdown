@@ -11,7 +11,7 @@ tags:
 aliases: ["Calamity Glass"]
 ---
 # Calamity Glass *Item 11*  
-[cursed](rules/traits/cursed-gmg.md)  [divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [scrying](rules/traits/scrying.md)  
+[cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [scrying](rules/traits/scrying.md "Scrying Effect Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Held

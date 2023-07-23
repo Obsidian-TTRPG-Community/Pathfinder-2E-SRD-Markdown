@@ -13,7 +13,7 @@ tags:
 aliases: ["Purloining Cloak"]
 ---
 # Purloining Cloak *Item 18*  
-[apex](rules/traits/apex.md)  [intelligent](rules/traits/intelligent-gmg.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  [transmutation](rules/traits/transmutation.md)  
+[apex](rules/traits/apex.md "Apex Item Trait")  [intelligent](rules/traits/intelligent-gmg.md "Intelligent Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Usage** worn cloak; **Bulk** L
 - **Category** Apex

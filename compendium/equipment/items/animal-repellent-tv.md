@@ -10,7 +10,7 @@ tags:
 aliases: ["Animal Repellent"]
 ---
 # Animal Repellent *Item 1+*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [olfactory](rules/traits/olfactory-b1.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [olfactory](rules/traits/olfactory-b1.md "Olfactory Effect Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md)

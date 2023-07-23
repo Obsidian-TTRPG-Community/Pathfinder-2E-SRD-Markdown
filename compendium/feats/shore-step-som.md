@@ -7,7 +7,7 @@ tags:
 aliases: ["Shore Step"]
 ---
 # Shore Step  *Feat 1*  
-[druid](rules/traits/druid.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  
 
 - **Prerequisites**: wave order
 

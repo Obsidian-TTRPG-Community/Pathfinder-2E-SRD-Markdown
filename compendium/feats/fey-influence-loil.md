@@ -7,10 +7,10 @@ tags:
 aliases: ["Fey Influence"]
 ---
 # Fey Influence  *Feat 5*  
-[rare](rules/traits/rare.md)  
+[rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 
-You have been exposed to powerful fey magic. You become trained in primal DCs and spell attack rolls. You gain the [fey](rules/traits/fey.md) trait and one of the following features that grants an innate primal spell that can be used once per day.
+You have been exposed to powerful fey magic. You become trained in primal DCs and spell attack rolls. You gain the [fey](rules/traits/fey.md "Fey Creature Type Trait") trait and one of the following features that grants an innate primal spell that can be used once per day.
 
 - **Anteater** You can launch your tongue forward as a deadly attack, gaining [grim tendrils](compendium/spells/grim-tendrils.md).
 - **Cat Sith** You have catlike features and can appear as a mundane cat with [pest form](compendium/spells/pest-form.md) (cat only).

@@ -13,7 +13,7 @@ tags:
 aliases: ["Refined Pesh"]
 ---
 # Refined Pesh *Item 1*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [drug](rules/traits/drug-gmg.md)  [ingested](rules/traits/ingested.md)  [inhaled](rules/traits/inhaled.md)  [poison](rules/traits/poison.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [drug](rules/traits/drug-gmg.md "Drug Item Trait")  [ingested](rules/traits/ingested.md "Ingested Item Trait")  [inhaled](rules/traits/inhaled.md "Inhaled Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Price** 2 gp
 - **Usage** held in 1 hand; **Bulk** L
@@ -30,9 +30,9 @@ title: Saving Throw: DC 12 Fortitude
 
 ## Stages
 
-**Stage 1** [stupefied](rules/conditions.md#Stupefied) and a +2 item bonus to saves versus [fear](rules/traits/fear.md) effects (1 minute)
+**Stage 1** [stupefied](rules/conditions.md#Stupefied) and a +2 item bonus to saves versus [fear](rules/traits/fear.md "Fear Effect Trait") effects (1 minute)
 
-**Stage 2** 1 temporary Hit Point per level , +2 item bonus to saves versus [fear](rules/traits/fear.md) effects, [clumsy](rules/conditions.md#Clumsy), and [stupefied](rules/conditions.md#Stupefied) (first time you reach this stage only)
+**Stage 2** 1 temporary Hit Point per level , +2 item bonus to saves versus [fear](rules/traits/fear.md "Fear Effect Trait") effects, [clumsy](rules/conditions.md#Clumsy), and [stupefied](rules/conditions.md#Stupefied) (first time you reach this stage only)
 
 **Stage 3** [clumsy](rules/conditions.md#Clumsy) and [stupefied](rules/conditions.md#Stupefied) (1 hour)
 ```

@@ -7,7 +7,7 @@ tags:
 aliases: ["Empathic Calm"]
 ---
 # Empathic Calm  *Feat 5*  
-[kashrishi](rules/traits/kashrishi-loil.md)  
+[kashrishi](rules/traits/kashrishi-loil.md "Kashrishi Ancestry & Heritage Trait")  
 
 
 Once per day, you can cast either calm emotions or sanctuary as an innate occult spell, heightened to half your level rounded up.

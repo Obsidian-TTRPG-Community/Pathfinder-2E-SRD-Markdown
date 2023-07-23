@@ -10,7 +10,7 @@ tags:
 aliases: ["Undead Scourge"]
 ---
 # Undead Scourge *Item 7*  
-[magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [uncommon](rules/traits/uncommon.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** Knights of Lastwall have access to this item.
 - **Price** 350 gp

@@ -9,9 +9,9 @@ tags:
 aliases: ["Prying Eye"]
 ---
 # Prying Eye *Spell 5*   
-[divination](rules/traits/divination.md)  [scrying](rules/traits/scrying.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [scrying](rules/traits/scrying.md "Scrying Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [divine](rules/traits/divine.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 1 minute 
 - **Range**see text
 - **Duration**sustained

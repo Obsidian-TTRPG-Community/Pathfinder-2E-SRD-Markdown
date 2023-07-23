@@ -10,7 +10,7 @@ tags:
 aliases: ["Ferocious Gust"]
 ---
 # Ferocious Gust  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 9*  
-[air](rules/traits/air.md)  [concentrate](rules/traits/concentrate.md)  [manipulate](rules/traits/manipulate.md)  [strix](rules/traits/strix-loag.md)  
+[air](rules/traits/air.md "Air Energy & Element Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [strix](rules/traits/strix-loag.md "Strix Ancestry & Heritage Trait")  
 
 - **Frequency**: once per 10 minutes
 - **Activity** Two-Action

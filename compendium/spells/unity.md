@@ -11,7 +11,7 @@ tags:
 aliases: ["Unity"]
 ---
 # Unity *Focus 4*   
-[abjuration](rules/traits/abjuration.md)  [cleric](rules/traits/cleric.md)  [fortune](rules/traits/fortune.md)  [uncommon](rules/traits/uncommon.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [cleric](rules/traits/cleric.md "Cleric Class Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Domains**: [family](compendium/setting/domains.md#Family)
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 

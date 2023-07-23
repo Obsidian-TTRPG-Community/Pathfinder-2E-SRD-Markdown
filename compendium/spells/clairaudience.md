@@ -9,9 +9,9 @@ tags:
 aliases: ["Clairaudience"]
 ---
 # Clairaudience *Spell 3*   
-[divination](rules/traits/divination.md)  [scrying](rules/traits/scrying.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [scrying](rules/traits/scrying.md "Scrying Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 1 minute 
 - **Range**500 foot
 - **Duration**10 minutes

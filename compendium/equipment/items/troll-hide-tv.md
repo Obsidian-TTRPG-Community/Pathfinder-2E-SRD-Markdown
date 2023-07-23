@@ -9,7 +9,7 @@ tags:
 aliases: ["Troll Hide"]
 ---
 # Troll Hide *Item 15*  
-[alchemical](rules/traits/alchemical.md)  [healing](rules/traits/healing.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  
 
 - **Price** 6000 gp
 - **Usage** worn armor; **Bulk** 2

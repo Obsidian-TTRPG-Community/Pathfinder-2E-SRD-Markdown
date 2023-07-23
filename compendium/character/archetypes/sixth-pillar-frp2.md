@@ -15,7 +15,7 @@ The Sixth Pillar follows a tradition that blends martial arts with magic. Tradit
 title: Sixth Pillar Dedication, Feat 8
 collapse: closed
 # Sixth Pillar Dedication  *Feat 8*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: Dexterity 14, expert in [Acrobatics](compendium/skills.md#Acrobatics), able to cast spells
 
@@ -26,20 +26,20 @@ If your proficiency rank in unarmed attacks is at least expert, your proficiency
 **Special.** You can't select another dedication feat until you've gained two other feats from the Sixth Pillar archetype.
 
 *Source: Fists of the Ruby Phoenix #2: Ready? Fight! p. 77*  
-%% #trait/uncommon #trait/archetype #trait/dedication %%
+%% #trait/archetype #trait/dedication #trait/uncommon %%
 ```  
 
 ```ad-embed-feat
 title: Six Pillars Stance, Feat 10
 collapse: closed
 # Six Pillars Stance  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
-[archetype](rules/traits/archetype.md)  [stance](rules/traits/stance.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
 
 - **Prerequisites**: [Sixth Pillar Dedication](compendium/feats/sixth-pillar-dedication-frp2.md)
 - **Requirements**: You are unarmored.
 - **Activity** Single Action
 
-You stand firm, steeling your mind and body, allowing you to use your magic unperturbed. While in this stance, you gain a +4 circumstance bonus to AC against reactions triggered by using actions with the [concentrate](rules/traits/concentrate.md) or [manipulate](rules/traits/manipulate.md) traits. In addition, when you cast a spell that requires one or more actions while in this stance, your unarmed [Strikes](rules/actions/strike.md) gain a +1 circumstance bonus to damage.
+You stand firm, steeling your mind and body, allowing you to use your magic unperturbed. While in this stance, you gain a +4 circumstance bonus to AC against reactions triggered by using actions with the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") or [manipulate](rules/traits/manipulate.md "Manipulate General Trait") traits. In addition, when you cast a spell that requires one or more actions while in this stance, your unarmed [Strikes](rules/actions/strike.md) gain a +1 circumstance bonus to damage.
 
 *Source: Fists of the Ruby Phoenix #2: Ready? Fight! p. 77*  
 %% #trait/archetype #trait/stance %%
@@ -49,7 +49,7 @@ You stand firm, steeling your mind and body, allowing you to use your magic unpe
 title: Maneuvering Spell, Feat 12*
 collapse: closed
 # Maneuvering Spell  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Maneuvering Spell](compendium/feats/maneuvering-spell-frp2.md) is intended for use with the Sixth Pillar Archetype. Its level has been changed accordingly.
 
@@ -67,7 +67,7 @@ You instantly tap into the magical power of a spell you're casting to quickly po
 title: Touch Focus, Feat 14*
 collapse: closed
 # Touch Focus  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 14*  
-[archetype](rules/traits/archetype.md)  [manipulate](rules/traits/manipulate.md)  [metamagic](rules/traits/metamagic.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 > [!pf2-note] This version of [Touch Focus](compendium/feats/touch-focus-frp2.md) is intended for use with the Sixth Pillar Archetype. Its level has been changed accordingly.
 
@@ -84,7 +84,7 @@ You can redirect a spell's power through you to deliver it within striking dista
 title: Sixth Pillar Mastery, Feat 16*
 collapse: closed
 # Sixth Pillar Mastery  *Feat 16*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Sixth Pillar Mastery](compendium/feats/sixth-pillar-mastery-frp2.md) is intended for use with the Sixth Pillar Archetype. Its level has been changed accordingly.
 

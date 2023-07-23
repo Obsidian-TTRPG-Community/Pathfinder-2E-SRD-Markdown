@@ -12,7 +12,7 @@ tags:
 aliases: ["Fling Magic"]
 ---
 # Fling Magic [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
-[concentrate](rules/traits/concentrate.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [manipulate](rules/traits/manipulate.md)  [thaumaturge](rules/traits/thaumaturge-da.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [thaumaturge](rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
 *Source: Dark Archive p. 41*  
 
 - **Requirements**: You are holding your First Implement and Esoterica|Thaumaturge|DA|wand|DA|1||wand implement.

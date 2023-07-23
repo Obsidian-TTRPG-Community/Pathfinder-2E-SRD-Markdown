@@ -10,7 +10,7 @@ tags:
 aliases: ["Anarchic"]
 ---
 # Anarchic *Item 11*  
-[chaotic](rules/traits/chaotic.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  
+[chaotic](rules/traits/chaotic.md "Chaotic Alignment Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 1400 gp
 - **Usage** etched onto a weapon without an axiomatic rune

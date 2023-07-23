@@ -7,7 +7,7 @@ tags:
 aliases: ["Sharp Fangs"]
 ---
 # Sharp Fangs  *Feat 1*  
-[lizardfolk](rules/traits/lizardfolk-b1.md)  
+[lizardfolk](rules/traits/lizardfolk-b1.md "Lizardfolk Ancestry & Heritage Trait")  
 
 
 Your teeth are formidable weapons. You gain a fangs unarmed attack that deals `1d8` piercing damage.

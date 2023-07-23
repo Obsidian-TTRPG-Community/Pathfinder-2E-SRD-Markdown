@@ -11,7 +11,7 @@ tags:
 aliases: ["Grail Of Twisted Desires"]
 ---
 # Grail Of Twisted Desires *Item 10*  
-[conjuration](rules/traits/conjuration.md)  [illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  [unique](rules/traits/unique.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Price** 850 gp
 - **Usage** held in 1 hand; **Bulk** L

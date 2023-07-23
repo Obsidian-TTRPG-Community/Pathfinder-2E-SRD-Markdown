@@ -7,7 +7,7 @@ tags:
 aliases: ["Shared Luck"]
 ---
 # Shared Luck  *Feat 5*  
-[halfling](rules/traits/halfling.md)  
+[halfling](rules/traits/halfling.md "Halfling Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Halfling Luck](compendium/feats/halfling-luck.md)
 

@@ -8,7 +8,7 @@ tags:
 aliases: ["Impaling Finisher"]
 ---
 # Impaling Finisher  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[finisher](rules/traits/finisher-apg.md)  [swashbuckler](rules/traits/swashbuckler-apg.md)  
+[finisher](rules/traits/finisher-apg.md "Finisher Combat Trait")  [swashbuckler](rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  
 
 - **Activity** Single Action
 

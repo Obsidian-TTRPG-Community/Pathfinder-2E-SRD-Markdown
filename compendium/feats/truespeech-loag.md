@@ -8,7 +8,7 @@ tags:
 aliases: ["Truespeech"]
 ---
 # Truespeech  *Feat 13*  
-[aasimar](rules/traits/aasimar-apg.md)  [uncommon](rules/traits/uncommon.md)  
+[aasimar](rules/traits/aasimar-apg.md "Aasimar Ancestry & Heritage Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Angelkin](compendium/feats/angelkin-apg.md)
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Shared Replenishment"]
 ---
 # Shared Replenishment  *Feat 12*  
-[cleric](rules/traits/cleric.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  
 
 - **Prerequisites**: [Replenishment of War](compendium/feats/replenishment-of-war.md)
 

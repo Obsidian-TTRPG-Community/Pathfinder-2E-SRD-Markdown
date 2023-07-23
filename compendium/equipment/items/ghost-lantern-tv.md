@@ -10,7 +10,7 @@ tags:
 aliases: ["Ghost Lantern"]
 ---
 # Ghost Lantern *Item 12*  
-[light](rules/traits/light.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+[light](rules/traits/light.md "Light Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 1850 gp
 - **Usage** held in 1 hand; **Bulk** L

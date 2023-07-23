@@ -27,27 +27,27 @@ Regardless of what paths they pursue, nearly all liches are obsessed with their 
 title: Lich Dedication, Feat 12*
 collapse: closed
 # Lich Dedication  *Feat 12*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [rare](rules/traits/rare.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 > [!pf2-note] This version of [Lich Dedication](compendium/feats/lich-dedication-botd.md) is intended for use with the Lich Archetype. Its level has been changed accordingly.
 
 - **Prerequisites**: living creature, ability to cast 6th-level or higher spells from spell slots, expert in [Crafting](compendium/skills.md#Crafting), completed ritual to become a lich and crafted a [soul cage](compendium/equipment/items/soul-cage-botd.md)
 
-After years of study and careful planning, you finally completed a soul cage to house your soul and successfully performed a ritual to transform yourself into a lich. Now, neither death nor time can prevent you from pursuing your studies and achieving your grand ambitions. You gain the [undead](rules/traits/undead.md) trait and the basic undead benefits (page 44). Your undead craving is for knowledge.
+After years of study and careful planning, you finally completed a soul cage to house your soul and successfully performed a ritual to transform yourself into a lich. Now, neither death nor time can prevent you from pursuing your studies and achieving your grand ambitions. You gain the [undead](rules/traits/undead.md "Undead Creature Type Trait") trait and the basic undead benefits (page 44). Your undead craving is for knowledge.
 
 You gain a unique [soul cage](compendium/equipment/items/soul-cage-botd.md)—a magic item that houses your soul. Whenever you would die, your soul flees to the soul cage to allow you to be rebuilt. As long as your soul cage exists, you can't truly be destroyed.
 
 **Special.** You can't select another dedication feat until you have gained two other feats from the lich archetype.
 
 *Source: Book of the Dead p. 50*  
-%% #trait/rare #trait/archetype #trait/dedication %%
+%% #trait/archetype #trait/dedication #trait/rare %%
 ```  
 
 ```ad-embed-feat
 title: Drain Soul Cage, Feat 14*
 collapse: closed
 # Drain Soul Cage  *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Drain Soul Cage](compendium/feats/drain-soul-cage-botd.md) is intended for use with the Lich Archetype. Its level has been changed accordingly.
 
@@ -65,7 +65,7 @@ Even if you can [Drain Bonded Item](rules/actions/drain-bonded-item.md) more tha
 title: Enshroud Soul Cage, Feat 14*
 collapse: closed
 # Enshroud Soul Cage  *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Enshroud Soul Cage](compendium/feats/enshroud-soul-cage-botd.md) is intended for use with the Lich Archetype. Its level has been changed accordingly.
 
@@ -81,13 +81,13 @@ You wreathe your [soul cage](compendium/equipment/items/soul-cage-botd.md) in an
 title: Hand of the Lich, Feat 14*
 collapse: closed
 # Hand of the Lich  *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Hand of the Lich](compendium/feats/hand-of-the-lich-botd.md) is intended for use with the Lich Archetype. Its level has been changed accordingly.
 
 - **Prerequisites**: [Lich Dedication](compendium/feats/lich-dedication-botd.md)
 
-Negative energy intensifies your undead form and makes your very touch the antithesis of life. You gain the advanced undead benefits (page 44). The damage die for your fist increases to `1d6` instead of `1d4`, it deals negative damage instead of bludgeoning damage, and it loses the [nonlethal](rules/traits/nonlethal.md) trait. Your fist becomes magical.
+Negative energy intensifies your undead form and makes your very touch the antithesis of life. You gain the advanced undead benefits (page 44). The damage die for your fist increases to `1d6` instead of `1d4`, it deals negative damage instead of bludgeoning damage, and it loses the [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait") trait. Your fist becomes magical.
 
 When you critically hit a living creature with your fist [Strike](rules/actions/strike.md), the creature is [slowed](rules/conditions.md#Slowed) until the end of your next turn unless it succeeds at a Fortitude save against your spell DC.
 
@@ -101,7 +101,7 @@ This is a critical specialization effect.
 title: Magic Sense (Wizard), Feat 14*
 collapse: closed
 # Magic Sense (Wizard)  *Feat 14*  
-[arcane](rules/traits/arcane.md)  [detection](rules/traits/detection.md)  [divination](rules/traits/divination.md)  [wizard](rules/traits/wizard.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [detection](rules/traits/detection.md "Detection Effect Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 > [!pf2-note] This version of [Magic Sense (Wizard)](compendium/feats/magic-sense-wizard.md) is intended for use with the Lich Archetype. Its level has been changed accordingly.
 
@@ -116,7 +116,7 @@ You have a literal sixth sense for ambient magic in your vicinity. You can sense
 title: Bolster Soul Cage, Feat 16*
 collapse: closed
 # Bolster Soul Cage  *Feat 16*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Bolster Soul Cage](compendium/feats/bolster-soul-cage-botd.md) is intended for use with the Lich Archetype. Its level has been changed accordingly.
 
@@ -134,7 +134,7 @@ At 20th level, the time it takes your soul cage to rebuild your body is reduced 
 title: Spell Gem, Feat 16*
 collapse: closed
 # Spell Gem  *Feat 16*  
-[archetype](rules/traits/archetype.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 > [!pf2-note] This version of [Spell Gem](compendium/feats/spell-gem-botd.md) is intended for use with the Lich Archetype. Its level has been changed accordingly.
 
@@ -145,14 +145,14 @@ Inspired by the degenerate demiliches your kind sometimes devolves into, you've 
 At 18th level, you can heighten whichever spell you chose to 7th level. At 20th level, you can heighten whichever spell you chose to 8th level; regardless of which spell you chose, you can instead drain the gem's magical energy to cast an 8th-level [spell turning](compendium/spells/spell-turning.md) without spending a spell slot.
 
 *Source: Book of the Dead p. 50*  
-%% #trait/uncommon #trait/archetype %%
+%% #trait/archetype #trait/uncommon %%
 ```  
 
 ```ad-embed-feat
 title: Frightful Aura, Feat 18*
 collapse: closed
 # Frightful Aura  *Feat 18*  
-[archetype](rules/traits/archetype.md)  [aura](rules/traits/aura.md)  [emotion](rules/traits/emotion.md)  [fear](rules/traits/fear.md)  [mental](rules/traits/mental.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [aura](rules/traits/aura.md "Aura Combat Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 > [!pf2-note] This version of [Frightful Aura](compendium/feats/frightful-aura-botd.md) is intended for use with the Lich Archetype. Its level has been changed accordingly.
 

@@ -12,7 +12,7 @@ tags:
 aliases: ["Infernal Health"]
 ---
 # Infernal Health *Item 15*  
-[contract](rules/traits/contract-lol.md)  [healing](rules/traits/healing.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[contract](rules/traits/contract-lol.md "Contract Item Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Category** Contract
 

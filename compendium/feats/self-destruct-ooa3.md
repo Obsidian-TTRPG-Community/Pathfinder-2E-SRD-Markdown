@@ -7,7 +7,7 @@ tags:
 aliases: ["Self-Destruct"]
 ---
 # Self-Destruct  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Clockwork Reanimator Dedication](compendium/feats/clockwork-reanimator-dedication-ooa3.md)
 - **Trigger** Your reanimated clockwork companion is reduced to 0 Hit Points.

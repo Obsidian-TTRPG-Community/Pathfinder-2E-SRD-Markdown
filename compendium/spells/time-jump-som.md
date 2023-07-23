@@ -8,9 +8,9 @@ tags:
 aliases: ["Time Jump"]
 ---
 # Time Jump *Spell 3*   
-[transmutation](rules/traits/transmutation.md)  
+[transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 
 You leap forward a few seconds in time, appearing across the battlefield in the blink of an eye. You gain 2 actions, each of which must be used to [Leap](rules/actions/leap.md), [Stand](rules/actions/stand.md), [Step](rules/actions/step.md), or [Stride](rules/actions/stride.md).

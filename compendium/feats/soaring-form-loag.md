@@ -7,7 +7,7 @@ tags:
 aliases: ["Soaring Form"]
 ---
 # Soaring Form  *Feat 17*  
-[tengu](rules/traits/tengu-b1.md)  
+[tengu](rules/traits/tengu-b1.md "Tengu Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Soaring Flight](compendium/feats/soaring-flight-apg.md)
 

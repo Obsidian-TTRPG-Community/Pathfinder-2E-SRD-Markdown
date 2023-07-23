@@ -7,7 +7,7 @@ tags:
 aliases: ["Ranger's Bramble"]
 ---
 # Ranger's Bramble  *Feat 6*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: warden spells
 

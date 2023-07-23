@@ -8,7 +8,7 @@ tags:
 aliases: ["Ru-shi"]
 ---
 # Ru-shi  *Feat 1*  
-[dhampir](rules/traits/dhampir-b1.md)  [lineage](rules/traits/lineage-apg.md)  
+[dhampir](rules/traits/dhampir-b1.md "Dhampir Ancestry & Heritage Trait")  [lineage](rules/traits/lineage-apg.md "Lineage  Trait")  
 
 
 You were born to a jiang-shi, one of the so-called hopping vampires found most often in Tian-Xia. Your parent had a supernatural obsession with counting small objects, which manifests in you as a preternatural gift for linguistics and mathematics. You are trained in [Society](compendium/skills.md#Society) and gain the [Eye for Numbers](compendium/feats/eye-for-numbers-apg.md) skill feat. If you would automatically become trained in [Society](compendium/skills.md#Society) (from your background or class, for example), you instead become trained in a skill of your choice.

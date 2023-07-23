@@ -15,7 +15,7 @@ You are one of the Bright Lions, part revolutionary warrior, part undercover spy
 title: Bright Lion Dedication, Feat 2
 collapse: closed
 # Bright Lion Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: [Bright Lion](compendium/character/backgrounds/bright-lion-lowg.md) background
 - **Prerequisites**: member of the Bright Lions, not a worshipper of Walkena, trained in [Stealth](compendium/skills.md#Stealth)
@@ -25,14 +25,14 @@ You become trained in your choice of [Deception](compendium/skills.md#Deception)
 **Special.** You can't select another dedication feat until you have gained two other feats from the Bright Lion archetype.
 
 *Source: Lost Omens: Legends p. 101*  
-%% #trait/uncommon #trait/archetype #trait/dedication %%
+%% #trait/archetype #trait/dedication #trait/uncommon %%
 ```  
 
 ```ad-embed-feat
 title: Warding Light, Feat 4
 collapse: closed
 # Warding Light  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Bright Lion Dedication](compendium/feats/bright-lion-dedication-lol.md)
 
@@ -48,7 +48,7 @@ The tattoo allows you to cast the [light](compendium/spells/light.md) cantrip as
 title: Sun's Fury, Feat 6
 collapse: closed
 # Sun's Fury  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Bright Lion Dedication](compendium/feats/bright-lion-dedication-lol.md)
 
@@ -62,11 +62,11 @@ The Old Sun Gods have granted you a gift in your fight against Walkena. You gain
 title: Elude The Divine, Feat 8
 collapse: closed
 # Elude The Divine  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Bright Lion Dedication](compendium/feats/bright-lion-dedication-lol.md)
 
-You are able to escape inquisitions involving divine magic, allowing you to blend in well in Mzali but also to avoid unwanted attention in other oppressive theocracies. You gain the [Slippery Secrets](compendium/feats/slippery-secrets.md) skill feat, and its benefits also apply against [divination](rules/traits/divination.md) effects that attempt to discern your deity. When using Slippery Secrets against a divine divination, you gain a +2 circumstance bonus, and on a critical success, the divination reveals false information appropriate to your false persona, rather than nothing.
+You are able to escape inquisitions involving divine magic, allowing you to blend in well in Mzali but also to avoid unwanted attention in other oppressive theocracies. You gain the [Slippery Secrets](compendium/feats/slippery-secrets.md) skill feat, and its benefits also apply against [divination](rules/traits/divination.md "Divination School Trait") effects that attempt to discern your deity. When using Slippery Secrets against a divine divination, you gain a +2 circumstance bonus, and on a critical success, the divination reveals false information appropriate to your false persona, rather than nothing.
 
 *Source: Lost Omens: Legends p. 101*  
 %% #trait/archetype %%

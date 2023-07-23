@@ -7,7 +7,7 @@ tags:
 aliases: ["Ensnaring Wrappings"]
 ---
 # Ensnaring Wrappings  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: Mummy Dedication, expert in [Athletics](compendium/skills.md#Athletics)
 - **Trigger** Your [Strike](rules/actions/strike.md) deals physical damage to a creature that is within reach of your arms and isn't more than one size larger than you.

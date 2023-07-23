@@ -7,7 +7,7 @@ tags:
 aliases: ["Protective Sheath"]
 ---
 # Protective Sheath  *Feat 5*  
-[dwarf](rules/traits/dwarf.md)  
+[dwarf](rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Clan's Edge](compendium/feats/clans-edge-locg.md)
 

@@ -10,7 +10,7 @@ tags:
 aliases: ["Messenger's Ring"]
 ---
 # Messenger's Ring *Item 9+*  
-[enchantment](rules/traits/enchantment.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Usage** worn; **Bulk** —
 - **Category** Worn

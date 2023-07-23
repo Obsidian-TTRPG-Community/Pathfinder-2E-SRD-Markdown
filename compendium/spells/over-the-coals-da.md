@@ -12,7 +12,7 @@ tags:
 aliases: ["Over the Coals"]
 ---
 # Over the Coals *Focus 5*   
-[hex](rules/traits/hex-apg.md)  [mental](rules/traits/mental.md)  [necromancy](rules/traits/necromancy.md)  [rare](rules/traits/rare.md)  [witch](rules/traits/witch-apg.md)  
+[hex](rules/traits/hex-apg.md "Hex Combat Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [witch](rules/traits/witch-apg.md "Witch Class Trait")  
 
 - **Patron** Witch
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

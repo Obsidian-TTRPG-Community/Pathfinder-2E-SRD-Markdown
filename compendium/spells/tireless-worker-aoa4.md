@@ -9,7 +9,7 @@ tags:
 aliases: ["Tireless Worker"]
 ---
 # Tireless Worker *Focus 4*   
-[healing](rules/traits/healing.md)  [necromancy](rules/traits/necromancy.md)  
+[healing](rules/traits/healing.md "Healing Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 - **Domains**: [toil](compendium/setting/domains.md#Toil)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

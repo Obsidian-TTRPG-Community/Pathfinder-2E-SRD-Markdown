@@ -9,7 +9,7 @@ tags:
 aliases: ["Planar Ally"]
 ---
 # Planar Ally *Ritual 5*  
-[conjuration](rules/traits/conjuration.md)  [uncommon](rules/traits/uncommon.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** 1 day
 - **Cost** rare incense and offerings worth a total value of 2 gp × the spell level × the target's level

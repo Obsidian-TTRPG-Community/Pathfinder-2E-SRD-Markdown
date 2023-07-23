@@ -7,7 +7,7 @@ tags:
 aliases: ["Enticing Dwelling"]
 ---
 # Enticing Dwelling  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Exorcist Dedication](compendium/feats/exorcist-dedication-botd.md)
 

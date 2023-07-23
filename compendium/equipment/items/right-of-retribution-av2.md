@@ -12,7 +12,7 @@ tags:
 aliases: ["Right Of Retribution"]
 ---
 # Right Of Retribution *Item 8*  
-[contract](rules/traits/contract-lol.md)  [enchantment](rules/traits/enchantment.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[contract](rules/traits/contract-lol.md "Contract Item Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Devil** erinys; **Decipher Writing** [Nature](compendium/skills.md#Nature), [Religion](compendium/skills.md#Religion)
 - **Category** Contract

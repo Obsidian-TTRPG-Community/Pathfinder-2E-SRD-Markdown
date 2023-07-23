@@ -7,7 +7,7 @@ tags:
 aliases: ["Armored Rebuff"]
 ---
 # Armored Rebuff  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Sentinel Dedication](compendium/feats/sentinel-dedication-apg.md)
 - **Trigger** An adjacent foe critically fails an attack roll to [Strike](rules/actions/strike.md) you with a melee weapon or unarmed attack.

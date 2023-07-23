@@ -14,7 +14,7 @@ tags:
 aliases: ["Planar Sidestep"]
 ---
 # Planar Sidestep  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 13*  
-[arcane](rules/traits/arcane.md)  [concentrate](rules/traits/concentrate.md)  [conjuration](rules/traits/conjuration.md)  [ifrit](rules/traits/ifrit-b2.md)  [oread](rules/traits/oread-b2.md)  [suli](rules/traits/suli-b2.md)  [sylph](rules/traits/sylph-b2.md)  [undine](rules/traits/undine-b2.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [ifrit](rules/traits/ifrit-b2.md "Ifrit Ancestry & Heritage Trait")  [oread](rules/traits/oread-b2.md "Oread Ancestry & Heritage Trait")  [suli](rules/traits/suli-b2.md "Suli Ancestry & Heritage Trait")  [sylph](rules/traits/sylph-b2.md "Sylph Ancestry & Heritage Trait")  [undine](rules/traits/undine-b2.md "Undine Ancestry & Heritage Trait")  
 
 - **Frequency**: once per day
 - **Trigger** A creature hits you with a melee [Strike](rules/actions/strike.md).

@@ -20,7 +20,7 @@ The investigator archetype is a good choice for a character that wants deeper in
 title: Investigator Dedication, Feat 2
 collapse: closed
 # Investigator Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [multiclass](rules/traits/multiclass.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [multiclass](rules/traits/multiclass.md "Multiclass Feat Trait")  
 
 - **Prerequisites**: Intelligence 14
 
@@ -36,7 +36,7 @@ You gain the on the case|investigator|apg|1 class feature, which grants you both
 title: Basic Deduction, Feat 4
 collapse: closed
 # Basic Deduction  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Investigator Dedication](compendium/feats/investigator-dedication-apg.md)
 
@@ -50,7 +50,7 @@ You gain a 1st- or 2nd-level investigator feat of your choice.
 title: Investigator's Stratagem, Feat 4
 collapse: closed
 # Investigator's Stratagem  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Investigator Dedication](compendium/feats/investigator-dedication-apg.md)
 
@@ -64,7 +64,7 @@ You play out battles in your head, allowing you to strike when the time is right
 title: Advanced Deduction, Feat 6
 collapse: closed
 # Advanced Deduction  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Deduction](compendium/feats/basic-deduction-apg.md)
 
@@ -80,7 +80,7 @@ You gain one investigator feat. For the purpose of meeting its prerequisites, yo
 title: Keen Recollection, Feat 6
 collapse: closed
 # Keen Recollection  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Investigator Dedication](compendium/feats/investigator-dedication-apg.md)
 
@@ -94,7 +94,7 @@ You can recall all sorts of information. You gain the keen recollection|investig
 title: Skill Mastery, Feat 8
 collapse: closed
 # Skill Mastery  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Investigator Dedication](compendium/feats/investigator-dedication-apg.md), trained in at least one skill and expert in at least one skill
 
@@ -110,7 +110,7 @@ Increase your proficiency rank in one of your skills from expert to master and i
 title: Master Spotter, Feat 12*
 collapse: closed
 # Master Spotter  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Master Spotter](compendium/feats/master-spotter-apg.md) is intended for use with the Investigator Archetype. Its level has been changed accordingly.
 

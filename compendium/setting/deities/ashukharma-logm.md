@@ -10,12 +10,12 @@ tags:
 - domain/repose/deity
 aliases: ["Ashukharma", "The Divine Divide"]
 ---
-# Ashukharma (The Divine Divide) *([CN](rules/traits/chaotic-neutral-b1.md))*  
+# Ashukharma (The Divine Divide) *([CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 132*  
 
 - **Category**: Vudrani Gods
 - **Anathema**: destroy a natural barrier, pursue a personal relationship after being refused, betray a lover
-- **Follower Alignments**: [N](rules/traits/neutral-b1.md), [CG](rules/traits/chaotic-good-b1.md), [CN](rules/traits/chaotic-neutral-b1.md)
+- **Follower Alignments**: [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")
 
 ## Devotee benefits
 

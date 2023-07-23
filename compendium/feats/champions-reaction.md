@@ -7,7 +7,7 @@ tags:
 aliases: ["Champion's Reaction"]
 ---
 # Champion's Reaction  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Champion Dedication](compendium/feats/champion-dedication.md)
 

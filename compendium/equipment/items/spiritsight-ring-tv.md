@@ -11,7 +11,7 @@ tags:
 aliases: ["Spiritsight Ring"]
 ---
 # Spiritsight Ring *Item 6*  
-[divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 225 gp
 - **Usage** worn; **Bulk** —

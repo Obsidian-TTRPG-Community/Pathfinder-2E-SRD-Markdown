@@ -10,7 +10,7 @@ tags:
 aliases: ["Turn to Mist"]
 ---
 # Turn to Mist  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
-[archetype](rules/traits/archetype.md)  [concentrate](rules/traits/concentrate.md)  [divine](rules/traits/divine.md)  [transmutation](rules/traits/transmutation.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Prerequisites**: [Vampire Dedication](compendium/feats/vampire-dedication-botd.md)
 - **Frequency**: once per day

@@ -7,7 +7,7 @@ tags:
 aliases: ["Pick Up The Pace"]
 ---
 # Pick Up The Pace  *Feat 3*  
-[general](rules/traits/general.md)  
+[general](rules/traits/general.md "General Feat Trait")  
 
 - **Prerequisites**: Constitution 14
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Tusks"]
 ---
 # Tusks  *Feat 1*  
-[half-orc](rules/traits/half-orc.md)  
+[half-orc](rules/traits/half-orc.md "Half-Orc Ancestry & Heritage Trait")  
 
 
 Most half-orcs have visible tusks, but yours are particularly large and sharp, capable of gouging deep wounds. You gain a jaws unarmed attack that deals `1d6` piercing damage.

@@ -7,7 +7,7 @@ tags:
 aliases: ["Greater Merciful Elixir"]
 ---
 # Greater Merciful Elixir  *Feat 14*  
-[alchemist](rules/traits/alchemist.md)  
+[alchemist](rules/traits/alchemist.md "Alchemist Class Trait")  
 
 - **Prerequisites**: [Merciful Elixir](compendium/feats/merciful-elixir.md)
 

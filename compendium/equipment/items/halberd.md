@@ -9,7 +9,7 @@ tags:
 aliases: ["Halberd"]
 ---
 # Halberd *Item 0*  
-[reach](rules/traits/reach.md)  [versatile <s>](rules/traits/versatile.md)  
+[reach](rules/traits/reach.md "Reach Weapon Trait")  [versatile <s>](rules/traits/versatile-s.md "Versatile Weapon Trait")  
 
 - **Price** 2 gp
 - **Bulk** 2

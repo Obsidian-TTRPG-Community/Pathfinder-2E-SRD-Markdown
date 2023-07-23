@@ -7,7 +7,7 @@ tags:
 aliases: ["Gnoll Weapon Expertise"]
 ---
 # Gnoll Weapon Expertise  *Feat 13*  
-[gnoll](rules/traits/gnoll-b1.md)  
+[gnoll](rules/traits/gnoll-b1.md "Gnoll Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Gnoll Weapon Practicality](compendium/feats/gnoll-weapon-practicality-lome.md)
 

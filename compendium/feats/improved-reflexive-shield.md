@@ -7,7 +7,7 @@ tags:
 aliases: ["Improved Reflexive Shield"]
 ---
 # Improved Reflexive Shield  *Feat 16*  
-[fighter](rules/traits/fighter.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 - **Prerequisites**: [Reflexive Shield](compendium/feats/reflexive-shield.md)
 

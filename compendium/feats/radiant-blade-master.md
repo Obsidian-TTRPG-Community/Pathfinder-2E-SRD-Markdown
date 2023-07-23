@@ -7,7 +7,7 @@ tags:
 aliases: ["Radiant Blade Master"]
 ---
 # Radiant Blade Master  *Feat 20*  
-[champion](rules/traits/champion.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  
 
 - **Prerequisites**: divine ally (blade), [Radiant Blade Spirit](compendium/feats/radiant-blade-spirit.md)
 

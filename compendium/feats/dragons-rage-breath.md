@@ -12,7 +12,7 @@ tags:
 aliases: ["Dragon's Rage Breath"]
 ---
 # Dragon's Rage Breath  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 6*  
-[arcane](rules/traits/arcane.md)  [barbarian](rules/traits/barbarian.md)  [concentrate](rules/traits/concentrate.md)  [evocation](rules/traits/evocation.md)  [instinct](rules/traits/instinct.md)  [rage](rules/traits/rage.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [instinct](rules/traits/instinct.md "Instinct Action & Ability Trait")  [rage](rules/traits/rage.md "Rage Combat Trait")  
 
 - **Prerequisites**: dragon instinct
 - **Requirements**: You haven't used this ability since you last Raged.

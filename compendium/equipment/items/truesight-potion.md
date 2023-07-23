@@ -11,7 +11,7 @@ tags:
 aliases: ["Truesight Potion"]
 ---
 # Truesight Potion *Item 16*  
-[consumable](rules/traits/consumable.md)  [divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [potion](rules/traits/potion.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [potion](rules/traits/potion.md "Potion Item Trait")  
 
 - **Price** 1500 gp
 - **Usage** held in 1 hand; **Bulk** L

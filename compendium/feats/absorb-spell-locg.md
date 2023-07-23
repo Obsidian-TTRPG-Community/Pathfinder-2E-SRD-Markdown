@@ -7,7 +7,7 @@ tags:
 aliases: ["Absorb Spell"]
 ---
 # Absorb Spell  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spellmaster Dedication](compendium/feats/spellmaster-dedication-locg.md), spell repertoire or ability to prepare spells
 - **Frequency**: once per 10 minutes

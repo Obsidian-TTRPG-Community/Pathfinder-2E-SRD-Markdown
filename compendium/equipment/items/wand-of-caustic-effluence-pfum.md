@@ -12,7 +12,7 @@ tags:
 aliases: ["Wand of Caustic Effluence"]
 ---
 # Wand of Caustic Effluence *Item 5*  
-[acid](rules/traits/acid.md)  [conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  [wand](rules/traits/wand.md)  
+[acid](rules/traits/acid.md "Acid Energy & Element Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
 
 - **Price** 160 gp
 - **Usage** held in 1 hand; **Bulk** L

@@ -7,7 +7,7 @@ tags:
 aliases: ["Sure Feet"]
 ---
 # Sure Feet  *Feat 1*  
-[halfling](rules/traits/halfling.md)  
+[halfling](rules/traits/halfling.md "Halfling Ancestry & Heritage Trait")  
 
 
 Whether keeping your balance or scrambling up a tricky climb, your hairy, calloused feet easily find purchase. If you roll a success on an [Acrobatics](compendium/skills.md#Acrobatics) check to [Balance](rules/actions/balance.md) or an [Athletics](compendium/skills.md#Athletics) check to [Climb](rules/actions/climb.md), you get a critical success instead.

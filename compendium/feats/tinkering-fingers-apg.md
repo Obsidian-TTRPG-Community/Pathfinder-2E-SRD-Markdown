@@ -7,7 +7,7 @@ tags:
 aliases: ["Tinkering Fingers"]
 ---
 # Tinkering Fingers  *Feat 1*  
-[ratfolk](rules/traits/ratfolk-b1.md)  
+[ratfolk](rules/traits/ratfolk-b1.md "Ratfolk Ancestry & Heritage Trait")  
 
 
 You're good with your hands and can quickly improvise a fix for [broken](rules/conditions.md#Broken) or damaged equipment. You're trained in [Crafting](compendium/skills.md#Crafting). If you would automatically become trained in [Crafting](compendium/skills.md#Crafting) (from your background or class, for example), you instead become trained in a skill of your choice. You can [Repair](rules/actions/repair.md) an item without using a repair kit without taking the –2 circumstance penalty, improvising tools from whatever you have at hand.

@@ -7,7 +7,7 @@ tags:
 aliases: ["Sacred Ki"]
 ---
 # Sacred Ki  *Feat 4*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Prerequisites**: Ki [Strike](rules/actions/strike.md), you follow a deity
 

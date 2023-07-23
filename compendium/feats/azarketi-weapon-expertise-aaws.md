@@ -7,7 +7,7 @@ tags:
 aliases: ["Azarketi Weapon Expertise"]
 ---
 # Azarketi Weapon Expertise  *Feat 13*  
-[azarketi](rules/traits/azarketi-loag.md)  
+[azarketi](rules/traits/azarketi-loag.md "Azarketi Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Azarketi Weapon Familiarity](compendium/feats/azarketi-weapon-familiarity-aaws.md)
 

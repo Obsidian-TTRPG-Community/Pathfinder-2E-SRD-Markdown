@@ -7,7 +7,7 @@ tags:
 aliases: ["Shadow Reservoir"]
 ---
 # Shadow Reservoir  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: ability to cast spells from spell slots, [Shadowcaster Dedication](compendium/feats/shadowcaster-dedication-som.md)
 
@@ -15,7 +15,7 @@ Your own shadow speaks to you, providing knowledge of spells and a reservoir of 
 
 Regardless of the way in which you cast spells, you can spontaneously cast a spell from your shadow reservoir by using one of your spell slots of the same level. If you're a prepared spellcaster, you lose the spell you prepared in that slot.
 
-Spells cast from your shadow reservoir gain the [shadow](rules/traits/shadow.md) trait, and affected creatures might be able to 0. If the spell requires an attack roll, use the higher of the target's AC or their Will DC. If the spell requires a saving throw, the target uses their Will saving throw or the spell's normal saving throw, whichever is higher. Each time a creature fails its saving throw against a spell cast from your reservoir, you gain a small tattoo inked on your flesh out of pure shadowstuff.
+Spells cast from your shadow reservoir gain the [shadow](rules/traits/shadow.md "Shadow General Trait") trait, and affected creatures might be able to 0. If the spell requires an attack roll, use the higher of the target's AC or their Will DC. If the spell requires a saving throw, the target uses their Will saving throw or the spell's normal saving throw, whichever is higher. Each time a creature fails its saving throw against a spell cast from your reservoir, you gain a small tattoo inked on your flesh out of pure shadowstuff.
 
 If you have more than one source of spells you can cast with spell slots, such as if you're a spellcaster with a multiclass archetype, choose one source of spells for your shadow reservoir.
 

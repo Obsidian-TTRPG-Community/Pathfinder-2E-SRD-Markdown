@@ -10,9 +10,9 @@ tags:
 aliases: ["Bestial Curse"]
 ---
 # Bestial Curse *Spell 4*   
-[curse](rules/traits/curse.md)  [polymorph](rules/traits/polymorph.md)  [transmutation](rules/traits/transmutation.md)  
+[curse](rules/traits/curse.md "Curse Effect Trait")  [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**touch
 - **Targets**1 living humanoid

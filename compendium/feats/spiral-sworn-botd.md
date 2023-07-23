@@ -10,7 +10,7 @@ tags:
 aliases: ["Spiral Sworn"]
 ---
 # Spiral Sworn  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  [concentrate](rules/traits/concentrate.md)  [divine](rules/traits/divine.md)  [evocation](rules/traits/evocation.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
 - **Prerequisites**: [Soul Warden Dedication](compendium/feats/soul-warden-dedication-botd.md)
 - **Frequency**: once per 10 minutes

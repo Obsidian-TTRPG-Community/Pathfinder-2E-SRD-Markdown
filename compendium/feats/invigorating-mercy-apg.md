@@ -7,7 +7,7 @@ tags:
 aliases: ["Invigorating Mercy"]
 ---
 # Invigorating Mercy  *Feat 6*  
-[champion](rules/traits/champion.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  
 
 - **Prerequisites**: [Mercy](compendium/feats/mercy.md)
 

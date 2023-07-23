@@ -7,7 +7,7 @@ tags:
 aliases: ["Effortless Concentration (Wizard)"]
 ---
 # Effortless Concentration (Wizard)  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 16*  
-[wizard](rules/traits/wizard.md)  
+[wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Trigger** Your turn begins.
 - **Activity** Free Action

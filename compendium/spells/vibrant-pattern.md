@@ -11,9 +11,9 @@ tags:
 aliases: ["Vibrant Pattern"]
 ---
 # Vibrant Pattern *Spell 6*   
-[illusion](rules/traits/illusion.md)  [incapacitation](rules/traits/incapacitation.md)  [visual](rules/traits/visual.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**120 foot
 - **Area**10-foot burst

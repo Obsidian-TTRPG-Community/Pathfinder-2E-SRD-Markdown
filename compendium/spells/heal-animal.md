@@ -12,7 +12,7 @@ tags:
 aliases: ["Heal Animal"]
 ---
 # Heal Animal *Focus 1*   
-[druid](rules/traits/druid.md)  [healing](rules/traits/healing.md)  [necromancy](rules/traits/necromancy.md)  [positive](rules/traits/positive.md)  [uncommon](rules/traits/uncommon.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") to [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot

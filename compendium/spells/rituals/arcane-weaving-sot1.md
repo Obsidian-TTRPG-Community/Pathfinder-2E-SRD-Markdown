@@ -9,7 +9,7 @@ tags:
 aliases: ["Arcane Weaving"]
 ---
 # Arcane Weaving *Ritual 3*  
-[divination](rules/traits/divination.md)  [uncommon](rules/traits/uncommon.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** 1 day
 - **Cost** rare silks worth a total value of 20 gp × the spell level

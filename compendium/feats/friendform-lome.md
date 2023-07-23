@@ -7,7 +7,7 @@ tags:
 aliases: ["Friendform"]
 ---
 # Friendform  *Feat 5*  
-[anadi](rules/traits/anadi-lome.md)  
+[anadi](rules/traits/anadi-lome.md "Anadi Ancestry & Heritage Trait")  
 
 
 The shared bond between you and your allies allows you to act on their behalf.

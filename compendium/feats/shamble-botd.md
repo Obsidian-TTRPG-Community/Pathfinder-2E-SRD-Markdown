@@ -7,7 +7,7 @@ tags:
 aliases: ["Shamble"]
 ---
 # Shamble  [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies") *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Zombie Dedication](compendium/feats/zombie-dedication-botd.md)
 - **Activity** Varies ([>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") OR [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action"))

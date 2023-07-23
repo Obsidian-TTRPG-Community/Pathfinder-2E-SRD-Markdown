@@ -7,7 +7,7 @@ tags:
 aliases: ["Analyze Information"]
 ---
 # Analyze Information  *Feat 9*  
-[aphorite](rules/traits/aphorite-loag.md)  
+[aphorite](rules/traits/aphorite-loag.md "Aphorite Ancestry & Heritage Trait")  
 
 
 You can stoke your mind into a burst of analytical prowess. You can cast 3rd-level [hypercognition](compendium/spells/hypercognition.md) once per day as a divine innate spell.

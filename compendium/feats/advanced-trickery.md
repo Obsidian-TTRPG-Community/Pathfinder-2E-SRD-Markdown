@@ -7,7 +7,7 @@ tags:
 aliases: ["Advanced Trickery"]
 ---
 # Advanced Trickery  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Trickery](compendium/feats/basic-trickery.md)
 

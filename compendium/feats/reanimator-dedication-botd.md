@@ -8,7 +8,7 @@ tags:
 aliases: ["Reanimator Dedication"]
 ---
 # Reanimator Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: able to cast [animate dead](compendium/spells/animate-dead-apg.md) with a spell slot
 

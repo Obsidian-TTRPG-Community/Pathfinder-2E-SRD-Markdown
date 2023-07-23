@@ -10,12 +10,12 @@ tags:
 - domain/trickery/deity
 aliases: ["Yaezhing", "Minister of Blood"]
 ---
-# Yaezhing (Minister of Blood) *([LE](rules/traits/lawful-evil-b1.md))*  
+# Yaezhing (Minister of Blood) *([LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 132*  
 
 - **Category**: Tian Gods
 - **Anathema**: show mercy to a target, take credit for your assassinations, refuse to punish a lawfully convicted criminal
-- **Follower Alignments**: [LE](rules/traits/lawful-evil-b1.md), [NE](rules/traits/neutral-evil-b1.md)
+- **Follower Alignments**: [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"), [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait")
 
 ## Devotee benefits
 

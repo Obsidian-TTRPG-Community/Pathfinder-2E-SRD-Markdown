@@ -7,7 +7,7 @@ tags:
 aliases: ["Summon Air Elemental"]
 ---
 # Summon Air Elemental  *Feat 13*  
-[sylph](rules/traits/sylph-b2.md)  
+[sylph](rules/traits/sylph-b2.md "Sylph Ancestry & Heritage Trait")  
 
 
 You have a connection to the Inner Spheres, allowing you to summon an elemental ally. Once per day, you can cast [summon elemental](compendium/spells/summon-elemental.md) as a 5th-level primal innate spell, but the elemental summoned must be an air elemental.

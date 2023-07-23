@@ -9,7 +9,7 @@ tags:
 aliases: ["O-yoroi"]
 ---
 # O-yoroi *Item 2*  
-[bulwark](rules/traits/bulwark.md)  [laminar](rules/traits/laminar-tv.md)  
+[bulwark](rules/traits/bulwark.md "Bulwark Armor Trait")  [laminar](rules/traits/laminar-tv.md "Laminar Armor Trait")  
 
 - **Price** 35 gp
 - **Bulk** 5

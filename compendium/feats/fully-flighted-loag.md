@@ -7,7 +7,7 @@ tags:
 aliases: ["Fully Flighted"]
 ---
 # Fully Flighted  *Feat 13*  
-[strix](rules/traits/strix-loag.md)  
+[strix](rules/traits/strix-loag.md "Strix Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Juvenile Flight](compendium/feats/juvenile-flight-loag.md)
 

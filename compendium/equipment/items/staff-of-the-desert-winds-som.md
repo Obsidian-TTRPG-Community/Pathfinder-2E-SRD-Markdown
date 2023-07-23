@@ -10,7 +10,7 @@ tags:
 aliases: ["Staff Of The Desert Winds"]
 ---
 # Staff Of The Desert Winds *Item 6+*  
-[abjuration](rules/traits/abjuration.md)  [magical](rules/traits/magical.md)  [staff](rules/traits/staff.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Staff

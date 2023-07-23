@@ -7,7 +7,7 @@ tags:
 aliases: ["Healing Touch"]
 ---
 # Healing Touch  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Champion Dedication](compendium/feats/champion-dedication.md)
 

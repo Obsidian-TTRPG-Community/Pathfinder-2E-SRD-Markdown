@@ -11,7 +11,7 @@ tags:
 aliases: ["Potion of Resistance"]
 ---
 # Potion of Resistance *Item 6+*  
-[abjuration](rules/traits/abjuration.md)  [consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [potion](rules/traits/potion.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [potion](rules/traits/potion.md "Potion Item Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md)

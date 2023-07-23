@@ -10,7 +10,7 @@ tags:
 aliases: ["Gearbinder Oil"]
 ---
 # Gearbinder Oil *Item 6+*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [incapacitation](rules/traits/incapacitation.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md)
@@ -18,7 +18,7 @@ aliases: ["Gearbinder Oil"]
 
 Gearbinder oil comes in a sealed pump that can squirt the oil a short distance. The oil is designed to flow through complex mechanisms and, agitated through mechanical action, foam up and form a paste that binds the works.
 
-The oil is effective against articulated constructs and machinery, including many constructs, clockworks, and mechanical hazards. You apply the oil to the target you want to bind, which must be within 10 feet of you. After the oil is applied, at the end of any round during which the target took an action with the attack, [manipulate](rules/traits/manipulate.md), or [move](rules/traits/move.md) trait, it must attempt a Fortitude save against a DC determined by the oil's type. A mechanism that's [slowed](rules/conditions.md#Slowed) or more by gearbinder oil also can't use reactions. Gearbinder oil functions for up to 6 rounds before becoming an inert, oily residue.
+The oil is effective against articulated constructs and machinery, including many constructs, clockworks, and mechanical hazards. You apply the oil to the target you want to bind, which must be within 10 feet of you. After the oil is applied, at the end of any round during which the target took an action with the attack, [manipulate](rules/traits/manipulate.md "Manipulate General Trait"), or [move](rules/traits/move.md "Move Combat Trait") trait, it must attempt a Fortitude save against a DC determined by the oil's type. A mechanism that's [slowed](rules/conditions.md#Slowed) or more by gearbinder oil also can't use reactions. Gearbinder oil functions for up to 6 rounds before becoming an inert, oily residue.
 
 > [!success-degree] 
 > - **Critical Success** The oil becomes inert, and the effect ends.

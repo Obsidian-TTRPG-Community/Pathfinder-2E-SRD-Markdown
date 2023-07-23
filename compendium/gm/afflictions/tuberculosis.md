@@ -10,7 +10,7 @@ aliases: ["Tuberculosis"]
 ---
 # Tuberculosis
 *Disease 1*  
-[disease](rules/traits/disease.md)  
+[disease](rules/traits/disease.md "Disease Effect Trait")  
 
 An extended respiratory disease, tuberculosis can pose particular challenges to spellcasters and some performers due to the intense coughing fits it produces.
 

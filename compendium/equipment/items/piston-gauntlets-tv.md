@@ -11,7 +11,7 @@ tags:
 aliases: ["Piston Gauntlets"]
 ---
 # Piston Gauntlets *Item 13*  
-[divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  clockwork  
+[divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  clockwork  
 
 - **Price** 2800 gp
 - **Usage** held in 1 hand; **Bulk** L

@@ -11,7 +11,7 @@ tags:
 aliases: ["Sneezing Powder"]
 ---
 # Sneezing Powder *Item 2*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [inhaled](rules/traits/inhaled.md)  [uncommon](rules/traits/uncommon.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [inhaled](rules/traits/inhaled.md "Inhaled Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 7 gp
 - **Usage** held in 2 hands; **Bulk** L

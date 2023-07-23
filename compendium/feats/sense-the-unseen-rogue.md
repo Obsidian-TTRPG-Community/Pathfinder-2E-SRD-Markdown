@@ -7,7 +7,7 @@ tags:
 aliases: ["Sense The Unseen (Rogue)"]
 ---
 # Sense The Unseen (Rogue)  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 14*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Trigger** You fail a check to [Seek](rules/actions/seek.md).
 - **Activity** Reaction

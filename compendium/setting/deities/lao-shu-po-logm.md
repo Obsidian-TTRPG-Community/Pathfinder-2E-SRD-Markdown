@@ -10,12 +10,12 @@ tags:
 - domain/trickery/deity
 aliases: ["Lao Shu Po", "Old Rat Woman"]
 ---
-# Lao Shu Po (Old Rat Woman) *([NE](rules/traits/neutral-evil-b1.md))*  
+# Lao Shu Po (Old Rat Woman) *([NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 132*  
 
 - **Category**: Tian Gods
 - **Anathema**: work honestly for something you could steal instead, risk too much for another creature
-- **Follower Alignments**: [LE](rules/traits/lawful-evil-b1.md), [N](rules/traits/neutral-b1.md), [NE](rules/traits/neutral-evil-b1.md), [CE](rules/traits/chaotic-evil-b1.md)
+- **Follower Alignments**: [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
 

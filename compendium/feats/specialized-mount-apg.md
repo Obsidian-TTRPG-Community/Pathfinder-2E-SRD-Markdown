@@ -7,7 +7,7 @@ tags:
 aliases: ["Specialized Mount"]
 ---
 # Specialized Mount  *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Incredible Mount](compendium/feats/incredible-mount-apg.md)
 

@@ -11,7 +11,7 @@ tags:
 aliases: ["Fearful Feast"]
 ---
 # Fearful Feast *Focus 4*   
-[fear](rules/traits/fear.md)  [mental](rules/traits/mental.md)  [necromancy](rules/traits/necromancy.md)  [uncommon](rules/traits/uncommon.md)  
+[fear](rules/traits/fear.md "Fear Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Domains**: [abomination](compendium/setting/domains.md#Abomination)
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 

@@ -9,7 +9,7 @@ tags:
 aliases: ["Poisoned Dart Statues"]
 ---
 # Poisoned Dart Statues *Hazard 14*  
-[complex](rules/traits/complex.md)  [mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +24 expert or DC 39 (master) to notice the control panel. Anyone specifically searching the name plate of Abresha Tallow-Hands locates the control panel automatically.  
@@ -64,7 +64,7 @@ title: Continuous Barrage [F](rules/core-rulebook/chapter-9-playing-the-game.md#
 
 ```ad-embed-ability
 title: Terinav Root Poison
-[poison](rules/traits/poison.md)  
+[poison](rules/traits/poison.md "Poison Effect Trait")  
 
 Saving Throw DC 28.  
 %% #trait/poison %%

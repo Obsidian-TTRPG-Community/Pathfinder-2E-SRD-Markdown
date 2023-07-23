@@ -8,7 +8,7 @@ tags:
 aliases: ["Running Tackle"]
 ---
 # Running Tackle  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  [open](rules/traits/open.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [open](rules/traits/open.md "Open Combat Trait")  
 
 - **Prerequisites**: [Wrestler Dedication](compendium/feats/wrestler-dedication-lotgb.md)
 - **Activity** Two-Action

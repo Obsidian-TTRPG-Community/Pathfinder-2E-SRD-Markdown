@@ -15,7 +15,7 @@ tags:
 aliases: ["Call To Arms"]
 ---
 # Call To Arms *Focus 1*   
-[auditory](rules/traits/auditory.md)  [cursebound](rules/traits/cursebound-apg.md)  [emotion](rules/traits/emotion.md)  [enchantment](rules/traits/enchantment.md)  [mental](rules/traits/mental.md)  [oracle](rules/traits/oracle-apg.md)  [uncommon](rules/traits/uncommon.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [cursebound](rules/traits/cursebound-apg.md "Cursebound Spell Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Mystery** Oracle
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 

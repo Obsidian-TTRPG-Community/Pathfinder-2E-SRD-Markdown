@@ -11,7 +11,7 @@ tags:
 aliases: ["Acrobat's Staff"]
 ---
 # Acrobat's Staff *Item 6*  
-[fortune](rules/traits/fortune.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+[fortune](rules/traits/fortune.md "Fortune Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 235 gp
 - **Usage** held in 2 hands; **Bulk** 2

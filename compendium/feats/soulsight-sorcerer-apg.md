@@ -7,7 +7,7 @@ tags:
 aliases: ["Soulsight (Sorcerer)"]
 ---
 # Soulsight (Sorcerer)  *Feat 8*  
-[sorcerer](rules/traits/sorcerer.md)  
+[sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 - **Prerequisites**: bloodline that grants divine or occult spells
 

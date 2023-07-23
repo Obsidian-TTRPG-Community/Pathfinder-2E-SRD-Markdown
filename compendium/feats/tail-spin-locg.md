@@ -7,7 +7,7 @@ tags:
 aliases: ["Tail Spin"]
 ---
 # Tail Spin  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 5*  
-[goblin](rules/traits/goblin.md)  
+[goblin](rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  
 
 - **Prerequisites**: tailed goblin heritage, [Hard Tail](compendium/feats/hard-tail-locg.md)
 - **Activity** Two-Action

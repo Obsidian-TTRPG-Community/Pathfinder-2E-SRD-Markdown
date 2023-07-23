@@ -8,7 +8,7 @@ tags:
 aliases: ["Shadowdancer Dedication"]
 ---
 # Shadowdancer Dedication  *Feat 8*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: master in [Stealth](compendium/skills.md#Stealth), expert in [Performance](compendium/skills.md#Performance)
 

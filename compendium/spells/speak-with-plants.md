@@ -9,9 +9,9 @@ tags:
 aliases: ["Speak With Plants"]
 ---
 # Speak With Plants *Spell 4*   
-[divination](rules/traits/divination.md)  [plant](rules/traits/plant.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md)
+- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Duration**10 minutes
 

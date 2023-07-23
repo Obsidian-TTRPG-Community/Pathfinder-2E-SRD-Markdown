@@ -12,7 +12,7 @@ tags:
 aliases: ["Fury Cocktail"]
 ---
 # Fury Cocktail *Item 4+*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [elixir](rules/traits/elixir.md)  [mutagen](rules/traits/mutagen.md)  [polymorph](rules/traits/polymorph.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [elixir](rules/traits/elixir.md "Elixir Item Trait")  [mutagen](rules/traits/mutagen.md "Mutagen Item Trait")  [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md)
@@ -22,7 +22,7 @@ A fury cocktail is a fortifying ginger beer spiked with rum and a mixer. It's ru
 
 Benefit You gain an item bonus to melee attack rolls and an additional effect depending on the additive chosen when the brew is created.
 
-- Animalistic Lemon juice and powdered claws or talons are added to the cocktail. You gain an unarmed attack in the brawling group of your choice between a jaws attack that deals `1d6` piercing damage or a claw attack that has the [agile](rules/traits/agile.md) trait and deals `1d4` slashing damage.
+- Animalistic Lemon juice and powdered claws or talons are added to the cocktail. You gain an unarmed attack in the brawling group of your choice between a jaws attack that deals `1d6` piercing damage or a claw attack that has the [agile](rules/traits/agile.md "Agile Weapon Trait") trait and deals `1d4` slashing damage.
 - Double This cocktail is just stronger, with more ginger and more rum. You gain resistance 1 to physical damage. The resistance increases to 2 for a moderate fury cocktail or 5 for a greater fury cocktail.
 - Mournful A few flower petals add a powerful aroma to the drink. You gain resistance 1 to negative damage, or resistance 1 to positive damage if you have negative healing. The resistance increases to 5 for a moderate fury cocktail or 10 for a greater fury cocktail.
 - Skeptical A splash of bitters gives the drink a more complex flavor. You gain a +1 item bonus to saves against magic. This bonus is +2 for a moderate fury cocktail or +3 for a greater fury cocktail.

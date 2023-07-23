@@ -11,7 +11,7 @@ tags:
 aliases: ["Encompassing Lockpick"]
 ---
 # Encompassing Lockpick *Item 8*  
-[conjuration](rules/traits/conjuration.md)  [extradimensional](rules/traits/extradimensional.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [extradimensional](rules/traits/extradimensional.md "Extradimensional Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 450 gp
 - **Usage** held in 1 hand; **Bulk** L

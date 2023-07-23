@@ -10,9 +10,9 @@ tags:
 aliases: ["Shadow Projectile"]
 ---
 # Shadow Projectile *Spell 3*   
-[illusion](rules/traits/illusion.md)  [shadow](rules/traits/shadow.md)  [visual](rules/traits/visual.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [shadow](rules/traits/shadow.md "Shadow General Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
 - **Trigger**An ally within 20 feet of you makes a ranged attack roll.
 - **Saving Throw** Will

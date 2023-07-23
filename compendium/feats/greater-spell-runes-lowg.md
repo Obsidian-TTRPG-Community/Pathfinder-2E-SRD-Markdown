@@ -7,7 +7,7 @@ tags:
 aliases: ["Greater Spell Runes"]
 ---
 # Greater Spell Runes  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Runes](compendium/feats/spell-runes-lowg.md)
 

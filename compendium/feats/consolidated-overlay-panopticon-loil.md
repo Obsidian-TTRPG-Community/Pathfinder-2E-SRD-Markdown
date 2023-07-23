@@ -7,7 +7,7 @@ tags:
 aliases: ["Consolidated Overlay Panopticon"]
 ---
 # Consolidated Overlay Panopticon  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Shieldmarshal Dedication](compendium/feats/shieldmarshal-dedication-loil.md)
 - **Frequency**: once per hour

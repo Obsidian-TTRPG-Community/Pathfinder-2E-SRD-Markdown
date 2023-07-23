@@ -10,7 +10,7 @@ tags:
 aliases: ["Unblinking Flame Emblem"]
 ---
 # Unblinking Flame Emblem *Focus 7*   
-[divination](rules/traits/divination.md)  [fire](rules/traits/fire.md)  [uncommon](rules/traits/uncommon.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Trigger**Your last action was a successful [Strike](rules/actions/strike.md) against an enemy.

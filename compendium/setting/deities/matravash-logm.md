@@ -10,12 +10,12 @@ tags:
 - domain/water/deity
 aliases: ["Matravash", "The Wide Water"]
 ---
-# Matravash (The Wide Water) *([LN](rules/traits/lawful-neutral-b1.md))*  
+# Matravash (The Wide Water) *([LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 132*  
 
 - **Category**: Vudrani Gods
 - **Anathema**: destroy lotus fields, interfere with the flow of the Matra river, pollute clean water, reveal the location of non-evil fugitives
-- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [LN](rules/traits/lawful-neutral-b1.md), [N](rules/traits/neutral-b1.md)
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait")
 
 ## Devotee benefits
 

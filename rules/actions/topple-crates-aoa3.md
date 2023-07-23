@@ -8,7 +8,7 @@ tags:
 aliases: ["Topple Crates"]
 ---
 # Topple Crates
-[manipulate](rules/traits/manipulate.md)  
+[manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 *Source: Age of Ashes #3: Tomorrow Must Burn p. 31*  
 
 - **Requirements**: You are adjacent to a column of crates.

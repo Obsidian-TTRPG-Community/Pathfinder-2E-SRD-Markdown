@@ -7,7 +7,7 @@ tags:
 aliases: ["Magpie Snatch"]
 ---
 # Magpie Snatch  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 5*  
-[tengu](rules/traits/tengu-b1.md)  
+[tengu](rules/traits/tengu-b1.md "Tengu Ancestry & Heritage Trait")  
 
 - **Activity** Two-Action
 

@@ -10,12 +10,12 @@ tags:
 - domain/undeath/deity
 aliases: ["Zura", "The Vampire Queen"]
 ---
-# Zura (The Vampire Queen) *([CE](rules/traits/chaotic-evil-b1.md))*  
+# Zura (The Vampire Queen) *([CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 77*  
 
 - **Category**: Demon Lords
 - **Anathema**: expose vampires, heal a bloody wound without drinking blood from it first
-- **Follower Alignments**: [NE](rules/traits/neutral-evil-b1.md), [CE](rules/traits/chaotic-evil-b1.md)
+- **Follower Alignments**: [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
 

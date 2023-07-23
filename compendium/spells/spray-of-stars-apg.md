@@ -14,7 +14,7 @@ tags:
 aliases: ["Spray Of Stars"]
 ---
 # Spray Of Stars *Focus 1*   
-[cursebound](rules/traits/cursebound-apg.md)  [evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  [light](rules/traits/light.md)  [oracle](rules/traits/oracle-apg.md)  [uncommon](rules/traits/uncommon.md)  
+[cursebound](rules/traits/cursebound-apg.md "Cursebound Spell Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [light](rules/traits/light.md "Light Effect Trait")  [oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Mystery** Oracle
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

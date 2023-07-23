@@ -10,7 +10,7 @@ tags:
 aliases: ["Wellspring Mage Dedication"]
 ---
 # Wellspring Mage Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [class](rules/traits/class-som.md)  [dedication](rules/traits/dedication.md)  [rare](rules/traits/rare.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [class](rules/traits/class-som.md "Class Class Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Prerequisites**: wellspring magic
 

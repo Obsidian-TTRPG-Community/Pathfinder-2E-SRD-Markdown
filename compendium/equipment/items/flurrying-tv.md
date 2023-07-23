@@ -9,17 +9,17 @@ tags:
 aliases: ["Flurrying"]
 ---
 # Flurrying *Item 7*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 360 gp
-- **Usage** etched onto a melee weapon with the [monk](rules/traits/monk.md) trait
+- **Usage** etched onto a melee weapon with the [monk](rules/traits/monk.md "Monk Class Trait") trait
 - **Category** Rune
 
 When you make a [Flurry of Blows](rules/actions/flurry-of-blows.md) using the etched weapon and your first [Strike](rules/actions/strike.md) reduces a creature to 0 Hit Points, you can make your second [Strike](rules/actions/strike.md) with an echo of the weapon, increasing the reach to 30 feet.
 
 ```ad-embed-ability
 title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
-[evocation](rules/traits/evocation.md)  [force](rules/traits/force.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  
 
 The weapon casts a [spiritual weapon](compendium/spells/spiritual-weapon.md) spell.
 

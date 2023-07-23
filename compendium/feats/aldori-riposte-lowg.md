@@ -7,7 +7,7 @@ tags:
 aliases: ["Aldori Riposte"]
 ---
 # Aldori Riposte  [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies") *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Aldori Parry](compendium/feats/aldori-parry-lowg.md)
 - **Trigger** An opponent within your reach critically fails a [Strike](rules/actions/strike.md) against you.

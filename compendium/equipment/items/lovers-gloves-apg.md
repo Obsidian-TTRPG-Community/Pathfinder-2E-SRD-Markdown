@@ -12,7 +12,7 @@ tags:
 aliases: ["Lover's Gloves"]
 ---
 # Lover's Gloves *Item 8*  
-[emotion](rules/traits/emotion.md)  [enchantment](rules/traits/enchantment.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  
+[emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 - **Price** 500 gp
 - **Usage** worn gloves
@@ -29,7 +29,7 @@ You grasp the hands of a willing creature you have strong positive feelings abou
 
 The creature gains a +1 status bonus to saving throws and 10 temporary Hit Points for 10 minutes.
 
-If the creature shares your feelings, you gain the same benefits, and for the duration, when you both roll a success on a saving throw against an [emotion](rules/traits/emotion.md) effect that causes negative emotions, you both get a critical success instead.
+If the creature shares your feelings, you gain the same benefits, and for the duration, when you both roll a success on a saving throw against an [emotion](rules/traits/emotion.md "Emotion Effect Trait") effect that causes negative emotions, you both get a critical success instead.
 ```
 
 *Source: Advanced Player's Guide p. 261*

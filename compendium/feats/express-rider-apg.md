@@ -10,7 +10,7 @@ tags:
 aliases: ["Express Rider"]
 ---
 # Express Rider  *Feat 1*  
-[exploration](rules/traits/exploration.md)  [general](rules/traits/general.md)  [move](rules/traits/move.md)  [skill](rules/traits/skill.md)  
+[exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [general](rules/traits/general.md "General Feat Trait")  [move](rules/traits/move.md "Move Combat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: trained in [Nature](compendium/skills.md#Nature)
 

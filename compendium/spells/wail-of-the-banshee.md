@@ -12,9 +12,9 @@ tags:
 aliases: ["Wail Of The Banshee"]
 ---
 # Wail Of The Banshee *Spell 9*   
-[auditory](rules/traits/auditory.md)  [death](rules/traits/death.md)  [necromancy](rules/traits/necromancy.md)  [negative](rules/traits/negative.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [death](rules/traits/death.md "Death Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md), [occult](rules/traits/occult.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**40-foot emanation
 - **Targets**any number of creatures

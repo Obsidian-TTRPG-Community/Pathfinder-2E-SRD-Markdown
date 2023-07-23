@@ -9,7 +9,7 @@ tags:
 aliases: ["Research"]
 ---
 # Research
-[concentrate](rules/traits/concentrate.md)  [exploration](rules/traits/exploration.md)  [linguistic](rules/traits/linguistic.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  
 *Source: Gamemastery Guide p. 154*  
 
 **Variant Rule** Research

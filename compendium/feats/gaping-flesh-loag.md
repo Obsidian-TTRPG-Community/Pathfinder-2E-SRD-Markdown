@@ -7,7 +7,7 @@ tags:
 aliases: ["Gaping Flesh"]
 ---
 # Gaping Flesh  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 5*  
-[fleshwarp](rules/traits/fleshwarp-loag.md)  
+[fleshwarp](rules/traits/fleshwarp-loag.md "Fleshwarp Ancestry & Heritage Trait")  
 
 - **Frequency**: once per day
 - **Trigger** A creature you are aware of damages you with a melee [Strike](rules/actions/strike.md).

@@ -8,7 +8,7 @@ tags:
 aliases: ["Doctor's Visitation"]
 ---
 # Doctor's Visitation  [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies") *Feat 4*  
-[archetype](rules/traits/archetype.md)  [flourish](rules/traits/flourish.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 - **Prerequisites**: [Medic Dedication](compendium/feats/medic-dedication-apg.md)
 - **Activity** Varies ([>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") OR [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action"))

@@ -8,7 +8,7 @@ tags:
 aliases: ["Mithral Shield"]
 ---
 # Mithral Shield *Item 8+*  
-[uncommon](rules/traits/uncommon.md)  
+[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Usage** varies by shield
 - **Category** Shield; **Group** Shield 

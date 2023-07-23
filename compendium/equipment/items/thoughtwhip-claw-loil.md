@@ -11,7 +11,7 @@ tags:
 aliases: ["Thoughtwhip Claw"]
 ---
 # Thoughtwhip Claw *Item 11*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  [tattoo](rules/traits/tattoo-lowg.md)  
+[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [tattoo](rules/traits/tattoo-lowg.md "Tattoo Item Trait")  
 
 - **Price** 1350 gp
 - **Usage** worn; **Bulk** —

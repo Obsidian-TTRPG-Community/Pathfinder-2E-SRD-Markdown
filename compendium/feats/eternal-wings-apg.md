@@ -7,7 +7,7 @@ tags:
 aliases: ["Eternal Wings"]
 ---
 # Eternal Wings  *Feat 17*  
-[aasimar](rules/traits/aasimar-apg.md)  
+[aasimar](rules/traits/aasimar-apg.md "Aasimar Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Celestial Wings](compendium/feats/celestial-wings-apg.md)
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Perfect Strike"]
 ---
 # Perfect Strike  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Student of Perfection Dedication](compendium/feats/student-of-perfection-dedication-lowg.md)
 

@@ -9,7 +9,7 @@ tags:
 aliases: ["Wand of Continuation"]
 ---
 # Wand of Continuation *Item 5+*  
-[magical](rules/traits/magical.md)  [wand](rules/traits/wand.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Wand

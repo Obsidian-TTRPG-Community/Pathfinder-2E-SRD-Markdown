@@ -10,7 +10,7 @@ tags:
 aliases: ["Deduce Traditions"]
 ---
 # Deduce Traditions
-[concentrate](rules/traits/concentrate.md)  [linguistic](rules/traits/linguistic.md)  [secret](rules/traits/secret.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [secret](rules/traits/secret.md "Secret General Trait")  
 *Source: Age of Ashes #4: Fires of the Haunted City p. 18*  
 
 

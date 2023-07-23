@@ -9,7 +9,7 @@ tags:
 aliases: ["Alchemical Atomizer"]
 ---
 # Alchemical Atomizer *Item 10*  
-[alchemical](rules/traits/alchemical.md)  [rare](rules/traits/rare.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 175 gp
 - **Usage** held in 1 hands, Bulk L

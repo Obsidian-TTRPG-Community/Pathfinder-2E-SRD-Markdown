@@ -9,7 +9,7 @@ tags:
 aliases: ["Accompany"]
 ---
 # Accompany  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
-[bard](rules/traits/bard.md)  [concentrate](rules/traits/concentrate.md)  [manipulate](rules/traits/manipulate.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 
 - **Trigger** An ally within 30 feet [Casts a Spell](rules/actions/cast-a-spell.md).
 - **Activity** Reaction

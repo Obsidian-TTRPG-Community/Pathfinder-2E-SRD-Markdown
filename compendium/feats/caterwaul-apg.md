@@ -11,7 +11,7 @@ tags:
 aliases: ["Caterwaul"]
 ---
 # Caterwaul  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 13*  
-[auditory](rules/traits/auditory.md)  [catfolk](rules/traits/catfolk-b1.md)  [concentrate](rules/traits/concentrate.md)  [emotion](rules/traits/emotion.md)  [mental](rules/traits/mental.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [catfolk](rules/traits/catfolk-b1.md "Catfolk Ancestry & Heritage Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 - **Frequency**: once per day
 - **Trigger** An ally within 30 feet would be reduced to 0 HP but not immediately killed.

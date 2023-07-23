@@ -10,7 +10,7 @@ tags:
 aliases: ["Water Strider"]
 ---
 # Water Strider  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 9*  
-[azarketi](rules/traits/azarketi-loag.md)  [primal](rules/traits/primal.md)  [transmutation](rules/traits/transmutation.md)  [water](rules/traits/water.md)  
+[azarketi](rules/traits/azarketi-loag.md "Azarketi Ancestry & Heritage Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
 - **Activity** Two-Action
 

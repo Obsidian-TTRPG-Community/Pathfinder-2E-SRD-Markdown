@@ -7,7 +7,7 @@ tags:
 aliases: ["Viper Strike"]
 ---
 # Viper Strike  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 9*  
-[vishkanya](rules/traits/vishkanya-loil.md)  
+[vishkanya](rules/traits/vishkanya-loil.md "Vishkanya Ancestry & Heritage Trait")  
 
 - **Frequency**: once per minute
 - **Activity** Two-Action

@@ -11,7 +11,7 @@ tags:
 aliases: ["Breastplate of the Mountain"]
 ---
 # Breastplate of the Mountain *Item 20*  
-[abjuration](rules/traits/abjuration.md)  [apex](rules/traits/apex.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [apex](rules/traits/apex.md "Apex Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 70000 gp
 - **Usage** worn armor; **Bulk** 2

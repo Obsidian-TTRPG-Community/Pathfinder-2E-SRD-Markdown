@@ -7,7 +7,7 @@ tags:
 aliases: ["Wronged Monk's Wrath"]
 ---
 # Wronged Monk's Wrath *Hazard 13*  
-[haunt](rules/traits/haunt.md)  
+[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 32 trained  

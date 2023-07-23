@@ -7,7 +7,7 @@ tags:
 aliases: ["Resist Ruin"]
 ---
 # Resist Ruin  *Feat 13*  
-[duskwalker](rules/traits/duskwalker-apg.md)  
+[duskwalker](rules/traits/duskwalker-apg.md "Duskwalker Ancestry & Heritage Trait")  
 
 
 Your duskwalker heritage allows you to extend protection against negative energy to yourself or an ally in need. You gain resistance 5 to negative energy, and once per day, you can cast [death ward](compendium/spells/death-ward.md) as a divine innate spell.

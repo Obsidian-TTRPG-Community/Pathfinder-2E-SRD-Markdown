@@ -9,7 +9,7 @@ tags:
 aliases: ["Counterspell (Wizard)"]
 ---
 # Counterspell (Wizard)  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
-[abjuration](rules/traits/abjuration.md)  [arcane](rules/traits/arcane.md)  [wizard](rules/traits/wizard.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Trigger** A creature [Casts a Spell](rules/actions/cast-a-spell.md) that you have prepared.
 - **Activity** Reaction

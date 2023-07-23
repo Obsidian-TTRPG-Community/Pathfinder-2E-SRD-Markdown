@@ -10,7 +10,7 @@ tags:
 aliases: ["Cloak of the False Foe"]
 ---
 # Cloak of the False Foe *Item 12*  
-[invested](rules/traits/invested.md)  [primal](rules/traits/primal.md)  [transmutation](rules/traits/transmutation.md)  
+[invested](rules/traits/invested.md "Invested Item Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 1850 gp
 - **Usage** worn cloak; **Bulk** L
@@ -20,7 +20,7 @@ Images of strange animals and distorted figures are woven into this coarse, fur-
 
 ```ad-embed-ability
 title: Activate [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies")
-[polymorph](rules/traits/polymorph.md)  [primal](rules/traits/primal.md)  [transmutation](rules/traits/transmutation.md)  
+[polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 The cloak rises to envelop your head and body, reshaping your appearance into that of a locally feared cryptid. If there is no such figure in local lore, the cloak of the false foe instead alters your appearance into a form imagined by the crafter of the cloak. One choice that occurs with disturbing frequency is a gaunt figure with triple-jointed fingers; an eyeless, hairless head with a lamprey mouth in the center of its face; and stubby tentacles waving down its neck. The transformation also grants the effects of either a 3rd-level [humanoid form](compendium/spells/humanoid-form.md) spell that lasts for 1 hour if you turn into a Medium cryptid, or a 5th-level [humanoid form](compendium/spells/humanoid-form.md) spell that lasts for 10 minutes if you turn into a Large cryptid.
 

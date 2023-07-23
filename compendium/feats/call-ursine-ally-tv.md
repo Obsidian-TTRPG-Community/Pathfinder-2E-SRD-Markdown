@@ -9,7 +9,7 @@ tags:
 aliases: ["Call Ursine Ally"]
 ---
 # Call Ursine Ally  *Feat 8*  
-[archetype](rules/traits/archetype.md)  [conjuration](rules/traits/conjuration.md)  [primal](rules/traits/primal.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  
 
 - **Frequency**: once per hour
 

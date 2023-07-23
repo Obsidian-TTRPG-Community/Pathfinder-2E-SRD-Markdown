@@ -9,7 +9,7 @@ tags:
 aliases: ["Marvelous Medicines"]
 ---
 # Marvelous Medicines *Item 12+*  
-[magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 - **Usage** held in 2 hands; **Bulk** 1
 - **Category** Held

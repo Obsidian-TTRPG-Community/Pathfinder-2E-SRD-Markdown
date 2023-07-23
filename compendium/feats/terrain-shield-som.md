@@ -7,7 +7,7 @@ tags:
 aliases: ["Terrain Shield"]
 ---
 # Terrain Shield  *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Geomancer Dedication](compendium/feats/geomancer-dedication-som.md), master in [Nature](compendium/skills.md#Nature)
 - **Frequency**: once per 10 minutes

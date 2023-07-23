@@ -13,7 +13,7 @@ tags:
 aliases: ["Pathfinder's Pouch"]
 ---
 # Pathfinder's Pouch *Item 6*  
-[abjuration](rules/traits/abjuration.md)  [consumable](rules/traits/consumable.md)  [extradimensional](rules/traits/extradimensional.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [extradimensional](rules/traits/extradimensional.md "Extradimensional Effect Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 200 gp
 - **Usage** worn belt pouch; **Bulk** L

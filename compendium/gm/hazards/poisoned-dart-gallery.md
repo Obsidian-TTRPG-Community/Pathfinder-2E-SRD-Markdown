@@ -9,7 +9,7 @@ tags:
 aliases: ["Poisoned Dart Gallery"]
 ---
 # Poisoned Dart Gallery *Hazard 8*  
-[complex](rules/traits/complex.md)  [mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +16 expert or DC 31 (master) to notice the control panel.  
@@ -26,7 +26,7 @@ Countless holes to launch poison darts from line a long hallway with a hidden co
      
 ```ad-embed-ability
 title: Dart Volley [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[attack](rules/traits/attack.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  
 
 - **Trigger**: A creature enters the hallway or ends its turn in the hallway.
 
@@ -50,7 +50,7 @@ The trap makes a poisoned dart [Strike](rules/actions/strike.md) against the tri
 ```ad-inline-affliction
 title: Flesset Poison
 
-[poison](rules/traits/poison.md)  
+[poison](rules/traits/poison.md "Poison Effect Trait")  
 - **Saving Throws**: DC 22 Fortitude
 - **Maximum Duration**: 6 rounds
 

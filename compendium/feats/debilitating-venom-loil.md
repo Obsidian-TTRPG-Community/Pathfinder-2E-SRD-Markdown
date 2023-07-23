@@ -7,7 +7,7 @@ tags:
 aliases: ["Debilitating Venom"]
 ---
 # Debilitating Venom  *Feat 5*  
-[vishkanya](rules/traits/vishkanya-loil.md)  
+[vishkanya](rules/traits/vishkanya-loil.md "Vishkanya Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Envenom](rules/actions/envenom-loil.md)
 

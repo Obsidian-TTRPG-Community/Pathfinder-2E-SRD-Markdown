@@ -9,7 +9,7 @@ tags:
 aliases: ["Mystic Carriage"]
 ---
 # Mystic Carriage *Ritual 3*  
-[conjuration](rules/traits/conjuration.md)  [uncommon](rules/traits/uncommon.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** 1 hour
 - **Cost** toy carriage, horse statues, rare incense, and feathers worth 50 gp

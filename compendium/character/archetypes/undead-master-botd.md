@@ -19,7 +19,7 @@ The additional feats below are found in the [beastmaster](compendium/character/a
 title: Undead Master Dedication, Feat 2
 collapse: closed
 # Undead Master Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: evil alignment
 
@@ -30,20 +30,20 @@ Contrary to the usual rules for companions, as an undead master it's possible fo
 **Special.** You can't select another dedication feat until you have gained two other feats from the undead master archetype.
 
 *Source: Book of the Dead p. 41*  
-%% #trait/uncommon #trait/archetype #trait/dedication %%
+%% #trait/archetype #trait/dedication #trait/uncommon %%
 ```  
 
 ```ad-embed-feat
 title: Additional Companion, Feat 4*
 collapse: closed
 # Additional Companion  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Additional Companion](compendium/feats/additional-companion-apg.md) is intended for use with the Undead Master Archetype. Its level has been changed accordingly.
 
 - **Prerequisites**: [Beastmaster Dedication](compendium/feats/beastmaster-dedication-apg.md)
 
-Another animal joins you in your travels. It is a young animal companion that has the [minion](rules/traits/minion.md) trait. See Beastmaster Animal Companions for rules on how having multiple animal companions works.
+Another animal joins you in your travels. It is a young animal companion that has the [minion](rules/traits/minion.md "Minion Creature Trait") trait. See Beastmaster Animal Companions for rules on how having multiple animal companions works.
 
 **Special.** You can select this feat more than once, gaining an additional animal companion each time, to a maximum of four total companions (including the one you gained from Beastmaster Dedication and possibly one you gained from sources other than the beastmaster archetype).
 
@@ -55,7 +55,7 @@ Another animal joins you in your travels. It is a young animal companion that ha
 title: Mature Beastmaster Companion, Feat 4*
 collapse: closed
 # Mature Beastmaster Companion  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Mature Beastmaster Companion](compendium/feats/mature-beastmaster-companion-apg.md) is intended for use with the Undead Master Archetype. Its level has been changed accordingly.
 
@@ -71,7 +71,7 @@ All of your animal companions grow up, becoming mature animal companions and gai
 title: Companion's Cry, Feat 6*
 collapse: closed
 # Companion's Cry  *Feat 6*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 > [!pf2-note] This version of [Companion's Cry](compendium/feats/companions-cry.md) is intended for use with the Undead Master Archetype. Its level has been changed accordingly.
 
@@ -87,7 +87,7 @@ You can urge your companion to do its utmost. You can spend 2 actions to [Comman
 title: Guardian Ghosts, Feat 8
 collapse: closed
 # Guardian Ghosts  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
-[archetype](rules/traits/archetype.md)  [divine](rules/traits/divine.md)  [necromancy](rules/traits/necromancy.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 - **Prerequisites**: [Undead Master Dedication](compendium/feats/undead-master-dedication-botd.md)
 - **Frequency**: once per 10 minutes
@@ -104,7 +104,7 @@ You magically divert some of the harm from an incoming attack away from yourself
 title: Incredible Beastmaster Companion, Feat 8*
 collapse: closed
 # Incredible Beastmaster Companion  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Incredible Beastmaster Companion](compendium/feats/incredible-beastmaster-companion-apg.md) is intended for use with the Undead Master Archetype. Its level has been changed accordingly.
 
@@ -122,7 +122,7 @@ They each become nimble or savage animal companions (your choice, choose for eac
 title: Their Master's Call, Feat 12*
 collapse: closed
 # Their Master's Call  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 12*  
-[archetype](rules/traits/archetype.md)  [concentrate](rules/traits/concentrate.md)  [divine](rules/traits/divine.md)  [necromancy](rules/traits/necromancy.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 > [!pf2-note] This version of [Their Master's Call](compendium/feats/their-masters-call-botd.md) is intended for use with the Undead Master Archetype. Its level has been changed accordingly.
 
@@ -139,7 +139,7 @@ In a pinch, you pull one of your inactive companions from their rest to provide 
 title: Specialized Beastmaster Companion, Feat 14*
 collapse: closed
 # Specialized Beastmaster Companion  *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Specialized Beastmaster Companion](compendium/feats/specialized-beastmaster-companion-apg.md) is intended for use with the Undead Master Archetype. Its level has been changed accordingly.
 
@@ -157,7 +157,7 @@ Your nimble and savage animal companions become cunning enough to become special
 title: Lead The Pack, Feat 16*
 collapse: closed
 # Lead The Pack  *Feat 16*  
-[archetype](rules/traits/archetype.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 > [!pf2-note] This version of [Lead The Pack](compendium/feats/lead-the-pack-apg.md) is intended for use with the Undead Master Archetype. Its level has been changed accordingly.
 
@@ -166,5 +166,5 @@ collapse: closed
 You can have up to two animal companions active at once. However, when you do, it's slightly more difficult to Command them. If you don't Command either of your companions, one of the two (your choice) can still use 1 action on your turn to [Stride](rules/actions/stride.md) or [Strike](rules/actions/strike.md), as per Mature Beastmaster Companion, but not both. When you [Command an Animal](rules/actions/command-an-animal.md), either choose one of the companions to take 2 actions, as normal, or else both companions can take 1 action to [Stride](rules/actions/stride.md) or [Strike](rules/actions/strike.md). Either way, you can't [Command an Animal](rules/actions/command-an-animal.md) to make either companion act again until your next turn.
 
 *Source: Advanced Player's Guide p. 161*  
-%% #trait/uncommon #trait/archetype %%
+%% #trait/archetype #trait/uncommon %%
 ```

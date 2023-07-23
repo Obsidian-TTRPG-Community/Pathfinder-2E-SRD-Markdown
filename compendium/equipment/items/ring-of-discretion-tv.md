@@ -11,7 +11,7 @@ tags:
 aliases: ["Ring of Discretion"]
 ---
 # Ring of Discretion *Item 1*  
-[illusion](rules/traits/illusion.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [visual](rules/traits/visual.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Price** 15 gp
 - **Usage** worn; **Bulk** —

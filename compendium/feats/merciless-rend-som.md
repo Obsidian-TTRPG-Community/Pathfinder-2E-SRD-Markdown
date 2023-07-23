@@ -9,7 +9,7 @@ tags:
 aliases: ["Merciless Rend"]
 ---
 # Merciless Rend  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
-[eidolon](rules/traits/eidolon-som.md)  [evolution](rules/traits/evolution-som.md)  [summoner](rules/traits/summoner-som.md)  
+[eidolon](rules/traits/eidolon-som.md "Eidolon Creature Type Trait")  [evolution](rules/traits/evolution-som.md "Evolution Feat Trait")  [summoner](rules/traits/summoner-som.md "Summoner Class Trait")  
 
 - **Requirements**: Your eidolon hit the same enemy with two consecutive [Strikes](rules/actions/strike.md) with its secondary attack this turn and dealt slashing damage with both.
 - **Activity** Single Action

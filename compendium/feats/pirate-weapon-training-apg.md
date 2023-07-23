@@ -7,7 +7,7 @@ tags:
 aliases: ["Pirate Weapon Training"]
 ---
 # Pirate Weapon Training  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Pirate Dedication](compendium/feats/pirate-dedication-apg.md)
 

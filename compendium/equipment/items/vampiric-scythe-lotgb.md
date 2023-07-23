@@ -12,7 +12,7 @@ tags:
 aliases: ["Vampiric Scythe"]
 ---
 # Vampiric Scythe *Item 13*  
-[evil](rules/traits/evil.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [negative](rules/traits/negative.md)  [uncommon](rules/traits/uncommon.md)  
+[evil](rules/traits/evil.md "Evil Alignment Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 3000 gp
 - **Usage** held in 2 hands; **Bulk** 2

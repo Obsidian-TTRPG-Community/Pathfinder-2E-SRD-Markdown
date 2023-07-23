@@ -7,7 +7,7 @@ tags:
 aliases: ["Fox Trick"]
 ---
 # Fox Trick  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 9*  
-[kitsune](rules/traits/kitsune-loag.md)  
+[kitsune](rules/traits/kitsune-loag.md "Kitsune Ancestry & Heritage Trait")  
 
 - **Frequency**: once per hour
 - **Activity** Free Action

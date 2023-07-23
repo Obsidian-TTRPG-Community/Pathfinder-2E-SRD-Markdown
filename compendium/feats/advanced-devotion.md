@@ -7,7 +7,7 @@ tags:
 aliases: ["Advanced Devotion"]
 ---
 # Advanced Devotion  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Devotion](compendium/feats/basic-devotion.md)
 

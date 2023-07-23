@@ -7,7 +7,7 @@ tags:
 aliases: ["Two Truths"]
 ---
 # Two Truths  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 9*  
-[reflection](rules/traits/reflection-da.md)  
+[reflection](rules/traits/reflection-da.md "Reflection Ancestry & Heritage Trait")  
 
 - **Prerequisites**: master in [Deception](compendium/skills.md#Deception)
 - **Activity** Single Action

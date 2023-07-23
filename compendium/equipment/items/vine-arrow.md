@@ -10,7 +10,7 @@ tags:
 aliases: ["Vine Arrow"]
 ---
 # Vine Arrow *Item 3*  
-[conjuration](rules/traits/conjuration.md)  [consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 10 gp
 - **Ammunition** [arrow](compendium/equipment/items/arrow.md)

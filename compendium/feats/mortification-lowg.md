@@ -7,7 +7,7 @@ tags:
 aliases: ["Mortification"]
 ---
 # Mortification  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Hellknight Armiger Dedication](compendium/feats/hellknight-armiger-dedication-lowg.md)
 

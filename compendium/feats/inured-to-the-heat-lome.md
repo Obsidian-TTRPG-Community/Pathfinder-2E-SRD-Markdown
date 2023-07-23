@@ -7,7 +7,7 @@ tags:
 aliases: ["Inured To The Heat"]
 ---
 # Inured To The Heat  *Feat 5*  
-[shisk](rules/traits/shisk-lome.md)  
+[shisk](rules/traits/shisk-lome.md "Shisk Ancestry & Heritage Trait")  
 
 
 Your have a love for extreme heat.

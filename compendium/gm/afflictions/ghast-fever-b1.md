@@ -10,7 +10,7 @@ aliases: ["Ghast Fever"]
 ---
 # Ghast Fever
 *Disease 1*  
-[disease](rules/traits/disease.md)  
+[disease](rules/traits/disease.md "Disease Effect Trait")  
 
 ```ad-inline-affliction
 title: Saving Throw: Fortitude

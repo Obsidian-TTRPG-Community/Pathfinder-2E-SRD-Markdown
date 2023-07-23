@@ -7,7 +7,7 @@ tags:
 aliases: ["Legendary Monster Hunter"]
 ---
 # Legendary Monster Hunter  *Feat 16*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: legendary in [Nature](compendium/skills.md#Nature), [Master Monster Hunter](compendium/feats/master-monster-hunter.md)
 

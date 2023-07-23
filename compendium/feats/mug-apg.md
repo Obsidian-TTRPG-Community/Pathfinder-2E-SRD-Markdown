@@ -7,7 +7,7 @@ tags:
 aliases: ["Mug"]
 ---
 # Mug  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 4*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Activity** Two-Action
 

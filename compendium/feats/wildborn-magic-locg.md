@@ -8,7 +8,7 @@ tags:
 aliases: ["Wildborn Magic"]
 ---
 # Wildborn Magic  *Feat 1*  
-[elf](rules/traits/elf.md)  [uncommon](rules/traits/uncommon.md)  
+[elf](rules/traits/elf.md "Elf Ancestry & Heritage Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: Mualijae ethnicity
 

@@ -9,7 +9,7 @@ tags:
 aliases: ["Chemical Purification"]
 ---
 # Chemical Purification  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 4*  
-[additive <2>](rules/traits/additive.md)  [alchemist](rules/traits/alchemist.md)  [uncommon](rules/traits/uncommon.md)  
+[additive <2>](rules/traits/additive-2.md "Additive Feat Trait")  [alchemist](rules/traits/alchemist.md "Alchemist Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: Knights of Lastwall have access to this feat.
 - **Frequency**: once per round

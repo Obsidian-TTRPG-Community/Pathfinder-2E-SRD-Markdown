@@ -9,7 +9,7 @@ tags:
 aliases: ["Phase Arrow"]
 ---
 # Phase Arrow  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 16*  
-[archetype](rules/traits/archetype.md)  [conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Prerequisites**: [Eldritch Archer Dedication](compendium/feats/eldritch-archer-dedication-apg.md)
 - **Frequency**: once per day

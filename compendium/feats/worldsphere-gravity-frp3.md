@@ -9,7 +9,7 @@ tags:
 aliases: ["Worldsphere Gravity"]
 ---
 # Worldsphere Gravity  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 20*  
-[metamagic](rules/traits/metamagic.md)  [uncommon](rules/traits/uncommon.md)  [wizard](rules/traits/wizard.md)  
+[metamagic](rules/traits/metamagic.md "Metamagic General Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Frequency**: once per hour
 - **Activity** Single Action

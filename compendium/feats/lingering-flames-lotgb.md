@@ -7,7 +7,7 @@ tags:
 aliases: ["Lingering Flames"]
 ---
 # Lingering Flames  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [fireball](compendium/spells/fireball.md)
 

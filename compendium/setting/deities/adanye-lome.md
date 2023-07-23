@@ -15,13 +15,13 @@ tags:
 - trait/reach-15-feet
 aliases: ["Adanye", "The Warmth of the Hearth"]
 ---
-# Adanye (The Warmth of the Hearth) *([LG](rules/traits/lawful-goo-b1.md))*  
+# Adanye (The Warmth of the Hearth) *([LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"))*  
 *Source: Lost Omens: The Mwangi Expanse p. 132*  
 
 - **Category**: Mwangi Gods
 - **Anathema**: force anyone into drudgery or mindless work, deny support to loved ones, surrender when escape is an option, destroy a place that has given you shelter
 - **Areas of Concern**: hearth, , imagination, , protection, , solitude
-- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [LN](rules/traits/lawful-neutral-b1.md), [NG](rules/traits/neutral-good-b1.md), [CG](rules/traits/chaotic-good-b1.md)
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")
 
 ## Devotee benefits
 
@@ -39,6 +39,6 @@ When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Ad
 title: [Avatar](compendium/spells/avatar.md) of Adanye
 
 - **Speed**: Speed 70 feet, climb 70 feet, immune to [immobilized](rules/conditions.md#Immobilized)
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") claw ([agile](rules/traits/agile.md), [finesse](rules/traits/finesse.md), [reach <15 feet>](rules/traits/reach.md)), **Damage** `6d10+6` slashing
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") claw ([agile](rules/traits/agile.md "Agile Weapon Trait"), [finesse](rules/traits/finesse.md "Finesse Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait")), **Damage** `6d10+6` slashing
 - **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") hearth ember **Damage** `4d6+3` fire and `2d6` persistent fire
 ```

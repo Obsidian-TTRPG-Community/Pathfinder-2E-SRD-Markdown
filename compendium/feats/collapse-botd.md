@@ -7,7 +7,7 @@ tags:
 aliases: ["Collapse"]
 ---
 # Collapse  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
-[skeleton](rules/traits/skeleton-b1.md)  
+[skeleton](rules/traits/skeleton-b1.md "Skeleton Ancestry & Heritage Trait")  
 
 - **Frequency**: once per 10 minutes
 - **Trigger** An enemy's [Strike](rules/actions/strike.md) against you is a critical hit.

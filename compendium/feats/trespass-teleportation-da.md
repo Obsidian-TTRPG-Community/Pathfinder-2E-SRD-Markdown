@@ -10,10 +10,10 @@ tags:
 aliases: ["Trespass Teleportation"]
 ---
 # Trespass Teleportation  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 14*  
-[conjuration](rules/traits/conjuration.md)  [occult](rules/traits/occult.md)  [teleportation](rules/traits/teleportation.md)  [thaumaturge](rules/traits/thaumaturge-da.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  [thaumaturge](rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
 
 - **Prerequisites**: [Exploit Vulnerability](rules/actions/exploit-vulnerability-da.md)
-- **Trigger** The target of your [Exploit Vulnerability](rules/actions/exploit-vulnerability-da.md) is within 120 feet and uses a [teleportation](rules/traits/teleportation.md) effect.
+- **Trigger** The target of your [Exploit Vulnerability](rules/actions/exploit-vulnerability-da.md) is within 120 feet and uses a [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait") effect.
 - **Requirements**: You are benefiting from [Exploit Vulnerability](rules/actions/exploit-vulnerability-da.md).
 - **Activity** Reaction
 

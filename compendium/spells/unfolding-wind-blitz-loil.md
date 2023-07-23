@@ -10,7 +10,7 @@ tags:
 aliases: ["Unfolding Wind Blitz"]
 ---
 # Unfolding Wind Blitz *Focus 7*   
-[air](rules/traits/air.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+[air](rules/traits/air.md "Air Energy & Element Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 

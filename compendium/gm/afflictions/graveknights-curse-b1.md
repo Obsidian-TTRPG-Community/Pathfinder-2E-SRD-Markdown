@@ -12,7 +12,7 @@ aliases: ["Graveknight's Curse"]
 ---
 # Graveknight's Curse
 *Curse 1*  
-[arcane](rules/traits/arcane.md)  [curse](rules/traits/curse.md)  [necromancy](rules/traits/necromancy.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [curse](rules/traits/curse.md "Curse Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 This curse affects anyone who wears a graveknight's armor for at least 1 hour.
 

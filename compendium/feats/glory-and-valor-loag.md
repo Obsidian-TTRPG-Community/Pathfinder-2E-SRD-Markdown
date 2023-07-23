@@ -11,7 +11,7 @@ tags:
 aliases: ["Glory And Valor!"]
 ---
 # Glory And Valor!  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 9*  
-[auditory](rules/traits/auditory.md)  [ganzi](rules/traits/ganzi-loag.md)  [healing](rules/traits/healing.md)  [necromancy](rules/traits/necromancy.md)  [primal](rules/traits/primal.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [ganzi](rules/traits/ganzi-loag.md "Ganzi Ancestry & Heritage Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  
 
 - **Frequency**: once per day
 - **Activity** Single Action

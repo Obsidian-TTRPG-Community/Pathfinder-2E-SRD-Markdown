@@ -10,7 +10,7 @@ tags:
 aliases: ["Essence Prism"]
 ---
 # Essence Prism *Item 28*  
-[artifact](rules/traits/artifact-gmg.md)  [transmutation](rules/traits/transmutation.md)  [unique](rules/traits/unique.md)  
+[artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Bulk** 5
 - **Category** Artifact

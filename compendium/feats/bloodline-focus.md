@@ -7,7 +7,7 @@ tags:
 aliases: ["Bloodline Focus"]
 ---
 # Bloodline Focus  *Feat 12*  
-[sorcerer](rules/traits/sorcerer.md)  
+[sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 - **Prerequisites**: bloodline spell
 

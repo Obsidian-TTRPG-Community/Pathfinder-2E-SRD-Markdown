@@ -9,7 +9,7 @@ tags:
 aliases: ["Thurible of Revelation"]
 ---
 # Thurible of Revelation *Item 3+*  
-[divination](rules/traits/divination.md)  [divine](rules/traits/divine.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Held

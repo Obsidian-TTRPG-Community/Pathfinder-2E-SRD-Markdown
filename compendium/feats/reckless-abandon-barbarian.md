@@ -8,7 +8,7 @@ tags:
 aliases: ["Reckless Abandon (Barbarian)"]
 ---
 # Reckless Abandon (Barbarian)  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 16*  
-[barbarian](rules/traits/barbarian.md)  [rage](rules/traits/rage.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [rage](rules/traits/rage.md "Rage Combat Trait")  
 
 - **Trigger** Your turn begins, and you are at half or fewer Hit Points.
 - **Activity** Free Action

@@ -12,7 +12,7 @@ tags:
 aliases: ["Bound Guardian"]
 ---
 # Bound Guardian *Item 9*  
-[conjuration](rules/traits/conjuration.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [tattoo](rules/traits/tattoo-lowg.md)  [uncommon](rules/traits/uncommon.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [tattoo](rules/traits/tattoo-lowg.md "Tattoo Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 675 gp
 - **Usage** tattooed on the body; **Bulk** —
@@ -22,7 +22,7 @@ A bound guardian is a tattoo guardian (Pathfinder Bestiary 3 262) bonded to your
 
 ```ad-embed-ability
 title: Activate [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")
-[conjuration](rules/traits/conjuration.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  
 
 You animate your tattoo guardian, otherwise using the duration and other parameters of a 4th-level [summon construct](compendium/spells/summon-construct.md) spell. You can have the guardian [Fly](rules/actions/fly.md) Free as part of Activating your tattoo.
 

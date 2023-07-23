@@ -9,7 +9,7 @@ tags:
 aliases: ["Demon Mask"]
 ---
 # Demon Mask *Item 4*  
-[enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 85 gp
 - **Usage** worn mask
@@ -19,7 +19,7 @@ This terrifying mask resembles the visage of a leering demon and grants a +1 ite
 
 ```ad-embed-ability
 title: Terrify [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
-[manipulate](rules/traits/manipulate.md)  
+[manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 
 The mask casts a [fear](compendium/spells/fear.md) spell with a DC of 20. You choose the target.  
 %% #trait/manipulate %%

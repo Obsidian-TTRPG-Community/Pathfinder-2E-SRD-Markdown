@@ -7,7 +7,7 @@ tags:
 aliases: ["Adapted Cantrip"]
 ---
 # Adapted Cantrip  *Feat 1*  
-[human](rules/traits/human.md)  
+[human](rules/traits/human.md "Human Ancestry & Heritage Trait")  
 
 - **Prerequisites**: spellcasting class feature
 

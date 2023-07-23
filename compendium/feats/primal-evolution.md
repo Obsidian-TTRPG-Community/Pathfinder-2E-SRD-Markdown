@@ -8,7 +8,7 @@ tags:
 aliases: ["Primal Evolution"]
 ---
 # Primal Evolution  *Feat 4*  
-[primal](rules/traits/primal.md)  [sorcerer](rules/traits/sorcerer.md)  
+[primal](rules/traits/primal.md "Primal Tradition Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 - **Prerequisites**: bloodline that grants primal spells
 

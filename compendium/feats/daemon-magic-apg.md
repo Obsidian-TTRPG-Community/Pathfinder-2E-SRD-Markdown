@@ -7,7 +7,7 @@ tags:
 aliases: ["Daemon Magic"]
 ---
 # Daemon Magic  *Feat 9*  
-[tiefling](rules/traits/tiefling-b1.md)  
+[tiefling](rules/traits/tiefling-b1.md "Tiefling Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Grimspawn](compendium/feats/grimspawn-apg.md)
 

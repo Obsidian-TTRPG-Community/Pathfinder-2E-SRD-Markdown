@@ -8,7 +8,7 @@ tags:
 aliases: ["Hunter's Aim"]
 ---
 # Hunter's Aim  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 2*  
-[concentrate](rules/traits/concentrate.md)  [ranger](rules/traits/ranger.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Activity** Two-Action
 

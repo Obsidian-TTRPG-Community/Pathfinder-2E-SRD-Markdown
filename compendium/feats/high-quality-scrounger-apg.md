@@ -7,7 +7,7 @@ tags:
 aliases: ["High-quality Scrounger"]
 ---
 # High-quality Scrounger  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Scrounger Dedication](compendium/feats/scrounger-dedication-apg.md)
 

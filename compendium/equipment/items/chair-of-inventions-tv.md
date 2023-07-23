@@ -9,7 +9,7 @@ tags:
 aliases: ["Chair of Inventions"]
 ---
 # Chair of Inventions *Item 8*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 875 gp
 - **Bulk** 1

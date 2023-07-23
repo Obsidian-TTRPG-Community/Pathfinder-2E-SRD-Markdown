@@ -11,12 +11,12 @@ tags:
 aliases: ["Deck Of Many Things"]
 ---
 # Deck Of Many Things *Item 22*  
-[artifact](rules/traits/artifact-gmg.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  [transmutation](rules/traits/transmutation.md)  
+[artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Usage** held in 1 hand
 - **Category** Artifact
 
-These 22 cards of heavy vellum, usually stored in a box or a pouch, bear images or glyphs depicting symbols of magical power. Looking at a card without activating it shows the card face but has no [magical](rules/traits/magical.md) effect. Once the deck is face down, the cards randomize themselves—if you look at the top card multiple times, you may find it changes. Any card removed from the deck goes missing after a few seconds, reappearing in the deck. Advice on randomly selecting cards appears on page 108.
+These 22 cards of heavy vellum, usually stored in a box or a pouch, bear images or glyphs depicting symbols of magical power. Looking at a card without activating it shows the card face but has no [magical](rules/traits/magical.md "Magical Item Trait") effect. Once the deck is face down, the cards randomize themselves—if you look at the top card multiple times, you may find it changes. Any card removed from the deck goes missing after a few seconds, reappearing in the deck. Advice on randomly selecting cards appears on page 108.
 
 ```ad-embed-ability
 title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
@@ -29,7 +29,7 @@ Once a card is drawn, it produces its effect immediately and then disappears bac
 - **Comet** If you alone defeat the next low-threat or harder [hostile](rules/conditions.md#Hostile) enemy or enemies you encounter, you gain enough XP to reach the next level. Otherwise, you gain no benefit.
 - **Donjon** You're imprisoned by a 10th-level imprisonment ritual. This uses the prison option, typically sequestering you in a distant part of the world. You also lose all your items. Cease drawing cards.
 - **Dullard** Immediately reduce your Intelligence score by `1d4+1`. You can then draw an additional card, and the Dullard card then disappears forever.
-- **Euryale** ([curse](rules/traits/curse.md)) A medusa's image curses you with a permanent –1 status penalty to all saving throws. This can be removed by only a deity or the Fates card.
+- **Euryale** ([curse](rules/traits/curse.md "Curse Effect Trait")) A medusa's image curses you with a permanent –1 status penalty to all saving throws. This can be removed by only a deity or the Fates card.
 - **The Fates** The Fates respin the fabric of reality to save you from any situation you choose. This can reverse even a past event, and you can make the decision instantly even if the event would slay you. This intervention saves only you, not anyone else affected by the event. There's no limit on how long you can wait before using this effect.
 - **Flames** A fiend becomes filled with anger, jealousy, envy, or some other reason to despise you. Its hatred for you doesn't cease until either it or you is dead. It attacks you or otherwise attempts to foil you within `1d20` days. The GM determines the specifics of the fiend.
 - **Fool** You lose `1d10`×100 XP unless you choose to draw two more cards.

@@ -10,12 +10,12 @@ tags:
 - domain/repose/deity
 aliases: ["Lady Jingxi", "The Poet of Dawn and Dusk"]
 ---
-# Lady Jingxi (The Poet of Dawn and Dusk) *([NG](rules/traits/neutral-good-b1.md))*  
+# Lady Jingxi (The Poet of Dawn and Dusk) *([NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 132*  
 
 - **Category**: Tian Gods
 - **Anathema**: destroy a natural plum tree, drink excessive amounts of alcohol, act rude or boorish
-- **Follower Alignments**: [NG](rules/traits/neutral-good-b1.md), [N](rules/traits/neutral-b1.md)
+- **Follower Alignments**: [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait")
 
 ## Devotee benefits
 

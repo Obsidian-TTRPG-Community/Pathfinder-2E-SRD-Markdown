@@ -7,7 +7,7 @@ tags:
 aliases: ["Finned Ridges"]
 ---
 # Finned Ridges  *Feat 5*  
-[fleshwarp](rules/traits/fleshwarp-loag.md)  
+[fleshwarp](rules/traits/fleshwarp-loag.md "Fleshwarp Ancestry & Heritage Trait")  
 
 
 The ridges and flaps of your skin steer you through the water. You gain a swim Speed of 15 feet.

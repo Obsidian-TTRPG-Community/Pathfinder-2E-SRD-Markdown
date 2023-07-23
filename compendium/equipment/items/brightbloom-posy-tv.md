@@ -11,7 +11,7 @@ tags:
 aliases: ["Brightbloom Posy"]
 ---
 # Brightbloom Posy *Item 8+*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [plant](rules/traits/plant.md)  [spellheart](rules/traits/spellheart-som.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  [spellheart](rules/traits/spellheart-som.md "Spellheart Equipment Trait")  
 
 - **Usage** affixed to armor or a weapon; **Bulk** —
 - **Category** Spellheart

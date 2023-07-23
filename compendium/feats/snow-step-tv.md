@@ -7,7 +7,7 @@ tags:
 aliases: ["Snow Step"]
 ---
 # Snow Step  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 
 Snow and ice are no hindrance to you. You ignore difficult terrain caused by snow and ice, treat greater difficult terrain created by snow and ice as difficult terrain, and leave no tracks when moving through areas of snow or ice.

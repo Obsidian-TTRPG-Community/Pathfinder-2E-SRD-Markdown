@@ -8,7 +8,7 @@ tags:
 aliases: ["Archaeologist Dedication"]
 ---
 # Archaeologist Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: trained in [Perception](compendium/skills.md#Perception), [Society](compendium/skills.md#Society), and [Thievery](compendium/skills.md#Thievery)
 

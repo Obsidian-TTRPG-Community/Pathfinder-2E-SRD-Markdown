@@ -7,7 +7,7 @@ tags:
 aliases: ["Soaring Shape"]
 ---
 # Soaring Shape  *Feat 8*  
-[druid](rules/traits/druid.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  
 
 - **Prerequisites**: [Wild Shape](compendium/feats/wild-shape.md)
 

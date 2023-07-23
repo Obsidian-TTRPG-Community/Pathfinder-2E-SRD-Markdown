@@ -9,7 +9,7 @@ tags:
 aliases: ["Fading"]
 ---
 # Fading  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
-[archetype](rules/traits/archetype.md)  [rare](rules/traits/rare.md)  [teleportation](rules/traits/teleportation.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  
 
 - **Prerequisites**: [Crimson Shroud](compendium/feats/crimson-shroud-lowg.md)
 - **Frequency**: once per Crimson Shroud

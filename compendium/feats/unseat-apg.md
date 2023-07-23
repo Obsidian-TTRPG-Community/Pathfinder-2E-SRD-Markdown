@@ -7,7 +7,7 @@ tags:
 aliases: ["Unseat"]
 ---
 # Unseat  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Cavalier Dedication](compendium/feats/cavalier-dedication-apg.md)
 - **Requirements**: You are riding your mount and wielding a jousting weapon.

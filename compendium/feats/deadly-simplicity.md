@@ -7,7 +7,7 @@ tags:
 aliases: ["Deadly Simplicity"]
 ---
 # Deadly Simplicity  *Feat 1*  
-[cleric](rules/traits/cleric.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  
 
 - **Prerequisites**: deity with a simple or unarmed attack favored weapon, trained with your deity's favored weapon
 

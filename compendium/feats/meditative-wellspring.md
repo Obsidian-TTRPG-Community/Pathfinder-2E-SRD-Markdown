@@ -7,7 +7,7 @@ tags:
 aliases: ["Meditative Wellspring"]
 ---
 # Meditative Wellspring  *Feat 18*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Prerequisites**: [Meditative Focus](compendium/feats/meditative-focus.md)
 

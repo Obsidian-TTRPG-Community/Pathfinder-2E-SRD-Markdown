@@ -15,7 +15,7 @@ Most cultures revere the bodies of the deceased, laying to rest the mortal remai
 title: Reanimator Dedication, Feat 2
 collapse: closed
 # Reanimator Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: able to cast [animate dead](compendium/spells/animate-dead-apg.md) with a spell slot
 
@@ -31,7 +31,7 @@ You have dedicated your studies to the art of raising and commanding undead. If 
 title: Undying Conviction, Feat 4*
 collapse: closed
 # Undying Conviction  *Feat 4*  
-[aura](rules/traits/aura.md)  [cleric](rules/traits/cleric.md)  [necromancy](rules/traits/necromancy.md)  [oracle](rules/traits/oracle-apg.md)  [uncommon](rules/traits/uncommon.md)  [wizard](rules/traits/wizard.md)  
+[aura](rules/traits/aura.md "Aura Combat Trait")  [cleric](rules/traits/cleric.md "Cleric Class Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 > [!pf2-note] This version of [Undying Conviction](compendium/feats/undying-conviction-botd.md) is intended for use with the Reanimator Archetype. Its level has been changed accordingly.
 
@@ -42,14 +42,14 @@ Your presence has a bolstering effect on your undead minions. Undead creatures u
 **Special.** This feat has the trait matching your spellcasting tradition.
 
 *Source: Book of the Dead p. 33*  
-%% #trait/uncommon #trait/aura #trait/cleric #trait/necromancy #trait/oracle #trait/wizard %%
+%% #trait/aura #trait/cleric #trait/necromancy #trait/oracle #trait/uncommon #trait/wizard %%
 ```  
 
 ```ad-embed-feat
 title: Deathly Secrets, Feat 6
 collapse: closed
 # Deathly Secrets  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Reanimator Dedication](compendium/feats/reanimator-dedication-botd.md)
 
@@ -65,7 +65,7 @@ No means of creating or ruling the undead is beyond your grasp, even those of ma
 title: Macabre Virtuoso, Feat 6
 collapse: closed
 # Macabre Virtuoso  *Feat 6*  
-[archetype](rules/traits/archetype.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Reanimator Dedication](compendium/feats/reanimator-dedication-botd.md); expert in [Arcana](compendium/skills.md#Arcana), [Occultism](compendium/skills.md#Occultism), or [Religion](compendium/skills.md#Religion)
 
@@ -76,14 +76,14 @@ When acting as primary caster, you can perform all [create undead](compendium/sp
 **Special.** You can select this feat more than once. Each time, you learn the rituals to create two more types of undead creatures.
 
 *Source: Book of the Dead p. 34*  
-%% #trait/uncommon #trait/archetype %%
+%% #trait/archetype #trait/uncommon %%
 ```  
 
 ```ad-embed-feat
 title: Bonds of Death, Feat 8
 collapse: closed
 # Bonds of Death  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Reanimator Dedication](compendium/feats/reanimator-dedication-botd.md)
 - **Frequency**: once per day
@@ -100,7 +100,7 @@ You sway with the motions of your spells that animate the dead, channeling your 
 title: Greater Deathly Secrets, Feat 10
 collapse: closed
 # Greater Deathly Secrets  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Deathly Secrets](compendium/feats/deathly-secrets-botd.md)
 
@@ -116,7 +116,7 @@ Your undead secrets grow stronger still. You learn either the [malignant sustena
 title: Master of the Dead, Feat 12*
 collapse: closed
 # Master of the Dead  *Feat 12*  
-[archetype](rules/traits/archetype.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 > [!pf2-note] This version of [Master of the Dead](compendium/feats/master-of-the-dead-botd.md) is intended for use with the Reanimator Archetype. Its level has been changed accordingly.
 
@@ -125,14 +125,14 @@ collapse: closed
 You have reached the pinnacle of the reanimator's craft: the ability to raise nearly any corpse or skeleton as a gruesome mockery of the creature it once was. You learn the [shambling horror](compendium/spells/shambling-horror-botd.md) focus spell. Your focus pool increases by 1 Focus Point.
 
 *Source: Book of the Dead p. 35*  
-%% #trait/uncommon #trait/archetype %%
+%% #trait/archetype #trait/uncommon %%
 ```  
 
 ```ad-embed-feat
 title: Necromancer's Visage, Feat 12*
 collapse: closed
 # Necromancer's Visage  *Feat 12*  
-[cleric](rules/traits/cleric.md)  [necromancy](rules/traits/necromancy.md)  [oracle](rules/traits/oracle-apg.md)  [uncommon](rules/traits/uncommon.md)  [wizard](rules/traits/wizard.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 > [!pf2-note] This version of [Necromancer's Visage](compendium/feats/necromancers-visage-botd.md) is intended for use with the Reanimator Archetype. Its level has been changed accordingly.
 
@@ -151,14 +151,14 @@ Each time an undead creature 2 or more levels lower than you attacks you, it mus
 **Special.** This feat has the trait matching your spellcasting tradition.
 
 *Source: Book of the Dead p. 33*  
-%% #trait/uncommon #trait/cleric #trait/necromancy #trait/oracle #trait/wizard %%
+%% #trait/cleric #trait/necromancy #trait/oracle #trait/uncommon #trait/wizard %%
 ```  
 
 ```ad-embed-feat
 title: Sepulchral Sublimation, Feat 14*
 collapse: closed
 # Sepulchral Sublimation  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 14*  
-[cleric](rules/traits/cleric.md)  [concentrate](rules/traits/concentrate.md)  [metamagic](rules/traits/metamagic.md)  [necromancy](rules/traits/necromancy.md)  [oracle](rules/traits/oracle-apg.md)  [uncommon](rules/traits/uncommon.md)  [wizard](rules/traits/wizard.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 > [!pf2-note] This version of [Sepulchral Sublimation](compendium/feats/sepulchral-sublimation-botd.md) is intended for use with the Reanimator Archetype. Its level has been changed accordingly.
 
@@ -171,5 +171,5 @@ You repurpose the negative energy that flows through your minions at a moment's 
 **Special.** This feat has the trait matching your spellcasting tradition.
 
 *Source: Book of the Dead p. 33*  
-%% #trait/uncommon #trait/cleric #trait/concentrate #trait/metamagic #trait/necromancy #trait/oracle #trait/wizard %%
+%% #trait/cleric #trait/concentrate #trait/metamagic #trait/necromancy #trait/oracle #trait/uncommon #trait/wizard %%
 ```

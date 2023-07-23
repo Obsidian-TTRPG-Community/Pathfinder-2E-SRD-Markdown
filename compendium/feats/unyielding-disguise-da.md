@@ -8,7 +8,7 @@ tags:
 aliases: ["Unyielding Disguise"]
 ---
 # Unyielding Disguise  *Feat 9*  
-[reflection](rules/traits/reflection-da.md)  [transmutation](rules/traits/transmutation.md)  
+[reflection](rules/traits/reflection-da.md "Reflection Ancestry & Heritage Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Prerequisites**: ability to cast [humanoid form](compendium/spells/humanoid-form.md) or [illusory disguise](compendium/spells/illusory-disguise.md)
 

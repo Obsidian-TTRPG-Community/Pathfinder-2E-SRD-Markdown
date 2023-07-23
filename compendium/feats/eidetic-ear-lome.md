@@ -7,7 +7,7 @@ tags:
 aliases: ["Eidetic Ear"]
 ---
 # Eidetic Ear  *Feat 1*  
-[shisk](rules/traits/shisk-lome.md)  
+[shisk](rules/traits/shisk-lome.md "Shisk Ancestry & Heritage Trait")  
 
 
 You have an amazing memory for sound. You gain the Assurance ([Performance](compendium/skills.md#Performance)) feat.

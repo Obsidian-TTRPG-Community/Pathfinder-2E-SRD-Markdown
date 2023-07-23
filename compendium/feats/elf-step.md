@@ -7,7 +7,7 @@ tags:
 aliases: ["Elf Step"]
 ---
 # Elf Step  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 9*  
-[elf](rules/traits/elf.md)  
+[elf](rules/traits/elf.md "Elf Ancestry & Heritage Trait")  
 
 - **Activity** Single Action
 

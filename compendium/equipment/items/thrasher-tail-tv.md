@@ -11,7 +11,7 @@ tags:
 aliases: ["Thrasher Tail"]
 ---
 # Thrasher Tail *Item 9*  
-[kobold](rules/traits/kobold-b1.md)  [mechanical](rules/traits/mechanical.md)  [rare](rules/traits/rare.md)  clockwork  
+[kobold](rules/traits/kobold-b1.md "Kobold Ancestry & Heritage Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  clockwork  
 
 - **Price** 620 gp
 - **Usage** worn; **Bulk** 1

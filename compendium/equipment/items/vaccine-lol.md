@@ -10,7 +10,7 @@ tags:
 aliases: ["Vaccine"]
 ---
 # Vaccine *Item 1+*  
-[consumable](rules/traits/consumable.md)  [elixir](rules/traits/elixir.md)  [rare](rules/traits/rare.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [elixir](rules/traits/elixir.md "Elixir Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md)

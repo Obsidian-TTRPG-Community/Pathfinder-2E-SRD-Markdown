@@ -11,7 +11,7 @@ tags:
 aliases: ["Warding Statuette"]
 ---
 # Warding Statuette *Item 7+*  
-[abjuration](rules/traits/abjuration.md)  [force](rules/traits/force.md)  [magical](rules/traits/magical.md)  [spellheart](rules/traits/spellheart-som.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [spellheart](rules/traits/spellheart-som.md "Spellheart Equipment Trait")  
 
 - **Usage** affixed to armor or a weapon; **Bulk** —
 - **Category** Spellheart

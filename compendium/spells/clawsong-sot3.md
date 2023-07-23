@@ -9,9 +9,9 @@ tags:
 aliases: ["Clawsong"]
 ---
 # Clawsong *Spell 2*   
-[transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+[transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md), [primal](rules/traits/primal.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot
 - **Targets**1 willing creature with an unarmed claw [Strike](rules/actions/strike.md)

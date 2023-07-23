@@ -8,7 +8,7 @@ tags:
 aliases: ["Focused Shot"]
 ---
 # Focused Shot  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 12*  
-[concentrate](rules/traits/concentrate.md)  [monk](rules/traits/monk.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Prerequisites**: [Monastic Archer Stance](compendium/feats/monastic-archer-stance-apg.md)
 - **Requirements**: You are in [Monastic Archer Stance](compendium/feats/monastic-archer-stance-apg.md).

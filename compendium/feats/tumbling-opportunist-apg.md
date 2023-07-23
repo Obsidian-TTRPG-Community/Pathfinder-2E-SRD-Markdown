@@ -8,7 +8,7 @@ tags:
 aliases: ["Tumbling Opportunist"]
 ---
 # Tumbling Opportunist  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 10*  
-[archetype](rules/traits/archetype.md)  [attack](rules/traits/attack.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [attack](rules/traits/attack.md "Attack Combat Trait")  
 
 - **Prerequisites**: [Acrobat Dedication](compendium/feats/acrobat-dedication-apg.md)
 - **Frequency**: once per minute

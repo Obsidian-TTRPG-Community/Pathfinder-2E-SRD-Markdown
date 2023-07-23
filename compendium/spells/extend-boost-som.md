@@ -11,7 +11,7 @@ tags:
 aliases: ["Extend Boost"]
 ---
 # Extend Boost *Focus 1*   
-[divination](rules/traits/divination.md)  [metamagic](rules/traits/metamagic.md)  [summoner](rules/traits/summoner-som.md)  [uncommon](rules/traits/uncommon.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  [summoner](rules/traits/summoner-som.md "Summoner Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") 
 

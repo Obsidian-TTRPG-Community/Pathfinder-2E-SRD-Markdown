@@ -11,7 +11,7 @@ tags:
 aliases: ["Sarkorian God-caller Garb"]
 ---
 # Sarkorian God-caller Garb *Item 6*  
-[conjuration](rules/traits/conjuration.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 250 gp
 - **Usage** worn armor; **Bulk** L

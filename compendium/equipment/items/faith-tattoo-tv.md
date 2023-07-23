@@ -10,7 +10,7 @@ tags:
 aliases: ["Faith Tattoo"]
 ---
 # Faith Tattoo *Item 4+*  
-[divine](rules/traits/divine.md)  [invested](rules/traits/invested.md)  [tattoo](rules/traits/tattoo-lowg.md)  
+[divine](rules/traits/divine.md "Divine Tradition Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [tattoo](rules/traits/tattoo-lowg.md "Tattoo Item Trait")  
 
 - **Usage** tattooed on the body; **Bulk** —
 - **Category** Tattoo

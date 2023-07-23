@@ -11,7 +11,7 @@ tags:
 aliases: ["Necromancer's Visage"]
 ---
 # Necromancer's Visage  *Feat 12*  
-[cleric](rules/traits/cleric.md)  [necromancy](rules/traits/necromancy.md)  [oracle](rules/traits/oracle-apg.md)  [uncommon](rules/traits/uncommon.md)  [wizard](rules/traits/wizard.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Prerequisites**: able to create or control undead; cleric with a negative font, oracle of bones, or necromancer wizard
 

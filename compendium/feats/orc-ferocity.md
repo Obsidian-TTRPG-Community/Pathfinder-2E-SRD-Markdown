@@ -7,7 +7,7 @@ tags:
 aliases: ["Orc Ferocity"]
 ---
 # Orc Ferocity  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
-[orc](rules/traits/orc.md)  
+[orc](rules/traits/orc.md "Orc Ancestry & Heritage Trait")  
 
 - **Frequency**: once per day
 - **Trigger** You would be reduced to 0 Hit Points but not immediately killed.

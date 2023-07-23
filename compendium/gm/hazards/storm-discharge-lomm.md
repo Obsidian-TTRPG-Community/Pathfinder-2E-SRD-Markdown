@@ -12,7 +12,7 @@ tags:
 aliases: ["Storm Discharge"]
 ---
 # Storm Discharge *Hazard 18*  
-[divine](rules/traits/divine.md)  [electricity](rules/traits/electricity.md)  [environmental](rules/traits/environmental.md)  [evocation](rules/traits/evocation.md)  [kaiju](rules/traits/kaiju-frp2.md)  [rare](rules/traits/rare.md)  
+[divine](rules/traits/divine.md "Divine Tradition Trait")  [electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [kaiju](rules/traits/kaiju-frp2.md "Kaiju  Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 10  

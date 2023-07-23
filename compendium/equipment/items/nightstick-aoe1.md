@@ -12,7 +12,7 @@ tags:
 aliases: ["Nightstick"]
 ---
 # Nightstick *Item 0*  
-[agile](rules/traits/agile.md)  [finesse](rules/traits/finesse.md)  [nonlethal](rules/traits/nonlethal.md)  [parry](rules/traits/parry.md)  [uncommon](rules/traits/uncommon.md)  
+[agile](rules/traits/agile.md "Agile Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait")  [parry](rules/traits/parry.md "Parry Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1 gp
 - **Bulk** L

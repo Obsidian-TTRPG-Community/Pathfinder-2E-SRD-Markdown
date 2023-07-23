@@ -8,7 +8,7 @@ tags:
 aliases: ["Traitor's Ring"]
 ---
 # Traitor's Ring *Item 0*  
-[uncommon](rules/traits/uncommon.md)  
+[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** Member of a secret society
 - **Price** 15 sp

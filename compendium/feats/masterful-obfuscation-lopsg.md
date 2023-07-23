@@ -8,7 +8,7 @@ tags:
 aliases: ["Masterful Obfuscation"]
 ---
 # Masterful Obfuscation  *Feat 10*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: master in a skill with the [Recall Knowledge](rules/actions/recall-knowledge.md) action, [Scrollmaster Dedication](compendium/feats/scrollmaster-dedication-locg.md)
 

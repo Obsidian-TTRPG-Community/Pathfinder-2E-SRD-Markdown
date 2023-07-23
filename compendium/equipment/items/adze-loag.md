@@ -10,7 +10,7 @@ tags:
 aliases: ["Adze"]
 ---
 # Adze *Item 0*  
-[forceful](rules/traits/forceful.md)  [grippli](rules/traits/grippli-b2.md)  [sweep](rules/traits/sweep.md)  
+[forceful](rules/traits/forceful.md "Forceful Weapon Trait")  [grippli](rules/traits/grippli-b2.md "Grippli Ancestry & Heritage Trait")  [sweep](rules/traits/sweep.md "Sweep Weapon Trait")  
 
 - **Price** 1 gp
 - **Bulk** 2

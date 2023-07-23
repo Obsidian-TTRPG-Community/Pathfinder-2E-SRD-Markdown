@@ -8,7 +8,7 @@ tags:
 aliases: ["Black Powder Flash"]
 ---
 # Black Powder Flash  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 10*  
-[archetype](rules/traits/archetype.md)  [visual](rules/traits/visual.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Prerequisites**: [Powder Punch Stance](compendium/feats/powder-punch-stance-ooa1.md)
 - **Requirements**: You're in [Powder Punch Stance](compendium/feats/powder-punch-stance-ooa1.md).

@@ -8,7 +8,7 @@ tags:
 aliases: ["Deny Support"]
 ---
 # Deny Support  *Feat 10*  
-[rogue](rules/traits/rogue.md)  [uncommon](rules/traits/uncommon.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: Help either the Washboard Dogs or the Diobel Sweepers destroy their rival
 

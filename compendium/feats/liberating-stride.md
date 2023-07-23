@@ -7,7 +7,7 @@ tags:
 aliases: ["Liberating Stride"]
 ---
 # Liberating Stride  *Feat 12*  
-[champion](rules/traits/champion.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  
 
 - **Prerequisites**: Liberator cause
 

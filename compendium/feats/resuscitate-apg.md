@@ -9,7 +9,7 @@ tags:
 aliases: ["Resuscitate"]
 ---
 # Resuscitate  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 16*  
-[archetype](rules/traits/archetype.md)  [healing](rules/traits/healing.md)  [manipulate](rules/traits/manipulate.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 
 - **Prerequisites**: [Medic Dedication](compendium/feats/medic-dedication-apg.md), legendary in [Medicine](compendium/skills.md#Medicine)
 - **Requirements**: You are holding healer's tools or are wearing them and have a hand free.

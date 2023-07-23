@@ -7,7 +7,7 @@ tags:
 aliases: ["Dispelling Slice"]
 ---
 # Dispelling Slice  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 16*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Activity** Two-Action
 

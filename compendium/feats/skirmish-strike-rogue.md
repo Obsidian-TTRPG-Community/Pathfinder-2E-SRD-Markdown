@@ -8,7 +8,7 @@ tags:
 aliases: ["Skirmish Strike (Rogue)"]
 ---
 # Skirmish Strike (Rogue)  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[flourish](rules/traits/flourish.md)  [rogue](rules/traits/rogue.md)  
+[flourish](rules/traits/flourish.md "Flourish Combat Trait")  [rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Activity** Single Action
 

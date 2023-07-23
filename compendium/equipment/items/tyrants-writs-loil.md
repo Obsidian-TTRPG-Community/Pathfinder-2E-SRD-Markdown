@@ -11,7 +11,7 @@ tags:
 aliases: ["Tyrant's Writs"]
 ---
 # Tyrant's Writs *Item 8*  
-[grimoire](rules/traits/grimoire-som.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [uncommon](rules/traits/uncommon.md)  
+[grimoire](rules/traits/grimoire-som.md "Grimoire Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 500 gp
 - **Bulk** L
@@ -21,7 +21,7 @@ A spirited debate persists among scholars on whether the eponymous tyrant of thi
 
 ```ad-embed-ability
 title: Activate [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
-[metamagic](rules/traits/metamagic.md)  
+[metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 If your next action is to [Cast a Spell](rules/actions/cast-a-spell.md) to cast an [animate dead](compendium/spells/animate-dead-apg.md) spell prepared with tyrant's writs, you can choose one of the following additional benefits to grant the summoned undead.
 

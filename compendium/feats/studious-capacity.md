@@ -7,7 +7,7 @@ tags:
 aliases: ["Studious Capacity"]
 ---
 # Studious Capacity  *Feat 16*  
-[bard](rules/traits/bard.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  
 
 - **Prerequisites**: Enigma muse, legendary in [Occultism](compendium/skills.md#Occultism)
 

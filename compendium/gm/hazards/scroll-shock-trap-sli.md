@@ -9,7 +9,7 @@ tags:
 aliases: ["Scroll Shock Trap"]
 ---
 # Scroll Shock Trap *Hazard 9*  
-[complex](rules/traits/complex.md)  [mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +17 expert or DC 29 (expert) to spot the hidden control panel  
@@ -26,7 +26,7 @@ Five scroll symbols shoot electricity bolts around the room.
      
 ```ad-embed-ability
 title: Reactive Charge [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[arcane](rules/traits/arcane.md)  [evocation](rules/traits/evocation.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
 - **Trigger**: A creature without an Aspis Consortium badge approaches within 5 feet of a slab
 

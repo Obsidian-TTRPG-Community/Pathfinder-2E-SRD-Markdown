@@ -8,7 +8,7 @@ tags:
 aliases: ["Reloading Trick"]
 ---
 # Reloading Trick  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  [manipulate](rules/traits/manipulate.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 
 - **Prerequisites**: [Drow Shootist Dedication](compendium/feats/drow-shootist-dedication-av3.md)
 - **Frequency**: once per round

@@ -7,11 +7,11 @@ tags:
 aliases: ["Out of Hand"]
 ---
 # Out of Hand  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Zombie Dedication](compendium/feats/zombie-dedication-botd.md)
 
-Even when your limbs are severed, they remain a part of you. When an arm is severed from your body, it gains the [minion](rules/traits/minion.md) trait. While severed, your limb has the statistics of a familiar (Core Rulebook 217–218) without any familiar or master abilities, except its Speed is 5 feet, it can't move further than 100 feet from you, it can [Interact](rules/actions/interact.md) with things, and it can still make any unarmed [Strikes](rules/actions/strike.md) it could have made while attached to you (usually a fist [Strike](rules/actions/strike.md)). Any [Strikes](rules/actions/strike.md) it makes share your multiple attack penalty and use your attack bonus and damage. If your arm is reduced to 0 HP or is ever more than 100 feet from you, it becomes inert until reattached. The GM might allow you to detach other limbs that have unarmed attacks using the below action (for example, if you're a tiefling with [Form of the Fiend](compendium/feats/form-of-the-fiend-apg.md), giving you a tail unarmed attack). You gain the Lay Down Arms action.
+Even when your limbs are severed, they remain a part of you. When an arm is severed from your body, it gains the [minion](rules/traits/minion.md "Minion Creature Trait") trait. While severed, your limb has the statistics of a familiar (Core Rulebook 217–218) without any familiar or master abilities, except its Speed is 5 feet, it can't move further than 100 feet from you, it can [Interact](rules/actions/interact.md) with things, and it can still make any unarmed [Strikes](rules/actions/strike.md) it could have made while attached to you (usually a fist [Strike](rules/actions/strike.md)). Any [Strikes](rules/actions/strike.md) it makes share your multiple attack penalty and use your attack bonus and damage. If your arm is reduced to 0 HP or is ever more than 100 feet from you, it becomes inert until reattached. The GM might allow you to detach other limbs that have unarmed attacks using the below action (for example, if you're a tiefling with [Form of the Fiend](compendium/feats/form-of-the-fiend-apg.md), giving you a tail unarmed attack). You gain the Lay Down Arms action.
 
 ```ad-embed-ability
 title: Lay Down Arms [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")

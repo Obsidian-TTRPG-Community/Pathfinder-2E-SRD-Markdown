@@ -7,7 +7,7 @@ tags:
 aliases: ["Fused Polearm"]
 ---
 # Fused Polearm  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Runelord Dedication](compendium/feats/runelord-dedication-som.md)
 - **Requirements**: Your arcane bonded item is a polearm.

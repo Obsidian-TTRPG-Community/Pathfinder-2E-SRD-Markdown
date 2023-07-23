@@ -7,7 +7,7 @@ tags:
 aliases: ["Specialized Companion (Ranger)"]
 ---
 # Specialized Companion (Ranger)  *Feat 16*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: [Incredible Companion](compendium/feats/incredible-companion-ranger.md)
 

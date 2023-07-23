@@ -8,7 +8,7 @@ tags:
 aliases: ["Stonescale Spirits"]
 ---
 # Stonescale Spirits *Hazard 2*  
-[complex](rules/traits/complex.md)  [haunt](rules/traits/haunt.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +11 trained  
@@ -19,7 +19,7 @@ A half-dozen ghostly kobolds rise from the rubble in a howling vortex.
      
 ```ad-embed-ability
 title: Confusing Confrontation [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[emotion](rules/traits/emotion.md)  [enchantment](rules/traits/enchantment.md)  [fear](rules/traits/fear.md)  [mental](rules/traits/mental.md)  
+[emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 - **Trigger**: A creature enters a square either fully or partially filled with rubble in the middle of the room
 

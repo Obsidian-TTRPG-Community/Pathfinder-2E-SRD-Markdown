@@ -7,7 +7,7 @@ tags:
 aliases: ["Disarming Flair"]
 ---
 # Disarming Flair  *Feat 1*  
-[swashbuckler](rules/traits/swashbuckler-apg.md)  
+[swashbuckler](rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  
 
 
 It's harder for your foes to regain their grip when you knock their weapon partially out of their hands. When you succeed at an [Athletics](compendium/skills.md#Athletics) check to [Disarm](rules/actions/disarm.md), the circumstance bonus and penalty from [Disarm](rules/actions/disarm.md) last until the end of your next turn, instead of until the beginning of the target's next turn. The target can use an [Interact](rules/actions/interact.md) action to adjust their grip and remove this effect.

@@ -10,7 +10,7 @@ tags:
 aliases: ["Impactful"]
 ---
 # Impactful *Item 10+*  
-[evocation](rules/traits/evocation.md)  [force](rules/traits/force.md)  [magical](rules/traits/magical.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Usage** etched onto a weapon
 - **Category** Rune

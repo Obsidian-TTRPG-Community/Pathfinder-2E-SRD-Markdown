@@ -7,7 +7,7 @@ tags:
 aliases: ["Skill Mastery"]
 ---
 # Skill Mastery  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Investigator Dedication](compendium/feats/investigator-dedication-apg.md), trained in at least one skill and expert in at least one skill
 

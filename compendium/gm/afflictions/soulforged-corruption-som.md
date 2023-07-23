@@ -12,7 +12,7 @@ aliases: ["Soulforged Corruption"]
 ---
 # Soulforged Corruption
 *Curse 1*  
-[curse](rules/traits/curse.md)  [divine](rules/traits/divine.md)  [enchantment](rules/traits/enchantment.md)  
+[curse](rules/traits/curse.md "Curse Effect Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  
 
 A successful [remove curse](compendium/spells/remove-curse.md) spell, rather than ending this curse, reduces its stage by 1 (to a minimum of stage 1).
 

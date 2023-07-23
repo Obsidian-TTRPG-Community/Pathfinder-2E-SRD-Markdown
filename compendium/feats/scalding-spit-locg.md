@@ -7,7 +7,7 @@ tags:
 aliases: ["Scalding Spit"]
 ---
 # Scalding Spit  *Feat 9*  
-[goblin](rules/traits/goblin.md)  
+[goblin](rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Torch Goblin](compendium/feats/torch-goblin-locg.md)
 

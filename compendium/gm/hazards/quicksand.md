@@ -8,7 +8,7 @@ tags:
 aliases: ["Quicksand"]
 ---
 # Quicksand *Hazard 3*  
-[complex](rules/traits/complex.md)  [environmental](rules/traits/environmental.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +12 trained (or –10 and no minimum proficiency if the surface is disturbed)  

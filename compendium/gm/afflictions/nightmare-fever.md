@@ -12,7 +12,7 @@ aliases: ["Nightmare Fever"]
 ---
 # Nightmare Fever
 *Disease 8*  
-[disease](rules/traits/disease.md)  [necromancy](rules/traits/necromancy.md)  [occult](rules/traits/occult.md)  
+[disease](rules/traits/disease.md "Disease Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 Thought to be caused by a night hag's curse, nightmare fever inflicts you with terrible nightmares, and you awaken with the wounds you received in your dreams. Some versions cause you to dream of being wounded by bludgeoning or piercing weapons, in which case you take that type of damage instead. Damage and the fatigued condition caused by the disease can't be healed until the disease is removed.
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Legendary Rider"]
 ---
 # Legendary Rider  *Feat 20*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Cavalier Dedication](compendium/feats/cavalier-dedication-apg.md)
 

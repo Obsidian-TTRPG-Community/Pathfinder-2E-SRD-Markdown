@@ -11,9 +11,9 @@ tags:
 aliases: ["Power Word Blind"]
 ---
 # Power Word Blind *Spell 7*   
-[auditory](rules/traits/auditory.md)  [enchantment](rules/traits/enchantment.md)  [mental](rules/traits/mental.md)  [uncommon](rules/traits/uncommon.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait")
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**30 foot
 - **Targets**1 creature

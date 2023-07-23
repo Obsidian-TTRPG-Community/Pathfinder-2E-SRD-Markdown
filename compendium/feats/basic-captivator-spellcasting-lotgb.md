@@ -7,7 +7,7 @@ tags:
 aliases: ["Basic Captivator Spellcasting"]
 ---
 # Basic Captivator Spellcasting  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Captivator Dedication](compendium/feats/captivator-dedication-lotgb.md)
 

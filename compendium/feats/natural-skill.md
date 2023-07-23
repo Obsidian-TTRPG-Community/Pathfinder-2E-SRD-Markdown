@@ -7,7 +7,7 @@ tags:
 aliases: ["Natural Skill"]
 ---
 # Natural Skill  *Feat 1*  
-[human](rules/traits/human.md)  
+[human](rules/traits/human.md "Human Ancestry & Heritage Trait")  
 
 
 Your ingenuity allows you to learn a wide variety of skills. You gain the trained proficiency rank in two skills of your choice.

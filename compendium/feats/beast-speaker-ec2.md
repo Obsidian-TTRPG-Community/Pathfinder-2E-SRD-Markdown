@@ -8,7 +8,7 @@ tags:
 aliases: ["Beast Speaker"]
 ---
 # Beast Speaker  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Animal Trainer Dedication](compendium/feats/animal-trainer-dedication-ec2.md)
 

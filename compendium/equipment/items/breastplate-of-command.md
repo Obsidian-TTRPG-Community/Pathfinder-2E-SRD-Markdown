@@ -10,7 +10,7 @@ tags:
 aliases: ["Breastplate of Command"]
 ---
 # Breastplate of Command *Item 10+*  
-[enchantment](rules/traits/enchantment.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Usage** worn armor; **Bulk** 2
 - **Category** Armor
@@ -20,7 +20,7 @@ This +1 resilient breastplate is made from shining bronze overlaid with reinforc
 ```ad-embed-ability
 title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 
-You grant allies within 100 feet a +2 status bonus to saves against [fear](rules/traits/fear.md) effects for 1 minute. When you activate this ability, each affected ally who's [frightened](rules/conditions.md#Frightened) reduces their [frightened](rules/conditions.md#Frightened) value by 1.
+You grant allies within 100 feet a +2 status bonus to saves against [fear](rules/traits/fear.md "Fear Effect Trait") effects for 1 minute. When you activate this ability, each affected ally who's [frightened](rules/conditions.md#Frightened) reduces their [frightened](rules/conditions.md#Frightened) value by 1.
 ```
 
 *Source: Core Rulebook p. 557*

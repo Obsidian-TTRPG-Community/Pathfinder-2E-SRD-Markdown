@@ -8,7 +8,7 @@ tags:
 aliases: ["Envenom"]
 ---
 # Envenom [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[manipulate](rules/traits/manipulate.md)  
+[manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 *Source: Lost Omens: Impossible Lands*  
 
 **Ancestry** Vishkanya
@@ -20,7 +20,7 @@ Through use of either saliva or blood, you use your innate toxins to apply vishk
 ```ad-inline-affliction
 title: Minor Vishkanyan Venom
 
-[injury](rules/traits/injury.md)  [poison](rules/traits/poison.md)  
+[injury](rules/traits/injury.md "Injury Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 - **Saving Throws**: Fortitude
 - **Maximum Duration**: 6 rounds
 

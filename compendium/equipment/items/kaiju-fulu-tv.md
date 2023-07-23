@@ -12,7 +12,7 @@ tags:
 aliases: ["Kaiju Fulu"]
 ---
 # Kaiju Fulu *Item 13*  
-[abjuration](rules/traits/abjuration.md)  [consumable](rules/traits/consumable.md)  [fulu](rules/traits/fulu-som.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [fulu](rules/traits/fulu-som.md "Fulu Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 500 gp
 - **Usage** affixed to a load‑bearing wall or pillar; **Bulk** —

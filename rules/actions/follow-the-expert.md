@@ -11,7 +11,7 @@ tags:
 aliases: ["Follow the Expert"]
 ---
 # Follow the Expert (basic)
-[auditory](rules/traits/auditory.md)  [concentrate](rules/traits/concentrate.md)  [exploration](rules/traits/exploration.md)  [visual](rules/traits/visual.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 *Source: Core Rulebook p. 479*  
 
 

@@ -9,7 +9,7 @@ tags:
 aliases: ["Bottomless Pit"]
 ---
 # Bottomless Pit *Hazard 9*  
-[magical](rules/traits/magical.md)  [mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 30 (or 0 if the trapdoor is disabled or [broken](rules/conditions.md#Broken)) or [detect magic](compendium/spells/detect-magic.md).  

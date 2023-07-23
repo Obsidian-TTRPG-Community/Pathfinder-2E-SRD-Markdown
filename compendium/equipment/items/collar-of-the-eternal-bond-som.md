@@ -11,7 +11,7 @@ tags:
 aliases: ["Collar Of The Eternal Bond"]
 ---
 # Collar Of The Eternal Bond *Item 7*  
-[conjuration](rules/traits/conjuration.md)  [eidolon](rules/traits/eidolon-som.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [eidolon](rules/traits/eidolon-som.md "Eidolon Creature Type Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 330 gp
 - **Usage** worn collar; **Bulk** L

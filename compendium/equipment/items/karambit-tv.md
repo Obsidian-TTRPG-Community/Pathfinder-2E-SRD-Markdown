@@ -12,7 +12,7 @@ tags:
 aliases: ["Karambit"]
 ---
 # Karambit *Item 0*  
-[agile](rules/traits/agile.md)  [fatal <d8>](rules/traits/fatal.md)  [finesse](rules/traits/finesse.md)  [uncommon](rules/traits/uncommon.md)  [versatile <s>](rules/traits/versatile.md)  
+[agile](rules/traits/agile.md "Agile Weapon Trait")  [fatal <d8>](rules/traits/fatal-d8.md "Fatal Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [versatile <s>](rules/traits/versatile-s.md "Versatile Weapon Trait")  
 
 - **Access** If the player character come from a region in Tian Xia, this weapon is common
 - **Price** 2 gp

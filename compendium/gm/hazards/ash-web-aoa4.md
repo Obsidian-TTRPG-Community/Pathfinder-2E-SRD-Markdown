@@ -8,7 +8,7 @@ tags:
 aliases: ["Ash Web"]
 ---
 # Ash Web *Hazard 10*  
-[environmental](rules/traits/environmental.md)  [fungus](rules/traits/fungus-b1.md)  
+[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [fungus](rules/traits/fungus-b1.md "Fungus Creature Type Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 31 expert  
@@ -19,7 +19,7 @@ This dangerous sooty black mold readily releases its toxic spores when disturbed
 
 - **AC** 28 , **Fort** +22, **Ref** +14
 - **HP** 100
-- **Immunities** [acid](rules/traits/acid.md); critical hits; [electricity](rules/traits/electricity.md); [fire](rules/traits/fire.md); object immunities; precision damage
+- **Immunities** [acid](rules/traits/acid.md "Acid Energy & Element Trait"); critical hits; [electricity](rules/traits/electricity.md "Electricity Energy & Element Trait"); [fire](rules/traits/fire.md "Fire Energy & Element Trait"); object immunities; precision damage
 - **Resistances** 
 - **Weaknesses** 
      
@@ -33,7 +33,7 @@ title: Spore Explosion [R](rules/core-rulebook/chapter-9-playing-the-game.md#Act
 ```
 ```ad-embed-ability
 title: Ash Web Spores
-[inhaled](rules/traits/inhaled.md)  [poison](rules/traits/poison.md)  
+[inhaled](rules/traits/inhaled.md "Inhaled Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
   
 %% #trait/inhaled #trait/poison %%

@@ -7,7 +7,7 @@ tags:
 aliases: ["Rapid Recharge"]
 ---
 # Rapid Recharge  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 10*  
-[magus](rules/traits/magus-som.md)  
+[magus](rules/traits/magus-som.md "Magus Class Trait")  
 
 - **Prerequisites**: [Spellstrike](rules/actions/spellstrike-som.md)
 - **Frequency**: once per day

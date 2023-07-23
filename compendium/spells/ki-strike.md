@@ -10,7 +10,7 @@ tags:
 aliases: ["Ki Strike"]
 ---
 # Ki Strike *Focus 1*   
-[monk](rules/traits/monk.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 

@@ -10,12 +10,12 @@ tags:
 - domain/zeal/deity
 aliases: ["Kostchtchie", "The Deathless Frost"]
 ---
-# Kostchtchie (The Deathless Frost) *([CE](rules/traits/chaotic-evil-b1.md))*  
+# Kostchtchie (The Deathless Frost) *([CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 126*  
 
 - **Category**: Demon Lords
 - **Anathema**: make a deal with Baba Yaga or her children, defer to or obey a woman
-- **Follower Alignments**: [NE](rules/traits/neutral-evil-b1.md), [CE](rules/traits/chaotic-evil-b1.md)
+- **Follower Alignments**: [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
 

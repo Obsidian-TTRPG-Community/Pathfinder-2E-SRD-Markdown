@@ -9,7 +9,7 @@ tags:
 aliases: ["Precious Arrow"]
 ---
 # Precious Arrow  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Prerequisites**: [Eldritch Archer Dedication](compendium/feats/eldritch-archer-dedication-apg.md)
 - **Activity** Single Action

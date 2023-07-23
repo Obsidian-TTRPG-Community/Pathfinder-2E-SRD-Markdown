@@ -16,7 +16,7 @@ tags:
 aliases: ["Ghost Ampoule"]
 ---
 # Ghost Ampoule *Item 4*  
-[alchemical](rules/traits/alchemical.md)  [auditory](rules/traits/auditory.md)  [consumable](rules/traits/consumable.md)  [divine](rules/traits/divine.md)  [emotion](rules/traits/emotion.md)  [enchantment](rules/traits/enchantment.md)  [expandable](rules/traits/expandable-tv.md)  [fear](rules/traits/fear.md)  [mental](rules/traits/mental.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [expandable](rules/traits/expandable-tv.md "Expandable Item Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 - **Price** 20 gp
 - **Usage** held in 1 hand; **Bulk** L

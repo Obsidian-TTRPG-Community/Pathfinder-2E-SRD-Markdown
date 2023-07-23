@@ -7,7 +7,7 @@ tags:
 aliases: ["Monster Warden"]
 ---
 # Monster Warden  *Feat 2*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: [Monster Hunter](compendium/feats/monster-hunter.md)
 

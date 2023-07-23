@@ -11,7 +11,7 @@ tags:
 aliases: ["Swarmeater's Clasp"]
 ---
 # Swarmeater's Clasp *Item 8*  
-[abjuration](rules/traits/abjuration.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 460 gp
 - **Usage** worn; **Bulk** –
@@ -22,7 +22,7 @@ These small brooches usually feature carved reliefs of verminous, swarming creat
 ```ad-embed-ability
 title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
 
-You thrust your hand into the swarm, draw forth a squirming mass of vermin, and devour it. You recover `3d10+8` Hit Points and deal the same amount of bludgeoning damage to the swarm. The Hit Point recovery is a positive [healing](rules/traits/healing.md) effect.
+You thrust your hand into the swarm, draw forth a squirming mass of vermin, and devour it. You recover `3d10+8` Hit Points and deal the same amount of bludgeoning damage to the swarm. The Hit Point recovery is a positive [healing](rules/traits/healing.md "Healing Effect Trait") effect.
 ```
 
 *Source: Agents of Edgewatch #2: Sixty Feet Under p. 76*

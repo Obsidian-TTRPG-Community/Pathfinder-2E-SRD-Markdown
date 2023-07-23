@@ -8,7 +8,7 @@ tags:
 aliases: ["Fresh Ingredients"]
 ---
 # Fresh Ingredients  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Herbalist Dedication](compendium/feats/herbalist-dedication-apg.md), expert in [Nature](compendium/skills.md#Nature)
 

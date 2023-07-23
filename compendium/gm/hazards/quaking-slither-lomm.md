@@ -10,7 +10,7 @@ tags:
 aliases: ["Quaking Slither"]
 ---
 # Quaking Slither *Hazard 14*  
-[complex](rules/traits/complex.md)  [environmental](rules/traits/environmental.md)  [kaiju](rules/traits/kaiju-frp2.md)  [rare](rules/traits/rare.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [kaiju](rules/traits/kaiju-frp2.md "Kaiju  Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Complexity** Complex
 - **Stealth** DC 10  

@@ -7,7 +7,7 @@ tags:
 aliases: ["Very, Very Sneaky"]
 ---
 # Very, Very Sneaky  *Feat 13*  
-[goblin](rules/traits/goblin.md)  
+[goblin](rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Very Sneaky](compendium/feats/very-sneaky.md)
 

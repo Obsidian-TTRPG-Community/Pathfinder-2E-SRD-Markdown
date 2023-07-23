@@ -7,7 +7,7 @@ tags:
 aliases: ["Asura Magic"]
 ---
 # Asura Magic  *Feat 9*  
-[tiefling](rules/traits/tiefling-b1.md)  
+[tiefling](rules/traits/tiefling-b1.md "Tiefling Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Faultspawn](compendium/feats/faultspawn-loil.md)
 

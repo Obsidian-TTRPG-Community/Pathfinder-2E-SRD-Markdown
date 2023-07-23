@@ -7,7 +7,7 @@ tags:
 aliases: ["Dread Striker"]
 ---
 # Dread Striker  *Feat 4*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 
 You capitalize on your enemies' fear to slip past their defenses. Any creature that has the [frightened](rules/conditions.md#Frightened) condition is also [flat-footed](rules/conditions.md#Flat-footed) against your attacks.

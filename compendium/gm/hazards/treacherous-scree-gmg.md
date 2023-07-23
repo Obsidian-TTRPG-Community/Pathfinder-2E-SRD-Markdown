@@ -7,7 +7,7 @@ tags:
 aliases: ["Treacherous Scree"]
 ---
 # Treacherous Scree *Hazard 3*  
-[environmental](rules/traits/environmental.md)  
+[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 23 trained  

@@ -11,7 +11,7 @@ tags:
 aliases: ["String of Fate"]
 ---
 # String of Fate *Focus 1*   
-[abjuration](rules/traits/abjuration.md)  [cleric](rules/traits/cleric.md)  [fortune](rules/traits/fortune.md)  [rare](rules/traits/rare.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [cleric](rules/traits/cleric.md "Cleric Class Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Domains**: [fate (apocryphal)](compendium/setting/domains.md#Fate)
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 

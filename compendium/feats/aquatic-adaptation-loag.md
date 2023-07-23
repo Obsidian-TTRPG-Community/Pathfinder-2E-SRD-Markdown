@@ -11,7 +11,7 @@ tags:
 aliases: ["Aquatic Adaptation"]
 ---
 # Aquatic Adaptation  *Feat 13*  
-[azarketi](rules/traits/azarketi-loag.md)  [concentrate](rules/traits/concentrate.md)  [primal](rules/traits/primal.md)  [transmutation](rules/traits/transmutation.md)  [water](rules/traits/water.md)  
+[azarketi](rules/traits/azarketi-loag.md "Azarketi Ancestry & Heritage Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
 - **Frequency**: once per day
 

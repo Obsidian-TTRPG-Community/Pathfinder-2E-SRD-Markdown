@@ -11,7 +11,7 @@ tags:
 aliases: ["Diadem of Intellect"]
 ---
 # Diadem of Intellect *Item 17*  
-[apex](rules/traits/apex.md)  [divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+[apex](rules/traits/apex.md "Apex Item Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 15000 gp
 - **Usage** worn circlet; **Bulk** L

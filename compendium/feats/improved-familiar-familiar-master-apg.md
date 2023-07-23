@@ -7,7 +7,7 @@ tags:
 aliases: ["Improved Familiar (Familiar Master)"]
 ---
 # Improved Familiar (Familiar Master)  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Familiar Master Dedication](compendium/feats/familiar-master-dedication-apg.md)
 

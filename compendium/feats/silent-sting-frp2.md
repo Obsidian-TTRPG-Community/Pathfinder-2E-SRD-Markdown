@@ -7,7 +7,7 @@ tags:
 aliases: ["Silent Sting"]
 ---
 # Silent Sting  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Golden League Xun Dedication](compendium/feats/golden-league-xun-dedication-frp2.md), expert in [Stealth](compendium/skills.md#Stealth)
 - **Trigger** You make a [Strike](rules/actions/strike.md) with a weapon of light bulk.

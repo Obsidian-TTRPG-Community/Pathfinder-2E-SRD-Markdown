@@ -10,7 +10,7 @@ tags:
 aliases: ["Athletic Rush"]
 ---
 # Athletic Rush *Focus 1*   
-[cleric](rules/traits/cleric.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Domains**: [might](compendium/setting/domains.md#Might)
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 

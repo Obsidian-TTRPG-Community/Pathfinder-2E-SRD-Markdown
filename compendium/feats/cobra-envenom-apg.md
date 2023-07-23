@@ -8,7 +8,7 @@ tags:
 aliases: ["Cobra Envenom"]
 ---
 # Cobra Envenom  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
-[monk](rules/traits/monk.md)  [poison](rules/traits/poison.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Prerequisites**: [Cobra Stance](compendium/feats/cobra-stance-apg.md), expert in unarmed attacks
 - **Frequency**: once per minute

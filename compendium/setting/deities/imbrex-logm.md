@@ -10,12 +10,12 @@ tags:
 - domain/might/deity
 aliases: ["Imbrex", "The Twins"]
 ---
-# Imbrex (The Twins) *([LN](rules/traits/lawful-neutral-b1.md))*  
+# Imbrex (The Twins) *([LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 78*  
 
 - **Category**: Eldest
 - **Anathema**: offend Imbrex
-- **Follower Alignments**: [LN](rules/traits/lawful-neutral-b1.md), [N](rules/traits/neutral-b1.md), [LE](rules/traits/lawful-evil-b1.md)
+- **Follower Alignments**: [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait")
 
 ## Devotee benefits
 

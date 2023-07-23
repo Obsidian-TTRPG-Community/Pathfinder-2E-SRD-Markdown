@@ -8,7 +8,7 @@ tags:
 aliases: ["Cram"]
 ---
 # Cram
-[downtime](rules/traits/downtime.md)  
+[downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  
 *Source: Strength of Thousands #1: Kindled Magic p. 63*  
 
 - **Requirements**: You are an initiate, attendant, or conversant, and your branch level for either your primary or secondary branch is 2 or more levels below the limit.

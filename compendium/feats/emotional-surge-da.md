@@ -10,7 +10,7 @@ tags:
 aliases: ["Emotional Surge"]
 ---
 # Emotional Surge  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
-[concentrate](rules/traits/concentrate.md)  [emotion](rules/traits/emotion.md)  [psyche](rules/traits/psyche-da.md)  [psychic](rules/traits/psychic-da.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [psyche](rules/traits/psyche-da.md "Psyche Action & Ability Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  
 
 - **Requirements**: emotional acceptance subconscious mind
 - **Activity** Single Action

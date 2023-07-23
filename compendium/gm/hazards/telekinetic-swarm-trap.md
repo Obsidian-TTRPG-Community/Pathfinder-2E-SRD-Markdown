@@ -10,7 +10,7 @@ tags:
 aliases: ["Telekinetic Swarm Trap"]
 ---
 # Telekinetic Swarm Trap *Hazard 12*  
-[complex](rules/traits/complex.md)  [magical](rules/traits/magical.md)  [mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +24 expert  
@@ -27,7 +27,7 @@ Three innocuous decorations instilled with telekinetic magic pull objects and pi
      
 ```ad-embed-ability
 title: Agitate [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[arcane](rules/traits/arcane.md)  [evocation](rules/traits/evocation.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
 - **Trigger**: A creature stays in the room for at least 6 seconds.
 

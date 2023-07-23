@@ -10,7 +10,7 @@ tags:
 aliases: ["Ranging Shot"]
 ---
 # Ranging Shot *Item 3*  
-[consumable](rules/traits/consumable.md)  [divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 9 gp
 - **Ammunition** any

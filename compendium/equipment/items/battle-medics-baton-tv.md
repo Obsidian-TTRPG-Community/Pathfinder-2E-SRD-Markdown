@@ -9,7 +9,7 @@ tags:
 aliases: ["Battle Medic's Baton"]
 ---
 # Battle Medic's Baton *Item 3*  
-[magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 - **Price** 60 gp
 - **Usage** held in 1 hand; **Bulk** L

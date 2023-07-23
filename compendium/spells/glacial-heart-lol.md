@@ -11,7 +11,7 @@ tags:
 aliases: ["Glacial Heart"]
 ---
 # Glacial Heart *Focus 5*   
-[evocation](rules/traits/evocation.md)  [hex](rules/traits/hex-apg.md)  [rare](rules/traits/rare.md)  [witch](rules/traits/witch-apg.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [hex](rules/traits/hex-apg.md "Hex Combat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [witch](rules/traits/witch-apg.md "Witch Class Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot
@@ -24,7 +24,7 @@ Ice and bone-deep cold assail the target, freezing it from the inside out. The f
 > [!success-degree] 
 > - **Critical Success** The target is unaffected.
 > - **Success** The target takes half damage and is [slowed](rules/conditions.md#Slowed) for 1 round. The spell ends.
-> - **Failure** The target takes full damage, is [slowed](rules/conditions.md#Slowed), and must attempt a Fortitude save at the end of each of its turns; this ongoing save has the [incapacitation](rules/traits/incapacitation.md) trait. On a failed save, the [slowed](rules/conditions.md#Slowed) condition increases by 1 (or 2 on a critical failure), to a maximum of [slowed](rules/conditions.md#Slowed). On a success, the [slowed](rules/conditions.md#Slowed) condition decreases by 1. If at any point the [slowed](rules/conditions.md#Slowed) condition is reduced to 0, the spell ends. Once a creature's actions are reduced to 0 by this [slowed](rules/conditions.md#Slowed) condition, the creature is completely encased in ice. It continues making saves against glacial heart, possibly allowing it to reduce its [slowed](rules/conditions.md#Slowed) condition enough that it can act. This ice has Hardness 4 and 8 Hit Points, and its DC to [Force Open](rules/actions/force-open.md) is your spell DC. Breaking the ice frees the creature and ends the spell. If someone other than the target breaks the ice from outside, the target is [stunned](rules/conditions.md#Stunned) and takes any damage dealt by the breaking effect in excess of the ice's Hit Points.
+> - **Failure** The target takes full damage, is [slowed](rules/conditions.md#Slowed), and must attempt a Fortitude save at the end of each of its turns; this ongoing save has the [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait") trait. On a failed save, the [slowed](rules/conditions.md#Slowed) condition increases by 1 (or 2 on a critical failure), to a maximum of [slowed](rules/conditions.md#Slowed). On a success, the [slowed](rules/conditions.md#Slowed) condition decreases by 1. If at any point the [slowed](rules/conditions.md#Slowed) condition is reduced to 0, the spell ends. Once a creature's actions are reduced to 0 by this [slowed](rules/conditions.md#Slowed) condition, the creature is completely encased in ice. It continues making saves against glacial heart, possibly allowing it to reduce its [slowed](rules/conditions.md#Slowed) condition enough that it can act. This ice has Hardness 4 and 8 Hit Points, and its DC to [Force Open](rules/actions/force-open.md) is your spell DC. Breaking the ice frees the creature and ends the spell. If someone other than the target breaks the ice from outside, the target is [stunned](rules/conditions.md#Stunned) and takes any damage dealt by the breaking effect in excess of the ice's Hit Points.
 > - **Critical Failure** As failure, but the target takes double damage and is initially [slowed](rules/conditions.md#Slowed).
 
 **Heightened (+ 1)** Increase the cold damage by `2d6`.

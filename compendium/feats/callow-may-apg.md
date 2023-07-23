@@ -8,7 +8,7 @@ tags:
 aliases: ["Callow May"]
 ---
 # Callow May  *Feat 1*  
-[changeling](rules/traits/changeling-b1.md)  [lineage](rules/traits/lineage-apg.md)  
+[changeling](rules/traits/changeling-b1.md "Changeling Ancestry & Heritage Trait")  [lineage](rules/traits/lineage-apg.md "Lineage  Trait")  
 
 
 You are among the most common of changelings—those born to green hags—and a vibrant green eye signifies that parentage.

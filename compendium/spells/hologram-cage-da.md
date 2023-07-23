@@ -13,7 +13,7 @@ tags:
 aliases: ["Hologram Cage"]
 ---
 # Hologram Cage *Cantrip 5*   
-[cantrip](rules/traits/cantrip.md)  [illusion](rules/traits/illusion.md)  [light](rules/traits/light.md)  [psychic](rules/traits/psychic-da.md)  [uncommon](rules/traits/uncommon.md)  
+[cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [light](rules/traits/light.md "Light Effect Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**60 foot

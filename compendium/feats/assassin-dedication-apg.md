@@ -8,7 +8,7 @@ tags:
 aliases: ["Assassin Dedication"]
 ---
 # Assassin Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: [Alchemical Crafting](compendium/feats/alchemical-crafting.md); trained in [Crafting](compendium/skills.md#Crafting), [Deception](compendium/skills.md#Deception), and [Stealth](compendium/skills.md#Stealth)
 
@@ -19,9 +19,9 @@ title: Mark for Death [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Ac
 
 - **Requirements**: You can see and hear the creature you intend to mark
 
-**Effect** You designate a single creature as your mark. This lasts until the mark dies or you use Mark for Death again. You gain a +2 circumstance bonus to [Perception](compendium/skills.md#Perception) checks to [Seek](rules/actions/seek.md) your mark and on [Deception](compendium/skills.md#Deception) checks to [Feint](rules/actions/feint.md) against your mark. Your [agile](rules/traits/agile.md) and [finesse](rules/traits/finesse.md) weapons and unarmed attacks gain the [backstabber](rules/traits/backstabber.md) and [deadly <d6>](rules/traits/deadly.md) weapon traits when you're attacking your mark.
+**Effect** You designate a single creature as your mark. This lasts until the mark dies or you use Mark for Death again. You gain a +2 circumstance bonus to [Perception](compendium/skills.md#Perception) checks to [Seek](rules/actions/seek.md) your mark and on [Deception](compendium/skills.md#Deception) checks to [Feint](rules/actions/feint.md) against your mark. Your [agile](rules/traits/agile.md "Agile Weapon Trait") and [finesse](rules/traits/finesse.md "Finesse Weapon Trait") weapons and unarmed attacks gain the [backstabber](rules/traits/backstabber.md "Backstabber Weapon Trait") and [deadly <d6>](rules/traits/deadly-d6.md "Deadly Weapon Trait") weapon traits when you're attacking your mark.
 
-If the weapon or unarmed attack already has the [deadly](rules/traits/deadly.md) trait, increase the size of the deadly damage die by one step instead of giving it [deadly <d6>](rules/traits/deadly.md).
+If the weapon or unarmed attack already has the [deadly](rules/traits/deadly.md "Deadly Weapon Trait") trait, increase the size of the deadly damage die by one step instead of giving it [deadly <d6>](rules/traits/deadly-d6.md "Deadly Weapon Trait").
 ```
 
 **Special.** You can't select another dedication feat until you've gained two other feats from the assassin archetype.

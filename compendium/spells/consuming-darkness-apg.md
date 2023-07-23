@@ -12,7 +12,7 @@ tags:
 aliases: ["Consuming Darkness"]
 ---
 # Consuming Darkness *Focus 5*   
-[evocation](rules/traits/evocation.md)  [shadow](rules/traits/shadow.md)  [sorcerer](rules/traits/sorcerer.md)  [uncommon](rules/traits/uncommon.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [shadow](rules/traits/shadow.md "Shadow General Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bloodline** Sorcerer
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

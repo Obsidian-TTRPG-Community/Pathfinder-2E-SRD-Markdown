@@ -9,9 +9,9 @@ tags:
 aliases: ["Draw The Lightning"]
 ---
 # Draw The Lightning *Spell 4*   
-[electricity](rules/traits/electricity.md)  [evocation](rules/traits/evocation.md)  
+[electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**120 foot
 - **Targets**1 creature that is either taller than you or higher in the air than you

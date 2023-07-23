@@ -10,7 +10,7 @@ tags:
 aliases: ["Bane Ammunition"]
 ---
 # Bane Ammunition *Item 1+*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [poison](rules/traits/poison.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Ammunition** any
 - **Activate** [Interact](rules/actions/interact.md)

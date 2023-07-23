@@ -9,7 +9,7 @@ tags:
 aliases: ["Widen Spell (Witch)"]
 ---
 # Widen Spell (Witch)  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
-[manipulate](rules/traits/manipulate.md)  [metamagic](rules/traits/metamagic.md)  [witch](rules/traits/witch-apg.md)  
+[manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  [witch](rules/traits/witch-apg.md "Witch Class Trait")  
 
 - **Activity** Single Action
 

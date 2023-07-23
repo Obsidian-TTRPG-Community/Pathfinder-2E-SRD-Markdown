@@ -7,7 +7,7 @@ tags:
 aliases: ["Improved Knockback"]
 ---
 # Improved Knockback  *Feat 12*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Prerequisites**: master in [Athletics](compendium/skills.md#Athletics)
 

@@ -8,7 +8,7 @@ tags:
 aliases: ["Salvo Shield"]
 ---
 # Salvo Shield *Item 0*  
-[deflecting <physical ranged>](rules/traits/deflecting-tv.md)  
+[deflecting <physical ranged>](rules/traits/deflecting-physical-ranged-tv.md "Deflecting Item Trait")  
 
 - **Price** 6 gp
 - **Bulk** 1

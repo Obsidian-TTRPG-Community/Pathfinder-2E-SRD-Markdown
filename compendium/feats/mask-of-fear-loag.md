@@ -7,7 +7,7 @@ tags:
 aliases: ["Mask Of Fear"]
 ---
 # Mask Of Fear  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 13*  
-[orc](rules/traits/orc.md)  
+[orc](rules/traits/orc.md "Orc Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Orc Warmask](compendium/feats/orc-warmask-loag.md)
 - **Trigger** You start your turn with the [frightened](rules/conditions.md#Frightened) condition.

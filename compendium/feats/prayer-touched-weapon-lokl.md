@@ -9,7 +9,7 @@ tags:
 aliases: ["Prayer-Touched Weapon"]
 ---
 # Prayer-Touched Weapon  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 4*  
-[cleric](rules/traits/cleric.md)  [oracle](rules/traits/oracle-apg.md)  [uncommon](rules/traits/uncommon.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: Knights of Lastwall have access to this feat.
 - **Prerequisites**: divine spells, you follow a good-aligned deity

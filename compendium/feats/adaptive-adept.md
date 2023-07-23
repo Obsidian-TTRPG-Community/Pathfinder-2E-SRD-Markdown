@@ -7,7 +7,7 @@ tags:
 aliases: ["Adaptive Adept"]
 ---
 # Adaptive Adept  *Feat 5*  
-[human](rules/traits/human.md)  
+[human](rules/traits/human.md "Human Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Adapted Cantrip](compendium/feats/adapted-cantrip.md), can cast 3rd-level spells
 

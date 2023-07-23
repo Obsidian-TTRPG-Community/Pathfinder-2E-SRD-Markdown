@@ -7,7 +7,7 @@ tags:
 aliases: ["Greater Distracting Shot"]
 ---
 # Greater Distracting Shot  *Feat 16*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: [Distracting Shot](compendium/feats/distracting-shot.md)
 

@@ -12,7 +12,7 @@ tags:
 aliases: ["Pointed Question"]
 ---
 # Pointed Question [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[auditory](rules/traits/auditory.md)  [concentrate](rules/traits/concentrate.md)  [investigator](rules/traits/investigator-apg.md)  [linguistic](rules/traits/linguistic.md)  [mental](rules/traits/mental.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [investigator](rules/traits/investigator-apg.md "Investigator Class Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 *Source: Advanced Player's Guide p. 58*  
 
 **Class** investigator; **Subclass** Interrogation

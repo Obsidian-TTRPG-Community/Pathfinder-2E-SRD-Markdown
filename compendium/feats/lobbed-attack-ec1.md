@@ -8,7 +8,7 @@ tags:
 aliases: ["Lobbed Attack"]
 ---
 # Lobbed Attack  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: master in [Performance](compendium/skills.md#Performance), [Juggler Dedication](compendium/feats/juggler-dedication-ec1.md)
 - **Requirements**: You are Juggling a thrown weapon.

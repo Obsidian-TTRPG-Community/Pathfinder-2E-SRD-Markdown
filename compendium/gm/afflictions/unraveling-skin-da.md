@@ -13,7 +13,7 @@ aliases: ["Unraveling Skin"]
 ---
 # Unraveling Skin
 *Curse 5*  
-[curse](rules/traits/curse.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [rare](rules/traits/rare.md)  
+[curse](rules/traits/curse.md "Curse Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 Often used to protect ancient tomes, this curse causes your skin to shed like weathered paper, cracking and bleeding at the slightest touch.
 

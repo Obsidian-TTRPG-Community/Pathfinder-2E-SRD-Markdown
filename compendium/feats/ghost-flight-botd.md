@@ -7,7 +7,7 @@ tags:
 aliases: ["Ghost Flight"]
 ---
 # Ghost Flight  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Ghost Dedication](compendium/feats/ghost-dedication-botd.md)
 - **Frequency**: once per day

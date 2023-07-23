@@ -7,7 +7,7 @@ tags:
 aliases: ["Winter Cat Senses"]
 ---
 # Winter Cat Senses  *Feat 1*  
-[catfolk](rules/traits/catfolk-b1.md)  
+[catfolk](rules/traits/catfolk-b1.md "Catfolk Ancestry & Heritage Trait")  
 
 - **Prerequisites**: winter catfolk heritage
 

@@ -10,12 +10,12 @@ tags:
 - domain/wealth/deity
 aliases: ["Thamir", "The Silent Blade"]
 ---
-# Thamir (The Silent Blade) *([CE](rules/traits/chaotic-evil-b1.md))*  
+# Thamir (The Silent Blade) *([CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 130*  
 
 - **Category**: Other Gods
 - **Anathema**: steal from the poor, beg for help or mercy from a fellow worshipper of Thamir
-- **Follower Alignments**: [NE](rules/traits/neutral-evil-b1.md), [CE](rules/traits/chaotic-evil-b1.md)
+- **Follower Alignments**: [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
 

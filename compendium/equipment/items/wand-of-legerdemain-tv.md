@@ -9,7 +9,7 @@ tags:
 aliases: ["Wand of Legerdemain"]
 ---
 # Wand of Legerdemain *Item 4+*  
-[magical](rules/traits/magical.md)  [wand](rules/traits/wand.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Wand
@@ -24,7 +24,7 @@ You Cast the Spell.
 
 ```ad-embed-ability
 title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[emotion](rules/traits/emotion.md)  [illusion](rules/traits/illusion.md)  [light](rules/traits/light.md)  [mental](rules/traits/mental.md)  [visual](rules/traits/visual.md)  
+[emotion](rules/traits/emotion.md "Emotion Effect Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [light](rules/traits/light.md "Light Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Requirements**: The last action you took this turn was to [Cast a Spell](rules/actions/cast-a-spell.md) from the wand
 
@@ -32,7 +32,7 @@ title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "S
 
 The spotlight follows you wherever you move. You can't be [concealed](rules/conditions.md#Concealed) while in the spotlight. The effect ends if you become [invisible](rules/conditions.md#Invisible), attempt a [Stealth](compendium/skills.md#Stealth) check, or [Dismiss](rules/actions/dismiss.md) the activation.
 
-You can Sustain this Activation for up to 1 minute. Since you need to keep performing tricks, [Sustain an Activation](rules/actions/sustain-an-activation.md) has the [manipulate](rules/traits/manipulate.md) trait. Sustaining extends the spotlight, and keeps [fascinated](rules/conditions.md#Fascinated) creatures [fascinated](rules/conditions.md#Fascinated), but doesn't cause creatures not already [fascinated](rules/conditions.md#Fascinated) to become [fascinated](rules/conditions.md#Fascinated).  
+You can Sustain this Activation for up to 1 minute. Since you need to keep performing tricks, [Sustain an Activation](rules/actions/sustain-an-activation.md) has the [manipulate](rules/traits/manipulate.md "Manipulate General Trait") trait. Sustaining extends the spotlight, and keeps [fascinated](rules/conditions.md#Fascinated) creatures [fascinated](rules/conditions.md#Fascinated), but doesn't cause creatures not already [fascinated](rules/conditions.md#Fascinated) to become [fascinated](rules/conditions.md#Fascinated).  
 %% #trait/emotion #trait/illusion #trait/light #trait/mental #trait/visual %%
 ```
 

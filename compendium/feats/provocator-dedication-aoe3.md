@@ -9,7 +9,7 @@ tags:
 aliases: ["Provocator Dedication"]
 ---
 # Provocator Dedication  *Feat 10*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: Successfully defeat the ebaraks in the Irorium.
 - **Prerequisites**: Strength 14, Charisma 14

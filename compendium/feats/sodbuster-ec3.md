@@ -7,7 +7,7 @@ tags:
 aliases: ["Sodbuster"]
 ---
 # Sodbuster  *Feat 9*  
-[shoony](rules/traits/shoony-ec3.md)  
+[shoony](rules/traits/shoony-ec3.md "Shoony Ancestry & Heritage Trait")  
 
 - **Prerequisites**: Dig Quickly
 

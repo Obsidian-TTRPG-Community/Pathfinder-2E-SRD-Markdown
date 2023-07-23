@@ -12,7 +12,7 @@ tags:
 aliases: ["Wish Blade"]
 ---
 # Wish Blade *Item 0*  
-[disarm](rules/traits/disarm.md)  [geniekin](rules/traits/geniekin-loag.md)  [resonant](rules/traits/resonant-loag.md)  [two-hand <d10>](rules/traits/two-hand.md)  [uncommon](rules/traits/uncommon.md)  
+[disarm](rules/traits/disarm.md "Disarm Weapon Trait")  [geniekin](rules/traits/geniekin-loag.md "Geniekin Ancestry & Heritage Trait")  [resonant](rules/traits/resonant-loag.md "Resonant Weapon Trait")  [two-hand <d10>](rules/traits/two-hand-d10.md "Two-Hand Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 5 gp
 - **Bulk** 1

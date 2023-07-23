@@ -12,7 +12,7 @@ tags:
 aliases: ["Lifelink Surge"]
 ---
 # Lifelink Surge *Focus 2*   
-[healing](rules/traits/healing.md)  [necromancy](rules/traits/necromancy.md)  [positive](rules/traits/positive.md)  [summoner](rules/traits/summoner-som.md)  [uncommon](rules/traits/uncommon.md)  
+[healing](rules/traits/healing.md "Healing Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  [summoner](rules/traits/summoner-som.md "Summoner Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Duration**4 rounds

@@ -9,9 +9,9 @@ tags:
 aliases: ["Life Connection"]
 ---
 # Life Connection *Spell 3*   
-[contingency](rules/traits/contingency-som.md)  [necromancy](rules/traits/necromancy.md)  
+[contingency](rules/traits/contingency-som.md "Contingency Spell Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md), [primal](rules/traits/primal.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** 10 minutes 
 - **Range**touch
 - **Targets**1 living creature
@@ -21,7 +21,7 @@ When you cast this spell, you place a failsafe deep within the life force of the
 
 ```ad-embed-ability
 title: Defend Life [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[concentrate](rules/traits/concentrate.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
 
 - **Trigger**: The target takes damage
 - **Requirements**: You're within 1 mile of the target

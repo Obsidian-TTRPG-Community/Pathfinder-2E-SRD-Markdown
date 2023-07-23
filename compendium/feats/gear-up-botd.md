@@ -7,7 +7,7 @@ tags:
 aliases: ["Gear Up"]
 ---
 # Gear Up  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Undead Slayer Dedication](compendium/feats/undead-slayer-dedication-botd.md)
 

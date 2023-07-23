@@ -7,7 +7,7 @@ tags:
 aliases: ["Light Step"]
 ---
 # Light Step  *Feat 6*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 
 You aren't bothered by tricky footing. When you [Stride](rules/actions/stride.md) or [Step](rules/actions/step.md), you can ignore difficult terrain.

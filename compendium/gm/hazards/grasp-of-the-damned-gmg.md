@@ -7,7 +7,7 @@ tags:
 aliases: ["Grasp of the Damned"]
 ---
 # Grasp of the Damned *Hazard 17*  
-[haunt](rules/traits/haunt.md)  
+[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 43 master  
@@ -20,7 +20,7 @@ Now, they are left with only the knowledge that their souls have been damned, an
      
 ```ad-embed-ability
 title: Mark for Damnation [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[death](rules/traits/death.md)  [divine](rules/traits/divine.md)  [necromancy](rules/traits/necromancy.md)  
+[death](rules/traits/death.md "Death Effect Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 - **Trigger**: Three or more sentient living creatures of 13th level or higher enter the haunt's area
 

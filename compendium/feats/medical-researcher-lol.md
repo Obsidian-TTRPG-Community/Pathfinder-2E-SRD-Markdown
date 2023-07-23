@@ -9,7 +9,7 @@ tags:
 aliases: ["Medical Researcher"]
 ---
 # Medical Researcher  *Feat 1*  
-[general](rules/traits/general.md)  [rare](rules/traits/rare.md)  [skill](rules/traits/skill.md)  
+[general](rules/traits/general.md "General Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: trained in [Medicine](compendium/skills.md#Medicine)
 

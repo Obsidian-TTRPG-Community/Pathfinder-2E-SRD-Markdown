@@ -12,7 +12,7 @@ tags:
 aliases: ["Malicious Shadow"]
 ---
 # Malicious Shadow *Focus 3*   
-[evocation](rules/traits/evocation.md)  [hex](rules/traits/hex-apg.md)  [shadow](rules/traits/shadow.md)  [uncommon](rules/traits/uncommon.md)  [witch](rules/traits/witch-apg.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [hex](rules/traits/hex-apg.md "Hex Combat Trait")  [shadow](rules/traits/shadow.md "Shadow General Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [witch](rules/traits/witch-apg.md "Witch Class Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot

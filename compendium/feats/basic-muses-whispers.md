@@ -7,7 +7,7 @@ tags:
 aliases: ["Basic Muse's Whispers"]
 ---
 # Basic Muse's Whispers  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Bard Dedication](compendium/feats/bard-dedication.md)
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Rampaging Ferocity"]
 ---
 # Rampaging Ferocity  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 17*  
-[orc](rules/traits/orc.md)  
+[orc](rules/traits/orc.md "Orc Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Orc Ferocity](compendium/feats/orc-ferocity.md)
 - **Trigger** You use [Orc Ferocity](compendium/feats/orc-ferocity.md).

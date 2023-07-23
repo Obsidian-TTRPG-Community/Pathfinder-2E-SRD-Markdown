@@ -9,7 +9,7 @@ tags:
 aliases: ["Electrified Water Ward"]
 ---
 # Electrified Water Ward *Hazard 8*  
-[complex](rules/traits/complex.md)  [magical](rules/traits/magical.md)  [trap](rules/traits/trap.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +18 expert  
@@ -25,7 +25,7 @@ title: or DC
 ```
 ```ad-embed-ability
 title: Electrocution [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[arcane](rules/traits/arcane.md)  [electricity](rules/traits/electricity.md)  [evocation](rules/traits/evocation.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
 - **Trigger**: A creature passes over the [invisible](rules/conditions.md#Invisible) underwater rune between the north and south doors
 

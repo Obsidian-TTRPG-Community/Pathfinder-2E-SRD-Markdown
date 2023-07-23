@@ -12,7 +12,7 @@ tags:
 aliases: ["Moonlight Bridge"]
 ---
 # Moonlight Bridge *Focus 6*   
-[conjuration](rules/traits/conjuration.md)  [cursebound](rules/traits/cursebound-apg.md)  [light](rules/traits/light.md)  [oracle](rules/traits/oracle-apg.md)  [uncommon](rules/traits/uncommon.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [cursebound](rules/traits/cursebound-apg.md "Cursebound Spell Trait")  [light](rules/traits/light.md "Light Effect Trait")  [oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Mystery** Oracle
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

@@ -11,7 +11,7 @@ tags:
 aliases: ["Light Of Revelation"]
 ---
 # Light Of Revelation *Focus 2*   
-[divination](rules/traits/divination.md)  [light](rules/traits/light.md)  [revelation](rules/traits/revelation.md)  [uncommon](rules/traits/uncommon.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [light](rules/traits/light.md "Light Effect Trait")  [revelation](rules/traits/revelation.md "Revelation Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30-foot emanation

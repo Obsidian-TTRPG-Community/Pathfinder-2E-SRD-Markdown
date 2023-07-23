@@ -13,7 +13,7 @@ tags:
 aliases: ["Wand of Dazzling Rays"]
 ---
 # Wand of Dazzling Rays *Item 8+*  
-[evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  [good](rules/traits/good.md)  [light](rules/traits/light.md)  [magical](rules/traits/magical.md)  [wand](rules/traits/wand.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [good](rules/traits/good.md "Good Alignment Trait")  [light](rules/traits/light.md "Light Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Wand

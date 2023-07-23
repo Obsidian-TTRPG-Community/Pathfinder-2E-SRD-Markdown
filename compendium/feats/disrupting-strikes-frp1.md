@@ -7,7 +7,7 @@ tags:
 aliases: ["Disrupting Strikes"]
 ---
 # Disrupting Strikes  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Ghost Eater Dedication](compendium/feats/ghost-eater-dedication-frp1.md)
 - **Activity** Single Action

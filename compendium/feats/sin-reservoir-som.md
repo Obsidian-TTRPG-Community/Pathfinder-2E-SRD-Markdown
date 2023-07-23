@@ -7,7 +7,7 @@ tags:
 aliases: ["Sin Reservoir"]
 ---
 # Sin Reservoir  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Runelord Dedication](compendium/feats/runelord-dedication-som.md)
 

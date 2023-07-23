@@ -7,7 +7,7 @@ tags:
 aliases: ["Enhanced Familiar (Druid)"]
 ---
 # Enhanced Familiar (Druid)  *Feat 2*  
-[druid](rules/traits/druid.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  
 
 - **Prerequisites**: a familiar
 

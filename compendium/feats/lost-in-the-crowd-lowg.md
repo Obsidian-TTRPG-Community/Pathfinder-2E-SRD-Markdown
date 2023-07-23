@@ -7,7 +7,7 @@ tags:
 aliases: ["Lost In The Crowd"]
 ---
 # Lost In The Crowd  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Lion Blade Dedication](compendium/feats/lion-blade-dedication-lowg.md)
 

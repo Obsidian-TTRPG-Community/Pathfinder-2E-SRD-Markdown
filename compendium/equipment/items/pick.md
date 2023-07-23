@@ -8,7 +8,7 @@ tags:
 aliases: ["Pick"]
 ---
 # Pick *Item 0*  
-[fatal <d10>](rules/traits/fatal.md)  
+[fatal <d10>](rules/traits/fatal-d10.md "Fatal Weapon Trait")  
 
 - **Price** 7 sp
 - **Bulk** 1

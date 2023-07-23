@@ -8,7 +8,7 @@ tags:
 aliases: ["Rubbing Set"]
 ---
 # Rubbing Set *Item 0*  
-[uncommon](rules/traits/uncommon.md)  
+[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1 gp
 - **Bulk** 1

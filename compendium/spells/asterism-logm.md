@@ -9,7 +9,7 @@ tags:
 aliases: ["Asterism"]
 ---
 # Asterism *Focus 4*   
-[evocation](rules/traits/evocation.md)  [light](rules/traits/light.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [light](rules/traits/light.md "Light Effect Trait")  
 
 - **Domains**: [star](compendium/setting/domains.md#Star)
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 

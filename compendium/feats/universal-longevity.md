@@ -7,7 +7,7 @@ tags:
 aliases: ["Universal Longevity"]
 ---
 # Universal Longevity  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 13*  
-[elf](rules/traits/elf.md)  
+[elf](rules/traits/elf.md "Elf Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Expert Longevity](compendium/feats/expert-longevity.md)
 - **Frequency**: once per day

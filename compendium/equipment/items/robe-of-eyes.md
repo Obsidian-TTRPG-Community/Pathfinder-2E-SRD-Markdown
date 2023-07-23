@@ -11,7 +11,7 @@ tags:
 aliases: ["Robe of Eyes"]
 ---
 # Robe of Eyes *Item 17*  
-[divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 13000 gp
 - **Usage** worn garment; **Bulk** 1
@@ -21,7 +21,7 @@ This garment appears to be an ordinary robe until donned, at which point numerou
 
 You can also see powerful magic auras. The highest-level [magic aura](compendium/spells/magic-aura.md) within 30 feet of you glows in a color that reveals its school to you and allows you to determine where the effect originates. This can narrow down the origin point of the effect to a 5-foot-cube, but not more precisely than that.
 
-The robe of eyes is not without its dangers. If any spell with the [light](rules/traits/light.md) trait is cast on you or your square while you are wearing the robe, you are [blinded](rules/conditions.md#Blinded) for a number of rounds equal to the spell's level unless you succeed at a Fortitude save against the spell's DC.
+The robe of eyes is not without its dangers. If any spell with the [light](rules/traits/light.md "Light Effect Trait") trait is cast on you or your square while you are wearing the robe, you are [blinded](rules/conditions.md#Blinded) for a number of rounds equal to the spell's level unless you succeed at a Fortitude save against the spell's DC.
 
 ```ad-embed-ability
 title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")

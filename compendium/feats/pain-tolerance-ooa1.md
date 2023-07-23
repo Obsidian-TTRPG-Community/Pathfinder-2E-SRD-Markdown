@@ -9,7 +9,7 @@ tags:
 aliases: ["Pain Tolerance"]
 ---
 # Pain Tolerance  *Feat 6*  
-[barbarian](rules/traits/barbarian.md)  [fighter](rules/traits/fighter.md)  [uncommon](rules/traits/uncommon.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [fighter](rules/traits/fighter.md "Fighter Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: You're from Alkenstar or the Mana Wastes.
 - **Prerequisites**: expert in Fortitude saves

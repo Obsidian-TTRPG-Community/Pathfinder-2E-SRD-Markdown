@@ -15,7 +15,7 @@ tags:
 aliases: ["Golden Breath Fulu"]
 ---
 # Golden Breath Fulu *Item 20*  
-[consumable](rules/traits/consumable.md)  [fulu](rules/traits/fulu-som.md)  [healing](rules/traits/healing.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [positive](rules/traits/positive.md)  [talisman](rules/traits/talisman.md)  [uncommon](rules/traits/uncommon.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [fulu](rules/traits/fulu-som.md "Fulu Item Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 8100 gp
 - **Usage** affixed to armor; **Bulk** —

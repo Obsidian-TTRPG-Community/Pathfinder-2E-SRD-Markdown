@@ -10,13 +10,13 @@ tags:
 - domain/nature/deity
 aliases: ["Elven Pantheon"]
 ---
-# Elven Pantheon *([CG](rules/traits/chaotic-good-b1.md))*  
+# Elven Pantheon *([CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 93*  
 
 - **Category**: Pantheon
 - **Anathema**: irreparably damage the natural environment (such as by overhunting or strip mining), have an unhealthy obsession or attachment
 - **Areas of Concern**: elves, , magic, , nature, , tradition
-- **Follower Alignments**: [NG](rules/traits/neutral-good-b1.md), [CG](rules/traits/chaotic-good-b1.md), [CN](rules/traits/chaotic-neutral-b1.md)
+- **Follower Alignments**: [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")
 
 ## Devotee benefits
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Stumbling Feint"]
 ---
 # Stumbling Feint  *Feat 6*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Prerequisites**: expert in [Deception](compendium/skills.md#Deception), [Stumbling Stance](compendium/feats/stumbling-stance-apg.md)
 - **Requirements**: You are in Stumbling Stance.

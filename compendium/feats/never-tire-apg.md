@@ -7,7 +7,7 @@ tags:
 aliases: ["Never Tire"]
 ---
 # Never Tire  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Celebrity Dedication](compendium/feats/celebrity-dedication-apg.md)
 - **Trigger** You would gain the [fatigued](rules/conditions.md#Fatigued) condition.

@@ -11,7 +11,7 @@ tags:
 aliases: ["Taw Launcher"]
 ---
 # Taw Launcher *Item 0*  
-[conrasu](rules/traits/conrasu-loag.md)  [deadly <1d10>](rules/traits/deadly.md)  [modular <b, p, or s>](rules/traits/modular-logm.md)  [uncommon](rules/traits/uncommon.md)  
+[conrasu](rules/traits/conrasu-loag.md "Conrasu Ancestry & Heritage Trait")  [deadly <1d10>](rules/traits/deadly-1d10.md "Deadly Weapon Trait")  [modular <b, p, or s>](rules/traits/modular-b-p-or-s-logm.md "Modular Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 10 gp
 - **Bulk** 1

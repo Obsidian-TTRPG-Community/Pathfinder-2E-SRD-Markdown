@@ -9,7 +9,7 @@ tags:
 aliases: ["Wilderness Spotter"]
 ---
 # Wilderness Spotter  *Feat 2*  
-[general](rules/traits/general.md)  [skill](rules/traits/skill.md)  [uncommon](rules/traits/uncommon.md)  
+[general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: Expert in [Survival](compendium/skills.md#Survival)
 

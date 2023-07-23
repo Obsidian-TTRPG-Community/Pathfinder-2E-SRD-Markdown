@@ -11,7 +11,7 @@ tags:
 aliases: ["Call Implement"]
 ---
 # Call Implement  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 2*  
-[arcane](rules/traits/arcane.md)  [conjuration](rules/traits/conjuration.md)  [manipulate](rules/traits/manipulate.md)  [teleportation](rules/traits/teleportation.md)  [thaumaturge](rules/traits/thaumaturge-da.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  [thaumaturge](rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
 
 - **Requirements**: You have a free hand.
 - **Activity** Single Action

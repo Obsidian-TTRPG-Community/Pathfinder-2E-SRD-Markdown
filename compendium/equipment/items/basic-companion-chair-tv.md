@@ -9,7 +9,7 @@ tags:
 aliases: ["Basic Companion Chair"]
 ---
 # Basic Companion Chair *Item 0*  
-[barding](rules/traits/barding-tv.md)  [companion](rules/traits/companion.md)  
+[barding](rules/traits/barding-tv.md "Barding Item Trait")  [companion](rules/traits/companion.md "Companion Item Trait")  
 
 - **Price** 4 sp
 - **Bulk** 1

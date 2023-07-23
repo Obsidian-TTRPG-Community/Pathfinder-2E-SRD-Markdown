@@ -8,7 +8,7 @@ tags:
 aliases: ["Impossible Technique"]
 ---
 # Impossible Technique  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 20*  
-[fortune](rules/traits/fortune.md)  [monk](rules/traits/monk.md)  
+[fortune](rules/traits/fortune.md "Fortune Effect Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Trigger** An enemy's attack hits you or you fail a saving throw against an enemy's ability.
 - **Requirements**: You are not armored or [fatigued](rules/conditions.md#Fatigued).

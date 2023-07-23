@@ -8,7 +8,7 @@ tags:
 aliases: ["Lead Investigator"]
 ---
 # Lead Investigator  *Feat 18*  
-[exploration](rules/traits/exploration.md)  [investigator](rules/traits/investigator-apg.md)  
+[exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [investigator](rules/traits/investigator-apg.md "Investigator Class Trait")  
 
 - **Prerequisites**: [Clue Them All In](compendium/feats/clue-them-all-in-apg.md)
 

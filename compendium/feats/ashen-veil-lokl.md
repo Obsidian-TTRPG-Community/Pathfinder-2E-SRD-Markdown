@@ -9,7 +9,7 @@ tags:
 aliases: ["Ashen Veil"]
 ---
 # Ashen Veil  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 7*  
-[archetype](rules/traits/archetype.md)  [manipulate](rules/traits/manipulate.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Knight Reclaimant Dedication](compendium/feats/knight-reclaimant-dedication-locg.md), expert in [Religion](compendium/skills.md#Religion), master in [Stealth](compendium/skills.md#Stealth)
 - **Activity** Three-Action

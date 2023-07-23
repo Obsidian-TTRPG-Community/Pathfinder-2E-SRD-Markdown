@@ -8,12 +8,12 @@ tags:
 aliases: ["Dazing Blow"]
 ---
 # Dazing Blow  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[fighter](rules/traits/fighter.md)  [press](rules/traits/press.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  [press](rules/traits/press.md "Press Combat Trait")  
 
 - **Requirements**: You have a creature [grabbed](rules/conditions.md#Grabbed).
 - **Activity** Single Action
 
-You pummel a held foe, hoping to stagger them. Make a melee [Strike](rules/actions/strike.md) against a creature you have [grabbed](rules/conditions.md#Grabbed). The weapon damage from this [Strike](rules/actions/strike.md) is bludgeoning damage. If the [Strike](rules/actions/strike.md) hits, the creature must attempt a Fortitude save against your class DC; this is an [incapacitation](rules/traits/incapacitation.md) effect.
+You pummel a held foe, hoping to stagger them. Make a melee [Strike](rules/actions/strike.md) against a creature you have [grabbed](rules/conditions.md#Grabbed). The weapon damage from this [Strike](rules/actions/strike.md) is bludgeoning damage. If the [Strike](rules/actions/strike.md) hits, the creature must attempt a Fortitude save against your class DC; this is an [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait") effect.
 
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.

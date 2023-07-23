@@ -7,7 +7,7 @@ tags:
 aliases: ["Gnome Weapon Familiarity"]
 ---
 # Gnome Weapon Familiarity  *Feat 1*  
-[gnome](rules/traits/gnome.md)  
+[gnome](rules/traits/gnome.md "Gnome Ancestry & Heritage Trait")  
 
 
 You favor unusual weapons tied to your people, such as blades with curved and peculiar shapes. You are trained with the [glaive](compendium/equipment/items/glaive.md) and [kukri](compendium/equipment/items/kukri.md).

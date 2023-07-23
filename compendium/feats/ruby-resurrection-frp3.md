@@ -10,7 +10,7 @@ tags:
 aliases: ["Ruby Resurrection"]
 ---
 # Ruby Resurrection  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 20*  
-[healing](rules/traits/healing.md)  [necromancy](rules/traits/necromancy.md)  [sorcerer](rules/traits/sorcerer.md)  [uncommon](rules/traits/uncommon.md)  
+[healing](rules/traits/healing.md "Healing Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Frequency**: once per day
 - **Trigger** You would be reduced to 0 Hit Points.

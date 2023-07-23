@@ -7,7 +7,7 @@ tags:
 aliases: ["Goloma Lore"]
 ---
 # Goloma Lore  *Feat 1*  
-[goloma](rules/traits/goloma-lome.md)  
+[goloma](rules/traits/goloma-lome.md "Goloma Ancestry & Heritage Trait")  
 
 
 You lived an insulated life focused on avoiding danger. You gain the trained proficiency rank in [Stealth](compendium/skills.md#Stealth) and [Survival](compendium/skills.md#Survival).

@@ -11,7 +11,7 @@ tags:
 aliases: ["Inquisitive Quill"]
 ---
 # Inquisitive Quill *Item 4*  
-[divination](rules/traits/divination.md)  [intelligent](rules/traits/intelligent-gmg.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [intelligent](rules/traits/intelligent-gmg.md "Intelligent Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** held in 1 hand or free-standing; **Bulk** —
 - **Category** Held

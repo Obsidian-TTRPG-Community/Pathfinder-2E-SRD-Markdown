@@ -12,7 +12,7 @@ tags:
 aliases: ["Venomous Cure Fulu"]
 ---
 # Venomous Cure Fulu *Item 3*  
-[consumable](rules/traits/consumable.md)  [fulu](rules/traits/fulu-som.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [talisman](rules/traits/talisman.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [fulu](rules/traits/fulu-som.md "Fulu Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  
 
 - **Price** 10 gp
 - **Usage** affixed to armor

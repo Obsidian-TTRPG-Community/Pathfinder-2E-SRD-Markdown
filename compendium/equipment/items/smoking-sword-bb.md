@@ -10,7 +10,7 @@ tags:
 aliases: ["Smoking Sword"]
 ---
 # Smoking Sword *Item 3*  
-[evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  [magical](rules/traits/magical.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 60 gp
 - **Category** Weapon
@@ -19,7 +19,7 @@ Smoke constantly belches from this longsword. Any hit with this sword deals 1 ex
 
 ```ad-embed-ability
 title: Stoke Flames [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[concentrate](rules/traits/concentrate.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
 
 Until the end of your turn, the blade deals `1d6` extra fire damage instead of just 1. After you use this action, you can't use it again for 10 minutes.  
 %% #trait/concentrate %%

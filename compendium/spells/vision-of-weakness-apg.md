@@ -11,7 +11,7 @@ tags:
 aliases: ["Vision Of Weakness"]
 ---
 # Vision Of Weakness *Focus 2*   
-[cursebound](rules/traits/cursebound-apg.md)  [divination](rules/traits/divination.md)  [oracle](rules/traits/oracle-apg.md)  [uncommon](rules/traits/uncommon.md)  
+[cursebound](rules/traits/cursebound-apg.md "Cursebound Spell Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Targets**1 creature

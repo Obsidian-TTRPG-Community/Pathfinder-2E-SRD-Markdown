@@ -9,9 +9,9 @@ tags:
 aliases: ["Blade Barrier"]
 ---
 # Blade Barrier *Spell 6*   
-[evocation](rules/traits/evocation.md)  [force](rules/traits/force.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**120 foot
 - **Duration**1 minute

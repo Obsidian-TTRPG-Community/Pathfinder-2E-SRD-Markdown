@@ -7,7 +7,7 @@ tags:
 aliases: ["Disorienting Venom"]
 ---
 # Disorienting Venom  *Feat 9*  
-[anadi](rules/traits/anadi-lome.md)  
+[anadi](rules/traits/anadi-lome.md "Anadi Ancestry & Heritage Trait")  
 
 - **Prerequisites**: Venomous Anadi
 

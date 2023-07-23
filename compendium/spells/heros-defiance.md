@@ -12,7 +12,7 @@ tags:
 aliases: ["Hero's Defiance"]
 ---
 # Hero's Defiance *Focus 10*   
-[champion](rules/traits/champion.md)  [healing](rules/traits/healing.md)  [necromancy](rules/traits/necromancy.md)  [positive](rules/traits/positive.md)  [uncommon](rules/traits/uncommon.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") 
 - **Trigger**An attack would bring you to 0 Hit Points.
@@ -23,6 +23,6 @@ Just before applying the attack's damage, you recover `10d4+20` Hit Points. If t
 
 Either way, cheating death is difficult, and you can't use hero's defiance again until you [Refocus](rules/actions/refocus.md) or the next time you prepare.
 
-Hero's defiance cannot be used against effects with the [death](rules/traits/death.md) trait or that would leave no remains, such as [disintegrate](compendium/spells/disintegrate.md).
+Hero's defiance cannot be used against effects with the [death](rules/traits/death.md "Death Effect Trait") trait or that would leave no remains, such as [disintegrate](compendium/spells/disintegrate.md).
 
 *Source: Core Rulebook p. 387*

@@ -11,7 +11,7 @@ tags:
 aliases: ["Thunder Sling"]
 ---
 # Thunder Sling *Item 0*  
-[agile](rules/traits/agile.md)  [propulsive](rules/traits/propulsive.md)  [tengu](rules/traits/tengu-b1.md)  [uncommon](rules/traits/uncommon.md)  
+[agile](rules/traits/agile.md "Agile Weapon Trait")  [propulsive](rules/traits/propulsive.md "Propulsive Weapon Trait")  [tengu](rules/traits/tengu-b1.md "Tengu Ancestry & Heritage Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 5 gp
 - **Bulk** L

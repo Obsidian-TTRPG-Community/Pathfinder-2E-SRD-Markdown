@@ -9,7 +9,7 @@ tags:
 aliases: ["Eldritch Archer Dedication"]
 ---
 # Eldritch Archer Dedication  *Feat 6*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [magical](rules/traits/magical.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Prerequisites**: expert in at least one type of bow
 

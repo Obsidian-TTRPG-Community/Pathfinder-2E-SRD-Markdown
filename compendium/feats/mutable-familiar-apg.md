@@ -7,7 +7,7 @@ tags:
 aliases: ["Mutable Familiar"]
 ---
 # Mutable Familiar  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Familiar Master Dedication](compendium/feats/familiar-master-dedication-apg.md)
 

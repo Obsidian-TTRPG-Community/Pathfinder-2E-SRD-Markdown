@@ -9,7 +9,7 @@ tags:
 aliases: ["Floating Shield"]
 ---
 # Floating Shield *Item 11+*  
-[magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Usage** strapped to 1 hand; **Bulk** L
 - **Category** Shield; **Group** Shield 

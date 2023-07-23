@@ -9,9 +9,9 @@ tags:
 aliases: ["Necrotize"]
 ---
 # Necrotize *Spell 6*   
-[necromancy](rules/traits/necromancy.md)  [negative](rules/traits/negative.md)  
+[necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [divine](rules/traits/divine.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**60 foot
 - **Targets**1 living creature

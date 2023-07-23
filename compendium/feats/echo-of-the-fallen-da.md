@@ -8,7 +8,7 @@ tags:
 aliases: ["Echo of the Fallen"]
 ---
 # Echo of the Fallen  *Feat 4*  
-[aftermath](rules/traits/aftermath-da.md)  [rare](rules/traits/rare.md)  
+[aftermath](rules/traits/aftermath-da.md "Aftermath Class Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Prerequisites**: You helped to lay a haunt, ghost, or spirit to rest.
 
@@ -16,9 +16,9 @@ With the utmost gratitude for your help in releasing them from their unearthly c
 
 ```ad-embed-ability
 title: Accept Echo [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[concentrate](rules/traits/concentrate.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
 
-You allow the echo to inhabit your body, gaining a glowing aura around you, shining pale-green irises, a resonating voice, and the silhouette of the spirit around your own body, all of which can be seen clearly by others. While in this state, you become trained in the weapon you chose and an expert in the skill you chose. Additionally, while you're in this state, the echo can speak and interact with the Material Plane using your body, and you gain a +4 status bonus to all saves against [possession](rules/traits/possession.md) effects, as the possessing spirit protects you from other possessions.
+You allow the echo to inhabit your body, gaining a glowing aura around you, shining pale-green irises, a resonating voice, and the silhouette of the spirit around your own body, all of which can be seen clearly by others. While in this state, you become trained in the weapon you chose and an expert in the skill you chose. Additionally, while you're in this state, the echo can speak and interact with the Material Plane using your body, and you gain a +4 status bonus to all saves against [possession](rules/traits/possession.md "Possession Effect Trait") effects, as the possessing spirit protects you from other possessions.
 
 This state lasts for 10 minutes, after which the echo disappears completely until the next time you make your daily preparations. You can [Dismiss](rules/actions/dismiss.md) this effect.
 

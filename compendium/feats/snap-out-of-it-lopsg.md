@@ -8,7 +8,7 @@ tags:
 aliases: ["Snap Out Of It!"]
 ---
 # Snap Out Of It!  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: master in [Medicine](compendium/skills.md#Medicine), [Pathfinder Agent Dedication](compendium/feats/pathfinder-agent-dedication-lowg.md)
 - **Activity** Two-Action

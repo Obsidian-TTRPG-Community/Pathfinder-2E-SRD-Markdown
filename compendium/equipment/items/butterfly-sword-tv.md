@@ -14,7 +14,7 @@ tags:
 aliases: ["Butterfly Sword"]
 ---
 # Butterfly Sword *Item 0*  
-[agile](rules/traits/agile.md)  [disarm](rules/traits/disarm.md)  [finesse](rules/traits/finesse.md)  [monk](rules/traits/monk.md)  [parry](rules/traits/parry.md)  [twin](rules/traits/twin.md)  [uncommon](rules/traits/uncommon.md)  
+[agile](rules/traits/agile.md "Agile Weapon Trait")  [disarm](rules/traits/disarm.md "Disarm Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  [parry](rules/traits/parry.md "Parry Weapon Trait")  [twin](rules/traits/twin.md "Twin Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** If the player character come from a region in Tian Xia, this weapon is common
 - **Price** 2 gp

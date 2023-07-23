@@ -8,7 +8,7 @@ tags:
 aliases: ["Forceful Push"]
 ---
 # Forceful Push  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [attack](rules/traits/attack.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [attack](rules/traits/attack.md "Attack Combat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [mage hand](compendium/spells/mage-hand.md)
 

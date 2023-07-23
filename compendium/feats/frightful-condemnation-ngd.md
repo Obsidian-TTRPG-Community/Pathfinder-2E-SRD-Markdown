@@ -11,7 +11,7 @@ tags:
 aliases: ["Frightful Condemnation"]
 ---
 # Frightful Condemnation  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  [emotion](rules/traits/emotion.md)  [fear](rules/traits/fear.md)  [mental](rules/traits/mental.md)  [vigilante](rules/traits/vigilante-apg.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [vigilante](rules/traits/vigilante-apg.md "Vigilante Feat Trait")  
 
 - **Prerequisites**: [Harsh Judgment](compendium/feats/harsh-judgment-ngd.md), [Vigilante Dedication](compendium/feats/vigilante-dedication-apg.md), member of the Gray Gardeners
 - **Trigger** You hit your condemned foe with a melee [Strike](rules/actions/strike.md) in the same turn during which you condemned it with Harsh Judgment.

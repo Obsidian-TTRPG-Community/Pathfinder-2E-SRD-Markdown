@@ -8,7 +8,7 @@ tags:
 aliases: ["Boaster's Challenge"]
 ---
 # Boaster's Challenge  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  [mental](rules/traits/mental.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 - **Prerequisites**: expert in [Deception](compendium/skills.md#Deception), [Diplomacy](compendium/skills.md#Diplomacy), or [Intimidation](compendium/skills.md#Intimidation); [Firebrand Braggart Dedication](compendium/feats/firebrand-braggart-dedication-locg.md)
 - **Activity** Single Action

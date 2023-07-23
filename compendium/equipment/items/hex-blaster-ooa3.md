@@ -15,7 +15,7 @@ tags:
 aliases: ["Hex Blaster"]
 ---
 # Hex Blaster *Item 11*  
-[curse](rules/traits/curse.md)  [emotion](rules/traits/emotion.md)  [enchantment](rules/traits/enchantment.md)  [fear](rules/traits/fear.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  [occult](rules/traits/occult.md)  [unique](rules/traits/unique.md)  
+[curse](rules/traits/curse.md "Curse Effect Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Price** 1400 gp
 - **Usage** held in 2 hands; **Bulk** 2
@@ -32,7 +32,7 @@ You afflict a creature you can see with a hex of impending doom. The hex lasts f
 > - **Critical Success** The creature is unaffected.
 > - **Success** The creature is [frightened](rules/conditions.md#Frightened). It also takes `1d6` [persistent mental damage](rules/conditions.md#Persistent%20Damage).
 > - **Failure** The creature is [frightened](rules/conditions.md#Frightened). It also takes `2d6` [persistent mental damage](rules/conditions.md#Persistent%20Damage).
-> - **Critical Failure** The creature is [frightened](rules/conditions.md#Frightened) and [slowed](rules/conditions.md#Slowed) for 1 minute. It also takes `4d6` [persistent mental damage](rules/conditions.md#Persistent%20Damage) and is cursed with a hex of impending doom. If the target falls [unconscious](rules/conditions.md#Unconscious) from damage dealt by this [Strike](rules/actions/strike.md) or the [persistent mental damage](rules/conditions.md#Persistent%20Damage), it remains [unconscious](rules/conditions.md#Unconscious) for 1 day or until this curse is removed. After 1 day, if the creature is still [unconscious](rules/conditions.md#Unconscious), it must succeed at a DC 28 Fortitude save or die; this effect has the [death](rules/traits/death.md) and [incapacitation](rules/traits/incapacitation.md) traits.
+> - **Critical Failure** The creature is [frightened](rules/conditions.md#Frightened) and [slowed](rules/conditions.md#Slowed) for 1 minute. It also takes `4d6` [persistent mental damage](rules/conditions.md#Persistent%20Damage) and is cursed with a hex of impending doom. If the target falls [unconscious](rules/conditions.md#Unconscious) from damage dealt by this [Strike](rules/actions/strike.md) or the [persistent mental damage](rules/conditions.md#Persistent%20Damage), it remains [unconscious](rules/conditions.md#Unconscious) for 1 day or until this curse is removed. After 1 day, if the creature is still [unconscious](rules/conditions.md#Unconscious), it must succeed at a DC 28 Fortitude save or die; this effect has the [death](rules/traits/death.md "Death Effect Trait") and [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait") traits.
 ```
 
 *Source: Outlaws of Alkenstar #3: The Smoking Gun p. 73*

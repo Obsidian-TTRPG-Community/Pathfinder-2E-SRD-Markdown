@@ -11,7 +11,7 @@ tags:
 aliases: ["Touch Of Obedience"]
 ---
 # Touch Of Obedience *Focus 1*   
-[cleric](rules/traits/cleric.md)  [enchantment](rules/traits/enchantment.md)  [mental](rules/traits/mental.md)  [uncommon](rules/traits/uncommon.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Domains**: [tyranny](compendium/setting/domains.md#Tyranny)
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 

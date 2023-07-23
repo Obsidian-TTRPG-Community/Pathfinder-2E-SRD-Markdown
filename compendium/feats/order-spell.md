@@ -7,7 +7,7 @@ tags:
 aliases: ["Order Spell"]
 ---
 # Order Spell  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Druid Dedication](compendium/feats/druid-dedication.md)
 

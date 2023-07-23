@@ -14,7 +14,7 @@ tags:
 aliases: ["Miraculous Repair"]
 ---
 # Miraculous Repair  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 9*  
-[arcane](rules/traits/arcane.md)  [concentrate](rules/traits/concentrate.md)  [ifrit](rules/traits/ifrit-b2.md)  [oread](rules/traits/oread-b2.md)  [suli](rules/traits/suli-b2.md)  [sylph](rules/traits/sylph-b2.md)  [transmutation](rules/traits/transmutation.md)  [undine](rules/traits/undine-b2.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [ifrit](rules/traits/ifrit-b2.md "Ifrit Ancestry & Heritage Trait")  [oread](rules/traits/oread-b2.md "Oread Ancestry & Heritage Trait")  [suli](rules/traits/suli-b2.md "Suli Ancestry & Heritage Trait")  [sylph](rules/traits/sylph-b2.md "Sylph Ancestry & Heritage Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [undine](rules/traits/undine-b2.md "Undine Ancestry & Heritage Trait")  
 
 - **Frequency**: once per day
 - **Activity** Three-Action

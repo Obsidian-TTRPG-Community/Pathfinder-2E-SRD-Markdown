@@ -11,7 +11,7 @@ tags:
 aliases: ["Mindfog Mist"]
 ---
 # Mindfog Mist *Item 15*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [inhaled](rules/traits/inhaled.md)  [poison](rules/traits/poison.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [inhaled](rules/traits/inhaled.md "Inhaled Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Price** 1000 gp
 - **Usage** held in 1 hand; **Bulk** L

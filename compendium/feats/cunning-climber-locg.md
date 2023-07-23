@@ -7,7 +7,7 @@ tags:
 aliases: ["Cunning Climber"]
 ---
 # Cunning Climber  *Feat 9*  
-[halfling](rules/traits/halfling.md)  
+[halfling](rules/traits/halfling.md "Halfling Ancestry & Heritage Trait")  
 
 
 Whether you are climbing a ship's rigging, a jungle tree, or a clock tower, you have an uncanny knack for finding footholds and handholds where larger creatures can't.

@@ -13,7 +13,7 @@ tags:
 aliases: ["Angelic Halo"]
 ---
 # Angelic Halo *Focus 1*   
-[abjuration](rules/traits/abjuration.md)  [aura](rules/traits/aura.md)  [good](rules/traits/good.md)  [sorcerer](rules/traits/sorcerer.md)  [uncommon](rules/traits/uncommon.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [aura](rules/traits/aura.md "Aura Combat Trait")  [good](rules/traits/good.md "Good Alignment Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bloodline** Sorcerer
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 

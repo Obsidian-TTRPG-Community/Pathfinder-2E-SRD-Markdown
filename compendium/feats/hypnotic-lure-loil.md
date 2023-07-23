@@ -12,7 +12,7 @@ tags:
 aliases: ["Hypnotic Lure"]
 ---
 # Hypnotic Lure  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 5*  
-[concentrate](rules/traits/concentrate.md)  [enchantment](rules/traits/enchantment.md)  [mental](rules/traits/mental.md)  [nagaji](rules/traits/nagaji-loil.md)  [occult](rules/traits/occult.md)  [visual](rules/traits/visual.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [nagaji](rules/traits/nagaji-loil.md "Nagaji Ancestry & Heritage Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Frequency**: once per hour
 - **Activity** Two-Action

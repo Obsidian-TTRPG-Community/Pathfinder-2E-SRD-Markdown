@@ -9,9 +9,9 @@ tags:
 aliases: ["Blood Vendetta"]
 ---
 # Blood Vendetta *Spell 2*   
-[curse](rules/traits/curse.md)  [necromancy](rules/traits/necromancy.md)  
+[curse](rules/traits/curse.md "Curse Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [divine](rules/traits/divine.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
 - **Trigger**A creature deals piercing, slashing, or [persistent bleed damage](rules/conditions.md#Persistent%20Damage) to you
 - **Requirements**You can bleed.

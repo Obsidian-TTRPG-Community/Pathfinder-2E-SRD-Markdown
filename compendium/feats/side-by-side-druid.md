@@ -7,7 +7,7 @@ tags:
 aliases: ["Side By Side (Druid)"]
 ---
 # Side By Side (Druid)  *Feat 10*  
-[druid](rules/traits/druid.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  
 
 - **Prerequisites**: Animal Companion
 

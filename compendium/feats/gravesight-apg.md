@@ -7,7 +7,7 @@ tags:
 aliases: ["Gravesight"]
 ---
 # Gravesight  *Feat 1*  
-[duskwalker](rules/traits/duskwalker-apg.md)  
+[duskwalker](rules/traits/duskwalker-apg.md "Duskwalker Ancestry & Heritage Trait")  
 
 - **Prerequisites**: low-light vision
 

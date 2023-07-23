@@ -15,7 +15,7 @@ Whether you study to further your own ambitions or simply out of fascination wit
 title: Linguist Dedication, Feat 2
 collapse: closed
 # Linguist Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: You speak at least three languages.
 
@@ -31,7 +31,7 @@ You have studied languages and their development. You become trained in [Society
 title: Multilingual Cipher, Feat 4
 collapse: closed
 # Multilingual Cipher  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Linguist Dedication](compendium/feats/linguist-dedication-apg.md), expert in [Society](compendium/skills.md#Society)
 
@@ -45,7 +45,7 @@ You use multiple languages to create and break codes. You gain a +1 circumstance
 title: Phonetic Training, Feat 4
 collapse: closed
 # Phonetic Training  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Linguist Dedication](compendium/feats/linguist-dedication-apg.md), expert in [Society](compendium/skills.md#Society)
 
@@ -61,10 +61,10 @@ Memorizing long sequences of words remains just as difficult as it is normally.
 title: Spot Translate, Feat 4
 collapse: closed
 # Spot Translate  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 4*  
-[archetype](rules/traits/archetype.md)  [auditory](rules/traits/auditory.md)  [linguistic](rules/traits/linguistic.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  
 
 - **Prerequisites**: [Linguist Dedication](compendium/feats/linguist-dedication-apg.md)
-- **Trigger** Another creature within 60 feet uses a [linguistic](rules/traits/linguistic.md) effect in a language you understand.
+- **Trigger** Another creature within 60 feet uses a [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait") effect in a language you understand.
 - **Activity** Reaction
 
 You interpret a creature's words, repeating their message in a different language that you know. If the triggering effect's targets speak either the original language or the one you translated into, they are affected.
@@ -77,7 +77,7 @@ You interpret a creature's words, repeating their message in a different languag
 title: Analyze Idiolect, Feat 6
 collapse: closed
 # Analyze Idiolect  *Feat 6*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Linguist Dedication](compendium/feats/linguist-dedication-apg.md), expert in [Deception](compendium/skills.md#Deception) and [Society](compendium/skills.md#Society)
 
@@ -91,7 +91,7 @@ You break down a specific individual's idiolect, memorizing their speech manneri
 title: Read Shibboleths, Feat 7
 collapse: closed
 # Read Shibboleths  *Feat 7*  
-[archetype](rules/traits/archetype.md)  [linguistic](rules/traits/linguistic.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Linguist Dedication](compendium/feats/linguist-dedication-apg.md), master in [Society](compendium/skills.md#Society)
 
@@ -107,7 +107,7 @@ Once you've gleaned one or more true minor facts about a person, you can then in
 title: Crude Communication, Feat 8
 collapse: closed
 # Crude Communication  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Linguist Dedication](compendium/feats/linguist-dedication-apg.md)
 

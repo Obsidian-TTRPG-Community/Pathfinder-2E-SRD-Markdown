@@ -11,7 +11,7 @@ tags:
 aliases: ["Restorative Moment"]
 ---
 # Restorative Moment *Focus 5*   
-[hex](rules/traits/hex-apg.md)  [necromancy](rules/traits/necromancy.md)  [uncommon](rules/traits/uncommon.md)  [witch](rules/traits/witch-apg.md)  
+[hex](rules/traits/hex-apg.md "Hex Combat Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [witch](rules/traits/witch-apg.md "Witch Class Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot

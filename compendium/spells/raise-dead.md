@@ -10,9 +10,9 @@ tags:
 aliases: ["Raise Dead"]
 ---
 # Raise Dead *Spell 6*   
-[healing](rules/traits/healing.md)  [necromancy](rules/traits/necromancy.md)  [uncommon](rules/traits/uncommon.md)  
+[healing](rules/traits/healing.md "Healing Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait")
 - **Cast** 10 minutes 
 - **Cost**diamonds worth a total value of the target's level (minimum 1) × 200 gp
 - **Range**10 foot

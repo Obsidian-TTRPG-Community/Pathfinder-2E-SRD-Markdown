@@ -7,7 +7,7 @@ tags:
 aliases: ["Debilitating Dichotomy"]
 ---
 # Debilitating Dichotomy  *Feat 8*  
-[oracle](rules/traits/oracle-apg.md)  
+[oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  
 
 
 You can give others a glimpse of the impossible conflicts and unchecked power that courses through your body. You learn the [debilitating dichotomy](compendium/spells/debilitating-dichotomy-apg.md) revelation spell. Increase the number of Focus Points in your focus pool by 1.

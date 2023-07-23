@@ -7,7 +7,7 @@ tags:
 aliases: ["Impaling Briars"]
 ---
 # Impaling Briars  *Feat 16*  
-[druid](rules/traits/druid.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  
 
 - **Prerequisites**: Leaf order
 

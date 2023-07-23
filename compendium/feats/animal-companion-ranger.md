@@ -7,7 +7,7 @@ tags:
 aliases: ["Animal Companion (Ranger)"]
 ---
 # Animal Companion (Ranger)  *Feat 1*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 
 You gain the service of a young animal companion that travels with you and obeys simple commands as best as it can. See Animal Companions. When you [Hunt Prey](rules/actions/hunt-prey.md), your animal companion gains the action's benefits and your hunter's edge benefit if you have one.

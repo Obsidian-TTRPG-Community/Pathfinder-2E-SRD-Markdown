@@ -11,7 +11,7 @@ tags:
 aliases: ["Cryolite Eye"]
 ---
 # Cryolite Eye *Item 6*  
-[contract](rules/traits/contract-lol.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[contract](rules/traits/contract-lol.md "Contract Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Category** Contract
 

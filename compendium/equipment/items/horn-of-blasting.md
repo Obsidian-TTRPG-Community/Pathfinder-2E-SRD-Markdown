@@ -9,7 +9,7 @@ tags:
 aliases: ["Horn of Blasting"]
 ---
 # Horn of Blasting *Item 9*  
-[evocation](rules/traits/evocation.md)  [sonic](rules/traits/sonic.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  
 
 - **Price** 700 gp
 - **Usage** held in 1 hand; **Bulk** L

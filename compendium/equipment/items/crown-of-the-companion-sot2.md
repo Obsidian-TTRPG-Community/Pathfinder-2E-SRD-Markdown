@@ -13,7 +13,7 @@ tags:
 aliases: ["Crown Of The Companion"]
 ---
 # Crown Of The Companion *Item 6*  
-[healing](rules/traits/healing.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [positive](rules/traits/positive.md)  [uncommon](rules/traits/uncommon.md)  
+[healing](rules/traits/healing.md "Healing Effect Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 250 gp
 - **Usage** worn crown; **Bulk** L

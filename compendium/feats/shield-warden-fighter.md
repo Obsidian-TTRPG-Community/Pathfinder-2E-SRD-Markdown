@@ -7,7 +7,7 @@ tags:
 aliases: ["Shield Warden (Fighter)"]
 ---
 # Shield Warden (Fighter)  *Feat 6*  
-[fighter](rules/traits/fighter.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 - **Prerequisites**: [Shield Block](compendium/feats/shield-block.md)
 

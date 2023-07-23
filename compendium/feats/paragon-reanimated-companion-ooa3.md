@@ -7,7 +7,7 @@ tags:
 aliases: ["Paragon Reanimated Companion"]
 ---
 # Paragon Reanimated Companion  *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Incredible Reanimated Companion](compendium/feats/incredible-reanimated-companion-ooa3.md)
 

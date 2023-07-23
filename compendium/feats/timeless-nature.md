@@ -7,10 +7,10 @@ tags:
 aliases: ["Timeless Nature"]
 ---
 # Timeless Nature  *Feat 14*  
-[druid](rules/traits/druid.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  
 
 
-With primal magic sustaining you, you cease aging. The overflowing primal energy gives you a +2 status bonus to saves against [diseases](rules/traits/disease.md) and primal magic.
+With primal magic sustaining you, you cease aging. The overflowing primal energy gives you a +2 status bonus to saves against diseases and primal magic.
 
 *Source: Core Rulebook p. 139*  
 %% #compendium/src/pf2e/crb #trait/druid %%

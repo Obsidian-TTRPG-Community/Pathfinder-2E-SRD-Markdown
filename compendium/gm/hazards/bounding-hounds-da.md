@@ -8,7 +8,7 @@ tags:
 aliases: ["Bounding Hounds"]
 ---
 # Bounding Hounds *Hazard 13*  
-[complex](rules/traits/complex.md)  [haunt](rules/traits/haunt.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** DC 37  
@@ -25,7 +25,7 @@ Three phantom hounds chase down intruders, damaging any they pass through.
      
 ```ad-embed-ability
 title: Bay [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[evocation](rules/traits/evocation.md)  [sonic](rules/traits/sonic.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  
 
 - **Trigger**: A creature enters the area
 

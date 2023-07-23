@@ -10,7 +10,7 @@ tags:
 aliases: ["Contagious Rage"]
 ---
 # Contagious Rage  *Feat 20*  
-[auditory](rules/traits/auditory.md)  [barbarian](rules/traits/barbarian.md)  [rage](rules/traits/rage.md)  [visual](rules/traits/visual.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [rage](rules/traits/rage.md "Rage Combat Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Prerequisites**: [Share Rage](compendium/feats/share-rage.md)
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Sneaky"]
 ---
 # Sneaky  *Feat 1*  
-[hobgoblin](rules/traits/hobgoblin-locg.md)  
+[hobgoblin](rules/traits/hobgoblin-locg.md "Hobgoblin Ancestry & Heritage Trait")  
 
 
 [Stealth](compendium/skills.md#Stealth) is an important tool in your arsenal. You can move 5 feet farther when you take the [Sneak](rules/actions/sneak.md) action, up to your Speed.

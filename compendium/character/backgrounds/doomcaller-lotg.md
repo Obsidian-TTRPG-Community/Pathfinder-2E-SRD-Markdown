@@ -19,7 +19,7 @@ You're trained in Occultism and Star Lore. You also gain the Stellar Misfortune 
 
 ```ad-embed-ability
 title: Stellar Misfortune [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
-[divination](rules/traits/divination.md)  [misfortune](rules/traits/misfortune.md)  [occult](rules/traits/occult.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [misfortune](rules/traits/misfortune.md "Misfortune Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 - **Trigger**: A creature you can see is about to attempt a saving throw, attack roll, or skill check
 - **Requirements**: You must be under the night sky with the stars visible

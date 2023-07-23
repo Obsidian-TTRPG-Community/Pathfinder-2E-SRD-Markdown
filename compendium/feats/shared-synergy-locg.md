@@ -7,7 +7,7 @@ tags:
 aliases: ["Shared Synergy"]
 ---
 # Shared Synergy  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Dualistic Synergy](compendium/feats/dualistic-synergy-locg.md)
 

@@ -9,7 +9,7 @@ tags:
 aliases: ["Familiar's Eyes"]
 ---
 # Familiar's Eyes  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 12*  
-[concentrate](rules/traits/concentrate.md)  [divination](rules/traits/divination.md)  [witch](rules/traits/witch-apg.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [witch](rules/traits/witch-apg.md "Witch Class Trait")  
 
 - **Prerequisites**: a familiar
 - **Activity** Single Action

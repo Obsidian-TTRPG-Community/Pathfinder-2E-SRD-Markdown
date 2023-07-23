@@ -11,7 +11,7 @@ tags:
 aliases: ["Spangled Rider's Suit"]
 ---
 # Spangled Rider's Suit *Item 9*  
-[divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 700 gp
 - **Usage** worn armor; **Bulk** 1

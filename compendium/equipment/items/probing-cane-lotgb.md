@@ -9,7 +9,7 @@ tags:
 aliases: ["Probing Cane"]
 ---
 # Probing Cane *Item 0*  
-[finesse](rules/traits/finesse.md)  [sweep](rules/traits/sweep.md)  
+[finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [sweep](rules/traits/sweep.md "Sweep Weapon Trait")  
 
 - **Price** 5 sp
 - **Bulk** L
@@ -21,6 +21,6 @@ Your cane indicates that you have low vision or are blind. By holding this cane 
 
 The cane is typically several feet long, generally reaching the user's chin, but can be lengthened or shortened as needed.
 
-Probing canes are made from reinforced wood with the same strengthening process and treatment as a [longbow](compendium/equipment/items/longbow.md), creating a cane that is both high quality and durable enough for an adventuring owner to use as a weapon. A probing cane deals `1d6` bludgeoning damage, has the [finesse](rules/traits/finesse.md) and [sweep](rules/traits/sweep.md) traits, and is a martial melee weapon in the club weapon group.
+Probing canes are made from reinforced wood with the same strengthening process and treatment as a [longbow](compendium/equipment/items/longbow.md), creating a cane that is both high quality and durable enough for an adventuring owner to use as a weapon. A probing cane deals `1d6` bludgeoning damage, has the [finesse](rules/traits/finesse.md "Finesse Weapon Trait") and [sweep](rules/traits/sweep.md "Sweep Weapon Trait") traits, and is a martial melee weapon in the club weapon group.
 
 *Source: Lost Omens: The Grand Bazaar p. 67*

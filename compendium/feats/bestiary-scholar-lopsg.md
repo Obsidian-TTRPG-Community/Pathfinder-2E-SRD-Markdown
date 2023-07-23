@@ -7,7 +7,7 @@ tags:
 aliases: ["Bestiary Scholar"]
 ---
 # Bestiary Scholar  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: master in [Arcana](compendium/skills.md#Arcana), [Crafting](compendium/skills.md#Crafting), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), or [Religion](compendium/skills.md#Religion); [Scrollmaster Dedication](compendium/feats/scrollmaster-dedication-locg.md)
 

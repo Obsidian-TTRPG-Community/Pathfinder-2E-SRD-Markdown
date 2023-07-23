@@ -7,7 +7,7 @@ tags:
 aliases: ["Grave's Voice"]
 ---
 # Grave's Voice  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Ghost Hunter Dedication](compendium/feats/ghost-hunter-dedication-av1.md)
 

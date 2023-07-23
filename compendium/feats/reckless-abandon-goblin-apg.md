@@ -8,7 +8,7 @@ tags:
 aliases: ["Reckless Abandon (Goblin)"]
 ---
 # Reckless Abandon (Goblin)  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 17*  
-[fortune](rules/traits/fortune.md)  [goblin](rules/traits/goblin.md)  
+[fortune](rules/traits/fortune.md "Fortune Effect Trait")  [goblin](rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  
 
 - **Frequency**: once per day
 - **Activity** Free Action

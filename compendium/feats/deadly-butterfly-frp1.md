@@ -7,7 +7,7 @@ tags:
 aliases: ["Deadly Butterfly"]
 ---
 # Deadly Butterfly  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Butterfly Blade Dedication](compendium/feats/butterfly-blade-dedication-frp1.md)
 

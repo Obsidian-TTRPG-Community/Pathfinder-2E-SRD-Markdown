@@ -10,7 +10,7 @@ tags:
 aliases: ["Warrior's Training Ring"]
 ---
 # Warrior's Training Ring *Item 5*  
-[divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [uncommon](rules/traits/uncommon.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 160 gp
 - **Usage** worn

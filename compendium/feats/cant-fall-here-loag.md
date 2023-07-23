@@ -9,7 +9,7 @@ tags:
 aliases: ["Can't Fall Here"]
 ---
 # Can't Fall Here  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 13*  
-[auditory](rules/traits/auditory.md)  [hobgoblin](rules/traits/hobgoblin-locg.md)  [manipulate](rules/traits/manipulate.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [hobgoblin](rules/traits/hobgoblin-locg.md "Hobgoblin Ancestry & Heritage Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 
 - **Frequency**: once per day
 - **Trigger** An adjacent and willing ally would be reduced to 0 HP but not killed.

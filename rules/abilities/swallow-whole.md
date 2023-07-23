@@ -6,7 +6,7 @@ tags:
 aliases: ["Swallow Whole"]
 ---
 # Swallow Whole [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[attack](rules/traits/attack.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  
 
 The monster attempts to swallow a creature of the listed size or smaller that it has [grabbed](rules/conditions.md#Grabbed) in its jaws or mouth. If a swallowed creature is of the maximum size listed, the monster can't use Swallow Whole again. If the creature is smaller than the maximum, the monster can usually swallow more creatures; the GM determines the maximum. The monster attempts an [Athletics](compendium/skills.md#Athletics) check opposed by the [grabbed](rules/conditions.md#Grabbed) creature's Reflex DC. If it succeeds, it swallows the creature. The monster's mouth or jaws no longer grab a creature it has swallowed, so the monster is free to use them to [Strike](rules/actions/strike.md) or Grab once again. The monster can't attack creatures it has swallowed.
 

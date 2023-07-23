@@ -11,9 +11,9 @@ tags:
 aliases: ["Zone Of Truth"]
 ---
 # Zone Of Truth *Spell 3*   
-[enchantment](rules/traits/enchantment.md)  [mental](rules/traits/mental.md)  [uncommon](rules/traits/uncommon.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md), [occult](rules/traits/occult.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot
 - **Area**20-foot burst

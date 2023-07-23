@@ -9,7 +9,7 @@ tags:
 aliases: ["Traveling Companion's Chair"]
 ---
 # Traveling Companion's Chair *Item 1*  
-[barding](rules/traits/barding-tv.md)  [companion](rules/traits/companion.md)  
+[barding](rules/traits/barding-tv.md "Barding Item Trait")  [companion](rules/traits/companion.md "Companion Item Trait")  
 
 - **Price** 4 gp
 - **Bulk** 1

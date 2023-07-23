@@ -11,7 +11,7 @@ tags:
 aliases: ["The Whispering Reeds"]
 ---
 # The Whispering Reeds *Item 10*  
-[artifact](rules/traits/artifact-gmg.md)  [divination](rules/traits/divination.md)  [occult](rules/traits/occult.md)  [rare](rules/traits/rare.md)  
+[artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** held in 2 hands; **Bulk** 2
 - **Category** Artifact
@@ -41,7 +41,7 @@ You read aloud a phrase from the book and target a single incorporeal undead cre
 ```ad-embed-ability
 title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
 
-You invoke a tale from The Whispering Reeds that parallels the situation, environment, or creatures nearby. Eerie mists and indistinct whispers rise in a 20-foot emanation around you, and clusters of seven perfectly spaced divots manifest in the ground, vegetation, and flesh of creatures in the emanation other than yourself and up to three creatures you designate at the time of activation. Creatures afflicted with these divots suffer from agonizing mental anguish in the form of crippling despair and take `4d6` mental damage (DC 27 basic Will save). The mists, whispers, and strange divots fade away at the end of the round, but any creature that takes mental damage from the effect also takes a –1 penalty to saving throws against effects with the [emotion](rules/traits/emotion.md) trait for 1 minute. You are exposed to the Empty Death each time you use this ability.
+You invoke a tale from The Whispering Reeds that parallels the situation, environment, or creatures nearby. Eerie mists and indistinct whispers rise in a 20-foot emanation around you, and clusters of seven perfectly spaced divots manifest in the ground, vegetation, and flesh of creatures in the emanation other than yourself and up to three creatures you designate at the time of activation. Creatures afflicted with these divots suffer from agonizing mental anguish in the form of crippling despair and take `4d6` mental damage (DC 27 basic Will save). The mists, whispers, and strange divots fade away at the end of the round, but any creature that takes mental damage from the effect also takes a –1 penalty to saving throws against effects with the [emotion](rules/traits/emotion.md "Emotion Effect Trait") trait for 1 minute. You are exposed to the Empty Death each time you use this ability.
 ```
 
 ```ad-embed-ability

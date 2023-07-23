@@ -11,7 +11,7 @@ tags:
 aliases: ["Resonating Ammunition"]
 ---
 # Resonating Ammunition *Item 11*  
-[consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [sonic](rules/traits/sonic.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  
 
 - **Price** 1200 gp
 - **Ammunition** arrow, bolt

@@ -11,7 +11,7 @@ tags:
 aliases: ["Baleblood Draft"]
 ---
 # Baleblood Draft *Item 10*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [elixir](rules/traits/elixir.md)  [rare](rules/traits/rare.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [elixir](rules/traits/elixir.md "Elixir Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 155 gp
 - **Usage** held in 1 hand; **Bulk** L

@@ -8,7 +8,7 @@ tags:
 aliases: ["Legendary Negotiation"]
 ---
 # Legendary Negotiation  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 15*  
-[general](rules/traits/general.md)  [skill](rules/traits/skill.md)  
+[general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: legendary in [Diplomacy](compendium/skills.md#Diplomacy)
 - **Activity** Three-Action

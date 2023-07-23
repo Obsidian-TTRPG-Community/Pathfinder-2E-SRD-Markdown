@@ -7,7 +7,7 @@ tags:
 aliases: ["Domain Focus"]
 ---
 # Domain Focus  *Feat 12*  
-[cleric](rules/traits/cleric.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  
 
 - **Prerequisites**: one or more domain spells
 

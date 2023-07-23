@@ -8,7 +8,7 @@ tags:
 aliases: ["Distracting Performance"]
 ---
 # Distracting Performance  *Feat 2*  
-[general](rules/traits/general.md)  [skill](rules/traits/skill.md)  
+[general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: expert in [Performance](compendium/skills.md#Performance)
 

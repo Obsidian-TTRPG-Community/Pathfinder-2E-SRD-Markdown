@@ -10,7 +10,7 @@ aliases: ["Bog Rot"]
 ---
 # Bog Rot
 *Disease 0*  
-[disease](rules/traits/disease.md)  
+[disease](rules/traits/disease.md "Disease Effect Trait")  
 
 Sometimes called bog foot, bog rot is caused by having waterlogged feet for an extended period of time. In addition to the usual cures for an affliction, bog rot can be cured through amputation of the affected appendages.
 

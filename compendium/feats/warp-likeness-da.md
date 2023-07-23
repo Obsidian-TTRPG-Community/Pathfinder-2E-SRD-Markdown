@@ -10,7 +10,7 @@ tags:
 aliases: ["Warp Likeness"]
 ---
 # Warp Likeness  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 5*  
-[morph](rules/traits/morph.md)  [occult](rules/traits/occult.md)  [reflection](rules/traits/reflection-da.md)  [transmutation](rules/traits/transmutation.md)  
+[morph](rules/traits/morph.md "Morph Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [reflection](rules/traits/reflection-da.md "Reflection Ancestry & Heritage Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Prerequisites**: [Morph-Risen](compendium/feats/morph-risen-da.md)
 - **Frequency**: once per minute

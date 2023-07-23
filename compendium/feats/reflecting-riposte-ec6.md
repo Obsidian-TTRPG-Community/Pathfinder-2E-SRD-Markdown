@@ -8,7 +8,7 @@ tags:
 aliases: ["Reflecting Riposte"]
 ---
 # Reflecting Riposte  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 20*  
-[fighter](rules/traits/fighter.md)  [uncommon](rules/traits/uncommon.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Dueling Riposte](compendium/feats/dueling-riposte.md), [Mirror Shield](compendium/feats/mirror-shield.md), or Twin Riposte
 - **Trigger** An opponent casts a spell and you critically succeed at a saving throw against it.

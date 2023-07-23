@@ -12,7 +12,7 @@ tags:
 aliases: ["Fire Ray"]
 ---
 # Fire Ray *Focus 1*   
-[attack](rules/traits/attack.md)  [cleric](rules/traits/cleric.md)  [evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  [uncommon](rules/traits/uncommon.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  [cleric](rules/traits/cleric.md "Cleric Class Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Domains**: [fire](compendium/setting/domains.md#Fire)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Revealing Stab"]
 ---
 # Revealing Stab  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 6*  
-[fighter](rules/traits/fighter.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 - **Requirements**: You are wielding a melee weapon that deals piercing damage.
 - **Activity** Two-Action

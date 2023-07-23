@@ -9,7 +9,7 @@ tags:
 aliases: ["Voice of Authority"]
 ---
 # Voice of Authority  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [auditory](rules/traits/auditory.md)  [vigilante](rules/traits/vigilante-apg.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [vigilante](rules/traits/vigilante-apg.md "Vigilante Feat Trait")  
 
 - **Prerequisites**: expert in [Intimidation](compendium/skills.md#Intimidation), [Vigilante Dedication](compendium/feats/vigilante-dedication-apg.md), member of the Gray Gardeners
 

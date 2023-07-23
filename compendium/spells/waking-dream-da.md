@@ -9,7 +9,7 @@ tags:
 aliases: ["Waking Dream"]
 ---
 # Waking Dream *Focus 4*   
-[enchantment](rules/traits/enchantment.md)  [mental](rules/traits/mental.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**60 foot

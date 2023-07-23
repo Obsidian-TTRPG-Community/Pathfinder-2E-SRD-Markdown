@@ -12,7 +12,7 @@ tags:
 aliases: ["One For All"]
 ---
 # One For All  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
-[auditory](rules/traits/auditory.md)  [concentrate](rules/traits/concentrate.md)  [emotion](rules/traits/emotion.md)  [linguistic](rules/traits/linguistic.md)  [mental](rules/traits/mental.md)  [swashbuckler](rules/traits/swashbuckler-apg.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [swashbuckler](rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  
 
 - **Prerequisites**: trained in [Diplomacy](compendium/skills.md#Diplomacy)
 - **Activity** Single Action

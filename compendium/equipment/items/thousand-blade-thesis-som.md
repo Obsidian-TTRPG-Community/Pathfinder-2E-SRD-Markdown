@@ -11,7 +11,7 @@ tags:
 aliases: ["Thousand-blade Thesis"]
 ---
 # Thousand-blade Thesis *Item 9*  
-[extradimensional](rules/traits/extradimensional.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[extradimensional](rules/traits/extradimensional.md "Extradimensional Effect Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 600 gp
 - **Usage** held in 1 hand; **Bulk** L

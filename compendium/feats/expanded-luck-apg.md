@@ -7,7 +7,7 @@ tags:
 aliases: ["Expanded Luck"]
 ---
 # Expanded Luck  *Feat 5*  
-[catfolk](rules/traits/catfolk-b1.md)  
+[catfolk](rules/traits/catfolk-b1.md "Catfolk Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Cat's Luck](compendium/feats/cats-luck-apg.md)
 

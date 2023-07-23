@@ -7,7 +7,7 @@ tags:
 aliases: ["Venom Purge"]
 ---
 # Venom Purge  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 13*  
-[vishkanya](rules/traits/vishkanya-loil.md)  
+[vishkanya](rules/traits/vishkanya-loil.md "Vishkanya Ancestry & Heritage Trait")  
 
 - **Prerequisites**: trained in [Medicine](compendium/skills.md#Medicine)
 - **Frequency**: once per day

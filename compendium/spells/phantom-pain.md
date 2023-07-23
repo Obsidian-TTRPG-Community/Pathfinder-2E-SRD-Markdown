@@ -10,9 +10,9 @@ tags:
 aliases: ["Phantom Pain"]
 ---
 # Phantom Pain *Spell 1*   
-[illusion](rules/traits/illusion.md)  [mental](rules/traits/mental.md)  [nonlethal](rules/traits/nonlethal.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait")  
 
-- **Traditions**: [occult](rules/traits/occult.md)
+- **Traditions**: [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot
 - **Targets**1 creature

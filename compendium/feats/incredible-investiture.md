@@ -7,7 +7,7 @@ tags:
 aliases: ["Incredible Investiture"]
 ---
 # Incredible Investiture  *Feat 11*  
-[general](rules/traits/general.md)  
+[general](rules/traits/general.md "General Feat Trait")  
 
 - **Prerequisites**: Charisma 16
 

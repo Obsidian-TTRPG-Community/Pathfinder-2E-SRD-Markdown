@@ -12,7 +12,7 @@ tags:
 aliases: ["Wind Ocarina"]
 ---
 # Wind Ocarina *Item 6*  
-[air](rules/traits/air.md)  [aura](rules/traits/aura.md)  [consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  
+[air](rules/traits/air.md "Air Energy & Element Trait")  [aura](rules/traits/aura.md "Aura Combat Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 50 gp
 - **Usage** held in 2 hands; **Bulk** L

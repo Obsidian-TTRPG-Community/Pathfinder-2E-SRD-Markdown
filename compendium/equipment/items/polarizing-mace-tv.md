@@ -10,7 +10,7 @@ tags:
 aliases: ["Polarizing Mace"]
 ---
 # Polarizing Mace *Item 8*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 450 gp
 - **Usage** held in 1 hand; **Bulk** L

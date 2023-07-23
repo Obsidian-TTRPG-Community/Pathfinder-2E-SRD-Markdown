@@ -10,12 +10,12 @@ tags:
 - domain/trickery/deity
 aliases: ["Ydajisk", "Mother of Tongues"]
 ---
-# Ydajisk (Mother of Tongues) *([CN](rules/traits/chaotic-neutral-b1.md))*  
+# Ydajisk (Mother of Tongues) *([CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 130*  
 
 - **Category**: Monitor Demigods
 - **Anathema**: ban or discourage a language, explain a secret language or slang to outsiders, destroy literary works
-- **Follower Alignments**: [CG](rules/traits/chaotic-good-b1.md), [CN](rules/traits/chaotic-neutral-b1.md), [CE](rules/traits/chaotic-evil-b1.md)
+- **Follower Alignments**: [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
 

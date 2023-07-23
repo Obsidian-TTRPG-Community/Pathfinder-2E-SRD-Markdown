@@ -7,7 +7,7 @@ tags:
 aliases: ["Sudden Mindfulness"]
 ---
 # Sudden Mindfulness  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
-[vanara](rules/traits/vanara-loil.md)  
+[vanara](rules/traits/vanara-loil.md "Vanara Ancestry & Heritage Trait")  
 
 - **Trigger** You roll a success on a saving throw against an effect that would make you [fascinated](rules/conditions.md#Fascinated) or [dazzled](rules/conditions.md#Dazzled).
 - **Activity** Reaction

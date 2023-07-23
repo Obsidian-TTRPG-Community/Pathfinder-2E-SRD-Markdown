@@ -9,7 +9,7 @@ tags:
 aliases: ["Reactive Distraction"]
 ---
 # Reactive Distraction  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 20*  
-[concentrate](rules/traits/concentrate.md)  [manipulate](rules/traits/manipulate.md)  [rogue](rules/traits/rogue.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Prerequisites**: legendary in [Deception](compendium/skills.md#Deception), [Perfect Distraction](compendium/feats/perfect-distraction.md)
 - **Trigger** You would be hit by an attack or targeted by an effect, or you are within an effect's area.

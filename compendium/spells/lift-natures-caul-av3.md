@@ -12,7 +12,7 @@ tags:
 aliases: ["Lift Nature's Caul"]
 ---
 # Lift Nature's Caul *Focus 1*   
-[fear](rules/traits/fear.md)  [illusion](rules/traits/illusion.md)  [uncommon](rules/traits/uncommon.md)  [visual](rules/traits/visual.md)  
+[fear](rules/traits/fear.md "Fear Effect Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Domains**: [abomination](compendium/setting/domains.md#Abomination)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

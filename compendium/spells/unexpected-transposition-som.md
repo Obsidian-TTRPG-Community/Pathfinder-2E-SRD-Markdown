@@ -9,9 +9,9 @@ tags:
 aliases: ["Unexpected Transposition"]
 ---
 # Unexpected Transposition *Spell 6*   
-[conjuration](rules/traits/conjuration.md)  [teleportation](rules/traits/teleportation.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
 - **Trigger**You are targeted with an enemy's [Strike](rules/actions/strike.md).
 - **Range**30 foot

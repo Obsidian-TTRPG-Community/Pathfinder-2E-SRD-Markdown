@@ -9,9 +9,9 @@ tags:
 aliases: ["True Strike"]
 ---
 # True Strike *Spell 1*   
-[divination](rules/traits/divination.md)  [fortune](rules/traits/fortune.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Duration**until the end of your turn
 

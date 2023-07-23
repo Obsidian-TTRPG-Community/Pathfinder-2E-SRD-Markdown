@@ -12,7 +12,7 @@ tags:
 aliases: ["Slumber Wine"]
 ---
 # Slumber Wine *Item 12*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [ingested](rules/traits/ingested.md)  [poison](rules/traits/poison.md)  [sleep](rules/traits/sleep.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [ingested](rules/traits/ingested.md "Ingested Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [sleep](rules/traits/sleep.md "Sleep Effect Trait")  
 
 - **Price** 325 gp
 - **Usage** held in 1 hand; **Bulk** L

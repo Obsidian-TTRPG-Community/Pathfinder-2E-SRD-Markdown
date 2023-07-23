@@ -10,9 +10,9 @@ tags:
 aliases: ["Stone Tell"]
 ---
 # Stone Tell *Spell 6*   
-[earth](rules/traits/earth.md)  [evocation](rules/traits/evocation.md)  [uncommon](rules/traits/uncommon.md)  
+[earth](rules/traits/earth.md "Earth Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md), [primal](rules/traits/primal.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Duration**10 minutes
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Wyrmbane Aura"]
 ---
 # Wyrmbane Aura  *Feat 14*  
-[champion](rules/traits/champion.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  
 
 - **Prerequisites**: [Dragonslayer Oath](compendium/feats/dragonslayer-oath.md)
 

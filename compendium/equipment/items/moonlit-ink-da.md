@@ -10,7 +10,7 @@ tags:
 aliases: ["Moonlit Ink"]
 ---
 # Moonlit Ink *Item 2*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [uncommon](rules/traits/uncommon.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** Member of a secret society
 - **Price** 5 gp

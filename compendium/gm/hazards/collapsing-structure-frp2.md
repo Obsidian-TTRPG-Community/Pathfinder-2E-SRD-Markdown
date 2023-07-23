@@ -8,7 +8,7 @@ tags:
 aliases: ["Collapsing Structure"]
 ---
 # Collapsing Structure *Hazard 15*  
-[complex](rules/traits/complex.md)  [environmental](rules/traits/environmental.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +20 master to notice cracks forming in the walls of the structure as Mogaru approaches.  

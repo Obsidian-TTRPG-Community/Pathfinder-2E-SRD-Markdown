@@ -11,7 +11,7 @@ tags:
 aliases: ["Inspiring Spotlight"]
 ---
 # Inspiring Spotlight *Item 9*  
-[enchantment](rules/traits/enchantment.md)  [light](rules/traits/light.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [light](rules/traits/light.md "Light Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 650 gp
 - **Usage** held in 2 hands; **Bulk** 3

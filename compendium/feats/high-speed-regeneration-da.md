@@ -11,7 +11,7 @@ tags:
 aliases: ["High-Speed Regeneration"]
 ---
 # High-Speed Regeneration  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 6*  
-[deviant](rules/traits/deviant-da.md)  [healing](rules/traits/healing.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [rare](rules/traits/rare.md)  
+[deviant](rules/traits/deviant-da.md "Deviant Action & Ability Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Trigger** Your turn begins.
 - **Activity** Free Action

@@ -7,7 +7,7 @@ tags:
 aliases: ["Unburdened Iron"]
 ---
 # Unburdened Iron  *Feat 1*  
-[dwarf](rules/traits/dwarf.md)  
+[dwarf](rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  
 
 
 You've learned techniques first devised by your ancestors during their ancient wars, allowing you to comfortably wear massive suits of armor. Ignore the reduction to your Speed from any armor you wear.

@@ -7,7 +7,7 @@ tags:
 aliases: ["Blessing of the Sun Gods"]
 ---
 # Blessing of the Sun Gods  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: Bright Lion Dedication
 

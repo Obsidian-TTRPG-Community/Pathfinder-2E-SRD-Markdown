@@ -8,7 +8,7 @@ tags:
 aliases: ["The Laughing Fiend's Greeting"]
 ---
 # The Laughing Fiend's Greeting *Hazard 20*  
-[magical](rules/traits/magical.md)  [trap](rules/traits/trap.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 46 legendary  
@@ -19,7 +19,7 @@ Subtle but deadly magical runes link this mural to Kharnas's master. Good- or ne
      
 ```ad-embed-ability
 title: Tegresin's Greeting [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[illusion](rules/traits/illusion.md)  [occult](rules/traits/occult.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 - **Trigger**: A creature capable of casting divine magic examines the mural
 

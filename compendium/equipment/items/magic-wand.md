@@ -9,7 +9,7 @@ tags:
 aliases: ["Magic Wand"]
 ---
 # Magic Wand *Item 3+*  
-[magical](rules/traits/magical.md)  [wand](rules/traits/wand.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Wand

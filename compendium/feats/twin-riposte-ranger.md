@@ -7,7 +7,7 @@ tags:
 aliases: ["Twin Riposte (Ranger)"]
 ---
 # Twin Riposte (Ranger)  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Trigger** A creature within your reach critically fails a [Strike](rules/actions/strike.md) against you.
 - **Requirements**: You are benefiting from [Twin Parry](compendium/feats/twin-parry-fighter.md).

@@ -9,7 +9,7 @@ tags:
 aliases: ["Living Paints"]
 ---
 # Living Paints *Hazard 19*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [trap](rules/traits/trap.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 41 (Master)  
@@ -20,7 +20,7 @@ A mass of brushes use magical paint to convert creatures into art.
      
 ```ad-embed-ability
 title: Capture Subject [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[arcane](rules/traits/arcane.md)  [transmutation](rules/traits/transmutation.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Trigger**: A creature steps into the same space as the paints (the square marked with a "T" on the map on page 26)
 

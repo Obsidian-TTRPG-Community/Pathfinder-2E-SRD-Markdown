@@ -11,7 +11,7 @@ tags:
 aliases: ["Elemental Eyes"]
 ---
 # Elemental Eyes  *Feat 1*  
-[ifrit](rules/traits/ifrit-b2.md)  [oread](rules/traits/oread-b2.md)  [suli](rules/traits/suli-b2.md)  [sylph](rules/traits/sylph-b2.md)  [undine](rules/traits/undine-b2.md)  
+[ifrit](rules/traits/ifrit-b2.md "Ifrit Ancestry & Heritage Trait")  [oread](rules/traits/oread-b2.md "Oread Ancestry & Heritage Trait")  [suli](rules/traits/suli-b2.md "Suli Ancestry & Heritage Trait")  [sylph](rules/traits/sylph-b2.md "Sylph Ancestry & Heritage Trait")  [undine](rules/traits/undine-b2.md "Undine Ancestry & Heritage Trait")  
 
 - **Prerequisites**: low-light vision
 

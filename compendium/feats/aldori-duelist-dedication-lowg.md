@@ -9,7 +9,7 @@ tags:
 aliases: ["Aldori Duelist Dedication"]
 ---
 # Aldori Duelist Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: You are from the [Broken](rules/conditions.md#Broken) Lands region.
 - **Prerequisites**: trained in [Aldori dueling swords](compendium/equipment/items/aldori-dueling-sword-lowg.md)

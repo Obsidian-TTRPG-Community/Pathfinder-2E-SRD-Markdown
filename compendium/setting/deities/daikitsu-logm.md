@@ -10,12 +10,12 @@ tags:
 - domain/nature/deity
 aliases: ["Daikitsu", "Lady of Foxes"]
 ---
-# Daikitsu (Lady of Foxes) *([N](rules/traits/neutral-b1.md))*  
+# Daikitsu (Lady of Foxes) *([N](rules/traits/n-b1.md "Neutral Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 132*  
 
 - **Category**: Tian Gods
 - **Anathema**: mistreat your tools, pass a beggar without giving alms, discriminate against sex workers or the lower class
-- **Follower Alignments**: [LN](rules/traits/lawful-neutral-b1.md), [NG](rules/traits/neutral-good-b1.md), [N](rules/traits/neutral-b1.md), [CN](rules/traits/chaotic-neutral-b1.md)
+- **Follower Alignments**: [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")
 
 ## Devotee benefits
 

@@ -10,12 +10,12 @@ tags:
 - domain/wyrmkin/deity
 aliases: ["Ragadahn", "The Water Lord"]
 ---
-# Ragadahn (The Water Lord) *([CE](rules/traits/chaotic-evil-b1.md))*  
+# Ragadahn (The Water Lord) *([CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 126*  
 
 - **Category**: Eldest
 - **Anathema**: suffer a linnorm's death curse, destroy a fossil
-- **Follower Alignments**: [NE](rules/traits/neutral-evil-b1.md), [CN](rules/traits/chaotic-neutral-b1.md), [CE](rules/traits/chaotic-evil-b1.md)
+- **Follower Alignments**: [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
 

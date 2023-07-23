@@ -7,7 +7,7 @@ tags:
 aliases: ["School Counterspell"]
 ---
 # School Counterspell  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: Counterspell, [Runelord Dedication](compendium/feats/runelord-dedication-som.md)
 

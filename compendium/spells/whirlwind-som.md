@@ -10,9 +10,9 @@ tags:
 aliases: ["Whirlwind"]
 ---
 # Whirlwind *Spell 8*   
-[air](rules/traits/air.md)  [evocation](rules/traits/evocation.md)  
+[air](rules/traits/air.md "Air Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md)
+- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**500 foot
 - **Area**15-foot radius, 80-foot tall cylinder

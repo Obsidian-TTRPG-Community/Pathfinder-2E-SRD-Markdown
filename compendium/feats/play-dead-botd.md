@@ -7,7 +7,7 @@ tags:
 aliases: ["Play Dead"]
 ---
 # Play Dead  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
-[skeleton](rules/traits/skeleton-b1.md)  
+[skeleton](rules/traits/skeleton-b1.md "Skeleton Ancestry & Heritage Trait")  
 
 - **Activity** Single Action
 

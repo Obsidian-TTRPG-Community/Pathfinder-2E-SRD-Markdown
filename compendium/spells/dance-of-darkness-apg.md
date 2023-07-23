@@ -10,7 +10,7 @@ tags:
 aliases: ["Dance Of Darkness"]
 ---
 # Dance Of Darkness *Focus 5*   
-[darkness](rules/traits/darkness.md)  [evocation](rules/traits/evocation.md)  [uncommon](rules/traits/uncommon.md)  
+[darkness](rules/traits/darkness.md "Darkness Effect Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Duration**varies

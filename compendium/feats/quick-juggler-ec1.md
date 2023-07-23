@@ -8,7 +8,7 @@ tags:
 aliases: ["Quick Juggler"]
 ---
 # Quick Juggler  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: expert in [Performance](compendium/skills.md#Performance), [Juggler Dedication](compendium/feats/juggler-dedication-ec1.md)
 

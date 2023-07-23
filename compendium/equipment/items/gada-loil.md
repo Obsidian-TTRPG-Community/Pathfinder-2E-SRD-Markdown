@@ -10,7 +10,7 @@ tags:
 aliases: ["Gada"]
 ---
 # Gada *Item 0*  
-[backswing](rules/traits/backswing.md)  [two-hand <d12>](rules/traits/two-hand.md)  [vanara](rules/traits/vanara-loil.md)  
+[backswing](rules/traits/backswing.md "Backswing Weapon Trait")  [two-hand <d12>](rules/traits/two-hand-d12.md "Two-Hand Weapon Trait")  [vanara](rules/traits/vanara-loil.md "Vanara Ancestry & Heritage Trait")  
 
 - **Price** 1 gp
 - **Bulk** 2

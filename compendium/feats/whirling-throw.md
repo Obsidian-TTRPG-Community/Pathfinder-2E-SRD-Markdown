@@ -7,7 +7,7 @@ tags:
 aliases: ["Whirling Throw"]
 ---
 # Whirling Throw  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Requirements**: You have a creature [grabbed](rules/conditions.md#Grabbed) or [restrained](rules/conditions.md#Restrained).
 - **Activity** Single Action

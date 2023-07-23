@@ -10,7 +10,7 @@ tags:
 aliases: ["Shauth Lash"]
 ---
 # Shauth Lash *Item 0*  
-[deadly <d10>](rules/traits/deadly.md)  [finesse](rules/traits/finesse.md)  [trip](rules/traits/trip.md)  
+[deadly <d10>](rules/traits/deadly-d10.md "Deadly Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [trip](rules/traits/trip.md "Trip Weapon Trait")  
 
 - **Price** 8 gp
 - **Bulk** 1

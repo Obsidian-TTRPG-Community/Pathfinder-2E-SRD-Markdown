@@ -8,7 +8,7 @@ tags:
 aliases: ["Spear"]
 ---
 # Spear *Item 0*  
-[thrown <20 ft.>](rules/traits/thrown.md)  
+[thrown <20 ft.>](rules/traits/thrown-20-ft.md "Thrown Weapon Trait")  
 
 - **Price** 1 sp
 - **Bulk** 1

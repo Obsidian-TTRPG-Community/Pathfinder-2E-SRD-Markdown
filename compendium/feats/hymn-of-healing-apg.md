@@ -7,7 +7,7 @@ tags:
 aliases: ["Hymn Of Healing"]
 ---
 # Hymn Of Healing  *Feat 1*  
-[bard](rules/traits/bard.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  
 
 
 You learn the [hymn of healing](compendium/spells/hymn-of-healing-apg.md) composition spell, which imbues your music with rich melodies that help your allies recover from harm.

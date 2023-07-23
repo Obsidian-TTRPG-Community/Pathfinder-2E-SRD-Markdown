@@ -8,7 +8,7 @@ tags:
 aliases: ["Sense Alignment"]
 ---
 # Sense Alignment  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  [secret](rules/traits/secret.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [secret](rules/traits/secret.md "Secret General Trait")  
 
 - **Prerequisites**: [Edgewatch Detective Dedication](compendium/feats/edgewatch-detective-dedication-aoe1.md)
 - **Activity** Three-Action

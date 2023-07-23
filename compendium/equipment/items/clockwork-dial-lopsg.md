@@ -8,7 +8,7 @@ tags:
 aliases: ["Clockwork Dial"]
 ---
 # Clockwork Dial *Item 0*  
-[uncommon](rules/traits/uncommon.md)  
+[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 20 gp
 - **Hands** 1

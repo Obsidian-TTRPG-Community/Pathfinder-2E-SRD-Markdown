@@ -10,7 +10,7 @@ tags:
 aliases: ["Reef Heart"]
 ---
 # Reef Heart *Item 12+*  
-[conjuration](rules/traits/conjuration.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Usage** worn armor; **Bulk** 2
 - **Category** Armor

@@ -7,7 +7,7 @@ tags:
 aliases: ["Master Cleric Spellcasting"]
 ---
 # Master Cleric Spellcasting  *Feat 18*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Expert Cleric Spellcasting](compendium/feats/expert-cleric-spellcasting.md), legendary in [Religion](compendium/skills.md#Religion)
 

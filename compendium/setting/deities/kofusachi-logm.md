@@ -10,12 +10,12 @@ tags:
 - domain/wealth/deity
 aliases: ["Kofusachi", "The Laughing God"]
 ---
-# Kofusachi (The Laughing God) *([CG](rules/traits/chaotic-good-b1.md))*  
+# Kofusachi (The Laughing God) *([CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 132*  
 
 - **Category**: Tian Gods
 - **Anathema**: become tied to one location, judge another based on sexual desires or gender roles
-- **Follower Alignments**: [NG](rules/traits/neutral-good-b1.md), [CG](rules/traits/chaotic-good-b1.md)
+- **Follower Alignments**: [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")
 
 ## Devotee benefits
 

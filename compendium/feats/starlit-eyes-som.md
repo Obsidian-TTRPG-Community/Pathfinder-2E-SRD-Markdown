@@ -7,7 +7,7 @@ tags:
 aliases: ["Starlit Eyes"]
 ---
 # Starlit Eyes  *Feat 4*  
-[magus](rules/traits/magus-som.md)  
+[magus](rules/traits/magus-som.md "Magus Class Trait")  
 
 - **Prerequisites**: [Arcane Cascade](rules/actions/arcane-cascade-som.md), starlit span hybrid study
 

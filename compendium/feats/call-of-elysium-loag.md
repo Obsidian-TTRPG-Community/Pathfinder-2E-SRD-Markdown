@@ -7,7 +7,7 @@ tags:
 aliases: ["Call Of Elysium"]
 ---
 # Call Of Elysium  *Feat 9*  
-[aasimar](rules/traits/aasimar-apg.md)  
+[aasimar](rules/traits/aasimar-apg.md "Aasimar Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Musetouched](compendium/feats/musetouched-apg.md)
 

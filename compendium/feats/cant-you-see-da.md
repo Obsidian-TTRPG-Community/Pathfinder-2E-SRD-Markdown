@@ -8,7 +8,7 @@ tags:
 aliases: ["Can't You See?"]
 ---
 # Can't You See?  *Feat 8*  
-[druid](rules/traits/druid.md)  [ranger](rules/traits/ranger.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  [ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: trained in [Occultism](compendium/skills.md#Occultism), expert in [Stealth](compendium/skills.md#Stealth)
 

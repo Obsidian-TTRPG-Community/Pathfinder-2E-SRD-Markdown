@@ -7,10 +7,10 @@ tags:
 aliases: ["Saber Teeth"]
 ---
 # Saber Teeth  *Feat 1*  
-[catfolk](rules/traits/catfolk-b1.md)  
+[catfolk](rules/traits/catfolk-b1.md "Catfolk Ancestry & Heritage Trait")  
 
 
-You have long fangs, natural or augmented. You gain a jaws unarmed attack that deals `1d6` piercing damage. Your jaws are in the brawling group and have the [unarmed](rules/traits/unarmed.md) trait.
+You have long fangs, natural or augmented. You gain a jaws unarmed attack that deals `1d6` piercing damage. Your jaws are in the brawling group and have the [unarmed](rules/traits/unarmed.md "Unarmed Weapon Trait") trait.
 
 *Source: Lost Omens: Ancestry Guide p. 19*  
 %% #compendium/src/pf2e/loag #trait/catfolk %%

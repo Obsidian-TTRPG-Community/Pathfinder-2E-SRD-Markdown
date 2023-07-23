@@ -11,7 +11,7 @@ tags:
 aliases: ["Energizing Lattice"]
 ---
 # Energizing Lattice *Item 13*  
-[evocation](rules/traits/evocation.md)  [invested](rules/traits/invested.md)  [light](rules/traits/light.md)  [magical](rules/traits/magical.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [light](rules/traits/light.md "Light Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 3000 gp
 - **Usage** worn armor; **Bulk** 2
@@ -21,7 +21,7 @@ This suit of +2 resilient fortification lattice armor has latticework of fine go
 
 ```ad-embed-ability
 title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
-[force](rules/traits/force.md)  
+[force](rules/traits/force.md "Force Energy & Element Trait")  
 
 - **Requirements**: The energizing lattice is glowing because it negated an enemy's critical hit
 

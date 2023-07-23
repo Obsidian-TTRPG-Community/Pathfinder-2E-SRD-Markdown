@@ -7,7 +7,7 @@ tags:
 aliases: ["Skillful Tail (Ganzi)"]
 ---
 # Skillful Tail (Ganzi)  *Feat 5*  
-[ganzi](rules/traits/ganzi-loag.md)  
+[ganzi](rules/traits/ganzi-loag.md "Ganzi Ancestry & Heritage Trait")  
 
 
 You have a tail or similar body part that is always willing to lend a hand (so to speak). You can perform simple [Interact](rules/actions/interact.md) actions with your tail, such as opening an unlocked door. Your tail can't perform actions that require fingers or significant manual dexterity, including any action that would require a check to accomplish, and you can't use it to hold items.

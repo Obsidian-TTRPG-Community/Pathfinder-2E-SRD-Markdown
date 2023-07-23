@@ -10,7 +10,7 @@ tags:
 aliases: ["Candle Of Revealing"]
 ---
 # Candle Of Revealing *Item 7*  
-[consumable](rules/traits/consumable.md)  [divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 60 gp
 - **Usage** held in 1 hand

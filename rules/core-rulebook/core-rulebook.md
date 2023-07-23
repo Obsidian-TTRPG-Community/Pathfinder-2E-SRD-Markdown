@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-book
 tags:
-- book/core/core-rulebook
+- book-core-core-rulebook
 - compendium/src/pf2e/crb
 aliases: ["Core Rulebook"]
 ---

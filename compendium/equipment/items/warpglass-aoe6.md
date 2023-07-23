@@ -9,7 +9,7 @@ tags:
 aliases: ["Warpglass"]
 ---
 # Warpglass *Item 17+*  
-[precious](rules/traits/precious.md)  [rare](rules/traits/rare.md)  
+[precious](rules/traits/precious.md "Precious Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Category** Material
 

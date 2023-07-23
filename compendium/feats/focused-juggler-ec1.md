@@ -10,7 +10,7 @@ tags:
 aliases: ["Focused Juggler"]
 ---
 # Focused Juggler  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  [concentrate](rules/traits/concentrate.md)  [manipulate](rules/traits/manipulate.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Juggler Dedication](compendium/feats/juggler-dedication-ec1.md)
 - **Trigger** Your turn begins.

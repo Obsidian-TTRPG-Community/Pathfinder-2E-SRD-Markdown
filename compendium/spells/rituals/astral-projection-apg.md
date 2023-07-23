@@ -9,7 +9,7 @@ tags:
 aliases: ["Astral Projection"]
 ---
 # Astral Projection *Ritual 5*  
-[divination](rules/traits/divination.md)  [uncommon](rules/traits/uncommon.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** 1 hour
 - **Cost** one jacinth worth a total value of the target's level (minimum 1) × 5 gp, for each target

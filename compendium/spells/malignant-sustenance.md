@@ -11,7 +11,7 @@ tags:
 aliases: ["Malignant Sustenance"]
 ---
 # Malignant Sustenance *Focus 4*   
-[cleric](rules/traits/cleric.md)  [necromancy](rules/traits/necromancy.md)  [negative](rules/traits/negative.md)  [uncommon](rules/traits/uncommon.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Domains**: [undeath](compendium/setting/domains.md#Undeath)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

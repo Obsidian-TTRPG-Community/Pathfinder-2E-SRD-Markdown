@@ -9,7 +9,7 @@ tags:
 aliases: ["Paralyzing Light Trap"]
 ---
 # Paralyzing Light Trap *Hazard 8*  
-[complex](rules/traits/complex.md)  [magical](rules/traits/magical.md)  [trap](rules/traits/trap.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** DC 18 expert  
@@ -20,7 +20,7 @@ When any creature other than a devil enters the light, the magic interwoven in t
      
 ```ad-embed-ability
 title: Stasis Field [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[enchantment](rules/traits/enchantment.md)  [incapacitation](rules/traits/incapacitation.md)  [mental](rules/traits/mental.md)  [occult](rules/traits/occult.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 - **Trigger**: A non-devil creature moves into the light
 

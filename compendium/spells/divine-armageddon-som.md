@@ -11,9 +11,9 @@ tags:
 aliases: ["Divine Armageddon"]
 ---
 # Divine Armageddon *Spell 8*   
-[necromancy](rules/traits/necromancy.md)  [negative](rules/traits/negative.md)  [positive](rules/traits/positive.md)  
+[necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**120 foot
 - **Area**60-foot burst

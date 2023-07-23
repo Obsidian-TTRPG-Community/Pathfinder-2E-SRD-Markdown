@@ -7,7 +7,7 @@ tags:
 aliases: ["Kitsune Spell Mysteries"]
 ---
 # Kitsune Spell Mysteries  *Feat 5*  
-[kitsune](rules/traits/kitsune-loag.md)  
+[kitsune](rules/traits/kitsune-loag.md "Kitsune Ancestry & Heritage Trait")  
 
 - **Prerequisites**: at least one innate spell from a kitsune heritage or ancestry feat
 

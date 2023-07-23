@@ -13,7 +13,7 @@ tags:
 aliases: ["Swiftmount Saddle"]
 ---
 # Swiftmount Saddle *Item 7*  
-[companion](rules/traits/companion.md)  [divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [primal](rules/traits/primal.md)  [uncommon](rules/traits/uncommon.md)  
+[companion](rules/traits/companion.md "Companion Item Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** Knights of Lastwall have access to this item.
 - **Price** 360 gp

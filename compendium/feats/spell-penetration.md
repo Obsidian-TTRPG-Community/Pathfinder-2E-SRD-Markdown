@@ -7,7 +7,7 @@ tags:
 aliases: ["Spell Penetration"]
 ---
 # Spell Penetration  *Feat 6*  
-[wizard](rules/traits/wizard.md)  
+[wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 
 You've studied ways of overcoming the innate magical resistance that dragons, otherworldly beings, and certain other powerful creatures have. Any creature that has a status bonus to saving throws against magic reduces that bonus by 1 against your spells.

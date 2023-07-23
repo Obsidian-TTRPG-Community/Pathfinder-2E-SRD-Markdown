@@ -10,7 +10,7 @@ tags:
 aliases: ["Silkspinner's Shield"]
 ---
 # Silkspinner's Shield *Item 15*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 6000 gp
 - **Usage** held in one hand; **Bulk** L

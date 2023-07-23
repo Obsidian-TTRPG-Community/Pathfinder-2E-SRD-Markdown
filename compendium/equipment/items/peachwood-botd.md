@@ -9,7 +9,7 @@ tags:
 aliases: ["Peachwood"]
 ---
 # Peachwood *Item 8+*  
-[precious](rules/traits/precious.md)  [uncommon](rules/traits/uncommon.md)  
+[precious](rules/traits/precious.md "Precious Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Category** Material
 

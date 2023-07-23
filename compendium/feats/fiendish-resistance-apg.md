@@ -7,7 +7,7 @@ tags:
 aliases: ["Fiendish Resistance"]
 ---
 # Fiendish Resistance  *Feat 5*  
-[tiefling](rules/traits/tiefling-b1.md)  
+[tiefling](rules/traits/tiefling-b1.md "Tiefling Ancestry & Heritage Trait")  
 
 
 Your connection to your fiendish forebears has granted you one of their resistances as well. Choose one of the following energy damage types: acid, cold, electricity, fire, or sonic. You gain resistance 5 to that damage type.

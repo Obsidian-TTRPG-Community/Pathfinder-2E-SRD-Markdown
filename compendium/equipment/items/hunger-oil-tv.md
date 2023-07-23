@@ -14,7 +14,7 @@ tags:
 aliases: ["Hunger Oil"]
 ---
 # Hunger Oil *Item 11*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [contact](rules/traits/contact.md)  [divine](rules/traits/divine.md)  [necromancy](rules/traits/necromancy.md)  [poison](rules/traits/poison.md)  [uncommon](rules/traits/uncommon.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [contact](rules/traits/contact.md "Contact Item Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 235 gp
 - **Usage** held in 1 hand; **Bulk** L

@@ -12,7 +12,7 @@ tags:
 aliases: ["Combat Grapnel"]
 ---
 # Combat Grapnel *Item 1*  
-[finesse](rules/traits/finesse.md)  [grapple](rules/traits/grapple.md)  [tethered](rules/traits/tethered-b1.md)  [thrown <20 feet>](rules/traits/thrown.md)  [uncommon](rules/traits/uncommon.md)  
+[finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [grapple](rules/traits/grapple.md "Grapple Weapon Trait")  [tethered](rules/traits/tethered-b1.md "Tethered Weapon Trait")  [thrown <20 feet>](rules/traits/thrown-20-feet.md "Thrown Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 9 sp
 - **Bulk** 1

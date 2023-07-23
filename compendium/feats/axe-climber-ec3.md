@@ -7,7 +7,7 @@ tags:
 aliases: ["Axe Climber"]
 ---
 # Axe Climber  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Turpin Rowe Lumberjack Dedication](compendium/feats/turpin-rowe-lumberjack-dedication-ec3.md)
 

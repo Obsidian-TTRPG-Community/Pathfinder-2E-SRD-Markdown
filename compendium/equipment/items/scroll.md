@@ -10,7 +10,7 @@ tags:
 aliases: ["Scroll"]
 ---
 # Scroll *Item 1+*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [scroll](rules/traits/scroll.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [scroll](rules/traits/scroll.md "Scroll Item Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Cast a Spell](rules/actions/cast-a-spell.md)

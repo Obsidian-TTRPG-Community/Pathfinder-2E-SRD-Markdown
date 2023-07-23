@@ -7,7 +7,7 @@ tags:
 aliases: ["Spellmaster's Tenacity"]
 ---
 # Spellmaster's Tenacity  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spellmaster's Resilience](compendium/feats/spellmasters-resilience-locg.md)
 - **Frequency**: once per day

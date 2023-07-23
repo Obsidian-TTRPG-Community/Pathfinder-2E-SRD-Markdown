@@ -10,13 +10,13 @@ tags:
 aliases: ["Antimagic"]
 ---
 # Antimagic *Item 15*  
-[abjuration](rules/traits/abjuration.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 6500 gp
 - **Usage** etched onto armor
 - **Category** Rune
 
-This intricate rune displaces spell energy, granting you a +1 status bonus to saving throws against [magical](rules/traits/magical.md) effects.
+This intricate rune displaces spell energy, granting you a +1 status bonus to saving throws against [magical](rules/traits/magical.md "Magical Item Trait") effects.
 
 ```ad-embed-ability
 title: Activate [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")

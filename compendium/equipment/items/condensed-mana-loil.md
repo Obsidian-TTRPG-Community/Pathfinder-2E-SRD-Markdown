@@ -10,7 +10,7 @@ tags:
 aliases: ["Condensed Mana"]
 ---
 # Condensed Mana *Item 7*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [rare](rules/traits/rare.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 69 gp
 - **Usage** held in 1 hand; **Bulk** L

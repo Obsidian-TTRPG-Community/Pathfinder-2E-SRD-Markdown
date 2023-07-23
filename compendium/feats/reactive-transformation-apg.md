@@ -7,7 +7,7 @@ tags:
 aliases: ["Reactive Transformation"]
 ---
 # Reactive Transformation  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 14*  
-[druid](rules/traits/druid.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  
 
 - **Prerequisites**: [Wild Shape](compendium/feats/wild-shape.md); [Dragon Shape](compendium/feats/dragon-shape.md), [Elemental Shape](compendium/feats/elemental-shape.md),
 - **Trigger** varies

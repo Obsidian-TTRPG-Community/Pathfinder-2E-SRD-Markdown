@@ -10,12 +10,12 @@ tags:
 - domain/vigil/deity
 aliases: ["Anubis", "Guardian of the Tomb"]
 ---
-# Anubis (Guardian of the Tomb) *([LN](rules/traits/lawful-neutral-b1.md))*  
+# Anubis (Guardian of the Tomb) *([LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 124*  
 
 - **Category**: Ancient Osirian Gods
 - **Anathema**: desecrate a corpse, rob a tomb, trap a soul
-- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [LN](rules/traits/lawful-neutral-b1.md), [N](rules/traits/neutral-b1.md)
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait")
 
 ## Devotee benefits
 

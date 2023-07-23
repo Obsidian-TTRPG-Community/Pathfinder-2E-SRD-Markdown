@@ -10,7 +10,7 @@ tags:
 aliases: ["Soaring Flight"]
 ---
 # Soaring Flight  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 9*  
-[morph](rules/traits/morph.md)  [primal](rules/traits/primal.md)  [tengu](rules/traits/tengu-b1.md)  [transmutation](rules/traits/transmutation.md)  
+[morph](rules/traits/morph.md "Morph Effect Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [tengu](rules/traits/tengu-b1.md "Tengu Ancestry & Heritage Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Prerequisites**: skyborn tengu heritage
 - **Frequency**: once per day

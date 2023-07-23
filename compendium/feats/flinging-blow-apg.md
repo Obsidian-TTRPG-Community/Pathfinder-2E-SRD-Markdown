@@ -7,7 +7,7 @@ tags:
 aliases: ["Flinging Blow"]
 ---
 # Flinging Blow  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 16*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Activity** Two-Action
 

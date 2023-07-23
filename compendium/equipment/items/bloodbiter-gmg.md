@@ -11,7 +11,7 @@ tags:
 aliases: ["Bloodbiter"]
 ---
 # Bloodbiter *Item 6*  
-[cursed](rules/traits/cursed-gmg.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [rare](rules/traits/rare.md)  
+[cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** curses a piercing or slashing weapon
 - **Category** Curse

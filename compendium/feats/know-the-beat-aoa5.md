@@ -8,7 +8,7 @@ tags:
 aliases: ["Know The Beat"]
 ---
 # Know The Beat  *Feat 3*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Zephyr Guard Dedication](compendium/feats/zephyr-guard-dedication-aoa5.md)
 

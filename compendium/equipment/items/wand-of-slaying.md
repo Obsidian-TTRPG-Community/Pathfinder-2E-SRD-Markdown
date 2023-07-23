@@ -10,7 +10,7 @@ tags:
 aliases: ["Wand of Slaying"]
 ---
 # Wand of Slaying *Item 16+*  
-[illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  [wand](rules/traits/wand.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Wand

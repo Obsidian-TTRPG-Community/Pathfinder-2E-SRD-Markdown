@@ -11,7 +11,7 @@ tags:
 aliases: ["Loremaster's Etude"]
 ---
 # Loremaster's Etude *Focus 1*   
-[bard](rules/traits/bard.md)  [divination](rules/traits/divination.md)  [fortune](rules/traits/fortune.md)  [uncommon](rules/traits/uncommon.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") 
 - **Trigger**You or an ally within range attempts a skill check to [Recall Knowledge](rules/actions/recall-knowledge.md)

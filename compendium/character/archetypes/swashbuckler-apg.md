@@ -20,7 +20,7 @@ The swashbuckler archetype is a great fit for martial characters who want to be 
 title: Swashbuckler Dedication, Feat 2
 collapse: closed
 # Swashbuckler Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [multiclass](rules/traits/multiclass.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [multiclass](rules/traits/multiclass.md "Multiclass Feat Trait")  
 
 - **Prerequisites**: Charisma 14, Dexterity 14
 
@@ -38,7 +38,7 @@ You also become trained in swashbuckler class DC. You don't gain any other effec
 title: Basic Flair, Feat 4
 collapse: closed
 # Basic Flair  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Swashbuckler Dedication](compendium/feats/swashbuckler-dedication-apg.md)
 
@@ -52,13 +52,13 @@ You gain a 1st- or 2nd-level swashbuckler of your choice.
 title: Finishing Precision, Feat 4
 collapse: closed
 # Finishing Precision  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Swashbuckler Dedication](compendium/feats/swashbuckler-dedication-apg.md)
 
 You've learned how to land daring blows when you have panache. You gain the precise strike|swashbuckler|apg|1 class feature but you deal 1 additional damage on a hit and `1d6` damage on a finisher. This damage doesn't increase as you gain levels. In addition, you gain the Basic Finisher action.
 
-Basic Finisher [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") ([finisher](rules/traits/finisher-apg.md), [swashbuckler](rules/traits/swashbuckler-apg.md)) You make a graceful, deadly attack. Make a [Strike](rules/actions/strike.md); if you hit and your weapon qualifies for precise strike, you deal the full `1d6` damage from precise strike.
+Basic Finisher [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") ([finisher](rules/traits/finisher-apg.md "Finisher Combat Trait"), [swashbuckler](rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")) You make a graceful, deadly attack. Make a [Strike](rules/actions/strike.md); if you hit and your weapon qualifies for precise strike, you deal the full `1d6` damage from precise strike.
 
 *Source: Advanced Player's Guide p. 153*  
 %% #trait/archetype %%
@@ -68,7 +68,7 @@ Basic Finisher [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Si
 title: Advanced Flair, Feat 6
 collapse: closed
 # Advanced Flair  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Flair](compendium/feats/basic-flair-apg.md)
 
@@ -84,7 +84,7 @@ You gain one swashbuckler feat. For the purpose of meeting its prerequisites, yo
 title: Swashbuckler's Riposte, Feat 6
 collapse: closed
 # Swashbuckler's Riposte  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Swashbuckler Dedication](compendium/feats/swashbuckler-dedication-apg.md)
 
@@ -98,7 +98,7 @@ You've learned to riposte against ill-conceived attacks. You gain the Opportune 
 title: Swashbuckler's Speed, Feat 8
 collapse: closed
 # Swashbuckler's Speed  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Swashbuckler Dedication](compendium/feats/swashbuckler-dedication-apg.md)
 
@@ -112,7 +112,7 @@ You move faster, with or without panache. Increase the status bonus to your Spee
 title: Evasiveness, Feat 12*
 collapse: closed
 # Evasiveness  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Evasiveness](compendium/feats/evasiveness-apg.md) is intended for use with the Swashbuckler Archetype. Its level has been changed accordingly.
 

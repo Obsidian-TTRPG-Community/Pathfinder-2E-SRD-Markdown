@@ -7,7 +7,7 @@ tags:
 aliases: ["Dodging Roll"]
 ---
 # Dodging Roll  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 12*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Prerequisites**: master in [Acrobatics](compendium/skills.md#Acrobatics)
 - **Trigger** You take damage from an area effect that allows a Reflex save.

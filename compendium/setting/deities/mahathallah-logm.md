@@ -11,13 +11,13 @@ tags:
 - trait/visual
 aliases: ["Mahathallah", "Dowager of Illusions"]
 ---
-# Mahathallah (Dowager of Illusions) *([LE](rules/traits/lawful-evil-b1.md))*  
+# Mahathallah (Dowager of Illusions) *([LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 75*  
 
 - **Category**: Queens of the Night
 - **Anathema**: become too invested in mortal affairs
 - **Areas of Concern**: death, , fate, , vanity
-- **Follower Alignments**: [LN](rules/traits/lawful-neutral-b1.md), [LE](rules/traits/lawful-evil-b1.md), [NE](rules/traits/neutral-evil-b1.md)
+- **Follower Alignments**: [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"), [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait")
 
 ## Devotee benefits
 
@@ -32,5 +32,5 @@ aliases: ["Mahathallah", "Dowager of Illusions"]
 title: [Avatar](compendium/spells/avatar.md) of Mahathallah
 
 - **Speed**: Speed 30 feet, fly 70 feet
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") hideous vision ([visual](rules/traits/visual.md)), **Damage** `6d6+3` mental Automatically succeeds at all flat checks to attack a [hidden](rules/conditions.md#Hidden) or [concealed](rules/conditions.md#Concealed) creature
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") hideous vision ([visual](rules/traits/visual.md "Visual Effect Trait")), **Damage** `6d6+3` mental Automatically succeeds at all flat checks to attack a [hidden](rules/conditions.md#Hidden) or [concealed](rules/conditions.md#Concealed) creature
 ```

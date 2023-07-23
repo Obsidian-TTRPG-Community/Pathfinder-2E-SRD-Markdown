@@ -15,7 +15,7 @@ The rune magic of Thassilon and its descendant nations has left its mark on your
 title: Runescarred Dedication, Feat 2
 collapse: closed
 # Runescarred Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: You are from the Saga Lands.
 - **Prerequisites**: trained in [Arcana](compendium/skills.md#Arcana)
@@ -27,14 +27,14 @@ Choose one cantrip from the arcane list. One of the runes on your body correspon
 **Special.** You cannot select another dedication feat until you have gained two other feats from the runescarred archetype.
 
 *Source: Lost Omens: World Guide p. 119*  
-%% #trait/uncommon #trait/archetype #trait/dedication %%
+%% #trait/archetype #trait/dedication #trait/uncommon %%
 ```  
 
 ```ad-embed-feat
 title: Spell Runes, Feat 4
 collapse: closed
 # Spell Runes  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Runescarred Dedication](compendium/feats/runescarred-dedication-lowg.md)
 
@@ -48,7 +48,7 @@ The magical runes on your body grant you several magical abilities. Choose a 1st
 title: Living Rune, Feat 6
 collapse: closed
 # Living Rune  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Runescarred Dedication](compendium/feats/runescarred-dedication-lowg.md)
 
@@ -62,7 +62,7 @@ You've bridged a connection between the runes on your body and the magic of rune
 title: Warding Rune, Feat 6
 collapse: closed
 # Warding Rune  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Runescarred Dedication](compendium/feats/runescarred-dedication-lowg.md)
 
@@ -76,7 +76,7 @@ Your runes provide a warding effect that protects you against a specific school 
 title: Greater Spell Runes, Feat 10
 collapse: closed
 # Greater Spell Runes  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Runes](compendium/feats/spell-runes-lowg.md)
 

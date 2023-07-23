@@ -8,7 +8,7 @@ tags:
 aliases: ["Precarious Thunderstone Trap"]
 ---
 # Precarious Thunderstone Trap *Hazard 1*  
-[mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  
+[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 15 trained  
@@ -25,7 +25,7 @@ A tripwire fastened to the gate snaps when the gate is opened, releasing a moder
      
 ```ad-embed-ability
 title: Thunderstone [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[sonic](rules/traits/sonic.md)  
+[sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  
 
 - **Trigger**: The front gate is opened
 

@@ -8,7 +8,7 @@ tags:
 aliases: ["Pirate Dedication"]
 ---
 # Pirate Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: trained in [Intimidation](compendium/skills.md#Intimidation)
 
@@ -16,7 +16,7 @@ As a pirate, you sail the seas in search of enemy ships to plunder. You become t
 
 ```ad-embed-ability
 title: Boarding Assault [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
-[flourish](rules/traits/flourish.md)  
+[flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 Either [Stride](rules/actions/stride.md) twice or attempt an [Acrobatics](compendium/skills.md#Acrobatics) check (DC determined by the GM, but usually DC 20) to swing on a rope up to twice your Speed. If you boarded or disembarked from a boat or similar vehicle during this movement, you can make a melee [Strike](rules/actions/strike.md) that deals one additional weapon damage die.  
 %% #trait/flourish %%

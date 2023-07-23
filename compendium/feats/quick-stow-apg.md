@@ -7,7 +7,7 @@ tags:
 aliases: ["Quick Stow"]
 ---
 # Quick Stow  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 5*  
-[ratfolk](rules/traits/ratfolk-b1.md)  
+[ratfolk](rules/traits/ratfolk-b1.md "Ratfolk Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Cheek Pouches](compendium/feats/cheek-pouches-apg.md)
 - **Frequency**: once per round

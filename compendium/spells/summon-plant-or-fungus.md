@@ -8,14 +8,14 @@ tags:
 aliases: ["Summon Plant Or Fungus"]
 ---
 # Summon Plant Or Fungus *Spell 1*   
-[conjuration](rules/traits/conjuration.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md)
+- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**30 foot
 - **Duration**sustained up to 1 minute
 
-You conjure a plant or fungus to fight for you. This works like [summon animal](compendium/spells/summon-animal.md), except you summon a common creature that has the [plant](rules/traits/plant.md) or [fungus](rules/traits/fungus-b1.md) trait and whose level is –1.
+You conjure a plant or fungus to fight for you. This works like [summon animal](compendium/spells/summon-animal.md), except you summon a common creature that has the [plant](rules/traits/plant.md "Plant Creature Type Trait") or [fungus](rules/traits/fungus-b1.md "Fungus Creature Type Trait") trait and whose level is –1.
 
 **Heightened (2nd)** Level 1.
 

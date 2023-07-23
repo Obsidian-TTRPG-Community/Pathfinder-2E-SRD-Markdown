@@ -7,7 +7,7 @@ tags:
 aliases: ["Soul Arsenal"]
 ---
 # Soul Arsenal  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Soulforger Dedication](compendium/feats/soulforger-dedication-som.md)
 

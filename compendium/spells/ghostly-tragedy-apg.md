@@ -10,9 +10,9 @@ tags:
 aliases: ["Ghostly Tragedy"]
 ---
 # Ghostly Tragedy *Spell 4*   
-[divination](rules/traits/divination.md)  [uncommon](rules/traits/uncommon.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md), [occult](rules/traits/occult.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** (1 minute) 
 - **Area**60-foot emanation
 - **Duration**10 minutes

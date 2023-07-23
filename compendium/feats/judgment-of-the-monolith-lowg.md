@@ -7,7 +7,7 @@ tags:
 aliases: ["Judgment Of The Monolith"]
 ---
 # Judgment Of The Monolith  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Ka Stone Ritual](compendium/feats/ka-stone-ritual-lowg.md)
 

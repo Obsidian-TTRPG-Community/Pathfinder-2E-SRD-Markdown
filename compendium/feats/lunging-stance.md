@@ -8,7 +8,7 @@ tags:
 aliases: ["Lunging Stance"]
 ---
 # Lunging Stance  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 12*  
-[fighter](rules/traits/fighter.md)  [stance](rules/traits/stance.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
 
 - **Prerequisites**: [Attack of Opportunity](rules/actions/attack-of-opportunity.md), [Lunge](compendium/feats/lunge.md)
 - **Requirements**: You are wielding a melee weapon.

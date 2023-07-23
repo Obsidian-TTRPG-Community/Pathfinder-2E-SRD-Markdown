@@ -11,9 +11,9 @@ tags:
 aliases: ["Scatter Scree"]
 ---
 # Scatter Scree *Cantrip 1*   
-[cantrip](rules/traits/cantrip.md)  [earth](rules/traits/earth.md)  [evocation](rules/traits/evocation.md)  
+[cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot
 - **Area**two contiguous 5-foot cubes

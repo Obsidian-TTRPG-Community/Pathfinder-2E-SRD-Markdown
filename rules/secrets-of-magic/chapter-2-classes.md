@@ -25,7 +25,7 @@ Each archetype's dedication feat represents a certain portion of your character'
 
 Sometimes an archetype feat lets you gain another feat, such as the summoner's [Basic Synergy](compendium/feats/basic-synergy-som.md). You must still meet the prerequisites of that feat.
 
-Archetypes with the [multiclass](rules/traits/multiclass.md) trait, like both the magus and summoner archetypes, represent diversifying your training into another class's specialties. You can't select a multiclass archetype's dedication feat if you are a member of the class of the same name (for instance, a magus can't select the [Magus Dedication](compendium/feats/magus-dedication-som.md) feat).
+Archetypes with the [multiclass](rules/traits/multiclass.md "Multiclass Feat Trait") trait, like both the magus and summoner archetypes, represent diversifying your training into another class's specialties. You can't select a multiclass archetype's dedication feat if you are a member of the class of the same name (for instance, a magus can't select the [Magus Dedication](compendium/feats/magus-dedication-som.md) feat).
 
 ### Bounded Spellcasting Archetype
 <sup>SoM p. 74</sup>

@@ -12,7 +12,7 @@ tags:
 aliases: ["Fearsome"]
 ---
 # Fearsome *Item 5+*  
-[emotion](rules/traits/emotion.md)  [enchantment](rules/traits/enchantment.md)  [fear](rules/traits/fear.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  
+[emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 - **Usage** etched onto a weapon
 - **Category** Rune

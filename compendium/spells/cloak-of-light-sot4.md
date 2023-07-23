@@ -12,9 +12,9 @@ tags:
 aliases: ["Cloak of Light"]
 ---
 # Cloak of Light *Spell 4*   
-[healing](rules/traits/healing.md)  [light](rules/traits/light.md)  [necromancy](rules/traits/necromancy.md)  [positive](rules/traits/positive.md)  [uncommon](rules/traits/uncommon.md)  
+[healing](rules/traits/healing.md "Healing Effect Trait")  [light](rules/traits/light.md "Light Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md), [primal](rules/traits/primal.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Duration**sustained up to 5 rounds
 

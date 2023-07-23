@@ -7,7 +7,7 @@ tags:
 aliases: ["Chemical Contagion"]
 ---
 # Chemical Contagion  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 16*  
-[alchemist](rules/traits/alchemist.md)  
+[alchemist](rules/traits/alchemist.md "Alchemist Class Trait")  
 
 - **Trigger** A creature within 30 feet critically fails its initial saving throw against a poison you created.
 - **Activity** Reaction

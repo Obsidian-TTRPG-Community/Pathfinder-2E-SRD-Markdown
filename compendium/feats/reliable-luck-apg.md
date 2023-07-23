@@ -7,7 +7,7 @@ tags:
 aliases: ["Reliable Luck"]
 ---
 # Reliable Luck  *Feat 17*  
-[catfolk](rules/traits/catfolk-b1.md)  
+[catfolk](rules/traits/catfolk-b1.md "Catfolk Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Cat's Luck](compendium/feats/cats-luck-apg.md)
 

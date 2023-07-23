@@ -10,7 +10,7 @@ tags:
 aliases: ["Dazzling Block"]
 ---
 # Dazzling Block  *Feat 10*  
-[evocation](rules/traits/evocation.md)  [light](rules/traits/light.md)  [magus](rules/traits/magus-som.md)  [visual](rules/traits/visual.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [light](rules/traits/light.md "Light Effect Trait")  [magus](rules/traits/magus-som.md "Magus Class Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Prerequisites**: [Arcane Cascade](rules/actions/arcane-cascade-som.md), sparkling targe hybrid study
 - **Requirements**: You are in [Arcane Cascade](rules/actions/arcane-cascade-som.md) stance.

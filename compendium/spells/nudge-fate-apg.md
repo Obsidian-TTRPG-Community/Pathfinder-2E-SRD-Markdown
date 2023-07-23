@@ -12,7 +12,7 @@ tags:
 aliases: ["Nudge Fate"]
 ---
 # Nudge Fate *Cantrip 1*   
-[cantrip](rules/traits/cantrip.md)  [divination](rules/traits/divination.md)  [hex](rules/traits/hex-apg.md)  [uncommon](rules/traits/uncommon.md)  [witch](rules/traits/witch-apg.md)  
+[cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [hex](rules/traits/hex-apg.md "Hex Combat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [witch](rules/traits/witch-apg.md "Witch Class Trait")  
 
 - **Patron** Witch
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 

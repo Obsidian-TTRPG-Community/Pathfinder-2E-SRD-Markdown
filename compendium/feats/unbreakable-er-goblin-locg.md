@@ -7,7 +7,7 @@ tags:
 aliases: ["Unbreakable-er Goblin"]
 ---
 # Unbreakable-er Goblin  *Feat 13*  
-[goblin](rules/traits/goblin.md)  
+[goblin](rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  
 
 - **Prerequisites**: unbreakable goblin heritage
 

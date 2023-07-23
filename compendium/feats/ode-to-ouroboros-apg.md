@@ -7,7 +7,7 @@ tags:
 aliases: ["Ode To Ouroboros"]
 ---
 # Ode To Ouroboros  *Feat 10*  
-[bard](rules/traits/bard.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  
 
 
 You learn the [ode to ouroboros](compendium/spells/ode-to-ouroboros-apg.md) composition spell, which enables you to temporarily spare your allies from death.

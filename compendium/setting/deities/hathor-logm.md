@@ -10,12 +10,12 @@ tags:
 - domain/wealth/deity
 aliases: ["Hathor", "Mistress of Jubilation"]
 ---
-# Hathor (Mistress of Jubilation) *([CG](rules/traits/chaotic-good-b1.md))*  
+# Hathor (Mistress of Jubilation) *([CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 124*  
 
 - **Category**: Ancient Osirian Gods
 - **Anathema**: Discriminate or slight someone based on appearance, intentionally disfigure a creature, refuse food to the starving
-- **Follower Alignments**: [NG](rules/traits/neutral-good-b1.md), [CG](rules/traits/chaotic-good-b1.md)
+- **Follower Alignments**: [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")
 
 ## Devotee benefits
 

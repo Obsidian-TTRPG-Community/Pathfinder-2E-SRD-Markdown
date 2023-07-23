@@ -7,7 +7,7 @@ tags:
 aliases: ["Talismanic Sage"]
 ---
 # Talismanic Sage  *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Talisman Dabbler Dedication](compendium/feats/talisman-dabbler-dedication-apg.md)
 

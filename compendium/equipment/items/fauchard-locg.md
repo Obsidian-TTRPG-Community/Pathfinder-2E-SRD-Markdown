@@ -11,7 +11,7 @@ tags:
 aliases: ["Fauchard"]
 ---
 # Fauchard *Item 0*  
-[deadly <d8>](rules/traits/deadly.md)  [reach](rules/traits/reach.md)  [sweep](rules/traits/sweep.md)  [trip](rules/traits/trip.md)  
+[deadly <d8>](rules/traits/deadly-d8.md "Deadly Weapon Trait")  [reach](rules/traits/reach.md "Reach Weapon Trait")  [sweep](rules/traits/sweep.md "Sweep Weapon Trait")  [trip](rules/traits/trip.md "Trip Weapon Trait")  
 
 - **Price** 14 sp
 - **Bulk** 2

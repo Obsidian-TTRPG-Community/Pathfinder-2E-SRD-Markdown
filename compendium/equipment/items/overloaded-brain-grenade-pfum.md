@@ -13,7 +13,7 @@ tags:
 aliases: ["Overloaded Brain Grenade"]
 ---
 # Overloaded Brain Grenade *Item 10*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [fire](rules/traits/fire.md)  [mental](rules/traits/mental.md)  [splash](rules/traits/splash.md)  [unique](rules/traits/unique.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [splash](rules/traits/splash.md "Splash Weapon Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Price** 200 gp
 - **Usage** held in 2 hands; **Bulk** 1

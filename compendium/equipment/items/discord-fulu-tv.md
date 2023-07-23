@@ -12,7 +12,7 @@ tags:
 aliases: ["Discord Fulu"]
 ---
 # Discord Fulu *Item 5*  
-[consumable](rules/traits/consumable.md)  [enchantment](rules/traits/enchantment.md)  [fulu](rules/traits/fulu-som.md)  [magical](rules/traits/magical.md)  [misfortune](rules/traits/misfortune.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [fulu](rules/traits/fulu-som.md "Fulu Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [misfortune](rules/traits/misfortune.md "Misfortune Effect Trait")  
 
 - **Price** 22 gp
 - **Usage** affixed to a creature; **Bulk** —

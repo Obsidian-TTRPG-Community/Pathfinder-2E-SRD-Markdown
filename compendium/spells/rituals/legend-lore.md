@@ -9,7 +9,7 @@ tags:
 aliases: ["Legend Lore"]
 ---
 # Legend Lore *Ritual 7*  
-[divination](rules/traits/divination.md)  [uncommon](rules/traits/uncommon.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** 1 day
 - **Cost** rare incense worth a total value of 300 gp

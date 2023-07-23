@@ -13,7 +13,7 @@ tags:
 aliases: ["Shatter Mind"]
 ---
 # Shatter Mind *Cantrip 3*   
-[cantrip](rules/traits/cantrip.md)  [evocation](rules/traits/evocation.md)  [mental](rules/traits/mental.md)  [psychic](rules/traits/psychic-da.md)  [uncommon](rules/traits/uncommon.md)  
+[cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**15-foot cone

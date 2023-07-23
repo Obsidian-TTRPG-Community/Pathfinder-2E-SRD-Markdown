@@ -7,7 +7,7 @@ tags:
 aliases: ["Spirit Strikes"]
 ---
 # Spirit Strikes  *Feat 9*  
-[duskwalker](rules/traits/duskwalker-apg.md)  
+[duskwalker](rules/traits/duskwalker-apg.md "Duskwalker Ancestry & Heritage Trait")  
 
 
 Your connection to the Boneyard empowers you to bring death to all forms of life and unlife, exploiting their weaknesses. All your weapon and unarmed [Strikes](rules/actions/strike.md) are magical and deal 1 additional negative damage to living creatures and 1 additional positive damage to undead.

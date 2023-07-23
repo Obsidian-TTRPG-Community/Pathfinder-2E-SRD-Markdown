@@ -8,7 +8,7 @@ tags:
 aliases: ["Read Lips"]
 ---
 # Read Lips  *Feat 1*  
-[general](rules/traits/general.md)  [skill](rules/traits/skill.md)  
+[general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: trained in [Society](compendium/skills.md#Society)
 

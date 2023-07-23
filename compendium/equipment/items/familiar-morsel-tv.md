@@ -10,7 +10,7 @@ tags:
 aliases: ["Familiar Morsel"]
 ---
 # Familiar Morsel *Item 5*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 30 gp
 - **Usage** held in 1 hand

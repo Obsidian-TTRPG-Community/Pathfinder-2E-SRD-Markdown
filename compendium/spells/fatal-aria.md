@@ -14,7 +14,7 @@ tags:
 aliases: ["Fatal Aria"]
 ---
 # Fatal Aria *Focus 10*   
-[bard](rules/traits/bard.md)  [composition](rules/traits/composition.md)  [death](rules/traits/death.md)  [emotion](rules/traits/emotion.md)  [enchantment](rules/traits/enchantment.md)  [mental](rules/traits/mental.md)  [uncommon](rules/traits/uncommon.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  [composition](rules/traits/composition.md "Composition Spell Trait")  [death](rules/traits/death.md "Death Effect Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**30 foot

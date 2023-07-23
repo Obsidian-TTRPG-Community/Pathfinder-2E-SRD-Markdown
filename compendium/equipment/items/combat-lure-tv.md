@@ -12,7 +12,7 @@ tags:
 aliases: ["Combat Lure"]
 ---
 # Combat Lure *Item 0*  
-[finesse](rules/traits/finesse.md)  [tethered](rules/traits/tethered-b1.md)  [thrown <20 feet>](rules/traits/thrown.md)  [training](rules/traits/training-tv.md)  [uncommon](rules/traits/uncommon.md)  
+[finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [tethered](rules/traits/tethered-b1.md "Tethered Weapon Trait")  [thrown <20 feet>](rules/traits/thrown-20-feet.md "Thrown Weapon Trait")  [training](rules/traits/training-tv.md "Training Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 2 gp
 - **Bulk** 1

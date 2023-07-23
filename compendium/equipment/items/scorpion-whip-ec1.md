@@ -12,7 +12,7 @@ tags:
 aliases: ["Scorpion Whip"]
 ---
 # Scorpion Whip *Item 0*  
-[disarm](rules/traits/disarm.md)  [finesse](rules/traits/finesse.md)  [reach](rules/traits/reach.md)  [trip](rules/traits/trip.md)  [uncommon](rules/traits/uncommon.md)  
+[disarm](rules/traits/disarm.md "Disarm Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [reach](rules/traits/reach.md "Reach Weapon Trait")  [trip](rules/traits/trip.md "Trip Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 5 sp
 - **Bulk** L

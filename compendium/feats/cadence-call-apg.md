@@ -9,7 +9,7 @@ tags:
 aliases: ["Cadence Call"]
 ---
 # Cadence Call  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  [auditory](rules/traits/auditory.md)  [flourish](rules/traits/flourish.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 - **Prerequisites**: [Marshal Dedication](compendium/feats/marshal-dedication-apg.md)
 - **Frequency**: once per minute

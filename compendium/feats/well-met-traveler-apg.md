@@ -7,7 +7,7 @@ tags:
 aliases: ["Well-met Traveler"]
 ---
 # Well-met Traveler  *Feat 1*  
-[catfolk](rules/traits/catfolk-b1.md)  
+[catfolk](rules/traits/catfolk-b1.md "Catfolk Ancestry & Heritage Trait")  
 
 
 You have seen people from so many walks of life in your travels that you naturally adopt a pleasant and affable demeanor when meeting others. You are trained in [Diplomacy](compendium/skills.md#Diplomacy). If you would automatically become trained in [Diplomacy](compendium/skills.md#Diplomacy) (from your background or class, for example), you instead become trained in a skill of your choice.

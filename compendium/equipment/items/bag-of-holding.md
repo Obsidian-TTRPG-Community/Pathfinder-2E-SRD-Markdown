@@ -10,7 +10,7 @@ tags:
 aliases: ["Bag of Holding"]
 ---
 # Bag of Holding *Item 4+*  
-[conjuration](rules/traits/conjuration.md)  [extradimensional](rules/traits/extradimensional.md)  [magical](rules/traits/magical.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [extradimensional](rules/traits/extradimensional.md "Extradimensional Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Usage** held in 2 hands; **Bulk** 1
 - **Category** Held

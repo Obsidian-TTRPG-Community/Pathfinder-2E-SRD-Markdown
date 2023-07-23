@@ -12,7 +12,7 @@ tags:
 aliases: ["Downpour"]
 ---
 # Downpour *Focus 4*   
-[cleric](rules/traits/cleric.md)  [evocation](rules/traits/evocation.md)  [uncommon](rules/traits/uncommon.md)  [water](rules/traits/water.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
 - **Domains**: [water](compendium/setting/domains.md#Water)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

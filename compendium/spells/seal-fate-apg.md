@@ -10,9 +10,9 @@ tags:
 aliases: ["Seal Fate"]
 ---
 # Seal Fate *Spell 4*   
-[curse](rules/traits/curse.md)  [death](rules/traits/death.md)  [necromancy](rules/traits/necromancy.md)  
+[curse](rules/traits/curse.md "Curse Effect Trait")  [death](rules/traits/death.md "Death Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [divine](rules/traits/divine.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**touch
 - **Targets**1 living creature

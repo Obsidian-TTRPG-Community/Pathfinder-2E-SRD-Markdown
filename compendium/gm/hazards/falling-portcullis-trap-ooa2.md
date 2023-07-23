@@ -8,7 +8,7 @@ tags:
 aliases: ["Falling Portcullis Trap"]
 ---
 # Falling Portcullis Trap *Hazard 7*  
-[mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  
+[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 22 expert to spot the sockets in the floor where the portcullis drops; DC 28 (expert) to spot the floor trigger  

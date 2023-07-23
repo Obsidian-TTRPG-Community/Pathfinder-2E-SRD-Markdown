@@ -11,7 +11,7 @@ tags:
 aliases: ["Anathema Fulu"]
 ---
 # Anathema Fulu *Item 11*  
-[abjuration](rules/traits/abjuration.md)  [consumable](rules/traits/consumable.md)  [fulu](rules/traits/fulu-som.md)  [magical](rules/traits/magical.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [fulu](rules/traits/fulu-som.md "Fulu Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 250 gp
 - **Usage** affixed to the ground in four spaces along a circle with a 20‑foot radius; **Bulk** —

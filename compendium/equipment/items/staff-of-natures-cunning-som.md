@@ -11,7 +11,7 @@ tags:
 aliases: ["Staff Of Nature's Cunning"]
 ---
 # Staff Of Nature's Cunning *Item 7+*  
-[magical](rules/traits/magical.md)  [plant](rules/traits/plant.md)  [staff](rules/traits/staff.md)  [transmutation](rules/traits/transmutation.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Staff

@@ -7,7 +7,7 @@ tags:
 aliases: ["Raging Athlete"]
 ---
 # Raging Athlete  *Feat 4*  
-[barbarian](rules/traits/barbarian.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  
 
 - **Prerequisites**: expert in [Athletics](compendium/skills.md#Athletics)
 

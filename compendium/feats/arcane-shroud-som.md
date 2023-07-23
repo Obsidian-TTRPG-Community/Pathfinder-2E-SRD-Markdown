@@ -7,7 +7,7 @@ tags:
 aliases: ["Arcane Shroud"]
 ---
 # Arcane Shroud  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 14*  
-[magus](rules/traits/magus-som.md)  
+[magus](rules/traits/magus-som.md "Magus Class Trait")  
 
 - **Prerequisites**: [Arcane Cascade](rules/actions/arcane-cascade-som.md), [Spellstrike](rules/actions/spellstrike-som.md)
 - **Frequency**: once per turn

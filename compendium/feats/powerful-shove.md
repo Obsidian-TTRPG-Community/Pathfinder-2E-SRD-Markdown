@@ -7,7 +7,7 @@ tags:
 aliases: ["Powerful Shove"]
 ---
 # Powerful Shove  *Feat 4*  
-[fighter](rules/traits/fighter.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 - **Prerequisites**: [Aggressive Block](compendium/feats/aggressive-block.md) or [Brutish Shove](compendium/feats/brutish-shove.md)
 

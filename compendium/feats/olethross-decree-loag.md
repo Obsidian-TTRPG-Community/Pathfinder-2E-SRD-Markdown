@@ -10,7 +10,7 @@ tags:
 aliases: ["Olethros's Decree"]
 ---
 # Olethros's Decree  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 17*  
-[death](rules/traits/death.md)  [divine](rules/traits/divine.md)  [duskwalker](rules/traits/duskwalker-apg.md)  [necromancy](rules/traits/necromancy.md)  
+[death](rules/traits/death.md "Death Effect Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [duskwalker](rules/traits/duskwalker-apg.md "Duskwalker Ancestry & Heritage Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 - **Frequency**: once per day
 - **Activity** Single Action

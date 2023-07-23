@@ -7,7 +7,7 @@ tags:
 aliases: ["Enigma's Knowledge"]
 ---
 # Enigma's Knowledge  *Feat 12*  
-[bard](rules/traits/bard.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  
 
 - **Prerequisites**: [Assured Knowledge](compendium/feats/assured-knowledge-apg.md)
 

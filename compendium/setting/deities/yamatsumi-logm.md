@@ -10,12 +10,12 @@ tags:
 - domain/might/deity
 aliases: ["Yamatsumi", "The Mountain Lord"]
 ---
-# Yamatsumi (The Mountain Lord) *([N](rules/traits/neutral-b1.md))*  
+# Yamatsumi (The Mountain Lord) *([N](rules/traits/n-b1.md "Neutral Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 132*  
 
 - **Category**: Tian Gods
 - **Anathema**: become reliant on civilization, destroy something without creating or growing something in its place
-- **Follower Alignments**: [LN](rules/traits/lawful-neutral-b1.md), [NG](rules/traits/neutral-good-b1.md), [N](rules/traits/neutral-b1.md), [CN](rules/traits/chaotic-neutral-b1.md)
+- **Follower Alignments**: [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")
 
 ## Devotee benefits
 

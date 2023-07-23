@@ -7,7 +7,7 @@ tags:
 aliases: ["Maiden's Mending"]
 ---
 # Maiden's Mending  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
-[changeling](rules/traits/changeling-b1.md)  
+[changeling](rules/traits/changeling-b1.md "Changeling Ancestry & Heritage Trait")  
 
 - **Frequency**: once per minute
 - **Trigger** You cast a non-cantrip occult spell or an innate spell from a changeling ancestry feat.

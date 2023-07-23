@@ -9,7 +9,7 @@ tags:
 aliases: ["Sap"]
 ---
 # Sap *Item 0*  
-[agile](rules/traits/agile.md)  [nonlethal](rules/traits/nonlethal.md)  
+[agile](rules/traits/agile.md "Agile Weapon Trait")  [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait")  
 
 - **Price** 1 sp
 - **Bulk** L

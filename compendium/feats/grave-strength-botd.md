@@ -7,7 +7,7 @@ tags:
 aliases: ["Grave Strength"]
 ---
 # Grave Strength  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Ghoul Dedication](compendium/feats/ghoul-dedication-botd.md)
 

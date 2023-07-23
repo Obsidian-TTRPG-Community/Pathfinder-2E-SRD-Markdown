@@ -9,7 +9,7 @@ tags:
 aliases: ["Subduing Gas Chamber"]
 ---
 # Subduing Gas Chamber *Hazard 5*  
-[complex](rules/traits/complex.md)  [mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +10 expert  
@@ -40,7 +40,7 @@ title: Slam Door [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "
 ```
 ```ad-embed-ability
 title: Sleeping Gas
-[inhaled](rules/traits/inhaled.md)  [poison](rules/traits/poison.md)  
+[inhaled](rules/traits/inhaled.md "Inhaled Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
   
 %% #trait/inhaled #trait/poison %%

@@ -9,7 +9,7 @@ tags:
 aliases: ["Lethal Finisher"]
 ---
 # Lethal Finisher  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 18*  
-[death](rules/traits/death.md)  [finisher](rules/traits/finisher-apg.md)  [swashbuckler](rules/traits/swashbuckler-apg.md)  
+[death](rules/traits/death.md "Death Effect Trait")  [finisher](rules/traits/finisher-apg.md "Finisher Combat Trait")  [swashbuckler](rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  
 
 - **Prerequisites**: precise strike `6d6`
 - **Activity** Single Action

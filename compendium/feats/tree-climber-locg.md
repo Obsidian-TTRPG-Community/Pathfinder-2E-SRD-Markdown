@@ -7,7 +7,7 @@ tags:
 aliases: ["Tree Climber"]
 ---
 # Tree Climber  *Feat 5*  
-[goblin](rules/traits/goblin.md)  
+[goblin](rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  
 
 - **Prerequisites**: tailed goblin or treedweller goblin heritage
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Unfettering Prankster"]
 ---
 # Unfettering Prankster  *Feat 17*  
-[vanara](rules/traits/vanara-loil.md)  
+[vanara](rules/traits/vanara-loil.md "Vanara Ancestry & Heritage Trait")  
 
 
 You can uplift all around you with your pranks, causing you and your allies to receive divine guidance in all your movements to effortlessly avoid environmental hindrances. Once per day, you can cast [unfettered pack](compendium/spells/unfettered-pack.md) as a divine innate spell. When you do so, you cast the spell by performing a divinely inspired prank.

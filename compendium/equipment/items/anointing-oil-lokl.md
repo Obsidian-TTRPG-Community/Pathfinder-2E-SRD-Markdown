@@ -12,7 +12,7 @@ tags:
 aliases: ["Anointing Oil"]
 ---
 # Anointing Oil *Item 4+*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [oil](rules/traits/oil.md)  [uncommon](rules/traits/uncommon.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [oil](rules/traits/oil.md "Oil Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** Knights of Lastwall have access to this item.
 - **Usage** held in 2 hands; **Bulk** L

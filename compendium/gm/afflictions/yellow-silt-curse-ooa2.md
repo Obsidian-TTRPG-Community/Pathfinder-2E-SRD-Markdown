@@ -14,7 +14,7 @@ aliases: ["Yellow Silt Curse"]
 ---
 # Yellow Silt Curse
 *Curse 6*  
-[curse](rules/traits/curse.md)  [enchantment](rules/traits/enchantment.md)  [fear](rules/traits/fear.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  
+[curse](rules/traits/curse.md "Curse Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 You never forget the eerie song and frightening movements of the yellow silt. You need to make this save after each full day you spend in the Baffled Lowlands, increasing the save DC by 1 for each consecutive day.
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Shape Of The Dragon"]
 ---
 # Shape Of The Dragon  *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Dragon Disciple Dedication](compendium/feats/dragon-disciple-dedication-apg.md)
 

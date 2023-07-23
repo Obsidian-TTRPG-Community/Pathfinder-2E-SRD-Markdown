@@ -12,7 +12,7 @@ tags:
 aliases: ["Donchak"]
 ---
 # Donchak *Item 0*  
-[hampering](rules/traits/hampering-loag.md)  [reach](rules/traits/reach.md)  [tethered](rules/traits/tethered-b1.md)  [thrown <20 ft.>](rules/traits/thrown.md)  [uncommon](rules/traits/uncommon.md)  
+[hampering](rules/traits/hampering-loag.md "Hampering Weapon Trait")  [reach](rules/traits/reach.md "Reach Weapon Trait")  [tethered](rules/traits/tethered-b1.md "Tethered Weapon Trait")  [thrown <20 ft.>](rules/traits/thrown-20-ft.md "Thrown Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 4 gp
 - **Bulk** 2

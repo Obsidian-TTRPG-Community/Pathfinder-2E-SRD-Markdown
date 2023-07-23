@@ -8,7 +8,7 @@ tags:
 aliases: ["Positioning Assault"]
 ---
 # Positioning Assault  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
-[fighter](rules/traits/fighter.md)  [flourish](rules/traits/flourish.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 - **Requirements**: You are wielding a two-handed melee weapon and your target is within your reach.
 - **Activity** Two-Action

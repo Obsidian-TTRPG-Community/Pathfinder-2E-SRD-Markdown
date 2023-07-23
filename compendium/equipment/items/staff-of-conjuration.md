@@ -10,7 +10,7 @@ tags:
 aliases: ["Staff of Conjuration"]
 ---
 # Staff of Conjuration *Item 6+*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [staff](rules/traits/staff.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Staff

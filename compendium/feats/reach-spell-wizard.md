@@ -9,7 +9,7 @@ tags:
 aliases: ["Reach Spell (Wizard)"]
 ---
 # Reach Spell (Wizard)  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
-[concentrate](rules/traits/concentrate.md)  [metamagic](rules/traits/metamagic.md)  [wizard](rules/traits/wizard.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Activity** Single Action
 

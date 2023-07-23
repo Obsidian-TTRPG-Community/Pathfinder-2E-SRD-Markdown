@@ -12,7 +12,7 @@ tags:
 aliases: ["Cry Of Destruction"]
 ---
 # Cry Of Destruction *Focus 1*   
-[cleric](rules/traits/cleric.md)  [evocation](rules/traits/evocation.md)  [sonic](rules/traits/sonic.md)  [uncommon](rules/traits/uncommon.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Domains**: [destruction](compendium/setting/domains.md#Destruction)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

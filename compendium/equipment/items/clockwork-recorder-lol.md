@@ -8,7 +8,7 @@ tags:
 aliases: ["Clockwork Recorder"]
 ---
 # Clockwork Recorder *Item 6*  
-[rare](rules/traits/rare.md)  
+[rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 250 gp
 - **Usage** held in 1 hand; **Bulk** L

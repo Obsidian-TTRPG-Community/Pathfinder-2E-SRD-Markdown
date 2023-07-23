@@ -14,7 +14,7 @@ tags:
 aliases: ["Wish Knife"]
 ---
 # Wish Knife *Item 0*  
-[agile](rules/traits/agile.md)  [disarm](rules/traits/disarm.md)  [finesse](rules/traits/finesse.md)  [geniekin](rules/traits/geniekin-loag.md)  [resonant](rules/traits/resonant-loag.md)  [uncommon](rules/traits/uncommon.md)  [versatile <s>](rules/traits/versatile.md)  
+[agile](rules/traits/agile.md "Agile Weapon Trait")  [disarm](rules/traits/disarm.md "Disarm Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [geniekin](rules/traits/geniekin-loag.md "Geniekin Ancestry & Heritage Trait")  [resonant](rules/traits/resonant-loag.md "Resonant Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [versatile <s>](rules/traits/versatile-s.md "Versatile Weapon Trait")  
 
 - **Price** 2 gp
 - **Bulk** L

@@ -10,7 +10,7 @@ aliases: ["Bubonic Plague"]
 ---
 # Bubonic Plague
 *Disease 3*  
-[disease](rules/traits/disease.md)  
+[disease](rules/traits/disease.md "Disease Effect Trait")  
 
 This widespread illness can sweep through entire communities, leaving few unaffected. The first indication of the disease is a telltale swelling of glands. In some cases, the disease can move into your lungs (pneumonic plague) or blood (septicemic plague), which is even more fatal. If you have bubonic plague, you can't remove the fatigued condition while affected.
 

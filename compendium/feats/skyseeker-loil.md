@@ -10,7 +10,7 @@ tags:
 aliases: ["Skyseeker"]
 ---
 # Skyseeker  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  [electricity](rules/traits/electricity.md)  [evocation](rules/traits/evocation.md)  [sonic](rules/traits/sonic.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  
 
 - **Prerequisites**: Sky and Heaven Stance
 - **Requirements**: You're in Sky and Heaven Stance.

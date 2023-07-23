@@ -11,7 +11,7 @@ tags:
 aliases: ["Coffin Bound"]
 ---
 # Coffin Bound  *Feat 12*  
-[archetype](rules/traits/archetype.md)  [divine](rules/traits/divine.md)  [necromancy](rules/traits/necromancy.md)  [negative](rules/traits/negative.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Vampire Dedication](compendium/feats/vampire-dedication-botd.md)
 

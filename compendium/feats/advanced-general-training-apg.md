@@ -7,7 +7,7 @@ tags:
 aliases: ["Advanced General Training"]
 ---
 # Advanced General Training  *Feat 13*  
-[human](rules/traits/human.md)  
+[human](rules/traits/human.md "Human Ancestry & Heritage Trait")  
 
 
 Over the course of adventuring, your adaptability has let you pick up numerous useful abilities. You gain a general feat of 7th level or lower. You must meet the feat's prerequisites.

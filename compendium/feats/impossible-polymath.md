@@ -7,7 +7,7 @@ tags:
 aliases: ["Impossible Polymath"]
 ---
 # Impossible Polymath  *Feat 18*  
-[bard](rules/traits/bard.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  
 
 - **Prerequisites**: trained in [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), or [Religion](compendium/skills.md#Religion); [Esoteric Polymath](compendium/feats/esoteric-polymath.md)
 

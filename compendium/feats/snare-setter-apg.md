@@ -7,7 +7,7 @@ tags:
 aliases: ["Snare Setter"]
 ---
 # Snare Setter  *Feat 1*  
-[kobold](rules/traits/kobold-b1.md)  
+[kobold](rules/traits/kobold-b1.md "Kobold Ancestry & Heritage Trait")  
 
 - **Prerequisites**: trained in [Crafting](compendium/skills.md#Crafting)
 

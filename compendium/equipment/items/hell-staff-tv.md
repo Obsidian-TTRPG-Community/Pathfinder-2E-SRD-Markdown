@@ -12,7 +12,7 @@ tags:
 aliases: ["Hell Staff"]
 ---
 # Hell Staff *Item 17*  
-[conjuration](rules/traits/conjuration.md)  [evil](rules/traits/evil.md)  [magical](rules/traits/magical.md)  [staff](rules/traits/staff.md)  [uncommon](rules/traits/uncommon.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [evil](rules/traits/evil.md "Evil Alignment Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 13000 gp
 - **Usage** held in 1 hand; **Bulk** 1
@@ -22,7 +22,7 @@ A hell staff is a tall, pointed staff forged of red-tinted steel with Infernal i
 
 Found mostly in Cheliax or other lands where diabolic influences hold sway, when used as a weapon the staff is a +3 greater striking axiomatic unholy staff. When you prepare this staff, if you're chaotic or good, you become [drained](rules/conditions.md#Drained) until your next daily preparations.
 
-The staff's [summon lesser servitor](compendium/spells/summon-lesser-servitor-som.md) spell can be used only to summon animals with the [fiend](rules/traits/fiend.md) trait, devils, or hell hounds (at 4th level). Its [summon fiend](compendium/spells/summon-fiend.md) spell can summon only devils or hell hounds.
+The staff's [summon lesser servitor](compendium/spells/summon-lesser-servitor-som.md) spell can be used only to summon animals with the [fiend](rules/traits/fiend.md "Fiend Creature Type Trait") trait, devils, or hell hounds (at 4th level). Its [summon fiend](compendium/spells/summon-fiend.md) spell can summon only devils or hell hounds.
 
 ```ad-embed-ability
 title: Activate

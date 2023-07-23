@@ -13,7 +13,7 @@ tags:
 aliases: ["Effervescent Decoction"]
 ---
 # Effervescent Decoction *Item 10*  
-[air](rules/traits/air.md)  [consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [potion](rules/traits/potion.md)  [uncommon](rules/traits/uncommon.md)  
+[air](rules/traits/air.md "Air Energy & Element Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [potion](rules/traits/potion.md "Potion Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 160 gp
 - **Usage** held in 1 hand; **Bulk** L

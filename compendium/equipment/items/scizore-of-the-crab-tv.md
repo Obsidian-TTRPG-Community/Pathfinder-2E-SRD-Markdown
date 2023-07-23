@@ -9,13 +9,13 @@ tags:
 aliases: ["Scizore of the Crab"]
 ---
 # Scizore of the Crab *Item 5*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 150 gp
 - **Usage** worn on 1 hand; **Bulk** 1
 - **Category** Worn
 
-A scizore of the crab is a +1 scizore (page 25) that has the [grapple](rules/traits/grapple.md) trait in addition to its normal weapon traits.
+A scizore of the crab is a +1 scizore (page 25) that has the [grapple](rules/traits/grapple.md "Grapple Weapon Trait") trait in addition to its normal weapon traits.
 
 ```ad-embed-ability
 title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")

@@ -11,7 +11,7 @@ tags:
 aliases: ["Breaching Pike"]
 ---
 # Breaching Pike *Item 0*  
-[hobgoblin](rules/traits/hobgoblin-locg.md)  [razing](rules/traits/razing-tv.md)  [reach](rules/traits/reach.md)  [uncommon](rules/traits/uncommon.md)  
+[hobgoblin](rules/traits/hobgoblin-locg.md "Hobgoblin Ancestry & Heritage Trait")  [razing](rules/traits/razing-tv.md "Razing Weapon Trait")  [reach](rules/traits/reach.md "Reach Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 8 gp
 - **Bulk** 1

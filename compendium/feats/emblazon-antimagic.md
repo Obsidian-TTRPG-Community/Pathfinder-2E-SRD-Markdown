@@ -7,7 +7,7 @@ tags:
 aliases: ["Emblazon Antimagic"]
 ---
 # Emblazon Antimagic  *Feat 12*  
-[cleric](rules/traits/cleric.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  
 
 - **Prerequisites**: [Emblazon Armament](compendium/feats/emblazon-armament.md)
 

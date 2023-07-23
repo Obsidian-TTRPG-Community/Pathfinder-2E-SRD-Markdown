@@ -11,7 +11,7 @@ tags:
 aliases: ["Blasting Beams"]
 ---
 # Blasting Beams  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 2*  
-[attack](rules/traits/attack.md)  [deviant](rules/traits/deviant-da.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  [deviant](rules/traits/deviant-da.md "Deviant Action & Ability Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Requirements**: You have a free hand.
 - **Activity** Single Action
@@ -22,7 +22,7 @@ If you succeed, the beam deals `1d6` damage for every 2 levels you have to the t
 
 **Awakening** Your beams blast through targets. Instead of making an attack roll to damage a single creature within 30 feet, you can use Blasting Beams as a 2-action activity to damage all creatures in a 60-foot line, with a basic Reflex save.
 
-**Awakening** You can choose to launch smaller, quicker beams from your eyes instead. These deal d4s instead of d6s, but the attack has the [agile](rules/traits/agile.md) trait, and you don't need a hand free to make it, though your eyes must be uncovered.
+**Awakening** You can choose to launch smaller, quicker beams from your eyes instead. These deal d4s instead of d6s, but the attack has the [agile](rules/traits/agile.md "Agile Weapon Trait") trait, and you don't need a hand free to make it, though your eyes must be uncovered.
 
 *Source: Dark Archive p. 78*  
 %% #compendium/src/pf2e/da #trait/attack #trait/deviant #trait/evocation #trait/magical #trait/rare %%

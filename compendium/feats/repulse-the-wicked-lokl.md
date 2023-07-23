@@ -7,7 +7,7 @@ tags:
 aliases: ["Repulse the Wicked"]
 ---
 # Repulse the Wicked  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Lastwall Sentry Dedication](compendium/feats/lastwall-sentry-dedication-lowg.md)
 - **Trigger** An undead within your reach critically fails an attack roll targeting you.

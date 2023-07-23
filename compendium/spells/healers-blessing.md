@@ -10,7 +10,7 @@ tags:
 aliases: ["Healer's Blessing"]
 ---
 # Healer's Blessing *Focus 1*   
-[cleric](rules/traits/cleric.md)  [necromancy](rules/traits/necromancy.md)  [uncommon](rules/traits/uncommon.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Domains**: [healing](compendium/setting/domains.md#Healing)
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 

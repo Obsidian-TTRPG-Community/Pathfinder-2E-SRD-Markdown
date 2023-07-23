@@ -8,7 +8,7 @@ tags:
 aliases: ["Verdant Presence"]
 ---
 # Verdant Presence  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 20*  
-[druid](rules/traits/druid.md)  [uncommon](rules/traits/uncommon.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Frequency**: once per hour
 - **Trigger** You take damage or cast a primal spell.

@@ -8,10 +8,10 @@ tags:
 aliases: ["Riftmarked"]
 ---
 # Riftmarked  *Feat 1*  
-[lineage](rules/traits/lineage-apg.md)  [tiefling](rules/traits/tiefling-b1.md)  
+[lineage](rules/traits/lineage-apg.md "Lineage  Trait")  [tiefling](rules/traits/tiefling-b1.md "Tiefling Ancestry & Heritage Trait")  
 
 
-Long ago, [qlippoth](rules/traits/qlippoth-b2.md) marked someone in your lineage, most likely through their ancient runestones that dot Golarion's surface. Yours is an old lineage, primordial and twisted, and you have a sense for similarly twisted things. You're trained in [Occultism](compendium/skills.md#Occultism). If you're already trained in [Occultism](compendium/skills.md#Occultism) (from your background or class, for example), you instead become trained in a skill of your choice. You also gain the [Oddity Identification](compendium/feats/oddity-identification.md) skill feat.
+Long ago, [qlippoth](rules/traits/qlippoth-b2.md "Qlippoth Creature Trait") marked someone in your lineage, most likely through their ancient runestones that dot Golarion's surface. Yours is an old lineage, primordial and twisted, and you have a sense for similarly twisted things. You're trained in [Occultism](compendium/skills.md#Occultism). If you're already trained in [Occultism](compendium/skills.md#Occultism) (from your background or class, for example), you instead become trained in a skill of your choice. You also gain the [Oddity Identification](compendium/feats/oddity-identification.md) skill feat.
 
 ## Riftmarked leads to...
 

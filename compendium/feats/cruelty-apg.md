@@ -10,7 +10,7 @@ tags:
 aliases: ["Cruelty"]
 ---
 # Cruelty  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[champion](rules/traits/champion.md)  [concentrate](rules/traits/concentrate.md)  [metamagic](rules/traits/metamagic.md)  [uncommon](rules/traits/uncommon.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: devotion spell ([touch of corruption](compendium/spells/touch-of-corruption-apg.md))
 - **Activity** Single Action

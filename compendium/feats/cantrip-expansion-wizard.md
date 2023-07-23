@@ -7,7 +7,7 @@ tags:
 aliases: ["Cantrip Expansion (Wizard)"]
 ---
 # Cantrip Expansion (Wizard)  *Feat 2*  
-[wizard](rules/traits/wizard.md)  
+[wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 
 Dedicated study allows you to prepare a wider range of simple spells. You can prepare two additional cantrips each day.

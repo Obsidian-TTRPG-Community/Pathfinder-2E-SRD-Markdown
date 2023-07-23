@@ -7,7 +7,7 @@ tags:
 aliases: ["Canopy Sight"]
 ---
 # Canopy Sight  *Feat 1*  
-[vanara](rules/traits/vanara-loil.md)  
+[vanara](rules/traits/vanara-loil.md "Vanara Ancestry & Heritage Trait")  
 
 
 You can see equally well even in dense jungles where only a small amount of light shines through. You gain low-light vision.

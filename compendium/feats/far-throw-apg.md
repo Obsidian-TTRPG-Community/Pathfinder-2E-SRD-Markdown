@@ -7,7 +7,7 @@ tags:
 aliases: ["Far Throw"]
 ---
 # Far Throw  *Feat 6*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 
 When you [Strike](rules/actions/strike.md) with a thrown weapon, you take only a –1 penalty for each additional range increment between you and the target, rather than a –2 penalty.

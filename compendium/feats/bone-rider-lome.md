@@ -7,7 +7,7 @@ tags:
 aliases: ["Bone Rider"]
 ---
 # Bone Rider  *Feat 17*  
-[lizardfolk](rules/traits/lizardfolk-b1.md)  
+[lizardfolk](rules/traits/lizardfolk-b1.md "Lizardfolk Ancestry & Heritage Trait")  
 
 
 Using your ancestors' bones, you manifest their spirits around you in a fossilized form, terrifying your foes. You can cast [mask of terror](compendium/spells/mask-of-terror.md) on yourself as a primal innate spell once per day. When you do, you appear as a skeletal lizardfolk ancestor, twisted in a way that inspires the deepest fears of those who observe you.

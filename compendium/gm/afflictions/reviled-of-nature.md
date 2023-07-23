@@ -14,7 +14,7 @@ aliases: ["Reviled of Nature"]
 ---
 # Reviled of Nature
 *Curse 18*  
-[curse](rules/traits/curse.md)  [emotion](rules/traits/emotion.md)  [enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  
+[curse](rules/traits/curse.md "Curse Effect Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 This curse makes the hunter into the hunted, drawing the ire of animals wherever you go.
 

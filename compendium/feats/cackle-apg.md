@@ -7,7 +7,7 @@ tags:
 aliases: ["Cackle"]
 ---
 # Cackle  *Feat 1*  
-[witch](rules/traits/witch-apg.md)  
+[witch](rules/traits/witch-apg.md "Witch Class Trait")  
 
 
 You can extend one of your spells with a quick burst of laughter. You learn the [cackle](compendium/spells/cackle-apg.md) hex. Increase the number of Focus Points in your focus pool by 1.

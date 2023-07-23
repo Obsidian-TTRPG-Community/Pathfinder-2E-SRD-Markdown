@@ -9,7 +9,7 @@ tags:
 aliases: ["Constricting Hold"]
 ---
 # Constricting Hold  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
-[eidolon](rules/traits/eidolon-som.md)  [evolution](rules/traits/evolution-som.md)  [summoner](rules/traits/summoner-som.md)  
+[eidolon](rules/traits/eidolon-som.md "Eidolon Creature Type Trait")  [evolution](rules/traits/evolution-som.md "Evolution Feat Trait")  [summoner](rules/traits/summoner-som.md "Summoner Class Trait")  
 
 - **Requirements**: Your eidolon has a creature [grabbed](rules/conditions.md#Grabbed) or [restrained](rules/conditions.md#Restrained).
 - **Activity** Single Action

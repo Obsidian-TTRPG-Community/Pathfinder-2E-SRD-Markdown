@@ -7,7 +7,7 @@ tags:
 aliases: ["Reactive Pursuit"]
 ---
 # Reactive Pursuit  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 4*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Trigger** An adjacent foe moves away from you, and you can reach at least one space adjacent to the foe with a [Stride](rules/actions/stride.md) action.
 - **Activity** Reaction

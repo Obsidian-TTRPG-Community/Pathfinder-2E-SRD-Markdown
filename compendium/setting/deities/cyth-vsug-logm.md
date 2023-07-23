@@ -10,12 +10,12 @@ tags:
 - domain/plague/deity
 aliases: ["Cyth-V'sug", "Prince of the Blasted Heath"]
 ---
-# Cyth-V'sug (Prince of the Blasted Heath) *([CE](rules/traits/chaotic-evil-b1.md))*  
+# Cyth-V'sug (Prince of the Blasted Heath) *([CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 76*  
 
 - **Category**: Demon Lords
 - **Anathema**: Purify your food, cure a disease or kill a parasite, tolerate another demon lord or their servants (except [Treerazer](compendium/setting/deities/treerazer-b1.md))
-- **Follower Alignments**: [CE](rules/traits/chaotic-evil-b1.md)
+- **Follower Alignments**: [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
 

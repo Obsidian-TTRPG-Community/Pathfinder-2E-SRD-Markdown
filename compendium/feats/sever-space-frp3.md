@@ -11,7 +11,7 @@ tags:
 aliases: ["Sever Space"]
 ---
 # Sever Space  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 20*  
-[conjuration](rules/traits/conjuration.md)  [fighter](rules/traits/fighter.md)  [flourish](rules/traits/flourish.md)  [teleportation](rules/traits/teleportation.md)  [uncommon](rules/traits/uncommon.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [fighter](rules/traits/fighter.md "Fighter Class Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Requirements**: You are wielding a weapon that deals slashing damage or have an unarmed [Strike](rules/actions/strike.md) that deals slashing damage.
 - **Activity** Two-Action

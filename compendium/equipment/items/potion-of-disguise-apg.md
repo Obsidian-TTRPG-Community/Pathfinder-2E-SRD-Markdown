@@ -13,7 +13,7 @@ tags:
 aliases: ["Potion Of Disguise"]
 ---
 # Potion Of Disguise *Item 5+*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [polymorph](rules/traits/polymorph.md)  [potion](rules/traits/potion.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [potion](rules/traits/potion.md "Potion Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md)

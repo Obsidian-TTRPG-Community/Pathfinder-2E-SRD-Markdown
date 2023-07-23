@@ -7,7 +7,7 @@ tags:
 aliases: ["Tower Shield Mastery"]
 ---
 # Tower Shield Mastery  *Feat 20*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Knight Vigilant Dedication](compendium/feats/knight-vigilant-dedication-locg.md)
 

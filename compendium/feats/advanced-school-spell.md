@@ -7,7 +7,7 @@ tags:
 aliases: ["Advanced School Spell"]
 ---
 # Advanced School Spell  *Feat 8*  
-[wizard](rules/traits/wizard.md)  
+[wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Prerequisites**: arcane school
 

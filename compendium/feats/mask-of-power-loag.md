@@ -7,7 +7,7 @@ tags:
 aliases: ["Mask Of Power"]
 ---
 # Mask Of Power  *Feat 5*  
-[orc](rules/traits/orc.md)  
+[orc](rules/traits/orc.md "Orc Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Orc Warmask](compendium/feats/orc-warmask-loag.md)
 

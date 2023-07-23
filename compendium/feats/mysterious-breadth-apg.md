@@ -7,7 +7,7 @@ tags:
 aliases: ["Mysterious Breadth"]
 ---
 # Mysterious Breadth  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Oracle Spellcasting](compendium/feats/basic-oracle-spellcasting-apg.md)
 

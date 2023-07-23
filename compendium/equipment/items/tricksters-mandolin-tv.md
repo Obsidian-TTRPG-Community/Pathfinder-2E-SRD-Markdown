@@ -11,7 +11,7 @@ tags:
 aliases: ["Trickster's Mandolin"]
 ---
 # Trickster's Mandolin *Item 4+*  
-[coda](rules/traits/coda-tv.md)  [illusion](rules/traits/illusion.md)  [occult](rules/traits/occult.md)  [staff](rules/traits/staff.md)  
+[coda](rules/traits/coda-tv.md "Coda Item Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  
 
 - **Usage** held in 2 hands; **Bulk** L
 - **Category** Coda

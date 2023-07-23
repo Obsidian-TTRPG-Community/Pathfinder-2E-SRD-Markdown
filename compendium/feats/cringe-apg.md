@@ -10,7 +10,7 @@ tags:
 aliases: ["Cringe"]
 ---
 # Cringe  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
-[emotion](rules/traits/emotion.md)  [kobold](rules/traits/kobold-b1.md)  [mental](rules/traits/mental.md)  [visual](rules/traits/visual.md)  
+[emotion](rules/traits/emotion.md "Emotion Effect Trait")  [kobold](rules/traits/kobold-b1.md "Kobold Ancestry & Heritage Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Trigger** A creature you are aware of critically succeeds on a [Strike](rules/actions/strike.md) against you and would deal damage to you.
 - **Activity** Reaction

@@ -8,7 +8,7 @@ tags:
 aliases: ["Traveler's Cloak"]
 ---
 # Traveler's Cloak *Item 1*  
-[uncommon](rules/traits/uncommon.md)  
+[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** Knights of Lastwall have access to this item.
 - **Price** 7 gp

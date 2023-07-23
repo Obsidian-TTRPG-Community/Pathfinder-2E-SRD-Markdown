@@ -12,7 +12,7 @@ tags:
 aliases: ["Dragonscale Cameo"]
 ---
 # Dragonscale Cameo *Item 12*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [morph](rules/traits/morph.md)  [talisman](rules/traits/talisman.md)  [transmutation](rules/traits/transmutation.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [morph](rules/traits/morph.md "Morph Effect Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 400 gp
 - **Usage** affixed to armor; **Bulk** —

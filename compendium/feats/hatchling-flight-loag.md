@@ -7,7 +7,7 @@ tags:
 aliases: ["Hatchling Flight"]
 ---
 # Hatchling Flight  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 13*  
-[kobold](rules/traits/kobold-b1.md)  
+[kobold](rules/traits/kobold-b1.md "Kobold Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Winglets](compendium/feats/winglets-loag.md)
 - **Frequency**: once per round

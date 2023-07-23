@@ -7,7 +7,7 @@ tags:
 aliases: ["Murderer's Circle"]
 ---
 # Murderer's Circle  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Provocator Dedication](compendium/feats/provocator-dedication-aoe3.md)
 - **Activity** Single Action

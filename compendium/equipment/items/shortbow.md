@@ -8,7 +8,7 @@ tags:
 aliases: ["Shortbow"]
 ---
 # Shortbow *Item 0*  
-[deadly <d10>](rules/traits/deadly.md)  
+[deadly <d10>](rules/traits/deadly-d10.md "Deadly Weapon Trait")  
 
 - **Price** 3 gp
 - **Bulk** 1

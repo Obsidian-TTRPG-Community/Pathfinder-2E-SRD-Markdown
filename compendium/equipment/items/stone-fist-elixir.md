@@ -11,13 +11,13 @@ tags:
 aliases: ["Stone Fist Elixir"]
 ---
 # Stone Fist Elixir *Item 4*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [elixir](rules/traits/elixir.md)  [morph](rules/traits/morph.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [elixir](rules/traits/elixir.md "Elixir Item Trait")  [morph](rules/traits/morph.md "Morph Effect Trait")  
 
 - **Price** 13 gp
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md)
 - **Category** Elixir
 
-Your fists become hard as stone. For 1 hour, your fists deal `1d6` bludgeoning damage and lose the [nonlethal](rules/traits/nonlethal.md) trait.
+Your fists become hard as stone. For 1 hour, your fists deal `1d6` bludgeoning damage and lose the [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait") trait.
 
 *Source: Core Rulebook p. 550*

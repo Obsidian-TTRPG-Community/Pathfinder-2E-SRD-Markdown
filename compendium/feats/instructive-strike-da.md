@@ -7,7 +7,7 @@ tags:
 aliases: ["Instructive Strike"]
 ---
 # Instructive Strike  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[thaumaturge](rules/traits/thaumaturge-da.md)  
+[thaumaturge](rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
 
 - **Activity** Single Action
 

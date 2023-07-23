@@ -9,7 +9,7 @@ tags:
 aliases: ["Quickened Casting (Bard)"]
 ---
 # Quickened Casting (Bard)  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 10*  
-[bard](rules/traits/bard.md)  [concentrate](rules/traits/concentrate.md)  [metamagic](rules/traits/metamagic.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 - **Frequency**: once per day
 - **Activity** Free Action

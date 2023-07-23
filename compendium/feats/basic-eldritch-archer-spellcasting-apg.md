@@ -7,7 +7,7 @@ tags:
 aliases: ["Basic Eldritch Archer Spellcasting"]
 ---
 # Basic Eldritch Archer Spellcasting  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Eldritch Archer Dedication](compendium/feats/eldritch-archer-dedication-apg.md)
 

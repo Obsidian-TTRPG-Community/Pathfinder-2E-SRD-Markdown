@@ -7,7 +7,7 @@ tags:
 aliases: ["Cultural Adaptability"]
 ---
 # Cultural Adaptability  *Feat 5*  
-[halfling](rules/traits/halfling.md)  
+[halfling](rules/traits/halfling.md "Halfling Ancestry & Heritage Trait")  
 
 
 During your adventures, you've honed your ability to adapt to the culture of the predominant ancestry around you. You gain the [Adopted Ancestry](compendium/feats/adopted-ancestry.md) general feat, and you also gain one 1st-level ancestry feat from the ancestry you chose for the Adopted Ancestry feat.

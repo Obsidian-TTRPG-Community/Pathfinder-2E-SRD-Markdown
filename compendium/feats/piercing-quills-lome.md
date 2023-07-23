@@ -7,7 +7,7 @@ tags:
 aliases: ["Piercing Quills"]
 ---
 # Piercing Quills  *Feat 9*  
-[shisk](rules/traits/shisk-lome.md)  
+[shisk](rules/traits/shisk-lome.md "Shisk Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Spine Stabber](compendium/feats/spine-stabber-lome.md)
 

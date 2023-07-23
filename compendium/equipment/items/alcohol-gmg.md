@@ -12,7 +12,7 @@ tags:
 aliases: ["Alcohol"]
 ---
 # Alcohol *Item 0*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [drug](rules/traits/drug-gmg.md)  [ingested](rules/traits/ingested.md)  [poison](rules/traits/poison.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [drug](rules/traits/drug-gmg.md "Drug Item Trait")  [ingested](rules/traits/ingested.md "Ingested Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md)
@@ -29,9 +29,9 @@ title: Saving Throw: DC 12 Fortitude
 
 ## Stages
 
-**Stage 1** +1 item bonus to saving throws against [fear](rules/traits/fear.md) effects (10 minutes)
+**Stage 1** +1 item bonus to saving throws against [fear](rules/traits/fear.md "Fear Effect Trait") effects (10 minutes)
 
-**Stage 2** [flat-footed](rules/conditions.md#Flat-footed), +1 item bonus to saving throws against [fear](rules/traits/fear.md) effects (10 minutes)
+**Stage 2** [flat-footed](rules/conditions.md#Flat-footed), +1 item bonus to saving throws against [fear](rules/traits/fear.md "Fear Effect Trait") effects (10 minutes)
 
 **Stage 3** [clumsy](rules/conditions.md#Clumsy), [flat-footed](rules/conditions.md#Flat-footed), [stupefied](rules/conditions.md#Stupefied) (10 minutes)
 

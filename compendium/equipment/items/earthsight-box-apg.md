@@ -11,7 +11,7 @@ tags:
 aliases: ["Earthsight Box"]
 ---
 # Earthsight Box *Item 9*  
-[divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [scrying](rules/traits/scrying.md)  [uncommon](rules/traits/uncommon.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [scrying](rules/traits/scrying.md "Scrying Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 575 gp
 - **Usage** held in 1 hand; **Bulk** L

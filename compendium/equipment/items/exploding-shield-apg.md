@@ -9,7 +9,7 @@ tags:
 aliases: ["Exploding Shield"]
 ---
 # Exploding Shield *Item 5*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 25 gp
 - **Usage** held in 1 hand; **Bulk** 1

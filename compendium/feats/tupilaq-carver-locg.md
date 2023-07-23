@@ -8,7 +8,7 @@ tags:
 aliases: ["Tupilaq Carver"]
 ---
 # Tupilaq Carver  *Feat 1*  
-[human](rules/traits/human.md)  [uncommon](rules/traits/uncommon.md)  
+[human](rules/traits/human.md "Human Ancestry & Heritage Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: Erutaki ethnicity
 - **Prerequisites**: You have a spellcasting class feature with the divine or primal tradition

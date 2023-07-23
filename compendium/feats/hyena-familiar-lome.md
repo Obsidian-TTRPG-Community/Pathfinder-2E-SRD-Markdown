@@ -7,7 +7,7 @@ tags:
 aliases: ["Hyena Familiar"]
 ---
 # Hyena Familiar  *Feat 1*  
-[gnoll](rules/traits/gnoll-b1.md)  
+[gnoll](rules/traits/gnoll-b1.md "Gnoll Ancestry & Heritage Trait")  
 
 
 Hyenas serve gnolls as pets, trackers, and in your case, vessels for spirits. You gain a Tiny hyena as a familiar.

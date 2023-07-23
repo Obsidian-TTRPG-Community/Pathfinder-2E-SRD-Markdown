@@ -7,7 +7,7 @@ tags:
 aliases: ["Vanara Weapon Expertise"]
 ---
 # Vanara Weapon Expertise  *Feat 13*  
-[vanara](rules/traits/vanara-loil.md)  
+[vanara](rules/traits/vanara-loil.md "Vanara Ancestry & Heritage Trait")  
 
 - **Prerequisites**: Vanara Weapon Familiarity
 

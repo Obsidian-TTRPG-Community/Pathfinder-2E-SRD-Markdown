@@ -7,7 +7,7 @@ tags:
 aliases: ["Advanced Synergy"]
 ---
 # Advanced Synergy  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Synergy](compendium/feats/basic-synergy-som.md)
 

@@ -9,15 +9,15 @@ tags:
 aliases: ["Flame Wisp"]
 ---
 # Flame Wisp *Spell 2*   
-[evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Duration**1 minute
 
 Three faintly glowing wisps of fire float around your head.
 
-Each time you hit a creature with a [Strike](rules/actions/strike.md), one of the wisps goes hurtling towards that creature, dealing `1d4` fire damage. If you [Cast a Spell](rules/actions/cast-a-spell.md) with the [fire](rules/traits/fire.md) trait while you have fewer than three wisps, a new wisp appears.
+Each time you hit a creature with a [Strike](rules/actions/strike.md), one of the wisps goes hurtling towards that creature, dealing `1d4` fire damage. If you [Cast a Spell](rules/actions/cast-a-spell.md) with the [fire](rules/traits/fire.md "Fire Energy & Element Trait") trait while you have fewer than three wisps, a new wisp appears.
 
 **Heightened (+ 2)** The damage increases by `1d4`.
 

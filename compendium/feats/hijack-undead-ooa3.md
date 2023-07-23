@@ -7,7 +7,7 @@ tags:
 aliases: ["Hijack Undead"]
 ---
 # Hijack Undead  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Clockwork Reanimator Dedication](compendium/feats/clockwork-reanimator-dedication-ooa3.md)
 - **Frequency**: once per hour
@@ -18,7 +18,7 @@ Your clockwork devices can commandeer the bodies of undead, bending them to your
 > [!success-degree] 
 > - **Critical Success** The target is unaffected and temporarily immune for 24 hours.
 > - **Success** The target is unaffected.
-> - **Failure** The undead creature becomes a [minion](rules/traits/minion.md) under your control for 1 minute. The control ends if you or an ally attacks the [minion](rules/traits/minion.md) undead.
+> - **Failure** The undead creature becomes a [minion](rules/traits/minion.md "Minion Creature Trait") under your control for 1 minute. The control ends if you or an ally attacks the [minion](rules/traits/minion.md "Minion Creature Trait") undead.
 > - **Critical Failure** As failure, but the duration is 1 hour.
 
 ## Hijack Undead leads to...

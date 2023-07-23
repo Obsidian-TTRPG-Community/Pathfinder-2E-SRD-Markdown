@@ -7,7 +7,7 @@ tags:
 aliases: ["Airy Step"]
 ---
 # Airy Step  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 13*  
-[sylph](rules/traits/sylph-b2.md)  
+[sylph](rules/traits/sylph-b2.md "Sylph Ancestry & Heritage Trait")  
 
 - **Frequency**: once per day
 - **Trigger** A creature targets you with an attack or other targeted effect, and you can see the attacker.

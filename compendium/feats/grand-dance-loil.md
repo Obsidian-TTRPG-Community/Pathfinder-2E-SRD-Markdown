@@ -10,7 +10,7 @@ tags:
 aliases: ["Grand Dance"]
 ---
 # Grand Dance  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
-[bard](rules/traits/bard.md)  [rare](rules/traits/rare.md)  [rogue](rules/traits/rogue.md)  [swashbuckler](rules/traits/swashbuckler-apg.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [rogue](rules/traits/rogue.md "Rogue Class Trait")  [swashbuckler](rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  
 
 - **Prerequisites**: Masquerade of Seasons Stance
 - **Requirements**: You're in Masquerade of Seasons Stance.

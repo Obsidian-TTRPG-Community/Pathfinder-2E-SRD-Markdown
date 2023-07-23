@@ -8,7 +8,7 @@ tags:
 aliases: ["Trickster's Ace (Investigator)"]
 ---
 # Trickster's Ace (Investigator)  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 18*  
-[concentrate](rules/traits/concentrate.md)  [investigator](rules/traits/investigator-apg.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [investigator](rules/traits/investigator-apg.md "Investigator Class Trait")  
 
 - **Trigger** You specify the trigger when you make your daily preparations (see Requirements below).
 - **Requirements**: When you make your daily preparations, you must specify a trigger for this reaction using the same restrictions as the triggers for the [Ready](rules/actions/ready.md) action. You also choose a single spell from the arcane, divine, occult, or primal list of 4th level or lower. The spell can't have a cost, nor can its casting time be more than 10 minutes. The spell must be able to target a single creature, and you must be a valid target for it.

@@ -7,7 +7,7 @@ tags:
 aliases: ["Vicious Fangs"]
 ---
 # Vicious Fangs  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Vampire Dedication](compendium/feats/vampire-dedication-botd.md)
 

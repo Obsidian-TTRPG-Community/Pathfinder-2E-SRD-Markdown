@@ -7,7 +7,7 @@ tags:
 aliases: ["Specialized Companion (Druid)"]
 ---
 # Specialized Companion (Druid)  *Feat 14*  
-[druid](rules/traits/druid.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  
 
 - **Prerequisites**: Incredible Companion
 

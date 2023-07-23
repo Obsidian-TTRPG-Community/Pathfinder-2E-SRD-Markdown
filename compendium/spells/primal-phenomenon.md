@@ -8,9 +8,9 @@ tags:
 aliases: ["Primal Phenomenon"]
 ---
 # Primal Phenomenon *Spell 10*   
-[divination](rules/traits/divination.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md)
+- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
 
 You request a direct intercession from the natural world.
@@ -18,7 +18,7 @@ You request a direct intercession from the natural world.
 Nature always refuses unnatural requests and might grant a different request (potentially more powerful or better fitting its character) than the one you asked for. A [primal phenomenon](compendium/spells/primal-phenomenon.md) spell can do any of the following things.
 
 - Duplicate any spell from the primal list of 9th level or lower to which you have access.
-- Duplicate any spell from another spell list of 7th level or lower. It must be [common](rules/traits/common.md) or you must have access.
+- Duplicate any spell from another spell list of 7th level or lower. It must be [common](rules/traits/common.md "Common Rarity Trait") or you must have access.
 - Produce any effect whose power level is in line with the above effects.
 - Reverse certain effects that refer to the [wish](compendium/spells/wish.md) spell.
 

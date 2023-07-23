@@ -9,7 +9,7 @@ tags:
 aliases: ["Command Undead"]
 ---
 # Command Undead  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[cleric](rules/traits/cleric.md)  [concentrate](rules/traits/concentrate.md)  [metamagic](rules/traits/metamagic.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 - **Prerequisites**: harmful font, evil alignment
 - **Activity** Single Action
@@ -19,7 +19,7 @@ You grasp the animating force within an undead creature and bend it to your will
 > [!success-degree] 
 > - **Critical Success** The target is unaffected and is temporarily immune for 24 hours.
 > - **Success** The target is unaffected.
-> - **Failure** The undead creature becomes a [minion](rules/traits/minion.md) under your control. The spell gains a duration of 1 minute, but it is dismissed if you or an ally attacks the minion undead.
+> - **Failure** The undead creature becomes a [minion](rules/traits/minion.md "Minion Creature Trait") under your control. The spell gains a duration of 1 minute, but it is dismissed if you or an ally attacks the minion undead.
 > - **Critical Failure** As failure, but the duration is 1 hour.
 
 ## Command Undead leads to...

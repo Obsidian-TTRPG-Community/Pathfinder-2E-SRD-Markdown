@@ -9,7 +9,7 @@ tags:
 aliases: ["Unblinking Flame Revelation"]
 ---
 # Unblinking Flame Revelation *Focus 3*   
-[abjuration](rules/traits/abjuration.md)  [uncommon](rules/traits/uncommon.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Requirements**Your previous action was a successful unarmed [Strike](rules/actions/strike.md).

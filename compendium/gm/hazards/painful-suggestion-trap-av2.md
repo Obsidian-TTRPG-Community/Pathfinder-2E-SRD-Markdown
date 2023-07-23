@@ -8,7 +8,7 @@ tags:
 aliases: ["Painful Suggestion Trap"]
 ---
 # Painful Suggestion Trap *Hazard 8*  
-[magical](rules/traits/magical.md)  [trap](rules/traits/trap.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 26 expert  
@@ -19,7 +19,7 @@ A [hidden](rules/conditions.md#Hidden) rune on the floor under the filth, just p
      
 ```ad-embed-ability
 title: Counterfeit Haunting [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[auditory](rules/traits/auditory.md)  [enchantment](rules/traits/enchantment.md)  [incapacitation](rules/traits/incapacitation.md)  [linguistic](rules/traits/linguistic.md)  [mental](rules/traits/mental.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 - **Trigger**: A living creature moves over the rune
 

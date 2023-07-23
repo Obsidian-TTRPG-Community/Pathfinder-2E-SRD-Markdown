@@ -10,7 +10,7 @@ tags:
 aliases: ["Cloak Of Feline Rest"]
 ---
 # Cloak Of Feline Rest *Item 1*  
-[enchantment](rules/traits/enchantment.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 20 gp
 - **Usage** worn cloak; **Bulk** L

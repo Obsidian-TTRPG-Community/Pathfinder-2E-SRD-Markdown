@@ -13,6 +13,6 @@ This magic involves shadows or the energy of the Shadow Plane.
 
 Creatures with this trait are natives of the Shadow Plane. They can survive the basic environmental effects of the Shadow Plane.
 
-Planes with this trait are umbral with murky light. On a shadow plane, the radius of all light from light sources and the areas of light spells are halved. Darkness and shadow magic are enhanced, and [light](rules/traits/light.md) magic is impeded.
+Planes with this trait are umbral with murky light. On a shadow plane, the radius of all light from light sources and the areas of light spells are halved. Darkness and shadow magic are enhanced, and [light](rules/traits/light.md "Light Effect Trait") magic is impeded.
 
 - **Categories**: General

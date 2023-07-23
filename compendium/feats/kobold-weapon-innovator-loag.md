@@ -7,7 +7,7 @@ tags:
 aliases: ["Kobold Weapon Innovator"]
 ---
 # Kobold Weapon Innovator  *Feat 5*  
-[kobold](rules/traits/kobold-b1.md)  
+[kobold](rules/traits/kobold-b1.md "Kobold Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Kobold Weapon Familiarity](compendium/feats/kobold-weapon-familiarity-loag.md)
 

@@ -8,13 +8,13 @@ tags:
 aliases: ["Draconic Barrage"]
 ---
 # Draconic Barrage *Focus 1*   
-[evocation](rules/traits/evocation.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  
 
 - **Domains**: [wyrmkin](compendium/setting/domains.md#Wyrmkin)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Duration**1 minute
 
-You shape energy into one incorporeal tiny dragon (or serpentine creature) that flits around you. The specific dragon is random; roll `1d6` on the table below for each dragon evoked to determine which type of dragon you create. While the spell persists, you can command one of your dragons to spit a missile of energy at a creature within 60 feet by using a single action, which has the [concentrate](rules/traits/concentrate.md) trait. This is a ranged [Strike](rules/actions/strike.md) that uses your spell attack bonus and deals `1d6` damage plus your spellcasting ability modifier, with the damage type depending on the dragon. A dragon's breath [Strike](rules/actions/strike.md) uses and contributes to your multiple attack penalty. Once a dragon has used its breath [Strike](rules/actions/strike.md), it winks out of existence; when you have no dragons remaining, the spell ends.
+You shape energy into one incorporeal tiny dragon (or serpentine creature) that flits around you. The specific dragon is random; roll `1d6` on the table below for each dragon evoked to determine which type of dragon you create. While the spell persists, you can command one of your dragons to spit a missile of energy at a creature within 60 feet by using a single action, which has the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") trait. This is a ranged [Strike](rules/actions/strike.md) that uses your spell attack bonus and deals `1d6` damage plus your spellcasting ability modifier, with the damage type depending on the dragon. A dragon's breath [Strike](rules/actions/strike.md) uses and contributes to your multiple attack penalty. Once a dragon has used its breath [Strike](rules/actions/strike.md), it winks out of existence; when you have no dragons remaining, the spell ends.
 
 | `D6` | Dragon | Breath Strike Type |
 |------|--------|--------------------|

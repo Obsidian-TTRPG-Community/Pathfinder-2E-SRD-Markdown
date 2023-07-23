@@ -9,7 +9,7 @@ tags:
 aliases: ["Basic Spellcasting"]
 ---
 # Basic Spellcasting  *Feat 4*  
-[[class]](rules/traits/any-class-som.md)  [pervasive magic](rules/traits/pervasive-magic-som.md)  [rare](rules/traits/rare.md)  
+[[class]](rules/traits/class-som.md "Any Class Class Trait")  [pervasive magic](rules/traits/pervasive-magic-som.md "Pervasive Magic General Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Prerequisites**: [Cantrip Casting](compendium/feats/cantrip-casting-som.md)
 

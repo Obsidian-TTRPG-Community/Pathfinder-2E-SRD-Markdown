@@ -13,7 +13,7 @@ tags:
 aliases: ["Ghostbane Fulu"]
 ---
 # Ghostbane Fulu *Item 6*  
-[consumable](rules/traits/consumable.md)  [fulu](rules/traits/fulu-som.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [talisman](rules/traits/talisman.md)  [transmutation](rules/traits/transmutation.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [fulu](rules/traits/fulu-som.md "Fulu Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 40 gp
 - **Usage** affixed to a weapon

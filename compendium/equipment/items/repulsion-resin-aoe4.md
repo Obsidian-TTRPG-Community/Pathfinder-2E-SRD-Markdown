@@ -12,7 +12,7 @@ tags:
 aliases: ["Repulsion Resin"]
 ---
 # Repulsion Resin *Item 16*  
-[consumable](rules/traits/consumable.md)  [divine](rules/traits/divine.md)  [ingested](rules/traits/ingested.md)  [poison](rules/traits/poison.md)  [uncommon](rules/traits/uncommon.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [ingested](rules/traits/ingested.md "Ingested Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1650 gp
 - **Usage** held in 1 hand; **Bulk** L
@@ -21,7 +21,7 @@ aliases: ["Repulsion Resin"]
 
 This clear, tasteless tar causes the victim to emit waves of harmful mental energy that repel other creatures.
 
-Desperate users might consume this poison to keep enemies at bay despite the poison's debilitating effects. While you're [stupefied](rules/conditions.md#Stupefied) from this poison, a creature that starts its turn within 10 feet of you or approaches within 10 feet of you must attempt a DC 35 Will saving throw. On a failure, the creature can't voluntarily move closer to you; this is a [mental](rules/traits/mental.md) effect. Once the approaching creature has attempted to save, it uses the same result for all saves from that dose of repulsion resin.
+Desperate users might consume this poison to keep enemies at bay despite the poison's debilitating effects. While you're [stupefied](rules/conditions.md#Stupefied) from this poison, a creature that starts its turn within 10 feet of you or approaches within 10 feet of you must attempt a DC 35 Will saving throw. On a failure, the creature can't voluntarily move closer to you; this is a [mental](rules/traits/mental.md "Mental Effect Trait") effect. Once the approaching creature has attempted to save, it uses the same result for all saves from that dose of repulsion resin.
 
 ```ad-inline-affliction
 title: Saving Throw: DC 38 Fortitude

@@ -10,7 +10,7 @@ tags:
 aliases: ["Spell Duelist's Siphon"]
 ---
 # Spell Duelist's Siphon *Item 12*  
-[abjuration](rules/traits/abjuration.md)  [grimoire](rules/traits/grimoire-som.md)  [magical](rules/traits/magical.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [grimoire](rules/traits/grimoire-som.md "Grimoire Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 1750 gp
 - **Bulk** L

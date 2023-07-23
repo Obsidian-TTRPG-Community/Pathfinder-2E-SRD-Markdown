@@ -8,7 +8,7 @@ tags:
 aliases: ["Deadly Aim"]
 ---
 # Deadly Aim  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
-[open](rules/traits/open.md)  [ranger](rules/traits/ranger.md)  
+[open](rules/traits/open.md "Open Combat Trait")  [ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: weapon specialization
 - **Activity** Single Action

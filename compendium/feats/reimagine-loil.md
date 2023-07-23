@@ -7,7 +7,7 @@ tags:
 aliases: ["Reimagine"]
 ---
 # Reimagine  *Feat 13*  
-[kashrishi](rules/traits/kashrishi-loil.md)  
+[kashrishi](rules/traits/kashrishi-loil.md "Kashrishi Ancestry & Heritage Trait")  
 
 - **Prerequisites**: Transcendent Realization
 

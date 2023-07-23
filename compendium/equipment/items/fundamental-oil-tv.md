@@ -12,7 +12,7 @@ tags:
 aliases: ["Fundamental Oil"]
 ---
 # Fundamental Oil *Item 11*  
-[consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [oil](rules/traits/oil.md)  [uncommon](rules/traits/uncommon.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [oil](rules/traits/oil.md "Oil Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 220 gp
 - **Usage** held in 2 hands; **Bulk** L

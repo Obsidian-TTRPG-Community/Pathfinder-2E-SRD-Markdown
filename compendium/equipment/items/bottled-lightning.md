@@ -12,7 +12,7 @@ tags:
 aliases: ["Bottled Lightning"]
 ---
 # Bottled Lightning *Item 1+*  
-[alchemical](rules/traits/alchemical.md)  [bomb](rules/traits/bomb.md)  [consumable](rules/traits/consumable.md)  [electricity](rules/traits/electricity.md)  [splash](rules/traits/splash.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [bomb](rules/traits/bomb.md "Bomb Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [splash](rules/traits/splash.md "Splash Weapon Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Strike](rules/actions/strike.md)

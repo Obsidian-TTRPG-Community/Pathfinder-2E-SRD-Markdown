@@ -7,7 +7,7 @@ tags:
 aliases: ["Monk Resiliency"]
 ---
 # Monk Resiliency  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Monk Dedication](compendium/feats/monk-dedication.md), class granting no more Hit Points per level than 8 + your Constitution modifier
 

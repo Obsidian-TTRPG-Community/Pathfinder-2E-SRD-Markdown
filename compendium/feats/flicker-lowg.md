@@ -7,7 +7,7 @@ tags:
 aliases: ["Flicker"]
 ---
 # Flicker  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Lion Blade Dedication](compendium/feats/lion-blade-dedication-lowg.md)
 - **Activity** Single Action

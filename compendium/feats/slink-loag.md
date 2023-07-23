@@ -7,7 +7,7 @@ tags:
 aliases: ["Slink"]
 ---
 # Slink  *Feat 1*  
-[fetchling](rules/traits/fetchling-b2.md)  
+[fetchling](rules/traits/fetchling-b2.md "Fetchling Ancestry & Heritage Trait")  
 
 
 You can move through gloom with the speed of darkness. You can move 5 feet farther when you take the [Sneak](rules/actions/sneak.md) action, up to your Speed. In addition, as long as you continue to use [Sneak](rules/actions/sneak.md) actions and succeed at your [Stealth](compendium/skills.md#Stealth) check, you don't become [observed](rules/conditions.md#Observed) if you end a [Sneak](rules/actions/sneak.md) action in dim light or darkness, as long as you have cover or greater cover or are [concealed](rules/conditions.md#Concealed) at the end of your turn.

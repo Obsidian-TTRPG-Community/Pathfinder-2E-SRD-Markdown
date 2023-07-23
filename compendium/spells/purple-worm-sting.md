@@ -9,9 +9,9 @@ tags:
 aliases: ["Purple Worm Sting"]
 ---
 # Purple Worm Sting *Spell 6*   
-[necromancy](rules/traits/necromancy.md)  [poison](rules/traits/poison.md)  
+[necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**touch
 - **Targets**1 creature
@@ -28,7 +28,7 @@ You replicate the attack of a deadly purple worm. You deal `3d6` piercing damage
 ```ad-inline-affliction
 title: Purple Worm Venom _Level 11_
 
-[poison](rules/traits/poison.md)  
+[poison](rules/traits/poison.md "Poison Effect Trait")  
 - **Maximum Duration**: 6 rounds
 
 ## Stages
@@ -40,7 +40,7 @@ title: Purple Worm Venom _Level 11_
 **Stage 3** `6d6` poison damage and [enfeebled](rules/conditions.md#Enfeebled) (1 round)
 
 
-%% #trait/poison #affliction/level/level-11 %%
+%% #affliction/level/level-11 #trait/poison %%
 ```
 
 ## Summary

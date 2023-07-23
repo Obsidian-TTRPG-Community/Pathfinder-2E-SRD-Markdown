@@ -11,7 +11,7 @@ tags:
 aliases: ["Elder Sign"]
 ---
 # Elder Sign *Item 25*  
-[abjuration](rules/traits/abjuration.md)  [artifact](rules/traits/artifact-gmg.md)  [occult](rules/traits/occult.md)  [rare](rules/traits/rare.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** held in one hand; **Bulk** 1
 - **Category** Artifact

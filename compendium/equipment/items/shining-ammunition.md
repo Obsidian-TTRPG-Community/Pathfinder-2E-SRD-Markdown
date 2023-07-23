@@ -11,7 +11,7 @@ tags:
 aliases: ["Shining Ammunition"]
 ---
 # Shining Ammunition *Item 1*  
-[consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [light](rules/traits/light.md)  [magical](rules/traits/magical.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [light](rules/traits/light.md "Light Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 3 gp
 - **Ammunition** any

@@ -10,12 +10,12 @@ tags:
 - domain/undeath/deity
 aliases: ["Fumeiyoshi", "Lord of Envy"]
 ---
-# Fumeiyoshi (Lord of Envy) *([NE](rules/traits/neutral-evil-b1.md))*  
+# Fumeiyoshi (Lord of Envy) *([NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 132*  
 
 - **Category**: Tian Gods
 - **Anathema**: pass by food without stealing a bite, allow honor or tradition to prevent you from taking what you want
-- **Follower Alignments**: [LE](rules/traits/lawful-evil-b1.md), [NE](rules/traits/neutral-evil-b1.md), [CE](rules/traits/chaotic-evil-b1.md)
+- **Follower Alignments**: [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"), [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
 

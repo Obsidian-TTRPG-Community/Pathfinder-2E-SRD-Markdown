@@ -9,7 +9,7 @@ tags:
 aliases: ["Witch-priests' Curse"]
 ---
 # Witch-priests' Curse *Hazard 18*  
-[curse](rules/traits/curse.md)  [magical](rules/traits/magical.md)  [trap](rules/traits/trap.md)  
+[curse](rules/traits/curse.md "Curse Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 42 expert  
@@ -20,7 +20,7 @@ Anyone who opens a secret compartment is subjected to a powerful curse.
      
 ```ad-embed-ability
 title: Hex of the Bloody Thief [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[curse](rules/traits/curse.md)  [divine](rules/traits/divine.md)  [necromancy](rules/traits/necromancy.md)  
+[curse](rules/traits/curse.md "Curse Effect Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 - **Trigger**: A creature opens a secret compartment
 

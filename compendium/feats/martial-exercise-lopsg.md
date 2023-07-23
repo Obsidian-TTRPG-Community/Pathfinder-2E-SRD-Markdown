@@ -7,7 +7,7 @@ tags:
 aliases: ["Martial Exercise"]
 ---
 # Martial Exercise  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Swordmaster Dedication](compendium/feats/swordmaster-dedication-locg.md)
 

@@ -8,7 +8,7 @@ tags:
 aliases: ["Tiller's Drive"]
 ---
 # Tiller's Drive  *Feat 10*  
-[archetype](rules/traits/archetype.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Bellflower Dedication](compendium/feats/bellflower-dedication-aoa3.md)
 

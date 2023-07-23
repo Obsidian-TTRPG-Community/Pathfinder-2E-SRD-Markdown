@@ -8,7 +8,7 @@ tags:
 aliases: ["Greater Awakened Power"]
 ---
 # Greater Awakened Power  *Feat 10*  
-[deviant](rules/traits/deviant-da.md)  [rare](rules/traits/rare.md)  
+[deviant](rules/traits/deviant-da.md "Deviant Action & Ability Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 
 Your power undergoes yet another awakening. You gain one awakening benefit for a deviant feat of 10th level or lower.

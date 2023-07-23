@@ -14,7 +14,7 @@ tags:
 aliases: ["Corruption Cassock"]
 ---
 # Corruption Cassock *Item 11*  
-[cursed](rules/traits/cursed-gmg.md)  [divination](rules/traits/divination.md)  [divine](rules/traits/divine.md)  [focused](rules/traits/focused.md)  [intelligent](rules/traits/intelligent-gmg.md)  [invested](rules/traits/invested.md)  [rare](rules/traits/rare.md)  
+[cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [focused](rules/traits/focused.md "Focused Item Trait")  [intelligent](rules/traits/intelligent-gmg.md "Intelligent Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** worn garment; **Bulk** L
 - **Category** Worn

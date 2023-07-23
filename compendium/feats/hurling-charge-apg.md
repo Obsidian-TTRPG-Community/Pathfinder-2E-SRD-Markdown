@@ -7,7 +7,7 @@ tags:
 aliases: ["Hurling Charge"]
 ---
 # Hurling Charge  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Viking Dedication](compendium/feats/viking-dedication-apg.md)
 - **Activity** Two-Action

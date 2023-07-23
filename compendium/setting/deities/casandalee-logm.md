@@ -13,13 +13,13 @@ tags:
 - trait/reach-15-feet
 aliases: ["Casandalee", "The Iron Goddess"]
 ---
-# Casandalee (The Iron Goddess) *([N](rules/traits/neutral-b1.md))*  
+# Casandalee (The Iron Goddess) *([N](rules/traits/n-b1.md "Neutral Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 57*  
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: treat artificial life as lesser than organic life, foment distrust between artificial and organic life
 - **Areas of Concern**: artificial life, , free thinking, , intellectual apoptheosis
-- **Follower Alignments**: [LN](rules/traits/lawful-neutral-b1.md), [NG](rules/traits/neutral-good-b1.md), [N](rules/traits/neutral-b1.md), [NE](rules/traits/neutral-evil-b1.md), [CN](rules/traits/chaotic-neutral-b1.md)
+- **Follower Alignments**: [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")
 
 ## Devotee benefits
 
@@ -37,7 +37,7 @@ When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Ca
 title: [Avatar](compendium/spells/avatar.md) of Casandalee
 
 - **Speed**: Speed 70 feet, [air walk](compendium/spells/air-walk.md), ignore difficult terrain and greater difficult terrain
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") polytool ([reach <15 feet>](rules/traits/reach.md)), **Damage** `6d6+6` slashing
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") polytool ([reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait")), **Damage** `6d6+6` slashing
 - **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") logic blast **Damage** `6d6+3` mental
 ```
 

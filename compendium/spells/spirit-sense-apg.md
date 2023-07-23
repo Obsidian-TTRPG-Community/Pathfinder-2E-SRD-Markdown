@@ -11,9 +11,9 @@ tags:
 aliases: ["Spirit Sense"]
 ---
 # Spirit Sense *Spell 2*   
-[detection](rules/traits/detection.md)  [divination](rules/traits/divination.md)  [mental](rules/traits/mental.md)  
+[detection](rules/traits/detection.md "Detection Effect Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md), [occult](rules/traits/occult.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**30-foot emanation
 - **Duration**10 minutes

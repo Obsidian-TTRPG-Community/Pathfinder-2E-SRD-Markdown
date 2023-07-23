@@ -9,9 +9,9 @@ tags:
 aliases: ["Seashell Of Stolen Sound"]
 ---
 # Seashell Of Stolen Sound *Spell 1*   
-[divination](rules/traits/divination.md)  [sonic](rules/traits/sonic.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
 - **Trigger**A creature within range begins to make a sound.
 - **Range**30 foot
@@ -21,6 +21,6 @@ You store a sound in a seashell to use as you will: the last words of a loved on
 
 You or another creature can then play the sound back from the seashell during the spell's duration by [Interacting](rules/actions/interact.md) with the seashell, but once the sounds have been played back, the seashell shatters and the spell ends.
 
-As normal for spells with a duration until your next daily preparations, you can choose to continue expending the spell slot to prolong the duration of an existing seashell of stolen sound for another day. While the spell faithfully copies the sounds around the target, it doesn't reproduce any special [auditory](rules/traits/auditory.md) or [sonic](rules/traits/sonic.md) effects of the sound.
+As normal for spells with a duration until your next daily preparations, you can choose to continue expending the spell slot to prolong the duration of an existing seashell of stolen sound for another day. While the spell faithfully copies the sounds around the target, it doesn't reproduce any special [auditory](rules/traits/auditory.md "Auditory Effect Trait") or [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait") effects of the sound.
 
 *Source: Secrets of Magic p. 127*

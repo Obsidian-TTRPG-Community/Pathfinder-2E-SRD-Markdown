@@ -9,9 +9,9 @@ tags:
 aliases: ["Whirling Scarves"]
 ---
 # Whirling Scarves *Spell 3*   
-[abjuration](rules/traits/abjuration.md)  [force](rules/traits/force.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md), [occult](rules/traits/occult.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Duration**1 minute
 

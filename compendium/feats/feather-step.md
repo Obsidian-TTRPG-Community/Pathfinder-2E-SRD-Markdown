@@ -7,7 +7,7 @@ tags:
 aliases: ["Feather Step"]
 ---
 # Feather Step  *Feat 1*  
-[general](rules/traits/general.md)  
+[general](rules/traits/general.md "General Feat Trait")  
 
 - **Prerequisites**: Dexterity 14
 

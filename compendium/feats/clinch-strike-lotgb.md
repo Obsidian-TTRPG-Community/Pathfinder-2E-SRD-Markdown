@@ -7,7 +7,7 @@ tags:
 aliases: ["Clinch Strike"]
 ---
 # Clinch Strike  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Wrestler Dedication](compendium/feats/wrestler-dedication-lotgb.md)
 - **Trigger** A creature you had [grabbed](rules/conditions.md#Grabbed) or [restrained](rules/conditions.md#Restrained) successfully [Escapes](rules/actions/escape.md)

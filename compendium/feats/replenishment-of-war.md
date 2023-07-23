@@ -7,7 +7,7 @@ tags:
 aliases: ["Replenishment Of War"]
 ---
 # Replenishment Of War  *Feat 10*  
-[cleric](rules/traits/cleric.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  
 
 - **Prerequisites**: expert in your deity's favored weapon
 

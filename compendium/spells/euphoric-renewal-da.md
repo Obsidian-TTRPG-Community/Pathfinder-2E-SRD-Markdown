@@ -10,7 +10,7 @@ tags:
 aliases: ["Euphoric Renewal"]
 ---
 # Euphoric Renewal *Focus 4*   
-[cleric](rules/traits/cleric.md)  [necromancy](rules/traits/necromancy.md)  [rare](rules/traits/rare.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Domains**: [death (apocryphal)](compendium/setting/domains.md#Death)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

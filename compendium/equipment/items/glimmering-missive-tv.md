@@ -12,7 +12,7 @@ tags:
 aliases: ["Glimmering Missive"]
 ---
 # Glimmering Missive *Item 4*  
-[consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [light](rules/traits/light.md)  [magical](rules/traits/magical.md)  [missive](rules/traits/missive-tv.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [light](rules/traits/light.md "Light Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [missive](rules/traits/missive-tv.md "Missive Item Trait")  
 
 - **Price** 20 gp
 - **Usage** held in 1 hand; **Bulk** —

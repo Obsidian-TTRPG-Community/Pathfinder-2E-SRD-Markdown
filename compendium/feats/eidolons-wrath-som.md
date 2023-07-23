@@ -8,7 +8,7 @@ tags:
 aliases: ["Eidolon's Wrath"]
 ---
 # Eidolon's Wrath  *Feat 6*  
-[evolution](rules/traits/evolution-som.md)  [summoner](rules/traits/summoner-som.md)  
+[evolution](rules/traits/evolution-som.md "Evolution Feat Trait")  [summoner](rules/traits/summoner-som.md "Summoner Class Trait")  
 
 
 Your eidolon gains the [eidolon's wrath](compendium/spells/eidolons-wrath-som.md) focus spell, which it casts, instead of you. You determine the damage type when you gain the feat: acid, cold, electricity, fire, negative, positive, or sonic. If your eidolon is a celestial, fiend, or monitor with an alignment other than true neutral, you can choose a damage type in its alignment. Increase the number of Focus Points in your focus pool by 1. As normal, your eidolon shares your Focus Points.

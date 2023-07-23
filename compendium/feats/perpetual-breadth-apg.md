@@ -7,7 +7,7 @@ tags:
 aliases: ["Perpetual Breadth"]
 ---
 # Perpetual Breadth  *Feat 8*  
-[alchemist](rules/traits/alchemist.md)  
+[alchemist](rules/traits/alchemist.md "Alchemist Class Trait")  
 
 - **Prerequisites**: perpetual infusions
 

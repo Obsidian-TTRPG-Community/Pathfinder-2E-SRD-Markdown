@@ -10,12 +10,12 @@ tags:
 - domain/zeal/deity
 aliases: ["Dahak", "The Endless Destruction"]
 ---
-# Dahak (The Endless Destruction) *([CE](rules/traits/chaotic-evil-b1.md))*  
+# Dahak (The Endless Destruction) *([CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 130*  
 
 - **Category**: Other Gods
 - **Anathema**: spare a foe after you have chosen to kill them, forgive a slight
-- **Follower Alignments**: [CE](rules/traits/chaotic-evil-b1.md)
+- **Follower Alignments**: [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
 

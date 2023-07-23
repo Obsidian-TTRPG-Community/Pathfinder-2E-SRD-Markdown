@@ -13,7 +13,7 @@ tags:
 aliases: ["Ancestral Defense"]
 ---
 # Ancestral Defense *Focus 3*   
-[abjuration](rules/traits/abjuration.md)  [cursebound](rules/traits/cursebound-apg.md)  [fortune](rules/traits/fortune.md)  [mental](rules/traits/mental.md)  [oracle](rules/traits/oracle-apg.md)  [uncommon](rules/traits/uncommon.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [cursebound](rules/traits/cursebound-apg.md "Cursebound Spell Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Mystery** Oracle
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 

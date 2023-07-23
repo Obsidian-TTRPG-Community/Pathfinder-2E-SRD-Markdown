@@ -29,7 +29,7 @@ Some undead slayers work at the behest of an organization to exterminate the und
 title: Undead Slayer Dedication, Feat 2
 collapse: closed
 # Undead Slayer Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: trained in [Religion](compendium/skills.md#Religion)
 
@@ -51,7 +51,7 @@ title: Slayer's Identification [F](rules/core-rulebook/chapter-9-playing-the-gam
 title: Blessed Medicine, Feat 4
 collapse: closed
 # Blessed Medicine  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [fortune](rules/traits/fortune.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Undead Slayer Dedication](compendium/feats/undead-slayer-dedication-botd.md)
 - **Trigger** You fail a check to [Treat a Disease](rules/actions/treat-disease.md) that was inflicted by an undead (such as b1 or mummy rot).
@@ -66,7 +66,7 @@ Your experience battling undead has uniquely prepared you to fight the diseases 
 title: Hunter's Sanctum, Feat 4
 collapse: closed
 # Hunter's Sanctum  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Undead Slayer Dedication](compendium/feats/undead-slayer-dedication-botd.md)
 
@@ -80,11 +80,11 @@ You establish a safe house where you can prepare for your hunt. The sanctum is r
 title: Necromantic Resistance, Feat 4
 collapse: closed
 # Necromantic Resistance  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Undead Slayer Dedication](compendium/feats/undead-slayer-dedication-botd.md)
 
-As part of your training, you've inured yourself against necromancy through grueling, repeated exposure. You gain a +1 circumstance bonus to saves against [necromancy](rules/traits/necromancy.md) effects and gain resistance to negative damage equal to half your level.
+As part of your training, you've inured yourself against necromancy through grueling, repeated exposure. You gain a +1 circumstance bonus to saves against [necromancy](rules/traits/necromancy.md "Necromancy School Trait") effects and gain resistance to negative damage equal to half your level.
 
 *Source: Book of the Dead p. 28*  
 %% #trait/archetype %%
@@ -94,7 +94,7 @@ As part of your training, you've inured yourself against necromancy through grue
 title: Slayer's Strike, Feat 4
 collapse: closed
 # Slayer's Strike  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  [flourish](rules/traits/flourish.md)  [necromancy](rules/traits/necromancy.md)  [occult](rules/traits/occult.md)  [positive](rules/traits/positive.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  
 
 - **Prerequisites**: [Undead Slayer Dedication](compendium/feats/undead-slayer-dedication-botd.md)
 - **Activity** Two-Action
@@ -111,12 +111,12 @@ If you're at least 10th level, increase this to two extra dice, and if you're at
 title: Frighten Undead, Feat 6
 collapse: closed
 # Frighten Undead  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Undead Slayer Dedication](compendium/feats/undead-slayer-dedication-botd.md), trained in [Intimidation](compendium/skills.md#Intimidation)
 - **Activity** Single Action
 
-Your very presence chills creatures of the night down to their core and you can use the spiritual power and faithful life force of religious verses to frighten even mindless undead. Attempt to [Demoralize](rules/actions/demoralize.md) an undead target using your [Religion](compendium/skills.md#Religion) modifier instead of your [Intimidation](compendium/skills.md#Intimidation) modifier if it's higher. If you use your [Religion](compendium/skills.md#Religion) modifier, the [Demoralize](rules/actions/demoralize.md) action loses the [emotion](rules/traits/emotion.md) and [mental](rules/traits/mental.md) traits, as your faith connects to the undead on an instinctual level.
+Your very presence chills creatures of the night down to their core and you can use the spiritual power and faithful life force of religious verses to frighten even mindless undead. Attempt to [Demoralize](rules/actions/demoralize.md) an undead target using your [Religion](compendium/skills.md#Religion) modifier instead of your [Intimidation](compendium/skills.md#Intimidation) modifier if it's higher. If you use your [Religion](compendium/skills.md#Religion) modifier, the [Demoralize](rules/actions/demoralize.md) action loses the [emotion](rules/traits/emotion.md "Emotion Effect Trait") and [mental](rules/traits/mental.md "Mental Effect Trait") traits, as your faith connects to the undead on an instinctual level.
 
 *Source: Book of the Dead p. 29*  
 %% #trait/archetype %%
@@ -126,7 +126,7 @@ Your very presence chills creatures of the night down to their core and you can 
 title: Gear Up, Feat 6
 collapse: closed
 # Gear Up  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Undead Slayer Dedication](compendium/feats/undead-slayer-dedication-botd.md)
 
@@ -140,7 +140,7 @@ Whether it's wooden stakes, [holy water](compendium/equipment/items/holy-water.m
 title: Slayer's Blessing, Feat 8
 collapse: closed
 # Slayer's Blessing  *Feat 8*  
-[archetype](rules/traits/archetype.md)  [manipulate](rules/traits/manipulate.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 
 - **Prerequisites**: [Slayer's Strike](compendium/feats/slayers-strike-botd.md)
 
@@ -156,7 +156,7 @@ At 14th level, add adamantine and mithral to the list of materials you can choos
 title: Slayer's Presence, Feat 10
 collapse: closed
 # Slayer's Presence  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Frighten Undead](compendium/feats/frighten-undead-botd.md)
 

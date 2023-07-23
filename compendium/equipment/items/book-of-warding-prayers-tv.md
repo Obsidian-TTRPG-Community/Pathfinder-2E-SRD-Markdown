@@ -10,7 +10,7 @@ tags:
 aliases: ["Book of Warding Prayers"]
 ---
 # Book of Warding Prayers *Item 8*  
-[divine](rules/traits/divine.md)  [grimoire](rules/traits/grimoire-som.md)  [transmutation](rules/traits/transmutation.md)  
+[divine](rules/traits/divine.md "Divine Tradition Trait")  [grimoire](rules/traits/grimoire-som.md "Grimoire Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 425 gp
 - **Bulk** L

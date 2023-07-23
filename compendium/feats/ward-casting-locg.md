@@ -7,7 +7,7 @@ tags:
 aliases: ["Ward Casting"]
 ---
 # Ward Casting  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spellmaster Dedication](compendium/feats/spellmaster-dedication-locg.md), Steady Spellcasting
 - **Trigger** You attempt a flat check for Steady Spellcasting, but you haven't rolled yet.

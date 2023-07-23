@@ -10,7 +10,7 @@ tags:
 aliases: ["Radiant Prism"]
 ---
 # Radiant Prism *Item 16+*  
-[abjuration](rules/traits/abjuration.md)  [magical](rules/traits/magical.md)  [spellheart](rules/traits/spellheart-som.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [spellheart](rules/traits/spellheart-som.md "Spellheart Equipment Trait")  
 
 - **Usage** affixed to armor or a weapon; **Bulk** —
 - **Category** Spellheart

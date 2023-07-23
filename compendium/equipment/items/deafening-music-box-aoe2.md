@@ -11,7 +11,7 @@ tags:
 aliases: ["Deafening Music Box"]
 ---
 # Deafening Music Box *Item 8*  
-[auditory](rules/traits/auditory.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 500 gp
 - **Usage** held in 2 hands; **Bulk** 1

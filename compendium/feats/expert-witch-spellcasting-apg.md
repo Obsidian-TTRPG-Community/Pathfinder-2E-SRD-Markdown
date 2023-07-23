@@ -7,7 +7,7 @@ tags:
 aliases: ["Expert Witch Spellcasting"]
 ---
 # Expert Witch Spellcasting  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Witch Spellcasting](compendium/feats/basic-witch-spellcasting-apg.md), master in the skill associated with your patron's tradition
 

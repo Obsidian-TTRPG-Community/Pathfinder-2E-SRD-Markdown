@@ -8,7 +8,7 @@ tags:
 aliases: ["Inubrix Armor"]
 ---
 # Inubrix Armor *Item 11+*  
-[rare](rules/traits/rare.md)  
+[rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** worn armor; **Bulk** varies by armor
 - **Category** Material

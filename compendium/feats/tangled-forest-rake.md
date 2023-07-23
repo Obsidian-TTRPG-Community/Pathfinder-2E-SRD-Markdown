@@ -7,7 +7,7 @@ tags:
 aliases: ["Tangled Forest Rake"]
 ---
 # Tangled Forest Rake  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 14*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Prerequisites**: [Tangled Forest Stance](compendium/feats/tangled-forest-stance.md)
 - **Requirements**: You are in Tangled Forest Stance.

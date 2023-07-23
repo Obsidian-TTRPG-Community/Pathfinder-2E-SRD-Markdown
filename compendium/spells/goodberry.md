@@ -11,7 +11,7 @@ tags:
 aliases: ["Goodberry"]
 ---
 # Goodberry *Focus 1*   
-[druid](rules/traits/druid.md)  [healing](rules/traits/healing.md)  [necromancy](rules/traits/necromancy.md)  [uncommon](rules/traits/uncommon.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**touch

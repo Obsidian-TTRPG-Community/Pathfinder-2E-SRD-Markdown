@@ -12,7 +12,7 @@ tags:
 aliases: ["Bower Fruit"]
 ---
 # Bower Fruit *Item 13*  
-[consumable](rules/traits/consumable.md)  [cursed](rules/traits/cursed-gmg.md)  [necromancy](rules/traits/necromancy.md)  [primal](rules/traits/primal.md)  [rare](rules/traits/rare.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md)

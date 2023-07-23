@@ -7,7 +7,7 @@ tags:
 aliases: ["Evade Doom"]
 ---
 # Evade Doom  *Feat 9*  
-[catfolk](rules/traits/catfolk-b1.md)  
+[catfolk](rules/traits/catfolk-b1.md "Catfolk Ancestry & Heritage Trait")  
 
 
 You can elude supernatural disaster. When you would gain the [doomed](rules/conditions.md#Doomed) condition, you can attempt a DC 17 flat check. On a success, you don't gain the [doomed](rules/conditions.md#Doomed) condition.

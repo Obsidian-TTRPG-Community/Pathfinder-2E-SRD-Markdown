@@ -12,7 +12,7 @@ aliases: ["Thief's Retribution"]
 ---
 # Thief's Retribution
 *Curse 19*  
-[conjuration](rules/traits/conjuration.md)  [curse](rules/traits/curse.md)  [magical](rules/traits/magical.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [curse](rules/traits/curse.md "Curse Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 This punishment causes you to lose something dear to you whenever you rob or steal. If you have nothing to lose, the curse exacts its punishment upon your body instead.
 

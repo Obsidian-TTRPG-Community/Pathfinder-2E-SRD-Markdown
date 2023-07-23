@@ -8,7 +8,7 @@ tags:
 aliases: ["For Love, for Lightning"]
 ---
 # For Love, for Lightning  *Feat 12*  
-[archetype](rules/traits/archetype.md)  [rare](rules/traits/rare.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Access**: A character who performs a specialized mission for Clarethe Iomedar has access to this option.
 - **Prerequisites**: [Knight Reclaimant Dedication](compendium/feats/knight-reclaimant-dedication-locg.md)

@@ -7,7 +7,7 @@ tags:
 aliases: ["Mature Animal Companion (Druid)"]
 ---
 # Mature Animal Companion (Druid)  *Feat 4*  
-[druid](rules/traits/druid.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  
 
 - **Prerequisites**: [Animal Companion (Druid)](compendium/feats/animal-companion-druid.md)
 

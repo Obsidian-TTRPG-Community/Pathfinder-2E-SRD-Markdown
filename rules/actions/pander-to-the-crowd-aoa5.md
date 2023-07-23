@@ -11,7 +11,7 @@ tags:
 aliases: ["Pander to the Crowd"]
 ---
 # Pander to the Crowd
-[auditory](rules/traits/auditory.md)  [concentrate](rules/traits/concentrate.md)  [emotion](rules/traits/emotion.md)  [visual](rules/traits/visual.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 *Source: Age of Ashes #5: Against the Scarlet Triad p. 33*  
 
 - **Requirements**: This is your first action in a gladiatorial match, or you've damaged or visibly impeded a foe while fighting a gladiatorial match.

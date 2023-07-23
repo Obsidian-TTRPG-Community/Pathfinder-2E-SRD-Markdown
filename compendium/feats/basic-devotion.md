@@ -7,7 +7,7 @@ tags:
 aliases: ["Basic Devotion"]
 ---
 # Basic Devotion  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Champion Dedication](compendium/feats/champion-dedication.md)
 

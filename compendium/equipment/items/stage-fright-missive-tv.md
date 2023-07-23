@@ -13,7 +13,7 @@ tags:
 aliases: ["Stage Fright Missive"]
 ---
 # Stage Fright Missive *Item 5*  
-[consumable](rules/traits/consumable.md)  [curse](rules/traits/curse.md)  [enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  [missive](rules/traits/missive-tv.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [curse](rules/traits/curse.md "Curse Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [missive](rules/traits/missive-tv.md "Missive Item Trait")  
 
 - **Price** 22 gp
 - **Usage** held in 1 hand; **Bulk** —

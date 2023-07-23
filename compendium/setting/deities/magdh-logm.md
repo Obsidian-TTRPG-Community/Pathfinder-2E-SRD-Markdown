@@ -10,12 +10,12 @@ tags:
 - domain/truth/deity
 aliases: ["Magdh", "The Three"]
 ---
-# Magdh (The Three) *([LN](rules/traits/lawful-neutral-b1.md))*  
+# Magdh (The Three) *([LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 79*  
 
 - **Category**: Eldest
 - **Anathema**: lie, share your divinations without payment (no matter how trivial)
-- **Follower Alignments**: [LN](rules/traits/lawful-neutral-b1.md), [N](rules/traits/neutral-b1.md)
+- **Follower Alignments**: [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait")
 
 ## Devotee benefits
 

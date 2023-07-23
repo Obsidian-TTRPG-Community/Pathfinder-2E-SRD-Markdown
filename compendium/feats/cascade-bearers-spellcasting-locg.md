@@ -7,7 +7,7 @@ tags:
 aliases: ["Cascade Bearers Spellcasting"]
 ---
 # Cascade Bearers Spellcasting  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Magaambyan Attendant Dedication](compendium/feats/magaambyan-attendant-dedication-locg.md), Cascade Bearers affiliation
 

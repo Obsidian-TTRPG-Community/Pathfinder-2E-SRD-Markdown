@@ -10,7 +10,7 @@ tags:
 aliases: ["Inexplicable Apparatus"]
 ---
 # Inexplicable Apparatus *Item 18*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 19000 gp
 - **Usage** worn garment; **Bulk** 2

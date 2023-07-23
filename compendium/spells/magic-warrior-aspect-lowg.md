@@ -10,7 +10,7 @@ tags:
 aliases: ["Magic Warrior Aspect"]
 ---
 # Magic Warrior Aspect *Focus 2*   
-[morph](rules/traits/morph.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+[morph](rules/traits/morph.md "Morph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Duration**5 minutes

@@ -13,7 +13,7 @@ aliases: ["Lord's Arrogance"]
 ---
 # Lord's Arrogance
 *Curse 7*  
-[curse](rules/traits/curse.md)  [enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  
+[curse](rules/traits/curse.md "Curse Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 You're filled with the unearned confidence of a young noble and carry yourself as if you can do no wrong.
 

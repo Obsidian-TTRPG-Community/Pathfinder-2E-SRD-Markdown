@@ -7,7 +7,7 @@ tags:
 aliases: ["Butterfly's Kiss"]
 ---
 # Butterfly's Kiss  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Butterfly Blade Dedication](compendium/feats/butterfly-blade-dedication-frp1.md)
 

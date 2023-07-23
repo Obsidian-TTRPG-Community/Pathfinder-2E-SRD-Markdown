@@ -7,7 +7,7 @@ tags:
 aliases: ["Dueling Riposte"]
 ---
 # Dueling Riposte  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
-[fighter](rules/traits/fighter.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 - **Prerequisites**: [Dueling Parry](compendium/feats/dueling-parry-apg.md)
 - **Trigger** A creature within your reach critically fails a [Strike](rules/actions/strike.md) against you.

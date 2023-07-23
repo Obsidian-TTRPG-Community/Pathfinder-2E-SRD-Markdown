@@ -7,7 +7,7 @@ tags:
 aliases: ["Bardic Lore"]
 ---
 # Bardic Lore  *Feat 1*  
-[bard](rules/traits/bard.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  
 
 - **Prerequisites**: Enigma muse
 

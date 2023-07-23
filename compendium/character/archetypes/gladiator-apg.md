@@ -17,7 +17,7 @@ If there are sapient creatures observing a combat encounter, and these onlookers
 title: Gladiator Dedication, Feat 2
 collapse: closed
 # Gladiator Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: [Impressive Performance](compendium/feats/impressive-performance.md)
 
@@ -35,7 +35,7 @@ At the start of a combat encounter, if you have spectators, you gain a number of
 title: Fancy Moves, Feat 4
 collapse: closed
 # Fancy Moves  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Gladiator Dedication](compendium/feats/gladiator-dedication-apg.md), expert in [Performance](compendium/skills.md#Performance)
 
@@ -51,7 +51,7 @@ You can use [Performance](compendium/skills.md#Performance) to [Demoralize](rule
 title: Play To The Crowd, Feat 4
 collapse: closed
 # Play To The Crowd  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 4*  
-[archetype](rules/traits/archetype.md)  [concentrate](rules/traits/concentrate.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
 
 - **Prerequisites**: [Gladiator Dedication](compendium/feats/gladiator-dedication-apg.md)
 - **Trigger** You reduce an enemy to 0 Hit Points during a non-trivial combat encounter with spectators.
@@ -71,11 +71,11 @@ You show off for the crowd. Attempt a [Performance](compendium/skills.md#Perform
 title: Stage Fighting, Feat 4
 collapse: closed
 # Stage Fighting  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Gladiator Dedication](compendium/feats/gladiator-dedication-apg.md)
 
-You pull punches to give a better show. You don't take the usual –2 circumstance penalty when making a nonlethal attack with a weapon or unarmed attack that doesn't have the [nonlethal](rules/traits/nonlethal.md) trait.
+You pull punches to give a better show. You don't take the usual –2 circumstance penalty when making a nonlethal attack with a weapon or unarmed attack that doesn't have the [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait") trait.
 
 *Source: Advanced Player's Guide p. 175*  
 %% #trait/archetype %%
@@ -85,7 +85,7 @@ You pull punches to give a better show. You don't take the usual –2 circumstan
 title: Performative Weapons Training, Feat 6
 collapse: closed
 # Performative Weapons Training  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Gladiator Dedication](compendium/feats/gladiator-dedication-apg.md)
 
@@ -99,13 +99,13 @@ You're skilled with flashy weapons. You are trained with the [bo staff](compendi
 title: Call Your Shot, Feat 8
 collapse: closed
 # Call Your Shot  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Play to the Crowd](compendium/feats/play-to-the-crowd-apg.md)
 
 When you successfully Play to the Crowd, add the following to the list of benefits you can choose from:
 
-- Choose a creature within 30 feet that can see you to become [frightened](rules/conditions.md#Frightened). This effect has the [emotion](rules/traits/emotion.md), [fear](rules/traits/fear.md), [mental](rules/traits/mental.md), and [visual](rules/traits/visual.md) traits.
+- Choose a creature within 30 feet that can see you to become [frightened](rules/conditions.md#Frightened). This effect has the [emotion](rules/traits/emotion.md "Emotion Effect Trait"), [fear](rules/traits/fear.md "Fear Effect Trait"), [mental](rules/traits/mental.md "Mental Effect Trait"), and [visual](rules/traits/visual.md "Visual Effect Trait") traits.
 
 *Source: Advanced Player's Guide p. 175*  
 %% #trait/archetype %%

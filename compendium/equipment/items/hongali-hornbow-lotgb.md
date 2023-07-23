@@ -10,7 +10,7 @@ tags:
 aliases: ["Hongali Hornbow"]
 ---
 # Hongali Hornbow *Item 0*  
-[deadly <d6>](rules/traits/deadly.md)  [propulsive](rules/traits/propulsive.md)  [uncommon](rules/traits/uncommon.md)  
+[deadly <d6>](rules/traits/deadly-d6.md "Deadly Weapon Trait")  [propulsive](rules/traits/propulsive.md "Propulsive Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 11 gp
 - **Bulk** 2

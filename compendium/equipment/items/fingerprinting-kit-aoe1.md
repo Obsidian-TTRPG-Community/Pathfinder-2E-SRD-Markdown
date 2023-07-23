@@ -8,7 +8,7 @@ tags:
 aliases: ["Fingerprinting Kit"]
 ---
 # Fingerprinting Kit *Item 3*  
-[uncommon](rules/traits/uncommon.md)  
+[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 30 gp
 - **Usage** held in 2 hands; **Bulk** L

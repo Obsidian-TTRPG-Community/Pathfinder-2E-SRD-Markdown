@@ -13,7 +13,7 @@ tags:
 aliases: ["Starsong Nectar"]
 ---
 # Starsong Nectar *Item 20*  
-[consumable](rules/traits/consumable.md)  [divination](rules/traits/divination.md)  [fortune](rules/traits/fortune.md)  [magical](rules/traits/magical.md)  [potion](rules/traits/potion.md)  [rare](rules/traits/rare.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [potion](rules/traits/potion.md "Potion Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 14000 gp
 - **Usage** held in 1 hand; **Bulk** L

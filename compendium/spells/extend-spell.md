@@ -11,7 +11,7 @@ tags:
 aliases: ["Extend Spell"]
 ---
 # Extend Spell *Focus 3*   
-[divination](rules/traits/divination.md)  [metamagic](rules/traits/metamagic.md)  [sorcerer](rules/traits/sorcerer.md)  [uncommon](rules/traits/uncommon.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bloodline** Sorcerer
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Felling Strike"]
 ---
 # Felling Strike  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
-[fighter](rules/traits/fighter.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 - **Activity** Two-Action
 

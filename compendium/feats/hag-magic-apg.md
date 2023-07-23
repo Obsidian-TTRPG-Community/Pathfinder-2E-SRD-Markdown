@@ -7,7 +7,7 @@ tags:
 aliases: ["Hag Magic"]
 ---
 # Hag Magic  *Feat 13*  
-[changeling](rules/traits/changeling-b1.md)  
+[changeling](rules/traits/changeling-b1.md "Changeling Ancestry & Heritage Trait")  
 
 
 Through your heritage, you can replicate some of a hag's magic.

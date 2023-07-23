@@ -12,7 +12,7 @@ tags:
 aliases: ["Wand Of Thundering Echoes"]
 ---
 # Wand Of Thundering Echoes *Item 9+*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [sonic](rules/traits/sonic.md)  [uncommon](rules/traits/uncommon.md)  [wand](rules/traits/wand.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Wand

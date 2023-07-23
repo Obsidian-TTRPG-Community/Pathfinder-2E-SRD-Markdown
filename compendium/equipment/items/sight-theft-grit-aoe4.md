@@ -12,7 +12,7 @@ tags:
 aliases: ["Sight-theft Grit"]
 ---
 # Sight-theft Grit *Item 9*  
-[consumable](rules/traits/consumable.md)  [divine](rules/traits/divine.md)  [ingested](rules/traits/ingested.md)  [poison](rules/traits/poison.md)  [uncommon](rules/traits/uncommon.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [ingested](rules/traits/ingested.md "Ingested Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 115 gp
 - **Usage** held in 1 hand; **Bulk** L

@@ -12,7 +12,7 @@ tags:
 aliases: ["Orchestral Brooch"]
 ---
 # Orchestral Brooch *Item 8*  
-[auditory](rules/traits/auditory.md)  [consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [talisman](rules/traits/talisman.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  
 
 - **Price** 100 gp
 - **Usage** affixed to armor

@@ -10,12 +10,12 @@ tags:
 - domain/sun/deity
 aliases: ["Jaidi", "The Blessing and Bounty"]
 ---
-# Jaidi (The Blessing and Bounty) *([NG](rules/traits/neutral-good-b1.md))*  
+# Jaidi (The Blessing and Bounty) *([NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 130*  
 
 - **Category**: Other Gods
 - **Anathema**: destroy healthy crops, waste food, refuse to help others in your community
-- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [NG](rules/traits/neutral-good-b1.md), [N](rules/traits/neutral-b1.md)
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait")
 
 ## Devotee benefits
 

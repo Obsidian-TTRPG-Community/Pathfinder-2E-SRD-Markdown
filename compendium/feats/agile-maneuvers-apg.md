@@ -7,7 +7,7 @@ tags:
 aliases: ["Agile Maneuvers"]
 ---
 # Agile Maneuvers  *Feat 6*  
-[swashbuckler](rules/traits/swashbuckler-apg.md)  
+[swashbuckler](rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  
 
 - **Prerequisites**: expert in [Athletics](compendium/skills.md#Athletics)
 

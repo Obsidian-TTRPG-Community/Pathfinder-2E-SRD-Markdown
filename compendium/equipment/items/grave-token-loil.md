@@ -11,7 +11,7 @@ tags:
 aliases: ["Grave Token"]
 ---
 # Grave Token *Item 4*  
-[catalyst](rules/traits/catalyst-som.md)  [consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[catalyst](rules/traits/catalyst-som.md "Catalyst Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 18 gp
 - **Usage** held in one hand; **Bulk** L

@@ -8,7 +8,7 @@ tags:
 aliases: ["Planar Rift"]
 ---
 # Planar Rift *Hazard 13*  
-[magical](rules/traits/magical.md)  [trap](rules/traits/trap.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 35 trained  
@@ -19,7 +19,7 @@ A rift attempts to draw creatures into another plane (the GM chooses the specifi
      
 ```ad-embed-ability
 title: Into the Great Beyond [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[conjuration](rules/traits/conjuration.md)  [occult](rules/traits/occult.md)  [teleportation](rules/traits/teleportation.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  
 
 - **Trigger**: A creature moves within 10 feet of the rift.
 

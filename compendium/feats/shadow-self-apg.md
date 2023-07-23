@@ -7,7 +7,7 @@ tags:
 aliases: ["Shadow Self"]
 ---
 # Shadow Self  *Feat 17*  
-[halfling](rules/traits/halfling.md)  
+[halfling](rules/traits/halfling.md "Halfling Ancestry & Heritage Trait")  
 
 - **Prerequisites**: legendary [Stealth](compendium/skills.md#Stealth)
 - **Frequency**: once per hour

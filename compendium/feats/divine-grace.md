@@ -7,7 +7,7 @@ tags:
 aliases: ["Divine Grace"]
 ---
 # Divine Grace  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 2*  
-[champion](rules/traits/champion.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  
 
 - **Trigger** You attempt a save against a spell, before you roll.
 - **Activity** Reaction

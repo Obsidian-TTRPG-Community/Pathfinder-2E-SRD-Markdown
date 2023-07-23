@@ -11,7 +11,7 @@ tags:
 aliases: ["Wyrm Drinker"]
 ---
 # Wyrm Drinker *Item 17*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [staff](rules/traits/staff.md)  [unique](rules/traits/unique.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Price** 13000 gp
 - **Usage** held in 1 hand; **Bulk** 1

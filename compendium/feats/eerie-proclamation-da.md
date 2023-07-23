@@ -16,7 +16,7 @@ tags:
 aliases: ["Eerie Proclamation"]
 ---
 # Eerie Proclamation  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 10*  
-[auditory](rules/traits/auditory.md)  [concentrate](rules/traits/concentrate.md)  [curse](rules/traits/curse.md)  [druid](rules/traits/druid.md)  [linguistic](rules/traits/linguistic.md)  [manipulate](rules/traits/manipulate.md)  [necromancy](rules/traits/necromancy.md)  [primal](rules/traits/primal.md)  [ranger](rules/traits/ranger.md)  [uncommon](rules/traits/uncommon.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [curse](rules/traits/curse.md "Curse Effect Trait")  [druid](rules/traits/druid.md "Druid Class Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [ranger](rules/traits/ranger.md "Ranger Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: expert in [Occultism](compendium/skills.md#Occultism), expert in [Survival](compendium/skills.md#Survival)
 - **Frequency**: once per hour

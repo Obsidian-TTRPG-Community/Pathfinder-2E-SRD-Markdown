@@ -9,7 +9,7 @@ tags:
 aliases: ["False Floor"]
 ---
 # False Floor *Hazard 3*  
-[illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  [trap](rules/traits/trap.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 23 (trained; or 0 if the illusory floor is dispelled)  

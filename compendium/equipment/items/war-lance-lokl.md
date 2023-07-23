@@ -12,7 +12,7 @@ tags:
 aliases: ["War Lance"]
 ---
 # War Lance *Item 0*  
-[deadly <d8>](rules/traits/deadly.md)  [jousting <d6>](rules/traits/jousting.md)  [parry](rules/traits/parry.md)  [shove](rules/traits/shove.md)  [uncommon](rules/traits/uncommon.md)  
+[deadly <d8>](rules/traits/deadly-d8.md "Deadly Weapon Trait")  [jousting <d6>](rules/traits/jousting-d6.md "Jousting Weapon Trait")  [parry](rules/traits/parry.md "Parry Weapon Trait")  [shove](rules/traits/shove.md "Shove Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 4 gp
 - **Bulk** 2

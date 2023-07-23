@@ -11,7 +11,7 @@ tags:
 aliases: ["Project Persona"]
 ---
 # Project Persona  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 5*  
-[concentrate](rules/traits/concentrate.md)  [gnome](rules/traits/gnome.md)  [illusion](rules/traits/illusion.md)  [primal](rules/traits/primal.md)  [visual](rules/traits/visual.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [gnome](rules/traits/gnome.md "Gnome Ancestry & Heritage Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Activity** Single Action
 

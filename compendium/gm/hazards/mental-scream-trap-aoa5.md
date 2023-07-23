@@ -8,7 +8,7 @@ tags:
 aliases: ["Mental Scream Trap"]
 ---
 # Mental Scream Trap *Hazard 19*  
-[magical](rules/traits/magical.md)  [trap](rules/traits/trap.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 43 master  
@@ -19,7 +19,7 @@ A psychic scream disorients creatures in the area.
      
 ```ad-embed-ability
 title: Psychic Screech [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[arcane](rules/traits/arcane.md)  [enchantment](rules/traits/enchantment.md)  [incapacitation](rules/traits/incapacitation.md)  [mental](rules/traits/mental.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 - **Trigger**: A creature enters the marked area
 

@@ -11,7 +11,7 @@ tags:
 aliases: ["Ring Of Recalcitrant Wishes"]
 ---
 # Ring Of Recalcitrant Wishes *Item 20*  
-[divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 10000 gp
 - **Usage** worn

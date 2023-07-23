@@ -8,7 +8,7 @@ tags:
 aliases: ["Warpglass Weapon"]
 ---
 # Warpglass Weapon *Item 17*  
-[rare](rules/traits/rare.md)  
+[rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** varies by weapon; **Bulk** varies
 - **Category** Material

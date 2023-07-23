@@ -7,7 +7,7 @@ tags:
 aliases: ["Flensing Slice"]
 ---
 # Flensing Slice  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Dual-Weapon Warrior Dedication](compendium/feats/dual-weapon-warrior-dedication-apg.md)
 - **Requirements**: Your last action was a Double Slice, and both attacks hit the target.

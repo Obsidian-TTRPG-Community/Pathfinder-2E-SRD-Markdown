@@ -9,7 +9,7 @@ tags:
 aliases: ["Swordmaster Dedication"]
 ---
 # Swordmaster Dedication  *Feat 6*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: Strength, Dexterity, or Constitution 14; member of the Pathfinder Society affiliated with the School of Swords
 

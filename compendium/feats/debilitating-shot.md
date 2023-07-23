@@ -8,7 +8,7 @@ tags:
 aliases: ["Debilitating Shot"]
 ---
 # Debilitating Shot  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 10*  
-[fighter](rules/traits/fighter.md)  [flourish](rules/traits/flourish.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 - **Activity** Two-Action
 

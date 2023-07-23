@@ -10,7 +10,7 @@ tags:
 aliases: ["Elemental Ammunition"]
 ---
 # Elemental Ammunition *Item 1+*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [splash](rules/traits/splash.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [splash](rules/traits/splash.md "Splash Weapon Trait")  
 
 - **Ammunition** any
 - **Activate** [Interact](rules/actions/interact.md)

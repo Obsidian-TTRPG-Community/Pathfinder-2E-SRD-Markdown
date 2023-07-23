@@ -7,7 +7,7 @@ tags:
 aliases: ["Water Conjuration"]
 ---
 # Water Conjuration  *Feat 5*  
-[azarketi](rules/traits/azarketi-loag.md)  
+[azarketi](rules/traits/azarketi-loag.md "Azarketi Ancestry & Heritage Trait")  
 
 
 You carry the ocean with you wherever you go. You can cast [create water](compendium/spells/create-water.md) as a primal innate spell once per day. Each time you cast [create water](compendium/spells/create-water.md), you choose if you create fresh water or salt water.

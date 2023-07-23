@@ -7,7 +7,7 @@ tags:
 aliases: ["Greater Revelation"]
 ---
 # Greater Revelation  *Feat 12*  
-[oracle](rules/traits/oracle-apg.md)  
+[oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  
 
 - **Prerequisites**: initial revelation spell
 

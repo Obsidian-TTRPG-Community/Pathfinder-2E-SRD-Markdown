@@ -7,7 +7,7 @@ tags:
 aliases: ["Eldritch Debilitations"]
 ---
 # Eldritch Debilitations  *Feat 10*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Prerequisites**: eldritch trickster racket, [Debilitating Strike](rules/actions/debilitating-strike.md)
 

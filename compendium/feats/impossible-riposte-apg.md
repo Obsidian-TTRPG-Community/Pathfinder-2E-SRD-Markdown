@@ -7,7 +7,7 @@ tags:
 aliases: ["Impossible Riposte"]
 ---
 # Impossible Riposte  *Feat 14*  
-[swashbuckler](rules/traits/swashbuckler-apg.md)  
+[swashbuckler](rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  
 
 - **Prerequisites**: [Opportune Riposte](rules/actions/opportune-riposte-apg.md)
 

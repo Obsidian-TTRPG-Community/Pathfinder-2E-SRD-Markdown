@@ -10,7 +10,7 @@ tags:
 aliases: ["Hatchet"]
 ---
 # Hatchet *Item 0*  
-[agile](rules/traits/agile.md)  [sweep](rules/traits/sweep.md)  [thrown <10 ft.>](rules/traits/thrown.md)  
+[agile](rules/traits/agile.md "Agile Weapon Trait")  [sweep](rules/traits/sweep.md "Sweep Weapon Trait")  [thrown <10 ft.>](rules/traits/thrown-10-ft.md "Thrown Weapon Trait")  
 
 - **Price** 4 sp
 - **Bulk** L

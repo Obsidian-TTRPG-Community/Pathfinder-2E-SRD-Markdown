@@ -9,7 +9,7 @@ tags:
 aliases: ["Rhoka Sword"]
 ---
 # Rhoka Sword *Item 0*  
-[deadly <d8>](rules/traits/deadly.md)  [two-hand <d10>](rules/traits/two-hand.md)  
+[deadly <d8>](rules/traits/deadly-d8.md "Deadly Weapon Trait")  [two-hand <d10>](rules/traits/two-hand-d10.md "Two-Hand Weapon Trait")  
 
 - **Price** 4 gp
 - **Bulk** 2

@@ -11,7 +11,7 @@ tags:
 aliases: ["Tome of Scintillating Sleet"]
 ---
 # Tome of Scintillating Sleet *Item 8*  
-[cold](rules/traits/cold.md)  [evocation](rules/traits/evocation.md)  [grimoire](rules/traits/grimoire-som.md)  [primal](rules/traits/primal.md)  
+[cold](rules/traits/cold.md "Cold Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [grimoire](rules/traits/grimoire-som.md "Grimoire Item Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  
 
 - **Price** 430 gp
 - **Bulk** L

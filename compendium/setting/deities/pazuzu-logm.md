@@ -10,12 +10,12 @@ tags:
 - domain/tyranny/deity
 aliases: ["Pazuzu", "King of the Wind Demons"]
 ---
-# Pazuzu (King of the Wind Demons) *([CE](rules/traits/chaotic-evil-b1.md))*  
+# Pazuzu (King of the Wind Demons) *([CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 77*  
 
 - **Category**: Demon Lords
 - **Anathema**: deny a flying creature the ability to fly, abuse Pazuzu's name or call on Pazuzu for help, aid worshippers of Lamashtu
-- **Follower Alignments**: [CE](rules/traits/chaotic-evil-b1.md)
+- **Follower Alignments**: [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
 

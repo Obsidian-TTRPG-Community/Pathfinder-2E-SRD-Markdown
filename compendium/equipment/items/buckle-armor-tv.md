@@ -9,7 +9,7 @@ tags:
 aliases: ["Buckle Armor"]
 ---
 # Buckle Armor *Item 0*  
-[adjusted <storage>](rules/traits/adjusted-tv.md)  [noisy](rules/traits/noisy.md)  
+[adjusted <storage>](rules/traits/adjusted-storage-tv.md "Adjusted Armor Trait")  [noisy](rules/traits/noisy.md "Noisy Armor Trait")  
 
 - **Price** 4 gp
 - **Bulk** 1

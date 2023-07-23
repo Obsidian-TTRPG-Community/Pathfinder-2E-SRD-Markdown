@@ -9,7 +9,7 @@ tags:
 aliases: ["Armored Coat"]
 ---
 # Armored Coat *Item 0*  
-[comfort](rules/traits/comfort.md)  [flexible](rules/traits/flexible.md)  
+[comfort](rules/traits/comfort.md "Comfort Armor Trait")  [flexible](rules/traits/flexible.md "Flexible Armor Trait")  
 
 - **Price** 20 gp
 - **Bulk** 2

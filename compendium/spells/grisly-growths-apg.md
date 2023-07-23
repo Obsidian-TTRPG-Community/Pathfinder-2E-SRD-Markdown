@@ -8,9 +8,9 @@ tags:
 aliases: ["Grisly Growths"]
 ---
 # Grisly Growths *Spell 5*   
-[transmutation](rules/traits/transmutation.md)  
+[transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**60 foot
 - **Targets**1 corporeal creature
@@ -22,7 +22,7 @@ The target takes `10d6` piercing damage (basic Fortitude save) as the new featur
 
 In addition, unless the initial target critically succeeds, creatures within 30 feet of the target, including the target, must attempt Will saves, after which they are temporarily immune to this secondary effect of grisly growths for 1 hour.
 
-This additional effect is a [mental](rules/traits/mental.md) and [visual](rules/traits/visual.md) effect.
+This additional effect is a [mental](rules/traits/mental.md "Mental Effect Trait") and [visual](rules/traits/visual.md "Visual Effect Trait") effect.
 
 > [!success-degree] 
 > - **Success** The creature is unaffected.

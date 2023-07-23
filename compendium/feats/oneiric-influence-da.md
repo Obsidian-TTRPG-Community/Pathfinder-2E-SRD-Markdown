@@ -11,7 +11,7 @@ tags:
 aliases: ["Oneiric Influence"]
 ---
 # Oneiric Influence  *Feat 12*  
-[archetype](rules/traits/archetype.md)  [enchantment](rules/traits/enchantment.md)  [incapacitation](rules/traits/incapacitation.md)  [mental](rules/traits/mental.md)  [occult](rules/traits/occult.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 - **Prerequisites**: [Infiltrate Dream](compendium/feats/infiltrate-dream-da.md)
 

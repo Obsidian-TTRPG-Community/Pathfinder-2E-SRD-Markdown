@@ -7,7 +7,7 @@ tags:
 aliases: ["Shory Aerialist"]
 ---
 # Shory Aerialist  *Feat 13*  
-[human](rules/traits/human.md)  
+[human](rules/traits/human.md "Human Ancestry & Heritage Trait")  
 
 - **Prerequisites**: Garundi, Mauxi, or Tian-Yae ethnicity; [Shory Aeromancer](compendium/feats/shory-aeromancer-locg.md) or ability to cast [fly](compendium/spells/fly.md)
 

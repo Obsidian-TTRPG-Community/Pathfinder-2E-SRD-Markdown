@@ -7,7 +7,7 @@ tags:
 aliases: ["Strix Defender"]
 ---
 # Strix Defender  *Feat 1*  
-[strix](rules/traits/strix-loag.md)  
+[strix](rules/traits/strix-loag.md "Strix Ancestry & Heritage Trait")  
 
 
 Your ancestral feud with humans gives you experience dealing with vicious foes, and your vengeance knows no bounds. You gain a +1 circumstance bonus to [Intimidation](compendium/skills.md#Intimidation), [Perception](compendium/skills.md#Perception), and [Survival](compendium/skills.md#Survival) checks against humans, as well as on damage rolls against humans with weapons and unarmed attacks.

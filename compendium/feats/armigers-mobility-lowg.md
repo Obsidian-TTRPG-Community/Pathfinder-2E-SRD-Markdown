@@ -7,7 +7,7 @@ tags:
 aliases: ["Armiger's Mobility"]
 ---
 # Armiger's Mobility  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: expert in heavy armor, [Hellknight Armiger Dedication](compendium/feats/hellknight-armiger-dedication-lowg.md)
 

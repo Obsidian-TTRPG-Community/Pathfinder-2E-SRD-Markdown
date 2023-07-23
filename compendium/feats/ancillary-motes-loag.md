@@ -7,7 +7,7 @@ tags:
 aliases: ["Ancillary Motes"]
 ---
 # Ancillary Motes  *Feat 9*  
-[aphorite](rules/traits/aphorite-loag.md)  
+[aphorite](rules/traits/aphorite-loag.md "Aphorite Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Crystalline Dust](compendium/feats/crystalline-dust-loag.md)
 

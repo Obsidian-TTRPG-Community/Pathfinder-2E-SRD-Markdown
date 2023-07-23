@@ -9,9 +9,9 @@ tags:
 aliases: ["Protector Tree"]
 ---
 # Protector Tree *Spell 1*   
-[conjuration](rules/traits/conjuration.md)  [plant](rules/traits/plant.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md)
+- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot
 - **Duration**1 minute

@@ -8,7 +8,7 @@ tags:
 aliases: ["Light Of Revelation"]
 ---
 # Light Of Revelation  *Feat 4*  
-[champion](rules/traits/champion.md)  [uncommon](rules/traits/uncommon.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 
 You've learned to call upon light to reveal what is [hidden](rules/conditions.md#Hidden). You gain the [light of revelation](compendium/spells/light-of-revelation-locg.md) devotion spell. Increase the number of Focus Points in your focus pool by 1.

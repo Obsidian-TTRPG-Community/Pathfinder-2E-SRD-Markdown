@@ -8,7 +8,7 @@ tags:
 aliases: ["Dart Shield"]
 ---
 # Dart Shield *Item 0*  
-[launching <dart>](rules/traits/launching-tv.md)  
+[launching <dart>](rules/traits/launching-dart-tv.md "Launching Item Trait")  
 
 - **Price** 8 gp
 - **Bulk** 1

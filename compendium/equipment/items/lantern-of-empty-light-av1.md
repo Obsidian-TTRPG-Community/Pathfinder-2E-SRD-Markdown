@@ -10,7 +10,7 @@ tags:
 aliases: ["Lantern Of Empty Light"]
 ---
 # Lantern Of Empty Light *Item 6*  
-[enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 240 gp
 - **Usage** held in 1 hand; **Bulk** 1

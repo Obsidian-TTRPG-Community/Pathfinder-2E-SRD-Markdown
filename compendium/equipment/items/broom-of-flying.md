@@ -9,7 +9,7 @@ tags:
 aliases: ["Broom of Flying"]
 ---
 # Broom of Flying *Item 12*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 1900 gp
 - **Usage** held in 1 hand; **Bulk** 1

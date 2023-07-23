@@ -9,7 +9,7 @@ tags:
 aliases: ["Runescarred Dedication"]
 ---
 # Runescarred Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: You are from the Saga Lands.
 - **Prerequisites**: trained in [Arcana](compendium/skills.md#Arcana)

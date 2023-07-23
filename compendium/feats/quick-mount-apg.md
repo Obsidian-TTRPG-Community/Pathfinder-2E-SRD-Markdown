@@ -8,7 +8,7 @@ tags:
 aliases: ["Quick Mount"]
 ---
 # Quick Mount  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Cavalier Dedication](compendium/feats/cavalier-dedication-apg.md), expert in [Nature](compendium/skills.md#Nature)
 - **Requirements**: You are adjacent to a creature that is at least one size larger than you and is willing to be your mount.

@@ -9,9 +9,9 @@ tags:
 aliases: ["Goblin Pox"]
 ---
 # Goblin Pox *Spell 1*   
-[disease](rules/traits/disease.md)  [necromancy](rules/traits/necromancy.md)  
+[disease](rules/traits/disease.md "Disease Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**touch
 - **Targets**1 creature
@@ -28,7 +28,7 @@ Your touch afflicts the target with goblin pox, an irritating allergenic rash. T
 ```ad-inline-affliction
 title: Goblin Pox _Level 1_
 
-[disease](rules/traits/disease.md)  
+[disease](rules/traits/disease.md "Disease Effect Trait")  
 Goblins and goblin dogs are immune.
 
 
@@ -41,7 +41,7 @@ Goblins and goblin dogs are immune.
 **Stage 3** [sickened](rules/conditions.md#Sickened) and the creature can't reduce its [sickened](rules/conditions.md#Sickened) value below 1 (1 day)
 
 
-%% #trait/disease #affliction/level/level-1 %%
+%% #affliction/level/level-1 #trait/disease %%
 ```
 
 ## Summary

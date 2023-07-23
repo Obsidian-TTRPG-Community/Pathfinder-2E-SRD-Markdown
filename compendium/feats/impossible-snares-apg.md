@@ -7,7 +7,7 @@ tags:
 aliases: ["Impossible Snares"]
 ---
 # Impossible Snares  *Feat 20*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: [Ubiquitous Snares](compendium/feats/ubiquitous-snares.md)
 

@@ -8,9 +8,9 @@ tags:
 aliases: ["Telekinetic Haul"]
 ---
 # Telekinetic Haul *Spell 5*   
-[evocation](rules/traits/evocation.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**120 foot
 - **Targets**1 unattended object of up to 80 Bulk with no dimension longer than 20 feet

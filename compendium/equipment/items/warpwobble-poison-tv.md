@@ -12,7 +12,7 @@ tags:
 aliases: ["Warpwobble Poison"]
 ---
 # Warpwobble Poison *Item 8*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [injury](rules/traits/injury.md)  [mental](rules/traits/mental.md)  [poison](rules/traits/poison.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [injury](rules/traits/injury.md "Injury Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Price** 90 gp
 - **Usage** held in 2 hands; **Bulk** L

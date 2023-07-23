@@ -10,7 +10,7 @@ tags:
 aliases: ["Imperious Darkside Mirror"]
 ---
 # Imperious Darkside Mirror *Hazard 19*  
-[complex](rules/traits/complex.md)  [magical](rules/traits/magical.md)  [mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +32 legendary to notice that the mirror isn't a regular mirror.  
@@ -27,7 +27,7 @@ This magic mirror replaces characters with evil duplicates from another dimensio
      
 ```ad-embed-ability
 title: Reflection of Evil [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[arcane](rules/traits/arcane.md)  [conjuration](rules/traits/conjuration.md)  [teleportation](rules/traits/teleportation.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  
 
 - **Trigger**: A non-evil creature is reflected in the mirror
 

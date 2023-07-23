@@ -8,7 +8,7 @@ tags:
 aliases: ["Stalwart Standard"]
 ---
 # Stalwart Standard  *Feat 10*  
-[archetype](rules/traits/archetype.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Cavalier's Banner](compendium/feats/cavaliers-banner-apg.md), [Knight Vigilant Dedication](compendium/feats/knight-vigilant-dedication-locg.md)
 

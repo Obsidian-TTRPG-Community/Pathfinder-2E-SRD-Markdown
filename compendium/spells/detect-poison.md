@@ -10,9 +10,9 @@ tags:
 aliases: ["Detect Poison"]
 ---
 # Detect Poison *Spell 1*   
-[detection](rules/traits/detection.md)  [divination](rules/traits/divination.md)  [uncommon](rules/traits/uncommon.md)  
+[detection](rules/traits/detection.md "Detection Effect Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md), [primal](rules/traits/primal.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot
 - **Targets**1 object or creature

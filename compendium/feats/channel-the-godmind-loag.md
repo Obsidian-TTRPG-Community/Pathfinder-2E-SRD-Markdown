@@ -7,7 +7,7 @@ tags:
 aliases: ["Channel The Godmind"]
 ---
 # Channel The Godmind  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 17*  
-[aphorite](rules/traits/aphorite-loag.md)  
+[aphorite](rules/traits/aphorite-loag.md "Aphorite Ancestry & Heritage Trait")  
 
 - **Frequency**: once per day
 - **Activity** Two-Action

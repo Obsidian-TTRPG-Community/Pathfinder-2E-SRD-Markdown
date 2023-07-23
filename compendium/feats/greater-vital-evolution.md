@@ -7,7 +7,7 @@ tags:
 aliases: ["Greater Vital Evolution"]
 ---
 # Greater Vital Evolution  *Feat 16*  
-[sorcerer](rules/traits/sorcerer.md)  
+[sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 - **Prerequisites**: [Divine Evolution](compendium/feats/divine-evolution.md) or [Primal Evolution](compendium/feats/primal-evolution.md)
 

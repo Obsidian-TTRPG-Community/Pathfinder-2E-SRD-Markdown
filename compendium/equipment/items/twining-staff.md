@@ -9,7 +9,7 @@ tags:
 aliases: ["Twining Staff"]
 ---
 # Twining Staff *Item 6*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 250 gp
 - **Usage** held in 1 or 2 hands; **Bulk** — to 2

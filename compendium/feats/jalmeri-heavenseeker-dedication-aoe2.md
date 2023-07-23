@@ -9,7 +9,7 @@ tags:
 aliases: ["Jalmeri Heavenseeker Dedication"]
 ---
 # Jalmeri Heavenseeker Dedication  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: trained by a current or former member of a House of Perfection
 - **Prerequisites**: expert in unarmed attacks

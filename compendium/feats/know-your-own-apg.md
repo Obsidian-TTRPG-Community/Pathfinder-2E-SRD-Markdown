@@ -7,7 +7,7 @@ tags:
 aliases: ["Know Your Own"]
 ---
 # Know Your Own  *Feat 1*  
-[elf](rules/traits/elf.md)  
+[elf](rules/traits/elf.md "Elf Ancestry & Heritage Trait")  
 
 
 You've spent countless hours studying the history of elves on your world and beyond and are a studied expert in your people's ways. If you critically fail a check to [Recall Knowledge](rules/actions/recall-knowledge.md) about elves, elven society, or elven history, you get a failure instead.

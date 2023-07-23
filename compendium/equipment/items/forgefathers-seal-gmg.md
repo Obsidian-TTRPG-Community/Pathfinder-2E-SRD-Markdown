@@ -11,7 +11,7 @@ tags:
 aliases: ["Forgefather's Seal"]
 ---
 # Forgefather's Seal *Item 24*  
-[abjuration](rules/traits/abjuration.md)  [artifact](rules/traits/artifact-gmg.md)  [divine](rules/traits/divine.md)  [rare](rules/traits/rare.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** etched onto armor
 

@@ -10,7 +10,7 @@ tags:
 aliases: ["Festering Wounds"]
 ---
 # Festering Wounds  *Feat 12*  
-[archetype](rules/traits/archetype.md)  [disease](rules/traits/disease.md)  [divine](rules/traits/divine.md)  [necromancy](rules/traits/necromancy.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [disease](rules/traits/disease.md "Disease Effect Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 - **Prerequisites**: [Zombie Dedication](compendium/feats/zombie-dedication-botd.md)
 

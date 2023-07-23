@@ -9,7 +9,7 @@ tags:
 aliases: ["Affix a Talisman"]
 ---
 # Affix a Talisman (basic)
-[exploration](rules/traits/exploration.md)  [manipulate](rules/traits/manipulate.md)  
+[exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 *Source: Core Rulebook p. 565*  
 
 

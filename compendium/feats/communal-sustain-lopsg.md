@@ -7,7 +7,7 @@ tags:
 aliases: ["Communal Sustain"]
 ---
 # Communal Sustain  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spellmaster Dedication](compendium/feats/spellmaster-dedication-locg.md)
 - **Frequency**: once per round

@@ -12,7 +12,7 @@ tags:
 aliases: ["Potion of Tongues"]
 ---
 # Potion of Tongues *Item 12*  
-[consumable](rules/traits/consumable.md)  [divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [potion](rules/traits/potion.md)  [uncommon](rules/traits/uncommon.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [potion](rules/traits/potion.md "Potion Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 320 gp
 - **Usage** held in 1 hand; **Bulk** L

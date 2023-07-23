@@ -10,7 +10,7 @@ tags:
 aliases: ["Corrosive"]
 ---
 # Corrosive *Item 8+*  
-[acid](rules/traits/acid.md)  [conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  
+[acid](rules/traits/acid.md "Acid Energy & Element Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Usage** etched onto a weapon
 - **Category** Rune

@@ -8,7 +8,7 @@ tags:
 aliases: ["Alchemical Gauntlet"]
 ---
 # Alchemical Gauntlet *Item 1*  
-[alchemical](rules/traits/alchemical.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  
 
 - **Price** 10 gp
 - **Category** Adventuring Gear

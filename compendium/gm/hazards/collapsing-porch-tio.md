@@ -8,7 +8,7 @@ tags:
 aliases: ["Collapsing Porch"]
 ---
 # Collapsing Porch *Hazard 1*  
-[mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  
+[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 19 [Perception](compendium/skills.md#Perception) check (or 0 after the hazard is triggered)  

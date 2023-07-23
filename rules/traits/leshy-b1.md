@@ -12,6 +12,6 @@ aliases: ["Leshy"]
 
 Leshys are small plant creatures, roughly humanoid in form.
 
-Leshies are living plants animated by [primal](rules/traits/primal.md) magic.
+Leshies are living plants animated by [primal](rules/traits/primal.md "Primal Tradition Trait") magic.
 
 - **Categories**: Ancestry & Heritage, Creature

@@ -7,7 +7,7 @@ tags:
 aliases: ["Imposing Destrier"]
 ---
 # Imposing Destrier  *Feat 10*  
-[champion](rules/traits/champion.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  
 
 - **Prerequisites**: divine ally (steed), [Loyal Warhorse](compendium/feats/loyal-warhorse.md)
 

@@ -13,13 +13,13 @@ tags:
 - trait/reach-15-feet
 aliases: ["Kazutal", "Mother Jaguar"]
 ---
-# Kazutal (Mother Jaguar) *([NG](rules/traits/neutral-good-b1.md))*  
+# Kazutal (Mother Jaguar) *([NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 64*  
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: own a slave, force a creature to act against its will, refuse to give aid to an ally, enforce an unjust law
 - **Areas of Concern**: safety, , liberty, , and community
-- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [NG](rules/traits/neutral-good-b1.md), [CG](rules/traits/chaotic-good-b1.md)
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")
 
 ## Devotee benefits
 
@@ -37,7 +37,7 @@ When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Ka
 title: [Avatar](compendium/spells/avatar.md) of Kazutal
 
 - **Speed**: Speed 60 feet, ignore difficult terrain and greater difficult terrain
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") machete ([agile](rules/traits/agile.md), [reach <15 feet>](rules/traits/reach.md)), **Damage** `6d6+6` slashing
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") machete ([agile](rules/traits/agile.md "Agile Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait")), **Damage** `6d6+6` slashing
 - **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") jaguar pounce **Damage** `5d6+3` piercing and `1d6` persistent bleed
 ```
 
@@ -47,7 +47,7 @@ title: [Avatar](compendium/spells/avatar.md) of Kazutal
 Mother Jaguar rewards those who uphold a sense of community and bestows punishments upon those who use her name and convictions to admonish or exclude perceived outsiders.
 
 - **Minor Boon** With Kazutal's blessing, food tastes richer. Any meal that you eat tastes delicious and has improved nutritional value. This doesn't protect you from anything dangerous in your food, but it also doesn't prevent you from tasting those dangerous elements of the food.
-- **Moderate Boon**: You always seem to find safe shelter when you most need it. Once per day, you can cast [rope trick](compendium/spells/rope-trick.md) as a [divine](rules/traits/divine.md) innate spell.
+- **Moderate Boon**: You always seem to find safe shelter when you most need it. Once per day, you can cast [rope trick](compendium/spells/rope-trick.md) as a [divine](rules/traits/divine.md "Divine Tradition Trait") innate spell.
 - **Major Boon**: Kazutal smiles upon those who seek to offer aid, no matter how meek or helpless they may be. Any time creatures attempt a check to [Aid](rules/actions/aid.md) you, they can choose to automatically succeed. If a creature chooses to roll for the attempt and rolls a success, it gets a critical success instead, granting a +4 circumstance bonus even if it doesn't have legendary proficiency in that skill. You gain the same benefits when you attempt to [Aid](rules/actions/aid.md) others.
 
 - **Minor Curse**: Community opinion turns against you. Humanoids in your community who would normally start as [indifferent](rules/conditions.md#Indifferent) toward you start as [unfriendly](rules/conditions.md#Unfriendly) instead.

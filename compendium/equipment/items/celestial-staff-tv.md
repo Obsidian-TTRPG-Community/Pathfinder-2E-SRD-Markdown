@@ -12,13 +12,13 @@ tags:
 aliases: ["Celestial Staff"]
 ---
 # Celestial Staff *Item 17*  
-[good](rules/traits/good.md)  [magical](rules/traits/magical.md)  [staff](rules/traits/staff.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+[good](rules/traits/good.md "Good Alignment Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 14000 gp
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Staff
 
-Heavenly radiance shines from an active celestial staff, a golden staff capped with a pair of sculpted angel's wings. Used as a weapon, the staff is a +2 greater striking holy staff. While wielding a celestial staff, you gain a +1 circumstance bonus to saving throws against effects that have the [evil](rules/traits/evil.md) trait and effects created by evil creatures. When you prepare this staff, if you're evil, you become [drained](rules/conditions.md#Drained) until your next daily preparations.
+Heavenly radiance shines from an active celestial staff, a golden staff capped with a pair of sculpted angel's wings. Used as a weapon, the staff is a +2 greater striking holy staff. While wielding a celestial staff, you gain a +1 circumstance bonus to saving throws against effects that have the [evil](rules/traits/evil.md "Evil Alignment Trait") trait and effects created by evil creatures. When you prepare this staff, if you're evil, you become [drained](rules/conditions.md#Drained) until your next daily preparations.
 
 ```ad-embed-ability
 title: Activate

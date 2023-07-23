@@ -11,7 +11,7 @@ tags:
 aliases: ["Reaper's Crescent"]
 ---
 # Reaper's Crescent *Item 9*  
-[evocation](rules/traits/evocation.md)  [light](rules/traits/light.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [light](rules/traits/light.md "Light Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 575 gp
 - **Usage** held in 1 hand; **Bulk** L

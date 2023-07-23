@@ -8,7 +8,7 @@ tags:
 aliases: ["Powder"]
 ---
 # Powder *Item 0*  
-[consumable](rules/traits/consumable.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  
 
 - **Price** 1 sp
 - **Usage** held in 1 hand; **Bulk** L

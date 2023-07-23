@@ -7,7 +7,7 @@ tags:
 aliases: ["Fantastic Leap"]
 ---
 # Fantastic Leap  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 12*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Activity** Two-Action
 

@@ -12,7 +12,7 @@ tags:
 aliases: ["Dancer's Spear"]
 ---
 # Dancer's Spear *Item 0*  
-[backswing](rules/traits/backswing.md)  [finesse](rules/traits/finesse.md)  [reach](rules/traits/reach.md)  [sweep](rules/traits/sweep.md)  [versatile <B>](rules/traits/versatile.md)  
+[backswing](rules/traits/backswing.md "Backswing Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [reach](rules/traits/reach.md "Reach Weapon Trait")  [sweep](rules/traits/sweep.md "Sweep Weapon Trait")  [versatile <B>](rules/traits/versatile-b.md "Versatile Weapon Trait")  
 
 - **Price** 3 gp
 - **Bulk** 1

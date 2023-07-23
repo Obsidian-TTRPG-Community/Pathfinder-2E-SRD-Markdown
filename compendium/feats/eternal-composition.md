@@ -7,7 +7,7 @@ tags:
 aliases: ["Eternal Composition"]
 ---
 # Eternal Composition  *Feat 18*  
-[bard](rules/traits/bard.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  
 
 - **Prerequisites**: Maestro muse
 

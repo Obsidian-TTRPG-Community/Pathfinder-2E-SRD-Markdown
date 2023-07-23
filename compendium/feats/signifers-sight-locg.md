@@ -7,7 +7,7 @@ tags:
 aliases: ["Signifer's Sight"]
 ---
 # Signifer's Sight  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Hellknight Signifer Dedication](compendium/feats/hellknight-signifer-dedication-locg.md)
 

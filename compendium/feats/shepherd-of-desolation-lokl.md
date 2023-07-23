@@ -8,7 +8,7 @@ tags:
 aliases: ["Shepherd of Desolation"]
 ---
 # Shepherd of Desolation  *Feat 12*  
-[archetype](rules/traits/archetype.md)  [aura](rules/traits/aura.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [aura](rules/traits/aura.md "Aura Combat Trait")  
 
 - **Prerequisites**: [Knight Reclaimant Dedication](compendium/feats/knight-reclaimant-dedication-locg.md), [Survivor of Desolation](compendium/feats/survivor-of-desolation-locg.md)
 

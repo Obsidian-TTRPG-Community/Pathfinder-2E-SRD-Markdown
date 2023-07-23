@@ -9,7 +9,7 @@ tags:
 aliases: ["Desiccating Inhalation"]
 ---
 # Desiccating Inhalation  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 12*  
-[archetype](rules/traits/archetype.md)  [divine](rules/traits/divine.md)  [evocation](rules/traits/evocation.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
 - **Prerequisites**: [Mummy Dedication](compendium/feats/mummy-dedication-botd.md)
 - **Frequency**: once per hour

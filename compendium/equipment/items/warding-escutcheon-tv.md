@@ -9,7 +9,7 @@ tags:
 aliases: ["Warding Escutcheon"]
 ---
 # Warding Escutcheon *Item 9+*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Usage** held in 1 hand; **Bulk** 4
 - **Category** Held

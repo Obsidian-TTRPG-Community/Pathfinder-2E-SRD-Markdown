@@ -11,9 +11,9 @@ tags:
 aliases: ["Ash Cloud"]
 ---
 # Ash Cloud *Spell 2*   
-[air](rules/traits/air.md)  [conjuration](rules/traits/conjuration.md)  [fire](rules/traits/fire.md)  
+[air](rules/traits/air.md "Air Energy & Element Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**120 foot
 - **Area**20-foot burst

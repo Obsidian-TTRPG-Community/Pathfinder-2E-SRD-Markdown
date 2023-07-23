@@ -9,7 +9,7 @@ tags:
 aliases: ["Bizarre Transformation"]
 ---
 # Bizarre Transformation  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 14*  
-[druid](rules/traits/druid.md)  [manipulate](rules/traits/manipulate.md)  [metamagic](rules/traits/metamagic.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 - **Prerequisites**: Wild Shape
 - **Activity** Single Action

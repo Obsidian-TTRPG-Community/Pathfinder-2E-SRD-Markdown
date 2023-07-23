@@ -8,7 +8,7 @@ tags:
 aliases: ["Deflecting Cloud"]
 ---
 # Deflecting Cloud  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 16*  
-[archetype](rules/traits/archetype.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Dragon Disciple Dedication](compendium/feats/dragon-disciple-dedication-apg.md), [dragon wings](compendium/spells/dragon-wings.md) sorcerer bloodline spell
 - **Frequency**: once every 10 minutes

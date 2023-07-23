@@ -10,7 +10,7 @@ tags:
 aliases: ["Teleportation Circle"]
 ---
 # Teleportation Circle *Ritual 7*  
-[conjuration](rules/traits/conjuration.md)  [teleportation](rules/traits/teleportation.md)  [uncommon](rules/traits/uncommon.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** 1 day
 - **Cost** rare incense, precious metals, and purified chalk worth 500 gp

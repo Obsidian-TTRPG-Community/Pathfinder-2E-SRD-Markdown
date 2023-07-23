@@ -10,7 +10,7 @@ tags:
 aliases: ["Ravenous Reanimation"]
 ---
 # Ravenous Reanimation *Ritual 7*  
-[evil](rules/traits/evil.md)  [necromancy](rules/traits/necromancy.md)  [rare](rules/traits/rare.md)  
+[evil](rules/traits/evil.md "Evil Alignment Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Cast** 1 day
 - **Cost** valuable treasures from the target dragon's hoard worth a total value of 50,000 gp

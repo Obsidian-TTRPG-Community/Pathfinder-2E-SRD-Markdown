@@ -11,7 +11,7 @@ tags:
 aliases: ["Thunderous Strike"]
 ---
 # Thunderous Strike *Focus 1*   
-[evocation](rules/traits/evocation.md)  [magus](rules/traits/magus-som.md)  [sonic](rules/traits/sonic.md)  [uncommon](rules/traits/uncommon.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [magus](rules/traits/magus-som.md "Magus Class Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Requirements**You're wielding a melee weapon in two hands.

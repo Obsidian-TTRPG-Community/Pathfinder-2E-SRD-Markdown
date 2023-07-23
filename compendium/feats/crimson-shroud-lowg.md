@@ -10,7 +10,7 @@ tags:
 aliases: ["Crimson Shroud"]
 ---
 # Crimson Shroud  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  [healing](rules/traits/healing.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 - **Prerequisites**: [Red Mantis Assassin Dedication](compendium/feats/red-mantis-assassin-dedication-lowg.md)
 - **Frequency**: A number of times per day equal to your number of class feats from the [Red Mantis assassin](compendium/character/archetypes/red-mantis-assassin-aoe3.md) archetype

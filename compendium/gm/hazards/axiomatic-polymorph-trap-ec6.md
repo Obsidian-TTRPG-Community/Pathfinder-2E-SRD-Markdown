@@ -8,7 +8,7 @@ tags:
 aliases: ["Axiomatic Polymorph Trap"]
 ---
 # Axiomatic Polymorph Trap *Hazard 20*  
-[magical](rules/traits/magical.md)  [trap](rules/traits/trap.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 47 master  
@@ -19,7 +19,7 @@ A Utopian glyph transforms trespassers into aeons.
      
 ```ad-embed-ability
 title: Axiomatic Polymorph [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[divine](rules/traits/divine.md)  [transmutation](rules/traits/transmutation.md)  
+[divine](rules/traits/divine.md "Divine Tradition Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Trigger**: A creature moves within 10 feet of the entryway to the Hall of Wonders (area **N4**) without speaking the passphrase ("The History and Future of Humanity") in Utopian.
 

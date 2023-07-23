@@ -10,7 +10,7 @@ tags:
 aliases: ["Point Out"]
 ---
 # Point Out (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[auditory](rules/traits/auditory.md)  [manipulate](rules/traits/manipulate.md)  [visual](rules/traits/visual.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 *Source: Core Rulebook p. 472*  
 
 

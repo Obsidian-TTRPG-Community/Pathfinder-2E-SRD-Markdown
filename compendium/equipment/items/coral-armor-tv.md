@@ -8,7 +8,7 @@ tags:
 aliases: ["Coral Armor"]
 ---
 # Coral Armor *Item 0*  
-[aquadynamic](rules/traits/aquadynamic-tv.md)  
+[aquadynamic](rules/traits/aquadynamic-tv.md "Aquadynamic Armor Trait")  
 
 - **Price** 5 gp
 - **Bulk** 2

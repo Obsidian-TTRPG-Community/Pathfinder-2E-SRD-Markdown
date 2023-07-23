@@ -7,7 +7,7 @@ tags:
 aliases: ["Magic Hide"]
 ---
 # Magic Hide  *Feat 2*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: an animal companion, warden spells
 

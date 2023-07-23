@@ -7,7 +7,7 @@ tags:
 aliases: ["Toppling Tentacles"]
 ---
 # Toppling Tentacles  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [black tentacles](compendium/spells/black-tentacles.md)
 

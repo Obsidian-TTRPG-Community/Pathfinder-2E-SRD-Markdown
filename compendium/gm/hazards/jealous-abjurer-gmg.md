@@ -7,7 +7,7 @@ tags:
 aliases: ["Jealous Abjurer"]
 ---
 # Jealous Abjurer *Hazard 11*  
-[haunt](rules/traits/haunt.md)  
+[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 33 master  
@@ -18,7 +18,7 @@ A robe-clad spirit rises out of the floor, pointing an accusing finger.
      
 ```ad-embed-ability
 title: Rend Magic [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[abjuration](rules/traits/abjuration.md)  [arcane](rules/traits/arcane.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [arcane](rules/traits/arcane.md "Arcane Tradition Trait")  
 
 - **Trigger**: A creature that is currently affected by a beneficial spell approaches within 30 feet of the abjurer
 

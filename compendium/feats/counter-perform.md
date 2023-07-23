@@ -7,7 +7,7 @@ tags:
 aliases: ["Counter Perform"]
 ---
 # Counter Perform  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Bard Dedication](compendium/feats/bard-dedication.md)
 

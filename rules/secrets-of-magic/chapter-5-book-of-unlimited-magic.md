@@ -50,7 +50,7 @@ This chapter provides you with a wide variety of unusual magical practices and c
 ## Cathartic Magic
 <sup>SoM p. 194</sup>
 
-**Rarity:** [Uncommon](rules/traits/uncommon.md)
+**Rarity:** [Uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")
 
 Catharsis, the process of purging pent-up emotions, places a cathartic mage in a heightened emotional state much like a barbarian's rage. Magical energy pours out, often manifesting in visible displays that cascade off the mage. This can even produce a faint echo of the released emotion within those nearby. Though it seems reasonable that the caster's pent-up emotion would be one that they normally repress, this is by no means required. A cathartic mage could be a generally happy and positive person who still enters an enhanced state as a magical wave of joy overwhelms them.
 
@@ -189,7 +189,7 @@ Your unbridled enthusiasm and positive attitude can lead you to success, but you
 
 **Catharsis Activation** Reduce the value of any [frightened](rules/conditions.md#Frightened) or [stupefied](rules/conditions.md#Stupefied) condition you have by 1 and end any [persistent mental damage](rules/conditions.md#Persistent%20Damage) you have.
 
-**Emotional Fervor** You gain a +1 status bonus to [Performance](compendium/skills.md#Performance) checks and to the spell attack rolls of [emotion](rules/traits/emotion.md) spells, and enemies take a –1 status penalty to saves against your [emotion](rules/traits/emotion.md) spells. Spell: [hideous laughter](compendium/spells/hideous-laughter.md)
+**Emotional Fervor** You gain a +1 status bonus to [Performance](compendium/skills.md#Performance) checks and to the spell attack rolls of [emotion](rules/traits/emotion.md "Emotion Effect Trait") spells, and enemies take a –1 status penalty to saves against your [emotion](rules/traits/emotion.md "Emotion Effect Trait") spells. Spell: [hideous laughter](compendium/spells/hideous-laughter.md)
 
 **Emotional Fallout** You become [fatigued](rules/conditions.md#Fatigued) until you Settle your Emotions.
 
@@ -263,7 +263,7 @@ You attempt to overcome your failings, but your guilt stays with you.
 
 Elementalists eschew traditional magical divisions in favor of the elemental quaternity and rarely attempt a formal education. Instead, they travel Golarion, learning from the environment and elemental masters. These sojourns are referred to as pilgrimages, and the lessons learned along the way are called exposures or forms.
 
-Druids are among the most well-known elemental masters, capable of harnessing the power of nature that exists below a mountain or flows through an ocean. Although some act as wardens to the world as a whole, most specialize into one of three orders that revere individual elements. Within these orders, as well as the storm order that focuses on [air](rules/traits/air.md), a sizable contingent of druids devote themselves fully to elemental magic, choosing the [elementalist](compendium/character/archetypes/elementalist-som.md) class archetype. However, just as many druids in these orders access magic from the primal spell list normally, believing that they can still take a wider view of nature through the lens of their element.
+Druids are among the most well-known elemental masters, capable of harnessing the power of nature that exists below a mountain or flows through an ocean. Although some act as wardens to the world as a whole, most specialize into one of three orders that revere individual elements. Within these orders, as well as the storm order that focuses on [air](rules/traits/air.md "Air Energy & Element Trait"), a sizable contingent of druids devote themselves fully to elemental magic, choosing the [elementalist](compendium/character/archetypes/elementalist-som.md) class archetype. However, just as many druids in these orders access magic from the primal spell list normally, believing that they can still take a wider view of nature through the lens of their element.
 
 Elementalist druids are more common in regions with strong traditions involving the cycle of elements, such as Jalmeray.
 
@@ -361,7 +361,7 @@ If you're a sorcerer with the elemental bloodline, you can replace your [initial
 
 **Druid Elementalist Adjustments:** If you're a druid of the storm order, you can choose to replace your starting order spell, [tempest surge](compendium/spells/tempest-surge.md), with [updraft](compendium/spells/updraft-som.md).
 
-**Wizard Elementalist Adjustments:** If you're a wizard with an arcane school, instead of specializing in a school of magic, you specialize in one of the four elements: air, earth, fire, or water. Any benefits your arcane school would grant you that are associated with a selected spell school, you instead apply to your selected element. For example, if you select air as your element, you can prepare only spells that have the [air](rules/traits/air.md) trait in your extra arcane school slots, you can prepare an extra air cantrip, and you add an extra air spell from the elemental spell list to your spellbook. Additionally, in place of your arcane school spell, you learn the initial elemental focus spell of your selected element. In all other ways, your arcane school|Wizard||1 functions as written in the Core Rulebook. If you later select the [Advanced School Spell](compendium/feats/advanced-school-spell.md) wizard feat, instead of gaining the listed school spell, you gain the advanced elemental focus spell of your selected element.
+**Wizard Elementalist Adjustments:** If you're a wizard with an arcane school, instead of specializing in a school of magic, you specialize in one of the four elements: air, earth, fire, or water. Any benefits your arcane school would grant you that are associated with a selected spell school, you instead apply to your selected element. For example, if you select air as your element, you can prepare only spells that have the [air](rules/traits/air.md "Air Energy & Element Trait") trait in your extra arcane school slots, you can prepare an extra air cantrip, and you add an extra air spell from the elemental spell list to your spellbook. Additionally, in place of your arcane school spell, you learn the initial elemental focus spell of your selected element. In all other ways, your arcane school|Wizard||1 functions as written in the Core Rulebook. If you later select the [Advanced School Spell](compendium/feats/advanced-school-spell.md) wizard feat, instead of gaining the listed school spell, you gain the advanced elemental focus spell of your selected element.
 
 **Additional Feats:** **4th** [Familiar](compendium/feats/familiar-sorcerer.md), **6th** [Enhanced Familiar](compendium/feats/enhanced-familiar-sorcerer.md), **8th** [Current Spell](compendium/feats/current-spell-apg.md), [Water Step](compendium/feats/water-step.md).
 
@@ -553,16 +553,16 @@ The following represent a number of different types of ley lines, each of which 
 
 ```ad-pf2-note
 title: Basic Ley Line * 2*
-[evocation](rules/traits/evocation.md)  [rare](rules/traits/rare.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
-Most ley lines are simply naturally occurring conduits of pure magical energy. Tapping into a basic ley line allows spellcasters to modify their spells. This ley line has the [arcane](rules/traits/arcane.md), [divine](rules/traits/divine.md), [occult](rules/traits/occult.md), or [primal](rules/traits/primal.md) trait as appropriate.
+Most ley lines are simply naturally occurring conduits of pure magical energy. Tapping into a basic ley line allows spellcasters to modify their spells. This ley line has the [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), or [primal](rules/traits/primal.md "Primal Tradition Trait") trait as appropriate.
 
 > [!success-degree] 
 ```
 
 ```ad-pf2-note
 title: Energy Ley Line * 4*
-[evocation](rules/traits/evocation.md)  [primal](rules/traits/primal.md)  [rare](rules/traits/rare.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 Energy ley lines are attuned to a specific type of energy and enhance that energy's power. They might form where the power from an Inner Plane with immense energy (such as an Elemental Plane, the Positive Energy Plane, or the Negative Energy Plane) seeps across a planar boundary. An energy ley line can be attuned to acid, cold, electricity, fire, force, positive, negative, or sonic energy and gains the respective trait for that energy. Higher-level energy ley lines can deal greater persistent damage on the benefit and greater damage on the backlash, usually `1d8` per 4 levels.
 
@@ -571,7 +571,7 @@ Energy ley lines are attuned to a specific type of energy and enhance that energ
 
 ```ad-pf2-note
 title: Focused Ley Line * 10*
-[arcane](rules/traits/arcane.md)  [divine](rules/traits/divine.md)  [evocation](rules/traits/evocation.md)  [occult](rules/traits/occult.md)  [primal](rules/traits/primal.md)  [rare](rules/traits/rare.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 Focused ley lines are concentrated points of magical energy which are even more potent than other ley lines. These ley lines allow users to realign their magical connections almost immediately. Higher-level focused ley lines allow users to gain their benefits more times in a single day.
 
@@ -580,7 +580,7 @@ Focused ley lines are concentrated points of magical energy which are even more 
 
 ```ad-pf2-note
 title: Haunted Ley Line * 12*
-[divine](rules/traits/divine.md)  [necromancy](rules/traits/necromancy.md)  [occult](rules/traits/occult.md)  [rare](rules/traits/rare.md)  
+[divine](rules/traits/divine.md "Divine Tradition Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 Some ley lines form at sites of significant death. This results in haunted ley lines, which allow those who tap into them to blur the line between life and death. More powerful haunted ley lines grant the benefits of a higher-level [blink](compendium/spells/blink.md) spell.
 
@@ -589,7 +589,7 @@ Some ley lines form at sites of significant death. This results in haunted ley l
 
 ```ad-pf2-note
 title: Specialized Ley Line * 14*
-[arcane](rules/traits/arcane.md)  [rare](rules/traits/rare.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 Specialized ley lines empower specific types of magic. They most commonly come about where a practitioner of a particular type of magic has utilized their magical arts repeatedly, such as at locations of magical academies. Each specialized ley line is attuned to a specific school of magic and gains that school's trait. More powerful ones can heighten a spell multiple levels at once.
 
@@ -605,7 +605,7 @@ Those who build a stronghold on a ley line might use rituals to increase their a
 title: Empower Ley Line
 collapse: closed
 # Empower Ley Line *Ritual 7*  
-[evocation](rules/traits/evocation.md)  [rare](rules/traits/rare.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Cast** 1 day
 - **Cost** magical foci worth a total value of 50 gp × the spell level × the target's level
@@ -615,7 +615,7 @@ collapse: closed
 - **Range**10 feet
 - **Targets**1 ley line or ley line node up to double this ritual's level
 
-You draw upon surrounding magical energy to empower a ley line, enhancing both its [positive](rules/traits/positive.md) and [negative](rules/traits/negative.md) effects.
+You draw upon surrounding magical energy to empower a ley line, enhancing both its [positive](rules/traits/positive.md "Positive Energy & Element Trait") and [negative](rules/traits/negative.md "Negative Energy & Element Trait") effects.
 
 The duration of an empowered ley line's benefits increases: when you successfully Tap a Ley Line that's empowered, you gain its benefits until the end of your next turn on a success (1 minute on a critical success)
 
@@ -634,7 +634,7 @@ You take double the damage if you fail to Tap a Ley Line that's empowered and do
 title: Establish Nexus
 collapse: closed
 # Establish Nexus *Ritual 5*  
-[consecration](rules/traits/consecration.md)  [rare](rules/traits/rare.md)  [transmutation](rules/traits/transmutation.md)  
+[consecration](rules/traits/consecration.md "Consecration Effect Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Cast** 1 day
 - **Cost** magical foci worth 100 gp × the spell level × the node's level
@@ -660,7 +660,7 @@ The ley line nexus grows out from the node in a 20-foot radius. The ley line nex
 ## Pervasive Magic
 <sup>SoM p. 218</sup>
 
-**Rarity:** [Rare](rules/traits/rare.md)
+**Rarity:** [Rare](rules/traits/rare.md "Rare Rarity Trait")
 
 GMs can use the pervasive magic rules found here to create worlds where magic flows freely (or to alter only parts of a setting to be especially high in magic; see page 222 for ideas on how to incorporate pervasive magic rules into the Lost Omens setting).
 
@@ -675,11 +675,11 @@ Every creature in a pervasive magic campaign, including PCs, has a trait associa
 
 Creatures (including PCs) gain the following:
 
-- A trait associated with one of the magic traditions: [arcane](rules/traits/arcane.md), [divine](rules/traits/divine.md), [occult](rules/traits/occult.md), or [primal](rules/traits/primal.md).
+- A trait associated with one of the magic traditions: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), or [primal](rules/traits/primal.md "Primal Tradition Trait").
 - The ability to cast a cantrip (PCs choose one upon character creation) from the tradition associated with that trait.
 - The [Cast a Spell](rules/actions/cast-a-spell.md) activity.
 - Proficiency rank in spell DCs and spell attack rolls with the chosen tradition equal to their class DC or their highest proficiency rank in spell DCs, whichever is higher. They can choose any mental ability score (Intelligence, Wisdom, or Charisma) to be associated with their innate spells granted by pervasive magic.
-- Access to backgrounds and feats with the [pervasive magic](rules/traits/pervasive-magic-som.md) trait (see below).
+- Access to backgrounds and feats with the [pervasive magic](rules/traits/pervasive-magic-som.md "Pervasive Magic General Trait") trait (see below).
 
 ### Magical Backgrounds
 <sup>SoM p. 218</sup>
@@ -708,7 +708,7 @@ In a world of pervasive magic, creatures gain at least one trait associated with
 #### Arcane Adjustments
 <sup>SoM p. 218</sup>
 
-The creature gains the [arcane](rules/traits/arcane.md) trait and can cast a single innate spell from the arcane spell list once per day. Use the creature's level (see the table below) to determine the spell's level. Use the spell DC and spell attack roll on the table if the creature does not already have those statistics.
+The creature gains the [arcane](rules/traits/arcane.md "Arcane Tradition Trait") trait and can cast a single innate spell from the arcane spell list once per day. Use the creature's level (see the table below) to determine the spell's level. Use the spell DC and spell attack roll on the table if the creature does not already have those statistics.
 
 | Creature Level | Spell Level (Statistics) | Suggested Spells |
 |----------------|--------------------------|------------------|
@@ -727,7 +727,7 @@ The creature gains the [arcane](rules/traits/arcane.md) trait and can cast a sin
 #### Divine Adjustments
 <sup>SoM p. 218</sup>
 
-The creature gains the [divine](rules/traits/divine.md) trait and can cast a single innate spell from the divine spell list once per day. Use the creature's level (see the table below) to determine the spell's level. Use the spell DC and spell attack roll on the table if the creature does not already have those statistics.
+The creature gains the [divine](rules/traits/divine.md "Divine Tradition Trait") trait and can cast a single innate spell from the divine spell list once per day. Use the creature's level (see the table below) to determine the spell's level. Use the spell DC and spell attack roll on the table if the creature does not already have those statistics.
 
 | Creature Level | Spell Level (Statistics) | Suggested Spells |
 |----------------|--------------------------|------------------|
@@ -746,7 +746,7 @@ The creature gains the [divine](rules/traits/divine.md) trait and can cast a sin
 #### Occult Adjustments
 <sup>SoM p. 218</sup>
 
-The creature gains the [occult](rules/traits/occult.md) trait and can cast a single innate spell from the occult spell list once per day. Use the creature's level (see the table below) to determine the spell's level. Use the spell DC and spell attack roll on the table if the creature does not already have those statistics.
+The creature gains the [occult](rules/traits/occult.md "Occult Tradition Trait") trait and can cast a single innate spell from the occult spell list once per day. Use the creature's level (see the table below) to determine the spell's level. Use the spell DC and spell attack roll on the table if the creature does not already have those statistics.
 
 | Creature Level | Spell Level (Statistics) | Suggested Spells |
 |----------------|--------------------------|------------------|
@@ -765,7 +765,7 @@ The creature gains the [occult](rules/traits/occult.md) trait and can cast a sin
 #### Primal Adjustments
 <sup>SoM p. 218</sup>
 
-The creature gains the [primal](rules/traits/primal.md) trait and can cast a single innate spell from the primal spell list once per day. Use the creature's level (see the table below) to determine the spell's level. Use the spell DC and spell attack roll on the table if the creature does not already have those statistics.
+The creature gains the [primal](rules/traits/primal.md "Primal Tradition Trait") trait and can cast a single innate spell from the primal spell list once per day. Use the creature's level (see the table below) to determine the spell's level. Use the spell DC and spell attack roll on the table if the creature does not already have those statistics.
 
 | Creature Level | Spell Level (Statistics) | Suggested Spells |
 |----------------|--------------------------|------------------|
@@ -801,7 +801,7 @@ This type of terrain heightens spells cast within it. An area of heightened terr
 #### Metamagic Terrain
 <sup>SoM p. 218</sup>
 
-Any eligible spell cast in this terrain has a particular metamagic effect added to it—typically [Reach Spell](compendium/feats/reach-spell-druid.md) or [Widen Spell](compendium/feats/widen-spell-druid.md). If the caster uses a [metamagic](rules/traits/metamagic.md) action before casting a spell, that action overrides the terrain's metamagic effect. These areas usually appear fairly normal, but fountains of magical energy spring up around a caster when they begin [Casting a Spell](rules/actions/cast-a-spell.md).
+Any eligible spell cast in this terrain has a particular metamagic effect added to it—typically [Reach Spell](compendium/feats/reach-spell-druid.md) or [Widen Spell](compendium/feats/widen-spell-druid.md). If the caster uses a [metamagic](rules/traits/metamagic.md "Metamagic General Trait") action before casting a spell, that action overrides the terrain's metamagic effect. These areas usually appear fairly normal, but fountains of magical energy spring up around a caster when they begin [Casting a Spell](rules/actions/cast-a-spell.md).
 
 #### Occult Magic Terrain
 <sup>SoM p. 218</sup>
@@ -849,7 +849,7 @@ There are many places on Golarion that could fit thematically in campaigns inclu
 #### Absalom and Starstone Isle
 <sup>SoM p. 218</sup>
 
-Traces of the dead god Aroden's divine power might create areas of pervasive magic. Creatures of any type might gain the [divine](rules/traits/divine.md) trait.
+Traces of the dead god Aroden's divine power might create areas of pervasive magic. Creatures of any type might gain the [divine](rules/traits/divine.md "Divine Tradition Trait") trait.
 
 **Starstone Cathedral:** The magic of the Starstone could make this divine spell-touched terrain.
 
@@ -858,7 +858,7 @@ Traces of the dead god Aroden's divine power might create areas of pervasive mag
 #### Broken Lands
 <sup>SoM p. 218</sup>
 
-The Broken Lands are marked by areas where primal magic flourishes. Wild creatures from these regions might show [primal](rules/traits/primal.md) traits.
+The Broken Lands are marked by areas where primal magic flourishes. Wild creatures from these regions might show [primal](rules/traits/primal.md "Primal Tradition Trait") traits.
 
 **River Kingdoms:** The River Kingdoms, like other places with powerful First World connections, might feature areas of magical terrain with primal surges or areas where primal spells are heightened.
 
@@ -869,7 +869,7 @@ The Broken Lands are marked by areas where primal magic flourishes. Wild creatur
 
 The Eye of Dread region has seen multiple events of immense magical power, and pockets of pervasive magic could riddle the entire region.
 
-**Gallowspire:** The broken fortress of Tar-Baphon still teems with power. It might heighten necromantic magic and imbue undead inhabitants with the [arcane](rules/traits/arcane.md) trait.
+**Gallowspire:** The broken fortress of Tar-Baphon still teems with power. It might heighten necromantic magic and imbue undead inhabitants with the [arcane](rules/traits/arcane.md "Arcane Tradition Trait") trait.
 
 **Nirmathas:** Nirmathas has strong First World connections through the Fangwood forest and could be filled with primal magic near portals to the First World.
 
@@ -878,7 +878,7 @@ The Eye of Dread region has seen multiple events of immense magical power, and p
 
 Mostly due to the influence of Ancient Osirion, divine spell-touched terrain might appear in the region.
 
-**Black Desert:** The power of unlife flourishes in this Vault deep in the Darklands. All necromancy spells could be heightened, and undead creatures from this area might gain the [divine](rules/traits/divine.md) trait.
+**Black Desert:** The power of unlife flourishes in this Vault deep in the Darklands. All necromancy spells could be heightened, and undead creatures from this area might gain the [divine](rules/traits/divine.md "Divine Tradition Trait") trait.
 
 #### High Seas
 <sup>SoM p. 218</sup>
@@ -887,7 +887,7 @@ Even the waters of the High Seas could hold locations where magic is pervasive.
 
 **Azlanti Ruins:** The various ruins of Azlant might contain several variations of pervasive magic effects, most likely enhancing or affecting arcane magic.
 
-**Eye of Abendego:** The unceasing storm might heighten and enhance air- or wind-affecting magic. Creatures in the area might gain the [primal](rules/traits/primal.md) magic trait.
+**Eye of Abendego:** The unceasing storm might heighten and enhance air- or wind-affecting magic. Creatures in the area might gain the [primal](rules/traits/primal.md "Primal Tradition Trait") magic trait.
 
 #### Impossible Lands
 <sup>SoM p. 218</sup>
@@ -898,16 +898,16 @@ The Impossible Lands is the most magic-infused region in the Inner Sea. Many typ
 
 **Jalmeray:** The island nation might have energy surge terrain or other such areas that heighten elemental magic.
 
-**Nex:** Several prominent locations within the magical kingdom might heighten [arcane](rules/traits/arcane.md) magic.
+**Nex:** Several prominent locations within the magical kingdom might heighten [arcane](rules/traits/arcane.md "Arcane Tradition Trait") magic.
 
 #### Mwangi Expanse
 <sup>SoM p. 218</sup>
 
 The Mwangi Expanse is a verdant region, and it could have pockets of primal magic terrain secreted throughout its wild lands.
 
-**Mzali:** The temple-city of Mzali was once the center of an empire ruled by divine sun kings. A few creatures in this area might have the [divine](rules/traits/divine.md) trait, and divine magic could be heightened in parts of the city proper.
+**Mzali:** The temple-city of Mzali was once the center of an empire ruled by divine sun kings. A few creatures in this area might have the [divine](rules/traits/divine.md "Divine Tradition Trait") trait, and divine magic could be heightened in parts of the city proper.
 
-**Ruins of Kho:** These ruins of the first Shory flying city, smashed to the earth by the Tarrasque, still sputter with magical energies. Creatures from areas near the fallen city might gain the [arcane](rules/traits/arcane.md) trait, and [arcane](rules/traits/arcane.md) magic could be heightened in the area. Specific spots among the ruins might feature various types of energy surge terrain.
+**Ruins of Kho:** These ruins of the first Shory flying city, smashed to the earth by the Tarrasque, still sputter with magical energies. Creatures from areas near the fallen city might gain the [arcane](rules/traits/arcane.md "Arcane Tradition Trait") trait, and [arcane](rules/traits/arcane.md "Arcane Tradition Trait") magic could be heightened in the area. Specific spots among the ruins might feature various types of energy surge terrain.
 
 #### Old Cheliax
 <sup>SoM p. 218</sup>
@@ -923,7 +923,7 @@ Cheliax's connection to Hell and Nidal's ties to Zon-Kuthon might manifest as ar
 
 The Saga Lands are potential places for pervasive magic that enhances primal spells. Additionally, Thassilonian ruins might enhance magic associated with a particular school of magic (excluding divination).
 
-**Lands of the Linnorm Kings:** Places with potent First World connections might qualify as [primal](rules/traits/primal.md) magic terrain.
+**Lands of the Linnorm Kings:** Places with potent First World connections might qualify as [primal](rules/traits/primal.md "Primal Tradition Trait") magic terrain.
 
 #### Shining Kingdoms
 <sup>SoM p. 218</sup>
@@ -935,7 +935,7 @@ Many small areas of the Shining Kingdoms contain portals to the First World, and
 ## Shadow Magic
 <sup>SoM p. 224</sup>
 
-**Rarity:** [Uncommon](rules/traits/uncommon.md)
+**Rarity:** [Uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")
 
 This section has options for both spellcasters who use shadow magic and for companions that dwell in the dark.
 
@@ -969,7 +969,7 @@ Spellcasters aren't the sole purveyors of shadow magic. Some adventurers are gui
 #### Shade Specialization
 <sup>SoM p. 228</sup>
 
-The shade specialization is an alternative to the specialization benefits included on page 217 of the Core Rulebook, such as ambusher or tracker, that draws an animal companion closer to shadow. This specialization is [uncommon](rules/traits/uncommon.md), though you gain access to it if you're a shadowcaster.
+The shade specialization is an alternative to the specialization benefits included on page 217 of the Core Rulebook, such as ambusher or tracker, that draws an animal companion closer to shadow. This specialization is [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait"), though you gain access to it if you're a shadowcaster.
 
 ##### Shade
 <sup>SoM p. 228</sup>
@@ -1005,18 +1005,18 @@ Shadow familiars use these additional familiar abilities. A shadowcaster, howeve
 
 ```ad-embed-ability
 title: Shadow Step [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[conjuration](rules/traits/conjuration.md)  [shadow](rules/traits/shadow.md)  [teleportation](rules/traits/teleportation.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [shadow](rules/traits/shadow.md "Shadow General Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  
 
 - **Requirements**: The familiar is in dim light or darkness.
 
-**Effect** The familiar teleports itself up to 30 feet. The destination must be in dim light or darkness and must be within your familiar's line of sight and line of effect. This action has the trait matching your tradition of magic, or [occult](rules/traits/occult.md) if you aren't a spellcaster.  
+**Effect** The familiar teleports itself up to 30 feet. The destination must be in dim light or darkness and must be within your familiar's line of sight and line of effect. This action has the trait matching your tradition of magic, or [occult](rules/traits/occult.md "Occult Tradition Trait") if you aren't a spellcaster.  
 %% #trait/conjuration #trait/shadow #trait/teleportation %%
 ```
 
 ## Soul Seeds
 <sup>SoM p. 230</sup>
 
-**Rarity:** [Rare](rules/traits/rare.md)
+**Rarity:** [Rare](rules/traits/rare.md "Rare Rarity Trait")
 
 Soul seeds are a special type of intangible 3, though because they bind to the soul of the creature that carries them, they can't be removed from the creature they're bonded with except on that creature's death (at which point the soul seed might manifest nearby or might be lost along with the bearer). Since soul seeds aren't physical objects, they never have [Interact](rules/actions/interact.md) activations.
 
@@ -1040,7 +1040,7 @@ The GM should follow the same 3 for granting soul seeds as for relics. They can 
 ## Soulforged Armaments
 <sup>SoM p. 232</sup>
 
-**Rarity:** [Uncommon](rules/traits/uncommon.md)
+**Rarity:** [Uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")
 
 Soulforged armaments can be summoned only in the service of a higher purpose or calling, such as a blade called forth to avenge a wrongful death or a shield conjured to protect one's homeland from invasion. Weaponry, shields, or armor created in this way often visually resemble the purpose they were summoned to fulfill. For example, a dagger forged from a soulbond to assassinate the high council of a tyrannical nation might bear the names or likenesses of the targets—only to see them crossed out or fade from view as each is eliminated.
 
@@ -1133,7 +1133,7 @@ Your devotion to a cause unifies your soul with an armament tethered to the very
 ## Thassilonian Rune Magic
 <sup>SoM p. 238</sup>
 
-**Rarity:** [Rare](rules/traits/rare.md)
+**Rarity:** [Rare](rules/traits/rare.md "Rare Rarity Trait")
 
 Xin and the rest of the runelords focused their studies on the discernible fragments of magic's raw nature, expanding upon the use and understanding of runes from the Azlanti tradition to raise rune magic as paramount to their new empire. Xin began with relatively high-minded intentions. He focused his research on seven powerful runes that he believed represented entire schools of magic, and on associated mental schemas and mindsets that would allow a wizard to truly master those schools. Xin taught these seven mindsets as virtues corresponding to each of the seven schools of Thassilonian magic, such as confidence rooted in humility, and passion steeped in love. Later, he offered a list of seven rewards for the appropriate usage of magic from each school.
 
@@ -1215,7 +1215,7 @@ You also learn to use polearms, the signature weapons of the runelords, and can 
 ## True Names
 <sup>SoM p. 244</sup>
 
-**Rarity:** [Rare](rules/traits/rare.md)
+**Rarity:** [Rare](rules/traits/rare.md "Rare Rarity Trait")
 
 The older and more complicated a thing is, the more likely it has more than one name. A single person acquires many names: names they inherit, names they're given at birth, names they choose, and nicknames bequeathed by others. The magic of true names, however, postulates there's a final, secret name—a true name known to no one, or to only a few—that best represents us in all our complexity.
 
@@ -1259,7 +1259,7 @@ Sometimes the GM doesn't have time to create a library or use the research subsy
 title: Learn Name
 collapse: closed
 # Learn Name
-[downtime](rules/traits/downtime.md)  [rare](rules/traits/rare.md)  [secret](rules/traits/secret.md)  
+[downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [secret](rules/traits/secret.md "Secret General Trait")  
 *Source: Secrets of Magic p. 245*  
 
 
@@ -1311,7 +1311,7 @@ Namers have hidden their special techniques, spells, and items for millennia.
 ## Wellspring Magic
 <sup>SoM p. 248</sup>
 
-**Rarity:** [Rare](rules/traits/rare.md)
+**Rarity:** [Rare](rules/traits/rare.md "Rare Rarity Trait")
 
 Your wellspring, by definition, lies outside your full control. The inherent contradiction is that you have greater potential for power, but you can't use it exactly as you wish. Regardless of whether you see it as a boon or a curse, it demands of you a degree of surrender if you're to use your magic at all.
 
@@ -1357,23 +1357,23 @@ A wellspring surge always has the trait of your magical tradition, plus any trai
 
 | `d20` | Effect |
 |-------|--------|
-| 1 | **Energy Unleashed** ([evocation](rules/traits/evocation.md)) Raw energy deals 2d6 damage per spell level of the surge (basic Reflex save) in a 10-foot burst. |
-| 2 | **Positive Energy Expulsion** ([healing](rules/traits/healing.md), [necromancy](rules/traits/necromancy.md), [positive](rules/traits/positive.md)) Positive energy explodes outward, healing living creatures for 1d8 Hit Points per spell level of the surge in a 20-foot burst. Undead creatures instead take the same amount of positive damage, with a basic Will save. |
-| 3 | **Mass Siphon** ([transmutation](rules/traits/transmutation.md)) Creatures and objects within a 30-foot emanation become nearly weightless until the end of your next turn. Nearly weightless creatures can [Climb](rules/actions/climb.md) at their land Speed and can [Leap](rules/actions/leap.md) as far upward as they could normally [Leap](rules/actions/leap.md) horizontally. |
-| 4 | **Magical Nemesis** ([conjuration](rules/traits/conjuration.md), [teleportation](rules/traits/teleportation.md)) A random creature connected to your magic (or inimical to it) appears within 60 feet. The creature should be of a level approximately equal to the level of an animal summoned by [summon animal](compendium/spells/summon-animal.md) of the spell level, although it can be of any type. The GM determines the specific creature. The creature is [unfriendly](rules/conditions.md#Unfriendly) to you and friendly to your apparent enemies. After 1 minute, the creature can choose either to return where it came from or to remain. It is not [summoned](rules/traits/summoned.md) or a [minion](rules/traits/minion.md). |
-| 5 | **Monstrous Transformation** ([mental](rules/traits/mental.md), [morph](rules/traits/morph.md), [transmutation](rules/traits/transmutation.md)) Your head and arms transform into an exaggerated imitation of a creature connected to your magic for 1 minute. The GM determines the creature. You gain a status bonus to weapon and unarmed damage rolls equal to the spell level. At the start of each of your turns while you are transformed, you must succeed at a Will saving throw or be [confused](rules/conditions.md#Confused) until the start of your next turn. On a critical success, you can choose to end the effect entirely, also losing the status bonus. |
-| 6 | **Sudden Gale** ([air](rules/traits/air.md), [evocation](rules/traits/evocation.md)) Weather in a 40-foot emanation is disturbed. Strong winds blow in a random direction for 1 minute. Each creature that starts its turn in the area must succeed at a Fortitude save or fall [prone](rules/conditions.md#Prone) (and be pushed 10 feet on a critical failure), and you must succeed at this save immediately after the surge. Any movement against the wind is difficult terrain, or greater difficult terrain while flying. |
-| 7 | **Tremor** ([earth](rules/traits/earth.md), [evocation](rules/traits/evocation.md)) The earth trembles in a 40-foot emanation. Each creature on a surface must immediately succeed at a Fortitude save or fall [prone](rules/conditions.md#Prone). The surface then becomes difficult terrain for 1 minute. |
-| 8 | **Oppressive Voice** ([divination](rules/traits/divination.md), [mental](rules/traits/mental.md), [nonlethal](rules/traits/nonlethal.md)) The voice of your muse, your deity, an ancestor, or another appropriate entity suddenly overwhelms your mind. You must attempt a Will saving throw. You take 1d4 mental damage per spell level with a basic Will save. On a failure, you're also [stunned](rules/conditions.md#Stunned) ([stunned](rules/conditions.md#Stunned) on a critical failure). |
-| 9 | **Trinket Squall** ([illusion](rules/traits/illusion.md)) Visual illusions of objects related to your magic fall like rain throughout a 40-foot burst for 1 minute, giving concealment in the area. Creatures can attempt to 0. |
-| 10 | **Antimagic Eruption** ([abjuration](rules/traits/abjuration.md)) The surge attempts to counteract a random spell active on you and on each creature within a 10-foot burst. |
-| 11 | **Mental Broadcast** ([detection](rules/traits/detection.md), [divination](rules/traits/divination.md), [mental](rules/traits/mental.md)) For 1 minute, everyone within 30 feet of you can hear your surface thoughts. |
-| 12 | **Verdant Clutch** ([conjuration](rules/traits/conjuration.md), [plant](rules/traits/plant.md)) Plants and vines grow from all surfaces within 20 feet, causing all creatures in the area to be [immobilized](rules/conditions.md#Immobilized) unless they succeed at a Reflex save. The [Escape](rules/actions/escape.md) DC is equal to the spell DC. |
-| 13 | **Tinge of Terror** ([emotion](rules/traits/emotion.md), [enchantment](rules/traits/enchantment.md), [fear](rules/traits/fear.md), [mental](rules/traits/mental.md)) All creatures within 20 feet are affected by powerful fright. They attempt a Will save, becoming [frightened](rules/conditions.md#Frightened) on a failure or [frightened](rules/conditions.md#Frightened) on a critical failure. |
-| 14 | **Strike up the Band** ([auditory](rules/traits/auditory.md), [illusion](rules/traits/illusion.md)) For 1 minute, you are followed by orchestral theme music tied to the emotional content of the actions you're performing. This grants you a +2 status bonus to [Diplomacy](compendium/skills.md#Diplomacy), [Intimidation](compendium/skills.md#Intimidation), and [Performance](compendium/skills.md#Performance) checks, a –2 status penalty to [Deception](compendium/skills.md#Deception) checks, and makes certain uses of [Stealth](compendium/skills.md#Stealth) virtually impossible. It might have other effects as the GM sees fit. |
-| 15 | **Life Sap** ([necromancy](rules/traits/necromancy.md)) The surge drains your life force and strength. You become [drained](rules/conditions.md#Drained) and [doomed](rules/conditions.md#Doomed), and you are [enfeebled](rules/conditions.md#Enfeebled) for 1 minute. |
-| 16 | **Ablative Barrier** ([abjuration](rules/traits/abjuration.md)) Energy forms a protective barrier that ablates slowly as creatures in the area take damage. All creatures in a 40-foot burst gain resistance to all damage equal to double the surge's spell level for up to 1 minute. Whenever a creature applies this resistance, the resistance for all affected creatures reduces by 1. The effect ends for all creatures when it reduces to 0. |
-| 17 | **Luminous Pests** ([illusion](rules/traits/illusion.md), [visual](rules/traits/visual.md)) Numerous tiny flying creatures formed of bright colorful light, such as bats or hummingbirds, emerge from you, flying in a 30-foot cone. You and all creatures in the cone must succeed at a Will save or be [dazzled](rules/conditions.md#Dazzled) for 1 minute, or [blinded](rules/conditions.md#Blinded) for 1 round and then [dazzled](rules/conditions.md#Dazzled) for 1 minute on a critical failure. |
-| 18 | **Emotional Turmoil** ([emotion](rules/traits/emotion.md), [enchantment](rules/traits/enchantment.md), [mental](rules/traits/mental.md)) A swirl of conflicting emotions overwhelm you from the surging magic. For 1 minute, attempt a DC 11 flat check at the start of each of your turns. On a success, you gain a +2 status bonus to all attack rolls, saving throws, and skill checks; on a failure, you take a –2 status penalty to them instead. |
-| 19 | **Sudden Downpour** ([evocation](rules/traits/evocation.md), [water](rules/traits/water.md)) Water cascades from above, putting out non-magical fires in a 10-foot burst and attempting to counteract magical fires. |
+| 1 | **Energy Unleashed** ([evocation](rules/traits/evocation.md "Evocation School Trait")) Raw energy deals 2d6 damage per spell level of the surge (basic Reflex save) in a 10-foot burst. |
+| 2 | **Positive Energy Expulsion** ([healing](rules/traits/healing.md "Healing Effect Trait"), [necromancy](rules/traits/necromancy.md "Necromancy School Trait"), [positive](rules/traits/positive.md "Positive Energy & Element Trait")) Positive energy explodes outward, healing living creatures for 1d8 Hit Points per spell level of the surge in a 20-foot burst. Undead creatures instead take the same amount of positive damage, with a basic Will save. |
+| 3 | **Mass Siphon** ([transmutation](rules/traits/transmutation.md "Transmutation School Trait")) Creatures and objects within a 30-foot emanation become nearly weightless until the end of your next turn. Nearly weightless creatures can [Climb](rules/actions/climb.md) at their land Speed and can [Leap](rules/actions/leap.md) as far upward as they could normally [Leap](rules/actions/leap.md) horizontally. |
+| 4 | **Magical Nemesis** ([conjuration](rules/traits/conjuration.md "Conjuration School Trait"), [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")) A random creature connected to your magic (or inimical to it) appears within 60 feet. The creature should be of a level approximately equal to the level of an animal summoned by [summon animal](compendium/spells/summon-animal.md) of the spell level, although it can be of any type. The GM determines the specific creature. The creature is [unfriendly](rules/conditions.md#Unfriendly) to you and friendly to your apparent enemies. After 1 minute, the creature can choose either to return where it came from or to remain. It is not [summoned](rules/traits/summoned.md "Summoned Creature Trait") or a [minion](rules/traits/minion.md "Minion Creature Trait"). |
+| 5 | **Monstrous Transformation** ([mental](rules/traits/mental.md "Mental Effect Trait"), [morph](rules/traits/morph.md "Morph Effect Trait"), [transmutation](rules/traits/transmutation.md "Transmutation School Trait")) Your head and arms transform into an exaggerated imitation of a creature connected to your magic for 1 minute. The GM determines the creature. You gain a status bonus to weapon and unarmed damage rolls equal to the spell level. At the start of each of your turns while you are transformed, you must succeed at a Will saving throw or be [confused](rules/conditions.md#Confused) until the start of your next turn. On a critical success, you can choose to end the effect entirely, also losing the status bonus. |
+| 6 | **Sudden Gale** ([air](rules/traits/air.md "Air Energy & Element Trait"), [evocation](rules/traits/evocation.md "Evocation School Trait")) Weather in a 40-foot emanation is disturbed. Strong winds blow in a random direction for 1 minute. Each creature that starts its turn in the area must succeed at a Fortitude save or fall [prone](rules/conditions.md#Prone) (and be pushed 10 feet on a critical failure), and you must succeed at this save immediately after the surge. Any movement against the wind is difficult terrain, or greater difficult terrain while flying. |
+| 7 | **Tremor** ([earth](rules/traits/earth.md "Earth Energy & Element Trait"), [evocation](rules/traits/evocation.md "Evocation School Trait")) The earth trembles in a 40-foot emanation. Each creature on a surface must immediately succeed at a Fortitude save or fall [prone](rules/conditions.md#Prone). The surface then becomes difficult terrain for 1 minute. |
+| 8 | **Oppressive Voice** ([divination](rules/traits/divination.md "Divination School Trait"), [mental](rules/traits/mental.md "Mental Effect Trait"), [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait")) The voice of your muse, your deity, an ancestor, or another appropriate entity suddenly overwhelms your mind. You must attempt a Will saving throw. You take 1d4 mental damage per spell level with a basic Will save. On a failure, you're also [stunned](rules/conditions.md#Stunned) ([stunned](rules/conditions.md#Stunned) on a critical failure). |
+| 9 | **Trinket Squall** ([illusion](rules/traits/illusion.md "Illusion School Trait")) Visual illusions of objects related to your magic fall like rain throughout a 40-foot burst for 1 minute, giving concealment in the area. Creatures can attempt to 0. |
+| 10 | **Antimagic Eruption** ([abjuration](rules/traits/abjuration.md "Abjuration School Trait")) The surge attempts to counteract a random spell active on you and on each creature within a 10-foot burst. |
+| 11 | **Mental Broadcast** ([detection](rules/traits/detection.md "Detection Effect Trait"), [divination](rules/traits/divination.md "Divination School Trait"), [mental](rules/traits/mental.md "Mental Effect Trait")) For 1 minute, everyone within 30 feet of you can hear your surface thoughts. |
+| 12 | **Verdant Clutch** ([conjuration](rules/traits/conjuration.md "Conjuration School Trait"), [plant](rules/traits/plant.md "Plant Creature Type Trait")) Plants and vines grow from all surfaces within 20 feet, causing all creatures in the area to be [immobilized](rules/conditions.md#Immobilized) unless they succeed at a Reflex save. The [Escape](rules/actions/escape.md) DC is equal to the spell DC. |
+| 13 | **Tinge of Terror** ([emotion](rules/traits/emotion.md "Emotion Effect Trait"), [enchantment](rules/traits/enchantment.md "Enchantment School Trait"), [fear](rules/traits/fear.md "Fear Effect Trait"), [mental](rules/traits/mental.md "Mental Effect Trait")) All creatures within 20 feet are affected by powerful fright. They attempt a Will save, becoming [frightened](rules/conditions.md#Frightened) on a failure or [frightened](rules/conditions.md#Frightened) on a critical failure. |
+| 14 | **Strike up the Band** ([auditory](rules/traits/auditory.md "Auditory Effect Trait"), [illusion](rules/traits/illusion.md "Illusion School Trait")) For 1 minute, you are followed by orchestral theme music tied to the emotional content of the actions you're performing. This grants you a +2 status bonus to [Diplomacy](compendium/skills.md#Diplomacy), [Intimidation](compendium/skills.md#Intimidation), and [Performance](compendium/skills.md#Performance) checks, a –2 status penalty to [Deception](compendium/skills.md#Deception) checks, and makes certain uses of [Stealth](compendium/skills.md#Stealth) virtually impossible. It might have other effects as the GM sees fit. |
+| 15 | **Life Sap** ([necromancy](rules/traits/necromancy.md "Necromancy School Trait")) The surge drains your life force and strength. You become [drained](rules/conditions.md#Drained) and [doomed](rules/conditions.md#Doomed), and you are [enfeebled](rules/conditions.md#Enfeebled) for 1 minute. |
+| 16 | **Ablative Barrier** ([abjuration](rules/traits/abjuration.md "Abjuration School Trait")) Energy forms a protective barrier that ablates slowly as creatures in the area take damage. All creatures in a 40-foot burst gain resistance to all damage equal to double the surge's spell level for up to 1 minute. Whenever a creature applies this resistance, the resistance for all affected creatures reduces by 1. The effect ends for all creatures when it reduces to 0. |
+| 17 | **Luminous Pests** ([illusion](rules/traits/illusion.md "Illusion School Trait"), [visual](rules/traits/visual.md "Visual Effect Trait")) Numerous tiny flying creatures formed of bright colorful light, such as bats or hummingbirds, emerge from you, flying in a 30-foot cone. You and all creatures in the cone must succeed at a Will save or be [dazzled](rules/conditions.md#Dazzled) for 1 minute, or [blinded](rules/conditions.md#Blinded) for 1 round and then [dazzled](rules/conditions.md#Dazzled) for 1 minute on a critical failure. |
+| 18 | **Emotional Turmoil** ([emotion](rules/traits/emotion.md "Emotion Effect Trait"), [enchantment](rules/traits/enchantment.md "Enchantment School Trait"), [mental](rules/traits/mental.md "Mental Effect Trait")) A swirl of conflicting emotions overwhelm you from the surging magic. For 1 minute, attempt a DC 11 flat check at the start of each of your turns. On a success, you gain a +2 status bonus to all attack rolls, saving throws, and skill checks; on a failure, you take a –2 status penalty to them instead. |
+| 19 | **Sudden Downpour** ([evocation](rules/traits/evocation.md "Evocation School Trait"), [water](rules/traits/water.md "Water Energy & Element Trait")) Water cascades from above, putting out non-magical fires in a 10-foot burst and attempting to counteract magical fires. |
 | 20 | **Spell Surge** You immediately cast any spell in your repertoire of the surge's spell level or lower (or from your prepared spells or innate spells if you don't have a repertoire but have been forced to generate a wellspring surge). You must choose a spell that takes 3 or fewer actions to cast. |

@@ -7,7 +7,7 @@ tags:
 aliases: ["Deity's Domain"]
 ---
 # Deity's Domain  *Feat 1*  
-[champion](rules/traits/champion.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  
 
 
 You embody an aspect of your deity. Choose one of your deity's domains. You gain the domain's initial domain spell as a devotion spell.

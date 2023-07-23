@@ -7,7 +7,7 @@ tags:
 aliases: ["Tough Tumbler"]
 ---
 # Tough Tumbler  *Feat 5*  
-[shoony](rules/traits/shoony-ec3.md)  
+[shoony](rules/traits/shoony-ec3.md "Shoony Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Scamper](compendium/feats/scamper-apg.md) Underfoot
 

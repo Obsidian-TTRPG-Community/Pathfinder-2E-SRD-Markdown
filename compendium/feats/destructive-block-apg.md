@@ -7,7 +7,7 @@ tags:
 aliases: ["Destructive Block"]
 ---
 # Destructive Block  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Bastion Dedication](compendium/feats/bastion-dedication-apg.md)
 

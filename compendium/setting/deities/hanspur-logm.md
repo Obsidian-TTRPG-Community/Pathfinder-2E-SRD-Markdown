@@ -10,12 +10,12 @@ tags:
 - domain/wealth/deity
 aliases: ["Hanspur", "The Water Rat"]
 ---
-# Hanspur (The Water Rat) *([CN](rules/traits/chaotic-neutral-b1.md))*  
+# Hanspur (The Water Rat) *([CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 130*  
 
 - **Category**: Other Gods
 - **Anathema**: impose needless laws or restrictions on others, aid daemons or the Horsemen
-- **Follower Alignments**: [N](rules/traits/neutral-b1.md), [CG](rules/traits/chaotic-good-b1.md), [CN](rules/traits/chaotic-neutral-b1.md), [CE](rules/traits/chaotic-evil-b1.md)
+- **Follower Alignments**: [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
 

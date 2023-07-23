@@ -7,7 +7,7 @@ tags:
 aliases: ["Practiced Paddler"]
 ---
 # Practiced Paddler  *Feat 5*  
-[shoony](rules/traits/shoony-ec3.md)  
+[shoony](rules/traits/shoony-ec3.md "Shoony Ancestry & Heritage Trait")  
 
 - **Prerequisites**: paddler shoony
 

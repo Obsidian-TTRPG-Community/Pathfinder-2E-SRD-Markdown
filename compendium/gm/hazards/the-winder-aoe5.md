@@ -9,7 +9,7 @@ tags:
 aliases: ["The Winder"]
 ---
 # The Winder *Hazard 19*  
-[complex](rules/traits/complex.md)  [environmental](rules/traits/environmental.md)  [mechanical](rules/traits/mechanical.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +31 master  

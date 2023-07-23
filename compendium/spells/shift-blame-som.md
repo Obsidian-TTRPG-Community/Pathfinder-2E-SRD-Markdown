@@ -9,9 +9,9 @@ tags:
 aliases: ["Shift Blame"]
 ---
 # Shift Blame *Spell 3*   
-[enchantment](rules/traits/enchantment.md)  [mental](rules/traits/mental.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
 - **Trigger**You or another creature attacks a creature or fails at a [Deception](compendium/skills.md#Deception), [Diplomacy](compendium/skills.md#Diplomacy), or [Intimidation](compendium/skills.md#Intimidation) check.
 - **Range**30 foot

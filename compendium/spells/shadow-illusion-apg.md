@@ -12,7 +12,7 @@ tags:
 aliases: ["Shadow Illusion"]
 ---
 # Shadow Illusion *Focus 6*   
-[auditory](rules/traits/auditory.md)  [illusion](rules/traits/illusion.md)  [shadow](rules/traits/shadow.md)  [uncommon](rules/traits/uncommon.md)  [visual](rules/traits/visual.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [shadow](rules/traits/shadow.md "Shadow General Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**500 foot

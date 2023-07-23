@@ -7,7 +7,7 @@ tags:
 aliases: ["Hunter's Vision"]
 ---
 # Hunter's Vision  *Feat 10*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: warden spells
 

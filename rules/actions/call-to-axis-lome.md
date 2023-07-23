@@ -8,7 +8,7 @@ tags:
 aliases: ["Call to Axis"]
 ---
 # Call to Axis [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
-[fortune](rules/traits/fortune.md)  
+[fortune](rules/traits/fortune.md "Fortune Effect Trait")  
 *Source: Lost Omens: The Mwangi Expanse p. 107*  
 
 **Ancestry** Conrasu; **Heritage** Conrasu|LOME|Rite of Knowing|Rite of Knowing|LOME|

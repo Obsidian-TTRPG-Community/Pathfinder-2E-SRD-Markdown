@@ -7,7 +7,7 @@ tags:
 aliases: ["Amorphous Aspect"]
 ---
 # Amorphous Aspect  *Feat 5*  
-[ganzi](rules/traits/ganzi-loag.md)  
+[ganzi](rules/traits/ganzi-loag.md "Ganzi Ancestry & Heritage Trait")  
 
 
 Your body is supremely flexible. You gain a +1 circumstance bonus on checks to [Escape](rules/actions/escape.md) or [Squeeze](rules/actions/squeeze.md), and when you critically fail when [Squeezing](rules/actions/squeeze.md), you get a failure instead.

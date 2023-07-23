@@ -7,7 +7,7 @@ tags:
 aliases: ["Energy Blessed"]
 ---
 # Energy Blessed  *Feat 9*  
-[dwarf](rules/traits/dwarf.md)  
+[dwarf](rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  
 
 - **Prerequisites**: elemental heart dwarf heritage (page 19)
 

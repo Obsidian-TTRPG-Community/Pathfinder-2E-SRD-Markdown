@@ -7,7 +7,7 @@ tags:
 aliases: ["Nagaji Spell Familiarity"]
 ---
 # Nagaji Spell Familiarity  *Feat 1*  
-[nagaji](rules/traits/nagaji-loil.md)  
+[nagaji](rules/traits/nagaji-loil.md "Nagaji Ancestry & Heritage Trait")  
 
 
 Either through study, exposure, or familial devotion, you have the magic of nagas bubbling in your blood. During your daily preparations, choose [daze](compendium/spells/daze.md), [detect magic](compendium/spells/detect-magic.md), or [mage hand](compendium/spells/mage-hand.md). Until your next daily preparations, you can cast the chosen spell as an occult innate cantrip. A cantrip is heightened to a spell level equal to half your level rounded up.

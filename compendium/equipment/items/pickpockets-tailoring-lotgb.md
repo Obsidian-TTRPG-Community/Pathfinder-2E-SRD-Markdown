@@ -8,7 +8,7 @@ tags:
 aliases: ["Pickpocket's Tailoring"]
 ---
 # Pickpocket's Tailoring *Item 4*  
-[uncommon](rules/traits/uncommon.md)  
+[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 100 gp
 - **Usage** sewn into clothing

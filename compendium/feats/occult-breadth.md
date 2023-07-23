@@ -7,7 +7,7 @@ tags:
 aliases: ["Occult Breadth"]
 ---
 # Occult Breadth  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Bard Spellcasting](compendium/feats/basic-bard-spellcasting.md)
 

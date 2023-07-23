@@ -7,7 +7,7 @@ tags:
 aliases: ["Maneuvering Spell"]
 ---
 # Maneuvering Spell  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Sixth Pillar Dedication](compendium/feats/sixth-pillar-dedication-frp2.md)
 - **Trigger** You begin to [Cast a Spell](rules/actions/cast-a-spell.md) that requires at least 2 actions to cast.

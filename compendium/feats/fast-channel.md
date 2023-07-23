@@ -7,7 +7,7 @@ tags:
 aliases: ["Fast Channel"]
 ---
 # Fast Channel  *Feat 14*  
-[cleric](rules/traits/cleric.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  
 
 - **Prerequisites**: harmful font or healing font
 

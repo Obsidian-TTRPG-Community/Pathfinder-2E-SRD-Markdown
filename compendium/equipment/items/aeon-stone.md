@@ -11,7 +11,7 @@ tags:
 aliases: ["Aeon Stone"]
 ---
 # Aeon Stone *Item 1+*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Usage** worn; **Bulk** —
 - **Category** Worn
@@ -22,6 +22,6 @@ When you invest one of these precisely shaped crystals, the stone orbits your he
 
 You can stow an aeon stone with an [Interact](rules/actions/interact.md) action, and an orbiting stone can be snatched out of the air with a successful [Disarm](rules/actions/disarm.md) action against you. A stowed or removed stone remains invested, but its effects are suppressed until you return it to orbit your head again.
 
-There are various types of aeon stones, each with a different shape, color, and [magical](rules/traits/magical.md) effect. Each aeon stone also gains a resonant power when slotted into a special magical item called a [wayfinder](compendium/equipment/items/wayfinder.md).
+There are various types of aeon stones, each with a different shape, color, and [magical](rules/traits/magical.md "Magical Item Trait") effect. Each aeon stone also gains a resonant power when slotted into a special magical item called a [wayfinder](compendium/equipment/items/wayfinder.md).
 
 *Source: Core Rulebook p. 604*

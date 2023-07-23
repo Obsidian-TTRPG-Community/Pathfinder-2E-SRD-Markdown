@@ -7,7 +7,7 @@ tags:
 aliases: ["Spirit Window"]
 ---
 # Spirit Window *Hazard 20*  
-[haunt](rules/traits/haunt.md)  
+[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 51  
@@ -24,7 +24,7 @@ Spirits trapped inside a haunted window harm those who touch the window.
      
 ```ad-embed-ability
 title: Siphon Soul [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[evil](rules/traits/evil.md)  [necromancy](rules/traits/necromancy.md)  [negative](rules/traits/negative.md)  [occult](rules/traits/occult.md)  
+[evil](rules/traits/evil.md "Evil Alignment Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 - **Trigger**: A creature touches the window
 

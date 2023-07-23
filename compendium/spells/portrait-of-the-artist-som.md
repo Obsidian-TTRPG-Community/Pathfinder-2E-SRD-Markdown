@@ -9,9 +9,9 @@ tags:
 aliases: ["Portrait Of The Artist"]
 ---
 # Portrait Of The Artist *Spell 5*   
-[illusion](rules/traits/illusion.md)  [visual](rules/traits/visual.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
-- **Traditions**: [occult](rules/traits/occult.md)
+- **Traditions**: [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 1 minute 
 - **Duration**1 hour
 

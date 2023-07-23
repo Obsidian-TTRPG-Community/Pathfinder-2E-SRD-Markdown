@@ -10,7 +10,7 @@ tags:
 aliases: ["Sow Rumor"]
 ---
 # Sow Rumor  *Feat 2*  
-[general](rules/traits/general.md)  [secret](rules/traits/secret.md)  [skill](rules/traits/skill.md)  [uncommon](rules/traits/uncommon.md)  
+[general](rules/traits/general.md "General Feat Trait")  [secret](rules/traits/secret.md "Secret General Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: expert in [Deception](compendium/skills.md#Deception)
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Storm Retribution"]
 ---
 # Storm Retribution  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
-[druid](rules/traits/druid.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  
 
 - **Prerequisites**: Storm order, [tempest surge](compendium/spells/tempest-surge.md) order spell
 - **Trigger** An opponent adjacent to you critically hits you with a melee weapon or melee unarmed attack.

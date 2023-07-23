@@ -8,7 +8,7 @@ tags:
 aliases: ["Rough Terrain Stance"]
 ---
 # Rough Terrain Stance  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  [stance](rules/traits/stance.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
 
 - **Prerequisites**: [Geomancer Dedication](compendium/feats/geomancer-dedication-som.md), expert in [Nature](compendium/skills.md#Nature)
 - **Requirements**: You gained a terrain attunement benefit this turn.

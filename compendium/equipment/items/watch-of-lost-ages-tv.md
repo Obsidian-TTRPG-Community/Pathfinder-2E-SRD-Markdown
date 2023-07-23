@@ -11,7 +11,7 @@ tags:
 aliases: ["Watch of Lost Ages"]
 ---
 # Watch of Lost Ages *Item 3*  
-[divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [relic](rules/traits/relic-tv.md)  [unique](rules/traits/unique.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [relic](rules/traits/relic-tv.md "Relic Item Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Adventuring Gear

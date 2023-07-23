@@ -10,7 +10,7 @@ tags:
 aliases: ["Thaumaturge's Demesne"]
 ---
 # Thaumaturge's Demesne  *Feat 12*  
-[abjuration](rules/traits/abjuration.md)  [arcane](rules/traits/arcane.md)  [thaumaturge](rules/traits/thaumaturge-da.md)  [uncommon](rules/traits/uncommon.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [thaumaturge](rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 
 You have claimed an area or location as your demesne, granting you the ability to ward and protect it. When you select this feat, choose a demesne, an area of no more than 2,000 square feet. You must legitimately own the area or, if its a public area, you must lay claim to the area without anyone contesting it.

@@ -11,7 +11,7 @@ tags:
 aliases: ["Locket Of Sealed Nightmares"]
 ---
 # Locket Of Sealed Nightmares *Item 19*  
-[illusion](rules/traits/illusion.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 36000 gp
 - **Usage** worn necklace
@@ -19,7 +19,7 @@ aliases: ["Locket Of Sealed Nightmares"]
 
 As long as this locket of horn and silver is closed, you don't need to sleep. However, you can still overexert your body with too much activity, so you still need to rest to avoid becoming [fatigued](rules/conditions.md#Fatigued) or to remove the [fatigued](rules/conditions.md#Fatigued) condition.
 
-You also gain a +4 item bonus on saving throws against mental illusions, [magical](rules/traits/magical.md) effects that would make you [unconscious](rules/conditions.md#Unconscious), and effects that would make you [fatigued](rules/conditions.md#Fatigued).
+You also gain a +4 item bonus on saving throws against mental illusions, [magical](rules/traits/magical.md "Magical Item Trait") effects that would make you [unconscious](rules/conditions.md#Unconscious), and effects that would make you [fatigued](rules/conditions.md#Fatigued).
 
 Each time dawn occurs, you regain the ability to make your daily preparations as if you had rested for 8 hours.
 

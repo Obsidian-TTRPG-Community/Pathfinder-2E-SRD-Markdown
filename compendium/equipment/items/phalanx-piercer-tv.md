@@ -12,7 +12,7 @@ tags:
 aliases: ["Phalanx Piercer"]
 ---
 # Phalanx Piercer *Item 1*  
-[hobgoblin](rules/traits/hobgoblin-locg.md)  [propulsive](rules/traits/propulsive.md)  [razing](rules/traits/razing-tv.md)  [volley <30 ft.>](rules/traits/volley.md)  concussive  
+[hobgoblin](rules/traits/hobgoblin-locg.md "Hobgoblin Ancestry & Heritage Trait")  [propulsive](rules/traits/propulsive.md "Propulsive Weapon Trait")  [razing](rules/traits/razing-tv.md "Razing Weapon Trait")  [volley <30 ft.>](rules/traits/volley-30-ft.md "Volley Weapon Trait")  concussive  
 
 - **Price** 10 gp
 - **Bulk** 2

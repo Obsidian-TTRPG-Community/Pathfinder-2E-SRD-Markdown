@@ -8,7 +8,7 @@ tags:
 aliases: ["Homing Beacon"]
 ---
 # Homing Beacon  *Feat 4*  
-[amp](rules/traits/amp-da.md)  [psychic](rules/traits/psychic-da.md)  
+[amp](rules/traits/amp-da.md "Amp Feat Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  
 
 
 As your spell strikes a target, you plant a beacon in the target's mind that announces its presence to those nearby. Use this amp in place of a psi cantrip's normal amp entry. The amped cantrip must be one that has one or more targets and must either require a spell attack roll or have a saving throw.

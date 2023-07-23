@@ -10,7 +10,7 @@ tags:
 aliases: ["Dust of Appearance"]
 ---
 # Dust of Appearance *Item 6*  
-[consumable](rules/traits/consumable.md)  [divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 50 gp
 - **Usage** held in 1 hand; **Bulk** —

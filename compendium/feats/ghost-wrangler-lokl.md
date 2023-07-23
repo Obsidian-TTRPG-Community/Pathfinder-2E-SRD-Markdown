@@ -12,7 +12,7 @@ tags:
 aliases: ["Ghost Wrangler"]
 ---
 # Ghost Wrangler  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[barbarian](rules/traits/barbarian.md)  [divine](rules/traits/divine.md)  [instinct](rules/traits/instinct.md)  [necromancy](rules/traits/necromancy.md)  [rage](rules/traits/rage.md)  [uncommon](rules/traits/uncommon.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [instinct](rules/traits/instinct.md "Instinct Action & Ability Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [rage](rules/traits/rage.md "Rage Combat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: Knights of Lastwall have access to this feat.
 - **Prerequisites**: spirit instinct

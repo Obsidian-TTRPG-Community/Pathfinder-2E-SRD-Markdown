@@ -9,7 +9,7 @@ tags:
 aliases: ["Acidic Needle Launcher"]
 ---
 # Acidic Needle Launcher *Hazard 16*  
-[complex](rules/traits/complex.md)  [mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** DC 38 master  
@@ -26,7 +26,7 @@ A ceiling-mounted launcher rains resinous needles onto intruders, after which th
      
 ```ad-embed-ability
 title: Needle Rain [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[attack](rules/traits/attack.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  
 
 - **Trigger**: A creature moves into the area indicated on the map
 

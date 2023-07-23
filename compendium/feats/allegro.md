@@ -7,7 +7,7 @@ tags:
 aliases: ["Allegro"]
 ---
 # Allegro  *Feat 14*  
-[bard](rules/traits/bard.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  
 
 
 You can quicken your allies with a fast-paced performance. You learn the [allegro](compendium/spells/allegro.md) composition cantrip.

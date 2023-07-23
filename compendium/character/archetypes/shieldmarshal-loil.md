@@ -17,7 +17,7 @@ You've undergone specialized training to help you keep the peace in Alkenstar's 
 title: Shieldmarshal Dedication, Feat 2
 collapse: closed
 # Shieldmarshal Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 
 Your elite shieldmarshal training makes you equally at home in the squalor of Smokeside and the splendor of Skyside. You're intimately familiar with the city's labyrinthine streets and statutes. You become trained in [Society](compendium/skills.md#Society); if you were already trained, you become an expert in [Society](compendium/skills.md#Society) instead.
@@ -25,14 +25,14 @@ Your elite shieldmarshal training makes you equally at home in the squalor of Sm
 In urban environments, you can attempt [Society](compendium/skills.md#Society) checks to [Sense Direction](rules/actions/sense-direction.md). You also gain the Courtly Graces and [Streetwise](compendium/feats/streetwise.md) skill feats.
 
 *Source: Lost Omens: Impossible Lands p. 109*  
-%% #trait/uncommon #trait/archetype #trait/dedication %%
+%% #trait/archetype #trait/dedication #trait/uncommon %%
 ```  
 
 ```ad-embed-feat
 title: Consolidated Overlay Panopticon, Feat 4
 collapse: closed
 # Consolidated Overlay Panopticon  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Shieldmarshal Dedication](compendium/feats/shieldmarshal-dedication-loil.md)
 - **Frequency**: once per hour
@@ -48,7 +48,7 @@ You volunteered for a controversial experimental procedure to install clockwork 
 title: Equitable Defense, Feat 8
 collapse: closed
 # Equitable Defense  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Shieldmarshal Dedication](compendium/feats/shieldmarshal-dedication-loil.md)
 - **Frequency**: once per 10 minutes
@@ -65,7 +65,7 @@ Gritting your teeth through the pain, you position yourself to counterattack. Yo
 title: Counterclockwork Focus, Feat 10
 collapse: closed
 # Counterclockwork Focus  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Shieldmarshal Dedication](compendium/feats/shieldmarshal-dedication-loil.md)
 - **Frequency**: once per round

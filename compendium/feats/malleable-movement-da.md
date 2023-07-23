@@ -8,7 +8,7 @@ tags:
 aliases: ["Malleable Movement"]
 ---
 # Malleable Movement  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 2*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Mind Smith Dedication](compendium/feats/mind-smith-dedication-da.md), expert in [Athletics](compendium/skills.md#Athletics)
 - **Trigger** You [Leap](rules/actions/leap.md).

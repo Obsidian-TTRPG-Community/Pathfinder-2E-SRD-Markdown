@@ -10,7 +10,7 @@ tags:
 aliases: ["Advanced First Aid"]
 ---
 # Advanced First Aid  *Feat 7*  
-[general](rules/traits/general.md)  [healing](rules/traits/healing.md)  [manipulate](rules/traits/manipulate.md)  [skill](rules/traits/skill.md)  
+[general](rules/traits/general.md "General Feat Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: master in [Medicine](compendium/skills.md#Medicine)
 

@@ -12,7 +12,7 @@ tags:
 aliases: ["Dullahan Codex"]
 ---
 # Dullahan Codex *Item 20*  
-[cursed](rules/traits/cursed-gmg.md)  [grimoire](rules/traits/grimoire-som.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [unique](rules/traits/unique.md)  
+[cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [grimoire](rules/traits/grimoire-som.md "Grimoire Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Bulk** L
 - **Category** Grimoire

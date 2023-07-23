@@ -8,7 +8,7 @@ tags:
 aliases: ["Alacritous Action"]
 ---
 # Alacritous Action  *Feat 2*  
-[evolution](rules/traits/evolution-som.md)  [summoner](rules/traits/summoner-som.md)  
+[evolution](rules/traits/evolution-som.md "Evolution Feat Trait")  [summoner](rules/traits/summoner-som.md "Summoner Class Trait")  
 
 
 Your eidolon moves more quickly. It gains a +10-foot status bonus to its Speed.

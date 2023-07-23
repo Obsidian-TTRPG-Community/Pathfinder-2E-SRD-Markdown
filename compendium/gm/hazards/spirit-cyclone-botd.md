@@ -8,7 +8,7 @@ tags:
 aliases: ["Spirit Cyclone"]
 ---
 # Spirit Cyclone *Hazard 9*  
-[complex](rules/traits/complex.md)  [haunt](rules/traits/haunt.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +20 expert  

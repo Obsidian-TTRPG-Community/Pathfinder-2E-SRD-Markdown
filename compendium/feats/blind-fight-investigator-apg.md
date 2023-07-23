@@ -7,7 +7,7 @@ tags:
 aliases: ["Blind-fight (Investigator)"]
 ---
 # Blind-fight (Investigator)  *Feat 8*  
-[investigator](rules/traits/investigator-apg.md)  
+[investigator](rules/traits/investigator-apg.md "Investigator Class Trait")  
 
 - **Prerequisites**: master in [Perception](compendium/skills.md#Perception)
 

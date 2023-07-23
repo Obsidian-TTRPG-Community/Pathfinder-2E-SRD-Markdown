@@ -12,7 +12,7 @@ tags:
 aliases: ["Tamchal Chakram"]
 ---
 # Tamchal Chakram *Item 0*  
-[agile](rules/traits/agile.md)  [deadly <d6>](rules/traits/deadly.md)  [finesse](rules/traits/finesse.md)  [thrown <20 feet>](rules/traits/thrown.md)  [uncommon](rules/traits/uncommon.md)  
+[agile](rules/traits/agile.md "Agile Weapon Trait")  [deadly <d6>](rules/traits/deadly-d6.md "Deadly Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [thrown <20 feet>](rules/traits/thrown-20-feet.md "Thrown Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 5 gp
 - **Bulk** L

@@ -11,7 +11,7 @@ tags:
 aliases: ["Unbreaking Wave Containment"]
 ---
 # Unbreaking Wave Containment *Focus 9*   
-[evocation](rules/traits/evocation.md)  [incapacitation](rules/traits/incapacitation.md)  [uncommon](rules/traits/uncommon.md)  [water](rules/traits/water.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**30 foot

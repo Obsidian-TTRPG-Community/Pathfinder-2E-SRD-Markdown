@@ -7,7 +7,7 @@ tags:
 aliases: ["Parry And Riposte"]
 ---
 # Parry And Riposte  *Feat 18*  
-[swashbuckler](rules/traits/swashbuckler-apg.md)  
+[swashbuckler](rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  
 
 - **Prerequisites**: Opportune Riposte
 

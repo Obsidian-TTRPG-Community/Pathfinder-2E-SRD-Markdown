@@ -11,7 +11,7 @@ tags:
 aliases: ["Freezing Ammunition"]
 ---
 # Freezing Ammunition *Item 5*  
-[cold](rules/traits/cold.md)  [consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  
+[cold](rules/traits/cold.md "Cold Energy & Element Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 25 gp
 - **Ammunition** any

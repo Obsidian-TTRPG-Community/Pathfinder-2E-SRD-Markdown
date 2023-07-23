@@ -10,12 +10,12 @@ tags:
 - domain/swarm/deity
 aliases: ["Kitmu", "Mother of Fireflies"]
 ---
-# Kitmu (Mother of Fireflies) *([CE](rules/traits/chaotic-evil-b1.md))*  
+# Kitmu (Mother of Fireflies) *([CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait"))*  
 *Source: Lost Omens: The Mwangi Expanse p. 158*  
 
 - **Category**: Mwangi Gods
 - **Anathema**: step on a firefly, kill those marked by Kitumu
-- **Follower Alignments**: [NE](rules/traits/neutral-evil-b1.md), [CE](rules/traits/chaotic-evil-b1.md)
+- **Follower Alignments**: [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
 

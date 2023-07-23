@@ -7,7 +7,7 @@ tags:
 aliases: ["Adaptive Mask Familiar"]
 ---
 # Adaptive Mask Familiar  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Mask Familiar](compendium/feats/mask-familiar-locg.md)
 

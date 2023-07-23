@@ -8,7 +8,7 @@ tags:
 aliases: ["Annihilating Swing"]
 ---
 # Annihilating Swing  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 20*  
-[barbarian](rules/traits/barbarian.md)  [uncommon](rules/traits/uncommon.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Activity** Two-Action
 

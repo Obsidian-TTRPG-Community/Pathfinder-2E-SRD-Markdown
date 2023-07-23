@@ -7,7 +7,7 @@ tags:
 aliases: ["Gossip Lore"]
 ---
 # Gossip Lore  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Dandy Dedication](compendium/feats/dandy-dedication-apg.md)
 

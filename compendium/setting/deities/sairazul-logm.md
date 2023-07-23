@@ -10,12 +10,12 @@ tags:
 - domain/wealth/deity
 aliases: ["Sairazul", "The Crystalline Queen"]
 ---
-# Sairazul (The Crystalline Queen) *([NG](rules/traits/neutral-good-b1.md))*  
+# Sairazul (The Crystalline Queen) *([NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 128*  
 
 - **Category**: Elemental Lords
 - **Anathema**: damage subterranean natural wonders, collapse an earthen structure on a creature
-- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [NG](rules/traits/neutral-good-b1.md), [N](rules/traits/neutral-b1.md), [CG](rules/traits/chaotic-good-b1.md)
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")
 
 ## Devotee benefits
 

@@ -8,7 +8,7 @@ tags:
 aliases: ["Glass Cutter"]
 ---
 # Glass Cutter *Item 0*  
-[uncommon](rules/traits/uncommon.md)  
+[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 5 gp
 - **Bulk** L

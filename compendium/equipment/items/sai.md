@@ -13,7 +13,7 @@ tags:
 aliases: ["Sai"]
 ---
 # Sai *Item 0*  
-[agile](rules/traits/agile.md)  [disarm](rules/traits/disarm.md)  [finesse](rules/traits/finesse.md)  [monk](rules/traits/monk.md)  [uncommon](rules/traits/uncommon.md)  [versatile <b>](rules/traits/versatile.md)  
+[agile](rules/traits/agile.md "Agile Weapon Trait")  [disarm](rules/traits/disarm.md "Disarm Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [versatile <b>](rules/traits/versatile-b.md "Versatile Weapon Trait")  
 
 - **Price** 6 sp
 - **Bulk** L

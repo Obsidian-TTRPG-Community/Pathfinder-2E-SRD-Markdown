@@ -8,12 +8,12 @@ tags:
 aliases: ["Follow-up Assault"]
 ---
 # Follow-up Assault  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
-[barbarian](rules/traits/barbarian.md)  [rage](rules/traits/rage.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [rage](rules/traits/rage.md "Rage Combat Trait")  
 
 - **Requirements**: You used your previous action to make a melee [Strike](rules/actions/strike.md) that missed.
 - **Activity** Single Action
 
-Even in the face of failure you press the attack, determined to succeed. Make a [Strike](rules/actions/strike.md) with the same weapon, adding the effects of the [backswing](rules/traits/backswing.md) and [forceful](rules/traits/forceful.md) weapon traits.
+Even in the face of failure you press the attack, determined to succeed. Make a [Strike](rules/actions/strike.md) with the same weapon, adding the effects of the [backswing](rules/traits/backswing.md "Backswing Weapon Trait") and [forceful](rules/traits/forceful.md "Forceful Weapon Trait") weapon traits.
 
 *Source: Advanced Player's Guide p. 110*  
 %% #compendium/src/pf2e/apg #trait/barbarian #trait/rage %%

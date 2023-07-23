@@ -9,7 +9,7 @@ tags:
 aliases: ["Weapon Potency"]
 ---
 # Weapon Potency *Item 2+*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Usage** etched onto a weapon
 - **Category** Rune

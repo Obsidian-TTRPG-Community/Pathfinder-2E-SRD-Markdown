@@ -7,7 +7,7 @@ tags:
 aliases: ["Ki Blast"]
 ---
 # Ki Blast  *Feat 6*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Prerequisites**: ki spells
 

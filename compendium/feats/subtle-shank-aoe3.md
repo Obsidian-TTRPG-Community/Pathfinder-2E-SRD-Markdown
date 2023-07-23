@@ -9,7 +9,7 @@ tags:
 aliases: ["Subtle Shank"]
 ---
 # Subtle Shank  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
-[flourish](rules/traits/flourish.md)  [rogue](rules/traits/rogue.md)  [uncommon](rules/traits/uncommon.md)  
+[flourish](rules/traits/flourish.md "Flourish Combat Trait")  [rogue](rules/traits/rogue.md "Rogue Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: Help either the Washboard Dogs or the Diobel
 - **Prerequisites**: [Quick Draw (Rogue)](compendium/feats/quick-draw-rogue.md)

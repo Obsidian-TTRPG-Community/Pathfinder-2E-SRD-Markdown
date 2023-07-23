@@ -10,7 +10,7 @@ tags:
 aliases: ["Fantastic Façade"]
 ---
 # Fantastic Façade *Ritual 9*  
-[illusion](rules/traits/illusion.md)  [rare](rules/traits/rare.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Cast** 1 week
 - **Cost** mystical paint, elaborate veils, and powdered minerals worth 20,000 gp total

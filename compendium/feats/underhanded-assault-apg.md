@@ -7,7 +7,7 @@ tags:
 aliases: ["Underhanded Assault"]
 ---
 # Underhanded Assault  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 2*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Prerequisites**: trained in [Stealth](compendium/skills.md#Stealth)
 - **Activity** Two-Action

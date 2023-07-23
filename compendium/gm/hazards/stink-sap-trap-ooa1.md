@@ -8,7 +8,7 @@ tags:
 aliases: ["Stink-Sap Trap"]
 ---
 # Stink-Sap Trap *Hazard 3*  
-[mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  
+[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 18 trained  
@@ -42,7 +42,7 @@ title: Sudden Spray [R](rules/core-rulebook/chapter-9-playing-the-game.md#Action
 ```
 ```ad-embed-ability
 title: Stink Sap
-[aura](rules/traits/aura.md)  [olfactory](rules/traits/olfactory-b1.md)  
+[aura](rules/traits/aura.md "Aura Combat Trait")  [olfactory](rules/traits/olfactory-b1.md "Olfactory Effect Trait")  
 
 5 feet. Creatures and their equipment coated in the sap smell horrible. Creatures in the aura must attempt a DC 16 Fortitude save. On a failure, the creature is [sickened](rules/conditions.md#Sickened), and on a critical failure, the creature is also [stunned](rules/conditions.md#Stunned). While within the aura, the creature takes a –2 circumstance penalty to saves to recover from the [sickened](rules/conditions.md#Sickened) condition. A creature that succeeds at its save is immune to stink sap for 1 minute.
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Irriseni Ice-witch"]
 ---
 # Irriseni Ice-witch  *Feat 13*  
-[human](rules/traits/human.md)  
+[human](rules/traits/human.md "Human Ancestry & Heritage Trait")  
 
 - **Prerequisites**: Jadwiga ethnicity, wintertouched human heritage (page 11)
 

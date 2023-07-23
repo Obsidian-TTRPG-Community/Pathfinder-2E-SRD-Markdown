@@ -11,7 +11,7 @@ tags:
 aliases: ["Containment Contraption"]
 ---
 # Containment Contraption *Item 8*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 500 gp
 - **Usage** worn armor; **Bulk** 6
@@ -24,7 +24,7 @@ title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "S
 
 The containment contraption fills with breathable air and filters exterior air or water to create more breathable air for you, as needed. This state persists for up to 1 hour, during which time you can breathe normally in environments where you normally couldn't.
 
-During this time, your circumstance bonus to saving throws against inhaled toxins increases to +2, and you also gain a +2 circumstance bonus to saves against [olfactory](rules/traits/olfactory-b1.md) effects. This effect ends immediately if the containment contraption becomes [broken](rules/conditions.md#Broken).
+During this time, your circumstance bonus to saving throws against inhaled toxins increases to +2, and you also gain a +2 circumstance bonus to saves against [olfactory](rules/traits/olfactory-b1.md "Olfactory Effect Trait") effects. This effect ends immediately if the containment contraption becomes [broken](rules/conditions.md#Broken).
 ```
 
 *Source: Outlaws of Alkenstar #2: Cradle of Quartz p. 79*

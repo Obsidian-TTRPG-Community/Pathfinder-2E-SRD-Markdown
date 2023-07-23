@@ -8,7 +8,7 @@ tags:
 aliases: ["Fake Blood Pack"]
 ---
 # Fake Blood Pack *Item 0*  
-[consumable](rules/traits/consumable.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  
 
 - **Price** 1 gp
 - **Usage** worn under light armor or clothes; **Bulk** L

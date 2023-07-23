@@ -10,7 +10,7 @@ tags:
 aliases: ["Lesser Dragonstorm"]
 ---
 # Lesser Dragonstorm *Hazard 20*  
-[complex](rules/traits/complex.md)  [environmental](rules/traits/environmental.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Complexity** Complex
 - **Stealth** +38 legendary  

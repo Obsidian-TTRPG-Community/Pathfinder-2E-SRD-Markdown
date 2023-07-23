@@ -10,7 +10,7 @@ tags:
 aliases: ["Wand of Crushing Leaps"]
 ---
 # Wand of Crushing Leaps *Item 4*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [wand](rules/traits/wand.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
 
 - **Price** 80 gp
 - **Usage** held in 1 hand; **Bulk** —

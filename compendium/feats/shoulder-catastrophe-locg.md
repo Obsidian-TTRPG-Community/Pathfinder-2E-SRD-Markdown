@@ -7,7 +7,7 @@ tags:
 aliases: ["Shoulder Catastrophe"]
 ---
 # Shoulder Catastrophe  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Swordmaster Dedication](compendium/feats/swordmaster-dedication-locg.md)
 - **Trigger** An enemy critically succeeds at a [Strike](rules/actions/strike.md) against an adjacent ally.

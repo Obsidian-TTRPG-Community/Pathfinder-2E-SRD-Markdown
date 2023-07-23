@@ -10,7 +10,7 @@ tags:
 aliases: ["Black Cat Curse"]
 ---
 # Black Cat Curse  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 13*  
-[catfolk](rules/traits/catfolk-b1.md)  [divination](rules/traits/divination.md)  [misfortune](rules/traits/misfortune.md)  [occult](rules/traits/occult.md)  
+[catfolk](rules/traits/catfolk-b1.md "Catfolk Ancestry & Heritage Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [misfortune](rules/traits/misfortune.md "Misfortune Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 - **Frequency**: once per day
 - **Trigger** A creature within 30 feet you can see would succeed at a save.

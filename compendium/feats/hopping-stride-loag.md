@@ -7,7 +7,7 @@ tags:
 aliases: ["Hopping Stride"]
 ---
 # Hopping Stride  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 5*  
-[dhampir](rules/traits/dhampir-b1.md)  
+[dhampir](rules/traits/dhampir-b1.md "Dhampir Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Ru-Shi](compendium/feats/ru-shi-loag.md)
 - **Activity** Single Action

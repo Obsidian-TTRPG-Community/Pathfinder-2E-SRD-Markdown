@@ -9,7 +9,7 @@ tags:
 aliases: ["Pesh Skin"]
 ---
 # Pesh Skin  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 12*  
-[druid](rules/traits/druid.md)  [morph](rules/traits/morph.md)  [uncommon](rules/traits/uncommon.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  [morph](rules/traits/morph.md "Morph Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Requirements**: You are transformed into a plant by a polymorph spell.
 - **Activity** Single Action

@@ -11,9 +11,9 @@ tags:
 aliases: ["Nature's Reprisal"]
 ---
 # Nature's Reprisal *Spell 6*   
-[plant](rules/traits/plant.md)  [poison](rules/traits/poison.md)  [transmutation](rules/traits/transmutation.md)  
+[plant](rules/traits/plant.md "Plant Creature Type Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md)
+- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**120 foot
 - **Area**all squares on the ground that contain plants in an 80-foot burst

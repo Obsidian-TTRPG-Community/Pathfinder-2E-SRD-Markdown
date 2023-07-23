@@ -9,7 +9,7 @@ tags:
 aliases: ["Impossible Flurry"]
 ---
 # Impossible Flurry  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 18*  
-[flourish](rules/traits/flourish.md)  [open](rules/traits/open.md)  [ranger](rules/traits/ranger.md)  
+[flourish](rules/traits/flourish.md "Flourish Combat Trait")  [open](rules/traits/open.md "Open Combat Trait")  [ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Requirements**: You are wielding two melee weapons, each in a different hand.
 - **Activity** Three-Action

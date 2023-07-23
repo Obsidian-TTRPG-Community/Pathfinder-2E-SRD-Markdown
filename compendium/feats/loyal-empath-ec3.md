@@ -7,7 +7,7 @@ tags:
 aliases: ["Loyal Empath"]
 ---
 # Loyal Empath  *Feat 5*  
-[shoony](rules/traits/shoony-ec3.md)  
+[shoony](rules/traits/shoony-ec3.md "Shoony Ancestry & Heritage Trait")  
 
 
 You have incredible empathy for your friends and family, and you have an innate timing for helping others in distress.

@@ -7,7 +7,7 @@ tags:
 aliases: ["Quadruped"]
 ---
 # Quadruped  *Feat 1*  
-[poppet](rules/traits/poppet-lotgb.md)  
+[poppet](rules/traits/poppet-lotgb.md "Poppet Ancestry & Heritage Trait")  
 
 
 You were crafted in a form with four legs rather than two. Your Speed is 30 feet.

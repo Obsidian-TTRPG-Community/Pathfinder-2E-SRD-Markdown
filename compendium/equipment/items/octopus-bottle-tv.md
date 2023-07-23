@@ -11,7 +11,7 @@ tags:
 aliases: ["Octopus Bottle"]
 ---
 # Octopus Bottle *Item 8*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [expandable](rules/traits/expandable-tv.md)  [uncommon](rules/traits/uncommon.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [expandable](rules/traits/expandable-tv.md "Expandable Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 100 gp
 - **Usage** held in 1 hand; **Bulk** L

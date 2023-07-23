@@ -7,7 +7,7 @@ tags:
 aliases: ["Ratspeak"]
 ---
 # Ratspeak  *Feat 1*  
-[ratfolk](rules/traits/ratfolk-b1.md)  
+[ratfolk](rules/traits/ratfolk-b1.md "Ratfolk Ancestry & Heritage Trait")  
 
 
 To you, the squeaking of rats and other rodents makes a strange kind of sense. You can ask questions of, receive answers from, and use the [Diplomacy](compendium/skills.md#Diplomacy) skill with rodents, including beavers, mice, porcupines, rats, and squirrels, but not with other mammals, such as dogs or bats. The GM determines which animals count as rodents.

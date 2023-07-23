@@ -8,7 +8,7 @@ tags:
 aliases: ["Sabotage"]
 ---
 # Sabotage  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[incapacitation](rules/traits/incapacitation.md)  [rogue](rules/traits/rogue.md)  
+[incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Requirements**: You have a free hand.
 - **Activity** Single Action

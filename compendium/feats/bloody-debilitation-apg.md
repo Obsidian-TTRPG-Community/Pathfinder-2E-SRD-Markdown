@@ -7,7 +7,7 @@ tags:
 aliases: ["Bloody Debilitation"]
 ---
 # Bloody Debilitation  *Feat 12*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Prerequisites**: trained in [Medicine](compendium/skills.md#Medicine), [Debilitating Strike](rules/actions/debilitating-strike.md)
 

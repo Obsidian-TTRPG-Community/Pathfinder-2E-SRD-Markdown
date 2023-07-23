@@ -9,7 +9,7 @@ tags:
 aliases: ["Summoning Rune"]
 ---
 # Summoning Rune *Hazard 1*  
-[complex](rules/traits/complex.md)  [magical](rules/traits/magical.md)  [trap](rules/traits/trap.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +7 trained  
@@ -20,7 +20,7 @@ A cloud of [invisible](rules/conditions.md#Invisible) magical sensors in a 10-fo
      
 ```ad-embed-ability
 title: Summon Monster [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[arcane](rules/traits/arcane.md)  [conjuration](rules/traits/conjuration.md)  summon  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  summon  
 
 - **Trigger**: A creature enters the cloud of magical sensors.
 

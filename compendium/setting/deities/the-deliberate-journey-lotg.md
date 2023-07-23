@@ -12,13 +12,13 @@ tags:
 - domain/wealth/deity
 aliases: ["The Deliberate Journey"]
 ---
-# The Deliberate Journey *([N](rules/traits/neutral-b1.md))*  
+# The Deliberate Journey *([N](rules/traits/n-b1.md "Neutral Alignment Trait"))*  
 *Source: Lost Omens: Travel Guide p. 92*  
 
 - **Category**: Pantheon
 - **Anathema**: fail to prepare for a journey, let chance decide which way to go, put travelers under you care in danger
 - **Areas of Concern**: caravans, , crossroads, , knowing the way, , travel by road
-- **Follower Alignments**: [LN](rules/traits/lawful-neutral-b1.md), [NG](rules/traits/neutral-good-b1.md), [N](rules/traits/neutral-b1.md)
+- **Follower Alignments**: [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait")
 
 ## Devotee benefits
 

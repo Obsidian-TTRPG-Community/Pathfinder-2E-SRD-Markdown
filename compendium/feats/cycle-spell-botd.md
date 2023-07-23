@@ -7,7 +7,7 @@ tags:
 aliases: ["Cycle Spell"]
 ---
 # Cycle Spell  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Soul Warden Dedication](compendium/feats/soul-warden-dedication-botd.md)
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Sound Mirror"]
 ---
 # Sound Mirror  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Alter Ego Dedication](compendium/feats/alter-ego-dedication-da.md)
 

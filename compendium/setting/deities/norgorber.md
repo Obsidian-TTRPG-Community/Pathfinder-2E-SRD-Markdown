@@ -14,13 +14,13 @@ tags:
 - trait/versatile-s
 aliases: ["Norgorber", "Blackfingers", "Father Skinsaw", "Gray Master", "Reaper of Reputation"]
 ---
-# Norgorber (Blackfingers, Father Skinsaw, Gray Master, Reaper of Reputation) *([NE](rules/traits/neutral-evil-b1.md))*  
+# Norgorber (Blackfingers, Father Skinsaw, Gray Master, Reaper of Reputation) *([NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"))*  
 *Source: Core Rulebook p. 439*  
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: allow your true identity to be connected to your dark dealings, share a secret freely, show mercy
 - **Areas of Concern**: greed, , murder, , poison, , and secrets
-- **Follower Alignments**: [LE](rules/traits/lawful-evil-b1.md), [NE](rules/traits/neutral-evil-b1.md), [CE](rules/traits/chaotic-evil-b1.md), [N](rules/traits/neutral-b1.md)
+- **Follower Alignments**: [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"), [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait")
 
 ## Devotee benefits
 
@@ -35,7 +35,7 @@ aliases: ["Norgorber", "Blackfingers", "Father Skinsaw", "Gray Master", "Reaper 
 title: [Avatar](compendium/spells/avatar.md) of Norgorber
 
 - **Speed**: Speed 70 feet, [air walk](compendium/spells/air-walk.md), ignore difficult terrain and greater difficult terrain
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") shortsword ([agile](rules/traits/agile.md), [finesse](rules/traits/finesse.md), [reach <15 feet>](rules/traits/reach.md), [versatile <s>](rules/traits/versatile.md)), **Damage** `6d6+6` piercing
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") shortsword ([agile](rules/traits/agile.md "Agile Weapon Trait"), [finesse](rules/traits/finesse.md "Finesse Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [versatile <s>](rules/traits/versatile-s.md "Versatile Weapon Trait")), **Damage** `6d6+6` piercing
 - **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") blackfinger toss **Damage** `6d6+3` poison
 ```
 
@@ -46,7 +46,7 @@ Norgorber's favor and displeasure are subtle, yet powerful.
 
 - **Minor Boon** Norgorber protects your secrets and lies. Once, when you roll a failure at a [Deception](compendium/skills.md#Deception) check to tell a [Lie](rules/actions/lie.md), you get a critical success instead. Norgorber typically chooses to grant this boon to protect an extremely consequential lie.
 - **Moderate Boon**: Your poisons are everlasting. If your [Strike](rules/actions/strike.md) with a poisoned weapon critically fails, or succeeds but fails to deal slashing or piercing damage, the poison is not spent. The poison is still spent once successfully applied to a creature.
-- **Major Boon**: You become a living secret. You are immune to [divination](rules/traits/divination.md) effects and attempts to magically alter your memory, unless you choose to be affected or those effects come from a deity, artifact, or similarly powerful source. You also can never be tricked or forced by mundane means into uttering a secret you wish to keep.
+- **Major Boon**: You become a living secret. You are immune to [divination](rules/traits/divination.md "Divination School Trait") effects and attempts to magically alter your memory, unless you choose to be affected or those effects come from a deity, artifact, or similarly powerful source. You also can never be tricked or forced by mundane means into uttering a secret you wish to keep.
 
 - **Minor Curse**: Norgorber allows thieves to get the better of you. Whenever you [Earn Income](rules/actions/earn-income.md), you earn money as if the task were 2 levels lower due to theft, loss, or bad fortune.
 - **Moderate Curse** Poisons are quick to debilitate you. When you roll a failure at a Fortitude save against a poison, you get a critical failure instead.

@@ -9,7 +9,7 @@ tags:
 aliases: ["Corpse Stench"]
 ---
 # Corpse Stench  *Feat 12*  
-[archetype](rules/traits/archetype.md)  [aura](rules/traits/aura.md)  [olfactory](rules/traits/olfactory-b1.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [aura](rules/traits/aura.md "Aura Combat Trait")  [olfactory](rules/traits/olfactory-b1.md "Olfactory Effect Trait")  
 
 - **Prerequisites**: [Ghoul Dedication](compendium/feats/ghoul-dedication-botd.md)
 

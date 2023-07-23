@@ -10,7 +10,7 @@ tags:
 aliases: ["Invoke The Crimson Oath"]
 ---
 # Invoke The Crimson Oath *Focus 2*   
-[evocation](rules/traits/evocation.md)  [uncommon](rules/traits/uncommon.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**20-foot cone

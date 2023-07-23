@@ -7,7 +7,7 @@ tags:
 aliases: ["Universal Versatility"]
 ---
 # Universal Versatility  *Feat 8*  
-[wizard](rules/traits/wizard.md)  
+[wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Prerequisites**: Universalist wizard, [Hand of the Apprentice](compendium/feats/hand-of-the-apprentice.md)
 

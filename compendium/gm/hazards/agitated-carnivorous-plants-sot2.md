@@ -8,7 +8,7 @@ tags:
 aliases: ["Agitated Carnivorous Plants"]
 ---
 # Agitated Carnivorous Plants *Hazard 5*  
-[environmental](rules/traits/environmental.md)  [uncommon](rules/traits/uncommon.md)  
+[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 20 trained  
@@ -19,7 +19,7 @@ Many carnivorous plants that were once kept satiated now hunger for any meat the
 
 - **AC** 20 , **Fort** +17, **Ref** +9
 - **HP** 60 (BT 30)
-- **Immunities** [mental](rules/traits/mental.md)
+- **Immunities** [mental](rules/traits/mental.md "Mental Effect Trait")
 - **Resistances** 
 - **Weaknesses** acid 10; fire 10; slashing 10
      

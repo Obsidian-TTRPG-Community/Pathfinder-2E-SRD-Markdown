@@ -7,7 +7,7 @@ tags:
 aliases: ["Arrow Snatching"]
 ---
 # Arrow Snatching  *Feat 8*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Prerequisites**: [Deflect Arrow](compendium/feats/deflect-arrow.md)
 

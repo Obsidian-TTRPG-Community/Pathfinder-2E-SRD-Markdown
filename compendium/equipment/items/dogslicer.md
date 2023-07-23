@@ -12,7 +12,7 @@ tags:
 aliases: ["Dogslicer"]
 ---
 # Dogslicer *Item 0*  
-[agile](rules/traits/agile.md)  [backstabber](rules/traits/backstabber.md)  [finesse](rules/traits/finesse.md)  [goblin](rules/traits/goblin.md)  [uncommon](rules/traits/uncommon.md)  
+[agile](rules/traits/agile.md "Agile Weapon Trait")  [backstabber](rules/traits/backstabber.md "Backstabber Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [goblin](rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1 sp
 - **Bulk** L

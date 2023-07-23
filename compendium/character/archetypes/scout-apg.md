@@ -15,7 +15,7 @@ You're an expert in espionage and reconnaissance, able to skulk silently through
 title: Scout Dedication, Feat 2
 collapse: closed
 # Scout Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: trained in [Stealth](compendium/skills.md#Stealth) and [Survival](compendium/skills.md#Survival)
 
@@ -31,7 +31,7 @@ You are a highly skilled scout, capable of providing your allies a timely warnin
 title: Scout's Charge, Feat 4
 collapse: closed
 # Scout's Charge  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  [flourish](rules/traits/flourish.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 - **Prerequisites**: [Scout Dedication](compendium/feats/scout-dedication-apg.md)
 - **Activity** Two-Action
@@ -46,7 +46,7 @@ You meander around unpredictably, and then ambush your opponents without warning
 title: Terrain Scout, Feat 4
 collapse: closed
 # Terrain Scout  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Scout Dedication](compendium/feats/scout-dedication-apg.md)
 
@@ -60,7 +60,7 @@ You gain the [Terrain Stalker](compendium/feats/terrain-stalker.md) skill feat (
 title: Fleeting Shadow, Feat 6
 collapse: closed
 # Fleeting Shadow  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  [flourish](rules/traits/flourish.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 - **Prerequisites**: [Scout Dedication](compendium/feats/scout-dedication-apg.md)
 - **Activity** Two-Action
@@ -75,7 +75,7 @@ You're able to quickly disappear and then move about stealthily. You [Hide](rule
 title: Scout's Speed, Feat 6
 collapse: closed
 # Scout's Speed  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Scout Dedication](compendium/feats/scout-dedication-apg.md)
 
@@ -89,7 +89,7 @@ You move faster, especially when traveling, allowing you to scout ahead and repo
 title: Scout's Pounce, Feat 10
 collapse: closed
 # Scout's Pounce  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 10*  
-[archetype](rules/traits/archetype.md)  [flourish](rules/traits/flourish.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 - **Prerequisites**: [Scout Dedication](compendium/feats/scout-dedication-apg.md)
 - **Requirements**: You are [hidden](rules/conditions.md#Hidden) from or [undetected](rules/conditions.md#Undetected) by all of your opponents, and you aren't within 10 feet of any enemy.
@@ -105,7 +105,7 @@ You leap from the shadows to strike your foes. [Stride](rules/actions/stride.md)
 title: Camouflage, Feat 12*
 collapse: closed
 # Camouflage  *Feat 12*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 > [!pf2-note] This version of [Camouflage](compendium/feats/camouflage.md) is intended for use with the Scout Archetype. Its level has been changed accordingly.
 

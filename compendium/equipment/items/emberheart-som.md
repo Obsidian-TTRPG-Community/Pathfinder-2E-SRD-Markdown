@@ -11,7 +11,7 @@ tags:
 aliases: ["Emberheart"]
 ---
 # Emberheart *Item 18*  
-[apex](rules/traits/apex.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  
+[apex](rules/traits/apex.md "Apex Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 - **Price** 24000 gp
 - **Usage** worn
@@ -23,7 +23,7 @@ When you invest the amulet, you either increase your Constitution score by 2 or 
 
 ```ad-embed-ability
 title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
-[healing](rules/traits/healing.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [positive](rules/traits/positive.md)  
+[healing](rules/traits/healing.md "Healing Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  
 
 You hold the amulet aloft as a ripple of warm orange light exudes outward. Each ally in a 30-foot emanation regains 30 Hit Points and gains a +3 status bonus to Fortitude saves until the end of their next turn.  
 %% #trait/healing #trait/magical #trait/necromancy #trait/positive %%

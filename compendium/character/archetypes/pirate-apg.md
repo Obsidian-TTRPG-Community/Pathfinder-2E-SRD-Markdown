@@ -17,7 +17,7 @@ Pirates have much in common with swashbucklers, and many pirates have the swashb
 title: Pirate Dedication, Feat 2
 collapse: closed
 # Pirate Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: trained in [Intimidation](compendium/skills.md#Intimidation)
 
@@ -25,7 +25,7 @@ As a pirate, you sail the seas in search of enemy ships to plunder. You become t
 
 ```ad-embed-ability
 title: Boarding Assault [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
-[flourish](rules/traits/flourish.md)  
+[flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 Either [Stride](rules/actions/stride.md) twice or attempt an [Acrobatics](compendium/skills.md#Acrobatics) check (DC determined by the GM, but usually DC 20) to swing on a rope up to twice your Speed. If you boarded or disembarked from a boat or similar vehicle during this movement, you can make a melee [Strike](rules/actions/strike.md) that deals one additional weapon damage die.  
 %% #trait/flourish %%
@@ -41,7 +41,7 @@ Either [Stride](rules/actions/stride.md) twice or attempt an [Acrobatics](compen
 title: Pirate Weapon Training, Feat 4
 collapse: closed
 # Pirate Weapon Training  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Pirate Dedication](compendium/feats/pirate-dedication-apg.md)
 
@@ -55,7 +55,7 @@ You're particularly skilled at wielding traditional pirate weapons. You become t
 title: Rope Runner, Feat 4
 collapse: closed
 # Rope Runner  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Pirate Dedication](compendium/feats/pirate-dedication-apg.md); trained in [Acrobatics](compendium/skills.md#Acrobatics) and [Athletics](compendium/skills.md#Athletics)
 
@@ -69,12 +69,12 @@ You run and climb across ropes and rigging almost as easily as on the ground. Yo
 title: Walk The Plank, Feat 8
 collapse: closed
 # Walk The Plank  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Pirate Dedication](compendium/feats/pirate-dedication-apg.md)
 - **Activity** Two-Action
 
-You frighten a foe into moving where you want them, traditionally demanding they walk the plank. Attempt to [Demoralize](rules/actions/demoralize.md) an opponent; this check gains the [incapacitation](rules/traits/incapacitation.md) trait. On a success, in addition to the normal effects, you can also force the target to [Stride](rules/actions/stride.md) up to its Speed. You choose the path the target takes, and it does so as part of your Walk the Plank action. You can't force the target to move into a harmful space (one where it will take damage, fall, provoke reactions, or similar) unless the result of your check to [Demoralize](rules/actions/demoralize.md) was a critical success. The target then becomes temporarily immune to Walk the Plank for 24 hours.
+You frighten a foe into moving where you want them, traditionally demanding they walk the plank. Attempt to [Demoralize](rules/actions/demoralize.md) an opponent; this check gains the [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait") trait. On a success, in addition to the normal effects, you can also force the target to [Stride](rules/actions/stride.md) up to its Speed. You choose the path the target takes, and it does so as part of your Walk the Plank action. You can't force the target to move into a harmful space (one where it will take damage, fall, provoke reactions, or similar) unless the result of your check to [Demoralize](rules/actions/demoralize.md) was a critical success. The target then becomes temporarily immune to Walk the Plank for 24 hours.
 
 *Source: Advanced Player's Guide p. 185*  
 %% #trait/archetype %%

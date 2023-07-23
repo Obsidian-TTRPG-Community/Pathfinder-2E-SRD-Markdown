@@ -8,7 +8,7 @@ tags:
 aliases: ["Tangle Of Battle"]
 ---
 # Tangle Of Battle  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
-[barbarian](rules/traits/barbarian.md)  [rage](rules/traits/rage.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [rage](rules/traits/rage.md "Rage Combat Trait")  
 
 - **Trigger** You critically hit an adjacent enemy.
 - **Activity** Reaction

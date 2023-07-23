@@ -7,7 +7,7 @@ tags:
 aliases: ["Death's Door"]
 ---
 # Death's Door  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Swordmaster Dedication](compendium/feats/swordmaster-dedication-locg.md)
 - **Frequency**: once per 10 minutes

@@ -12,7 +12,7 @@ tags:
 aliases: ["Forgotten Signet"]
 ---
 # Forgotten Signet *Item 21*  
-[artifact](rules/traits/artifact-gmg.md)  [enchantment](rules/traits/enchantment.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** worn; **Bulk** —
 - **Category** Artifact

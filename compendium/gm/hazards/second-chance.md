@@ -8,7 +8,7 @@ tags:
 aliases: ["Second Chance"]
 ---
 # Second Chance *Hazard 21*  
-[magical](rules/traits/magical.md)  [trap](rules/traits/trap.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 44 legendary  
@@ -19,7 +19,7 @@ Powerful warding magic tied to an object or location tries to regress the ages o
      
 ```ad-embed-ability
 title: In the Beginning [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[divine](rules/traits/divine.md)  [transmutation](rules/traits/transmutation.md)  
+[divine](rules/traits/divine.md "Divine Tradition Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Trigger**: A creature tries to steal the object or intrude upon the location.
 

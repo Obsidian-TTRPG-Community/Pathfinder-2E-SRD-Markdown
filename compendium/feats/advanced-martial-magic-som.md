@@ -7,7 +7,7 @@ tags:
 aliases: ["Advanced Martial Magic"]
 ---
 # Advanced Martial Magic  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Martial Magic](compendium/feats/basic-martial-magic-som.md)
 

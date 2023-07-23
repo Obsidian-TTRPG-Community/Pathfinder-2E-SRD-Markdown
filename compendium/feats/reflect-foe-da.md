@@ -7,7 +7,7 @@ tags:
 aliases: ["Reflect Foe"]
 ---
 # Reflect Foe  *Feat 17*  
-[reflection](rules/traits/reflection-da.md)  
+[reflection](rules/traits/reflection-da.md "Reflection Ancestry & Heritage Trait")  
 
 
 You create a copy of a foe by calling them forth from a nearby reflection, clonally growing them in an instant from one of your hairs or otherwise creating them in a way that matches your own nature as a reflection. You can cast [duplicate foe](compendium/spells/duplicate-foe.md) once per day as an innate occult spell. At 20th level, your innate duplicate foe is heightened to 8th level.

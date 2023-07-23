@@ -7,7 +7,7 @@ tags:
 aliases: ["Advanced Bow Training"]
 ---
 # Advanced Bow Training  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Archer Dedication](compendium/feats/archer-dedication-apg.md)
 

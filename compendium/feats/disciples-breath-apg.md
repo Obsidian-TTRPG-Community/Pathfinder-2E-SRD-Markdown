@@ -7,7 +7,7 @@ tags:
 aliases: ["Disciple's Breath"]
 ---
 # Disciple's Breath  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 16*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Dragon Disciple Dedication](compendium/feats/dragon-disciple-dedication-apg.md), [dragon breath](compendium/spells/dragon-breath.md) sorcerer bloodline spell
 - **Activity** Two-Action

@@ -8,7 +8,7 @@ tags:
 aliases: ["Familiar's Language"]
 ---
 # Familiar's Language  *Feat 2*  
-[divination](rules/traits/divination.md)  [witch](rules/traits/witch-apg.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [witch](rules/traits/witch-apg.md "Witch Class Trait")  
 
 - **Prerequisites**: a familiar
 
