@@ -15,7 +15,7 @@ The particularly volatile compounds that you brew into your bombs result in them
 
 ## Expanded Splash leads to...
 
-[Mega Bomb](compendium/feats/mega-bomb.md), Controlled Blast
+[Mega Bomb](compendium/feats/mega-bomb.md), [Controlled Blast](compendium/feats/controlled-blast-g-g.md)
 
 ## Summary
 

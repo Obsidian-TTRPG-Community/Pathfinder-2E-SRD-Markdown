@@ -14,7 +14,7 @@ You can lob bombs with great force and a precise trajectory to angle the splash 
 
 ## Directional Bombs leads to...
 
-Controlled Blast
+[Controlled Blast](compendium/feats/controlled-blast-g-g.md)
 
 ## Summary
 

@@ -41,7 +41,7 @@ collapse: closed
 
 - **Prerequisites**: [Drow Shootist Dedication](compendium/feats/drow-shootist-dedication-av3.md)
 
-You become trained in the repeating hand crossbow and gain access to repeating hand crossbows and [shootist bandoliers](compendium/equipment/items/shootist-bandolier-av3.md). Whenever you gain a class feature that grants you expert or greater proficiency in a given weapon or weapons, you also gain that proficiency in the repeating hand crossbow. If you're at least an expert in a repeating hand crossbow you're using, you gain access to its critical specialization effect. You can perform the Shootist's Draw action with repeating hand crossbows.
+You become trained in the [repeating hand crossbow](compendium/equipment/items/repeating-hand-crossbow-g-g.md) and gain access to [repeating hand crossbows](compendium/equipment/items/repeating-hand-crossbow-g-g.md) and [shootist bandoliers](compendium/equipment/items/shootist-bandolier-av3.md). Whenever you gain a class feature that grants you expert or greater proficiency in a given weapon or weapons, you also gain that proficiency in the repeating hand crossbow. If you're at least an expert in a [repeating hand crossbow](compendium/equipment/items/repeating-hand-crossbow-g-g.md) you're using, you gain access to its critical specialization effect. You can perform the Shootist's Draw action with [repeating hand crossbows](compendium/equipment/items/repeating-hand-crossbow-g-g.md).
 
 **Special.** If you have the [Running Reload](compendium/feats/running-reload.md) feat, you can reload a repeating hand crossbow magazine on the move. You can use [Running Reload](compendium/feats/running-reload.md) as a 3-action activity to reload a magazine into a repeating hand crossbow after you [Stride](rules/actions/stride.md), [Step](rules/actions/step.md), or [Sneak](rules/actions/sneak.md), or as a 2-action activity if you use a magazine from a shootist bandolier.
 
@@ -62,7 +62,7 @@ collapse: closed
 
 You can fire off a single shot even when unprepared. You [Interact](rules/actions/interact.md) to reload your hand crossbow and [Strike](rules/actions/strike.md) with it.
 
-**Special.** If you have the [Repeating Hand Crossbow Training](compendium/feats/repeating-hand-crossbow-training-av3.md) feat, you can use this feat with a repeating hand crossbow to load either a bolt or a magazine, but the speed means you can fire only one bolt, then the magazine jams. You must spend a 3-action [Interact](rules/actions/interact.md) activity to remove the jammed magazine and clear it before it can be used again.
+**Special.** If you have the [Repeating Hand Crossbow Training](compendium/feats/repeating-hand-crossbow-training-av3.md) feat, you can use this feat with a [repeating hand crossbow](compendium/equipment/items/repeating-hand-crossbow-g-g.md) to load either a bolt or a magazine, but the speed means you can fire only one bolt, then the magazine jams. You must spend a 3-action [Interact](rules/actions/interact.md) activity to remove the jammed magazine and clear it before it can be used again.
 
 *Source: Abomination Vaults #3: Eyes of Empty Death p. 77*  
 %% #trait/archetype #trait/manipulate %%

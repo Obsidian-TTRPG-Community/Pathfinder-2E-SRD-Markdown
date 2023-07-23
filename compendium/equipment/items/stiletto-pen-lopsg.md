@@ -12,7 +12,7 @@ tags:
 aliases: ["Stiletto Pen"]
 ---
 # Stiletto Pen *Item 1*  
-[agile](rules/traits/agile.md "Agile Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [thrown <10 feet>](rules/traits/thrown-10-feet.md "Thrown Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  concealable  
+[agile](rules/traits/agile.md "Agile Weapon Trait")  [concealable](rules/traits/concealable-g-g.md "Concealable Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [thrown <10 feet>](rules/traits/thrown-10-feet.md "Thrown Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 8 gp
 - **Bulk** L

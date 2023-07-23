@@ -18,7 +18,7 @@ You've learned to create a limited number of snares at no cost. Each day during 
 
 ## Snarecrafter Dedication leads to...
 
-[Giant Snare](compendium/feats/giant-snare-apg.md), [Plentiful Snares](compendium/feats/plentiful-snares-apg.md), [Remote Trigger](compendium/feats/remote-trigger-apg.md), [Surprise Snare](compendium/feats/surprise-snare-apg.md), Trapsmith Dedication, Finessed Features, Gear Gnash, Propeller Attachment, Recycled Cogwheels, Repurposed Parts
+[Giant Snare](compendium/feats/giant-snare-apg.md), [Plentiful Snares](compendium/feats/plentiful-snares-apg.md), [Remote Trigger](compendium/feats/remote-trigger-apg.md), [Surprise Snare](compendium/feats/surprise-snare-apg.md), [Trapsmith Dedication](compendium/feats/trapsmith-dedication-g-g.md), [Finessed Features](compendium/feats/finessed-features-g-g.md), [Gear Gnash](compendium/feats/gear-gnash-g-g.md), [Propeller Attachment](compendium/feats/propeller-attachment-g-g.md), [Recycled Cogwheels](compendium/feats/recycled-cogwheels-g-g.md), [Repurposed Parts](compendium/feats/repurposed-parts-g-g.md)
 
 ## Summary
 

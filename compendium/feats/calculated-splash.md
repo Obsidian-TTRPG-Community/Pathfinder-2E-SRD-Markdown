@@ -14,7 +14,7 @@ You have calculated all the angles to maximize a bomb's splash. When you throw a
 
 ## Calculated Splash leads to...
 
-[Expanded Splash](compendium/feats/expanded-splash.md), [Mega Bomb](compendium/feats/mega-bomb.md), Controlled Blast
+[Expanded Splash](compendium/feats/expanded-splash.md), [Mega Bomb](compendium/feats/mega-bomb.md), [Controlled Blast](compendium/feats/controlled-blast-g-g.md)
 
 ## Summary
 

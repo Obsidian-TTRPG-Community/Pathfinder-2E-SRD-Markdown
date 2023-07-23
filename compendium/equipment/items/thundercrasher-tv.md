@@ -21,7 +21,7 @@ While looking straight down the barrel of this +1 striking blunderbussG&G, the s
 ```ad-embed-ability
 title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 
-You overload the thundercrasher to emit chaotic sonic frequencies that soften earth and stone. When you next fire the thundercrasher it also partially liquefies any natural earth or stone surfaces within range of its scatter trait, making the area difficult terrain.
+You overload the thundercrasher to emit chaotic sonic frequencies that soften earth and stone. When you next fire the thundercrasher it also partially liquefies any natural earth or stone surfaces within range of its [scatter](rules/traits/scatter-g-g.md "Scatter Weapon Trait") trait, making the area difficult terrain.
 ```
 
 *Source: Treasure Vault p. 39*

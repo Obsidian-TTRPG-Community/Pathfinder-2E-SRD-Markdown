@@ -11,7 +11,7 @@ tags:
 aliases: ["Clockwork Helm"]
 ---
 # Clockwork Helm *Item 17*  
-[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  clockwork  
+[clockwork](rules/traits/clockwork-g-g.md "Clockwork  Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 13000 gp
 - **Usage** worn headwear; **Bulk** L

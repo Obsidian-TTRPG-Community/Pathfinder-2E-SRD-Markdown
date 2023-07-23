@@ -21,7 +21,7 @@ A gyroscopic stabilizer appears as a gold disk suspended within three rotating g
 ```ad-embed-ability
 title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 
-- **Requirements**: The gyroscopic stabilizer is attached to a one-handed firearm without the [fatal](rules/traits/fatal.md "Fatal Weapon Trait") or fatal aim traits
+- **Requirements**: The gyroscopic stabilizer is attached to a one-handed firearm without the [fatal](rules/traits/fatal.md "Fatal Weapon Trait") or [fatal aim](rules/traits/fatal-aim-g-g.md "Fatal Aim Weapon Trait") traits
 
 **Effect** The gyroscopic stabilizer begins spinning for 1 minute. While the gyroscopic stabilizer is spinning, the weapon it's attached to gains the fatal aim weapon trait (Pathfinder Guns & Gears 232) with a die one size larger than its damage die (maximum d12). This allows you to wield it in two hands to grant it the [fatal](rules/traits/fatal.md "Fatal Weapon Trait") trait.
 ```

@@ -8,7 +8,7 @@ tags:
 aliases: ["Wind Them Up"]
 ---
 # Wind Them Up [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
-gunslinger  
+[gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  
 *Source: Lost Omens: Impossible Lands p. 108*  
 
 **Class** gunslinger; **Subclass** Triggerbrand

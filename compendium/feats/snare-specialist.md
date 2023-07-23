@@ -17,7 +17,7 @@ Each day during your daily preparations, you can prepare four snares from your f
 
 ## Snare Specialist leads to...
 
-[Lightning Snares](compendium/feats/lightning-snares.md), [Powerful Snares](compendium/feats/powerful-snares.md), [Quick Snares](compendium/feats/quick-snares.md), [Ubiquitous Snares](compendium/feats/ubiquitous-snares.md), [Impossible Snares](compendium/feats/impossible-snares-apg.md), Trapsmith Dedication, Finessed Features, Gear Gnash, Propeller Attachment, Recycled Cogwheels, Repurposed Parts
+[Lightning Snares](compendium/feats/lightning-snares.md), [Powerful Snares](compendium/feats/powerful-snares.md), [Quick Snares](compendium/feats/quick-snares.md), [Ubiquitous Snares](compendium/feats/ubiquitous-snares.md), [Impossible Snares](compendium/feats/impossible-snares-apg.md), [Trapsmith Dedication](compendium/feats/trapsmith-dedication-g-g.md), [Finessed Features](compendium/feats/finessed-features-g-g.md), [Gear Gnash](compendium/feats/gear-gnash-g-g.md), [Propeller Attachment](compendium/feats/propeller-attachment-g-g.md), [Recycled Cogwheels](compendium/feats/recycled-cogwheels-g-g.md), [Repurposed Parts](compendium/feats/repurposed-parts-g-g.md)
 
 ## Summary
 

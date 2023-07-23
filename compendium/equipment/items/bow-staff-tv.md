@@ -13,7 +13,7 @@ tags:
 aliases: ["Bow Staff"]
 ---
 # Bow Staff *Item 1*  
-combination  
+[combination](rules/traits/combination-g-g.md "Combination Weapon Trait")  
 
 - **Price** 4 gp
 - **Bulk** 1
