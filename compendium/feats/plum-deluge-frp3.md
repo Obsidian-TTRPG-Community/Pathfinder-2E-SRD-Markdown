@@ -8,7 +8,7 @@ tags:
 aliases: ["Plum Deluge"]
 ---
 # Plum Deluge  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 20*  
-[alchemist](rules/traits/alchemist.md)  [uncommon](rules/traits/uncommon.md)  
+[alchemist](rules/traits/alchemist.md "Alchemist Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Requirements**: You have at least three of the same contact poison.
 - **Activity** Three-Action

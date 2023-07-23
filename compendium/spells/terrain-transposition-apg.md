@@ -11,7 +11,7 @@ tags:
 aliases: ["Terrain Transposition"]
 ---
 # Terrain Transposition *Focus 5*   
-[conjuration](rules/traits/conjuration.md)  [ranger](rules/traits/ranger.md)  [teleportation](rules/traits/teleportation.md)  [uncommon](rules/traits/uncommon.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [ranger](rules/traits/ranger.md "Ranger Class Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**90 foot

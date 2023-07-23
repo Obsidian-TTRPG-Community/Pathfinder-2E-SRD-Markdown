@@ -7,7 +7,7 @@ tags:
 aliases: ["Cold Spot"]
 ---
 # Cold Spot *Hazard 1*  
-[haunt](rules/traits/haunt.md)  
+[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 17 trained  
@@ -18,7 +18,7 @@ The temperature suddenly drops as spectral forces gather in the area.
      
 ```ad-embed-ability
 title: Sudden Chill [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[cold](rules/traits/cold.md)  [evocation](rules/traits/evocation.md)  [occult](rules/traits/occult.md)  
+[cold](rules/traits/cold.md "Cold Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 - **Trigger**: A living creature enters the area
 

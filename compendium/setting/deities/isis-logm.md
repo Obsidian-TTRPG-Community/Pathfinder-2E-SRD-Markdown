@@ -10,12 +10,12 @@ tags:
 - domain/passion/deity
 aliases: ["Isis", "Queen of Miracles"]
 ---
-# Isis (Queen of Miracles) *([NG](rules/traits/neutral-good-b1.md))*  
+# Isis (Queen of Miracles) *([NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 124*  
 
 - **Category**: Ancient Osirian Gods
 - **Anathema**: Reveal sacred rites to the uninitiated, betray your children or your lover, discriminate based on social status
-- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [NG](rules/traits/neutral-good-b1.md), [CG](rules/traits/chaotic-good-b1.md)
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")
 
 ## Devotee benefits
 

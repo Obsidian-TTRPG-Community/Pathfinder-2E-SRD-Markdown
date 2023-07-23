@@ -11,7 +11,7 @@ tags:
 aliases: ["Cassock of Devotion"]
 ---
 # Cassock of Devotion *Item 11*  
-[divination](rules/traits/divination.md)  [divine](rules/traits/divine.md)  [focused](rules/traits/focused.md)  [invested](rules/traits/invested.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [focused](rules/traits/focused.md "Focused Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  
 
 - **Price** 1150 gp
 - **Usage** worn garment; **Bulk** L

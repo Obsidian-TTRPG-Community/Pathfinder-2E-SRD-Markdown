@@ -9,13 +9,13 @@ tags:
 aliases: ["Animal Form"]
 ---
 # Animal Form *Spell 2*   
-[polymorph](rules/traits/polymorph.md)  [transmutation](rules/traits/transmutation.md)  
+[polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md)
+- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Duration**1 minute
 
-You call upon primal energy to transform yourself into a Medium animal battle form. When you first cast this spell, choose ape, bear, bull, canine, cat, deer, frog, shark, or snake. You can decide the specific type of animal (such as lion or snow leopard for cat), but this has no effect on the form's Size or statistics. While in this form, you gain the [animal](rules/traits/animal.md) trait. You can [Dismiss](rules/actions/dismiss.md) the spell.
+You call upon primal energy to transform yourself into a Medium animal battle form. When you first cast this spell, choose ape, bear, bull, canine, cat, deer, frog, shark, or snake. You can decide the specific type of animal (such as lion or snow leopard for cat), but this has no effect on the form's Size or statistics. While in this form, you gain the [animal](rules/traits/animal.md "Animal Creature Type Trait") trait. You can [Dismiss](rules/actions/dismiss.md) the spell.
 
 You gain the following statistics and abilities regardless of which battle form you choose:
 
@@ -25,10 +25,10 @@ You gain the following statistics and abilities regardless of which battle form 
 - One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can [Strike](rules/actions/strike.md) with. You're trained with them. Your attack modifier is +9, and your damage bonus is +1. These attacks are Strength based (for the purpose of the [enfeebled](rules/conditions.md#Enfeebled) condition, for example). If your unarmed attack bonus is higher, you can use it instead.
 - [Athletics](compendium/skills.md#Athletics) modifier of +9, unless your own modifier is higher. You also gain specific abilities based on the type of animal you choose:
 - **Ape** Speed 25 feet, climb Speed 20 feet; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") fist, **Damage** `2d6` bludgeoning.
-- **Bear** Speed 30 feet; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") jaws, **Damage** `2d8` piercing; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") claw ([agile](rules/traits/agile.md)), **Damage** `1d8` slashing.
+- **Bear** Speed 30 feet; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") jaws, **Damage** `2d8` piercing; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") claw ([agile](rules/traits/agile.md "Agile Weapon Trait")), **Damage** `1d8` slashing.
 - **Bull** Speed 30 feet; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") horn, **Damage** `2d8` piercing.
 - **Canine** Speed 40 feet; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") jaws, **Damage** `2d8` piercing.
-- **Cat** Speed 40 feet; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") jaws, **Damage** `2d6` piercing; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") claw ([agile](rules/traits/agile.md)), **Damage** `1d10` slashing.
+- **Cat** Speed 40 feet; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") jaws, **Damage** `2d6` piercing; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") claw ([agile](rules/traits/agile.md "Agile Weapon Trait")), **Damage** `1d10` slashing.
 - **Deer** Speed 50 feet; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") antler, **Damage** `2d6` piercing.
 - **Frog** Speed 25 feet, swim Speed 25 feet; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") jaws, **Damage** `2d6` bludgeoning; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") tongue (reach <15 feet>), **Damage** `2d4` bludgeoning.
 - **Shark** swim Speed 35 feet; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") jaws, **Damage** `2d8` piercing; breathe underwater but not in air.

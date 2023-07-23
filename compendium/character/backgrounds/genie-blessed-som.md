@@ -20,7 +20,7 @@ You're trained in the [Diplomacy](compendium/skills.md#Diplomacy) skill and the 
 
 ```ad-embed-ability
 title: Wish for Luck [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
-[arcane](rules/traits/arcane.md)  [auditory](rules/traits/auditory.md)  [divination](rules/traits/divination.md)  [fortune](rules/traits/fortune.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  
 
 - **Trigger**: You are about to roll an attack roll, saving throw, or skill check
 

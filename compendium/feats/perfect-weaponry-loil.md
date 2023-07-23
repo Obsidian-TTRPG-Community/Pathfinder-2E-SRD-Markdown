@@ -7,7 +7,7 @@ tags:
 aliases: ["Perfect Weaponry"]
 ---
 # Perfect Weaponry  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: Student of Perfection Dedication
 

@@ -12,7 +12,7 @@ tags:
 aliases: ["Arboreal Staff"]
 ---
 # Arboreal Staff *Item 12*  
-[divination](rules/traits/divination.md)  [intelligent](rules/traits/intelligent-gmg.md)  [primal](rules/traits/primal.md)  [rare](rules/traits/rare.md)  [staff](rules/traits/staff.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [intelligent](rules/traits/intelligent-gmg.md "Intelligent Item Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Staff

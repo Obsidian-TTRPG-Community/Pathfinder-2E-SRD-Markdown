@@ -9,9 +9,9 @@ tags:
 aliases: ["Talking Corpse"]
 ---
 # Talking Corpse *Spell 4*   
-[necromancy](rules/traits/necromancy.md)  [uncommon](rules/traits/uncommon.md)  
+[necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md), [occult](rules/traits/occult.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 10 minutes 
 - **Range**touch
 - **Targets**1 corpse

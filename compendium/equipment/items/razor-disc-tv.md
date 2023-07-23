@@ -9,7 +9,7 @@ tags:
 aliases: ["Razor Disc"]
 ---
 # Razor Disc *Item 0*  
-[integrated <1d6 S>](rules/traits/integrated-tv.md)  shield throw <20 ft.>  
+[integrated <1d6 S>](rules/traits/integrated-1d6-s-tv.md "Integrated Item Trait")  shield throw <20 ft.>  
 
 - **Price** 5 gp
 - **Bulk** 1

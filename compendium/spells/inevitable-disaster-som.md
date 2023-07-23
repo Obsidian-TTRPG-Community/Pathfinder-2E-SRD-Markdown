@@ -10,9 +10,9 @@ tags:
 aliases: ["Inevitable Disaster"]
 ---
 # Inevitable Disaster *Spell 5*   
-[curse](rules/traits/curse.md)  [divination](rules/traits/divination.md)  [prediction](rules/traits/prediction.md)  
+[curse](rules/traits/curse.md "Curse Effect Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [prediction](rules/traits/prediction.md "Prediction Effect Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md), [occult](rules/traits/occult.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**60 foot
 - **Targets**1 creature

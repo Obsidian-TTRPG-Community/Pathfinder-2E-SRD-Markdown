@@ -7,7 +7,7 @@ tags:
 aliases: ["Pack Tactics"]
 ---
 # Pack Tactics  *Feat 9*  
-[beastkin](rules/traits/beastkin-loag.md)  
+[beastkin](rules/traits/beastkin-loag.md "Beastkin Ancestry & Heritage Trait")  
 
 
 You have mastered how to hunt with your pack. If an enemy is within reach of you and at least two of your allies, that enemy is [flat-footed](rules/conditions.md#Flat-footed) against you.

@@ -11,7 +11,7 @@ tags:
 aliases: ["Rat Form"]
 ---
 # Rat Form  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 9*  
-[concentrate](rules/traits/concentrate.md)  [polymorph](rules/traits/polymorph.md)  [primal](rules/traits/primal.md)  [ratfolk](rules/traits/ratfolk-b1.md)  [transmutation](rules/traits/transmutation.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [ratfolk](rules/traits/ratfolk-b1.md "Ratfolk Ancestry & Heritage Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Activity** Single Action
 

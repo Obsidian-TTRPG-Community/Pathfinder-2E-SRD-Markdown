@@ -11,9 +11,9 @@ tags:
 aliases: ["Empathic Link"]
 ---
 # Empathic Link *Spell 2*   
-[divination](rules/traits/divination.md)  [emotion](rules/traits/emotion.md)  [mental](rules/traits/mental.md)  [uncommon](rules/traits/uncommon.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 1 minute 
 - **Range**touch
 - **Targets**1 willing creature

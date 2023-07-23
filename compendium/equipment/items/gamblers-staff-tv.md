@@ -11,7 +11,7 @@ tags:
 aliases: ["Gambler's Staff"]
 ---
 # Gambler's Staff *Item 12*  
-[divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [staff](rules/traits/staff.md)  [uncommon](rules/traits/uncommon.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 2000 gp
 - **Usage** held in 1 hand; **Bulk** 1

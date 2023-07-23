@@ -8,7 +8,7 @@ tags:
 aliases: ["A Home In Every Port"]
 ---
 # A Home In Every Port  *Feat 11*  
-[downtime](rules/traits/downtime.md)  [general](rules/traits/general.md)  
+[downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [general](rules/traits/general.md "General Feat Trait")  
 
 - **Prerequisites**: Charisma 16
 

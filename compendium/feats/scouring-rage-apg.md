@@ -7,7 +7,7 @@ tags:
 aliases: ["Scouring Rage"]
 ---
 # Scouring Rage  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 6*  
-[barbarian](rules/traits/barbarian.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  
 
 - **Prerequisites**: an instinct that allows you to change your additional damage from [Rage](rules/actions/rage.md) to a different damage type
 - **Trigger** You [Rage](rules/actions/rage.md).

@@ -9,7 +9,7 @@ tags:
 aliases: ["Wondrous Figurine"]
 ---
 # Wondrous Figurine *Item 2+*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Held

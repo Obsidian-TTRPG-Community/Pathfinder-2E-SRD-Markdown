@@ -10,9 +10,9 @@ tags:
 aliases: ["Admonishing Ray"]
 ---
 # Admonishing Ray *Spell 1*   
-[attack](rules/traits/attack.md)  [necromancy](rules/traits/necromancy.md)  [nonlethal](rules/traits/nonlethal.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [divine](rules/traits/divine.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**60 foot
 - **Targets**1 creature

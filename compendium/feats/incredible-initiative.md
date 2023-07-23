@@ -7,7 +7,7 @@ tags:
 aliases: ["Incredible Initiative"]
 ---
 # Incredible Initiative  *Feat 1*  
-[general](rules/traits/general.md)  
+[general](rules/traits/general.md "General Feat Trait")  
 
 
 You react more quickly than others can. You gain a +2 circumstance bonus to initiative rolls.

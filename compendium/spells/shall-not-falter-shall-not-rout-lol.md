@@ -10,7 +10,7 @@ tags:
 aliases: ["Shall Not Falter, Shall Not Rout"]
 ---
 # Shall Not Falter, Shall Not Rout *Focus 5*   
-[healing](rules/traits/healing.md)  [necromancy](rules/traits/necromancy.md)  [rare](rules/traits/rare.md)  
+[healing](rules/traits/healing.md "Healing Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Duration**1 minute

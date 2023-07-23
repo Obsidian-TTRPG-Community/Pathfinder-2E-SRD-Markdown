@@ -8,7 +8,7 @@ tags:
 aliases: ["Grappling Bolt"]
 ---
 # Grappling Bolt *Item 0*  
-[uncommon](rules/traits/uncommon.md)  
+[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 2 sp
 - **Ammunition** [bolt](compendium/equipment/items/bolt.md)

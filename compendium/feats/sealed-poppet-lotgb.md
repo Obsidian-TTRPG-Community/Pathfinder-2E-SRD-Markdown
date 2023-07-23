@@ -7,7 +7,7 @@ tags:
 aliases: ["Sealed Poppet"]
 ---
 # Sealed Poppet  *Feat 5*  
-[poppet](rules/traits/poppet-lotgb.md)  
+[poppet](rules/traits/poppet-lotgb.md "Poppet Ancestry & Heritage Trait")  
 
 
 You've reinforced your interior parts with sealant or other flame-retardant materials, protecting you from fire. You no longer have the weakness to fire from the flammable ability.

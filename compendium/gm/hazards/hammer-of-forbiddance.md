@@ -9,7 +9,7 @@ tags:
 aliases: ["Hammer Of Forbiddance"]
 ---
 # Hammer Of Forbiddance *Hazard 11*  
-[magical](rules/traits/magical.md)  [mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 30 expert  
@@ -26,7 +26,7 @@ An enormous hammer at an edifice's entrance swings down in an attempt to damage 
      
 ```ad-embed-ability
 title: Forbid Entry [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[abjuration](rules/traits/abjuration.md)  [attack](rules/traits/attack.md)  [divine](rules/traits/divine.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [attack](rules/traits/attack.md "Attack Combat Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  
 
 - **Trigger**: A creature attempts to enter through the entrance.
 

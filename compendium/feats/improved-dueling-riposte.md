@@ -7,7 +7,7 @@ tags:
 aliases: ["Improved Dueling Riposte"]
 ---
 # Improved Dueling Riposte  *Feat 12*  
-[fighter](rules/traits/fighter.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 - **Prerequisites**: [Dueling Riposte](compendium/feats/dueling-riposte.md)
 

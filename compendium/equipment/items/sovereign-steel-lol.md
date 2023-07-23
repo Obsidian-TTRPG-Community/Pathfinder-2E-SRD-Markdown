@@ -9,7 +9,7 @@ tags:
 aliases: ["Sovereign Steel"]
 ---
 # Sovereign Steel *Item 9+*  
-[precious](rules/traits/precious.md)  [rare](rules/traits/rare.md)  
+[precious](rules/traits/precious.md "Precious Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Category** Material
 
@@ -18,14 +18,14 @@ Created by Black Sovereign Kevoth-Kul, this unique alloy of cold iron and the sk
 | Sovereign Steel Items | Hardness | HP | BT |
 |-----------------------|----------|----|----|
 | **Thin Items** |  |  |  |
-| Standard-grade | 7 | 28 | 14 |
-| High-grade | 10 | 40 | 20 |
+| multiRow |  |
+| multiRow |  |
 | **Items** |  |  |  |
-| Standard-grade | 11 | 44 | 22 |
-| High-grade | 14 | 56 | 28 |
+| multiRow |  |
+| multiRow |  |
 | **Structures** |  |  |  |
-| Standard-grade | 22 | 88 | 44 |
-| High-grade | 28 | 112 | 56 |
+| multiRow |  |
+| multiRow |  |
 
 
 *Source: Lost Omens: Legends p. 77*

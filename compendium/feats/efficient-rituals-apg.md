@@ -7,7 +7,7 @@ tags:
 aliases: ["Efficient Rituals"]
 ---
 # Efficient Rituals  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Ritualist Dedication](compendium/feats/ritualist-dedication-apg.md)
 

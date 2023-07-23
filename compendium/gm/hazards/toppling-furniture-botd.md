@@ -7,7 +7,7 @@ tags:
 aliases: ["Toppling Furniture"]
 ---
 # Toppling Furniture *Hazard 2*  
-[haunt](rules/traits/haunt.md)  
+[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 18 trained to hear the spirit's grunt of exertion as it works to topple the furniture  

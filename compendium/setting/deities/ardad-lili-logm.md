@@ -10,12 +10,12 @@ tags:
 - domain/wyrmkin/deity
 aliases: ["Ardad Lili", "The End of Innocence"]
 ---
-# Ardad Lili (The End of Innocence) *([LE](rules/traits/lawful-evil-b1.md))*  
+# Ardad Lili (The End of Innocence) *([LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 75*  
 
 - **Category**: Queens of the Night
 - **Anathema**: give someone more than you receive from them, allow yourself to be swayed by lust
-- **Follower Alignments**: [LN](rules/traits/lawful-neutral-b1.md), [LE](rules/traits/lawful-evil-b1.md), [NE](rules/traits/neutral-evil-b1.md)
+- **Follower Alignments**: [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"), [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait")
 
 ## Devotee benefits
 

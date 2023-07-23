@@ -10,9 +10,9 @@ tags:
 aliases: ["True Target"]
 ---
 # True Target *Spell 7*   
-[divination](rules/traits/divination.md)  [fortune](rules/traits/fortune.md)  [prediction](rules/traits/prediction.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  [prediction](rules/traits/prediction.md "Prediction Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**60 foot
 - **Targets**4 creatures

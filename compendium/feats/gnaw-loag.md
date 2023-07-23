@@ -7,7 +7,7 @@ tags:
 aliases: ["Gnaw"]
 ---
 # Gnaw  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 5*  
-[ratfolk](rules/traits/ratfolk-b1.md)  
+[ratfolk](rules/traits/ratfolk-b1.md "Ratfolk Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Vicious Incisors](compendium/feats/vicious-incisors-apg.md)
 - **Activity** Three-Action

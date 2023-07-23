@@ -8,7 +8,7 @@ tags:
 aliases: ["Spell Tinker"]
 ---
 # Spell Tinker  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 16*  
-[concentrate](rules/traits/concentrate.md)  [wizard](rules/traits/wizard.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Activity** Two-Action
 

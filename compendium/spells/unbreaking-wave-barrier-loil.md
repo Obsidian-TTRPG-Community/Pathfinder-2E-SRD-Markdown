@@ -11,7 +11,7 @@ tags:
 aliases: ["Unbreaking Wave Barrier"]
 ---
 # Unbreaking Wave Barrier *Focus 7*   
-[abjuration](rules/traits/abjuration.md)  [uncommon](rules/traits/uncommon.md)  [water](rules/traits/water.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Area**5-foot emanation

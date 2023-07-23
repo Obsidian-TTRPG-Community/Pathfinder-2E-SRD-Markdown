@@ -8,7 +8,7 @@ tags:
 aliases: ["Song Of The Fallen"]
 ---
 # Song Of The Fallen  *Feat 20*  
-[bard](rules/traits/bard.md)  [uncommon](rules/traits/uncommon.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: focus pool
 

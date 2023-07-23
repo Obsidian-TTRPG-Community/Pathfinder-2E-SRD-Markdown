@@ -8,7 +8,7 @@ tags:
 aliases: ["Host Of Spirits"]
 ---
 # Host Of Spirits *Hazard 18*  
-[complex](rules/traits/complex.md)  [haunt](rules/traits/haunt.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +35 expert  
@@ -19,7 +19,7 @@ A host of angry spirits inhabiting the ruined house attempts to drag living crea
      
 ```ad-embed-ability
 title: Embrace of Death [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[attack](rules/traits/attack.md)  [death](rules/traits/death.md)  [necromancy](rules/traits/necromancy.md)  [occult](rules/traits/occult.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  [death](rules/traits/death.md "Death Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 - **Trigger**: A creature that has angered the haunt begins its turn within 50 feet of the ruins of the house
 

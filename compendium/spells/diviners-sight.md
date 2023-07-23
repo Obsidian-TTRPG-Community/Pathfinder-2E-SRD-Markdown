@@ -12,7 +12,7 @@ tags:
 aliases: ["Diviner's Sight"]
 ---
 # Diviner's Sight *Focus 1*   
-[concentrate](rules/traits/concentrate.md)  [divination](rules/traits/divination.md)  [fortune](rules/traits/fortune.md)  [uncommon](rules/traits/uncommon.md)  [wizard](rules/traits/wizard.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**30 foot

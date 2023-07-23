@@ -8,7 +8,7 @@ tags:
 aliases: ["Time Mage Dedication"]
 ---
 # Time Mage Dedication  *Feat 6*  
-[archetype](rules/traits/archetype.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: You have a spellcasting class feature.
 

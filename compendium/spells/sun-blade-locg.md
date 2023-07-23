@@ -12,7 +12,7 @@ tags:
 aliases: ["Sun Blade"]
 ---
 # Sun Blade *Focus 2*   
-[evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  [light](rules/traits/light.md)  [positive](rules/traits/positive.md)  [uncommon](rules/traits/uncommon.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [light](rules/traits/light.md "Light Effect Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**60 foot

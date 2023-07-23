@@ -15,7 +15,7 @@ You have replaced a portion of your body with artifice of the kind used to creat
 title: Golem Grafter Dedication, Feat 8
 collapse: closed
 # Golem Grafter Dedication  *Feat 8*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: expert in [Arcana](compendium/skills.md#Arcana) and [Crafting](compendium/skills.md#Crafting), or an ally with expert proficiency in those skills willing to augment you
 
@@ -24,20 +24,20 @@ Your flesh has been specially treated with the same arcane and alchemical proces
 **Special.** You cannot select another dedication feat until you have gained two other feats from the golem grafter archetype.
 
 *Source: Extinction Curse #3: Life's Long Shadows p. 74*  
-%% #trait/uncommon #trait/archetype #trait/dedication %%
+%% #trait/archetype #trait/dedication #trait/uncommon %%
 ```  
 
 ```ad-embed-feat
 title: Accursed Clay Fist, Feat 10
 collapse: closed
 # Accursed Clay Fist  *Feat 10*  
-[archetype](rules/traits/archetype.md)  [curse](rules/traits/curse.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [curse](rules/traits/curse.md "Curse Effect Trait")  
 
 - **Prerequisites**: [Golem Grafter Dedication](compendium/feats/golem-grafter-dedication-ec3.md), expert in unarmed attacks
 
-You have replaced one of your forearms with one made of clay and infused with cursed arcane magic. When you make an unarmed [Strike](rules/actions/strike.md) with your clay fist and hit, your target takes a –2 status penalty to saving throws against [curse](rules/traits/curse.md) effects for 1 hour.
+You have replaced one of your forearms with one made of clay and infused with cursed arcane magic. When you make an unarmed [Strike](rules/actions/strike.md) with your clay fist and hit, your target takes a –2 status penalty to saving throws against [curse](rules/traits/curse.md "Curse Effect Trait") effects for 1 hour.
 
-**Special.** The damage die for your clay fist is `1d8`, and it loses the [agile](rules/traits/agile.md) and [finesse](rules/traits/finesse.md) traits of a typical fist.
+**Special.** The damage die for your clay fist is `1d8`, and it loses the [agile](rules/traits/agile.md "Agile Weapon Trait") and [finesse](rules/traits/finesse.md "Finesse Weapon Trait") traits of a typical fist.
 
 *Source: Extinction Curse #3: Life's Long Shadows p. 74*  
 %% #trait/archetype #trait/curse %%
@@ -47,7 +47,7 @@ You have replaced one of your forearms with one made of clay and infused with cu
 title: Quicken Heartbeat, Feat 10
 collapse: closed
 # Quicken Heartbeat  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Golem Grafter Dedication](compendium/feats/golem-grafter-dedication-ec3.md)
 - **Frequency**: once per turn
@@ -63,7 +63,7 @@ You've replaced your heart with one made of animated quicksilver and living adam
 title: Legs Of Stone, Feat 12*
 collapse: closed
 # Legs Of Stone  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Legs Of Stone](compendium/feats/legs-of-stone-ec3.md) is intended for use with the Golem Grafter Archetype. Its level has been changed accordingly.
 
@@ -79,7 +79,7 @@ You gain a +2 status bonus to your Fortitude and Reflex DCs against attempts to 
 title: Iron Lung, Feat 14*
 collapse: closed
 # Iron Lung  *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Iron Lung](compendium/feats/iron-lung-ec3.md) is intended for use with the Golem Grafter Archetype. Its level has been changed accordingly.
 
@@ -89,7 +89,7 @@ Your lungs are infused with the resilience of iron. Treat the result of your sav
 
 ```ad-embed-ability
 title: Exhale Poison [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
-[arcane](rules/traits/arcane.md)  [necromancy](rules/traits/necromancy.md)  [poison](rules/traits/poison.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Requirements**: You were within the area of an inhaled poison within the last minute
 

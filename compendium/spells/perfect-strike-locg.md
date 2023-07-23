@@ -10,7 +10,7 @@ tags:
 aliases: ["Perfect Strike"]
 ---
 # Perfect Strike *Focus 2*   
-[divination](rules/traits/divination.md)  [fortune](rules/traits/fortune.md)  [uncommon](rules/traits/uncommon.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
 - **Trigger**You miss a [Strike](rules/actions/strike.md) with an unarmed attack.

@@ -21,7 +21,7 @@ The sorcerer archetype is a method for anyone to pick up commonly useful spells,
 title: Sorcerer Dedication, Feat 2
 collapse: closed
 # Sorcerer Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [multiclass](rules/traits/multiclass.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [multiclass](rules/traits/multiclass.md "Multiclass Feat Trait")  
 
 - **Prerequisites**: Charisma 14
 
@@ -39,7 +39,7 @@ You cast spells like a sorcerer. You gain access to the [Cast a Spell](rules/act
 title: Basic Blood Potency, Feat 4
 collapse: closed
 # Basic Blood Potency  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Sorcerer Dedication](compendium/feats/sorcerer-dedication.md)
 
@@ -53,7 +53,7 @@ You gain a 1st- or 2nd-level sorcerer feat.
 title: Basic Bloodline Spell, Feat 4
 collapse: closed
 # Basic Bloodline Spell  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Sorcerer Dedication](compendium/feats/sorcerer-dedication.md)
 
@@ -67,7 +67,7 @@ You gain your bloodline|Sorcerer||1's initial bloodline spell. If you don't alre
 title: Basic Sorcerer Spellcasting, Feat 4
 collapse: closed
 # Basic Sorcerer Spellcasting  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Sorcerer Dedication](compendium/feats/sorcerer-dedication.md)
 
@@ -81,7 +81,7 @@ You gain the basic spellcasting benefits. Each time you gain a spell slot of a n
 title: Advanced Blood Potency, Feat 6
 collapse: closed
 # Advanced Blood Potency  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Blood Potency](compendium/feats/basic-blood-potency.md)
 
@@ -97,7 +97,7 @@ You gain one sorcerer feat. For the purpose of prerequisites, your sorcerer leve
 title: Bloodline Breadth, Feat 8
 collapse: closed
 # Bloodline Breadth  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Sorcerer Spellcasting](compendium/feats/basic-sorcerer-spellcasting.md)
 
@@ -111,7 +111,7 @@ Your repertoire expands, and you can cast more spells of your bloodline's tradit
 title: Expert Sorcerer Spellcasting, Feat 12*
 collapse: closed
 # Expert Sorcerer Spellcasting  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Expert Sorcerer Spellcasting](compendium/feats/expert-sorcerer-spellcasting.md) is intended for use with the Sorcerer Archetype. Its level has been changed accordingly.
 
@@ -127,7 +127,7 @@ You gain the expert spellcasting benefits.
 title: Master Sorcerer Spellcasting, Feat 18*
 collapse: closed
 # Master Sorcerer Spellcasting  *Feat 18*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Master Sorcerer Spellcasting](compendium/feats/master-sorcerer-spellcasting.md) is intended for use with the Sorcerer Archetype. Its level has been changed accordingly.
 

@@ -12,15 +12,15 @@ aliases: ["Alkenstar Services"]
 |---------|-------|
 | Black powder tattoo (per 4 hours) | 5 gp |
 | Bulletworks use (per day) | 1 gp |
-| Clockwork rentals (per day) |  |
-| Clockwork lookout | 1 sp |
-| Clockwork pack mule | 2 sp |
-| Clockwork servant | 1 gp |
-| Clockwork mount | 2 gp |
-| Clockwork carriage | 8 gp |
+| multiRow |  |
+| multiRow |  |
+| multiRow |  |
+| multiRow |  |
+| multiRow |  |
+| multiRow |  |
 | Firearm repair (per day) | 2 gp |
 | Spellcasting services | ×2* |
-| Workshop rental (per day) | 1 gp |
-| Including expert assistance | 3 gp |
+| multiRow |  |
+| multiRow |  |
 
 * Spellcasting services in Alkenstar usually cost twice the amount listed on [Table 6–15: Spellcasting Services](rules/tables/spellcasting-services.md).

@@ -14,7 +14,7 @@ tags:
 aliases: ["Reaper's Spellgun"]
 ---
 # Reaper's Spellgun *Item 13*  
-[attack](rules/traits/attack.md)  [consumable](rules/traits/consumable.md)  [death](rules/traits/death.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [negative](rules/traits/negative.md)  [spellgun](rules/traits/spellgun-tv.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [death](rules/traits/death.md "Death Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  [spellgun](rules/traits/spellgun-tv.md "Spellgun Item Trait")  
 
 - **Price** 600 gp
 - **Usage** held in 1 hand; **Bulk** L

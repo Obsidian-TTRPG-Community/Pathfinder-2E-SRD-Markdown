@@ -8,7 +8,7 @@ tags:
 aliases: ["Paragon's Guard"]
 ---
 # Paragon's Guard  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 12*  
-[fighter](rules/traits/fighter.md)  [stance](rules/traits/stance.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
 
 - **Requirements**: You are wielding a shield.
 - **Activity** Single Action

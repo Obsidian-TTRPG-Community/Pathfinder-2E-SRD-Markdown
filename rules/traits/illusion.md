@@ -12,6 +12,6 @@ aliases: ["Illusion"]
 
 Effects and magic items with this trait are associated with the illusion school of magic, typically involving false sensory stimuli.
 
-Illusions create the semblance of something real, fooling the eyes, ears, and other senses. They almost always have the [mental](rules/traits/mental.md) trait, and depending on how the illusion is perceived, they might also have the [auditory](rules/traits/auditory.md) or [visual](rules/traits/visual.md) trait.
+Illusions create the semblance of something real, fooling the eyes, ears, and other senses. They almost always have the [mental](rules/traits/mental.md "Mental Effect Trait") trait, and depending on how the illusion is perceived, they might also have the [auditory](rules/traits/auditory.md "Auditory Effect Trait") or [visual](rules/traits/visual.md "Visual Effect Trait") trait.
 
 - **Categories**: School (Illusion)

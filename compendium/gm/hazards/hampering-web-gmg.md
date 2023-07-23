@@ -7,7 +7,7 @@ tags:
 aliases: ["Hampering Web"]
 ---
 # Hampering Web *Hazard 1*  
-[environmental](rules/traits/environmental.md)  
+[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 18 expert  

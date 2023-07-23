@@ -10,13 +10,13 @@ tags:
 aliases: ["Plant Form"]
 ---
 # Plant Form *Spell 5*   
-[plant](rules/traits/plant.md)  [polymorph](rules/traits/polymorph.md)  [transmutation](rules/traits/transmutation.md)  
+[plant](rules/traits/plant.md "Plant Creature Type Trait")  [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md)
+- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Duration**1 minute
 
-Taking inspiration from verdant creatures, you transform into a Large plant battle form. You must have space to expand into or the spell is lost. When you cast this spell, choose arboreal, flytrap, or shambler. You can substitute a similar specific plant to turn into (such as a pitcher plant instead of a flytrap), but this has no effect on the form's Size or statistics. While in this form, you gain the [plant](rules/traits/plant.md) trait. You can [Dismiss](rules/actions/dismiss.md) the spell.
+Taking inspiration from verdant creatures, you transform into a Large plant battle form. You must have space to expand into or the spell is lost. When you cast this spell, choose arboreal, flytrap, or shambler. You can substitute a similar specific plant to turn into (such as a pitcher plant instead of a flytrap), but this has no effect on the form's Size or statistics. While in this form, you gain the [plant](rules/traits/plant.md "Plant Creature Type Trait") trait. You can [Dismiss](rules/actions/dismiss.md) the spell.
 
 You gain the following statistics and abilities regardless of which battle form you choose:
 

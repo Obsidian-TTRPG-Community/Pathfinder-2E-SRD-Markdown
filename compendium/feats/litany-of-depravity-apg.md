@@ -8,7 +8,7 @@ tags:
 aliases: ["Litany Of Depravity"]
 ---
 # Litany Of Depravity  *Feat 14*  
-[champion](rules/traits/champion.md)  [uncommon](rules/traits/uncommon.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: tenets of evil
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Precarious Pile"]
 ---
 # Precarious Pile *Hazard 2*  
-[environmental](rules/traits/environmental.md)  
+[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 9  

@@ -7,7 +7,7 @@ tags:
 aliases: ["Knight In Shining Armor"]
 ---
 # Knight In Shining Armor  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Knight Vigilant Dedication](compendium/feats/knight-vigilant-dedication-locg.md); expert in light armor, medium armor, or unarmored defense; trained in heavy armor
 

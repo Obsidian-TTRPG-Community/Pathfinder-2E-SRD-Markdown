@@ -8,7 +8,7 @@ tags:
 aliases: ["Energy Resistance"]
 ---
 # Energy Resistance  *Feat 8*  
-[evolution](rules/traits/evolution-som.md)  [summoner](rules/traits/summoner-som.md)  
+[evolution](rules/traits/evolution-som.md "Evolution Feat Trait")  [summoner](rules/traits/summoner-som.md "Summoner Class Trait")  
 
 - **Prerequisites**: [Energy Heart](compendium/feats/energy-heart-som.md)
 

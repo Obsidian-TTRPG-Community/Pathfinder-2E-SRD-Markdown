@@ -8,7 +8,7 @@ tags:
 aliases: ["Falcata"]
 ---
 # Falcata *Item 0*  
-[fatal <d12>](rules/traits/fatal.md)  
+[fatal <d12>](rules/traits/fatal-d12.md "Fatal Weapon Trait")  
 
 - **Price** 3 gp
 - **Bulk** 1

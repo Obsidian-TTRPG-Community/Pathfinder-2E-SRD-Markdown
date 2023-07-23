@@ -11,7 +11,7 @@ tags:
 aliases: ["Bracers of Devotion"]
 ---
 # Bracers of Devotion *Item 11*  
-[abjuration](rules/traits/abjuration.md)  [divine](rules/traits/divine.md)  [focused](rules/traits/focused.md)  [invested](rules/traits/invested.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [focused](rules/traits/focused.md "Focused Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  
 
 - **Price** 1400 gp
 - **Usage** worn bracers; **Bulk** L

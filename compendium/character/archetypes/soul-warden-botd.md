@@ -23,7 +23,7 @@ Nearly all soul wardens worship [Pharasma](compendium/setting/deities/pharasma.m
 title: Soul Warden Dedication, Feat 2
 collapse: closed
 # Soul Warden Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: trained in [Occultism](compendium/skills.md#Occultism) or [Religion](compendium/skills.md#Religion), worships [Pharasma](compendium/setting/deities/pharasma.md) or a psychopomp usher
 
@@ -45,7 +45,7 @@ When you have at least two other feats from this archetype, the spiral glows wit
 title: Cycle Spell, Feat 4
 collapse: closed
 # Cycle Spell  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Soul Warden Dedication](compendium/feats/soul-warden-dedication-botd.md)
 
@@ -59,7 +59,7 @@ Your devotion to the cycle of souls grants you an additional divine spell. Choos
 title: Domain Initiate, Feat 4*
 collapse: closed
 # Domain Initiate  *Feat 4*  
-[cleric](rules/traits/cleric.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  
 
 > [!pf2-note] This version of [Domain Initiate](compendium/feats/domain-initiate.md) is intended for use with the Soul Warden Archetype. Its level has been changed accordingly.
 
@@ -80,16 +80,16 @@ Focus spells are automatically heightened to half your level rounded up. Focus s
 title: Psychopomp Familiar, Feat 4
 collapse: closed
 # Psychopomp Familiar  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Soul Warden Dedication](compendium/feats/soul-warden-dedication-botd.md), familiar
 
-Your familiar becomes a masked psychopomp—an extraplanar guardian of the cycle of souls. This familiar continues to use all the same rules as other familiars, but one of its abilities must always be speech and it has the [monitor](rules/traits/monitor.md) and [psychopomp](rules/traits/psychopomp-b1.md) traits. As normal when a familiar must always have a certain ability, the speech ability counts against your familiar's abilities each day.
+Your familiar becomes a masked psychopomp—an extraplanar guardian of the cycle of souls. This familiar continues to use all the same rules as other familiars, but one of its abilities must always be speech and it has the [monitor](rules/traits/monitor.md "Monitor Creature Type Trait") and [psychopomp](rules/traits/psychopomp-b1.md "Psychopomp Creature Trait") traits. As normal when a familiar must always have a certain ability, the speech ability counts against your familiar's abilities each day.
 
 You can select three familiar or master abilities each day, instead of two, but one must be one of the following psychopomp familiar abilities.
 
 - **Soul Sight** Your familiar gains [lifesense](rules/abilities/lifesense.md) with a range of 30 feet.
-- **Spirit Touch** Your familiar can touch [incorporeal](rules/traits/incorporeal-b1.md) creatures. If you have the spell delivery master ability from your familiar, any spell the familiar delivers with it gains the benefits of the [ghost touch](compendium/equipment/items/ghost-touch.md) property rune.
+- **Spirit Touch** Your familiar can touch [incorporeal](rules/traits/incorporeal-b1.md "Incorporeal Creature Trait") creatures. If you have the spell delivery master ability from your familiar, any spell the familiar delivers with it gains the benefits of the [ghost touch](compendium/equipment/items/ghost-touch.md) property rune.
 
 *Source: Book of the Dead p. 27*  
 %% #trait/archetype %%
@@ -99,14 +99,14 @@ You can select three familiar or master abilities each day, instead of two, but 
 title: Liberate Soul, Feat 6
 collapse: closed
 # Liberate Soul  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  [concentrate](rules/traits/concentrate.md)  [divine](rules/traits/divine.md)  [necromancy](rules/traits/necromancy.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 - **Prerequisites**: [Soul Warden Dedication](compendium/feats/soul-warden-dedication-botd.md)
 - **Frequency**: once per hour
 - **Requirements**: Your spiral is glowing.
 - **Activity** Two-Action
 
-The light flows from your sigil of [Pharasma](compendium/setting/deities/pharasma.md) to shatter the bonds imprisoning a soul. You attempt to counteract a [possession](rules/traits/possession.md) effect, or an effect, object, or spell that is imprisoning a soul (such as [bind soul](compendium/spells/bind-soul.md), a soul gem, or a devourer's devoured souls). You must be within 60 feet of the possessed creature or object, or of the receptacle imprisoning the soul. Your counteract level is half your level rounded up, and your counteract modifier is your divine spell DC – 10. If the attempt fails, you can't use Liberate Soul against that particular effect again unless circumstances have changed drastically, as determined by the GM.
+The light flows from your sigil of [Pharasma](compendium/setting/deities/pharasma.md) to shatter the bonds imprisoning a soul. You attempt to counteract a [possession](rules/traits/possession.md "Possession Effect Trait") effect, or an effect, object, or spell that is imprisoning a soul (such as [bind soul](compendium/spells/bind-soul.md), a soul gem, or a devourer's devoured souls). You must be within 60 feet of the possessed creature or object, or of the receptacle imprisoning the soul. Your counteract level is half your level rounded up, and your counteract modifier is your divine spell DC – 10. If the attempt fails, you can't use Liberate Soul against that particular effect again unless circumstances have changed drastically, as determined by the GM.
 
 *Source: Book of the Dead p. 27*  
 %% #trait/archetype #trait/concentrate #trait/divine #trait/necromancy %%
@@ -116,7 +116,7 @@ The light flows from your sigil of [Pharasma](compendium/setting/deities/pharasm
 title: Spiral Sworn, Feat 6
 collapse: closed
 # Spiral Sworn  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  [concentrate](rules/traits/concentrate.md)  [divine](rules/traits/divine.md)  [evocation](rules/traits/evocation.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
 - **Prerequisites**: [Soul Warden Dedication](compendium/feats/soul-warden-dedication-botd.md)
 - **Frequency**: once per 10 minutes
@@ -134,7 +134,7 @@ If your spiral is glowing, you can target a willing creature in its light. If yo
 title: Enhanced Psychopomp Familiar, Feat 8
 collapse: closed
 # Enhanced Psychopomp Familiar  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Psychopomp Familiar](compendium/feats/psychopomp-familiar-botd.md)
 
@@ -150,7 +150,7 @@ Your psychopomp's continued service in [Pharasma](compendium/setting/deities/pha
 title: Expanded Domain Initiate, Feat 8*
 collapse: closed
 # Expanded Domain Initiate  *Feat 8*  
-[cleric](rules/traits/cleric.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  
 
 > [!pf2-note] This version of [Expanded Domain Initiate](compendium/feats/expanded-domain-initiate-logm.md) is intended for use with the Soul Warden Archetype. Its level has been changed accordingly.
 
@@ -166,11 +166,11 @@ You have long venerated one of your deity's lesser-known aspects. Select one dom
 title: Safeguard Soul, Feat 8
 collapse: closed
 # Safeguard Soul  *Feat 8*  
-[abjuration](rules/traits/abjuration.md)  [archetype](rules/traits/archetype.md)  [divine](rules/traits/divine.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  
 
 - **Prerequisites**: [Soul Warden Dedication](compendium/feats/soul-warden-dedication-botd.md)
 
-You've girded your soul against outside interference. You gain a +2 status bonus to saving throws against [death](rules/traits/death.md) effects, [possession](rules/traits/possession.md) effects, and effects that attempt to manipulate or steal your soul. You can't be transformed into an undead by any means. While your spiral is glowing, your allies in the light of the spiral gain this benefit as well.
+You've girded your soul against outside interference. You gain a +2 status bonus to saving throws against [death](rules/traits/death.md "Death Effect Trait") effects, [possession](rules/traits/possession.md "Possession Effect Trait") effects, and effects that attempt to manipulate or steal your soul. You can't be transformed into an undead by any means. While your spiral is glowing, your allies in the light of the spiral gain this benefit as well.
 
 *Source: Book of the Dead p. 27*  
 %% #trait/abjuration #trait/archetype #trait/divine %%
@@ -180,7 +180,7 @@ You've girded your soul against outside interference. You gain a +2 status bonus
 title: Expand Spiral, Feat 10
 collapse: closed
 # Expand Spiral  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spiral Sworn](compendium/feats/spiral-sworn-botd.md)
 
@@ -194,7 +194,7 @@ Your prayers encompass your companions, granting you the ability to share [Phara
 title: Advanced Domain, Feat 16*
 collapse: closed
 # Advanced Domain  *Feat 16*  
-[cleric](rules/traits/cleric.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  
 
 > [!pf2-note] This version of [Advanced Domain](compendium/feats/advanced-domain.md) is intended for use with the Soul Warden Archetype. Its level has been changed accordingly.
 

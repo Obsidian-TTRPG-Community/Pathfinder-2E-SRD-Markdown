@@ -8,9 +8,9 @@ tags:
 aliases: ["Shadow Spy"]
 ---
 # Shadow Spy *Spell 3*   
-[necromancy](rules/traits/necromancy.md)  
+[necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
-- **Traditions**: [occult](rules/traits/occult.md), [primal](rules/traits/primal.md)
+- **Traditions**: [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** 1 minute 
 - **Range**120 foot
 - **Duration**until the next time you make your daily preparations

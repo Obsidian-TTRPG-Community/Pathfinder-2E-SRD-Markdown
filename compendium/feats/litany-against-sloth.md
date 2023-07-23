@@ -7,7 +7,7 @@ tags:
 aliases: ["Litany Against Sloth"]
 ---
 # Litany Against Sloth  *Feat 10*  
-[champion](rules/traits/champion.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  
 
 - **Prerequisites**: devotion spells, tenets of good
 

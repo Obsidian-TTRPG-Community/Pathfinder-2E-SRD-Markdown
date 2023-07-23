@@ -10,9 +10,9 @@ tags:
 aliases: ["Sanctified Ground"]
 ---
 # Sanctified Ground *Spell 3*   
-[abjuration](rules/traits/abjuration.md)  [consecration](rules/traits/consecration.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [consecration](rules/traits/consecration.md "Consecration Effect Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait")
 - **Cast** 1 minute 
 - **Cost**1 vial of holy water
 - **Area**30-foot burst centered on you

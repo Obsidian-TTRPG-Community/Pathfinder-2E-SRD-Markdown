@@ -8,7 +8,7 @@ tags:
 aliases: ["Javelin"]
 ---
 # Javelin *Item 0*  
-[thrown](rules/traits/thrown.md)  
+[thrown](rules/traits/thrown.md "Thrown Weapon Trait")  
 
 - **Price** 1 sp
 - **Bulk** L

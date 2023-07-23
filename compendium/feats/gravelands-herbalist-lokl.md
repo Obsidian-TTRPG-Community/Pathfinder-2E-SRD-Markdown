@@ -8,7 +8,7 @@ tags:
 aliases: ["Gravelands Herbalist"]
 ---
 # Gravelands Herbalist  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Herbalist Dedication](compendium/feats/herbalist-dedication-apg.md), trained in [Religion](compendium/skills.md#Religion)
 

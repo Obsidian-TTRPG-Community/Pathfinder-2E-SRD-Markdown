@@ -9,7 +9,7 @@ tags:
 aliases: ["Triangle Shot"]
 ---
 # Triangle Shot  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 18*  
-[concentrate](rules/traits/concentrate.md)  [flourish](rules/traits/flourish.md)  [monk](rules/traits/monk.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Prerequisites**: [Monastic Archer Stance](compendium/feats/monastic-archer-stance-apg.md), [Stunning Fist](compendium/feats/stunning-fist.md)
 - **Requirements**: You are in Monastic Archer Stance and wielding a bow usable with that stance.

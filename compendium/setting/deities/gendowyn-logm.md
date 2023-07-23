@@ -18,13 +18,13 @@ tags:
 - trait/versatile-slashing
 aliases: ["Gendowyn", "Lady of the Fangwood"]
 ---
-# Gendowyn (Lady of the Fangwood) *([CN](rules/traits/chaotic-neutral-b1.md))*  
+# Gendowyn (Lady of the Fangwood) *([CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 130*  
 
 - **Category**: Other Gods
 - **Anathema**: parley or make a deal with fiends, forgive those who deceive you, harm an innocent child
 - **Areas of Concern**: Fangwood Forest
-- **Follower Alignments**: [N](rules/traits/neutral-b1.md), [CG](rules/traits/chaotic-good-b1.md), [CN](rules/traits/chaotic-neutral-b1.md), [CE](rules/traits/chaotic-evil-b1.md)
+- **Follower Alignments**: [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
 
@@ -39,6 +39,6 @@ aliases: ["Gendowyn", "Lady of the Fangwood"]
 title: [Avatar](compendium/spells/avatar.md) of Gendowyn
 
 - **Speed**: Speed 60 feet, climb 30 feet, burrow 30 feet, [air walk](compendium/spells/air-walk.md)
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") whip of lashing vines ([disarm](rules/traits/disarm.md), [finesse](rules/traits/finesse.md), [nonlethal](rules/traits/nonlethal.md), [reach <20 feet>](rules/traits/reach.md), [trip](rules/traits/trip.md)), **Damage** `6d4+6` slashing
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") nature's wrath unbound ([ranged trip](rules/traits/ranged-trip-b1.md), [versatile <piercing>](rules/traits/versatile.md), [versatile <slashing>](rules/traits/versatile.md)), **Damage** `6d6+3` bludgeoning
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") whip of lashing vines ([disarm](rules/traits/disarm.md "Disarm Weapon Trait"), [finesse](rules/traits/finesse.md "Finesse Weapon Trait"), [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait"), [reach <20 feet>](rules/traits/reach-20-feet.md "Reach Weapon Trait"), [trip](rules/traits/trip.md "Trip Weapon Trait")), **Damage** `6d4+6` slashing
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") nature's wrath unbound ([ranged trip](rules/traits/ranged-trip-b1.md "Ranged Trip Weapon Trait"), [versatile <piercing>](rules/traits/versatile-piercing.md "Versatile Weapon Trait"), [versatile <slashing>](rules/traits/versatile-slashing.md "Versatile Weapon Trait")), **Damage** `6d6+3` bludgeoning
 ```

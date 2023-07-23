@@ -10,7 +10,7 @@ tags:
 aliases: ["Word Of Truth"]
 ---
 # Word Of Truth *Focus 1*   
-[cleric](rules/traits/cleric.md)  [divination](rules/traits/divination.md)  [uncommon](rules/traits/uncommon.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Domains**: [truth](compendium/setting/domains.md#Truth)
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 

@@ -11,7 +11,7 @@ tags:
 aliases: ["Sphere Of Annihilation"]
 ---
 # Sphere Of Annihilation *Item 27*  
-[artifact](rules/traits/artifact-gmg.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  [transmutation](rules/traits/transmutation.md)  
+[artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Category** Artifact
 

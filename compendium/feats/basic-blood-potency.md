@@ -7,7 +7,7 @@ tags:
 aliases: ["Basic Blood Potency"]
 ---
 # Basic Blood Potency  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Sorcerer Dedication](compendium/feats/sorcerer-dedication.md)
 

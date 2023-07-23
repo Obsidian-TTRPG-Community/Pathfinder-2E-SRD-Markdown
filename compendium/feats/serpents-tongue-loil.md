@@ -7,7 +7,7 @@ tags:
 aliases: ["Serpent's Tongue"]
 ---
 # Serpent's Tongue  *Feat 1*  
-[nagaji](rules/traits/nagaji-loil.md)  
+[nagaji](rules/traits/nagaji-loil.md "Nagaji Ancestry & Heritage Trait")  
 
 
 You subconsciously flick your tongue through the air to taste the world around you. You gain imprecise scent with a range of 30 feet.

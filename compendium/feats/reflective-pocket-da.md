@@ -8,7 +8,7 @@ tags:
 aliases: ["Reflective Pocket"]
 ---
 # Reflective Pocket  *Feat 5*  
-[extradimensional](rules/traits/extradimensional.md)  [reflection](rules/traits/reflection-da.md)  
+[extradimensional](rules/traits/extradimensional.md "Extradimensional Effect Trait")  [reflection](rules/traits/reflection-da.md "Reflection Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Mirror-Risen](compendium/feats/mirror-risen-da.md)
 

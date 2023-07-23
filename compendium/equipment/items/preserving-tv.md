@@ -9,7 +9,7 @@ tags:
 aliases: ["Preserving"]
 ---
 # Preserving *Item 3+*  
-[magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 - **Usage** applied to a basket, bag, or other container
 - **Category** Rune

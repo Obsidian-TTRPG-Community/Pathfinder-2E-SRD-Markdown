@@ -7,7 +7,7 @@ tags:
 aliases: ["Feathered Cloak"]
 ---
 # Feathered Cloak  *Feat 5*  
-[strix](rules/traits/strix-loag.md)  
+[strix](rules/traits/strix-loag.md "Strix Ancestry & Heritage Trait")  
 
 
 To blend in with the grounded and wingless, you fold your wings just so on your back, creating the illusion of a feathered cloak. You receive a +2 circumstance bonus to [Deception](compendium/skills.md#Deception) checks to [Impersonate](rules/actions/impersonate.md) a version of yourself who is not a strix.

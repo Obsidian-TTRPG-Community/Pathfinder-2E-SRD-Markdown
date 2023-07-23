@@ -7,7 +7,7 @@ tags:
 aliases: ["Expand Spiral"]
 ---
 # Expand Spiral  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spiral Sworn](compendium/feats/spiral-sworn-botd.md)
 

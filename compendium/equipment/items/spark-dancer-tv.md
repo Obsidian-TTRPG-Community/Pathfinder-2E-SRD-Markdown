@@ -11,7 +11,7 @@ tags:
 aliases: ["Spark Dancer"]
 ---
 # Spark Dancer *Item 13*  
-[arcane](rules/traits/arcane.md)  [evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  [uncommon](rules/traits/uncommon.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 2900 gp
 - **Usage** held in one hand; **Bulk** L

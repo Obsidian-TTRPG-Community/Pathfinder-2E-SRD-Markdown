@@ -7,7 +7,7 @@ tags:
 aliases: ["Sympathetic Vulnerabilities"]
 ---
 # Sympathetic Vulnerabilities  *Feat 6*  
-[thaumaturge](rules/traits/thaumaturge-da.md)  
+[thaumaturge](rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
 
 - **Prerequisites**: [Exploit Vulnerability](rules/actions/exploit-vulnerability-da.md), mortal weakness or personal antithesis
 

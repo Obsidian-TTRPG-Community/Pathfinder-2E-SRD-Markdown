@@ -8,7 +8,7 @@ tags:
 aliases: ["True Shapeshifter"]
 ---
 # True Shapeshifter  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 20*  
-[concentrate](rules/traits/concentrate.md)  [druid](rules/traits/druid.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [druid](rules/traits/druid.md "Druid Class Trait")  
 
 - **Prerequisites**: [Dragon Shape](compendium/feats/dragon-shape.md), [Wild Shape](compendium/feats/wild-shape.md)
 - **Activity** Two-Action

@@ -12,7 +12,7 @@ tags:
 aliases: ["Panacea Fruit"]
 ---
 # Panacea Fruit *Item 19*  
-[consumable](rules/traits/consumable.md)  [healing](rules/traits/healing.md)  [necromancy](rules/traits/necromancy.md)  [primal](rules/traits/primal.md)  [rare](rules/traits/rare.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 8000 gp
 - **Usage** held in 1 hand; **Bulk** L

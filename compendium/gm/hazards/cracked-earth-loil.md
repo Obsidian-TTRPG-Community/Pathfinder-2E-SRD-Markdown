@@ -7,7 +7,7 @@ tags:
 aliases: ["Cracked Earth"]
 ---
 # Cracked Earth *Hazard 3*  
-[environmental](rules/traits/environmental.md)  
+[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 22 trained  

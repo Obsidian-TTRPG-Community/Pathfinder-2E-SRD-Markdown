@@ -8,7 +8,7 @@ tags:
 aliases: ["Boiling Tub Trap"]
 ---
 # Boiling Tub Trap *Hazard 13*  
-[mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  
+[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 37 master  

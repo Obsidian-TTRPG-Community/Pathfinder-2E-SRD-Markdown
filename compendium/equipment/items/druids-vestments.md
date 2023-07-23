@@ -11,7 +11,7 @@ tags:
 aliases: ["Druid's Vestments"]
 ---
 # Druid's Vestments *Item 10*  
-[focused](rules/traits/focused.md)  [invested](rules/traits/invested.md)  [primal](rules/traits/primal.md)  [transmutation](rules/traits/transmutation.md)  
+[focused](rules/traits/focused.md "Focused Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 1000 gp
 - **Usage** worn garment; **Bulk** L

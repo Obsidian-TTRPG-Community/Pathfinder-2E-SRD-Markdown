@@ -9,6 +9,6 @@ aliases: ["Light"]
 # Light  
 *Source: Core Rulebook p. 633*  
 
-Light effects overcome non-magical darkness in the area, and can counteract magical [darkness](rules/traits/darkness.md). You must usually target darkness magic with your light magic directly to counteract the darkness, but some light spells automatically attempt to counteract darkness.
+Light effects overcome non-magical darkness in the area, and can counteract magical [darkness](rules/traits/darkness.md "Darkness Effect Trait"). You must usually target darkness magic with your light magic directly to counteract the darkness, but some light spells automatically attempt to counteract darkness.
 
 - **Categories**: Effect

@@ -7,7 +7,7 @@ tags:
 aliases: ["Trickster Tengu"]
 ---
 # Trickster Tengu  *Feat 17*  
-[tengu](rules/traits/tengu-b1.md)  
+[tengu](rules/traits/tengu-b1.md "Tengu Ancestry & Heritage Trait")  
 
 
 You can transform yourself or the bodies of others to express your displeasure.

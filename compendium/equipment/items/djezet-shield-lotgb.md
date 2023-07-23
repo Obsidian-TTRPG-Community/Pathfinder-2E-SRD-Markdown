@@ -8,7 +8,7 @@ tags:
 aliases: ["Djezet Shield"]
 ---
 # Djezet Shield *Item 9+*  
-[rare](rules/traits/rare.md)  
+[rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** varies by shield
 - **Category** Material

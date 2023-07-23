@@ -7,7 +7,7 @@ tags:
 aliases: ["Stand Still"]
 ---
 # Stand Still  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 4*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Trigger** A creature within your reach uses a move action or leaves a square during a move action it's using.
 - **Activity** Reaction

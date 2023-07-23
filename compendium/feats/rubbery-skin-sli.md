@@ -7,7 +7,7 @@ tags:
 aliases: ["Rubbery Skin"]
 ---
 # Rubbery Skin  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Disturbing Defense](compendium/feats/disturbing-defense-sli.md)
 

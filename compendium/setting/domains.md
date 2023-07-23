@@ -3,11 +3,11 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-note
 tags:
 - compendium/src/pf2e/aoa4
-- compendium/src/pf2e/crb
+- compendium/src/pf2e/aoe5
 - compendium/src/pf2e/av3
 - compendium/src/pf2e/bl6
+- compendium/src/pf2e/crb
 - compendium/src/pf2e/logm
-- compendium/src/pf2e/aoe5
 aliases: ["Domains"]
 ---
 # Domains  

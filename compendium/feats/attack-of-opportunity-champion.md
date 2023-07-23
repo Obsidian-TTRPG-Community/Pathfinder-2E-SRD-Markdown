@@ -7,7 +7,7 @@ tags:
 aliases: ["Attack Of Opportunity (Champion)"]
 ---
 # Attack Of Opportunity (Champion)  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
-[champion](rules/traits/champion.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  
 
 - **Trigger** A creature within your reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.
 - **Activity** Reaction

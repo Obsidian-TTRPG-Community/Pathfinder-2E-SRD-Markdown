@@ -10,7 +10,7 @@ tags:
 aliases: ["Connect The Dots"]
 ---
 # Connect The Dots  *Feat 6*  
-[concentrate](rules/traits/concentrate.md)  [investigator](rules/traits/investigator-apg.md)  [secret](rules/traits/secret.md)  [uncommon](rules/traits/uncommon.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [investigator](rules/traits/investigator-apg.md "Investigator Class Trait")  [secret](rules/traits/secret.md "Secret General Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Requirements**: You must be pursuing at least two leads.
 

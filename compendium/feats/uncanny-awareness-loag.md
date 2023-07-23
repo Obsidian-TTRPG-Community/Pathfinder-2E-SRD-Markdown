@@ -7,7 +7,7 @@ tags:
 aliases: ["Uncanny Awareness"]
 ---
 # Uncanny Awareness  *Feat 5*  
-[fleshwarp](rules/traits/fleshwarp-loag.md)  
+[fleshwarp](rules/traits/fleshwarp-loag.md "Fleshwarp Ancestry & Heritage Trait")  
 
 
 You have a keen sense of movement around you. You gain motion sense as an imprecise sense out to 30 feet. Motion sense allows you to detect nearby motion through vibration and air movement.

@@ -10,7 +10,7 @@ tags:
 aliases: ["Steal The Sky"]
 ---
 # Steal The Sky *Focus 5*   
-[air](rules/traits/air.md)  [evocation](rules/traits/evocation.md)  [uncommon](rules/traits/uncommon.md)  
+[air](rules/traits/air.md "Air Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
 - **Trigger**You make a successful unarmed

@@ -11,9 +11,9 @@ tags:
 aliases: ["Suggestion"]
 ---
 # Suggestion *Spell 4*   
-[enchantment](rules/traits/enchantment.md)  [incapacitation](rules/traits/incapacitation.md)  [linguistic](rules/traits/linguistic.md)  [mental](rules/traits/mental.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot
 - **Targets**1 creature
@@ -25,7 +25,7 @@ Your honeyed words are difficult for creatures to resist. You suggest a course o
 > [!success-degree] 
 > - **Critical Success** The target is unaffected and knows you tried to control it.
 > - **Success** The target is unaffected and thinks you were talking to them normally, not casting a spell on them.
-> - **Failure** The target immediately follows your suggestion. The spell has a duration of 1 minute, or until the target has completed a finite suggestion or the suggestion becomes self-destructive or has other obvious [negative](rules/traits/negative.md) effects.
+> - **Failure** The target immediately follows your suggestion. The spell has a duration of 1 minute, or until the target has completed a finite suggestion or the suggestion becomes self-destructive or has other obvious [negative](rules/traits/negative.md "Negative Energy & Element Trait") effects.
 > - **Critical Failure** As failure, but the base duration is 1 hour.
 
 **Heightened (8th)** You can target up to 10 creatures.

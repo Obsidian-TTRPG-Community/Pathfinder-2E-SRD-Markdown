@@ -7,7 +7,7 @@ tags:
 aliases: ["Mirror Shield"]
 ---
 # Mirror Shield  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
-[fighter](rules/traits/fighter.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 - **Trigger** An opponent casting a spell that targets you critically fails a spell attack roll against your AC.
 - **Requirements**: You have a [shield raised](rules/actions/raise-a-shield.md).

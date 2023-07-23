@@ -11,7 +11,7 @@ tags:
 aliases: ["Blazing Aura"]
 ---
 # Blazing Aura  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 17*  
-[concentrate](rules/traits/concentrate.md)  [evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  [ifrit](rules/traits/ifrit-b2.md)  [primal](rules/traits/primal.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [ifrit](rules/traits/ifrit-b2.md "Ifrit Ancestry & Heritage Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  
 
 - **Frequency**: once per day
 - **Trigger** Your turn begins.

@@ -8,7 +8,7 @@ tags:
 aliases: ["Knockdown"]
 ---
 # Knockdown  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 4*  
-[fighter](rules/traits/fighter.md)  [flourish](rules/traits/flourish.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 - **Prerequisites**: trained in [Athletics](compendium/skills.md#Athletics)
 - **Activity** Two-Action

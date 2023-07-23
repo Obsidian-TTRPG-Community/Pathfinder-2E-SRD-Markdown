@@ -18,7 +18,7 @@ You're trained in the [Spirit Lore](compendium/skills.md#Lore) skill. You gain t
 
 ```ad-embed-ability
 title: Host Spirit
-[exploration](rules/traits/exploration.md)  [necromancy](rules/traits/necromancy.md)  [occult](rules/traits/occult.md)  
+[exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 You attempt one skill check to perform an exploration activity, even if it normally requires you to be trained to do so. You're trained in the skill just long enough to make that single check (to a maximum of 10 minutes). Whether or not the check succeeds, in the next 24 hours you must perform a minor favor to appease the spirit who aided you, determined by the GM (usually something sensation related, such as tasting a certain food, listening to a specific song, or smoking a pipe). You can't Host Spirit again until you've performed the favor. If you haven't completed it after 24 hours, you're [fatigued](rules/conditions.md#Fatigued) until the obligation is fulfilled.  
 %% #trait/exploration #trait/necromancy #trait/occult %%

@@ -9,7 +9,7 @@ tags:
 aliases: ["Learn Name"]
 ---
 # Learn Name
-[downtime](rules/traits/downtime.md)  [rare](rules/traits/rare.md)  [secret](rules/traits/secret.md)  
+[downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [secret](rules/traits/secret.md "Secret General Trait")  
 *Source: Secrets of Magic p. 245*  
 
 **Variant Rule** True Names

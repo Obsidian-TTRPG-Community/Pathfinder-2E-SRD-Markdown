@@ -10,12 +10,12 @@ tags:
 - domain/repose/deity
 aliases: ["Lymnieris", "The Auroral Tower"]
 ---
-# Lymnieris (The Auroral Tower) *([LG](rules/traits/lawful-goo-b1.md))*  
+# Lymnieris (The Auroral Tower) *([LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 128*  
 
 - **Category**: Empyreal Lords
 - **Anathema**: persecute sex workers, force or support unwanted marriages
-- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [NG](rules/traits/neutral-good-b1.md), [CG](rules/traits/chaotic-good-b1.md)
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")
 
 ## Devotee benefits
 

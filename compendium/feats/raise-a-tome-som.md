@@ -7,7 +7,7 @@ tags:
 aliases: ["Raise A Tome"]
 ---
 # Raise A Tome  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
-[magus](rules/traits/magus-som.md)  
+[magus](rules/traits/magus-som.md "Magus Class Trait")  
 
 - **Requirements**: You're holding a book.
 - **Activity** Single Action

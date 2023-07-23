@@ -7,7 +7,7 @@ tags:
 aliases: ["Leshy Glide"]
 ---
 # Leshy Glide  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 5*  
-[leshy](rules/traits/leshy-b1.md)  
+[leshy](rules/traits/leshy-b1.md "Leshy Ancestry & Heritage Trait")  
 
 - **Prerequisites**: leaf leshy heritage or [Cat Fall](compendium/feats/cat-fall.md) skill feat
 - **Activity** Single Action

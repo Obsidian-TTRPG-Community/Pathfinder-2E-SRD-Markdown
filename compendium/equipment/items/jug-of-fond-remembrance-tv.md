@@ -9,7 +9,7 @@ tags:
 aliases: ["Jug of Fond Remembrance"]
 ---
 # Jug of Fond Remembrance *Item 4*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 75 gp
 - **Usage** held in 1 hand; **Bulk** —

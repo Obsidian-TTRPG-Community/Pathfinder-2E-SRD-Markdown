@@ -7,7 +7,7 @@ tags:
 aliases: ["Keep Up the Good Fight"]
 ---
 # Keep Up the Good Fight  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Knight Vigilant Dedication](compendium/feats/knight-vigilant-dedication-locg.md)
 - **Frequency**: once per hour

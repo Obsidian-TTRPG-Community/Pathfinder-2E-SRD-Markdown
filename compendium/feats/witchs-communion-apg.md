@@ -7,7 +7,7 @@ tags:
 aliases: ["Witch's Communion"]
 ---
 # Witch's Communion  *Feat 10*  
-[witch](rules/traits/witch-apg.md)  
+[witch](rules/traits/witch-apg.md "Witch Class Trait")  
 
 - **Prerequisites**: [Witch's Charge](compendium/feats/witchs-charge-apg.md)
 

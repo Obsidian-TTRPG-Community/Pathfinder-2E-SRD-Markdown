@@ -8,7 +8,7 @@ tags:
 aliases: ["Fabricated Connections"]
 ---
 # Fabricated Connections  *Feat 7*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Dandy Dedication](compendium/feats/dandy-dedication-apg.md); master in [Deception](compendium/skills.md#Deception)
 

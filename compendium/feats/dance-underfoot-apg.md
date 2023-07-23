@@ -7,7 +7,7 @@ tags:
 aliases: ["Dance Underfoot"]
 ---
 # Dance Underfoot  *Feat 9*  
-[halfling](rules/traits/halfling.md)  
+[halfling](rules/traits/halfling.md "Halfling Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Step Lively](compendium/feats/step-lively-apg.md)
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Fortified Flesh"]
 ---
 # Fortified Flesh  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Ka Stone Ritual](compendium/feats/ka-stone-ritual-lowg.md)
 

@@ -12,7 +12,7 @@ tags:
 aliases: ["Protector's Sphere"]
 ---
 # Protector's Sphere *Focus 4*   
-[abjuration](rules/traits/abjuration.md)  [aura](rules/traits/aura.md)  [cleric](rules/traits/cleric.md)  [uncommon](rules/traits/uncommon.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [aura](rules/traits/aura.md "Aura Combat Trait")  [cleric](rules/traits/cleric.md "Cleric Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Domains**: [protection](compendium/setting/domains.md#Protection)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

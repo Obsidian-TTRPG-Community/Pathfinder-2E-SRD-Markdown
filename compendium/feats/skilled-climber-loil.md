@@ -7,7 +7,7 @@ tags:
 aliases: ["Skilled Climber"]
 ---
 # Skilled Climber  *Feat 5*  
-[kashrishi](rules/traits/kashrishi-loil.md)  
+[kashrishi](rules/traits/kashrishi-loil.md "Kashrishi Ancestry & Heritage Trait")  
 
 - **Prerequisites**: athamasi or xyloshi
 

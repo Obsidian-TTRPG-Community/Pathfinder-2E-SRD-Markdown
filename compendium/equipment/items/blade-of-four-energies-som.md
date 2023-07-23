@@ -9,7 +9,7 @@ tags:
 aliases: ["Blade Of Four Energies"]
 ---
 # Blade Of Four Energies *Item 13+*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Held

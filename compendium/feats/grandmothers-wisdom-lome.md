@@ -7,7 +7,7 @@ tags:
 aliases: ["Grandmother's Wisdom"]
 ---
 # Grandmother's Wisdom  *Feat 9*  
-[gnoll](rules/traits/gnoll-b1.md)  
+[gnoll](rules/traits/gnoll-b1.md "Gnoll Ancestry & Heritage Trait")  
 
 
 You carry the bones of your ancestors with you, and you can ask them for counsel.

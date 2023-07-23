@@ -11,7 +11,7 @@ tags:
 aliases: ["Throwing Knife"]
 ---
 # Throwing Knife *Item 0*  
-[agile](rules/traits/agile.md)  [finesse](rules/traits/finesse.md)  [thrown <20 feet>](rules/traits/thrown.md)  [uncommon](rules/traits/uncommon.md)  
+[agile](rules/traits/agile.md "Agile Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [thrown <20 feet>](rules/traits/thrown-20-feet.md "Thrown Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 3 sp
 - **Bulk** L

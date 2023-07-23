@@ -11,9 +11,9 @@ tags:
 aliases: ["Imp Sting"]
 ---
 # Imp Sting *Spell 2*   
-[evil](rules/traits/evil.md)  [necromancy](rules/traits/necromancy.md)  [poison](rules/traits/poison.md)  [uncommon](rules/traits/uncommon.md)  
+[evil](rules/traits/evil.md "Evil Alignment Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md), [occult](rules/traits/occult.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**touch
 - **Targets**1 creature
@@ -32,7 +32,7 @@ If the target takes piercing damage, they also take `1d6` evil damage and must a
 ```ad-inline-affliction
 title: Imp Venom _Level 3_
 
-[poison](rules/traits/poison.md)  
+[poison](rules/traits/poison.md "Poison Effect Trait")  
 - **Maximum Duration**: 6 rounds
 
 ## Stages
@@ -42,7 +42,7 @@ title: Imp Venom _Level 3_
 **Stage 2** `1d6` poison, [clumsy](rules/conditions.md#Clumsy), and [slowed](rules/conditions.md#Slowed) (1 round.)
 
 
-%% #trait/poison #affliction/level/level-3 %%
+%% #affliction/level/level-3 #trait/poison %%
 ```
 
 ## Summary

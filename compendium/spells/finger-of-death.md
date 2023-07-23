@@ -9,9 +9,9 @@ tags:
 aliases: ["Finger Of Death"]
 ---
 # Finger Of Death *Spell 7*   
-[death](rules/traits/death.md)  [necromancy](rules/traits/necromancy.md)  
+[death](rules/traits/death.md "Death Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md), [primal](rules/traits/primal.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot
 - **Targets**1 living creature

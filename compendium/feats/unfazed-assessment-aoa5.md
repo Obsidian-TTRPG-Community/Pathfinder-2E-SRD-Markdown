@@ -7,7 +7,7 @@ tags:
 aliases: ["Unfazed Assessment"]
 ---
 # Unfazed Assessment  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Zephyr Guard Dedication](compendium/feats/zephyr-guard-dedication-aoa5.md), expert in [Perception](compendium/skills.md#Perception)
 - **Activity** Single Action

@@ -7,7 +7,7 @@ tags:
 aliases: ["Expert Combat Eidolon"]
 ---
 # Expert Combat Eidolon  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Summoner Dedication](compendium/feats/summoner-dedication-som.md)
 

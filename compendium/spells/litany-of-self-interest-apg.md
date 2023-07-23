@@ -13,7 +13,7 @@ tags:
 aliases: ["Litany Of Self-interest"]
 ---
 # Litany Of Self-interest *Focus 5*   
-[champion](rules/traits/champion.md)  [enchantment](rules/traits/enchantment.md)  [evil](rules/traits/evil.md)  [litany](rules/traits/litany.md)  [mental](rules/traits/mental.md)  [uncommon](rules/traits/uncommon.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [evil](rules/traits/evil.md "Evil Alignment Trait")  [litany](rules/traits/litany.md "Litany Spell Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**30 foot

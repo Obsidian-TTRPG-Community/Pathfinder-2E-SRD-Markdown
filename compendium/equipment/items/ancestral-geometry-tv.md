@@ -12,7 +12,7 @@ tags:
 aliases: ["Ancestral Geometry"]
 ---
 # Ancestral Geometry *Item 2*  
-[abjuration](rules/traits/abjuration.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [tattoo](rules/traits/tattoo-lowg.md)  [uncommon](rules/traits/uncommon.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [tattoo](rules/traits/tattoo-lowg.md "Tattoo Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 30 gp
 - **Usage** tattooed on the body; **Bulk** —
@@ -28,7 +28,7 @@ Usually, the ancestor provides a kind of knowledge they believe you'll need. For
 
 ```ad-embed-ability
 title: Activate [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[fortune](rules/traits/fortune.md)  
+[fortune](rules/traits/fortune.md "Fortune Effect Trait")  
 
 - **Trigger**: You rolled a saving throw of the noted type
 

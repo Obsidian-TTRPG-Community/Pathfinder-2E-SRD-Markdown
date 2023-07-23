@@ -11,7 +11,7 @@ tags:
 aliases: ["Tradecraft Tattoo"]
 ---
 # Tradecraft Tattoo *Item 9+*  
-[conjuration](rules/traits/conjuration.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [tattoo](rules/traits/tattoo-lowg.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [tattoo](rules/traits/tattoo-lowg.md "Tattoo Item Trait")  
 
 - **Usage** tattooed on the body; **Bulk** —
 - **Category** Tattoo

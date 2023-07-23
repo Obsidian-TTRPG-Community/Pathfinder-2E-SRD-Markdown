@@ -7,7 +7,7 @@ tags:
 aliases: ["Advanced Hunter's Trick"]
 ---
 # Advanced Hunter's Trick  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Hunter's Trick](compendium/feats/basic-hunters-trick.md)
 

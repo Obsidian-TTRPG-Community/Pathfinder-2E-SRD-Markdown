@@ -11,7 +11,7 @@ tags:
 aliases: ["Moonstone Diadem"]
 ---
 # Moonstone Diadem *Item 8*  
-[divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 500 gp
 - **Usage** worn circlet; **Bulk** L

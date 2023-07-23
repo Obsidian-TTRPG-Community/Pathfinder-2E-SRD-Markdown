@@ -9,9 +9,9 @@ tags:
 aliases: ["Forceful Hand"]
 ---
 # Forceful Hand *Spell 5*   
-[evocation](rules/traits/evocation.md)  [force](rules/traits/force.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**60 foot
 - **Duration**sustained up to 1 minute
@@ -22,9 +22,9 @@ Successful attacks against the hand damage it, and damaging effects that can tar
 
 The hand's actions and the cover it provides depend on what actions you take during your turn. At the end of your turn, what the hand does is determined by the first entry on this list that matches a trait from any of the actions you used on your turn. For instance, if you [Step](rules/actions/step.md), [Stride](rules/actions/stride.md), and [Sustain the Spell](rules/actions/sustain-a-spell.md), you use the entry for move actions, so the hand provides standard cover.
 
-- **[Manipulate](rules/traits/manipulate.md) or [Attack](rules/traits/attack.md)** The hand interposes between you and your foes. It provides lesser cover (+1 circumstance bonus to AC) against all attacks that pass through the hand's square.
-- **[Move](rules/traits/move.md)** The hand provides standard cover (+2 circumstance bonus to AC, Reflex, and [Stealth](compendium/skills.md#Stealth) checks) against all attacks that pass through the hand's square.
-- **[Concentrate](rules/traits/concentrate.md)** The hand provides greater cover (+4 circumstance bonus to AC, Reflex, and [Stealth](compendium/skills.md#Stealth) checks) against all attacks that pass through the hand's square.
+- **[Manipulate](rules/traits/manipulate.md "Manipulate General Trait") or [Attack](rules/traits/attack.md "Attack Combat Trait")** The hand interposes between you and your foes. It provides lesser cover (+1 circumstance bonus to AC) against all attacks that pass through the hand's square.
+- **[Move](rules/traits/move.md "Move Combat Trait")** The hand provides standard cover (+2 circumstance bonus to AC, Reflex, and [Stealth](compendium/skills.md#Stealth) checks) against all attacks that pass through the hand's square.
+- **[Concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")** The hand provides greater cover (+4 circumstance bonus to AC, Reflex, and [Stealth](compendium/skills.md#Stealth) checks) against all attacks that pass through the hand's square.
 
 **Heightened (6th)** The hand has AC 27 and 60 Hit Points. When you [Cast this Spell](rules/actions/cast-a-spell.md), you can choose to replace the hand's Manipulate or Attack option with Swat.
 

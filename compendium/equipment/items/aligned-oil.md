@@ -11,7 +11,7 @@ tags:
 aliases: ["Aligned Oil"]
 ---
 # Aligned Oil *Item 9*  
-[consumable](rules/traits/consumable.md)  [divine](rules/traits/divine.md)  [evocation](rules/traits/evocation.md)  [oil](rules/traits/oil.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [oil](rules/traits/oil.md "Oil Item Trait")  
 
 - **Price** 140 gp
 - **Usage** held in 2 hands; **Bulk** L

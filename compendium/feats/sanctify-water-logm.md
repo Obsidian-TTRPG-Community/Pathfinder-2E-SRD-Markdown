@@ -8,7 +8,7 @@ tags:
 aliases: ["Sanctify Water"]
 ---
 # Sanctify Water  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 7*  
-[general](rules/traits/general.md)  [skill](rules/traits/skill.md)  
+[general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: master in [Religion](compendium/skills.md#Religion), good or evil deity
 - **Activity** Single Action

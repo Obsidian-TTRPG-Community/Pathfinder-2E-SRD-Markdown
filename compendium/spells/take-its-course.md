@@ -10,7 +10,7 @@ tags:
 aliases: ["Take Its Course"]
 ---
 # Take Its Course *Focus 4*   
-[cleric](rules/traits/cleric.md)  [necromancy](rules/traits/necromancy.md)  [uncommon](rules/traits/uncommon.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Domains**: [indulgence](compendium/setting/domains.md#Indulgence)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Uncanny Cheeks"]
 ---
 # Uncanny Cheeks  *Feat 9*  
-[ratfolk](rules/traits/ratfolk-b1.md)  
+[ratfolk](rules/traits/ratfolk-b1.md "Ratfolk Ancestry & Heritage Trait")  
 
 
 You squirrel away useful objects and seem to retrieve them at just the right time.

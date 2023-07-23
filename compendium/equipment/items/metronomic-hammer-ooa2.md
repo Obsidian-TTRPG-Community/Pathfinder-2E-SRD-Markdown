@@ -10,7 +10,7 @@ tags:
 aliases: ["Metronomic Hammer"]
 ---
 # Metronomic Hammer *Item 5*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 160 gp
 - **Usage** held in 1 or 2 hands; **Bulk** 1

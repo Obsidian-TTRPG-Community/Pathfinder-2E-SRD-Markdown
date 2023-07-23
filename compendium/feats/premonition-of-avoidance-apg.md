@@ -7,7 +7,7 @@ tags:
 aliases: ["Premonition Of Avoidance"]
 ---
 # Premonition Of Avoidance  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
-[cleric](rules/traits/cleric.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  
 
 - **Trigger** You attempt a saving throw against a hazard, but you haven't rolled yet.
 - **Activity** Reaction

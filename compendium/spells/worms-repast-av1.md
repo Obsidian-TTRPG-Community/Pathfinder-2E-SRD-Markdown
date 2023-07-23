@@ -9,9 +9,9 @@ tags:
 aliases: ["Worm's Repast"]
 ---
 # Worm's Repast *Spell 2*   
-[necromancy](rules/traits/necromancy.md)  [rare](rules/traits/rare.md)  
+[necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Traditions**: [occult](rules/traits/occult.md), [primal](rules/traits/primal.md)
+- **Traditions**: [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot
 - **Targets**1 corporeal creature

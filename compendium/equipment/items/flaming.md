@@ -10,7 +10,7 @@ tags:
 aliases: ["Flaming"]
 ---
 # Flaming *Item 8+*  
-[conjuration](rules/traits/conjuration.md)  [fire](rules/traits/fire.md)  [magical](rules/traits/magical.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Usage** etched onto a weapon
 - **Category** Rune

@@ -7,7 +7,7 @@ tags:
 aliases: ["Sly Striker"]
 ---
 # Sly Striker  *Feat 8*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Prerequisites**: sneak attack
 

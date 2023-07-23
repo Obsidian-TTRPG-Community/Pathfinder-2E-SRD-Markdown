@@ -7,7 +7,7 @@ tags:
 aliases: ["Basic Maneuver"]
 ---
 # Basic Maneuver  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Fighter Dedication](compendium/feats/fighter-dedication.md)
 

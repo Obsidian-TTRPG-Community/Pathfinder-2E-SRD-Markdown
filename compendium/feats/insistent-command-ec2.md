@@ -9,7 +9,7 @@ tags:
 aliases: ["Insistent Command"]
 ---
 # Insistent Command  *Feat 8*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: Master in [Nature](compendium/skills.md#Nature), Animal Trainer Dedication
 

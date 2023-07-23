@@ -9,7 +9,7 @@ tags:
 aliases: ["Create Forgery"]
 ---
 # Create Forgery (basic)
-[downtime](rules/traits/downtime.md)  [secret](rules/traits/secret.md)  
+[downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [secret](rules/traits/secret.md "Secret General Trait")  
 *Source: Core Rulebook p. 251*  
 
 **Skill** [society](compendium/skills.md#Society) (trained)

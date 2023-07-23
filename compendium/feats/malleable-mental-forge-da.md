@@ -7,7 +7,7 @@ tags:
 aliases: ["Malleable Mental Forge"]
 ---
 # Malleable Mental Forge  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Mental Forge](compendium/feats/mental-forge-da.md)
 

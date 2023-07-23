@@ -10,7 +10,7 @@ tags:
 aliases: ["Practice Makes Perfect"]
 ---
 # Practice Makes Perfect *Focus 1*   
-[cleric](rules/traits/cleric.md)  [divination](rules/traits/divination.md)  [uncommon](rules/traits/uncommon.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Domains**: [toil](compendium/setting/domains.md#Toil)
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 

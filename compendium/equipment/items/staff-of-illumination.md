@@ -10,7 +10,7 @@ tags:
 aliases: ["Staff of Illumination"]
 ---
 # Staff of Illumination *Item 8*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [staff](rules/traits/staff.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  
 
 - **Price** 425 gp
 - **Usage** held in 1 hand; **Bulk** 1

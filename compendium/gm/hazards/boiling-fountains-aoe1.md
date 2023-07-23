@@ -8,7 +8,7 @@ tags:
 aliases: ["Boiling Fountains"]
 ---
 # Boiling Fountains *Hazard 2*  
-[mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  
+[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 18 trained to spot the pressure plates.  
@@ -25,7 +25,7 @@ Four pressure plates beneath the floorboards activate dragon-headed fountains on
      
 ```ad-embed-ability
 title: Scalding Spray [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[fire](rules/traits/fire.md)  [water](rules/traits/water.md)  
+[fire](rules/traits/fire.md "Fire Energy & Element Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
 - **Trigger**: Weight is placed on one of the squares marked with "T" on the map, triggering a pressure plate
 

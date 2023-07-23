@@ -8,7 +8,7 @@ tags:
 aliases: ["Longspear"]
 ---
 # Longspear *Item 0*  
-[reach](rules/traits/reach.md)  
+[reach](rules/traits/reach.md "Reach Weapon Trait")  
 
 - **Price** 5 sp
 - **Bulk** 2

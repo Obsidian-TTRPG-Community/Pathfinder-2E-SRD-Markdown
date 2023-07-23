@@ -8,7 +8,7 @@ tags:
 aliases: ["Svetocher"]
 ---
 # Svetocher  *Feat 1*  
-[dhampir](rules/traits/dhampir-b1.md)  [lineage](rules/traits/lineage-apg.md)  
+[dhampir](rules/traits/dhampir-b1.md "Dhampir Ancestry & Heritage Trait")  [lineage](rules/traits/lineage-apg.md "Lineage  Trait")  
 
 
 You were born to one of the moroi, the most common vampires, and you share their supernatural fortitude and power of persuasion. When you have the [drained](rules/conditions.md#Drained) condition, calculate the penalty to your Fortitude saves and your Hit Point reduction as though the condition value were 1 lower. You are trained [Diplomacy](compendium/skills.md#Diplomacy). If you would automatically be trained in it, you instead become trained in a skill of your choice.

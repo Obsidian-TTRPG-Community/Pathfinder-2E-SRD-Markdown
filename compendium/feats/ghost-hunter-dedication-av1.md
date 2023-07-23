@@ -9,13 +9,13 @@ tags:
 aliases: ["Ghost Hunter Dedication"]
 ---
 # Ghost Hunter Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: Trained in [Occultism](compendium/skills.md#Occultism) or [Religion](compendium/skills.md#Religion)
 
 You have focused your training on hunting and defeating ghosts, spirits, and all manner of haunts. [Pick Spirit Lore](compendium/skills.md#Lore) or [Haunt Lore](compendium/skills.md#Lore); you become trained in this skill. If you were already trained in both skills, you become trained in a new [Lore](compendium/skills.md#Lore) skill of your choice.
 
-Choose two cantrips from the occult spell list. Each cantrip must have the divination, [enchantment](rules/traits/enchantment.md), or [necromancy](rules/traits/necromancy.md) trait. You can cast these spells as innate occult spells. You gain access to the [Cast a Spell](rules/actions/cast-a-spell.md) activity if you didn't have it already.
+Choose two cantrips from the occult spell list. Each cantrip must have the divination, [enchantment](rules/traits/enchantment.md "Enchantment School Trait"), or [necromancy](rules/traits/necromancy.md "Necromancy School Trait") trait. You can cast these spells as innate occult spells. You gain access to the [Cast a Spell](rules/actions/cast-a-spell.md) activity if you didn't have it already.
 
 You're trained in occult spell attack rolls and spell DCs. You can usually replace material components with somatic components, so you don't need a spell component pouch. Your key spellcasting ability for these spells is Charisma.
 

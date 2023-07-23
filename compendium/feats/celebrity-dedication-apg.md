@@ -8,7 +8,7 @@ tags:
 aliases: ["Celebrity Dedication"]
 ---
 # Celebrity Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 
 The more people you have looking at you, the more content you are, and you take every opportunity to show up others when their performances are less than perfect. You gain the Upstage reaction. In addition, when you [Earn Income](rules/actions/earn-income.md), if the level of the task is higher than your level, you gain a +1 circumstance bonus to your check to [Earn Income](rules/actions/earn-income.md).

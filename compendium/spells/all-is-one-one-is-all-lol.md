@@ -9,9 +9,9 @@ tags:
 aliases: ["All Is One, One Is All"]
 ---
 # All Is One, One Is All *Spell 8*   
-[necromancy](rules/traits/necromancy.md)  [rare](rules/traits/rare.md)  
+[necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**60 foot
 - **Targets**you and up to 10 willing living allies

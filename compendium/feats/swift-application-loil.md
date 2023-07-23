@@ -7,7 +7,7 @@ tags:
 aliases: ["Swift Application"]
 ---
 # Swift Application  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 9*  
-[vishkanya](rules/traits/vishkanya-loil.md)  
+[vishkanya](rules/traits/vishkanya-loil.md "Vishkanya Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Envenom](rules/actions/envenom-loil.md)
 - **Activity** Single Action

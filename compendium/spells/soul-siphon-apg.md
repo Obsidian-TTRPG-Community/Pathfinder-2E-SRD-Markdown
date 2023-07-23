@@ -12,7 +12,7 @@ tags:
 aliases: ["Soul Siphon"]
 ---
 # Soul Siphon *Focus 1*   
-[cursebound](rules/traits/cursebound-apg.md)  [necromancy](rules/traits/necromancy.md)  [negative](rules/traits/negative.md)  [oracle](rules/traits/oracle-apg.md)  [uncommon](rules/traits/uncommon.md)  
+[cursebound](rules/traits/cursebound-apg.md "Cursebound Spell Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  [oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Mystery** Oracle
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 

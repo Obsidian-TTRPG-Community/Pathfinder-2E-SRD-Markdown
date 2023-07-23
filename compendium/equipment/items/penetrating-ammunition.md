@@ -10,7 +10,7 @@ tags:
 aliases: ["Penetrating Ammunition"]
 ---
 # Penetrating Ammunition *Item 12*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 400 gp
 - **Ammunition** [arrow](compendium/equipment/items/arrow.md), [bolt](compendium/equipment/items/bolt.md)

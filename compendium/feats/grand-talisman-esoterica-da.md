@@ -7,7 +7,7 @@ tags:
 aliases: ["Grand Talisman Esoterica"]
 ---
 # Grand Talisman Esoterica  *Feat 14*  
-[thaumaturge](rules/traits/thaumaturge-da.md)  
+[thaumaturge](rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
 
 - **Prerequisites**: Talisman Esoterica
 

@@ -13,7 +13,7 @@ tags:
 aliases: ["Bladed Scarf"]
 ---
 # Bladed Scarf *Item 0*  
-[disarm](rules/traits/disarm.md)  [finesse](rules/traits/finesse.md)  [reach](rules/traits/reach.md)  [sweep](rules/traits/sweep.md)  [trip](rules/traits/trip.md)  [uncommon](rules/traits/uncommon.md)  
+[disarm](rules/traits/disarm.md "Disarm Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [reach](rules/traits/reach.md "Reach Weapon Trait")  [sweep](rules/traits/sweep.md "Sweep Weapon Trait")  [trip](rules/traits/trip.md "Trip Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 3 gp
 - **Bulk** 1

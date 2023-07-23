@@ -9,7 +9,7 @@ tags:
 aliases: ["Turpin Rowe Lumberjack Dedication"]
 ---
 # Turpin Rowe Lumberjack Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: You must befriend at least one Turpin Rowe logger.
 - **Prerequisites**: trained in [Survival](compendium/skills.md#Survival)

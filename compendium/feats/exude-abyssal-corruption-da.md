@@ -9,7 +9,7 @@ tags:
 aliases: ["Exude Abyssal Corruption"]
 ---
 # Exude Abyssal Corruption  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  [manipulate](rules/traits/manipulate.md)  [poison](rules/traits/poison.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Prerequisites**: [Living Vessel Dedication](compendium/feats/living-vessel-dedication-da.md), your entity is a demon
 - **Activity** Single Action

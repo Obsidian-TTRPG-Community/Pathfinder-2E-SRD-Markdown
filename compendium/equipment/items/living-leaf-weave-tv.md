@@ -10,7 +10,7 @@ tags:
 aliases: ["Living Leaf Weave"]
 ---
 # Living Leaf Weave *Item 5*  
-[alchemical](rules/traits/alchemical.md)  [healing](rules/traits/healing.md)  [plant](rules/traits/plant.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  
 
 - **Price** 160 gp
 - **Usage** worn armor; **Bulk** 1

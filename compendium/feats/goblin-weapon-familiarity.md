@@ -7,7 +7,7 @@ tags:
 aliases: ["Goblin Weapon Familiarity"]
 ---
 # Goblin Weapon Familiarity  *Feat 1*  
-[goblin](rules/traits/goblin.md)  
+[goblin](rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  
 
 
 Others might look upon them with disdain, but you know that the weapons of your people are as effective as they are sharp. You are trained with the [dogslicer](compendium/equipment/items/dogslicer.md) and [horsechopper](compendium/equipment/items/horsechopper.md).

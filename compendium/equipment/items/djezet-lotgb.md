@@ -9,7 +9,7 @@ tags:
 aliases: ["Djezet"]
 ---
 # Djezet *Item 0+*  
-[precious](rules/traits/precious.md)  [rare](rules/traits/rare.md)  
+[precious](rules/traits/precious.md "Precious Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Category** Material
 
@@ -20,14 +20,14 @@ Djezet is also extremely reactive to magic, even in its solid, workable alloyed 
 | Djezet Alloy Items | Hardness | HP | BT |
 |--------------------|----------|----|----|
 | **Thin Items** |  |  |  |
-| Standard-grade | 5 | 20 | 10 |
-| High-grade | 8 | 32 | 16 |
+| multiRow |  |
+| multiRow |  |
 | **Items** |  |  |  |
-| Standard-grade | 9 | 36 | 18 |
-| High-grade | 12 | 48 | 24 |
+| multiRow |  |
+| multiRow |  |
 | **Structures** |  |  |  |
-| Standard-grade | 18 | 72 | 36 |
-| High-grade | 24 | 96 | 48 |
+| multiRow |  |
+| multiRow |  |
 
 
 *Source: Lost Omens: The Grand Bazaar p. 97*

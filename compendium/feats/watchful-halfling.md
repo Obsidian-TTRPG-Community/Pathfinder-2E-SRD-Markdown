@@ -7,10 +7,10 @@ tags:
 aliases: ["Watchful Halfling"]
 ---
 # Watchful Halfling  *Feat 1*  
-[halfling](rules/traits/halfling.md)  
+[halfling](rules/traits/halfling.md "Halfling Ancestry & Heritage Trait")  
 
 
-Your communal lifestyle causes you to pay close attention to the people around you, allowing you to more easily notice when they act out of character. You gain a +2 circumstance bonus to [Perception](compendium/skills.md#Perception) checks when using the [Sense Motive](rules/actions/sense-motive.md) basic action to notice enchanted or possessed characters. If you aren't actively using [Sense Motive](rules/actions/sense-motive.md) on an enchanted or possessed character, the GM rolls a secret check, without the usual circumstance and with a –2 circumstance penalty, for you to potentially notice the [enchantment](rules/traits/enchantment.md) or [possession](rules/traits/possession.md) anyway.
+Your communal lifestyle causes you to pay close attention to the people around you, allowing you to more easily notice when they act out of character. You gain a +2 circumstance bonus to [Perception](compendium/skills.md#Perception) checks when using the [Sense Motive](rules/actions/sense-motive.md) basic action to notice enchanted or possessed characters. If you aren't actively using [Sense Motive](rules/actions/sense-motive.md) on an enchanted or possessed character, the GM rolls a secret check, without the usual circumstance and with a –2 circumstance penalty, for you to potentially notice the [enchantment](rules/traits/enchantment.md "Enchantment School Trait") or [possession](rules/traits/possession.md "Possession Effect Trait") anyway.
 
 In addition to using it for skill checks, you can use the [Aid](rules/actions/aid.md) basic action to grant a bonus to another creature's saving throw or other check to overcome enchantment or possession.
 

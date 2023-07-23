@@ -9,7 +9,7 @@ tags:
 aliases: ["Grievous"]
 ---
 # Grievous *Item 9*  
-[enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 700 gp
 - **Usage** etched onto a weapon

@@ -11,7 +11,7 @@ tags:
 aliases: ["Dust of Disappearance"]
 ---
 # Dust of Disappearance *Item 9*  
-[consumable](rules/traits/consumable.md)  [illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 135 gp
 - **Usage** held in 1 hand; **Bulk** —

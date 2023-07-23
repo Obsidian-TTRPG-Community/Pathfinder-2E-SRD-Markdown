@@ -8,7 +8,7 @@ tags:
 aliases: ["Vorpal Executioner"]
 ---
 # Vorpal Executioner *Hazard 19*  
-[mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  
+[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 43 expert  
@@ -25,7 +25,7 @@ A wickedly sharp saw blade descends and travels along grooves in a complex path 
      
 ```ad-embed-ability
 title: Total Decapitation [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[attack](rules/traits/attack.md)  [death](rules/traits/death.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  [death](rules/traits/death.md "Death Effect Trait")  
 
 - **Trigger**: A creature attempts to exit the room.
 

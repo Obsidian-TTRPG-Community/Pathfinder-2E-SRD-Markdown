@@ -7,7 +7,7 @@ tags:
 aliases: ["Arise, Ye Worthy!"]
 ---
 # Arise, Ye Worthy!  *Feat 13*  
-[ganzi](rules/traits/ganzi-loag.md)  
+[ganzi](rules/traits/ganzi-loag.md "Ganzi Ancestry & Heritage Trait")  
 
 
 You are descended from the valkyries who protect worthy souls, and can hold back death's grasp. You can cast [breath of life](compendium/spells/breath-of-life.md) as a divine innate spell once per day.

@@ -7,7 +7,7 @@ tags:
 aliases: ["Hobgoblin Weapon Discipline"]
 ---
 # Hobgoblin Weapon Discipline  *Feat 5*  
-[hobgoblin](rules/traits/hobgoblin-locg.md)  
+[hobgoblin](rules/traits/hobgoblin-locg.md "Hobgoblin Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Hobgoblin Weapon Familiarity](compendium/feats/hobgoblin-weapon-familiarity-locg.md)
 

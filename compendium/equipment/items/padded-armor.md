@@ -8,7 +8,7 @@ tags:
 aliases: ["Padded Armor"]
 ---
 # Padded Armor *Item 0*  
-[comfort](rules/traits/comfort.md)  
+[comfort](rules/traits/comfort.md "Comfort Armor Trait")  
 
 - **Price** 2 sp
 - **Bulk** L

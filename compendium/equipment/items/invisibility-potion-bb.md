@@ -11,7 +11,7 @@ tags:
 aliases: ["Invisibility Potion"]
 ---
 # Invisibility Potion *Item 4*  
-[consumable](rules/traits/consumable.md)  [illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  [potion](rules/traits/potion.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [potion](rules/traits/potion.md "Potion Item Trait")  
 
 - **Price** 20 gp
 - **Usage** held in 1 hand

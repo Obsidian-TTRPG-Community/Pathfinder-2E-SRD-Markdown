@@ -10,7 +10,7 @@ tags:
 aliases: ["Staff of Enchantment"]
 ---
 # Staff of Enchantment *Item 6+*  
-[enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [staff](rules/traits/staff.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Staff

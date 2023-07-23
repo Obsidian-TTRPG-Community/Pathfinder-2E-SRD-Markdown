@@ -19,26 +19,26 @@ You have the means to see the timelines of all creatures, including your own. Yo
 title: Chronoskimmer Dedication, Feat 2
 collapse: closed
 # Chronoskimmer Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [rare](rules/traits/rare.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 
 You became partially unstuck from time and have learned how to manipulate your place in flow of time. When you roll initiative, you can choose one of three options: either do nothing and roll initiative normally, stabilize your timestream, or destabilize your timestream and send it into intense fluctuations. If you choose to stabilize your timestream, you don't roll initiative, and instead your initiative is equal to 10 + your initiative modifier. If you choose to destabilize your timestream, attempt a DC 11 flat check. On a success, your initiative is equal to 19 + your initiative modifier, and on a failure, your initiative is equal to 1 + your initiative modifier.
 
-Both stabilizing and destabilizing your timestream are [fortune](rules/traits/fortune.md) effects.
+Both stabilizing and destabilizing your timestream are [fortune](rules/traits/fortune.md "Fortune Effect Trait") effects.
 
 Additionally, if your initiative roll result is tied with an opponent's initiative roll, you go first. Your manipulation of time grants you access to a number of abilities, some of which require a saving throw. The DC for these abilities is either your class DC or spell DC, whichever is higher, and is called your chronoskimmer DC.
 
 **Special.** You can't select another dedication feat until you've gained two other feats from the chronoskimmer archetype.
 
 *Source: Dark Archive p. 186*  
-%% #trait/rare #trait/archetype %%
+%% #trait/archetype #trait/rare %%
 ```  
 
 ```ad-embed-feat
 title: Turn Back the Clock, Feat 4
 collapse: closed
 # Turn Back the Clock  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 4*  
-[archetype](rules/traits/archetype.md)  [concentrate](rules/traits/concentrate.md)  [fortune](rules/traits/fortune.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  
 
 - **Prerequisites**: [Chronoskimmer Dedication](compendium/feats/chronoskimmer-dedication-da.md)
 - **Frequency**: once per day
@@ -55,13 +55,13 @@ After failing a test of skill, you hop back in your personal timeline so you can
 title: Guide the Timeline, Feat 6
 collapse: closed
 # Guide the Timeline  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  [concentrate](rules/traits/concentrate.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
 
 - **Prerequisites**: [Chronoskimmer Dedication](compendium/feats/chronoskimmer-dedication-da.md)
 - **Frequency**: once per day
 - **Activity** Single Action
 
-You know the result you want and subtly nudge the timeline to your intended destination. Choose an ally or a foe. If you choose an ally, the next time within the next round that ally makes an attack roll or skill check, they roll it twice and take the higher result; this is a [fortune](rules/traits/fortune.md) effect. If you choose a foe, the next time within the next round that foe makes an attack roll or skill check, they must roll twice and take the lower result unless they succeed at a Will save against your chronoskimmer DC; this is a [misfortune](rules/traits/misfortune.md) effect. Regardless of your choice, the target becomes temporarily immune for 24 hours.
+You know the result you want and subtly nudge the timeline to your intended destination. Choose an ally or a foe. If you choose an ally, the next time within the next round that ally makes an attack roll or skill check, they roll it twice and take the higher result; this is a [fortune](rules/traits/fortune.md "Fortune Effect Trait") effect. If you choose a foe, the next time within the next round that foe makes an attack roll or skill check, they must roll twice and take the lower result unless they succeed at a Will save against your chronoskimmer DC; this is a [misfortune](rules/traits/misfortune.md "Misfortune Effect Trait") effect. Regardless of your choice, the target becomes temporarily immune for 24 hours.
 
 *Source: Dark Archive p. 186*  
 %% #trait/archetype #trait/concentrate %%
@@ -71,7 +71,7 @@ You know the result you want and subtly nudge the timeline to your intended dest
 title: Reversing Charge, Feat 8
 collapse: closed
 # Reversing Charge  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Chronoskimmer Dedication](compendium/feats/chronoskimmer-dedication-da.md)
 - **Activity** Two-Action
@@ -86,7 +86,7 @@ You dive into the fray before rewinding yourself to safety. [Stride](rules/actio
 title: Superimpose Time Duplicates, Feat 8
 collapse: closed
 # Superimpose Time Duplicates  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Chronoskimmer Dedication](compendium/feats/chronoskimmer-dedication-da.md)
 - **Frequency**: once per hour
@@ -102,7 +102,7 @@ You call alternate versions of yourself, either from a different timeline or per
 title: Borrow Time, Feat 10
 collapse: closed
 # Borrow Time  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Chronoskimmer Dedication](compendium/feats/chronoskimmer-dedication-da.md)
 - **Frequency**: once per minute
@@ -119,7 +119,7 @@ You reach ahead and make use of time that's yet to be. You become [quickened](ru
 title: Steal Time, Feat 10
 collapse: closed
 # Steal Time  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Chronoskimmer Dedication](compendium/feats/chronoskimmer-dedication-da.md)
 - **Frequency**: once per hour
@@ -135,13 +135,13 @@ You reach into another creature's timeline and attempt to alter their flow of ti
 title: Combat Premonition, Feat 12*
 collapse: closed
 # Combat Premonition  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Combat Premonition](compendium/feats/combat-premonition-da.md) is intended for use with the Chronoskimmer Archetype. Its level has been changed accordingly.
 
 - **Prerequisites**: [Chronoskimmer Dedication](compendium/feats/chronoskimmer-dedication-da.md)
 
-By narrowing your sense of the future, you can improve that of your allies. When you roll initiative, instead of stabilizing or destabilizing your own timestream, you can grant your allies a flash of insight into their future. Choose two allies. Those allies roll their initiative roll twice and take the better result; this is a [fortune](rules/traits/fortune.md) effect. You roll your initiative roll twice and take the worse result; this is a [misfortune](rules/traits/misfortune.md) effect. The two effects are tied together: if you would avoid the [misfortune](rules/traits/misfortune.md) effect for any reason, or if any of your allies would negate their [fortune](rules/traits/fortune.md) effect, your Combat Premonition does nothing.
+By narrowing your sense of the future, you can improve that of your allies. When you roll initiative, instead of stabilizing or destabilizing your own timestream, you can grant your allies a flash of insight into their future. Choose two allies. Those allies roll their initiative roll twice and take the better result; this is a [fortune](rules/traits/fortune.md "Fortune Effect Trait") effect. You roll your initiative roll twice and take the worse result; this is a [misfortune](rules/traits/misfortune.md "Misfortune Effect Trait") effect. The two effects are tied together: if you would avoid the [misfortune](rules/traits/misfortune.md "Misfortune Effect Trait") effect for any reason, or if any of your allies would negate their [fortune](rules/traits/fortune.md "Fortune Effect Trait") effect, your Combat Premonition does nothing.
 
 *Source: Dark Archive p. 187*  
 %% #trait/archetype %%
@@ -151,7 +151,7 @@ By narrowing your sense of the future, you can improve that of your allies. When
 title: Escape Timeline, Feat 12*
 collapse: closed
 # Escape Timeline  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Escape Timeline](compendium/feats/escape-timeline-da.md) is intended for use with the Chronoskimmer Archetype. Its level has been changed accordingly.
 
@@ -170,7 +170,7 @@ You step outside of the flow of time momentarily, allowing you to avoid dangers.
 title: Space-Time Shift, Feat 12*
 collapse: closed
 # Space-Time Shift  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Space-Time Shift](compendium/feats/space-time-shift-da.md) is intended for use with the Chronoskimmer Archetype. Its level has been changed accordingly.
 
@@ -189,7 +189,7 @@ You travel just a few moments into the future to immediately arrive at your dest
 title: Reset the Past, Feat 14*
 collapse: closed
 # Reset the Past  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Reset the Past](compendium/feats/reset-the-past-da.md) is intended for use with the Chronoskimmer Archetype. Its level has been changed accordingly.
 

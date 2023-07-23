@@ -7,7 +7,7 @@ tags:
 aliases: ["Master Magus Spellcasting"]
 ---
 # Master Magus Spellcasting  *Feat 18*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Expert Magus Spellcasting](compendium/feats/expert-magus-spellcasting-som.md), legendary in [Arcana](compendium/skills.md#Arcana)
 

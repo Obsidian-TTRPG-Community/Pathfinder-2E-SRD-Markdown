@@ -7,7 +7,7 @@ tags:
 aliases: ["Confounding Image"]
 ---
 # Confounding Image  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [mirror image](compendium/spells/mirror-image.md)
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Powerful Alchemy"]
 ---
 # Powerful Alchemy  *Feat 8*  
-[alchemist](rules/traits/alchemist.md)  
+[alchemist](rules/traits/alchemist.md "Alchemist Class Trait")  
 
 
 Alchemical items you create on the fly are particularly potent. When you use [Quick Alchemy](rules/actions/quick-alchemy.md) to create an infused alchemical item that allows a saving throw, you can change its DC to your class DC.

@@ -11,7 +11,7 @@ tags:
 aliases: ["Force Fang"]
 ---
 # Force Fang *Focus 1*   
-[evocation](rules/traits/evocation.md)  [force](rules/traits/force.md)  [magus](rules/traits/magus-som.md)  [uncommon](rules/traits/uncommon.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  [magus](rules/traits/magus-som.md "Magus Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**varies

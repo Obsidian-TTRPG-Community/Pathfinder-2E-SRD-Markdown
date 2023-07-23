@@ -12,7 +12,7 @@ tags:
 aliases: ["Cane Of The Maelstrom"]
 ---
 # Cane Of The Maelstrom *Item 22*  
-[artifact](rules/traits/artifact-gmg.md)  [conjuration](rules/traits/conjuration.md)  [cursed](rules/traits/cursed-gmg.md)  [divine](rules/traits/divine.md)  [unique](rules/traits/unique.md)  
+[artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Artifact

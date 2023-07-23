@@ -7,7 +7,7 @@ tags:
 aliases: ["Uncanny Suction"]
 ---
 # Uncanny Suction  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Oozemorph Dedication](compendium/feats/oozemorph-dedication-sli.md)
 

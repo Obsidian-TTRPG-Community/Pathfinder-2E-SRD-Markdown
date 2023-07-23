@@ -7,7 +7,7 @@ tags:
 aliases: ["Larcenous Tail"]
 ---
 # Larcenous Tail  *Feat 9*  
-[ganzi](rules/traits/ganzi-loag.md)  
+[ganzi](rules/traits/ganzi-loag.md "Ganzi Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Skillful Tail](compendium/feats/skillful-tail-ganzi-loag.md)
 

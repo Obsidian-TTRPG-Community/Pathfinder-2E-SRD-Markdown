@@ -8,7 +8,7 @@ tags:
 aliases: ["Club"]
 ---
 # Club *Item 0*  
-[thrown <10 ft.>](rules/traits/thrown.md)  
+[thrown <10 ft.>](rules/traits/thrown-10-ft.md "Thrown Weapon Trait")  
 
 - **Price** 0 gp
 - **Bulk** 1

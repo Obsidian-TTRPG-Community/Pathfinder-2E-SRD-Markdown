@@ -7,7 +7,7 @@ tags:
 aliases: ["Master Scroll Cache"]
 ---
 # Master Scroll Cache  *Feat 18*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Expert Scroll Cache](compendium/feats/expert-scroll-cache-apg.md)
 

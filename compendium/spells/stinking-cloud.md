@@ -10,16 +10,16 @@ tags:
 aliases: ["Stinking Cloud"]
 ---
 # Stinking Cloud *Spell 3*   
-[conjuration](rules/traits/conjuration.md)  [poison](rules/traits/poison.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**120 foot
 - **Area**20-foot burst
 - **Saving Throw** Fortitude
 - **Duration**1 minute
 
-You create a cloud of putrid mist in the area. The cloud functions as [obscuring mist](compendium/spells/obscuring-mist.md) except it sickens creatures that end their turns within the cloud. (The [concealed](rules/conditions.md#Concealed) condition is not a [poison](rules/traits/poison.md) effect.)
+You create a cloud of putrid mist in the area. The cloud functions as [obscuring mist](compendium/spells/obscuring-mist.md) except it sickens creatures that end their turns within the cloud. (The [concealed](rules/conditions.md#Concealed) condition is not a [poison](rules/traits/poison.md "Poison Effect Trait") effect.)
 
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.

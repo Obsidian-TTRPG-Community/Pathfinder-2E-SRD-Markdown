@@ -11,7 +11,7 @@ tags:
 aliases: ["Instant Fortress"]
 ---
 # Instant Fortress *Item 16*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [structure](rules/traits/structure.md)  [uncommon](rules/traits/uncommon.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [structure](rules/traits/structure.md "Structure General Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 9300 gp
 - **Bulk** L (when not activated)
@@ -26,13 +26,13 @@ You toss the cube on the ground, and it immediately unfolds into an adamantine f
 
 The fortress is 20 feet square and 30 feet high, with adamantine stairs leading up to three sets of battlements at heights of 10 feet and 20 feet and at the top. Arrow slits along the lower battlements and crenelations at the top provide standard cover to anyone within the fortress. There's no roof, leaving an open, 10-foot-square vertical shaft through the center of the structure.
 
-As a magical structure, the fortress has the [structure](rules/traits/structure.md) trait.
+As a magical structure, the fortress has the [structure](rules/traits/structure.md "Structure General Trait") trait.
 
 Because it expands outward, the fortress can't catch creatures inside it as a magical structure normally does. Instead, it pushes those creatures back. It can't push a creature into a surface or hazard this way, and stops expanding if that would happen.
 
-The fortress has a single door in the center of one wall on the ground level, and the door appears directly in front of you when you activate the fortress. Provided you're within 100 feet of the door, you can cause the door to open or slam shut and lock by spending a single action to issue a verbal command, which has the [auditory](rules/traits/auditory.md) trait. The DC to [Force Open](rules/actions/force-open.md) the door or Pick its Lock is 40.
+The fortress has a single door in the center of one wall on the ground level, and the door appears directly in front of you when you activate the fortress. Provided you're within 100 feet of the door, you can cause the door to open or slam shut and lock by spending a single action to issue a verbal command, which has the [auditory](rules/traits/auditory.md "Auditory Effect Trait") trait. The DC to [Force Open](rules/actions/force-open.md) the door or Pick its Lock is 40.
 
-You can instantly return the instant fortress to its cube form by spending a single action to issue a verbal command, which has the [auditory](rules/traits/auditory.md) trait. Once deactivated, the fortress can't be activated again for 4 hours.
+You can instantly return the instant fortress to its cube form by spending a single action to issue a verbal command, which has the [auditory](rules/traits/auditory.md "Auditory Effect Trait") trait. Once deactivated, the fortress can't be activated again for 4 hours.
 
 If the fortress becomes damaged, it can be repaired only with a [remake](compendium/spells/remake.md) spell or by someone who is legendary at [Crafting](compendium/skills.md#Crafting).
 ```

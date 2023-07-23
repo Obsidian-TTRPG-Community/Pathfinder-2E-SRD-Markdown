@@ -7,7 +7,7 @@ tags:
 aliases: ["Pied Piping"]
 ---
 # Pied Piping  *Feat 20*  
-[bard](rules/traits/bard.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  
 
 
 You learn the [pied piping](compendium/spells/pied-piping-apg.md) composition spell, which enables you to control the actions of weak-minded individuals.

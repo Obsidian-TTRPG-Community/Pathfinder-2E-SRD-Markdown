@@ -11,7 +11,7 @@ tags:
 aliases: ["Wand of Wearying Dance"]
 ---
 # Wand of Wearying Dance *Item 18*  
-[enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  [wand](rules/traits/wand.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
 
 - **Price** 24000 gp
 - **Usage** held in 1 hand; **Bulk** L

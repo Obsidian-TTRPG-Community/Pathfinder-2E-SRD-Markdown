@@ -10,7 +10,7 @@ tags:
 aliases: ["Jelly Body"]
 ---
 # Jelly Body  *Feat 6*  
-[aftermath](rules/traits/aftermath-da.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  [transmutation](rules/traits/transmutation.md)  
+[aftermath](rules/traits/aftermath-da.md "Aftermath Class Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Prerequisites**: You've been reduced to 0 Hit Points while engulfed by an ooze.
 

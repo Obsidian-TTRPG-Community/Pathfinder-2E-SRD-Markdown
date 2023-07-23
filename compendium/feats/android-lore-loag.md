@@ -7,7 +7,7 @@ tags:
 aliases: ["Android Lore"]
 ---
 # Android Lore  *Feat 1*  
-[android](rules/traits/android-loag.md)  
+[android](rules/traits/android-loag.md "Android Ancestry & Heritage Trait")  
 
 
 You have a keen interest in the origins of your people. You gain the trained proficiency rank in [Crafting](compendium/skills.md#Crafting) and [Thievery](compendium/skills.md#Thievery). If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in [Android Lore](compendium/skills.md#Lore).

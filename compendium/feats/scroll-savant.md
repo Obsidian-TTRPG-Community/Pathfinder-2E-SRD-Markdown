@@ -7,7 +7,7 @@ tags:
 aliases: ["Scroll Savant"]
 ---
 # Scroll Savant  *Feat 10*  
-[wizard](rules/traits/wizard.md)  
+[wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Prerequisites**: expert in [Crafting](compendium/skills.md#Crafting)
 

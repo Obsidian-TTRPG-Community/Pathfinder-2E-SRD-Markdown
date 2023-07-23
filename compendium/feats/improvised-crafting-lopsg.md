@@ -10,7 +10,7 @@ tags:
 aliases: ["Improvised Crafting"]
 ---
 # Improvised Crafting  *Feat 8*  
-[archetype](rules/traits/archetype.md)  [exploration](rules/traits/exploration.md)  [manipulate](rules/traits/manipulate.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Swordmaster Dedication](compendium/feats/swordmaster-dedication-locg.md), expert in [Crafting](compendium/skills.md#Crafting)
 

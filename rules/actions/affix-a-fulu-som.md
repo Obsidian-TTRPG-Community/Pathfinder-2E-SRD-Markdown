@@ -8,7 +8,7 @@ tags:
 aliases: ["Affix a Fulu"]
 ---
 # Affix a Fulu (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[manipulate](rules/traits/manipulate.md)  
+[manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 *Source: Secrets of Magic p. 158*  
 
 

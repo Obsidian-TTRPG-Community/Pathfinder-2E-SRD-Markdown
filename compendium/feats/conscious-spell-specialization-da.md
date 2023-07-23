@@ -7,7 +7,7 @@ tags:
 aliases: ["Conscious Spell Specialization"]
 ---
 # Conscious Spell Specialization  *Feat 14*  
-[psychic](rules/traits/psychic-da.md)  
+[psychic](rules/traits/psychic-da.md "Psychic Class Trait")  
 
 
 You become more adept with the spells that are always in your mind.

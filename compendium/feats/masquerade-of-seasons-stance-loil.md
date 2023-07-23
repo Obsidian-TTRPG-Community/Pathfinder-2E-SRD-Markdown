@@ -11,7 +11,7 @@ tags:
 aliases: ["Masquerade of Seasons Stance"]
 ---
 # Masquerade of Seasons Stance  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[bard](rules/traits/bard.md)  [rare](rules/traits/rare.md)  [rogue](rules/traits/rogue.md)  [stance](rules/traits/stance.md)  [swashbuckler](rules/traits/swashbuckler-apg.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [rogue](rules/traits/rogue.md "Rogue Class Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  [swashbuckler](rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  
 
 - **Prerequisites**: trained in [Performance](compendium/skills.md#Performance)
 - **Activity** Single Action

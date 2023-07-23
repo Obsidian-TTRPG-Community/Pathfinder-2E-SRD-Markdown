@@ -7,7 +7,7 @@ tags:
 aliases: ["Blood Tears"]
 ---
 # Blood Tears *Hazard 10*  
-[haunt](rules/traits/haunt.md)  
+[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 32 master to notice your vision tint red  
@@ -18,7 +18,7 @@ A wailing spirit appears and gouges their own eyes. As they do, blood seeps from
      
 ```ad-embed-ability
 title: Weep Blood [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[divine](rules/traits/divine.md)  [necromancy](rules/traits/necromancy.md)  
+[divine](rules/traits/divine.md "Divine Tradition Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 - **Trigger**: A creature approaches within 15 feet
 

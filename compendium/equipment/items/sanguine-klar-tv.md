@@ -9,7 +9,7 @@ tags:
 aliases: ["Sanguine Klar"]
 ---
 # Sanguine Klar *Item 9+*  
-[magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Held

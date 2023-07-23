@@ -10,12 +10,12 @@ tags:
 aliases: ["Lyrakien Staff"]
 ---
 # Lyrakien Staff *Item 6+*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [staff](rules/traits/staff.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Staff
 
-A crystalline sphere, swirling with constantly shifting constellations, sits atop a lyrakien staff, a silver shaft that sparkles with the gentle glow of starlight. Desnans first created the staves, inspired by the music- and freedom-loving lyrakien azatas, but these staves are popular with spellcasters of all faiths who like travel, art, or the stars. While wielding a lyrakien staff, you gain a +1 circumstance bonus on saving throws against [incapacitation](rules/traits/incapacitation.md) effects.
+A crystalline sphere, swirling with constantly shifting constellations, sits atop a lyrakien staff, a silver shaft that sparkles with the gentle glow of starlight. Desnans first created the staves, inspired by the music- and freedom-loving lyrakien azatas, but these staves are popular with spellcasters of all faiths who like travel, art, or the stars. While wielding a lyrakien staff, you gain a +1 circumstance bonus on saving throws against [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait") effects.
 
 ```ad-embed-ability
 title: Activate

@@ -7,7 +7,7 @@ tags:
 aliases: ["Enforce Oath"]
 ---
 # Enforce Oath  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 12*  
-[champion](rules/traits/champion.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  
 
 - **Prerequisites**: You've sworn to an oath against a specific type of creature.
 - **Frequency**: once per hour

@@ -8,7 +8,7 @@ tags:
 aliases: ["Collar of the Shifting Spider"]
 ---
 # Collar of the Shifting Spider *Item 5*  
-[alchemical](rules/traits/alchemical.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  
 
 - **Price** 133 gp
 - **Usage** worn collar; **Bulk** 1

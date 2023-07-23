@@ -10,12 +10,12 @@ tags:
 - domain/protection/deity
 aliases: ["Selket", "Mistress of the Beautiful House"]
 ---
-# Selket (Mistress of the Beautiful House) *([CG](rules/traits/chaotic-good-b1.md))*  
+# Selket (Mistress of the Beautiful House) *([CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 124*  
 
 - **Category**: Ancient Osirian Gods
 - **Anathema**: poison someone you didn't intend to, harm a creature as punishment for a different creature's crime, desecrate a corpse
-- **Follower Alignments**: [NG](rules/traits/neutral-good-b1.md), [CG](rules/traits/chaotic-good-b1.md), [CN](rules/traits/chaotic-neutral-b1.md)
+- **Follower Alignments**: [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")
 
 ## Devotee benefits
 

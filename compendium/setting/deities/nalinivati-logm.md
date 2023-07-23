@@ -10,12 +10,12 @@ tags:
 - domain/wyrmkin/deity
 aliases: ["Nalinivati", "The Serpent's Kiss"]
 ---
-# Nalinivati (The Serpent's Kiss) *([N](rules/traits/neutral-b1.md))*  
+# Nalinivati (The Serpent's Kiss) *([N](rules/traits/n-b1.md "Neutral Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 132*  
 
 - **Category**: Tian Gods
 - **Anathema**: kill a harmless snake or swan, spurn friends due to jealousy or romantic competition, betray your offspring, separate lovers
-- **Follower Alignments**: [LN](rules/traits/lawful-neutral-b1.md), [NG](rules/traits/neutral-good-b1.md), [N](rules/traits/neutral-b1.md), [NE](rules/traits/neutral-evil-b1.md)
+- **Follower Alignments**: [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait")
 
 ## Devotee benefits
 

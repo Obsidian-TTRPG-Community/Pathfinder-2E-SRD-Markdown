@@ -7,7 +7,7 @@ tags:
 aliases: ["Seven-Part Link"]
 ---
 # Seven-Part Link  *Feat 16*  
-[thaumaturge](rules/traits/thaumaturge-da.md)  
+[thaumaturge](rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
 
 - **Prerequisites**: Paired Link
 

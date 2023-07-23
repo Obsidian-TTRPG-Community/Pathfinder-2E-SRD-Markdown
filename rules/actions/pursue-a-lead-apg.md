@@ -10,7 +10,7 @@ tags:
 aliases: ["Pursue a Lead"]
 ---
 # Pursue a Lead
-[concentrate](rules/traits/concentrate.md)  [exploration](rules/traits/exploration.md)  [investigator](rules/traits/investigator-apg.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [investigator](rules/traits/investigator-apg.md "Investigator Class Trait")  
 *Source: Advanced Player's Guide p. 56*  
 
 **Class** investigator

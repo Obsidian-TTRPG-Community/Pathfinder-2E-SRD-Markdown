@@ -10,7 +10,7 @@ tags:
 aliases: ["Leiomano"]
 ---
 # Leiomano *Item 0*  
-[deadly <d10>](rules/traits/deadly.md)  [uncommon](rules/traits/uncommon.md)  [versatile <s>](rules/traits/versatile.md)  
+[deadly <d10>](rules/traits/deadly-d10.md "Deadly Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [versatile <s>](rules/traits/versatile-s.md "Versatile Weapon Trait")  
 
 - **Access** If the player character come from a region in Tian Xia, this weapon is common
 - **Price** 2 gp

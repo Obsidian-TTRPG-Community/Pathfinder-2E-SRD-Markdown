@@ -9,7 +9,7 @@ tags:
 aliases: ["Build Training Facility"]
 ---
 # Build Training Facility
-[downtime](rules/traits/downtime.md)  [manipulate](rules/traits/manipulate.md)  
+[downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 *Source: Age of Ashes #2: Cult of Cinders p. 73*  
 
 - **Requirements**: expert in the skill listed below or hired trainer; organized specialists

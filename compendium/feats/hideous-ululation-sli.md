@@ -8,7 +8,7 @@ tags:
 aliases: ["Hideous Ululation"]
 ---
 # Hideous Ululation  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Oozemorph Dedication](compendium/feats/oozemorph-dedication-sli.md), trained in [Performance](compendium/skills.md#Performance)
 

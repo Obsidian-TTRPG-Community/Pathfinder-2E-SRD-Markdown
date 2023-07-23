@@ -7,7 +7,7 @@ tags:
 aliases: ["Performance Weapon Expert"]
 ---
 # Performance Weapon Expert  *Feat 16*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Provocator Dedication](compendium/feats/provocator-dedication-aoe3.md), expert in any kind of weapon or unarmed attack
 

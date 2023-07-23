@@ -11,7 +11,7 @@ tags:
 aliases: ["Wand of Chromatic Burst"]
 ---
 # Wand of Chromatic Burst *Item 10+*  
-[abjuration](rules/traits/abjuration.md)  [light](rules/traits/light.md)  [magical](rules/traits/magical.md)  [wand](rules/traits/wand.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [light](rules/traits/light.md "Light Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Wand
@@ -26,7 +26,7 @@ You cast [chromatic armor](compendium/spells/chromatic-armor-som.md) (Secrets of
 
 ```ad-embed-ability
 title: Chromatic Armor Burst [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[concentrate](rules/traits/concentrate.md)  [evocation](rules/traits/evocation.md)  [light](rules/traits/light.md)  [magical](rules/traits/magical.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [light](rules/traits/light.md "Light Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Requirements**: You're affected by chromatic armor created by the wand of chromatic burst
 

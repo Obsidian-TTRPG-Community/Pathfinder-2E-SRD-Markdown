@@ -13,7 +13,7 @@ aliases: ["Thief's Burden"]
 ---
 # Thief's Burden
 *Curse 1*  
-[curse](rules/traits/curse.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  [transmutation](rules/traits/transmutation.md)  
+[curse](rules/traits/curse.md "Curse Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 This ward placed on valuables aims to bog down thieves and prevent them from fleeing.
 

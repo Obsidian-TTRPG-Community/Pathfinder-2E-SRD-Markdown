@@ -7,7 +7,7 @@ tags:
 aliases: ["Healing Hands"]
 ---
 # Healing Hands  *Feat 1*  
-[cleric](rules/traits/cleric.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  
 
 - **Prerequisites**: healing font
 

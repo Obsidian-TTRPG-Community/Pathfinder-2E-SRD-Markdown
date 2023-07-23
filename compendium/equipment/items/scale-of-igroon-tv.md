@@ -11,7 +11,7 @@ tags:
 aliases: ["Scale of Igroon"]
 ---
 # Scale of Igroon *Item 21*  
-[abjuration](rules/traits/abjuration.md)  [artifact](rules/traits/artifact-gmg.md)  [primal](rules/traits/primal.md)  [rare](rules/traits/rare.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Artifact

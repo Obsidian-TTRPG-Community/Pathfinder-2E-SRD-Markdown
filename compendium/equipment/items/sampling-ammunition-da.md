@@ -10,7 +10,7 @@ tags:
 aliases: ["Sampling Ammunition"]
 ---
 # Sampling Ammunition *Item 5*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 - **Price** 22 gp
 - **Ammunition** [arrow](compendium/equipment/items/arrow.md), [bolt](compendium/equipment/items/bolt.md)

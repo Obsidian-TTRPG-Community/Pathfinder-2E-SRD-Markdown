@@ -10,7 +10,7 @@ tags:
 aliases: ["Bracers of Missile Deflection"]
 ---
 # Bracers of Missile Deflection *Item 3*  
-[abjuration](rules/traits/abjuration.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Usage** worn bracers; **Bulk** L
 - **Category** Worn

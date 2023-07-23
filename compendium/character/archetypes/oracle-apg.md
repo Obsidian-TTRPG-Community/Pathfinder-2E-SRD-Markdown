@@ -16,7 +16,7 @@ A mysterious force granted you divine magic and a curse.
 title: Oracle Dedication, Feat 2
 collapse: closed
 # Oracle Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [multiclass](rules/traits/multiclass.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [multiclass](rules/traits/multiclass.md "Multiclass Feat Trait")  
 
 - **Prerequisites**: Charisma 14
 
@@ -32,7 +32,7 @@ Choose a mystery|oracle|apg|1. You become trained in [Religion](compendium/skill
 title: Basic Mysteries, Feat 4
 collapse: closed
 # Basic Mysteries  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Oracle Dedication](compendium/feats/oracle-dedication-apg.md)
 
@@ -46,7 +46,7 @@ You gain a 1st- or 2nd-level oracle of your choice.
 title: Basic Oracle Spellcasting, Feat 4
 collapse: closed
 # Basic Oracle Spellcasting  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Oracle Dedication](compendium/feats/oracle-dedication-apg.md)
 
@@ -60,11 +60,11 @@ You gain the basic spellcasting benefits. When you gain a spell slot of a new le
 title: First Revelation, Feat 4
 collapse: closed
 # First Revelation  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Oracle Dedication](compendium/feats/oracle-dedication-apg.md)
 
-You gain your mystery's initial revelation spell. Casting this spell progresses your oracular curse|oracle|apg|1||curse. Use the minor curse from your mystery, but when you progress it again, instead of your mystery's moderate [curse](rules/traits/curse.md) effect, you become [flat-footed](rules/conditions.md#Flat-footed) in addition to the effects of the minor curse.
+You gain your mystery's initial revelation spell. Casting this spell progresses your oracular curse|oracle|apg|1||curse. Use the minor curse from your mystery, but when you progress it again, instead of your mystery's moderate [curse](rules/traits/curse.md "Curse Effect Trait") effect, you become [flat-footed](rules/conditions.md#Flat-footed) in addition to the effects of the minor curse.
 
 If you don't have one, you gain a focus pool of 1 Focus Point.
 
@@ -78,7 +78,7 @@ You can [Refocus](rules/actions/refocus.md) by reconciling the conflicting natur
 title: Advanced Mysteries, Feat 6
 collapse: closed
 # Advanced Mysteries  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Mysteries](compendium/feats/basic-mysteries-apg.md)
 
@@ -94,7 +94,7 @@ You gain one oracle feat. For meeting its prerequisites, your oracle level is eq
 title: Mysterious Breadth, Feat 8
 collapse: closed
 # Mysterious Breadth  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Oracle Spellcasting](compendium/feats/basic-oracle-spellcasting-apg.md)
 
@@ -108,7 +108,7 @@ Increase the spell slots you gain from oracle archetype feats by 1 for each spel
 title: Expert Oracle Spellcasting, Feat 12*
 collapse: closed
 # Expert Oracle Spellcasting  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Expert Oracle Spellcasting](compendium/feats/expert-oracle-spellcasting-apg.md) is intended for use with the Oracle Archetype. Its level has been changed accordingly.
 
@@ -124,7 +124,7 @@ You gain the expert spellcasting benefits.
 title: Master Oracle Spellcasting, Feat 18*
 collapse: closed
 # Master Oracle Spellcasting  *Feat 18*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Master Oracle Spellcasting](compendium/feats/master-oracle-spellcasting-apg.md) is intended for use with the Oracle Archetype. Its level has been changed accordingly.
 

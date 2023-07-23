@@ -10,7 +10,7 @@ tags:
 aliases: ["Cassisian Helmet"]
 ---
 # Cassisian Helmet *Item 6*  
-[abjuration](rules/traits/abjuration.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 225 gp
 - **Usage** worn headwear; **Bulk** L

@@ -12,7 +12,7 @@ tags:
 aliases: ["Clan Dagger"]
 ---
 # Clan Dagger *Item 0*  
-[agile](rules/traits/agile.md)  [dwarf](rules/traits/dwarf.md)  [parry](rules/traits/parry.md)  [uncommon](rules/traits/uncommon.md)  [versatile <b>](rules/traits/versatile.md)  
+[agile](rules/traits/agile.md "Agile Weapon Trait")  [dwarf](rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  [parry](rules/traits/parry.md "Parry Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [versatile <b>](rules/traits/versatile-b.md "Versatile Weapon Trait")  
 
 - **Price** 2 gp
 - **Bulk** L

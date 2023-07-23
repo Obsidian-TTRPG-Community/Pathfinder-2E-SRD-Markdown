@@ -7,7 +7,7 @@ tags:
 aliases: ["Plant Shape"]
 ---
 # Plant Shape  *Feat 10*  
-[druid](rules/traits/druid.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  
 
 - **Prerequisites**: Leaf order or [Wild Shape](compendium/feats/wild-shape.md)
 

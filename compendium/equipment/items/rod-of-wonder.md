@@ -11,7 +11,7 @@ tags:
 aliases: ["Rod of Wonder"]
 ---
 # Rod of Wonder *Item 8*  
-[chaotic](rules/traits/chaotic.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[chaotic](rules/traits/chaotic.md "Chaotic Alignment Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 465 gp
 - **Usage** held in 1 hand; **Bulk** L

@@ -7,7 +7,7 @@ tags:
 aliases: ["Attunement To Stone"]
 ---
 # Attunement To Stone  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Ka Stone Ritual](compendium/feats/ka-stone-ritual-lowg.md)
 

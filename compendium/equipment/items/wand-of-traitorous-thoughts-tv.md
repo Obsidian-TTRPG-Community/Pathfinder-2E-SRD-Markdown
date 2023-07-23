@@ -12,7 +12,7 @@ tags:
 aliases: ["Wand of Traitorous Thoughts"]
 ---
 # Wand of Traitorous Thoughts *Item 12*  
-[divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  [uncommon](rules/traits/uncommon.md)  [wand](rules/traits/wand.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
 
 - **Price** 2000 gp
 - **Usage** held in 1 hand; **Bulk** L

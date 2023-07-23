@@ -7,7 +7,7 @@ tags:
 aliases: ["Spell Runes"]
 ---
 # Spell Runes  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Runescarred Dedication](compendium/feats/runescarred-dedication-lowg.md)
 

@@ -8,7 +8,7 @@ tags:
 aliases: ["Captivator Dedication"]
 ---
 # Captivator Dedication  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: Charisma 14, trained in [Deception](compendium/skills.md#Deception) or [Diplomacy](compendium/skills.md#Diplomacy)
 

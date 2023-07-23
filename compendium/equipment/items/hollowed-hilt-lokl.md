@@ -8,7 +8,7 @@ tags:
 aliases: ["Hollowed Hilt"]
 ---
 # Hollowed Hilt *Item 0*  
-[uncommon](rules/traits/uncommon.md)  
+[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** Knights of Lastwall have access to this item.
 - **Price** 3 gp

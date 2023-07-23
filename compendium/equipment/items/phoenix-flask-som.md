@@ -12,7 +12,7 @@ tags:
 aliases: ["Phoenix Flask"]
 ---
 # Phoenix Flask *Item 12*  
-[consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  [magical](rules/traits/magical.md)  [potion](rules/traits/potion.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [potion](rules/traits/potion.md "Potion Item Trait")  
 
 - **Price** 350 gp
 - **Usage** held in 1 hand; **Bulk** L

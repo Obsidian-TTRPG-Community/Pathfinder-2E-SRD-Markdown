@@ -7,7 +7,7 @@ tags:
 aliases: ["Duskwalker Magic"]
 ---
 # Duskwalker Magic  *Feat 9*  
-[duskwalker](rules/traits/duskwalker-apg.md)  
+[duskwalker](rules/traits/duskwalker-apg.md "Duskwalker Ancestry & Heritage Trait")  
 
 
 Your connection to psychopomps gives you the power to glimpse the near future and protect corpses from the ravages of undeath. You can cast [augury](compendium/spells/augury.md) and [gentle repose](compendium/spells/gentle-repose.md) each once per day as 2nd-level divine innate spells.

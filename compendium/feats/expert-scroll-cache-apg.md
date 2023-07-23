@@ -7,7 +7,7 @@ tags:
 aliases: ["Expert Scroll Cache"]
 ---
 # Expert Scroll Cache  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Scroll Cache](compendium/feats/basic-scroll-cache-apg.md)
 

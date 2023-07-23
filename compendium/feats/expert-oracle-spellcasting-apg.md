@@ -7,7 +7,7 @@ tags:
 aliases: ["Expert Oracle Spellcasting"]
 ---
 # Expert Oracle Spellcasting  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Oracle Spellcasting](compendium/feats/basic-oracle-spellcasting-apg.md), master in [Religion](compendium/skills.md#Religion)
 

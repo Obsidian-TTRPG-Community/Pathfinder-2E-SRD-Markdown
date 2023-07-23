@@ -11,7 +11,7 @@ tags:
 aliases: ["Bewitching Bloom"]
 ---
 # Bewitching Bloom *Item 2+*  
-[enchantment](rules/traits/enchantment.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [tattoo](rules/traits/tattoo-lowg.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [tattoo](rules/traits/tattoo-lowg.md "Tattoo Item Trait")  
 
 - **Usage** tattooed on the body; **Bulk** —
 - **Category** Tattoo

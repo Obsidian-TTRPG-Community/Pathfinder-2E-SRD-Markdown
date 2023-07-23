@@ -7,7 +7,7 @@ tags:
 aliases: ["Scout's Speed"]
 ---
 # Scout's Speed  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Scout Dedication](compendium/feats/scout-dedication-apg.md)
 

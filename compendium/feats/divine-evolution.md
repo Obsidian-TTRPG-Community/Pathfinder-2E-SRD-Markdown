@@ -8,7 +8,7 @@ tags:
 aliases: ["Divine Evolution"]
 ---
 # Divine Evolution  *Feat 4*  
-[divine](rules/traits/divine.md)  [sorcerer](rules/traits/sorcerer.md)  
+[divine](rules/traits/divine.md "Divine Tradition Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 - **Prerequisites**: bloodline that grants divine spells
 

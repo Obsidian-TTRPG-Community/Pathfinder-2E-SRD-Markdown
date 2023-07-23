@@ -7,7 +7,7 @@ tags:
 aliases: ["Dire Form"]
 ---
 # Dire Form  *Feat 13*  
-[beastkin](rules/traits/beastkin-loag.md)  
+[beastkin](rules/traits/beastkin-loag.md "Beastkin Ancestry & Heritage Trait")  
 
 
 Your hybrid shape is a hulking beast. While in your hybrid shape, you gain the effects of [enlarge](compendium/spells/enlarge.md).

@@ -7,7 +7,7 @@ tags:
 aliases: ["Implausible Purchase (Investigator)"]
 ---
 # Implausible Purchase (Investigator)  *Feat 16*  
-[investigator](rules/traits/investigator-apg.md)  
+[investigator](rules/traits/investigator-apg.md "Investigator Class Trait")  
 
 - **Prerequisites**: Predictive Purchase
 

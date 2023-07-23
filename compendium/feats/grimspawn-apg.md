@@ -8,10 +8,10 @@ tags:
 aliases: ["Grimspawn"]
 ---
 # Grimspawn  *Feat 1*  
-[lineage](rules/traits/lineage-apg.md)  [tiefling](rules/traits/tiefling-b1.md)  
+[lineage](rules/traits/lineage-apg.md "Lineage  Trait")  [tiefling](rules/traits/tiefling-b1.md "Tiefling Ancestry & Heritage Trait")  
 
 
-Your lineage traces back to a [daemon](rules/traits/daemon-b1.md), one of the manifestations of horrific forms of death that devour souls within their foul home of Abaddon. As a result, you cling tenaciously to the last shreds of your own life force. You gain the [Diehard](compendium/feats/diehard.md) feat.
+Your lineage traces back to a [daemon](rules/traits/daemon-b1.md "Daemon Creature Trait"), one of the manifestations of horrific forms of death that devour souls within their foul home of Abaddon. As a result, you cling tenaciously to the last shreds of your own life force. You gain the [Diehard](compendium/feats/diehard.md) feat.
 
 ## Grimspawn leads to...
 

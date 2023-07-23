@@ -11,7 +11,7 @@ tags:
 aliases: ["Taleteller's Ring"]
 ---
 # Taleteller's Ring *Item 9*  
-[cursed](rules/traits/cursed-gmg.md)  [enchantment](rules/traits/enchantment.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+[cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Usage** worn ring; **Bulk** –
 - **Category** Worn

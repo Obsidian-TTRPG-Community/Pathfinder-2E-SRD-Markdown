@@ -7,7 +7,7 @@ tags:
 aliases: ["Resolute Defender"]
 ---
 # Resolute Defender  *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Lastwall Sentry Dedication](compendium/feats/lastwall-sentry-dedication-lowg.md)
 

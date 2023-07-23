@@ -7,7 +7,7 @@ tags:
 aliases: ["Infectious Emotions"]
 ---
 # Infectious Emotions  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Cathartic Mage Dedication](compendium/feats/cathartic-mage-dedication-som.md)
 

@@ -11,15 +11,15 @@ tags:
 aliases: ["Perfect Droplet"]
 ---
 # Perfect Droplet *Item 3+*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [spellheart](rules/traits/spellheart-som.md)  [water](rules/traits/water.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [spellheart](rules/traits/spellheart-som.md "Spellheart Equipment Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
 - **Usage** affixed to armor or a weapon
 - **Category** Spellheart
 
 Intense blue water magically holds its shape—a perfect sphere. The spell DC of any spell cast by [Activating](rules/actions/activate-an-item.md) this item is 17.
 
-- **Armor** You gain resistance 2 to [water](rules/traits/water.md) effects and attacks by water creatures.
-- **Weapon** After you cast a water spell by [Activating](rules/actions/activate-an-item.md) the droplet, your body becomes mistlike. Until the end of the turn, you can move through enemies' spaces, treating each square in their spaces as difficult terrain. You can't move through creatures that have the [water](rules/traits/water.md) trait in this way.
+- **Armor** You gain resistance 2 to [water](rules/traits/water.md "Water Energy & Element Trait") effects and attacks by water creatures.
+- **Weapon** After you cast a water spell by [Activating](rules/actions/activate-an-item.md) the droplet, your body becomes mistlike. Until the end of the turn, you can move through enemies' spaces, treating each square in their spaces as difficult terrain. You can't move through creatures that have the [water](rules/traits/water.md "Water Energy & Element Trait") trait in this way.
 
 ```ad-embed-ability
 title: Activate

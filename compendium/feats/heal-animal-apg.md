@@ -7,7 +7,7 @@ tags:
 aliases: ["Heal Animal"]
 ---
 # Heal Animal  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Beastmaster Dedication](compendium/feats/beastmaster-dedication-apg.md)
 

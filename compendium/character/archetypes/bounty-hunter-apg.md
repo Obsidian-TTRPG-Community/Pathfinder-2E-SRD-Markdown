@@ -15,7 +15,7 @@ Whether for coin, glory, or justice, you know how to track, defeat, and capture 
 title: Bounty Hunter Dedication, Feat 2
 collapse: closed
 # Bounty Hunter Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: trained in [Survival](compendium/skills.md#Survival)
 
@@ -33,7 +33,7 @@ If you already have [Hunt Prey](rules/actions/hunt-prey.md), you become an exper
 title: Posse, Feat 4
 collapse: closed
 # Posse  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [exploration](rules/traits/exploration.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  
 
 - **Prerequisites**: [Bounty Hunter Dedication](compendium/feats/bounty-hunter-dedication-apg.md)
 - **Requirements**: You have designated prey with [Hunt Prey](rules/actions/hunt-prey.md).
@@ -50,13 +50,13 @@ This benefit lasts until you designate a new prey or your prey dies, whichever c
 title: Tools Of The Trade, Feat 4
 collapse: closed
 # Tools Of The Trade  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Bounty Hunter Dedication](compendium/feats/bounty-hunter-dedication-apg.md)
 
 You're well-versed in weapons that allow you to bring bounties in alive. You are trained with the following weapons: bola, [sap](compendium/equipment/items/sap.md), and [whip](compendium/equipment/items/whip.md). You gain access to bolas. Whenever you gain a class feature that grants you expert or greater proficiency in a given weapon or weapons, you also gain that proficiency in the weapons listed.
 
-In addition, you take no penalty when making a nonlethal attack with a weapon without the [nonlethal](rules/traits/nonlethal.md) trait.
+In addition, you take no penalty when making a nonlethal attack with a weapon without the [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait") trait.
 
 *Source: Advanced Player's Guide p. 163*  
 %% #trait/archetype %%
@@ -66,7 +66,7 @@ In addition, you take no penalty when making a nonlethal attack with a weapon wi
 title: Keep Pace, Feat 6
 collapse: closed
 # Keep Pace  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Bounty Hunter Dedication](compendium/feats/bounty-hunter-dedication-apg.md)
 - **Trigger** Your prey is within reach and attempts to move away from you.
@@ -82,7 +82,7 @@ Your prey can't escape. [Stride](rules/actions/stride.md) up to your Speed, foll
 title: Opportunistic Grapple, Feat 8
 collapse: closed
 # Opportunistic Grapple  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Bounty Hunter Dedication](compendium/feats/bounty-hunter-dedication-apg.md)
 - **Trigger** Your prey critically fails on a melee [Strike](rules/actions/strike.md)'s attack roll against you.
@@ -99,7 +99,7 @@ You attempt an [Athletics](compendium/skills.md#Athletics) check to [Grapple](ru
 title: Double Prey, Feat 14*
 collapse: closed
 # Double Prey  *Feat 14*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 > [!pf2-note] This version of [Double Prey](compendium/feats/double-prey.md) is intended for use with the Bounty Hunter Archetype. Its level has been changed accordingly.
 

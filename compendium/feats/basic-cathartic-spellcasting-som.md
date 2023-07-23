@@ -7,7 +7,7 @@ tags:
 aliases: ["Basic Cathartic Spellcasting"]
 ---
 # Basic Cathartic Spellcasting  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Cathartic Mage Dedication](compendium/feats/cathartic-mage-dedication-som.md)
 

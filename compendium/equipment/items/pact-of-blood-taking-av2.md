@@ -12,7 +12,7 @@ tags:
 aliases: ["Pact Of Blood-taking"]
 ---
 # Pact Of Blood-taking *Item 5*  
-[contract](rules/traits/contract-lol.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [rare](rules/traits/rare.md)  
+[contract](rules/traits/contract-lol.md "Contract Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Devil** barbazu; **Decipher Writing** [Society](compendium/skills.md#Society), [Warfare Lore](compendium/skills.md#Lore)
 - **Category** Contract

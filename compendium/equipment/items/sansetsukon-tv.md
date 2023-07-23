@@ -12,7 +12,7 @@ tags:
 aliases: ["Sansetsukon"]
 ---
 # Sansetsukon *Item 0*  
-[backswing](rules/traits/backswing.md)  [disarm](rules/traits/disarm.md)  [monk](rules/traits/monk.md)  [parry](rules/traits/parry.md)  [uncommon](rules/traits/uncommon.md)  
+[backswing](rules/traits/backswing.md "Backswing Weapon Trait")  [disarm](rules/traits/disarm.md "Disarm Weapon Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  [parry](rules/traits/parry.md "Parry Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 2 gp
 - **Bulk** 2

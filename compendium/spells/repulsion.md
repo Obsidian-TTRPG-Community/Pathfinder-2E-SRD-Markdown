@@ -10,9 +10,9 @@ tags:
 aliases: ["Repulsion"]
 ---
 # Repulsion *Spell 6*   
-[abjuration](rules/traits/abjuration.md)  [aura](rules/traits/aura.md)  [mental](rules/traits/mental.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [aura](rules/traits/aura.md "Aura Combat Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [divine](rules/traits/divine.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**40 foot
 - **Saving Throw** Will

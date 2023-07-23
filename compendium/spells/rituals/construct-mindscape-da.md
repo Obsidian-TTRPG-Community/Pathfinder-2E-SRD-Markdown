@@ -9,7 +9,7 @@ tags:
 aliases: ["Construct Mindscape"]
 ---
 # Construct Mindscape *Ritual 5*  
-[illusion](rules/traits/illusion.md)  [rare](rules/traits/rare.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Cast** 1 day
 - **Cost** precious clay, wood, or other modeling materials worth spell level × 20 gp

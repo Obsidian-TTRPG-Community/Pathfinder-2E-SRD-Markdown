@@ -10,7 +10,7 @@ tags:
 aliases: ["Warding Tablets"]
 ---
 # Warding Tablets *Item 8*  
-[abjuration](rules/traits/abjuration.md)  [grimoire](rules/traits/grimoire-som.md)  [magical](rules/traits/magical.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [grimoire](rules/traits/grimoire-som.md "Grimoire Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 450 gp
 - **Bulk** L
@@ -20,7 +20,7 @@ This grimoire takes the form of a series of baked clay tablets. Any text inked u
 
 ```ad-embed-ability
 title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[metamagic](rules/traits/metamagic.md)  
+[metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 If your next action is to cast a beneficial abjuration spell on yourself or a single ally, you use the tablets' power to infuse the warding with additional abjurations and attempt to remove a harmful effect.
 

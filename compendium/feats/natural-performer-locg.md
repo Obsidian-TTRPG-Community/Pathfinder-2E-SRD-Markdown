@@ -7,7 +7,7 @@ tags:
 aliases: ["Natural Performer"]
 ---
 # Natural Performer  *Feat 1*  
-[gnome](rules/traits/gnome.md)  
+[gnome](rules/traits/gnome.md "Gnome Ancestry & Heritage Trait")  
 
 
 Entertainment comes naturally to you. You become trained in [Performance](compendium/skills.md#Performance) and gain one 1st-level Performance skill feat.

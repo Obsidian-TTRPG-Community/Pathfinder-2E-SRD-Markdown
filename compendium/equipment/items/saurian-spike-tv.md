@@ -10,7 +10,7 @@ tags:
 aliases: ["Saurian Spike"]
 ---
 # Saurian Spike *Item 9+*  
-[magical](rules/traits/magical.md)  [spellheart](rules/traits/spellheart-som.md)  [transmutation](rules/traits/transmutation.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [spellheart](rules/traits/spellheart-som.md "Spellheart Equipment Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Usage** affixed to armor or a weapon; **Bulk** —
 - **Category** Spellheart

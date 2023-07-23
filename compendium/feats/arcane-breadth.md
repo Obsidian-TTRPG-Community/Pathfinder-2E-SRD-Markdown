@@ -7,7 +7,7 @@ tags:
 aliases: ["Arcane Breadth"]
 ---
 # Arcane Breadth  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Wizard Spellcasting](compendium/feats/basic-wizard-spellcasting.md)
 

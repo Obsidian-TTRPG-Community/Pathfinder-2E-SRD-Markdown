@@ -7,7 +7,7 @@ tags:
 aliases: ["Perfect Resistance"]
 ---
 # Perfect Resistance  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: Student of Perfection Dedication
 

@@ -8,7 +8,7 @@ tags:
 aliases: ["Tomb-watcher's Glare"]
 ---
 # Tomb-watcher's Glare  *Feat 5*  
-[divine](rules/traits/divine.md)  [dwarf](rules/traits/dwarf.md)  
+[divine](rules/traits/divine.md "Divine Tradition Trait")  [dwarf](rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  
 
 - **Prerequisites**: death warden dwarf heritage
 

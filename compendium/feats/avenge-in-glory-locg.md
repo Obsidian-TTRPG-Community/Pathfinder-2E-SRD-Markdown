@@ -8,7 +8,7 @@ tags:
 aliases: ["Avenge In Glory"]
 ---
 # Avenge In Glory  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
-[dwarf](rules/traits/dwarf.md)  [uncommon](rules/traits/uncommon.md)  
+[dwarf](rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: mountain dwarf ethnicity
 - **Frequency**: once per day

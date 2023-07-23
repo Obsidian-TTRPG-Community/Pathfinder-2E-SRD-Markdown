@@ -11,7 +11,7 @@ tags:
 aliases: ["Reaper's Lancet"]
 ---
 # Reaper's Lancet *Item 5*  
-[magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [poison](rules/traits/poison.md)  [unique](rules/traits/unique.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Price** 200 gp
 - **Usage** held in 1 hand; **Bulk** 1

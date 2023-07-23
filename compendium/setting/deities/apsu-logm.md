@@ -10,12 +10,12 @@ tags:
 - domain/wyrmkin/deity
 aliases: ["Apsu", "The Waybringer"]
 ---
-# Apsu (The Waybringer) *([LG](rules/traits/lawful-goo-b1.md))*  
+# Apsu (The Waybringer) *([LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 130*  
 
 - **Category**: Other Gods
 - **Anathema**: fail to pursue a foe who has betrayed your mercy, attack a creature without certainty of wrongdoing
-- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [NG](rules/traits/neutral-good-b1.md), [CG](rules/traits/chaotic-good-b1.md)
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")
 
 ## Devotee benefits
 

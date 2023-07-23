@@ -7,7 +7,7 @@ tags:
 aliases: ["Symphony Of The Unfettered Heart"]
 ---
 # Symphony Of The Unfettered Heart  *Feat 10*  
-[bard](rules/traits/bard.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  
 
 
 You learn the [symphony of the unfettered heart](compendium/spells/symphony-of-the-unfettered-heart-apg.md) composition spell, which enables you to protect an ally against incapacitating conditions.

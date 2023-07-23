@@ -10,12 +10,12 @@ tags:
 - domain/trickery/deity
 aliases: ["Shax", "The Bloody Marquis"]
 ---
-# Shax (The Bloody Marquis) *([CE](rules/traits/chaotic-evil-b1.md))*  
+# Shax (The Bloody Marquis) *([CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 77*  
 
 - **Category**: Demon Lords
 - **Anathema**: sleep in a building with fewer than five rooms, allow a victim to escape due to gloating
-- **Follower Alignments**: [NE](rules/traits/neutral-evil-b1.md), [CE](rules/traits/chaotic-evil-b1.md)
+- **Follower Alignments**: [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
 

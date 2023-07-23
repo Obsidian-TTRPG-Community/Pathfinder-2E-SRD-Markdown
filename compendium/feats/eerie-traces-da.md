@@ -11,7 +11,7 @@ tags:
 aliases: ["Eerie Traces"]
 ---
 # Eerie Traces  *Feat 8*  
-[concentrate](rules/traits/concentrate.md)  [druid](rules/traits/druid.md)  [exploration](rules/traits/exploration.md)  [move](rules/traits/move.md)  [ranger](rules/traits/ranger.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [druid](rules/traits/druid.md "Druid Class Trait")  [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [move](rules/traits/move.md "Move Combat Trait")  [ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: trained in [Intimidation](compendium/skills.md#Intimidation), trained in [Survival](compendium/skills.md#Survival)
 

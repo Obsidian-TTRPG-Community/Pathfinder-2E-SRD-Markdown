@@ -10,7 +10,7 @@ tags:
 aliases: ["Enduring Might"]
 ---
 # Enduring Might *Focus 4*   
-[abjuration](rules/traits/abjuration.md)  [cleric](rules/traits/cleric.md)  [uncommon](rules/traits/uncommon.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [cleric](rules/traits/cleric.md "Cleric Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Domains**: [might](compendium/setting/domains.md#Might)
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 

@@ -10,7 +10,7 @@ tags:
 aliases: ["Shoony Shovel"]
 ---
 # Shoony Shovel *Item 9*  
-[earth](rules/traits/earth.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[earth](rules/traits/earth.md "Earth Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 600 gp
 - **Usage** held in 2 hands; **Bulk** 2

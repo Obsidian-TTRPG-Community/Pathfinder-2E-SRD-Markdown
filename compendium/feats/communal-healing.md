@@ -9,7 +9,7 @@ tags:
 aliases: ["Communal Healing"]
 ---
 # Communal Healing  *Feat 2*  
-[cleric](rules/traits/cleric.md)  [healing](rules/traits/healing.md)  [positive](rules/traits/positive.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  
 
 
 You're a conduit for positive energy, and as you channel it through you, it heals some of your minor injuries. When you cast the [heal](compendium/spells/heal.md) spell to heal a single creature other than yourself, you regain Hit Points equal to the spell level of the [heal](compendium/spells/heal.md) spell.

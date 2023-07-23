@@ -7,7 +7,7 @@ tags:
 aliases: ["Basic Druid Spellcasting"]
 ---
 # Basic Druid Spellcasting  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Druid Dedication](compendium/feats/druid-dedication.md)
 

@@ -9,7 +9,7 @@ tags:
 aliases: ["Door To Beyond"]
 ---
 # Door To Beyond *Focus 4*   
-[conjuration](rules/traits/conjuration.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  
 
 - **Domains**: [void](compendium/setting/domains.md#Void)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

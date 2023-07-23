@@ -11,7 +11,7 @@ tags:
 aliases: ["Golden Chrysalis"]
 ---
 # Golden Chrysalis *Item 5*  
-[consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  ammunition  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  ammunition  
 
 - **Price** 27 gp
 - **Ammunition** sling bullet

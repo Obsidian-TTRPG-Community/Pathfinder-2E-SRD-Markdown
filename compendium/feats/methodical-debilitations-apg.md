@@ -7,7 +7,7 @@ tags:
 aliases: ["Methodical Debilitations"]
 ---
 # Methodical Debilitations  *Feat 10*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Prerequisites**: mastermind racket, [Debilitating Strike](rules/actions/debilitating-strike.md)
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Bullying Press"]
 ---
 # Bullying Press [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[flourish](rules/traits/flourish.md)  
+[flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 *Source: Gamemastery Guide p. 167*  
 
 **Variant Rule** Duels

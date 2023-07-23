@@ -8,7 +8,7 @@ tags:
 aliases: ["Loremaster's Etude"]
 ---
 # Loremaster's Etude  *Feat 2*  
-[bard](rules/traits/bard.md)  [fortune](rules/traits/fortune.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  
 
 - **Prerequisites**: Enigma muse
 

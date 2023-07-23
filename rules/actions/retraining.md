@@ -8,7 +8,7 @@ tags:
 aliases: ["Retraining"]
 ---
 # Retraining (basic)
-[downtime](rules/traits/downtime.md)  
+[downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  
 *Source: Core Rulebook p. 481*  
 
 

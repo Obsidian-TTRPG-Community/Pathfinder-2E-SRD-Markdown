@@ -10,7 +10,7 @@ tags:
 aliases: ["Ring of Maniacal Devices"]
 ---
 # Ring of Maniacal Devices *Item 11+*  
-[divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Usage** worn; **Bulk** —
 - **Category** Worn

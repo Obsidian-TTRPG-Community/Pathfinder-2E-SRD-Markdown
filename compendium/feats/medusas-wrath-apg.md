@@ -7,7 +7,7 @@ tags:
 aliases: ["Medusa's Wrath"]
 ---
 # Medusa's Wrath  *Feat 16*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Prerequisites**: ki spells
 

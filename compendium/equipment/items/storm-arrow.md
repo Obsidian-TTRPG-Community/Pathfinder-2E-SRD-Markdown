@@ -12,7 +12,7 @@ tags:
 aliases: ["Storm Arrow"]
 ---
 # Storm Arrow *Item 9*  
-[air](rules/traits/air.md)  [consumable](rules/traits/consumable.md)  [electricity](rules/traits/electricity.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  
+[air](rules/traits/air.md "Air Energy & Element Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 130 gp
 - **Ammunition** [arrow](compendium/equipment/items/arrow.md)

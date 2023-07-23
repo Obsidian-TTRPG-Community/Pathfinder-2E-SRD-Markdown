@@ -7,7 +7,7 @@ tags:
 aliases: ["Pack Hunter"]
 ---
 # Pack Hunter  *Feat 1*  
-[gnoll](rules/traits/gnoll-b1.md)  
+[gnoll](rules/traits/gnoll-b1.md "Gnoll Ancestry & Heritage Trait")  
 
 
 You were taught how to hunt as part of a pack. You gain a +2 circumstance bonus to checks to [Aid](rules/actions/aid.md), and your allies gain a +2 circumstance bonus to checks to [Aid](rules/actions/aid.md) you.

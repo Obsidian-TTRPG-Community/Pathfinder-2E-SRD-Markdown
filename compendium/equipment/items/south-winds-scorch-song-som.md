@@ -11,7 +11,7 @@ tags:
 aliases: ["South Wind's Scorch Song"]
 ---
 # South Wind's Scorch Song *Item 10*  
-[evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 900 gp
 - **Usage** held in 1 hands; **Bulk** 1
@@ -21,7 +21,7 @@ This +1 striking flaming scimitar is always warm to the touch, nearly unbearably
 
 ```ad-embed-ability
 title: Activate [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
-[evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  [magical](rules/traits/magical.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Trigger**: Your spell deals fire damage to a creature
 

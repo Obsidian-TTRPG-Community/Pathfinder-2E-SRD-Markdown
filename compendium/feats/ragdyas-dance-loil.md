@@ -7,7 +7,7 @@ tags:
 aliases: ["Ragdya's Dance"]
 ---
 # Ragdya's Dance  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 9*  
-[vanara](rules/traits/vanara-loil.md)  
+[vanara](rules/traits/vanara-loil.md "Vanara Ancestry & Heritage Trait")  
 
 - **Frequency**: once per hour
 - **Trigger** An adjacent [observed](rules/conditions.md#Observed) creature succeeds at an attack roll against you.

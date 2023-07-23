@@ -8,7 +8,7 @@ tags:
 aliases: ["Chronocognizance"]
 ---
 # Chronocognizance  *Feat 7*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Time Mage Dedication](compendium/feats/time-mage-dedication-da.md), master in [Perception](compendium/skills.md#Perception)
 

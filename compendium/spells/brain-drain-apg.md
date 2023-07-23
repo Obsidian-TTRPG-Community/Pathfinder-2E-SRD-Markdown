@@ -12,7 +12,7 @@ tags:
 aliases: ["Brain Drain"]
 ---
 # Brain Drain *Focus 1*   
-[cursebound](rules/traits/cursebound-apg.md)  [enchantment](rules/traits/enchantment.md)  [mental](rules/traits/mental.md)  [oracle](rules/traits/oracle-apg.md)  [uncommon](rules/traits/uncommon.md)  
+[cursebound](rules/traits/cursebound-apg.md "Cursebound Spell Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Mystery** Oracle
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

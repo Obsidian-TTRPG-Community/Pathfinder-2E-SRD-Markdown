@@ -8,7 +8,7 @@ tags:
 aliases: ["Sleeper Hold"]
 ---
 # Sleeper Hold  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
-[incapacitation](rules/traits/incapacitation.md)  [monk](rules/traits/monk.md)  
+[incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Requirements**: You have a creature [grabbed](rules/conditions.md#Grabbed) or [restrained](rules/conditions.md#Restrained).
 - **Activity** Single Action

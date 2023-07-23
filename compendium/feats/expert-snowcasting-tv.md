@@ -7,7 +7,7 @@ tags:
 aliases: ["Expert Snowcasting"]
 ---
 # Expert Snowcasting  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 
 You draw ever more magical cold into your being, learning how to manipulate it to your whims. You gain the expert spellcasting benefits.

@@ -7,7 +7,7 @@ tags:
 aliases: ["Diverse Armor Expert"]
 ---
 # Diverse Armor Expert  *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Champion Dedication](compendium/feats/champion-dedication.md), expert in unarmored defense or one or more types of armor
 

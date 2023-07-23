@@ -20,7 +20,7 @@ The barbarian archetype is a great choice for characters that emphasize Strength
 title: Barbarian Dedication, Feat 2
 collapse: closed
 # Barbarian Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [multiclass](rules/traits/multiclass.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [multiclass](rules/traits/multiclass.md "Multiclass Feat Trait")  
 
 - **Prerequisites**: Strength 14, Constitution 14
 
@@ -40,7 +40,7 @@ Choose an instinct|Barbarian||1 as you would if you were a barbarian. You have t
 title: Barbarian Resiliency, Feat 4
 collapse: closed
 # Barbarian Resiliency  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Barbarian Dedication](compendium/feats/barbarian-dedication.md), class granting no more Hit Points per level than 10 + your Constitution modifier
 
@@ -54,7 +54,7 @@ You gain 3 additional Hit Points for each barbarian archetype class feat you hav
 title: Basic Fury, Feat 4
 collapse: closed
 # Basic Fury  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Barbarian Dedication](compendium/feats/barbarian-dedication.md)
 
@@ -68,7 +68,7 @@ You gain a 1st- or 2nd-level barbarian feat.
 title: Advanced Fury, Feat 6
 collapse: closed
 # Advanced Fury  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Fury](compendium/feats/basic-fury.md)
 
@@ -84,7 +84,7 @@ You gain one barbarian feat. For the purpose of meeting its prerequisites, your 
 title: Instinct Ability, Feat 6
 collapse: closed
 # Instinct Ability  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Barbarian Dedication](compendium/feats/barbarian-dedication.md)
 
@@ -98,7 +98,7 @@ You gain the instinct|Barbarian||1 ability for the instinct you chose for [Barba
 title: Juggernaut's Fortitude, Feat 12*
 collapse: closed
 # Juggernaut's Fortitude  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Juggernaut's Fortitude](compendium/feats/juggernauts-fortitude.md) is intended for use with the Barbarian Archetype. Its level has been changed accordingly.
 

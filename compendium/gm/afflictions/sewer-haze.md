@@ -11,7 +11,7 @@ aliases: ["Sewer Haze"]
 ---
 # Sewer Haze
 *Disease 7*  
-[disease](rules/traits/disease.md)  [virulent](rules/traits/virulent.md)  
+[disease](rules/traits/disease.md "Disease Effect Trait")  [virulent](rules/traits/virulent.md "Virulent Item Trait")  
 
 Many healers and alchemists suspect that sewer haze has a supernatural origin, given its association with particularly strong otyughs.
 

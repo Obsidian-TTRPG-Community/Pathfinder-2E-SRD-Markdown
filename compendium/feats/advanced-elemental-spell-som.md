@@ -7,7 +7,7 @@ tags:
 aliases: ["Advanced Elemental Spell"]
 ---
 # Advanced Elemental Spell  *Feat 6*  
-[druid](rules/traits/druid.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  
 
 - **Prerequisites**: flame order, stone order, storm order, or wave order
 

@@ -12,7 +12,7 @@ tags:
 aliases: ["Tricky Pick"]
 ---
 # Tricky Pick *Item 0*  
-[backstabber](rules/traits/backstabber.md)  [fatal <d10>](rules/traits/fatal.md)  [kobold](rules/traits/kobold-b1.md)  [modular <b, p, or s>](rules/traits/modular-logm.md)  [uncommon](rules/traits/uncommon.md)  
+[backstabber](rules/traits/backstabber.md "Backstabber Weapon Trait")  [fatal <d10>](rules/traits/fatal-d10.md "Fatal Weapon Trait")  [kobold](rules/traits/kobold-b1.md "Kobold Ancestry & Heritage Trait")  [modular <b, p, or s>](rules/traits/modular-b-p-or-s-logm.md "Modular Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 10 gp
 - **Bulk** 1

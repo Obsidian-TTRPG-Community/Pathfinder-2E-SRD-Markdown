@@ -7,7 +7,7 @@ tags:
 aliases: ["Reclaimant Plea"]
 ---
 # Reclaimant Plea  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Knight Reclaimant Dedication](compendium/feats/knight-reclaimant-dedication-locg.md), ability to cast divine spells
 

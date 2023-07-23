@@ -11,7 +11,7 @@ tags:
 aliases: ["Torag's Silver Anvil"]
 ---
 # Torag's Silver Anvil *Item 18*  
-[divine](rules/traits/divine.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+[divine](rules/traits/divine.md "Divine Tradition Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** follower of [Torag](compendium/setting/deities/torag.md)
 - **Price** 24000 gp

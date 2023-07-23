@@ -8,7 +8,7 @@ tags:
 aliases: ["Water Purifier"]
 ---
 # Water Purifier *Item 0*  
-[uncommon](rules/traits/uncommon.md)  
+[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 5 gp
 - **Bulk** L

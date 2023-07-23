@@ -7,7 +7,7 @@ tags:
 aliases: ["Lightning Tongue"]
 ---
 # Lightning Tongue  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
-[lizardfolk](rules/traits/lizardfolk-b1.md)  
+[lizardfolk](rules/traits/lizardfolk-b1.md "Lizardfolk Ancestry & Heritage Trait")  
 
 - **Activity** Single Action
 

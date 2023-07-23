@@ -10,15 +10,15 @@ tags:
 aliases: ["Mantle Of The Magma Heart"]
 ---
 # Mantle Of The Magma Heart *Spell 5*   
-[fire](rules/traits/fire.md)  [morph](rules/traits/morph.md)  [transmutation](rules/traits/transmutation.md)  
+[fire](rules/traits/fire.md "Fire Energy & Element Trait")  [morph](rules/traits/morph.md "Morph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Duration**1 minute
 
 You surround yourself in a mantle of blazing fire magic, and your skin and anything you're wearing morphs into burning hot lava. The air around you swelters with heat, and tiny sparks of flame dance behind you as you pass.
 
-Upon casting this spell, pick two of the options below. As a single action, which has the [concentrate](rules/traits/concentrate.md) trait, you can change one of your chosen abilities to a different option from the list.
+Upon casting this spell, pick two of the options below. As a single action, which has the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") trait, you can change one of your chosen abilities to a different option from the list.
 
 - **Enlarging Eruption** You erupt in lava, which clings to you and hardens, causing your body to swell and burst until you grow to size Large. You're [clumsy](rules/conditions.md#Clumsy). Your reach increases by 5 feet (or by 10 feet if you started out Tiny), and you gain a +2 status bonus to melee damage. You can't choose this option if you're already Large or larger.
 - **Fiery Grasp** Your hands swell and grow with lava. You gain a lava fist unarmed attack in the brawling weapon group. Your lava fists deal `1d8` bludgeoning damage as their base damage, plus an additional `2d6` fire damage and `1d6` [persistent fire damage](rules/conditions.md#Persistent%20Damage).

@@ -7,7 +7,7 @@ tags:
 aliases: ["Supreme Psychic Center"]
 ---
 # Supreme Psychic Center  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Psychic Duelist Dedication](compendium/feats/psychic-duelist-dedication-da.md)
 - **Trigger** Your turn in a psychic duel begins.

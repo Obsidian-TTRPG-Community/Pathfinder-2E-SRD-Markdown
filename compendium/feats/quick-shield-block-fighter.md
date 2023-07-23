@@ -7,7 +7,7 @@ tags:
 aliases: ["Quick Shield Block (Fighter)"]
 ---
 # Quick Shield Block (Fighter)  *Feat 8*  
-[fighter](rules/traits/fighter.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 - **Prerequisites**: [Shield Block](compendium/feats/shield-block.md)
 

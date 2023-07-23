@@ -11,7 +11,7 @@ tags:
 aliases: ["Bit Of Luck"]
 ---
 # Bit Of Luck *Focus 1*   
-[cleric](rules/traits/cleric.md)  [divination](rules/traits/divination.md)  [fortune](rules/traits/fortune.md)  [uncommon](rules/traits/uncommon.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Domains**: [luck](compendium/setting/domains.md#Luck)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

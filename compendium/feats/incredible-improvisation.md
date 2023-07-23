@@ -7,7 +7,7 @@ tags:
 aliases: ["Incredible Improvisation"]
 ---
 # Incredible Improvisation  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 9*  
-[human](rules/traits/human.md)  
+[human](rules/traits/human.md "Human Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Clever Improviser](compendium/feats/clever-improviser.md)
 - **Frequency**: once per day

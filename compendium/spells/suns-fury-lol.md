@@ -11,7 +11,7 @@ tags:
 aliases: ["Sun's Fury"]
 ---
 # Sun's Fury *Focus 3*   
-[evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  [good](rules/traits/good.md)  [uncommon](rules/traits/uncommon.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [good](rules/traits/good.md "Good Alignment Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**touch

@@ -8,7 +8,7 @@ tags:
 aliases: ["Explorer's Clothing"]
 ---
 # Explorer's Clothing *Item 0*  
-[comfort](rules/traits/comfort.md)  
+[comfort](rules/traits/comfort.md "Comfort Armor Trait")  
 
 - **Price** 1 sp
 - **Bulk** L

@@ -8,7 +8,7 @@ tags:
 aliases: ["Breaking and Entering"]
 ---
 # Breaking and Entering
-[exploration](rules/traits/exploration.md)  
+[exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  
 *Source: Age of Ashes #5: Against the Scarlet Triad p. 27*  
 
 

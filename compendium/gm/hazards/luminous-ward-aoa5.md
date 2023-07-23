@@ -8,7 +8,7 @@ tags:
 aliases: ["Luminous Ward"]
 ---
 # Luminous Ward *Hazard 18*  
-[magical](rules/traits/magical.md)  [trap](rules/traits/trap.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 40 master  
@@ -19,7 +19,7 @@ A burst of radiance explodes from the door.
      
 ```ad-embed-ability
 title: Radiant Explosion [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[fire](rules/traits/fire.md)  [light](rules/traits/light.md)  
+[fire](rules/traits/fire.md "Fire Energy & Element Trait")  [light](rules/traits/light.md "Light Effect Trait")  
 
 - **Trigger**: A creature touches the door
 

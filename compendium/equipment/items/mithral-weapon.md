@@ -8,7 +8,7 @@ tags:
 aliases: ["Mithral Weapon"]
 ---
 # Mithral Weapon *Item 11+*  
-[uncommon](rules/traits/uncommon.md)  
+[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Usage** varies by weapon; **Bulk** varies by weapon
 - **Category** Material

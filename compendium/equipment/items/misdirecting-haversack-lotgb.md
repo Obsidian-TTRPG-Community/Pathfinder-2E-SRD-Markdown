@@ -10,7 +10,7 @@ tags:
 aliases: ["Misdirecting Haversack"]
 ---
 # Misdirecting Haversack *Item 6*  
-[illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 200 gp
 - **Usage** held in 1 hand; **Bulk** L

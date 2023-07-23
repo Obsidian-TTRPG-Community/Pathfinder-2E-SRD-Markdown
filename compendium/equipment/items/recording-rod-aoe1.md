@@ -12,7 +12,7 @@ tags:
 aliases: ["Recording Rod"]
 ---
 # Recording Rod *Item 3+*  
-[consumable](rules/traits/consumable.md)  [divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [scrying](rules/traits/scrying.md)  [uncommon](rules/traits/uncommon.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [scrying](rules/traits/scrying.md "Scrying Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Usage** varies; **Bulk** 1
 - **Category** Consumable
@@ -28,7 +28,7 @@ When activated, the rod records anything it sees and hears for 1 minute. Its len
 
 For basic recording rods, once activated, the rod records for 1 minute, after which it loses its recording ability but can replay that same scene over and over.
 
-Rarer and more expensive reusable versions of the recording rod operate similarly, but the recording function can be enabled a second time by permanently erasing the memory currently stored on the rod. A reusable recording rod lacks the [consumable](rules/traits/consumable.md) trait.
+Rarer and more expensive reusable versions of the recording rod operate similarly, but the recording function can be enabled a second time by permanently erasing the memory currently stored on the rod. A reusable recording rod lacks the [consumable](rules/traits/consumable.md "Consumable Item Trait") trait.
 ```
 
 *Source: Agents of Edgewatch #1: Devil at the Dreaming Palace p. 80*

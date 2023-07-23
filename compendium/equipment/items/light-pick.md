@@ -9,7 +9,7 @@ tags:
 aliases: ["Light Pick"]
 ---
 # Light Pick *Item 0*  
-[agile](rules/traits/agile.md)  [fatal <d8>](rules/traits/fatal.md)  
+[agile](rules/traits/agile.md "Agile Weapon Trait")  [fatal <d8>](rules/traits/fatal-d8.md "Fatal Weapon Trait")  
 
 - **Price** 4 sp
 - **Bulk** L

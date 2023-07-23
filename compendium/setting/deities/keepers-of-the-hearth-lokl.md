@@ -10,13 +10,13 @@ tags:
 - domain/protection/deity
 aliases: ["Keepers of the Hearth"]
 ---
-# Keepers of the Hearth *([NG](rules/traits/neutral-good-b1.md))*  
+# Keepers of the Hearth *([NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"))*  
 *Source: Lost Omens: Knights of Lastwall p. 68*  
 
 - **Category**: Pantheon
 - **Anathema**: prey on the weak, abuse power; sow discord in a community
 - **Areas of Concern**: protecting and defending the innocent, , maintaining the spirit and traditions of a community
-- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [NG](rules/traits/neutral-good-b1.md), [CG](rules/traits/chaotic-good-b1.md), [LN](rules/traits/lawful-neutral-b1.md)
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait")
 
 ## Devotee benefits
 

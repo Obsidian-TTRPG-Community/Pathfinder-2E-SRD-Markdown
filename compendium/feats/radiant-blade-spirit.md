@@ -7,7 +7,7 @@ tags:
 aliases: ["Radiant Blade Spirit"]
 ---
 # Radiant Blade Spirit  *Feat 10*  
-[champion](rules/traits/champion.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  
 
 - **Prerequisites**: divine ally (blade)
 

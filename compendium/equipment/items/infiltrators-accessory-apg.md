@@ -9,7 +9,7 @@ tags:
 aliases: ["Infiltrator's Accessory"]
 ---
 # Infiltrator's Accessory *Item 5*  
-[illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 150 gp
 - **Usage** held in 1 hand; **Bulk** 1

@@ -15,25 +15,25 @@ The world is full of shadows, but each living creature possesses a form of inner
 title: Shadowcaster Dedication, Feat 2
 collapse: closed
 # Shadowcaster Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: ability to cast spells
 
-You've sacrificed a piece of your spirit, allowing the powers of shadow into your being and changing the nature of your magic. You can no longer cast spells that have the [light](rules/traits/light.md) trait; if an ability, such as a class feature or ancestry feat, would automatically grant you a [light](compendium/spells/light.md) spell, such as the Domain Initiate feat granting you the [dazzling flash](compendium/spells/dazzling-flash.md) spell, you don't gain that spell.
+You've sacrificed a piece of your spirit, allowing the powers of shadow into your being and changing the nature of your magic. You can no longer cast spells that have the [light](rules/traits/light.md "Light Effect Trait") trait; if an ability, such as a class feature or ancestry feat, would automatically grant you a [light](compendium/spells/light.md) spell, such as the Domain Initiate feat granting you the [dazzling flash](compendium/spells/dazzling-flash.md) spell, you don't gain that spell.
 
 You gain the [cloak of shadow](compendium/spells/cloak-of-shadow.md) domain spell. It costs 1 Focus Point to cast a focus spell. This feat grants a focus pool of 1 Focus Point that you can recover using the [Refocus](rules/actions/refocus.md) activity. You can [Refocus](rules/actions/refocus.md) by meditating to siphon power from the Shadow Plane and refill your focus pool. Your domain spells from the shadowcaster archetype are of the same tradition as the spells you used to meet the shadowcaster archetype's prerequisites.
 
 **Special.** You can't select another dedication feat until you've gained two other feats from the shadowcaster archetype.
 
 *Source: Secrets of Magic p. 226*  
-%% #trait/uncommon #trait/archetype #trait/dedication %%
+%% #trait/archetype #trait/dedication #trait/uncommon %%
 ```  
 
 ```ad-embed-feat
 title: Familiar (Sorcerer), Feat 4*
 collapse: closed
 # Familiar (Sorcerer)  *Feat 4*  
-[sorcerer](rules/traits/sorcerer.md)  
+[sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 > [!pf2-note] This version of [Familiar (Sorcerer)](compendium/feats/familiar-sorcerer.md) is intended for use with the Shadowcaster Archetype. Its level has been changed accordingly.
 
@@ -48,7 +48,7 @@ An animal serves you and assists your spellcasting. You gain a familiar.
 title: Shadow Spells, Feat 4
 collapse: closed
 # Shadow Spells  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Shadowcaster Dedication](compendium/feats/shadowcaster-dedication-som.md)
 
@@ -64,7 +64,7 @@ Add [shadow blast](compendium/spells/shadow-blast.md), [shadow siphon](compendiu
 title: Disciple Of Shade, Feat 6
 collapse: closed
 # Disciple Of Shade  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Shadowcaster Dedication](compendium/feats/shadowcaster-dedication-som.md)
 
@@ -78,7 +78,7 @@ You've delved deeper into the mysteries of shadow and become blessed with magica
 title: Enhanced Familiar (Sorcerer), Feat 6*
 collapse: closed
 # Enhanced Familiar (Sorcerer)  *Feat 6*  
-[sorcerer](rules/traits/sorcerer.md)  
+[sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 > [!pf2-note] This version of [Enhanced Familiar (Sorcerer)](compendium/feats/enhanced-familiar-sorcerer.md) is intended for use with the Shadowcaster Archetype. Its level has been changed accordingly.
 
@@ -94,12 +94,12 @@ You infuse your familiar with additional primal energy, increasing its abilities
 title: Shadow Spell, Feat 8
 collapse: closed
 # Shadow Spell  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  [metamagic](rules/traits/metamagic.md)  [shadow](rules/traits/shadow.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  [shadow](rules/traits/shadow.md "Shadow General Trait")  
 
 - **Prerequisites**: [Shadowcaster Dedication](compendium/feats/shadowcaster-dedication-som.md)
 - **Activity** Single Action
 
-You attach a piece of your shadow to a spell to cloud the senses and cause mischief. If the next action you take is to [Cast a Spell](rules/actions/cast-a-spell.md) that has the [shadow](rules/traits/shadow.md) trait, choose one creature affected by the spell. This creature either gains a +2 status bonus to [Stealth](compendium/skills.md#Stealth) or takes a –2 status penalty to [Perception](compendium/skills.md#Perception) (your choice). This lasts for 1 round. This choice and the effect occur after resolving any checks for the spell's initial effects. If the chosen creature is your enemy, it's affected only if your spell attack roll succeeded or if it failed its saving throw.
+You attach a piece of your shadow to a spell to cloud the senses and cause mischief. If the next action you take is to [Cast a Spell](rules/actions/cast-a-spell.md) that has the [shadow](rules/traits/shadow.md "Shadow General Trait") trait, choose one creature affected by the spell. This creature either gains a +2 status bonus to [Stealth](compendium/skills.md#Stealth) or takes a –2 status penalty to [Perception](compendium/skills.md#Perception) (your choice). This lasts for 1 round. This choice and the effect occur after resolving any checks for the spell's initial effects. If the chosen creature is your enemy, it's affected only if your spell attack roll succeeded or if it failed its saving throw.
 
 The effects of Shadow Spell end if you use Shadow Spell again.
 
@@ -111,7 +111,7 @@ The effects of Shadow Spell end if you use Shadow Spell again.
 title: Shadow Reservoir, Feat 10
 collapse: closed
 # Shadow Reservoir  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: ability to cast spells from spell slots, [Shadowcaster Dedication](compendium/feats/shadowcaster-dedication-som.md)
 
@@ -119,7 +119,7 @@ Your own shadow speaks to you, providing knowledge of spells and a reservoir of 
 
 Regardless of the way in which you cast spells, you can spontaneously cast a spell from your shadow reservoir by using one of your spell slots of the same level. If you're a prepared spellcaster, you lose the spell you prepared in that slot.
 
-Spells cast from your shadow reservoir gain the [shadow](rules/traits/shadow.md) trait, and affected creatures might be able to 0. If the spell requires an attack roll, use the higher of the target's AC or their Will DC. If the spell requires a saving throw, the target uses their Will saving throw or the spell's normal saving throw, whichever is higher. Each time a creature fails its saving throw against a spell cast from your reservoir, you gain a small tattoo inked on your flesh out of pure shadowstuff.
+Spells cast from your shadow reservoir gain the [shadow](rules/traits/shadow.md "Shadow General Trait") trait, and affected creatures might be able to 0. If the spell requires an attack roll, use the higher of the target's AC or their Will DC. If the spell requires a saving throw, the target uses their Will saving throw or the spell's normal saving throw, whichever is higher. Each time a creature fails its saving throw against a spell cast from your reservoir, you gain a small tattoo inked on your flesh out of pure shadowstuff.
 
 If you have more than one source of spells you can cast with spell slots, such as if you're a spellcaster with a multiclass archetype, choose one source of spells for your shadow reservoir.
 
@@ -131,7 +131,7 @@ If you have more than one source of spells you can cast with spell slots, such a
 title: Secrets Of Shadow, Feat 12*
 collapse: closed
 # Secrets Of Shadow  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Secrets Of Shadow](compendium/feats/secrets-of-shadow-som.md) is intended for use with the Shadowcaster Archetype. Its level has been changed accordingly.
 
@@ -151,7 +151,7 @@ In addition, the tattoos generated by casting shadow spells protect your body ag
 title: Shadow Magic, Feat 12*
 collapse: closed
 # Shadow Magic  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Shadow Magic](compendium/feats/shadow-magic-apg.md) is intended for use with the Shadowcaster Archetype. Its level has been changed accordingly.
 
@@ -169,7 +169,7 @@ Shadowdancer focus spells are occult spells. You become trained in occult spell 
 title: Additional Shadow Magic, Feat 14*
 collapse: closed
 # Additional Shadow Magic  *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Additional Shadow Magic](compendium/feats/additional-shadow-magic-apg.md) is intended for use with the Shadowcaster Archetype. Its level has been changed accordingly.
 
@@ -185,7 +185,7 @@ Choose an additional shadowdancer focus spell you haven't already selected from 
 title: Shadow Illusion, Feat 14*
 collapse: closed
 # Shadow Illusion  *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Shadow Illusion](compendium/feats/shadow-illusion-apg.md) is intended for use with the Shadowcaster Archetype. Its level has been changed accordingly.
 
@@ -201,7 +201,7 @@ With an artful eye, you shape shadows into illusory forms. You gain the [shadow 
 title: Unending Emptiness, Feat 14*
 collapse: closed
 # Unending Emptiness  *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Unending Emptiness](compendium/feats/unending-emptiness-som.md) is intended for use with the Shadowcaster Archetype. Its level has been changed accordingly.
 
@@ -217,7 +217,7 @@ You pool the power of shadow within your eyes, gaining the ability to gather dar
 title: Shadow Power, Feat 16*
 collapse: closed
 # Shadow Power  *Feat 16*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Shadow Power](compendium/feats/shadow-power-apg.md) is intended for use with the Shadowcaster Archetype. Its level has been changed accordingly.
 

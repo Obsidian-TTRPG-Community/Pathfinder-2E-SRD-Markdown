@@ -12,7 +12,7 @@ tags:
 aliases: ["Blind Ambition"]
 ---
 # Blind Ambition *Focus 1*   
-[cleric](rules/traits/cleric.md)  [emotion](rules/traits/emotion.md)  [enchantment](rules/traits/enchantment.md)  [mental](rules/traits/mental.md)  [uncommon](rules/traits/uncommon.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Domains**: [ambition](compendium/setting/domains.md#Ambition)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
@@ -27,7 +27,7 @@ The target must attempt a Will save.
 
 > [!success-degree] 
 > - **Critical Success** The target is unaffected.
-> - **Success** The target takes a –1 status penalty to its saving throws and other defenses against attempts to [Coerce](rules/actions/coerce.md) it, [Request](rules/actions/request.md) something of it, or use [mental](rules/traits/mental.md) effects to convince it to do something (such as a [suggestion](compendium/spells/suggestion.md) spell). This penalty applies only if the target is being encouraged to advance its own ambitions.
+> - **Success** The target takes a –1 status penalty to its saving throws and other defenses against attempts to [Coerce](rules/actions/coerce.md) it, [Request](rules/actions/request.md) something of it, or use [mental](rules/traits/mental.md "Mental Effect Trait") effects to convince it to do something (such as a [suggestion](compendium/spells/suggestion.md) spell). This penalty applies only if the target is being encouraged to advance its own ambitions.
 > - **Failure** As success, but the penalty is –2.
 > - **Critical Failure** The target is overcome with ambition, taking whatever actions would advance its own agenda over those of anyone else, even without attempts to convince it.
 

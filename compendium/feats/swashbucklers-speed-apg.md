@@ -7,7 +7,7 @@ tags:
 aliases: ["Swashbuckler's Speed"]
 ---
 # Swashbuckler's Speed  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Swashbuckler Dedication](compendium/feats/swashbuckler-dedication-apg.md)
 

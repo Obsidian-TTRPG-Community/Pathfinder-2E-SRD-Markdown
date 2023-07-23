@@ -10,12 +10,12 @@ tags:
 - domain/perfection/deity
 aliases: ["Narriseminek", "The Crownless, the Maker of Kings"]
 ---
-# Narriseminek (The Crownless, the Maker of Kings) *([CN](rules/traits/chaotic-neutral-b1.md))*  
+# Narriseminek (The Crownless, the Maker of Kings) *([CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 130*  
 
 - **Category**: Monitor Demigods
 - **Anathema**: refuse to speak to a keketar, eschew a challenge by turning down a promotion or an advancement
-- **Follower Alignments**: [CG](rules/traits/chaotic-good-b1.md), [CN](rules/traits/chaotic-neutral-b1.md)
+- **Follower Alignments**: [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")
 
 ## Devotee benefits
 

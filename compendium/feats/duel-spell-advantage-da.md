@@ -7,7 +7,7 @@ tags:
 aliases: ["Duel Spell Advantage"]
 ---
 # Duel Spell Advantage  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Psychic Duelist Dedication](compendium/feats/psychic-duelist-dedication-da.md)
 

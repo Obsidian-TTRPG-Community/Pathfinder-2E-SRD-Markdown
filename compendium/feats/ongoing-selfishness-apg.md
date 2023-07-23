@@ -8,7 +8,7 @@ tags:
 aliases: ["Ongoing Selfishness"]
 ---
 # Ongoing Selfishness  *Feat 1*  
-[champion](rules/traits/champion.md)  [uncommon](rules/traits/uncommon.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: desecrator cause
 

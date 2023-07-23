@@ -13,7 +13,7 @@ tags:
 aliases: ["Hook Sword"]
 ---
 # Hook Sword *Item 0*  
-[disarm](rules/traits/disarm.md)  [monk](rules/traits/monk.md)  [parry](rules/traits/parry.md)  [trip](rules/traits/trip.md)  [twin](rules/traits/twin.md)  [uncommon](rules/traits/uncommon.md)  
+[disarm](rules/traits/disarm.md "Disarm Weapon Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  [parry](rules/traits/parry.md "Parry Weapon Trait")  [trip](rules/traits/trip.md "Trip Weapon Trait")  [twin](rules/traits/twin.md "Twin Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** If the player character come from a region in Tian Xia, this weapon is common
 - **Price** 3 gp

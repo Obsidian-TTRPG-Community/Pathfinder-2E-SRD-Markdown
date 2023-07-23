@@ -7,7 +7,7 @@ tags:
 aliases: ["Expert Herbalism"]
 ---
 # Expert Herbalism  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Herbalist Dedication](compendium/feats/herbalist-dedication-apg.md), expert in [Nature](compendium/skills.md#Nature)
 

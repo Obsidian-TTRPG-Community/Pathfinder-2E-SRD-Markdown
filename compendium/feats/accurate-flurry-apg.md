@@ -7,7 +7,7 @@ tags:
 aliases: ["Accurate Flurry"]
 ---
 # Accurate Flurry  *Feat 20*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: [Impossible Flurry](compendium/feats/impossible-flurry.md)
 - **Requirements**: You are wielding two melee weapons, each in a different hand.

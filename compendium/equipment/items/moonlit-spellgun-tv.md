@@ -14,7 +14,7 @@ tags:
 aliases: ["Moonlit Spellgun"]
 ---
 # Moonlit Spellgun *Item 2+*  
-[attack](rules/traits/attack.md)  [consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  [light](rules/traits/light.md)  [magical](rules/traits/magical.md)  [spellgun](rules/traits/spellgun-tv.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [light](rules/traits/light.md "Light Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [spellgun](rules/traits/spellgun-tv.md "Spellgun Item Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md), , [Strike](rules/actions/strike.md)

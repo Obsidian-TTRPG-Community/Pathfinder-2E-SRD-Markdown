@@ -12,7 +12,7 @@ tags:
 aliases: ["Grimoire of Unknown Necessities"]
 ---
 # Grimoire of Unknown Necessities *Item 16*  
-[divination](rules/traits/divination.md)  [grimoire](rules/traits/grimoire-som.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [unique](rules/traits/unique.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [grimoire](rules/traits/grimoire-som.md "Grimoire Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Price** 8000 gp
 - **Bulk** L
@@ -22,7 +22,7 @@ The cover of this grimoire is bound in a strange crimson, pebbly leather that a 
 
 ```ad-embed-ability
 title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[arcane](rules/traits/arcane.md)  [divination](rules/traits/divination.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [divination](rules/traits/divination.md "Divination School Trait")  
 
 - **Requirements**: You're an arcane prepared spellcaster and you have rested but not yet prepared your spells for the day
 

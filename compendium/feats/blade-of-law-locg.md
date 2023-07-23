@@ -7,7 +7,7 @@ tags:
 aliases: ["Blade Of Law"]
 ---
 # Blade Of Law  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Hellknight Dedication](compendium/feats/hellknight-dedication-locg.md)
 - **Activity** Two-Action

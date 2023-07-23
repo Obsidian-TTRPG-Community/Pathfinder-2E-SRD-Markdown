@@ -9,7 +9,7 @@ tags:
 aliases: ["Death's Slumber Ward"]
 ---
 # Death's Slumber Ward *Hazard 5*  
-[complex](rules/traits/complex.md)  [magical](rules/traits/magical.md)  [trap](rules/traits/trap.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +16 expert  
@@ -20,7 +20,7 @@ A whirlwind of four ephemeral, magical threads dispels the undead and shrouds th
      
 ```ad-embed-ability
 title: Breath of Pharasma [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[divine](rules/traits/divine.md)  [necromancy](rules/traits/necromancy.md)  
+[divine](rules/traits/divine.md "Divine Tradition Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 - **Trigger**: A living or undead creature opens the trunk
 

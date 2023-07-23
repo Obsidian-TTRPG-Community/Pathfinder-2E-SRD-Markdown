@@ -9,7 +9,7 @@ tags:
 aliases: ["Harrying Strike"]
 ---
 # Harrying Strike  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
-[archetype](rules/traits/archetype.md)  [attack](rules/traits/attack.md)  [press](rules/traits/press.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [attack](rules/traits/attack.md "Attack Combat Trait")  [press](rules/traits/press.md "Press Combat Trait")  
 
 - **Prerequisites**: [Swordmaster Dedication](compendium/feats/swordmaster-dedication-locg.md)
 - **Activity** Single Action

@@ -11,7 +11,7 @@ tags:
 aliases: ["Ring of the Ram"]
 ---
 # Ring of the Ram *Item 6+*  
-[evocation](rules/traits/evocation.md)  [force](rules/traits/force.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Usage** worn; **Bulk** —
 - **Category** Worn

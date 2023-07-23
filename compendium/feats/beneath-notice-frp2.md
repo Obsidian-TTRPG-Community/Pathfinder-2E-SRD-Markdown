@@ -7,7 +7,7 @@ tags:
 aliases: ["Beneath Notice"]
 ---
 # Beneath Notice  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Golden League Xun Dedication](compendium/feats/golden-league-xun-dedication-frp2.md), expert in [Deception](compendium/skills.md#Deception)
 

@@ -12,7 +12,7 @@ tags:
 aliases: ["Ixamè's Eye"]
 ---
 # Ixamè's Eye *Item 9*  
-[consumable](rules/traits/consumable.md)  [divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  [talisman](rules/traits/talisman.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  
 
 - **Price** 150 gp
 - **Usage** affixed to headgear; **Bulk** –

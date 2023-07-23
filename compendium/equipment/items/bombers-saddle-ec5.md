@@ -11,7 +11,7 @@ tags:
 aliases: ["Bomber's Saddle"]
 ---
 # Bomber's Saddle *Item 13*  
-[companion](rules/traits/companion.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[companion](rules/traits/companion.md "Companion Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 2800 gp
 - **Usage** worn saddle; **Bulk** 2
@@ -32,7 +32,7 @@ title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "
 
 **Effect** You drop the saddle's entire payload, scattering the bombs below. Make a single ranged [Strike](rules/actions/strike.md) against an AC of 10. The AC increases by 1 for every 5 feet above the target area you are. On a failure, the bombs fly away wildly and deal no damage. On a successful attack roll, the bombs fall and shatter, starting in the target area and moving in a line of 5-foot spaces up to 30 feet long for six bombs, one bomb per space. The bombs don't directly hit any creatures; instead, creatures take splash damage from the bombs as usual, but combine the splash damage from multiple overlapping bombs together before applying weaknesses or resistances.
 
-Apply [any](rules/traits/any-b1.md) effects normally applied to splash damage when throwing a bomb (such as the effects of the Calculated Splash feat).
+Apply [any](rules/traits/any-b1.md "Any Alignment Trait") effects normally applied to splash damage when throwing a bomb (such as the effects of the Calculated Splash feat).
 ```
 
 *Source: Extinction Curse #5: Lord of the Black Sands p. 76*

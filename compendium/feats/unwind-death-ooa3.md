@@ -7,7 +7,7 @@ tags:
 aliases: ["Unwind Death"]
 ---
 # Unwind Death  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 16*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Clockwork Reanimator Dedication](compendium/feats/clockwork-reanimator-dedication-ooa3.md)
 - **Requirements**: The target's body must be mostly intact.

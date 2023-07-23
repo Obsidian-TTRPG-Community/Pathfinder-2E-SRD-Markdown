@@ -8,7 +8,7 @@ tags:
 aliases: ["Mage Hunter"]
 ---
 # Mage Hunter  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
-[barbarian](rules/traits/barbarian.md)  [rage](rules/traits/rage.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [rage](rules/traits/rage.md "Rage Combat Trait")  
 
 - **Prerequisites**: superstition instinct
 - **Trigger** A creature within your reach Casts a Spell.

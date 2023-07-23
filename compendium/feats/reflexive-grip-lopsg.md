@@ -7,7 +7,7 @@ tags:
 aliases: ["Reflexive Grip"]
 ---
 # Reflexive Grip  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Swordmaster Dedication](compendium/feats/swordmaster-dedication-locg.md)
 

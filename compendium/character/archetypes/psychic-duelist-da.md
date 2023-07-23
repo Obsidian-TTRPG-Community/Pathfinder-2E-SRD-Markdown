@@ -15,7 +15,7 @@ The mental landscape of the psychic duel rises to meet your steps and reshapes a
 title: Psychic Duelist Dedication, Feat 4
 collapse: closed
 # Psychic Duelist Dedication  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [rare](rules/traits/rare.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Prerequisites**: trained in [Occultism](compendium/skills.md#Occultism), you have been in a psychic duel
 
@@ -27,14 +27,14 @@ Through experience and in-depth visualizations of mental battles, you've grown a
 **Special.** You can't select another dedication feat until you have gained two other feats from the psychic duelist archetype.
 
 *Source: Dark Archive p. 203*  
-%% #trait/rare #trait/archetype #trait/dedication %%
+%% #trait/archetype #trait/dedication #trait/rare %%
 ```  
 
 ```ad-embed-feat
 title: Duel Spell Advantage, Feat 6
 collapse: closed
 # Duel Spell Advantage  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Psychic Duelist Dedication](compendium/feats/psychic-duelist-dedication-da.md)
 
@@ -50,7 +50,7 @@ If you're 9th level or higher, add the following spells to the list of natural p
 title: Supreme Psychic Center, Feat 8
 collapse: closed
 # Supreme Psychic Center  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Psychic Duelist Dedication](compendium/feats/psychic-duelist-dedication-da.md)
 - **Trigger** Your turn in a psychic duel begins.
@@ -66,7 +66,7 @@ With the merest thought, you realign your mental defenses to your duel's circums
 title: Instigate Psychic Duel, Feat 12*
 collapse: closed
 # Instigate Psychic Duel  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 12*  
-[archetype](rules/traits/archetype.md)  [illusion](rules/traits/illusion.md)  [incapacitation](rules/traits/incapacitation.md)  [mental](rules/traits/mental.md)  [occult](rules/traits/occult.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 > [!pf2-note] This version of [Instigate Psychic Duel](compendium/feats/instigate-psychic-duel-da.md) is intended for use with the Psychic Duelist Archetype. Its level has been changed accordingly.
 

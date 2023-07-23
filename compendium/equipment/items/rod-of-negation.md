@@ -9,7 +9,7 @@ tags:
 aliases: ["Rod of Negation"]
 ---
 # Rod of Negation *Item 14*  
-[abjuration](rules/traits/abjuration.md)  [magical](rules/traits/magical.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 4300 gp
 - **Usage** held in 1 hand; **Bulk** 1

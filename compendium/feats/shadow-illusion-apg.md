@@ -7,7 +7,7 @@ tags:
 aliases: ["Shadow Illusion"]
 ---
 # Shadow Illusion  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Shadow Magic](compendium/feats/shadow-magic-apg.md)
 

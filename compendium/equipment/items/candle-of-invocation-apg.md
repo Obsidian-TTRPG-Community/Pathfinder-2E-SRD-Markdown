@@ -11,7 +11,7 @@ tags:
 aliases: ["Candle Of Invocation"]
 ---
 # Candle Of Invocation *Item 16*  
-[conjuration](rules/traits/conjuration.md)  [consumable](rules/traits/consumable.md)  [divine](rules/traits/divine.md)  [uncommon](rules/traits/uncommon.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 2000 gp
 - **Usage** held in 1 hand

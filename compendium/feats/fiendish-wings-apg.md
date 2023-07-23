@@ -10,7 +10,7 @@ tags:
 aliases: ["Fiendish Wings"]
 ---
 # Fiendish Wings  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 9*  
-[divine](rules/traits/divine.md)  [morph](rules/traits/morph.md)  [tiefling](rules/traits/tiefling-b1.md)  [transmutation](rules/traits/transmutation.md)  
+[divine](rules/traits/divine.md "Divine Tradition Trait")  [morph](rules/traits/morph.md "Morph Effect Trait")  [tiefling](rules/traits/tiefling-b1.md "Tiefling Ancestry & Heritage Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Frequency**: once per day
 - **Activity** Two-Action

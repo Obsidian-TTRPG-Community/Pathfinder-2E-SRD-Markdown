@@ -7,7 +7,7 @@ tags:
 aliases: ["Dispelling Spellstrike"]
 ---
 # Dispelling Spellstrike  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 16*  
-[magus](rules/traits/magus-som.md)  
+[magus](rules/traits/magus-som.md "Magus Class Trait")  
 
 - **Prerequisites**: [Spellstrike](rules/actions/spellstrike-som.md)
 - **Requirements**: Your [Spellstrike](rules/actions/spellstrike-som.md) is charged.

@@ -10,13 +10,13 @@ tags:
 aliases: ["S Ring"]
 ---
 # S Ring *Item 10*  
-[focused](rules/traits/focused.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+[focused](rules/traits/focused.md "Focused Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 1000 gp
 - **Usage** worn
 - **Category** Worn
 
-Each specialist's ring is dedicated to a single school of magic, and the ring is covered in symbols and glyphs related to that school according to the creator's arcane studies. A specialist's ring has the trait corresponding to its school of magic. You gain a +2 item bonus to [Arcana](compendium/skills.md#Arcana) checks, and a +1 circumstance bonus to recognize [magical](rules/traits/magical.md) effects and items of the specific school of magic.
+Each specialist's ring is dedicated to a single school of magic, and the ring is covered in symbols and glyphs related to that school according to the creator's arcane studies. A specialist's ring has the trait corresponding to its school of magic. You gain a +2 item bonus to [Arcana](compendium/skills.md#Arcana) checks, and a +1 circumstance bonus to recognize [magical](rules/traits/magical.md "Magical Item Trait") effects and items of the specific school of magic.
 
 ```ad-embed-ability
 title: Activate [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")

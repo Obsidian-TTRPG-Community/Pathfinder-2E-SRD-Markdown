@@ -7,7 +7,7 @@ tags:
 aliases: ["Pride In Arms"]
 ---
 # Pride In Arms  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 9*  
-[hobgoblin](rules/traits/hobgoblin-locg.md)  
+[hobgoblin](rules/traits/hobgoblin-locg.md "Hobgoblin Ancestry & Heritage Trait")  
 
 - **Trigger** An ally within 30 feet brings a foe to 0 Hit Points.
 - **Activity** Reaction

@@ -7,7 +7,7 @@ tags:
 aliases: ["Plague Sniffer"]
 ---
 # Plague Sniffer  *Feat 5*  
-[ratfolk](rules/traits/ratfolk-b1.md)  
+[ratfolk](rules/traits/ratfolk-b1.md "Ratfolk Ancestry & Heritage Trait")  
 
 - **Prerequisites**: longsnout rat heritage
 

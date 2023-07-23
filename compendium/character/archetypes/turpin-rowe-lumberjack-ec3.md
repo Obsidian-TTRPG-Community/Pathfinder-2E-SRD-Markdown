@@ -15,7 +15,7 @@ You are a feller of trees and a skilled axe wielder, trained in the art of fores
 title: Turpin Rowe Lumberjack Dedication, Feat 2
 collapse: closed
 # Turpin Rowe Lumberjack Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: You must befriend at least one Turpin Rowe logger.
 - **Prerequisites**: trained in [Survival](compendium/skills.md#Survival)
@@ -25,14 +25,14 @@ Your logging training has made you intimately familiar with all aspects of fores
 **Special.** You cannot select another dedication feat until you have gained two other feats from the Turpin Rowe lumberjack archetype.
 
 *Source: Extinction Curse #3: Life's Long Shadows p. 75*  
-%% #trait/uncommon #trait/archetype #trait/dedication %%
+%% #trait/archetype #trait/dedication #trait/uncommon %%
 ```  
 
 ```ad-embed-feat
 title: Axe Climber, Feat 4
 collapse: closed
 # Axe Climber  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Turpin Rowe Lumberjack Dedication](compendium/feats/turpin-rowe-lumberjack-dedication-ec3.md)
 
@@ -46,7 +46,7 @@ When you are climbing a wooden surface and have a hatchet or battle axe in each 
 title: Log Roll, Feat 4
 collapse: closed
 # Log Roll  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Turpin Rowe Lumberjack Dedication](compendium/feats/turpin-rowe-lumberjack-dedication-ec3.md)
 - **Requirements**: You and an adjacent creature are both on a narrow surface or uneven ground and the other creature is [flat-footed](rules/conditions.md#Flat-footed).
@@ -64,11 +64,11 @@ Attempt an [Acrobatics](compendium/skills.md#Acrobatics) check against the adjac
 title: Axe Thrower, Feat 6
 collapse: closed
 # Axe Thrower  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Turpin Rowe Lumberjack Dedication](compendium/feats/turpin-rowe-lumberjack-dedication-ec3.md)
 
-You have mastered the weight and balance of a variety of axes and can lob them with ease. Any one-handed axe weapon you wield has the [thrown](rules/traits/thrown.md) trait with a range of 10 feet. For axes that already have the [thrown](rules/traits/thrown.md) trait, the range increases by 10 feet. When you critically succeed at an attack roll with a thrown axe weapon, you apply the axe's critical specialization effect.
+You have mastered the weight and balance of a variety of axes and can lob them with ease. Any one-handed axe weapon you wield has the [thrown](rules/traits/thrown.md "Thrown Weapon Trait") trait with a range of 10 feet. For axes that already have the [thrown](rules/traits/thrown.md "Thrown Weapon Trait") trait, the range increases by 10 feet. When you critically succeed at an attack roll with a thrown axe weapon, you apply the axe's critical specialization effect.
 
 *Source: Extinction Curse #3: Life's Long Shadows p. 75*  
 %% #trait/archetype %%
@@ -78,7 +78,7 @@ You have mastered the weight and balance of a variety of axes and can lob them w
 title: Widen The Gap, Feat 10
 collapse: closed
 # Widen The Gap  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Turpin Rowe Lumberjack Dedication](compendium/feats/turpin-rowe-lumberjack-dedication-ec3.md)
 

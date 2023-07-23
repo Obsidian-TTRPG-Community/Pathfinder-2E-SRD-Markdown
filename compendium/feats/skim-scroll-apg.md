@@ -7,7 +7,7 @@ tags:
 aliases: ["Skim Scroll"]
 ---
 # Skim Scroll  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Scroll Trickster Dedication](compendium/feats/scroll-trickster-dedication-apg.md)
 - **Activity** Single Action

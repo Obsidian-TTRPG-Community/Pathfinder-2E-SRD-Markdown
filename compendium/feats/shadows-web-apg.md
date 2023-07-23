@@ -7,7 +7,7 @@ tags:
 aliases: ["Shadow's Web"]
 ---
 # Shadow's Web  *Feat 14*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Prerequisites**: ki spells
 - **Requirements**: You are in Clinging Shadows Initiate.

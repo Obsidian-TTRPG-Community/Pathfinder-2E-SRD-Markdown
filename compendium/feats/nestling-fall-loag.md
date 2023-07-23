@@ -7,7 +7,7 @@ tags:
 aliases: ["Nestling Fall"]
 ---
 # Nestling Fall  *Feat 1*  
-[strix](rules/traits/strix-loag.md)  
+[strix](rules/traits/strix-loag.md "Strix Ancestry & Heritage Trait")  
 
 
 You trust the strength of your wings and can spread them to glide safely to the ground. As long as you can act, you take no damage from falling, no matter what distance you fall.

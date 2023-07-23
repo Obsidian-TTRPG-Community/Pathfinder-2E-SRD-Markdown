@@ -11,7 +11,7 @@ tags:
 aliases: ["Spellcutter"]
 ---
 # Spellcutter *Item 17*  
-[abjuration](rules/traits/abjuration.md)  [cursed](rules/traits/cursed-gmg.md)  [magical](rules/traits/magical.md)  [unique](rules/traits/unique.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Price** 15000 gp
 - **Usage** held in 1 hand; **Bulk** 1
@@ -30,7 +30,7 @@ title: Activate [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "R
 ```ad-embed-ability
 title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 
-Touching Spellcutter to any light source of 12th level or lower (including 6th-level spells with the [light](rules/traits/light.md) trait) instantly extinguishes the effect. If the source of the light is a large flame, such as a forest fire or bonfire, it only extinguishes the light source in a 5-foot radius burst from the point of contact.
+Touching Spellcutter to any light source of 12th level or lower (including 6th-level spells with the [light](rules/traits/light.md "Light Effect Trait") trait) instantly extinguishes the effect. If the source of the light is a large flame, such as a forest fire or bonfire, it only extinguishes the light source in a 5-foot radius burst from the point of contact.
 ```
 
 *Source: Strength of Thousands #5: Doorway to the Red Star p. 76*

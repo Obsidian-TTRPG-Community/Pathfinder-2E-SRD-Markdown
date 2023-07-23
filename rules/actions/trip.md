@@ -8,7 +8,7 @@ tags:
 aliases: ["Trip"]
 ---
 # Trip (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[attack](rules/traits/attack.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  
 *Source: Core Rulebook p. 243*  
 
 **Skill** [athletics](compendium/skills.md#Athletics) (untrained)

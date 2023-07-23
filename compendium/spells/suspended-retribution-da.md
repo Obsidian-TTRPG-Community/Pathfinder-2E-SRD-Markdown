@@ -11,9 +11,9 @@ tags:
 aliases: ["Suspended Retribution"]
 ---
 # Suspended Retribution *Spell 6*   
-[curse](rules/traits/curse.md)  [divination](rules/traits/divination.md)  [mental](rules/traits/mental.md)  [prediction](rules/traits/prediction.md)  
+[curse](rules/traits/curse.md "Curse Effect Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [prediction](rules/traits/prediction.md "Prediction Effect Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md), [occult](rules/traits/occult.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**60 foot
 - **Targets**1 creature
@@ -26,7 +26,7 @@ All life dances one step from the precipice, one heartbeat from disaster. You op
 - The target makes more than one [Strike](rules/actions/strike.md) in a single round.
 - The target Casts a Spell.
 - The target uses a specific skill you name.
-- The target uses a specific ability you name. If the target takes the triggering action, the portent of doom activates—the sword strikes down, the noose loops around the target's neck, the skull bares its fangs—and the target takes 70 mental damage with a basic Reflex save. The target instinctively knows which action will trigger the omen and can ward off the omen by spending a total of 3 actions, which have the [concentrate](rules/traits/concentrate.md) trait, to pray, make signs against doom, or similar apotropaic actions. These actions need not be consecutive. After the creature spends the actions, the spell ends.
+- The target uses a specific ability you name. If the target takes the triggering action, the portent of doom activates—the sword strikes down, the noose loops around the target's neck, the skull bares its fangs—and the target takes 70 mental damage with a basic Reflex save. The target instinctively knows which action will trigger the omen and can ward off the omen by spending a total of 3 actions, which have the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") trait, to pray, make signs against doom, or similar apotropaic actions. These actions need not be consecutive. After the creature spends the actions, the spell ends.
 
 **Heightened (+ 1)** The damage increases by 10.
 

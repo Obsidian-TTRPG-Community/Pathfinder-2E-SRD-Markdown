@@ -9,7 +9,7 @@ tags:
 aliases: ["Squeeze"]
 ---
 # Squeeze (basic)
-[exploration](rules/traits/exploration.md)  [move](rules/traits/move.md)  
+[exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [move](rules/traits/move.md "Move Combat Trait")  
 *Source: Core Rulebook p. 241*  
 
 **Skill** [acrobatics](compendium/skills.md#Acrobatics) (trained)

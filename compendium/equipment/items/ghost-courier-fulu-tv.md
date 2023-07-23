@@ -11,7 +11,7 @@ tags:
 aliases: ["Ghost Courier Fulu"]
 ---
 # Ghost Courier Fulu *Item 8*  
-[conjuration](rules/traits/conjuration.md)  [consumable](rules/traits/consumable.md)  [fulu](rules/traits/fulu-som.md)  [magical](rules/traits/magical.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [fulu](rules/traits/fulu-som.md "Fulu Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 100 gp
 - **Usage** held in 2 hands; **Bulk** —

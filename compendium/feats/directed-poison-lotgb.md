@@ -7,7 +7,7 @@ tags:
 aliases: ["Directed Poison"]
 ---
 # Directed Poison  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [cloudkill](compendium/spells/cloudkill.md)
 

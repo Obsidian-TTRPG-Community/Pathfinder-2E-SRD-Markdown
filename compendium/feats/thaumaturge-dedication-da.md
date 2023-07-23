@@ -9,15 +9,15 @@ tags:
 aliases: ["Thaumaturge Dedication"]
 ---
 # Thaumaturge Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [multiclass](rules/traits/multiclass.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [multiclass](rules/traits/multiclass.md "Multiclass Feat Trait")  
 
 - **Prerequisites**: Charisma 14
 
-You've uncovered basic thaumaturgy. You become trained in thaumaturge class DC. Choose an first implement and esoterica|thaumaturge|DA|1||implement; you can use it to Glimpse Vulnerability, but don't gain its benefits. You also gain a few esoterica, allowing you to use [esoterica](rules/traits/esoterica-da.md) actions. You become trained in your choice of [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), or [Religion](compendium/skills.md#Religion); if you were already trained in these, you become trained in a skill of your choice. You gain the Glimpse Vulnerability action.
+You've uncovered basic thaumaturgy. You become trained in thaumaturge class DC. Choose an first implement and esoterica|thaumaturge|DA|1||implement; you can use it to Glimpse Vulnerability, but don't gain its benefits. You also gain a few esoterica, allowing you to use [esoterica](rules/traits/esoterica-da.md "Esoterica Action & Ability Trait") actions. You become trained in your choice of [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), or [Religion](compendium/skills.md#Religion); if you were already trained in these, you become trained in a skill of your choice. You gain the Glimpse Vulnerability action.
 
 ```ad-embed-ability
 title: Glimpse Vulnerability [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[esoterica](rules/traits/esoterica-da.md)  [manipulate](rules/traits/manipulate.md)  
+[esoterica](rules/traits/esoterica-da.md "Esoterica Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 
 - **Requirements**: You are holding your implement
 

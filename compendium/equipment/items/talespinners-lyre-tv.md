@@ -14,7 +14,7 @@ tags:
 aliases: ["Talespinner's Lyre"]
 ---
 # Talespinner's Lyre *Item 11*  
-[auditory](rules/traits/auditory.md)  [consumable](rules/traits/consumable.md)  [illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  [olfactory](rules/traits/olfactory-b1.md)  [uncommon](rules/traits/uncommon.md)  [visual](rules/traits/visual.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [olfactory](rules/traits/olfactory-b1.md "Olfactory Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Price** 235 gp
 - **Usage** held in 2 hands; **Bulk** L

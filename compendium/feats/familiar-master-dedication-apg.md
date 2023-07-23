@@ -8,7 +8,7 @@ tags:
 aliases: ["Familiar Master Dedication"]
 ---
 # Familiar Master Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 
 You have forged a mystical bond with a creature. This might have involved complex rituals and invocations, such as meditating under the moon until something crept out of the forest. Or maybe you just did each other a good turn, such as rescuing the beast from a trap or a foe, and then being rescued in turn. Whatever the details, you are now comrades until the end. You gain a familiar (Core Rulebook 198). If you already have a familiar, you gain the [Enhanced Familiar](compendium/feats/enhanced-familiar-wizard.md) feat.

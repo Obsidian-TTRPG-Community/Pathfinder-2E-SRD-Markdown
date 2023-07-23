@@ -11,7 +11,7 @@ tags:
 aliases: ["Wand of Choking Mist"]
 ---
 # Wand of Choking Mist *Item 6+*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [wand](rules/traits/wand.md)  [water](rules/traits/water.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Wand

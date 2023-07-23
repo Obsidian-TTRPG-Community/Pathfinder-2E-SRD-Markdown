@@ -7,7 +7,7 @@ tags:
 aliases: ["Triple Threat"]
 ---
 # Triple Threat  *Feat 20*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: [Shared Prey](compendium/feats/shared-prey.md)
 

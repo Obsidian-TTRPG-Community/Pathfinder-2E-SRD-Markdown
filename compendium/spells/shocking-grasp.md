@@ -10,9 +10,9 @@ tags:
 aliases: ["Shocking Grasp"]
 ---
 # Shocking Grasp *Spell 1*   
-[attack](rules/traits/attack.md)  [electricity](rules/traits/electricity.md)  [evocation](rules/traits/evocation.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  [electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**touch
 - **Targets**1 creature

@@ -7,7 +7,7 @@ tags:
 aliases: ["Elven Instincts"]
 ---
 # Elven Instincts  *Feat 5*  
-[elf](rules/traits/elf.md)  
+[elf](rules/traits/elf.md "Elf Ancestry & Heritage Trait")  
 
 
 Your senses let you react rapidly. You gain a +2 circumstance bonus to [Perception](compendium/skills.md#Perception) checks made as initiative rolls. Additionally, if your initiative roll result is tied with that of an opponent, you go first, regardless of whether you rolled [Perception](compendium/skills.md#Perception) or not.

@@ -8,7 +8,7 @@ tags:
 aliases: ["Forge Documents"]
 ---
 # Forge Documents
-[downtime](rules/traits/downtime.md)  [secret](rules/traits/secret.md)  
+[downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [secret](rules/traits/secret.md "Secret General Trait")  
 *Source: Gamemastery Guide p. 163*  
 
 **Variant Rule** Infiltration

@@ -8,7 +8,7 @@ tags:
 aliases: ["Slayer's Blessing"]
 ---
 # Slayer's Blessing  *Feat 8*  
-[archetype](rules/traits/archetype.md)  [manipulate](rules/traits/manipulate.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 
 - **Prerequisites**: [Slayer's Strike](compendium/feats/slayers-strike-botd.md)
 

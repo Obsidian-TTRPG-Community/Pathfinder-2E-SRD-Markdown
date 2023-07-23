@@ -7,7 +7,7 @@ tags:
 aliases: ["Swift Tracker"]
 ---
 # Swift Tracker  *Feat 6*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: expert in [Survival](compendium/skills.md#Survival), [Experienced Tracker](compendium/feats/experienced-tracker.md)
 

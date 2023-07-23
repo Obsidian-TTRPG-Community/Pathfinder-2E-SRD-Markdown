@@ -7,7 +7,7 @@ tags:
 aliases: ["Grippli Weapon Innovator"]
 ---
 # Grippli Weapon Innovator  *Feat 5*  
-[grippli](rules/traits/grippli-b2.md)  
+[grippli](rules/traits/grippli-b2.md "Grippli Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Grippli Weapon Familiarity](compendium/feats/grippli-weapon-familiarity-lome.md)
 

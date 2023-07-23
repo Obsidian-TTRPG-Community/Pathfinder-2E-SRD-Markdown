@@ -9,7 +9,7 @@ tags:
 aliases: ["Harvest Heartsliver"]
 ---
 # Harvest Heartsliver [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[manipulate](rules/traits/manipulate.md)  [rare](rules/traits/rare.md)  
+[manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 *Source: Lost Omens: Monsters of Myth p. 53*  
 
 - **Requirements**: You're inside Kothogaz's body.

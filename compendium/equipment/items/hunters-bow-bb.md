@@ -9,7 +9,7 @@ tags:
 aliases: ["Hunter's Bow"]
 ---
 # Hunter's Bow *Item 3*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 60 gp
 - **Category** Weapon

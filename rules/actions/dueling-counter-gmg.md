@@ -7,7 +7,7 @@ tags:
 aliases: ["Dueling Counter"]
 ---
 # Dueling Counter [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[magical](rules/traits/magical.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  
 *Source: Gamemastery Guide p. 167*  
 
 **Variant Rule** Duels

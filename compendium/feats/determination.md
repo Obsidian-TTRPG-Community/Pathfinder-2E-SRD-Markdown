@@ -8,7 +8,7 @@ tags:
 aliases: ["Determination"]
 ---
 # Determination  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 14*  
-[concentrate](rules/traits/concentrate.md)  [fighter](rules/traits/fighter.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 - **Frequency**: once per day
 - **Activity** Single Action

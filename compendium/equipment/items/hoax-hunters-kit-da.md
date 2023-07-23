@@ -8,7 +8,7 @@ tags:
 aliases: ["Hoax-Hunter's Kit"]
 ---
 # Hoax-Hunter's Kit *Item 3*  
-[uncommon](rules/traits/uncommon.md)  
+[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 50 gp
 - **Usage** held in 2 hands; **Bulk** 1

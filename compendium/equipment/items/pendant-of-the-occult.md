@@ -10,7 +10,7 @@ tags:
 aliases: ["Pendant of the Occult"]
 ---
 # Pendant of the Occult *Item 3+*  
-[divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [occult](rules/traits/occult.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 - **Usage** worn; **Bulk** —
 - **Category** Worn

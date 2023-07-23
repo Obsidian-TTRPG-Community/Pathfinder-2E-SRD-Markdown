@@ -9,7 +9,7 @@ tags:
 aliases: ["Black Powder Bomb"]
 ---
 # Black Powder Bomb *Hazard 6*  
-[mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  [uncommon](rules/traits/uncommon.md)  
+[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 15 (The three powder kegs aren't particularly well [hidden](rules/conditions.md#Hidden), but they are out of sight to casual observation.)  
@@ -28,7 +28,7 @@ A keg's contents can be dispersed by scattering the gunpowder to the wind (most 
      
 ```ad-embed-ability
 title: Destructive Explosion [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[fire](rules/traits/fire.md)  
+[fire](rules/traits/fire.md "Fire Energy & Element Trait")  
 
 - **Trigger**: One of the three kegs takes any fire damage, including damage caused by a line of black powder burning up to a keg.
 

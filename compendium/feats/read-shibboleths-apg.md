@@ -9,7 +9,7 @@ tags:
 aliases: ["Read Shibboleths"]
 ---
 # Read Shibboleths  *Feat 7*  
-[archetype](rules/traits/archetype.md)  [linguistic](rules/traits/linguistic.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Linguist Dedication](compendium/feats/linguist-dedication-apg.md), master in [Society](compendium/skills.md#Society)
 

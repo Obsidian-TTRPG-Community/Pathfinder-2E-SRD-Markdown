@@ -7,7 +7,7 @@ tags:
 aliases: ["Improved Familiar (Witch)"]
 ---
 # Improved Familiar (Witch)  *Feat 4*  
-[witch](rules/traits/witch-apg.md)  
+[witch](rules/traits/witch-apg.md "Witch Class Trait")  
 
 
 You find it easy to attract a powerful and unusual familiar to your side. The number of abilities required to make your familiar a specific familiar (page 147) is two lower than normal.

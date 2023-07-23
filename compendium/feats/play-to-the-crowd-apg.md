@@ -8,7 +8,7 @@ tags:
 aliases: ["Play To The Crowd"]
 ---
 # Play To The Crowd  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 4*  
-[archetype](rules/traits/archetype.md)  [concentrate](rules/traits/concentrate.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
 
 - **Prerequisites**: [Gladiator Dedication](compendium/feats/gladiator-dedication-apg.md)
 - **Trigger** You reduce an enemy to 0 Hit Points during a non-trivial combat encounter with spectators.

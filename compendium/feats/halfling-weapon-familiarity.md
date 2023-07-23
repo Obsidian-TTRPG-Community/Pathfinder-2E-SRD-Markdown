@@ -7,7 +7,7 @@ tags:
 aliases: ["Halfling Weapon Familiarity"]
 ---
 # Halfling Weapon Familiarity  *Feat 1*  
-[halfling](rules/traits/halfling.md)  
+[halfling](rules/traits/halfling.md "Halfling Ancestry & Heritage Trait")  
 
 
 You favor traditional halfling weapons, so you've learned how to use them more effectively. You have the trained proficiency with the [sling](compendium/equipment/items/sling.md), [halfling sling staff](compendium/equipment/items/halfling-sling-staff.md), and [shortsword](compendium/equipment/items/shortsword.md).

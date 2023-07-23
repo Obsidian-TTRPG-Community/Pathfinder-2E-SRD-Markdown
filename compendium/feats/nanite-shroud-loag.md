@@ -8,7 +8,7 @@ tags:
 aliases: ["Nanite Shroud"]
 ---
 # Nanite Shroud  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 5*  
-[android](rules/traits/android-loag.md)  [concentrate](rules/traits/concentrate.md)  
+[android](rules/traits/android-loag.md "Android Ancestry & Heritage Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
 
 - **Frequency**: once per day
 - **Activity** Two-Action

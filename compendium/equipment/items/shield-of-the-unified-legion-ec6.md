@@ -11,7 +11,7 @@ tags:
 aliases: ["Shield Of The Unified Legion"]
 ---
 # Shield Of The Unified Legion *Item 20*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  shield  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  shield  
 
 - **Price** 70000 gp
 - **Usage** strapped to 1 hand; **Bulk** L

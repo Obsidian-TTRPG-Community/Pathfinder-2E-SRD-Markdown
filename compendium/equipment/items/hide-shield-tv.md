@@ -8,7 +8,7 @@ tags:
 aliases: ["Hide Shield"]
 ---
 # Hide Shield *Item 0*  
-[deflecting <bludgeoning>](rules/traits/deflecting-tv.md)  
+[deflecting <bludgeoning>](rules/traits/deflecting-bludgeoning-tv.md "Deflecting Item Trait")  
 
 - **Price** 2 gp
 - **Bulk** 1

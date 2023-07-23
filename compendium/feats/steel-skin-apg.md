@@ -8,7 +8,7 @@ tags:
 aliases: ["Steel Skin"]
 ---
 # Steel Skin  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: trained in [Survival](compendium/skills.md#Survival), [Sentinel Dedication](compendium/feats/sentinel-dedication-apg.md)
 

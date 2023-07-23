@@ -9,7 +9,7 @@ tags:
 aliases: ["Animal Trainer Dedication"]
 ---
 # Animal Trainer Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: Trained in [Nature](compendium/skills.md#Nature)
 

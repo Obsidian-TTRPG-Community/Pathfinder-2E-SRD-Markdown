@@ -7,7 +7,7 @@ tags:
 aliases: ["Greater Magical Scholastics"]
 ---
 # Greater Magical Scholastics  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Archaeologist Dedication](compendium/feats/archaeologist-dedication-apg.md), [Magical Scholastics](compendium/feats/magical-scholastics-apg.md)
 

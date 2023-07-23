@@ -7,7 +7,7 @@ tags:
 aliases: ["Echoes Of Faith"]
 ---
 # Echoes Of Faith *Hazard 6*  
-[haunt](rules/traits/haunt.md)  
+[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 24 expert  
@@ -24,7 +24,7 @@ The restless spirits of clergy who once inhabited this now-defiled temple of Aro
      
 ```ad-embed-ability
 title: Phantom Sermon [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[divine](rules/traits/divine.md)  [necromancy](rules/traits/necromancy.md)  
+[divine](rules/traits/divine.md "Divine Tradition Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 - **Trigger**: A non-Arodenite creature approaches within 5 feet of the lectern
 

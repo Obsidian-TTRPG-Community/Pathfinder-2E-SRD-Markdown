@@ -8,7 +8,7 @@ tags:
 aliases: ["Second Sting"]
 ---
 # Second Sting  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 12*  
-[press](rules/traits/press.md)  [ranger](rules/traits/ranger.md)  
+[press](rules/traits/press.md "Press Combat Trait")  [ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Requirements**: You are wielding two melee weapons, each in a different hand.
 - **Activity** Single Action

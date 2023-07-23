@@ -12,7 +12,7 @@ tags:
 aliases: ["Purifying Veil"]
 ---
 # Purifying Veil *Focus 4*   
-[cleric](rules/traits/cleric.md)  [evocation](rules/traits/evocation.md)  [good](rules/traits/good.md)  [rare](rules/traits/rare.md)  [water](rules/traits/water.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [good](rules/traits/good.md "Good Alignment Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
 - **Domains**: [water (apocryphal)](compendium/setting/domains.md#Water)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

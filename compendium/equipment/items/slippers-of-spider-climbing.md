@@ -10,7 +10,7 @@ tags:
 aliases: ["Slippers of Spider Climbing"]
 ---
 # Slippers of Spider Climbing *Item 7*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 325 gp
 - **Usage** worn shoes; **Bulk** L

@@ -8,7 +8,7 @@ tags:
 aliases: ["Spell Relay"]
 ---
 # Spell Relay  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
-[concentrate](rules/traits/concentrate.md)  [sorcerer](rules/traits/sorcerer.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 - **Trigger** An ally [Casts a Spell](rules/actions/cast-a-spell.md) and you are within that spell's range.
 - **Activity** Reaction

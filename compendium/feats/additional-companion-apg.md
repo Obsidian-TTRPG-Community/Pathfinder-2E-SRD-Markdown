@@ -7,11 +7,11 @@ tags:
 aliases: ["Additional Companion"]
 ---
 # Additional Companion  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Beastmaster Dedication](compendium/feats/beastmaster-dedication-apg.md)
 
-Another animal joins you in your travels. It is a young animal companion that has the [minion](rules/traits/minion.md) trait. See Beastmaster Animal Companions for rules on how having multiple animal companions works.
+Another animal joins you in your travels. It is a young animal companion that has the [minion](rules/traits/minion.md "Minion Creature Trait") trait. See Beastmaster Animal Companions for rules on how having multiple animal companions works.
 
 **Special.** You can select this feat more than once, gaining an additional animal companion each time, to a maximum of four total companions (including the one you gained from Beastmaster Dedication and possibly one you gained from sources other than the beastmaster archetype).
 

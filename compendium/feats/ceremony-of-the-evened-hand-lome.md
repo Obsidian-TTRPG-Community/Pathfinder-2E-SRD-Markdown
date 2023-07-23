@@ -7,10 +7,10 @@ tags:
 aliases: ["Ceremony Of The Evened Hand"]
 ---
 # Ceremony Of The Evened Hand  *Feat 1*  
-[conrasu](rules/traits/conrasu-loag.md)  
+[conrasu](rules/traits/conrasu-loag.md "Conrasu Ancestry & Heritage Trait")  
 
 
-You have cultivated your exoskeleton's form for close combat, using knots, whorls, and reinforced branches. When you select this feat, you gain a claws unarmed attack that deals `1d4` slashing damage and has the [agile](rules/traits/agile.md) and [finesse](rules/traits/finesse.md) traits or a branch unarmed attack that deals `1d6` bludgeoning damage and has the [backswing](rules/traits/backswing.md) trait. Each of these unarmed attacks is in the brawling weapon group and uses one of your hands.
+You have cultivated your exoskeleton's form for close combat, using knots, whorls, and reinforced branches. When you select this feat, you gain a claws unarmed attack that deals `1d4` slashing damage and has the [agile](rules/traits/agile.md "Agile Weapon Trait") and [finesse](rules/traits/finesse.md "Finesse Weapon Trait") traits or a branch unarmed attack that deals `1d6` bludgeoning damage and has the [backswing](rules/traits/backswing.md "Backswing Weapon Trait") trait. Each of these unarmed attacks is in the brawling weapon group and uses one of your hands.
 
 **Special.** You can select this feat twice, choosing the other unarmed attack the second time you take it.
 

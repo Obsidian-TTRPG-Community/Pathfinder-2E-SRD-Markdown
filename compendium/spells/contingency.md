@@ -8,9 +8,9 @@ tags:
 aliases: ["Contingency"]
 ---
 # Contingency *Spell 7*   
-[abjuration](rules/traits/abjuration.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait")
 - **Cast** 10 minutes 
 - **Duration**until the next time you make your daily preparations
 

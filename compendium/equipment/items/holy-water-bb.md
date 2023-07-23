@@ -11,7 +11,7 @@ tags:
 aliases: ["Holy Water"]
 ---
 # Holy Water *Item 1*  
-[consumable](rules/traits/consumable.md)  [divine](rules/traits/divine.md)  [good](rules/traits/good.md)  [splash](rules/traits/splash.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [good](rules/traits/good.md "Good Alignment Trait")  [splash](rules/traits/splash.md "Splash Weapon Trait")  
 
 - **Price** 3 gp
 - **Usage** held in 1 hand

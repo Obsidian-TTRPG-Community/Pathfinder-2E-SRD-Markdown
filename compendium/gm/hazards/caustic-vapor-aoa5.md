@@ -8,7 +8,7 @@ tags:
 aliases: ["Caustic Vapor"]
 ---
 # Caustic Vapor *Hazard 17*  
-[mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  
+[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 40 master  
@@ -19,7 +19,7 @@ The door slams shut, and poison gas fills the room.
      
 ```ad-embed-ability
 title: Breath Snatcher [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[conjuration](rules/traits/conjuration.md)  [occult](rules/traits/occult.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 - **Trigger**: A living creature other than an ooze spends at least 3 rounds in the room
 
@@ -28,7 +28,7 @@ title: Breath Snatcher [R](rules/core-rulebook/chapter-9-playing-the-game.md#Act
 ```
 ```ad-embed-ability
 title: Caustic Nightmare Vapor
-[acid](rules/traits/acid.md)  [poison](rules/traits/poison.md)  
+[acid](rules/traits/acid.md "Acid Energy & Element Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
   
 %% #trait/acid #trait/poison %%

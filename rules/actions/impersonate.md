@@ -11,7 +11,7 @@ tags:
 aliases: ["Impersonate"]
 ---
 # Impersonate (basic)
-[concentrate](rules/traits/concentrate.md)  [exploration](rules/traits/exploration.md)  [manipulate](rules/traits/manipulate.md)  [secret](rules/traits/secret.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [secret](rules/traits/secret.md "Secret General Trait")  
 *Source: Core Rulebook p. 245*  
 
 **Skill** [deception](compendium/skills.md#Deception) (untrained)

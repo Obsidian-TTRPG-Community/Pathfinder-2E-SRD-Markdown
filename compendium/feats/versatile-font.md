@@ -7,7 +7,7 @@ tags:
 aliases: ["Versatile Font"]
 ---
 # Versatile Font  *Feat 2*  
-[cleric](rules/traits/cleric.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  
 
 - **Prerequisites**: harmful font or healing font, deity that allows clerics to have both fonts
 

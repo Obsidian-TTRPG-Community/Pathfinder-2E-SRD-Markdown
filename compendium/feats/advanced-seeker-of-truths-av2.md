@@ -7,7 +7,7 @@ tags:
 aliases: ["Advanced Seeker Of Truths"]
 ---
 # Advanced Seeker Of Truths  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Eldritch Researcher Dedication](compendium/feats/eldritch-researcher-dedication-av2.md), [Seeker of Truths](compendium/feats/seeker-of-truths-av2.md)
 

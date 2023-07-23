@@ -9,7 +9,7 @@ tags:
 aliases: ["Glamered"]
 ---
 # Glamered *Item 5*  
-[illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 140 gp
 - **Usage** etched onto armor

@@ -7,7 +7,7 @@ tags:
 aliases: ["Snowfall"]
 ---
 # Snowfall *Hazard 0*  
-[environmental](rules/traits/environmental.md)  
+[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 16 trained  

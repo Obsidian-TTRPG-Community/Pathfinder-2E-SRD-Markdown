@@ -7,7 +7,7 @@ tags:
 aliases: ["Webslinger"]
 ---
 # Webslinger  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 13*  
-[anadi](rules/traits/anadi-lome.md)  
+[anadi](rules/traits/anadi-lome.md "Anadi Ancestry & Heritage Trait")  
 
 - **Frequency**: once per 10 minutes
 - **Activity** Three-Action

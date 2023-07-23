@@ -9,7 +9,7 @@ tags:
 aliases: ["Swallow-Spike"]
 ---
 # Swallow-Spike *Item 6+*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Usage** etched onto armor
 - **Category** Rune
@@ -18,7 +18,7 @@ Your armor responds to your desire to break free of a creature grabbing you by g
 
 ```ad-embed-ability
 title: Activate [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[attack](rules/traits/attack.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  
 
 - **Trigger**: You become [grabbed](rules/conditions.md#Grabbed), [restrained](rules/conditions.md#Restrained), or otherwise held [immobilized](rules/conditions.md#Immobilized) in a creature's grasp, such as by being engulfed or swallowed
 
@@ -28,7 +28,7 @@ title: Activate [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "R
 
 ```ad-embed-ability
 title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[attack](rules/traits/attack.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  
 
 - **Requirements**: You're being held [immobilized](rules/conditions.md#Immobilized) as described in the rune's other activation
 

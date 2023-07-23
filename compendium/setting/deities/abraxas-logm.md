@@ -10,12 +10,12 @@ tags:
 - domain/wyrmkin/deity
 aliases: ["Abraxas", "Master of the Final Incantation"]
 ---
-# Abraxas (Master of the Final Incantation) *([CE](rules/traits/chaotic-evil-b1.md))*  
+# Abraxas (Master of the Final Incantation) *([CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 124*  
 
 - **Category**: Demon Lords
 - **Anathema**: destroy forbidden lore, reveal the entirety of a secret
-- **Follower Alignments**: [NE](rules/traits/neutral-evil-b1.md), [CE](rules/traits/chaotic-evil-b1.md)
+- **Follower Alignments**: [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Repeating Hand Crossbow Training"]
 ---
 # Repeating Hand Crossbow Training  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Drow Shootist Dedication](compendium/feats/drow-shootist-dedication-av3.md)
 

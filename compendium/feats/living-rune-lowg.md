@@ -7,7 +7,7 @@ tags:
 aliases: ["Living Rune"]
 ---
 # Living Rune  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Runescarred Dedication](compendium/feats/runescarred-dedication-lowg.md)
 

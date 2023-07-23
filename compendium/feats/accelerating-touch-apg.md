@@ -7,7 +7,7 @@ tags:
 aliases: ["Accelerating Touch"]
 ---
 # Accelerating Touch  *Feat 4*  
-[champion](rules/traits/champion.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  
 
 - **Prerequisites**: devotion spell ([lay on hands](compendium/spells/lay-on-hands.md))
 

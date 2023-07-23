@@ -13,7 +13,7 @@ tags:
 aliases: ["Torrent Spellgun"]
 ---
 # Torrent Spellgun *Item 3+*  
-[attack](rules/traits/attack.md)  [consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [spellgun](rules/traits/spellgun-tv.md)  [water](rules/traits/water.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [spellgun](rules/traits/spellgun-tv.md "Spellgun Item Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md), , [Strike](rules/actions/strike.md)

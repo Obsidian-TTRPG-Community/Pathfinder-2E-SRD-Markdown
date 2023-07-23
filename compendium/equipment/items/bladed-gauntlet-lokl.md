@@ -12,7 +12,7 @@ tags:
 aliases: ["Bladed Gauntlet"]
 ---
 # Bladed Gauntlet *Item 0*  
-[agile](rules/traits/agile.md)  [finesse](rules/traits/finesse.md)  [free-hand](rules/traits/free-hand.md)  [modular <B, P, or S>](rules/traits/modular-logm.md)  [uncommon](rules/traits/uncommon.md)  
+[agile](rules/traits/agile.md "Agile Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [free-hand](rules/traits/free-hand.md "Free-Hand Weapon Trait")  [modular <B, P, or S>](rules/traits/modular-b-p-or-s-logm.md "Modular Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 5 gp
 - **Bulk** L

@@ -25,12 +25,12 @@ aliases: ["Critical Hit Deck: Bomb or Spell"]
 | 13 | **Life Leech** If this is a spell, the target becomes [doomed](rules/conditions.md#Doomed) and you regain `1d8` Hit Points. |
 | 14 | **Vampiric Feedback** Normal damage. You regain Hit Points equal half the damage you dealt. |
 | 15 | **Knockback** Push the target up to 10 feet. |
-| 16 | **Electrocuted** If this is a [electricity](rules/traits/electricity.md) spell or bomb, the target takes double damage, and at the start of its next turn, it takes normal damage. Any other bomb or spell deals double damage. |
-| 17 | **Frozen** If this is a [cold](rules/traits/cold.md) bomb or spell, the target takes triple damage and is [slowed](rules/conditions.md#Slowed) for 1 round. Any other bomb or spell deals double damage. |
+| 16 | **Electrocuted** If this is a [electricity](rules/traits/electricity.md "Electricity Energy & Element Trait") spell or bomb, the target takes double damage, and at the start of its next turn, it takes normal damage. Any other bomb or spell deals double damage. |
+| 17 | **Frozen** If this is a [cold](rules/traits/cold.md "Cold Energy & Element Trait") bomb or spell, the target takes triple damage and is [slowed](rules/conditions.md#Slowed) for 1 round. Any other bomb or spell deals double damage. |
 | 18 | **Power Surge** Triple damage. |
 | 19 | **Devastating Strike** Triple damage. The target is [stunned](rules/conditions.md#Stunned). |
 | 20 | **Eyeburn** The target is [blinded](rules/conditions.md#Blinded) until the end of its next turn. |
-| 21 | **Transposition** If this is a spell attack, you and the target switch places. This is a [teleportation](rules/traits/teleportation.md) effect. |
+| 21 | **Transposition** If this is a spell attack, you and the target switch places. This is a [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait") effect. |
 | 22 | **Hypnotic Link** If this is a spell, the target takes normal damage and is [controlled](rules/conditions.md#Controlled) by you until the end of its next turn. |
 | 23 | **Distraction** The target is [flat-footed](rules/conditions.md#Flat-footed) until the end of its next turn. |
 | 24 | **Funny Bone** The target laughs uncontrollably until the end of its next turn. While laughing, it is [slowed](rules/conditions.md#Slowed) and can't use reactions. |
@@ -38,18 +38,18 @@ aliases: ["Critical Hit Deck: Bomb or Spell"]
 | 26 | **Psychic Overflow** The target takes `1d8` mental damage. |
 | 27 | **Vulnerability** The target gains weakness 5 to any damage types dealt by the bomb or spell for 1 minute. |
 | 28 | **Lingering Damage** The target takes `1d6` [persistent damage](rules/conditions.md#Persistent%20Damage) of the same type as the bomb or spell's damage. |
-| 29 | **Unnatural Selection** Triple damage to [aberrations](rules/traits/aberration.md), [celestials](rules/traits/celestial.md), [fiends](rules/traits/fiend.md), and [monitors](rules/traits/monitor.md). Double damage to all other creatures. |
-| 30 | **Hoarder's Wrath** Triple damage to [dragons](rules/traits/dragon.md). Double damage to all other creatures. |
+| 29 | **Unnatural Selection** Triple damage to aberrations, celestials, fiends, and monitors. Double damage to all other creatures. |
+| 30 | **Hoarder's Wrath** Triple damage to dragons. Double damage to all other creatures. |
 | 31 | **Slowed Down** The target is [slowed](rules/conditions.md#Slowed) for 1 round. |
 | 32 | **Doomed!** The target is [slowed](rules/conditions.md#Slowed) for 1 round, and is also [doomed](rules/conditions.md#Doomed). |
 | 33 | **Forceful Blast** The bomb or spell deals and additional `1d8` force damage. |
 | 34 | **Terrifying Display** The target is [frightened](rules/conditions.md#Frightened). |
 | 35 | **Returning Spell** If a spell attack, the spell or spell slot is not expended. |
-| 36 | **Call of the Wild** Triple damage to [animals](rules/traits/animal.md), [beasts](rules/traits/beast.md), and [fey](rules/traits/fey.md). Double damage to all other creatures. |
-| 37 | **Corrosive** If this is an [acid](rules/traits/acid.md) bomb or spell, the target takes triple damage and `1d6` [persistent acid damage](rules/conditions.md#Persistent%20Damage). Any other bomb or spell deals double damage. |
+| 36 | **Call of the Wild** Triple damage to animals, beasts, and fey. Double damage to all other creatures. |
+| 37 | **Corrosive** If this is an [acid](rules/traits/acid.md "Acid Energy & Element Trait") bomb or spell, the target takes triple damage and `1d6` [persistent acid damage](rules/conditions.md#Persistent%20Damage). Any other bomb or spell deals double damage. |
 | 38 | **Magical Glow** The target glows for 1 minute with the effect of a [faerie fire](compendium/spells/faerie-fire.md) spell. |
 | 39 | **Draining Strike** The target loses one random prepared spell or spell slot, as determined by the GM. |
-| 40 | **Combustion** If this is a [fire](rules/traits/fire.md) bomb or spell, the target takes triple damage and `1d6` [persistent fire damage](rules/conditions.md#Persistent%20Damage). Any other bomb or spell deals double damage. |
+| 40 | **Combustion** If this is a [fire](rules/traits/fire.md "Fire Energy & Element Trait") bomb or spell, the target takes triple damage and `1d6` [persistent fire damage](rules/conditions.md#Persistent%20Damage). Any other bomb or spell deals double damage. |
 | 41 | **Maximum Effect** Don't roll for damage. You deal the maximum possible critical hit damage with this attack. |
 | 42 | **Intense Strike** The attack ignores all resistances. |
 | 43 | **Excruciating** The target is [sickened](rules/conditions.md#Sickened). |
@@ -58,7 +58,7 @@ aliases: ["Critical Hit Deck: Bomb or Spell"]
 | 46 | **Light Blast** The target is [blinded](rules/conditions.md#Blinded) until the end of its next turn. |
 | 47 | **Mystical Thwart** The target can't activate magic items, cast spells, or use [Quick Alchemy](rules/actions/quick-alchemy.md) until the end of its next turn. |
 | 48 | **Light Blast** The target is [blinded](rules/conditions.md#Blinded) until the end of its next turn. |
-| 49 | **Phased** The target becomes [incorporeal](rules/traits/incorporeal-b1.md) until the end of your next turn. |
+| 49 | **Phased** The target becomes [incorporeal](rules/traits/incorporeal-b1.md "Incorporeal Creature Trait") until the end of your next turn. |
 | 50 | **Time Vortex** If this is a spell, normal damage and the target vanished and reappears `1d4` rounds later. The target can use no actions, and any effects it has with durations do not pass while it's gone. |
 | 51 | **Energy Might** If the bomb or spell deals acid, cold, electricity, fire or sonic damage, it deals triple damage. Any other bomb or spells deals double damage. |
 | 52 | **Roaring Blast** The target is [deafened](rules/conditions.md#Deafened) until healed. |

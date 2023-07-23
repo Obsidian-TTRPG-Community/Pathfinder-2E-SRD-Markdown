@@ -7,7 +7,7 @@ tags:
 aliases: ["Vexing Tumble"]
 ---
 # Vexing Tumble  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[swashbuckler](rules/traits/swashbuckler-apg.md)  
+[swashbuckler](rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  
 
 - **Activity** Single Action
 

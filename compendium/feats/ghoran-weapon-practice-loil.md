@@ -7,7 +7,7 @@ tags:
 aliases: ["Ghoran Weapon Practice"]
 ---
 # Ghoran Weapon Practice  *Feat 5*  
-[ghoran](rules/traits/ghoran-loil.md)  
+[ghoran](rules/traits/ghoran-loil.md "Ghoran Ancestry & Heritage Trait")  
 
 - **Prerequisites**: Ghoran Weapon Familiarity
 

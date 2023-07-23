@@ -7,10 +7,10 @@ tags:
 aliases: ["Vacate Vision"]
 ---
 # Vacate Vision  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Oozemorph Dedication](compendium/feats/oozemorph-dedication-sli.md)
-- **Trigger** You fail (but don't critically fail) a saving throw against an effect with the [visual](rules/traits/visual.md) trait.
+- **Trigger** You fail (but don't critically fail) a saving throw against an effect with the [visual](rules/traits/visual.md "Visual Effect Trait") trait.
 - **Activity** Reaction
 
 You cause your eyes to liquefy and run out of your eye sockets, leaving them empty. You get a success on the save against the triggering effect, but you are [blinded](rules/conditions.md#Blinded) for the duration the effect would have had on a failure. At that time, your eyes regrow and your normal vision returns.

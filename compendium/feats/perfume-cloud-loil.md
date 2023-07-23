@@ -8,7 +8,7 @@ tags:
 aliases: ["Perfume Cloud"]
 ---
 # Perfume Cloud  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 9*  
-[disease](rules/traits/disease.md)  [ghoran](rules/traits/ghoran-loil.md)  
+[disease](rules/traits/disease.md "Disease Effect Trait")  [ghoran](rules/traits/ghoran-loil.md "Ghoran Ancestry & Heritage Trait")  
 
 - **Frequency**: once per hour
 - **Activity** Two-Action

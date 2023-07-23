@@ -12,7 +12,7 @@ tags:
 aliases: ["Emerald Fulcrum Lens"]
 ---
 # Emerald Fulcrum Lens *Item 10*  
-[invested](rules/traits/invested.md)  [necromancy](rules/traits/necromancy.md)  [negative](rules/traits/negative.md)  [occult](rules/traits/occult.md)  [unique](rules/traits/unique.md)  
+[invested](rules/traits/invested.md "Invested Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Price** 1000 gp
 - **Bulk** 3
@@ -24,7 +24,7 @@ You can also activate the lens in the following ways.
 
 ```ad-embed-ability
 title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
-[healing](rules/traits/healing.md)  
+[healing](rules/traits/healing.md "Healing Effect Trait")  
 
 You grasp the Emerald Fulcrum Lens in one hand, regain 30 Hit Points, and gain a +2 item bonus to saving throws against magic for 1 round.  
 %% #trait/healing %%
@@ -32,7 +32,7 @@ You grasp the Emerald Fulcrum Lens in one hand, regain 30 Hit Points, and gain a
 
 ```ad-embed-ability
 title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
-[attack](rules/traits/attack.md)  [possession](rules/traits/possession.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  [possession](rules/traits/possession.md "Possession Effect Trait")  
 
 as Crimson Fulcrum Lens, but the melee spell attack modifier is +20.  
 %% #trait/attack #trait/possession %%

@@ -10,7 +10,7 @@ tags:
 aliases: ["Wyrm Claw"]
 ---
 # Wyrm Claw *Item 12+*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [spellheart](rules/traits/spellheart-som.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [spellheart](rules/traits/spellheart-som.md "Spellheart Equipment Trait")  
 
 - **Usage** affixed to armor or a weapon; **Bulk** —
 - **Category** Spellheart

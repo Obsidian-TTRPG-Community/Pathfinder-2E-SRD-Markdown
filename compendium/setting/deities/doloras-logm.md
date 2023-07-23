@@ -10,12 +10,12 @@ tags:
 - domain/sorrow/deity
 aliases: ["Doloras", "Our Lady of Pain"]
 ---
-# Doloras (Our Lady of Pain) *([LE](rules/traits/lawful-evil-b1.md))*  
+# Doloras (Our Lady of Pain) *([LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 75*  
 
 - **Category**: Queens of the Night
 - **Anathema**: show or act on emotion, allow a plea for mercy to sway you
-- **Follower Alignments**: [LE](rules/traits/lawful-evil-b1.md), [NE](rules/traits/neutral-evil-b1.md)
+- **Follower Alignments**: [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"), [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait")
 
 ## Devotee benefits
 

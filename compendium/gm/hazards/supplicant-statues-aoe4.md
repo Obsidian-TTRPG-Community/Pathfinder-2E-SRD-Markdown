@@ -10,7 +10,7 @@ tags:
 aliases: ["Supplicant Statues"]
 ---
 # Supplicant Statues *Hazard 14*  
-[complex](rules/traits/complex.md)  [magical](rules/traits/magical.md)  [mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +30 master  
@@ -34,7 +34,7 @@ title: Animated Statues [R](rules/core-rulebook/chapter-9-playing-the-game.md#Ac
 ```
 ```ad-embed-ability
 title: Predictive Impediment
-[arcane](rules/traits/arcane.md)  [divination](rules/traits/divination.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [divination](rules/traits/divination.md "Divination School Trait")  
 
 The statues continually slide around to bump into creatures and block their passage through the room. The first time on its turn that a creature attempts to move within the room, it must succeed at a DC 36 Reflex save or treat the entire room as difficult terrain for 1 round. On a critical failure, the creature is also knocked [prone](rules/conditions.md#Prone).  
 %% #trait/arcane #trait/divination %%

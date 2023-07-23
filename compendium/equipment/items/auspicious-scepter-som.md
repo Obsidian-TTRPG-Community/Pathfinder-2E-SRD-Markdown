@@ -9,7 +9,7 @@ tags:
 aliases: ["Auspicious Scepter"]
 ---
 # Auspicious Scepter *Item 5*  
-[divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 150 gp
 - **Usage** held in 1 hand; **Bulk** 1
@@ -19,7 +19,7 @@ This imperious mace has a glowing orb in the shape of an eye set in its flanged 
 
 ```ad-embed-ability
 title: Activate [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
-[divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Trigger**: You Cast a divination spell
 

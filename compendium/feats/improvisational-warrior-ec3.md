@@ -7,7 +7,7 @@ tags:
 aliases: ["Improvisational Warrior"]
 ---
 # Improvisational Warrior  *Feat 9*  
-[shoony](rules/traits/shoony-ec3.md)  
+[shoony](rules/traits/shoony-ec3.md "Shoony Ancestry & Heritage Trait")  
 
 - **Prerequisites**: Improvisational Defender
 

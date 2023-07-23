@@ -13,7 +13,7 @@ tags:
 aliases: ["Beckoning Cat Amulet"]
 ---
 # Beckoning Cat Amulet *Item 5*  
-[consumable](rules/traits/consumable.md)  [divination](rules/traits/divination.md)  [fortune](rules/traits/fortune.md)  [magical](rules/traits/magical.md)  [talisman](rules/traits/talisman.md)  [uncommon](rules/traits/uncommon.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 26 gp
 - **Usage** affixed to armor

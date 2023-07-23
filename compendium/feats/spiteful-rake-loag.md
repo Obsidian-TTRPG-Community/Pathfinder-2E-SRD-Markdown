@@ -7,7 +7,7 @@ tags:
 aliases: ["Spiteful Rake"]
 ---
 # Spiteful Rake  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 13*  
-[changeling](rules/traits/changeling-b1.md)  
+[changeling](rules/traits/changeling-b1.md "Changeling Ancestry & Heritage Trait")  
 
 - **Prerequisites**: claw unarmed attack
 - **Requirements**: You have both hands free.

@@ -7,7 +7,7 @@ tags:
 aliases: ["Uncanny Dodge"]
 ---
 # Uncanny Dodge  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Rogue Dedication](compendium/feats/rogue-dedication.md)
 

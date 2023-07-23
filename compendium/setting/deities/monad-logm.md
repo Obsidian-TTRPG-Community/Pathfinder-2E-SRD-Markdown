@@ -10,12 +10,12 @@ tags:
 - domain/void/deity
 aliases: ["Monad", "The Condition of All"]
 ---
-# Monad (The Condition of All) *([N](rules/traits/neutral-b1.md))*  
+# Monad (The Condition of All) *([N](rules/traits/n-b1.md "Neutral Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 130*  
 
 - **Category**: Monitor Demigods
 - **Anathema**: allow your personal motivations to determine a major decision
-- **Follower Alignments**: [LN](rules/traits/lawful-neutral-b1.md), [N](rules/traits/neutral-b1.md)
+- **Follower Alignments**: [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait")
 
 ## Devotee benefits
 

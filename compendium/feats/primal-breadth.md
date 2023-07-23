@@ -7,7 +7,7 @@ tags:
 aliases: ["Primal Breadth"]
 ---
 # Primal Breadth  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Druid Spellcasting](compendium/feats/basic-druid-spellcasting.md)
 

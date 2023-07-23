@@ -12,7 +12,7 @@ tags:
 aliases: ["Wand Of Spiritual Warfare"]
 ---
 # Wand Of Spiritual Warfare *Item 7+*  
-[evocation](rules/traits/evocation.md)  [force](rules/traits/force.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  [wand](rules/traits/wand.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Wand

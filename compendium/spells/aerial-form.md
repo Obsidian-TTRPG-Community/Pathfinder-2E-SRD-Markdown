@@ -9,13 +9,13 @@ tags:
 aliases: ["Aerial Form"]
 ---
 # Aerial Form *Spell 4*   
-[polymorph](rules/traits/polymorph.md)  [transmutation](rules/traits/transmutation.md)  
+[polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Duration**1 minute
 
-You harness your mastery of primal forces to reshape your body into a Medium flying animal battle form. When you cast this spell, choose bat, bird, pterosaur, or wasp. You can decide the specific type of animal (such as an owl or eagle for bird), but this has no effect on the form's Size or statistics. While in this form, you gain the [animal](rules/traits/animal.md) trait. You can [Dismiss](rules/actions/dismiss.md) the spell.
+You harness your mastery of primal forces to reshape your body into a Medium flying animal battle form. When you cast this spell, choose bat, bird, pterosaur, or wasp. You can decide the specific type of animal (such as an owl or eagle for bird), but this has no effect on the form's Size or statistics. While in this form, you gain the [animal](rules/traits/animal.md "Animal Creature Type Trait") trait. You can [Dismiss](rules/actions/dismiss.md) the spell.
 
 You gain the following statistics and abilities regardless of which battle form you choose:
 
@@ -27,8 +27,8 @@ You gain the following statistics and abilities regardless of which battle form 
 
 You also gain specific abilities based on the form you choose:
 
-- **Bat** Speed 20 feet, fly Speed 30 feet; precise echolocation 40 feet; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") fangs, **Damage** `2d8` piercing; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") wing ([agile](rules/traits/agile.md)), **Damage** `2d6` bludgeoning.
-- **Bird** Speed 10 feet, fly Speed 50 feet; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") beak, **Damage** `2d8` piercing; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") talon ([agile](rules/traits/agile.md)), **Damage** `1d10` slashing.
+- **Bat** Speed 20 feet, fly Speed 30 feet; precise echolocation 40 feet; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") fangs, **Damage** `2d8` piercing; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") wing ([agile](rules/traits/agile.md "Agile Weapon Trait")), **Damage** `2d6` bludgeoning.
+- **Bird** Speed 10 feet, fly Speed 50 feet; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") beak, **Damage** `2d8` piercing; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") talon ([agile](rules/traits/agile.md "Agile Weapon Trait")), **Damage** `1d10` slashing.
 - **Pterosaur** Speed 10 feet, fly Speed 40 feet; imprecise [scent](rules/abilities/scent.md) 30 feet; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") beak, **Damage** `3d6` piercing.
 - **Wasp** Speed 20 feet, fly Speed 40 feet; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") stinger, **Damage** `1d8` piercing plus `1d6` [persistent poison](rules/conditions.md#Persistent%20Damage).
 

@@ -9,14 +9,14 @@ tags:
 aliases: ["Return to Essence"]
 ---
 # Return to Essence *Spell 7*   
-[abjuration](rules/traits/abjuration.md)  [rare](rules/traits/rare.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [divine](rules/traits/divine.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**120 foot
 - **Targets**one magically sealed or warded doorway or chest
 
-You unravel the magic of a spell that affects a container, door, or lock, converting it into energy you can repurpose to power your own spells. Attempt a counteract check (Core Rulebook 458) against the target spell or [magical](rules/traits/magical.md) effect that wards or seals a doorway or chest, such as lock, or against a spell or effect that deals damage or delivers secondary effects when it's opened, such as glyph of warding. If you succeed, you recover its energy, restoring one of your expended spell slots of 3rd level or lower.
+You unravel the magic of a spell that affects a container, door, or lock, converting it into energy you can repurpose to power your own spells. Attempt a counteract check (Core Rulebook 458) against the target spell or [magical](rules/traits/magical.md "Magical Item Trait") effect that wards or seals a doorway or chest, such as lock, or against a spell or effect that deals damage or delivers secondary effects when it's opened, such as glyph of warding. If you succeed, you recover its energy, restoring one of your expended spell slots of 3rd level or lower.
 
 **Heightened (8th)** You can restore an expended spell slot of 4th level or lower.
 

@@ -8,7 +8,7 @@ tags:
 aliases: ["Combat Reading"]
 ---
 # Combat Reading  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[bard](rules/traits/bard.md)  [secret](rules/traits/secret.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  [secret](rules/traits/secret.md "Secret General Trait")  
 
 - **Activity** Single Action
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Armor Specialist"]
 ---
 # Armor Specialist  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Sentinel Dedication](compendium/feats/sentinel-dedication-apg.md)
 

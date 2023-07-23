@@ -8,7 +8,7 @@ tags:
 aliases: ["Ricochet Stance (Fighter)"]
 ---
 # Ricochet Stance (Fighter)  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[fighter](rules/traits/fighter.md)  [stance](rules/traits/stance.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
 
 - **Activity** Single Action
 

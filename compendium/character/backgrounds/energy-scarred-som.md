@@ -13,4 +13,4 @@ Exposure to a significant magical event overloaded you with magical energy. Perh
 
 Choose two ability boosts. One must be Constitution and one is a free ability boost.
 
-Your innate [magical](rules/traits/magical.md) trait is [primal](rules/traits/primal.md). Choose acid, cold, electricity, fire, force, negative, positive, or sonic. You are trained in a [Lore](compendium/skills.md#Lore) skill associated with the chosen energy (such as [Fire Lore](compendium/skills.md#Lore)) and you gain resistance to that energy type equal to half your level (minimum 1).
+Your innate [magical](rules/traits/magical.md "Magical Item Trait") trait is [primal](rules/traits/primal.md "Primal Tradition Trait"). Choose acid, cold, electricity, fire, force, negative, positive, or sonic. You are trained in a [Lore](compendium/skills.md#Lore) skill associated with the chosen energy (such as [Fire Lore](compendium/skills.md#Lore)) and you gain resistance to that energy type equal to half your level (minimum 1).

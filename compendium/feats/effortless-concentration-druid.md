@@ -7,7 +7,7 @@ tags:
 aliases: ["Effortless Concentration (Druid)"]
 ---
 # Effortless Concentration (Druid)  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 16*  
-[druid](rules/traits/druid.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  
 
 - **Trigger** Your turn begins.
 - **Activity** Free Action

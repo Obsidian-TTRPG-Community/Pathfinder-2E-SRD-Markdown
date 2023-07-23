@@ -8,7 +8,7 @@ tags:
 aliases: ["False-Bottomed Mug"]
 ---
 # False-Bottomed Mug *Item 0*  
-[uncommon](rules/traits/uncommon.md)  
+[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** Member of the Bellflower Network
 - **Price** 5 sp

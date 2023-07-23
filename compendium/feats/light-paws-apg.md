@@ -7,7 +7,7 @@ tags:
 aliases: ["Light Paws"]
 ---
 # Light Paws  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 5*  
-[catfolk](rules/traits/catfolk-b1.md)  
+[catfolk](rules/traits/catfolk-b1.md "Catfolk Ancestry & Heritage Trait")  
 
 - **Activity** Two-Action
 

@@ -8,7 +8,7 @@ tags:
 aliases: ["Follow-up Strike"]
 ---
 # Follow-up Strike  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  [flourish](rules/traits/flourish.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 - **Prerequisites**: [Martial Artist Dedication](compendium/feats/martial-artist-dedication-apg.md)
 - **Requirements**: Your last action was a missed [Strike](rules/actions/strike.md) with a melee unarmed attack.

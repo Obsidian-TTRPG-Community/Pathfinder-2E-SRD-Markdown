@@ -7,7 +7,7 @@ tags:
 aliases: ["Silent Stone"]
 ---
 # Silent Stone  *Feat 1*  
-[oread](rules/traits/oread-b2.md)  
+[oread](rules/traits/oread-b2.md "Oread Ancestry & Heritage Trait")  
 
 
 You've lived in the shadow of the Shattered Range, and the patience of those ancient mountains expresses itself in your stillness. Your body might have veins of granite, sandstone, or similar sedimentary rocks that make it easier for you to camouflage yourself in certain regions. You become trained in [Stealth](compendium/skills.md#Stealth), and you gain the [Terrain Stalker](compendium/feats/terrain-stalker.md) skill feat. If you're already trained in [Stealth](compendium/skills.md#Stealth) from another source, you become trained in a skill of your choice instead.

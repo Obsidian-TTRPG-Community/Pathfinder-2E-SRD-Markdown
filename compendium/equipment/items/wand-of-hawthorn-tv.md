@@ -11,7 +11,7 @@ tags:
 aliases: ["Wand of Hawthorn"]
 ---
 # Wand of Hawthorn *Item 6+*  
-[abjuration](rules/traits/abjuration.md)  [magical](rules/traits/magical.md)  [plant](rules/traits/plant.md)  [wand](rules/traits/wand.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Wand

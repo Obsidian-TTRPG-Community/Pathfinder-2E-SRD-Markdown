@@ -7,7 +7,7 @@ tags:
 aliases: ["Nocturnal Kindred"]
 ---
 # Nocturnal Kindred  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: Vampire Dedication, trained in [Nature](compendium/skills.md#Nature)
 

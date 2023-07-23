@@ -15,7 +15,7 @@ The Chime-Ringers serve as Nantambu's elite town guard, keeping the peace while 
 title: Nantambu Chime-Ringer Dedication, Feat 2
 collapse: closed
 # Nantambu Chime-Ringer Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: trained in [Performance](compendium/skills.md#Performance) and [Society](compendium/skills.md#Society)
 
@@ -24,14 +24,14 @@ You've studied the basics of harmony and resonance in magic, exemplified by the 
 **Special.** You can't select another dedication feat until you have gained two other feats from the Nantambu Chime-Ringer archetype.
 
 *Source: Strength of Thousands #2: Spoken on the Song Wind p. 79*  
-%% #trait/uncommon #trait/archetype #trait/dedication %%
+%% #trait/archetype #trait/dedication #trait/uncommon %%
 ```  
 
 ```ad-embed-feat
 title: Fleet Tempo, Feat 4
 collapse: closed
 # Fleet Tempo  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  [auditory](rules/traits/auditory.md)  [transmutation](rules/traits/transmutation.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Prerequisites**: [Nantambu Chime-Ringer Dedication](compendium/feats/nantambu-chime-ringer-dedication-sot2.md)
 - **Frequency**: once per hour
@@ -47,7 +47,7 @@ To rush after a criminal or reach someone in need, you ring a sprightly tone. Yo
 title: Deny The Songs Of War, Feat 10
 collapse: closed
 # Deny The Songs Of War  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Nantambu Chime-Ringer Dedication](compendium/feats/nantambu-chime-ringer-dedication-sot2.md)
 
@@ -63,7 +63,7 @@ You can cast [deafness](compendium/spells/deafness.md) and 4th-level [silence](c
 title: Sing To The Steel, Feat 12*
 collapse: closed
 # Sing To The Steel  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 12*  
-[archetype](rules/traits/archetype.md)  [auditory](rules/traits/auditory.md)  [evocation](rules/traits/evocation.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
 > [!pf2-note] This version of [Sing To The Steel](compendium/feats/sing-to-the-steel-sot2.md) is intended for use with the Nantambu Chime-Ringer Archetype. Its level has been changed accordingly.
 
@@ -77,7 +77,7 @@ You and your allies within 30 feet gain the effects of one of the following rune
 
 You choose the rune and the effect applies to all creatures.
 
-You can use an action, which has the [concentrate](rules/traits/concentrate.md) trait, to extend the duration of the rune for 1 additional round up to a maximum of 1 minute. If this would give a weapon or unarmed attack more property runes than its normal maximum, an existing property rune (as the creature chooses) is suppressed until the spell ends.
+You can use an action, which has the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") trait, to extend the duration of the rune for 1 additional round up to a maximum of 1 minute. If this would give a weapon or unarmed attack more property runes than its normal maximum, an existing property rune (as the creature chooses) is suppressed until the spell ends.
 
 *Source: Strength of Thousands #2: Spoken on the Song Wind p. 79*  
 %% #trait/archetype #trait/auditory #trait/evocation %%
@@ -87,7 +87,7 @@ You can use an action, which has the [concentrate](rules/traits/concentrate.md) 
 title: Song Of Grace And Speed, Feat 16*
 collapse: closed
 # Song Of Grace And Speed  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 16*  
-[archetype](rules/traits/archetype.md)  [auditory](rules/traits/auditory.md)  [transmutation](rules/traits/transmutation.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 > [!pf2-note] This version of [Song Of Grace And Speed](compendium/feats/song-of-grace-and-speed-sot2.md) is intended for use with the Nantambu Chime-Ringer Archetype. Its level has been changed accordingly.
 

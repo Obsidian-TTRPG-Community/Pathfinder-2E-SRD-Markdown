@@ -7,7 +7,7 @@ tags:
 aliases: ["Frenetic Musician"]
 ---
 # Frenetic Musician *Hazard 8*  
-[haunt](rules/traits/haunt.md)  
+[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 28 expert to hear phantom notes  
@@ -18,7 +18,7 @@ A spirit musician rises out of an instrument and plays a frantic, bone-shaking m
      
 ```ad-embed-ability
 title: Musical Assault [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[auditory](rules/traits/auditory.md)  [evocation](rules/traits/evocation.md)  [occult](rules/traits/occult.md)  [sonic](rules/traits/sonic.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  
 
 - **Trigger**: A creature touches the instrument
 

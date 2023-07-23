@@ -9,15 +9,15 @@ tags:
 aliases: ["Sink and Swim"]
 ---
 # Sink and Swim  *Feat 14*  
-[aftermath](rules/traits/aftermath-da.md)  [rare](rules/traits/rare.md)  [water](rules/traits/water.md)  
+[aftermath](rules/traits/aftermath-da.md "Aftermath Class Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
-- **Prerequisites**: You've been brought to 0 Hit Points by an enemy that has the [water](rules/traits/water.md) trait or an enemy's ability that has the [water](rules/traits/water.md) trait.
+- **Prerequisites**: You've been brought to 0 Hit Points by an enemy that has the [water](rules/traits/water.md "Water Energy & Element Trait") trait or an enemy's ability that has the [water](rules/traits/water.md "Water Energy & Element Trait") trait.
 
 Your body looks like it's made of flowing water, clear and pristine, providing a natural grace to all your movements. You gain a swim Speed equal to your land Speed. If you already had a swim Speed, it's increased by 10 feet. You gain the Water Transfer activity, which enables you to teleport through a body of water.
 
 ```ad-embed-ability
 title: Water Transfer[two-actions]
-[conjuration](rules/traits/conjuration.md)  [primal](rules/traits/primal.md)  [teleportation](rules/traits/teleportation.md)  [water](rules/traits/water.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
 - **Requirements**: You're on land and adjacent to a body of water
 

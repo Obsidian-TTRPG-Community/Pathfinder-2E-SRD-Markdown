@@ -9,7 +9,7 @@ tags:
 aliases: ["Forest Fire"]
 ---
 # Forest Fire *Hazard 4*  
-[complex](rules/traits/complex.md)  [environmental](rules/traits/environmental.md)  [fire](rules/traits/fire.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  
 
 - **Complexity** Complex
 - **Stealth** -10  

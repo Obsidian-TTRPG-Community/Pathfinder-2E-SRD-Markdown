@@ -8,7 +8,7 @@ tags:
 aliases: ["Blazing Streak"]
 ---
 # Blazing Streak  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 10*  
-[flourish](rules/traits/flourish.md)  [monk](rules/traits/monk.md)  
+[flourish](rules/traits/flourish.md "Flourish Combat Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Prerequisites**: [Stoked Flame Stance](compendium/feats/stoked-flame-stance-som.md)
 - **Requirements**: You're in Stoked Flame Stance.

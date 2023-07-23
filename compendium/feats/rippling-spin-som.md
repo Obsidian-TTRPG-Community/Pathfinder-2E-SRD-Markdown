@@ -7,7 +7,7 @@ tags:
 aliases: ["Rippling Spin"]
 ---
 # Rippling Spin  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Prerequisites**: [Reflective Ripple Stance](compendium/feats/reflective-ripple-stance-som.md)
 - **Trigger** You are hit by a physical melee attack by an attacker you can see that's in reach.

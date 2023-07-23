@@ -10,14 +10,14 @@ tags:
 aliases: ["Soothing Toddy"]
 ---
 # Soothing Toddy *Item 6*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [elixir](rules/traits/elixir.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [elixir](rules/traits/elixir.md "Elixir Item Trait")  
 
 - **Price** 45 gp
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md)
 - **Category** Elixir
 
-Hot tea with a comforting, flowery aroma, a soothing toddy grants you a +1 item bonus to saving throws against [emotion](rules/traits/emotion.md) effects and against effects with a trait determined by the liquor mixed into the tea when it's created. These benefits last for 1 hour.
+Hot tea with a comforting, flowery aroma, a soothing toddy grants you a +1 item bonus to saving throws against [emotion](rules/traits/emotion.md "Emotion Effect Trait") effects and against effects with a trait determined by the liquor mixed into the tea when it's created. These benefits last for 1 hour.
 
 - Amaretto Auditory
 - Limoncello Olfactory

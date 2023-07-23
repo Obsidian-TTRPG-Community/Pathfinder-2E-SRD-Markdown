@@ -7,7 +7,7 @@ tags:
 aliases: ["Divine Weapon"]
 ---
 # Divine Weapon  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 6*  
-[cleric](rules/traits/cleric.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  
 
 - **Frequency**: once per turn
 - **Trigger** You finish [Casting a Spell](rules/actions/cast-a-spell.md) using one of your divine spell slots on your turn.

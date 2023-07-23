@@ -12,7 +12,7 @@ tags:
 aliases: ["Wand of Clinging Rime"]
 ---
 # Wand of Clinging Rime *Item 16+*  
-[cold](rules/traits/cold.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [wand](rules/traits/wand.md)  [water](rules/traits/water.md)  
+[cold](rules/traits/cold.md "Cold Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Wand

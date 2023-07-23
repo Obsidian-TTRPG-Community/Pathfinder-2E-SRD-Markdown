@@ -10,12 +10,12 @@ tags:
 - domain/knowledge/deity
 aliases: ["Saloc", "The Minder of Immortals"]
 ---
-# Saloc (The Minder of Immortals) *([N](rules/traits/neutral-b1.md))*  
+# Saloc (The Minder of Immortals) *([N](rules/traits/n-b1.md "Neutral Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 130*  
 
 - **Category**: Monitor Demigods
 - **Anathema**: manipulate or remove a creature's emotions with magic, spread nihilism or hopelessness
-- **Follower Alignments**: [NG](rules/traits/neutral-good-b1.md), [N](rules/traits/neutral-b1.md), [NE](rules/traits/neutral-evil-b1.md)
+- **Follower Alignments**: [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait")
 
 ## Devotee benefits
 

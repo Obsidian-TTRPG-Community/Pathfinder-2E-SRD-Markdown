@@ -7,7 +7,7 @@ tags:
 aliases: ["Loyal Warhorse"]
 ---
 # Loyal Warhorse  *Feat 6*  
-[champion](rules/traits/champion.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  
 
 - **Prerequisites**: divine ally (steed)
 

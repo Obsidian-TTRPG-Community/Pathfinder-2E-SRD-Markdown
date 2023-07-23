@@ -11,7 +11,7 @@ tags:
 aliases: ["Elemental Betrayal"]
 ---
 # Elemental Betrayal *Focus 1*   
-[evocation](rules/traits/evocation.md)  [hex](rules/traits/hex-apg.md)  [uncommon](rules/traits/uncommon.md)  [witch](rules/traits/witch-apg.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [hex](rules/traits/hex-apg.md "Hex Combat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [witch](rules/traits/witch-apg.md "Witch Class Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**30 foot

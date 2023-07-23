@@ -7,7 +7,7 @@ tags:
 aliases: ["Cantrip Expansion (Psychic)"]
 ---
 # Cantrip Expansion (Psychic)  *Feat 2*  
-[psychic](rules/traits/psychic-da.md)  
+[psychic](rules/traits/psychic-da.md "Psychic Class Trait")  
 
 
 You expand what your mind can accomplish. Add two additional occult cantrips to your repertoire.

@@ -9,7 +9,7 @@ tags:
 aliases: ["Blessed Spell"]
 ---
 # Blessed Spell  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  [concentrate](rules/traits/concentrate.md)  [metamagic](rules/traits/metamagic.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 - **Prerequisites**: [Blessed One Dedication](compendium/feats/blessed-one-dedication-apg.md), ability to cast spells from spell slots, [Mercy](compendium/feats/mercy.md)
 - **Frequency**: once per 10 minutes

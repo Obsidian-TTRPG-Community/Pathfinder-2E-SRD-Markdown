@@ -7,7 +7,7 @@ tags:
 aliases: ["Reason Rapidly"]
 ---
 # Reason Rapidly  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 12*  
-[investigator](rules/traits/investigator-apg.md)  
+[investigator](rules/traits/investigator-apg.md "Investigator Class Trait")  
 
 - **Activity** Single Action
 

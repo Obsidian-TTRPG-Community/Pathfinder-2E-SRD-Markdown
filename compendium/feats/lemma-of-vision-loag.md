@@ -7,7 +7,7 @@ tags:
 aliases: ["Lemma Of Vision"]
 ---
 # Lemma Of Vision  *Feat 1*  
-[aphorite](rules/traits/aphorite-loag.md)  
+[aphorite](rules/traits/aphorite-loag.md "Aphorite Ancestry & Heritage Trait")  
 
 
 You've solved a tiny stepping stone in your self-discovery, awakening new depths in your sight. You gain [darkvision](rules/abilities/darkvision.md).

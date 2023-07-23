@@ -11,7 +11,7 @@ tags:
 aliases: ["Clockwork Spider Bomb"]
 ---
 # Clockwork Spider Bomb *Item 8*  
-[consumable](rules/traits/consumable.md)  [uncommon](rules/traits/uncommon.md)  clockwork  gadget  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  clockwork  gadget  
 
 - **Price** 100 gp
 - **Usage** held in 1 hand; **Bulk** 1

@@ -8,7 +8,7 @@ tags:
 aliases: ["That's Not Everyone"]
 ---
 # That's Not Everyone
-[exploration](rules/traits/exploration.md)  
+[exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  
 *Source: Age of Ashes #5: Against the Scarlet Triad p. 29*  
 
 - **Trigger** The PCs complete Break the Chains

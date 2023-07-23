@@ -7,7 +7,7 @@ tags:
 aliases: ["Champion Resiliency"]
 ---
 # Champion Resiliency  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Champion Dedication](compendium/feats/champion-dedication.md), class granting no more Hit Points per level than 8 + your Constitution modifier
 

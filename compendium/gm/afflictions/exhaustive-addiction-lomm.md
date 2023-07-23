@@ -11,7 +11,7 @@ aliases: ["Exhaustive Addiction"]
 ---
 # Exhaustive Addiction
 *Disease 15*  
-[disease](rules/traits/disease.md)  [unique](rules/traits/unique.md)  
+[disease](rules/traits/disease.md "Disease Effect Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 Addictive exhaustion results from exposure to Kuworsys's spores, through close proximity with the monster or in fungus-filled pits throughout Kuworsys's lair. At the onset, afflicted creatures find themselves gradually becoming disinterested in life. As the disease worsens, they become hyper-focused on a single activity. As the disease reaches its final stages, sustenance and rest provide no relief for them.
 

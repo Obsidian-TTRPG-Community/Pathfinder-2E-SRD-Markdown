@@ -7,7 +7,7 @@ tags:
 aliases: ["Back To Back"]
 ---
 # Back To Back  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Marshal Dedication](compendium/feats/marshal-dedication-apg.md)
 

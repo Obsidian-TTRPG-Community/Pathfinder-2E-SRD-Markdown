@@ -9,9 +9,9 @@ tags:
 aliases: ["Divine Decree"]
 ---
 # Divine Decree *Spell 7*   
-[evocation](rules/traits/evocation.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**40 foot
 - **Area**40-foot emanation

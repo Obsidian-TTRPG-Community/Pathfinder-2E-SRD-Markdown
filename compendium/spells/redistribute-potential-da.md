@@ -14,7 +14,7 @@ tags:
 aliases: ["Redistribute Potential"]
 ---
 # Redistribute Potential *Cantrip 5*   
-[cantrip](rules/traits/cantrip.md)  [cold](rules/traits/cold.md)  [evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  [psychic](rules/traits/psychic-da.md)  [uncommon](rules/traits/uncommon.md)  
+[cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [cold](rules/traits/cold.md "Cold Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**60 foot

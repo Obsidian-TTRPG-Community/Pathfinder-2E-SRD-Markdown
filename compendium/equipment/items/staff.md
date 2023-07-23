@@ -8,7 +8,7 @@ tags:
 aliases: ["Staff"]
 ---
 # Staff *Item 0*  
-[two-hand <d8>](rules/traits/two-hand.md)  
+[two-hand <d8>](rules/traits/two-hand-d8.md "Two-Hand Weapon Trait")  
 
 - **Price** 0 gp
 - **Bulk** 1

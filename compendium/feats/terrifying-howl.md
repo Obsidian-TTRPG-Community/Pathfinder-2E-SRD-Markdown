@@ -9,7 +9,7 @@ tags:
 aliases: ["Terrifying Howl"]
 ---
 # Terrifying Howl  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
-[auditory](rules/traits/auditory.md)  [barbarian](rules/traits/barbarian.md)  [rage](rules/traits/rage.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [rage](rules/traits/rage.md "Rage Combat Trait")  
 
 - **Prerequisites**: [Intimidating Glare](compendium/feats/intimidating-glare.md)
 - **Activity** Single Action

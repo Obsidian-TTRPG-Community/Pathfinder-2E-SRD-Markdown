@@ -7,7 +7,7 @@ tags:
 aliases: ["Mask Of Pain"]
 ---
 # Mask Of Pain  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 9*  
-[orc](rules/traits/orc.md)  
+[orc](rules/traits/orc.md "Orc Ancestry & Heritage Trait")  
 
 - **Prerequisites**: expert in [Intimidation](compendium/skills.md#Intimidation), [Orc Warmask](compendium/feats/orc-warmask-loag.md)
 - **Trigger** You succeed at a [Demoralize](rules/actions/demoralize.md) check.

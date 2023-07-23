@@ -9,7 +9,7 @@ tags:
 aliases: ["Foul Miasma"]
 ---
 # Foul Miasma *Focus 4*   
-[disease](rules/traits/disease.md)  [necromancy](rules/traits/necromancy.md)  
+[disease](rules/traits/disease.md "Disease Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 - **Domains**: [plague](compendium/setting/domains.md#Plague)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

@@ -8,7 +8,7 @@ tags:
 aliases: ["Ritual Researcher"]
 ---
 # Ritual Researcher  *Feat 4*  
-[bard](rules/traits/bard.md)  [uncommon](rules/traits/uncommon.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: enigma muse, expert in [Occultism](compendium/skills.md#Occultism)
 

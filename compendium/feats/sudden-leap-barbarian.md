@@ -7,7 +7,7 @@ tags:
 aliases: ["Sudden Leap (Barbarian)"]
 ---
 # Sudden Leap (Barbarian)  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
-[barbarian](rules/traits/barbarian.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  
 
 - **Activity** Two-Action
 

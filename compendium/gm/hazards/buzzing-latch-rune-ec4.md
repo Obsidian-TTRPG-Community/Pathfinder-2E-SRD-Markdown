@@ -10,7 +10,7 @@ tags:
 aliases: ["Buzzing Latch Rune"]
 ---
 # Buzzing Latch Rune *Hazard 13*  
-[electricity](rules/traits/electricity.md)  [magical](rules/traits/magical.md)  [sonic](rules/traits/sonic.md)  [trap](rules/traits/trap.md)  
+[electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 32 master  
@@ -27,7 +27,7 @@ An [invisible](rules/conditions.md#Invisible) rune on the door begins emitting a
      
 ```ad-embed-ability
 title: Jolting Buzz [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[electricity](rules/traits/electricity.md)  [evocation](rules/traits/evocation.md)  [primal](rules/traits/primal.md)  [sonic](rules/traits/sonic.md)  
+[electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  
 
 - **Trigger**: A creature attempts to open the door without using the key
 

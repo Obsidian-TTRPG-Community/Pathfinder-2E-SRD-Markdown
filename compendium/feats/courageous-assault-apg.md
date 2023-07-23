@@ -10,7 +10,7 @@ tags:
 aliases: ["Courageous Assault"]
 ---
 # Courageous Assault  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
-[auditory](rules/traits/auditory.md)  [bard](rules/traits/bard.md)  [concentrate](rules/traits/concentrate.md)  [metamagic](rules/traits/metamagic.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [bard](rules/traits/bard.md "Bard Class Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 - **Prerequisites**: warrior muse
 - **Activity** Single Action

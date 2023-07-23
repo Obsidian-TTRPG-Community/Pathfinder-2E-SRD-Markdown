@@ -11,7 +11,7 @@ tags:
 aliases: ["Paired Link"]
 ---
 # Paired Link  *Feat 4*  
-[divination](rules/traits/divination.md)  [esoterica](rules/traits/esoterica-da.md)  [fortune](rules/traits/fortune.md)  [occult](rules/traits/occult.md)  [thaumaturge](rules/traits/thaumaturge-da.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [esoterica](rules/traits/esoterica-da.md "Esoterica Action & Ability Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [thaumaturge](rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
 
 
 You break a trinket such as a lodestone or jade pendant in two, creating a sympathetic link between the halves that bridges distance. During your daily preparations, you perform a short ceremony where you gift one of the two halves to a willing ally.

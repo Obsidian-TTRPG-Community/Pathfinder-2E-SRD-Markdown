@@ -11,7 +11,7 @@ tags:
 aliases: ["Fleshgem"]
 ---
 # Fleshgem *Item 5+*  
-[evocation](rules/traits/evocation.md)  [invested](rules/traits/invested.md)  [primal](rules/traits/primal.md)  [uncommon](rules/traits/uncommon.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Usage** envision
 - **Category** Worn

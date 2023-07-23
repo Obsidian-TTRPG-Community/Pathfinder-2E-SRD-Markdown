@@ -7,7 +7,7 @@ tags:
 aliases: ["Lion's Might"]
 ---
 # Lion's Might  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: Bright Lion Dedication
 

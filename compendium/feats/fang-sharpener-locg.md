@@ -7,11 +7,11 @@ tags:
 aliases: ["Fang Sharpener"]
 ---
 # Fang Sharpener  *Feat 1*  
-[goblin](rules/traits/goblin.md)  
+[goblin](rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  
 
 - **Prerequisites**: irongut goblin or razortooth goblin heritage
 
-You have filed your teeth into jagged points and have an unusually powerful jaw, making your mouth a dangerous weapon. If you're an irongut goblin, you gain a jaws unarmed attack that deals `1d4` piercing damage, and if you're a razortooth goblin, your jaws unarmed attack deals `1d8` piercing damage and loses the [finesse](rules/traits/finesse.md) trait. Whenever you score a critical hit with your jaws unarmed attack, your target takes 1 [persistent bleed damage](rules/conditions.md#Persistent%20Damage) per weapon damage die.
+You have filed your teeth into jagged points and have an unusually powerful jaw, making your mouth a dangerous weapon. If you're an irongut goblin, you gain a jaws unarmed attack that deals `1d4` piercing damage, and if you're a razortooth goblin, your jaws unarmed attack deals `1d8` piercing damage and loses the [finesse](rules/traits/finesse.md "Finesse Weapon Trait") trait. Whenever you score a critical hit with your jaws unarmed attack, your target takes 1 [persistent bleed damage](rules/conditions.md#Persistent%20Damage) per weapon damage die.
 
 ## Fang Sharpener leads to...
 

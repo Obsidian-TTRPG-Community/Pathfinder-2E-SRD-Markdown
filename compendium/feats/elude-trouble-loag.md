@@ -7,7 +7,7 @@ tags:
 aliases: ["Elude Trouble"]
 ---
 # Elude Trouble  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 17*  
-[catfolk](rules/traits/catfolk-b1.md)  
+[catfolk](rules/traits/catfolk-b1.md "Catfolk Ancestry & Heritage Trait")  
 
 - **Trigger** A creature misses you with a melee attack.
 - **Activity** Reaction

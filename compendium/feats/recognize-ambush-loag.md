@@ -7,7 +7,7 @@ tags:
 aliases: ["Recognize Ambush"]
 ---
 # Recognize Ambush  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 5*  
-[hobgoblin](rules/traits/hobgoblin-locg.md)  
+[hobgoblin](rules/traits/hobgoblin-locg.md "Hobgoblin Ancestry & Heritage Trait")  
 
 - **Trigger** You roll initiative.
 - **Activity** Free Action

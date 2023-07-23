@@ -7,7 +7,7 @@ tags:
 aliases: ["Hurricane Swing"]
 ---
 # Hurricane Swing  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 17*  
-[tengu](rules/traits/tengu-b1.md)  
+[tengu](rules/traits/tengu-b1.md "Tengu Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Storm's Lash](compendium/feats/storms-lash-apg.md)
 - **Frequency**: once per day

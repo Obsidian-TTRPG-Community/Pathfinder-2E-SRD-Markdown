@@ -7,7 +7,7 @@ tags:
 aliases: ["Elaborate Talisman Esoterica"]
 ---
 # Elaborate Talisman Esoterica  *Feat 8*  
-[thaumaturge](rules/traits/thaumaturge-da.md)  
+[thaumaturge](rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
 
 - **Prerequisites**: Talisman Esoterica
 

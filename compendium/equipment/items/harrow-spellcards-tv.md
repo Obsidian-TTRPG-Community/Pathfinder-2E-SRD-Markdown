@@ -11,7 +11,7 @@ tags:
 aliases: ["Harrow Spellcards"]
 ---
 # Harrow Spellcards *Item 8*  
-[divination](rules/traits/divination.md)  [grimoire](rules/traits/grimoire-som.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [grimoire](rules/traits/grimoire-som.md "Grimoire Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 475 gp
 - **Bulk** L
@@ -21,7 +21,7 @@ Crafted of sturdy paper, each card of this harrow deck showcases a beautiful wat
 
 ```ad-embed-ability
 title: Activate [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
-[fortune](rules/traits/fortune.md)  
+[fortune](rules/traits/fortune.md "Fortune Effect Trait")  
 
 - **Trigger**: Your last action was to cast a divination spell prepared from this grimoire
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Effortless Concentration (Bard)"]
 ---
 # Effortless Concentration (Bard)  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 16*  
-[bard](rules/traits/bard.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  
 
 - **Trigger** Your turn begins.
 - **Activity** Free Action

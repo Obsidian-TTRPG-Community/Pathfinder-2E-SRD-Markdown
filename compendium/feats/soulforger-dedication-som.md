@@ -9,7 +9,7 @@ tags:
 aliases: ["Soulforger Dedication"]
 ---
 # Soulforger Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: Wis 14 or ability to cast divine spells
 
@@ -19,7 +19,7 @@ You can Manifest Soulforged Armament to summon your armaments in combat.
 
 ```ad-embed-ability
 title: Manifest Soulforged Armament [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[concentrate](rules/traits/concentrate.md)  [conjuration](rules/traits/conjuration.md)  [divine](rules/traits/divine.md)  [extradimensional](rules/traits/extradimensional.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [extradimensional](rules/traits/extradimensional.md "Extradimensional Effect Trait")  
 
 - **Requirements**: If summoning a weapon or shield, you have the hands free to wield it; if summoning armor, you aren't wearing any armor
 

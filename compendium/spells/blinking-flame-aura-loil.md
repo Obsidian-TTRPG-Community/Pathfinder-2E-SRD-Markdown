@@ -11,7 +11,7 @@ tags:
 aliases: ["Blinking Flame Aura"]
 ---
 # Blinking Flame Aura *Focus 5*   
-[divination](rules/traits/divination.md)  [fire](rules/traits/fire.md)  [healing](rules/traits/healing.md)  [uncommon](rules/traits/uncommon.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Duration**1 minute

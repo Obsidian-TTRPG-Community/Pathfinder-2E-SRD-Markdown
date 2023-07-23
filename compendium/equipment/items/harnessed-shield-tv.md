@@ -8,7 +8,7 @@ tags:
 aliases: ["Harnessed Shield"]
 ---
 # Harnessed Shield *Item 0*  
-[harnessed](rules/traits/harnessed-tv.md)  
+[harnessed](rules/traits/harnessed-tv.md "Harnessed Item Trait")  
 
 - **Price** 5 gp
 - **Bulk** 2

@@ -9,7 +9,7 @@ tags:
 aliases: ["Called"]
 ---
 # Called *Item 7*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 350 gp
 - **Usage** etched onto a weapon

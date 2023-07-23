@@ -10,7 +10,7 @@ aliases: ["Malaria"]
 ---
 # Malaria
 *Disease 7*  
-[disease](rules/traits/disease.md)  
+[disease](rules/traits/disease.md "Disease Effect Trait")  
 
 The victim has a fever and flu-like symptoms, and can't recover from the [fatigued](rules/conditions.md#Fatigued) condition from malaria until the disease is cured.
 

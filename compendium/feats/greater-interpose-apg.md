@@ -7,7 +7,7 @@ tags:
 aliases: ["Greater Interpose"]
 ---
 # Greater Interpose  *Feat 14*  
-[champion](rules/traits/champion.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  
 
 - **Prerequisites**: [Sacrifice Armor](compendium/feats/sacrifice-armor-apg.md)
 

@@ -11,7 +11,7 @@ tags:
 aliases: ["Solar Shellflower"]
 ---
 # Solar Shellflower *Item 5*  
-[arcane](rules/traits/arcane.md)  [evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  [uncommon](rules/traits/uncommon.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 160 gp
 - **Usage** held in two hands; **Bulk** L

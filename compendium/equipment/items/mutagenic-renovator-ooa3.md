@@ -12,7 +12,7 @@ tags:
 aliases: ["Mutagenic Renovator"]
 ---
 # Mutagenic Renovator *Item 10*  
-[abjuration](rules/traits/abjuration.md)  [consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [potion](rules/traits/potion.md)  [uncommon](rules/traits/uncommon.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [potion](rules/traits/potion.md "Potion Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 180 gp
 - **Usage** held in 1 hand; **Bulk** L

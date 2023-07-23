@@ -7,7 +7,7 @@ tags:
 aliases: ["Terrain Master"]
 ---
 # Terrain Master  *Feat 8*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: master in [Survival](compendium/skills.md#Survival), [Favored Terrain](compendium/feats/favored-terrain.md)
 

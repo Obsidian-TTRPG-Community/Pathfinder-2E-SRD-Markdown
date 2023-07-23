@@ -7,7 +7,7 @@ tags:
 aliases: ["Mountain Stronghold"]
 ---
 # Mountain Stronghold  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Prerequisites**: [Mountain Stance](compendium/feats/mountain-stance.md)
 - **Requirements**: You are in [Mountain Stance](compendium/feats/mountain-stance.md).

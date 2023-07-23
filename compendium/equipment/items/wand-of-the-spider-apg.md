@@ -11,7 +11,7 @@ tags:
 aliases: ["Wand Of The Spider"]
 ---
 # Wand Of The Spider *Item 7+*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [poison](rules/traits/poison.md)  [wand](rules/traits/wand.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Poison

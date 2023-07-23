@@ -9,7 +9,7 @@ tags:
 aliases: ["Codebreaker's Parchment"]
 ---
 # Codebreaker's Parchment *Item 3+*  
-[illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Usage** held in 2 hands; **Bulk** L
 - **Category** Held

@@ -10,7 +10,7 @@ tags:
 aliases: ["Winter Bolt"]
 ---
 # Winter Bolt *Focus 1*   
-[attack](rules/traits/attack.md)  [cold](rules/traits/cold.md)  [evocation](rules/traits/evocation.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  [cold](rules/traits/cold.md "Cold Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
 - **Domains**: [cold](compendium/setting/domains.md#Cold)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

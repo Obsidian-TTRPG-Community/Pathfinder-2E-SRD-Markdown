@@ -12,7 +12,7 @@ tags:
 aliases: ["Hat of Disagreeable Disguise"]
 ---
 # Hat of Disagreeable Disguise *Item 2+*  
-[cursed](rules/traits/cursed-gmg.md)  [illusion](rules/traits/illusion.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** worn headwear; **Bulk** —
 - **Category** Worn

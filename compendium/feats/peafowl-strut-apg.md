@@ -8,7 +8,7 @@ tags:
 aliases: ["Peafowl Strut"]
 ---
 # Peafowl Strut  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
-[flourish](rules/traits/flourish.md)  [monk](rules/traits/monk.md)  
+[flourish](rules/traits/flourish.md "Flourish Combat Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Prerequisites**: [Peafowl Stance](compendium/feats/peafowl-stance-apg.md)
 - **Requirements**: You are in Peafowl Stance.

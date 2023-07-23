@@ -7,7 +7,7 @@ tags:
 aliases: ["Perfect Form Control"]
 ---
 # Perfect Form Control  *Feat 18*  
-[druid](rules/traits/druid.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  
 
 - **Prerequisites**: [Form Control](compendium/feats/form-control.md), Strength 18
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Great Boaster"]
 ---
 # Great Boaster  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: Charisma 16, [Firebrand Braggart Dedication](compendium/feats/firebrand-braggart-dedication-locg.md)
 

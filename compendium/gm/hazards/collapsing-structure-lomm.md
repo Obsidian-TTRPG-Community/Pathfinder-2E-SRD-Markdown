@@ -10,7 +10,7 @@ tags:
 aliases: ["Collapsing Structure"]
 ---
 # Collapsing Structure *Hazard 15*  
-[complex](rules/traits/complex.md)  [environmental](rules/traits/environmental.md)  [kaiju](rules/traits/kaiju-frp2.md)  [rare](rules/traits/rare.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [kaiju](rules/traits/kaiju-frp2.md "Kaiju  Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Complexity** Complex
 - **Stealth** +20 master to notice cracks forming in the walls of the structure as Ebeshra approaches  

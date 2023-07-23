@@ -8,7 +8,7 @@ tags:
 aliases: ["Energy Ablation"]
 ---
 # Energy Ablation  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 2*  
-[metamagic](rules/traits/metamagic.md)  [wizard](rules/traits/wizard.md)  
+[metamagic](rules/traits/metamagic.md "Metamagic General Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Activity** Single Action
 

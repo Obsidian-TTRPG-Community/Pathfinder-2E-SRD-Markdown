@@ -7,7 +7,7 @@ tags:
 aliases: ["Vision Of Weakness"]
 ---
 # Vision Of Weakness  *Feat 4*  
-[oracle](rules/traits/oracle-apg.md)  
+[oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  
 
 
 You can call upon divine insights to single out your foes' weak points. You learn the [vision of weakness](compendium/spells/vision-of-weakness-apg.md) revelation spell. Increase the number of Focus Points in your focus pool by 1.

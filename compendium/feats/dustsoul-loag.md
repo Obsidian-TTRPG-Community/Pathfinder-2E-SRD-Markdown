@@ -8,7 +8,7 @@ tags:
 aliases: ["Dustsoul"]
 ---
 # Dustsoul  *Feat 1*  
-[lineage](rules/traits/lineage-apg.md)  [oread](rules/traits/oread-b2.md)  
+[lineage](rules/traits/lineage-apg.md "Lineage  Trait")  [oread](rules/traits/oread-b2.md "Oread Ancestry & Heritage Trait")  
 
 
 Your earth elemental ancestor's influence manifests in you as dust and dirt, like the soil of a field or the hot desert sands. You gain the trained proficiency rank in [Survival](compendium/skills.md#Survival). If you would automatically become trained in [Survival](compendium/skills.md#Survival) (from your background or class, for example), you instead become trained in a skill of your choice. You can sustain yourself on dirt and ash instead of normal food and water.

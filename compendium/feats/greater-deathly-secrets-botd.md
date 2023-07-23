@@ -7,7 +7,7 @@ tags:
 aliases: ["Greater Deathly Secrets"]
 ---
 # Greater Deathly Secrets  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Deathly Secrets](compendium/feats/deathly-secrets-botd.md)
 

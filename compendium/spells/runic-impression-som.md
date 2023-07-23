@@ -10,7 +10,7 @@ tags:
 aliases: ["Runic Impression"]
 ---
 # Runic Impression *Focus 4*   
-[evocation](rules/traits/evocation.md)  [magus](rules/traits/magus-som.md)  [uncommon](rules/traits/uncommon.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [magus](rules/traits/magus-som.md "Magus Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**touch

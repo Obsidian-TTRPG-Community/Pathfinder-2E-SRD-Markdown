@@ -9,7 +9,7 @@ tags:
 aliases: ["Mindscape Door"]
 ---
 # Mindscape Door *Ritual 5*  
-[illusion](rules/traits/illusion.md)  [uncommon](rules/traits/uncommon.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** 1 hour
 - **Cost** incense and focusing diagrams worth a total value of the target's level (minimum 1) × 1 gp, for each target

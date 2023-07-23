@@ -11,7 +11,7 @@ tags:
 aliases: ["Apex Companion"]
 ---
 # Apex Companion *Focus 10*   
-[druid](rules/traits/druid.md)  [polymorph](rules/traits/polymorph.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot
@@ -23,7 +23,7 @@ You focus on the energies of all members of your animal companion's species, tra
 - Your animal companion becomes Huge and its attacks have 15-foot reach. It must have enough space to expand into or the spell is lost.
 - 30 temporary Hit Points.
 - Darkvision.
-- Your animal companion's attack's damage dice increase by one step, and its attack gains the [deadly <d12>](rules/traits/deadly.md) trait.
+- Your animal companion's attack's damage dice increase by one step, and its attack gains the [deadly <d12>](rules/traits/deadly-d12.md "Deadly Weapon Trait") trait.
 - +10-foot status bonus to its Speeds.
 - Ignores difficult terrain and greater difficult terrain.
 

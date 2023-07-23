@@ -7,7 +7,7 @@ tags:
 aliases: ["Share Thoughts"]
 ---
 # Share Thoughts  *Feat 1*  
-[elf](rules/traits/elf.md)  
+[elf](rules/traits/elf.md "Elf Ancestry & Heritage Trait")  
 
 - **Prerequisites**: Mualijae, Ilverani, or Vourinoi ethnicity
 

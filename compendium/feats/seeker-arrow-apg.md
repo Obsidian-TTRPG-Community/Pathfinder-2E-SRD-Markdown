@@ -9,7 +9,7 @@ tags:
 aliases: ["Seeker Arrow"]
 ---
 # Seeker Arrow  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 14*  
-[archetype](rules/traits/archetype.md)  [divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Prerequisites**: [Eldritch Archer Dedication](compendium/feats/eldritch-archer-dedication-apg.md)
 - **Activity** Single Action

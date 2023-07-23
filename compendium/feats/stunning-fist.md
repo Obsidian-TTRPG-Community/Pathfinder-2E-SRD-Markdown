@@ -7,11 +7,11 @@ tags:
 aliases: ["Stunning Fist"]
 ---
 # Stunning Fist  *Feat 2*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Prerequisites**: [Flurry of Blows](rules/actions/flurry-of-blows.md)
 
-The focused power of your flurry threatens to overwhelm your opponent. When you target the same creature with two [Strikes](rules/actions/strike.md) from your [Flurry of Blows](rules/actions/flurry-of-blows.md), you can try to stun the creature. If either [Strike](rules/actions/strike.md) hits and deals damage, the target must succeed at a Fortitude save against your class DC or be [stunned](rules/conditions.md#Stunned) (or [stunned](rules/conditions.md#Stunned) on a critical failure). This is an [incapacitation](rules/traits/incapacitation.md) effect.
+The focused power of your flurry threatens to overwhelm your opponent. When you target the same creature with two [Strikes](rules/actions/strike.md) from your [Flurry of Blows](rules/actions/flurry-of-blows.md), you can try to stun the creature. If either [Strike](rules/actions/strike.md) hits and deals damage, the target must succeed at a Fortitude save against your class DC or be [stunned](rules/conditions.md#Stunned) (or [stunned](rules/conditions.md#Stunned) on a critical failure). This is an [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait") effect.
 
 ## Stunning Fist leads to...
 

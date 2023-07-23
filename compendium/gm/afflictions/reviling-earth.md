@@ -13,7 +13,7 @@ aliases: ["Reviling Earth"]
 ---
 # Reviling Earth
 *Curse 12*  
-[curse](rules/traits/curse.md)  [death](rules/traits/death.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  
+[curse](rules/traits/curse.md "Curse Effect Trait")  [death](rules/traits/death.md "Death Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 A reviling earth curse usually appears across a specific geographical region, such as a ruined town, a necromancer's domain, or a similar area.
 

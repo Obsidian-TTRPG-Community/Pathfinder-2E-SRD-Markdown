@@ -8,9 +8,9 @@ tags:
 aliases: ["Wanderer's Guide"]
 ---
 # Wanderer's Guide *Spell 3*   
-[divination](rules/traits/divination.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md), [occult](rules/traits/occult.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 1 minute 
 - **Duration**until your next daily preparations
 

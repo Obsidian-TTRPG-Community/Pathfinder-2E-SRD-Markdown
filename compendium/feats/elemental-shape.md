@@ -7,7 +7,7 @@ tags:
 aliases: ["Elemental Shape"]
 ---
 # Elemental Shape  *Feat 10*  
-[druid](rules/traits/druid.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  
 
 - **Prerequisites**: [Wild Shape](compendium/feats/wild-shape.md)
 

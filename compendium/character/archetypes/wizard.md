@@ -21,7 +21,7 @@ The wizard archetype grants versatile prepared spells, perfect for characters lo
 title: Wizard Dedication, Feat 2
 collapse: closed
 # Wizard Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [multiclass](rules/traits/multiclass.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [multiclass](rules/traits/multiclass.md "Multiclass Feat Trait")  
 
 - **Prerequisites**: Intelligence 14
 
@@ -39,7 +39,7 @@ Select one arcane arcane school|wizard||1||school of magic; you don't gain any a
 title: Arcane School Spell, Feat 4
 collapse: closed
 # Arcane School Spell  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Wizard Dedication](compendium/feats/wizard-dedication.md)
 
@@ -53,7 +53,7 @@ You gain the school's initial school spell. If you don't already have one, you g
 title: Basic Arcana, Feat 4
 collapse: closed
 # Basic Arcana  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Wizard Dedication](compendium/feats/wizard-dedication.md)
 
@@ -67,7 +67,7 @@ You gain a 1st- or 2nd-level wizard feat of your choice.
 title: Basic Wizard Spellcasting, Feat 4
 collapse: closed
 # Basic Wizard Spellcasting  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Wizard Dedication](compendium/feats/wizard-dedication.md)
 
@@ -81,7 +81,7 @@ You gain the basic spellcasting benefits. Each time you gain a spell slot of a n
 title: Advanced Arcana, Feat 6
 collapse: closed
 # Advanced Arcana  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Arcana](compendium/feats/basic-arcana.md)
 
@@ -97,7 +97,7 @@ You gain one wizard feat. For the purpose of meeting its prerequisites, your wiz
 title: Arcane Breadth, Feat 8
 collapse: closed
 # Arcane Breadth  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Wizard Spellcasting](compendium/feats/basic-wizard-spellcasting.md)
 
@@ -111,7 +111,7 @@ You can cast more arcane spells each day. Increase the spell slots you gain from
 title: Expert Wizard Spellcasting, Feat 12*
 collapse: closed
 # Expert Wizard Spellcasting  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Expert Wizard Spellcasting](compendium/feats/expert-wizard-spellcasting.md) is intended for use with the Wizard Archetype. Its level has been changed accordingly.
 
@@ -127,7 +127,7 @@ You gain the expert spellcasting benefits.
 title: Master Wizard Spellcasting, Feat 18*
 collapse: closed
 # Master Wizard Spellcasting  *Feat 18*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Master Wizard Spellcasting](compendium/feats/master-wizard-spellcasting.md) is intended for use with the Wizard Archetype. Its level has been changed accordingly.
 

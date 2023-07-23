@@ -9,7 +9,7 @@ tags:
 aliases: ["Sing To The Steel"]
 ---
 # Sing To The Steel  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 12*  
-[archetype](rules/traits/archetype.md)  [auditory](rules/traits/auditory.md)  [evocation](rules/traits/evocation.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
 - **Prerequisites**: [Nantambu Chime-Ringer Dedication](compendium/feats/nantambu-chime-ringer-dedication-sot2.md)
 - **Frequency**: once per hour
@@ -21,7 +21,7 @@ You and your allies within 30 feet gain the effects of one of the following rune
 
 You choose the rune and the effect applies to all creatures.
 
-You can use an action, which has the [concentrate](rules/traits/concentrate.md) trait, to extend the duration of the rune for 1 additional round up to a maximum of 1 minute. If this would give a weapon or unarmed attack more property runes than its normal maximum, an existing property rune (as the creature chooses) is suppressed until the spell ends.
+You can use an action, which has the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") trait, to extend the duration of the rune for 1 additional round up to a maximum of 1 minute. If this would give a weapon or unarmed attack more property runes than its normal maximum, an existing property rune (as the creature chooses) is suppressed until the spell ends.
 
 *Source: Strength of Thousands #2: Spoken on the Song Wind p. 79*  
 %% #compendium/src/pf2e/sot2 #trait/archetype #trait/auditory #trait/evocation %%

@@ -10,12 +10,12 @@ tags:
 - domain/might/deity
 aliases: ["Sekhmet", "Lady of Slaughter"]
 ---
-# Sekhmet (Lady of Slaughter) *([CN](rules/traits/chaotic-neutral-b1.md))*  
+# Sekhmet (Lady of Slaughter) *([CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 124*  
 
 - **Category**: Ancient Osirian Gods
 - **Anathema**: spare an evil fiend, fail to placate Sekhmet with daily rituals
-- **Follower Alignments**: [N](rules/traits/neutral-b1.md), [CG](rules/traits/chaotic-good-b1.md), [CN](rules/traits/chaotic-neutral-b1.md), [CE](rules/traits/chaotic-evil-b1.md)
+- **Follower Alignments**: [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
 

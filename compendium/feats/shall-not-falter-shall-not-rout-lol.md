@@ -8,7 +8,7 @@ tags:
 aliases: ["Shall Not Falter, Shall Not Rout"]
 ---
 # Shall Not Falter, Shall Not Rout  *Feat 10*  
-[archetype](rules/traits/archetype.md)  [rare](rules/traits/rare.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Prerequisites**: [Knight Reclaimant Dedication](compendium/feats/knight-reclaimant-dedication-locg.md)
 

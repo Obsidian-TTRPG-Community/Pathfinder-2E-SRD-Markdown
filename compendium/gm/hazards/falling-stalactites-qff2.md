@@ -7,7 +7,7 @@ tags:
 aliases: ["Falling Stalactites"]
 ---
 # Falling Stalactites *Hazard 3*  
-[environmental](rules/traits/environmental.md)  
+[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 23 trained  
@@ -24,7 +24,7 @@ Unstable stalactites fall from the ceiling.
      
 ```ad-embed-ability
 title: Fall [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[attack](rules/traits/attack.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  
 
 - **Trigger**: A stalactite is damaged or touched
 

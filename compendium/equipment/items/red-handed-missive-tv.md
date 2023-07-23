@@ -12,7 +12,7 @@ tags:
 aliases: ["Red-Handed Missive"]
 ---
 # Red-Handed Missive *Item 7*  
-[consumable](rules/traits/consumable.md)  [curse](rules/traits/curse.md)  [magical](rules/traits/magical.md)  [missive](rules/traits/missive-tv.md)  [transmutation](rules/traits/transmutation.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [curse](rules/traits/curse.md "Curse Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [missive](rules/traits/missive-tv.md "Missive Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 60 gp
 - **Usage** held in 1 hand; **Bulk** —

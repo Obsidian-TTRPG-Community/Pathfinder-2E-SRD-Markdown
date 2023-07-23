@@ -12,9 +12,9 @@ tags:
 aliases: ["Possession"]
 ---
 # Possession *Spell 7*   
-[incapacitation](rules/traits/incapacitation.md)  [mental](rules/traits/mental.md)  [necromancy](rules/traits/necromancy.md)  [possession](rules/traits/possession.md)  [uncommon](rules/traits/uncommon.md)  
+[incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [possession](rules/traits/possession.md "Possession Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [occult](rules/traits/occult.md)
+- **Traditions**: [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot
 - **Targets**1 living creature

@@ -12,7 +12,7 @@ tags:
 aliases: ["Bi-resonant Wayfinder"]
 ---
 # Bi-resonant Wayfinder *Item 6*  
-[evocation](rules/traits/evocation.md)  [illusion](rules/traits/illusion.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 200 gp
 - **Usage** worn

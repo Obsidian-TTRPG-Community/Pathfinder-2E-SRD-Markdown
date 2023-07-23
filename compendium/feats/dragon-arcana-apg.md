@@ -7,7 +7,7 @@ tags:
 aliases: ["Dragon Arcana"]
 ---
 # Dragon Arcana  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: ability to cast spells from spell slots, [Dragon Disciple Dedication](compendium/feats/dragon-disciple-dedication-apg.md)
 

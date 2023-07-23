@@ -11,7 +11,7 @@ tags:
 aliases: ["Envisioning Mask"]
 ---
 # Envisioning Mask *Item 11*  
-[divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 - **Price** 1200 gp
 - **Usage** worn mask

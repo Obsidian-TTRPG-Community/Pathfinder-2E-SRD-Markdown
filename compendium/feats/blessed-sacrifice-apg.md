@@ -7,7 +7,7 @@ tags:
 aliases: ["Blessed Sacrifice"]
 ---
 # Blessed Sacrifice  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Blessed One Dedication](compendium/feats/blessed-one-dedication-apg.md)
 

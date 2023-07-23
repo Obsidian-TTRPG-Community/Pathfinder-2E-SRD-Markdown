@@ -8,7 +8,7 @@ tags:
 aliases: ["Bloodline Conduit"]
 ---
 # Bloodline Conduit  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 20*  
-[metamagic](rules/traits/metamagic.md)  [sorcerer](rules/traits/sorcerer.md)  
+[metamagic](rules/traits/metamagic.md "Metamagic General Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 - **Frequency**: once per minute
 - **Activity** Single Action

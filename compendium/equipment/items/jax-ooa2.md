@@ -13,7 +13,7 @@ tags:
 aliases: ["Jax"]
 ---
 # Jax *Item 8*  
-[cursed](rules/traits/cursed-gmg.md)  [divine](rules/traits/divine.md)  [evocation](rules/traits/evocation.md)  [intelligent](rules/traits/intelligent-gmg.md)  [ln](rules/traits/lawful-neutral-b1.md)  [unique](rules/traits/unique.md)  
+[cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [intelligent](rules/traits/intelligent-gmg.md "Intelligent Item Trait")  [ln](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Usage** held in 2 hands; **Bulk** 1
 - **Category** Held

@@ -10,7 +10,7 @@ tags:
 aliases: ["Titan's Stature"]
 ---
 # Titan's Stature  *Feat 12*  
-[barbarian](rules/traits/barbarian.md)  [instinct](rules/traits/instinct.md)  [polymorph](rules/traits/polymorph.md)  [transmutation](rules/traits/transmutation.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [instinct](rules/traits/instinct.md "Instinct Action & Ability Trait")  [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Prerequisites**: Giant instinct, [Giant's Stature](compendium/feats/giants-stature.md)
 

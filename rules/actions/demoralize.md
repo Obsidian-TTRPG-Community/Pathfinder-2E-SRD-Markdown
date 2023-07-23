@@ -12,7 +12,7 @@ tags:
 aliases: ["Demoralize"]
 ---
 # Demoralize (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[auditory](rules/traits/auditory.md)  [concentrate](rules/traits/concentrate.md)  [emotion](rules/traits/emotion.md)  [fear](rules/traits/fear.md)  [mental](rules/traits/mental.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 *Source: Core Rulebook p. 247*  
 
 **Skill** [intimidation](compendium/skills.md#Intimidation) (untrained)

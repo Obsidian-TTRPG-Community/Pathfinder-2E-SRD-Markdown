@@ -8,7 +8,7 @@ tags:
 aliases: ["Scroll Robes"]
 ---
 # Scroll Robes *Item 0*  
-[inscribed](rules/traits/inscribed-tv.md)  
+[inscribed](rules/traits/inscribed-tv.md "Inscribed Armor Trait")  
 
 - **Price** 15 sp
 - **Bulk** L

@@ -9,7 +9,7 @@ tags:
 aliases: ["Fiery Retort"]
 ---
 # Fiery Retort  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
-[druid](rules/traits/druid.md)  [evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  
 
 - **Prerequisites**: flame order
 - **Frequency**: once per minute

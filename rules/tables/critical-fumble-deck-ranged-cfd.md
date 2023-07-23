@@ -38,7 +38,7 @@ aliases: ["Critical Fumble Deck: Ranged"]
 | 26 | **Klutz** You drop the weapon you used. |
 | 27 | **Spilled Ammo** The ammunition from the weapon you're using falls from its container onto the ground. You can spend 1 [Interact](rules/actions/interact.md) action to pick up one piece of ammunition spilled this way. |
 | 28 | **Lost Grip** You are [slowed](rules/conditions.md#Slowed) until the end of your next turn. |
-| 29 | **Wrong Weapon** If you made a [thrown](rules/traits/thrown.md) attack, you instead throw an object from your gear (determined randomly by the GM). |
+| 29 | **Wrong Weapon** If you made a [thrown](rules/traits/thrown.md "Thrown Weapon Trait") attack, you instead throw an object from your gear (determined randomly by the GM). |
 | 30 | **Kickback Like a Mule** You fall [prone](rules/conditions.md#Prone). |
 | 31 | **Archer's Elbow** Until healed, you take a -2 circumstance penalty to ranged attacks. |
 | 32 | **Double Miss** If this attack uses ammunition, you use twice the amount of ammunition on this attack. |
@@ -47,17 +47,17 @@ aliases: ["Critical Fumble Deck: Ranged"]
 | 35 | **Shot Your Foot** Until healed, you are [clumsy](rules/conditions.md#Clumsy) and take a -5-foot circumstance penalty to your land speed. |
 | 36 | **Lost the Target** You take a -2 circumstance penalty to attack rolls until the end of your next turn. |
 | 37 | **Weapon Problem** If the attack used a projectile weapon, something on the weapon malfunctions, requiring you to spend 2 [Interact](rules/actions/interact.md) actions to fix. |
-| 38 | **Lowered Guard** You provoke reactions as if you used a [move](rules/traits/move.md) action. |
+| 38 | **Lowered Guard** You provoke reactions as if you used a [move](rules/traits/move.md "Move Combat Trait") action. |
 | 39 | **In the Line of Fire** You critically hit your nearest ally. |
 | 40 | **Insecure** You take a -1 circumstance penalty to attacks rolls until you score a critical hit. |
 | 41 | **Close to the Ear** You are [deafened](rules/conditions.md#Deafened) until the end of your next turn. |
 | 42 | **Bad Alignment** You take a -2 circumstance penalty to attacks using this weapon until the end of your next turn. |
 | 43 | **Everything You Got** You are [fatigued](rules/conditions.md#Fatigued). |
 | 44 | **Broken** Your weapon's current Hit Points are reduced to its Broken Threshold. If already [broken](rules/conditions.md#Broken), the weapon takes `3d6` damage, ignoring Hardness. |
-| 45 | **What Are the Odds?** If this is a [thrown](rules/traits/thrown.md) weapon attack and the target can hold the weapon, the target snatches the weapon out of the air and wields it. |
+| 45 | **What Are the Odds?** If this is a [thrown](rules/traits/thrown.md "Thrown Weapon Trait") weapon attack and the target can hold the weapon, the target snatches the weapon out of the air and wields it. |
 | 46 | **Oopsie!** You hit yourself instead of the target. |
 | 47 | **Torn Tendon** Until healed, you are [clumsy](rules/conditions.md#Clumsy). |
-| 48 | **Overthrow** If the attack used a [thrown](rules/traits/thrown.md) weapon, the weapon travels three times its range increment in a random direction (determined by the GM). |
+| 48 | **Overthrow** If the attack used a [thrown](rules/traits/thrown.md "Thrown Weapon Trait") weapon, the weapon travels three times its range increment in a random direction (determined by the GM). |
 | 49 | **Tunnel Vision** For 3 rounds, you gain a +1 circumstance bonus to attack rolls, but you are [flat-footed](rules/conditions.md#Flat-footed). |
 | 50 | **All Thumbs** Until healed, you are [clumsy](rules/conditions.md#Clumsy). |
 | 51 | **Bull's Eye** Your attack ricochets and hits you near the eye. You are [blinded](rules/conditions.md#Blinded) until the end of your next turn. |

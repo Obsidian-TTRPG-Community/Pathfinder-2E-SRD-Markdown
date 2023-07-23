@@ -8,7 +8,7 @@ tags:
 aliases: ["Great Cleave"]
 ---
 # Great Cleave  *Feat 10*  
-[barbarian](rules/traits/barbarian.md)  [rage](rules/traits/rage.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [rage](rules/traits/rage.md "Rage Combat Trait")  
 
 - **Prerequisites**: [Cleave](compendium/feats/cleave.md)
 

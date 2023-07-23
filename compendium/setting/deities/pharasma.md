@@ -17,13 +17,13 @@ tags:
 - trait/thrown-40-feet
 aliases: ["Pharasma", "Lady of Graves"]
 ---
-# Pharasma (Lady of Graves) *([N](rules/traits/neutral-b1.md))*  
+# Pharasma (Lady of Graves) *([N](rules/traits/n-b1.md "Neutral Alignment Trait"))*  
 *Source: Core Rulebook p. 439*  
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: create undead, desecrate a corpse, rob a tomb
 - **Areas of Concern**: birth, , death, , fate, , prophecy, , and time
-- **Follower Alignments**: [NG](rules/traits/neutral-good-b1.md), [LN](rules/traits/lawful-neutral-b1.md), [N](rules/traits/neutral-b1.md)
+- **Follower Alignments**: [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait")
 
 ## Devotee benefits
 
@@ -39,7 +39,7 @@ aliases: ["Pharasma", "Lady of Graves"]
 title: [Avatar](compendium/spells/avatar.md) of Pharasma
 
 - **Speed**: Speed 70 feet, [air walk](compendium/spells/air-walk.md)
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") dagger ([agile](rules/traits/agile.md), [finesse](rules/traits/finesse.md), [reach <15 feet>](rules/traits/reach.md), [thrown <40 feet>](rules/traits/thrown.md)), **Damage** `6d6+6` slashing
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") dagger ([agile](rules/traits/agile.md "Agile Weapon Trait"), [finesse](rules/traits/finesse.md "Finesse Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [thrown <40 feet>](rules/traits/thrown-40-feet.md "Thrown Weapon Trait")), **Damage** `6d6+6` slashing
 - **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") spiral blast (damages only undead), **Damage** `6d8+3` positive
 ```
 

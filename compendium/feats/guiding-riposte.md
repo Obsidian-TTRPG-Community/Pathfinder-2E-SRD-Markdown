@@ -7,7 +7,7 @@ tags:
 aliases: ["Guiding Riposte"]
 ---
 # Guiding Riposte  *Feat 14*  
-[fighter](rules/traits/fighter.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 - **Prerequisites**: [Dueling Riposte](compendium/feats/dueling-riposte.md)
 

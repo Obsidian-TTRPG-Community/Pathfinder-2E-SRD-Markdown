@@ -11,7 +11,7 @@ tags:
 aliases: ["Anointed Waterskin"]
 ---
 # Anointed Waterskin *Item 9*  
-[divine](rules/traits/divine.md)  [evocation](rules/traits/evocation.md)  [good](rules/traits/good.md)  [water](rules/traits/water.md)  
+[divine](rules/traits/divine.md "Divine Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [good](rules/traits/good.md "Good Alignment Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
 - **Price** 600 gp
 - **Usage** held in 1 hand; **Bulk** L
@@ -30,7 +30,7 @@ title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "S
 
 - **Requirements**: The anointed waterskin is full
 
-**Effect** You drink the water within the waterskin, granting you the effects of bless. As normal with the spell, you can increase the radius with a single action with the [concentrate](rules/traits/concentrate.md) trait.
+**Effect** You drink the water within the waterskin, granting you the effects of bless. As normal with the spell, you can increase the radius with a single action with the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") trait.
 ```
 
 ```ad-embed-ability

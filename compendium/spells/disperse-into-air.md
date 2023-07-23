@@ -12,7 +12,7 @@ tags:
 aliases: ["Disperse Into Air"]
 ---
 # Disperse Into Air *Focus 4*   
-[air](rules/traits/air.md)  [cleric](rules/traits/cleric.md)  [polymorph](rules/traits/polymorph.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+[air](rules/traits/air.md "Air Energy & Element Trait")  [cleric](rules/traits/cleric.md "Cleric Class Trait")  [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Domains**: [air](compendium/setting/domains.md#Air)
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 

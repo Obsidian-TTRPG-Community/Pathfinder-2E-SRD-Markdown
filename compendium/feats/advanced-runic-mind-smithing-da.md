@@ -7,7 +7,7 @@ tags:
 aliases: ["Advanced Runic Mind-Smithing"]
 ---
 # Advanced Runic Mind-Smithing  *Feat 16*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Runic Mind Smithing](compendium/feats/runic-mind-smithing-da.md)
 

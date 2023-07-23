@@ -8,7 +8,7 @@ tags:
 aliases: ["Reclaim Spell"]
 ---
 # Reclaim Spell  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 20*  
-[uncommon](rules/traits/uncommon.md)  [wizard](rules/traits/wizard.md)  
+[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Prerequisites**: [Reprepare Spell](compendium/feats/reprepare-spell.md)
 - **Activity** Single Action

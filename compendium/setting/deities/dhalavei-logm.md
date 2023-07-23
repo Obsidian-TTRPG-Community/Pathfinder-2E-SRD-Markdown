@@ -10,12 +10,12 @@ tags:
 - domain/trickery/deity
 aliases: ["Dhalavei", "The Unsuspected Rot"]
 ---
-# Dhalavei (The Unsuspected Rot) *([LE](rules/traits/lawful-evil-b1.md))*  
+# Dhalavei (The Unsuspected Rot) *([LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 132*  
 
 - **Category**: Vudrani Gods
 - **Anathema**: betray a fellow servant of Dhalavei, harm those under Dhalavei's protection
-- **Follower Alignments**: [LE](rules/traits/lawful-evil-b1.md), [NE](rules/traits/neutral-evil-b1.md)
+- **Follower Alignments**: [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"), [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait")
 
 ## Devotee benefits
 

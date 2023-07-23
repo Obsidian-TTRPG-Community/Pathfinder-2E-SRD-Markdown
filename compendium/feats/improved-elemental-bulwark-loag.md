@@ -7,7 +7,7 @@ tags:
 aliases: ["Improved Elemental Bulwark"]
 ---
 # Improved Elemental Bulwark  *Feat 13*  
-[suli](rules/traits/suli-b2.md)  
+[suli](rules/traits/suli-b2.md "Suli Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Elemental Bulwark](compendium/feats/elemental-bulwark-loag.md)
 

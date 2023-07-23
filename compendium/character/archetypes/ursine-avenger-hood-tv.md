@@ -18,11 +18,11 @@ Over many generations, the magic of the hood was proven true, and more than that
 title: Ursine Avenger Form, Feat 2
 collapse: closed
 # Ursine Avenger Form  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 2*  
-[archetype](rules/traits/archetype.md)  [artifact](rules/traits/artifact-gmg.md)  [morph](rules/traits/morph.md)  [primal](rules/traits/primal.md)  [transmutation](rules/traits/transmutation.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [morph](rules/traits/morph.md "Morph Effect Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Activity** Single Action
 
-You draw the Ursine Avenger Hood over your head and its fur over your arms, assuming an ursine form that has traits of your original form as well as that of a bear. In your ursine form, you gain a jaws unarmed attack that deals `1d8` piercing damage and a claws unarmed attack that deals `1d6` slashing damage and has the [agile](rules/traits/agile.md) trait. Both unarmed attacks are in the brawling group. You lose the ability to speak complex sentences while transformed and can only communicate through grunts and gestures; this prevents you from using effects that require a shared or spoken language until you revert back to your non-hybrid form. You can use this action while transformed to remove the hood and return to your original form.
+You draw the Ursine Avenger Hood over your head and its fur over your arms, assuming an ursine form that has traits of your original form as well as that of a bear. In your ursine form, you gain a jaws unarmed attack that deals `1d8` piercing damage and a claws unarmed attack that deals `1d6` slashing damage and has the [agile](rules/traits/agile.md "Agile Weapon Trait") trait. Both unarmed attacks are in the brawling group. You lose the ability to speak complex sentences while transformed and can only communicate through grunts and gestures; this prevents you from using effects that require a shared or spoken language until you revert back to your non-hybrid form. You can use this action while transformed to remove the hood and return to your original form.
 
 *Source: Treasure Vault p. 183*  
 %% #trait/archetype #trait/artifact #trait/morph #trait/primal #trait/transmutation %%
@@ -32,7 +32,7 @@ You draw the Ursine Avenger Hood over your head and its fur over your arms, assu
 title: Senses of the Bear, Feat 4
 collapse: closed
 # Senses of the Bear  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 
 While in ursine form, you gain low-light vision and scent (imprecise) 30 feet. If you already had low-light vision, you instead gain darkvision.
@@ -45,7 +45,7 @@ While in ursine form, you gain low-light vision and scent (imprecise) 30 feet. I
 title: Bear Hug, Feat 6
 collapse: closed
 # Bear Hug  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Requirements**: Your last action was a successful claw [Strike](rules/actions/strike.md).
 - **Activity** Single Action
@@ -60,7 +60,7 @@ You snatch at your opponent with your claws, pulling them close in a ferocious b
 title: Call Ursine Ally, Feat 8
 collapse: closed
 # Call Ursine Ally  *Feat 8*  
-[archetype](rules/traits/archetype.md)  [conjuration](rules/traits/conjuration.md)  [primal](rules/traits/primal.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  
 
 - **Frequency**: once per hour
 
@@ -74,7 +74,7 @@ You can cast a 3rd-level [summon animal](compendium/spells/summon-animal.md) as 
 title: Bear Empathy, Feat 10
 collapse: closed
 # Bear Empathy  *Feat 10*  
-[archetype](rules/traits/archetype.md)  [divination](rules/traits/divination.md)  [primal](rules/traits/primal.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  
 
 
 You have a magical affinity for bears and can speak to them through sounds and body language. You can communicate with all bears, as well as other ursine creatures at the GM's discretion.
@@ -87,7 +87,7 @@ You have a magical affinity for bears and can speak to them through sounds and b
 title: Great Bear, Feat 12*
 collapse: closed
 # Great Bear  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Great Bear](compendium/feats/great-bear-tv.md) is intended for use with the Ursine Avenger Hood Archetype. Its level has been changed accordingly.
 
@@ -104,7 +104,7 @@ When you transform, you can take on a bear's bulk and size. You can spend an add
 title: Terrible Transformation, Feat 14*
 collapse: closed
 # Terrible Transformation  *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Terrible Transformation](compendium/feats/terrible-transformation-tv.md) is intended for use with the Ursine Avenger Hood Archetype. Its level has been changed accordingly.
 
@@ -120,7 +120,7 @@ You let out a mighty roar as part of your transformation. When you use Ursine Av
 title: Fearsome Fangs, Feat 16*
 collapse: closed
 # Fearsome Fangs  *Feat 16*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Fearsome Fangs](compendium/feats/fearsome-fangs-tv.md) is intended for use with the Ursine Avenger Hood Archetype. Its level has been changed accordingly.
 
@@ -136,7 +136,7 @@ Your claws and jaws are brutally powerful and efficient, even by ursine standard
 title: Mighty Bear, Feat 18*
 collapse: closed
 # Mighty Bear  *Feat 18*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Mighty Bear](compendium/feats/mighty-bear-tv.md) is intended for use with the Ursine Avenger Hood Archetype. Its level has been changed accordingly.
 
@@ -152,7 +152,7 @@ The power of the bear within you can expand your physical presence even further.
 title: Immortal Bear, Feat 20*
 collapse: closed
 # Immortal Bear  *Feat 20*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Immortal Bear](compendium/feats/immortal-bear-tv.md) is intended for use with the Ursine Avenger Hood Archetype. Its level has been changed accordingly.
 

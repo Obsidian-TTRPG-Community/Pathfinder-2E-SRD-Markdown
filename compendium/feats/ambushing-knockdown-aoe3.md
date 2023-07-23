@@ -8,7 +8,7 @@ tags:
 aliases: ["Ambushing Knockdown"]
 ---
 # Ambushing Knockdown  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
-[rogue](rules/traits/rogue.md)  [uncommon](rules/traits/uncommon.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: Side with the Washboard Dogs in the gang conflict.
 - **Prerequisites**: ruffian racket

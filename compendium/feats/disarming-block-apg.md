@@ -7,7 +7,7 @@ tags:
 aliases: ["Disarming Block"]
 ---
 # Disarming Block  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Bastion Dedication](compendium/feats/bastion-dedication-apg.md), trained in [Athletics](compendium/skills.md#Athletics)
 - **Trigger** You [Shield Block](compendium/feats/shield-block.md) a melee [Strike](rules/actions/strike.md) made with a held weapon.

@@ -11,7 +11,7 @@ tags:
 aliases: ["Ghost Delivery Fulu"]
 ---
 # Ghost Delivery Fulu *Item 8*  
-[consumable](rules/traits/consumable.md)  [divination](rules/traits/divination.md)  [fulu](rules/traits/fulu-som.md)  [magical](rules/traits/magical.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [fulu](rules/traits/fulu-som.md "Fulu Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 100 gp
 - **Usage** affixed to structure, object, or creature; **Bulk** —

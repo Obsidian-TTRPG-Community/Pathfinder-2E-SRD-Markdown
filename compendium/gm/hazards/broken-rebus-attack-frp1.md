@@ -10,7 +10,7 @@ tags:
 aliases: ["Broken Rebus Attack"]
 ---
 # Broken Rebus Attack *Hazard 12*  
-[complex](rules/traits/complex.md)  [haunt](rules/traits/haunt.md)  [magical](rules/traits/magical.md)  [unique](rules/traits/unique.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Complexity** Complex
 - **Stealth** +20 trained  

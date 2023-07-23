@@ -11,12 +11,12 @@ tags:
 aliases: ["Brilliant Rapier"]
 ---
 # Brilliant Rapier *Item 14*  
-[evocation](rules/traits/evocation.md)  [light](rules/traits/light.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [light](rules/traits/light.md "Light Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 4500 gp
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Held
 
-This rapier is formed entirely out of radiant energy, even more so than a usual brilliant weapon, and has left its physical form behind entirely. Instead of dealing piercing damage, it deals fire damage, and in addition to a rapier's normal weapon traits, it gains the versatile [good](rules/traits/good.md) or [positive](rules/traits/positive.md) trait.
+This rapier is formed entirely out of radiant energy, even more so than a usual brilliant weapon, and has left its physical form behind entirely. Instead of dealing piercing damage, it deals fire damage, and in addition to a rapier's normal weapon traits, it gains the versatile [good](rules/traits/good.md "Good Alignment Trait") or [positive](rules/traits/positive.md "Positive Energy & Element Trait") trait.
 
 *Source: Lost Omens: The Grand Bazaar p. 10*

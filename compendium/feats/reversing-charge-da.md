@@ -7,7 +7,7 @@ tags:
 aliases: ["Reversing Charge"]
 ---
 # Reversing Charge  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Chronoskimmer Dedication](compendium/feats/chronoskimmer-dedication-da.md)
 - **Activity** Two-Action

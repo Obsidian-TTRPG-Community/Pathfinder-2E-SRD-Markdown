@@ -7,7 +7,7 @@ tags:
 aliases: ["Attack Of Opportunity (Barbarian)"]
 ---
 # Attack Of Opportunity (Barbarian)  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
-[barbarian](rules/traits/barbarian.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  
 
 - **Trigger** A creature within your reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.
 - **Activity** Reaction

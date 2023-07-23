@@ -10,7 +10,7 @@ tags:
 aliases: ["Bastion Plate"]
 ---
 # Bastion Plate *Item 2*  
-[bulwark](rules/traits/bulwark.md)  [entrench <melee>](rules/traits/entrench-tv.md)  [hindering](rules/traits/hindering-tv.md)  
+[bulwark](rules/traits/bulwark.md "Bulwark Armor Trait")  [entrench <melee>](rules/traits/entrench-melee-tv.md "Entrench Armor Trait")  [hindering](rules/traits/hindering-tv.md "Hindering Armor Trait")  
 
 - **Price** 33 gp
 - **Bulk** 5

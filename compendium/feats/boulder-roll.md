@@ -7,7 +7,7 @@ tags:
 aliases: ["Boulder Roll"]
 ---
 # Boulder Roll  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 5*  
-[dwarf](rules/traits/dwarf.md)  
+[dwarf](rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Rock Runner](compendium/feats/rock-runner.md)
 - **Activity** Two-Action

@@ -13,7 +13,7 @@ tags:
 aliases: ["Faerie Queen's Bower"]
 ---
 # Faerie Queen's Bower *Item 13*  
-[divine](rules/traits/divine.md)  [good](rules/traits/good.md)  [intelligent](rules/traits/intelligent-gmg.md)  [invested](rules/traits/invested.md)  [rare](rules/traits/rare.md)  [transmutation](rules/traits/transmutation.md)  
+[divine](rules/traits/divine.md "Divine Tradition Trait")  [good](rules/traits/good.md "Good Alignment Trait")  [intelligent](rules/traits/intelligent-gmg.md "Intelligent Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Usage** worn armor; **Bulk** 1
 - **Category** Armor

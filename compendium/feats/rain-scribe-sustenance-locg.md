@@ -7,7 +7,7 @@ tags:
 aliases: ["Rain-scribe Sustenance"]
 ---
 # Rain-scribe Sustenance  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Magaambyan Attendant Dedication](compendium/feats/magaambyan-attendant-dedication-locg.md), Rain-Scribes affiliation
 

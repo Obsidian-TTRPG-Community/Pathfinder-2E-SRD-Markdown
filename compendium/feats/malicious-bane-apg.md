@@ -7,7 +7,7 @@ tags:
 aliases: ["Malicious Bane"]
 ---
 # Malicious Bane  *Feat 5*  
-[tiefling](rules/traits/tiefling-b1.md)  
+[tiefling](rules/traits/tiefling-b1.md "Tiefling Ancestry & Heritage Trait")  
 
 
 Whether your heart is pure or corrupt, you can call forth a malediction upon your foes. You can cast [bane](compendium/spells/bane.md) once per day as a 1st-level divine innate spell.

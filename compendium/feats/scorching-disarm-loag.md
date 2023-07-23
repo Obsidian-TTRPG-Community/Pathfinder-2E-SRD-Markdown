@@ -8,7 +8,7 @@ tags:
 aliases: ["Scorching Disarm"]
 ---
 # Scorching Disarm  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 9*  
-[fire](rules/traits/fire.md)  [ifrit](rules/traits/ifrit-b2.md)  
+[fire](rules/traits/fire.md "Fire Energy & Element Trait")  [ifrit](rules/traits/ifrit-b2.md "Ifrit Ancestry & Heritage Trait")  
 
 - **Frequency**: once per day
 - **Activity** Single Action

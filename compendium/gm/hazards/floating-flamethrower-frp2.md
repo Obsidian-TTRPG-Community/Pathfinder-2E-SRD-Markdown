@@ -11,7 +11,7 @@ tags:
 aliases: ["Floating Flamethrower"]
 ---
 # Floating Flamethrower *Hazard 16*  
-[complex](rules/traits/complex.md)  [fire](rules/traits/fire.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  [trap](rules/traits/trap.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +23 expert or DC 38 (master) to notice the pattern of the orb's trajectory  
@@ -22,13 +22,13 @@ A floating skull of fire swoops around the arena, rotating as it weaves through 
 
 - **AC** 42 , **Fort** +30, **Ref** +33
 - **Hardness** 25, **HP** 100 (BT 50)
-- **Immunities** [fire](rules/traits/fire.md)
+- **Immunities** [fire](rules/traits/fire.md "Fire Energy & Element Trait")
 - **Resistances** 
 - **Weaknesses** cold 15
      
 ```ad-embed-ability
 title: Blaze [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  
 
 - **Trigger**: Hao Jin signals the start of the bout
 

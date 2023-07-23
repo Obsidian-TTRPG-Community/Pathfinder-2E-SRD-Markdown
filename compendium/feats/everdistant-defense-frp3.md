@@ -10,7 +10,7 @@ tags:
 aliases: ["Everdistant Defense"]
 ---
 # Everdistant Defense  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 20*  
-[abjuration](rules/traits/abjuration.md)  [champion](rules/traits/champion.md)  [divine](rules/traits/divine.md)  [uncommon](rules/traits/uncommon.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [champion](rules/traits/champion.md "Champion Class Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Trigger** A creature within your aura is targeted by a ranged attack or a creature moves through your aura.
 - **Requirements**: You have at least one aura from a champion feat or feature.

@@ -11,7 +11,7 @@ tags:
 aliases: ["Unmemorable Mantle"]
 ---
 # Unmemorable Mantle *Item 7+*  
-[illusion](rules/traits/illusion.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  worn  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  worn  
 
 - **Usage** worn cloak; **Bulk** 1
 - **Category** Worn

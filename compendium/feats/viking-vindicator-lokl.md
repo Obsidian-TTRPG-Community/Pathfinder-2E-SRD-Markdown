@@ -8,7 +8,7 @@ tags:
 aliases: ["Viking Vindicator"]
 ---
 # Viking Vindicator  *Feat 8*  
-[archetype](rules/traits/archetype.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Viking Dedication](compendium/feats/viking-dedication-apg.md)
 

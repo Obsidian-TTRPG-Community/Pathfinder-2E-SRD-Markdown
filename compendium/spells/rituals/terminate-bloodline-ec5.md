@@ -9,7 +9,7 @@ tags:
 aliases: ["Terminate Bloodline"]
 ---
 # Terminate Bloodline *Ritual 6*  
-[necromancy](rules/traits/necromancy.md)  [uncommon](rules/traits/uncommon.md)  
+[necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** 1 day
 - **Cost** a bodily sample from the target, and valuables belonging to the target worth a total value of 100 gp × the spell level × the target's level
@@ -30,7 +30,7 @@ title: Dying Bloodline, _Disease 1_
 collapse: closed
 # Dying Bloodline
 *Disease 1*  
-[curse](rules/traits/curse.md)  [disease](rules/traits/disease.md)  
+[curse](rules/traits/curse.md "Curse Effect Trait")  [disease](rules/traits/disease.md "Disease Effect Trait")  
 
 Failing or critically failing this disease's Fortitude save causes the disease to progress to the next stage as normal; however, succeeding or critically succeeding at the save has no effect. The disease can be removed only by first successfully counteracting the curse and then counteracting the disease.
 

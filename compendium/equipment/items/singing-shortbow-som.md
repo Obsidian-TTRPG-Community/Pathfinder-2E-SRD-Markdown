@@ -9,7 +9,7 @@ tags:
 aliases: ["Singing Shortbow"]
 ---
 # Singing Shortbow *Item 14+*  
-[enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Held
@@ -18,13 +18,13 @@ Rather than a normal bowstring, this +2 greater striking [thundering](compendium
 
 ```ad-embed-ability
 title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
-[abjuration](rules/traits/abjuration.md)  [auditory](rules/traits/auditory.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [auditory](rules/traits/auditory.md "Auditory Effect Trait")  
 
-You sing, hum, or whistle a note, and your bow provides appropriate accompaniment. Make a [Strike](rules/actions/strike.md) with the bow. If it hits, the bow generates a [magical](rules/traits/magical.md) effect determined by the note you sung, which has the traits indicated in parentheses. This affects every creature in a 10-foot emanation from the creature you hit. As normal for an emanation, you choose whether the creature you hit is affected.
+You sing, hum, or whistle a note, and your bow provides appropriate accompaniment. Make a [Strike](rules/actions/strike.md) with the bow. If it hits, the bow generates a [magical](rules/traits/magical.md "Magical Item Trait") effect determined by the note you sung, which has the traits indicated in parentheses. This affects every creature in a 10-foot emanation from the creature you hit. As normal for an emanation, you choose whether the creature you hit is affected.
 
-- **Song of Soothing** ([emotion](rules/traits/emotion.md), [enchantment](rules/traits/enchantment.md), [healing](rules/traits/healing.md), [mental](rules/traits/mental.md)) Each creature regains `3d10` Hit Points and gains a +1 status bonus to saves against [mental](rules/traits/mental.md) effects for 1 minute.
-- **Song of Suffering** ([evocation](rules/traits/evocation.md), [sonic](rules/traits/sonic.md)) Each creature takes `3d10` sonic damage with a DC 31 basic Fortitude save.  
-%% #trait/auditory #trait/abjuration %%
+- **Song of Soothing** ([emotion](rules/traits/emotion.md "Emotion Effect Trait"), [enchantment](rules/traits/enchantment.md "Enchantment School Trait"), [healing](rules/traits/healing.md "Healing Effect Trait"), [mental](rules/traits/mental.md "Mental Effect Trait")) Each creature regains `3d10` Hit Points and gains a +1 status bonus to saves against [mental](rules/traits/mental.md "Mental Effect Trait") effects for 1 minute.
+- **Song of Suffering** ([evocation](rules/traits/evocation.md "Evocation School Trait"), [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")) Each creature takes `3d10` sonic damage with a DC 31 basic Fortitude save.  
+%% #trait/abjuration #trait/auditory %%
 ```
 
 *Source: Secrets of Magic p. 189*

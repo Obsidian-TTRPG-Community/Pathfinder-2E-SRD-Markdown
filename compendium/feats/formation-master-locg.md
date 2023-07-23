@@ -7,7 +7,7 @@ tags:
 aliases: ["Formation Master"]
 ---
 # Formation Master  *Feat 13*  
-[hobgoblin](rules/traits/hobgoblin-locg.md)  
+[hobgoblin](rules/traits/hobgoblin-locg.md "Hobgoblin Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Formation Training](compendium/feats/formation-training-locg.md)
 

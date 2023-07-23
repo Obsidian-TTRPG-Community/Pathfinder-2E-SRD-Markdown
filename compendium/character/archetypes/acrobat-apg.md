@@ -15,7 +15,7 @@ You have trained your body to perform incredible, seemingly superhuman feats of 
 title: Acrobat Dedication, Feat 2
 collapse: closed
 # Acrobat Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: trained in [Acrobatics](compendium/skills.md#Acrobatics)
 
@@ -31,7 +31,7 @@ You become an expert in [Acrobatics](compendium/skills.md#Acrobatics). At 7th le
 title: Contortionist, Feat 4
 collapse: closed
 # Contortionist  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Acrobat Dedication](compendium/feats/acrobat-dedication-apg.md)
 
@@ -47,7 +47,7 @@ You gain the [Quick Squeeze](compendium/feats/quick-squeeze.md) skill feat, and 
 title: Dodge Away, Feat 6
 collapse: closed
 # Dodge Away  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Acrobat Dedication](compendium/feats/acrobat-dedication-apg.md)
 - **Trigger** You are the target of a melee attack.
@@ -66,7 +66,7 @@ If the attack misses you, you can [Step](rules/actions/step.md) after the [Strik
 title: Graceful Leaper, Feat 7
 collapse: closed
 # Graceful Leaper  *Feat 7*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Acrobat Dedication](compendium/feats/acrobat-dedication-apg.md), master in [Acrobatics](compendium/skills.md#Acrobatics)
 
@@ -80,7 +80,7 @@ Mass and muscle are meaningless when you leap; only grace and balance matter. Yo
 title: Tumbling Strike, Feat 8
 collapse: closed
 # Tumbling Strike  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  [flourish](rules/traits/flourish.md)  [move](rules/traits/move.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  [move](rules/traits/move.md "Move Combat Trait")  
 
 - **Prerequisites**: [Acrobat Dedication](compendium/feats/acrobat-dedication-apg.md)
 - **Requirements**: You are adjacent to an enemy.
@@ -102,7 +102,7 @@ Attempt an [Acrobatics](compendium/skills.md#Acrobatics) check against the Refle
 title: Tumbling Opportunist, Feat 10
 collapse: closed
 # Tumbling Opportunist  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 10*  
-[archetype](rules/traits/archetype.md)  [attack](rules/traits/attack.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [attack](rules/traits/attack.md "Attack Combat Trait")  
 
 - **Prerequisites**: [Acrobat Dedication](compendium/feats/acrobat-dedication-apg.md)
 - **Frequency**: once per minute

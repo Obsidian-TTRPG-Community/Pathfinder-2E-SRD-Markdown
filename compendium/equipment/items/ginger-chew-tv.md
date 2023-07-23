@@ -10,7 +10,7 @@ tags:
 aliases: ["Ginger Chew"]
 ---
 # Ginger Chew *Item 5*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [lozenge](rules/traits/lozenge-tv.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [lozenge](rules/traits/lozenge-tv.md "Lozenge Item Trait")  
 
 - **Price** 28 gp
 - **Usage** held in 1 hand; **Bulk** —

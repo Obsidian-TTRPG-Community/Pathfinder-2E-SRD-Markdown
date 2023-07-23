@@ -8,7 +8,7 @@ tags:
 aliases: ["Spell Gem"]
 ---
 # Spell Gem  *Feat 16*  
-[archetype](rules/traits/archetype.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: Lich Dedication, legendary in [Crafting](compendium/skills.md#Crafting)
 

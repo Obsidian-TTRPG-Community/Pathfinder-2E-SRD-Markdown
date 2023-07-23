@@ -8,7 +8,7 @@ tags:
 aliases: ["Battle Assessment"]
 ---
 # Battle Assessment  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[rogue](rules/traits/rogue.md)  [secret](rules/traits/secret.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  [secret](rules/traits/secret.md "Secret General Trait")  
 
 - **Activity** Single Action
 

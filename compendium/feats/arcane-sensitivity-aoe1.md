@@ -7,11 +7,11 @@ tags:
 aliases: ["Arcane Sensitivity"]
 ---
 # Arcane Sensitivity  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Edgewatch Detective Dedication](compendium/feats/edgewatch-detective-dedication-aoe1.md)
 
-You can sense the presence of the supernatural, even if you don't have any magical ability yourself. You can spend a single action (this action has the [concentrate](rules/traits/concentrate.md) trait) to determine if any magical auras are present in the area.
+You can sense the presence of the supernatural, even if you don't have any magical ability yourself. You can spend a single action (this action has the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") trait) to determine if any magical auras are present in the area.
 
 This has the effects of a 1st-level [detect magic](compendium/spells/detect-magic.md) spell but isn't magical. By straining, you can also discover the source of the magic and its school (with the effect of a 4th-level [detect magic](compendium/spells/detect-magic.md) spell), but doing so prevents you from using this ability again until you've rested for 8 hours.
 

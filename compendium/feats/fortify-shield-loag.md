@@ -7,7 +7,7 @@ tags:
 aliases: ["Fortify Shield"]
 ---
 # Fortify Shield  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 5*  
-[oread](rules/traits/oread-b2.md)  
+[oread](rules/traits/oread-b2.md "Oread Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Shield Block](compendium/feats/shield-block.md)
 - **Frequency**: once per day

@@ -7,7 +7,7 @@ tags:
 aliases: ["Ankle Bite"]
 ---
 # Ankle Bite  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 5*  
-[goblin](rules/traits/goblin.md)  
+[goblin](rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Fang Sharpener](compendium/feats/fang-sharpener-locg.md) or razortooth goblin heritage
 - **Trigger** A foe gives you the [grabbed](rules/conditions.md#Grabbed) or [restrained](rules/conditions.md#Restrained) condition using a part of its body.

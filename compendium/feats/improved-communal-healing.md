@@ -7,7 +7,7 @@ tags:
 aliases: ["Improved Communal Healing"]
 ---
 # Improved Communal Healing  *Feat 4*  
-[cleric](rules/traits/cleric.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  
 
 - **Prerequisites**: [Communal Healing](compendium/feats/communal-healing.md)
 

@@ -11,9 +11,9 @@ tags:
 aliases: ["Abyssal Plague"]
 ---
 # Abyssal Plague *Spell 5*   
-[chaotic](rules/traits/chaotic.md)  [disease](rules/traits/disease.md)  [evil](rules/traits/evil.md)  [necromancy](rules/traits/necromancy.md)  
+[chaotic](rules/traits/chaotic.md "Chaotic Alignment Trait")  [disease](rules/traits/disease.md "Disease Effect Trait")  [evil](rules/traits/evil.md "Evil Alignment Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md), [occult](rules/traits/occult.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**touch
 - **Targets**1 creature
@@ -32,7 +32,7 @@ The effect is based on the target's Fortitude save.
 ```ad-inline-affliction
 title: Abyssal Plague _Level 9_
 
-[disease](rules/traits/disease.md)  
+[disease](rules/traits/disease.md "Disease Effect Trait")  
 The target can't recover from the [drained](rules/conditions.md#Drained) condition from Abyssal plague until the disease is cured.
 
 
@@ -43,7 +43,7 @@ The target can't recover from the [drained](rules/conditions.md#Drained) conditi
 **Stage 2** [drained](rules/conditions.md#Drained) increases by 2 (1 day)
 
 
-%% #trait/disease #affliction/level/level-9 %%
+%% #affliction/level/level-9 #trait/disease %%
 ```
 
 ## Summary

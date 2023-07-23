@@ -8,9 +8,9 @@ tags:
 aliases: ["Malleable Form"]
 ---
 # Malleable Form  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 13*  
-[reflection](rules/traits/reflection-da.md)  [transmutation](rules/traits/transmutation.md)  
+[reflection](rules/traits/reflection-da.md "Reflection Ancestry & Heritage Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Prerequisites**: ability to cast at least one [polymorph](rules/traits/polymorph.md) spell
+- **Prerequisites**: ability to cast at least one [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait") spell
 - **Requirements**: You're polymorphed by a spell that has multiple choices of battle form.
 - **Activity** Single Action
 

@@ -15,7 +15,7 @@ Hellknights are among the fiercest warriors in the Inner Sea region, as they hav
 title: Hellknight Dedication, Feat 6
 collapse: closed
 # Hellknight Dedication  *Feat 6*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Hellknight Armiger Dedication](compendium/feats/hellknight-armiger-dedication-lowg.md), lawful alignment, member of a Hellknight order, passed the Hellknight Test
 
@@ -24,14 +24,14 @@ You have forged your body to comply with the commands of your mind—orders stee
 **Special.** You cannot select another dedication feat until you have gained two other feats from the Hellknight or Hellknight armiger archetypes.
 
 *Source: Lost Omens: Character Guide p. 84*  
-%% #trait/uncommon #trait/archetype #trait/dedication %%
+%% #trait/archetype #trait/dedication #trait/uncommon %%
 ```  
 
 ```ad-embed-feat
 title: Sense Chaos, Feat 8
 collapse: closed
 # Sense Chaos  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Hellknight Dedication](compendium/feats/hellknight-dedication-locg.md)
 
@@ -45,7 +45,7 @@ You sense chaos as an unsettling feeling of nervous energy. When in the presence
 title: Advanced Order Training, Feat 12*
 collapse: closed
 # Advanced Order Training  *Feat 12*  
-[archetype](rules/traits/archetype.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 > [!pf2-note] This version of [Advanced Order Training](compendium/feats/advanced-order-training-locg.md) is intended for use with the Hellknight Archetype. Its level has been changed accordingly.
 
@@ -54,14 +54,14 @@ collapse: closed
 You gain the greater order benefit for the Hellknight order to which you belong.
 
 *Source: Lost Omens: Character Guide p. 81*  
-%% #trait/uncommon #trait/archetype %%
+%% #trait/archetype #trait/uncommon %%
 ```  
 
 ```ad-embed-feat
 title: Blade Of Law, Feat 12*
 collapse: closed
 # Blade Of Law  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Blade Of Law](compendium/feats/blade-of-law-locg.md) is intended for use with the Hellknight Archetype. Its level has been changed accordingly.
 
@@ -78,7 +78,7 @@ You call upon the power of law and make a weapon or unarmed [Strike](rules/actio
 title: Hell's Armaments, Feat 12*
 collapse: closed
 # Hell's Armaments  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Hell's Armaments](compendium/feats/hells-armaments-locg.md) is intended for use with the Hellknight Archetype. Its level has been changed accordingly.
 
@@ -96,7 +96,7 @@ Hellknight Signifer Signifers are the powerful and enigmatic Hellknight spellcas
 title: Hellknight Order Cross-training, Feat 12*
 collapse: closed
 # Hellknight Order Cross-training  *Feat 12*  
-[archetype](rules/traits/archetype.md)  [hellknight](rules/traits/hellknight-locg.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [hellknight](rules/traits/hellknight-locg.md "Hellknight  Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 > [!pf2-note] This version of [Hellknight Order Cross-training](compendium/feats/hellknight-order-cross-training-locg.md) is intended for use with the Hellknight Archetype. Its level has been changed accordingly.
 
@@ -107,5 +107,5 @@ You gain the lesser order benefit of a Hellknight order other than the one to wh
 **Special.** You can select this feat multiple times, gaining the lesser order benefit from a different order each time by training with members of that order.
 
 *Source: Lost Omens: Character Guide p. 81*  
-%% #trait/uncommon #trait/archetype #trait/hellknight %%
+%% #trait/archetype #trait/hellknight #trait/uncommon %%
 ```

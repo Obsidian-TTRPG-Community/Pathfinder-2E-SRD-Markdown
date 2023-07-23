@@ -10,7 +10,7 @@ tags:
 aliases: ["Urumi"]
 ---
 # Urumi *Item 0*  
-[deadly <d10>](rules/traits/deadly.md)  [sweep](rules/traits/sweep.md)  [uncommon](rules/traits/uncommon.md)  
+[deadly <d10>](rules/traits/deadly-d10.md "Deadly Weapon Trait")  [sweep](rules/traits/sweep.md "Sweep Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 2 gp
 - **Bulk** 2

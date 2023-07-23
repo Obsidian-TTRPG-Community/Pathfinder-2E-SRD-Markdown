@@ -8,7 +8,7 @@ tags:
 aliases: ["Just One More Thing"]
 ---
 # Just One More Thing  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
-[fortune](rules/traits/fortune.md)  [investigator](rules/traits/investigator-apg.md)  
+[fortune](rules/traits/fortune.md "Fortune Effect Trait")  [investigator](rules/traits/investigator-apg.md "Investigator Class Trait")  
 
 - **Requirements**: Your most recent action was to [Feint](rules/actions/feint.md), [Request](rules/actions/request.md), or [Demoralize](rules/actions/demoralize.md), and you failed but didn't critically fail.
 - **Activity** Single Action

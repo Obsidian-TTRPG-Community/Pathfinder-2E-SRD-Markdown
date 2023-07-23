@@ -7,7 +7,7 @@ tags:
 aliases: ["Tongue Tether"]
 ---
 # Tongue Tether  *Feat 9*  
-[grippli](rules/traits/grippli-b2.md)  
+[grippli](rules/traits/grippli-b2.md "Grippli Ancestry & Heritage Trait")  
 
 - **Prerequisites**: snaptongue grippli
 

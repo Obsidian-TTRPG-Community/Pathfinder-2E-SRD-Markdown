@@ -9,7 +9,7 @@ tags:
 aliases: ["Imprisonment"]
 ---
 # Imprisonment *Ritual 8*  
-[evocation](rules/traits/evocation.md)  [uncommon](rules/traits/uncommon.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** 1 day
 - **Cost** reagents to construct the magical prison worth a total value of 800 gp × the target's level

@@ -7,7 +7,7 @@ tags:
 aliases: ["Pack Stalker"]
 ---
 # Pack Stalker  *Feat 5*  
-[gnoll](rules/traits/gnoll-b1.md)  
+[gnoll](rules/traits/gnoll-b1.md "Gnoll Ancestry & Heritage Trait")  
 
 - **Prerequisites**: expert in [Stealth](compendium/skills.md#Stealth), [Pack Hunter](compendium/feats/pack-hunter-lome.md)
 

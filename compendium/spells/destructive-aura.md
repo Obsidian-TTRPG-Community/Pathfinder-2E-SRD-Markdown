@@ -12,7 +12,7 @@ tags:
 aliases: ["Destructive Aura"]
 ---
 # Destructive Aura *Focus 4*   
-[aura](rules/traits/aura.md)  [cleric](rules/traits/cleric.md)  [evocation](rules/traits/evocation.md)  [uncommon](rules/traits/uncommon.md)  
+[aura](rules/traits/aura.md "Aura Combat Trait")  [cleric](rules/traits/cleric.md "Cleric Class Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Domains**: [destruction](compendium/setting/domains.md#Destruction)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

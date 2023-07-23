@@ -9,7 +9,7 @@ tags:
 aliases: ["Advancing"]
 ---
 # Advancing *Item 9+*  
-[magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 - **Usage** etched onto heavy armor
 - **Category** Rune

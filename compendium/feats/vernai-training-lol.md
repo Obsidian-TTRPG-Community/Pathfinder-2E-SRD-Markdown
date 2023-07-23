@@ -8,7 +8,7 @@ tags:
 aliases: ["Vernai Training"]
 ---
 # Vernai Training  *Feat 12*  
-[archetype](rules/traits/archetype.md)  [rare](rules/traits/rare.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Prerequisites**: [Achaekek's Grip](compendium/feats/achaekeks-grip-lol.md), [Advanced Red Mantis Magic](compendium/feats/advanced-red-mantis-magic-lowg.md)
 

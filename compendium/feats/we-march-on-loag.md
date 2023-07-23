@@ -7,7 +7,7 @@ tags:
 aliases: ["We March On"]
 ---
 # We March On  *Feat 13*  
-[hobgoblin](rules/traits/hobgoblin-locg.md)  
+[hobgoblin](rules/traits/hobgoblin-locg.md "Hobgoblin Ancestry & Heritage Trait")  
 
 
 You make sure that your allies push themselves while traveling.

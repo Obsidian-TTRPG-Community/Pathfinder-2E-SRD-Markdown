@@ -7,7 +7,7 @@ tags:
 aliases: ["Peri Magic"]
 ---
 # Peri Magic  *Feat 9*  
-[aasimar](rules/traits/aasimar-apg.md)  
+[aasimar](rules/traits/aasimar-apg.md "Aasimar Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Emberkin](compendium/feats/emberkin-loag.md)
 

@@ -9,7 +9,7 @@ tags:
 aliases: ["Caustic Dart Trap"]
 ---
 # Caustic Dart Trap *Hazard 11*  
-[complex](rules/traits/complex.md)  [mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +20 expert or DC 30 (expert) to notice the three launching mechanisms built into the wall.  
@@ -28,7 +28,7 @@ All three launching mechanisms must be disabled or destroyed to deactivate the t
      
 ```ad-embed-ability
 title: Dart Barrage [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[attack](rules/traits/attack.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  
 
 - **Trigger**: A creature reaches the midpoint of the hall
 

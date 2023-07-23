@@ -7,7 +7,7 @@ tags:
 aliases: ["Saving Slash"]
 ---
 # Saving Slash  [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies") *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Aldori Duelist Dedication](compendium/feats/aldori-duelist-dedication-lowg.md)
 - **Trigger** An opponent critically hits you with a melee attack.

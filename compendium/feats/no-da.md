@@ -7,7 +7,7 @@ tags:
 aliases: ["No!!!"]
 ---
 # No!!!  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 12*  
-[psychic](rules/traits/psychic-da.md)  
+[psychic](rules/traits/psychic-da.md "Psychic Class Trait")  
 
 - **Trigger** A non-minion ally within 60 feet is reduced to 0 Hit Points.
 - **Activity** Reaction

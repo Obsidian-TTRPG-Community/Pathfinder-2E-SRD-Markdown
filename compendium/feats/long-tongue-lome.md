@@ -7,7 +7,7 @@ tags:
 aliases: ["Long Tongue"]
 ---
 # Long Tongue  *Feat 5*  
-[grippli](rules/traits/grippli-b2.md)  
+[grippli](rules/traits/grippli-b2.md "Grippli Ancestry & Heritage Trait")  
 
 - **Prerequisites**: snaptongue grippli
 

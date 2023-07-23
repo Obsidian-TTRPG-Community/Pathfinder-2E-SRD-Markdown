@@ -13,7 +13,7 @@ tags:
 aliases: ["Radiant Lance"]
 ---
 # Radiant Lance *Item 15*  
-[divine](rules/traits/divine.md)  [evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  [good](rules/traits/good.md)  [light](rules/traits/light.md)  [uncommon](rules/traits/uncommon.md)  
+[divine](rules/traits/divine.md "Divine Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [good](rules/traits/good.md "Good Alignment Trait")  [light](rules/traits/light.md "Light Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 5750 gp
 - **Usage** held in 2 hands; **Bulk** 2

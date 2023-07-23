@@ -7,7 +7,7 @@ tags:
 aliases: ["Ooze Empathy"]
 ---
 # Ooze Empathy  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Oozemorph Dedication](compendium/feats/oozemorph-dedication-sli.md), at least two other class feats from the oozemorph archetype
 

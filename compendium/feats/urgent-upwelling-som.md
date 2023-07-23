@@ -7,7 +7,7 @@ tags:
 aliases: ["Urgent Upwelling"]
 ---
 # Urgent Upwelling  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Wellspring Mage Dedication](compendium/feats/wellspring-mage-dedication-som.md)
 - **Frequency**: once per 10 minutes

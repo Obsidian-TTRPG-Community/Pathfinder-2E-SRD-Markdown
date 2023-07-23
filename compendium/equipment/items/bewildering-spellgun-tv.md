@@ -14,7 +14,7 @@ tags:
 aliases: ["Bewildering Spellgun"]
 ---
 # Bewildering Spellgun *Item 9*  
-[attack](rules/traits/attack.md)  [consumable](rules/traits/consumable.md)  [emotion](rules/traits/emotion.md)  [enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  [spellgun](rules/traits/spellgun-tv.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [spellgun](rules/traits/spellgun-tv.md "Spellgun Item Trait")  
 
 - **Price** 140 gp
 - **Usage** held in 1 hand; **Bulk** L

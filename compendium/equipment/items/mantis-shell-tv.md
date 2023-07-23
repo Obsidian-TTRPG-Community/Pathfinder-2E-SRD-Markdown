@@ -9,7 +9,7 @@ tags:
 aliases: ["Mantis Shell"]
 ---
 # Mantis Shell *Item 1*  
-[adjusted <weapon harness>](rules/traits/adjusted-tv.md)  [uncommon](rules/traits/uncommon.md)  
+[adjusted <weapon harness>](rules/traits/adjusted-weapon-harness-tv.md "Adjusted Armor Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 10 gp
 - **Bulk** 1

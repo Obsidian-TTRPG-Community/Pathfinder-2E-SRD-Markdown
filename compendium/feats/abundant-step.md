@@ -7,7 +7,7 @@ tags:
 aliases: ["Abundant Step"]
 ---
 # Abundant Step  *Feat 6*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Prerequisites**: incredible movement, ki spells
 

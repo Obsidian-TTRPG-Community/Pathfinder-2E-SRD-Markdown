@@ -11,7 +11,7 @@ tags:
 aliases: ["Bitter"]
 ---
 # Bitter *Item 9*  
-[magical](rules/traits/magical.md)  [poison](rules/traits/poison.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 135 gp
 - **Usage** etched onto armor

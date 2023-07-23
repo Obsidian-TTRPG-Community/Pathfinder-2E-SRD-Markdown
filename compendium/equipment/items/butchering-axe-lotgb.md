@@ -11,7 +11,7 @@ tags:
 aliases: ["Butchering Axe"]
 ---
 # Butchering Axe *Item 0*  
-[orc](rules/traits/orc.md)  [shove](rules/traits/shove.md)  [sweep](rules/traits/sweep.md)  [uncommon](rules/traits/uncommon.md)  
+[orc](rules/traits/orc.md "Orc Ancestry & Heritage Trait")  [shove](rules/traits/shove.md "Shove Weapon Trait")  [sweep](rules/traits/sweep.md "Sweep Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 8 gp
 - **Bulk** 2

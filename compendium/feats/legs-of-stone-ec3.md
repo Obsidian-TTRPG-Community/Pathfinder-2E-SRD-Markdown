@@ -7,7 +7,7 @@ tags:
 aliases: ["Legs Of Stone"]
 ---
 # Legs Of Stone  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Golem Grafter Dedication](compendium/feats/golem-grafter-dedication-ec3.md)
 

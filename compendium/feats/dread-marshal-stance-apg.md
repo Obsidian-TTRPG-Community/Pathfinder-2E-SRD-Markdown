@@ -9,7 +9,7 @@ tags:
 aliases: ["Dread Marshal Stance"]
 ---
 # Dread Marshal Stance  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  [open](rules/traits/open.md)  [stance](rules/traits/stance.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [open](rules/traits/open.md "Open Combat Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
 
 - **Prerequisites**: [Marshal Dedication](compendium/feats/marshal-dedication-apg.md), trained in [Intimidation](compendium/skills.md#Intimidation)
 - **Activity** Single Action

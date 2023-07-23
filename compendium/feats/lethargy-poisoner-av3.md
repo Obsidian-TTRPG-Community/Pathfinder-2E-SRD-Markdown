@@ -7,7 +7,7 @@ tags:
 aliases: ["Lethargy Poisoner"]
 ---
 # Lethargy Poisoner  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Drow Shootist Dedication](compendium/feats/drow-shootist-dedication-av3.md), trained in [Crafting](compendium/skills.md#Crafting)
 

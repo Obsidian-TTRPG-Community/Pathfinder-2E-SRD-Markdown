@@ -7,7 +7,7 @@ tags:
 aliases: ["Supreme Spellstrike"]
 ---
 # Supreme Spellstrike  *Feat 20*  
-[magus](rules/traits/magus-som.md)  
+[magus](rules/traits/magus-som.md "Magus Class Trait")  
 
 - **Prerequisites**: [Spellstrike](rules/actions/spellstrike-som.md)
 

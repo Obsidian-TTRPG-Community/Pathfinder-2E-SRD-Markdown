@@ -11,9 +11,9 @@ tags:
 aliases: ["Blazing Fissure"]
 ---
 # Blazing Fissure *Spell 5*   
-[earth](rules/traits/earth.md)  [evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  
+[earth](rules/traits/earth.md "Earth Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**120-foot line
 - **Saving Throw** Reflex

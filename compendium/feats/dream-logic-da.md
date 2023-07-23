@@ -10,7 +10,7 @@ tags:
 aliases: ["Dream Logic"]
 ---
 # Dream Logic  *Feat 14*  
-[archetype](rules/traits/archetype.md)  [enchantment](rules/traits/enchantment.md)  [mental](rules/traits/mental.md)  [occult](rules/traits/occult.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 - **Prerequisites**: [Sleepwalker Dedication](compendium/feats/sleepwalker-dedication-da.md)
 

@@ -8,7 +8,7 @@ tags:
 aliases: ["Dig Quickly"]
 ---
 # Dig Quickly  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 1*  
-[manipulate](rules/traits/manipulate.md)  [shoony](rules/traits/shoony-ec3.md)  
+[manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [shoony](rules/traits/shoony-ec3.md "Shoony Ancestry & Heritage Trait")  
 
 - **Requirements**: You are standing on dirt, sand, snow, or similar particulate material.
 - **Activity** Two-Action

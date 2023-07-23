@@ -8,7 +8,7 @@ tags:
 aliases: ["Ghost Crystal Cloud"]
 ---
 # Ghost Crystal Cloud *Hazard 8*  
-[environmental](rules/traits/environmental.md)  [uncommon](rules/traits/uncommon.md)  
+[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 28 trained  
@@ -32,7 +32,7 @@ title: Ectoplasmic Explosion [R](rules/core-rulebook/chapter-9-playing-the-game.
 ```
 ```ad-embed-ability
 title: Ghost Crystal Cloud
-[inhaled](rules/traits/inhaled.md)  [poison](rules/traits/poison.md)  
+[inhaled](rules/traits/inhaled.md "Inhaled Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
   
 %% #trait/inhaled #trait/poison %%

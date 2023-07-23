@@ -7,7 +7,7 @@ tags:
 aliases: ["Deliberate Death"]
 ---
 # Deliberate Death  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
-[duskwalker](rules/traits/duskwalker-apg.md)  
+[duskwalker](rules/traits/duskwalker-apg.md "Duskwalker Ancestry & Heritage Trait")  
 
 - **Frequency**: once per day
 - **Trigger** You are about to gain the [dying](rules/conditions.md#Dying) condition as a result of another creature's attack or ability, and that creature is within your melee reach.

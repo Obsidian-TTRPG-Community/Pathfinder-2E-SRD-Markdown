@@ -7,7 +7,7 @@ tags:
 aliases: ["Scamper"]
 ---
 # Scamper  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
-[kobold](rules/traits/kobold-b1.md)  
+[kobold](rules/traits/kobold-b1.md "Kobold Ancestry & Heritage Trait")  
 
 - **Requirements**: You are adjacent to at least one enemy.
 - **Activity** Single Action

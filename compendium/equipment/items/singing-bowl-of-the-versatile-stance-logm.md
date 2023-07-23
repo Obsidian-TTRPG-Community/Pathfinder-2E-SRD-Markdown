@@ -10,7 +10,7 @@ tags:
 aliases: ["Singing Bowl Of The Versatile Stance"]
 ---
 # Singing Bowl Of The Versatile Stance *Item 11*  
-[enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** follower of [Irori](compendium/setting/deities/irori.md)
 - **Price** 1175 gp

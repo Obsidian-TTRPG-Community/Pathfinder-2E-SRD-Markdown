@@ -7,7 +7,7 @@ tags:
 aliases: ["Incredible Companion (Ranger)"]
 ---
 # Incredible Companion (Ranger)  *Feat 10*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: [Mature Animal Companion (Ranger)](compendium/feats/mature-animal-companion-ranger.md)
 

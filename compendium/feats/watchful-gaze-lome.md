@@ -8,7 +8,7 @@ tags:
 aliases: ["Watchful Gaze"]
 ---
 # Watchful Gaze  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
-[concentrate](rules/traits/concentrate.md)  [goloma](rules/traits/goloma-lome.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [goloma](rules/traits/goloma-lome.md "Goloma Ancestry & Heritage Trait")  
 
 - **Activity** Single Action
 

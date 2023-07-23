@@ -7,7 +7,7 @@ tags:
 aliases: ["Weight of Guilt"]
 ---
 # Weight of Guilt *Hazard 7*  
-[haunt](rules/traits/haunt.md)  
+[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 30 expert to sense an oppressive aura of sorrow  
@@ -18,7 +18,7 @@ Influenced by the guilt and regrets of the dead, creatures are wrapped in weight
      
 ```ad-embed-ability
 title: Mental Bind [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[enchantment](rules/traits/enchantment.md)  [mental](rules/traits/mental.md)  [occult](rules/traits/occult.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 - **Trigger**: A creature enters the area
 

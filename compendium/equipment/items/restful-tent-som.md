@@ -9,7 +9,7 @@ tags:
 aliases: ["Restful Tent"]
 ---
 # Restful Tent *Item 7*  
-[enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 320 gp
 - **Bulk** 1

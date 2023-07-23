@@ -7,7 +7,7 @@ tags:
 aliases: ["Basic Red Mantis Magic"]
 ---
 # Basic Red Mantis Magic  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: trained in [Religion](compendium/skills.md#Religion), [Red Mantis Assassin Dedication](compendium/feats/red-mantis-assassin-dedication-lowg.md)
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Ki Form"]
 ---
 # Ki Form  *Feat 18*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Prerequisites**: ki spells
 

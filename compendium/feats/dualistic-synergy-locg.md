@@ -8,7 +8,7 @@ tags:
 aliases: ["Dualistic Synergy"]
 ---
 # Dualistic Synergy  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  [metamagic](rules/traits/metamagic.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 - **Prerequisites**: [Halcyon Speaker Dedication](compendium/feats/halcyon-speaker-dedication-locg.md)
 - **Activity** Single Action

@@ -7,7 +7,7 @@ tags:
 aliases: ["Cynical"]
 ---
 # Cynical  *Feat 1*  
-[azarketi](rules/traits/azarketi-loag.md)  
+[azarketi](rules/traits/azarketi-loag.md "Azarketi Ancestry & Heritage Trait")  
 
 
 You've been approached with suspicion and distrust throughout your life and return these sentiments back to the strangers you encounter.

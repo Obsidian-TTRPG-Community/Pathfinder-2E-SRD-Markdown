@@ -8,7 +8,7 @@ tags:
 aliases: ["Familiar Foe"]
 ---
 # Familiar Foe  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Lastwall Sentry Dedication](compendium/feats/lastwall-sentry-dedication-lowg.md), expert in [Religion](compendium/skills.md#Religion) or [Undead Lore](compendium/skills.md#Lore)
 

@@ -11,7 +11,7 @@ tags:
 aliases: ["Shot Of The First Vault"]
 ---
 # Shot Of The First Vault *Item 23*  
-[artifact](rules/traits/artifact-gmg.md)  [divine](rules/traits/divine.md)  [evocation](rules/traits/evocation.md)  [rare](rules/traits/rare.md)  
+[artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Ammunition** any
 - **Category** Artifact
@@ -20,7 +20,7 @@ Legends claim that some long-forgotten god stole the original bundle of shots of
 
 Since then, individual pieces have turned up throughout the multiverse. When you pick up a shot of the First Vault, it immediately reshapes itself to function with any ranged weapon and establishes you as its owner until another creature picks it up. As its owner, you can use the shot's single-action activation after shooting it.
 
-Instead of rolling weapon damage dice, a shot of the First Vault deals 25 damage plus any bonuses or additional damage as if 25 were the result of the weapon's damage dice; the damage type matches that normally dealt by the weapon. Upon damaging a creature, the shot of the First Vault shatters, and the fragments ricochet to hit any other enemies within 30 feet, making attack rolls with the same attack bonus. The shattered fragments remain lodged in the creatures they damage; the creatures are [clumsy](rules/conditions.md#Clumsy) while the fragments remain in place. A total of 3 actions, which have the [manipulate](rules/traits/manipulate.md) trait, are required to remove the fragments from yourself or an adjacent creature; alternatively, a single action and a successful DC 30 [Medicine](compendium/skills.md#Medicine) check can be used. A critical failure on this [Medicine](compendium/skills.md#Medicine) check deals 10 [persistent bleed damage](rules/conditions.md#Persistent%20Damage) to the creature with the embedded fragment.
+Instead of rolling weapon damage dice, a shot of the First Vault deals 25 damage plus any bonuses or additional damage as if 25 were the result of the weapon's damage dice; the damage type matches that normally dealt by the weapon. Upon damaging a creature, the shot of the First Vault shatters, and the fragments ricochet to hit any other enemies within 30 feet, making attack rolls with the same attack bonus. The shattered fragments remain lodged in the creatures they damage; the creatures are [clumsy](rules/conditions.md#Clumsy) while the fragments remain in place. A total of 3 actions, which have the [manipulate](rules/traits/manipulate.md "Manipulate General Trait") trait, are required to remove the fragments from yourself or an adjacent creature; alternatively, a single action and a successful DC 30 [Medicine](compendium/skills.md#Medicine) check can be used. A critical failure on this [Medicine](compendium/skills.md#Medicine) check deals 10 [persistent bleed damage](rules/conditions.md#Persistent%20Damage) to the creature with the embedded fragment.
 
 ```ad-embed-ability
 title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
@@ -35,7 +35,7 @@ title: Activate [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions 
 
 - **Requirements**: The shot is loaded in your ranged weapon, or at hand if your ranged weapon has a reload of 0
 
-**Effect** You line up a perfectly aimed attack directly toward the First Vault. You [Strike](rules/actions/strike.md) a creature, then the shot of the First Vault attempts to bring your target with it as it returns to the First Vault. Unless your attack roll is a critical failure, the creature must attempt a DC 45 Reflex save; this effect has the [incapacitation](rules/traits/incapacitation.md) trait. Regardless, the shot of the First Vault returns to the First Vault.
+**Effect** You line up a perfectly aimed attack directly toward the First Vault. You [Strike](rules/actions/strike.md) a creature, then the shot of the First Vault attempts to bring your target with it as it returns to the First Vault. Unless your attack roll is a critical failure, the creature must attempt a DC 45 Reflex save; this effect has the [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait") trait. Regardless, the shot of the First Vault returns to the First Vault.
 
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.

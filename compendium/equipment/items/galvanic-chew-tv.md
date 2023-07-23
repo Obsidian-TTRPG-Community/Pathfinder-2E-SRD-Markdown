@@ -10,7 +10,7 @@ tags:
 aliases: ["Galvanic Chew"]
 ---
 # Galvanic Chew *Item 8*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [lozenge](rules/traits/lozenge-tv.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [lozenge](rules/traits/lozenge-tv.md "Lozenge Item Trait")  
 
 - **Price** 75 gp
 - **Usage** held in 1 hand; **Bulk** —
@@ -21,7 +21,7 @@ A galvanic chew is a processed ball of dried electric eel, roasted until chewy a
 
 ```ad-embed-ability
 title: Secondary Effect [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[electricity](rules/traits/electricity.md)  
+[electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  
 
 - **Trigger**: You're hit by a melee attack or touched by a creature
 

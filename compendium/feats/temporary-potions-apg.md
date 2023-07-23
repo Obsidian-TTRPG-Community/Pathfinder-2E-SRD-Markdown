@@ -7,7 +7,7 @@ tags:
 aliases: ["Temporary Potions"]
 ---
 # Temporary Potions  *Feat 10*  
-[witch](rules/traits/witch-apg.md)  
+[witch](rules/traits/witch-apg.md "Witch Class Trait")  
 
 - **Prerequisites**: [Cauldron](compendium/feats/cauldron-apg.md)
 

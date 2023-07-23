@@ -7,7 +7,7 @@ tags:
 aliases: ["Storm Born"]
 ---
 # Storm Born  *Feat 1*  
-[druid](rules/traits/druid.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  
 
 - **Prerequisites**: Storm order
 

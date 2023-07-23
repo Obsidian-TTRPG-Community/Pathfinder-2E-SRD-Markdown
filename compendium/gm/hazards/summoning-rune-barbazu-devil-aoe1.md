@@ -9,7 +9,7 @@ tags:
 aliases: ["Summoning Rune (Barbazu Devil)"]
 ---
 # Summoning Rune (Barbazu Devil) *Hazard 5*  
-[complex](rules/traits/complex.md)  [magical](rules/traits/magical.md)  [trap](rules/traits/trap.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +11 trained  
@@ -20,7 +20,7 @@ A summoning circle inlaid into the room's floor detects living creatures and sum
      
 ```ad-embed-ability
 title: Summon Devil [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[arcane](rules/traits/arcane.md)  [conjuration](rules/traits/conjuration.md)  summon  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  summon  
 
 - **Trigger**: A living creature steps on any part of the floor not enclosed by the summoning circle
 

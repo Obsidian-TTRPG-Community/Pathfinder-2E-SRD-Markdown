@@ -9,9 +9,9 @@ tags:
 aliases: ["Bottomless Stomach"]
 ---
 # Bottomless Stomach *Spell 3*   
-[conjuration](rules/traits/conjuration.md)  [extradimensional](rules/traits/extradimensional.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [extradimensional](rules/traits/extradimensional.md "Extradimensional Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**touch
 - **Targets**1 willing creature

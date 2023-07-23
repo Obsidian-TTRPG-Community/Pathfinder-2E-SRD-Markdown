@@ -12,14 +12,14 @@ tags:
 aliases: ["Axe Of The Dwarven Lords"]
 ---
 # Axe Of The Dwarven Lords *Item 26*  
-[artifact](rules/traits/artifact-gmg.md)  [conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [unique](rules/traits/unique.md)  
+[artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Usage** held in 2 hands; **Bulk** 3
 - **Category** Artifact
 
 The blade of this Dwarven War Axe is carved with an intricate design depicting countless generations of great dwarven warriors and leaders.
 
-The axe has the [thrown <30 feet>](rules/traits/thrown.md) weapon trait, in addition to the normal weapon traits for a dwarven waraxe. [Strikes](rules/actions/strike.md) with the axe deal an additional `1d6` damage to orcs. While the axe is in your possession, you gain a +4 item bonus when [Crafting](rules/actions/craft.md) armor, jewelry, metalworking, stonemasonry, snares, traps, and weapons. If you are a dwarf, you gain [greater darkvision](rules/abilities/darkvision.md) while holding the axe. If you are not a dwarf, you are [stupefied](rules/conditions.md#Stupefied) while holding the axe, and if you are an orc, you are also [drained](rules/conditions.md#Drained) and [enfeebled](rules/conditions.md#Enfeebled) while holding it.
+The axe has the [thrown <30 feet>](rules/traits/thrown-30-feet.md "Thrown Weapon Trait") weapon trait, in addition to the normal weapon traits for a dwarven waraxe. [Strikes](rules/actions/strike.md) with the axe deal an additional `1d6` damage to orcs. While the axe is in your possession, you gain a +4 item bonus when [Crafting](rules/actions/craft.md) armor, jewelry, metalworking, stonemasonry, snares, traps, and weapons. If you are a dwarf, you gain [greater darkvision](rules/abilities/darkvision.md) while holding the axe. If you are not a dwarf, you are [stupefied](rules/conditions.md#Stupefied) while holding the axe, and if you are an orc, you are also [drained](rules/conditions.md#Drained) and [enfeebled](rules/conditions.md#Enfeebled) while holding it.
 
 ```ad-embed-ability
 title: Activate [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")

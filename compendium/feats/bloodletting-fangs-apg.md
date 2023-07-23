@@ -7,7 +7,7 @@ tags:
 aliases: ["Bloodletting Fangs"]
 ---
 # Bloodletting Fangs  *Feat 9*  
-[dhampir](rules/traits/dhampir-b1.md)  
+[dhampir](rules/traits/dhampir-b1.md "Dhampir Ancestry & Heritage Trait")  
 
 - **Prerequisites**: fangs unarmed attack
 

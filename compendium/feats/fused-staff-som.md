@@ -9,11 +9,11 @@ tags:
 aliases: ["Fused Staff"]
 ---
 # Fused Staff  *Feat 8*  
-[arcane](rules/traits/arcane.md)  [magus](rules/traits/magus-som.md)  [transmutation](rules/traits/transmutation.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [magus](rules/traits/magus-som.md "Magus Class Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Prerequisites**: [Spellstrike](rules/actions/spellstrike-som.md)
 
-When you prepare a staff, you can hold it up to a weapon to merge the two items. You can switch the fused item's form from the weapon to the staff or vice versa as a single action, which has the [concentrate](rules/traits/concentrate.md) trait. When the item is in staff form, you can [Cast the Spells](rules/actions/cast-a-spell.md) from the staff and benefit from any other abilities the staff grants. The staff and the weapon share their fundamental runes, using whichever weapon potency and whichever striking rune is higher level. They don't share any other runes or specific abilities.
+When you prepare a staff, you can hold it up to a weapon to merge the two items. You can switch the fused item's form from the weapon to the staff or vice versa as a single action, which has the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") trait. When the item is in staff form, you can [Cast the Spells](rules/actions/cast-a-spell.md) from the staff and benefit from any other abilities the staff grants. The staff and the weapon share their fundamental runes, using whichever weapon potency and whichever striking rune is higher level. They don't share any other runes or specific abilities.
 
 You can [Cast Spells](rules/actions/cast-a-spell.md) from the staff as part of a [Spellstrike](rules/actions/spellstrike-som.md) even when the staff is in weapon form. Otherwise, you can't cast the staff's spells while it's in weapon form.
 

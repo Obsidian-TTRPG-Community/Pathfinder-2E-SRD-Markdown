@@ -7,7 +7,7 @@ tags:
 aliases: ["Opportunistic Grapple"]
 ---
 # Opportunistic Grapple  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Bounty Hunter Dedication](compendium/feats/bounty-hunter-dedication-apg.md)
 - **Trigger** Your prey critically fails on a melee [Strike](rules/actions/strike.md)'s attack roll against you.

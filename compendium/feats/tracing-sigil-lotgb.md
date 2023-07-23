@@ -7,7 +7,7 @@ tags:
 aliases: ["Tracing Sigil"]
 ---
 # Tracing Sigil  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [sigil](compendium/spells/sigil.md)
 

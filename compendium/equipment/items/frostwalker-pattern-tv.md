@@ -11,7 +11,7 @@ tags:
 aliases: ["Frostwalker Pattern"]
 ---
 # Frostwalker Pattern *Item 2*  
-[abjuration](rules/traits/abjuration.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [tattoo](rules/traits/tattoo-lowg.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [tattoo](rules/traits/tattoo-lowg.md "Tattoo Item Trait")  
 
 - **Price** 30 gp
 - **Usage** tattooed on the body; **Bulk** —

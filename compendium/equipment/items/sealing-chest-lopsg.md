@@ -10,7 +10,7 @@ tags:
 aliases: ["Sealing Chest"]
 ---
 # Sealing Chest *Item 4+*  
-[abjuration](rules/traits/abjuration.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Usage** held in 2 hands; **Bulk** L
 - **Category** Held

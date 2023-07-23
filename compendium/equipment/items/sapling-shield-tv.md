@@ -9,7 +9,7 @@ tags:
 aliases: ["Sapling Shield"]
 ---
 # Sapling Shield *Item 3+*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Usage** held in 1 hand; **Bulk** 2
 - **Category** Held

@@ -7,7 +7,7 @@ tags:
 aliases: ["Goading Feint"]
 ---
 # Goading Feint  *Feat 1*  
-[swashbuckler](rules/traits/swashbuckler-apg.md)  
+[swashbuckler](rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  
 
 - **Prerequisites**: trained in [Deception](compendium/skills.md#Deception)
 

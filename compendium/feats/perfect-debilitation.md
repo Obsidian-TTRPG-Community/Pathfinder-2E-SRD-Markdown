@@ -7,7 +7,7 @@ tags:
 aliases: ["Perfect Debilitation"]
 ---
 # Perfect Debilitation  *Feat 18*  
-[alchemist](rules/traits/alchemist.md)  
+[alchemist](rules/traits/alchemist.md "Alchemist Class Trait")  
 
 
 You have perfected the formulas for bombs that impede your enemies. When you use [Debilitating Bomb](compendium/feats/debilitating-bomb.md), your target avoids the condition the bomb imposes only if it critically succeeds at its saving throw.

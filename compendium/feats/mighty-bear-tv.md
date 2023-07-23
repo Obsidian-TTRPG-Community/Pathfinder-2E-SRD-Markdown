@@ -7,7 +7,7 @@ tags:
 aliases: ["Mighty Bear"]
 ---
 # Mighty Bear  *Feat 18*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: Great Bear
 

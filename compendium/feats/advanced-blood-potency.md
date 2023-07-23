@@ -7,7 +7,7 @@ tags:
 aliases: ["Advanced Blood Potency"]
 ---
 # Advanced Blood Potency  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Blood Potency](compendium/feats/basic-blood-potency.md)
 

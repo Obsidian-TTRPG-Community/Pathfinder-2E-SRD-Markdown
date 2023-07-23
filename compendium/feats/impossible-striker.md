@@ -7,7 +7,7 @@ tags:
 aliases: ["Impossible Striker"]
 ---
 # Impossible Striker  *Feat 20*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Prerequisites**: [Sly Striker](compendium/feats/sly-striker.md)
 

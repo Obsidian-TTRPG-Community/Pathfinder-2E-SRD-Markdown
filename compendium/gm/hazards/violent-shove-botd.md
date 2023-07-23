@@ -7,7 +7,7 @@ tags:
 aliases: ["Violent Shove"]
 ---
 # Violent Shove *Hazard 3*  
-[haunt](rules/traits/haunt.md)  
+[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 23 trained to feel an ominous presence in the room  

@@ -9,7 +9,7 @@ tags:
 aliases: ["Awesome Blow"]
 ---
 # Awesome Blow  *Feat 14*  
-[barbarian](rules/traits/barbarian.md)  [concentrate](rules/traits/concentrate.md)  [rage](rules/traits/rage.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [rage](rules/traits/rage.md "Rage Combat Trait")  
 
 - **Prerequisites**: [Knockback](compendium/feats/knockback.md)
 

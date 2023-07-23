@@ -9,7 +9,7 @@ tags:
 aliases: ["Embed Aeon Stone"]
 ---
 # Embed Aeon Stone  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [downtime](rules/traits/downtime.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Runelord Dedication](compendium/feats/runelord-dedication-som.md), trained in [Crafting](compendium/skills.md#Crafting)
 

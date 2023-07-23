@@ -9,7 +9,7 @@ tags:
 aliases: ["Living Vessel Dedication"]
 ---
 # Living Vessel Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [rare](rules/traits/rare.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 
 Whether willingly or not, you've become a vessel for a being of unimaginable power. You and your GM should work together to determine the being's nature and decide how much you know and how much remains a mystery to you for now. Some decisions might influence your options later.

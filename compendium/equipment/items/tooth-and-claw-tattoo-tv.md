@@ -11,7 +11,7 @@ tags:
 aliases: ["Tooth and Claw Tattoo"]
 ---
 # Tooth and Claw Tattoo *Item 6+*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [tattoo](rules/traits/tattoo-lowg.md)  [transmutation](rules/traits/transmutation.md)  
+[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [tattoo](rules/traits/tattoo-lowg.md "Tattoo Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Usage** tattooed on the body; **Bulk** —
 - **Category** Tattoo
@@ -20,7 +20,7 @@ This tattoo resembles an animal's fangs, claws, or similar natural weapons, lett
 
 ```ad-embed-ability
 title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[morph](rules/traits/morph.md)  
+[morph](rules/traits/morph.md "Morph Effect Trait")  
 
 You gain an unarmed attack matching the tattoo for 1 minute. It has the same damage as your best unarmed attack and has the same traits. Its damage type is bludgeoning for a fist or frog's jaws; piercing for an antler, fangs, horns, or most jaws; or slashing for claws.  
 %% #trait/morph %%
@@ -28,7 +28,7 @@ You gain an unarmed attack matching the tattoo for 1 minute. It has the same dam
 
 ```ad-embed-ability
 title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
-[polymorph](rules/traits/polymorph.md)  
+[polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  
 
 The tattoo casts 3rd-level [animal form](compendium/spells/animal-form.md) to transform you into the animal that matches your tattoo.  
 %% #trait/polymorph %%

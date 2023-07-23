@@ -7,7 +7,7 @@ tags:
 aliases: ["Assured Ritualist"]
 ---
 # Assured Ritualist  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Flexible Ritualist](compendium/feats/flexible-ritualist-apg.md)
 

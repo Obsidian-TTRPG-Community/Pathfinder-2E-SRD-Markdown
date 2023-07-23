@@ -7,7 +7,7 @@ tags:
 aliases: ["Deeper Dabbler"]
 ---
 # Deeper Dabbler  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Talisman Dabbler Dedication](compendium/feats/talisman-dabbler-dedication-apg.md)
 

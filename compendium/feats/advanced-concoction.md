@@ -7,7 +7,7 @@ tags:
 aliases: ["Advanced Concoction"]
 ---
 # Advanced Concoction  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Concoction](compendium/feats/basic-concoction.md)
 

@@ -10,12 +10,12 @@ tags:
 aliases: ["Track"]
 ---
 # Track (basic)
-[concentrate](rules/traits/concentrate.md)  [exploration](rules/traits/exploration.md)  [move](rules/traits/move.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [move](rules/traits/move.md "Move Combat Trait")  
 *Source: Core Rulebook p. 252*  
 
 **Skill** [survival](compendium/skills.md#Survival) (trained)
 
-You follow tracks, moving at up to half your travel Speed.. After a successful check to Track, you can continue following the tracks at half your Speed without attempting additional checks for up to 1 hour. In some cases, you might Track in an encounter. In this case, Track is a single action and doesn't have the [exploration](rules/traits/exploration.md) trait, but you might need to roll more often because you're in a tense situation. The GM determines how often you must attempt this check.
+You follow tracks, moving at up to half your travel Speed.. After a successful check to Track, you can continue following the tracks at half your Speed without attempting additional checks for up to 1 hour. In some cases, you might Track in an encounter. In this case, Track is a single action and doesn't have the [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait") trait, but you might need to roll more often because you're in a tense situation. The GM determines how often you must attempt this check.
 
 You attempt your [Survival](compendium/skills.md#Survival) check when you start [Tracking](rules/actions/track.md), once every hour you continue tracking, and any time something significant changes in the trail. The GM determines the DCs for such checks, depending on the freshness of the trail, the weather, and the type of ground.
 

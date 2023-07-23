@@ -10,7 +10,7 @@ tags:
 aliases: ["Celestial Wings"]
 ---
 # Celestial Wings  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 9*  
-[aasimar](rules/traits/aasimar-apg.md)  [divine](rules/traits/divine.md)  [morph](rules/traits/morph.md)  [transmutation](rules/traits/transmutation.md)  
+[aasimar](rules/traits/aasimar-apg.md "Aasimar Ancestry & Heritage Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [morph](rules/traits/morph.md "Morph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Frequency**: once per day
 - **Activity** Two-Action

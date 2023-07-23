@@ -8,7 +8,7 @@ tags:
 aliases: ["Effortless Captivation"]
 ---
 # Effortless Captivation  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 14*  
-[archetype](rules/traits/archetype.md)  [metamagic](rules/traits/metamagic.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 - **Prerequisites**: [Captivator Dedication](compendium/feats/captivator-dedication-lotgb.md)
 - **Trigger** Your turn begins.

@@ -8,7 +8,7 @@ tags:
 aliases: ["Enduring Debilitation"]
 ---
 # Enduring Debilitation  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 20*  
-[rogue](rules/traits/rogue.md)  [uncommon](rules/traits/uncommon.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Debilitating Strike](rules/actions/debilitating-strike.md)
 - **Frequency**: once per minute

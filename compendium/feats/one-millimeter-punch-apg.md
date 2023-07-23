@@ -7,7 +7,7 @@ tags:
 aliases: ["One-millimeter Punch"]
 ---
 # One-millimeter Punch  *Feat 16*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Prerequisites**: [One-Inch Punch](compendium/feats/one-inch-punch-apg.md)
 

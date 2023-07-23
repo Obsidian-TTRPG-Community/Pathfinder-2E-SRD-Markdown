@@ -11,7 +11,7 @@ tags:
 aliases: ["Celestial Armor"]
 ---
 # Celestial Armor *Item 13*  
-[divine](rules/traits/divine.md)  [good](rules/traits/good.md)  [invested](rules/traits/invested.md)  [transmutation](rules/traits/transmutation.md)  
+[divine](rules/traits/divine.md "Divine Tradition Trait")  [good](rules/traits/good.md "Good Alignment Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 2500 gp
 - **Usage** worn armor; **Bulk** 1

@@ -7,7 +7,7 @@ tags:
 aliases: ["Divine Ally"]
 ---
 # Divine Ally  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Champion Dedication](compendium/feats/champion-dedication.md)
 

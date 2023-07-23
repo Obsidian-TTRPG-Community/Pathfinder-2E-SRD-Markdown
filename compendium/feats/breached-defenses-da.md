@@ -7,7 +7,7 @@ tags:
 aliases: ["Breached Defenses"]
 ---
 # Breached Defenses  *Feat 4*  
-[thaumaturge](rules/traits/thaumaturge-da.md)  
+[thaumaturge](rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
 
 - **Prerequisites**: [Exploit Vulnerability](rules/actions/exploit-vulnerability-da.md)
 

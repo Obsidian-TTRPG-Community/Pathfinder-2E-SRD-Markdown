@@ -7,7 +7,7 @@ tags:
 aliases: ["Tense Negotiator"]
 ---
 # Tense Negotiator  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Swordmaster Dedication](compendium/feats/swordmaster-dedication-locg.md), master in [Diplomacy](compendium/skills.md#Diplomacy)
 

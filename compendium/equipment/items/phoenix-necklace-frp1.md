@@ -12,7 +12,7 @@ tags:
 aliases: ["Phoenix Necklace"]
 ---
 # Phoenix Necklace *Item 20*  
-[artifact](rules/traits/artifact-gmg.md)  [healing](rules/traits/healing.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [rare](rules/traits/rare.md)  
+[artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** worn necklace
 - **Category** Artifact

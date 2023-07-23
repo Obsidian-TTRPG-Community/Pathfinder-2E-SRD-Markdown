@@ -12,7 +12,7 @@ tags:
 aliases: ["Scourge"]
 ---
 # Scourge *Item 0*  
-[agile](rules/traits/agile.md)  [disarm](rules/traits/disarm.md)  [finesse](rules/traits/finesse.md)  [nonlethal](rules/traits/nonlethal.md)  [sweep](rules/traits/sweep.md)  
+[agile](rules/traits/agile.md "Agile Weapon Trait")  [disarm](rules/traits/disarm.md "Disarm Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait")  [sweep](rules/traits/sweep.md "Sweep Weapon Trait")  
 
 - **Price** 1 sp
 - **Bulk** 1

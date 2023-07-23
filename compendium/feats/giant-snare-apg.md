@@ -7,7 +7,7 @@ tags:
 aliases: ["Giant Snare"]
 ---
 # Giant Snare  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Snarecrafter Dedication](compendium/feats/snarecrafter-dedication-apg.md)
 

@@ -8,7 +8,7 @@ tags:
 aliases: ["Waterproof Journal"]
 ---
 # Waterproof Journal *Item 1*  
-[uncommon](rules/traits/uncommon.md)  
+[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 5 gp
 - **Bulk** 1

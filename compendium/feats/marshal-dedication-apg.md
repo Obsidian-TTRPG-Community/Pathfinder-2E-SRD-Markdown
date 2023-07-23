@@ -8,13 +8,13 @@ tags:
 aliases: ["Marshal Dedication"]
 ---
 # Marshal Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: trained in martial weapons and either [Diplomacy](compendium/skills.md#Diplomacy) or [Intimidation](compendium/skills.md#Intimidation)
 
 You've combined your social skills and combat training to become a talented combat leader. Choose [Diplomacy](compendium/skills.md#Diplomacy) or [Intimidation](compendium/skills.md#Intimidation). You become trained in that skill or become an expert if you were already trained in it.
 
-In addition, you're surrounded by a marshal's aura in a 10-foot emanation. Your aura has the [emotion](rules/traits/emotion.md), [mental](rules/traits/mental.md), and [visual](rules/traits/visual.md) traits and grants you and allies within the aura a +1 status bonus to saving throws against [fear](rules/traits/fear.md).
+In addition, you're surrounded by a marshal's aura in a 10-foot emanation. Your aura has the [emotion](rules/traits/emotion.md "Emotion Effect Trait"), [mental](rules/traits/mental.md "Mental Effect Trait"), and [visual](rules/traits/visual.md "Visual Effect Trait") traits and grants you and allies within the aura a +1 status bonus to saving throws against [fear](rules/traits/fear.md "Fear Effect Trait").
 
 **Special.** You can't select another dedication feat until you have gained two other feats from the marshal archetype.
 

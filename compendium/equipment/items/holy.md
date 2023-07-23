@@ -10,7 +10,7 @@ tags:
 aliases: ["Holy"]
 ---
 # Holy *Item 11*  
-[evocation](rules/traits/evocation.md)  [good](rules/traits/good.md)  [magical](rules/traits/magical.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [good](rules/traits/good.md "Good Alignment Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 1400 gp
 - **Usage** etched onto a weapon without an unholy rune
@@ -21,9 +21,9 @@ Holy weapons command powerful celestial energy. A weapon with this rune deals an
 ```ad-embed-ability
 title: Activate [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
-- **Trigger**: You critically succeed at an attack roll against an [evil](rules/traits/evil.md) creature with the weapon
+- **Trigger**: You critically succeed at an attack roll against an [evil](rules/traits/evil.md "Evil Alignment Trait") creature with the weapon
 
-**Effect** You regain HP equal to double the evil creature's level. This is a [good](rules/traits/good.md), [positive](rules/traits/positive.md), [healing](rules/traits/healing.md) effect.
+**Effect** You regain HP equal to double the evil creature's level. This is a [good](rules/traits/good.md "Good Alignment Trait"), [positive](rules/traits/positive.md "Positive Energy & Element Trait"), [healing](rules/traits/healing.md "Healing Effect Trait") effect.
 ```
 
 *Source: Core Rulebook p. 584*

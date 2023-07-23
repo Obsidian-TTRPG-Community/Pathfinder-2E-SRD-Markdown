@@ -7,7 +7,7 @@ tags:
 aliases: ["Know-it-all"]
 ---
 # Know-it-all  *Feat 8*  
-[bard](rules/traits/bard.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  
 
 - **Prerequisites**: Enigma muse
 

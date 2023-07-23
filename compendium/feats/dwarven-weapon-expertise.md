@@ -7,7 +7,7 @@ tags:
 aliases: ["Dwarven Weapon Expertise"]
 ---
 # Dwarven Weapon Expertise  *Feat 13*  
-[dwarf](rules/traits/dwarf.md)  
+[dwarf](rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Dwarven Weapon Familiarity](compendium/feats/dwarven-weapon-familiarity.md)
 

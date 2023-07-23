@@ -10,7 +10,7 @@ tags:
 aliases: ["Echoes Of Betrayal"]
 ---
 # Echoes Of Betrayal *Hazard 16*  
-[complex](rules/traits/complex.md)  [haunt](rules/traits/haunt.md)  [ne](rules/traits/neutral-evil-b1.md)  [unique](rules/traits/unique.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  [ne](rules/traits/ne-b1.md "Neutral Evil Alignment Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Complexity** Complex
 - **Stealth** DC 35 master to hear the quiet murmurs of angry spirits  
@@ -21,7 +21,7 @@ Malevolent spirits led by a ghostly image of Ludika rise and begin a deadly braw
      
 ```ad-embed-ability
 title: Confuse [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[emotion](rules/traits/emotion.md)  [fear](rules/traits/fear.md)  [illusion](rules/traits/illusion.md)  [mental](rules/traits/mental.md)  [occult](rules/traits/occult.md)  
+[emotion](rules/traits/emotion.md "Emotion Effect Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 - **Trigger**: At least three creatures enter area **H10**.
 
@@ -34,7 +34,7 @@ title: Routine
 (1 action) As 1 action, the haunt causes a barrage of ghostly fists to lash from the walls, floors, and ceiling. The haunt attempts a spectral fist [Strike](rules/actions/strike.md) against each creature in area **H10**.
 
 ```ad-inline-attack
-title: Melee [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Spectral Fist (35) ([magical](rules/traits/magical.md), [reach <10 feet>](rules/traits/reach.md))
+title: Melee [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Spectral Fist (35) ([magical](rules/traits/magical.md "Magical Item Trait"), [reach <10 feet>](rules/traits/reach-10-feet.md "Reach Weapon Trait"))
 **Damage** `5d10` bludgeoning, and the creature must attempt a new DC 37 Will save against [confusion](compendium/spells/confusion.md) if it's not already [confused](rules/conditions.md#Confused). 
  
 **Effects** and the creature must attempt a new DC 37 Will save against confusion if it's not already [confused](rules/conditions.md#Confused).

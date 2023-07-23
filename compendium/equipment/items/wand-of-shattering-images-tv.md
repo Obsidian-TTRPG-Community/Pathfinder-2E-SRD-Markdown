@@ -11,7 +11,7 @@ tags:
 aliases: ["Wand of Shattering Images"]
 ---
 # Wand of Shattering Images *Item 6*  
-[illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  [visual](rules/traits/visual.md)  [wand](rules/traits/wand.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
 
 - **Price** 250 gp
 - **Usage** held in 1 hand; **Bulk** L

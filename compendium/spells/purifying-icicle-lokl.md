@@ -11,9 +11,9 @@ tags:
 aliases: ["Purifying Icicle"]
 ---
 # Purifying Icicle *Spell 1*   
-[cold](rules/traits/cold.md)  [evocation](rules/traits/evocation.md)  [positive](rules/traits/positive.md)  [uncommon](rules/traits/uncommon.md)  
+[cold](rules/traits/cold.md "Cold Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md), [primal](rules/traits/primal.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**60 foot
 - **Targets**1 creature

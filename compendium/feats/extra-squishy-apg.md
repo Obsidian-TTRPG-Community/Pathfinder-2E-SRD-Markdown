@@ -7,7 +7,7 @@ tags:
 aliases: ["Extra Squishy"]
 ---
 # Extra Squishy  *Feat 1*  
-[goblin](rules/traits/goblin.md)  
+[goblin](rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  
 
 - **Prerequisites**: unbreakable goblin heritage
 

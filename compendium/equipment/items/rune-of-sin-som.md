@@ -11,7 +11,7 @@ tags:
 aliases: ["Rune Of Sin"]
 ---
 # Rune Of Sin *Item 12*  
-[arcane](rules/traits/arcane.md)  [invested](rules/traits/invested.md)  [tattoo](rules/traits/tattoo-lowg.md)  [uncommon](rules/traits/uncommon.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [tattoo](rules/traits/tattoo-lowg.md "Tattoo Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1700 gp
 - **Usage** tattooed on the body

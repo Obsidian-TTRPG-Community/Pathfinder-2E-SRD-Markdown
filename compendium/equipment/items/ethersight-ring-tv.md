@@ -12,7 +12,7 @@ tags:
 aliases: ["Ethersight Ring"]
 ---
 # Ethersight Ring *Item 7*  
-[divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [revelation](rules/traits/revelation.md)  [uncommon](rules/traits/uncommon.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [revelation](rules/traits/revelation.md "Revelation Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 325 gp
 - **Usage** worn; **Bulk** —

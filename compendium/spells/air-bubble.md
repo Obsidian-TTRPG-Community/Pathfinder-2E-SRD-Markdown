@@ -9,9 +9,9 @@ tags:
 aliases: ["Air Bubble"]
 ---
 # Air Bubble *Spell 1*   
-[air](rules/traits/air.md)  [conjuration](rules/traits/conjuration.md)  
+[air](rules/traits/air.md "Air Energy & Element Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [divine](rules/traits/divine.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
 - **Trigger**A creature within range enters an environment where it can't breathe.
 - **Range**60 foot

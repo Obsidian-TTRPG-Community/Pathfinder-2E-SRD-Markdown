@@ -10,7 +10,7 @@ tags:
 aliases: ["Guild Investigation"]
 ---
 # Guild Investigation
-[concentrate](rules/traits/concentrate.md)  [exploration](rules/traits/exploration.md)  [secret](rules/traits/secret.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [secret](rules/traits/secret.md "Secret General Trait")  
 *Source: Age of Ashes #4: Fires of the Haunted City p. 18*  
 
 

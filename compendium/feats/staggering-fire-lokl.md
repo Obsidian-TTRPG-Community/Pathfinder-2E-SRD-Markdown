@@ -9,7 +9,7 @@ tags:
 aliases: ["Staggering Fire"]
 ---
 # Staggering Fire  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  [press](rules/traits/press.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [press](rules/traits/press.md "Press Combat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Archer Dedication](compendium/feats/archer-dedication-apg.md)
 - **Activity** Single Action

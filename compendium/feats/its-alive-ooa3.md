@@ -7,7 +7,7 @@ tags:
 aliases: ["It's Alive!"]
 ---
 # It's Alive!  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Clockwork Reanimator Dedication](compendium/feats/clockwork-reanimator-dedication-ooa3.md)
 

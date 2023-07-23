@@ -11,7 +11,7 @@ tags:
 aliases: ["Nemesis Name"]
 ---
 # Nemesis Name *Item 9*  
-[enchantment](rules/traits/enchantment.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [tattoo](rules/traits/tattoo-lowg.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [tattoo](rules/traits/tattoo-lowg.md "Tattoo Item Trait")  
 
 - **Price** 650 gp
 - **Usage** tattooed on the body; **Bulk** —
@@ -23,7 +23,7 @@ You gain a +2 status bonus to damage rolls against the creature named on your ta
 
 ```ad-embed-ability
 title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[mental](rules/traits/mental.md)  
+[mental](rules/traits/mental.md "Mental Effect Trait")  
 
 - **Requirements**: You can see your nemesis, and they're within 30 feet of you
 

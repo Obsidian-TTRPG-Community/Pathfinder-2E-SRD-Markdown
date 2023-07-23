@@ -9,7 +9,7 @@ tags:
 aliases: ["Sneak"]
 ---
 # Sneak (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[move](rules/traits/move.md)  [secret](rules/traits/secret.md)  
+[move](rules/traits/move.md "Move Combat Trait")  [secret](rules/traits/secret.md "Secret General Trait")  
 *Source: Core Rulebook p. 252*  
 
 **Skill** [stealth](compendium/skills.md#Stealth) (untrained)

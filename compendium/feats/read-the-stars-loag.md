@@ -7,7 +7,7 @@ tags:
 aliases: ["Read The Stars"]
 ---
 # Read The Stars  *Feat 9*  
-[lizardfolk](rules/traits/lizardfolk-b1.md)  
+[lizardfolk](rules/traits/lizardfolk-b1.md "Lizardfolk Ancestry & Heritage Trait")  
 
 - **Prerequisites**: trained in [Astrology Lore](compendium/skills.md#Lore) or [Occultism](compendium/skills.md#Occultism)
 

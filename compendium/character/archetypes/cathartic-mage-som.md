@@ -113,7 +113,7 @@ Your unbridled enthusiasm and positive attitude can lead you to success, but you
 
 **Catharsis Activation** Reduce the value of any [frightened](rules/conditions.md#Frightened) or [stupefied](rules/conditions.md#Stupefied) condition you have by 1 and end any [persistent mental damage](rules/conditions.md#Persistent%20Damage) you have.
 
-**Emotional Fervor** You gain a +1 status bonus to [Performance](compendium/skills.md#Performance) checks and to the spell attack rolls of [emotion](rules/traits/emotion.md) spells, and enemies take a –1 status penalty to saves against your [emotion](rules/traits/emotion.md) spells. Spell: [hideous laughter](compendium/spells/hideous-laughter.md)
+**Emotional Fervor** You gain a +1 status bonus to [Performance](compendium/skills.md#Performance) checks and to the spell attack rolls of [emotion](rules/traits/emotion.md "Emotion Effect Trait") spells, and enemies take a –1 status penalty to saves against your [emotion](rules/traits/emotion.md "Emotion Effect Trait") spells. Spell: [hideous laughter](compendium/spells/hideous-laughter.md)
 
 **Emotional Fallout** You become [fatigued](rules/conditions.md#Fatigued) until you Settle your Emotions.
 
@@ -185,7 +185,7 @@ You attempt to overcome your failings, but your guilt stays with you.
 title: Cathartic Mage Dedication, Feat 2
 collapse: closed
 # Cathartic Mage Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: Cha 14 or ability to cast spells from spell slots
 
@@ -201,7 +201,7 @@ You gain the Catharsis reaction and the Settle Emotions activity.
 
 ```ad-embed-ability
 title: Catharsis [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[concentrate](rules/traits/concentrate.md)  [emotion](rules/traits/emotion.md)  [mental](rules/traits/mental.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 - **Trigger**: determined by your catharsis emotion
 
@@ -211,7 +211,7 @@ title: Catharsis [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "
 
 ```ad-embed-ability
 title: Settle Emotions
-[concentrate](rules/traits/concentrate.md)  [emotion](rules/traits/emotion.md)  [mental](rules/traits/mental.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 You spend 10 minutes using techniques you've developed to calm your emotions and bring them back under control. This allows you to access your Catharsis again.  
 %% #trait/concentrate #trait/emotion #trait/mental %%
@@ -220,14 +220,14 @@ You spend 10 minutes using techniques you've developed to calm your emotions and
 **Special.** You can't select another dedication feat until you've gained two other feats from the cathartic mage archetype.
 
 *Source: Secrets of Magic p. 194*  
-%% #trait/uncommon #trait/archetype #trait/dedication %%
+%% #trait/archetype #trait/dedication #trait/uncommon %%
 ````  
 
 ```ad-embed-feat
 title: Basic Cathartic Spellcasting, Feat 4
 collapse: closed
 # Basic Cathartic Spellcasting  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Cathartic Mage Dedication](compendium/feats/cathartic-mage-dedication-som.md)
 
@@ -241,7 +241,7 @@ You gain the basic spellcasting benefits. Each time you gain a spell slot of a n
 title: Cathartic Focus Spell, Feat 4
 collapse: closed
 # Cathartic Focus Spell  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Cathartic Mage Dedication](compendium/feats/cathartic-mage-dedication-som.md)
 
@@ -257,7 +257,7 @@ You can cast it only while in emotional fervor. If you don't already have one, y
 title: Work Yourself Up, Feat 8
 collapse: closed
 # Work Yourself Up  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  [concentrate](rules/traits/concentrate.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
 
 - **Prerequisites**: [Cathartic Mage Dedication](compendium/feats/cathartic-mage-dedication-som.md)
 - **Requirements**: You have a reaction available and aren't prevented from using Catharsis.
@@ -275,7 +275,7 @@ At the end of your emotional fervor, you experience the effects of your emotiona
 title: Expert Cathartic Spellcasting, Feat 12*
 collapse: closed
 # Expert Cathartic Spellcasting  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Expert Cathartic Spellcasting](compendium/feats/expert-cathartic-spellcasting-som.md) is intended for use with the Cathartic Mage Archetype. Its level has been changed accordingly.
 
@@ -291,7 +291,7 @@ You gain the expert spellcasting benefits.
 title: Infectious Emotions, Feat 12*
 collapse: closed
 # Infectious Emotions  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Infectious Emotions](compendium/feats/infectious-emotions-som.md) is intended for use with the Cathartic Mage Archetype. Its level has been changed accordingly.
 
@@ -307,7 +307,7 @@ When you use Catharsis, one ally within 30 feet gains the catharsis activation b
 title: Master Cathartic Spellcasting, Feat 18*
 collapse: closed
 # Master Cathartic Spellcasting  *Feat 18*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Master Cathartic Spellcasting](compendium/feats/master-cathartic-spellcasting-som.md) is intended for use with the Cathartic Mage Archetype. Its level has been changed accordingly.
 

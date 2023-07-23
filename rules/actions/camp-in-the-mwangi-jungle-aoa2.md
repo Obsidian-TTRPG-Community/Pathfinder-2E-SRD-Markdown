@@ -9,7 +9,7 @@ tags:
 aliases: ["Camp in the Mwangi Jungle"]
 ---
 # Camp in the Mwangi Jungle
-[exploration](rules/traits/exploration.md)  [secret](rules/traits/secret.md)  
+[exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [secret](rules/traits/secret.md "Secret General Trait")  
 *Source: Age of Ashes #2: Cult of Cinders p. 71*  
 
 

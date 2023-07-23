@@ -10,7 +10,7 @@ tags:
 aliases: ["Pact of Fey Glamour"]
 ---
 # Pact of Fey Glamour  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [illusion](rules/traits/illusion.md)  [primal](rules/traits/primal.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Pactbinder Dedication](compendium/feats/pactbinder-dedication-da.md)
 

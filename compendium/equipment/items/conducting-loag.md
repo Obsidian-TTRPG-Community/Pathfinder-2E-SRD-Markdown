@@ -9,7 +9,7 @@ tags:
 aliases: ["Conducting"]
 ---
 # Conducting *Item 7*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 300 gp
 - **Usage** etched onto a weapon

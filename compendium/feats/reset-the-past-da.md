@@ -7,7 +7,7 @@ tags:
 aliases: ["Reset the Past"]
 ---
 # Reset the Past  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Frequency**: once per day
 - **Activity** Free Action

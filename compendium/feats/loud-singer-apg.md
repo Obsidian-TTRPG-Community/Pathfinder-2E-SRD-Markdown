@@ -7,7 +7,7 @@ tags:
 aliases: ["Loud Singer"]
 ---
 # Loud Singer  *Feat 5*  
-[goblin](rules/traits/goblin.md)  
+[goblin](rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Goblin Song](compendium/feats/goblin-song.md)
 

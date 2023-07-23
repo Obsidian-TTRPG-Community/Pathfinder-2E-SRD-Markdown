@@ -7,7 +7,7 @@ tags:
 aliases: ["Kitsune Spell Familiarity"]
 ---
 # Kitsune Spell Familiarity  *Feat 1*  
-[kitsune](rules/traits/kitsune-loag.md)  
+[kitsune](rules/traits/kitsune-loag.md "Kitsune Ancestry & Heritage Trait")  
 
 
 You've picked up a few magical tricks. During your daily preparations, choose [daze](compendium/spells/daze.md), [forbidding ward](compendium/spells/forbidding-ward.md), or [ghost sound](compendium/spells/ghost-sound.md). Until your next daily preparations, you can cast this cantrip as a divine innate spell at will. A cantrip is heightened to a spell level equal to half your level rounded up.

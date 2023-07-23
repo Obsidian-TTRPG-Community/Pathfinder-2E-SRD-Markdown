@@ -10,7 +10,7 @@ tags:
 aliases: ["Their Master's Call"]
 ---
 # Their Master's Call  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 12*  
-[archetype](rules/traits/archetype.md)  [concentrate](rules/traits/concentrate.md)  [divine](rules/traits/divine.md)  [necromancy](rules/traits/necromancy.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 - **Prerequisites**: [Undead Master Dedication](compendium/feats/undead-master-dedication-botd.md), Call Companion, at least one inactive undead companion whose remains or anchor are currently in your possession.
 - **Activity** Single Action

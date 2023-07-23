@@ -8,7 +8,7 @@ tags:
 aliases: ["Retaliatory Cleansing"]
 ---
 # Retaliatory Cleansing  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
-[alchemist](rules/traits/alchemist.md)  [uncommon](rules/traits/uncommon.md)  
+[alchemist](rules/traits/alchemist.md "Alchemist Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: Knights of Lastwall have access to this feat.
 - **Trigger** You would take damage from an adjacent creature's [Strike](rules/actions/strike.md).

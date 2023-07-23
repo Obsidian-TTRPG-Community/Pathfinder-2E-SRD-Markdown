@@ -10,7 +10,7 @@ tags:
 aliases: ["Inertial Barrier"]
 ---
 # Inertial Barrier  *Feat 6*  
-[abjuration](rules/traits/abjuration.md)  [amp](rules/traits/amp-da.md)  [occult](rules/traits/occult.md)  [psychic](rules/traits/psychic-da.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [amp](rules/traits/amp-da.md "Amp Feat Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  
 
 
 Your spell leaves behind barriers that reduce shock and motion.

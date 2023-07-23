@@ -7,7 +7,7 @@ tags:
 aliases: ["Alter Resistance"]
 ---
 # Alter Resistance  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 13*  
-[ganzi](rules/traits/ganzi-loag.md)  
+[ganzi](rules/traits/ganzi-loag.md "Ganzi Ancestry & Heritage Trait")  
 
 - **Frequency**: once per hour
 - **Trigger** You take acid, electricity, or sonic damage.

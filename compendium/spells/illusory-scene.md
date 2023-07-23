@@ -11,9 +11,9 @@ tags:
 aliases: ["Illusory Scene"]
 ---
 # Illusory Scene *Spell 5*   
-[auditory](rules/traits/auditory.md)  [illusion](rules/traits/illusion.md)  [visual](rules/traits/visual.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 10 minutes 
 - **Range**500 foot
 - **Area**30-foot burst

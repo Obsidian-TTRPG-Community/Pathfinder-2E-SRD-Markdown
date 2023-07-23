@@ -10,7 +10,7 @@ tags:
 aliases: ["Coating"]
 ---
 # Coating *Item 9*  
-[conjuration](rules/traits/conjuration.md)  [extradimensional](rules/traits/extradimensional.md)  [magical](rules/traits/magical.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [extradimensional](rules/traits/extradimensional.md "Extradimensional Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 700 gp
 - **Usage** etched onto a weapon

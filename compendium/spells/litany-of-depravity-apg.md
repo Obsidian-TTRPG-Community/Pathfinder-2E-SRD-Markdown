@@ -12,7 +12,7 @@ tags:
 aliases: ["Litany Of Depravity"]
 ---
 # Litany Of Depravity *Focus 7*   
-[champion](rules/traits/champion.md)  [evil](rules/traits/evil.md)  [evocation](rules/traits/evocation.md)  [litany](rules/traits/litany.md)  [uncommon](rules/traits/uncommon.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  [evil](rules/traits/evil.md "Evil Alignment Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [litany](rules/traits/litany.md "Litany Spell Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**30 foot

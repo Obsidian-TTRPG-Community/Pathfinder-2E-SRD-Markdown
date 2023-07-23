@@ -12,7 +12,7 @@ tags:
 aliases: ["Poisoner's Staff"]
 ---
 # Poisoner's Staff *Item 4+*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [staff](rules/traits/staff.md)  [uncommon](rules/traits/uncommon.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Staff

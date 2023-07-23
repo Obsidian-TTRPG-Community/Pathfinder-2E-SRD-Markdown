@@ -7,7 +7,7 @@ tags:
 aliases: ["Wavetouched Paragon"]
 ---
 # Wavetouched Paragon  *Feat 5*  
-[human](rules/traits/human.md)  
+[human](rules/traits/human.md "Human Ancestry & Heritage Trait")  
 
 - **Prerequisites**: Bonuwat ethnicity
 

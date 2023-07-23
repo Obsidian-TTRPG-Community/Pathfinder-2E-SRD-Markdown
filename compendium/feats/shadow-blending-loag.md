@@ -10,7 +10,7 @@ tags:
 aliases: ["Shadow Blending"]
 ---
 # Shadow Blending  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
-[fetchling](rules/traits/fetchling-b2.md)  [illusion](rules/traits/illusion.md)  [occult](rules/traits/occult.md)  [shadow](rules/traits/shadow.md)  
+[fetchling](rules/traits/fetchling-b2.md "Fetchling Ancestry & Heritage Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [shadow](rules/traits/shadow.md "Shadow General Trait")  
 
 - **Trigger** A creature attempts a flat check to target you while you're [concealed](rules/conditions.md#Concealed) or [hidden](rules/conditions.md#Hidden) due to dim light or darkness.
 - **Activity** Reaction

@@ -13,7 +13,7 @@ tags:
 aliases: ["Maw of Hungry Shadows"]
 ---
 # Maw of Hungry Shadows *Item 18*  
-[conjuration](rules/traits/conjuration.md)  [grimoire](rules/traits/grimoire-som.md)  [incapacitation](rules/traits/incapacitation.md)  [magical](rules/traits/magical.md)  [shadow](rules/traits/shadow.md)  [teleportation](rules/traits/teleportation.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [grimoire](rules/traits/grimoire-som.md "Grimoire Item Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [shadow](rules/traits/shadow.md "Shadow General Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  
 
 - **Price** 21000 gp
 - **Bulk** L
@@ -24,7 +24,7 @@ Shadows swirl around this soot-black tome, swallowing up any light that touches 
 ```ad-embed-ability
 title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 
-- **Trigger**: Your last action was to cast a spell prepared from this grimoire that has the [shadow](rules/traits/shadow.md) trait
+- **Trigger**: Your last action was to cast a spell prepared from this grimoire that has the [shadow](rules/traits/shadow.md "Shadow General Trait") trait
 
 **Effect** Your shadow, and that of the tome, elongates and reaches hungrily for one foe within 30 feet, who must attempt a Fortitude save.
 

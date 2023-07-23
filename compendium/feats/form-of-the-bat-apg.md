@@ -11,7 +11,7 @@ tags:
 aliases: ["Form Of The Bat"]
 ---
 # Form Of The Bat  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 13*  
-[concentrate](rules/traits/concentrate.md)  [dhampir](rules/traits/dhampir-b1.md)  [divine](rules/traits/divine.md)  [polymorph](rules/traits/polymorph.md)  [transmutation](rules/traits/transmutation.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [dhampir](rules/traits/dhampir-b1.md "Dhampir Ancestry & Heritage Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Frequency**: once per hour
 - **Activity** Single Action

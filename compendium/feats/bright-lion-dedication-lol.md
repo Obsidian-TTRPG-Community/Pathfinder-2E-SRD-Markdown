@@ -9,7 +9,7 @@ tags:
 aliases: ["Bright Lion Dedication"]
 ---
 # Bright Lion Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: [Bright Lion](compendium/character/backgrounds/bright-lion-lowg.md) background
 - **Prerequisites**: member of the Bright Lions, not a worshipper of Walkena, trained in [Stealth](compendium/skills.md#Stealth)

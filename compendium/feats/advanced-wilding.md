@@ -7,7 +7,7 @@ tags:
 aliases: ["Advanced Wilding"]
 ---
 # Advanced Wilding  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Wilding](compendium/feats/basic-wilding.md)
 

@@ -8,7 +8,7 @@ tags:
 aliases: ["Perform"]
 ---
 # Perform (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[concentrate](rules/traits/concentrate.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
 *Source: Core Rulebook p. 250*  
 
 **Skill** [performance](compendium/skills.md#Performance) (untrained)

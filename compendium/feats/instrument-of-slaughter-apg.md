@@ -8,7 +8,7 @@ tags:
 aliases: ["Instrument Of Slaughter"]
 ---
 # Instrument Of Slaughter  *Feat 16*  
-[champion](rules/traits/champion.md)  [uncommon](rules/traits/uncommon.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: divine ally (blade), tenets of evil
 

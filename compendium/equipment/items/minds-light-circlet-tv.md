@@ -12,7 +12,7 @@ tags:
 aliases: ["Mind's Light Circlet"]
 ---
 # Mind's Light Circlet *Item 11*  
-[enchantment](rules/traits/enchantment.md)  [focused](rules/traits/focused.md)  [invested](rules/traits/invested.md)  [light](rules/traits/light.md)  [occult](rules/traits/occult.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [focused](rules/traits/focused.md "Focused Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [light](rules/traits/light.md "Light Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 - **Price** 1200 gp
 - **Usage** worn headwear; **Bulk** —

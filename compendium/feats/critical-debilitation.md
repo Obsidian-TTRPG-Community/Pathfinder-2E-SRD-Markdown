@@ -8,7 +8,7 @@ tags:
 aliases: ["Critical Debilitation"]
 ---
 # Critical Debilitation  *Feat 12*  
-[incapacitation](rules/traits/incapacitation.md)  [rogue](rules/traits/rogue.md)  
+[incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Prerequisites**: [Debilitating Strike](rules/actions/debilitating-strike.md)
 

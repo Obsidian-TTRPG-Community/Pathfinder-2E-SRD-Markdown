@@ -163,11 +163,11 @@ While most checks follow these basic rules, it's useful to know about a few spec
 
 When you use a [Strike](rules/actions/strike.md) action or make a spell attack, you attempt a check called an attack roll. Attack rolls take a variety of forms and are often highly variable based on the weapon you are using for the attack, but there are three main types: melee attack rolls, ranged attack rolls, and spell attack rolls. Spell attack rolls work a little bit differently, so they are explained separately on the next page.
 
-**Melee attack rolls** use Strength as their ability modifier by default. If you're using a weapon or attack with the [finesse](rules/traits/finesse.md) trait, then you can use your Dexterity modifier instead.
+**Melee attack rolls** use Strength as their ability modifier by default. If you're using a weapon or attack with the [finesse](rules/traits/finesse.md "Finesse Weapon Trait") trait, then you can use your Dexterity modifier instead.
 
 > [!pf2-inset] 
 > 
-> Melee attack roll result = d20 roll + Strength modifier (or optionally Dexterity modifier for a [finesse](rules/traits/finesse.md) weapon) + proficiency bonus + other bonuses + penalties
+> Melee attack roll result = d20 roll + Strength modifier (or optionally Dexterity modifier for a [finesse](rules/traits/finesse.md "Finesse Weapon Trait") weapon) + proficiency bonus + other bonuses + penalties
 
 **Ranged attack rolls** use Dexterity as their ability modifier.
 
@@ -184,9 +184,9 @@ Penalties to attack rolls come from situations and effects as well. Circumstance
 #### Multiple Attack Penalty
 <sup>CRB p. 446</sup>
 
-The more attacks you make beyond your first in a single turn, the less accurate you become, represented by the multiple attack penalty. The second time you use an [attack](rules/traits/attack.md) action during your turn, you take a –5 penalty to your check. The third time you attack, and on any subsequent attacks, you take a –10 penalty to your check. Every check that has the [attack](rules/traits/attack.md) trait counts toward your multiple attack penalty, including [Strikes](rules/actions/strike.md), spell attack rolls, certain skill actions like [Shove](rules/actions/shove.md), and many others.
+The more attacks you make beyond your first in a single turn, the less accurate you become, represented by the multiple attack penalty. The second time you use an [attack](rules/traits/attack.md "Attack Combat Trait") action during your turn, you take a –5 penalty to your check. The third time you attack, and on any subsequent attacks, you take a –10 penalty to your check. Every check that has the [attack](rules/traits/attack.md "Attack Combat Trait") trait counts toward your multiple attack penalty, including [Strikes](rules/actions/strike.md), spell attack rolls, certain skill actions like [Shove](rules/actions/shove.md), and many others.
 
-Some weapons and abilities reduce multiple attack penalties, such as [agile](rules/traits/agile.md) weapons, which reduce these penalties to –4 on the second attack or –8 on further attacks.
+Some weapons and abilities reduce multiple attack penalties, such as [agile](rules/traits/agile.md "Agile Weapon Trait") weapons, which reduce these penalties to –4 on the second attack or –8 on further attacks.
 
 | Attack | Multiple Attack Penalty | Agile |
 |--------|-------------------------|-------|
@@ -194,7 +194,7 @@ Some weapons and abilities reduce multiple attack penalties, such as [agile](rul
 | Second | –5 | –4 |
 | Third or subsequent | –10 | –8 |
 
-Always calculate your multiple attack penalty for the weapon you're using on that attack. For example, let's say you're wielding a [longsword](compendium/equipment/items/longsword.md) in one hand and a [shortsword](compendium/equipment/items/shortsword.md) (which has the [agile](rules/traits/agile.md) trait) in your other hand, and you are going to make three [Strikes](rules/actions/strike.md) with these weapons during the course of your turn. The first [Strike](rules/actions/strike.md) you make during your turn has no penalty, no matter what weapon you are using. The second Strike will take either a –5 penalty if you use the [longsword](compendium/equipment/items/longsword.md) or a –4 penalty if you use the [shortsword](compendium/equipment/items/shortsword.md).
+Always calculate your multiple attack penalty for the weapon you're using on that attack. For example, let's say you're wielding a [longsword](compendium/equipment/items/longsword.md) in one hand and a [shortsword](compendium/equipment/items/shortsword.md) (which has the [agile](rules/traits/agile.md "Agile Weapon Trait") trait) in your other hand, and you are going to make three [Strikes](rules/actions/strike.md) with these weapons during the course of your turn. The first [Strike](rules/actions/strike.md) you make during your turn has no penalty, no matter what weapon you are using. The second Strike will take either a –5 penalty if you use the [longsword](compendium/equipment/items/longsword.md) or a –4 penalty if you use the [shortsword](compendium/equipment/items/shortsword.md).
 
 Just like the second attack, the penalty for your third attack is based on which weapon you're using for that particular [Strike](rules/actions/strike.md). It would be a –10 penalty with the [longsword](compendium/equipment/items/longsword.md) and a –8 penalty with the [shortsword](compendium/equipment/items/shortsword.md), no matter what weapon you used for your previous [Strikes](rules/actions/strike.md).
 
@@ -508,7 +508,7 @@ When you have immunity to a specific type of damage, you ignore all damage of th
 
 Immunity to critical hits works a little differently. When a creature immune to critical hits is critically hit by a Strike or other attack that deals damage, it takes normal damage instead of double damage. This does not make it immune to any other critical success effects of other actions that have the attack trait (such as [Grapple](rules/actions/grapple.md) and [Shove](rules/actions/shove.md)).
 
-Another exception is immunity to nonlethal attacks. If you are immune to nonlethal attacks, you are immune to all damage from attacks with the nonlethal trait, no matter what other type the damage has. For instance, a stone golem has immunity to nonlethal attacks. This means that no matter how hard you hit it with your fist, you're not going to damage it—unless your fists don't have the [nonlethal](rules/traits/nonlethal.md) trait, such as if you're a monk.
+Another exception is immunity to nonlethal attacks. If you are immune to nonlethal attacks, you are immune to all damage from attacks with the nonlethal trait, no matter what other type the damage has. For instance, a stone golem has immunity to nonlethal attacks. This means that no matter how hard you hit it with your fist, you're not going to damage it—unless your fists don't have the [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait") trait, such as if you're a monk.
 
 #### Temporary Immunity
 <sup>CRB p. 453</sup>
@@ -783,7 +783,7 @@ Multiple exposures to the same curse or disease currently affecting you have no 
 ### Virulent Afflictions
 <sup>CRB p. 458</sup>
 
-Afflictions with the [virulent](rules/traits/virulent.md) trait are harder to remove.
+Afflictions with the [virulent](rules/traits/virulent.md "Virulent Item Trait") trait are harder to remove.
 
 You must succeed at two consecutive saves to reduce a virulent affliction's stage by 1. A critical success reduces a virulent affliction's stage by only 1 instead of by 2.
 
@@ -1001,7 +1001,7 @@ This limitation of one action per trigger is per creature; more than one creatur
 ### Other Actions
 <sup>CRB p. 462</sup>
 
-Sometimes you need to attempt something not already covered by defined actions in the game. When this happens, the rules tell you how many actions you need to spend, as well any traits your action might have. For example, a spell that lets you switch targets might say you can do so "by spending a single action, which has the [concentrate](rules/traits/concentrate.md)." Game masters can also use this approach when a character tries to do something that isn't covered in the rules.
+Sometimes you need to attempt something not already covered by defined actions in the game. When this happens, the rules tell you how many actions you need to spend, as well any traits your action might have. For example, a spell that lets you switch targets might say you can do so "by spending a single action, which has the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")." Game masters can also use this approach when a character tries to do something that isn't covered in the rules.
 
 ### Gaining and Losing Actions
 <sup>CRB p. 462</sup>
@@ -1380,7 +1380,7 @@ In addition to the actions in these two sections, the actions for spellcasting c
 > 
 > As long as you can act, you can also speak. You don't need to spend any type of action to speak, but because a round represents 6 seconds of time, you can usually speak at most a single sentence or so per round. Special uses of speech, such as attempting a [Deception](compendium/skills.md#Deception) skill check to Lie, require spending actions and follow their own rules.
 > 
-> All speech has the [auditory](rules/traits/auditory.md) trait. If you communicate in some way other than speech, other rules might apply. For instance, using sign language is [visual](rules/traits/visual.md) instead of [auditory](rules/traits/auditory.md).
+> All speech has the [auditory](rules/traits/auditory.md "Auditory Effect Trait") trait. If you communicate in some way other than speech, other rules might apply. For instance, using sign language is [visual](rules/traits/visual.md "Visual Effect Trait") instead of [auditory](rules/traits/auditory.md "Auditory Effect Trait").
 
 #### Specialty Basic Actions
 <sup>CRB p. 472</sup>
@@ -1403,7 +1403,7 @@ Some reactions are specifically meant to be used in combat and can change how th
 
 One example of such a reaction is [Attack of Opportunity](rules/actions/attack-of-opportunity.md), which fighters gain at 1st level.
 
-This reaction lets you make a melee [Strike](rules/actions/strike.md) if a creature within reach uses a [manipulate](rules/traits/manipulate.md) or [move](rules/traits/move.md) action, makes a ranged attack, or leaves a square during a [move](rules/traits/move.md) action. The Triggering Moves diagram on page 474 illustrates examples of movements that might trigger an [Attack of Opportunity](rules/actions/attack-of-opportunity.md) from a creature without reach and one with reach.
+This reaction lets you make a melee [Strike](rules/actions/strike.md) if a creature within reach uses a [manipulate](rules/traits/manipulate.md "Manipulate General Trait") or [move](rules/traits/move.md "Move Combat Trait") action, makes a ranged attack, or leaves a square during a [move](rules/traits/move.md "Move Combat Trait") action. The Triggering Moves diagram on page 474 illustrates examples of movements that might trigger an [Attack of Opportunity](rules/actions/attack-of-opportunity.md) from a creature without reach and one with reach.
 
 You'll notice this reaction allows you to use a modified basic action, a [Strike](rules/actions/strike.md). This follows the rules on subordinate actions found on page 462.
 
@@ -1517,7 +1517,7 @@ You're [flat-footed](rules/conditions.md#Flat-footed) when [Climbing](rules/acti
 
 When you and an ally are flanking a foe, it has a harder time defending against you. A creature is [flat-footed](rules/conditions.md#Flat-footed) (taking a –2 circumstance penalty to AC) to melee attacks from creatures that are flanking it.
 
-To flank a foe, you and your ally must be on opposites sides or corners of the creature. A line drawn between the center of your space and the center of your ally's space must pass through opposite sides or opposite corners of the foe's space. Additionally, both you and the ally have to be able to act, must be wielding melee weapons or able to make an unarmed attack, can't be under any effects that prevent you from attacking, and must have the enemy within reach. If you are wielding a reach weapon, you use your [reach](rules/traits/reach.md) with that weapon for this purpose.
+To flank a foe, you and your ally must be on opposites sides or corners of the creature. A line drawn between the center of your space and the center of your ally's space must pass through opposite sides or opposite corners of the foe's space. Additionally, both you and the ally have to be able to act, must be wielding melee weapons or able to make an unarmed attack, can't be under any effects that prevent you from attacking, and must have the enemy within reach. If you are wielding a reach weapon, you use your [reach](rules/traits/reach.md "Reach Weapon Trait") with that weapon for this purpose.
 
 ### Cover
 <sup>CRB p. 477</sup>

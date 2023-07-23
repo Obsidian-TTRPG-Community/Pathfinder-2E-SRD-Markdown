@@ -7,7 +7,7 @@ tags:
 aliases: ["Captivating Intensity"]
 ---
 # Captivating Intensity  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Captivator Spellcasting](compendium/feats/basic-captivator-spellcasting-lotgb.md)
 

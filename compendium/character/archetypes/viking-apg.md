@@ -15,7 +15,7 @@ To go "a-viking" is to raid by sea, and thus vikings have spread far and wide. S
 title: Viking Dedication, Feat 2
 collapse: closed
 # Viking Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: trained in [Athletics](compendium/skills.md#Athletics)
 
@@ -31,7 +31,7 @@ Vikings spend long periods of time at sea, only to leap from their boats at a mo
 title: Hurling Charge, Feat 4
 collapse: closed
 # Hurling Charge  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Viking Dedication](compendium/feats/viking-dedication-apg.md)
 - **Activity** Two-Action
@@ -46,7 +46,7 @@ You make a ranged [Strike](rules/actions/strike.md) with a thrown weapon you alr
 title: Reactive Shield, Feat 4*
 collapse: closed
 # Reactive Shield  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 4*  
-[fighter](rules/traits/fighter.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 > [!pf2-note] This version of [Reactive Shield](compendium/feats/reactive-shield.md) is intended for use with the Viking Archetype. Its level has been changed accordingly.
 
@@ -64,7 +64,7 @@ You can snap your shield into place just as you would take a blow, avoiding the 
 title: Viking Weapon Familiarity, Feat 4
 collapse: closed
 # Viking Weapon Familiarity  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Viking Dedication](compendium/feats/viking-dedication-apg.md)
 
@@ -78,7 +78,7 @@ From childhood, you have been exposed to traditional viking weapons, and you soo
 title: Second Shield, Feat 6
 collapse: closed
 # Second Shield  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Viking Dedication](compendium/feats/viking-dedication-apg.md)
 - **Trigger** Your [Shield Block](compendium/feats/shield-block.md) causes your shield to break or be destroyed.
@@ -94,7 +94,7 @@ You're used to your shield breaking in the middle of battle, and you're prepared
 title: Shielded Stride, Feat 6*
 collapse: closed
 # Shielded Stride  *Feat 6*  
-[fighter](rules/traits/fighter.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 > [!pf2-note] This version of [Shielded Stride](compendium/feats/shielded-stride.md) is intended for use with the Viking Archetype. Its level has been changed accordingly.
 
@@ -109,7 +109,7 @@ When your shield is up, your enemies' blows can't touch you. When you have your 
 title: Viking Weapon Specialist, Feat 6
 collapse: closed
 # Viking Weapon Specialist  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Viking Weapon Familiarity](compendium/feats/viking-weapon-familiarity-apg.md)
 
@@ -123,7 +123,7 @@ You are even more skilled in the weapons of your people. You gain the critical s
 title: Quick Shield Block (Fighter), Feat 10*
 collapse: closed
 # Quick Shield Block (Fighter)  *Feat 10*  
-[fighter](rules/traits/fighter.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 > [!pf2-note] This version of [Quick Shield Block (Fighter)](compendium/feats/quick-shield-block-fighter.md) is intended for use with the Viking Archetype. Its level has been changed accordingly.
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Brutal Bully"]
 ---
 # Brutal Bully  *Feat 6*  
-[barbarian](rules/traits/barbarian.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  
 
 - **Prerequisites**: expert in [Athletics](compendium/skills.md#Athletics)
 

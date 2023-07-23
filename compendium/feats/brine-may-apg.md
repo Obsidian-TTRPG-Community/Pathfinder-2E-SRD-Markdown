@@ -8,7 +8,7 @@ tags:
 aliases: ["Brine May"]
 ---
 # Brine May  *Feat 1*  
-[changeling](rules/traits/changeling-b1.md)  [lineage](rules/traits/lineage-apg.md)  
+[changeling](rules/traits/changeling-b1.md "Changeling Ancestry & Heritage Trait")  [lineage](rules/traits/lineage-apg.md "Lineage  Trait")  
 
 
 Your mother was a sea hag, granting you one sea-green or blue eye. You find comfort both in the sea and on the shore.

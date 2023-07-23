@@ -7,7 +7,7 @@ tags:
 aliases: ["Ancestral Paragon"]
 ---
 # Ancestral Paragon  *Feat 3*  
-[general](rules/traits/general.md)  
+[general](rules/traits/general.md "General Feat Trait")  
 
 
 Whether through instinct, study, or magic, you feel a deeper connection to your ancestry. You gain a 1st-level ancestry feat.

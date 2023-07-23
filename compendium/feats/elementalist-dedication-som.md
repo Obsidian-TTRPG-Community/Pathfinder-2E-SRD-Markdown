@@ -9,11 +9,11 @@ tags:
 aliases: ["Elementalist Dedication"]
 ---
 # Elementalist Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [class](rules/traits/class-som.md)  [dedication](rules/traits/dedication.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [class](rules/traits/class-som.md "Class Class Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: elemental magic
 
-Each day when you make your daily preparations, you can attune yourself to one element of your choice: air, earth, fire, or water. You gain resistance equal to half your level (minimum 1 resistance) against damage dealt by effects with your attuned [elemental](rules/traits/elemental.md) trait. This attunement lasts until you next make your daily preparations.
+Each day when you make your daily preparations, you can attune yourself to one element of your choice: air, earth, fire, or water. You gain resistance equal to half your level (minimum 1 resistance) against damage dealt by effects with your attuned [elemental](rules/traits/elemental.md "Elemental Creature Type Trait") trait. This attunement lasts until you next make your daily preparations.
 
 **Special.** You can't select another dedication feat until you've gained two other feats from the elementalist archetype.
 

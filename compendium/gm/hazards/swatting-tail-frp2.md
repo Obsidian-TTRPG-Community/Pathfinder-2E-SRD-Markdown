@@ -8,7 +8,7 @@ tags:
 aliases: ["Swatting Tail"]
 ---
 # Swatting Tail *Hazard 18*  
-[environmental](rules/traits/environmental.md)  [kaiju](rules/traits/kaiju-frp2.md)  
+[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [kaiju](rules/traits/kaiju-frp2.md "Kaiju  Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 10  

@@ -7,7 +7,7 @@ tags:
 aliases: ["Janni Hospitality"]
 ---
 # Janni Hospitality  *Feat 9*  
-[suli](rules/traits/suli-b2.md)  
+[suli](rules/traits/suli-b2.md "Suli Ancestry & Heritage Trait")  
 
 
 You can use magic to show others desert hospitality. You can cast 2nd-level [create food](compendium/spells/create-food.md) once per day and create water twice per day as arcane innate spells.

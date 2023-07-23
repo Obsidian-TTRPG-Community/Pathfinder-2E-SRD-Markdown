@@ -7,7 +7,7 @@ tags:
 aliases: ["Skittering Scuttle"]
 ---
 # Skittering Scuttle  *Feat 9*  
-[goblin](rules/traits/goblin.md)  
+[goblin](rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Goblin Scuttle](compendium/feats/goblin-scuttle.md)
 

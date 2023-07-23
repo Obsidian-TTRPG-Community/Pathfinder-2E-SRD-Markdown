@@ -7,7 +7,7 @@ tags:
 aliases: ["Stormy Heart"]
 ---
 # Stormy Heart  *Feat 17*  
-[changeling](rules/traits/changeling-b1.md)  
+[changeling](rules/traits/changeling-b1.md "Changeling Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Invoke the Elements](compendium/feats/invoke-the-elements-loag.md)
 

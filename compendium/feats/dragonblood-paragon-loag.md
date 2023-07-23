@@ -7,7 +7,7 @@ tags:
 aliases: ["Dragonblood Paragon"]
 ---
 # Dragonblood Paragon  *Feat 9*  
-[kobold](rules/traits/kobold-b1.md)  
+[kobold](rules/traits/kobold-b1.md "Kobold Ancestry & Heritage Trait")  
 
 - **Prerequisites**: strongjaw kobold heritage, venomtail kobold heritage, [Dracomancer](compendium/feats/dracomancer-apg.md), or [Kobold Breath](compendium/feats/kobold-breath-apg.md)
 
@@ -17,7 +17,7 @@ Dracomancer Increase the number of times you can cast each of the granted 1st- a
 
 Kobold Breath Creatures that critically fail their save against your Kobold Breath take `3d4` [persistent damage](rules/conditions.md#Persistent%20Damage) of the type dealt by your draconic patron.
 
-Strongjaw Kobold Your jaws unarmed attack gains the [deadly <d6>](rules/traits/deadly.md) trait.
+Strongjaw Kobold Your jaws unarmed attack gains the [deadly <d6>](rules/traits/deadly-d6.md "Deadly Weapon Trait") trait.
 
 Venomtail Kobold You produce enough venom to use the [Tail Toxin](rules/actions/tail-toxin-apg.md) action twice per day.
 

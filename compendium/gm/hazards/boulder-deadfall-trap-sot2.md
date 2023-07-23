@@ -9,7 +9,7 @@ tags:
 aliases: ["Boulder Deadfall Trap"]
 ---
 # Boulder Deadfall Trap *Hazard 7*  
-[mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  [uncommon](rules/traits/uncommon.md)  
+[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 25 trained DC 0 to spot the balanced boulders.  

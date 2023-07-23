@@ -8,7 +8,7 @@ tags:
 aliases: ["Resourceful Ritualist"]
 ---
 # Resourceful Ritualist  *Feat 6*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Ritualist Dedication](compendium/feats/ritualist-dedication-apg.md)
 

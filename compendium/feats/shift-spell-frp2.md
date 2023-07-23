@@ -8,7 +8,7 @@ tags:
 aliases: ["Shift Spell"]
 ---
 # Shift Spell  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 14*  
-[uncommon](rules/traits/uncommon.md)  [wizard](rules/traits/wizard.md)  
+[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Access**: member of the Magaambya
 - **Requirements**: You have an active spell that affects an area and you are within the spell's range.

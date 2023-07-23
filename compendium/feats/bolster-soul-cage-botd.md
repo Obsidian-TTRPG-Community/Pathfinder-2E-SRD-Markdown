@@ -7,7 +7,7 @@ tags:
 aliases: ["Bolster Soul Cage"]
 ---
 # Bolster Soul Cage  *Feat 16*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Lich Dedication](compendium/feats/lich-dedication-botd.md), legendary in [Crafting](compendium/skills.md#Crafting)
 

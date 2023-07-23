@@ -7,7 +7,7 @@ tags:
 aliases: ["Killing Stone"]
 ---
 # Killing Stone  *Feat 13*  
-[kitsune](rules/traits/kitsune-loag.md)  
+[kitsune](rules/traits/kitsune-loag.md "Kitsune Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Star Orb](compendium/feats/star-orb-loag.md)
 

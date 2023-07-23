@@ -7,7 +7,7 @@ tags:
 aliases: ["Clear The Way"]
 ---
 # Clear The Way  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Mauler Dedication](compendium/feats/mauler-dedication-apg.md)
 - **Requirements**: You're wielding a melee weapon in two hands.

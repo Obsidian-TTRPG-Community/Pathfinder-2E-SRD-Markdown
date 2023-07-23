@@ -11,7 +11,7 @@ tags:
 aliases: ["Disturbing Knowledge"]
 ---
 # Disturbing Knowledge  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 7*  
-[emotion](rules/traits/emotion.md)  [fear](rules/traits/fear.md)  [general](rules/traits/general.md)  [mental](rules/traits/mental.md)  [skill](rules/traits/skill.md)  
+[emotion](rules/traits/emotion.md "Emotion Effect Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [general](rules/traits/general.md "General Feat Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: master in [Occultism](compendium/skills.md#Occultism)
 - **Activity** Two-Action

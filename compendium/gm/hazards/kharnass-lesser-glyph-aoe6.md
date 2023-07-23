@@ -8,7 +8,7 @@ tags:
 aliases: ["Kharnas's Lesser Glyph"]
 ---
 # Kharnas's Lesser Glyph *Hazard 17*  
-[magical](rules/traits/magical.md)  [trap](rules/traits/trap.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 43  
@@ -19,7 +19,7 @@ A [hidden](rules/conditions.md#Hidden) glyph suddenly lights up and dominates th
      
 ```ad-embed-ability
 title: Dominate [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[arcane](rules/traits/arcane.md)  [enchantment](rules/traits/enchantment.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  
 
 - **Trigger**: A creature who doesn't bear the sigil of Kharnas attempts to open the door
 

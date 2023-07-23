@@ -11,7 +11,7 @@ tags:
 aliases: ["Stone Lance"]
 ---
 # Stone Lance *Focus 3*   
-[attack](rules/traits/attack.md)  [earth](rules/traits/earth.md)  [evocation](rules/traits/evocation.md)  [uncommon](rules/traits/uncommon.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**120 foot

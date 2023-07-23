@@ -7,7 +7,7 @@ tags:
 aliases: ["Tactical Debilitations"]
 ---
 # Tactical Debilitations  *Feat 10*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Prerequisites**: Scoundrel racket, [Debilitating Strike](rules/actions/debilitating-strike.md)
 

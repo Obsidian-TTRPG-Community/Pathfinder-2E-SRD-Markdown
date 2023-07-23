@@ -10,7 +10,7 @@ tags:
 aliases: ["Horn of Fog"]
 ---
 # Horn of Fog *Item 6*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [water](rules/traits/water.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
 - **Price** 230 gp
 - **Usage** held in 1 hand; **Bulk** 1

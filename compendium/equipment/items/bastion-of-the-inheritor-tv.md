@@ -11,7 +11,7 @@ tags:
 aliases: ["Bastion of the Inheritor"]
 ---
 # Bastion of the Inheritor *Item 12*  
-[enchantment](rules/traits/enchantment.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1750 gp
 - **Usage** worn armor; **Bulk** 5

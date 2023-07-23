@@ -8,7 +8,7 @@ tags:
 aliases: ["Raving Spirit"]
 ---
 # Raving Spirit *Hazard 11*  
-[complex](rules/traits/complex.md)  [haunt](rules/traits/haunt.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +20 expert or DC 30 (master) to detect the spiritual nexus.  
@@ -19,7 +19,7 @@ The restless spirit of Currew raves against his tormentors when someone enters h
      
 ```ad-embed-ability
 title: Raving Diatribe [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[death](rules/traits/death.md)  [emotion](rules/traits/emotion.md)  [fear](rules/traits/fear.md)  [illusion](rules/traits/illusion.md)  [mental](rules/traits/mental.md)  [occult](rules/traits/occult.md)  
+[death](rules/traits/death.md "Death Effect Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 - **Trigger**: A creature remains in area B3 for longer than 1 round
 

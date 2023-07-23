@@ -9,7 +9,7 @@ tags:
 aliases: ["Ringmaster's Introduction"]
 ---
 # Ringmaster's Introduction  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 20*  
-[auditory](rules/traits/auditory.md)  [bard](rules/traits/bard.md)  [uncommon](rules/traits/uncommon.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [bard](rules/traits/bard.md "Bard Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Trigger** An ally's turn begins.
 - **Requirements**: The ally hasn't acted in the current combat.

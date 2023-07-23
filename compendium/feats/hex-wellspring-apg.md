@@ -7,7 +7,7 @@ tags:
 aliases: ["Hex Wellspring"]
 ---
 # Hex Wellspring  *Feat 18*  
-[witch](rules/traits/witch-apg.md)  
+[witch](rules/traits/witch-apg.md "Witch Class Trait")  
 
 - **Prerequisites**: [Hex Focus](compendium/feats/hex-focus-apg.md)
 

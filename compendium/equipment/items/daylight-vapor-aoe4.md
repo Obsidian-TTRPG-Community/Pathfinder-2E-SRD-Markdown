@@ -12,14 +12,14 @@ tags:
 aliases: ["Daylight Vapor"]
 ---
 # Daylight Vapor *Item 13*  
-[consumable](rules/traits/consumable.md)  [divine](rules/traits/divine.md)  [inhaled](rules/traits/inhaled.md)  [poison](rules/traits/poison.md)  [uncommon](rules/traits/uncommon.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [inhaled](rules/traits/inhaled.md "Inhaled Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 500 gp
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md)
 - **Category** Poison
 
-This heavier-than-air mist emits a soft glow. While this poison lasts, it causes its victims to shine from within with agonizing, brilliant radiance. This effect has the [light](rules/traits/light.md) trait (although the poison itself doesn't, so only the [light](rules/traits/light.md) effect can be counteracted by [darkness](rules/traits/darkness.md) effects). The [sickened](rules/conditions.md#Sickened) condition from daylight vapor can't be removed while the poison lasts, and when the victim enters an area of magical darkness, the poison attempts to counteract the darkness with a counteract modifier of +21. If the poison fails, it can't attempt to counteract the same darkness again.
+This heavier-than-air mist emits a soft glow. While this poison lasts, it causes its victims to shine from within with agonizing, brilliant radiance. This effect has the [light](rules/traits/light.md "Light Effect Trait") trait (although the poison itself doesn't, so only the [light](rules/traits/light.md "Light Effect Trait") effect can be counteracted by [darkness](rules/traits/darkness.md "Darkness Effect Trait") effects). The [sickened](rules/conditions.md#Sickened) condition from daylight vapor can't be removed while the poison lasts, and when the victim enters an area of magical darkness, the poison attempts to counteract the darkness with a counteract modifier of +21. If the poison fails, it can't attempt to counteract the same darkness again.
 
 ```ad-inline-affliction
 title: Saving Throw: DC 31 Fortitude

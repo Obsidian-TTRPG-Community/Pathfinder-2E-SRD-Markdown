@@ -10,7 +10,7 @@ tags:
 aliases: ["Extinguish Light"]
 ---
 # Extinguish Light  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 5*  
-[darkness](rules/traits/darkness.md)  [evocation](rules/traits/evocation.md)  [fetchling](rules/traits/fetchling-b2.md)  [occult](rules/traits/occult.md)  
+[darkness](rules/traits/darkness.md "Darkness Effect Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [fetchling](rules/traits/fetchling-b2.md "Fetchling Ancestry & Heritage Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 - **Frequency**: once every 10 minutes
 - **Activity** Two-Action

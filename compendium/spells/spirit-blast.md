@@ -9,9 +9,9 @@ tags:
 aliases: ["Spirit Blast"]
 ---
 # Spirit Blast *Spell 6*   
-[force](rules/traits/force.md)  [necromancy](rules/traits/necromancy.md)  
+[force](rules/traits/force.md "Force Energy & Element Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md), [occult](rules/traits/occult.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot
 - **Targets**1 creature

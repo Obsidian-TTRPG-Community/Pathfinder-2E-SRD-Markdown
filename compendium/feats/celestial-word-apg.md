@@ -7,7 +7,7 @@ tags:
 aliases: ["Celestial Word"]
 ---
 # Celestial Word  *Feat 17*  
-[aasimar](rules/traits/aasimar-apg.md)  
+[aasimar](rules/traits/aasimar-apg.md "Aasimar Ancestry & Heritage Trait")  
 
 
 You can call forth a holy word from the celestial realms to punish your foes. Once per day, you can cast [divine decree](compendium/spells/divine-decree.md) as a 7th-level divine innate spell. You must choose good for the spell's alignment, and you can [Cast the Spell](rules/actions/cast-a-spell.md) regardless of whether you worship a deity or what their alignment is.

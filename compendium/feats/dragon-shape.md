@@ -7,7 +7,7 @@ tags:
 aliases: ["Dragon Shape"]
 ---
 # Dragon Shape  *Feat 12*  
-[druid](rules/traits/druid.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  
 
 - **Prerequisites**: [Soaring Shape](compendium/feats/soaring-shape.md)
 

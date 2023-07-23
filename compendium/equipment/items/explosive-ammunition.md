@@ -11,7 +11,7 @@ tags:
 aliases: ["Explosive Ammunition"]
 ---
 # Explosive Ammunition *Item 9+*  
-[consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  [magical](rules/traits/magical.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Ammunition** any
 - **Activate** [Interact](rules/actions/interact.md)

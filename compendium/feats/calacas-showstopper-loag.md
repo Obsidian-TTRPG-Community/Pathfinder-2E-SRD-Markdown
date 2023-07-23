@@ -11,7 +11,7 @@ tags:
 aliases: ["Calaca's Showstopper"]
 ---
 # Calaca's Showstopper  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 13*  
-[auditory](rules/traits/auditory.md)  [divine](rules/traits/divine.md)  [duskwalker](rules/traits/duskwalker-apg.md)  [enchantment](rules/traits/enchantment.md)  [incapacitation](rules/traits/incapacitation.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [duskwalker](rules/traits/duskwalker-apg.md "Duskwalker Ancestry & Heritage Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  
 
 - **Prerequisites**: expert in [Performance](compendium/skills.md#Performance)
 - **Frequency**: once per day

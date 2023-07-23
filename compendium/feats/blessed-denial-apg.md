@@ -7,7 +7,7 @@ tags:
 aliases: ["Blessed Denial"]
 ---
 # Blessed Denial  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Blessed One Dedication](compendium/feats/blessed-one-dedication-apg.md)
 - **Trigger** An ally within 30 feet would become [frightened](rules/conditions.md#Frightened), [drained](rules/conditions.md#Drained), [enfeebled](rules/conditions.md#Enfeebled), [sickened](rules/conditions.md#Sickened), or [stupefied](rules/conditions.md#Stupefied).

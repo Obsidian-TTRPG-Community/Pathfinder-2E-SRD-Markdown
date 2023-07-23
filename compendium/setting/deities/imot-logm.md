@@ -10,12 +10,12 @@ tags:
 - domain/glyph/deity
 aliases: ["Imot", "The Symbol of Doom"]
 ---
-# Imot (The Symbol of Doom) *([N](rules/traits/neutral-b1.md))*  
+# Imot (The Symbol of Doom) *([N](rules/traits/n-b1.md "Neutral Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 130*  
 
 - **Category**: Monitor Demigods
 - **Anathema**: withhold your understanding of a portent, prevent the destruction of things that cannot be saved
-- **Follower Alignments**: [NG](rules/traits/neutral-good-b1.md), [N](rules/traits/neutral-b1.md), [CN](rules/traits/chaotic-neutral-b1.md)
+- **Follower Alignments**: [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")
 
 ## Devotee benefits
 

@@ -7,11 +7,11 @@ tags:
 aliases: ["Azarketi Weapon Aptitude"]
 ---
 # Azarketi Weapon Aptitude  *Feat 5*  
-[azarketi](rules/traits/azarketi-loag.md)  
+[azarketi](rules/traits/azarketi-loag.md "Azarketi Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Azarketi Weapon Familiarity](compendium/feats/azarketi-weapon-familiarity-aaws.md)
 
-You become familiar with using your weapons both in and out of water. Whenever you critically hit using an [azarketi](rules/traits/azarketi-loag.md) weapon or one of the weapons listed in [Azarketi Weapon Familiarity](compendium/feats/azarketi-weapon-familiarity-aaws.md), you apply the weapon's critical specialization effect.
+You become familiar with using your weapons both in and out of water. Whenever you critically hit using an [azarketi](rules/traits/azarketi-loag.md "Azarketi Ancestry & Heritage Trait") weapon or one of the weapons listed in [Azarketi Weapon Familiarity](compendium/feats/azarketi-weapon-familiarity-aaws.md), you apply the weapon's critical specialization effect.
 
 *Source: Azarketi Ancestry Web Supplement p. 5*  
 %% #compendium/src/pf2e/aaws #trait/azarketi %%

@@ -10,7 +10,7 @@ tags:
 aliases: ["Stanching"]
 ---
 # Stanching *Item 5+*  
-[magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [uncommon](rules/traits/uncommon.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Usage** etched onto armor
 - **Category** Rune

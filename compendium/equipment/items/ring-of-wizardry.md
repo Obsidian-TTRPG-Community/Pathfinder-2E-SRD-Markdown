@@ -11,7 +11,7 @@ tags:
 aliases: ["Ring of Wizardry"]
 ---
 # Ring of Wizardry *Item 7+*  
-[arcane](rules/traits/arcane.md)  [divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [uncommon](rules/traits/uncommon.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Usage** worn; **Bulk** —
 - **Category** Worn

@@ -10,7 +10,7 @@ tags:
 aliases: ["Tree Of Dreadful Dreams"]
 ---
 # Tree Of Dreadful Dreams *Hazard 10*  
-[complex](rules/traits/complex.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  [trap](rules/traits/trap.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +22 expert  
@@ -36,7 +36,7 @@ title: Routine
 (3 actions) The statue uses each action to attempt a branch [Strike](rules/actions/strike.md) against a random creature in the room that it hasn't [grabbed](rules/conditions.md#Grabbed). If there are no creatures for it to attack and it has at least one creature [grabbed](rules/conditions.md#Grabbed), it instead Constricts. The trap can have up to six creatures [grabbed](rules/conditions.md#Grabbed).
 
 ```ad-inline-attack
-title: Melee [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Branch (26) ([reach <20 feet>](rules/traits/reach.md))
+title: Melee [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Branch (26) ([reach <20 feet>](rules/traits/reach-20-feet.md "Reach Weapon Trait"))
 **Damage** `2d10+12` bludgeoning plus the target is [grabbed](rules/conditions.md#Grabbed) by the tree 
  
 **Effects** the target is [grabbed](rules/conditions.md#Grabbed) by the tree

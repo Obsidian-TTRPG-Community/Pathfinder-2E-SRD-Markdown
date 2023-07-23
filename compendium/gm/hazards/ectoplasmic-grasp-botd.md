@@ -7,7 +7,7 @@ tags:
 aliases: ["Ectoplasmic Grasp"]
 ---
 # Ectoplasmic Grasp *Hazard 5*  
-[haunt](rules/traits/haunt.md)  
+[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 23 trained to notice ectoplasm coalescing  

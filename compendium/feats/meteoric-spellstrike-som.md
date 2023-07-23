@@ -9,7 +9,7 @@ tags:
 aliases: ["Meteoric Spellstrike"]
 ---
 # Meteoric Spellstrike  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 10*  
-[arcane](rules/traits/arcane.md)  [evocation](rules/traits/evocation.md)  [magus](rules/traits/magus-som.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magus](rules/traits/magus-som.md "Magus Class Trait")  
 
 - **Prerequisites**: [Spellstrike](rules/actions/spellstrike-som.md), starlit span hybrid study
 - **Requirements**: You're wielding a ranged or thrown weapon, or have a ranged unarmed attack.

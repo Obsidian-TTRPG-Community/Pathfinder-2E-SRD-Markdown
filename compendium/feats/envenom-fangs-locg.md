@@ -7,7 +7,7 @@ tags:
 aliases: ["Envenom Fangs"]
 ---
 # Envenom Fangs  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 5*  
-[lizardfolk](rules/traits/lizardfolk-b1.md)  
+[lizardfolk](rules/traits/lizardfolk-b1.md "Lizardfolk Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Sharp Fangs](compendium/feats/sharp-fangs-locg.md)
 - **Frequency**: a number of times per day equal to your level

@@ -8,7 +8,7 @@ tags:
 aliases: ["Awakened Power"]
 ---
 # Awakened Power  *Feat 4*  
-[deviant](rules/traits/deviant-da.md)  [rare](rules/traits/rare.md)  
+[deviant](rules/traits/deviant-da.md "Deviant Action & Ability Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 
 Your power spontaneously evolves or reconfigures itself. You gain one awakening benefit for a deviant feat of 4th level or lower.

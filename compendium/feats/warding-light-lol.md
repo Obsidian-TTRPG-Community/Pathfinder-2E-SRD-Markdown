@@ -7,7 +7,7 @@ tags:
 aliases: ["Warding Light"]
 ---
 # Warding Light  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Bright Lion Dedication](compendium/feats/bright-lion-dedication-lol.md)
 

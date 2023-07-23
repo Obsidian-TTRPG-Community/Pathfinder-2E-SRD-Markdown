@@ -7,7 +7,7 @@ tags:
 aliases: ["Clever Gambit"]
 ---
 # Clever Gambit  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 2*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Prerequisites**: mastermind racket
 - **Trigger** Your [Strike](rules/actions/strike.md) critically hits and deals damage to a creature you've identified with [Recall Knowledge](rules/actions/recall-knowledge.md).

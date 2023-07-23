@@ -7,7 +7,7 @@ tags:
 aliases: ["Lastwall Warden"]
 ---
 # Lastwall Warden  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Lastwall Sentry Dedication](compendium/feats/lastwall-sentry-dedication-lowg.md)
 

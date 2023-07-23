@@ -7,7 +7,7 @@ tags:
 aliases: ["Invisible Trickster"]
 ---
 # Invisible Trickster  *Feat 13*  
-[sprite](rules/traits/sprite-b1.md)  
+[sprite](rules/traits/sprite-b1.md "Sprite Ancestry & Heritage Trait")  
 
 
 You have learned how to become [invisible](rules/conditions.md#Invisible) and remain so. You can cast 4th-level [invisibility](compendium/spells/invisibility.md) as a primal innate spell once per hour.

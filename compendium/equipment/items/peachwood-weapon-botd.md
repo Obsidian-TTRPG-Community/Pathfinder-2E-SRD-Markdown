@@ -8,7 +8,7 @@ tags:
 aliases: ["Peachwood Weapon"]
 ---
 # Peachwood Weapon *Item 12+*  
-[uncommon](rules/traits/uncommon.md)  
+[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Usage** varies by weapon; **Bulk** varies by weapon
 - **Category** Material

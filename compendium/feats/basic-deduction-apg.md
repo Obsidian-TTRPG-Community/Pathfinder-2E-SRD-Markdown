@@ -7,7 +7,7 @@ tags:
 aliases: ["Basic Deduction"]
 ---
 # Basic Deduction  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Investigator Dedication](compendium/feats/investigator-dedication-apg.md)
 

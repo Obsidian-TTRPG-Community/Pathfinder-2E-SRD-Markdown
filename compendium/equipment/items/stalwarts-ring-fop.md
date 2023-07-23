@@ -10,7 +10,7 @@ tags:
 aliases: ["Stalwart's Ring"]
 ---
 # Stalwart's Ring *Item 5*  
-[invested](rules/traits/invested.md)  [necromancy](rules/traits/necromancy.md)  [uncommon](rules/traits/uncommon.md)  
+[invested](rules/traits/invested.md "Invested Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 160 gp
 - **Usage** worn

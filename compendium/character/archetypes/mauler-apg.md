@@ -15,11 +15,11 @@ You shove your way through legions of foes, knock enemies on all sides to the gr
 title: Mauler Dedication, Feat 2
 collapse: closed
 # Mauler Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: Strength 14
 
-You specialize in weapons that require two hands. You become trained in all simple and martial melee weapons that require two hands to wield or have the [two-hand](rules/traits/two-hand.md) trait. Whenever you gain a class feature that grants you expert or greater proficiency in weapons, you also gain that proficiency rank in these weapons. If you are at least an expert in such a weapon, you gain access to the critical specialization effect with that weapon.
+You specialize in weapons that require two hands. You become trained in all simple and martial melee weapons that require two hands to wield or have the [two-hand](rules/traits/two-hand.md "Two-Hand Weapon Trait") trait. Whenever you gain a class feature that grants you expert or greater proficiency in weapons, you also gain that proficiency rank in these weapons. If you are at least an expert in such a weapon, you gain access to the critical specialization effect with that weapon.
 
 **Special.** You can't select another dedication feat until you have gained two other feats from the mauler archetype.
 
@@ -31,7 +31,7 @@ You specialize in weapons that require two hands. You become trained in all simp
 title: Knockdown, Feat 4*
 collapse: closed
 # Knockdown  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 4*  
-[fighter](rules/traits/fighter.md)  [flourish](rules/traits/flourish.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 > [!pf2-note] This version of [Knockdown](compendium/feats/knockdown.md) is intended for use with the Mauler Archetype. Its level has been changed accordingly.
 
@@ -48,7 +48,7 @@ You make an attack to knock a foe off balance, then follow up immediately with a
 title: Power Attack, Feat 4*
 collapse: closed
 # Power Attack  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 4*  
-[fighter](rules/traits/fighter.md)  [flourish](rules/traits/flourish.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 > [!pf2-note] This version of [Power Attack](compendium/feats/power-attack.md) is intended for use with the Mauler Archetype. Its level has been changed accordingly.
 
@@ -64,7 +64,7 @@ You unleash a particularly powerful attack that clobbers your foe but leaves you
 title: Clear The Way, Feat 6
 collapse: closed
 # Clear The Way  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Mauler Dedication](compendium/feats/mauler-dedication-apg.md)
 - **Requirements**: You're wielding a melee weapon in two hands.
@@ -80,7 +80,7 @@ You put your body behind your massive weapon and swing, shoving enemies to clear
 title: Shoving Sweep, Feat 8
 collapse: closed
 # Shoving Sweep  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Mauler Dedication](compendium/feats/mauler-dedication-apg.md), expert in [Athletics](compendium/skills.md#Athletics)
 - **Trigger** A creature within your reach leaves a square during a move action it's using.
@@ -97,7 +97,7 @@ You swing your weapon at your foe, rebuffing them back. You attempt to [Shove](r
 title: Improved Knockdown, Feat 12*
 collapse: closed
 # Improved Knockdown  *Feat 12*  
-[fighter](rules/traits/fighter.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 > [!pf2-note] This version of [Improved Knockdown](compendium/feats/improved-knockdown.md) is intended for use with the Mauler Archetype. Its level has been changed accordingly.
 
@@ -113,7 +113,7 @@ You can dash your foe to the ground with a single blow. When you use Knockdown, 
 title: Brutal Finish, Feat 14*
 collapse: closed
 # Brutal Finish  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 14*  
-[fighter](rules/traits/fighter.md)  [press](rules/traits/press.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  [press](rules/traits/press.md "Press Combat Trait")  
 
 > [!pf2-note] This version of [Brutal Finish](compendium/feats/brutal-finish.md) is intended for use with the Mauler Archetype. Its level has been changed accordingly.
 
@@ -133,12 +133,12 @@ Your final blow can make an impact even if it rebounds off a foe's defenses. Mak
 title: Hammer Quake, Feat 14*
 collapse: closed
 # Hammer Quake  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 14*  
-[archetype](rules/traits/archetype.md)  [flourish](rules/traits/flourish.md)  [open](rules/traits/open.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  [open](rules/traits/open.md "Open Combat Trait")  
 
 > [!pf2-note] This version of [Hammer Quake](compendium/feats/hammer-quake-apg.md) is intended for use with the Mauler Archetype. Its level has been changed accordingly.
 
 - **Prerequisites**: [Mauler Dedication](compendium/feats/mauler-dedication-apg.md)
-- **Requirements**: You're wielding a non-[finesse](rules/traits/finesse.md) melee weapon in two hands.
+- **Requirements**: You're wielding a non-[finesse](rules/traits/finesse.md "Finesse Weapon Trait") melee weapon in two hands.
 - **Activity** Three-Action
 
 You smash the ground with your weapon, knocking nearby creatures to the ground. Choose a square within your reach, including your own space. If there's a foe in the chosen square, [Strike](rules/actions/strike.md) that foe with the required weapon.
@@ -153,7 +153,7 @@ Then attempt to [Trip](rules/actions/trip.md) every foe in the chosen square plu
 title: Unbalancing Sweep, Feat 14*
 collapse: closed
 # Unbalancing Sweep  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 14*  
-[barbarian](rules/traits/barbarian.md)  [flourish](rules/traits/flourish.md)  [open](rules/traits/open.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  [open](rules/traits/open.md "Open Combat Trait")  
 
 > [!pf2-note] This version of [Unbalancing Sweep](compendium/feats/unbalancing-sweep-apg.md) is intended for use with the Mauler Archetype. Its level has been changed accordingly.
 
@@ -171,7 +171,7 @@ Whichever of the two options you choose, roll a separate [Athletics](compendium/
 title: Avalanche Strike, Feat 16*
 collapse: closed
 # Avalanche Strike  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 16*  
-[archetype](rules/traits/archetype.md)  [flourish](rules/traits/flourish.md)  [open](rules/traits/open.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  [open](rules/traits/open.md "Open Combat Trait")  
 
 > [!pf2-note] This version of [Avalanche Strike](compendium/feats/avalanche-strike-apg.md) is intended for use with the Mauler Archetype. Its level has been changed accordingly.
 

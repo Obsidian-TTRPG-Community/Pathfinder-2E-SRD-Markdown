@@ -7,7 +7,7 @@ tags:
 aliases: ["Guiding Luck"]
 ---
 # Guiding Luck  *Feat 9*  
-[halfling](rules/traits/halfling.md)  
+[halfling](rules/traits/halfling.md "Halfling Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Halfling Luck](compendium/feats/halfling-luck.md)
 

@@ -11,7 +11,7 @@ tags:
 aliases: ["Staff-storing Shield"]
 ---
 # Staff-storing Shield *Item 7+*  
-[extradimensional](rules/traits/extradimensional.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+[extradimensional](rules/traits/extradimensional.md "Extradimensional Effect Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Held

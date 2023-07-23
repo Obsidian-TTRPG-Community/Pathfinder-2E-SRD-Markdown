@@ -9,7 +9,7 @@ tags:
 aliases: ["Magnetic Shield"]
 ---
 # Magnetic Shield *Item 5*  
-[alchemical](rules/traits/alchemical.md)  [aura](rules/traits/aura.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [aura](rules/traits/aura.md "Aura Combat Trait")  
 
 - **Price** 130 gp
 - **Usage** held in 1 hand; **Bulk** 1

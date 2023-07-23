@@ -11,7 +11,7 @@ tags:
 aliases: ["Lion Scythe"]
 ---
 # Lion Scythe *Item 0*  
-[agile](rules/traits/agile.md)  [finesse](rules/traits/finesse.md)  [trip](rules/traits/trip.md)  [uncommon](rules/traits/uncommon.md)  
+[agile](rules/traits/agile.md "Agile Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [trip](rules/traits/trip.md "Trip Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1 gp
 - **Bulk** L

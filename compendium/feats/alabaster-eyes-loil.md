@@ -7,7 +7,7 @@ tags:
 aliases: ["Alabaster Eyes"]
 ---
 # Alabaster Eyes  *Feat 1*  
-[vishkanya](rules/traits/vishkanya-loil.md)  
+[vishkanya](rules/traits/vishkanya-loil.md "Vishkanya Ancestry & Heritage Trait")  
 
 
 In place of the normal vishkanyan golden eyes, you were born with especially perceptive snow-white eyes. You gain darkvision.

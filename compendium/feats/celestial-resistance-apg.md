@@ -7,7 +7,7 @@ tags:
 aliases: ["Celestial Resistance"]
 ---
 # Celestial Resistance  *Feat 5*  
-[aasimar](rules/traits/aasimar-apg.md)  
+[aasimar](rules/traits/aasimar-apg.md "Aasimar Ancestry & Heritage Trait")  
 
 
 Your growing connection to your celestial forebears has granted you one of their resistances as well. Choose one of the following energy damage types: acid, cold, electricity, fire, or sonic. You gain resistance 5 to that damage type.

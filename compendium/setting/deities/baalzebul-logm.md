@@ -10,12 +10,12 @@ tags:
 - domain/trickery/deity
 aliases: ["Baalzebul", "Lord of Flies"]
 ---
-# Baalzebul (Lord of Flies) *([LE](rules/traits/lawful-evil-b1.md))*  
+# Baalzebul (Lord of Flies) *([LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 74*  
 
 - **Category**: Archdevils
 - **Anathema**: provoke Baalzebul's envy, show humility
-- **Follower Alignments**: [LE](rules/traits/lawful-evil-b1.md)
+- **Follower Alignments**: [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait")
 
 ## Devotee benefits
 

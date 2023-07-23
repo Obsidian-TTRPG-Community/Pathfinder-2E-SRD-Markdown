@@ -8,7 +8,7 @@ tags:
 aliases: ["Klar"]
 ---
 # Klar *Item 0*  
-[integrated <1d6 S (versatile P)>](rules/traits/integrated-tv.md)  
+[integrated <1d6 S (versatile P)>](rules/traits/integrated-1d6-s-versatile-p-tv.md "Integrated Item Trait")  
 
 - **Price** 3 gp
 - **Bulk** 1

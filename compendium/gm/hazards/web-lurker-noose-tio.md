@@ -8,7 +8,7 @@ tags:
 aliases: ["Web Lurker Noose"]
 ---
 # Web Lurker Noose *Hazard 2*  
-[mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  
+[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 22 [Perception](compendium/skills.md#Perception) check  
@@ -25,7 +25,7 @@ Discreet webbing at throat level snags a creature that walks into it.
      
 ```ad-embed-ability
 title: Web Noose [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[attack](rules/traits/attack.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  
 
 If a creature steps into the square with the web trip wire, the web lurker noose makes a noose Strike against the creature.  
 %% #trait/attack %%

@@ -10,12 +10,12 @@ tags:
 - domain/zeal/deity
 aliases: ["Gyronna", "The Angry Hag"]
 ---
-# Gyronna (The Angry Hag) *([CE](rules/traits/chaotic-evil-b1.md))*  
+# Gyronna (The Angry Hag) *([CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 130*  
 
 - **Category**: Other Gods
 - **Anathema**: allow others to slight you without retaliation, seek the approval of society, forgive those who have wronged you
-- **Follower Alignments**: [NE](rules/traits/neutral-evil-b1.md), [CE](rules/traits/chaotic-evil-b1.md)
+- **Follower Alignments**: [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
 

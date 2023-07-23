@@ -8,7 +8,7 @@ tags:
 aliases: ["Seize"]
 ---
 # Seize  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 14*  
-[archetype](rules/traits/archetype.md)  [flourish](rules/traits/flourish.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 - **Prerequisites**: [Zombie Dedication](compendium/feats/zombie-dedication-botd.md)
 - **Requirements**: Your last action was a successful fist [Strike](rules/actions/strike.md) against a creature no more than one size larger than you.

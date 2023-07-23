@@ -9,7 +9,7 @@ tags:
 aliases: ["Ghost Ammunition"]
 ---
 # Ghost Ammunition *Item 14*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 900 gp
 - **Ammunition** any

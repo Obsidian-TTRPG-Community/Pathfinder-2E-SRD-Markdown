@@ -10,12 +10,12 @@ tags:
 - domain/water/deity
 aliases: ["Kelizandri", "The Brackish Emperor"]
 ---
-# Kelizandri (The Brackish Emperor) *([NE](rules/traits/neutral-evil-b1.md))*  
+# Kelizandri (The Brackish Emperor) *([NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 126*  
 
 - **Category**: Elemental Lords
 - **Anathema**: destroy a body of water, use magic to calm the waves
-- **Follower Alignments**: [LE](rules/traits/lawful-evil-b1.md), [N](rules/traits/neutral-b1.md), [NE](rules/traits/neutral-evil-b1.md), [CE](rules/traits/chaotic-evil-b1.md)
+- **Follower Alignments**: [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
 

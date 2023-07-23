@@ -7,7 +7,7 @@ tags:
 aliases: ["Caravan Leader"]
 ---
 # Caravan Leader  *Feat 11*  
-[general](rules/traits/general.md)  
+[general](rules/traits/general.md "General Feat Trait")  
 
 - **Prerequisites**: Constitution 18, [Pick Up the Pace](compendium/feats/pick-up-the-pace-apg.md)
 

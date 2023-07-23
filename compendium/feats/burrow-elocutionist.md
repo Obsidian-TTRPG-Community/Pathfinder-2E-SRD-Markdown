@@ -7,7 +7,7 @@ tags:
 aliases: ["Burrow Elocutionist"]
 ---
 # Burrow Elocutionist  *Feat 1*  
-[gnome](rules/traits/gnome.md)  
+[gnome](rules/traits/gnome.md "Gnome Ancestry & Heritage Trait")  
 
 
 You recognize the chittering of ground creatures as its own peculiar language. You can ask questions of, receive answers from, and use the [Diplomacy](compendium/skills.md#Diplomacy) skill with animals that have a burrow Speed, such as badgers, ground squirrels, moles, and prairie dogs. The GM determines which animals count for this ability.

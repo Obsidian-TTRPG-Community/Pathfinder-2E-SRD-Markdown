@@ -11,7 +11,7 @@ tags:
 aliases: ["Titan's Grasp"]
 ---
 # Titan's Grasp *Item 18*  
-[apex](rules/traits/apex.md)  [evocation](rules/traits/evocation.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+[apex](rules/traits/apex.md "Apex Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 24000 gp
 - **Usage** worn gloves; **Bulk** L
@@ -23,7 +23,7 @@ When you invest the gloves, you either increase your Strength score by 2 or incr
 
 ```ad-embed-ability
 title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[sonic](rules/traits/sonic.md)  
+[sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  
 
 - **Requirements**: You have two hands free
 

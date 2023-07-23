@@ -7,7 +7,7 @@ tags:
 aliases: ["Desperate Hunger"]
 ---
 # Desperate Hunger *Hazard 12*  
-[haunt](rules/traits/haunt.md)  
+[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 35 master to feel an odd sense of hunger  
@@ -18,7 +18,7 @@ A skeletally thin spirit appears, weeping as it shoves earth and stones down its
      
 ```ad-embed-ability
 title: Desperate Meal [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[occult](rules/traits/occult.md)  [transmutation](rules/traits/transmutation.md)  
+[occult](rules/traits/occult.md "Occult Tradition Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Trigger**: A creature approaches within 10 feet
 

@@ -12,7 +12,7 @@ tags:
 aliases: ["Shatterstone"]
 ---
 # Shatterstone *Item 12+*  
-[alchemical](rules/traits/alchemical.md)  [bomb](rules/traits/bomb.md)  [consumable](rules/traits/consumable.md)  [sonic](rules/traits/sonic.md)  [splash](rules/traits/splash.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [bomb](rules/traits/bomb.md "Bomb Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  [splash](rules/traits/splash.md "Splash Weapon Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Strike](rules/actions/strike.md)

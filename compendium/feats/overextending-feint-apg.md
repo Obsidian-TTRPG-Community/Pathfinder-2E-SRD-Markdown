@@ -7,7 +7,7 @@ tags:
 aliases: ["Overextending Feint"]
 ---
 # Overextending Feint  *Feat 1*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Prerequisites**: trained in [Deception](compendium/skills.md#Deception)
 

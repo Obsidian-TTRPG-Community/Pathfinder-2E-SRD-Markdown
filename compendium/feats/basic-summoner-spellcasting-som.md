@@ -7,7 +7,7 @@ tags:
 aliases: ["Basic Summoner Spellcasting"]
 ---
 # Basic Summoner Spellcasting  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Summoner Dedication](compendium/feats/summoner-dedication-som.md)
 

@@ -13,7 +13,7 @@ tags:
 aliases: ["Lifeblight Residue"]
 ---
 # Lifeblight Residue *Item 15*  
-[consumable](rules/traits/consumable.md)  [divine](rules/traits/divine.md)  [injury](rules/traits/injury.md)  [poison](rules/traits/poison.md)  [uncommon](rules/traits/uncommon.md)  [virulent](rules/traits/virulent.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [injury](rules/traits/injury.md "Injury Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [virulent](rules/traits/virulent.md "Virulent Item Trait")  
 
 - **Price** 1100 gp
 - **Usage** held in 2 hands; **Bulk** L

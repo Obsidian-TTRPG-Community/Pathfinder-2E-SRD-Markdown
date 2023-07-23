@@ -9,7 +9,7 @@ tags:
 aliases: ["Poisoned Secret Door Trap"]
 ---
 # Poisoned Secret Door Trap *Hazard 14*  
-[magical](rules/traits/magical.md)  [mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 34 master  
@@ -25,7 +25,7 @@ title: or DC
 ```
 ```ad-embed-ability
 title: Spring [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[attack](rules/traits/attack.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  
 
 - **Trigger**: A creature tries to open the door, whether or not it is still locked, without first depressing three specific stones on the door's surface
 
@@ -34,7 +34,7 @@ title: Spring [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Rea
 ```
 ```ad-embed-ability
 title: Purple Worm Venom
-[poison](rules/traits/poison.md)  
+[poison](rules/traits/poison.md "Poison Effect Trait")  
 
 Saving Throw DC 34.  
 %% #trait/poison %%

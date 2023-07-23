@@ -7,7 +7,7 @@ tags:
 aliases: ["Tail Snatch"]
 ---
 # Tail Snatch  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 5*  
-[vanara](rules/traits/vanara-loil.md)  
+[vanara](rules/traits/vanara-loil.md "Vanara Ancestry & Heritage Trait")  
 
 - **Activity** Single Action
 

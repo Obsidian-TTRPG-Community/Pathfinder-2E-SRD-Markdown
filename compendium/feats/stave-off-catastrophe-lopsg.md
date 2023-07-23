@@ -7,7 +7,7 @@ tags:
 aliases: ["Stave Off Catastrophe"]
 ---
 # Stave Off Catastrophe  *Feat 18*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Shoulder Catastrophe](compendium/feats/shoulder-catastrophe-locg.md)
 

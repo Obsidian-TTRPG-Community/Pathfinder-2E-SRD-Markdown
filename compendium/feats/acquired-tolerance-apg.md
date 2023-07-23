@@ -8,7 +8,7 @@ tags:
 aliases: ["Acquired Tolerance"]
 ---
 # Acquired Tolerance  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
-[archetype](rules/traits/archetype.md)  [fortune](rules/traits/fortune.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  
 
 - **Prerequisites**: [Poisoner Dedication](compendium/feats/poisoner-dedication-apg.md)
 - **Trigger** You fail a save against a poison.

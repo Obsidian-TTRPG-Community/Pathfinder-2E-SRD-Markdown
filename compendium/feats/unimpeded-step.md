@@ -7,7 +7,7 @@ tags:
 aliases: ["Unimpeded Step"]
 ---
 # Unimpeded Step  *Feat 1*  
-[champion](rules/traits/champion.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  
 
 - **Prerequisites**: Liberator cause
 

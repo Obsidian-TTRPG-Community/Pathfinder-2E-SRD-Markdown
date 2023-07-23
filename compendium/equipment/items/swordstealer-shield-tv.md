@@ -8,7 +8,7 @@ tags:
 aliases: ["Swordstealer Shield"]
 ---
 # Swordstealer Shield *Item 0*  
-[deflecting <slashing>](rules/traits/deflecting-tv.md)  
+[deflecting <slashing>](rules/traits/deflecting-slashing-tv.md "Deflecting Item Trait")  
 
 - **Price** 6 gp
 - **Bulk** 1

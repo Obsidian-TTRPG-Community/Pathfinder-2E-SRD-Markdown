@@ -7,7 +7,7 @@ tags:
 aliases: ["Performative Weapons Training"]
 ---
 # Performative Weapons Training  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Gladiator Dedication](compendium/feats/gladiator-dedication-apg.md)
 

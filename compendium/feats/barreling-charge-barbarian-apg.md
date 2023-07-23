@@ -8,7 +8,7 @@ tags:
 aliases: ["Barreling Charge (Barbarian)"]
 ---
 # Barreling Charge (Barbarian)  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 4*  
-[barbarian](rules/traits/barbarian.md)  [flourish](rules/traits/flourish.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 - **Prerequisites**: trained in [Athletics](compendium/skills.md#Athletics)
 - **Activity** Two-Action

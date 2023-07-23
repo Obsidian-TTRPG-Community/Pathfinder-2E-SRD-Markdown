@@ -12,13 +12,13 @@ tags:
 - domain/zeal/deity
 aliases: ["The Laborer's Bastion"]
 ---
-# The Laborer's Bastion *([NG](rules/traits/neutral-good-b1.md))*  
+# The Laborer's Bastion *([NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"))*  
 *Source: Lost Omens: Travel Guide p. 94*  
 
 - **Category**: Pantheon
 - **Anathema**: cheat, give into or spread despair, keep silent when faced with oppression, work without respite or enjoyment
 - **Areas of Concern**: laborers, , the oppressed, , daily work, , achievement
-- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [NG](rules/traits/neutral-good-b1.md), [CG](rules/traits/chaotic-good-b1.md)
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")
 
 ## Devotee benefits
 

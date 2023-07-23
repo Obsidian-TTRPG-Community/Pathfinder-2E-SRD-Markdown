@@ -7,7 +7,7 @@ tags:
 aliases: ["Strong Swimmer"]
 ---
 # Strong Swimmer  *Feat 9*  
-[undine](rules/traits/undine-b2.md)  
+[undine](rules/traits/undine-b2.md "Undine Ancestry & Heritage Trait")  
 
 
 Your swim Speed increases to match your land Speed.

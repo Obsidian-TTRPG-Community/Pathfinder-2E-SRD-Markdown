@@ -7,7 +7,7 @@ tags:
 aliases: ["Squirm Free"]
 ---
 # Squirm Free  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 13*  
-[poppet](rules/traits/poppet-lotgb.md)  
+[poppet](rules/traits/poppet-lotgb.md "Poppet Ancestry & Heritage Trait")  
 
 - **Trigger** A creature grabs, immobilizes, or restrains you.
 - **Activity** Reaction

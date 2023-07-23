@@ -11,7 +11,7 @@ tags:
 aliases: ["Master Magus Ring"]
 ---
 # Master Magus Ring *Item 11*  
-[arcane](rules/traits/arcane.md)  [conjuration](rules/traits/conjuration.md)  [focused](rules/traits/focused.md)  [invested](rules/traits/invested.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [focused](rules/traits/focused.md "Focused Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  
 
 - **Price** 1250 gp
 - **Usage** worn; **Bulk** —

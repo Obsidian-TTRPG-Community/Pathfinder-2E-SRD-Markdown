@@ -9,7 +9,7 @@ tags:
 aliases: ["Path of Least Resistance"]
 ---
 # Path of Least Resistance *Focus 4*   
-[divination](rules/traits/divination.md)  [uncommon](rules/traits/uncommon.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 

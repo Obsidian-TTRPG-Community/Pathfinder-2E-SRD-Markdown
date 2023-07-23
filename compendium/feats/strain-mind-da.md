@@ -7,7 +7,7 @@ tags:
 aliases: ["Strain Mind"]
 ---
 # Strain Mind  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 6*  
-[psychic](rules/traits/psychic-da.md)  
+[psychic](rules/traits/psychic-da.md "Psychic Class Trait")  
 
 - **Frequency**: once per hour
 - **Trigger** You cast a psi cantrip.

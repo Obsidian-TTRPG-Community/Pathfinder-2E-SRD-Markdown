@@ -7,7 +7,7 @@ tags:
 aliases: ["Scholar's Inheritance"]
 ---
 # Scholar's Inheritance  *Feat 1*  
-[suli](rules/traits/suli-b2.md)  
+[suli](rules/traits/suli-b2.md "Suli Ancestry & Heritage Trait")  
 
 
 Your parents devoted themselves to alchemical experiments involving elemental energy.

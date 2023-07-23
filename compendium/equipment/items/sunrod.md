@@ -10,7 +10,7 @@ tags:
 aliases: ["Sunrod"]
 ---
 # Sunrod *Item 1*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [light](rules/traits/light.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [light](rules/traits/light.md "Light Effect Trait")  
 
 - **Price** 3 gp
 - **Usage** held in 1 hand; **Bulk** L

@@ -11,7 +11,7 @@ tags:
 aliases: ["Lightweave Scarf"]
 ---
 # Lightweave Scarf *Item 8+*  
-[illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  [spellheart](rules/traits/spellheart-som.md)  [visual](rules/traits/visual.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [spellheart](rules/traits/spellheart-som.md "Spellheart Equipment Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Usage** affixed to armor or a weapon; **Bulk** —
 - **Category** Spellheart

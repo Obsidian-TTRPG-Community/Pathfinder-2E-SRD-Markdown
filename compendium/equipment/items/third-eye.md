@@ -10,7 +10,7 @@ tags:
 aliases: ["Third Eye"]
 ---
 # Third Eye *Item 19*  
-[divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 40000 gp
 - **Usage** worn; **Bulk** —

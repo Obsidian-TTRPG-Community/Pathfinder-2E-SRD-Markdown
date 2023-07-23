@@ -7,7 +7,7 @@ tags:
 aliases: ["Heroes' Call"]
 ---
 # Heroes' Call  *Feat 9*  
-[dwarf](rules/traits/dwarf.md)  
+[dwarf](rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  
 
 
 The songs of ancient heroes echo through your mind and quicken your pulse, especially in dire straits. You gain [heroism](compendium/spells/heroism.md) as a 3rd-level innate occult spell that you can cast once per day. If you [Cast the Spell](rules/actions/cast-a-spell.md) when you have half or fewer Hit Points, you also gain temporary Hit Points equal to twice your level.

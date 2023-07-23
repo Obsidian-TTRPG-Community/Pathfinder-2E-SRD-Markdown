@@ -7,7 +7,7 @@ tags:
 aliases: ["Fiendish Lore"]
 ---
 # Fiendish Lore  *Feat 1*  
-[tiefling](rules/traits/tiefling-b1.md)  
+[tiefling](rules/traits/tiefling-b1.md "Tiefling Ancestry & Heritage Trait")  
 
 
 You were raised by a tiefling or a fiendish relative, or you've devoted yourself to researching the secrets of the fiendish realms. You gain the trained proficiency rank in [Intimidation](compendium/skills.md#Intimidation) and [Religion](compendium/skills.md#Religion). If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice.

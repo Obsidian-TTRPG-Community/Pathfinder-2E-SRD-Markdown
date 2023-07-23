@@ -8,7 +8,7 @@ tags:
 aliases: ["Syu Tak-nwa's Skillful Tresses"]
 ---
 # Syu Tak-nwa's Skillful Tresses  *Feat 4*  
-[uncommon](rules/traits/uncommon.md)  [witch](rules/traits/witch-apg.md)  
+[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [witch](rules/traits/witch-apg.md "Witch Class Trait")  
 
 - **Prerequisites**: [Living Hair](compendium/feats/living-hair-apg.md)
 

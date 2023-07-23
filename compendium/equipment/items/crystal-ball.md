@@ -11,12 +11,12 @@ tags:
 aliases: ["Crystal Ball"]
 ---
 # Crystal Ball *Item 14+*  
-[divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [scrying](rules/traits/scrying.md)  [uncommon](rules/traits/uncommon.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [scrying](rules/traits/scrying.md "Scrying Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Held
 
-This polished crystal sphere enhances scrying magic. Any visual information received through a spell with the [scrying](rules/traits/scrying.md) trait that was cast by the crystal ball appears within the sphere, and any auditory information sounds out from the surface of the sphere. When you cast a [scrying](compendium/spells/scrying.md) spell by any other means while holding the sphere, you can relay any information you receive in the same way, allowing others to see or hear the target.
+This polished crystal sphere enhances scrying magic. Any visual information received through a spell with the [scrying](rules/traits/scrying.md "Scrying Effect Trait") trait that was cast by the crystal ball appears within the sphere, and any auditory information sounds out from the surface of the sphere. When you cast a [scrying](compendium/spells/scrying.md) spell by any other means while holding the sphere, you can relay any information you receive in the same way, allowing others to see or hear the target.
 
 The base version of a crystal ball is a sphere of clear quartz, but other versions are made of different stones.
 

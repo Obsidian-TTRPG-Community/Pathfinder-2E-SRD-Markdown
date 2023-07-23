@@ -12,7 +12,7 @@ tags:
 aliases: ["Rebirth Potion"]
 ---
 # Rebirth Potion *Item 9*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [potion](rules/traits/potion.md)  [rare](rules/traits/rare.md)  [transmutation](rules/traits/transmutation.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [potion](rules/traits/potion.md "Potion Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 150 gp
 - **Usage** held in 1 hand; **Bulk** L

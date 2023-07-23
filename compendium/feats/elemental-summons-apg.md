@@ -7,7 +7,7 @@ tags:
 aliases: ["Elemental Summons"]
 ---
 # Elemental Summons  *Feat 4*  
-[druid](rules/traits/druid.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  
 
 
 You can call the four elements to you. You can spend 10 minutes in concert with nature to replace one of the spells you've prepared in one of your druid spell slots with a [summon elemental](compendium/spells/summon-elemental.md) spell of the same level.

@@ -7,7 +7,7 @@ tags:
 aliases: ["Basic Synergy"]
 ---
 # Basic Synergy  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Summoner Dedication](compendium/feats/summoner-dedication-som.md)
 

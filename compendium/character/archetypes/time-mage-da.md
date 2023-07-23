@@ -19,7 +19,7 @@ For these reasons, most mages merely dabble in time magic, learning a spell or t
 title: Time Mage Dedication, Feat 6
 collapse: closed
 # Time Mage Dedication  *Feat 6*  
-[archetype](rules/traits/archetype.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: You have a spellcasting class feature.
 
@@ -30,14 +30,14 @@ As some of your future knowledge leaks back to your present self, you gain the [
 **Special.** You can't select another dedication feat until you have gained two other feats from the time mage archetype.
 
 *Source: Dark Archive p. 184*  
-%% #trait/uncommon #trait/archetype %%
+%% #trait/archetype #trait/uncommon %%
 ```  
 
 ```ad-embed-feat
 title: Chronocognizance, Feat 7
 collapse: closed
 # Chronocognizance  *Feat 7*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Time Mage Dedication](compendium/feats/time-mage-dedication-da.md), master in [Perception](compendium/skills.md#Perception)
 
@@ -51,7 +51,7 @@ The flows and ebbs of time are obvious to you, as are the tangles that form when
 title: Chronomancer's Secrets, Feat 8
 collapse: closed
 # Chronomancer's Secrets  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Time Mage Dedication](compendium/feats/time-mage-dedication-da.md)
 
@@ -67,7 +67,7 @@ The secrets of time peel back, revealing deeper truths. You gain either the [sta
 title: Future Spell Learning, Feat 8
 collapse: closed
 # Future Spell Learning  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Time Mage Dedication](compendium/feats/time-mage-dedication-da.md)
 
@@ -81,7 +81,7 @@ More future memories of time magic percolate back to the present, teaching you s
 title: What Could Have Been, Feat 8
 collapse: closed
 # What Could Have Been  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  [concentrate](rules/traits/concentrate.md)  [metamagic](rules/traits/metamagic.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 - **Prerequisites**: [Time Mage Dedication](compendium/feats/time-mage-dedication-da.md)
 - **Activity** Free Action
@@ -96,7 +96,7 @@ Rather than conjuring creatures from elsewhere in the world or the planes, you c
 title: Into the Future, Feat 10
 collapse: closed
 # Into the Future  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
-[archetype](rules/traits/archetype.md)  [concentrate](rules/traits/concentrate.md)  [metamagic](rules/traits/metamagic.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 - **Prerequisites**: [Time Mage Dedication](compendium/feats/time-mage-dedication-da.md)
 - **Activity** Single Action
@@ -111,7 +111,7 @@ You know your spell will be needed not now but in a few moments, so you cast you
 title: Read Disaster, Feat 10*
 collapse: closed
 # Read Disaster  *Feat 10*  
-[divination](rules/traits/divination.md)  [exploration](rules/traits/exploration.md)  [oracle](rules/traits/oracle-apg.md)  [prediction](rules/traits/prediction.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  [prediction](rules/traits/prediction.md "Prediction Effect Trait")  
 
 > [!pf2-note] This version of [Read Disaster](compendium/feats/read-disaster-apg.md) is intended for use with the Time Mage Archetype. Its level has been changed accordingly.
 
@@ -126,7 +126,7 @@ You spend 10 minutes and open yourself to the divine mysteries of the world, pee
 title: Quickened Casting (Bard), Feat 12*
 collapse: closed
 # Quickened Casting (Bard)  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 12*  
-[bard](rules/traits/bard.md)  [concentrate](rules/traits/concentrate.md)  [metamagic](rules/traits/metamagic.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 > [!pf2-note] This version of [Quickened Casting (Bard)](compendium/feats/quickened-casting-bard.md) is intended for use with the Time Mage Archetype. Its level has been changed accordingly.
 
@@ -143,7 +143,7 @@ If your next action is to cast a bard cantrip or a bard spell that is at least 2
 title: Plot The Future, Feat 16*
 collapse: closed
 # Plot The Future  *Feat 16*  
-[concentrate](rules/traits/concentrate.md)  [investigator](rules/traits/investigator-apg.md)  [prediction](rules/traits/prediction.md)  [uncommon](rules/traits/uncommon.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [investigator](rules/traits/investigator-apg.md "Investigator Class Trait")  [prediction](rules/traits/prediction.md "Prediction Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 > [!pf2-note] This version of [Plot The Future](compendium/feats/plot-the-future-apg.md) is intended for use with the Time Mage Archetype. Its level has been changed accordingly.
 
@@ -151,14 +151,14 @@ collapse: closed
 You spend 10 minutes in contemplation to uncannily predict how events will play out. Choose a particular goal or activity you plan to engage in within 1 week, or an event you expect might happen within 1 week. You analyze whether it's likely to come to pass, learning whether it's highly likely, somewhat likely, somewhat unlikely, or highly unlikely. You also gain a piece of advice suggesting a course of action you or your allies could take that might make the chosen event more or less likely, whichever you prefer. The GM determines the likeliness of the event and the piece of advice you learn.
 
 *Source: Advanced Player's Guide p. 64*  
-%% #trait/uncommon #trait/concentrate #trait/investigator #trait/prediction %%
+%% #trait/concentrate #trait/investigator #trait/prediction #trait/uncommon %%
 ```  
 
 ```ad-embed-feat
 title: Purge of Moments, Feat 16*
 collapse: closed
 # Purge of Moments  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 16*  
-[archetype](rules/traits/archetype.md)  [concentrate](rules/traits/concentrate.md)  [transmutation](rules/traits/transmutation.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 > [!pf2-note] This version of [Purge of Moments](compendium/feats/purge-of-moments-da.md) is intended for use with the Time Mage Archetype. Its level has been changed accordingly.
 
@@ -166,7 +166,7 @@ collapse: closed
 - **Frequency**: once per hour
 - **Activity** Three-Action
 
-All things eventually end, a truth that you can put into practice by accelerating your passage through time to shake off harmful effects. Five rounds of apparent time occur for you. No one, including you, can act during this time, but effects on you run their course, including beneficial effects, [negative](rules/traits/negative.md) effects, afflictions, conditions, and [persistent damage](rules/conditions.md#Persistent%20Damage). Roll saving throws, flat checks, damage, and any other rolls for those effects normally as if the time had passed. Excessive use of this technique is responsible for more than a few premature gray hairs among time mages.
+All things eventually end, a truth that you can put into practice by accelerating your passage through time to shake off harmful effects. Five rounds of apparent time occur for you. No one, including you, can act during this time, but effects on you run their course, including beneficial effects, [negative](rules/traits/negative.md "Negative Energy & Element Trait") effects, afflictions, conditions, and [persistent damage](rules/conditions.md#Persistent%20Damage). Roll saving throws, flat checks, damage, and any other rolls for those effects normally as if the time had passed. Excessive use of this technique is responsible for more than a few premature gray hairs among time mages.
 
 *Source: Dark Archive p. 185*  
 %% #trait/archetype #trait/concentrate #trait/transmutation %%
@@ -176,7 +176,7 @@ All things eventually end, a truth that you can put into practice by acceleratin
 title: Timeline-Splitting Spell, Feat 18*
 collapse: closed
 # Timeline-Splitting Spell  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 18*  
-[archetype](rules/traits/archetype.md)  [concentrate](rules/traits/concentrate.md)  [divination](rules/traits/divination.md)  [manipulate](rules/traits/manipulate.md)  [metamagic](rules/traits/metamagic.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 > [!pf2-note] This version of [Timeline-Splitting Spell](compendium/feats/timeline-splitting-spell-da.md) is intended for use with the Time Mage Archetype. Its level has been changed accordingly.
 
@@ -196,7 +196,7 @@ Then, choose which of the two spells takes effect, using the previously made rol
 title: Echoing Spell, Feat 20*
 collapse: closed
 # Echoing Spell  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 20*  
-[concentrate](rules/traits/concentrate.md)  [metamagic](rules/traits/metamagic.md)  [sorcerer](rules/traits/sorcerer.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 > [!pf2-note] This version of [Echoing Spell](compendium/feats/echoing-spell-apg.md) is intended for use with the Time Mage Archetype. Its level has been changed accordingly.
 

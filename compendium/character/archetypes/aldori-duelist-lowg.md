@@ -15,7 +15,7 @@ You have sworn the Aldori swordpact and study the art of Aldori dueling, a famed
 title: Aldori Duelist Dedication, Feat 2
 collapse: closed
 # Aldori Duelist Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: You are from the [Broken](rules/conditions.md#Broken) Lands region.
 - **Prerequisites**: trained in [Aldori dueling swords](compendium/equipment/items/aldori-dueling-sword-lowg.md)
@@ -27,14 +27,14 @@ Whenever your proficiency rank in any weapon increases to expert or beyond, you 
 **Special.** You cannot select another dedication feat until you have gained two other feats from the Aldori duelist archetype.
 
 *Source: Lost Omens: World Guide p. 35*  
-%% #trait/uncommon #trait/archetype #trait/dedication %%
+%% #trait/archetype #trait/dedication #trait/uncommon %%
 ```  
 
 ```ad-embed-feat
 title: Aldori Parry, Feat 4
 collapse: closed
 # Aldori Parry  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Aldori Duelist Dedication](compendium/feats/aldori-duelist-dedication-lowg.md)
 - **Requirements**: You are wielding only an Aldori dueling sword and have your other hand or hands free.
@@ -50,7 +50,7 @@ You can parry attacks against you with your Aldori dueling sword. You gain a +2 
 title: Duelist's Edge, Feat 4
 collapse: closed
 # Duelist's Edge  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Aldori Duelist Dedication](compendium/feats/aldori-duelist-dedication-lowg.md)
 - **Trigger** You roll initiative, and you can observe at least one opponent.
@@ -66,7 +66,7 @@ You hone your reaction time through duels and learn to draw your weapon seamless
 title: Aldori Riposte, Feat 6
 collapse: closed
 # Aldori Riposte  [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies") *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Aldori Parry](compendium/feats/aldori-parry-lowg.md)
 - **Trigger** An opponent within your reach critically fails a [Strike](rules/actions/strike.md) against you.
@@ -83,13 +83,13 @@ You riposte with your Aldori dueling sword when your enemy leaves an opening. Ma
 title: Unnerving Prowess, Feat 6
 collapse: closed
 # Unnerving Prowess  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Aldori Duelist Dedication](compendium/feats/aldori-duelist-dedication-lowg.md)
 - **Trigger** You critically succeed at a [Strike](rules/actions/strike.md) or [Disarm](rules/actions/disarm.md) with your Aldori dueling sword
 - **Activity** Free Action
 
-Your incredible skill with your blade unnerves your foes. You attempt to [Demoralize](rules/actions/demoralize.md) the target of your [Strike](rules/actions/strike.md) or [Disarm](rules/actions/disarm.md). This [Demoralize](rules/actions/demoralize.md) attempt does not have the [auditory](rules/traits/auditory.md) trait, nor do you take a penalty to the check if the target doesn't understand your language.
+Your incredible skill with your blade unnerves your foes. You attempt to [Demoralize](rules/actions/demoralize.md) the target of your [Strike](rules/actions/strike.md) or [Disarm](rules/actions/disarm.md). This [Demoralize](rules/actions/demoralize.md) attempt does not have the [auditory](rules/traits/auditory.md "Auditory Effect Trait") trait, nor do you take a penalty to the check if the target doesn't understand your language.
 
 *Source: Lost Omens: World Guide p. 35*  
 %% #trait/archetype %%
@@ -99,7 +99,7 @@ Your incredible skill with your blade unnerves your foes. You attempt to [Demora
 title: Saving Slash, Feat 10
 collapse: closed
 # Saving Slash  [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies") *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Aldori Duelist Dedication](compendium/feats/aldori-duelist-dedication-lowg.md)
 - **Trigger** An opponent critically hits you with a melee attack.

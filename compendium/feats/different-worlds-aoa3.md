@@ -8,7 +8,7 @@ tags:
 aliases: ["Different Worlds"]
 ---
 # Different Worlds  *Feat 1*  
-[general](rules/traits/general.md)  [uncommon](rules/traits/uncommon.md)  
+[general](rules/traits/general.md "General Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: ability to select ancestry feats from multiple ancestries
 

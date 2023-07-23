@@ -8,7 +8,7 @@ tags:
 aliases: ["Garuda's Squall"]
 ---
 # Garuda's Squall  *Feat 5*  
-[aasimar](rules/traits/aasimar-apg.md)  [lineage](rules/traits/lineage-apg.md)  
+[aasimar](rules/traits/aasimar-apg.md "Aasimar Ancestry & Heritage Trait")  [lineage](rules/traits/lineage-apg.md "Lineage  Trait")  
 
 - **Prerequisites**: [Plumekith](compendium/feats/plumekith-loag.md)
 

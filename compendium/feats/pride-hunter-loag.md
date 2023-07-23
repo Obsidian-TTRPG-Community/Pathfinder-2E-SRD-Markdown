@@ -7,7 +7,7 @@ tags:
 aliases: ["Pride Hunter"]
 ---
 # Pride Hunter  *Feat 5*  
-[catfolk](rules/traits/catfolk-b1.md)  
+[catfolk](rules/traits/catfolk-b1.md "Catfolk Ancestry & Heritage Trait")  
 
 
 You avoid the attention of creatures focused on your allies. You can use lesser cover from your allies to [Hide](rules/actions/hide.md).

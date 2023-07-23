@@ -9,7 +9,7 @@ tags:
 aliases: ["Mirror Door"]
 ---
 # Mirror Door *Hazard -1*  
-[magical](rules/traits/magical.md)  [trap](rules/traits/trap.md)  [visual](rules/traits/visual.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 15  
@@ -20,7 +20,7 @@ The reflection of a wall shows a phantom door where none exists. This door can o
      
 ```ad-embed-ability
 title: Appear [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[arcane](rules/traits/arcane.md)  [illusion](rules/traits/illusion.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  
 
 - **Trigger**: A creature views the wall through a mirror's reflection
 

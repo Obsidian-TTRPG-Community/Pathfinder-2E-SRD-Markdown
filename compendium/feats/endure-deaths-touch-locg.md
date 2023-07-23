@@ -7,7 +7,7 @@ tags:
 aliases: ["Endure Death's Touch"]
 ---
 # Endure Death's Touch  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Knight Vigilant Dedication](compendium/feats/knight-vigilant-dedication-locg.md), expert in medium or heavy armor
 - **Trigger** An undead hits you with an unarmed attack.

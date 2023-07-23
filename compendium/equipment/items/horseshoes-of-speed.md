@@ -11,7 +11,7 @@ tags:
 aliases: ["Horseshoes of Speed"]
 ---
 # Horseshoes of Speed *Item 7+*  
-[companion](rules/traits/companion.md)  [invested](rules/traits/invested.md)  [primal](rules/traits/primal.md)  [transmutation](rules/traits/transmutation.md)  
+[companion](rules/traits/companion.md "Companion Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Usage** worn horseshoes; **Bulk** 1
 - **Category** Companion

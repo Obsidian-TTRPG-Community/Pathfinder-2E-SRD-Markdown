@@ -7,7 +7,7 @@ tags:
 aliases: ["Basic Witchcraft"]
 ---
 # Basic Witchcraft  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Witch Dedication](compendium/feats/witch-dedication-apg.md)
 

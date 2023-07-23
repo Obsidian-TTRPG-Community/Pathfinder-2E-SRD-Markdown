@@ -7,7 +7,7 @@ tags:
 aliases: ["Marsh Runner"]
 ---
 # Marsh Runner  *Feat 1*  
-[lizardfolk](rules/traits/lizardfolk-b1.md)  
+[lizardfolk](rules/traits/lizardfolk-b1.md "Lizardfolk Ancestry & Heritage Trait")  
 
 - **Prerequisites**: You have a swim Speed.
 

@@ -9,7 +9,7 @@ tags:
 aliases: ["Inky Tendrils"]
 ---
 # Inky Tendrils *Hazard 20*  
-[complex](rules/traits/complex.md)  [environmental](rules/traits/environmental.md)  [magical](rules/traits/magical.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Complexity** Complex
 - **Stealth** +32  
@@ -43,7 +43,7 @@ This hazard takes no multiple attack penalty.
 ```
 
 ```ad-inline-attack
-title: Melee [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Tentacle (37) ([reach <15 feet>](rules/traits/reach.md))
+title: Melee [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Tentacle (37) ([reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"))
 **Damage** `4d8+15` bludgeoning plus Grab 
  
 **Effects** Grab

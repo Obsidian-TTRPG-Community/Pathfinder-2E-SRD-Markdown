@@ -7,7 +7,7 @@ tags:
 aliases: ["Yamaraj's Grandeur"]
 ---
 # Yamaraj's Grandeur  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 17*  
-[duskwalker](rules/traits/duskwalker-apg.md)  
+[duskwalker](rules/traits/duskwalker-apg.md "Duskwalker Ancestry & Heritage Trait")  
 
 - **Frequency**: once per day
 - **Activity** Two-Action

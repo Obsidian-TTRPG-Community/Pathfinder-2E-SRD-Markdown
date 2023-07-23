@@ -10,7 +10,7 @@ tags:
 aliases: ["Electrified Crystal Ward"]
 ---
 # Electrified Crystal Ward *Focus 3*   
-[electricity](rules/traits/electricity.md)  [evocation](rules/traits/evocation.md)  [rare](rules/traits/rare.md)  
+[electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**touch

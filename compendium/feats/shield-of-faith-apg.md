@@ -7,7 +7,7 @@ tags:
 aliases: ["Shield Of Faith"]
 ---
 # Shield Of Faith  *Feat 10*  
-[cleric](rules/traits/cleric.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  
 
 - **Prerequisites**: [Domain Initiate](compendium/feats/domain-initiate.md)
 

@@ -9,7 +9,7 @@ tags:
 aliases: ["Act Together"]
 ---
 # Act Together [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies")
-[summoner](rules/traits/summoner-som.md)  [tandem](rules/traits/tandem-som.md)  
+[summoner](rules/traits/summoner-som.md "Summoner Class Trait")  [tandem](rules/traits/tandem-som.md "Tandem Action & Ability Trait")  
 *Source: Secrets of Magic p. 53*  
 
 **Class** summoner

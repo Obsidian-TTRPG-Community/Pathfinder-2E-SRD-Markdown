@@ -12,7 +12,7 @@ tags:
 aliases: ["Mistranslator's Draft"]
 ---
 # Mistranslator's Draft *Item 9*  
-[consumable](rules/traits/consumable.md)  [cursed](rules/traits/cursed-gmg.md)  [divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [potion](rules/traits/potion.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [potion](rules/traits/potion.md "Potion Item Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md)

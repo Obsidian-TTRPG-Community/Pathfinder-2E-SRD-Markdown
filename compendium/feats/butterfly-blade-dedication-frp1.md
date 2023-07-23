@@ -9,7 +9,7 @@ tags:
 aliases: ["Butterfly Blade Dedication"]
 ---
 # Butterfly Blade Dedication  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: Defeat a member of the Butterfly Blades in a sanctioned bout.
 - **Prerequisites**: trained in butterfly swords

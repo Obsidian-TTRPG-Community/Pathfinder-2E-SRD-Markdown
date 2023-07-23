@@ -11,7 +11,7 @@ tags:
 aliases: ["Tidal Shield"]
 ---
 # Tidal Shield  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 17*  
-[abjuration](rules/traits/abjuration.md)  [concentrate](rules/traits/concentrate.md)  [primal](rules/traits/primal.md)  [undine](rules/traits/undine-b2.md)  [water](rules/traits/water.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [undine](rules/traits/undine-b2.md "Undine Ancestry & Heritage Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
 - **Frequency**: once per day
 - **Activity** Two-Action

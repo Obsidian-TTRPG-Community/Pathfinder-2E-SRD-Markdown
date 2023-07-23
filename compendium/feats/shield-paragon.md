@@ -7,7 +7,7 @@ tags:
 aliases: ["Shield Paragon"]
 ---
 # Shield Paragon  *Feat 20*  
-[champion](rules/traits/champion.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  
 
 - **Prerequisites**: divine ally (shield)
 

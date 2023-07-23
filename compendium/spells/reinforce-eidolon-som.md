@@ -11,7 +11,7 @@ tags:
 aliases: ["Reinforce Eidolon"]
 ---
 # Reinforce Eidolon *Cantrip 1*   
-[abjuration](rules/traits/abjuration.md)  [cantrip](rules/traits/cantrip.md)  [summoner](rules/traits/summoner-som.md)  [uncommon](rules/traits/uncommon.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [summoner](rules/traits/summoner-som.md "Summoner Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**100 foot

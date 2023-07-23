@@ -7,7 +7,7 @@ tags:
 aliases: ["Swap Investment"]
 ---
 # Swap Investment  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Pathfinder Agent Dedication](compendium/feats/pathfinder-agent-dedication-lowg.md)
 - **Frequency**: once per day

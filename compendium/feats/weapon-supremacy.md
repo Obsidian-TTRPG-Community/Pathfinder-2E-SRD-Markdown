@@ -7,7 +7,7 @@ tags:
 aliases: ["Weapon Supremacy"]
 ---
 # Weapon Supremacy  *Feat 20*  
-[fighter](rules/traits/fighter.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 
 Your skill with weapons lets you attack swiftly at all times. You're permanently [quickened](rules/conditions.md#Quickened). You can use your extra action only to [Strike](rules/actions/strike.md).

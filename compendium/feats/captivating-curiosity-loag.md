@@ -7,7 +7,7 @@ tags:
 aliases: ["Captivating Curiosity"]
 ---
 # Captivating Curiosity  *Feat 9*  
-[fleshwarp](rules/traits/fleshwarp-loag.md)  
+[fleshwarp](rules/traits/fleshwarp-loag.md "Fleshwarp Ancestry & Heritage Trait")  
 
 
 You can snare the attentions of onlookers with your unique appearance. You can cast [enthrall](compendium/spells/enthrall.md) as a 3rd-level occult innate spell once per day.

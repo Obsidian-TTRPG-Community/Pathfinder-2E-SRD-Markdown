@@ -7,7 +7,7 @@ tags:
 aliases: ["Methane Flue"]
 ---
 # Methane Flue *Hazard 8*  
-[environmental](rules/traits/environmental.md)  
+[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 28 expert to hear hissing gas  

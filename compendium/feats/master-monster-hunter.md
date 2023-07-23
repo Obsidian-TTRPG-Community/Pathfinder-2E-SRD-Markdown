@@ -7,7 +7,7 @@ tags:
 aliases: ["Master Monster Hunter"]
 ---
 # Master Monster Hunter  *Feat 10*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: master in [Nature](compendium/skills.md#Nature), [Monster Hunter](compendium/feats/monster-hunter.md)
 

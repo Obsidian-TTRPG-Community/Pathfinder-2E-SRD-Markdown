@@ -12,7 +12,7 @@ tags:
 aliases: ["Inventor's Fulu"]
 ---
 # Inventor's Fulu *Item 6*  
-[consumable](rules/traits/consumable.md)  [fulu](rules/traits/fulu-som.md)  [magical](rules/traits/magical.md)  [talisman](rules/traits/talisman.md)  [transmutation](rules/traits/transmutation.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [fulu](rules/traits/fulu-som.md "Fulu Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 50 gp
 - **Usage** affixed to an innovation; **Bulk** —

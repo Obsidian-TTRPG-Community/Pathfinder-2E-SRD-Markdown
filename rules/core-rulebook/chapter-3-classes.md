@@ -33,7 +33,7 @@ This is the ability score that a member of your class cares about the most. Many
 
 For instance, this is the ability score you'll use to determine the Difficulty Class (DC) associated with your character's class features and feats. This is called your class DC. If your character is a member of a spellcasting class, this key ability is used to calculate spell DCs and similar values.
 
-Most classes are associated with one key ability score, but some allow you to choose from two options. For instance, if you're a fighter, you can choose either Strength or Dexterity as your key ability. A fighter who chooses Strength will excel in hand-to-hand combat, while those who choose Dexterity prefer ranged or [finesse](rules/traits/finesse.md) weapons.
+Most classes are associated with one key ability score, but some allow you to choose from two options. For instance, if you're a fighter, you can choose either Strength or Dexterity as your key ability. A fighter who chooses Strength will excel in hand-to-hand combat, while those who choose Dexterity prefer ranged or [finesse](rules/traits/finesse.md "Finesse Weapon Trait") weapons.
 
 Additionally, when you choose your character's class, they gain an ability boost to their key ability score, increasing that ability score by 2. For more about ability boosts, see page 20.
 
@@ -132,7 +132,7 @@ Ancestry feats are detailed in each ancestry entry in Chapter 2, which begins on
 ### Animal Companions
 <sup>CRB p. 214</sup>
 
-An animal companion is a loyal comrade who follows your orders without you needing to use Handle an Animal on it. Your animal companion has the [animal](rules/traits/animal.md) and [minion](rules/traits/minion.md) traits, and it gains 2 actions during your turn if you use the [Command an Animal](rules/actions/command-an-animal.md) action to command it; this is in place of the usual effects of [Command an Animal](rules/actions/command-an-animal.md). If your companion dies, you can spend a week of downtime to replace it at no cost. You can have only one animal companion at a time.
+An animal companion is a loyal comrade who follows your orders without you needing to use Handle an Animal on it. Your animal companion has the [animal](rules/traits/animal.md "Animal Creature Type Trait") and [minion](rules/traits/minion.md "Minion Creature Trait") traits, and it gains 2 actions during your turn if you use the [Command an Animal](rules/actions/command-an-animal.md) action to command it; this is in place of the usual effects of [Command an Animal](rules/actions/command-an-animal.md). If your companion dies, you can spend a week of downtime to replace it at no cost. You can have only one animal companion at a time.
 
 #### Riding Animal Companions
 <sup>CRB p. 214</sup>
@@ -284,8 +284,8 @@ Each day, you channel your magic into two abilities, which can be either familia
 
 - You can prepare an additional cantrip, or if you have a repertoire, instead designate a cantrip to add to your repertoire every time you select this ability; you can retrain it but can't otherwise change it. You must be able to prepare cantrips or add them to your repertoire to select this.
 - Your familiar grows extra infused reagents on or in its body. You gain an additional batch of infused reagents. You must have the infused reagents ability to select this ability.
-- Once per day, your familiar can use 2 actions with the [concentrate](rules/traits/concentrate.md) to regain 1 Focus Point, up to your usual maximum You must have a focus pool to select this.
-- If your familiar would be reduced to 0 HP by damage, as a reaction with the [concentrate](rules/traits/concentrate.md), you can take the damage. If you do, you take all the damage and your familiar takes none. However, if special effects when a hit damages your familiar (such as snake venom) still apply to your familiar.
+- Once per day, your familiar can use 2 actions with the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") to regain 1 Focus Point, up to your usual maximum You must have a focus pool to select this.
+- If your familiar would be reduced to 0 HP by damage, as a reaction with the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait"), you can take the damage. If you do, you take all the damage and your familiar takes none. However, if special effects when a hit damages your familiar (such as snake venom) still apply to your familiar.
 - You gain one additional spell slot at least 3 levels lower than your highest-level spell slot; you must be able to cast 4th-level spells using spell slots to select this master ability.
 - If your familiar is in your space, you can cast a spell with a range of touch, transfer its power to your familiar, and command the familiar to deliver the spell. If you do, the familiar uses its 2 actions for the round to move to a target of your choice and touch that target. If it doesn't reach the target to touch it this turn, the spell has no effect.
 

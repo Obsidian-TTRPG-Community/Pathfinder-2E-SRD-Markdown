@@ -10,9 +10,9 @@ tags:
 aliases: ["Rip The Spirit"]
 ---
 # Rip The Spirit *Spell 5*   
-[death](rules/traits/death.md)  [necromancy](rules/traits/necromancy.md)  [negative](rules/traits/negative.md)  
+[death](rules/traits/death.md "Death Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md), [occult](rules/traits/occult.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") to [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**30 foot
 - **Targets**1 living creature

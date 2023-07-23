@@ -8,7 +8,7 @@ tags:
 aliases: ["Mature Trained Companion"]
 ---
 # Mature Trained Companion  *Feat 6*  
-[archetype](rules/traits/archetype.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Animal Trainer Dedication](compendium/feats/animal-trainer-dedication-ec2.md)
 
@@ -18,7 +18,7 @@ Your animal companion grows up, becoming a mature animal companion. Increase its
 title: Mesmerizing Performance
 collapse: closed
 # Mesmerizing Performance [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[concentrate](rules/traits/concentrate.md)  [emotion](rules/traits/emotion.md)  [uncommon](rules/traits/uncommon.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 *Source: Extinction Curse #2: Legacy of the Lost God p. 75*  
 
 - **Requirements**: The companion's last action was a successful [Performance](compendium/skills.md#Performance) check to [Perform](rules/actions/perform.md).

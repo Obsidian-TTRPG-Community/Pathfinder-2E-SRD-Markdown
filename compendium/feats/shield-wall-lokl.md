@@ -9,7 +9,7 @@ tags:
 aliases: ["Shield Wall"]
 ---
 # Shield Wall  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
-[champion](rules/traits/champion.md)  [fighter](rules/traits/fighter.md)  [uncommon](rules/traits/uncommon.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  [fighter](rules/traits/fighter.md "Fighter Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: Knights of Lastwall have access to this feat.
 - **Trigger** Your shield is raised and an adjacent ally [Raises a Shield](rules/actions/raise-a-shield.md).

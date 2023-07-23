@@ -8,7 +8,7 @@ tags:
 aliases: ["Party Crasher"]
 ---
 # Party Crasher  *Feat 7*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Dandy Dedication](compendium/feats/dandy-dedication-apg.md), master in [Society](compendium/skills.md#Society)
 

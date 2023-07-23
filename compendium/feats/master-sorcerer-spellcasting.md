@@ -7,7 +7,7 @@ tags:
 aliases: ["Master Sorcerer Spellcasting"]
 ---
 # Master Sorcerer Spellcasting  *Feat 18*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Expert Sorcerer Spellcasting](compendium/feats/expert-sorcerer-spellcasting.md); legendary in [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), or [Religion](compendium/skills.md#Religion), depending on bloodline
 

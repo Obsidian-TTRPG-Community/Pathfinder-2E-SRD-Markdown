@@ -11,7 +11,7 @@ tags:
 aliases: ["Mind Swap"]
 ---
 # Mind Swap *Ritual 5*  
-[mental](rules/traits/mental.md)  [necromancy](rules/traits/necromancy.md)  [possession](rules/traits/possession.md)  [rare](rules/traits/rare.md)  
+[mental](rules/traits/mental.md "Mental Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [possession](rules/traits/possession.md "Possession Effect Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Cast** 1 day
 - **Cost** a pair of jeweled mirrors worth a total value of 50 gp × the level of the highest-level target

@@ -7,7 +7,7 @@ tags:
 aliases: ["Titanic Flytrap"]
 ---
 # Titanic Flytrap *Hazard 4*  
-[environmental](rules/traits/environmental.md)  
+[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 25 trained  
@@ -18,7 +18,7 @@ On the surface, a titanic flytrap appears to be a patch of the more common flytr
 
 - **AC** 21 , **Fort** +15, **Ref** +8
 - **HP** 56 (BT 28)
-- **Immunities** [mental](rules/traits/mental.md)
+- **Immunities** [mental](rules/traits/mental.md "Mental Effect Trait")
 - **Resistances** acid 20; fire 10
 - **Weaknesses** 
      
@@ -37,7 +37,7 @@ The target is trapped by the flytrap's jaws, gaining the [grabbed](rules/conditi
 ```ad-inline-affliction
 title: Titanic Flytrap Toxin
 
-[contact](rules/traits/contact.md)  [poison](rules/traits/poison.md)  
+[contact](rules/traits/contact.md "Contact Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 - **Saving Throws**: DC 21 Fortitude
 - **Maximum Duration**: 4 rounds
 

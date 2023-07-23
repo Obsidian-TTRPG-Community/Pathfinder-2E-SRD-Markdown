@@ -9,7 +9,7 @@ tags:
 aliases: ["Belt of Good Health"]
 ---
 # Belt of Good Health *Item 4*  
-[magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 - **Price** 85 gp
 - **Usage** worn belt

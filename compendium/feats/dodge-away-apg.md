@@ -7,7 +7,7 @@ tags:
 aliases: ["Dodge Away"]
 ---
 # Dodge Away  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Acrobat Dedication](compendium/feats/acrobat-dedication-apg.md)
 - **Trigger** You are the target of a melee attack.

@@ -7,7 +7,7 @@ tags:
 aliases: ["Diehard"]
 ---
 # Diehard  *Feat 1*  
-[general](rules/traits/general.md)  
+[general](rules/traits/general.md "General Feat Trait")  
 
 
 It takes more to kill you than most. You die from the [dying](rules/conditions.md#Dying) condition at [dying](rules/conditions.md#Dying), rather than [dying](rules/conditions.md#Dying).

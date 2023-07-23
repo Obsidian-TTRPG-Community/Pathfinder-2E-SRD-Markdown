@@ -8,7 +8,7 @@ tags:
 aliases: ["Gruesome Strike"]
 ---
 # Gruesome Strike  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 12*  
-[champion](rules/traits/champion.md)  [uncommon](rules/traits/uncommon.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: tenets of evil, champion's reaction that grants extra damage with your [Strikes](rules/actions/strike.md)
 - **Requirements**: Your [Strikes](rules/actions/strike.md) currently deal extra damage from your champion's reaction.

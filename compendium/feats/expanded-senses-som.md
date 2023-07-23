@@ -8,7 +8,7 @@ tags:
 aliases: ["Expanded Senses"]
 ---
 # Expanded Senses  *Feat 1*  
-[evolution](rules/traits/evolution-som.md)  [summoner](rules/traits/summoner-som.md)  
+[evolution](rules/traits/evolution-som.md "Evolution Feat Trait")  [summoner](rules/traits/summoner-som.md "Summoner Class Trait")  
 
 
 Your eidolon evolves more acute senses. Your eidolon gains [low-light vision](rules/abilities/low-light-vision.md) and [darkvision](rules/abilities/darkvision.md), as well as [scent](rules/abilities/scent.md) as an imprecise sense with a range of 30 feet.

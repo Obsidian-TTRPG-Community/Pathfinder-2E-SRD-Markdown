@@ -7,7 +7,7 @@ tags:
 aliases: ["Animal Speaker"]
 ---
 # Animal Speaker  *Feat 5*  
-[sprite](rules/traits/sprite-b1.md)  
+[sprite](rules/traits/sprite-b1.md "Sprite Ancestry & Heritage Trait")  
 
 - **Prerequisites**: ability to communicate with some type of animals (such as bats or arthropods)
 

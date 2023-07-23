@@ -10,7 +10,7 @@ tags:
 aliases: ["Shielding Strike"]
 ---
 # Shielding Strike *Focus 1*   
-[abjuration](rules/traits/abjuration.md)  [magus](rules/traits/magus-som.md)  [uncommon](rules/traits/uncommon.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [magus](rules/traits/magus-som.md "Magus Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 

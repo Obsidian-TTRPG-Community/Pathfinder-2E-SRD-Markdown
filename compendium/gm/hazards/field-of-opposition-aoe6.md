@@ -10,7 +10,7 @@ tags:
 aliases: ["Field Of Opposition"]
 ---
 # Field Of Opposition *Hazard 20*  
-[complex](rules/traits/complex.md)  [illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  [trap](rules/traits/trap.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +35  
@@ -27,12 +27,12 @@ A distortion in space spawns an aggressive, malevolent shadow duplicate of any c
      
 ```ad-embed-ability
 title: Spawn Mirror Duplicate [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[conjuration](rules/traits/conjuration.md)  [divine](rules/traits/divine.md)  [teleportation](rules/traits/teleportation.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  
 
 - **Trigger**: A creature moves between the two glass faces of Olansa Terimor
 
 **Effect** The planar rift disgorges an evil mirror duplicate of the creature (see below), and the duplicate rolls initiative. The field of opposition can use this reaction once per round but can't spawn a duplicate of a creature that already has a mirror duplicate in existence.  
-%% #trait/divine #trait/conjuration #trait/teleportation %%
+%% #trait/conjuration #trait/divine #trait/teleportation %%
 ```
 ```ad-embed-ability
 title: Mirror Duplicate

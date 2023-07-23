@@ -10,7 +10,7 @@ tags:
 aliases: ["Aldori Dueling Sword"]
 ---
 # Aldori Dueling Sword *Item 1*  
-[finesse](rules/traits/finesse.md)  [uncommon](rules/traits/uncommon.md)  [versatile <p>](rules/traits/versatile.md)  
+[finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [versatile <p>](rules/traits/versatile-p.md "Versatile Weapon Trait")  
 
 - **Price** 2 gp
 - **Bulk** 1

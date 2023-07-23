@@ -71,7 +71,7 @@ cssclass: pf2e,pf2e-index
 - [Eritrice](eritrice-logm.md)
 - [Esoteric Order of the Palatine Eye](esoteric-order-of-the-palatine-eye-logm.md)
 - [Falayna](falayna-logm.md)
-- [Findeladlara](findeladlara-logm.md)
+- [Findeladlara](findeladlara-gw3.md)
 - [Folgrit](folgrit-logm.md)
 - [Followers Of Fate](followers-of-fate-b2.md)
 - [Fumeiyoshi](fumeiyoshi-logm.md)

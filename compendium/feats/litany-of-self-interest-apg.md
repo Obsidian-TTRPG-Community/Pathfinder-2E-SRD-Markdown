@@ -8,7 +8,7 @@ tags:
 aliases: ["Litany Of Self-interest"]
 ---
 # Litany Of Self-interest  *Feat 10*  
-[champion](rules/traits/champion.md)  [uncommon](rules/traits/uncommon.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: devotion spells, tenets of evil
 

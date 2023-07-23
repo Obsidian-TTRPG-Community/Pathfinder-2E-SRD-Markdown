@@ -14,7 +14,7 @@ tags:
 aliases: ["Bottled Sunlight"]
 ---
 # Bottled Sunlight *Item 2+*  
-[alchemical](rules/traits/alchemical.md)  [bomb](rules/traits/bomb.md)  [consumable](rules/traits/consumable.md)  [fire](rules/traits/fire.md)  [light](rules/traits/light.md)  [positive](rules/traits/positive.md)  [splash](rules/traits/splash.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [bomb](rules/traits/bomb.md "Bomb Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [light](rules/traits/light.md "Light Effect Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  [splash](rules/traits/splash.md "Splash Weapon Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md)

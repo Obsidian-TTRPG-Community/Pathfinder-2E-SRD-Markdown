@@ -7,7 +7,7 @@ tags:
 aliases: ["Studious Adept"]
 ---
 # Studious Adept  *Feat 9*  
-[anadi](rules/traits/anadi-lome.md)  
+[anadi](rules/traits/anadi-lome.md "Anadi Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Studious Magic](compendium/feats/studious-magic-lome.md)
 

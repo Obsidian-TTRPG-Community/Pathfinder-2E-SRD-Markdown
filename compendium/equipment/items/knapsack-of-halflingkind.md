@@ -13,7 +13,7 @@ tags:
 aliases: ["Knapsack of Halflingkind"]
 ---
 # Knapsack of Halflingkind *Item 9+*  
-[conjuration](rules/traits/conjuration.md)  [extradimensional](rules/traits/extradimensional.md)  [healing](rules/traits/healing.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [extradimensional](rules/traits/extradimensional.md "Extradimensional Effect Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Usage** worn backpack; **Bulk** L
 - **Category** Worn

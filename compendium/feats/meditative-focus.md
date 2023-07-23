@@ -7,7 +7,7 @@ tags:
 aliases: ["Meditative Focus"]
 ---
 # Meditative Focus  *Feat 12*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Prerequisites**: ki spells
 

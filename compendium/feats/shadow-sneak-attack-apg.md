@@ -7,7 +7,7 @@ tags:
 aliases: ["Shadow Sneak Attack"]
 ---
 # Shadow Sneak Attack  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Shadowdancer Dedication](compendium/feats/shadowdancer-dedication-apg.md)
 

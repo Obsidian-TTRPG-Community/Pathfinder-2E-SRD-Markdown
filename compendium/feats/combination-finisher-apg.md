@@ -7,7 +7,7 @@ tags:
 aliases: ["Combination Finisher"]
 ---
 # Combination Finisher  *Feat 6*  
-[swashbuckler](rules/traits/swashbuckler-apg.md)  
+[swashbuckler](rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  
 
 
 You combine a series of attacks with a powerful finishing blow.

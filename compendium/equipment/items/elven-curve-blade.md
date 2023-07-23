@@ -11,7 +11,7 @@ tags:
 aliases: ["Elven Curve Blade"]
 ---
 # Elven Curve Blade *Item 0*  
-[elf](rules/traits/elf.md)  [finesse](rules/traits/finesse.md)  [forceful](rules/traits/forceful.md)  [uncommon](rules/traits/uncommon.md)  
+[elf](rules/traits/elf.md "Elf Ancestry & Heritage Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [forceful](rules/traits/forceful.md "Forceful Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 4 gp
 - **Bulk** 2

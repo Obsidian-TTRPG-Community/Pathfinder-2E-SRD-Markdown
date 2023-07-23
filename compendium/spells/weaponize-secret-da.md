@@ -11,7 +11,7 @@ tags:
 aliases: ["Weaponize Secret"]
 ---
 # Weaponize Secret *Focus 4*   
-[cleric](rules/traits/cleric.md)  [divination](rules/traits/divination.md)  [mental](rules/traits/mental.md)  [rare](rules/traits/rare.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Domains**: [secrecy (apocryphal)](compendium/setting/domains.md#Secrecy)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

@@ -13,7 +13,7 @@ tags:
 aliases: ["Blaze"]
 ---
 # Blaze *Item 2*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [drug](rules/traits/drug-gmg.md)  [ingested](rules/traits/ingested.md)  [poison](rules/traits/poison.md)  [uncommon](rules/traits/uncommon.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [drug](rules/traits/drug-gmg.md "Drug Item Trait")  [ingested](rules/traits/ingested.md "Ingested Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 7 gp
 - **Usage** held in 1 hand; **Bulk** L
@@ -29,7 +29,7 @@ title: Saving Throw: DC 17 Fortitude
 
 ## Stages
 
-**Stage 1** +1 item bonus to saves versus [fire](rules/traits/fire.md) effects, and you treat severe or extreme environmental heat effects as if they were one step lower (1 hour)
+**Stage 1** +1 item bonus to saves versus [fire](rules/traits/fire.md "Fire Energy & Element Trait") effects, and you treat severe or extreme environmental heat effects as if they were one step lower (1 hour)
 
 **Stage 2** [stupefied](rules/conditions.md#Stupefied), and you treat severe or extreme environmental heat effects as if they were one step lower (1 hour)
 

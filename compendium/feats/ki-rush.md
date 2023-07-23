@@ -7,7 +7,7 @@ tags:
 aliases: ["Ki Rush"]
 ---
 # Ki Rush  *Feat 1*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 
 You can use ki to move with extraordinary speed and make yourself harder to hit. You gain the [ki rush](compendium/spells/ki-rush.md) ki spell and a focus pool of 1 Focus Point. The rules for ki spells are summarized in the sidebar on page 157, and the full rules for focus spells appear on page 300.

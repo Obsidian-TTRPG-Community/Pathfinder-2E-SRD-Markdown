@@ -8,7 +8,7 @@ tags:
 aliases: ["Legendary Codebreaker"]
 ---
 # Legendary Codebreaker  *Feat 15*  
-[general](rules/traits/general.md)  [skill](rules/traits/skill.md)  
+[general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: legendary in [Society](compendium/skills.md#Society)
 

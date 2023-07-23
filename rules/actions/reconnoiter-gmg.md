@@ -7,7 +7,7 @@ tags:
 aliases: ["Reconnoiter"]
 ---
 # Reconnoiter
-[concentrate](rules/traits/concentrate.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
 *Source: Gamemastery Guide p. 173*  
 
 **Variant Rule** Hexploration

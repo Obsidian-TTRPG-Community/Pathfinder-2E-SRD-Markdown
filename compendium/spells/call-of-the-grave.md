@@ -12,7 +12,7 @@ tags:
 aliases: ["Call Of The Grave"]
 ---
 # Call Of The Grave *Focus 1*   
-[arcane](rules/traits/arcane.md)  [attack](rules/traits/attack.md)  [necromancy](rules/traits/necromancy.md)  [uncommon](rules/traits/uncommon.md)  [wizard](rules/traits/wizard.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [attack](rules/traits/attack.md "Attack Combat Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot

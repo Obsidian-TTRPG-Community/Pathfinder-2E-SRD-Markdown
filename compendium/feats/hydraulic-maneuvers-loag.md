@@ -12,7 +12,7 @@ tags:
 aliases: ["Hydraulic Maneuvers"]
 ---
 # Hydraulic Maneuvers  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 13*  
-[azarketi](rules/traits/azarketi-loag.md)  [concentrate](rules/traits/concentrate.md)  [manipulate](rules/traits/manipulate.md)  [primal](rules/traits/primal.md)  [transmutation](rules/traits/transmutation.md)  [water](rules/traits/water.md)  
+[azarketi](rules/traits/azarketi-loag.md "Azarketi Ancestry & Heritage Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
 - **Activity** Single Action
 

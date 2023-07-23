@@ -7,7 +7,7 @@ tags:
 aliases: ["Deflect Arrow"]
 ---
 # Deflect Arrow  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 4*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Trigger** You are the target of a physical ranged attack.
 - **Requirements**: You're aware of the attack, are not [flat-footed](rules/conditions.md#Flat-footed) against it, and have a hand free.

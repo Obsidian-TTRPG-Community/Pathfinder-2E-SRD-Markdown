@@ -7,7 +7,7 @@ tags:
 aliases: ["Expert Captivator Spellcasting"]
 ---
 # Expert Captivator Spellcasting  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Captivator Spellcasting](compendium/feats/basic-captivator-spellcasting-lotgb.md)
 

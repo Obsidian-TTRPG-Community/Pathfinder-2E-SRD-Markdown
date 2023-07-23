@@ -9,9 +9,9 @@ tags:
 aliases: ["Summoner's Visage"]
 ---
 # Summoner's Visage *Spell 2*   
-[polymorph](rules/traits/polymorph.md)  [transmutation](rules/traits/transmutation.md)  
+[polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [divine](rules/traits/divine.md), [occult](rules/traits/occult.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**touch
 - **Targets**your eidolon
@@ -19,7 +19,7 @@ aliases: ["Summoner's Visage"]
 
 You transform your eidolon into your identical twin.
 
-Assuming you are a humanoid, the eidolon gains the [humanoid](rules/traits/humanoid.md) trait in addition to its other traits while it's in this form, as well as any other trait related to your form (such as elf or gnome). Your eidolon gains a +4 status bonus to [Deception](compendium/skills.md#Deception) checks to [Impersonate](rules/actions/impersonate.md) you and can add its level to such checks even if it's untrained.
+Assuming you are a humanoid, the eidolon gains the [humanoid](rules/traits/humanoid.md "Humanoid Creature Type Trait") trait in addition to its other traits while it's in this form, as well as any other trait related to your form (such as elf or gnome). Your eidolon gains a +4 status bonus to [Deception](compendium/skills.md#Deception) checks to [Impersonate](rules/actions/impersonate.md) you and can add its level to such checks even if it's untrained.
 
 Although your eidolon looks like you, it doesn't gain any new abilities, and its statistics don't change in any way—the transformation is purely cosmetic. If this transformation reduces your eidolon's size, the eidolon loses any other effects of its larger size, such as any increase to reach.
 

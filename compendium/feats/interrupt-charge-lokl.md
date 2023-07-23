@@ -7,7 +7,7 @@ tags:
 aliases: ["Interrupt Charge"]
 ---
 # Interrupt Charge  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Knight Vigilant Dedication](compendium/feats/knight-vigilant-dedication-locg.md)
 - **Trigger** A foe within reach attempts to move away from you.

@@ -14,7 +14,7 @@ tags:
 aliases: ["Filcher's Fork"]
 ---
 # Filcher's Fork *Item 0*  
-[agile](rules/traits/agile.md)  [backstabber](rules/traits/backstabber.md)  [deadly <d6>](rules/traits/deadly.md)  [finesse](rules/traits/finesse.md)  [halfling](rules/traits/halfling.md)  [thrown <20 ft.>](rules/traits/thrown.md)  [uncommon](rules/traits/uncommon.md)  
+[agile](rules/traits/agile.md "Agile Weapon Trait")  [backstabber](rules/traits/backstabber.md "Backstabber Weapon Trait")  [deadly <d6>](rules/traits/deadly-d6.md "Deadly Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [halfling](rules/traits/halfling.md "Halfling Ancestry & Heritage Trait")  [thrown <20 ft.>](rules/traits/thrown-20-ft.md "Thrown Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1 gp
 - **Bulk** L

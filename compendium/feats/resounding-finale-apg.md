@@ -9,7 +9,7 @@ tags:
 aliases: ["Resounding Finale"]
 ---
 # Resounding Finale  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 16*  
-[abjuration](rules/traits/abjuration.md)  [bard](rules/traits/bard.md)  [concentrate](rules/traits/concentrate.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [bard](rules/traits/bard.md "Bard Class Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
 
 - **Prerequisites**: maestro muse
 - **Trigger** You or an ally benefiting from your composition spell would take sonic damage.

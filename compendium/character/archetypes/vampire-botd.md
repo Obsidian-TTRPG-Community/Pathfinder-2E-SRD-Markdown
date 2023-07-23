@@ -23,15 +23,15 @@ After being exsanguinated by a vampire, you've risen again, pulling yourself fro
 title: Vampire Dedication, Feat 2
 collapse: closed
 # Vampire Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [rare](rules/traits/rare.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Prerequisites**: You were a killed by a vampire drinking your blood.
 
-You're a newly risen vampire. You gain the [undead](rules/traits/undead.md) and [vampire](rules/traits/vampire-b1.md) traits and the basic undead benefits (page 44), and your undead hunger is for the blood of the living. Your incisors elongate; you gain a fangs unarmed attack that deals `1d6` piercing damage. They're in the brawling group and have the [grapple](rules/traits/grapple.md) and [unarmed](rules/traits/unarmed.md) traits. You gain revulsion and sunlight vulnerabilities detailed on page 59 and the Drink Blood ability.
+You're a newly risen vampire. You gain the [undead](rules/traits/undead.md "Undead Creature Type Trait") and [vampire](rules/traits/vampire-b1.md "Vampire Creature Trait") traits and the basic undead benefits (page 44), and your undead hunger is for the blood of the living. Your incisors elongate; you gain a fangs unarmed attack that deals `1d6` piercing damage. They're in the brawling group and have the [grapple](rules/traits/grapple.md "Grapple Weapon Trait") and [unarmed](rules/traits/unarmed.md "Unarmed Weapon Trait") traits. You gain revulsion and sunlight vulnerabilities detailed on page 59 and the Drink Blood ability.
 
 ```ad-embed-ability
 title: Drink Blood [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[divine](rules/traits/divine.md)  [necromancy](rules/traits/necromancy.md)  
+[divine](rules/traits/divine.md "Divine Tradition Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 - **Requirements**: A [grabbed](rules/conditions.md#Grabbed), [paralyzed](rules/conditions.md#Paralyzed), [restrained](rules/conditions.md#Restrained), [unconscious](rules/conditions.md#Unconscious), or willing creature is within your reach
 
@@ -40,14 +40,14 @@ title: Drink Blood [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions
 ```
 
 *Source: Book of the Dead p. 58*  
-%% #trait/rare #trait/archetype #trait/dedication %%
+%% #trait/archetype #trait/dedication #trait/rare %%
 ````  
 
 ```ad-embed-feat
 title: Clinging Climber, Feat 4
 collapse: closed
 # Clinging Climber  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Vampire Dedication](compendium/feats/vampire-dedication-botd.md), trained in [Athletics](compendium/skills.md#Athletics)
 
@@ -61,13 +61,13 @@ You climb like a spider. You gain a climb Speed of 15 feet.
 title: Manipulative Charm, Feat 4
 collapse: closed
 # Manipulative Charm  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: Vampire Dedication, trained in [Deception](compendium/skills.md#Deception) or [Diplomacy](compendium/skills.md#Diplomacy)
 
 Against humanoids, you gain a +1 circumstance bonus to [Deception](compendium/skills.md#Deception) checks to [Lie](rules/actions/lie.md), and to [Diplomacy](compendium/skills.md#Diplomacy) checks to [Gather Information](rules/actions/gather-information.md) and [Make an Impression](rules/actions/make-an-impression.md).
 
-Once per day, you can cast [charm](compendium/spells/charm.md) as a divine innate spell using your class DC or spell DC, whichever is higher. Casting it requires staring into the target's eyes, giving the spell the [visual](rules/traits/visual.md) trait. At 5th level and every 2 levels thereafter, the spell is heightened by an additional level, to a maximum of a 9th-level [charm](compendium/spells/charm.md) when you are 19th level.
+Once per day, you can cast [charm](compendium/spells/charm.md) as a divine innate spell using your class DC or spell DC, whichever is higher. Casting it requires staring into the target's eyes, giving the spell the [visual](rules/traits/visual.md "Visual Effect Trait") trait. At 5th level and every 2 levels thereafter, the spell is heightened by an additional level, to a maximum of a 9th-level [charm](compendium/spells/charm.md) when you are 19th level.
 
 *Source: Book of the Dead p. 58*  
 %% #trait/archetype %%
@@ -77,7 +77,7 @@ Once per day, you can cast [charm](compendium/spells/charm.md) as a divine innat
 title: Nocturnal Kindred, Feat 4
 collapse: closed
 # Nocturnal Kindred  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: Vampire Dedication, trained in [Nature](compendium/skills.md#Nature)
 
@@ -93,25 +93,25 @@ Once per day, you can cast [animal allies](compendium/spells/animal-allies-som.m
 title: Daywalker, Feat 6
 collapse: closed
 # Daywalker  *Feat 6*  
-[abjuration](rules/traits/abjuration.md)  [archetype](rules/traits/archetype.md)  [divine](rules/traits/divine.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  
 
 - **Prerequisites**: [Vampire Dedication](compendium/feats/vampire-dedication-botd.md)
 
 Through a profane pledge or a bloodline quirk, you can tolerate the sun's light. You gain the advanced undead benefits (page 44) and can't be destroyed by sunlight. This doesn't prevent you from becoming [slowed](rules/conditions.md#Slowed) by exposure to the sun.
 
 *Source: Book of the Dead p. 58*  
-%% #trait/archetype #trait/abjuration #trait/divine %%
+%% #trait/abjuration #trait/archetype #trait/divine %%
 ```  
 
 ```ad-embed-feat
 title: Predatory Claws, Feat 6
 collapse: closed
 # Predatory Claws  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Vampire Dedication](compendium/feats/vampire-dedication-botd.md)
 
-Your nails grow into sharp claws, perfect for seizing and tearing your prey. You gain a claw unarmed attack that deals `1d4` slashing damage. Your claws are in the brawling group and have the [agile](rules/traits/agile.md), [finesse](rules/traits/finesse.md), and [unarmed](rules/traits/unarmed.md) traits.
+Your nails grow into sharp claws, perfect for seizing and tearing your prey. You gain a claw unarmed attack that deals `1d4` slashing damage. Your claws are in the brawling group and have the [agile](rules/traits/agile.md "Agile Weapon Trait"), [finesse](rules/traits/finesse.md "Finesse Weapon Trait"), and [unarmed](rules/traits/unarmed.md "Unarmed Weapon Trait") traits.
 
 If you hit the same enemy with two consecutive claw [Strikes](rules/actions/strike.md) in the same round, you can attempt to [Grapple](rules/actions/grapple.md) that same target as a free action, provided you take that action immediately after the second [Strike](rules/actions/strike.md).
 
@@ -123,7 +123,7 @@ If you hit the same enemy with two consecutive claw [Strikes](rules/actions/stri
 title: Vicious Fangs, Feat 8
 collapse: closed
 # Vicious Fangs  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Vampire Dedication](compendium/feats/vampire-dedication-botd.md)
 
@@ -139,7 +139,7 @@ At 14th level, the [persistent bleed damage](rules/conditions.md#Persistent%20Da
 title: Bat Form, Feat 10
 collapse: closed
 # Bat Form  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
-[archetype](rules/traits/archetype.md)  [concentrate](rules/traits/concentrate.md)  [divine](rules/traits/divine.md)  [polymorph](rules/traits/polymorph.md)  [transmutation](rules/traits/transmutation.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Prerequisites**: [Vampire Dedication](compendium/feats/vampire-dedication-botd.md)
 - **Frequency**: once per hour
@@ -155,7 +155,7 @@ You can transform into a bat. You gain the effects of a 4th-level [pest form](co
 title: Turn to Mist, Feat 10
 collapse: closed
 # Turn to Mist  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
-[archetype](rules/traits/archetype.md)  [concentrate](rules/traits/concentrate.md)  [divine](rules/traits/divine.md)  [transmutation](rules/traits/transmutation.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Prerequisites**: [Vampire Dedication](compendium/feats/vampire-dedication-botd.md)
 - **Frequency**: once per day
@@ -171,7 +171,7 @@ You turn into vapor, gaining the effects of [gaseous form](compendium/spells/gas
 title: Coffin Bound, Feat 12*
 collapse: closed
 # Coffin Bound  *Feat 12*  
-[archetype](rules/traits/archetype.md)  [divine](rules/traits/divine.md)  [necromancy](rules/traits/necromancy.md)  [negative](rules/traits/negative.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 > [!pf2-note] This version of [Coffin Bound](compendium/feats/coffin-bound-botd.md) is intended for use with the Vampire Archetype. Its level has been changed accordingly.
 
@@ -184,14 +184,14 @@ If you would be destroyed, you instead remain near death. This doesn't change yo
 Your coffin can't heal you if you're staked through the chest. You can be staked only if [unconscious](rules/conditions.md#Unconscious), and it takes three actions. You lose all benefits of this feat if your coffin is destroyed or the soil is lost. You must procure a new coffin and fill it with soil of your homeland to restore the feat's function.
 
 *Source: Book of the Dead p. 59*  
-%% #trait/uncommon #trait/archetype #trait/divine #trait/necromancy #trait/negative %%
+%% #trait/archetype #trait/divine #trait/necromancy #trait/negative #trait/uncommon %%
 ```  
 
 ```ad-embed-feat
 title: Mist Escape, Feat 14*
 collapse: closed
 # Mist Escape  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Mist Escape](compendium/feats/mist-escape-botd.md) is intended for use with the Vampire Archetype. Its level has been changed accordingly.
 
@@ -209,14 +209,14 @@ As you fall, your body reacts to defend itself. You [Turn to Mist](compendium/fe
 title: Dominating Gaze, Feat 16*
 collapse: closed
 # Dominating Gaze  *Feat 16*  
-[archetype](rules/traits/archetype.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 > [!pf2-note] This version of [Dominating Gaze](compendium/feats/dominating-gaze-botd.md) is intended for use with the Vampire Archetype. Its level has been changed accordingly.
 
 - **Prerequisites**: [Manipulative Charm](compendium/feats/manipulative-charm-botd.md)
 
-You stare into your target's eyes and enthrall them, shattering their free will. Once per day, you can cast 7th-level [dominate](compendium/spells/dominate.md) as a divine innate spell, using your class DC or spell DC, whichever is higher. It gains the [visual](rules/traits/visual.md) trait. At 18th level, the dominate is heightened to 8th level; at 20th level, it's heightened to 9th level. A creature that succeeds at its save is temporarily immune to your domination for 24 hours, though in most cases, you can't [Cast the Spell](rules/actions/cast-a-spell.md) again within 24 hours. If you are destroyed, all your [dominate](compendium/spells/dominate.md) spells from Dominating Gaze immediately end.
+You stare into your target's eyes and enthrall them, shattering their free will. Once per day, you can cast 7th-level [dominate](compendium/spells/dominate.md) as a divine innate spell, using your class DC or spell DC, whichever is higher. It gains the [visual](rules/traits/visual.md "Visual Effect Trait") trait. At 18th level, the dominate is heightened to 8th level; at 20th level, it's heightened to 9th level. A creature that succeeds at its save is temporarily immune to your domination for 24 hours, though in most cases, you can't [Cast the Spell](rules/actions/cast-a-spell.md) again within 24 hours. If you are destroyed, all your [dominate](compendium/spells/dominate.md) spells from Dominating Gaze immediately end.
 
 *Source: Book of the Dead p. 59*  
-%% #trait/uncommon #trait/archetype %%
+%% #trait/archetype #trait/uncommon %%
 ```

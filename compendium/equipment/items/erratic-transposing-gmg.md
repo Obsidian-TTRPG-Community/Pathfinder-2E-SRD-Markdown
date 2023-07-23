@@ -11,7 +11,7 @@ tags:
 aliases: ["Erratic Transposing"]
 ---
 # Erratic Transposing *Item 11*  
-[conjuration](rules/traits/conjuration.md)  [cursed](rules/traits/cursed-gmg.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** curses a weapon
 - **Category** Curse

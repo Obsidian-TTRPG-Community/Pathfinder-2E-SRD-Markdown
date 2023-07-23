@@ -7,7 +7,7 @@ tags:
 aliases: ["Heat Wave"]
 ---
 # Heat Wave  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 5*  
-[ifrit](rules/traits/ifrit-b2.md)  
+[ifrit](rules/traits/ifrit-b2.md "Ifrit Ancestry & Heritage Trait")  
 
 - **Frequency**: once per 10 minutes
 - **Trigger** An effect would deal fire damage to you, even if you resist all the damage.

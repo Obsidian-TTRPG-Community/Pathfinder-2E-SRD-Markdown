@@ -7,7 +7,7 @@ tags:
 aliases: ["Primal Wellspring"]
 ---
 # Primal Wellspring  *Feat 18*  
-[druid](rules/traits/druid.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  
 
 - **Prerequisites**: [Primal Focus](compendium/feats/primal-focus.md)
 

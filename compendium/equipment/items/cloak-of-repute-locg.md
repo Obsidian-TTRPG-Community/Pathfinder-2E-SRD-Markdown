@@ -11,7 +11,7 @@ tags:
 aliases: ["Cloak Of Repute"]
 ---
 # Cloak Of Repute *Item 4+*  
-[enchantment](rules/traits/enchantment.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  worn  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  worn  
 
 - **Usage** worn cloak; **Bulk** 1
 - **Category** Worn

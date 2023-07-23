@@ -7,7 +7,7 @@ tags:
 aliases: ["Vanth's Weapon Execution"]
 ---
 # Vanth's Weapon Execution  *Feat 5*  
-[duskwalker](rules/traits/duskwalker-apg.md)  
+[duskwalker](rules/traits/duskwalker-apg.md "Duskwalker Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Vanth's Weapon Familiarity](compendium/feats/vanths-weapon-familiarity-loag.md)
 

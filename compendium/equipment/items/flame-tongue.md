@@ -10,7 +10,7 @@ tags:
 aliases: ["Flame Tongue"]
 ---
 # Flame Tongue *Item 13+*  
-[evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  [magical](rules/traits/magical.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Weapon

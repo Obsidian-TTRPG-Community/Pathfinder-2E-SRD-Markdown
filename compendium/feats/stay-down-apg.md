@@ -7,7 +7,7 @@ tags:
 aliases: ["Stay Down!"]
 ---
 # Stay Down!  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 14*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Prerequisites**: master in [Athletics](compendium/skills.md#Athletics)
 - **Trigger** A [prone](rules/conditions.md#Prone) foe within your reach Stands.

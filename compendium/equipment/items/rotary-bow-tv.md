@@ -8,7 +8,7 @@ tags:
 aliases: ["Rotary Bow"]
 ---
 # Rotary Bow *Item 0*  
-[capacity <4>](rules/traits/capacity-tv.md)  
+[capacity <4>](rules/traits/capacity-4-tv.md "Capacity Weapon Trait")  
 
 - **Price** 8 gp
 - **Bulk** 1

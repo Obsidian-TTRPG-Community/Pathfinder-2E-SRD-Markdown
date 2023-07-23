@@ -11,7 +11,7 @@ tags:
 aliases: ["Defiled Costa"]
 ---
 # Defiled Costa *Item 14*  
-[catalyst](rules/traits/catalyst-som.md)  [consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[catalyst](rules/traits/catalyst-som.md "Catalyst Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 900 gp
 - **Usage** held in one hand; **Bulk** L

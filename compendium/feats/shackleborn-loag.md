@@ -8,10 +8,10 @@ tags:
 aliases: ["Shackleborn"]
 ---
 # Shackleborn  *Feat 1*  
-[lineage](rules/traits/lineage-apg.md)  [tiefling](rules/traits/tiefling-b1.md)  
+[lineage](rules/traits/lineage-apg.md "Lineage  Trait")  [tiefling](rules/traits/tiefling-b1.md "Tiefling Ancestry & Heritage Trait")  
 
 
-Your lineage shows the signs of [velstrac](rules/traits/velstrac-b2.md) tampering, including some curious quirk bequeathed by those shadowy surgeons of flesh and souls. Your flesh heals cleanly and quickly—all the better for you to serve as a subject for their ghastly art. You gain the [Fast Recovery](compendium/feats/fast-recovery.md) feat, even if you don't meet the prerequisites.
+Your lineage shows the signs of [velstrac](rules/traits/velstrac-b2.md "Velstrac Creature Trait") tampering, including some curious quirk bequeathed by those shadowy surgeons of flesh and souls. Your flesh heals cleanly and quickly—all the better for you to serve as a subject for their ghastly art. You gain the [Fast Recovery](compendium/feats/fast-recovery.md) feat, even if you don't meet the prerequisites.
 
 ## Shackleborn leads to...
 

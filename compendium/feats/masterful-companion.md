@@ -7,7 +7,7 @@ tags:
 aliases: ["Masterful Companion"]
 ---
 # Masterful Companion  *Feat 18*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: masterful hunter, Animal Companion
 

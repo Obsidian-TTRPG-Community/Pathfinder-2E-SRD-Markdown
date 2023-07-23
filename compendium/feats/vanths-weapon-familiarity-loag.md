@@ -7,7 +7,7 @@ tags:
 aliases: ["Vanth's Weapon Familiarity"]
 ---
 # Vanth's Weapon Familiarity  *Feat 1*  
-[duskwalker](rules/traits/duskwalker-apg.md)  
+[duskwalker](rules/traits/duskwalker-apg.md "Duskwalker Ancestry & Heritage Trait")  
 
 
 You seek to emulate vanth reapers' fighting styles. You are trained with [bo staves](compendium/equipment/items/bo-staff.md), [longbows](compendium/equipment/items/longbow.md), [composite longbows](compendium/equipment/items/composite-longbow.md), [scythes](compendium/equipment/items/scythe.md), and [staves](compendium/equipment/items/staff.md).

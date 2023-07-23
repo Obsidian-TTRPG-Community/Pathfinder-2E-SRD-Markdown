@@ -8,7 +8,7 @@ tags:
 aliases: ["Greatpick"]
 ---
 # Greatpick *Item 0*  
-[fatal <d12>](rules/traits/fatal.md)  
+[fatal <d12>](rules/traits/fatal-d12.md "Fatal Weapon Trait")  
 
 - **Price** 1 gp
 - **Bulk** 2

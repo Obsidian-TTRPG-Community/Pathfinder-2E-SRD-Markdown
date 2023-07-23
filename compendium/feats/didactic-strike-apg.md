@@ -7,7 +7,7 @@ tags:
 aliases: ["Didactic Strike"]
 ---
 # Didactic Strike  *Feat 16*  
-[investigator](rules/traits/investigator-apg.md)  
+[investigator](rules/traits/investigator-apg.md "Investigator Class Trait")  
 
 - **Prerequisites**: [Shared Stratagem](compendium/feats/shared-stratagem-apg.md)
 

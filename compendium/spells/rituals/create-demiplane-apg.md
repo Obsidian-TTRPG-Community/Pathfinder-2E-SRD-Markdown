@@ -10,7 +10,7 @@ tags:
 aliases: ["Create Demiplane"]
 ---
 # Create Demiplane *Ritual 8*  
-[conjuration](rules/traits/conjuration.md)  [rare](rules/traits/rare.md)  [teleportation](rules/traits/teleportation.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  
 
 - **Cast** 9 days
 - **Cost** precious materials worth a total value of 800 gp
@@ -29,13 +29,13 @@ When you first cast _create demiplane_, the casters are teleported to the demipl
 
 If you have the original key to an existing demiplane and are on that demiplane, you can instead use this ritual to either expand the demiplane or add special traits or features described below.
 
-- **Alignment** The demiplane gains one alignment trait, such as [lawful](rules/traits/lawful.md) or [good](rules/traits/good.md).
+- **Alignment** The demiplane gains one alignment trait, such as [lawful](rules/traits/lawful.md "Lawful Alignment Trait") or [good](rules/traits/good.md "Good Alignment Trait").
 - **Bounteous** The demiplane has a functional ecosystem, with plants and animals appropriate to the environment. This ecosystem doesn't require any additional effort on your part to maintain.
-- **Elemental** The demiplane gains the [air](rules/traits/air.md), [earth](rules/traits/earth.md), [fire](rules/traits/fire.md), or [water](rules/traits/water.md) planar essence trait.
+- **Elemental** The demiplane gains the [air](rules/traits/air.md "Air Energy & Element Trait"), [earth](rules/traits/earth.md "Earth Energy & Element Trait"), [fire](rules/traits/fire.md "Fire Energy & Element Trait"), or [water](rules/traits/water.md "Water Energy & Element Trait") planar essence trait.
 - **Gravity** The demiplane gains a gravity trait of your choice.
 - **Key** You create an additional key that can be used to access the demiplane with [plane shift](compendium/spells/plane-shift.md) and improve it with [create demiplane](compendium/spells/rituals/create-demiplane-apg.md).
 - **Portal** You create a permanent gateway between the demiplane and a single other location. You must spend the ritual's casting time constructing the gateway on the external side, which typically resembles an arch or doorway of some sort. The gate is always active, but it can be secured as you would any door.
-- **Scope** The demiplane can be [unbounded](rules/traits/unbounded-gmg.md) instead of [finite](rules/traits/finite-gmg.md), though still with the same size.
+- **Scope** The demiplane can be [unbounded](rules/traits/unbounded-gmg.md "Unbounded Planar Trait") instead of [finite](rules/traits/finite-gmg.md "Finite Planar Trait"), though still with the same size.
 
 > [!success-degree] 
 > - **Critical Success** You create a new demiplane whose area consists of two contiguous squares, each 100 feet on a side. The ceiling is 20 feet high. If modifying an existing demiplane, you can instead either add this area to the demiplane's size or add two special traits or features.

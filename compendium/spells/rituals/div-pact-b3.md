@@ -9,7 +9,7 @@ tags:
 aliases: ["Div Pact"]
 ---
 # Div Pact *Ritual 1*  
-[conjuration](rules/traits/conjuration.md)  [uncommon](rules/traits/uncommon.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** 1 day
 - **Primary Checks** [Religion](compendium/skills.md#Religion) (expert; you must be a div)

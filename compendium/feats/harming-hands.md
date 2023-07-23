@@ -7,7 +7,7 @@ tags:
 aliases: ["Harming Hands"]
 ---
 # Harming Hands  *Feat 1*  
-[cleric](rules/traits/cleric.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  
 
 - **Prerequisites**: harmful font
 

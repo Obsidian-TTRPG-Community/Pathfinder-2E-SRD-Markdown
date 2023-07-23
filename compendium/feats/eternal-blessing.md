@@ -7,7 +7,7 @@ tags:
 aliases: ["Eternal Blessing"]
 ---
 # Eternal Blessing  *Feat 16*  
-[cleric](rules/traits/cleric.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  
 
 - **Prerequisites**: good alignment
 

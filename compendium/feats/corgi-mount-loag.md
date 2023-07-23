@@ -7,7 +7,7 @@ tags:
 aliases: ["Corgi Mount"]
 ---
 # Corgi Mount  *Feat 1*  
-[sprite](rules/traits/sprite-b1.md)  
+[sprite](rules/traits/sprite-b1.md "Sprite Ancestry & Heritage Trait")  
 
 
 The smallest of fey have ridden corgis as mounts since time immemorial, leading to a pattern on corgis' backs called a "faerie saddle." You have formed a magical connection with a corgi that can serve as your mount. Your corgi familiar is Small rather than Tiny, and it's appropriate for use as your mount, unlike most familiars.

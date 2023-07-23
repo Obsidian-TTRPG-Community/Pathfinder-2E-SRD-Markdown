@@ -8,10 +8,10 @@ tags:
 aliases: ["Martial Artist Dedication"]
 ---
 # Martial Artist Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 
-You have trained to use your fists as deadly weapons. The damage die for your fist unarmed attacks becomes `1d6` instead of `1d4`. You don't take the –2 circumstance penalty for making a lethal attack with your [nonlethal](rules/traits/nonlethal.md) unarmed attacks.
+You have trained to use your fists as deadly weapons. The damage die for your fist unarmed attacks becomes `1d6` instead of `1d4`. You don't take the –2 circumstance penalty for making a lethal attack with your [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait") unarmed attacks.
 
 Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency rank in all unarmed attacks.
 

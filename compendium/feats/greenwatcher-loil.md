@@ -10,7 +10,7 @@ tags:
 aliases: ["Greenwatcher"]
 ---
 # Greenwatcher  *Feat 10*  
-[investigator](rules/traits/investigator-apg.md)  [ranger](rules/traits/ranger.md)  [rare](rules/traits/rare.md)  gunslinger  
+[investigator](rules/traits/investigator-apg.md "Investigator Class Trait")  [ranger](rules/traits/ranger.md "Ranger Class Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  gunslinger  
 
 - **Prerequisites**: Defy Fey
 

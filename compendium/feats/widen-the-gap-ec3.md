@@ -7,7 +7,7 @@ tags:
 aliases: ["Widen The Gap"]
 ---
 # Widen The Gap  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Turpin Rowe Lumberjack Dedication](compendium/feats/turpin-rowe-lumberjack-dedication-ec3.md)
 

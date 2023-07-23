@@ -7,7 +7,7 @@ tags:
 aliases: ["One More Activation"]
 ---
 # One More Activation  *Feat 6*  
-[thaumaturge](rules/traits/thaumaturge-da.md)  
+[thaumaturge](rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
 
 
 You've forged a deeper bond to your invested items, allowing you to activate them more than usual. Once each day, you can [Activate an Item](rules/actions/activate-an-item.md) you've invested even after you've used that activation the maximum number of times for its frequency.

@@ -7,7 +7,7 @@ tags:
 aliases: ["Gnome Weapon Expertise"]
 ---
 # Gnome Weapon Expertise  *Feat 13*  
-[gnome](rules/traits/gnome.md)  
+[gnome](rules/traits/gnome.md "Gnome Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Gnome Weapon Familiarity](compendium/feats/gnome-weapon-familiarity.md)
 

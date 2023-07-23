@@ -10,7 +10,7 @@ tags:
 aliases: ["Spirit Sheath"]
 ---
 # Spirit Sheath  *Feat 2*  
-[arcane](rules/traits/arcane.md)  [conjuration](rules/traits/conjuration.md)  [extradimensional](rules/traits/extradimensional.md)  [magus](rules/traits/magus-som.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [extradimensional](rules/traits/extradimensional.md "Extradimensional Effect Trait")  [magus](rules/traits/magus-som.md "Magus Class Trait")  
 
 
 You've magically constructed an extradimensional sheath for your weapon that you access through your clothing, typically through a pocket, sleeve, or seam.

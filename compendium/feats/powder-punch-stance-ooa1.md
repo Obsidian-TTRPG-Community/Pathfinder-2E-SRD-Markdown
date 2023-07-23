@@ -9,7 +9,7 @@ tags:
 aliases: ["Powder Punch Stance"]
 ---
 # Powder Punch Stance  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [stance](rules/traits/stance.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: You're from Alkenstar or the Mana Wastes.
 - **Prerequisites**: [Martial Artist Dedication](compendium/feats/martial-artist-dedication-apg.md)

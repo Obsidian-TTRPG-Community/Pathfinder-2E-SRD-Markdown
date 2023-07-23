@@ -7,7 +7,7 @@ tags:
 aliases: ["Alchemical Discoveries"]
 ---
 # Alchemical Discoveries  *Feat 4*  
-[investigator](rules/traits/investigator-apg.md)  
+[investigator](rules/traits/investigator-apg.md "Investigator Class Trait")  
 
 - **Prerequisites**: alchemical sciences methodology
 

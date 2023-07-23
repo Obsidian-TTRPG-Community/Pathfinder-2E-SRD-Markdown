@@ -7,7 +7,7 @@ tags:
 aliases: ["Inspire Defense"]
 ---
 # Inspire Defense  *Feat 4*  
-[bard](rules/traits/bard.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  
 
 - **Prerequisites**: Maestro muse
 

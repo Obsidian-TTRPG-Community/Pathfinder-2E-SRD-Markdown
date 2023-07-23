@@ -10,7 +10,7 @@ tags:
 aliases: ["Burning Chandelier Trap"]
 ---
 # Burning Chandelier Trap *Hazard 15*  
-[complex](rules/traits/complex.md)  [magical](rules/traits/magical.md)  [mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +26 master or DC 38 (master) to spot the trap's control panel.  
@@ -27,7 +27,7 @@ Four large flaming chandeliers swing wildly around the room.
      
 ```ad-embed-ability
 title: Extending Chandeliers [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[occult](rules/traits/occult.md)  [transmutation](rules/traits/transmutation.md)  
+[occult](rules/traits/occult.md "Occult Tradition Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Trigger**: A creature touches the cage door, the closet door, or any wooden stand
 

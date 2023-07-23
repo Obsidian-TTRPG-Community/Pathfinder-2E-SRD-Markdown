@@ -7,7 +7,7 @@ tags:
 aliases: ["Empyreal Blessing"]
 ---
 # Empyreal Blessing  *Feat 5*  
-[aasimar](rules/traits/aasimar-apg.md)  
+[aasimar](rules/traits/aasimar-apg.md "Aasimar Ancestry & Heritage Trait")  
 
 
 You can call forth a benediction upon your allies, whether you pray to a deity of the celestial realms or just find the power within yourself. You can cast [bless](compendium/spells/bless.md) once per day as a 1st-level divine innate spell.

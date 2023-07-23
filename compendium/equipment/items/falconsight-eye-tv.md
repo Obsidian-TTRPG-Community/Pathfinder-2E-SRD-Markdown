@@ -10,7 +10,7 @@ tags:
 aliases: ["Falconsight Eye"]
 ---
 # Falconsight Eye *Item 6*  
-[divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 200 gp
 - **Usage** worn; **Bulk** L

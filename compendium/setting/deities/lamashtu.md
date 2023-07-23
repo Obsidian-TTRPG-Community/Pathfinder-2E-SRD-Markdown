@@ -13,13 +13,13 @@ tags:
 - trait/reach-15-feet
 aliases: ["Lamashtu", "Mother of Monsters"]
 ---
-# Lamashtu (Mother of Monsters) *([CE](rules/traits/chaotic-evil-b1.md))*  
+# Lamashtu (Mother of Monsters) *([CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait"))*  
 *Source: Core Rulebook p. 439*  
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: attempt to treat a mental illness or deformity, provide succor to Lamashtu's enemies
 - **Areas of Concern**: aberrance, , monsters, , and nigthmares
-- **Follower Alignments**: [CE](rules/traits/chaotic-evil-b1.md)
+- **Follower Alignments**: [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
 
@@ -35,7 +35,7 @@ aliases: ["Lamashtu", "Mother of Monsters"]
 title: [Avatar](compendium/spells/avatar.md) of Lamashtu
 
 - **Speed**: Speed 30 feet, fly 70 feet
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") falchion ([forceful](rules/traits/forceful.md), [reach <15 feet>](rules/traits/reach.md)), **Damage** `6d10+6` slashing
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") falchion ([forceful](rules/traits/forceful.md "Forceful Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait")), **Damage** `6d10+6` slashing
 - **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") waters of Lamashtu **Damage** `6d6+3` poison
 ```
 
@@ -44,8 +44,8 @@ title: [Avatar](compendium/spells/avatar.md) of Lamashtu
 
 Lamashtu rewards kinship with monsters and brutal dominance in combat. Those who offend her serve the brood as prey or unwilling sacrifices.
 
-- **Minor Boon** Lamashtu's touch mutates a part of your body. You gain either an unarmed Strike that deals `1d6` damage or one that deals `1d4` damage and has the [finesse](rules/traits/finesse.md) and [agile](rules/traits/agile.md) traits. Whether the attack deals bludgeoning, slashing, or piercing damage depends on the mutation. If the unarmed Strike replaces a limb, you can still use the mutated limb for its original functions. Lamashtu chooses the form and function of your mutation.
-- **Moderate Boon**: You spread Lamashtu's nightmares everywhere you go. You can cast [confusion](compendium/spells/confusion.md) once per day as an [divine](rules/traits/divine.md) innate spell.
+- **Minor Boon** Lamashtu's touch mutates a part of your body. You gain either an unarmed Strike that deals `1d6` damage or one that deals `1d4` damage and has the [finesse](rules/traits/finesse.md "Finesse Weapon Trait") and [agile](rules/traits/agile.md "Agile Weapon Trait") traits. Whether the attack deals bludgeoning, slashing, or piercing damage depends on the mutation. If the unarmed Strike replaces a limb, you can still use the mutated limb for its original functions. Lamashtu chooses the form and function of your mutation.
+- **Moderate Boon**: You spread Lamashtu's nightmares everywhere you go. You can cast [confusion](compendium/spells/confusion.md) once per day as an [divine](rules/traits/divine.md "Divine Tradition Trait") innate spell.
 - **Major Boon**: Lamashtu uses your body to birth a new monster, regardless of your gender. Once per day, you can spend 1 minute to birth a monster determined by the GM, which rips its way from your belly. The monster's level is up to your level and it does as it pleases, following Lamashtu's will, though it doesn't attack you unless you have lost her favor. You are [drained](rules/conditions.md#Drained) from the ordeal.
 
 - **Minor Curse**: Horrid visions torment your mind, overlaying reality at inopportune times. You treat everything around you as if it was [concealed](rules/conditions.md#Concealed).

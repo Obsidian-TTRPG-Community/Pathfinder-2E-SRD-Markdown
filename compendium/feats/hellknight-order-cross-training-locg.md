@@ -9,7 +9,7 @@ tags:
 aliases: ["Hellknight Order Cross-training"]
 ---
 # Hellknight Order Cross-training  *Feat 12*  
-[archetype](rules/traits/archetype.md)  [hellknight](rules/traits/hellknight-locg.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [hellknight](rules/traits/hellknight-locg.md "Hellknight  Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Hellknight Armiger Dedication](compendium/feats/hellknight-armiger-dedication-lowg.md); [Hellknight Dedication](compendium/feats/hellknight-dedication-locg.md) or [Hellknight Signifer Dedication](compendium/feats/hellknight-signifer-dedication-locg.md)
 

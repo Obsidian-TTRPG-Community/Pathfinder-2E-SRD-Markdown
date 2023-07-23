@@ -9,7 +9,7 @@ tags:
 aliases: ["Disrupting"]
 ---
 # Disrupting *Item 5+*  
-[magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 - **Usage** etched onto a melee weapon
 - **Category** Rune

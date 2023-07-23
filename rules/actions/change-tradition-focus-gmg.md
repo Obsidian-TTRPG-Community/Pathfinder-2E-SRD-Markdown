@@ -7,7 +7,7 @@ tags:
 aliases: ["Change Tradition Focus"]
 ---
 # Change Tradition Focus [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[magical](rules/traits/magical.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  
 *Source: Gamemastery Guide p. 167*  
 
 **Variant Rule** Duels

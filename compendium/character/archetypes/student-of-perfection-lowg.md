@@ -15,7 +15,7 @@ You studied martial arts at Jalmeray's Houses of Perfection.
 title: Student of Perfection Dedication, Feat 2
 collapse: closed
 # Student of Perfection Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: You are from Jalmeray.
 - **Prerequisites**: powerful fist|monk||1 or expert in unarmed attacks; member of a House of Perfection
@@ -25,14 +25,14 @@ You have learned the martial arts techniques of your House of Perfection. You be
 **Special.** You can't select another dedication feat until you have gained two other feats from the student of perfection archetype.
 
 *Source: Lost Omens: World Guide p. 83*  
-%% #trait/uncommon #trait/archetype #trait/dedication %%
+%% #trait/archetype #trait/dedication #trait/uncommon %%
 ```  
 
 ```ad-embed-feat
 title: Perfect Strike, Feat 4
 collapse: closed
 # Perfect Strike  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Student of Perfection Dedication](compendium/feats/student-of-perfection-dedication-lowg.md)
 
@@ -46,7 +46,7 @@ You gain the [perfect strike](compendium/spells/perfect-strike-lowg.md) ki spell
 title: Perfect Ki Adept, Feat 6
 collapse: closed
 # Perfect Ki Adept  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Student of Perfection Dedication](compendium/feats/student-of-perfection-dedication-lowg.md)
 

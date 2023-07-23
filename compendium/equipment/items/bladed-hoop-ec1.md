@@ -11,7 +11,7 @@ tags:
 aliases: ["Bladed Hoop"]
 ---
 # Bladed Hoop *Item 0*  
-[finesse](rules/traits/finesse.md)  [sweep](rules/traits/sweep.md)  [two-hand <d8>](rules/traits/two-hand.md)  [uncommon](rules/traits/uncommon.md)  
+[finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [sweep](rules/traits/sweep.md "Sweep Weapon Trait")  [two-hand <d8>](rules/traits/two-hand-d8.md "Two-Hand Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 25 sp
 - **Bulk** 1

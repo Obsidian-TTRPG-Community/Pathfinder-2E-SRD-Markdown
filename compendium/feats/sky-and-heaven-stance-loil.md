@@ -8,7 +8,7 @@ tags:
 aliases: ["Sky and Heaven Stance"]
 ---
 # Sky and Heaven Stance  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  [stance](rules/traits/stance.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
 
 - **Prerequisites**: Jalmeri Heavenseeker Dedication
 - **Requirements**: You're unarmored.

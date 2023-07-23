@@ -7,7 +7,7 @@ tags:
 aliases: ["Advanced Weapon Training"]
 ---
 # Advanced Weapon Training  *Feat 6*  
-[fighter](rules/traits/fighter.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 
 You've studied the art of wielding an advanced weapon.

@@ -7,7 +7,7 @@ tags:
 aliases: ["Insect Shape"]
 ---
 # Insect Shape  *Feat 6*  
-[druid](rules/traits/druid.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  
 
 - **Prerequisites**: [Wild Shape](compendium/feats/wild-shape.md)
 

@@ -10,7 +10,7 @@ tags:
 aliases: ["Gorget of the Primal Roar"]
 ---
 # Gorget of the Primal Roar *Item 11*  
-[enchantment](rules/traits/enchantment.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 1250 gp
 - **Usage** worn collar; **Bulk** L
@@ -21,7 +21,7 @@ This engraved darkwood gorget seems to vibrate with ferocity, granting you a +2 
 ```ad-embed-ability
 title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 
-- **Requirements**: You're in a non-humanoid form via a [polymorph](rules/traits/polymorph.md) effect
+- **Requirements**: You're in a non-humanoid form via a [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait") effect
 
 **Effect** You unleash a bestial roar, attempting a single [Intimidation](compendium/skills.md#Intimidation) check compared to the Will DCs of all enemies within 30 feet to impose the effects below. Though this activation has the command component, you can issue this command without the need for language.
 

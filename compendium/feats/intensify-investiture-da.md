@@ -7,7 +7,7 @@ tags:
 aliases: ["Intensify Investiture"]
 ---
 # Intensify Investiture  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 12*  
-[thaumaturge](rules/traits/thaumaturge-da.md)  
+[thaumaturge](rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
 
 - **Frequency**: once per 10 minutes
 - **Activity** Free Action

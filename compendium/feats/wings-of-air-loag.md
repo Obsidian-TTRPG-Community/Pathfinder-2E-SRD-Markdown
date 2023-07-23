@@ -10,7 +10,7 @@ tags:
 aliases: ["Wings Of Air"]
 ---
 # Wings Of Air  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 9*  
-[morph](rules/traits/morph.md)  [primal](rules/traits/primal.md)  [sylph](rules/traits/sylph-b2.md)  [transmutation](rules/traits/transmutation.md)  
+[morph](rules/traits/morph.md "Morph Effect Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [sylph](rules/traits/sylph-b2.md "Sylph Ancestry & Heritage Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Frequency**: once per day
 - **Activity** Two-Action

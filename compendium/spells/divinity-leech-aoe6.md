@@ -9,9 +9,9 @@ tags:
 aliases: ["Divinity Leech"]
 ---
 # Divinity Leech *Spell 9*   
-[enchantment](rules/traits/enchantment.md)  [rare](rules/traits/rare.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot
 - **Targets**1 creature

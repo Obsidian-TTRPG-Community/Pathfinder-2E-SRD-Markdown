@@ -10,7 +10,7 @@ tags:
 aliases: ["Flourishing Finish"]
 ---
 # Flourishing Finish  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 12*  
-[archetype](rules/traits/archetype.md)  [concentrate](rules/traits/concentrate.md)  [emotion](rules/traits/emotion.md)  [mental](rules/traits/mental.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 - **Prerequisites**: [Provocator Dedication](compendium/feats/provocator-dedication-aoe3.md)
 - **Requirements**: Your last action was a [Strike](rules/actions/strike.md) that dropped an opponent to 0 Hit Points.

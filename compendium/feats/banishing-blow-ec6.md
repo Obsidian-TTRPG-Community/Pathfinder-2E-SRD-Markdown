@@ -8,7 +8,7 @@ tags:
 aliases: ["Banishing Blow"]
 ---
 # Banishing Blow  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 20*  
-[champion](rules/traits/champion.md)  [uncommon](rules/traits/uncommon.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Fiendsbane Oath](compendium/feats/fiendsbane-oath.md)
 - **Trigger** You use your champion's reaction, triggered by a fiend within your reach.

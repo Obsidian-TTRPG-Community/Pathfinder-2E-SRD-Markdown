@@ -10,7 +10,7 @@ tags:
 aliases: ["Sprite Apple"]
 ---
 # Sprite Apple *Item 3+*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [light](rules/traits/light.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [light](rules/traits/light.md "Light Effect Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md)

@@ -11,7 +11,7 @@ tags:
 aliases: ["Eidolon Cape"]
 ---
 # Eidolon Cape *Item 11*  
-[conjuration](rules/traits/conjuration.md)  [focused](rules/traits/focused.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [focused](rules/traits/focused.md "Focused Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 1400 gp
 - **Usage** worn cloak; **Bulk** L

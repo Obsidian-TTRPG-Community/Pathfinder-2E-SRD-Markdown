@@ -7,7 +7,7 @@ tags:
 aliases: ["Glyph Expert"]
 ---
 # Glyph Expert  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spellmaster Dedication](compendium/feats/spellmaster-dedication-locg.md)
 

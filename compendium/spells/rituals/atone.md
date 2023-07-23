@@ -9,7 +9,7 @@ tags:
 aliases: ["Atone"]
 ---
 # Atone *Ritual 4*  
-[abjuration](rules/traits/abjuration.md)  [uncommon](rules/traits/uncommon.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** 1 day
 - **Cost** rare incense and offerings worth a total value of 20 gp × the target's level

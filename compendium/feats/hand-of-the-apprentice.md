@@ -7,7 +7,7 @@ tags:
 aliases: ["Hand Of The Apprentice"]
 ---
 # Hand Of The Apprentice  *Feat 1*  
-[wizard](rules/traits/wizard.md)  
+[wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Prerequisites**: Universalist wizard
 

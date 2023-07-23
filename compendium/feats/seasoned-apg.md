@@ -8,7 +8,7 @@ tags:
 aliases: ["Seasoned"]
 ---
 # Seasoned  *Feat 1*  
-[general](rules/traits/general.md)  [skill](rules/traits/skill.md)  
+[general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: trained in [Alcohol Lore](compendium/skills.md#Lore), [Cooking Lore](compendium/skills.md#Lore), or [Crafting](compendium/skills.md#Crafting)
 

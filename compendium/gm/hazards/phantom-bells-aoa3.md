@@ -11,7 +11,7 @@ tags:
 aliases: ["Phantom Bells"]
 ---
 # Phantom Bells *Hazard 6*  
-[auditory](rules/traits/auditory.md)  [complex](rules/traits/complex.md)  [haunt](rules/traits/haunt.md)  [rare](rules/traits/rare.md)  [sonic](rules/traits/sonic.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  
 
 - **Complexity** Complex
 - **Stealth** +10  
@@ -22,7 +22,7 @@ The echo of diabolic bells reverberates with a bone-shaking clamor.
      
 ```ad-embed-ability
 title: Distant Ringing [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[auditory](rules/traits/auditory.md)  [sonic](rules/traits/sonic.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  
 
 - **Trigger**: A living creature approaches within 30 feet.
 

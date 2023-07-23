@@ -12,7 +12,7 @@ tags:
 aliases: ["Wand Of Noisome Acid"]
 ---
 # Wand Of Noisome Acid *Item 6+*  
-[acid](rules/traits/acid.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  [wand](rules/traits/wand.md)  
+[acid](rules/traits/acid.md "Acid Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Wand

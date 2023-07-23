@@ -12,7 +12,7 @@ tags:
 aliases: ["Fan of the Four Winds"]
 ---
 # Fan of the Four Winds *Item 4*  
-[air](rules/traits/air.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [relic](rules/traits/relic-tv.md)  [unique](rules/traits/unique.md)  
+[air](rules/traits/air.md "Air Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [relic](rules/traits/relic-tv.md "Relic Item Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Held

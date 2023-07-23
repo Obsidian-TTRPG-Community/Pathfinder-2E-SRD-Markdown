@@ -10,9 +10,9 @@ tags:
 aliases: ["Hydraulic Push"]
 ---
 # Hydraulic Push *Spell 1*   
-[attack](rules/traits/attack.md)  [evocation](rules/traits/evocation.md)  [water](rules/traits/water.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**60 foot
 - **Targets**1 creature or object

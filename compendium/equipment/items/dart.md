@@ -9,7 +9,7 @@ tags:
 aliases: ["Dart"]
 ---
 # Dart *Item 0*  
-[agile](rules/traits/agile.md)  [thrown](rules/traits/thrown.md)  
+[agile](rules/traits/agile.md "Agile Weapon Trait")  [thrown](rules/traits/thrown.md "Thrown Weapon Trait")  
 
 - **Price** 1 cp
 - **Bulk** L

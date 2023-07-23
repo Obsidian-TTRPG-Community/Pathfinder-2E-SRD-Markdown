@@ -27,7 +27,7 @@ aliases: ["Critical Fumble Deck: Melee"]
 | 15 | **Broken Weapon** Your weapon's current Hit Point are reduced to its Broken Threshold. If already [broken](rules/conditions.md#Broken), the weapon takes `3d6` damage, ignoring Hardness. |
 | 16 | **Fling** You drop the weapon you used for the attack. It lands `1d6x5` feet away from your in a random direction. |
 | 17 | **Pulled Muscle** Until healed, you are [enfeebled](rules/conditions.md#Enfeebled). |
-| 18 | **Overextended** You trigger reactions as if you had used a [move](rules/traits/move.md) action. |
+| 18 | **Overextended** You trigger reactions as if you had used a [move](rules/traits/move.md "Move Combat Trait") action. |
 | 19 | **Awkward Attack** You are [flat-footed](rules/conditions.md#Flat-footed) until the end of your next turn. |
 | 20 | **This Sword Is Heavy** You are [fatigued](rules/conditions.md#Fatigued). |
 | 21 | **Backswing** You deal the attack's normal damage to yourself instead of the target. |
@@ -59,7 +59,7 @@ aliases: ["Critical Fumble Deck: Melee"]
 | 47 | **Decision Paralysis** You are [slowed](rules/conditions.md#Slowed) until the end of your next turn. |
 | 48 | **Catastrophic Failure** You fall [unconscious](rules/conditions.md#Unconscious) until you awake up or the end of your next turn. |
 | 49 | **Pointy End Goes There** You become [wounded](rules/conditions.md#Wounded) or your [wounded](rules/conditions.md#Wounded) value increases by 1. |
-| 50 | **Broken Haft** Your weapon's current Hit Points are reduced to its Broken Threshold. If already [broken](rules/conditions.md#Broken), the weapon takes `3d6` damage, ignoring Hardness. If your weapon is a [reach](rules/traits/reach.md) weapon, it loses [reach](rules/traits/reach.md). |
+| 50 | **Broken Haft** Your weapon's current Hit Points are reduced to its Broken Threshold. If already [broken](rules/conditions.md#Broken), the weapon takes `3d6` damage, ignoring Hardness. If your weapon is a [reach](rules/traits/reach.md "Reach Weapon Trait") weapon, it loses [reach](rules/traits/reach.md "Reach Weapon Trait"). |
 | 51 | **Fog of War** You are [dazzled](rules/conditions.md#Dazzled) until the end of your next turn. |
 | 52 | **Go for the Eyes** You are [dazzled](rules/conditions.md#Dazzled) until the end of your next turn. |
 | 53 | **Punt** Your weapon files `1d4x5` feet in a random direction (determined by the GM). |

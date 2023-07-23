@@ -7,7 +7,7 @@ tags:
 aliases: ["Stone Communion"]
 ---
 # Stone Communion  *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Ka Stone Ritual](compendium/feats/ka-stone-ritual-lowg.md)
 

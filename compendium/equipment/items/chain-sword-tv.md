@@ -11,7 +11,7 @@ tags:
 aliases: ["Chain Sword"]
 ---
 # Chain Sword *Item 0*  
-[finesse](rules/traits/finesse.md)  [reach](rules/traits/reach.md)  [sweep](rules/traits/sweep.md)  [uncommon](rules/traits/uncommon.md)  
+[finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [reach](rules/traits/reach.md "Reach Weapon Trait")  [sweep](rules/traits/sweep.md "Sweep Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 6 gp
 - **Bulk** 1

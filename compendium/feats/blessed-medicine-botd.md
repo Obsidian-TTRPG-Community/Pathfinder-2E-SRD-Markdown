@@ -9,7 +9,7 @@ tags:
 aliases: ["Blessed Medicine"]
 ---
 # Blessed Medicine  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [fortune](rules/traits/fortune.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Undead Slayer Dedication](compendium/feats/undead-slayer-dedication-botd.md)
 - **Trigger** You fail a check to [Treat a Disease](rules/actions/treat-disease.md) that was inflicted by an undead (such as b1 or mummy rot).

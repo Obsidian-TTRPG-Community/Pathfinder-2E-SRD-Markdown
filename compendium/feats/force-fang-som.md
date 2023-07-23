@@ -7,7 +7,7 @@ tags:
 aliases: ["Force Fang"]
 ---
 # Force Fang  *Feat 2*  
-[magus](rules/traits/magus-som.md)  
+[magus](rules/traits/magus-som.md "Magus Class Trait")  
 
 - **Prerequisites**: focus pool
 

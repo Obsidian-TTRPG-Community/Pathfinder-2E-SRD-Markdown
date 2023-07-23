@@ -11,7 +11,7 @@ tags:
 aliases: ["Whelming Scrimshaw"]
 ---
 # Whelming Scrimshaw *Item 13*  
-[consumable](rules/traits/consumable.md)  [curse](rules/traits/curse.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [curse](rules/traits/curse.md "Curse Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 - **Price** 500 gp
 - **Usage** held in 1 hand; **Bulk** L

@@ -9,22 +9,22 @@ tags:
 aliases: ["Fiendripping Blast Trap"]
 ---
 # Fiendripping Blast Trap *Hazard 7*  
-[mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  [uncommon](rules/traits/uncommon.md)  
+[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 25 expert  
 
-A blast of energy damages all creatures within 20 feet, with particularly severe damage to [fiends](rules/traits/fiend.md).
+A blast of energy damages all creatures within 20 feet, with particularly severe damage to fiends.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 27 (expert) to identify the proper sequence of buttons in the divots, or [dispel magic](compendium/spells/dispel-magic.md) (4th level; counteract DC 25) to suppress the [magical](rules/traits/magical.md) effect for 1 hour.  
+- **Disable** [Thievery](compendium/skills.md#Thievery) DC 27 (expert) to identify the proper sequence of buttons in the divots, or [dispel magic](compendium/spells/dispel-magic.md) (4th level; counteract DC 25) to suppress the [magical](rules/traits/magical.md "Magical Item Trait") effect for 1 hour.  
      
 ```ad-embed-ability
 title: Forceful Blast [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[divine](rules/traits/divine.md)  [evocation](rules/traits/evocation.md)  
+[divine](rules/traits/divine.md "Divine Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
 - **Trigger**: The door is touched without first pressing the correct sequence of buttons
 
-**Effect** A blast of energy ripples outward from the door, dealing `4d10` force damage to all creatures within 20 feet and forcing them to make a DC 25 Fortitude save. [Fiends](rules/traits/fiend.md) treat the result of their saving throw as one degree worse.
+**Effect** A blast of energy ripples outward from the door, dealing `4d10` force damage to all creatures within 20 feet and forcing them to make a DC 25 Fortitude save. Fiends treat the result of their saving throw as one degree worse.
 
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.

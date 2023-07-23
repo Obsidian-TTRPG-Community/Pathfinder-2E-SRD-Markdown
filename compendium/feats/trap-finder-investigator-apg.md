@@ -7,7 +7,7 @@ tags:
 aliases: ["Trap Finder (Investigator)"]
 ---
 # Trap Finder (Investigator)  *Feat 1*  
-[investigator](rules/traits/investigator-apg.md)  
+[investigator](rules/traits/investigator-apg.md "Investigator Class Trait")  
 
 
 You have an intuitive sense that alerts you to the dangers and presence of traps. You gain a +1 circumstance bonus to [Perception](compendium/skills.md#Perception) checks to find traps, to AC against attacks made by traps, and to saves against traps. Even if you aren't [Searching](rules/actions/search.md), you get a check to find traps that normally require you to be [Searching](rules/actions/search.md). You still need to meet any other requirements to find the trap.

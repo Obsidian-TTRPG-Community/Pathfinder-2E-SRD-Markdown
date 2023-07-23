@@ -12,7 +12,7 @@ aliases: ["Wizard's Ward"]
 ---
 # Wizard's Ward
 *Curse 6*  
-[abjuration](rules/traits/abjuration.md)  [curse](rules/traits/curse.md)  [magical](rules/traits/magical.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [curse](rules/traits/curse.md "Curse Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 A wizard's ward is placed upon a single book, usually a spellbook. If you damage the book, you must attempt a save against the curse's effect.
 

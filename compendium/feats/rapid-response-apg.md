@@ -7,7 +7,7 @@ tags:
 aliases: ["Rapid Response"]
 ---
 # Rapid Response  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 2*  
-[cleric](rules/traits/cleric.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  
 
 - **Trigger** An ally is reduced to 0 Hit Points.
 - **Activity** Reaction

@@ -7,7 +7,7 @@ tags:
 aliases: ["Snare Hopping"]
 ---
 # Snare Hopping  *Feat 2*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: [Snare Crafting](compendium/feats/snare-crafting.md), warden spells
 

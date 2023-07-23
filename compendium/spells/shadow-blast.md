@@ -10,9 +10,9 @@ tags:
 aliases: ["Shadow Blast"]
 ---
 # Shadow Blast *Spell 5*   
-[evocation](rules/traits/evocation.md)  [shadow](rules/traits/shadow.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [shadow](rules/traits/shadow.md "Shadow General Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md), [occult](rules/traits/occult.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**varies
 - **Area**varies

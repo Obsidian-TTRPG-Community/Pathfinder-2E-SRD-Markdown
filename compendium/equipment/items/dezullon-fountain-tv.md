@@ -11,7 +11,7 @@ tags:
 aliases: ["Dezullon Fountain"]
 ---
 # Dezullon Fountain *Item 11*  
-[acid](rules/traits/acid.md)  [conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [plant](rules/traits/plant.md)  
+[acid](rules/traits/acid.md "Acid Energy & Element Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  
 
 - **Price** 1300 gp
 - **Usage** held in 2 hands; **Bulk** 1
@@ -27,7 +27,7 @@ The next creature you successfully [Strike](rules/actions/strike.md) with this w
 ```ad-inline-affliction
 title: Amnesia Venom
 
-[mental](rules/traits/mental.md)  [poison](rules/traits/poison.md)  
+[mental](rules/traits/mental.md "Mental Effect Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 - **Saving Throws**: DC 29 Fortitude
 - **Maximum Duration**: 6 rounds
 

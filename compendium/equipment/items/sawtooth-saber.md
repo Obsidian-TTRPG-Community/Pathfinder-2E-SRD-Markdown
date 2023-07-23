@@ -11,7 +11,7 @@ tags:
 aliases: ["Sawtooth Saber"]
 ---
 # Sawtooth Saber *Item 0*  
-[agile](rules/traits/agile.md)  [finesse](rules/traits/finesse.md)  [twin](rules/traits/twin.md)  [uncommon](rules/traits/uncommon.md)  
+[agile](rules/traits/agile.md "Agile Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [twin](rules/traits/twin.md "Twin Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 5 gp
 - **Bulk** L

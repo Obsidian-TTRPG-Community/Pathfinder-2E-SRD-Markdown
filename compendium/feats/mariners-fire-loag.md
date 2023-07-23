@@ -7,7 +7,7 @@ tags:
 aliases: ["Mariner's Fire"]
 ---
 # Mariner's Fire  *Feat 1*  
-[tengu](rules/traits/tengu-b1.md)  
+[tengu](rules/traits/tengu-b1.md "Tengu Ancestry & Heritage Trait")  
 
 
 You conjure uncanny orbs of spiritual flame that float above or below the water's surface. You can cast the [produce flame](compendium/spells/produce-flame.md) cantrip as a primal innate spell at will, heightened to a spell level equal to half your level rounded up. You can cast this cantrip underwater.

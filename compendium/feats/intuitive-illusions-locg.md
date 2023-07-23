@@ -7,7 +7,7 @@ tags:
 aliases: ["Intuitive Illusions"]
 ---
 # Intuitive Illusions  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 5*  
-[gnome](rules/traits/gnome.md)  
+[gnome](rules/traits/gnome.md "Gnome Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Illusion Sense](compendium/feats/illusion-sense.md)
 - **Frequency**: once per day

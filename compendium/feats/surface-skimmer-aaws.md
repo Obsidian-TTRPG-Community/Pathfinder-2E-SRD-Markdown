@@ -7,7 +7,7 @@ tags:
 aliases: ["Surface Skimmer"]
 ---
 # Surface Skimmer  *Feat 1*  
-[azarketi](rules/traits/azarketi-loag.md)  
+[azarketi](rules/traits/azarketi-loag.md "Azarketi Ancestry & Heritage Trait")  
 
 
 By sinking gently beneath the waves, you obscure your presence and utilize the water as a barrier between you and land combatants. While you are submerged just below the water's surface, you have cover from attacks made by creatures out of the water.

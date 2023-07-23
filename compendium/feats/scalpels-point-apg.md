@@ -7,7 +7,7 @@ tags:
 aliases: ["Scalpel's Point"]
 ---
 # Scalpel's Point  *Feat 4*  
-[investigator](rules/traits/investigator-apg.md)  
+[investigator](rules/traits/investigator-apg.md "Investigator Class Trait")  
 
 - **Prerequisites**: forensic medicine methodology
 

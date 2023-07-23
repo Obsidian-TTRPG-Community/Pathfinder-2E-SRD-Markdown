@@ -7,7 +7,7 @@ tags:
 aliases: ["Superimpose Time Duplicates"]
 ---
 # Superimpose Time Duplicates  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Chronoskimmer Dedication](compendium/feats/chronoskimmer-dedication-da.md)
 - **Frequency**: once per hour

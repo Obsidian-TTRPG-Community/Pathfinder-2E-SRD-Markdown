@@ -11,9 +11,9 @@ tags:
 aliases: ["Cloudkill"]
 ---
 # Cloudkill *Spell 5*   
-[death](rules/traits/death.md)  [necromancy](rules/traits/necromancy.md)  [poison](rules/traits/poison.md)  
+[death](rules/traits/death.md "Death Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**120 foot
 - **Area**20-foot burst

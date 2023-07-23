@@ -9,7 +9,7 @@ tags:
 aliases: ["Healer's Gloves"]
 ---
 # Healer's Gloves *Item 4*  
-[magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 - **Price** 80 gp
 - **Usage** worn gloves
@@ -19,9 +19,9 @@ These clean white gloves never show signs of blood, even when used to stitch up 
 
 ```ad-embed-ability
 title: Soothe Wounds [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[manipulate](rules/traits/manipulate.md)  
+[manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 
-You heal an adjacent living creature by touching them with the gloves, restoring `2d6+7` Hit Points to that creature. This is a positive [healing](rules/traits/healing.md) effect.  
+You heal an adjacent living creature by touching them with the gloves, restoring `2d6+7` Hit Points to that creature. This is a positive [healing](rules/traits/healing.md "Healing Effect Trait") effect.  
 %% #trait/manipulate %%
 ```
 

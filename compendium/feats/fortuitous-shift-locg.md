@@ -7,7 +7,7 @@ tags:
 aliases: ["Fortuitous Shift"]
 ---
 # Fortuitous Shift  *Feat 9*  
-[gnome](rules/traits/gnome.md)  
+[gnome](rules/traits/gnome.md "Gnome Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Unexpected Shift](compendium/feats/unexpected-shift-locg.md)
 

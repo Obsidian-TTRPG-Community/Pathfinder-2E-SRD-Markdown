@@ -7,7 +7,7 @@ tags:
 aliases: ["Crystal Ward Spells"]
 ---
 # Crystal Ward Spells  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Crystal Keeper Dedication](compendium/feats/crystal-keeper-dedication-aoa4.md)
 

@@ -8,7 +8,7 @@ tags:
 aliases: ["Entwined Energy Ki"]
 ---
 # Entwined Energy Ki  *Feat 10*  
-[monk](rules/traits/monk.md)  [uncommon](rules/traits/uncommon.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 
 You can transform your inner power into a type of energy to empower your ki abilities. When you gain this feat, choose either acid, cold, electricity, fire, or sonic damage. When you cast [ki blast](compendium/spells/ki-blast.md) (Core Rulebook 401), you can choose to have the spell deal the type of damage you chose instead of force damage. When you cast [ki form](compendium/spells/ki-form-apg.md) or [ki strike](compendium/spells/ki-strike.md), add the type of damage you chose to the list of damage types you can select for the spell.

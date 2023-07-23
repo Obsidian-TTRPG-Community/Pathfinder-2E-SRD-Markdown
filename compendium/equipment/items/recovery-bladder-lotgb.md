@@ -9,7 +9,7 @@ tags:
 aliases: ["Recovery Bladder"]
 ---
 # Recovery Bladder *Item 3*  
-[consumable](rules/traits/consumable.md)  [rare](rules/traits/rare.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 10 gp
 - **Bulk** L (8 if inflated)

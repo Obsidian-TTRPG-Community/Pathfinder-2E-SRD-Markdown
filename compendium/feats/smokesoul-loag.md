@@ -8,14 +8,14 @@ tags:
 aliases: ["Smokesoul"]
 ---
 # Smokesoul  *Feat 1*  
-[lineage](rules/traits/lineage-apg.md)  [sylph](rules/traits/sylph-b2.md)  
+[lineage](rules/traits/lineage-apg.md "Lineage  Trait")  [sylph](rules/traits/sylph-b2.md "Sylph Ancestry & Heritage Trait")  
 
 
 You have a connection to smoke and haze. You gain the Smoke Blending reaction.
 
 ```ad-embed-ability
 title: Smoke Blending [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[sylph](rules/traits/sylph-b2.md)  
+[sylph](rules/traits/sylph-b2.md "Sylph Ancestry & Heritage Trait")  
 
 - **Trigger**: A creature attempts a flat check to target you because you're [concealed](rules/conditions.md#Concealed) or [hidden](rules/conditions.md#Hidden) due to fog, haze, mist, or smoke
 

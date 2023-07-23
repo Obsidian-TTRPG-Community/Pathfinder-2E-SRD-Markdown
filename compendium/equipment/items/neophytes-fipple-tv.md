@@ -10,7 +10,7 @@ tags:
 aliases: ["Neophyte's Fipple"]
 ---
 # Neophyte's Fipple *Item 3*  
-[consumable](rules/traits/consumable.md)  [illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 8 gp
 - **Usage** held in 2 hands; **Bulk** L

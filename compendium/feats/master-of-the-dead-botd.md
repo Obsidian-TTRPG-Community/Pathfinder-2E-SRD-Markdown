@@ -8,7 +8,7 @@ tags:
 aliases: ["Master of the Dead"]
 ---
 # Master of the Dead  *Feat 12*  
-[archetype](rules/traits/archetype.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Deathly Secrets](compendium/feats/deathly-secrets-botd.md)
 

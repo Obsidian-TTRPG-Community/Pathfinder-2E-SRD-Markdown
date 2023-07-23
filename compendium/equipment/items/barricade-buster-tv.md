@@ -13,7 +13,7 @@ tags:
 aliases: ["Barricade Buster"]
 ---
 # Barricade Buster *Item 1*  
-[orc](rules/traits/orc.md)  [razing](rules/traits/razing-tv.md)  [uncommon](rules/traits/uncommon.md)  [volley <20 ft.>](rules/traits/volley.md)  kickback  repeating  
+[orc](rules/traits/orc.md "Orc Ancestry & Heritage Trait")  [razing](rules/traits/razing-tv.md "Razing Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [volley <20 ft.>](rules/traits/volley-20-ft.md "Volley Weapon Trait")  kickback  repeating  
 
 - **Price** 9 gp
 - **Bulk** 3

@@ -7,7 +7,7 @@ tags:
 aliases: ["Take Control"]
 ---
 # Take Control [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[manipulate](rules/traits/manipulate.md)  
+[manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 *Source: Gamemastery Guide p. 176*  
 
 **Variant Rule** Vehicles

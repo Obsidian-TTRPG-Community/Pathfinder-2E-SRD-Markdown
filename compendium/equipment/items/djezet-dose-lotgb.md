@@ -10,7 +10,7 @@ tags:
 aliases: ["Djezet Dose"]
 ---
 # Djezet Dose *Item 13*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 600 gp
 - **Usage** held in 1 hand; **Bulk** L

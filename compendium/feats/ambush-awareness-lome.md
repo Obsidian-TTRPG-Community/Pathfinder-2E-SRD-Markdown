@@ -7,7 +7,7 @@ tags:
 aliases: ["Ambush Awareness"]
 ---
 # Ambush Awareness  *Feat 5*  
-[goloma](rules/traits/goloma-lome.md)  
+[goloma](rules/traits/goloma-lome.md "Goloma Ancestry & Heritage Trait")  
 
 
 You gain a +2 circumstance bonus to [Perception](compendium/skills.md#Perception) checks attempted as initiative rolls.

@@ -7,7 +7,7 @@ tags:
 aliases: ["Impressive Landing"]
 ---
 # Impressive Landing  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
-[barbarian](rules/traits/barbarian.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  
 
 - **Trigger** You fall at least 10 feet and land on a solid surface.
 - **Activity** Reaction

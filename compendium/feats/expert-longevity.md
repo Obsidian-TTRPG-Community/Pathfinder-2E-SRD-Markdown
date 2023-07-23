@@ -7,7 +7,7 @@ tags:
 aliases: ["Expert Longevity"]
 ---
 # Expert Longevity  *Feat 9*  
-[elf](rules/traits/elf.md)  
+[elf](rules/traits/elf.md "Elf Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Ancestral Longevity](compendium/feats/ancestral-longevity.md)
 

@@ -8,7 +8,7 @@ tags:
 aliases: ["Strange Script"]
 ---
 # Strange Script  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [divination](rules/traits/divination.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [divination](rules/traits/divination.md "Divination School Trait")  
 
 - **Prerequisites**: [Eldritch Researcher Dedication](compendium/feats/eldritch-researcher-dedication-av2.md)
 

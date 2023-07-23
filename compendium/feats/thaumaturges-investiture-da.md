@@ -7,7 +7,7 @@ tags:
 aliases: ["Thaumaturge's Investiture"]
 ---
 # Thaumaturge's Investiture  *Feat 10*  
-[thaumaturge](rules/traits/thaumaturge-da.md)  
+[thaumaturge](rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
 
 - **Prerequisites**: Charisma 16
 

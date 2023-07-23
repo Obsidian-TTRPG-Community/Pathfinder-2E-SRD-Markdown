@@ -7,7 +7,7 @@ tags:
 aliases: ["Mastermind's Eye"]
 ---
 # Mastermind's Eye  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Butterfly Blade Dedication](compendium/feats/butterfly-blade-dedication-frp1.md)
 

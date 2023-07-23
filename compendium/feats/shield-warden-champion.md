@@ -7,7 +7,7 @@ tags:
 aliases: ["Shield Warden (Champion)"]
 ---
 # Shield Warden (Champion)  *Feat 6*  
-[champion](rules/traits/champion.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  
 
 - **Prerequisites**: divine ally (shield), tenets of good
 

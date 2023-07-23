@@ -46,14 +46,14 @@ The Obsidian TTRPG Share team presents the Pathfinder 2nd Editioon TTRPG Statblo
 
 **Once you have those items, the Bestiary Items in the Pathfinder 2E TTRPG Statblocks Should Render!**
 
-If you want the extra Kingmaker layouts, check out the [Kingmaker Layout README](Readme-Kingmaker.md). 
+If you want the extra Kingmaker layouts, check out the [Kingmaker Layout README](fantasy-bestiary/Readme-Kingmaker.md). 
 
 > **Note**: As of 1.4 release, style settings options have been expanded for all "Traiting" options per layout. 
 > **Note**: The Statblock is now built into and updated from within Fantasy Statblocks. It is renamed as Basic Pathfinder 2E Layout.
 
 ### Optional Tools
 
-1. This [Template-2ETools-Monster-Handlebar](../../Bestiary/Template-2ETools-Monster-Handlebar.md) file to take .json data from the [PF2E Tools Bestiary](https://pf2etools.com/bestiary.html#aapoph%20serpentfolk_b2) to your vault. Complete with YAML data for Initiative Tracker. You will need to use [Obsidian Import Json](https://github.com/farling42/obsidian-import-json) to use this handlebar template.
+1. This [Template-2ETools-Monster-Handlebar](fantasy-bestiary/Template-2ETools-Monster-Handlebar.md) file to take .json data from the [PF2E Tools Bestiary](https://pf2etools.com/bestiary.html#aapoph%20serpentfolk_b2) to your vault. Complete with YAML data for Initiative Tracker. You will need to use [Obsidian Import Json](https://github.com/farling42/obsidian-import-json) to use this handlebar template.
 
 ## Clockwork Dragon
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Terrible Transformation"]
 ---
 # Terrible Transformation  *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: Ursine Avenger Form
 

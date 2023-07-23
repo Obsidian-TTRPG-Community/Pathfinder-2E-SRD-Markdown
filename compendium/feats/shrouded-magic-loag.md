@@ -7,7 +7,7 @@ tags:
 aliases: ["Shrouded Magic"]
 ---
 # Shrouded Magic  *Feat 1*  
-[fetchling](rules/traits/fetchling-b2.md)  
+[fetchling](rules/traits/fetchling-b2.md "Fetchling Ancestry & Heritage Trait")  
 
 
 Choose one cantrip from the occult spell list. You can cast this cantrip as an occult innate spell at will, heightened to a spell level equal to half your level rounded up.

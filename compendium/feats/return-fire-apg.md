@@ -7,7 +7,7 @@ tags:
 aliases: ["Return Fire"]
 ---
 # Return Fire  *Feat 6*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Prerequisites**: [Deflect Arrow](compendium/feats/deflect-arrow.md), [Monastic Archer Stance](compendium/feats/monastic-archer-stance-apg.md)
 - **Requirements**: You are in Monastic Archer Stance, are wielding a bow, and have a free hand.

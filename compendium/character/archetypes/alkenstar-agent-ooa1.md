@@ -15,7 +15,7 @@ Outwardly dashing outlaws or silent, deadly bravos, these masters of combat and 
 title: Alkenstar Agent Dedication, Feat 2
 collapse: closed
 # Alkenstar Agent Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: You have been initiated by the grand duchess of Alkenstar or one of her agents.
 - **Prerequisites**: trained in [Deception](compendium/skills.md#Deception) and at least one firearm
@@ -25,14 +25,14 @@ You put on the persona of a rough and tumble outlaw, but your real goals are to 
 **Special.** You can't select another dedication feat until you've gained two other feats from the Alkenstar Agent archetype.
 
 *Source: Outlaws of Alkenstar #1: Punks in a Powder Keg p. 78*  
-%% #trait/uncommon #trait/archetype #trait/dedication %%
+%% #trait/archetype #trait/dedication #trait/uncommon %%
 ```  
 
 ```ad-embed-feat
 title: Loose Cannon, Feat 4
 collapse: closed
 # Loose Cannon  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: Alkenstar Agent Dedication
 - **Activity** Single Action
@@ -53,7 +53,7 @@ Your unpredictable gunfire often catches enemies off guard or hits unprotected a
 title: Plant Evidence, Feat 4*
 collapse: closed
 # Plant Evidence  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 > [!pf2-note] This version of [Plant Evidence](compendium/feats/plant-evidence-apg.md) is intended for use with the Alkenstar Agent Archetype. Its level has been changed accordingly.
 
@@ -70,7 +70,7 @@ You can put a single item you're holding of light or negligible Bulk onto a pers
 title: Quick Draw (Ranger), Feat 4*
 collapse: closed
 # Quick Draw (Ranger)  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 > [!pf2-note] This version of [Quick Draw (Ranger)](compendium/feats/quick-draw-ranger.md) is intended for use with the Alkenstar Agent Archetype. Its level has been changed accordingly.
 
@@ -86,7 +86,7 @@ You draw your weapon and attack with the same motion. You [Interact](rules/actio
 title: Reactive Pursuit, Feat 6*
 collapse: closed
 # Reactive Pursuit  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 > [!pf2-note] This version of [Reactive Pursuit](compendium/feats/reactive-pursuit.md) is intended for use with the Alkenstar Agent Archetype. Its level has been changed accordingly.
 
@@ -103,7 +103,7 @@ You keep pace with a retreating foe. You [Stride](rules/actions/stride.md), but 
 title: Running Reload, Feat 6*
 collapse: closed
 # Running Reload  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 > [!pf2-note] This version of [Running Reload](compendium/feats/running-reload.md) is intended for use with the Alkenstar Agent Archetype. Its level has been changed accordingly.
 
@@ -119,7 +119,7 @@ You can reload your weapon on the move. You [Stride](rules/actions/stride.md), [
 title: Prepare Papers, Feat 7
 collapse: closed
 # Prepare Papers  *Feat 7*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: Alkenstar Agent Dedication, master in [Society](compendium/skills.md#Society)
 
@@ -133,12 +133,12 @@ You're practiced at creating forgeries that establish your outlaw credentials or
 title: Flash Your Badge, Feat 10
 collapse: closed
 # Flash Your Badge  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: Alkenstar Agent Dedication, master in [Intimidation](compendium/skills.md#Intimidation)
 - **Activity** Two-Action
 
-You make a fearsome show of your authority. Roll [Intimidation](compendium/skills.md#Intimidation) checks to [Demoralize](rules/actions/demoralize.md) each creature in a 30-foot cone. When you do so, [Demoralize](rules/actions/demoralize.md) gains the [visual](rules/traits/visual.md) trait, and creatures are affected if they can see you. If a target creature hasn't broken a law in the past week (as determined by the GM), the result of your check against that creature is one degree of success worse than the result you rolled.
+You make a fearsome show of your authority. Roll [Intimidation](compendium/skills.md#Intimidation) checks to [Demoralize](rules/actions/demoralize.md) each creature in a 30-foot cone. When you do so, [Demoralize](rules/actions/demoralize.md) gains the [visual](rules/traits/visual.md "Visual Effect Trait") trait, and creatures are affected if they can see you. If a target creature hasn't broken a law in the past week (as determined by the GM), the result of your check against that creature is one degree of success worse than the result you rolled.
 
 *Source: Outlaws of Alkenstar #1: Punks in a Powder Keg p. 78*  
 %% #trait/archetype %%
@@ -148,7 +148,7 @@ You make a fearsome show of your authority. Roll [Intimidation](compendium/skill
 title: Snap Shot, Feat 10*
 collapse: closed
 # Snap Shot  *Feat 10*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 > [!pf2-note] This version of [Snap Shot](compendium/feats/snap-shot.md) is intended for use with the Alkenstar Agent Archetype. Its level has been changed accordingly.
 
@@ -163,13 +163,13 @@ You've learned to react with ranged weapons when a creature is in close quarters
 title: Instant Opening, Feat 18*
 collapse: closed
 # Instant Opening  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 18*  
-[concentrate](rules/traits/concentrate.md)  [rogue](rules/traits/rogue.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 > [!pf2-note] This version of [Instant Opening](compendium/feats/instant-opening.md) is intended for use with the Alkenstar Agent Archetype. Its level has been changed accordingly.
 
 - **Activity** Single Action
 
-You distract your opponent with a few choice words or a rude gesture. Choose a target within 30 feet. It's [flat-footed](rules/conditions.md#Flat-footed) against your attacks until the end of your next turn. Depending on the way you describe your distraction, this action gains either the [auditory](rules/traits/auditory.md) or [visual](rules/traits/visual.md) trait.
+You distract your opponent with a few choice words or a rude gesture. Choose a target within 30 feet. It's [flat-footed](rules/conditions.md#Flat-footed) against your attacks until the end of your next turn. Depending on the way you describe your distraction, this action gains either the [auditory](rules/traits/auditory.md "Auditory Effect Trait") or [visual](rules/traits/visual.md "Visual Effect Trait") trait.
 
 *Source: Core Rulebook p. 188*  
 %% #trait/concentrate #trait/rogue %%

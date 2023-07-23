@@ -7,7 +7,7 @@ tags:
 aliases: ["Lie Detector"]
 ---
 # Lie Detector  *Feat 4*  
-[investigator](rules/traits/investigator-apg.md)  
+[investigator](rules/traits/investigator-apg.md "Investigator Class Trait")  
 
 - **Prerequisites**: empiricism or interrogation methodology
 

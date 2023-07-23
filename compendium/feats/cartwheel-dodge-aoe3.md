@@ -7,7 +7,7 @@ tags:
 aliases: ["Cartwheel Dodge"]
 ---
 # Cartwheel Dodge  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Provocator Dedication](compendium/feats/provocator-dedication-aoe3.md)
 - **Trigger** You succeed or critically succeed at a Reflex saving throw.

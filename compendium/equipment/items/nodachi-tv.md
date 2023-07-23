@@ -10,7 +10,7 @@ tags:
 aliases: ["Nodachi"]
 ---
 # Nodachi *Item 0*  
-[brace](rules/traits/brace-tv.md)  [deadly <d12>](rules/traits/deadly.md)  [reach](rules/traits/reach.md)  
+[brace](rules/traits/brace-tv.md "Brace Weapon Trait")  [deadly <d12>](rules/traits/deadly-d12.md "Deadly Weapon Trait")  [reach](rules/traits/reach.md "Reach Weapon Trait")  
 
 - **Price** 6 gp
 - **Bulk** 2

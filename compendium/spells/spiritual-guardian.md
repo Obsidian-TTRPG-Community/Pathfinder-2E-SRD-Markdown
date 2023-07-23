@@ -9,9 +9,9 @@ tags:
 aliases: ["Spiritual Guardian"]
 ---
 # Spiritual Guardian *Spell 5*   
-[abjuration](rules/traits/abjuration.md)  [force](rules/traits/force.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Requirements**You have a deity.
 - **Range**120 foot

@@ -8,9 +8,9 @@ tags:
 aliases: ["Chroma Leach"]
 ---
 # Chroma Leach *Spell 4*   
-[necromancy](rules/traits/necromancy.md)  
+[necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
-- **Traditions**: [occult](rules/traits/occult.md)
+- **Traditions**: [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**touch
 - **Targets**1 living creature
@@ -18,12 +18,12 @@ aliases: ["Chroma Leach"]
 
 Your hand glows with impossible colors from beyond the stars, and your touch saps both color and vitality from the living.
 
-The target must attempt a Fortitude save; creatures with the [gnome](rules/traits/gnome.md) trait take a –2 circumstance penalty to this save.
+The target must attempt a Fortitude save; creatures with the [gnome](rules/traits/gnome.md "Gnome Ancestry & Heritage Trait") trait take a –2 circumstance penalty to this save.
 
 > [!success-degree] 
 > - **Critical Success** The target is unaffected.
 > - **Success** The target is [enfeebled](rules/conditions.md#Enfeebled) for 1 round.
-> - **Failure** The target is [enfeebled](rules/conditions.md#Enfeebled) for 1 minute and [drained](rules/conditions.md#Drained). The target is also filled with listlessness and ennui. For 1 round, if the target tries to use a move action, it must succeed at a Will save against your spell DC or the action is lost; this effect has the [mental](rules/traits/mental.md) and [emotion](rules/traits/emotion.md) traits.
+> - **Failure** The target is [enfeebled](rules/conditions.md#Enfeebled) for 1 minute and [drained](rules/conditions.md#Drained). The target is also filled with listlessness and ennui. For 1 round, if the target tries to use a move action, it must succeed at a Will save against your spell DC or the action is lost; this effect has the [mental](rules/traits/mental.md "Mental Effect Trait") and [emotion](rules/traits/emotion.md "Emotion Effect Trait") traits.
 > - **Critical Failure** As failure, but the creature is permanently [enfeebled](rules/conditions.md#Enfeebled) and [drained](rules/conditions.md#Drained) (although magic such as restoration can reduce or remove these conditions).
 
 *Source: Advanced Player's Guide p. 217*

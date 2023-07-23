@@ -7,7 +7,7 @@ tags:
 aliases: ["Quaking Footfalls"]
 ---
 # Quaking Footfalls *Hazard 14*  
-[environmental](rules/traits/environmental.md)  
+[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 10  

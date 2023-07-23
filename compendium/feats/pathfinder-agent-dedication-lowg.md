@@ -9,7 +9,7 @@ tags:
 aliases: ["Pathfinder Agent Dedication"]
 ---
 # Pathfinder Agent Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: You are from Absalom.
 - **Prerequisites**: member of the Pathfinder Society

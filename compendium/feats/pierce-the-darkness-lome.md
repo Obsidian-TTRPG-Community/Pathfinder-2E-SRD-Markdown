@@ -7,7 +7,7 @@ tags:
 aliases: ["Pierce The Darkness"]
 ---
 # Pierce The Darkness  *Feat 1*  
-[goloma](rules/traits/goloma-lome.md)  
+[goloma](rules/traits/goloma-lome.md "Goloma Ancestry & Heritage Trait")  
 
 - **Prerequisites**: low-light vision
 

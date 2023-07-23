@@ -16,13 +16,13 @@ tags:
 - trait/trip
 aliases: ["Zon-Kuthon", "Midnight Lord"]
 ---
-# Zon-Kuthon (Midnight Lord) *([LE](rules/traits/lawful-evil-b1.md))*  
+# Zon-Kuthon (Midnight Lord) *([LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"))*  
 *Source: Core Rulebook p. 440*  
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: create permanent or long-lasting sources of light, provide comfort to those who suffer
 - **Areas of Concern**: darkness, , envy, , loss, , and pain
-- **Follower Alignments**: [LN](rules/traits/lawful-neutral-b1.md), [LE](rules/traits/lawful-evil-b1.md), [NE](rules/traits/neutral-evil-b1.md)
+- **Follower Alignments**: [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"), [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait")
 
 ## Devotee benefits
 
@@ -38,8 +38,8 @@ aliases: ["Zon-Kuthon", "Midnight Lord"]
 title: [Avatar](compendium/spells/avatar.md) of Zon-Kuthon
 
 - **Speed**: Speed 70 feet, [air walk](compendium/spells/air-walk.md), ignore difficult terrain and greater difficult terrain
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") spiked chain ([disarm](rules/traits/disarm.md), [reach <15 feet>](rules/traits/reach.md), [trip](rules/traits/trip.md)), **Damage** `6d8+6` slashing
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") midnight pain ([mental](rules/traits/mental.md), [nonlethal](rules/traits/nonlethal.md)), **Damage** `6d6+3` mental
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") spiked chain ([disarm](rules/traits/disarm.md "Disarm Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [trip](rules/traits/trip.md "Trip Weapon Trait")), **Damage** `6d8+6` slashing
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") midnight pain ([mental](rules/traits/mental.md "Mental Effect Trait"), [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait")), **Damage** `6d6+3` mental
 ```
 
 ## Divine intercession
@@ -51,6 +51,6 @@ Zon-Kuthon rarely intervenes directly in mortal affairs, but when he does take a
 - **Moderate Boon**: Each morning, during your daily preparations, scars gather into words on your flesh. The scars function as a scroll of a divine spell of Zon-Kuthon's choosing. After you use the scroll or receive magical healing, the boon fades for the day, though some or all of the scars might remain as a reminder.
 - **Major Boon**: Shadows are deeper around you. [Darkvision](rules/abilities/darkvision.md) and [greater darkvision](rules/abilities/darkvision.md) cannot penetrate darkness within 60 feet of you, but you can see through it normally.
 
-- **Minor Curse**: You are surrounded by spectral chains that cause you to always be [encumbered](rules/conditions.md#Encumbered) and that have the same effects as armor with the [noisy](rules/traits/noisy.md) trait.
+- **Minor Curse**: You are surrounded by spectral chains that cause you to always be [encumbered](rules/conditions.md#Encumbered) and that have the same effects as armor with the [noisy](rules/traits/noisy.md "Noisy Armor Trait") trait.
 - **Moderate Curse** You share the pain of others, and even minor wounds bring you incredible pain. Whenever you see (or otherwise sense) a creature take damage, you take `1d6` mental damage. Whenever you take damage any other way than from the first part of this curse, you take `1d6` mental damage from increased pain and are [sickened](rules/conditions.md#Sickened). Mental damage from this curse ignores any resistance you have to mental damage.
 - **Major Curse**: Zon-Kuthon steals away your joy, leaving you with only pain. You lose that which you cherish the most forever, and lose the ability to feel joy. You can't gain benefits from emotion effects based on positive emotions. If Zon-Kuthon feels you are ready to renounce, destroy, mutilate, or torture that which you once cherished most, he might return it to you to allow you to do so.

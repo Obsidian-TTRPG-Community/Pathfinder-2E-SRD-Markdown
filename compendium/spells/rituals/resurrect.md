@@ -10,7 +10,7 @@ tags:
 aliases: ["Resurrect"]
 ---
 # Resurrect *Ritual 5*  
-[healing](rules/traits/healing.md)  [necromancy](rules/traits/necromancy.md)  [uncommon](rules/traits/uncommon.md)  
+[healing](rules/traits/healing.md "Healing Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** 1 day
 - **Cost** diamonds worth a total value of 75 gp × the target's level

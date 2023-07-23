@@ -8,7 +8,7 @@ tags:
 aliases: ["Ooze Skin"]
 ---
 # Ooze Skin *Item 5*  
-[alchemical](rules/traits/alchemical.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  
 
 - **Price** 150 gp
 - **Usage** worn armor; **Bulk** 1

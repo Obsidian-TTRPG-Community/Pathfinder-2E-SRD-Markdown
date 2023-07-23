@@ -7,10 +7,10 @@ tags:
 aliases: ["Metamagic Mastery (Sorcerer)"]
 ---
 # Metamagic Mastery (Sorcerer)  *Feat 20*  
-[sorcerer](rules/traits/sorcerer.md)  
+[sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 
-Altering your spells doesn't take any longer than casting them normally. You can use [metamagic](rules/traits/metamagic.md) single actions as free actions.
+Altering your spells doesn't take any longer than casting them normally. You can use [metamagic](rules/traits/metamagic.md "Metamagic General Trait") single actions as free actions.
 
 *Source: Core Rulebook p. 201*  
 %% #compendium/src/pf2e/crb #trait/sorcerer %%

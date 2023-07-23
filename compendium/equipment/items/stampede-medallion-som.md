@@ -11,7 +11,7 @@ tags:
 aliases: ["Stampede Medallion"]
 ---
 # Stampede Medallion *Item 12+*  
-[eidolon](rules/traits/eidolon-som.md)  [evocation](rules/traits/evocation.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+[eidolon](rules/traits/eidolon-som.md "Eidolon Creature Type Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Usage** worn; **Bulk** L
 - **Category** Worn

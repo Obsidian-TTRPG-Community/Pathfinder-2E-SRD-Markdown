@@ -7,7 +7,7 @@ tags:
 aliases: ["Dragon Spit"]
 ---
 # Dragon Spit  *Feat 1*  
-[human](rules/traits/human.md)  
+[human](rules/traits/human.md "Human Ancestry & Heritage Trait")  
 
 - **Prerequisites**: Tian-Dan ethnicity
 

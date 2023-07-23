@@ -7,7 +7,7 @@ tags:
 aliases: ["Grand Scroll Esoterica"]
 ---
 # Grand Scroll Esoterica  *Feat 18*  
-[thaumaturge](rules/traits/thaumaturge-da.md)  
+[thaumaturge](rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
 
 - **Prerequisites**: Elaborate Scroll Esoterica
 

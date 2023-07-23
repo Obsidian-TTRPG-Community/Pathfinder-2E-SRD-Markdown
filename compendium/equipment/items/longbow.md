@@ -9,7 +9,7 @@ tags:
 aliases: ["Longbow"]
 ---
 # Longbow *Item 0*  
-[deadly <d10>](rules/traits/deadly.md)  [volley <30 ft.>](rules/traits/volley.md)  
+[deadly <d10>](rules/traits/deadly-d10.md "Deadly Weapon Trait")  [volley <30 ft.>](rules/traits/volley-30-ft.md "Volley Weapon Trait")  
 
 - **Price** 6 gp
 - **Bulk** 2

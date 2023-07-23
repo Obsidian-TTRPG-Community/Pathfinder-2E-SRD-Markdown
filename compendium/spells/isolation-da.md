@@ -10,7 +10,7 @@ tags:
 aliases: ["Isolation"]
 ---
 # Isolation *Focus 4*   
-[cleric](rules/traits/cleric.md)  [illusion](rules/traits/illusion.md)  [rare](rules/traits/rare.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Domains**: [darkness (apocryphal)](compendium/setting/domains.md#Darkness)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

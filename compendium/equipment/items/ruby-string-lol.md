@@ -10,7 +10,7 @@ tags:
 aliases: ["Ruby String"]
 ---
 # Ruby String *Item 14*  
-[conjuration](rules/traits/conjuration.md)  [consumable](rules/traits/consumable.md)  [rare](rules/traits/rare.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 900 gp
 - **Usage** held in 1 hand

@@ -7,7 +7,7 @@ tags:
 aliases: ["Feverish Enzymes"]
 ---
 # Feverish Enzymes  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Ghoul Dedication](compendium/feats/ghoul-dedication-botd.md)
 - **Activity** Two-Action

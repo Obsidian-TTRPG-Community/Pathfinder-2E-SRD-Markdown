@@ -7,7 +7,7 @@ tags:
 aliases: ["Decry Thief"]
 ---
 # Decry Thief  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Zephyr Guard Dedication](compendium/feats/zephyr-guard-dedication-aoa5.md), trained in [Intimidation](compendium/skills.md#Intimidation)
 

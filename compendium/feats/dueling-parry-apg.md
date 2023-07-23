@@ -7,7 +7,7 @@ tags:
 aliases: ["Dueling Parry"]
 ---
 # Dueling Parry  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
-[swashbuckler](rules/traits/swashbuckler-apg.md)  
+[swashbuckler](rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  
 
 - **Requirements**: You are wielding only a single one-handed melee weapon and have your other hand or hands free.
 - **Activity** Single Action

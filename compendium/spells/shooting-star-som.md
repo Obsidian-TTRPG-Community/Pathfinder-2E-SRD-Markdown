@@ -10,7 +10,7 @@ tags:
 aliases: ["Shooting Star"]
 ---
 # Shooting Star *Focus 1*   
-[divination](rules/traits/divination.md)  [magus](rules/traits/magus-som.md)  [uncommon](rules/traits/uncommon.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [magus](rules/traits/magus-som.md "Magus Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Requirements**You're wielding a ranged weapon or a thrown weapon.

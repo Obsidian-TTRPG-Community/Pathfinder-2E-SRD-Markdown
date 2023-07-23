@@ -7,7 +7,7 @@ tags:
 aliases: ["Greater Physical Evolution"]
 ---
 # Greater Physical Evolution  *Feat 12*  
-[sorcerer](rules/traits/sorcerer.md)  
+[sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 - **Prerequisites**: [Arcane Evolution](compendium/feats/arcane-evolution.md) or [Primal Evolution](compendium/feats/primal-evolution.md)
 

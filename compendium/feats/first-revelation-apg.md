@@ -7,11 +7,11 @@ tags:
 aliases: ["First Revelation"]
 ---
 # First Revelation  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Oracle Dedication](compendium/feats/oracle-dedication-apg.md)
 
-You gain your mystery's initial revelation spell. Casting this spell progresses your oracular curse|oracle|apg|1||curse. Use the minor curse from your mystery, but when you progress it again, instead of your mystery's moderate [curse](rules/traits/curse.md) effect, you become [flat-footed](rules/conditions.md#Flat-footed) in addition to the effects of the minor curse.
+You gain your mystery's initial revelation spell. Casting this spell progresses your oracular curse|oracle|apg|1||curse. Use the minor curse from your mystery, but when you progress it again, instead of your mystery's moderate [curse](rules/traits/curse.md "Curse Effect Trait") effect, you become [flat-footed](rules/conditions.md#Flat-footed) in addition to the effects of the minor curse.
 
 If you don't have one, you gain a focus pool of 1 Focus Point.
 

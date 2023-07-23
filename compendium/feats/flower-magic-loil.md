@@ -7,7 +7,7 @@ tags:
 aliases: ["Flower Magic"]
 ---
 # Flower Magic  *Feat 9*  
-[ghoran](rules/traits/ghoran-loil.md)  
+[ghoran](rules/traits/ghoran-loil.md "Ghoran Ancestry & Heritage Trait")  
 
 
 Certain magics in the world flow easily through your sap. You can cast [barkskin](compendium/spells/barkskin.md) and tree shape as 2nd-level arcane innate spells once per day each. A [tree shape](compendium/spells/tree-shape.md) spell you cast this way transforms you into a Large flowering plant like a rosebush or lilac bush instead of a tree.

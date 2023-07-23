@@ -7,7 +7,7 @@ tags:
 aliases: ["Incredible Recollection"]
 ---
 # Incredible Recollection  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Eldritch Researcher Dedication](compendium/feats/eldritch-researcher-dedication-av2.md)
 - **Activity** Single Action

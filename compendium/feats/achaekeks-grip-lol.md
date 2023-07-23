@@ -8,7 +8,7 @@ tags:
 aliases: ["Achaekek's Grip"]
 ---
 # Achaekek's Grip  *Feat 8*  
-[archetype](rules/traits/archetype.md)  [rare](rules/traits/rare.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Prerequisites**: [Basic Red Mantis Magic](compendium/feats/basic-red-mantis-magic-lowg.md)
 

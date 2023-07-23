@@ -8,7 +8,7 @@ tags:
 aliases: ["Survey Map"]
 ---
 # Survey Map *Item 3*  
-[uncommon](rules/traits/uncommon.md)  
+[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bulk** L
 - **Hands** 1

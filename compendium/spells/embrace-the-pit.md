@@ -12,7 +12,7 @@ tags:
 aliases: ["Embrace The Pit"]
 ---
 # Embrace The Pit *Focus 3*   
-[evil](rules/traits/evil.md)  [morph](rules/traits/morph.md)  [sorcerer](rules/traits/sorcerer.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+[evil](rules/traits/evil.md "Evil Alignment Trait")  [morph](rules/traits/morph.md "Morph Effect Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bloodline** Sorcerer
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 

@@ -11,7 +11,7 @@ tags:
 aliases: ["Frightful Aura"]
 ---
 # Frightful Aura  *Feat 18*  
-[archetype](rules/traits/archetype.md)  [aura](rules/traits/aura.md)  [emotion](rules/traits/emotion.md)  [fear](rules/traits/fear.md)  [mental](rules/traits/mental.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [aura](rules/traits/aura.md "Aura Combat Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 - **Prerequisites**: [Lich Dedication](compendium/feats/lich-dedication-botd.md), master in [Intimidation](compendium/skills.md#Intimidation)
 

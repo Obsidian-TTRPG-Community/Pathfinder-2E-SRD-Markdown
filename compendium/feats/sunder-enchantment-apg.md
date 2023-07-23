@@ -7,7 +7,7 @@ tags:
 aliases: ["Sunder Enchantment"]
 ---
 # Sunder Enchantment  *Feat 14*  
-[barbarian](rules/traits/barbarian.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  
 
 - **Prerequisites**: [Sunder Spell](compendium/feats/sunder-spell-apg.md)
 

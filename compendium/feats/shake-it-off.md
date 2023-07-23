@@ -9,7 +9,7 @@ tags:
 aliases: ["Shake It Off"]
 ---
 # Shake It Off  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 2*  
-[barbarian](rules/traits/barbarian.md)  [concentrate](rules/traits/concentrate.md)  [rage](rules/traits/rage.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [rage](rules/traits/rage.md "Rage Combat Trait")  
 
 - **Activity** Single Action
 

@@ -11,7 +11,7 @@ tags:
 aliases: ["Reverberating Stone"]
 ---
 # Reverberating Stone *Item 11+*  
-[consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [talisman](rules/traits/talisman.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  
 
 - **Usage** affixed to a shield; **Bulk** —
 - **Activate** envision; **Trigger** You use the affixed shield to Shield Block a melee attack; **Requirements** You're a master in [Athletics](compendium/skills.md#Athletics), and you have the affixed shield raised.

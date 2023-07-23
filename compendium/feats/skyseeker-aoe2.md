@@ -8,7 +8,7 @@ tags:
 aliases: ["Skyseeker"]
 ---
 # Skyseeker  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  [open](rules/traits/open.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [open](rules/traits/open.md "Open Combat Trait")  
 
 - **Prerequisites**: [Sky and Heaven Stance](compendium/feats/sky-and-heaven-stance-aoe2.md)
 - **Requirements**: You are in Sky and Heaven Stance.

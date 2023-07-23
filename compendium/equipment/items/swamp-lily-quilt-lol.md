@@ -10,7 +10,7 @@ tags:
 aliases: ["Swamp Lily Quilt"]
 ---
 # Swamp Lily Quilt *Item 3*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [rare](rules/traits/rare.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 12 gp
 - **Usage** held in 2 hands; **Bulk** 2

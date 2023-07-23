@@ -11,7 +11,7 @@ tags:
 aliases: ["Timeline-Splitting Spell"]
 ---
 # Timeline-Splitting Spell  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 18*  
-[archetype](rules/traits/archetype.md)  [concentrate](rules/traits/concentrate.md)  [divination](rules/traits/divination.md)  [manipulate](rules/traits/manipulate.md)  [metamagic](rules/traits/metamagic.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 - **Prerequisites**: [Time Mage Dedication](compendium/feats/time-mage-dedication-da.md)
 - **Frequency**: once per day

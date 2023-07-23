@@ -10,7 +10,7 @@ tags:
 aliases: ["Treat Wounds"]
 ---
 # Treat Wounds (basic) [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Duration or Frequency")
-[exploration](rules/traits/exploration.md)  [healing](rules/traits/healing.md)  [manipulate](rules/traits/manipulate.md)  
+[exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 *Source: Core Rulebook p. 248*  
 
 **Skill** [medicine](compendium/skills.md#Medicine) (trained)

@@ -34,13 +34,13 @@ The summoner archetype grants you an eidolon to join you in battle. It's a parti
 title: Summoner Dedication, Feat 2
 collapse: closed
 # Summoner Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [multiclass](rules/traits/multiclass.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [multiclass](rules/traits/multiclass.md "Multiclass Feat Trait")  
 
 - **Prerequisites**: Charisma 14
 
 You've formed a bond with an eidolon, an entity that manifests in a physical body only through its link to your life force. Your bond may be tenuous, but that doesn't make your connection any less special. You gain an eidolon as well as the [Manifest Eidolon](rules/actions/manifest-eidolon-som.md) activity.
 
-Due to your tenuous link, you can't gain or use [tandem](rules/traits/tandem-som.md) actions. Because you don't have [Act Together](rules/actions/act-together-som.md), only you or your eidolon can perform an [exploration](rules/traits/exploration.md) activity at one time, so for instance you couldn't both be [Searching](rules/actions/search.md)} or [Investigating](rules/actions/investigate.md).
+Due to your tenuous link, you can't gain or use [tandem](rules/traits/tandem-som.md "Tandem Action & Ability Trait") actions. Because you don't have [Act Together](rules/actions/act-together-som.md), only you or your eidolon can perform an [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait") activity at one time, so for instance you couldn't both be [Searching](rules/actions/search.md)} or [Investigating](rules/actions/investigate.md).
 
 Your eidolon is trained in unarmed attacks and unarmored defense, and shares your proficiency rank for [Perception](compendium/skills.md#Perception), saving throws, and skill checks. Choose an eidolon type. You become trained in your eidolon's listed skills. For each of those skills that you are already trained in, you become trained in a different skill of your choice.
 
@@ -58,7 +58,7 @@ At 5th level, the eidolon's ability score that was reduced to 16 increases to 18
 title: Basic Synergy, Feat 4
 collapse: closed
 # Basic Synergy  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Summoner Dedication](compendium/feats/summoner-dedication-som.md)
 
@@ -72,7 +72,7 @@ You gain a 1st- or 2nd-level summoner feat of your choice.
 title: Initial Eidolon Ability, Feat 4
 collapse: closed
 # Initial Eidolon Ability  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Summoner Dedication](compendium/feats/summoner-dedication-som.md)
 
@@ -86,7 +86,7 @@ Your link to your eidolon becomes stronger, granting it a new ability. Your eido
 title: Advanced Synergy, Feat 6
 collapse: closed
 # Advanced Synergy  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Synergy](compendium/feats/basic-synergy-som.md)
 
@@ -102,7 +102,7 @@ You gain one summoner feat. For the purpose of meeting its prerequisites, your s
 title: Basic Summoner Spellcasting, Feat 6
 collapse: closed
 # Basic Summoner Spellcasting  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Summoner Dedication](compendium/feats/summoner-dedication-som.md)
 
@@ -120,7 +120,7 @@ You become trained in spell attack rolls and spell DCs of that tradition. You ga
 title: Expert Combat Eidolon, Feat 12*
 collapse: closed
 # Expert Combat Eidolon  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Expert Combat Eidolon](compendium/feats/expert-combat-eidolon-som.md) is intended for use with the Summoner Archetype. Its level has been changed accordingly.
 
@@ -136,7 +136,7 @@ Your eidolon advances its capabilities in combat. Your eidolon becomes an expert
 title: Expert Summoner Spellcasting, Feat 12*
 collapse: closed
 # Expert Summoner Spellcasting  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Expert Summoner Spellcasting](compendium/feats/expert-summoner-spellcasting-som.md) is intended for use with the Summoner Archetype. Its level has been changed accordingly.
 
@@ -152,7 +152,7 @@ You gain the expert bounded spellcasting benefits.
 title: Signature Synergy, Feat 14*
 collapse: closed
 # Signature Synergy  *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Signature Synergy](compendium/feats/signature-synergy-som.md) is intended for use with the Summoner Archetype. Its level has been changed accordingly.
 
@@ -168,7 +168,7 @@ Your eidolon gains an evolution integral to its form, and it comes more easily t
 title: Master Summoner Spellcasting, Feat 18*
 collapse: closed
 # Master Summoner Spellcasting  *Feat 18*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Master Summoner Spellcasting](compendium/feats/master-summoner-spellcasting-som.md) is intended for use with the Summoner Archetype. Its level has been changed accordingly.
 

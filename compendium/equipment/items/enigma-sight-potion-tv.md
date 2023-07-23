@@ -12,7 +12,7 @@ tags:
 aliases: ["Enigma-Sight Potion"]
 ---
 # Enigma-Sight Potion *Item 11*  
-[consumable](rules/traits/consumable.md)  [divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [potion](rules/traits/potion.md)  [revelation](rules/traits/revelation.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [potion](rules/traits/potion.md "Potion Item Trait")  [revelation](rules/traits/revelation.md "Revelation Effect Trait")  
 
 - **Price** 250 gp
 - **Usage** held in 1 hand; **Bulk** L

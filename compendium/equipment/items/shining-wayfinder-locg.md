@@ -13,7 +13,7 @@ tags:
 aliases: ["Shining Wayfinder"]
 ---
 # Shining Wayfinder *Item 4*  
-[abjuration](rules/traits/abjuration.md)  [divination](rules/traits/divination.md)  [evocation](rules/traits/evocation.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 100 gp
 - **Usage** worn
@@ -30,7 +30,7 @@ You hold the wayfinder and ask for guidance. The wayfinder casts guidance on you
 ```ad-embed-ability
 title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
 
-You call upon the wayfinder's divine blessings for yourself and your allies. The wayfinder casts bless, with an emanation centered on itself. Once per turn, you can use a single action, which has the [concentrate](rules/traits/concentrate.md) trait, to increase the emanation's radius by 5 feet.
+You call upon the wayfinder's divine blessings for yourself and your allies. The wayfinder casts bless, with an emanation centered on itself. Once per turn, you can use a single action, which has the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") trait, to increase the emanation's radius by 5 feet.
 ```
 
 *Source: Lost Omens: Character Guide p. 111*

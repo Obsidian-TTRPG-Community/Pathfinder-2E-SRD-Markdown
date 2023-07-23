@@ -7,7 +7,7 @@ tags:
 aliases: ["Assured Knowledge"]
 ---
 # Assured Knowledge  *Feat 6*  
-[bard](rules/traits/bard.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  
 
 - **Prerequisites**: enigma muse
 

@@ -8,7 +8,7 @@ tags:
 aliases: ["Wax Key Blank"]
 ---
 # Wax Key Blank *Item 0*  
-[uncommon](rules/traits/uncommon.md)  
+[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1 gp
 - **Hands** 2

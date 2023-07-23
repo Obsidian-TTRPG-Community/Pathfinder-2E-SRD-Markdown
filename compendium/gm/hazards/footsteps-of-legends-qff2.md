@@ -8,7 +8,7 @@ tags:
 aliases: ["Footsteps of Legends"]
 ---
 # Footsteps of Legends *Hazard 5*  
-[haunt](rules/traits/haunt.md)  [unique](rules/traits/unique.md)  
+[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 23 expert  

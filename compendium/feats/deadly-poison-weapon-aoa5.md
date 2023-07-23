@@ -8,7 +8,7 @@ tags:
 aliases: ["Deadly Poison Weapon"]
 ---
 # Deadly Poison Weapon  *Feat 12*  
-[rogue](rules/traits/rogue.md)  [uncommon](rules/traits/uncommon.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Improved Poison Weapon](compendium/feats/improved-poison-weapon.md)
 

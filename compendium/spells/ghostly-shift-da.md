@@ -11,7 +11,7 @@ tags:
 aliases: ["Ghostly Shift"]
 ---
 # Ghostly Shift *Cantrip 3*   
-[cantrip](rules/traits/cantrip.md)  [conjuration](rules/traits/conjuration.md)  [psychic](rules/traits/psychic-da.md)  [uncommon](rules/traits/uncommon.md)  
+[cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**30 foot

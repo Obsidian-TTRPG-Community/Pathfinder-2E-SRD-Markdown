@@ -10,7 +10,7 @@ tags:
 aliases: ["Cinnamon Seers"]
 ---
 # Cinnamon Seers *Item 4*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [lozenge](rules/traits/lozenge-tv.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [lozenge](rules/traits/lozenge-tv.md "Lozenge Item Trait")  
 
 - **Price** 14 gp
 - **Usage** held in 1 hand; **Bulk** —
@@ -20,7 +20,7 @@ Zippy, alchemically treated cinnamon suffuses cinnamon seers, a rock candy with 
 
 ```ad-embed-ability
 title: Secondary Effect [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[fortune](rules/traits/fortune.md)  
+[fortune](rules/traits/fortune.md "Fortune Effect Trait")  
 
 - **Trigger**: You gain no information from a [Recall Knowledge](rules/actions/recall-knowledge.md) check
 

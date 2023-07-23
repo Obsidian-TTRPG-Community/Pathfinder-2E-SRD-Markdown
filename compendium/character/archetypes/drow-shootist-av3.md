@@ -15,7 +15,7 @@ Some drow take skill with the hand crossbow to new heights. You've learned the s
 title: Drow Shootist Dedication, Feat 2
 collapse: closed
 # Drow Shootist Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: trained in the [hand crossbow](compendium/equipment/items/hand-crossbow.md)
 
@@ -30,14 +30,14 @@ You [Interact](rules/actions/interact.md) to draw a hand crossbow and [Strike](r
 **Special.** You can't select another dedication feat until you've gained two other feats from the drow shootist archetype.
 
 *Source: Abomination Vaults #3: Eyes of Empty Death p. 77*  
-%% #trait/uncommon #trait/archetype #trait/dedication %%
+%% #trait/archetype #trait/dedication #trait/uncommon %%
 ````  
 
 ```ad-embed-feat
 title: Repeating Hand Crossbow Training, Feat 4
 collapse: closed
 # Repeating Hand Crossbow Training  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Drow Shootist Dedication](compendium/feats/drow-shootist-dedication-av3.md)
 
@@ -53,7 +53,7 @@ You become trained in the repeating hand crossbow and gain access to repeating h
 title: Reloading Trick, Feat 6
 collapse: closed
 # Reloading Trick  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  [manipulate](rules/traits/manipulate.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 
 - **Prerequisites**: [Drow Shootist Dedication](compendium/feats/drow-shootist-dedication-av3.md)
 - **Frequency**: once per round
@@ -72,7 +72,7 @@ You can fire off a single shot even when unprepared. You [Interact](rules/action
 title: Lethargy Poisoner, Feat 8
 collapse: closed
 # Lethargy Poisoner  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Drow Shootist Dedication](compendium/feats/drow-shootist-dedication-av3.md), trained in [Crafting](compendium/skills.md#Crafting)
 

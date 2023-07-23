@@ -7,7 +7,7 @@ tags:
 aliases: ["Flourish And Ruin"]
 ---
 # Flourish And Ruin  *Feat 17*  
-[leshy](rules/traits/leshy-b1.md)  
+[leshy](rules/traits/leshy-b1.md "Leshy Ancestry & Heritage Trait")  
 
 
 You can call upon the vital essence of your spirit to restore life to your allies and call forth vines to ensnare and bludgeon your foes.

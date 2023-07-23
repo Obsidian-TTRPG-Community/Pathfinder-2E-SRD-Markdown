@@ -7,7 +7,7 @@ tags:
 aliases: ["Eclectic Polymath"]
 ---
 # Eclectic Polymath  *Feat 12*  
-[bard](rules/traits/bard.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  
 
 - **Prerequisites**: [Esoteric Polymath](compendium/feats/esoteric-polymath.md)
 

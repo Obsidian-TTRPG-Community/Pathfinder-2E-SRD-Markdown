@@ -11,7 +11,7 @@ tags:
 aliases: ["Circlet of Persuasion"]
 ---
 # Circlet of Persuasion *Item 17*  
-[apex](rules/traits/apex.md)  [enchantment](rules/traits/enchantment.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+[apex](rules/traits/apex.md "Apex Item Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 15000 gp
 - **Usage** worn circlet; **Bulk** —

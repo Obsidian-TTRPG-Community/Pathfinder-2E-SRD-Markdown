@@ -11,7 +11,7 @@ tags:
 aliases: ["Bring Me Near"]
 ---
 # Bring Me Near *Item 12*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [teleportation](rules/traits/teleportation.md)  [uncommon](rules/traits/uncommon.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1800 gp
 - **Usage** held in 2 hands; **Bulk** L

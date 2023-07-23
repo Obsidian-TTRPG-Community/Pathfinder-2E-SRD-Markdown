@@ -7,7 +7,7 @@ tags:
 aliases: ["Prescient Consumable"]
 ---
 # Prescient Consumable  *Feat 7*  
-[general](rules/traits/general.md)  
+[general](rules/traits/general.md "General Feat Trait")  
 
 - **Prerequisites**: [Prescient Planner](compendium/feats/prescient-planner-apg.md)
 

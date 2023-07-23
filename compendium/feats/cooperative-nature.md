@@ -7,7 +7,7 @@ tags:
 aliases: ["Cooperative Nature"]
 ---
 # Cooperative Nature  *Feat 1*  
-[human](rules/traits/human.md)  
+[human](rules/traits/human.md "Human Ancestry & Heritage Trait")  
 
 
 The short human life span lends perspective and has taught you from a young age to set aside differences and work with others to achieve greatness. You gain a +4 circumstance bonus on checks to [Aid](rules/actions/aid.md).

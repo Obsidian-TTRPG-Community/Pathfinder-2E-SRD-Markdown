@@ -11,7 +11,7 @@ tags:
 aliases: ["Follypops"]
 ---
 # Follypops *Item 10*  
-[consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md)
@@ -19,6 +19,6 @@ aliases: ["Follypops"]
 
 These savory breaded snacks stuffed with cheese, peppers, and "secret ingredients" of draconic or demonic origin are often offered alongside a challenge—complete a full portion and get a free drink. For 1 hour after consuming follypops, your stomach gurgles and rumbles with magical potential.
 
-During this time, you can unleash magic in the area up to three times as a single action, which has the [concentrate](rules/traits/concentrate.md) trait, with an area and damage determined by the type of pop; the third time you use this magic, the effects of your follypops end. All creatures within the area must attempt a DC 27 basic saving throw each time you unleash magic, as noted by the type of pop.
+During this time, you can unleash magic in the area up to three times as a single action, which has the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") trait, with an area and damage determined by the type of pop; the third time you use this magic, the effects of your follypops end. All creatures within the area must attempt a DC 27 basic saving throw each time you unleash magic, as noted by the type of pop.
 
 *Source: Lost Omens: The Grand Bazaar p. 47*

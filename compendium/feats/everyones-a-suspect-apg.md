@@ -7,7 +7,7 @@ tags:
 aliases: ["Everyone's A Suspect"]
 ---
 # Everyone's A Suspect  *Feat 20*  
-[investigator](rules/traits/investigator-apg.md)  
+[investigator](rules/traits/investigator-apg.md "Investigator Class Trait")  
 
 
 You are so suspicious of everyone you meet that you keep mental notes on how to defeat them all—even your own allies. After interacting with a creature for at least 1 minute, you automatically [Pursue a Lead](rules/actions/pursue-a-lead-apg.md) with that creature as the subject. You can have any number of such leads at any given time, and when you [Pursue a Lead](rules/actions/pursue-a-lead-apg.md) again, you don't give up any of these automatic subjects.

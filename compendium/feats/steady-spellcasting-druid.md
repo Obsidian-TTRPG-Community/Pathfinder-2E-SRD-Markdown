@@ -7,7 +7,7 @@ tags:
 aliases: ["Steady Spellcasting (Druid)"]
 ---
 # Steady Spellcasting (Druid)  *Feat 6*  
-[druid](rules/traits/druid.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  
 
 
 Confident in your technique, you don't lose spells easily. If a reaction would disrupt your spellcasting action, attempt a DC 15 flat check. If you succeed, your action isn't disrupted.

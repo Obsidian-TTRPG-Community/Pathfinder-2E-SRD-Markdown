@@ -7,7 +7,7 @@ tags:
 aliases: ["Furious Focus"]
 ---
 # Furious Focus  *Feat 6*  
-[fighter](rules/traits/fighter.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 - **Prerequisites**: [Power Attack](compendium/feats/power-attack.md)
 

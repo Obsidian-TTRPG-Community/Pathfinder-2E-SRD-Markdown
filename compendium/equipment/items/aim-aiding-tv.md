@@ -9,7 +9,7 @@ tags:
 aliases: ["Aim-Aiding"]
 ---
 # Aim-Aiding *Item 6*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 225 gp
 - **Usage** etched onto armor

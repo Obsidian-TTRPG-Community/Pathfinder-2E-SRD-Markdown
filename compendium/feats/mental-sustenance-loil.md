@@ -7,7 +7,7 @@ tags:
 aliases: ["Mental Sustenance"]
 ---
 # Mental Sustenance  *Feat 1*  
-[kashrishi](rules/traits/kashrishi-loil.md)  
+[kashrishi](rules/traits/kashrishi-loil.md "Kashrishi Ancestry & Heritage Trait")  
 
 
 You can sustain yourself with the power of your mind. You need only a single serving of food and water each week to avoid starvation or dehydration. You can hold your breath for an additional 5 rounds before running out of air.

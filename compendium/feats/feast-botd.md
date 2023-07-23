@@ -8,7 +8,7 @@ tags:
 aliases: ["Feast"]
 ---
 # Feast  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  [manipulate](rules/traits/manipulate.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 
 - **Prerequisites**: [Zombie Dedication](compendium/feats/zombie-dedication-botd.md)
 - **Requirements**: You are adjacent to a [restrained](rules/conditions.md#Restrained) or [unconscious](rules/conditions.md#Unconscious) creature, or a deceased creature that died in the past hour.

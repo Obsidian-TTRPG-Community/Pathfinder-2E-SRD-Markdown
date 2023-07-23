@@ -7,7 +7,7 @@ tags:
 aliases: ["Expert Poisoner"]
 ---
 # Expert Poisoner  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Poisoner Dedication](compendium/feats/poisoner-dedication-apg.md), expert in [Crafting](compendium/skills.md#Crafting)
 

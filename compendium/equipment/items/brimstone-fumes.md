@@ -12,7 +12,7 @@ tags:
 aliases: ["Brimstone Fumes"]
 ---
 # Brimstone Fumes *Item 16*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [evil](rules/traits/evil.md)  [inhaled](rules/traits/inhaled.md)  [poison](rules/traits/poison.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [evil](rules/traits/evil.md "Evil Alignment Trait")  [inhaled](rules/traits/inhaled.md "Inhaled Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Price** 1500 gp
 - **Usage** held in 1 hand; **Bulk** L

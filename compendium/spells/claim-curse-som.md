@@ -8,9 +8,9 @@ tags:
 aliases: ["Claim Curse"]
 ---
 # Claim Curse *Spell 3*   
-[necromancy](rules/traits/necromancy.md)  
+[necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md), [occult](rules/traits/occult.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**touch
 - **Targets**1 creature affected by a curse

@@ -10,7 +10,7 @@ tags:
 aliases: ["Blast Foot"]
 ---
 # Blast Foot *Item 6+*  
-[evocation](rules/traits/evocation.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Usage** worn; **Bulk** 1
 - **Category** Prosthesis

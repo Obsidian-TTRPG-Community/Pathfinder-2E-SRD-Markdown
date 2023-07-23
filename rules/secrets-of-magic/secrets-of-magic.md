@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-book
 tags:
+- book-core-secrets-of-magic
 - compendium/src/pf2e/som
-- book/core/secrets-of-magic
 aliases: ["Secrets of Magic"]
 ---
 **[Introduction](rules/secrets-of-magic/introduction.md)**

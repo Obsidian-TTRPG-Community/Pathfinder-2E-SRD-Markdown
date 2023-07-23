@@ -11,7 +11,7 @@ tags:
 aliases: ["Messenger Missive"]
 ---
 # Messenger Missive *Item 4+*  
-[consumable](rules/traits/consumable.md)  [divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [missive](rules/traits/missive-tv.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [missive](rules/traits/missive-tv.md "Missive Item Trait")  
 
 - **Usage** held in 1 hand; **Bulk** —
 - **Activate** envision, , [Interact](rules/actions/interact.md)

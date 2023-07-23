@@ -8,7 +8,7 @@ tags:
 aliases: ["Mega Bomb"]
 ---
 # Mega Bomb  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 20*  
-[additive <3>](rules/traits/additive.md)  [alchemist](rules/traits/alchemist.md)  
+[additive <3>](rules/traits/additive-3.md "Additive Feat Trait")  [alchemist](rules/traits/alchemist.md "Alchemist Class Trait")  
 
 - **Prerequisites**: [Expanded Splash](compendium/feats/expanded-splash.md)
 - **Requirements**: You are holding an infused alchemical bomb you crafted, with a level at least 3 lower than your advanced alchemy level.

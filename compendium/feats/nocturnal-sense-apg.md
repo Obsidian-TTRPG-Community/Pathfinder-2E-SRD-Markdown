@@ -8,7 +8,7 @@ tags:
 aliases: ["Nocturnal Sense"]
 ---
 # Nocturnal Sense  *Feat 6*  
-[barbarian](rules/traits/barbarian.md)  [rage](rules/traits/rage.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [rage](rules/traits/rage.md "Rage Combat Trait")  
 
 - **Prerequisites**: [Acute Scent](compendium/feats/acute-scent.md), or precise or imprecise [scent](rules/abilities/scent.md) and [low-light vision](rules/abilities/low-light-vision.md)
 

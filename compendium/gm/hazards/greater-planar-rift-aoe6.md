@@ -8,7 +8,7 @@ tags:
 aliases: ["Greater Planar Rift"]
 ---
 # Greater Planar Rift *Hazard 21*  
-[magical](rules/traits/magical.md)  [trap](rules/traits/trap.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 41 legendary  
@@ -19,7 +19,7 @@ A ragged planar rift drags things into its depths and hurls creatures through fr
      
 ```ad-embed-ability
 title: Greater Planar Rift [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[arcane](rules/traits/arcane.md)  [conjuration](rules/traits/conjuration.md)  [teleportation](rules/traits/teleportation.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  
 
 - **Trigger**: A creature moves within 5 feet of the rift
 

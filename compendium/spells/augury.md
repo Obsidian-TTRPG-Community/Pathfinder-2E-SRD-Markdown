@@ -9,9 +9,9 @@ tags:
 aliases: ["Augury"]
 ---
 # Augury *Spell 2*   
-[divination](rules/traits/divination.md)  [prediction](rules/traits/prediction.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [prediction](rules/traits/prediction.md "Prediction Effect Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md), [occult](rules/traits/occult.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 10 minutes 
 
 You gain a vague glimpse of the future. During the casting of this spell, ask about the results of a particular course of action.

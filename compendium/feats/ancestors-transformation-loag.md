@@ -7,7 +7,7 @@ tags:
 aliases: ["Ancestor's Transformation"]
 ---
 # Ancestor's Transformation  *Feat 13*  
-[strix](rules/traits/strix-loag.md)  
+[strix](rules/traits/strix-loag.md "Strix Ancestry & Heritage Trait")  
 
 
 You can commune with ancestor spirits to assume the form of an enormous primeval strix. You can cast 5th-level [aerial form](compendium/spells/aerial-form.md) as a primal innate spell once per day, but you take the form of a primeval strix, using the statistics for a bird form.

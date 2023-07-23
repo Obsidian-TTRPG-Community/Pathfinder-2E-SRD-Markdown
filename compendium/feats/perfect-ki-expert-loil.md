@@ -7,7 +7,7 @@ tags:
 aliases: ["Perfect Ki Expert"]
 ---
 # Perfect Ki Expert  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: Student of Perfection Dedication
 

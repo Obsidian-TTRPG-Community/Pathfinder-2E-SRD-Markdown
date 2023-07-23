@@ -11,7 +11,7 @@ tags:
 aliases: ["Fulus Of Concealment"]
 ---
 # Fulus Of Concealment *Item 6*  
-[consumable](rules/traits/consumable.md)  [fulu](rules/traits/fulu-som.md)  [illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [fulu](rules/traits/fulu-som.md "Fulu Item Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 40 gp
 - **Usage** affixed to the ground in four spaces along

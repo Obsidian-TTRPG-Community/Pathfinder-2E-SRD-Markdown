@@ -7,7 +7,7 @@ tags:
 aliases: ["Greater Mental Evolution"]
 ---
 # Greater Mental Evolution  *Feat 16*  
-[sorcerer](rules/traits/sorcerer.md)  
+[sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 - **Prerequisites**: [Arcane Evolution](compendium/feats/arcane-evolution.md) or [Occult Evolution](compendium/feats/occult-evolution.md)
 

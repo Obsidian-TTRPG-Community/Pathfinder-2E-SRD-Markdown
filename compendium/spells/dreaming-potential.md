@@ -9,9 +9,9 @@ tags:
 aliases: ["Dreaming Potential"]
 ---
 # Dreaming Potential *Spell 5*   
-[enchantment](rules/traits/enchantment.md)  [mental](rules/traits/mental.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions**: [occult](rules/traits/occult.md)
+- **Traditions**: [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 10 minutes 
 - **Range**touch
 - **Targets**1 willing sleeping creature

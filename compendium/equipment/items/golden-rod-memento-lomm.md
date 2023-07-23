@@ -11,7 +11,7 @@ tags:
 aliases: ["Golden Rod Memento"]
 ---
 # Golden Rod Memento *Item 20*  
-[abjuration](rules/traits/abjuration.md)  [cursed](rules/traits/cursed-gmg.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** worn; **Bulk** —
 - **Category** Worn

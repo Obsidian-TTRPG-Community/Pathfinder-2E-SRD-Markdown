@@ -13,13 +13,13 @@ tags:
 - trait/reach-15-feet
 aliases: ["Asmodeus", "The Prince of Darkness"]
 ---
-# Asmodeus (The Prince of Darkness) *([LE](rules/traits/lawful-evil-b1.md))*  
+# Asmodeus (The Prince of Darkness) *([LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"))*  
 *Source: Core Rulebook p. 437*  
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: break a contract, free a slave, insult Asmodeus by showing mercy to your enemies
 - **Areas of Concern**: contracts, , pride, , slavery and tyranny
-- **Follower Alignments**: [LE](rules/traits/lawful-evil-b1.md)
+- **Follower Alignments**: [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait")
 
 ## Devotee benefits
 
@@ -35,7 +35,7 @@ aliases: ["Asmodeus", "The Prince of Darkness"]
 title: [Avatar](compendium/spells/avatar.md) of Asmodeus
 
 - **Speed**: Speed 70 feet, [air walk](compendium/spells/air-walk.md)
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") mace ([reach <15 feet>](rules/traits/reach.md)), **Damage** `6d10+6` bludgeoning
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") mace ([reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait")), **Damage** `6d10+6` bludgeoning
 - **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") hellfire **Damage** `6d6+3` fire
 ```
 
@@ -44,7 +44,7 @@ title: [Avatar](compendium/spells/avatar.md) of Asmodeus
 
 Asmodeus tends to offer his gifts to entice those on the precipice of yielding to his vile temptations. His curses come most often in response to those who break contracts in his name, or commit other personal insults.
 
-- **Minor Boon** Pleased by your talent for manipulation, Asmodeus amplifies your skills. Once, when you fail at the [Diplomacy](compendium/skills.md#Diplomacy) check to make a significant or consequential [Request](rules/actions/request.md), you can cast [suggestion](compendium/spells/suggestion.md) on the target of your [Request](rules/actions/request.md), suggesting the same course of action. This is a [divine](rules/traits/divine.md) innate spell.
+- **Minor Boon** Pleased by your talent for manipulation, Asmodeus amplifies your skills. Once, when you fail at the [Diplomacy](compendium/skills.md#Diplomacy) check to make a significant or consequential [Request](rules/actions/request.md), you can cast [suggestion](compendium/spells/suggestion.md) on the target of your [Request](rules/actions/request.md), suggesting the same course of action. This is a [divine](rules/traits/divine.md "Divine Tradition Trait") innate spell.
 - **Moderate Boon**: Your eyes glow red like embers and your skin takes on a crimson tone. You gain [darkvision](rules/abilities/darkvision.md) and fire resistance 5.
 - **Major Boon**: Asmodeus helps enforce your bargains and contracts. When a creature enters a bargain or contract with you, uncoerced and of its own free will, it can't voluntarily violate its side of the bargain as long as you uphold your side. You can always choose to violate the bargain yourself, but if you do, the creature is no longer bound to fulfill its part.
 

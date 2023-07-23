@@ -10,7 +10,7 @@ tags:
 aliases: ["Goz Mask"]
 ---
 # Goz Mask *Item 2+*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Usage** worn mask; **Bulk** —
 - **Category** Worn

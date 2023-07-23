@@ -7,7 +7,7 @@ tags:
 aliases: ["Green Tongue"]
 ---
 # Green Tongue  *Feat 12*  
-[druid](rules/traits/druid.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  
 
 - **Prerequisites**: [Green Empathy](compendium/feats/green-empathy.md)
 

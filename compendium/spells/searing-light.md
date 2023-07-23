@@ -12,9 +12,9 @@ tags:
 aliases: ["Searing Light"]
 ---
 # Searing Light *Spell 3*   
-[attack](rules/traits/attack.md)  [evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  [good](rules/traits/good.md)  [light](rules/traits/light.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [good](rules/traits/good.md "Good Alignment Trait")  [light](rules/traits/light.md "Light Effect Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md), [primal](rules/traits/primal.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**120 foot
 - **Targets**1 creature

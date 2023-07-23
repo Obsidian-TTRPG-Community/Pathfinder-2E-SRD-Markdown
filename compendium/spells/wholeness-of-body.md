@@ -12,7 +12,7 @@ tags:
 aliases: ["Wholeness Of Body"]
 ---
 # Wholeness Of Body *Focus 2*   
-[healing](rules/traits/healing.md)  [monk](rules/traits/monk.md)  [necromancy](rules/traits/necromancy.md)  [positive](rules/traits/positive.md)  [uncommon](rules/traits/uncommon.md)  
+[healing](rules/traits/healing.md "Healing Effect Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 

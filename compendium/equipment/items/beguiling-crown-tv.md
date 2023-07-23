@@ -12,7 +12,7 @@ tags:
 aliases: ["Beguiling Crown"]
 ---
 # Beguiling Crown *Item 20*  
-[apex](rules/traits/apex.md)  [enchantment](rules/traits/enchantment.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[apex](rules/traits/apex.md "Apex Item Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 80000 gp
 - **Usage** worn crown; **Bulk** 2
@@ -36,7 +36,7 @@ title: Activate [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "R
 
 ```ad-embed-ability
 title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
-[fortune](rules/traits/fortune.md)  [mental](rules/traits/mental.md)  
+[fortune](rules/traits/fortune.md "Fortune Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 Choose one living creature within 30 feet of you. That creature must succeed at a DC 41 Will saving throw or become [helpful](rules/conditions.md#Helpful) to you for the next 24 hours. If they succeed, they become [friendly](rules/conditions.md#Friendly) to you for 1 hour. If they critically succeed they're immune to this effect for 1 year.  
 %% #trait/fortune #trait/mental %%

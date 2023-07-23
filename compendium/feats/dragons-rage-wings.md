@@ -12,7 +12,7 @@ tags:
 aliases: ["Dragon's Rage Wings"]
 ---
 # Dragon's Rage Wings  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 12*  
-[barbarian](rules/traits/barbarian.md)  [instinct](rules/traits/instinct.md)  [morph](rules/traits/morph.md)  [primal](rules/traits/primal.md)  [rage](rules/traits/rage.md)  [transmutation](rules/traits/transmutation.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [instinct](rules/traits/instinct.md "Instinct Action & Ability Trait")  [morph](rules/traits/morph.md "Morph Effect Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [rage](rules/traits/rage.md "Rage Combat Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Prerequisites**: dragon instinct
 - **Activity** Single Action

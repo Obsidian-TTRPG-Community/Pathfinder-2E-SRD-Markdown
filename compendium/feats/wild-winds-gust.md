@@ -11,7 +11,7 @@ tags:
 aliases: ["Wild Winds Gust"]
 ---
 # Wild Winds Gust  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 14*  
-[air](rules/traits/air.md)  [concentrate](rules/traits/concentrate.md)  [evocation](rules/traits/evocation.md)  [manipulate](rules/traits/manipulate.md)  [monk](rules/traits/monk.md)  
+[air](rules/traits/air.md "Air Energy & Element Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Prerequisites**: [Wild Winds Initiate](compendium/feats/wild-winds-initiate.md)
 - **Requirements**: You are in wild winds stance.

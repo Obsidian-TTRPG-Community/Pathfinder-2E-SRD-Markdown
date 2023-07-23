@@ -7,7 +7,7 @@ tags:
 aliases: ["Lizardfolk Lore"]
 ---
 # Lizardfolk Lore  *Feat 1*  
-[lizardfolk](rules/traits/lizardfolk-b1.md)  
+[lizardfolk](rules/traits/lizardfolk-b1.md "Lizardfolk Ancestry & Heritage Trait")  
 
 
 You listened carefully to the tales passed down among your community. You gain the trained proficiency rank in [Nature](compendium/skills.md#Nature) and [Survival](compendium/skills.md#Survival). If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in [Iruxi Lore](compendium/skills.md#Lore).

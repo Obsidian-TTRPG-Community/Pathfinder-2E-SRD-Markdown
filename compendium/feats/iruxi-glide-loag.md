@@ -7,7 +7,7 @@ tags:
 aliases: ["Iruxi Glide"]
 ---
 # Iruxi Glide  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 5*  
-[lizardfolk](rules/traits/lizardfolk-b1.md)  
+[lizardfolk](rules/traits/lizardfolk-b1.md "Lizardfolk Ancestry & Heritage Trait")  
 
 - **Prerequisites**: cloudleaper lizardfolk heritage
 - **Activity** Single Action

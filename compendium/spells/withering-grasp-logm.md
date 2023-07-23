@@ -9,7 +9,7 @@ tags:
 aliases: ["Withering Grasp"]
 ---
 # Withering Grasp *Focus 1*   
-[necromancy](rules/traits/necromancy.md)  [negative](rules/traits/negative.md)  
+[necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  
 
 - **Domains**: [decay](compendium/setting/domains.md#Decay)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

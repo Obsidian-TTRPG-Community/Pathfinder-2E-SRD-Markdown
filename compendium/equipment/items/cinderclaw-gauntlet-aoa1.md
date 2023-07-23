@@ -10,13 +10,13 @@ tags:
 aliases: ["Cinderclaw Gauntlet"]
 ---
 # Cinderclaw Gauntlet *Item 5*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 150 gp
 - **Usage** worn on 1 hand; **Bulk** L
 - **Category** Worn
 
-This sharp-taloned spiked gauntlet appears to have been crafted from dragon scales, with claws built from iron. In addition to the typical weapon traits, a _Cinderclaw gauntlet_ has the [versatile <s>](rules/traits/versatile.md) trait.
+This sharp-taloned spiked gauntlet appears to have been crafted from dragon scales, with claws built from iron. In addition to the typical weapon traits, a _Cinderclaw gauntlet_ has the [versatile <s>](rules/traits/versatile-s.md "Versatile Weapon Trait") trait.
 
 On a critical hit, the _Cinderclaw gauntlet_ deals an additional `1d6` fire damage.
 

@@ -158,14 +158,14 @@ Though a published adventure is prewritten, it's not set in stone. Changing the 
 > ### Blindness or Impaired Vision
 > <sup>CRB p. 487</sup>
 > 
-> A blind character can't detect anything using vision, critically fails [Perception](compendium/skills.md#Perception) checks requiring sight, is immune to [visual](rules/traits/visual.md) effects, and can't be [blinded](rules/conditions.md#Blinded) or [dazzled](rules/conditions.md#Dazzled). You might give this character the [Blind-Fight](compendium/feats/blind-fight-fighter.md) feat for free.
+> A blind character can't detect anything using vision, critically fails [Perception](compendium/skills.md#Perception) checks requiring sight, is immune to [visual](rules/traits/visual.md "Visual Effect Trait") effects, and can't be [blinded](rules/conditions.md#Blinded) or [dazzled](rules/conditions.md#Dazzled). You might give this character the [Blind-Fight](compendium/feats/blind-fight-fighter.md) feat for free.
 > 
 > A character with impaired vision might take a –2 to –4 penalty to vision-based [Perception](compendium/skills.md#Perception) checks. [Spectacles](compendium/equipment/items/basic-corrective-lenses-lotgb.md) or other corrective devices might reduce or remove this.
 > 
 > ### Deafness or Being Hard of Hearing
 > <sup>CRB p. 487</sup>
 > 
-> A deaf character can't detect anything using hearing, critically fails [Perception](compendium/skills.md#Perception) checks that require hearing, and is immune to [auditory](rules/traits/auditory.md) effects. They have enough practice to supply verbal components for casting spells and command components for activating magic items, but if they perform an action they're not accustomed to that involves auditory elements, they must succeed at a DC 5 flat check or the action is lost. It's best to give them the [Sign Language](compendium/feats/sign-language.md) feat for free, and you might give them [Read Lips](compendium/feats/read-lips.md) as well. You might give one or more other characters in the group [Sign Language](compendium/feats/sign-language.md) for free as well.
+> A deaf character can't detect anything using hearing, critically fails [Perception](compendium/skills.md#Perception) checks that require hearing, and is immune to [auditory](rules/traits/auditory.md "Auditory Effect Trait") effects. They have enough practice to supply verbal components for casting spells and command components for activating magic items, but if they perform an action they're not accustomed to that involves auditory elements, they must succeed at a DC 5 flat check or the action is lost. It's best to give them the [Sign Language](compendium/feats/sign-language.md) feat for free, and you might give them [Read Lips](compendium/feats/read-lips.md) as well. You might give one or more other characters in the group [Sign Language](compendium/feats/sign-language.md) for free as well.
 > 
 > A hard-of-hearing character might take a –2 to –4 penalty to [Perception](compendium/skills.md#Perception) checks that are hearing-based. Corrective devices for hearing are less common than spectacles are in a typical Pathfinder world.
 > 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Symphony Of The Muse"]
 ---
 # Symphony Of The Muse  *Feat 20*  
-[bard](rules/traits/bard.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  
 
 - **Prerequisites**: [Harmonize](compendium/feats/harmonize.md)
 

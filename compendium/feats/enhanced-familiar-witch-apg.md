@@ -7,7 +7,7 @@ tags:
 aliases: ["Enhanced Familiar (Witch)"]
 ---
 # Enhanced Familiar (Witch)  *Feat 2*  
-[witch](rules/traits/witch-apg.md)  
+[witch](rules/traits/witch-apg.md "Witch Class Trait")  
 
 - **Prerequisites**: a familiar
 

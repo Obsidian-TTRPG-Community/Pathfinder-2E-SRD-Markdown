@@ -9,7 +9,7 @@ tags:
 aliases: ["Quick Reversal"]
 ---
 # Quick Reversal  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[fighter](rules/traits/fighter.md)  [flourish](rules/traits/flourish.md)  [press](rules/traits/press.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  [press](rules/traits/press.md "Press Combat Trait")  
 
 - **Requirements**: You are flanked by at least two enemies.
 - **Activity** Single Action

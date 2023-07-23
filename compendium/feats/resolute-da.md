@@ -7,7 +7,7 @@ tags:
 aliases: ["Resolute"]
 ---
 # Resolute  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Thaumaturge Dedication](compendium/feats/thaumaturge-dedication-da.md), expert in Will
 

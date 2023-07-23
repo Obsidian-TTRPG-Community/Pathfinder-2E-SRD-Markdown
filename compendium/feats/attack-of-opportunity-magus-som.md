@@ -7,7 +7,7 @@ tags:
 aliases: ["Attack Of Opportunity (Magus)"]
 ---
 # Attack Of Opportunity (Magus)  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
-[magus](rules/traits/magus-som.md)  
+[magus](rules/traits/magus-som.md "Magus Class Trait")  
 
 - **Trigger** A creature within your reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.
 - **Activity** Reaction

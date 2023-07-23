@@ -7,7 +7,7 @@ tags:
 aliases: ["Embodied Dragoon Subjectivity"]
 ---
 # Embodied Dragoon Subjectivity  *Feat 9*  
-[fleshwarp](rules/traits/fleshwarp-loag.md)  
+[fleshwarp](rules/traits/fleshwarp-loag.md "Fleshwarp Ancestry & Heritage Trait")  
 
 
 When your allies call for swift reinforcements or lightning raids, you're ready to answer. Your titanic form encompasses both cavalry and rider so that you're able to traverse vast distances and exploit opportunities in the theater of war. Your pores distend and extrude copious amounts of blood, subcutaneous fat, and lymphatic fluid for you to harden and flash-sculpt into gliding wings or a swift-hurtling mount.

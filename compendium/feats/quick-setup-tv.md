@@ -9,7 +9,7 @@ tags:
 aliases: ["Quick Setup"]
 ---
 # Quick Setup  *Feat 7*  
-[general](rules/traits/general.md)  [rare](rules/traits/rare.md)  [skill](rules/traits/skill.md)  
+[general](rules/traits/general.md "General Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: master in [Crafting](compendium/skills.md#Crafting)
 

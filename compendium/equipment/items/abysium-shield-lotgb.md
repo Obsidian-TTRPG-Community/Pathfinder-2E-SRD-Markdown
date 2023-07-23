@@ -8,7 +8,7 @@ tags:
 aliases: ["Abysium Shield"]
 ---
 # Abysium Shield *Item 8+*  
-[rare](rules/traits/rare.md)  
+[rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** varies by shield
 - **Category** Material

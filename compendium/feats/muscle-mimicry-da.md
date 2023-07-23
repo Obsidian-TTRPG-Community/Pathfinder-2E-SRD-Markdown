@@ -9,7 +9,7 @@ tags:
 aliases: ["Muscle Mimicry"]
 ---
 # Muscle Mimicry  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 7*  
-[archetype](rules/traits/archetype.md)  [concentrate](rules/traits/concentrate.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Alter Ego Dedication](compendium/feats/alter-ego-dedication-da.md); trained in [Athletics](compendium/skills.md#Athletics), master in [Deception](compendium/skills.md#Deception)
 - **Trigger** An enemy makes a successful [Disarm](rules/actions/disarm.md), [Escape](rules/actions/escape.md),

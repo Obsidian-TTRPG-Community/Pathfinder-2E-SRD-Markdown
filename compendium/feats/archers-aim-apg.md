@@ -8,7 +8,7 @@ tags:
 aliases: ["Archer's Aim"]
 ---
 # Archer's Aim  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  [concentrate](rules/traits/concentrate.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
 
 - **Prerequisites**: [Archer Dedication](compendium/feats/archer-dedication-apg.md)
 - **Activity** Two-Action

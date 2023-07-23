@@ -13,7 +13,7 @@ tags:
 aliases: ["Flame Jump"]
 ---
 # Flame Jump  *Feat 13*  
-[aasimar](rules/traits/aasimar-apg.md)  [concentrate](rules/traits/concentrate.md)  [divine](rules/traits/divine.md)  [exploration](rules/traits/exploration.md)  [fire](rules/traits/fire.md)  [manipulate](rules/traits/manipulate.md)  [teleportation](rules/traits/teleportation.md)  
+[aasimar](rules/traits/aasimar-apg.md "Aasimar Ancestry & Heritage Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  
 
 - **Prerequisites**: [Emberkin](compendium/feats/emberkin-loag.md)
 - **Frequency**: once per day

@@ -7,7 +7,7 @@ tags:
 aliases: ["Mixed Maneuver"]
 ---
 # Mixed Maneuver  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Prerequisites**: master in [Athletics](compendium/skills.md#Athletics)
 - **Activity** Two-Action

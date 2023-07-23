@@ -7,7 +7,7 @@ tags:
 aliases: ["Guardian's Deflection"]
 ---
 # Guardian's Deflection  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 4*  
-[swashbuckler](rules/traits/swashbuckler-apg.md)  
+[swashbuckler](rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  
 
 - **Trigger** An ally within your melee reach is hit by an attack, you can see the attacker, and a +2 circumstance bonus to AC would turn the critical hit into a hit or the hit into a miss.
 - **Requirements**: You are wielding a single one-handed melee weapon and have your other hand or hands free.

@@ -12,7 +12,7 @@ tags:
 aliases: ["Warped Reflection"]
 ---
 # Warped Reflection  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
-[concentrate](rules/traits/concentrate.md)  [emotion](rules/traits/emotion.md)  [fear](rules/traits/fear.md)  [mental](rules/traits/mental.md)  [reflection](rules/traits/reflection-da.md)  [visual](rules/traits/visual.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [reflection](rules/traits/reflection-da.md "Reflection Ancestry & Heritage Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Frequency**: once per minute
 - **Activity** Single Action

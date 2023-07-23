@@ -7,7 +7,7 @@ tags:
 aliases: ["Eye For Treasure"]
 ---
 # Eye For Treasure  *Feat 1*  
-[dwarf](rules/traits/dwarf.md)  
+[dwarf](rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  
 
 
 You know good artisanship when you see it and can wax poetic about crafting techniques and forms.

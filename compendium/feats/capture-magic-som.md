@@ -7,7 +7,7 @@ tags:
 aliases: ["Capture Magic"]
 ---
 # Capture Magic  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
-[magus](rules/traits/magus-som.md)  
+[magus](rules/traits/magus-som.md "Magus Class Trait")  
 
 - **Prerequisites**: [Arcane Cascade](rules/actions/arcane-cascade-som.md)
 - **Trigger** You succeed at your save against a foe's harmful spell, or a foe fails a spell attack roll against you from a harmful spell.

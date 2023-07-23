@@ -7,7 +7,7 @@ tags:
 aliases: ["Signature Synergy"]
 ---
 # Signature Synergy  *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Advanced Synergy](compendium/feats/advanced-synergy-som.md)
 

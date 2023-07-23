@@ -7,7 +7,7 @@ tags:
 aliases: ["Wild Shape"]
 ---
 # Wild Shape  *Feat 1*  
-[druid](rules/traits/druid.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  
 
 - **Prerequisites**: Wild order
 

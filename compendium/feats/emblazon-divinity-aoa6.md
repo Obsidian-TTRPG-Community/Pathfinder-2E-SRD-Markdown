@@ -8,7 +8,7 @@ tags:
 aliases: ["Emblazon Divinity"]
 ---
 # Emblazon Divinity  *Feat 20*  
-[cleric](rules/traits/cleric.md)  [uncommon](rules/traits/uncommon.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Emblazon Armament](compendium/feats/emblazon-armament.md)
 

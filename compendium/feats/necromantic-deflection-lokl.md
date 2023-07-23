@@ -9,7 +9,7 @@ tags:
 aliases: ["Necromantic Deflection"]
 ---
 # Necromantic Deflection  *Feat 12*  
-[champion](rules/traits/champion.md)  [druid](rules/traits/druid.md)  [uncommon](rules/traits/uncommon.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  [druid](rules/traits/druid.md "Druid Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: Knights of Lastwall have access to this feat.
 

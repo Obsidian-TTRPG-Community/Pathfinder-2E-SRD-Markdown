@@ -12,7 +12,7 @@ tags:
 aliases: ["Pipes of Compulsion"]
 ---
 # Pipes of Compulsion *Item 4+*  
-[coda](rules/traits/coda-tv.md)  [enchantment](rules/traits/enchantment.md)  [occult](rules/traits/occult.md)  [staff](rules/traits/staff.md)  [uncommon](rules/traits/uncommon.md)  
+[coda](rules/traits/coda-tv.md "Coda Item Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Usage** held in 2 hands; **Bulk** L
 - **Category** Coda

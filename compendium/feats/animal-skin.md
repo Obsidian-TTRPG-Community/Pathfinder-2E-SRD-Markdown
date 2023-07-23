@@ -11,7 +11,7 @@ tags:
 aliases: ["Animal Skin"]
 ---
 # Animal Skin  *Feat 6*  
-[barbarian](rules/traits/barbarian.md)  [instinct](rules/traits/instinct.md)  [morph](rules/traits/morph.md)  [primal](rules/traits/primal.md)  [transmutation](rules/traits/transmutation.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [instinct](rules/traits/instinct.md "Instinct Action & Ability Trait")  [morph](rules/traits/morph.md "Morph Effect Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Prerequisites**: Animal instinct
 

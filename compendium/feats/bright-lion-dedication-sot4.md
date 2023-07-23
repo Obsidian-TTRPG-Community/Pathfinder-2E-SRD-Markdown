@@ -9,7 +9,7 @@ tags:
 aliases: ["Bright Lion Dedication"]
 ---
 # Bright Lion Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: Bright Lion background (Lost Omens World Guide 95) You become trained in [Mzali Lore](compendium/skills.md#Lore) and your choice of
 - **Prerequisites**: member of the Bright Lions, not a worshipper of [Walkena](compendium/setting/deities/walkena-logm.md), trained in [Stealth](compendium/skills.md#Stealth)

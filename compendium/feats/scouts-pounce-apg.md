@@ -8,7 +8,7 @@ tags:
 aliases: ["Scout's Pounce"]
 ---
 # Scout's Pounce  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 10*  
-[archetype](rules/traits/archetype.md)  [flourish](rules/traits/flourish.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 - **Prerequisites**: [Scout Dedication](compendium/feats/scout-dedication-apg.md)
 - **Requirements**: You are [hidden](rules/conditions.md#Hidden) from or [undetected](rules/conditions.md#Undetected) by all of your opponents, and you aren't within 10 feet of any enemy.

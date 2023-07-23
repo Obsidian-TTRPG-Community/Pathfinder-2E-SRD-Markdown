@@ -9,7 +9,7 @@ tags:
 aliases: ["Wounding"]
 ---
 # Wounding *Item 7*  
-[magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 - **Price** 340 gp
 - **Usage** etched onto a piercing or slashing melee weapon

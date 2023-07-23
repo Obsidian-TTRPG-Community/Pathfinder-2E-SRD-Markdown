@@ -7,7 +7,7 @@ tags:
 aliases: ["Fey Magic"]
 ---
 # Fey Magic  *Feat 9*  
-[sprite](rules/traits/sprite-b1.md)  
+[sprite](rules/traits/sprite-b1.md "Sprite Ancestry & Heritage Trait")  
 
 
 You can use faerie magic to hide yourself and expose [hidden](rules/conditions.md#Hidden) foes. You can cast [faerie fire](compendium/spells/faerie-fire.md) and [invisibility](compendium/spells/invisibility.md) each once per day as primal innate spells.

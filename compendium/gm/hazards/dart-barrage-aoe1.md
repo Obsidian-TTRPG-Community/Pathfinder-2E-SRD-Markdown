@@ -9,7 +9,7 @@ tags:
 aliases: ["Dart Barrage"]
 ---
 # Dart Barrage *Hazard 3*  
-[complex](rules/traits/complex.md)  [mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +11 trained or DC 23 (trained) to notice scratches around the musical pipes and a slight give to the seal.  

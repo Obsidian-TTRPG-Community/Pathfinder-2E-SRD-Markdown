@@ -7,7 +7,7 @@ tags:
 aliases: ["Tree Climber"]
 ---
 # Tree Climber  *Feat 9*  
-[elf](rules/traits/elf.md)  
+[elf](rules/traits/elf.md "Elf Ancestry & Heritage Trait")  
 
 
 You've spent much of your life among the treetops and have become an expert at quickly and safely climbing them. You gain a climb Speed of 10 feet.

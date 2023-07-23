@@ -7,7 +7,7 @@ tags:
 aliases: ["Ice Crafter"]
 ---
 # Ice Crafter  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Pactbound Dedication](compendium/feats/pactbound-dedication-lomm.md)
 

@@ -9,7 +9,7 @@ tags:
 aliases: ["Jalmeri Heavenseeker Dedication"]
 ---
 # Jalmeri Heavenseeker Dedication  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: Student of Perfection Dedication, or you've trained with a champion of the Challenge of Sky and Heaven
 

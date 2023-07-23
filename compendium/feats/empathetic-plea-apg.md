@@ -11,7 +11,7 @@ tags:
 aliases: ["Empathetic Plea"]
 ---
 # Empathetic Plea  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
-[auditory](rules/traits/auditory.md)  [emotion](rules/traits/emotion.md)  [gnome](rules/traits/gnome.md)  [mental](rules/traits/mental.md)  [visual](rules/traits/visual.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [gnome](rules/traits/gnome.md "Gnome Ancestry & Heritage Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Prerequisites**: trained in [Diplomacy](compendium/skills.md#Diplomacy)
 - **Trigger** You are attacked by a creature that you haven't yet acted [hostile](rules/conditions.md#Hostile) toward. You must use this reaction before the creature rolls its attack.

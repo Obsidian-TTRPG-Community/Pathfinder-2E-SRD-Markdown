@@ -8,7 +8,7 @@ tags:
 aliases: ["Depth Gauge"]
 ---
 # Depth Gauge *Item 0*  
-[uncommon](rules/traits/uncommon.md)  
+[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1 gp
 - **Bulk** L

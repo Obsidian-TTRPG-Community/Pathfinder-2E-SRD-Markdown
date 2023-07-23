@@ -11,7 +11,7 @@ tags:
 aliases: ["Periscopic Viewfinder"]
 ---
 # Periscopic Viewfinder *Item 3*  
-[consumable](rules/traits/consumable.md)  [rare](rules/traits/rare.md)  clockwork  gadget  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  clockwork  gadget  
 
 - **Price** 12 gp
 - **Usage** held in 1 hand; **Bulk** L

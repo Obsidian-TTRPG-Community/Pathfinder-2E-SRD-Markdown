@@ -7,7 +7,7 @@ tags:
 aliases: ["Speedy Rituals"]
 ---
 # Speedy Rituals  *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Efficient Rituals](compendium/feats/efficient-rituals-apg.md)
 

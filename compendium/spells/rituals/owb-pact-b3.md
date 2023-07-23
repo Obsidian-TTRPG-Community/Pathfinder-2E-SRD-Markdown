@@ -9,7 +9,7 @@ tags:
 aliases: ["Owb Pact"]
 ---
 # Owb Pact *Ritual 3*  
-[conjuration](rules/traits/conjuration.md)  [uncommon](rules/traits/uncommon.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** 1 day
 - **Secondary Casters** 2

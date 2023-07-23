@@ -9,7 +9,7 @@ tags:
 aliases: ["Deconstruct"]
 ---
 # Deconstruct
-[downtime](rules/traits/downtime.md)  [rare](rules/traits/rare.md)  
+[downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 *Source: Treasure Vault p. 162*  
 
 

@@ -11,7 +11,7 @@ tags:
 aliases: ["Corrosive Engravings"]
 ---
 # Corrosive Engravings *Item 5*  
-[acid](rules/traits/acid.md)  [conjuration](rules/traits/conjuration.md)  [grimoire](rules/traits/grimoire-som.md)  [magical](rules/traits/magical.md)  
+[acid](rules/traits/acid.md "Acid Energy & Element Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [grimoire](rules/traits/grimoire-som.md "Grimoire Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 140 gp
 - **Bulk** L

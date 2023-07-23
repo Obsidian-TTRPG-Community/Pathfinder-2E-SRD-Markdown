@@ -7,10 +7,10 @@ tags:
 aliases: ["Daywalker"]
 ---
 # Daywalker  *Feat 13*  
-[dhampir](rules/traits/dhampir-b1.md)  
+[dhampir](rules/traits/dhampir-b1.md "Dhampir Ancestry & Heritage Trait")  
 
 
-Whether through painstaking exposure, devoted prayer, or simple luck, you've found a greater affinity for life through the sun's light. When in an area of direct natural sunlight, your negative healing is suppressed, meaning you are healed by positive [healing](rules/traits/healing.md) effects and harmed by negative energy.
+Whether through painstaking exposure, devoted prayer, or simple luck, you've found a greater affinity for life through the sun's light. When in an area of direct natural sunlight, your negative healing is suppressed, meaning you are healed by positive [healing](rules/traits/healing.md "Healing Effect Trait") effects and harmed by negative energy.
 
 *Source: Lost Omens: Ancestry Guide p. 28*  
 %% #compendium/src/pf2e/loag #trait/dhampir %%

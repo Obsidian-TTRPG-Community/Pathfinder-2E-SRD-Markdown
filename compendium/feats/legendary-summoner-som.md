@@ -7,7 +7,7 @@ tags:
 aliases: ["Legendary Summoner"]
 ---
 # Legendary Summoner  *Feat 20*  
-[summoner](rules/traits/summoner-som.md)  
+[summoner](rules/traits/summoner-som.md "Summoner Class Trait")  
 
 - **Prerequisites**: [Master Summoner](compendium/feats/master-summoner-som.md)
 

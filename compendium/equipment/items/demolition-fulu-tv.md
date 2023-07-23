@@ -11,7 +11,7 @@ tags:
 aliases: ["Demolition Fulu"]
 ---
 # Demolition Fulu *Item 3+*  
-[consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [fulu](rules/traits/fulu-som.md)  [magical](rules/traits/magical.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [fulu](rules/traits/fulu-som.md "Fulu Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Usage** affixed to an object or structure; **Bulk** —
 - **Category** Consumable

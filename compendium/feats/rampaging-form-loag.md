@@ -7,7 +7,7 @@ tags:
 aliases: ["Rampaging Form"]
 ---
 # Rampaging Form  *Feat 17*  
-[kitsune](rules/traits/kitsune-loag.md)  
+[kitsune](rules/traits/kitsune-loag.md "Kitsune Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Change Shape (Kitsune)](rules/actions/change-shape-kitsune-loag.md) with a fox alternate form
 

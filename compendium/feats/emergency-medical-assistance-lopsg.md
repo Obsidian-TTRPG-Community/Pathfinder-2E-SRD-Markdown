@@ -9,7 +9,7 @@ tags:
 aliases: ["Emergency Medical Assistance"]
 ---
 # Emergency Medical Assistance  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 12*  
-[archetype](rules/traits/archetype.md)  [manipulate](rules/traits/manipulate.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Swordmaster Dedication](compendium/feats/swordmaster-dedication-locg.md), master in [Medicine](compendium/skills.md#Medicine)
 - **Requirements**: An adjacent ally is suffering [persistent damage](rules/conditions.md#Persistent%20Damage).

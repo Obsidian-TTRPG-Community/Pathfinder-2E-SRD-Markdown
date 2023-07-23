@@ -8,7 +8,7 @@ tags:
 aliases: ["Oversized Throw"]
 ---
 # Oversized Throw  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 4*  
-[barbarian](rules/traits/barbarian.md)  [rage](rules/traits/rage.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [rage](rules/traits/rage.md "Rage Combat Trait")  
 
 - **Requirements**: You have one or more hands free.
 - **Activity** Two-Action

@@ -8,7 +8,7 @@ tags:
 aliases: ["Tanglefoot Extruder"]
 ---
 # Tanglefoot Extruder *Item 3*  
-[alchemical](rules/traits/alchemical.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  
 
 - **Price** 50 gp
 - **Usage** held in 1 hand; **Bulk** L

@@ -13,7 +13,7 @@ tags:
 aliases: ["Lucky Rabbit's Foot"]
 ---
 # Lucky Rabbit's Foot *Item 10*  
-[consumable](rules/traits/consumable.md)  [divination](rules/traits/divination.md)  [fortune](rules/traits/fortune.md)  [magical](rules/traits/magical.md)  [talisman](rules/traits/talisman.md)  [uncommon](rules/traits/uncommon.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** follower of [Desna](compendium/setting/deities/desna.md)
 - **Price** 175 gp

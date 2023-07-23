@@ -7,7 +7,7 @@ tags:
 aliases: ["Eclectic Obsession"]
 ---
 # Eclectic Obsession  *Feat 5*  
-[gnome](rules/traits/gnome.md)  
+[gnome](rules/traits/gnome.md "Gnome Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Gnome Obsession](compendium/feats/gnome-obsession.md)
 - **Frequency**: once per day

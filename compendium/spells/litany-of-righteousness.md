@@ -12,7 +12,7 @@ tags:
 aliases: ["Litany Of Righteousness"]
 ---
 # Litany Of Righteousness *Focus 7*   
-[champion](rules/traits/champion.md)  [evocation](rules/traits/evocation.md)  [good](rules/traits/good.md)  [litany](rules/traits/litany.md)  [uncommon](rules/traits/uncommon.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [good](rules/traits/good.md "Good Alignment Trait")  [litany](rules/traits/litany.md "Litany Spell Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**30 foot

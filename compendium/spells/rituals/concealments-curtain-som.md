@@ -11,7 +11,7 @@ tags:
 aliases: ["Concealment's Curtain"]
 ---
 # Concealment's Curtain *Ritual 4*  
-[curse](rules/traits/curse.md)  [divination](rules/traits/divination.md)  [mental](rules/traits/mental.md)  [uncommon](rules/traits/uncommon.md)  
+[curse](rules/traits/curse.md "Curse Effect Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** 6 days
 - **Cost** an ornate mirror worth at least 100 gp, naturally occurring round fruit the size and number of the target's eyes, and the same amount of flawless silver needles worth at least 1 gp each

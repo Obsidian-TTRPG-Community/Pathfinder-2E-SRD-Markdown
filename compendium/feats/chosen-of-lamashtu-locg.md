@@ -7,7 +7,7 @@ tags:
 aliases: ["Chosen Of Lamashtu"]
 ---
 # Chosen Of Lamashtu  *Feat 5*  
-[goblin](rules/traits/goblin.md)  
+[goblin](rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  
 
 - **Prerequisites**: worshipper of Lamashtu
 

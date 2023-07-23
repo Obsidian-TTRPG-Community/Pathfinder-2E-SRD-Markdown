@@ -8,7 +8,7 @@ tags:
 aliases: ["Portable Altar"]
 ---
 # Portable Altar *Item 3*  
-[uncommon](rules/traits/uncommon.md)  
+[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** Knights of Lastwall have access to this item.
 - **Price** 25 gp

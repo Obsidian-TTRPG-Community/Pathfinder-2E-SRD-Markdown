@@ -7,11 +7,11 @@ tags:
 aliases: ["Resounding Bravery"]
 ---
 # Resounding Bravery  *Feat 8*  
-[fighter](rules/traits/fighter.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 - **Prerequisites**: bravery
 
-Even your fears serve as fuel for your fighting spirit. When you critically succeed at a Will save against a foe's ability, you gain a +1 status bonus to saves and a number of temporary Hit Points equal to half your level for 1 minute. These benefits are doubled if you critically succeed against a [fear](rules/traits/fear.md) effect.
+Even your fears serve as fuel for your fighting spirit. When you critically succeed at a Will save against a foe's ability, you gain a +1 status bonus to saves and a number of temporary Hit Points equal to half your level for 1 minute. These benefits are doubled if you critically succeed against a [fear](rules/traits/fear.md "Fear Effect Trait") effect.
 
 *Source: Advanced Player's Guide p. 127*  
 %% #compendium/src/pf2e/apg #trait/fighter %%

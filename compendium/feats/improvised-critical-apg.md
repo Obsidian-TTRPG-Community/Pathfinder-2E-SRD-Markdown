@@ -7,7 +7,7 @@ tags:
 aliases: ["Improvised Critical"]
 ---
 # Improvised Critical  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Weapon Improviser Dedication](compendium/feats/weapon-improviser-dedication-apg.md)
 

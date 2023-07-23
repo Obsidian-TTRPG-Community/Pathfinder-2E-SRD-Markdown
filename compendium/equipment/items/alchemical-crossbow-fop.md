@@ -9,7 +9,7 @@ tags:
 aliases: ["Alchemical Crossbow"]
 ---
 # Alchemical Crossbow *Item 0*  
-[alchemical](rules/traits/alchemical.md)  [uncommon](rules/traits/uncommon.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 25 gp
 - **Bulk** 1

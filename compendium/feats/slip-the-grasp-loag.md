@@ -8,7 +8,7 @@ tags:
 aliases: ["Slip The Grasp"]
 ---
 # Slip The Grasp  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 9*  
-[fleshwarp](rules/traits/fleshwarp-loag.md)  [flourish](rules/traits/flourish.md)  
+[fleshwarp](rules/traits/fleshwarp-loag.md "Fleshwarp Ancestry & Heritage Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 - **Requirements**: You are [grabbed](rules/conditions.md#Grabbed), [immobilized](rules/conditions.md#Immobilized), or [restrained](rules/conditions.md#Restrained).
 - **Activity** Single Action

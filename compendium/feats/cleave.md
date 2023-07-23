@@ -8,7 +8,7 @@ tags:
 aliases: ["Cleave"]
 ---
 # Cleave  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
-[barbarian](rules/traits/barbarian.md)  [rage](rules/traits/rage.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [rage](rules/traits/rage.md "Rage Combat Trait")  
 
 - **Trigger** Your melee [Strike](rules/actions/strike.md) kills a creature or knocks it [unconscious](rules/conditions.md#Unconscious), and another foe is adjacent to that creature.
 - **Activity** Reaction

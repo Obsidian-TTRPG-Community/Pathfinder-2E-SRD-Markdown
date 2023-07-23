@@ -8,7 +8,7 @@ tags:
 aliases: ["Frightening Appearance"]
 ---
 # Frightening Appearance  *Feat 12*  
-[archetype](rules/traits/archetype.md)  [vigilante](rules/traits/vigilante-apg.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [vigilante](rules/traits/vigilante-apg.md "Vigilante Feat Trait")  
 
 - **Prerequisites**: expert in [Intimidation](compendium/skills.md#Intimidation), [Startling Appearance](compendium/feats/startling-appearance-loag.md)
 

@@ -10,7 +10,7 @@ tags:
 aliases: ["Sever Magic"]
 ---
 # Sever Magic  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 16*  
-[abjuration](rules/traits/abjuration.md)  [arcane](rules/traits/arcane.md)  [esoterica](rules/traits/esoterica-da.md)  [thaumaturge](rules/traits/thaumaturge-da.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [esoterica](rules/traits/esoterica-da.md "Esoterica Action & Ability Trait")  [thaumaturge](rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
 
 - **Requirements**: You're holding an implement.
 - **Activity** Two-Action

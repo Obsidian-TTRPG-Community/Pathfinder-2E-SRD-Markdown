@@ -12,13 +12,13 @@ tags:
 - domain/zeal/deity
 aliases: ["Sorrow's Sword"]
 ---
-# Sorrow's Sword *([LG](rules/traits/lawful-goo-b1.md))*  
+# Sorrow's Sword *([LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"))*  
 *Source: Lost Omens: Knights of Lastwall p. 69*  
 
 - **Category**: Pantheon
 - **Anathema**: cower from combat, forgive those who have committed grave offenses, abandon or deceive allies
 - **Areas of Concern**: vengeance, , reclaiming lost homelands, , drawing strength from sorrow
-- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [CG](rules/traits/chaotic-good-b1.md), [CN](rules/traits/chaotic-neutral-b1.md)
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")
 
 ## Devotee benefits
 

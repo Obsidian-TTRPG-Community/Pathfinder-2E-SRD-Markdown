@@ -12,7 +12,7 @@ tags:
 aliases: ["Hurtling Stone"]
 ---
 # Hurtling Stone *Focus 1*   
-[attack](rules/traits/attack.md)  [cleric](rules/traits/cleric.md)  [earth](rules/traits/earth.md)  [evocation](rules/traits/evocation.md)  [uncommon](rules/traits/uncommon.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  [cleric](rules/traits/cleric.md "Cleric Class Trait")  [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Domains**: [earth](compendium/setting/domains.md#Earth)
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Freeze It!"]
 ---
 # Freeze It!  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 9*  
-[goblin](rules/traits/goblin.md)  
+[goblin](rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  
 
 - **Prerequisites**: snow goblin heritage
 - **Activity** Single Action

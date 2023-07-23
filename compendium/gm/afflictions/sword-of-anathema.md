@@ -12,7 +12,7 @@ aliases: ["Sword of Anathema"]
 ---
 # Sword of Anathema
 *Curse 20*  
-[curse](rules/traits/curse.md)  [divine](rules/traits/divine.md)  [evocation](rules/traits/evocation.md)  
+[curse](rules/traits/curse.md "Curse Effect Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
 With divine intervention, followers of a deity can bestow this curse upon an enemy of the faith.
 

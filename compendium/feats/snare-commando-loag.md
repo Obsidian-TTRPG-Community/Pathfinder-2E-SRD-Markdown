@@ -7,7 +7,7 @@ tags:
 aliases: ["Snare Commando"]
 ---
 # Snare Commando  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 9*  
-[kobold](rules/traits/kobold-b1.md)  
+[kobold](rules/traits/kobold-b1.md "Kobold Ancestry & Heritage Trait")  
 
 - **Prerequisites**: expert in [Deception](compendium/skills.md#Deception) or [Intimidation](compendium/skills.md#Intimidation), [Snare Crafting](compendium/feats/snare-crafting.md)
 - **Trigger** A creature fails or critically fails a save against your snare.

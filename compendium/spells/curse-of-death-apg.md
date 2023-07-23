@@ -13,7 +13,7 @@ tags:
 aliases: ["Curse Of Death"]
 ---
 # Curse Of Death *Focus 5*   
-[curse](rules/traits/curse.md)  [death](rules/traits/death.md)  [hex](rules/traits/hex-apg.md)  [necromancy](rules/traits/necromancy.md)  [uncommon](rules/traits/uncommon.md)  [witch](rules/traits/witch-apg.md)  
+[curse](rules/traits/curse.md "Curse Effect Trait")  [death](rules/traits/death.md "Death Effect Trait")  [hex](rules/traits/hex-apg.md "Hex Combat Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [witch](rules/traits/witch-apg.md "Witch Class Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot
@@ -32,7 +32,7 @@ You focus your malevolent gaze on a target, causing their heart to seize in drea
 ```ad-inline-affliction
 title: Curse of Death
 
-[curse](rules/traits/curse.md)  
+[curse](rules/traits/curse.md "Curse Effect Trait")  
 This curse ends immediately when the spell ends
 
 

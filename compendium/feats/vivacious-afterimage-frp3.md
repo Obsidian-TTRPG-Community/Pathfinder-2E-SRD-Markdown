@@ -11,7 +11,7 @@ tags:
 aliases: ["Vivacious Afterimage"]
 ---
 # Vivacious Afterimage  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 20*  
-[illusion](rules/traits/illusion.md)  [occult](rules/traits/occult.md)  [swashbuckler](rules/traits/swashbuckler-apg.md)  [uncommon](rules/traits/uncommon.md)  [visual](rules/traits/visual.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [swashbuckler](rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Prerequisites**: vivacious speed
 - **Requirements**: You have panache.

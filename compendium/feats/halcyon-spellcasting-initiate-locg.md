@@ -7,7 +7,7 @@ tags:
 aliases: ["Halcyon Spellcasting Initiate"]
 ---
 # Halcyon Spellcasting Initiate  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Halcyon Speaker Dedication](compendium/feats/halcyon-speaker-dedication-locg.md)
 

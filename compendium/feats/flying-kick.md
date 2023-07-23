@@ -7,7 +7,7 @@ tags:
 aliases: ["Flying Kick"]
 ---
 # Flying Kick  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 4*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Activity** Two-Action
 

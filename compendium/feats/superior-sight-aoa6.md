@@ -8,7 +8,7 @@ tags:
 aliases: ["Superior Sight"]
 ---
 # Superior Sight  *Feat 20*  
-[ranger](rules/traits/ranger.md)  [uncommon](rules/traits/uncommon.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 
 Your senses are peerless. You gain a +2 circumstance bonus to [Perception](compendium/skills.md#Perception) checks, and you gain [low-light vision](rules/abilities/low-light-vision.md). If you already have low-light vision, gain [darkvision](rules/abilities/darkvision.md) instead. Furthermore, when you target an enemy, you automatically succeed at the flat check if that enemy is [concealed](rules/conditions.md#Concealed), [hidden](rules/conditions.md#Hidden), or [undetected](rules/conditions.md#Undetected).

@@ -7,7 +7,7 @@ tags:
 aliases: ["Steady Spellcasting (Cleric)"]
 ---
 # Steady Spellcasting (Cleric)  *Feat 6*  
-[cleric](rules/traits/cleric.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  
 
 
 Confident in your technique, you don't lose spells easily. If a reaction would disrupt your spellcasting action, attempt a DC 15 flat check. If you succeed, your action isn't disrupted.

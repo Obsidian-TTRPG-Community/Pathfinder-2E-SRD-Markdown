@@ -9,7 +9,7 @@ tags:
 aliases: ["Gather Information"]
 ---
 # Gather Information (basic)
-[exploration](rules/traits/exploration.md)  [secret](rules/traits/secret.md)  
+[exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [secret](rules/traits/secret.md "Secret General Trait")  
 *Source: Core Rulebook p. 246*  
 
 **Skill** [diplomacy](compendium/skills.md#Diplomacy) (untrained)

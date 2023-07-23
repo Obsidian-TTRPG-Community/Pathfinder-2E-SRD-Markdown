@@ -11,7 +11,7 @@ tags:
 aliases: ["Luck Blade"]
 ---
 # Luck Blade *Item 17+*  
-[divination](rules/traits/divination.md)  [fortune](rules/traits/fortune.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Weapon
@@ -23,7 +23,7 @@ title: Activate [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "R
 
 - **Trigger**: You miss on a [Strike](rules/actions/strike.md) with the luck blade
 
-**Effect** Reroll the triggering attack roll and use the new result. This is a [fortune](rules/traits/fortune.md) effect.
+**Effect** Reroll the triggering attack roll and use the new result. This is a [fortune](rules/traits/fortune.md "Fortune Effect Trait") effect.
 ```
 
 *Source: Core Rulebook p. 601*

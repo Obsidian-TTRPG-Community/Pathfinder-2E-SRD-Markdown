@@ -10,7 +10,7 @@ tags:
 aliases: ["Call of the Void"]
 ---
 # Call of the Void *Hazard 12*  
-[complex](rules/traits/complex.md)  [environmental](rules/traits/environmental.md)  [magical](rules/traits/magical.md)  [unique](rules/traits/unique.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Complexity** Complex
 - **Stealth** DC 25 expert to notice a slight tugging feeling  
@@ -21,7 +21,7 @@ A supernatural compulsion to leap into the unknown exerts itself on anyone who a
      
 ```ad-embed-ability
 title: Leap into the Unknown [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[enchantment](rules/traits/enchantment.md)  [mental](rules/traits/mental.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 - **Trigger**: A creature enters a square adjacent to the ledge of an island or steps onto one of the red ropes
 

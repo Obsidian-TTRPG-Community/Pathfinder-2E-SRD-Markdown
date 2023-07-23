@@ -11,7 +11,7 @@ tags:
 aliases: ["Sun Wheel"]
 ---
 # Sun Wheel *Item 5*  
-[abjuration](rules/traits/abjuration.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 150 gp
 - **Usage** worn; **Bulk** –
@@ -25,7 +25,7 @@ You must be good-aligned to use the _sun wheel_'s true power: the following acti
 
 ```ad-embed-ability
 title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[concentrate](rules/traits/concentrate.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
 
 The sun wheel casts a [shield](compendium/spells/shield.md) spell benefiting you. When you use the spell to prevent damage, you prevent 10 damage instead of 5. If the attacker is adjacent to you, you can choose to deal `2d6` fire damage to it, which it gets a DC 21 basic Reflex save to resist.
 

@@ -10,11 +10,11 @@ tags:
 aliases: ["Exchange Image"]
 ---
 # Exchange Image *Spell 1*   
-[illusion](rules/traits/illusion.md)  [uncommon](rules/traits/uncommon.md)  [visual](rules/traits/visual.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Requirements**You have the [humanoid](rules/traits/humanoid.md) trait.
+- **Requirements**You have the [humanoid](rules/traits/humanoid.md "Humanoid Creature Type Trait") trait.
 - **Range**touch
 - **Targets**you and 1 other humanoid
 - **Saving Throw** Will

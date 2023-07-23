@@ -8,14 +8,14 @@ tags:
 aliases: ["Faultspawn"]
 ---
 # Faultspawn  *Feat 1*  
-[lineage](rules/traits/lineage-apg.md)  [tiefling](rules/traits/tiefling-b1.md)  
+[lineage](rules/traits/lineage-apg.md "Lineage  Trait")  [tiefling](rules/traits/tiefling-b1.md "Tiefling Ancestry & Heritage Trait")  
 
 
 You bear a grudge, inherited from a blasphemous asura forebear in your bloodline, against a particular deity and their works. You also have some vestigial signs of your previous incarnation, such as a second set of shoulder blades without usable arms, a set of mostly closed eyes where no eyes belong, or strange scarring reminiscent of a mouth. You gain the Find Fault reaction.
 
 ```ad-embed-ability
 title: Find Fault [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[concentrate](rules/traits/concentrate.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
 
 - **Trigger**: You attempt a saving throw against a spell or magic effect but haven't rolled yet
 

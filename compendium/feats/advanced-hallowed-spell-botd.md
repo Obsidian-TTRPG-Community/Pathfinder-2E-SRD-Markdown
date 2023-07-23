@@ -7,7 +7,7 @@ tags:
 aliases: ["Advanced Hallowed Spell"]
 ---
 # Advanced Hallowed Spell  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Hallowed Necromancer Dedication](compendium/feats/hallowed-necromancer-dedication-botd.md), necromancer initial school spell or death initial domain spell
 

@@ -27,7 +27,7 @@ Though the majority of hallowed necromancers have similar goals and are willing 
 title: Hallowed Necromancer Dedication, Feat 2
 collapse: closed
 # Hallowed Necromancer Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: good alignment, able to cast spells using spell slots, able to cast at least one necromancy spell, expert in [Religion](compendium/skills.md#Religion)
 
@@ -38,14 +38,14 @@ Casting spells that create, heal, or otherwise aid or promote undead is anathema
 **Special.** You can't select another dedication feat until you have gained two other feats from the hallowed necromancer archetype.
 
 *Source: Book of the Dead p. 24*  
-%% #trait/uncommon #trait/archetype #trait/dedication %%
+%% #trait/archetype #trait/dedication #trait/uncommon %%
 ```  
 
 ```ad-embed-feat
 title: Hallowed Initiate, Feat 4
 collapse: closed
 # Hallowed Initiate  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Hallowed Necromancer Dedication](compendium/feats/hallowed-necromancer-dedication-botd.md)
 
@@ -61,11 +61,11 @@ You've expanded your focus spellcasting to techniques used by clerics and wizard
 title: Sacred Spells, Feat 4
 collapse: closed
 # Sacred Spells  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Hallowed Necromancer Dedication](compendium/feats/hallowed-necromancer-dedication-botd.md)
 
-Add [chill touch](compendium/spells/chill-touch.md), [death ward](compendium/spells/death-ward.md), [disrupt undead](compendium/spells/disrupt-undead.md), [disrupting weapons](compendium/spells/disrupting-weapons.md), [holy cascade](compendium/spells/holy-cascade.md), [magic stone](compendium/spells/magic-stone-apg.md), and [sunburst](compendium/spells/sunburst.md) to your spell list. These are all [necromancy](rules/traits/necromancy.md) spells for you, even if they normally have a different spell school. You can either prepare these spells or add them to your repertoire just like the spells normally on your tradition's spell list. When you gain this feat, you can retrain existing spells to replace them with ones on this list.
+Add [chill touch](compendium/spells/chill-touch.md), [death ward](compendium/spells/death-ward.md), [disrupt undead](compendium/spells/disrupt-undead.md), [disrupting weapons](compendium/spells/disrupting-weapons.md), [holy cascade](compendium/spells/holy-cascade.md), [magic stone](compendium/spells/magic-stone-apg.md), and [sunburst](compendium/spells/sunburst.md) to your spell list. These are all [necromancy](rules/traits/necromancy.md "Necromancy School Trait") spells for you, even if they normally have a different spell school. You can either prepare these spells or add them to your repertoire just like the spells normally on your tradition's spell list. When you gain this feat, you can retrain existing spells to replace them with ones on this list.
 
 In addition, your knowledge of the conduits to the Positive Energy Plane allows you more flexibility with these spells. Choose one of these two benefits.
 
@@ -80,11 +80,11 @@ In addition, your knowledge of the conduits to the Positive Energy Plane allows 
 title: Death Warden, Feat 6
 collapse: closed
 # Death Warden  *Feat 6*  
-[archetype](rules/traits/archetype.md)  [positive](rules/traits/positive.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  
 
 - **Prerequisites**: [Hallowed Necromancer Dedication](compendium/feats/hallowed-necromancer-dedication-botd.md)
 
-With your intimate familiarity with the duality of positive and negative energy, you're able to stand as a bulwark against death and undeath alike. You gain resistance to negative damage equal to half your level and a +1 status bonus to saving throws against effects with the [negative](rules/traits/negative.md) trait.
+With your intimate familiarity with the duality of positive and negative energy, you're able to stand as a bulwark against death and undeath alike. You gain resistance to negative damage equal to half your level and a +1 status bonus to saving throws against effects with the [negative](rules/traits/negative.md "Negative Energy & Element Trait") trait.
 
 *Source: Book of the Dead p. 25*  
 %% #trait/archetype #trait/positive %%
@@ -94,7 +94,7 @@ With your intimate familiarity with the duality of positive and negative energy,
 title: Advanced Hallowed Spell, Feat 8
 collapse: closed
 # Advanced Hallowed Spell  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Hallowed Necromancer Dedication](compendium/feats/hallowed-necromancer-dedication-botd.md), necromancer initial school spell or death initial domain spell
 
@@ -110,7 +110,7 @@ You dig deeper into the magical tools found in wizard schools and divine domains
 title: Positive Luminance, Feat 8
 collapse: closed
 # Positive Luminance  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Hallowed Necromancer Dedication](compendium/feats/hallowed-necromancer-dedication-botd.md)
 
@@ -124,7 +124,7 @@ You learn how to create a luminous reservoir of positive energy that you can use
 title: Consecrated Aura, Feat 14*
 collapse: closed
 # Consecrated Aura  *Feat 14*  
-[abjuration](rules/traits/abjuration.md)  [archetype](rules/traits/archetype.md)  [aura](rules/traits/aura.md)  [positive](rules/traits/positive.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [aura](rules/traits/aura.md "Aura Combat Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  
 
 > [!pf2-note] This version of [Consecrated Aura](compendium/feats/consecrated-aura-botd.md) is intended for use with the Hallowed Necromancer Archetype. Its level has been changed accordingly.
 

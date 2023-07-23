@@ -7,7 +7,7 @@ tags:
 aliases: ["Ember's Eyes"]
 ---
 # Ember's Eyes  *Feat 1*  
-[ifrit](rules/traits/ifrit-b2.md)  
+[ifrit](rules/traits/ifrit-b2.md "Ifrit Ancestry & Heritage Trait")  
 
 
 Your eyes blaze with inner flame. You gain [low-light vision](rules/abilities/low-light-vision.md), or you gain [darkvision](rules/abilities/darkvision.md) if your ancestry already has [low-light vision](rules/abilities/low-light-vision.md).

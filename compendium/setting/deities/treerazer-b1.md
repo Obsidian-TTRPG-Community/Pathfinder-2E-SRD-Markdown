@@ -10,12 +10,12 @@ tags:
 - domain/tyranny/deity
 aliases: ["Treerazer", "Lord of the Blasted Tarn"]
 ---
-# Treerazer (Lord of the Blasted Tarn) *([CE](rules/traits/chaotic-evil-b1.md))*  
+# Treerazer (Lord of the Blasted Tarn) *([CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait"))*  
 *Source: Bestiary p. 312*  
 
 - **Category**: Demon Lords
 - **Anathema**: grant mercy to elves, plant trees, encourage natural plant growth
-- **Follower Alignments**: [NE](rules/traits/neutral-evil-b1.md), [CE](rules/traits/chaotic-evil-b1.md)
+- **Follower Alignments**: [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
 

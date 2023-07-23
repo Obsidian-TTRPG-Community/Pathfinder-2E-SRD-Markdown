@@ -9,7 +9,7 @@ tags:
 aliases: ["Eclipsed Vitality"]
 ---
 # Eclipsed Vitality  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Assassin Dedication](compendium/feats/assassin-dedication-apg.md) or [Scout Dedication](compendium/feats/scout-dedication-apg.md), master in [Stealth](compendium/skills.md#Stealth)
 

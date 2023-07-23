@@ -11,7 +11,7 @@ tags:
 aliases: ["Plate Armor of the Deep"]
 ---
 # Plate Armor of the Deep *Item 15*  
-[abjuration](rules/traits/abjuration.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 6500 gp
 - **Usage** worn armor; **Bulk** 4

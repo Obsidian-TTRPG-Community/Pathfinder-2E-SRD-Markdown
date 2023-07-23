@@ -12,7 +12,7 @@ tags:
 aliases: ["Blight"]
 ---
 # Blight *Ritual 4*  
-[necromancy](rules/traits/necromancy.md)  [negative](rules/traits/negative.md)  [plant](rules/traits/plant.md)  [uncommon](rules/traits/uncommon.md)  
+[necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** 1 day
 - **Secondary Casters** 1

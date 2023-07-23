@@ -7,7 +7,7 @@ tags:
 aliases: ["Choking Smoke"]
 ---
 # Choking Smoke  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Smoldering Explosion](compendium/feats/smoldering-explosion-lotgb.md)
 

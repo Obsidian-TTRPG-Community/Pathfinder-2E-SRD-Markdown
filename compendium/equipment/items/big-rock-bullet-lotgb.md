@@ -12,7 +12,7 @@ tags:
 aliases: ["Big Rock Bullet"]
 ---
 # Big Rock Bullet *Item 7+*  
-[consumable](rules/traits/consumable.md)  [earth](rules/traits/earth.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Ammunition** sling bullet
 - **Activate** [Interact](rules/actions/interact.md)

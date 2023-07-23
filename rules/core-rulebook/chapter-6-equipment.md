@@ -84,12 +84,12 @@ You might need to know the Bulk of a creature, especially if you need to carry s
 
 | Size of Creature | Bulk |
 |------------------|------|
-| [Tiny](rules/traits/tiny-b1.md) | 1 |
-| [Small](rules/traits/small-b1.md) | 3 |
-| [Medium](rules/traits/medium-b1.md) | 6 |
-| [Large](rules/traits/large-b1.md) | 12 |
-| [Huge](rules/traits/huge-b1.md) | 24 |
-| [Gargantuan](rules/traits/gargantuan-b1.md) | 48 |
+| [Tiny](rules/traits/tiny-b1.md "Tiny Size Trait") | 1 |
+| [Small](rules/traits/small-b1.md "Small Size Trait") | 3 |
+| [Medium](rules/traits/medium-b1.md "Medium Size Trait") | 6 |
+| [Large](rules/traits/large-b1.md "Large Size Trait") | 12 |
+| [Huge](rules/traits/huge-b1.md "Huge Size Trait") | 24 |
+| [Gargantuan](rules/traits/gargantuan-b1.md "Gargantuan Size Trait") | 48 |
 
 #### Dragging
 <sup>CRB p. 272</sup>
@@ -201,13 +201,13 @@ The traits for each suit of armor appear in this entry.
 
 Armor can have the following traits.
 
-**[Bulwark](rules/traits/bulwark.md):** The armor covers you so completely that it provides benefits against some damaging effects. On Reflex saves to avoid a damaging effect, such as a [fireball](compendium/spells/fireball.md), you add a +3 modifier instead of your Dexterity modifier.
+**[Bulwark](rules/traits/bulwark.md "Bulwark Armor Trait"):** The armor covers you so completely that it provides benefits against some damaging effects. On Reflex saves to avoid a damaging effect, such as a [fireball](compendium/spells/fireball.md), you add a +3 modifier instead of your Dexterity modifier.
 
-**[Comfort](rules/traits/comfort.md):** The armor is so comfortable that you can rest normally while wearing it.
+**[Comfort](rules/traits/comfort.md "Comfort Armor Trait"):** The armor is so comfortable that you can rest normally while wearing it.
 
-**[Flexible](rules/traits/flexible.md):** The armor is flexible enough that it doesn't hinder most actions. You don't apply its check penalty to [Acrobatics](compendium/skills.md#Acrobatics) or [Athletics](compendium/skills.md#Athletics) checks.
+**[Flexible](rules/traits/flexible.md "Flexible Armor Trait"):** The armor is flexible enough that it doesn't hinder most actions. You don't apply its check penalty to [Acrobatics](compendium/skills.md#Acrobatics) or [Athletics](compendium/skills.md#Athletics) checks.
 
-**[Noisy](rules/traits/noisy.md):** This armor is loud and likely to alert others to your presence when you're using the [Avoid Notice](rules/actions/avoid-notice.md) exploration activity.
+**[Noisy](rules/traits/noisy.md "Noisy Armor Trait"):** This armor is loud and likely to alert others to your presence when you're using the [Avoid Notice](rules/actions/avoid-notice.md) exploration activity.
 
 #### Armor Specialization Effects
 <sup>CRB p. 275</sup>
@@ -328,7 +328,7 @@ When making an attack roll, determine the result by rolling 1d20 and adding your
 
 > [!pf2-inset] 
 > 
-> Melee attack modifier = Strength modifier (or optionally Dexterity for a [finesse](rules/traits/finesse.md) weapon) + proficiency bonus + other bonuses + penalties
+> Melee attack modifier = Strength modifier (or optionally Dexterity for a [finesse](rules/traits/finesse.md "Finesse Weapon Trait") weapon) + proficiency bonus + other bonuses + penalties
 
 Bonuses, and penalties apply to these rolls just like with other types of checks. Weapons with potency runes (page 581) add an item bonus to your attack rolls.
 
@@ -337,7 +337,7 @@ Bonuses, and penalties apply to these rolls just like with other types of checks
 
 If you use an action with the attack trait more than once on the same turn, your attacks after the first take a penalty called a multiple attack penalty. Your second attack takes a –5 penalty, and any subsequent attacks take a –10 penalty.
 
-The multiple attack penalty doesn't apply to attacks you make when it isn't your turn (such as attacks made as part of a reaction). You can use a weapon with the [agile](rules/traits/agile.md) trait to reduce your multiple attack penalty.
+The multiple attack penalty doesn't apply to attacks you make when it isn't your turn (such as attacks made as part of a reaction). You can use a weapon with the [agile](rules/traits/agile.md "Agile Weapon Trait") trait to reduce your multiple attack penalty.
 
 ### Damage Rolls
 <sup>CRB p. 278</sup>
@@ -642,7 +642,7 @@ Each scholarly journal is a folio on a very specific topic, such as vampires or 
 
 **Spyglass:** A typical spyglass lets you see eight times farther than normal. A fine spyglass adds a +1 item bonus to [Perception](compendium/skills.md#Perception) checks to notice details at a distance.
 
-**Survey Map:** Maps are [uncommon](rules/traits/uncommon.md).
+**Survey Map:** Maps are [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait").
 
 Most maps you can find are simple and functional. A survey map details a single location in excellent detail. One of these maps gives you a +1 item bonus to [Survival](compendium/skills.md#Survival) checks and any skill checks to [Recall Knowledge](rules/actions/recall-knowledge.md), provided the checks are related to the location detailed on the map.
 
@@ -890,26 +890,26 @@ You can purchase special armor for animals, called barding (shown on [Table 6–
 ### Items and Sizes
 <sup>CRB p. 295</sup>
 
-The Bulk rules in this chapter are for [Small](rules/traits/small-b1.md) and [Medium](rules/traits/medium-b1.md) creatures, as the items are made for creatures of those sizes. Large creatures can carry more, and smaller creatures can carry less, as noted on [Table 6–19](rules/tables/bulk-conversions.md).
+The Bulk rules in this chapter are for [Small](rules/traits/small-b1.md "Small Size Trait") and [Medium](rules/traits/medium-b1.md "Medium Size Trait") creatures, as the items are made for creatures of those sizes. Large creatures can carry more, and smaller creatures can carry less, as noted on [Table 6–19](rules/tables/bulk-conversions.md).
 
 These rules for Bulk limits come up most often when a group tries to load up a mount or animal companion. The rules for items of different sizes tend to come into play when the characters defeat a big creature that has gear, since in most cases, the only creatures of other sizes are creatures under the GM's control. In most cases, Small or Medium creatures can wield a Large weapon, though it's unwieldy, giving them the clumsy 1 condition, and the larger size is canceled by the difficulty of swinging the weapon, so it grants no special benefit. Large armor is simply too large for Small and Medium creatures.
 
 #### Bulk Conversions for Different Sizes
 <sup>CRB p. 295</sup>
 
-As shown in [Table 6–19](rules/tables/bulk-conversions.md), [Large](rules/traits/large-b1.md) or larger creatures are less encumbered by bulky items than [Small](rules/traits/small-b1.md) or [Medium](rules/traits/medium-b1.md) creatures, while [Tiny](rules/traits/tiny-b1.md) creatures become overburdened more quickly. A [Large](rules/traits/large-b1.md) creature treats 10 items of 1 Bulk as 1 Bulk, a [Huge](rules/traits/huge-b1.md) creature treats 10 items of 2 Bulk as 1 Bulk, and so on. A [Tiny](rules/traits/tiny-b1.md) creature treats 10 items of negligible Bulk as 1 Bulk. Negligible items work in a similar way—a [Huge](rules/traits/huge-b1.md) creature treats items of 1 Bulk as negligible, so it can carry any number of items of 1 Bulk. A [Tiny](rules/traits/tiny-b1.md) creature doesn't treat any items as having negligible Bulk.
+As shown in [Table 6–19](rules/tables/bulk-conversions.md), [Large](rules/traits/large-b1.md "Large Size Trait") or larger creatures are less encumbered by bulky items than [Small](rules/traits/small-b1.md "Small Size Trait") or [Medium](rules/traits/medium-b1.md "Medium Size Trait") creatures, while [Tiny](rules/traits/tiny-b1.md "Tiny Size Trait") creatures become overburdened more quickly. A [Large](rules/traits/large-b1.md "Large Size Trait") creature treats 10 items of 1 Bulk as 1 Bulk, a [Huge](rules/traits/huge-b1.md "Huge Size Trait") creature treats 10 items of 2 Bulk as 1 Bulk, and so on. A [Tiny](rules/traits/tiny-b1.md "Tiny Size Trait") creature treats 10 items of negligible Bulk as 1 Bulk. Negligible items work in a similar way—a [Huge](rules/traits/huge-b1.md "Huge Size Trait") creature treats items of 1 Bulk as negligible, so it can carry any number of items of 1 Bulk. A [Tiny](rules/traits/tiny-b1.md "Tiny Size Trait") creature doesn't treat any items as having negligible Bulk.
 
 ![Bulk conversions](rules/tables/bulk-conversions.md)
 
 #### Items of Different Sizes
 <sup>CRB p. 295</sup>
 
-Creatures of sizes other than [Small](rules/traits/small-b1.md) or [Medium](rules/traits/medium-b1.md) need items appropriate to their size. These items have different Bulk and possibly a different Price. [Table 6 –20](rules/tables/differently-sized-items.md) provides the Price and Bulk conversion for such items.
+Creatures of sizes other than [Small](rules/traits/small-b1.md "Small Size Trait") or [Medium](rules/traits/medium-b1.md "Medium Size Trait") need items appropriate to their size. These items have different Bulk and possibly a different Price. [Table 6 –20](rules/tables/differently-sized-items.md) provides the Price and Bulk conversion for such items.
 
 ![Differently Sized Items](rules/tables/differently-sized-items.md)
 
-For example, a [morningstar](compendium/equipment/items/morningstar.md) sized for a [Medium](rules/traits/medium-b1.md) creature has a Price of 1 gp and 1 Bulk, so one made for a [Huge](rules/traits/huge-b1.md) creature has a Price of 4 gp and 4 Bulk. One made for a [Tiny](rules/traits/tiny-b1.md) creature still costs 1 gp (due to its intricacy) and has 1/2 Bulk, which rounds down to light Bulk.
+For example, a [morningstar](compendium/equipment/items/morningstar.md) sized for a [Medium](rules/traits/medium-b1.md "Medium Size Trait") creature has a Price of 1 gp and 1 Bulk, so one made for a [Huge](rules/traits/huge-b1.md "Huge Size Trait") creature has a Price of 4 gp and 4 Bulk. One made for a [Tiny](rules/traits/tiny-b1.md "Tiny Size Trait") creature still costs 1 gp (due to its intricacy) and has 1/2 Bulk, which rounds down to light Bulk.
 
-Because the way that a creature treats Bulk and the Bulk of gear sized for it scale the same way, [Tiny](rules/traits/tiny-b1.md) or [Large](rules/traits/large-b1.md) (or larger) creatures can usually wear and carry about the same amount of appropriately sized gear as a [Medium](rules/traits/medium-b1.md) creature.
+Because the way that a creature treats Bulk and the Bulk of gear sized for it scale the same way, [Tiny](rules/traits/tiny-b1.md "Tiny Size Trait") or [Large](rules/traits/large-b1.md "Large Size Trait") (or larger) creatures can usually wear and carry about the same amount of appropriately sized gear as a [Medium](rules/traits/medium-b1.md "Medium Size Trait") creature.
 
 Higher-level magic items that cost significantly more than 8 times the cost of a mundane item can use their listed Price regardless of size. Precious materials, however, have a Price based on the Bulk of the item, so multiply the Bulk value as described on [Table 6 –20](rules/tables/differently-sized-items.md), then use the formula in the precious material's entry to determine the item's Price. See page 578 for more information.

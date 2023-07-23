@@ -10,7 +10,7 @@ tags:
 aliases: ["Shortsword"]
 ---
 # Shortsword *Item 0*  
-[agile](rules/traits/agile.md)  [finesse](rules/traits/finesse.md)  [versatile <s>](rules/traits/versatile.md)  
+[agile](rules/traits/agile.md "Agile Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [versatile <s>](rules/traits/versatile-s.md "Versatile Weapon Trait")  
 
 - **Price** 9 sp
 - **Bulk** L

@@ -10,7 +10,7 @@ tags:
 aliases: ["Convergence Lattice"]
 ---
 # Convergence Lattice *Hazard 20*  
-[complex](rules/traits/complex.md)  [magical](rules/traits/magical.md)  [trap](rules/traits/trap.md)  [unique](rules/traits/unique.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Complexity** Complex
 - **Stealth** +34 master to realize the lattice is a complex clockwork before it begins to move; noticing the lattice itself is DC 0.  

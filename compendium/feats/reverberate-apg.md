@@ -7,7 +7,7 @@ tags:
 aliases: ["Reverberate"]
 ---
 # Reverberate  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 12*  
-[bard](rules/traits/bard.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  
 
 - **Trigger** You would take sonic damage from a spell.
 - **Activity** Reaction

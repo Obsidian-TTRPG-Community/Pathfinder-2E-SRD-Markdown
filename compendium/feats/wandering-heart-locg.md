@@ -7,7 +7,7 @@ tags:
 aliases: ["Wandering Heart"]
 ---
 # Wandering Heart  *Feat 13*  
-[elf](rules/traits/elf.md)  
+[elf](rules/traits/elf.md "Elf Ancestry & Heritage Trait")  
 
 - **Prerequisites**: arctic elf, cavern elf, desert elf, woodland elf, or any other elf heritage based on adapting to an environment
 

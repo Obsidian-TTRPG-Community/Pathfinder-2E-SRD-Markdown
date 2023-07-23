@@ -9,7 +9,7 @@ tags:
 aliases: ["Astral Tether"]
 ---
 # Astral Tether  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[abjuration](rules/traits/abjuration.md)  [occult](rules/traits/occult.md)  [psychic](rules/traits/psychic-da.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  
 
 - **Activity** Single Action
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Incredible Reanimated Companion"]
 ---
 # Incredible Reanimated Companion  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Advanced Reanimated Companion](compendium/feats/advanced-reanimated-companion-ooa3.md)
 

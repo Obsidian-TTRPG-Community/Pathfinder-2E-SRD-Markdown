@@ -10,12 +10,12 @@ tags:
 - domain/might/deity
 aliases: ["Moloch", "The Ashen Bull"]
 ---
-# Moloch (The Ashen Bull) *([LE](rules/traits/lawful-evil-b1.md))*  
+# Moloch (The Ashen Bull) *([LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 75*  
 
 - **Category**: Archdevils
 - **Anathema**: defy a military superior, flee in battle (unless ordered to do so), lose your combat edge due to your vices
-- **Follower Alignments**: [LE](rules/traits/lawful-evil-b1.md)
+- **Follower Alignments**: [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait")
 
 ## Devotee benefits
 

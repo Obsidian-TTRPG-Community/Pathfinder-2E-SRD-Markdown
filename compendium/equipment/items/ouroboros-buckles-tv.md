@@ -11,18 +11,18 @@ tags:
 aliases: ["Ouroboros Buckles"]
 ---
 # Ouroboros Buckles *Item 19*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  [transmutation](rules/traits/transmutation.md)  
+[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 40000 gp
 - **Usage** worn armor; **Bulk** 1
 - **Category** Armor
 
-This ominous-looking +3 greater resilient greater acid-resistant buckle armor is deep red in color, favored by assassins who worship [Norgorber](compendium/setting/deities/norgorber.md) or [Asmodeus](compendium/setting/deities/asmodeus.md), and if unfastened, the many belts and buckles writhe like living snakes. Ouroboros buckles have the [comfort](rules/traits/comfort.md) trait. However, while wearing ouroboros buckles, the unfathomable concept of infinity pulls at your mind, and each time you awaken, you'd swear the armor hissed into your ear while you were asleep. The hissing suggested secret wisdom to you in Aklo, though you only ever remember it vaguely, like a fading dream.
+This ominous-looking +3 greater resilient greater acid-resistant buckle armor is deep red in color, favored by assassins who worship [Norgorber](compendium/setting/deities/norgorber.md) or [Asmodeus](compendium/setting/deities/asmodeus.md), and if unfastened, the many belts and buckles writhe like living snakes. Ouroboros buckles have the [comfort](rules/traits/comfort.md "Comfort Armor Trait") trait. However, while wearing ouroboros buckles, the unfathomable concept of infinity pulls at your mind, and each time you awaken, you'd swear the armor hissed into your ear while you were asleep. The hissing suggested secret wisdom to you in Aklo, though you only ever remember it vaguely, like a fading dream.
 
 ```ad-embed-ability
 title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
 
-You call forth the cursed regenerative blood of an ouroboros to recover from your wounds. You gain regeneration 15 (Pathfinder Bestiary 343) for 1 minute; fire damage deactivates this regeneration. Each time you regain Hit Points from this regeneration, if you're in your normal form, you collapse into a Large swarm of Tiny snakes. This is a [polymorph](rules/traits/polymorph.md) effect that changes you into a battle form.
+You call forth the cursed regenerative blood of an ouroboros to recover from your wounds. You gain regeneration 15 (Pathfinder Bestiary 343) for 1 minute; fire damage deactivates this regeneration. Each time you regain Hit Points from this regeneration, if you're in your normal form, you collapse into a Large swarm of Tiny snakes. This is a [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait") effect that changes you into a battle form.
 
 When you're a swarm of snakes, you gain low-light vision, imprecise scent (30 feet), a Speed of 20 feet, a climb Speed of 20 feet, and a swim Speed of 20 feet. You have an AC of 16 + your level and ignore your armor's check penalty and Speed reduction. Also, you gain resistance 5 to physical damage and weakness 5 to area damage and splash damage. You can use none of your normal Strikes. Instead, you can use Swarming Bites, a single action that deals `4d4` piercing damage plus `2d6` poison damage to creatures in your space with a DC 41 basic Reflex save.
 

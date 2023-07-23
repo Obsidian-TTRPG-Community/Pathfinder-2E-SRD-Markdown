@@ -22,7 +22,7 @@ Evil captivators manipulate others to achieve status, wealth, and power. They ha
 title: Captivator Dedication, Feat 4
 collapse: closed
 # Captivator Dedication  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: Charisma 14, trained in [Deception](compendium/skills.md#Deception) or [Diplomacy](compendium/skills.md#Diplomacy)
 
@@ -42,7 +42,7 @@ Choose two cantrips from the occult list; each cantrip must be from either the e
 title: Basic Captivator Spellcasting, Feat 4
 collapse: closed
 # Basic Captivator Spellcasting  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Captivator Dedication](compendium/feats/captivator-dedication-lotgb.md)
 
@@ -58,7 +58,7 @@ Choose a 1st-level occult spell from either the enchantment or illusion school. 
 title: Captivating Intensity, Feat 6
 collapse: closed
 # Captivating Intensity  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Captivator Spellcasting](compendium/feats/basic-captivator-spellcasting-lotgb.md)
 
@@ -72,7 +72,7 @@ Your ability to captivate others has grown, and you can use your captivator abil
 title: Countercharm, Feat 8
 collapse: closed
 # Countercharm  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Captivator Spellcasting](compendium/feats/basic-captivator-spellcasting-lotgb.md)
 - **Trigger** A creature Casts a Spell from the enchantment or illusion school.
@@ -91,7 +91,7 @@ When a foe casts an enchantment or illusion spell and you can see its manifestat
 title: Heightened Captivation, Feat 8
 collapse: closed
 # Heightened Captivation  *Feat 8*  
-[archetype](rules/traits/archetype.md)  [metamagic](rules/traits/metamagic.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 - **Prerequisites**: [Captivator Dedication](compendium/feats/captivator-dedication-lotgb.md)
 
@@ -107,7 +107,7 @@ You can infuse your enchantments and illusions with more power. Choose one of yo
 title: Expert Captivator Spellcasting, Feat 10
 collapse: closed
 # Expert Captivator Spellcasting  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Captivator Spellcasting](compendium/feats/basic-captivator-spellcasting-lotgb.md)
 
@@ -127,7 +127,7 @@ You become an expert with spell attack rolls and spell DCs for occult spells.
 title: Reactive Charm, Feat 10
 collapse: closed
 # Reactive Charm  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Captivator Dedication](compendium/feats/captivator-dedication-lotgb.md)
 - **Frequency**: once per day
@@ -144,7 +144,7 @@ You're so charming and distracting that when pressed, you can cast a simple ench
 title: Effortless Captivation, Feat 14*
 collapse: closed
 # Effortless Captivation  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 14*  
-[archetype](rules/traits/archetype.md)  [metamagic](rules/traits/metamagic.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 > [!pf2-note] This version of [Effortless Captivation](compendium/feats/effortless-captivation-lotgb.md) is intended for use with the Captivator Archetype. Its level has been changed accordingly.
 
@@ -162,7 +162,7 @@ You maintain your innate enchantments and illusions with hardly a thought. You i
 title: Master Captivator Spellcasting, Feat 16*
 collapse: closed
 # Master Captivator Spellcasting  *Feat 16*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Master Captivator Spellcasting](compendium/feats/master-captivator-spellcasting-lotgb.md) is intended for use with the Captivator Archetype. Its level has been changed accordingly.
 
@@ -184,7 +184,7 @@ You become a master with spell attack rolls and spell DCs for occult spells.
 title: Look Again, Feat 18*
 collapse: closed
 # Look Again  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 18*  
-[archetype](rules/traits/archetype.md)  [metamagic](rules/traits/metamagic.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 > [!pf2-note] This version of [Look Again](compendium/feats/look-again-lotgb.md) is intended for use with the Captivator Archetype. Its level has been changed accordingly.
 

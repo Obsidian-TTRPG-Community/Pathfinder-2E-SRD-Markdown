@@ -7,7 +7,7 @@ tags:
 aliases: ["Night Magic"]
 ---
 # Night Magic  *Feat 9*  
-[dhampir](rules/traits/dhampir-b1.md)  
+[dhampir](rules/traits/dhampir-b1.md "Dhampir Ancestry & Heritage Trait")  
 
 
 You can tap into the magic that runs through your blood. You gain [animal form](compendium/spells/animal-form.md) (wolf only, using the statistics for a canine) and [obscuring mist](compendium/spells/obscuring-mist.md) as 2nd-level divine innate spells. You can cast each of these spells once per day.

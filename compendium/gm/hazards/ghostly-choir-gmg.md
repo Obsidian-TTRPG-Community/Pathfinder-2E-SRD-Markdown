@@ -7,7 +7,7 @@ tags:
 aliases: ["Ghostly Choir"]
 ---
 # Ghostly Choir *Hazard 6*  
-[haunt](rules/traits/haunt.md)  
+[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 20 expert  
@@ -18,7 +18,7 @@ A choir of lost souls rises out of the floor, singing an eerie chant that terrif
      
 ```ad-embed-ability
 title: Profane Chant [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[auditory](rules/traits/auditory.md)  [emotion](rules/traits/emotion.md)  [enchantment](rules/traits/enchantment.md)  [fear](rules/traits/fear.md)  [mental](rules/traits/mental.md)  [occult](rules/traits/occult.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 - **Trigger**: A creature moves within 10 feet of the section of floor from which the choir can arise
 

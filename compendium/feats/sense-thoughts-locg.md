@@ -8,7 +8,7 @@ tags:
 aliases: ["Sense Thoughts"]
 ---
 # Sense Thoughts  *Feat 9*  
-[elf](rules/traits/elf.md)  [uncommon](rules/traits/uncommon.md)  
+[elf](rules/traits/elf.md "Elf Ancestry & Heritage Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Share Thoughts](compendium/feats/share-thoughts-locg.md)
 

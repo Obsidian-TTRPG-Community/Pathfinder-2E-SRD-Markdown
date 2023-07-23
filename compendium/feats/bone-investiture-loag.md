@@ -7,7 +7,7 @@ tags:
 aliases: ["Bone Investiture"]
 ---
 # Bone Investiture  *Feat 13*  
-[lizardfolk](rules/traits/lizardfolk-b1.md)  
+[lizardfolk](rules/traits/lizardfolk-b1.md "Lizardfolk Ancestry & Heritage Trait")  
 
 
 You encase yourself in spiritual dinosaur bones to become a Huge dinosaur. You can cast [dinosaur form](compendium/spells/dinosaur-form.md) on yourself as a 5th-level primal innate spell once per day.

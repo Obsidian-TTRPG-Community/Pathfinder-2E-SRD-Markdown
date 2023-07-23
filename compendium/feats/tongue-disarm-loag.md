@@ -7,7 +7,7 @@ tags:
 aliases: ["Tongue Disarm"]
 ---
 # Tongue Disarm  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 5*  
-[lizardfolk](rules/traits/lizardfolk-b1.md)  
+[lizardfolk](rules/traits/lizardfolk-b1.md "Lizardfolk Ancestry & Heritage Trait")  
 
 - **Prerequisites**: trained in [Athletics](compendium/skills.md#Athletics), [Lightning Tongue](compendium/feats/lightning-tongue-loag.md)
 - **Activity** Single Action

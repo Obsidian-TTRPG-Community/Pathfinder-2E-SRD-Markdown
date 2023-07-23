@@ -9,7 +9,7 @@ tags:
 aliases: ["Drain Bonded Item"]
 ---
 # Drain Bonded Item [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
-[arcane](rules/traits/arcane.md)  [wizard](rules/traits/wizard.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  
 *Source: Core Rulebook p. 205*  
 
 **Class** wizard

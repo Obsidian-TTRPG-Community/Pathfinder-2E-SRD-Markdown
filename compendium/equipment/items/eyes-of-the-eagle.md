@@ -10,7 +10,7 @@ tags:
 aliases: ["Eyes of the Eagle"]
 ---
 # Eyes of the Eagle *Item 9*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 700 gp
 - **Usage** worn eyepiece; **Bulk** —

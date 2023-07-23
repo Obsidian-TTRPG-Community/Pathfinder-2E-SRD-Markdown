@@ -9,9 +9,9 @@ tags:
 aliases: ["Summon Instrument"]
 ---
 # Summon Instrument *Cantrip 1*   
-[cantrip](rules/traits/cantrip.md)  [conjuration](rules/traits/conjuration.md)  
+[cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md), [occult](rules/traits/occult.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Duration**1 hour
 

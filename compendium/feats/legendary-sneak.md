@@ -8,7 +8,7 @@ tags:
 aliases: ["Legendary Sneak"]
 ---
 # Legendary Sneak  *Feat 15*  
-[general](rules/traits/general.md)  [skill](rules/traits/skill.md)  
+[general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: legendary in [Stealth](compendium/skills.md#Stealth), [Swift Sneak](compendium/feats/swift-sneak.md)
 

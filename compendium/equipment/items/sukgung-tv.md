@@ -8,7 +8,7 @@ tags:
 aliases: ["Sukgung"]
 ---
 # Sukgung *Item 1*  
-[fatal aim <d12>](rules/traits/fatal.md)  
+[fatal aim <d12>](rules/traits/fatal-aim-d12.md "Fatal Weapon Trait")  
 
 - **Price** 7 gp
 - **Bulk** 1

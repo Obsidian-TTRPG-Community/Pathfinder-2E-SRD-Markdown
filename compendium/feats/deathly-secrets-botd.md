@@ -7,7 +7,7 @@ tags:
 aliases: ["Deathly Secrets"]
 ---
 # Deathly Secrets  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Reanimator Dedication](compendium/feats/reanimator-dedication-botd.md)
 

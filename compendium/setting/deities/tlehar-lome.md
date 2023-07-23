@@ -16,13 +16,13 @@ tags:
 - trait/versatile-p
 aliases: ["Tlehar", "The Rising Sun"]
 ---
-# Tlehar (The Rising Sun) *([NG](rules/traits/neutral-good-b1.md))*  
+# Tlehar (The Rising Sun) *([NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"))*  
 *Source: Lost Omens: The Mwangi Expanse p. 141*  
 
 - **Category**: Mwangi Gods
 - **Anathema**: lose your motivation to your regrets, spread despair, treat a loved one poorly
 - **Areas of Concern**: iron, , love, , rebirth
-- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [NG](rules/traits/neutral-good-b1.md), [CG](rules/traits/chaotic-good-b1.md)
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")
 
 ## Devotee benefits
 
@@ -40,6 +40,6 @@ When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Tl
 title: [Avatar](compendium/spells/avatar.md) of Tlehar
 
 - **Speed**: Speed 50 feet, fly 70 feet, immune to [immobilized](rules/conditions.md#Immobilized)
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") morningstar ([reach <15 feet>](rules/traits/reach.md), [versatile <p>](rules/traits/versatile.md)), **Damage** `6d6+6` bludgeoning
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") morningstar ([reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [versatile <p>](rules/traits/versatile-p.md "Versatile Weapon Trait")), **Damage** `6d6+6` bludgeoning
 - **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") morning light **Damage** `3d6+3` fire and `3d6+3` positive
 ```

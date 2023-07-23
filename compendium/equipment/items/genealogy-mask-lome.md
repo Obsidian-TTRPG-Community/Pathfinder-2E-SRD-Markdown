@@ -10,7 +10,7 @@ tags:
 aliases: ["Genealogy Mask"]
 ---
 # Genealogy Mask *Item 1*  
-[divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [uncommon](rules/traits/uncommon.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** Alijae ethnicity
 - **Price** 10 gp

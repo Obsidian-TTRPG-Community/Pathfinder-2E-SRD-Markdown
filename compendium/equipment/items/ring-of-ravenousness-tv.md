@@ -12,7 +12,7 @@ tags:
 aliases: ["Ring of Ravenousness"]
 ---
 # Ring of Ravenousness *Item 7*  
-[conjuration](rules/traits/conjuration.md)  [cursed](rules/traits/cursed-gmg.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** worn; **Bulk** —
 - **Category** Worn

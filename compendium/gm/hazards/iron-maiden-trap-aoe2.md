@@ -8,7 +8,7 @@ tags:
 aliases: ["Iron Maiden Trap"]
 ---
 # Iron Maiden Trap *Hazard 8*  
-[mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  
+[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 30 expert  

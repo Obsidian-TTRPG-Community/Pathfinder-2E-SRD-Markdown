@@ -10,7 +10,7 @@ tags:
 aliases: ["Shifter Prosthesis"]
 ---
 # Shifter Prosthesis *Item 6*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 210 gp
 - **Usage** worn; **Bulk** 1

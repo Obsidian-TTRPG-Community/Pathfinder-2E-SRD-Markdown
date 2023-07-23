@@ -7,7 +7,7 @@ tags:
 aliases: ["Serpentcoil Slam"]
 ---
 # Serpentcoil Slam  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 9*  
-[nagaji](rules/traits/nagaji-loil.md)  
+[nagaji](rules/traits/nagaji-loil.md "Nagaji Ancestry & Heritage Trait")  
 
 - **Frequency**: once per minute
 - **Activity** Single Action

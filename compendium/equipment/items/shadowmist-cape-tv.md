@@ -11,7 +11,7 @@ tags:
 aliases: ["Shadowmist Cape"]
 ---
 # Shadowmist Cape *Item 19*  
-[apex](rules/traits/apex.md)  [illusion](rules/traits/illusion.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+[apex](rules/traits/apex.md "Apex Item Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 40000 gp
 - **Usage** worn cape; **Bulk** L

@@ -7,7 +7,7 @@ tags:
 aliases: ["Holy Castigation"]
 ---
 # Holy Castigation  *Feat 1*  
-[cleric](rules/traits/cleric.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  
 
 - **Prerequisites**: good alignment
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Dual-Weapon Reload"]
 ---
 # Dual-Weapon Reload  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Dual-Weapon Warrior Dedication](compendium/feats/dual-weapon-warrior-dedication-apg.md)
 - **Requirements**: You are wielding two one-handed weapons, each in a different hand, one of which is a ranged weapon.

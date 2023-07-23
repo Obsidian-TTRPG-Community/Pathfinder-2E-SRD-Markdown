@@ -7,7 +7,7 @@ tags:
 aliases: ["Fatal Aria"]
 ---
 # Fatal Aria  *Feat 20*  
-[bard](rules/traits/bard.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  
 
 
 Your songs overwhelm the target with unbearable emotion, potentially striking them dead on the spot. You learn the [fatal aria](compendium/spells/fatal-aria.md) composition spell. Increase the number of Focus Points in your focus pool by 1.

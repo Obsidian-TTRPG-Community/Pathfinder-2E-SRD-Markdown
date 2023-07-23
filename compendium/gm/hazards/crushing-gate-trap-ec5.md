@@ -7,7 +7,7 @@ tags:
 aliases: ["Crushing Gate Trap"]
 ---
 # Crushing Gate Trap *Hazard 16*  
-[trap](rules/traits/trap.md)  
+[trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 42 master to spot the triggering rod beneath the black sand.  
@@ -24,7 +24,7 @@ A [hidden](rules/conditions.md#Hidden) stone rod causes two immense stone doors 
      
 ```ad-embed-ability
 title: Gate Collapse [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[attack](rules/traits/attack.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  
 
 - **Trigger**: The stone rod is moved or either door is touched
 

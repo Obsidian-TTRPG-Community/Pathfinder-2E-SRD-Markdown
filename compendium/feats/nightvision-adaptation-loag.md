@@ -7,7 +7,7 @@ tags:
 aliases: ["Nightvision Adaptation"]
 ---
 # Nightvision Adaptation  *Feat 1*  
-[android](rules/traits/android-loag.md)  
+[android](rules/traits/android-loag.md "Android Ancestry & Heritage Trait")  
 
 
 The nanites in your ocular processors have adapted to darkness, enhancing your ability to see in the dark. You gain [darkvision](rules/abilities/darkvision.md).

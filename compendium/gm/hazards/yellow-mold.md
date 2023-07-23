@@ -8,7 +8,7 @@ tags:
 aliases: ["Yellow Mold"]
 ---
 # Yellow Mold *Hazard 8*  
-[environmental](rules/traits/environmental.md)  [fungus](rules/traits/fungus-b1.md)  
+[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [fungus](rules/traits/fungus-b1.md "Fungus Creature Type Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 28 trained  
@@ -32,7 +32,7 @@ title: Spore Explosion [R](rules/core-rulebook/chapter-9-playing-the-game.md#Act
 ```
 ```ad-embed-ability
 title: Yellow Mold Spores
-[inhaled](rules/traits/inhaled.md)  [poison](rules/traits/poison.md)  
+[inhaled](rules/traits/inhaled.md "Inhaled Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
   
 %% #trait/inhaled #trait/poison %%

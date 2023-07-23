@@ -7,7 +7,7 @@ tags:
 aliases: ["Devastating Spellstrike"]
 ---
 # Devastating Spellstrike  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 4*  
-[magus](rules/traits/magus-som.md)  
+[magus](rules/traits/magus-som.md "Magus Class Trait")  
 
 - **Prerequisites**: [Arcane Cascade](rules/actions/arcane-cascade-som.md), inexorable iron hybrid study, [Spellstrike](rules/actions/spellstrike-som.md)
 - **Requirements**: You are in [Arcane Cascade](rules/actions/arcane-cascade-som.md) stance and your [Spellstrike](rules/actions/spellstrike-som.md) is charged.

@@ -17,7 +17,7 @@ An unwilling creature can never be forced to become a pactbound initiate, and on
 title: Pactbound Dedication, Feat 2
 collapse: closed
 # Pactbound Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [rare](rules/traits/rare.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Prerequisites**: Erutaki or Giant language, trained in [Nature](compendium/skills.md#Nature), must have earned the trust of a saumen kar who initiates you into the archetype
 
@@ -26,14 +26,14 @@ You befriended one of the last saumen kar and were infused with a fraction of th
 **Special.** You can't select another dedication feat until you have gained two other feats from the pactbound archetype.
 
 *Source: Lost Omens: Monsters of Myth p. 10*  
-%% #trait/rare #trait/archetype #trait/dedication %%
+%% #trait/archetype #trait/dedication #trait/rare %%
 ```  
 
 ```ad-embed-feat
 title: Ice Crafter, Feat 4
 collapse: closed
 # Ice Crafter  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Pactbound Dedication](compendium/feats/pactbound-dedication-lomm.md)
 
@@ -47,11 +47,11 @@ The ancient ice-crafting techniques of the saumen kar awaken within you. You bec
 title: Crown of the Saumen Kar, Feat 6
 collapse: closed
 # Crown of the Saumen Kar  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Pactbound Dedication](compendium/feats/pactbound-dedication-lomm.md)
 
-Your body begins to evolve and adapt, taking the first steps  towards blending your very self with the ancient curse of  the saumen kar. You become larger and bulkier, pushing the very edge of height and weight for your size. You gain [scent](rules/abilities/scent.md) as an imprecise sense with a range of 30 feet and gain a +1 circumstance bonus to [Stealth](compendium/skills.md#Stealth) checks made to [Sneak](rules/actions/sneak.md) or [Hide](rules/actions/hide.md) in areas of forest and snow. You sprout a pair of horns from your forehead, gaining a horns unarmed attack that deals `1d8` bludgeoning damage. Your horns are in the brawling group and have the [shove](rules/traits/shove.md) and [trip](rules/traits/trip.md) traits.
+Your body begins to evolve and adapt, taking the first steps  towards blending your very self with the ancient curse of  the saumen kar. You become larger and bulkier, pushing the very edge of height and weight for your size. You gain [scent](rules/abilities/scent.md) as an imprecise sense with a range of 30 feet and gain a +1 circumstance bonus to [Stealth](compendium/skills.md#Stealth) checks made to [Sneak](rules/actions/sneak.md) or [Hide](rules/actions/hide.md) in areas of forest and snow. You sprout a pair of horns from your forehead, gaining a horns unarmed attack that deals `1d8` bludgeoning damage. Your horns are in the brawling group and have the [shove](rules/traits/shove.md "Shove Weapon Trait") and [trip](rules/traits/trip.md "Trip Weapon Trait") traits.
 
 *Source: Lost Omens: Monsters of Myth p. 10*  
 %% #trait/archetype %%
@@ -61,13 +61,13 @@ Your body begins to evolve and adapt, taking the first steps  towards blending y
 title: Frostbite Runes, Feat 12*
 collapse: closed
 # Frostbite Runes  *Feat 12*  
-[archetype](rules/traits/archetype.md)  [evocation](rules/traits/evocation.md)  [primal](rules/traits/primal.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  
 
 > [!pf2-note] This version of [Frostbite Runes](compendium/feats/frostbite-runes-lomm.md) is intended for use with the Pactbound Initiate Archetype. Its level has been changed accordingly.
 
 - **Prerequisites**: [Pactbound Dedication](compendium/feats/pactbound-dedication-lomm.md)
 
-Thick tattoos, each one a rune fragment from the saumen kar's long-lost language spelling out their pact with their equally lost deity, cover your body and stretch across your limbs, torso, and face. You gain a +1 status bonus to saving throws against [evil](rules/traits/evil.md) and [necromancy](rules/traits/necromancy.md) spells and effects. You can sense the presence of evil undead as a pervasive taste of oily corruption in the air; this is a vague sense that allows you to know when such  a creature is within 60 feet of you, though you can't precisely pinpoint their location with this sense. As normal for a vague sense, it can be fooled, but undead might not realize they need to take precautions against it. This sense also extends to living creatures who have the [negative healing](rules/abilities/negative-healing-b2.md) ability, like dhampir.
+Thick tattoos, each one a rune fragment from the saumen kar's long-lost language spelling out their pact with their equally lost deity, cover your body and stretch across your limbs, torso, and face. You gain a +1 status bonus to saving throws against [evil](rules/traits/evil.md "Evil Alignment Trait") and [necromancy](rules/traits/necromancy.md "Necromancy School Trait") spells and effects. You can sense the presence of evil undead as a pervasive taste of oily corruption in the air; this is a vague sense that allows you to know when such  a creature is within 60 feet of you, though you can't precisely pinpoint their location with this sense. As normal for a vague sense, it can be fooled, but undead might not realize they need to take precautions against it. This sense also extends to living creatures who have the [negative healing](rules/abilities/negative-healing-b2.md) ability, like dhampir.
 
 *Source: Lost Omens: Monsters of Myth p. 10*  
 %% #trait/archetype #trait/evocation #trait/primal %%
@@ -77,7 +77,7 @@ Thick tattoos, each one a rune fragment from the saumen kar's long-lost language
 title: Curse of the Saumen Kar, Feat 14*
 collapse: closed
 # Curse of the Saumen Kar  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 14*  
-[archetype](rules/traits/archetype.md)  [conjuration](rules/traits/conjuration.md)  [primal](rules/traits/primal.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  
 
 > [!pf2-note] This version of [Curse of the Saumen Kar](compendium/feats/curse-of-the-saumen-kar-lomm.md) is intended for use with the Pactbound Initiate Archetype. Its level has been changed accordingly.
 
@@ -97,7 +97,7 @@ The dome has AC 10, Hardness 20, and 40 Hit Points; it's immune to cold, critica
 title: Bound in Ice, Feat 16*
 collapse: closed
 # Bound in Ice  *Feat 16*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Bound in Ice](compendium/feats/bound-in-ice-lomm.md) is intended for use with the Pactbound Initiate Archetype. Its level has been changed accordingly.
 
@@ -112,9 +112,9 @@ title: Blizzard Evasion [R](rules/core-rulebook/chapter-9-playing-the-game.md#Ac
 
 - **Trigger**: You take 40 or more physical damage from a single attack
 
-**Effect** You designate a single creature as your mark. This lasts until the mark dies or you use Mark for Death again. You gain a +2 circumstance bonus to [Perception](compendium/skills.md#Perception) checks to [Seek](rules/actions/seek.md) your mark and on [Deception](compendium/skills.md#Deception) checks to [Feint](rules/actions/feint.md) against your mark. Your [agile](rules/traits/agile.md) and [finesse](rules/traits/finesse.md) weapons and unarmed attacks gain the backstabber and [deadly <d6>](rules/traits/deadly.md) weapon traits when you're attacking your mark.
+**Effect** You designate a single creature as your mark. This lasts until the mark dies or you use Mark for Death again. You gain a +2 circumstance bonus to [Perception](compendium/skills.md#Perception) checks to [Seek](rules/actions/seek.md) your mark and on [Deception](compendium/skills.md#Deception) checks to [Feint](rules/actions/feint.md) against your mark. Your [agile](rules/traits/agile.md "Agile Weapon Trait") and [finesse](rules/traits/finesse.md "Finesse Weapon Trait") weapons and unarmed attacks gain the backstabber and [deadly <d6>](rules/traits/deadly-d6.md "Deadly Weapon Trait") weapon traits when you're attacking your mark.
 
-If the weapon or unarmed attack already has the [deadly](rules/traits/deadly.md) trait, increase the size of the deadly damage die by one step instead of giving it deadly <d6>.
+If the weapon or unarmed attack already has the [deadly](rules/traits/deadly.md "Deadly Weapon Trait") trait, increase the size of the deadly damage die by one step instead of giving it deadly <d6>.
 ```
 
 *Source: Lost Omens: Monsters of Myth p. 10*  

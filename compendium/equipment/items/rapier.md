@@ -10,7 +10,7 @@ tags:
 aliases: ["Rapier"]
 ---
 # Rapier *Item 0*  
-[deadly <d8>](rules/traits/deadly.md)  [disarm](rules/traits/disarm.md)  [finesse](rules/traits/finesse.md)  
+[deadly <d8>](rules/traits/deadly-d8.md "Deadly Weapon Trait")  [disarm](rules/traits/disarm.md "Disarm Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  
 
 - **Price** 2 gp
 - **Bulk** 1

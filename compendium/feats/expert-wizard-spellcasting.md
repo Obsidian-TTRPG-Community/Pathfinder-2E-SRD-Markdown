@@ -7,7 +7,7 @@ tags:
 aliases: ["Expert Wizard Spellcasting"]
 ---
 # Expert Wizard Spellcasting  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Wizard Spellcasting](compendium/feats/basic-wizard-spellcasting.md), master in [Arcana](compendium/skills.md#Arcana)
 

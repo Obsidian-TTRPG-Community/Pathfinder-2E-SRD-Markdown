@@ -19,7 +19,7 @@ You scoff at those fools who claim you meddle in things mortals aren't meant to 
 title: Eldritch Researcher Dedication, Feat 2
 collapse: closed
 # Eldritch Researcher Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: Trained in [Arcana](compendium/skills.md#Arcana) and [Occultism](compendium/skills.md#Occultism)
 
@@ -30,14 +30,14 @@ Regardless of whether you choose an arcane or occult cantrip, you also become an
 **Special.** You can't select another dedication feat until you've gained two other feats from the Eldritch Researcher archetype.
 
 *Source: Abomination Vaults #2: Hands of the Devil p. 76*  
-%% #trait/uncommon #trait/archetype #trait/dedication %%
+%% #trait/archetype #trait/dedication #trait/uncommon %%
 ```  
 
 ```ad-embed-feat
 title: Seeker Of Truths, Feat 4
 collapse: closed
 # Seeker Of Truths  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Eldritch Researcher Dedication](compendium/feats/eldritch-researcher-dedication-av2.md)
 
@@ -53,7 +53,7 @@ Your devotion to discovering and hoarding abstruse truths borders on the fanatic
 title: Strange Script, Feat 4
 collapse: closed
 # Strange Script  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [divination](rules/traits/divination.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [divination](rules/traits/divination.md "Divination School Trait")  
 
 - **Prerequisites**: [Eldritch Researcher Dedication](compendium/feats/eldritch-researcher-dedication-av2.md)
 
@@ -67,7 +67,7 @@ You have such familiarity with obscure texts that you can compel them to reveal 
 title: Scholarly Defense, Feat 6
 collapse: closed
 # Scholarly Defense  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Eldritch Researcher Dedication](compendium/feats/eldritch-researcher-dedication-av2.md)
 
@@ -81,7 +81,7 @@ Your knowledge of strange creatures and their bizarre anatomy allows you to anti
 title: Able Ritualist, Feat 8
 collapse: closed
 # Able Ritualist  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Eldritch Researcher Dedication](compendium/feats/eldritch-researcher-dedication-av2.md)
 
@@ -95,7 +95,7 @@ Your readings on rituals make you a skilled participant. You gain a +2 circumsta
 title: Lorefinder, Feat 8
 collapse: closed
 # Lorefinder  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Eldritch Researcher Dedication](compendium/feats/eldritch-researcher-dedication-av2.md)
 
@@ -109,7 +109,7 @@ You know that fate sometimes conspires to keep dangerous knowledge or items from
 title: Know It All, Feat 10
 collapse: closed
 # Know It All  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Eldritch Researcher Dedication](compendium/feats/eldritch-researcher-dedication-av2.md)
 
@@ -123,7 +123,7 @@ Your knowledge of abstruse topics is unparalleled. When you succeed at a check t
 title: Advanced Seeker Of Truths, Feat 12*
 collapse: closed
 # Advanced Seeker Of Truths  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Advanced Seeker Of Truths](compendium/feats/advanced-seeker-of-truths-av2.md) is intended for use with the Eldritch Researcher Archetype. Its level has been changed accordingly.
 
@@ -141,7 +141,7 @@ You have unlocked deeper secrets to uncovering and hoarding lore. You gain an ad
 title: Words Of Unraveling, Feat 12*
 collapse: closed
 # Words Of Unraveling  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Words Of Unraveling](compendium/feats/words-of-unraveling-av2.md) is intended for use with the Eldritch Researcher Archetype. Its level has been changed accordingly.
 
@@ -157,7 +157,7 @@ You have unlocked abstruse methods to tangle with reality itself, altering the f
 title: Entities From Afar, Feat 14*
 collapse: closed
 # Entities From Afar  *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Entities From Afar](compendium/feats/entities-from-afar-av2.md) is intended for use with the Eldritch Researcher Archetype. Its level has been changed accordingly.
 
@@ -175,7 +175,7 @@ As soon as the aberration arrives, instead of giving it any other commands, you 
 title: Incredible Recollection, Feat 14*
 collapse: closed
 # Incredible Recollection  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Incredible Recollection](compendium/feats/incredible-recollection-av2.md) is intended for use with the Eldritch Researcher Archetype. Its level has been changed accordingly.
 

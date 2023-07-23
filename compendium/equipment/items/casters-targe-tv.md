@@ -8,7 +8,7 @@ tags:
 aliases: ["Caster's Targe"]
 ---
 # Caster's Targe *Item 0*  
-[inscribed](rules/traits/inscribed-tv.md)  
+[inscribed](rules/traits/inscribed-tv.md "Inscribed Armor Trait")  
 
 - **Price** 2 gp
 - **Bulk** 1

@@ -10,9 +10,9 @@ tags:
 aliases: ["Entangle"]
 ---
 # Entangle *Spell 2*   
-[plant](rules/traits/plant.md)  [transmutation](rules/traits/transmutation.md)  
+[plant](rules/traits/plant.md "Plant Creature Type Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md)
+- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**120 foot
 - **Area**all squares in a 20-foot burst that contain plants or fungi

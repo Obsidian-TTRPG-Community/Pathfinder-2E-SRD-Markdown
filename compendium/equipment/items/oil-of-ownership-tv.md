@@ -11,7 +11,7 @@ tags:
 aliases: ["Oil of Ownership"]
 ---
 # Oil of Ownership *Item 3+*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [oil](rules/traits/oil.md)  [transmutation](rules/traits/transmutation.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [oil](rules/traits/oil.md "Oil Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Usage** held in 2 hands; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md)

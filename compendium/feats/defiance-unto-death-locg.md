@@ -8,7 +8,7 @@ tags:
 aliases: ["Defiance Unto Death"]
 ---
 # Defiance Unto Death  *Feat 5*  
-[elf](rules/traits/elf.md)  [uncommon](rules/traits/uncommon.md)  
+[elf](rules/traits/elf.md "Elf Ancestry & Heritage Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: Spiresworn elf
 

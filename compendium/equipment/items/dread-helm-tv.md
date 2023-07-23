@@ -12,7 +12,7 @@ tags:
 aliases: ["Dread Helm"]
 ---
 # Dread Helm *Item 4*  
-[alchemical](rules/traits/alchemical.md)  [aura](rules/traits/aura.md)  [emotion](rules/traits/emotion.md)  [fear](rules/traits/fear.md)  [mental](rules/traits/mental.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [aura](rules/traits/aura.md "Aura Combat Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 - **Price** 100 gp
 - **Usage** worn; **Bulk** L

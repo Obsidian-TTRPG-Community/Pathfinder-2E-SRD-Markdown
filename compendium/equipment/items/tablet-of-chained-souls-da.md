@@ -10,7 +10,7 @@ tags:
 aliases: ["Tablet of Chained Souls"]
 ---
 # Tablet of Chained Souls *Item 8*  
-[cursed](rules/traits/cursed-gmg.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  
+[cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 - **Usage** held in 2 hands; **Bulk** L
 - **Category** Held

@@ -12,7 +12,7 @@ tags:
 aliases: ["Stumbling Curse"]
 ---
 # Stumbling Curse *Focus 1*   
-[curse](rules/traits/curse.md)  [hex](rules/traits/hex-apg.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  [witch](rules/traits/witch-apg.md)  
+[curse](rules/traits/curse.md "Curse Effect Trait")  [hex](rules/traits/hex-apg.md "Hex Combat Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [witch](rules/traits/witch-apg.md "Witch Class Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**60 foot

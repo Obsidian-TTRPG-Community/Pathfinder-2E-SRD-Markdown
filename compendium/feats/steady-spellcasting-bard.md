@@ -7,7 +7,7 @@ tags:
 aliases: ["Steady Spellcasting (Bard)"]
 ---
 # Steady Spellcasting (Bard)  *Feat 6*  
-[bard](rules/traits/bard.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  
 
 
 You don't lose spells easily. If a reaction would disrupt your spellcasting action, attempt a DC 15 flat check. If you succeed, your action isn't disrupted.

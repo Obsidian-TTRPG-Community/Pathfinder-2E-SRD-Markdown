@@ -7,7 +7,7 @@ tags:
 aliases: ["Animal Elocutionist"]
 ---
 # Animal Elocutionist  *Feat 5*  
-[gnome](rules/traits/gnome.md)  
+[gnome](rules/traits/gnome.md "Gnome Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Burrow Elocutionist](compendium/feats/burrow-elocutionist.md)
 

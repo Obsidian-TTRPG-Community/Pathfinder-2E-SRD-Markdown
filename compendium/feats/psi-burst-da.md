@@ -12,7 +12,7 @@ tags:
 aliases: ["Psi Burst"]
 ---
 # Psi Burst  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 2*  
-[concentrate](rules/traits/concentrate.md)  [evocation](rules/traits/evocation.md)  [mindshift](rules/traits/mindshift-da.md)  [occult](rules/traits/occult.md)  [psyche](rules/traits/psyche-da.md)  [psychic](rules/traits/psychic-da.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [mindshift](rules/traits/mindshift-da.md "Mindshift Action & Ability Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [psyche](rules/traits/psyche-da.md "Psyche Action & Ability Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  
 
 - **Frequency**: once per round
 - **Activity** Single Action

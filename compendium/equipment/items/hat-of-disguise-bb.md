@@ -9,7 +9,7 @@ tags:
 aliases: ["Hat of Disguise"]
 ---
 # Hat of Disguise *Item 2*  
-[illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 30 gp
 - **Usage** worn headwear
@@ -19,7 +19,7 @@ This ordinary-looking hat allows you to cloak yourself in illusions—perfect fo
 
 ```ad-embed-ability
 title: Illusory Disguise [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Duration or Frequency")
-[manipulate](rules/traits/manipulate.md)  
+[manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 
 Over the course of 1 minute, the hat changes your visual appearance to look like another type of creature you choose. You're still roughly the same height and weight, and the disguise doesn't change your voice, scent, or mannerisms, only your visual appearance. The disguise isn't good enough to impersonate a specific person. While setting up the disguise, you can magically alter the hat to appear as a comb, ribbon, helm, or other piece of headwear. If someone tries to see through your disguise, they need to [Seek](rules/actions/seek.md) against your [Deception](compendium/skills.md#Deception) DC, but you get a +4 status bonus to your DC (making your DC 14 + your [Deception](compendium/skills.md#Deception)).  
 %% #trait/manipulate %%

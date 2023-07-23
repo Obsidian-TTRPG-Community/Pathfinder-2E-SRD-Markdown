@@ -7,7 +7,7 @@ tags:
 aliases: ["Hidden Paragon"]
 ---
 # Hidden Paragon  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 20*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Prerequisites**: legendary in [Stealth](compendium/skills.md#Stealth)
 - **Frequency**: once per hour

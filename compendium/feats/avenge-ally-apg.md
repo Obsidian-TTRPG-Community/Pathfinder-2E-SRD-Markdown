@@ -8,7 +8,7 @@ tags:
 aliases: ["Avenge Ally"]
 ---
 # Avenge Ally  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 13*  
-[elf](rules/traits/elf.md)  [fortune](rules/traits/fortune.md)  
+[elf](rules/traits/elf.md "Elf Ancestry & Heritage Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  
 
 - **Frequency**: once every 10 minutes
 - **Requirements**: You are adjacent to an ally with the [dying](rules/conditions.md#Dying) condition.

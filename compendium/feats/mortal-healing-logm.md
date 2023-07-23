@@ -8,7 +8,7 @@ tags:
 aliases: ["Mortal Healing"]
 ---
 # Mortal Healing  *Feat 2*  
-[general](rules/traits/general.md)  [skill](rules/traits/skill.md)  
+[general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Godless Healing](compendium/feats/godless-healing-lowg.md), you follow the Laws of Mortality
 

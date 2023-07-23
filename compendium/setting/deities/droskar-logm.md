@@ -13,12 +13,12 @@ tags:
 - domain/tyranny/deity
 aliases: ["Droskar", "The Dark Smith"]
 ---
-# Droskar (The Dark Smith) *([NE](rules/traits/neutral-evil-b1.md))*  
+# Droskar (The Dark Smith) *([NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 126*  
 
 - **Category**: Dwarven Gods
 - **Anathema**: fail to work toward goals or grow in skill, relax excessively or give in to sloth
-- **Follower Alignments**: [LE](rules/traits/lawful-evil-b1.md), [NE](rules/traits/neutral-evil-b1.md), [CE](rules/traits/chaotic-evil-b1.md)
+- **Follower Alignments**: [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"), [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
 

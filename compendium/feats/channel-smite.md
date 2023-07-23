@@ -9,7 +9,7 @@ tags:
 aliases: ["Channel Smite"]
 ---
 # Channel Smite  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 4*  
-[cleric](rules/traits/cleric.md)  [divine](rules/traits/divine.md)  [necromancy](rules/traits/necromancy.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 - **Prerequisites**: harmful font or healing font
 - **Cost**: Expend a [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md) spell.

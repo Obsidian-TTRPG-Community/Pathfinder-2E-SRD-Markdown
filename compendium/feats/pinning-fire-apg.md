@@ -7,7 +7,7 @@ tags:
 aliases: ["Pinning Fire"]
 ---
 # Pinning Fire  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 8*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Trigger** You use [Flurry of Blows](rules/actions/flurry-of-blows.md) to make two ranged piercing weapon [Strikes](rules/actions/strike.md) against the same target.
 - **Activity** Free Action

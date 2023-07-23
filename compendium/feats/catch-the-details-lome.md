@@ -7,7 +7,7 @@ tags:
 aliases: ["Catch The Details"]
 ---
 # Catch The Details  *Feat 1*  
-[goloma](rules/traits/goloma-lome.md)  
+[goloma](rules/traits/goloma-lome.md "Goloma Ancestry & Heritage Trait")  
 
 
 You are quick at recognizing broad details about people and things around you. You are trained in [Society](compendium/skills.md#Society) and gain the [Eye for Numbers](compendium/feats/eye-for-numbers-apg.md) skill feat (Advanced Player's Guide 206)

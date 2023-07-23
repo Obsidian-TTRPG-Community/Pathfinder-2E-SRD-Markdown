@@ -8,7 +8,7 @@ tags:
 aliases: ["Secure Invitation"]
 ---
 # Secure Invitation
-[downtime](rules/traits/downtime.md)  
+[downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  
 *Source: Age of Ashes #5: Against the Scarlet Triad p. 24*  
 
 

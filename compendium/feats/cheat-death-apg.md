@@ -7,7 +7,7 @@ tags:
 aliases: ["Cheat Death"]
 ---
 # Cheat Death  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 12*  
-[swashbuckler](rules/traits/swashbuckler-apg.md)  
+[swashbuckler](rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  
 
 - **Trigger** You take damage that would reduce you to 0 Hit Points.
 - **Activity** Reaction

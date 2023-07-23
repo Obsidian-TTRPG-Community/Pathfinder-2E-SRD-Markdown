@@ -8,7 +8,7 @@ tags:
 aliases: ["Psi Strikes"]
 ---
 # Psi Strikes  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 4*  
-[mindshift](rules/traits/mindshift-da.md)  [psychic](rules/traits/psychic-da.md)  
+[mindshift](rules/traits/mindshift-da.md "Mindshift Action & Ability Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  
 
 - **Frequency**: once per turn
 - **Requirements**: Your most recent action was to [Cast a Spell](rules/actions/cast-a-spell.md) or to [Unleash your Psyche](rules/actions/unleash-psyche-da.md).

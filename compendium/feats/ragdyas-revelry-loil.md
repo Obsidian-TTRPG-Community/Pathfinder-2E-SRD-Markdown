@@ -7,7 +7,7 @@ tags:
 aliases: ["Ragdya's Revelry"]
 ---
 # Ragdya's Revelry  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 5*  
-[vanara](rules/traits/vanara-loil.md)  
+[vanara](rules/traits/vanara-loil.md "Vanara Ancestry & Heritage Trait")  
 
 - **Frequency**: once per day
 - **Trigger** An adjacent creature you can see fails an attack roll against you.

@@ -10,7 +10,7 @@ tags:
 aliases: ["Kris"]
 ---
 # Kris *Item 0*  
-[agile](rules/traits/agile.md)  [deadly <d8>](rules/traits/deadly.md)  [finesse](rules/traits/finesse.md)  
+[agile](rules/traits/agile.md "Agile Weapon Trait")  [deadly <d8>](rules/traits/deadly-d8.md "Deadly Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  
 
 - **Price** 7 sp
 - **Bulk** L

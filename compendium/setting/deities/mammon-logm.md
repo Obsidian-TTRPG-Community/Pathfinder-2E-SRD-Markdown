@@ -10,12 +10,12 @@ tags:
 - domain/wealth/deity
 aliases: ["Mammon", "The Argent Prince"]
 ---
-# Mammon (The Argent Prince) *([LE](rules/traits/lawful-evil-b1.md))*  
+# Mammon (The Argent Prince) *([LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 75*  
 
 - **Category**: Archdevils
 - **Anathema**: leave the cult of Mammon, allow those who steal from you to go unpunished
-- **Follower Alignments**: [LE](rules/traits/lawful-evil-b1.md)
+- **Follower Alignments**: [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait")
 
 ## Devotee benefits
 

@@ -13,7 +13,7 @@ tags:
 aliases: ["Storm Lord"]
 ---
 # Storm Lord *Focus 9*   
-[air](rules/traits/air.md)  [druid](rules/traits/druid.md)  [electricity](rules/traits/electricity.md)  [evocation](rules/traits/evocation.md)  [uncommon](rules/traits/uncommon.md)  
+[air](rules/traits/air.md "Air Energy & Element Trait")  [druid](rules/traits/druid.md "Druid Class Trait")  [electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Requirements**You are outdoors and aboveground.
@@ -29,6 +29,6 @@ The sky above you darkens in a matter of moments, swirling with ominous clouds p
 
 Ranged attacks take a –4 circumstance penalty, and all flying is against the wind and counts as moving through difficult terrain.
 
-In addition, once per round you can use a single action, which has the [concentrate](rules/traits/concentrate.md) and [manipulate](rules/traits/manipulate.md) traits, to call down a bolt of lightning, striking any target in range that you can see. You deal `10d6` electricity damage to the target; it must attempt a basic Reflex save. On a failure, it is also [deafened](rules/conditions.md#Deafened) for 1 round.
+In addition, once per round you can use a single action, which has the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") and [manipulate](rules/traits/manipulate.md "Manipulate General Trait") traits, to call down a bolt of lightning, striking any target in range that you can see. You deal `10d6` electricity damage to the target; it must attempt a basic Reflex save. On a failure, it is also [deafened](rules/conditions.md#Deafened) for 1 round.
 
 *Source: Core Rulebook p. 400*

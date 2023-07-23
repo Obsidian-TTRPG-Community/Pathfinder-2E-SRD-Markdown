@@ -7,7 +7,7 @@ tags:
 aliases: ["Hold Mark"]
 ---
 # Hold Mark  *Feat 5*  
-[orc](rules/traits/orc.md)  
+[orc](rules/traits/orc.md "Orc Ancestry & Heritage Trait")  
 
 
 You bear scars or tattoos enhanced by the mark of your community's prowess. When you select this feat, choose one of the options on the following page. When you critically hit using a weapon of the listed group, you apply the weapon's critical specialization effect. You gain a large brand or tattoo.

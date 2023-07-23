@@ -8,7 +8,7 @@ tags:
 aliases: ["Scour the Library"]
 ---
 # Scour the Library  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
-[psyche](rules/traits/psyche-da.md)  [psychic](rules/traits/psychic-da.md)  
+[psyche](rules/traits/psyche-da.md "Psyche Action & Ability Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  
 
 - **Requirements**: gathered lore subconscious mind
 - **Activity** Single Action

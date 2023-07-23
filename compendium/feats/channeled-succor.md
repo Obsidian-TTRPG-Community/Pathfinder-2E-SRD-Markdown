@@ -7,7 +7,7 @@ tags:
 aliases: ["Channeled Succor"]
 ---
 # Channeled Succor  *Feat 8*  
-[cleric](rules/traits/cleric.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  
 
 - **Prerequisites**: healing font
 

@@ -9,9 +9,9 @@ tags:
 aliases: ["Divine Wrath"]
 ---
 # Divine Wrath *Spell 4*   
-[evocation](rules/traits/evocation.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**120 foot
 - **Area**20-foot burst

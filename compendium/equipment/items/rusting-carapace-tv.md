@@ -11,7 +11,7 @@ tags:
 aliases: ["Rusting Carapace"]
 ---
 # Rusting Carapace *Item 8*  
-[evocation](rules/traits/evocation.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 476 gp
 - **Usage** worn armor; **Bulk** 1

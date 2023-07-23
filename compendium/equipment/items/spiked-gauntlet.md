@@ -9,7 +9,7 @@ tags:
 aliases: ["Spiked Gauntlet"]
 ---
 # Spiked Gauntlet *Item 0*  
-[agile](rules/traits/agile.md)  [free-hand](rules/traits/free-hand.md)  
+[agile](rules/traits/agile.md "Agile Weapon Trait")  [free-hand](rules/traits/free-hand.md "Free-Hand Weapon Trait")  
 
 - **Price** 3 sp
 - **Bulk** L

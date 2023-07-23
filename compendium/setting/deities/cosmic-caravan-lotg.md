@@ -12,13 +12,13 @@ tags:
 - domain/void/deity
 aliases: ["Cosmic Caravan"]
 ---
-# Cosmic Caravan *([NG](rules/traits/neutral-good-b1.md))*  
+# Cosmic Caravan *([NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"))*  
 *Source: Lost Omens: Travel Guide p. 92*  
 
 - **Category**: Pantheon
 - **Anathema**: destroy astronomical or astrological equipment, portray the night as a time of evil, spend the night in the same place twice in a row
 - **Areas of Concern**: constellations, , fortune telling, , night, , hope for a better tomorrow
-- **Follower Alignments**: [NG](rules/traits/neutral-good-b1.md), [CG](rules/traits/chaotic-good-b1.md), [CN](rules/traits/chaotic-neutral-b1.md)
+- **Follower Alignments**: [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")
 
 ## Devotee benefits
 

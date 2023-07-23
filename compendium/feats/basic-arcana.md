@@ -7,7 +7,7 @@ tags:
 aliases: ["Basic Arcana"]
 ---
 # Basic Arcana  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Wizard Dedication](compendium/feats/wizard-dedication.md)
 

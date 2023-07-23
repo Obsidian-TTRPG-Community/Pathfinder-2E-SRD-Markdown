@@ -7,7 +7,7 @@ tags:
 aliases: ["Quick Study"]
 ---
 # Quick Study  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Loremaster Dedication](compendium/feats/loremaster-dedication-apg.md)
 

@@ -10,7 +10,7 @@ tags:
 aliases: ["Sun Orchid Poultice"]
 ---
 # Sun Orchid Poultice *Item 18*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [rare](rules/traits/rare.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 5000 gp
 - **Usage** held in 1 hands; **Bulk** L

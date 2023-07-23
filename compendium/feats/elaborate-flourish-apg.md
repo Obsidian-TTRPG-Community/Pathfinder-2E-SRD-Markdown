@@ -10,7 +10,7 @@ tags:
 aliases: ["Elaborate Flourish"]
 ---
 # Elaborate Flourish  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[concentrate](rules/traits/concentrate.md)  [manipulate](rules/traits/manipulate.md)  [metamagic](rules/traits/metamagic.md)  [sorcerer](rules/traits/sorcerer.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 - **Activity** Single Action
 

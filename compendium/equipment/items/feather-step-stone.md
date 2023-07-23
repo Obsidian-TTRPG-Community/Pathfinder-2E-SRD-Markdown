@@ -11,7 +11,7 @@ tags:
 aliases: ["Feather Step Stone"]
 ---
 # Feather Step Stone *Item 3*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [talisman](rules/traits/talisman.md)  [transmutation](rules/traits/transmutation.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 8 gp
 - **Usage** affixed to armor; **Bulk** —

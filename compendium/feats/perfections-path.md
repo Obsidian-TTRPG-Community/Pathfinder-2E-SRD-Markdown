@@ -7,7 +7,7 @@ tags:
 aliases: ["Perfection's Path"]
 ---
 # Perfection's Path  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Monk Dedication](compendium/feats/monk-dedication.md), expert in at least one saving throw
 

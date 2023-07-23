@@ -7,7 +7,7 @@ tags:
 aliases: ["Eclectic Skill"]
 ---
 # Eclectic Skill  *Feat 8*  
-[bard](rules/traits/bard.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  
 
 - **Prerequisites**: Polymath muse, master in [Occultism](compendium/skills.md#Occultism)
 

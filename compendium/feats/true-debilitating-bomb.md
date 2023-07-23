@@ -7,7 +7,7 @@ tags:
 aliases: ["True Debilitating Bomb"]
 ---
 # True Debilitating Bomb  *Feat 14*  
-[alchemist](rules/traits/alchemist.md)  
+[alchemist](rules/traits/alchemist.md "Alchemist Class Trait")  
 
 - **Prerequisites**: [Greater Debilitating Bomb](compendium/feats/greater-debilitating-bomb.md)
 

@@ -8,7 +8,7 @@ tags:
 aliases: ["Rejuvenation"]
 ---
 # Rejuvenation  *Feat 12*  
-[archetype](rules/traits/archetype.md)  [rare](rules/traits/rare.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Prerequisites**: [Ghost Dedication](compendium/feats/ghost-dedication-botd.md)
 

@@ -9,7 +9,7 @@ tags:
 aliases: ["Assurance"]
 ---
 # Assurance  *Feat 1*  
-[fortune](rules/traits/fortune.md)  [general](rules/traits/general.md)  [skill](rules/traits/skill.md)  
+[fortune](rules/traits/fortune.md "Fortune Effect Trait")  [general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: trained in at least one skill
 

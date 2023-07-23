@@ -7,7 +7,7 @@ tags:
 aliases: ["Wholeness Of Body"]
 ---
 # Wholeness Of Body  *Feat 4*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Prerequisites**: ki spells
 

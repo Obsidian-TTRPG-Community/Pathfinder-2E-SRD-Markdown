@@ -7,7 +7,7 @@ tags:
 aliases: ["Wind Caller"]
 ---
 # Wind Caller  *Feat 8*  
-[druid](rules/traits/druid.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  
 
 - **Prerequisites**: Storm order
 

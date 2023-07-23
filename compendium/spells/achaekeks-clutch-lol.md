@@ -11,7 +11,7 @@ tags:
 aliases: ["Achaekek's Clutch"]
 ---
 # Achaekek's Clutch *Focus 4*   
-[curse](rules/traits/curse.md)  [death](rules/traits/death.md)  [necromancy](rules/traits/necromancy.md)  [rare](rules/traits/rare.md)  
+[curse](rules/traits/curse.md "Curse Effect Trait")  [death](rules/traits/death.md "Death Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot

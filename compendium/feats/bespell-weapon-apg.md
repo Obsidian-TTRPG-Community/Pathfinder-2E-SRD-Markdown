@@ -7,7 +7,7 @@ tags:
 aliases: ["Bespell Weapon"]
 ---
 # Bespell Weapon  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 4*  
-[oracle](rules/traits/oracle-apg.md)  
+[oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  
 
 - **Frequency**: once per turn
 - **Requirements**: Your most recent action was to cast a noncantrip spell.

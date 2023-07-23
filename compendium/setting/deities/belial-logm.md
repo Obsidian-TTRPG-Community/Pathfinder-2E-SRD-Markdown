@@ -10,12 +10,12 @@ tags:
 - domain/zeal/deity
 aliases: ["Belial", "The Pale Kiss"]
 ---
-# Belial (The Pale Kiss) *([LE](rules/traits/lawful-evil-b1.md))*  
+# Belial (The Pale Kiss) *([LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 74*  
 
 - **Category**: Archdevils
 - **Anathema**: impede an act of high hedonism, become too attached to a lover or project
-- **Follower Alignments**: [LE](rules/traits/lawful-evil-b1.md)
+- **Follower Alignments**: [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait")
 
 ## Devotee benefits
 

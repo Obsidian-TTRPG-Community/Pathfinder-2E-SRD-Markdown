@@ -12,7 +12,7 @@ tags:
 aliases: ["Swap Reflections"]
 ---
 # Swap Reflections  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  [conjuration](rules/traits/conjuration.md)  [extradimensional](rules/traits/extradimensional.md)  [incapacitation](rules/traits/incapacitation.md)  [occult](rules/traits/occult.md)  [teleportation](rules/traits/teleportation.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [extradimensional](rules/traits/extradimensional.md "Extradimensional Effect Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  
 
 - **Prerequisites**: [Alter Ego Dedication](compendium/feats/alter-ego-dedication-da.md)
 - **Frequency**: once per 10 minutes

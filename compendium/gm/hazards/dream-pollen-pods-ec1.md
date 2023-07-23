@@ -9,7 +9,7 @@ tags:
 aliases: ["Dream Pollen Pods"]
 ---
 # Dream Pollen Pods *Hazard 3*  
-[complex](rules/traits/complex.md)  [environmental](rules/traits/environmental.md)  [trap](rules/traits/trap.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +12 trained  
@@ -48,7 +48,7 @@ title: Ranged [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Sin
 ```ad-embed-ability
 title: Hallucinogenic Pollen
 
-A creature hit by the trap's pollen spray must succeed at a DC 20 Will save or it is [confused](rules/conditions.md#Confused) for 1 round and takes a –2 status penalty to [Perception](compendium/skills.md#Perception) checks and saves against [mental](rules/traits/mental.md) effects for `1d4` hours.
+A creature hit by the trap's pollen spray must succeed at a DC 20 Will save or it is [confused](rules/conditions.md#Confused) for 1 round and takes a –2 status penalty to [Perception](compendium/skills.md#Perception) checks and saves against [mental](rules/traits/mental.md "Mental Effect Trait") effects for `1d4` hours.
 
 On a critical failure, the penalty is instead –4.
 ```

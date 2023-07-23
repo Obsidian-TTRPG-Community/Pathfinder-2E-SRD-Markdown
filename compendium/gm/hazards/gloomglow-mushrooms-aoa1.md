@@ -8,7 +8,7 @@ tags:
 aliases: ["Gloomglow Mushrooms"]
 ---
 # Gloomglow Mushrooms *Hazard 5*  
-[environmental](rules/traits/environmental.md)  [fungus](rules/traits/fungus-b1.md)  
+[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [fungus](rules/traits/fungus-b1.md "Fungus Creature Type Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 26 expert  

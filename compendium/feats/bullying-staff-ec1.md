@@ -8,7 +8,7 @@ tags:
 aliases: ["Bullying Staff"]
 ---
 # Bullying Staff  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Staff Acrobat Dedication](compendium/feats/staff-acrobat-dedication-ec1.md)
 - **Requirements**: You are wielding your staff.

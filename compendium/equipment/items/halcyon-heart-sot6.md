@@ -11,7 +11,7 @@ tags:
 aliases: ["Halcyon Heart"]
 ---
 # Halcyon Heart *Item 21*  
-[artifact](rules/traits/artifact-gmg.md)  [divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** held in 2 hands; **Bulk** 1
 - **Category** Artifact
@@ -28,7 +28,7 @@ title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "
 
 - **Requirements**: The halcyon heart has its net of beads
 
-**Effect** You pull the net off the halcyon heart and throw it at a creature within 20 feet, using your attack bonus for a ranged simple weapon. On a hit, the net grows and envelops the creature, which becomes [flat-footed](rules/conditions.md#Flat-footed) and takes a –10-foot circumstance penalty to its Speeds until it Escapes, and on a critical hit, it's also [immobilized](rules/conditions.md#Immobilized) until it Escapes. The net also attempts to counteract [teleportation](rules/traits/teleportation.md) effects and planar travel of the creature it's entrapping. The [Escape](rules/actions/escape.md) DC is 44, and the net has a counteract level of 9 and a counteract modifier of +38. If the target is a demon or connected to a demon, they must roll twice and take the lower result on all attempts to [Escape](rules/actions/escape.md) (this is a [misfortune](rules/traits/misfortune.md) effect), and for counter act checks, the net rolls twice and takes the higher result (this is a [fortune](rules/traits/fortune.md) effect). You can't [Perform](rules/actions/perform.md) with the halcyon heart while it doesn't have its net. So long as the net doesn't contain a creature, you can restore it with a single action, which has the [concentrate](rules/traits/concentrate.md) trait.
+**Effect** You pull the net off the halcyon heart and throw it at a creature within 20 feet, using your attack bonus for a ranged simple weapon. On a hit, the net grows and envelops the creature, which becomes [flat-footed](rules/conditions.md#Flat-footed) and takes a –10-foot circumstance penalty to its Speeds until it Escapes, and on a critical hit, it's also [immobilized](rules/conditions.md#Immobilized) until it Escapes. The net also attempts to counteract [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait") effects and planar travel of the creature it's entrapping. The [Escape](rules/actions/escape.md) DC is 44, and the net has a counteract level of 9 and a counteract modifier of +38. If the target is a demon or connected to a demon, they must roll twice and take the lower result on all attempts to [Escape](rules/actions/escape.md) (this is a [misfortune](rules/traits/misfortune.md "Misfortune Effect Trait") effect), and for counter act checks, the net rolls twice and takes the higher result (this is a [fortune](rules/traits/fortune.md "Fortune Effect Trait") effect). You can't [Perform](rules/actions/perform.md) with the halcyon heart while it doesn't have its net. So long as the net doesn't contain a creature, you can restore it with a single action, which has the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") trait.
 
 Destruction If the Gorilla King plays a halcyon heart in front of [Angazhan](compendium/setting/deities/angazhan-logm.md)'s totem, the gourd decomposes, the net frays, and the beads shatter.
 ```

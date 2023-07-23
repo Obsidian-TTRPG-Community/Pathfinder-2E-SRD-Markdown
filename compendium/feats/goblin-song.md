@@ -7,7 +7,7 @@ tags:
 aliases: ["Goblin Song"]
 ---
 # Goblin Song  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
-[goblin](rules/traits/goblin.md)  
+[goblin](rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  
 
 - **Activity** Single Action
 

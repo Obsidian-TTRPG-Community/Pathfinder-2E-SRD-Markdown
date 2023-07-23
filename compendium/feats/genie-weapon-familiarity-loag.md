@@ -11,7 +11,7 @@ tags:
 aliases: ["Genie Weapon Familiarity"]
 ---
 # Genie Weapon Familiarity  *Feat 1*  
-[ifrit](rules/traits/ifrit-b2.md)  [oread](rules/traits/oread-b2.md)  [suli](rules/traits/suli-b2.md)  [sylph](rules/traits/sylph-b2.md)  [undine](rules/traits/undine-b2.md)  
+[ifrit](rules/traits/ifrit-b2.md "Ifrit Ancestry & Heritage Trait")  [oread](rules/traits/oread-b2.md "Oread Ancestry & Heritage Trait")  [suli](rules/traits/suli-b2.md "Suli Ancestry & Heritage Trait")  [sylph](rules/traits/sylph-b2.md "Sylph Ancestry & Heritage Trait")  [undine](rules/traits/undine-b2.md "Undine Ancestry & Heritage Trait")  
 
 
 You've trained with weapons used by your genie ancestors. You are trained with [falchions](compendium/equipment/items/falchion.md), [ranseurs](compendium/equipment/items/ranseur.md), [scimitars](compendium/equipment/items/scimitar.md), and [tridents](compendium/equipment/items/trident.md). In addition, you gain access to all uncommon geniekin weapons. For the purpose of determining your proficiency, martial geniekin weapons are simple weapons and advanced geniekin weapons are martial weapons.

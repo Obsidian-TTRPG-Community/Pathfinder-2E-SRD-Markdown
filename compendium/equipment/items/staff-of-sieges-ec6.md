@@ -11,7 +11,7 @@ tags:
 aliases: ["Staff Of Sieges"]
 ---
 # Staff Of Sieges *Item 20*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [staff](rules/traits/staff.md)  [uncommon](rules/traits/uncommon.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 65000 gp
 - **Usage** held in 1 hand; **Bulk** 1

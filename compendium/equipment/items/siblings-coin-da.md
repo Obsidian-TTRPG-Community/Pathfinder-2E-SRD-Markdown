@@ -8,7 +8,7 @@ tags:
 aliases: ["Sibling's Coin"]
 ---
 # Sibling's Coin *Item 1*  
-[uncommon](rules/traits/uncommon.md)  
+[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** Member of a secret society
 - **Price** 10 gp

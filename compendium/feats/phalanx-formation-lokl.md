@@ -7,7 +7,7 @@ tags:
 aliases: ["Phalanx Formation"]
 ---
 # Phalanx Formation  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Knight Vigilant Dedication](compendium/feats/knight-vigilant-dedication-locg.md)
 

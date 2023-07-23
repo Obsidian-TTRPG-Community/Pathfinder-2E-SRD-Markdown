@@ -7,7 +7,7 @@ tags:
 aliases: ["Scales Of The Dragon"]
 ---
 # Scales Of The Dragon  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Dragon Disciple Dedication](compendium/feats/dragon-disciple-dedication-apg.md)
 

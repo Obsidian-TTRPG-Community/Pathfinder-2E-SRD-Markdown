@@ -9,7 +9,7 @@ tags:
 aliases: ["Adamantine"]
 ---
 # Adamantine *Item 8+*  
-[precious](rules/traits/precious.md)  [uncommon](rules/traits/uncommon.md)  
+[precious](rules/traits/precious.md "Precious Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Category** Material
 
@@ -18,14 +18,14 @@ Mined from rocks that fell from the heavens, adamantine is one of the hardest me
 | Adamantine Items | Hardness | HP | BT |
 |------------------|----------|----|----|
 | **Thin Items** |  |  |  |
-| Standard-grade | 10 | 40 | 20 |
-| High-grade | 13 | 52 | 26 |
+| multiRow |  |
+| multiRow |  |
 | **Items** |  |  |  |
-| Standard-grade | 14 | 56 | 28 |
-| High-grade | 17 | 68 | 34 |
+| multiRow |  |
+| multiRow |  |
 | **Structures** |  |  |  |
-| Standard-grade | 28 | 112 | 56 |
-| High-grade | 34 | 136 | 68 |
+| multiRow |  |
+| multiRow |  |
 
 
 *Source: Core Rulebook p. 578*

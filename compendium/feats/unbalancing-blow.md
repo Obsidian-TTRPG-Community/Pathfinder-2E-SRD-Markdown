@@ -7,7 +7,7 @@ tags:
 aliases: ["Unbalancing Blow"]
 ---
 # Unbalancing Blow  *Feat 2*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Prerequisites**: Thief racket
 

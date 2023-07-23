@@ -7,7 +7,7 @@ tags:
 aliases: ["Rakshasa Ravaged"]
 ---
 # Rakshasa Ravaged  *Feat 9*  
-[vanara](rules/traits/vanara-loil.md)  
+[vanara](rules/traits/vanara-loil.md "Vanara Ancestry & Heritage Trait")  
 
 - **Prerequisites**: expert in [Occultism](compendium/skills.md#Occultism)
 

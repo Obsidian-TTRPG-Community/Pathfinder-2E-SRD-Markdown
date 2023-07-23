@@ -9,7 +9,7 @@ tags:
 aliases: ["Cantrip Casting"]
 ---
 # Cantrip Casting  *Feat 2*  
-[[class]](rules/traits/any-class-som.md)  [pervasive magic](rules/traits/pervasive-magic-som.md)  [rare](rules/traits/rare.md)  
+[[class]](rules/traits/class-som.md "Any Class Class Trait")  [pervasive magic](rules/traits/pervasive-magic-som.md "Pervasive Magic General Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 
 You increase your ability to cast simple spells. You gain two additional cantrips from the tradition matching your trait.

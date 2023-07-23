@@ -7,7 +7,7 @@ tags:
 aliases: ["Acute Scent"]
 ---
 # Acute Scent  *Feat 2*  
-[barbarian](rules/traits/barbarian.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  
 
 - **Prerequisites**: [Acute Vision](compendium/feats/acute-vision.md) or [darkvision](rules/abilities/darkvision.md)
 

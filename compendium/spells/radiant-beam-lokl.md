@@ -12,9 +12,9 @@ tags:
 aliases: ["Radiant Beam"]
 ---
 # Radiant Beam *Spell 4*   
-[evocation](rules/traits/evocation.md)  [good](rules/traits/good.md)  [light](rules/traits/light.md)  [uncommon](rules/traits/uncommon.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [good](rules/traits/good.md "Good Alignment Trait")  [light](rules/traits/light.md "Light Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md), [primal](rules/traits/primal.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**120-foot line
 - **Saving Throw**  basic Reflex

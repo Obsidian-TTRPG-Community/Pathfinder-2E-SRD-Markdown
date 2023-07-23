@@ -10,7 +10,7 @@ tags:
 aliases: ["Autumn's Embrace"]
 ---
 # Autumn's Embrace *Item 12*  
-[conjuration](rules/traits/conjuration.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 2000 gp
 - **Usage** worn armor; **Bulk** 1
@@ -20,7 +20,7 @@ Woven by fey seamstresses as rewards for servants of nature, countless leaves co
 
 ```ad-embed-ability
 title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
-[aura](rules/traits/aura.md)  
+[aura](rules/traits/aura.md "Aura Combat Trait")  
 
 You call forth a storm of leaves from autumn's embrace. These leaves swirl in a 20-foot emanation for 1 minute. Creatures within the area are [concealed](rules/conditions.md#Concealed), and creatures outside the area are [concealed](rules/conditions.md#Concealed) to creatures within the leaves. However, you can see through this concealment. You can [Dismiss](rules/actions/dismiss.md) the activation.  
 %% #trait/aura %%

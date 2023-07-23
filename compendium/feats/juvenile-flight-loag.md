@@ -7,7 +7,7 @@ tags:
 aliases: ["Juvenile Flight"]
 ---
 # Juvenile Flight  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 9*  
-[strix](rules/traits/strix-loag.md)  
+[strix](rules/traits/strix-loag.md "Strix Ancestry & Heritage Trait")  
 
 - **Frequency**: once per day
 - **Activity** Two-Action

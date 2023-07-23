@@ -7,7 +7,7 @@ tags:
 aliases: ["Earthsense"]
 ---
 # Earthsense  *Feat 9*  
-[oread](rules/traits/oread-b2.md)  
+[oread](rules/traits/oread-b2.md "Oread Ancestry & Heritage Trait")  
 
 
 Your connection to earth and stone allows you to feel the slightest displacement that disturbs them, down to the shift of a pebble. You gain [tremorsense](rules/abilities/tremorsense.md) as an imprecise sense with a range of 30 feet.

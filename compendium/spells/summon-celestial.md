@@ -8,14 +8,14 @@ tags:
 aliases: ["Summon Celestial"]
 ---
 # Summon Celestial *Spell 5*   
-[conjuration](rules/traits/conjuration.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**30 foot
 - **Duration**sustained up to 1 minute
 
-You conjure a celestial to fight on your behalf. This works like [summon animal](compendium/spells/summon-animal.md), except you summon a common creature that has the [celestial](rules/traits/celestial.md) trait and whose level is 5 or lower. You can't summon a creature unless its alignment is one of your deity's preferred alignments (or, if you don't have a deity, is within one step of your alignment). At the GM's discretion, some deities might restrict specific types of celestials, even if their alignments match.
+You conjure a celestial to fight on your behalf. This works like [summon animal](compendium/spells/summon-animal.md), except you summon a common creature that has the [celestial](rules/traits/celestial.md "Celestial Creature Type Trait") trait and whose level is 5 or lower. You can't summon a creature unless its alignment is one of your deity's preferred alignments (or, if you don't have a deity, is within one step of your alignment). At the GM's discretion, some deities might restrict specific types of celestials, even if their alignments match.
 
 **Heightened (6th)** Level 7.
 

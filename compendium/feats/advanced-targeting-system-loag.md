@@ -7,7 +7,7 @@ tags:
 aliases: ["Advanced Targeting System"]
 ---
 # Advanced Targeting System  *Feat 5*  
-[android](rules/traits/android-loag.md)  
+[android](rules/traits/android-loag.md "Android Ancestry & Heritage Trait")  
 
 
 Your ocular processors are augmented with advanced targeting systems, which allow you to more easily pinpoint your enemy and read their movements. You can cast [true strike](compendium/spells/true-strike.md) once per day as a 1st-level arcane innate spell.

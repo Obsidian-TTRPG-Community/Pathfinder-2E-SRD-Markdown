@@ -7,7 +7,7 @@ tags:
 aliases: ["Shed Tail"]
 ---
 # Shed Tail  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 5*  
-[lizardfolk](rules/traits/lizardfolk-b1.md)  
+[lizardfolk](rules/traits/lizardfolk-b1.md "Lizardfolk Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Tail Whip](compendium/feats/tail-whip-locg.md)
 - **Trigger** You become [grabbed](rules/conditions.md#Grabbed).

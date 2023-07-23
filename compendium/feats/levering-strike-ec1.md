@@ -9,7 +9,7 @@ tags:
 aliases: ["Levering Strike"]
 ---
 # Levering Strike  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  [press](rules/traits/press.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [press](rules/traits/press.md "Press Combat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Staff Acrobat Dedication](compendium/feats/staff-acrobat-dedication-ec1.md)
 - **Requirements**: You are wielding your staff.

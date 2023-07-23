@@ -12,7 +12,7 @@ tags:
 aliases: ["Tattoo Whispers"]
 ---
 # Tattoo Whispers *Ritual 3*  
-[auditory](rules/traits/auditory.md)  [divination](rules/traits/divination.md)  [linguistic](rules/traits/linguistic.md)  [mental](rules/traits/mental.md)  [rare](rules/traits/rare.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Cast** 1 hour
 - **Cost** tattoo inks and silver tattooing needles worth 20 gp for each secondary caster

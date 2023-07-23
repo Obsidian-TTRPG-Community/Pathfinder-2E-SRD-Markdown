@@ -7,7 +7,7 @@ tags:
 aliases: ["Arcane School Spell"]
 ---
 # Arcane School Spell  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Wizard Dedication](compendium/feats/wizard-dedication.md)
 

@@ -10,12 +10,12 @@ tags:
 - domain/soul/deity
 aliases: ["Osiris", "Lord of the Living"]
 ---
-# Osiris (Lord of the Living) *([LG](rules/traits/lawful-goo-b1.md))*  
+# Osiris (Lord of the Living) *([LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 124*  
 
 - **Category**: Ancient Osirian Gods
 - **Anathema**: dismember a creature, desecrate a corpse, show ingratitude for a sincere gift
-- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [NG](rules/traits/neutral-good-b1.md)
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait")
 
 ## Devotee benefits
 

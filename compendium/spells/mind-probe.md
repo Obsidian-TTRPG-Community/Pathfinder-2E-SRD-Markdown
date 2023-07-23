@@ -11,9 +11,9 @@ tags:
 aliases: ["Mind Probe"]
 ---
 # Mind Probe *Spell 5*   
-[divination](rules/traits/divination.md)  [linguistic](rules/traits/linguistic.md)  [mental](rules/traits/mental.md)  [uncommon](rules/traits/uncommon.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 1 minute 
 - **Range**30 foot
 - **Targets**1 creature

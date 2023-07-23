@@ -9,7 +9,7 @@ tags:
 aliases: ["Injection Reservoir"]
 ---
 # Injection Reservoir *Item 1*  
-[adjustment](rules/traits/adjustment-lotgb.md)  [alchemical](rules/traits/alchemical.md)  
+[adjustment](rules/traits/adjustment-lotgb.md "Adjustment  Trait")  [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  
 
 - **Price** 10 gp
 - **Usage** applied to a non-injection melee weapon that deals piercing damage; Bulk L; **Bulk** L

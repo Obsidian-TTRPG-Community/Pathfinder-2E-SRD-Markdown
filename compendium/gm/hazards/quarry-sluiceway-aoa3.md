@@ -9,7 +9,7 @@ tags:
 aliases: ["Quarry Sluiceway"]
 ---
 # Quarry Sluiceway *Hazard 9*  
-[complex](rules/traits/complex.md)  [mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +17 expert or [Perception](compendium/skills.md#Perception) DC 27 (expert) to notice the six cleverly [hidden](rules/conditions.md#Hidden) sluice gates while they are closed  

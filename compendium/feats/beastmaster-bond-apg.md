@@ -10,7 +10,7 @@ tags:
 aliases: ["Beastmaster Bond"]
 ---
 # Beastmaster Bond  *Feat 10*  
-[archetype](rules/traits/archetype.md)  [divination](rules/traits/divination.md)  [mental](rules/traits/mental.md)  [primal](rules/traits/primal.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  
 
 - **Prerequisites**: [Beastmaster Dedication](compendium/feats/beastmaster-dedication-apg.md)
 

@@ -11,7 +11,7 @@ tags:
 aliases: ["Evangelize"]
 ---
 # Evangelize  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 7*  
-[auditory](rules/traits/auditory.md)  [general](rules/traits/general.md)  [linguistic](rules/traits/linguistic.md)  [mental](rules/traits/mental.md)  [skill](rules/traits/skill.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [general](rules/traits/general.md "General Feat Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: master in [Diplomacy](compendium/skills.md#Diplomacy), you follow a deity or philosophy
 - **Activity** Single Action

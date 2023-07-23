@@ -10,7 +10,7 @@ tags:
 aliases: ["Intimidating Strike"]
 ---
 # Intimidating Strike  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 2*  
-[emotion](rules/traits/emotion.md)  [fear](rules/traits/fear.md)  [fighter](rules/traits/fighter.md)  [mental](rules/traits/mental.md)  
+[emotion](rules/traits/emotion.md "Emotion Effect Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [fighter](rules/traits/fighter.md "Fighter Class Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 - **Activity** Two-Action
 

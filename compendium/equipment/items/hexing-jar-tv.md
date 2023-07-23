@@ -11,7 +11,7 @@ tags:
 aliases: ["Hexing Jar"]
 ---
 # Hexing Jar *Item 11*  
-[enchantment](rules/traits/enchantment.md)  [focused](rules/traits/focused.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [focused](rules/traits/focused.md "Focused Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 1200 gp
 - **Usage** worn; **Bulk** —
@@ -32,7 +32,7 @@ title: Activate [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "R
 
 - **Trigger**: You roll a critical success on an attack roll with a witch spell, or your target rolls a critical failure on its saving throw against a witch spell or hex you cast
 
-**Effect** The thing in the jar becomes more energetic—glowing, dancing, rapping on the glass, or some other action appropriate to its appearance. It encourages you until the start of your next turn, granting you and your familiar a +1 status bonus to AC and saving throws and a +2 status bonus against [mental](rules/traits/mental.md) effects.
+**Effect** The thing in the jar becomes more energetic—glowing, dancing, rapping on the glass, or some other action appropriate to its appearance. It encourages you until the start of your next turn, granting you and your familiar a +1 status bonus to AC and saving throws and a +2 status bonus against [mental](rules/traits/mental.md "Mental Effect Trait") effects.
 ```
 
 *Source: Treasure Vault p. 148*

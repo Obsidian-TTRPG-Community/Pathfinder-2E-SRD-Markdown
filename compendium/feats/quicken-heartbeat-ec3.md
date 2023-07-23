@@ -7,7 +7,7 @@ tags:
 aliases: ["Quicken Heartbeat"]
 ---
 # Quicken Heartbeat  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Golem Grafter Dedication](compendium/feats/golem-grafter-dedication-ec3.md)
 - **Frequency**: once per turn

@@ -11,7 +11,7 @@ tags:
 aliases: ["Belt of Regeneration"]
 ---
 # Belt of Regeneration *Item 17*  
-[apex](rules/traits/apex.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  
+[apex](rules/traits/apex.md "Apex Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 - **Price** 15000 gp
 - **Usage** worn belt; **Bulk** L

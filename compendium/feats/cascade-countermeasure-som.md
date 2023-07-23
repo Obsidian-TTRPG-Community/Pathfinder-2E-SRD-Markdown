@@ -7,7 +7,7 @@ tags:
 aliases: ["Cascade Countermeasure"]
 ---
 # Cascade Countermeasure  *Feat 6*  
-[magus](rules/traits/magus-som.md)  
+[magus](rules/traits/magus-som.md "Magus Class Trait")  
 
 - **Prerequisites**: [Arcane Cascade](rules/actions/arcane-cascade-som.md), focus pool
 

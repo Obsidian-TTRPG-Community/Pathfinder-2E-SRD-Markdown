@@ -12,7 +12,7 @@ tags:
 aliases: ["Seer's Flute"]
 ---
 # Seer's Flute *Item 4+*  
-[coda](rules/traits/coda-tv.md)  [divination](rules/traits/divination.md)  [occult](rules/traits/occult.md)  [staff](rules/traits/staff.md)  [uncommon](rules/traits/uncommon.md)  
+[coda](rules/traits/coda-tv.md "Coda Item Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Usage** held in 2 hands; **Bulk** L
 - **Category** Coda

@@ -10,12 +10,12 @@ tags:
 - domain/truth/deity
 aliases: ["Eritrice", "Heart-Speaker"]
 ---
-# Eritrice (Heart-Speaker) *([NG](rules/traits/neutral-good-b1.md))*  
+# Eritrice (Heart-Speaker) *([NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 128*  
 
 - **Category**: Empyreal Lords
 - **Anathema**: sow or perpetuate lies, obstruct discussion, argue in bad faith
-- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [NG](rules/traits/neutral-good-b1.md), [CG](rules/traits/chaotic-good-b1.md)
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")
 
 ## Devotee benefits
 

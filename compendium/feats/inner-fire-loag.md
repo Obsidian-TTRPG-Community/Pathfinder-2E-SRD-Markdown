@@ -7,7 +7,7 @@ tags:
 aliases: ["Inner Fire"]
 ---
 # Inner Fire  *Feat 1*  
-[ifrit](rules/traits/ifrit-b2.md)  
+[ifrit](rules/traits/ifrit-b2.md "Ifrit Ancestry & Heritage Trait")  
 
 
 You can call the fire inside you into the palm of your hand. You can cast the [produce flame](compendium/spells/produce-flame.md) cantrip as an innate primal or arcane spell at will. A cantrip is heightened to a spell level equal to half your level rounded up.

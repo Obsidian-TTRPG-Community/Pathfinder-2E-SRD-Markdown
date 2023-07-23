@@ -9,7 +9,7 @@ tags:
 aliases: ["Saoc Astrology"]
 ---
 # Saoc Astrology  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
-[concentrate](rules/traits/concentrate.md)  [human](rules/traits/human.md)  [uncommon](rules/traits/uncommon.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [human](rules/traits/human.md "Human Ancestry & Heritage Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: Lirgeni nationality
 - **Frequency**: three per day

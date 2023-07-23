@@ -11,7 +11,7 @@ tags:
 aliases: ["Song Of The Fallen"]
 ---
 # Song Of The Fallen *Focus 10*   
-[bard](rules/traits/bard.md)  [composition](rules/traits/composition.md)  [necromancy](rules/traits/necromancy.md)  [uncommon](rules/traits/uncommon.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  [composition](rules/traits/composition.md "Composition Spell Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot

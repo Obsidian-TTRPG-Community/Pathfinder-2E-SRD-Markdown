@@ -9,7 +9,7 @@ tags:
 aliases: ["Overwhelming Energy (Druid)"]
 ---
 # Overwhelming Energy (Druid)  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
-[druid](rules/traits/druid.md)  [manipulate](rules/traits/manipulate.md)  [metamagic](rules/traits/metamagic.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 - **Activity** Single Action
 

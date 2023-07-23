@@ -7,7 +7,7 @@ tags:
 aliases: ["Juggernaut's Fortitude"]
 ---
 # Juggernaut's Fortitude  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Barbarian Dedication](compendium/feats/barbarian-dedication.md), expert in Fortitude saves
 

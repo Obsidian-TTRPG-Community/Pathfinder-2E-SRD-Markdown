@@ -13,9 +13,9 @@ tags:
 aliases: ["Moonlight Ray"]
 ---
 # Moonlight Ray *Spell 3*   
-[attack](rules/traits/attack.md)  [cold](rules/traits/cold.md)  [evocation](rules/traits/evocation.md)  [good](rules/traits/good.md)  [light](rules/traits/light.md)  [uncommon](rules/traits/uncommon.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  [cold](rules/traits/cold.md "Cold Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [good](rules/traits/good.md "Good Alignment Trait")  [light](rules/traits/light.md "Light Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md), [primal](rules/traits/primal.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**120 foot
 - **Targets**1 creature

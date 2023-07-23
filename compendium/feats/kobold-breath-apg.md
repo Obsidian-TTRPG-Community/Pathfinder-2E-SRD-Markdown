@@ -9,7 +9,7 @@ tags:
 aliases: ["Kobold Breath"]
 ---
 # Kobold Breath  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 1*  
-[arcane](rules/traits/arcane.md)  [evocation](rules/traits/evocation.md)  [kobold](rules/traits/kobold-b1.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [kobold](rules/traits/kobold-b1.md "Kobold Ancestry & Heritage Trait")  
 
 - **Activity** Two-Action
 

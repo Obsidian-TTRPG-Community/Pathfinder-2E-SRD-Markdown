@@ -8,7 +8,7 @@ tags:
 aliases: ["Bloodhound Olfactory Stimulators"]
 ---
 # Bloodhound Olfactory Stimulators *Item 5*  
-[magical](rules/traits/magical.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 136 gp
 - **Usage** worn; **Bulk** L

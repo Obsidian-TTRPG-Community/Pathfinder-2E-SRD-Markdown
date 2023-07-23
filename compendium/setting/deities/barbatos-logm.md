@@ -10,12 +10,12 @@ tags:
 - domain/tyranny/deity
 aliases: ["Barbatos", "The Bearded Lord"]
 ---
-# Barbatos (The Bearded Lord) *([LE](rules/traits/lawful-evil-b1.md))*  
+# Barbatos (The Bearded Lord) *([LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 74*  
 
 - **Category**: Archdevils
 - **Anathema**: hide any plot against your masters, close or interfere with portals to Hell
-- **Follower Alignments**: [LE](rules/traits/lawful-evil-b1.md)
+- **Follower Alignments**: [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait")
 
 ## Devotee benefits
 

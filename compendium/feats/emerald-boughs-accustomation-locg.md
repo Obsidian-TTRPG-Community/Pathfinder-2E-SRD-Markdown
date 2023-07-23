@@ -8,7 +8,7 @@ tags:
 aliases: ["Emerald Boughs Accustomation"]
 ---
 # Emerald Boughs Accustomation  *Feat 6*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Magaambyan Attendant Dedication](compendium/feats/magaambyan-attendant-dedication-locg.md), Emerald Boughs affiliation, expert in [Society](compendium/skills.md#Society)
 

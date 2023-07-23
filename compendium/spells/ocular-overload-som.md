@@ -11,9 +11,9 @@ tags:
 aliases: ["Ocular Overload"]
 ---
 # Ocular Overload *Spell 4*   
-[contingency](rules/traits/contingency-som.md)  [illusion](rules/traits/illusion.md)  [incapacitation](rules/traits/incapacitation.md)  [visual](rules/traits/visual.md)  
+[contingency](rules/traits/contingency-som.md "Contingency Spell Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** 10 minutes 
 - **Duration**24 hours
 
@@ -21,7 +21,7 @@ Just as a creature is about to attack you, you assault them with jarring illusio
 
 ```ad-embed-ability
 title: Overload Vision [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[concentrate](rules/traits/concentrate.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
 
 - **Trigger**: A creature within 60 feet would make an attack roll against you
 

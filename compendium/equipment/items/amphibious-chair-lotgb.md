@@ -9,7 +9,7 @@ tags:
 aliases: ["Amphibious Chair"]
 ---
 # Amphibious Chair *Item 9*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 575 gp
 - **Category** Wheelchair Upgrade

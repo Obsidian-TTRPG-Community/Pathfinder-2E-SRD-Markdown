@@ -7,7 +7,7 @@ tags:
 aliases: ["Invoke Disaster"]
 ---
 # Invoke Disaster  *Feat 18*  
-[druid](rules/traits/druid.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  
 
 - **Prerequisites**: [Wind Caller](compendium/feats/wind-caller.md)
 

@@ -12,7 +12,7 @@ tags:
 aliases: ["Redeemer's Pistol"]
 ---
 # Redeemer's Pistol *Item 11*  
-[abjuration](rules/traits/abjuration.md)  [good](rules/traits/good.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  [unique](rules/traits/unique.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [good](rules/traits/good.md "Good Alignment Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Price** 1400 gp
 - **Usage** held in 1 hand; **Bulk** L

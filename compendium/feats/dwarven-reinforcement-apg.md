@@ -7,7 +7,7 @@ tags:
 aliases: ["Dwarven Reinforcement"]
 ---
 # Dwarven Reinforcement  *Feat 5*  
-[dwarf](rules/traits/dwarf.md)  
+[dwarf](rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  
 
 - **Prerequisites**: expert in [Crafting](compendium/skills.md#Crafting)
 

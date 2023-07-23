@@ -8,7 +8,7 @@ tags:
 aliases: ["Target Of Opportunity"]
 ---
 # Target Of Opportunity  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 14*  
-[archetype](rules/traits/archetype.md)  [manipulate](rules/traits/manipulate.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 
 - **Prerequisites**: [Marshal Dedication](compendium/feats/marshal-dedication-apg.md)
 - **Trigger** An ally succeeds at a ranged [Strike](rules/actions/strike.md) against an opponent within your weapon's first range increment.

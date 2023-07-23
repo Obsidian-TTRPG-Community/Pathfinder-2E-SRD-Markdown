@@ -7,7 +7,7 @@ tags:
 aliases: ["Accursed Claws"]
 ---
 # Accursed Claws  *Feat 9*  
-[changeling](rules/traits/changeling-b1.md)  
+[changeling](rules/traits/changeling-b1.md "Changeling Ancestry & Heritage Trait")  
 
 - **Prerequisites**: claw unarmed attack
 

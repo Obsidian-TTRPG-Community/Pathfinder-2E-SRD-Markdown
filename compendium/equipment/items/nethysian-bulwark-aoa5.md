@@ -11,7 +11,7 @@ tags:
 aliases: ["Nethysian Bulwark"]
 ---
 # Nethysian Bulwark *Item 16*  
-[abjuration](rules/traits/abjuration.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 8000 gp
 - **Usage** held in 1 hand; **Bulk** 1

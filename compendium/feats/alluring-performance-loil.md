@@ -10,7 +10,7 @@ tags:
 aliases: ["Alluring Performance"]
 ---
 # Alluring Performance  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 9*  
-[incapacitation](rules/traits/incapacitation.md)  [mental](rules/traits/mental.md)  [vishkanya](rules/traits/vishkanya-loil.md)  [visual](rules/traits/visual.md)  
+[incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [vishkanya](rules/traits/vishkanya-loil.md "Vishkanya Ancestry & Heritage Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Frequency**: once per day
 - **Requirements**: trained in [Performance](compendium/skills.md#Performance)

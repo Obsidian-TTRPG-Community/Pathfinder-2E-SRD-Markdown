@@ -7,7 +7,7 @@ tags:
 aliases: ["Surging Focus"]
 ---
 # Surging Focus  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 8*  
-[cleric](rules/traits/cleric.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  
 
 - **Frequency**: once per day
 - **Trigger** An ally you can see falls to 0 Hit Points.

@@ -11,7 +11,7 @@ tags:
 aliases: ["Darkened Eyes"]
 ---
 # Darkened Eyes *Focus 4*   
-[cleric](rules/traits/cleric.md)  [darkness](rules/traits/darkness.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [darkness](rules/traits/darkness.md "Darkness Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Domains**: [darkness](compendium/setting/domains.md#Darkness)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

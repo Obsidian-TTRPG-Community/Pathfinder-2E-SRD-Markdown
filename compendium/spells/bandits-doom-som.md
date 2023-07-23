@@ -9,9 +9,9 @@ tags:
 aliases: ["Bandit's Doom"]
 ---
 # Bandit's Doom *Spell 5*   
-[abjuration](rules/traits/abjuration.md)  [curse](rules/traits/curse.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [curse](rules/traits/curse.md "Curse Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [divine](rules/traits/divine.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 30 minutes 
 - **Targets**1 item of 2 Bulk or less
 - **Duration**1 month

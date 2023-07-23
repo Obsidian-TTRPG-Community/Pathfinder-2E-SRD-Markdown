@@ -10,7 +10,7 @@ tags:
 aliases: ["Unholy"]
 ---
 # Unholy *Item 11*  
-[evil](rules/traits/evil.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  
+[evil](rules/traits/evil.md "Evil Alignment Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 1400 gp
 - **Usage** etched onto a weapon without a holy rune

@@ -12,7 +12,7 @@ tags:
 aliases: ["Phantom Piano"]
 ---
 # Phantom Piano *Item 12*  
-[enchantment](rules/traits/enchantment.md)  [focused](rules/traits/focused.md)  [intelligent](rules/traits/intelligent-gmg.md)  [occult](rules/traits/occult.md)  [rare](rules/traits/rare.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [focused](rules/traits/focused.md "Focused Item Trait")  [intelligent](rules/traits/intelligent-gmg.md "Intelligent Item Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** Held in 2 Hands; **Bulk** 16
 - **Category** Held

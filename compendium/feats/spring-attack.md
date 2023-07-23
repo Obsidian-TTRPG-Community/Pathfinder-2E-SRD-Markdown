@@ -8,7 +8,7 @@ tags:
 aliases: ["Spring Attack"]
 ---
 # Spring Attack  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 12*  
-[fighter](rules/traits/fighter.md)  [press](rules/traits/press.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  [press](rules/traits/press.md "Press Combat Trait")  
 
 - **Requirements**: You are adjacent to an enemy.
 - **Activity** Single Action

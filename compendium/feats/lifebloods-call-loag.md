@@ -7,7 +7,7 @@ tags:
 aliases: ["Lifeblood's Call"]
 ---
 # Lifeblood's Call  *Feat 13*  
-[orc](rules/traits/orc.md)  
+[orc](rules/traits/orc.md "Orc Ancestry & Heritage Trait")  
 
 
 The impulse to survive and continue fighting resonates deep within you. You gain a circumstance bonus to damage rolls on your melee [Strikes](rules/actions/strike.md) equal to twice the sum of your [wounded](rules/conditions.md#Wounded) and [doomed](rules/conditions.md#Doomed) conditions (to a maximum of a +8 circumstance bonus to damage) whenever you have one or both conditions.

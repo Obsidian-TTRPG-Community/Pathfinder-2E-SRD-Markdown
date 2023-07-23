@@ -7,7 +7,7 @@ tags:
 aliases: ["Fledgling Flight"]
 ---
 # Fledgling Flight  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 5*  
-[strix](rules/traits/strix-loag.md)  
+[strix](rules/traits/strix-loag.md "Strix Ancestry & Heritage Trait")  
 
 - **Frequency**: once per round
 - **Activity** Single Action

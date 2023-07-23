@@ -8,7 +8,7 @@ tags:
 aliases: ["Arcane Evolution"]
 ---
 # Arcane Evolution  *Feat 4*  
-[arcane](rules/traits/arcane.md)  [sorcerer](rules/traits/sorcerer.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 - **Prerequisites**: bloodline that grants arcane spells
 

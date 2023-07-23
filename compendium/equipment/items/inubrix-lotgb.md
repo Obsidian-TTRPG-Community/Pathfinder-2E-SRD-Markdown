@@ -9,7 +9,7 @@ tags:
 aliases: ["Inubrix"]
 ---
 # Inubrix *Item 0+*  
-[precious](rules/traits/precious.md)  [rare](rules/traits/rare.md)  
+[precious](rules/traits/precious.md "Precious Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Category** Material
 
@@ -18,14 +18,14 @@ This pale, malleable metal's unusual molecular structure allows it to partially 
 | Inubrix Items | Hardness | HP | BT |
 |---------------|----------|----|----|
 | **Thin Items** |  |  |  |
-| Standard-grade | 4 | 16 | 8 |
-| High-grade | 7 | 28 | 14 |
+| multiRow |  |
+| multiRow |  |
 | **Items** |  |  |  |
-| Standard-grade | 8 | 32 | 16 |
-| High-grade | 11 | 44 | 22 |
+| multiRow |  |
+| multiRow |  |
 | **Structures** |  |  |  |
-| Standard-grade | 17 | 68 | 34 |
-| High-grade | 23 | 92 | 46 |
+| multiRow |  |
+| multiRow |  |
 
 
 *Source: Lost Omens: The Grand Bazaar p. 98*

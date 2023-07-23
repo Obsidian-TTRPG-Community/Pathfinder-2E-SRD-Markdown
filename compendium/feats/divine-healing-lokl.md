@@ -7,7 +7,7 @@ tags:
 aliases: ["Divine Healing"]
 ---
 # Divine Healing  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Knight Vigilant Dedication](compendium/feats/knight-vigilant-dedication-locg.md), expert in religion, worship a deity with a divine font that grants heal
 

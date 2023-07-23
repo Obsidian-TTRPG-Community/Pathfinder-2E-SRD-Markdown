@@ -7,7 +7,7 @@ tags:
 aliases: ["Pin To The Spot"]
 ---
 # Pin To The Spot  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Provocator Dedication](compendium/feats/provocator-dedication-aoe3.md)
 - **Activity** Two-Action

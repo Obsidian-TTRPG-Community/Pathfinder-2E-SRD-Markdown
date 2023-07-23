@@ -11,7 +11,7 @@ tags:
 aliases: ["Mask of the Cursed Eye"]
 ---
 # Mask of the Cursed Eye *Item 8*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [uncommon](rules/traits/uncommon.md)  
+[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 475 gp
 - **Usage** worn mask; **Bulk** —

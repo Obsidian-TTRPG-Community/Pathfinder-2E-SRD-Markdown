@@ -7,7 +7,7 @@ tags:
 aliases: ["Dogfang Bite"]
 ---
 # Dogfang Bite  *Feat 5*  
-[tengu](rules/traits/tengu-b1.md)  
+[tengu](rules/traits/tengu-b1.md "Tengu Ancestry & Heritage Trait")  
 
 - **Prerequisites**: dogtooth tengu heritage
 

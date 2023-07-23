@@ -7,7 +7,7 @@ tags:
 aliases: ["Dwarven Weapon Cunning"]
 ---
 # Dwarven Weapon Cunning  *Feat 5*  
-[dwarf](rules/traits/dwarf.md)  
+[dwarf](rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Dwarven Weapon Familiarity](compendium/feats/dwarven-weapon-familiarity.md)
 

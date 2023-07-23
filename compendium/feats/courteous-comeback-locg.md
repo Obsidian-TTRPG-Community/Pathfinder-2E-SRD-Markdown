@@ -9,7 +9,7 @@ tags:
 aliases: ["Courteous Comeback"]
 ---
 # Courteous Comeback  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 1*  
-[fortune](rules/traits/fortune.md)  [human](rules/traits/human.md)  [uncommon](rules/traits/uncommon.md)  
+[fortune](rules/traits/fortune.md "Fortune Effect Trait")  [human](rules/traits/human.md "Human Ancestry & Heritage Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: Keleshite nationality
 - **Trigger** You critically fail a [Diplomacy](compendium/skills.md#Diplomacy) check.

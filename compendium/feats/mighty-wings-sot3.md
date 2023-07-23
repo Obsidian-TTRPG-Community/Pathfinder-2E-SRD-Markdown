@@ -8,7 +8,7 @@ tags:
 aliases: ["Mighty Wings"]
 ---
 # Mighty Wings  *Feat 18*  
-[archetype](rules/traits/archetype.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Dragon Disciple Dedication](compendium/feats/dragon-disciple-dedication-apg.md), [dragon wings](compendium/spells/dragon-wings.md) sorcerer bloodline spell
 

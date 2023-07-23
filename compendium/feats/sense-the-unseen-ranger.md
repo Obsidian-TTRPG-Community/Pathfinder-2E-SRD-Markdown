@@ -7,7 +7,7 @@ tags:
 aliases: ["Sense The Unseen (Ranger)"]
 ---
 # Sense The Unseen (Ranger)  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 14*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Trigger** You fail a check to [Seek](rules/actions/seek.md).
 - **Activity** Reaction

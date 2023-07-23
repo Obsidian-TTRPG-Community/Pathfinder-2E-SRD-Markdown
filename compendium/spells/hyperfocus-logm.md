@@ -8,7 +8,7 @@ tags:
 aliases: ["Hyperfocus"]
 ---
 # Hyperfocus *Focus 1*   
-[divination](rules/traits/divination.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  
 
 - **Domains**: [delirium](compendium/setting/domains.md#Delirium)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

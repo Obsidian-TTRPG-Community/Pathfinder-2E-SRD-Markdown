@@ -7,7 +7,7 @@ tags:
 aliases: ["Ephemeral Tracking"]
 ---
 # Ephemeral Tracking  *Feat 6*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: expert in [Survival](compendium/skills.md#Survival), warden spells
 

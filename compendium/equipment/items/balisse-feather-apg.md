@@ -12,7 +12,7 @@ tags:
 aliases: ["Balisse Feather"]
 ---
 # Balisse Feather *Item 12*  
-[consumable](rules/traits/consumable.md)  [divine](rules/traits/divine.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [talisman](rules/traits/talisman.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  
 
 - **Price** 400 gp
 - **Usage** affixed to a weapon

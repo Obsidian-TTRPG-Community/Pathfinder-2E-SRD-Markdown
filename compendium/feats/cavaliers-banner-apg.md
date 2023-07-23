@@ -11,12 +11,12 @@ tags:
 aliases: ["Cavalier's Banner"]
 ---
 # Cavalier's Banner  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [emotion](rules/traits/emotion.md)  [mental](rules/traits/mental.md)  [uncommon](rules/traits/uncommon.md)  [visual](rules/traits/visual.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Prerequisites**: [Cavalier Dedication](compendium/feats/cavalier-dedication-apg.md)
 - **Requirements**: You have pledged your service to a specific organization or ideal (see Cavalier Pledges sidebar).
 
-You fly the banner of your pledge from your mount, raising your allies' spirits. You and all allies within 30 feet gain a +1 circumstance bonus to Will saves and DCs against [fear](rules/traits/fear.md) effects.
+You fly the banner of your pledge from your mount, raising your allies' spirits. You and all allies within 30 feet gain a +1 circumstance bonus to Will saves and DCs against [fear](rules/traits/fear.md "Fear Effect Trait") effects.
 
 If your banner is destroyed or removed, allies within 30 feet become [frightened](rules/conditions.md#Frightened).
 

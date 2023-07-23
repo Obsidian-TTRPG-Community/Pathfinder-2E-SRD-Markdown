@@ -12,7 +12,7 @@ tags:
 aliases: ["Toshigami Blossom"]
 ---
 # Toshigami Blossom *Item 15*  
-[abjuration](rules/traits/abjuration.md)  [intelligent](rules/traits/intelligent-gmg.md)  [invested](rules/traits/invested.md)  [primal](rules/traits/primal.md)  [rare](rules/traits/rare.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [intelligent](rules/traits/intelligent-gmg.md "Intelligent Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** worn; **Bulk** —
 - **Category** Worn

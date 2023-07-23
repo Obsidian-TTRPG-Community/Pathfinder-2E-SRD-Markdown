@@ -8,7 +8,7 @@ tags:
 aliases: ["False Manacles"]
 ---
 # False Manacles *Item 0*  
-[uncommon](rules/traits/uncommon.md)  
+[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 10 gp
 - **Hands** 2

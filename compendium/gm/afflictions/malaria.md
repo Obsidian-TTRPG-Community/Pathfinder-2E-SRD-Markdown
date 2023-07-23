@@ -10,7 +10,7 @@ aliases: ["Malaria"]
 ---
 # Malaria
 *Disease 2*  
-[disease](rules/traits/disease.md)  
+[disease](rules/traits/disease.md "Disease Effect Trait")  
 
 A pernicious disease spread by bloodsucking insects, malaria sometimes enters long periods of dormancy. If you succumb to malaria, you may continue to be periodically affected by the disease, even if you're cured. You can't reduce your sickened condition while affected with malaria.
 

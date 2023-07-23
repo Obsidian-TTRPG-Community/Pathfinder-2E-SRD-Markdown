@@ -9,7 +9,7 @@ tags:
 aliases: ["Shield Bow"]
 ---
 # Shield Bow *Item 0*  
-[deadly <d8>](rules/traits/deadly.md)  [parry](rules/traits/parry.md)  
+[deadly <d8>](rules/traits/deadly-d8.md "Deadly Weapon Trait")  [parry](rules/traits/parry.md "Parry Weapon Trait")  
 
 - **Price** 5 gp
 - **Bulk** 1

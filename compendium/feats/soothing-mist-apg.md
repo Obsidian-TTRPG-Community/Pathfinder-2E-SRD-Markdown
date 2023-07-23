@@ -7,7 +7,7 @@ tags:
 aliases: ["Soothing Mist"]
 ---
 # Soothing Mist  *Feat 4*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: warden spells
 

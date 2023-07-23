@@ -10,12 +10,12 @@ tags:
 aliases: ["Word of Recall"]
 ---
 # Word of Recall *Ritual 7*  
-[conjuration](rules/traits/conjuration.md)  [rare](rules/traits/rare.md)  [teleportation](rules/traits/teleportation.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  
 
 - **Cast** 7 days
 - **Cost** rare oils and powdered minerals worth 5,000 gp
 - **Secondary Casters** 2
-- **Primary Checks** [Arcana](compendium/skills.md#Arcana) or [Occultism](compendium/skills.md#Occultism) (expert, the check has the [secret](rules/traits/secret.md) trait)
+- **Primary Checks** [Arcana](compendium/skills.md#Arcana) or [Occultism](compendium/skills.md#Occultism) (expert, the check has the [secret](rules/traits/secret.md "Secret General Trait") trait)
 - **Secondary Checks** [Arcana](compendium/skills.md#Arcana) or [Occultism](compendium/skills.md#Occultism) (whichever isn't used for the primary check), [Society](compendium/skills.md#Society)
 - **Range**20 feet
 - **Targets**Up to seven willing creatures of 14th level or lower
@@ -23,7 +23,7 @@ aliases: ["Word of Recall"]
 You bind yourself and your allies to the specific safe location where you perform the ritual. This allows the participants to return later by simply speaking a word.
 
 > [!success-degree] 
-> - **Success** You form the connection with the designated sanctuary. Any participant in the ritual can spend a single action, which has the [concentrate](rules/traits/concentrate.md) trait, to utter a word of power you choose when you cast the spell. When they do, all the participants can immediately return to the sanctuary from any distance, as long as they are on the same plane as the sanctuary. Each participant arrives in the position in which they were standing during the casting of the ritual. When the word is spoken, all other participants know it, and each can choose whether or not to return to the sanctuary at that time. The ritual then immediately ends.
+> - **Success** You form the connection with the designated sanctuary. Any participant in the ritual can spend a single action, which has the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") trait, to utter a word of power you choose when you cast the spell. When they do, all the participants can immediately return to the sanctuary from any distance, as long as they are on the same plane as the sanctuary. Each participant arrives in the position in which they were standing during the casting of the ritual. When the word is spoken, all other participants know it, and each can choose whether or not to return to the sanctuary at that time. The ritual then immediately ends.
 > - **Failure** You fail to form the connection between the participants and the sanctuary and are aware that the ritual has failed.
 > - **Critical Failure** The ritual inadvertently forms a connection with a location on another plane. The casters are unaware of this misalignment. When the word is invoked, all ritual participants are shifted to this extraplanar location.
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Wandering Oasis"]
 ---
 # Wandering Oasis  *Feat 12*  
-[druid](rules/traits/druid.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  
 
 - **Prerequisites**: master in [Survival](compendium/skills.md#Survival)
 

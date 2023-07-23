@@ -7,7 +7,7 @@ tags:
 aliases: ["Instrument Of Zeal"]
 ---
 # Instrument Of Zeal  *Feat 16*  
-[champion](rules/traits/champion.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  
 
 - **Prerequisites**: divine ally (blade), tenets of good
 

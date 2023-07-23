@@ -14,7 +14,7 @@ tags:
 aliases: ["Lethargy Poison"]
 ---
 # Lethargy Poison *Item 2*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [incapacitation](rules/traits/incapacitation.md)  [injury](rules/traits/injury.md)  [poison](rules/traits/poison.md)  [sleep](rules/traits/sleep.md)  [uncommon](rules/traits/uncommon.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [injury](rules/traits/injury.md "Injury Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [sleep](rules/traits/sleep.md "Sleep Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 7 gp
 - **Usage** held in 2 hands; **Bulk** L

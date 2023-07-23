@@ -9,7 +9,7 @@ tags:
 aliases: ["Recover Spell"]
 ---
 # Recover Spell  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
-[archetype](rules/traits/archetype.md)  [concentrate](rules/traits/concentrate.md)  [metamagic](rules/traits/metamagic.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 - **Prerequisites**: [Spellmaster Dedication](compendium/feats/spellmaster-dedication-locg.md)
 - **Requirements**: An enemy's action disrupted your attempts to [Cast a Spell](rules/actions/cast-a-spell.md) since the beginning of your last turn.

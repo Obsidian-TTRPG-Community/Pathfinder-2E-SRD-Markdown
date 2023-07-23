@@ -13,13 +13,13 @@ tags:
 - trait/visual
 aliases: ["Arqueros", "The Golden Bulwark"]
 ---
-# Arqueros (The Golden Bulwark) *([LG](rules/traits/lawful-goo-b1.md))*  
+# Arqueros (The Golden Bulwark) *([LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"))*  
 *Source: Lost Omens: Knights of Lastwall p. 53*  
 
 - **Category**: Other Gods
 - **Anathema**: abandon others while you retreat, engage in needless destruction or bloodshed, intentionally fall asleep or grow lax on watch
 - **Areas of Concern**: bodyguards, , protection, , watchfulness
-- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [NG](rules/traits/neutral-good-b1.md), [LN](rules/traits/lawful-neutral-b1.md)
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait")
 
 ## Devotee benefits
 
@@ -36,6 +36,6 @@ title: [Avatar](compendium/spells/avatar.md) of Arqueros
 
 - **Speed**: Speed 60 feet, immune to [immobilized](rules/conditions.md#Immobilized)
 - **Shield**: shield (15 Hardness, can't be damaged)
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") spear ([reach <15 feet>](rules/traits/reach.md)), **Damage** `6d8+6` piercing
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") gaze of the stalwart guardian ([visual](rules/traits/visual.md)), **Damage** `6d6+3` mental
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") spear ([reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait")), **Damage** `6d8+6` piercing
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") gaze of the stalwart guardian ([visual](rules/traits/visual.md "Visual Effect Trait")), **Damage** `6d6+3` mental
 ```

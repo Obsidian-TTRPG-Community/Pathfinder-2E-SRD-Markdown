@@ -9,7 +9,7 @@ tags:
 aliases: ["Greatclub"]
 ---
 # Greatclub *Item 0*  
-[backswing](rules/traits/backswing.md)  [shove](rules/traits/shove.md)  
+[backswing](rules/traits/backswing.md "Backswing Weapon Trait")  [shove](rules/traits/shove.md "Shove Weapon Trait")  
 
 - **Price** 1 gp
 - **Bulk** 2

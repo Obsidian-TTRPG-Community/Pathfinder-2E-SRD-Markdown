@@ -10,7 +10,7 @@ tags:
 aliases: ["Treat Condition"]
 ---
 # Treat Condition  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  [healing](rules/traits/healing.md)  [manipulate](rules/traits/manipulate.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Medic Dedication](compendium/feats/medic-dedication-apg.md)
 - **Requirements**: You are holding healer's tools, or you are wearing them and have a hand free.

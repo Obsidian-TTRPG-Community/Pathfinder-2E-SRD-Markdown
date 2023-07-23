@@ -10,7 +10,7 @@ tags:
 aliases: ["Cloister Robe"]
 ---
 # Cloister Robe *Item 9+*  
-[abjuration](rules/traits/abjuration.md)  [divine](rules/traits/divine.md)  [invested](rules/traits/invested.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  
 
 - **Usage** worn garment; **Bulk** 1
 - **Category** Worn

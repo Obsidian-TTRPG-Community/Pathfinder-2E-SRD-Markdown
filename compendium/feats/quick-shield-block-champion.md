@@ -7,7 +7,7 @@ tags:
 aliases: ["Quick Shield Block (Champion)"]
 ---
 # Quick Shield Block (Champion)  *Feat 8*  
-[champion](rules/traits/champion.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  
 
 - **Prerequisites**: [Shield Block](compendium/feats/shield-block.md)
 

@@ -10,12 +10,12 @@ tags:
 - domain/protection/deity
 aliases: ["Trudd", "The Mighty"]
 ---
-# Trudd (The Mighty) *([NG](rules/traits/neutral-good-b1.md))*  
+# Trudd (The Mighty) *([NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 126*  
 
 - **Category**: Dwarven Gods
 - **Anathema**: engage in petty showcases of strength, use your strength to take advantage of others
-- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [NG](rules/traits/neutral-good-b1.md)
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait")
 
 ## Devotee benefits
 

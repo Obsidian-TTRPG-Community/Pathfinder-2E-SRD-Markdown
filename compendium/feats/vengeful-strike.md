@@ -8,7 +8,7 @@ tags:
 aliases: ["Vengeful Strike"]
 ---
 # Vengeful Strike  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 14*  
-[barbarian](rules/traits/barbarian.md)  [rage](rules/traits/rage.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [rage](rules/traits/rage.md "Rage Combat Trait")  
 
 - **Prerequisites**: [Come and Get Me](compendium/feats/come-and-get-me.md)
 - **Trigger** A creature within your reach succeeds or critically succeeds at an attack against you.

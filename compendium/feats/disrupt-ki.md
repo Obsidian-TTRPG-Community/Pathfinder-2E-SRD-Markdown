@@ -8,7 +8,7 @@ tags:
 aliases: ["Disrupt Ki"]
 ---
 # Disrupt Ki  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 12*  
-[monk](rules/traits/monk.md)  [negative](rules/traits/negative.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  
 
 - **Activity** Two-Action
 

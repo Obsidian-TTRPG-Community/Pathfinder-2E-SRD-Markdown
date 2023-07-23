@@ -7,7 +7,7 @@ tags:
 aliases: ["Hungry Goblin"]
 ---
 # Hungry Goblin  *Feat 9*  
-[goblin](rules/traits/goblin.md)  
+[goblin](rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Fang Sharpener](compendium/feats/fang-sharpener-locg.md)
 

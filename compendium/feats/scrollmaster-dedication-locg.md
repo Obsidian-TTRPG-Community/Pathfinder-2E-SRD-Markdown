@@ -9,7 +9,7 @@ tags:
 aliases: ["Scrollmaster Dedication"]
 ---
 # Scrollmaster Dedication  *Feat 6*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: expert in any [Lore](compendium/skills.md#Lore) skill, member of the Pathfinder Society affiliated with the School of Scrolls
 

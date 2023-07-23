@@ -66,12 +66,12 @@ An item's activate entry lists the components required to activate its abilities
 #### Command
 <sup>CRB p. 533</sup>
 
-This component is a specific utterance you must make in a loud and strong voice. Activate an Item gains the auditory and [concentrate](rules/traits/concentrate.md)s. You must be able to speak to provide this component.
+This component is a specific utterance you must make in a loud and strong voice. Activate an Item gains the auditory and [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")s. You must be able to speak to provide this component.
 
 #### Envision
 <sup>CRB p. 533</sup>
 
-This component is a specific image or phenomenon you need to imagine. Activate an Item gains the [concentrate](rules/traits/concentrate.md).
+This component is a specific image or phenomenon you need to imagine. Activate an Item gains the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait").
 
 #### Interact
 <sup>CRB p. 533</sup>
@@ -211,17 +211,17 @@ Runes must be etched onto permanent items, such as armor, weapons, or [runestone
 > 
 > The following traits apply to items. Some specific categories of item have special traits—such as elixir or scroll—described in their sections.
 > 
-> **[Alchemical](rules/traits/alchemical.md):** Alchemical items are powered by the reactions of alchemical reagents. Alchemical items aren't magical, and they don't radiate a magical aura. Characters can Craft these items only if they have the [Alchemical Crafting](compendium/feats/alchemical-crafting.md) feat (page 258).
+> **[Alchemical](rules/traits/alchemical.md "Alchemical Item Trait"):** Alchemical items are powered by the reactions of alchemical reagents. Alchemical items aren't magical, and they don't radiate a magical aura. Characters can Craft these items only if they have the [Alchemical Crafting](compendium/feats/alchemical-crafting.md) feat (page 258).
 > 
-> **[Consumable](rules/traits/consumable.md):** An item with this trait can be used only once. Unless stated otherwise, it's destroyed after activation, though, part of it might be recoverable for other purposes.
+> **[Consumable](rules/traits/consumable.md "Consumable Item Trait"):** An item with this trait can be used only once. Unless stated otherwise, it's destroyed after activation, though, part of it might be recoverable for other purposes.
 > 
 > For instance, while a potion is consumable, the vial it comes in is not destroyed when you drink it. Consumable items include alchemical items (page 543) as well as ammunition oils, potions, scrolls, snares, talismans, and other magical consumables (which begin on page 559).
 > 
 > When a character creates consumable items, she can make them in batches of four, as described in Consumables and Ammunition (page 245).
 > 
-> **[Focused](rules/traits/focused.md):** An item with this trait can give you an additional Focus Point. This focus point is separate from your focus pool and doesn't count toward the cap on your focus pool. You can gain this benefit only if you have a focus pool, and there might be restrictions on how the point can be used. You can't gain more than 1 Focus Point per day from focused items, no matter how many focused items you have.
+> **[Focused](rules/traits/focused.md "Focused Item Trait"):** An item with this trait can give you an additional Focus Point. This focus point is separate from your focus pool and doesn't count toward the cap on your focus pool. You can gain this benefit only if you have a focus pool, and there might be restrictions on how the point can be used. You can't gain more than 1 Focus Point per day from focused items, no matter how many focused items you have.
 > 
-> **[Invested](rules/traits/invested.md):** A character can wear only 10 magical items that have the invested trait. None of the magical effects of the item apply if the character hasn't invested it, though the character still gains any normal benefits from wearing the physical item (like a hat keeping rain off a character's head).
+> **[Invested](rules/traits/invested.md "Invested Item Trait"):** A character can wear only 10 magical items that have the invested trait. None of the magical effects of the item apply if the character hasn't invested it, though the character still gains any normal benefits from wearing the physical item (like a hat keeping rain off a character's head).
 > 
 > **Magical:** Items with this trait are imbued with magical energies. Each one radiates a magic aura infused with its dominant school of magic (abjuration, conjuration, divination, enchantment, evocation, illusion, necromancy, or transmutation; these are described on pages 297 –298).
 > 
@@ -427,7 +427,7 @@ The process to [Craft](rules/actions/craft.md) a scroll is much like that to [Cr
 
 You can't [Craft](rules/actions/craft.md) a scroll from a spell produced from another magic item, for example. The caster has to provide any cost of the spell. You need to learn only a single 1st-level formula to Craft scrolls.
 
-Like other [consumables](rules/traits/consumable.md), scrolls can be crafted in batches of four. All scrolls of one batch must contain the same spell at the same level, and you must provide one casting for each scroll crafted.
+Like other consumables, scrolls can be crafted in batches of four. All scrolls of one batch must contain the same spell at the same level, and you must provide one casting for each scroll crafted.
 
 #### Sample Scrolls
 <sup>CRB p. 565</sup>
@@ -438,7 +438,7 @@ A wide variety of spells can appear on scrolls. The following specific scrolls a
 title: Scroll of Illusory Disguise
 collapse: closed
 # Scroll of Illusory Disguise *Item 1*  
-[consumable](rules/traits/consumable.md)  [illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  [scroll](rules/traits/scroll.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [scroll](rules/traits/scroll.md "Scroll Item Trait")  
 
 - **Price** 3 gp
 - **Usage** held in 1 hand; **Bulk** L
@@ -454,7 +454,7 @@ This scroll can cast [illusory disguise](compendium/spells/illusory-disguise.md)
 title: Scroll of Glitterdust
 collapse: closed
 # Scroll of Glitterdust *Item 3*  
-[consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [scroll](rules/traits/scroll.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [scroll](rules/traits/scroll.md "Scroll Item Trait")  
 
 - **Price** 12 gp
 - **Usage** held in 1 hand; **Bulk** L
@@ -557,7 +557,7 @@ Each rune can be etched into a specific type of armor or weapon, as indicated in
 ### Investiture
 <sup>CRB p. 580</sup>
 
-If a suit of armor has any runes, it has the [invested](rules/traits/invested.md) trait, requiring you to invest it to get its magical benefits.
+If a suit of armor has any runes, it has the [invested](rules/traits/invested.md "Invested Item Trait") trait, requiring you to invest it to get its magical benefits.
 
 ### Rune Formulas
 <sup>CRB p. 580</sup>
@@ -756,7 +756,7 @@ Each type of wand has a Level and Price determined by the spell's level. The wan
 > title: Wand of Heal
 > collapse: closed
 > # Wand of Heal *Item 3+*  
-> [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [positive](rules/traits/positive.md)  [wand](rules/traits/wand.md)  
+> [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
 > 
 > - **Usage** held in 1 hand; **Bulk** L
 > - **Category** Wand
@@ -782,7 +782,7 @@ The casting must come from a spellcaster expending a spell slot. You can't make 
 ### Magic Wand
 <sup>CRB p. 597</sup>
 
-The simplest form of wand contains a spell, with Price and level based on that spell. The wand has the [magical](rules/traits/magical.md) and [wand](rules/traits/wand.md) traits, as well as the traits the spell has. The name of a magic wand with a spell in it is simply "wand of," followed by the spell's name. You only need to learn one 1st-level formula to [Craft](rules/actions/craft.md) a _magic wand_.
+The simplest form of wand contains a spell, with Price and level based on that spell. The wand has the [magical](rules/traits/magical.md "Magical Item Trait") and [wand](rules/traits/wand.md "Wand Item Trait") traits, as well as the traits the spell has. The name of a magic wand with a spell in it is simply "wand of," followed by the spell's name. You only need to learn one 1st-level formula to [Craft](rules/actions/craft.md) a _magic wand_.
 
 ### Specialty Wands
 <sup>CRB p. 598</sup>

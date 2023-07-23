@@ -10,7 +10,7 @@ tags:
 aliases: ["Mukradi Summoning Runes"]
 ---
 # Mukradi Summoning Runes *Hazard 15*  
-[complex](rules/traits/complex.md)  [magical](rules/traits/magical.md)  [trap](rules/traits/trap.md)  [uncommon](rules/traits/uncommon.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Complexity** Complex
 - **Stealth** +25 master to notice runes marked on the floor.  
@@ -21,7 +21,7 @@ Barely visible runes are etched into the stone floor in a 20-foot diameter circl
      
 ```ad-embed-ability
 title: Summon Monster [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[conjuration](rules/traits/conjuration.md)  [occult](rules/traits/occult.md)  summon  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  summon  
 
 - **Trigger**: A creature enters the circle without uttering the passphrase, "Praise to the Water Lizard"
 

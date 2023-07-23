@@ -13,7 +13,7 @@ tags:
 aliases: ["Dread Blindfold"]
 ---
 # Dread Blindfold *Item 17*  
-[emotion](rules/traits/emotion.md)  [enchantment](rules/traits/enchantment.md)  [fear](rules/traits/fear.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  
+[emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 - **Price** 15000 gp
 - **Usage** worn eyepiece; **Bulk** —
@@ -21,7 +21,7 @@ aliases: ["Dread Blindfold"]
 
 When tied over your eyes, this ragged strip of black linen gives you a +3 item bonus to [Intimidation](compendium/skills.md#Intimidation) checks and [darkvision](rules/abilities/darkvision.md). You can see through the blindfold, but only using [darkvision](rules/abilities/darkvision.md).
 
-The first time a particular creature sees you in a day, it must succeed at a DC 37 Will save or be [frightened](rules/conditions.md#Frightened). This is an emotion, [fear](rules/traits/fear.md), and [mental](rules/traits/mental.md) effect, and your allies become immune to it after about a week.
+The first time a particular creature sees you in a day, it must succeed at a DC 37 Will save or be [frightened](rules/conditions.md#Frightened). This is an emotion, [fear](rules/traits/fear.md "Fear Effect Trait"), and [mental](rules/traits/mental.md "Mental Effect Trait") effect, and your allies become immune to it after about a week.
 
 ```ad-embed-ability
 title: Activate [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")

@@ -12,7 +12,7 @@ tags:
 aliases: ["Fire Poi"]
 ---
 # Fire Poi *Item 0*  
-[agile](rules/traits/agile.md)  [backswing](rules/traits/backswing.md)  [finesse](rules/traits/finesse.md)  [twin](rules/traits/twin.md)  [uncommon](rules/traits/uncommon.md)  
+[agile](rules/traits/agile.md "Agile Weapon Trait")  [backswing](rules/traits/backswing.md "Backswing Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [twin](rules/traits/twin.md "Twin Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 50 sp
 - **Bulk** L

@@ -7,7 +7,7 @@ tags:
 aliases: ["Escape Timeline"]
 ---
 # Escape Timeline  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Chronoskimmer Dedication](compendium/feats/chronoskimmer-dedication-da.md)
 - **Frequency**: once per day

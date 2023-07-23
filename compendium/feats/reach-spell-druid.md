@@ -9,7 +9,7 @@ tags:
 aliases: ["Reach Spell (Druid)"]
 ---
 # Reach Spell (Druid)  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
-[concentrate](rules/traits/concentrate.md)  [druid](rules/traits/druid.md)  [metamagic](rules/traits/metamagic.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [druid](rules/traits/druid.md "Druid Class Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 - **Activity** Single Action
 

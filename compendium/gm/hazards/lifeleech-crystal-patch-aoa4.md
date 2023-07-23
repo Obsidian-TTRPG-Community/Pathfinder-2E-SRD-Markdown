@@ -8,7 +8,7 @@ tags:
 aliases: ["Lifeleech Crystal Patch"]
 ---
 # Lifeleech Crystal Patch *Hazard 11*  
-[environmental](rules/traits/environmental.md)  [magical](rules/traits/magical.md)  
+[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 30 expert or [detect magic](compendium/spells/detect-magic.md) to note the presence of necromantic energies suffusing the crystals.  

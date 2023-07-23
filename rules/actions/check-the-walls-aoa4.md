@@ -9,7 +9,7 @@ tags:
 aliases: ["Check the Walls"]
 ---
 # Check the Walls
-[exploration](rules/traits/exploration.md)  [secret](rules/traits/secret.md)  
+[exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [secret](rules/traits/secret.md "Secret General Trait")  
 *Source: Age of Ashes #4: Fires of the Haunted City p. 18*  
 
 

@@ -11,7 +11,7 @@ tags:
 aliases: ["Spiked Chain"]
 ---
 # Spiked Chain *Item 0*  
-[disarm](rules/traits/disarm.md)  [finesse](rules/traits/finesse.md)  [trip](rules/traits/trip.md)  [uncommon](rules/traits/uncommon.md)  
+[disarm](rules/traits/disarm.md "Disarm Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [trip](rules/traits/trip.md "Trip Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 3 gp
 - **Bulk** 1

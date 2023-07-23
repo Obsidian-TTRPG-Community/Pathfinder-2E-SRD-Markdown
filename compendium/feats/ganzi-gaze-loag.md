@@ -7,7 +7,7 @@ tags:
 aliases: ["Ganzi Gaze"]
 ---
 # Ganzi Gaze  *Feat 1*  
-[ganzi](rules/traits/ganzi-loag.md)  
+[ganzi](rules/traits/ganzi-loag.md "Ganzi Ancestry & Heritage Trait")  
 
 
 You have unusual sensory abilities passed down from your chaotic forebears. You gain [low-light vision](rules/abilities/low-light-vision.md). If you already have [low-light vision](rules/abilities/low-light-vision.md), you gain [darkvision](rules/abilities/darkvision.md) instead.

@@ -9,7 +9,7 @@ tags:
 aliases: ["Astonishing Explosion"]
 ---
 # Astonishing Explosion  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 20*  
-[additive <2>](rules/traits/additive.md)  [alchemist](rules/traits/alchemist.md)  [uncommon](rules/traits/uncommon.md)  
+[additive <2>](rules/traits/additive-2.md "Additive Feat Trait")  [alchemist](rules/traits/alchemist.md "Alchemist Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Frequency**: once per minute
 - **Trigger** You use [Quick Alchemy](rules/actions/quick-alchemy.md) to craft an alchemical bomb that deals splash damage and is at least 2 levels lower than your advanced alchemy level.

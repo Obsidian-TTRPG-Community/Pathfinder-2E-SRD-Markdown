@@ -12,7 +12,7 @@ tags:
 aliases: ["Influence Regent"]
 ---
 # Influence Regent
-[auditory](rules/traits/auditory.md)  [concentrate](rules/traits/concentrate.md)  [linguistic](rules/traits/linguistic.md)  [mental](rules/traits/mental.md)  [secret](rules/traits/secret.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [secret](rules/traits/secret.md "Secret General Trait")  
 *Source: Age of Ashes #4: Fires of the Haunted City p. 18*  
 
 

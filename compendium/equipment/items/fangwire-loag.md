@@ -14,7 +14,7 @@ tags:
 aliases: ["Fangwire"]
 ---
 # Fangwire *Item 0*  
-[agile](rules/traits/agile.md)  [backstabber](rules/traits/backstabber.md)  [deadly <1d8>](rules/traits/deadly.md)  [finesse](rules/traits/finesse.md)  [grapple](rules/traits/grapple.md)  [kobold](rules/traits/kobold-b1.md)  [uncommon](rules/traits/uncommon.md)  
+[agile](rules/traits/agile.md "Agile Weapon Trait")  [backstabber](rules/traits/backstabber.md "Backstabber Weapon Trait")  [deadly <1d8>](rules/traits/deadly-1d8.md "Deadly Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [grapple](rules/traits/grapple.md "Grapple Weapon Trait")  [kobold](rules/traits/kobold-b1.md "Kobold Ancestry & Heritage Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 4 gp
 - **Bulk** L

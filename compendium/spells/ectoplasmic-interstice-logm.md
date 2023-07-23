@@ -9,7 +9,7 @@ tags:
 aliases: ["Ectoplasmic Interstice"]
 ---
 # Ectoplasmic Interstice *Focus 4*   
-[necromancy](rules/traits/necromancy.md)  
+[necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 - **Domains**: [soul](compendium/setting/domains.md#Soul)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

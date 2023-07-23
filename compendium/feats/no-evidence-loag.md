@@ -7,7 +7,7 @@ tags:
 aliases: ["No Evidence"]
 ---
 # No Evidence  *Feat 9*  
-[catfolk](rules/traits/catfolk-b1.md)  
+[catfolk](rules/traits/catfolk-b1.md "Catfolk Ancestry & Heritage Trait")  
 
 - **Prerequisites**: expert in [Survival](compendium/skills.md#Survival)
 

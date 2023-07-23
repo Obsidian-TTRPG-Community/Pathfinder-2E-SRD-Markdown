@@ -7,7 +7,7 @@ tags:
 aliases: ["Catfolk Dance"]
 ---
 # Catfolk Dance  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
-[catfolk](rules/traits/catfolk-b1.md)  
+[catfolk](rules/traits/catfolk-b1.md "Catfolk Ancestry & Heritage Trait")  
 
 - **Activity** Single Action
 

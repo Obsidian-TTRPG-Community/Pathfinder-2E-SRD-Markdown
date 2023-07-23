@@ -7,7 +7,7 @@ tags:
 aliases: ["Selfless Parry"]
 ---
 # Selfless Parry  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Dueling Parry](compendium/feats/dueling-parry-apg.md), [Duelist Dedication](compendium/feats/duelist-dedication-apg.md)
 

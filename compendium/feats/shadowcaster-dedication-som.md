@@ -9,11 +9,11 @@ tags:
 aliases: ["Shadowcaster Dedication"]
 ---
 # Shadowcaster Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: ability to cast spells
 
-You've sacrificed a piece of your spirit, allowing the powers of shadow into your being and changing the nature of your magic. You can no longer cast spells that have the [light](rules/traits/light.md) trait; if an ability, such as a class feature or ancestry feat, would automatically grant you a [light](compendium/spells/light.md) spell, such as the Domain Initiate feat granting you the [dazzling flash](compendium/spells/dazzling-flash.md) spell, you don't gain that spell.
+You've sacrificed a piece of your spirit, allowing the powers of shadow into your being and changing the nature of your magic. You can no longer cast spells that have the [light](rules/traits/light.md "Light Effect Trait") trait; if an ability, such as a class feature or ancestry feat, would automatically grant you a [light](compendium/spells/light.md) spell, such as the Domain Initiate feat granting you the [dazzling flash](compendium/spells/dazzling-flash.md) spell, you don't gain that spell.
 
 You gain the [cloak of shadow](compendium/spells/cloak-of-shadow.md) domain spell. It costs 1 Focus Point to cast a focus spell. This feat grants a focus pool of 1 Focus Point that you can recover using the [Refocus](rules/actions/refocus.md) activity. You can [Refocus](rules/actions/refocus.md) by meditating to siphon power from the Shadow Plane and refill your focus pool. Your domain spells from the shadowcaster archetype are of the same tradition as the spells you used to meet the shadowcaster archetype's prerequisites.
 

@@ -10,7 +10,7 @@ tags:
 aliases: ["Electric Latch Rune"]
 ---
 # Electric Latch Rune *Hazard 3*  
-[electricity](rules/traits/electricity.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [trap](rules/traits/trap.md)  
+[electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 20 trained  
@@ -21,7 +21,7 @@ An [invisible](rules/conditions.md#Invisible) rune imprinted on a door latch rel
      
 ```ad-embed-ability
 title: Electrocution [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[arcane](rules/traits/arcane.md)  [electricity](rules/traits/electricity.md)  [evocation](rules/traits/evocation.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
 - **Trigger**: A creature grasps the door latch directly or with a tool.
 

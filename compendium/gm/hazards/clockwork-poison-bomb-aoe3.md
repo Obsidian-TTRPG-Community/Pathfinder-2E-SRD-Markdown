@@ -10,7 +10,7 @@ tags:
 aliases: ["Clockwork Poison Bomb"]
 ---
 # Clockwork Poison Bomb *Hazard 11*  
-[alchemical](rules/traits/alchemical.md)  [complex](rules/traits/complex.md)  [mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** The bomb uses Oggvurm's initiative roll as its [Stealth](compendium/skills.md#Stealth) roll.  
@@ -27,7 +27,7 @@ A clockwork bomb releases gouts of poisonous smoke. The smoke issues forth from 
      
 ```ad-embed-ability
 title: Poisonous Cloud [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[alchemical](rules/traits/alchemical.md)  [poison](rules/traits/poison.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Trigger**: The bomb is Activated, which requires 3 actions
 

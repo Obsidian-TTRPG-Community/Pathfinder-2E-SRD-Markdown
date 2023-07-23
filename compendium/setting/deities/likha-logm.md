@@ -12,12 +12,12 @@ tags:
 - trait/reach-20-feet
 aliases: ["Likha", "The Teller"]
 ---
-# Likha (The Teller) *([N](rules/traits/neutral-b1.md))*  
+# Likha (The Teller) *([N](rules/traits/n-b1.md "Neutral Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 132*  
 
 - **Category**: Vudrani Gods
 - **Anathema**: begin a performance or tale without first inviting the gods to watch, act out a death on stage
-- **Follower Alignments**: [LN](rules/traits/lawful-neutral-b1.md), [NG](rules/traits/neutral-good-b1.md), [N](rules/traits/neutral-b1.md), [CN](rules/traits/chaotic-neutral-b1.md)
+- **Follower Alignments**: [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")
 
 ## Devotee benefits
 
@@ -32,6 +32,6 @@ aliases: ["Likha", "The Teller"]
 title: [Avatar](compendium/spells/avatar.md) of Likha
 
 - **Speed**: Speed 70 feet, immune to [immobilized](rules/conditions.md#Immobilized)
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") trunk ([disarm](rules/traits/disarm.md), [reach <20 feet>](rules/traits/reach.md)), **Damage** `6d6+6` bludgeoning plus grasping trunk
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") trunk ([disarm](rules/traits/disarm.md "Disarm Weapon Trait"), [reach <20 feet>](rules/traits/reach-20-feet.md "Reach Weapon Trait")), **Damage** `6d6+6` bludgeoning plus grasping trunk
 - **Grasping Trunk**: A Large or smaller creature hit by the avatar's trunk is [grabbed](rules/conditions.md#Grabbed). If the avatar moves, it can bring the [grabbed](rules/conditions.md#Grabbed) creature along with it.
 ```

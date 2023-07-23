@@ -9,7 +9,7 @@ tags:
 aliases: ["Sovereign Glue"]
 ---
 # Sovereign Glue *Item 7*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  
 
 - **Price** 55 gp
 - **Usage** held in 1 hand; **Bulk** L

@@ -9,7 +9,7 @@ tags:
 aliases: ["Orichalcum"]
 ---
 # Orichalcum *Item 17+*  
-[precious](rules/traits/precious.md)  [rare](rules/traits/rare.md)  
+[precious](rules/traits/precious.md "Precious Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Category** Material
 
@@ -18,11 +18,11 @@ The most rare and valuable skymetal, orichalcum is coveted for its incredible ti
 | Orichalcum Items | Hardness | HP | BT |
 |------------------|----------|----|----|
 | **Thin Items** |  |  |  |
-| High-grade | 16 | 64 | 32 |
+| multiRow |  |
 | **Items** |  |  |  |
-| High-grade | 18 | 72 | 36 |
+| multiRow |  |
 | **Structures** |  |  |  |
-| High-grade | 35 | 140 | 70 |
+| multiRow |  |
 
 
 *Source: Core Rulebook p. 579*

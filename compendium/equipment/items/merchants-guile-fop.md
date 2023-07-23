@@ -10,7 +10,7 @@ tags:
 aliases: ["Merchant's Guile"]
 ---
 # Merchant's Guile *Item 5*  
-[enchantment](rules/traits/enchantment.md)  [invested](rules/traits/invested.md)  [uncommon](rules/traits/uncommon.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 160 gp
 - **Usage** worn

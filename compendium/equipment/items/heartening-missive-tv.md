@@ -11,7 +11,7 @@ tags:
 aliases: ["Heartening Missive"]
 ---
 # Heartening Missive *Item 5+*  
-[abjuration](rules/traits/abjuration.md)  [consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [missive](rules/traits/missive-tv.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [missive](rules/traits/missive-tv.md "Missive Item Trait")  
 
 - **Usage** held in 1 hand; **Bulk** —
 - **Activate** envision, , [Interact](rules/actions/interact.md)

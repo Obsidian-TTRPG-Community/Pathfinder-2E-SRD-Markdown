@@ -7,7 +7,7 @@ tags:
 aliases: ["Roll With It"]
 ---
 # Roll With It  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 9*  
-[goblin](rules/traits/goblin.md)  
+[goblin](rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  
 
 - **Prerequisites**: unbreakable goblin heritage, [Bouncy Goblin](compendium/feats/bouncy-goblin-locg.md)
 - **Trigger** A foe hits you with a melee weapon or unarmed attack.

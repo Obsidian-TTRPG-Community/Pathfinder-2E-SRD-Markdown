@@ -11,7 +11,7 @@ tags:
 aliases: ["Air Rift"]
 ---
 # Air Rift *Hazard 14*  
-[air](rules/traits/air.md)  [complex](rules/traits/complex.md)  [environmental](rules/traits/environmental.md)  [magical](rules/traits/magical.md)  [unique](rules/traits/unique.md)  
+[air](rules/traits/air.md "Air Energy & Element Trait")  [complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Complexity** Complex
 - **Stealth** +22 master to notice the sudden breeze in the theater.  
@@ -29,14 +29,14 @@ A portal to the Plane of Air rips open onstage, causing roaring winds to tear th
 ```ad-embed-ability
 title: Earth Vulnerability
 
-The Elemental Plane of Air is opposed by the Plane of Earth. Any spell or [magical](rules/traits/magical.md) effect with the [earth](rules/traits/earth.md) trait that targets a creature or area within 50 feet of the rift deals 10 damage to the rift per spell levels (or per 2 levels for magic items, feats, and so forth). For example, a 3rd-level [earthbind](compendium/spells/earthbind.md) spell cast on a creature near the air rift deals 30 points of damage to the rift.
+The Elemental Plane of Air is opposed by the Plane of Earth. Any spell or [magical](rules/traits/magical.md "Magical Item Trait") effect with the [earth](rules/traits/earth.md "Earth Energy & Element Trait") trait that targets a creature or area within 50 feet of the rift deals 10 damage to the rift per spell levels (or per 2 levels for magic items, feats, and so forth). For example, a 3rd-level [earthbind](compendium/spells/earthbind.md) spell cast on a creature near the air rift deals 30 points of damage to the rift.
 ```
 ```ad-embed-ability
 title: Weightlessness [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature comes within 50 feet of the rift
 
-**Effect** The air rift creates a shroud of subjective gravity around the creature for 1 minute. The creature can use a free action, which has the [concentrate](rules/traits/concentrate.md) trait, to choose any direction they wish for gravity to pull them. This allows a creature to [Stride](rules/actions/stride.md) along any surface or [Fly](rules/actions/fly.md) in a straight line by choosing a direction into midair. For unattended objects and mindless creatures, this is microgravity: they float in place unless pushed off a surface.
+**Effect** The air rift creates a shroud of subjective gravity around the creature for 1 minute. The creature can use a free action, which has the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") trait, to choose any direction they wish for gravity to pull them. This allows a creature to [Stride](rules/actions/stride.md) along any surface or [Fly](rules/actions/fly.md) in a straight line by choosing a direction into midair. For unattended objects and mindless creatures, this is microgravity: they float in place unless pushed off a surface.
 ```
 
 ```ad-pf2-summary

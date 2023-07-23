@@ -8,7 +8,7 @@ tags:
 aliases: ["Shield Sconce"]
 ---
 # Shield Sconce *Item 0*  
-[uncommon](rules/traits/uncommon.md)  
+[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1 sp
 - **Category** Adventuring Gear

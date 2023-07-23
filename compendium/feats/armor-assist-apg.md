@@ -8,7 +8,7 @@ tags:
 aliases: ["Armor Assist"]
 ---
 # Armor Assist  *Feat 1*  
-[general](rules/traits/general.md)  [skill](rules/traits/skill.md)  
+[general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: trained in [Athletics](compendium/skills.md#Athletics) or [Warfare Lore](compendium/skills.md#Lore)
 

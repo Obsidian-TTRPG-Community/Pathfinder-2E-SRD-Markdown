@@ -7,7 +7,7 @@ tags:
 aliases: ["Defy Death"]
 ---
 # Defy Death  *Feat 5*  
-[orc](rules/traits/orc.md)  
+[orc](rules/traits/orc.md "Orc Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Orc Ferocity](compendium/feats/orc-ferocity.md)
 

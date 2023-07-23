@@ -7,7 +7,7 @@ tags:
 aliases: ["Bullseye"]
 ---
 # Bullseye  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Activity** Single Action
 

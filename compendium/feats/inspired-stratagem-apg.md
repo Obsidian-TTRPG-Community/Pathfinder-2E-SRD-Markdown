@@ -9,7 +9,7 @@ tags:
 aliases: ["Inspired Stratagem"]
 ---
 # Inspired Stratagem  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
-[fortune](rules/traits/fortune.md)  [linguistic](rules/traits/linguistic.md)  [rogue](rules/traits/rogue.md)  
+[fortune](rules/traits/fortune.md "Fortune Effect Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Trigger** One of the required allies is about to attempt an attack roll or skill check.
 - **Requirements**: You spent 10 minutes during your daily preparations reviewing stratagems for the day's adventures with up to four allies.

@@ -8,7 +8,7 @@ tags:
 aliases: ["Environmental Grace"]
 ---
 # Environmental Grace  *Feat 7*  
-[general](rules/traits/general.md)  [skill](rules/traits/skill.md)  
+[general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: master in [Survival](compendium/skills.md#Survival); deity who grants the cold, fire, nature, or travel domain
 

@@ -8,7 +8,7 @@ tags:
 aliases: ["Palm an Object"]
 ---
 # Palm an Object (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[manipulate](rules/traits/manipulate.md)  
+[manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 *Source: Core Rulebook p. 253*  
 
 **Skill** [thievery](compendium/skills.md#Thievery) (untrained)

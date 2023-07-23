@@ -10,7 +10,7 @@ tags:
 aliases: ["Remember The Lost"]
 ---
 # Remember The Lost *Focus 4*   
-[divination](rules/traits/divination.md)  [mental](rules/traits/mental.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 - **Domains**: [vigil](compendium/setting/domains.md#Vigil)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

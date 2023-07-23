@@ -15,7 +15,7 @@ You are one of the Zephyr Guard, professional soldiers who protect Katapesh from
 title: Zephyr Guard Dedication, Feat 2
 collapse: closed
 # Zephyr Guard Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: You are from Katapesh.
 - **Prerequisites**: member of the Zephyr Guard
@@ -25,14 +25,14 @@ As a Zephyr Guard, you're always vigilant against crime and threats to the city'
 **Special.** You can't select another dedication feat until you have gained two other feats from the Zephyr Guard archetype.
 
 *Source: Age of Ashes #5: Against the Scarlet Triad p. 81*  
-%% #trait/uncommon #trait/archetype #trait/dedication %%
+%% #trait/archetype #trait/dedication #trait/uncommon %%
 ```  
 
 ```ad-embed-feat
 title: Know The Beat, Feat 3
 collapse: closed
 # Know The Beat  *Feat 3*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Zephyr Guard Dedication](compendium/feats/zephyr-guard-dedication-aoa5.md)
 
@@ -46,7 +46,7 @@ You become trained in your choice of [Guild Lore](compendium/skills.md#Lore), [L
 title: Decry Thief, Feat 4
 collapse: closed
 # Decry Thief  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Zephyr Guard Dedication](compendium/feats/zephyr-guard-dedication-aoa5.md), trained in [Intimidation](compendium/skills.md#Intimidation)
 
@@ -64,7 +64,7 @@ When you attempt to [Demoralize](rules/actions/demoralize.md), you can make it h
 title: Relentless Disarm, Feat 6
 collapse: closed
 # Relentless Disarm  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Zephyr Guard Dedication](compendium/feats/zephyr-guard-dedication-aoa5.md), trained in [Athletics](compendium/skills.md#Athletics)
 
@@ -80,7 +80,7 @@ When you critically succeed at a [Disarm](rules/actions/disarm.md) check, you ca
 title: Unfazed Assessment, Feat 8
 collapse: closed
 # Unfazed Assessment  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Zephyr Guard Dedication](compendium/feats/zephyr-guard-dedication-aoa5.md), expert in [Perception](compendium/skills.md#Perception)
 - **Activity** Single Action

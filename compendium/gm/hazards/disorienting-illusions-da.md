@@ -10,7 +10,7 @@ tags:
 aliases: ["Disorienting Illusions"]
 ---
 # Disorienting Illusions *Hazard 1*  
-[illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  [trap](rules/traits/trap.md)  [visual](rules/traits/visual.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 20  
@@ -21,7 +21,7 @@ Illusions cloaking this chamber cause it to appear distorted and constantly shif
      
 ```ad-embed-ability
 title: Disorient [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[arcane](rules/traits/arcane.md)  [illusion](rules/traits/illusion.md)  [mental](rules/traits/mental.md)  [visual](rules/traits/visual.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Trigger**: A creature enters the room
 

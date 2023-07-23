@@ -9,7 +9,7 @@ tags:
 aliases: ["Stella's Stab And Snag"]
 ---
 # Stella's Stab And Snag  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 6*  
-[rogue](rules/traits/rogue.md)  [swashbuckler](rules/traits/swashbuckler-apg.md)  [uncommon](rules/traits/uncommon.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  [swashbuckler](rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: expert in [Thievery](compendium/skills.md#Thievery)
 - **Requirements**: You are wielding a piercing or slashing melee weapon.

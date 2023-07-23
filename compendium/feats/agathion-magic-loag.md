@@ -7,7 +7,7 @@ tags:
 aliases: ["Agathion Magic"]
 ---
 # Agathion Magic  *Feat 9*  
-[aasimar](rules/traits/aasimar-apg.md)  
+[aasimar](rules/traits/aasimar-apg.md "Aasimar Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Idyllkin](compendium/feats/idyllkin-loag.md)
 

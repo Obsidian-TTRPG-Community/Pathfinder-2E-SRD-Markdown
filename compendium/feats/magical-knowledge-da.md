@@ -7,7 +7,7 @@ tags:
 aliases: ["Magical Knowledge"]
 ---
 # Magical Knowledge  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Thaumaturge Dedication](compendium/feats/thaumaturge-dedication-da.md), trained in one of [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), or [Religion](compendium/skills.md#Religion) and expert in another
 

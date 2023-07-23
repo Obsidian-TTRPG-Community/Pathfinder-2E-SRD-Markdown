@@ -11,7 +11,7 @@ tags:
 aliases: ["Chatterer Of Follies"]
 ---
 # Chatterer Of Follies *Item 6*  
-[enchantment](rules/traits/enchantment.md)  [illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 200 gp
 - **Usage** held in 1 hand; **Bulk** 1

@@ -17,13 +17,13 @@ tags:
 - trait/thrown-60-feet
 aliases: ["Desna", "The Song of the Spheres"]
 ---
-# Desna (The Song of the Spheres) *([CG](rules/traits/chaotic-good-b1.md))*  
+# Desna (The Song of the Spheres) *([CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"))*  
 *Source: Core Rulebook p. 438*  
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: cause fear or despair, cast [nightmare](compendium/spells/nightmare.md) or use similar magic to corrupt dreams, engage in bigoted behavior
 - **Areas of Concern**: dreams, , luck, , star, , and travelers
-- **Follower Alignments**: [NG](rules/traits/neutral-good-b1.md), [CG](rules/traits/chaotic-good-b1.md), [CN](rules/traits/chaotic-neutral-b1.md)
+- **Follower Alignments**: [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")
 
 ## Devotee benefits
 
@@ -39,7 +39,7 @@ aliases: ["Desna", "The Song of the Spheres"]
 title: [Avatar](compendium/spells/avatar.md) of Desna
 
 - **Speed**: Speed 30 feet, fly 70 feet
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") starknife ([agile](rules/traits/agile.md), [deadly](rules/traits/deadly.md), [finesse](rules/traits/finesse.md), [reach <15 feet>](rules/traits/reach.md), [thrown <60 feet>](rules/traits/thrown.md), silver), **Damage** `6d4+6` piercing
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") starknife ([agile](rules/traits/agile.md "Agile Weapon Trait"), [deadly](rules/traits/deadly.md "Deadly Weapon Trait"), [finesse](rules/traits/finesse.md "Finesse Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [thrown <60 feet>](rules/traits/thrown-60-feet.md "Thrown Weapon Trait"), silver), **Damage** `6d4+6` piercing
 - **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") moonbeam (silver), **Damage** `6d6+3` fire
 ```
 
@@ -53,5 +53,5 @@ Desna favors those who follow their hearts and whims without bringing harm to ot
 - **Major Boon**: Desna bestows you with a swirling cloud of lights that forms a pair of wondrous butterfly wings. These wings grant you a fly Speed of 40 feet and shine dim light to a range of 20 feet.
 
 - **Minor Curse**: You always seem to lose your way or have strange mishaps on the road that delay your travel. You (and thus any group that travels with you) travel at only 3/4 normal exploration Speed, before taking into account the terrain and other features that might slow you down further.
-- **Moderate Curse** Misfortune follows you in your travels and requires acts of contrition or benevolence to keep at bay. You must always roll twice and take the worst result when attempting a check. This is a [misfortune](rules/traits/misfortune.md) effect. You can express your remorse and ignore this effect for `1d4` rounds by spending an action, which has the [concentrate](rules/traits/concentrate.md) trait. If you perform a truly selfless act of compassion, you ignore this effect for 1 day.
+- **Moderate Curse** Misfortune follows you in your travels and requires acts of contrition or benevolence to keep at bay. You must always roll twice and take the worst result when attempting a check. This is a [misfortune](rules/traits/misfortune.md "Misfortune Effect Trait") effect. You can express your remorse and ignore this effect for `1d4` rounds by spending an action, which has the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") trait. If you perform a truly selfless act of compassion, you ignore this effect for 1 day.
 - **Major Curse**: The stars rebuke you for your ways. You are [sickened](rules/conditions.md#Sickened) and [slowed](rules/conditions.md#Slowed) whenever you are exposed to starlight.

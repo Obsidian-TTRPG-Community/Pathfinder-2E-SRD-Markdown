@@ -7,7 +7,7 @@ tags:
 aliases: ["Shisk Lore"]
 ---
 # Shisk Lore  *Feat 1*  
-[shisk](rules/traits/shisk-lome.md)  
+[shisk](rules/traits/shisk-lome.md "Shisk Ancestry & Heritage Trait")  
 
 
 You hoard knowledge like a dragon hoards gold. You gain the trained proficiency rank in three [Lore](compendium/skills.md#Lore) skills of your choice. You also become trained in [Shisk Lore](compendium/skills.md#Lore).

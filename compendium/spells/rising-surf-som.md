@@ -11,7 +11,7 @@ tags:
 aliases: ["Rising Surf"]
 ---
 # Rising Surf *Focus 1*   
-[conjuration](rules/traits/conjuration.md)  [move](rules/traits/move.md)  [uncommon](rules/traits/uncommon.md)  [water](rules/traits/water.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [move](rules/traits/move.md "Move Combat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**30 foot

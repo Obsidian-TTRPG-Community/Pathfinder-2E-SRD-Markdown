@@ -10,7 +10,7 @@ tags:
 aliases: ["Sandstorm Top"]
 ---
 # Sandstorm Top *Item 13*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 3000 gp
 - **Usage** held in one hand; **Bulk** L

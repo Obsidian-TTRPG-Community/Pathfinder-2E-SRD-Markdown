@@ -8,7 +8,7 @@ tags:
 aliases: ["Godless Healing"]
 ---
 # Godless Healing  *Feat 2*  
-[general](rules/traits/general.md)  [skill](rules/traits/skill.md)  
+[general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Battle Medicine](compendium/feats/battle-medicine.md), can't have a patron deity
 

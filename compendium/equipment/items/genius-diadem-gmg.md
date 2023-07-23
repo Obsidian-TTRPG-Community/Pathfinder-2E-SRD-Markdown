@@ -13,7 +13,7 @@ tags:
 aliases: ["Genius Diadem"]
 ---
 # Genius Diadem *Item 18*  
-[apex](rules/traits/apex.md)  [arcane](rules/traits/arcane.md)  [divination](rules/traits/divination.md)  [intelligent](rules/traits/intelligent-gmg.md)  [n](rules/traits/neutral-b1.md)  [rare](rules/traits/rare.md)  
+[apex](rules/traits/apex.md "Apex Item Trait")  [arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [intelligent](rules/traits/intelligent-gmg.md "Intelligent Item Trait")  [n](rules/traits/n-b1.md "Neutral Alignment Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** worn circlet; **Bulk** L
 - **Category** Apex

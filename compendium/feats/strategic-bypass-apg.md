@@ -7,7 +7,7 @@ tags:
 aliases: ["Strategic Bypass"]
 ---
 # Strategic Bypass  *Feat 14*  
-[investigator](rules/traits/investigator-apg.md)  
+[investigator](rules/traits/investigator-apg.md "Investigator Class Trait")  
 
 
 Your plans account for your foes' resistances, enabling you to strike a telling blow. When you hit with a [Strike](rules/actions/strike.md) on which you substituted your attack roll due to [Devising a Stratagem](rules/actions/devise-a-stratagem-apg.md), you ignore an amount of resistance equal to your Intelligence modifier for each resistance that applies against your attack.

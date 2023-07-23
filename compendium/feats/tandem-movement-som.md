@@ -8,7 +8,7 @@ tags:
 aliases: ["Tandem Movement"]
 ---
 # Tandem Movement  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[summoner](rules/traits/summoner-som.md)  [tandem](rules/traits/tandem-som.md)  
+[summoner](rules/traits/summoner-som.md "Summoner Class Trait")  [tandem](rules/traits/tandem-som.md "Tandem Action & Ability Trait")  
 
 - **Activity** Single Action
 

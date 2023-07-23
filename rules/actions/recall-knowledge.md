@@ -9,7 +9,7 @@ tags:
 aliases: ["Recall Knowledge", "Identify"]
 ---
 # Recall Knowledge (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[concentrate](rules/traits/concentrate.md)  [secret](rules/traits/secret.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [secret](rules/traits/secret.md "Secret General Trait")  
 *Source: Core Rulebook p. 239*  
 
 

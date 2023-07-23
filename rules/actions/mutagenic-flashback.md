@@ -8,7 +8,7 @@ tags:
 aliases: ["Mutagenic Flashback"]
 ---
 # Mutagenic Flashback [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
-[alchemist](rules/traits/alchemist.md)  
+[alchemist](rules/traits/alchemist.md "Alchemist Class Trait")  
 *Source: Core Rulebook p. 73*  
 
 **Class** alchemist; **Subclass** Mutagenist

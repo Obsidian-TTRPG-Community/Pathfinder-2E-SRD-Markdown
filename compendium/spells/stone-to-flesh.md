@@ -9,9 +9,9 @@ tags:
 aliases: ["Stone To Flesh"]
 ---
 # Stone To Flesh *Spell 6*   
-[earth](rules/traits/earth.md)  [transmutation](rules/traits/transmutation.md)  
+[earth](rules/traits/earth.md "Earth Energy & Element Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md), [primal](rules/traits/primal.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**touch
 - **Targets**[petrified](rules/conditions.md#Petrified) creature or human-size stone object

@@ -10,7 +10,7 @@ tags:
 aliases: ["Subjugate Undead"]
 ---
 # Subjugate Undead *Focus 3*   
-[mental](rules/traits/mental.md)  [necromancy](rules/traits/necromancy.md)  [uncommon](rules/traits/uncommon.md)  
+[mental](rules/traits/mental.md "Mental Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**30 foot
@@ -23,7 +23,7 @@ You attempt to seize control of the target. It can attempt a Will save to resist
 > [!success-degree] 
 > - **Critical Success** The target is unaffected and is temporarily immune for 24 hours.
 > - **Success** The target is unaffected.
-> - **Failure** The undead creature becomes a [minion](rules/traits/minion.md) under your control for 1 minute. The spell is dismissed if you or an ally takes a hostile action against the [minion](rules/traits/minion.md) undead.
+> - **Failure** The undead creature becomes a [minion](rules/traits/minion.md "Minion Creature Trait") under your control for 1 minute. The spell is dismissed if you or an ally takes a hostile action against the [minion](rules/traits/minion.md "Minion Creature Trait") undead.
 > - **Critical Failure** As failure, except the duration is 10 minutes.
 
 *Source: Book of the Dead p. 35*

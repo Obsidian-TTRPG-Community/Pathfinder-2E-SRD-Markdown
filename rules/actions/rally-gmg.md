@@ -11,7 +11,7 @@ tags:
 aliases: ["Rally"]
 ---
 # Rally
-[auditory](rules/traits/auditory.md)  [emotion](rules/traits/emotion.md)  [exploration](rules/traits/exploration.md)  [linguistic](rules/traits/linguistic.md)  [mental](rules/traits/mental.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 *Source: Gamemastery Guide p. 201*  
 
 **Variant Rule** Stamina

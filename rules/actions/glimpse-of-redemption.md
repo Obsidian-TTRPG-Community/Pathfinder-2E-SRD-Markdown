@@ -8,7 +8,7 @@ tags:
 aliases: ["Glimpse of Redemption"]
 ---
 # Glimpse of Redemption [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[champion](rules/traits/champion.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  
 *Source: Core Rulebook p. 107*  
 
 **Class** champion; **Subclass** Redeemer

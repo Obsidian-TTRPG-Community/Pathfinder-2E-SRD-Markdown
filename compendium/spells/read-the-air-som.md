@@ -9,9 +9,9 @@ tags:
 aliases: ["Read The Air"]
 ---
 # Read The Air *Cantrip 1*   
-[cantrip](rules/traits/cantrip.md)  [divination](rules/traits/divination.md)  
+[cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [divination](rules/traits/divination.md "Divination School Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md), [occult](rules/traits/occult.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Duration**1 minute
 

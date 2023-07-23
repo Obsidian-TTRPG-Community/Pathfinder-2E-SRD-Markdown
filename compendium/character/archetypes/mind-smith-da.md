@@ -15,15 +15,15 @@ aliases: ["Mind Smith"]
 title: Mind Smith Dedication, Feat 2
 collapse: closed
 # Mind Smith Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 
 You've learned to imagine a shape in your mind, to envision it so strongly it takes form in the material world. You gain a single melee weapon of your choosing, called a mind weapon. Your mind weapon is a martial melee weapon. The overall shape and design of your mind weapon can be of your choosing but it has one of the following four basic statistics:
 
-- A one-handed weapon that deals `1d4` damage and has the [agile](rules/traits/agile.md) and [finesse](rules/traits/finesse.md) traits
-- A one-handed weapon that deals `1d6` damage and has the [finesse](rules/traits/finesse.md) trait
+- A one-handed weapon that deals `1d4` damage and has the [agile](rules/traits/agile.md "Agile Weapon Trait") and [finesse](rules/traits/finesse.md "Finesse Weapon Trait") traits
+- A one-handed weapon that deals `1d6` damage and has the [finesse](rules/traits/finesse.md "Finesse Weapon Trait") trait
 - A one-handed weapon that deals `d8` damage
-- A two-handed weapon that deals `1d10` damage and has the [reach](rules/traits/reach.md) trait
+- A two-handed weapon that deals `1d10` damage and has the [reach](rules/traits/reach.md "Reach Weapon Trait") trait
 
 Each day during your daily preparations, you can decide if you want your weapon to deal bludgeoning damage and be in the club weapon group, deal piercing damage and be in the spear weapon group, or deal slashing damage and be in the sword weapon group. Your mind weapon is an extension of your mind—it has no Hardness, and any ability that would damage your mind weapon instead damages you directly, pushing back against the weapon's corporeal form and becoming mental damage of the same amount the weapon would have taken. You can project your mind weapon using an [Interact](rules/actions/interact.md) action, just as you would draw any other weapon. Only you can hold, carry, or wield your mind weapon; if held by another person, it quickly disappears from their hand, reforming in your mind for you to project again. If you're disarmed of your mind weapon, it dematerializes, but you can draw it again with an [Interact](rules/actions/interact.md) action starting at the beginning of your next turn. Upon creating your mind weapon, you also learn to use a mind smith's keepsake: an object of light Bulk, such as a bracelet or figurine, that you wear or keep on your person and inscribe with weapon runes. Your keepsake can't be a magic item, nor can it have any significant monetary value beyond the value of any runes you inscribe on it. You can buy and inscribe fundamental runes and weapon property runes onto your keepsake in the same way you would for a regular weapon, and you can move runes to and from your keepsake to other weapons or runestones for the usual cost. Any runes inscribed on the keepsake apply to your mind weapon when you create it. If your keepsake is ever lost or destroyed, you can spend 1 week of downtime imprinting a new object with your weapon's mental properties, though this new keepsake won't have any of the runes that were inscribed on the prior keepsake.
 
@@ -37,7 +37,7 @@ Each day during your daily preparations, you can decide if you want your weapon 
 title: Malleable Movement, Feat 2
 collapse: closed
 # Malleable Movement  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 2*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Mind Smith Dedication](compendium/feats/mind-smith-dedication-da.md), expert in [Athletics](compendium/skills.md#Athletics)
 - **Trigger** You [Leap](rules/actions/leap.md).
@@ -53,7 +53,7 @@ You shift the shape of your weapon to help you [Leap](rules/actions/leap.md) far
 title: Ghost Blade, Feat 4
 collapse: closed
 # Ghost Blade  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  [concentrate](rules/traits/concentrate.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
 
 - **Prerequisites**: [Mind Smith Dedication](compendium/feats/mind-smith-dedication-da.md)
 - **Frequency**: once per hour
@@ -69,7 +69,7 @@ You alter your weapon's phase so it can more easily strike incorporeal creatures
 title: Just the Tool, Feat 4
 collapse: closed
 # Just the Tool  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  [concentrate](rules/traits/concentrate.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
 
 - **Prerequisites**: [Mind Smith Dedication](compendium/feats/mind-smith-dedication-da.md)
 - **Activity** Single Action
@@ -84,7 +84,7 @@ You temporarily change your weapon's shape to assist you in the field. You morph
 title: Mental Forge, Feat 4
 collapse: closed
 # Mental Forge  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Mind Smith Dedication](compendium/feats/mind-smith-dedication-da.md)
 
@@ -98,7 +98,7 @@ Your experiences in combat shape your mind's capability to strengthen and shape 
 title: Mind Shards, Feat 6
 collapse: closed
 # Mind Shards  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  [concentrate](rules/traits/concentrate.md)  [enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 - **Prerequisites**: [Mind Smith Dedication](compendium/feats/mind-smith-dedication-da.md)
 - **Activity** Two-Action
@@ -115,7 +115,7 @@ You concentrate and unleash a 15-foot cone that deals `3d6` mental damage to all
 title: Malleable Mental Forge, Feat 8
 collapse: closed
 # Malleable Mental Forge  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Mental Forge](compendium/feats/mental-forge-da.md)
 
@@ -129,7 +129,7 @@ You open your mind to further weapon customization. During your daily preparatio
 title: Mind Projectiles, Feat 8
 collapse: closed
 # Mind Projectiles  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Mind Smith Dedication](compendium/feats/mind-smith-dedication-da.md)
 
@@ -145,7 +145,7 @@ For example, if your weapon had +1, striking, and spell storing runes, you would
 title: Runic Mind Smithing, Feat 10
 collapse: closed
 # Runic Mind Smithing  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Mind Smith Dedication](compendium/feats/mind-smith-dedication-da.md)
 
@@ -159,7 +159,7 @@ You focus your mind on thoughtforms of fundamental magical forces, shaping them 
 title: Metallic Envisionment, Feat 12*
 collapse: closed
 # Metallic Envisionment  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Metallic Envisionment](compendium/feats/metallic-envisionment-da.md) is intended for use with the Mind Smith Archetype. Its level has been changed accordingly.
 
@@ -175,7 +175,7 @@ You always account for every weakness, allowing your mind to imagine just the ri
 title: Advanced Runic Mind-Smithing, Feat 16*
 collapse: closed
 # Advanced Runic Mind-Smithing  *Feat 16*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Advanced Runic Mind-Smithing](compendium/feats/advanced-runic-mind-smithing-da.md) is intended for use with the Mind Smith Archetype. Its level has been changed accordingly.
 

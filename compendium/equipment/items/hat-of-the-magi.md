@@ -10,7 +10,7 @@ tags:
 aliases: ["Hat of the Magi"]
 ---
 # Hat of the Magi *Item 3+*  
-[arcane](rules/traits/arcane.md)  [conjuration](rules/traits/conjuration.md)  [invested](rules/traits/invested.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  
 
 - **Usage** worn headwear; **Bulk** —
 - **Category** Worn

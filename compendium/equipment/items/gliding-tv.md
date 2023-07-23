@@ -9,7 +9,7 @@ tags:
 aliases: ["Gliding"]
 ---
 # Gliding *Item 8*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 450 gp
 - **Usage** etched onto armor

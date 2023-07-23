@@ -7,7 +7,7 @@ tags:
 aliases: ["Cave-In"]
 ---
 # Cave-In *Hazard 4*  
-[environmental](rules/traits/environmental.md)  
+[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 22 trained  

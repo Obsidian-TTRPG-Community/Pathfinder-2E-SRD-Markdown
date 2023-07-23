@@ -10,7 +10,7 @@ tags:
 aliases: ["Phylactery of Faithfulness"]
 ---
 # Phylactery of Faithfulness *Item 9+*  
-[divination](rules/traits/divination.md)  [divine](rules/traits/divine.md)  [invested](rules/traits/invested.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  
 
 - **Usage** worn circlet; **Bulk** L
 - **Category** Worn

@@ -7,7 +7,7 @@ tags:
 aliases: ["Advanced Bloodline"]
 ---
 # Advanced Bloodline  *Feat 6*  
-[sorcerer](rules/traits/sorcerer.md)  
+[sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 - **Prerequisites**: bloodline spell
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Scaling Poppet"]
 ---
 # Scaling Poppet  *Feat 9*  
-[poppet](rules/traits/poppet-lotgb.md)  
+[poppet](rules/traits/poppet-lotgb.md "Poppet Ancestry & Heritage Trait")  
 
 
 Your construction integrates ropes, hooks, or other tools to help you move across steep surfaces. You gain a climb Speed of 15 feet.

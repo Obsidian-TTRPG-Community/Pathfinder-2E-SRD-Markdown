@@ -10,7 +10,7 @@ tags:
 aliases: ["Fortress Plate"]
 ---
 # Fortress Plate *Item 2*  
-[bulwark](rules/traits/bulwark.md)  [entrench <ranged>](rules/traits/entrench-tv.md)  [ponderous](rules/traits/ponderous-tv.md)  
+[bulwark](rules/traits/bulwark.md "Bulwark Armor Trait")  [entrench <ranged>](rules/traits/entrench-ranged-tv.md "Entrench Armor Trait")  [ponderous](rules/traits/ponderous-tv.md "Ponderous Armor Trait")  
 
 - **Price** 32 gp
 - **Bulk** 5

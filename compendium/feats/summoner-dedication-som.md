@@ -9,13 +9,13 @@ tags:
 aliases: ["Summoner Dedication"]
 ---
 # Summoner Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [multiclass](rules/traits/multiclass.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [multiclass](rules/traits/multiclass.md "Multiclass Feat Trait")  
 
 - **Prerequisites**: Charisma 14
 
 You've formed a bond with an eidolon, an entity that manifests in a physical body only through its link to your life force. Your bond may be tenuous, but that doesn't make your connection any less special. You gain an eidolon as well as the [Manifest Eidolon](rules/actions/manifest-eidolon-som.md) activity.
 
-Due to your tenuous link, you can't gain or use [tandem](rules/traits/tandem-som.md) actions. Because you don't have [Act Together](rules/actions/act-together-som.md), only you or your eidolon can perform an [exploration](rules/traits/exploration.md) activity at one time, so for instance you couldn't both be [Searching](rules/actions/search.md)} or [Investigating](rules/actions/investigate.md).
+Due to your tenuous link, you can't gain or use [tandem](rules/traits/tandem-som.md "Tandem Action & Ability Trait") actions. Because you don't have [Act Together](rules/actions/act-together-som.md), only you or your eidolon can perform an [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait") activity at one time, so for instance you couldn't both be [Searching](rules/actions/search.md)} or [Investigating](rules/actions/investigate.md).
 
 Your eidolon is trained in unarmed attacks and unarmored defense, and shares your proficiency rank for [Perception](compendium/skills.md#Perception), saving throws, and skill checks. Choose an eidolon type. You become trained in your eidolon's listed skills. For each of those skills that you are already trained in, you become trained in a different skill of your choice.
 

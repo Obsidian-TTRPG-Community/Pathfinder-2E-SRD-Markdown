@@ -12,7 +12,7 @@ tags:
 aliases: ["Savor The Sting"]
 ---
 # Savor The Sting *Focus 1*   
-[cleric](rules/traits/cleric.md)  [enchantment](rules/traits/enchantment.md)  [mental](rules/traits/mental.md)  [nonlethal](rules/traits/nonlethal.md)  [uncommon](rules/traits/uncommon.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Domains**: [pain](compendium/setting/domains.md#Pain)
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 

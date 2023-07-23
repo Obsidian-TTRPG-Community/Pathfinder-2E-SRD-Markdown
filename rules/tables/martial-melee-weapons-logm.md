@@ -10,6 +10,6 @@ aliases: ["Martial Melee Weapons"]
 
 | Weapon | Price | Damage | Bulk | Hands | Group | Weapon Traits |
 |--------|-------|--------|------|-------|-------|---------------|
-| Machete | 7 sp | `1d6` S | L | 1 | Sword | [Deadly <d8>](rules/traits/deadly.md), [sweep](rules/traits/sweep.md) |
-| Meteor hammer | 3 gp | `1d8` B | 2 | 2 | Flail | [Backswing](rules/traits/backswing.md), [disarm](rules/traits/disarm.md), [reach](rules/traits/reach.md), [trip](rules/traits/trip.md) |
-| War razor | 3 sp | `1d4` S | L | 1 | Knife | [Agile](rules/traits/agile.md), [backstabber](rules/traits/backstabber.md), [deadly <d8>](rules/traits/deadly.md), [finesse](rules/traits/finesse.md) |
+| Machete | 7 sp | `1d6` S | L | 1 | Sword | [Deadly <d8>](rules/traits/deadly-d8.md "Deadly Weapon Trait"), [sweep](rules/traits/sweep.md "Sweep Weapon Trait") |
+| Meteor hammer | 3 gp | `1d8` B | 2 | 2 | Flail | [Backswing](rules/traits/backswing.md "Backswing Weapon Trait"), [disarm](rules/traits/disarm.md "Disarm Weapon Trait"), [reach](rules/traits/reach.md "Reach Weapon Trait"), [trip](rules/traits/trip.md "Trip Weapon Trait") |
+| War razor | 3 sp | `1d4` S | L | 1 | Knife | [Agile](rules/traits/agile.md "Agile Weapon Trait"), [backstabber](rules/traits/backstabber.md "Backstabber Weapon Trait"), [deadly <d8>](rules/traits/deadly-d8.md "Deadly Weapon Trait"), [finesse](rules/traits/finesse.md "Finesse Weapon Trait") |

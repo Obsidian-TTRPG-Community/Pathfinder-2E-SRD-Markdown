@@ -10,7 +10,7 @@ tags:
 aliases: ["Violent Unleash"]
 ---
 # Violent Unleash  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 4*  
-[evocation](rules/traits/evocation.md)  [mindshift](rules/traits/mindshift-da.md)  [occult](rules/traits/occult.md)  [psychic](rules/traits/psychic-da.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [mindshift](rules/traits/mindshift-da.md "Mindshift Action & Ability Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  
 
 - **Trigger** You [Unleash your Psyche](rules/actions/unleash-psyche-da.md).
 - **Activity** Free Action

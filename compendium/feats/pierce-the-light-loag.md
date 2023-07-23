@@ -8,7 +8,7 @@ tags:
 aliases: ["Pierce The Light"]
 ---
 # Pierce The Light  *Feat 17*  
-[fetchling](rules/traits/fetchling-b2.md)  [uncommon](rules/traits/uncommon.md)  
+[fetchling](rules/traits/fetchling-b2.md "Fetchling Ancestry & Heritage Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 
 You tear the veil between the Material Plane and its shadow. You can cast [plane shift](compendium/spells/plane-shift.md) twice per week as an occult innate spell that can only target yourself; you can travel only to the Material or Shadow Planes, and your body serves as the focus component.

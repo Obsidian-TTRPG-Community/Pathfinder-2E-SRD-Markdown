@@ -12,7 +12,7 @@ tags:
 aliases: ["Sleep Arrow"]
 ---
 # Sleep Arrow *Item 3*  
-[consumable](rules/traits/consumable.md)  [enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  [sleep](rules/traits/sleep.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [sleep](rules/traits/sleep.md "Sleep Effect Trait")  
 
 - **Price** 11 gp
 - **Ammunition** [arrow](compendium/equipment/items/arrow.md)

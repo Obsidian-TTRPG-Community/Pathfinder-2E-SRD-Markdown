@@ -10,7 +10,7 @@ tags:
 aliases: ["Commune"]
 ---
 # Commune *Ritual 6*  
-[divination](rules/traits/divination.md)  [prediction](rules/traits/prediction.md)  [uncommon](rules/traits/uncommon.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [prediction](rules/traits/prediction.md "Prediction Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** 1 day
 - **Cost** rare incense worth a total value of 150 gp

@@ -11,9 +11,9 @@ tags:
 aliases: ["Swarming Wasp Stings"]
 ---
 # Swarming Wasp Stings *Spell 4*   
-[necromancy](rules/traits/necromancy.md)  [poison](rules/traits/poison.md)  [uncommon](rules/traits/uncommon.md)  
+[necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot
 - **Area**10-foot burst
@@ -34,7 +34,7 @@ Each creature that takes piercing damage must attempt a Fortitude save.
 ```ad-inline-affliction
 title: Swarming Wasp Venom _Level 7_
 
-[poison](rules/traits/poison.md)  
+[poison](rules/traits/poison.md "Poison Effect Trait")  
 - **Maximum Duration**: 6 rounds
 
 ## Stages
@@ -44,7 +44,7 @@ title: Swarming Wasp Venom _Level 7_
 **Stage 2** `3d6` poison damage and [clumsy](rules/conditions.md#Clumsy) (1 round)
 
 
-%% #trait/poison #affliction/level/level-7 %%
+%% #affliction/level/level-7 #trait/poison %%
 ```
 
 ## Summary

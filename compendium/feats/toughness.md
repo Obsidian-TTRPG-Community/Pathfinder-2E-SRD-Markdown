@@ -7,7 +7,7 @@ tags:
 aliases: ["Toughness"]
 ---
 # Toughness  *Feat 1*  
-[general](rules/traits/general.md)  
+[general](rules/traits/general.md "General Feat Trait")  
 
 
 You can withstand more punishment than most before succumbing. Increase your maximum Hit Points by your level. The DC of recovery checks is equal to 9 + your dying condition value (page 459).

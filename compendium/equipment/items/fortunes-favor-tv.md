@@ -13,7 +13,7 @@ tags:
 aliases: ["Fortune's Favor"]
 ---
 # Fortune's Favor *Item 3*  
-[enchantment](rules/traits/enchantment.md)  [fortune](rules/traits/fortune.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [relic](rules/traits/relic-tv.md)  [unique](rules/traits/unique.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [relic](rules/traits/relic-tv.md "Relic Item Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Usage** worn; **Bulk** —
 - **Category** Worn

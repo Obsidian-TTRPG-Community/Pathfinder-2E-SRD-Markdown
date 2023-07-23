@@ -8,7 +8,7 @@ tags:
 aliases: ["Niyaháat"]
 ---
 # Niyaháat *Item 0*  
-[laminar](rules/traits/laminar-tv.md)  
+[laminar](rules/traits/laminar-tv.md "Laminar Armor Trait")  
 
 - **Price** 5 gp
 - **Bulk** 2

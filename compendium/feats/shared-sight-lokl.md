@@ -11,7 +11,7 @@ tags:
 aliases: ["Shared Sight"]
 ---
 # Shared Sight  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 12*  
-[bard](rules/traits/bard.md)  [concentrate](rules/traits/concentrate.md)  [metamagic](rules/traits/metamagic.md)  [sorcerer](rules/traits/sorcerer.md)  [uncommon](rules/traits/uncommon.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: Knights of Lastwall have access to this feat.
 - **Prerequisites**: [Soulsight](compendium/feats/soulsight-bard-apg.md)

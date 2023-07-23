@@ -7,7 +7,7 @@ tags:
 aliases: ["Mountain's Stoutness"]
 ---
 # Mountain's Stoutness  *Feat 9*  
-[dwarf](rules/traits/dwarf.md)  
+[dwarf](rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  
 
 
 Your hardiness lets you withstand more punishment than most before going down. Increase your maximum Hit Points by your level. When you have the [dying](rules/conditions.md#Dying) condition, the DC of your recovery checks is equal to 9 + your dying value (instead of 10 + your dying value).

@@ -9,7 +9,7 @@ tags:
 aliases: ["Ouroboros Flail"]
 ---
 # Ouroboros Flail *Item 14+*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Usage** held in 2 hands; **Bulk** 2
 - **Category** Held

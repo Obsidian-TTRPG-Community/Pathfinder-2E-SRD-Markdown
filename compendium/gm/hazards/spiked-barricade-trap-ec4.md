@@ -8,7 +8,7 @@ tags:
 aliases: ["Spiked Barricade Trap"]
 ---
 # Spiked Barricade Trap *Hazard 13*  
-[mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  
+[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 32 expert  
@@ -25,7 +25,7 @@ Spring-loaded wedges of sharpened stone pop out of the wooden barricade.
      
 ```ad-embed-ability
 title: Spike Jab [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[attack](rules/traits/attack.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  
 
 - **Trigger**: A creature enters the area adjacent to a barrier
 

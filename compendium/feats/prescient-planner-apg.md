@@ -7,7 +7,7 @@ tags:
 aliases: ["Prescient Planner"]
 ---
 # Prescient Planner  *Feat 3*  
-[general](rules/traits/general.md)  
+[general](rules/traits/general.md "General Feat Trait")  
 
 - **Cost**: the Price of the chosen item
 - **Requirements**: You haven't used this ability since the last time you were able to purchase goods.

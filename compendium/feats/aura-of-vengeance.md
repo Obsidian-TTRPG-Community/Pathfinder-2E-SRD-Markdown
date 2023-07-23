@@ -7,7 +7,7 @@ tags:
 aliases: ["Aura Of Vengeance"]
 ---
 # Aura Of Vengeance  *Feat 14*  
-[champion](rules/traits/champion.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  
 
 - **Prerequisites**: exalt, [Vengeful Oath](compendium/feats/vengeful-oath.md)
 

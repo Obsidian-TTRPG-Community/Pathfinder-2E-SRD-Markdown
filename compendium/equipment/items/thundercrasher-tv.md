@@ -10,7 +10,7 @@ tags:
 aliases: ["Thundercrasher"]
 ---
 # Thundercrasher *Item 5*  
-[arcane](rules/traits/arcane.md)  [evocation](rules/traits/evocation.md)  [uncommon](rules/traits/uncommon.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 155 gp
 - **Usage** held in 2 hands; **Bulk** 2

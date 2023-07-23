@@ -7,7 +7,7 @@ tags:
 aliases: ["Advanced Kata"]
 ---
 # Advanced Kata  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Kata](compendium/feats/basic-kata.md)
 

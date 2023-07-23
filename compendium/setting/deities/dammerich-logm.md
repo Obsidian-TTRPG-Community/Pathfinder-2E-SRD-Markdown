@@ -10,12 +10,12 @@ tags:
 - domain/vigil/deity
 aliases: ["Dammerich", "The Weighted Swing"]
 ---
-# Dammerich (The Weighted Swing) *([LG](rules/traits/lawful-goo-b1.md))*  
+# Dammerich (The Weighted Swing) *([LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 128*  
 
 - **Category**: Empyreal Lords
 - **Anathema**: kill without thought, execute the innocent, mock the condemned, falsely incriminate another
-- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md)
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait")
 
 ## Devotee benefits
 

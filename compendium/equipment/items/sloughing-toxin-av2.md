@@ -12,7 +12,7 @@ tags:
 aliases: ["Sloughing Toxin"]
 ---
 # Sloughing Toxin *Item 7*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [injury](rules/traits/injury.md)  [poison](rules/traits/poison.md)  [rare](rules/traits/rare.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [injury](rules/traits/injury.md "Injury Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 60 gp
 - **Usage** held in 2 hands; **Bulk** L
@@ -29,9 +29,9 @@ title: Saving Throw: DC 25 Fortitude
 
 ## Stages
 
-**Stage 1** `1d6` poison damage for each action with the [attack](rules/traits/attack.md) or [move](rules/traits/move.md) trait the victim uses (1 round)
+**Stage 1** `1d6` poison damage for each action with the [attack](rules/traits/attack.md "Attack Combat Trait") or [move](rules/traits/move.md "Move Combat Trait") trait the victim uses (1 round)
 
-**Stage 2** `1d6` poison damage and `1d6` slashing damage for each action with the attack, [manipulate](rules/traits/manipulate.md), or [move](rules/traits/move.md) trait the victim uses (1 round)
+**Stage 2** `1d6` poison damage and `1d6` slashing damage for each action with the attack, [manipulate](rules/traits/manipulate.md "Manipulate General Trait"), or [move](rules/traits/move.md "Move Combat Trait") trait the victim uses (1 round)
 
 **Stage 3** as Stage 2, but `1d6` poison damage and `2d6` slashing damage, and forced movement also causes damage (1 hour)
 ```

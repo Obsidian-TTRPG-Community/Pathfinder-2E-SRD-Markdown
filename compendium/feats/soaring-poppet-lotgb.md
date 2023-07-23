@@ -7,7 +7,7 @@ tags:
 aliases: ["Soaring Poppet"]
 ---
 # Soaring Poppet  *Feat 17*  
-[poppet](rules/traits/poppet-lotgb.md)  
+[poppet](rules/traits/poppet-lotgb.md "Poppet Ancestry & Heritage Trait")  
 
 
 Your construction has flaps of cloth or wicker that can keep you aloft. You gain a fly Speed of 15 feet.

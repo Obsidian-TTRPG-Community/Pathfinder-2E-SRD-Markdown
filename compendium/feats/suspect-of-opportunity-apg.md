@@ -7,7 +7,7 @@ tags:
 aliases: ["Suspect Of Opportunity"]
 ---
 # Suspect Of Opportunity  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
-[investigator](rules/traits/investigator-apg.md)  
+[investigator](rules/traits/investigator-apg.md "Investigator Class Trait")  
 
 - **Frequency**: once per hour
 - **Trigger** A foe takes a [hostile](rules/conditions.md#Hostile) action against you in combat.

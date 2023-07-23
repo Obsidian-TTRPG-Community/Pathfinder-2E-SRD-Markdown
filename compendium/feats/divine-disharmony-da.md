@@ -11,7 +11,7 @@ tags:
 aliases: ["Divine Disharmony"]
 ---
 # Divine Disharmony  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
-[divine](rules/traits/divine.md)  [enchantment](rules/traits/enchantment.md)  [esoterica](rules/traits/esoterica-da.md)  [manipulate](rules/traits/manipulate.md)  [thaumaturge](rules/traits/thaumaturge-da.md)  
+[divine](rules/traits/divine.md "Divine Tradition Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [esoterica](rules/traits/esoterica-da.md "Esoterica Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [thaumaturge](rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
 
 - **Activity** Single Action
 

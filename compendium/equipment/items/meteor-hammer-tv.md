@@ -11,7 +11,7 @@ tags:
 aliases: ["Meteor Hammer"]
 ---
 # Meteor Hammer *Item 0*  
-[backswing](rules/traits/backswing.md)  [disarm](rules/traits/disarm.md)  [reach](rules/traits/reach.md)  [trip](rules/traits/trip.md)  
+[backswing](rules/traits/backswing.md "Backswing Weapon Trait")  [disarm](rules/traits/disarm.md "Disarm Weapon Trait")  [reach](rules/traits/reach.md "Reach Weapon Trait")  [trip](rules/traits/trip.md "Trip Weapon Trait")  
 
 - **Price** 3 gp
 - **Bulk** 2

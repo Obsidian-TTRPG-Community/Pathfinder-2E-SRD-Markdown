@@ -11,7 +11,7 @@ tags:
 aliases: ["Shuriken"]
 ---
 # Shuriken *Item 0*  
-[agile](rules/traits/agile.md)  [monk](rules/traits/monk.md)  [thrown](rules/traits/thrown.md)  [uncommon](rules/traits/uncommon.md)  
+[agile](rules/traits/agile.md "Agile Weapon Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  [thrown](rules/traits/thrown.md "Thrown Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1 cp
 - **Bulk** —

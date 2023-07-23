@@ -11,7 +11,7 @@ tags:
 aliases: ["Dragon Roar"]
 ---
 # Dragon Roar  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[auditory](rules/traits/auditory.md)  [emotion](rules/traits/emotion.md)  [fear](rules/traits/fear.md)  [mental](rules/traits/mental.md)  [monk](rules/traits/monk.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Prerequisites**: [Dragon Stance](compendium/feats/dragon-stance.md)
 - **Requirements**: You are in Dragon Stance.

@@ -7,7 +7,7 @@ tags:
 aliases: ["Aldori Parry"]
 ---
 # Aldori Parry  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Aldori Duelist Dedication](compendium/feats/aldori-duelist-dedication-lowg.md)
 - **Requirements**: You are wielding only an Aldori dueling sword and have your other hand or hands free.

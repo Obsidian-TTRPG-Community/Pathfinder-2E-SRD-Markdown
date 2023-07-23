@@ -7,7 +7,7 @@ tags:
 aliases: ["Natural Illusionist"]
 ---
 # Natural Illusionist  *Feat 5*  
-[gnome](rules/traits/gnome.md)  
+[gnome](rules/traits/gnome.md "Gnome Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Illusion Sense](compendium/feats/illusion-sense.md)
 

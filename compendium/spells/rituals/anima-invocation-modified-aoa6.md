@@ -9,7 +9,7 @@ tags:
 aliases: ["Anima Invocation (Modified)"]
 ---
 # Anima Invocation (Modified) *Ritual 10*  
-[abjuration](rules/traits/abjuration.md)  [rare](rules/traits/rare.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Cast** 1 hour
 - **Secondary Casters** 4
@@ -26,6 +26,6 @@ When casting the modified version of the _Anima Invocation_, it instead draws up
 > - **Critical Success** You gain full access to your own potential for 1 day. You gain resistance 10 to all damage and a +4 status bonus to saves against effects created by evil creatures. Your [Strikes](rules/actions/strike.md) gain the effects of the [ghost touch](compendium/equipment/items/ghost-touch.md) rune and deal an additional `1d10` good damage. You are immune to the soul-draining effect within Alseta's Landing.
 > - **Success** You tap into your own potential for 1 day. You gain resistance 5 to all damage and a +2 status bonus to saves against effects created by evil creatures. Your [Strikes](rules/actions/strike.md) gain the effects of the [ghost touch](compendium/equipment/items/ghost-touch.md) rune and deal an additional 1 good damage. You are immune to the soul-draining effect within Alseta's Landing.
 > - **Failure** You are unable to tap into your own spiritual essence, but you still gain immunity to the souldraining effect within Alseta's Landing.
-> - **Critical Failure** You botch the ritual, damaging your own spiritual essence. You gain [doomed](rules/conditions.md#Doomed) or increase your [doomed](rules/conditions.md#Doomed) condition by 1 if you're already [doomed](rules/conditions.md#Doomed). This [doomed](rules/conditions.md#Doomed) value decreases by 1 every week. This is a [curse](rules/traits/curse.md) effect.
+> - **Critical Failure** You botch the ritual, damaging your own spiritual essence. You gain [doomed](rules/conditions.md#Doomed) or increase your [doomed](rules/conditions.md#Doomed) condition by 1 if you're already [doomed](rules/conditions.md#Doomed). This [doomed](rules/conditions.md#Doomed) value decreases by 1 every week. This is a [curse](rules/traits/curse.md "Curse Effect Trait") effect.
 
 *Source: Age of Ashes #6: Broken Promises p. 75*

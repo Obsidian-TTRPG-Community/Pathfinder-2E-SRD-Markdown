@@ -12,7 +12,7 @@ tags:
 aliases: ["Three-section Naginata"]
 ---
 # Three-section Naginata *Item 0*  
-[deadly <d8>](rules/traits/deadly.md)  [forceful](rules/traits/forceful.md)  [sweep](rules/traits/sweep.md)  [uncommon](rules/traits/uncommon.md)  [versatile <B>](rules/traits/versatile.md)  
+[deadly <d8>](rules/traits/deadly-d8.md "Deadly Weapon Trait")  [forceful](rules/traits/forceful.md "Forceful Weapon Trait")  [sweep](rules/traits/sweep.md "Sweep Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [versatile <B>](rules/traits/versatile-b.md "Versatile Weapon Trait")  
 
 - **Price** 12 gp
 - **Bulk** 2

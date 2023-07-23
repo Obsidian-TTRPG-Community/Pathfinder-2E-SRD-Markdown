@@ -10,7 +10,7 @@ tags:
 aliases: ["Pathfinder's Coin"]
 ---
 # Pathfinder's Coin *Item 2*  
-[illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 30 gp
 - **Usage** held in 1 hand

@@ -10,7 +10,7 @@ tags:
 aliases: ["Jar Of Shifting Sands"]
 ---
 # Jar Of Shifting Sands *Item 7*  
-[conjuration](rules/traits/conjuration.md)  [earth](rules/traits/earth.md)  [magical](rules/traits/magical.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 320 gp
 - **Usage** held in 2 hands; **Bulk** L

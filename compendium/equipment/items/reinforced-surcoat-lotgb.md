@@ -9,7 +9,7 @@ tags:
 aliases: ["Reinforced Surcoat"]
 ---
 # Reinforced Surcoat *Item 0*  
-[adjustment](rules/traits/adjustment-lotgb.md)  [uncommon](rules/traits/uncommon.md)  
+[adjustment](rules/traits/adjustment-lotgb.md "Adjustment  Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 2 gp
 - **Usage** applied to medium or heavy armor; **Bulk** L

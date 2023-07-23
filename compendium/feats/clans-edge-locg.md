@@ -7,7 +7,7 @@ tags:
 aliases: ["Clan's Edge"]
 ---
 # Clan's Edge  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 1*  
-[dwarf](rules/traits/dwarf.md)  
+[dwarf](rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  
 
 - **Prerequisites**: trained in clan daggers
 - **Activity** Two-Action

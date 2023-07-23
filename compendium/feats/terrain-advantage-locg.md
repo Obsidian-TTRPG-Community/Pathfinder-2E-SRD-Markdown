@@ -7,7 +7,7 @@ tags:
 aliases: ["Terrain Advantage"]
 ---
 # Terrain Advantage  *Feat 9*  
-[lizardfolk](rules/traits/lizardfolk-b1.md)  
+[lizardfolk](rules/traits/lizardfolk-b1.md "Lizardfolk Ancestry & Heritage Trait")  
 
 
 You can take advantage of the terrain to bypass foes' defenses.

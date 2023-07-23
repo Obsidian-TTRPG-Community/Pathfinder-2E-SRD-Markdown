@@ -10,12 +10,12 @@ tags:
 - domain/secrecy/deity
 aliases: ["Ketephys", "The Hunter"]
 ---
-# Ketephys (The Hunter) *([CG](rules/traits/chaotic-good-b1.md))*  
+# Ketephys (The Hunter) *([CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 128*  
 
 - **Category**: Elven Gods
 - **Anathema**: take more than needed from the wilderness, hunt an animal for sport, aid Treerazer or his minions
-- **Follower Alignments**: [NG](rules/traits/neutral-good-b1.md), [CG](rules/traits/chaotic-good-b1.md)
+- **Follower Alignments**: [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")
 
 ## Devotee benefits
 

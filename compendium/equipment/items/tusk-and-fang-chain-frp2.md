@@ -12,7 +12,7 @@ tags:
 aliases: ["Tusk And Fang Chain"]
 ---
 # Tusk And Fang Chain *Item 16*  
-[consumable](rules/traits/consumable.md)  [incapacitation](rules/traits/incapacitation.md)  [magical](rules/traits/magical.md)  [talisman](rules/traits/talisman.md)  [uncommon](rules/traits/uncommon.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1800 gp
 - **Usage** affixed to armor

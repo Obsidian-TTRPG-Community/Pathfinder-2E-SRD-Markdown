@@ -7,7 +7,7 @@ tags:
 aliases: ["Sense The Unseen (Investigator)"]
 ---
 # Sense The Unseen (Investigator)  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 14*  
-[investigator](rules/traits/investigator-apg.md)  
+[investigator](rules/traits/investigator-apg.md "Investigator Class Trait")  
 
 - **Trigger** You fail a check to [Seek](rules/actions/seek.md).
 - **Activity** Reaction

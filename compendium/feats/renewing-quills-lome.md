@@ -7,7 +7,7 @@ tags:
 aliases: ["Renewing Quills"]
 ---
 # Renewing Quills  *Feat 5*  
-[shisk](rules/traits/shisk-lome.md)  
+[shisk](rules/traits/shisk-lome.md "Shisk Ancestry & Heritage Trait")  
 
 - **Prerequisites**: quillcoat shisk
 

@@ -10,7 +10,7 @@ tags:
 aliases: ["Rehydration"]
 ---
 # Rehydration  *Feat 13*  
-[azarketi](rules/traits/azarketi-loag.md)  [primal](rules/traits/primal.md)  [transmutation](rules/traits/transmutation.md)  [water](rules/traits/water.md)  
+[azarketi](rules/traits/azarketi-loag.md "Azarketi Ancestry & Heritage Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
 - **Frequency**: once per day
 

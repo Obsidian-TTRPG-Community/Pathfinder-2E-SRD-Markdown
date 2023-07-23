@@ -7,7 +7,7 @@ tags:
 aliases: ["Delver"]
 ---
 # Delver  *Feat 13*  
-[shisk](rules/traits/shisk-lome.md)  
+[shisk](rules/traits/shisk-lome.md "Shisk Ancestry & Heritage Trait")  
 
 
 Subterranean life taught you to swim through the ground like water. You gain a burrow Speed of 10 feet through loose soil or dirt.

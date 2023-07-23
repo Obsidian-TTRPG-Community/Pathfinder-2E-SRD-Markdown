@@ -7,7 +7,7 @@ tags:
 aliases: ["Vibrant Display"]
 ---
 # Vibrant Display  *Feat 1*  
-[gnome](rules/traits/gnome.md)  
+[gnome](rules/traits/gnome.md "Gnome Ancestry & Heritage Trait")  
 
 - **Prerequisites**: chameleon gnome heritage
 - **Frequency**: once every 10 minutes

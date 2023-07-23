@@ -9,7 +9,7 @@ tags:
 aliases: ["Scythe"]
 ---
 # Scythe *Item 0*  
-[deadly <d10>](rules/traits/deadly.md)  [trip](rules/traits/trip.md)  
+[deadly <d10>](rules/traits/deadly-d10.md "Deadly Weapon Trait")  [trip](rules/traits/trip.md "Trip Weapon Trait")  
 
 - **Price** 2 gp
 - **Bulk** 2

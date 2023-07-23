@@ -11,7 +11,7 @@ tags:
 aliases: ["Cross the Final Horizon"]
 ---
 # Cross the Final Horizon  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 20*  
-[archetype](rules/traits/archetype.md)  [electricity](rules/traits/electricity.md)  [evocation](rules/traits/evocation.md)  [force](rules/traits/force.md)  [sonic](rules/traits/sonic.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  
 
 - **Prerequisites**: Sky and Heaven Stance
 - **Requirements**: You're in Sky and Heaven Stance.

@@ -9,7 +9,7 @@ tags:
 aliases: ["Selfish Shield"]
 ---
 # Selfish Shield [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[champion](rules/traits/champion.md)  [uncommon](rules/traits/uncommon.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 *Source: Advanced Player's Guide p. 116*  
 
 **Class** champion; **Subclass** Desecrator

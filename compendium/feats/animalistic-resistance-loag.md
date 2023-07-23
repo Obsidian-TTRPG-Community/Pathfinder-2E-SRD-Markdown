@@ -7,7 +7,7 @@ tags:
 aliases: ["Animalistic Resistance"]
 ---
 # Animalistic Resistance  *Feat 5*  
-[beastkin](rules/traits/beastkin-loag.md)  
+[beastkin](rules/traits/beastkin-loag.md "Beastkin Ancestry & Heritage Trait")  
 
 
 Your animalistic connections help you resist natural afflictions.

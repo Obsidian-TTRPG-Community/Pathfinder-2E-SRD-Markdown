@@ -10,7 +10,7 @@ tags:
 aliases: ["Glider Form"]
 ---
 # Glider Form  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
-[eidolon](rules/traits/eidolon-som.md)  [evolution](rules/traits/evolution-som.md)  [move](rules/traits/move.md)  [summoner](rules/traits/summoner-som.md)  
+[eidolon](rules/traits/eidolon-som.md "Eidolon Creature Type Trait")  [evolution](rules/traits/evolution-som.md "Evolution Feat Trait")  [move](rules/traits/move.md "Move Combat Trait")  [summoner](rules/traits/summoner-som.md "Summoner Class Trait")  
 
 - **Activity** Single Action
 

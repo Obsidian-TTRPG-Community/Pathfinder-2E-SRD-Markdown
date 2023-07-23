@@ -13,7 +13,7 @@ tags:
 aliases: ["Draconic Toxin Bottle"]
 ---
 # Draconic Toxin Bottle *Item 7*  
-[air](rules/traits/air.md)  [conjuration](rules/traits/conjuration.md)  [consumable](rules/traits/consumable.md)  [cursed](rules/traits/cursed-gmg.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[air](rules/traits/air.md "Air Energy & Element Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Consumable

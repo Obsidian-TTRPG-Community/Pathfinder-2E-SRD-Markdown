@@ -8,7 +8,7 @@ tags:
 aliases: ["Astrolabe"]
 ---
 # Astrolabe *Item 2+*  
-[uncommon](rules/traits/uncommon.md)  
+[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Usage** held in 2 hands; **Bulk** L
 - **Category** Held

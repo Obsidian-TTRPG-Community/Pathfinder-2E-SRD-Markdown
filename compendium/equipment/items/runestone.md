@@ -9,7 +9,7 @@ tags:
 aliases: ["Runestone"]
 ---
 # Runestone *Item 1*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 3 gp
 - **Usage** held in 1 hand; **Bulk** L

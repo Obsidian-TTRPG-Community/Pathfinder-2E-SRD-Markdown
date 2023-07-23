@@ -11,9 +11,9 @@ tags:
 aliases: ["Storm Of Vengeance"]
 ---
 # Storm Of Vengeance *Spell 9*   
-[air](rules/traits/air.md)  [electricity](rules/traits/electricity.md)  [evocation](rules/traits/evocation.md)  
+[air](rules/traits/air.md "Air Energy & Element Trait")  [electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md)
+- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**800 foot
 - **Area**360-foot burst

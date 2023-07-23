@@ -8,7 +8,7 @@ tags:
 aliases: ["Dubious Knowledge"]
 ---
 # Dubious Knowledge  *Feat 1*  
-[general](rules/traits/general.md)  [skill](rules/traits/skill.md)  
+[general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: trained in a skill with the [Recall Knowledge](rules/actions/recall-knowledge.md) action
 

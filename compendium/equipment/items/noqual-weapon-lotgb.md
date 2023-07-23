@@ -8,7 +8,7 @@ tags:
 aliases: ["Noqual Weapon"]
 ---
 # Noqual Weapon *Item 12+*  
-[rare](rules/traits/rare.md)  
+[rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** varies by weapon; **Bulk** varies by weapon
 - **Category** Material

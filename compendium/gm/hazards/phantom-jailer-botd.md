@@ -7,7 +7,7 @@ tags:
 aliases: ["Phantom Jailer"]
 ---
 # Phantom Jailer *Hazard 3*  
-[haunt](rules/traits/haunt.md)  
+[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 20 trained to notice the manacles twitch  

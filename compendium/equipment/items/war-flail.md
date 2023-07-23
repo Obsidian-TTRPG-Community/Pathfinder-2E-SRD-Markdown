@@ -10,7 +10,7 @@ tags:
 aliases: ["War Flail"]
 ---
 # War Flail *Item 0*  
-[disarm](rules/traits/disarm.md)  [sweep](rules/traits/sweep.md)  [trip](rules/traits/trip.md)  
+[disarm](rules/traits/disarm.md "Disarm Weapon Trait")  [sweep](rules/traits/sweep.md "Sweep Weapon Trait")  [trip](rules/traits/trip.md "Trip Weapon Trait")  
 
 - **Price** 2 gp
 - **Bulk** 2

@@ -11,7 +11,7 @@ tags:
 aliases: ["Book of Lost Days"]
 ---
 # Book of Lost Days *Item 15*  
-[cursed](rules/traits/cursed-gmg.md)  [enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [unique](rules/traits/unique.md)  
+[cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Usage** held in 2 hands; **Bulk** 1
 - **Category** Held

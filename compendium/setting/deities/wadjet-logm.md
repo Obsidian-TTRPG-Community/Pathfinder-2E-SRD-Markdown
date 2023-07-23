@@ -10,12 +10,12 @@ tags:
 - domain/zeal/deity
 aliases: ["Wadjet", "The Green Empress"]
 ---
-# Wadjet (The Green Empress) *([LG](rules/traits/lawful-goo-b1.md))*  
+# Wadjet (The Green Empress) *([LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 124*  
 
 - **Category**: Ancient Osirian Gods
 - **Anathema**: refuse to help a drowning creature, harm a rightful ruler
-- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [NG](rules/traits/neutral-good-b1.md)
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait")
 
 ## Devotee benefits
 

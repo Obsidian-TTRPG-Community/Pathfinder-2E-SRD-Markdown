@@ -7,7 +7,7 @@ tags:
 aliases: ["Mist Strider"]
 ---
 # Mist Strider  *Feat 13*  
-[azarketi](rules/traits/azarketi-loag.md)  
+[azarketi](rules/traits/azarketi-loag.md "Azarketi Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Water Strider](compendium/feats/water-strider-loag.md)
 

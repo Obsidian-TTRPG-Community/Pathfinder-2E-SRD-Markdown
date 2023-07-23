@@ -11,7 +11,7 @@ tags:
 aliases: ["Missive Mint"]
 ---
 # Missive Mint *Item 1*  
-[alchemical](rules/traits/alchemical.md)  [auditory](rules/traits/auditory.md)  [consumable](rules/traits/consumable.md)  [linguistic](rules/traits/linguistic.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  
 
 - **Price** 3 gp
 - **Usage** held in 1 hand; **Bulk** —

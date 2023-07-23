@@ -9,7 +9,7 @@ tags:
 aliases: ["Reassuring Presence"]
 ---
 # Reassuring Presence  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
-[anadi](rules/traits/anadi-lome.md)  [auditory](rules/traits/auditory.md)  [visual](rules/traits/visual.md)  
+[anadi](rules/traits/anadi-lome.md "Anadi Ancestry & Heritage Trait")  [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Trigger** An ally within 30 feet gains the [frightened](rules/conditions.md#Frightened) condition.
 - **Activity** Reaction

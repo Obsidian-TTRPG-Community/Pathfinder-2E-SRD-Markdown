@@ -11,7 +11,7 @@ tags:
 aliases: ["Symphony Of The Unfettered Heart"]
 ---
 # Symphony Of The Unfettered Heart *Focus 5*   
-[abjuration](rules/traits/abjuration.md)  [bard](rules/traits/bard.md)  [composition](rules/traits/composition.md)  [uncommon](rules/traits/uncommon.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [bard](rules/traits/bard.md "Bard Class Trait")  [composition](rules/traits/composition.md "Composition Spell Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot

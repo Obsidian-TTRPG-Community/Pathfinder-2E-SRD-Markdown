@@ -7,7 +7,7 @@ tags:
 aliases: ["Magical Edification"]
 ---
 # Magical Edification  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Loremaster Dedication](compendium/feats/loremaster-dedication-apg.md)
 

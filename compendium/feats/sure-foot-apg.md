@@ -8,7 +8,7 @@ tags:
 aliases: ["Sure Foot"]
 ---
 # Sure Foot  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Horizon Walker Dedication](compendium/feats/horizon-walker-dedication-apg.md), expert in [Acrobatics](compendium/skills.md#Acrobatics) and [Athletics](compendium/skills.md#Athletics)
 

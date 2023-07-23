@@ -8,7 +8,7 @@ tags:
 aliases: ["Gremlin Horde"]
 ---
 # Gremlin Horde *Hazard 6*  
-[complex](rules/traits/complex.md)  [magical](rules/traits/magical.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Complexity** Complex
 - **Stealth** +18 expert  

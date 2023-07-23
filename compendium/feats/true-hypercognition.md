@@ -7,7 +7,7 @@ tags:
 aliases: ["True Hypercognition"]
 ---
 # True Hypercognition  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 14*  
-[bard](rules/traits/bard.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  
 
 - **Prerequisites**: Enigma muse
 - **Activity** Single Action

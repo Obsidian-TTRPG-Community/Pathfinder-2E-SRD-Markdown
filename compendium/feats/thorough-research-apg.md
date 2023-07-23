@@ -7,7 +7,7 @@ tags:
 aliases: ["Thorough Research"]
 ---
 # Thorough Research  *Feat 6*  
-[investigator](rules/traits/investigator-apg.md)  
+[investigator](rules/traits/investigator-apg.md "Investigator Class Trait")  
 
 
 When you succeed at a [Recall Knowledge](rules/actions/recall-knowledge.md) check, you learn an additional fact about the subject. When you critically succeed at a [Recall Knowledge](rules/actions/recall-knowledge.md) check, you can gain even more additional information or context than normal, at the GM's discretion.

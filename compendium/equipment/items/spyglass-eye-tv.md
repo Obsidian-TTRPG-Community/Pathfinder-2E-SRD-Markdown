@@ -9,7 +9,7 @@ tags:
 aliases: ["Spyglass Eye"]
 ---
 # Spyglass Eye *Item 5*  
-[divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 160 gp
 - **Usage** worn; **Bulk** L

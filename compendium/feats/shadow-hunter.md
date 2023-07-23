@@ -7,7 +7,7 @@ tags:
 aliases: ["Shadow Hunter"]
 ---
 # Shadow Hunter  *Feat 18*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: [Camouflage](compendium/feats/camouflage.md)
 

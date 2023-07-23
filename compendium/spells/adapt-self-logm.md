@@ -9,7 +9,7 @@ tags:
 aliases: ["Adapt Self"]
 ---
 # Adapt Self *Focus 1*   
-[morph](rules/traits/morph.md)  [transmutation](rules/traits/transmutation.md)  
+[morph](rules/traits/morph.md "Morph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Domains**: [change](compendium/setting/domains.md#Change)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

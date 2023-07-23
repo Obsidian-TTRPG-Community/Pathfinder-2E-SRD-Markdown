@@ -7,7 +7,7 @@ tags:
 aliases: ["Rough Rider"]
 ---
 # Rough Rider  *Feat 1*  
-[goblin](rules/traits/goblin.md)  
+[goblin](rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  
 
 
 You are especially good at riding traditional goblin mounts. You gain the [Ride](compendium/feats/ride.md) feat, even if you don't meet the prerequisites. You gain a +1 circumstance bonus to [Nature](compendium/skills.md#Nature) checks to use [Command an Animal](rules/actions/command-an-animal.md) on a goblin dog or wolf mount. You can always select a wolf as your animal companion, even if you would usually select an animal companion with the mount special ability, such as for a champion's steed ally.

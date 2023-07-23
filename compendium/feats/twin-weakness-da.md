@@ -8,7 +8,7 @@ tags:
 aliases: ["Twin Weakness"]
 ---
 # Twin Weakness  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 10*  
-[esoterica](rules/traits/esoterica-da.md)  [thaumaturge](rules/traits/thaumaturge-da.md)  
+[esoterica](rules/traits/esoterica-da.md "Esoterica Action & Ability Trait")  [thaumaturge](rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
 
 - **Prerequisites**: mortal weakness or personal antithesis
 - **Requirements**: You're holding an implement and a weapon, you are using [Exploit Vulnerability](rules/actions/exploit-vulnerability-da.md) with mortal weakness or personal antithesis, and the target creature is within reach of both your implement and weapon.

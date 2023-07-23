@@ -9,7 +9,7 @@ tags:
 aliases: ["Suffering Xulgaths"]
 ---
 # Suffering Xulgaths *Hazard 16*  
-[complex](rules/traits/complex.md)  [haunt](rules/traits/haunt.md)  [unique](rules/traits/unique.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Complexity** Complex
 - **Stealth** +26 expert to hear the echoed shouts of panicked xulgaths.  
@@ -20,7 +20,7 @@ The shadows of four xulgaths endlessly relive their deaths at the hands of the w
 
 - **AC** 39 , **Fort** +27, **Ref** +31
 - **HP** 24 per spirit
-- **Immunities** death effects; [disease](rules/traits/disease.md); paralyzed; [poison](rules/traits/poison.md); precision; unconscious
+- **Immunities** death effects; [disease](rules/traits/disease.md "Disease Effect Trait"); paralyzed; [poison](rules/traits/poison.md "Poison Effect Trait"); precision; unconscious
 - **Resistances** all damage 20except fire, force, [ghost touch](compendium/equipment/items/ghost-touch.md), or positive
 - **Weaknesses** 
      
@@ -37,7 +37,7 @@ title: Routine
 (4 actions) Each active spirit chooses a living non-wendigo creature within 120 feet and attempts to devour it, targeting different creatures if possible. Each calmed spirit reduces the hazard's actions by 1.
 
 ```ad-inline-attack
-title: Melee [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Ghostly Bite (32) ([magical](rules/traits/magical.md))
+title: Melee [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Ghostly Bite (32) ([magical](rules/traits/magical.md "Magical Item Trait"))
 **Damage** `3d6+5` negative 
  
 **Effects** 

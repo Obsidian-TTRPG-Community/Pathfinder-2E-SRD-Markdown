@@ -12,7 +12,7 @@ tags:
 aliases: ["Long Hammer"]
 ---
 # Long Hammer *Item 0*  
-[brace](rules/traits/brace-tv.md)  [dwarf](rules/traits/dwarf.md)  [reach](rules/traits/reach.md)  [trip](rules/traits/trip.md)  [versatile <P>](rules/traits/versatile.md)  
+[brace](rules/traits/brace-tv.md "Brace Weapon Trait")  [dwarf](rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  [reach](rules/traits/reach.md "Reach Weapon Trait")  [trip](rules/traits/trip.md "Trip Weapon Trait")  [versatile <P>](rules/traits/versatile-p.md "Versatile Weapon Trait")  
 
 - **Price** 5 gp
 - **Bulk** 2

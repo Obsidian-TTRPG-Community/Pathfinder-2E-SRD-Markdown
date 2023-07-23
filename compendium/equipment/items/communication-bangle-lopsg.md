@@ -8,7 +8,7 @@ tags:
 aliases: ["Communication Bangle"]
 ---
 # Communication Bangle *Item 1*  
-[uncommon](rules/traits/uncommon.md)  
+[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 10 gp
 - **Usage** worn

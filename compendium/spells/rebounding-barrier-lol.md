@@ -9,9 +9,9 @@ tags:
 aliases: ["Rebounding Barrier"]
 ---
 # Rebounding Barrier *Spell 4*   
-[abjuration](rules/traits/abjuration.md)  [rare](rules/traits/rare.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
 - **Trigger**You are hit by a physical [Strike](rules/actions/strike.md).
 

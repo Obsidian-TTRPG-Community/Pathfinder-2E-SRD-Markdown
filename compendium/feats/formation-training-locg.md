@@ -7,7 +7,7 @@ tags:
 aliases: ["Formation Training"]
 ---
 # Formation Training  *Feat 5*  
-[hobgoblin](rules/traits/hobgoblin-locg.md)  
+[hobgoblin](rules/traits/hobgoblin-locg.md "Hobgoblin Ancestry & Heritage Trait")  
 
 - **Prerequisites**: trained in all martial weapons
 

@@ -10,12 +10,12 @@ tags:
 - domain/water/deity
 aliases: ["Lady Nanbyo", "The Widow of Suffering"]
 ---
-# Lady Nanbyo (The Widow of Suffering) *([CE](rules/traits/chaotic-evil-b1.md))*  
+# Lady Nanbyo (The Widow of Suffering) *([CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 132*  
 
 - **Category**: Tian Gods
 - **Anathema**: allow a natural disaster to completely destroy a community or leave a group with no survivors
-- **Follower Alignments**: [NE](rules/traits/neutral-evil-b1.md), [CE](rules/traits/chaotic-evil-b1.md)
+- **Follower Alignments**: [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Unending Emptiness"]
 ---
 # Unending Emptiness  *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: focus pool, [Shadowcaster Dedication](compendium/feats/shadowcaster-dedication-som.md)
 

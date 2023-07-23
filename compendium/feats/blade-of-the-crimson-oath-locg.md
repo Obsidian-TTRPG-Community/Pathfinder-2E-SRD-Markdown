@@ -7,7 +7,7 @@ tags:
 aliases: ["Blade Of The Crimson Oath"]
 ---
 # Blade Of The Crimson Oath  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Knight Reclaimant Dedication](compendium/feats/knight-reclaimant-dedication-locg.md)
 - **Activity** Two-Action

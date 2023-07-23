@@ -9,7 +9,7 @@ tags:
 aliases: ["Bootstrap Respirator"]
 ---
 # Bootstrap Respirator *Item 8*  
-[mechanical](rules/traits/mechanical.md)  [uncommon](rules/traits/uncommon.md)  
+[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 450 gp
 - **Usage** worn; **Bulk** L

@@ -7,7 +7,7 @@ tags:
 aliases: ["Shield Salvation"]
 ---
 # Shield Salvation  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Bastion Dedication](compendium/feats/bastion-dedication-apg.md)
 

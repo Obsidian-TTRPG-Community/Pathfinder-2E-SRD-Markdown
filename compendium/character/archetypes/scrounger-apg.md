@@ -15,7 +15,7 @@ You have spent countless hours disassembling and rebuilding complex items to lea
 title: Scrounger Dedication, Feat 2
 collapse: closed
 # Scrounger Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: trained in [Crafting](compendium/skills.md#Crafting)
 
@@ -30,14 +30,14 @@ You can incorporate any materials or items that you have on hand, even if they'r
 **Special.** You can't select another dedication feat until you have gained two other feats from the scrounger archetype.
 
 *Source: Advanced Player's Guide p. 190*  
-%% #trait/uncommon #trait/archetype #trait/dedication %%
+%% #trait/archetype #trait/dedication #trait/uncommon %%
 ```  
 
 ```ad-embed-feat
 title: Reverse Engineering, Feat 4
 collapse: closed
 # Reverse Engineering  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: expert in [Crafting](compendium/skills.md#Crafting), [Scrounger Dedication](compendium/feats/scrounger-dedication-apg.md)
 
@@ -51,7 +51,7 @@ You are able to reverse engineer items into formulas more effectively than most.
 title: High-quality Scrounger, Feat 6
 collapse: closed
 # High-quality Scrounger  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Scrounger Dedication](compendium/feats/scrounger-dedication-apg.md)
 
@@ -65,7 +65,7 @@ When you [Craft](rules/actions/craft.md) a temporary item using Scrounger Dedica
 title: Expert Disassembly, Feat 7
 collapse: closed
 # Expert Disassembly  *Feat 7*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: master in [Crafting](compendium/skills.md#Crafting), [Scrounger Dedication](compendium/feats/scrounger-dedication-apg.md)
 

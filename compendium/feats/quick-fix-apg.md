@@ -7,7 +7,7 @@ tags:
 aliases: ["Quick Fix"]
 ---
 # Quick Fix  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Talisman Dabbler Dedication](compendium/feats/talisman-dabbler-dedication-apg.md)
 

@@ -8,7 +8,7 @@ tags:
 aliases: ["Orthographic Mastery"]
 ---
 # Orthographic Mastery  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Loremaster Dedication](compendium/feats/loremaster-dedication-apg.md)
 

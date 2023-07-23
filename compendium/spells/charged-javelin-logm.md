@@ -10,7 +10,7 @@ tags:
 aliases: ["Charged Javelin"]
 ---
 # Charged Javelin *Focus 1*   
-[attack](rules/traits/attack.md)  [electricity](rules/traits/electricity.md)  [evocation](rules/traits/evocation.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  [electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
 - **Domains**: [lightning](compendium/setting/domains.md#Lightning)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
@@ -21,7 +21,7 @@ You fire a javelin of electricity that leaves a charged field around its target.
 
 > [!success-degree] 
 > - **Critical Success** The javelin deals double damage, both initial and persistent.
-> - **Success** The javelin deals full damage. As long as the target is taking [persistent damage](rules/conditions.md#Persistent%20Damage) from this spell, creatures gain a +1 status bonus to attack rolls with metal weapons or [electricity](rules/traits/electricity.md) effects against the target, and the target takes a –1 status penalty to saves against [electricity](rules/traits/electricity.md) effects.
+> - **Success** The javelin deals full damage. As long as the target is taking [persistent damage](rules/conditions.md#Persistent%20Damage) from this spell, creatures gain a +1 status bonus to attack rolls with metal weapons or [electricity](rules/traits/electricity.md "Electricity Energy & Element Trait") effects against the target, and the target takes a –1 status penalty to saves against [electricity](rules/traits/electricity.md "Electricity Energy & Element Trait") effects.
 
 **Heightened (+ 1)** The initial damage increases by `1d6`, and the [persistent damage](rules/conditions.md#Persistent%20Damage) increases by 1.
 

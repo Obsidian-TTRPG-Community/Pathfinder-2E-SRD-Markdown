@@ -7,7 +7,7 @@ tags:
 aliases: ["Crystalline Dust"]
 ---
 # Crystalline Dust  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 5*  
-[aphorite](rules/traits/aphorite-loag.md)  
+[aphorite](rules/traits/aphorite-loag.md "Aphorite Ancestry & Heritage Trait")  
 
 - **Frequency**: once per day
 - **Activity** Two-Action

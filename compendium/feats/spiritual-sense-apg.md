@@ -9,7 +9,7 @@ tags:
 aliases: ["Spiritual Sense"]
 ---
 # Spiritual Sense  *Feat 6*  
-[divination](rules/traits/divination.md)  [divine](rules/traits/divine.md)  [oracle](rules/traits/oracle-apg.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  
 
 
 You have a vague connection to the Ethereal Plane that enables you to notice spirits. While you're exploring but not [Searching](rules/actions/search.md), the GM rolls a secret check for you to find haunts that usually require [Searching](rules/actions/search.md), as well as spirits, creatures on the Ethereal Plane, and beings made entirely of spiritual essence such as celestials, fiends, and monitors.

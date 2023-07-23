@@ -8,7 +8,7 @@ tags:
 aliases: ["Rallying Cry"]
 ---
 # Rallying Cry  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 17*  
-[auditory](rules/traits/auditory.md)  [hobgoblin](rules/traits/hobgoblin-locg.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [hobgoblin](rules/traits/hobgoblin-locg.md "Hobgoblin Ancestry & Heritage Trait")  
 
 - **Frequency**: once per day
 - **Activity** Two-Action

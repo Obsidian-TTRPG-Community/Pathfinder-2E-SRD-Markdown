@@ -7,7 +7,7 @@ tags:
 aliases: ["Litany Against Wrath"]
 ---
 # Litany Against Wrath  *Feat 6*  
-[champion](rules/traits/champion.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  
 
 - **Prerequisites**: devotion spells, tenets of good
 

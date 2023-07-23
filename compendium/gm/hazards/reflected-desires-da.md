@@ -11,7 +11,7 @@ tags:
 aliases: ["Reflected Desires"]
 ---
 # Reflected Desires *Hazard 1*  
-[enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  [trap](rules/traits/trap.md)  [visual](rules/traits/visual.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 17 (0 to notice the mirror)  
@@ -28,7 +28,7 @@ This mirror reflects the viewer's deepest desires.
      
 ```ad-embed-ability
 title: Tempt [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[enchantment](rules/traits/enchantment.md)  [mental](rules/traits/mental.md)  [occult](rules/traits/occult.md)  [visual](rules/traits/visual.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Trigger**: A creature looks into the mirror
 

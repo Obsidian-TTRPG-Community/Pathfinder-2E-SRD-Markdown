@@ -7,7 +7,7 @@ tags:
 aliases: ["Charged Creation"]
 ---
 # Charged Creation  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Persistent Creation](compendium/feats/persistent-creation-locg.md)
 

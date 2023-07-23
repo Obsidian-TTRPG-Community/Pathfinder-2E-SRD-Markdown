@@ -7,7 +7,7 @@ tags:
 aliases: ["Deep Vision"]
 ---
 # Deep Vision  *Feat 1*  
-[fleshwarp](rules/traits/fleshwarp-loag.md)  
+[fleshwarp](rules/traits/fleshwarp-loag.md "Fleshwarp Ancestry & Heritage Trait")  
 
 
 Your vision is suited for night or the underground. You gain [darkvision](rules/abilities/darkvision.md).

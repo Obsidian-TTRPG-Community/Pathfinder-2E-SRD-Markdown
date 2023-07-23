@@ -8,7 +8,7 @@ tags:
 aliases: ["Sturdy Satchel"]
 ---
 # Sturdy Satchel *Item 2*  
-[uncommon](rules/traits/uncommon.md)  
+[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 30 gp
 - **Usage** worn; **Bulk** 1

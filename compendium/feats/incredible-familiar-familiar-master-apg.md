@@ -7,7 +7,7 @@ tags:
 aliases: ["Incredible Familiar (Familiar Master)"]
 ---
 # Incredible Familiar (Familiar Master)  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: Enhanced Familiar
 

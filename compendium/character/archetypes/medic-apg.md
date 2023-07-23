@@ -15,7 +15,7 @@ You've studied countless techniques for providing medical aid, making you a peer
 title: Medic Dedication, Feat 2
 collapse: closed
 # Medic Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: trained in [Medicine](compendium/skills.md#Medicine), [Battle Medicine](compendium/feats/battle-medicine.md)
 
@@ -31,7 +31,7 @@ You become an expert in [Medicine](compendium/skills.md#Medicine). When you succ
 title: Doctor's Visitation, Feat 4
 collapse: closed
 # Doctor's Visitation  [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies") *Feat 4*  
-[archetype](rules/traits/archetype.md)  [flourish](rules/traits/flourish.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 - **Prerequisites**: [Medic Dedication](compendium/feats/medic-dedication-apg.md)
 - **Activity** Varies ([>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") OR [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action"))
@@ -46,7 +46,7 @@ You move to provide immediate care to those who need it. [Stride](rules/actions/
 title: Treat Condition, Feat 4
 collapse: closed
 # Treat Condition  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  [healing](rules/traits/healing.md)  [manipulate](rules/traits/manipulate.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Medic Dedication](compendium/feats/medic-dedication-apg.md)
 - **Requirements**: You are holding healer's tools, or you are wearing them and have a hand free.
@@ -67,7 +67,7 @@ You treat an adjacent creature in an attempt to reduce the [clumsy](rules/condit
 title: Holistic Care, Feat 6
 collapse: closed
 # Holistic Care  *Feat 6*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: trained in [Diplomacy](compendium/skills.md#Diplomacy), [Treat Condition](compendium/feats/treat-condition-apg.md)
 
@@ -83,7 +83,7 @@ Add [frightened](rules/conditions.md#Frightened), [stupefied](rules/conditions.m
 title: Resuscitate, Feat 16*
 collapse: closed
 # Resuscitate  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 16*  
-[archetype](rules/traits/archetype.md)  [healing](rules/traits/healing.md)  [manipulate](rules/traits/manipulate.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 
 > [!pf2-note] This version of [Resuscitate](compendium/feats/resuscitate-apg.md) is intended for use with the Medic Archetype. Its level has been changed accordingly.
 

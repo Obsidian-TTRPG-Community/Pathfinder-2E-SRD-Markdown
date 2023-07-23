@@ -7,7 +7,7 @@ tags:
 aliases: ["Versatile Spellstrike"]
 ---
 # Versatile Spellstrike  *Feat 18*  
-[magus](rules/traits/magus-som.md)  
+[magus](rules/traits/magus-som.md "Magus Class Trait")  
 
 - **Prerequisites**: [Spellstrike](rules/actions/spellstrike-som.md)
 

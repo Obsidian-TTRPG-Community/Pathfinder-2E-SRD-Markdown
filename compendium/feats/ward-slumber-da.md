@@ -9,7 +9,7 @@ tags:
 aliases: ["Ward Slumber"]
 ---
 # Ward Slumber  *Feat 12*  
-[abjuration](rules/traits/abjuration.md)  [archetype](rules/traits/archetype.md)  [occult](rules/traits/occult.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 - **Prerequisites**: [Sleepwalker Dedication](compendium/feats/sleepwalker-dedication-da.md)
 

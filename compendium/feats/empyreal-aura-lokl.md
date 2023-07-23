@@ -8,7 +8,7 @@ tags:
 aliases: ["Empyreal Aura"]
 ---
 # Empyreal Aura  *Feat 20*  
-[archetype](rules/traits/archetype.md)  [aura](rules/traits/aura.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [aura](rules/traits/aura.md "Aura Combat Trait")  
 
 - **Prerequisites**: Knight Vigilant, legendary in [Religion](compendium/skills.md#Religion)
 

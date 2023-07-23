@@ -7,7 +7,7 @@ tags:
 aliases: ["Shadow Of The Wilds"]
 ---
 # Shadow Of The Wilds  *Feat 1*  
-[leshy](rules/traits/leshy-b1.md)  
+[leshy](rules/traits/leshy-b1.md "Leshy Ancestry & Heritage Trait")  
 
 
 It's difficult to notice your passage through wild areas. As long as you're not in an urban environment, you're always considered to be [Covering Tracks](rules/actions/cover-tracks.md), even if you chose a different activity in exploration mode.

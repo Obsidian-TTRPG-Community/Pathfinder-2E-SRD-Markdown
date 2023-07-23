@@ -12,7 +12,7 @@ tags:
 aliases: ["Nature's Bounty"]
 ---
 # Nature's Bounty *Focus 4*   
-[cleric](rules/traits/cleric.md)  [conjuration](rules/traits/conjuration.md)  [plant](rules/traits/plant.md)  [positive](rules/traits/positive.md)  [uncommon](rules/traits/uncommon.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Domains**: [nature](compendium/setting/domains.md#Nature)
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 

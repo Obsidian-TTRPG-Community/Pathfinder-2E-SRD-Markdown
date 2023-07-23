@@ -8,7 +8,7 @@ tags:
 aliases: ["Scythe Blades"]
 ---
 # Scythe Blades *Hazard 4*  
-[mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  
+[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 23 trained  
@@ -25,7 +25,7 @@ Two blades, each [hidden](rules/conditions.md#Hidden) in a 15-foot-long ceiling 
      
 ```ad-embed-ability
 title: Falling Scythes [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[attack](rules/traits/attack.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  
 
 - **Trigger**: The trip wire is pulled or severed.
 

@@ -9,7 +9,7 @@ tags:
 aliases: ["Abyss-Warped Trees"]
 ---
 # Abyss-Warped Trees *Hazard 4*  
-[complex](rules/traits/complex.md)  [environmental](rules/traits/environmental.md)  [unique](rules/traits/unique.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Complexity** Complex
 - **Stealth** DC 12 trained to determine the trees can move  

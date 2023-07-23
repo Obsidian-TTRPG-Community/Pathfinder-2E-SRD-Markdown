@@ -8,7 +8,7 @@ tags:
 aliases: ["Vicious Vengeance"]
 ---
 # Vicious Vengeance  *Feat 1*  
-[champion](rules/traits/champion.md)  [uncommon](rules/traits/uncommon.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: antipaladin cause
 

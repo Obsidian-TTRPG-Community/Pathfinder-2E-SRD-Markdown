@@ -7,7 +7,7 @@ tags:
 aliases: ["Call Of The Green Man"]
 ---
 # Call Of The Green Man  *Feat 13*  
-[leshy](rules/traits/leshy-b1.md)  
+[leshy](rules/traits/leshy-b1.md "Leshy Ancestry & Heritage Trait")  
 
 
 You can call forth nearby nature spirits to augment your body. Once per day, you can cast [plant form](compendium/spells/plant-form.md) as a 5th-level primal innate spell. When you reach 17th level, this spell can be heightened to 6th level.

@@ -7,7 +7,7 @@ tags:
 aliases: ["Vanara Weapon Trickery"]
 ---
 # Vanara Weapon Trickery  *Feat 5*  
-[vanara](rules/traits/vanara-loil.md)  
+[vanara](rules/traits/vanara-loil.md "Vanara Ancestry & Heritage Trait")  
 
 - **Prerequisites**: Vanara Weapon Familiarity
 

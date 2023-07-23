@@ -9,7 +9,7 @@ tags:
 aliases: ["Flying Guillotine"]
 ---
 # Flying Guillotine *Hazard 5*  
-[complex](rules/traits/complex.md)  [magical](rules/traits/magical.md)  [trap](rules/traits/trap.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +10 trained or DC 23 (expert) to spot the glyph  
@@ -26,7 +26,7 @@ An [invisible](rules/conditions.md#Invisible) magical glyph on the guillotine's 
      
 ```ad-embed-ability
 title: Flying Blade [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[abjuration](rules/traits/abjuration.md)  [arcane](rules/traits/arcane.md)  [attack](rules/traits/attack.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [attack](rules/traits/attack.md "Attack Combat Trait")  
 
 - **Trigger**: A living creature enters the room
 

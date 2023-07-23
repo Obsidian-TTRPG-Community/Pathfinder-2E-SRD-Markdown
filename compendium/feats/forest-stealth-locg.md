@@ -7,7 +7,7 @@ tags:
 aliases: ["Forest Stealth"]
 ---
 # Forest Stealth  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 5*  
-[elf](rules/traits/elf.md)  
+[elf](rules/traits/elf.md "Elf Ancestry & Heritage Trait")  
 
 - **Prerequisites**: Expert in [Stealth](compendium/skills.md#Stealth)
 - **Requirements**: You are in a forest or jungle environment near an environmental feature that would allow you to [Take Cover](rules/actions/take-cover.md)

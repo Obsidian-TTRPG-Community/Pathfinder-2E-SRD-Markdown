@@ -7,7 +7,7 @@ tags:
 aliases: ["Water Step"]
 ---
 # Water Step  *Feat 6*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 
 You can [Stride](rules/actions/stride.md) across liquid and surfaces that don't support your weight. This benefit lasts only during your movement. If you end your movement on a surface that can't support you, you fall in or it collapses as normal.

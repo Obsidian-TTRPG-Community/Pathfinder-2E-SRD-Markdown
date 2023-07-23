@@ -10,7 +10,7 @@ tags:
 aliases: ["Protector's Sacrifice"]
 ---
 # Protector's Sacrifice *Focus 1*   
-[abjuration](rules/traits/abjuration.md)  [cleric](rules/traits/cleric.md)  [uncommon](rules/traits/uncommon.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [cleric](rules/traits/cleric.md "Cleric Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Domains**: [protection](compendium/setting/domains.md#Protection)
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 

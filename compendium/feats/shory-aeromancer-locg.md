@@ -7,7 +7,7 @@ tags:
 aliases: ["Shory Aeromancer"]
 ---
 # Shory Aeromancer  *Feat 9*  
-[human](rules/traits/human.md)  
+[human](rules/traits/human.md "Human Ancestry & Heritage Trait")  
 
 - **Prerequisites**: Garundi, Mauxi, or Tian-Yae ethnicity
 

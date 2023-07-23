@@ -8,15 +8,15 @@ tags:
 aliases: ["Wish"]
 ---
 # Wish *Spell 10*   
-[divination](rules/traits/divination.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
 
 You state a wish, making your greatest desire come true. A [wish](compendium/spells/wish.md) spell can produce any one of the following effects.
 
 - Duplicate any spell from the arcane list of 9th level or lower to which you have access.
-- Duplicate any spell from another spell list of 7th level or lower. It must be [common](rules/traits/common.md) or you must have access.
+- Duplicate any spell from another spell list of 7th level or lower. It must be [common](rules/traits/common.md "Common Rarity Trait") or you must have access.
 - Produce any effect whose power level is in line with the above effects.
 - Reverse certain effects that refer to the [wish](compendium/spells/wish.md) spell.
 

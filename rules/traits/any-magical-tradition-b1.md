@@ -10,6 +10,6 @@ aliases: ["Any Magical Tradition"]
 *Source: Bestiary p. 342*  
 
 > [!pf2-note]
-> Replace this trait with another fitting magic tradition, such as [Arcane](rules/traits/arcane.md), [Divine](rules/traits/divine.md), [Primal](rules/traits/primal.md), or [Occult](rules/traits/occult.md).
+> Replace this trait with another fitting magic tradition, such as [Arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [Divine](rules/traits/divine.md "Divine Tradition Trait"), [Primal](rules/traits/primal.md "Primal Tradition Trait"), or [Occult](rules/traits/occult.md "Occult Tradition Trait").
 
 - **Categories**: Tradition

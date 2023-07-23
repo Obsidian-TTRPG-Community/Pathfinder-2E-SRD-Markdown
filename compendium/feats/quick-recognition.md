@@ -8,7 +8,7 @@ tags:
 aliases: ["Quick Recognition"]
 ---
 # Quick Recognition  *Feat 7*  
-[general](rules/traits/general.md)  [skill](rules/traits/skill.md)  
+[general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: master in [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), or [Religion](compendium/skills.md#Religion); [Recognize Spell](compendium/feats/recognize-spell.md)
 

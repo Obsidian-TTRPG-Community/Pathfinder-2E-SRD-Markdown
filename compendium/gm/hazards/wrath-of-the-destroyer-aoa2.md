@@ -9,7 +9,7 @@ tags:
 aliases: ["Wrath Of The Destroyer"]
 ---
 # Wrath Of The Destroyer *Hazard 10*  
-[complex](rules/traits/complex.md)  [magical](rules/traits/magical.md)  [trap](rules/traits/trap.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +22 expert to notice subtle vapors of magical energy seething across the doors.  
@@ -20,7 +20,7 @@ These heavy doors, carved with an image of [Dahak](compendium/setting/deities/da
 
 - **AC** 30 , **Fort** +22, **Ref** +14
 - **Door  Hardness** 18, **Door  HP** 72 (BT 36)
-- **Immunities** critical hits; [fire](rules/traits/fire.md); object immunities; precision damage
+- **Immunities** critical hits; [fire](rules/traits/fire.md "Fire Energy & Element Trait"); object immunities; precision damage
 - **Resistances** 
 - **Weaknesses** 
      
@@ -38,7 +38,7 @@ title: Routine
 
 ```ad-embed-ability
 title: Face of the Fatal Divine [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[death](rules/traits/death.md)  [divine](rules/traits/divine.md)  [emotion](rules/traits/emotion.md)  [fear](rules/traits/fear.md)  [illusion](rules/traits/illusion.md)  [mental](rules/traits/mental.md)  
+[death](rules/traits/death.md "Death Effect Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 The creature beholds the face of [Dahak](compendium/setting/deities/dahak-logm.md) as it emerges to bite with its burning jaws, targeting the creature with [phantasmal killer](compendium/spells/phantasmal-killer.md) (5th level, Will DC 29).  
 %% #trait/death #trait/divine #trait/emotion #trait/fear #trait/illusion #trait/mental %%

@@ -17,15 +17,15 @@ Sleepwalkers dedicate themselves to unlocking the secrets of the sleeping mind, 
 title: Sleepwalker Dedication, Feat 4
 collapse: closed
 # Sleepwalker Dedication  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: expert in [Occultism](compendium/skills.md#Occultism)
 
-You've learned to manipulate states of consciousness, beginning with your own. You can send yourself into a half-awake, daydreaming state and gain the Daydream Trance action. Daydream Trance [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") (enchantment, mental, occult) You fall into a half-sleeping trance. This lasts for 1 minute or until you fall [unconscious](rules/conditions.md#Unconscious), whichever comes first. You can voluntarily end your trance by taking a single action, which has a [concentrate](rules/traits/concentrate.md) trait, and succeeding at a Will save against your own class DC or spell DC, whichever is higher.
+You've learned to manipulate states of consciousness, beginning with your own. You can send yourself into a half-awake, daydreaming state and gain the Daydream Trance action. Daydream Trance [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") (enchantment, mental, occult) You fall into a half-sleeping trance. This lasts for 1 minute or until you fall [unconscious](rules/conditions.md#Unconscious), whichever comes first. You can voluntarily end your trance by taking a single action, which has a [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") trait, and succeeding at a Will save against your own class DC or spell DC, whichever is higher.
 
 Once your trance ends, you can't enter a Daydream Trance again for 1 minute. While you're in your trance, you gain the following effects:
 
-- You gain a +1 status bonus to Will saves. This bonus increases to +2 against [mental](rules/traits/mental.md) effects. If you're legendary in [Occultism](compendium/skills.md#Occultism), the bonus against [mental](rules/traits/mental.md) effects increases to +3.
+- You gain a +1 status bonus to Will saves. This bonus increases to +2 against [mental](rules/traits/mental.md "Mental Effect Trait") effects. If you're legendary in [Occultism](compendium/skills.md#Occultism), the bonus against [mental](rules/traits/mental.md "Mental Effect Trait") effects increases to +3.
 - You take a –1 penalty to [Perception](compendium/skills.md#Perception) checks and initiative rolls.
 
 **Special.** You can't select another dedication feat until you have gained two other feats from the sleepwalker archetype.
@@ -38,7 +38,7 @@ Once your trance ends, you can't enter a Daydream Trance again for 1 minute. Whi
 title: Infiltrate Dream, Feat 6
 collapse: closed
 # Infiltrate Dream  *Feat 6*  
-[archetype](rules/traits/archetype.md)  [enchantment](rules/traits/enchantment.md)  [mental](rules/traits/mental.md)  [occult](rules/traits/occult.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 - **Prerequisites**: [Sleepwalker Dedication](compendium/feats/sleepwalker-dedication-da.md)
 
@@ -59,7 +59,7 @@ While within the dream, you can attempt an [Occultism](compendium/skills.md#Occu
 title: Vision of Foresight, Feat 6
 collapse: closed
 # Vision of Foresight  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  [divination](rules/traits/divination.md)  [fortune](rules/traits/fortune.md)  [occult](rules/traits/occult.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 - **Prerequisites**: [Sleepwalker Dedication](compendium/feats/sleepwalker-dedication-da.md)
 - **Requirements**: You're in a Daydream Trance
@@ -75,7 +75,7 @@ You use your daydreams to predict the success of actions, rapidly envisioning th
 title: Dream Magic, Feat 8
 collapse: closed
 # Dream Magic  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Sleepwalker Dedication](compendium/feats/sleepwalker-dedication-da.md)
 
@@ -91,7 +91,7 @@ You learn dream-related magic to aid your studies. Choose dream message or sleep
 title: Waking Dream, Feat 8
 collapse: closed
 # Waking Dream  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Sleepwalker Dedication](compendium/feats/sleepwalker-dedication-da.md)
 
@@ -107,7 +107,7 @@ You gain a pool of Focus Points with 1 Focus Point and you can [Refocus](rules/a
 title: Oneiric Influence, Feat 12*
 collapse: closed
 # Oneiric Influence  *Feat 12*  
-[archetype](rules/traits/archetype.md)  [enchantment](rules/traits/enchantment.md)  [incapacitation](rules/traits/incapacitation.md)  [mental](rules/traits/mental.md)  [occult](rules/traits/occult.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 > [!pf2-note] This version of [Oneiric Influence](compendium/feats/oneiric-influence-da.md) is intended for use with the Sleepwalker Archetype. Its level has been changed accordingly.
 
@@ -123,7 +123,7 @@ While Infiltrating a Dream, you can also implant a suggestion in the target's mi
 title: Ward Slumber, Feat 12*
 collapse: closed
 # Ward Slumber  *Feat 12*  
-[abjuration](rules/traits/abjuration.md)  [archetype](rules/traits/archetype.md)  [occult](rules/traits/occult.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 > [!pf2-note] This version of [Ward Slumber](compendium/feats/ward-slumber-da.md) is intended for use with the Sleepwalker Archetype. Its level has been changed accordingly.
 
@@ -141,7 +141,7 @@ They heal double the usual amount of Hit Points from resting.
 title: Dream Logic, Feat 14*
 collapse: closed
 # Dream Logic  *Feat 14*  
-[archetype](rules/traits/archetype.md)  [enchantment](rules/traits/enchantment.md)  [mental](rules/traits/mental.md)  [occult](rules/traits/occult.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 > [!pf2-note] This version of [Dream Logic](compendium/feats/dream-logic-da.md) is intended for use with the Sleepwalker Archetype. Its level has been changed accordingly.
 
@@ -159,7 +159,7 @@ Any [hostile](rules/conditions.md#Hostile) action by you or your allies against 
 title: Shared Dream, Feat 16*
 collapse: closed
 # Shared Dream  *Feat 16*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Shared Dream](compendium/feats/shared-dream-da.md) is intended for use with the Sleepwalker Archetype. Its level has been changed accordingly.
 
@@ -175,7 +175,7 @@ You've learned to create a shared dreamscape to communicate with others. You can
 title: Ever Dreaming, Feat 18*
 collapse: closed
 # Ever Dreaming  *Feat 18*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Ever Dreaming](compendium/feats/ever-dreaming-da.md) is intended for use with the Sleepwalker Archetype. Its level has been changed accordingly.
 

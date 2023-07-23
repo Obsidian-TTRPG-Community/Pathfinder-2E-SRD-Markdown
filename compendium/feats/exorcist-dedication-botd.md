@@ -8,7 +8,7 @@ tags:
 aliases: ["Exorcist Dedication"]
 ---
 # Exorcist Dedication  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: trained in [Occultism](compendium/skills.md#Occultism) or [Religion](compendium/skills.md#Religion)
 
@@ -18,11 +18,11 @@ As an exorcist, you do more than just collect spirits: you also help rid them of
 
 You can also learn abilities that let you purify a spirit in your spirit dwelling immediately in a cathartic surge, granting you a [helpful](rules/conditions.md#Helpful) effect as they depart for the afterlife.
 
-Any actions you gain from the exorcist archetype gain either the [divine](rules/traits/divine.md) or [occult](rules/traits/occult.md) trait, depending on whether you used [Occultism](compendium/skills.md#Occultism) or [Religion](compendium/skills.md#Religion) to qualify for Exorcist Dedication. Spirit's Mercy is the simplest of the purifications.
+Any actions you gain from the exorcist archetype gain either the [divine](rules/traits/divine.md "Divine Tradition Trait") or [occult](rules/traits/occult.md "Occult Tradition Trait") trait, depending on whether you used [Occultism](compendium/skills.md#Occultism) or [Religion](compendium/skills.md#Religion) to qualify for Exorcist Dedication. Spirit's Mercy is the simplest of the purifications.
 
 ```ad-embed-ability
 title: Spirit's Mercy [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[necromancy](rules/traits/necromancy.md)  
+[necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 - **Cost**: 1 spirit wisp or remnant
 - **Trigger**: You take positive or negative damage, or you take any type of damage caused by a haunt, ghost, or other incorporeal undead

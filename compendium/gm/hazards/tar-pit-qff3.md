@@ -8,7 +8,7 @@ tags:
 aliases: ["Tar Pit"]
 ---
 # Tar Pit *Hazard 9*  
-[complex](rules/traits/complex.md)  [environmental](rules/traits/environmental.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** DC 30 expert  

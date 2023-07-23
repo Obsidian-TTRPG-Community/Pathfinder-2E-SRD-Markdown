@@ -10,12 +10,12 @@ tags:
 - domain/sorrow/deity
 aliases: ["Andoletta", "Grandmother Crow"]
 ---
-# Andoletta (Grandmother Crow) *([LG](rules/traits/lawful-goo-b1.md))*  
+# Andoletta (Grandmother Crow) *([LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 128*  
 
 - **Category**: Empyreal Lords
 - **Anathema**: hold a grudge, mock the dead, pass judgment hastily or carelessly
-- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [NG](rules/traits/neutral-good-b1.md)
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait")
 
 ## Devotee benefits
 

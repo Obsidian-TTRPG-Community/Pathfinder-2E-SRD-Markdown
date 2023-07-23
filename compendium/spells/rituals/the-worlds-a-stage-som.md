@@ -10,7 +10,7 @@ tags:
 aliases: ["The World's A Stage"]
 ---
 # The World's A Stage *Ritual 5*  
-[divination](rules/traits/divination.md)  [fortune](rules/traits/fortune.md)  [uncommon](rules/traits/uncommon.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** 1 day
 - **Cost** costumes and a stage large enough to fit all casters

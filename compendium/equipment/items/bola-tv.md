@@ -10,7 +10,7 @@ tags:
 aliases: ["Bola"]
 ---
 # Bola *Item 0*  
-[nonlethal](rules/traits/nonlethal.md)  [ranged trip](rules/traits/ranged-trip-b1.md)  [thrown](rules/traits/thrown.md)  
+[nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait")  [ranged trip](rules/traits/ranged-trip-b1.md "Ranged Trip Weapon Trait")  [thrown](rules/traits/thrown.md "Thrown Weapon Trait")  
 
 - **Price** 5 sp
 - **Bulk** L

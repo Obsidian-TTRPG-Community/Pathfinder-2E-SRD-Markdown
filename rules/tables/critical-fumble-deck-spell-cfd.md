@@ -50,7 +50,7 @@ aliases: ["Critical Fumble Deck: Spell"]
 | 38 | **The Magic is Gone** You take a -1 circumstance penalty to attack rolls until you score a critical hit. |
 | 39 | **Can You Hear Me Now?** Until healed, you are [deafened](rules/conditions.md#Deafened). |
 | 40 | **Error!** You deal the spell's normal damage to yourself instead of the target. |
-| 41 | **Why Me?** You provoke reactions as if you used a [move](rules/traits/move.md) action. |
+| 41 | **Why Me?** You provoke reactions as if you used a [move](rules/traits/move.md "Move Combat Trait") action. |
 | 42 | **Poor Trade** You hit, but you lose a prepared spell or spell slot of the highest level available (you choose the spell). |
 | 43 | **You Made 'em Tougher** The target gains resistance 5 to all damage until the start of its next turn. |
 | 44 | **You Made 'em Faster** The target is [quickened](rules/conditions.md#Quickened) for 2 rounds. |

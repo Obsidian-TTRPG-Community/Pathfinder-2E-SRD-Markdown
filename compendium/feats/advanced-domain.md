@@ -7,7 +7,7 @@ tags:
 aliases: ["Advanced Domain"]
 ---
 # Advanced Domain  *Feat 8*  
-[cleric](rules/traits/cleric.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  
 
 - **Prerequisites**: [Domain Initiate](compendium/feats/domain-initiate.md)
 

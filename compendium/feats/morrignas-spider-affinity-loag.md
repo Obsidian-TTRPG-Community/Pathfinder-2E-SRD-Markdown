@@ -7,7 +7,7 @@ tags:
 aliases: ["Morrigna's Spider Affinity"]
 ---
 # Morrigna's Spider Affinity  *Feat 9*  
-[duskwalker](rules/traits/duskwalker-apg.md)  
+[duskwalker](rules/traits/duskwalker-apg.md "Duskwalker Ancestry & Heritage Trait")  
 
 
 Much like morrignas, you feel an affinity for spiders. You can cast [animal messenger](compendium/spells/animal-messenger.md) (spiders only), speak with animals (spiders only), and spider climb each once per day as 2nd-level divine innate spells.

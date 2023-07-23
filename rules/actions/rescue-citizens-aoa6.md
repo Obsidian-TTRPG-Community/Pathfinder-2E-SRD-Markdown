@@ -9,7 +9,7 @@ tags:
 aliases: ["Rescue Citizens"]
 ---
 # Rescue Citizens
-[exploration](rules/traits/exploration.md)  [move](rules/traits/move.md)  
+[exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [move](rules/traits/move.md "Move Combat Trait")  
 *Source: Age of Ashes #6: Broken Promises p. 12*  
 
 

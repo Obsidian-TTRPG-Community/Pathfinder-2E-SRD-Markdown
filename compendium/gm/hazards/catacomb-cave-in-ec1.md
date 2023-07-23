@@ -8,7 +8,7 @@ tags:
 aliases: ["Catacomb Cave-in"]
 ---
 # Catacomb Cave-in *Hazard 4*  
-[environmental](rules/traits/environmental.md)  [trap](rules/traits/trap.md)  
+[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 23 trained  

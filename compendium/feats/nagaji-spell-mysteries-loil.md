@@ -7,7 +7,7 @@ tags:
 aliases: ["Nagaji Spell Mysteries"]
 ---
 # Nagaji Spell Mysteries  *Feat 5*  
-[nagaji](rules/traits/nagaji-loil.md)  
+[nagaji](rules/traits/nagaji-loil.md "Nagaji Ancestry & Heritage Trait")  
 
 - **Prerequisites**: at least one innate spell from a nagaji heritage or ancestry feat
 

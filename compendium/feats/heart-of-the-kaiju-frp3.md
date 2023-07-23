@@ -8,7 +8,7 @@ tags:
 aliases: ["Heart Of The Kaiju"]
 ---
 # Heart Of The Kaiju  *Feat 20*  
-[druid](rules/traits/druid.md)  [uncommon](rules/traits/uncommon.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Monstrosity Shape](compendium/feats/monstrosity-shape.md)
 

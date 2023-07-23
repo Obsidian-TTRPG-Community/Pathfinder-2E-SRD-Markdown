@@ -7,7 +7,7 @@ tags:
 aliases: ["Keep Pace"]
 ---
 # Keep Pace  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Bounty Hunter Dedication](compendium/feats/bounty-hunter-dedication-apg.md)
 - **Trigger** Your prey is within reach and attempts to move away from you.

@@ -7,7 +7,7 @@ tags:
 aliases: ["Springing Leaper"]
 ---
 # Springing Leaper  *Feat 5*  
-[catfolk](rules/traits/catfolk-b1.md)  
+[catfolk](rules/traits/catfolk-b1.md "Catfolk Ancestry & Heritage Trait")  
 
 - **Prerequisites**: expert in [Athletics](compendium/skills.md#Athletics)
 

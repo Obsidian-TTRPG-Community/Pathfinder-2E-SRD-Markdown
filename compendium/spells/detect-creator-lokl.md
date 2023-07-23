@@ -10,9 +10,9 @@ tags:
 aliases: ["Detect Creator"]
 ---
 # Detect Creator *Spell 4*   
-[detection](rules/traits/detection.md)  [divination](rules/traits/divination.md)  [rare](rules/traits/rare.md)  
+[detection](rules/traits/detection.md "Detection Effect Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [divine](rules/traits/divine.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 10 minutes 
 - **Range**mile
 - **Targets**1 destroyed undead

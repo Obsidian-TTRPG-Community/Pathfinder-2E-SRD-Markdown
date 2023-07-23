@@ -7,7 +7,7 @@ tags:
 aliases: ["Crude Communication"]
 ---
 # Crude Communication  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Linguist Dedication](compendium/feats/linguist-dedication-apg.md)
 

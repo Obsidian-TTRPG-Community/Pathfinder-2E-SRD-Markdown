@@ -7,7 +7,7 @@ tags:
 aliases: ["Helpful Halfling"]
 ---
 # Helpful Halfling  *Feat 9*  
-[halfling](rules/traits/halfling.md)  
+[halfling](rules/traits/halfling.md "Halfling Ancestry & Heritage Trait")  
 
 
 When you aid a friend with a task, you find many ways to help and avoid interfering.

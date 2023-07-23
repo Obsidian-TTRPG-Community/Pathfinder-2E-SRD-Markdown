@@ -10,12 +10,12 @@ tags:
 - domain/travel/deity
 aliases: ["Count Ranalc", "The Traitor"]
 ---
-# Count Ranalc (The Traitor) *([CN](rules/traits/chaotic-neutral-b1.md))*  
+# Count Ranalc (The Traitor) *([CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 78*  
 
 - **Category**: Eldest
 - **Anathema**: ask for forgiveness, create permanent or long-lasting sources of light
-- **Follower Alignments**: [CG](rules/traits/chaotic-good-b1.md), [N](rules/traits/neutral-b1.md), [CN](rules/traits/chaotic-neutral-b1.md), [CE](rules/traits/chaotic-evil-b1.md)
+- **Follower Alignments**: [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
 

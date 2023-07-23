@@ -7,7 +7,7 @@ tags:
 aliases: ["Primal Aegis"]
 ---
 # Primal Aegis  *Feat 18*  
-[druid](rules/traits/druid.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  
 
 
 You surround yourself with a thick field of protective primal energy. You and allies within 30 feet of you gain resistance equal to your Wisdom modifier to acid, cold, electricity, fire, negative, and positive damage.

@@ -7,7 +7,7 @@ tags:
 aliases: ["Master Druid Spellcasting"]
 ---
 # Master Druid Spellcasting  *Feat 18*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Expert Druid Spellcasting](compendium/feats/expert-druid-spellcasting.md), legendary in [Nature](compendium/skills.md#Nature)
 

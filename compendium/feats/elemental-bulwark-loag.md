@@ -7,9 +7,9 @@ tags:
 aliases: ["Elemental Bulwark"]
 ---
 # Elemental Bulwark  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 5*  
-[suli](rules/traits/suli-b2.md)  
+[suli](rules/traits/suli-b2.md "Suli Ancestry & Heritage Trait")  
 
-- **Trigger** An enemy is about to damage you with cold, electricity, or fire, or with a spell that has the air, earth, [fire](rules/traits/fire.md), or [water](rules/traits/water.md) trait.
+- **Trigger** An enemy is about to damage you with cold, electricity, or fire, or with a spell that has the air, earth, [fire](rules/traits/fire.md "Fire Energy & Element Trait"), or [water](rules/traits/water.md "Water Energy & Element Trait") trait.
 - **Activity** Reaction
 
 You call upon the corresponding elements of your suli heritage to resist the effect.

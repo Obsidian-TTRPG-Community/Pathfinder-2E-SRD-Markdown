@@ -7,7 +7,7 @@ tags:
 aliases: ["Gripping Limbs"]
 ---
 # Gripping Limbs  *Feat 9*  
-[fleshwarp](rules/traits/fleshwarp-loag.md)  
+[fleshwarp](rules/traits/fleshwarp-loag.md "Fleshwarp Ancestry & Heritage Trait")  
 
 
 Nodules, hooks, or claws on your limbs allow you to cling to surfaces with ease. You gain a climb Speed of 15 feet.

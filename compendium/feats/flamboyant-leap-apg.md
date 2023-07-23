@@ -7,7 +7,7 @@ tags:
 aliases: ["Flamboyant Leap"]
 ---
 # Flamboyant Leap  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 14*  
-[swashbuckler](rules/traits/swashbuckler-apg.md)  
+[swashbuckler](rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  
 
 - **Prerequisites**: master in [Athletics](compendium/skills.md#Athletics), [Flamboyant Athlete](compendium/feats/flamboyant-athlete-apg.md)
 - **Requirements**: You are capable of using a finisher.

@@ -7,7 +7,7 @@ tags:
 aliases: ["Relentless Wings"]
 ---
 # Relentless Wings  *Feat 17*  
-[tiefling](rules/traits/tiefling-b1.md)  
+[tiefling](rules/traits/tiefling-b1.md "Tiefling Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Fiendish Wings](compendium/feats/fiendish-wings-apg.md)
 

@@ -9,7 +9,7 @@ tags:
 aliases: ["Darkwood"]
 ---
 # Darkwood *Item 8+*  
-[precious](rules/traits/precious.md)  [uncommon](rules/traits/uncommon.md)  
+[precious](rules/traits/precious.md "Precious Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Category** Material
 
@@ -18,14 +18,14 @@ Darkwood is a very lightweight wood found primarily in oldgrowth forests in sout
 | Darkwood Items | Hardness | HP | BT |
 |----------------|----------|----|----|
 | **Thin Items** |  |  |  |
-| Standard-grade | 5 | 20 | 10 |
-| High-grade | 8 | 32 | 16 |
+| multiRow |  |
+| multiRow |  |
 | **Items** |  |  |  |
-| Standard-grade | 7 | 28 | 14 |
-| High-grade | 10 | 40 | 20 |
+| multiRow |  |
+| multiRow |  |
 | **Structures** |  |  |  |
-| Standard-grade | 14 | 56 | 28 |
-| High-grade | 20 | 80 | 40 |
+| multiRow |  |
+| multiRow |  |
 
 
 *Source: Core Rulebook p. 578*

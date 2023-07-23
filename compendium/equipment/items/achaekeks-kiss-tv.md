@@ -12,7 +12,7 @@ tags:
 aliases: ["Achaekek's Kiss"]
 ---
 # Achaekek's Kiss *Item 20*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [injury](rules/traits/injury.md)  [poison](rules/traits/poison.md)  [rare](rules/traits/rare.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [injury](rules/traits/injury.md "Injury Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Access** member of the Red Mantis assassins
 - **Price** 13000 gp

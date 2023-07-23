@@ -7,7 +7,7 @@ tags:
 aliases: ["One with the Land"]
 ---
 # One with the Land  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Mummy Dedication](compendium/feats/mummy-dedication-botd.md)
 

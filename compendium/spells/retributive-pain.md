@@ -12,7 +12,7 @@ tags:
 aliases: ["Retributive Pain"]
 ---
 # Retributive Pain *Focus 4*   
-[abjuration](rules/traits/abjuration.md)  [cleric](rules/traits/cleric.md)  [mental](rules/traits/mental.md)  [nonlethal](rules/traits/nonlethal.md)  [uncommon](rules/traits/uncommon.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [cleric](rules/traits/cleric.md "Cleric Class Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Domains**: [pain](compendium/setting/domains.md#Pain)
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 

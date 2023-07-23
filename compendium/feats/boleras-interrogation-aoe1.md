@@ -7,7 +7,7 @@ tags:
 aliases: ["Bolera's Interrogation"]
 ---
 # Bolera's Interrogation  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Edgewatch Detective Dedication](compendium/feats/edgewatch-detective-dedication-aoe1.md)
 - **Frequency**: three per day

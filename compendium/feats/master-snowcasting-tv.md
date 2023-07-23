@@ -7,7 +7,7 @@ tags:
 aliases: ["Master Snowcasting"]
 ---
 # Master Snowcasting  *Feat 18*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 
 You have unlocked the deeper magic of your gelid shard, gaining access to new levels of spells. You gain the master spellcasting benefits.

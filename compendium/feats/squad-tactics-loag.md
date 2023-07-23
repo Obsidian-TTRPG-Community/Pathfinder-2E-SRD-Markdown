@@ -7,7 +7,7 @@ tags:
 aliases: ["Squad Tactics"]
 ---
 # Squad Tactics  *Feat 9*  
-[hobgoblin](rules/traits/hobgoblin-locg.md)  
+[hobgoblin](rules/traits/hobgoblin-locg.md "Hobgoblin Ancestry & Heritage Trait")  
 
 
 You are adept at working with your allies to surround a foe. If an enemy is within reach of you and at least two of your allies, that enemy is [flat-footed](rules/conditions.md#Flat-footed) against you.

@@ -7,7 +7,7 @@ tags:
 aliases: ["Enhanced Familiar (Sorcerer)"]
 ---
 # Enhanced Familiar (Sorcerer)  *Feat 2*  
-[sorcerer](rules/traits/sorcerer.md)  
+[sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 - **Prerequisites**: a familiar
 

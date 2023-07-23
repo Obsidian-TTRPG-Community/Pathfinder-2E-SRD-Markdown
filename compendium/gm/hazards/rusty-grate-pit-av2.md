@@ -8,7 +8,7 @@ tags:
 aliases: ["Rusty Grate Pit"]
 ---
 # Rusty Grate Pit *Hazard 6*  
-[mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  
+[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 0  

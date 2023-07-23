@@ -10,9 +10,9 @@ tags:
 aliases: ["Morass of Ages"]
 ---
 # Morass of Ages *Spell 4*   
-[aura](rules/traits/aura.md)  [transmutation](rules/traits/transmutation.md)  
+[aura](rules/traits/aura.md "Aura Combat Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**5-foot emanation
 - **Saving Throw** Fortitude

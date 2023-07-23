@@ -7,7 +7,7 @@ tags:
 aliases: ["Orc Sight"]
 ---
 # Orc Sight  *Feat 1*  
-[half-orc](rules/traits/half-orc.md)  
+[half-orc](rules/traits/half-orc.md "Half-Orc Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [low-light vision](rules/abilities/low-light-vision.md)
 

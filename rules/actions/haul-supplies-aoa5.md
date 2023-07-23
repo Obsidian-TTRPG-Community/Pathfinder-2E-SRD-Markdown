@@ -9,7 +9,7 @@ tags:
 aliases: ["Haul Supplies"]
 ---
 # Haul Supplies
-[exploration](rules/traits/exploration.md)  [move](rules/traits/move.md)  
+[exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [move](rules/traits/move.md "Move Combat Trait")  
 *Source: Age of Ashes #5: Against the Scarlet Triad p. 13*  
 
 

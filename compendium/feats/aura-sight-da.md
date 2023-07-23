@@ -12,7 +12,7 @@ tags:
 aliases: ["Aura Sight"]
 ---
 # Aura Sight  *Feat 2*  
-[concentrate](rules/traits/concentrate.md)  [exploration](rules/traits/exploration.md)  [general](rules/traits/general.md)  [secret](rules/traits/secret.md)  [skill](rules/traits/skill.md)  [uncommon](rules/traits/uncommon.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [general](rules/traits/general.md "General Feat Trait")  [secret](rules/traits/secret.md "Secret General Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: expert in [Occultism](compendium/skills.md#Occultism)
 - **Frequency**: once per hour

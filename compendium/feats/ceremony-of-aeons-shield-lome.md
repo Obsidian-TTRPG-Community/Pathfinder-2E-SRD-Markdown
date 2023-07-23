@@ -7,7 +7,7 @@ tags:
 aliases: ["Ceremony Of Aeon's Shield"]
 ---
 # Ceremony Of Aeon's Shield  *Feat 9*  
-[conrasu](rules/traits/conrasu-loag.md)  
+[conrasu](rules/traits/conrasu-loag.md "Conrasu Ancestry & Heritage Trait")  
 
 
 Your patron aeon graced you with powers of protection. You can cast [resist energy](compendium/spells/resist-energy.md) and [shield other](compendium/spells/shield-other.md) each once per day as 2nd-level divine innate spells.

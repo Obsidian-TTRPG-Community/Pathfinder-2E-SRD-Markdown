@@ -8,7 +8,7 @@ tags:
 aliases: ["Convincing Illusion"]
 ---
 # Convincing Illusion  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
-[illusion](rules/traits/illusion.md)  [wizard](rules/traits/wizard.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Prerequisites**: expert in [Deception](compendium/skills.md#Deception)
 - **Trigger** A creature succeeded, but didn't critically succeed, at a [Perception](compendium/skills.md#Perception) check or Will save to 0 from a spell that you cast.

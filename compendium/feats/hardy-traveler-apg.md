@@ -7,7 +7,7 @@ tags:
 aliases: ["Hardy Traveler"]
 ---
 # Hardy Traveler  *Feat 9*  
-[human](rules/traits/human.md)  
+[human](rules/traits/human.md "Human Ancestry & Heritage Trait")  
 
 
 There's no journey too far or burden too heavy when your friends are at your side. Increase your maximum and [encumbered](rules/conditions.md#Encumbered) Bulk limits by 1. In addition, you gain a +10-foot circumstance bonus to your Speed during overland travel.

@@ -7,7 +7,7 @@ tags:
 aliases: ["Junk Tinker"]
 ---
 # Junk Tinker  *Feat 1*  
-[goblin](rules/traits/goblin.md)  
+[goblin](rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  
 
 
 You can make useful tools out of even twisted or rusted scraps. When using the [Crafting](compendium/skills.md#Crafting) skill to [Craft](rules/actions/craft.md), you can make level 0 items, including weapons but not armor, out of junk. This reduces the Price to one-quarter the usual amount but always results in a shoddy item. Shoddy items normally give a penalty, but you don't take this penalty when using shoddy items you made.

@@ -7,7 +7,7 @@ tags:
 aliases: ["Dangle"]
 ---
 # Dangle  *Feat 9*  
-[lizardfolk](rules/traits/lizardfolk-b1.md)  
+[lizardfolk](rules/traits/lizardfolk-b1.md "Lizardfolk Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Flexible Tail](compendium/feats/flexible-tail-loag.md)
 

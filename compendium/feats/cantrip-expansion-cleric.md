@@ -7,7 +7,7 @@ tags:
 aliases: ["Cantrip Expansion (Cleric)"]
 ---
 # Cantrip Expansion (Cleric)  *Feat 2*  
-[cleric](rules/traits/cleric.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  
 
 
 You study a wider range of simple spells. You can prepare two additional cantrips each day.

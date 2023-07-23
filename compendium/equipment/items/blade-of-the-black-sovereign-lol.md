@@ -11,7 +11,7 @@ tags:
 aliases: ["Blade Of The Black Sovereign"]
 ---
 # Blade Of The Black Sovereign *Item 15*  
-[electricity](rules/traits/electricity.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [unique](rules/traits/unique.md)  
+[electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Price** 6500 gp
 - **Usage** held in 2 hands; **Bulk** 2

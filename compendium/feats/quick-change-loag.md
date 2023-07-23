@@ -7,7 +7,7 @@ tags:
 aliases: ["Quick Change"]
 ---
 # Quick Change  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 1*  
-[beastkin](rules/traits/beastkin-loag.md)  
+[beastkin](rules/traits/beastkin-loag.md "Beastkin Ancestry & Heritage Trait")  
 
 - **Trigger** You roll initiative.
 - **Activity** Free Action

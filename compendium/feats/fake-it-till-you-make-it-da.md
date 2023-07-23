@@ -7,7 +7,7 @@ tags:
 aliases: ["Fake It Till You Make It"]
 ---
 # Fake It Till You Make It  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Alter Ego Dedication](compendium/feats/alter-ego-dedication-da.md)
 

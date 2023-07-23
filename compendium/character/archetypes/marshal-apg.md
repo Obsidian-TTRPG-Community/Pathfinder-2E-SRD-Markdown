@@ -15,13 +15,13 @@ Marshals are leaders, first and foremost. Marshals can come from any class or ba
 title: Marshal Dedication, Feat 2
 collapse: closed
 # Marshal Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: trained in martial weapons and either [Diplomacy](compendium/skills.md#Diplomacy) or [Intimidation](compendium/skills.md#Intimidation)
 
 You've combined your social skills and combat training to become a talented combat leader. Choose [Diplomacy](compendium/skills.md#Diplomacy) or [Intimidation](compendium/skills.md#Intimidation). You become trained in that skill or become an expert if you were already trained in it.
 
-In addition, you're surrounded by a marshal's aura in a 10-foot emanation. Your aura has the [emotion](rules/traits/emotion.md), [mental](rules/traits/mental.md), and [visual](rules/traits/visual.md) traits and grants you and allies within the aura a +1 status bonus to saving throws against [fear](rules/traits/fear.md).
+In addition, you're surrounded by a marshal's aura in a 10-foot emanation. Your aura has the [emotion](rules/traits/emotion.md "Emotion Effect Trait"), [mental](rules/traits/mental.md "Mental Effect Trait"), and [visual](rules/traits/visual.md "Visual Effect Trait") traits and grants you and allies within the aura a +1 status bonus to saving throws against [fear](rules/traits/fear.md "Fear Effect Trait").
 
 **Special.** You can't select another dedication feat until you have gained two other feats from the marshal archetype.
 
@@ -33,7 +33,7 @@ In addition, you're surrounded by a marshal's aura in a 10-foot emanation. Your 
 title: Dread Marshal Stance, Feat 4
 collapse: closed
 # Dread Marshal Stance  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  [open](rules/traits/open.md)  [stance](rules/traits/stance.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [open](rules/traits/open.md "Open Combat Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
 
 - **Prerequisites**: [Marshal Dedication](compendium/feats/marshal-dedication-apg.md), trained in [Intimidation](compendium/skills.md#Intimidation)
 - **Activity** Single Action
@@ -58,7 +58,7 @@ The effect depends on the result of your check.
 title: Inspiring Marshal Stance, Feat 4
 collapse: closed
 # Inspiring Marshal Stance  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  [open](rules/traits/open.md)  [stance](rules/traits/stance.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [open](rules/traits/open.md "Open Combat Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
 
 - **Prerequisites**: [Marshal Dedication](compendium/feats/marshal-dedication-apg.md), trained in [Diplomacy](compendium/skills.md#Diplomacy)
 - **Activity** Single Action
@@ -66,7 +66,7 @@ collapse: closed
 You become a brilliant example of dedication and poise in battle, encouraging your allies to follow suit. When you spend this action, attempt a [Diplomacy](compendium/skills.md#Diplomacy) check. The DC is usually a standard-difficulty DC of your level, but the GM can assign a different DC based on the circumstances. The effect depends on the result of your check.
 
 > [!success-degree] 
-> - **Critical Success** Your marshal's aura increases to a 20-foot emanation and grants you and allies a +1 status bonus to attack rolls and saves against [mental](rules/traits/mental.md) effects.
+> - **Critical Success** Your marshal's aura increases to a 20-foot emanation and grants you and allies a +1 status bonus to attack rolls and saves against [mental](rules/traits/mental.md "Mental Effect Trait") effects.
 > - **Success** As critical success, but your aura's size doesn't increase.
 > - **Failure** You fail to enter the stance.
 > - **Critical Failure** You fail to enter the stance and can't take this action again for 1 minute.
@@ -79,12 +79,12 @@ You become a brilliant example of dedication and poise in battle, encouraging yo
 title: Snap Out Of It!, Feat 4
 collapse: closed
 # Snap Out Of It!  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  [auditory](rules/traits/auditory.md)  [emotion](rules/traits/emotion.md)  [mental](rules/traits/mental.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 - **Prerequisites**: [Marshal Dedication](compendium/feats/marshal-dedication-apg.md)
 - **Activity** Single Action
 
-You give a quick shout, hoping to shake the fog clouding your ally's thoughts. Choose one target ally within your marshal's aura who is affected by a [mental](rules/traits/mental.md) effect that allowed a Will save and has a duration of no longer than 1 minute. That ally can immediately attempt a Will save with a +1 circumstance bonus against the effect's DC, ending the effect on a success. This can't end the effect for any creatures other than your target ally. Regardless of the result of the save, your ally is temporarily immune to Snap Out of It! for 10 minutes.
+You give a quick shout, hoping to shake the fog clouding your ally's thoughts. Choose one target ally within your marshal's aura who is affected by a [mental](rules/traits/mental.md "Mental Effect Trait") effect that allowed a Will save and has a duration of no longer than 1 minute. That ally can immediately attempt a Will save with a +1 circumstance bonus against the effect's DC, ending the effect on a success. This can't end the effect for any creatures other than your target ally. Regardless of the result of the save, your ally is temporarily immune to Snap Out of It! for 10 minutes.
 
 *Source: Advanced Player's Guide p. 180*  
 %% #trait/archetype #trait/auditory #trait/emotion #trait/mental %%
@@ -94,7 +94,7 @@ You give a quick shout, hoping to shake the fog clouding your ally's thoughts. C
 title: Steel Yourself!, Feat 4
 collapse: closed
 # Steel Yourself!  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  [auditory](rules/traits/auditory.md)  [emotion](rules/traits/emotion.md)  [mental](rules/traits/mental.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 - **Prerequisites**: [Marshal Dedication](compendium/feats/marshal-dedication-apg.md)
 - **Activity** Single Action
@@ -109,7 +109,7 @@ You encourage an ally to toughen up, giving them a fighting chance. Choose one a
 title: Cadence Call, Feat 6
 collapse: closed
 # Cadence Call  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  [auditory](rules/traits/auditory.md)  [flourish](rules/traits/flourish.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 - **Prerequisites**: [Marshal Dedication](compendium/feats/marshal-dedication-apg.md)
 - **Frequency**: once per minute
@@ -125,7 +125,7 @@ You call out a quick cadence, guiding your allies into a more efficient rhythm. 
 title: Rallying Charge, Feat 6
 collapse: closed
 # Rallying Charge  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  [open](rules/traits/open.md)  [visual](rules/traits/visual.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [open](rules/traits/open.md "Open Combat Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Prerequisites**: [Marshal Dedication](compendium/feats/marshal-dedication-apg.md)
 - **Activity** Two-Action
@@ -140,7 +140,7 @@ Your fearless charge into battle reinvigorates your allies to carry on the fight
 title: Attack Of Opportunity (Barbarian), Feat 8*
 collapse: closed
 # Attack Of Opportunity (Barbarian)  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
-[barbarian](rules/traits/barbarian.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  
 
 > [!pf2-note] This version of [Attack Of Opportunity (Barbarian)](compendium/feats/attack-of-opportunity-barbarian.md) is intended for use with the Marshal Archetype. Its level has been changed accordingly.
 
@@ -157,7 +157,7 @@ You swat a foe that leaves an opening. Make a melee [Strike](rules/actions/strik
 title: Back To Back, Feat 8
 collapse: closed
 # Back To Back  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Marshal Dedication](compendium/feats/marshal-dedication-apg.md)
 
@@ -171,7 +171,7 @@ You excel at watching your allies' backs and helping them watch yours. As long a
 title: To Battle!, Feat 8
 collapse: closed
 # To Battle!  [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies") *Feat 8*  
-[archetype](rules/traits/archetype.md)  [auditory](rules/traits/auditory.md)  [flourish](rules/traits/flourish.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 - **Prerequisites**: [Marshal Dedication](compendium/feats/marshal-dedication-apg.md)
 - **Activity** Varies ([>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") OR [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action"))
@@ -186,7 +186,7 @@ With a resounding cry, you rally your ally to the offensive. Choose one ally wit
 title: Topple Foe, Feat 10
 collapse: closed
 # Topple Foe  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Marshal Dedication](compendium/feats/marshal-dedication-apg.md), trained in [Athletics](compendium/skills.md#Athletics)
 - **Activity** Reaction
@@ -201,7 +201,7 @@ You take advantage of the opening created by your ally to tip your foe off their
 title: Coordinated Charge, Feat 12*
 collapse: closed
 # Coordinated Charge  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 12*  
-[archetype](rules/traits/archetype.md)  [open](rules/traits/open.md)  [visual](rules/traits/visual.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [open](rules/traits/open.md "Open Combat Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 > [!pf2-note] This version of [Coordinated Charge](compendium/feats/coordinated-charge-apg.md) is intended for use with the Marshal Archetype. Its level has been changed accordingly.
 
@@ -220,7 +220,7 @@ If your [Strike](rules/actions/strike.md) hits and damages an enemy, each ally w
 title: Tactical Cadence, Feat 14*
 collapse: closed
 # Tactical Cadence  *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Tactical Cadence](compendium/feats/tactical-cadence-apg.md) is intended for use with the Marshal Archetype. Its level has been changed accordingly.
 
@@ -236,7 +236,7 @@ Your remarkable breath control and concise instructions allow you to coordinate 
 title: Target Of Opportunity, Feat 14*
 collapse: closed
 # Target Of Opportunity  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 14*  
-[archetype](rules/traits/archetype.md)  [manipulate](rules/traits/manipulate.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 
 > [!pf2-note] This version of [Target Of Opportunity](compendium/feats/target-of-opportunity-apg.md) is intended for use with the Marshal Archetype. Its level has been changed accordingly.
 

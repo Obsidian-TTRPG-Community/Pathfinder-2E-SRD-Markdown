@@ -7,7 +7,7 @@ tags:
 aliases: ["Plant Evidence"]
 ---
 # Plant Evidence  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Prerequisites**: [Pickpocket](compendium/feats/pickpocket.md)
 - **Activity** Single Action

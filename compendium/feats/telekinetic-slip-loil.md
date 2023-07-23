@@ -9,7 +9,7 @@ tags:
 aliases: ["Telekinetic Slip"]
 ---
 # Telekinetic Slip  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 9*  
-[evocation](rules/traits/evocation.md)  [kashrishi](rules/traits/kashrishi-loil.md)  [occult](rules/traits/occult.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [kashrishi](rules/traits/kashrishi-loil.md "Kashrishi Ancestry & Heritage Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 - **Frequency**: once per day
 - **Trigger** Your turn begins, and you're [grabbed](rules/conditions.md#Grabbed) or [restrained](rules/conditions.md#Restrained).

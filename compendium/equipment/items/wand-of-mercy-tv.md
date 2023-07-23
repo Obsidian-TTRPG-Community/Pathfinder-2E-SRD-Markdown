@@ -9,7 +9,7 @@ tags:
 aliases: ["Wand of Mercy"]
 ---
 # Wand of Mercy *Item 4+*  
-[magical](rules/traits/magical.md)  [wand](rules/traits/wand.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Wand
@@ -19,7 +19,7 @@ The pommel of this rose quartz wand resembles the stylized wings of an angel. Wh
 ```ad-embed-ability
 title: Activate
 
-You Cast the Spell, and can choose to give it the [nonlethal](rules/traits/nonlethal.md) trait.
+You Cast the Spell, and can choose to give it the [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait") trait.
 ```
 
 *Source: Treasure Vault p. 141*

@@ -7,7 +7,7 @@ tags:
 aliases: ["Ceremony Of Fortification"]
 ---
 # Ceremony Of Fortification  *Feat 9*  
-[conrasu](rules/traits/conrasu-loag.md)  
+[conrasu](rules/traits/conrasu-loag.md "Conrasu Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Ceremony of Protection](compendium/feats/ceremony-of-protection-lome.md)
 

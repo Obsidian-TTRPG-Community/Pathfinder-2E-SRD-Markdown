@@ -8,7 +8,7 @@ tags:
 aliases: ["Anticipate Ambush"]
 ---
 # Anticipate Ambush  *Feat 6*  
-[exploration](rules/traits/exploration.md)  [rogue](rules/traits/rogue.md)  
+[exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Prerequisites**: expert in [Stealth](compendium/skills.md#Stealth)
 

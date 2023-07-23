@@ -11,7 +11,7 @@ tags:
 aliases: ["Trickster's Twin"]
 ---
 # Trickster's Twin *Focus 4*   
-[cleric](rules/traits/cleric.md)  [illusion](rules/traits/illusion.md)  [uncommon](rules/traits/uncommon.md)  [visual](rules/traits/visual.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Domains**: [trickery](compendium/setting/domains.md#Trickery)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

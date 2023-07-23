@@ -8,7 +8,7 @@ tags:
 aliases: ["Final Flight"]
 ---
 # Final Flight *Hazard 5*  
-[haunt](rules/traits/haunt.md)  [unique](rules/traits/unique.md)  
+[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 26 expert  
@@ -19,7 +19,7 @@ A creature experiences the death of a priest carried off by griffons and fed to 
      
 ```ad-embed-ability
 title: Final Flight [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[illusion](rules/traits/illusion.md)  [mental](rules/traits/mental.md)  [occult](rules/traits/occult.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 - **Trigger**: A creature enters the gathering circle
 

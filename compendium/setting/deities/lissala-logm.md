@@ -10,12 +10,12 @@ tags:
 - domain/toil/deity
 aliases: ["Lissala", "The Sihedron Scion"]
 ---
-# Lissala (The Sihedron Scion) *([LE](rules/traits/lawful-evil-b1.md))*  
+# Lissala (The Sihedron Scion) *([LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 130*  
 
 - **Category**: Other Gods
 - **Anathema**: disobey a superior, shirk your duties, destroy a book
-- **Follower Alignments**: [LN](rules/traits/lawful-neutral-b1.md), [LE](rules/traits/lawful-evil-b1.md)
+- **Follower Alignments**: [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait")
 
 ## Devotee benefits
 

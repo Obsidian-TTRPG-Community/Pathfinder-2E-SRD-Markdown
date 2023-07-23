@@ -9,7 +9,7 @@ tags:
 aliases: ["Sixth Sense"]
 ---
 # Sixth Sense  *Feat 6*  
-[divination](rules/traits/divination.md)  [occult](rules/traits/occult.md)  [psychic](rules/traits/psychic-da.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  
 
 
 Your psychic abilities also allow you to detect the lingering thoughts of spirits and similar entities. While you're exploring but not [Searching](rules/actions/search.md), the GM rolls a secret check for you to find haunts that usually require [Searching](rules/actions/search.md), as well as spirits, creatures on the Ethereal Plane, and beings made entirely of spiritual essence, such as celestials, fiends, and monitors.

@@ -9,7 +9,7 @@ tags:
 aliases: ["Toxic Skin"]
 ---
 # Toxic Skin [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[grippli](rules/traits/grippli-b2.md)  [poison](rules/traits/poison.md)  
+[grippli](rules/traits/grippli-b2.md "Grippli Ancestry & Heritage Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 *Source: Lost Omens: The Mwangi Expanse p. 119*  
 
 **Ancestry** grippli; **Heritage** grippli|LOME|poisonhide|poisonhide|LOME|

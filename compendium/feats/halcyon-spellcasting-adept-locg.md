@@ -7,7 +7,7 @@ tags:
 aliases: ["Halcyon Spellcasting Adept"]
 ---
 # Halcyon Spellcasting Adept  *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Halcyon Spellcasting Initiate](compendium/feats/halcyon-spellcasting-initiate-locg.md); master in either [Arcana](compendium/skills.md#Arcana) or [Nature](compendium/skills.md#Nature), expert in the other
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Advanced Fury"]
 ---
 # Advanced Fury  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Fury](compendium/feats/basic-fury.md)
 

@@ -11,9 +11,9 @@ tags:
 aliases: ["Burning Blossoms"]
 ---
 # Burning Blossoms *Spell 8*   
-[enchantment](rules/traits/enchantment.md)  [fire](rules/traits/fire.md)  [plant](rules/traits/plant.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**120 foot
 - **Area**30-foot radius, 100-foot tall cylinder
@@ -24,7 +24,7 @@ An intangible hollow tree sprouts from the ground and grows to towering height, 
 
 The tree then blossoms, growing delicate white flowers that burn with white-hot fire. As the tree's branches gently rustle in the wind, flower petals drift to the ground in a shower of flame. Any creature that ends its turn under the tree's branches takes `6d6` fire damage from the burning petals.
 
-Any enemy that can see the tree, even if the enemy is outside the spell's area, must attempt a Will save. This is an emotion, [mental](rules/traits/mental.md), and [visual](rules/traits/visual.md) effect. Creatures [fascinated](rules/conditions.md#Fascinated) with the tree must use at least one of their actions on each of their turns to move toward the tree.
+Any enemy that can see the tree, even if the enemy is outside the spell's area, must attempt a Will save. This is an emotion, [mental](rules/traits/mental.md "Mental Effect Trait"), and [visual](rules/traits/visual.md "Visual Effect Trait") effect. Creatures [fascinated](rules/conditions.md#Fascinated) with the tree must use at least one of their actions on each of their turns to move toward the tree.
 
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected and is temporarily immune for 24 hours.

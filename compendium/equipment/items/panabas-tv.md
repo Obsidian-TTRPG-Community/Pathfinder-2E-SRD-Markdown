@@ -10,7 +10,7 @@ tags:
 aliases: ["Panabas"]
 ---
 # Panabas *Item 0*  
-[forceful](rules/traits/forceful.md)  [sweep](rules/traits/sweep.md)  [two-hand <d10>](rules/traits/two-hand.md)  
+[forceful](rules/traits/forceful.md "Forceful Weapon Trait")  [sweep](rules/traits/sweep.md "Sweep Weapon Trait")  [two-hand <d10>](rules/traits/two-hand-d10.md "Two-Hand Weapon Trait")  
 
 - **Price** 1 gp
 - **Bulk** 1

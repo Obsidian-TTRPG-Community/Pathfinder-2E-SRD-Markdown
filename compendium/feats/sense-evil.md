@@ -7,7 +7,7 @@ tags:
 aliases: ["Sense Evil"]
 ---
 # Sense Evil  *Feat 8*  
-[champion](rules/traits/champion.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  
 
 - **Prerequisites**: tenets of good
 

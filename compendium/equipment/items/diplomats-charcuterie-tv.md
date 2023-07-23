@@ -10,7 +10,7 @@ tags:
 aliases: ["Diplomat's Charcuterie"]
 ---
 # Diplomat's Charcuterie *Item 3*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [processed](rules/traits/processed-tv.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [processed](rules/traits/processed-tv.md "Processed Item Trait")  
 
 - **Price** 9 gp
 - **Usage** held in 2 hands; **Bulk** L

@@ -8,9 +8,9 @@ tags:
 aliases: ["Tortoise And The Hare"]
 ---
 # Tortoise And The Hare *Spell 4*   
-[transmutation](rules/traits/transmutation.md)  
+[transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [occult](rules/traits/occult.md), [primal](rules/traits/primal.md)
+- **Traditions**: [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot
 - **Targets**1 foe, and either yourself or 1 ally

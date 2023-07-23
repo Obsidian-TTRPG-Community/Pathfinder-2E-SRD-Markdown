@@ -9,7 +9,7 @@ tags:
 aliases: ["Crystal Luminescence"]
 ---
 # Crystal Luminescence  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
-[concentrate](rules/traits/concentrate.md)  [kashrishi](rules/traits/kashrishi-loil.md)  [light](rules/traits/light.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [kashrishi](rules/traits/kashrishi-loil.md "Kashrishi Ancestry & Heritage Trait")  [light](rules/traits/light.md "Light Effect Trait")  
 
 - **Activity** Single Action
 

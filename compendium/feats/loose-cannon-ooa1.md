@@ -7,7 +7,7 @@ tags:
 aliases: ["Loose Cannon"]
 ---
 # Loose Cannon  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: Alkenstar Agent Dedication
 - **Activity** Single Action

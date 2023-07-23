@@ -7,10 +7,10 @@ tags:
 aliases: ["Foxfire"]
 ---
 # Foxfire  *Feat 1*  
-[kitsune](rules/traits/kitsune-loag.md)  
+[kitsune](rules/traits/kitsune-loag.md "Kitsune Ancestry & Heritage Trait")  
 
 
-A crack of your tail sparks wisps of blue energy. Choose either electricity or fire when you gain this feat. You gain a foxfire ranged unarmed attack with a maximum range of 20 feet. The attack deals `1d4` damage of the chosen type (no ability modifier is added to the damage roll). Your foxfire attack is in the sling weapon group and has the [magical](rules/traits/magical.md) trait. Like other unarmed attacks, you can improve this attack with handwraps of mighty blows.
+A crack of your tail sparks wisps of blue energy. Choose either electricity or fire when you gain this feat. You gain a foxfire ranged unarmed attack with a maximum range of 20 feet. The attack deals `1d4` damage of the chosen type (no ability modifier is added to the damage roll). Your foxfire attack is in the sling weapon group and has the [magical](rules/traits/magical.md "Magical Item Trait") trait. Like other unarmed attacks, you can improve this attack with handwraps of mighty blows.
 
 **Special.** If you are a frozen wind kitsune, your foxfire deals cold damage instead of electricity or fire.
 

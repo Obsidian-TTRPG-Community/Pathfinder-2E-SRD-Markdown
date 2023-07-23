@@ -7,7 +7,7 @@ tags:
 aliases: ["Remote Trigger"]
 ---
 # Remote Trigger  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Snarecrafter Dedication](compendium/feats/snarecrafter-dedication-apg.md)
 

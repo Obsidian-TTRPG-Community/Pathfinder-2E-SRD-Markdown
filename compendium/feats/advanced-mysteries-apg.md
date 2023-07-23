@@ -7,7 +7,7 @@ tags:
 aliases: ["Advanced Mysteries"]
 ---
 # Advanced Mysteries  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Mysteries](compendium/feats/basic-mysteries-apg.md)
 

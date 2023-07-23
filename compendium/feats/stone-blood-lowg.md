@@ -7,11 +7,11 @@ tags:
 aliases: ["Stone Blood"]
 ---
 # Stone Blood  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Ka Stone Ritual](compendium/feats/ka-stone-ritual-lowg.md)
 
-You can selectively stop your bleeding with ease. Reduce the DC of flat checks to stop [persistent bleed damage](rules/conditions.md#Persistent%20Damage) you have from 15 to 10, and you can use a single action that has the [concentrate](rules/traits/concentrate.md) trait to gain an early flat check without physically binding the wounds.
+You can selectively stop your bleeding with ease. Reduce the DC of flat checks to stop [persistent bleed damage](rules/conditions.md#Persistent%20Damage) you have from 15 to 10, and you can use a single action that has the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") trait to gain an early flat check without physically binding the wounds.
 
 You recover naturally from the [drained](rules/conditions.md#Drained) condition twice as quickly as normal.
 

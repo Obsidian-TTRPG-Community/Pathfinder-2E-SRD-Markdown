@@ -8,7 +8,7 @@ tags:
 aliases: ["Thrash"]
 ---
 # Thrash  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
-[barbarian](rules/traits/barbarian.md)  [rage](rules/traits/rage.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [rage](rules/traits/rage.md "Rage Combat Trait")  
 
 - **Requirements**: You have a foe [grabbed](rules/conditions.md#Grabbed).
 - **Activity** Single Action

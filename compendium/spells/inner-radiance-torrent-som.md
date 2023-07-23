@@ -11,9 +11,9 @@ tags:
 aliases: ["Inner Radiance Torrent"]
 ---
 # Inner Radiance Torrent *Spell 2*   
-[force](rules/traits/force.md)  [light](rules/traits/light.md)  [necromancy](rules/traits/necromancy.md)  
+[force](rules/traits/force.md "Force Energy & Element Trait")  [light](rules/traits/light.md "Light Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md), [occult](rules/traits/occult.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") to 2 rounds 
 - **Area**line 60 feet or longer
 - **Saving Throw**  basic Reflex

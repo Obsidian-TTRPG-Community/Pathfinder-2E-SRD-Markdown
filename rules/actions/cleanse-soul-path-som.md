@@ -7,7 +7,7 @@ tags:
 aliases: ["Cleanse Soul Path"]
 ---
 # Cleanse Soul Path
-[exploration](rules/traits/exploration.md)  
+[exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  
 *Source: Secrets of Magic p. 234*  
 
 **Variant Rule** Soulforged Armaments

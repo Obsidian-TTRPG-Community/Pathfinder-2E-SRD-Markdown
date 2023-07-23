@@ -8,7 +8,7 @@ tags:
 aliases: ["Eclectic Sword Mastery"]
 ---
 # Eclectic Sword Mastery  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 13*  
-[concentrate](rules/traits/concentrate.md)  [tengu](rules/traits/tengu-b1.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [tengu](rules/traits/tengu-b1.md "Tengu Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Eclectic Sword Training](compendium/feats/eclectic-sword-training-apg.md)
 - **Activity** Two-Action

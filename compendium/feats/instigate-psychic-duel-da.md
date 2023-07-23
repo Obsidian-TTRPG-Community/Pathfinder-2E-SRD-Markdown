@@ -11,7 +11,7 @@ tags:
 aliases: ["Instigate Psychic Duel"]
 ---
 # Instigate Psychic Duel  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 12*  
-[archetype](rules/traits/archetype.md)  [illusion](rules/traits/illusion.md)  [incapacitation](rules/traits/incapacitation.md)  [mental](rules/traits/mental.md)  [occult](rules/traits/occult.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 - **Prerequisites**: [Psychic Duelist Dedication](compendium/feats/psychic-duelist-dedication-da.md)
 - **Frequency**: once per day

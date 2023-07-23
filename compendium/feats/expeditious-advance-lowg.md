@@ -7,7 +7,7 @@ tags:
 aliases: ["Expeditious Advance"]
 ---
 # Expeditious Advance  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Lion Blade Dedication](compendium/feats/lion-blade-dedication-lowg.md)
 - **Requirements**: You are unarmored or wearing light armor.

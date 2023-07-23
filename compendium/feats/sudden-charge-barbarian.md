@@ -9,7 +9,7 @@ tags:
 aliases: ["Sudden Charge (Barbarian)"]
 ---
 # Sudden Charge (Barbarian)  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 1*  
-[barbarian](rules/traits/barbarian.md)  [flourish](rules/traits/flourish.md)  [open](rules/traits/open.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  [open](rules/traits/open.md "Open Combat Trait")  
 
 - **Activity** Two-Action
 

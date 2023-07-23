@@ -21,23 +21,23 @@ While some think your creations are vile, you see beauty in utility and believe 
 title: Clockwork Reanimator Dedication, Feat 2
 collapse: closed
 # Clockwork Reanimator Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [rare](rules/traits/rare.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Prerequisites**: trained in [Crafting](compendium/skills.md#Crafting)
 
-You can animate corpses through cunning engineering. You gain a prototype construct companion to serve as a [minion](rules/traits/minion.md). Unlike normal construct companions, yours is a corpse animated by clockwork gears and technological prowess.
+You can animate corpses through cunning engineering. You gain a prototype construct companion to serve as a [minion](rules/traits/minion.md "Minion Creature Trait"). Unlike normal construct companions, yours is a corpse animated by clockwork gears and technological prowess.
 
 **Special.** You can't select another dedication feat until you've gained two other feats from the clockwork reanimator archetype. If you retrain out of this feat, you lose the rituals learned from it.
 
 *Source: Outlaws of Alkenstar #3: The Smoking Gun p. 78*  
-%% #trait/rare #trait/archetype #trait/dedication %%
+%% #trait/archetype #trait/dedication #trait/rare %%
 ```  
 
 ```ad-embed-feat
 title: Advanced Reanimated Companion, Feat 4
 collapse: closed
 # Advanced Reanimated Companion  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Clockwork Reanimator Dedication](compendium/feats/clockwork-reanimator-dedication-ooa3.md)
 
@@ -51,7 +51,7 @@ Your corpselike construct companion becomes much more powerful and can act with 
 title: Hijack Undead, Feat 4
 collapse: closed
 # Hijack Undead  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Clockwork Reanimator Dedication](compendium/feats/clockwork-reanimator-dedication-ooa3.md)
 - **Frequency**: once per hour
@@ -62,7 +62,7 @@ Your clockwork devices can commandeer the bodies of undead, bending them to your
 > [!success-degree] 
 > - **Critical Success** The target is unaffected and temporarily immune for 24 hours.
 > - **Success** The target is unaffected.
-> - **Failure** The undead creature becomes a [minion](rules/traits/minion.md) under your control for 1 minute. The control ends if you or an ally attacks the [minion](rules/traits/minion.md) undead.
+> - **Failure** The undead creature becomes a [minion](rules/traits/minion.md "Minion Creature Trait") under your control for 1 minute. The control ends if you or an ally attacks the [minion](rules/traits/minion.md "Minion Creature Trait") undead.
 > - **Critical Failure** As failure, but the duration is 1 hour.
 
 *Source: Outlaws of Alkenstar #3: The Smoking Gun p. 79*  
@@ -73,7 +73,7 @@ Your clockwork devices can commandeer the bodies of undead, bending them to your
 title: It's Alive!, Feat 6
 collapse: closed
 # It's Alive!  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Clockwork Reanimator Dedication](compendium/feats/clockwork-reanimator-dedication-ooa3.md)
 
@@ -87,7 +87,7 @@ You've mastered the use of electrical energy to power your clockwork creations. 
 title: Self-Destruct, Feat 12*
 collapse: closed
 # Self-Destruct  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Self-Destruct](compendium/feats/self-destruct-ooa3.md) is intended for use with the Clockwork Reanimator Archetype. Its level has been changed accordingly.
 
@@ -106,13 +106,13 @@ You've installed a self-destruct device within your construct companion, which y
 title: Improved Hijack Undead, Feat 14*
 collapse: closed
 # Improved Hijack Undead  *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Improved Hijack Undead](compendium/feats/improved-hijack-undead-ooa3.md) is intended for use with the Clockwork Reanimator Archetype. Its level has been changed accordingly.
 
 - **Prerequisites**: [Clockwork Reanimator Dedication](compendium/feats/clockwork-reanimator-dedication-ooa3.md), [Hijack Undead](compendium/feats/hijack-undead-ooa3.md)
 
-Undead creatures find it all but impossible to resist your commands. When you use [Hijack Undead](compendium/feats/hijack-undead-ooa3.md), if the undead fails its save, it becomes your [minion](rules/traits/minion.md) for 10 minutes. If it critically fails, it becomes your [minion](rules/traits/minion.md) for 24 hours.
+Undead creatures find it all but impossible to resist your commands. When you use [Hijack Undead](compendium/feats/hijack-undead-ooa3.md), if the undead fails its save, it becomes your [minion](rules/traits/minion.md "Minion Creature Trait") for 10 minutes. If it critically fails, it becomes your [minion](rules/traits/minion.md "Minion Creature Trait") for 24 hours.
 
 *Source: Outlaws of Alkenstar #3: The Smoking Gun p. 79*  
 %% #trait/archetype %%
@@ -122,7 +122,7 @@ Undead creatures find it all but impossible to resist your commands. When you us
 title: Unwind Death, Feat 16*
 collapse: closed
 # Unwind Death  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 16*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Unwind Death](compendium/feats/unwind-death-ooa3.md) is intended for use with the Clockwork Reanimator Archetype. Its level has been changed accordingly.
 
@@ -140,7 +140,7 @@ Combining necromancy with the mysterious temporal powers of clockwork, you wind 
 title: Zombie Horde, Feat 20*
 collapse: closed
 # Zombie Horde  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 20*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Zombie Horde](compendium/feats/zombie-horde-ooa3.md) is intended for use with the Clockwork Reanimator Archetype. Its level has been changed accordingly.
 

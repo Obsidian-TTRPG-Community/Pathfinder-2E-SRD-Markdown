@@ -11,7 +11,7 @@ tags:
 aliases: ["Oil of Repulsion"]
 ---
 # Oil of Repulsion *Item 11*  
-[abjuration](rules/traits/abjuration.md)  [consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [oil](rules/traits/oil.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [oil](rules/traits/oil.md "Oil Item Trait")  
 
 - **Price** 175 gp
 - **Usage** held in 2 hands; **Bulk** L

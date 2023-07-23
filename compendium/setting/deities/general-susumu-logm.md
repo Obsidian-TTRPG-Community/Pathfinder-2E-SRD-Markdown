@@ -10,12 +10,12 @@ tags:
 - domain/zeal/deity
 aliases: ["General Susumu", "The Black Daimyo"]
 ---
-# General Susumu (The Black Daimyo) *([LE](rules/traits/lawful-evil-b1.md))*  
+# General Susumu (The Black Daimyo) *([LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 132*  
 
 - **Category**: Tian Gods
 - **Anathema**: cower from fights, refuse a challenge from an equal, mistreat your weapons, abuse your mount
-- **Follower Alignments**: [LN](rules/traits/lawful-neutral-b1.md), [LE](rules/traits/lawful-evil-b1.md)
+- **Follower Alignments**: [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait")
 
 ## Devotee benefits
 

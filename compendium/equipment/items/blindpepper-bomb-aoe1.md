@@ -12,7 +12,7 @@ tags:
 aliases: ["Blindpepper Bomb"]
 ---
 # Blindpepper Bomb *Item 5*  
-[alchemical](rules/traits/alchemical.md)  [bomb](rules/traits/bomb.md)  [consumable](rules/traits/consumable.md)  [uncommon](rules/traits/uncommon.md)  [visual](rules/traits/visual.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [bomb](rules/traits/bomb.md "Bomb Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Price** 40 gp
 - **Usage** held in 1 hand; **Bulk** L

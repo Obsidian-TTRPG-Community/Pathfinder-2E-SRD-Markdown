@@ -11,7 +11,7 @@ tags:
 aliases: ["One Hundred Victories"]
 ---
 # One Hundred Victories *Item 3*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [tattoo](rules/traits/tattoo-lowg.md)  
+[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [tattoo](rules/traits/tattoo-lowg.md "Tattoo Item Trait")  
 
 - **Price** 60 gp
 - **Usage** tattooed on the body; **Bulk** —

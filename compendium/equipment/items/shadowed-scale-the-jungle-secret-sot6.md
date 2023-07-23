@@ -13,7 +13,7 @@ tags:
 aliases: ["Shadowed Scale, the Jungle Secret"]
 ---
 # Shadowed Scale, the Jungle Secret *Item 22*  
-[artifact](rules/traits/artifact-gmg.md)  [conjuration](rules/traits/conjuration.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [primal](rules/traits/primal.md)  [unique](rules/traits/unique.md)  
+[artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Usage** worn mask; **Bulk** L
 - **Category** Artifact

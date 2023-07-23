@@ -10,12 +10,12 @@ tags:
 - domain/trickery/deity
 aliases: ["Sun Wukong", "The Monkey King"]
 ---
-# Sun Wukong (The Monkey King) *([CN](rules/traits/chaotic-neutral-b1.md))*  
+# Sun Wukong (The Monkey King) *([CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 132*  
 
 - **Category**: Tian Gods
 - **Anathema**: refuse a reasonable bet or duel, let social pressure change your behavior
-- **Follower Alignments**: [CG](rules/traits/chaotic-good-b1.md), [CN](rules/traits/chaotic-neutral-b1.md), [CE](rules/traits/chaotic-evil-b1.md)
+- **Follower Alignments**: [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
 

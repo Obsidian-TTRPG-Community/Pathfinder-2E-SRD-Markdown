@@ -7,7 +7,7 @@ tags:
 aliases: ["Stealthy Companion"]
 ---
 # Stealthy Companion  *Feat 14*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: [Camouflage](compendium/feats/camouflage.md), [Animal Companion](compendium/feats/animal-companion-ranger.md)
 

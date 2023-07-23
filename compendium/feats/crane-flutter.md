@@ -7,7 +7,7 @@ tags:
 aliases: ["Crane Flutter"]
 ---
 # Crane Flutter  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Prerequisites**: [Crane Stance](compendium/feats/crane-stance.md)
 - **Trigger** You are targeted with a melee attack by an attacker you can see.

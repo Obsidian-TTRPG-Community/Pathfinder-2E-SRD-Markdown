@@ -11,9 +11,9 @@ tags:
 aliases: ["Mud Pit"]
 ---
 # Mud Pit *Spell 1*   
-[conjuration](rules/traits/conjuration.md)  [earth](rules/traits/earth.md)  [water](rules/traits/water.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**60 foot
 - **Area**squares on the ground in a 15-foot burst

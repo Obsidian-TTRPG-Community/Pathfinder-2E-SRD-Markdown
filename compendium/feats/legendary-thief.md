@@ -8,7 +8,7 @@ tags:
 aliases: ["Legendary Thief"]
 ---
 # Legendary Thief  *Feat 15*  
-[general](rules/traits/general.md)  [skill](rules/traits/skill.md)  
+[general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: legendary in [Thievery](compendium/skills.md#Thievery), [Pickpocket](compendium/feats/pickpocket.md)
 

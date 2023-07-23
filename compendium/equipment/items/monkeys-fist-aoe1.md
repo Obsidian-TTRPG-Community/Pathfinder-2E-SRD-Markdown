@@ -10,7 +10,7 @@ tags:
 aliases: ["Monkey's Fist"]
 ---
 # Monkey's Fist *Item 0*  
-[finesse](rules/traits/finesse.md)  [monk](rules/traits/monk.md)  [nonlethal](rules/traits/nonlethal.md)  
+[finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait")  
 
 - **Price** 1 sp
 - **Damage** `1d6` B

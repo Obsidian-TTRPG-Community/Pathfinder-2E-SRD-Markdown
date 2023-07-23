@@ -7,7 +7,7 @@ tags:
 aliases: ["Reflect Spell (Wizard)"]
 ---
 # Reflect Spell (Wizard)  *Feat 14*  
-[wizard](rules/traits/wizard.md)  
+[wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Prerequisites**: [Counterspell](compendium/feats/counterspell-wizard.md)
 

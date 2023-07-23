@@ -7,7 +7,7 @@ tags:
 aliases: ["Remorseless Lash"]
 ---
 # Remorseless Lash  *Feat 1*  
-[hobgoblin](rules/traits/hobgoblin-locg.md)  
+[hobgoblin](rules/traits/hobgoblin-locg.md "Hobgoblin Ancestry & Heritage Trait")  
 
 
 You're skilled at beating a foe when their morale is already breaking. When you succeed at a melee weapon [Strike](rules/actions/strike.md) against a [frightened](rules/conditions.md#Frightened) foe, that foe can't reduce their [frightened](rules/conditions.md#Frightened) condition below 1 until the beginning of your next turn.

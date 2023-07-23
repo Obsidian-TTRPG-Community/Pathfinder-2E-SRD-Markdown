@@ -10,7 +10,7 @@ tags:
 aliases: ["Weapon Surge"]
 ---
 # Weapon Surge *Focus 1*   
-[cleric](rules/traits/cleric.md)  [evocation](rules/traits/evocation.md)  [uncommon](rules/traits/uncommon.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Domains**: [zeal](compendium/setting/domains.md#Zeal)
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 

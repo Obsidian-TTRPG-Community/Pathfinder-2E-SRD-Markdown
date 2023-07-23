@@ -8,7 +8,7 @@ tags:
 aliases: ["Fortress Shield"]
 ---
 # Fortress Shield *Item 1*  
-[hefty <14>](rules/traits/hefty-tv.md)  
+[hefty <14>](rules/traits/hefty-14-tv.md "Hefty Item Trait")  
 
 - **Price** 20 gp
 - **Bulk** 5

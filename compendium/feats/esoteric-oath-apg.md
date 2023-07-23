@@ -8,7 +8,7 @@ tags:
 aliases: ["Esoteric Oath"]
 ---
 # Esoteric Oath  *Feat 2*  
-[champion](rules/traits/champion.md)  [oath](rules/traits/oath.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  [oath](rules/traits/oath.md "Oath Feat Trait")  
 
 - **Prerequisites**: tenets of good
 

@@ -10,7 +10,7 @@ tags:
 aliases: ["Rungu"]
 ---
 # Rungu *Item 0*  
-[grippli](rules/traits/grippli-b2.md)  [shove](rules/traits/shove.md)  [thrown <30 ft.>](rules/traits/thrown.md)  
+[grippli](rules/traits/grippli-b2.md "Grippli Ancestry & Heritage Trait")  [shove](rules/traits/shove.md "Shove Weapon Trait")  [thrown <30 ft.>](rules/traits/thrown-30-ft.md "Thrown Weapon Trait")  
 
 - **Price** 4 sp
 - **Bulk** L

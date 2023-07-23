@@ -7,7 +7,7 @@ tags:
 aliases: ["Sinister Appearance"]
 ---
 # Sinister Appearance  *Feat 1*  
-[ifrit](rules/traits/ifrit-b2.md)  
+[ifrit](rules/traits/ifrit-b2.md "Ifrit Ancestry & Heritage Trait")  
 
 
 You possess horns, a tail, or red eyes, or could otherwise be mistaken for a tiefling.

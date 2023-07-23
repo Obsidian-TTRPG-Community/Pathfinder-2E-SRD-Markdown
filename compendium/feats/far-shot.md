@@ -7,7 +7,7 @@ tags:
 aliases: ["Far Shot"]
 ---
 # Far Shot  *Feat 4*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 
 Your experience in the field has taught you how to focus your aim at a distance, increasing your accuracy. Double your weapons' range increments.

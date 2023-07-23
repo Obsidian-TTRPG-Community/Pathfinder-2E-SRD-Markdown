@@ -9,9 +9,9 @@ tags:
 aliases: ["Feral Shades"]
 ---
 # Feral Shades *Spell 2*   
-[necromancy](rules/traits/necromancy.md)  
+[necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md)
+- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**30-foot cone
 - **Saving Throw**  basic Fortitude

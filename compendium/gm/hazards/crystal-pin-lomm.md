@@ -11,7 +11,7 @@ tags:
 aliases: ["Crystal Pin"]
 ---
 # Crystal Pin *Hazard 20*  
-[abjuration](rules/traits/abjuration.md)  [divine](rules/traits/divine.md)  [environmental](rules/traits/environmental.md)  [kaiju](rules/traits/kaiju-frp2.md)  [rare](rules/traits/rare.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [kaiju](rules/traits/kaiju-frp2.md "Kaiju  Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 10  
@@ -23,13 +23,13 @@ Ebeshra fires a crystal at a creature to pin them onto the Material Plane.
 ```ad-embed-ability
 title: Fire Pin [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
-- **Trigger**: A creature Ebeshra can see begins to use a [teleportation](rules/traits/teleportation.md) effect or an effect that would move any number of targets to a different plane;
+- **Trigger**: A creature Ebeshra can see begins to use a [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait") effect or an effect that would move any number of targets to a different plane;
 
 **Effect** Ebeshra hurls a crystal at the triggering creature. The triggering creature and all creatures within 50 feet of the creature take `16d8` piercing damage (DC 45 basic Reflex save) and additional effects based on the result of their save.
 
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
-> - **Success** The effect is counteracted, and the creature can't use [teleportation](rules/traits/teleportation.md) effects or planar travel effects for 1 minute.
+> - **Success** The effect is counteracted, and the creature can't use [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait") effects or planar travel effects for 1 minute.
 > - **Failure** As success, but for 1 day instead of 1 minute.
 > - **Critical Failure** As success, but for 1 week instead of 1 minute. Additionally, the creature becomes pinned under the crystal and must succeed at 3 total DC 45 checks to [Escape](rules/actions/escape.md) from under the crystal.
 ```

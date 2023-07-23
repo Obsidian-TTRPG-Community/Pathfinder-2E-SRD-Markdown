@@ -7,7 +7,7 @@ tags:
 aliases: ["Advanced Flair"]
 ---
 # Advanced Flair  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Flair](compendium/feats/basic-flair-apg.md)
 

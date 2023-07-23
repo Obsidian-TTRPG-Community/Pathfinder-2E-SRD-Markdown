@@ -7,7 +7,7 @@ tags:
 aliases: ["Unrivaled Builder"]
 ---
 # Unrivaled Builder  *Feat 13*  
-[shoony](rules/traits/shoony-ec3.md)  
+[shoony](rules/traits/shoony-ec3.md "Shoony Ancestry & Heritage Trait")  
 
 - **Prerequisites**: Handy with Your Paws
 

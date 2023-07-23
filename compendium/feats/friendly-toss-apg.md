@@ -9,7 +9,7 @@ tags:
 aliases: ["Friendly Toss"]
 ---
 # Friendly Toss  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
-[barbarian](rules/traits/barbarian.md)  [manipulate](rules/traits/manipulate.md)  [rage](rules/traits/rage.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [rage](rules/traits/rage.md "Rage Combat Trait")  
 
 - **Requirements**: You are adjacent to an ally and have one or more hands free.
 - **Activity** Two-Action

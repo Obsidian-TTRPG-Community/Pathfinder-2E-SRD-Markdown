@@ -10,7 +10,7 @@ tags:
 aliases: ["Confabulator"]
 ---
 # Confabulator *Item 3*  
-[illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 55 gp
 - **Usage** Affixed to instrument; **Bulk** L

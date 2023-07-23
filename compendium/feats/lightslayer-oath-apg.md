@@ -9,7 +9,7 @@ tags:
 aliases: ["Lightslayer Oath"]
 ---
 # Lightslayer Oath  *Feat 2*  
-[champion](rules/traits/champion.md)  [oath](rules/traits/oath.md)  [uncommon](rules/traits/uncommon.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  [oath](rules/traits/oath.md "Oath Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: tenets of evil
 

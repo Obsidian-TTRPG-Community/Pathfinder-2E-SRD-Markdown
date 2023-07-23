@@ -8,7 +8,7 @@ tags:
 aliases: ["Recollect Studies"]
 ---
 # Recollect Studies  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 12*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Swordmaster Dedication](compendium/feats/swordmaster-dedication-locg.md), expert in a skill used to [Recall Knowledge](rules/actions/recall-knowledge.md)
 - **Requirements**: You're fighting a creature of your level or lower that could be identified by [Recall Knowledge](rules/actions/recall-knowledge.md) with a skill in which you're an expert.

@@ -10,7 +10,7 @@ tags:
 aliases: ["Primal Call"]
 ---
 # Primal Call *Ritual 6*  
-[abjuration](rules/traits/abjuration.md)  [conjuration](rules/traits/conjuration.md)  [uncommon](rules/traits/uncommon.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** 1 day
 - **Cost** faerie circle ingredients worth a total value of 1 gp × the spell level × the target's level

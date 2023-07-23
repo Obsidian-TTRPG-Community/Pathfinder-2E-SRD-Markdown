@@ -7,7 +7,7 @@ tags:
 aliases: ["Bouncy Goblin"]
 ---
 # Bouncy Goblin  *Feat 1*  
-[goblin](rules/traits/goblin.md)  
+[goblin](rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  
 
 - **Prerequisites**: unbreakable goblin heritage
 

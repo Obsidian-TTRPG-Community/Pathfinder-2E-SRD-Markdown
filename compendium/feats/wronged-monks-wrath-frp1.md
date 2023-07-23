@@ -8,7 +8,7 @@ tags:
 aliases: ["Wronged Monk's Wrath"]
 ---
 # Wronged Monk's Wrath  *Feat 10*  
-[monk](rules/traits/monk.md)  [uncommon](rules/traits/uncommon.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: ki spells
 

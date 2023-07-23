@@ -10,7 +10,7 @@ tags:
 aliases: ["Whip Of Compliance"]
 ---
 # Whip Of Compliance *Item 9*  
-[enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 3000 gp
 - **Usage** held, 1 hand; **Bulk** 1
@@ -23,7 +23,7 @@ title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "S
 
 Until the end of your current turn, any animals you [Strike](rules/actions/strike.md) with the whip must attempt a DC 25 Will save.
 
-On a failed or critically failed saving throw, the whip casts a 4th-level [suggestion](compendium/spells/suggestion.md) spell on the animal with a base duration of 1 round, and the spell loses the [linguistic](rules/traits/linguistic.md) trait. The course of action must still fulfill suggestion's requirements. If you can cast spells, you can expend one of your spells of 4th level or higher as a part of activating the whip; if you do so, the suggestions this turn have their normal base duration.
+On a failed or critically failed saving throw, the whip casts a 4th-level [suggestion](compendium/spells/suggestion.md) spell on the animal with a base duration of 1 round, and the spell loses the [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait") trait. The course of action must still fulfill suggestion's requirements. If you can cast spells, you can expend one of your spells of 4th level or higher as a part of activating the whip; if you do so, the suggestions this turn have their normal base duration.
 ```
 
 *Source: Extinction Curse #2: Legacy of the Lost God p. 75*

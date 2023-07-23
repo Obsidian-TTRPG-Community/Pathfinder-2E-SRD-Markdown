@@ -8,7 +8,7 @@ tags:
 aliases: ["Greater Cruelty"]
 ---
 # Greater Cruelty  *Feat 8*  
-[champion](rules/traits/champion.md)  [uncommon](rules/traits/uncommon.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Cruelty](compendium/feats/cruelty-apg.md)
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Reaper Of Repose"]
 ---
 # Reaper Of Repose  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Knight Reclaimant Dedication](compendium/feats/knight-reclaimant-dedication-locg.md), master proficiency in a weapon
 

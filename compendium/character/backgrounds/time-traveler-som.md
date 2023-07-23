@@ -18,7 +18,7 @@ You are trained in three [Lore](compendium/skills.md#Lore) skills of your choice
 
 ```ad-embed-ability
 title: Bend Time [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
-[occult](rules/traits/occult.md)  [transmutation](rules/traits/transmutation.md)  
+[occult](rules/traits/occult.md "Occult Tradition Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Trigger**: Your turn begins
 

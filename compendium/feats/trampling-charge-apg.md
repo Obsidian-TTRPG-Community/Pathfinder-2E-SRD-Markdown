@@ -8,7 +8,7 @@ tags:
 aliases: ["Trampling Charge"]
 ---
 # Trampling Charge  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 10*  
-[archetype](rules/traits/archetype.md)  [flourish](rules/traits/flourish.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 - **Prerequisites**: [Cavalier Dedication](compendium/feats/cavalier-dedication-apg.md)
 - **Requirements**: You are riding a mount that has a melee [Strike](rules/actions/strike.md) using its legs (claw, talons, hoof, etc.

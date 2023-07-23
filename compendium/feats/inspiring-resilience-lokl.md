@@ -11,10 +11,10 @@ tags:
 aliases: ["Inspiring Resilience"]
 ---
 # Inspiring Resilience  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 4*  
-[bard](rules/traits/bard.md)  [champion](rules/traits/champion.md)  [emotion](rules/traits/emotion.md)  [mental](rules/traits/mental.md)  [uncommon](rules/traits/uncommon.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  [champion](rules/traits/champion.md "Champion Class Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: Knights of Lastwall have access to this feat.
-- **Trigger** You and at least one other creature become the target of a spell or effect with the emotion, [fear](rules/traits/fear.md), or [mental](rules/traits/mental.md) trait that allows a saving throw, and you haven't rolled the save yet.
+- **Trigger** You and at least one other creature become the target of a spell or effect with the emotion, [fear](rules/traits/fear.md "Fear Effect Trait"), or [mental](rules/traits/mental.md "Mental Effect Trait") trait that allows a saving throw, and you haven't rolled the save yet.
 - **Activity** Reaction
 
 You show defiance in times of hardship and inspire your companions to persevere.

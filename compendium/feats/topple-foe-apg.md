@@ -7,7 +7,7 @@ tags:
 aliases: ["Topple Foe"]
 ---
 # Topple Foe  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Marshal Dedication](compendium/feats/marshal-dedication-apg.md), trained in [Athletics](compendium/skills.md#Athletics)
 - **Activity** Reaction

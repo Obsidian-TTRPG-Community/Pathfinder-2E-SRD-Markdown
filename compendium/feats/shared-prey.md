@@ -7,7 +7,7 @@ tags:
 aliases: ["Shared Prey"]
 ---
 # Shared Prey  *Feat 14*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: [Double Prey](compendium/feats/double-prey.md), [Warden's Boon](compendium/feats/wardens-boon.md)
 

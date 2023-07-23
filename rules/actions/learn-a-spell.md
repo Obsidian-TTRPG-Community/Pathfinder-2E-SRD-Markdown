@@ -9,7 +9,7 @@ tags:
 aliases: ["Learn a Spell"]
 ---
 # Learn a Spell (basic)
-[concentrate](rules/traits/concentrate.md)  [exploration](rules/traits/exploration.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  
 *Source: Core Rulebook p. 238*  
 
 
@@ -21,7 +21,7 @@ To learn the spell, you must do the following:
 
 - Spend 1 hour per level of the spell, during which you must remain in conversation with a person who knows the spell or have the magical writing in your possession.
 - Have materials with the Price indicated in [Table 4-3: Learning a Spell](rules/tables/learning-a-spell.md).
-- Attempt a skill check for the skill corresponding to your tradition (DC determined by the GM, often close to the DC on [Table 4-3: Learning a Spell](rules/tables/learning-a-spell.md)). [Uncommon](rules/traits/uncommon.md) or [rare](rules/traits/rare.md) spells have [higher DCs](rules/tables/dc-adjustments.md); full guidelines for the GM appear on page 503.
+- Attempt a skill check for the skill corresponding to your tradition (DC determined by the GM, often close to the DC on [Table 4-3: Learning a Spell](rules/tables/learning-a-spell.md)). [Uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait") or [rare](rules/traits/rare.md "Rare Rarity Trait") spells have [higher DCs](rules/tables/dc-adjustments.md); full guidelines for the GM appear on page 503.
 
 If you have a spellbook, Learning a Spell lets you add the spell to your spellbook; if you prepare spells from a list, it's added to your list; if you have a spell repertoire, you can select it when you add or swap spells.
 

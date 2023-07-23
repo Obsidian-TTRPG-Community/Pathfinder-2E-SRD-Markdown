@@ -10,7 +10,7 @@ tags:
 aliases: ["Shuffling Scythe Blades"]
 ---
 # Shuffling Scythe Blades *Hazard 8*  
-[complex](rules/traits/complex.md)  [magical](rules/traits/magical.md)  [mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** DC 18 expert  
@@ -56,7 +56,7 @@ Reduce the number of actions the trap can take by 1 for each destroyed blade.
 ```
 
 ```ad-inline-attack
-title: Melee [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Scythe (20) ([deadly <1d12>](rules/traits/deadly.md))
+title: Melee [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Scythe (20) ([deadly <1d12>](rules/traits/deadly-1d12.md "Deadly Weapon Trait"))
 **Damage** `1d12+8` slashing 
  
 **Effects** 

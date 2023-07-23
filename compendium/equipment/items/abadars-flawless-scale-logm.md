@@ -10,7 +10,7 @@ tags:
 aliases: ["Abadar's Flawless Scale"]
 ---
 # Abadar's Flawless Scale *Item 3*  
-[divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** follower of [Abadar](compendium/setting/deities/abadar.md)
 - **Price** 50 gp

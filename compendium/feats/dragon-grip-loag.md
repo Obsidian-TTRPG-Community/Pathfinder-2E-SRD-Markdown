@@ -8,11 +8,11 @@ tags:
 aliases: ["Dragon Grip"]
 ---
 # Dragon Grip  *Feat 9*  
-[orc](rules/traits/orc.md)  [uncommon](rules/traits/uncommon.md)  
+[orc](rules/traits/orc.md "Orc Ancestry & Heritage Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Beast Trainer](compendium/feats/beast-trainer-apg.md)
 
-Your hold has a unique draconic connection. You gain a +2 circumstance bonus when you attempt to [Make an Impression](rules/actions/make-an-impression.md) on a creature with the [dragon](rules/traits/dragon.md) trait.
+Your hold has a unique draconic connection. You gain a +2 circumstance bonus when you attempt to [Make an Impression](rules/actions/make-an-impression.md) on a creature with the [dragon](rules/traits/dragon.md "Dragon Creature Type Trait") trait.
 
 You gain access to the Riding Drake animal companion.
 

@@ -10,7 +10,7 @@ tags:
 aliases: ["Unbreaking Wave Vapor"]
 ---
 # Unbreaking Wave Vapor *Focus 5*   
-[abjuration](rules/traits/abjuration.md)  [uncommon](rules/traits/uncommon.md)  [water](rules/traits/water.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
 - **Trigger**You're targeted by an attack made by an attacker you can see.

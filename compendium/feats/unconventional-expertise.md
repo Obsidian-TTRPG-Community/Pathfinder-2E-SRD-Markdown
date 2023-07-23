@@ -7,7 +7,7 @@ tags:
 aliases: ["Unconventional Expertise"]
 ---
 # Unconventional Expertise  *Feat 13*  
-[human](rules/traits/human.md)  
+[human](rules/traits/human.md "Human Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Unconventional Weaponry](compendium/feats/unconventional-weaponry.md), trained in the weapon you chose for [Unconventional Weaponry](compendium/feats/unconventional-weaponry.md)
 

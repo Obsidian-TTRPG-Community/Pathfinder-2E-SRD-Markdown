@@ -7,7 +7,7 @@ tags:
 aliases: ["Marine Ally"]
 ---
 # Marine Ally  *Feat 5*  
-[azarketi](rules/traits/azarketi-loag.md)  
+[azarketi](rules/traits/azarketi-loag.md "Azarketi Ancestry & Heritage Trait")  
 
 
 You've befriended a sea creature, which becomes magically bonded to you. You gain a familiar. The type of creature is up to you, but one of its abilities must always be a swim Speed or the amphibious familiar ability.

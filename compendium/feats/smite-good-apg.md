@@ -8,7 +8,7 @@ tags:
 aliases: ["Smite Good"]
 ---
 # Smite Good  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[champion](rules/traits/champion.md)  [uncommon](rules/traits/uncommon.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: divine ally (blade), tenets of evil
 - **Activity** Single Action

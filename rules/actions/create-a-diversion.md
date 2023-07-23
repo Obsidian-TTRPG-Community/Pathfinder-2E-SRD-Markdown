@@ -8,13 +8,13 @@ tags:
 aliases: ["Create a Diversion"]
 ---
 # Create a Diversion (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[mental](rules/traits/mental.md)  
+[mental](rules/traits/mental.md "Mental Effect Trait")  
 *Source: Core Rulebook p. 245*  
 
 **Skill** [deception](compendium/skills.md#Deception) (untrained)
 - **Activity**: Single Action
 
-With a gesture, a trick, or some distracting words, you can create a diversion that draws creatures' attention elsewhere. If you use a gesture or trick, this action gains the [manipulate](rules/traits/manipulate.md) trait. If you use distracting words, it gains the [auditory](rules/traits/auditory.md) and [linguistic](rules/traits/linguistic.md) traits.
+With a gesture, a trick, or some distracting words, you can create a diversion that draws creatures' attention elsewhere. If you use a gesture or trick, this action gains the [manipulate](rules/traits/manipulate.md "Manipulate General Trait") trait. If you use distracting words, it gains the [auditory](rules/traits/auditory.md "Auditory Effect Trait") and [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait") traits.
 
 Attempt a single [Deception](compendium/skills.md#Deception) check and compare it to the [Perception](compendium/skills.md#Perception) DCs of the creatures whose attention you're trying to divert. Whether or not you succeed, creatures you attempt to divert gain a +4 circumstance bonus to their [Perception](compendium/skills.md#Perception) DCs against your attempts to Create a Diversion for 1 minute.
 

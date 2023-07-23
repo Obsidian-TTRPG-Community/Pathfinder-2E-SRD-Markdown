@@ -8,7 +8,7 @@ tags:
 aliases: ["Mobile Magical Combat"]
 ---
 # Mobile Magical Combat  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 16*  
-[archetype](rules/traits/archetype.md)  [flourish](rules/traits/flourish.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 - **Prerequisites**: [Spellmaster Dedication](compendium/feats/spellmaster-dedication-locg.md)
 - **Requirements**: You're wielding a melee weapon and have [Cast a Spell](rules/actions/cast-a-spell.md) requiring at least 1 action this turn.

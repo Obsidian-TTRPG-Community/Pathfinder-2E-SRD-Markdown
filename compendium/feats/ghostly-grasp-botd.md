@@ -7,7 +7,7 @@ tags:
 aliases: ["Ghostly Grasp"]
 ---
 # Ghostly Grasp  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Ghost Dedication](compendium/feats/ghost-dedication-botd.md)
 

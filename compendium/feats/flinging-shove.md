@@ -7,7 +7,7 @@ tags:
 aliases: ["Flinging Shove"]
 ---
 # Flinging Shove  *Feat 12*  
-[fighter](rules/traits/fighter.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 - **Prerequisites**: [Aggressive Block](compendium/feats/aggressive-block.md) or [Brutish Shove](compendium/feats/brutish-shove.md)
 

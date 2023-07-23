@@ -7,7 +7,7 @@ tags:
 aliases: ["Razor Claws"]
 ---
 # Razor Claws  *Feat 1*  
-[lizardfolk](rules/traits/lizardfolk-b1.md)  
+[lizardfolk](rules/traits/lizardfolk-b1.md "Lizardfolk Ancestry & Heritage Trait")  
 
 
 Your have honed your claws to be deadly. Your claw attack deals `1d6` slashing damage instead of `1d4` and gains the versatile (piercing) trait.

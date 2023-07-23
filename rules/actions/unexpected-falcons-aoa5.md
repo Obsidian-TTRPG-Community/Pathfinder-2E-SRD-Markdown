@@ -8,7 +8,7 @@ tags:
 aliases: ["Unexpected Falcons"]
 ---
 # Unexpected Falcons
-[exploration](rules/traits/exploration.md)  
+[exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  
 *Source: Age of Ashes #5: Against the Scarlet Triad p. 26*  
 
 - **Requirements**: The PCs got a critical failure while attempting to [Contact Steel Falcons](rules/actions/contact-steel-falcons-aoa5.md). This Complication can occur whenever the GM sees fit.

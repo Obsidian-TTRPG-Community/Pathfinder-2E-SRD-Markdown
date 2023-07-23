@@ -7,7 +7,7 @@ tags:
 aliases: ["Laughing Gnoll"]
 ---
 # Laughing Gnoll  *Feat 9*  
-[gnoll](rules/traits/gnoll-b1.md)  
+[gnoll](rules/traits/gnoll-b1.md "Gnoll Ancestry & Heritage Trait")  
 
 - **Prerequisites**: master in [Intimidation](compendium/skills.md#Intimidation)
 

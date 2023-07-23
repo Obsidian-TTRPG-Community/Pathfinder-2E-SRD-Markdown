@@ -12,7 +12,7 @@ tags:
 aliases: ["Majordomo Torc"]
 ---
 # Majordomo Torc *Item 6*  
-[enchantment](rules/traits/enchantment.md)  [intelligent](rules/traits/intelligent-gmg.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [intelligent](rules/traits/intelligent-gmg.md "Intelligent Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** worn; **Bulk** L
 - **Category** Worn

@@ -10,7 +10,7 @@ tags:
 aliases: ["Speed"]
 ---
 # Speed *Item 16*  
-[magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  [transmutation](rules/traits/transmutation.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 10000 gp
 - **Usage** etched onto a weapon

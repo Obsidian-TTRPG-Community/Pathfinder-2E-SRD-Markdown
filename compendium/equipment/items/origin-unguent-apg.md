@@ -9,7 +9,7 @@ tags:
 aliases: ["Origin Unguent"]
 ---
 # Origin Unguent *Item 2*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  
 
 - **Price** 6 gp
 - **Usage** held in 1 hand; **Bulk** L

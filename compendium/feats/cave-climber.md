@@ -7,7 +7,7 @@ tags:
 aliases: ["Cave Climber"]
 ---
 # Cave Climber  *Feat 9*  
-[goblin](rules/traits/goblin.md)  
+[goblin](rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  
 
 
 After years of crawling and climbing through caverns, you can climb easily anywhere you go. You gain a climb Speed of 10 feet.

@@ -7,7 +7,7 @@ tags:
 aliases: ["Eye Of Ozem"]
 ---
 # Eye Of Ozem  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Lastwall Sentry Dedication](compendium/feats/lastwall-sentry-dedication-lowg.md), expert in [Perception](compendium/skills.md#Perception)
 

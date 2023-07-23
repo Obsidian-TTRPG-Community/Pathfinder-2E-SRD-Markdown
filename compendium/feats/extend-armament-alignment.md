@@ -7,7 +7,7 @@ tags:
 aliases: ["Extend Armament Alignment"]
 ---
 # Extend Armament Alignment  *Feat 14*  
-[cleric](rules/traits/cleric.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  
 
 - **Prerequisites**: [Align Armament](compendium/feats/align-armament.md)
 

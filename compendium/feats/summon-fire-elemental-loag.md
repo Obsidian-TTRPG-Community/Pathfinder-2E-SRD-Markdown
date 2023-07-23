@@ -7,7 +7,7 @@ tags:
 aliases: ["Summon Fire Elemental"]
 ---
 # Summon Fire Elemental  *Feat 13*  
-[ifrit](rules/traits/ifrit-b2.md)  
+[ifrit](rules/traits/ifrit-b2.md "Ifrit Ancestry & Heritage Trait")  
 
 
 You can summon an elemental ally. Once per day, you can cast [summon elemental](compendium/spells/summon-elemental.md) as a 5th-level primal innate spell, but the elemental summoned must be a fire elemental.

@@ -7,7 +7,7 @@ tags:
 aliases: ["Locking Door"]
 ---
 # Locking Door *Hazard -1*  
-[haunt](rules/traits/haunt.md)  
+[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 18 trained to notice the door sway slightly, even though there's no breeze  

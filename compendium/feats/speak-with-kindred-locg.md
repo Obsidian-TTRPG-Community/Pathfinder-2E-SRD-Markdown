@@ -7,7 +7,7 @@ tags:
 aliases: ["Speak With Kindred"]
 ---
 # Speak With Kindred  *Feat 5*  
-[leshy](rules/traits/leshy-b1.md)  
+[leshy](rules/traits/leshy-b1.md "Leshy Ancestry & Heritage Trait")  
 
 
 You have a connection with creatures that share your physiology.

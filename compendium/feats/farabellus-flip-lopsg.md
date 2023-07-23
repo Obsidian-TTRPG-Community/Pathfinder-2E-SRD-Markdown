@@ -10,7 +10,7 @@ tags:
 aliases: ["Farabellus Flip"]
 ---
 # Farabellus Flip  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 4*  
-[barbarian](rules/traits/barbarian.md)  [fighter](rules/traits/fighter.md)  [ranger](rules/traits/ranger.md)  [uncommon](rules/traits/uncommon.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [fighter](rules/traits/fighter.md "Fighter Class Trait")  [ranger](rules/traits/ranger.md "Ranger Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: trained in [Acrobatics](compendium/skills.md#Acrobatics) and medium armor
 - **Trigger** An enemy targets you with a melee [Strike](rules/actions/strike.md).

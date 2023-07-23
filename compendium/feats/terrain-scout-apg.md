@@ -7,7 +7,7 @@ tags:
 aliases: ["Terrain Scout"]
 ---
 # Terrain Scout  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Scout Dedication](compendium/feats/scout-dedication-apg.md)
 

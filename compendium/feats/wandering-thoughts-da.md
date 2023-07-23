@@ -11,7 +11,7 @@ tags:
 aliases: ["Wandering Thoughts"]
 ---
 # Wandering Thoughts  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 16*  
-[concentrate](rules/traits/concentrate.md)  [occult](rules/traits/occult.md)  [psyche](rules/traits/psyche-da.md)  [psychic](rules/traits/psychic-da.md)  [teleportation](rules/traits/teleportation.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [psyche](rules/traits/psyche-da.md "Psyche Action & Ability Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  
 
 - **Frequency**: once per round
 - **Requirements**: You used your most recent action to [Cast a Spell](rules/actions/cast-a-spell.md).

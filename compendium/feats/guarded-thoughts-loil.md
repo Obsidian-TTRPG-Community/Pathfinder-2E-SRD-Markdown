@@ -7,7 +7,7 @@ tags:
 aliases: ["Guarded Thoughts"]
 ---
 # Guarded Thoughts  *Feat 9*  
-[nagaji](rules/traits/nagaji-loil.md)  
+[nagaji](rules/traits/nagaji-loil.md "Nagaji Ancestry & Heritage Trait")  
 
 
 Your mind, like a dark naga's, foils attempts to read your thoughts.

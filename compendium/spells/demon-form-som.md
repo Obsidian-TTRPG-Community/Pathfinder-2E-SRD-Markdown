@@ -11,13 +11,13 @@ tags:
 aliases: ["Demon Form"]
 ---
 # Demon Form *Spell 6*   
-[chaotic](rules/traits/chaotic.md)  [evil](rules/traits/evil.md)  [polymorph](rules/traits/polymorph.md)  [transmutation](rules/traits/transmutation.md)  
+[chaotic](rules/traits/chaotic.md "Chaotic Alignment Trait")  [evil](rules/traits/evil.md "Evil Alignment Trait")  [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [divine](rules/traits/divine.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Duration**1 minute
 
-You corrupt yourself with the sin of the Abyss, transforming into a Medium demon battle form. When you cast this spell, choose babau, hezrou, nabasu, or vrock. If you choose hezrou, the battle form is Large and you must have enough space to expand into or the spell is lost. While in this form, you gain the [demon](rules/traits/demon.md) and [fiend](rules/traits/fiend.md) traits. You have hands in this battle form and can use manipulate actions.
+You corrupt yourself with the sin of the Abyss, transforming into a Medium demon battle form. When you cast this spell, choose babau, hezrou, nabasu, or vrock. If you choose hezrou, the battle form is Large and you must have enough space to expand into or the spell is lost. While in this form, you gain the [demon](rules/traits/demon.md "Demon Creature Trait") and [fiend](rules/traits/fiend.md "Fiend Creature Type Trait") traits. You have hands in this battle form and can use manipulate actions.
 
 You can [Dismiss](rules/actions/dismiss.md) the spell.
 
@@ -31,9 +31,9 @@ You gain the following statistics and abilities regardless of the form that you 
 
 You also gain specific abilities based on the type of demon you choose:
 
-- **Babau** Speed 25 feet; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") longspear (reach <10 feet>), **Damage** `2d8+10` piercing plus `1d6` evil; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") jaws, **Damage** `2d10` piercing plus `1d6` evil; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") claw ([agile](rules/traits/agile.md)), **Damage** `2d4` slashing plus `1d6` evil; all [Strikes](rules/actions/strike.md) deal `2d6` additional precision damage to flatfooted creatures.
+- **Babau** Speed 25 feet; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") longspear (reach <10 feet>), **Damage** `2d8+10` piercing plus `1d6` evil; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") jaws, **Damage** `2d10` piercing plus `1d6` evil; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") claw ([agile](rules/traits/agile.md "Agile Weapon Trait")), **Damage** `2d4` slashing plus `1d6` evil; all [Strikes](rules/actions/strike.md) deal `2d6` additional precision damage to flatfooted creatures.
 - **Hezrou** Speed 30 feet, swim 30 feet; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") jaws (reach <10 feet>), **Damage** `2d12+10` piercing plus `1d6` evil, and you can spend an action after a hit to Grab the target; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") claw (agile, reach <10 feet>), **Damage** `2d8` slashing plus `1d6` evil.
-- **Nabasu** Speed 25 feet, fly 40 feet; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") jaws, **Damage** `2d10+10` piercing plus `1d6` evil; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") claw ([agile](rules/traits/agile.md)), **Damage** `2d6` slashing plus `1d6` evil.
-- **Vrock** Speed 25 feet, fly 35 feet; resistance 10 to electricity; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") beak, **Damage** `2d8+10` piercing plus `1d6` evil; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") claw ([agile](rules/traits/agile.md)), **Damage** `2d6` slashing plus `1d6` evil; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") talon ([agile](rules/traits/agile.md)), **Damage** `2d6` slashing plus `1d6` evil.
+- **Nabasu** Speed 25 feet, fly 40 feet; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") jaws, **Damage** `2d10+10` piercing plus `1d6` evil; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") claw ([agile](rules/traits/agile.md "Agile Weapon Trait")), **Damage** `2d6` slashing plus `1d6` evil.
+- **Vrock** Speed 25 feet, fly 35 feet; resistance 10 to electricity; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") beak, **Damage** `2d8+10` piercing plus `1d6` evil; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") claw ([agile](rules/traits/agile.md "Agile Weapon Trait")), **Damage** `2d6` slashing plus `1d6` evil; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") talon ([agile](rules/traits/agile.md "Agile Weapon Trait")), **Damage** `2d6` slashing plus `1d6` evil.
 
 *Source: Secrets of Magic p. 99*

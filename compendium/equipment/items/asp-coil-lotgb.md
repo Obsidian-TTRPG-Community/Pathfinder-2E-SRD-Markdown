@@ -10,7 +10,7 @@ tags:
 aliases: ["Asp Coil"]
 ---
 # Asp Coil *Item 0*  
-[reach](rules/traits/reach.md)  [uncommon](rules/traits/uncommon.md)  [versatile <p>](rules/traits/versatile.md)  
+[reach](rules/traits/reach.md "Reach Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [versatile <p>](rules/traits/versatile-p.md "Versatile Weapon Trait")  
 
 - **Price** 10 gp
 - **Bulk** 1

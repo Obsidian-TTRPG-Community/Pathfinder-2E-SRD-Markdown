@@ -11,13 +11,13 @@ tags:
 aliases: ["Gearblade"]
 ---
 # Gearblade *Item 17*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  clockwork  
+[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  clockwork  
 
 - **Price** 13000 gp
 - **Usage** held in 1 or 2 hands; **Bulk** 2
 - **Category** Held
 
-Shaped like a blade made from spinning gears, this +2 greater striking weapon can catch enemy weapons and grind up foes. In order to function, the gearblade must be wound for 10 minutes once every 24 hours. During this process, you can reconfigure the weapon to transform into a [bastard sword](compendium/equipment/items/bastard-sword.md), [greatsword](compendium/equipment/items/greatsword.md), [longsword](compendium/equipment/items/longsword.md), or [shortsword](compendium/equipment/items/shortsword.md). It then gains all the features of the chosen weapon except that its Bulk is always 2 and it gains the [disarm](rules/traits/disarm.md) weapon trait and the versatile B weapon trait (which replaces any other [versatile](rules/traits/versatile.md) trait the weapon might have). If you don't wind the gearblade, it becomes inert and has the statistics of a [greatclub](compendium/equipment/items/greatclub.md).
+Shaped like a blade made from spinning gears, this +2 greater striking weapon can catch enemy weapons and grind up foes. In order to function, the gearblade must be wound for 10 minutes once every 24 hours. During this process, you can reconfigure the weapon to transform into a [bastard sword](compendium/equipment/items/bastard-sword.md), [greatsword](compendium/equipment/items/greatsword.md), [longsword](compendium/equipment/items/longsword.md), or [shortsword](compendium/equipment/items/shortsword.md). It then gains all the features of the chosen weapon except that its Bulk is always 2 and it gains the [disarm](rules/traits/disarm.md "Disarm Weapon Trait") weapon trait and the versatile B weapon trait (which replaces any other [versatile](rules/traits/versatile.md "Versatile Weapon Trait") trait the weapon might have). If you don't wind the gearblade, it becomes inert and has the statistics of a [greatclub](compendium/equipment/items/greatclub.md).
 
 ```ad-embed-ability
 title: Activate [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")

@@ -7,7 +7,7 @@ tags:
 aliases: ["Continuous Assault"]
 ---
 # Continuous Assault  *Feat 13*  
-[suli](rules/traits/suli-b2.md)  
+[suli](rules/traits/suli-b2.md "Suli Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Elemental Assault](compendium/feats/elemental-assault-loag.md)
 

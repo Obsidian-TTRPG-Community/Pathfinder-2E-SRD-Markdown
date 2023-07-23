@@ -8,7 +8,7 @@ tags:
 aliases: ["Apex Companion"]
 ---
 # Apex Companion  *Feat 20*  
-[druid](rules/traits/druid.md)  [uncommon](rules/traits/uncommon.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: Animal Companion
 

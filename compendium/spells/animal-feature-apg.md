@@ -11,7 +11,7 @@ tags:
 aliases: ["Animal Feature"]
 ---
 # Animal Feature *Focus 2*   
-[morph](rules/traits/morph.md)  [ranger](rules/traits/ranger.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+[morph](rules/traits/morph.md "Morph Effect Trait")  [ranger](rules/traits/ranger.md "Ranger Class Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Duration**1 minute
@@ -19,8 +19,8 @@ aliases: ["Animal Feature"]
 Without fully transforming your body, you gain one animalistic feature, which you select from the list below each time you [Cast the Spell](rules/actions/cast-a-spell.md).
 
 - **Cat Eyes** You gain [low-light vision](rules/abilities/low-light-vision.md).
-- **Claws** You gain a claw attack that deals `1d6` slashing damage and has the agile, [finesse](rules/traits/finesse.md), and [unarmed](rules/traits/unarmed.md) traits.
-- **Jaws** You gain a jaws attack that deals `1d8` piercing damage and has the [unarmed](rules/traits/unarmed.md) trait.
+- **Claws** You gain a claw attack that deals `1d6` slashing damage and has the agile, [finesse](rules/traits/finesse.md "Finesse Weapon Trait"), and [unarmed](rules/traits/unarmed.md "Unarmed Weapon Trait") traits.
+- **Jaws** You gain a jaws attack that deals `1d8` piercing damage and has the [unarmed](rules/traits/unarmed.md "Unarmed Weapon Trait") trait.
 
 **Heightened (4th)** Add the following options to the list you can choose from.
 

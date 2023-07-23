@@ -14,13 +14,13 @@ tags:
 - trait/shove
 aliases: ["Uvuko", "The Diamond Ring"]
 ---
-# Uvuko (The Diamond Ring) *([CG](rules/traits/chaotic-good-b1.md))*  
+# Uvuko (The Diamond Ring) *([CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"))*  
 *Source: Lost Omens: The Mwangi Expanse p. 141*  
 
 - **Category**: Mwangi Gods
 - **Anathema**: allow yourself and your surroundings to stagnate, crush an egg, use vile or cruel language
 - **Areas of Concern**: metamorphosis, , cycles, , growth, , fertility
-- **Follower Alignments**: [NG](rules/traits/neutral-good-b1.md), [N](rules/traits/neutral-b1.md), [CG](rules/traits/chaotic-good-b1.md), [CN](rules/traits/chaotic-neutral-b1.md)
+- **Follower Alignments**: [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")
 
 ## Devotee benefits
 
@@ -38,6 +38,6 @@ When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Uv
 title: [Avatar](compendium/spells/avatar.md) of Uvuko
 
 - **Speed**: Speed 30 feet, fly 70 feet, immune to [immobilized](rules/conditions.md#Immobilized)
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") maul ([reach <15 feet>](rules/traits/reach.md), [shove](rules/traits/shove.md)), **Damage** `6d12+6` bludgeoning
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") maul ([reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [shove](rules/traits/shove.md "Shove Weapon Trait")), **Damage** `6d12+6` bludgeoning
 - **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") breath of lightning **Damage** `6d6+3` electricity
 ```

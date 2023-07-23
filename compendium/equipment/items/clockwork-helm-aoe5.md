@@ -11,13 +11,13 @@ tags:
 aliases: ["Clockwork Helm"]
 ---
 # Clockwork Helm *Item 17*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  clockwork  
+[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  clockwork  
 
 - **Price** 13000 gp
 - **Usage** worn headwear; **Bulk** L
 - **Category** Worn
 
-Rotating gears cover the outside of this imposing helmet. In order to function, the device must be wound for 10 minutes once every 24 hours. The clockwork helm has a calming and focusing effect on the mind. If you're affected by a detrimental condition caused by a [mental](rules/traits/mental.md) or [emotion](rules/traits/emotion.md) effect, each round at the beginning of your turn, the gears of the helmet unwind and reduce the value of the condition by 1.
+Rotating gears cover the outside of this imposing helmet. In order to function, the device must be wound for 10 minutes once every 24 hours. The clockwork helm has a calming and focusing effect on the mind. If you're affected by a detrimental condition caused by a [mental](rules/traits/mental.md "Mental Effect Trait") or [emotion](rules/traits/emotion.md "Emotion Effect Trait") effect, each round at the beginning of your turn, the gears of the helmet unwind and reduce the value of the condition by 1.
 
 This effect works only if the condition's value can normally be reduced by simply waiting; otherwise the helmet has no effect.
 

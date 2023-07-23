@@ -11,9 +11,9 @@ tags:
 aliases: ["Petal Storm"]
 ---
 # Petal Storm *Spell 4*   
-[air](rules/traits/air.md)  [conjuration](rules/traits/conjuration.md)  [plant](rules/traits/plant.md)  
+[air](rules/traits/air.md "Air Energy & Element Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md)
+- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**120 foot
 - **Area**15-foot radius burst

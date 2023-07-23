@@ -12,7 +12,7 @@ tags:
 aliases: ["Final Form"]
 ---
 # Final Form  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 17*  
-[concentrate](rules/traits/concentrate.md)  [divine](rules/traits/divine.md)  [evocation](rules/traits/evocation.md)  [morph](rules/traits/morph.md)  [tiefling](rules/traits/tiefling-b1.md)  [transmutation](rules/traits/transmutation.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [morph](rules/traits/morph.md "Morph Effect Trait")  [tiefling](rules/traits/tiefling-b1.md "Tiefling Ancestry & Heritage Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Frequency**: once per day
 - **Activity** Three-Action

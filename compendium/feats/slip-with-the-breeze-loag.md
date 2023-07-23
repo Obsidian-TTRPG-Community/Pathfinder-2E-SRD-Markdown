@@ -7,7 +7,7 @@ tags:
 aliases: ["Slip With The Breeze"]
 ---
 # Slip With The Breeze  *Feat 5*  
-[sylph](rules/traits/sylph-b2.md)  
+[sylph](rules/traits/sylph-b2.md "Sylph Ancestry & Heritage Trait")  
 
 - **Prerequisites**: expert in [Athletics](compendium/skills.md#Athletics)
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Patron's Truth"]
 ---
 # Patron's Truth  *Feat 20*  
-[witch](rules/traits/witch-apg.md)  
+[witch](rules/traits/witch-apg.md "Witch Class Trait")  
 
 - **Prerequisites**: patron's gift
 

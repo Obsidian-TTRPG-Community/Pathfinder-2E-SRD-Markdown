@@ -7,7 +7,7 @@ tags:
 aliases: ["Viking Weapon Specialist"]
 ---
 # Viking Weapon Specialist  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Viking Weapon Familiarity](compendium/feats/viking-weapon-familiarity-apg.md)
 

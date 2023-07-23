@@ -10,7 +10,7 @@ tags:
 aliases: ["Standard of the Primeval Howl"]
 ---
 # Standard of the Primeval Howl *Item 10*  
-[enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 - **Price** 900 gp
 - **Usage** held in 1 hand; **Bulk** 1

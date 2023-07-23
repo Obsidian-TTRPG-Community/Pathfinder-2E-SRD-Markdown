@@ -9,7 +9,7 @@ tags:
 aliases: ["Final Rest"]
 ---
 # Final Rest *Item 18*  
-[magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 - **Price** 24000 gp
 - **Usage** held in 1 hand; **Bulk** 1

@@ -10,7 +10,7 @@ tags:
 aliases: ["Diplomat's Badge"]
 ---
 # Diplomat's Badge *Item 5*  
-[enchantment](rules/traits/enchantment.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 125 gp
 - **Usage** worn; **Bulk** —

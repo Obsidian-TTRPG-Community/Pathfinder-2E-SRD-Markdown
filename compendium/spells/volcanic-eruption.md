@@ -10,9 +10,9 @@ tags:
 aliases: ["Volcanic Eruption"]
 ---
 # Volcanic Eruption *Spell 7*   
-[evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md)
+- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**120 foot
 - **Area**5-foot radius, 80-foot-tall cylinder

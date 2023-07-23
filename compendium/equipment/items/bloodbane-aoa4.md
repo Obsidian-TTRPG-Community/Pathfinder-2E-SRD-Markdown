@@ -11,7 +11,7 @@ tags:
 aliases: ["Bloodbane"]
 ---
 # Bloodbane *Item 8*  
-[dwarf](rules/traits/dwarf.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[dwarf](rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Usage** etched onto a clan dagger
 - **Category** Rune

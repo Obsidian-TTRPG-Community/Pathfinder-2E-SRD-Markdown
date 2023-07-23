@@ -7,7 +7,7 @@ tags:
 aliases: ["Monstrosity Shape"]
 ---
 # Monstrosity Shape  *Feat 16*  
-[druid](rules/traits/druid.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  
 
 - **Prerequisites**: [Wild Shape](compendium/feats/wild-shape.md)
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Celestial Eyes"]
 ---
 # Celestial Eyes  *Feat 1*  
-[aasimar](rules/traits/aasimar-apg.md)  
+[aasimar](rules/traits/aasimar-apg.md "Aasimar Ancestry & Heritage Trait")  
 
 - **Prerequisites**: low-light vision
 

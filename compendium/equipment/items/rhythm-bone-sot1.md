@@ -10,7 +10,7 @@ tags:
 aliases: ["Rhythm Bone"]
 ---
 # Rhythm Bone *Item 1*  
-[auditory](rules/traits/auditory.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Held
@@ -22,7 +22,7 @@ title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "S
 
 The bone begins recording the next 1 minute of ambient sounds (including speech) that require a DC 15 or lower [Perception](compendium/skills.md#Perception) check to hear.
 
-The bone's recording doesn't copy magical [auditory](rules/traits/auditory.md) effects, such as those of spellcasting, a harpy's song, or a banshee's wail. Once the rhythm bone has been activated in this way, it retains the recorded sound for the rest of its existence and can't be activated this way again.
+The bone's recording doesn't copy magical [auditory](rules/traits/auditory.md "Auditory Effect Trait") effects, such as those of spellcasting, a harpy's song, or a banshee's wail. Once the rhythm bone has been activated in this way, it retains the recorded sound for the rest of its existence and can't be activated this way again.
 ```
 
 ```ad-embed-ability

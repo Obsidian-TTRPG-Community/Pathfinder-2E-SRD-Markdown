@@ -7,7 +7,7 @@ tags:
 aliases: ["Bravo's Determination"]
 ---
 # Bravo's Determination  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: expert in [Deception](compendium/skills.md#Deception), [Firebrand Braggart Dedication](compendium/feats/firebrand-braggart-dedication-locg.md)
 - **Trigger** A foe's [Strike](rules/actions/strike.md) reduces you to 0 Hit Points; you were not at 1 Hit Point and you would not be killed.

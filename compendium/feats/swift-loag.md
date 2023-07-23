@@ -7,7 +7,7 @@ tags:
 aliases: ["Swift"]
 ---
 # Swift  *Feat 1*  
-[sylph](rules/traits/sylph-b2.md)  
+[sylph](rules/traits/sylph-b2.md "Sylph Ancestry & Heritage Trait")  
 
 
 You move with the wind always at your back. Your Speed increases by 5 feet.

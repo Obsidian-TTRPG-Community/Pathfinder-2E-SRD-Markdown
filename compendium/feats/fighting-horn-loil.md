@@ -7,7 +7,7 @@ tags:
 aliases: ["Fighting Horn"]
 ---
 # Fighting Horn  *Feat 5*  
-[kashrishi](rules/traits/kashrishi-loil.md)  
+[kashrishi](rules/traits/kashrishi-loil.md "Kashrishi Ancestry & Heritage Trait")  
 
 - **Prerequisites**: Puncturing Horn or xyloshi
 

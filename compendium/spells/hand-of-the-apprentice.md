@@ -11,7 +11,7 @@ tags:
 aliases: ["Hand Of The Apprentice"]
 ---
 # Hand Of The Apprentice *Focus 1*   
-[attack](rules/traits/attack.md)  [evocation](rules/traits/evocation.md)  [uncommon](rules/traits/uncommon.md)  [wizard](rules/traits/wizard.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**500 foot

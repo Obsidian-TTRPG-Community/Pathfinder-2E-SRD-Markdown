@@ -7,7 +7,7 @@ tags:
 aliases: ["Striker's Scroll"]
 ---
 # Striker's Scroll  *Feat 4*  
-[magus](rules/traits/magus-som.md)  
+[magus](rules/traits/magus-som.md "Magus Class Trait")  
 
 - **Prerequisites**: [Spellstrike](rules/actions/spellstrike-som.md)
 

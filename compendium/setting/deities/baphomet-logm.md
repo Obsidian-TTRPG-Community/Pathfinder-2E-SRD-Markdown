@@ -10,12 +10,12 @@ tags:
 - domain/zeal/deity
 aliases: ["Baphomet", "Lord of the Labyrinth"]
 ---
-# Baphomet (Lord of the Labyrinth) *([CE](rules/traits/chaotic-evil-b1.md))*  
+# Baphomet (Lord of the Labyrinth) *([CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 76*  
 
 - **Category**: Demon Lords
 - **Anathema**: kill something that cannot significantly harm you, bargain with Asmodeus
-- **Follower Alignments**: [CN](rules/traits/chaotic-neutral-b1.md), [CE](rules/traits/chaotic-evil-b1.md)
+- **Follower Alignments**: [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
 

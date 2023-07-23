@@ -11,7 +11,7 @@ tags:
 aliases: ["Bloodline Robe"]
 ---
 # Bloodline Robe *Item 12*  
-[focused](rules/traits/focused.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+[focused](rules/traits/focused.md "Focused Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 2000 gp
 - **Usage** worn garment; **Bulk** 1

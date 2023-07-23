@@ -13,7 +13,7 @@ tags:
 aliases: ["Life Link"]
 ---
 # Life Link *Focus 1*   
-[cursebound](rules/traits/cursebound-apg.md)  [healing](rules/traits/healing.md)  [necromancy](rules/traits/necromancy.md)  [oracle](rules/traits/oracle-apg.md)  [positive](rules/traits/positive.md)  [uncommon](rules/traits/uncommon.md)  
+[cursebound](rules/traits/cursebound-apg.md "Cursebound Spell Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Mystery** Oracle
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 

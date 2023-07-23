@@ -10,9 +10,9 @@ tags:
 aliases: ["Divine Aura"]
 ---
 # Divine Aura *Spell 8*   
-[abjuration](rules/traits/abjuration.md)  [aura](rules/traits/aura.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [aura](rules/traits/aura.md "Aura Combat Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**10-foot emanation
 - **Targets**allies in the area

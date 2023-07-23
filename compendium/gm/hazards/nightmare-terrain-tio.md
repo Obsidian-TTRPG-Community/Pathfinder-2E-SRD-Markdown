@@ -9,7 +9,7 @@ tags:
 aliases: ["Nightmare Terrain"]
 ---
 # Nightmare Terrain *Hazard 6*  
-[complex](rules/traits/complex.md)  [magical](rules/traits/magical.md)  [trap](rules/traits/trap.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** DC 22 [Perception](compendium/skills.md#Perception) to detect the subtle magical aura of the land  
@@ -20,7 +20,7 @@ What seems like an innocent stretch of land assaults trespassers with terrible i
      
 ```ad-embed-ability
 title: Step into Nightmares [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[illusion](rules/traits/illusion.md)  [mental](rules/traits/mental.md)  [occult](rules/traits/occult.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 If a creature that can see moves 10 feet into the affected area, the hazard rolls [Stealth](compendium/skills.md#Stealth) (+16) for its initiative.  
 %% #trait/illusion #trait/mental #trait/occult %%

@@ -9,7 +9,7 @@ tags:
 aliases: ["Bellflower Dedication"]
 ---
 # Bellflower Dedication  *Feat 6*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: Charisma 14, expert in [Stealth](compendium/skills.md#Stealth) and [Survival](compendium/skills.md#Survival), member of the Bellflower Network
 

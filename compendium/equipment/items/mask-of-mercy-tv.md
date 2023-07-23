@@ -10,7 +10,7 @@ tags:
 aliases: ["Mask of Mercy"]
 ---
 # Mask of Mercy *Item 4*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  
+[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 - **Price** 100 gp
 - **Usage** worn mask; **Bulk** —
@@ -20,9 +20,9 @@ This porcelain or alabaster mask portrays an angelic visage of kindness and merc
 
 ```ad-embed-ability
 title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[fortune](rules/traits/fortune.md)  
+[fortune](rules/traits/fortune.md "Fortune Effect Trait")  
 
-- **Trigger**: You are about to roll a variable number of Hit Points you restore from an action with the [healing](rules/traits/healing.md) trait
+- **Trigger**: You are about to roll a variable number of Hit Points you restore from an action with the [healing](rules/traits/healing.md "Healing Effect Trait") trait
 
 **Effect** Roll twice to determine the number of Hit Points you restore and take the higher result.  
 %% #trait/fortune %%

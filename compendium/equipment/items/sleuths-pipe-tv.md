@@ -11,7 +11,7 @@ tags:
 aliases: ["Sleuth's Pipe"]
 ---
 # Sleuth's Pipe *Item 3*  
-[abjuration](rules/traits/abjuration.md)  [magical](rules/traits/magical.md)  [relic](rules/traits/relic-tv.md)  [unique](rules/traits/unique.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [relic](rules/traits/relic-tv.md "Relic Item Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Adventuring Gear

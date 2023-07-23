@@ -11,9 +11,9 @@ tags:
 aliases: ["Join Pasts"]
 ---
 # Join Pasts *Cantrip 1*   
-[cantrip](rules/traits/cantrip.md)  [divination](rules/traits/divination.md)  [mental](rules/traits/mental.md)  [uncommon](rules/traits/uncommon.md)  
+[cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [occult](rules/traits/occult.md)
+- **Traditions**: [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**touch
 - **Targets**2 willing creatures

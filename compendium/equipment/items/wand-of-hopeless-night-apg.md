@@ -11,7 +11,7 @@ tags:
 aliases: ["Wand Of Hopeless Night"]
 ---
 # Wand Of Hopeless Night *Item 6+*  
-[darkness](rules/traits/darkness.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [wand](rules/traits/wand.md)  
+[darkness](rules/traits/darkness.md "Darkness Effect Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Wand

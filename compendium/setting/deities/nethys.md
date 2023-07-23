@@ -12,13 +12,13 @@ tags:
 - trait/versatile-cold-electricity-or-fire
 aliases: ["Nethys", "The All-Seeing Eye"]
 ---
-# Nethys (The All-Seeing Eye) *([N](rules/traits/neutral-b1.md))*  
+# Nethys (The All-Seeing Eye) *([N](rules/traits/n-b1.md "Neutral Alignment Trait"))*  
 *Source: Core Rulebook p. 439*  
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: pursue mundane paths over magical ones
 - **Areas of Concern**: magic
-- **Follower Alignments**: [NG](rules/traits/neutral-good-b1.md), [LN](rules/traits/lawful-neutral-b1.md), [N](rules/traits/neutral-b1.md), [CN](rules/traits/chaotic-neutral-b1.md), [NE](rules/traits/neutral-evil-b1.md)
+- **Follower Alignments**: [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"), [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait")
 
 ## Devotee benefits
 
@@ -34,7 +34,7 @@ aliases: ["Nethys", "The All-Seeing Eye"]
 title: [Avatar](compendium/spells/avatar.md) of Nethys
 
 - **Speed**: Speed 70 feet, [air walk](compendium/spells/air-walk.md)
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") raw magic ([versatile <cold, electricity, or fire>](rules/traits/versatile.md)), **Damage** `6d6` force
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") raw magic ([versatile <cold, electricity, or fire>](rules/traits/versatile-cold-electricity-or-fire.md "Versatile Weapon Trait")), **Damage** `6d6` force
 ```
 
 ## Divine intercession
@@ -44,7 +44,7 @@ Nethys is often impartial to his followers and their wishes, so it is rare to ga
 
 - **Minor Boon** Nethys casts a powerful spell to help you in a pinch. Once, Nethys casts a spell 1 level higher than the highest-level spell you can cast. If you can't cast spells, Nethys casts a 1st-level spell to help you.
 - **Moderate Boon**: Nethys grants you insight into the secrets of magic. Add one spell from a different tradition of magic to your spell list. You still must learn it or add it to your repertoire normally
-- **Major Boon**: You are granted supreme magical knowledge and mastery. If you are a prepared spellcaster, you can switch one of your prepared spells for another spell you could have prepared in that slot; if you are a spontaneous spellcaster, you can switch one of the spells in your spell repertoire for another spell you could have chosen for your repertoire instead. In either case, you make this switch by using a single action, which has the [concentrate](rules/traits/concentrate.md). (If you are neither a prepared nor a spontaneous spellcaster, Nethys won't grant you his major boon.)
+- **Major Boon**: You are granted supreme magical knowledge and mastery. If you are a prepared spellcaster, you can switch one of your prepared spells for another spell you could have prepared in that slot; if you are a spontaneous spellcaster, you can switch one of the spells in your spell repertoire for another spell you could have chosen for your repertoire instead. In either case, you make this switch by using a single action, which has the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait"). (If you are neither a prepared nor a spontaneous spellcaster, Nethys won't grant you his major boon.)
 
 - **Minor Curse**: The secrets of magic become mentally taxing. You are permanently [stupefied](rules/conditions.md#Stupefied).
 - **Moderate Curse** Your magic wars against itself like Nethys's dueling halves. Whenever you cast a spell, attempt a DC 11 flat check. On a failure, if your spell was harmful, you instead cast a beneficial spell of the same level on your intended targets, and if it was beneficial, you instead cast a harmful spell of the same level on your intended targets. If the spell benefited some targets and harmed others, you cast a spell of the same level that switches who benefited (for instance, changing a [heal](compendium/spells/heal.md) spell that harmed undead and healed the living to a [harm](compendium/spells/harm.md) spell that healed undead and harmed the living). You still lose the spell slot for the spell you were trying to cast.

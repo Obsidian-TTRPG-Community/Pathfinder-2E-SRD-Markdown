@@ -8,7 +8,7 @@ tags:
 aliases: ["Ghost Stampede"]
 ---
 # Ghost Stampede *Hazard 15*  
-[complex](rules/traits/complex.md)  [haunt](rules/traits/haunt.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +30 master  
@@ -19,13 +19,13 @@ Four massive skulls of aurochs, enormous wild cattle, rise into the air, each tr
 
 - **AC** 40 , **Fort** +23, **Ref** +29
 - **Hardness** 25, ; **per aurochs skull HP** 20
-- **Immunities** death effects; [disease](rules/traits/disease.md); paralyzed; [poison](rules/traits/poison.md)
+- **Immunities** death effects; [disease](rules/traits/disease.md "Disease Effect Trait"); paralyzed; [poison](rules/traits/poison.md "Poison Effect Trait")
 - **Resistances** 
 - **Weaknesses** positive 5
      
 ```ad-embed-ability
 title: Defend Territory [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[emotion](rules/traits/emotion.md)  [fear](rules/traits/fear.md)  [mental](rules/traits/mental.md)  [occult](rules/traits/occult.md)  
+[emotion](rules/traits/emotion.md "Emotion Effect Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 - **Trigger**: A creature approaches within 10 feet of an aurochs skull
 

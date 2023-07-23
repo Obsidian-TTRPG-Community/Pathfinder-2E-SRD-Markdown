@@ -10,9 +10,9 @@ tags:
 aliases: ["Falling Sky"]
 ---
 # Falling Sky *Spell 8*   
-[evocation](rules/traits/evocation.md)  [incapacitation](rules/traits/incapacitation.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**120 foot
 - **Area**60-foot tall, 30-foot radius cylinder

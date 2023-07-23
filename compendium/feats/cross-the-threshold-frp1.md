@@ -7,7 +7,7 @@ tags:
 aliases: ["Cross The Threshold"]
 ---
 # Cross The Threshold  *Feat 16*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Ghost Eater Dedication](compendium/feats/ghost-eater-dedication-frp1.md)
 

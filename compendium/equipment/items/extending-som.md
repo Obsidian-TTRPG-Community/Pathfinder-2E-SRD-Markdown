@@ -9,7 +9,7 @@ tags:
 aliases: ["Extending"]
 ---
 # Extending *Item 9+*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Usage** etched onto a melee weapon
 - **Category** Rune

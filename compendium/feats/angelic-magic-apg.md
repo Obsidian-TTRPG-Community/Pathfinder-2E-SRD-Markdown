@@ -7,7 +7,7 @@ tags:
 aliases: ["Angelic Magic"]
 ---
 # Angelic Magic  *Feat 9*  
-[aasimar](rules/traits/aasimar-apg.md)  
+[aasimar](rules/traits/aasimar-apg.md "Aasimar Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Angelkin](compendium/feats/angelkin-apg.md)
 

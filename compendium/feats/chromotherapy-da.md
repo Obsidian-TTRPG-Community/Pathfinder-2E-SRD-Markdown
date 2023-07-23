@@ -11,7 +11,7 @@ tags:
 aliases: ["Chromotherapy"]
 ---
 # Chromotherapy  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 2*  
-[general](rules/traits/general.md)  [healing](rules/traits/healing.md)  [manipulate](rules/traits/manipulate.md)  [skill](rules/traits/skill.md)  [uncommon](rules/traits/uncommon.md)  
+[general](rules/traits/general.md "General Feat Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: expert in [Medicine](compendium/skills.md#Medicine)
 - **Activity** Two-Action

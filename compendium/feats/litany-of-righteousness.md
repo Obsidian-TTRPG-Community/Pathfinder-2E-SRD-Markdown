@@ -7,7 +7,7 @@ tags:
 aliases: ["Litany Of Righteousness"]
 ---
 # Litany Of Righteousness  *Feat 14*  
-[champion](rules/traits/champion.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  
 
 - **Prerequisites**: tenets of good
 

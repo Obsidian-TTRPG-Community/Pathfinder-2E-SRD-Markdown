@@ -10,7 +10,7 @@ tags:
 aliases: ["Guardian's Aegis"]
 ---
 # Guardian's Aegis *Ritual 3*  
-[abjuration](rules/traits/abjuration.md)  [divination](rules/traits/divination.md)  [uncommon](rules/traits/uncommon.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** 1 day
 - **Cost** rare oils worth 10 gp × the primary caster's level

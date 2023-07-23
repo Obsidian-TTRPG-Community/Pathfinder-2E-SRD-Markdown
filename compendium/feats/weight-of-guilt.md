@@ -7,7 +7,7 @@ tags:
 aliases: ["Weight Of Guilt"]
 ---
 # Weight Of Guilt  *Feat 1*  
-[champion](rules/traits/champion.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  
 
 - **Prerequisites**: Redeemer cause
 

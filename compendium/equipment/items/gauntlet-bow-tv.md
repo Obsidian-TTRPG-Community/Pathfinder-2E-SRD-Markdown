@@ -10,7 +10,7 @@ tags:
 aliases: ["Gauntlet Bow"]
 ---
 # Gauntlet Bow *Item 0*  
-[capacity <4>](rules/traits/capacity-tv.md)  [free-hand](rules/traits/free-hand.md)  [parry](rules/traits/parry.md)  
+[capacity <4>](rules/traits/capacity-4-tv.md "Capacity Weapon Trait")  [free-hand](rules/traits/free-hand.md "Free-Hand Weapon Trait")  [parry](rules/traits/parry.md "Parry Weapon Trait")  
 
 - **Price** 9 gp
 - **Bulk** 1

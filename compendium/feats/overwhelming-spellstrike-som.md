@@ -7,7 +7,7 @@ tags:
 aliases: ["Overwhelming Spellstrike"]
 ---
 # Overwhelming Spellstrike  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 12*  
-[magus](rules/traits/magus-som.md)  
+[magus](rules/traits/magus-som.md "Magus Class Trait")  
 
 - **Prerequisites**: [Spellstrike](rules/actions/spellstrike-som.md)
 - **Requirements**: Your [Spellstrike](rules/actions/spellstrike-som.md) is charged.

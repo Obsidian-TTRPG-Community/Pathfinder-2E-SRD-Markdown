@@ -7,7 +7,7 @@ tags:
 aliases: ["Ceremony Of Sunlight"]
 ---
 # Ceremony Of Sunlight  *Feat 5*  
-[conrasu](rules/traits/conrasu-loag.md)  
+[conrasu](rules/traits/conrasu-loag.md "Conrasu Ancestry & Heritage Trait")  
 
 
 You have learned how to master the power contained within sunlight, just like the trees that form your body. Your Sunlight Healing recovers `1d8` Hit Points per level.

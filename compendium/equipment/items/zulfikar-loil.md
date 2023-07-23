@@ -12,7 +12,7 @@ tags:
 aliases: ["Zulfikar"]
 ---
 # Zulfikar *Item 0*  
-[deadly <d8>](rules/traits/deadly.md)  [disarm](rules/traits/disarm.md)  [sweep](rules/traits/sweep.md)  [uncommon](rules/traits/uncommon.md)  [versatile <P>](rules/traits/versatile.md)  
+[deadly <d8>](rules/traits/deadly-d8.md "Deadly Weapon Trait")  [disarm](rules/traits/disarm.md "Disarm Weapon Trait")  [sweep](rules/traits/sweep.md "Sweep Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [versatile <P>](rules/traits/versatile-p.md "Versatile Weapon Trait")  
 
 - **Price** 4 gp
 - **Bulk** 1

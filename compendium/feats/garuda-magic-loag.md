@@ -7,7 +7,7 @@ tags:
 aliases: ["Garuda Magic"]
 ---
 # Garuda Magic  *Feat 9*  
-[aasimar](rules/traits/aasimar-apg.md)  
+[aasimar](rules/traits/aasimar-apg.md "Aasimar Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Plumekith](compendium/feats/plumekith-loag.md)
 

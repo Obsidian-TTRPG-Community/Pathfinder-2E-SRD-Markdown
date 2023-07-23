@@ -7,7 +7,7 @@ tags:
 aliases: ["Crimson Oath Devotion"]
 ---
 # Crimson Oath Devotion  *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Knight Reclaimant Dedication](compendium/feats/knight-reclaimant-dedication-locg.md), ability to cast focus spells
 

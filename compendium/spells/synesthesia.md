@@ -9,9 +9,9 @@ tags:
 aliases: ["Synesthesia"]
 ---
 # Synesthesia *Spell 5*   
-[divination](rules/traits/divination.md)  [mental](rules/traits/mental.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions**: [occult](rules/traits/occult.md)
+- **Traditions**: [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot
 - **Targets**1 creature

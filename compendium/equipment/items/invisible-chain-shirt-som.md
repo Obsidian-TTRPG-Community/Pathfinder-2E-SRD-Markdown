@@ -9,7 +9,7 @@ tags:
 aliases: ["Invisible Chain Shirt"]
 ---
 # Invisible Chain Shirt *Item 13*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 2750 gp
 - **Usage** worn armor
@@ -17,7 +17,7 @@ aliases: ["Invisible Chain Shirt"]
 
 This +2 resilient invisibility chain shirt is itself [invisible](rules/conditions.md#Invisible). Other creatures can't see it at all, allowing you to wear it surreptitiously. Additionally, the armor's [invisible](rules/conditions.md#Invisible) composition is quieter and more comfortable than a normal chain shirt.
 
-It loses the [noisy](rules/traits/noisy.md) trait and gains the [comfort](rules/traits/comfort.md) trait.
+It loses the [noisy](rules/traits/noisy.md "Noisy Armor Trait") trait and gains the [comfort](rules/traits/comfort.md "Comfort Armor Trait") trait.
 
 ```ad-embed-ability
 title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")

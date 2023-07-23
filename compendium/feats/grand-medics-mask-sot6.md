@@ -10,7 +10,7 @@ tags:
 aliases: ["Grand Medic's Mask"]
 ---
 # Grand Medic's Mask  *Feat 20*  
-[archetype](rules/traits/archetype.md)  [druid](rules/traits/druid.md)  [rare](rules/traits/rare.md)  [wizard](rules/traits/wizard.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [druid](rules/traits/druid.md "Druid Class Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Prerequisites**: Druid Dedication or Wizard Dedication
 

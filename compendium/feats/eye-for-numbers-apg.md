@@ -8,7 +8,7 @@ tags:
 aliases: ["Eye For Numbers"]
 ---
 # Eye For Numbers  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
-[general](rules/traits/general.md)  [skill](rules/traits/skill.md)  
+[general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: trained in [Society](compendium/skills.md#Society)
 - **Activity** Single Action

@@ -8,7 +8,7 @@ tags:
 aliases: ["Weapon Improviser Dedication"]
 ---
 # Weapon Improviser Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: trained in all martial weapons
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Skillful Climber"]
 ---
 # Skillful Climber  *Feat 5*  
-[vanara](rules/traits/vanara-loil.md)  
+[vanara](rules/traits/vanara-loil.md "Vanara Ancestry & Heritage Trait")  
 
 
 You can scamper up or down surfaces as nimbly as a monkey. You gain a climb Speed of 10 feet. If you have the Climber's Tail ancestry feat, your total climb Speed increases to your land Speed when climbing trees.

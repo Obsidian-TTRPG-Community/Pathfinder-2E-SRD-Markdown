@@ -7,7 +7,7 @@ tags:
 aliases: ["Climbing Claws"]
 ---
 # Climbing Claws  *Feat 5*  
-[catfolk](rules/traits/catfolk-b1.md)  
+[catfolk](rules/traits/catfolk-b1.md "Catfolk Ancestry & Heritage Trait")  
 
 
 You can extend your claws to aid you in climbing. You gain a climb Speed of 10 feet.

@@ -10,7 +10,7 @@ tags:
 aliases: ["Pocket Stage"]
 ---
 # Pocket Stage *Item 5*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [structure](rules/traits/structure.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [structure](rules/traits/structure.md "Structure General Trait")  
 
 - **Price** 138 gp
 - **Bulk** L (when not activated)
@@ -25,7 +25,7 @@ title: Activate [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Actions 
 
 You place the miniature theater on the ground, filling it with any set dressing and up to six figures you choose. Then, you tap a rhythm on the miniature, causing it to grow into a modest stage 20 feet wide and 15 feet deep. It's dressed with the decorations you selected, and simple mannequins wear the costumes you chose. A wooden proscenium arch frames the stage, and simple curtains along the sides conceal the wings.
 
-As a magical structure, the stage has the [structure](rules/traits/structure.md) trait.
+As a magical structure, the stage has the [structure](rules/traits/structure.md "Structure General Trait") trait.
 
 All the stage's set dressing is illusory and disappears if taken more than 20 feet from the stage. The costumes are physical but with illusory embellishments that fade at the same range, revealing only plain, white smocks.
 ```

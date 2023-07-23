@@ -7,7 +7,7 @@ tags:
 aliases: ["Barbarian Resiliency"]
 ---
 # Barbarian Resiliency  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Barbarian Dedication](compendium/feats/barbarian-dedication.md), class granting no more Hit Points per level than 10 + your Constitution modifier
 

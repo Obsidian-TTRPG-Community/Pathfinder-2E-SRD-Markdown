@@ -10,7 +10,7 @@ tags:
 aliases: ["Ethereal"]
 ---
 # Ethereal *Item 17*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 13500 gp
 - **Usage** etched onto armor

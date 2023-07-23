@@ -9,7 +9,7 @@ tags:
 aliases: ["Dragonhide"]
 ---
 # Dragonhide *Item 8+*  
-[precious](rules/traits/precious.md)  [uncommon](rules/traits/uncommon.md)  
+[precious](rules/traits/precious.md "Precious Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Category** Material
 
@@ -26,11 +26,11 @@ The hide and scales of a dragon can be used to [Craft](rules/actions/craft.md) a
 | Dragonhide Items | Hardness | HP | BT |
 |------------------|----------|----|----|
 | **Thin Items** |  |  |  |
-| Standard-grade | 4 | 16 | 8 |
-| High-grade | 8 | 32 | 16 |
+| multiRow |  |
+| multiRow |  |
 | **Items** |  |  |  |
-| Standard-grade | 7 | 28 | 14 |
-| High-grade | 11 | 44 | 22 |
+| multiRow |  |
+| multiRow |  |
 
 
 *Source: Core Rulebook p. 579*

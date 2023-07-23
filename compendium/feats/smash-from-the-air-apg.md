@@ -7,7 +7,7 @@ tags:
 aliases: ["Smash From The Air"]
 ---
 # Smash From The Air  *Feat 18*  
-[fighter](rules/traits/fighter.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 - **Prerequisites**: [Cut From the Air](compendium/feats/cut-from-the-air-apg.md)
 

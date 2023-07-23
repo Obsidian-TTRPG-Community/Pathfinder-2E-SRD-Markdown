@@ -7,7 +7,7 @@ tags:
 aliases: ["Resounding Cascade"]
 ---
 # Resounding Cascade  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 16*  
-[magus](rules/traits/magus-som.md)  
+[magus](rules/traits/magus-som.md "Magus Class Trait")  
 
 - **Prerequisites**: [Arcane Cascade](rules/actions/arcane-cascade-som.md)
 - **Trigger** You use [Arcane Cascade](rules/actions/arcane-cascade-som.md).

@@ -13,7 +13,7 @@ aliases: ["Poison Sedum"]
 ---
 # Poison Sedum
 *Disease 1*  
-[contact](rules/traits/contact.md)  [environmental](rules/traits/environmental.md)  [poison](rules/traits/poison.md)  [rare](rules/traits/rare.md)  
+[contact](rules/traits/contact.md "Contact Item Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 This green-and-blue stalk is topped with a clump of small flowers resembling broccoli. It's covered in a mildly toxic resin that sticks to flesh, fur, and equipment alike, causing affected creatures to break out in an itchy rash.
 

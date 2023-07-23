@@ -7,10 +7,10 @@ tags:
 aliases: ["Group Aid"]
 ---
 # Group Aid  *Feat 9*  
-[human](rules/traits/human.md)  
+[human](rules/traits/human.md "Human Ancestry & Heritage Trait")  
 
 
-Your upbringing emphasized teamwork and helping your allies comes naturally to you. After you [Aid](rules/actions/aid.md) an ally at a skill check that doesn't have the [attack](rules/traits/attack.md) trait, you can also [Aid](rules/actions/aid.md) any other ally who attempts the same skill check for the same purpose that round.
+Your upbringing emphasized teamwork and helping your allies comes naturally to you. After you [Aid](rules/actions/aid.md) an ally at a skill check that doesn't have the [attack](rules/traits/attack.md "Attack Combat Trait") trait, you can also [Aid](rules/actions/aid.md) any other ally who attempts the same skill check for the same purpose that round.
 
 You do so as a free action rather than a reaction.
 

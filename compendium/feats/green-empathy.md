@@ -7,7 +7,7 @@ tags:
 aliases: ["Green Empathy"]
 ---
 # Green Empathy  *Feat 6*  
-[druid](rules/traits/druid.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  
 
 - **Prerequisites**: Leaf order
 

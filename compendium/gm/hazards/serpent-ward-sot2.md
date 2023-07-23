@@ -9,7 +9,7 @@ tags:
 aliases: ["Serpent Ward"]
 ---
 # Serpent Ward *Hazard 7*  
-[magical](rules/traits/magical.md)  [trap](rules/traits/trap.md)  [uncommon](rules/traits/uncommon.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 25 expert  
@@ -20,11 +20,11 @@ Illusionary snakes erupt from the trapped door, inflicting a venomous curse on i
      
 ```ad-embed-ability
 title: Curse the Intruders [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[curse](rules/traits/curse.md)  [illusion](rules/traits/illusion.md)  [occult](rules/traits/occult.md)  
+[curse](rules/traits/curse.md "Curse Effect Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 - **Trigger**: The trapped door is opened other than by a serpentfolk
 
-**Effect** Hissing, illusionary snakes leap from the door. Each living creature within 30 feet is subjected to the curse of potent poison. If a living creature opened the door, that creature must roll its saving throw against the curse twice and take the worse result (this is a [misfortune](rules/traits/misfortune.md) effect).  
+**Effect** Hissing, illusionary snakes leap from the door. Each living creature within 30 feet is subjected to the curse of potent poison. If a living creature opened the door, that creature must roll its saving throw against the curse twice and take the worse result (this is a [misfortune](rules/traits/misfortune.md "Misfortune Effect Trait") effect).  
 %% #trait/curse #trait/illusion #trait/occult %%
 ```
 

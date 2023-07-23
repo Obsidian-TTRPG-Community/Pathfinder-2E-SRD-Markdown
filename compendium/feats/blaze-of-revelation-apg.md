@@ -7,10 +7,10 @@ tags:
 aliases: ["Blaze Of Revelation"]
 ---
 # Blaze Of Revelation  *Feat 18*  
-[oracle](rules/traits/oracle-apg.md)  
+[oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  
 
 
-Your mind and body can, for a short time, withstand the devastation of overdrawing your curse. When you would become overwhelmed by your curse, you can forestall the effects for up to 1 minute. On each of your turns during that time, you can cast one revelation spell granted by your mystery (but not domain spells, spells from [Diverse Mystery](compendium/feats/diverse-mystery-apg.md), or other revelation spells you gained from other abilities) without spending Focus Points or taking any further [negative](rules/traits/negative.md) effects.
+Your mind and body can, for a short time, withstand the devastation of overdrawing your curse. When you would become overwhelmed by your curse, you can forestall the effects for up to 1 minute. On each of your turns during that time, you can cast one revelation spell granted by your mystery (but not domain spells, spells from [Diverse Mystery](compendium/feats/diverse-mystery-apg.md), or other revelation spells you gained from other abilities) without spending Focus Points or taking any further [negative](rules/traits/negative.md "Negative Energy & Element Trait") effects.
 
 At the end of the minute, the durations of any revelation spells you cast during that time end, you take the normal effects from being overwhelmed by your curse, and you must attempt a DC 40 Fortitude save.
 

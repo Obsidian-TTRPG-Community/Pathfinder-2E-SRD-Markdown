@@ -7,7 +7,7 @@ tags:
 aliases: ["Stronger Debilitating Venom"]
 ---
 # Stronger Debilitating Venom  *Feat 13*  
-[vishkanya](rules/traits/vishkanya-loil.md)  
+[vishkanya](rules/traits/vishkanya-loil.md "Vishkanya Ancestry & Heritage Trait")  
 
 - **Prerequisites**: Debilitating Venom, Moderate Enhance Venom
 

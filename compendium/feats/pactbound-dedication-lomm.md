@@ -9,7 +9,7 @@ tags:
 aliases: ["Pactbound Dedication"]
 ---
 # Pactbound Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [rare](rules/traits/rare.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Prerequisites**: Erutaki or Giant language, trained in [Nature](compendium/skills.md#Nature), must have earned the trust of a saumen kar who initiates you into the archetype
 

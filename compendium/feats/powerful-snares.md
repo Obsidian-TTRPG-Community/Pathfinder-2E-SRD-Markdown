@@ -7,7 +7,7 @@ tags:
 aliases: ["Powerful Snares"]
 ---
 # Powerful Snares  *Feat 8*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: master in [Crafting](compendium/skills.md#Crafting), [Snare Specialist](compendium/feats/snare-specialist.md)
 

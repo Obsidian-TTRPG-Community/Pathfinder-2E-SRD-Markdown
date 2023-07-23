@@ -13,7 +13,7 @@ tags:
 aliases: ["Zeal For Battle"]
 ---
 # Zeal For Battle *Focus 4*   
-[cleric](rules/traits/cleric.md)  [emotion](rules/traits/emotion.md)  [enchantment](rules/traits/enchantment.md)  [fortune](rules/traits/fortune.md)  [mental](rules/traits/mental.md)  [uncommon](rules/traits/uncommon.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Domains**: [zeal](compendium/setting/domains.md#Zeal)
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 

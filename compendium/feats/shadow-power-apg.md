@@ -7,7 +7,7 @@ tags:
 aliases: ["Shadow Power"]
 ---
 # Shadow Power  *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Shadow Magic](compendium/feats/shadow-magic-apg.md)
 

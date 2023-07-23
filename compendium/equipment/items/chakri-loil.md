@@ -11,7 +11,7 @@ tags:
 aliases: ["Chakri"]
 ---
 # Chakri *Item 0*  
-[agile](rules/traits/agile.md)  [deadly <d8>](rules/traits/deadly.md)  [thrown](rules/traits/thrown.md)  [uncommon](rules/traits/uncommon.md)  
+[agile](rules/traits/agile.md "Agile Weapon Trait")  [deadly <d8>](rules/traits/deadly-d8.md "Deadly Weapon Trait")  [thrown](rules/traits/thrown.md "Thrown Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 2 cp
 - **Damage** `1d4` S

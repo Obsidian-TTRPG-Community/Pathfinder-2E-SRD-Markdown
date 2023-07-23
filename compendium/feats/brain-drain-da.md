@@ -11,7 +11,7 @@ tags:
 aliases: ["Brain Drain"]
 ---
 # Brain Drain  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
-[divination](rules/traits/divination.md)  [mental](rules/traits/mental.md)  [occult](rules/traits/occult.md)  [psyche](rules/traits/psyche-da.md)  [psychic](rules/traits/psychic-da.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [psyche](rules/traits/psyche-da.md "Psyche Action & Ability Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  
 
 - **Activity** Two-Action
 

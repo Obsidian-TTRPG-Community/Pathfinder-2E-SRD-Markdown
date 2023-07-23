@@ -9,7 +9,7 @@ tags:
 aliases: ["Reliable Squire"]
 ---
 # Reliable Squire  *Feat 2*  
-[bard](rules/traits/bard.md)  [champion](rules/traits/champion.md)  [uncommon](rules/traits/uncommon.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  [champion](rules/traits/champion.md "Champion Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: Knights of Lastwall have access to this feat.
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Shoki's Argument"]
 ---
 # Shoki's Argument  *Feat 5*  
-[duskwalker](rules/traits/duskwalker-apg.md)  
+[duskwalker](rules/traits/duskwalker-apg.md "Duskwalker Ancestry & Heritage Trait")  
 
 
 You feel a connection to shokis, the rambling collectors of wayward souls, and might have found old texts written by one. You are trained in [Diplomacy](compendium/skills.md#Diplomacy). If you were already trained in [Diplomacy](compendium/skills.md#Diplomacy) (from your background or class, for example), you instead become trained in a skill of your choice. You can also cast [disrupt undead](compendium/spells/disrupt-undead.md) as a divine innate cantrip at will. A cantrip is heightened to a spell level equal to half your level rounded up.

@@ -7,7 +7,7 @@ tags:
 aliases: ["Endless Memories"]
 ---
 # Endless Memories  *Feat 9*  
-[ghoran](rules/traits/ghoran-loil.md)  
+[ghoran](rules/traits/ghoran-loil.md "Ghoran Ancestry & Heritage Trait")  
 
 - **Prerequisites**: Ancient Memories
 

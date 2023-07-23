@@ -7,7 +7,7 @@ tags:
 aliases: ["Blessed Blood"]
 ---
 # Blessed Blood  *Feat 5*  
-[aasimar](rules/traits/aasimar-apg.md)  
+[aasimar](rules/traits/aasimar-apg.md "Aasimar Ancestry & Heritage Trait")  
 
 
 Your freshly spilled blood is sanctified, and ingesting it causes effects similar to those of [holy water](compendium/equipment/items/holy-water.md)

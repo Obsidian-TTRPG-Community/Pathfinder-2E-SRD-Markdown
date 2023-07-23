@@ -7,7 +7,7 @@ tags:
 aliases: ["Student Of The Dueling Arts"]
 ---
 # Student Of The Dueling Arts  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Duelist Dedication](compendium/feats/duelist-dedication-apg.md)
 

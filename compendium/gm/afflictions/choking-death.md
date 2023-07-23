@@ -10,7 +10,7 @@ aliases: ["Choking Death"]
 ---
 # Choking Death
 *Disease 6*  
-[disease](rules/traits/disease.md)  
+[disease](rules/traits/disease.md "Disease Effect Trait")  
 
 This disease is capable of wiping out nations or even entire continents. A few pockets of the disease still remain in Iobaria, keeping that region's population sparse.
 

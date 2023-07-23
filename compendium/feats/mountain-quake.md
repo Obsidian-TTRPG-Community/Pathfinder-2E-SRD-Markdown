@@ -7,7 +7,7 @@ tags:
 aliases: ["Mountain Quake"]
 ---
 # Mountain Quake  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 14*  
-[monk](rules/traits/monk.md)  
+[monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Prerequisites**: [Mountain Stronghold](compendium/feats/mountain-stronghold.md)
 - **Requirements**: You are in [Mountain Stance](compendium/feats/mountain-stance.md).

@@ -10,9 +10,9 @@ tags:
 aliases: ["Unrelenting Observation"]
 ---
 # Unrelenting Observation *Spell 8*   
-[divination](rules/traits/divination.md)  [scrying](rules/traits/scrying.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [scrying](rules/traits/scrying.md "Scrying Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**100 foot
 - **Area**20-foot burst

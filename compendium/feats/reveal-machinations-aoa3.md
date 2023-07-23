@@ -9,7 +9,7 @@ tags:
 aliases: ["Reveal Machinations"]
 ---
 # Reveal Machinations  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 15*  
-[general](rules/traits/general.md)  [rare](rules/traits/rare.md)  [skill](rules/traits/skill.md)  
+[general](rules/traits/general.md "General Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: legendary in [Deception](compendium/skills.md#Deception)
 - **Activity** Single Action

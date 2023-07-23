@@ -9,7 +9,7 @@ tags:
 aliases: ["Summoning Rune (Fire Elementals)"]
 ---
 # Summoning Rune (Fire Elementals) *Hazard 5*  
-[complex](rules/traits/complex.md)  [magical](rules/traits/magical.md)  [trap](rules/traits/trap.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +12 trained  
@@ -20,7 +20,7 @@ An invisible cloud of magical sensors detects living creatures in the room and s
      
 ```ad-embed-ability
 title: Summon Elementals [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[arcane](rules/traits/arcane.md)  [conjuration](rules/traits/conjuration.md)  summon  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  summon  
 
 - **Trigger**: A living creature enters the room
 

@@ -11,7 +11,7 @@ tags:
 aliases: ["Wand of the Pampered Pet"]
 ---
 # Wand of the Pampered Pet *Item 4*  
-[conjuration](rules/traits/conjuration.md)  [extradimensional](rules/traits/extradimensional.md)  [magical](rules/traits/magical.md)  [wand](rules/traits/wand.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [extradimensional](rules/traits/extradimensional.md "Extradimensional Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
 
 - **Price** 75 gp
 - **Usage** held in 1 hand; **Bulk** L

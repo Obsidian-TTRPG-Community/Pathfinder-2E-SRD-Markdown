@@ -7,7 +7,7 @@ tags:
 aliases: ["Cantrip Expansion (Sorcerer)"]
 ---
 # Cantrip Expansion (Sorcerer)  *Feat 2*  
-[sorcerer](rules/traits/sorcerer.md)  
+[sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 
 You better understand the basic power of your bloodline. Add two additional cantrips from your spell list to your repertoire.

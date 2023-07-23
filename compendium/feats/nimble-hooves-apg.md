@@ -7,7 +7,7 @@ tags:
 aliases: ["Nimble Hooves"]
 ---
 # Nimble Hooves  *Feat 1*  
-[tiefling](rules/traits/tiefling-b1.md)  
+[tiefling](rules/traits/tiefling-b1.md "Tiefling Ancestry & Heritage Trait")  
 
 
 Your legs end in hooves rather than feet, with joints and tendons that allow you to move with great haste. Your Speed increases by 5 feet.

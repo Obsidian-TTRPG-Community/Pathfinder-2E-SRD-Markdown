@@ -10,12 +10,12 @@ tags:
 - domain/truth/deity
 aliases: ["Grundinnar", "The Peacemaker"]
 ---
-# Grundinnar (The Peacemaker) *([LG](rules/traits/lawful-goo-b1.md))*  
+# Grundinnar (The Peacemaker) *([LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 126*  
 
 - **Category**: Dwarven Gods
 - **Anathema**: sow discord among friends and allies, attack during parley
-- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [NG](rules/traits/neutral-good-b1.md)
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait")
 
 ## Devotee benefits
 

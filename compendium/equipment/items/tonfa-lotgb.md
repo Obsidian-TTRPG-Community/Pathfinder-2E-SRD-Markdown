@@ -13,7 +13,7 @@ tags:
 aliases: ["Tonfa"]
 ---
 # Tonfa *Item 0*  
-[agile](rules/traits/agile.md)  [finesse](rules/traits/finesse.md)  [monk](rules/traits/monk.md)  [parry](rules/traits/parry.md)  [twin](rules/traits/twin.md)  [uncommon](rules/traits/uncommon.md)  
+[agile](rules/traits/agile.md "Agile Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  [parry](rules/traits/parry.md "Parry Weapon Trait")  [twin](rules/traits/twin.md "Twin Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1 sp
 - **Bulk** L

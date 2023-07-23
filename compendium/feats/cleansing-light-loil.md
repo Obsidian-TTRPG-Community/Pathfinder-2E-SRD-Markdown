@@ -11,7 +11,7 @@ tags:
 aliases: ["Cleansing Light"]
 ---
 # Cleansing Light  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 17*  
-[concentrate](rules/traits/concentrate.md)  [kashrishi](rules/traits/kashrishi-loil.md)  [light](rules/traits/light.md)  [necromancy](rules/traits/necromancy.md)  [occult](rules/traits/occult.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [kashrishi](rules/traits/kashrishi-loil.md "Kashrishi Ancestry & Heritage Trait")  [light](rules/traits/light.md "Light Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 - **Frequency**: once per day
 - **Activity** Two-Action

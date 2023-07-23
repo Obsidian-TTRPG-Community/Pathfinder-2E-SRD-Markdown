@@ -9,7 +9,7 @@ tags:
 aliases: ["Brilliant"]
 ---
 # Brilliant *Item 12+*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Usage** etched onto a weapon
 - **Category** Rune
@@ -20,9 +20,9 @@ On a critical hit, the target must succeed at a DC 29 Fortitude save or be [blin
 
 ```ad-embed-ability
 title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[light](rules/traits/light.md)  
+[light](rules/traits/light.md "Light Effect Trait")  
 
-You plunge your weapon into darkness to return the light. Attempt a counteract check with a counteract level of 5 and a +19 counteract modifier to end a magical [darkness](rules/traits/darkness.md) effect whose area is within reach of the weapon.  
+You plunge your weapon into darkness to return the light. Attempt a counteract check with a counteract level of 5 and a +19 counteract modifier to end a magical [darkness](rules/traits/darkness.md "Darkness Effect Trait") effect whose area is within reach of the weapon.  
 %% #trait/light %%
 ```
 

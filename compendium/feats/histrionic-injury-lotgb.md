@@ -8,7 +8,7 @@ tags:
 aliases: ["Histrionic Injury"]
 ---
 # Histrionic Injury  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 5*  
-[mental](rules/traits/mental.md)  [poppet](rules/traits/poppet-lotgb.md)  
+[mental](rules/traits/mental.md "Mental Effect Trait")  [poppet](rules/traits/poppet-lotgb.md "Poppet Ancestry & Heritage Trait")  
 
 - **Frequency**: once per hour
 - **Trigger** A creature you can see damages you with a melee [Strike](rules/actions/strike.md).

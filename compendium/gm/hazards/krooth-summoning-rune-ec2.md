@@ -10,7 +10,7 @@ tags:
 aliases: ["Krooth Summoning Rune"]
 ---
 # Krooth Summoning Rune *Hazard 8*  
-[complex](rules/traits/complex.md)  [magical](rules/traits/magical.md)  [trap](rules/traits/trap.md)  [uncommon](rules/traits/uncommon.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Complexity** Complex
 - **Stealth** +14 expert  
@@ -21,7 +21,7 @@ The haze conceals a rune that summons a krooth in front of the door to area B10.
      
 ```ad-embed-ability
 title: Summon Monster [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[arcane](rules/traits/arcane.md)  [conjuration](rules/traits/conjuration.md)  summon  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  summon  
 
 - **Trigger**: A non-xulgath, non-demon creature that isn't carrying a religious symbol of Zevgavizeb crosses from the north part of the hall to the south part of the hall
 

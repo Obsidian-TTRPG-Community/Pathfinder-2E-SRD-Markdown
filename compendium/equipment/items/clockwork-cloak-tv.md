@@ -12,7 +12,7 @@ tags:
 aliases: ["Clockwork Cloak"]
 ---
 # Clockwork Cloak *Item 18*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  clockwork  
+[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  clockwork  
 
 - **Price** 20000 gp
 - **Usage** worn cloak; **Bulk** L

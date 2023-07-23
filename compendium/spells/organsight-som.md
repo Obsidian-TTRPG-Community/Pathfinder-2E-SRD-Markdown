@@ -9,9 +9,9 @@ tags:
 aliases: ["Organsight"]
 ---
 # Organsight *Spell 3*   
-[divination](rules/traits/divination.md)  [revelation](rules/traits/revelation.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [revelation](rules/traits/revelation.md "Revelation Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [divine](rules/traits/divine.md), [occult](rules/traits/occult.md), [primal](rules/traits/primal.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot
 - **Targets**1 living or undead creature that has organs

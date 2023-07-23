@@ -7,7 +7,7 @@ tags:
 aliases: ["Gnome Weapon Innovator"]
 ---
 # Gnome Weapon Innovator  *Feat 5*  
-[gnome](rules/traits/gnome.md)  
+[gnome](rules/traits/gnome.md "Gnome Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Gnome Weapon Familiarity](compendium/feats/gnome-weapon-familiarity.md)
 

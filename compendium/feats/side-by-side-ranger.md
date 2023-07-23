@@ -7,7 +7,7 @@ tags:
 aliases: ["Side By Side (Ranger)"]
 ---
 # Side By Side (Ranger)  *Feat 12*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: an animal companion
 

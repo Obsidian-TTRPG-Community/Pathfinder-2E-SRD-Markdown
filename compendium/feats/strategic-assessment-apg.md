@@ -7,7 +7,7 @@ tags:
 aliases: ["Strategic Assessment"]
 ---
 # Strategic Assessment  *Feat 4*  
-[investigator](rules/traits/investigator-apg.md)  
+[investigator](rules/traits/investigator-apg.md "Investigator Class Trait")  
 
 
 You learn your foes' strengths and weaknesses by watching them move. When you critically hit a creature with a [Strike](rules/actions/strike.md) on which you substituted your attack roll due to [Devising a Stratagem](rules/actions/devise-a-stratagem-apg.md), the GM chooses one of the following pieces of information about the enemy to tell you.

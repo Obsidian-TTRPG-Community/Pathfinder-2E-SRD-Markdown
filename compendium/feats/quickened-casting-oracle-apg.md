@@ -9,7 +9,7 @@ tags:
 aliases: ["Quickened Casting (Oracle)"]
 ---
 # Quickened Casting (Oracle)  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 10*  
-[concentrate](rules/traits/concentrate.md)  [metamagic](rules/traits/metamagic.md)  [oracle](rules/traits/oracle-apg.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  [oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  
 
 - **Frequency**: once per day
 - **Activity** Free Action

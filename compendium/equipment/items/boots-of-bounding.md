@@ -10,7 +10,7 @@ tags:
 aliases: ["Boots of Bounding"]
 ---
 # Boots of Bounding *Item 7+*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Usage** worn shoes; **Bulk** L
 - **Category** Worn

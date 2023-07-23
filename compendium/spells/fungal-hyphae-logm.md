@@ -9,9 +9,9 @@ tags:
 aliases: ["Fungal Hyphae"]
 ---
 # Fungal Hyphae *Spell 2*   
-[fungus](rules/traits/fungus-b1.md)  [necromancy](rules/traits/necromancy.md)  
+[fungus](rules/traits/fungus-b1.md "Fungus Creature Type Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md)
+- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Duration**1 minute
 

@@ -9,7 +9,7 @@ tags:
 aliases: ["Staff Sweep"]
 ---
 # Staff Sweep  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  [flourish](rules/traits/flourish.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Staff Acrobat Dedication](compendium/feats/staff-acrobat-dedication-ec1.md)
 - **Requirements**: You are wielding your staff.

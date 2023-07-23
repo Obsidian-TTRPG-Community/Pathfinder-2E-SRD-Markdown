@@ -9,7 +9,7 @@ tags:
 aliases: ["Instinctive Strike"]
 ---
 # Instinctive Strike  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
-[barbarian](rules/traits/barbarian.md)  [manipulate](rules/traits/manipulate.md)  [rage](rules/traits/rage.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [rage](rules/traits/rage.md "Rage Combat Trait")  
 
 - **Prerequisites**: [Acute Scent](compendium/feats/acute-scent.md) or precise or imprecise [scent](rules/abilities/scent.md)
 - **Activity** Two-Action

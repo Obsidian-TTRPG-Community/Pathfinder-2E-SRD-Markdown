@@ -23,7 +23,7 @@ Just as Golarion's merchants scour busy marketplaces for newfound goods, scholar
 title: Spell Trickster Dedication, Feat 2
 collapse: closed
 # Spell Trickster Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: Able to cast spells; trained in [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), or [Religion](compendium/skills.md#Religion)
 
@@ -41,7 +41,7 @@ Choose up to two 4th-level spell trickster archetype feats for which you meet th
 title: Agile Hand, Feat 4
 collapse: closed
 # Agile Hand  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [mage hand](compendium/spells/mage-hand.md)
 
@@ -55,7 +55,7 @@ When you cast [mage hand](compendium/spells/mage-hand.md), you can modify its ta
 title: Barrier Shield, Feat 4
 collapse: closed
 # Barrier Shield  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [shield](compendium/spells/shield.md)
 
@@ -71,7 +71,7 @@ You can't use the [Shield Block](compendium/feats/shield-block.md) reaction when
 title: Forceful Push, Feat 4
 collapse: closed
 # Forceful Push  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [attack](rules/traits/attack.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [attack](rules/traits/attack.md "Attack Combat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [mage hand](compendium/spells/mage-hand.md)
 
@@ -85,7 +85,7 @@ When you cast [mage hand](compendium/spells/mage-hand.md), you can modify its ta
 title: Shining Arms, Feat 4
 collapse: closed
 # Shining Arms  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [light](compendium/spells/light.md)
 
@@ -99,7 +99,7 @@ When you cast [light](compendium/spells/light.md), you can modify its target to 
 title: Summon Ensemble, Feat 4
 collapse: closed
 # Summon Ensemble  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [summon instrument](compendium/spells/summon-instrument-apg.md)
 
@@ -115,7 +115,7 @@ The target must attempt a Will save against the spell's DC; on a failure, it bec
 title: Tracing Sigil, Feat 4
 collapse: closed
 # Tracing Sigil  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [sigil](compendium/spells/sigil.md)
 
@@ -129,11 +129,11 @@ When you cast [sigil](compendium/spells/sigil.md), you can modify the spell to a
 title: Wild Lights, Feat 4
 collapse: closed
 # Wild Lights  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [dancing lights](compendium/spells/dancing-lights.md)
 
-When you cast [dancing lights](compendium/spells/dancing-lights.md), you can modify its duration to be 1 minute and modify its standard effects to create a single floating light in the shape of a Tiny creature, instead of up to four floating lights. The creature hovers over your head unless you spend a single action that has the [concentrate](rules/traits/concentrate.md) trait to direct the light to move up to 30 feet, in which case it remains there until you direct it again. If you direct it back to your head, it hovers there and follows you again until you direct it elsewhere. If the light ever moves beyond 120 feet of you, it winks out immediately.
+When you cast [dancing lights](compendium/spells/dancing-lights.md), you can modify its duration to be 1 minute and modify its standard effects to create a single floating light in the shape of a Tiny creature, instead of up to four floating lights. The creature hovers over your head unless you spend a single action that has the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") trait to direct the light to move up to 30 feet, in which case it remains there until you direct it again. If you direct it back to your head, it hovers there and follows you again until you direct it elsewhere. If the light ever moves beyond 120 feet of you, it winks out immediately.
 
 *Source: Lost Omens: The Grand Bazaar p. 123*  
 %% #trait/archetype %%
@@ -143,7 +143,7 @@ When you cast [dancing lights](compendium/spells/dancing-lights.md), you can mod
 title: Animate Net, Feat 6
 collapse: closed
 # Animate Net  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [animate rope](compendium/spells/animate-rope-apg.md) APG
 
@@ -157,7 +157,7 @@ When you cast [animate rope](compendium/spells/animate-rope-apg.md), you can mod
 title: Confounding Image, Feat 6
 collapse: closed
 # Confounding Image  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [mirror image](compendium/spells/mirror-image.md)
 
@@ -171,7 +171,7 @@ When you cast [mirror image](compendium/spells/mirror-image.md), you can modify 
 title: Disk Rider, Feat 6
 collapse: closed
 # Disk Rider  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [floating disk](compendium/spells/floating-disk.md)
 
@@ -187,7 +187,7 @@ When you cast [floating disk](compendium/spells/floating-disk.md), you can modif
 title: Drenching Mist, Feat 6
 collapse: closed
 # Drenching Mist  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [obscuring mist](compendium/spells/obscuring-mist.md)
 
@@ -203,7 +203,7 @@ When you cast [obscuring mist](compendium/spells/obscuring-mist.md), you can mod
 title: Obscured Terrain, Feat 6
 collapse: closed
 # Obscured Terrain  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [obscuring mist](compendium/spells/obscuring-mist.md)
 
@@ -217,7 +217,7 @@ When you cast [obscuring mist](compendium/spells/obscuring-mist.md), you can mod
 title: Uneasy Rest, Feat 6
 collapse: closed
 # Uneasy Rest  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [sleep](compendium/spells/sleep.md)
 
@@ -231,7 +231,7 @@ When you cast [sleep](compendium/spells/sleep.md), you can modify the spell to a
 title: Volatile Grease, Feat 6
 collapse: closed
 # Volatile Grease  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [grease](compendium/spells/grease.md)
 
@@ -252,7 +252,7 @@ When you cast [grease](compendium/spells/grease.md), you can modify its target t
 title: Beacon Mark, Feat 8
 collapse: closed
 # Beacon Mark  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Tracing Sigil](compendium/feats/tracing-sigil-lotgb.md)
 
@@ -260,7 +260,7 @@ When you cast [sigil](compendium/spells/sigil.md), you can modify the spell to a
 
 **Heightened (4th)** You attune yourself to the marked target.
 
-While the spell lasts, you can spend a single action, which has the concentrate, [detection](rules/traits/detection.md), and [divination](rules/traits/divination.md) traits, to attempt to locate the target, learning the direction to the target as long as you are within 1 mile of it. If the target is a creature or a creature is in possession of the target object, the creature can attempt a Will saving throw against your spell DC. If it succeeds, your attempt to locate the target fails and you can't attempt this again for 1 day. You can only have a single target marked with a sigil modified in this way. If you [Cast this Spell](rules/actions/cast-a-spell.md) again on a second target, the [sigil](compendium/spells/sigil.md) spell on the first target ends, and your mark fades.
+While the spell lasts, you can spend a single action, which has the concentrate, [detection](rules/traits/detection.md "Detection Effect Trait"), and [divination](rules/traits/divination.md "Divination School Trait") traits, to attempt to locate the target, learning the direction to the target as long as you are within 1 mile of it. If the target is a creature or a creature is in possession of the target object, the creature can attempt a Will saving throw against your spell DC. If it succeeds, your attempt to locate the target fails and you can't attempt this again for 1 day. You can only have a single target marked with a sigil modified in this way. If you [Cast this Spell](rules/actions/cast-a-spell.md) again on a second target, the [sigil](compendium/spells/sigil.md) spell on the first target ends, and your mark fades.
 
 *Source: Lost Omens: The Grand Bazaar p. 124*  
 %% #trait/archetype %%
@@ -270,7 +270,7 @@ While the spell lasts, you can spend a single action, which has the concentrate,
 title: Larcenous Hand, Feat 8
 collapse: closed
 # Larcenous Hand  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Agile Hand](compendium/feats/agile-hand-lotgb.md), [Pickpocket](compendium/feats/pickpocket.md) skill feat
 
@@ -288,7 +288,7 @@ If you're a master in [Thievery](compendium/skills.md#Thievery), you can attempt
 title: Lingering Flames, Feat 8
 collapse: closed
 # Lingering Flames  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [fireball](compendium/spells/fireball.md)
 
@@ -304,7 +304,7 @@ When you cast [fireball](compendium/spells/fireball.md), you can modify its effe
 title: Scattered Fire, Feat 8
 collapse: closed
 # Scattered Fire  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [fireball](compendium/spells/fireball.md)
 
@@ -318,7 +318,7 @@ When you cast [fireball](compendium/spells/fireball.md), you can modify its area
 title: Siphoning Touch, Feat 8
 collapse: closed
 # Siphoning Touch  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [vampiric touch](compendium/spells/vampiric-touch.md)
 
@@ -332,7 +332,7 @@ When you cast [vampiric touch](compendium/spells/vampiric-touch.md), you can mod
 title: Smoldering Explosion, Feat 8
 collapse: closed
 # Smoldering Explosion  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [fireball](compendium/spells/fireball.md)
 
@@ -346,7 +346,7 @@ When you cast [fireball](compendium/spells/fireball.md) heightened to at least 4
 title: Steal Vitality, Feat 8
 collapse: closed
 # Steal Vitality  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [vampiric touch](compendium/spells/vampiric-touch.md)
 
@@ -360,7 +360,7 @@ When you cast [vampiric touch](compendium/spells/vampiric-touch.md), you can mod
 title: Surrounding Flames, Feat 10
 collapse: closed
 # Surrounding Flames  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [wall of fire](compendium/spells/wall-of-fire.md)
 
@@ -374,7 +374,7 @@ When you cast [wall of fire](compendium/spells/wall-of-fire.md), you can modify 
 title: Toppling Tentacles, Feat 10
 collapse: closed
 # Toppling Tentacles  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [black tentacles](compendium/spells/black-tentacles.md)
 
@@ -388,7 +388,7 @@ When you cast [black tentacles](compendium/spells/black-tentacles.md), replace t
 title: Choking Smoke, Feat 12*
 collapse: closed
 # Choking Smoke  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Choking Smoke](compendium/feats/choking-smoke-lotgb.md) is intended for use with the Spell Trickster Archetype. Its level has been changed accordingly.
 
@@ -404,7 +404,7 @@ When you cast [fireball](compendium/spells/fireball.md) heightened to at least 6
 title: Directed Poison, Feat 12*
 collapse: closed
 # Directed Poison  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Directed Poison](compendium/feats/directed-poison-lotgb.md) is intended for use with the Spell Trickster Archetype. Its level has been changed accordingly.
 

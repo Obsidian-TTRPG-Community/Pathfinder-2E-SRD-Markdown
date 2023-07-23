@@ -9,7 +9,7 @@ tags:
 aliases: ["Quickened Casting (Witch)"]
 ---
 # Quickened Casting (Witch)  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 10*  
-[concentrate](rules/traits/concentrate.md)  [metamagic](rules/traits/metamagic.md)  [witch](rules/traits/witch-apg.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  [witch](rules/traits/witch-apg.md "Witch Class Trait")  
 
 - **Frequency**: once per day
 - **Activity** Free Action

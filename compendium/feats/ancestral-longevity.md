@@ -7,7 +7,7 @@ tags:
 aliases: ["Ancestral Longevity"]
 ---
 # Ancestral Longevity  *Feat 1*  
-[elf](rules/traits/elf.md)  
+[elf](rules/traits/elf.md "Elf Ancestry & Heritage Trait")  
 
 - **Prerequisites**: at least 100 years old
 

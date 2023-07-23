@@ -11,7 +11,7 @@ tags:
 aliases: ["Coldstar Pistols"]
 ---
 # Coldstar Pistols *Item 23*  
-[artifact](rules/traits/artifact-gmg.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [unique](rules/traits/unique.md)  
+[artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Artifact

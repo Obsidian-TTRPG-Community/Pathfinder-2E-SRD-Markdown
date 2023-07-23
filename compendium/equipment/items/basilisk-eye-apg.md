@@ -12,7 +12,7 @@ tags:
 aliases: ["Basilisk Eye"]
 ---
 # Basilisk Eye *Item 9*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [talisman](rules/traits/talisman.md)  [transmutation](rules/traits/transmutation.md)  [visual](rules/traits/visual.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Price** 150 gp
 - **Usage** affixed to a shield

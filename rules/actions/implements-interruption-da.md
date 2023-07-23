@@ -10,10 +10,10 @@ tags:
 aliases: ["Implement's Interruption"]
 ---
 # Implement's Interruption [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [thaumaturge](rules/traits/thaumaturge-da.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [thaumaturge](rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
 *Source: Dark Archive p. 41*  
 
-- **Trigger** The target of your [Exploit Vulnerability](rules/actions/exploit-vulnerability-da.md) uses a [concentrate](rules/traits/concentrate.md), [manipulate](rules/traits/manipulate.md), or [move](rules/traits/move.md) action, or leaves a square during a move action it's using.
+- **Trigger** The target of your [Exploit Vulnerability](rules/actions/exploit-vulnerability-da.md) uses a [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait"), [manipulate](rules/traits/manipulate.md "Manipulate General Trait"), or [move](rules/traits/move.md "Move Combat Trait") action, or leaves a square during a move action it's using.
 - **Requirements**: You're holding your First Implement and Esoterica|Thaumaturge|DA|weapon|DA|1||weapon implement and are benefiting from [Exploit Vulnerability](rules/actions/exploit-vulnerability-da.md) against a creature. The creature must be within your reach if you're wielding a melee weapon, or within 10 feet if you're wielding a ranged weapon.
 - **Activity**: Reaction
 

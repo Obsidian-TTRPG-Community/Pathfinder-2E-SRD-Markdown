@@ -7,7 +7,7 @@ tags:
 aliases: ["Flexible Studies"]
 ---
 # Flexible Studies  *Feat 1*  
-[investigator](rules/traits/investigator-apg.md)  
+[investigator](rules/traits/investigator-apg.md "Investigator Class Trait")  
 
 
 You've collected a cross-section of information on various disciplines you can refer to when preparing for various tasks.

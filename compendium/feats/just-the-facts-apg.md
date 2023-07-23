@@ -7,7 +7,7 @@ tags:
 aliases: ["Just The Facts"]
 ---
 # Just The Facts  *Feat 20*  
-[investigator](rules/traits/investigator-apg.md)  
+[investigator](rules/traits/investigator-apg.md "Investigator Class Trait")  
 
 - **Prerequisites**: [Thorough Research](compendium/feats/thorough-research-apg.md)
 

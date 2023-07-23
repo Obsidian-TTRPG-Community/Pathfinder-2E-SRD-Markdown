@@ -7,7 +7,7 @@ tags:
 aliases: ["Secrets Of Shadow"]
 ---
 # Secrets Of Shadow  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Shadow Reservoir](compendium/feats/shadow-reservoir-som.md)
 

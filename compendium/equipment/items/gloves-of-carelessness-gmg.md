@@ -13,7 +13,7 @@ tags:
 aliases: ["Gloves Of Carelessness"]
 ---
 # Gloves Of Carelessness *Item 7*  
-[abjuration](rules/traits/abjuration.md)  [cursed](rules/traits/cursed-gmg.md)  [extradimensional](rules/traits/extradimensional.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [extradimensional](rules/traits/extradimensional.md "Extradimensional Effect Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** worn gloves; **Bulk** L
 - **Category** Worn

@@ -7,7 +7,7 @@ tags:
 aliases: ["Expert Alchemy"]
 ---
 # Expert Alchemy  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Alchemist Dedication](compendium/feats/alchemist-dedication.md), expert in [Crafting](compendium/skills.md#Crafting)
 

@@ -11,7 +11,7 @@ tags:
 aliases: ["Persona Mask"]
 ---
 # Persona Mask *Item 3+*  
-[fortune](rules/traits/fortune.md)  [illusion](rules/traits/illusion.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+[fortune](rules/traits/fortune.md "Fortune Effect Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Usage** worn mask; **Bulk** —
 - **Category** Worn

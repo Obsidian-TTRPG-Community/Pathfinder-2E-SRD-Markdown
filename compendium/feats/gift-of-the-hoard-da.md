@@ -10,7 +10,7 @@ tags:
 aliases: ["Gift of the Hoard"]
 ---
 # Gift of the Hoard  *Feat 10*  
-[aftermath](rules/traits/aftermath-da.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  [transmutation](rules/traits/transmutation.md)  
+[aftermath](rules/traits/aftermath-da.md "Aftermath Class Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Prerequisites**: You have succeeded at an important task given by a dragon, such as procuring a special treasure for their hoard.
 

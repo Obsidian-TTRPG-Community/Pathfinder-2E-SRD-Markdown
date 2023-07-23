@@ -10,7 +10,7 @@ tags:
 aliases: ["Call Bonded Item"]
 ---
 # Call Bonded Item  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[concentrate](rules/traits/concentrate.md)  [conjuration](rules/traits/conjuration.md)  [teleportation](rules/traits/teleportation.md)  [wizard](rules/traits/wizard.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Prerequisites**: arcane bond
 - **Activity** Single Action

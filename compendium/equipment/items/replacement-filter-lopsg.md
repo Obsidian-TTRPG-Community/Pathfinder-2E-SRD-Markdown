@@ -8,7 +8,7 @@ tags:
 aliases: ["Replacement Filter"]
 ---
 # Replacement Filter *Item 0*  
-[uncommon](rules/traits/uncommon.md)  
+[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Category** Adventuring Gear
 

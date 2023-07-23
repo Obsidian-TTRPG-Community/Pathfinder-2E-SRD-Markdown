@@ -8,7 +8,7 @@ tags:
 aliases: ["Twinned Defense (Fighter)"]
 ---
 # Twinned Defense (Fighter)  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 16*  
-[fighter](rules/traits/fighter.md)  [stance](rules/traits/stance.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
 
 - **Prerequisites**: [Twin Parry](compendium/feats/twin-parry-fighter.md)
 - **Requirements**: You are wielding two melee weapons, one in each hand.

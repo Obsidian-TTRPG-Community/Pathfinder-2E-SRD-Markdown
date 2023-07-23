@@ -7,7 +7,7 @@ tags:
 aliases: ["Shinstabber"]
 ---
 # Shinstabber  *Feat 13*  
-[ratfolk](rules/traits/ratfolk-b1.md)  
+[ratfolk](rules/traits/ratfolk-b1.md "Ratfolk Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Overcrowd](compendium/feats/overcrowd-apg.md)
 

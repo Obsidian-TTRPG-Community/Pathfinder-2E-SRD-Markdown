@@ -7,7 +7,7 @@ tags:
 aliases: ["Standby Spell"]
 ---
 # Standby Spell  *Feat 8*  
-[magus](rules/traits/magus-som.md)  
+[magus](rules/traits/magus-som.md "Magus Class Trait")  
 
 - **Prerequisites**: [Spellstrike](rules/actions/spellstrike-som.md)
 

@@ -9,7 +9,7 @@ tags:
 aliases: ["Drowning Pit"]
 ---
 # Drowning Pit *Hazard 3*  
-[complex](rules/traits/complex.md)  [mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +10 trained DC 22 (expert) to notice the water spouts once the pit opens.  

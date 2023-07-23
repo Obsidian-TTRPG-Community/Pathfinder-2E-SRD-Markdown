@@ -7,7 +7,7 @@ tags:
 aliases: ["Crowd Mastery"]
 ---
 # Crowd Mastery  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Lost in the Crowd](compendium/feats/lost-in-the-crowd-lowg.md)
 

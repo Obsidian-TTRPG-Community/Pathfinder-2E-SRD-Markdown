@@ -7,7 +7,7 @@ tags:
 aliases: ["Improved Poison Weapon"]
 ---
 # Improved Poison Weapon  *Feat 8*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Prerequisites**: [Poison Weapon](compendium/feats/poison-weapon.md)
 

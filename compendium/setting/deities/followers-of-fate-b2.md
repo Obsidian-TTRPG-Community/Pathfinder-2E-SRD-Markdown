@@ -10,12 +10,12 @@ tags:
 - domain/truth/deity
 aliases: ["Followers Of Fate"]
 ---
-# Followers Of Fate *([LN](rules/traits/lawful-neutral-b1.md))*  
+# Followers Of Fate *([LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"))*  
 *Source: Bestiary 2 p. 184*  
 
 - **Category**: Creature
 - **Anathema**: apologize for making an incorrect prediction, disrespect mothers, accept payment for fortune-telling
-- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [LN](rules/traits/lawful-neutral-b1.md), [LE](rules/traits/lawful-evil-b1.md)
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait")
 
 ## Devotee benefits
 

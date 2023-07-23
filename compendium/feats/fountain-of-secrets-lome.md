@@ -7,7 +7,7 @@ tags:
 aliases: ["Fountain Of Secrets"]
 ---
 # Fountain Of Secrets  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 17*  
-[shisk](rules/traits/shisk-lome.md)  
+[shisk](rules/traits/shisk-lome.md "Shisk Ancestry & Heritage Trait")  
 
 - **Frequency**: once per round
 - **Activity** Free Action

@@ -26,7 +26,7 @@ The ranger archetype has access to excellent options to improve a character's mo
 title: Ranger Dedication, Feat 2
 collapse: closed
 # Ranger Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [multiclass](rules/traits/multiclass.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [multiclass](rules/traits/multiclass.md "Multiclass Feat Trait")  
 
 - **Prerequisites**: Dexterity 14
 
@@ -44,7 +44,7 @@ You can use the [Hunt Prey](rules/actions/hunt-prey.md) action (page 168).
 title: Basic Hunter's Trick, Feat 4
 collapse: closed
 # Basic Hunter's Trick  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Ranger Dedication](compendium/feats/ranger-dedication.md)
 
@@ -58,7 +58,7 @@ You gain a 1st- or 2nd-level ranger feat.
 title: Ranger Resiliency, Feat 4
 collapse: closed
 # Ranger Resiliency  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Ranger Dedication](compendium/feats/ranger-dedication.md), class granting no more Hit Points per level than 8 + your Constitution modifier
 
@@ -72,7 +72,7 @@ You gain 3 additional Hit Points for each ranger archetype class feat you have. 
 title: Advanced Hunter's Trick, Feat 6
 collapse: closed
 # Advanced Hunter's Trick  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Hunter's Trick](compendium/feats/basic-hunters-trick.md)
 
@@ -88,7 +88,7 @@ You gain one ranger feat. For the purpose of meeting its prerequisites, your ran
 title: Master Spotter, Feat 12*
 collapse: closed
 # Master Spotter  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Master Spotter](compendium/feats/master-spotter.md) is intended for use with the Ranger Archetype. Its level has been changed accordingly.
 

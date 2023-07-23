@@ -10,7 +10,7 @@ tags:
 aliases: ["Wovenwood Shield"]
 ---
 # Wovenwood Shield *Item 4+*  
-[abjuration](rules/traits/abjuration.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Usage** held in one hand; **Bulk** 1
 - **Category** Held

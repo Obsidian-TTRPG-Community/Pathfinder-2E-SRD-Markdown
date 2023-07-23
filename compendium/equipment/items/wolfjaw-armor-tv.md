@@ -10,7 +10,7 @@ tags:
 aliases: ["Wolfjaw Armor"]
 ---
 # Wolfjaw Armor *Item 7*  
-[evocation](rules/traits/evocation.md)  [invested](rules/traits/invested.md)  [primal](rules/traits/primal.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  
 
 - **Price** 355 gp
 - **Usage** worn armor; **Bulk** 2
@@ -20,7 +20,7 @@ Barbarians, druids and other outlanders are often forced to spend the harsh wint
 
 ```ad-embed-ability
 title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
-[cold](rules/traits/cold.md)  
+[cold](rules/traits/cold.md "Cold Energy & Element Trait")  
 
 You breathe a cloud of frost in a 15-foot cone that deals `5d8` cold damage (DC 23 basic Reflex save).  
 %% #trait/cold %%
@@ -29,7 +29,7 @@ You breathe a cloud of frost in a 15-foot cone that deals `5d8` cold damage (DC 
 ```ad-embed-ability
 title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 
-You gain a jaws unarmed attack that you make using your hands. This attack deals `1d8` piercing damage plus 1 cold damage, is in the brawling group, and has the [trip](rules/traits/trip.md) and [unarmed](rules/traits/unarmed.md) traits.
+You gain a jaws unarmed attack that you make using your hands. This attack deals `1d8` piercing damage plus 1 cold damage, is in the brawling group, and has the [trip](rules/traits/trip.md "Trip Weapon Trait") and [unarmed](rules/traits/unarmed.md "Unarmed Weapon Trait") traits.
 ```
 
 *Source: Treasure Vault p. 19*

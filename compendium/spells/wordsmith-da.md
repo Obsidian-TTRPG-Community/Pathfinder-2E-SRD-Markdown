@@ -10,7 +10,7 @@ tags:
 aliases: ["Wordsmith"]
 ---
 # Wordsmith *Focus 4*   
-[cleric](rules/traits/cleric.md)  [rare](rules/traits/rare.md)  [transmutation](rules/traits/transmutation.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Domains**: [knowledge (apocryphal)](compendium/setting/domains.md#Knowledge)
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 

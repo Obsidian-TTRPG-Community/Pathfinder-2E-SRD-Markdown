@@ -7,7 +7,7 @@ tags:
 aliases: ["Brutal Beating"]
 ---
 # Brutal Beating  *Feat 2*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Prerequisites**: Ruffian racket
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Song Of Strength"]
 ---
 # Song Of Strength  *Feat 2*  
-[bard](rules/traits/bard.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  
 
 - **Prerequisites**: warrior muse
 

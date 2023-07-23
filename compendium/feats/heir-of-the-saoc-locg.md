@@ -7,7 +7,7 @@ tags:
 aliases: ["Heir Of The Saoc"]
 ---
 # Heir Of The Saoc  *Feat 9*  
-[human](rules/traits/human.md)  
+[human](rules/traits/human.md "Human Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Saoc Astrology](compendium/feats/saoc-astrology-locg.md)
 

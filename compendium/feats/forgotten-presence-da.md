@@ -8,7 +8,7 @@ tags:
 aliases: ["Forgotten Presence"]
 ---
 # Forgotten Presence  *Feat 8*  
-[druid](rules/traits/druid.md)  [uncommon](rules/traits/uncommon.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 
 The world conspires to keep you forgotten and [unnoticed](rules/conditions.md#Unnoticed)— memories cloud, ink stains out your name in ledgers, and portraits of you crack and warp over your face. Characters attempting to [Recall Knowledge](rules/actions/recall-knowledge.md) about you take a –2 circumstance penalty.

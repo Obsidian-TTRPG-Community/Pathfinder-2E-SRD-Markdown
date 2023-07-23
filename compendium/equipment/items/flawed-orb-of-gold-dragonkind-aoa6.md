@@ -11,7 +11,7 @@ tags:
 aliases: ["Flawed Orb Of Gold Dragonkind"]
 ---
 # Flawed Orb Of Gold Dragonkind *Item 25*  
-[artifact](rules/traits/artifact-gmg.md)  [enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [unique](rules/traits/unique.md)  
+[artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Artifact

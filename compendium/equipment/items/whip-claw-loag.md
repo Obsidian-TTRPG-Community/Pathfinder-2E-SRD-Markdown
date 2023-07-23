@@ -12,7 +12,7 @@ tags:
 aliases: ["Whip Claw"]
 ---
 # Whip Claw *Item 0*  
-[catfolk](rules/traits/catfolk-b1.md)  [finesse](rules/traits/finesse.md)  [hampering](rules/traits/hampering-loag.md)  [reach](rules/traits/reach.md)  [uncommon](rules/traits/uncommon.md)  
+[catfolk](rules/traits/catfolk-b1.md "Catfolk Ancestry & Heritage Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [hampering](rules/traits/hampering-loag.md "Hampering Weapon Trait")  [reach](rules/traits/reach.md "Reach Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 5 gp
 - **Bulk** 1

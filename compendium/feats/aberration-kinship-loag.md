@@ -7,7 +7,7 @@ tags:
 aliases: ["Aberration Kinship"]
 ---
 # Aberration Kinship  *Feat 1*  
-[fleshwarp](rules/traits/fleshwarp-loag.md)  
+[fleshwarp](rules/traits/fleshwarp-loag.md "Fleshwarp Ancestry & Heritage Trait")  
 
 
 Your mind resonates with the inscrutable thought processes that inhuman aberrations use to communicate. You can cast [mindlink](compendium/spells/mindlink.md) as an innate occult spell once per day, but you can target only aberrations.

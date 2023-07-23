@@ -7,7 +7,7 @@ tags:
 aliases: ["Pouncing Tiger Haunt"]
 ---
 # Pouncing Tiger Haunt *Hazard 2*  
-[haunt](rules/traits/haunt.md)  
+[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 21 trained  

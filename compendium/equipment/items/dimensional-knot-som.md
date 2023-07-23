@@ -10,7 +10,7 @@ tags:
 aliases: ["Dimensional Knot"]
 ---
 # Dimensional Knot *Item 7*  
-[catalyst](rules/traits/catalyst-som.md)  [consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  
+[catalyst](rules/traits/catalyst-som.md "Catalyst Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 60 gp
 - **Usage** held in 1 hand; **Bulk** L

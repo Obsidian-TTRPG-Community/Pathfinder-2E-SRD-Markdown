@@ -8,7 +8,7 @@ tags:
 aliases: ["Soul Warden Dedication"]
 ---
 # Soul Warden Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: trained in [Occultism](compendium/skills.md#Occultism) or [Religion](compendium/skills.md#Religion), worships [Pharasma](compendium/setting/deities/pharasma.md) or a psychopomp usher
 

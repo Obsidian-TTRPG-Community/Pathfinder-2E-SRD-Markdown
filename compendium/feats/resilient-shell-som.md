@@ -8,7 +8,7 @@ tags:
 aliases: ["Resilient Shell"]
 ---
 # Resilient Shell  *Feat 14*  
-[evolution](rules/traits/evolution-som.md)  [summoner](rules/traits/summoner-som.md)  
+[evolution](rules/traits/evolution-som.md "Evolution Feat Trait")  [summoner](rules/traits/summoner-som.md "Summoner Class Trait")  
 
 
 Your eidolon is resilient against attacks. It gains resistance to physical damage equal to its Constitution modifier.

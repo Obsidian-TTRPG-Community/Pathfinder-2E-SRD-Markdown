@@ -11,7 +11,7 @@ tags:
 aliases: ["Maze Of Mirrors"]
 ---
 # Maze Of Mirrors *Hazard 9*  
-[complex](rules/traits/complex.md)  [magical](rules/traits/magical.md)  [mechanical](rules/traits/mechanical.md)  [rare](rules/traits/rare.md)  [trap](rules/traits/trap.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +18 trained to detect the magical runes in the maze; noticing the maze itself has a DC of 0.  

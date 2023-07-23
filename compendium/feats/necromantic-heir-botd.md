@@ -7,7 +7,7 @@ tags:
 aliases: ["Necromantic Heir"]
 ---
 # Necromantic Heir  *Feat 17*  
-[skeleton](rules/traits/skeleton-b1.md)  
+[skeleton](rules/traits/skeleton-b1.md "Skeleton Ancestry & Heritage Trait")  
 
 
 Your affinity for negative energy spills outward and grants you a refilling well of necromantic essence. Once per hour, you can cast [harm](compendium/spells/harm.md) as a 6th-level divine innate spell.

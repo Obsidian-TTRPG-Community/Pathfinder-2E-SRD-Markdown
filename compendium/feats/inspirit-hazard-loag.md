@@ -10,7 +10,7 @@ tags:
 aliases: ["Inspirit Hazard"]
 ---
 # Inspirit Hazard  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 13*  
-[catfolk](rules/traits/catfolk-b1.md)  [concentrate](rules/traits/concentrate.md)  [occult](rules/traits/occult.md)  [transmutation](rules/traits/transmutation.md)  
+[catfolk](rules/traits/catfolk-b1.md "Catfolk Ancestry & Heritage Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Frequency**: once per day
 - **Trigger** You Disable a hazard.

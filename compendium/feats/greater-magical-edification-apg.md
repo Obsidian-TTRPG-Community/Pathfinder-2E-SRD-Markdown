@@ -7,7 +7,7 @@ tags:
 aliases: ["Greater Magical Edification"]
 ---
 # Greater Magical Edification  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Magical Edification](compendium/feats/magical-edification-apg.md)
 

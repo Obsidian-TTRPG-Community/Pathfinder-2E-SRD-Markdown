@@ -8,7 +8,7 @@ tags:
 aliases: ["Robust Recovery"]
 ---
 # Robust Recovery  *Feat 2*  
-[general](rules/traits/general.md)  [skill](rules/traits/skill.md)  
+[general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: expert in [Medicine](compendium/skills.md#Medicine)
 

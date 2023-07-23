@@ -10,7 +10,7 @@ tags:
 aliases: ["Elemental Assault"]
 ---
 # Elemental Assault  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
-[arcane](rules/traits/arcane.md)  [concentrate](rules/traits/concentrate.md)  [evocation](rules/traits/evocation.md)  [suli](rules/traits/suli-b2.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [suli](rules/traits/suli-b2.md "Suli Ancestry & Heritage Trait")  
 
 - **Frequency**: once per day
 - **Activity** Single Action

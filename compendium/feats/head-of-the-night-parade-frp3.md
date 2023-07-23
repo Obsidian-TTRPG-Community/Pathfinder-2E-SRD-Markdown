@@ -8,7 +8,7 @@ tags:
 aliases: ["Head Of The Night Parade"]
 ---
 # Head Of The Night Parade  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 20*  
-[bard](rules/traits/bard.md)  [uncommon](rules/traits/uncommon.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Activity** Three-Action
 

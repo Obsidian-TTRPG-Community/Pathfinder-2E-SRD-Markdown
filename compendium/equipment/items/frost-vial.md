@@ -12,7 +12,7 @@ tags:
 aliases: ["Frost Vial"]
 ---
 # Frost Vial *Item 1+*  
-[alchemical](rules/traits/alchemical.md)  [bomb](rules/traits/bomb.md)  [cold](rules/traits/cold.md)  [consumable](rules/traits/consumable.md)  [splash](rules/traits/splash.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [bomb](rules/traits/bomb.md "Bomb Item Trait")  [cold](rules/traits/cold.md "Cold Energy & Element Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [splash](rules/traits/splash.md "Splash Weapon Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Strike](rules/actions/strike.md)

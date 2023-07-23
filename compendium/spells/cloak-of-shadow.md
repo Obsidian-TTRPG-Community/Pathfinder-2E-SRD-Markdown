@@ -12,7 +12,7 @@ tags:
 aliases: ["Cloak Of Shadow"]
 ---
 # Cloak Of Shadow *Focus 1*   
-[cleric](rules/traits/cleric.md)  [darkness](rules/traits/darkness.md)  [evocation](rules/traits/evocation.md)  [shadow](rules/traits/shadow.md)  [uncommon](rules/traits/uncommon.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [darkness](rules/traits/darkness.md "Darkness Effect Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [shadow](rules/traits/shadow.md "Shadow General Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Domains**: [darkness](compendium/setting/domains.md#Darkness)
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 

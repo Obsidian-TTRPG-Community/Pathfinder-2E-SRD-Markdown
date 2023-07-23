@@ -9,7 +9,7 @@ tags:
 aliases: ["Distortion Mirror"]
 ---
 # Distortion Mirror *Hazard 14*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [trap](rules/traits/trap.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 38 0 to notice the mirror  
@@ -26,7 +26,7 @@ Fun-house mirrors distort a viewer's reflection, painfully reshaping their body 
      
 ```ad-embed-ability
 title: Painful Transformation [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[attack](rules/traits/attack.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  
 
 - **Trigger**: A creature is reflected in the mirror
 

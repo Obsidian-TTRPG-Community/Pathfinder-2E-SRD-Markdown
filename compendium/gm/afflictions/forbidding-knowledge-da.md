@@ -13,7 +13,7 @@ aliases: ["Forbidding Knowledge"]
 ---
 # Forbidding Knowledge
 *Curse 10*  
-[abjuration](rules/traits/abjuration.md)  [curse](rules/traits/curse.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [curse](rules/traits/curse.md "Curse Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 Information you never should have known lingers everpresent in your mind.
 

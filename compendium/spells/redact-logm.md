@@ -8,7 +8,7 @@ tags:
 aliases: ["Redact"]
 ---
 # Redact *Focus 1*   
-[transmutation](rules/traits/transmutation.md)  
+[transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Domains**: [glyph](compendium/setting/domains.md#Glyph)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

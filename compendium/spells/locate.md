@@ -10,9 +10,9 @@ tags:
 aliases: ["Locate"]
 ---
 # Locate *Spell 3*   
-[detection](rules/traits/detection.md)  [divination](rules/traits/divination.md)  [uncommon](rules/traits/uncommon.md)  
+[detection](rules/traits/detection.md "Detection Effect Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [divine](rules/traits/divine.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 10 minutes 
 - **Range**500 foot
 - **Targets**1 specific object or type of object

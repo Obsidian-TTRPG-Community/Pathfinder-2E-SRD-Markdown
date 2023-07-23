@@ -7,7 +7,7 @@ tags:
 aliases: ["Nimble Elf"]
 ---
 # Nimble Elf  *Feat 1*  
-[elf](rules/traits/elf.md)  
+[elf](rules/traits/elf.md "Elf Ancestry & Heritage Trait")  
 
 
 Your muscles are tightly honed. Your Speed increases by 5 feet.

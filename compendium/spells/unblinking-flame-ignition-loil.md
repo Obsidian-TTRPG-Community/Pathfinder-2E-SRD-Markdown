@@ -10,7 +10,7 @@ tags:
 aliases: ["Unblinking Flame Ignition"]
 ---
 # Unblinking Flame Ignition *Focus 9*   
-[divination](rules/traits/divination.md)  [fire](rules/traits/fire.md)  [uncommon](rules/traits/uncommon.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
 - **Trigger**A foe reduces you to half your Hit Points or fewer.

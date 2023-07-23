@@ -10,7 +10,7 @@ tags:
 aliases: ["Dreadsmoke Thurible"]
 ---
 # Dreadsmoke Thurible *Item 9*  
-[magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [uncommon](rules/traits/uncommon.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** follower of [Urgathoa](compendium/setting/deities/urgathoa.md)
 - **Price** 600 gp
@@ -24,7 +24,7 @@ title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "
 
 You swing the thurible around you, spreading inky black smoke in a 20-foot emanation that has the effect of obscuring mist.
 
-Undead creatures can see through the smoke as if it didn't exist. Negative energy also disrupts the magic of the smoke; anyone who uses a [negative](rules/traits/negative.md) effect, along with creatures affected by a [negative](rules/traits/negative.md) effect, can see through the smoke for 1 round.
+Undead creatures can see through the smoke as if it didn't exist. Negative energy also disrupts the magic of the smoke; anyone who uses a [negative](rules/traits/negative.md "Negative Energy & Element Trait") effect, along with creatures affected by a [negative](rules/traits/negative.md "Negative Energy & Element Trait") effect, can see through the smoke for 1 round.
 ```
 
 *Source: Lost Omens: Gods & Magic p. 122*

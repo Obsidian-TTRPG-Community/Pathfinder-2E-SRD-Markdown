@@ -11,9 +11,9 @@ tags:
 aliases: ["Soothing Spring"]
 ---
 # Soothing Spring *Spell 4*   
-[healing](rules/traits/healing.md)  [necromancy](rules/traits/necromancy.md)  [positive](rules/traits/positive.md)  [water](rules/traits/water.md)  
+[healing](rules/traits/healing.md "Healing Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md), [primal](rules/traits/primal.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** 1 minute 
 - **Range**30 foot
 - **Duration**1 hour
@@ -24,7 +24,7 @@ The pool is 20 feet on each side, and it's 5 feet deep.
 
 It can contain 16 Medium or smaller creatures at a time.
 
-A Large creature counts as eight Medium creatures and a Huge creature fills the entire pool. This pool has the [structure](rules/traits/structure.md) trait and the same restrictions as magic items that create structures.
+A Large creature counts as eight Medium creatures and a Huge creature fills the entire pool. This pool has the [structure](rules/traits/structure.md "Structure General Trait") trait and the same restrictions as magic items that create structures.
 
 **Heightened (+ 1)** The healing increases by `2d8`.
 

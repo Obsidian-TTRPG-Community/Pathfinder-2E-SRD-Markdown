@@ -15,13 +15,13 @@ tags:
 - trait/reach-15-feet
 aliases: ["Arundhat", "The Sacred Perfume"]
 ---
-# Arundhat (The Sacred Perfume) *([NG](rules/traits/neutral-good-b1.md))*  
+# Arundhat (The Sacred Perfume) *([NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 132*  
 
 - **Category**: Vudrani Gods
 - **Anathema**: dispose of waste near flowers, harvest flowers without offering the proper prayers, dispose of withered flowers improperly
 - **Areas of Concern**: blossoms, , diplomacy, , scent
-- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [NG](rules/traits/neutral-good-b1.md), [N](rules/traits/neutral-b1.md), [CG](rules/traits/chaotic-good-b1.md)
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")
 
 ## Devotee benefits
 
@@ -37,6 +37,6 @@ aliases: ["Arundhat", "The Sacred Perfume"]
 title: [Avatar](compendium/spells/avatar.md) of Arundhat
 
 - **Speed**: Speed 70 feet, [air walk](compendium/spells/air-walk.md), immune to [immobilized](rules/conditions.md#Immobilized)
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") thorned blossom ([agile](rules/traits/agile.md), [finesse](rules/traits/finesse.md), [nonlethal](rules/traits/nonlethal.md), [reach <15 feet>](rules/traits/reach.md)), **Damage** `6d6+5` piercing
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") ten thousand petals ([nonlethal](rules/traits/nonlethal.md)), **Damage** `6d6+3` mental
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") thorned blossom ([agile](rules/traits/agile.md "Agile Weapon Trait"), [finesse](rules/traits/finesse.md "Finesse Weapon Trait"), [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait")), **Damage** `6d6+5` piercing
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") ten thousand petals ([nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait")), **Damage** `6d6+3` mental
 ```

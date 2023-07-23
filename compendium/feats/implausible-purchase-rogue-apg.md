@@ -7,7 +7,7 @@ tags:
 aliases: ["Implausible Purchase (Rogue)"]
 ---
 # Implausible Purchase (Rogue)  *Feat 18*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Prerequisites**: Predictive Purchase
 

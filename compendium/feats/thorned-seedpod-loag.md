@@ -7,7 +7,7 @@ tags:
 aliases: ["Thorned Seedpod"]
 ---
 # Thorned Seedpod  *Feat 9*  
-[leshy](rules/traits/leshy-b1.md)  
+[leshy](rules/traits/leshy-b1.md "Leshy Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Seedpod](compendium/feats/seedpod-locg.md) (Character Guide 54)
 

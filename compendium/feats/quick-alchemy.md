@@ -7,7 +7,7 @@ tags:
 aliases: ["Quick Alchemy"]
 ---
 # Quick Alchemy  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Alchemist Dedication](compendium/feats/alchemist-dedication.md)
 

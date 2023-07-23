@@ -7,7 +7,7 @@ tags:
 aliases: ["Ongoing Strategy"]
 ---
 # Ongoing Strategy  *Feat 10*  
-[investigator](rules/traits/investigator-apg.md)  
+[investigator](rules/traits/investigator-apg.md "Investigator Class Trait")  
 
 - **Prerequisites**: strategic strike
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Basic Fury"]
 ---
 # Basic Fury  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Barbarian Dedication](compendium/feats/barbarian-dedication.md)
 

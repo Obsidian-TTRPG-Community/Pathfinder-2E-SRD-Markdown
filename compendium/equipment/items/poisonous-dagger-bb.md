@@ -10,7 +10,7 @@ tags:
 aliases: ["Poisonous Dagger"]
 ---
 # Poisonous Dagger *Item 5*  
-[magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [poison](rules/traits/poison.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Price** 150 gp
 - **Category** Weapon

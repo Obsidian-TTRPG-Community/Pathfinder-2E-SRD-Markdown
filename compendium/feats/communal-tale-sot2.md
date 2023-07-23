@@ -7,7 +7,7 @@ tags:
 aliases: ["Communal Tale"]
 ---
 # Communal Tale  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Folklorist Dedication](compendium/feats/folklorist-dedication-sot2.md)
 

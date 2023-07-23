@@ -8,11 +8,11 @@ tags:
 aliases: ["Stunning Finisher"]
 ---
 # Stunning Finisher  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
-[finisher](rules/traits/finisher-apg.md)  [swashbuckler](rules/traits/swashbuckler-apg.md)  
+[finisher](rules/traits/finisher-apg.md "Finisher Combat Trait")  [swashbuckler](rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  
 
 - **Activity** Single Action
 
-You attempt a dizzying blow. Make a melee [Strike](rules/actions/strike.md). If you hit, your foe must attempt a Fortitude save against your class DC with the following results; the save has the [incapacitation](rules/traits/incapacitation.md) trait.
+You attempt a dizzying blow. Make a melee [Strike](rules/actions/strike.md). If you hit, your foe must attempt a Fortitude save against your class DC with the following results; the save has the [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait") trait.
 
 > [!success-degree] 
 > - **Critical Success** The target is unaffected.

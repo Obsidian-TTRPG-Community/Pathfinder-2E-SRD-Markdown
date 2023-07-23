@@ -9,7 +9,7 @@ tags:
 aliases: ["Parade Armor"]
 ---
 # Parade Armor *Item 2*  
-[adjustment](rules/traits/adjustment-lotgb.md)  [uncommon](rules/traits/uncommon.md)  
+[adjustment](rules/traits/adjustment-lotgb.md "Adjustment  Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** Knights of Lastwall have access to this item.
 - **Price** 10 gp

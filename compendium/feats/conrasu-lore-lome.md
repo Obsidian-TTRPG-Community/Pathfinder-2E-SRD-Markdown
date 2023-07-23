@@ -7,7 +7,7 @@ tags:
 aliases: ["Conrasu Lore"]
 ---
 # Conrasu Lore  *Feat 1*  
-[conrasu](rules/traits/conrasu-loag.md)  
+[conrasu](rules/traits/conrasu-loag.md "Conrasu Ancestry & Heritage Trait")  
 
 
 You have learned about your history and your people from shapers. You gain the trained proficiency rank in [Crafting](compendium/skills.md#Crafting) and [Occultism](compendium/skills.md#Occultism). If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in [Conrasu Lore](compendium/skills.md#Lore).

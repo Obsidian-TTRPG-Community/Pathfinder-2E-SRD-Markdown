@@ -13,7 +13,7 @@ aliases: ["Consummate Liar"]
 ---
 # Consummate Liar
 *Curse 14*  
-[curse](rules/traits/curse.md)  [enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  
+[curse](rules/traits/curse.md "Curse Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 It becomes your first instinct to answer every question with an obvious and blatant lie, no matter how trivial.
 

@@ -12,7 +12,7 @@ tags:
 aliases: ["Potion Of Shared Memories"]
 ---
 # Potion Of Shared Memories *Item 1*  
-[consumable](rules/traits/consumable.md)  [divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  [potion](rules/traits/potion.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [potion](rules/traits/potion.md "Potion Item Trait")  
 
 - **Price** 4 gp
 - **Usage** held in 1 hand; **Bulk** L

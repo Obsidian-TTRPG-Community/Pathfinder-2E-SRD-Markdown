@@ -7,7 +7,7 @@ tags:
 aliases: ["Shadow Pact"]
 ---
 # Shadow Pact  *Feat 13*  
-[human](rules/traits/human.md)  
+[human](rules/traits/human.md "Human Ancestry & Heritage Trait")  
 
 - **Prerequisites**: Nidalese ethnicity
 

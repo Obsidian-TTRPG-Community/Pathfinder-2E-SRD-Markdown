@@ -8,7 +8,7 @@ tags:
 aliases: ["Interfering Surge"]
 ---
 # Interfering Surge  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 12*  
-[abjuration](rules/traits/abjuration.md)  [archetype](rules/traits/archetype.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Wellspring Mage Dedication](compendium/feats/wellspring-mage-dedication-som.md)
 - **Trigger** A creature you can see Casts a Spell.

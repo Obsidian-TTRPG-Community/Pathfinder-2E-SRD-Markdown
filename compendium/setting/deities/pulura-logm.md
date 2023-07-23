@@ -10,12 +10,12 @@ tags:
 - domain/star/deity
 aliases: ["Pulura", "The Shimmering Maiden"]
 ---
-# Pulura (The Shimmering Maiden) *([CG](rules/traits/chaotic-good-b1.md))*  
+# Pulura (The Shimmering Maiden) *([CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 128*  
 
 - **Category**: Empyreal Lords
 - **Anathema**: mock the homesick, deny warmth to others, pollute the skies with smoke or light
-- **Follower Alignments**: [NG](rules/traits/neutral-good-b1.md), [CG](rules/traits/chaotic-good-b1.md)
+- **Follower Alignments**: [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")
 
 ## Devotee benefits
 

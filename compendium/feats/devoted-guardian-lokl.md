@@ -9,7 +9,7 @@ tags:
 aliases: ["Devoted Guardian"]
 ---
 # Devoted Guardian  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 2*  
-[champion](rules/traits/champion.md)  [fighter](rules/traits/fighter.md)  [uncommon](rules/traits/uncommon.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  [fighter](rules/traits/fighter.md "Fighter Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: Knights of Lastwall have access to this feat.
 - **Requirements**: Your last action was to [Raise a Shield](rules/actions/raise-a-shield.md).

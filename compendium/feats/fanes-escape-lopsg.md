@@ -9,7 +9,7 @@ tags:
 aliases: ["Fane's Escape"]
 ---
 # Fane's Escape  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 4*  
-[general](rules/traits/general.md)  [skill](rules/traits/skill.md)  [uncommon](rules/traits/uncommon.md)  
+[general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: expert in [Stealth](compendium/skills.md#Stealth)
 - **Requirements**: You have a deck of playing cards in your possession.

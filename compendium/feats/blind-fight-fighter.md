@@ -7,7 +7,7 @@ tags:
 aliases: ["Blind-fight (Fighter)"]
 ---
 # Blind-fight (Fighter)  *Feat 8*  
-[fighter](rules/traits/fighter.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 - **Prerequisites**: master in [Perception](compendium/skills.md#Perception)
 

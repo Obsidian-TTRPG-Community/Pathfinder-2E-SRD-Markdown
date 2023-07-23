@@ -7,10 +7,10 @@ tags:
 aliases: ["Strong Arm"]
 ---
 # Strong Arm  *Feat 2*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 
-When you [Strike](rules/actions/strike.md) with a [thrown](rules/traits/thrown.md) weapon, the weapon's range increment increases 10 feet.
+When you [Strike](rules/actions/strike.md) with a [thrown](rules/traits/thrown.md "Thrown Weapon Trait") weapon, the weapon's range increment increases 10 feet.
 
 *Source: Advanced Player's Guide p. 134*  
 %% #compendium/src/pf2e/apg #trait/rogue %%

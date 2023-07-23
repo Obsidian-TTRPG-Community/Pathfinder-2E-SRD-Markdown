@@ -7,7 +7,7 @@ tags:
 aliases: ["Reanimating Spark"]
 ---
 # Reanimating Spark  *Feat 13*  
-[poppet](rules/traits/poppet-lotgb.md)  
+[poppet](rules/traits/poppet-lotgb.md "Poppet Ancestry & Heritage Trait")  
 
 - **Frequency**: once per day
 - **Trigger** You have the [dying](rules/conditions.md#Dying) condition and are about to attempt a recovery check.

@@ -15,7 +15,7 @@ As a vigilante, you have two faces: a public persona, and a secret identity that
 title: Vigilante Dedication, Feat 2
 collapse: closed
 # Vigilante Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: trained in [Deception](compendium/skills.md#Deception)
 
@@ -34,14 +34,14 @@ Your class feats and vigilante feats are associated with your vigilante identity
 **Special.** You can't select another dedication feat until you have gained two other feats from the vigilante archetype.
 
 *Source: Advanced Player's Guide p. 196*  
-%% #trait/uncommon #trait/archetype #trait/dedication %%
+%% #trait/archetype #trait/dedication #trait/uncommon %%
 ```  
 
 ```ad-embed-feat
 title: Hidden Magic, Feat 4
 collapse: closed
 # Hidden Magic  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: expert in [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), or [Religion](compendium/skills.md#Religion); [Vigilante Dedication](compendium/feats/vigilante-dedication-apg.md)
 
@@ -57,7 +57,7 @@ A spellcaster using [detect magic](compendium/spells/detect-magic.md) or [read a
 title: Minion Guise, Feat 4
 collapse: closed
 # Minion Guise  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  [social](rules/traits/social-apg.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  [social](rules/traits/social-apg.md "Social Feat Trait")  
 
 - **Prerequisites**: animal companion or familiar, expert in [Deception](compendium/skills.md#Deception), [Vigilante Dedication](compendium/feats/vigilante-dedication-apg.md)
 
@@ -71,7 +71,7 @@ When you are in your social identity, you can also grant a social identity to an
 title: Quick Draw (Rogue), Feat 4*
 collapse: closed
 # Quick Draw (Rogue)  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 > [!pf2-note] This version of [Quick Draw (Rogue)](compendium/feats/quick-draw-rogue.md) is intended for use with the Vigilante Archetype. Its level has been changed accordingly.
 
@@ -87,7 +87,7 @@ You draw your weapon and attack with the same motion. You [Interact](rules/actio
 title: Safe House, Feat 4
 collapse: closed
 # Safe House  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Vigilante Dedication](compendium/feats/vigilante-dedication-apg.md)
 
@@ -101,7 +101,7 @@ You establish a safe house—a secure space in which to hide your secrets from t
 title: Social Purview, Feat 4
 collapse: closed
 # Social Purview  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Vigilante Dedication](compendium/feats/vigilante-dedication-apg.md)
 
@@ -115,7 +115,7 @@ You have built a reputation for yourself in your social identity. Choose one arc
 title: Startling Appearance, Feat 6
 collapse: closed
 # Startling Appearance  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[archetype](rules/traits/archetype.md)  [emotion](rules/traits/emotion.md)  [fear](rules/traits/fear.md)  [mental](rules/traits/mental.md)  [vigilante](rules/traits/vigilante-apg.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [vigilante](rules/traits/vigilante-apg.md "Vigilante Feat Trait")  
 
 - **Prerequisites**: [Vigilante Dedication](compendium/feats/vigilante-dedication-apg.md)
 - **Requirements**: You are completely [unnoticed](rules/conditions.md#Unnoticed) by the target creature.
@@ -133,7 +133,7 @@ Make a [Strike](rules/actions/strike.md) against your target. That creature is [
 title: Quick Change, Feat 7
 collapse: closed
 # Quick Change  *Feat 7*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: master in [Deception](compendium/skills.md#Deception), [Vigilante Dedication](compendium/feats/vigilante-dedication-apg.md)
 
@@ -147,7 +147,7 @@ You can shift between your identities with ease. Instead of spending 1 minute to
 title: Subjective Truth, Feat 7
 collapse: closed
 # Subjective Truth  *Feat 7*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: master in [Deception](compendium/skills.md#Deception), [Vigilante Dedication](compendium/feats/vigilante-dedication-apg.md)
 
@@ -161,7 +161,7 @@ Your disparate identities allow you to defeat magic that detects lies. As long a
 title: Many Guises, Feat 8
 collapse: closed
 # Many Guises  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: master in [Deception](compendium/skills.md#Deception), [Vigilante Dedication](compendium/feats/vigilante-dedication-apg.md)
 
@@ -177,7 +177,7 @@ You can't use either social abilities or vigilante abilities while in this ident
 title: Frightening Appearance, Feat 12*
 collapse: closed
 # Frightening Appearance  *Feat 12*  
-[archetype](rules/traits/archetype.md)  [vigilante](rules/traits/vigilante-apg.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [vigilante](rules/traits/vigilante-apg.md "Vigilante Feat Trait")  
 
 > [!pf2-note] This version of [Frightening Appearance](compendium/feats/frightening-appearance-apg.md) is intended for use with the Vigilante Archetype. Its level has been changed accordingly.
 
@@ -193,7 +193,7 @@ Your dramatic appearances can frighten bystanders. When you make a Startling App
 title: Stunning Appearance, Feat 16*
 collapse: closed
 # Stunning Appearance  *Feat 16*  
-[archetype](rules/traits/archetype.md)  [vigilante](rules/traits/vigilante-apg.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [vigilante](rules/traits/vigilante-apg.md "Vigilante Feat Trait")  
 
 > [!pf2-note] This version of [Stunning Appearance](compendium/feats/stunning-appearance-apg.md) is intended for use with the Vigilante Archetype. Its level has been changed accordingly.
 

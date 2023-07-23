@@ -8,7 +8,7 @@ tags:
 aliases: ["Flensing Blades"]
 ---
 # Flensing Blades *Hazard 12*  
-[complex](rules/traits/complex.md)  [haunt](rules/traits/haunt.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +25 expert  

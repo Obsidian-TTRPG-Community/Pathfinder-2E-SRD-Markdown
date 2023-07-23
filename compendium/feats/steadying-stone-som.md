@@ -7,7 +7,7 @@ tags:
 aliases: ["Steadying Stone"]
 ---
 # Steadying Stone  *Feat 1*  
-[druid](rules/traits/druid.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  
 
 - **Prerequisites**: stone order
 

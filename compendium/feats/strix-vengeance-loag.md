@@ -9,7 +9,7 @@ tags:
 aliases: ["Strix Vengeance"]
 ---
 # Strix Vengeance  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 5*  
-[emotion](rules/traits/emotion.md)  [mental](rules/traits/mental.md)  [strix](rules/traits/strix-loag.md)  
+[emotion](rules/traits/emotion.md "Emotion Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [strix](rules/traits/strix-loag.md "Strix Ancestry & Heritage Trait")  
 
 - **Frequency**: once per 10 minutes
 - **Trigger** You, or a strix ally you can see, are damaged by an enemy's critical hit.

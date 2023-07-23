@@ -7,7 +7,7 @@ tags:
 aliases: ["Lightning Snares"]
 ---
 # Lightning Snares  *Feat 12*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: master in [Crafting](compendium/skills.md#Crafting), [Snare Specialist](compendium/feats/snare-specialist.md), [Quick Snares](compendium/feats/quick-snares.md)
 

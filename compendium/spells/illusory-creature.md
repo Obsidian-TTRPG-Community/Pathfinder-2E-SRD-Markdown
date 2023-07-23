@@ -10,9 +10,9 @@ tags:
 aliases: ["Illusory Creature"]
 ---
 # Illusory Creature *Spell 2*   
-[auditory](rules/traits/auditory.md)  [illusion](rules/traits/illusion.md)  [visual](rules/traits/visual.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**500 foot
 - **Duration**sustained
@@ -23,7 +23,7 @@ The image can't speak, but you can use your actions to speak through the creatur
 
 In combat, the illusion can use 2 actions per turn, which it uses when you [Sustain the Spell](rules/actions/sustain-a-spell.md). It uses your spell attack roll for attack rolls and your spell DC for its AC. Its saving throw modifiers are equal to your spell DC – 10. It is substantial enough that it can flank other creatures. If the image is hit by an attack or fails a save, the spell ends.
 
-The illusion can cause damage by making the target believe the illusion's attacks are real, but it cannot otherwise directly affect the physical world. If the illusory creature hits with a [Strike](rules/actions/strike.md), the target takes mental damage equal to `1d4` plus your spellcasting ability modifier. This is a [mental](rules/traits/mental.md) effect.
+The illusion can cause damage by making the target believe the illusion's attacks are real, but it cannot otherwise directly affect the physical world. If the illusory creature hits with a [Strike](rules/actions/strike.md), the target takes mental damage equal to `1d4` plus your spellcasting ability modifier. This is a [mental](rules/traits/mental.md "Mental Effect Trait") effect.
 
 The illusion's [Strikes](rules/actions/strike.md) are nonlethal. If the damage doesn't correspond to the image of the monster—for example, if an illusory Large dragon deals only 5 damage—the GM might allow the target to attempt an immediate [Perception](compendium/skills.md#Perception) check to disbelieve the spell. Any relevant resistances and weaknesses apply if the target thinks they do, as judged by the GM. For example, if the illusion wields a warhammer and attacks a creature resistant to bludgeoning damage, the creature would take less mental damage. However, illusory damage does not deactivate regeneration or trigger other effects that require a certain damage type. The GM should track illusory damage dealt by the illusion.
 

@@ -10,7 +10,7 @@ tags:
 aliases: ["Stalker Summoning Rune"]
 ---
 # Stalker Summoning Rune *Hazard 7*  
-[complex](rules/traits/complex.md)  [magical](rules/traits/magical.md)  [trap](rules/traits/trap.md)  [uncommon](rules/traits/uncommon.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Complexity** Complex
 - **Stealth** +15 expert  
@@ -21,7 +21,7 @@ The sand conceals a rune that summons an [invisible](rules/conditions.md#Invisib
      
 ```ad-embed-ability
 title: Summon Monster [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[arcane](rules/traits/arcane.md)  [conjuration](rules/traits/conjuration.md)  summon  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  summon  
 
 - **Trigger**: A creature that isn't openly bearing an Aspis Consortium badge crosses the center of the yard.
 

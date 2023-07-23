@@ -7,7 +7,7 @@ tags:
 aliases: ["Sidestep"]
 ---
 # Sidestep  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Trigger** The attack roll for a [Strike](rules/actions/strike.md) targeting you fails or critically fails.
 - **Activity** Reaction

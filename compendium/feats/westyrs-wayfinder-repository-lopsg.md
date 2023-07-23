@@ -7,7 +7,7 @@ tags:
 aliases: ["Westyr's Wayfinder Repository"]
 ---
 # Westyr's Wayfinder Repository  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Pathfinder Agent Dedication](compendium/feats/pathfinder-agent-dedication-lowg.md), Wayfinder
 - **Requirements**: You have at least one 1st-level spell slot and a wayfinder.

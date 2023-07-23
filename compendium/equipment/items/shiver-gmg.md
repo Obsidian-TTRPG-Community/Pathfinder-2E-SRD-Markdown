@@ -12,7 +12,7 @@ tags:
 aliases: ["Shiver"]
 ---
 # Shiver *Item 3*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [drug](rules/traits/drug-gmg.md)  [ingested](rules/traits/ingested.md)  [poison](rules/traits/poison.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [drug](rules/traits/drug-gmg.md "Drug Item Trait")  [ingested](rules/traits/ingested.md "Ingested Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Price** 10 gp
 - **Usage** held in 1 hand; **Bulk** L
@@ -21,7 +21,7 @@ aliases: ["Shiver"]
 
 A compound produced from the hallucinogenic venom of certain spiders, shiver is common in black markets.
 
-The addiction to shiver has the [virulent](rules/traits/virulent.md) trait.
+The addiction to shiver has the [virulent](rules/traits/virulent.md "Virulent Item Trait") trait.
 
 ```ad-inline-affliction
 title: Saving Throw: DC 19 Fortitude

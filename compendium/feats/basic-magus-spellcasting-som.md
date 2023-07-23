@@ -7,7 +7,7 @@ tags:
 aliases: ["Basic Magus Spellcasting"]
 ---
 # Basic Magus Spellcasting  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Magus Dedication](compendium/feats/magus-dedication-som.md)
 

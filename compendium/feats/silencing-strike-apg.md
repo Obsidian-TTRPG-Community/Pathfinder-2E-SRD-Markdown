@@ -9,7 +9,7 @@ tags:
 aliases: ["Silencing Strike"]
 ---
 # Silencing Strike  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
-[barbarian](rules/traits/barbarian.md)  [incapacitation](rules/traits/incapacitation.md)  [rage](rules/traits/rage.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [rage](rules/traits/rage.md "Rage Combat Trait")  
 
 - **Activity** Single Action
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Many Guises"]
 ---
 # Many Guises  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: master in [Deception](compendium/skills.md#Deception), [Vigilante Dedication](compendium/feats/vigilante-dedication-apg.md)
 

@@ -9,7 +9,7 @@ tags:
 aliases: ["Shadow Sight"]
 ---
 # Shadow Sight  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 9*  
-[fetchling](rules/traits/fetchling-b2.md)  [occult](rules/traits/occult.md)  [transmutation](rules/traits/transmutation.md)  
+[fetchling](rules/traits/fetchling-b2.md "Fetchling Ancestry & Heritage Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Frequency**: once per hour
 - **Activity** Single Action

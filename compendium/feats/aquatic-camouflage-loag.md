@@ -7,7 +7,7 @@ tags:
 aliases: ["Aquatic Camouflage"]
 ---
 # Aquatic Camouflage  *Feat 13*  
-[azarketi](rules/traits/azarketi-loag.md)  
+[azarketi](rules/traits/azarketi-loag.md "Azarketi Ancestry & Heritage Trait")  
 
 
 You blend into the waves. While fully submerged in water, as long as an observer is at least 20 feet away from you, you don't need cover from that observer to [Hide](rules/actions/hide.md) or [Sneak](rules/actions/sneak.md).

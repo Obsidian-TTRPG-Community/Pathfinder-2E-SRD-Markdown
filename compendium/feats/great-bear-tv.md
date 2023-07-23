@@ -7,7 +7,7 @@ tags:
 aliases: ["Great Bear"]
 ---
 # Great Bear  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: Ursine Avenger Form
 - **Frequency**: once per hour

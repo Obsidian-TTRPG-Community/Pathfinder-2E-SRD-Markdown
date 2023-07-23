@@ -8,7 +8,7 @@ tags:
 aliases: ["Dance Of Intercession"]
 ---
 # Dance Of Intercession  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 20*  
-[cleric](rules/traits/cleric.md)  [uncommon](rules/traits/uncommon.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: expert in [Performance](compendium/skills.md#Performance)
 - **Frequency**: three per day

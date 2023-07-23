@@ -7,7 +7,7 @@ tags:
 aliases: ["Basic Oracle Spellcasting"]
 ---
 # Basic Oracle Spellcasting  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Oracle Dedication](compendium/feats/oracle-dedication-apg.md)
 

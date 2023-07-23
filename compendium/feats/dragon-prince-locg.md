@@ -7,7 +7,7 @@ tags:
 aliases: ["Dragon Prince"]
 ---
 # Dragon Prince  *Feat 9*  
-[human](rules/traits/human.md)  
+[human](rules/traits/human.md "Human Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Dragon Spit](compendium/feats/dragon-spit-locg.md)
 

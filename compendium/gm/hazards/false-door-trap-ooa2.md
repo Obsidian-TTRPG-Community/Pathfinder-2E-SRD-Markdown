@@ -8,7 +8,7 @@ tags:
 aliases: ["False Door Trap"]
 ---
 # False Door Trap *Hazard 6*  
-[mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  
+[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 28 expert to see the brick wall behind the edges of the door  

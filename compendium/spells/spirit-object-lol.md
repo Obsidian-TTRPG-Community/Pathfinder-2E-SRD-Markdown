@@ -12,7 +12,7 @@ tags:
 aliases: ["Spirit Object"]
 ---
 # Spirit Object *Cantrip 1*   
-[cantrip](rules/traits/cantrip.md)  [hex](rules/traits/hex-apg.md)  [necromancy](rules/traits/necromancy.md)  [rare](rules/traits/rare.md)  [witch](rules/traits/witch-apg.md)  
+[cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [hex](rules/traits/hex-apg.md "Hex Combat Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [witch](rules/traits/witch-apg.md "Witch Class Trait")  
 
 - **Patron** Witch
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") or [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

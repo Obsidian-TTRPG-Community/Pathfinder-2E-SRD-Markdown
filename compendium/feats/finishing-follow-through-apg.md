@@ -7,7 +7,7 @@ tags:
 aliases: ["Finishing Follow-through"]
 ---
 # Finishing Follow-through  *Feat 2*  
-[swashbuckler](rules/traits/swashbuckler-apg.md)  
+[swashbuckler](rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  
 
 
 Finishing a foe maintains your swagger. You gain panache if your finisher brings the target to 0 HP (or brings the highest-level target to 0 HP, if your finisher attacks multiple targets).

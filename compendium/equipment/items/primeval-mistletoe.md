@@ -9,7 +9,7 @@ tags:
 aliases: ["Primeval Mistletoe"]
 ---
 # Primeval Mistletoe *Item 6+*  
-[primal](rules/traits/primal.md)  [transmutation](rules/traits/transmutation.md)  
+[primal](rules/traits/primal.md "Primal Tradition Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Usage** held in 1 hand; **Bulk** —
 - **Category** Held

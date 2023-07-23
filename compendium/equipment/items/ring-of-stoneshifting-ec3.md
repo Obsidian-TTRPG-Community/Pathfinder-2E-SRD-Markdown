@@ -13,7 +13,7 @@ tags:
 aliases: ["Ring Of Stoneshifting"]
 ---
 # Ring Of Stoneshifting *Item 12*  
-[conjuration](rules/traits/conjuration.md)  [earth](rules/traits/earth.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [teleportation](rules/traits/teleportation.md)  [uncommon](rules/traits/uncommon.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1800 gp
 - **Usage** worn; **Bulk** L

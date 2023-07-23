@@ -12,7 +12,7 @@ tags:
 aliases: ["Frost's Touch"]
 ---
 # Frost's Touch *Cantrip 1*   
-[arcane](rules/traits/arcane.md)  [cantrip](rules/traits/cantrip.md)  [cold](rules/traits/cold.md)  [conjuration](rules/traits/conjuration.md)  [rare](rules/traits/rare.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [cold](rules/traits/cold.md "Cold Energy & Element Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**30 foot

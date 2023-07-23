@@ -7,7 +7,7 @@ tags:
 aliases: ["Breath of Calamity"]
 ---
 # Breath of Calamity  *Feat 17*  
-[nagaji](rules/traits/nagaji-loil.md)  
+[nagaji](rules/traits/nagaji-loil.md "Nagaji Ancestry & Heritage Trait")  
 
 
 Your roar shakes the earth and splits the heavens. Once per day, you can cast [chain lightning](compendium/spells/chain-lightning.md) as a 7th-level innate occult spell.

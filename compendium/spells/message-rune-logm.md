@@ -10,9 +10,9 @@ tags:
 aliases: ["Message Rune"]
 ---
 # Message Rune *Spell 1*   
-[divination](rules/traits/divination.md)  [linguistic](rules/traits/linguistic.md)  [mental](rules/traits/mental.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 5 minutes 
 - **Range**touch
 - **Targets**1 flat unattended surface

@@ -9,7 +9,7 @@ tags:
 aliases: ["Glass Skin"]
 ---
 # Glass Skin  *Feat 10*  
-[abjuration](rules/traits/abjuration.md)  [aftermath](rules/traits/aftermath-da.md)  [rare](rules/traits/rare.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [aftermath](rules/traits/aftermath-da.md "Aftermath Class Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Prerequisites**: You were present at the death of the medusa Alethsia, whose vitrumantic powers were passed on to you in the wake of her destruction.
 

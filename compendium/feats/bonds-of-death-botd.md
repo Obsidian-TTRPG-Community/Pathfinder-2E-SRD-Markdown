@@ -7,7 +7,7 @@ tags:
 aliases: ["Bonds of Death"]
 ---
 # Bonds of Death  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Reanimator Dedication](compendium/feats/reanimator-dedication-botd.md)
 - **Frequency**: once per day

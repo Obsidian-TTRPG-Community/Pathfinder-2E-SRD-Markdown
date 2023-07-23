@@ -10,7 +10,7 @@ tags:
 aliases: ["Lovers' Ink"]
 ---
 # Lovers' Ink *Item 2*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [rare](rules/traits/rare.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 5 gp
 - **Usage** with writing set; **Bulk** L

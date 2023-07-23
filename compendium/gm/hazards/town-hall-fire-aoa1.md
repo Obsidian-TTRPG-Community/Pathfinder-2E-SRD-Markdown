@@ -9,7 +9,7 @@ tags:
 aliases: ["Town Hall Fire"]
 ---
 # Town Hall Fire *Hazard 1*  
-[complex](rules/traits/complex.md)  [environmental](rules/traits/environmental.md)  [fire](rules/traits/fire.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  
 
 - **Complexity** Complex
 - **Stealth** -10 initiative modifier is +5  

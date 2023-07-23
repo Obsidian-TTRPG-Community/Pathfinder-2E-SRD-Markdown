@@ -8,7 +8,7 @@ tags:
 aliases: ["Legendary Performer"]
 ---
 # Legendary Performer  *Feat 15*  
-[general](rules/traits/general.md)  [skill](rules/traits/skill.md)  
+[general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: legendary in [Performance](compendium/skills.md#Performance), [Virtuosic Performer](compendium/feats/virtuosic-performer.md)
 

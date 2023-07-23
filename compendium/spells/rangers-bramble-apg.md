@@ -12,7 +12,7 @@ tags:
 aliases: ["Ranger's Bramble"]
 ---
 # Ranger's Bramble *Focus 3*   
-[plant](rules/traits/plant.md)  [ranger](rules/traits/ranger.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+[plant](rules/traits/plant.md "Plant Creature Type Trait")  [ranger](rules/traits/ranger.md "Ranger Class Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**100 foot

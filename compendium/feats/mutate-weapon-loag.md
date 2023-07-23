@@ -7,7 +7,7 @@ tags:
 aliases: ["Mutate Weapon"]
 ---
 # Mutate Weapon  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 5*  
-[fleshwarp](rules/traits/fleshwarp-loag.md)  
+[fleshwarp](rules/traits/fleshwarp-loag.md "Fleshwarp Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Living Weapon](compendium/feats/living-weapon-loag.md)
 - **Activity** Single Action

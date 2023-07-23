@@ -12,7 +12,7 @@ tags:
 aliases: ["Rose of Loves Lost"]
 ---
 # Rose of Loves Lost *Item 10*  
-[consumable](rules/traits/consumable.md)  [cursed](rules/traits/cursed-gmg.md)  [enchantment](rules/traits/enchantment.md)  [evil](rules/traits/evil.md)  [magical](rules/traits/magical.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [evil](rules/traits/evil.md "Evil Alignment Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md)

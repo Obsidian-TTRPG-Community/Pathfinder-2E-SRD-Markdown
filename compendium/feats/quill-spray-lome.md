@@ -7,7 +7,7 @@ tags:
 aliases: ["Quill Spray"]
 ---
 # Quill Spray  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 9*  
-[shisk](rules/traits/shisk-lome.md)  
+[shisk](rules/traits/shisk-lome.md "Shisk Ancestry & Heritage Trait")  
 
 - **Prerequisites**: quillcoat shisk or quill unarmed attack
 - **Frequency**: once per day

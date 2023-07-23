@@ -12,7 +12,7 @@ tags:
 aliases: ["Giant's Stature"]
 ---
 # Giant's Stature  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[barbarian](rules/traits/barbarian.md)  [instinct](rules/traits/instinct.md)  [polymorph](rules/traits/polymorph.md)  [primal](rules/traits/primal.md)  [rage](rules/traits/rage.md)  [transmutation](rules/traits/transmutation.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [instinct](rules/traits/instinct.md "Instinct Action & Ability Trait")  [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [rage](rules/traits/rage.md "Rage Combat Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Prerequisites**: Giant instinct
 - **Requirements**: You are Medium or smaller.

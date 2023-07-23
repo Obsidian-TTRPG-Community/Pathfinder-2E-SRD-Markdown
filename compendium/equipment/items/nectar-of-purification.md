@@ -11,7 +11,7 @@ tags:
 aliases: ["Nectar of Purification"]
 ---
 # Nectar of Purification *Item 1*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [oil](rules/traits/oil.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [oil](rules/traits/oil.md "Oil Item Trait")  
 
 - **Price** 3 gp
 - **Usage** held in 1 hand; **Bulk** L

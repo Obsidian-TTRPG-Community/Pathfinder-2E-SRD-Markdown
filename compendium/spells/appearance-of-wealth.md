@@ -11,7 +11,7 @@ tags:
 aliases: ["Appearance Of Wealth"]
 ---
 # Appearance Of Wealth *Focus 1*   
-[cleric](rules/traits/cleric.md)  [illusion](rules/traits/illusion.md)  [uncommon](rules/traits/uncommon.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Domains**: [wealth](compendium/setting/domains.md#Wealth)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

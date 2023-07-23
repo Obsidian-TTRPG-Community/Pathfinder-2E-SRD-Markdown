@@ -8,7 +8,7 @@ tags:
 aliases: ["Angel of Vindication"]
 ---
 # Angel of Vindication  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Assassin Dedication](compendium/feats/assassin-dedication-apg.md)
 - **Requirements**: Your mark is an undead creature.

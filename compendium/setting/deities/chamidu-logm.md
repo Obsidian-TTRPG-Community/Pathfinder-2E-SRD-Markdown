@@ -10,13 +10,13 @@ tags:
 - domain/nightmares/deity
 aliases: ["Chamidu", "The Roar of the Storm"]
 ---
-# Chamidu (The Roar of the Storm) *([N](rules/traits/neutral-b1.md))*  
+# Chamidu (The Roar of the Storm) *([N](rules/traits/n-b1.md "Neutral Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 132*  
 
 - **Category**: Vudrani Gods
 - **Anathema**: harm a child, pollute the wilds, refuse to treat an illness
 - **Areas of Concern**: children, , fertility, , wild beasts
-- **Follower Alignments**: [NG](rules/traits/neutral-good-b1.md), [N](rules/traits/neutral-b1.md), [NE](rules/traits/neutral-evil-b1.md)
+- **Follower Alignments**: [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait")
 
 ## Devotee benefits
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Eyes Of Night"]
 ---
 # Eyes Of Night  *Feat 1*  
-[dhampir](rules/traits/dhampir-b1.md)  
+[dhampir](rules/traits/dhampir-b1.md "Dhampir Ancestry & Heritage Trait")  
 
 - **Prerequisites**: low-light vision
 

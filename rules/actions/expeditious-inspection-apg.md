@@ -8,7 +8,7 @@ tags:
 aliases: ["Expeditious Inspection"]
 ---
 # Expeditious Inspection [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
-[investigator](rules/traits/investigator-apg.md)  
+[investigator](rules/traits/investigator-apg.md "Investigator Class Trait")  
 *Source: Advanced Player's Guide p. 57*  
 
 **Class** investigator; **Subclass** Empiricism

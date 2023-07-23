@@ -7,7 +7,7 @@ tags:
 aliases: ["Overpowering Charge (Fighter)"]
 ---
 # Overpowering Charge (Fighter)  *Feat 10*  
-[fighter](rules/traits/fighter.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 - **Prerequisites**: Barreling Charge
 

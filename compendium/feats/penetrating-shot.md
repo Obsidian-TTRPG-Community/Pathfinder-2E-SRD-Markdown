@@ -8,7 +8,7 @@ tags:
 aliases: ["Penetrating Shot"]
 ---
 # Penetrating Shot  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 10*  
-[open](rules/traits/open.md)  [ranger](rules/traits/ranger.md)  
+[open](rules/traits/open.md "Open Combat Trait")  [ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Requirements**: You are wielding a ranged weapon.
 - **Activity** Two-Action

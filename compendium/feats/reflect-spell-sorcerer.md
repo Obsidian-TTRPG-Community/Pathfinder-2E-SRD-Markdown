@@ -7,7 +7,7 @@ tags:
 aliases: ["Reflect Spell (Sorcerer)"]
 ---
 # Reflect Spell (Sorcerer)  *Feat 14*  
-[sorcerer](rules/traits/sorcerer.md)  
+[sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 - **Prerequisites**: [Counterspell](compendium/feats/counterspell-sorcerer.md)
 

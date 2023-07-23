@@ -13,7 +13,7 @@ tags:
 aliases: ["Clinging Ooze Snare"]
 ---
 # Clinging Ooze Snare *Item 4*  
-[acid](rules/traits/acid.md)  [consumable](rules/traits/consumable.md)  [mechanical](rules/traits/mechanical.md)  [rare](rules/traits/rare.md)  [snare](rules/traits/snare.md)  [trap](rules/traits/trap.md)  
+[acid](rules/traits/acid.md "Acid Energy & Element Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [snare](rules/traits/snare.md "Snare Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Price** 25 gp
 - **Category** Snare

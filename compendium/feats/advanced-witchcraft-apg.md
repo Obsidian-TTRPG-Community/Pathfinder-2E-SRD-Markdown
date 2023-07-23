@@ -7,7 +7,7 @@ tags:
 aliases: ["Advanced Witchcraft"]
 ---
 # Advanced Witchcraft  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Witchcraft](compendium/feats/basic-witchcraft-apg.md)
 

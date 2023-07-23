@@ -10,7 +10,7 @@ tags:
 aliases: ["Spell Echo Shot"]
 ---
 # Spell Echo Shot *Item 19*  
-[consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  
+[consumable](rules/traits/consumable.md "Consumable Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 5500 gp
 - **Ammunition** any

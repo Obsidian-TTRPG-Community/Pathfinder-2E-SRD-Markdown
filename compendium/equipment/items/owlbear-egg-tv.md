@@ -13,7 +13,7 @@ tags:
 aliases: ["Owlbear Egg"]
 ---
 # Owlbear Egg *Item 7*  
-[alchemical](rules/traits/alchemical.md)  [auditory](rules/traits/auditory.md)  [consumable](rules/traits/consumable.md)  [emotion](rules/traits/emotion.md)  [fear](rules/traits/fear.md)  [mental](rules/traits/mental.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 - **Price** 60 gp
 - **Usage** held in 1 hand; **Bulk** L

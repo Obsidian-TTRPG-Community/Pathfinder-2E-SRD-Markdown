@@ -11,7 +11,7 @@ tags:
 aliases: ["Doctrine of Blissful Eternity"]
 ---
 # Doctrine of Blissful Eternity *Item 7*  
-[grimoire](rules/traits/grimoire-som.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [uncommon](rules/traits/uncommon.md)  
+[grimoire](rules/traits/grimoire-som.md "Grimoire Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 340 gp
 - **Bulk** L

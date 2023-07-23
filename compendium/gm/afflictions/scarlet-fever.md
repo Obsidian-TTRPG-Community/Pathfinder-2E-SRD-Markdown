@@ -10,7 +10,7 @@ aliases: ["Scarlet Fever"]
 ---
 # Scarlet Fever
 *Disease 1*  
-[disease](rules/traits/disease.md)  
+[disease](rules/traits/disease.md "Disease Effect Trait")  
 
 The relatively simple sore throat caused by this disease leads many victims to initially dismiss it as a mild illness, but scarlet fever can be deadly if left untreated. You can't reduce your sickened condition while affected with scarlet fever.
 

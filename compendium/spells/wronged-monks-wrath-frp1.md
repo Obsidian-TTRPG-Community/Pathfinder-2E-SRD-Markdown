@@ -13,7 +13,7 @@ tags:
 aliases: ["Wronged Monk's Wrath"]
 ---
 # Wronged Monk's Wrath *Focus 5*   
-[electricity](rules/traits/electricity.md)  [evocation](rules/traits/evocation.md)  [force](rules/traits/force.md)  [monk](rules/traits/monk.md)  [uncommon](rules/traits/uncommon.md)  
+[electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") to [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Area**5-foot emanation or more

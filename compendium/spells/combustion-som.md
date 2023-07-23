@@ -10,7 +10,7 @@ tags:
 aliases: ["Combustion"]
 ---
 # Combustion *Focus 3*   
-[evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  [uncommon](rules/traits/uncommon.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**120 foot

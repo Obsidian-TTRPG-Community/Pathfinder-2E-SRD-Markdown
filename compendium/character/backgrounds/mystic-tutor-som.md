@@ -16,4 +16,4 @@ You spent years predicting, identifying, and harnessing the innate magical talen
 
 Choose two ability boosts. One must be Intelligence or Wisdom and one is a free ability boost.
 
-Your innate [magical](rules/traits/magical.md) trait is [arcane](rules/traits/arcane.md) or [occult](rules/traits/occult.md). You're trained in either [Arcana](compendium/skills.md#Arcana) or [Occultism](compendium/skills.md#Occultism), depending on your innate [magical](rules/traits/magical.md) trait, and the [Academia Lore](compendium/skills.md#Lore) skill. You gain the [Recognize Spell](compendium/feats/recognize-spell.md) skill feat.
+Your innate [magical](rules/traits/magical.md "Magical Item Trait") trait is [arcane](rules/traits/arcane.md "Arcane Tradition Trait") or [occult](rules/traits/occult.md "Occult Tradition Trait"). You're trained in either [Arcana](compendium/skills.md#Arcana) or [Occultism](compendium/skills.md#Occultism), depending on your innate [magical](rules/traits/magical.md "Magical Item Trait") trait, and the [Academia Lore](compendium/skills.md#Lore) skill. You gain the [Recognize Spell](compendium/feats/recognize-spell.md) skill feat.

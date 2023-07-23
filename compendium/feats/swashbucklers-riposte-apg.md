@@ -7,7 +7,7 @@ tags:
 aliases: ["Swashbuckler's Riposte"]
 ---
 # Swashbuckler's Riposte  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Swashbuckler Dedication](compendium/feats/swashbuckler-dedication-apg.md)
 

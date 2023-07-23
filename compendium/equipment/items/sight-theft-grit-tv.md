@@ -14,7 +14,7 @@ tags:
 aliases: ["Sight-Theft Grit"]
 ---
 # Sight-Theft Grit *Item 9*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [divine](rules/traits/divine.md)  [ingested](rules/traits/ingested.md)  [necromancy](rules/traits/necromancy.md)  [poison](rules/traits/poison.md)  [uncommon](rules/traits/uncommon.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [ingested](rules/traits/ingested.md "Ingested Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 115 gp
 - **Usage** held in 1 hand; **Bulk** L

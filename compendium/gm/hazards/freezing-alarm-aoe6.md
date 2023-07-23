@@ -8,7 +8,7 @@ tags:
 aliases: ["Freezing Alarm"]
 ---
 # Freezing Alarm *Hazard 20*  
-[magical](rules/traits/magical.md)  [trap](rules/traits/trap.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 43 master  
@@ -19,7 +19,7 @@ Miniature snowflake-shaped glyphs on the ground cause a layer of ice to ripple o
      
 ```ad-embed-ability
 title: Freeze Floor [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[abjuration](rules/traits/abjuration.md)  [arcane](rules/traits/arcane.md)  [cold](rules/traits/cold.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [cold](rules/traits/cold.md "Cold Energy & Element Trait")  
 
 - **Trigger**: A creature enters one of the three squares marked with a T on the map
 

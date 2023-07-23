@@ -7,7 +7,7 @@ tags:
 aliases: ["Advanced Deity's Domain"]
 ---
 # Advanced Deity's Domain  *Feat 8*  
-[champion](rules/traits/champion.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  
 
 - **Prerequisites**: [Deity's Domain](compendium/feats/deitys-domain.md)
 

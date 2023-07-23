@@ -7,7 +7,7 @@ tags:
 aliases: ["Analyze Weakness"]
 ---
 # Analyze Weakness  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Prerequisites**: sneak attack `2d6`
 - **Requirements**: You must have identified a creature with [Recall Knowledge](rules/actions/recall-knowledge.md).

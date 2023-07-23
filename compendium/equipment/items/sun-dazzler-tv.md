@@ -10,7 +10,7 @@ tags:
 aliases: ["Sun Dazzler"]
 ---
 # Sun Dazzler *Item 8*  
-[alchemical](rules/traits/alchemical.md)  [light](rules/traits/light.md)  [visual](rules/traits/visual.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [light](rules/traits/light.md "Light Effect Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Price** 450 gp
 - **Usage** held in 1 hand; **Bulk** L

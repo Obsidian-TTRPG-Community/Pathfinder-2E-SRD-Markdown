@@ -7,7 +7,7 @@ tags:
 aliases: ["Lightless Litheness"]
 ---
 # Lightless Litheness  *Feat 5*  
-[fetchling](rules/traits/fetchling-b2.md)  
+[fetchling](rules/traits/fetchling-b2.md "Fetchling Ancestry & Heritage Trait")  
 
 
 Your body is almost as flexible as your shadow. When you critically fail at [Squeezing](rules/actions/squeeze.md), you get a failure instead. Additionally, when you roll a success at an [Escape](rules/actions/escape.md) check, you get a critical success instead; if you roll a critical success, you can [Step](rules/actions/step.md) instead of [Striding](rules/actions/stride.md) up to 5 feet.

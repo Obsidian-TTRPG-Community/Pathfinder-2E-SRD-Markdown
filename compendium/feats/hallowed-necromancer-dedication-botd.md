@@ -9,7 +9,7 @@ tags:
 aliases: ["Hallowed Necromancer Dedication"]
 ---
 # Hallowed Necromancer Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: good alignment, able to cast spells using spell slots, able to cast at least one necromancy spell, expert in [Religion](compendium/skills.md#Religion)
 

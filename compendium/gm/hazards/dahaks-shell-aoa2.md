@@ -9,7 +9,7 @@ tags:
 aliases: ["Dahak's Shell"]
 ---
 # Dahak's Shell *Hazard 12*  
-[magical](rules/traits/magical.md)  [trap](rules/traits/trap.md)  [unique](rules/traits/unique.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Complexity** Simple
 - **Stealth** +0 or [detect magic](compendium/spells/detect-magic.md)  
@@ -20,7 +20,7 @@ A ring of eight [dragon pillar](compendium/gm/hazards/dragon-pillar-aoa2.md) rep
      
 ```ad-embed-ability
 title: Prismatic Beam [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[abjuration](rules/traits/abjuration.md)  [divine](rules/traits/divine.md)  [light](rules/traits/light.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [light](rules/traits/light.md "Light Effect Trait")  
 
 - **Trigger**: a creature attempts and fails to disable one of the shell colors via [Thievery](compendium/skills.md#Thievery) or [dispel magic](compendium/spells/dispel-magic.md)
 
@@ -29,7 +29,7 @@ title: Prismatic Beam [R](rules/core-rulebook/chapter-9-playing-the-game.md#Acti
 ```
 ```ad-embed-ability
 title: Shell Defense
-[abjuration](rules/traits/abjuration.md)  [divine](rules/traits/divine.md)  [light](rules/traits/light.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [light](rules/traits/light.md "Light Effect Trait")  
 
 When a creature physically passes through the shell, the creature is affected simultaneously by all colors of energy currently active in the shell; apply these effects in the following order: red, orange, yellow, green, blue, indigo, violet, black. These effects are the same as that of the eye beams described in [dragon pillar](compendium/gm/hazards/dragon-pillar-aoa2.md), but with a save DC of 32. Each effect requires its own save.  
 %% #trait/abjuration #trait/divine #trait/light %%

@@ -8,7 +8,7 @@ tags:
 aliases: ["Spear Launcher"]
 ---
 # Spear Launcher *Hazard 2*  
-[mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  
+[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 20 trained  
@@ -25,7 +25,7 @@ A wall socket loaded with a spear connects to a floor tile in one 5-foot square.
      
 ```ad-embed-ability
 title: Spear [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[attack](rules/traits/attack.md)  
+[attack](rules/traits/attack.md "Attack Combat Trait")  
 
 - **Trigger**: Pressure is applied to the floor tile.
 

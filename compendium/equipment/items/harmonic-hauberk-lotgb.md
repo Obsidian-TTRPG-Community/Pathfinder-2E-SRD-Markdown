@@ -13,13 +13,13 @@ tags:
 aliases: ["Harmonic Hauberk"]
 ---
 # Harmonic Hauberk *Item 13*  
-[auditory](rules/traits/auditory.md)  [focused](rules/traits/focused.md)  [illusion](rules/traits/illusion.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [focused](rules/traits/focused.md "Focused Item Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 2500 gp
 - **Usage** worn armor; **Bulk** 1
 - **Category** Armor
 
-Rose gold and copper rings in this +2 resilient chain shirt form a vague bird shape. The jingling links tinkle musically, almost like birdsong. While you wear the armor, effects with the [auditory](rules/traits/auditory.md) trait must first counteract the harmonic hauberk or they have no effect on you.
+Rose gold and copper rings in this +2 resilient chain shirt form a vague bird shape. The jingling links tinkle musically, almost like birdsong. While you wear the armor, effects with the [auditory](rules/traits/auditory.md "Auditory Effect Trait") trait must first counteract the harmonic hauberk or they have no effect on you.
 
 The harmonic hauberk attempts to counteract [silence](compendium/spells/silence.md) spells cast on you and 4th-level or higher heightened [silence](compendium/spells/silence.md) spells the first time the armor enters their area (counteract level 4, counteract modifier +20). After failing to counteract a [silence](compendium/spells/silence.md) spell, the armor can't attempt to counteract the same spell again, even if you leave and enter the spell's area multiple times.
 

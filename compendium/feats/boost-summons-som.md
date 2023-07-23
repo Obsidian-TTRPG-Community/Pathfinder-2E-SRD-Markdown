@@ -7,7 +7,7 @@ tags:
 aliases: ["Boost Summons"]
 ---
 # Boost Summons  *Feat 8*  
-[summoner](rules/traits/summoner-som.md)  
+[summoner](rules/traits/summoner-som.md "Summoner Class Trait")  
 
 
 Augmenting your eidolon extends to creatures you summon.

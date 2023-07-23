@@ -7,7 +7,7 @@ tags:
 aliases: ["Animal Shape"]
 ---
 # Animal Shape  *Feat 17*  
-[beastkin](rules/traits/beastkin-loag.md)  
+[beastkin](rules/traits/beastkin-loag.md "Beastkin Ancestry & Heritage Trait")  
 
 
 You have full control over your shape and can transform into your inherent animal.

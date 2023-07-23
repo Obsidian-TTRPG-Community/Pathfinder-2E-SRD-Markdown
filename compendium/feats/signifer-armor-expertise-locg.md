@@ -7,7 +7,7 @@ tags:
 aliases: ["Signifer Armor Expertise"]
 ---
 # Signifer Armor Expertise  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Hellknight Signifer Dedication](compendium/feats/hellknight-signifer-dedication-locg.md)
 

@@ -10,12 +10,12 @@ tags:
 - domain/zeal/deity
 aliases: ["Orcus"]
 ---
-# Orcus *([CE](rules/traits/chaotic-evil-b1.md))*  
+# Orcus *([CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait"))*  
 *Source: Book of the Dead p. 43*  
 
 - **Category**: Demon Lords
 - **Anathema**: become a vampire or accidental undead, give succor to faiths that seek to destroy undead
-- **Follower Alignments**: [NE](rules/traits/neutral-evil-b1.md), [CE](rules/traits/chaotic-evil-b1.md)
+- **Follower Alignments**: [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
 

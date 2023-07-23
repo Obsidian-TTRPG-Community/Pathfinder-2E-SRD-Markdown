@@ -7,7 +7,7 @@ tags:
 aliases: ["Basic Cleric Spellcasting"]
 ---
 # Basic Cleric Spellcasting  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Cleric Dedication](compendium/feats/cleric-dedication.md)
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Additional Recollection"]
 ---
 # Additional Recollection  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 6*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Trigger** You succeed or critically succeed at a check to [Recall Knowledge](rules/actions/recall-knowledge.md) on your hunted prey.
 - **Activity** Free Action

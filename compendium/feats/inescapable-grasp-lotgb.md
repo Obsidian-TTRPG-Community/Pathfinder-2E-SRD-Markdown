@@ -7,7 +7,7 @@ tags:
 aliases: ["Inescapable Grasp"]
 ---
 # Inescapable Grasp  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Wrestler Dedication](compendium/feats/wrestler-dedication-lotgb.md)
 

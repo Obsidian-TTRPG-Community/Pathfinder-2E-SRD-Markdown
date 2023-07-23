@@ -12,7 +12,7 @@ tags:
 aliases: ["Vibrant Thorns"]
 ---
 # Vibrant Thorns *Focus 1*   
-[cleric](rules/traits/cleric.md)  [morph](rules/traits/morph.md)  [plant](rules/traits/plant.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [morph](rules/traits/morph.md "Morph Effect Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Domains**: [nature](compendium/setting/domains.md#Nature)
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 

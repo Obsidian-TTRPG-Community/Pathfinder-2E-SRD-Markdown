@@ -8,7 +8,7 @@ tags:
 aliases: ["Leading Dance"]
 ---
 # Leading Dance  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[move](rules/traits/move.md)  [swashbuckler](rules/traits/swashbuckler-apg.md)  
+[move](rules/traits/move.md "Move Combat Trait")  [swashbuckler](rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  
 
 - **Prerequisites**: trained in [Performance](compendium/skills.md#Performance)
 - **Requirements**: You are adjacent to an enemy.

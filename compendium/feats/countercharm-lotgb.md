@@ -7,7 +7,7 @@ tags:
 aliases: ["Countercharm"]
 ---
 # Countercharm  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Captivator Spellcasting](compendium/feats/basic-captivator-spellcasting-lotgb.md)
 - **Trigger** A creature Casts a Spell from the enchantment or illusion school.

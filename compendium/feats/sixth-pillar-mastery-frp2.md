@@ -7,7 +7,7 @@ tags:
 aliases: ["Sixth Pillar Mastery"]
 ---
 # Sixth Pillar Mastery  *Feat 16*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Sixth Pillar Dedication](compendium/feats/sixth-pillar-dedication-frp2.md)
 

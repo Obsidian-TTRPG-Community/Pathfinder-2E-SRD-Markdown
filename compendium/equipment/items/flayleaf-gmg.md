@@ -13,7 +13,7 @@ tags:
 aliases: ["Flayleaf"]
 ---
 # Flayleaf *Item 0*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [drug](rules/traits/drug-gmg.md)  [ingested](rules/traits/ingested.md)  [inhaled](rules/traits/inhaled.md)  [poison](rules/traits/poison.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [drug](rules/traits/drug-gmg.md "Drug Item Trait")  [ingested](rules/traits/ingested.md "Ingested Item Trait")  [inhaled](rules/traits/inhaled.md "Inhaled Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Price** 1 gp
 - **Usage** held in 1 hand; **Bulk** L
@@ -30,9 +30,9 @@ title: Saving Throw: DC 12 Fortitude
 
 ## Stages
 
-**Stage 1** +1 item bonus to saving throws against [mental](rules/traits/mental.md) effects (1 hour)
+**Stage 1** +1 item bonus to saving throws against [mental](rules/traits/mental.md "Mental Effect Trait") effects (1 hour)
 
-**Stage 2** [fatigued](rules/conditions.md#Fatigued) and +1 item bonus to saving throws against [mental](rules/traits/mental.md) effects (1 hour)
+**Stage 2** [fatigued](rules/conditions.md#Fatigued) and +1 item bonus to saving throws against [mental](rules/traits/mental.md "Mental Effect Trait") effects (1 hour)
 
 **Stage 3** [fatigued](rules/conditions.md#Fatigued) and [stupefied](rules/conditions.md#Stupefied) (1 hour)
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Archon Magic"]
 ---
 # Archon Magic  *Feat 9*  
-[aasimar](rules/traits/aasimar-apg.md)  
+[aasimar](rules/traits/aasimar-apg.md "Aasimar Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Lawbringer](compendium/feats/lawbringer-apg.md)
 

@@ -8,7 +8,7 @@ tags:
 aliases: ["Accurate Swing"]
 ---
 # Accurate Swing  *Feat 8*  
-[archetype](rules/traits/archetype.md)  [vigilante](rules/traits/vigilante-apg.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [vigilante](rules/traits/vigilante-apg.md "Vigilante Feat Trait")  
 
 - **Prerequisites**: [Harsh Judgment](compendium/feats/harsh-judgment-ngd.md), [Vigilante Dedication](compendium/feats/vigilante-dedication-apg.md), member of the Gray Gardeners
 

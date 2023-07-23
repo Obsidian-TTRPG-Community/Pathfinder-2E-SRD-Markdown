@@ -7,11 +7,11 @@ tags:
 aliases: ["Reverse Curse"]
 ---
 # Reverse Curse  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: Counter Curse
 
-When you counter a [curse](rules/traits/curse.md) or [misfortune](rules/traits/misfortune.md) effect, you send it back to destroy its originator. Whenever you succeed at the counteract check to Counter Curse, the creature is affected by its own [curse](rules/traits/curse.md) or [misfortune](rules/traits/misfortune.md) effect, attempting a saving throw against its own DC if the effect allows a saving throw.
+When you counter a [curse](rules/traits/curse.md "Curse Effect Trait") or [misfortune](rules/traits/misfortune.md "Misfortune Effect Trait") effect, you send it back to destroy its originator. Whenever you succeed at the counteract check to Counter Curse, the creature is affected by its own [curse](rules/traits/curse.md "Curse Effect Trait") or [misfortune](rules/traits/misfortune.md "Misfortune Effect Trait") effect, attempting a saving throw against its own DC if the effect allows a saving throw.
 
 In the case of a constant ability, such as a misfortune aura, the creature is affected only until the beginning of its next turn, when the ability reasserts itself.
 

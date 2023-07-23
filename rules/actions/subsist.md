@@ -8,7 +8,7 @@ tags:
 aliases: ["Subsist"]
 ---
 # Subsist (basic)
-[downtime](rules/traits/downtime.md)  
+[downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  
 *Source: Core Rulebook p. 240*  
 
 

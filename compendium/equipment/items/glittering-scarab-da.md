@@ -8,7 +8,7 @@ tags:
 aliases: ["Glittering Scarab"]
 ---
 # Glittering Scarab *Item 1*  
-[uncommon](rules/traits/uncommon.md)  
+[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** Member of the [Esoteric Order of the Palatine Eye](compendium/setting/deities/esoteric-order-of-the-palatine-eye-logm.md)
 - **Price** 10 gp

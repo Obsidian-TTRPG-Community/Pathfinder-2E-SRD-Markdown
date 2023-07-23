@@ -7,7 +7,7 @@ tags:
 aliases: ["Emerald Boughs Hideaway"]
 ---
 # Emerald Boughs Hideaway  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Magaambyan Attendant Dedication](compendium/feats/magaambyan-attendant-dedication-locg.md), Emerald Boughs affiliation
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Expansive Spellstrike"]
 ---
 # Expansive Spellstrike  *Feat 2*  
-[magus](rules/traits/magus-som.md)  
+[magus](rules/traits/magus-som.md "Magus Class Trait")  
 
 - **Prerequisites**: [Spellstrike](rules/actions/spellstrike-som.md)
 
@@ -16,7 +16,7 @@ You've adapted a wider array of spells to work with your attacks. Rather than ne
 - If your [Strike](rules/actions/strike.md) critically fails, the spell is lost with no effect.
 - Creatures use their normal defenses against the spell, such as saving throws.
 - If the spell lets you select a number of targets, it instead targets only the creature you attacked with your [Strike](rules/actions/strike.md).
-- If the spell has an area, the target must be in that area. A burst is centered on a corner of the target's square, or the square corner closest to the center of the target, if the target is Large or larger; you choose the corner if more than one is eligible. A cone or line emits from you and must include the target; if you're not adjacent to the target (using a [reach](rules/traits/reach.md) weapon or starlit span, for example), choose any square adjacent to the target as the source. The spell affects all creatures in the area as normal, but the [Strike](rules/actions/strike.md) still targets only one creature.
+- If the spell has an area, the target must be in that area. A burst is centered on a corner of the target's square, or the square corner closest to the center of the target, if the target is Large or larger; you choose the corner if more than one is eligible. A cone or line emits from you and must include the target; if you're not adjacent to the target (using a [reach](rules/traits/reach.md "Reach Weapon Trait") weapon or starlit span, for example), choose any square adjacent to the target as the source. The spell affects all creatures in the area as normal, but the [Strike](rules/actions/strike.md) still targets only one creature.
 
 *Source: Secrets of Magic p. 43*  
 %% #compendium/src/pf2e/som #trait/magus %%

@@ -8,7 +8,7 @@ tags:
 aliases: ["Images Of Failure"]
 ---
 # Images Of Failure *Hazard 12*  
-[magical](rules/traits/magical.md)  [trap](rules/traits/trap.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 35 expert to realize the illusory images conceal a magical trap (noticing the images has a DC of 0)  
@@ -19,7 +19,7 @@ Psychically enhanced illusions flood the minds of creatures in the 40-foot-long,
      
 ```ad-embed-ability
 title: Echoes of Defeat [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
-[curse](rules/traits/curse.md)  [emotion](rules/traits/emotion.md)  [enchantment](rules/traits/enchantment.md)  [mental](rules/traits/mental.md)  
+[curse](rules/traits/curse.md "Curse Effect Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 - **Trigger**: A creature ends a move action within the trap's area
 

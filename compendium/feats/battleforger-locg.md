@@ -7,7 +7,7 @@ tags:
 aliases: ["Battleforger"]
 ---
 # Battleforger  *Feat 9*  
-[dwarf](rules/traits/dwarf.md)  
+[dwarf](rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  
 
 - **Prerequisites**: master in [Crafting](compendium/skills.md#Crafting)
 

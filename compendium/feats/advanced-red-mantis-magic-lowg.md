@@ -7,7 +7,7 @@ tags:
 aliases: ["Advanced Red Mantis Magic"]
 ---
 # Advanced Red Mantis Magic  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Red Mantis Magic](compendium/feats/basic-red-mantis-magic-lowg.md)
 

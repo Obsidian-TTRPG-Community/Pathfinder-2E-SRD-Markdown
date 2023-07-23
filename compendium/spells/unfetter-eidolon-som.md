@@ -10,7 +10,7 @@ tags:
 aliases: ["Unfetter Eidolon"]
 ---
 # Unfetter Eidolon *Focus 1*   
-[abjuration](rules/traits/abjuration.md)  [summoner](rules/traits/summoner-som.md)  [uncommon](rules/traits/uncommon.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [summoner](rules/traits/summoner-som.md "Summoner Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**100 foot

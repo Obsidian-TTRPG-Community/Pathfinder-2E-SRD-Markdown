@@ -8,7 +8,7 @@ tags:
 aliases: ["Archaeologist's Luck"]
 ---
 # Archaeologist's Luck  *Feat 8*  
-[archetype](rules/traits/archetype.md)  [fortune](rules/traits/fortune.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  
 
 - **Prerequisites**: [Archaeologist Dedication](compendium/feats/archaeologist-dedication-apg.md)
 - **Frequency**: once per hour

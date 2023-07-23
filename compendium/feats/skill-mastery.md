@@ -7,7 +7,7 @@ tags:
 aliases: ["Skill Mastery"]
 ---
 # Skill Mastery  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Rogue Dedication](compendium/feats/rogue-dedication.md), trained in at least one skill and expert in at least one skill
 

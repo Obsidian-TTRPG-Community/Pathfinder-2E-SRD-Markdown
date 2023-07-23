@@ -8,7 +8,7 @@ tags:
 aliases: ["Leather Lamellar"]
 ---
 # Leather Lamellar *Item 0*  
-[laminar](rules/traits/laminar-tv.md)  
+[laminar](rules/traits/laminar-tv.md "Laminar Armor Trait")  
 
 - **Price** 3 gp
 - **Bulk** 1

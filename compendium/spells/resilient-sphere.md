@@ -9,9 +9,9 @@ tags:
 aliases: ["Resilient Sphere"]
 ---
 # Resilient Sphere *Spell 4*   
-[abjuration](rules/traits/abjuration.md)  [force](rules/traits/force.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [occult](rules/traits/occult.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot
 - **Targets**1 Large or smaller creature

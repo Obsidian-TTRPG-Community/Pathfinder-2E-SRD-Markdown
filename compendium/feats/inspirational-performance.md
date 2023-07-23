@@ -7,7 +7,7 @@ tags:
 aliases: ["Inspirational Performance"]
 ---
 # Inspirational Performance  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Bard Dedication](compendium/feats/bard-dedication.md)
 

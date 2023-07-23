@@ -9,7 +9,7 @@ tags:
 aliases: ["Traveler's Any-tool"]
 ---
 # Traveler's Any-tool *Item 6*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 200 gp
 - **Usage** held in 2 hands; **Bulk** 1

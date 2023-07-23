@@ -7,7 +7,7 @@ tags:
 aliases: ["Fiendish Word"]
 ---
 # Fiendish Word  *Feat 17*  
-[tiefling](rules/traits/tiefling-b1.md)  
+[tiefling](rules/traits/tiefling-b1.md "Tiefling Ancestry & Heritage Trait")  
 
 
 You can call forth a blasphemous word from the fiendish realms to punish your foes. Once per day, you can cast [divine decree](compendium/spells/divine-decree.md) as a 7th-level divine innate spell. You must choose evil for the spell, and you can [Cast the Spell](rules/actions/cast-a-spell.md) regardless of whether you have a deity or what their alignment is.

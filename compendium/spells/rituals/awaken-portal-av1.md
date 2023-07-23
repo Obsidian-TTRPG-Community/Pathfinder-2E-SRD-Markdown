@@ -9,7 +9,7 @@ tags:
 aliases: ["Awaken Portal"]
 ---
 # Awaken Portal *Ritual 3*  
-[conjuration](rules/traits/conjuration.md)  [rare](rules/traits/rare.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Cast** 1 hour
 - **Secondary Casters** up to 5

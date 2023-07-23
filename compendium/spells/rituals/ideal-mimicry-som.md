@@ -10,7 +10,7 @@ tags:
 aliases: ["Ideal Mimicry"]
 ---
 # Ideal Mimicry *Ritual 6*  
-[enchantment](rules/traits/enchantment.md)  [mental](rules/traits/mental.md)  [uncommon](rules/traits/uncommon.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** 6 days
 - **Cost** crafting materials worth at least 50 gp × the target's level; a lock of hair from the target, nail clippings from the target, or a vial of blood from the target

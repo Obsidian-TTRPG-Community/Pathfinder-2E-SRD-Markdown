@@ -7,7 +7,7 @@ tags:
 aliases: ["Vivacious Bravado"]
 ---
 # Vivacious Bravado  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
-[swashbuckler](rules/traits/swashbuckler-apg.md)  
+[swashbuckler](rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  
 
 - **Requirements**: You gained panache this turn.
 - **Activity** Single Action

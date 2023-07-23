@@ -10,12 +10,12 @@ tags:
 - domain/zeal/deity
 aliases: ["Tanagaar", "The Aurulent Eye"]
 ---
-# Tanagaar (The Aurulent Eye) *([LG](rules/traits/lawful-goo-b1.md))*  
+# Tanagaar (The Aurulent Eye) *([LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 128*  
 
 - **Category**: Empyreal Lords
 - **Anathema**: abandon your post, tolerate poaching, torment animals
-- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [LN](rules/traits/lawful-neutral-b1.md)
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait")
 
 ## Devotee benefits
 

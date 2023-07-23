@@ -11,7 +11,7 @@ tags:
 aliases: ["Armor Of Bones"]
 ---
 # Armor Of Bones *Focus 3*   
-[cursebound](rules/traits/cursebound-apg.md)  [necromancy](rules/traits/necromancy.md)  [oracle](rules/traits/oracle-apg.md)  [uncommon](rules/traits/uncommon.md)  
+[cursebound](rules/traits/cursebound-apg.md "Cursebound Spell Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Mystery** Oracle
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 

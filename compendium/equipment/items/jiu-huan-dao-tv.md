@@ -9,7 +9,7 @@ tags:
 aliases: ["Jiu Huan Dao"]
 ---
 # Jiu Huan Dao *Item 0*  
-[sweep](rules/traits/sweep.md)  [uncommon](rules/traits/uncommon.md)  
+[sweep](rules/traits/sweep.md "Sweep Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 9 sp
 - **Bulk** 1

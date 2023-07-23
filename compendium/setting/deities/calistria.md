@@ -14,13 +14,13 @@ tags:
 - trait/reach-20-feet
 aliases: ["Calistria", "The Savored Sting"]
 ---
-# Calistria (The Savored Sting) *([CN](rules/traits/chaotic-neutral-b1.md))*  
+# Calistria (The Savored Sting) *([CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"))*  
 *Source: Core Rulebook p. 437*  
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: become too consumed by love or a need for revenge, let a slight go unanswered
 - **Areas of Concern**: lust, , revenge, , and trickery
-- **Follower Alignments**: [CG](rules/traits/chaotic-good-b1.md), [CN](rules/traits/chaotic-neutral-b1.md), [CE](rules/traits/chaotic-evil-b1.md)
+- **Follower Alignments**: [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
 
@@ -35,7 +35,7 @@ aliases: ["Calistria", "The Savored Sting"]
 title: [Avatar](compendium/spells/avatar.md) of Calistria
 
 - **Speed**: Speed 30 feet, fly 70 feet
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") whip ([disarm](rules/traits/disarm.md), [finesse](rules/traits/finesse.md), [nonlethal](rules/traits/nonlethal.md), [reach <20 feet>](rules/traits/reach.md)), **Damage** `6d4+6` slashing
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") whip ([disarm](rules/traits/disarm.md "Disarm Weapon Trait"), [finesse](rules/traits/finesse.md "Finesse Weapon Trait"), [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait"), [reach <20 feet>](rules/traits/reach-20-feet.md "Reach Weapon Trait")), **Damage** `6d4+6` slashing
 - **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") savored sting **Damage** `6d6+3` poison
 ```
 

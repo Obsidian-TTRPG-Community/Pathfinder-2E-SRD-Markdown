@@ -7,7 +7,7 @@ tags:
 aliases: ["Perfect Ki Grandmaster"]
 ---
 # Perfect Ki Grandmaster  *Feat 18*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: Perfect Ki Expert or Perfect Ki Exemplar
 

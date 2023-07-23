@@ -9,7 +9,7 @@ tags:
 aliases: ["Trackless"]
 ---
 # Trackless *Item 6+*  
-[abjuration](rules/traits/abjuration.md)  [magical](rules/traits/magical.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Usage** applied to footwear
 - **Category** Rune

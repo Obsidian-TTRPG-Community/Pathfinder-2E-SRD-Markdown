@@ -9,7 +9,7 @@ tags:
 aliases: ["Implement's Assault"]
 ---
 # Implement's Assault  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 18*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [thaumaturge](rules/traits/thaumaturge-da.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [thaumaturge](rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
 
 - **Requirements**: You're holding an implement.
 - **Activity** Three-Action

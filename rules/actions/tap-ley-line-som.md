@@ -8,7 +8,7 @@ tags:
 aliases: ["Tap Ley Line"]
 ---
 # Tap Ley Line (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[concentrate](rules/traits/concentrate.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
 *Source: Secrets of Magic p. 215*  
 
 **Skill** [arcana](compendium/skills.md#Arcana), [nature](compendium/skills.md#Nature), [occultism](compendium/skills.md#Occultism), [religion](compendium/skills.md#Religion) (trained)

@@ -10,7 +10,7 @@ tags:
 aliases: ["Eerie Flicker"]
 ---
 # Eerie Flicker  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 2*  
-[conjuration](rules/traits/conjuration.md)  [deviant](rules/traits/deviant-da.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [deviant](rules/traits/deviant-da.md "Deviant Action & Ability Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Trigger** A enemy's [Strike](rules/actions/strike.md) would hit you and you weren't already [concealed](rules/conditions.md#Concealed), [hidden](rules/conditions.md#Hidden), or [undetected](rules/conditions.md#Undetected) by that enemy.
 - **Activity** Reaction

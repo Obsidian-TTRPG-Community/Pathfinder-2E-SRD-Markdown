@@ -7,7 +7,7 @@ tags:
 aliases: ["Animal Companion (Druid)"]
 ---
 # Animal Companion (Druid)  *Feat 1*  
-[druid](rules/traits/druid.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  
 
 - **Prerequisites**: Animal order
 

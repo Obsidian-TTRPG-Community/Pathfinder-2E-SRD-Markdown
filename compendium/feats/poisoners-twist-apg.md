@@ -7,7 +7,7 @@ tags:
 aliases: ["Poisoner's Twist"]
 ---
 # Poisoner's Twist  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Poisoner Dedication](compendium/feats/poisoner-dedication-apg.md), trained in [Medicine](compendium/skills.md#Medicine)
 - **Requirements**: Your last action was a successful melee [Strike](rules/actions/strike.md) that dealt damage against a target that is afflicted by a poison, and you know which poison.

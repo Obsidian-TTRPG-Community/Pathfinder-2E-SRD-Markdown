@@ -10,7 +10,7 @@ tags:
 aliases: ["Deck Of Mischief"]
 ---
 # Deck Of Mischief *Item 4*  
-[illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 75 gp
 - **Usage** held in 2 hands

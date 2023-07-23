@@ -11,7 +11,7 @@ tags:
 aliases: ["Deepdread Claw"]
 ---
 # Deepdread Claw *Item 14*  
-[evocation](rules/traits/evocation.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 4000 gp
 - **Usage** held in 1 or 2 hands; **Bulk** 1
@@ -22,7 +22,7 @@ One of a set of four identical spears collectively known as the Four Claws of th
 ```ad-embed-ability
 title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 
-You establish a telepathic link with someone else wielding a deepdread claw, enabling you to telepathically communicate with the creature while they possess the deepdread claw regardless of distance, so long as you remain on the same plane. You can end a telepathic link you create or that you are part of as an action, which has the [concentrate](rules/traits/concentrate.md) trait.
+You establish a telepathic link with someone else wielding a deepdread claw, enabling you to telepathically communicate with the creature while they possess the deepdread claw regardless of distance, so long as you remain on the same plane. You can end a telepathic link you create or that you are part of as an action, which has the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") trait.
 ```
 
 ```ad-embed-ability

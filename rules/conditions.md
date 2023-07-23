@@ -54,7 +54,7 @@ Your eyes are overstimulated. If vision is your only precise sense, all creature
 ## Deafened
 _Source: Core Rulebook p. 619_
 
-You can't hear. You automatically critically fail [Perception](compendium/skills.md#Perception) checks that require you to be able to hear. You take a –2 status penalty to [Perception](compendium/skills.md#Perception) checks for initiative and checks that involve sound but also rely on other senses. If you perform an action with the [auditory](rules/traits/auditory.md) trait, you must succeed at a DC 5 flat check or the action is lost; attempt the check after spending the action but before any effects are applied. You are immune to [auditory](rules/traits/auditory.md) effects.
+You can't hear. You automatically critically fail [Perception](compendium/skills.md#Perception) checks that require you to be able to hear. You take a –2 status penalty to [Perception](compendium/skills.md#Perception) checks for initiative and checks that involve sound but also rely on other senses. If you perform an action with the [auditory](rules/traits/auditory.md "Auditory Effect Trait") trait, you must succeed at a DC 5 flat check or the action is lost; attempt the check after spending the action but before any effects are applied. You are immune to [auditory](rules/traits/auditory.md "Auditory Effect Trait") effects.
 
 ## Doomed
 _Source: Core Rulebook p. 619_
@@ -90,7 +90,7 @@ You're physically weakened. Enfeebled always includes a value. When you are enfe
 ## Fascinated
 _Source: Core Rulebook p. 619_
 
-You are compelled to focus your attention on something, distracting you from whatever else is going on around you. You take a –2 status penalty to [Perception](compendium/skills.md#Perception) and skill checks, and you can't use actions with the [concentrate](rules/traits/concentrate.md) unless they or their intended consequences are related to the subject of your fascination (as determined by the GM). For instance, you might be able to [Seek](rules/actions/seek.md) and [Recall Knowledge](rules/actions/recall-knowledge.md) about the subject, but you likely couldn't cast a spell targeting a different creature. This condition ends if a creature uses hostile actions against you or any of your allies.
+You are compelled to focus your attention on something, distracting you from whatever else is going on around you. You take a –2 status penalty to [Perception](compendium/skills.md#Perception) and skill checks, and you can't use actions with the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") unless they or their intended consequences are related to the subject of your fascination (as determined by the GM). For instance, you might be able to [Seek](rules/actions/seek.md) and [Recall Knowledge](rules/actions/recall-knowledge.md) about the subject, but you likely couldn't cast a spell targeting a different creature. This condition ends if a creature uses hostile actions against you or any of your allies.
 
 ## Fatigued
 _Source: Core Rulebook p. 620_
@@ -107,7 +107,7 @@ You're distracted or otherwise unable to focus your full attention on defense. Y
 ## Fleeing
 _Source: Core Rulebook p. 620_
 
-You're forced to run away due to fear or some other compulsion. On your turn, you must spend each of your actions trying to escape the source of the fleeing condition as expediently as possible (such as by using [move](rules/traits/move.md) actions to flee, or opening doors barring your escape). The source is usually the effect or caster that gave you the condition, though some effects might define something else as the source. You can't [Delay](rules/actions/delay.md) or [Ready](rules/actions/ready.md) while fleeing.
+You're forced to run away due to fear or some other compulsion. On your turn, you must spend each of your actions trying to escape the source of the fleeing condition as expediently as possible (such as by using [move](rules/traits/move.md "Move Combat Trait") actions to flee, or opening doors barring your escape). The source is usually the effect or caster that gave you the condition, though some effects might define something else as the source. You can't [Delay](rules/actions/delay.md) or [Ready](rules/actions/ready.md) while fleeing.
 
 ## Friendly
 _Source: Core Rulebook p. 620_
@@ -122,7 +122,7 @@ You're gripped by fear and struggle to control your nerves. The frightened condi
 ## Grabbed
 _Source: Core Rulebook p. 620_
 
-You're held in place by another creature, giving you the [flat-footed](rules/conditions.md#Flat-footed) and [immobilized](rules/conditions.md#Immobilized) conditions. If you attempt a [manipulate](rules/traits/manipulate.md) action while grabbed, you must succeed at a DC 5 flat check or it is lost; roll the check after spending the action, but before any effects are applied.
+You're held in place by another creature, giving you the [flat-footed](rules/conditions.md#Flat-footed) and [immobilized](rules/conditions.md#Immobilized) conditions. If you attempt a [manipulate](rules/traits/manipulate.md "Manipulate General Trait") action while grabbed, you must succeed at a DC 5 flat check or it is lost; roll the check after spending the action, but before any effects are applied.
 
 ## Helpful
 _Source: Core Rulebook p. 620_
@@ -144,7 +144,7 @@ This condition reflects a creature's disposition toward a particular character, 
 ## Immobilized
 _Source: Core Rulebook p. 620_
 
-You can't use any action with the [move](rules/traits/move.md) trait. If you're immobilized by something holding you in place and an external force would move you out of your space, the force must succeed at a check against either the DC of the effect holding you in place or the relevant defense (usually Fortitude DC) of the monster holding you in place.
+You can't use any action with the [move](rules/traits/move.md "Move Combat Trait") trait. If you're immobilized by something holding you in place and an external force would move you out of your space, the force must succeed at a check against either the DC of the effect holding you in place or the relevant defense (usually Fortitude DC) of the monster holding you in place.
 
 ## Indifferent
 _Source: Core Rulebook p. 620_
@@ -207,7 +207,7 @@ You have been turned to stone. You can't act, nor can you sense anything. You be
 ## Prone
 _Source: Core Rulebook p. 621_
 
-You're lying on the ground. You are [flat-footed](rules/conditions.md#Flat-footed) and take a –2 circumstance penalty to attack rolls. The only [move](rules/traits/move.md) actions you can use while you're prone are [Crawl](rules/actions/crawl.md) and [Stand](rules/actions/stand.md). Standing up ends the prone condition. You can [Take Cover](rules/actions/take-cover.md) while prone to hunker down and gain greater cover against ranged attacks, even if you don't have an object to get behind, gaining a +4 circumstance bonus to AC against ranged attacks (but you remain [flat-footed](rules/conditions.md#Flat-footed)).
+You're lying on the ground. You are [flat-footed](rules/conditions.md#Flat-footed) and take a –2 circumstance penalty to attack rolls. The only [move](rules/traits/move.md "Move Combat Trait") actions you can use while you're prone are [Crawl](rules/actions/crawl.md) and [Stand](rules/actions/stand.md). Standing up ends the prone condition. You can [Take Cover](rules/actions/take-cover.md) while prone to hunker down and gain greater cover against ranged attacks, even if you don't have an object to get behind, gaining a +4 circumstance bonus to AC against ranged attacks (but you remain [flat-footed](rules/conditions.md#Flat-footed)).
 
 If you would be knocked prone while you're [Climbing](rules/actions/climb.md) or [Flying](rules/actions/fly.md), you fall (see pages 463–464 for the rules on falling). You can't be knocked prone when [Swimming](rules/actions/swim.md).
 
@@ -219,7 +219,7 @@ You gain 1 additional action at the start of your turn each round. Many effects 
 ## Restrained
 _Source: Core Rulebook p. 622_
 
-You're tied up and can barely move, or a creature has you pinned. You have the [flat-footed](rules/conditions.md#Flat-footed) and [immobilized](rules/conditions.md#Immobilized) conditions, and you can't use any actions with the [attack](rules/traits/attack.md) or [manipulate](rules/traits/manipulate.md) traits except to attempt to [Escape](rules/actions/escape.md) or [Force Open](rules/actions/force-open.md) your bonds. [Restrained](rules/conditions.md#Restrained) overrides grabbed.
+You're tied up and can barely move, or a creature has you pinned. You have the [flat-footed](rules/conditions.md#Flat-footed) and [immobilized](rules/conditions.md#Immobilized) conditions, and you can't use any actions with the [attack](rules/traits/attack.md "Attack Combat Trait") or [manipulate](rules/traits/manipulate.md "Manipulate General Trait") traits except to attempt to [Escape](rules/actions/escape.md) or [Force Open](rules/actions/force-open.md) your bonds. [Restrained](rules/conditions.md#Restrained) overrides grabbed.
 
 ## Sickened
 _Source: Core Rulebook p. 622_

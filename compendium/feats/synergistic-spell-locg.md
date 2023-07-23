@@ -8,7 +8,7 @@ tags:
 aliases: ["Synergistic Spell"]
 ---
 # Synergistic Spell  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 20*  
-[archetype](rules/traits/archetype.md)  [metamagic](rules/traits/metamagic.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 - **Prerequisites**: [Halcyon Spellcasting Initiate](compendium/feats/halcyon-spellcasting-initiate-locg.md), [Fulminating Synergy](compendium/feats/fulminating-synergy-locg.md), legendary in [Arcana](compendium/skills.md#Arcana) and [Nature](compendium/skills.md#Nature)
 - **Activity** Single Action

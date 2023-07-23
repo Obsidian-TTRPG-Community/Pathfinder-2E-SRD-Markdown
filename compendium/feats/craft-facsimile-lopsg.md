@@ -8,7 +8,7 @@ tags:
 aliases: ["Craft Facsimile"]
 ---
 # Craft Facsimile  *Feat 6*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: expert in [Crafting](compendium/skills.md#Crafting), [Pathfinder Agent Dedication](compendium/feats/pathfinder-agent-dedication-lowg.md)
 

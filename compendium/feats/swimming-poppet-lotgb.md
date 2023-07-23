@@ -7,7 +7,7 @@ tags:
 aliases: ["Swimming Poppet"]
 ---
 # Swimming Poppet  *Feat 5*  
-[poppet](rules/traits/poppet-lotgb.md)  
+[poppet](rules/traits/poppet-lotgb.md "Poppet Ancestry & Heritage Trait")  
 
 
 Your fins, flippers, or other accessories assist with steering you through water. You gain a swim Speed of 15 feet.

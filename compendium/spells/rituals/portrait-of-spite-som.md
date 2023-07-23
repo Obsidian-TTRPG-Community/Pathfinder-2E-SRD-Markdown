@@ -10,7 +10,7 @@ tags:
 aliases: ["Portrait Of Spite"]
 ---
 # Portrait Of Spite *Ritual 5*  
-[curse](rules/traits/curse.md)  [necromancy](rules/traits/necromancy.md)  [uncommon](rules/traits/uncommon.md)  
+[curse](rules/traits/curse.md "Curse Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** 7 days
 - **Cost** splendid art supplies worth at least 100 gp × the target's level, at least one pint of blood from the target

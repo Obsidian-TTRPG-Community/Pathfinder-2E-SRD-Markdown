@@ -7,10 +7,10 @@ tags:
 aliases: ["Spine Stabber"]
 ---
 # Spine Stabber  *Feat 1*  
-[shisk](rules/traits/shisk-lome.md)  
+[shisk](rules/traits/shisk-lome.md "Shisk Ancestry & Heritage Trait")  
 
 
-The quills on your arms are particularly sharp and sturdy. You gain a quills unarmed attack that deals `1d6` piercing damage. Your quills are in the knife weapon group and have the [finesse](rules/traits/finesse.md) and [unarmed](rules/traits/unarmed.md) traits.
+The quills on your arms are particularly sharp and sturdy. You gain a quills unarmed attack that deals `1d6` piercing damage. Your quills are in the knife weapon group and have the [finesse](rules/traits/finesse.md "Finesse Weapon Trait") and [unarmed](rules/traits/unarmed.md "Unarmed Weapon Trait") traits.
 
 ## Spine Stabber leads to...
 

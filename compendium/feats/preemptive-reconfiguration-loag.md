@@ -7,7 +7,7 @@ tags:
 aliases: ["Preemptive Reconfiguration"]
 ---
 # Preemptive Reconfiguration  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 9*  
-[aphorite](rules/traits/aphorite-loag.md)  
+[aphorite](rules/traits/aphorite-loag.md "Aphorite Ancestry & Heritage Trait")  
 
 - **Frequency**: once per day
 - **Trigger** You would take bludgeoning, piercing, or slashing damage.

@@ -7,7 +7,7 @@ tags:
 aliases: ["Daring Flourish"]
 ---
 # Daring Flourish  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Daring Act](compendium/feats/daring-act-locg.md)
 

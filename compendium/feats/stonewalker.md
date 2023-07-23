@@ -7,7 +7,7 @@ tags:
 aliases: ["Stonewalker"]
 ---
 # Stonewalker  *Feat 9*  
-[dwarf](rules/traits/dwarf.md)  
+[dwarf](rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  
 
 
 You have a deep reverence for and connection to stone. You gain [meld into stone](compendium/spells/meld-into-stone.md) as a 3rd-level divine innate spell that you can cast once per day.

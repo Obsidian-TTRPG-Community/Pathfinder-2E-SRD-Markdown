@@ -11,7 +11,7 @@ tags:
 aliases: ["Tri-bladed Katar"]
 ---
 # Tri-bladed Katar *Item 0*  
-[disarm](rules/traits/disarm.md)  [fatal <d8>](rules/traits/fatal.md)  [monk](rules/traits/monk.md)  [uncommon](rules/traits/uncommon.md)  
+[disarm](rules/traits/disarm.md "Disarm Weapon Trait")  [fatal <d8>](rules/traits/fatal-d8.md "Fatal Weapon Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 8 sp
 - **Bulk** L

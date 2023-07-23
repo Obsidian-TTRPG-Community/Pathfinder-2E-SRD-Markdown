@@ -11,7 +11,7 @@ tags:
 aliases: ["Hunter's Arrowhead"]
 ---
 # Hunter's Arrowhead *Item 4*  
-[enchantment](rules/traits/enchantment.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 80 gp
 - **Usage** worn; **Bulk** —

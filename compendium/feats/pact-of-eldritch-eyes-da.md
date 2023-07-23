@@ -10,7 +10,7 @@ tags:
 aliases: ["Pact of Eldritch Eyes"]
 ---
 # Pact of Eldritch Eyes  *Feat 14*  
-[archetype](rules/traits/archetype.md)  [divination](rules/traits/divination.md)  [occult](rules/traits/occult.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Pactbinder Dedication](compendium/feats/pactbinder-dedication-da.md)
 

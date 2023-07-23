@@ -8,7 +8,7 @@ tags:
 aliases: ["Resounding Blow"]
 ---
 # Resounding Blow  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 10*  
-[barbarian](rules/traits/barbarian.md)  [rage](rules/traits/rage.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [rage](rules/traits/rage.md "Rage Combat Trait")  
 
 - **Requirements**: You are wielding a melee weapon that deals bludgeoning damage.
 - **Activity** Two-Action

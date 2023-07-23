@@ -7,7 +7,7 @@ tags:
 aliases: ["Triumphant Inspiration"]
 ---
 # Triumphant Inspiration  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 14*  
-[bard](rules/traits/bard.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  
 
 - **Prerequisites**: warrior muse
 - **Trigger** You critically hit a foe with a melee weapon [Strike](rules/actions/strike.md) or a melee unarmed attack.

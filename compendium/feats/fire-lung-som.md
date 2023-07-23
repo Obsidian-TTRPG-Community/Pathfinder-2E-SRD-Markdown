@@ -7,7 +7,7 @@ tags:
 aliases: ["Fire Lung"]
 ---
 # Fire Lung  *Feat 1*  
-[druid](rules/traits/druid.md)  
+[druid](rules/traits/druid.md "Druid Class Trait")  
 
 - **Prerequisites**: flame order
 

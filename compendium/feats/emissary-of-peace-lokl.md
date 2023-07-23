@@ -8,7 +8,7 @@ tags:
 aliases: ["Emissary of Peace"]
 ---
 # Emissary of Peace  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 10*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Knight Vigilant Dedication](compendium/feats/knight-vigilant-dedication-locg.md), master in [Diplomacy](compendium/skills.md#Diplomacy)
 - **Activity** Three-Action

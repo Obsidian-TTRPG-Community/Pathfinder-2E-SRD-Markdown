@@ -8,7 +8,7 @@ tags:
 aliases: ["Magical Understudy"]
 ---
 # Magical Understudy  *Feat 2*  
-[evolution](rules/traits/evolution-som.md)  [summoner](rules/traits/summoner-som.md)  
+[evolution](rules/traits/evolution-som.md "Evolution Feat Trait")  [summoner](rules/traits/summoner-som.md "Summoner Class Trait")  
 
 
 Your eidolon evolves to cast spells. It gains the [Cast a Spell](rules/actions/cast-a-spell.md) activity and learns two cantrips of its tradition, which it can cast as innate spells.

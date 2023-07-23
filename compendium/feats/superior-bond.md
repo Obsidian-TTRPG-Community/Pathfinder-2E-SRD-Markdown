@@ -7,7 +7,7 @@ tags:
 aliases: ["Superior Bond"]
 ---
 # Superior Bond  *Feat 14*  
-[wizard](rules/traits/wizard.md)  
+[wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Prerequisites**: arcane bond
 

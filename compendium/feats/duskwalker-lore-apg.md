@@ -7,7 +7,7 @@ tags:
 aliases: ["Duskwalker Lore"]
 ---
 # Duskwalker Lore  *Feat 1*  
-[duskwalker](rules/traits/duskwalker-apg.md)  
+[duskwalker](rules/traits/duskwalker-apg.md "Duskwalker Ancestry & Heritage Trait")  
 
 
 You either found another duskwalker who taught you the secrets of your kind, or you managed to research your unusual heritage. You gain the trained proficiency rank in [Medicine](compendium/skills.md#Medicine) and [Religion](compendium/skills.md#Religion). If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in [Boneyard Lore](compendium/skills.md#Lore).

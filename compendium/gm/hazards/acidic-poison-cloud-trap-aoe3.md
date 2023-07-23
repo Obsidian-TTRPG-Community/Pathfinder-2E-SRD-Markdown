@@ -10,7 +10,7 @@ tags:
 aliases: ["Acidic Poison Cloud Trap"]
 ---
 # Acidic Poison Cloud Trap *Hazard 13*  
-[alchemical](rules/traits/alchemical.md)  [complex](rules/traits/complex.md)  [mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +30 master  

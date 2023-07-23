@@ -7,7 +7,7 @@ tags:
 aliases: ["Spellmaster's Resilience"]
 ---
 # Spellmaster's Resilience  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spellmaster Dedication](compendium/feats/spellmaster-dedication-locg.md)
 

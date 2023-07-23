@@ -10,9 +10,9 @@ tags:
 aliases: ["Impeccable Flow"]
 ---
 # Impeccable Flow *Spell 2*   
-[divination](rules/traits/divination.md)  [lawful](rules/traits/lawful.md)  [uncommon](rules/traits/uncommon.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [lawful](rules/traits/lawful.md "Lawful Alignment Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md), [divine](rules/traits/divine.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Duration**1 minute
 

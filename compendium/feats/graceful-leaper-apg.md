@@ -8,7 +8,7 @@ tags:
 aliases: ["Graceful Leaper"]
 ---
 # Graceful Leaper  *Feat 7*  
-[archetype](rules/traits/archetype.md)  [skill](rules/traits/skill.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Acrobat Dedication](compendium/feats/acrobat-dedication-apg.md), master in [Acrobatics](compendium/skills.md#Acrobatics)
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Beastmaster's Trance"]
 ---
 # Beastmaster's Trance  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Beastmaster Dedication](compendium/feats/beastmaster-dedication-apg.md)
 

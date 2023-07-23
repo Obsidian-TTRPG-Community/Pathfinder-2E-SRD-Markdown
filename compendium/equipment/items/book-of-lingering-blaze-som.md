@@ -10,7 +10,7 @@ tags:
 aliases: ["Book Of Lingering Blaze"]
 ---
 # Book Of Lingering Blaze *Item 10*  
-[evocation](rules/traits/evocation.md)  [grimoire](rules/traits/grimoire-som.md)  [magical](rules/traits/magical.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [grimoire](rules/traits/grimoire-som.md "Grimoire Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 900 gp
 - **Bulk** L
@@ -20,7 +20,7 @@ The common saying, "Where there is progress in the field of magic, there is alwa
 
 ```ad-embed-ability
 title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[metamagic](rules/traits/metamagic.md)  
+[metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 If your next action is to cast an evocation spell dealing fire damage that you prepared from this grimoire, you superheat the flames, allowing the spell to ignore up to 10 resistance to fire of creatures affected by the spell.  
 %% #trait/metamagic %%

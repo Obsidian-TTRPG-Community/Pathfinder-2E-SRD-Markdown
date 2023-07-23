@@ -11,7 +11,7 @@ tags:
 aliases: ["Vision Of Dahak"]
 ---
 # Vision Of Dahak *Hazard 8*  
-[complex](rules/traits/complex.md)  [fire](rules/traits/fire.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  [trap](rules/traits/trap.md)  
+[complex](rules/traits/complex.md "Complex Hazard Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +16 expert  
@@ -22,7 +22,7 @@ Blasts of fire and smoke pour out of the tunnel walls to coalesce into the burni
 
 - **AC** 27 , **Fort** +17, **Ref** +13
 - **HP** 130
-- **Immunities** critical hits; [fire](rules/traits/fire.md); object immunities; precision damage
+- **Immunities** critical hits; [fire](rules/traits/fire.md "Fire Energy & Element Trait"); object immunities; precision damage
 - **Resistances** 
 - **Weaknesses** cold 10
      
@@ -40,7 +40,7 @@ title: Routine
 
 ```ad-embed-ability
 title: Breath Weapon [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
-[divine](rules/traits/divine.md)  [evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  
+[divine](rules/traits/divine.md "Divine Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  
 
 The vision of [Dahak](compendium/setting/deities/dahak-logm.md) unleashes a blast of fire from its burning maw, creating a 60-foot cone that deals `6d6` fire damage to all creatures within (DC 26 basic Reflex save).  
 %% #trait/divine #trait/evocation #trait/fire %%

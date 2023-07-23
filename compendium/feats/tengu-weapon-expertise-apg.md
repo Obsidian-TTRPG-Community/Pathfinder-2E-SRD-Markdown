@@ -7,7 +7,7 @@ tags:
 aliases: ["Tengu Weapon Expertise"]
 ---
 # Tengu Weapon Expertise  *Feat 13*  
-[tengu](rules/traits/tengu-b1.md)  
+[tengu](rules/traits/tengu-b1.md "Tengu Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Tengu Weapon Familiarity](compendium/feats/tengu-weapon-familiarity-apg.md)
 

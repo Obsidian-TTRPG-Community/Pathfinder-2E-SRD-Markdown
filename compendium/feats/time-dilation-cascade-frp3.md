@@ -9,7 +9,7 @@ tags:
 aliases: ["Time Dilation Cascade"]
 ---
 # Time Dilation Cascade  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 20*  
-[flourish](rules/traits/flourish.md)  [ranger](rules/traits/ranger.md)  [uncommon](rules/traits/uncommon.md)  
+[flourish](rules/traits/flourish.md "Flourish Combat Trait")  [ranger](rules/traits/ranger.md "Ranger Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Activity** Three-Action
 

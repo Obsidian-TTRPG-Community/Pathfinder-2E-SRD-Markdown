@@ -7,7 +7,7 @@ tags:
 aliases: ["Fast Movement"]
 ---
 # Fast Movement  *Feat 4*  
-[barbarian](rules/traits/barbarian.md)  
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  
 
 
 Your rage is a frenzy of rapid movements. While you are raging, you gain a +10-foot status bonus to your Speed.

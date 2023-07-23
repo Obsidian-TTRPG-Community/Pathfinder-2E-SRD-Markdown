@@ -13,7 +13,7 @@ tags:
 aliases: ["Skinsaw Mask"]
 ---
 # Skinsaw Mask *Item 3*  
-[divination](rules/traits/divination.md)  [divine](rules/traits/divine.md)  [evil](rules/traits/evil.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [evil](rules/traits/evil.md "Evil Alignment Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 30 gp
 - **Usage** worn mask; **Bulk** L

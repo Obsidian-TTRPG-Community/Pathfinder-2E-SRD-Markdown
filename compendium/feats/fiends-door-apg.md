@@ -7,7 +7,7 @@ tags:
 aliases: ["Fiend's Door"]
 ---
 # Fiend's Door  *Feat 13*  
-[tiefling](rules/traits/tiefling-b1.md)  
+[tiefling](rules/traits/tiefling-b1.md "Tiefling Ancestry & Heritage Trait")  
 
 
 Like many fiends, you have the supernatural ability to teleport yourself to safety. Once per day, you can cast [dimension door](compendium/spells/dimension-door.md) as a 5th-level divine innate spell.

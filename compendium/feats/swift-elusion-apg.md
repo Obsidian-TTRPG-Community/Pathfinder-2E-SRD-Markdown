@@ -7,7 +7,7 @@ tags:
 aliases: ["Swift Elusion"]
 ---
 # Swift Elusion  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 16*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Prerequisites**: legendary in [Acrobatics](compendium/skills.md#Acrobatics)
 - **Trigger** A foe ends its movement adjacent to you.

@@ -7,7 +7,7 @@ tags:
 aliases: ["Viking Weapon Familiarity"]
 ---
 # Viking Weapon Familiarity  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Viking Dedication](compendium/feats/viking-dedication-apg.md)
 

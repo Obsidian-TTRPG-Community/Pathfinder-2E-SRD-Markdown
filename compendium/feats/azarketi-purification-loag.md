@@ -7,7 +7,7 @@ tags:
 aliases: ["Azarketi Purification"]
 ---
 # Azarketi Purification  *Feat 9*  
-[azarketi](rules/traits/azarketi-loag.md)  
+[azarketi](rules/traits/azarketi-loag.md "Azarketi Ancestry & Heritage Trait")  
 
 
 You can cast [purify food and drink](compendium/spells/purify-food-and-drink.md) as a primal innate spell, but only on liquids.

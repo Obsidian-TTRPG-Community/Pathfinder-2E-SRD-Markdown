@@ -9,7 +9,7 @@ tags:
 aliases: ["Cast Down"]
 ---
 # Cast Down  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[cleric](rules/traits/cleric.md)  [concentrate](rules/traits/concentrate.md)  [metamagic](rules/traits/metamagic.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 - **Prerequisites**: harmful font or healing font
 - **Activity** Single Action

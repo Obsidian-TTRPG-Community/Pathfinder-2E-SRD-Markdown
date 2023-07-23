@@ -7,7 +7,7 @@ tags:
 aliases: ["Cling"]
 ---
 # Cling  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 9*  
-[goblin](rules/traits/goblin.md)  
+[goblin](rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  
 
 - **Requirements**: Your last action was a successful [Strike](rules/actions/strike.md).
 - **Activity** Single Action

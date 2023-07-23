@@ -7,7 +7,7 @@ tags:
 aliases: ["Companion's Cry"]
 ---
 # Companion's Cry  *Feat 4*  
-[ranger](rules/traits/ranger.md)  
+[ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: an animal companion
 

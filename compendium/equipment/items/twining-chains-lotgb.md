@@ -9,7 +9,7 @@ tags:
 aliases: ["Twining Chains"]
 ---
 # Twining Chains *Item 1*  
-[adjustment](rules/traits/adjustment-lotgb.md)  [uncommon](rules/traits/uncommon.md)  
+[adjustment](rules/traits/adjustment-lotgb.md "Adjustment  Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 5 gp
 - **Usage** applied to armor; **Bulk** 1

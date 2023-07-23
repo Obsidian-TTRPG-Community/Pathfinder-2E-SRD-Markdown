@@ -7,7 +7,7 @@ tags:
 aliases: ["Shield Of Grace"]
 ---
 # Shield Of Grace  *Feat 16*  
-[champion](rules/traits/champion.md)  
+[champion](rules/traits/champion.md "Champion Class Trait")  
 
 - **Prerequisites**: [Shield Warden](compendium/feats/shield-warden-champion.md)
 

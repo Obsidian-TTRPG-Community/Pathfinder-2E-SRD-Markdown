@@ -7,7 +7,7 @@ tags:
 aliases: ["Basic Scroll Cache"]
 ---
 # Basic Scroll Cache  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Scroll Trickster Dedication](compendium/feats/scroll-trickster-dedication-apg.md)
 

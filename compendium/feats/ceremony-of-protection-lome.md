@@ -8,7 +8,7 @@ tags:
 aliases: ["Ceremony Of Protection"]
 ---
 # Ceremony Of Protection  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
-[conrasu](rules/traits/conrasu-loag.md)  [manipulate](rules/traits/manipulate.md)  
+[conrasu](rules/traits/conrasu-loag.md "Conrasu Ancestry & Heritage Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 
 - **Activity** Single Action
 

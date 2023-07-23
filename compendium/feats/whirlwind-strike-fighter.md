@@ -9,7 +9,7 @@ tags:
 aliases: ["Whirlwind Strike (Fighter)"]
 ---
 # Whirlwind Strike (Fighter)  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 14*  
-[fighter](rules/traits/fighter.md)  [flourish](rules/traits/flourish.md)  [open](rules/traits/open.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  [open](rules/traits/open.md "Open Combat Trait")  
 
 - **Activity** Three-Action
 

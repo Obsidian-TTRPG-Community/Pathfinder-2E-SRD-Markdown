@@ -10,9 +10,9 @@ tags:
 aliases: ["Ghoulish Cravings"]
 ---
 # Ghoulish Cravings *Spell 2*   
-[disease](rules/traits/disease.md)  [evil](rules/traits/evil.md)  [necromancy](rules/traits/necromancy.md)  
+[disease](rules/traits/disease.md "Disease Effect Trait")  [evil](rules/traits/evil.md "Evil Alignment Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md), [occult](rules/traits/occult.md)
+- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**touch
 - **Targets**1 creature
@@ -29,7 +29,7 @@ You touch the target to afflict it with ghoul fever, infesting it with hunger an
 ```ad-inline-affliction
 title: Ghoul Fever _Level 3_
 
-[disease](rules/traits/disease.md)  
+[disease](rules/traits/disease.md "Disease Effect Trait")  
 
 ## Stages
 
@@ -46,7 +46,7 @@ title: Ghoul Fever _Level 3_
 **Stage 6** the creature dies and rises as a ghoul at the next midnight
 
 
-%% #trait/disease #affliction/level/level-3 %%
+%% #affliction/level/level-3 #trait/disease %%
 ```
 
 ## Summary

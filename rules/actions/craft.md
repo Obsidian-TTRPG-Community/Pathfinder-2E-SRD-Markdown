@@ -9,7 +9,7 @@ tags:
 aliases: ["Craft"]
 ---
 # Craft (basic)
-[downtime](rules/traits/downtime.md)  [manipulate](rules/traits/manipulate.md)  
+[downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 *Source: Core Rulebook p. 244*  
 
 **Skill** [crafting](compendium/skills.md#Crafting) (trained)
@@ -35,7 +35,7 @@ If your attempt to create the item is successful, you expend the raw materials y
 
 > [!pf2-example] Consumables and Ammunition
 > 
-> You can Craft items with the [consumable](rules/traits/consumable.md) trait in batches, making up to four of the same item at once with a single check. This requires you to include the raw materials for all the items in the batch at the start, and you must complete the batch all at once. You also [Craft](rules/actions/craft.md) non-magical ammunition in batches, using the quantity listed in [Table 6–8: Ranged Weapons](rules/tables/ranged-weapons.md) (typically 10).
+> You can Craft items with the [consumable](rules/traits/consumable.md "Consumable Item Trait") trait in batches, making up to four of the same item at once with a single check. This requires you to include the raw materials for all the items in the batch at the start, and you must complete the batch all at once. You also [Craft](rules/actions/craft.md) non-magical ammunition in batches, using the quantity listed in [Table 6–8: Ranged Weapons](rules/tables/ranged-weapons.md) (typically 10).
 
 > [!pf2-example] Getting Formulas
 > 

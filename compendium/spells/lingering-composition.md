@@ -11,7 +11,7 @@ tags:
 aliases: ["Lingering Composition"]
 ---
 # Lingering Composition *Focus 1*   
-[bard](rules/traits/bard.md)  [enchantment](rules/traits/enchantment.md)  [metamagic](rules/traits/metamagic.md)  [uncommon](rules/traits/uncommon.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") 
 

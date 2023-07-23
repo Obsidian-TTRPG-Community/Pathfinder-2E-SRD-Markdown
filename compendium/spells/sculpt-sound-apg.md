@@ -8,9 +8,9 @@ tags:
 aliases: ["Sculpt Sound"]
 ---
 # Sculpt Sound *Spell 3*   
-[illusion](rules/traits/illusion.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  
 
-- **Traditions**: [occult](rules/traits/occult.md)
+- **Traditions**: [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**touch
 - **Targets**1 creature or object
@@ -18,7 +18,7 @@ aliases: ["Sculpt Sound"]
 
 You change the sounds made by a creature or object. Choose how you're altering the sounds when you [Cast the Spell](rules/actions/cast-a-spell.md); you can't alter it later. You can cause something that didn't create a sound to make sound, alter the voice of a creature, amplify or deaden a sound, or transform one sound into another. A creature who succeeds at a [Perception](compendium/skills.md#Perception) check against your spell DC can determine that the sound was altered by an illusion, including hearing faint sounds if you deadened the sound, but they can't determine the true sound unless they critically succeed at the [Perception](compendium/skills.md#Perception) check. You can [Dismiss](rules/actions/dismiss.md) the spell.
 
-Because this spell obscures sound instead of preventing it, using the spell to quiet a creature doesn't prevent that creature from using verbal spell components, though it does prevent most [auditory](rules/traits/auditory.md) effects that rely on another creature hearing them accurately. An unwilling target can attempt a Will save.
+Because this spell obscures sound instead of preventing it, using the spell to quiet a creature doesn't prevent that creature from using verbal spell components, though it does prevent most [auditory](rules/traits/auditory.md "Auditory Effect Trait") effects that rely on another creature hearing them accurately. An unwilling target can attempt a Will save.
 
 > [!success-degree] 
 > - **Success** The affected sound from the creature isn't altered.

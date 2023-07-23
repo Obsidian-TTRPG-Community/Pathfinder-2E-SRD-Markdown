@@ -7,7 +7,7 @@ tags:
 aliases: ["Reactive Charm"]
 ---
 # Reactive Charm  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Captivator Dedication](compendium/feats/captivator-dedication-lotgb.md)
 - **Frequency**: once per day

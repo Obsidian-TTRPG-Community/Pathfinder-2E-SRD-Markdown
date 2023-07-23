@@ -9,7 +9,7 @@ tags:
 aliases: ["Hunt Prey", "Mark Prey"]
 ---
 # Hunt Prey [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[concentrate](rules/traits/concentrate.md)  [ranger](rules/traits/ranger.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [ranger](rules/traits/ranger.md "Ranger Class Trait")  
 *Source: Core Rulebook p. 168*  
 
 **Class** ranger

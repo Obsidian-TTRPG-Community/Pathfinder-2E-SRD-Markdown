@@ -10,7 +10,7 @@ tags:
 aliases: ["Awaken Object"]
 ---
 # Awaken Object *Ritual 6*  
-[divination](rules/traits/divination.md)  [mental](rules/traits/mental.md)  [uncommon](rules/traits/uncommon.md)  
+[divination](rules/traits/divination.md "Divination School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** 1 day
 - **Cost** crushed gems and spices worth 250 gp

@@ -8,7 +8,7 @@ tags:
 aliases: ["Purge Sins"]
 ---
 # Purge Sins  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 13*  
-[aasimar](rules/traits/aasimar-apg.md)  [healing](rules/traits/healing.md)  
+[aasimar](rules/traits/aasimar-apg.md "Aasimar Ancestry & Heritage Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  
 
 - **Frequency**: once per day
 - **Activity** Single Action

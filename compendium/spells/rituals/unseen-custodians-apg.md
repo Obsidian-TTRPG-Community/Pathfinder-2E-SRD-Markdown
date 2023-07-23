@@ -10,7 +10,7 @@ tags:
 aliases: ["Unseen Custodians"]
 ---
 # Unseen Custodians *Ritual 2*  
-[conjuration](rules/traits/conjuration.md)  [uncommon](rules/traits/uncommon.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** 1 day
 - **Cost** rare oils, salts, and herbs worth a total value of 15 gp
@@ -22,7 +22,7 @@ aliases: ["Unseen Custodians"]
 You create a site-bound, long-lasting [unseen servant](compendium/spells/unseen-servant.md) spell effect, forming entities of pure force to carry out basic tasks at a fixed location.
 
 > [!success-degree] 
-> - **Critical Success** The ritual creates six unseen servant. You don't need to concentrate on them, and they aren't [summoned](rules/traits/summoned.md) [minions](rules/traits/minion.md). You can spend an action, which has the [concentrate](rules/traits/concentrate.md) trait, to command one to perform a basic task; it continues to perform the task until commanded again.
+> - **Critical Success** The ritual creates six unseen servant. You don't need to concentrate on them, and they aren't [summoned](rules/traits/summoned.md "Summoned Creature Trait") [minions](rules/traits/minions.md "Minion Creature Trait"). You can spend an action, which has the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") trait, to command one to perform a basic task; it continues to perform the task until commanded again.
 > - **Success** As critical success, but the ritual creates three unseen servants.
 > - **Failure** The ritual fails to create any servants.
 > - **Critical Failure** The ritual creates six unseen servants, but these creatures are [hostile](rules/conditions.md#Hostile) and capable of making fist [Strikes](rules/actions/strike.md) with an attack bonus equal to your skill modifier for the primary skill check, dealing `1d6` force damage. They attack you and your allies and attempt to break objects belonging to you and your allies within the area.

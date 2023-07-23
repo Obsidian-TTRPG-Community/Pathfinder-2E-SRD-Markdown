@@ -10,7 +10,7 @@ tags:
 aliases: ["Pact of Draconic Fury"]
 ---
 # Pact of Draconic Fury  *Feat 6*  
-[arcane](rules/traits/arcane.md)  [archetype](rules/traits/archetype.md)  [evocation](rules/traits/evocation.md)  [uncommon](rules/traits/uncommon.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Pactbinder Dedication](compendium/feats/pactbinder-dedication-da.md)
 

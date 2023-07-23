@@ -8,7 +8,7 @@ tags:
 aliases: ["Wrenchgear"]
 ---
 # Wrenchgear *Item 3*  
-[uncommon](rules/traits/uncommon.md)  
+[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 50 gp
 - **Usage** held in 1 hand; **Bulk** L

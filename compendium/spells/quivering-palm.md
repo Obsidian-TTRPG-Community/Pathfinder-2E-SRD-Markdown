@@ -11,13 +11,13 @@ tags:
 aliases: ["Quivering Palm"]
 ---
 # Quivering Palm *Focus 8*   
-[incapacitation](rules/traits/incapacitation.md)  [monk](rules/traits/monk.md)  [necromancy](rules/traits/necromancy.md)  [uncommon](rules/traits/uncommon.md)  
+[incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Saving Throw** Fortitude
 - **Duration**1 month
 
-Make a melee unarmed [Strike](rules/actions/strike.md). If you hit and the target is alive, anytime during the duration, you can spend a single action, which has the [auditory](rules/traits/auditory.md) and [concentrate](rules/traits/concentrate.md) traits, to speak a word of death that could instantly slay it. The target must attempt a Fortitude save.
+Make a melee unarmed [Strike](rules/actions/strike.md). If you hit and the target is alive, anytime during the duration, you can spend a single action, which has the [auditory](rules/traits/auditory.md "Auditory Effect Trait") and [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") traits, to speak a word of death that could instantly slay it. The target must attempt a Fortitude save.
 
 > [!success-degree] 
 > - **Critical Success** The target survives, the spell ends, and the target is then temporarily immune for 24 hours.

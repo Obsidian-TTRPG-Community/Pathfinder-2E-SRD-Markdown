@@ -10,12 +10,12 @@ tags:
 - domain/trickery/deity
 aliases: ["The Lantern King", "The Laughing Lie"]
 ---
-# The Lantern King (The Laughing Lie) *([CN](rules/traits/chaotic-neutral-b1.md))*  
+# The Lantern King (The Laughing Lie) *([CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 78*  
 
 - **Category**: Eldest
 - **Anathema**: be completely honest, ruin or explain a good joke
-- **Follower Alignments**: [CN](rules/traits/chaotic-neutral-b1.md), [CE](rules/traits/chaotic-evil-b1.md)
+- **Follower Alignments**: [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
 

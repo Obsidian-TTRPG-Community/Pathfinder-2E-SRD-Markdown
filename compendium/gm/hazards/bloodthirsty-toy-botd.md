@@ -7,7 +7,7 @@ tags:
 aliases: ["Bloodthirsty Toy"]
 ---
 # Bloodthirsty Toy *Hazard 2*  
-[haunt](rules/traits/haunt.md)  
+[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 17 trained to hear a child imitate an animal's roar  

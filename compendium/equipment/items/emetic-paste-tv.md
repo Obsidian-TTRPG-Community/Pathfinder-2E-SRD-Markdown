@@ -10,7 +10,7 @@ tags:
 aliases: ["Emetic Paste"]
 ---
 # Emetic Paste *Item 2+*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [healing](rules/traits/healing.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  
 
 - **Price** 5 gp
 - **Usage** held in 1 hand; **Bulk** L

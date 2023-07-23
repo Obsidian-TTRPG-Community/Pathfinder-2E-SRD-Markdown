@@ -9,7 +9,7 @@ aliases: ["Arcane"]
 # Arcane  
 *Source: Core Rulebook p. 628*  
 
-This magic comes from the arcane tradition, which is built on logic and rationality. Anything with this trait is [magical](rules/traits/magical.md).
+This magic comes from the arcane tradition, which is built on logic and rationality. Anything with this trait is [magical](rules/traits/magical.md "Magical Item Trait").
 
 A creature with this trait is primarily constituted of or has a strong connection to arcane magic.
 

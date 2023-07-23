@@ -11,7 +11,7 @@ tags:
 aliases: ["Hunter's Dawn"]
 ---
 # Hunter's Dawn *Item 23*  
-[arcane](rules/traits/arcane.md)  [artifact](rules/traits/artifact-gmg.md)  [enchantment](rules/traits/enchantment.md)  [unique](rules/traits/unique.md)  
+[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Artifact

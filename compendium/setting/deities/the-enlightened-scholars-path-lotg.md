@@ -12,13 +12,13 @@ tags:
 - domain/protection/deity
 aliases: ["The Enlightened Scholar's Path"]
 ---
-# The Enlightened Scholar's Path *([NG](rules/traits/neutral-good-b1.md))*  
+# The Enlightened Scholar's Path *([NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"))*  
 *Source: Lost Omens: Travel Guide p. 92*  
 
 - **Category**: Pantheon
 - **Anathema**: destroy books or monuments, keep silent when faced with false information, refuse to share knowledge
 - **Areas of Concern**: academies, , professors, , scholars, , transmission and accuracy of learned knowledge
-- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [LN](rules/traits/lawful-neutral-b1.md), [NG](rules/traits/neutral-good-b1.md), [N](rules/traits/neutral-b1.md)
+- **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait")
 
 ## Devotee benefits
 

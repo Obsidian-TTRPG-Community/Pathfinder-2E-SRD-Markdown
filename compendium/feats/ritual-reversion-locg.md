@@ -10,7 +10,7 @@ tags:
 aliases: ["Ritual Reversion"]
 ---
 # Ritual Reversion  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 5*  
-[leshy](rules/traits/leshy-b1.md)  [polymorph](rules/traits/polymorph.md)  [primal](rules/traits/primal.md)  [transmutation](rules/traits/transmutation.md)  
+[leshy](rules/traits/leshy-b1.md "Leshy Ancestry & Heritage Trait")  [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Activity** Two-Action
 

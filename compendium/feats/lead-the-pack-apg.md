@@ -8,7 +8,7 @@ tags:
 aliases: ["Lead The Pack"]
 ---
 # Lead The Pack  *Feat 16*  
-[archetype](rules/traits/archetype.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Mature Beastmaster Companion](compendium/feats/mature-beastmaster-companion-apg.md), you have multiple animal companions
 

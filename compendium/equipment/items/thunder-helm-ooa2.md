@@ -11,7 +11,7 @@ tags:
 aliases: ["Thunder Helm"]
 ---
 # Thunder Helm *Item 5*  
-[conjuration](rules/traits/conjuration.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 160 gp
 - **Usage** worn headwear; **Bulk** L
@@ -19,7 +19,7 @@ aliases: ["Thunder Helm"]
 
 The creator of the original thunder helm tried and failed time and again to craft a reliable, helmet-mounted firearm that enabled hands-free gunplay, but even after resorting to magical enhancements, they were never quite able to realize their vision. The allure of the thunder helm continues to compel certain mindsets in the Mana Wastes, and these items continue to be crafted to this day.
 
-A thunder helm appears as a cylindrical iron helmet adorned with a crown-like display of gun barrels extending out in all directions. A slit in the front allows for limited visibility, while sound is muffled by the inner lining. As long as a creature wears a thunder helm, it takes a –1 circumstance penalty to auditory and visual [Perception](compendium/skills.md#Perception) checks but also gain a +1 circumstance bonus to saving throws against [auditory](rules/traits/auditory.md) and [visual](rules/traits/visual.md) effects.
+A thunder helm appears as a cylindrical iron helmet adorned with a crown-like display of gun barrels extending out in all directions. A slit in the front allows for limited visibility, while sound is muffled by the inner lining. As long as a creature wears a thunder helm, it takes a –1 circumstance penalty to auditory and visual [Perception](compendium/skills.md#Perception) checks but also gain a +1 circumstance bonus to saving throws against [auditory](rules/traits/auditory.md "Auditory Effect Trait") and [visual](rules/traits/visual.md "Visual Effect Trait") effects.
 
 ```ad-embed-ability
 title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")

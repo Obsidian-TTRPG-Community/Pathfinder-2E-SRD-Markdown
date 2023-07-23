@@ -11,7 +11,7 @@ tags:
 aliases: ["Deceiver's Cloak"]
 ---
 # Deceiver's Cloak *Focus 3*   
-[hex](rules/traits/hex-apg.md)  [illusion](rules/traits/illusion.md)  [uncommon](rules/traits/uncommon.md)  [witch](rules/traits/witch-apg.md)  
+[hex](rules/traits/hex-apg.md "Hex Combat Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [witch](rules/traits/witch-apg.md "Witch Class Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Duration**sustained

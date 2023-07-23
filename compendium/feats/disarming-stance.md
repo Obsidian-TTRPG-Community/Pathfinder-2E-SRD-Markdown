@@ -8,7 +8,7 @@ tags:
 aliases: ["Disarming Stance"]
 ---
 # Disarming Stance  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[fighter](rules/traits/fighter.md)  [stance](rules/traits/stance.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
 
 - **Prerequisites**: trained in [Athletics](compendium/skills.md#Athletics)
 - **Requirements**: You are wielding only a single one-handed melee weapon and have your other hand or hands free.

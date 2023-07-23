@@ -11,7 +11,7 @@ tags:
 aliases: ["Shadow's Web"]
 ---
 # Shadow's Web *Focus 7*   
-[evocation](rules/traits/evocation.md)  [monk](rules/traits/monk.md)  [uncommon](rules/traits/uncommon.md)  
+[evocation](rules/traits/evocation.md "Evocation School Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**30-foot burst

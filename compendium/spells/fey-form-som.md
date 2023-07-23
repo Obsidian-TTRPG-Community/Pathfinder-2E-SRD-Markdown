@@ -9,15 +9,15 @@ tags:
 aliases: ["Fey Form"]
 ---
 # Fey Form *Spell 4*   
-[polymorph](rules/traits/polymorph.md)  [transmutation](rules/traits/transmutation.md)  
+[polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [occult](rules/traits/occult.md), [primal](rules/traits/primal.md)
+- **Traditions**: [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Duration**1 minute
 
 Channeling the mischievous fey, you transform into a fey battle form, which is Medium unless stated otherwise.
 
-When you cast this spell, choose dryad, elananx, naiad, redcap, or unicorn. If you choose unicorn, the battle form is Large and you must have space to expand or the spell is lost. While in this form, you gain the [fey](rules/traits/fey.md) trait. Unless you choose elananx or unicorn, you have hands in this battle form and can use manipulate actions. You can [Dismiss](rules/actions/dismiss.md) the spell.
+When you cast this spell, choose dryad, elananx, naiad, redcap, or unicorn. If you choose unicorn, the battle form is Large and you must have space to expand or the spell is lost. While in this form, you gain the [fey](rules/traits/fey.md "Fey Creature Type Trait") trait. Unless you choose elananx or unicorn, you have hands in this battle form and can use manipulate actions. You can [Dismiss](rules/actions/dismiss.md) the spell.
 
 You gain the following statistics and abilities regardless of the form that you choose:
 
@@ -30,9 +30,9 @@ You gain the following statistics and abilities regardless of the form that you 
 You also gain specific abilities based on the type of fey:
 
 - **Dryad The temporary** HP gained increases to 30; Speed 25 feet; weakness 5 to fire; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") branch, **Damage** `1d12+8` bludgeoning.
-- **Elananx** Speed 30 feet; resistance 5 to fire; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") jaws, **Damage** `1d6+8` piercing plus `1d6` fire; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") claw ([agile](rules/traits/agile.md)), **Damage** `1d6` slashing.
-- **Naiad** Speed 25 feet, swim 25 feet; resistance 5 to fire; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") aqueous fist ([water](rules/traits/water.md)), **Damage** `1d8+8` bludgeoning.
+- **Elananx** Speed 30 feet; resistance 5 to fire; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") jaws, **Damage** `1d6+8` piercing plus `1d6` fire; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") claw ([agile](rules/traits/agile.md "Agile Weapon Trait")), **Damage** `1d6` slashing.
+- **Naiad** Speed 25 feet, swim 25 feet; resistance 5 to fire; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") aqueous fist ([water](rules/traits/water.md "Water Energy & Element Trait")), **Damage** `1d8+8` bludgeoning.
 - **Redcap** Speed 40 feet; Size Small; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") scythe (deadly <d10>, trip), **Damage** `1d10+8` slashing; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") boot (agile, versatile B), **Damage** `1d6` piercing.
-- Unicorn gain the [beast](rules/traits/beast.md) trait in addition to fey; Speed 40 feet; resistance 5 to poison; Size Large; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") horn, **Damage** `1d10+8` piercing plus 1 good; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") hoof ([agile](rules/traits/agile.md)), **Damage** `1d8` bludgeoning; all [Strikes](rules/actions/strike.md) have the effects of a [ghost touch](compendium/equipment/items/ghost-touch.md) property rune.
+- Unicorn gain the [beast](rules/traits/beast.md "Beast Creature Type Trait") trait in addition to fey; Speed 40 feet; resistance 5 to poison; Size Large; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") horn, **Damage** `1d10+8` piercing plus 1 good; **Melee** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") hoof ([agile](rules/traits/agile.md "Agile Weapon Trait")), **Damage** `1d8` bludgeoning; all [Strikes](rules/actions/strike.md) have the effects of a [ghost touch](compendium/equipment/items/ghost-touch.md) property rune.
 
 *Source: Secrets of Magic p. 105*

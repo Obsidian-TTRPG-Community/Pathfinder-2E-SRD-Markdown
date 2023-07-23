@@ -7,7 +7,7 @@ tags:
 aliases: ["Unlimited Ghost Flight"]
 ---
 # Unlimited Ghost Flight  *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Ghost Flight](compendium/feats/ghost-flight-botd.md)
 

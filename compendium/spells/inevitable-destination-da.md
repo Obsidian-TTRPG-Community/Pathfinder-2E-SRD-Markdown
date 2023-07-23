@@ -10,7 +10,7 @@ tags:
 aliases: ["Inevitable Destination"]
 ---
 # Inevitable Destination *Focus 4*   
-[cleric](rules/traits/cleric.md)  [conjuration](rules/traits/conjuration.md)  [rare](rules/traits/rare.md)  
+[cleric](rules/traits/cleric.md "Cleric Class Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Domains**: [travel (apocryphal)](compendium/setting/domains.md#Travel)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 

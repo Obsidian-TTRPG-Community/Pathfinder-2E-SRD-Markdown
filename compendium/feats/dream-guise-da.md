@@ -10,7 +10,7 @@ tags:
 aliases: ["Dream Guise"]
 ---
 # Dream Guise  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
-[illusion](rules/traits/illusion.md)  [occult](rules/traits/occult.md)  [psyche](rules/traits/psyche-da.md)  [psychic](rules/traits/psychic-da.md)  
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [psyche](rules/traits/psyche-da.md "Psyche Action & Ability Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  
 
 - **Requirements**: wandering reverie subconscious mind
 - **Activity** Single Action

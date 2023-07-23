@@ -10,12 +10,12 @@ tags:
 - domain/vigil/deity
 aliases: ["Barzahk", "The Passage"]
 ---
-# Barzahk (The Passage) *([N](rules/traits/neutral-b1.md))*  
+# Barzahk (The Passage) *([N](rules/traits/n-b1.md "Neutral Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 130*  
 
 - **Category**: Monitor Demigods
 - **Anathema**: celebrate specific calendar dates over others, avoid travel or change, freeze time for an object or creature
-- **Follower Alignments**: [NG](rules/traits/neutral-good-b1.md), [N](rules/traits/neutral-b1.md), [CN](rules/traits/chaotic-neutral-b1.md)
+- **Follower Alignments**: [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")
 
 ## Devotee benefits
 

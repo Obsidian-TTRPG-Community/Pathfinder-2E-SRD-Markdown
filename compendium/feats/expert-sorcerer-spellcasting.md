@@ -7,7 +7,7 @@ tags:
 aliases: ["Expert Sorcerer Spellcasting"]
 ---
 # Expert Sorcerer Spellcasting  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Sorcerer Spellcasting](compendium/feats/basic-sorcerer-spellcasting.md); master in [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), or [Religion](compendium/skills.md#Religion), depending on bloodline
 

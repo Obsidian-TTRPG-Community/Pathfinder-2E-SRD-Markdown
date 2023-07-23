@@ -9,7 +9,7 @@ tags:
 aliases: ["Cube of Recall"]
 ---
 # Cube of Recall *Item 19*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  
+[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 40000 gp
 - **Usage** held in 1 hand; **Bulk** L
@@ -25,7 +25,7 @@ Pick one side of the cube and set it face up. You attune the cube to the locatio
 
 ```ad-embed-ability
 title: Activate [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")
-[teleportation](rules/traits/teleportation.md)  
+[teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  
 
 While speaking a word of command and bringing the location into your mind, you push the corresponding side of the cube. You teleport to the location attuned to the side you press, within 100 feet of the attuned location, as long as that location is on the same planet. If it's not, your activation produces no effect, but the attunement remains.  
 %% #trait/teleportation %%

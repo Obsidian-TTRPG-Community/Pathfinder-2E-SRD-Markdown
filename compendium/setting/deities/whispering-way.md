@@ -11,7 +11,7 @@ aliases: ["Whispering Way"]
 
 - **Category**: Philosophy
 - **Anathema**: destroy necromantic texts (unless they reveal secrets of the Whispering Way), teach others of the Whispering Way other than by whispering, use positive energy to harm undead
-- **Follower Alignments**: [LE](rules/traits/lawful-evil-b1.md), [NE](rules/traits/neutral-evil-b1.md), [CE](rules/traits/chaotic-evil-b1.md)
+- **Follower Alignments**: [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"), [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
 

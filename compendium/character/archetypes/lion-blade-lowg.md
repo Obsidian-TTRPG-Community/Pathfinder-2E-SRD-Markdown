@@ -15,7 +15,7 @@ You've trained as a spy in service of Taldor, learning secrets of disguise, mani
 title: Lion Blade Dedication, Feat 2
 collapse: closed
 # Lion Blade Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [uncommon](rules/traits/uncommon.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: You are from Taldor.
 - **Prerequisites**: member of the Lion Blades, trained in [Performance](compendium/skills.md#Performance)
@@ -25,14 +25,14 @@ Your lion blade spy training helps you conceal yourself and your identity. You b
 **Special.** You cannot select another dedication feat until you have gained two other feats from the Lion Blade archetype.
 
 *Source: Lost Omens: World Guide p. 131*  
-%% #trait/uncommon #trait/archetype #trait/dedication %%
+%% #trait/archetype #trait/dedication #trait/uncommon %%
 ```  
 
 ```ad-embed-feat
 title: Lost In The Crowd, Feat 4
 collapse: closed
 # Lost In The Crowd  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Lion Blade Dedication](compendium/feats/lion-blade-dedication-lowg.md)
 
@@ -46,7 +46,7 @@ You've learned how to move as one with crowds and hide among them, vanishing int
 title: Crowd Mastery, Feat 6
 collapse: closed
 # Crowd Mastery  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Lost in the Crowd](compendium/feats/lost-in-the-crowd-lowg.md)
 
@@ -60,7 +60,7 @@ You use the crowd to your advantage, diverting your foes' attention to potential
 title: Expeditious Advance, Feat 6
 collapse: closed
 # Expeditious Advance  *Feat 6*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Lion Blade Dedication](compendium/feats/lion-blade-dedication-lowg.md)
 - **Requirements**: You are unarmored or wearing light armor.
@@ -75,13 +75,13 @@ You advance and retreat quickly. You gain a +10-foot status bonus to your speed.
 title: Spy's Countermeasures, Feat 10
 collapse: closed
 # Spy's Countermeasures  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Lion Blade Dedication](compendium/feats/lion-blade-dedication-lowg.md)
 
-You've learned how to analyze and fake your responses to the most common magic used against spies. Whenever you succeed at your save against a [divination](rules/traits/divination.md) or [mental](rules/traits/mental.md) effect, you can [Identify Magic](rules/actions/identify-magic.md) to identify the spell as a free action triggered when you succeed, even if you didn't notice the spell being cast.
+You've learned how to analyze and fake your responses to the most common magic used against spies. Whenever you succeed at your save against a [divination](rules/traits/divination.md "Divination School Trait") or [mental](rules/traits/mental.md "Mental Effect Trait") effect, you can [Identify Magic](rules/actions/identify-magic.md) to identify the spell as a free action triggered when you succeed, even if you didn't notice the spell being cast.
 
-If you successfully identify a [divination](rules/traits/divination.md) effect targeting you and the spell would normally fail or have no effect, you can create a substitute result, causing the spell's caster to think the spell succeeded, with a result of your choice. If you successfully identify a [mental](rules/traits/mental.md) effect targeting you and the spell would normally fail or have no effect, you can make it appear as if you were affected and attempt to play along with the spell; if the spell normally establishes a mental link, it functions normally but you can disregard any commands you receive through the link.
+If you successfully identify a [divination](rules/traits/divination.md "Divination School Trait") effect targeting you and the spell would normally fail or have no effect, you can create a substitute result, causing the spell's caster to think the spell succeeded, with a result of your choice. If you successfully identify a [mental](rules/traits/mental.md "Mental Effect Trait") effect targeting you and the spell would normally fail or have no effect, you can make it appear as if you were affected and attempt to play along with the spell; if the spell normally establishes a mental link, it functions normally but you can disregard any commands you receive through the link.
 
 *Source: Lost Omens: World Guide p. 131*  
 %% #trait/archetype %%
@@ -91,7 +91,7 @@ If you successfully identify a [divination](rules/traits/divination.md) effect t
 title: Flicker, Feat 12*
 collapse: closed
 # Flicker  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Flicker](compendium/feats/flicker-lowg.md) is intended for use with the Lion Blade Archetype. Its level has been changed accordingly.
 

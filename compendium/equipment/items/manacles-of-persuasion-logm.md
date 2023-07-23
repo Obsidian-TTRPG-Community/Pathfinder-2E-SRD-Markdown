@@ -11,7 +11,7 @@ tags:
 aliases: ["Manacles Of Persuasion"]
 ---
 # Manacles Of Persuasion *Item 3*  
-[magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [nonlethal](rules/traits/nonlethal.md)  [uncommon](rules/traits/uncommon.md)  
+[magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** follower of [Zon-Kuthon](compendium/setting/deities/zon-kuthon.md)
 - **Price** 45 gp

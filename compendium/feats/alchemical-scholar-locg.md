@@ -7,7 +7,7 @@ tags:
 aliases: ["Alchemical Scholar"]
 ---
 # Alchemical Scholar  *Feat 1*  
-[hobgoblin](rules/traits/hobgoblin-locg.md)  
+[hobgoblin](rules/traits/hobgoblin-locg.md "Hobgoblin Ancestry & Heritage Trait")  
 
 
 You learn formulas more easily. You gain four common 1st-level alchemical formulas when you take this feat, and each time you gain a level, you gain a common alchemical formula of that level. You still need [Alchemical Crafting](compendium/feats/alchemical-crafting.md) to [Craft](rules/actions/craft.md) alchemical items.

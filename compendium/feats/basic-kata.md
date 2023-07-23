@@ -7,7 +7,7 @@ tags:
 aliases: ["Basic Kata"]
 ---
 # Basic Kata  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Monk Dedication](compendium/feats/monk-dedication.md)
 

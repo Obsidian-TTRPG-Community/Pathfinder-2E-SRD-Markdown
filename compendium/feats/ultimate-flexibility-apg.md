@@ -7,7 +7,7 @@ tags:
 aliases: ["Ultimate Flexibility"]
 ---
 # Ultimate Flexibility  *Feat 20*  
-[fighter](rules/traits/fighter.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 - **Prerequisites**: improved flexibility
 

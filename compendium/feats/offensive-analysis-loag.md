@@ -7,7 +7,7 @@ tags:
 aliases: ["Offensive Analysis"]
 ---
 # Offensive Analysis  *Feat 5*  
-[aphorite](rules/traits/aphorite-loag.md)  
+[aphorite](rules/traits/aphorite-loag.md "Aphorite Ancestry & Heritage Trait")  
 
 
 You can enhance your senses and mental state to consider every aspect of an attack. You can cast [true strike](compendium/spells/true-strike.md) as a divine innate spell once per day.

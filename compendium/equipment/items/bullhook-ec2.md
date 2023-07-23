@@ -10,7 +10,7 @@ tags:
 aliases: ["Bullhook"]
 ---
 # Bullhook *Item 3+*  
-[enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Held
@@ -20,7 +20,7 @@ A bullhook is a stout rod about 4 feet long with a blunt hook on the end. Too du
 ```ad-embed-ability
 title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
 
-You wave the bullhook to produce the effects of a [command](compendium/spells/command.md) spell. This spell loses the [linguistic](rules/traits/linguistic.md) trait and can target only animals.
+You wave the bullhook to produce the effects of a [command](compendium/spells/command.md) spell. This spell loses the [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait") trait and can target only animals.
 ```
 
 *Source: Extinction Curse #2: Legacy of the Lost God p. 73*

@@ -7,7 +7,7 @@ tags:
 aliases: ["Expert Psychic Spellcasting"]
 ---
 # Expert Psychic Spellcasting  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Psychic Spellcasting](compendium/feats/basic-psychic-spellcasting-da.md), master in [Occultism](compendium/skills.md#Occultism)
 

@@ -11,7 +11,7 @@ tags:
 aliases: ["Pit of Snakes"]
 ---
 # Pit of Snakes  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 13*  
-[concentrate](rules/traits/concentrate.md)  [conjuration](rules/traits/conjuration.md)  [manipulate](rules/traits/manipulate.md)  [nagaji](rules/traits/nagaji-loil.md)  [occult](rules/traits/occult.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [nagaji](rules/traits/nagaji-loil.md "Nagaji Ancestry & Heritage Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 - **Frequency**: once per day
 - **Activity** Three-Action

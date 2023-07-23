@@ -9,9 +9,9 @@ tags:
 aliases: ["Shrink Item"]
 ---
 # Shrink Item *Spell 3*   
-[polymorph](rules/traits/polymorph.md)  [transmutation](rules/traits/transmutation.md)  
+[polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md)
+- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait")
 - **Cast** 10 minutes 
 - **Range**touch
 - **Targets**1 non-magical object up to 20 cubic feet in volume and up to 80 Bulk

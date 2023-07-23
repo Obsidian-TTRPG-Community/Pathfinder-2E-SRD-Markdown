@@ -8,7 +8,7 @@ tags:
 aliases: ["Vigil's Walls Rise Anew!"]
 ---
 # Vigil's Walls Rise Anew!  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 10*  
-[archetype](rules/traits/archetype.md)  [rare](rules/traits/rare.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Prerequisites**: Knight Vigilant Dedication, [Shield Block](compendium/feats/shield-block.md)
 - **Activity** Two-Action

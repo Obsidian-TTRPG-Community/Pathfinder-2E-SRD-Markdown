@@ -7,7 +7,7 @@ tags:
 aliases: ["Precise Debilitations"]
 ---
 # Precise Debilitations  *Feat 10*  
-[rogue](rules/traits/rogue.md)  
+[rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Prerequisites**: Thief racket, [Debilitating Strike](rules/actions/debilitating-strike.md)
 

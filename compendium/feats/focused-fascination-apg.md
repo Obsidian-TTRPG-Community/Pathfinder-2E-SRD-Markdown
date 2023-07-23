@@ -7,7 +7,7 @@ tags:
 aliases: ["Focused Fascination"]
 ---
 # Focused Fascination  *Feat 1*  
-[swashbuckler](rules/traits/swashbuckler-apg.md)  
+[swashbuckler](rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  
 
 - **Prerequisites**: [Fascinating Performance](compendium/feats/fascinating-performance.md)
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Innate Magic Intuition"]
 ---
 # Innate Magic Intuition  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Scrollmaster Dedication](compendium/feats/scrollmaster-dedication-locg.md)
 

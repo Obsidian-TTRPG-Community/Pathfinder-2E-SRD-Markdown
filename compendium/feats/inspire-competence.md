@@ -7,7 +7,7 @@ tags:
 aliases: ["Inspire Competence"]
 ---
 # Inspire Competence  *Feat 2*  
-[bard](rules/traits/bard.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  
 
 - **Prerequisites**: Maestro muse
 

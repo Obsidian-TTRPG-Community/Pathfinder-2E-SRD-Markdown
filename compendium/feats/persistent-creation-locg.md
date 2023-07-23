@@ -7,7 +7,7 @@ tags:
 aliases: ["Persistent Creation"]
 ---
 # Persistent Creation  *Feat 8*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Halcyon Speaker Dedication](compendium/feats/halcyon-speaker-dedication-locg.md)
 

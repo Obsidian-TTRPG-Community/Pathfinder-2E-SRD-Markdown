@@ -7,7 +7,7 @@ tags:
 aliases: ["Advanced Reanimated Companion"]
 ---
 # Advanced Reanimated Companion  *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Clockwork Reanimator Dedication](compendium/feats/clockwork-reanimator-dedication-ooa3.md)
 

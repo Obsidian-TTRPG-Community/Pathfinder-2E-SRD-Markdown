@@ -7,7 +7,7 @@ tags:
 aliases: ["Demanding Challenge"]
 ---
 # Demanding Challenge  *Feat 10*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Boaster's Challenge](compendium/feats/boasters-challenge-locg.md)
 

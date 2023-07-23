@@ -7,7 +7,7 @@ tags:
 aliases: ["Cunning Tinker"]
 ---
 # Cunning Tinker  *Feat 5*  
-[poppet](rules/traits/poppet-lotgb.md)  
+[poppet](rules/traits/poppet-lotgb.md "Poppet Ancestry & Heritage Trait")  
 
 
 Time spent tending to your own form has unlocked your ability to fix other things.

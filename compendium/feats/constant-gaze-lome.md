@@ -7,7 +7,7 @@ tags:
 aliases: ["Constant Gaze"]
 ---
 # Constant Gaze  *Feat 9*  
-[goloma](rules/traits/goloma-lome.md)  
+[goloma](rules/traits/goloma-lome.md "Goloma Ancestry & Heritage Trait")  
 
 - **Prerequisites**: [Watchful Gaze](compendium/feats/watchful-gaze-lome.md)
 

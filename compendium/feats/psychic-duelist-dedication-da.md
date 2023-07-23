@@ -9,7 +9,7 @@ tags:
 aliases: ["Psychic Duelist Dedication"]
 ---
 # Psychic Duelist Dedication  *Feat 4*  
-[archetype](rules/traits/archetype.md)  [dedication](rules/traits/dedication.md)  [rare](rules/traits/rare.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Prerequisites**: trained in [Occultism](compendium/skills.md#Occultism), you have been in a psychic duel
 

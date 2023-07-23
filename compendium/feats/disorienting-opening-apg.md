@@ -7,7 +7,7 @@ tags:
 aliases: ["Disorienting Opening"]
 ---
 # Disorienting Opening  *Feat 8*  
-[fighter](rules/traits/fighter.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 - **Prerequisites**: [Attack of Opportunity](rules/actions/attack-of-opportunity.md)
 

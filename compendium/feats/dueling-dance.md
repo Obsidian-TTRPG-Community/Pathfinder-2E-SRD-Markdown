@@ -8,7 +8,7 @@ tags:
 aliases: ["Dueling Dance"]
 ---
 # Dueling Dance  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 12*  
-[fighter](rules/traits/fighter.md)  [stance](rules/traits/stance.md)  
+[fighter](rules/traits/fighter.md "Fighter Class Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
 
 - **Prerequisites**: [Dueling Parry](compendium/feats/dueling-parry-apg.md)
 - **Requirements**: You are wielding only a single one-handed melee weapon and have your other hand or hands free.

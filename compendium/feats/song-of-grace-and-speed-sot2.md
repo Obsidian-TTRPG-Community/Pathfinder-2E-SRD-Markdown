@@ -9,7 +9,7 @@ tags:
 aliases: ["Song Of Grace And Speed"]
 ---
 # Song Of Grace And Speed  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 16*  
-[archetype](rules/traits/archetype.md)  [auditory](rules/traits/auditory.md)  [transmutation](rules/traits/transmutation.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Prerequisites**: [Nantambu Chime-Ringer Dedication](compendium/feats/nantambu-chime-ringer-dedication-sot2.md)
 - **Frequency**: once per day

@@ -10,12 +10,12 @@ tags:
 - domain/sorrow/deity
 aliases: ["Narakaas", "The Cleansing Sentence"]
 ---
-# Narakaas (The Cleansing Sentence) *([N](rules/traits/neutral-b1.md))*  
+# Narakaas (The Cleansing Sentence) *([N](rules/traits/n-b1.md "Neutral Alignment Trait"))*  
 *Source: Lost Omens: Gods & Magic p. 130*  
 
 - **Category**: Monitor Demigods
 - **Anathema**: torture an unwilling creature, take joy in suffering
-- **Follower Alignments**: [LN](rules/traits/lawful-neutral-b1.md), [NG](rules/traits/neutral-good-b1.md), [N](rules/traits/neutral-b1.md)
+- **Follower Alignments**: [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait")
 
 ## Devotee benefits
 

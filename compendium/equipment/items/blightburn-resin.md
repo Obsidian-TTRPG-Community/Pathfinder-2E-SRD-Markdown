@@ -11,7 +11,7 @@ tags:
 aliases: ["Blightburn Resin"]
 ---
 # Blightburn Resin *Item 11*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [contact](rules/traits/contact.md)  [poison](rules/traits/poison.md)  
+[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [contact](rules/traits/contact.md "Contact Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Price** 225 gp
 - **Usage** held in 2 hands; **Bulk** L

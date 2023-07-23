@@ -9,7 +9,7 @@ tags:
 aliases: ["Discordant Voice"]
 ---
 # Discordant Voice  *Feat 18*  
-[bard](rules/traits/bard.md)  [evocation](rules/traits/evocation.md)  [sonic](rules/traits/sonic.md)  
+[bard](rules/traits/bard.md "Bard Class Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  
 
 - **Prerequisites**: [inspire courage](compendium/spells/inspire-courage.md)
 

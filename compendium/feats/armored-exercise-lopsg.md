@@ -7,7 +7,7 @@ tags:
 aliases: ["Armored Exercise"]
 ---
 # Armored Exercise  *Feat 14*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Swordmaster Dedication](compendium/feats/swordmaster-dedication-locg.md); trained in light, medium, or heavy armor
 

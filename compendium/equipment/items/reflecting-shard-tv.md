@@ -12,7 +12,7 @@ tags:
 aliases: ["Reflecting Shard"]
 ---
 # Reflecting Shard *Item 13+*  
-[abjuration](rules/traits/abjuration.md)  [consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [talisman](rules/traits/talisman.md)  [uncommon](rules/traits/uncommon.md)  
+[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Usage** affixed to a shield; **Bulk** —
 - **Activate** command; **Trigger** You are targeted by a spell of 5th level or lower; **Requirements** You're a master in

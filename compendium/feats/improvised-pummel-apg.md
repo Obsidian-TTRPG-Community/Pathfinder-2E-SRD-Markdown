@@ -7,7 +7,7 @@ tags:
 aliases: ["Improvised Pummel"]
 ---
 # Improvised Pummel  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Weapon Improviser Dedication](compendium/feats/weapon-improviser-dedication-apg.md)
 - **Requirements**: You are wielding an improvised weapon.

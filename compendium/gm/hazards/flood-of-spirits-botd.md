@@ -7,7 +7,7 @@ tags:
 aliases: ["Flood Of Spirits"]
 ---
 # Flood Of Spirits *Hazard 18*  
-[haunt](rules/traits/haunt.md)  
+[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 45 master to hear the flood of spirits coalescing  
@@ -18,7 +18,7 @@ A wave of spirits fly through the area, passing right through the living.
      
 ```ad-embed-ability
 title: Surge Through [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[cold](rules/traits/cold.md)  [negative](rules/traits/negative.md)  
+[cold](rules/traits/cold.md "Cold Energy & Element Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  
 
 - **Trigger**: A creature passes through the area
 

@@ -7,7 +7,7 @@ tags:
 aliases: ["Expert Cathartic Spellcasting"]
 ---
 # Expert Cathartic Spellcasting  *Feat 12*  
-[archetype](rules/traits/archetype.md)  
+[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Cathartic Spellcasting](compendium/feats/basic-cathartic-spellcasting-som.md)
 

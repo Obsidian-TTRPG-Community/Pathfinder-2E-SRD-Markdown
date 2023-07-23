@@ -11,7 +11,7 @@ tags:
 aliases: ["Trinity Geode"]
 ---
 # Trinity Geode *Item 3+*  
-[earth](rules/traits/earth.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [spellheart](rules/traits/spellheart-som.md)  
+[earth](rules/traits/earth.md "Earth Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [spellheart](rules/traits/spellheart-som.md "Spellheart Equipment Trait")  
 
 - **Usage** affixed to armor or a weapon
 - **Category** Spellheart
