@@ -39,7 +39,7 @@ abilities_mid:
     desc: "⬲  The hekatonkheires gains 99 extra reactions on their turn that they can only use to make Attacks of Opportunity."
 abilities_bot:
   - name: "Demolish Veil"
-    desc: "⭓ __Frequency__ once per month __Trigger__ The titan casts plane shift __Effect__  The titan arrives in a storm of shattered planar barriers. This has the effects of a 10th-level [[storm of vengeance]]."
+    desc: "⭓ __Frequency__ once per month __Trigger__ The titan casts plane shift __Effect__  The titan arrives in a storm of shattered planar barriers. This has the effects of a 10th-level [[storm-of-vengeance|storm of vengeance]]."
   - name: "Hundred-Dimension Grasp"
     desc: "⬻  The titan reaches between realities to drag foes closer. They attempt an [[compendium/skills.md#Athletics|Athletics]] check and compare the result to the Fortitude DCs of all foes within 120 feet. On a success, a foe is teleported to any square the titan chooses within 120 feet; on a critical success, it's also [[rules/conditions.md#Paralyzed|paralyzed]] for 1 round. The titan can Grab any foe brought within 30 feet as a free action."
   - name: "Hundred-Handed Whirlwind"
@@ -69,7 +69,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 48; __9th__ [[bind soul]], [[dimension door]], [[plane shift]], [[weird]]; __Constant__ __(10th)__ [[air walk]], [[freedom of movement]], [[true seeing]];"
+    desc: "DC 48; __9th__ [[bind-soul|bind soul]], [[dimension-door|dimension door]], [[plane-shift|plane shift]], [[weird]]; __Constant__ __(10th)__ [[air-walk|air walk]], [[freedom-of-movement|freedom of movement]], [[true-seeing|true seeing]];"
 sourcebook: "_Bestiary 3_, page 271."
 ```
 

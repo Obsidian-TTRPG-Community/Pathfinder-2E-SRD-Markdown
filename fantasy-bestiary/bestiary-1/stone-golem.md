@@ -36,7 +36,7 @@ abilities_mid:
   - name: "Golem Antimagic"
     desc: "  harmed by cold and water (5d10 (5d10), 2d8 (2d8) from areas and [[rules/conditions.md#Persistent%20Damage|persistent damage]]); healed by acid (area 2d8 (2d8) HP); [[rules/conditions.md#Slowed|slowed]] by earth."
   - name: "Vulnerable to Stone to Flesh"
-    desc: "  A [[stone to flesh]] spell negates the golem's golem antimagic and its resistance to physical damage for 1 round. A [[flesh to stone]] spell reverses this effect immediately."
+    desc: "  A [[stone-to-flesh|stone to flesh]] spell negates the golem's golem antimagic and its resistance to physical damage for 1 round. A [[flesh-to-stone|flesh to stone]] spell reverses this effect immediately."
 abilities_bot:
   - name: "Impose Paralysis"
     desc: "⬲ ([[incapacitation]]); __Trigger__ The stone golem hits a [[rules/conditions.md#Slowed|slowed]] creature. __Effect__  The creature must succeed at a DC 30 Fortitude save or become [[rules/conditions.md#Paralyzed|paralyzed]] for 1 round."

@@ -62,7 +62,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 30; __Cantrips (4th)__ [[detect magic]];"
+    desc: "DC 30; __Cantrips (4th)__ [[detect-magic|detect magic]];"
 sourcebook: "_Bestiary 3_, page 132."
 ```
 

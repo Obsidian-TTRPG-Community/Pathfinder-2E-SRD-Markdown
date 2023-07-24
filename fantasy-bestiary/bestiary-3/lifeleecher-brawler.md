@@ -57,7 +57,7 @@ armorclass:
 hp: 165
 health:
   - name: HP
-    desc: "165; [[negative healing]];"
+    desc: "165; [[negative-healing-b2|negative healing]];"
 
 
 attacks:

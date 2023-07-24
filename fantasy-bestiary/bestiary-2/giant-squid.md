@@ -56,7 +56,7 @@ attacks:
   - name: Melee
     desc: "⬻ barbed tentacles +21 ([[agile]], [[reach|reach 25 feet]]); __Damage__ 2d10+11 (2d10+11) slashing plus Grab"
   - name: Melee
-    desc: "⬻ arm +21 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 2d8+11 (2d8+11) bludgeoning plus [[Improved Grab]]"
+    desc: "⬻ arm +21 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 2d8+11 (2d8+11) bludgeoning plus [[Improved-Grab|Improved Grab]]"
 
 sourcebook: "_Bestiary 2_, page 254."
 ```

@@ -63,7 +63,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 26; __Cantrips (5th)__ [[daze]], [[message]]; __2nd__ [[invisibility]] (3); __4th__ [[clairaudience]], [[enthrall]], [[outcast's curse]], [[paranoia]] (at will), [[private sanctum]], [[suggestion]]; __Constant__ __(5th)__ [[tongues]];"
+    desc: "DC 26; __Cantrips (5th)__ [[daze]], [[message]]; __2nd__ [[invisibility]] (3); __4th__ [[clairaudience]], [[enthrall]], [[outcast's curse]], [[paranoia]] (at will), [[private-sanctum|private sanctum]], [[suggestion]]; __Constant__ __(5th)__ [[tongues]];"
 sourcebook: "_Bestiary 3_, page 240."
 ```
 

@@ -54,7 +54,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +21 __Damage__ 2d12+10 (2d12+10) piercing plus [[Improved Grab]]"
+    desc: "⬻ jaws +21 __Damage__ 2d12+10 (2d12+10) piercing plus [[Improved-Grab|Improved Grab]]"
   - name: Melee
     desc: "⬻ tail +19 __Damage__ 2d6+10 (2d6+10) bludgeoning"
 

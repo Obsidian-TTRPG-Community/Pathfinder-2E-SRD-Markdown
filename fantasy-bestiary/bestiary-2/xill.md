@@ -46,7 +46,7 @@ abilities_bot:
   - name: "Implant"
     desc: "⬺ ([[manipulate]]); __Requirements__ The xill is adjacent to a [[rules/conditions.md#Unconscious|unconscious]], willing, or [[rules/conditions.md#Paralyzed|paralyzed]] creature  __Effect__  The xill implants xill eggs in the creature's flesh."
   - name: "Xill Eggs"
-    desc: " ([[disease]]);  __Saving Throw__ DC 24 Fortitude. __Maximum Duration__ 24 hours __Stage 1__ infested with no ill effect (8 hours) __Stage 2__ [[rules/conditions.md#Sickened|sickened 1]] (8 hours) __Stage 3__ [[rules/conditions.md#Sickened|sickened 2]] (4 hours) __Stage 3__ [[rules/conditions.md#Sickened|sickened 2]] and 2d6 (2d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed damage]] as larval xills burrow out of the body and immediately fade away into the [[Ethereal Plane]] (1 hour)"
+    desc: " ([[disease]]);  __Saving Throw__ DC 24 Fortitude. __Maximum Duration__ 24 hours __Stage 1__ infested with no ill effect (8 hours) __Stage 2__ [[rules/conditions.md#Sickened|sickened 1]] (8 hours) __Stage 3__ [[rules/conditions.md#Sickened|sickened 2]] (4 hours) __Stage 3__ [[rules/conditions.md#Sickened|sickened 2]] and 2d6 (2d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed damage]] as larval xills burrow out of the body and immediately fade away into the [[Ethereal-Plane|Ethereal Plane]] (1 hour)"
   - name: "Xill Paralysis"
     desc: " ([[incapacitation]], [[occult]]);  A creature hit by the xill's bite [[Strike]] must attempt a DC 24 Fortitude save.\n__Critical Success__ The creature is unaffected and is immune to xill paralysis for 1 minute.\n__Success__ The creature is [[rules/conditions.md#Slowed|slowed 1]] for 1 round.\n__Failure__ The creature is [[rules/conditions.md#Paralyzed|paralyzed]] for 1 round.\n__Critical Failure__ The creature is [[rules/conditions.md#Paralyzed|paralyzed]]. It can attempt a new save at the end of each of its turns to recover, and the save DC decreases by 1 each round."
 
@@ -72,7 +72,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 24; __7th__ [[plane shift]] to Ethereal Plane or Material Plane only,self only;"
+    desc: "DC 24; __7th__ [[plane-shift|plane shift]] to Ethereal Plane or Material Plane only,self only;"
 sourcebook: "_Bestiary 2_, page 299."
 ```
 

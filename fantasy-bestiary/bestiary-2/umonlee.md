@@ -55,7 +55,7 @@ attacks:
   - name: Melee
     desc: "⬻ jaws +31 ([[reach|reach 10 feet]]); __Damage__ 3d6+16 (3d6+16) piercing plus 3d6 (3d6) cold"
   - name: Melee
-    desc: "⬻ pincers +31 ([[agile]], [[reach|reach 15 feet]]); __Damage__ 3d8+16 (3d8+16) slashing plus [[Improved Grab]]"
+    desc: "⬻ pincers +31 ([[agile]], [[reach|reach 15 feet]]); __Damage__ 3d8+16 (3d8+16) slashing plus [[Improved-Grab|Improved Grab]]"
 
 sourcebook: "_Bestiary 2_, page 271."
 ```

@@ -24,7 +24,7 @@ trait_04: "Dragon"
 modifier: 30
 perception:
   - name: "Perception"
-    desc: "Perception +30; __imprecise scent 60__, __[[darkvision]]__, __[[true seeing]]__;"
+    desc: "Perception +30; __imprecise scent 60__, __[[darkvision]]__, __[[true-seeing|true seeing]]__;"
 languages: "Aklo, Draconic, Sylvan; "
 skills:
   - name: "Skills"
@@ -44,7 +44,7 @@ abilities_bot:
   - name: "Cairn Linnorm Venom"
     desc: " ([[acid]], [[poison]]);  __Saving Throw__ DC 41 Fortitude. __Maximum Duration__ 10 rounds __Stage 1__ 6d6 (6d6) acid damage and [[rules/conditions.md#Drained|drained 1]] (1 round) __Stage 2__ 8d6 (8d6) acid damage and [[rules/conditions.md#Drained|drained 2]] (1 round)"
 
-speed: 35 feet, climb 40 feet, fly 100 feet, swim 40 feet; [[freedom of movement]];
+speed: 35 feet, climb 40 feet, fly 100 feet, swim 40 feet; [[freedom-of-movement|freedom of movement]];
 
 ac: 43
 armorclass:
@@ -66,7 +66,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 40; __Constant__ __(7th)__ [[true seeing]], __(8th)__ [[freedom of movement]];"
+    desc: "DC 40; __Constant__ __(7th)__ [[true-seeing|true seeing]], __(8th)__ [[freedom-of-movement|freedom of movement]];"
 sourcebook: "_Bestiary 2_, page 166."
 ```
 

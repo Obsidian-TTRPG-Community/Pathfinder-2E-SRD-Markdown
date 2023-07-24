@@ -33,7 +33,7 @@ abilities_bot:
   - name: "Broken Thorns"
     desc: "⬻ __Requirements__ The rosethorn ram damaged a creature with its horns on its most recent action this turn  __Effect__  The ram breaks off one of the thorny protrusions of its horns and leaves it in the wound, dealing 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed damage]]."
   - name: "Mountain Stride"
-    desc: "  The Rosethorn ram ignores [[terrain|difficult terrain]] caused by narrow ledges and icy terrain, and reduces the effects it suffers from cold environments by one step."
+    desc: "  The Rosethorn ram ignores [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] caused by narrow ledges and icy terrain, and reduces the effects it suffers from cold environments by one step."
   - name: "Ram Charge"
     desc: "⬺  The ram [[Stride|Strides]] twice in a straight line and then makes a horn [[Strike]] with a +1 circumstance bonus to its attack roll."
 

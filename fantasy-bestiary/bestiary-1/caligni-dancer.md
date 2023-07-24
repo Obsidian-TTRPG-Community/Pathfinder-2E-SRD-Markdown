@@ -69,7 +69,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 16; __Cantrips (1st)__ [[counter performance]];"
+    desc: "DC 16; __Cantrips (1st)__ [[counter-performance|counter performance]];"
 sourcebook: "_Bestiary_, page 50."
 ```
 

@@ -50,7 +50,7 @@ armorclass:
 hp: 390
 health:
   - name: HP
-    desc: "390; fast healing 15 (page 305), [[negative healing]]; __Immunities__ electricity, negative, poison, precision, death effects, disease, paralyzed, unconscious; __Weaknesses__ good 15;"
+    desc: "390; fast healing 15 (page 305), [[negative-healing-b2|negative healing]]; __Immunities__ electricity, negative, poison, precision, death effects, disease, paralyzed, unconscious; __Weaknesses__ good 15;"
 
 
 attacks:
@@ -61,7 +61,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 38; __Cantrips (9th)__ [[detect magic]]; __3rd__ [[haste]] (3); __4th__ [[darkness]] (3); __5th__ [[Abyssal plague]]; __7th__ [[eclipse burst]], [[teleport]] (3); __9th__ [[darkness]] (3), [[teleport]], [[wail of the banshee]]; __Constant__ __(6th)__ [[true seeing]];"
+    desc: "DC 38; __Cantrips (9th)__ [[detect-magic|detect magic]]; __3rd__ [[haste]] (3); __4th__ [[darkness]] (3); __5th__ [[Abyssal-plague|Abyssal plague]]; __7th__ [[eclipse-burst|eclipse burst]], [[teleport]] (3); __9th__ [[darkness]] (3), [[teleport]], [[wail-of-the-banshee|wail of the banshee]]; __Constant__ __(6th)__ [[true-seeing|true seeing]];"
 sourcebook: "_Bestiary 3_, page 279."
 ```
 

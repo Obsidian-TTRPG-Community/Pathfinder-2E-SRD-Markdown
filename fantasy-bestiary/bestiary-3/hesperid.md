@@ -59,7 +59,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 28, attack +20; __Cantrips (5th)__ [[dancing lights]], [[light]]; __1st__ [[illusory disguise]] (3); __2nd__ [[faerie fire]]; __5th__ [[heal]], [[searing light]];"
+    desc: "DC 28, attack +20; __Cantrips (5th)__ [[dancing-lights|dancing lights]], [[light]]; __1st__ [[illusory-disguise|illusory disguise]] (3); __2nd__ [[faerie-fire|faerie fire]]; __5th__ [[heal]], [[searing-light|searing light]];"
 sourcebook: "_Bestiary 3_, page 189."
 ```
 

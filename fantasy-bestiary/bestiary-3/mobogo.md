@@ -37,7 +37,7 @@ abilities_bot:
   - name: "Swallow Whole"
     desc: "⬻ ([[attack]]);  Large, 2d12+6 (2d12+6) bludgeoning, Rupture 19"
   - name: "Swamp Stride"
-    desc: "  A mobogo ignores [[terrain|difficult terrain]] caused by swamp terrain features."
+    desc: "  A mobogo ignores [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] caused by swamp terrain features."
   - name: "Tongue Grab"
     desc: "  A creature hit by the mobogo's tongue becomes [[rules/conditions.md#Grabbed|grabbed]] by the mobogo. The creature isn't [[rules/conditions.md#Immobilized|immobilized]], but it can't move beyond the reach of the mobogo's tongue. A creature can sever the tongue with a [[Strike]] against AC 27 that deals at least 10 slashing damage. This deals no damage to the mobogo but prevents it from using its tongue [[Strike]] until it regrows its tongue, which takes 1 round. The mobogo can move without ending the Grab as long as the creature remains within the tongue's reach."
   - name: "Tongue Reposition"
@@ -63,7 +63,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 27; __4th__ [[create water]] (at will), [[entangle]], [[obscuring mist]], [[sound burst]] (at will); __5th__ [[control water]]; __Constant__ __(2nd)__ [[pass without trace]], [[speak]];"
+    desc: "DC 27; __4th__ [[create-water|create water]] (at will), [[entangle]], [[obscuring-mist|obscuring mist]], [[sound-burst|sound burst]] (at will); __5th__ [[control-water|control water]]; __Constant__ __(2nd)__ [[pass-without-trace|pass without trace]], [[speak]];"
 sourcebook: "_Bestiary 3_, page 170."
 ```
 

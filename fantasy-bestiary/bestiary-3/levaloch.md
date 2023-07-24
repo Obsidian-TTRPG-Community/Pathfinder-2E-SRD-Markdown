@@ -35,7 +35,7 @@ abilityMods: [6, 3, 4, 2, 3, 1]
 
 abilities_top:
   - name: "Hellstrider"
-    desc: "  A levaloch ignores the effects of non-magical [[terrain|difficult terrain]]. They take no damage from caltrops or from damaging terrain that deals physical, acid, or cold damage. A levaloch can move through liquids up to 5 feet deep at their full Speed."
+    desc: "  A levaloch ignores the effects of non-magical [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]]. They take no damage from caltrops or from damaging terrain that deals physical, acid, or cold damage. A levaloch can move through liquids up to 5 feet deep at their full Speed."
 abilities_mid:
   - name: "Phalanx Fighter"
     desc: "  All devils of equal or lower level adjacent to a levaloch gain a +1 circumstance bonus to their AC as the levaloch shields them from harm."

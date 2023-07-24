@@ -84,7 +84,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 44; __4th__ [[suggestion]] (at will); __8th__ [[wall of fire]] (at will);"
+    desc: "DC 44; __4th__ [[suggestion]] (at will); __8th__ [[wall-of-fire|wall of fire]] (at will);"
 sourcebook: "_Bestiary 2_, page 224."
 ```
 

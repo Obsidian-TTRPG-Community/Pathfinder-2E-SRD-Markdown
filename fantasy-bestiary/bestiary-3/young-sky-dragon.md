@@ -48,7 +48,7 @@ abilities_bot:
   - name: "Draconic Momentum"
     desc: "  The dragon recharges their Breath Weapon whenever they score a critical hit with a [[Strike]]."
   - name: "Perfected Flight"
-    desc: "  A sky dragon can hover in place without spending an action, and they automatically succeed at all [[compendium/skills.md#Acrobatics|Acrobatics]] checks to [[Maneuver in Flight]]."
+    desc: "  A sky dragon can hover in place without spending an action, and they automatically succeed at all [[compendium/skills.md#Acrobatics|Acrobatics]] checks to [[Maneuver-in-Flight|Maneuver in Flight]]."
 
 speed: 30 feet, fly 120 feet
 
@@ -72,9 +72,9 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 28; __1st__ [[feather fall]], [[gust of wind]]; __2nd__ [[invisibility]];"
+    desc: "DC 28; __1st__ [[feather-fall|feather fall]], [[gust-of-wind|gust of wind]]; __2nd__ [[invisibility]];"
   - name: "Divine Prepared Spells"
-    desc: "DC 28, attack +21; __Cantrips (4th)__ [[detect magic]], [[divine lance]], [[read aura]], [[shield]], [[stabilize]]; __1st__ [[alarm]], [[bless]], [[detect alignment]] (at will) evil only, [[sanctuary]]; __2nd__ [[augury]], [[comprehend language]], [[create food]]; __3rd__ [[heroism]], [[locate]], [[wanderer's guide]]; __4th__ [[discern lies]], [[dispel magic]], [[divine wrath]];"
+    desc: "DC 28, attack +21; __Cantrips (4th)__ [[detect-magic|detect magic]], [[divine-lance|divine lance]], [[read-aura|read aura]], [[shield]], [[stabilize]]; __1st__ [[alarm]], [[bless]], [[detect-alignment|detect alignment]] (at will) evil only, [[sanctuary]]; __2nd__ [[augury]], [[comprehend-language|comprehend language]], [[create-food|create food]]; __3rd__ [[heroism]], [[locate]], [[wanderer's guide]]; __4th__ [[discern-lies|discern lies]], [[dispel-magic|dispel magic]], [[divine-wrath|divine wrath]];"
 sourcebook: "_Bestiary 3_, page 79."
 ```
 

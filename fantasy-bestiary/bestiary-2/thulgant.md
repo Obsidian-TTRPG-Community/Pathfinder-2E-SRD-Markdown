@@ -64,7 +64,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 40; __Cantrips (9th)__ [[daze]], [[detect magic]]; __7th__ [[plane shift]]; __8th__ [[dispel magic]], [[divine aura]] chaotic only, [[divine decree]] chaotic only, [[phantom pain]] (3); __9th__ [[flesh to stone]] (3), [[phantasmal calamity]]; __Constant__ __(4th)__ [[freedom of movement]], __(6th)__ [[true seeing]];"
+    desc: "DC 40; __Cantrips (9th)__ [[daze]], [[detect-magic|detect magic]]; __7th__ [[plane-shift|plane shift]]; __8th__ [[dispel-magic|dispel magic]], [[divine-aura|divine aura]] chaotic only, [[divine-decree|divine decree]] chaotic only, [[phantom-pain|phantom pain]] (3); __9th__ [[flesh-to-stone|flesh to stone]] (3), [[phantasmal-calamity|phantasmal calamity]]; __Constant__ __(4th)__ [[freedom-of-movement|freedom of movement]], __(6th)__ [[true-seeing|true seeing]];"
 sourcebook: "_Bestiary 2_, page 217."
 ```
 

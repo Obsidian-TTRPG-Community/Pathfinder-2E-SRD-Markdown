@@ -51,14 +51,14 @@ armorclass:
 hp: 190
 health:
   - name: HP
-    desc: "190; [[negative healing]];"
+    desc: "190; [[negative-healing-b2|negative healing]];"
 
 
 attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 36, attack +26; __Cantrips (7th)__ [[detect magic]], [[mage-hand|mage hand]], [[telekinetic projectile]]; __7th__ [[dispel magic]] (at will), [[spell turning]]; __Constant__ __(7th)__ [[true seeing]];"
+    desc: "DC 36, attack +26; __Cantrips (7th)__ [[detect-magic|detect magic]], [[mage-hand|mage hand]], [[telekinetic-projectile|telekinetic projectile]]; __7th__ [[dispel-magic|dispel magic]] (at will), [[spell-turning|spell turning]]; __Constant__ __(7th)__ [[true-seeing|true seeing]];"
 sourcebook: "_Bestiary 3_, page 245."
 ```
 

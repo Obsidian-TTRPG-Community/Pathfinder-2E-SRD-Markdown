@@ -66,7 +66,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 28, attack +20; __Cantrips (5th)__ [[disrupt undead]], [[light]]; __2nd__ [[restoration]] (3); __3rd__ [[heal]] (3); __4th__ [[dimension door]], [[heal]], [[searing light]]; __5th__ [[banishment]], [[breath of life]];"
+    desc: "DC 28, attack +20; __Cantrips (5th)__ [[disrupt-undead|disrupt undead]], [[light]]; __2nd__ [[restoration]] (3); __3rd__ [[heal]] (3); __4th__ [[dimension-door|dimension door]], [[heal]], [[searing-light|searing light]]; __5th__ [[banishment]], [[breath-of-life|breath of life]];"
 sourcebook: "_Bestiary 2_, page 153."
 ```
 

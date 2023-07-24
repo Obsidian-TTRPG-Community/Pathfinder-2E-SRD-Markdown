@@ -36,7 +36,7 @@ abilities_mid:
     desc: "  A dero strangler takes 8 damage for every hour they're exposed to sunlight."
 abilities_top:
   - name: Items
-    desc: "[[aklys]], [[hand crossbow]] (10 [[bolt|bolts]]), [[lethargy poison]] (5 doses), [[rope (50 feet)]];"
+    desc: "[[aklys]], [[hand-crossbow|hand crossbow]] (10 [[bolt|bolts]]), [[lethargy-poison|lethargy poison]] (5 doses), [[rope (50 feet)]];"
 abilities_bot:
   - name: "Strangle"
     desc: "⬻ ([[attack]], [[nonlethal]]);  The dero attempts an Athletics check to Grab with a +2 circumstance bonus. On a success, the target takes 1d6+6 bludgeoning damage. Double the damage on a critical success."
@@ -57,13 +57,13 @@ attacks:
   - name: Melee
     desc: "⬻ aklys +11 ([[trip; page 85]]); __Damage__ 1d6+6 (1d6+6) bludgeoning"
   - name: Ranged
-    desc: "⬻ aklys +10 ([[ranged trip]], [[tethered]], [[thrown|thrown 20 feet]]); __Damage__ 1d6+6 (1d6+6) bludgeoning"
+    desc: "⬻ aklys +10 ([[ranged-trip|ranged trip]], [[tethered]], [[thrown|thrown 20 feet]]); __Damage__ 1d6+6 (1d6+6) bludgeoning"
   - name: Ranged
     desc: "⬻ hand crossbow +10 ([[range-increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1d6+2 (1d6+2) piercing plus lethargy poison"
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 19; __Cantrips (2nd)__ [[daze]], [[ghost sound]]; __2nd__ [[darkness]] (at will), [[sound burst]];"
+    desc: "DC 19; __Cantrips (2nd)__ [[daze]], [[ghost-sound|ghost sound]]; __2nd__ [[darkness]] (at will), [[sound-burst|sound burst]];"
 sourcebook: "_Bestiary_, page 84."
 ```
 

@@ -60,7 +60,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 16; __Cantrips (1st)__ [[know direction]], [[light]]; __1st__ [[detect alignment]] (at will) evil only, [[heal]]; __4th__ [[read omens]];"
+    desc: "DC 16; __Cantrips (1st)__ [[know-direction|know direction]], [[light]]; __1st__ [[detect-alignment|detect alignment]] (at will) evil only, [[heal]]; __4th__ [[read-omens|read omens]];"
 sourcebook: "_Bestiary_, page 16."
 ```
 

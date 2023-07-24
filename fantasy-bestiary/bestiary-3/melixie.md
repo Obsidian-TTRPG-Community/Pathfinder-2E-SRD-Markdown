@@ -55,7 +55,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 17; __Cantrips (1st)__ [[dancing lights]], [[ghost sound]]; __1st__ [[ant haul]];"
+    desc: "DC 17; __Cantrips (1st)__ [[dancing-lights|dancing lights]], [[ghost-sound|ghost sound]]; __1st__ [[ant-haul|ant haul]];"
 sourcebook: "_Bestiary 3_, page 255."
 ```
 

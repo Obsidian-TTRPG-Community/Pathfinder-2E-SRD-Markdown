@@ -73,7 +73,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 36, attack +30; __2nd__ [[detect alignment]] (at will) good or evil only; __7th__ [[suggestion]] (at will); __8th__ [[shape stone]], [[suggestion]], [[wall of stone]];"
+    desc: "DC 36, attack +30; __2nd__ [[detect-alignment|detect alignment]] (at will) good or evil only; __7th__ [[suggestion]] (at will); __8th__ [[shape-stone|shape stone]], [[suggestion]], [[wall-of-stone|wall of stone]];"
 sourcebook: "_Bestiary 3_, page 82."
 ```
 

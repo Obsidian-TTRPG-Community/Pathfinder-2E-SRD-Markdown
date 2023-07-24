@@ -67,7 +67,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 24; __2nd__ [[darkness]]; __4th__ [[dimension door]] (at will); __5th__ [[dimension door]]; __Constant__ __(5th)__ [[see invisibility]];"
+    desc: "DC 24; __2nd__ [[darkness]]; __4th__ [[dimension-door|dimension door]] (at will); __5th__ [[dimension-door|dimension door]]; __Constant__ __(5th)__ [[see-invisibility|see invisibility]];"
 sourcebook: "_Bestiary 2_, page 64."
 ```
 

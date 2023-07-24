@@ -63,7 +63,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 26, attack +18; __Cantrips (4th)__ [[guidance]], [[light]], [[produce flame]], [[stabilize]]; __1st__ [[create water]], [[mending]]; __2nd__ [[detect alignment]] (at will), [[invisibility]] self only, [[speak with animals]]; __3rd__ [[heal]], [[mind reading]] (at will); __4th__ [[fireball]], [[speak with plants]]; __7th__ [[plane shift]] self only;"
+    desc: "DC 26, attack +18; __Cantrips (4th)__ [[guidance]], [[light]], [[produce-flame|produce flame]], [[stabilize]]; __1st__ [[create-water|create water]], [[mending]]; __2nd__ [[detect-alignment|detect alignment]] (at will), [[invisibility]] self only, [[speak-with-animals|speak with animals]]; __3rd__ [[heal]], [[mind-reading|mind reading]] (at will); __4th__ [[fireball]], [[speak-with-plants|speak with plants]]; __7th__ [[plane-shift|plane shift]] self only;"
 sourcebook: "_Bestiary 3_, page 56."
 ```
 

@@ -65,7 +65,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Prepared Spells"
-    desc: "DC 36, attack +26; __Cantrips (6th)__ [[detect magic]], [[mage-hand|mage hand]], [[message]], [[ray of frost]], [[shield]]; __1st__ [[fleet step]], [[ray of enfeeblement]] (2), [[true strike]]; __2nd__ [[false life]], [[mirror image]], [[resist energy]], [[see invisibility]]; __3rd__ [[blindness]], [[locate]], [[magic missile]], [[vampiric touch]]; __4th__ [[dimension door]], [[dispel magic]], [[fire shield]], [[fly]]; __5th__ [[cloudkill]], [[cone of cold]] (2), [[wall of ice]]; __6th__ [[chain lightning]], [[dominate]], [[vampiric exsanguination]];"
+    desc: "DC 36, attack +26; __Cantrips (6th)__ [[detect-magic|detect magic]], [[mage-hand|mage hand]], [[message]], [[ray-of-frost|ray of frost]], [[shield]]; __1st__ [[fleet-step|fleet step]], [[ray-of-enfeeblement|ray of enfeeblement]] (2), [[true-strike|true strike]]; __2nd__ [[false-life|false life]], [[mirror-image|mirror image]], [[resist-energy|resist energy]], [[see-invisibility|see invisibility]]; __3rd__ [[blindness]], [[locate]], [[magic-missile|magic missile]], [[vampiric-touch|vampiric touch]]; __4th__ [[dimension-door|dimension door]], [[dispel-magic|dispel magic]], [[fire-shield|fire shield]], [[fly]]; __5th__ [[cloudkill]], [[cone-of-cold|cone of cold]] (2), [[wall-of-ice|wall of ice]]; __6th__ [[chain-lightning|chain lightning]], [[dominate]], [[vampiric-exsanguination|vampiric exsanguination]];"
 sourcebook: "_Bestiary_, page 221."
 ```
 

@@ -35,7 +35,7 @@ abilityMods: [5, 5, 4, 1, 3, 3]
 
 abilities_mid:
   - name: "Vortex"
-    desc: " ([[aura]], [[water]]);  40 feet. Water in the aura that is also in the same body of water as the marid is [[terrain|difficult terrain]] for Swimming creatures. Creatures with the [[water]] trait are immune."
+    desc: " ([[aura]], [[water]]);  40 feet. Water in the aura that is also in the same body of water as the marid is [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] for Swimming creatures. Creatures with the [[water]] trait are immune."
 abilities_top:
   - name: Items
     desc: "+1 striking trident;"
@@ -69,7 +69,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 28; __2nd__ [[blur]] (at will), [[illusory object]]; __4th__ [[hydraulic push]] (at will), [[hydraulic torrent]], [[solid fog]]; __5th__ [[control water]] (at will), [[hallucinatory terrain]]; __7th__ [[plane shift]] at will; to Astral Plane,Elemental Planes,or Material Plane only; __Constant__ __(1st)__ [[detect alignment]], __(5th)__ [[detect magic]];"
+    desc: "DC 28; __2nd__ [[blur]] (at will), [[illusory-object|illusory object]]; __4th__ [[hydraulic-push|hydraulic push]] (at will), [[hydraulic-torrent|hydraulic torrent]], [[solid-fog|solid fog]]; __5th__ [[control-water|control water]] (at will), [[hallucinatory-terrain|hallucinatory terrain]]; __7th__ [[plane-shift|plane shift]] at will; to Astral Plane,Elemental Planes,or Material Plane only; __Constant__ __(1st)__ [[detect-alignment|detect alignment]], __(5th)__ [[detect-magic|detect magic]];"
 sourcebook: "_Bestiary_, page 165."
 ```
 

@@ -60,7 +60,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 22; __Cantrips (3rd)__ [[dancing lights]]; __2nd__ [[invisibility]] (at will) self only; __3rd__ [[illusory disguise]]; __4th__ [[dimension door]], [[talking corpse]] (at will); __Constant__ __(5th)__ [[tongues]];"
+    desc: "DC 22; __Cantrips (3rd)__ [[dancing-lights|dancing lights]]; __2nd__ [[invisibility]] (at will) self only; __3rd__ [[illusory-disguise|illusory disguise]]; __4th__ [[dimension-door|dimension door]], [[talking-corpse|talking corpse]] (at will); __Constant__ __(5th)__ [[tongues]];"
 sourcebook: "_Bestiary 2_, page 209."
 ```
 

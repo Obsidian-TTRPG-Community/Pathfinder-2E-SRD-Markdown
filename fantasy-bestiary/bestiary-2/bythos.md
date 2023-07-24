@@ -68,7 +68,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 37; __4th__ [[dimensional anchor]] (at will); __6th__ [[slow]]; __7th__ [[dimensional anchor]], [[dimensional lock]], [[haste]], [[plane shift]]; __8th__ [[augury]] (at will), [[teleport]];"
+    desc: "DC 37; __4th__ [[dimensional-anchor|dimensional anchor]] (at will); __6th__ [[slow]]; __7th__ [[dimensional-anchor|dimensional anchor]], [[dimensional-lock|dimensional lock]], [[haste]], [[plane-shift|plane shift]]; __8th__ [[augury]] (at will), [[teleport]];"
 sourcebook: "_Bestiary 2_, page 11."
 ```
 

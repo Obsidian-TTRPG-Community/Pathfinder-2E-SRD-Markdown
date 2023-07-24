@@ -62,7 +62,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 17; __2nd__ [[obscuring mist]];"
+    desc: "DC 17; __2nd__ [[obscuring-mist|obscuring mist]];"
 sourcebook: "_Bestiary 2_, page 113."
 ```
 

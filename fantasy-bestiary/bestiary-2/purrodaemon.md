@@ -64,7 +64,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 37; __1st__ [[detect alignment]] good only; at will; __4th__ [[dimension door]] (at will); __5th__ [[dimension door]]; __7th__ [[flame strike]], [[teleport]]; __9th__ [[bind soul]], [[blade barrier]], [[chain lightning]]; __Constant__ __(6th)__ [[true seeing]];"
+    desc: "DC 37; __1st__ [[detect-alignment|detect alignment]] good only; at will; __4th__ [[dimension-door|dimension door]] (at will); __5th__ [[dimension-door|dimension door]]; __7th__ [[flame-strike|flame strike]], [[teleport]]; __9th__ [[bind-soul|bind soul]], [[blade-barrier|blade barrier]], [[chain-lightning|chain lightning]]; __Constant__ __(6th)__ [[true-seeing|true seeing]];"
 sourcebook: "_Bestiary 2_, page 62."
 ```
 

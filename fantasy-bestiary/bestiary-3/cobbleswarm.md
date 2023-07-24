@@ -33,7 +33,7 @@ abilityMods: [2, 4, 2, -3, 3, 0]
 
 abilities_top:
   - name: "Clutching Cobbles"
-    desc: "  The cobbleswarm's space is [[terrain|difficult terrain]]."
+    desc: "  The cobbleswarm's space is [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]]."
   - name: "Tremorsense"
     desc: "  A cobbleswarm's [[tremorsense]] is a precise sense out to 40 feet and an imprecise sense out to 80 feet. A cobbleswarm can't sense anything beyond the range of its [[tremorsense]]."
 abilities_bot:

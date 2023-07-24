@@ -33,7 +33,7 @@ abilityMods: [7, 6, 5, 1, 5, 4]
 
 abilities_mid:
   - name: "Attack of Opportunity"
-    desc: "⬲  Barb only. A hamatula gains an extra reaction at the start of each of its turns that it can use only to make an [[Attack of Opportunity]]. It can't use more than one [[Attack of Opportunity]] triggered by the same action. In addition to the normal trigger, a hamatula can make an [[Attack of Opportunity]] against a creature that touches it or an adjacent creature that attempts a melee [[Strike]] against it."
+    desc: "⬲  Barb only. A hamatula gains an extra reaction at the start of each of its turns that it can use only to make an [[Attack-of-Opportunity|Attack of Opportunity]]. It can't use more than one [[Attack-of-Opportunity|Attack of Opportunity]] triggered by the same action. In addition to the normal trigger, a hamatula can make an [[Attack-of-Opportunity|Attack of Opportunity]] against a creature that touches it or an adjacent creature that attempts a melee [[Strike]] against it."
 abilities_bot:
   - name: "Bloodletting"
     desc: "  On a critical hit, the hamatula's barbs deal 3d6 (3d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed damage]]."
@@ -64,7 +64,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 27, attack +21; __Cantrips (5th)__ [[produce flame]]; __3rd__ [[harm]], [[paralyze]] (2); __4th__ [[dimension door]] (at will); __5th__ [[dimension door]], [[glyph of warding]] (at will);"
+    desc: "DC 27, attack +21; __Cantrips (5th)__ [[produce-flame|produce flame]]; __3rd__ [[harm]], [[paralyze]] (2); __4th__ [[dimension-door|dimension door]] (at will); __5th__ [[dimension-door|dimension door]], [[glyph-of-warding|glyph of warding]] (at will);"
 sourcebook: "_Bestiary 2_, page 74."
 ```
 

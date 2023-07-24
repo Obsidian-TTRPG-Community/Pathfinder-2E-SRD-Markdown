@@ -50,7 +50,7 @@ abilities_bot:
   - name: "Missile Volley"
     desc: "⬺  The nightmarchers fling a hail of spears and stones, dealing 5d6+9 (5d6+9) bludgeoning or piercing damage to creatures in a 10-foot burst within 20 feet (DC 31 basic Reflex save). When the nightmarchers are reduced to 8 or fewer squares, this decreases to a 5-foot burst. Striking Koa ⬻ to ⬽ Frequency once per round; The troop attacks with spears, clubs, and leiomano against enemies within 5 feet (DC 33 basic Reflex save) for their choice of bludgeoning, piercing, or slashing damage depending on the number of actions. ⬻ 2d6+2 (2d6+2) slashing damage ⬺ 4d6+12 (4d6+12) slashing damage ⬽ 6d6+12 (6d6+12) slashing damage."
   - name: "Troop Movement"
-    desc: "  Whenever the nightmarchers [[Stride]], they first Form Up as a free action to condense into a 20-foot-by-20-foot area (minus any missing squares), then move. This works just like a Gargantuan creature moving; for instance, if any of the nightmarchers' squares enter [[terrain|difficult terrain]], the extra movement cost applies to the whole group."
+    desc: "  Whenever the nightmarchers [[Stride]], they first Form Up as a free action to condense into a 20-foot-by-20-foot area (minus any missing squares), then move. This works just like a Gargantuan creature moving; for instance, if any of the nightmarchers' squares enter [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]], the extra movement cost applies to the whole group."
 
 speed: 25 feet; air walk, troop movement;
 
@@ -68,7 +68,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 31; __Constant__ __(4th)__ [[air walk]];"
+    desc: "DC 31; __Constant__ __(4th)__ [[air-walk|air walk]];"
 sourcebook: "_Bestiary 3_, page 187."
 ```
 

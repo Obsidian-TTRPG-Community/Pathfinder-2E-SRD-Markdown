@@ -62,7 +62,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 25; __Cantrips (4th)__ [[detect magic]]; __4th__ [[charm]] (at will), [[dimension door]] (at will), [[misdirection]] at will; self only, [[outcast's curse]] (at will), [[suggestion]] (at will);"
+    desc: "DC 25; __Cantrips (4th)__ [[detect-magic|detect magic]]; __4th__ [[charm]] (at will), [[dimension-door|dimension door]] (at will), [[misdirection]] at will; self only, [[outcast's curse]] (at will), [[suggestion]] (at will);"
 sourcebook: "_Bestiary 3_, page 70."
 ```
 

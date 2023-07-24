@@ -57,7 +57,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 32, attack +24; __2nd__ [[entangle]]; __3rd__ [[earthbind]] (at will); __6th__ [[tangling creepers]]; __Constant__ __(4th)__ [[speak with plants]];"
+    desc: "DC 32, attack +24; __2nd__ [[entangle]]; __3rd__ [[earthbind]] (at will); __6th__ [[tangling-creepers|tangling creepers]]; __Constant__ __(4th)__ [[speak-with-plants|speak with plants]];"
 sourcebook: "_Bestiary 3_, page 21."
 ```
 

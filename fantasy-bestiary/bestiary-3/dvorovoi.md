@@ -57,7 +57,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 18; __Cantrips (2nd)__ [[prestidigitation]], [[mage-hand|mage hand]]; __1st__ [[charm]] animals only, [[command]] animals only, [[mending]]; __2nd__ [[entangle]], [[speak with animals]] (at will);"
+    desc: "DC 18; __Cantrips (2nd)__ [[prestidigitation]], [[mage-hand|mage hand]]; __1st__ [[charm]] animals only, [[command]] animals only, [[mending]]; __2nd__ [[entangle]], [[speak-with-animals|speak with animals]] (at will);"
 sourcebook: "_Bestiary 3_, page 137."
 ```
 

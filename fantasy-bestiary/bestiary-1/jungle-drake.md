@@ -46,7 +46,7 @@ abilities_bot:
   - name: "Spit Venom"
     desc: "⬺ ([[poison]]);  A jungle drake can spit a sticky glob of its venom to a range of 50 feet that explodes in a 10-foot burst. Those in the burst must succeed at a DC 24 Reflex save or be exposed to jungle drake venom. The jungle drake can't use Spit Venom again for 1d6 (1d6) rounds."
   - name: "Woodland Stride"
-    desc: "  The jungle drake ignores [[terrain|difficult terrain]] and [[terrain|greater difficult terrain]] from non-magical foliage."
+    desc: "  The jungle drake ignores [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] and [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|greater difficult terrain]] from non-magical foliage."
 
 speed: 20 feet, fly 50 feet; woodland stride;
 

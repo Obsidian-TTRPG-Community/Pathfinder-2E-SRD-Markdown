@@ -50,13 +50,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +29 ([[agile]], [[cold iron]]); __Damage__ 3d6+15 (3d6+15) slashing"
+    desc: "⬻ claw +29 ([[agile]], [[cold-iron|cold iron]]); __Damage__ 3d6+15 (3d6+15) slashing"
   - name: Melee
-    desc: "⬻ wing +29 ([[cold iron]], [[reach|reach 10 feet]]); __Damage__ 2d6+15 (2d6+15) piercing plus 2d6 (2d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed]]"
+    desc: "⬻ wing +29 ([[cold-iron|cold iron]], [[reach|reach 10 feet]]); __Damage__ 2d6+15 (2d6+15) piercing plus 2d6 (2d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed]]"
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 34, attack +26; __1st__ [[ray of enfeeblement]]; __2nd__ [[silence]]; __4th__ [[darkness]] (at will), [[dimensional anchor]]; __6th__ [[true seeing]]; __7th__ [[prismatic spray]], [[teleport]]; __8th__ [[discern location]];"
+    desc: "DC 34, attack +26; __1st__ [[ray-of-enfeeblement|ray of enfeeblement]]; __2nd__ [[silence]]; __4th__ [[darkness]] (at will), [[dimensional-anchor|dimensional anchor]]; __6th__ [[true-seeing|true seeing]]; __7th__ [[prismatic-spray|prismatic spray]], [[teleport]]; __8th__ [[discern-location|discern location]];"
 sourcebook: "_Bestiary 2_, page 19."
 ```
 

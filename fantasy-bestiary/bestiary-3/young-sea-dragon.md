@@ -76,7 +76,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 26; __1st__ [[create water]] (at will); __2nd__ [[endure elements]] self only; __Constant__ __(2nd)__ [[water walk]];"
+    desc: "DC 26; __1st__ [[create-water|create water]] (at will); __2nd__ [[endure-elements|endure elements]] self only; __Constant__ __(2nd)__ [[water-walk|water walk]];"
 sourcebook: "_Bestiary 3_, page 77."
 ```
 

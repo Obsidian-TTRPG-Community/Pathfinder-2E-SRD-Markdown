@@ -78,7 +78,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 38, attack +30; __4th__ [[hydraulic push]] (at will), [[obscuring mist]] (at will); __5th__ [[control water]] (3), [[mariner's curse]]; __6th__ [[hydraulic torrent]];"
+    desc: "DC 38, attack +30; __4th__ [[hydraulic-push|hydraulic push]] (at will), [[obscuring-mist|obscuring mist]] (at will); __5th__ [[control-water|control water]] (3), [[mariner's curse]]; __6th__ [[hydraulic-torrent|hydraulic torrent]];"
 sourcebook: "_Bestiary 2_, page 88."
 ```
 

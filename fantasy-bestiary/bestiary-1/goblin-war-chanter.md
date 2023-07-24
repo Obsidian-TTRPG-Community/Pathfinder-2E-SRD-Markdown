@@ -61,7 +61,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Spontaneous Spells"
-    desc: "DC 17; __Cantrips (1st)__ [[ghost sound]], [[inspire courage]], [[mage-hand|mage hand]], [[message]], [[telekinetic projectile]]; __1st__ (2 slots) [[bless]], [[soothe]];"
+    desc: "DC 17; __Cantrips (1st)__ [[ghost-sound|ghost sound]], [[inspire-courage|inspire courage]], [[mage-hand|mage hand]], [[message]], [[telekinetic-projectile|telekinetic projectile]]; __1st__ (2 slots) [[bless]], [[soothe]];"
 sourcebook: "_Bestiary_, page 181."
 ```
 

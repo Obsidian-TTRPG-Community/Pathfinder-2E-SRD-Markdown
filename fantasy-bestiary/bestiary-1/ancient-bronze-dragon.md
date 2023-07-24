@@ -39,7 +39,7 @@ abilities_mid:
   - name: "Frightful Presence"
     desc: " ([[aura]], [[emotion]], [[fear]], [[mental]]);  90 feet, DC 38."
   - name: "Vortex"
-    desc: " ([[aura]], [[water]]);  40 feet. Water in the aura that is also in the same body of water as the dragon is [[terrain|difficult terrain]] for Swimming creatures that don't have the [[water]] trait."
+    desc: " ([[aura]], [[water]]);  40 feet. Water in the aura that is also in the same body of water as the dragon is [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] for Swimming creatures that don't have the [[water]] trait."
   - name: "Attack of Opportunity"
     desc: "⬲  Jaws only."
   - name: "Vortex Pull"
@@ -76,7 +76,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 40; __2nd__ [[obscuring mist]] (at will); __5th__ [[control water]] (at will); __Constant__ __(2nd)__ [[speak with animals]];"
+    desc: "DC 40; __2nd__ [[obscuring-mist|obscuring mist]] (at will); __5th__ [[control-water|control water]] (at will); __Constant__ __(2nd)__ [[speak-with-animals|speak with animals]];"
 sourcebook: "_Bestiary_, page 120."
 ```
 

@@ -69,7 +69,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 43; __5th__ [[dimension door]] (at will); __7th__ [[paralyze]], [[regenerate]]; __9th__ [[massacre]], [[power word kill]], [[vampiric exsanguination]]; __Constant__ ;"
+    desc: "DC 43; __5th__ [[dimension-door|dimension door]] (at will); __7th__ [[paralyze]], [[regenerate]]; __9th__ [[massacre]], [[power-word-kill|power word kill]], [[vampiric-exsanguination|vampiric exsanguination]]; __Constant__ ;"
 sourcebook: "_Bestiary 2_, page 69."
 ```
 

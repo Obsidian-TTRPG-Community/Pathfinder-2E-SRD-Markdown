@@ -44,7 +44,7 @@ abilities_top:
     desc: "+1 resilient breastplate, +2 striking katana;"
 abilities_bot:
   - name: "Change Shape"
-    desc: "⬻ ([[concentrate]], [[polymorph]], [[primal]], [[transmutation]]);  The fire yai takes on the appearance of a [[fire giant]]. This doesn't change their Speed or [[Strike]] attack and damage."
+    desc: "⬻ ([[concentrate]], [[polymorph]], [[primal]], [[transmutation]]);  The fire yai takes on the appearance of a [[fire-giant|fire giant]]. This doesn't change their Speed or [[Strike]] attack and damage."
   - name: "Impaling Push"
     desc: "⬺  The fire yai attempts a katana [[Strike]]. If it hits, the fire yai attempts an [[compendium/skills.md#Athletics|Athletics]] check against the target creature's Fortitude DC.\n__Critical Success__ The fire yai [[Stride|Strides]] or Flies up to half its Speed in any direction. The struck creature takes 4d6 (4d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed damage]] and is pushed along with the yai an equal distance. The creature is [[rules/conditions.md#Grabbed|grabbed]] until the yai's next turn or until the yai makes a katana [[Strike]].\n__Success__ As critical success, but the creature takes 2d6 (2d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed damage]].\n__Failure__ The struck creature is pushed back 5 feet.\n__Critical Failure__ The struck creature is unaffected."
   - name: "Smoke Form"
@@ -72,7 +72,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 34; __2nd__ [[invisibility]] (at will) self only; __4th__ [[charm]] (3), [[darkness]], [[gaseous form]]; __6th__ [[fireball]] (3); __7th__ [[fireball]], [[fiery body]], [[flame strike]], [[wall of fire]];"
+    desc: "DC 34; __2nd__ [[invisibility]] (at will) self only; __4th__ [[charm]] (3), [[darkness]], [[gaseous-form|gaseous form]]; __6th__ [[fireball]] (3); __7th__ [[fireball]], [[fiery-body|fiery body]], [[flame-strike|flame strike]], [[wall-of-fire|wall of fire]];"
 sourcebook: "_Bestiary 2_, page 190."
 ```
 

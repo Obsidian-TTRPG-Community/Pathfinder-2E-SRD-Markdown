@@ -64,11 +64,11 @@ attacks:
   - name: Melee
     desc: "⬻ leg +27 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 3d8+14 (3d8+14) slashing"
   - name: Ranged
-    desc: "⬻ web bola +28 ([[magical]], [[nonlethal]], [[ranged trip]], [[thrown|thrown 20 feet]]); __Damage__ 2d6+14 (2d6+14) bludgeoning"
+    desc: "⬻ web bola +28 ([[magical]], [[nonlethal]], [[ranged-trip|ranged trip]], [[thrown|thrown 20 feet]]); __Damage__ 2d6+14 (2d6+14) bludgeoning"
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 33; __Cantrips (7th)__ [[detect magic]]; __4th__ [[charm]] (3), [[freedom of movement]]; __6th__ [[illusory scene]], [[mislead]]; __7th__ [[dispel magic]], [[veil]], [[warp mind]]; __Constant__ __(7th)__ [[air walk]], [[tongues]];"
+    desc: "DC 33; __Cantrips (7th)__ [[detect-magic|detect magic]]; __4th__ [[charm]] (3), [[freedom-of-movement|freedom of movement]]; __6th__ [[illusory-scene|illusory scene]], [[mislead]]; __7th__ [[dispel-magic|dispel magic]], [[veil]], [[warp-mind|warp mind]]; __Constant__ __(7th)__ [[air-walk|air walk]], [[tongues]];"
 sourcebook: "_Bestiary 2_, page 157."
 ```
 

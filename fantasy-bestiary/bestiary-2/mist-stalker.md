@@ -41,7 +41,7 @@ abilities_bot:
   - name: "Constrict"
     desc: "⬻  1d8+4 (1d8+4) bludgeoning, DC 21."
   - name: "Solidify Mist"
-    desc: "⬻ ([[primal]], [[transmutation]], [[water]]);  The mist stalker makes its mist cloud congeal, causing the aura to be [[terrain|difficult terrain]] until the start of the mist stalker's next turn. In addition, the mist stalker can make the mist even thicker around a single Medium or smaller creature within the cloud. The creature must succeed at a DC 20 Reflex save or become [[rules/conditions.md#Immobilized|immobilized]] until it [[Escape|Escapes]] or it is no longer in the mist cloud's emanation."
+    desc: "⬻ ([[primal]], [[transmutation]], [[water]]);  The mist stalker makes its mist cloud congeal, causing the aura to be [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] until the start of the mist stalker's next turn. In addition, the mist stalker can make the mist even thicker around a single Medium or smaller creature within the cloud. The creature must succeed at a DC 20 Reflex save or become [[rules/conditions.md#Immobilized|immobilized]] until it [[Escape|Escapes]] or it is no longer in the mist cloud's emanation."
 
 speed: 20 feet, climb 20 feet, swim 30 feet
 

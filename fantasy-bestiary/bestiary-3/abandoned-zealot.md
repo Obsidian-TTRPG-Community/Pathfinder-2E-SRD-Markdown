@@ -54,7 +54,7 @@ armorclass:
 hp: 75
 health:
   - name: HP
-    desc: "75; [[negative healing]]; __Immunities__ poison, precision, death effects, disease, paralyzed, unconscious; __Resistances__ all damage 5 except force, [[ghost touch]], or positive; double resistance against non-magical"
+    desc: "75; [[negative-healing-b2|negative healing]]; __Immunities__ poison, precision, death effects, disease, paralyzed, unconscious; __Resistances__ all damage 5 except force, [[ghost-touch|ghost touch]], or positive; double resistance against non-magical"
 
 
 attacks:
@@ -63,7 +63,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 24; __4th__ [[crisis of faith]]; __6th__ [[zealous conviction]] self only;"
+    desc: "DC 24; __4th__ [[crisis-of-faith|crisis of faith]]; __6th__ [[zealous-conviction|zealous conviction]] self only;"
 sourcebook: "_Bestiary 3_, page 8."
 ```
 

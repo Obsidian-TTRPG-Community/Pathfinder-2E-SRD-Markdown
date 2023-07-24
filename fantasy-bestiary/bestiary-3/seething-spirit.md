@@ -55,7 +55,7 @@ armorclass:
 hp: 145
 health:
   - name: HP
-    desc: "145; [[negative healing]]; __Immunities__ poison, precision, death effects, disease, paralyzed, unconscious; __Weaknesses__ emotion ; __Resistances__ all damage 10 (except emotion, force, ghost touch, mental, or positive; double resistance vs. non-magical)"
+    desc: "145; [[negative-healing-b2|negative healing]]; __Immunities__ poison, precision, death effects, disease, paralyzed, unconscious; __Weaknesses__ emotion ; __Resistances__ all damage 10 (except emotion, force, ghost touch, mental, or positive; double resistance vs. non-magical)"
 
 
 attacks:
@@ -64,7 +64,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 32; __2nd__ [[invisibility]] (at will) self-only, [[ventriloquism]] (at will); __3rd__ [[mind reading]] (at will); __6th__ [[paranoia]], [[remove fear]], [[suggestion]] (3); __Constant__ __(6th)__ [[tongues]];"
+    desc: "DC 32; __2nd__ [[invisibility]] (at will) self-only, [[ventriloquism]] (at will); __3rd__ [[mind-reading|mind reading]] (at will); __6th__ [[paranoia]], [[remove-fear|remove fear]], [[suggestion]] (3); __Constant__ __(6th)__ [[tongues]];"
 sourcebook: "_Bestiary 3_, page 228."
 ```
 

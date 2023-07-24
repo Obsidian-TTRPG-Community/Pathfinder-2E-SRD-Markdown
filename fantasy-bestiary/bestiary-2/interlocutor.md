@@ -63,7 +63,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 33; __7th__ [[plane shift]], [[to the Material Plane or Shadow]];"
+    desc: "DC 33; __7th__ [[plane-shift|plane shift]], [[to the Material Plane or Shadow]];"
 sourcebook: "_Bestiary 2_, page 284."
 ```
 

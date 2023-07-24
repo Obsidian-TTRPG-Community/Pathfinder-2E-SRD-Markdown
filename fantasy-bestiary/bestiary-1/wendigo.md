@@ -65,7 +65,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 38; __4th__ [[nightmare]] see dream haunting; __8th__ [[wind walk]] (at will);"
+    desc: "DC 38; __4th__ [[nightmare]] see dream haunting; __8th__ [[wind-walk|wind walk]] (at will);"
 sourcebook: "_Bestiary_, page 327."
 ```
 

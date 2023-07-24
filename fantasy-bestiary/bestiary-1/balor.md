@@ -35,7 +35,7 @@ abilities_mid:
   - name: "Aura of Flame"
     desc: " ([[aura]], [[divine]], [[evocation]], [[fire]]);  20 feet. A foe that starts its turn in the aura takes 3d6+10 (3d6+10) fire damage, or 6d6+20 (6d6+20) fire damage if the balor has [[rules/conditions.md#Grabbed|grabbed]] or [[rules/conditions.md#Restrained|restrained]] it. A creature that hits a balor with an unarmed [[Strike]] takes 3d6+10 (3d6+10) fire damage, and weapons that hit a balor take 3d6+10 (3d6+10) fire damage."
   - name: "Attack of Opportunity"
-    desc: "⬲  The balor can use [[Attack of Opportunity]] when a creature within their reach uses a concentrate action, in addition to its normal trigger. They can disrupt triggering concentrate actions, and they disrupt actions on any hit, not just a critical hit."
+    desc: "⬲  The balor can use [[Attack-of-Opportunity|Attack of Opportunity]] when a creature within their reach uses a concentrate action, in addition to its normal trigger. They can disrupt triggering concentrate actions, and they disrupt actions on any hit, not just a critical hit."
   - name: "Death Throes"
     desc: " ([[death]], [[divine]], [[evocation]], [[fire]]);  When a balor dies, their body explodes in a 100-foot aura of intense demonic flame. All creatures and objects in range take 16d10 (16d10) fire damage (DC 45 basic Reflex save). Because the flame is infused with Abyssal energy, creatures in the area apply only half their usual fire resistance. Creatures with immunity to fire use an outcome one degree of success better than what they rolled, instead of gaining the usual benefit of immunity. The bodies of creatures reduced to 0 Hit Points by a balor's death throes are completely incinerated into fine ash."
 abilities_top:
@@ -69,11 +69,11 @@ attacks:
   - name: Melee
     desc: "⬻ vorpal cold iron silver longsword +40 ([[evil]], [[magical]], [[reach|reach 10 feet]], [[versatile|versatile p]]); __Damage__ 4d8+17 (4d8+17) slashing plus 1d6 (1d6) evil"
   - name: Melee
-    desc: "⬻ cold iron silver flame whip +40 ([[disarm]], [[evil]], [[fire]], [[magical]], [[reach|reach 20 feet]], [[trip]]); __Damage__ 4d6+17 (4d6+17) fire plus 1d6 (1d6) evil, [[Improved Grab]], and whip reposition"
+    desc: "⬻ cold iron silver flame whip +40 ([[disarm]], [[evil]], [[fire]], [[magical]], [[reach|reach 20 feet]], [[trip]]); __Damage__ 4d6+17 (4d6+17) fire plus 1d6 (1d6) evil, [[Improved-Grab|Improved Grab]], and whip reposition"
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 44; __Cantrips (10th)__ [[telekinetic projectile]]; __5th__ [[dimension door]] (at will); __6th__ [[dominate]] (at will); __8th__ [[dispel magic]] (at will); __10th__ [[dimension door]], [[divine decree]] (2); __Constant__ __(6th)__ [[true seeing]];"
+    desc: "DC 44; __Cantrips (10th)__ [[telekinetic-projectile|telekinetic projectile]]; __5th__ [[dimension-door|dimension door]] (at will); __6th__ [[dominate]] (at will); __8th__ [[dispel-magic|dispel magic]] (at will); __10th__ [[dimension-door|dimension door]], [[divine-decree|divine decree]] (2); __Constant__ __(6th)__ [[true-seeing|true seeing]];"
 sourcebook: "_Bestiary_, page 83."
 ```
 

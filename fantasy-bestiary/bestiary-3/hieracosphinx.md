@@ -34,7 +34,7 @@ abilities_mid:
   - name: "Buck"
     desc: "⬲  DC 23"
   - name: "Contingent Glyph"
-    desc: " ([[abjuration]], [[occult]]);  A hieracosphinx has an innate magical defense similar to a contingency. When they take a specific type of energy damage (varying by the individual sphinx), they can use their reaction to have the glyph cast [[haste]] on them. The glyph is then dormant for 1 week. A critical success to [[Recall Knowledge]] about a particular hieracosphinx (30 or higher on the check) reveals which damage type triggers the glyph."
+    desc: " ([[abjuration]], [[occult]]);  A hieracosphinx has an innate magical defense similar to a contingency. When they take a specific type of energy damage (varying by the individual sphinx), they can use their reaction to have the glyph cast [[haste]] on them. The glyph is then dormant for 1 week. A critical success to [[Recall-Knowledge|Recall Knowledge]] about a particular hieracosphinx (30 or higher on the check) reveals which damage type triggers the glyph."
 abilities_bot:
   - name: "Pounce"
     desc: "⬻  The hieracosphinx [[Stride|Strides]] and makes a [[Strike]] at the end of that movement. If they began this action [[rules/conditions.md#Hidden|hidden]], they remain [[rules/conditions.md#Hidden|hidden]] until after the attack."

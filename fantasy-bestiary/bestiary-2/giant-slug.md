@@ -35,7 +35,7 @@ abilities_bot:
   - name: "Mucus"
     desc: "  Any creature hit by the giant slug or that moves into its mucus trail is coated in sticky, caustic mucus. It takes 1d4 (1d4) [[rules/conditions.md#Persistent%20Damage|persistent acid damage]] and takes a –5-foot status penalty to its Speeds while the damage persists."
   - name: "Mucus Trail"
-    desc: "  Any square the giant slug moves into is coated in mucus. These spaces are [[terrain|difficult terrain]], and any creature that moves into one or ends its turn in one is subjected to the slug's mucus. After an hour, the mucus dries and the area is no longer [[terrain|difficult terrain]]."
+    desc: "  Any square the giant slug moves into is coated in mucus. These spaces are [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]], and any creature that moves into one or ends its turn in one is subjected to the slug's mucus. After an hour, the mucus dries and the area is no longer [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]]."
   - name: "Trample"
     desc: "⬽  Large or smaller, foot, DC 27."
 

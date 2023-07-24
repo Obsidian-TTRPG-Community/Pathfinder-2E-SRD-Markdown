@@ -64,7 +64,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 25; __Cantrips (4th)__ [[know direction]], [[read aura]]; __2nd__ [[augury]], [[undetectable alignment]]; __3rd__ [[clairaudience]], [[earthbind]]; __4th__ [[clairvoyance]], [[read omens]], [[shape stone]];"
+    desc: "DC 25; __Cantrips (4th)__ [[know-direction|know direction]], [[read-aura|read aura]]; __2nd__ [[augury]], [[undetectable-alignment|undetectable alignment]]; __3rd__ [[clairaudience]], [[earthbind]]; __4th__ [[clairvoyance]], [[read-omens|read omens]], [[shape-stone|shape stone]];"
 sourcebook: "_Bestiary 2_, page 255."
 ```
 

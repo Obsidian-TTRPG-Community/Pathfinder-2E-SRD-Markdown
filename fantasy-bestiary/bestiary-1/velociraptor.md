@@ -32,7 +32,7 @@ abilityMods: [0, 3, 2, -4, 1, 1]
 
 abilities_bot:
   - name: "Leaping Charge"
-    desc: "⬻  The velociraptor [[Stride|Strides]] up to 10 feet, ignoring [[terrain|difficult terrain]] as it leaps over obstacles. It then makes a [[Strike]] with its talons, gaining a +1 circumstance bonus to its attack roll."
+    desc: "⬻  The velociraptor [[Stride|Strides]] up to 10 feet, ignoring [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] as it leaps over obstacles. It then makes a [[Strike]] with its talons, gaining a +1 circumstance bonus to its attack roll."
   - name: "Pack Attack"
     desc: "  The velociraptor deals 1d4 (1d4) extra damage to any creature that's within reach of at least two of the velociraptor's allies."
 

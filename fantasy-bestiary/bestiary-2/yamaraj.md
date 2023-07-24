@@ -61,7 +61,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +38 ([[magical]], [[reach|reach 15 feet]]); __Damage__ 4d8+18 (4d8+18) piercing plus [[Improved Grab]] and yamaraj venom and spirit touch"
+    desc: "⬻ jaws +38 ([[magical]], [[reach|reach 15 feet]]); __Damage__ 4d8+18 (4d8+18) piercing plus [[Improved-Grab|Improved Grab]] and yamaraj venom and spirit touch"
   - name: Melee
     desc: "⬻ claw +38 ([[agile]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 4d4+18 (4d4+18) slashing plus spirit touch"
   - name: Melee
@@ -69,7 +69,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 44; __5th__ [[dimension door]] (at will), [[mind probe]] (at will); __8th__ [[chain lightning]] (3), [[dispel magic]] (3), [[spirit song]], [[wall of force]]; __9th__ [[bind soul]], [[harm]], [[heal]], [[wail of the banshee]]; __10th__ [[miracle]], [[revival]]; __Constant__ __(10th)__ [[true seeing]];"
+    desc: "DC 44; __5th__ [[dimension-door|dimension door]] (at will), [[mind-probe|mind probe]] (at will); __8th__ [[chain-lightning|chain lightning]] (3), [[dispel-magic|dispel magic]] (3), [[spirit-song|spirit song]], [[wall-of-force|wall of force]]; __9th__ [[bind-soul|bind soul]], [[harm]], [[heal]], [[wail-of-the-banshee|wail of the banshee]]; __10th__ [[miracle]], [[revival]]; __Constant__ __(10th)__ [[true-seeing|true seeing]];"
 sourcebook: "_Bestiary 2_, page 211."
 ```
 

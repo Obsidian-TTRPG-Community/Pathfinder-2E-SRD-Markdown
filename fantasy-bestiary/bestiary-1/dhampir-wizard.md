@@ -63,7 +63,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Prepared Spells"
-    desc: "DC 18, attack +8; __Cantrips (1st)__ [[chill-touch|chill touch]], [[detect magic]], [[prestidigitation]], [[ray of frost]], [[shield]]; __1st__ [[command]], [[grim tendrils]] (2), [[magic missile]];"
+    desc: "DC 18, attack +8; __Cantrips (1st)__ [[chill-touch|chill touch]], [[detect-magic|detect magic]], [[prestidigitation]], [[ray-of-frost|ray of frost]], [[shield]]; __1st__ [[command]], [[grim-tendrils|grim tendrils]] (2), [[magic-missile|magic missile]];"
 sourcebook: "_Bestiary_, page 95."
 ```
 

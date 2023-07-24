@@ -38,7 +38,7 @@ abilities_mid:
   - name: "Golem Antimagic"
     desc: "  harmed by fire (5d8 (5d8), 3d4 (3d4) from areas or [[rules/conditions.md#Persistent%20Damage|persistent damage]]); healed by electricity (area 2d4 (2d4) HP); [[rules/conditions.md#Slowed|slowed]] by cold."
   - name: "Vulnerable to Flesh to Stone"
-    desc: "  Casting a [[flesh to stone]] spell on the flesh golem affects the golem normally."
+    desc: "  Casting a [[flesh-to-stone|flesh to stone]] spell on the flesh golem affects the golem normally."
   - name: "Electric Reflexes"
     desc: "⬲ __Trigger__ The golem takes electricity damage and a creature is adjacent to it. __Effect__  The golem lashes out and tries to grab a nearby creature. The golem attempts an [[compendium/skills.md#Athletics|Athletics]] check to [[Grapple]] an adjacent creature. The creature also takes 3d6 (3d6) electricity damage on a success, or 6d6 (6d6) electricity damage on a critical success."
 abilities_bot:

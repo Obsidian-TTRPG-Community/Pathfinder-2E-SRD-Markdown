@@ -58,7 +58,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 26; __Cantrips (4th)__ [[daze]], [[detect magic]], [[ghost sound]], [[inspire competence]], [[inspire courage]], [[light]]; __1st__ [[charm]]; __2nd__ [[darkness]], [[invisibility]]; __3rd__ [[sleep]]; __4th__ [[counter performance]], [[hallucinatory terrain]], [[heal]], [[inspire heroics]], [[sound burst]], [[suggestion]]; __Constant__ __(2nd)__ [[speak with animals]], __(4th)__ [[speak with plants]], __(5th)__ [[tongues]];"
+    desc: "DC 26; __Cantrips (4th)__ [[daze]], [[detect-magic|detect magic]], [[ghost-sound|ghost sound]], [[inspire-competence|inspire competence]], [[inspire-courage|inspire courage]], [[light]]; __1st__ [[charm]]; __2nd__ [[darkness]], [[invisibility]]; __3rd__ [[sleep]]; __4th__ [[counter-performance|counter performance]], [[hallucinatory-terrain|hallucinatory terrain]], [[heal]], [[inspire-heroics|inspire heroics]], [[sound-burst|sound burst]], [[suggestion]]; __Constant__ __(2nd)__ [[speak-with-animals|speak with animals]], __(4th)__ [[speak-with-plants|speak with plants]], __(5th)__ [[tongues]];"
 sourcebook: "_Bestiary_, page 32."
 ```
 

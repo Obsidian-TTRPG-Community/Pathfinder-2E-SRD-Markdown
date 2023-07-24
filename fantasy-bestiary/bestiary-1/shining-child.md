@@ -59,7 +59,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 33; __Cantrips (6th)__ [[light]]; __2nd__ [[illusory object]] (at will); __4th__ [[dimension door]] at will; self only; __5th__ [[dimension door]], [[false vision]], [[hallucinatory terrain]]; __6th__ [[dispel magic]], [[vibrant pattern]], [[wall of force]]; __7th__ [[spell turning]], [[sunburst]];"
+    desc: "DC 33; __Cantrips (6th)__ [[light]]; __2nd__ [[illusory-object|illusory object]] (at will); __4th__ [[dimension-door|dimension door]] at will; self only; __5th__ [[dimension-door|dimension door]], [[false-vision|false vision]], [[hallucinatory-terrain|hallucinatory terrain]]; __6th__ [[dispel-magic|dispel magic]], [[vibrant-pattern|vibrant pattern]], [[wall-of-force|wall of force]]; __7th__ [[spell-turning|spell turning]], [[sunburst]];"
 sourcebook: "_Bestiary_, page 292."
 ```
 

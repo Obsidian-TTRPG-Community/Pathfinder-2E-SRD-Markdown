@@ -60,7 +60,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 31; __5th__ [[dimension door]] (3); __Constant__ __(7th)__ [[true seeing]];"
+    desc: "DC 31; __5th__ [[dimension-door|dimension door]] (3); __Constant__ __(7th)__ [[true-seeing|true seeing]];"
 sourcebook: "_Bestiary 2_, page 216."
 ```
 

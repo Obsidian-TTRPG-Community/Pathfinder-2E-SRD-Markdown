@@ -64,7 +64,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 23; __Cantrips (3rd)__ [[sigil]]; __1st__ [[sanctuary]] (3), [[true strike]];"
+    desc: "DC 23; __Cantrips (3rd)__ [[sigil]]; __1st__ [[sanctuary]] (3), [[true-strike|true strike]];"
 sourcebook: "_Bestiary 3_, page 166."
 ```
 

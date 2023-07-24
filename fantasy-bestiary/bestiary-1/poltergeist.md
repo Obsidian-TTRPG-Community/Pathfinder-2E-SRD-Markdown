@@ -67,7 +67,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 23, attack +13; __Cantrips (3rd)__ [[mage-hand|mage hand]]; __3rd__ [[telekinetic maneuver]] (at will);"
+    desc: "DC 23, attack +13; __Cantrips (3rd)__ [[mage-hand|mage hand]]; __3rd__ [[telekinetic-maneuver|telekinetic maneuver]] (at will);"
 sourcebook: "_Bestiary_, page 264."
 ```
 

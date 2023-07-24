@@ -35,7 +35,7 @@ abilities_mid:
   - name: "Blatant Liar"
     desc: "  While all divs delight in lying, sepids are compulsive and predictable liars who always do the opposite of what they claim they'll do. If a sepid is ever forced or compelled to tell the truth, they take 4d8 (4d8) mental damage."
   - name: "Attack of Opportunity"
-    desc: "⬲  A sepid gains an extra reaction each round that they can use only to make an [[Attack of Opportunity]]."
+    desc: "⬲  A sepid gains an extra reaction each round that they can use only to make an [[Attack-of-Opportunity|Attack of Opportunity]]."
   - name: "Deflecting Lie"
     desc: "⬲ __Trigger__ A creature hits the sepid with a ranged [[Strike]] or a ranged spell attack roll __Effect__  The sepid lies in an attempt to divert the attack. They roll a [[compendium/skills.md#Deception|Deception]] check against the triggering creature's [[compendium/skills.md#Perception|Perception]] DC. On a success, if the triggering attack roll was a success, it becomes a failure, and if the triggering attack roll was a critical hit, it becomes a normal success."
 abilities_top:
@@ -67,7 +67,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 34; __Cantrips (7th)__ [[detect magic]]; __3rd__ [[comprehend language]] at will; self only; __4th__ [[darkness]] (at will), [[dimension door]] (at will), [[fly]]; __7th__ [[dispel magic]], [[misdirection]] at will; self only, [[nondetection]] at will; self only, [[paralyze]];"
+    desc: "DC 34; __Cantrips (7th)__ [[detect-magic|detect magic]]; __3rd__ [[comprehend-language|comprehend language]] at will; self only; __4th__ [[darkness]] (at will), [[dimension-door|dimension door]] (at will), [[fly]]; __7th__ [[dispel-magic|dispel magic]], [[misdirection]] at will; self only, [[nondetection]] at will; self only, [[paralyze]];"
 sourcebook: "_Bestiary 3_, page 71."
 ```
 

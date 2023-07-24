@@ -61,7 +61,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 15; __Cantrips (1st)__ [[detect magic]]; __2nd__ [[darkness]] (at will);"
+    desc: "DC 15; __Cantrips (1st)__ [[detect-magic|detect magic]]; __2nd__ [[darkness]] (at will);"
 sourcebook: "_Bestiary_, page 50."
 ```
 

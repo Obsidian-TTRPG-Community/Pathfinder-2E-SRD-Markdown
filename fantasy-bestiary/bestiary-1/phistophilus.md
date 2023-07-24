@@ -40,7 +40,7 @@ abilities_bot:
   - name: "Infernal Investment"
     desc: "  A contract devil can cast a 10th-level innate [[scrying]] spell at will, but only to target a creature with which it has a contract. The target automatically critically fails its save."
   - name: "Infernal Wound"
-    desc: " ([[divine]], [[necromancy]]);  A contract devil's glaive [[Strike]] also deals 3d6 (3d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed damage]] that resists attempts to heal it. The flat check to stop the bleeding starts at DC 20. The DC is reduced to 15 only if the bleeding creature or an ally successfully assists with the recovery. The DC to [[Administer First Aid]] to a creature with an infernal wound is increased by 5. A spellcaster or item attempting to use healing magic on a creature suffering from an infernal wound must succeed at a DC 29 counteract check or the magic fails to heal the creature."
+    desc: " ([[divine]], [[necromancy]]);  A contract devil's glaive [[Strike]] also deals 3d6 (3d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed damage]] that resists attempts to heal it. The flat check to stop the bleeding starts at DC 20. The DC is reduced to 15 only if the bleeding creature or an ally successfully assists with the recovery. The DC to [[Administer-First-Aid|Administer First Aid]] to a creature with an infernal wound is increased by 5. A spellcaster or item attempting to use healing magic on a creature suffering from an infernal wound must succeed at a DC 29 counteract check or the magic fails to heal the creature."
 
 speed: 25 feet
 
@@ -62,7 +62,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 31; __Cantrips (7th)__ [[detect magic]]; __3rd__ [[mind reading]] (at will); __4th__ [[dimension door]] (at will), [[private sanctum]], [[silence]]; __5th__ [[dimension door]], [[fireball]], [[illusory scene]], [[lightning bolt]], [[locate]] (at will), [[mind probe]], [[sending]] (at will); __7th__ [[plane shift]]; __10th__ [[scrying]] (at will) see infernal investment; __Constant__ __(5th)__ [[tongues]];"
+    desc: "DC 31; __Cantrips (7th)__ [[detect-magic|detect magic]]; __3rd__ [[mind-reading|mind reading]] (at will); __4th__ [[dimension-door|dimension door]] (at will), [[private-sanctum|private sanctum]], [[silence]]; __5th__ [[dimension-door|dimension door]], [[fireball]], [[illusory-scene|illusory scene]], [[lightning-bolt|lightning bolt]], [[locate]] (at will), [[mind-probe|mind probe]], [[sending]] (at will); __7th__ [[plane-shift|plane shift]]; __10th__ [[scrying]] (at will) see infernal investment; __Constant__ __(5th)__ [[tongues]];"
 sourcebook: "_Bestiary_, page 90."
 ```
 

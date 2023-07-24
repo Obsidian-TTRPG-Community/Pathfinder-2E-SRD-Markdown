@@ -34,7 +34,7 @@ abilityMods: [1, 4, 2, 1, 1, 2]
 
 abilities_bot:
   - name: "Change Shape"
-    desc: "⬻ ([[concentrate]], [[occult]], [[polymorph]], [[transmutation]]);  The raktavarna takes on the appearance of a Tiny inanimate object. If, while transformed, the raktavarna takes any action other than the purely mental (such as [[Recall Knowledge]]), they immediately revert to their original form. Until then, they can use [[compendium/skills.md#Deception|Deception]] to [[Impersonate]] the object."
+    desc: "⬻ ([[concentrate]], [[occult]], [[polymorph]], [[transmutation]]);  The raktavarna takes on the appearance of a Tiny inanimate object. If, while transformed, the raktavarna takes any action other than the purely mental (such as [[Recall-Knowledge|Recall Knowledge]]), they immediately revert to their original form. Until then, they can use [[compendium/skills.md#Deception|Deception]] to [[Impersonate]] the object."
   - name: "Designate Master"
     desc: "  A raktavarna can designate a creature as their master using a 10-minute invocation in which the master must participate. The raktavarna can revoke this status at any time."
   - name: "Master's Eyes"
@@ -60,7 +60,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 16; __Cantrips (1st)__ [[detect magic]]; __1st__ [[charm]], [[command]]; __4th__ [[read omens]];"
+    desc: "DC 16; __Cantrips (1st)__ [[detect-magic|detect magic]]; __1st__ [[charm]], [[command]]; __4th__ [[read-omens|read omens]];"
 sourcebook: "_Bestiary 3_, page 210."
 ```
 

@@ -65,7 +65,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 13; __1st__ [[pest form]] monkey only;"
+    desc: "DC 13; __1st__ [[pest-form|pest form]] monkey only;"
 sourcebook: "_Bestiary 3_, page 286."
 ```
 

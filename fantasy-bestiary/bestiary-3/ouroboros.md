@@ -37,7 +37,7 @@ abilities_mid:
   - name: "Unfathomable Infinity"
     desc: " ([[aura]], [[incapacitation]], [[mental]], [[visual]]);  100 feet. The ouroboros is the embodiment of perfect of diamonds in a resurrect ritual infinity, and this concept pulls at the threads of mortal minds, desperately straining the limits of their comprehension. When a creature ends its turn in the aura, it must attempt a DC 41 Will save. The creature is then temporarily immune for 1 minute.\n__Critical Success__ The creature is [[rules/conditions.md#Stupefied|stupefied 1]] for 1 round.\n__Success__ The creature is [[rules/conditions.md#Stupefied|stupefied 1]] for 1 minute.\n__Failure__ The creature is [[rules/conditions.md#Stupefied|stupefied 1]] for 1 minute and [[rules/conditions.md#Stunned|stunned 3]].\n__Critical Failure__ The creature is [[rules/conditions.md#Stupefied|stupefied 3]] and [[rules/conditions.md#Stunned|stunned]], both for 1 minute."
   - name: "Attack of Opportunity"
-    desc: "⭓  Incalculable fangs only. Because the ouroboros contains an infinite number of snakes that act independently, its [[Attack of Opportunity]] is a free action (though it can still use only one per trigger)."
+    desc: "⭓  Incalculable fangs only. Because the ouroboros contains an infinite number of snakes that act independently, its [[Attack-of-Opportunity|Attack of Opportunity]] is a free action (though it can still use only one per trigger)."
   - name: "Sanguine Spray"
     desc: "  When the ouroboros takes slashing or piercing damage, or when."
   - name: "Devour"
@@ -50,7 +50,7 @@ abilities_bot:
   - name: "Flying Wheel"
     desc: "⬺ __Requirements__ The ouroboros is eating its own tail (see Devour Tail)  __Effect__  As Trample, except the ouroboros can [[Fly]] up to double its Speed instead of [[Stride|Striding]]. Huge or smaller, body, DC 45."
   - name: "Regenerative Blood"
-    desc: " ([[contact]], [[curse]], [[incapacitation]], [[poison]], [[polymorph]], [[primal]], [[transmutation]]);  __Saving Throw__ DC 42 Fortitude. __Maximum Duration__ 24 hours __Stage 1__ [[regeneration]] 5 , [[rules/conditions.md#Slowed|slowed 1]], and [[rules/conditions.md#Clumsy|clumsy 2]] (deactivated by fire) __Stage 2__ [[regeneration]] 5 , [[rules/conditions.md#Slowed|slowed 2]] and [[rules/conditions.md#Clumsy|clumsy 4]] (deactivated by fire) __Stage 3__ The creature's body transmutes into a mass of writhing snakes, with the effects an 8th-level [[animal form]] spell but with an unlimited duration. (null)"
+    desc: " ([[contact]], [[curse]], [[incapacitation]], [[poison]], [[polymorph]], [[primal]], [[transmutation]]);  __Saving Throw__ DC 42 Fortitude. __Maximum Duration__ 24 hours __Stage 1__ [[regeneration]] 5 , [[rules/conditions.md#Slowed|slowed 1]], and [[rules/conditions.md#Clumsy|clumsy 2]] (deactivated by fire) __Stage 2__ [[regeneration]] 5 , [[rules/conditions.md#Slowed|slowed 2]] and [[rules/conditions.md#Clumsy|clumsy 4]] (deactivated by fire) __Stage 3__ The creature's body transmutes into a mass of writhing snakes, with the effects an 8th-level [[animal-form|animal form]] spell but with an unlimited duration. (null)"
   - name: "Swallow Whole"
     desc: "⬻ ([[attack]]);  Huge, 4d10+9 (4d10+9) acid, Rupture 50"
 
@@ -68,7 +68,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ maw +39 ([[magical]], [[reach|reach 30 feet]]); __Damage__ 4d12+18 (4d12+18) piercing plus [[Improved Grab]]"
+    desc: "⬻ maw +39 ([[magical]], [[reach|reach 30 feet]]); __Damage__ 4d12+18 (4d12+18) piercing plus [[Improved-Grab|Improved Grab]]"
   - name: Melee
     desc: "⬻ body +39 ([[magical]], [[reach|reach 20 feet]]); __Damage__ 4d10+18 (4d10+18) bludgeoning"
   - name: Melee

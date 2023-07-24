@@ -61,11 +61,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ tresses +24 ([[agile]], [[finesse]], [[reach|reach 15 feet]]); __Damage__ 3d8+10 (3d8+10) bludgeoning plus [[Improved Grab]]"
+    desc: "⬻ tresses +24 ([[agile]], [[finesse]], [[reach|reach 15 feet]]); __Damage__ 3d8+10 (3d8+10) bludgeoning plus [[Improved-Grab|Improved Grab]]"
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 35; __2nd__ [[invisibility]] (at will), [[obscuring mist]] (at will); __5th__ [[charm]] (at will), [[control water]] (at will); __Constant__ __(6th)__ [[water walk]];"
+    desc: "DC 35; __2nd__ [[invisibility]] (at will), [[obscuring-mist|obscuring mist]] (at will); __5th__ [[charm]] (at will), [[control-water|control water]] (at will); __Constant__ __(6th)__ [[water-walk|water walk]];"
 sourcebook: "_Bestiary 2_, page 229."
 ```
 

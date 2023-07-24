@@ -49,7 +49,7 @@ armorclass:
 hp: 14
 health:
   - name: HP
-    desc: "14;  __Immunities__ poison, precision, disease; __Resistances__ all damage 2 except force, [[ghost touch]], or mental; double resistance vs. non-magical"
+    desc: "14;  __Immunities__ poison, precision, disease; __Resistances__ all damage 2 except force, [[ghost-touch|ghost touch]], or mental; double resistance vs. non-magical"
 
 
 attacks:
@@ -58,7 +58,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 14; __Cantrips (1st)__ [[daze]], [[detect magic]];"
+    desc: "DC 14; __Cantrips (1st)__ [[daze]], [[detect-magic|detect magic]];"
 sourcebook: "_Bestiary 3_, page 92."
 ```
 

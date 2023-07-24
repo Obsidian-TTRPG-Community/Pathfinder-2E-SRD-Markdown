@@ -71,7 +71,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 30; __3rd__ [[color spray]] (3), [[glitterdust]], [[hypnotic pattern]];"
+    desc: "DC 30; __3rd__ [[color-spray|color spray]] (3), [[glitterdust]], [[hypnotic-pattern|hypnotic pattern]];"
 sourcebook: "_Bestiary 2_, page 92."
 ```
 

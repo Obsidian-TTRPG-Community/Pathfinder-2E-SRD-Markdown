@@ -37,7 +37,7 @@ abilities_mid:
   - name: "Frightful Presence"
     desc: " ([[aura]], [[divine]], [[emotion]], [[enchantment]], [[fear]], [[mental]]);  20 feet, DC 42."
   - name: "Attack of Opportunity"
-    desc: "⬲  The pit fiend can make an [[Attack of Opportunity]] when a creature within reach uses a concentrate action, in addition to the usual trigger. The devil can disrupt triggering concentrate actions, and they disrupt actions on any hit, not only a critical hit."
+    desc: "⬲  The pit fiend can make an [[Attack-of-Opportunity|Attack of Opportunity]] when a creature within reach uses a concentrate action, in addition to the usual trigger. The devil can disrupt triggering concentrate actions, and they disrupt actions on any hit, not only a critical hit."
 abilities_bot:
   - name: "Constrict"
     desc: "⬻  2d10+17 (2d10+17) bludgeoning plus 2d6 (2d6) evil, DC 43."
@@ -68,13 +68,13 @@ attacks:
   - name: Melee
     desc: "⬻ claw +38 ([[agile]], [[evil]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 4d6+17 (4d6+17) slashing plus 2d6 (2d6) evil"
   - name: Melee
-    desc: "⬻ tail +36 ([[evil]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 4d10+17 (4d10+17) bludgeoning plus 2d6 (2d6) evil and [[Improved Grab]]"
+    desc: "⬻ tail +36 ([[evil]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 4d10+17 (4d10+17) bludgeoning plus 2d6 (2d6) evil and [[Improved-Grab|Improved Grab]]"
   - name: Melee
     desc: "⬻ wing +36 ([[evil]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 4d6+17 (4d6+17) slashing plus 2d6 (2d6) evil"
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 42; __4th__ [[dimension door]] (at will); __5th__ [[dimension door]]; __8th__ [[dispel magic]] (at will), [[divine decree]] (at will), [[fireball]] (at will), [[scrying]], [[wall of fire]] (at will); __9th__ [[bind soul]] (at will); __10th__ [[meteor swarm]], [[miracle]] once per year, [[power word stun]]; __Constant__ __(8th)__ [[true seeing]];"
+    desc: "DC 42; __4th__ [[dimension-door|dimension door]] (at will); __5th__ [[dimension-door|dimension door]]; __8th__ [[dispel-magic|dispel magic]] (at will), [[divine-decree|divine decree]] (at will), [[fireball]] (at will), [[scrying]], [[wall-of-fire|wall of fire]] (at will); __9th__ [[bind-soul|bind soul]] (at will); __10th__ [[meteor-swarm|meteor swarm]], [[miracle]] once per year, [[power-word-stun|power word stun]]; __Constant__ __(8th)__ [[true-seeing|true seeing]];"
 sourcebook: "_Bestiary_, page 92."
 ```
 

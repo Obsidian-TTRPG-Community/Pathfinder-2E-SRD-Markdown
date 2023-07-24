@@ -61,7 +61,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 23; __Cantrips (4th)__ [[daze]], [[detect magic]]; __1st__ [[charm]] (3); __2nd__ [[paranoia]]; __4th__ [[charm]], [[dimension door]];"
+    desc: "DC 23; __Cantrips (4th)__ [[daze]], [[detect-magic|detect magic]]; __1st__ [[charm]] (3); __2nd__ [[paranoia]]; __4th__ [[charm]], [[dimension-door|dimension door]];"
 sourcebook: "_Bestiary 2_, page 213."
 ```
 

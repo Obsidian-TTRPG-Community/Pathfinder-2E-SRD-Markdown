@@ -38,7 +38,7 @@ abilities_mid:
   - name: "Heartless Furnace"
     desc: " ([[aura]], [[conjuration]], [[occult]]);  50 feet, 2d6 (2d6) poison damage (DC 34 basic Fortitude save). The poisonous smoke that bellows from a tolokand makes all creatures inside it [[rules/conditions.md#Concealed|concealed]], and all creatures outside the smoke are [[rules/conditions.md#Concealed|concealed]] to creatures within it."
   - name: "Inexorable"
-    desc: "  The tolokand recovers from the [[rules/conditions.md#Paralyzed|paralyzed]], [[rules/conditions.md#Slowed|slowed]], and [[rules/conditions.md#Stunned|stunned]] conditions at the end of its turn. It's also immune to penalties to its Speeds and ignores [[terrain|difficult terrain]] and [[terrain|greater difficult terrain]]."
+    desc: "  The tolokand recovers from the [[rules/conditions.md#Paralyzed|paralyzed]], [[rules/conditions.md#Slowed|slowed]], and [[rules/conditions.md#Stunned|stunned]] conditions at the end of its turn. It's also immune to penalties to its Speeds and ignores [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] and [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|greater difficult terrain]]."
   - name: "Toxic Blood"
     desc: "  When a creature scores a critical hit against the tolokand with a piercing or slashing [[Strike]], the tolokand's poisonous, oily blood sprays forth. Any creature within 5 feet of the tolokand takes 3d6 (3d6) poison damage (DC 34 basic Reflex save) Any non-creature plants the blood spills on die."
 abilities_bot:
@@ -65,9 +65,9 @@ attacks:
 
 spellcasting:
   - name: "Occult Spontaneous Spells"
-    desc: "DC 37; __8th__ (3 slots) [[cloudkill]], [[earthquake]], [[horrid wilting]], [[volcanic eruption]];"
+    desc: "DC 37; __8th__ (3 slots) [[cloudkill]], [[earthquake]], [[horrid-wilting|horrid wilting]], [[volcanic-eruption|volcanic eruption]];"
   - name: "Occult Innate Spells"
-    desc: "DC 37; __2nd__ [[sudden blight]] (at will); __4th__ [[earthbind]] (at will), [[haste]] (at will) self only; __Constant__ __(5th)__ [[air walk]], [[endure]];"
+    desc: "DC 37; __2nd__ [[sudden-blight|sudden blight]] (at will); __4th__ [[earthbind]] (at will), [[haste]] (at will) self only; __Constant__ __(5th)__ [[air-walk|air walk]], [[endure]];"
 sourcebook: "_Bestiary 3_, page 272."
 ```
 

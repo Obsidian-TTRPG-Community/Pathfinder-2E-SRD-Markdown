@@ -41,7 +41,7 @@ abilities_bot:
   - name: "Rust"
     desc: "  A rust monster's antenna causes metal to rapidly rust and corrode. If it succeeds at an antenna [[Strike]] or [[Disarm]] attempt with its antenna, the rust monster deals 2d6 (2d6) damage (doubled on a critical hit) to a metal item the target is wearing or holding, ignoring its."
   - name: "Hardness."
-    desc: "  If the rust monster hits an unattended metal item, the item takes this damage automatically. If a creature uses the [[Shield Block]] reaction with a metal shield against an antenna attack, the shield is automatically [[rules/conditions.md#Broken|broken]], but no other item is rusted on that attack."
+    desc: "  If the rust monster hits an unattended metal item, the item takes this damage automatically. If a creature uses the [[Shield-Block|Shield Block]] reaction with a metal shield against an antenna attack, the shield is automatically [[rules/conditions.md#Broken|broken]], but no other item is rusted on that attack."
 
 speed: 35 feet, climb 10 feet
 

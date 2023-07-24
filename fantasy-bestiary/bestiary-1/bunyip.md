@@ -35,7 +35,7 @@ abilities_top:
     desc: "  The bunyip can smell blood in the water from up to 1 mile away."
 abilities_mid:
   - name: "Attack of Opportunity"
-    desc: "⬲ __Trigger__ A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using. __Effect__  As [[Attack of Opportunity]], but both the bunyip and the triggering creature must be in water."
+    desc: "⬲ __Trigger__ A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using. __Effect__  As [[Attack-of-Opportunity|Attack of Opportunity]], but both the bunyip and the triggering creature must be in water."
 abilities_bot:
   - name: "Blood Frenzy"
     desc: "⭓ __Requirements__ The bunyip is not [[rules/conditions.md#Fatigued|fatigued]] or already in a frenzy. __Trigger__ The bunyip deals bleed damage to a living creature. __Effect__  The bunyip flies into a frenzy that lasts 1 minute. While frenzied, the bunyip gains a +4 status bonus to damage rolls with its jaws, gains 8 temporary HP that go away at the end of the frenzy, and takes a –2 penalty to AC."

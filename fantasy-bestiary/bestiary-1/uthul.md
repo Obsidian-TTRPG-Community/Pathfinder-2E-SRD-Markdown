@@ -33,7 +33,7 @@ abilityMods: [7, 7, 4, -1, -2, 3]
 
 abilities_mid:
   - name: "High Winds"
-    desc: " ([[air]], [[aura]]);  40 feet. Air in the aura is [[terrain|difficult terrain]] for Flying creatures without the [[air]] trait."
+    desc: " ([[air]], [[aura]]);  40 feet. Air in the aura is [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] for Flying creatures without the [[air]] trait."
 abilities_bot:
   - name: "Lightning Crash"
     desc: "⬻ ([[electricity]], [[incapacitation]], [[sonic]]);  The uthul unleashes a powerful bolt of lightning and a stunning thunderclap. The bolt deals 6d12 (6d12) electricity damage to all creatures in a 30-foot line, with a DC 34 basic Reflex save, and every creature in a 20-foot emanation must attempt a DC 34 Fortitude save. The uthul can't use Lightning Crash again for 1d4 (1d4) rounds.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is [[rules/conditions.md#Stunned|stunned 1]].\n__Failure__ The creature is [[rules/conditions.md#Stunned|stunned]] for 1 round.\n__Critical Failure__ The creature is [[rules/conditions.md#Stunned|stunned]] for 1d4 (1d4) rounds."

@@ -50,7 +50,7 @@ abilities_bot:
   - name: "Draconic Momentum"
     desc: "  The dragon recharges its Breath Weapon whenever it scores a critical hit with a [[Strike]]."
   - name: "Mirage"
-    desc: "  Whenever the dragon uses Breath Weapon while the illusory image from its innate [[project image]] spell persists, it can cause the Breath Weapon to originate from itself or the image."
+    desc: "  Whenever the dragon uses Breath Weapon while the illusory image from its innate [[project-image|project image]] spell persists, it can cause the Breath Weapon to originate from itself or the image."
   - name: "Storm Breath"
     desc: "⬻ ([[arcane]], [[concentrate]], [[electricity]], [[evocation]]); __Requirements__ A storm cloud created by Breath Weapon is within 500 feet, and the dragon can see the cloud. __Frequency__ once per round  __Effect__  The dragon calls down a lightning bolt from a storm cloud created by its Breath Weapon. This creates a vertical line of lightning to the ground that deals 6d12 (6d12) electricity damage to all enemies in its path (DC 40 basic Reflex save)."
 
@@ -78,7 +78,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 43; __Cantrips (8th)__ [[ghost sound]]; __1st__ [[create water]] at will; see desert thirst; __7th__ [[project image]] see mirage; __8th__ [[hallucinatory terrain]] (at will), [[illusory creature]] (at will), [[illusory object]] (at will), [[ventriloquism]] (at will);"
+    desc: "DC 43; __Cantrips (8th)__ [[ghost-sound|ghost sound]]; __1st__ [[create-water|create water]] at will; see desert thirst; __7th__ [[project-image|project image]] see mirage; __8th__ [[hallucinatory-terrain|hallucinatory terrain]] (at will), [[illusory-creature|illusory creature]] (at will), [[illusory-object|illusory object]] (at will), [[ventriloquism]] (at will);"
 sourcebook: "_Bestiary_, page 108."
 ```
 

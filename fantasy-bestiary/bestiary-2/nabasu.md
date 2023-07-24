@@ -62,7 +62,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 26; __4th__ [[dimension door]] (at will), [[grim tendrils]], [[paralyze]], [[vampiric touch]]; __5th__ [[dimension door]];"
+    desc: "DC 26; __4th__ [[dimension-door|dimension door]] (at will), [[grim-tendrils|grim tendrils]], [[paralyze]], [[vampiric-touch|vampiric touch]]; __5th__ [[dimension-door|dimension door]];"
 sourcebook: "_Bestiary 2_, page 66."
 ```
 

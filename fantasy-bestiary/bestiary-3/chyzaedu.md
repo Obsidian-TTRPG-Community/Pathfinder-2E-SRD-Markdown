@@ -60,7 +60,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Prepared Spells"
-    desc: "DC 29, attack +21; __Cantrips (5th)__ [[daze]], [[divine lance]], [[message]], [[read aura]], [[sigil]]; __1st__ [[command]], [[fear]], [[sanctuary]]; __2nd__ [[enhance victuals]], [[ghoulish cravings]], [[silence]]; __3rd__ [[blindness]], [[chilling darkness]], [[heal]]; __4th__ [[air walk]], [[dimensional anchor]], [[heal]]; __5th__ [[command]], [[harm]] (4), [[sending]];"
+    desc: "DC 29, attack +21; __Cantrips (5th)__ [[daze]], [[divine-lance|divine lance]], [[message]], [[read-aura|read aura]], [[sigil]]; __1st__ [[command]], [[fear]], [[sanctuary]]; __2nd__ [[enhance-victuals|enhance victuals]], [[ghoulish-cravings|ghoulish cravings]], [[silence]]; __3rd__ [[blindness]], [[chilling-darkness|chilling darkness]], [[heal]]; __4th__ [[air-walk|air walk]], [[dimensional-anchor|dimensional anchor]], [[heal]]; __5th__ [[command]], [[harm]] (4), [[sending]];"
 sourcebook: "_Bestiary 3_, page 46."
 ```
 

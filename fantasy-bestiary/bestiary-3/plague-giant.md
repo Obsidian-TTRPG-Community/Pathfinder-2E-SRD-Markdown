@@ -72,7 +72,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 34; __6th__ [[cloudkill]], [[death knell]] (3), [[take its course]] Core Rulebook 397;"
+    desc: "DC 34; __6th__ [[cloudkill]], [[death-knell|death knell]] (3), [[take-its-course|take its course]] Core Rulebook 397;"
 sourcebook: "_Bestiary 3_, page 111."
 ```
 

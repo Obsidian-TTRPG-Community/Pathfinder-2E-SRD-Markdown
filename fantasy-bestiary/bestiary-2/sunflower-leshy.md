@@ -35,7 +35,7 @@ abilities_mid:
   - name: "Heliotrope"
     desc: "⭓ ([[aura]], [[evocation]], [[light]], [[primal]]); __Requirements__ The sunflower leshy begins its turn in an area of bright light  __Effect__  The sunflower leshy reflects the sun or another source of bright light from their face. Each creature that ends its turn in a 20-foot emanation must attempt a DC 16 Will save.\n__Success__ The creature is unaffected and is temporarily immune to heliotrope for 24 hours.\n__Failure__ The creature is distracted by the light, becoming [[rules/conditions.md#Flat-Footed|flat-footed]] for 1 round.\n__Critical Failure__ As failure, but the creature is also [[rules/conditions.md#Dazzled|dazzled]] for 1 round."
   - name: "Verdant Burst"
-    desc: " ([[healing]]);  When a sunflower leshy dies, a burst of primal energy explodes from its body, restoring 1d8 (1d8) Hit Points to each plant creature in a 30-foot emanation. This area immediately fills with sunflowers, becoming [[terrain|difficult terrain]]. If the terrain is not a viable environment for these sunflowers, they wither after 24 hours."
+    desc: " ([[healing]]);  When a sunflower leshy dies, a burst of primal energy explodes from its body, restoring 1d8 (1d8) Hit Points to each plant creature in a 30-foot emanation. This area immediately fills with sunflowers, becoming [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]]. If the terrain is not a viable environment for these sunflowers, they wither after 24 hours."
 abilities_bot:
   - name: "Change Shape"
     desc: "⬻ ([[concentrate]], [[polymorph]], [[primal]], [[transmutation]]);  The sunflower leshy transforms into a Small flower. This ability otherwise uses the effects of tree shape."
@@ -62,7 +62,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 17; __4th__ [[speak with plants]];"
+    desc: "DC 17; __4th__ [[speak-with-plants|speak with plants]];"
 sourcebook: "_Bestiary 2_, page 160."
 ```
 

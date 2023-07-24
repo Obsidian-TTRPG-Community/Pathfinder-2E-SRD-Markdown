@@ -43,7 +43,7 @@ abilities_bot:
   - name: "Deep Breath"
     desc: "  A lizardfolk defender can hold their breath for 175 rounds (17-1/2 minutes)."
   - name: "Terrain Advantage"
-    desc: "  Non-lizardfolk creatures in [[terrain|difficult terrain]] and non-lizardfolk creatures that are in water and lack a swim Speed are [[rules/conditions.md#Flat-Footed|flat-footed]] to the lizardfolk defender."
+    desc: "  Non-lizardfolk creatures in [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] and non-lizardfolk creatures that are in water and lack a swim Speed are [[rules/conditions.md#Flat-Footed|flat-footed]] to the lizardfolk defender."
 
 speed: 25 feet, swim 15 feet
 

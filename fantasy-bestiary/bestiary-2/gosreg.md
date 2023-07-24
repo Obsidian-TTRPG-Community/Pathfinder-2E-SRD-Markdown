@@ -63,7 +63,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 30, attack +22; __Cantrips (6th)__ [[mage-hand|mage hand]], [[telekinetic projectile]]; __2nd__ [[undetectable alignment]]; __4th__ [[nightmare]], [[suggestion]] (3); __5th__ [[mind probe]], [[sending]], [[subconscious suggestion]], [[synaptic pulse]]; __6th__ [[phantasmal calamity]], [[phantom pain]];"
+    desc: "DC 30, attack +22; __Cantrips (6th)__ [[mage-hand|mage hand]], [[telekinetic-projectile|telekinetic projectile]]; __2nd__ [[undetectable-alignment|undetectable alignment]]; __4th__ [[nightmare]], [[suggestion]] (3); __5th__ [[mind-probe|mind probe]], [[sending]], [[subconscious-suggestion|subconscious suggestion]], [[synaptic-pulse|synaptic pulse]]; __6th__ [[phantasmal-calamity|phantasmal calamity]], [[phantom-pain|phantom pain]];"
 sourcebook: "_Bestiary 2_, page 133."
 ```
 

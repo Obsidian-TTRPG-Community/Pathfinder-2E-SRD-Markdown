@@ -63,7 +63,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 33; __4th__ [[blink]] (2); __7th__ [[ethereal jaunt]], [[warp mind]];"
+    desc: "DC 33; __4th__ [[blink]] (2); __7th__ [[ethereal-jaunt|ethereal jaunt]], [[warp-mind|warp mind]];"
 sourcebook: "_Bestiary 3_, page 14."
 ```
 

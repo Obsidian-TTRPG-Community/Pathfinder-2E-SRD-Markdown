@@ -41,7 +41,7 @@ abilities_bot:
   - name: "Share Pain"
     desc: "  A living creature hit by a trailgaunt's jaws [[Strike]] must succeed at a DC 20 Fortitude save or suffer intense pain in its legs and feet, taking a –10-foot status penalty to its Speeds, or a –20-foot status penalty on a critical failure."
   - name: "Sure Stride"
-    desc: "  A trailgaunt ignores the effects of [[terrain|difficult terrain]] and [[terrain|greater difficult terrain]]."
+    desc: "  A trailgaunt ignores the effects of [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] and [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|greater difficult terrain]]."
 
 speed: 10 feet, burrow 10 feet
 
@@ -52,7 +52,7 @@ armorclass:
 hp: 45
 health:
   - name: HP
-    desc: "45; [[negative healing]]; __Immunities__ poison, death effects, disease, paralyzed, unconscious;"
+    desc: "45; [[negative-healing-b2|negative healing]]; __Immunities__ poison, death effects, disease, paralyzed, unconscious;"
 
 
 attacks:

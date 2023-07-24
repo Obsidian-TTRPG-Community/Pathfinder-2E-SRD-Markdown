@@ -34,7 +34,7 @@ abilityMods: [6, 4, 3, 4, 3, 3]
 
 abilities_bot:
   - name: "Break Ground"
-    desc: "⬺ ([[arcane]], [[earth]], [[transmutation]]);  The guecubu stomps, and the ground breaks and ripples in a 30-foot emanation, erupting in razor-sharp, crisscrossing spikes of rock that deal 3d8 (3d8) piercing damage to creatures in the area (DC 26 basic Reflex save). The area becomes [[terrain|difficult terrain]] and hazardous terrain, with each square dealing 3 piercing damage to a creature that moves through it. A guecubu is immune to these effects. Ground under the effects of a consecrate ritual or a [[circle of protection]] spell tuned against evil or chaos can't be affected by this ability."
+    desc: "⬺ ([[arcane]], [[earth]], [[transmutation]]);  The guecubu stomps, and the ground breaks and ripples in a 30-foot emanation, erupting in razor-sharp, crisscrossing spikes of rock that deal 3d8 (3d8) piercing damage to creatures in the area (DC 26 basic Reflex save). The area becomes [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] and hazardous terrain, with each square dealing 3 piercing damage to a creature that moves through it. A guecubu is immune to these effects. Ground under the effects of a consecrate ritual or a [[circle-of-protection|circle of protection]] spell tuned against evil or chaos can't be affected by this ability."
   - name: "Earth Glide"
     desc: "  The guecubu can [[Burrow]] through any earthen matter, including rock. When it does so, the guecubu moves at its full burrow Speed, leaving no tunnels or signs of its passing."
   - name: "Shove into Stone"
@@ -51,7 +51,7 @@ armorclass:
 hp: 110
 health:
   - name: HP
-    desc: "110; [[negative healing]]; __Immunities__ poison, death effects, disease, paralyzed, unconscious; __Resistances__ electricity 10, physical 10 except bludgeoning"
+    desc: "110; [[negative-healing-b2|negative healing]]; __Immunities__ poison, death effects, disease, paralyzed, unconscious; __Resistances__ electricity 10, physical 10 except bludgeoning"
 
 
 attacks:
@@ -60,7 +60,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 26; __4th__ [[shape stone]] (at will);"
+    desc: "DC 26; __4th__ [[shape-stone|shape stone]] (at will);"
 sourcebook: "_Bestiary 3_, page 126."
 ```
 

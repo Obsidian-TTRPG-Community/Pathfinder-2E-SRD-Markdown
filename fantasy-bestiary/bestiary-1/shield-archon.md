@@ -38,16 +38,16 @@ abilities_top:
     desc: "+1 full plate;"
 abilities_mid:
   - name: "Living Shield"
-    desc: "  A shield archon's shield is the focal point of its courage and soul. It always has its shield raised without needing to [[Raise a Shield]], and it can use [[Shield Block]] as a free action instead of a reaction (Hardness 10, HP 80). A shield archon can trigger its [[Shield Block]] free action when an ally within 10 feet is the target of an attack, reducing damage to that ally instead of itself but otherwise following the normal rules of [[Shield Block]]."
+    desc: "  A shield archon's shield is the focal point of its courage and soul. It always has its shield raised without needing to [[Raise-a-Shield|Raise a Shield]], and it can use [[Shield-Block|Shield Block]] as a free action instead of a reaction (Hardness 10, HP 80). A shield archon can trigger its [[Shield-Block|Shield Block]] free action when an ally within 10 feet is the target of an attack, reducing damage to that ally instead of itself but otherwise following the normal rules of [[Shield-Block|Shield Block]]."
   - name: "Menacing Guardian"
     desc: " ([[aura]], [[divine]], [[enchantment]]);  30 feet. Enemies that start their turn in the area or enter it must attempt a DC 27 Will save. On a failure, they take a –1 status penalty to attack rolls, spell rolls, and damage rolls against any other target while in the aura for 24 hours or until they damage the archon, whichever comes first. On a critical failure, they can't use [[rules/conditions.md#Hostile|hostile]] actions against any other target while in the area for 24 hours or until they damage the archon, whichever comes first. Regardless of the result, a creature is then temporarily immune to further menacing guardian auras for 24 hours."
   - name: "Retributive Strike"
     desc: "⬲ "
 abilities_bot:
   - name: "Archon's Door"
-    desc: "  Once per day, if an archon sees another creature cast [[dimension door]], it can cast an innate dimension door (heightened to 5th level) within 1 round to attempt to follow that creature to the maximum distance of the archon's dimension door. If the archon's dimension door has enough distance, the archon appears the same distance and direction from the creature as before either used dimension door."
+    desc: "  Once per day, if an archon sees another creature cast [[dimension-door|dimension door]], it can cast an innate dimension door (heightened to 5th level) within 1 round to attempt to follow that creature to the maximum distance of the archon's dimension door. If the archon's dimension door has enough distance, the archon appears the same distance and direction from the creature as before either used dimension door."
   - name: "Courageous Switch"
-    desc: "  When a shield archon uses its dimension door innate spell, it can choose to move into the space of a willing ally it can see within range. If it does so, the ally switches places with the archon, appearing in the space the archon just vacated, as if it too had cast [[dimension door]]."
+    desc: "  When a shield archon uses its dimension door innate spell, it can choose to move into the space of a willing ally it can see within range. If it does so, the ally switches places with the archon, appearing in the space the archon just vacated, as if it too had cast [[dimension-door|dimension door]]."
 
 speed: 30 feet, fly 60 feet
 
@@ -67,7 +67,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 27; __Cantrips (5th)__ [[message]]; __1st__ [[true strike]] (3); __2nd__ [[shield other]] (3); __4th__ [[dimension door]] (at will); __Constant__ __(5th)__ [[tongues]];"
+    desc: "DC 27; __Cantrips (5th)__ [[message]]; __1st__ [[true-strike|true strike]] (3); __2nd__ [[shield-other|shield other]] (3); __4th__ [[dimension-door|dimension door]] (at will); __Constant__ __(5th)__ [[tongues]];"
 sourcebook: "_Bestiary_, page 29."
 ```
 

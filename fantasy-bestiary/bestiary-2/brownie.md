@@ -57,7 +57,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 17; __Cantrips (4th)__ [[dancing lights]], [[prestidigitation]]; __1st__ [[ventriloquism]]; __3rd__ [[mending]]; __4th__ [[dimension door]] self only;"
+    desc: "DC 17; __Cantrips (4th)__ [[dancing-lights|dancing lights]], [[prestidigitation]]; __1st__ [[ventriloquism]]; __3rd__ [[mending]]; __4th__ [[dimension-door|dimension door]] self only;"
 sourcebook: "_Bestiary 2_, page 44."
 ```
 

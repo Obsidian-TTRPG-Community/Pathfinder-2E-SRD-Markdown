@@ -69,9 +69,9 @@ attacks:
 
 spellcasting:
   - name: "Primal Prepared Spells"
-    desc: "DC 44; __Cantrips (10th)__ [[detect magic]], [[electric arc]], [[guidance]], [[prestidigitation]], [[read aura]]; __1st__ [[feather fall]], [[gust of wind]], [[pass without trace]]; __2nd__ [[animal messenger]], [[glitterdust]], [[water breathing]]; __3rd__ [[earthbind]], [[haste]], [[meld into stone]]; __4th__ [[freedom of movement]], [[resist energy]], [[solid fog]]; __5th__ [[control water]], [[death ward]], [[hallucinatory terrain]]; __6th__ [[dispel magic]], [[slow]], [[true seeing]]; __7th__ [[energy aegis]], [[regenerate]], [[volcanic eruption]]; __8th__ [[punishing winds]], [[stone skin]], [[wind walk]]; __9th__ [[meteor swarm]], [[storm of vengeance]], [[sunburst]]; __10th__ [[primal phenomenon]];"
+    desc: "DC 44; __Cantrips (10th)__ [[detect-magic|detect magic]], [[electric-arc|electric arc]], [[guidance]], [[prestidigitation]], [[read-aura|read aura]]; __1st__ [[feather-fall|feather fall]], [[gust-of-wind|gust of wind]], [[pass-without-trace|pass without trace]]; __2nd__ [[animal-messenger|animal messenger]], [[glitterdust]], [[water-breathing|water breathing]]; __3rd__ [[earthbind]], [[haste]], [[meld-into-stone|meld into stone]]; __4th__ [[freedom-of-movement|freedom of movement]], [[resist-energy|resist energy]], [[solid-fog|solid fog]]; __5th__ [[control-water|control water]], [[death-ward|death ward]], [[hallucinatory-terrain|hallucinatory terrain]]; __6th__ [[dispel-magic|dispel magic]], [[slow]], [[true-seeing|true seeing]]; __7th__ [[energy-aegis|energy aegis]], [[regenerate]], [[volcanic-eruption|volcanic eruption]]; __8th__ [[punishing-winds|punishing winds]], [[stone-skin|stone skin]], [[wind-walk|wind walk]]; __9th__ [[meteor-swarm|meteor swarm]], [[storm-of-vengeance|storm of vengeance]], [[sunburst]]; __10th__ [[primal-phenomenon|primal phenomenon]];"
   - name: "Primal Innate Spells"
-    desc: "DC 44, attack +36; __Cantrips (10th)__ [[dancing lights]], [[light]]; __10th__ [[searing light]];"
+    desc: "DC 44, attack +36; __Cantrips (10th)__ [[dancing-lights|dancing lights]], [[light]]; __10th__ [[searing-light|searing light]];"
 sourcebook: "_Bestiary 3_, page 191."
 ```
 

@@ -64,7 +64,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 18; __1st__ [[true strike]];"
+    desc: "DC 18; __1st__ [[true-strike|true strike]];"
 sourcebook: "_Bestiary 3_, page 204."
 ```
 

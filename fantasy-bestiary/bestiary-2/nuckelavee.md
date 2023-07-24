@@ -71,7 +71,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 28; __3rd__ [[stinking cloud]]; __5th__ [[control water]];"
+    desc: "DC 28; __3rd__ [[stinking-cloud|stinking cloud]]; __5th__ [[control-water|control water]];"
 sourcebook: "_Bestiary 2_, page 186."
 ```
 

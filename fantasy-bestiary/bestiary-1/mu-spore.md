@@ -68,9 +68,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +40 ([[deadly|deadly 3d12]], [[reach|reach 30 feet]]); __Damage__ 4d12+18 (4d12+18) piercing plus [[Improved Grab]]"
+    desc: "⬻ jaws +40 ([[deadly|deadly 3d12]], [[reach|reach 30 feet]]); __Damage__ 4d12+18 (4d12+18) piercing plus [[Improved-Grab|Improved Grab]]"
   - name: Melee
-    desc: "⬻ tentacle +40 ([[agile]], [[reach|reach 100 feet]]); __Damage__ 4d10+18 (4d10+18) bludgeoning plus [[Improved Grab]]"
+    desc: "⬻ tentacle +40 ([[agile]], [[reach|reach 100 feet]]); __Damage__ 4d10+18 (4d10+18) bludgeoning plus [[Improved-Grab|Improved Grab]]"
 
 sourcebook: "_Bestiary_, page 238."
 ```

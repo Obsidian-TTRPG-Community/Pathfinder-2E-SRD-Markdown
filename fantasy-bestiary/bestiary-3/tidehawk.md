@@ -40,7 +40,7 @@ abilities_bot:
   - name: "Oceanic Armor"
     desc: "⬻ ([[abjuration]], [[primal]], [[water]]); __Requirements__ The tidehawk is within 120 feet of a body of water at least as large as it is  __Effect__  The tidehawk draws water to itself, wrapping its feathers like a suit of armor. The tidehawk gains a +2 circumstance bonus to AC until the start of its next turn. If the tidehawk takes damage from a melee [[Strike]] while under this effect, this water armor explodes outward, dealing 4d8 (4d8) bludgeoning damage (DC 32 basic Reflex save) to the attacking creature and ending the circumstance bonus to AC."
   - name: "Typhoon Dive"
-    desc: "⬺ ([[evocation]], [[primal]], [[water]]); __Requirements__ The tidehawk is Flying  __Effect__  The tidehawk Flies up to its Speed, diving below the surface of deep water (such as a sea or ocean), causing a surging wave that deals 6d6 (6d6) bludgeoning damage (DC 32 basic Reflex save) to each creature within a 60-foot emanation of where the tidehawk entered the water. The area becomes [[terrain|difficult terrain]] until the start of the tidehawk's next turn while the water surges and runs off."
+    desc: "⬺ ([[evocation]], [[primal]], [[water]]); __Requirements__ The tidehawk is Flying  __Effect__  The tidehawk Flies up to its Speed, diving below the surface of deep water (such as a sea or ocean), causing a surging wave that deals 6d6 (6d6) bludgeoning damage (DC 32 basic Reflex save) to each creature within a 60-foot emanation of where the tidehawk entered the water. The area becomes [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] until the start of the tidehawk's next turn while the water surges and runs off."
 
 speed: 25 feet, fly 50 feet, swim 50 feet
 
@@ -64,7 +64,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 32; __Cantrips (6th)__ [[detect magic]]; __6th__ [[cone of cold]], [[control water]], [[heal]] (2), [[hydraulic torrent]], [[mariner's curse]];"
+    desc: "DC 32; __Cantrips (6th)__ [[detect-magic|detect magic]]; __6th__ [[cone-of-cold|cone of cold]], [[control-water|control water]], [[heal]] (2), [[hydraulic-torrent|hydraulic torrent]], [[mariner's curse]];"
 sourcebook: "_Bestiary 3_, page 266."
 ```
 

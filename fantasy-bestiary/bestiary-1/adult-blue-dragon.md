@@ -73,7 +73,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 33; __Cantrips (6th)__ [[ghost sound]]; __1st__ [[create water]] at will; see desert thirst; __6th__ [[illusory creature]], [[illusory object]], [[ventriloquism]] (at will);"
+    desc: "DC 33; __Cantrips (6th)__ [[ghost-sound|ghost sound]]; __1st__ [[create-water|create water]] at will; see desert thirst; __6th__ [[illusory-creature|illusory creature]], [[illusory-object|illusory object]], [[ventriloquism]] (at will);"
 sourcebook: "_Bestiary_, page 108."
 ```
 

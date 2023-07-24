@@ -35,7 +35,7 @@ abilityMods: [8, 10, 8, -1, 6, 2]
 
 abilities_top:
   - name: "Clutching Stones"
-    desc: "  The sturzstromer's space is [[terrain|greater difficult terrain]]."
+    desc: "  The sturzstromer's space is [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|greater difficult terrain]]."
   - name: "Tremorsense"
     desc: "  A sturzstromer's [[tremorsense]] is a precise sense out to 120 feet and an imprecise sense out to 240 feet. A sturzstromer can't sense anything beyond the range of its [[tremorsense]]."
 abilities_bot:
@@ -62,7 +62,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 41; __8th__ [[earthbind]] (at will), [[earthquake]] (3), [[stone tell]]; __10th__ [[earthquake]];"
+    desc: "DC 41; __8th__ [[earthbind]] (at will), [[earthquake]] (3), [[stone-tell|stone tell]]; __10th__ [[earthquake]];"
 sourcebook: "_Bestiary 3_, page 52."
 ```
 

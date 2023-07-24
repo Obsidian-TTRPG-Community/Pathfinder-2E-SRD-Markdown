@@ -65,9 +65,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +27 ([[reach|reach 10 feet]]); __Damage__ 3d12+14 (3d12+14) piercing plus [[Improved Grab]]"
+    desc: "⬻ jaws +27 ([[reach|reach 10 feet]]); __Damage__ 3d12+14 (3d12+14) piercing plus [[Improved-Grab|Improved Grab]]"
   - name: Melee
-    desc: "⬻ tentacle +27 ([[agile]], [[reach|reach 15 feet]]); __Damage__ 3d8+14 (3d8+14) bludgeoning plus [[Improved Grab]]"
+    desc: "⬻ tentacle +27 ([[agile]], [[reach|reach 15 feet]]); __Damage__ 3d8+14 (3d8+14) bludgeoning plus [[Improved-Grab|Improved Grab]]"
   - name: Melee
     desc: "⬻ tongue +27 ([[agile]], [[reach|reach 30 feet]]); __Damage__ 2d10+14 (2d10+14) piercing plus barbed tongue"
 

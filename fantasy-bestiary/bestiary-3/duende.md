@@ -59,7 +59,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 18, attack +10; __Cantrips (1st)__ [[daze]], [[guidance]], [[telekinetic projectile]]; __1st__ [[fear]], [[phantom pain]]; __2nd__ [[invisibility]] self only; __3rd__ [[locate]];"
+    desc: "DC 18, attack +10; __Cantrips (1st)__ [[daze]], [[guidance]], [[telekinetic-projectile|telekinetic projectile]]; __1st__ [[fear]], [[phantom-pain|phantom pain]]; __2nd__ [[invisibility]] self only; __3rd__ [[locate]];"
 sourcebook: "_Bestiary 3_, page 87."
 ```
 

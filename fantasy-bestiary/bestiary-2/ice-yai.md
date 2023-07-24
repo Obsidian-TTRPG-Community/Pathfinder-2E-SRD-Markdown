@@ -43,7 +43,7 @@ abilities_mid:
     desc: "⬲ __Trigger__ The ice yai is targeted by a ranged [[Strike]] or spell attack roll that doesn't have the [[fire]] trait __Effect__  The ice yai creates a reflective blockade of ice, gaining a +4 circumstance bonus to AC against the triggering attack roll. If the attack misses, the ice yai redirects the attack to another creature within 20 feet of the yai. The attacker rerolls the attack roll against the new target."
 abilities_bot:
   - name: "Change Shape"
-    desc: "⬻ ([[concentrate]], [[polymorph]], [[primal]], [[transmutation]]);  The ice yai takes on the appearance of an [[frost giant]]. This doesn't change their Speed or [[Strike]] attack and damage."
+    desc: "⬻ ([[concentrate]], [[polymorph]], [[primal]], [[transmutation]]);  The ice yai takes on the appearance of an [[frost-giant|frost giant]]. This doesn't change their Speed or [[Strike]] attack and damage."
   - name: "Double Punch"
     desc: "⬻ __Frequency__ once per round  __Effect__  The ice yai makes two fist [[Strike|Strikes]]."
   - name: "Frozen Strike"
@@ -69,7 +69,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 33; __2nd__ [[invisibility]] (at will) self only; __4th__ [[charm]] (3), [[darkness]], [[gaseous form]], [[solid fog]]; __6th__ [[cone of cold]] (3); __7th__ [[cone of cold]], [[wall of ice]];"
+    desc: "DC 33; __2nd__ [[invisibility]] (at will) self only; __4th__ [[charm]] (3), [[darkness]], [[gaseous-form|gaseous form]], [[solid-fog|solid fog]]; __6th__ [[cone-of-cold|cone of cold]] (3); __7th__ [[cone-of-cold|cone of cold]], [[wall-of-ice|wall of ice]];"
 sourcebook: "_Bestiary 2_, page 189."
 ```
 

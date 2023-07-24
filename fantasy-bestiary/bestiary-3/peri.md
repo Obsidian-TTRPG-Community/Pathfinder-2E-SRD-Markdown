@@ -69,7 +69,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 34, attack +26; __Cantrips (7th)__ [[produce flame]]; __7th__ [[humanoid form]] (at will), [[wall of fire]] (3); __Constant__ ;"
+    desc: "DC 34, attack +26; __Cantrips (7th)__ [[produce-flame|produce flame]]; __7th__ [[humanoid-form|humanoid form]] (at will), [[wall-of-fire|wall of fire]] (3); __Constant__ ;"
 sourcebook: "_Bestiary 3_, page 201."
 ```
 

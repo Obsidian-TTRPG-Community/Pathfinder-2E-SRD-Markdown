@@ -43,7 +43,7 @@ abilities_bot:
   - name: "Sensory Fever"
     desc: " ([[disease]]);  __Saving Throw__ DC 36 Fortitude. __Stage 1__ creature loses one sense determined randomly: taste, smell, hearing, or sight (1 day) __Stage 2__ creature loses an additional sense from the stage 1 list (1 day) __Stage 3__ creature loses an additional sense from the stage 1 list (1 day) __Stage 4__ creature loses the last sense from the stage 1 list and any special senses, such as [[tremorsense]] or lifesense  (1 day)"
   - name: "Skip Between"
-    desc: "⬻ ([[conjuration]], [[divine]], [[teleportation]]);  The sahkil moves from the Material Plane to the Ethereal Plane or vice-versa, with the effects of [[ethereal jaunt]] except that the effect has an unlimited duration and can be Dismissed. A summoned sahkil can't use Skip Between."
+    desc: "⬻ ([[conjuration]], [[divine]], [[teleportation]]);  The sahkil moves from the Material Plane to the Ethereal Plane or vice-versa, with the effects of [[ethereal-jaunt|ethereal jaunt]] except that the effect has an unlimited duration and can be Dismissed. A summoned sahkil can't use Skip Between."
 
 speed: 40 feet, climb 20 feet, fly 40 feet
 
@@ -65,7 +65,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 38; __Cantrips (9th)__ [[detect magic]]; __8th__ [[fear]] (at will), [[horrid wilting]] (3), [[Bestiary 3 222 maze]] (3), [[suggestion]] (at will); __Constant__ __(9th)__ [[fly]], [[true seeing]];"
+    desc: "DC 38; __Cantrips (9th)__ [[detect-magic|detect magic]]; __8th__ [[fear]] (at will), [[horrid-wilting|horrid wilting]] (3), [[Bestiary 3 222 maze]] (3), [[suggestion]] (at will); __Constant__ __(9th)__ [[fly]], [[true-seeing|true seeing]];"
 sourcebook: "_Bestiary 3_, page 222."
 ```
 

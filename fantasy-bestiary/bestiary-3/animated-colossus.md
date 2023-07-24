@@ -57,7 +57,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +32 ([[magical]], [[reach|reach 30 feet]]); __Damage__ 3d12+17 (3d12+17) bludgeoning plus [[Improved Grab]]"
+    desc: "⬻ fist +32 ([[magical]], [[reach|reach 30 feet]]); __Damage__ 3d12+17 (3d12+17) bludgeoning plus [[Improved-Grab|Improved Grab]]"
   - name: Melee
     desc: "⬻ foot +32 ([[agile]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 3d8+17 (3d8+17) bludgeoning"
 

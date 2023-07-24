@@ -63,7 +63,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 23; __Cantrips (3rd)__ [[detect magic]]; __1st__ [[floating disk]] (at will), [[unseen servant]] (at will); __2nd__ [[mirror image]]; __3rd__ [[dispel magic]]; __4th__ [[resist energy]] (2), [[suggestion]], [[resilient sphere]]; __5th__ [[dimension door]]; __Constant__ __(5th)__ [[tongues]];"
+    desc: "DC 23; __Cantrips (3rd)__ [[detect-magic|detect magic]]; __1st__ [[floating-disk|floating disk]] (at will), [[unseen-servant|unseen servant]] (at will); __2nd__ [[mirror-image|mirror image]]; __3rd__ [[dispel-magic|dispel magic]]; __4th__ [[resist-energy|resist energy]] (2), [[suggestion]], [[resilient-sphere|resilient sphere]]; __5th__ [[dimension-door|dimension door]]; __Constant__ __(5th)__ [[tongues]];"
 sourcebook: "_Bestiary 2_, page 294."
 ```
 

@@ -60,7 +60,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 36, attack +28; __Cantrips (8th)__ [[produce flame]]; __6th__ [[fire shield]] (3), [[fireball]] (3), [[tree shape]] at will; appears as a burnt,dead tree; __7th__ [[elemental form]] fire elemental only, [[volcanic eruption]], [[wall of fire]]; __8th__ [[fire shield]], [[fireball]];"
+    desc: "DC 36, attack +28; __Cantrips (8th)__ [[produce-flame|produce flame]]; __6th__ [[fire-shield|fire shield]] (3), [[fireball]] (3), [[tree-shape|tree shape]] at will; appears as a burnt,dead tree; __7th__ [[elemental-form|elemental form]] fire elemental only, [[volcanic-eruption|volcanic eruption]], [[wall-of-fire|wall of fire]]; __8th__ [[fire-shield|fire shield]], [[fireball]];"
 sourcebook: "_Bestiary 2_, page 171."
 ```
 

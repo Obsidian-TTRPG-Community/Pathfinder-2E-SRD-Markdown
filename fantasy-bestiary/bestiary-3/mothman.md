@@ -58,7 +58,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 25, attack +17; __Cantrips (4th)__ [[daze]], [[ghost sound]], [[read aura]]; __2nd__ [[illusory object]], [[misdirection]]; __3rd__ [[illusory creature]], [[mind reading]]; __4th__ [[invisibility]], [[modify memory]], [[nightmare]], [[phantasmal killer]], [[suggestion]];"
+    desc: "DC 25, attack +17; __Cantrips (4th)__ [[daze]], [[ghost-sound|ghost sound]], [[read-aura|read aura]]; __2nd__ [[illusory-object|illusory object]], [[misdirection]]; __3rd__ [[illusory-creature|illusory creature]], [[mind-reading|mind reading]]; __4th__ [[invisibility]], [[modify-memory|modify memory]], [[nightmare]], [[phantasmal-killer|phantasmal killer]], [[suggestion]];"
 sourcebook: "_Bestiary 3_, page 179."
 ```
 

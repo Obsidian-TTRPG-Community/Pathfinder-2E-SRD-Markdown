@@ -37,13 +37,13 @@ abilities_mid:
   - name: "Explosive Rebirth"
     desc: " ([[death]], [[divine]], [[evocation]], [[fire]], [[good]]);  When killed, the star archon explodes in a blinding flash of holy energy that deals 12d6 (12d6) fire damage and 12d6 (12d6) good damage to anything in a 100-foot emanation, with a DC 40 basic Reflex save. A non-archon creature that sees the explosion and critically fails its save is permanently [[rules/conditions.md#Blinded|blinded]] as well. The slain star archon reincarnates 1d4 (1d4) rounds later as a shield archon (Bestiary 29)."
   - name: "Retributive Strike"
-    desc: "⬲  A star archon can also make a [[Retributive Strike]] by throwing its starknife, and the enemy and ally can be within 60 feet instead of 15 feet."
+    desc: "⬲  A star archon can also make a [[Retributive-Strike|Retributive Strike]] by throwing its starknife, and the enemy and ally can be within 60 feet instead of 15 feet."
 abilities_top:
   - name: Items
     desc: "+2 greater resilient full plate, +2 greater striking returning starknife;"
 abilities_bot:
   - name: "Archon's Door"
-    desc: "  Once per day, if an archon sees another creature cast [[dimension door]], the archon can use dimension door (heightened to 5th level) within 1 round to attempt to follow that creature to the maximum distance of the archon's dimension door. If the archon's dimension door has enough distance, the archon appears the same distance and direction from the creature as before either creature used dimension door."
+    desc: "  Once per day, if an archon sees another creature cast [[dimension-door|dimension door]], the archon can use dimension door (heightened to 5th level) within 1 round to attempt to follow that creature to the maximum distance of the archon's dimension door. If the archon's dimension door has enough distance, the archon appears the same distance and direction from the creature as before either creature used dimension door."
   - name: "Prudent Asterism"
     desc: "⬺  The star archon calculates a celestial constellation and sends their starknife flying along that path from one foe to the next. It makes a starknife [[Strike]] against a target within 60 feet. If the [[Strike]] hits, it can make another [[Strike]] at a different target within 60 feet of the first target, and so on, until it misses with a [[Strike]] or runs out of targets it hasn't attacked within range of the most recent target. The star archon can attack a given target only once per use of this ability. These attacks don't apply any range increment penalty, and the star archon resolves all the attacks before increasing the multiple attack penalty."
 
@@ -67,7 +67,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 43; __4th__ [[dimension door]] (at will); __5th__ [[sending]]; __7th__ [[heal]], [[prismatic spray]]; __9th__ [[blindness]], [[implosion]], [[sunburst]]; __Constant__ __(5th)__ [[tongues]], __(6th)__ [[true seeing]];"
+    desc: "DC 43; __4th__ [[dimension-door|dimension door]] (at will); __5th__ [[sending]]; __7th__ [[heal]], [[prismatic-spray|prismatic spray]]; __9th__ [[blindness]], [[implosion]], [[sunburst]]; __Constant__ __(5th)__ [[tongues]], __(6th)__ [[true-seeing|true seeing]];"
 sourcebook: "_Bestiary 2_, page 24."
 ```
 

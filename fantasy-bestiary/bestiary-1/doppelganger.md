@@ -56,7 +56,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 21; __3rd__ [[mind reading]] (at will);"
+    desc: "DC 21; __3rd__ [[mind-reading|mind reading]] (at will);"
 sourcebook: "_Bestiary_, page 103."
 ```
 

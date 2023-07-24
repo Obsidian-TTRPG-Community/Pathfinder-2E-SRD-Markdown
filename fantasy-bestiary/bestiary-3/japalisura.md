@@ -65,7 +65,7 @@ attacks:
 
 spellcasting:
   - name: "Innate Divine Spells"
-    desc: "DC 32; __6th__ [[illusory disguise]], [[read omens]] (at will), [[augury]] (at will); __Constant__ __(6th)__ [[magic aura]], [[nondetection]], [[see invisibility]];"
+    desc: "DC 32; __6th__ [[illusory-disguise|illusory disguise]], [[read-omens|read omens]] (at will), [[augury]] (at will); __Constant__ __(6th)__ [[magic-aura|magic aura]], [[nondetection]], [[see-invisibility|see invisibility]];"
 sourcebook: "_Bestiary 3_, page 23."
 ```
 

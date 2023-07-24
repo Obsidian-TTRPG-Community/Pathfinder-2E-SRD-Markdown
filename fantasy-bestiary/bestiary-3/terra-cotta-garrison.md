@@ -42,9 +42,9 @@ abilities_bot:
   - name: "Form Up"
     desc: "⬻ "
   - name: "Raise Shields"
-    desc: "⬻  The troop raises steel shields, with the effects of [[Raise a Shield]]. [[Strike]] as One ⬻ to ⬽ Frequency once per round; The garrison makes a melee attack against each enemy within 5 feet (DC 30 basic Reflex save). The damage depends on the number of actions. ⬻ 2d8 (2d8) slashing damage ⬺ 3d8+10 (3d8+10) slashing damage ⬽ 4d8+13 (4d8+13) slashing damage."
+    desc: "⬻  The troop raises steel shields, with the effects of [[Raise-a-Shield|Raise a Shield]]. [[Strike]] as One ⬻ to ⬽ Frequency once per round; The garrison makes a melee attack against each enemy within 5 feet (DC 30 basic Reflex save). The damage depends on the number of actions. ⬻ 2d8 (2d8) slashing damage ⬺ 3d8+10 (3d8+10) slashing damage ⬽ 4d8+13 (4d8+13) slashing damage."
   - name: "Troop Movement"
-    desc: "  Whenever a troop [[Stride|Strides]], it first Forms Up as a free action to condense into a 20-foot-by-20-foot area (minus any missing squares), then moves up to its Speed. This works just like a Gargantuan creature moving; for instance, if any square enters [[terrain|difficult terrain]], the extra movement cost applies to the whole troop."
+    desc: "  Whenever a troop [[Stride|Strides]], it first Forms Up as a free action to condense into a 20-foot-by-20-foot area (minus any missing squares), then moves up to its Speed. This works just like a Gargantuan creature moving; for instance, if any square enters [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]], the extra movement cost applies to the whole troop."
 
 speed: 25 feet; troop movement;
 

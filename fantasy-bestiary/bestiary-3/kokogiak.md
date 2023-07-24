@@ -44,7 +44,7 @@ abilities_bot:
   - name: "Tormented Snarl"
     desc: "⬺ ([[auditory]], [[illusion]], [[mental]], [[primal]]);  Using their voice imitation abilities, a kokogiak emits the horrific wails of its former victims. Each creature within 120 feet takes 4d6 (4d6) mental damage and must attempt a DC 32 Will save. A creature [[rules/conditions.md#Frightened|frightened]] by this ability is [[rules/conditions.md#Flat-Footed|flat-footed]] to the kokogiak.\n__Critical Success__ The creature is unaffected and is temporarily immune for 1 minute.\n__Success__ The creature takes half damage and becomes [[rules/conditions.md#Frightened|frightened 1]].\n__Failure__ The creature takes full damage and becomes [[rules/conditions.md#Frightened|frightened 2]].\n__Critical Failure__ The creature takes double damage, becomes [[rules/conditions.md#Frightened|frightened 3]], and is [[rules/conditions.md#Fleeing|fleeing]] until the end of its next turn."
   - name: "Trackless Step"
-    desc: "  The kokogiak always gains the benefits of [[Cover Tracks]] in natural surroundings, even while moving at full speed."
+    desc: "  The kokogiak always gains the benefits of [[Cover-Tracks|Cover Tracks]] in natural surroundings, even while moving at full speed."
 
 speed: 40 feet, swim 20 feet; trackless step;
 

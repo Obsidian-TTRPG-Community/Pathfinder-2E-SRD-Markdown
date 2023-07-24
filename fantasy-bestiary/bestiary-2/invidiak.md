@@ -61,7 +61,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 26; __3rd__ [[fear]]; __4th__ [[darkness]], [[dimension door]] (at will); __5th__ [[dimension door]], [[shadow blast]]; __7th__ [[possession]] range touch;"
+    desc: "DC 26; __3rd__ [[fear]]; __4th__ [[darkness]], [[dimension-door|dimension door]] (at will); __5th__ [[dimension-door|dimension door]], [[shadow-blast|shadow blast]]; __7th__ [[possession]] range touch;"
 sourcebook: "_Bestiary 2_, page 65."
 ```
 

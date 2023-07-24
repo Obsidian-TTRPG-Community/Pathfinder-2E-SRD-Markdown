@@ -57,7 +57,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ tentacle +20 ([[reach|reach 30 feet]]); __Damage__ 3d8+9 (3d8+9) piercing plus [[Improved Grab]]"
+    desc: "⬻ tentacle +20 ([[reach|reach 30 feet]]); __Damage__ 3d8+9 (3d8+9) piercing plus [[Improved-Grab|Improved Grab]]"
 
 sourcebook: "_Bestiary_, page 129."
 ```

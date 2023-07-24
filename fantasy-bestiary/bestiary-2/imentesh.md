@@ -71,7 +71,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 29; __1st__ [[detect alignment]] at will; lawful only; __3rd__ [[haste]], [[mending]], [[shrink item]], [[slow]]; __4th__ [[creation]], [[dimension door]] (at will), [[shatter]]; __5th__ [[dimension door]], [[dispel magic]], [[divine wrath]] chaotic, [[sending]]; __Constant__ __(4th)__ [[freedom of movement]], __(5th)__ [[tongues]];"
+    desc: "DC 29; __1st__ [[detect-alignment|detect alignment]] at will; lawful only; __3rd__ [[haste]], [[mending]], [[shrink-item|shrink item]], [[slow]]; __4th__ [[creation]], [[dimension-door|dimension door]] (at will), [[shatter]]; __5th__ [[dimension-door|dimension door]], [[dispel-magic|dispel magic]], [[divine-wrath|divine wrath]] chaotic, [[sending]]; __Constant__ __(4th)__ [[freedom-of-movement|freedom of movement]], __(5th)__ [[tongues]];"
 sourcebook: "_Bestiary 2_, page 207."
 ```
 

@@ -56,7 +56,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 20; __Constant__ __(4th)__ [[air walk]];"
+    desc: "DC 20; __Constant__ __(4th)__ [[air-walk|air walk]];"
 sourcebook: "_Bestiary 2_, page 302."
 ```
 

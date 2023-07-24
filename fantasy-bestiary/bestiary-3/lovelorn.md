@@ -38,7 +38,7 @@ abilities_mid:
     desc: "⬲ __Trigger__ A creature ends its movement in a space adjacent to the lovelorn __Effect__  The lovelorn [[Stride|Strides]] or Climbs 10 feet away from the triggering creature. This movement does not trigger reactions."
 abilities_bot:
   - name: "Cynic's Curse"
-    desc: " ([[curse]], [[emotion]], [[enchantment]], [[mental]], [[occult]]);  A creature hit by a lovelorn's fangs [[Strike]] must attempt a DC 19 Will save as it grows morose and listless. If the creature would be affected by a [[calm emotions]] spell, that spell attempts to counteract this curse instead of having its normal effect.\n__Critical Success__ The target is unaffected.\n__Success__ For 1 minute, the target can't benefit from [[rules/conditions.md#Helpful|helpful]] [[emotion]] effects, but can still be affected by harmful [[emotion]] effects.\n__Failure__ As success, plus the target is [[rules/conditions.md#Fatigued|fatigued]] for the same duration.\n__Critical Failure__ As failure, but the curse's effects are permanent."
+    desc: " ([[curse]], [[emotion]], [[enchantment]], [[mental]], [[occult]]);  A creature hit by a lovelorn's fangs [[Strike]] must attempt a DC 19 Will save as it grows morose and listless. If the creature would be affected by a [[calm-emotions|calm emotions]] spell, that spell attempts to counteract this curse instead of having its normal effect.\n__Critical Success__ The target is unaffected.\n__Success__ For 1 minute, the target can't benefit from [[rules/conditions.md#Helpful|helpful]] [[emotion]] effects, but can still be affected by harmful [[emotion]] effects.\n__Failure__ As success, plus the target is [[rules/conditions.md#Fatigued|fatigued]] for the same duration.\n__Critical Failure__ As failure, but the curse's effects are permanent."
 
 speed: 25 feet, climb 25 feet
 
@@ -49,7 +49,7 @@ armorclass:
 hp: 60
 health:
   - name: HP
-    desc: "60; [[negative healing]]; __Immunities__ mental, poison, death effects, disease, paralyzed, unconscious;"
+    desc: "60; [[negative-healing-b2|negative healing]]; __Immunities__ mental, poison, death effects, disease, paralyzed, unconscious;"
 
 
 attacks:
@@ -60,7 +60,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 21; __Cantrips (2nd)__ [[ghost sound]], [[mage-hand|mage hand]]; __2nd__ [[fear]] (3), [[illusory creature]] (at will), [[illusory object]] (at will), [[invisibility]];"
+    desc: "DC 21; __Cantrips (2nd)__ [[ghost-sound|ghost sound]], [[mage-hand|mage hand]]; __2nd__ [[fear]] (3), [[illusory-creature|illusory creature]] (at will), [[illusory-object|illusory object]] (at will), [[invisibility]];"
 sourcebook: "_Bestiary 3_, page 165."
 ```
 

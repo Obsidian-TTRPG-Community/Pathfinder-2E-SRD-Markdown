@@ -58,7 +58,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 14; __1st__ [[illusory disguise]];"
+    desc: "DC 14; __1st__ [[illusory-disguise|illusory disguise]];"
 sourcebook: "_Bestiary_, page 74."
 ```
 

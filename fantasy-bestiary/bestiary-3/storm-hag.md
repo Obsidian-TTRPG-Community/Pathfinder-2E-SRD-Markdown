@@ -44,7 +44,7 @@ abilities_bot:
   - name: "Stormcalling"
     desc: "  A storm hag can perform a special control weather ritual, which requires no secondary casters, to change the weather within 5 miles of her location for 4d12 (4d12) hours. The primary check is a DC 23 [[compendium/skills.md#Occultism|Occultism]] check, and she can't get an outcome worse than a failure. The storm hag can create only hurricanes, thunderstorms, and tornadoes, but she can do so regardless of the current season. She can also quell natural weather events but never willingly does so."
   - name: "Wind Mastery"
-    desc: "  A storm hag is unaffected by strong winds, natural or magical. Windy conditions are not [[terrain|difficult terrain]] for her."
+    desc: "  A storm hag is unaffected by strong winds, natural or magical. Windy conditions are not [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] for her."
 
 speed: 25 feet, fly 40 feet
 
@@ -68,7 +68,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 22; __3rd__ [[gust of wind]] (at will), [[lightning bolt]], [[obscuring mist]], [[wall of wind]];"
+    desc: "DC 22; __3rd__ [[gust-of-wind|gust of wind]] (at will), [[lightning-bolt|lightning bolt]], [[obscuring-mist|obscuring mist]], [[wall-of-wind|wall of wind]];"
 sourcebook: "_Bestiary 3_, page 128."
 ```
 

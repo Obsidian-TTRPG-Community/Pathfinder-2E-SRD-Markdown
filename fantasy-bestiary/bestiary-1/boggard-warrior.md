@@ -34,7 +34,7 @@ abilityMods: [4, 0, 4, -1, 2, 1]
 
 abilities_bot:
   - name: "Swamp Stride"
-    desc: "  A boggard scout ignores [[terrain|difficult terrain]] caused by swamp terrain features."
+    desc: "  A boggard scout ignores [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] caused by swamp terrain features."
   - name: "Terrifying Croak"
     desc: "⬻ ([[auditory]], [[emotion]], [[fear]], [[mental]]);  As boggard scout, except DC 18."
   - name: "Tongue Grab"

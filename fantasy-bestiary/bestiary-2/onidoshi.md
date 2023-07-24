@@ -67,7 +67,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 24; __2nd__ [[darkness]], [[invisibility]] (at will) self only; __3rd__ [[fear]]; __4th__ [[charm]], [[gaseous form]], [[sleep]]; __5th__ [[cone of cold]];"
+    desc: "DC 24; __2nd__ [[darkness]], [[invisibility]] (at will) self only; __3rd__ [[fear]]; __4th__ [[charm]], [[gaseous-form|gaseous form]], [[sleep]]; __5th__ [[cone-of-cold|cone of cold]];"
 sourcebook: "_Bestiary 2_, page 188."
 ```
 

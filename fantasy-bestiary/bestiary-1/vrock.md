@@ -66,7 +66,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 26; __2nd__ [[mirror image]]; __4th__ [[dimension door]] (at will); __5th__ [[dimension door]];"
+    desc: "DC 26; __2nd__ [[mirror-image|mirror image]]; __4th__ [[dimension-door|dimension door]] (at will); __5th__ [[dimension-door|dimension door]];"
 sourcebook: "_Bestiary_, page 78."
 ```
 

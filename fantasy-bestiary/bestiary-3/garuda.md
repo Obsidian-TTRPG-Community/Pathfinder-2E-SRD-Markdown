@@ -63,7 +63,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 27; __1st__ [[true strike]] (at will); __2nd__ [[see invisibility]] (3); __3rd__ [[haste]]; __4th__ [[freedom of movement]];"
+    desc: "DC 27; __1st__ [[true-strike|true strike]] (at will); __2nd__ [[see-invisibility|see invisibility]] (3); __3rd__ [[haste]]; __4th__ [[freedom-of-movement|freedom of movement]];"
 sourcebook: "_Bestiary 3_, page 104."
 ```
 

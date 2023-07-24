@@ -55,7 +55,7 @@ armorclass:
 hp: 150
 health:
   - name: HP
-    desc: "150; [[negative healing]];"
+    desc: "150; [[negative-healing-b2|negative healing]];"
 
 
 attacks:
@@ -64,7 +64,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Spontaneous Spells"
-    desc: "DC 29, attack +21; __Cantrips (5th)__ [[acid splash]], [[dancing lights]], [[electric arc]], [[ghost sound]], [[prestidigitation]]; __1st__ (4 slots) [[bane]], [[grease]], [[ray of enfeeblement]], [[ventriloquism]]; __2nd__ (4 slots) [[blur]], [[dispel magic]], [[glitterdust]], [[obscuring mist]]; __3rd__ (4 slots) [[earthbind]], [[false life]], [[haste]], [[wall of thorns]]; __4th__ (4 slots) [[dispel magic]], [[freedom of movement]], [[grim tendrils]], [[phantasmal killer]]; __5th__ (4 slots) [[cloudkill]], [[crushing despair]], [[lightning bolt]], [[synesthesia]];"
+    desc: "DC 29, attack +21; __Cantrips (5th)__ [[acid-splash|acid splash]], [[dancing-lights|dancing lights]], [[electric-arc|electric arc]], [[ghost-sound|ghost sound]], [[prestidigitation]]; __1st__ (4 slots) [[bane]], [[grease]], [[ray-of-enfeeblement|ray of enfeeblement]], [[ventriloquism]]; __2nd__ (4 slots) [[blur]], [[dispel-magic|dispel magic]], [[glitterdust]], [[obscuring-mist|obscuring mist]]; __3rd__ (4 slots) [[earthbind]], [[false-life|false life]], [[haste]], [[wall-of-thorns|wall of thorns]]; __4th__ (4 slots) [[dispel-magic|dispel magic]], [[freedom-of-movement|freedom of movement]], [[grim-tendrils|grim tendrils]], [[phantasmal-killer|phantasmal killer]]; __5th__ (4 slots) [[cloudkill]], [[crushing-despair|crushing despair]], [[lightning-bolt|lightning bolt]], [[synesthesia]];"
 sourcebook: "_Bestiary 3_, page 177."
 ```
 

@@ -62,7 +62,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 19; __7th__ [[plane shift]], [[to Shadow]];"
+    desc: "DC 19; __7th__ [[plane-shift|plane shift]], [[to-Shadow|to Shadow]];"
 sourcebook: "_Bestiary 2_, page 104."
 ```
 

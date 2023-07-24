@@ -68,7 +68,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 41; __Constant__ __(8th)__ [[true seeing]], __(9th)__ [[freedom of movement]];"
+    desc: "DC 41; __Constant__ __(8th)__ [[true-seeing|true seeing]], __(9th)__ [[freedom-of-movement|freedom of movement]];"
 sourcebook: "_Bestiary 2_, page 167."
 ```
 

@@ -61,7 +61,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 30; __7th__ [[ethereal jaunt]] self and rider only, [[plane shift]] self and rider only;"
+    desc: "DC 30; __7th__ [[ethereal-jaunt|ethereal jaunt]] self and rider only, [[plane-shift|plane shift]] self and rider only;"
 sourcebook: "_Bestiary_, page 244."
 ```
 

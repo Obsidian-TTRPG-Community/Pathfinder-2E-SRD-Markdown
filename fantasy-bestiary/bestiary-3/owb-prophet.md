@@ -43,7 +43,7 @@ abilities_bot:
   - name: "Curse of Darkness"
     desc: "⬻ ([[curse]], [[darkness]], [[evocation]], [[occult]]);  The owb inflicts a curse on one creature taking persistent cold damage from their burning cold Strike, stealing the victim's vibrancy. The creature must attempt a DC 32 Fortitude save. On a failure, the creature gains light blindness and its coloration turns to washed out shades of gray, along with all equipment it carries, wields, or wears. These effects have an unlimited duration. Regardless of the result of its save, the creature is temporarily immune for 1 minute. If the owb uses this ability on a caligni, the curse can't be removed short of [[wish]] or similar powerful magic."
   - name: "Shadow's Swiftness"
-    desc: "  An owb prophet can Cast [[shadow walk]] as a 3-action activity instead of 1 minute. If they do so, they target only themself."
+    desc: "  An owb prophet can Cast [[shadow-walk|shadow walk]] as a 3-action activity instead of 1 minute. If they do so, they target only themself."
 
 speed: 5 feet, fly 40 feet
 
@@ -65,7 +65,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 33, attack +25; __Cantrips (7th)__ [[chill-touch|chill touch]], [[daze]], [[read aura]], [[shield]]; __3rd__ [[mind reading]] (at will); __4th__ [[invisibility]]; __5th__ [[shadow walk]] (3) see shadow's swiftness; __6th__ [[darkness]] (at will), [[dominate]] (3); __7th__ [[plane shift]] (3), [[shadow blast]] (3);"
+    desc: "DC 33, attack +25; __Cantrips (7th)__ [[chill-touch|chill touch]], [[daze]], [[read-aura|read aura]], [[shield]]; __3rd__ [[mind-reading|mind reading]] (at will); __4th__ [[invisibility]]; __5th__ [[shadow-walk|shadow walk]] (3) see shadow's swiftness; __6th__ [[darkness]] (at will), [[dominate]] (3); __7th__ [[plane-shift|plane shift]] (3), [[shadow-blast|shadow blast]] (3);"
 sourcebook: "_Bestiary 3_, page 197."
 ```
 

@@ -60,7 +60,7 @@ armorclass:
 hp: 30
 health:
   - name: HP
-    desc: "30; [[negative healing]];"
+    desc: "30; [[negative-healing-b2|negative healing]];"
 
 
 attacks:

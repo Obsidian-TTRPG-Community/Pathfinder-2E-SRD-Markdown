@@ -70,7 +70,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 23; __2nd__ [[entangle]], [[tree shape]]; __3rd__ [[earthbind]]; __4th__ [[speak with plants]]; __Constant__ __(2nd)__ [[pass without trace]], [[speak]];"
+    desc: "DC 23; __2nd__ [[entangle]], [[tree-shape|tree shape]]; __3rd__ [[earthbind]]; __4th__ [[speak-with-plants|speak with plants]]; __Constant__ __(2nd)__ [[pass-without-trace|pass without trace]], [[speak]];"
 sourcebook: "_Bestiary 2_, page 124."
 ```
 

@@ -60,7 +60,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 25, attack +17; __4th__ [[augury]] (at will), [[charm]], [[dispel magic]], [[enthrall]], [[outcast's curse]], [[remove curse]], [[suggestion]], [[touch of idiocy]];"
+    desc: "DC 25, attack +17; __4th__ [[augury]] (at will), [[charm]], [[dispel-magic|dispel magic]], [[enthrall]], [[outcast's curse]], [[remove-curse|remove curse]], [[suggestion]], [[touch-of-idiocy|touch of idiocy]];"
 sourcebook: "_Bestiary 2_, page 8."
 ```
 

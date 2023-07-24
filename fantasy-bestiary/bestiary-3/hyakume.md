@@ -35,7 +35,7 @@ abilities_top:
   - name: "Light Blindness"
     desc: " "
   - name: "Lore Master"
-    desc: "  A hyakume can use their [[compendium/skills.md#Lore|Bardic Lore]] skill to [[Recall Knowledge]] on any topic, and they know any languages common to an area they have spent a day or more in."
+    desc: "  A hyakume can use their [[compendium/skills.md#Lore|Bardic Lore]] skill to [[Recall-Knowledge|Recall Knowledge]] on any topic, and they know any languages common to an area they have spent a day or more in."
 abilities_bot:
   - name: "Eye Probe"
     desc: "⬽ ([[divination]], [[occult]]); __Frequency__ once per day  __Effect__  Up to six of the hyakume's eyes detach from the hyakume's body. Each eye has AC 26, HP 1, and a fly speed of 40 feet. The hyakume can see through all of their eye probes. They can move the probes all in separate directions using a single action. A hyakume can have no more than six eye probes active at a time; using this ability to create more causes the eye or eyes farthest away to shrivel and die. The hyakume can deliver touch spells through their eye probes and can make melee spell attacks through them. In addition, the hyakume can [[Steal]] Memories through an eye probe using a single action by touching the target with the eye."
@@ -62,7 +62,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 40, attack +32; __Cantrips (8th)__ [[daze]], [[detect magic]], [[read aura]]; __4th__ [[air walk]] (at will), [[hypercognition]] (at will), [[zone of truth]] (at will); __7th__ [[dispel magic]] (2), [[mindlink]] (at will); __8th__ [[charm]] (2), [[disappearance]], [[mind blank]];"
+    desc: "DC 40, attack +32; __Cantrips (8th)__ [[daze]], [[detect-magic|detect magic]], [[read-aura|read aura]]; __4th__ [[air-walk|air walk]] (at will), [[hypercognition]] (at will), [[zone-of-truth|zone of truth]] (at will); __7th__ [[dispel-magic|dispel magic]] (2), [[mindlink]] (at will); __8th__ [[charm]] (2), [[disappearance]], [[mind-blank|mind blank]];"
 sourcebook: "_Bestiary 3_, page 139."
 ```
 

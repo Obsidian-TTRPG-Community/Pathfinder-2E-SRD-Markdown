@@ -59,7 +59,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 29; __4th__ [[suggestion]]; __5th__ [[control water]], [[elemental form]] (3) water only; __6th__ [[summon elemental]] water elementals only;"
+    desc: "DC 29; __4th__ [[suggestion]]; __5th__ [[control-water|control water]], [[elemental-form|elemental form]] (3) water only; __6th__ [[summon-elemental|summon elemental]] water elementals only;"
 sourcebook: "_Bestiary 2_, page 182."
 ```
 

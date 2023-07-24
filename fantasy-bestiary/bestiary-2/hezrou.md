@@ -61,7 +61,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 27; __4th__ [[dimension door]] (at will), [[divine wrath]] (at will), [[gaseous form]]; __5th__ [[Abyssal plague]], [[dimension door]]; __6th__ [[divine wrath]], [[paranoia]];"
+    desc: "DC 27; __4th__ [[dimension-door|dimension door]] (at will), [[divine-wrath|divine wrath]] (at will), [[gaseous-form|gaseous form]]; __5th__ [[Abyssal-plague|Abyssal plague]], [[dimension-door|dimension door]]; __6th__ [[divine-wrath|divine wrath]], [[paranoia]];"
 sourcebook: "_Bestiary 2_, page 67."
 ```
 

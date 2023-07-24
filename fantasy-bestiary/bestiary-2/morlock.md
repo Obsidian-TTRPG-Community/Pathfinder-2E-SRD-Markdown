@@ -39,7 +39,7 @@ abilities_bot:
   - name: "Instinctual Tinker"
     desc: "⬺  The morlock tinkers with an adjacent construct or mechanical hazard. They attempt a [[compendium/skills.md#Crafting|Crafting]] check against the construct's or hazard's Fortitude DC. The morlock can't succeed if the target's level is more than double the morlock's.\n__Critical Success__ The target gains 4d6 (4d6) HP and a +1 circumstance bonus to attack rolls for 1 minute.\n__Success__ The target gains 2d6 (2d6) HP.\n__Critical Failure__ The morlock injures itself, taking 2d6 (2d6) damage (typically bludgeoning, piercing, or slashing, but potentially a different type at the GM's discretion)."
   - name: "Leap Attack"
-    desc: "⬺  The morlock [[Stride|Strides]] up to twice its Speed, during which it attempts a [[High Jump]] or a [[Long Jump]]. At any point during its movement, the morlock can make a melee [[Strike]] against an enemy in its reach. The morlock then can't use [[Leap]] Attack for 1 round."
+    desc: "⬺  The morlock [[Stride|Strides]] up to twice its Speed, during which it attempts a [[High-Jump|High Jump]] or a [[Long-Jump|Long Jump]]. At any point during its movement, the morlock can make a melee [[Strike]] against an enemy in its reach. The morlock then can't use [[Leap]] Attack for 1 round."
   - name: "Sneak Attack"
     desc: "  A morlock's [[Strike|Strikes]] deal an extra 1d6 (1d6) precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
   - name: "Swarming Stance"

@@ -36,7 +36,7 @@ abilityMods: [7, 5, 3, 5, 6, 3]
 
 abilities_top:
   - name: "Coven"
-    desc: "  A moon hag adds [[plane shift]], [[scrying]], and [[spirit blast]] to her [[coven]]'s spells."
+    desc: "  A moon hag adds [[plane-shift|plane shift]], [[scrying]], and [[spirit-blast|spirit blast]] to her [[coven]]'s spells."
 abilities_mid:
   - name: "Ferocity"
     desc: "⬲ "
@@ -66,7 +66,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 29; __5th__ [[confusion]], [[fear]] (at will), [[read omens]], [[talking corpse]] (3), [[tongues]];"
+    desc: "DC 29; __5th__ [[confusion]], [[fear]] (at will), [[read-omens|read omens]], [[talking-corpse|talking corpse]] (3), [[tongues]];"
 sourcebook: "_Bestiary 3_, page 131."
 ```
 

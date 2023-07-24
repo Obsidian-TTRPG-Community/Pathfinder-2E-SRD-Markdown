@@ -71,7 +71,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 30; __2nd__ [[detect alignment]] (at will) good or evil only; __6th__ [[shape stone]], [[suggestion]] (at will);"
+    desc: "DC 30; __2nd__ [[detect-alignment|detect alignment]] (at will) good or evil only; __6th__ [[shape-stone|shape stone]], [[suggestion]] (at will);"
 sourcebook: "_Bestiary 3_, page 81."
 ```
 

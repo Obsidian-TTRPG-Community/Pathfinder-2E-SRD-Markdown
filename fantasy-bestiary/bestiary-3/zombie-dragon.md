@@ -49,7 +49,7 @@ armorclass:
 hp: 210
 health:
   - name: HP
-    desc: "210; [[negative healing]]; __Immunities__ mental, poison, death effects, disease, paralyzed, unconscious;"
+    desc: "210; [[negative-healing-b2|negative healing]]; __Immunities__ mental, poison, death effects, disease, paralyzed, unconscious;"
 
 
 attacks:

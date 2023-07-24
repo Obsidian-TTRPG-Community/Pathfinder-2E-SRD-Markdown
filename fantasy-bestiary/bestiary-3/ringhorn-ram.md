@@ -31,7 +31,7 @@ abilityMods: [3, 2, 2, -5, 2, 0]
 
 abilities_bot:
   - name: "Nimble Stride"
-    desc: "  Rams ignore [[terrain|difficult terrain]] caused by narrow ledges."
+    desc: "  Rams ignore [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] caused by narrow ledges."
   - name: "Ram Charge"
     desc: "⬺  The ram [[Stride|Strides]] twice in a straight line and then makes a horn [[Strike]] with a +1 circumstance bonus to its attack roll."
 

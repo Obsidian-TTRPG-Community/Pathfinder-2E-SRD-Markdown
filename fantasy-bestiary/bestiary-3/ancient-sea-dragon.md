@@ -37,7 +37,7 @@ abilities_mid:
   - name: "Frightful Presence"
     desc: " ([[aura]], [[emotion]], [[fear]], [[mental]]);  90 feet, DC 36 (page 305)"
   - name: "Vortex"
-    desc: " ([[aura]], [[water]]);  40 feet. Water in the aura that's also in the same body of water as the dragon is [[terrain|difficult terrain]] for Swimming creatures which don't have the [[water]] trait."
+    desc: " ([[aura]], [[water]]);  40 feet. Water in the aura that's also in the same body of water as the dragon is [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] for Swimming creatures which don't have the [[water]] trait."
   - name: "Liquefy"
     desc: "⬲ ([[abjuration]], [[arcane]], [[water]]); __Trigger__ The dragon is targeted by a [[Strike]] or spell that could deal fire or physical damage to them __Effect__  The dragon liquefies, turning entirely to water while maintaining their shape, for a split second. Against the triggering effect, they gain resistance 25 to fire and to all physical damage."
 abilities_bot:
@@ -76,7 +76,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 38; __3rd__ [[endure elements]] self only; __5th__ [[control water]], [[create water]] (at will); __Constant__ __(2nd)__ [[water walk]];"
+    desc: "DC 38; __3rd__ [[endure-elements|endure elements]] self only; __5th__ [[control-water|control water]], [[create-water|create water]] (at will); __Constant__ __(2nd)__ [[water-walk|water walk]];"
 sourcebook: "_Bestiary 3_, page 78."
 ```
 

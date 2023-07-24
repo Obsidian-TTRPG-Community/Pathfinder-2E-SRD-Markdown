@@ -63,7 +63,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 32; __Cantrips (6th)__ [[daze]], [[detect magic]]; __4th__ [[darkness]] (at will); __5th__ [[subconscious suggestion]]; __6th__ [[phantasmal calamity]], [[phantom pain]]; __7th__ [[plane shift]] self only; __Constant__ __(4th)__ [[air walk]];"
+    desc: "DC 32; __Cantrips (6th)__ [[daze]], [[detect-magic|detect magic]]; __4th__ [[darkness]] (at will); __5th__ [[subconscious-suggestion|subconscious suggestion]]; __6th__ [[phantasmal-calamity|phantasmal calamity]], [[phantom-pain|phantom pain]]; __7th__ [[plane-shift|plane shift]] self only; __Constant__ __(4th)__ [[air-walk|air walk]];"
 sourcebook: "_Bestiary 2_, page 214."
 ```
 

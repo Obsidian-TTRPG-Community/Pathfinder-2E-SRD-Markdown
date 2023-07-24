@@ -59,7 +59,7 @@ armorclass:
 hp: 255
 health:
   - name: HP
-    desc: "255; [[negative healing]], rejuvenation; __Immunities__ poison, precision, death effects, disease, paralyzed, unconscious; __Resistances__ all damage 10"
+    desc: "255; [[negative-healing-b2|negative healing]], rejuvenation; __Immunities__ poison, precision, death effects, disease, paralyzed, unconscious; __Resistances__ all damage 10"
 
 
 attacks:
@@ -70,7 +70,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 36, attack +28; __8th__ [[finger of death]] (3), [[harm]] (3), [[wall of force]];"
+    desc: "DC 36, attack +28; __8th__ [[finger-of-death|finger of death]] (3), [[harm]] (3), [[wall-of-force|wall of force]];"
 sourcebook: "_Bestiary 3_, page 185."
 ```
 

@@ -64,7 +64,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 15; __1st__ [[illusory disguise]];"
+    desc: "DC 15; __1st__ [[illusory-disguise|illusory disguise]];"
 sourcebook: "_Bestiary 2_, page 117."
 ```
 

@@ -43,7 +43,7 @@ abilities_bot:
   - name: "Dread Striker"
     desc: "  [[rules/conditions.md#Frightened|Frightened]] creatures are [[rules/conditions.md#Flat-Footed|flat-footed]] to the bandit."
   - name: "Favored Terrain"
-    desc: "  The bandit ignores the effects of non-magical [[terrain|difficult terrain]] in forests."
+    desc: "  The bandit ignores the effects of non-magical [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] in forests."
 
 speed: 25 feet
 

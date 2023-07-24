@@ -68,7 +68,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 32; __4th__ [[dimension door]] (at will); __5th__ [[control water]], [[create water]] (at will), [[dimension door]], [[stinking cloud]];"
+    desc: "DC 32; __4th__ [[dimension-door|dimension door]] (at will); __5th__ [[control-water|control water]], [[create-water|create water]] (at will), [[dimension-door|dimension door]], [[stinking-cloud|stinking cloud]];"
 sourcebook: "_Bestiary 3_, page 63."
 ```
 

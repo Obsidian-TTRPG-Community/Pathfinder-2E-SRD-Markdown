@@ -35,7 +35,7 @@ abilities_top:
   - name: "Sense Fate"
     desc: " ([[fortune]]);  A norn automatically rolls a 20 when she rolls initiative."
   - name: "Triumvirate"
-    desc: "  This functions as the [[coven]] ability, except only norns can join a triumvirate, and it functions only as long as exactly three norns are part of the triumvirate. A triumvirate grants the following spells: [[alter reality]] (once per day), [[cataclysm]], [[discern location]], [[foresight]], and [[revival]]."
+    desc: "  This functions as the [[coven]] ability, except only norns can join a triumvirate, and it functions only as long as exactly three norns are part of the triumvirate. A triumvirate grants the following spells: [[alter-reality|alter reality]] (once per day), [[cataclysm]], [[discern-location|discern location]], [[foresight]], and [[revival]]."
 abilities_bot:
   - name: "Fated"
     desc: "  When a creature is subject to a [[fortune]] effect from a norn and a [[misfortune]] effect from any source other than a norn (or vice versa), the norn's effect automatically counteracts the other effect and then takes place normally, rather than the two effects canceling each other out. If both the [[fortune]] and [[misfortune]] effect are from a norn, then the two cancel each other out as normal. At the GM's discretion, powerful entities related to fate or luck, like Desna, Magdh, or Pharasma, count as a norn for the purpose of this ability."
@@ -66,7 +66,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 42; __7th__ [[dispel magic]] (at will), [[read omens]] (at will), [[spellwrack]] (at will); __8th__ [[maze]], [[wind walk]]; __9th__ [[power word kill]], [[retrocognition]], [[weird]]; __10th__ [[time stop]]; __Constant__ __(10th)__ [[detect magic]], [[mind blank]], [[tongues]], [[true seeing]];"
+    desc: "DC 42; __7th__ [[dispel-magic|dispel magic]] (at will), [[read-omens|read omens]] (at will), [[spellwrack]] (at will); __8th__ [[maze]], [[wind-walk|wind walk]]; __9th__ [[power-word-kill|power word kill]], [[retrocognition]], [[weird]]; __10th__ [[time-stop|time stop]]; __Constant__ __(10th)__ [[detect-magic|detect magic]], [[mind-blank|mind blank]], [[tongues]], [[true-seeing|true seeing]];"
 sourcebook: "_Bestiary 2_, page 184."
 ```
 

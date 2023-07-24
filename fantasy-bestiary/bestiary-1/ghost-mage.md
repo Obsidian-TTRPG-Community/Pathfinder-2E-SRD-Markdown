@@ -64,7 +64,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 29, attack +23; __Cantrips (5th)__ [[detect magic]], [[ghost sound]], [[mage-hand|mage hand]], [[prestidigitation]], [[read magic]]; __1st__ [[ray of enfeeblement]] (2); __2nd__ [[telekinetic maneuver]] (2); __3rd__ [[blindness]], [[dispel magic]], [[nondetection]]; __4th__ [[phantasmal killer]], [[suggestion]]; __5th__ [[cone of cold]], [[hallucination]];"
+    desc: "DC 29, attack +23; __Cantrips (5th)__ [[detect-magic|detect magic]], [[ghost-sound|ghost sound]], [[mage-hand|mage hand]], [[prestidigitation]], [[read-magic|read magic]]; __1st__ [[ray-of-enfeeblement|ray of enfeeblement]] (2); __2nd__ [[telekinetic-maneuver|telekinetic maneuver]] (2); __3rd__ [[blindness]], [[dispel-magic|dispel magic]], [[nondetection]]; __4th__ [[phantasmal-killer|phantasmal killer]], [[suggestion]]; __5th__ [[cone-of-cold|cone of cold]], [[hallucination]];"
 sourcebook: "_Bestiary_, page 167."
 ```
 

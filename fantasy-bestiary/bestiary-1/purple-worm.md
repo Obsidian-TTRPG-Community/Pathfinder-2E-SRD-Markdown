@@ -31,7 +31,7 @@ abilityMods: [9, -1, 7, -5, -1, -1]
 
 abilities_mid:
   - name: "Inexorable"
-    desc: "  The purple worm recovers from the [[rules/conditions.md#Paralyzed|paralyzed]], [[rules/conditions.md#Slowed|slowed]], and [[rules/conditions.md#Stunned|stunned]] conditions at the end of its turn. It's also immune to penalties to its Speeds and the [[rules/conditions.md#Immobilized|immobilized]] condition, and it ignores [[terrain|difficult terrain]] and [[terrain|greater difficult terrain]]."
+    desc: "  The purple worm recovers from the [[rules/conditions.md#Paralyzed|paralyzed]], [[rules/conditions.md#Slowed|slowed]], and [[rules/conditions.md#Stunned|stunned]] conditions at the end of its turn. It's also immune to penalties to its Speeds and the [[rules/conditions.md#Immobilized|immobilized]] condition, and it ignores [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] and [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|greater difficult terrain]]."
   - name: "Shake It Off"
     desc: "⬲ __Frequency__ once per day __Trigger__ The purple worm would be affected by a condition or adverse effect (such as baleful polymorph). __Effect__  The purple worm negates the triggering condition or effect. s from artifacts, deities, or a similarly powerful source can't be avoided in this way."
 abilities_bot:
@@ -62,7 +62,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +28 ([[deadly|deadly 2d10]], [[reach|reach 15 feet]]); __Damage__ 3d10+15 (3d10+15) piercing plus [[Improved Grab]]"
+    desc: "⬻ jaws +28 ([[deadly|deadly 2d10]], [[reach|reach 15 feet]]); __Damage__ 3d10+15 (3d10+15) piercing plus [[Improved-Grab|Improved Grab]]"
   - name: Melee
     desc: "⬻ stinger +28 ([[agile]], [[poison]], [[reach|reach 15 feet]]); __Damage__ 2d12+15 (2d12+15) piercing plus purple worm venom"
   - name: Melee

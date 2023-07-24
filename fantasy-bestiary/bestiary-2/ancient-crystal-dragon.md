@@ -75,7 +75,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 37; __Cantrips (7th)__ [[dancing lights]]; __5th__ [[color spray]] (at will), [[glitterdust]] (at will), [[hypnotic pattern]] (at will); __7th__ [[prismatic spray]];"
+    desc: "DC 37; __Cantrips (7th)__ [[dancing-lights|dancing lights]]; __5th__ [[color-spray|color spray]] (at will), [[glitterdust]] (at will), [[hypnotic-pattern|hypnotic pattern]] (at will); __7th__ [[prismatic-spray|prismatic spray]];"
 sourcebook: "_Bestiary 2_, page 92."
 ```
 

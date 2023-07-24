@@ -60,7 +60,7 @@ attacks:
   - name: Melee
     desc: "⬻ sumbreiva huntblade +33 ([[agile]], [[death]], [[finesse]], [[magical]], [[versatile|versatile s]]); __Damage__ 3d8+16 (3d8+16) piercing plus huntblade brutality"
   - name: Melee
-    desc: "⬻ shadow whip +33 ([[agile]], [[death]], [[disarm]], [[finesse]], [[magical]], [[reach|reach 10 feet]], [[trip]]); __Damage__ 3d4+16 (3d4+16) bludgeoning plus [[Improved Grab]]"
+    desc: "⬻ shadow whip +33 ([[agile]], [[death]], [[disarm]], [[finesse]], [[magical]], [[reach|reach 10 feet]], [[trip]]); __Damage__ 3d4+16 (3d4+16) bludgeoning plus [[Improved-Grab|Improved Grab]]"
   - name: Ranged
     desc: "⬻ sumbreiva huntblade +33 ([[agile]], [[death]], [[magical]], [[thrown|thrown 30 feet]], [[versatile|versatile s]]); __Damage__ 3d8+16 (3d8+16) piercing plus huntblade brutality"
 

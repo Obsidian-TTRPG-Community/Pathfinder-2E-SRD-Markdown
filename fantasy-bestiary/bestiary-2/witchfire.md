@@ -66,7 +66,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 28; __Cantrips (5th)__ [[dancing lights]], [[ghost sound]]; __2nd__ [[illusory disguise]] (at will); __3rd__ [[phantom pain]]; __4th__ [[invisibility]], [[phantasmal killer]]; __5th__ [[crushing despair]]; __6th__ [[summon entity]] will-o'-wisp only;"
+    desc: "DC 28; __Cantrips (5th)__ [[dancing-lights|dancing lights]], [[ghost-sound|ghost sound]]; __2nd__ [[illusory-disguise|illusory disguise]] (at will); __3rd__ [[phantom-pain|phantom pain]]; __4th__ [[invisibility]], [[phantasmal-killer|phantasmal killer]]; __5th__ [[crushing-despair|crushing despair]]; __6th__ [[summon-entity|summon entity]] will-o'-wisp only;"
 sourcebook: "_Bestiary 2_, page 293."
 ```
 

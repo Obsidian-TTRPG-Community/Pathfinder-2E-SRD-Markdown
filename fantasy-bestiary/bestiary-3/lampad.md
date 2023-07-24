@@ -59,7 +59,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 22; __Cantrips (4th)__ [[dancing lights]]; __2nd__ [[faerie fire]], [[heal]]; __3rd__ [[meld into stone]] (at will), [[pummeling rubble]]; __4th__ [[shape stone]];"
+    desc: "DC 22; __Cantrips (4th)__ [[dancing-lights|dancing lights]]; __2nd__ [[faerie-fire|faerie fire]], [[heal]]; __3rd__ [[meld-into-stone|meld into stone]] (at will), [[pummeling-rubble|pummeling rubble]]; __4th__ [[shape-stone|shape stone]];"
 sourcebook: "_Bestiary 3_, page 188."
 ```
 

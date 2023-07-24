@@ -67,9 +67,9 @@ attacks:
 
 spellcasting:
   - name: "Occult Spontaneous Spells"
-    desc: "DC 20; __Cantrips (2nd)__ [[daze]], [[forbidding ward]], [[ghost sound]], [[light]], [[mage-hand|mage hand]]; __1st__ (3 slots) [[charm]], [[sanctuary]], [[sleep]], [[soothe]]; __2nd__ (2 slots) [[illusory disguise]], [[phantom pain]];"
+    desc: "DC 20; __Cantrips (2nd)__ [[daze]], [[forbidding-ward|forbidding ward]], [[ghost-sound|ghost sound]], [[light]], [[mage-hand|mage hand]]; __1st__ (3 slots) [[charm]], [[sanctuary]], [[sleep]], [[soothe]]; __2nd__ (2 slots) [[illusory-disguise|illusory disguise]], [[phantom-pain|phantom pain]];"
   - name: "Primal Innate Spells"
-    desc: "DC 20; __1st__ [[goodberry]] Core Rulebook 399, [[purify food and drink]]; __2nd__ [[detect poison]];"
+    desc: "DC 20; __1st__ [[goodberry]] Core Rulebook 399, [[purify-food-and-drink|purify food and drink]]; __2nd__ [[detect-poison|detect poison]];"
 sourcebook: "_Bestiary 3_, page 106."
 ```
 

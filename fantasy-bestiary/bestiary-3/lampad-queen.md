@@ -35,7 +35,7 @@ abilityMods: [3, 8, 7, 4, 4, 8]
 
 abilities_top:
   - name: "Cavern Empathy"
-    desc: "  The lampad queen can use [[compendium/skills.md#Diplomacy|Diplomacy]] to [[Make an Impression]] on and make very simple Requests of subterranean animals, plants, and fungi, as well as stones."
+    desc: "  The lampad queen can use [[compendium/skills.md#Diplomacy|Diplomacy]] to [[Make-an-Impression|Make an Impression]] on and make very simple Requests of subterranean animals, plants, and fungi, as well as stones."
   - name: "Tied to the Land"
     desc: "  A lampad queen is intrinsically tied to a specific underground region, usually a cave system. As long as the queen is healthy, the environment is exceptionally resilient, allowing the lampad queen to automatically attempt to counteract spells and rituals that would harm the environment, such as blight, with a +30 counteract modifier and a counteract level of 8. When the lampad queen becomes physically or psychologically unhealthy, however, their warded region eventually becomes twisted or unhealthy as well. In that case, restoring the lampad queen swiftly heals the entire region."
 abilities_mid:
@@ -71,9 +71,9 @@ attacks:
 
 spellcasting:
   - name: "Primal Prepared Spells"
-    desc: "DC 38; __Cantrips (8th)__ [[detect magic]], [[electric arc]], [[guidance]], [[prestidigitation]], [[stabilize]]; __1st__ [[ant haul]], [[fleet step]], [[gust of wind]]; __2nd__ [[animal messenger]], [[enlarge]], [[faerie fire]]; __3rd__ [[earthbind]] (2), [[haste]]; __4th__ [[fly]], [[freedom of movement]], [[resist energy]]; __5th__ [[death ward]], [[passwall]], [[wall of stone]]; __6th__ [[flesh to stone]], [[slow]], [[stoneskin]]; __7th__ [[energy aegis]], [[regenerate]], [[volcanic eruption]]; __8th__ [[earthquake]], [[summon plant or fungus]];"
+    desc: "DC 38; __Cantrips (8th)__ [[detect-magic|detect magic]], [[electric-arc|electric arc]], [[guidance]], [[prestidigitation]], [[stabilize]]; __1st__ [[ant-haul|ant haul]], [[fleet-step|fleet step]], [[gust-of-wind|gust of wind]]; __2nd__ [[animal-messenger|animal messenger]], [[enlarge]], [[faerie-fire|faerie fire]]; __3rd__ [[earthbind]] (2), [[haste]]; __4th__ [[fly]], [[freedom-of-movement|freedom of movement]], [[resist-energy|resist energy]]; __5th__ [[death-ward|death ward]], [[passwall]], [[wall-of-stone|wall of stone]]; __6th__ [[flesh-to-stone|flesh to stone]], [[slow]], [[stoneskin]]; __7th__ [[energy-aegis|energy aegis]], [[regenerate]], [[volcanic-eruption|volcanic eruption]]; __8th__ [[earthquake]], [[summon-plant-or-fungus|summon plant or fungus]];"
   - name: "Primal Innate Spells"
-    desc: "DC 38; __Cantrips (8th)__ [[dancing lights]]; __2nd__ [[faerie fire]]; __3rd__ [[meld into stone]] (at will); __4th__ [[shape stone]]; __7th__ [[heal]]; __8th__ [[pummeling rubble]]; __Constant__ __(6th)__ [[stone tell]];"
+    desc: "DC 38; __Cantrips (8th)__ [[dancing-lights|dancing lights]]; __2nd__ [[faerie-fire|faerie fire]]; __3rd__ [[meld-into-stone|meld into stone]] (at will); __4th__ [[shape-stone|shape stone]]; __7th__ [[heal]]; __8th__ [[pummeling-rubble|pummeling rubble]]; __Constant__ __(6th)__ [[stone-tell|stone tell]];"
 sourcebook: "_Bestiary 3_, page 189."
 ```
 

@@ -61,7 +61,7 @@ attacks:
 
 spellcasting:
   - name: "Innate Divine Spells"
-    desc: "DC 23; __Cantrips (3rd)__ [[ghost sound]]; __2nd__ [[tree shape]]; __5th__ [[tree stride]]; __Constant__ __(4th)__ [[speak with plants]];"
+    desc: "DC 23; __Cantrips (3rd)__ [[ghost-sound|ghost sound]]; __2nd__ [[tree-shape|tree shape]]; __5th__ [[tree-stride|tree stride]]; __Constant__ __(4th)__ [[speak-with-plants|speak with plants]];"
 sourcebook: "_Bestiary 3_, page 143."
 ```
 

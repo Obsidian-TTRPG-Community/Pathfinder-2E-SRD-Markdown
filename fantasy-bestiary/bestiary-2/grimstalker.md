@@ -37,7 +37,7 @@ abilities_bot:
   - name: "Grimstalker Sap"
     desc: " ([[poison]]);  __Saving Throw__ DC 22 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d6 (1d6) poison damage (1 round) __Stage 2__ 1d6 (1d6) poison damage and [[rules/conditions.md#Clumsy|clumsy 1]]  (1 round) __Stage 3__ 2d6 (2d6) poison damage and [[rules/conditions.md#Clumsy|clumsy 2]] (1 round)"
   - name: "Woodland Stride"
-    desc: "  A grimstalker can always find a path, almost as if foliage parts before it. A grimstalker ignores [[terrain|difficult terrain]] caused by plants, such as bushes, vines, and undergrowth. Even plants manipulated by magic don't impede its progress."
+    desc: "  A grimstalker can always find a path, almost as if foliage parts before it. A grimstalker ignores [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] caused by plants, such as bushes, vines, and undergrowth. Even plants manipulated by magic don't impede its progress."
 
 speed: 40 feet, climb 20 feet; woodland stride;
 
@@ -57,7 +57,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 22, attack +14; __Cantrips (3rd)__ [[tanglefoot]]; __2nd__ [[entangle]], [[pass without trace]], [[tree shape]]; __3rd__ [[earthbind]], [[wall of thorns]];"
+    desc: "DC 22, attack +14; __Cantrips (3rd)__ [[tanglefoot]]; __2nd__ [[entangle]], [[pass-without-trace|pass without trace]], [[tree-shape|tree shape]]; __3rd__ [[earthbind]], [[wall-of-thorns|wall of thorns]];"
 sourcebook: "_Bestiary 2_, page 137."
 ```
 

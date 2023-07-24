@@ -37,9 +37,9 @@ abilities_mid:
   - name: "Hadalic Presence"
     desc: " ([[divine]], [[illusion]], [[mental]], [[water]]);  Creatures that fail their Will save against the titan's Impossible Stature aura also experience the crushing depths and darkness of the ocean floor. Such creatures see as if in an area of darkness (10th level), and the titan can use their wavesense to detect such creatures as a precise sense, even if neither are in water. On a critical failure, the creature is also [[rules/conditions.md#Immobilized|immobilized]]."
   - name: "Impossible Stature"
-    desc: " ([[aura]], [[divine]], [[illusion]], [[mental]]);  100 feet. Titans warp perception and distance around them to seem even larger and more imposing. A creature that enters or begins its turn within the emanation must succeed at a DC 46 Will save or its movement toward the titan is movement over [[terrain|difficult terrain]] ([[terrain|greater difficult terrain]] on a critical failure) for 1 round."
+    desc: " ([[aura]], [[divine]], [[illusion]], [[mental]]);  100 feet. Titans warp perception and distance around them to seem even larger and more imposing. A creature that enters or begins its turn within the emanation must succeed at a DC 46 Will save or its movement toward the titan is movement over [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] ([[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|greater difficult terrain]] on a critical failure) for 1 round."
   - name: "Relentless"
-    desc: "  The titan is as ever-moving as ocean waves. They're permanently [[rules/conditions.md#Quickened|quickened 1]], and the extra action can only be used to [[Stride]], [[Strike]], or [[Sustain a Spell]], or as one of the actions necessary to Cast [[dispel magic]]."
+    desc: "  The titan is as ever-moving as ocean waves. They're permanently [[rules/conditions.md#Quickened|quickened 1]], and the extra action can only be used to [[Stride]], [[Strike]], or [[Sustain-a-Spell|Sustain a Spell]], or as one of the actions necessary to Cast [[dispel-magic|dispel magic]]."
   - name: "Roiling Rebuke"
     desc: "⬲ __Trigger__ A creature within 200 feet targets the titan with or includes the titan in the area of an attack, spell, or other effect __Effect__  The titan makes a benthic wave [[Strike]] against the triggering creature. If the [[Strike]] hits, the titan disrupts the triggering action."
 abilities_top:
@@ -73,7 +73,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 46, attack +38; __9th__ [[control water]] (at will), [[dispel magic]] (at will), [[eclipse burst]] (3), [[heal]] (3), [[hydraulic push]] (3), [[hydraulic torrent]] (3); __10th__ [[implosion]]; __Constant__ __(10th)__ [[air walk]], [[true]];"
+    desc: "DC 46, attack +38; __9th__ [[control-water|control water]] (at will), [[dispel-magic|dispel magic]] (at will), [[eclipse-burst|eclipse burst]] (3), [[heal]] (3), [[hydraulic-push|hydraulic push]] (3), [[hydraulic-torrent|hydraulic torrent]] (3); __10th__ [[implosion]]; __Constant__ __(10th)__ [[air-walk|air walk]], [[true]];"
 sourcebook: "_Bestiary 3_, page 270."
 ```
 

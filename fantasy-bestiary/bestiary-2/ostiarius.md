@@ -65,7 +65,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 24; __Cantrips (3rd)__ [[shield]]; __2nd__ [[calm emotions]] (at will), [[darkness]], [[silence]]; __3rd__ [[enthrall]], [[wanderer's guide]];"
+    desc: "DC 24; __Cantrips (3rd)__ [[shield]]; __2nd__ [[calm-emotions|calm emotions]] (at will), [[darkness]], [[silence]]; __3rd__ [[enthrall]], [[wanderer's guide]];"
 sourcebook: "_Bestiary 2_, page 281."
 ```
 

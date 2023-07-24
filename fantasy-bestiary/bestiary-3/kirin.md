@@ -64,7 +64,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 25; __Cantrips (4th)__ [[light]]; __1st__ [[detect alignment]] (at will); __3rd__ [[calm emotions]] (at will), [[heal]] (2), [[gust of wind]] (3); __Constant__ __(4th)__ [[air walk]];"
+    desc: "DC 25; __Cantrips (4th)__ [[light]]; __1st__ [[detect-alignment|detect alignment]] (at will); __3rd__ [[calm-emotions|calm emotions]] (at will), [[heal]] (2), [[gust-of-wind|gust of wind]] (3); __Constant__ __(4th)__ [[air-walk|air walk]];"
 sourcebook: "_Bestiary 3_, page 148."
 ```
 

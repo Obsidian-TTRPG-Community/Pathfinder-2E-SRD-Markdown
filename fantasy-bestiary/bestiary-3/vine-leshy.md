@@ -33,7 +33,7 @@ abilityMods: [2, 1, 1, -1, 2, 3]
 
 abilities_mid:
   - name: "Verdant Burst"
-    desc: "  When a vine leshy dies, a burst of primal energy explodes from its body, restoring 1d4 (1d4) Hit Points to each plant creature in a 30-foot emanation. This area fills with tangling vines, becoming [[terrain|difficult terrain]]. If the terrain is not a viable environment for the vines, they wither after 24 hours."
+    desc: "  When a vine leshy dies, a burst of primal energy explodes from its body, restoring 1d4 (1d4) Hit Points to each plant creature in a 30-foot emanation. This area fills with tangling vines, becoming [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]]. If the terrain is not a viable environment for the vines, they wither after 24 hours."
 abilities_top:
   - name: Items
     desc: "spear;"
@@ -63,7 +63,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 15; __4th__ [[speak with plants]];"
+    desc: "DC 15; __4th__ [[speak-with-plants|speak with plants]];"
 sourcebook: "_Bestiary 3_, page 160."
 ```
 

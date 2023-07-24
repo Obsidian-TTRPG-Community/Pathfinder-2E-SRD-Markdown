@@ -59,7 +59,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ pseudopod +18 ([[reach|reach 10 feet]]); __Damage__ 2d8+9 (2d8+9) bludgeoning plus [[Improved Grab]]"
+    desc: "⬻ pseudopod +18 ([[reach|reach 10 feet]]); __Damage__ 2d8+9 (2d8+9) bludgeoning plus [[Improved-Grab|Improved Grab]]"
 
 sourcebook: "_Bestiary 3_, page 247."
 ```

@@ -51,7 +51,7 @@ armorclass:
 hp: 125
 health:
   - name: HP
-    desc: "125; [[negative healing]]; __Immunities__ fire, mental, poison, death effects, disease, paralyzed, unconscious; __Weaknesses__ positive 5, slashing 5;"
+    desc: "125; [[negative-healing-b2|negative healing]]; __Immunities__ fire, mental, poison, death effects, disease, paralyzed, unconscious; __Weaknesses__ positive 5, slashing 5;"
 
 
 attacks:

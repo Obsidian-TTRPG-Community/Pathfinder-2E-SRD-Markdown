@@ -51,7 +51,7 @@ armorclass:
 hp: 120
 health:
   - name: HP
-    desc: "120; [[negative healing]]; __Immunities__ mental, poison, precision, death effects, disease, paralyzed, unconscious; __Weaknesses__ area damage 10, splash damage 10; __Resistances__ bludgeoning 5, cold 10, electricity 10, fire 10, piercing 10, slashing 10"
+    desc: "120; [[negative-healing-b2|negative healing]]; __Immunities__ mental, poison, precision, death effects, disease, paralyzed, unconscious; __Weaknesses__ area damage 10, splash damage 10; __Resistances__ bludgeoning 5, cold 10, electricity 10, fire 10, piercing 10, slashing 10"
 
 
 attacks:

@@ -35,7 +35,7 @@ abilities_bot:
   - name: "Captivating Dance"
     desc: "⬺ ([[enchantment]], [[incapacitation]], [[mental]], [[primal]], [[visual]]);  The baobhan sith sways rhythmically and [[Stride|Strides]] up to their Speed. Each creature within 30 feet of the baobhan sith at the end of their movement must attempt a DC 25 Will save.\n__Critical Success__ The creature is unaffected and is temporarily immune to Captivating Dance for 24 hours.\n__Success__ The creature is [[rules/conditions.md#Slowed|slowed 1]] for 1 round and is temporarily immune to Captivating Dance for 24 hours.\n__Failure__ The creature is [[rules/conditions.md#Fascinated|fascinated]], and it must spend at least 1 of its actions on each of its turns to move closer to the baobhan sith as expediently as possible, while avoiding obvious dangers. If the creature ends its movement or turn adjacent to the fey, it is [[rules/conditions.md#Slowed|slowed 1]] until the end of its next turn.\n__Critical Failure__ As failure, but the creature must spend each of its actions moving closer to the baobhan sith, and if it ends its movement or turn adjacent to the fey, it is [[rules/conditions.md#Paralyzed|paralyzed]] until the end of its next turn."
   - name: "Change Shape"
-    desc: "⬻ ([[concentrate]], [[polymorph]], [[primal]], [[transmutation]]);  The baobhan sith can transform into a large raven, with the effects from the bird option in the [[aerial form]] spell (Core Rulebook 316)."
+    desc: "⬻ ([[concentrate]], [[polymorph]], [[primal]], [[transmutation]]);  The baobhan sith can transform into a large raven, with the effects from the bird option in the [[aerial-form|aerial form]] spell (Core Rulebook 316)."
   - name: "Drink Blood"
     desc: "⬻ __Requirements__ A bleeding creature is within the baobhan sith's reach  __Effect__  The baobhan sith tries to Drink the Blood from the bleeding creature's wounds. The baobhan sith attempts an [[compendium/skills.md#Athletics|Athletics]] check against the victim's Fortitude DC. On a success, the victim becomes [[rules/conditions.md#Drained|drained 1]] and the baobhan sith regains 10 HP, gaining any Hit Points in excess of their maximum Hit Points as temporary Hit Points. Drinking Blood from a victim that's already [[rules/conditions.md#Drained|drained]] doesn't restore any Hit Points to the baobhan sith but increases the victim's [[rules/conditions.md#Drained|drained]] value by 1. A victim's [[rules/conditions.md#Drained|drained]] condition decreases by 1 per week. A blood transfusion, which requires 10 minutes, a successful DC 20 [[compendium/skills.md#Medicine|Medicine]] check, and sufficient blood or a blood donor, reduces the [[rules/conditions.md#Drained|drained]] value by 1."
 
@@ -57,7 +57,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 24; __3rd__ [[mind reading]] (at will);"
+    desc: "DC 24; __3rd__ [[mind-reading|mind reading]] (at will);"
 sourcebook: "_Bestiary 2_, page 33."
 ```
 

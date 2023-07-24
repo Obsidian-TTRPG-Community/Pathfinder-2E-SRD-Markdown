@@ -69,7 +69,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 49, attack +43; __Cantrips (9th)__ [[telekinetic projectile]]; __2nd__ [[telekinetic maneuver]] (at will); __3rd__ [[earthbind]] (at will); __5th__ [[Abyssal plague]] (at will); __6th__ [[tangling creepers]] (at will); __9th__ [[Abyssal wrath]] (at will), [[dispel magic]] (at will); __10th__ [[horrid wilting]], [[time stop]], [[wall of thorns]]; __Constant__ __(4th)__ [[freedom of movement]], __(8th)__ [[true seeing]];"
+    desc: "DC 49, attack +43; __Cantrips (9th)__ [[telekinetic-projectile|telekinetic projectile]]; __2nd__ [[telekinetic-maneuver|telekinetic maneuver]] (at will); __3rd__ [[earthbind]] (at will); __5th__ [[Abyssal-plague|Abyssal plague]] (at will); __6th__ [[tangling-creepers|tangling creepers]] (at will); __9th__ [[Abyssal-wrath|Abyssal wrath]] (at will), [[dispel-magic|dispel magic]] (at will); __10th__ [[horrid-wilting|horrid wilting]], [[time-stop|time stop]], [[wall-of-thorns|wall of thorns]]; __Constant__ __(4th)__ [[freedom-of-movement|freedom of movement]], __(8th)__ [[true-seeing|true seeing]];"
 sourcebook: "_Bestiary_, page 312."
 ```
 

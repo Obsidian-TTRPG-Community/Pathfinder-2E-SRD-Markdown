@@ -64,7 +64,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 26; __2nd__ [[illusory object]], [[illusory disguise]] (at will); __3rd__ [[fear]] (at will); __4th__ [[dimension door]] (at will), [[divine wrath]], [[retributive pain]] Core Rulebook 396; __5th__ [[dimension door]]; __Constant__ __(6th)__ [[true seeing]];"
+    desc: "DC 26; __2nd__ [[illusory-object|illusory object]], [[illusory-disguise|illusory disguise]] (at will); __3rd__ [[fear]] (at will); __4th__ [[dimension-door|dimension door]] (at will), [[divine-wrath|divine wrath]], [[retributive-pain|retributive pain]] Core Rulebook 396; __5th__ [[dimension-door|dimension door]]; __Constant__ __(6th)__ [[true-seeing|true seeing]];"
 sourcebook: "_Bestiary_, page 89."
 ```
 

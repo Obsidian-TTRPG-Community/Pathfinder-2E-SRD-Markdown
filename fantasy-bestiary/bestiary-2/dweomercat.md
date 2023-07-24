@@ -76,7 +76,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 26; __4th__ [[dimension door]] (3), [[dispel magic]] (at will), [[globe of invulnerability]]; __Constant__ __(4th)__ [[detect magic]];"
+    desc: "DC 26; __4th__ [[dimension-door|dimension door]] (3), [[dispel-magic|dispel magic]] (at will), [[globe-of-invulnerability|globe of invulnerability]]; __Constant__ __(4th)__ [[detect-magic|detect magic]];"
 sourcebook: "_Bestiary 2_, page 103."
 ```
 

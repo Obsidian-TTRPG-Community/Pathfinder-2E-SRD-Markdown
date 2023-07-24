@@ -38,7 +38,7 @@ abilities_top:
   - name: "Rat Empathy"
     desc: " ([[divination]], [[primal]]);  The wererat can communicate with rodents."
   - name: Items
-    desc: "[[hand crossbow]] (20 [[bolt|bolts]]), [[leather armor]], [[shortsword]];"
+    desc: "[[hand-crossbow|hand crossbow]] (20 [[bolt|bolts]]), [[leather-armor|leather armor]], [[shortsword]];"
 abilities_mid:
   - name: "Nimble Dodge"
     desc: "⬲ __Trigger__ The wererat is targeted with a melee or ranged attack by an attacker it can see. __Effect__  The wererat gains a +2 circumstance bonus to AC against the triggering attack."

@@ -40,7 +40,7 @@ abilities_mid:
   - name: "Undead Mastery"
     desc: " ([[aura]], [[divine]], [[necromancy]]);  100 feet. Commanded or allied undead in the aura that have a lower level than the mummy pharaoh gain a +1 circumstance bonus to attack rolls, damage rolls, AC, saves, and skill checks."
   - name: "Attack of Opportunity"
-    desc: "⬲  The mummy pharaoh can use [[Attack of Opportunity]] when a creature within its reach uses a concentrate action, in addition to its normal trigger. It can disrupt triggering concentrate actions, and it disrupts actions on any hit, not just a critical hit."
+    desc: "⬲  The mummy pharaoh can use [[Attack-of-Opportunity|Attack of Opportunity]] when a creature within its reach uses a concentrate action, in addition to its normal trigger. It can disrupt triggering concentrate actions, and it disrupts actions on any hit, not just a critical hit."
 abilities_top:
   - name: Items
     desc: "+1 striking longspear;"

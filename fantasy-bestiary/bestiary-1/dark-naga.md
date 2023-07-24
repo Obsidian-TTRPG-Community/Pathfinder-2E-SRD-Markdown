@@ -56,9 +56,9 @@ attacks:
 
 spellcasting:
   - name: "Arcane Spontaneous Spells"
-    desc: "DC 26, attack +18; __Cantrips (4th)__ [[daze]], [[detect magic]], [[mage-hand|mage hand]], [[read aura]], [[shield]]; __1st__ (4 slots) [[feather fall]], [[illusory object]], [[longstrider]]; __2nd__ (4 slots) [[illusory creature]], [[invisibility]], [[magic missile]]; __3rd__ (4 slots) [[dispel magic]], [[haste]], [[lightning bolt]]; __4th__ (3 slots) [[blink]], [[wall of fire]];"
+    desc: "DC 26, attack +18; __Cantrips (4th)__ [[daze]], [[detect-magic|detect magic]], [[mage-hand|mage hand]], [[read-aura|read aura]], [[shield]]; __1st__ (4 slots) [[feather-fall|feather fall]], [[illusory-object|illusory object]], [[longstrider]]; __2nd__ (4 slots) [[illusory-creature|illusory creature]], [[invisibility]], [[magic-missile|magic missile]]; __3rd__ (4 slots) [[dispel-magic|dispel magic]], [[haste]], [[lightning-bolt|lightning bolt]]; __4th__ (3 slots) [[blink]], [[wall-of-fire|wall of fire]];"
   - name: "Occult Innate Spells"
-    desc: "DC 25; __Constant__ __(3rd)__ [[mind reading]];"
+    desc: "DC 25; __Constant__ __(3rd)__ [[mind-reading|mind reading]];"
 sourcebook: "_Bestiary_, page 242."
 ```
 

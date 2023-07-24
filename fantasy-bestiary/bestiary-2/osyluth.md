@@ -67,7 +67,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 25; __2nd__ [[invisibility]] at will; self only; __4th__ [[dimension door]] (at will), [[dimensional anchor]] (2), [[discern lies]], [[zone of truth]]; __5th__ [[dimension door]], [[phantom pain]];"
+    desc: "DC 25; __2nd__ [[invisibility]] at will; self only; __4th__ [[dimension-door|dimension door]] (at will), [[dimensional-anchor|dimensional anchor]] (2), [[discern-lies|discern lies]], [[zone-of-truth|zone of truth]]; __5th__ [[dimension-door|dimension door]], [[phantom-pain|phantom pain]];"
 sourcebook: "_Bestiary 2_, page 74."
 ```
 

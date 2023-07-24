@@ -33,11 +33,11 @@ abilityMods: [0, 4, 2, 4, 2, 1]
 
 abilities_top:
   - name: "Thievery"
-    desc: "  +9 Str +0, Dex +4, Con +2, Int +4, Wis +2, Cha +1 Items alchemist's tools, [[hand crossbow]] (20 [[bolt|bolts]], studded leather armor."
+    desc: "  +9 Str +0, Dex +4, Con +2, Int +4, Wis +2, Cha +1 Items alchemist's tools, [[hand-crossbow|hand crossbow]] (20 [[bolt|bolts]], studded leather armor."
   - name: "Infused Items"
     desc: "  A ratfolk grenadier carries 2 infused moderate acid flasks, 2 infused moderate alchemist's fires, and 2 infused moderate frost vials. These items last for 24 hours, or until the next time they make their daily preparations."
   - name: Items
-    desc: "alchemist's tools, [[hand crossbow]] (20 [[bolt|bolts]], studded leather armor;"
+    desc: "alchemist's tools, [[hand-crossbow|hand crossbow]] (20 [[bolt|bolts]], studded leather armor;"
 abilities_bot:
   - name: "Cheek Pouches"
     desc: "  A ratfolk grenadier has stretchy cheek pouches that can store up to 1 cubic foot of objects (though no more than 4 light items). The ratfolk can remove or store an item using the [[Interact]] action. As long as the ratfolk has at least one object in its cheek pouches, its speech is noticeably difficult to understand."

@@ -61,7 +61,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 23; __1st__ [[charm]] (at will); __2nd__ [[heal]], [[mirror image]] (at will); __3rd__ [[heroism]]; __4th__ [[suggestion]]; __Constant__ __(5th)__ [[tongues]];"
+    desc: "DC 23; __1st__ [[charm]] (at will); __2nd__ [[heal]], [[mirror-image|mirror image]] (at will); __3rd__ [[heroism]]; __4th__ [[suggestion]]; __Constant__ __(5th)__ [[tongues]];"
 sourcebook: "_Bestiary_, page 31."
 ```
 

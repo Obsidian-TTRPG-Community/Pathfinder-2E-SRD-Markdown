@@ -48,7 +48,7 @@ armorclass:
 hp: 24
 health:
   - name: HP
-    desc: "24; [[negative healing]]; __Immunities__ poison, death effects, disease, paralyzed, sleep;"
+    desc: "24; [[negative-healing-b2|negative healing]]; __Immunities__ poison, death effects, disease, paralyzed, sleep;"
 
 
 attacks:

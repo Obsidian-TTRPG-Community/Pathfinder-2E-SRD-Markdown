@@ -62,7 +62,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 26, attack +18; __2nd__ [[invisibility]]; __3rd__ [[heroism]]; __4th__ [[calm emotions]], [[charm]], [[dimension door]], [[dispel magic]], [[illusory creature]], [[magic aura]] (at will), [[suggestion]] (at will); __Constant__ __(5th)__ [[speak]];"
+    desc: "DC 26, attack +18; __2nd__ [[invisibility]]; __3rd__ [[heroism]]; __4th__ [[calm-emotions|calm emotions]], [[charm]], [[dimension-door|dimension door]], [[dispel-magic|dispel magic]], [[illusory-creature|illusory creature]], [[magic-aura|magic aura]] (at will), [[suggestion]] (at will); __Constant__ __(5th)__ [[speak]];"
 sourcebook: "_Bestiary 3_, page 12."
 ```
 

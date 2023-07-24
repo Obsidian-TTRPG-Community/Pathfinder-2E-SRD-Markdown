@@ -38,7 +38,7 @@ abilities_mid:
     desc: "⬲ "
 abilities_bot:
   - name: "Bloodbird"
-    desc: " ([[curse]], [[occult]]);  A creature hit by a vilderavn's melee attack becomes cursed. It takes 2d6 (2d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed damage]] that's difficult to stanch. The DC to stop the bleeding using [[Administer First Aid]] is 35, and healing the creature to full HP doesn't automatically end the bleeding. Removing the curse ends the bleeding."
+    desc: " ([[curse]], [[occult]]);  A creature hit by a vilderavn's melee attack becomes cursed. It takes 2d6 (2d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed damage]] that's difficult to stanch. The DC to stop the bleeding using [[Administer-First-Aid|Administer First Aid]] is 35, and healing the creature to full HP doesn't automatically end the bleeding. Removing the curse ends the bleeding."
   - name: "Change Shape"
     desc: "⬻ ([[concentrate]], [[occult]], [[polymorph]], [[transmutation; page 304]]);  The vilderavn takes on the appearance of a Small or Medium humanoid, wolf, dire wolf, or hybrid with both raven and wolf parts. The vilderavn can only use their jaws attack when in a form with a wolf's head, and their talon attack in a form with raven qualities. They can instead assume their raven knight form: a Medium humanoid in black full plate carrying a greatsword. They can use their jaws or talon [[Strike|Strikes]] only in a form that has that body part, and their greatsword only in knight form."
   - name: "Souleater"
@@ -66,7 +66,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 37; __5th__ [[crushing despair]] (at will), [[modify memory]], [[outcast's curse]] (at will), [[suggestion]] (at will); __8th__ [[ethereal jaunt]], [[suggestion]]; __Constant__ __(6th)__ [[tongues]], [[true seeing]];"
+    desc: "DC 37; __5th__ [[crushing-despair|crushing despair]] (at will), [[modify-memory|modify memory]], [[outcast's curse]] (at will), [[suggestion]] (at will); __8th__ [[ethereal-jaunt|ethereal jaunt]], [[suggestion]]; __Constant__ __(6th)__ [[tongues]], [[true-seeing|true seeing]];"
 sourcebook: "_Bestiary 3_, page 287."
 ```
 

@@ -61,7 +61,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 26, attack +20; __3rd__ [[fear]] (at will); __4th__ [[acid arrow]] (at will), [[dimension door]]; __5th__ [[cloudkill]];"
+    desc: "DC 26, attack +20; __3rd__ [[fear]] (at will); __4th__ [[acid-arrow|acid arrow]] (at will), [[dimension-door|dimension door]]; __5th__ [[cloudkill]];"
 sourcebook: "_Bestiary 2_, page 214."
 ```
 

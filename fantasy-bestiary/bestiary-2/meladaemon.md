@@ -62,7 +62,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 31; __1st__ [[detect alignment]] good only; at will; __4th__ [[dimension door]] (at will); __5th__ [[dimension door]], [[fear]], [[magic missile]] (at will); __6th__ [[phantom pain]];"
+    desc: "DC 31; __1st__ [[detect-alignment|detect alignment]] good only; at will; __4th__ [[dimension-door|dimension door]] (at will); __5th__ [[dimension-door|dimension door]], [[fear]], [[magic-missile|magic missile]] (at will); __6th__ [[phantom-pain|phantom pain]];"
 sourcebook: "_Bestiary 2_, page 59."
 ```
 

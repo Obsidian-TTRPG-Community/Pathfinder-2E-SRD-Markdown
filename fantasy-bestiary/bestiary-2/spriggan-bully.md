@@ -64,7 +64,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 20; __Cantrips (2nd)__ [[dancing lights]]; __1st__ [[fear]]; __2nd__ [[shatter]];"
+    desc: "DC 20; __Cantrips (2nd)__ [[dancing-lights|dancing lights]]; __1st__ [[fear]]; __2nd__ [[shatter]];"
 sourcebook: "_Bestiary 2_, page 252."
 ```
 

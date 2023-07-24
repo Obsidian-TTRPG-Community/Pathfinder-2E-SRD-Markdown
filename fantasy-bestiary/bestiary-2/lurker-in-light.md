@@ -34,7 +34,7 @@ abilities_bot:
   - name: "Lurker's Glow"
     desc: " ([[evocation]], [[light]], [[primal]]);  A creature that takes damage from a lurker in light's mote of light must attempt a DC 22 Will save.\n__Success__ The creature is unaffected and is temporarily immune to lurker's glow for 24 hours.\n__Failure__ The creature is lined in golden light for 1 minute and can't be [[rules/conditions.md#Concealed|concealed]] during this time. If the creature becomes [[rules/conditions.md#Invisible|invisible]], it is [[rules/conditions.md#Concealed|concealed]] rather than being [[rules/conditions.md#Undetected|undetected]].\n__Critical Failure__ As failure, but the creature sheds bright light in a 20-foot emanation for the duration of the effect. In addition, the creature is [[rules/conditions.md#Dazzled|dazzled]] on its first turn after failing this save."
   - name: "Ritual Gate"
-    desc: "⬻ ([[conjuration]], [[primal]]); __Requirements__ The lurker in light has reduced a living creature to 0 Hit Points on this turn or its previous turn and has a summon fey innate spell available  __Effect__  The lurker in light casts summon fey with only a verbal component, using the act of slaughter to replace the normal material and somatic components for the spell. If the fey creature summoned has the same alignment as the lurker in light, the lurker in light can sustain the [[summon fey]] spell for up to 1 hour instead of 1 minute."
+    desc: "⬻ ([[conjuration]], [[primal]]); __Requirements__ The lurker in light has reduced a living creature to 0 Hit Points on this turn or its previous turn and has a summon fey innate spell available  __Effect__  The lurker in light casts summon fey with only a verbal component, using the act of slaughter to replace the normal material and somatic components for the spell. If the fey creature summoned has the same alignment as the lurker in light, the lurker in light can sustain the [[summon-fey|summon fey]] spell for up to 1 hour instead of 1 minute."
   - name: "Sneak Attack"
     desc: "  A lurker in light's [[Strike|Strikes]] deal an additional 2d6 (2d6) precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
 
@@ -58,7 +58,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 22, attack +14; __Cantrips (3rd)__ [[dancing lights]], [[ghost sound]], [[light]], [[mage-hand|mage hand]]; __3rd__ [[blindness]], [[searing light]], [[summon fey]]; __4th__ [[dimension door]] only when in bright light,and only to an area in bright light, [[summon fey]];"
+    desc: "DC 22, attack +14; __Cantrips (3rd)__ [[dancing-lights|dancing lights]], [[ghost-sound|ghost sound]], [[light]], [[mage-hand|mage hand]]; __3rd__ [[blindness]], [[searing-light|searing light]], [[summon-fey|summon fey]]; __4th__ [[dimension-door|dimension door]] only when in bright light,and only to an area in bright light, [[summon-fey|summon fey]];"
 sourcebook: "_Bestiary 2_, page 169."
 ```
 

@@ -36,7 +36,7 @@ abilityMods: [9, 2, 7, 2, 6, 4]
 
 abilities_mid:
   - name: "Attack of Opportunity"
-    desc: "⬲  The rune giant gains an additional reaction at the beginning of each of its turns that it can only use for an [[Attack of Opportunity]]."
+    desc: "⬲  The rune giant gains an additional reaction at the beginning of each of its turns that it can only use for an [[Attack-of-Opportunity|Attack of Opportunity]]."
   - name: "Catch Rock"
     desc: "⬲ "
 abilities_top:
@@ -80,7 +80,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 35; __4th__ [[charm]] (at will), [[suggestion]] (at will); __5th__ [[sending]]; __6th__ [[dominate]] (3), [[true seeing]]; __8th__ [[charm]], [[suggestion]]; __Constant__ __(4th)__ [[air walk]];"
+    desc: "DC 35; __4th__ [[charm]] (at will), [[suggestion]] (at will); __5th__ [[sending]]; __6th__ [[dominate]] (3), [[true-seeing|true seeing]]; __8th__ [[charm]], [[suggestion]]; __Constant__ __(4th)__ [[air-walk|air walk]];"
 sourcebook: "_Bestiary_, page 175."
 ```
 

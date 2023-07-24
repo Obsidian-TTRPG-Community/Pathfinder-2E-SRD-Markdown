@@ -41,7 +41,7 @@ abilities_top:
     desc: "dagger, shortbow;"
 abilities_bot:
   - name: "Hide and Seek"
-    desc: "  The gathlain ignores [[terrain|difficult terrain]] from non-magical foliage."
+    desc: "  The gathlain ignores [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] from non-magical foliage."
   - name: "Rootbound"
     desc: "⬺ __Requirements__ The gathlain isn't using their wings to fly  __Effect__  The gathlain sprouts woody roots from the tips of their wings that bind an adjacent creature's limbs. The target must succeed at a DC 17 Fortitude save or be [[rules/conditions.md#Grabbed|grabbed]] by the gathlain's wing-tip vines until the start of the gathlain's next turn."
 

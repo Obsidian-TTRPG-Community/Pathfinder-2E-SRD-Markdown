@@ -43,7 +43,7 @@ abilities_bot:
   - name: "Constrict"
     desc: "⬻  1d12+4 (1d12+4) bludgeoning, DC 22."
   - name: "Mimic Form"
-    desc: "⬻ ([[concentrate]], [[[magical tradition]]], [[polymorph]], [[transmutation]]);  As [[Change Shape]], but an azuretzi can assume the specific form of a Medium or smaller creature it [[Seek|Seeks]] with a successful DC 25."
+    desc: "⬻ ([[concentrate]], [[[magical-tradition|magical tradition]]], [[polymorph]], [[transmutation]]);  As [[Change-Shape|Change Shape]], but an azuretzi can assume the specific form of a Medium or smaller creature it [[Seek|Seeks]] with a successful DC 25."
   - name: "Mocking Touch"
     desc: "⬺ ([[abjuration]], [[divine]]);  The azuretzi mocks a creature's magical ability with a touch. The azuretzi must attempt a [[compendium/skills.md#Thievery|Thievery]] check against the target's Will DC.\n__Critical Success__ The azuretzi chooses one spell of up to 3rd level that the target creature has available to cast. The azuretzi gains that spell as a mock divine innate spell, and it can cast that spell once as an innate divine spell using its own DC and spell attack. It must do so before 24 hours pass or the mock spell is lost. The creature touched cannot cast the mock spell until the azuretzi casts it first or the 24 hour period passes, whichever comes first.\n__Success__ As critical success, but the azuretzi has 1 hour to cast the mock spell before it is lost, and the creature touched can cast the spell normally.\n__Failure__ As critical success, but the azuretzi must cast the mock spell before the end of its next turn or it is lost, and the creature touched can cast the spell normally.\n__Critical Failure__ Mocking Touch has no effect."
 
@@ -69,7 +69,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 22; __1st__ [[detect alignment]] (at will) lawful only; __2nd__ [[hideous laughter]]; __3rd__ [[crisis of faith]], [[dispel magic]], [[shatter]]; __4th__ [[dimension door]]; __Constant__ __(4th)__ [[freedom of movement]];"
+    desc: "DC 22; __1st__ [[detect-alignment|detect alignment]] (at will) lawful only; __2nd__ [[hideous-laughter|hideous laughter]]; __3rd__ [[crisis-of-faith|crisis of faith]], [[dispel-magic|dispel magic]], [[shatter]]; __4th__ [[dimension-door|dimension door]]; __Constant__ __(4th)__ [[freedom-of-movement|freedom of movement]];"
 sourcebook: "_Bestiary 2_, page 206."
 ```
 

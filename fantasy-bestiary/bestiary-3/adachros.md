@@ -63,7 +63,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 33; __Cantrips (7th)__ [[daze]], [[detect magic]]; __5th__ [[hallucinatory terrain]] (3); __6th__ [[hallucination]] (2), [[illusory scene]], [[modify memory]], [[zealous conviction]]; __7th__ [[reverse gravity]];"
+    desc: "DC 33; __Cantrips (7th)__ [[daze]], [[detect-magic|detect magic]]; __5th__ [[hallucinatory-terrain|hallucinatory terrain]] (3); __6th__ [[hallucination]] (2), [[illusory-scene|illusory scene]], [[modify-memory|modify memory]], [[zealous-conviction|zealous conviction]]; __7th__ [[reverse-gravity|reverse gravity]];"
 sourcebook: "_Bestiary 3_, page 95."
 ```
 

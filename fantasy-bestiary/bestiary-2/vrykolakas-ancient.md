@@ -80,7 +80,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 33; __3rd__ [[fear]] (3); __7th__ [[vampiric touch]] (3);"
+    desc: "DC 33; __3rd__ [[fear]] (3); __7th__ [[vampiric-touch|vampiric touch]] (3);"
 sourcebook: "_Bestiary 2_, page 277."
 ```
 

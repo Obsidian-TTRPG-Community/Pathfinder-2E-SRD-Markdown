@@ -33,7 +33,7 @@ abilityMods: [-1, 2, 2, -2, 2, 1]
 
 abilities_mid:
   - name: "Verdant Burst"
-    desc: " ([[healing]]);  When a leaf leshy dies, a burst of primal energy explodes from its body, restoring 1d4 (1d4) Hit Points to each plant creature in a 30-foot emanation. This area is filled with tree saplings, becoming [[terrain|difficult terrain]]. If the terrain is not a viable environment for these trees, they wither after 24 hours."
+    desc: " ([[healing]]);  When a leaf leshy dies, a burst of primal energy explodes from its body, restoring 1d4 (1d4) Hit Points to each plant creature in a 30-foot emanation. This area is filled with tree saplings, becoming [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]]. If the terrain is not a viable environment for these trees, they wither after 24 hours."
 abilities_top:
   - name: Items
     desc: "longspear;"
@@ -65,7 +65,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 14; __4th__ [[speak with plants]];"
+    desc: "DC 14; __4th__ [[speak-with-plants|speak with plants]];"
 sourcebook: "_Bestiary_, page 218."
 ```
 

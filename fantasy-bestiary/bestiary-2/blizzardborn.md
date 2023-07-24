@@ -56,7 +56,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ ice claw +17 ([[versatile bludgeoning]]); __Damage__ 2d6+8 (2d6+8) slashing plus 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent cold]]"
+    desc: "⬻ ice claw +17 ([[versatile-bludgeoning|versatile bludgeoning]]); __Damage__ 2d6+8 (2d6+8) slashing plus 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent cold]]"
 
 sourcebook: "_Bestiary 2_, page 115."
 ```

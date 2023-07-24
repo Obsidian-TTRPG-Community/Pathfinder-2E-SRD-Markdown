@@ -59,7 +59,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 27; __Cantrips (4th)__ [[daze]], [[detect magic]], [[read aura]]; __2nd__ [[gentle repose]], [[invisibility]] (at will) self only, [[paranoia]] (at will); __3rd__ [[soothe]] (3); __4th__ [[confusion]], [[globe of invulnerability]];"
+    desc: "DC 27; __Cantrips (4th)__ [[daze]], [[detect-magic|detect magic]], [[read-aura|read aura]]; __2nd__ [[gentle-repose|gentle repose]], [[invisibility]] (at will) self only, [[paranoia]] (at will); __3rd__ [[soothe]] (3); __4th__ [[confusion]], [[globe-of-invulnerability|globe of invulnerability]];"
 sourcebook: "_Bestiary 2_, page 147."
 ```
 

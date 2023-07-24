@@ -59,13 +59,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +38 ([[deadly|deadly 3d12]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 4d12+18 (4d12+18) bludgeoning plus [[Improved Grab]] or Improved Push 20 feet"
+    desc: "⬻ fist +38 ([[deadly|deadly 3d12]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 4d12+18 (4d12+18) bludgeoning plus [[Improved-Grab|Improved Grab]] or Improved Push 20 feet"
   - name: Melee
     desc: "⬻ foot +38 ([[deadly|deadly 3d12]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 4d8+18 (4d8+18) bludgeoning plus Improved Knockdown"
 
 spellcasting:
   - name: "Innate Primal Spells"
-    desc: "DC 37; __Constant__ __(3rd)__ [[haste]], __(8th)__ [[true seeing]];"
+    desc: "DC 37; __Constant__ __(3rd)__ [[haste]], __(8th)__ [[true-seeing|true seeing]];"
 sourcebook: "_Bestiary_, page 199."
 ```
 

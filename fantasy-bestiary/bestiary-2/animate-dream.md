@@ -54,7 +54,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 26; __3rd__ [[fear]]; __4th__ [[confusion]], [[dimension door]] (at will), [[nightmare]], [[phantasmal killer]], [[sleep]];"
+    desc: "DC 26; __3rd__ [[fear]]; __4th__ [[confusion]], [[dimension-door|dimension door]] (at will), [[nightmare]], [[phantasmal-killer|phantasmal killer]], [[sleep]];"
 sourcebook: "_Bestiary 2_, page 18."
 ```
 

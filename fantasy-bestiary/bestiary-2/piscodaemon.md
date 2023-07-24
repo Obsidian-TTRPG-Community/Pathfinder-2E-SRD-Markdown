@@ -65,7 +65,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 29; __1st__ [[detect alignment]] at will; good only, [[detect poison]] (at will); __4th__ [[dimension door]] (at will), [[stinking cloud]] (3); __5th__ [[dimension door]]; __Constant__ __(2nd)__ [[see invisibility]];"
+    desc: "DC 29; __1st__ [[detect-alignment|detect alignment]] at will; good only, [[detect-poison|detect poison]] (at will); __4th__ [[dimension-door|dimension door]] (at will), [[stinking-cloud|stinking cloud]] (3); __5th__ [[dimension-door|dimension door]]; __Constant__ __(2nd)__ [[see-invisibility|see invisibility]];"
 sourcebook: "_Bestiary 2_, page 58."
 ```
 

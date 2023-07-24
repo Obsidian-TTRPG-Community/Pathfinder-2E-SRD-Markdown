@@ -56,7 +56,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 17; __Cantrips (1st)__ [[daze]], [[detect magic]]; __1st__ [[phantom pain]]; __2nd__ [[detect alignment]] (at will) lawful only, [[paranoia]]; __4th__ [[read omens]];"
+    desc: "DC 17; __Cantrips (1st)__ [[daze]], [[detect-magic|detect magic]]; __1st__ [[phantom-pain|phantom pain]]; __2nd__ [[detect-alignment|detect alignment]] (at will) lawful only, [[paranoia]]; __4th__ [[read-omens|read omens]];"
 sourcebook: "_Bestiary 2_, page 212."
 ```
 

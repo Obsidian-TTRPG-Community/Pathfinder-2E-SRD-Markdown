@@ -40,7 +40,7 @@ abilities_bot:
   - name: "Brutal Blows"
     desc: "  On a critical hit with a fist [[Strike]], the target is knocked [[rules/conditions.md#Prone|prone]] by the blow."
   - name: "Forest Stride"
-    desc: "  The sasquatch ignores [[terrain|difficult terrain]] in forests."
+    desc: "  The sasquatch ignores [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] in forests."
   - name: "Pungent"
     desc: "  The sasquatch's odor is quite powerful and can be detected at twice the normal distance by scent."
   - name: "Threatening Visage"

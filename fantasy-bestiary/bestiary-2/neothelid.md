@@ -61,13 +61,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +28 ([[reach|reach 15 feet]]); __Damage__ 3d12+13 (3d12+13) piercing plus [[Improved Grab]]"
+    desc: "⬻ jaws +28 ([[reach|reach 15 feet]]); __Damage__ 3d12+13 (3d12+13) piercing plus [[Improved-Grab|Improved Grab]]"
   - name: Melee
     desc: "⬻ rasping tongue +28 ([[agile]], [[fatal|fatal d10]], [[reach|reach 25 feet]]); __Damage__ 3d8+13 (3d8+13) slashing"
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 38, attack +30; __Cantrips (8th)__ [[daze]], [[detect magic]], [[mage-hand|mage hand]], [[telekinetic projectile]]; __5th__ [[mind probe]] (at will), [[telekinetic haul]] (at will); __6th__ [[scrying]] (3), [[suggestion]] (at will); __7th__ [[phantasmal calamity]], [[teleport]]; __8th__ [[charm]], [[suggestion]], [[summon entity]];"
+    desc: "DC 38, attack +30; __Cantrips (8th)__ [[daze]], [[detect-magic|detect magic]], [[mage-hand|mage hand]], [[telekinetic-projectile|telekinetic projectile]]; __5th__ [[mind-probe|mind probe]] (at will), [[telekinetic-haul|telekinetic haul]] (at will); __6th__ [[scrying]] (3), [[suggestion]] (at will); __7th__ [[phantasmal-calamity|phantasmal calamity]], [[teleport]]; __8th__ [[charm]], [[suggestion]], [[summon-entity|summon entity]];"
 sourcebook: "_Bestiary 2_, page 181."
 ```
 

@@ -63,7 +63,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 39; __Cantrips (8th)__ [[light]]; __6th__ [[restoration]] (3); __7th__ [[dispel magic]] (at will); __8th__ [[continual flame]] (at will), [[dispel magic]] (3), [[flame strike]], [[heal]] (3), [[remove curse]], [[wall of fire]] (3); __Constant__ __(6th)__ [[see invisibility]], __(8th)__ [[detect magic]];"
+    desc: "DC 39; __Cantrips (8th)__ [[light]]; __6th__ [[restoration]] (3); __7th__ [[dispel-magic|dispel magic]] (at will); __8th__ [[continual-flame|continual flame]] (at will), [[dispel-magic|dispel magic]] (3), [[flame-strike|flame strike]], [[heal]] (3), [[remove-curse|remove curse]], [[wall-of-fire|wall of fire]] (3); __Constant__ __(6th)__ [[see-invisibility|see invisibility]], __(8th)__ [[detect-magic|detect magic]];"
 sourcebook: "_Bestiary_, page 261."
 ```
 

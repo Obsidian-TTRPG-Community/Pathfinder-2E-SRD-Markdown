@@ -58,7 +58,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 29; __4th__ [[hallucinatory terrain]], [[hypnotic pattern]]; __8th__ [[maze]] once per week;"
+    desc: "DC 29; __4th__ [[hallucinatory-terrain|hallucinatory terrain]], [[hypnotic-pattern|hypnotic pattern]]; __8th__ [[maze]] once per week;"
 sourcebook: "_Bestiary 3_, page 267."
 ```
 

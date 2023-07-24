@@ -58,7 +58,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 35, attack +27; __Cantrips (7th)__ [[detect magic]]; __5th__ [[black tentacles]] (2), [[cloudkill]] (2); __6th__ [[chain lightning]], [[disintegrate]], [[glyph of warding]] (at will), [[wall of force]]; __7th__ [[prismatic spray]] (2); __Constant__ __(6th)__ [[true seeing]];"
+    desc: "DC 35, attack +27; __Cantrips (7th)__ [[detect-magic|detect magic]]; __5th__ [[black-tentacles|black tentacles]] (2), [[cloudkill]] (2); __6th__ [[chain-lightning|chain lightning]], [[disintegrate]], [[glyph-of-warding|glyph of warding]] (at will), [[wall-of-force|wall of force]]; __7th__ [[prismatic-spray|prismatic spray]] (2); __Constant__ __(6th)__ [[true-seeing|true seeing]];"
 sourcebook: "_Bestiary 3_, page 163."
 ```
 

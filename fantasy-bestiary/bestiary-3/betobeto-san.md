@@ -44,7 +44,7 @@ abilities_mid:
   - name: "Shadow Invisibility"
     desc: "  The betobeto-san is [[rules/conditions.md#Invisible|invisible]] unless within an area of bright light."
   - name: "Shadow Step"
-    desc: "⬲ ([[conjuration]], [[occult]], [[shadow]], [[teleportation]]); __Requirements__ The betobeto-san isn't already within an area of bright light __Trigger__ A bright light source reveals the betobeto-san __Effect__  The betobeto-san Steps briefly into the [[Shadow Plane]] and then back again, appearing up to 30 feet away from where they began."
+    desc: "⬲ ([[conjuration]], [[occult]], [[shadow]], [[teleportation]]); __Requirements__ The betobeto-san isn't already within an area of bright light __Trigger__ A bright light source reveals the betobeto-san __Effect__  The betobeto-san Steps briefly into the [[Shadow-Plane|Shadow Plane]] and then back again, appearing up to 30 feet away from where they began."
 abilities_bot:
   - name: "Stepping Decoy"
     desc: "⬻ ([[auditory]], [[illusion]], [[occult]]);  The betobeto-san [[Step|Steps]]. They then create two illusory decoys of sound within 15 feet of them that mimic the sounds of their ominous footsteps. These decoys act independently on the betobeto-san's initiative with 2 actions apiece. They can only [[Sneak]] or [[Stride]], and they have a."

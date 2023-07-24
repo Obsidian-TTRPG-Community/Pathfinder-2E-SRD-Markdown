@@ -68,7 +68,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 33; __1st__ [[grease]] (at will); __4th__ [[hideous laughter]] (at will), [[shape stone]];"
+    desc: "DC 33; __1st__ [[grease]] (at will); __4th__ [[hideous-laughter|hideous laughter]] (at will), [[shape-stone|shape stone]];"
 sourcebook: "_Bestiary_, page 122."
 ```
 

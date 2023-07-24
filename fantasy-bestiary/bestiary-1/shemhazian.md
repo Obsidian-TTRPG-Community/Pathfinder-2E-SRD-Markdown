@@ -64,13 +64,13 @@ attacks:
   - name: Melee
     desc: "⬻ claw (agile, evil, magical, reach <20 feet>) +33 __Damage__ 3d8+17 (3d8+17) slashing plus 1d6 (1d6) evil"
   - name: Melee
-    desc: "⬻ pincer (evil, magical, reach <20 feet>) +33 __Damage__ 3d8+17 (3d8+17) bludgeoning plus 1d6 (1d6) evil and [[Improved Grab]]"
+    desc: "⬻ pincer (evil, magical, reach <20 feet>) +33 __Damage__ 3d8+17 (3d8+17) bludgeoning plus 1d6 (1d6) evil and [[Improved-Grab|Improved Grab]]"
   - name: Melee
     desc: "⬻ tail (evil, magical, reach <30 feet>) +33 __Damage__ 3d6+17 (3d6+17) slashing plus 1d6 (1d6) evil"
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 37; __2nd__ [[invisibility]] (at will); __4th__ [[clairvoyance]] (3), [[dimension door]] (at will); __5th__ [[dimension door]], [[prying eye]] (3); __8th__ [[divine decree]] evil only; __Constant__ __(7th)__ [[fly]], [[true seeing]];"
+    desc: "DC 37; __2nd__ [[invisibility]] (at will); __4th__ [[clairvoyance]] (3), [[dimension-door|dimension door]] (at will); __5th__ [[dimension-door|dimension door]], [[prying-eye|prying eye]] (3); __8th__ [[divine-decree|divine decree]] evil only; __Constant__ __(7th)__ [[fly]], [[true-seeing|true seeing]];"
 sourcebook: "_Bestiary_, page 80."
 ```
 

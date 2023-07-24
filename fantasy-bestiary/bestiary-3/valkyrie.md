@@ -67,7 +67,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 29; __3rd__ [[augury]], [[sanctified ground]], [[status]], [[wanderer's guide]]; __6th__ [[disrupting weapons]], [[heal]], [[heroism]]; __7th__ [[plane shift]] self and mount only; __Constant__ ;"
+    desc: "DC 29; __3rd__ [[augury]], [[sanctified-ground|sanctified ground]], [[status]], [[wanderer's guide]]; __6th__ [[disrupting-weapons|disrupting weapons]], [[heal]], [[heroism]]; __7th__ [[plane-shift|plane shift]] self and mount only; __Constant__ ;"
 sourcebook: "_Bestiary 3_, page 281."
 ```
 

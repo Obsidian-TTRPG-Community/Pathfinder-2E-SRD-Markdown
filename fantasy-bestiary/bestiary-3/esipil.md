@@ -38,7 +38,7 @@ abilities_bot:
   - name: "Change Shape"
     desc: "⬻ ([[concentrate]], [[divine]], [[polymorph]], [[transmutation]]);  The esipil transforms into a Tiny cat, dog, or other unassuming domestic animal (page 304). This doesn't affect the esipil's statistics, but it could change the damage type of its [[Strike|Strikes]]."
   - name: "Skip Between"
-    desc: "⬻ ([[conjuration]], [[divine]], [[teleportation]]);  The sahkil moves from the Material Plane to the Ethereal Plane or vice-versa, with the effects of [[ethereal jaunt]] except that the effect has an unlimited duration and can be Dismissed. A summoned sahkil can't use Skip Between."
+    desc: "⬻ ([[conjuration]], [[divine]], [[teleportation]]);  The sahkil moves from the Material Plane to the Ethereal Plane or vice-versa, with the effects of [[ethereal-jaunt|ethereal jaunt]] except that the effect has an unlimited duration and can be Dismissed. A summoned sahkil can't use Skip Between."
 
 speed: 30 feet
 
@@ -60,7 +60,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 15; __Cantrips (1st)__ [[mage-hand|mage hand]]; __1st__ [[fear]] (at will); __2nd__ [[mirror image]]; __3rd__ [[fear]];"
+    desc: "DC 15; __Cantrips (1st)__ [[mage-hand|mage hand]]; __1st__ [[fear]] (at will); __2nd__ [[mirror-image|mirror image]]; __3rd__ [[fear]];"
 sourcebook: "_Bestiary 3_, page 218."
 ```
 

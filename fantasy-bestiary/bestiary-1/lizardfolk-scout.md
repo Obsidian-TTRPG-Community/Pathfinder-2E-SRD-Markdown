@@ -41,7 +41,7 @@ abilities_bot:
   - name: "Sneak Attack"
     desc: "  The lizardfolk scout deals an extra 1d6 (1d6) precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
   - name: "Terrain Advantage"
-    desc: "  Non-lizardfolk creatures in [[terrain|difficult terrain]] and non-lizardfolk creatures that are in water and lack a swim Speed are [[rules/conditions.md#Flat-Footed|flat-footed]] to the lizardfolk defender."
+    desc: "  Non-lizardfolk creatures in [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] and non-lizardfolk creatures that are in water and lack a swim Speed are [[rules/conditions.md#Flat-Footed|flat-footed]] to the lizardfolk defender."
 abilities_top:
   - name: Items
     desc: "blowgun (10 darts, 1 of which is coated with giant centipede venom);"

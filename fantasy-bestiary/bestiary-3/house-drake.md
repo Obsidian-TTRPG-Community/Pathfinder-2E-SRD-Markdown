@@ -57,7 +57,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 17; __1st__ [[alarm]], [[soothe]]; __2nd__ [[obscuring mist]], [[see invisibility]];"
+    desc: "DC 17; __1st__ [[alarm]], [[soothe]]; __2nd__ [[obscuring-mist|obscuring mist]], [[see-invisibility|see invisibility]];"
 sourcebook: "_Bestiary 3_, page 135."
 ```
 

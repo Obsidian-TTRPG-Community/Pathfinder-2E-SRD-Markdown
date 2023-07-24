@@ -61,7 +61,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 25; __1st__ [[illusory disguise]] (at will), [[illusory object]] (at will), [[ventriloquism]] (at will); __2nd__ [[humanoid form]] (at will), [[mirror image]]; __3rd__ [[sleep]]; __4th__ [[charm]] (3), [[suggestion]];"
+    desc: "DC 25; __1st__ [[illusory-disguise|illusory disguise]] (at will), [[illusory-object|illusory object]] (at will), [[ventriloquism]] (at will); __2nd__ [[humanoid-form|humanoid form]] (at will), [[mirror-image|mirror image]]; __3rd__ [[sleep]]; __4th__ [[charm]] (3), [[suggestion]];"
 sourcebook: "_Bestiary_, page 216."
 ```
 

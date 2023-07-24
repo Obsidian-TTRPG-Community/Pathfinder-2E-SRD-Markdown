@@ -55,7 +55,7 @@ armorclass:
 hp: 255
 health:
   - name: HP
-    desc: "255; [[negative healing]]; __Immunities__ death effects;"
+    desc: "255; [[negative-healing-b2|negative healing]]; __Immunities__ death effects;"
 
 
 attacks:
@@ -68,7 +68,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 32; __5th__ [[bind undead]] (3), [[harm]] (3);"
+    desc: "DC 32; __5th__ [[bind-undead|bind undead]] (3), [[harm]] (3);"
 sourcebook: "_Bestiary 3_, page 110."
 ```
 

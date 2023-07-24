@@ -68,7 +68,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 14; __Cantrips (2nd)__ [[dancing lights]]; __2nd__ [[darkness]] (at will), [[faerie fire]] (at will);"
+    desc: "DC 14; __Cantrips (2nd)__ [[dancing-lights|dancing lights]]; __2nd__ [[darkness]] (at will), [[faerie-fire|faerie fire]] (at will);"
 sourcebook: "_Bestiary_, page 136."
 ```
 

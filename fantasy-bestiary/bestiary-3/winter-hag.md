@@ -39,9 +39,9 @@ abilities_top:
     desc: "  Snow doesn't impair a winter hag's vision; she ignores concealment from snowfall."
 abilities_bot:
   - name: "Craft Ice Staff"
-    desc: " ([[cold]], [[downtime]], [[evocation]], [[occult]]);  A winter hag can spend 1 day performing a specific ritual to create a +1 striking staff of black ice. Once per day, she can use the staff to cast [[cone of cold]]. The staff's magic functions only in the hands of the hag who created it; for anyone else, it is a mundane staff. If the hag dies or if the staff remains in another creature's possession for 24 hours, the staff melts into a puddle of foul-smelling water."
+    desc: " ([[cold]], [[downtime]], [[evocation]], [[occult]]);  A winter hag can spend 1 day performing a specific ritual to create a +1 striking staff of black ice. Once per day, she can use the staff to cast [[cone-of-cold|cone of cold]]. The staff's magic functions only in the hands of the hag who created it; for anyone else, it is a mundane staff. If the hag dies or if the staff remains in another creature's possession for 24 hours, the staff melts into a puddle of foul-smelling water."
   - name: "Ice Climb"
-    desc: "  A winter hag can [[Climb]] at the listed Speed, but only on ice. She ignores [[terrain|difficult terrain]] from ice and snow, and she doesn't risk falling when crossing ice."
+    desc: "  A winter hag can [[Climb]] at the listed Speed, but only on ice. She ignores [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] from ice and snow, and she doesn't risk falling when crossing ice."
 
 speed: 25 feet; ice climb 25 feet;
 
@@ -63,7 +63,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 25, attack +17; __Cantrips (4th)__ [[chill-touch|chill touch]], [[ray of frost]]; __3rd__ [[enthrall]], [[paralyze]]; __4th__ [[charm]], [[fly]] (at will), [[ice storm]]; __Constant__ __(4th)__ [[pass without trace]], [[see invisibility]];"
+    desc: "DC 25, attack +17; __Cantrips (4th)__ [[chill-touch|chill touch]], [[ray-of-frost|ray of frost]]; __3rd__ [[enthrall]], [[paralyze]]; __4th__ [[charm]], [[fly]] (at will), [[ice-storm|ice storm]]; __Constant__ __(4th)__ [[pass-without-trace|pass without trace]], [[see-invisibility|see invisibility]];"
 sourcebook: "_Bestiary 3_, page 129."
 ```
 

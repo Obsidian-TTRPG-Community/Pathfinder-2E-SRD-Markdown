@@ -62,7 +62,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 25, attack +17; __Cantrips (4th)__ [[daze]], [[detect magic]], [[read aura]], [[shield]]; __3rd__ [[hypnotic pattern]], [[mind reading]] (3), [[paralyze]]; __4th__ [[charm]], [[vampiric touch]] (2); __7th__ [[plane shift]] self only;"
+    desc: "DC 25, attack +17; __Cantrips (4th)__ [[daze]], [[detect-magic|detect magic]], [[read-aura|read aura]], [[shield]]; __3rd__ [[hypnotic-pattern|hypnotic pattern]], [[mind-reading|mind reading]] (3), [[paralyze]]; __4th__ [[charm]], [[vampiric-touch|vampiric touch]] (2); __7th__ [[plane-shift|plane shift]] self only;"
 sourcebook: "_Bestiary 3_, page 94."
 ```
 

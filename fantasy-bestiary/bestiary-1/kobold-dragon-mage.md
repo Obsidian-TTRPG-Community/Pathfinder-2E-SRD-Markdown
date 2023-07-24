@@ -63,7 +63,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Spontaneous Spells"
-    desc: "DC 20; __Cantrips (1st)__ [[detect magic]], [[electric arc]], [[ghost sound]], [[mage-hand|mage hand]], [[tanglefoot]]; __1st__ (4 slots) [[fear]], [[illusory object]], [[magic missile]];"
+    desc: "DC 20; __Cantrips (1st)__ [[detect-magic|detect magic]], [[electric-arc|electric arc]], [[ghost-sound|ghost sound]], [[mage-hand|mage hand]], [[tanglefoot]]; __1st__ (4 slots) [[fear]], [[illusory-object|illusory object]], [[magic-missile|magic missile]];"
 sourcebook: "_Bestiary_, page 213."
 ```
 

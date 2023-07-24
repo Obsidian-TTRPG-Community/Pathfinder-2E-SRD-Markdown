@@ -61,9 +61,9 @@ attacks:
 
 spellcasting:
   - name: "Divine Spontaneous Spells"
-    desc: "DC 28, attack +20; __1st__ (4 slots) [[bane]], [[command]], [[fear]], [[ventriloquism]]; __2nd__ (4 slots) [[darkness]], [[death knell]], [[resist energy]], [[see invisibility]]; __3rd__ (4 slots) [[bind undead]], [[blindness]], [[chilling darkness]], [[vampiric touch]]; __4th__ (3 slots) [[air walk]], [[harm]], [[read omens]], [[talking corpse]];"
+    desc: "DC 28, attack +20; __1st__ (4 slots) [[bane]], [[command]], [[fear]], [[ventriloquism]]; __2nd__ (4 slots) [[darkness]], [[death-knell|death knell]], [[resist-energy|resist energy]], [[see-invisibility|see invisibility]]; __3rd__ (4 slots) [[bind-undead|bind undead]], [[blindness]], [[chilling-darkness|chilling darkness]], [[vampiric-touch|vampiric touch]]; __4th__ (3 slots) [[air-walk|air walk]], [[harm]], [[read-omens|read omens]], [[talking-corpse|talking corpse]];"
   - name: "Occult Innate Spells"
-    desc: "DC 28; __1st__ [[ventriloquism]] (at will); __2nd__ [[mirror image]] (at will); __3rd__ [[illusory disguise]] (at will); __5th__ [[illusory scene]], [[suggestion]]; __6th__ [[dominate]];"
+    desc: "DC 28; __1st__ [[ventriloquism]] (at will); __2nd__ [[mirror-image|mirror image]] (at will); __3rd__ [[illusory-disguise|illusory disguise]] (at will); __5th__ [[illusory-scene|illusory scene]], [[suggestion]]; __6th__ [[dominate]];"
 sourcebook: "_Bestiary 2_, page 239."
 ```
 

@@ -69,9 +69,9 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 25; __Cantrips (3rd)__ [[dancing lights]]; __3rd__ [[color spray]];"
+    desc: "DC 25; __Cantrips (3rd)__ [[dancing-lights|dancing lights]]; __3rd__ [[color-spray|color spray]];"
   - name: "Primal Prepared Spells"
-    desc: "DC 25, attack +18; __Cantrips (3rd)__ [[acid splash]], [[detect magic]], [[light]], [[prestidigitation]], [[telekinetic projectile]]; __1st__ [[grease]], [[mending]], [[pass without trace]]; __2nd__ [[faerie fire]], [[glitterdust]], [[shatter]]; __3rd__ [[earthbind]], [[meld into stone]];"
+    desc: "DC 25, attack +18; __Cantrips (3rd)__ [[acid-splash|acid splash]], [[detect-magic|detect magic]], [[light]], [[prestidigitation]], [[telekinetic-projectile|telekinetic projectile]]; __1st__ [[grease]], [[mending]], [[pass-without-trace|pass without trace]]; __2nd__ [[faerie-fire|faerie fire]], [[glitterdust]], [[shatter]]; __3rd__ [[earthbind]], [[meld-into-stone|meld into stone]];"
 sourcebook: "_Bestiary 2_, page 91."
 ```
 

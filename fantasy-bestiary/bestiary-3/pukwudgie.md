@@ -65,7 +65,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 25, attack +17; __2nd__ [[invisibility]] (at will) self only; __3rd__ [[wall of thorns]]; __4th__ [[freedom of movement]], [[hallucinatory terrain]];"
+    desc: "DC 25, attack +17; __2nd__ [[invisibility]] (at will) self only; __3rd__ [[wall-of-thorns|wall of thorns]]; __4th__ [[freedom-of-movement|freedom of movement]], [[hallucinatory-terrain|hallucinatory terrain]];"
 sourcebook: "_Bestiary 3_, page 208."
 ```
 

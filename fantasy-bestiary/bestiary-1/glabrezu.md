@@ -68,7 +68,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 34; __Cantrips (7th)__ [[telekinetic projectile]]; __2nd__ [[mirror image]] (at will); __4th__ [[confusion]] (at will), [[dimension door]] (at will); __5th__ [[dimension door]]; __6th__ [[dispel magic]] (at will); __7th__ [[illusory disguise]] (at will), [[reverse gravity]]; __Constant__ __(5th)__ [[tongues]], __(6th)__ [[true seeing]];"
+    desc: "DC 34; __Cantrips (7th)__ [[telekinetic-projectile|telekinetic projectile]]; __2nd__ [[mirror-image|mirror image]] (at will); __4th__ [[confusion]] (at will), [[dimension-door|dimension door]] (at will); __5th__ [[dimension-door|dimension door]]; __6th__ [[dispel-magic|dispel magic]] (at will); __7th__ [[illusory-disguise|illusory disguise]] (at will), [[reverse-gravity|reverse gravity]]; __Constant__ __(5th)__ [[tongues]], __(6th)__ [[true-seeing|true seeing]];"
 sourcebook: "_Bestiary_, page 79."
 ```
 

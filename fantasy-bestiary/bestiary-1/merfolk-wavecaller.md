@@ -59,7 +59,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Prepared Spells"
-    desc: "DC 18, attack +10; __Cantrips (1st)__ [[dancing lights]], [[detect magic]], [[electric arc]], [[ray of frost]], [[stabilize]]; __1st__ [[charm]], [[heal]], [[hydraulic push]];"
+    desc: "DC 18, attack +10; __Cantrips (1st)__ [[dancing-lights|dancing lights]], [[detect-magic|detect magic]], [[electric-arc|electric arc]], [[ray-of-frost|ray of frost]], [[stabilize]]; __1st__ [[charm]], [[heal]], [[hydraulic-push|hydraulic push]];"
 sourcebook: "_Bestiary_, page 235."
 ```
 

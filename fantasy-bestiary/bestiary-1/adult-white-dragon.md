@@ -51,7 +51,7 @@ abilities_bot:
   - name: "Ground Slam"
     desc: "⬻  The dragon slams into the ground. It can do this if it's on the ground or Flying within 10 feet of the ground. Each creature on the ground within 10 feet must succeed at a DC 29 Reflex save or fall [[rules/conditions.md#Prone|prone]] and take 3d6 (3d6) bludgeoning damage. The dragon can then [[Step]]."
   - name: "Ice Climb"
-    desc: "  A white dragon can climb on ice as though it had the listed climb Speed. It ignores [[terrain|difficult terrain]] and [[terrain|greater difficult terrain]] from ice and snow and doesn't risk falling when crossing ice."
+    desc: "  A white dragon can climb on ice as though it had the listed climb Speed. It ignores [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] and [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|greater difficult terrain]] from ice and snow and doesn't risk falling when crossing ice."
   - name: "Shape Ice"
     desc: "⬺ ([[arcane]], [[transmutation]], [[water]]);  The dragon reshapes a cube of ice or snow it touches, up to 10 feet across. Any creature standing atop the ice must succeed at a DC 15 Reflex save or [[compendium/skills.md#Acrobatics|Acrobatics]] check. On a failure, the creature falls [[rules/conditions.md#Prone|prone]] atop the ice; on a critical failure, it falls off the ice entirely and is also [[rules/conditions.md#Prone|prone]]."
 
@@ -77,7 +77,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 27; __1st__ [[gust of wind]] (at will); __2nd__ [[obscuring mist]] (at will);"
+    desc: "DC 27; __1st__ [[gust-of-wind|gust of wind]] (at will); __2nd__ [[obscuring-mist|obscuring mist]] (at will);"
 sourcebook: "_Bestiary_, page 114."
 ```
 

@@ -37,7 +37,7 @@ abilities_mid:
   - name: "Attack of Opportunity"
     desc: "⬲ "
   - name: "Double Opportunity"
-    desc: "  A baomal gains an extra reaction each round that it can use only to make an [[Attack of Opportunity]]. It must use a different head for each one it attempts, and it can't make more than one [[Attack of Opportunity]] for the same triggering action."
+    desc: "  A baomal gains an extra reaction each round that it can use only to make an [[Attack-of-Opportunity|Attack of Opportunity]]. It must use a different head for each one it attempts, and it can't make more than one [[Attack-of-Opportunity|Attack of Opportunity]] for the same triggering action."
   - name: "Psychic Static Aura"
     desc: " ([[aura]], [[divination]], [[mental]], [[occult]]);  120 feet. All creatures, except aberrations, that begin their turn in the area take 5d6 (5d6) mental damage."
   - name: "Two Heads"
@@ -64,7 +64,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +38 ([[reach|reach 20 feet]]); __Damage__ 4d12+18 (4d12+18) piercing plus [[Improved Grab]]"
+    desc: "⬻ jaws +38 ([[reach|reach 20 feet]]); __Damage__ 4d12+18 (4d12+18) piercing plus [[Improved-Grab|Improved Grab]]"
   - name: Ranged
     desc: "⬻ tsunami jet +38 ([[brutal]], [[range|range 500 feet]]); __Damage__ 4d10+18 (4d10+18) bludgeoning plus Push 40 feet"
 

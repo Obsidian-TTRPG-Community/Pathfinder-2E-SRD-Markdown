@@ -45,7 +45,7 @@ abilities_bot:
   - name: "Phalanx Charge"
     desc: "⬺ __Requirements__ The infantry is in a phalanx  __Effect__  The skeletons lower their longspears and charge. The troop [[Stride|Strides]] in a straight line until they're adjacent to an enemy then use Lower Spears!, dealing 3d8+8 (3d8+8) piercing damage. Any creature that fails its save is also knocked [[rules/conditions.md#Prone|prone]]."
   - name: "Troop Movement"
-    desc: "  Whenever the skeleton infantry [[Stride]], they first Form Up as a free action to condense into a 20-foot-by-20-foot area (minus any missing squares), then move up to their Speed. This works just like a Gargantuan creature moving; for instance, if any square of the infantry enter [[terrain|difficult terrain]], the extra movement cost applies to all the guards."
+    desc: "  Whenever the skeleton infantry [[Stride]], they first Form Up as a free action to condense into a 20-foot-by-20-foot area (minus any missing squares), then move up to their Speed. This works just like a Gargantuan creature moving; for instance, if any square of the infantry enter [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]], the extra movement cost applies to all the guards."
 
 speed: 25 feet; troop movement;
 

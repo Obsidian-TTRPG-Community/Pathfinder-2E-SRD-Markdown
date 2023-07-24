@@ -48,7 +48,7 @@ abilities_bot:
   - name: "Draconic Momentum"
     desc: "  The dragon recharges their Breath Weapon whenever they score a critical hit with a [[Strike]]."
   - name: "Woodland Stride"
-    desc: "  The forest dragon ignores [[terrain|difficult terrain]] and [[terrain|greater difficult terrain]] from non-magical foliage."
+    desc: "  The forest dragon ignores [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] and [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|greater difficult terrain]] from non-magical foliage."
 
 speed: 40 feet, fly 100 feet; woodland stride;
 
@@ -72,7 +72,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 29; __Cantrips (2nd)__ [[know direction]]; __2nd__ [[entangle]]; __3rd__ [[fear]] animals,fungi,and plants only; __Constant__ __(1st)__ [[pass without trace]];"
+    desc: "DC 29; __Cantrips (2nd)__ [[know-direction|know direction]]; __2nd__ [[entangle]]; __3rd__ [[fear]] animals,fungi,and plants only; __Constant__ __(1st)__ [[pass-without-trace|pass without trace]];"
 sourcebook: "_Bestiary 3_, page 74."
 ```
 

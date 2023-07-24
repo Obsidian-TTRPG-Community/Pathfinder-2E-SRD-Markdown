@@ -46,7 +46,7 @@ abilities_top:
     desc: "+2 greater striking longspear;"
 abilities_bot:
   - name: "Change Shape"
-    desc: "⬻ ([[concentrate]], [[polymorph]], [[primal]], [[transmutation]]);  The water yai takes on the appearance of an [[storm giant]]. This doesn't change their Speed or [[Strike]] attack and damage. The yai can also turn into a puddle of water, with the effects of gaseous form except they retain their land Speed, double their swim Speed, and can't fly."
+    desc: "⬻ ([[concentrate]], [[polymorph]], [[primal]], [[transmutation]]);  The water yai takes on the appearance of an [[storm-giant|storm giant]]. This doesn't change their Speed or [[Strike]] attack and damage. The yai can also turn into a puddle of water, with the effects of gaseous form except they retain their land Speed, double their swim Speed, and can't fly."
   - name: "Enveloping Kimono"
     desc: "⬻ ([[electricity]], [[manipulate]], [[primal]], [[transmutation]], [[water]]); __Requirements__ The water yai's last action was a successful kimono [[Strike]]  __Effect__  The water yai extends a portion of their kimono to attempt to envelop a creature within 15 feet. The water yai must attempt a [[compendium/skills.md#Performance|Performance]] check against the creature's Reflex DC.\n__Critical Success__ The creature takes 20d6 (20d6) electricity damage and is [[rules/conditions.md#Grabbed|grabbed]] until the end of its next turn.\n__Success__ As critical success, but only 10d6 (10d6) electricity damage.\n__Failure__ The target takes 5d6 (5d6) electricity damage but is not [[rules/conditions.md#Grabbed|grabbed]].\n__Critical Failure__ The target is unaffected."
 
@@ -74,7 +74,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 38; __2nd__ [[invisibility]] (at will) self only; __4th__ [[charm]] (3), [[darkness]]; __5th__ [[control water]] (at will); __8th__ [[hydraulic torrent]]; __9th__ [[chain lightning]], [[horrid wilting]]; __Constant__ __(9th)__ [[water walk]];"
+    desc: "DC 38; __2nd__ [[invisibility]] (at will) self only; __4th__ [[charm]] (3), [[darkness]]; __5th__ [[control-water|control water]] (at will); __8th__ [[hydraulic-torrent|hydraulic torrent]]; __9th__ [[chain-lightning|chain lightning]], [[horrid-wilting|horrid wilting]]; __Constant__ __(9th)__ [[water-walk|water walk]];"
 sourcebook: "_Bestiary 2_, page 191."
 ```
 

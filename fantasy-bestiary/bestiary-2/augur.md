@@ -61,7 +61,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 17; __Cantrips (1st)__ [[mage-hand|mage hand]]; __1st__ [[harm]] (3); __2nd__ [[augury]] (2); __4th__ [[read omens]] once per week;"
+    desc: "DC 17; __Cantrips (1st)__ [[mage-hand|mage hand]]; __1st__ [[harm]] (3); __2nd__ [[augury]] (2); __4th__ [[read-omens|read omens]] once per week;"
 sourcebook: "_Bestiary 2_, page 280."
 ```
 

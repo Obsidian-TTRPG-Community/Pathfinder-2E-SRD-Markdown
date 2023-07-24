@@ -49,7 +49,7 @@ abilities_bot:
   - name: "Draconic Momentum"
     desc: "  When the dragon scores a critical hit with a [[Strike]], it recharges Breath Weapon."
   - name: "Mass Laughter"
-    desc: "⬺ ([[arcane]], [[emotion]], [[enchantment]], [[mental]]); __Frequency__ once per day  __Effect__  The copper dragon tells a fantastic joke. Each creature in a 100-foot emanation must succeed at a DC 39 Will save or suffer the effects of a 9th-level [[hideous laughter]] spell for 1 minute."
+    desc: "⬺ ([[arcane]], [[emotion]], [[enchantment]], [[mental]]); __Frequency__ once per day  __Effect__  The copper dragon tells a fantastic joke. Each creature in a 100-foot emanation must succeed at a DC 39 Will save or suffer the effects of a 9th-level [[hideous-laughter|hideous laughter]] spell for 1 minute."
 
 speed: 50 feet, fly 200 feet; climb stone 50 feet,;
 
@@ -73,7 +73,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 39; __1st__ [[grease]]; __4th__ [[shape stone]] (at will); __5th__ [[hideous laughter]] (at will), [[wall of stone]];"
+    desc: "DC 39; __1st__ [[grease]]; __4th__ [[shape-stone|shape stone]] (at will); __5th__ [[hideous-laughter|hideous laughter]] (at will), [[wall-of-stone|wall of stone]];"
 sourcebook: "_Bestiary_, page 122."
 ```
 

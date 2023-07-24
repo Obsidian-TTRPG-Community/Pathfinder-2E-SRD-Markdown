@@ -61,7 +61,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 38; __5th__ [[dimension door]] (at will); __7th__ [[dimensional lock]], [[prismatic spray]]; __8th__ [[collective transposition]] (3), [[scintillating pattern]]; __9th__ [[teleport]];"
+    desc: "DC 38; __5th__ [[dimension-door|dimension door]] (at will); __7th__ [[dimensional-lock|dimensional lock]], [[prismatic-spray|prismatic spray]]; __8th__ [[collective-transposition|collective transposition]] (3), [[scintillating-pattern|scintillating pattern]]; __9th__ [[teleport]];"
 sourcebook: "_Bestiary 2_, page 220."
 ```
 

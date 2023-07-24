@@ -35,7 +35,7 @@ abilities_mid:
   - name: "Fire Healing"
     desc: "  As long as a crimson worm is in contact with a fire or body of magma at least as large as itself, it gains fast healing 20. When struck by a magical [[fire]] effect from anything other than itself, a crimson worm regains Hit Points equal to half the fire damage the effect would otherwise deal."
   - name: "Inexorable"
-    desc: "  The crimson worm recovers from the [[rules/conditions.md#Paralyzed|paralyzed]], [[rules/conditions.md#Slowed|slowed]], and [[rules/conditions.md#Stunned|stunned]] conditions at the end of its turn. It's also immune to penalties to its Speeds and the [[rules/conditions.md#Immobilized|immobilized]] condition, and it ignores [[terrain|difficult terrain]] and [[terrain|greater difficult terrain]]."
+    desc: "  The crimson worm recovers from the [[rules/conditions.md#Paralyzed|paralyzed]], [[rules/conditions.md#Slowed|slowed]], and [[rules/conditions.md#Stunned|stunned]] conditions at the end of its turn. It's also immune to penalties to its Speeds and the [[rules/conditions.md#Immobilized|immobilized]] condition, and it ignores [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] and [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|greater difficult terrain]]."
   - name: "Shake It Off"
     desc: "⬲ __Frequency__ once per day __Trigger__ The crimson worm would be affected by a condition or adverse effect (such as baleful polymorph). __Effect__  The crimson worm negates the triggering condition or effect. Effects from artifacts, deities, or a similarly powerful source can't be avoided in this way."
 abilities_bot:
@@ -66,7 +66,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +36 ([[deadly|deadly 3d10]], [[fire]], [[reach|reach 20 feet]]); __Damage__ 3d10+18 (3d10+18) piercing plus 2d6 (2d6) fire and [[Improved Grab]]"
+    desc: "⬻ jaws +36 ([[deadly|deadly 3d10]], [[fire]], [[reach|reach 20 feet]]); __Damage__ 3d10+18 (3d10+18) piercing plus 2d6 (2d6) fire and [[Improved-Grab|Improved Grab]]"
   - name: Melee
     desc: "⬻ stinger +36 ([[agile]], [[fire]], [[poison]], [[reach|reach 20 feet]]); __Damage__ 2d12+18 (2d12+18) piercing plus 2d6 (2d6) fire and crimson worm venom"
   - name: Melee

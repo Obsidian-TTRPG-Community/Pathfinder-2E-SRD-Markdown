@@ -41,9 +41,9 @@ abilities_bot:
   - name: "Draconic Frenzy"
     desc: "⬺  The frost drake makes two gangs [[Strike|Strikes]] and one tail [[Strike]] in any order."
   - name: "Freezing Mist Breath"
-    desc: "⬺ ([[arcane]], [[cold]], [[evocation]]);  The frost drake spits a ball of liquid up to 60 feet that explodes into a 20-foot-burst cloud of freezing mist. Those in the burst take 8d6 (8d6) cold damage (DC 25 basic Reflex save). The mist cakes all surfaces in the area with a sheet of slippery ice that turns the area into [[terrain|difficult terrain]] for 2d4 (2d4) rounds. It can't use Freezing Mist Breath again for 1d6 (1d6) rounds."
+    desc: "⬺ ([[arcane]], [[cold]], [[evocation]]);  The frost drake spits a ball of liquid up to 60 feet that explodes into a 20-foot-burst cloud of freezing mist. Those in the burst take 8d6 (8d6) cold damage (DC 25 basic Reflex save). The mist cakes all surfaces in the area with a sheet of slippery ice that turns the area into [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] for 2d4 (2d4) rounds. It can't use Freezing Mist Breath again for 1d6 (1d6) rounds."
   - name: "Ice Climb"
-    desc: "  A frost drake can climb on ice as though it had the listed climb Speed. It ignores [[terrain|difficult terrain]] and [[terrain|greater difficult terrain]] from ice and snow and doesn't risk falling when crossing ice."
+    desc: "  A frost drake can climb on ice as though it had the listed climb Speed. It ignores [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] and [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|greater difficult terrain]] from ice and snow and doesn't risk falling when crossing ice."
   - name: "Speed Surge"
     desc: "⬻ __Frequency__ three times per day  __Effect__  The frost drake [[Stride|Strides]] or [[Fly|Flies]] twice."
 

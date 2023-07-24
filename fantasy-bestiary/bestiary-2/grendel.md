@@ -38,7 +38,7 @@ abilities_mid:
   - name: "Frightful Presence"
     desc: " ([[aura]], [[emotion]], [[fear]], [[mental]]);  60 feet, DC 38."
   - name: "Attack of Opportunity"
-    desc: "⬲  Grendel gains an extra reaction at the start of each of his turns that he can use only to make an [[Attack of Opportunity]] with his claw. He can't use more than one [[Attack of Opportunity]] triggered by the same action."
+    desc: "⬲  Grendel gains an extra reaction at the start of each of his turns that he can use only to make an [[Attack-of-Opportunity|Attack of Opportunity]] with his claw. He can't use more than one [[Attack-of-Opportunity|Attack of Opportunity]] triggered by the same action."
   - name: "Ferocity"
     desc: "⬲ "
   - name: "Unstoppable"
@@ -65,7 +65,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +37 ([[agile]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 4d8+18 (4d8+18) bludgeoning plus [[Improved Grab]]"
+    desc: "⬻ fist +37 ([[agile]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 4d8+18 (4d8+18) bludgeoning plus [[Improved-Grab|Improved Grab]]"
   - name: Melee
     desc: "⬻ jaws +37 ([[magical]], [[reach|reach 10 feet]], [[versatile|versatile b]]); __Damage__ 4d10+18 (4d10+18) piercing"
   - name: Ranged

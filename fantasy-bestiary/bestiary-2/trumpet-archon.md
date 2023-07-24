@@ -39,7 +39,7 @@ abilities_top:
     desc: "+2 striking bastard sword, +1 resilient full plate, virtuoso trumpet;"
 abilities_bot:
   - name: "Archon's Door"
-    desc: "  Once per day, if an archon sees another creature cast [[dimension door]], the archon can use dimension door (heightened to 5th level) within 1 round to attempt to follow that creature to the maximum distance of the archon's dimension door. If the archon's dimension door has enough distance, the archon appears the same distance and direction from the creature as before either creature used dimension door."
+    desc: "  Once per day, if an archon sees another creature cast [[dimension-door|dimension door]], the archon can use dimension door (heightened to 5th level) within 1 round to attempt to follow that creature to the maximum distance of the archon's dimension door. If the archon's dimension door has enough distance, the archon appears the same distance and direction from the creature as before either creature used dimension door."
   - name: "Kind Word"
     desc: "⬻ ([[auditory]], [[divine]], [[emotion]], [[enchantment]], [[linguistic]], [[mental]]);  The trumpet archon offers an ally praise or encouragement. The archon attempts to counteract one [[emotion]] effect on the ally (with a counteract modifier of +24), and the archon and the ally both gain a +1 status bonus to attack rolls and saving throws for 1 round."
   - name: "Trumpet Blast"
@@ -63,7 +63,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 34; __Cantrips (6th)__ [[message]]; __3rd__ [[circle of protection]] (2); __4th__ [[dimension door]] (at will); __5th__ [[banishment]], [[breath of life]]; __6th__ [[heroism]], [[zealous conviction]]; __7th__ [[heal]] (2), [[sound burst]]; __Constant__ __(5th)__ [[tongues]];"
+    desc: "DC 34; __Cantrips (6th)__ [[message]]; __3rd__ [[circle-of-protection|circle of protection]] (2); __4th__ [[dimension-door|dimension door]] (at will); __5th__ [[banishment]], [[breath-of-life|breath of life]]; __6th__ [[heroism]], [[zealous-conviction|zealous conviction]]; __7th__ [[heal]] (2), [[sound-burst|sound burst]]; __Constant__ __(5th)__ [[tongues]];"
 sourcebook: "_Bestiary 2_, page 23."
 ```
 

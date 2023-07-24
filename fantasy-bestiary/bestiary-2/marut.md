@@ -62,7 +62,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 37; __4th__ [[dimension door]] (at will); __5th__ [[command]], [[locate]]; __7th__ [[fear]], [[plane shift]], [[wall of force]]; __8th__ [[chain lightning]], [[dispel magic]], [[earthquake]], [[harm]]; __Constant__ __(8th)__ [[air walk]], [[true seeing]];"
+    desc: "DC 37; __4th__ [[dimension-door|dimension door]] (at will); __5th__ [[command]], [[locate]]; __7th__ [[fear]], [[plane-shift|plane shift]], [[wall-of-force|wall of force]]; __8th__ [[chain-lightning|chain lightning]], [[dispel-magic|dispel magic]], [[earthquake]], [[harm]]; __Constant__ __(8th)__ [[air-walk|air walk]], [[true-seeing|true seeing]];"
 sourcebook: "_Bestiary 2_, page 10."
 ```
 

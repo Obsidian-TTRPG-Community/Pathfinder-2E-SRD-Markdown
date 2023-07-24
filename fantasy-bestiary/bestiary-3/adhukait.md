@@ -37,7 +37,7 @@ abilities_mid:
   - name: "Dual Mind"
     desc: "⬲ __Trigger__ The adhukait fails a saving throw against a [[mental]] effect __Effect__  The adhukait shunts the effect into one of their minds, rendering them temporarily insensible. They change their result to a success, but one of their bodies hangs limply until the end of their next turn. During this time, the adhukait is [[rules/conditions.md#Clumsy|clumsy 2]]; takes a –10-foot circumstance penalty to their Speed; and can't use Dual Mind, Dual Opportunity, or Dance of Destruction."
   - name: "Dual Opportunity"
-    desc: "  The adhukait gains a second reaction each round they can use only to make an [[Attack of Opportunity]]."
+    desc: "  The adhukait gains a second reaction each round they can use only to make an [[Attack-of-Opportunity|Attack of Opportunity]]."
 abilities_top:
   - name: Items
     desc: "kukri (4);"

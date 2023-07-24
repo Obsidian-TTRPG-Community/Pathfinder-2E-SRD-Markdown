@@ -60,7 +60,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 16; __2nd__ [[invisibility]] at will; self only, [[sound burst]]; __4th__ [[read omens]], [[talking corpse]];"
+    desc: "DC 16; __2nd__ [[invisibility]] at will; self only, [[sound-burst|sound burst]]; __4th__ [[read-omens|read omens]], [[talking-corpse|talking corpse]];"
 sourcebook: "_Bestiary_, page 270."
 ```
 

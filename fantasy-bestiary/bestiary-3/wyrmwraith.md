@@ -54,7 +54,7 @@ abilities_bot:
   - name: "Ectoplasmic Form"
     desc: "⬻ ([[divine]], [[necromancy]]);  A wyrmwraith can push through the ectoplasmic veil to temporarily assume a physical form made of ectoplasm. The wyrmwraith loses the [[incorporeal]] trait for 1d4 (1d4) rounds, though they can return to their incorporeal form as a free action before then. Once this ability ends, the wyrmwraith can't use this ability again for 1d4 (1d4) rounds. While in their ectoplasmic form, the wyrmwraith's AC increases to 43 and they gain 100 temporary Hit Points. They lose their immunity to precision damage and all of their resistances. Their melee [[Strike|Strikes]] deal slashing and piercing damage, respectively, instead of negative damage."
   - name: "Phase Lurch"
-    desc: "⬻ ([[divine]], [[move]]); __Requirements__ The wyrmwraith is in their ectoplasmic form  __Effect__  As the [[Stride]] action, but the wyrmwraith can pass through walls or material obstacles as though they were incorporeal. They must begin and end their movement outside of any physical obstacles, and passing through solid material is [[terrain|difficult terrain]]."
+    desc: "⬻ ([[divine]], [[move]]); __Requirements__ The wyrmwraith is in their ectoplasmic form  __Effect__  As the [[Stride]] action, but the wyrmwraith can pass through walls or material obstacles as though they were incorporeal. They must begin and end their movement outside of any physical obstacles, and passing through solid material is [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]]."
 
 speed: 50 feet, fly 80 feet
 
@@ -65,7 +65,7 @@ armorclass:
 hp: 280
 health:
   - name: HP
-    desc: "280; [[negative healing]]; __Immunities__ poison, precision, death effects, disease, paralyzed, unconscious; __Resistances__ all 20 (except force, ghost touch, or positive; double resistance vs. non-magical)"
+    desc: "280; [[negative-healing-b2|negative healing]]; __Immunities__ poison, precision, death effects, disease, paralyzed, unconscious; __Resistances__ all 20 (except force, ghost touch, or positive; double resistance vs. non-magical)"
 
 
 attacks:
@@ -76,7 +76,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 35; __3rd__ [[bind undead]] (at will); __4th__ [[charm]] (3), [[darkness]]; __6th__ [[vampiric exsanguination]]; __7th__ [[divine wrath]] (3), [[finger of death]]; __8th__ [[charm]] undead targets only;"
+    desc: "DC 35; __3rd__ [[bind-undead|bind undead]] (at will); __4th__ [[charm]] (3), [[darkness]]; __6th__ [[vampiric-exsanguination|vampiric exsanguination]]; __7th__ [[divine-wrath|divine wrath]] (3), [[finger-of-death|finger of death]]; __8th__ [[charm]] undead targets only;"
 sourcebook: "_Bestiary 3_, page 296."
 ```
 

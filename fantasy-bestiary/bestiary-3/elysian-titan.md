@@ -34,7 +34,7 @@ abilityMods: [10, 7, 8, 6, 8, 6]
 
 abilities_mid:
   - name: "Impossible Stature"
-    desc: " ([[aura]], [[divine]], [[illusion]], [[mental]]);  100 feet. Titans warp perception and distance around them to seem even larger and more imposing. A creature that enters or begins its turn within the emanation must succeed at a DC 44 Will save or its movement toward the titan is movement over [[terrain|difficult terrain]] ([[terrain|greater difficult terrain]] on a critical failure) for 1 round."
+    desc: " ([[aura]], [[divine]], [[illusion]], [[mental]]);  100 feet. Titans warp perception and distance around them to seem even larger and more imposing. A creature that enters or begins its turn within the emanation must succeed at a DC 44 Will save or its movement toward the titan is movement over [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] ([[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|greater difficult terrain]] on a critical failure) for 1 round."
 abilities_top:
   - name: Items
     desc: "+2 greater resilient breastplate, +3 greater striking greatpick;"
@@ -68,7 +68,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 44; __5th__ [[sending]] (3); __6th__ [[scrying]] (3); __7th__ [[plane shift]] (at will); __8th__ [[dispel magic]] (at will), [[freedom of movement]] (at will); __10th__ [[meteor swarm]], [[revival]]; __Constant__ __(10th)__ [[air walk]], [[true]];"
+    desc: "DC 44; __5th__ [[sending]] (3); __6th__ [[scrying]] (3); __7th__ [[plane-shift|plane shift]] (at will); __8th__ [[dispel-magic|dispel magic]] (at will), [[freedom-of-movement|freedom of movement]] (at will); __10th__ [[meteor-swarm|meteor swarm]], [[revival]]; __Constant__ __(10th)__ [[air-walk|air walk]], [[true]];"
 sourcebook: "_Bestiary 3_, page 268."
 ```
 

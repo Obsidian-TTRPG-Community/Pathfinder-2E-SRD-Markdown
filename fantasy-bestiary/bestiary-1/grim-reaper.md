@@ -73,7 +73,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 47, attack +37; __7th__ [[plane shift]]; __10th__ [[finger of death]] (4); __Constant__ __(2nd)__ [[see invisibility]], __(3rd)__ [[haste]], __(6th)__ [[true seeing]];"
+    desc: "DC 47, attack +37; __7th__ [[plane-shift|plane shift]]; __10th__ [[finger-of-death|finger of death]] (4); __Constant__ __(2nd)__ [[see-invisibility|see invisibility]], __(3rd)__ [[haste]], __(6th)__ [[true-seeing|true seeing]];"
 sourcebook: "_Bestiary_, page 196."
 ```
 

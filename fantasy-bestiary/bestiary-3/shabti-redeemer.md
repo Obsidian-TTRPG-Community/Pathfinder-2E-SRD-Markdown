@@ -69,7 +69,7 @@ spellcasting:
   - name: "Divine Innate Spells"
     desc: "DC 19; __1st__ [[charm]];"
   - name: "Champion Devotion Spells"
-    desc: "DC 19, (2 Focus Points); __2nd__ [[lay on hands]];"
+    desc: "DC 19, (2 Focus Points); __2nd__ [[lay-on-hands|lay on hands]];"
 sourcebook: "_Bestiary 3_, page 229."
 ```
 

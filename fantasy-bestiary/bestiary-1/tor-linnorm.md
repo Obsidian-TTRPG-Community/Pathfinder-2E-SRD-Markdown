@@ -67,11 +67,11 @@ attacks:
   - name: Melee
     desc: "⬻ claw +40 ([[reach|reach 30 feet]], [[agile]], [[magical]]); __Damage__ 4d8+19 (4d8+19) slashing"
   - name: Melee
-    desc: "⬻ tail +40 ([[reach|reach 30 feet]], [[agile]], [[magical]]); __Damage__ 4d6+19 (4d6+19) bludgeoning plus [[Improved Grab]]"
+    desc: "⬻ tail +40 ([[reach|reach 30 feet]], [[agile]], [[magical]]); __Damage__ 4d6+19 (4d6+19) bludgeoning plus [[Improved-Grab|Improved Grab]]"
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 44; __Constant__ __(8th)__ [[true seeing]], __(9th)__ [[freedom of movement]];"
+    desc: "DC 44; __Constant__ __(8th)__ [[true-seeing|true seeing]], __(9th)__ [[freedom-of-movement|freedom of movement]];"
 sourcebook: "_Bestiary_, page 227."
 ```
 

@@ -67,7 +67,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 38; __7th__ [[dispel magic]] (at will); __9th__ [[disjunction]] (2);"
+    desc: "DC 38; __7th__ [[dispel-magic|dispel magic]] (at will); __9th__ [[disjunction]] (2);"
 sourcebook: "_Bestiary 2_, page 163."
 ```
 

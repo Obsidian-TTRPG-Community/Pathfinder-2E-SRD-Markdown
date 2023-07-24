@@ -58,7 +58,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 16; __Cantrips (1st)__ [[prestidigitation]]; __2nd__ [[speak with animals]] (at will);"
+    desc: "DC 16; __Cantrips (1st)__ [[prestidigitation]]; __2nd__ [[speak-with-animals|speak with animals]] (at will);"
 sourcebook: "_Bestiary_, page 193."
 ```
 

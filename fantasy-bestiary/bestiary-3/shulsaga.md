@@ -41,7 +41,7 @@ abilities_mid:
     desc: "⬲ ([[page 306]]); "
 abilities_bot:
   - name: "Astral Recoil"
-    desc: "⬻ ([[occult]]); __Frequency__ once per minute __Trigger__ The shulsaga's last action was a successful melee [[Strike]] against an astral form created by the astral projection ritual or a similar effect __Effect__  The shulsaga attempts to counteract the effect projecting the creature onto the Astral Plane, with the effects of a 5th-level [[dispel magic]] spell (counteract modifier +18)."
+    desc: "⬻ ([[occult]]); __Frequency__ once per minute __Trigger__ The shulsaga's last action was a successful melee [[Strike]] against an astral form created by the astral projection ritual or a similar effect __Effect__  The shulsaga attempts to counteract the effect projecting the creature onto the Astral Plane, with the effects of a 5th-level [[dispel-magic|dispel magic]] spell (counteract modifier +18)."
   - name: "Astral Shock"
     desc: "  An astrally projected creature whose astral form is slain by a shulsaga takes a –2 circumstance penalty to the subsequent Fortitude saving throw to resist the strain."
   - name: "Disk Rider"
@@ -69,7 +69,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 18, attack +10; __Cantrips (2nd)__ [[dancing lights]], [[detect magic]], [[telekinetic projectile]]; __1st__ [[floating disk]] (at will);"
+    desc: "DC 18, attack +10; __Cantrips (2nd)__ [[dancing-lights|dancing lights]], [[detect-magic|detect magic]], [[telekinetic-projectile|telekinetic projectile]]; __1st__ [[floating-disk|floating disk]] (at will);"
 sourcebook: "_Bestiary 3_, page 93."
 ```
 

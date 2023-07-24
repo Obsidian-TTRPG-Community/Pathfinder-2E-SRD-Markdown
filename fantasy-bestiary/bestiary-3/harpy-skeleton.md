@@ -44,7 +44,7 @@ armorclass:
 hp: 60
 health:
   - name: HP
-    desc: "60; [[negative healing]]; __Immunities__ mental, poison, death effects, disease, paralyzed, unconscious; __Resistances__ cold 5, electricity 5, fire 5, piercing 5, slashing 5"
+    desc: "60; [[negative-healing-b2|negative healing]]; __Immunities__ mental, poison, death effects, disease, paralyzed, unconscious; __Resistances__ cold 5, electricity 5, fire 5, piercing 5, slashing 5"
 
 
 attacks:

@@ -56,11 +56,11 @@ attacks:
   - name: Melee
     desc: "⬻ sickle +39 ([[agile]], [[finesse]], [[trip]]); __Damage__ 3d4+16 (3d4+16) slashing plus 4d6 (4d6) cold and 1d6 (1d6) good"
   - name: Melee
-    desc: "⬻ vine +39 ([[reach|reach 20 feet]]); __Damage__ 4d12+16 (4d12+16) bludgeoning plus 1d6 (1d6) good and [[Improved Grab]]"
+    desc: "⬻ vine +39 ([[reach|reach 20 feet]]); __Damage__ 4d12+16 (4d12+16) bludgeoning plus 1d6 (1d6) good and [[Improved-Grab|Improved Grab]]"
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 42, attack +32; __6th__ [[baleful polymorph]] (at will), [[tangling creepers]] (at will); __8th__ [[polar ray]] (at will), [[sunburst]] (at will); __9th__ [[nature's enmity]], [[regenerate]] (3), [[storm of vengeance]], [[tree stride]] (at will); __10th__ [[cataclysm]], [[primal phenomenon]] once per year, [[revival]]; __Constant__ __(9th)__ [[endure elements]], [[speak with animals]], [[speak with plants]], [[tongues]];"
+    desc: "DC 42, attack +32; __6th__ [[baleful-polymorph|baleful polymorph]] (at will), [[tangling-creepers|tangling creepers]] (at will); __8th__ [[polar-ray|polar ray]] (at will), [[sunburst]] (at will); __9th__ [[nature's enmity]], [[regenerate]] (3), [[storm-of-vengeance|storm of vengeance]], [[tree-stride|tree stride]] (at will); __10th__ [[cataclysm]], [[primal-phenomenon|primal phenomenon]] once per year, [[revival]]; __Constant__ __(9th)__ [[endure-elements|endure elements]], [[speak-with-animals|speak with animals]], [[speak-with-plants|speak with plants]], [[tongues]];"
 sourcebook: "_Bestiary 2_, page 31."
 ```
 

@@ -40,7 +40,7 @@ abilities_bot:
   - name: "Constrict"
     desc: "⬻  3d8+6 (3d8+6) bludgeoning, DC 24"
   - name: "Desert Stride"
-    desc: "  A girtablilu ignores natural [[terrain|difficult terrain]] in the desert."
+    desc: "  A girtablilu ignores natural [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] in the desert."
   - name: "Girtablilu Venom"
     desc: " ([[poison]]);  __Saving Throw__ DC 30 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d6 (2d6) poison damage and [[rules/conditions.md#Enfeebled|enfeebled 1]] (1 round) __Stage 2__ 3d6 (3d6) poison damage and [[rules/conditions.md#Enfeebled|enfeebled 1]] (1 round) __Stage 3__ 3d6 (3d6) poison damage and [[rules/conditions.md#Enfeebled|enfeebled 2]] (1 round)"
 
@@ -64,7 +64,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Spontaneous Spells"
-    desc: "DC 33; __Cantrips (6th)__ [[daze]], [[detect magic]], [[forbidding ward]], [[guidance]], [[read aura]]; __1st__ (3 slots) [[create water]], [[purify food and drink]], [[sanctuary]]; __2nd__ (3 slots) [[augury]], [[calm emotions]], [[create food]]; __3rd__ (3 slots) [[dream message]], [[glyph of warding]], [[sanctified ground]]; __4th__ (3 slots) [[freedom of movement]], [[neutralize poison]], [[outcast's curse]]; __5th__ (3 slots) [[divine wrath]], [[harm]], [[remove curse]]; __6th__ (3 slots) [[blade barrier]], [[heal]], [[spirit blast]];"
+    desc: "DC 33; __Cantrips (6th)__ [[daze]], [[detect-magic|detect magic]], [[forbidding-ward|forbidding ward]], [[guidance]], [[read-aura|read aura]]; __1st__ (3 slots) [[create-water|create water]], [[purify-food-and-drink|purify food and drink]], [[sanctuary]]; __2nd__ (3 slots) [[augury]], [[calm-emotions|calm emotions]], [[create-food|create food]]; __3rd__ (3 slots) [[dream-message|dream message]], [[glyph-of-warding|glyph of warding]], [[sanctified-ground|sanctified ground]]; __4th__ (3 slots) [[freedom-of-movement|freedom of movement]], [[neutralize-poison|neutralize poison]], [[outcast's curse]]; __5th__ (3 slots) [[divine-wrath|divine wrath]], [[harm]], [[remove-curse|remove curse]]; __6th__ (3 slots) [[blade-barrier|blade barrier]], [[heal]], [[spirit-blast|spirit blast]];"
 sourcebook: "_Bestiary 3_, page 113."
 ```
 

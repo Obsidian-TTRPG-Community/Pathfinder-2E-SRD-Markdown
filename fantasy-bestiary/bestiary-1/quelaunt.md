@@ -32,7 +32,7 @@ abilityMods: [6, 5, 4, 5, 6, 8]
 
 abilities_bot:
   - name: "Emotional Focus"
-    desc: "  The quelaunt can cast the following cleric domain spells as 8th-level occult innate spells at will without spending Focus Points: [[blind ambition]], [[captivating adoration]], and [[delusional pride]]."
+    desc: "  The quelaunt can cast the following cleric domain spells as 8th-level occult innate spells at will without spending Focus Points: [[blind-ambition|blind ambition]], [[captivating-adoration|captivating adoration]], and [[delusional-pride|delusional pride]]."
   - name: "Emotional Frenzy"
     desc: "⬽  The quelaunt casts up to three spells chosen from its at-will innate spells and its emotional focus spells."
   - name: "Feed on Emotion"
@@ -60,7 +60,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 39; __2nd__ [[hideous laughter]]; __3rd__ [[fear]] (at will); __7th__ [[crushing despair]] (3); __Constant__ __(4th)__ [[air walk]];"
+    desc: "DC 39; __2nd__ [[hideous-laughter|hideous laughter]]; __3rd__ [[fear]] (at will); __7th__ [[crushing-despair|crushing despair]] (3); __Constant__ __(4th)__ [[air-walk|air walk]];"
 sourcebook: "_Bestiary_, page 273."
 ```
 

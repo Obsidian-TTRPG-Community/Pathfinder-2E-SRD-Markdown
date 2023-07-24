@@ -33,13 +33,13 @@ abilityMods: [8, 6, 6, 2, 8, 7]
 
 abilities_top:
   - name: "Skeletal Lore"
-    desc: " ([[divination]], [[divine]]);  A skulltaker taps into the memories of the creatures whose bones make up its body. This gives it the [[compendium/skills.md#Lore|Skeletal Lore]] skill, which it can use to [[Recall Knowledge]] of any kind. In addition, it can speak and understand all the languages known by the creatures whose bones make up its body (typically including Common and the regional language of the skulltakerʼs home region). The skulltaker can use [[compendium/skills.md#Lore|Skeletal Lore]] as the primary skill check for the legend lore ritual (Core Rulebook 413), and it can cast legend lore without secondary casters."
+    desc: " ([[divination]], [[divine]]);  A skulltaker taps into the memories of the creatures whose bones make up its body. This gives it the [[compendium/skills.md#Lore|Skeletal Lore]] skill, which it can use to [[Recall-Knowledge|Recall Knowledge]] of any kind. In addition, it can speak and understand all the languages known by the creatures whose bones make up its body (typically including Common and the regional language of the skulltakerʼs home region). The skulltaker can use [[compendium/skills.md#Lore|Skeletal Lore]] as the primary skill check for the legend lore ritual (Core Rulebook 413), and it can cast legend lore without secondary casters."
 abilities_mid:
   - name: "Shard Storm"
     desc: " ([[air]], [[aura]], [[divine]], [[necromancy]]);  10 feet. A cloud of bone shards surrounds the skulltaker. When a creature moves into the emanation or begins its turn there, shard storm attempts to counteract any death ward effect on the creature (+30 counteract modifier) and then deals 4d6 (4d6) slashing damage and 4d6 (4d6) negative damage to the creature, with a DC 40 basic Reflex save."
 abilities_bot:
   - name: "Bonetaker"
-    desc: " ([[divine]], [[necromancy]]);  Whenever a creature dies within 60 feet of a skulltaker, the skulltaker draws a portion of the creature's bones into its shard storm. The creature must succeed at a DC 40 Will save or rise as a [[skeletal champion]] in 1d4 (1d4) rounds. These skeletal champions are [[rules/conditions.md#Controlled|controlled]] by the skulltaker."
+    desc: " ([[divine]], [[necromancy]]);  Whenever a creature dies within 60 feet of a skulltaker, the skulltaker draws a portion of the creature's bones into its shard storm. The creature must succeed at a DC 40 Will save or rise as a [[skeletal-champion|skeletal champion]] in 1d4 (1d4) rounds. These skeletal champions are [[rules/conditions.md#Controlled|controlled]] by the skulltaker."
   - name: "Energy Drain"
     desc: " ([[divine]], [[necromancy]]);  When a skulltaker hits with a melee [[Strike]], the target must succeed at a DC 40 Fortitude save or become [[rules/conditions.md#Drained|drained 2]] and [[rules/conditions.md#Doomed|doomed 1]]."
   - name: "Splintered Ground"
@@ -67,7 +67,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 40; __8th__ [[finger of death]] (2), [[horrid wilting]] (2), [[punishing winds]] (2); __Constant__ __(6th)__ [[true seeing]];"
+    desc: "DC 40; __8th__ [[finger-of-death|finger of death]] (2), [[horrid-wilting|horrid wilting]] (2), [[punishing-winds|punishing winds]] (2); __Constant__ __(6th)__ [[true-seeing|true seeing]];"
 sourcebook: "_Bestiary_, page 300."
 ```
 

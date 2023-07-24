@@ -65,7 +65,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 32, attack +24; __Cantrips (6th)__ [[detect magic]], [[ghost sound]], [[read aura]], [[telekinetic projectile]]; __2nd__ [[invisibility]] (at will) self only; __6th__ [[charm]], [[clairaudience]], [[clairvoyance]], [[crushing despair]], [[detect alignment]] (at will), [[dispel magic]], [[dream message]], [[fear]], [[illusory scene]], [[mind reading]] (at will), [[mindlink]], [[phantom pain]], [[see invisibility]], [[sending]], [[zone of truth]]; __7th__ [[plane shift]] self only;"
+    desc: "DC 32, attack +24; __Cantrips (6th)__ [[detect-magic|detect magic]], [[ghost-sound|ghost sound]], [[read-aura|read aura]], [[telekinetic-projectile|telekinetic projectile]]; __2nd__ [[invisibility]] (at will) self only; __6th__ [[charm]], [[clairaudience]], [[clairvoyance]], [[crushing-despair|crushing despair]], [[detect-alignment|detect alignment]] (at will), [[dispel-magic|dispel magic]], [[dream-message|dream message]], [[fear]], [[illusory-scene|illusory scene]], [[mind-reading|mind reading]] (at will), [[mindlink]], [[phantom-pain|phantom pain]], [[see-invisibility|see invisibility]], [[sending]], [[zone-of-truth|zone of truth]]; __7th__ [[plane-shift|plane shift]] self only;"
 sourcebook: "_Bestiary 3_, page 57."
 ```
 

@@ -36,7 +36,7 @@ abilities_bot:
   - name: "Blood Nourishment"
     desc: "⬻  The faceless stalker uses its three-pronged tongue to drink the blood of an adjacent [[rules/conditions.md#Restrained|restrained]] or [[rules/conditions.md#Unconscious|unconscious]] creature. The creature gains [[rules/conditions.md#Drained|drained 1]]."
   - name: "Compression"
-    desc: "  When the faceless stalker successfully Squeezes, it moves through the tight space at full speed. Narrow confines are not [[terrain|difficult terrain]] for a faceless stalker."
+    desc: "  When the faceless stalker successfully Squeezes, it moves through the tight space at full speed. Narrow confines are not [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] for a faceless stalker."
   - name: "Revert Form"
     desc: "⭓ __Requirements__ The faceless stalker is in an assumed form.  __Effect__  The faceless stalker resumes its true form. Until the start of its next turn, it gains a +2 status bonus to attack rolls, damage rolls, saving throws, and skill checks."
   - name: "Sneak Attack"

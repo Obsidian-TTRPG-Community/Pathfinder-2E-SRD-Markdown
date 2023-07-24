@@ -35,7 +35,7 @@ abilityMods: [4, 5, 2, 2, 2, 4]
 
 abilities_mid:
   - name: "Whirlwind"
-    desc: " ([[air]], [[arcane]], [[aura]], [[evocation]]);  20 feet. All squares in the djinni's aura are [[terrain|difficult terrain]] for [[Stride|Striding]] and Flying creatures. Creatures with the [[air]] trait are immune."
+    desc: " ([[air]], [[arcane]], [[aura]], [[evocation]]);  20 feet. All squares in the djinni's aura are [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] for [[Stride|Striding]] and Flying creatures. Creatures with the [[air]] trait are immune."
 abilities_top:
   - name: Items
     desc: "scimitar;"
@@ -65,7 +65,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 23; __2nd__ [[enhance victuals]] (at will), [[invisibility]] at will; self only; __3rd__ [[illusory creature]], [[illusory object]]; __4th__ [[creation]], [[gaseous form]]; __7th__ [[plane shift]] at will; to Astral Plane,Elemental Planes,or Material Plane only; __Constant__ __(3rd)__ [[detect magic]];"
+    desc: "DC 23; __2nd__ [[enhance-victuals|enhance victuals]] (at will), [[invisibility]] at will; self only; __3rd__ [[illusory-creature|illusory creature]], [[illusory-object|illusory object]]; __4th__ [[creation]], [[gaseous-form|gaseous form]]; __7th__ [[plane-shift|plane shift]] at will; to Astral Plane,Elemental Planes,or Material Plane only; __Constant__ __(3rd)__ [[detect-magic|detect magic]];"
 sourcebook: "_Bestiary_, page 163."
 ```
 

@@ -48,7 +48,7 @@ abilities_bot:
   - name: "Jaws That Bite"
     desc: "  If the jabberwock makes a jaws attack and rolls a natural 19 on the d20 roll, the attack is a critical hit. This has no effect if the 19 would be a failure."
   - name: "Whiffling"
-    desc: "⬲ ([[aura]]); __Trigger__ The jabberwock Flies or makes a wing [[Strike]]; __Effect__  The jabberwock's wings whiffle, creating severe winds within a 30-foot emanation. These winds move outward from the jabberwock, and they persist until the start of the jabberwock's next turn. During this time, flight of any kind in the emanation requires a successful DC 43 [[compendium/skills.md#Acrobatics|Acrobatics]] check to [[Maneuver in Flight]], and creatures flying toward the jabberwock are moving through greater difficult terrain. Creatures on the ground in the emanation must succeed at a DC 43 [[compendium/skills.md#Athletics|Athletics]] check to approach the jabberwock."
+    desc: "⬲ ([[aura]]); __Trigger__ The jabberwock Flies or makes a wing [[Strike]]; __Effect__  The jabberwock's wings whiffle, creating severe winds within a 30-foot emanation. These winds move outward from the jabberwock, and they persist until the start of the jabberwock's next turn. During this time, flight of any kind in the emanation requires a successful DC 43 [[compendium/skills.md#Acrobatics|Acrobatics]] check to [[Maneuver-in-Flight|Maneuver in Flight]], and creatures flying toward the jabberwock are moving through greater difficult terrain. Creatures on the ground in the emanation must succeed at a DC 43 [[compendium/skills.md#Athletics|Athletics]] check to approach the jabberwock."
 
 speed: 35 feet, fly 60 feet
 
@@ -66,9 +66,9 @@ attacks:
   - name: Melee
     desc: "⬻ jaws +42 ([[deadly|deadly 2d12]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 4d12+19 (4d12+19) piercing"
   - name: Melee
-    desc: "⬻ claw +42 ([[agile]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 4d8+19 (4d8+19) slashing plus [[Improved Grab]]"
+    desc: "⬻ claw +42 ([[agile]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 4d8+19 (4d8+19) slashing plus [[Improved-Grab|Improved Grab]]"
   - name: Melee
-    desc: "⬻ tail +42 ([[magical]], [[reach|reach 15 feet]]); __Damage__ 4d10+19 (4d10+19) bludgeoning plus [[Improved Knockdown]]"
+    desc: "⬻ tail +42 ([[magical]], [[reach|reach 15 feet]]); __Damage__ 4d10+19 (4d10+19) bludgeoning plus [[Improved-Knockdown|Improved Knockdown]]"
   - name: Melee
     desc: "⬻ wing +40 ([[magical]], [[agile]], [[reach|reach 15 feet]]); __Damage__ 4d8+19 (4d8+19) bludgeoning"
   - name: Ranged

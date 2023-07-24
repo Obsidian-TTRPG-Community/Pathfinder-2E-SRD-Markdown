@@ -34,9 +34,9 @@ abilityMods: [10, 4, 9, 8, 6, 8]
 
 abilities_mid:
   - name: "Impossible Stature"
-    desc: " ([[aura]], [[divine]], [[illusion]], [[mental]]);  100 feet. Titans warp perception and distance around them to seem even larger and more imposing. A creature that enters or begins its turn within the emanation must succeed at a DC 45 Will save or its movement toward the titan is movement over [[terrain|difficult terrain]] ([[terrain|greater difficult terrain]] on a critical failure) for 1 round."
+    desc: " ([[aura]], [[divine]], [[illusion]], [[mental]]);  100 feet. Titans warp perception and distance around them to seem even larger and more imposing. A creature that enters or begins its turn within the emanation must succeed at a DC 45 Will save or its movement toward the titan is movement over [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] ([[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|greater difficult terrain]] on a critical failure) for 1 round."
   - name: "Attack of Opportunity"
-    desc: "⬲  The titan can use their [[Attack of Opportunity]] when a creature within their reach uses a concentrate action, in additional to its normal trigger. They disrupt actions on any hit, not just a critical hit— including triggering concentrate actions."
+    desc: "⬲  The titan can use their [[Attack-of-Opportunity|Attack of Opportunity]] when a creature within their reach uses a concentrate action, in additional to its normal trigger. They disrupt actions on any hit, not just a critical hit— including triggering concentrate actions."
 abilities_top:
   - name: Items
     desc: "+2 greater resilient full plate, +3 greater striking halberd;"
@@ -74,7 +74,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 45; __5th__ [[sending]]; __6th__ [[scrying]] (3); __7th__ [[spell turning]]; __8th__ [[dispel magic]] (at will), [[spiritual epidemic]] (at will), [[suggestion]] (at will); __10th__ [[massacre]], [[meteor swarm]]; __Constant__ __(10th)__ [[air walk]], [[true seeing]];"
+    desc: "DC 45; __5th__ [[sending]]; __6th__ [[scrying]] (3); __7th__ [[spell-turning|spell turning]]; __8th__ [[dispel-magic|dispel magic]] (at will), [[spiritual-epidemic|spiritual epidemic]] (at will), [[suggestion]] (at will); __10th__ [[massacre]], [[meteor-swarm|meteor swarm]]; __Constant__ __(10th)__ [[air-walk|air walk]], [[true-seeing|true seeing]];"
 sourcebook: "_Bestiary 3_, page 269."
 ```
 

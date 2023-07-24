@@ -41,7 +41,7 @@ abilities_mid:
     desc: "⬲ "
 abilities_bot:
   - name: "Archon's Door"
-    desc: "  Once per day, if an archon sees another creature cast [[dimension door]], the archon can use dimension door (heightened to 5th level) within 1 round to attempt to follow that creature to the maximum distance of the archon's dimension door. If the archon's dimension door has enough distance, the archon appears the same distance and direction from the creature as before either creature used dimension door."
+    desc: "  Once per day, if an archon sees another creature cast [[dimension-door|dimension door]], the archon can use dimension door (heightened to 5th level) within 1 round to attempt to follow that creature to the maximum distance of the archon's dimension door. If the archon's dimension door has enough distance, the archon appears the same distance and direction from the creature as before either creature used dimension door."
   - name: "Blinding Beams"
     desc: "⭓ __Trigger__ The bastion archon hits a creature with two fist [[Strike|Strikes]] this turn and can use its Holy Beam; __Effect__  The bastion archon fires its Holy Beam at only the creature it hit twice. The creature's save result is one degree of success worse than the result it rolled."
   - name: "Entrench"
@@ -67,7 +67,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 42, attack +34; __4th__ [[dimension door]] (at will); __7th__ [[prismatic spray]], [[true target]] (3), [[vibrant pattern]]; __10th__ [[meteor swarm]], [[polar ray]], [[sunburst]]; __Constant__ __(10th)__ [[air walk]], [[true seeing]], [[tongues]];"
+    desc: "DC 42, attack +34; __4th__ [[dimension-door|dimension door]] (at will); __7th__ [[prismatic-spray|prismatic spray]], [[true-target|true target]] (3), [[vibrant-pattern|vibrant pattern]]; __10th__ [[meteor-swarm|meteor swarm]], [[polar-ray|polar ray]], [[sunburst]]; __Constant__ __(10th)__ [[air-walk|air walk]], [[true-seeing|true seeing]], [[tongues]];"
 sourcebook: "_Bestiary 2_, page 25."
 ```
 

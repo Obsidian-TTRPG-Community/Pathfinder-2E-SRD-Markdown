@@ -60,7 +60,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 24, attack +16; __Cantrips (3rd)__ [[chill-touch|chill touch]], [[detect magic]]; __2nd__ [[darkness]] (at will); __3rd__ [[chilling darkness]] (2), [[grim tendrils]] (3); __4th__ [[darkness]]; __5th__ [[shadow walk]];"
+    desc: "DC 24, attack +16; __Cantrips (3rd)__ [[chill-touch|chill touch]], [[detect-magic|detect magic]]; __2nd__ [[darkness]] (at will); __3rd__ [[chilling-darkness|chilling darkness]] (2), [[grim-tendrils|grim tendrils]] (3); __4th__ [[darkness]]; __5th__ [[shadow-walk|shadow walk]];"
 sourcebook: "_Bestiary 3_, page 41."
 ```
 

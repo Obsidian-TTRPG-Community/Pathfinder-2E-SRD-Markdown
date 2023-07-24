@@ -63,7 +63,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 23, attack +18; __4th__ [[dimension door]] (at will), [[freedom of movement]], [[hydraulic torrent]]; __5th__ [[control water]], [[dimension door]]; __Constant__ __(2nd)__ [[see invisibility]];"
+    desc: "DC 23, attack +18; __4th__ [[dimension-door|dimension door]] (at will), [[freedom-of-movement|freedom of movement]], [[hydraulic-torrent|hydraulic torrent]]; __5th__ [[control-water|control water]], [[dimension-door|dimension door]]; __Constant__ __(2nd)__ [[see-invisibility|see invisibility]];"
 sourcebook: "_Bestiary 2_, page 73."
 ```
 

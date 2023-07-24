@@ -73,7 +73,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 26, attack +18; __Cantrips (4th)__ [[produce flame]]; __4th__ [[burning-hands|burning hands]] (at will);"
+    desc: "DC 26, attack +18; __Cantrips (4th)__ [[produce-flame|produce flame]]; __4th__ [[burning-hands|burning hands]] (at will);"
 sourcebook: "_Bestiary 2_, page 94."
 ```
 

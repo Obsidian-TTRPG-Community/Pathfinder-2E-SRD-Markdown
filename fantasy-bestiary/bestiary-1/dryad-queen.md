@@ -36,7 +36,7 @@ abilityMods: [2, 6, 6, 4, 4, 8]
 
 abilities_top:
   - name: "Nature Empathy"
-    desc: "  The dryad can use [[compendium/skills.md#Diplomacy|Diplomacy]] to [[Make an Impression]] on and make very simple Requests of animals and plants."
+    desc: "  The dryad can use [[compendium/skills.md#Diplomacy|Diplomacy]] to [[Make-an-Impression|Make an Impression]] on and make very simple Requests of animals and plants."
   - name: "Tied to the Land"
     desc: " "
 abilities_mid:
@@ -74,9 +74,9 @@ attacks:
 
 spellcasting:
   - name: "Primal Prepared Spells"
-    desc: "DC 35, attack +25; __Cantrips (7th)__ [[detect magic]], [[guidance]], [[light]], [[ray of frost]], [[stabilize]]; __1st__ [[fleet step]], [[gust of wind]], [[negate aroma]]; __2nd__ [[animal messenger]], [[faerie fire]], [[remove fear]]; __3rd__ [[earthbind]], [[haste]], [[wall of thorns]]; __4th__ [[fly]], [[resist energy]], [[stoneskin]]; __5th__ [[cone of cold]], [[death ward]], [[heal]]; __6th__ [[baleful polymorph]], [[chain lightning]], [[tangling creepers]]; __7th__ [[regenerate]], [[summon plant or fungus]];"
+    desc: "DC 35, attack +25; __Cantrips (7th)__ [[detect-magic|detect magic]], [[guidance]], [[light]], [[ray-of-frost|ray of frost]], [[stabilize]]; __1st__ [[fleet-step|fleet step]], [[gust-of-wind|gust of wind]], [[negate-aroma|negate aroma]]; __2nd__ [[animal-messenger|animal messenger]], [[faerie-fire|faerie fire]], [[remove-fear|remove fear]]; __3rd__ [[earthbind]], [[haste]], [[wall-of-thorns|wall of thorns]]; __4th__ [[fly]], [[resist-energy|resist energy]], [[stoneskin]]; __5th__ [[cone-of-cold|cone of cold]], [[death-ward|death ward]], [[heal]]; __6th__ [[baleful-polymorph|baleful polymorph]], [[chain-lightning|chain lightning]], [[tangling-creepers|tangling creepers]]; __7th__ [[regenerate]], [[summon-plant-or-fungus|summon plant or fungus]];"
   - name: "Primal Innate Spells"
-    desc: "DC 35, attack +25; __Cantrips (5th)__ [[tanglefoot]]; __2nd__ [[shape wood]] (at will), [[tree shape]] (at will); __3rd__ [[entangle]] (at will), [[sleep]] (at will); __4th__ [[charm]] (at will), [[suggestion]] (at will); __5th__ [[tree stride]] (3); __8th__ [[impaling briars]] Core Rulebook 400; __Constant__ __(4th)__ [[speak with plants]];"
+    desc: "DC 35, attack +25; __Cantrips (5th)__ [[tanglefoot]]; __2nd__ [[shape-wood|shape wood]] (at will), [[tree-shape|tree shape]] (at will); __3rd__ [[entangle]] (at will), [[sleep]] (at will); __4th__ [[charm]] (at will), [[suggestion]] (at will); __5th__ [[tree-stride|tree stride]] (3); __8th__ [[impaling-briars|impaling briars]] Core Rulebook 400; __Constant__ __(4th)__ [[speak-with-plants|speak with plants]];"
 sourcebook: "_Bestiary_, page 249."
 ```
 

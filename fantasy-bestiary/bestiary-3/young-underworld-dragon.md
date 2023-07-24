@@ -72,7 +72,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 25; __Cantrips (2nd)__ [[detect magic]]; __2nd__ [[continual flame]];"
+    desc: "DC 25; __Cantrips (2nd)__ [[detect-magic|detect magic]]; __2nd__ [[continual-flame|continual flame]];"
 sourcebook: "_Bestiary 3_, page 83."
 ```
 

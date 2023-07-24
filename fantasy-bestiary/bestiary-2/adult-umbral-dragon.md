@@ -71,7 +71,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 36; __Cantrips (7th)__ [[detect magic]]; __7th__ [[darkness]] (at will), [[shadow walk]], [[vampiric exsanguination]];"
+    desc: "DC 36; __Cantrips (7th)__ [[detect-magic|detect magic]]; __7th__ [[darkness]] (at will), [[shadow-walk|shadow walk]], [[vampiric-exsanguination|vampiric exsanguination]];"
 sourcebook: "_Bestiary 2_, page 96."
 ```
 

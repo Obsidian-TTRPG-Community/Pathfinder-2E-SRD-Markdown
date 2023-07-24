@@ -64,7 +64,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 28, attack +20; __Cantrips (5th)__ [[light]]; __3rd__ [[heal]] (at will); __5th__ [[chromatic wall]], [[searing light]] (3);"
+    desc: "DC 28, attack +20; __Cantrips (5th)__ [[light]]; __3rd__ [[heal]] (at will); __5th__ [[chromatic-wall|chromatic wall]], [[searing-light|searing light]] (3);"
 sourcebook: "_Bestiary 3_, page 114."
 ```
 

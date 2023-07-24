@@ -61,7 +61,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 40; __Constant__ __(9th)__ [[air walk]], [[water walk]];"
+    desc: "DC 40; __Constant__ __(9th)__ [[air-walk|air walk]], [[water-walk|water walk]];"
 sourcebook: "_Bestiary 2_, page 21."
 ```
 

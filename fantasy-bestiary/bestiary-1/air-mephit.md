@@ -53,7 +53,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 17; __1st__ [[gust of wind]]; __2nd__ [[blur]];"
+    desc: "DC 17; __1st__ [[gust-of-wind|gust of wind]]; __2nd__ [[blur]];"
 sourcebook: "_Bestiary_, page 150."
 ```
 

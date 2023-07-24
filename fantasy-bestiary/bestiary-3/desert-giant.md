@@ -39,7 +39,7 @@ abilities_bot:
   - name: "Sand Spin"
     desc: "⬻ __Requirements__ The desert giant is standing in sandy terrain  __Effect__  The desert giant spins around and stirs up loose sand in a 10-foot emanation. Until the beginning of the giant's next turn, creatures in the area are [[rules/conditions.md#Concealed|concealed]], and other creatures are [[rules/conditions.md#Concealed|concealed]] to them."
   - name: "Sandwalking"
-    desc: "  Desert giants have adapted to the loose sands of the desert and can move across them with ease. Desert giants ignore non-magical [[terrain|difficult terrain]] and uneven ground caused by sand."
+    desc: "  Desert giants have adapted to the loose sands of the desert and can move across them with ease. Desert giants ignore non-magical [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] and uneven ground caused by sand."
   - name: "Scimitar Blitz"
     desc: "⬺  The desert giant [[Stride|Strides]] up to their Speed, Striking once with each of their scimitars at any point during the movement."
   - name: "Throw Rock"

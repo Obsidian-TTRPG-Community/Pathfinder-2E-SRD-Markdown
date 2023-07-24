@@ -62,9 +62,9 @@ attacks:
 
 spellcasting:
   - name: "Occult Spontaneous Spells"
-    desc: "DC 31; __Cantrips (5th)__ [[detect magic]], [[ghost sound]], [[mage-hand|mage hand]], [[read aura]], [[sigil]]; __1st__ (4 slots) [[charm]], [[illusory object]], [[item facade]]; __2nd__ (4 slots) [[blur]], [[hideous laughter]], [[invisibility]]; __3rd__ (4 slots) [[clairaudience]], [[dispel magic]], [[nondetection]], [[vampiric touch]]; __4th__ (4 slots) [[clairvoyance]], [[dispel magic]], [[fly]], [[suggestion]]; __5th__ (3 slots) [[dispel magic]], [[hallucination]], [[shadow blast]];"
+    desc: "DC 31; __Cantrips (5th)__ [[detect-magic|detect magic]], [[ghost-sound|ghost sound]], [[mage-hand|mage hand]], [[read-aura|read aura]], [[sigil]]; __1st__ (4 slots) [[charm]], [[illusory-object|illusory object]], [[item-facade|item facade]]; __2nd__ (4 slots) [[blur]], [[hideous-laughter|hideous laughter]], [[invisibility]]; __3rd__ (4 slots) [[clairaudience]], [[dispel-magic|dispel magic]], [[nondetection]], [[vampiric-touch|vampiric touch]]; __4th__ (4 slots) [[clairvoyance]], [[dispel-magic|dispel magic]], [[fly]], [[suggestion]]; __5th__ (3 slots) [[dispel-magic|dispel magic]], [[hallucination]], [[shadow-blast|shadow blast]];"
   - name: "Occult Innate Spells"
-    desc: "DC 31; __3rd__ [[mind reading]] (at will);"
+    desc: "DC 31; __3rd__ [[mind-reading|mind reading]] (at will);"
 sourcebook: "_Bestiary_, page 275."
 ```
 

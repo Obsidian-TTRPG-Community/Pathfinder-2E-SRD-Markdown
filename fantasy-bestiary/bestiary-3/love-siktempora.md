@@ -68,9 +68,9 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 37; __4th__ [[dimension door]] (at will); __8th__ [[blink]]; __Constant__ __(8th)__ [[air walk]];"
+    desc: "DC 37; __4th__ [[dimension-door|dimension door]] (at will); __8th__ [[blink]]; __Constant__ __(8th)__ [[air-walk|air walk]];"
   - name: "Bard Composition Spells"
-    desc: "DC 37, (3 Focus Points); __Cantrips (8th)__ [[inspire courage]], [[inspire defense]]; __8th__ [[lingering composition]];"
+    desc: "DC 37, (3 Focus Points); __Cantrips (8th)__ [[inspire-courage|inspire courage]], [[inspire-defense|inspire defense]]; __8th__ [[lingering-composition|lingering composition]];"
 sourcebook: "_Bestiary 3_, page 234."
 ```
 

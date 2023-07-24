@@ -65,7 +65,7 @@ attacks:
   - name: Melee
     desc: "⬻ jaws +38 ([[negative]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 4d10+18 (4d10+18) piercing plus 4d6 (4d6) negative and drain vigor"
   - name: Melee
-    desc: "⬻ claw +38 ([[agile magical]], [[reach|reach 15 feet]]); __Damage__ 4d10+18 (4d10+18) slashing"
+    desc: "⬻ claw +38 ([[agile-magical|agile magical]], [[reach|reach 15 feet]]); __Damage__ 4d10+18 (4d10+18) slashing"
   - name: Melee
     desc: "⬻ tail +36 ([[magical]], [[reach|reach 25 feet]]); __Damage__ 4d12+18 (4d12+18) slashing"
   - name: Melee
@@ -73,7 +73,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 42; __Cantrips (10th)__ [[detect magic]]; __8th__ [[vampiric exsanguination]] (at will); __9th__ [[darkness]] (at will), [[finger of death]]; __10th__ [[massacre]];"
+    desc: "DC 42; __Cantrips (10th)__ [[detect-magic|detect magic]]; __8th__ [[vampiric-exsanguination|vampiric exsanguination]] (at will); __9th__ [[darkness]] (at will), [[finger-of-death|finger of death]]; __10th__ [[massacre]];"
 sourcebook: "_Bestiary 2_, page 97."
 ```
 

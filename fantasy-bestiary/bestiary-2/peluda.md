@@ -62,7 +62,7 @@ attacks:
   - name: Melee
     desc: "⬻ quill +23 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 2d6 (2d6) piercing plus peluda venom"
   - name: Melee
-    desc: "⬻ tail +23 ([[reach|reach 15 feet]], [[versatile piercing]]); __Damage__ 2d6+13 (2d6+13) bludgeoning plus Improved Knockdown"
+    desc: "⬻ tail +23 ([[reach|reach 15 feet]], [[versatile-piercing|versatile piercing]]); __Damage__ 2d6+13 (2d6+13) bludgeoning plus Improved Knockdown"
 
 sourcebook: "_Bestiary 2_, page 196."
 ```

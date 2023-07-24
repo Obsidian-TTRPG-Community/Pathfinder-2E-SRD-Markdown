@@ -49,7 +49,7 @@ abilities_bot:
   - name: "Punish the Naughty"
     desc: "⬻ ([[concentrate]]);  Krampus designates a single target he can see as \"naughty.\" He gains a +2 circumstance bonus to [[compendium/skills.md#Perception|Perception]] checks when he Seeks the naughty target and a +2 circumstance bonus to [[compendium/skills.md#Survival|Survival]] checks to [[Track]] the naughty target. On melee attacks against the naughty target, Krampus's spiked chain gains the [[agile]] trait. In addition, when Krampus Grabs the naughty target, he can attempt to Capture them as a free action. Krampus can have only one naughty target at a time."
   - name: "Regression"
-    desc: " ([[curse]], [[polymorph]], [[primal]], [[transmutation]]);  A creature that starts their turn Captured in Krampus's basket must attempt a DC 44 Fortitude save or be regressed back to their childhood. The target shrinks one size. In addition, all of the target's proficiencies of expert and better are reduced to trained, which might restrict the use of certain feats. The effect persists for 24 hours, after which the target regains their normal size and their proficiencies return to normal. A creature currently under the effects of regression can't be further affected by this ability. Snowstep Krampus ignores [[terrain|difficult terrain]] and [[terrain|greater difficult terrain]] caused by snow and ice, and he leaves no tracks when moving through areas of snow or ice."
+    desc: " ([[curse]], [[polymorph]], [[primal]], [[transmutation]]);  A creature that starts their turn Captured in Krampus's basket must attempt a DC 44 Fortitude save or be regressed back to their childhood. The target shrinks one size. In addition, all of the target's proficiencies of expert and better are reduced to trained, which might restrict the use of certain feats. The effect persists for 24 hours, after which the target regains their normal size and their proficiencies return to normal. A creature currently under the effects of regression can't be further affected by this ability. Snowstep Krampus ignores [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] and [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|greater difficult terrain]] caused by snow and ice, and he leaves no tracks when moving through areas of snow or ice."
 
 speed: 60 feet; air walk, snowstep;
 
@@ -73,7 +73,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 42, attack +34; __Cantrips (10th)__ [[dancing lights]], [[ray of frost]], [[sigil]], [[tanglefoot]]; __9th__ [[baleful polymorph]] (2), [[cone of cold]] (2), [[wall of ice]]; __Constant__ __(9th)__ [[air walk]], [[see invisibility]], [[tongues]];"
+    desc: "DC 42, attack +34; __Cantrips (10th)__ [[dancing-lights|dancing lights]], [[ray-of-frost|ray of frost]], [[sigil]], [[tanglefoot]]; __9th__ [[baleful-polymorph|baleful polymorph]] (2), [[cone-of-cold|cone of cold]] (2), [[wall-of-ice|wall of ice]]; __Constant__ __(9th)__ [[air-walk|air walk]], [[see-invisibility|see invisibility]], [[tongues]];"
 sourcebook: "_Bestiary 3_, page 154."
 ```
 

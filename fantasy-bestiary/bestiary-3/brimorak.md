@@ -67,7 +67,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 21; __Cantrips (3rd)__ [[produce flame]]; __3rd__ [[dispel magic]], [[fireball]]; __4th__ [[dimension door]];"
+    desc: "DC 21; __Cantrips (3rd)__ [[produce-flame|produce flame]]; __3rd__ [[dispel-magic|dispel magic]], [[fireball]]; __4th__ [[dimension-door|dimension door]];"
 sourcebook: "_Bestiary 3_, page 62."
 ```
 

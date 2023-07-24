@@ -47,7 +47,7 @@ abilities_bot:
   - name: "Rend"
     desc: "⬻ ([[claw]]);  (page 306)"
   - name: "Skip Between"
-    desc: "⬻ ([[conjuration]], [[divine]], [[teleportation]]);  The sahkil moves from the Material Plane to the Ethereal Plane or vice-versa, with the effects of [[ethereal jaunt]] except that the effect has an unlimited duration and can be Dismissed. A summoned sahkil can't use Skip Between."
+    desc: "⬻ ([[conjuration]], [[divine]], [[teleportation]]);  The sahkil moves from the Material Plane to the Ethereal Plane or vice-versa, with the effects of [[ethereal-jaunt|ethereal jaunt]] except that the effect has an unlimited duration and can be Dismissed. A summoned sahkil can't use Skip Between."
   - name: "Snatch Between"
     desc: "  When using Skip Between, the kimenhul can bring along any creatures it has [[rules/conditions.md#Grabbed|grabbed]]."
   - name: "Unsettled Mind"
@@ -73,7 +73,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 42; __Cantrips (10th)__ [[detect magic]]; __9th__ [[confusion]], [[dispel magic]] (at will), [[fear]] (at will), [[mask of terror]] (at will), [[phantasmal calamity]], [[suggestion]] (at will), [[warp mind]], [[weird]]; __Constant__ __(9th)__ [[mind blank]], [[true seeing]];"
+    desc: "DC 42; __Cantrips (10th)__ [[detect-magic|detect magic]]; __9th__ [[confusion]], [[dispel-magic|dispel magic]] (at will), [[fear]] (at will), [[mask-of-terror|mask of terror]] (at will), [[phantasmal-calamity|phantasmal calamity]], [[suggestion]] (at will), [[warp-mind|warp mind]], [[weird]]; __Constant__ __(9th)__ [[mind-blank|mind blank]], [[true-seeing|true seeing]];"
 sourcebook: "_Bestiary 3_, page 222."
 ```
 

@@ -74,7 +74,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 30, attack +24; __Cantrips (4th)__ [[detect magic]]; __4th__ [[continual flame]], [[wall of fire]];"
+    desc: "DC 30, attack +24; __Cantrips (4th)__ [[detect-magic|detect magic]]; __4th__ [[continual-flame|continual flame]], [[wall-of-fire|wall of fire]];"
 sourcebook: "_Bestiary 3_, page 84."
 ```
 

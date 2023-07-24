@@ -57,7 +57,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 27, attack +17; __2nd__ [[hydraulic push]] (at will);"
+    desc: "DC 27, attack +17; __2nd__ [[hydraulic-push|hydraulic push]] (at will);"
 sourcebook: "_Bestiary_, page 153."
 ```
 

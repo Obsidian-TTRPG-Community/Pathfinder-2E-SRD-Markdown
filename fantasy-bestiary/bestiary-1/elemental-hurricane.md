@@ -33,7 +33,7 @@ abilityMods: [6, 7, 4, 0, 3, 0]
 
 abilities_mid:
   - name: "High Winds"
-    desc: " ([[air]], [[aura]]);  20 feet. Air within the emanation is [[terrain|difficult terrain]] for Flying creatures that do not have the [[air]] trait."
+    desc: " ([[air]], [[aura]]);  20 feet. Air within the emanation is [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] for Flying creatures that do not have the [[air]] trait."
   - name: "Disperse"
     desc: "⬲ __Trigger__ The living whirlwind takes damage from a [[rules/conditions.md#Hostile|hostile]] action. __Effect__  The elemental hurricane disperses. Until the end of the current turn, it can't be attacked or targeted, doesn't take up space, and any auras or emanations it has are suppressed. At the end of the turn, the elemental hurricane reforms in any space in which it can fit within 100 feet of where it dispersed and any auras or emanations it has are restored as long as their duration didn't run out while it was dispersed."
 abilities_bot:

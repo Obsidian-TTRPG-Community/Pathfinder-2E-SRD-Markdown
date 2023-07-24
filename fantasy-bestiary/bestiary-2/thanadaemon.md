@@ -65,7 +65,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 34; __1st__ [[detect alignment]] good only; at will; __4th__ [[dimension door]] (at will); __5th__ [[dimension door]]; __6th__ [[slow]], [[vampiric exsanguination]] (2); __7th__ [[finger of death]], [[plane shift]] at will; self plus skiff and passengers only; Astral,Ethereal,and evil planes only, [[teleport]]; __Constant__ __(7th)__ [[air walk]], [[true seeing]];"
+    desc: "DC 34; __1st__ [[detect-alignment|detect alignment]] good only; at will; __4th__ [[dimension-door|dimension door]] (at will); __5th__ [[dimension-door|dimension door]]; __6th__ [[slow]], [[vampiric-exsanguination|vampiric exsanguination]] (2); __7th__ [[finger-of-death|finger of death]], [[plane-shift|plane shift]] at will; self plus skiff and passengers only; Astral,Ethereal,and evil planes only, [[teleport]]; __Constant__ __(7th)__ [[air-walk|air walk]], [[true-seeing|true seeing]];"
 sourcebook: "_Bestiary 2_, page 61."
 ```
 

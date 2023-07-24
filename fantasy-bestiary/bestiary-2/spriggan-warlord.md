@@ -66,7 +66,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 25; __Cantrips (4th)__ [[dancing lights]]; __2nd__ [[blur]]; __3rd__ [[dispel magic]], [[fear]]; __4th__ [[fly]], [[shatter]];"
+    desc: "DC 25; __Cantrips (4th)__ [[dancing-lights|dancing lights]]; __2nd__ [[blur]]; __3rd__ [[dispel-magic|dispel magic]], [[fear]]; __4th__ [[fly]], [[shatter]];"
 sourcebook: "_Bestiary 2_, page 253."
 ```
 

@@ -67,7 +67,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 22; __2nd__ [[invisibility]] (at will) self only; __3rd__ [[locate]] (3), [[searing light]] (3); __4th__ [[dimension door]] (at will); __5th__ [[dimension door]];"
+    desc: "DC 22; __2nd__ [[invisibility]] (at will) self only; __3rd__ [[locate]] (3), [[searing-light|searing light]] (3); __4th__ [[dimension-door|dimension door]] (at will); __5th__ [[dimension-door|dimension door]];"
 sourcebook: "_Bestiary 2_, page 210."
 ```
 

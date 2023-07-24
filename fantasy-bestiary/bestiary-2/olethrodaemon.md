@@ -65,7 +65,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 42, attack +34; __1st__ [[detect alignment]] good only; at will; __4th__ [[dimension door]] (at will); __5th__ [[dimension door]]; __9th__ [[disintegrate]] (3), [[disjunction]], [[wail of the banshee]]; __10th__ [[cataclysm]], [[massacre]]; __Constant__ ;"
+    desc: "DC 42, attack +34; __1st__ [[detect-alignment|detect alignment]] good only; at will; __4th__ [[dimension-door|dimension door]] (at will); __5th__ [[dimension-door|dimension door]]; __9th__ [[disintegrate]] (3), [[disjunction]], [[wail-of-the-banshee|wail of the banshee]]; __10th__ [[cataclysm]], [[massacre]]; __Constant__ ;"
 sourcebook: "_Bestiary 2_, page 63."
 ```
 

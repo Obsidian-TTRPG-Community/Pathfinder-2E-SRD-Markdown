@@ -62,7 +62,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 29; __2nd__ [[invisibility]] (at will) self only; __3rd__ [[mind reading]] (at will); __4th__ [[charm]], [[gaseous form]]; __5th__ [[breath of life]], [[divine wrath]]; __7th__ [[ethereal jaunt]] (at will), [[plane shift]] self only; __Constant__ ;"
+    desc: "DC 29; __2nd__ [[invisibility]] (at will) self only; __3rd__ [[mind-reading|mind reading]] (at will); __4th__ [[charm]], [[gaseous-form|gaseous form]]; __5th__ [[breath-of-life|breath of life]], [[divine-wrath|divine wrath]]; __7th__ [[ethereal-jaunt|ethereal jaunt]] (at will), [[plane-shift|plane shift]] self only; __Constant__ ;"
 sourcebook: "_Bestiary 2_, page 54."
 ```
 

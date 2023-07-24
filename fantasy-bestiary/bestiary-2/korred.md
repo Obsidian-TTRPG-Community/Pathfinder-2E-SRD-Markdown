@@ -69,7 +69,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 21; __4th__ [[shape stone]] (at will), [[shatter]] (at will); __6th__ [[stone tell]];"
+    desc: "DC 21; __4th__ [[shape-stone|shape stone]] (at will), [[shatter]] (at will); __6th__ [[stone-tell|stone tell]];"
 sourcebook: "_Bestiary 2_, page 155."
 ```
 

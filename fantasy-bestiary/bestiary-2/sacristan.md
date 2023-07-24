@@ -63,7 +63,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 29; __3rd__ [[fear]]; __5th__ [[chilling darkness]];"
+    desc: "DC 29; __3rd__ [[fear]]; __5th__ [[chilling-darkness|chilling darkness]];"
 sourcebook: "_Bestiary 2_, page 283."
 ```
 

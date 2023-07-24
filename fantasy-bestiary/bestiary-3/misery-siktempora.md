@@ -64,7 +64,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 29; __2nd__ [[invisibility]] (3); __4th__ [[dimension door]] (at will); __6th__ [[blink]]; __Constant__ __(6th)__ [[air walk]];"
+    desc: "DC 29; __2nd__ [[invisibility]] (3); __4th__ [[dimension-door|dimension door]] (at will); __6th__ [[blink]]; __Constant__ __(6th)__ [[air-walk|air walk]];"
 sourcebook: "_Bestiary 3_, page 232."
 ```
 

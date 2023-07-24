@@ -33,7 +33,7 @@ abilityMods: [0, 3, 2, 1, 2, 1]
 
 abilities_top:
   - name: "Camouflaged Step"
-    desc: "  The skulk gains the benefit of the [[Cover Tracks]] action in forests and subterranean settings without moving at half Speed."
+    desc: "  The skulk gains the benefit of the [[Cover-Tracks|Cover Tracks]] action in forests and subterranean settings without moving at half Speed."
   - name: "Chameleon Skin"
     desc: "  The skulk's skin shifts and changes to match the surroundings. As long as most of their body is not covered by clothing or armor, the skulk gains a +2 circumstance bonus to [[compendium/skills.md#Stealth|Stealth]] checks to [[Hide]]."
   - name: Items

@@ -56,7 +56,7 @@ abilities_bot:
   - name: "Ectoplasmic Form"
     desc: "⬻  As wyrmwraith, except AC 52 and 125 temporary Hit Points."
   - name: "Phase Lurch"
-    desc: "⬻ ([[divine]], [[move]]); __Requirements__ The wyrmwraith is in their ectoplasmic form  __Effect__  As the [[Stride]] action, but the wyrmwraith can pass through walls or material obstacles as though they were incorporeal. They must begin and end their movement outside of any physical obstacles, and passing through solid material is [[terrain|difficult terrain]]."
+    desc: "⬻ ([[divine]], [[move]]); __Requirements__ The wyrmwraith is in their ectoplasmic form  __Effect__  As the [[Stride]] action, but the wyrmwraith can pass through walls or material obstacles as though they were incorporeal. They must begin and end their movement outside of any physical obstacles, and passing through solid material is [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]]."
 
 speed: 50 feet, fly 100 feet
 
@@ -67,7 +67,7 @@ armorclass:
 hp: 450
 health:
   - name: HP
-    desc: "450; [[negative healing]]; __Immunities__ as wyrmwraith; __Resistances__ all 25"
+    desc: "450; [[negative-healing-b2|negative healing]]; __Immunities__ as wyrmwraith; __Resistances__ all 25"
 
 
 attacks:

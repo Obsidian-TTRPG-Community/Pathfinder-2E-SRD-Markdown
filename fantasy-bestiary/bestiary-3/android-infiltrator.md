@@ -34,7 +34,7 @@ abilityMods: [2, 4, 2, 3, 0, -1]
 
 abilities_mid:
   - name: "Emotionally Unaware"
-    desc: "  The android takes a –1 circumstance penalty to [[compendium/skills.md#Diplomacy|Diplomacy]] and [[compendium/skills.md#Performance|Performance]] checks, and to [[compendium/skills.md#Perception|Perception]] checks to [[Sense Motive]]."
+    desc: "  The android takes a –1 circumstance penalty to [[compendium/skills.md#Diplomacy|Diplomacy]] and [[compendium/skills.md#Performance|Performance]] checks, and to [[compendium/skills.md#Perception|Perception]] checks to [[Sense-Motive|Sense Motive]]."
   - name: "Nanite Surge"
     desc: "⬲ __Trigger__ The android infiltrator attempts a skill check but hasn't rolled yet __Effect__  The android infiltrator stimulates their nanites, forcing their body to temporarily increase its efficiency. They gain a +2 status bonus to the triggering skill check. In addition, their circuitry glows, creating a 10-foot emanation with dim light for 1 round."
 abilities_top:

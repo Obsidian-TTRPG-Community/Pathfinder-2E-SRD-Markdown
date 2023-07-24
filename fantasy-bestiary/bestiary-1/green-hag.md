@@ -65,7 +65,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 20, attack +14; __Cantrips (2nd)__ [[acid splash]], [[dancing lights]], [[ghost sound]], [[message]]; __2nd__ [[invisibility]] (at will), [[tree shape]] (at will); __Constant__ __(1st)__ [[pass without trace]], __(2nd)__ [[water breathing]], __(5th)__ [[tongues]];"
+    desc: "DC 20, attack +14; __Cantrips (2nd)__ [[acid-splash|acid splash]], [[dancing-lights|dancing lights]], [[ghost-sound|ghost sound]], [[message]]; __2nd__ [[invisibility]] (at will), [[tree-shape|tree shape]] (at will); __Constant__ __(1st)__ [[pass-without-trace|pass without trace]], __(2nd)__ [[water-breathing|water breathing]], __(5th)__ [[tongues]];"
 sourcebook: "_Bestiary_, page 201."
 ```
 

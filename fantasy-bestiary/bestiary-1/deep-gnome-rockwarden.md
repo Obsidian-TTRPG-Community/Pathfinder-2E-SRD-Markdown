@@ -52,9 +52,9 @@ attacks:
 
 spellcasting:
   - name: "Primal Prepared Spells"
-    desc: "DC 24, attack +14; __Cantrips (3rd)__ [[acid splash]], [[detect magic]], [[prestidigitation]], [[produce flame]], [[read aura]]; __1st__ [[ant haul]], [[shocking grasp]], [[ventriloquism]]; __2nd__ [[acid arrow]], [[deafness]], [[spider climb]]; __3rd__ [[blindness]], [[meld into stone]];"
+    desc: "DC 24, attack +14; __Cantrips (3rd)__ [[acid-splash|acid splash]], [[detect-magic|detect magic]], [[prestidigitation]], [[produce-flame|produce flame]], [[read-aura|read aura]]; __1st__ [[ant-haul|ant haul]], [[shocking-grasp|shocking grasp]], [[ventriloquism]]; __2nd__ [[acid-arrow|acid arrow]], [[deafness]], [[spider-climb|spider climb]]; __3rd__ [[blindness]], [[meld-into-stone|meld into stone]];"
   - name: "Primal Innate Spells"
-    desc: "DC 21; __1st__ [[illusory disguise]];"
+    desc: "DC 21; __1st__ [[illusory-disguise|illusory disguise]];"
 sourcebook: "_Bestiary_, page 75."
 ```
 

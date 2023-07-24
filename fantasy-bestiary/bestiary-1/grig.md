@@ -55,7 +55,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 18; __Cantrips (2nd)__ [[ghost sound]]; __1st__ [[illusory disguise]]; __2nd__ [[glitterdust]], [[invisibility]] self only;"
+    desc: "DC 18; __Cantrips (2nd)__ [[ghost-sound|ghost sound]]; __1st__ [[illusory-disguise|illusory disguise]]; __2nd__ [[glitterdust]], [[invisibility]] self only;"
 sourcebook: "_Bestiary_, page 308."
 ```
 

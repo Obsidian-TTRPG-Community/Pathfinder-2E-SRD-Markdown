@@ -63,7 +63,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 17; __1st__ [[detect alignment]] (at will) evil only;"
+    desc: "DC 17; __1st__ [[detect-alignment|detect alignment]] (at will) evil only;"
 sourcebook: "_Bestiary 3_, page 124."
 ```
 

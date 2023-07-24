@@ -63,7 +63,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 21; __1st__ [[create water]]; __2nd__ [[create food]], [[invisibility]] (3), [[speak with animals]]; __7th__ [[plane shift]] to Astral Plane,Elemental Planes,or Material Plane only;"
+    desc: "DC 21; __1st__ [[create-water|create water]]; __2nd__ [[create-food|create food]], [[invisibility]] (3), [[speak-with-animals|speak with animals]]; __7th__ [[plane-shift|plane shift]] to Astral Plane,Elemental Planes,or Material Plane only;"
 sourcebook: "_Bestiary_, page 162."
 ```
 

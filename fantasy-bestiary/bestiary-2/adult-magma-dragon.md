@@ -75,7 +75,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 31, attack +23; __Cantrips (6th)__ [[produce flame]]; __6th__ [[burning-hands|burning hands]] (at will), [[wall of fire]] (at will);"
+    desc: "DC 31, attack +23; __Cantrips (6th)__ [[produce-flame|produce flame]]; __6th__ [[burning-hands|burning hands]] (at will), [[wall-of-fire|wall of fire]] (at will);"
 sourcebook: "_Bestiary 2_, page 94."
 ```
 

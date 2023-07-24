@@ -38,7 +38,7 @@ abilities_mid:
     desc: "⬲ __Requirements__ The dero stalker is not [[rules/conditions.md#Encumbered|encumbered]]. __Trigger__ A creature targets the dero with an attack and the dero can see the attacker. __Effect__  The dero dodges out of the way, gaining a +2 circumstance bonus to AC against the triggering attack."
 abilities_top:
   - name: Items
-    desc: "[[aklys]], [[giant centipede venom]] (4 doses), [[hand crossbow]] (20 [[bolt|bolts]];"
+    desc: "[[aklys]], [[giant-centipede-venom|giant centipede venom]] (4 doses), [[hand-crossbow|hand crossbow]] (20 [[bolt|bolts]];"
 abilities_bot:
   - name: "Sneak Attack"
     desc: "  A dero stalker deals 1d6 (1d6) extra precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
@@ -59,13 +59,13 @@ attacks:
   - name: Melee
     desc: "⬻ aklys +8 ([[trip]]); __Damage__ 1d6+2 (1d6+2) bludgeoning"
   - name: Ranged
-    desc: "⬻ aklys +10 ([[ranged trip]], [[tethered]], [[thrown|thrown 20 feet]]; page 85); __Damage__ 1d6+2 (1d6+2) bludgeoning"
+    desc: "⬻ aklys +10 ([[ranged-trip|ranged trip]], [[tethered]], [[thrown|thrown 20 feet]]; page 85); __Damage__ 1d6+2 (1d6+2) bludgeoning"
   - name: Ranged
     desc: "⬻ hand crossbow +10 ([[range-increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1d6 (1d6) piercing plus giant centipede venom"
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 17; __Cantrips (1st)__ [[daze]], [[ghost sound]];"
+    desc: "DC 17; __Cantrips (1st)__ [[daze]], [[ghost-sound|ghost sound]];"
 sourcebook: "_Bestiary_, page 84."
 ```
 

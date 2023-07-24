@@ -45,7 +45,7 @@ abilities_bot:
   - name: "Drowning Drone"
     desc: "⬲ ([[auditory]], [[mental]]); __Trigger__ The boggard swampseer or one of its allies within 60 feet attempts a saving throw against an [[auditory]] or [[sonic]] effect. __Effect__  The swampseer releases a croak that drowns out other sound. It rolls a [[compendium/skills.md#Performance|Performance]] check. It and boggard allies in the area can use the higher result of the swampseer's [[compendium/skills.md#Performance|Performance]] check or their saves to resolve the effects against the [[auditory]] or [[sonic]] effect."
   - name: "Swamp Stride"
-    desc: "  A boggard scout ignores [[terrain|difficult terrain]] caused by swamp terrain features."
+    desc: "  A boggard scout ignores [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] caused by swamp terrain features."
   - name: "Terrifying Croak"
     desc: "⬻ ([[auditory]], [[emotion]], [[fear]], [[mental]]);  As boggard scout, except DC 19."
   - name: "Tongue Grab"
@@ -73,7 +73,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Prepared Spells"
-    desc: "DC 21, attack +11; __Cantrips (2nd)__ [[acid splash]], [[dancing lights]], [[ray of frost]], [[tanglefoot]]; __1st__ [[fear]], [[jump]], [[shillelagh]]; __2nd__ [[acid arrow]], [[obscuring mist]];"
+    desc: "DC 21, attack +11; __Cantrips (2nd)__ [[acid-splash|acid splash]], [[dancing-lights|dancing lights]], [[ray-of-frost|ray of frost]], [[tanglefoot]]; __1st__ [[fear]], [[jump]], [[shillelagh]]; __2nd__ [[acid-arrow|acid arrow]], [[obscuring-mist|obscuring mist]];"
 sourcebook: "_Bestiary_, page 45."
 ```
 

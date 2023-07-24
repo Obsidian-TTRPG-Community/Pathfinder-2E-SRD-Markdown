@@ -69,7 +69,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 33; __3rd__ [[levitate]] (at will); __5th__ [[control weather]] (at will); __6th__ [[chain lightning]] (3); __Constant__ __(4th)__ [[freedom of movement]];"
+    desc: "DC 33; __3rd__ [[levitate]] (at will); __5th__ [[control-weather|control weather]] (at will); __6th__ [[chain-lightning|chain lightning]] (3); __Constant__ __(4th)__ [[freedom-of-movement|freedom of movement]];"
 sourcebook: "_Bestiary_, page 174."
 ```
 

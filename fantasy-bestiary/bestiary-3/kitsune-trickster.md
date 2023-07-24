@@ -62,7 +62,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Spontaneous Spells"
-    desc: "DC 18, attack +10; __Cantrips (1st)__ [[dancing lights]], [[detect magic]], [[ghost sound]], [[prestidigitation]], [[produce flame]], [[sigil]], [[tanglefoot]]; __1st__ (3 slots) [[charm]], [[fleet step]], [[magic fang]];"
+    desc: "DC 18, attack +10; __Cantrips (1st)__ [[dancing-lights|dancing lights]], [[detect-magic|detect magic]], [[ghost-sound|ghost sound]], [[prestidigitation]], [[produce-flame|produce flame]], [[sigil]], [[tanglefoot]]; __1st__ (3 slots) [[charm]], [[fleet-step|fleet step]], [[magic-fang|magic fang]];"
 sourcebook: "_Bestiary 3_, page 150."
 ```
 

@@ -64,7 +64,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 21; __1st__ [[ventriloquism]] (at will); __2nd__ [[mirror image]] (at will); __3rd__ [[illusory disguise]] (at will); __4th__ [[suggestion]];"
+    desc: "DC 21; __1st__ [[ventriloquism]] (at will); __2nd__ [[mirror-image|mirror image]] (at will); __3rd__ [[illusory-disguise|illusory disguise]] (at will); __4th__ [[suggestion]];"
 sourcebook: "_Bestiary 2_, page 238."
 ```
 

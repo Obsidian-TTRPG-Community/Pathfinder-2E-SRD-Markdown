@@ -57,7 +57,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 17; __Cantrips (1st)__ [[read aura]]; __2nd__ [[charm]], [[spider climb]], [[touch of idiocy]]; __Constant__ __(3rd)__ [[magic aura]], [[nondetection]];"
+    desc: "DC 17; __Cantrips (1st)__ [[read-aura|read aura]]; __2nd__ [[charm]], [[spider-climb|spider climb]], [[touch-of-idiocy|touch of idiocy]]; __Constant__ __(3rd)__ [[magic-aura|magic aura]], [[nondetection]];"
 sourcebook: "_Bestiary 3_, page 22."
 ```
 

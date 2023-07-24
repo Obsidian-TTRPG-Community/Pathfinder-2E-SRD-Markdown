@@ -69,7 +69,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 26, attack +16; __1st__ [[detect alignment]] at will; lawful only; __2nd__ [[obscuring mist]] (at will); __3rd__ [[shatter]] (at will); __4th__ [[acid arrow]], [[solid fog]]; __5th__ [[dimension door]]; __Constant__ __(4th)__ [[freedom of movement]];"
+    desc: "DC 26, attack +16; __1st__ [[detect-alignment|detect alignment]] at will; lawful only; __2nd__ [[obscuring-mist|obscuring mist]] (at will); __3rd__ [[shatter]] (at will); __4th__ [[acid-arrow|acid arrow]], [[solid-fog|solid fog]]; __5th__ [[dimension-door|dimension door]]; __Constant__ __(4th)__ [[freedom-of-movement|freedom of movement]];"
 sourcebook: "_Bestiary_, page 267."
 ```
 

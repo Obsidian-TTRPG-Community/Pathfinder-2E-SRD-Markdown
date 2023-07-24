@@ -65,7 +65,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 21; __1st__ [[detect alignment]] (at will) evil only; __3rd__ [[dream message]];"
+    desc: "DC 21; __1st__ [[detect-alignment|detect alignment]] (at will) evil only; __3rd__ [[dream-message|dream message]];"
 sourcebook: "_Bestiary 3_, page 125."
 ```
 

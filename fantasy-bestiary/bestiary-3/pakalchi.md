@@ -41,7 +41,7 @@ abilities_bot:
   - name: "Betrayal Toxin"
     desc: " ([[divine]], [[enchantment]], [[mental]], [[poison]]);  __Saving Throw__ DC 28 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ [[rules/conditions.md#Stupefied|stupefied 1]] (1 round) __Stage 2__ [[rules/conditions.md#Stupefied|stupefied 2]] (1 round)"
   - name: "Skip Between"
-    desc: "⬻ ([[conjuration]], [[divine]], [[teleportation]]);  The sahkil moves from the Material Plane to the Ethereal Plane or vice-versa, with the effects of [[ethereal jaunt]] except that the effect has an unlimited duration and can be Dismissed. A summoned sahkil can't use Skip Between."
+    desc: "⬻ ([[conjuration]], [[divine]], [[teleportation]]);  The sahkil moves from the Material Plane to the Ethereal Plane or vice-versa, with the effects of [[ethereal-jaunt|ethereal jaunt]] except that the effect has an unlimited duration and can be Dismissed. A summoned sahkil can't use Skip Between."
 
 speed: 30 feet
 
@@ -65,7 +65,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 30; __Cantrips (5th)__ [[detect magic]]; __5th__ [[charm]], [[calm emotions]], [[suggestion]] (at will); __6th__ [[dominate]]; __7th__ [[mask of terror]] self only; __Constant__ __(6th)__ [[tongues]], [[true seeing]];"
+    desc: "DC 30; __Cantrips (5th)__ [[detect-magic|detect magic]]; __5th__ [[charm]], [[calm-emotions|calm emotions]], [[suggestion]] (at will); __6th__ [[dominate]]; __7th__ [[mask-of-terror|mask of terror]] self only; __Constant__ __(6th)__ [[tongues]], [[true-seeing|true seeing]];"
 sourcebook: "_Bestiary 3_, page 220."
 ```
 

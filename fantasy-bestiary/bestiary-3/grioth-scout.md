@@ -68,7 +68,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 16, attack +8; __Cantrips (1st)__ [[daze]], [[detect magic]], [[mage-hand|mage hand]], [[telekinetic projectile]]; __1st__ [[phantom pain]];"
+    desc: "DC 16, attack +8; __Cantrips (1st)__ [[daze]], [[detect-magic|detect magic]], [[mage-hand|mage hand]], [[telekinetic-projectile|telekinetic projectile]]; __1st__ [[phantom-pain|phantom pain]];"
 sourcebook: "_Bestiary 3_, page 122."
 ```
 

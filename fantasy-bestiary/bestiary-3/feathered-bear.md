@@ -40,7 +40,7 @@ abilities_mid:
     desc: "⬲ __Trigger__ A creature within 10 feet damages the feathered bear's ally with a melee attack __Effect__  The feathered bear immediately [[Step|Steps]] toward the triggering attacker and makes a claws [[Strike]]."
 abilities_bot:
   - name: "Feathered Charge"
-    desc: "⬺  The feathered bear [[Stride|Strides]] and makes a [[Strike]] at the end of that movement. During the [[Stride]], the feathered bear ignores [[terrain|difficult terrain]] and [[terrain|greater difficult terrain]], and they can move across air as easily as solid ground. If the feathered bear doesn't end their movement on solid ground, they fall as soon as the [[Strike]] is completed."
+    desc: "⬺  The feathered bear [[Stride|Strides]] and makes a [[Strike]] at the end of that movement. During the [[Stride]], the feathered bear ignores [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] and [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|greater difficult terrain]], and they can move across air as easily as solid ground. If the feathered bear doesn't end their movement on solid ground, they fall as soon as the [[Strike]] is completed."
   - name: "Bonded Strike"
     desc: "⬺ __Requirements__ The spirit guide is currently Bonded with a Mortal  __Effect__  The spirit guide makes a jaws [[Strike]]. If this attack hits, the bonded mortal can spend their reaction to [[Strike]] the same target."
   - name: "Mauler"
@@ -66,7 +66,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 27; __3rd__ [[barkskin]], [[endure elements]], [[haste]], [[jump]], [[longstrider]]; __Constant__ ;"
+    desc: "DC 27; __3rd__ [[barkskin]], [[endure-elements|endure elements]], [[haste]], [[jump]], [[longstrider]]; __Constant__ ;"
 sourcebook: "_Bestiary 3_, page 253."
 ```
 

@@ -66,7 +66,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 23, attack +15; __Cantrips (4th)__ [[produce flame]]; __1st__ [[gust of wind]] (at will); __2nd__ [[obscuring mist]]; __3rd__ [[stinking cloud]]; __4th__ [[dimension door]], [[phantasmal killer]];"
+    desc: "DC 23, attack +15; __Cantrips (4th)__ [[produce-flame|produce flame]]; __1st__ [[gust-of-wind|gust of wind]] (at will); __2nd__ [[obscuring-mist|obscuring mist]]; __3rd__ [[stinking-cloud|stinking cloud]]; __4th__ [[dimension-door|dimension door]], [[phantasmal-killer|phantasmal killer]];"
 sourcebook: "_Bestiary 2_, page 230."
 ```
 

@@ -57,7 +57,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 25; __3rd__ [[hypnotic pattern]] (at will); __4th__ [[hallucinatory terrain]] (at will); __5th__ [[illusory object]] (at will); __6th__ [[dominate]] (3), [[illusory scene]] (at will); __7th__ [[project image]] (at will), [[veil]] (at will);"
+    desc: "DC 25; __3rd__ [[hypnotic-pattern|hypnotic pattern]] (at will); __4th__ [[hallucinatory-terrain|hallucinatory terrain]] (at will); __5th__ [[illusory-object|illusory object]] (at will); __6th__ [[dominate]] (3), [[illusory-scene|illusory scene]] (at will); __7th__ [[project-image|project image]] (at will), [[veil]] (at will);"
 sourcebook: "_Bestiary_, page 14."
 ```
 

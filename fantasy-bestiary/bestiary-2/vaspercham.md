@@ -62,7 +62,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 41; __5th__ [[control water]] (at will); __6th__ [[spellwrack]] (3); __7th__ [[regenerate]]; __8th__ [[lightning bolt]]; __9th__ [[cone of cold]], [[spell immunity]]; __Constant__ __(7th)__ [[see invisibility]];"
+    desc: "DC 41; __5th__ [[control-water|control water]] (at will); __6th__ [[spellwrack]] (3); __7th__ [[regenerate]]; __8th__ [[lightning-bolt|lightning bolt]]; __9th__ [[cone-of-cold|cone of cold]], [[spell-immunity|spell immunity]]; __Constant__ __(7th)__ [[see-invisibility|see invisibility]];"
 sourcebook: "_Bestiary 2_, page 279."
 ```
 

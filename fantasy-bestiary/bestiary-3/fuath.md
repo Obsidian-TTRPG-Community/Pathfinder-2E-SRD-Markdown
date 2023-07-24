@@ -62,7 +62,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 17; __Cantrips (1st)__ [[prestidigitation]]; __1st__ [[create water]], [[sleep]];"
+    desc: "DC 17; __Cantrips (1st)__ [[prestidigitation]]; __1st__ [[create-water|create water]], [[sleep]];"
 sourcebook: "_Bestiary 3_, page 121."
 ```
 

@@ -78,7 +78,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 36; __2nd__ [[gust of wind]] (at will), [[obscuring mist]]; __3rd__ [[wall of wind]];"
+    desc: "DC 36; __2nd__ [[gust-of-wind|gust of wind]] (at will), [[obscuring-mist|obscuring mist]]; __3rd__ [[wall-of-wind|wall of wind]];"
 sourcebook: "_Bestiary 2_, page 90."
 ```
 

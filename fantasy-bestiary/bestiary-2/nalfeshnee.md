@@ -62,7 +62,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 34; __4th__ [[dimension door]] (at will); __5th__ [[dimension door]], [[illusory object]] (at will); __6th__ [[dispel magic]] (at will), [[divine wrath]] (at will); __Constant__ ;"
+    desc: "DC 34; __4th__ [[dimension-door|dimension door]] (at will); __5th__ [[dimension-door|dimension door]], [[illusory-object|illusory object]] (at will); __6th__ [[dispel-magic|dispel magic]] (at will), [[divine-wrath|divine wrath]] (at will); __Constant__ ;"
 sourcebook: "_Bestiary 2_, page 68."
 ```
 

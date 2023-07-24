@@ -59,7 +59,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 24; __7th__ [[plane shift]] self and rider only;"
+    desc: "DC 24; __7th__ [[plane-shift|plane shift]] self and rider only;"
 sourcebook: "_Bestiary_, page 244."
 ```
 

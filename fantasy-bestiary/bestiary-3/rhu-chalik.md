@@ -60,7 +60,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 23; __3rd__ [[invisibility]] self only; at will, [[mind reading]] (at will); __4th__ [[modify memory]]; __5th__ [[mind probe]];"
+    desc: "DC 23; __3rd__ [[invisibility]] self only; at will, [[mind-reading|mind reading]] (at will); __4th__ [[modify-memory|modify memory]]; __5th__ [[mind-probe|mind probe]];"
 sourcebook: "_Bestiary 3_, page 214."
 ```
 

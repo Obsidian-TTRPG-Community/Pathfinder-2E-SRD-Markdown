@@ -63,7 +63,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 16; __Cantrips (4th)__ [[dancing lights]], [[ghost sound]], [[prestidigitation]]; __1st__ [[detect alignment]] at will; lawful only; __2nd__ [[blur]] self only, [[obscuring mist]]; __4th__ [[read omens]]; __Constant__ __(4th)__ [[freedom of movement]];"
+    desc: "DC 16; __Cantrips (4th)__ [[dancing-lights|dancing lights]], [[ghost-sound|ghost sound]], [[prestidigitation]]; __1st__ [[detect-alignment|detect alignment]] at will; lawful only; __2nd__ [[blur]] self only, [[obscuring-mist|obscuring mist]]; __4th__ [[read-omens|read omens]]; __Constant__ __(4th)__ [[freedom-of-movement|freedom of movement]];"
 sourcebook: "_Bestiary_, page 266."
 ```
 

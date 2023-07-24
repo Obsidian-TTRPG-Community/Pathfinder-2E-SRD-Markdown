@@ -35,10 +35,10 @@ abilities_top:
   - name: "Hungersense"
     desc: "  Hungersense allows the gimmerling to sense creatures that require food to live."
   - name: Items
-    desc: "+1 striking [[hand crossbow]] (20 [[bolt|bolts]];"
+    desc: "+1 striking [[hand-crossbow|hand crossbow]] (20 [[bolt|bolts]];"
 abilities_mid:
   - name: "Treacherous Aura"
-    desc: " ([[aura]], [[primal]], [[transmutation]]);  15 feet. Tangled roots, jagged divots, sharp rocks and other hazards appear on surfaces in the aura, creating [[terrain|difficult terrain]]."
+    desc: " ([[aura]], [[primal]], [[transmutation]]);  15 feet. Tangled roots, jagged divots, sharp rocks and other hazards appear on surfaces in the aura, creating [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]]."
   - name: "Trip Up"
     desc: "⬲ __Trigger__ A creature critically fails a melee attack to hit the gimmerling or moves into a space within the gimmerling's treacherous aura. __Effect__  The triggering creature must attempt a DC 32 Reflex save.\n__Critical Success__ The target is unaffected.\n__Success__ The target is [[rules/conditions.md#Flat-Footed|flat-footed]] until the start of its next turn.\n__Failure__ The target takes 2d10 (2d10) bludgeoning damage and is [[rules/conditions.md#Flat-Footed|flat-footed]] until the start of its next turn.\n__Critical Failure__ As failure, and the target is knocked [[rules/conditions.md#Prone|prone]]."
 abilities_bot:
@@ -49,7 +49,7 @@ abilities_bot:
   - name: "Sneak Attack"
     desc: "  The gimmerling deals 2d6 (2d6) extra precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
   - name: "Trickster's Step"
-    desc: "  The gimmerling ignores [[terrain|difficult terrain]] and doesn't trigger traps with its movement."
+    desc: "  The gimmerling ignores [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] and doesn't trigger traps with its movement."
 
 speed: 30 feet; trickster's step;
 

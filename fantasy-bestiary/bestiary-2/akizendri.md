@@ -67,7 +67,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 20, attack +12; __Cantrips (2nd)__ [[acid splash]], [[daze]], [[ghost sound]], [[mage-hand|mage hand]], [[sigil]]; __1st__ [[detect alignment]] (at will) lawful only; __3rd__ [[glyph of warding]], [[secret page]]; __Constant__ __(4th)__ [[freedom of movement]];"
+    desc: "DC 20, attack +12; __Cantrips (2nd)__ [[acid-splash|acid splash]], [[daze]], [[ghost-sound|ghost sound]], [[mage-hand|mage hand]], [[sigil]]; __1st__ [[detect-alignment|detect alignment]] (at will) lawful only; __3rd__ [[glyph-of-warding|glyph of warding]], [[secret-page|secret page]]; __Constant__ __(4th)__ [[freedom-of-movement|freedom of movement]];"
 sourcebook: "_Bestiary 2_, page 204."
 ```
 

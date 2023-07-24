@@ -36,7 +36,7 @@ abilities_mid:
   - name: "Golem Antimagic"
     desc: "  harmed by cold and water (5d10 (5d10), 2d8 (2d8) from areas and [[rules/conditions.md#Persistent%20Damage|persistent damage]]); healed by acid (area 2d8 (2d8) HP); [[rules/conditions.md#Slowed|slowed]] by earth."
   - name: "Vulnerable to Stone to Flesh"
-    desc: "  A [[stone to flesh]] spell negates the golem's golem antimagic and its resistance to physical damage for 1 round. A [[flesh to stone]] spell reverses this effect immediately."
+    desc: "  A [[stone-to-flesh|stone to flesh]] spell negates the golem's golem antimagic and its resistance to physical damage for 1 round. A [[flesh-to-stone|flesh to stone]] spell reverses this effect immediately."
 abilities_bot:
   - name: "Fossilization"
     desc: " ([[arcane]], [[incapacitation]], [[transmutation]]);  The first time each round a creature takes damage from the fossil golem's jaws, the target must attempt a DC 32 Fortitude save. If it fails and has not already been [[rules/conditions.md#Slowed|slowed]] by this ability, it becomes [[rules/conditions.md#Slowed|slowed 1]] for 1 minute. If the creature was already [[rules/conditions.md#Slowed|slowed]] by this ability, a failed save causes it to be [[rules/conditions.md#Petrified|petrified]] permanently."

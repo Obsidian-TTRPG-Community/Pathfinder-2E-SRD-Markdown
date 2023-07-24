@@ -69,7 +69,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 23; __2nd__ [[augury]], [[obscuring mist]]; __5th__ [[mariner's curse]];"
+    desc: "DC 23; __2nd__ [[augury]], [[obscuring-mist|obscuring mist]]; __5th__ [[mariner's curse]];"
 sourcebook: "_Bestiary 2_, page 125."
 ```
 

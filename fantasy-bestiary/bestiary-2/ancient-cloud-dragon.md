@@ -80,7 +80,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 42; __4th__ [[gust of wind]] (at will), [[solid fog]], [[wall of wind]] (at will); __5th__ [[cloudkill]]; __8th__ [[wind walk]];"
+    desc: "DC 42; __4th__ [[gust-of-wind|gust of wind]] (at will), [[solid-fog|solid fog]], [[wall-of-wind|wall of wind]] (at will); __5th__ [[cloudkill]]; __8th__ [[wind-walk|wind walk]];"
 sourcebook: "_Bestiary 2_, page 90."
 ```
 

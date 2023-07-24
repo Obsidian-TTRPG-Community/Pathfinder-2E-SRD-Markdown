@@ -65,7 +65,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 18; __4th__ [[speak with plants]];"
+    desc: "DC 18; __4th__ [[speak-with-plants|speak with plants]];"
 sourcebook: "_Bestiary 3_, page 160."
 ```
 

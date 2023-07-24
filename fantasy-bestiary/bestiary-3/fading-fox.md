@@ -26,7 +26,7 @@ perception:
     desc: "Perception +11; __low-light vision__, __imprecise scent 30__;"
 skills:
   - name: "Skills"
-    desc: "__Acrobatics__: +8 (1d20+8), (Acrobatics: +10 (1d20+10) to Escape); __Athletics__: +5 (1d20+5), (Athletics: +7 (1d20+7) to [[High Jump]] or [[Long Jump]]); __Stealth__: +10 (1d20+10); __Survival__: +9 (1d20+9); "
+    desc: "__Acrobatics__: +8 (1d20+8), (Acrobatics: +10 (1d20+10) to Escape); __Athletics__: +5 (1d20+5), (Athletics: +7 (1d20+7) to [[High-Jump|High Jump]] or [[Long-Jump|Long Jump]]); __Stealth__: +10 (1d20+10); __Survival__: +9 (1d20+9); "
 abilityMods: [-1, 4, 1, -4, 3, 0]
 
 abilities_mid:
@@ -38,9 +38,9 @@ abilities_bot:
   - name: "Sneak Attack"
     desc: "  The fading fox deals an additional 1d6 (1d6) precision damage to flatfooted creatures."
   - name: "Trackless Step"
-    desc: "  The fading fox always gains the benefits of [[Cover Tracks]] in natural surroundings, even while moving at full Speed."
+    desc: "  The fading fox always gains the benefits of [[Cover-Tracks|Cover Tracks]] in natural surroundings, even while moving at full Speed."
   - name: "Vanish into the Wilds"
-    desc: "⬺ __Requirements__ The fading fox is in natural surroundings  __Effect__  The fading fox [[Step|Steps]], then Hides, then [[Sneak|Sneaks]]. It can take this [[Step]] into natural [[terrain|difficult terrain]] and can [[Hide]] in this way even if it is being [[rules/conditions.md#Observed|observed]]."
+    desc: "⬺ __Requirements__ The fading fox is in natural surroundings  __Effect__  The fading fox [[Step|Steps]], then Hides, then [[Sneak|Sneaks]]. It can take this [[Step]] into natural [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] and can [[Hide]] in this way even if it is being [[rules/conditions.md#Observed|observed]]."
 
 speed: 35 feet
 

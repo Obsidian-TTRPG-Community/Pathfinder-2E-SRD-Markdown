@@ -62,7 +62,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 34, attack +26; __4th__ [[dimension door]] (at will); __7th__ [[bane]], [[bless]], [[dimension door]], [[divine decree]] evil only, [[dream message]], [[heal]] (3), [[illusory disguise]] (at will), [[invisibility]] at will; self only, [[mind reading]], [[neutralize poison]], [[remove disease]], [[remove curse]], [[restore senses]], [[ventriloquism]] (at will); __Constant__ __(7th)__ [[detect alignment]], [[magic]];"
+    desc: "DC 34, attack +26; __4th__ [[dimension-door|dimension door]] (at will); __7th__ [[bane]], [[bless]], [[dimension-door|dimension door]], [[divine-decree|divine decree]] evil only, [[dream-message|dream message]], [[heal]] (3), [[illusory-disguise|illusory disguise]] (at will), [[invisibility]] at will; self only, [[mind-reading|mind reading]], [[neutralize-poison|neutralize poison]], [[remove-disease|remove disease]], [[remove-curse|remove curse]], [[restore-senses|restore senses]], [[ventriloquism]] (at will); __Constant__ __(7th)__ [[detect-alignment|detect alignment]], [[magic]];"
 sourcebook: "_Bestiary 3_, page 25."
 ```
 

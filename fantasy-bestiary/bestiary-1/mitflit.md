@@ -33,9 +33,9 @@ abilityMods: [-1, 3, 0, -1, 1, -1]
 
 abilities_top:
   - name: "Self-Loathing"
-    desc: " ([[emotion]], [[mental]]);  A mitflit's self-loathing makes it easy to influence. It takes a –4 penalty to its Will DC against checks to [[Coerce]], [[Demoralize]], [[Make an Impression]], and [[Request]]."
+    desc: " ([[emotion]], [[mental]]);  A mitflit's self-loathing makes it easy to influence. It takes a –4 penalty to its Will DC against checks to [[Coerce]], [[Demoralize]], [[Make-an-Impression|Make an Impression]], and [[Request]]."
   - name: "Vermin Empathy"
-    desc: "  Mitflits can use [[compendium/skills.md#Diplomacy|Diplomacy]] to [[Make an Impression]] on and [[Request]] things of arthropods (insects, spiders, scorpions, crabs, and similar invertebrate animals). Most arthropods have a starting attitude of [[rules/conditions.md#Indifferent|indifferent]] to mitflits."
+    desc: "  Mitflits can use [[compendium/skills.md#Diplomacy|Diplomacy]] to [[Make-an-Impression|Make an Impression]] on and [[Request]] things of arthropods (insects, spiders, scorpions, crabs, and similar invertebrate animals). Most arthropods have a starting attitude of [[rules/conditions.md#Indifferent|indifferent]] to mitflits."
   - name: Items
     desc: "[[dart]] (10), [[shortsword]];"
 abilities_bot:
@@ -62,7 +62,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 16; __Cantrips (1st)__ [[prestidigitation]]; __1st__ [[bane]]; __2nd__ [[speak with animals]] at will; arthropods only;"
+    desc: "DC 16; __Cantrips (1st)__ [[prestidigitation]]; __1st__ [[bane]]; __2nd__ [[speak-with-animals|speak with animals]] at will; arthropods only;"
 sourcebook: "_Bestiary_, page 192."
 ```
 

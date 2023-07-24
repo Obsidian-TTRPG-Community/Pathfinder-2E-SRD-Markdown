@@ -43,7 +43,7 @@ abilities_bot:
   - name: "Malleability"
     desc: "  The isqulug can [[Squeeze]] through tight spaces as if it were a Small creature. While [[Squeeze|Squeezing]], it can move at its full Speed. The isqulug can even [[Squeeze]] through spaces that typically fit only a Tiny creature, but does so at the standard speed for [[Squeeze|Squeezing]]."
   - name: "Swamp Stride"
-    desc: "  An isqulug ignores [[terrain|difficult terrain]] that's caused by typical features of swamps."
+    desc: "  An isqulug ignores [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] that's caused by typical features of swamps."
 
 speed: 25 feet, swim 25 feet; swamp stride;
 
@@ -63,7 +63,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 30, attack +22; __Cantrips (5th)__ [[dancing lights]]; __4th__ [[fly]]; __5th__ [[control water]], [[entangle]] (at will), [[hallucinatory terrain]], [[obscuring mist]] (at will); __6th__ [[tangling creepers]]; __Constant__ __(1st)__ [[pass without trace]];"
+    desc: "DC 30, attack +22; __Cantrips (5th)__ [[dancing-lights|dancing lights]]; __4th__ [[fly]]; __5th__ [[control-water|control water]], [[entangle]] (at will), [[hallucinatory-terrain|hallucinatory terrain]], [[obscuring-mist|obscuring mist]] (at will); __6th__ [[tangling-creepers|tangling creepers]]; __Constant__ __(1st)__ [[pass-without-trace|pass without trace]];"
 sourcebook: "_Bestiary 2_, page 149."
 ```
 

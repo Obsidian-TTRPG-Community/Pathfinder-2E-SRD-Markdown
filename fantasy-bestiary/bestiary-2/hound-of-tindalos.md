@@ -42,7 +42,7 @@ abilities_mid:
     desc: "  When a hound of Tindalos is not adjacent to a structural angle of 90o (or more acute), its resistance to physical damage is suppressed and it becomes [[rules/conditions.md#Sickened|sickened 1]]. It can't recover from this [[rules/conditions.md#Sickened|sickened]] condition, but the condition ends automatically once the hound is again adjacent to a suitable angle."
 abilities_bot:
   - name: "Angled Entry"
-    desc: "⬻  The hound of Tindalos casts a 4th-level [[dimension door]] spell, but it must transport itself into a space adjacent to an angle of 90o (or more acute) in the structure or environment around it. For example, it could teleport to a space adjacent to a wall (using the angle between the wall and floor) or a corner in a room, or adjacent to a sizable tree growing straight up out of the ground, but not to a flat plain or a room with only curved corners and edges. Once per day, the hound can use this ability to plane shift to or from the Dimension of Time, with the same restrictions on what angles it can appear next to."
+    desc: "⬻  The hound of Tindalos casts a 4th-level [[dimension-door|dimension door]] spell, but it must transport itself into a space adjacent to an angle of 90o (or more acute) in the structure or environment around it. For example, it could teleport to a space adjacent to a wall (using the angle between the wall and floor) or a corner in a room, or adjacent to a sizable tree growing straight up out of the ground, but not to a flat plain or a room with only curved corners and edges. Once per day, the hound can use this ability to plane shift to or from the Dimension of Time, with the same restrictions on what angles it can appear next to."
 
 speed: 30 feet, fly 30 feet
 
@@ -64,7 +64,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 21; __2nd__ [[invisibility]] self only; __3rd__ [[haste]], [[slow]]; __4th__ [[dimensional anchor]]; __8th__ [[discern location]];"
+    desc: "DC 21; __2nd__ [[invisibility]] self only; __3rd__ [[haste]], [[slow]]; __4th__ [[dimensional-anchor|dimensional anchor]]; __8th__ [[discern-location|discern location]];"
 sourcebook: "_Bestiary 2_, page 146."
 ```
 

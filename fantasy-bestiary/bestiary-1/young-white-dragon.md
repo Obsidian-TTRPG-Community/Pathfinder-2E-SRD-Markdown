@@ -47,7 +47,7 @@ abilities_bot:
   - name: "Draconic Momentum"
     desc: "  When the dragon scores a critical hit with a [[Strike]], it recharges its Breath Weapon."
   - name: "Ice Climb"
-    desc: "  A white dragon can climb on ice as though it had the listed climb Speed. It ignores [[terrain|difficult terrain]] and [[terrain|greater difficult terrain]] from ice and snow and doesn't risk falling when crossing ice."
+    desc: "  A white dragon can climb on ice as though it had the listed climb Speed. It ignores [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] and [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|greater difficult terrain]] from ice and snow and doesn't risk falling when crossing ice."
   - name: "Ground Slam"
     desc: "⬻  The dragon slams into the ground. It can do this if it's on the ground or Flying within 10 feet of the ground. Each creature on the ground within 10 feet must succeed at a DC 24 Reflex save or fall [[rules/conditions.md#Prone|prone]] and take 2d6 (2d6) bludgeoning damage. The dragon can then [[Step]]."
   - name: "Shape Ice"

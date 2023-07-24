@@ -58,7 +58,7 @@ armorclass:
 hp: 180
 health:
   - name: HP
-    desc: "180; [[negative healing]]; __Immunities__ cold, death;"
+    desc: "180; [[negative-healing-b2|negative healing]]; __Immunities__ cold, death;"
 
 
 attacks:

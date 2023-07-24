@@ -34,7 +34,7 @@ abilityMods: [7, 3, 7, -1, 4, 3]
 
 abilities_mid:
   - name: "Attack of Opportunity"
-    desc: "⬲  An athach gains an extra reaction at the start of each of its turns that it can use only to make an [[Attack of Opportunity]] with its claw. It can't use more than one Attack of Opportunity triggered by the same action."
+    desc: "⬲  An athach gains an extra reaction at the start of each of its turns that it can use only to make an [[Attack-of-Opportunity|Attack of Opportunity]] with its claw. It can't use more than one Attack of Opportunity triggered by the same action."
   - name: "Catch Rock"
     desc: "⬲ "
 abilities_bot:

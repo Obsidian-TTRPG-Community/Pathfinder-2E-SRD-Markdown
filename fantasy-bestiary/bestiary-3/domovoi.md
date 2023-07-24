@@ -32,7 +32,7 @@ abilityMods: [1, 3, 1, 3, 5, 1]
 
 abilities_top:
   - name: "Master of the Home"
-    desc: "  A home with a [[rules/conditions.md#Friendly|friendly]] domovoi is blessed, as the domovoi cooks, cleans, fetches water, and does a hundred other small tasks. A home so blessed never suffers from random accidents such as fires, and any checks to [[Craft]], [[Earn Income]], [[Repair]], or [[Subsist]] in the home receive a +2 circumstance bonus. If the domovoi is [[rules/conditions.md#Unfriendly|unfriendly]], such checks take a –2 circumstance penalty instead, as the domovoi hides things, makes noise when people try to sleep, tangles weaving, and otherwise makes life a misery. A domovoi must spend a week in a place before these benefits occur."
+    desc: "  A home with a [[rules/conditions.md#Friendly|friendly]] domovoi is blessed, as the domovoi cooks, cleans, fetches water, and does a hundred other small tasks. A home so blessed never suffers from random accidents such as fires, and any checks to [[Craft]], [[Earn-Income|Earn Income]], [[Repair]], or [[Subsist]] in the home receive a +2 circumstance bonus. If the domovoi is [[rules/conditions.md#Unfriendly|unfriendly]], such checks take a –2 circumstance penalty instead, as the domovoi hides things, makes noise when people try to sleep, tangles weaving, and otherwise makes life a misery. A domovoi must spend a week in a place before these benefits occur."
 abilities_mid:
   - name: "Shy"
     desc: "  A domovoi is naturally [[rules/conditions.md#Invisible|invisible]] while within sight of their bound home. The domovoi can become visible, or even selectively visible—allowing some people to see them."
@@ -60,7 +60,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 18; __Cantrips (1st)__ [[mage-hand|mage hand]], [[prestidigitation]], [[telekinetic projectile]]; __1st__ [[mending]] (at will);"
+    desc: "DC 18; __Cantrips (1st)__ [[mage-hand|mage hand]], [[prestidigitation]], [[telekinetic-projectile|telekinetic projectile]]; __1st__ [[mending]] (at will);"
 sourcebook: "_Bestiary 3_, page 136."
 ```
 

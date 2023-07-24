@@ -60,7 +60,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 21; __Cantrips (2nd)__ [[detect magic]]; __1st__ [[illusory object]] (at will); __2nd__ [[touch of idiocy]] (at will); __4th__ [[dimension door]], [[outcast's curse]];"
+    desc: "DC 21; __Cantrips (2nd)__ [[detect-magic|detect magic]]; __1st__ [[illusory-object|illusory object]] (at will); __2nd__ [[touch-of-idiocy|touch of idiocy]] (at will); __4th__ [[dimension-door|dimension door]], [[outcast's curse]];"
 sourcebook: "_Bestiary 3_, page 69."
 ```
 

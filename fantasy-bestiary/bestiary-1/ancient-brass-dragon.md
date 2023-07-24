@@ -67,7 +67,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 37; __Constant__ __(2nd)__ [[speak with animals]];"
+    desc: "DC 37; __Constant__ __(2nd)__ [[speak-with-animals|speak with animals]];"
 sourcebook: "_Bestiary_, page 118."
 ```
 

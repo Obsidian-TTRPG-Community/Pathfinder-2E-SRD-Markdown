@@ -53,7 +53,7 @@ armorclass:
 hp: 200
 health:
   - name: HP
-    desc: "200; [[negative healing]]; __Immunities__ poison, death effects, disease, paralyzed, unconscious; __Weaknesses__ air 10, bludgeoning 10, earth 10;"
+    desc: "200; [[negative-healing-b2|negative healing]]; __Immunities__ poison, death effects, disease, paralyzed, unconscious; __Weaknesses__ air 10, bludgeoning 10, earth 10;"
 
 
 attacks:

@@ -43,7 +43,7 @@ abilities_bot:
   - name: "Change Shape"
     desc: "⬻ ([[concentrate]], [[divine]], [[polymorph]], [[transmutation]]);  A morrigna can take the appearance of any Small or Medium animal or humanoid. This doesn't change their Speed or their attack and damage modifiers with their [[Strike|Strikes]], but it might change the damage type their [[Strike|Strikes]] deal. Unless they choose to manifest their web wrappings in their new form, they cannot make web wrappings [[Strike|Strikes]]."
   - name: "Spider Minions"
-    desc: "⬽ ([[conjuration]], [[divine]]);  The morrigna summons a [[giant tarantula]] or [[spider swarm]]. These spiders have the summoned trait and remain for 10 minutes or until reduced to 0 Hit Points, whichever comes first. The morrigna does not need to [[Sustain a Spell|Sustain the Spell]] to direct these summoned creatures, and the morrigna can have any number of summoned spiders in existence at once. The morrigna can see through the eyes of any of their summoned spiders at any time."
+    desc: "⬽ ([[conjuration]], [[divine]]);  The morrigna summons a [[giant-tarantula|giant tarantula]] or [[spider-swarm|spider swarm]]. These spiders have the summoned trait and remain for 10 minutes or until reduced to 0 Hit Points, whichever comes first. The morrigna does not need to [[Sustain a Spell|Sustain the Spell]] to direct these summoned creatures, and the morrigna can have any number of summoned spiders in existence at once. The morrigna can see through the eyes of any of their summoned spiders at any time."
   - name: "Spirit Touch"
     desc: "  A morrigna's [[Strike|Strikes]] affect incorporeal creatures as though etched with a ghost touch property rune and deal 4d6 (4d6) negative damage to living creatures or 4d6 (4d6) positive damage to undead."
 
@@ -67,9 +67,9 @@ attacks:
 
 spellcasting:
   - name: "Divine Spontaneous Spells"
-    desc: "DC 35, attack +30; __Cantrips (8th)__ [[chill-touch|chill touch]], [[detect magic]], [[disrupt undead]], [[read aura]], [[stabilize]]; __1st__ (4 slots) [[bane]], [[bless]], [[ray of enfeeblement]]; __2nd__ (4 slots) [[calm emotions]], [[see invisibility]], [[silence]]; __3rd__ (4 slots) [[blindness]], [[crisis of faith]], [[dream message]]; __4th__ (4 slots) [[freedom of movement]], [[read omens]], [[spell immunity]]; __5th__ (4 slots) [[death ward]], [[dispel magic]], [[sending]]; __6th__ (4 slots) [[field of life]], [[heal]], [[spirit blast]];"
+    desc: "DC 35, attack +30; __Cantrips (8th)__ [[chill-touch|chill touch]], [[detect-magic|detect magic]], [[disrupt-undead|disrupt undead]], [[read-aura|read aura]], [[stabilize]]; __1st__ (4 slots) [[bane]], [[bless]], [[ray-of-enfeeblement|ray of enfeeblement]]; __2nd__ (4 slots) [[calm-emotions|calm emotions]], [[see-invisibility|see invisibility]], [[silence]]; __3rd__ (4 slots) [[blindness]], [[crisis-of-faith|crisis of faith]], [[dream-message|dream message]]; __4th__ (4 slots) [[freedom-of-movement|freedom of movement]], [[read-omens|read omens]], [[spell-immunity|spell immunity]]; __5th__ (4 slots) [[death-ward|death ward]], [[dispel-magic|dispel magic]], [[sending]]; __6th__ (4 slots) [[field-of-life|field of life]], [[heal]], [[spirit-blast|spirit blast]];"
   - name: "Divine Innate Spells"
-    desc: "DC 37; __4th__ [[talking corpse]]; __Constant__ __(5th)__ [[tongues]], [[2nd) speak with animals]], [[spider climb]];"
+    desc: "DC 37; __4th__ [[talking-corpse|talking corpse]]; __Constant__ __(5th)__ [[tongues]], [[2nd) speak with animals]], [[spider-climb|spider climb]];"
 sourcebook: "_Bestiary_, page 271."
 ```
 

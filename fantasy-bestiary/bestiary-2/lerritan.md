@@ -44,7 +44,7 @@ abilities_bot:
   - name: "Throw Rock"
     desc: "⬻  A lerritan can break stony scales off its body to throw; these scales reform at the end of each round, so the lerritan is never without a supply of rocks to hurl."
   - name: "Volcanic Eruption"
-    desc: "⬺ ([[earth]], [[evocation]], [[fire]], [[primal]]);  The volcano on the lerritan's back erupts and sends lava bombs raining down in a 30-foot emanation, dealing 12d12 (12d12) fire damage. Each creature in the area must attempt a DC 46 Reflex saving throw. The lava globules quickly cool into heavy stones, transforming the area into [[terrain|greater difficult terrain]] for non-lerritans. The lerritan can't use Volcanic Eruption for 1d4 (1d4) rounds.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature takes half damage and is [[rules/conditions.md#Encumbered|encumbered]] for 1 round.\n__Failure__ The creature takes full damage and is [[rules/conditions.md#Immobilized|immobilized]] ([[Escape]] DC 46).\n__Critical Failure__ The creature takes double damage and is encased in a rocky crust with lava on the inside. The creature is [[rules/conditions.md#Restrained|restrained]] ([[Escape]] DC 46), can't breathe, takes 3d12 (3d12) [[rules/conditions.md#Persistent%20Damage|persistent fire damage]], and can't recover from this [[rules/conditions.md#Persistent%20Damage|persistent fire damage]] until freed."
+    desc: "⬺ ([[earth]], [[evocation]], [[fire]], [[primal]]);  The volcano on the lerritan's back erupts and sends lava bombs raining down in a 30-foot emanation, dealing 12d12 (12d12) fire damage. Each creature in the area must attempt a DC 46 Reflex saving throw. The lava globules quickly cool into heavy stones, transforming the area into [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|greater difficult terrain]] for non-lerritans. The lerritan can't use Volcanic Eruption for 1d4 (1d4) rounds.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature takes half damage and is [[rules/conditions.md#Encumbered|encumbered]] for 1 round.\n__Failure__ The creature takes full damage and is [[rules/conditions.md#Immobilized|immobilized]] ([[Escape]] DC 46).\n__Critical Failure__ The creature takes double damage and is encased in a rocky crust with lava on the inside. The creature is [[rules/conditions.md#Restrained|restrained]] ([[Escape]] DC 46), can't breathe, takes 3d12 (3d12) [[rules/conditions.md#Persistent%20Damage|persistent fire damage]], and can't recover from this [[rules/conditions.md#Persistent%20Damage|persistent fire damage]] until freed."
 
 speed: 50 feet
 
@@ -68,7 +68,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 46; __Cantrips (10th)__ [[produce flame]]; __7th__ [[plane shift]] to the [[Material Plane]], [[Plane of Fire]], or [[Plane of Earth]] only; __8th__ [[earthquake]]; __9th__ [[meteor swarm]], [[fireball]]; __10th__ [[cataclysm]];"
+    desc: "DC 46; __Cantrips (10th)__ [[produce-flame|produce flame]]; __7th__ [[plane-shift|plane shift]] to the [[Material-Plane|Material Plane]], [[Plane-of-Fire|Plane of Fire]], or [[Plane-of-Earth|Plane of Earth]] only; __8th__ [[earthquake]]; __9th__ [[meteor-swarm|meteor swarm]], [[fireball]]; __10th__ [[cataclysm]];"
 sourcebook: "_Bestiary 2_, page 159."
 ```
 

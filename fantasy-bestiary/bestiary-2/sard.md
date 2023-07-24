@@ -73,7 +73,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 41; __7th__ [[chain lightning]] (3); __8th__ [[punishing winds]], [[tree stride]]; __9th__ [[storm of vengeance]];"
+    desc: "DC 41; __7th__ [[chain-lightning|chain lightning]] (3); __8th__ [[punishing-winds|punishing winds]], [[tree-stride|tree stride]]; __9th__ [[storm-of-vengeance|storm of vengeance]];"
 sourcebook: "_Bestiary 2_, page 231."
 ```
 

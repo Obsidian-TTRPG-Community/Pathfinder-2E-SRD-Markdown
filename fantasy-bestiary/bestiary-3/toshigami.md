@@ -66,7 +66,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 36; __4th__ [[status]]; __5th__ [[gentle repose]]; __6th__ [[restoration]], [[slow]], [[tree stride]] (at will) cherry trees only; __7th__ [[finger of death]], [[haste]], [[regenerate]]; __Constant__ __(9th)__ [[foresight]];"
+    desc: "DC 36; __4th__ [[status]]; __5th__ [[gentle-repose|gentle repose]]; __6th__ [[restoration]], [[slow]], [[tree-stride|tree stride]] (at will) cherry trees only; __7th__ [[finger-of-death|finger of death]], [[haste]], [[regenerate]]; __Constant__ __(9th)__ [[foresight]];"
 sourcebook: "_Bestiary 3_, page 145."
 ```
 

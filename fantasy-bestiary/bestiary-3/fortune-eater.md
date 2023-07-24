@@ -54,7 +54,7 @@ armorclass:
 hp: 100
 health:
   - name: HP
-    desc: "100; [[negative healing]], rejuvenation; __Immunities__ poison, precision, death effects, disease, paralyzed, unconscious; __Resistances__ all damage 5 except force, [[ghost touch]], or positive; double resistance vs. non-magical"
+    desc: "100; [[negative-healing-b2|negative healing]], rejuvenation; __Immunities__ poison, precision, death effects, disease, paralyzed, unconscious; __Resistances__ all damage 5 except force, [[ghost-touch|ghost touch]], or positive; double resistance vs. non-magical"
 
 
 attacks:

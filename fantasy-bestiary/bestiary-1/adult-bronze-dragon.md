@@ -71,7 +71,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 33; __2nd__ [[obscuring mist]] (at will); __Constant__ __(2nd)__ [[speak with animals]];"
+    desc: "DC 33; __2nd__ [[obscuring-mist|obscuring mist]] (at will); __Constant__ __(2nd)__ [[speak-with-animals|speak with animals]];"
 sourcebook: "_Bestiary_, page 120."
 ```
 

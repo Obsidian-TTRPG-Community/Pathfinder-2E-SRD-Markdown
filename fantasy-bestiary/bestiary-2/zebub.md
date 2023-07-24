@@ -57,7 +57,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 17; __Cantrips (2nd)__ [[message]]; __2nd__ [[invisibility]] (at will) self only, [[summon animal]] swarm creatures only; __4th__ [[dimension door]] (at will); __5th__ [[dimension door]];"
+    desc: "DC 17; __Cantrips (2nd)__ [[message]]; __2nd__ [[invisibility]] (at will) self only, [[summon-animal|summon animal]] swarm creatures only; __4th__ [[dimension-door|dimension door]] (at will); __5th__ [[dimension-door|dimension door]];"
 sourcebook: "_Bestiary 2_, page 72."
 ```
 

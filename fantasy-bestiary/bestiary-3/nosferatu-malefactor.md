@@ -56,7 +56,7 @@ armorclass:
 hp: 135
 health:
   - name: HP
-    desc: "135; fast healing 10 (page 305), [[negative healing]], plagued coffin; __Immunities__ poison, death effects, disease, paralyzed, sleep;"
+    desc: "135; fast healing 10 (page 305), [[negative-healing-b2|negative healing]], plagued coffin; __Immunities__ poison, death effects, disease, paralyzed, sleep;"
 
 
 attacks:
@@ -67,7 +67,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 29; __5th__ [[telekinetic haul]] (3);"
+    desc: "DC 29; __5th__ [[telekinetic-haul|telekinetic haul]] (3);"
 sourcebook: "_Bestiary 3_, page 285."
 ```
 

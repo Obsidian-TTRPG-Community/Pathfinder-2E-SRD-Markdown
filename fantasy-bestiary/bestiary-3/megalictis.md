@@ -31,7 +31,7 @@ abilityMods: [3, 4, 3, -4, 1, 0]
 
 abilities_top:
   - name: "Lithe"
-    desc: "  A weasel treats any tight space it can barely fit its head in or wider as [[terrain|difficult terrain]] and doesn't need to [[Squeeze]] to move through it."
+    desc: "  A weasel treats any tight space it can barely fit its head in or wider as [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] and doesn't need to [[Squeeze]] to move through it."
 abilities_bot:
   - name: "Constrict"
     desc: "⬻  1d12+2 (1d12+2) piercing, DC 20"

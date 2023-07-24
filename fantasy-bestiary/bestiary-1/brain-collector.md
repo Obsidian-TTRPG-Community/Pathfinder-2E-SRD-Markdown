@@ -62,7 +62,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Spontaneous Spells"
-    desc: "DC 26, attack +18; __Cantrips (4th)__ [[dancing lights]], [[detect magic]], [[mage-hand|mage hand]], [[prestidigitation]]; __1st__ (4 slots) [[mindlink]], [[ray of enfeeblement]], [[true strike]], [[unseen servant]]; __2nd__ (4 slots) [[humanoid form]], [[invisibility]], [[mirror image]], [[paranoia]]; __3rd__ (3 slots) [[dispel magic]], [[haste]], [[paralyze]]; __4th__ (2 slots) [[confusion]], [[phantasmal killer]];"
+    desc: "DC 26, attack +18; __Cantrips (4th)__ [[dancing-lights|dancing lights]], [[detect-magic|detect magic]], [[mage-hand|mage hand]], [[prestidigitation]]; __1st__ (4 slots) [[mindlink]], [[ray-of-enfeeblement|ray of enfeeblement]], [[true-strike|true strike]], [[unseen-servant|unseen servant]]; __2nd__ (4 slots) [[humanoid-form|humanoid form]], [[invisibility]], [[mirror-image|mirror image]], [[paranoia]]; __3rd__ (3 slots) [[dispel-magic|dispel magic]], [[haste]], [[paralyze]]; __4th__ (2 slots) [[confusion]], [[phantasmal-killer|phantasmal killer]];"
 sourcebook: "_Bestiary_, page 46."
 ```
 

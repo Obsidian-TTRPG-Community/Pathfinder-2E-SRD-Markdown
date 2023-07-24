@@ -34,7 +34,7 @@ abilityMods: [4, 0, 3, -2, 3, 0]
 
 abilities_top:
   - name: "Muddy Field"
-    desc: " ([[aura]]);  10 feet. The ground in the area is [[terrain|difficult terrain]] for all non-mudwretch creatures."
+    desc: " ([[aura]]);  10 feet. The ground in the area is [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] for all non-mudwretch creatures."
 abilities_mid:
   - name: "Susceptible to Desiccation"
     desc: "  If a mudwretch takes any damage from horrid wilting or a similar effect, takes 10 or more fire damage from a single effect, or spends more than 24 hours outside of a source of sufficient hydration (such as a swamp, river, well, or recent rainfall), it becomes dehydrated. While dehydrated, the mudwretch can't Spew Mud, is [[rules/conditions.md#Sickened|sickened 2]], and is [[rules/conditions.md#Slowed|slowed 1]] until it either fully immerses in water, spends 1 minute in the rain, or rehydrates in another way (such as via Gory Hydration)."

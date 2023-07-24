@@ -39,7 +39,7 @@ abilities_top:
     desc: "greatsword, full plate;"
 abilities_bot:
   - name: "Archon's Door"
-    desc: "  Once per day, if an archon sees another creature cast [[dimension door]], the archon can use dimension door (heightened to 5th level) within 1 round to attempt to follow that creature to the maximum distance of the archon's dimension door. If the archon's dimension door has enough distance, the archon appears the same distance and direction from the creature as before either creature used dimension door."
+    desc: "  Once per day, if an archon sees another creature cast [[dimension-door|dimension door]], the archon can use dimension door (heightened to 5th level) within 1 round to attempt to follow that creature to the maximum distance of the archon's dimension door. If the archon's dimension door has enough distance, the archon appears the same distance and direction from the creature as before either creature used dimension door."
   - name: "Change Shape"
     desc: "⬻ ([[concentrate]], [[divine]], [[polymorph]], [[transmutation]]);  A hound archon can take the appearance of any canid animal of Small to Large size. This doesn't change their Speed or the attack and damage bonuses for their [[Strike|Strikes]], but if the canid's bite attack has the Knockdown ability, then the hound archon's bite attack gains that ability while they are in that form."
   - name: "Diligent Assault"
@@ -65,7 +65,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 19; __Cantrips (2nd)__ [[message]]; __4th__ [[dimension door]]; __Constant__ __(5th)__ [[tongues]];"
+    desc: "DC 19; __Cantrips (2nd)__ [[message]]; __4th__ [[dimension-door|dimension door]]; __Constant__ __(5th)__ [[tongues]];"
 sourcebook: "_Bestiary 2_, page 22."
 ```
 

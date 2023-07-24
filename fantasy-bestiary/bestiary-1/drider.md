@@ -63,9 +63,9 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 20; __Cantrips (3rd)__ [[dancing lights]], [[detect magic]]; __2nd__ [[darkness]] (at will), [[faerie fire]] (at will); __3rd__ [[clairaudience]], [[dispel magic]], [[levitate]]; __4th__ [[clairvoyance]], [[suggestion]];"
+    desc: "DC 20; __Cantrips (3rd)__ [[dancing-lights|dancing lights]], [[detect-magic|detect magic]]; __2nd__ [[darkness]] (at will), [[faerie-fire|faerie fire]] (at will); __3rd__ [[clairaudience]], [[dispel-magic|dispel magic]], [[levitate]]; __4th__ [[clairvoyance]], [[suggestion]];"
   - name: "Arcane Prepared Spells"
-    desc: "DC 24, attack +17; __Cantrips (3rd)__ [[ghost sound]], [[mage-hand|mage hand]], [[ray of frost]]; __1st__ [[magic missile]] (2), [[ray of enfeeblement]]; __2nd__ [[acid arrow]], [[invisibility]]; __3rd__ [[fireball]];"
+    desc: "DC 24, attack +17; __Cantrips (3rd)__ [[ghost-sound|ghost sound]], [[mage-hand|mage hand]], [[ray-of-frost|ray of frost]]; __1st__ [[magic-missile|magic missile]] (2), [[ray-of-enfeeblement|ray of enfeeblement]]; __2nd__ [[acid-arrow|acid arrow]], [[invisibility]]; __3rd__ [[fireball]];"
 sourcebook: "_Bestiary_, page 159."
 ```
 

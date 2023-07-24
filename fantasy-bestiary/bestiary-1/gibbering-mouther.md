@@ -43,7 +43,7 @@ abilities_bot:
   - name: "Engulf"
     desc: "⬻  DC 22, 3d8 (3d8) piercing, [[Escape]] DC 22, Rupture 8."
   - name: "Ground Manipulation"
-    desc: "⬺ ([[occult]], [[transmutation]]);  The gibbering mouther causes stone and earth under its body to grow soft and muddy, remaining so for 1 minute after the mouther moves off the location. A gibbering mouther can move through these areas with ease, but other creatures treat them as [[terrain|difficult terrain]]."
+    desc: "⬺ ([[occult]], [[transmutation]]);  The gibbering mouther causes stone and earth under its body to grow soft and muddy, remaining so for 1 minute after the mouther moves off the location. A gibbering mouther can move through these areas with ease, but other creatures treat them as [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]]."
 
 speed: 10 feet, swim 20 feet
 

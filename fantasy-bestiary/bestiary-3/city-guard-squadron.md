@@ -46,9 +46,9 @@ abilities_bot:
   - name: "Lower Halberds!"
     desc: "⬻ to ⬽ __Frequency__ once per round  __Effect__  The city guards engage in a coordinated melee attack against each enemy within 10 feet, with a DC 19 basic Reflex save. The damage depends on the number of actions. ⬻ 1d10 (1d10) piercing or slashing damage ⬺ 1d10+7 (1d10+7) piercing or slashing damage ⬽ 1d10+10 (1d10+10) piercing or slashing damage."
   - name: "Troop Movement"
-    desc: "  Whenever the city guards [[Stride]], they first Form Up as a free action to condense into a 20-foot-by-20-foot area (minus any missing squares), then move up to their Speed. This works just like a Gargantuan creature moving; for instance, if any square of the guards enters [[terrain|difficult terrain]], the extra movement cost applies to all the guards."
+    desc: "  Whenever the city guards [[Stride]], they first Form Up as a free action to condense into a 20-foot-by-20-foot area (minus any missing squares), then move up to their Speed. This works just like a Gargantuan creature moving; for instance, if any square of the guards enters [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]], the extra movement cost applies to all the guards."
   - name: "Urban Chasers"
-    desc: "  City guards ignore [[terrain|difficult terrain]] (but not [[terrain|greater difficult terrain]]) caused by crowds or from movement through narrow spaces such as alleyways."
+    desc: "  City guards ignore [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] (but not [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|greater difficult terrain]]) caused by crowds or from movement through narrow spaces such as alleyways."
 
 speed: 25 feet; troop movement;
 

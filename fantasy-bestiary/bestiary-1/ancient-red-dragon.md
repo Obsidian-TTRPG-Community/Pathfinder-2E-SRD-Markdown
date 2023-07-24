@@ -78,7 +78,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 42; __Cantrips (9th)__ [[detect magic]], [[read aura]]; __4th__ [[suggestion]] (at will);"
+    desc: "DC 42; __Cantrips (9th)__ [[detect-magic|detect magic]], [[read-aura|read aura]]; __4th__ [[suggestion]] (at will);"
 sourcebook: "_Bestiary_, page 112."
 ```
 

@@ -50,9 +50,9 @@ abilities_bot:
   - name: "Draconic Momentum"
     desc: "  The dragon recharges its Breath Weapon whenever it scores a critical hit with a [[Strike]]."
   - name: "Trackless Step"
-    desc: "  The green dragon always gains the benefits of [[Cover Tracks]] in natural surroundings, even while moving at full speed."
+    desc: "  The green dragon always gains the benefits of [[Cover-Tracks|Cover Tracks]] in natural surroundings, even while moving at full speed."
   - name: "Woodland Stride"
-    desc: "  The green dragon ignores [[terrain|difficult terrain]] and [[terrain|greater difficult terrain]] from non-magical foliage."
+    desc: "  The green dragon ignores [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] and [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|greater difficult terrain]] from non-magical foliage."
 
 speed: 50 feet, fly 200 feet, swim 50 feet; trackless step, woodland stride;
 

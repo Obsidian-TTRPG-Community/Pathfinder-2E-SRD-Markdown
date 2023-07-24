@@ -63,7 +63,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Prepared Spells"
-    desc: "DC 29, attack +21; __Cantrips (5th)__ [[daze]], [[detect magic]], [[mage-hand|mage hand]], [[ray of frost]], [[read aura]]; __1st__ [[feather fall]], [[fleet step]], [[ray of enfeeblement]]; __2nd__ [[comprehend language]], [[see invisibility]], [[web]]; __3rd__ [[slow]], [[vampiric touch]] (2); __4th__ [[clairvoyance]], [[enervation]] (2); __5th__ [[black tentacles]], [[grim tendrils]], [[passwall]];"
+    desc: "DC 29, attack +21; __Cantrips (5th)__ [[daze]], [[detect-magic|detect magic]], [[mage-hand|mage hand]], [[ray-of-frost|ray of frost]], [[read-aura|read aura]]; __1st__ [[feather-fall|feather fall]], [[fleet-step|fleet step]], [[ray-of-enfeeblement|ray of enfeeblement]]; __2nd__ [[comprehend-language|comprehend language]], [[see-invisibility|see invisibility]], [[web]]; __3rd__ [[slow]], [[vampiric-touch|vampiric touch]] (2); __4th__ [[clairvoyance]], [[enervation]] (2); __5th__ [[black-tentacles|black tentacles]], [[grim-tendrils|grim tendrils]], [[passwall]];"
 sourcebook: "_Bestiary 3_, page 209."
 ```
 

@@ -42,7 +42,7 @@ abilities_bot:
   - name: "Raking Sand"
     desc: "⬻ __Requirements__ The zaramuun hit with a melee [[Strike]] with its last action, or it has a creature Engulfed.  __Effect__  The zaramuun attempts to [[Disarm]] one primarily metal or stone object from the Struck or Engulfed creature and casts its innate dimensional anchor on the target creature."
   - name: "Sand Glide"
-    desc: "  The zaramuun can [[Burrow]] through sand and dirt (but not stone) at its full burrow Speed, leaving no tunnel or sign of its passing. Any Engulfed creatures are left behind when it Burrows. Loose sand and scree are not [[terrain|difficult terrain]] for a zaramuun."
+    desc: "  The zaramuun can [[Burrow]] through sand and dirt (but not stone) at its full burrow Speed, leaving no tunnel or sign of its passing. Any Engulfed creatures are left behind when it Burrows. Loose sand and scree are not [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] for a zaramuun."
   - name: "Sandblast"
     desc: "⬺ ([[earth]]);  The zaramuun sprays a blast of sand that deals 11d10 (11d10) slashing damage to all creatures in a 60-foot line (Reflex DC 38). It can't Sandblast again for 1d4 (1d4) rounds.\n__Critical Success__ No effect.\n__Success__ Half damage.\n__Failure__ Full damage.\n__Critical Failure__ Full damage and [[rules/conditions.md#Blinded|blinded]] for 1 round."
 
@@ -66,7 +66,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 37, attack +31; __4th__ [[suggestion]] (at will); __6th__ [[disintegrate]], [[spirit blast]]; __8th__ [[dimensional anchor]] (at will); __Constant__ __(8th)__ [[dimensional anchor]];"
+    desc: "DC 37, attack +31; __4th__ [[suggestion]] (at will); __6th__ [[disintegrate]], [[spirit-blast|spirit blast]]; __8th__ [[dimensional-anchor|dimensional anchor]] (at will); __Constant__ __(8th)__ [[dimensional-anchor|dimensional anchor]];"
 sourcebook: "_Bestiary_, page 339."
 ```
 

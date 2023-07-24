@@ -66,7 +66,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 36, attack +28; __Cantrips (7th)__ [[ghost sound]], [[mage-hand|mage hand]]; __5th__ [[clairaudience]] (at will), [[clairvoyance]] (at will), [[telekinetic haul]], [[telekinetic maneuver]], [[ventriloquism]] (at will); __6th__ [[animated assault]], [[dominate]];"
+    desc: "DC 36, attack +28; __Cantrips (7th)__ [[ghost-sound|ghost sound]], [[mage-hand|mage hand]]; __5th__ [[clairaudience]] (at will), [[clairvoyance]] (at will), [[telekinetic-haul|telekinetic haul]], [[telekinetic-maneuver|telekinetic maneuver]], [[ventriloquism]] (at will); __6th__ [[animated-assault|animated assault]], [[dominate]];"
 sourcebook: "_Bestiary 3_, page 206."
 ```
 

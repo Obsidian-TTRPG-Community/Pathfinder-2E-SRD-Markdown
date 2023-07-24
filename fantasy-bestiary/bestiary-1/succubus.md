@@ -64,7 +64,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 26; __1st__ [[charm]] (at will); __2nd__ [[detect alignment]] (at will); __3rd__ [[mind reading]] (at will); __4th__ [[dimension door]] (at will), [[suggestion]] (at will); __5th__ [[dimension door]]; __6th__ [[dominate]]; __Constant__ __(5th)__ [[tongues]];"
+    desc: "DC 26; __1st__ [[charm]] (at will); __2nd__ [[detect-alignment|detect alignment]] (at will); __3rd__ [[mind-reading|mind reading]] (at will); __4th__ [[dimension-door|dimension door]] (at will), [[suggestion]] (at will); __5th__ [[dimension-door|dimension door]]; __6th__ [[dominate]]; __Constant__ __(5th)__ [[tongues]];"
 sourcebook: "_Bestiary_, page 77."
 ```
 

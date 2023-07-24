@@ -42,7 +42,7 @@ abilities_bot:
   - name: "Pack Attack"
     desc: "  The hunter's [[Strike|Strikes]] deal an additional 1d8 (1d8) damage to creatures within reach of at least two of the hunter's allies."
   - name: "Smooth Swimmer"
-    desc: "  The locathah hunter ignores [[terrain|difficult terrain]] caused by aquatic terrain features."
+    desc: "  The locathah hunter ignores [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] caused by aquatic terrain features."
 abilities_top:
   - name: Items
     desc: "crossbow (12 fan bolts), longspear, scale mail;"

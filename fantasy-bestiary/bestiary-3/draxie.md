@@ -55,7 +55,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 20; __Cantrips (1st)__ [[dancing lights]], [[ghost sound]], [[prestidigitation]]; __1st__ [[illusory disguise]] (3); __2nd__ [[faerie fire]], [[invisibility]];"
+    desc: "DC 20; __Cantrips (1st)__ [[dancing-lights|dancing lights]], [[ghost-sound|ghost sound]], [[prestidigitation]]; __1st__ [[illusory-disguise|illusory disguise]] (3); __2nd__ [[faerie-fire|faerie fire]], [[invisibility]];"
 sourcebook: "_Bestiary 3_, page 255."
 ```
 

@@ -36,7 +36,7 @@ abilities_top:
     desc: " ([[divination]], [[divine]]);  A velstrac automatically knows whether a creature it sees has any of the [[rules/conditions.md#Doomed|doomed]], [[rules/conditions.md#Dying|dying]], and [[rules/conditions.md#Wounded|wounded]] conditions, as well as the value of those conditions."
 abilities_mid:
   - name: "Ignore Pain"
-    desc: "  An eremite's actions can't be disrupted due to damage or [[Strike|Strikes]] (such as [[Attack of Opportunity]])."
+    desc: "  An eremite's actions can't be disrupted due to damage or [[Strike|Strikes]] (such as [[Attack-of-Opportunity|Attack of Opportunity]])."
   - name: "Paralytic Perfection"
     desc: " ([[aura]], [[divine]], [[enchantment]], [[fear]], [[incapacitation]], [[mental]], [[visual]]);  30 feet. When a creature ends its turn in the aura, it feels compelled to offer pieces of its own flesh to the eremite. The creature must succeed at a DC 40 Will save or become [[rules/conditions.md#Paralyzed|paralyzed]] for 1 round."
 abilities_bot:
@@ -67,11 +67,11 @@ attacks:
   - name: Melee
     desc: "⬻ jaws +39 ([[evil]], [[magical]]); __Damage__ 4d8+19 (4d8+19) piercing plus 2d6 (2d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed]] and exquisite pain"
   - name: Melee
-    desc: "⬻ claw +39 ([[agile]], [[evil]], [[magical]]); __Damage__ 3d6+19 (3d6+19) slashing plus 2d6 (2d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed]], exquisite pain, and [[Improved Grab]]"
+    desc: "⬻ claw +39 ([[agile]], [[evil]], [[magical]]); __Damage__ 3d6+19 (3d6+19) slashing plus 2d6 (2d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed]], exquisite pain, and [[Improved-Grab|Improved Grab]]"
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 42; __7th__ [[dimension door]] (at will), [[dimensional lock]], [[plane shift]] to Material Plane or Shadow Plane only, [[shadow siphon]] (at will), [[warp mind]]; __9th__ [[bind soul]], [[blade barrier]], [[harm]] (2), [[heal]] (2), [[shadow blast]], [[shadow walk]] (at will); __Constant__ __(9th)__ [[true seeing]];"
+    desc: "DC 42; __7th__ [[dimension-door|dimension door]] (at will), [[dimensional-lock|dimensional lock]], [[plane-shift|plane shift]] to Material Plane or Shadow Plane only, [[shadow-siphon|shadow siphon]] (at will), [[warp-mind|warp mind]]; __9th__ [[bind-soul|bind soul]], [[blade-barrier|blade barrier]], [[harm]] (2), [[heal]] (2), [[shadow-blast|shadow blast]], [[shadow-walk|shadow walk]] (at will); __Constant__ __(9th)__ [[true-seeing|true seeing]];"
 sourcebook: "_Bestiary 2_, page 285."
 ```
 

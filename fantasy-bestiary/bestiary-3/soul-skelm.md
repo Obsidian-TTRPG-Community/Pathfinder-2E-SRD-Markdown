@@ -67,7 +67,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 29; __2nd__ [[invisibility]] (at will), [[silence]] (at will); __4th__ [[dimension door]] (at will); __5th__ [[harm]], [[illusory creature]], [[mind probe]], [[modify memory]]; __7th__ [[plane shift]] self only; Astral or Material Plane only;"
+    desc: "DC 29; __2nd__ [[invisibility]] (at will), [[silence]] (at will); __4th__ [[dimension-door|dimension door]] (at will); __5th__ [[harm]], [[illusory-creature|illusory creature]], [[mind-probe|mind probe]], [[modify-memory|modify memory]]; __7th__ [[plane-shift|plane shift]] self only; Astral or Material Plane only;"
 sourcebook: "_Bestiary 3_, page 241."
 ```
 

@@ -59,7 +59,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 22; __3rd__ [[vampiric touch]]; __Constant__ __(4th)__ [[speak with plants]];"
+    desc: "DC 22; __3rd__ [[vampiric-touch|vampiric touch]]; __Constant__ __(4th)__ [[speak-with-plants|speak with plants]];"
 sourcebook: "_Bestiary 3_, page 20."
 ```
 

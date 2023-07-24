@@ -63,7 +63,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 20; __Cantrips (2nd)__ [[chill-touch|chill touch]] undead only, [[disrupt undead]]; __2nd__ [[gentle repose]];"
+    desc: "DC 20; __Cantrips (2nd)__ [[chill-touch|chill touch]] undead only, [[disrupt-undead|disrupt undead]]; __2nd__ [[gentle-repose|gentle repose]];"
 sourcebook: "_Bestiary 3_, page 96."
 ```
 

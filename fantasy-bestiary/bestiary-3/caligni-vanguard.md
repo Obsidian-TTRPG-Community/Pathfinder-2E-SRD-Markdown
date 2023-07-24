@@ -44,7 +44,7 @@ abilities_mid:
     desc: "  When the vanguard dies, their body combusts in a blaze of fire and armor shrapnel. All creatures within a 10-foot emanation take 3d6 (3d6) fire damage and 3d6 (3d6) piercing damage (DC 19 basic Reflex save). The vanguard's armor is destroyed in the blaze, but their other gear is unaffected and left in a pile where they died."
 abilities_bot:
   - name: "Call to Arms"
-    desc: "⬻ ([[auditory]], [[mental]]);  Each caligni within 30 feet of the vanguard gains the Attack of Opportunity reaction until the end of the vanguard's next turn. Once a caligni has used this [[Attack of Opportunity]], that caligni is temporarily immune to the same vanguard's Call to Arms for 10 minutes."
+    desc: "⬻ ([[auditory]], [[mental]]);  Each caligni within 30 feet of the vanguard gains the Attack of Opportunity reaction until the end of the vanguard's next turn. Once a caligni has used this [[Attack-of-Opportunity|Attack of Opportunity]], that caligni is temporarily immune to the same vanguard's Call to Arms for 10 minutes."
   - name: "Shadowed Blade"
     desc: "⬺ ([[darkness]]);  The vanguard makes a melee [[Strike]], channeling shadowy essence into their weapon or unarmed attack to envelop the target. If the [[Strike]] hits, the target must succeed at a DC 19 Fortitude save or become [[rules/conditions.md#Blinded|blinded]] until the end of its next turn."
 

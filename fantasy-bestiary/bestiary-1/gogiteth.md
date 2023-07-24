@@ -55,7 +55,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +26 __Damage__ 3d10+12 (3d10+12) piercing plus [[Improved Grab]]"
+    desc: "⬻ jaws +26 __Damage__ 3d10+12 (3d10+12) piercing plus [[Improved-Grab|Improved Grab]]"
   - name: Melee
     desc: "⬻ leg +26 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 3d6+12 (3d6+12) piercing"
 
