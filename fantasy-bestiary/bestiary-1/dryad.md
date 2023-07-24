@@ -35,7 +35,7 @@ abilityMods: [0, 4, 1, 2, 3, 4]
 
 abilities_top:
   - name: "Nature Empathy"
-    desc: "  The dryad can use [[Diplomacy]] to [[Make an Impression]] on and make very simple Requests of animals and plants."
+    desc: "  The dryad can use [[compendium/skills.md#Diplomacy|Diplomacy]] to [[Make an Impression]] on and make very simple Requests of animals and plants."
 abilities_mid:
   - name: "Tree Dependent"
     desc: "  A dryad is mystically bonded to a single great tree and must remain within 300 feet of it. If she moves beyond that range, she becomes [[rules/conditions.md#Sickened|sickened 1]] and is unable to recover. She must attempt a DC 18 Fortitude save every hour or increase the [[rules/conditions.md#Sickened|sickened]] value by 1 (to a maximum of [[rules/conditions.md#Sickened|sickened 4]]). After 24 hours, she becomes [[rules/conditions.md#Drained|drained 1]], with this value increasing by 1 every additional 24 hours. A dryad can perform a 24-hour ritual to bond herself to a new tree."

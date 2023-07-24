@@ -31,7 +31,7 @@ abilityMods: [-1, 4, 1, -4, 3, 0]
 
 abilities_mid:
   - name: "Fade Away"
-    desc: "⬲ __Requirements__ The fading fox is in natural surroundings __Trigger__ A creature within 30 feet that the fading fox is aware of either moves toward the fox or targets it with an ability __Effect__  The fading fox Hides. If its [[Stealth]] check result meets or exceeds the triggering creature's [[Perception]] DC, the fading fox is [[rules/conditions.md#Hidden|hidden]] to that creature. The fading fox can use this reaction even if it is being [[rules/conditions.md#Observed|observed]]."
+    desc: "⬲ __Requirements__ The fading fox is in natural surroundings __Trigger__ A creature within 30 feet that the fading fox is aware of either moves toward the fox or targets it with an ability __Effect__  The fading fox Hides. If its [[compendium/skills.md#Stealth|Stealth]] check result meets or exceeds the triggering creature's [[compendium/skills.md#Perception|Perception]] DC, the fading fox is [[rules/conditions.md#Hidden|hidden]] to that creature. The fading fox can use this reaction even if it is being [[rules/conditions.md#Observed|observed]]."
 abilities_bot:
   - name: "Leaping Pounce"
     desc: "⬻  The red fox either [[Stride|Strides]] or Leaps up to its Speed and makes a [[Strike]] at the end of that movement. If the fox began this action [[rules/conditions.md#Hidden|hidden]], it remains [[rules/conditions.md#Hidden|hidden]] until after this ability's [[Strike]]."

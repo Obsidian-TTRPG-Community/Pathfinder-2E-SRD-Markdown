@@ -32,7 +32,7 @@ abilityMods: [4, 3, 3, 0, 2, 3]
 
 abilities_bot:
   - name: "Assume Form"
-    desc: " ([[concentrate]], [[occult]], [[polymorph]], [[transmutation]]);  The faceless stalker spends 10 minutes reshaping its appearance to take on the shape of any Small or Medium humanoid. It gains a +4 circumstance bonus to [[Deception]] checks to pass as that creature."
+    desc: " ([[concentrate]], [[occult]], [[polymorph]], [[transmutation]]);  The faceless stalker spends 10 minutes reshaping its appearance to take on the shape of any Small or Medium humanoid. It gains a +4 circumstance bonus to [[compendium/skills.md#Deception|Deception]] checks to pass as that creature."
   - name: "Blood Nourishment"
     desc: "⬻  The faceless stalker uses its three-pronged tongue to drink the blood of an adjacent [[rules/conditions.md#Restrained|restrained]] or [[rules/conditions.md#Unconscious|unconscious]] creature. The creature gains [[rules/conditions.md#Drained|drained 1]]."
   - name: "Compression"

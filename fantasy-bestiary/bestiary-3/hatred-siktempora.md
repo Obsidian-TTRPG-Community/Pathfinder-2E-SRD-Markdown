@@ -39,7 +39,7 @@ abilities_mid:
   - name: "Impending Dread"
     desc: " ([[aura]], [[emotion]], [[fear]], [[mental]], [[occult]]);  150 feet. Creatures within the hatred siktempora's aura don't reduce the value of their [[rules/conditions.md#Frightened|frightened]] condition automatically at the end of their turns."
   - name: "Uncanny Pounce"
-    desc: "⭓ __Trigger__ The misery siktempora rolls Dimension of [[Lore|Time Lore]] for initiative __Effect__  The misery siktempora [[Stride|Strides]] once and makes a claw [[Strike]], in either order."
+    desc: "⭓ __Trigger__ The misery siktempora rolls Dimension of [[compendium/skills.md#Lore|Time Lore]] for initiative __Effect__  The misery siktempora [[Stride|Strides]] once and makes a claw [[Strike]], in either order."
   - name: "Punish Flight"
     desc: "⬲ __Trigger__ A creature attempts to [[Escape]] from the hatred siktempora __Effect__  The siktempora makes a loathing garotte [[Strike]] against the triggering creature. This [[Strike]] doesn't have [[Improved Grab]]."
 abilities_bot:

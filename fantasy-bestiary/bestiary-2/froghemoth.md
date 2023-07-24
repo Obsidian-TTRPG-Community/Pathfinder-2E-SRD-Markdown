@@ -33,7 +33,7 @@ abilityMods: [8, 6, 7, -4, 6, 4]
 
 abilities_top:
   - name: "Otherworldly Vision"
-    desc: "  A froghemoth's alien eyes allow it to perceive creatures within 30 feet, even if they are [[rules/conditions.md#Invisible|invisible]] or ethereal. It can still be fooled by successful [[Stealth]] checks to [[Hide]], but it has [[Perception]] DC 38 in such cases. It also sees through and is unaffected by illusions with the [[visual]] trait if they are within 30 feet."
+    desc: "  A froghemoth's alien eyes allow it to perceive creatures within 30 feet, even if they are [[rules/conditions.md#Invisible|invisible]] or ethereal. It can still be fooled by successful [[compendium/skills.md#Stealth|Stealth]] checks to [[Hide]], but it has [[compendium/skills.md#Perception|Perception]] DC 38 in such cases. It also sees through and is unaffected by illusions with the [[visual]] trait if they are within 30 feet."
 abilities_mid:
   - name: "Electric Torpor"
     desc: "  Though a froghemoth is immune to electricity damage, it is [[rules/conditions.md#Slowed|slowed 1]] for 1 round whenever it would have otherwise taken electricity damage."
@@ -47,7 +47,7 @@ abilities_bot:
   - name: "Greater Constrict"
     desc: "⬻  3d6+12 (3d6+12), DC 33."
   - name: "Retract Tongue"
-    desc: "⬺  The froghemoth pulls a creature [[rules/conditions.md#Grabbed|grabbed]] by its tongue toward itself. The froghemoth rolls an [[Athletics]] check against the creature's Fortitude DC. On a success, the froghemoth pulls the creature into an adjacent space, and if it critically succeeds it can also make a bite [[Strike]] against the creature after the pull."
+    desc: "⬺  The froghemoth pulls a creature [[rules/conditions.md#Grabbed|grabbed]] by its tongue toward itself. The froghemoth rolls an [[compendium/skills.md#Athletics|Athletics]] check against the creature's Fortitude DC. On a success, the froghemoth pulls the creature into an adjacent space, and if it critically succeeds it can also make a bite [[Strike]] against the creature after the pull."
   - name: "Swallow Whole"
     desc: "⬻ ([[attack]]);  Large, 3d6+9 (3d6+9) bludgeoning, Rupture 24."
 

@@ -34,7 +34,7 @@ abilityMods: [5, 0, 3, 0, 2, 2]
 
 abilities_top:
   - name: "Seek Quarry"
-    desc: "  City guards can spend 1 minute to designate a single creature for whom they have a physical description as their quarry. They gain a +2 circumstance bonus to [[Perception]] against their quarry."
+    desc: "  City guards can spend 1 minute to designate a single creature for whom they have a physical description as their quarry. They gain a +2 circumstance bonus to [[compendium/skills.md#Perception|Perception]] against their quarry."
 abilities_mid:
   - name: "Troop Defenses"
     desc: " "

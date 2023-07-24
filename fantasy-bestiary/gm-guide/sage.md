@@ -33,7 +33,7 @@ abilityMods: [2, 2, 1, 4, 3, 0]
 
 abilities_top:
   - name: "Religion"
-    desc: "  +12, [[Society]] +14 Str +2, Dex +2, Con +1, Int +4, Wis +3, Cha +0 Items religious symbol, +1 staff."
+    desc: "  +12, [[compendium/skills.md#Society|Society]] +14 Str +2, Dex +2, Con +1, Int +4, Wis +3, Cha +0 Items religious symbol, +1 staff."
   - name: Items
     desc: "religious symbol, +1 staff;"
 abilities_mid:
@@ -41,7 +41,7 @@ abilities_mid:
     desc: "⬲ ([[auditory]], [[concentrate]], [[linguistic]], [[mental]]); __Trigger__ An ally is about to attempt an attack roll or skill check and has not yet rolled __Effect__  The sage gives the ally a savvy piece of advice, providing valuable insight. The ally gains a +2 circumstance bonus to the triggering roll."
 abilities_bot:
   - name: "Sage's Analysis"
-    desc: "⬻ ([[concentrate]]);  The sage studies a creature, attempting an [[Arcana]], [[Nature]], [[Occultism]], [[Religion]], or [[Society]] check against the creature's [[Recall Knowledge]] DC. On a success, the sage gains a +2 circumstance bonus to attack rolls and AC against that creature and deals an additional 2d6 (2d6) damage to the creature with weapon attacks. These benefits last for 1 minute or until the sage uses this ability again."
+    desc: "⬻ ([[concentrate]]);  The sage studies a creature, attempting an [[compendium/skills.md#Arcana|Arcana]], [[compendium/skills.md#Nature|Nature]], [[compendium/skills.md#Occultism|Occultism]], [[compendium/skills.md#Religion|Religion]], or [[compendium/skills.md#Society|Society]] check against the creature's [[Recall Knowledge]] DC. On a success, the sage gains a +2 circumstance bonus to attack rolls and AC against that creature and deals an additional 2d6 (2d6) damage to the creature with weapon attacks. These benefits last for 1 minute or until the sage uses this ability again."
 
 speed: 25 feet
 

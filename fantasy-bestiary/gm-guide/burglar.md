@@ -42,7 +42,7 @@ abilities_bot:
   - name: "Sneak Attack"
     desc: "  The burglar deals an extra 1d6 (1d6) precision damage to flatfooted creatures."
   - name: "Surprise Attack"
-    desc: "  On the first round of combat, if the burglar rolls [[Deception]] or [[Stealth]] for initiative, creatures that haven't acted are [[rules/conditions.md#Flat-Footed|flat-footed]] to them."
+    desc: "  On the first round of combat, if the burglar rolls [[compendium/skills.md#Deception|Deception]] or [[compendium/skills.md#Stealth|Stealth]] for initiative, creatures that haven't acted are [[rules/conditions.md#Flat-Footed|flat-footed]] to them."
 
 speed: 30 feet
 

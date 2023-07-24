@@ -35,7 +35,7 @@ abilities_mid:
     desc: " ([[abjuration]], [[aura]], [[occult]]);  60 feet. A creature that uses a teleportation ability within the aura's emanation or enters it via a teleportation ability must succeed a DC 38 Will save or become [[rules/conditions.md#Sickened|sickened 1]] and have its destination changed to a point of the radiant warden's choosing within the emanation. On a successful save, the creature arrives as intended but is still [[rules/conditions.md#Sickened|sickened 1]]."
 abilities_bot:
   - name: "Orrery"
-    desc: "⬻ ([[concentrate]]);  Until it acts, the radiant warden appears to be an orrery (or similar large mechanical contraption, such as a telescope). It has an automatic result of 53 on [[Deception]] checks and DCs to convincingly pass as such a machine."
+    desc: "⬻ ([[concentrate]]);  Until it acts, the radiant warden appears to be an orrery (or similar large mechanical contraption, such as a telescope). It has an automatic result of 53 on [[compendium/skills.md#Deception|Deception]] checks and DCs to convincingly pass as such a machine."
   - name: "Radiant Blast"
     desc: "⬺ ([[evocation]], [[force]], [[occult]]);  The radiant warden releases a 50-foot cone of bright energy that deals 10d12 (10d12) force damage (DC 38 basic Reflex save). The radiant warden can't use Radiant Blast for 1d4 (1d4) rounds."
   - name: "Radiant Blow"

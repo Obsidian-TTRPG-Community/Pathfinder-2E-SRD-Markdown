@@ -48,7 +48,7 @@ abilities_bot:
   - name: "Draconic Momentum"
     desc: "  The dragon recharges their Breath Weapon whenever they score a critical hit with a [[Strike]]."
   - name: "Perfected Flight"
-    desc: "  A sky dragon can hover in place without spending an action, and they automatically succeed at all [[Acrobatics]] checks to [[Maneuver in Flight]]."
+    desc: "  A sky dragon can hover in place without spending an action, and they automatically succeed at all [[compendium/skills.md#Acrobatics|Acrobatics]] checks to [[Maneuver in Flight]]."
 
 speed: 30 feet, fly 120 feet
 

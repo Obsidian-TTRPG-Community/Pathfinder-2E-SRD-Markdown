@@ -33,7 +33,7 @@ abilityMods: [0, 3, 0, 2, 1, 4]
 
 abilities_top:
   - name: "Versatile Performance"
-    desc: "  The charlatan can use [[Performance]] instead of [[Diplomacy]] to [[Make an Impression]] and instead of [[Intimidation]] to [[Demoralize]]. They can also use an acting [[Performance]] instead of [[Deception]] to [[Impersonate]]."
+    desc: "  The charlatan can use [[compendium/skills.md#Performance|Performance]] instead of [[compendium/skills.md#Diplomacy|Diplomacy]] to [[Make an Impression]] and instead of [[compendium/skills.md#Intimidation|Intimidation]] to [[Demoralize]]. They can also use an acting [[compendium/skills.md#Performance|Performance]] instead of [[compendium/skills.md#Deception|Deception]] to [[Impersonate]]."
   - name: Items
     desc: "disguise kit, lute, sap, shortsword, thieves' tools;"
 abilities_bot:

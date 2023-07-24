@@ -33,7 +33,7 @@ abilityMods: [0, 2, 0, 3, 2, 1]
 
 abilities_top:
   - name: "Focused Thinker"
-    desc: "⬻ ([[concentrate]]);  The adept focuses inward to muster knowledge and wisdom. While in this state of concentration, they gain a +2 status bonus to checks to [[Recall-Knowledge|Recall Knowledge]], but take a –2 penalty to [[Perception]]. They can end their focused state with a single action, which has the [[concentrate]] trait."
+    desc: "⬻ ([[concentrate]]);  The adept focuses inward to muster knowledge and wisdom. While in this state of concentration, they gain a +2 status bonus to checks to [[Recall-Knowledge|Recall Knowledge]], but take a –2 penalty to [[compendium/skills.md#Perception|Perception]]. They can end their focused state with a single action, which has the [[concentrate]] trait."
   - name: Items
     desc: "journal, robes, scroll case, writing set;"
 

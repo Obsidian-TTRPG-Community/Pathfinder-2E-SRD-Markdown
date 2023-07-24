@@ -38,7 +38,7 @@ abilities_mid:
     desc: "  A domovoi is naturally [[rules/conditions.md#Invisible|invisible]] while within sight of their bound home. The domovoi can become visible, or even selectively visible—allowing some people to see them."
 abilities_bot:
   - name: "Home Guardian"
-    desc: "  By commanding their home to attack, the domovoi can [[Grapple]], [[Shove]], [[Trip]], and [[Disarm]] with their enraged home [[Strike]]. The domovoi uses their [[Lore|Household Lore]] instead of [[Athletics]] skill for these checks."
+    desc: "  By commanding their home to attack, the domovoi can [[Grapple]], [[Shove]], [[Trip]], and [[Disarm]] with their enraged home [[Strike]]. The domovoi uses their [[compendium/skills.md#Lore|Household Lore]] instead of [[compendium/skills.md#Athletics|Athletics]] skill for these checks."
 
 speed: 20 feet
 

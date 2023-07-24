@@ -34,12 +34,12 @@ abilityMods: [7, 5, 4, 4, 7, 5]
 
 abilities_top:
   - name: "Temporal Sense"
-    desc: "  A siktempora can always roll [[Lore|Dimension of Time Lore]] for initiative. When it does, it gains a +2 circumstance bonus to the roll."
+    desc: "  A siktempora can always roll [[compendium/skills.md#Lore|Dimension of Time Lore]] for initiative. When it does, it gains a +2 circumstance bonus to the roll."
 abilities_mid:
   - name: "Slash the Suffering"
     desc: "  Creatures with the [[rules/conditions.md#Confused|confused]] or [[rules/conditions.md#Stupefied|stupefied]] condition are [[rules/conditions.md#Flat-Footed|flat-footed]] to the misery siktempora."
   - name: "Uncanny Pounce"
-    desc: "⭓ __Trigger__ The misery siktempora rolls Dimension of [[Lore|Time Lore]] for initiative __Effect__  The misery siktempora [[Stride|Strides]] once and makes a claw [[Strike]], in either order."
+    desc: "⭓ __Trigger__ The misery siktempora rolls Dimension of [[compendium/skills.md#Lore|Time Lore]] for initiative __Effect__  The misery siktempora [[Stride|Strides]] once and makes a claw [[Strike]], in either order."
 abilities_bot:
   - name: "Inflict Misery"
     desc: "⬻ ([[emotion]], [[enchantment]], [[mental]], [[occult]]); __Requirements__ The misery siktempora's last action was a claw [[Strike]] that damaged the target  __Effect__  The misery siktempora fills the target's thoughts with abject despair. The target must attempt a DC 32 Will save. Regardless of outcome, the target is then immune to Inflict Misery for 1 minute.\n__Success__ The target is unaffected.\n__Failure__ The target is [[rules/conditions.md#Clumsy|clumsy 2]], [[rules/conditions.md#Enfeebled|enfeebled 2]], and [[rules/conditions.md#Stupefied|stupefied 2]] for 1 round.\n__Critical Failure__ As failure, but for 1 minute."

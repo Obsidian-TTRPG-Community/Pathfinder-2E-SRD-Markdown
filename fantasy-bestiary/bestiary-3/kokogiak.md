@@ -32,7 +32,7 @@ abilityMods: [7, 5, 7, 1, 5, 5]
 
 abilities_top:
   - name: "Voice Imitation"
-    desc: "  Kokogiaks can mimic the sounds of a person in distress by attempting a [[Deception]] check to [[Lie]]. The kokogiak has a +4 circumstance bonus to this check."
+    desc: "  Kokogiaks can mimic the sounds of a person in distress by attempting a [[compendium/skills.md#Deception|Deception]] check to [[Lie]]. The kokogiak has a +4 circumstance bonus to this check."
 abilities_mid:
   - name: "Attack of Opportunity"
     desc: "⬲ "

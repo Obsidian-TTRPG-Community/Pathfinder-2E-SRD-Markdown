@@ -36,7 +36,7 @@ abilityMods: [2, 6, 6, 4, 4, 8]
 
 abilities_top:
   - name: "Nature Empathy"
-    desc: "  The dryad can use [[Diplomacy]] to [[Make an Impression]] on and make very simple Requests of animals and plants."
+    desc: "  The dryad can use [[compendium/skills.md#Diplomacy|Diplomacy]] to [[Make an Impression]] on and make very simple Requests of animals and plants."
   - name: "Tied to the Land"
     desc: " "
 abilities_mid:

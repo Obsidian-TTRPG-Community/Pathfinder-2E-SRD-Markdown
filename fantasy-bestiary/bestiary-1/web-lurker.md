@@ -40,7 +40,7 @@ abilities_bot:
   - name: "Web Lurker Venom"
     desc: " ([[poison]]);  __Saving Throw__ DC 19 Fortitude. __Maximum Duration__ 10 rounds __Stage 1__ 1d6 (1d6) poison and [[rules/conditions.md#Flat-Footed|flat-footed]] (1 round) __Stage 2__ 1d6 (1d6) poison, [[rules/conditions.md#Flat-Footed|flat-footed]], and [[rules/conditions.md#Slowed|slowed 1]] (1 round)"
   - name: "Web Trap"
-    desc: "  A creature hit by the web lurker's web attack is [[rules/conditions.md#Immobilized|immobilized]] and stuck to the nearest surface until it succeeds at DC 20 [[Acrobatics]] check to [[Escape]]."
+    desc: "  A creature hit by the web lurker's web attack is [[rules/conditions.md#Immobilized|immobilized]] and stuck to the nearest surface until it succeeds at DC 20 [[compendium/skills.md#Acrobatics|Acrobatics]] check to [[Escape]]."
   - name: "Web Lurker Traps"
     desc: "  The following traps are some used by web lurkers."
 

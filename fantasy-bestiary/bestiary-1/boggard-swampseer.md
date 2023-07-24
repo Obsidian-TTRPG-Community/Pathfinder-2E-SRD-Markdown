@@ -34,7 +34,7 @@ abilityMods: [3, 0, 2, 0, 4, 3]
 
 abilities_top:
   - name: "Performance"
-    desc: "  +8, [[Religion]] +9 Str +3, Dex +0, Con +2, Int +0, Wis +4, Cha +3 Items staff."
+    desc: "  +8, [[compendium/skills.md#Religion|Religion]] +9 Str +3, Dex +0, Con +2, Int +0, Wis +4, Cha +3 Items staff."
   - name: Items
     desc: "staff;"
 abilities_bot:
@@ -43,7 +43,7 @@ abilities_bot:
   - name: "Destructive"
     desc: "  Croak again for 1d4 (1d4) rounds."
   - name: "Drowning Drone"
-    desc: "⬲ ([[auditory]], [[mental]]); __Trigger__ The boggard swampseer or one of its allies within 60 feet attempts a saving throw against an [[auditory]] or [[sonic]] effect. __Effect__  The swampseer releases a croak that drowns out other sound. It rolls a [[Performance]] check. It and boggard allies in the area can use the higher result of the swampseer's [[Performance]] check or their saves to resolve the effects against the [[auditory]] or [[sonic]] effect."
+    desc: "⬲ ([[auditory]], [[mental]]); __Trigger__ The boggard swampseer or one of its allies within 60 feet attempts a saving throw against an [[auditory]] or [[sonic]] effect. __Effect__  The swampseer releases a croak that drowns out other sound. It rolls a [[compendium/skills.md#Performance|Performance]] check. It and boggard allies in the area can use the higher result of the swampseer's [[compendium/skills.md#Performance|Performance]] check or their saves to resolve the effects against the [[auditory]] or [[sonic]] effect."
   - name: "Swamp Stride"
     desc: "  A boggard scout ignores [[terrain|difficult terrain]] caused by swamp terrain features."
   - name: "Terrifying Croak"

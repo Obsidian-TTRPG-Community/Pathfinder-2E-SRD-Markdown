@@ -41,7 +41,7 @@ abilities_top:
     desc: "hatchet;"
 abilities_bot:
   - name: "Ice Stride"
-    desc: "  A frost troll isn't impeded by [[terrain|difficult terrain]] caused by snow or ice, nor do they need to attempt [[Acrobatics]] checks to keep from falling on slippery ice."
+    desc: "  A frost troll isn't impeded by [[terrain|difficult terrain]] caused by snow or ice, nor do they need to attempt [[compendium/skills.md#Acrobatics|Acrobatics]] checks to keep from falling on slippery ice."
   - name: "Rend"
     desc: "⬻ ([[claw]]); "
 

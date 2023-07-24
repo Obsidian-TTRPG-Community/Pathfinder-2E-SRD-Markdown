@@ -33,7 +33,7 @@ abilityMods: [3, 1, 1, 4, 2, 3]
 
 abilities_top:
   - name: "Diplomacy"
-    desc: "  +24, [[Intimidation]] +22, [[Society]] +21 Str +3, Dex +1, Con +1, Int +4, Wis +2, Cha +3 Items artisan's tools, construction schematics, guildmaster's uniform (functions as hide armor), +1 striking light hammer, tax ledgers."
+    desc: "  +24, [[compendium/skills.md#Intimidation|Intimidation]] +22, [[compendium/skills.md#Society|Society]] +21 Str +3, Dex +1, Con +1, Int +4, Wis +2, Cha +3 Items artisan's tools, construction schematics, guildmaster's uniform (functions as hide armor), +1 striking light hammer, tax ledgers."
 abilities_bot:
   - name: "Call to Action"
     desc: "⬻ ([[auditory]], [[concentrate]], [[emotion]], [[mental]]);  The guildmaster gives a speech to inspire themself and all guild-member allies within 60 feet, granting them a +1 status bonus to attack and damage rolls until the start of the guildmaster's next turn."

@@ -41,10 +41,10 @@ abilities_mid:
   - name: "Clinch Victory"
     desc: "⬲ __Trigger__ A creature within the triumph siktempora's reach uses an action that would restore Hit Points __Effect__  The triumph siktempora makes a glorious fist [[Strike]] against the triggering creature. On a critical success, this [[Strike]] also disrupts the triggering action."
   - name: "Uncanny Pounce"
-    desc: "⭓ __Trigger__ The misery siktempora rolls Dimension of [[Lore|Time Lore]] for initiative __Effect__  The misery siktempora [[Stride|Strides]] once and makes a claw [[Strike]], in either order."
+    desc: "⭓ __Trigger__ The misery siktempora rolls Dimension of [[compendium/skills.md#Lore|Time Lore]] for initiative __Effect__  The misery siktempora [[Stride|Strides]] once and makes a claw [[Strike]], in either order."
 abilities_bot:
   - name: "Vie for Victory"
-    desc: "⬺  The triumph siktempora pushes themself beyond their limits to secure victory over a chosen foe. They choose one target they can see and reach with a single [[Stride]] action. They attempt to [[Demoralize]] that target, ignoring the typical limitations on distance and with no penalty for not sharing a language with the target. They then [[Stride]] and attempt one [[Athletics]] attack action (such as [[Grapple]] or [[Disarm]]) against the target."
+    desc: "⬺  The triumph siktempora pushes themself beyond their limits to secure victory over a chosen foe. They choose one target they can see and reach with a single [[Stride]] action. They attempt to [[Demoralize]] that target, ignoring the typical limitations on distance and with no penalty for not sharing a language with the target. They then [[Stride]] and attempt one [[compendium/skills.md#Athletics|Athletics]] attack action (such as [[Grapple]] or [[Disarm]]) against the target."
   - name: "Winning Smile"
     desc: "⬺ ([[emotion]], [[enchantment]], [[mental]], [[occult]]);  The triumph siktempora flashes their disarming grin at one creature within 15 feet. The target takes 10d8 (10d8) mental damage (DC 34 basic Will save). On a failure, the target's attacks against the triumph siktempora also become nonlethal until the end of the target's next turn."
 

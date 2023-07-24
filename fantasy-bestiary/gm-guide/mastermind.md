@@ -35,7 +35,7 @@ abilities_top:
   - name: "Lore"
     desc: "  +17 Str +0, Dex +3, Con +0, Int +4, Wis +2, Cha +4 Items chain shirt, disguise kit, hand crossbow (10 bolts), shortsword."
   - name: "Versatile Performance"
-    desc: "  The mastermind can use [[Performance]] instead of [[Diplomacy]] to [[Make an Impression]] and instead of [[Intimidation]] to [[Demoralize]]. The mastermind can also use an acting [[Performance]] instead of [[Deception]] to [[Impersonate]]."
+    desc: "  The mastermind can use [[compendium/skills.md#Performance|Performance]] instead of [[compendium/skills.md#Diplomacy|Diplomacy]] to [[Make an Impression]] and instead of [[compendium/skills.md#Intimidation|Intimidation]] to [[Demoralize]]. The mastermind can also use an acting [[compendium/skills.md#Performance|Performance]] instead of [[compendium/skills.md#Deception|Deception]] to [[Impersonate]]."
   - name: Items
     desc: "chain shirt, disguise kit, hand crossbow (10 bolts), shortsword;"
 abilities_bot:

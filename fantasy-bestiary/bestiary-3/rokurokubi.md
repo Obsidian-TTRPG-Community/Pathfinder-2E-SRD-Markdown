@@ -32,7 +32,7 @@ abilityMods: [3, 4, 3, 2, 3, 4]
 
 abilities_top:
   - name: "Threatening Lunge), Society"
-    desc: "  +6, [[Stealth]] +8 Str +3, Dex +4, Con +3, Int +2, Wis +3, Cha +4."
+    desc: "  +6, [[compendium/skills.md#Stealth|Stealth]] +8 Str +3, Dex +4, Con +3, Int +2, Wis +3, Cha +4."
 abilities_mid:
   - name: "Attack of Opportunity"
     desc: "⬲  Jaws only"

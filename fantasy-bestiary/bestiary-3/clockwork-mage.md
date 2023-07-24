@@ -34,7 +34,7 @@ abilityMods: [2, 6, 4, -5, 2, -5]
 
 abilities_mid:
   - name: "Clockwork Wand"
-    desc: "  The clockwork mage uses a mechanical wand as a focus to channel magical energy. This wand is built into the clockwork mage's chest, with only the crystal at the end exposed. The mage can [[Interact]] to the remove the wand, or someone else can remove it with a DC 31 [[Thievery]] check to [[Disable a Device]]. The clockwork mage becomes unable to cast any spells except cantrips while the wand is removed. When removed, the clockwork wand is a magic wand containing the last 2nd-level innate spell the clockwork mage cast (the GM determines the spell randomly if it has not cast any eligible spells). The spells are placed within the wand while the mage is created, and the creator can substitute other arcane spells of the appropriate level."
+    desc: "  The clockwork mage uses a mechanical wand as a focus to channel magical energy. This wand is built into the clockwork mage's chest, with only the crystal at the end exposed. The mage can [[Interact]] to the remove the wand, or someone else can remove it with a DC 31 [[compendium/skills.md#Thievery|Thievery]] check to [[Disable a Device]]. The clockwork mage becomes unable to cast any spells except cantrips while the wand is removed. When removed, the clockwork wand is a magic wand containing the last 2nd-level innate spell the clockwork mage cast (the GM determines the spell randomly if it has not cast any eligible spells). The spells are placed within the wand while the mage is created, and the creator can substitute other arcane spells of the appropriate level."
 abilities_top:
   - name: Items
     desc: "clockwork wand;"

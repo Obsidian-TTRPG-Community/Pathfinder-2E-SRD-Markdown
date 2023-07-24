@@ -33,7 +33,7 @@ abilityMods: [0, 4, 1, 2, 4, 4]
 
 abilities_top:
   - name: "Stealth"
-    desc: "  +14, [[Thievery]] +12 Str +0, Dex +4, Con +1, Int +2, Wis +4, Cha +4 Items dagger (4), disguise kit, fine clothes, leather armor, +1 rapier, thieves' tools."
+    desc: "  +14, [[compendium/skills.md#Thievery|Thievery]] +12 Str +0, Dex +4, Con +1, Int +2, Wis +4, Cha +4 Items dagger (4), disguise kit, fine clothes, leather armor, +1 rapier, thieves' tools."
   - name: "Noble's Ally"
     desc: "  The spy has positioned themself to seem a trusted ally, gaining a +2 circumstance bonus to [[Gather-Information|Gather Information]] or to [[Make an Impression]] among the nobles of that court."
   - name: Items

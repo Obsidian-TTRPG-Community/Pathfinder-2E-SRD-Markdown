@@ -37,7 +37,7 @@ abilities_bot:
   - name: "Surprise Attack"
     desc: "  On the first round of combat, creatures that haven't acted yet are [[rules/conditions.md#Flat-Footed|flat-footed]] to the prisoner."
   - name: "You're Next"
-    desc: "⬲ ([[emotion]], [[fear]], [[mental]]); __Trigger__ The prisoner reduces a creature to 0 Hit Points __Effect__  The prisoner attempts an [[Intimidation]] check with a +2 circumstance bonus to [[Demoralize]] a single creature it can see and that can see them."
+    desc: "⬲ ([[emotion]], [[fear]], [[mental]]); __Trigger__ The prisoner reduces a creature to 0 Hit Points __Effect__  The prisoner attempts an [[compendium/skills.md#Intimidation|Intimidation]] check with a +2 circumstance bonus to [[Demoralize]] a single creature it can see and that can see them."
 abilities_top:
   - name: Items
     desc: "shiv;"

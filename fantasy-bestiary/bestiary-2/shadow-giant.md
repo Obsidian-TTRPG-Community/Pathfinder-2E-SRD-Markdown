@@ -40,7 +40,7 @@ abilities_mid:
     desc: "⬲ "
 abilities_bot:
   - name: "Pall of Shadow"
-    desc: " ([[divine]], [[necromancy]], [[shadow]]);  When a shadow giant hits with a melee [[Strike]], the target must succeed at a DC 30 Fortitude save or become [[rules/conditions.md#Drained|drained 1]] and take a –1 status penalty to [[Perception]] checks involving sight as long as they remain [[rules/conditions.md#Drained|drained]]. On a critical failure, this condition doesn't heal naturally and can be removed only with magic."
+    desc: " ([[divine]], [[necromancy]], [[shadow]]);  When a shadow giant hits with a melee [[Strike]], the target must succeed at a DC 30 Fortitude save or become [[rules/conditions.md#Drained|drained 1]] and take a –1 status penalty to [[compendium/skills.md#Perception|Perception]] checks involving sight as long as they remain [[rules/conditions.md#Drained|drained]]. On a critical failure, this condition doesn't heal naturally and can be removed only with magic."
   - name: "Shadowcloak"
     desc: "⬻ ([[divine]], [[illusion]], [[shadow]]);  The shadow giant becomes shrouded in shadows and becomes [[rules/conditions.md#Concealed|concealed]]. As the nature of this effect leaves the giant's location obvious, it can't use this concealment to [[Hide]] or [[Sneak]]. This effect lasts for 1 minute or until it is exposed to direct sunlight, whichever comes first."
   - name: "Throw Rock"

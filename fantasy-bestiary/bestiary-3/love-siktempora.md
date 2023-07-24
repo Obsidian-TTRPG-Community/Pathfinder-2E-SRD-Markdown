@@ -41,7 +41,7 @@ abilities_mid:
   - name: "Deflect Aggression"
     desc: "⬲ ([[emotion]], [[enchantment]], [[mental]], [[occult]]); __Trigger__ The love siktempora is targeted by an attack __Effect__  The siktempora glows with compassion, deflecting the attacker's aggression. The siktempora gains a +2 circumstance bonus to their AC and resistance 15 against the triggering attack, and the attacker must attempt a saving throw against the siktempora's heartsong (see below)."
   - name: "Uncanny Pounce"
-    desc: "⭓ __Trigger__ The misery siktempora rolls Dimension of [[Lore|Time Lore]] for initiative __Effect__  The misery siktempora [[Stride|Strides]] once and makes a claw [[Strike]], in either order."
+    desc: "⭓ __Trigger__ The misery siktempora rolls Dimension of [[compendium/skills.md#Lore|Time Lore]] for initiative __Effect__  The misery siktempora [[Stride|Strides]] once and makes a claw [[Strike]], in either order."
 abilities_bot:
   - name: "Heartsong"
     desc: " ([[emotion]], [[enchantment]], [[mental]], [[occult]]);  A creature that takes mental damage from the love siktempora's emotional bolt must succeed at a DC 37 Will save or become [[rules/conditions.md#Fascinated|fascinated]] by the siktempora until the end of the target's next turn. [[rules/conditions.md#Hostile|Hostile]] actions don't end this [[rules/conditions.md#Fascinated|fascinated]] condition."

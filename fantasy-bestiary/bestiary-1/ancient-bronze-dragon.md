@@ -43,7 +43,7 @@ abilities_mid:
   - name: "Attack of Opportunity"
     desc: "⬲  Jaws only."
   - name: "Vortex Pull"
-    desc: "⬲ ([[water]]); __Trigger__ A creature in the dragon's vortex uses a [[Swim]] action. __Effect__  The dragon creates a current of water, forcing the triggering creature to attempt a DC 40 [[Athletics]] check to [[Swim]]. If the creature fails, it's pulled 30 feet toward the dragon and the triggering action is lost. If it succeeds, it can [[Swim]] normally (using the result of that roll if it doesn't have a [[Swim]] speed)."
+    desc: "⬲ ([[water]]); __Trigger__ A creature in the dragon's vortex uses a [[Swim]] action. __Effect__  The dragon creates a current of water, forcing the triggering creature to attempt a DC 40 [[compendium/skills.md#Athletics|Athletics]] check to [[Swim]]. If the creature fails, it's pulled 30 feet toward the dragon and the triggering action is lost. If it succeeds, it can [[Swim]] normally (using the result of that roll if it doesn't have a [[Swim]] speed)."
 abilities_bot:
   - name: "Breath Weapon"
     desc: "⬺  The bronze dragon breathes in one of two ways. The dragon can't use Breath Weapon again for 1d4 (1d4) rounds.<ul class='inner-bullet-list'><li>__Lightning__ (arcane, electricity, evocation); The dragon breathes lightning in a 100-foot line that deals 12d12 (12d12) electricity damage (DC 40 basic Reflex save).</li><li>__Repulsion Gas__ (abjuration, arcane, incapacitation, mental); The dragon breathes a 100-foot line of repulsive gas. Each creature in the area must succeed at a DC 40 Will save or become [[rules/conditions.md#Fleeing|fleeing]] from the dragon for 1 round (or 2 rounds on a critical failure).</li></ul>"

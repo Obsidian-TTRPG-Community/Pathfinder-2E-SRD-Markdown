@@ -37,7 +37,7 @@ abilities_mid:
     desc: "⬲ "
 abilities_bot:
   - name: "Smear"
-    desc: "⬺ ([[attack]]); __Requirements__ The cave giant is within reach of a creature that is adjacent to a wall or other solid vertical surface  __Effect__  The cave giant snags the creature and smashes it against the wall. The giant attempts an [[Athletics]] check against the target's Reflex DC. On a success, the cave giant Grabs the creature and smears it along the nearby wall, dealing 2d8+8 (2d8+8) bludgeoning damage. On a critical success, the damage is doubled."
+    desc: "⬺ ([[attack]]); __Requirements__ The cave giant is within reach of a creature that is adjacent to a wall or other solid vertical surface  __Effect__  The cave giant snags the creature and smashes it against the wall. The giant attempts an [[compendium/skills.md#Athletics|Athletics]] check against the target's Reflex DC. On a success, the cave giant Grabs the creature and smears it along the nearby wall, dealing 2d8+8 (2d8+8) bludgeoning damage. On a critical success, the damage is doubled."
   - name: "Throw Rock"
     desc: "⬻ ([[page 306]]); "
 

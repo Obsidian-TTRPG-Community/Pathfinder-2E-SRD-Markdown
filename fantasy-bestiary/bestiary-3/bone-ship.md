@@ -38,7 +38,7 @@ abilities_top:
     desc: " ([[downtime]]);  The bone ship spends 1 day scavenging bones from the sea and restores itself to full Hit Points."
 abilities_mid:
   - name: "Blood Wake"
-    desc: " ([[aura]], [[divine]], [[enchantment]], [[fear]], [[mental]]);  30 feet. The churning water around the bone ship tinges red with seeping blood. A living creature that enters water in the aura sees visions of itself drowning in the blood and must attempt a DC 37 Will save. After attempting this saving throw, the creature is temporarily immune for 1 hour. On a failure, the creature becomes [[rules/conditions.md#Frightened|frightened 2]] ([[rules/conditions.md#Frightened|frightened 4]] on a critical failure) and [[rules/conditions.md#Stunned|stunned 1]], and it takes a –4 status penalty to [[Athletics]] checks to [[Swim]]."
+    desc: " ([[aura]], [[divine]], [[enchantment]], [[fear]], [[mental]]);  30 feet. The churning water around the bone ship tinges red with seeping blood. A living creature that enters water in the aura sees visions of itself drowning in the blood and must attempt a DC 37 Will save. After attempting this saving throw, the creature is temporarily immune for 1 hour. On a failure, the creature becomes [[rules/conditions.md#Frightened|frightened 2]] ([[rules/conditions.md#Frightened|frightened 4]] on a critical failure) and [[rules/conditions.md#Stunned|stunned 1]], and it takes a –4 status penalty to [[compendium/skills.md#Athletics|Athletics]] checks to [[Swim]]."
 abilities_bot:
   - name: "Cannonade"
     desc: "⬺  The bone ship makes four bone cannon [[Strike|Strikes]], each targeting a different creature."

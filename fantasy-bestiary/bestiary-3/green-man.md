@@ -34,7 +34,7 @@ abilityMods: [12, 9, 11, 7, 10, 8]
 
 abilities_top:
   - name: "Green Tongue"
-    desc: "  A green man can communicate with plants, with the effects of speak with plants, and can use [[Diplomacy]] to [[Make an Impression]] on plants and [[Request]] things from plants."
+    desc: "  A green man can communicate with plants, with the effects of speak with plants, and can use [[compendium/skills.md#Diplomacy|Diplomacy]] to [[Make an Impression]] on plants and [[Request]] things from plants."
   - name: "Plantsense"
     desc: "  A green man can sense life force via plants. This allows them to observe a living or undead creature's vital essence within 60 feet of the green man, but they can also use this precise sense to observe any living or undead creature within 60 feet of any plant matter within 120 feet of the green man. This allows the green man to see living things through solid plant matter, as well as seeing through other barriers if there are plants on the other side."
 abilities_mid:
@@ -48,7 +48,7 @@ abilities_bot:
   - name: "Absorb Magic"
     desc: "⬻  The green man's vines leach away magic and transform it into life essence for the green man. On a successful vine [[Strike]], the green man attempts to counteract one spell active on the target (typically one vexing the green man, or determined randomly if they aren't aware of specific effects), with a counteract level of 10 and a modifier of 1d20+38 (1d20+38). If the effect is counteracted, the green man gains 30 temporary Hit Points that last for 10 minutes."
   - name: "Embed"
-    desc: "  The green man's thorns embed themselves into any creature they damage, taking root into the ground. A target damaged by a thorn has its Speeds halved, and it can't [[Step]], [[Fly]], [[air walk]], or otherwise leave the ground until the thorn is removed. Removing a thorn requires 3 [[Interact]] actions, which don't have to be consecutive. If the creature performing the final action doesn't succeed at a DC 45 [[Medicine]] check as part of that action, the target takes 10d6 (10d6) damage upon the thorn's removal."
+    desc: "  The green man's thorns embed themselves into any creature they damage, taking root into the ground. A target damaged by a thorn has its Speeds halved, and it can't [[Step]], [[Fly]], [[air walk]], or otherwise leave the ground until the thorn is removed. Removing a thorn requires 3 [[Interact]] actions, which don't have to be consecutive. If the creature performing the final action doesn't succeed at a DC 45 [[compendium/skills.md#Medicine|Medicine]] check as part of that action, the target takes 10d6 (10d6) damage upon the thorn's removal."
   - name: "Focus Vines"
     desc: "⬺  The green man focuses all their vines against a single vexing foe, making a single vine [[Strike]]. On a success, the target takes 5d10 (5d10) additional damage and is affected by Absorb Magic three times. Even on a failure, the target takes the normal effects of a hit with a vine [[Strike]], but on a critical failure, the vines miss completely."
   - name: "Green Grab"

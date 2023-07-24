@@ -34,7 +34,7 @@ abilities_top:
   - name: "Hibernation"
     desc: "  After 3 or more days without eating, an akata can secrete resin that encases it in a noqual cocoon. The cocoon has Hardness 9, 40 HP, and a Broken Threshold of 18. It has resistance 5 to damage from magical sources. As long as the cocoon remains intact, the akata can't be harmed, and it doesn't need to eat or drink. While inside the cocoon, the akata gains lifesense 30 feet. The akata remains in a state of hibernation until it is exposed to extreme heat or senses a living creature, at which point it can burst free of its cocoon in 1d4 (1d4) minutes."
   - name: "No Hearing"
-    desc: "  An akata has no auditory senses. It is immune to [[auditory]] effects, automatically critically fails [[Perception]] checks that require it to hear, and takes a –2 status penalty to [[Perception]] checks (but not initiative rolls) that involve sound but also rely on other senses."
+    desc: "  An akata has no auditory senses. It is immune to [[auditory]] effects, automatically critically fails [[compendium/skills.md#Perception|Perception]] checks that require it to hear, and takes a –2 status penalty to [[compendium/skills.md#Perception|Perception]] checks (but not initiative rolls) that involve sound but also rely on other senses."
 abilities_mid:
   - name: "No Breath"
     desc: "  An akata doesn't breathe and is immune to effects that require breathing (such as an inhaled poison)."

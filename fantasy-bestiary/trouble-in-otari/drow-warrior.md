@@ -33,7 +33,7 @@ abilityMods: [2, 4, 2, 0, 1, 0]
 
 abilities_mid:
   - name: "Light Blindness"
-    desc: "  When first exposed to bright light, the drow can't see until the end of their next turn. All squares are difficult terrain for them, and they take a –4 status penalty to [[Perception]]. If they try to attack a creature, the attack fails unless they succeed at a DC 11 flat check. Light doesn't blind them again for 1 hour."
+    desc: "  When first exposed to bright light, the drow can't see until the end of their next turn. All squares are difficult terrain for them, and they take a –4 status penalty to [[compendium/skills.md#Perception|Perception]]. If they try to attack a creature, the attack fails unless they succeed at a DC 11 flat check. Light doesn't blind them again for 1 hour."
 abilities_top:
   - name: Items
     desc: "dagger, hand crossbow (10 bolts), leather armor, rapier;"

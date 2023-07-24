@@ -50,7 +50,7 @@ abilities_bot:
   - name: "Greater Constrict"
     desc: "⬻  3d8+8 (3d8+8) bludgeoning, DC 33 (page 305)"
   - name: "Perfected Flight"
-    desc: "  A sky dragon can hover in place without spending an action, and they automatically succeed at all [[Acrobatics]] checks to [[Maneuver in Flight]]."
+    desc: "  A sky dragon can hover in place without spending an action, and they automatically succeed at all [[compendium/skills.md#Acrobatics|Acrobatics]] checks to [[Maneuver in Flight]]."
 
 speed: 40 feet, fly 140 feet
 

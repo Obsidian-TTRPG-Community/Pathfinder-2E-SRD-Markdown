@@ -37,7 +37,7 @@ abilities_mid:
   - name: "Attack of Opportunity"
     desc: "⬲  A sepid gains an extra reaction each round that they can use only to make an [[Attack of Opportunity]]."
   - name: "Deflecting Lie"
-    desc: "⬲ __Trigger__ A creature hits the sepid with a ranged [[Strike]] or a ranged spell attack roll __Effect__  The sepid lies in an attempt to divert the attack. They roll a [[Deception]] check against the triggering creature's [[Perception]] DC. On a success, if the triggering attack roll was a success, it becomes a failure, and if the triggering attack roll was a critical hit, it becomes a normal success."
+    desc: "⬲ __Trigger__ A creature hits the sepid with a ranged [[Strike]] or a ranged spell attack roll __Effect__  The sepid lies in an attempt to divert the attack. They roll a [[compendium/skills.md#Deception|Deception]] check against the triggering creature's [[compendium/skills.md#Perception|Perception]] DC. On a success, if the triggering attack roll was a success, it becomes a failure, and if the triggering attack roll was a critical hit, it becomes a normal success."
 abilities_top:
   - name: Items
     desc: "+2 striking falchion;"

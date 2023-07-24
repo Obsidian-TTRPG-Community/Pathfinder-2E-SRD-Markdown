@@ -44,7 +44,7 @@ abilities_bot:
   - name: "Gory Hydration"
     desc: "⬲ __Requirements__ The mudwretch is dehydrated __Trigger__ The mudwretch deals Constrict damage to a living creature that has blood __Effect__  The mudwretch squeezes harder, dealing 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed damage]] to the target. The mudwretch absorbs this blood, removing any penalties it had as a result of being dehydrated."
   - name: "Mud Puddle"
-    desc: "⬻ ([[concentrate]]);  Until it next acts, the mudwretch appears to be an ordinary puddle of mud. It has an automatic result of 20 on [[Deception]] checks to pass as a mud puddle and can make a fist [[Strike]] against a creature that walks onto the mud puddle as a reaction."
+    desc: "⬻ ([[concentrate]]);  Until it next acts, the mudwretch appears to be an ordinary puddle of mud. It has an automatic result of 20 on [[compendium/skills.md#Deception|Deception]] checks to pass as a mud puddle and can make a fist [[Strike]] against a creature that walks onto the mud puddle as a reaction."
   - name: "Spew Mud"
     desc: "⬺ ([[conjuration]], [[primal]]);  The mudwretch spews a 20-foot line of pressurized mud that deals 2d10 (2d10) bludgeoning damage (DC 18 basic Reflex save). On a critical failure, a creature also takes a –10-foot status penalty to its Speeds for 1 round. The mudwretch can't Spew Mud again for 1d4 (1d4) rounds."
 

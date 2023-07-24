@@ -33,9 +33,9 @@ abilityMods: [2, 1, 2, 0, 4, 2]
 
 abilities_top:
   - name: "Performance"
-    desc: "  +8, [[Survival]] +10 Str +2, Dex +1, Con +2, Int +0, Wis +4, Cha +2 Items holly and mistletoe, leather armor, rope (50 feet), whip."
+    desc: "  +8, [[compendium/skills.md#Survival|Survival]] +10 Str +2, Dex +1, Con +2, Int +0, Wis +4, Cha +2 Items holly and mistletoe, leather armor, rope (50 feet), whip."
   - name: "Wild Empathy"
-    desc: "  The beast tamer can use [[Diplomacy]] to [[Make an Impression]] on animals and to make very simple Requests of them."
+    desc: "  The beast tamer can use [[compendium/skills.md#Diplomacy|Diplomacy]] to [[Make an Impression]] on animals and to make very simple Requests of them."
   - name: Items
     desc: "holly and mistletoe, leather armor, rope (50 feet), whip;"
 abilities_bot:

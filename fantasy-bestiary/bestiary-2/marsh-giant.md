@@ -41,7 +41,7 @@ abilities_top:
     desc: "+1 striking gaff, sack with 5 rocks;"
 abilities_bot:
   - name: "Hook Shake"
-    desc: "⬻ __Requirements__ A creature adjacent to the marsh giant is [[rules/conditions.md#Prone|prone]] in water at least 1 foot deep  __Effect__  The marsh giant uses its gaff to shake the creature back and forth and hold it underwater. The giant attempts an [[Athletics]] check against the target's Fortitude DC.\n__Critical Success__ The target takes 6d6+14 (6d6+14) piercing damage and loses 5 rounds' worth of air if they were holding their breath.\n__Success__ The target takes 3d6+14 (3d6+14) piercing damage and loses 3 rounds' worth of air if they were holding their breath.\n__Failure__ The target is unaffected.\n__Critical Failure__ As failure, but the giant drops its gaff as well."
+    desc: "⬻ __Requirements__ A creature adjacent to the marsh giant is [[rules/conditions.md#Prone|prone]] in water at least 1 foot deep  __Effect__  The marsh giant uses its gaff to shake the creature back and forth and hold it underwater. The giant attempts an [[compendium/skills.md#Athletics|Athletics]] check against the target's Fortitude DC.\n__Critical Success__ The target takes 6d6+14 (6d6+14) piercing damage and loses 5 rounds' worth of air if they were holding their breath.\n__Success__ The target takes 3d6+14 (3d6+14) piercing damage and loses 3 rounds' worth of air if they were holding their breath.\n__Failure__ The target is unaffected.\n__Critical Failure__ As failure, but the giant drops its gaff as well."
   - name: "Throw Rock"
     desc: "⬻ "
   - name: "Twist the Hook"

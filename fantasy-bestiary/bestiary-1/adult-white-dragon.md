@@ -53,7 +53,7 @@ abilities_bot:
   - name: "Ice Climb"
     desc: "  A white dragon can climb on ice as though it had the listed climb Speed. It ignores [[terrain|difficult terrain]] and [[terrain|greater difficult terrain]] from ice and snow and doesn't risk falling when crossing ice."
   - name: "Shape Ice"
-    desc: "⬺ ([[arcane]], [[transmutation]], [[water]]);  The dragon reshapes a cube of ice or snow it touches, up to 10 feet across. Any creature standing atop the ice must succeed at a DC 15 Reflex save or [[Acrobatics]] check. On a failure, the creature falls [[rules/conditions.md#Prone|prone]] atop the ice; on a critical failure, it falls off the ice entirely and is also [[rules/conditions.md#Prone|prone]]."
+    desc: "⬺ ([[arcane]], [[transmutation]], [[water]]);  The dragon reshapes a cube of ice or snow it touches, up to 10 feet across. Any creature standing atop the ice must succeed at a DC 15 Reflex save or [[compendium/skills.md#Acrobatics|Acrobatics]] check. On a failure, the creature falls [[rules/conditions.md#Prone|prone]] atop the ice; on a critical failure, it falls off the ice entirely and is also [[rules/conditions.md#Prone|prone]]."
 
 speed: 30 feet, fly 120 feet; ice climb 30 feet;
 

@@ -46,7 +46,7 @@ abilities_bot:
   - name: "Breath Weapon"
     desc: "⬺ ([[divine]], [[necromancy]], [[negative]]);  The wyrmwraith unleashes a burst of negative energy that deals 18d6 (18d6) negative damage to all creatures in a 60-foot cone (DC 38 basic Reflex save) They can't use Breath Weapon again for 1d4 (1d4) rounds."
   - name: "Divine Dispelling"
-    desc: " ([[abjuration]], [[divine]]);  A wyrmwraith's claws rend divine magic. Whenever a wyrmwraith hits a creature with a spectral claws [[Strike]], the wyrmwraith can attempt a [[Religion]] check to counteract an ongoing divine spell effect on the creature."
+    desc: " ([[abjuration]], [[divine]]);  A wyrmwraith's claws rend divine magic. Whenever a wyrmwraith hits a creature with a spectral claws [[Strike]], the wyrmwraith can attempt a [[compendium/skills.md#Religion|Religion]] check to counteract an ongoing divine spell effect on the creature."
   - name: "Draconic Frenzy"
     desc: "⬺  The wyrmwraith makes two claw [[Strike|Strikes]] and one jaws [[Strike]] in any order."
   - name: "Drain Life"

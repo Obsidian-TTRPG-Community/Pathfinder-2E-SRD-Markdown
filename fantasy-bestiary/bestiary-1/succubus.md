@@ -33,14 +33,14 @@ abilityMods: [2, 3, 4, 4, 2, 7]
 
 abilities_mid:
   - name: "Rejection Vulnerability"
-    desc: "  As succubi are beings of pure lust, creatures that reject their lust can metaphysically harm them. When a succubus fails a [[Diplomacy]] check to Embrace or [[Request]], or when a creature succeeds at its save against a succubus's mental spell or ability, the succubus takes 2d6 (2d6) mental damage. For one hour after causing mental damage to a succubus in this way, a creature can deal 2d6 (2d6) mental damage to the succubus with a successful [[Demoralize]] incorporating its rejection."
+    desc: "  As succubi are beings of pure lust, creatures that reject their lust can metaphysically harm them. When a succubus fails a [[compendium/skills.md#Diplomacy|Diplomacy]] check to Embrace or [[Request]], or when a creature succeeds at its save against a succubus's mental spell or ability, the succubus takes 2d6 (2d6) mental damage. For one hour after causing mental damage to a succubus in this way, a creature can deal 2d6 (2d6) mental damage to the succubus with a successful [[Demoralize]] incorporating its rejection."
   - name: "Seductive Presence"
-    desc: " ([[aura]], [[charm]], [[emotion]], [[mental]]);  10 feet. Any creature in the aura that could be sexually attracted to a succubus takes a –2 circumstance penalty to checks and DCs to oppose the succubus's mental spells, [[Deception]], and [[Diplomacy]]."
+    desc: " ([[aura]], [[charm]], [[emotion]], [[mental]]);  10 feet. Any creature in the aura that could be sexually attracted to a succubus takes a –2 circumstance penalty to checks and DCs to oppose the succubus's mental spells, [[compendium/skills.md#Deception|Deception]], and [[compendium/skills.md#Diplomacy|Diplomacy]]."
 abilities_bot:
   - name: "Change Shape"
     desc: "⬻ ([[concentrate]], [[divine]], [[polymorph]], [[transmutation]]);  The succubus can take on the appearance of any Small or Medium humanoid. This doesn't change their Speed or their attack and damage modifiers with their [[Strike|Strikes]], but it might change the damage type their [[Strike|Strikes]] deal (typically to bludgeoning)."
   - name: "Embrace"
-    desc: "⬻ ([[attack]]);  The succubus attempts to [[Grapple]] a creature using their [[Diplomacy]] bonus instead of [[Athletics]]. If the creature is willing, the succubus grapples it automatically."
+    desc: "⬻ ([[attack]]);  The succubus attempts to [[Grapple]] a creature using their [[compendium/skills.md#Diplomacy|Diplomacy]] bonus instead of [[compendium/skills.md#Athletics|Athletics]]. If the creature is willing, the succubus grapples it automatically."
   - name: "Passionate Kiss"
     desc: "⬻ ([[divine]], [[emotion]], [[enchantment]], [[mental]]); __Frequency__ once per round  __Effect__  The succubus engages a creature they have [[rules/conditions.md#Grabbed|grabbed]] in an embrace or other act of passion to drain its vital essence. The kiss makes the creature [[rules/conditions.md#Drained|drained 1]] or increases its [[rules/conditions.md#Drained|drained]] condition by 1, to a maximum of 4. The creature takes 3d6 (3d6) negative damage and the succubus regains Hit Points equal to the damage dealt. The target must succeed at a DC 26 Will save or be affected by a suggestion to submit to more actions of passion rather than trying to [[Escape]]."
   - name: "Profane Gift"

@@ -38,7 +38,7 @@ abilities_top:
   - name: "Tied to the Land"
     desc: " "
   - name: "Wild Empathy"
-    desc: "  The naiad can use [[Diplomacy]] to [[Make an Impression]] on and make very simple Requests of animals."
+    desc: "  The naiad can use [[compendium/skills.md#Diplomacy|Diplomacy]] to [[Make an Impression]] on and make very simple Requests of animals."
 abilities_mid:
   - name: "Nymph's Beauty"
     desc: " ([[aura]], [[emotion]], [[enchantment]], [[mental]], [[primal]], [[visual]]);  30 feet. DC 23. On a failed save, the target is [[rules/conditions.md#Stunned|stunned 1]] for this turn and whenever it begins its turn within 30 feet of the naiad queen for the next 24 hours, even if it can't see her on subsequent turns."

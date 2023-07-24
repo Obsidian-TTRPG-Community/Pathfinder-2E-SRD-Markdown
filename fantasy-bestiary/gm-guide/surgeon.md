@@ -38,7 +38,7 @@ abilities_top:
     desc: "healer's tools, scalpel (3);"
 abilities_bot:
   - name: "Medical Malpractice"
-    desc: "⬻  The surgeon attempts a [[Medicine]] check against the Fortitude DC of one living creature they can see within 60 feet. On a success, the surgeon's melee [[Strike|Strikes]] deal an extra 1d6 (1d6) precision damage against that creature (2d6 (2d6) on a critical success) until 1 minute passes or the surgeon critically hits that creature, whichever comes first. Using this action again designates a new target and ends the effect for any previous target. A surgeon can target an individual creature no more than once per day with this ability."
+    desc: "⬻  The surgeon attempts a [[compendium/skills.md#Medicine|Medicine]] check against the Fortitude DC of one living creature they can see within 60 feet. On a success, the surgeon's melee [[Strike|Strikes]] deal an extra 1d6 (1d6) precision damage against that creature (2d6 (2d6) on a critical success) until 1 minute passes or the surgeon critically hits that creature, whichever comes first. Using this action again designates a new target and ends the effect for any previous target. A surgeon can target an individual creature no more than once per day with this ability."
 
 speed: 25 feet
 

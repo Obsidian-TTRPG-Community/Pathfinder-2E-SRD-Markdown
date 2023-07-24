@@ -33,7 +33,7 @@ abilityMods: [1, 4, 5, 5, 2, -1]
 
 abilities_top:
   - name: "Stealth"
-    desc: "  +12, [[Lore|Underworld Lore]] +13 Str +1, Dex +4, Con +5, Int +5, Wis +2, Cha –1 Items alchemist's tools, moderate antidote, moderate antiplague, bandolier, +1 sickle, work coat (functions as padded armor)"
+    desc: "  +12, [[compendium/skills.md#Lore|Underworld Lore]] +13 Str +1, Dex +4, Con +5, Int +5, Wis +2, Cha –1 Items alchemist's tools, moderate antidote, moderate antiplague, bandolier, +1 sickle, work coat (functions as padded armor)"
   - name: "Infused Items"
     desc: "  A reckless scientist carries the following infused items: 2 moderate acid flasks, 2 moderate alchemist's fires, 1 lesser bomber's eye elixir, 2 moderate frost vials, and 3 lesser elixirs of life. These items last for 24 hours, or until the next time the scientist makes their daily preparations."
 abilities_mid:
@@ -43,7 +43,7 @@ abilities_bot:
   - name: "Quick Bomber"
     desc: "⬻  The reckless scientist Interacts to draw a bomb, then [[Strike|Strikes]] with it."
   - name: "Reckless Alchemy"
-    desc: "⬻ ([[concentrate]], [[manipulate]]); __Requirements__ The reckless scientist is holding a bomb or elixir  __Effect__  The reckless scientist combines the bomb with another bomb or the elixir with another elixir. They can [[Interact]] to draw a second bomb or elixir if necessary as part of this action. They attempt a DC 28 [[Crafting]] check, destroying both component items to create one new item. If a viable resulting item isn't used by the end of the scientist's next turn, it explodes as described under critical failure.\n__Critical Success__ The new item has the full effect of both component items when used.\n__Success__ The new item combines both items, but halves the effect of each. (This halves damage for bombs, the amount of healing of elixirs of life, or the duration for effects that can't have their value halved. Details are determined by the GM.)\n__Failure__ The new item is inert.\n__Critical Failure__ The new item immediately explodes, dealing 3d6 (3d6) piercing damage to the reckless scientist."
+    desc: "⬻ ([[concentrate]], [[manipulate]]); __Requirements__ The reckless scientist is holding a bomb or elixir  __Effect__  The reckless scientist combines the bomb with another bomb or the elixir with another elixir. They can [[Interact]] to draw a second bomb or elixir if necessary as part of this action. They attempt a DC 28 [[compendium/skills.md#Crafting|Crafting]] check, destroying both component items to create one new item. If a viable resulting item isn't used by the end of the scientist's next turn, it explodes as described under critical failure.\n__Critical Success__ The new item has the full effect of both component items when used.\n__Success__ The new item combines both items, but halves the effect of each. (This halves damage for bombs, the amount of healing of elixirs of life, or the duration for effects that can't have their value halved. Details are determined by the GM.)\n__Failure__ The new item is inert.\n__Critical Failure__ The new item immediately explodes, dealing 3d6 (3d6) piercing damage to the reckless scientist."
 
 speed: 25 feet
 

@@ -32,7 +32,7 @@ abilityMods: [6, 1, 3, 5, 4, 4]
 
 abilities_top:
   - name: "Bardic Lore"
-    desc: "  Sphinxes are naturally curious, and their love of puzzles and mysteries leads them to gather information on a broad range of topics. Sphinxes have the [[Lore|Bardic Lore]] bard feat, allowing them to [[Recall Knowledge]] on any topic."
+    desc: "  Sphinxes are naturally curious, and their love of puzzles and mysteries leads them to gather information on a broad range of topics. Sphinxes have the [[compendium/skills.md#Lore|Bardic Lore]] bard feat, allowing them to [[Recall Knowledge]] on any topic."
 abilities_bot:
   - name: "Claw Rake"
     desc: "⬽  The sphinx rears back on their hind legs and makes two claw [[Strike|Strikes]] at the same target, using the same attack bonus as their highest melee attack. If both attacks deal damage, the target takes extra damage equal to one claw [[Strike]]."

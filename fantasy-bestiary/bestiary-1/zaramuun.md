@@ -36,7 +36,7 @@ abilities_mid:
     desc: "⬲ "
 abilities_bot:
   - name: "Dune"
-    desc: "⬻ ([[concentrate]]);  Until the next time it acts, the zaramuun appears to be a sand dune. It has an automatic result of 47 (50 in sandy terrain) on [[Deception]] and [[Stealth]] checks and DCs to pass as a sand dune. Any creature that walks onto the zaramuun moves into its body and is Engulfed."
+    desc: "⬻ ([[concentrate]]);  Until the next time it acts, the zaramuun appears to be a sand dune. It has an automatic result of 47 (50 in sandy terrain) on [[compendium/skills.md#Deception|Deception]] and [[compendium/skills.md#Stealth|Stealth]] checks and DCs to pass as a sand dune. Any creature that walks onto the zaramuun moves into its body and is Engulfed."
   - name: "Engulf"
     desc: "⬺  DC 35, 4d12 (4d12) bludgeoning damage and dimensional anchor, [[Escape]] DC 32, Rupture 28."
   - name: "Raking Sand"

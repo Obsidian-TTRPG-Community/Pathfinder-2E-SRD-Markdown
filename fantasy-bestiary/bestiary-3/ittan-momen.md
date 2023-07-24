@@ -31,7 +31,7 @@ abilityMods: [2, 4, 2, 0, 1, 0]
 
 abilities_top:
   - name: "Mundane Appearance"
-    desc: "  When not moving, such as during the day, the ittan-momen is nearly indistinguishable from normal cloth. They have an automatic result of 26 on [[Deception]] checks and DCs to pass as normal cloth."
+    desc: "  When not moving, such as during the day, the ittan-momen is nearly indistinguishable from normal cloth. They have an automatic result of 26 on [[compendium/skills.md#Deception|Deception]] checks and DCs to pass as normal cloth."
 abilities_bot:
   - name: "Constrict"
     desc: "⬻  Damage 1d8 (1d8) bludgeoning, DC 18"

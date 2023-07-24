@@ -32,10 +32,10 @@ abilityMods: [2, 5, 1, -5, 0, -5]
 
 abilities_top:
   - name: "Infiltration Tools"
-    desc: "  A dig-widget's face consists of a set of infiltrator thieves' tools. They can be salvaged from a destroyed dig-widget with a successful DC 20 [[Crafting]] check. On a failed check, the tools are destroyed."
+    desc: "  A dig-widget's face consists of a set of infiltrator thieves' tools. They can be salvaged from a destroyed dig-widget with a successful DC 20 [[compendium/skills.md#Crafting|Crafting]] check. On a failed check, the tools are destroyed."
 abilities_mid:
   - name: "Mechanical Vulnerability"
-    desc: "  A creature with expert proficiency in [[Thievery]] can attempt a check to [[Disable a Device]] to damage a dig-widget. The DC is 22, and each success deals 20 damage."
+    desc: "  A creature with expert proficiency in [[compendium/skills.md#Thievery|Thievery]] can attempt a check to [[Disable a Device]] to damage a dig-widget. The DC is 22, and each success deals 20 damage."
 abilities_bot:
   - name: "Fastening Leap"
     desc: "⬻  The dig-widget Leaps up 20 feet onto a creature or object and attempts a corkscrew [[Strike]] against it. If the [[Strike]] damages the target, the dig-widget attaches to the target (typically to the back of a creature). This is similar to Grabbing the creature, but the dig-widget moves with that creature rather than holding it in place. While attached, the dig-widget can't use its corkscrew. The dig-widget can be Shoved off, or it can detach itself with an [[Interact]] action."

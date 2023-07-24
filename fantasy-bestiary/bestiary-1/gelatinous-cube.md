@@ -34,7 +34,7 @@ abilities_top:
   - name: "Motion Sense"
     desc: "  A sewer ooze can sense nearby motion through vibration and air movement."
   - name: "Transparent"
-    desc: "  A gelatinous cube is so clear that it's difficult to spot. A successful DC 23 [[Perception]] check is required to notice a stationary cube, and a creature must be [[Search|Searching]] to attempt this check. A creature that walks into the cube is automatically Engulfed (this usually causes the GM to call for initiative)."
+    desc: "  A gelatinous cube is so clear that it's difficult to spot. A successful DC 23 [[compendium/skills.md#Perception|Perception]] check is required to notice a stationary cube, and a creature must be [[Search|Searching]] to attempt this check. A creature that walks into the cube is automatically Engulfed (this usually causes the GM to call for initiative)."
 abilities_bot:
   - name: "Engulf"
     desc: "⬺  DC 19, 2d6 (2d6) acid, [[Escape]] DC 19, Rupture 7. A creature Engulfed by the gelatinous cube must also attempt a saving throw against paralysis."

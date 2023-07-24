@@ -33,7 +33,7 @@ abilityMods: [1, 3, 2, -4, 1, 0]
 
 abilities_bot:
   - name: "Icicle"
-    desc: "⬻ ([[concentrate]]);  Until the next time it acts, the icicle snake appears to be an unassuming icicle. It has an automatic result of 27 on [[Deception]] checks and DCs to pass as an icicle."
+    desc: "⬻ ([[concentrate]]);  Until the next time it acts, the icicle snake appears to be an unassuming icicle. It has an automatic result of 27 on [[compendium/skills.md#Deception|Deception]] checks and DCs to pass as an icicle."
 
 speed: 25 feet, climb 20 feet
 

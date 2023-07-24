@@ -35,7 +35,7 @@ abilityMods: [10, 6, 8, -1, 7, 8]
 
 abilities_mid:
   - name: "Curse of Death"
-    desc: " ([[curse]], [[death]], [[primal]]);  When a creature slays a tarn linnorm, it must succeed at a DC 46 Will save or it can no longer recover Hit Points via any means, such as healing spells, the [[Medicine]] skill, or natural healing from rest."
+    desc: " ([[curse]], [[death]], [[primal]]);  When a creature slays a tarn linnorm, it must succeed at a DC 46 Will save or it can no longer recover Hit Points via any means, such as healing spells, the [[compendium/skills.md#Medicine|Medicine]] skill, or natural healing from rest."
   - name: "Attack of Opportunity"
     desc: "⬲  Tail only."
 abilities_bot:

@@ -33,7 +33,7 @@ abilityMods: [8, 4, 5, 2, 5, 5]
 
 abilities_top:
   - name: "Implant Core"
-    desc: "⬽ ([[manipulate]]);  The grikkitog implants its core into an adjacent section of earth or stone, melding seamlessly and changing its visual appearance to match the surrounding rock. It's [[rules/conditions.md#Immobilized|immobilized]] but automatically succeeds at its [[Deception]] check to [[Impersonate]] the stone around it; creatures actively searching for it can still attempt [[Perception]] checks against its [[Deception]] DC as normal. A grikkitog can release its implantation as a free action, which has the [[manipulate]] trait. A grikkitog's infestation aura and manifold vision are only active while implanted."
+    desc: "⬽ ([[manipulate]]);  The grikkitog implants its core into an adjacent section of earth or stone, melding seamlessly and changing its visual appearance to match the surrounding rock. It's [[rules/conditions.md#Immobilized|immobilized]] but automatically succeeds at its [[compendium/skills.md#Deception|Deception]] check to [[Impersonate]] the stone around it; creatures actively searching for it can still attempt [[compendium/skills.md#Perception|Perception]] checks against its [[compendium/skills.md#Deception|Deception]] DC as normal. A grikkitog can release its implantation as a free action, which has the [[manipulate]] trait. A grikkitog's infestation aura and manifold vision are only active while implanted."
   - name: "Manifold Vision"
     desc: "  While its core is implanted, the grikkitog can see through the eyes it creates throughout the area of its infestation aura, gaining the benefits of all-around vision."
 abilities_mid:

@@ -41,7 +41,7 @@ abilities_bot:
   - name: "Briny Wound"
     desc: "  A sea drake's saliva carries a large quantity of salt, making its bite wounds even more painful. When a creature takes damage from a sea drake's jaws [[Strike]], the creature must attempt a DC 24 Fortitude save; the creature is then temporarily immune to briny wound for 1 minute.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is [[rules/conditions.md#Sickened|sickened 1]].\n__Failure__ The creature is [[rules/conditions.md#Sickened|sickened 2]].\n__Critical Failure__ The creature is [[rules/conditions.md#Sickened|sickened 2]] and [[rules/conditions.md#Slowed|slowed 1]] as long as it's [[rules/conditions.md#Sickened|sickened]]."
   - name: "Capsize"
-    desc: "⬻ ([[attack]]);  The drake tries to capsize an adjacent aquatic vessel of its size or smaller. The drake must succeed at an [[Athletics]] check with a DC of 25 (reduced by 5 for each size smaller the vessel is than the drake) or the pilot's [[Lore|Sailing Lore]] DC, whichever is higher."
+    desc: "⬻ ([[attack]]);  The drake tries to capsize an adjacent aquatic vessel of its size or smaller. The drake must succeed at an [[compendium/skills.md#Athletics|Athletics]] check with a DC of 25 (reduced by 5 for each size smaller the vessel is than the drake) or the pilot's [[compendium/skills.md#Lore|Sailing Lore]] DC, whichever is higher."
   - name: "Draconic Frenzy"
     desc: "⬺  The sea drake makes one jaws [[Strike]] and two tail [[Strike|Strikes]] in any order."
   - name: "Speed Surge"

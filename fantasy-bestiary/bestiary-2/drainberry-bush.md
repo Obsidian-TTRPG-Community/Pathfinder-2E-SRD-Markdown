@@ -32,10 +32,10 @@ abilityMods: [6, 2, 6, -2, 4, 2]
 
 abilities_top:
   - name: "Nature Empathy"
-    desc: "  The drainberry bush can use [[Diplomacy]] to [[Make an Impression]] on and make very simple Requests of animals and plant creatures."
+    desc: "  The drainberry bush can use [[compendium/skills.md#Diplomacy|Diplomacy]] to [[Make an Impression]] on and make very simple Requests of animals and plant creatures."
 abilities_bot:
   - name: "Blood Berries"
-    desc: "  The drainberry bush must drain blood from living creatures for sustenance. This causes clusters of bright red berries to grow among its branches. Each cluster of berries lasts for 1 day, and a drainberry bush typically has 1d6+3 (1d6+3) clusters when encountered. When consumed, a cluster restores 2d8+10 (2d8+10) Hit Points. This effect has the healing, [[necromancy]], and [[primal]] traits. A creature can pluck a cluster of berries with a successful unarmed [[Strike]] or [[Thievery]] check against the bush's AC."
+    desc: "  The drainberry bush must drain blood from living creatures for sustenance. This causes clusters of bright red berries to grow among its branches. Each cluster of berries lasts for 1 day, and a drainberry bush typically has 1d6+3 (1d6+3) clusters when encountered. When consumed, a cluster restores 2d8+10 (2d8+10) Hit Points. This effect has the healing, [[necromancy]], and [[primal]] traits. A creature can pluck a cluster of berries with a successful unarmed [[Strike]] or [[compendium/skills.md#Thievery|Thievery]] check against the bush's AC."
   - name: "Consume Berries"
     desc: "⬻ ([[healing]], [[necromancy]], [[positive]], [[primal]]);  The bush draws nourishment from one cluster of blood berries, regaining 2d8+10 (2d8+10) HP. That berry cluster wrinkles and dies."
   - name: "Drain Blood"

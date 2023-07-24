@@ -33,7 +33,7 @@ abilityMods: [0, 2, 2, 0, 4, 4]
 
 abilities_top:
   - name: "Placate"
-    desc: "  An advisor is well versed in soothing agitated nobles. Their calming voice gives them a +2 circumstance bonus to [[Deception]] and [[Diplomacy]] checks when dealing with members of the nobility."
+    desc: "  An advisor is well versed in soothing agitated nobles. Their calming voice gives them a +2 circumstance bonus to [[compendium/skills.md#Deception|Deception]] and [[compendium/skills.md#Diplomacy|Diplomacy]] checks when dealing with members of the nobility."
   - name: Items
     desc: "dagger (2), fine clothes, small harp, minor healing potion, whip;"
 

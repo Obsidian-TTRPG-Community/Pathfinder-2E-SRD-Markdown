@@ -33,7 +33,7 @@ abilityMods: [0, 3, 1, 0, 1, 4]
 
 abilities_top:
   - name: "Wild Empathy"
-    desc: "  The nixie can use [[Diplomacy]] to [[Make an Impression]] on and make very simple Requests of aquatic or amphibious animals."
+    desc: "  The nixie can use [[compendium/skills.md#Diplomacy|Diplomacy]] to [[Make an Impression]] on and make very simple Requests of aquatic or amphibious animals."
 abilities_bot:
   - name: "Grant Desire"
     desc: "⬽ ([[divination]], [[primal]]); __Frequency__ once per day  __Effect__  The nixie can duplicate any 1st-level spell or produce any effect with a power level in line with a 1st-level spell, but only in response to the request or desire of a non-fey creature. The creature whose desire is granted can never again benefit from that particular nixie's Grant Desire ability."

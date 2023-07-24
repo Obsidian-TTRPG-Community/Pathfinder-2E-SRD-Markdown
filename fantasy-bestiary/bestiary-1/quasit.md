@@ -33,7 +33,7 @@ abilityMods: [-1, 4, 0, 1, 2, 2]
 
 abilities_top:
   - name: "Abyssal Knowledge"
-    desc: "  When a quasit offers [[Aid]] for an [[Arcana]] or [[Religion]] check, it gets the critical success result on any success and gets the critical failure result on any failure."
+    desc: "  When a quasit offers [[Aid]] for an [[compendium/skills.md#Arcana|Arcana]] or [[compendium/skills.md#Religion|Religion]] check, it gets the critical success result on any success and gets the critical failure result on any failure."
 abilities_mid:
   - name: "Virtue Aversion"
     desc: "  The quasit's link to a mortal soul gave it birth, but it presents a vulnerability. Once per round, a creature can present an object related to something virtuous or good in the life of the quasit's creator (such as a beloved daughter's doll) as an [[Interact]] action to automatically deal the quasit 2d6 (2d6) mental damage."

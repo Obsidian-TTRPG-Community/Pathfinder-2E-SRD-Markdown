@@ -38,7 +38,7 @@ abilities_bot:
   - name: "Clawing Fear"
     desc: "  The scarecrow's strikes deal an additional 1d6 (1d6) mental damage to [[rules/conditions.md#Frightened|frightened]] creatures."
   - name: "Mundane Appearance"
-    desc: "⬻ ([[concentrate]]);  Until it acts, the scarecrow resembles an ordinary scarecrow. It has an automatic result of 32 on [[Deception]] checks and DCs to pass as an ordinary scarecrow."
+    desc: "⬻ ([[concentrate]]);  Until it acts, the scarecrow resembles an ordinary scarecrow. It has an automatic result of 32 on [[compendium/skills.md#Deception|Deception]] checks and DCs to pass as an ordinary scarecrow."
 
 speed: 20 feet
 

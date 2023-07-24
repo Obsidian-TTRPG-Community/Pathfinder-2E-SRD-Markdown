@@ -33,9 +33,9 @@ abilityMods: [4, 4, 1, 2, 2, 0]
 
 abilities_top:
   - name: "Stealth"
-    desc: "  +11, [[Thievery]] +13 Str +4, Dex +4, Con +1, Int +2, Wis +2, Cha +0 Items climbing kit, hand crossbow (20 bolts), +1 kukri."
+    desc: "  +11, [[compendium/skills.md#Thievery|Thievery]] +13 Str +4, Dex +4, Con +1, Int +2, Wis +2, Cha +0 Items climbing kit, hand crossbow (20 bolts), +1 kukri."
   - name: "Hazard Spotter"
-    desc: "  The tomb raider automatically attempts a secret [[Perception]] check to notice a hazard when they are within 10 feet of the hazard."
+    desc: "  The tomb raider automatically attempts a secret [[compendium/skills.md#Perception|Perception]] check to notice a hazard when they are within 10 feet of the hazard."
   - name: Items
     desc: "climbing kit, hand crossbow (20 bolts), +1 kukri;"
 abilities_bot:

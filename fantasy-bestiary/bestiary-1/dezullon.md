@@ -38,7 +38,7 @@ abilities_bot:
   - name: "Constrict"
     desc: "⬻  2d6+2 (2d6+2) bludgeoning."
   - name: "Root"
-    desc: "⬻ ([[concentrate]]);  Until the next time it acts, the dezullon appears to be a normal pitcher plant. It has an automatic result of 41 (44 in forests or swamps) on [[Deception]] checks and DCs to pass as a non-creature plant."
+    desc: "⬻ ([[concentrate]]);  Until the next time it acts, the dezullon appears to be a normal pitcher plant. It has an automatic result of 41 (44 in forests or swamps) on [[compendium/skills.md#Deception|Deception]] checks and DCs to pass as a non-creature plant."
 
 speed: 25 feet; climb 30 feet;
 

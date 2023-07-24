@@ -33,7 +33,7 @@ abilityMods: [4, 1, 3, -2, 2, 0]
 
 abilities_mid:
   - name: "Hatred of Mirrors"
-    desc: "  An abrikandilu loathes the sight of their reflection. When a creature Interacts with a mirror within sight of the wrecker demon, the demon takes a –2 penalty to Will saves against [[Intimidation]] checks. An abrikandilu that ends their turn adjacent to a mirror or that's attacked by a creature holding a mirror takes 1d6 (1d6) mental damage (this usually leads abrikandilus to focus their efforts on destroying nearby mirrors using Wreck)."
+    desc: "  An abrikandilu loathes the sight of their reflection. When a creature Interacts with a mirror within sight of the wrecker demon, the demon takes a –2 penalty to Will saves against [[compendium/skills.md#Intimidation|Intimidation]] checks. An abrikandilu that ends their turn adjacent to a mirror or that's attacked by a creature holding a mirror takes 1d6 (1d6) mental damage (this usually leads abrikandilus to focus their efforts on destroying nearby mirrors using Wreck)."
 abilities_bot:
   - name: "Mutilating Bite"
     desc: " ([[curse]], [[divine]], [[necromancy]]);  When the abrikandilu hits a creature with a jaws [[Strike]], the creature must succeed at a DC 21 Fortitude save or become physically mutilated. The creature then takes a –1 status penalty to Charisma-based checks. This penalty is cumulative up to –3 and remains even if the wounds are healed. The penalty is reduced by 1 every 24 hours until it reaches 0."

@@ -39,7 +39,7 @@ abilities_mid:
     desc: "⬲  Jaws only."
 abilities_bot:
   - name: "Drag Below"
-    desc: "⬻ ([[attack]]);  The elasmosaurus attempts an [[Athletics]] check against a [[rules/conditions.md#Grabbed|grabbed]] foe's Fortitude DC. If the elasmosaurus succeeds, the foe is forcibly moved 5 feet toward the elasmosaurus's body. If the elasmosaurus critically succeeds, the foe is moved 10 feet towards the elasmosaurus's body."
+    desc: "⬻ ([[attack]]);  The elasmosaurus attempts an [[compendium/skills.md#Athletics|Athletics]] check against a [[rules/conditions.md#Grabbed|grabbed]] foe's Fortitude DC. If the elasmosaurus succeeds, the foe is forcibly moved 5 feet toward the elasmosaurus's body. If the elasmosaurus critically succeeds, the foe is moved 10 feet towards the elasmosaurus's body."
   - name: "Thrashing Retreat"
     desc: "⬺  A swimming elasmosaurus thrashes the area around it as it attempts to flee. It makes two paddle [[Strike|Strikes]], each of which must be against separate targets, and each of which takes the normal multiple attack penalty. It then Swims up to its swim Speed. This [[Swim]] does not trigger reactions based on movement."
   - name: "Elemental, Air"

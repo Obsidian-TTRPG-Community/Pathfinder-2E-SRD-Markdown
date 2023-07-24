@@ -37,7 +37,7 @@ abilities_bot:
   - name: "Constrict"
     desc: "⬻  1d6+6 (1d6+6) bludgeoning, DC 22."
   - name: "Reposition"
-    desc: "⬻  The otyugh attempts to move all creatures that it has [[rules/conditions.md#Grabbed|grabbed]] into other spaces within the reach of its tentacles, rolling a single [[Athletics]] check and comparing the result against each creature's Fortitude DC. On a failure, the creature remains in place, and on a critical failure, the creature is no longer [[rules/conditions.md#Grabbed|grabbed]]."
+    desc: "⬻  The otyugh attempts to move all creatures that it has [[rules/conditions.md#Grabbed|grabbed]] into other spaces within the reach of its tentacles, rolling a single [[compendium/skills.md#Athletics|Athletics]] check and comparing the result against each creature's Fortitude DC. On a failure, the creature remains in place, and on a critical failure, the creature is no longer [[rules/conditions.md#Grabbed|grabbed]]."
   - name: "Filth Fever"
     desc: " ([[disease]]);  __Saving Throw__ DC 20 Fortitude. __Stage 1__ carrier with no ill effect (1d4 (1d4) hours) __Stage 2__ [[rules/conditions.md#Sickened|sickened 1]] (1 day) __Stage 3__ [[rules/conditions.md#Sickened|sickened 1]] and [[rules/conditions.md#Slowed|slowed 1]] as long as it remains [[rules/conditions.md#Sickened|sickened]] (1 day) __Stage 4__ [[rules/conditions.md#Unconscious|unconscious]] ; (1 day)"
 

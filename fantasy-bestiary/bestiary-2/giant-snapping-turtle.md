@@ -34,7 +34,7 @@ abilities_top:
     desc: "  The giant snapping turtle can hold its breath for 2 hours."
 abilities_bot:
   - name: "Capsize"
-    desc: "⬻ ([[attack]], [[move]]);  The turtle tries to capsize an adjacent aquatic vessel of its size or smaller. The turtle must succeed at a DC 35 [[Athletics]] check (reduced by 5 for each size smaller the vessel is than the turtle) or the pilot's [[Lore|Sailing Lore]] DC, whichever is higher."
+    desc: "⬻ ([[attack]], [[move]]);  The turtle tries to capsize an adjacent aquatic vessel of its size or smaller. The turtle must succeed at a DC 35 [[compendium/skills.md#Athletics|Athletics]] check (reduced by 5 for each size smaller the vessel is than the turtle) or the pilot's [[compendium/skills.md#Lore|Sailing Lore]] DC, whichever is higher."
   - name: "Shell Defense"
     desc: "⬻  The snapping turtle retracts its limbs and head into its shell and ends its turn. This increases its AC to 30, but it can't act except to reemerge, which it can do as a single action."
   - name: "Swallow Whole"

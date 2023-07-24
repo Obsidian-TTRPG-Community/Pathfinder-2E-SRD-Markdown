@@ -37,12 +37,12 @@ abilities_top:
   - name: "Slow Metabolism"
     desc: "  A water orm can go for 10 years without feeding. Beyond this limit, the water orm's hunger causes it to become [[rules/conditions.md#Slowed|slowed 1]], but doesn't otherwise impact its lifespan. A water orm that's [[rules/conditions.md#Slowed|slowed]] as a result of starvation can remove this condition by using Swallow Whole to gulp down a meal."
   - name: "Undetectable"
-    desc: " ([[abjuration]], [[primal]]);  A water orm automatically tries to counteract any detection, revelation, or scrying divination attempted against it, using its [[Stealth]] modifier for the counteract check."
+    desc: " ([[abjuration]], [[primal]]);  A water orm automatically tries to counteract any detection, revelation, or scrying divination attempted against it, using its [[compendium/skills.md#Stealth|Stealth]] modifier for the counteract check."
 abilities_bot:
   - name: "Swallow Whole"
     desc: "⬻ ([[attack]]);  Large, 2d8+8 (2d8+8) bludgeoning, Rupture 22."
   - name: "Water Travel"
-    desc: "⬽ ([[primal]], [[transmutation]], [[water]]);  A water orm can dissolve into water, appearing only as a long, dark, serpentine stretch of water. While in this form, a water orm's swim Speed increases to 600 feet, it automatically succeeds at [[Athletics]] checks to swim, and it gains a +4 circumstance bonus to [[Stealth]] checks in water. A water orm can remain in this form for 8 hours, but it can't enter salt water when using this ability. A water orm can return to its normal form using a single action which has the [[concentrate]] trait."
+    desc: "⬽ ([[primal]], [[transmutation]], [[water]]);  A water orm can dissolve into water, appearing only as a long, dark, serpentine stretch of water. While in this form, a water orm's swim Speed increases to 600 feet, it automatically succeeds at [[compendium/skills.md#Athletics|Athletics]] checks to swim, and it gains a +4 circumstance bonus to [[compendium/skills.md#Stealth|Stealth]] checks in water. A water orm can remain in this form for 8 hours, but it can't enter salt water when using this ability. A water orm can return to its normal form using a single action which has the [[concentrate]] trait."
 
 speed: 20 feet, swim 50 feet
 

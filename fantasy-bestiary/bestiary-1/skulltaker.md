@@ -25,7 +25,7 @@ modifier: 33
 perception:
   - name: "Perception"
     desc: "Perception +33; __darkvision__, __true seeing__;"
-languages: "Necril;  [[Lore|Skeletal Lore]] languages;"
+languages: "Necril;  [[compendium/skills.md#Lore|Skeletal Lore]] languages;"
 skills:
   - name: "Skills"
     desc: "__Acrobatics__: +34 (1d20+34); __Intimidation__: +35 (1d20+35); __Religion__: +30 (1d20+30); __Stealth__: +32 (1d20+32); __Skeletal lore__: +30 (1d20+30); "
@@ -33,7 +33,7 @@ abilityMods: [8, 6, 6, 2, 8, 7]
 
 abilities_top:
   - name: "Skeletal Lore"
-    desc: " ([[divination]], [[divine]]);  A skulltaker taps into the memories of the creatures whose bones make up its body. This gives it the [[Lore|Skeletal Lore]] skill, which it can use to [[Recall Knowledge]] of any kind. In addition, it can speak and understand all the languages known by the creatures whose bones make up its body (typically including Common and the regional language of the skulltakerʼs home region). The skulltaker can use [[Lore|Skeletal Lore]] as the primary skill check for the legend lore ritual (Core Rulebook 413), and it can cast legend lore without secondary casters."
+    desc: " ([[divination]], [[divine]]);  A skulltaker taps into the memories of the creatures whose bones make up its body. This gives it the [[compendium/skills.md#Lore|Skeletal Lore]] skill, which it can use to [[Recall Knowledge]] of any kind. In addition, it can speak and understand all the languages known by the creatures whose bones make up its body (typically including Common and the regional language of the skulltakerʼs home region). The skulltaker can use [[compendium/skills.md#Lore|Skeletal Lore]] as the primary skill check for the legend lore ritual (Core Rulebook 413), and it can cast legend lore without secondary casters."
 abilities_mid:
   - name: "Shard Storm"
     desc: " ([[air]], [[aura]], [[divine]], [[necromancy]]);  10 feet. A cloud of bone shards surrounds the skulltaker. When a creature moves into the emanation or begins its turn there, shard storm attempts to counteract any death ward effect on the creature (+30 counteract modifier) and then deals 4d6 (4d6) slashing damage and 4d6 (4d6) negative damage to the creature, with a DC 40 basic Reflex save."

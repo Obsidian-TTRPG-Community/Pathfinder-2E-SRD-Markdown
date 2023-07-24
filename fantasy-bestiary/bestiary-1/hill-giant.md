@@ -34,7 +34,7 @@ abilityMods: [6, 0, 4, -2, 2, 0]
 
 abilities_top:
   - name: "Language Common, Jotun"
-    desc: "  Skills [[Athletics]] +19, [[Intimidation]] +11 Str +6, Dex +0, Con +4, Int –2, Wis +2, Cha +0 Items greatclub, hide armor, sack with 5 rocks."
+    desc: "  Skills [[compendium/skills.md#Athletics|Athletics]] +19, [[compendium/skills.md#Intimidation|Intimidation]] +11 Str +6, Dex +0, Con +4, Int –2, Wis +2, Cha +0 Items greatclub, hide armor, sack with 5 rocks."
   - name: Items
     desc: "greatclub, hide armor, sack with 5 rocks;"
 abilities_mid:

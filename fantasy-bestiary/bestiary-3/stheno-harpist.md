@@ -34,9 +34,9 @@ abilityMods: [0, 2, 3, 1, -1, 4]
 
 abilities_top:
   - name: "Snake Search"
-    desc: "  When the stheno harpist Searches or Seeks, their snakes try to help too, rolling a separate [[Perception]] check with a modifier of –1 instead of +4. If the snakes notice something, they try to notify the stheno, though they are no more intelligent than normal snakes and might find different things interesting than the stheno does."
+    desc: "  When the stheno harpist Searches or Seeks, their snakes try to help too, rolling a separate [[compendium/skills.md#Perception|Perception]] check with a modifier of –1 instead of +4. If the snakes notice something, they try to notify the stheno, though they are no more intelligent than normal snakes and might find different things interesting than the stheno does."
   - name: "Speak With Snakes"
-    desc: "  The stheno harpist can communicate with snakes, including the ones in their hair, and can use [[Diplomacy]] to [[Make an Impression]] on snakes and [[Request]] things from snakes. Items harp, leather armor, rapier, shortbow."
+    desc: "  The stheno harpist can communicate with snakes, including the ones in their hair, and can use [[compendium/skills.md#Diplomacy|Diplomacy]] to [[Make an Impression]] on snakes and [[Request]] things from snakes. Items harp, leather armor, rapier, shortbow."
   - name: Items
     desc: "harp, leather armor, rapier, shortbow;"
 

@@ -40,7 +40,7 @@ abilities_bot:
   - name: "Steady Spellcasting"
     desc: "  When a reaction would disrupt a glabrezu's spell, the demon can attempt a DC 15 flat check, avoiding the disruption on a success."
   - name: "Sudden Betrayal"
-    desc: "  A glabrezu can always use [[Deception]] when rolling initiative as long as they're aware of at least one opponent before initiative is rolled. When using [[Deception]] for initiative, the demon gains a +2 circumstance bonus to [[Deception]]."
+    desc: "  A glabrezu can always use [[compendium/skills.md#Deception|Deception]] when rolling initiative as long as they're aware of at least one opponent before initiative is rolled. When using [[compendium/skills.md#Deception|Deception]] for initiative, the demon gains a +2 circumstance bonus to [[compendium/skills.md#Deception|Deception]]."
   - name: "Treacherous Veil"
     desc: "  A glabrezu's illusory disguise can allow it to appear as a creature of any size."
   - name: "Twisted Desires"

@@ -34,7 +34,7 @@ abilityMods: [4, 3, 3, 0, 4, 4]
 
 abilities_top:
   - name: "Wild Empathy"
-    desc: "  The unicorn has a connection to the creatures of the natural world that allows it to communicate with them. The unicorn can use [[Diplomacy]] to [[Make an Impression]] on animals and to make very simple Requests of them."
+    desc: "  The unicorn has a connection to the creatures of the natural world that allows it to communicate with them. The unicorn can use [[compendium/skills.md#Diplomacy|Diplomacy]] to [[Make an Impression]] on animals and to make very simple Requests of them."
 abilities_bot:
   - name: "Ghost Touch"
     desc: "  A unicorn's [[Strike|Strikes]] have the effects of a ghost touch property rune."

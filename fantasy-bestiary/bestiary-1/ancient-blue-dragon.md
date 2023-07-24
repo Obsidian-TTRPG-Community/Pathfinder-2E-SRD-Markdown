@@ -34,7 +34,7 @@ abilityMods: [7, 4, 6, 7, 5, 7]
 
 abilities_top:
   - name: "Sound Imitation"
-    desc: "  The dragon can mimic any sound it has heard. To do so, it must succeed at a [[Deception]] check with a +4 circumstance bonus."
+    desc: "  The dragon can mimic any sound it has heard. To do so, it must succeed at a [[compendium/skills.md#Deception|Deception]] check with a +4 circumstance bonus."
 abilities_mid:
   - name: "Frightful Presence"
     desc: " ([[aura]], [[emotion]], [[fear]], [[mental]]);  90 feet, DC 39."

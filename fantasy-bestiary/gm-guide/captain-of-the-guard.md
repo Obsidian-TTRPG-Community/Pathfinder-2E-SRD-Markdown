@@ -33,7 +33,7 @@ abilityMods: [5, 0, 2, 0, 3, 3]
 
 abilities_top:
   - name: "Society"
-    desc: "  +10, [[Lore|Warfare Lore]] +8 Str +5, Dex +0, Con +2, Int +0, Wis +3, Cha +3 Items crossbow (20 bolts), dagger, full plate, +1 longsword, steel shield (Hardness 5, 20 HP, BT 10)"
+    desc: "  +10, [[compendium/skills.md#Lore|Warfare Lore]] +8 Str +5, Dex +0, Con +2, Int +0, Wis +3, Cha +3 Items crossbow (20 bolts), dagger, full plate, +1 longsword, steel shield (Hardness 5, 20 HP, BT 10)"
   - name: Items
     desc: "crossbow (20 bolts), dagger, full plate, +1 longsword, steel shield (Hardness 5, 20 HP, BT 10);"
 abilities_mid:

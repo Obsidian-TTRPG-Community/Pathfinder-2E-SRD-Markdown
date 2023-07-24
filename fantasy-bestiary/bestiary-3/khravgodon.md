@@ -31,7 +31,7 @@ abilityMods: [6, 3, 5, -4, 3, 0]
 
 abilities_mid:
   - name: "Feign Death"
-    desc: "⬲ __Trigger__ The opossum is reduced below 70 HP __Effect__  The khravgodon collapses. It is [[rules/conditions.md#Flat-Footed|flat-footed]] and can use actions that require only its mind, but any other action ends the ruse. A successful DC 18 [[Perception]] check to [[Seek]] or [[Medicine]] check to [[Recall Knowledge]] is required to determine that the animal is not, in fact, dead."
+    desc: "⬲ __Trigger__ The opossum is reduced below 70 HP __Effect__  The khravgodon collapses. It is [[rules/conditions.md#Flat-Footed|flat-footed]] and can use actions that require only its mind, but any other action ends the ruse. A successful DC 18 [[compendium/skills.md#Perception|Perception]] check to [[Seek]] or [[compendium/skills.md#Medicine|Medicine]] check to [[Recall Knowledge]] is required to determine that the animal is not, in fact, dead."
   - name: "Revived Retaliation"
     desc: "⬲ __Trigger__ The opossum is attacked or disturbed by a creature within reach while Feigning Death __Effect__  The opossum [[Strike|Strikes]] the triggering creature."
 abilities_bot:

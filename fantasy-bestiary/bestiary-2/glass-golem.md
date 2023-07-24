@@ -38,7 +38,7 @@ abilities_mid:
   - name: "Vulnerable to Shatter"
     desc: "  A glass golem is affected by the [[shatter]] spell as though the golem were an unattended object."
   - name: "Spell Reflection"
-    desc: "⬲ ([[abjuration]], [[arcane]]);  Trigger The glass golem is targeted by a spell; The glass golem positions its magical, reflective surfaces to turn the spell back on the caster. It tries to counteract the spell by attempting an [[Acrobatics]] check for its counteract check. If it successfully counteract the spell, the effect is turned back on the caster."
+    desc: "⬲ ([[abjuration]], [[arcane]]);  Trigger The glass golem is targeted by a spell; The glass golem positions its magical, reflective surfaces to turn the spell back on the caster. It tries to counteract the spell by attempting an [[compendium/skills.md#Acrobatics|Acrobatics]] check for its counteract check. If it successfully counteract the spell, the effect is turned back on the caster."
 abilities_bot:
   - name: "Dazzling Brilliance"
     desc: "⬺ ([[evocation]], [[light]], [[visual]]);  The glass golem creates waves of scintillating luminosity that cast bright light in a 60-foot emanation (and dim light for the next 60 feet). The light lasts until the start of the glass golem's next turn, after which the glass golem can't use Dazzling Brilliance for 1d4 (1d4) rounds. A creature within the bright light or that enters the bright light must attempt a DC 23 Will save.\n__Success__ The creature is unaffected.\n__Failure__ The creature is [[rules/conditions.md#Dazzled|dazzled]] for 1 round.\n__Critical Failure__ The creature is [[rules/conditions.md#Blinded|blinded]] for 1 round and then [[rules/conditions.md#Dazzled|dazzled]] for an additional 4 rounds."

@@ -33,12 +33,12 @@ abilityMods: [3, 3, 1, 0, 2, 1]
 
 abilities_top:
   - name: "Survival"
-    desc: "  +6, [[Thievery]] +8 Str +3, Dex +3, Con +1, Int +0, Wis +2, Cha +1 Items hatchet, sling (10 bullets), studded leather armor."
+    desc: "  +6, [[compendium/skills.md#Thievery|Thievery]] +8 Str +3, Dex +3, Con +1, Int +0, Wis +2, Cha +1 Items hatchet, sling (10 bullets), studded leather armor."
   - name: Items
     desc: "hatchet, sling (10 bullets), studded leather armor;"
 abilities_mid:
   - name: "Bandit's Ambush"
-    desc: "  When the bandit rolls initiative using [[Deception]] or [[Stealth]], they can attempt to [[Demoralize]] one creature as a free action."
+    desc: "  When the bandit rolls initiative using [[compendium/skills.md#Deception|Deception]] or [[compendium/skills.md#Stealth|Stealth]], they can attempt to [[Demoralize]] one creature as a free action."
 abilities_bot:
   - name: "Dread Striker"
     desc: "  [[rules/conditions.md#Frightened|Frightened]] creatures are [[rules/conditions.md#Flat-Footed|flat-footed]] to the bandit."

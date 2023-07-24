@@ -35,7 +35,7 @@ abilityMods: [5, 2, 4, 3, 4, 2]
 
 abilities_top:
   - name: "Nourishing Feast"
-    desc: "  The gurgist spends 1 hour consuming 1 Bulk of raw meat to reverse their body's putrescence. For 1 hour, the gurgist appears to be a pale, bloated human. They have an automatic result of 32 on [[Deception]] checks and DCs to pass as a non-mortic human. While under the effects of Nourishing Feast, Rotting Flesh ceases to function."
+    desc: "  The gurgist spends 1 hour consuming 1 Bulk of raw meat to reverse their body's putrescence. For 1 hour, the gurgist appears to be a pale, bloated human. They have an automatic result of 32 on [[compendium/skills.md#Deception|Deception]] checks and DCs to pass as a non-mortic human. While under the effects of Nourishing Feast, Rotting Flesh ceases to function."
   - name: Items
     desc: "composite shortbow (20 arrows), hide armor, +1 maul;"
 abilities_mid:

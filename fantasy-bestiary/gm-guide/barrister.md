@@ -35,10 +35,10 @@ abilities_top:
   - name: "Society"
     desc: "  +9 Str +0, Dex +1, Con +1, Int +3, Wis +2, Cha + 4 Items court garb (functions as fine clothing), law book (functions as scholarly journal), writing set."
   - name: "Sway the Judge and Jury"
-    desc: "  A barrister gains a +2 circumstance bonus to [[Diplomacy]] checks to [[Make an Impression]] or [[Request]] something of the deciding members within a courtroom. If the barrister successfully Performs against a DC of 20 during the 20 minutes prior to the check, they increase the circumstance bonus to +4."
+    desc: "  A barrister gains a +2 circumstance bonus to [[compendium/skills.md#Diplomacy|Diplomacy]] checks to [[Make an Impression]] or [[Request]] something of the deciding members within a courtroom. If the barrister successfully Performs against a DC of 20 during the 20 minutes prior to the check, they increase the circumstance bonus to +4."
 abilities_bot:
   - name: "Cite Precedent"
-    desc: "⬻ ([[auditory]], [[linguistic]]);  The barrister uses existing case law to undermine their opposition. If they succeed at a DC 20 [[Lore|Legal Lore]] check, they impose a –2 circumstance penalty on the next [[Diplomacy]] check an opponent attempts in a legal argument. Any further attempts to Cite Precedent fail until a new topic with different precedents is being argued."
+    desc: "⬻ ([[auditory]], [[linguistic]]);  The barrister uses existing case law to undermine their opposition. If they succeed at a DC 20 [[compendium/skills.md#Lore|Legal Lore]] check, they impose a –2 circumstance penalty on the next [[compendium/skills.md#Diplomacy|Diplomacy]] check an opponent attempts in a legal argument. Any further attempts to Cite Precedent fail until a new topic with different precedents is being argued."
 
 speed: 25 feet
 

@@ -40,7 +40,7 @@ abilities_mid:
   - name: "Vulnerable to Flesh to Stone"
     desc: "  Casting a [[flesh to stone]] spell on the flesh golem affects the golem normally."
   - name: "Electric Reflexes"
-    desc: "⬲ __Trigger__ The golem takes electricity damage and a creature is adjacent to it. __Effect__  The golem lashes out and tries to grab a nearby creature. The golem attempts an [[Athletics]] check to [[Grapple]] an adjacent creature. The creature also takes 3d6 (3d6) electricity damage on a success, or 6d6 (6d6) electricity damage on a critical success."
+    desc: "⬲ __Trigger__ The golem takes electricity damage and a creature is adjacent to it. __Effect__  The golem lashes out and tries to grab a nearby creature. The golem attempts an [[compendium/skills.md#Athletics|Athletics]] check to [[Grapple]] an adjacent creature. The creature also takes 3d6 (3d6) electricity damage on a success, or 6d6 (6d6) electricity damage on a critical success."
 abilities_bot:
   - name: "Berserk Slam"
     desc: "⬻ __Requirements__ The flesh golem is berserk.  __Effect__  The flesh golem [[Strike|Strikes]] with its fist at a –1 circumstance penalty. If it hits, it deals 1d6 (1d6) extra damage and knocks the target [[rules/conditions.md#Prone|prone]]."

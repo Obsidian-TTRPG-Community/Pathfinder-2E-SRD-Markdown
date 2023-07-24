@@ -32,7 +32,7 @@ abilityMods: [5, 3, 4, 3, 2, 0]
 
 abilities_top:
   - name: "Lore"
-    desc: "  +15 (applies only to their home ruins), [[Stealth]] +13 Str +5, Dex +3, Con +4, Int +3, Wis +2, Cha +0 Items scimitar (2)"
+    desc: "  +15 (applies only to their home ruins), [[compendium/skills.md#Stealth|Stealth]] +13 Str +5, Dex +3, Con +4, Int +3, Wis +2, Cha +0 Items scimitar (2)"
   - name: Items
     desc: "scimitar (2);"
 abilities_mid:

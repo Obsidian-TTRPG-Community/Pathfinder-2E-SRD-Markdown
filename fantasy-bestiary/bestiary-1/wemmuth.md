@@ -38,7 +38,7 @@ abilities_bot:
   - name: "Engulf"
     desc: "⬺  DC 37, 4d8 (4d8) bludgeoning, [[Escape]] DC 35, Rupture 36."
   - name: "Thorny Mass"
-    desc: "  Whenever a creature within 10 feet attempts a melee attack against a wemmuth or uses [[Acrobatics]] to [Tumble Through](../../../rules/actions/tumble-through.md) its space, that creature takes 1d12+10 (1d12+10) piercing damage."
+    desc: "  Whenever a creature within 10 feet attempts a melee attack against a wemmuth or uses [[compendium/skills.md#Acrobatics|Acrobatics]] to [Tumble Through](../../../rules/actions/tumble-through.md) its space, that creature takes 1d12+10 (1d12+10) piercing damage."
 
 speed: 25 feet, burrow 25 feet, climb 25 feet
 

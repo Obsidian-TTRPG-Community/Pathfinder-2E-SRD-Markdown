@@ -35,7 +35,7 @@ abilities_top:
   - name: "Self-Loathing"
     desc: " ([[emotion]], [[mental]]);  A mitflit's self-loathing makes it easy to influence. It takes a –4 penalty to its Will DC against checks to [[Coerce]], [[Demoralize]], [[Make an Impression]], and [[Request]]."
   - name: "Vermin Empathy"
-    desc: "  Mitflits can use [[Diplomacy]] to [[Make an Impression]] on and [[Request]] things of arthropods (insects, spiders, scorpions, crabs, and similar invertebrate animals). Most arthropods have a starting attitude of [[rules/conditions.md#Indifferent|indifferent]] to mitflits."
+    desc: "  Mitflits can use [[compendium/skills.md#Diplomacy|Diplomacy]] to [[Make an Impression]] on and [[Request]] things of arthropods (insects, spiders, scorpions, crabs, and similar invertebrate animals). Most arthropods have a starting attitude of [[rules/conditions.md#Indifferent|indifferent]] to mitflits."
   - name: Items
     desc: "[[dart]] (10), [[shortsword]];"
 abilities_bot:

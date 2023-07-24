@@ -32,10 +32,10 @@ abilityMods: [8, 4, 6, -4, 2, 0]
 
 abilities_top:
   - name: "Undetectable"
-    desc: " ([[abjuration]], [[primal]]);  A sea serpent automatically tries to counteract any detection, revelation, or scrying divination attempted against it, using its [[Stealth]] modifier for its counteract modifier."
+    desc: " ([[abjuration]], [[primal]]);  A sea serpent automatically tries to counteract any detection, revelation, or scrying divination attempted against it, using its [[compendium/skills.md#Stealth|Stealth]] modifier for its counteract modifier."
 abilities_bot:
   - name: "Capsize"
-    desc: "⬻ ([[attack]]);  The sea serpent attempts to capsize an aquatic vessel of its size or smaller that it's adjacent to. It must succeed at an [[Athletics]] check with a DC of 35 or the pilot's [[Lore|Sailing Lore]] DC, whichever is higher."
+    desc: "⬻ ([[attack]]);  The sea serpent attempts to capsize an aquatic vessel of its size or smaller that it's adjacent to. It must succeed at an [[compendium/skills.md#Athletics|Athletics]] check with a DC of 35 or the pilot's [[compendium/skills.md#Lore|Sailing Lore]] DC, whichever is higher."
   - name: "Constrict"
     desc: "⬻  1d10+14 (1d10+14) bludgeoning."
   - name: "Sea Serpent Algae"

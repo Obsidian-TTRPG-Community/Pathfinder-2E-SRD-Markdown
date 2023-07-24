@@ -36,7 +36,7 @@ abilities_bot:
   - name: "Anticoagulant"
     desc: "  The skull peeler's razor-sharp tongue is coated in an anticoagulant substance that makes wounds it inflicts particularly hard to close. The DC of the flat check to end the [[rules/conditions.md#Persistent%20Damage|persistent bleed damage]] from a skull peeler's tongue is 16, or 11 with appropriate assistance."
   - name: "Perfect Camouflage"
-    desc: "⬻ ([[concentrate]]); __Requirements__ The skull peeler is in a treetop or standing on a tree limb  __Effect__  Until the next time it acts, the skull peeler hangs perfectly still, blending into the treetop surroundings. It has an automatic result of 36 on [[Stealth]] checks and DCs to [[Hide]] from any creature more than 10 feet away from it."
+    desc: "⬻ ([[concentrate]]); __Requirements__ The skull peeler is in a treetop or standing on a tree limb  __Effect__  Until the next time it acts, the skull peeler hangs perfectly still, blending into the treetop surroundings. It has an automatic result of 36 on [[compendium/skills.md#Stealth|Stealth]] checks and DCs to [[Hide]] from any creature more than 10 feet away from it."
 
 speed: 20 feet, climb 15 feet, fly 10 feet
 

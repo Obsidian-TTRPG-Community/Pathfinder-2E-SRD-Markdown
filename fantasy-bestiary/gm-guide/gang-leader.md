@@ -37,7 +37,7 @@ abilities_mid:
   - name: "Evasion"
     desc: "  When the gang leader rolls a success on a Reflex save, they get a critical success instead."
   - name: "Surprise Attack"
-    desc: "  On the first round of combat, if the gang leader rolls [[Deception]] or [[Stealth]] for initiative, creatures who haven't acted are [[rules/conditions.md#Flat-Footed|flat-footed]] to the gang leader."
+    desc: "  On the first round of combat, if the gang leader rolls [[compendium/skills.md#Deception|Deception]] or [[compendium/skills.md#Stealth|Stealth]] for initiative, creatures who haven't acted are [[rules/conditions.md#Flat-Footed|flat-footed]] to the gang leader."
   - name: "Nimble Dodge"
     desc: "⬲ __Trigger__ The gang leader is targeted with an attack by an attacker they can see __Effect__  The gang leader gains a +2 circumstance bonus to AC against the triggering attack."
 abilities_bot:

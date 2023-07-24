@@ -36,7 +36,7 @@ abilities_top:
     desc: "  A green hag adds entangle, outcast's curse, and wall of thorns to her coven's spells."
 abilities_mid:
   - name: "Sound Imitation"
-    desc: "  A green hag who succeeds at a [[Deception]] check to [[Lie]] can mimic the sounds of any animal found near her lair. She has a +4 circumstance bonus to this check."
+    desc: "  A green hag who succeeds at a [[compendium/skills.md#Deception|Deception]] check to [[Lie]] can mimic the sounds of any animal found near her lair. She has a +4 circumstance bonus to this check."
 abilities_bot:
   - name: "Betraying Touch"
     desc: "⬻  The green hag touches a creature that doesn't realize the hag is an enemy. The betrayed creature is affected by the hag's enfeebling humors and takes a –4 circumstance penalty to their saving throw against that effect."

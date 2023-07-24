@@ -31,7 +31,7 @@ abilityMods: [6, 2, 4, -4, 3, 0]
 
 abilities_mid:
   - name: "Tenacious Stance"
-    desc: "  An aurumvorax gains a +4 circumstance bonus to its Fortitude or Reflex DC against [[Shove]] and [[Trip]] attempts, and to its [[Athletics]] DC against attempts to escape its Grab."
+    desc: "  An aurumvorax gains a +4 circumstance bonus to its Fortitude or Reflex DC against [[Shove]] and [[Trip]] attempts, and to its [[compendium/skills.md#Athletics|Athletics]] DC against attempts to escape its Grab."
   - name: "Ferocity"
     desc: "⬲ "
 abilities_bot:

@@ -34,7 +34,7 @@ abilityMods: [0, 4, 7, -5, 3, 4]
 
 abilities_top:
   - name: "Feral Trackers"
-    desc: "  A feral skull swarm gains a +2 circumstance bonus to [[Perception]] checks to [[Seek]] and to [[Survival]] checks to [[Track]], both against any creature that has taken damage from the swarm's Feral Gnaw within the previous 24 hours."
+    desc: "  A feral skull swarm gains a +2 circumstance bonus to [[compendium/skills.md#Perception|Perception]] checks to [[Seek]] and to [[compendium/skills.md#Survival|Survival]] checks to [[Track]], both against any creature that has taken damage from the swarm's Feral Gnaw within the previous 24 hours."
 abilities_mid:
   - name: "Boneshard Burst"
     desc: "  When a feral skull swarm is reduced to 0 Hit Points, it erupts in an explosion of foul energy and bone fragments in a 30-foot burst, dealing 3d12 (3d12) piercing damage and 2d12 (2d12) negative damage (DC 32 basic Reflex save)."

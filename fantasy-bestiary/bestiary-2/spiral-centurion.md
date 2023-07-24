@@ -32,7 +32,7 @@ abilityMods: [6, 6, 5, -5, 2, -5]
 
 abilities_mid:
   - name: "Top-Heavy"
-    desc: "  A spiral centurion's top-like design makes it susceptible to effects that would cause it to fall [[rules/conditions.md#Prone|prone]]. The DC of any attempt to knock the spiral centurion [[rules/conditions.md#Prone|prone]] is reduced by 5. If the spiral centurion attempts a check or saving throw to resist being knocked [[rules/conditions.md#Prone|prone]], it takes a –5 status penalty. A spiral centurion that has been knocked [[rules/conditions.md#Prone|prone]] can't use any actions other than to attempt to [[Stand]], but it must succeed at a DC 30 [[Acrobatics]] check to do so."
+    desc: "  A spiral centurion's top-like design makes it susceptible to effects that would cause it to fall [[rules/conditions.md#Prone|prone]]. The DC of any attempt to knock the spiral centurion [[rules/conditions.md#Prone|prone]] is reduced by 5. If the spiral centurion attempts a check or saving throw to resist being knocked [[rules/conditions.md#Prone|prone]], it takes a –5 status penalty. A spiral centurion that has been knocked [[rules/conditions.md#Prone|prone]] can't use any actions other than to attempt to [[Stand]], but it must succeed at a DC 30 [[compendium/skills.md#Acrobatics|Acrobatics]] check to do so."
 abilities_bot:
   - name: "Hurl Blade"
     desc: "⬺  The spiral centurion hurls one of its blades with an angled spin to ensure a swooping flight path. The blade deals 6d6 (6d6) slashing damage to each creature in a 40-foot line (DC 30 basic Reflex save). At the start of the spiral centurion's next turn, the blade swoops around and returns along the same flight path, again dealing 6d6 (6d6) slashing damage (DC 30 basic Reflex save) to each creature along the same line."

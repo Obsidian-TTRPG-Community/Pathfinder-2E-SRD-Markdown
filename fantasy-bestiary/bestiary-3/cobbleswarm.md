@@ -38,7 +38,7 @@ abilities_top:
     desc: "  A cobbleswarm's [[tremorsense]] is a precise sense out to 40 feet and an imprecise sense out to 80 feet. A cobbleswarm can't sense anything beyond the range of its [[tremorsense]]."
 abilities_bot:
   - name: "Grasping Bites"
-    desc: "⬺ ([[attack]]);  The cobbleswarm attempts an [[Athletics]] check and compares the result to the Fortitude DC of each creature in its space. This counts as two attacks for the cobbleswarm's multiple attack penalty.\n__Critical Success__ The creature falls [[rules/conditions.md#Prone|prone]], takes 1d6 (1d6) bludgeoning damage, and is [[rules/conditions.md#Grabbed|grabbed]] by the cobbleswarm until the end of the cobbleswarm's next turn.\n__Success__ The creature falls [[rules/conditions.md#Prone|prone]]."
+    desc: "⬺ ([[attack]]);  The cobbleswarm attempts an [[compendium/skills.md#Athletics|Athletics]] check and compares the result to the Fortitude DC of each creature in its space. This counts as two attacks for the cobbleswarm's multiple attack penalty.\n__Critical Success__ The creature falls [[rules/conditions.md#Prone|prone]], takes 1d6 (1d6) bludgeoning damage, and is [[rules/conditions.md#Grabbed|grabbed]] by the cobbleswarm until the end of the cobbleswarm's next turn.\n__Success__ The creature falls [[rules/conditions.md#Prone|prone]]."
   - name: "Pummeling Assault"
     desc: "⬻  Each foe in the cobbleswarm's space takes 2d4 (2d4) bludgeoning damage (DC 17 basic Reflex save)."
 

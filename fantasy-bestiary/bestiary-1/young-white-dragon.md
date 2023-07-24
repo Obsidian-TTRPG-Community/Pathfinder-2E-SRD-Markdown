@@ -51,7 +51,7 @@ abilities_bot:
   - name: "Ground Slam"
     desc: "⬻  The dragon slams into the ground. It can do this if it's on the ground or Flying within 10 feet of the ground. Each creature on the ground within 10 feet must succeed at a DC 24 Reflex save or fall [[rules/conditions.md#Prone|prone]] and take 2d6 (2d6) bludgeoning damage. The dragon can then [[Step]]."
   - name: "Shape Ice"
-    desc: "⬺ ([[arcane]], [[transmutation]], [[water]]);  The dragon reshapes a cube of ice or snow it touches, up to 10 feet across. Any creature standing atop the ice must succeed at a DC 15 Reflex save or [[Acrobatics]] check. On a failure, the creature falls [[rules/conditions.md#Prone|prone]] atop the ice; on a critical failure, it falls off the ice entirely and is also [[rules/conditions.md#Prone|prone]]."
+    desc: "⬺ ([[arcane]], [[transmutation]], [[water]]);  The dragon reshapes a cube of ice or snow it touches, up to 10 feet across. Any creature standing atop the ice must succeed at a DC 15 Reflex save or [[compendium/skills.md#Acrobatics|Acrobatics]] check. On a failure, the creature falls [[rules/conditions.md#Prone|prone]] atop the ice; on a critical failure, it falls off the ice entirely and is also [[rules/conditions.md#Prone|prone]]."
 
 speed: 30 feet, fly 80 feet; ice climb 30 feet;
 

@@ -36,7 +36,7 @@ abilities_bot:
   - name: "Aquatic Ambush"
     desc: "⬻  30 feet."
   - name: "Capsize"
-    desc: "⬻ ([[attack]]);  The hippopotamus tries to capsize an adjacent aquatic vessel of its size or smaller. The hippopotamus must succeed at an [[Athletics]] check with a DC of 25 (reduced by 5 for each size smaller the vessel is than the hippo) or the pilot's [[Lore|Sailing Lore]] DC, whichever is higher."
+    desc: "⬻ ([[attack]]);  The hippopotamus tries to capsize an adjacent aquatic vessel of its size or smaller. The hippopotamus must succeed at an [[compendium/skills.md#Athletics|Athletics]] check with a DC of 25 (reduced by 5 for each size smaller the vessel is than the hippo) or the pilot's [[compendium/skills.md#Lore|Sailing Lore]] DC, whichever is higher."
   - name: "Trample"
     desc: "⬽  Medium or smaller, foot, DC 23."
 

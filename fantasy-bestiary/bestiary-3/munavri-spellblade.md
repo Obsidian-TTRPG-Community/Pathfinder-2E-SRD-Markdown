@@ -39,7 +39,7 @@ abilities_top:
     desc: "bastard sword, breastplate;"
 abilities_bot:
   - name: "Intuit Object"
-    desc: "⬺ ([[concentrate]], [[divination]], [[occult]]); __Frequency__ once per day  __Effect__  By concentrating their psychic energy on a held object, the munavri intuits its use and understands how to effectively wield it. The munavri chooses one item they are holding. They gain the trained proficiency rank in one statistic required to use that item, but only for the purpose of using that specific item. For example, they could become trained in greatswords (to use a specific greatsword) or [[Acrobatics]] (to use a jade cat talisman). This benefit lasts for 1 hour."
+    desc: "⬺ ([[concentrate]], [[divination]], [[occult]]); __Frequency__ once per day  __Effect__  By concentrating their psychic energy on a held object, the munavri intuits its use and understands how to effectively wield it. The munavri chooses one item they are holding. They gain the trained proficiency rank in one statistic required to use that item, but only for the purpose of using that specific item. For example, they could become trained in greatswords (to use a specific greatsword) or [[compendium/skills.md#Acrobatics|Acrobatics]] (to use a jade cat talisman). This benefit lasts for 1 hour."
 
 speed: 20 feet
 

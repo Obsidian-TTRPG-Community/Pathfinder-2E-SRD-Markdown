@@ -44,7 +44,7 @@ abilities_bot:
   - name: "Breath Weapon"
     desc: "⬺ ([[acid]], [[evocation]], [[primal]]);  The dragon breathes a spray of acidic salt water that deals 18d6 (18d6) acid damage in a 120-foot line (DC 38 basic Reflex save). They can't use Breath Weapon again for 1d4 (1d4) rounds."
   - name: "Capsize"
-    desc: "⬻ ([[attack]]);  The dragon tries to capsize an adjacent aquatic vessel of their size or smaller. They must succeed at an [[Athletics]] check with a DC of 35 (reduced by 5 for each size smaller the vessel is than the dragon) or the pilot's [[Lore|Sailing Lore]] DC, whichever is higher."
+    desc: "⬻ ([[attack]]);  The dragon tries to capsize an adjacent aquatic vessel of their size or smaller. They must succeed at an [[compendium/skills.md#Athletics|Athletics]] check with a DC of 35 (reduced by 5 for each size smaller the vessel is than the dragon) or the pilot's [[compendium/skills.md#Lore|Sailing Lore]] DC, whichever is higher."
   - name: "Desiccating Bite"
     desc: "⬺  The dragon makes a jaws [[Strike]]. On a hit, the target takes 6d6 (6d6) [[rules/conditions.md#Persistent%20Damage|persistent acid damage]], and is [[rules/conditions.md#Sickened|sickened 3]] from the pain of salt and brine in its wounds."
   - name: "Draconic Frenzy"

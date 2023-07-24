@@ -37,7 +37,7 @@ abilities_mid:
     desc: "⬲ __Trigger__ A creature rolls a critical failure on a melee weapon [[Strike]] against the scythe tree __Effect__  The scythe tree attempts to [[Disarm]] the creature."
 abilities_bot:
   - name: "Dead Tree"
-    desc: "⬻ ([[concentrate]]);  Until the scythe tree acts, it appears to be a dead tree. It has an automatic result of 35 on [[Deception]] checks and DCs to pass as a dead tree."
+    desc: "⬻ ([[concentrate]]);  Until the scythe tree acts, it appears to be a dead tree. It has an automatic result of 35 on [[compendium/skills.md#Deception|Deception]] checks and DCs to pass as a dead tree."
   - name: "Woodland Ambush"
     desc: "⬻ __Requirements__ The scythe tree is using Dead Tree in forested terrain, and a creature that hasn't detected it is within 30 feet  __Effect__  The scythe tree [[Stride|Strides]] up to 25 feet toward the triggering creature. Once the creature is in reach, the scythe tree makes a scythe branch [[Strike]] against it. The creature is [[rules/conditions.md#Flat-Footed|flat-footed]] against this [[Strike]]."
 

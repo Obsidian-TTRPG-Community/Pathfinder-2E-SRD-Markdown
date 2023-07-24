@@ -43,7 +43,7 @@ abilities_top:
     desc: "elegant cane (as mace), legal ledgers;"
 abilities_bot:
   - name: "Opening Statement"
-    desc: "⭓ ([[auditory]], [[concentrate]]); __Trigger__ The Hellbound attorney's turn begins __Effect__  The attorney enumerates the alleged crimes of a creature they can see and attempts a [[Lore|Legal Lore]] check against that creature's Will DC. On a success, the attorney's [[Strike|Strikes]] deal an additional 2d6 (2d6) precision damage (4d6 (4d6) precision damage on a critical success) to the creature until the end of the attorney's turn."
+    desc: "⭓ ([[auditory]], [[concentrate]]); __Trigger__ The Hellbound attorney's turn begins __Effect__  The attorney enumerates the alleged crimes of a creature they can see and attempts a [[compendium/skills.md#Lore|Legal Lore]] check against that creature's Will DC. On a success, the attorney's [[Strike|Strikes]] deal an additional 2d6 (2d6) precision damage (4d6 (4d6) precision damage on a critical success) to the creature until the end of the attorney's turn."
 
 speed: 20 feet
 

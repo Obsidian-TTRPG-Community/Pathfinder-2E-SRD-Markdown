@@ -32,10 +32,10 @@ abilityMods: [0, 4, 0, -4, 2, 0]
 
 abilities_mid:
   - name: "Cacophony"
-    desc: " ([[auditory]], [[aura]]);  20 feet. The monkeys' awful racket of screeches and howls drowns out other sounds. Any creature performing an auditory action in the area must yell over the din, requiring a successful DC 15 Fortitude save or [[Performance]] check to project loudly enough; on a failure, the action is lost."
+    desc: " ([[auditory]], [[aura]]);  20 feet. The monkeys' awful racket of screeches and howls drowns out other sounds. Any creature performing an auditory action in the area must yell over the din, requiring a successful DC 15 Fortitude save or [[compendium/skills.md#Performance|Performance]] check to project loudly enough; on a failure, the action is lost."
 abilities_bot:
   - name: "Ransack"
-    desc: "⬺  The swarm rummages through the possessions of a single creature within its space, attempting a [[Thievery]] check against the creature's Reflex DC. On a success, the monkeys take one random item of negligible Bulk that the creature is wearing but not closely guarding, such as an object in a loosely carried pouch."
+    desc: "⬺  The swarm rummages through the possessions of a single creature within its space, attempting a [[compendium/skills.md#Thievery|Thievery]] check against the creature's Reflex DC. On a success, the monkeys take one random item of negligible Bulk that the creature is wearing but not closely guarding, such as an object in a loosely carried pouch."
   - name: "Swarming Bites"
     desc: "⬻  Each creature in the swarm's space takes 1d8 (1d8) piercing damage (DC 18 basic Reflex save)."
 

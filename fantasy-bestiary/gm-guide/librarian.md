@@ -33,7 +33,7 @@ abilityMods: [0, 1, 0, 4, 3, 1]
 
 abilities_top:
   - name: "Methodical Research"
-    desc: " ([[concentrate]]);  When Searching through stacks of books, a librarian can find the answer to almost any question. This allows the librarian to use [[Lore|Library Lore]] in place of other lore skills, given enough time. The GM determines the DC of the check and the amount of time it takes (typically, a librarian can attempt three or four checks during 1 day of downtime)."
+    desc: " ([[concentrate]]);  When Searching through stacks of books, a librarian can find the answer to almost any question. This allows the librarian to use [[compendium/skills.md#Lore|Library Lore]] in place of other lore skills, given enough time. The GM determines the DC of the check and the amount of time it takes (typically, a librarian can attempt three or four checks during 1 day of downtime)."
   - name: Items
     desc: "dagger, writing set;"
 

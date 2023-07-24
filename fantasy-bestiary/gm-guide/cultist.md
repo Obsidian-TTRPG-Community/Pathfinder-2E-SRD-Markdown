@@ -33,7 +33,7 @@ abilityMods: [4, 3, 2, 1, -1, 0]
 
 abilities_top:
   - name: "Occultism"
-    desc: "  +3, [[Society]] +4, [[Stealth]] +6 Str +4, Dex +3, Con +2, Int +1, Wis –1, Cha +0 Items dagger, cultist garb (functions as leather armor)"
+    desc: "  +3, [[compendium/skills.md#Society|Society]] +4, [[compendium/skills.md#Stealth|Stealth]] +6 Str +4, Dex +3, Con +2, Int +1, Wis –1, Cha +0 Items dagger, cultist garb (functions as leather armor)"
   - name: Items
     desc: "dagger, cultist garb (functions as leather armor);"
 abilities_bot:

@@ -49,7 +49,7 @@ abilities_bot:
   - name: "Greater Constrict"
     desc: "⬻  3d10+8 (3d10+8) bludgeoning, DC 36 (page 305)"
   - name: "Inspire Envoy"
-    desc: "⬺ ([[enchantment]], [[mental]], [[occult]]); __Frequency__ once per day  __Effect__  The dragon chooses a mortal they've [[rules/conditions.md#Observed|observed]] performing an exceptional act and offers their august blessing in exchange for the creature carrying out a specific directive, such as defeating a tyrant or protecting a sacred site. If the creature agrees, until its next daily preparations, it gains a +1 status bonus to the dragon's choice of attack rolls, AC, or all of the following: [[Perception]], Will saves, and Charisma-based skill checks. The dragon can [[Dismiss]] this benefit by spending a single action (that has the [[concentrate]] trait), which they're swift to do if the mortal dares to defy the dragon's directive."
+    desc: "⬺ ([[enchantment]], [[mental]], [[occult]]); __Frequency__ once per day  __Effect__  The dragon chooses a mortal they've [[rules/conditions.md#Observed|observed]] performing an exceptional act and offers their august blessing in exchange for the creature carrying out a specific directive, such as defeating a tyrant or protecting a sacred site. If the creature agrees, until its next daily preparations, it gains a +1 status bonus to the dragon's choice of attack rolls, AC, or all of the following: [[compendium/skills.md#Perception|Perception]], Will saves, and Charisma-based skill checks. The dragon can [[Dismiss]] this benefit by spending a single action (that has the [[concentrate]] trait), which they're swift to do if the mortal dares to defy the dragon's directive."
 
 speed: 50 feet, fly 150 feet
 

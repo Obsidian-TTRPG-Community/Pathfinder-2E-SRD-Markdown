@@ -43,7 +43,7 @@ abilities_bot:
   - name: "Entangling Tresses"
     desc: "  A rusalka can have up to eight creatures [[rules/conditions.md#Grabbed|grabbed]] within their tresses at a time."
   - name: "Flowing Hair"
-    desc: "⬻  The rusalka attempts an [[Athletics]] check against each [[rules/conditions.md#Grabbed|grabbed]] creature's Fortitude DC. The rusalka moves each creature they succeed against up to 10 feet and each creature they critically succeed against up to 20 feet. This movement must all be within reach of its tresses."
+    desc: "⬻  The rusalka attempts an [[compendium/skills.md#Athletics|Athletics]] check against each [[rules/conditions.md#Grabbed|grabbed]] creature's Fortitude DC. The rusalka moves each creature they succeed against up to 10 feet and each creature they critically succeed against up to 20 feet. This movement must all be within reach of its tresses."
   - name: "Shameful Touch"
     desc: "⬻ ([[emotion]], [[enchantment]], [[mental]], [[primal]]);  The rusalka touches a creature within 5 feet using their hand, stirring up memories of regret and shame. The target must attempt a DC 35 Will save.\n__Critical Success__ The target is unaffected.\n__Success__ The target is [[rules/conditions.md#Sickened|sickened 1]].\n__Failure__ The creature is [[rules/conditions.md#Sickened|sickened 1]] and [[rules/conditions.md#Stunned|stunned 1]].\n__Critical Failure__ The creature is [[rules/conditions.md#Sickened|sickened 1]] and [[rules/conditions.md#Stunned|stunned 1]], and it must use its first action on its next turn to [[Strike]] itself, automatically hitting."
 

@@ -35,7 +35,7 @@ abilityMods: [0, 4, 1, 3, 0, 1]
 
 abilities_bot:
   - name: "Shadowplay"
-    desc: "⬻ ([[illusion]], [[occult]], [[shadow]]); __Requirements__ The wayang's last action was a melee [[Strike]] that damaged their opponent  __Effect__  The wayang attempts to [Tumble Through](../../rules/actions/tumble-through.md) the opponent's space, with a +2 circumstance bonus to the [[Acrobatics]] check. If they succeed, the wayang leaves a shadowy afterimage in their original space, and the opponent is [[rules/conditions.md#Flat-Footed|flat-footed]] against the next melee attack the wayang attempts against it before the end of their current turn."
+    desc: "⬻ ([[illusion]], [[occult]], [[shadow]]); __Requirements__ The wayang's last action was a melee [[Strike]] that damaged their opponent  __Effect__  The wayang attempts to [Tumble Through](../../rules/actions/tumble-through.md) the opponent's space, with a +2 circumstance bonus to the [[compendium/skills.md#Acrobatics|Acrobatics]] check. If they succeed, the wayang leaves a shadowy afterimage in their original space, and the opponent is [[rules/conditions.md#Flat-Footed|flat-footed]] against the next melee attack the wayang attempts against it before the end of their current turn."
   - name: "Sneak Attack"
     desc: "  The wayang deals an extra 1d6 (1d6) precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
 abilities_top:

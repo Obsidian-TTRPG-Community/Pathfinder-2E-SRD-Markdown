@@ -34,7 +34,7 @@ abilityMods: [-4, 5, 4, -5, 0, -5]
 
 abilities_bot:
   - name: "Agile Swimmer"
-    desc: "  Fire jellyfish swarms use [[Acrobatics]] to [[Swim]]."
+    desc: "  Fire jellyfish swarms use [[compendium/skills.md#Acrobatics|Acrobatics]] to [[Swim]]."
   - name: "Burning Swarm"
     desc: "⬻ ([[poison]]);  Each enemy in the swarm's space takes 3d8 (3d8) poison damage (DC 24 basic Reflex save) and is exposed to fire jelly venom."
   - name: "Fire Jelly Venom"

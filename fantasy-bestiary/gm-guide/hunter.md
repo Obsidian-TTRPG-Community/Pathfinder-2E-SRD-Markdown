@@ -37,7 +37,7 @@ abilities_top:
   - name: "Forager"
     desc: "  As poacher, but the hunter feeds 16 additional creatures, or 32 on a critical success."
   - name: "Forest Walker"
-    desc: "  The hunter ignores the effects of [[terrain|difficult terrain]] from a forest environment. They can [[Sneak]] through underbrush without the need to attempt a [[Stealth]] check as long as the hunter moves no more than 5 feet at a time and is not within 10 feet of an enemy at any point during their movement."
+    desc: "  The hunter ignores the effects of [[terrain|difficult terrain]] from a forest environment. They can [[Sneak]] through underbrush without the need to attempt a [[compendium/skills.md#Stealth|Stealth]] check as long as the hunter moves no more than 5 feet at a time and is not within 10 feet of an enemy at any point during their movement."
 abilities_bot:
   - name: "Hunt Prey"
     desc: "⬻ ([[concentrate]]);  As poacher, but for 1d8 (1d8) precision damage."

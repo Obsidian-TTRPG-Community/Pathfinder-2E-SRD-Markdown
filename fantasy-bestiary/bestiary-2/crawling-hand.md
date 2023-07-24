@@ -34,7 +34,7 @@ abilities_bot:
   - name: "Grip Throat"
     desc: "  A Medium or smaller creature that is [[rules/conditions.md#Grabbed|grabbed]] by the crawling hand has difficulty speaking and must spend an extra action to perform any action with the verbal trait."
   - name: "Mark Quarry"
-    desc: "  A crawling hand can be assigned a quarry by anointing the hand with a drop of the intended quarry's blood. If the hand ever has no quarry, it automatically gains the next creature it damages as its quarry. The hand gains a +1 circumstance bonus to [[Perception]] checks when it Seeks its quarry, to [[Survival]] checks when it Tracks its quarry, and damage rolls when it [[Strike|Strikes]] its quarry."
+    desc: "  A crawling hand can be assigned a quarry by anointing the hand with a drop of the intended quarry's blood. If the hand ever has no quarry, it automatically gains the next creature it damages as its quarry. The hand gains a +1 circumstance bonus to [[compendium/skills.md#Perception|Perception]] checks when it Seeks its quarry, to [[compendium/skills.md#Survival|Survival]] checks when it Tracks its quarry, and damage rolls when it [[Strike|Strikes]] its quarry."
 
 speed: 30 feet, climb 30 feet
 
