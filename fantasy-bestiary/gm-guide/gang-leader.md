@@ -66,7 +66,7 @@ attacks:
   - name: Melee
     desc: "⬻ shortsword +18 ([[agile]], [[magical]], [[versatile|versatile s]]); __Damage__ 1d6+10 (1d6+10) piercing"
   - name: Ranged
-    desc: "⬻ sling +18 ([[propulsive]], [[range increment|range increment 50 feet]], [[reload|reload 1]]); __Damage__ 1d6+8 (1d6+8) bludgeoning"
+    desc: "⬻ sling +18 ([[propulsive]], [[range-increment|range increment 50 feet]], [[reload|reload 1]]); __Damage__ 1d6+8 (1d6+8) bludgeoning"
 
 sourcebook: "_Gamemastery Guide_, page 249."
 ```

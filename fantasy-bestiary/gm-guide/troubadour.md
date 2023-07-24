@@ -53,7 +53,7 @@ attacks:
   - name: Melee
     desc: "⬻ rapier +12 ([[deadly|deadly 1d8]], [[disarm]], [[finesse]]); __Damage__ 1d6+3 (1d6+3) piercing"
   - name: Ranged
-    desc: "⬻ crossbow +12 ([[range increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1d8+3 (1d8+3) piercing"
+    desc: "⬻ crossbow +12 ([[range-increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1d8+3 (1d8+3) piercing"
 
 spellcasting:
   - name: "Occult Spontaneous Spells"

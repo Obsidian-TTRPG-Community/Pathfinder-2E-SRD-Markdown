@@ -65,7 +65,7 @@ attacks:
   - name: Melee
     desc: "⬻ shield spikes +17 __Damage__ 1d6+8 (1d6+8) piercing"
   - name: Ranged
-    desc: "⬻ blowgun +16 ([[magical]], [[range increment|range increment 20 feet]], [[reload|reload 1]]); __Damage__ 1 piercing plus harvester poison"
+    desc: "⬻ blowgun +16 ([[magical]], [[range-increment|range increment 20 feet]], [[reload|reload 1]]); __Damage__ 1 piercing plus harvester poison"
 
 sourcebook: "_Bestiary 3_, page 280."
 ```

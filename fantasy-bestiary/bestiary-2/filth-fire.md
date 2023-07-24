@@ -54,7 +54,7 @@ attacks:
   - name: Melee
     desc: "⬻ burning lash +13 ([[finesse]]); __Damage__ 2d6+3 (2d6+3) bludgeoning plus 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent fire]]"
   - name: Ranged
-    desc: "⬻ ember ball +13 ([[fire]], [[range increment|range increment 20 feet]]); __Damage__ 1d6+3 (1d6+3) bludgeoning plus 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent fire]]"
+    desc: "⬻ ember ball +13 ([[fire]], [[range-increment|range increment 20 feet]]); __Damage__ 1d6+3 (1d6+3) bludgeoning plus 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent fire]]"
 
 sourcebook: "_Bestiary 2_, page 110."
 ```

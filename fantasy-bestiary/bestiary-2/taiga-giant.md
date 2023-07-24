@@ -66,7 +66,7 @@ attacks:
   - name: Melee
     desc: "⬻ fist +25 ([[agile]], [[reach|reach 15 feet]]); __Damage__ 3d6+15 (3d6+15) bludgeoning"
   - name: Ranged
-    desc: "⬻ rock +25 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 2d10+15 (2d10+15) bludgeoning"
+    desc: "⬻ rock +25 ([[brutal]], [[range-increment|range increment 120 feet]]); __Damage__ 2d10+15 (2d10+15) bludgeoning"
 
 sourcebook: "_Bestiary 2_, page 126."
 ```

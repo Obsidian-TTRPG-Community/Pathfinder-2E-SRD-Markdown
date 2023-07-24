@@ -38,7 +38,7 @@ abilities_bot:
   - name: "Melee Strike"
     desc: "⬻ "
   - name: "Spells"
-    desc: "  The goblin igniter can cast these wizard spells (spell DC 16, spell attack +6). 1st Level [[burning hands]] (×3); Cantrips [[light]], [[mage hand]], [[shield]]"
+    desc: "  The goblin igniter can cast these wizard spells (spell DC 16, spell attack +6). 1st Level [[burning-hands|burning hands]] (×3); Cantrips [[light]], [[mage-hand|mage hand]], [[shield]]"
 abilities_top:
   - name: Items
     desc: "torch;"

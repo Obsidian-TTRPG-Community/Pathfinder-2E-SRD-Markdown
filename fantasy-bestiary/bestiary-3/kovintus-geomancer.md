@@ -57,7 +57,7 @@ attacks:
   - name: Melee
     desc: "⬻ mace +12 ([[shove]]); __Damage__ 1d6+6 (1d6+6) bludgeoning"
   - name: Ranged
-    desc: "⬻ sling +12 ([[propulsive]], [[range increment|range increment 50 feet]], [[reload|reload 1]]); __Damage__ 1d6+4 (1d6+4) bludgeoning"
+    desc: "⬻ sling +12 ([[propulsive]], [[range-increment|range increment 50 feet]], [[reload|reload 1]]); __Damage__ 1d6+4 (1d6+4) bludgeoning"
 
 spellcasting:
   - name: "Primal Innate Spells"

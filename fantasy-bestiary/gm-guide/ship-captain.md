@@ -63,7 +63,7 @@ attacks:
   - name: Melee
     desc: "⬻ main-gauche +16 ([[agile]], [[disarm]], [[parry]], [[versatile|versatile s]]); __Damage__ 1d4+10 (1d4+10) piercing"
   - name: Ranged
-    desc: "⬻ hand crossbow +14 ([[range increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1d6+6 (1d6+6) piercing"
+    desc: "⬻ hand crossbow +14 ([[range-increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1d6+6 (1d6+6) piercing"
 
 sourcebook: "_Gamemastery Guide_, page 243."
 ```

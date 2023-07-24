@@ -61,7 +61,7 @@ attacks:
   - name: Melee
     desc: "⬻ claw +18 ([[agile]], [[finesse]]); __Damage__ 2d10+6 (2d10+6) slashing plus 1d6 (1d6) evil"
   - name: Ranged
-    desc: "⬻ thorn +18 ([[agile]], [[range increment|range increment 50 feet]]); __Damage__ 2d4+6 (2d4+6) piercing plus 1d6 (1d6) evil, 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed]], and betrayal toxin"
+    desc: "⬻ thorn +18 ([[agile]], [[range-increment|range increment 50 feet]]); __Damage__ 2d4+6 (2d4+6) piercing plus 1d6 (1d6) evil, 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed]], and betrayal toxin"
 
 spellcasting:
   - name: "Divine Innate Spells"

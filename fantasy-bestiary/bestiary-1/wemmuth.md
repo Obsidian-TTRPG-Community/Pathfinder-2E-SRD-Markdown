@@ -56,7 +56,7 @@ attacks:
   - name: Melee
     desc: "⬻ pummel +29 ([[fatal|fatal d12]], [[reach|reach 15 feet]], [[sweep]]); __Damage__ 4d12+10 (4d12+10) bludgeoning plus [[Improved Grab]]"
   - name: Ranged
-    desc: "⬻ boulder +27 ([[fatal|fatal d12]], [[range increment|range increment 60 feet]]); __Damage__ 4d10+10 (4d10+10) bludgeoning"
+    desc: "⬻ boulder +27 ([[fatal|fatal d12]], [[range-increment|range increment 60 feet]]); __Damage__ 4d10+10 (4d10+10) bludgeoning"
 
 sourcebook: "_Bestiary_, page 326."
 ```

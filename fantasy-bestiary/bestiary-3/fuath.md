@@ -58,7 +58,7 @@ attacks:
   - name: Melee
     desc: "⬻ claw +9 ([[agile]], [[finesse]]); __Damage__ 1d6+1 (1d6+1) slashing"
   - name: Ranged
-    desc: "⬻ dart +9 ([[agile]], [[range increment|range increment 20 feet]]); __Damage__ 1d4+1 (1d4+1) piercing"
+    desc: "⬻ dart +9 ([[agile]], [[range-increment|range increment 20 feet]]); __Damage__ 1d4+1 (1d4+1) piercing"
 
 spellcasting:
   - name: "Primal Innate Spells"

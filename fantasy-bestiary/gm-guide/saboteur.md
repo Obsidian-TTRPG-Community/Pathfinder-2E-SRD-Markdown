@@ -54,7 +54,7 @@ attacks:
   - name: Melee
     desc: "⬻ sap +7 ([[agile]], [[nonlethal]]); __Damage__ 1d6+3 (1d6+3) bludgeoning"
   - name: Ranged
-    desc: "⬻ hand crossbow +9 ([[range increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1d6+2 (1d6+2) piercing"
+    desc: "⬻ hand crossbow +9 ([[range-increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1d6+2 (1d6+2) piercing"
 
 sourcebook: "_Gamemastery Guide_, page 247."
 ```

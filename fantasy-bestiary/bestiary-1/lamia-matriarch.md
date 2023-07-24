@@ -59,7 +59,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Spontaneous Spells"
-    desc: "DC 28; __Cantrips (3rd)__ [[daze]], [[detect magic]], [[mage hand]], [[prestidigitation]], [[read aura]]; __1st__ (4 slots) [[bless]], [[magic missile]], [[phantom pain]], [[soothe]]; __2nd__ (4 slots) [[blur]], [[death knell]], [[illusory creature]], [[invisibility]]; __3rd__ (4 slots) [[dispel magic]], [[enthrall]], [[haste]], [[mind reading]];"
+    desc: "DC 28; __Cantrips (3rd)__ [[daze]], [[detect magic]], [[mage-hand|mage hand]], [[prestidigitation]], [[read aura]]; __1st__ (4 slots) [[bless]], [[magic missile]], [[phantom pain]], [[soothe]]; __2nd__ (4 slots) [[blur]], [[death knell]], [[illusory creature]], [[invisibility]]; __3rd__ (4 slots) [[dispel magic]], [[enthrall]], [[haste]], [[mind reading]];"
   - name: "Occult Innate Spells"
     desc: "DC 28; __1st__ [[ventriloquism]] (at will); __2nd__ [[illusory disguise]] (at will), [[illusory object]] (at will), [[mirror image]]; __3rd__ [[sleep]]; __4th__ [[charm]] (3), [[suggestion]] (3);"
 sourcebook: "_Bestiary_, page 217."

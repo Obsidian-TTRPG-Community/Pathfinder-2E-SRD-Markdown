@@ -61,7 +61,7 @@ attacks:
   - name: Melee
     desc: "⬻ greataxe +14 ([[reach|reach 10 feet]], [[sweep]]); __Damage__ 1d12+9 (1d12+9) slashing"
   - name: Ranged
-    desc: "⬻ heavy crossbow +8 ([[range increment|range increment 120 feet]], [[reload|reload 2]]); __Damage__ 1d10+4 (1d10+4) piercing"
+    desc: "⬻ heavy crossbow +8 ([[range-increment|range increment 120 feet]], [[reload|reload 2]]); __Damage__ 1d10+4 (1d10+4) piercing"
 
 sourcebook: "_Bestiary_, page 68."
 ```

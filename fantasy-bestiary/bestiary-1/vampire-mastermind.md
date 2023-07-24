@@ -74,7 +74,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Prepared Spells"
-    desc: "DC 29, attack +19; __Cantrips (4th)__ [[detect magic]], [[mage hand]], [[message]], [[ray of frost]], [[sigil]]; __1st__ [[color spray]] (2), [[fleet step]], [[ray of enfeeblement]]; __2nd__ [[flaming sphere]], [[invisibility]], [[mirror image]], [[touch of idiocy]]; __3rd__ [[dispel magic]], [[fireball]], [[haste]], [[lightning bolt]]; __4th__ [[fire shield]], [[phantasmal killer]], [[veil]], [[wall of fire]];"
+    desc: "DC 29, attack +19; __Cantrips (4th)__ [[detect magic]], [[mage-hand|mage hand]], [[message]], [[ray of frost]], [[sigil]]; __1st__ [[color spray]] (2), [[fleet step]], [[ray of enfeeblement]]; __2nd__ [[flaming sphere]], [[invisibility]], [[mirror image]], [[touch of idiocy]]; __3rd__ [[dispel magic]], [[fireball]], [[haste]], [[lightning bolt]]; __4th__ [[fire shield]], [[phantasmal killer]], [[veil]], [[wall of fire]];"
 sourcebook: "_Bestiary_, page 321."
 ```
 

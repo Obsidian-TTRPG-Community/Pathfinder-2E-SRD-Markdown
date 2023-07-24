@@ -57,7 +57,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Spells Known Spells"
-    desc: "DC 14; __Cantrips (1st)__ [[daze]], [[detect-magic|detect magic]], [[mage hand]];"
+    desc: "DC 14; __Cantrips (1st)__ [[daze]], [[detect-magic|detect magic]], [[mage-hand|mage hand]];"
 sourcebook: "_Gamemastery Guide_, page 228."
 ```
 

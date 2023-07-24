@@ -54,11 +54,11 @@ attacks:
   - name: Melee
     desc: "⬻ claw +14 ([[agile]], [[finesse]]); __Damage__ 2d6+2 (2d6+2) slashing"
   - name: Ranged
-    desc: "⬻ mote of light +14 ([[agile]], [[magical]], [[range increment|range increment 10 feet]]); __Damage__ 2d4+2 (2d4+2) force plus lurker's glow"
+    desc: "⬻ mote of light +14 ([[agile]], [[magical]], [[range-increment|range increment 10 feet]]); __Damage__ 2d4+2 (2d4+2) force plus lurker's glow"
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 22, attack +14; __Cantrips (3rd)__ [[dancing lights]], [[ghost sound]], [[light]], [[mage hand]]; __3rd__ [[blindness]], [[searing light]], [[summon fey]]; __4th__ [[dimension door]] only when in bright light,and only to an area in bright light, [[summon fey]];"
+    desc: "DC 22, attack +14; __Cantrips (3rd)__ [[dancing lights]], [[ghost sound]], [[light]], [[mage-hand|mage hand]]; __3rd__ [[blindness]], [[searing light]], [[summon fey]]; __4th__ [[dimension door]] only when in bright light,and only to an area in bright light, [[summon fey]];"
 sourcebook: "_Bestiary 2_, page 169."
 ```
 

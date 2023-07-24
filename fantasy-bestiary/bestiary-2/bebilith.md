@@ -64,7 +64,7 @@ attacks:
   - name: Melee
     desc: "⬻ claw +23 ([[agile]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 2d8+13 (2d8+13) slashing"
   - name: Ranged
-    desc: "⬻ web +23 ([[range increment|range increment 60 feet]]); __Damage__ dimensional tether"
+    desc: "⬻ web +23 ([[range-increment|range increment 60 feet]]); __Damage__ dimensional tether"
 
 spellcasting:
   - name: "Divine Innate Spells"

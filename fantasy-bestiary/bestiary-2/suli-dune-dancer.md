@@ -60,7 +60,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Spontaneous Spells"
-    desc: "DC 17, attack +9; __Cantrips (1st)__ [[detect magic]], [[guidance]], [[inspire courage]], [[mage hand]], [[shield]], [[telekinetic projectile]];"
+    desc: "DC 17, attack +9; __Cantrips (1st)__ [[detect magic]], [[guidance]], [[inspire courage]], [[mage-hand|mage hand]], [[shield]], [[telekinetic projectile]];"
 sourcebook: "_Bestiary 2_, page 202."
 ```
 

@@ -60,7 +60,7 @@ attacks:
   - name: Melee
     desc: "⬻ warhammer +13 ([[shove]]); __Damage__ 1d8+7 (1d8+7) bludgeoning"
   - name: Ranged
-    desc: "⬻ crossbow +10 ([[range increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1d8+3 (1d8+3) piercing"
+    desc: "⬻ crossbow +10 ([[range-increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1d8+3 (1d8+3) piercing"
 
 sourcebook: "_Gamemastery Guide_, page 236."
 ```

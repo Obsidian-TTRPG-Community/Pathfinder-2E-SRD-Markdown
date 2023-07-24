@@ -53,7 +53,7 @@ attacks:
   - name: Melee
     desc: "⬻ fangs +13 __Damage__ 2d6+5 (2d6+5) piercing plus amphisbaena venom"
   - name: Ranged
-    desc: "⬻ spit +12 ([[range increment|range increment 15 feet]]); __Damage__ 1d6 (1d6) poison plus amphisbaena venom and blinding spittle"
+    desc: "⬻ spit +12 ([[range-increment|range increment 15 feet]]); __Damage__ 1d6 (1d6) poison plus amphisbaena venom and blinding spittle"
 
 sourcebook: "_Bestiary 3_, page 15."
 ```

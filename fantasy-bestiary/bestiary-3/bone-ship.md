@@ -69,7 +69,7 @@ attacks:
   - name: Melee
     desc: "⬻ skeleton crew +35 ([[agile]]); __Damage__ 3d6+17 (3d6+17) slashing plus 2d10 (2d10) negative"
   - name: Ranged
-    desc: "⬻ bone cannon +35 ([[brutal]], [[divine]], [[negative]], [[range increment|range increment 100 feet]]); __Damage__ 2d12+12 (2d12+12) bludgeoning damage plus 2d10 (2d10) negative"
+    desc: "⬻ bone cannon +35 ([[brutal]], [[divine]], [[negative]], [[range-increment|range increment 100 feet]]); __Damage__ 2d12+12 (2d12+12) bludgeoning damage plus 2d10 (2d10) negative"
 
 sourcebook: "_Bestiary 3_, page 34."
 ```

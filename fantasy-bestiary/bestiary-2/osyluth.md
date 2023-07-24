@@ -63,7 +63,7 @@ attacks:
   - name: Melee
     desc: "⬻ stinger +21 ([[evil]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 1d10+11 (1d10+11) piercing plus 1d6 (1d6) evil and osyluth venom"
   - name: Ranged
-    desc: "⬻ bone shard +21 ([[evil]], [[magical]], [[range increment|range increment 30 feet]]); __Damage__ 2d6+8 (2d6+8) piercing"
+    desc: "⬻ bone shard +21 ([[evil]], [[magical]], [[range-increment|range increment 30 feet]]); __Damage__ 2d6+8 (2d6+8) piercing"
 
 spellcasting:
   - name: "Divine Innate Spells"

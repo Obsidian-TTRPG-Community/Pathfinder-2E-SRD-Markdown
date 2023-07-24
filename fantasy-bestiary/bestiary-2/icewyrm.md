@@ -60,7 +60,7 @@ attacks:
   - name: Melee
     desc: "⬻ tail +23 ([[agile]], [[reach|reach 15 feet]]); __Damage__ 2d6+13 (2d6+13) slashing plus 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent cold]]"
   - name: Ranged
-    desc: "⬻ ice shard +23 ([[range increment|range increment 60 feet]]); __Damage__ 1d6+13 (1d6+13) piercing plus 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent cold]]"
+    desc: "⬻ ice shard +23 ([[range-increment|range increment 60 feet]]); __Damage__ 1d6+13 (1d6+13) piercing plus 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent cold]]"
 
 sourcebook: "_Bestiary 2_, page 115."
 ```

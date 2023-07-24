@@ -51,11 +51,11 @@ attacks:
   - name: Melee
     desc: "⬻ fangs +22 ([[agile]], [[finesse]]); __Damage__ 2d8+8 (2d8+8) piercing plus guardian naga venom"
   - name: Ranged
-    desc: "⬻ spit +22 ([[agile]], [[poison]], [[range increment|range increment 30 feet]]); __Damage__ guardian naga venom"
+    desc: "⬻ spit +22 ([[agile]], [[poison]], [[range-increment|range increment 30 feet]]); __Damage__ guardian naga venom"
 
 spellcasting:
   - name: "Divine Spontaneous Spells"
-    desc: "DC 29, attack +21; __Cantrips (5th)__ [[daze]], [[detect magic]], [[light]], [[mage hand]], [[ray of frost]], [[read aura]], [[stabilize]]; __1st__ (4 slots) [[bless]], [[heal]], [[protection]], [[spirit link]]; __2nd__ (4 slots) [[calm emotions]], [[restoration]], [[see invisibility]], [[sound burst]]; __3rd__ (4 slots) [[dispel magic]], [[neutralize poison]], [[remove disease]], [[searing light]]; __4th__ (4 slots) [[air walk]], [[freedom of movement]], [[remove curse]], [[restoration]]; __5th__ (4 slots) [[breath of life]], [[death ward]], [[flame strike]], [[heal]];"
+    desc: "DC 29, attack +21; __Cantrips (5th)__ [[daze]], [[detect magic]], [[light]], [[mage-hand|mage hand]], [[ray of frost]], [[read aura]], [[stabilize]]; __1st__ (4 slots) [[bless]], [[heal]], [[protection]], [[spirit link]]; __2nd__ (4 slots) [[calm emotions]], [[restoration]], [[see invisibility]], [[sound burst]]; __3rd__ (4 slots) [[dispel magic]], [[neutralize poison]], [[remove disease]], [[searing light]]; __4th__ (4 slots) [[air walk]], [[freedom of movement]], [[remove curse]], [[restoration]]; __5th__ (4 slots) [[breath of life]], [[death ward]], [[flame strike]], [[heal]];"
 sourcebook: "_Bestiary_, page 243."
 ```
 

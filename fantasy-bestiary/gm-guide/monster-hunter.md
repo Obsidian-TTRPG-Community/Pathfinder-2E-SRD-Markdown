@@ -59,7 +59,7 @@ attacks:
   - name: Melee
     desc: "⬻ greataxe +15 ([[magical]], [[sweep]]); __Damage__ 1d12+8 (1d12+8) slashing"
   - name: Ranged
-    desc: "⬻ composite longbow +14 ([[deadly|deadly d10]], [[propulsive]], [[range increment|range increment 100 feet]], [[reload|reload 0]], [[volley|volley 30 feet]]); __Damage__ 1d8+6 (1d8+6) piercing"
+    desc: "⬻ composite longbow +14 ([[deadly|deadly d10]], [[propulsive]], [[range-increment|range increment 100 feet]], [[reload|reload 0]], [[volley|volley 30 feet]]); __Damage__ 1d8+6 (1d8+6) piercing"
 
 sourcebook: "_Gamemastery Guide_, page 227."
 ```

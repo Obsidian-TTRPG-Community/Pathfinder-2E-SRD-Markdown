@@ -55,7 +55,7 @@ attacks:
   - name: Melee
     desc: "⬻ hoof +10 __Damage__ 1d8+5 (1d8+5) bludgeoning"
   - name: Ranged
-    desc: "⬻ spit +12 ([[range increment|range increment 30 feet]]); __Damage__ 1d8+2 (1d8+2) bludgeoning"
+    desc: "⬻ spit +12 ([[range-increment|range increment 30 feet]]); __Damage__ 1d8+2 (1d8+2) bludgeoning"
 
 sourcebook: "_Bestiary 3_, page 295."
 ```

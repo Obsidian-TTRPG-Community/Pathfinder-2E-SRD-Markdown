@@ -58,7 +58,7 @@ attacks:
   - name: Melee
     desc: "⬻ falchion +13 ([[forceful]], [[sweep]]); __Damage__ 1d10+6 (1d10+6) slashing"
   - name: Ranged
-    desc: "⬻ crossbow +14 ([[range increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1d10+5 (1d10+5) piercing"
+    desc: "⬻ crossbow +14 ([[range-increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1d10+5 (1d10+5) piercing"
 
 sourcebook: "_Gamemastery Guide_, page 227."
 ```

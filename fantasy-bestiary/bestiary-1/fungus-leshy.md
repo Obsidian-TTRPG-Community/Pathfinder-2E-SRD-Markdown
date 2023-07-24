@@ -58,7 +58,7 @@ attacks:
   - name: Melee
     desc: "⬻ fist +10 ([[agile]], [[finesse]]); __Damage__ 1d6+2 (1d6+2) bludgeoning"
   - name: Ranged
-    desc: "⬻ spore pod +10 ([[range increment|range increment 30 feet]]); __Damage__ 1d6+2 (1d6+2) bludgeoning plus spores"
+    desc: "⬻ spore pod +10 ([[range-increment|range increment 30 feet]]); __Damage__ 1d6+2 (1d6+2) bludgeoning plus spores"
 
 spellcasting:
   - name: "Primal Innate Spells"

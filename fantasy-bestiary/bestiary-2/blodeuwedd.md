@@ -64,7 +64,7 @@ attacks:
   - name: Melee
     desc: "⬻ claw +14 ([[agile]]); __Damage__ 2d8+7 (2d8+7) slashing"
   - name: Ranged
-    desc: "⬻ sling +17 ([[propulsive]], [[range increment|range increment 50 feet]]); __Damage__ 2d6+4 (2d6+4) bludgeoning"
+    desc: "⬻ sling +17 ([[propulsive]], [[range-increment|range increment 50 feet]]); __Damage__ 2d6+4 (2d6+4) bludgeoning"
   - name: Melee
     desc: "⬻ talons +15 __Damage__ 1d3+1 (1d3+1)."
 

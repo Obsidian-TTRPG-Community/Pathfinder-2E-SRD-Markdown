@@ -69,7 +69,7 @@ attacks:
   - name: Melee
     desc: "⬻ jaws +37 ([[magical]], [[reach|reach 10 feet]], [[versatile|versatile b]]); __Damage__ 4d10+18 (4d10+18) piercing"
   - name: Ranged
-    desc: "⬻ rock +37 ([[brutal]], [[range increment|range increment 150 feet]]); __Damage__ 2d12+18 (2d12+18) bludgeoning"
+    desc: "⬻ rock +37 ([[brutal]], [[range-increment|range increment 150 feet]]); __Damage__ 2d12+18 (2d12+18) bludgeoning"
 
 sourcebook: "_Bestiary 2_, page 136."
 ```

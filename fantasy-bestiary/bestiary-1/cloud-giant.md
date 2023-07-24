@@ -65,7 +65,7 @@ attacks:
   - name: Melee
     desc: "⬻ fist +24 ([[agile]], [[reach|reach 15 feet]]); __Damage__ 2d8+13 (2d8+13) bludgeoning"
   - name: Ranged
-    desc: "⬻ rock +24 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 2d10+13 (2d10+13) bludgeoning"
+    desc: "⬻ rock +24 ([[brutal]], [[range-increment|range increment 120 feet]]); __Damage__ 2d10+13 (2d10+13) bludgeoning"
 
 spellcasting:
   - name: "Primal Innate Spells"

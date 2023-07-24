@@ -57,7 +57,7 @@ attacks:
   - name: Melee
     desc: "⬻ offal +9 ([[finesse]], [[magical]]); __Damage__ 1d10-1 (1d10-1) plus 1d6 (1d6) fire and slippery grease"
   - name: Ranged
-    desc: "⬻ scalding oil +9 ([[fire]], [[magical]], [[range increment|range increment 30 feet]]); __Damage__ 2d6 (2d6) fire"
+    desc: "⬻ scalding oil +9 ([[fire]], [[magical]], [[range-increment|range increment 30 feet]]); __Damage__ 2d6 (2d6) fire"
 
 sourcebook: "_Bestiary 3_, page 256."
 ```

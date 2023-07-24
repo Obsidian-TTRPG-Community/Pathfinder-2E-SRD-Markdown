@@ -61,7 +61,7 @@ attacks:
   - name: Ranged
     desc: "⬻ hatchet +19 ([[magical]], [[thrown|thrown 10 feet]]); __Damage__ 1d6+10 (1d6+10) slashing plus pukwudgie poison"
   - name: Ranged
-    desc: "⬻ shortbow +18 ([[deadly|deadly d10]], [[range increment|range increment 60 feet]]); __Damage__ 1d6+6 (1d6+6) piercing plus pukwudgie poison"
+    desc: "⬻ shortbow +18 ([[deadly|deadly d10]], [[range-increment|range increment 60 feet]]); __Damage__ 1d6+6 (1d6+6) piercing plus pukwudgie poison"
 
 spellcasting:
   - name: "Primal Innate Spells"

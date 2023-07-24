@@ -58,7 +58,7 @@ attacks:
   - name: Melee
     desc: "⬻ kukri +15 ([[agile]], [[magical]], [[trip]]); __Damage__ 1d6+7 (1d6+7) slashing"
   - name: Ranged
-    desc: "⬻ hand crossbow +15 ([[range increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1d6+3 (1d6+3) piercing"
+    desc: "⬻ hand crossbow +15 ([[range-increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1d6+3 (1d6+3) piercing"
 
 sourcebook: "_Gamemastery Guide_, page 217."
 ```

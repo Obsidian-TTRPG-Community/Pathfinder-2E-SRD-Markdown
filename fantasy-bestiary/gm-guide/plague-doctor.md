@@ -56,7 +56,7 @@ attacks:
   - name: Melee
     desc: "⬻ staff +9 ([[two-hand|two-hand d8]]); __Damage__ 1d4 (1d4) bludgeoning"
   - name: Ranged
-    desc: "⬻ crossbow +10 ([[range increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1d8 (1d8) piercing"
+    desc: "⬻ crossbow +10 ([[range-increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1d8 (1d8) piercing"
 
 spellcasting:
   - name: "Divine Prepared Spells"

@@ -58,7 +58,7 @@ attacks:
   - name: Melee
     desc: "⬻ tendril +6 ([[agile]], [[finesse]]); __Damage__ 1d8 (1d8) bludgeoning"
   - name: Ranged
-    desc: "⬻ seed +6 ([[range increment|range increment 20 feet]]); __Damage__ 1d6 (1d6) bludgeoning"
+    desc: "⬻ seed +6 ([[range-increment|range increment 20 feet]]); __Damage__ 1d6 (1d6) bludgeoning"
 
 spellcasting:
   - name: "Primal Innate Spells"

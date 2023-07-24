@@ -67,7 +67,7 @@ attacks:
   - name: Melee
     desc: "⬻ longsword +18 ([[magical]], [[versatile|versatile p]]); __Damage__ 1d8+11 (1d8+11) slashing"
   - name: Ranged
-    desc: "⬻ crossbow +12 ([[range increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1d8+6 (1d8+6) piercing"
+    desc: "⬻ crossbow +12 ([[range-increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1d8+6 (1d8+6) piercing"
 
 sourcebook: "_Gamemastery Guide_, page 236."
 ```

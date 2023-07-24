@@ -73,7 +73,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 40, attack +30; __Cantrips (8th)__ [[mage hand]], [[telekinetic projectile]]; __4th__ [[blink]] (at will), [[dimension door]] (at will), [[telekinetic maneuver]] (at will); __7th__ [[spell turning]] (at will); __9th__ [[wail of the banshee]]; __Constant__ __(6th)__ [[true seeing]];"
+    desc: "DC 40, attack +30; __Cantrips (8th)__ [[mage-hand|mage hand]], [[telekinetic projectile]]; __4th__ [[blink]] (at will), [[dimension door]] (at will), [[telekinetic maneuver]] (at will); __7th__ [[spell turning]] (at will); __9th__ [[wail of the banshee]]; __Constant__ __(6th)__ [[true seeing]];"
 sourcebook: "_Bestiary_, page 222."
 ```
 

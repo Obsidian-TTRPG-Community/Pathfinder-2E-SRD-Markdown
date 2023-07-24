@@ -60,7 +60,7 @@ attacks:
   - name: Melee
     desc: "⬻ shortsword +13 ([[agile]], [[finesse]], [[versatile|versatile s]]); __Damage__ 1d6+6 (1d6+6) slashing"
   - name: Ranged
-    desc: "⬻ hand crossbow +13 ([[range increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1d6+3 (1d6+3) piercing"
+    desc: "⬻ hand crossbow +13 ([[range-increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1d6+3 (1d6+3) piercing"
 
 spellcasting:
   - name: "Occult Spontaneous Spells"

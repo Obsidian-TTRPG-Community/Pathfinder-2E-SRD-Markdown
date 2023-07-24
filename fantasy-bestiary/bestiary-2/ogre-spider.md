@@ -56,7 +56,7 @@ attacks:
   - name: Melee
     desc: "⬻ bite +15 __Damage__ 2d8+8 (2d8+8) plus ogre spider venom"
   - name: Ranged
-    desc: "⬻ web +13 ([[range increment|range increment 30 feet]]); __Damage__ web trap"
+    desc: "⬻ web +13 ([[range-increment|range increment 30 feet]]); __Damage__ web trap"
 
 sourcebook: "_Bestiary 2_, page 249."
 ```

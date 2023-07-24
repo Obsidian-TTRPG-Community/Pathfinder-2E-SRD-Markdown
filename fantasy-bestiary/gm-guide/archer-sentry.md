@@ -54,7 +54,7 @@ attacks:
   - name: Melee
     desc: "⬻ shortsword +10 ([[agile]], [[finesse]], [[versatile|versatile p]]); __Damage__ 1d6+3 (1d6+3) slashing"
   - name: Ranged
-    desc: "⬻ composite longbow +10 ([[deadly|deadly 1d10]], [[range increment|range increment 100 feet]], [[reload|reload 0]], [[volley|volley 30 feet]]); __Damage__ 1d8+2 (1d8+2) piercing"
+    desc: "⬻ composite longbow +10 ([[deadly|deadly 1d10]], [[range-increment|range increment 100 feet]], [[reload|reload 0]], [[volley|volley 30 feet]]); __Damage__ 1d8+2 (1d8+2) piercing"
 
 sourcebook: "_Gamemastery Guide_, page 234."
 ```

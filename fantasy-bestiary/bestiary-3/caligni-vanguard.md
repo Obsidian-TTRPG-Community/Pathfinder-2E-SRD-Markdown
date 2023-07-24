@@ -64,7 +64,7 @@ attacks:
   - name: Melee
     desc: "⬻ greatsword +16 ([[versatile|versatile p]]); __Damage__ 1d12+8 (1d12+8) slashing"
   - name: Ranged
-    desc: "⬻ composite longbow +10 ([[deadly|deadly d10]], [[range increment|range increment 100 feet]], [[volley]]); __Damage__ 1d8+5 (1d8+5) piercing"
+    desc: "⬻ composite longbow +10 ([[deadly|deadly d10]], [[range-increment|range increment 100 feet]], [[volley]]); __Damage__ 1d8+5 (1d8+5) piercing"
 
 sourcebook: "_Bestiary 3_, page 40."
 ```

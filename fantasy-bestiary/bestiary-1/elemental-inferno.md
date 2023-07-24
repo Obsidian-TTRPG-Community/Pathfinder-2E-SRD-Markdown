@@ -63,7 +63,7 @@ attacks:
   - name: Melee
     desc: "⬻ tendril +24 ([[reach|reach 15 feet]]); __Damage__ 2d10+12 (2d10+12) fire plus 3d8 (3d8) [[rules/conditions.md#Persistent%20Damage|persistent fire]]"
   - name: Ranged
-    desc: "⬻ fire mote +24 ([[range increment|range increment 60 feet]]); __Damage__ 2d10+6 (2d10+6) fire"
+    desc: "⬻ fire mote +24 ([[range-increment|range increment 60 feet]]); __Damage__ 2d10+6 (2d10+6) fire"
 
 sourcebook: "_Bestiary_, page 149."
 ```

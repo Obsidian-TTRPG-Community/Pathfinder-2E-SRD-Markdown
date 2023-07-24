@@ -65,7 +65,7 @@ attacks:
   - name: Melee
     desc: "⬻ halberd +9 ([[reach|reach 10 feet]], [[versatile|versatile s]]); __Damage__ 1d10+4 (1d10+4) piercing"
   - name: Ranged
-    desc: "⬻ composite longbow +11 ([[deadly|deadly d10]], [[propulsive]], [[range increment|range increment 100 feet]], [[volley|volley 30 feet]]); __Damage__ 1d8+3 (1d8+3) piercing"
+    desc: "⬻ composite longbow +11 ([[deadly|deadly d10]], [[propulsive]], [[range-increment|range increment 100 feet]], [[volley|volley 30 feet]]); __Damage__ 1d8+3 (1d8+3) piercing"
 
 spellcasting:
   - name: "Occult Innate Spells"

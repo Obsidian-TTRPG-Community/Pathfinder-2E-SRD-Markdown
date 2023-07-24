@@ -55,7 +55,7 @@ attacks:
   - name: Melee
     desc: "⬻ sunset ribbon +21 ([[agile]], [[finesse]]); __Damage__ 2d10+6 (2d10+6) slashing plus 1d6 (1d6) fire and 1d6 (1d6) positive"
   - name: Ranged
-    desc: "⬻ sunset ray +21 ([[magical]], [[range increment|range increment 60 feet]]); __Damage__ 2d12+6 (2d12+6) fire plus 1d6 (1d6) positive"
+    desc: "⬻ sunset ray +21 ([[magical]], [[range-increment|range increment 60 feet]]); __Damage__ 2d12+6 (2d12+6) fire plus 1d6 (1d6) positive"
 
 spellcasting:
   - name: "Primal Innate Spells"

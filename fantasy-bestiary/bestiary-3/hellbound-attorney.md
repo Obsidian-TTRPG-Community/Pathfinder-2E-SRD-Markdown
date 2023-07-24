@@ -63,7 +63,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 21; __1st__ [[burning hands]];"
+    desc: "DC 21; __1st__ [[burning-hands|burning hands]];"
 sourcebook: "_Bestiary 3_, page 64."
 ```
 

@@ -59,7 +59,7 @@ attacks:
   - name: Melee
     desc: "⬻ tail +20 ([[reach|reach 15 feet]]); __Damage__ 2d8+11 (2d8+11) fire plus 2d8 (2d8) [[rules/conditions.md#Persistent%20Damage|persistent fire]]"
   - name: Ranged
-    desc: "⬻ fire mote +20 ([[range increment|range increment 60 feet]]); __Damage__ 2d8+6 (2d8+6) fire"
+    desc: "⬻ fire mote +20 ([[range-increment|range increment 60 feet]]); __Damage__ 2d8+6 (2d8+6) fire"
 
 sourcebook: "_Bestiary_, page 149."
 ```

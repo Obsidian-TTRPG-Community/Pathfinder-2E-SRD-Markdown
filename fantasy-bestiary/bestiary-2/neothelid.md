@@ -67,7 +67,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 38, attack +30; __Cantrips (8th)__ [[daze]], [[detect magic]], [[mage hand]], [[telekinetic projectile]]; __5th__ [[mind probe]] (at will), [[telekinetic haul]] (at will); __6th__ [[scrying]] (3), [[suggestion]] (at will); __7th__ [[phantasmal calamity]], [[teleport]]; __8th__ [[charm]], [[suggestion]], [[summon entity]];"
+    desc: "DC 38, attack +30; __Cantrips (8th)__ [[daze]], [[detect magic]], [[mage-hand|mage hand]], [[telekinetic projectile]]; __5th__ [[mind probe]] (at will), [[telekinetic haul]] (at will); __6th__ [[scrying]] (3), [[suggestion]] (at will); __7th__ [[phantasmal calamity]], [[teleport]]; __8th__ [[charm]], [[suggestion]], [[summon entity]];"
 sourcebook: "_Bestiary 2_, page 181."
 ```
 

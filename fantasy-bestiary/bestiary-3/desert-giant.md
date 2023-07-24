@@ -61,7 +61,7 @@ attacks:
   - name: Melee
     desc: "⬻ scimitar +21 ([[forceful]], [[magical]], [[reach|reach 10 feet]], [[sweep]]); __Damage__ 2d6+12 (2d6+12) slashing"
   - name: Ranged
-    desc: "⬻ rock +19 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 2d8+12 (2d8+12) bludgeoning"
+    desc: "⬻ rock +19 ([[brutal]], [[range-increment|range increment 120 feet]]); __Damage__ 2d8+12 (2d8+12) bludgeoning"
 
 sourcebook: "_Bestiary 3_, page 109."
 ```

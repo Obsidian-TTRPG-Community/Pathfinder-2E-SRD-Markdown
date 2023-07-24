@@ -69,7 +69,7 @@ attacks:
   - name: Melee
     desc: "⬻ fist +17 ([[agile]]); __Damage__ 1d8+8 (1d8+8) bludgeoning"
   - name: Ranged
-    desc: "⬻ composite shortbow +14 ([[deadly|deadly d10]], [[propulsive]], [[range increment|range increment 60 feet]]); __Damage__ 1d6+5 (1d6+5) piercing"
+    desc: "⬻ composite shortbow +14 ([[deadly|deadly d10]], [[propulsive]], [[range-increment|range increment 60 feet]]); __Damage__ 1d6+5 (1d6+5) piercing"
 
 sourcebook: "_Bestiary 3_, page 175."
 ```

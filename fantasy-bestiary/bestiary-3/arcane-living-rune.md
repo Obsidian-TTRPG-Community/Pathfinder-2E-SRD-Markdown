@@ -54,7 +54,7 @@ health:
 
 attacks:
   - name: Ranged
-    desc: "⬻ electrical blast +25 ([[electricity]], [[evocation]], [[range increment|range increment 60 feet]]); __Damage__ 4d12 (4d12) electricity"
+    desc: "⬻ electrical blast +25 ([[electricity]], [[evocation]], [[range-increment|range increment 60 feet]]); __Damage__ 4d12 (4d12) electricity"
 
 spellcasting:
   - name: "Arcane Innate Spells"

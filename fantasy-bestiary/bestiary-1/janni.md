@@ -59,7 +59,7 @@ attacks:
   - name: Melee
     desc: "⬻ fist +14 ([[agile]], [[magical]], [[nonlethal]]); __Damage__ 1d4+10 (1d4+10) bludgeoning"
   - name: Ranged
-    desc: "⬻ composite shortbow +12 ([[deadly|deadly 1d10]], [[propulsive]], [[range increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6+5 (1d6+5) piercing"
+    desc: "⬻ composite shortbow +12 ([[deadly|deadly 1d10]], [[propulsive]], [[range-increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6+5 (1d6+5) piercing"
 
 spellcasting:
   - name: "Arcane Innate Spells"

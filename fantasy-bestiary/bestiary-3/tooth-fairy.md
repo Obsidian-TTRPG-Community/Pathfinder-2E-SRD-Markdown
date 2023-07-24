@@ -58,7 +58,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 13; __Cantrips (1st)__ [[mage hand]]; __1st__ [[sleep]];"
+    desc: "DC 13; __Cantrips (1st)__ [[mage-hand|mage hand]]; __1st__ [[sleep]];"
 sourcebook: "_Bestiary 3_, page 273."
 ```
 

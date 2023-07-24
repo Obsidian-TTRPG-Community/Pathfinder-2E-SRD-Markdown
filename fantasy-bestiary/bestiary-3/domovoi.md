@@ -56,11 +56,11 @@ attacks:
   - name: Melee
     desc: "⬻ broom +7 __Damage__ 1d4+3 (1d4+3) bludgeoning"
   - name: Ranged
-    desc: "⬻ enraged home +9 ([[evocation]], [[primal]], [[range increment|range increment 30 feet]]); __Damage__ 1d8+4 (1d8+4) bludgeoning, piercing, or slashing (depending on object)"
+    desc: "⬻ enraged home +9 ([[evocation]], [[primal]], [[range-increment|range increment 30 feet]]); __Damage__ 1d8+4 (1d8+4) bludgeoning, piercing, or slashing (depending on object)"
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 18; __Cantrips (1st)__ [[mage hand]], [[prestidigitation]], [[telekinetic projectile]]; __1st__ [[mending]] (at will);"
+    desc: "DC 18; __Cantrips (1st)__ [[mage-hand|mage hand]], [[prestidigitation]], [[telekinetic projectile]]; __1st__ [[mending]] (at will);"
 sourcebook: "_Bestiary 3_, page 136."
 ```
 

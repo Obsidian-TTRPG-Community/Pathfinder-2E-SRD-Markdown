@@ -53,7 +53,7 @@ attacks:
   - name: Melee
     desc: "⬻ shovel +6 __Damage__ 1d6+1 (1d6+1) bludgeoning"
   - name: Ranged
-    desc: "⬻ alchemical bomb +7 ([[range increment|range increment 20 feet]], [[splash]]); __Damage__ varies by bomb"
+    desc: "⬻ alchemical bomb +7 ([[range-increment|range increment 20 feet]], [[splash]]); __Damage__ varies by bomb"
 
 sourcebook: "_Gamemastery Guide_, page 209."
 ```

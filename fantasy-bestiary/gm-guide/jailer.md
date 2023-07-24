@@ -58,7 +58,7 @@ attacks:
   - name: Melee
     desc: "⬻ club +11 __Damage__ 1d6+8 (1d6+8) bludgeoning"
   - name: Ranged
-    desc: "⬻ crossbow +10 ([[range increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1d8+4 (1d8+4) piercing"
+    desc: "⬻ crossbow +10 ([[range-increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1d8+4 (1d8+4) piercing"
   - name: Melee
     desc: "⬻ club +10 ([[thrown|thrown 10 feet]]); __Damage__ 1d6+6 (1d6+6) bludgeoning"
 

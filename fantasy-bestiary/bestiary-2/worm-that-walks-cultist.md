@@ -59,7 +59,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Spontaneous Spells"
-    desc: "DC 34, attack +26; __Cantrips (7th)__ [[daze]], [[detect magic]], [[light]], [[mage hand]], [[shield]]; __1st__ (4 slots) [[charm]], [[illusory disguise]], [[mindlink]], [[ray of enfeeblement]]; __2nd__ (4 slots) [[comprehend language]], [[illusory creature]], [[mirror image]], [[undetectable alignment]]; __3rd__ (4 slots) [[dream message]], [[haste]], [[hypercognition]], [[slow]]; __4th__ (4 slots) [[dimension door]], [[modify memory]], [[suggestion]], [[veil]]; __5th__ (4 slots) [[black tentacles]], [[mind probe]], [[phantom pain]], [[subconscious suggestion]]; __6th__ (4 slots) [[dispel magic]], [[dominate]], [[paranoia]], [[summon entity]]; __7th__ (3 slots) [[phantasmal killer]], [[visions of danger]], [[warp mind]];"
+    desc: "DC 34, attack +26; __Cantrips (7th)__ [[daze]], [[detect magic]], [[light]], [[mage-hand|mage hand]], [[shield]]; __1st__ (4 slots) [[charm]], [[illusory disguise]], [[mindlink]], [[ray of enfeeblement]]; __2nd__ (4 slots) [[comprehend language]], [[illusory creature]], [[mirror image]], [[undetectable alignment]]; __3rd__ (4 slots) [[dream message]], [[haste]], [[hypercognition]], [[slow]]; __4th__ (4 slots) [[dimension door]], [[modify memory]], [[suggestion]], [[veil]]; __5th__ (4 slots) [[black tentacles]], [[mind probe]], [[phantom pain]], [[subconscious suggestion]]; __6th__ (4 slots) [[dispel magic]], [[dominate]], [[paranoia]], [[summon entity]]; __7th__ (3 slots) [[phantasmal killer]], [[visions of danger]], [[warp mind]];"
 sourcebook: "_Bestiary 2_, page 297."
 ```
 

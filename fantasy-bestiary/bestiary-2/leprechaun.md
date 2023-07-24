@@ -54,7 +54,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 18, attack +10; __Cantrips (2nd)__ [[dancing lights]], [[ghost sound]], [[mage hand]], [[prestidigitation]], [[telekinetic projectile]]; __1st__ [[color spray]], [[shillelagh]], [[ventriloquism]]; __2nd__ [[illusory creature]], [[illusory object]], [[invisibility]] self only;"
+    desc: "DC 18, attack +10; __Cantrips (2nd)__ [[dancing lights]], [[ghost sound]], [[mage-hand|mage hand]], [[prestidigitation]], [[telekinetic projectile]]; __1st__ [[color spray]], [[shillelagh]], [[ventriloquism]]; __2nd__ [[illusory creature]], [[illusory object]], [[invisibility]] self only;"
 sourcebook: "_Bestiary 2_, page 158."
 ```
 

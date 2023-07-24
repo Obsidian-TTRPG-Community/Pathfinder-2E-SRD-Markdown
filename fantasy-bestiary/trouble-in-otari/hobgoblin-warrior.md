@@ -40,7 +40,7 @@ abilities_bot:
   - name: "Melee Strike"
     desc: "⬻ ([[versatile|versatile P]]);  Damage 1d8+3 (1d8+3) slashing"
   - name: "Ranged Strike"
-    desc: "⬻ ([[deadly 1d10]], [[range increment 60 feet]]);  Damage 1d6 (1d6) piercing"
+    desc: "⬻ ([[deadly|deadly 1d10]], [[range-increment|range increment 60 feet]]);  Damage 1d6 (1d6) piercing"
 abilities_top:
   - name: Items
     desc: "hide armor, longsword, shortbow (10 arrows), shield;"

@@ -63,11 +63,11 @@ attacks:
   - name: Ranged
     desc: "⬻ spear +8 ([[thrown|thrown 20 feet]]); __Damage__ 1d6+2 (1d6+2) piercing"
   - name: Ranged
-    desc: "⬻ shortbow +8 ([[deadly|deadly d10]], [[range increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6+2 (1d6+2) piercing"
+    desc: "⬻ shortbow +8 ([[deadly|deadly d10]], [[range-increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6+2 (1d6+2) piercing"
 
 spellcasting:
   - name: "Occult Spontaneous Spells"
-    desc: "DC 20; __Cantrips (2nd)__ [[daze]], [[forbidding ward]], [[ghost sound]], [[light]], [[mage hand]]; __1st__ (3 slots) [[charm]], [[sanctuary]], [[sleep]], [[soothe]]; __2nd__ (2 slots) [[illusory disguise]], [[phantom pain]];"
+    desc: "DC 20; __Cantrips (2nd)__ [[daze]], [[forbidding ward]], [[ghost sound]], [[light]], [[mage-hand|mage hand]]; __1st__ (3 slots) [[charm]], [[sanctuary]], [[sleep]], [[soothe]]; __2nd__ (2 slots) [[illusory disguise]], [[phantom pain]];"
   - name: "Primal Innate Spells"
     desc: "DC 20; __1st__ [[goodberry]] Core Rulebook 399, [[purify food and drink]]; __2nd__ [[detect poison]];"
 sourcebook: "_Bestiary 3_, page 106."

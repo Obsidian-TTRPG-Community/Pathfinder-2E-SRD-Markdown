@@ -77,7 +77,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 40, attack +32; __Cantrips (8th)__ [[produce flame]]; __8th__ [[burning hands]] (at will), [[fireball]], [[wall of fire]] (at will); __Constant__ __(4th)__ [[fire shield]];"
+    desc: "DC 40, attack +32; __Cantrips (8th)__ [[produce flame]]; __8th__ [[burning-hands|burning hands]] (at will), [[fireball]], [[wall of fire]] (at will); __Constant__ __(4th)__ [[fire shield]];"
 sourcebook: "_Bestiary 2_, page 95."
 ```
 

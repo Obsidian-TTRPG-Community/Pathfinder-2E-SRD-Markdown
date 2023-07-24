@@ -62,7 +62,7 @@ attacks:
   - name: Melee
     desc: "⬻ shortsword +10 ([[agile]], [[finesse]], [[versatile|versatile s]]); __Damage__ 1d6+4 (1d6+4) piercing"
   - name: Ranged
-    desc: "⬻ hand crossbow +10 ([[range increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1d6 (1d6) piercing plus lethargy poison"
+    desc: "⬻ hand crossbow +10 ([[range-increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1d6 (1d6) piercing plus lethargy poison"
 
 spellcasting:
   - name: "Divine Innate Spells"

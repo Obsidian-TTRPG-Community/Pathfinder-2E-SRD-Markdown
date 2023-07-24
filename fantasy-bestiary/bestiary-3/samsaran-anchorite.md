@@ -59,7 +59,7 @@ attacks:
   - name: Melee
     desc: "⬻ spear +5 __Damage__ 1d6+2 (1d6+2) piercing"
   - name: Ranged
-    desc: "⬻ sling +7 ([[range increment|range increment 50 feet]], [[reload|reload 1]]); __Damage__ 1d4+2 (1d4+2) bludgeoning"
+    desc: "⬻ sling +7 ([[range-increment|range increment 50 feet]], [[reload|reload 1]]); __Damage__ 1d4+2 (1d4+2) bludgeoning"
 
 spellcasting:
   - name: "Divine Prepared Spells"

@@ -63,7 +63,7 @@ attacks:
   - name: Melee
     desc: "⬻ club +14 __Damage__ 2d6+7 (2d6+7) bludgeoning"
   - name: Ranged
-    desc: "⬻ rock +14 ([[brutal]], [[range increment|range increment 20 feet]]); __Damage__ 1d6+7 (1d6+7) bludgeoning"
+    desc: "⬻ rock +14 ([[brutal]], [[range-increment|range increment 20 feet]]); __Damage__ 1d6+7 (1d6+7) bludgeoning"
   - name: Ranged
     desc: "⬻ club +14 ([[thrown|thrown 10 feet]]); __Damage__ 2d6+7 (2d6+7) bludgeoning"
 

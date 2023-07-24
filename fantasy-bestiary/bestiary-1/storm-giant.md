@@ -65,7 +65,7 @@ attacks:
   - name: Melee
     desc: "⬻ fist +27 ([[agile]], [[reach|reach 15 feet]]); __Damage__ 2d8+16 (2d8+16) bludgeoning plus 1d6 (1d6) electricity"
   - name: Ranged
-    desc: "⬻ rock +37 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 2d10+16 (2d10+16) bludgeoning"
+    desc: "⬻ rock +37 ([[brutal]], [[range-increment|range increment 120 feet]]); __Damage__ 2d10+16 (2d10+16) bludgeoning"
 
 spellcasting:
   - name: "Arcane Innate Spells"

@@ -56,7 +56,7 @@ attacks:
   - name: Melee
     desc: "⬻ fist +11 ([[agile]], [[finesse]]); __Damage__ 2d4+4 (2d4+4) bludgeoning"
   - name: Ranged
-    desc: "⬻ splatter +11 ([[nonlethal]], [[range increment|range increment 20 feet]]); __Damage__ 1d4+4 (1d4+4) plus splatter"
+    desc: "⬻ splatter +11 ([[nonlethal]], [[range-increment|range increment 20 feet]]); __Damage__ 1d4+4 (1d4+4) plus splatter"
 
 sourcebook: "_Bestiary 3_, page 162."
 ```

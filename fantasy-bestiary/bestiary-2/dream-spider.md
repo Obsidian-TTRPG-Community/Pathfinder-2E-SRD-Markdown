@@ -54,7 +54,7 @@ attacks:
   - name: Melee
     desc: "⬻ bite +7 ([[finesse]]); __Damage__ 1d6 (1d6) plus dream spider venom"
   - name: Ranged
-    desc: "⬻ web +7 ([[range increment|range increment 10 feet]]); __Damage__ web trap plus dream spider venom"
+    desc: "⬻ web +7 ([[range-increment|range increment 10 feet]]); __Damage__ web trap plus dream spider venom"
 
 sourcebook: "_Bestiary 2_, page 249."
 ```

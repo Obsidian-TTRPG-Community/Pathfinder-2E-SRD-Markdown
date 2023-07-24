@@ -64,7 +64,7 @@ attacks:
   - name: Melee
     desc: "⬻ claw +26 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 3d6+13 (3d6+13) slashing plus dooming touch"
   - name: Ranged
-    desc: "⬻ rock +24 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 3d8+13 (3d8+13) bludgeoning"
+    desc: "⬻ rock +24 ([[brutal]], [[range-increment|range increment 120 feet]]); __Damage__ 3d8+13 (3d8+13) bludgeoning"
 
 spellcasting:
   - name: "Divine Innate Spells"

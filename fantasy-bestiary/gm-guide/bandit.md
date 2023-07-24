@@ -61,7 +61,7 @@ attacks:
   - name: Melee
     desc: "⬻ hatchet +9 ([[agile]], [[sweep]]); __Damage__ 1d6+5 (1d6+5) slashing"
   - name: Ranged
-    desc: "⬻ sling +9 ([[propulsive]], [[range increment|range increment 50 feet]], [[reload|reload 1]]); __Damage__ 1d6+3 (1d6+3) bludgeoning"
+    desc: "⬻ sling +9 ([[propulsive]], [[range-increment|range increment 50 feet]], [[reload|reload 1]]); __Damage__ 1d6+3 (1d6+3) bludgeoning"
   - name: Ranged
     desc: "⬻ hatchet +9 ([[agile]], [[sweep]], [[thrown|thrown 10 feet]]); __Damage__ 1d6+5 (1d6+5) slashing"
 

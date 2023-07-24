@@ -59,7 +59,7 @@ attacks:
   - name: Melee
     desc: "⬻ fist +27 ([[agile]], [[magical]], [[versatile|versatile p]]); __Damage__ 3d10+14 (3d10+14) bludgeoning"
   - name: Ranged
-    desc: "⬻ psychic shard +27 ([[magical]], [[range increment|range increment 60 feet]]); __Damage__ 3d8+14 (3d8+14) piercing"
+    desc: "⬻ psychic shard +27 ([[magical]], [[range-increment|range increment 60 feet]]); __Damage__ 3d8+14 (3d8+14) piercing"
 
 spellcasting:
   - name: "Occult Innate Spells"

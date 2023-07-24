@@ -62,7 +62,7 @@ attacks:
   - name: Melee
     desc: "⬻ fist +33 __Damage__ 4d12+13 (4d12+13) bludgeoning"
   - name: Ranged
-    desc: "⬻ rock or metal debris +29 ([[range increment|range increment 120 feet]]); __Damage__ 4d8+13 (4d8+13) bludgeoning"
+    desc: "⬻ rock or metal debris +29 ([[range-increment|range increment 120 feet]]); __Damage__ 4d8+13 (4d8+13) bludgeoning"
 
 spellcasting:
   - name: "Divine Innate Spells"

@@ -56,7 +56,7 @@ attacks:
   - name: Melee
     desc: "⬻ arcane tendril +19 ([[arcane]], [[evocation]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 2d12+10 (2d12+10) force"
   - name: Ranged
-    desc: "⬻ arcane bolt +19 ([[arcane]], [[evocation]], [[magic]], [[range increment|range increment 30 feet]]); __Damage__ 2d10+10 (2d10+10) force"
+    desc: "⬻ arcane bolt +19 ([[arcane]], [[evocation]], [[magic]], [[range-increment|range increment 30 feet]]); __Damage__ 2d10+10 (2d10+10) force"
 
 spellcasting:
   - name: "Arcane Innate Spells"

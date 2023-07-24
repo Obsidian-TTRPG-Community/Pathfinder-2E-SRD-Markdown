@@ -64,7 +64,7 @@ attacks:
   - name: Melee
     desc: "⬻ claw +18 ([[agile]], [[magical]]); __Damage__ 2d6+8 (2d6+8) slashing"
   - name: Ranged
-    desc: "⬻ spike +16 ([[propulsive]], [[range increment|range increment 40 feet]]); __Damage__ 1d10+5 (1d10+5) piercing"
+    desc: "⬻ spike +16 ([[propulsive]], [[range-increment|range increment 40 feet]]); __Damage__ 1d10+5 (1d10+5) piercing"
 
 sourcebook: "_Bestiary 3_, page 198."
 ```

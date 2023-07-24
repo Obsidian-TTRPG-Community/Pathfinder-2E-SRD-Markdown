@@ -57,7 +57,7 @@ attacks:
   - name: Melee
     desc: "⬻ fangs +24 ([[reach|reach 10 feet]]); __Damage__ 2d12+12 (2d12+12) piercing plus goliath spider venom"
   - name: Ranged
-    desc: "⬻ web +22 ([[range increment|range increment 60 feet]]); __Damage__ web tether"
+    desc: "⬻ web +22 ([[range-increment|range increment 60 feet]]); __Damage__ web tether"
 
 sourcebook: "_Bestiary_, page 307."
 ```

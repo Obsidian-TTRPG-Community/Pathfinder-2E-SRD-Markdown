@@ -67,7 +67,7 @@ attacks:
   - name: Melee
     desc: "⬻ rapier +18 ([[deadly|deadly 1d8]], [[disarm]], [[finesse]], [[magical]]); __Damage__ 1d6+8 (1d6+8) piercing"
   - name: Ranged
-    desc: "⬻ composite shortbow +20 ([[deadly|deadly 2d10]], [[magical]], [[propulsive]], [[range increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 2d6+4 (2d6+4) piercing"
+    desc: "⬻ composite shortbow +20 ([[deadly|deadly 2d10]], [[magical]], [[propulsive]], [[range-increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 2d6+4 (2d6+4) piercing"
 
 sourcebook: "_Gamemastery Guide_, page 212."
 ```

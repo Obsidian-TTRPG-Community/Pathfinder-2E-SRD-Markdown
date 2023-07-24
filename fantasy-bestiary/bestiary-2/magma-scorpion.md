@@ -57,7 +57,7 @@ attacks:
   - name: Melee
     desc: "⬻ tail sting +20 ([[reach|reach 10 feet]]); __Damage__ 1d10+9 (1d10+9) piercing plus 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent fire]] and magma scorpion venom"
   - name: Ranged
-    desc: "⬻ magma spit +17 ([[fire]], [[range increment|range increment 40 feet]]); __Damage__ 1d6+9 (1d6+9) fire plus 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent fire]]"
+    desc: "⬻ magma spit +17 ([[fire]], [[range-increment|range increment 40 feet]]); __Damage__ 1d6+9 (1d6+9) fire plus 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent fire]]"
 
 sourcebook: "_Bestiary 2_, page 111."
 ```

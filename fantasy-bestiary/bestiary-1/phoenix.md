@@ -59,7 +59,7 @@ attacks:
   - name: Melee
     desc: "⬻ talon +30 ([[agile]], [[finesse]], [[fire]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 1d6+6 (1d6+6) piercing plus 3d8 (3d8) fire and 2d10 (2d10) [[rules/conditions.md#Persistent%20Damage|persistent fire]]"
   - name: Ranged
-    desc: "⬻ flame jet +30 ([[fire]], [[range increment|range increment 40 feet]]); __Damage__ 6d6 (6d6) fire plus 2d10 (2d10) [[rules/conditions.md#Persistent%20Damage|persistent fire]]"
+    desc: "⬻ flame jet +30 ([[fire]], [[range-increment|range increment 40 feet]]); __Damage__ 6d6 (6d6) fire plus 2d10 (2d10) [[rules/conditions.md#Persistent%20Damage|persistent fire]]"
 
 spellcasting:
   - name: "Primal Innate Spells"

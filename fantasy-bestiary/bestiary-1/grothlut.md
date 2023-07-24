@@ -52,7 +52,7 @@ attacks:
   - name: Melee
     desc: "⬻ claw +11 ([[agile]]); __Damage__ 1d10+8 (1d10+8) slashing"
   - name: Ranged
-    desc: "⬻ digestive spew +7 ([[acid]], [[range increment|range increment 15 feet]], [[splash]]); __Damage__ 2d6 (2d6) acid damage plus 1d6 (1d6) splash acid damage"
+    desc: "⬻ digestive spew +7 ([[acid]], [[range-increment|range increment 15 feet]], [[splash]]); __Damage__ 2d6 (2d6) acid damage plus 1d6 (1d6) splash acid damage"
 
 sourcebook: "_Bestiary_, page 158."
 ```

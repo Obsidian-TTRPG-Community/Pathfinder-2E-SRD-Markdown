@@ -60,7 +60,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Spontaneous Spells"
-    desc: "DC 27, attack +19; __Cantrips (6th)__ [[daze]], [[detect magic]], [[divine lance]] chaos or evil; __5th__ (3 slots) [[burning hands]], [[fireball]], [[hurtling stone]] Core Rulebook 393; __6th__ (2 slots) [[cry of destruction]], [[destructive aura]] Core Rulebook 391;"
+    desc: "DC 27, attack +19; __Cantrips (6th)__ [[daze]], [[detect magic]], [[divine lance]] chaos or evil; __5th__ (3 slots) [[burning-hands|burning hands]], [[fireball]], [[hurtling stone]] Core Rulebook 393; __6th__ (2 slots) [[cry of destruction]], [[destructive aura]] Core Rulebook 391;"
 sourcebook: "_Bestiary 3_, page 213."
 ```
 

@@ -62,7 +62,7 @@ attacks:
   - name: Melee
     desc: "⬻ flytrap hand +13 ([[agile]], [[versatile|versatile s]]); __Damage__ 1d6+6 (1d6+6) piercing plus 1d6 (1d6) acid and flytrap toxin"
   - name: Ranged
-    desc: "⬻ spittle +11 ([[acid]], [[range increment|range increment 10 feet]]); __Damage__ 1d6+6 (1d6+6) acid plus flytrap toxin"
+    desc: "⬻ spittle +11 ([[acid]], [[range-increment|range increment 10 feet]]); __Damage__ 1d6+6 (1d6+6) acid plus flytrap toxin"
 
 spellcasting:
   - name: "Primal Innate Spells"

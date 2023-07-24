@@ -63,7 +63,7 @@ attacks:
   - name: Melee
     desc: "⬻ jaws +9 ([[agile]]); __Damage__ 1d4+4 (1d4+4) piercing"
   - name: Ranged
-    desc: "⬻ club +8 ([[range increment|range increment 10 feet]]); __Damage__ 1d6+4 (1d6+4) bludgeoning"
+    desc: "⬻ club +8 ([[range-increment|range increment 10 feet]]); __Damage__ 1d6+4 (1d6+4) bludgeoning"
 
 sourcebook: "_Bestiary 2_, page 174."
 ```

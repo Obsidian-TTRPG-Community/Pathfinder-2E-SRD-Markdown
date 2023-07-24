@@ -63,11 +63,11 @@ health:
 
 attacks:
   - name: Ranged
-    desc: "⬻ telekinetic object +13 ([[evocation]], [[magical]], [[occult]], [[range increment|range increment 60 feet]]); __Damage__ 2d12 (2d12) bludgeoning, piercing, or slashing (depending on object)"
+    desc: "⬻ telekinetic object +13 ([[evocation]], [[magical]], [[occult]], [[range-increment|range increment 60 feet]]); __Damage__ 2d12 (2d12) bludgeoning, piercing, or slashing (depending on object)"
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 23, attack +13; __Cantrips (3rd)__ [[mage hand]]; __3rd__ [[telekinetic maneuver]] (at will);"
+    desc: "DC 23, attack +13; __Cantrips (3rd)__ [[mage-hand|mage hand]]; __3rd__ [[telekinetic maneuver]] (at will);"
 sourcebook: "_Bestiary_, page 264."
 ```
 

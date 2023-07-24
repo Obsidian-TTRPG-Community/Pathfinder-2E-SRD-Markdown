@@ -65,7 +65,7 @@ attacks:
   - name: Melee
     desc: "⬻ sunset ribbon +36 ([[agile]], [[finesse]]); __Damage__ 4d10+13 (4d10+13) slashing plus 1d6 (1d6) fire and 1d6 (1d6) positive"
   - name: Ranged
-    desc: "⬻ sunset ray +36 ([[magical]], [[range increment|range increment 120 feet]]); __Damage__ 4d12+13 (4d12+13) fire plus 1d6 (1d6) positive"
+    desc: "⬻ sunset ray +36 ([[magical]], [[range-increment|range increment 120 feet]]); __Damage__ 4d12+13 (4d12+13) fire plus 1d6 (1d6) positive"
 
 spellcasting:
   - name: "Primal Prepared Spells"

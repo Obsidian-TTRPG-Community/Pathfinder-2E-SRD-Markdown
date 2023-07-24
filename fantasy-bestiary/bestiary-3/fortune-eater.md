@@ -63,7 +63,7 @@ attacks:
   - name: Melee
     desc: "⬻ ghostly light mace +17 ([[agile]], [[finesse]], [[magical]], [[shove]]); __Damage__ 1d4+8 (1d4+8) bludgeoning plus 1d8 (1d8) negative"
   - name: Ranged
-    desc: "⬻ ghostly longbow +17 ([[deadly|deadly d10]], [[magical]], [[range increment|range increment 100 feet]], [[volley|volley 30 feet]]); __Damage__ 1d8+4 (1d8+4) piercing plus 1d8 (1d8) negative"
+    desc: "⬻ ghostly longbow +17 ([[deadly|deadly d10]], [[magical]], [[range-increment|range increment 100 feet]], [[volley|volley 30 feet]]); __Damage__ 1d8+4 (1d8+4) piercing plus 1d8 (1d8) negative"
 
 sourcebook: "_Bestiary 3_, page 101."
 ```

@@ -61,7 +61,7 @@ attacks:
   - name: Melee
     desc: "⬻ mace +12 ([[shove]]); __Damage__ 1d8+4 (1d8+4) bludgeoning"
   - name: Ranged
-    desc: "⬻ composite shortbow +9 ([[deadly|deadly 1d10]], [[propulsive]], [[range increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6+2 (1d6+2) piercing"
+    desc: "⬻ composite shortbow +9 ([[deadly|deadly 1d10]], [[propulsive]], [[range-increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6+2 (1d6+2) piercing"
 
 spellcasting:
   - name: "Divine Prepared Spells"

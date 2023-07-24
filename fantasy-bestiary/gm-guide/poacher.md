@@ -58,7 +58,7 @@ attacks:
   - name: Melee
     desc: "⬻ club +8 __Damage__ 1d6+5 (1d6+5) bludgeoning"
   - name: Ranged
-    desc: "⬻ composite shortbow +10 ([[deadly|deadly 1d10]], [[propulsive]], [[range increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6+3 (1d6+3) piercing"
+    desc: "⬻ composite shortbow +10 ([[deadly|deadly 1d10]], [[propulsive]], [[range-increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6+3 (1d6+3) piercing"
 
 sourcebook: "_Gamemastery Guide_, page 219."
 ```

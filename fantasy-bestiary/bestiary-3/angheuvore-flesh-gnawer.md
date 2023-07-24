@@ -69,7 +69,7 @@ attacks:
   - name: Melee
     desc: "⬻ elven curve blade +10 ([[finesse]], [[forceful]]); __Damage__ 1d8+5 (1d8+5) slashing"
   - name: Ranged
-    desc: "⬻ composite shortbow +10 ([[deadly|deadly d10]], [[propulsive]], [[range increment|range increment 60 feet]]); __Damage__ 1d6+3 (1d6+3) piercing"
+    desc: "⬻ composite shortbow +10 ([[deadly|deadly d10]], [[propulsive]], [[range-increment|range increment 60 feet]]); __Damage__ 1d6+3 (1d6+3) piercing"
 
 sourcebook: "_Bestiary 3_, page 174."
 ```

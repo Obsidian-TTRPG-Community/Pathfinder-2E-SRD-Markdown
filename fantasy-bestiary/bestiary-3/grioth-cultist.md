@@ -72,7 +72,7 @@ spellcasting:
   - name: "Divine Prepared Spells"
     desc: "DC 20, attack +12; __Cantrips (3rd)__ [[divine lance]], [[forbidding ward]], [[message]], [[prestidigitation]], [[stabilize.]]; __1st__ [[fear]], [[harm]], [[heal]], [[ventriloquism]]; __2nd__ [[dispel magic]], [[heal]], [[sound burst]];"
   - name: "Occult Innate Spells"
-    desc: "DC 19, attack +11; __Cantrips (2nd)__ [[daze]], [[detect magic]], [[mage hand]], [[telekinetic projectile]]; __2nd__ [[phantom pain]];"
+    desc: "DC 19, attack +11; __Cantrips (2nd)__ [[daze]], [[detect magic]], [[mage-hand|mage hand]], [[telekinetic projectile]]; __2nd__ [[phantom pain]];"
 sourcebook: "_Bestiary 3_, page 123."
 ```
 

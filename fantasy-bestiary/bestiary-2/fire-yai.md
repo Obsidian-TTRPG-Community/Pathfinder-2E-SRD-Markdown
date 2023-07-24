@@ -68,7 +68,7 @@ attacks:
   - name: Melee
     desc: "⬻ fist +28 ([[agile]], [[evil]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 2d6+16 (2d6+16) bludgeoning plus 2d6 (2d6) fire and 2d6 (2d6) [[rules/conditions.md#Persistent%20Damage|persistent fire]]"
   - name: Ranged
-    desc: "⬻ fire missile +26 ([[evil]], [[fire]], [[magical]], [[range increment|range increment 60 feet]]); __Damage__ 2d10+16 (2d10+16) fire plus 2d6 (2d6) [[rules/conditions.md#Persistent%20Damage|persistent fire]]"
+    desc: "⬻ fire missile +26 ([[evil]], [[fire]], [[magical]], [[range-increment|range increment 60 feet]]); __Damage__ 2d10+16 (2d10+16) fire plus 2d6 (2d6) [[rules/conditions.md#Persistent%20Damage|persistent fire]]"
 
 spellcasting:
   - name: "Primal Innate Spells"

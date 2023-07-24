@@ -57,11 +57,11 @@ attacks:
   - name: Melee
     desc: "⬻ dogslicer +8 ([[agile]], [[backstabber]], [[finesse]]); __Damage__ 1d6+2 (1d6+2) slashing"
   - name: Ranged
-    desc: "⬻ shortbow +8 ([[deadly|deadly 1d10]], [[range increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6 (1d6) piercing"
+    desc: "⬻ shortbow +8 ([[deadly|deadly 1d10]], [[range-increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6 (1d6) piercing"
 
 spellcasting:
   - name: "Occult Spontaneous Spells"
-    desc: "DC 17; __Cantrips (1st)__ [[ghost sound]], [[inspire courage]], [[mage hand]], [[message]], [[telekinetic projectile]]; __1st__ (2 slots) [[bless]], [[soothe]];"
+    desc: "DC 17; __Cantrips (1st)__ [[ghost sound]], [[inspire courage]], [[mage-hand|mage hand]], [[message]], [[telekinetic projectile]]; __1st__ (2 slots) [[bless]], [[soothe]];"
 sourcebook: "_Bestiary_, page 181."
 ```
 

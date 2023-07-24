@@ -57,7 +57,7 @@ attacks:
   - name: Melee
     desc: "⬻ dagger +10 ([[agile]], [[finesse]], [[versatile|versatile s]]); __Damage__ 1d4+1 (1d4+1) piercing plus serpentfolk venom"
   - name: Ranged
-    desc: "⬻ shortbow +10 ([[deadly|deadly 1d10]], [[range increment|range increment 60 feet]]); __Damage__ 1d6+2 (1d6+2) piercing plus serpentfolk venom"
+    desc: "⬻ shortbow +10 ([[deadly|deadly 1d10]], [[range-increment|range increment 60 feet]]); __Damage__ 1d6+2 (1d6+2) piercing plus serpentfolk venom"
 
 spellcasting:
   - name: "Occult Innate Spells"

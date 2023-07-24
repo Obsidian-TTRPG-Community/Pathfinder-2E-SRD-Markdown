@@ -52,7 +52,7 @@ attacks:
   - name: Melee
     desc: "⬻ tusks +11 ([[deadly|deadly 1d10]]); __Damage__ 1d8+4 (1d8+4) piercing"
   - name: Ranged
-    desc: "⬻ slime squirt +9 ([[range increment|range increment 30 feet]]); __Damage__ entangling slime"
+    desc: "⬻ slime squirt +9 ([[range-increment|range increment 30 feet]]); __Damage__ entangling slime"
 
 sourcebook: "_Bestiary_, page 301."
 ```

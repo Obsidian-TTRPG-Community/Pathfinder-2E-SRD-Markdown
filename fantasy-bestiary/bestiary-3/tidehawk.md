@@ -60,7 +60,7 @@ attacks:
   - name: Melee
     desc: "⬻ talon +26 ([[agile]], [[finesse]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 3d8+11 (3d8+11) slashing"
   - name: Ranged
-    desc: "⬻ break swell +26 ([[range increment|range increment 30 feet]]); __Damage__ 3d8+11 (3d8+11) bludgeoning plus Knockdown (page 305)"
+    desc: "⬻ break swell +26 ([[range-increment|range increment 30 feet]]); __Damage__ 3d8+11 (3d8+11) bludgeoning plus Knockdown (page 305)"
 
 spellcasting:
   - name: "Primal Innate Spells"

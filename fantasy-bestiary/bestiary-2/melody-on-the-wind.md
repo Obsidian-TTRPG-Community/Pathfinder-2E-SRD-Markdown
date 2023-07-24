@@ -60,7 +60,7 @@ attacks:
   - name: Melee
     desc: "⬻ wind gust +23 ([[agile]], [[finesse]]); __Damage__ 2d10+10 (2d10+10) bludgeoning plus Push"
   - name: Ranged
-    desc: "⬻ solid refrain +23 ([[range increment|range increment 70 feet]]); __Damage__ 2d8+10 (2d8+10) sonic"
+    desc: "⬻ solid refrain +23 ([[range-increment|range increment 70 feet]]); __Damage__ 2d8+10 (2d8+10) sonic"
 
 sourcebook: "_Bestiary 2_, page 107."
 ```

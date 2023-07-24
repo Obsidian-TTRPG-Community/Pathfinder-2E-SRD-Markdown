@@ -63,7 +63,7 @@ attacks:
   - name: Melee
     desc: "⬻ polymorphic appendage +30 ([[magical]], [[versatile|versatile p]], [[versatile|versatile s]]); __Damage__ 3d12+14 (3d12+14) bludgeoning"
   - name: Ranged
-    desc: "⬻ ooze globule +28 ([[range increment|range increment 30 feet]]); __Damage__ viscous trap"
+    desc: "⬻ ooze globule +28 ([[range-increment|range increment 30 feet]]); __Damage__ viscous trap"
 
 sourcebook: "_Bestiary 3_, page 167."
 ```

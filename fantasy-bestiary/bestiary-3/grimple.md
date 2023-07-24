@@ -57,11 +57,11 @@ attacks:
   - name: Melee
     desc: "⬻ bite +7 ([[agile]], [[finesse]]); __Damage__ 1d4+1 (1d4+1) piercing"
   - name: Ranged
-    desc: "⬻ rock +7 ([[agile]], [[range increment|range increment 20 feet]]); __Damage__ 1d4+1 (1d4+1) bludgeoning"
+    desc: "⬻ rock +7 ([[agile]], [[range-increment|range increment 20 feet]]); __Damage__ 1d4+1 (1d4+1) bludgeoning"
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 16; __Cantrips (1st)__ [[mage hand]], [[prestidigitation]]; __1st__ [[grease]];"
+    desc: "DC 16; __Cantrips (1st)__ [[mage-hand|mage hand]], [[prestidigitation]]; __1st__ [[grease]];"
 sourcebook: "_Bestiary 3_, page 120."
 ```
 

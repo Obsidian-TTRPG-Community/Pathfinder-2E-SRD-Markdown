@@ -64,7 +64,7 @@ attacks:
   - name: Melee
     desc: "⬻ sludge tendril +25 __Damage__ 2d6+13 (2d6+13) bludgeoning plus 2d6 (2d6) acid and 1d6 (1d6) evil and [[Grab]]"
   - name: Ranged
-    desc: "⬻ slime ball +24 ([[range increment|range increment 30 feet]]); __Damage__ 2d4+13 (2d4+13) bludgeoning plus 2d6 (2d6) acid and 1d6 (1d6) evil and slime trap"
+    desc: "⬻ slime ball +24 ([[range-increment|range increment 30 feet]]); __Damage__ 2d4+13 (2d4+13) bludgeoning plus 2d6 (2d6) acid and 1d6 (1d6) evil and slime trap"
 
 spellcasting:
   - name: "Divine Innate Spells"

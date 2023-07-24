@@ -55,7 +55,7 @@ attacks:
   - name: Melee
     desc: "⬻ earthen fist +14 ([[agile]], [[finesse]]); __Damage__ 2d10+2 (2d10+2) bludgeoning"
   - name: Ranged
-    desc: "⬻ light wisp +14 ([[magical]], [[range increment|range increment 30 feet]]); __Damage__ 1d8+2 (1d8+2) mental plus 1d6 (1d6) fire and 1d6 (1d6) positive"
+    desc: "⬻ light wisp +14 ([[magical]], [[range-increment|range increment 30 feet]]); __Damage__ 1d8+2 (1d8+2) mental plus 1d6 (1d6) fire and 1d6 (1d6) positive"
 
 spellcasting:
   - name: "Primal Innate Spells"

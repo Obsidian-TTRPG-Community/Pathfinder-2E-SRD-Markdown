@@ -64,7 +64,7 @@ attacks:
   - name: Melee
     desc: "⬻ fist +26 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 3d8+18 (3d8+18) bludgeoning plus pall of shadow"
   - name: Ranged
-    desc: "⬻ rock +26 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 2d8+18 (2d8+18) bludgeoning"
+    desc: "⬻ rock +26 ([[brutal]], [[range-increment|range increment 120 feet]]); __Damage__ 2d8+18 (2d8+18) bludgeoning"
 
 sourcebook: "_Bestiary 2_, page 127."
 ```

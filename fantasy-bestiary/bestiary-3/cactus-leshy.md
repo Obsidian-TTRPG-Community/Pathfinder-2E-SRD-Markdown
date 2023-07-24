@@ -61,7 +61,7 @@ attacks:
   - name: Melee
     desc: "⬻ spine +11 __Damage__ 1d8+3 (1d8+3) piercing"
   - name: Ranged
-    desc: "⬻ spine +11 ([[range increment|range increment 30 feet]]); __Damage__ 1d8+3 (1d8+3) piercing"
+    desc: "⬻ spine +11 ([[range-increment|range increment 30 feet]]); __Damage__ 1d8+3 (1d8+3) piercing"
 
 spellcasting:
   - name: "Primal Innate Spells"

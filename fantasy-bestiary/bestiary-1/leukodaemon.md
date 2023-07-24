@@ -65,7 +65,7 @@ attacks:
   - name: Melee
     desc: "⬻ claw +21 ([[agile]], [[disease]], [[evil]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 2d8+9 (2d8+9) slashing plus 1d6 (1d6) evil and daemonic pestilence"
   - name: Ranged
-    desc: "⬻ composite longbow +21 ([[deadly|deadly 1d10]], [[disease]], [[evil]], [[magical]], [[propulsive]], [[range increment|range increment 100 feet]], [[reload|reload 0]], [[volley|volley 30 feet]]); __Damage__ 2d8+9 (2d8+9) piercing plus 1d6 (1d6) evil and Daemonic Pestilence"
+    desc: "⬻ composite longbow +21 ([[deadly|deadly 1d10]], [[disease]], [[evil]], [[magical]], [[propulsive]], [[range-increment|range increment 100 feet]], [[reload|reload 0]], [[volley|volley 30 feet]]); __Damage__ 2d8+9 (2d8+9) piercing plus 1d6 (1d6) evil and Daemonic Pestilence"
 
 spellcasting:
   - name: "Divine Innate Spells"

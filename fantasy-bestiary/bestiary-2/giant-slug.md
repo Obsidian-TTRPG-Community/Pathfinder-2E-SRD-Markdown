@@ -57,7 +57,7 @@ attacks:
   - name: Melee
     desc: "⬻ foot +21 ([[reach|reach 10 feet]]); __Damage__ 2d8+10 (2d8+10) bludgeoning plus mucus"
   - name: Ranged
-    desc: "⬻ disgorged mucus +17 ([[brutal]], [[range increment|range increment 50 feet]], [[splash]]); __Damage__ 3d6 (3d6) acid damage plus mucus and 1d6 (1d6) acid splash damage"
+    desc: "⬻ disgorged mucus +17 ([[brutal]], [[range-increment|range increment 50 feet]], [[splash]]); __Damage__ 3d6 (3d6) acid damage plus mucus and 1d6 (1d6) acid splash damage"
 
 sourcebook: "_Bestiary 2_, page 244."
 ```

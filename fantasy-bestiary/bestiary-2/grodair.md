@@ -61,7 +61,7 @@ attacks:
   - name: Melee
     desc: "⬻ tentacle +15 __Damage__ 1d10+7 (1d10+7) bludgeoning plus Knockdown"
   - name: Ranged
-    desc: "⬻ water jet +13 ([[range increment|range increment 60 feet]]); __Damage__ 3d6 (3d6) bludgeoning plus Push 10 feet"
+    desc: "⬻ water jet +13 ([[range-increment|range increment 60 feet]]); __Damage__ 3d6 (3d6) bludgeoning plus Push 10 feet"
 
 spellcasting:
   - name: "Primal Innate Spells"

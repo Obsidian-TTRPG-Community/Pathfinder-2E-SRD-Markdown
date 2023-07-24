@@ -58,7 +58,7 @@ attacks:
   - name: Ranged
     desc: "⬻ hunk of meat +9 ([[thrown|thrown 10 feet]]); __Damage__ 2d10+9 (2d10+9) bludgeoning"
   - name: Ranged
-    desc: "⬻ corpse +17 ([[brutal]], [[range increment|range increment 30 feet]]); __Damage__ 2d6+9 (2d6+9) bludgeoning"
+    desc: "⬻ corpse +17 ([[brutal]], [[range-increment|range increment 30 feet]]); __Damage__ 2d6+9 (2d6+9) bludgeoning"
 
 sourcebook: "_Bestiary_, page 341."
 ```

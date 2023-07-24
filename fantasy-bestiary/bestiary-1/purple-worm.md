@@ -68,7 +68,7 @@ attacks:
   - name: Melee
     desc: "⬻ body +26 ([[reach|reach 15 feet]]); __Damage__ 1d10+13 (1d10+13) bludgeoning"
   - name: Ranged
-    desc: "⬻ regurgitate +26 ([[brutal]], [[range increment|range increment 60 feet]]); __Damage__ varies (see ability)"
+    desc: "⬻ regurgitate +26 ([[brutal]], [[range-increment|range increment 60 feet]]); __Damage__ varies (see ability)"
 
 sourcebook: "_Bestiary_, page 56."
 ```

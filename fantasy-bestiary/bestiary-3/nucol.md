@@ -60,7 +60,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 20; __Cantrips (2nd)__ [[detect magic]], [[mage hand]]; __1st__ [[grease]] (3); __3rd__ [[fear]] (at will), [[remove disease]];"
+    desc: "DC 20; __Cantrips (2nd)__ [[detect magic]], [[mage-hand|mage hand]]; __1st__ [[grease]] (3); __3rd__ [[fear]] (at will), [[remove disease]];"
 sourcebook: "_Bestiary 3_, page 220."
 ```
 

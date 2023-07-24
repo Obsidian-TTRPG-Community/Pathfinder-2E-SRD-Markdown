@@ -60,7 +60,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 15; __Cantrips (1st)__ [[mage hand]]; __1st__ [[fear]] (at will); __2nd__ [[mirror image]]; __3rd__ [[fear]];"
+    desc: "DC 15; __Cantrips (1st)__ [[mage-hand|mage hand]]; __1st__ [[fear]] (at will); __2nd__ [[mirror image]]; __3rd__ [[fear]];"
 sourcebook: "_Bestiary 3_, page 218."
 ```
 

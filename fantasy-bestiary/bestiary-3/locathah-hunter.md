@@ -63,7 +63,7 @@ attacks:
   - name: Melee
     desc: "⬻ longspear +11 ([[reach|reach 10 feet]]); __Damage__ 1d8+4 (1d8+4) piercing"
   - name: Melee
-    desc: "⬻ crossbow +10 ([[range increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1d8 (1d8) piercing plus fan bolt"
+    desc: "⬻ crossbow +10 ([[range-increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1d8 (1d8) piercing plus fan bolt"
 
 sourcebook: "_Bestiary 3_, page 164."
 ```

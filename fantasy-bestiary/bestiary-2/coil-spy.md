@@ -60,7 +60,7 @@ attacks:
   - name: Melee
     desc: "⬻ fangs +14 ([[finesse]]); __Damage__ 1d6+5 (1d6+5) piercing plus serpentfolk venom"
   - name: Ranged
-    desc: "⬻ hand crossbow +10 ([[range increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1d6+3 (1d6+3) piercing plus serpentfolk venom or hunting spider venom (Core Rulebook 552)"
+    desc: "⬻ hand crossbow +10 ([[range-increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1d6+3 (1d6+3) piercing plus serpentfolk venom or hunting spider venom (Core Rulebook 552)"
 
 spellcasting:
   - name: "Occult Innate Spells"

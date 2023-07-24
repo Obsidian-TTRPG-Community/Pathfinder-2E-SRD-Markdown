@@ -72,7 +72,7 @@ attacks:
   - name: Melee
     desc: "⬻ jaws +10 ([[finesse]]); __Damage__ 1d8+2 (1d8+2) piercing plus curse of the wererat"
   - name: Ranged
-    desc: "⬻ hand crossbow +10 ([[range increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1d6 (1d6) piercing"
+    desc: "⬻ hand crossbow +10 ([[range-increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1d6 (1d6) piercing"
 
 sourcebook: "_Bestiary_, page 329."
 ```

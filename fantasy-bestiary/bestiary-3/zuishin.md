@@ -61,7 +61,7 @@ attacks:
   - name: Melee
     desc: "⬻ katana +23 ([[deadly|deadly d8]], [[magical]], [[two-hand|two-hand d10]], [[versatile|versatile p]]); __Damage__ 2d6+9 (2d6+9) slashing plus 1d6 (1d6) good"
   - name: Ranged
-    desc: "⬻ composite longbow +24 ([[deadly|deadly d10]], [[magical]], [[range increment|range increment 100 feet]], [[reload|reload 0]], [[volley|volley 30 feet]]); __Damage__ 2d8+9 (2d8+9) piercing plus 1d6 (1d6) good"
+    desc: "⬻ composite longbow +24 ([[deadly|deadly d10]], [[magical]], [[range-increment|range increment 100 feet]], [[reload|reload 0]], [[volley|volley 30 feet]]); __Damage__ 2d8+9 (2d8+9) piercing plus 1d6 (1d6) good"
 
 spellcasting:
   - name: "Divine Innate Spells"

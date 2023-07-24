@@ -54,7 +54,7 @@ attacks:
   - name: Melee
     desc: "⬻ bite +19 ([[reach|reach 10 feet]]); __Damage__ 2d10+9 (2d10+9) piercing plus [[Grab]]"
   - name: Ranged
-    desc: "⬻ spit +15 ([[range increment|range increment 30 feet]]); __Damage__ 2d10+9 (2d10+9) bludgeoning"
+    desc: "⬻ spit +15 ([[range-increment|range increment 30 feet]]); __Damage__ 2d10+9 (2d10+9) bludgeoning"
 
 sourcebook: "_Bestiary 3_, page 265."
 ```

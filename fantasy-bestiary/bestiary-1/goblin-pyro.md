@@ -56,7 +56,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Spontaneous Spells"
-    desc: "DC 16; __Cantrips (1st)__ [[light]], [[mage hand]], [[produce flame]], [[tanglefoot]]; __1st__ (3 slots) [[burning hands]], [[grease]];"
+    desc: "DC 16; __Cantrips (1st)__ [[light]], [[mage-hand|mage hand]], [[produce flame]], [[tanglefoot]]; __1st__ (3 slots) [[burning-hands|burning hands]], [[grease]];"
 sourcebook: "_Bestiary_, page 181."
 ```
 

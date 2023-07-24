@@ -57,7 +57,7 @@ attacks:
   - name: Melee
     desc: "⬻ fangs +15 ([[magical]]); __Damage__ 1d10+7 (1d10+7) piercing plus ether spider venom and Grab"
   - name: Ranged
-    desc: "⬻ web +14 ([[magical]], [[range increment|range increment 30 feet]]); __Damage__ ethereal web trap"
+    desc: "⬻ web +14 ([[magical]], [[range-increment|range increment 30 feet]]); __Damage__ ethereal web trap"
 
 sourcebook: "_Bestiary_, page 155."
 ```

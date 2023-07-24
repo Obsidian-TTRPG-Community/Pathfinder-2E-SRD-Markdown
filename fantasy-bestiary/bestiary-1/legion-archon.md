@@ -61,7 +61,7 @@ attacks:
   - name: Melee
     desc: "⬻ flame of justice +18 ([[magical]], [[versatile|versatile p]]); __Damage__ 2d10+5 (2d10+5) slashing plus 1d6 (1d6) fire and 1d6 (1d6) good"
   - name: Ranged
-    desc: "⬻ flame of justice +15 ([[magical]], [[range increment|range increment 30 feet]], [[versatile|versatile p]]); __Damage__ 2d10+5 (2d10+5) slashing plus 1d6 (1d6) fire and 1d6 (1d6) good"
+    desc: "⬻ flame of justice +15 ([[magical]], [[range-increment|range increment 30 feet]], [[versatile|versatile p]]); __Damage__ 2d10+5 (2d10+5) slashing plus 1d6 (1d6) fire and 1d6 (1d6) good"
 
 spellcasting:
   - name: "Divine Innate Spells"

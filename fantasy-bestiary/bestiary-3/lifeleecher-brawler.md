@@ -66,7 +66,7 @@ attacks:
   - name: Melee
     desc: "⬻ claw +20 ([[agile]]); __Damage__ 2d8+6 (2d8+6) slashing plus 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed]]"
   - name: Ranged
-    desc: "⬻ composite shortbow +19 ([[deadly|deadly d10]], [[magical]], [[propulsive]], [[range increment|range increment 30 feet]]); __Damage__ 2d6+3 (2d6+3) piercing"
+    desc: "⬻ composite shortbow +19 ([[deadly|deadly d10]], [[magical]], [[propulsive]], [[range-increment|range increment 30 feet]]); __Damage__ 2d6+3 (2d6+3) piercing"
 
 sourcebook: "_Bestiary 3_, page 176."
 ```

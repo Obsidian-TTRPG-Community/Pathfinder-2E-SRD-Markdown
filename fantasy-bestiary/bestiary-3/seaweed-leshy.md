@@ -57,7 +57,7 @@ attacks:
   - name: Melee
     desc: "⬻ seaweed strand +11 ([[agile]], [[finesse]], [[reach|reach 10 feet]]); __Damage__ 1d8+4 (1d8+4) bludgeoning"
   - name: Ranged
-    desc: "⬻ water jet +11 ([[range increment|range increment 30 feet]]); __Damage__ 1d8+4 (1d8+4) bludgeoning plus sea spray"
+    desc: "⬻ water jet +11 ([[range-increment|range increment 30 feet]]); __Damage__ 1d8+4 (1d8+4) bludgeoning plus sea spray"
 
 spellcasting:
   - name: "Primal Innate Spells"

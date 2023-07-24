@@ -58,7 +58,7 @@ attacks:
   - name: Melee
     desc: "⬻ claw +29 ([[agile]]); __Damage__ 3d12+11 (3d12+11) slashing"
   - name: Ranged
-    desc: "⬻ debris +29 ([[range increment|range increment 60 feet]]); __Damage__ 5d8+15 (5d8+15) bludgeoning"
+    desc: "⬻ debris +29 ([[range-increment|range increment 60 feet]]); __Damage__ 5d8+15 (5d8+15) bludgeoning"
 
 sourcebook: "_Bestiary_, page 317."
 ```

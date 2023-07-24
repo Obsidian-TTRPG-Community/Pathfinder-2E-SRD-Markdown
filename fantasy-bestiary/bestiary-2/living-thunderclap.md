@@ -53,7 +53,7 @@ attacks:
   - name: Melee
     desc: "⬻ gust +14 ([[agile]], [[finesse]]); __Damage__ 2d6+6 (2d6+6) bludgeoning plus Push 5 feet"
   - name: Ranged
-    desc: "⬻ lightning bolt +14 ([[electricity]], [[range increment|range increment 50 feet]]); __Damage__ 2d12 (2d12) electricity"
+    desc: "⬻ lightning bolt +14 ([[electricity]], [[range-increment|range increment 50 feet]]); __Damage__ 2d12 (2d12) electricity"
 
 sourcebook: "_Bestiary 2_, page 106."
 ```

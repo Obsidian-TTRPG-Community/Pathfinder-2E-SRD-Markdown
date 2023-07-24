@@ -69,7 +69,7 @@ attacks:
   - name: Melee
     desc: "⬻ jaws +26 ([[finesse]]); __Damage__ 3d8+7 (3d8+7) piercing plus 2d6 (2d6) poison"
   - name: Ranged
-    desc: "⬻ hand crossbow +28 ([[range increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 2d6+3 (2d6+3) piercing plus 2d6 (2d6) poison"
+    desc: "⬻ hand crossbow +28 ([[range-increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 2d6+3 (2d6+3) piercing plus 2d6 (2d6) poison"
 
 sourcebook: "_Bestiary_, page 177."
 ```

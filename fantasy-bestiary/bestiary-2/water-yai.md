@@ -70,7 +70,7 @@ attacks:
   - name: Melee
     desc: "⬻ fist +33 ([[agile]], [[evil]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 3d8+15 (3d8+15) bludgeoning plus 2d6 (2d6) electricity"
   - name: Ranged
-    desc: "⬻ electric missile +30 ([[electricity]], [[evil]], [[magical]], [[range increment|range increment 60 feet]]); __Damage__ 3d12+12 (3d12+12) electricity plus [[rules/conditions.md#Flat-Footed|flat-footed]] for 1 round"
+    desc: "⬻ electric missile +30 ([[electricity]], [[evil]], [[magical]], [[range-increment|range increment 60 feet]]); __Damage__ 3d12+12 (3d12+12) electricity plus [[rules/conditions.md#Flat-Footed|flat-footed]] for 1 round"
 
 spellcasting:
   - name: "Primal Innate Spells"

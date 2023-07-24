@@ -64,7 +64,7 @@ health:
 
 attacks:
   - name: Ranged
-    desc: "⬻ emotional bolt +31 ([[agile]], [[range increment|range increment 80 feet]]); __Damage__ 3d10+10 (3d10+10) piercing plus 1d10 (1d10) mental and heartsong"
+    desc: "⬻ emotional bolt +31 ([[agile]], [[range-increment|range increment 80 feet]]); __Damage__ 3d10+10 (3d10+10) piercing plus 1d10 (1d10) mental and heartsong"
 
 spellcasting:
   - name: "Occult Innate Spells"

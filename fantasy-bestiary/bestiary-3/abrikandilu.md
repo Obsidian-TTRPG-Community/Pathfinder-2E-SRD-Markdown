@@ -58,7 +58,7 @@ attacks:
   - name: Melee
     desc: "⬻ jaws +14 __Damage__ 3d6+4 (3d6+4) piercing plus mutilating bite"
   - name: Ranged
-    desc: "⬻ hurled debris +11 ([[range increment|range increment 20 feet]]); __Damage__ 2d6+4 (2d6+4) bludgeoning"
+    desc: "⬻ hurled debris +11 ([[range-increment|range increment 20 feet]]); __Damage__ 2d6+4 (2d6+4) bludgeoning"
 
 spellcasting:
   - name: "Divine Innate Spells"

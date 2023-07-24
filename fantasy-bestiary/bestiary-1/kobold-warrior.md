@@ -56,7 +56,7 @@ attacks:
   - name: Melee
     desc: "⬻ spear +3 __Damage__ 1d6+1 (1d6+1) piercing"
   - name: Ranged
-    desc: "⬻ sling +5 ([[propulsive]], [[range increment|range increment 50 feet]], [[reload|reload 1]]); __Damage__ 1d4 (1d4) bludgeoning"
+    desc: "⬻ sling +5 ([[propulsive]], [[range-increment|range increment 50 feet]], [[reload|reload 1]]); __Damage__ 1d4 (1d4) bludgeoning"
   - name: Ranged
     desc: "⬻ spear +5 ([[thrown|thrown 20 feet]]); __Damage__ 1d6+1 (1d6+1) piercing"
 

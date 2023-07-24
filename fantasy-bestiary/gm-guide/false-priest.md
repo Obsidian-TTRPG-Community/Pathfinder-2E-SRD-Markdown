@@ -60,7 +60,7 @@ attacks:
   - name: Melee
     desc: "⬻ rapier +12 ([[deadly|deadly 1d8]], [[disarm]], [[finesse]]); __Damage__ 1d6+8 (1d6+8) piercing"
   - name: Ranged
-    desc: "⬻ hand crossbow +12 ([[range increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1d6+4 (1d6+4) piercing"
+    desc: "⬻ hand crossbow +12 ([[range-increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1d6+4 (1d6+4) piercing"
 
 sourcebook: "_Gamemastery Guide_, page 229."
 ```

@@ -60,7 +60,7 @@ attacks:
   - name: Melee
     desc: "⬻ barb +24 ([[evil]], [[magical]]); __Damage__ 3d8+13 (3d8+13) piercing plus 1d6 (1d6) evil and bloodletting"
   - name: Ranged
-    desc: "⬻ hurled barb +23 ([[evil]], [[magical]], [[range increment|range increment 60 feet]]); __Damage__ 2d8+13 (2d8+13) piercing plus 1d6 (1d6) evil and bloodletting"
+    desc: "⬻ hurled barb +23 ([[evil]], [[magical]], [[range-increment|range increment 60 feet]]); __Damage__ 2d8+13 (2d8+13) piercing plus 1d6 (1d6) evil and bloodletting"
 
 spellcasting:
   - name: "Divine Innate Spells"

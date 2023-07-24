@@ -67,7 +67,7 @@ attacks:
   - name: Melee
     desc: "⬻ earthen fist +29 ([[agile]], [[finesse]]); __Damage__ 3d10+9 (3d10+9) bludgeoning plus 1d6 (1d6) mental"
   - name: Ranged
-    desc: "⬻ light wisp +29 ([[magical]], [[range increment|range increment 60 feet]]); __Damage__ 2d8+9 (2d8+9) mental plus 2d6 (2d6) fire and 2d6 (2d6) positive"
+    desc: "⬻ light wisp +29 ([[magical]], [[range-increment|range increment 60 feet]]); __Damage__ 2d8+9 (2d8+9) mental plus 2d6 (2d6) fire and 2d6 (2d6) positive"
 
 spellcasting:
   - name: "Primal Prepared Spells"

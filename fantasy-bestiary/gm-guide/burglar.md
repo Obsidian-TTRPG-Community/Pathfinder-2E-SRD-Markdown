@@ -62,7 +62,7 @@ attacks:
   - name: Melee
     desc: "⬻ sap +12 ([[agile]], [[nonlethal]]); __Damage__ 1d6+4 (1d6+4) bludgeoning"
   - name: Ranged
-    desc: "⬻ composite shortbow +14 ([[deadly|deadly 1d10]], [[propulsive]], [[range increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6+4 (1d6+4) piercing"
+    desc: "⬻ composite shortbow +14 ([[deadly|deadly 1d10]], [[propulsive]], [[range-increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6+4 (1d6+4) piercing"
 
 sourcebook: "_Gamemastery Guide_, page 212."
 ```

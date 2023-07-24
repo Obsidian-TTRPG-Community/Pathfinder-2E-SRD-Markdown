@@ -62,7 +62,7 @@ attacks:
   - name: Melee
     desc: "⬻ fist +10 ([[agile]], [[finesse]], [[nonlethal]]); __Damage__ 1d4+2 (1d4+2) bludgeoning"
   - name: Ranged
-    desc: "⬻ hand crossbow +10 ([[range increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1d6 (1d6) piercing"
+    desc: "⬻ hand crossbow +10 ([[range-increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1d6 (1d6) piercing"
 
 sourcebook: "_Bestiary 3_, page 16."
 ```

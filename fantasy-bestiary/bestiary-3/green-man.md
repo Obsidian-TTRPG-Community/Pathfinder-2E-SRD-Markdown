@@ -74,7 +74,7 @@ attacks:
   - name: Melee
     desc: "⬻ vine +46 ([[deadly|deadly 3d12]], [[versatile|versatile p]]); __Damage__ 4d10+27 (4d10+27) bludgeoning plus absorb magic and Improved [[Grab]]"
   - name: Ranged
-    desc: "⬻ thorn +43 ([[fatal|fatal d12]], [[range increment|range increment 120 feet]], [[reload|reload 0]]); __Damage__ 4d8+27 (4d8+27) piercing plus embed"
+    desc: "⬻ thorn +43 ([[fatal|fatal d12]], [[range-increment|range increment 120 feet]], [[reload|reload 0]]); __Damage__ 4d8+27 (4d8+27) piercing plus embed"
 
 spellcasting:
   - name: "Primal Innate Spells"

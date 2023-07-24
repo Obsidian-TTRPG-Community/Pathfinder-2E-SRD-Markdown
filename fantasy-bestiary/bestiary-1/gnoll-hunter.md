@@ -58,7 +58,7 @@ attacks:
   - name: Melee
     desc: "⬻ jaws +10 ([[agile]]); __Damage__ 1d8+2 (1d8+2) piercing"
   - name: Ranged
-    desc: "⬻ shortbow +10 ([[deadly|deadly 1d10]], [[range increment|range increment 60 feet]]); __Damage__ 1d6 (1d6) piercing"
+    desc: "⬻ shortbow +10 ([[deadly|deadly 1d10]], [[range-increment|range increment 60 feet]]); __Damage__ 1d6 (1d6) piercing"
 
 sourcebook: "_Bestiary_, page 178."
 ```

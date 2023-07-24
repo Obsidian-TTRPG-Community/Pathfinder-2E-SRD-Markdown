@@ -61,7 +61,7 @@ attacks:
   - name: Melee
     desc: "⬻ longspear +3 ([[reach|reach 10 feet]]); __Damage__ 1d8-1 (1d8-1) piercing"
   - name: Ranged
-    desc: "⬻ seedpod +6 ([[range increment|range increment 30 feet]]); __Damage__ 1d6 (1d6) bludgeoning plus deafening blow"
+    desc: "⬻ seedpod +6 ([[range-increment|range increment 30 feet]]); __Damage__ 1d6 (1d6) bludgeoning plus deafening blow"
 
 spellcasting:
   - name: "Primal Innate Spells"

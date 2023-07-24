@@ -72,7 +72,7 @@ attacks:
   - name: Melee
     desc: "⬻ wing +40 ([[magical]], [[agile]], [[reach|reach 15 feet]]); __Damage__ 4d8+19 (4d8+19) bludgeoning"
   - name: Ranged
-    desc: "⬻ eyes of flame +42 ([[fire]], [[magical]], [[range increment|range increment 60 feet]]); __Damage__ 10d6 (10d6) fire plus 4d6 (4d6) [[rules/conditions.md#Persistent%20Damage|persistent fire]]"
+    desc: "⬻ eyes of flame +42 ([[fire]], [[magical]], [[range-increment|range increment 60 feet]]); __Damage__ 10d6 (10d6) fire plus 4d6 (4d6) [[rules/conditions.md#Persistent%20Damage|persistent fire]]"
 
 sourcebook: "_Bestiary 2_, page 151."
 ```

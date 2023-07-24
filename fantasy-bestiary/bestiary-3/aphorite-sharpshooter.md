@@ -60,7 +60,7 @@ attacks:
   - name: Melee
     desc: "⬻ shortsword +14 ([[agile]], [[finesse]], [[versatile|versatile s]]); __Damage__ 1d6+8 (1d6+8) piercing"
   - name: Ranged
-    desc: "⬻ crossbow +14 ([[range increment 60]], [[reload|reload 1]]); __Damage__ 1d8+8 (1d8+8) piercing"
+    desc: "⬻ crossbow +14 ([[range-increment|range increment 60]], [[reload|reload 1]]); __Damage__ 1d8+8 (1d8+8) piercing"
 
 spellcasting:
   - name: "Divine Innate Spells"

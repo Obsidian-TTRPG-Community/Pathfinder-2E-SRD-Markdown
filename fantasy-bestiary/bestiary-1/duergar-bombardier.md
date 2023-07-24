@@ -66,7 +66,7 @@ attacks:
   - name: Melee
     desc: "⬻ warhammer +4 ([[shove]]); __Damage__ 1d8+1 (1d8+1) bludgeoning"
   - name: Ranged
-    desc: "⬻ bomb +8 ([[range increment|range increment 30 feet]], [[splash]]); __Damage__ varies by bomb"
+    desc: "⬻ bomb +8 ([[range-increment|range increment 30 feet]], [[splash]]); __Damage__ varies by bomb"
 
 spellcasting:
   - name: "Occult Innate Spells"

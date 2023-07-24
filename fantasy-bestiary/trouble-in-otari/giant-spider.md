@@ -35,7 +35,7 @@ abilities_bot:
   - name: "Melee Strike"
     desc: "⬻ ([[finesse]]);  Damage 1d6+2 (1d6+2) piercing plus giant spider venom"
   - name: "Ranged Strike"
-    desc: "⬻ ([[range increment 30 feet]]);  Effect web trap"
+    desc: "⬻ ([[range-increment|range increment 30 feet]]);  Effect web trap"
   - name: "Descend on a Web"
     desc: "⬻ ([[move]]);  The giant spider moves straight down up to 40 feet, suspended by a web line. It can hang from the web or drop off. The distance it Descends on a Web doesn't count for falling damage. A creature can [[Strike]] the web, which has AC 20 and 8 HP. If the web is reduced to 0 HP, the spider falls."
   - name: "Giant Spider Venom"

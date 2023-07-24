@@ -61,7 +61,7 @@ attacks:
   - name: Melee
     desc: "⬻ club +9 __Damage__ 1d6+5 (1d6+5) bludgeoning"
   - name: Ranged
-    desc: "⬻ sling +8 ([[propulsive]], [[range increment|range increment 50 feet]], [[reload|reload 1]]); __Damage__ 1d6+5 (1d6+5) bludgeoning"
+    desc: "⬻ sling +8 ([[propulsive]], [[range-increment|range increment 50 feet]], [[reload|reload 1]]); __Damage__ 1d6+5 (1d6+5) bludgeoning"
   - name: Ranged
     desc: "⬻ club +8 ([[thrown|thrown 10 feet]]); __Damage__ 1d6+5 (1d6+5) bludgeoning"
 

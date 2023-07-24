@@ -57,7 +57,7 @@ attacks:
   - name: Melee
     desc: "⬻ fangs +9 ([[finesse]]); __Damage__ 1d6+2 (1d6+2) piercing plus hunting spider venom"
   - name: Ranged
-    desc: "⬻ web +7 ([[range increment|range increment 30 feet]]); __Damage__ web trap"
+    desc: "⬻ web +7 ([[range-increment|range increment 30 feet]]); __Damage__ web trap"
 
 sourcebook: "_Bestiary_, page 306."
 ```

@@ -58,7 +58,7 @@ attacks:
   - name: Melee
     desc: "⬻ snake fangs +7 ([[agile]], [[finesse]]); __Damage__ 1d4 (1d4) piercing"
   - name: Ranged
-    desc: "⬻ shortbow +7 ([[deadly|deadly d10]], [[range increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6 (1d6) piercing"
+    desc: "⬻ shortbow +7 ([[deadly|deadly d10]], [[range-increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6 (1d6) piercing"
 
 spellcasting:
   - name: "Occult Spontaneous Spells"

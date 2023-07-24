@@ -64,7 +64,7 @@ attacks:
   - name: Melee
     desc: "⬻ tail +8 ([[agile]], [[finesse]]); __Damage__ 1d4+2 (1d4+2) bludgeoning"
   - name: Ranged
-    desc: "⬻ blowgun +8 ([[agile]], [[nonlethal]], [[range increment|range increment 20 feet]], [[reload|reload 1]]); __Damage__ 1 piercing plus giant centipede venom"
+    desc: "⬻ blowgun +8 ([[agile]], [[nonlethal]], [[range-increment|range increment 20 feet]], [[reload|reload 1]]); __Damage__ 1 piercing plus giant centipede venom"
 
 sourcebook: "_Bestiary_, page 231."
 ```

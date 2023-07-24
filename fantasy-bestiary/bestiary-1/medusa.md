@@ -62,7 +62,7 @@ attacks:
   - name: Melee
     desc: "⬻ snake fangs +16 ([[agile]], [[finesse]]); __Damage__ 1d4+8 (1d4+8) piercing plus serpent venom"
   - name: Ranged
-    desc: "⬻ composite shortbow +19 ([[deadly|deadly 1d10]], [[magical]], [[propulsive]], [[range increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6+7 (1d6+7) piercing plus serpent venom"
+    desc: "⬻ composite shortbow +19 ([[deadly|deadly 1d10]], [[magical]], [[propulsive]], [[range-increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6+7 (1d6+7) piercing plus serpent venom"
 
 sourcebook: "_Bestiary_, page 234."
 ```

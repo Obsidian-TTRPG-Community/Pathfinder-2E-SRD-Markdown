@@ -61,7 +61,7 @@ attacks:
   - name: Melee
     desc: "⬻ shortsword +12 ([[agile]], [[versatile|versatile s]]); __Damage__ 1d6+4 (1d6+4) piercing"
   - name: Ranged
-    desc: "⬻ crossbow +14 ([[range increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1d8+2 (1d8+2) piercing plus crossbow precision"
+    desc: "⬻ crossbow +14 ([[range-increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1d8+2 (1d8+2) piercing plus crossbow precision"
 
 sourcebook: "_Bestiary_, page 207."
 ```

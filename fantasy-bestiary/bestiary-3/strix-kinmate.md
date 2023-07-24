@@ -59,7 +59,7 @@ attacks:
   - name: Melee
     desc: "⬻ talon +10 ([[agile]], [[finesse]]); __Damage__ 1d6+4 (1d6+4) slashing"
   - name: Ranged
-    desc: "⬻ shortbow +10 ([[deadly|deadly d10]], [[range increment|range increment 60 feet]]); __Damage__ 1d6+2 (1d6+2) piercing"
+    desc: "⬻ shortbow +10 ([[deadly|deadly d10]], [[range-increment|range increment 60 feet]]); __Damage__ 1d6+2 (1d6+2) piercing"
 
 sourcebook: "_Bestiary 3_, page 259."
 ```

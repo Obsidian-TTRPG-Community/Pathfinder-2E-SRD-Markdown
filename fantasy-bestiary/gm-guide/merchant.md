@@ -55,7 +55,7 @@ attacks:
   - name: Melee
     desc: "⬻ fist +4 ([[agile]], [[nonlethal]], [[unarmed]]); __Damage__ 1d4+2 (1d4+2) bludgeoning"
   - name: Ranged
-    desc: "⬻ crossbow +4 ([[range increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1d8 (1d8) piercing"
+    desc: "⬻ crossbow +4 ([[range-increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1d8 (1d8) piercing"
 
 sourcebook: "_Gamemastery Guide_, page 244."
 ```

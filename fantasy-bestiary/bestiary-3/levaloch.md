@@ -67,7 +67,7 @@ attacks:
   - name: Ranged
     desc: "⬻ trident +16 ([[evil]], [[magical]], [[thrown|thrown 20 feet]]); __Damage__ 2d8+9 (2d8+9) piercing plus 1d6 (1d6) evil"
   - name: Ranged
-    desc: "⬻ barbed net +16 ([[magical]], [[range increment|range increment 20 feet]]); __Damage__ barbed net"
+    desc: "⬻ barbed net +16 ([[magical]], [[range-increment|range increment 20 feet]]); __Damage__ barbed net"
 
 sourcebook: "_Bestiary 3_, page 65."
 ```

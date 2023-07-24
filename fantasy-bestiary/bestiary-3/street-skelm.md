@@ -65,7 +65,7 @@ attacks:
   - name: Melee
     desc: "⬻ staff +13 ([[two-handed d8]]); __Damage__ 1d4+7 (1d4+7) bludgeoning"
   - name: Ranged
-    desc: "⬻ rock +9 ([[range increment|range increment 20 feet]]); __Damage__ 1d6+6 (1d6+6) bludgeoning"
+    desc: "⬻ rock +9 ([[range-increment|range increment 20 feet]]); __Damage__ 1d6+6 (1d6+6) bludgeoning"
 
 sourcebook: "_Bestiary 3_, page 238."
 ```

@@ -54,7 +54,7 @@ attacks:
   - name: Melee
     desc: "⬻ shortsword +13 ([[agile]], [[finesse]], [[magical]], [[versatile|versatile s]]); __Damage__ 1d6+4 (1d6+4) piercing"
   - name: Ranged
-    desc: "⬻ longbow +13 ([[deadly|deadly 1d10]], [[magical]], [[range increment|range increment 100 feet]], [[reload|reload 0]], [[volley|volley 20 feet]]); __Damage__ 1d8+4 (1d8+4) piercing"
+    desc: "⬻ longbow +13 ([[deadly|deadly 1d10]], [[magical]], [[range-increment|range increment 100 feet]], [[reload|reload 0]], [[volley|volley 20 feet]]); __Damage__ 1d8+4 (1d8+4) piercing"
 
 spellcasting:
   - name: "Primal Innate Spells"

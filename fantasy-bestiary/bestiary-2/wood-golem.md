@@ -59,7 +59,7 @@ attacks:
   - name: Melee
     desc: "⬻ fist +17 ([[magical]]); __Damage__ 2d8+8 (2d8+8) bludgeoning"
   - name: Ranged
-    desc: "⬻ splinter +16 ([[magical]], [[range increment|range increment 30 feet]]); __Damage__ 2d4+8 (2d4+8) piercing"
+    desc: "⬻ splinter +16 ([[magical]], [[range-increment|range increment 30 feet]]); __Damage__ 2d4+8 (2d4+8) piercing"
 
 sourcebook: "_Bestiary 2_, page 130."
 ```

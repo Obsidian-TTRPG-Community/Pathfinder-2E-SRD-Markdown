@@ -59,7 +59,7 @@ attacks:
   - name: Melee
     desc: "⬻ talon +21 ([[agile]], [[finesse]]); __Damage__ 2d8+7 (2d8+7) slashing plus 1d6 (1d6) good"
   - name: Ranged
-    desc: "⬻ shock composite longbow +22 ([[deadly|deadly d10]], [[magical]], [[range increment|range increment 100 feet]], [[reload|reload 0]], [[volley|volley 30 feet]]); __Damage__ 2d8+5 (2d8+5) piercing plus 1d6 (1d6) electricity and 1d6 (1d6) good"
+    desc: "⬻ shock composite longbow +22 ([[deadly|deadly d10]], [[magical]], [[range-increment|range increment 100 feet]], [[reload|reload 0]], [[volley|volley 30 feet]]); __Damage__ 2d8+5 (2d8+5) piercing plus 1d6 (1d6) electricity and 1d6 (1d6) good"
 
 spellcasting:
   - name: "Divine Innate Spells"

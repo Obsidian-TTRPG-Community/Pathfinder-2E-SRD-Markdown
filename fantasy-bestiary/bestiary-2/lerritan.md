@@ -64,7 +64,7 @@ attacks:
   - name: Melee
     desc: "⬻ jaws +39 ([[agile]], [[reach|reach 25 feet]]); __Damage__ 4d10+18 (4d10+18) piercing plus 2d6 (2d6) [[rules/conditions.md#Persistent%20Damage|persistent fire damage]]"
   - name: Ranged
-    desc: "⬻ rock +39 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 4d6+18 (4d6+18) bludgeoning plus 2d6 (2d6) [[rules/conditions.md#Persistent%20Damage|persistent fire]]"
+    desc: "⬻ rock +39 ([[brutal]], [[range-increment|range increment 120 feet]]); __Damage__ 4d6+18 (4d6+18) bludgeoning plus 2d6 (2d6) [[rules/conditions.md#Persistent%20Damage|persistent fire]]"
 
 spellcasting:
   - name: "Primal Innate Spells"

@@ -63,7 +63,7 @@ attacks:
   - name: Melee
     desc: "⬻ tail +27 ([[agile]], [[reach|reach 30 feet]]); __Damage__ 2d10+14 (2d10+14) bludgeoning plus Grab"
   - name: Ranged
-    desc: "⬻ water spout +25 ([[brutal]], [[range increment|range increment 100 feet]], [[water]]); __Damage__ 2d6+12 (2d6+12) bludgeoning plus sea serpent algae"
+    desc: "⬻ water spout +25 ([[brutal]], [[range-increment|range increment 100 feet]], [[water]]); __Damage__ 2d6+12 (2d6+12) bludgeoning plus sea serpent algae"
 
 sourcebook: "_Bestiary_, page 288."
 ```

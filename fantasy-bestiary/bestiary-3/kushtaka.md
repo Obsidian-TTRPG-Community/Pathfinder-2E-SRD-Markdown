@@ -63,7 +63,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 21, attack +13; __Cantrips (2nd)__ [[ghost sound]], [[mage hand]], [[telekinetic projectile]]; __2nd__ [[charm]] (2), [[invisibility]] (2), [[sleep]]; __Constant__ __(2nd)__ [[undetectable alignment]];"
+    desc: "DC 21, attack +13; __Cantrips (2nd)__ [[ghost sound]], [[mage-hand|mage hand]], [[telekinetic projectile]]; __2nd__ [[charm]] (2), [[invisibility]] (2), [[sleep]]; __Constant__ __(2nd)__ [[undetectable alignment]];"
 sourcebook: "_Bestiary 3_, page 158."
 ```
 

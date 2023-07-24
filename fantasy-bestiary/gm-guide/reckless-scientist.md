@@ -61,7 +61,7 @@ attacks:
   - name: Melee
     desc: "⬻ sickle +17 ([[agile]], [[finesse]], [[magical]], [[trip]]); __Damage__ 1d4+7 (1d4+7) slashing"
   - name: Ranged
-    desc: "⬻ alchemical bomb +16 ([[range increment|range increment 20 feet]], [[splash]]); __Damage__ varies by bomb"
+    desc: "⬻ alchemical bomb +16 ([[range-increment|range increment 20 feet]], [[splash]]); __Damage__ varies by bomb"
 
 sourcebook: "_Gamemastery Guide_, page 249."
 ```

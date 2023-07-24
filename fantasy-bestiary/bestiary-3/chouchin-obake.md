@@ -56,7 +56,7 @@ attacks:
   - name: Melee
     desc: "⬻ tendril +16 ([[finesse]], [[reach|reach 15 feet]]); __Damage__ 2d8 (2d8) negative plus 2d6 (2d6) fire plus [[Grab]]"
   - name: Ranged
-    desc: "⬻ flame +16 ([[range increment|range increment 30 feet]]); __Damage__ 2d4 (2d4) negative plus 2d6 (2d6) fire"
+    desc: "⬻ flame +16 ([[range-increment|range increment 30 feet]]); __Damage__ 2d4 (2d4) negative plus 2d6 (2d6) fire"
 
 sourcebook: "_Bestiary 3_, page 277."
 ```

@@ -34,7 +34,7 @@ abilities_bot:
   - name: "Stride"
     desc: "⬻  25 feet"
   - name: "Melee Strike"
-    desc: "⬻ ([[agile]], [[finesse]], [[versatile S]]); "
+    desc: "⬻ ([[agile]], [[finesse]], [[versatile|versatile S]]); "
   - name: "Damage"
     desc: "  1d6+2 (1d6+2) piercing"
   - name: "Ranged Strike"

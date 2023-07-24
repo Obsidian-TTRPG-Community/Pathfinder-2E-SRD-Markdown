@@ -60,7 +60,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Spontaneous Spells"
-    desc: "DC 20, attack +10; __Cantrips (2nd)__ [[daze]], [[ghost sound]], [[mage hand]], [[message]], [[prestidigitation]]; __1st__ (3 slots) [[illusory disguise]], [[magic aura]], [[unseen servant]], [[ventriloquism]]; __2nd__ (2 slots) [[charm]], [[illusory disguise]], [[invisibility]];"
+    desc: "DC 20, attack +10; __Cantrips (2nd)__ [[daze]], [[ghost sound]], [[mage-hand|mage hand]], [[message]], [[prestidigitation]]; __1st__ (3 slots) [[illusory disguise]], [[magic aura]], [[unseen servant]], [[ventriloquism]]; __2nd__ (2 slots) [[charm]], [[illusory disguise]], [[invisibility]];"
   - name: "Bard Composition Spells"
     desc: "DC 19, attack +10; __Cantrips (1st)__ [[inspire courage]]; __1st__ [[counter performance]];"
 sourcebook: "_Gamemastery Guide_, page 210."

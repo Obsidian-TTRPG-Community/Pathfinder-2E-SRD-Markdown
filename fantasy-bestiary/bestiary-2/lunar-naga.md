@@ -55,7 +55,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Spontaneous Spells"
-    desc: "DC 24, attack +16; __Cantrips (3rd)__ [[dancing lights]], [[daze]], [[detect magic]], [[mage hand]], [[read aura]]; __1st__ (4 slots) [[charm]], [[fleet step]], [[heal]], [[spider sting]]; __2nd__ (4 slots) [[humanoid form]], [[glitterdust]], [[invisibility]], [[web]]; __3rd__ (4 slots) [[heal]], [[lightning bolt]], [[slow]];"
+    desc: "DC 24, attack +16; __Cantrips (3rd)__ [[dancing lights]], [[daze]], [[detect magic]], [[mage-hand|mage hand]], [[read aura]]; __1st__ (4 slots) [[charm]], [[fleet step]], [[heal]], [[spider sting]]; __2nd__ (4 slots) [[humanoid form]], [[glitterdust]], [[invisibility]], [[web]]; __3rd__ (4 slots) [[heal]], [[lightning bolt]], [[slow]];"
 sourcebook: "_Bestiary 2_, page 178."
 ```
 

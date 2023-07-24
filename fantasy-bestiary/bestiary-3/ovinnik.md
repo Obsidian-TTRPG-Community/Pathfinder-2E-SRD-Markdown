@@ -58,7 +58,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 21; __Cantrips (2nd)__ [[daze]], [[produce flame]]; __2nd__ [[augury]], [[burning hands]], [[flaming sphere]], [[purify food and drink]] (at will); __4th__ [[read omens]];"
+    desc: "DC 21; __Cantrips (2nd)__ [[daze]], [[produce flame]]; __2nd__ [[augury]], [[burning-hands|burning hands]], [[flaming sphere]], [[purify food and drink]] (at will); __4th__ [[read omens]];"
 sourcebook: "_Bestiary 3_, page 137."
 ```
 

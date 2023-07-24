@@ -60,7 +60,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Spontaneous Spells"
-    desc: "DC 22, attack +15; __Cantrips (1st)__ [[daze]], [[detect magic]], [[ghost sound]], [[mage hand]], [[sigil]]; __1st__ (4 slots) [[charm]], [[ventriloquism]];"
+    desc: "DC 22, attack +15; __Cantrips (1st)__ [[daze]], [[detect magic]], [[ghost sound]], [[mage-hand|mage hand]], [[sigil]]; __1st__ (4 slots) [[charm]], [[ventriloquism]];"
   - name: "Occult Innate Spells"
     desc: "DC 19; __3rd__ [[clairaudience]], [[mind reading]] (at will); __4th__ [[clairvoyance]];"
 sourcebook: "_Bestiary_, page 274."

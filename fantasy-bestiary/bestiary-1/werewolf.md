@@ -72,7 +72,7 @@ attacks:
   - name: Melee
     desc: "⬻ jaws +11 __Damage__ 1d8+8 (1d8+8) piercing plus curse of the werewolf"
   - name: Ranged
-    desc: "⬻ composite shortbow +9 ([[deadly|deadly 1d10]], [[range increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6+4 (1d6+4) piercing"
+    desc: "⬻ composite shortbow +9 ([[deadly|deadly 1d10]], [[range-increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6+4 (1d6+4) piercing"
 
 sourcebook: "_Bestiary_, page 330."
 ```

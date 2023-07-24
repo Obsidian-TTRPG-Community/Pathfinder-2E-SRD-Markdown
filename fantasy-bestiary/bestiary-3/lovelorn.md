@@ -60,7 +60,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 21; __Cantrips (2nd)__ [[ghost sound]], [[mage hand]]; __2nd__ [[fear]] (3), [[illusory creature]] (at will), [[illusory object]] (at will), [[invisibility]];"
+    desc: "DC 21; __Cantrips (2nd)__ [[ghost sound]], [[mage-hand|mage hand]]; __2nd__ [[fear]] (3), [[illusory creature]] (at will), [[illusory object]] (at will), [[invisibility]];"
 sourcebook: "_Bestiary 3_, page 165."
 ```
 

@@ -56,7 +56,7 @@ attacks:
   - name: Melee
     desc: "⬻ stone fist +19 ([[magical]]); __Damage__ 2d12+6 (2d12+6) bludgeoning plus Grab"
   - name: Ranged
-    desc: "⬻ flaming coal +12 ([[fire]], [[magical]], [[range increment|range increment 80 feet]]); __Damage__ 2d6+6 (2d6+6) bludgeoning and 2d8 (2d8) fire"
+    desc: "⬻ flaming coal +12 ([[fire]], [[magical]], [[range-increment|range increment 80 feet]]); __Damage__ 2d6+6 (2d6+6) bludgeoning and 2d8 (2d8) fire"
 
 sourcebook: "_Bestiary_, page 21."
 ```

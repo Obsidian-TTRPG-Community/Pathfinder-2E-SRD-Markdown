@@ -57,7 +57,7 @@ attacks:
   - name: Melee
     desc: "⬻ claw +23 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 2d10+10 (2d10+10) slashing"
   - name: Ranged
-    desc: "⬻ vomit +19 ([[acid]], [[range increment|range increment 20 feet]]); __Damage__ 5d6 (5d6) acid plus fleshgout"
+    desc: "⬻ vomit +19 ([[acid]], [[range-increment|range increment 20 feet]]); __Damage__ 5d6 (5d6) acid plus fleshgout"
 
 sourcebook: "_Bestiary 2_, page 119."
 ```

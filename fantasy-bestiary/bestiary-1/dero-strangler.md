@@ -59,7 +59,7 @@ attacks:
   - name: Ranged
     desc: "⬻ aklys +10 ([[ranged trip]], [[tethered]], [[thrown|thrown 20 feet]]); __Damage__ 1d6+6 (1d6+6) bludgeoning"
   - name: Ranged
-    desc: "⬻ hand crossbow +10 ([[range increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1d6+2 (1d6+2) piercing plus lethargy poison"
+    desc: "⬻ hand crossbow +10 ([[range-increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1d6+2 (1d6+2) piercing plus lethargy poison"
 
 spellcasting:
   - name: "Occult Innate Spells"

@@ -55,7 +55,7 @@ attacks:
   - name: Melee
     desc: "⬻ fist +23 ([[reach|reach 10 feet]]); __Damage__ 2d12+13 (2d12+13) bludgeoning plus wretched weeps"
   - name: Ranged
-    desc: "⬻ fling offal +19 ([[range increment|range increment 30 feet]]); __Damage__ 2d10+7 (2d10+7) bludgeoning plus wretched weeps"
+    desc: "⬻ fling offal +19 ([[range-increment|range increment 30 feet]]); __Damage__ 2d10+7 (2d10+7) bludgeoning plus wretched weeps"
 
 sourcebook: "_Bestiary_, page 251."
 ```

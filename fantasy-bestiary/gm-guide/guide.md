@@ -57,7 +57,7 @@ attacks:
   - name: Melee
     desc: "⬻ greataxe +12 ([[sweep]]); __Damage__ 1d12+6 (1d12+6) slashing"
   - name: Ranged
-    desc: "⬻ composite shortbow +9 ([[deadly|deadly 1d10]], [[propulsive]], [[range increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6+2 (1d6+2) piercing"
+    desc: "⬻ composite shortbow +9 ([[deadly|deadly 1d10]], [[propulsive]], [[range-increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6+2 (1d6+2) piercing"
 
 sourcebook: "_Gamemastery Guide_, page 217."
 ```

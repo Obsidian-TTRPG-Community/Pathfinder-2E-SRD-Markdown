@@ -60,7 +60,7 @@ attacks:
   - name: Melee
     desc: "⬻ morningstar +10 ([[versatile|versatile p]]); __Damage__ 1d6+6 (1d6+6) bludgeoning"
   - name: Ranged
-    desc: "⬻ crossbow +11 ([[range increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1d8 (1d8) piercing"
+    desc: "⬻ crossbow +11 ([[range-increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1d8 (1d8) piercing"
 
 spellcasting:
   - name: "Primal Innate Spells"
