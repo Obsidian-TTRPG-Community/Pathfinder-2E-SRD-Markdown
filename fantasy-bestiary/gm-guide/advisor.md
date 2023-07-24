@@ -57,7 +57,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Spontaneous Spells"
-    desc: "DC 22, attack +13; __Cantrips (3rd)__ [[chill touch]], [[daze]], [[light]], [[prestidigitation]], [[shield]]; __1st__ (3 slots) [[charm]], [[mage armor]], [[magic missile]], [[soothe]]; __2nd__ (3 slots) [[augury]], [[restoration]], [[soothe]], [[touch of idiocy]]; __3rd__ (2 slots) [[mind reading]], [[soothe]], [[zone of truth]];"
+    desc: "DC 22, attack +13; __Cantrips (3rd)__ [[chill-touch|chill touch]], [[daze]], [[light]], [[prestidigitation]], [[shield]]; __1st__ (3 slots) [[charm]], [[mage-armor|mage armor]], [[magic-missile|magic missile]], [[soothe]]; __2nd__ (3 slots) [[augury]], [[restoration]], [[soothe]], [[touch-of-idiocy|touch of idiocy]]; __3rd__ (2 slots) [[mind-reading|mind reading]], [[soothe]], [[zone-of-truth|zone of truth]];"
 sourcebook: "_Gamemastery Guide_, page 208."
 ```
 

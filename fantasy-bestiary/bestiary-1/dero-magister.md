@@ -64,7 +64,7 @@ spellcasting:
   - name: "Occult Innate Spells"
     desc: "DC 24; __Cantrips (1st)__ [[daze]], [[ghost sound]]; __2nd__ [[darkness]] (at will), [[sound burst]]; __4th__ [[modify memory]];"
   - name: "Occult Spontaneous Spells"
-    desc: "DC 24; __Cantrips (3rd)__ [[chill touch]], [[dancing lights]], [[detect magic]], [[forbidding ward]], [[message]]; __1st__ (4 slots) [[grim tendrils]], [[magic missile]], [[phantom pain]], [[soothe]]; __2nd__ (4 slots) [[hideous laughter]], [[paranoia]], [[spectral hand]], [[touch of idiocy]]; __3rd__ (3 slots) [[blindness]], [[vampiric touch]];"
+    desc: "DC 24; __Cantrips (3rd)__ [[chill-touch|chill touch]], [[dancing lights]], [[detect magic]], [[forbidding ward]], [[message]]; __1st__ (4 slots) [[grim tendrils]], [[magic missile]], [[phantom pain]], [[soothe]]; __2nd__ (4 slots) [[hideous laughter]], [[paranoia]], [[spectral hand]], [[touch of idiocy]]; __3rd__ (3 slots) [[blindness]], [[vampiric touch]];"
 sourcebook: "_Bestiary_, page 85."
 ```
 

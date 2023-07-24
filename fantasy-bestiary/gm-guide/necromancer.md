@@ -58,7 +58,7 @@ attacks:
 
 spellcasting:
   - name: "Wizard Prepared Spells"
-    desc: "DC 21, attack +13; __Cantrips (3rd)__ [[chill touch]], [[detect magic]], [[electric arc]], [[ray of frost]], [[read aura]], [[shield]]; __1st__ [[fear]], [[feather fall]], [[ray of enfeeblement]], [[spider sting]]; __2nd__ [[false life]], [[grim tendrils]], [[mirror image]], [[web]]; __3rd__ [[bind undead]], [[lightning bolt]], [[vampiric touch]];"
+    desc: "DC 21, attack +13; __Cantrips (3rd)__ [[chill-touch|chill touch]], [[detect-magic|detect magic]], [[electric-arc|electric arc]], [[ray-of-frost|ray of frost]], [[read-aura|read aura]], [[shield]]; __1st__ [[fear]], [[feather-fall|feather fall]], [[ray-of-enfeeblement|ray of enfeeblement]], [[spider-sting|spider sting]]; __2nd__ [[false-life|false life]], [[grim-tendrils|grim tendrils]], [[mirror-image|mirror image]], [[web]]; __3rd__ [[bind-undead|bind undead]], [[lightning-bolt|lightning bolt]], [[vampiric-touch|vampiric touch]];"
 sourcebook: "_Gamemastery Guide_, page 231."
 ```
 

@@ -62,7 +62,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Spontaneous Spells"
-    desc: "DC 23, attack +13; __Cantrips (3rd)__ [[chill touch]], [[daze]], [[message]], [[produce flame]], [[shield]]; __1st__ (4 slots) [[charm]], [[command]], [[fear]], [[sanctuary]]; __2nd__ [[calm emotions]], [[flaming sphere]], [[see invisibility]], [[undetectable alignment]]; __3rd__ (4 slots) [[chilling darkness]], [[enthrall]], [[harm]];"
+    desc: "DC 23, attack +13; __Cantrips (3rd)__ [[chill-touch|chill touch]], [[daze]], [[message]], [[produce-flame|produce flame]], [[shield]]; __1st__ (4 slots) [[charm]], [[command]], [[fear]], [[sanctuary]]; __2nd__ [[calm-emotions|calm emotions]], [[flaming-sphere|flaming sphere]], [[see-invisibility|see invisibility]], [[undetectable-alignment|undetectable alignment]]; __3rd__ (4 slots) [[chilling-darkness|chilling darkness]], [[enthrall]], [[harm]];"
 sourcebook: "_Gamemastery Guide_, page 249."
 ```
 

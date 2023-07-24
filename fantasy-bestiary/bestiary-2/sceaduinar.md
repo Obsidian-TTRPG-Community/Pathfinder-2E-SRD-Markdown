@@ -63,7 +63,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 25; __Cantrips (4th)__ [[chill touch]]; __2nd__ [[silence]]; __3rd__ [[grim tendrils]], [[harm]] (3); __4th__ [[darkness]], [[dimension door]], [[dispel magic]], [[harm]];"
+    desc: "DC 25; __Cantrips (4th)__ [[chill-touch|chill touch]]; __2nd__ [[silence]]; __3rd__ [[grim tendrils]], [[harm]] (3); __4th__ [[darkness]], [[dimension door]], [[dispel magic]], [[harm]];"
 sourcebook: "_Bestiary 2_, page 233."
 ```
 

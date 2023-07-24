@@ -33,7 +33,7 @@ abilityMods: [0, 1, 2, 4, 3, 0]
 
 abilities_top:
   - name: "Living Sextant"
-    desc: "  If the astronomer is able to see the night sky, they can [[Sense Direction]] using a +10 modifier."
+    desc: "  If the astronomer is able to see the night sky, they can [[Sense-Direction|Sense Direction]] using a +10 modifier."
   - name: Items
     desc: "astrolabe, spellbook, spell component pouch, staff;"
 abilities_mid:

@@ -35,7 +35,7 @@ abilities_top:
   - name: "Lore"
     desc: "  +10 Str +4, Dex +2, Con +2, Int +2, Wis +1, Cha +0 Items fishing tackle, hatchet (2), ledger, manacles, spyglass."
   - name: "Steady Balance"
-    desc: "  Whenever the harbormaster rolls a success on a check to [[Balance]], they get a critical success instead. They're not [[rules/conditions.md#Flat-Footed|flat-footed]] while Balancing on narrow surfaces and uneven ground. They can attempt an [[compendium/skills.md#Acrobatics|Acrobatics]] check instead of a Reflex save to [[Grab an Edge]]."
+    desc: "  Whenever the harbormaster rolls a success on a check to [[Balance]], they get a critical success instead. They're not [[rules/conditions.md#Flat-Footed|flat-footed]] while Balancing on narrow surfaces and uneven ground. They can attempt an [[compendium/skills.md#Acrobatics|Acrobatics]] check instead of a Reflex save to [[Grab-an-Edge|Grab an Edge]]."
   - name: Items
     desc: "fishing tackle, hatchet (2), ledger, manacles, spyglass;"
 abilities_bot:

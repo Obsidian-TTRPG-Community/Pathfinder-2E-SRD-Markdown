@@ -67,7 +67,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Spontaneous Spells"
-    desc: "DC 35, attack +30; __Cantrips (8th)__ [[chill touch]], [[detect magic]], [[disrupt undead]], [[read aura]], [[stabilize]]; __1st__ (4 slots) [[bane]], [[bless]], [[ray of enfeeblement]]; __2nd__ (4 slots) [[calm emotions]], [[see invisibility]], [[silence]]; __3rd__ (4 slots) [[blindness]], [[crisis of faith]], [[dream message]]; __4th__ (4 slots) [[freedom of movement]], [[read omens]], [[spell immunity]]; __5th__ (4 slots) [[death ward]], [[dispel magic]], [[sending]]; __6th__ (4 slots) [[field of life]], [[heal]], [[spirit blast]];"
+    desc: "DC 35, attack +30; __Cantrips (8th)__ [[chill-touch|chill touch]], [[detect magic]], [[disrupt undead]], [[read aura]], [[stabilize]]; __1st__ (4 slots) [[bane]], [[bless]], [[ray of enfeeblement]]; __2nd__ (4 slots) [[calm emotions]], [[see invisibility]], [[silence]]; __3rd__ (4 slots) [[blindness]], [[crisis of faith]], [[dream message]]; __4th__ (4 slots) [[freedom of movement]], [[read omens]], [[spell immunity]]; __5th__ (4 slots) [[death ward]], [[dispel magic]], [[sending]]; __6th__ (4 slots) [[field of life]], [[heal]], [[spirit blast]];"
   - name: "Divine Innate Spells"
     desc: "DC 37; __4th__ [[talking corpse]]; __Constant__ __(5th)__ [[tongues]], [[2nd) speak with animals]], [[spider climb]];"
 sourcebook: "_Bestiary_, page 271."

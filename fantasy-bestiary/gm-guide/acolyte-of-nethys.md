@@ -52,7 +52,7 @@ attacks:
 
 spellcasting:
   - name: "Cleric Domain Spells"
-    desc: "DC 17, (1 Focus Point); __1st__ [[cry of destruction]];"
+    desc: "DC 17, (1 Focus Point); __1st__ [[cry-of-destruction|cry of destruction]];"
 sourcebook: "_Gamemastery Guide_, page 212."
 ```
 

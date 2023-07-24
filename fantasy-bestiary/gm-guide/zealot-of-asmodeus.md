@@ -35,10 +35,10 @@ abilities_mid:
   - name: "Shield Block"
     desc: "⬲ "
   - name: "Swear Vengeance"
-    desc: "⬲ __Trigger__ A creature the zealot can see damages a follower of Asmodeus other than the zealot __Effect__  The zealot gains the effect of a 1st-level [[true strike]] spell. If the zealot makes an attack roll against anyone other than the triggering creature, the true strike ends with no effect."
+    desc: "⬲ __Trigger__ A creature the zealot can see damages a follower of Asmodeus other than the zealot __Effect__  The zealot gains the effect of a 1st-level [[true-strike|true strike]] spell. If the zealot makes an attack roll against anyone other than the triggering creature, the true strike ends with no effect."
 abilities_top:
   - name: Items
-    desc: "[[composite shortbow]] (20 arrows), [[half plate]], [[mace]], [[steel shield]] (Hardness 5, HP 20, BT 10);"
+    desc: "[[composite-shortbow|composite shortbow]] (20 arrows), [[half-plate|half plate]], [[mace]], [[steel-shield|steel shield]] (Hardness 5, HP 20, BT 10);"
 abilities_bot:
   - name: "Channel Smite"
     desc: "⬺ ([[divine]], [[necromancy]]);  The zealot expends a prepared [[harm]] spell and makes a melee [[Strike]]. Instead of the normal effect of the spell, its negative damage is added to the [[Strike]]'s damage."
@@ -65,7 +65,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Prepared Spells"
-    desc: "DC 19, attack +11; __Cantrips (2nd)__ [[detect magic]], [[divine lance]], [[forbidding ward]], [[read aura]], [[sigil]]; __1st__ [[detect alignment]], [[magic weapon]], [[spirit link]]; __2nd__ [[harm]] (3), [[restoration]], [[see invisibility]], [[shield other]];"
+    desc: "DC 19, attack +11; __Cantrips (2nd)__ [[detect-magic|detect magic]], [[divine-lance|divine lance]], [[forbidding-ward|forbidding ward]], [[read-aura|read aura]], [[sigil]]; __1st__ [[detect-alignment|detect alignment]], [[magic-weapon|magic weapon]], [[spirit-link|spirit link]]; __2nd__ [[harm]] (3), [[restoration]], [[see-invisibility|see invisibility]], [[shield-other|shield other]];"
 sourcebook: "_Gamemastery Guide_, page 213."
 ```
 

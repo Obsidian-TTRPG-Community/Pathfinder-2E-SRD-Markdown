@@ -60,7 +60,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Prepared Spells"
-    desc: "DC 20, attack +12; __Cantrips (2nd)__ [[know direction]], [[light]], [[ray of frost]], [[sigil]], [[tanglefoot]]; __1st__ [[fleet step]], [[longstrider]], [[pass without trace]]; __2nd__ [[entangle]], [[flaming sphere]];"
+    desc: "DC 20, attack +12; __Cantrips (2nd)__ [[know-direction|know direction]], [[light]], [[ray-of-frost|ray of frost]], [[sigil]], [[tanglefoot]]; __1st__ [[fleet-step|fleet step]], [[longstrider]], [[pass-without-trace|pass without trace]]; __2nd__ [[entangle]], [[flaming-sphere|flaming sphere]];"
 sourcebook: "_Gamemastery Guide_, page 216."
 ```
 

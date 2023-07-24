@@ -57,7 +57,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Spontaneous Spells"
-    desc: "DC 21; __Cantrips (2nd)__ [[detect magic]], [[ghost sound]], [[message]], [[prestidigitation]], [[read aura]]; __1st__ (3 slots) [[charm]], [[illusory disguise]], [[soothe]], [[ventriloquism]]; __2nd__ (2 slots) [[calm emotions]], [[charm]], [[magic-mouth|magic mouth]];"
+    desc: "DC 21; __Cantrips (2nd)__ [[detect-magic|detect magic]], [[ghost-sound|ghost sound]], [[message]], [[prestidigitation]], [[read-aura|read aura]]; __1st__ (3 slots) [[charm]], [[illusory-disguise|illusory disguise]], [[soothe]], [[ventriloquism]]; __2nd__ (2 slots) [[calm-emotions|calm emotions]], [[charm]], [[magic-mouth|magic mouth]];"
 sourcebook: "_Gamemastery Guide_, page 238."
 ```
 

@@ -66,7 +66,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 27, attack +19; __Cantrips (4th)__ [[chill touch]], [[detect magic]], [[mage-hand|mage hand]], [[message]], [[read aura]]; __2nd__ [[mirror image]]; __3rd__ [[hypnotic pattern]], [[levitate]], [[locate]], [[mind reading]]; __4th__ [[outcast's curse]], [[phantom pain]], [[suggestion]]; __Constant__ __(4th)__ [[tongues]];"
+    desc: "DC 27, attack +19; __Cantrips (4th)__ [[chill-touch|chill touch]], [[detect magic]], [[mage-hand|mage hand]], [[message]], [[read aura]]; __2nd__ [[mirror image]]; __3rd__ [[hypnotic pattern]], [[levitate]], [[locate]], [[mind reading]]; __4th__ [[outcast's curse]], [[phantom pain]], [[suggestion]]; __Constant__ __(4th)__ [[tongues]];"
 sourcebook: "_Bestiary 2_, page 70."
 ```
 

@@ -56,7 +56,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Prepared Spells"
-    desc: "DC 20, attack +12; __Cantrips (2nd)__ [[dancing lights]], [[daze]], [[detect magic]], [[electric arc]], [[mage-hand|mage hand]], [[message]], [[shield]]; __1st__ [[grease]], [[mage armor]], [[magic missile]], [[true strike]]; __2nd__ [[flaming sphere]], [[knock]], [[see invisibility]];"
+    desc: "DC 20, attack +12; __Cantrips (2nd)__ [[dancing-lights|dancing lights]], [[daze]], [[detect-magic|detect magic]], [[electric-arc|electric arc]], [[mage-hand|mage hand]], [[message]], [[shield]]; __1st__ [[grease]], [[mage-armor|mage armor]], [[magic-missile|magic missile]], [[true-strike|true strike]]; __2nd__ [[flaming-sphere|flaming sphere]], [[knock]], [[see-invisibility|see invisibility]];"
 sourcebook: "_Gamemastery Guide_, page 226."
 ```
 

@@ -33,7 +33,7 @@ abilityMods: [2, 4, 2, 1, 0, 1]
 
 abilities_top:
   - name: "Steady Balance"
-    desc: "  When the acrobat rolls a success on an [[compendium/skills.md#Acrobatics|Acrobatics]] check, they get a critical success instead. They aren't [[rules/conditions.md#Flat-Footed|flat-footed]] when attempting to [[Balance]] and can attempt an [[compendium/skills.md#Acrobatics|Acrobatics]] check instead of a Reflex save to [[Grab an Edge]]."
+    desc: "  When the acrobat rolls a success on an [[compendium/skills.md#Acrobatics|Acrobatics]] check, they get a critical success instead. They aren't [[rules/conditions.md#Flat-Footed|flat-footed]] when attempting to [[Balance]] and can attempt an [[compendium/skills.md#Acrobatics|Acrobatics]] check instead of a Reflex save to [[Grab-an-Edge|Grab an Edge]]."
   - name: Items
     desc: "climbing kit, dagger (5), rope (50 feet);"
 abilities_mid:

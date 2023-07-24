@@ -33,7 +33,7 @@ abilityMods: [2, 0, -1, 2, 2, 4]
 
 abilities_top:
   - name: "Appraising Eye"
-    desc: "  The merchant can use [[compendium/skills.md#Lore|Mercantile Lore]] to [[Recall Knowledge]] about items, including determining their value. They can also attempt to [[Identify Magic]] using."
+    desc: "  The merchant can use [[compendium/skills.md#Lore|Mercantile Lore]] to [[Recall-Knowledge|Recall Knowledge]] about items, including determining their value. They can also attempt to [[Identify-Magic|Identify Magic]] using."
   - name: "Mercantile"
     desc: "  [[compendium/skills.md#Lore]] and can do so without first knowing whether the item is magical."
   - name: Items

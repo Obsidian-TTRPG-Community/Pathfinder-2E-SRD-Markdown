@@ -67,7 +67,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 21; __Cantrips (2nd)__ [[chill touch]], [[detect magic]]; __4th__ [[gaseous form]] (at will); __7th__ [[plane shift]] self only; to Shadow Plane or Material Plane only;"
+    desc: "DC 21; __Cantrips (2nd)__ [[chill-touch|chill touch]], [[detect magic]]; __4th__ [[gaseous form]] (at will); __7th__ [[plane shift]] self only; to Shadow Plane or Material Plane only;"
 sourcebook: "_Bestiary 3_, page 230."
 ```
 

@@ -33,9 +33,9 @@ abilityMods: [-1, 3, 0, 1, 1, 2]
 
 abilities_bot:
   - name: "Collaborative Thievery"
-    desc: "  The urchin gains a +1 circumstance bonus to [[Steal]] or [[Palm an Object]] while within 10 feet of an ally who has the pickpocket ability."
+    desc: "  The urchin gains a +1 circumstance bonus to [[Steal]] or [[Palm-an-Object|Palm an Object]] while within 10 feet of an ally who has the pickpocket ability."
   - name: "Pickpocket"
-    desc: "  The urchin can [[Steal]] or [[Palm an Object]] that's closely guarded without taking the usual –5 penalty. They can [[Steal]] objects that would be extremely noticeable or time-consuming to remove (like worn shoes, armor, or actively wielded objects)."
+    desc: "  The urchin can [[Steal]] or [[Palm-an-Object|Palm an Object]] that's closely guarded without taking the usual –5 penalty. They can [[Steal]] objects that would be extremely noticeable or time-consuming to remove (like worn shoes, armor, or actively wielded objects)."
 abilities_top:
   - name: Items
     desc: "shiv;"

@@ -33,7 +33,7 @@ abilityMods: [1, 3, 1, 2, 4, 0]
 
 abilities_top:
   - name: "Doctor's Hand"
-    desc: "  When the surgeon rolls a critical failure on a check to [[Treat Disease]], [[Treat Poison]], or [Treat Wounds](../../rules/actions/treat-wounds.md), they get a failure instead."
+    desc: "  When the surgeon rolls a critical failure on a check to [[Treat-Disease|Treat Disease]], [[Treat-Poison|Treat Poison]], or [Treat Wounds](../../rules/actions/treat-wounds.md), they get a failure instead."
   - name: Items
     desc: "healer's tools, scalpel (3);"
 abilities_bot:

@@ -63,7 +63,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 25, attack +17; __Cantrips (4th)__ [[chill touch]], [[ray of frost]]; __3rd__ [[enthrall]], [[paralyze]]; __4th__ [[charm]], [[fly]] (at will), [[ice storm]]; __Constant__ __(4th)__ [[pass without trace]], [[see invisibility]];"
+    desc: "DC 25, attack +17; __Cantrips (4th)__ [[chill-touch|chill touch]], [[ray of frost]]; __3rd__ [[enthrall]], [[paralyze]]; __4th__ [[charm]], [[fly]] (at will), [[ice storm]]; __Constant__ __(4th)__ [[pass without trace]], [[see invisibility]];"
 sourcebook: "_Bestiary 3_, page 129."
 ```
 

@@ -38,7 +38,7 @@ abilities_bot:
   - name: "Breach the Abyss"
     desc: "⭓ __Requirements__ The demonologist's last action was to cast a non-cantrip spell  __Effect__  The demonologist siphons energy drawn from the Abyss into their weapon. Until the end of the turn, the weapon deals an extra 2d6 (2d6) damage. Roll 1d20 (1d20) to determine the type: 1–7 acid, 8–9 cold, 10–11 electricity, 12–18 fire, 19–20 negative."
   - name: "Demon Summoning"
-    desc: "  The demonologist can cast a 5th-level [[summon fiend]] arcane spell to summon a demon. To do so, they must sacrifice two 4th-level prepared spells and voluntarily take 4d12 (4d12) mental damage that can't be reduced or prevented. If the demonologist is unable to [[Sustain a Spell|Sustain the Spell]], including if they're knocked out or killed, the spell continues, but the GM rolls a DC 10 flat check each round, ending the spell on a failure."
+    desc: "  The demonologist can cast a 5th-level [[summon-fiend|summon fiend]] arcane spell to summon a demon. To do so, they must sacrifice two 4th-level prepared spells and voluntarily take 4d12 (4d12) mental damage that can't be reduced or prevented. If the demonologist is unable to [[Sustain a Spell|Sustain the Spell]], including if they're knocked out or killed, the spell continues, but the GM rolls a DC 10 flat check each round, ending the spell on a failure."
 
 speed: 25 feet
 
@@ -58,7 +58,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Prepared Spells"
-    desc: "DC 26, attack +18; __Cantrips (4th)__ [[acid splash]], [[daze]], [[detect magic]], [[light]], [[read aura]]; __1st__ [[fear]] (2), [[fleet step]], [[mending]]; __2nd__ [[acid arrow]], [[blur]], [[hideous laughter]], [[see invisibility]]; __3rd__ [[fireball]], [[glyph of warding]], [[slow]], [[stinking cloud]]; __4th__ [[clairvoyance]], [[lightning bolt]], [[resilient sphere]];"
+    desc: "DC 26, attack +18; __Cantrips (4th)__ [[acid-splash|acid splash]], [[daze]], [[detect-magic|detect magic]], [[light]], [[read-aura|read aura]]; __1st__ [[fear]] (2), [[fleet-step|fleet step]], [[mending]]; __2nd__ [[acid-arrow|acid arrow]], [[blur]], [[hideous-laughter|hideous laughter]], [[see-invisibility|see invisibility]]; __3rd__ [[fireball]], [[glyph-of-warding|glyph of warding]], [[slow]], [[stinking-cloud|stinking cloud]]; __4th__ [[clairvoyance]], [[lightning-bolt|lightning bolt]], [[resilient-sphere|resilient sphere]];"
 sourcebook: "_Gamemastery Guide_, page 231."
 ```
 

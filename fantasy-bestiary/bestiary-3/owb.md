@@ -57,7 +57,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 23, attack +15; __Cantrips (3rd)__ [[chill touch]], [[daze]], [[read aura]], [[shield]]; __3rd__ [[mind reading]] (at will); __4th__ [[darkness]] (at will), [[invisibility]]; __5th__ [[shadow blast]], [[shadow walk]]; __7th__ [[plane shift]] to or from the [[Shadow Plane]] only;"
+    desc: "DC 23, attack +15; __Cantrips (3rd)__ [[chill-touch|chill touch]], [[daze]], [[read aura]], [[shield]]; __3rd__ [[mind reading]] (at will); __4th__ [[darkness]] (at will), [[invisibility]]; __5th__ [[shadow blast]], [[shadow walk]]; __7th__ [[plane shift]] to or from the [[Shadow Plane]] only;"
 sourcebook: "_Bestiary 3_, page 196."
 ```
 

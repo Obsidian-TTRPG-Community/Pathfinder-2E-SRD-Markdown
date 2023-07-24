@@ -40,7 +40,7 @@ abilities_top:
     desc: "club, composite shortbow (20 arrows), padded armor, snare kit;"
 abilities_bot:
   - name: "Hunt Prey"
-    desc: "⬻ ([[concentrate]]);  The poacher designates a single creature they can see and hear, or one they're [[Track|Tracking]], as their prey. The poacher gains a +2 circumstance bonus to [[compendium/skills.md#Perception|Perception]] checks to [[Seek]] the prey and to [[compendium/skills.md#Survival|Survival]] checks to [[Track]] the prey. The first time the poacher hits the designated prey in a round, they deal an additional 1d8 (1d8) precision damage. The poacher also ignores the penalty for making ranged attacks within their second range increment. These effects last until the poacher uses [[Hunt Prey]] again."
+    desc: "⬻ ([[concentrate]]);  The poacher designates a single creature they can see and hear, or one they're [[Track|Tracking]], as their prey. The poacher gains a +2 circumstance bonus to [[compendium/skills.md#Perception|Perception]] checks to [[Seek]] the prey and to [[compendium/skills.md#Survival|Survival]] checks to [[Track]] the prey. The first time the poacher hits the designated prey in a round, they deal an additional 1d8 (1d8) precision damage. The poacher also ignores the penalty for making ranged attacks within their second range increment. These effects last until the poacher uses [[Hunt-Prey|Hunt Prey]] again."
 
 speed: 25 feet
 

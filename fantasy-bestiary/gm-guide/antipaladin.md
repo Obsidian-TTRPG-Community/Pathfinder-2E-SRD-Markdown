@@ -61,7 +61,7 @@ attacks:
 
 spellcasting:
   - name: "Champion Devotion Spells"
-    desc: "DC 20, (1 Focus Point); __3rd__ [[touch of corruption]];"
+    desc: "DC 20, (1 Focus Point); __3rd__ [[touch-of-corruption|touch of corruption]];"
 sourcebook: "_Gamemastery Guide_, page 247."
 ```
 

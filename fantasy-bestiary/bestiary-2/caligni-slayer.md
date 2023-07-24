@@ -66,7 +66,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 20, attack +12; __Cantrips (2nd)__ [[chill touch]], [[daze]], [[detect magic]], [[shield]]; __2nd__ [[darkness]] (at will), [[death knell]], [[phantom pain]], [[spectral hand]];"
+    desc: "DC 20, attack +12; __Cantrips (2nd)__ [[chill-touch|chill touch]], [[daze]], [[detect magic]], [[shield]]; __2nd__ [[darkness]] (at will), [[death knell]], [[phantom pain]], [[spectral hand]];"
 sourcebook: "_Bestiary 2_, page 46."
 ```
 

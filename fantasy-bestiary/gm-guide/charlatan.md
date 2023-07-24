@@ -33,7 +33,7 @@ abilityMods: [0, 3, 0, 2, 1, 4]
 
 abilities_top:
   - name: "Versatile Performance"
-    desc: "  The charlatan can use [[compendium/skills.md#Performance|Performance]] instead of [[compendium/skills.md#Diplomacy|Diplomacy]] to [[Make an Impression]] and instead of [[compendium/skills.md#Intimidation|Intimidation]] to [[Demoralize]]. They can also use an acting [[compendium/skills.md#Performance|Performance]] instead of [[compendium/skills.md#Deception|Deception]] to [[Impersonate]]."
+    desc: "  The charlatan can use [[compendium/skills.md#Performance|Performance]] instead of [[compendium/skills.md#Diplomacy|Diplomacy]] to [[Make-an-Impression|Make an Impression]] and instead of [[compendium/skills.md#Intimidation|Intimidation]] to [[Demoralize]]. They can also use an acting [[compendium/skills.md#Performance|Performance]] instead of [[compendium/skills.md#Deception|Deception]] to [[Impersonate]]."
   - name: Items
     desc: "disguise kit, lute, sap, shortsword, thieves' tools;"
 abilities_bot:
@@ -60,9 +60,9 @@ attacks:
 
 spellcasting:
   - name: "Occult Spontaneous Spells"
-    desc: "DC 20, attack +10; __Cantrips (2nd)__ [[daze]], [[ghost sound]], [[mage-hand|mage hand]], [[message]], [[prestidigitation]]; __1st__ (3 slots) [[illusory disguise]], [[magic aura]], [[unseen servant]], [[ventriloquism]]; __2nd__ (2 slots) [[charm]], [[illusory disguise]], [[invisibility]];"
+    desc: "DC 20, attack +10; __Cantrips (2nd)__ [[daze]], [[ghost-sound|ghost sound]], [[mage-hand|mage hand]], [[message]], [[prestidigitation]]; __1st__ (3 slots) [[illusory-disguise|illusory disguise]], [[magic-aura|magic aura]], [[unseen-servant|unseen servant]], [[ventriloquism]]; __2nd__ (2 slots) [[charm]], [[illusory-disguise|illusory disguise]], [[invisibility]];"
   - name: "Bard Composition Spells"
-    desc: "DC 19, attack +10; __Cantrips (1st)__ [[inspire courage]]; __1st__ [[counter performance]];"
+    desc: "DC 19, attack +10; __Cantrips (1st)__ [[inspire-courage|inspire courage]]; __1st__ [[counter-performance|counter performance]];"
 sourcebook: "_Gamemastery Guide_, page 210."
 ```
 

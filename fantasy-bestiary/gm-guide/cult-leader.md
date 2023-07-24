@@ -59,7 +59,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Spontaneous Spells"
-    desc: "DC 26, attack +18; __Cantrips (4th)__ [[chill touch]], [[daze]], [[detect magic]], [[guidance]], [[shield]]; __1st__ (4 slots) [[bless]], [[illusory disguise]], [[lock]], [[unseen servant]]; __2nd__ (4 slots) [[augury]], [[calm emotions]], [[hideous laughter]], [[touch of idiocy]]; __3rd__ (4 slots) [[enthrall]], [[grim tendrils]], [[haste]], [[mind reading]]; __4th__ (3 slots) [[dimension door]], [[glibness]], [[outcast's curse]], [[suggestion]];"
+    desc: "DC 26, attack +18; __Cantrips (4th)__ [[chill-touch|chill touch]], [[daze]], [[detect-magic|detect magic]], [[guidance]], [[shield]]; __1st__ (4 slots) [[bless]], [[illusory-disguise|illusory disguise]], [[lock]], [[unseen-servant|unseen servant]]; __2nd__ (4 slots) [[augury]], [[calm-emotions|calm emotions]], [[hideous-laughter|hideous laughter]], [[touch-of-idiocy|touch of idiocy]]; __3rd__ (4 slots) [[enthrall]], [[grim-tendrils|grim tendrils]], [[haste]], [[mind-reading|mind reading]]; __4th__ (3 slots) [[dimension-door|dimension door]], [[glibness]], [[outcast's curse]], [[suggestion]];"
 sourcebook: "_Gamemastery Guide_, page 231."
 ```
 
