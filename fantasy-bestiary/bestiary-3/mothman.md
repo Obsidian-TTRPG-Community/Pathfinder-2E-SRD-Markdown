@@ -33,12 +33,12 @@ abilityMods: [2, 5, 4, 2, 4, 5]
 
 abilities_mid:
   - name: "Portentous Gaze"
-    desc: " ([[aura]], [[emotion]], [[enchantment]], [[fear]], [[mental]], [[occult]], [[visual]]);  30 feet. When a creature ends its turn in the aura, it must attempt a DC 25 Will save. A creature that fails is [[frightened|frightened 1]] (or [[frightened|frightened 2]] on a critical failure) The mothman can deactivate or activate this aura with a single action, which has the [[concentrate]] trait."
+    desc: " ([[aura]], [[emotion]], [[enchantment]], [[fear]], [[mental]], [[occult]], [[visual]]);  30 feet. When a creature ends its turn in the aura, it must attempt a DC 25 Will save. A creature that fails is [[rules/conditions.md#Frightened|frightened 1]] (or [[rules/conditions.md#Frightened|frightened 2]] on a critical failure) The mothman can deactivate or activate this aura with a single action, which has the [[concentrate]] trait."
 abilities_bot:
   - name: "Agent of Fate"
     desc: "⬽ ([[primal]]); __Frequency__ once per day  __Effect__  The mothman casts any spell of 5th level or lower that normally takes 2 or fewer actions to cast, whether they have those spells in their innate spells or not. They can use this ability only if doing so steers the flow of fate in its proper course toward a disaster or otherwise significantly memorable event. What the proper flow of fate entails is determined by the GM, but some examples include casting illusory scene to coax someone to a portentous location, casting sending to deliver an important message to someone the exact moment they need to hear it, or casting rusting grasp to weaken a structure and cause some necessary calamity."
   - name: "Focus Gaze"
-    desc: "⬻ ([[concentrate]], [[emotion]], [[enchantment]], [[fear]], [[mental]], [[occult]], [[visual]]);  The mothman fixes their glare at a creature they can see within 30 feet. The target must immediately attempt a Will save against the mothman's portentous gaze. If the creature is already [[frightened|frightened]] when it attempts this save, on a failure it becomes [[stupefied|stupefied 1]] for 24 hours in addition to the [[frightened|frightened]] effect. After attempting its save, the creature is then temporarily immune for 1 minute."
+    desc: "⬻ ([[concentrate]], [[emotion]], [[enchantment]], [[fear]], [[mental]], [[occult]], [[visual]]);  The mothman fixes their glare at a creature they can see within 30 feet. The target must immediately attempt a Will save against the mothman's portentous gaze. If the creature is already [[rules/conditions.md#Frightened|frightened]] when it attempts this save, on a failure it becomes [[rules/conditions.md#Stupefied|stupefied 1]] for 24 hours in addition to the [[rules/conditions.md#Frightened|frightened]] effect. After attempting its save, the creature is then temporarily immune for 1 minute."
 
 speed: 25 feet, fly 50 feet
 

@@ -41,9 +41,9 @@ abilities_bot:
   - name: "Change Shape"
     desc: "⬻ ([[concentrate]], [[occult]], [[polymorph]], [[transmutation]]);  The street skelm can take on the appearance of any Medium male humanoid (page 304). This doesn't change his Speed or his attack and damage bonuses with his [[Strike|Strikes]] but might change the damage type his [[Strike|Strikes]] deal."
   - name: "Frightening Rant"
-    desc: "⬻ ([[auditory]], [[concentrate]], [[emotion]], [[enchantment]], [[fear]], [[linguistic]], [[mental]], [[occult]]);  The skelm rants angrily, filling nearby creatures with shame, fear, and anger. Each creature within 30 feet must succeed at a DC 20 Will save or become [[frightened|frightened 1]] ([[frightened|frightened 2]] on a critical failure). While [[frightened|frightened]] by this rant, creatures take a –2 status penalty to Strength-based damage rolls against the skelm, but gain a +2 status bonus to those rolls against other creatures."
+    desc: "⬻ ([[auditory]], [[concentrate]], [[emotion]], [[enchantment]], [[fear]], [[linguistic]], [[mental]], [[occult]]);  The skelm rants angrily, filling nearby creatures with shame, fear, and anger. Each creature within 30 feet must succeed at a DC 20 Will save or become [[rules/conditions.md#Frightened|frightened 1]] ([[rules/conditions.md#Frightened|frightened 2]] on a critical failure). While [[rules/conditions.md#Frightened|frightened]] by this rant, creatures take a –2 status penalty to Strength-based damage rolls against the skelm, but gain a +2 status bonus to those rolls against other creatures."
   - name: "Punishing Strike"
-    desc: "⬻  The skelm unleashes his constant rage in a reckless attack that makes him [[flat-footed|flat-footed]] until the start of his next turn. He [[Strike|Strikes]]; if he hits, he increases the number of damage dice by one and adds Push to the effect. This counts as two attacks for his multiple attack penalty."
+    desc: "⬻  The skelm unleashes his constant rage in a reckless attack that makes him [[rules/conditions.md#Flat-Footed|flat-footed]] until the start of his next turn. He [[Strike|Strikes]]; if he hits, he increases the number of damage dice by one and adds Push to the effect. This counts as two attacks for his multiple attack penalty."
 
 speed: 25 feet
 

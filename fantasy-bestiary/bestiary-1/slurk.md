@@ -34,7 +34,7 @@ abilities_bot:
   - name: "Belly Grease"
     desc: "⬽  The slurk extrudes a slippery grease from its ventral glands to coat the floor under it and in a 5-foot emanation, turning the affected area into uneven ground for 10 minutes, after which it dries to a putrid crust. The DC to [[Balance]] across the slime is 18."
   - name: "Entangling Slime"
-    desc: "  A creature struck by a slurk's slime squirt becomes [[clumsy|clumsy 1]] and takes a –5-foot penalty to Speed for 1 hour or until the slime is removed. The slime can be removed with a total of three [[Interact]] actions by the entangled creature or creatures adjacent to the creature. These actions don't need to be consecutive or made by the same creature."
+    desc: "  A creature struck by a slurk's slime squirt becomes [[rules/conditions.md#Clumsy|clumsy 1]] and takes a –5-foot penalty to Speed for 1 hour or until the slime is removed. The slime can be removed with a total of three [[Interact]] actions by the entangled creature or creatures adjacent to the creature. These actions don't need to be consecutive or made by the same creature."
 
 speed: 30 feet, climb 30 feet
 

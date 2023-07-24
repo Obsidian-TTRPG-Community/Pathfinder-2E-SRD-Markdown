@@ -37,7 +37,7 @@ abilities_top:
   - name: "Coven"
     desc: "  A storm hag adds hydraulic torrent, lightning storm, and mariner's curse to her coven's spells (page 304)."
   - name: "Stormsight"
-    desc: "  Wind, precipitation, and clouds don't impair a storm hag's vision; she ignores the [[concealed|concealed]] condition from storms, mist, precipitation, and the like."
+    desc: "  Wind, precipitation, and clouds don't impair a storm hag's vision; she ignores the [[rules/conditions.md#Concealed|concealed]] condition from storms, mist, precipitation, and the like."
   - name: "Voice of the Storm"
     desc: "  A storm hag can send spoken messages or sounds on the wind to any spot that she has seen and the wind can reach within a 50-mile radius. She can send a quiet whisper or a loud scream, and decides whether it's clearly audible or barely heard above the wind. The message is delivered regardless of whether anyone is present to hear it. The hag can use this ability to [[Demoralize]] creatures that hear her message with dire threats or unnerving whispers of doom."
 abilities_bot:

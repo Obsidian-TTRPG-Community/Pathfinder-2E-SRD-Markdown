@@ -32,10 +32,10 @@ abilityMods: [2, 3, 2, -4, 2, 0]
 
 abilities_top:
   - name: "Smoke Vision"
-    desc: "  The cinder rat ignores the [[concealed|concealed]] condition from smoke."
+    desc: "  The cinder rat ignores the [[rules/conditions.md#Concealed|concealed]] condition from smoke."
 abilities_mid:
   - name: "Fetid Fumes"
-    desc: " ([[aura]], [[fire]]);  5 feet. A creature that enters the aura or begins its turn there must succeed at a DC 22 Fortitude save or become [[sickened|sickened 1]]. Everything within the aura, including the cinder rat, is [[concealed|concealed]] by smoke."
+    desc: " ([[aura]], [[fire]]);  5 feet. A creature that enters the aura or begins its turn there must succeed at a DC 22 Fortitude save or become [[rules/conditions.md#Sickened|sickened 1]]. Everything within the aura, including the cinder rat, is [[rules/conditions.md#Concealed|concealed]] by smoke."
 
 speed: 40 feet
 
@@ -51,7 +51,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +10 ([[finesse]]); __Damage__ 1d8+4 (1d8+4) fire plus 1d4 (1d4) [[persistent damage|persistent fire]]"
+    desc: "⬻ jaws +10 ([[finesse]]); __Damage__ 1d8+4 (1d8+4) fire plus 1d4 (1d4) [[rules/conditions.md#Persistent%20Damage|persistent fire]]"
 
 sourcebook: "_Bestiary_, page 148."
 ```

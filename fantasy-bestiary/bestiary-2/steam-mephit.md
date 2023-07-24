@@ -35,7 +35,7 @@ abilityMods: [1, 2, 4, -2, 0, 0]
 
 abilities_top:
   - name: "Steam Vision"
-    desc: "  The steam mephit ignores the [[concealed|concealed]] condition from mist and steam."
+    desc: "  The steam mephit ignores the [[rules/conditions.md#Concealed|concealed]] condition from mist and steam."
 abilities_bot:
   - name: "Boiling Rain"
     desc: "⬺ ([[arcane]], [[conjuration]], [[fire]], [[water]]);  Frequency once per day; The steam mephit calls down a rain boiling water that surrounds them in a 10-foot emanation. Creatures in the area take 2d8 (2d8) fire damage (DC 17 basic Reflex save), and small unattended flames (such as [[torch|torches]]) are extinguished."

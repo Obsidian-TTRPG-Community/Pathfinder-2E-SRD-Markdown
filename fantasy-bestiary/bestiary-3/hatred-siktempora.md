@@ -37,16 +37,16 @@ abilities_top:
     desc: "  A siktempora can always roll Dimension  of Time Lore for initiative. When it does, it gains a +2 circumstance bonus to the roll."
 abilities_mid:
   - name: "Impending Dread"
-    desc: " ([[aura]], [[emotion]], [[fear]], [[mental]], [[occult]]);  150 feet. Creatures within the hatred siktempora's aura don't reduce the value of their [[frightened|frightened]] condition automatically at the end of their turns."
+    desc: " ([[aura]], [[emotion]], [[fear]], [[mental]], [[occult]]);  150 feet. Creatures within the hatred siktempora's aura don't reduce the value of their [[rules/conditions.md#Frightened|frightened]] condition automatically at the end of their turns."
   - name: "Uncanny Pounce"
     desc: "⭓ __Trigger__ The misery siktempora rolls Dimension of [[Lore|Time Lore]] for initiative __Effect__  The misery siktempora [[Stride|Strides]] once and makes a claw [[Strike]], in either order."
   - name: "Punish Flight"
     desc: "⬲ __Trigger__ A creature attempts to [[Escape]] from the hatred siktempora __Effect__  The siktempora makes a loathing garotte [[Strike]] against the triggering creature. This [[Strike]] doesn't have [[Improved Grab]]."
 abilities_bot:
   - name: "Contorted Clutch"
-    desc: "  The hatred siktempora can have up to two creatures [[grabbed|grabbed]] with their loathing garotte at once."
+    desc: "  The hatred siktempora can have up to two creatures [[rules/conditions.md#Grabbed|grabbed]] with their loathing garotte at once."
   - name: "Vindictive Crush"
-    desc: "⬻ __Requirements__ The hatred siktempora has a creature [[grabbed|grabbed]] __Frequency__ once per round  __Effect__  The hatred siktempora tightens their garrote, dealing 5d10 (5d10) bludgeoning damage to each creature they're Grabbing. Each creature [[grabbed|grabbed]] by the siktempora must attempt a DC 40 Fortitude save."
+    desc: "⬻ __Requirements__ The hatred siktempora has a creature [[rules/conditions.md#Grabbed|grabbed]] __Frequency__ once per round  __Effect__  The hatred siktempora tightens their garrote, dealing 5d10 (5d10) bludgeoning damage to each creature they're Grabbing. Each creature [[rules/conditions.md#Grabbed|grabbed]] by the siktempora must attempt a DC 40 Fortitude save."
 
 speed: 80 feet; air walk;
 

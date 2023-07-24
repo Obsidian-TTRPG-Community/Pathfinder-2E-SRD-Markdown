@@ -40,14 +40,14 @@ abilities_mid:
   - name: "Treacherous Aura"
     desc: " ([[aura]], [[primal]], [[transmutation]]);  15 feet. Tangled roots, jagged divots, sharp rocks and other hazards appear on surfaces in the aura, creating [[terrain|difficult terrain]]."
   - name: "Trip Up"
-    desc: "⬲ __Trigger__ A creature critically fails a melee attack to hit the gimmerling or moves into a space within the gimmerling's treacherous aura. __Effect__  The triggering creature must attempt a DC 32 Reflex save.\n__Critical Success__ The target is unaffected.\n__Success__ The target is [[flat-footed|flat-footed]] until the start of its next turn.\n__Failure__ The target takes 2d10 (2d10) bludgeoning damage and is [[flat-footed|flat-footed]] until the start of its next turn.\n__Critical Failure__ As failure, and the target is knocked [[prone|prone]]."
+    desc: "⬲ __Trigger__ A creature critically fails a melee attack to hit the gimmerling or moves into a space within the gimmerling's treacherous aura. __Effect__  The triggering creature must attempt a DC 32 Reflex save.\n__Critical Success__ The target is unaffected.\n__Success__ The target is [[rules/conditions.md#Flat-Footed|flat-footed]] until the start of its next turn.\n__Failure__ The target takes 2d10 (2d10) bludgeoning damage and is [[rules/conditions.md#Flat-Footed|flat-footed]] until the start of its next turn.\n__Critical Failure__ As failure, and the target is knocked [[rules/conditions.md#Prone|prone]]."
 abilities_bot:
   - name: "Change Shape"
     desc: "⬻ ([[concentrate]], [[polymorph]], [[primal]], [[transmutation]]);  The gimmerling changes into its natural form or that of any humanoid. In humanoid form, it loses its treacherous aura, and its equipment appears to be trinkets or toys. As a humanoid that lacks claws or fangs, it loses the matching [[Strike]]. If it loses its claw [[Strike]], it gains a fist [[Strike]] that is identical except that it deals bludgeoning damage."
   - name: "Disarm"
     desc: "⬺ __Requirements__ The gimmerling's last action was a success with a [[Strike]] that has [[Disarm]] in its damage entry.  __Effect__  The gimmerling knocks a held or carried weapon to the ground in the target's space."
   - name: "Sneak Attack"
-    desc: "  The gimmerling deals 2d6 (2d6) extra precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The gimmerling deals 2d6 (2d6) extra precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
   - name: "Trickster's Step"
     desc: "  The gimmerling ignores [[terrain|difficult terrain]] and doesn't trigger traps with its movement."
 

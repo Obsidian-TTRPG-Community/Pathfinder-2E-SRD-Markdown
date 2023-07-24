@@ -38,7 +38,7 @@ abilities_bot:
   - name: "Change Shape"
     desc: "⬻ ([[concentrate]], [[polymorph]], [[primal]], [[transmutation]]);  As leaf leshy, except the fungus leshy transforms into a giant mushroom or patch of fungi."
   - name: "Spore Cloud"
-    desc: "⬺ ([[poison]]);  A fungus leshy can unleash a cloud of spores that irritates the eyes and throats of non-fungi creatures in a 15-foot emanation. Each creature must succeed at a DC 16 Fortitude save or take 1 [[persistent damage|persistent poison damage]]. A creature has its vision reduced as long as the [[persistent damage|persistent damage]] continues and can see only within 20 feet (or 10 feet, on a critical failure)."
+    desc: "⬺ ([[poison]]);  A fungus leshy can unleash a cloud of spores that irritates the eyes and throats of non-fungi creatures in a 15-foot emanation. Each creature must succeed at a DC 16 Fortitude save or take 1 [[rules/conditions.md#Persistent%20Damage|persistent poison damage]]. A creature has its vision reduced as long as the [[rules/conditions.md#Persistent%20Damage|persistent damage]] continues and can see only within 20 feet (or 10 feet, on a critical failure)."
   - name: "Spores"
     desc: "  A creature that takes damage from a fungus leshy's spore pod [[Strike]] must attempt a saving throw with the same DC and effect as its Spore Cloud ability."
 

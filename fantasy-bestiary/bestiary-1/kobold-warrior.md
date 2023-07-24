@@ -35,7 +35,7 @@ abilities_bot:
   - name: "Hurried Retreat"
     desc: "⬻ __Requirements__ The kobold warrior is adjacent to at least one enemy.  __Effect__  The kobold warrior [[Stride|Strides]] up to its Speed plus 5 feet and gains a +2 circumstance bonus to AC against reactions triggered by this movement. It must end this movement in a space that's not adjacent to any enemy."
   - name: "Sneak Attack"
-    desc: "  The kobold warrior deals an extra 1d4 (1d4) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The kobold warrior deals an extra 1d4 (1d4) precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
 abilities_top:
   - name: Items
     desc: "leather armor, sling (20 bullets), spear;"

@@ -31,9 +31,9 @@ abilityMods: [4, 5, 2, -5, 2, -5]
 
 abilities_bot:
   - name: "Blood Drain"
-    desc: "⬻ __Requirements__ The giant mosquito has a creature [[grabbed|grabbed]]  __Effect__  The giant mosquito uses its proboscis to drain blood from the [[grabbed|grabbed]] creature. This deals 3d6 (3d6) damage, and the giant mosquito gains temporary Hit Points equal to the damage dealt. A creature that has its blood [[drained|drained]] by a giant mosquito is [[drained|drained 1]] until it receives healing of any kind or amount."
+    desc: "⬻ __Requirements__ The giant mosquito has a creature [[rules/conditions.md#Grabbed|grabbed]]  __Effect__  The giant mosquito uses its proboscis to drain blood from the [[rules/conditions.md#Grabbed|grabbed]] creature. This deals 3d6 (3d6) damage, and the giant mosquito gains temporary Hit Points equal to the damage dealt. A creature that has its blood [[rules/conditions.md#Drained|drained]] by a giant mosquito is [[rules/conditions.md#Drained|drained 1]] until it receives healing of any kind or amount."
   - name: "Septic Malaria"
-    desc: " ([[disease]]);  __Saving Throw__ DC 24 Fortitude. __Stage 1__ [[sickened|sickened 1]] (1 day) __Stage 2__ [[drained|drained 1]] and [[sickened|sickened 1]] (1 day) __Stage 3__ as stage 2 (1 day) __Stage 4__ [[unconscious|unconscious]]  (1 day)"
+    desc: " ([[disease]]);  __Saving Throw__ DC 24 Fortitude. __Stage 1__ [[rules/conditions.md#Sickened|sickened 1]] (1 day) __Stage 2__ [[rules/conditions.md#Drained|drained 1]] and [[rules/conditions.md#Sickened|sickened 1]] (1 day) __Stage 3__ as stage 2 (1 day) __Stage 4__ [[rules/conditions.md#Unconscious|unconscious]]  (1 day)"
 
 speed: 20 feet, fly 50 feet
 

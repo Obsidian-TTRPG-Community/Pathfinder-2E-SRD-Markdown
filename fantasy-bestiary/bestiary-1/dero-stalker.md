@@ -35,13 +35,13 @@ abilities_mid:
   - name: "Vulnerable to Sunlight"
     desc: "  A dero stalker takes 4 damage for every hour they're exposed to sunlight."
   - name: "Nimble Dodge"
-    desc: "⬲ __Requirements__ The dero stalker is not [[encumbered|encumbered]]. __Trigger__ A creature targets the dero with an attack and the dero can see the attacker. __Effect__  The dero dodges out of the way, gaining a +2 circumstance bonus to AC against the triggering attack."
+    desc: "⬲ __Requirements__ The dero stalker is not [[rules/conditions.md#Encumbered|encumbered]]. __Trigger__ A creature targets the dero with an attack and the dero can see the attacker. __Effect__  The dero dodges out of the way, gaining a +2 circumstance bonus to AC against the triggering attack."
 abilities_top:
   - name: Items
     desc: "[[aklys]], [[giant centipede venom]] (4 doses), [[hand crossbow]] (20 [[bolt|bolts]];"
 abilities_bot:
   - name: "Sneak Attack"
-    desc: "  A dero stalker deals 1d6 (1d6) extra precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  A dero stalker deals 1d6 (1d6) extra precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
 
 speed: 20 feet
 

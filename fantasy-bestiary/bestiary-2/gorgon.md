@@ -32,7 +32,7 @@ abilityMods: [7, 3, 6, -4, 5, 3]
 
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[earth]], [[incapacitation]], [[primal]], [[transmutation]]);  The gorgon breathes a 60-foot cone of green gas. Each creature in the area must attempt a DC 25 Fortitude save. The gorgon can't use Breath Weapon again for 1d4 (1d4) rounds.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature's body hardens and stiffens, causing it to become [[slowed|slowed 1]] for 1 round.\n__Failure__ The creature becomes [[petrified|petrified]] for 1 minute. It can attempt a new save at the end of each of its turns.\n__Critical Failure__ The creature becomes [[petrified|petrified]] permanently."
+    desc: "⬺ ([[earth]], [[incapacitation]], [[primal]], [[transmutation]]);  The gorgon breathes a 60-foot cone of green gas. Each creature in the area must attempt a DC 25 Fortitude save. The gorgon can't use Breath Weapon again for 1d4 (1d4) rounds.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature's body hardens and stiffens, causing it to become [[rules/conditions.md#Slowed|slowed 1]] for 1 round.\n__Failure__ The creature becomes [[rules/conditions.md#Petrified|petrified]] for 1 minute. It can attempt a new save at the end of each of its turns.\n__Critical Failure__ The creature becomes [[rules/conditions.md#Petrified|petrified]] permanently."
   - name: "Powerful Charge"
     desc: "⬺  The gorgon [[Stride|Strides]] twice, then makes a horn [[Strike]]. If it moved at least 20 feet from its starting position, the [[Strike]]'s damage is increased to 3d12+12 (3d12+12)."
   - name: "Trample"

@@ -37,7 +37,7 @@ abilities_mid:
   - name: "Enormous"
     desc: "  A mu spore is a massive creature and takes up a space of 10 squares by 10 squares (50 feet by 50 feet)."
   - name: "Spores"
-    desc: " ([[aura]]);  60 feet. A living creature that enters the area or ends its turn within it is corrupted by spores. It must succeed at a DC 42 Fortitude save or be [[clumsy|clumsy 1]], [[enfeebled|enfeebled 1]], and [[slowed|slowed 1]] for 1 round. Fungi and plants are immune."
+    desc: " ([[aura]]);  60 feet. A living creature that enters the area or ends its turn within it is corrupted by spores. It must succeed at a DC 42 Fortitude save or be [[rules/conditions.md#Clumsy|clumsy 1]], [[rules/conditions.md#Enfeebled|enfeebled 1]], and [[rules/conditions.md#Slowed|slowed 1]] for 1 round. Fungi and plants are immune."
   - name: "Grasping Tendrils"
     desc: "⭓ __Trigger__ A creature within 10 feet of the mu spore moves or attacks the mu spore. __Effect__  The spore uses Grab on the triggering creature. There is no limit to how many creatures it can grab with the sticky tendrils that cover its body."
 abilities_bot:

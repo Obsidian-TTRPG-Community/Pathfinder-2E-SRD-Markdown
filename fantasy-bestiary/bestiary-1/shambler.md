@@ -35,7 +35,7 @@ abilities_top:
     desc: "  When it's not in danger, the shambler spends 1 minute settling into a pile that looks like a lump of loose vegetation. While it is in this form, creatures must actively [[Seek]] and succeed at a DC 22 [[Perception]] check (DC 28 in forests or swamps) to detect the shambler's true nature."
 abilities_mid:
   - name: "Electric Surge"
-    desc: "  Whenever the shambler would take electricity damage or is targeted with an [[electricity]] effect, it gains 12 temporary HP and is [[quickened|quickened]] until the end of its next turn. It can use its extra action to [[Stride]], [[Strike]], or [[Swim]]."
+    desc: "  Whenever the shambler would take electricity damage or is targeted with an [[electricity]] effect, it gains 12 temporary HP and is [[rules/conditions.md#Quickened|quickened]] until the end of its next turn. It can use its extra action to [[Stride]], [[Strike]], or [[Swim]]."
   - name: "Shamble"
     desc: "⬲ __Requirements__ The shambler is in mound form. __Trigger__ A creature unaware of the shambler's true nature comes within 10 feet. __Effect__  The shambler makes a vine [[Strike]] against the creature. Then roll initiative."
 abilities_bot:

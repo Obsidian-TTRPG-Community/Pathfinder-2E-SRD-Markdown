@@ -39,7 +39,7 @@ abilities_bot:
   - name: "Burning Cold Fusillade"
     desc: "⬺  The owb prophet makes three burning cold [[Strike|Strikes]]."
   - name: "Clutching Cold"
-    desc: "  A creature hit by the prophet's burning cold [[Strike]] becomes [[immobilized|immobilized]] in a cluster of binding ice crystals ([[Escape]] DC 31)."
+    desc: "  A creature hit by the prophet's burning cold [[Strike]] becomes [[rules/conditions.md#Immobilized|immobilized]] in a cluster of binding ice crystals ([[Escape]] DC 31)."
   - name: "Curse of Darkness"
     desc: "⬻ ([[curse]], [[darkness]], [[evocation]], [[occult]]);  The owb inflicts a curse on one creature taking persistent cold damage from their burning cold Strike, stealing the victim's vibrancy. The creature must attempt a DC 32 Fortitude save. On a failure, the creature gains light blindness and its coloration turns to washed out shades of gray, along with all equipment it carries, wields, or wears. These effects have an unlimited duration. Regardless of the result of its save, the creature is temporarily immune for 1 minute. If the owb uses this ability on a caligni, the curse can't be removed short of [[wish]] or similar powerful magic."
   - name: "Shadow's Swiftness"
@@ -61,7 +61,7 @@ attacks:
   - name: Melee
     desc: "⬻ claw +27 ([[agile]], [[magical]]); __Damage__ 2d8+11 (2d8+11) slashing plus 2d8 (2d8) cold"
   - name: Ranged
-    desc: "⬻ burning cold +25 ([[magical]], [[range|range 120 feet]]); __Damage__ 4d8 (4d8) cold plus 2d8 (2d8) [[persistent damage|persistent cold]] and clutching cold"
+    desc: "⬻ burning cold +25 ([[magical]], [[range|range 120 feet]]); __Damage__ 4d8 (4d8) cold plus 2d8 (2d8) [[rules/conditions.md#Persistent%20Damage|persistent cold]] and clutching cold"
 
 spellcasting:
   - name: "Occult Innate Spells"

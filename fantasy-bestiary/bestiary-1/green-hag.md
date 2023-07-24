@@ -43,7 +43,7 @@ abilities_bot:
   - name: "Change Shape"
     desc: "⬻ ([[concentrate]], [[occult]], [[polymorph]], [[transmutation]]);  The green hag can take on the appearance of any Medium humanoid woman. This doesn't change her Speed or her attack and damage bonuses with her [[Strike|Strikes]], but might change the damage type her [[Strike|Strikes]] deal (typically to bludgeoning)."
   - name: "Enfeebling Humors"
-    desc: " ([[necromancy]], [[occult]]);  A creature damaged by a hag's claw must succeed at a DC 20 Fortitude save or be [[enfeebled|enfeebled 1]] for 1 day. On a critical failure, or if it gets hit again and fails its save a second time, it's [[enfeebled|enfeebled 2]] for 1 day."
+    desc: " ([[necromancy]], [[occult]]);  A creature damaged by a hag's claw must succeed at a DC 20 Fortitude save or be [[rules/conditions.md#Enfeebled|enfeebled 1]] for 1 day. On a critical failure, or if it gets hit again and fails its save a second time, it's [[rules/conditions.md#Enfeebled|enfeebled 2]] for 1 day."
   - name: "Exhale Miasma"
     desc: "⬺ ([[necromancy]], [[occult]]);  The green hag exhales a miasma of green vapors. Each living creature in a 15-foot cone is affected by her enfeebling humors (attempting a save as normal). She can't use Exhale Miasma again for 1d4 (1d4) rounds."
 

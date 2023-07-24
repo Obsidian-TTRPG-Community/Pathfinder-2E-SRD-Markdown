@@ -34,10 +34,10 @@ abilityMods: [0, 5, 4, 2, 3, 5]
 
 abilities_mid:
   - name: "Cavern Dependent"
-    desc: "  A lampad is mystically bonded to a single cavern or other self-contained underground area and must remain within 300 feet of it. If they move beyond that range, they become [[sickened|sickened 1]] and are unable to recover. They must attempt a DC 19 Fortitude save every hour or increase the [[sickened|sickened]] value by 1 (to a maximum of [[sickened|sickened 4]]). After 24 hours, they become [[drained|drained 1]], with this value increasing by 1 every additional 24 hours. A lampad can perform a 24-hour ritual to bond to a new cavern."
+    desc: "  A lampad is mystically bonded to a single cavern or other self-contained underground area and must remain within 300 feet of it. If they move beyond that range, they become [[rules/conditions.md#Sickened|sickened 1]] and are unable to recover. They must attempt a DC 19 Fortitude save every hour or increase the [[rules/conditions.md#Sickened|sickened]] value by 1 (to a maximum of [[rules/conditions.md#Sickened|sickened 4]]). After 24 hours, they become [[rules/conditions.md#Drained|drained 1]], with this value increasing by 1 every additional 24 hours. A lampad can perform a 24-hour ritual to bond to a new cavern."
 abilities_bot:
   - name: "Weep"
-    desc: "⬻ ([[auditory]], [[emotion]], [[enchantment]], [[mental]], [[primal]]); __Frequency__ once per round  __Effect__  The lampad begins a heart-wrenching fit of weeping, inspiring sympathetic sobbing in nearby creatures. Each non-lampad creature within 30 feet who hears the lampad's weeping must succeed at a DC 20 Will save or be unable to use reactions for 1 round and [[slowed|slowed 1]] on its next turn as it sobs uncontrollably."
+    desc: "⬻ ([[auditory]], [[emotion]], [[enchantment]], [[mental]], [[primal]]); __Frequency__ once per round  __Effect__  The lampad begins a heart-wrenching fit of weeping, inspiring sympathetic sobbing in nearby creatures. Each non-lampad creature within 30 feet who hears the lampad's weeping must succeed at a DC 20 Will save or be unable to use reactions for 1 round and [[rules/conditions.md#Slowed|slowed 1]] on its next turn as it sobs uncontrollably."
 
 speed: 25 feet, climb 25 feet
 

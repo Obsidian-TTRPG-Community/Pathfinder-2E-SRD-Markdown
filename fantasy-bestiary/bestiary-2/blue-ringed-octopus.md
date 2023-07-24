@@ -32,13 +32,13 @@ abilityMods: [0, 3, 1, -4, 3, 0]
 
 abilities_bot:
   - name: "Blue-Ringed Octopus Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 17 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d4 (1d4) poison damage (1 round) __Stage 2__ 1d6 (1d6) poison damage (1 round) __Stage 3__ 1d6 (1d6) poison damage and [[paralyzed|paralyzed]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 17 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d4 (1d4) poison damage (1 round) __Stage 2__ 1d6 (1d6) poison damage (1 round) __Stage 3__ 1d6 (1d6) poison damage and [[rules/conditions.md#Paralyzed|paralyzed]] (1 round)"
   - name: "Camouflage"
     desc: "  The blue-ringed octopus can change the color of its skin to [[Hide]] even if it doesn't have cover."
   - name: "Jet"
     desc: "⬺  The blue-ringed octopus moves up to 60 feet in a straight line through the water without triggering reactions."
   - name: "Toxic Bite"
-    desc: "⬻ __Requirements__ The blue-ringed octopus has a creature [[grabbed|grabbed]]  __Effect__  The blue-ringed octopus makes a beak [[Strike]] against the [[grabbed|grabbed]] creature. If it hits, it injects additional poison, causing its venom to gain the [[virulent]] trait."
+    desc: "⬻ __Requirements__ The blue-ringed octopus has a creature [[rules/conditions.md#Grabbed|grabbed]]  __Effect__  The blue-ringed octopus makes a beak [[Strike]] against the [[rules/conditions.md#Grabbed|grabbed]] creature. If it hits, it injects additional poison, causing its venom to gain the [[virulent]] trait."
 
 speed: swim 25 feet
 

@@ -37,7 +37,7 @@ abilities_bot:
   - name: "Diabolic Healing"
     desc: "⬻ ([[concentrate]], [[divine]], [[healing]], [[necromancy]]); __Frequency__ once per round  __Effect__  The imp regains 1d6 (1d6) Hit Points."
   - name: "Imp Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 16 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d6 (1d6) poison and [[clumsy|clumsy 1]] (1 round) __Stage 2__ 1d6 (1d6) poison damage, [[clumsy|clumsy 1]], and [[slowed|slowed 1]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 16 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d6 (1d6) poison and [[rules/conditions.md#Clumsy|clumsy 1]] (1 round) __Stage 2__ 1d6 (1d6) poison damage, [[rules/conditions.md#Clumsy|clumsy 1]], and [[rules/conditions.md#Slowed|slowed 1]] (1 round)"
   - name: "Infernal Temptation"
     desc: "⬻ ([[divine]], [[concentrate]], [[enchantment]], [[evil]], [[fortune]]); __Frequency__ once per day  __Effect__  The imp offers a non-fiend within 15 feet a bargain, granting a boon of good luck if the creature accepts. The boon lasts for 1 hour once accepted. If the creature dies while the boon is in place, its soul travels to Hell, where it is bound for eternity and unable to be raised or resurrected except by wish or similar magic. Once during the hour, the creature can roll an attack roll or saving throw twice and use the higher result."
 

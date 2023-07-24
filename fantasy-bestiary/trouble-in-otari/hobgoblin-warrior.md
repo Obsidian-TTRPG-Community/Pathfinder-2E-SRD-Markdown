@@ -38,7 +38,7 @@ abilities_bot:
   - name: "Stride"
     desc: "⬻  25 feet"
   - name: "Melee Strike"
-    desc: "⬻ ([[versatile P]]);  Damage 1d8+3 (1d8+3) slashing"
+    desc: "⬻ ([[versatile|versatile P]]);  Damage 1d8+3 (1d8+3) slashing"
   - name: "Ranged Strike"
     desc: "⬻ ([[deadly 1d10]], [[range increment 60 feet]]);  Damage 1d6 (1d6) piercing"
 abilities_top:

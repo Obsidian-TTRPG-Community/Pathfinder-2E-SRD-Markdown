@@ -33,14 +33,14 @@ abilityMods: [-5, 6, 0, 2, 4, 2]
 
 abilities_mid:
   - name: "Glow"
-    desc: " ([[aura]], [[light]]);  20 feet. A will-o'-wisp is itself naturally [[invisible|invisible]], but glows with a colored light, casting bright light in the aura and making it visible."
+    desc: " ([[aura]], [[light]]);  20 feet. A will-o'-wisp is itself naturally [[rules/conditions.md#Invisible|invisible]], but glows with a colored light, casting bright light in the aura and making it visible."
   - name: "Magic Immunity"
     desc: "  A will-o'-wisp is immune to all spells except faerie fire, glitterdust, magic missile, and maze."
 abilities_bot:
   - name: "Feed on Fear"
-    desc: "⬻ ([[concentrate]]); __Requirements__ An enemy is under a [[fear]] effect or [[dying|dying]] within 15 feet of the will-o'-wisp.  __Effect__  The will-o'-wisp feeds on the creature's terror. It regains 2d4 (2d4) Hit Points, and if it has Gone Dark, its glow reignites. A will-o'-wisp can take this action only once per round."
+    desc: "⬻ ([[concentrate]]); __Requirements__ An enemy is under a [[fear]] effect or [[rules/conditions.md#Dying|dying]] within 15 feet of the will-o'-wisp.  __Effect__  The will-o'-wisp feeds on the creature's terror. It regains 2d4 (2d4) Hit Points, and if it has Gone Dark, its glow reignites. A will-o'-wisp can take this action only once per round."
   - name: "Go Dark"
-    desc: "⬻ ([[concentrate]]);  The will-o'-wisp extinguishes its glow, becoming [[invisible|invisible]]. It can end this effect with another use of this action. If it uses its shock attack while [[invisible|invisible]], the arc of electricity lets any observer determine its location, making the will-o'-wisp only [[hidden|hidden]] to all observers until it moves."
+    desc: "⬻ ([[concentrate]]);  The will-o'-wisp extinguishes its glow, becoming [[rules/conditions.md#Invisible|invisible]]. It can end this effect with another use of this action. If it uses its shock attack while [[rules/conditions.md#Invisible|invisible]], the arc of electricity lets any observer determine its location, making the will-o'-wisp only [[rules/conditions.md#Hidden|hidden]] to all observers until it moves."
 
 speed: fly 50 feet
 

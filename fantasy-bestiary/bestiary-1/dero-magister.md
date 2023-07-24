@@ -40,7 +40,7 @@ abilities_top:
     desc: "[[aklys]];"
 abilities_bot:
   - name: "Cytillesh Stare"
-    desc: "⬻ ([[concentrate]], [[incapacitation]], [[mental]], [[visual]]); __Frequency__ once per round  __Effect__  The magister focuses their gaze on a creature they can see within 30 feet. The target is [[dazzled|dazzled]] for 1 round and must succeed at a DC 24 Will saving throw or be [[confused|confused]] for 1 round."
+    desc: "⬻ ([[concentrate]], [[incapacitation]], [[mental]], [[visual]]); __Frequency__ once per round  __Effect__  The magister focuses their gaze on a creature they can see within 30 feet. The target is [[rules/conditions.md#Dazzled|dazzled]] for 1 round and must succeed at a DC 24 Will saving throw or be [[rules/conditions.md#Confused|confused]] for 1 round."
 
 speed: 20 feet
 

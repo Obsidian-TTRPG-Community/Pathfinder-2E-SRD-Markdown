@@ -37,9 +37,9 @@ abilities_mid:
     desc: "  Whenever the drakauthix takes at least 10 slashing damage, it releases a cloud of brown spores that has the effect of obscuring mist for 1 minute, centered around the drakauthix. This cloud of spores does not move with the drakauthix, nor is it displaced by its movement."
 abilities_bot:
   - name: "Reel In"
-    desc: "⬻  The drakauthix pulls all creatures it has [[grabbed|grabbed 15]] feet closer to itself."
+    desc: "⬻  The drakauthix pulls all creatures it has [[rules/conditions.md#Grabbed|grabbed 15]] feet closer to itself."
   - name: "Spore Tendrils"
-    desc: "⬻  The tendrils that cover the drakauthix's body reach out and infest adjacent creatures, dealing 4d6 (4d6) poison damage and 1d6 (1d6) [[persistent damage|persistent poison damage]]. A creature can attempt a basic DC 27 Reflex save to reduce this damage, but one [[grabbed|grabbed]] by the drakauthix takes a –4 circumstance penalty to this save."
+    desc: "⬻  The tendrils that cover the drakauthix's body reach out and infest adjacent creatures, dealing 4d6 (4d6) poison damage and 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent poison damage]]. A creature can attempt a basic DC 27 Reflex save to reduce this damage, but one [[rules/conditions.md#Grabbed|grabbed]] by the drakauthix takes a –4 circumstance penalty to this save."
   - name: "Whirlwind of Hooks"
     desc: "⬺  ]The drakauthix whirls, whipping creatures around it. The drakauthix makes a tentacle [[Strike]] against every creature within its reach."
 

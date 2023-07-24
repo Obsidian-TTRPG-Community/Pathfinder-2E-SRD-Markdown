@@ -36,7 +36,7 @@ abilities_bot:
   - name: "Undulate"
     desc: "⬻  The giant whiptail centipede [[Stride|Strides]] or [[Step|Steps]]. During this movement, it can pass through spaces as narrow as 5 feet without [[Squeeze|Squeezing]]."
   - name: "Whiptail Centipede Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 19 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d10 (1d10) poison damage and [[clumsy|clumsy 1]] (1 round) __Stage 2__ 2d10 (2d10) poison damage and [[clumsy|clumsy 1]] (1 round) __Stage 3__ 2d10 (2d10) poison damage and [[clumsy|clumsy 2]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 19 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d10 (1d10) poison damage and [[rules/conditions.md#Clumsy|clumsy 1]] (1 round) __Stage 2__ 2d10 (2d10) poison damage and [[rules/conditions.md#Clumsy|clumsy 1]] (1 round) __Stage 3__ 2d10 (2d10) poison damage and [[rules/conditions.md#Clumsy|clumsy 2]] (1 round)"
 
 speed: 30 feet, climb 30 feet
 

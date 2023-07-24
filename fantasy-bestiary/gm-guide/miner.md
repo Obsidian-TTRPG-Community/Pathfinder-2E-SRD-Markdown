@@ -33,7 +33,7 @@ abilityMods: [2, 1, 3, 0, 2, 0]
 
 abilities_bot:
   - name: "Piton Pin"
-    desc: "⬻ ([[attack]]); __Requirements__ The miner has their hammer in hand  __Effect__  The miner Interacts to draw a piton, then hammers it into a creature to pin them in place, attempting an [[Athletics]] check against the target's Reflex DC. On a hit, the target is [[immobilized|immobilized]] until it removes the piton with a successful DC 10 [[Athletics]] check made as an [[Interact]] action."
+    desc: "⬻ ([[attack]]); __Requirements__ The miner has their hammer in hand  __Effect__  The miner Interacts to draw a piton, then hammers it into a creature to pin them in place, attempting an [[Athletics]] check against the target's Reflex DC. On a hit, the target is [[rules/conditions.md#Immobilized|immobilized]] until it removes the piton with a successful DC 10 [[Athletics]] check made as an [[Interact]] action."
 abilities_top:
   - name: Items
     desc: "hammer, lantern, miner's harness (functions as leather armor), pick, piton (5);"

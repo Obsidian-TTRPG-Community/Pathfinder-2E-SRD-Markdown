@@ -33,15 +33,15 @@ abilityMods: [5, 5, 4, 3, 4, 4]
 
 abilities_bot:
   - name: "Osyluth Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 25 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d6 (2d6) poison damage, [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 3d6 (3d6) poison damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 3__ 3d6 (3d6) poison damage and [[enfeebled|enfeebled 2]]. (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 25 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d6 (2d6) poison damage, [[rules/conditions.md#Enfeebled|enfeebled 1]] (1 round) __Stage 2__ 3d6 (3d6) poison damage and [[rules/conditions.md#Enfeebled|enfeebled 1]] (1 round) __Stage 3__ 3d6 (3d6) poison damage and [[rules/conditions.md#Enfeebled|enfeebled 2]]. (1 round)"
   - name: "Quick Invisibility"
     desc: "  The osyluth can cast innate invisibility using only 1 action."
   - name: "Sadistic Strike"
-    desc: "  An osyluth deals an extra 2d6 (2d6) damage whenever they [[Strike]] an [[enfeebled|enfeebled]], [[frightened|frightened]], or [[prone|prone]] creature."
+    desc: "  An osyluth deals an extra 2d6 (2d6) damage whenever they [[Strike]] an [[rules/conditions.md#Enfeebled|enfeebled]], [[rules/conditions.md#Frightened|frightened]], or [[rules/conditions.md#Prone|prone]] creature."
   - name: "Stygian Inquisitor"
     desc: "⬻ ([[linguistic]], [[mental]]);  The osyluth telepathically questions a creature affected by zone of truth. After 1 round, if the creature intentionally refuses to answer the question, it takes 2d6 (2d6) mental damage."
   - name: "Tail Sweep"
-    desc: "⬻  The osyluth sweeps their tail in a 15-foot cone. Each creature in the cone must succeed at a DC 26 Reflex save or be knocked [[prone|prone]]."
+    desc: "⬻  The osyluth sweeps their tail in a 15-foot cone. Each creature in the cone must succeed at a DC 26 Reflex save or be knocked [[rules/conditions.md#Prone|prone]]."
 
 speed: 35 feet, fly 30 feet
 

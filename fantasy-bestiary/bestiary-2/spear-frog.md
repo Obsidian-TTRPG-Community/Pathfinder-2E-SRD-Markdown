@@ -34,9 +34,9 @@ abilities_mid:
     desc: "  Anytime a creature touches the spear frog or an adjacent creature [[Strike|Strikes]] the spear frog with a melee attack, that creature is exposed to spear frog venom."
 abilities_bot:
   - name: "Spear Frog Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 15 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d4 (1d4) poison damage (1 round) __Stage 2__ 1d6 (1d6) poison damage and [[enfeebled|enfeebled 1]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 15 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d4 (1d4) poison damage (1 round) __Stage 2__ 1d6 (1d6) poison damage and [[rules/conditions.md#Enfeebled|enfeebled 1]] (1 round)"
   - name: "Sticky Feet"
-    desc: "  Spear frogs are not [[flat-footed|flat-footed]] when Balancing on a narrow surface, and they gain a +4 bonus to Reflex saves to avoid falling."
+    desc: "  Spear frogs are not [[rules/conditions.md#Flat-Footed|flat-footed]] when Balancing on a narrow surface, and they gain a +4 bonus to Reflex saves to avoid falling."
 
 speed: 20 feet, climb 20 feet, swim 20 feet
 

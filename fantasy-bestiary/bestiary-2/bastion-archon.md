@@ -45,9 +45,9 @@ abilities_bot:
   - name: "Blinding Beams"
     desc: "⭓ __Trigger__ The bastion archon hits a creature with two fist [[Strike|Strikes]] this turn and can use its Holy Beam; __Effect__  The bastion archon fires its Holy Beam at only the creature it hit twice. The creature's save result is one degree of success worse than the result it rolled."
   - name: "Entrench"
-    desc: "⬻  The bastion archon locks itself in place, becoming voluntarily [[immobilized|immobilized]]. While Entrenched, the archon can't be forcibly moved or tripped, and it gains a +2 circumstance bonus to AC and Reflex saves. Entrench ends automatically as soon as the bastion archon uses another move action."
+    desc: "⬻  The bastion archon locks itself in place, becoming voluntarily [[rules/conditions.md#Immobilized|immobilized]]. While Entrenched, the archon can't be forcibly moved or tripped, and it gains a +2 circumstance bonus to AC and Reflex saves. Entrench ends automatically as soon as the bastion archon uses another move action."
   - name: "Holy Beam"
-    desc: "⬺ ([[divine]], [[good]], [[incapacitation]], [[light]]);  The bastion archon releases a blinding beam of holy light in a 500-foot line that deals 20d6 (20d6) good damage to non-archons in the area, with a DC 38 Reflex save. The bastion archon can't use Holy Beam again for 1d4 (1d4) rounds.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature takes half damage.\n__Failure__ The creature takes full damage and is [[blinded|blinded]] for 1d4 (1d4) rounds.\n__Critical Failure__ The creature takes double damage and is [[blinded|blinded]] permanently."
+    desc: "⬺ ([[divine]], [[good]], [[incapacitation]], [[light]]);  The bastion archon releases a blinding beam of holy light in a 500-foot line that deals 20d6 (20d6) good damage to non-archons in the area, with a DC 38 Reflex save. The bastion archon can't use Holy Beam again for 1d4 (1d4) rounds.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature takes half damage.\n__Failure__ The creature takes full damage and is [[rules/conditions.md#Blinded|blinded]] for 1d4 (1d4) rounds.\n__Critical Failure__ The creature takes double damage and is [[rules/conditions.md#Blinded|blinded]] permanently."
 
 speed: 70 feet; air walk;
 

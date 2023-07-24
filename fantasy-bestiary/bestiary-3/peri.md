@@ -33,7 +33,7 @@ abilityMods: [7, 7, 4, 5, 4, 8]
 
 abilities_top:
   - name: "Smoke Vision"
-    desc: "  A peri can see through smoke with ease, and they ignore the [[concealed|concealed]] condition from smoke."
+    desc: "  A peri can see through smoke with ease, and they ignore the [[rules/conditions.md#Concealed|concealed]] condition from smoke."
 abilities_mid:
   - name: "Shining Blaze"
     desc: " ([[aura]], [[divine]], [[evocation]], [[fire]]);  5 feet, 6d6 (6d6) fire damage (DC 31 basic Reflex)"

@@ -32,7 +32,7 @@ abilityMods: [0, 5, 2, -5, 0, -4]
 
 abilities_bot:
   - name: "Scorpion Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 18 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d6 (1d6) poison damage (1 round) __Stage 2__ 1d6 (1d6) poison damage and [[enfeebled|enfeebled 1]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 18 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d6 (1d6) poison damage (1 round) __Stage 2__ 1d6 (1d6) poison damage and [[rules/conditions.md#Enfeebled|enfeebled 1]] (1 round)"
   - name: "Swarming Stings"
     desc: "⬻  Each enemy in the swarm's space takes 2d8 (2d8) piercing damage (DC 21 basic Reflex save) and is exposed to scorpion venom."
 

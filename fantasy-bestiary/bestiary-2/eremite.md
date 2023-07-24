@@ -33,21 +33,21 @@ abilityMods: [9, 6, 7, 6, 6, 10]
 
 abilities_top:
   - name: "Painsight"
-    desc: " ([[divination]], [[divine]]);  A velstrac automatically knows whether a creature it sees has any of the [[doomed|doomed]], [[dying|dying]], and [[wounded|wounded]] conditions, as well as the value of those conditions."
+    desc: " ([[divination]], [[divine]]);  A velstrac automatically knows whether a creature it sees has any of the [[rules/conditions.md#Doomed|doomed]], [[rules/conditions.md#Dying|dying]], and [[rules/conditions.md#Wounded|wounded]] conditions, as well as the value of those conditions."
 abilities_mid:
   - name: "Ignore Pain"
     desc: "  An eremite's actions can't be disrupted due to damage or [[Strike|Strikes]] (such as [[Attack of Opportunity]])."
   - name: "Paralytic Perfection"
-    desc: " ([[aura]], [[divine]], [[enchantment]], [[fear]], [[incapacitation]], [[mental]], [[visual]]);  30 feet. When a creature ends its turn in the aura, it feels compelled to offer pieces of its own flesh to the eremite. The creature must succeed at a DC 40 Will save or become [[paralyzed|paralyzed]] for 1 round."
+    desc: " ([[aura]], [[divine]], [[enchantment]], [[fear]], [[incapacitation]], [[mental]], [[visual]]);  30 feet. When a creature ends its turn in the aura, it feels compelled to offer pieces of its own flesh to the eremite. The creature must succeed at a DC 40 Will save or become [[rules/conditions.md#Paralyzed|paralyzed]] for 1 round."
 abilities_bot:
   - name: "Evisceration"
-    desc: "⬻ ([[attack]]); __Requirements__ The eremite has a creature [[grabbed|grabbed]]  __Effect__  The eremite excises flesh or bone from a creature it has [[grabbed|grabbed]]. The target takes 6d10 (6d10) [[persistent damage|persistent bleed damage]]."
+    desc: "⬻ ([[attack]]); __Requirements__ The eremite has a creature [[rules/conditions.md#Grabbed|grabbed]]  __Effect__  The eremite excises flesh or bone from a creature it has [[rules/conditions.md#Grabbed|grabbed]]. The target takes 6d10 (6d10) [[rules/conditions.md#Persistent%20Damage|persistent bleed damage]]."
   - name: "Exquisite Pain"
-    desc: "  An eremite's knowledge of pressure points and pain centers is unsurpassed. A creature hit by an eremite's melee [[Strike|Strikes]] must succeed at a DC 40 Fortitude save or be [[stunned|stunned 2]] ([[stunned|stunned 4]] on a critical failure). A creature that critically succeeds is temporarily immune for 24 hours."
+    desc: "  An eremite's knowledge of pressure points and pain centers is unsurpassed. A creature hit by an eremite's melee [[Strike|Strikes]] must succeed at a DC 40 Fortitude save or be [[rules/conditions.md#Stunned|stunned 2]] ([[rules/conditions.md#Stunned|stunned 4]] on a critical failure). A creature that critically succeeds is temporarily immune for 24 hours."
   - name: "Focus Gaze"
-    desc: "⬻ ([[concentrate]], [[divine]], [[enchantment]], [[fear]], [[mental]], [[visual]]);  The eremite stares at a creature they can see within 30 feet. The creature must immediately attempt a Will save against paralytic perfection. In addition, if the creature was already [[paralyzed|paralyzed]], on a failed save, its unnatural longing causes it to become [[doomed|doomed 1]]. After attempting this save, the creature is then temporarily immune until the start of the eremite's next turn."
+    desc: "⬻ ([[concentrate]], [[divine]], [[enchantment]], [[fear]], [[mental]], [[visual]]);  The eremite stares at a creature they can see within 30 feet. The creature must immediately attempt a Will save against paralytic perfection. In addition, if the creature was already [[rules/conditions.md#Paralyzed|paralyzed]], on a failed save, its unnatural longing causes it to become [[rules/conditions.md#Doomed|doomed 1]]. After attempting this save, the creature is then temporarily immune until the start of the eremite's next turn."
   - name: "Graft Flesh"
-    desc: "⬻ __Requirements__ The eremite holds a piece of flesh they collected via Evisceration  __Effect__  The eremite attaches the stolen flesh to themself. They either regain 100 Hit Points; reduce the value of their [[clumsy|clumsy]], [[drained|drained]], [[enfeebled|enfeebled]], or [[stupefied|stupefied]] condition by 3; or reduce the stage of any affliction affecting them by 3."
+    desc: "⬻ __Requirements__ The eremite holds a piece of flesh they collected via Evisceration  __Effect__  The eremite attaches the stolen flesh to themself. They either regain 100 Hit Points; reduce the value of their [[rules/conditions.md#Clumsy|clumsy]], [[rules/conditions.md#Drained|drained]], [[rules/conditions.md#Enfeebled|enfeebled]], or [[rules/conditions.md#Stupefied|stupefied]] condition by 3; or reduce the stage of any affliction affecting them by 3."
   - name: "Shadow Traveler"
     desc: " ([[divine]], [[divination]]);  When an eremite uses plane shift or shadow walk, they arrive at exactly their intended destination."
 
@@ -65,9 +65,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +39 ([[evil]], [[magical]]); __Damage__ 4d8+19 (4d8+19) piercing plus 2d6 (2d6) [[persistent damage|persistent bleed]] and exquisite pain"
+    desc: "⬻ jaws +39 ([[evil]], [[magical]]); __Damage__ 4d8+19 (4d8+19) piercing plus 2d6 (2d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed]] and exquisite pain"
   - name: Melee
-    desc: "⬻ claw +39 ([[agile]], [[evil]], [[magical]]); __Damage__ 3d6+19 (3d6+19) slashing plus 2d6 (2d6) [[persistent damage|persistent bleed]], exquisite pain, and [[Improved Grab]]"
+    desc: "⬻ claw +39 ([[agile]], [[evil]], [[magical]]); __Damage__ 3d6+19 (3d6+19) slashing plus 2d6 (2d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed]], exquisite pain, and [[Improved Grab]]"
 
 spellcasting:
   - name: "Divine Innate Spells"

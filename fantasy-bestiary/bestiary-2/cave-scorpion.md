@@ -31,7 +31,7 @@ abilityMods: [2, 4, 3, -5, 2, -4]
 
 abilities_bot:
   - name: "Cave Scorpion Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 17 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d4 (1d4) poison damage (1 round) __Stage 2__ 1d6 (1d6) poison damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 3__ 1d8 (1d8) poison damage and [[enfeebled|enfeebled 2]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 17 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d4 (1d4) poison damage (1 round) __Stage 2__ 1d6 (1d6) poison damage and [[rules/conditions.md#Enfeebled|enfeebled 1]] (1 round) __Stage 3__ 1d8 (1d8) poison damage and [[rules/conditions.md#Enfeebled|enfeebled 2]] (1 round)"
 
 speed: 30 feet, climb 15 feet
 

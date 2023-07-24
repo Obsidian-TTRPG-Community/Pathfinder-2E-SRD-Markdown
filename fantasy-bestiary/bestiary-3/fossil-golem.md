@@ -34,12 +34,12 @@ abilityMods: [7, 2, 6, -5, 0, -5]
 
 abilities_mid:
   - name: "Golem Antimagic"
-    desc: "  harmed by cold and water (5d10 (5d10), 2d8 (2d8) from areas and [[persistent damage|persistent damage]]); healed by acid (area 2d8 (2d8) HP); [[slowed|slowed]] by earth."
+    desc: "  harmed by cold and water (5d10 (5d10), 2d8 (2d8) from areas and [[rules/conditions.md#Persistent%20Damage|persistent damage]]); healed by acid (area 2d8 (2d8) HP); [[rules/conditions.md#Slowed|slowed]] by earth."
   - name: "Vulnerable to Stone to Flesh"
     desc: "  A [[stone to flesh]] spell negates the golem's golem antimagic and its resistance to physical damage for 1 round. A [[flesh to stone]] spell reverses this effect immediately."
 abilities_bot:
   - name: "Fossilization"
-    desc: " ([[arcane]], [[incapacitation]], [[transmutation]]);  The first time each round a creature takes damage from the fossil golem's jaws, the target must attempt a DC 32 Fortitude save. If it fails and has not already been [[slowed|slowed]] by this ability, it becomes [[slowed|slowed 1]] for 1 minute. If the creature was already [[slowed|slowed]] by this ability, a failed save causes it to be [[petrified|petrified]] permanently."
+    desc: " ([[arcane]], [[incapacitation]], [[transmutation]]);  The first time each round a creature takes damage from the fossil golem's jaws, the target must attempt a DC 32 Fortitude save. If it fails and has not already been [[rules/conditions.md#Slowed|slowed]] by this ability, it becomes [[rules/conditions.md#Slowed|slowed 1]] for 1 minute. If the creature was already [[rules/conditions.md#Slowed|slowed]] by this ability, a failed save causes it to be [[rules/conditions.md#Petrified|petrified]] permanently."
   - name: "Reassemble"
     desc: "⬻  The fossil golem reorganizes its bones, increasing its reach to 25 feet and reducing its Speed to 15 feet. It can revert to its original form by taking this action again."
 

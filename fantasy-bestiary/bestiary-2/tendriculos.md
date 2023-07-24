@@ -37,11 +37,11 @@ abilities_mid:
     desc: "⬲  Tentacle only."
 abilities_bot:
   - name: "Rampant Growth"
-    desc: "⬻ __Requirements__ A creature the tendriculos has Swallowed  __Effect__  Whole has taken damage since the end of the tendriculos's last turn, and the tendriculos hasn't used any other actions this turn; The tendriculos regains 3d8 (3d8) HP and recovers from the [[fatigued|fatigued]] and [[slowed|slowed]] conditions. It reduces any [[enfeebled|enfeebled]] value it has by 2."
+    desc: "⬻ __Requirements__ A creature the tendriculos has Swallowed  __Effect__  Whole has taken damage since the end of the tendriculos's last turn, and the tendriculos hasn't used any other actions this turn; The tendriculos regains 3d8 (3d8) HP and recovers from the [[rules/conditions.md#Fatigued|fatigued]] and [[rules/conditions.md#Slowed|slowed]] conditions. It reduces any [[rules/conditions.md#Enfeebled|enfeebled]] value it has by 2."
   - name: "Swallow Whole"
     desc: "⬻ ([[attack]]);  Large, 2d10+7 (2d10+7) acid plus tendriculos venom, Rupture 14."
   - name: "Tendriculos Venom"
-    desc: " ([[incapacitation]], [[poison]]);  __Saving Throw__ DC 21 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ [[clumsy|clumsy 2]] (1 round) __Stage 2__ [[clumsy|clumsy 2]] and [[slowed|slowed 2]] (1 round) __Stage 3__ [[paralyzed|paralyzed]] (1 round)"
+    desc: " ([[incapacitation]], [[poison]]);  __Saving Throw__ DC 21 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ [[rules/conditions.md#Clumsy|clumsy 2]] (1 round) __Stage 2__ [[rules/conditions.md#Clumsy|clumsy 2]] and [[rules/conditions.md#Slowed|slowed 2]] (1 round) __Stage 3__ [[rules/conditions.md#Paralyzed|paralyzed]] (1 round)"
 
 speed: 20 feet
 

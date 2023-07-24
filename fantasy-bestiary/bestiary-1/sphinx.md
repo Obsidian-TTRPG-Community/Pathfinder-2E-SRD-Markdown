@@ -37,9 +37,9 @@ abilities_bot:
   - name: "Claw Rake"
     desc: "⬽  The sphinx rears back on their hind legs and makes two claw [[Strike|Strikes]] at the same target, using the same attack bonus as their highest melee attack. If both attacks deal damage, the target takes extra damage equal to one claw [[Strike]]."
   - name: "Pounce"
-    desc: "⬻  The sphinx [[Stride|Strides]] and makes a [[Strike]] at the end of that movement. If the sphinx began this action [[hidden|hidden]], they remain [[hidden|hidden]] until after the attack."
+    desc: "⬻  The sphinx [[Stride|Strides]] and makes a [[Strike]] at the end of that movement. If the sphinx began this action [[rules/conditions.md#Hidden|hidden]], they remain [[rules/conditions.md#Hidden|hidden]] until after the attack."
   - name: "Warding Glyph"
-    desc: "  Once per week, a Sphinx can create a magical symbol as though casting a heightened [[glyph of warding]] spell. The sphinx usually shapes the glyph to take the form of a written riddle, and sets the password to the answer. A creature that gives the wrong answer or tries to pass without answering must succeed at a DC 26 Will save or suffer one of the following spell effects, chosen by the sphinx when creating the symbol: synaptic pulse (5th), charm (4th), fear (3rd), phantom pain (3rd), sleep (3rd). The sphinx learns the identity of any creature that answers the riddle and tends to be [[friendly|friendly]] to them."
+    desc: "  Once per week, a Sphinx can create a magical symbol as though casting a heightened [[glyph of warding]] spell. The sphinx usually shapes the glyph to take the form of a written riddle, and sets the password to the answer. A creature that gives the wrong answer or tries to pass without answering must succeed at a DC 26 Will save or suffer one of the following spell effects, chosen by the sphinx when creating the symbol: synaptic pulse (5th), charm (4th), fear (3rd), phantom pain (3rd), sleep (3rd). The sphinx learns the identity of any creature that answers the riddle and tends to be [[rules/conditions.md#Friendly|friendly]] to them."
 
 speed: 35 feet, fly 40 feet
 

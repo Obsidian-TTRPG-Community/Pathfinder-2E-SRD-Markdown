@@ -35,7 +35,7 @@ abilities_bot:
   - name: "Swiftness"
     desc: "  The living thunderclap doesn't trigger reactions when it moves."
   - name: "Thunderbolt"
-    desc: "⬺ ([[electricity]], [[evocation]], [[primal]], [[sonic]]);  The living thunderclap emits a bolt of lightning that crashes with deafening thunder. The living thunderclap makes a lightning bolt [[Strike]] that deals 1d12 (1d12) electricity damage. If it hits, the target and any creatures within a 15-foot emanation around the target take 2d6 (2d6) sonic damage and must attempt a DC 18 basic Fortitude save. Any creature that fails its save is also [[deafened|deafened]] for 1d4 (1d4) rounds."
+    desc: "⬺ ([[electricity]], [[evocation]], [[primal]], [[sonic]]);  The living thunderclap emits a bolt of lightning that crashes with deafening thunder. The living thunderclap makes a lightning bolt [[Strike]] that deals 1d12 (1d12) electricity damage. If it hits, the target and any creatures within a 15-foot emanation around the target take 2d6 (2d6) sonic damage and must attempt a DC 18 basic Fortitude save. Any creature that fails its save is also [[rules/conditions.md#Deafened|deafened]] for 1d4 (1d4) rounds."
 
 speed: fly 50 feet; swiftness;
 

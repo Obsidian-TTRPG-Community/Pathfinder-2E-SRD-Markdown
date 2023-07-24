@@ -31,9 +31,9 @@ abilityMods: [3, 2, 3, -4, 2, -1]
 
 abilities_bot:
   - name: "Sticky Feet"
-    desc: "  Spear frogs are not [[flat-footed|flat-footed]] when Balancing on a narrow surface, and they gain a +4 bonus to Reflex saves to avoid falling."
+    desc: "  Spear frogs are not [[rules/conditions.md#Flat-Footed|flat-footed]] when Balancing on a narrow surface, and they gain a +4 bonus to Reflex saves to avoid falling."
   - name: "Tongue Grab"
-    desc: "  A creature hit by the giant frog's tongue becomes [[grabbed|grabbed]] by the giant frog. The creature isn't [[immobilized|immobilized]], but it can't move beyond the reach of the frog's tongue. A creature can sever the tongue with a [[Strike]] against AC 13 that deals at least 2 slashing damage. This deals no damage to the frog but prevents it from using its tongue [[Strike]] until it regrows its tongue, which takes a week."
+    desc: "  A creature hit by the giant frog's tongue becomes [[rules/conditions.md#Grabbed|grabbed]] by the giant frog. The creature isn't [[rules/conditions.md#Immobilized|immobilized]], but it can't move beyond the reach of the frog's tongue. A creature can sever the tongue with a [[Strike]] against AC 13 that deals at least 2 slashing damage. This deals no damage to the frog but prevents it from using its tongue [[Strike]] until it regrows its tongue, which takes a week."
 
 speed: 25 feet, swim 25 feet
 

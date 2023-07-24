@@ -38,7 +38,7 @@ abilities_mid:
     desc: "⭓ __Trigger__ The sasquatch is in forest terrain and rolls [[Stealth]] for Initiative __Effect__  The sasquatch [[Stride|Strides]] up to half their Speed, after which they attempt to [[Demoralize]] a single creature within 15 feet."
 abilities_bot:
   - name: "Brutal Blows"
-    desc: "  On a critical hit with a fist [[Strike]], the target is knocked [[prone|prone]] by the blow."
+    desc: "  On a critical hit with a fist [[Strike]], the target is knocked [[rules/conditions.md#Prone|prone]] by the blow."
   - name: "Forest Stride"
     desc: "  The sasquatch ignores [[terrain|difficult terrain]] in forests."
   - name: "Pungent"

@@ -45,7 +45,7 @@ abilities_bot:
   - name: "Astral Shock"
     desc: "  An astrally projected creature whose astral form is slain by a shulsaga takes a –2 circumstance penalty to the subsequent Fortitude saving throw to resist the strain."
   - name: "Disk Rider"
-    desc: "  A shulsaga can ride atop any floating disk they create. While mounted on a floating disk, a shulsaga gains a +10-foot enhancement bonus to their fly Speed, and the shulsaga can use their feet to wield the disk as a heavy shield (Hardness 5, HP 20, BT 10) A [[broken|broken]] disk grants no bonus to Speed, and the spell ends if the disk is destroyed."
+    desc: "  A shulsaga can ride atop any floating disk they create. While mounted on a floating disk, a shulsaga gains a +10-foot enhancement bonus to their fly Speed, and the shulsaga can use their feet to wield the disk as a heavy shield (Hardness 5, HP 20, BT 10) A [[rules/conditions.md#Broken|broken]] disk grants no bonus to Speed, and the spell ends if the disk is destroyed."
   - name: "Hop On"
     desc: "⭓ __Requirements__ The shulsaga is adjacent to a floating disk they created __Frequency__ once per round  __Effect__  The shulsaga [[Step|Steps]] into the disk's space and rides atop the disk. They can also use this action to dismount from their disk."
 

@@ -41,7 +41,7 @@ abilities_mid:
     desc: "  When the bandit rolls initiative using [[Deception]] or [[Stealth]], they can attempt to [[Demoralize]] one creature as a free action."
 abilities_bot:
   - name: "Dread Striker"
-    desc: "  [[Frightened|Frightened]] creatures are [[flat-footed|flat-footed]] to the bandit."
+    desc: "  [[rules/conditions.md#Frightened|Frightened]] creatures are [[rules/conditions.md#Flat-Footed|flat-footed]] to the bandit."
   - name: "Favored Terrain"
     desc: "  The bandit ignores the effects of non-magical [[terrain|difficult terrain]] in forests."
 

@@ -47,7 +47,7 @@ abilities_bot:
   - name: "Draconic Momentum"
     desc: "  The dragon recharges their Breath Weapon whenever they score a critical hit with a [[Strike]]."
   - name: "Gleaming Armor"
-    desc: "⬻ ([[evocation]], [[light]], [[occult]]); __Frequency__ once per hour  __Effect__  The dragon's golden armor glows with a protective golden light. The dragon gains a +2 status bonus to AC and resistance 10 to energy damage. Each enemy in a 20-foot emanation must succeed at a DC 30 Fortitude save or be [[dazzled|dazzled]]. All these effects last until the end of the dragon's next turn."
+    desc: "⬻ ([[evocation]], [[light]], [[occult]]); __Frequency__ once per hour  __Effect__  The dragon's golden armor glows with a protective golden light. The dragon gains a +2 status bonus to AC and resistance 10 to energy damage. Each enemy in a 20-foot emanation must succeed at a DC 30 Fortitude save or be [[rules/conditions.md#Dazzled|dazzled]]. All these effects last until the end of the dragon's next turn."
 
 speed: 40 feet, fly 120 feet
 

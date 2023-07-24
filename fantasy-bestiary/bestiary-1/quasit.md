@@ -43,7 +43,7 @@ abilities_bot:
   - name: "Change Shape"
     desc: "⬻ ([[concentrate]], [[divine]], [[polymorph]], [[transmutation]]);  <ul class='inner-bullet-list'><li>__Bat__ echolocation 40 feet; Speed 15 feet, fly Speed 30 feet; Melee fangs +7, Damage 1d4-1 (1d4-1) piercing; Melee wing +7 (agile), Damage 1d4-1 (1d4-1) bludgeoning</li><li>__Centipede__ Speed 10 feet, climb 10 feet; Melee mandibles +7 (poison), Damage 1 piercing plus 1d4 (1d4) poison</li><li>__Toad__ scent (imprecise) 30 feet; Speed 5 feet; Melee jaws +7, Damage 1 bludgeoning</li><li>__Wolf__ size Medium; [[scent]] (imprecise) 30 feet; Speed 40 feet, climb 10 feet; Melee jaws +7, Damage 1d10-1 (1d10-1) piercing plus Knockdown</li></ul>"
   - name: "Quasit Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 17 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d6 (1d6) poison (1 round) __Stage 2__ As stage 1 (null) __Stage 3__ 1d6 (1d6) poison and [[slowed|slowed 1]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 17 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d6 (1d6) poison (1 round) __Stage 2__ As stage 1 (null) __Stage 3__ 1d6 (1d6) poison and [[rules/conditions.md#Slowed|slowed 1]] (1 round)"
 
 speed: 15 feet, fly 35 feet
 

@@ -59,7 +59,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +33 ([[magical]], [[reach|reach 10 feet]]); __Damage__ 3d10+16 (3d10+16) piercing plus 1d10 (1d10) [[persistent damage|persistent bleed]]"
+    desc: "⬻ jaws +33 ([[magical]], [[reach|reach 10 feet]]); __Damage__ 3d10+16 (3d10+16) piercing plus 1d10 (1d10) [[rules/conditions.md#Persistent%20Damage|persistent bleed]]"
   - name: Melee
     desc: "⬻ claw +33 ([[agile]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 3d10+16 (3d10+16) slashing"
   - name: Melee

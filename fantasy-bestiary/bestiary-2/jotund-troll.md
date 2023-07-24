@@ -44,7 +44,7 @@ abilities_mid:
     desc: "⬲ "
 abilities_bot:
   - name: "Cacophonous Roar"
-    desc: "⬺ ([[auditory]], [[emotion]], [[enchantment]], [[incapacitation]], [[mental]], [[primal]]);  The jotund troll emits a cacophonous roar from all their heads with a mystical power that distorts the listener's mind. Each non-troll creature within 100 feet must attempt a DC 34 Will save. The jotund troll can't use Cacophonous Roar for 1d4 (1d4) rounds.\n__Critical Success__ The creature is unaffected and is temporarily immune to Cacophonous Roar for 24 hours.\n__Success__ The creature is [[stupefied|stupefied 1]] for 1 round.\n__Failure__ The creature is [[confused|confused]] for 1 round.\n__Critical Failure__ The creature is [[confused|confused]] for 1d4 (1d4) rounds."
+    desc: "⬺ ([[auditory]], [[emotion]], [[enchantment]], [[incapacitation]], [[mental]], [[primal]]);  The jotund troll emits a cacophonous roar from all their heads with a mystical power that distorts the listener's mind. Each non-troll creature within 100 feet must attempt a DC 34 Will save. The jotund troll can't use Cacophonous Roar for 1d4 (1d4) rounds.\n__Critical Success__ The creature is unaffected and is temporarily immune to Cacophonous Roar for 24 hours.\n__Success__ The creature is [[rules/conditions.md#Stupefied|stupefied 1]] for 1 round.\n__Failure__ The creature is [[rules/conditions.md#Confused|confused]] for 1 round.\n__Critical Failure__ The creature is [[rules/conditions.md#Confused|confused]] for 1d4 (1d4) rounds."
   - name: "Fast Swallow"
     desc: "⬲ __Trigger__ The jotund troll Grabs a creature with their jaws __Effect__  The troll uses [[Swallow Whole]]."
   - name: "Ravenous Jaws"

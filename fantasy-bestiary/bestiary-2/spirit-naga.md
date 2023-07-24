@@ -36,7 +36,7 @@ abilities_top:
     desc: "  A spirit naga adds hallucination, mind probe, and suggestion to their coven's spells."
 abilities_bot:
   - name: "Spirit Naga Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 28 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d6 (2d6) poison damage and [[stupefied|stupefied 1]] (1 round) __Stage 2__ 2d6 (2d6) poison damage and [[stupefied|stupefied 2]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 28 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d6 (2d6) poison damage and [[rules/conditions.md#Stupefied|stupefied 1]] (1 round) __Stage 2__ 2d6 (2d6) poison damage and [[rules/conditions.md#Stupefied|stupefied 2]] (1 round)"
 
 speed: 25 feet, swim 15 feet
 

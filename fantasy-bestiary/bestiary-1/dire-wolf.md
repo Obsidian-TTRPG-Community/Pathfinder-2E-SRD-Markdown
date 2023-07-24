@@ -36,7 +36,7 @@ abilities_bot:
   - name: "Pack Attack"
     desc: "  The dire wolf's [[Strike|Strikes]] deal 1d6 (1d6) extra damage to creatures within reach of at least two of the wolf's allies."
   - name: "Worry"
-    desc: "⬻ ([[attack]]); __Requirements__ The dire wolf has a creature [[grabbed|grabbed]] with its jaws.  __Effect__  The dire wolf fiercely shakes the [[grabbed|grabbed]] creature with its teeth, dealing 1d10+2 (1d10+2) damage (DC 20 basic Fortitude save)."
+    desc: "⬻ ([[attack]]); __Requirements__ The dire wolf has a creature [[rules/conditions.md#Grabbed|grabbed]] with its jaws.  __Effect__  The dire wolf fiercely shakes the [[rules/conditions.md#Grabbed|grabbed]] creature with its teeth, dealing 1d10+2 (1d10+2) damage (DC 20 basic Fortitude save)."
 
 speed: 35 feet
 

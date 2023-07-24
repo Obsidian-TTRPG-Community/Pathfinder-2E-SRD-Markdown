@@ -42,7 +42,7 @@ abilities_bot:
   - name: "Lay Web Trap"
     desc: "⬻ ([[manipulate]]);  Frequency three times per day; The Leng spider spins a web within 20 feet of itself to create a grasping snare, stunning snare, or warning snare. The Leng spider's web provides all the raw materials it needs. All save and [[Escape]] DCs associated with web traps use the Leng spider's [[Crafting]] DC for traps (DC 36). A web trap decays after 24 hours."
   - name: "Leng Spider Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 33 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d6 (2d6) poison damage and [[drained|drained 1]] (1 round) __Stage 2__ 2d6 (2d6) poison damage, [[confused|confused]], and [[drained|drained 2]]  (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 33 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d6 (2d6) poison damage and [[rules/conditions.md#Drained|drained 1]] (1 round) __Stage 2__ 2d6 (2d6) poison damage, [[rules/conditions.md#Confused|confused]], and [[rules/conditions.md#Drained|drained 2]]  (1 round)"
 
 speed: 40 feet, climb 40 feet; air walk;
 

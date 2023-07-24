@@ -42,7 +42,7 @@ abilities_top:
     desc: "+2 greater resilient full plate, +3 greater striking halberd;"
 abilities_bot:
   - name: "Godslayer"
-    desc: "⭓ ([[divine]]); __Trigger__ The titan damages a creature capable of using divine spells or abilities __Effect__  The creature must attempt a DC 45 Will save.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature can't use divine spells or abilities for 1 round and is [[frightened|frightened 2]]. Only powerful non-divine magic, such as wish, can undo this effect.\n__Failure__ As success, but the duration is 1 minute.\n__Critical Failure__ As success, but the duration is unlimited."
+    desc: "⭓ ([[divine]]); __Trigger__ The titan damages a creature capable of using divine spells or abilities __Effect__  The creature must attempt a DC 45 Will save.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature can't use divine spells or abilities for 1 round and is [[rules/conditions.md#Frightened|frightened 2]]. Only powerful non-divine magic, such as wish, can undo this effect.\n__Failure__ As success, but the duration is 1 minute.\n__Critical Failure__ As success, but the duration is unlimited."
   - name: "Throw Rock"
     desc: "⬻ ([[divine]], [[transmutation; page 306]]);  If a titan's rock [[Strike]] isn't a critical failure, the rock explodes, dealing 10d6 (10d6) damage of a damage type of the titan's choice to all creatures in a 20-foot burst (DC 45 basic Reflex save)."
   - name: "Titanic Charge"

@@ -37,7 +37,7 @@ abilities_top:
     desc: "  A siktempora can always roll Dimension."
 abilities_mid:
   - name: "Cheaters Never Prosper"
-    desc: " ([[aura]], [[divination]], [[occult]]);  50 feet. A creature within the aura who uses or benefits from an effect with the [[fortune]] trait must succeed at a DC 34 Will save or become [[slowed|slowed 1]] for 1 round ([[slowed|slowed 2]] on a critical failure)."
+    desc: " ([[aura]], [[divination]], [[occult]]);  50 feet. A creature within the aura who uses or benefits from an effect with the [[fortune]] trait must succeed at a DC 34 Will save or become [[rules/conditions.md#Slowed|slowed 1]] for 1 round ([[rules/conditions.md#Slowed|slowed 2]] on a critical failure)."
   - name: "Clinch Victory"
     desc: "⬲ __Trigger__ A creature within the triumph siktempora's reach uses an action that would restore Hit Points __Effect__  The triumph siktempora makes a glorious fist [[Strike]] against the triggering creature. On a critical success, this [[Strike]] also disrupts the triggering action."
   - name: "Uncanny Pounce"

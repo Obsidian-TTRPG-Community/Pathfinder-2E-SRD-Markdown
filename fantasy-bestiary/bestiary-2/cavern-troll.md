@@ -35,7 +35,7 @@ abilityMods: [6, 2, 6, -2, 2, 2]
 
 abilities_mid:
   - name: "Sunlight Petrification"
-    desc: "  If exposed to direct sunlight, a cavern troll immediately becomes [[slowed|slowed 1]] and can't use reactions or Trample. The [[slowed|slowed]] value increases by 1 each time the cavern troll ends its turn in sunlight. If the cavern troll's actions are reduced to 0 in this way, they become [[petrified|petrified]] until they spends at least 1 minute in darkness. Spells like sunburst that create magical sunlight cannot petrify a cavern troll, but the troll is [[slowed|slowed 1]] for 1d4 (1d4) rounds after being exposed to such an effect."
+    desc: "  If exposed to direct sunlight, a cavern troll immediately becomes [[rules/conditions.md#Slowed|slowed 1]] and can't use reactions or Trample. The [[rules/conditions.md#Slowed|slowed]] value increases by 1 each time the cavern troll ends its turn in sunlight. If the cavern troll's actions are reduced to 0 in this way, they become [[rules/conditions.md#Petrified|petrified]] until they spends at least 1 minute in darkness. Spells like sunburst that create magical sunlight cannot petrify a cavern troll, but the troll is [[rules/conditions.md#Slowed|slowed 1]] for 1d4 (1d4) rounds after being exposed to such an effect."
   - name: "Attack of Opportunity"
     desc: "⬲ "
   - name: "Catch Rock"

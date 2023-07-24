@@ -38,7 +38,7 @@ abilities_top:
     desc: "dagger, cultist garb (functions as leather armor);"
 abilities_bot:
   - name: "Fanatical Frenzy"
-    desc: "⬻ __Requirements__ The cultist has taken damage and is neither [[fatigued|fatigued]] nor already in a frenzy  __Effect__  The cultist flies into a frenzy that lasts 1 minute. While frenzied, the cultist gains a +1 status bonus to attack rolls and a +2 status bonus to damage rolls, and they take a –2 status penalty to AC. The cultist can't voluntarily stop their frenzy. After their frenzy, the cultist is [[fatigued|fatigued]]."
+    desc: "⬻ __Requirements__ The cultist has taken damage and is neither [[rules/conditions.md#Fatigued|fatigued]] nor already in a frenzy  __Effect__  The cultist flies into a frenzy that lasts 1 minute. While frenzied, the cultist gains a +1 status bonus to attack rolls and a +2 status bonus to damage rolls, and they take a –2 status penalty to AC. The cultist can't voluntarily stop their frenzy. After their frenzy, the cultist is [[rules/conditions.md#Fatigued|fatigued]]."
 
 speed: 25 feet
 

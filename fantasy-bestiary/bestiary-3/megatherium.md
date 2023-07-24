@@ -31,7 +31,7 @@ abilityMods: [7, 2, 4, -4, 2, -1]
 
 abilities_mid:
   - name: "Musk"
-    desc: " ([[aura]], [[olfactory]]);  20 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 19 Fortitude save or become [[sickened|sickened 1]]. While inside the aura, affected creatures take a –1 circumstance penalty to recover from the [[sickened|sickened]] condition. A creature that succeeds at its save is temporarily immune for 1 minute."
+    desc: " ([[aura]], [[olfactory]]);  20 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 19 Fortitude save or become [[rules/conditions.md#Sickened|sickened 1]]. While inside the aura, affected creatures take a –1 circumstance penalty to recover from the [[rules/conditions.md#Sickened|sickened]] condition. A creature that succeeds at its save is temporarily immune for 1 minute."
 abilities_bot:
   - name: "Rend"
     desc: "⬻ ([[claw]]);  (page 306)"

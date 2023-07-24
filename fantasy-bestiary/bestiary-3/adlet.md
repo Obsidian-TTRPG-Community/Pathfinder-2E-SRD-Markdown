@@ -33,7 +33,7 @@ abilityMods: [5, 6, 4, 0, 4, 0]
 
 abilities_mid:
   - name: "Wolfstorm"
-    desc: " ([[aura]], [[cold]], [[evocation]], [[primal]]);  60 feet. A clammy, frigid mist billows forth ahead of the adlet. Creatures within the mist become [[concealed|concealed]], and creatures outside the mist become [[concealed|concealed]] to creatures within it. An adlet can see through the aura without penalty."
+    desc: " ([[aura]], [[cold]], [[evocation]], [[primal]]);  60 feet. A clammy, frigid mist billows forth ahead of the adlet. Creatures within the mist become [[rules/conditions.md#Concealed|concealed]], and creatures outside the mist become [[rules/conditions.md#Concealed|concealed]] to creatures within it. An adlet can see through the aura without penalty."
   - name: "Avenging Bite"
     desc: "⬲ __Trigger__ A creature within reach of an adlet's jaws [[Strike]] attacks one of the adlet's allies __Effect__  The adlet makes a jaws [[Strike]] against the triggering creature."
 abilities_top:

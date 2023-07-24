@@ -32,10 +32,10 @@ abilityMods: [1, 4, 2, 1, 3, 2]
 
 abilities_mid:
   - name: "Ferocious Will"
-    desc: "⬲ ([[abjuration]], [[arcane]], [[mental]]); __Trigger__ The house drake succeeds at a saving throw against a magical [[mental]] effect __Effect__  The house drake sends a blast of magical feedback at the effect's source, dealing 2d6 (2d6) mental damage (DC 16 basic Will save) to that creature. On a failed save, the creature is also [[slowed|slowed 1]] for 1 round."
+    desc: "⬲ ([[abjuration]], [[arcane]], [[mental]]); __Trigger__ The house drake succeeds at a saving throw against a magical [[mental]] effect __Effect__  The house drake sends a blast of magical feedback at the effect's source, dealing 2d6 (2d6) mental damage (DC 16 basic Will save) to that creature. On a failed save, the creature is also [[rules/conditions.md#Slowed|slowed 1]] for 1 round."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[arcane]], [[conjuration]], [[mental]]);  The house drake breathes a 10-foot cone of silver mist. Each creature within the mist must succeed at a DC 16 Will save or become [[stupefied|stupefied 2]] for 1 round. The house drake can't use Breath Weapon again for 1d4 (1d4) rounds."
+    desc: "⬺ ([[arcane]], [[conjuration]], [[mental]]);  The house drake breathes a 10-foot cone of silver mist. Each creature within the mist must succeed at a DC 16 Will save or become [[rules/conditions.md#Stupefied|stupefied 2]] for 1 round. The house drake can't use Breath Weapon again for 1d4 (1d4) rounds."
   - name: "Silver Strike"
     desc: "  House drakes sharpen their jaws on silver ornamentation until they incorporate bits of silver in their teeth. Their jaws [[Strike]] counts as silver."
 

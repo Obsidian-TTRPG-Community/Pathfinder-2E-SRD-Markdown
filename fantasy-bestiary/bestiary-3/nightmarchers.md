@@ -44,7 +44,7 @@ abilities_mid:
     desc: " ([[page 306]]); "
 abilities_bot:
   - name: "Blazing Admonition"
-    desc: "⬺ ([[divine]], [[evocation]], [[fire]], [[visual]]);  Heat scorches those who lay eyes on the nightmarchers. All creatures in a 60-foot cone take 15d6 (15d6) fire damage (DC 34 basic Reflex save). [[Prone|Prone]] creatures and the nightmarchers' kin are unaffected as long as they have not taken a [[hostile|hostile]] action against the nightmarchers. The nightmarchers can't use Blazing Admonition for 1d4 (1d4) rounds."
+    desc: "⬺ ([[divine]], [[evocation]], [[fire]], [[visual]]);  Heat scorches those who lay eyes on the nightmarchers. All creatures in a 60-foot cone take 15d6 (15d6) fire damage (DC 34 basic Reflex save). [[rules/conditions.md#Prone|Prone]] creatures and the nightmarchers' kin are unaffected as long as they have not taken a [[rules/conditions.md#Hostile|hostile]] action against the nightmarchers. The nightmarchers can't use Blazing Admonition for 1d4 (1d4) rounds."
   - name: "Form Up"
     desc: "⬻ "
   - name: "Missile Volley"

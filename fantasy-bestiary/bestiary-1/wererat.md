@@ -50,7 +50,7 @@ abilities_bot:
   - name: "Moon Frenzy"
     desc: " ([[polymorph]], [[primal]], [[transmutation]]); "
   - name: "Sneak Attack"
-    desc: "  The wererat deals 1d6 (1d6) extra precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The wererat deals 1d6 (1d6) extra precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
 
 speed: 25 feet
 

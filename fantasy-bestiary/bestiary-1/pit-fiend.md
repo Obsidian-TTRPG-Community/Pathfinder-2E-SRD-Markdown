@@ -48,7 +48,7 @@ abilities_bot:
   - name: "Masterful Quickened Casting"
     desc: "⭓ ([[concentrate]]); __Frequency__ once per round  __Effect__  If the pit fiendʼs next action is to cast an 8th-level or lower innate spell, reduce the number of actions to cast it by 1 (minimum 1 action)."
   - name: "Pit Fiend Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 43 Fortitude. __Maximum Duration__ 10 rounds __Stage 1__ 6d6 (6d6) poison damage and [[drained|drained 1]] (1 round) __Stage 2__ 7d6 (7d6) poison damage and [[drained|drained 2]] (1 round) __Stage 3__ 8d6 (8d6) poison damage and [[drained|drained 3]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 43 Fortitude. __Maximum Duration__ 10 rounds __Stage 1__ 6d6 (6d6) poison damage and [[rules/conditions.md#Drained|drained 1]] (1 round) __Stage 2__ 7d6 (7d6) poison damage and [[rules/conditions.md#Drained|drained 2]] (1 round) __Stage 3__ 8d6 (8d6) poison damage and [[rules/conditions.md#Drained|drained 3]] (1 round)"
 
 speed: 35 feet, fly 50 feet
 

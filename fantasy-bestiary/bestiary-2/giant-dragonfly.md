@@ -31,9 +31,9 @@ abilityMods: [4, 4, 2, -5, 3, 0]
 
 abilities_bot:
   - name: "Clutch"
-    desc: "⬻ __Requirements__ The giant dragonfly has a Medium or smaller creature [[grabbed|grabbed]] in its mandibles  __Effect__  The dragonfly tries to transfer the [[grabbed|grabbed]] creature to be clutched by its legs. The giant dragonfly attempts an [[Athletics]] check against the creature's Reflex DC. On a success, it transfers the creature (which remains [[grabbed|grabbed]]) to its legs, freeing its mandibles to attack. The dragonfly can have only one creature clutched at a time."
+    desc: "⬻ __Requirements__ The giant dragonfly has a Medium or smaller creature [[rules/conditions.md#Grabbed|grabbed]] in its mandibles  __Effect__  The dragonfly tries to transfer the [[rules/conditions.md#Grabbed|grabbed]] creature to be clutched by its legs. The giant dragonfly attempts an [[Athletics]] check against the creature's Reflex DC. On a success, it transfers the creature (which remains [[rules/conditions.md#Grabbed|grabbed]]) to its legs, freeing its mandibles to attack. The dragonfly can have only one creature clutched at a time."
   - name: "Snatch"
-    desc: "  The giant dragonfly can [[Fly]] at half Speed while it has a creature [[grabbed|grabbed]] or [[restrained|restrained]] by Clutch, carrying that creature along with it."
+    desc: "  The giant dragonfly can [[Fly]] at half Speed while it has a creature [[rules/conditions.md#Grabbed|grabbed]] or [[rules/conditions.md#Restrained|restrained]] by Clutch, carrying that creature along with it."
   - name: "Swoop"
     desc: "⬺  The giant dragonfly Flies up to its Speed and makes one mandible [[Strike]] at any point during that movement."
 

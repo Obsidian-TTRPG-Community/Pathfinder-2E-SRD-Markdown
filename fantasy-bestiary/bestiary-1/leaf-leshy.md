@@ -41,7 +41,7 @@ abilities_bot:
   - name: "Change Shape"
     desc: "⬻ ([[concentrate]], [[polymorph]], [[primal]], [[transmutation]]);  The leaf leshy transforms into a Small tree. This ability otherwise uses the effects of tree shape."
   - name: "Deafening Blow"
-    desc: "  When a leaf leshy hits with its seedpod [[Strike]], the target must attempt a DC 16 Fortitude save.\n__Critical Success__ The target is unaffected and temporarily immune for 24 hours.\n__Success__ The target is unaffected.\n__Failure__ The target is [[deafened|deafened]] for 1 round.\n__Critical Failure__ The target is [[deafened|deafened]] for 1 minute."
+    desc: "  When a leaf leshy hits with its seedpod [[Strike]], the target must attempt a DC 16 Fortitude save.\n__Critical Success__ The target is unaffected and temporarily immune for 24 hours.\n__Success__ The target is unaffected.\n__Failure__ The target is [[rules/conditions.md#Deafened|deafened]] for 1 round.\n__Critical Failure__ The target is [[rules/conditions.md#Deafened|deafened]] for 1 minute."
   - name: "Glide"
     desc: "⬻ ([[move]]);  The leshy glides gently through the air, moving 5 feet toward the ground and up to 25 feet forward. As long as the leshy spends at least 1 action gliding each round, it remains in the air at the end of each turn. For the purpose of determining damage from falls, a leaf leshy always treats falls as if they were 20 feet shorter."
 

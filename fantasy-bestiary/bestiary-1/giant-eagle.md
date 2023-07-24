@@ -37,7 +37,7 @@ abilities_bot:
   - name: "Eagle Dive"
     desc: "⬺  The giant eagle Flies up to double its fly Speed in a straight line, descending at least 10 feet, and then makes a talon [[Strike]]."
   - name: "Snatch"
-    desc: "  A giant eagle can [[Fly]] at half Speed while it has a creature [[grabbed|grabbed]] or [[restrained|restrained]] in its talons, carrying that creature along with it."
+    desc: "  A giant eagle can [[Fly]] at half Speed while it has a creature [[rules/conditions.md#Grabbed|grabbed]] or [[rules/conditions.md#Restrained|restrained]] in its talons, carrying that creature along with it."
 
 speed: 10 feet, fly 60 feet
 

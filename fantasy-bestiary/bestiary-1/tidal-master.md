@@ -34,7 +34,7 @@ abilityMods: [5, 5, 5, -1, 3, 0]
 
 abilities_top:
   - name: "Water-Bound"
-    desc: "  When not touching water, the living waterfall is [[slowed|slowed 1]] and can't use reactions."
+    desc: "  When not touching water, the living waterfall is [[rules/conditions.md#Slowed|slowed 1]] and can't use reactions."
 abilities_mid:
   - name: "Vortex"
     desc: " ([[aura]], [[water]]);  30 feet. Water in the area that is in the same body of water as the living waterfall is [[terrain|difficult terrain]] for Swimming creatures that don't have the [[water]] trait."

@@ -33,7 +33,7 @@ abilityMods: [2, 3, 2, 4, 3, -1]
 
 abilities_top:
   - name: "Stench of Decay"
-    desc: " ([[arcane]], [[aura]], [[conjuration]], [[poison]]);  The necromancer emits a scent of putrid rot in a 5-foot emanation. A creature that enters or begins its turn in the aura is [[sickened|sickened 1]]."
+    desc: " ([[arcane]], [[aura]], [[conjuration]], [[poison]]);  The necromancer emits a scent of putrid rot in a 5-foot emanation. A creature that enters or begins its turn in the aura is [[rules/conditions.md#Sickened|sickened 1]]."
   - name: Items
     desc: "light mace, hooded robe, scroll of spectral hand, spellbook (Abominable Missives of the Atrophied);"
 abilities_bot:

@@ -39,7 +39,7 @@ abilities_bot:
   - name: "Constrict"
     desc: "⬻  1d10+14 (1d10+14) bludgeoning."
   - name: "Sea Serpent Algae"
-    desc: " ([[incapacitation]], [[poison]]);  __Saving Throw__ DC 34 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ [[confused|confused]] and, if flying, spends its first action each turn to descend 20 feet (1 round) __Stage 1__ [[confused|confused]] and, if flying, descends until reaching the ground or water below (1 round)"
+    desc: " ([[incapacitation]], [[poison]]);  __Saving Throw__ DC 34 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ [[rules/conditions.md#Confused|confused]] and, if flying, spends its first action each turn to descend 20 feet (1 round) __Stage 1__ [[rules/conditions.md#Confused|confused]] and, if flying, descends until reaching the ground or water below (1 round)"
   - name: "Spine Rake"
     desc: "⬺ ([[attack]], [[move]]);  The sea serpent extends the spines along its back and Swims or [[Stride|Strides]]. Each creature the serpent is adjacent to at any point during its movement takes 4d6+8 (4d6+8) slashing damage (DC 32 basic Reflex save)."
   - name: "Swallow Whole"

@@ -40,7 +40,7 @@ abilities_mid:
   - name: "Aura of Command"
     desc: " ([[aura]], [[emotion]], [[mental]]);  30 feet. The captain of the guard bolsters lower-level guards under their command, granting them a +1 status bonus to their attack rolls and a +2 status bonus to their Will saves."
   - name: "Bravery"
-    desc: "  When the captain of the guard rolls a success on a Will save against a [[fear]] effect, they get a critical success instead. In addition, any time they gain the [[frightened|frightened]] condition, reduce its value by 1."
+    desc: "  When the captain of the guard rolls a success on a Will save against a [[fear]] effect, they get a critical success instead. In addition, any time they gain the [[rules/conditions.md#Frightened|frightened]] condition, reduce its value by 1."
   - name: "Shield Warden"
     desc: "  When the captain has their shield raised, they can [[Shield Block]] when an attack is made against an adjacent ally. If they do, the shield prevents that ally from taking damage instead of the captain."
   - name: "Attack of Opportunity"

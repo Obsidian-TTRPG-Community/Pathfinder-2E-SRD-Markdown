@@ -31,7 +31,7 @@ abilityMods: [-2, 3, 0, -4, 2, 0]
 
 abilities_bot:
   - name: "Leaping Pounce"
-    desc: "⬻  The red fox either [[Stride|Strides]] or Leaps up to its Speed and makes a [[Strike]] at the end of that movement. If the fox began this action [[hidden|hidden]], it remains [[hidden|hidden]] until after this ability's [[Strike]]."
+    desc: "⬻  The red fox either [[Stride|Strides]] or Leaps up to its Speed and makes a [[Strike]] at the end of that movement. If the fox began this action [[rules/conditions.md#Hidden|hidden]], it remains [[rules/conditions.md#Hidden|hidden]] until after this ability's [[Strike]]."
 
 speed: 35 feet
 

@@ -49,7 +49,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +9 ([[finesse]]); __Damage__ 1d6+1 (1d6+1) piercing plus 1d6 (1d6) [[persistent damage|persistent cold]]"
+    desc: "⬻ jaws +9 ([[finesse]]); __Damage__ 1d6+1 (1d6+1) piercing plus 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent cold]]"
 
 sourcebook: "_Bestiary 2_, page 114."
 ```

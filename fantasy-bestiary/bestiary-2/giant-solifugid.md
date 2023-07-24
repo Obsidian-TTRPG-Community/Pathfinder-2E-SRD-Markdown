@@ -31,7 +31,7 @@ abilityMods: [1, 3, 3, -5, 1, -4]
 
 abilities_bot:
   - name: "Pounce"
-    desc: "⬻  The giant solifugid [[Stride|Strides]] and makes a [[Strike]] at the end of that movement. If the giant solifugid began this action [[hidden|hidden]], it remains [[hidden|hidden]] until after this ability's [[Strike]]."
+    desc: "⬻  The giant solifugid [[Stride|Strides]] and makes a [[Strike]] at the end of that movement. If the giant solifugid began this action [[rules/conditions.md#Hidden|hidden]], it remains [[rules/conditions.md#Hidden|hidden]] until after this ability's [[Strike]]."
   - name: "Rend"
     desc: "⬻ ([[claw]]); "
 

@@ -32,13 +32,13 @@ abilityMods: [-2, 3, 0, -1, 2, 1]
 
 abilities_mid:
   - name: "Plaque Burst"
-    desc: "  When killed, a tooth fairy bursts into sticky, foul-smelling white dust. Each creature with 5 feet must succeed at a DC 16 Fortitude save or become [[sickened|sickened 1]] ([[sickened|sickened 2]] on a critical failure)."
+    desc: "  When killed, a tooth fairy bursts into sticky, foul-smelling white dust. Each creature with 5 feet must succeed at a DC 16 Fortitude save or become [[rules/conditions.md#Sickened|sickened 1]] ([[rules/conditions.md#Sickened|sickened 2]] on a critical failure)."
 abilities_top:
   - name: Items
     desc: "pliers;"
 abilities_bot:
   - name: "Tooth Tug"
-    desc: "⬻ ([[manipulate]]); __Requirements__ The tooth fairy's last action was a successful pliers [[Strike]] against a creature with teeth  __Effect__  The tooth fairy tugs on the creature's teeth, dealing 2 [[persistent damage|persistent bleed damage]] to the creature."
+    desc: "⬻ ([[manipulate]]); __Requirements__ The tooth fairy's last action was a successful pliers [[Strike]] against a creature with teeth  __Effect__  The tooth fairy tugs on the creature's teeth, dealing 2 [[rules/conditions.md#Persistent%20Damage|persistent bleed damage]] to the creature."
 
 speed: 10 feet, fly 25 feet
 

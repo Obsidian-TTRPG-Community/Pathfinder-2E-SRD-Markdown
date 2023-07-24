@@ -44,7 +44,7 @@ abilities_mid:
     desc: " ([[divine]], [[necromancy]]);  Destroying the ritual object or place used in the nemhaith's creation destroys the nemhaith, freeing its bound spirits to move on to the afterlife."
 abilities_bot:
   - name: "Drain Life"
-    desc: " ([[divine]], [[necromancy]]);  When the nemhaith damages a living creature with its spirit tendril [[Strike]], the creature must succeed at a DC 36 Fortitude save or become [[drained|drained 2]]. Further damage dealt by the nemhaith increases the condition value by 1 on a failed save, to a maximum of [[drained|drained 4]]."
+    desc: " ([[divine]], [[necromancy]]);  When the nemhaith damages a living creature with its spirit tendril [[Strike]], the creature must succeed at a DC 36 Fortitude save or become [[rules/conditions.md#Drained|drained 2]]. Further damage dealt by the nemhaith increases the condition value by 1 on a failed save, to a maximum of [[rules/conditions.md#Drained|drained 4]]."
   - name: "Rage of Spirits"
     desc: "⬺  The nemhaith's bound spirits rage and smash everything in a 30-foot emanation. Creatures in this area take 4d6 (4d6) sonic damage and 4d6 (4d6) negative damage (DC 36 basic Fortitude save)."
   - name: "Throw Spirits"

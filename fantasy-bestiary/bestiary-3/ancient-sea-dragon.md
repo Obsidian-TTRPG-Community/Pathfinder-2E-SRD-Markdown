@@ -50,9 +50,9 @@ abilities_bot:
   - name: "Greater Constrict"
     desc: "⬻  3d10+8 (3d10+8) bludgeoning, DC 38 (page 305)"
   - name: "Hyponatremia"
-    desc: " ([[water]]);  A living creature that takes damage from the sea dragon's jaws [[Strike]] must succeed at a DC 38 Fortitude save or become [[sickened|sickened 2]] as a surge of excess water floods its body."
+    desc: " ([[water]]);  A living creature that takes damage from the sea dragon's jaws [[Strike]] must succeed at a DC 38 Fortitude save or become [[rules/conditions.md#Sickened|sickened 2]] as a surge of excess water floods its body."
   - name: "Tidal Wave"
-    desc: "⬽ ([[arcane]], [[evocation]], [[manipulate]], [[water]]); __Requirements__ The dragon is in a body of water at least as large as they are __Frequency__ once per minute  __Effect__  The dragon slams their body down, sending a towering wave outward. This wave deals 10d12 (10d12) bludgeoning damage in a 90-foot emanation. Each creature in the area must attempt a DC 38 Reflex save. Structures and unattended objects in the area take the full amount of damage with no saving throw.\n__Critical Success__ The creature takes no damage but is pushed 30 feet from the dragon.\n__Success__ The creature takes half damage and is pushed 60 feet from the dragon.\n__Failure__ The creature takes full damage, is pushed 120 feet from the dragon, and falls [[prone|prone]].\n__Critical Failure__ As failure, but double damage."
+    desc: "⬽ ([[arcane]], [[evocation]], [[manipulate]], [[water]]); __Requirements__ The dragon is in a body of water at least as large as they are __Frequency__ once per minute  __Effect__  The dragon slams their body down, sending a towering wave outward. This wave deals 10d12 (10d12) bludgeoning damage in a 90-foot emanation. Each creature in the area must attempt a DC 38 Reflex save. Structures and unattended objects in the area take the full amount of damage with no saving throw.\n__Critical Success__ The creature takes no damage but is pushed 30 feet from the dragon.\n__Success__ The creature takes half damage and is pushed 60 feet from the dragon.\n__Failure__ The creature takes full damage, is pushed 120 feet from the dragon, and falls [[rules/conditions.md#Prone|prone]].\n__Critical Failure__ As failure, but double damage."
 
 speed: 50 feet, fly 140 feet, swim 70 feet; water walk;
 

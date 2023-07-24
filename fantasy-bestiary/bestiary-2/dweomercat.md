@@ -37,7 +37,7 @@ abilities_mid:
   - name: "Abjuration"
     desc: "  The dweomercat gains a +1 status bonus to AC."
   - name: "Conjuration"
-    desc: "  A cloud of fog appears in a 5-foot burst centered on a corner of the dweomercat's space. Anything in the cloud is [[concealed|concealed]]."
+    desc: "  A cloud of fog appears in a 5-foot burst centered on a corner of the dweomercat's space. Anything in the cloud is [[rules/conditions.md#Concealed|concealed]]."
   - name: "Divination"
     desc: "  The dweomercat gains a +1 status bonus to all skill checks."
   - name: "Enchantment"
@@ -45,7 +45,7 @@ abilities_mid:
   - name: "Evocation"
     desc: "  Magical feedback deals 4d6 (4d6) force damage to the triggering spellcaster (DC 22 basic Reflex save)."
   - name: "Illusion"
-    desc: "  The dweomercat becomes [[invisible|invisible]]. This effect ends if the dweomercat uses a [[hostile|hostile]] action, in addition to the normal end conditions."
+    desc: "  The dweomercat becomes [[rules/conditions.md#Invisible|invisible]]. This effect ends if the dweomercat uses a [[rules/conditions.md#Hostile|hostile]] action, in addition to the normal end conditions."
   - name: "Necromancy"
     desc: "  The dweomercat gains 10 temporary HP."
   - name: "Transmutation"
@@ -54,7 +54,7 @@ abilities_bot:
   - name: "Dweomer Leap"
     desc: "⬺ ([[arcane]], [[conjuration]], [[teleportation]]);  The dweomercat casts dimension door, then can make a melee [[Strike]] against one creature adjacent to it at the end of its teleport. If the dweomercat ends its teleport adjacent to a creature under an ongoing spell effect or who cast a spell since the dweomercat's last turn, this does not expend a casting of dimension door."
   - name: "Pounce"
-    desc: "⬻  The dweomercat [[Stride|Strides]] and makes a [[Strike]] at the end of that movement. If the dweomercat began this action [[hidden|hidden]], it remains [[hidden|hidden]] until after this ability's [[Strike]]."
+    desc: "⬻  The dweomercat [[Stride|Strides]] and makes a [[Strike]] at the end of that movement. If the dweomercat began this action [[rules/conditions.md#Hidden|hidden]], it remains [[rules/conditions.md#Hidden|hidden]] until after this ability's [[Strike]]."
 
 speed: 35 feet
 

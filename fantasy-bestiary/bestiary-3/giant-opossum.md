@@ -31,12 +31,12 @@ abilityMods: [4, 2, 3, -4, 2, 0]
 
 abilities_mid:
   - name: "Feign Death"
-    desc: "⬲ __Trigger__ The opossum is reduced below 15 HP __Effect__  The opossum collapses. It is [[flat-footed|flat-footed]] and can use actions that require only its mind, but any other action ends the ruse. A successful DC 18 [[Perception]] check to [[Seek]] or [[Medicine]] check to Recall Knowledge is required to determine that the animal is not, in fact, dead."
+    desc: "⬲ __Trigger__ The opossum is reduced below 15 HP __Effect__  The opossum collapses. It is [[rules/conditions.md#Flat-Footed|flat-footed]] and can use actions that require only its mind, but any other action ends the ruse. A successful DC 18 [[Perception]] check to [[Seek]] or [[Medicine]] check to Recall Knowledge is required to determine that the animal is not, in fact, dead."
   - name: "Revived Retaliation"
     desc: "⬲ __Trigger__ The opossum is attacked or disturbed by a creature within reach while Feigning Death __Effect__  The opossum [[Strike|Strikes]] the triggering creature."
 abilities_bot:
   - name: "Grasping Tail"
-    desc: "  A giant opossum can drag a Small or Tiny creature it has [[grabbed|grabbed]] with its tail along with it when it [[Stride|Strides]]."
+    desc: "  A giant opossum can drag a Small or Tiny creature it has [[rules/conditions.md#Grabbed|grabbed]] with its tail along with it when it [[Stride|Strides]]."
 
 speed: 30 feet, climb 20 feet
 

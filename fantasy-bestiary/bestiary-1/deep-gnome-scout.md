@@ -33,7 +33,7 @@ abilityMods: [2, 4, 2, 0, 2, -1]
 
 abilities_bot:
   - name: "Hidden Movement"
-    desc: "  If the deep gnome scout starts its turn [[undetected|undetected]] or [[hidden|hidden]] to a creature, that creature is [[flat-footed|flat-footed]] against the deep gnome scout's attacks until the end of the turn."
+    desc: "  If the deep gnome scout starts its turn [[rules/conditions.md#Undetected|undetected]] or [[rules/conditions.md#Hidden|hidden]] to a creature, that creature is [[rules/conditions.md#Flat-Footed|flat-footed]] against the deep gnome scout's attacks until the end of the turn."
 abilities_top:
   - name: Items
     desc: "light pick, sling (20 bullets);"

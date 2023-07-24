@@ -33,7 +33,7 @@ abilityMods: [2, 4, 1, 0, 3, 0]
 
 abilities_bot:
   - name: "Sentry's Aim"
-    desc: "⬺ ([[concentrate]]);  The archer sentry aims carefully and fires. They make a ranged weapon [[Strike]] with a +1 circumstance bonus. The [[Strike]] ignores the [[concealed|concealed]] condition, lesser cover, and standard cover, and reduces greater cover to standard cover."
+    desc: "⬺ ([[concentrate]]);  The archer sentry aims carefully and fires. They make a ranged weapon [[Strike]] with a +1 circumstance bonus. The [[Strike]] ignores the [[rules/conditions.md#Concealed|concealed]] condition, lesser cover, and standard cover, and reduces greater cover to standard cover."
 abilities_top:
   - name: Items
     desc: "composite longbow (100 arrows), shortsword, leather armor, signal whistle;"

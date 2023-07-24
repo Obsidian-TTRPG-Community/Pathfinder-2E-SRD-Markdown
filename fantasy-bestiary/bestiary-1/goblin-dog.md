@@ -38,7 +38,7 @@ abilities_mid:
     desc: "⬲ __Requirements__ A creature must be mounted on the goblin dog. __Trigger__ The rider issues a command to the goblin dog. __Effect__  The goblin dog [[Step|Steps]] before following the command."
 abilities_bot:
   - name: "Goblin Pox"
-    desc: " ([[disease]]);  __Saving Throw__ DC 17 Fortitude. __Stage 1__ [[sickened|sickened 1]] (1 round) __Stage 2__ [[sickened|sickened 1]] and [[slowed|slowed 1]] (1 round) __Stage 3__ [[sickened|sickened 2]] and can't reduce its [[sickened|sickened]] value below 1. (1 day)"
+    desc: " ([[disease]]);  __Saving Throw__ DC 17 Fortitude. __Stage 1__ [[rules/conditions.md#Sickened|sickened 1]] (1 round) __Stage 2__ [[rules/conditions.md#Sickened|sickened 1]] and [[rules/conditions.md#Slowed|slowed 1]] (1 round) __Stage 3__ [[rules/conditions.md#Sickened|sickened 2]] and can't reduce its [[rules/conditions.md#Sickened|sickened]] value below 1. (1 day)"
   - name: "Scratch"
     desc: "⬺ ([[manipulate]]);  The goblin dog vigorously scratches itself, exposing all adjacent creatures to goblin pox."
 

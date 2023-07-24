@@ -35,7 +35,7 @@ abilities_mid:
   - name: "Shadowbind"
     desc: "⬲ __Trigger__ A creature attempts to leave the chouchinobake's __Effect__ "
   - name: "Lifewick"
-    desc: "  Candle aura during a move action; The chouchin-obake attempts to bind the creature using their own shadow. The triggering creature must succeed at a DC 26 Reflex save or become [[immobilized|immobilized]] until its next turn."
+    desc: "  Candle aura during a move action; The chouchin-obake attempts to bind the creature using their own shadow. The triggering creature must succeed at a DC 26 Reflex save or become [[rules/conditions.md#Immobilized|immobilized]] until its next turn."
 abilities_bot:
   - name: "Constrict"
     desc: "⬻  2d8 (2d8) negative plus 1d6 (1d6) fire, DC 26"

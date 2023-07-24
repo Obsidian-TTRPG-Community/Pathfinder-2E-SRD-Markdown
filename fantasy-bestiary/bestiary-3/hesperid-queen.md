@@ -38,7 +38,7 @@ abilities_top:
     desc: "  As lampad queen, except the hesperid queen is tied to an isolated region such as an island or island chain, a remote coast, or a secluded valley. Their counteract modifier is +37 and their counteract level is 10."
 abilities_mid:
   - name: "Nymph's Beauty"
-    desc: " ([[aura]], [[emotion]], [[enchantment]], [[incapacitation]], [[mental]], [[primal]], [[visual]]);  30 feet. As lampad queen, except the save DC is 38, and creatures that fail their save become transfixed in awe, causing them to be [[stunned|stunned]] for 1 round."
+    desc: " ([[aura]], [[emotion]], [[enchantment]], [[incapacitation]], [[mental]], [[primal]], [[visual]]);  30 feet. As lampad queen, except the save DC is 38, and creatures that fail their save become transfixed in awe, causing them to be [[rules/conditions.md#Stunned|stunned]] for 1 round."
 abilities_bot:
   - name: "Change Shape"
     desc: "⬻ ([[polymorph]], [[primal]], [[transmutation; page 304]]);  Lampad queens can transform between their original form, which looks much like a typical nymph of their kind, and any Small or Medium humanoid form, typically choosing a version of their natural form that more closely resembles a humanoid."

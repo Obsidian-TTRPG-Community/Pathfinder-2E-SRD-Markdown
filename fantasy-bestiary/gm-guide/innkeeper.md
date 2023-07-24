@@ -33,7 +33,7 @@ abilityMods: [2, 0, 1, 2, 2, 3]
 
 abilities_top:
   - name: "Font of Gossip"
-    desc: "  The inkeeper's business gives them insight into the neighborhood's happenings. When [[Gather Information|Gathering Information]], a person can gain as much information chatting with the innkeeper for 30 minutes to an hour as they would gain from 2 hours spent canvassing the neighborhood. Each person can learn gossip from an innkeeper only once per day, and only if the innkeeper is [[friendly|friendly]] or [[helpful|helpful]] to that individual. Whatever information the innkeeper knows about a given topic doesn't change if someone else asks the innkeeper about that topic, unless the innkeeper has since learned more."
+    desc: "  The inkeeper's business gives them insight into the neighborhood's happenings. When [[Gather Information|Gathering Information]], a person can gain as much information chatting with the innkeeper for 30 minutes to an hour as they would gain from 2 hours spent canvassing the neighborhood. Each person can learn gossip from an innkeeper only once per day, and only if the innkeeper is [[rules/conditions.md#Friendly|friendly]] or [[rules/conditions.md#Helpful|helpful]] to that individual. Whatever information the innkeeper knows about a given topic doesn't change if someone else asks the innkeeper about that topic, unless the innkeeper has since learned more."
   - name: Items
     desc: "broom (functions as staff), innkeeper's apron (functions as leather armor), ledger;"
 abilities_bot:

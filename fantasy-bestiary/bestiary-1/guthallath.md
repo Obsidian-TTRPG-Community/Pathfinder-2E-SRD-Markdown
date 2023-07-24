@@ -39,7 +39,7 @@ abilities_bot:
   - name: "Annihilation Beams"
     desc: "⬺  A guthallath releases two beams of destruction from its eyes. Each beam is a 120-foot line. Everything in either line takes the effect of a hit from a 10th-level [[disintegrate]] spell (DC 41 Fortitude). There is no additional effect on creatures in any area where the beams overlap. The guthallath can't use this ability again for 1d4 (1d4) rounds."
   - name: "Deadly Throw"
-    desc: "⬻ __Requirements__ The guthallath has a creature [[grabbed|grabbed]].  __Effect__  The guthallath throws the creature into the air, 100 feet high and 50 feet away. If the flung creature lands on another creature, the creature it lands on takes the same amount of bludgeoning damage. The creature being landed on can attempt a DC 41 basic Reflex save."
+    desc: "⬻ __Requirements__ The guthallath has a creature [[rules/conditions.md#Grabbed|grabbed]].  __Effect__  The guthallath throws the creature into the air, 100 feet high and 50 feet away. If the flung creature lands on another creature, the creature it lands on takes the same amount of bludgeoning damage. The creature being landed on can attempt a DC 41 basic Reflex save."
   - name: "Powerful Blows"
     desc: "  If a guthallath hits with an attack and rolls a natural 19 on the d20 roll, the attack is a critical hit. This has no effect if the 19 would be a failure."
   - name: "Trample"

@@ -41,9 +41,9 @@ abilities_bot:
   - name: "Constrict"
     desc: "⬻  2d10+6 (2d10+6) bludgeoning, DC 30."
   - name: "Gory Rend"
-    desc: "⬺  The piscodaemon makes two claw [[Strike|Strikes]] against the same creature. If both hit, the creature takes 2d10 (2d10) [[persistent damage|persistent bleed damage]] and is exposed to piscovenom."
+    desc: "⬺  The piscodaemon makes two claw [[Strike|Strikes]] against the same creature. If both hit, the creature takes 2d10 (2d10) [[rules/conditions.md#Persistent%20Damage|persistent bleed damage]] and is exposed to piscovenom."
   - name: "Piscovenom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 30 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d8 (1d8) poison and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 2d8 (2d8) poison and [[enfeebled|enfeebled 1]] (1 round) __Stage 3__ 4d8 (4d8) poison and [[enfeebled|enfeebled 2]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 30 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d8 (1d8) poison and [[rules/conditions.md#Enfeebled|enfeebled 1]] (1 round) __Stage 2__ 2d8 (2d8) poison and [[rules/conditions.md#Enfeebled|enfeebled 1]] (1 round) __Stage 3__ 4d8 (4d8) poison and [[rules/conditions.md#Enfeebled|enfeebled 2]] (1 round)"
 
 speed: 25 feet, swim 40 feet
 

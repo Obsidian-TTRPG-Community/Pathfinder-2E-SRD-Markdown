@@ -33,13 +33,13 @@ abilityMods: [5, 4, 3, -2, 1, 7]
 
 abilities_bot:
   - name: "Ether Spider Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 22 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d6 (1d6) poison damage and [[clumsy|clumsy 1]] (1 round) __Stage 2__ 2d6 (2d6) poison damage, [[clumsy|clumsy 2]] and [[slowed|slowed 1]] (1 round) __Stage 3__ 3d6 (3d6) poison damage, [[clumsy|clumsy 3]] and [[slowed|slowed 2]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 22 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d6 (1d6) poison damage and [[rules/conditions.md#Clumsy|clumsy 1]] (1 round) __Stage 2__ 2d6 (2d6) poison damage, [[rules/conditions.md#Clumsy|clumsy 2]] and [[rules/conditions.md#Slowed|slowed 1]] (1 round) __Stage 3__ 3d6 (3d6) poison damage, [[rules/conditions.md#Clumsy|clumsy 3]] and [[rules/conditions.md#Slowed|slowed 2]] (1 round)"
   - name: "Ethereal Step"
     desc: "⬻  The ether spider shifts to either the Ethereal Plane or the Material Plane. The ether spider can remain on the Ethereal Plane indefinitely without ill effect. While there, it can see clearly onto the Material Plane with a range of 60 feet. On its first round in an encounter, the ether spider can use this ability once as a free action."
   - name: "Ethereal Web Trap"
-    desc: "  A creature hit by the ether spider's web attack is [[immobilized|immobilized]] and stuck to the nearest surface ([[Escape]] DC 22)."
+    desc: "  A creature hit by the ether spider's web attack is [[rules/conditions.md#Immobilized|immobilized]] and stuck to the nearest surface ([[Escape]] DC 22)."
   - name: "Web Burst"
-    desc: "⬺ __Frequency__ once per day  __Effect__  The ether spider flings a gout of stored webs in a 30-foot cone. These webs can pass between the Material Plane and the Ethereal Plane. Each creature in the area is [[immobilized|immobilized]], as ethereal web trap, unless it succeeds at a DC 22 Reflex save."
+    desc: "⬺ __Frequency__ once per day  __Effect__  The ether spider flings a gout of stored webs in a 30-foot cone. These webs can pass between the Material Plane and the Ethereal Plane. Each creature in the area is [[rules/conditions.md#Immobilized|immobilized]], as ethereal web trap, unless it succeeds at a DC 22 Reflex save."
 
 speed: 40 feet, climb 20 feet
 

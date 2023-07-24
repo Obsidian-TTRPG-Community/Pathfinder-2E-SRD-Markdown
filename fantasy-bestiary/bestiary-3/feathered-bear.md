@@ -44,7 +44,7 @@ abilities_bot:
   - name: "Bonded Strike"
     desc: "⬺ __Requirements__ The spirit guide is currently Bonded with a Mortal  __Effect__  The spirit guide makes a jaws [[Strike]]. If this attack hits, the bonded mortal can spend their reaction to [[Strike]] the same target."
   - name: "Mauler"
-    desc: "  The feathered bear gains a +4 circumstance bonus to damage rolls against creatures they have [[grabbed|grabbed]]."
+    desc: "  The feathered bear gains a +4 circumstance bonus to damage rolls against creatures they have [[rules/conditions.md#Grabbed|grabbed]]."
 
 speed: 35 feet
 

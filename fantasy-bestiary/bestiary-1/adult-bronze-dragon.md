@@ -41,7 +41,7 @@ abilities_mid:
     desc: "⬲  Jaws only."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺  The bronze dragon breathes in one of two ways. The dragon can't use Breath Weapon again for 1d4 (1d4) rounds.<ul class='inner-bullet-list'><li>__Lightning__ (arcane, electricity, evocation); The dragon breathes lightning in a 80-foot line that deals 8d12 (8d12) electricity damage (DC 33 basic Reflex save).</li><li>__Repulsion Gas__ (abjuration, arcane, incapacitation, mental); The dragon breathes a 80-foot line of repulsive gas. Each creature in the area must succeed at a DC 33 Will save or become [[fleeing|fleeing]] from the dragon for 1 round (or 2 rounds on a critical failure).</li></ul>"
+    desc: "⬺  The bronze dragon breathes in one of two ways. The dragon can't use Breath Weapon again for 1d4 (1d4) rounds.<ul class='inner-bullet-list'><li>__Lightning__ (arcane, electricity, evocation); The dragon breathes lightning in a 80-foot line that deals 8d12 (8d12) electricity damage (DC 33 basic Reflex save).</li><li>__Repulsion Gas__ (abjuration, arcane, incapacitation, mental); The dragon breathes a 80-foot line of repulsive gas. Each creature in the area must succeed at a DC 33 Will save or become [[rules/conditions.md#Fleeing|fleeing]] from the dragon for 1 round (or 2 rounds on a critical failure).</li></ul>"
   - name: "Draconic Frenzy"
     desc: "⬺  The dragon makes two claw [[Strike|Strikes]] and one tail [[Strike]] in any order."
   - name: "Draconic Momentum"

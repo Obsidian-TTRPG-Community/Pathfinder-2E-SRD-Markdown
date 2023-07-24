@@ -36,9 +36,9 @@ abilities_bot:
   - name: "Swamp Stride"
     desc: "  A boggard scout ignores [[terrain|difficult terrain]] caused by swamp terrain features."
   - name: "Terrifying Croak"
-    desc: "⬻ ([[auditory]], [[emotion]], [[fear]], [[mental]]);  The boggard scout unleashes a terrifying croak. Any non-boggard within 30 feet becomes [[frightened|frightened 1]] unless they succeed at a DC 17 Will save; those who critically succeed are temporarily immune for 1 minute."
+    desc: "⬻ ([[auditory]], [[emotion]], [[fear]], [[mental]]);  The boggard scout unleashes a terrifying croak. Any non-boggard within 30 feet becomes [[rules/conditions.md#Frightened|frightened 1]] unless they succeed at a DC 17 Will save; those who critically succeed are temporarily immune for 1 minute."
   - name: "Tongue Grab"
-    desc: "  If the boggard scout hits a creature with its tongue, that creature becomes [[grabbed|grabbed]] by the boggard. Unlike with a normal grab, the creature isn't [[immobilized|immobilized]], but it can't move beyond the reach of the boggard's tongue. A creature can sever the tongue by hitting AC 13 and dealing at least 2 slashing damage. Though this doesn't deal any damage to the boggard, it prevents it from using its tongue [[Strike]] until it regrows its tongue, which takes a week."
+    desc: "  If the boggard scout hits a creature with its tongue, that creature becomes [[rules/conditions.md#Grabbed|grabbed]] by the boggard. Unlike with a normal grab, the creature isn't [[rules/conditions.md#Immobilized|immobilized]], but it can't move beyond the reach of the boggard's tongue. A creature can sever the tongue by hitting AC 13 and dealing at least 2 slashing damage. Though this doesn't deal any damage to the boggard, it prevents it from using its tongue [[Strike]] until it regrows its tongue, which takes a week."
 abilities_top:
   - name: Items
     desc: "leather armor, morningstar, sling (10 bullets);"

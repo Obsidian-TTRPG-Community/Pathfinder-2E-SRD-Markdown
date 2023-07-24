@@ -32,7 +32,7 @@ abilityMods: [8, 4, 5, 4, 4, 6]
 
 abilities_mid:
   - name: "Traveler's Aura"
-    desc: " ([[abjuration]], [[aura]], [[divine]]);  20 feet. Creatures in the astral deva's aura are protected from ambient environmental damage from any plane, including severe and extreme heat and cold as well as more exotic dangers. The astral deva is never [[flat-footed|flat-footed]] to creatures within its aura."
+    desc: " ([[abjuration]], [[aura]], [[divine]]);  20 feet. Creatures in the astral deva's aura are protected from ambient environmental damage from any plane, including severe and extreme heat and cold as well as more exotic dangers. The astral deva is never [[rules/conditions.md#Flat-Footed|flat-footed]] to creatures within its aura."
   - name: "Messenger's Amnesty"
     desc: " ([[abjuration]], [[divine]]);  An astral deva with a message to deliver is continually protected by the effect of sanctuary (DC 32). If the deva breaks the sanctuary, the effect returns if the deva ceases hostility for 10 minutes."
 abilities_top:
@@ -42,7 +42,7 @@ abilities_bot:
   - name: "Divine Armament"
     desc: " ([[divine]], [[evocation]]);  Any weapon gains the effect of a holy property rune while an astral deva wields it."
   - name: "Stunning Strike"
-    desc: "⬻ __Requirements__ The astral deva hit a foe earlier this turn with a weapon [[Strike]].  __Effect__  The astral deva makes a weapon [[Strike]] against the foe. On a success, the foe must succeed at a DC 34 Fortitude save or become [[stunned|stunned 1]]. On a critical failure, the foe is [[stunned|stunned 2]] instead."
+    desc: "⬻ __Requirements__ The astral deva hit a foe earlier this turn with a weapon [[Strike]].  __Effect__  The astral deva makes a weapon [[Strike]] against the foe. On a success, the foe must succeed at a DC 34 Fortitude save or become [[rules/conditions.md#Stunned|stunned 1]]. On a critical failure, the foe is [[rules/conditions.md#Stunned|stunned 2]] instead."
 
 speed: 40 feet, fly 75 feet
 

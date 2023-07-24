@@ -47,7 +47,7 @@ abilities_bot:
   - name: "Quick Draw"
     desc: "⬻  The drow warrior draws a weapon using the [[Interact]] action, then Strikes with that weapon."
   - name: "Skewer"
-    desc: "⬺  The drow warrior Strikes with their rapier, and they gain a +1 circumstance bonus to the attack roll. If they succeed, the target takes 1d6 (1d6) [[persistent damage|persistent bleed damage]]."
+    desc: "⬺  The drow warrior Strikes with their rapier, and they gain a +1 circumstance bonus to the attack roll. If they succeed, the target takes 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed damage]]."
 
 
 ac: 18

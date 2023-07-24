@@ -36,7 +36,7 @@ abilities_bot:
   - name: "Dervish Strike"
     desc: "⬽  The lamia matriarch makes a scimitar attack against each enemy within reach. Each attack counts toward their multiple attack penalty, but the penalty does not increase until after all the attacks. The first enemy she damages is subject to matriarch's caress."
   - name: "Matriarch's Caress"
-    desc: "⬺ ([[curse]], [[enchantment]], [[mental]], [[occult]]);  The lamia touches a creature, who must succeed at a DC 28 Will save or become [[stupefied|stupefied 1]] (or [[stupefied|stupefied 2]] on a critical failure). If the target fails additional saves against this ability, the condition value increases by 1 (or 2 if it critically fails; to a maximum of [[stupefied|stupefied 4]]). This condition value decreases by 1 every 24 hours."
+    desc: "⬺ ([[curse]], [[enchantment]], [[mental]], [[occult]]);  The lamia touches a creature, who must succeed at a DC 28 Will save or become [[rules/conditions.md#Stupefied|stupefied 1]] (or [[rules/conditions.md#Stupefied|stupefied 2]] on a critical failure). If the target fails additional saves against this ability, the condition value increases by 1 (or 2 if it critically fails; to a maximum of [[rules/conditions.md#Stupefied|stupefied 4]]). This condition value decreases by 1 every 24 hours."
 abilities_top:
   - name: Items
     desc: "+1 striking scimitar;"

@@ -36,7 +36,7 @@ abilities_top:
     desc: "  A bottlenose dolphin can hold its breath for 2 hours."
 abilities_bot:
   - name: "Ramming Speed"
-    desc: "⬺  The bottlenose dolphin Swims twice and then makes a snout [[Strike]]. As long as it moved at least 20 feet, it gains a +1 circumstance bonus to its attack roll. A Large or smaller creature hit by this attack must succeed at a DC 16 Fortitude save or be [[slowed|slowed 1]] for 1 round."
+    desc: "⬺  The bottlenose dolphin Swims twice and then makes a snout [[Strike]]. As long as it moved at least 20 feet, it gains a +1 circumstance bonus to its attack roll. A Large or smaller creature hit by this attack must succeed at a DC 16 Fortitude save or be [[rules/conditions.md#Slowed|slowed 1]] for 1 round."
 
 speed: swim 60 feet
 

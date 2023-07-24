@@ -51,7 +51,7 @@ abilities_bot:
   - name: "Moon Frenzy"
     desc: " ([[polymorph]], [[primal]], [[transmutation]]); "
   - name: "Twisting Thrash"
-    desc: "⬻ __Requirements__ The werecrocodile has a creature [[grabbed|grabbed]]  __Effect__  The werecrocodile makes a jaws [[Strike]] with a +2 circumstance bonus to the attack roll against the [[grabbed|grabbed]] creature. If this [[Strike]] hits, it also knocks the target [[prone|prone]]. If it fails, the werecrocodile releases the target."
+    desc: "⬻ __Requirements__ The werecrocodile has a creature [[rules/conditions.md#Grabbed|grabbed]]  __Effect__  The werecrocodile makes a jaws [[Strike]] with a +2 circumstance bonus to the attack roll against the [[rules/conditions.md#Grabbed|grabbed]] creature. If this [[Strike]] hits, it also knocks the target [[rules/conditions.md#Prone|prone]]. If it fails, the werecrocodile releases the target."
 
 speed: 25 feet, swim 25 feet
 

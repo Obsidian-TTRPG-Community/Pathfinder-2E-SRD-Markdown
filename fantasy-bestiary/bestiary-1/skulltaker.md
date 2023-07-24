@@ -39,9 +39,9 @@ abilities_mid:
     desc: " ([[air]], [[aura]], [[divine]], [[necromancy]]);  10 feet. A cloud of bone shards surrounds the skulltaker. When a creature moves into the emanation or begins its turn there, shard storm attempts to counteract any death ward effect on the creature (+30 counteract modifier) and then deals 4d6 (4d6) slashing damage and 4d6 (4d6) negative damage to the creature, with a DC 40 basic Reflex save."
 abilities_bot:
   - name: "Bonetaker"
-    desc: " ([[divine]], [[necromancy]]);  Whenever a creature dies within 60 feet of a skulltaker, the skulltaker draws a portion of the creature's bones into its shard storm. The creature must succeed at a DC 40 Will save or rise as a [[skeletal champion]] in 1d4 (1d4) rounds. These skeletal champions are [[controlled|controlled]] by the skulltaker."
+    desc: " ([[divine]], [[necromancy]]);  Whenever a creature dies within 60 feet of a skulltaker, the skulltaker draws a portion of the creature's bones into its shard storm. The creature must succeed at a DC 40 Will save or rise as a [[skeletal champion]] in 1d4 (1d4) rounds. These skeletal champions are [[rules/conditions.md#Controlled|controlled]] by the skulltaker."
   - name: "Energy Drain"
-    desc: " ([[divine]], [[necromancy]]);  When a skulltaker hits with a melee [[Strike]], the target must succeed at a DC 40 Fortitude save or become [[drained|drained 2]] and [[doomed|doomed 1]]."
+    desc: " ([[divine]], [[necromancy]]);  When a skulltaker hits with a melee [[Strike]], the target must succeed at a DC 40 Fortitude save or become [[rules/conditions.md#Drained|drained 2]] and [[rules/conditions.md#Doomed|doomed 1]]."
   - name: "Splintered Ground"
     desc: "⬻  The skulltaker causes splintered bones to erupt from all solid surfaces in a 100-foot emanation, except for surfaces of worked stone. A creature moving through the bones takes 10 piercing damage and 10 negative damage for every 5 feet of movement. The first time each round a creature takes piercing damage from these splintered bones, it must succeed at a Reflex save or take a –10-foot circumstance penalty to all Speeds for 10 minutes, or a –15-foot circumstance penalty for 24 hours on a critical failure. The bones remain in place until the skulltaker uses this action again or the bones are manually removed, which takes 10 minutes for each 5-foot square."
 

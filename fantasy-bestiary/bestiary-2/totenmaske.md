@@ -32,7 +32,7 @@ abilityMods: [4, 6, 2, 1, 2, 3]
 
 abilities_bot:
   - name: "Drink Flesh"
-    desc: "⬻ ([[divine]], [[necromancy]]); __Requirements__ The totenmaske hit the same enemy with two claw [[Strike|Strikes]] this turn and is still adjacent to it  __Effect__  The totenmaske drains flesh from the creature's body. The creature becomes [[sickened|sickened 2]] and [[drained|drained 1]] unless it succeeds at a DC 25 Fortitude save ([[sickened|sickened 2]] and [[drained|drained 2]] on a critical failure)."
+    desc: "⬻ ([[divine]], [[necromancy]]); __Requirements__ The totenmaske hit the same enemy with two claw [[Strike|Strikes]] this turn and is still adjacent to it  __Effect__  The totenmaske drains flesh from the creature's body. The creature becomes [[rules/conditions.md#Sickened|sickened 2]] and [[rules/conditions.md#Drained|drained 1]] unless it succeeds at a DC 25 Fortitude save ([[rules/conditions.md#Sickened|sickened 2]] and [[rules/conditions.md#Drained|drained 2]] on a critical failure)."
   - name: "Living Form"
     desc: "⬻ ([[concentrate]], [[divine]], [[polymorph]], [[transmutation]]);  The totenmaske takes the appearance of a Medium or smaller humanoid creature. This is either its form from before it became undead, or the form of the last creature it successfully hit with Drink Flesh. This doesn't change the totenmaske's Speed or the attack and damage bonuses for its [[Strike|Strikes]], but might change the damage type its [[Strike|Strikes]] deal (typically to bludgeoning)."
 

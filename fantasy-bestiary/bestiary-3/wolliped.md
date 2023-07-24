@@ -33,7 +33,7 @@ abilities_bot:
   - name: "Ice Stride"
     desc: "  A wolliped isn't impeded by [[terrain|difficult terrain]] caused by snow or ice, nor does it need to attempt [[Acrobatics]] checks to keep from falling on slippery ice."
   - name: "Regurgitated Wrath"
-    desc: "⬻  Frequency once per hour; The wolliped regurgitates the contents of its stomach and spits them at the target, dealing 2d6 (2d6) bludgeoning damage and 2d6 (2d6) acid damage. The target attempts a DC 20 basic Reflex save, and on a failure also becomes [[sickened|sickened 1]] ([[sickened|sickened 2]] on a critical failure)."
+    desc: "⬻  Frequency once per hour; The wolliped regurgitates the contents of its stomach and spits them at the target, dealing 2d6 (2d6) bludgeoning damage and 2d6 (2d6) acid damage. The target attempts a DC 20 basic Reflex save, and on a failure also becomes [[rules/conditions.md#Sickened|sickened 1]] ([[rules/conditions.md#Sickened|sickened 2]] on a critical failure)."
   - name: "Trample"
     desc: "⬽  Medium or smaller, hoof, DC 20"
 

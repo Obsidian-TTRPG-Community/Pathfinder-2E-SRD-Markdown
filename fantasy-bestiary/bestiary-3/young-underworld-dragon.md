@@ -34,7 +34,7 @@ abilityMods: [6, 2, 3, 4, 2, 1]
 
 abilities_top:
   - name: "Smoke Vision"
-    desc: "  Smoke doesn't impair an underworld dragon's vision; they ignore the [[concealed|concealed]] condition from smoke."
+    desc: "  Smoke doesn't impair an underworld dragon's vision; they ignore the [[rules/conditions.md#Concealed|concealed]] condition from smoke."
 abilities_mid:
   - name: "Frightful Presence"
     desc: " ([[aura]], [[emotion]], [[fear]], [[mental]]);  90 feet, DC 23 (page 305)"
@@ -42,7 +42,7 @@ abilities_bot:
   - name: "Adamantine Claws"
     desc: "  The dragon's claws are infused with adamantine. Their claw [[Strike|Strikes]] ignore half the Hardness of any object hit."
   - name: "Breath Weapon"
-    desc: "⬺ ([[arcane]], [[evocation]], [[fire]]);  The dragon breathes a blast of fire that explodes in a 20-foot burst within 40 feet, dealing 7d6 (7d6) fire damage (DC 25 basic Reflex save). Creatures that fail the save also take 1d6 (1d6) [[persistent damage|persistent fire damage]]. The dragon can't use Breath Weapon again for 1d4 (1d4) rounds."
+    desc: "⬺ ([[arcane]], [[evocation]], [[fire]]);  The dragon breathes a blast of fire that explodes in a 20-foot burst within 40 feet, dealing 7d6 (7d6) fire damage (DC 25 basic Reflex save). Creatures that fail the save also take 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent fire damage]]. The dragon can't use Breath Weapon again for 1d4 (1d4) rounds."
   - name: "Coiling Frenzy"
     desc: "⬺  The dragon makes one claw [[Strike]] and one tail [[Strike]] in either order, each against the same target. If either [[Strike]] hits, the dragon automatically Grabs the target."
   - name: "Constrict"

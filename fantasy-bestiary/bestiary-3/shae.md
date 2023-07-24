@@ -31,12 +31,12 @@ abilityMods: [3, 5, 1, 3, 2, 3]
 
 abilities_top:
   - name: "Shadow Shift"
-    desc: "  Being made partially of shadow themselves, shae are [[concealed|concealed]] in dim light or darkness even to creatures that can see clearly in those light levels."
+    desc: "  Being made partially of shadow themselves, shae are [[rules/conditions.md#Concealed|concealed]] in dim light or darkness even to creatures that can see clearly in those light levels."
   - name: Items
     desc: "dagger (5);"
 abilities_mid:
   - name: "Counterattack"
-    desc: "⬲ __Requirements__ The shae is aware of the attack __Trigger__ The shae is targeted by an attack from an adjacent creature that misses due to the shae being [[concealed|concealed]] __Effect__  The shae makes a [[Strike]] against the attacker."
+    desc: "⬲ __Requirements__ The shae is aware of the attack __Trigger__ The shae is targeted by an attack from an adjacent creature that misses due to the shae being [[rules/conditions.md#Concealed|concealed]] __Effect__  The shae makes a [[Strike]] against the attacker."
   - name: "Slip"
     desc: "⬲ __Trigger__ A creature moves adjacent to the shae __Effect__  The shae teleports to a clear space adjacent to another creature they can see within 30 feet."
 abilities_bot:

@@ -48,7 +48,7 @@ abilities_bot:
   - name: "Hunt Prey"
     desc: "⬻ ([[concentrate]]); __Requirements__ The werebear can see or hear the target or is [[Track|Tracking]] it in exploration mode.  __Effect__  The werebear gains a +2 circumstance bonus to [[Perception]] checks when it Seeks its prey and a +2 circumstance bonus to [[Survival]] checks when it Tracks its prey. The werebear also ignores the penalty for making ranged attacks within its second range increment against the prey it's hunting. The werebear can designate only one creature as its hunted prey at a time. If it uses [[Hunt Prey]] against a different creature, the prior creature loses the designation and the new prey gains the designation. In any case, this designation lasts until the werebear's next daily preparation."
   - name: "Mauler"
-    desc: "  The werebear gains a +2 circumstance bonus to damage rolls against creatures it has [[grabbed|grabbed]]."
+    desc: "  The werebear gains a +2 circumstance bonus to damage rolls against creatures it has [[rules/conditions.md#Grabbed|grabbed]]."
   - name: "Moon Frenzy"
     desc: " ([[polymorph]], [[primal]], [[transmutation]]); "
   - name: "Precision Edge"

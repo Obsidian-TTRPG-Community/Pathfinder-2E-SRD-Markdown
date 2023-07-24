@@ -34,7 +34,7 @@ abilityMods: [6, 4, 4, 1, 3, 4]
 
 abilities_mid:
   - name: "Enraged Growth"
-    desc: "⬲ ([[polymorph]], [[primal]], [[transmutation]]); __Trigger__ The spriggan warlord takes damage __Effect__  The spriggan warlord grows to size Large, along with their equipment (which returns to natural size if removed). The spriggan warlord's reach increases by 5 feet. They regain 15 Hit Points and gain a +2 status bonus to melee attack and damage rolls. This effect continues until the end of the spriggan warlord's next turn, but on any turn in which the spriggan warlord deals damage to another creature and is not [[fatigued|fatigued]], the effect extends until the end of the following turn. When Enraged Growth ends, the spriggan warlord is [[fatigued|fatigued]] for 1 hour."
+    desc: "⬲ ([[polymorph]], [[primal]], [[transmutation]]); __Trigger__ The spriggan warlord takes damage __Effect__  The spriggan warlord grows to size Large, along with their equipment (which returns to natural size if removed). The spriggan warlord's reach increases by 5 feet. They regain 15 Hit Points and gain a +2 status bonus to melee attack and damage rolls. This effect continues until the end of the spriggan warlord's next turn, but on any turn in which the spriggan warlord deals damage to another creature and is not [[rules/conditions.md#Fatigued|fatigued]], the effect extends until the end of the following turn. When Enraged Growth ends, the spriggan warlord is [[rules/conditions.md#Fatigued|fatigued]] for 1 hour."
 abilities_top:
   - name: Items
     desc: "+1 crossbow (10 bolts), +1 morningstar;"
@@ -42,7 +42,7 @@ abilities_bot:
   - name: "Bully's Bludgeon"
     desc: "⬻  The spriggan warlord makes a morningstar [[Strike]] with a +2 circumstance bonus to its attack roll. This attack is nonlethal."
   - name: "Sneak Attack"
-    desc: "  The spriggan warlord's [[Strike|Strikes]] deal an additional 2d6 (2d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The spriggan warlord's [[Strike|Strikes]] deal an additional 2d6 (2d6) precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
   - name: "Warlord's Training"
     desc: "  A spriggan warlord has access to the critical specialization effects for crossbows and morningstars, and the reload of any crossbow they wield is reduced by 1 (to a minimum of 0)."
 

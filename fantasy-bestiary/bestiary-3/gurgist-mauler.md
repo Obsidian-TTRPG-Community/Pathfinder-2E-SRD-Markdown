@@ -40,16 +40,16 @@ abilities_top:
     desc: "composite shortbow (20 arrows), hide armor, +1 maul;"
 abilities_mid:
   - name: "Consecration Vulnerability"
-    desc: "  An angheuvore in a place of worship dedicated to a non-evil deity or on sacred ground, such as an area blessed by sanctified ground, is [[slowed|slowed 1]]."
+    desc: "  An angheuvore in a place of worship dedicated to a non-evil deity or on sacred ground, such as an area blessed by sanctified ground, is [[rules/conditions.md#Slowed|slowed 1]]."
   - name: "Rotting Flesh"
-    desc: "  Any creature that hits the gurgist with an unarmed attack, tries to [[Grapple]] them, or otherwise touches the gurgist is covered with rotten flesh and putrid fluids. The creature must succeed at a DC 22 Fortitude save or become [[sickened|sickened 1]] ([[sickened|sickened 2]] on a critical failure)."
+    desc: "  Any creature that hits the gurgist with an unarmed attack, tries to [[Grapple]] them, or otherwise touches the gurgist is covered with rotten flesh and putrid fluids. The creature must succeed at a DC 22 Fortitude save or become [[rules/conditions.md#Sickened|sickened 1]] ([[rules/conditions.md#Sickened|sickened 2]] on a critical failure)."
 abilities_bot:
   - name: "Calculated Blow"
-    desc: "⬺  The gurgist makes a melee [[Strike]], aiming for their target's weak points and taking their time to line up a precise blow. If this [[Strike]] hits, the gurgist deals an additional 1d8 (1d8) precision damage, and the target must succeed at a DC 23 Fortitude save or become [[clumsy|clumsy 2]] for 1 minute."
+    desc: "⬺  The gurgist makes a melee [[Strike]], aiming for their target's weak points and taking their time to line up a precise blow. If this [[Strike]] hits, the gurgist deals an additional 1d8 (1d8) precision damage, and the target must succeed at a DC 23 Fortitude save or become [[rules/conditions.md#Clumsy|clumsy 2]] for 1 minute."
   - name: "Death Gasp"
     desc: "  As angheuvore flesh-gnawer, except up to 9 rounds."
   - name: "Tackle"
-    desc: "⬺  The gurgist [[Stride|Strides]] twice and then attempts to [[Grapple]] a creature. On a success, the target is also knocked [[prone|prone]]."
+    desc: "⬺  The gurgist [[Stride|Strides]] twice and then attempts to [[Grapple]] a creature. On a success, the target is also knocked [[rules/conditions.md#Prone|prone]]."
 
 speed: 25 feet
 

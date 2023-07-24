@@ -40,7 +40,7 @@ abilities_top:
     desc: "breastplate, javelin (6), +1 ogre hook;"
 abilities_bot:
   - name: "Bellowing Command"
-    desc: "⬻ ([[auditory]], [[fear]], [[linguistic]]);  The ogre boss issues a command to hasten their fellows. Each ogre ally who hears and understands this command becomes [[quickened|quickened]] until the end of that ally's next turn, but can use the extra action only to [[Step]] or [[Stride]]."
+    desc: "⬻ ([[auditory]], [[fear]], [[linguistic]]);  The ogre boss issues a command to hasten their fellows. Each ogre ally who hears and understands this command becomes [[rules/conditions.md#Quickened|quickened]] until the end of that ally's next turn, but can use the extra action only to [[Step]] or [[Stride]]."
   - name: "Sweeping Hook"
     desc: "⬲ __Trigger__ The ogre boss successfully Trips a creature using an ogre hook. __Effect__  The ogre boss makes an ogre hook [[Strike]] against the creature they tripped."
 

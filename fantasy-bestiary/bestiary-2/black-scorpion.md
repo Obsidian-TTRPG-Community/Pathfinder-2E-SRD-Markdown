@@ -31,7 +31,7 @@ abilityMods: [9, 4, 6, -5, 6, -4]
 
 abilities_bot:
   - name: "Black Scorpion Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 36 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d12 (2d12) poison damage and [[clumsy|clumsy 2]] (1 round) __Stage 2__ 3d12 (3d12) poison damage, [[clumsy|clumsy 2]], and [[slowed|slowed 1]] (1 round) __Stage 3__ 4d12 (4d12) poison damage, [[clumsy|clumsy 4]], and [[slowed|slowed 2]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 36 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d12 (2d12) poison damage and [[rules/conditions.md#Clumsy|clumsy 2]] (1 round) __Stage 2__ 3d12 (3d12) poison damage, [[rules/conditions.md#Clumsy|clumsy 2]], and [[rules/conditions.md#Slowed|slowed 1]] (1 round) __Stage 3__ 4d12 (4d12) poison damage, [[rules/conditions.md#Clumsy|clumsy 4]], and [[rules/conditions.md#Slowed|slowed 2]] (1 round)"
   - name: "Greater Constrict"
     desc: "⬻  2d12+12 (2d12+12) bludgeoning, DC 36."
   - name: "Rapid Stinging"

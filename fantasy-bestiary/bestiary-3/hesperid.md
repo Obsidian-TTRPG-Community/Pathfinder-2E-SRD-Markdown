@@ -34,7 +34,7 @@ abilityMods: [0, 6, 4, 4, 4, 6]
 
 abilities_mid:
   - name: "Sunset Dependent"
-    desc: "  A hesperid is mystically bonded to a single remote location with a good view of the sunset—usually an island, coastal cliff, or valley. If they aren't at that location and able to see the sky at sunset on any given day, they become [[drained|drained 1]], increasing the value by 1 for each missed sunset and reducing by 1 only when they see the sunset. A hesperid can perform a 24-hour ritual to bond to a new location."
+    desc: "  A hesperid is mystically bonded to a single remote location with a good view of the sunset—usually an island, coastal cliff, or valley. If they aren't at that location and able to see the sky at sunset on any given day, they become [[rules/conditions.md#Drained|drained 1]], increasing the value by 1 for each missed sunset and reducing by 1 only when they see the sunset. A hesperid can perform a 24-hour ritual to bond to a new location."
 abilities_bot:
   - name: "Create Golden Apple"
     desc: "⬺ ([[primal]], [[transmutation]]);  While the hesperid is within their bonded location, they can spin golden light around an object they're holding of up to 20 cubic feet in volume and up to 80 Bulk. Doing so condenses the object into a magic apple made of golden light with light Bulk. The golden apple reverts back to its original shape after a full day away from the hesperid's bonded location, or when the hesperid spends a single action (which has the [[concentrate]] trait) to end the effect."

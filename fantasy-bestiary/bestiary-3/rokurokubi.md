@@ -37,7 +37,7 @@ abilities_mid:
   - name: "Attack of Opportunity"
     desc: "⬲  Jaws only"
   - name: "Drink Oil"
-    desc: "⬲ __Requirements__ The rokurokubi is aware of the attack, not [[flat-footed|flat-footed]] against it, and doesn't have a creature [[grabbed|grabbed]] with their jaws __Trigger__ The rokurokubi is the target of an alchemical bomb [[Strike]] __Effect__  The rokurokubi attempts to catch the flung bomb in their mouth. They gain a +4 circumstance bonus to AC against the triggering attack. If the attack misses, they catch the bomb in their mouth and harmlessly drink its contents down, regaining Hit Points equal to the bomb's item level."
+    desc: "⬲ __Requirements__ The rokurokubi is aware of the attack, not [[rules/conditions.md#Flat-Footed|flat-footed]] against it, and doesn't have a creature [[rules/conditions.md#Grabbed|grabbed]] with their jaws __Trigger__ The rokurokubi is the target of an alchemical bomb [[Strike]] __Effect__  The rokurokubi attempts to catch the flung bomb in their mouth. They gain a +4 circumstance bonus to AC against the triggering attack. If the attack misses, they catch the bomb in their mouth and harmlessly drink its contents down, regaining Hit Points equal to the bomb's item level."
 abilities_bot:
   - name: "Extend Neck"
     desc: "⬻  The rokurokubi extends their neck, increasing the reach of their jaws [[Strike]] from 10 feet to 20 feet until the end of their next turn."
@@ -58,7 +58,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +10 ([[finesse]], [[reach|reach 10 feet]]); __Damage__ 1d8+3 (1d8+3) piercing plus 1d6 (1d6) [[persistent damage|persistent bleed]]"
+    desc: "⬻ jaws +10 ([[finesse]], [[reach|reach 10 feet]]); __Damage__ 1d8+3 (1d8+3) piercing plus 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed]]"
   - name: Melee
     desc: "⬻ claw +10 ([[agile]], [[finesse]]); __Damage__ 1d8+3 (1d8+3) slashing"
 

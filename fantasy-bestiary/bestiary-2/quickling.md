@@ -33,7 +33,7 @@ abilityMods: [0, 4, 1, 3, 1, 3]
 
 abilities_mid:
   - name: "Slow Susceptibility"
-    desc: "  The quickling takes a –2 status penalty to saving throws against effects that cause the [[slowed|slowed]] condition. If the quickling ever becomes [[slowed|slowed]], they lose their supernatural speed, can't Fade from View, and become [[sickened|sickened 1]] for the duration of the slow. They also can't reduce this [[sickened|sickened]] condition for the duration of the [[slowed|slowed]] effect."
+    desc: "  The quickling takes a –2 status penalty to saving throws against effects that cause the [[rules/conditions.md#Slowed|slowed]] condition. If the quickling ever becomes [[rules/conditions.md#Slowed|slowed]], they lose their supernatural speed, can't Fade from View, and become [[rules/conditions.md#Sickened|sickened 1]] for the duration of the slow. They also can't reduce this [[rules/conditions.md#Sickened|sickened]] condition for the duration of the [[rules/conditions.md#Slowed|slowed]] effect."
   - name: "Can't Catch Me"
     desc: "⬲ __Trigger__ The quickling is targeted by a [[Strike]] __Effect__  The quickling darts aside, gaining a +2 circumstance bonus to AC, then [[Stride|Strides]] up to half their Speed after the [[Strike]] resolves."
 abilities_top:
@@ -41,7 +41,7 @@ abilities_top:
     desc: "lethargy poison (3 doses), shortsword;"
 abilities_bot:
   - name: "Sneak Attack"
-    desc: "  The quickling's [[Strike|Strikes]] deal an extra 1d6 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The quickling's [[Strike|Strikes]] deal an extra 1d6 (1d6) precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
   - name: "Supernatural Speed"
     desc: "  The quickling's speed, combined with nearly instantaneous acceleration and deceleration, enables them to move in astonishing ways. As long as they have a firm surface to travel across, they can [[Stride]] their full movement vertically or horizontally. They can even run across unstable surfaces, such as water, in the same way, although dangerous surfaces (acid, lava, etc.) harm them as normal. They must end their movement on a horizontal surface capable of bearing their weight or else they fall."
 

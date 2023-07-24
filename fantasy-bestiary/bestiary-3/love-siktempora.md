@@ -44,7 +44,7 @@ abilities_mid:
     desc: "⭓ __Trigger__ The misery siktempora rolls Dimension of [[Lore|Time Lore]] for initiative __Effect__  The misery siktempora [[Stride|Strides]] once and makes a claw [[Strike]], in either order."
 abilities_bot:
   - name: "Heartsong"
-    desc: " ([[emotion]], [[enchantment]], [[mental]], [[occult]]);  A creature that takes mental damage from the love siktempora's emotional bolt must succeed at a DC 37 Will save or become [[fascinated|fascinated]] by the siktempora until the end of the target's next turn. [[Hostile|Hostile]] actions don't end this [[fascinated|fascinated]] condition."
+    desc: " ([[emotion]], [[enchantment]], [[mental]], [[occult]]);  A creature that takes mental damage from the love siktempora's emotional bolt must succeed at a DC 37 Will save or become [[rules/conditions.md#Fascinated|fascinated]] by the siktempora until the end of the target's next turn. [[rules/conditions.md#Hostile|Hostile]] actions don't end this [[rules/conditions.md#Fascinated|fascinated]] condition."
   - name: "Love's Impunity"
     desc: "  The love siktempora's emotional bolt [[Strike]] doesn't trigger reactions that normally trigger based off making a ranged attack."
   - name: "Telepathic Ballad"

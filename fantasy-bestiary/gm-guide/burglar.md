@@ -33,7 +33,7 @@ abilityMods: [2, 4, 1, 1, 2, 1]
 
 abilities_mid:
   - name: "Deny Advantage"
-    desc: "  The burglar isn't [[flat-footed|flat-footed]] to creatures of 4th level or lower that are [[hidden|hidden]], [[undetected|undetected]], flanking, or using surprise attack."
+    desc: "  The burglar isn't [[rules/conditions.md#Flat-Footed|flat-footed]] to creatures of 4th level or lower that are [[rules/conditions.md#Hidden|hidden]], [[rules/conditions.md#Undetected|undetected]], flanking, or using surprise attack."
   - name: "Nimble Dodge"
     desc: "⬲ __Trigger__ The burglar is targeted with a melee or ranged attack by an attacker it can see __Effect__  The burglar gains a +2 circumstance bonus to AC against the triggering attack."
 abilities_bot:
@@ -42,7 +42,7 @@ abilities_bot:
   - name: "Sneak Attack"
     desc: "  The burglar deals an extra 1d6 (1d6) precision damage to flatfooted creatures."
   - name: "Surprise Attack"
-    desc: "  On the first round of combat, if the burglar rolls [[Deception]] or [[Stealth]] for initiative, creatures that haven't acted are [[flat-footed|flat-footed]] to them."
+    desc: "  On the first round of combat, if the burglar rolls [[Deception]] or [[Stealth]] for initiative, creatures that haven't acted are [[rules/conditions.md#Flat-Footed|flat-footed]] to them."
 
 speed: 30 feet
 

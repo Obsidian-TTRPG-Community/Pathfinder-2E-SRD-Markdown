@@ -36,7 +36,7 @@ abilities_mid:
     desc: "  The rotting hides and molding straw stuffing of skinstitches are ideal nesting grounds for vermin and insect swarms. Any animal swarm sharing a space with a skinstitch gains fast healing 3. Additionally, if a creature deals at least 10 piercing or slashing damage to the skinstitch at once, the swarm can use its swarming bites [[Strike]] (or similar attack) against the attacker as a reaction."
 abilities_bot:
   - name: "Flay"
-    desc: "⬺  The skinstitch makes a blade [[Strike]] against an animal or humanoid. On a success, the skinstitch slices a long strip of flesh from the target; if the skinstitch dealt damage, it deals an additional 1d6 (1d6) [[persistent damage|persistent bleed damage]]."
+    desc: "⬺  The skinstitch makes a blade [[Strike]] against an animal or humanoid. On a success, the skinstitch slices a long strip of flesh from the target; if the skinstitch dealt damage, it deals an additional 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed damage]]."
   - name: "Stitch Skin"
     desc: "⬻ ([[manipulate]]); __Requirements__ The skinstitch hasn't used this ability since the last time it successfully used its Flay ability  __Effect__  The skinstitch sews flayed flesh to its body to seal tears and rents. The skinstitch regains 8 Hit Points."
 

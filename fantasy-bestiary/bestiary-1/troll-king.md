@@ -35,14 +35,14 @@ abilities_mid:
   - name: "Attack of Opportunity"
     desc: "⬲ "
   - name: "Vigorous Shake"
-    desc: "⬲ __Trigger__ The troll king takes [[persistent damage|persistent acid]] or fire damage. __Effect__  The troll king shakes itself to remove persistent [[acid]] or [[fire]] effects. The troll king immediately attempts a DC 15 flat check to end the [[persistent damage|persistent damage]] that triggered this reaction. If the troll king succeeds at this check, it can immediately use Primordial Roar as part of this reaction."
+    desc: "⬲ __Trigger__ The troll king takes [[rules/conditions.md#Persistent%20Damage|persistent acid]] or fire damage. __Effect__  The troll king shakes itself to remove persistent [[acid]] or [[fire]] effects. The troll king immediately attempts a DC 15 flat check to end the [[rules/conditions.md#Persistent%20Damage|persistent damage]] that triggered this reaction. If the troll king succeeds at this check, it can immediately use Primordial Roar as part of this reaction."
 abilities_bot:
   - name: "Rend"
     desc: "⬻ ([[claw]]); "
   - name: "Forced Regeneration"
     desc: "⬻ ([[concentrate]]); __Requirements__ The troll king's regeneration is not currently deactivated.  __Effect__  The troll king regains 15 HP."
   - name: "Primordial Roar"
-    desc: "⬻ ([[auditory]], [[emotion]], [[fear]], [[mental]]);  The troll king unleashes a bestial roar. Each non-troll creature within 100 feet must attempt a DC 29 Will save. The creature is then temporarily immune for 10 minutes.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is [[frightened|frightened 1]].\n__Failure__ The creature is [[frightened|frightened 2]].\n__Critical Failure__ The creature is [[frightened|frightened 3]]."
+    desc: "⬻ ([[auditory]], [[emotion]], [[fear]], [[mental]]);  The troll king unleashes a bestial roar. Each non-troll creature within 100 feet must attempt a DC 29 Will save. The creature is then temporarily immune for 10 minutes.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is [[rules/conditions.md#Frightened|frightened 1]].\n__Failure__ The creature is [[rules/conditions.md#Frightened|frightened 2]].\n__Critical Failure__ The creature is [[rules/conditions.md#Frightened|frightened 3]]."
   - name: "Unstoppable Charge"
     desc: "⬽  The troll king [[Stride|Strides]] twice in a straight line. It can make up to two claw [[Strike|Strikes]] during this movement and one jaws [[Strike]] at the end of its movement. It can't [[Strike]] the same creature more than once."
 

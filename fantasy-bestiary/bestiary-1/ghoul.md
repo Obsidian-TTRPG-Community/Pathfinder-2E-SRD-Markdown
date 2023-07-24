@@ -37,7 +37,7 @@ abilities_bot:
   - name: "Ghoul Fever"
     desc: "  __Saving Throw__ DC 15 Fortitude. __Stage 1__ carrier with no ill effect (1 day) __Stage 2__ 2d6 (2d6) negative damage and regains half as many Hit Points from all healing (1 day) __Stage 3__ as stage 2 (1 day) __Stage 4__ 2d6 (2d6) negative damage and gains no benefit from healing (1 day) __Stage 5__ as stage 4 (1 day) __Stage 6__ dead, and rises as a [[ghoul|b1]] the next midnight (undefined)"
   - name: "Paralysis"
-    desc: " ([[incapacitation]], [[occult]], [[necromancy]]);  Any living, non-elf creature hit by a ghoul's attack must succeed at a DC 15 Fortitude save or become [[paralyzed|paralyzed]]. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save."
+    desc: " ([[incapacitation]], [[occult]], [[necromancy]]);  Any living, non-elf creature hit by a ghoul's attack must succeed at a DC 15 Fortitude save or become [[rules/conditions.md#Paralyzed|paralyzed]]. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save."
   - name: "Swift Leap"
     desc: "⬻  The ghoul jumps up to half its Speed. This movement doesn't trigger reactions."
 

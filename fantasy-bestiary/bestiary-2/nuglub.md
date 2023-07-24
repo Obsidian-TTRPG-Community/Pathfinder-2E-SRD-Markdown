@@ -33,10 +33,10 @@ abilityMods: [1, 4, 3, -1, -1, 1]
 
 abilities_mid:
   - name: "Kneecapper"
-    desc: "⬲ __Trigger__ A Medium creature within the nuglub's reach leaves a square during its move action __Effect__  The nuglub lashes out at the triggering creature's knees and tries to knock them [[prone|prone]]. The nuglub makes an [[Acrobatics]] check against the creature's Reflex DC. On a success, the target falls and lands [[prone|prone]]."
+    desc: "⬲ __Trigger__ A Medium creature within the nuglub's reach leaves a square during its move action __Effect__  The nuglub lashes out at the triggering creature's knees and tries to knock them [[rules/conditions.md#Prone|prone]]. The nuglub makes an [[Acrobatics]] check against the creature's Reflex DC. On a success, the target falls and lands [[rules/conditions.md#Prone|prone]]."
 abilities_bot:
   - name: "Sneak Attack"
-    desc: "  A nuglub's [[Strike|Strikes]] deal an additional 1d6 (1d6) precision damage to [[flat-footed|flat-footed]] targets, or 1d10 (1d10) if the target is [[prone|prone]]."
+    desc: "  A nuglub's [[Strike|Strikes]] deal an additional 1d6 (1d6) precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] targets, or 1d10 (1d10) if the target is [[rules/conditions.md#Prone|prone]]."
 
 speed: 30 feet, climb 20 feet
 

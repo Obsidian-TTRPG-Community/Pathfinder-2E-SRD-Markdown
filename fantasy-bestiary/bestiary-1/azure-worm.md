@@ -33,12 +33,12 @@ abilityMods: [10, -1, 8, -5, -1, -1]
 
 abilities_mid:
   - name: "Inexorable"
-    desc: "  The purple worm recovers from the [[paralyzed|paralyzed]], [[slowed|slowed]], and [[stunned|stunned]] conditions at the end of its turn. It's also immune to penalties to its Speeds and the [[immobilized|immobilized]] condition, and it ignores [[terrain|difficult terrain]] and [[terrain|greater difficult terrain]]."
+    desc: "  The purple worm recovers from the [[rules/conditions.md#Paralyzed|paralyzed]], [[rules/conditions.md#Slowed|slowed]], and [[rules/conditions.md#Stunned|stunned]] conditions at the end of its turn. It's also immune to penalties to its Speeds and the [[rules/conditions.md#Immobilized|immobilized]] condition, and it ignores [[terrain|difficult terrain]] and [[terrain|greater difficult terrain]]."
   - name: "Shake It Off"
     desc: "⬲ __Frequency__ once per day __Trigger__ The purple worm would be affected by a condition or adverse effect (such as baleful polymorph). __Effect__  The purple worm negates the triggering condition or effect. s from artifacts, deities, or a similarly powerful source can't be avoided in this way."
 abilities_bot:
   - name: "Azure Worm Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 37 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 3d6 (3d6) poison damage and [[clumsy|clumsy 2]] (1 round) __Stage 2__ 4d6 (4d6) poison damage and [[clumsy|clumsy 2]] (1 round) __Stage 3__ 6d6 (6d6) poison damage and [[clumsy|clumsy 2]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 37 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 3d6 (3d6) poison damage and [[rules/conditions.md#Clumsy|clumsy 2]] (1 round) __Stage 2__ 4d6 (4d6) poison damage and [[rules/conditions.md#Clumsy|clumsy 2]] (1 round) __Stage 3__ 6d6 (6d6) poison damage and [[rules/conditions.md#Clumsy|clumsy 2]] (1 round)"
   - name: "Breach"
     desc: "⬺  The azure worm Swims up to its swim Speed, then Leaps vertically out of the water up to 30 feet, making a [[Strike]] against a creature at the apex of the jump (this lets it attack a creature within 45 feet of the water's surface). After the [[Strike]], the worm splashes back down. It can use [[Improved Grab]] on this [[Strike]] and follow it up with Fast Swallow."
   - name: "Fast Swallow"

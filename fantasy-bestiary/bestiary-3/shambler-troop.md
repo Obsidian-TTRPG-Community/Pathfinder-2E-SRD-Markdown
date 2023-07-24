@@ -34,7 +34,7 @@ abilityMods: [5, 0, 3, -5, 1, -2]
 
 abilities_top:
   - name: "Slow"
-    desc: "  A shambler troop is permanently [[slowed|slowed 1]] and can't use reactions."
+    desc: "  A shambler troop is permanently [[rules/conditions.md#Slowed|slowed 1]] and can't use reactions."
 abilities_mid:
   - name: "Troop Defenses"
     desc: " ([[page 306]]); "

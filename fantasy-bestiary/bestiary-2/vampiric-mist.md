@@ -37,7 +37,7 @@ abilities_top:
     desc: "  A vampiric mist can sense creatures that have blood within 60 feet. It can sense exposed blood within a mile."
 abilities_bot:
   - name: "Blood Siphon"
-    desc: "  When a vampiric mist damages a creature with a misty tendril [[Strike]], the creature must attempt a DC 20 Fortitude save. If the [[Strike]] was a critical hit, the outcome of the creature's save is one degree worse than the result of the saving throw. Any temporary Hit Points the vampiric mist gains from Blood Siphon fade after 1 hour.\n__Success__ The creature is unaffected.\n__Failure__ The creature is [[drained|drained 1]], and the vampiric mist gains 5 temporary Hit Points.\n__Critical Failure__ The creature is [[drained|drained 2]]. The vampiric mist gains 10 temporary Hit Points and takes on an intense red until the end of its next turn. During this time, it gains a +2 status bonus to AC and saves and is [[quickened|quickened]]. It can use its extra action only to [[Strike]]."
+    desc: "  When a vampiric mist damages a creature with a misty tendril [[Strike]], the creature must attempt a DC 20 Fortitude save. If the [[Strike]] was a critical hit, the outcome of the creature's save is one degree worse than the result of the saving throw. Any temporary Hit Points the vampiric mist gains from Blood Siphon fade after 1 hour.\n__Success__ The creature is unaffected.\n__Failure__ The creature is [[rules/conditions.md#Drained|drained 1]], and the vampiric mist gains 5 temporary Hit Points.\n__Critical Failure__ The creature is [[rules/conditions.md#Drained|drained 2]]. The vampiric mist gains 10 temporary Hit Points and takes on an intense red until the end of its next turn. During this time, it gains a +2 status bonus to AC and saves and is [[rules/conditions.md#Quickened|quickened]]. It can use its extra action only to [[Strike]]."
 
 speed: fly 40 feet
 
@@ -53,7 +53,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ misty tendril +10 ([[agile]], [[finesse]]); __Damage__ 2d6 (2d6) slashing damage plus 1d6 (1d6) [[persistent damage|persistent bleed damage]] and blood siphon"
+    desc: "⬻ misty tendril +10 ([[agile]], [[finesse]]); __Damage__ 2d6 (2d6) slashing damage plus 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed damage]] and blood siphon"
 
 sourcebook: "_Bestiary 2_, page 278."
 ```

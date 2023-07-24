@@ -40,7 +40,7 @@ abilities_mid:
   - name: "Attack of Opportunity"
     desc: "⬲ "
   - name: "Bravery"
-    desc: "  When the pirate rolls a success on a Will save against a [[fear]] effect, they get a critical success instead. In addition, anytime they gain the [[frightened|frightened]] condition, reduce its value by 1."
+    desc: "  When the pirate rolls a success on a Will save against a [[fear]] effect, they get a critical success instead. In addition, anytime they gain the [[rules/conditions.md#Frightened|frightened]] condition, reduce its value by 1."
 abilities_bot:
   - name: "Boarding Action"
     desc: "⬺  The pirate swings on a rope or [[Stride|Strides]], moving up to double their Speed. If the pirate boarded or disembarked a boat during this movement, they can make a melee [[Strike]] at the end of their movement that deals one extra damage die on a hit."

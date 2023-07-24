@@ -32,7 +32,7 @@ abilityMods: [0, 3, 0, -4, 3, -2]
 
 abilities_bot:
   - name: "Glowing Mucus"
-    desc: "⬻ __Requirements__ The vampire squid is in water __Frequency__ once per day  __Effect__  The vampire squid ejects a cloud of bioluminescent mucus in a 15-foot cone. Non-squid creatures within the cloud must attempt a DC 16 Fortitude save or become [[sickened|sickened 1]]. The glowing mucus remains in the area for 1 minute, and any creature that ends its turn in the area must succeed at a DC 13 Fortitude save or become [[sickened|sickened 1]]."
+    desc: "⬻ __Requirements__ The vampire squid is in water __Frequency__ once per day  __Effect__  The vampire squid ejects a cloud of bioluminescent mucus in a 15-foot cone. Non-squid creatures within the cloud must attempt a DC 16 Fortitude save or become [[rules/conditions.md#Sickened|sickened 1]]. The glowing mucus remains in the area for 1 minute, and any creature that ends its turn in the area must succeed at a DC 13 Fortitude save or become [[rules/conditions.md#Sickened|sickened 1]]."
 
 speed: swim 25 feet
 

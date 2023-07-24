@@ -34,7 +34,7 @@ abilities_mid:
     desc: "⬲ __Trigger__ The giant fly is targeted with a melee or ranged attack by an attacker it can see __Effect__  The giant fly gains a +2 circumstance bonus against the triggering attack. If the attack misses, the giant insect can [[Fly]] up to its fly Speed."
 abilities_bot:
   - name: "Fly Pox"
-    desc: " ([[disease]], [[virulent]]);  __Saving Throw__ DC 16 Fortitude. __Stage 1__ [[enfeebled|enfeebled 1]] (1 day) __Stage 2__ as stage 1 (1 day) __Stage 3__ [[enfeebled|enfeebled 2]] (1 day) __Stage 4__ as stage 3 (null) __Stage 5__ [[enfeebled|enfeebled 2]] and [[fatigued|fatigued]] (1 day)"
+    desc: " ([[disease]], [[virulent]]);  __Saving Throw__ DC 16 Fortitude. __Stage 1__ [[rules/conditions.md#Enfeebled|enfeebled 1]] (1 day) __Stage 2__ as stage 1 (1 day) __Stage 3__ [[rules/conditions.md#Enfeebled|enfeebled 2]] (1 day) __Stage 4__ as stage 3 (null) __Stage 5__ [[rules/conditions.md#Enfeebled|enfeebled 2]] and [[rules/conditions.md#Fatigued|fatigued]] (1 day)"
 
 speed: 20 feet, climb 20 feet, fly 40 feet
 

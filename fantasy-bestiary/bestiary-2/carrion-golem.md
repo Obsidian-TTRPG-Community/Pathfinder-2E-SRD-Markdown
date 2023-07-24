@@ -34,14 +34,14 @@ abilityMods: [4, -2, 3, -5, 0, -5]
 
 abilities_mid:
   - name: "Golem Antimagic"
-    desc: "  harmed by fire (4d6 (4d6), 1d8 (1d8) from areas or [[persistent damage|persistent damage]]); healed by electricity (area 1d6 (1d6) HP); [[slowed|slowed]] by cold."
+    desc: "  harmed by fire (4d6 (4d6), 1d8 (1d8) from areas or [[rules/conditions.md#Persistent%20Damage|persistent damage]]); healed by electricity (area 1d6 (1d6) HP); [[rules/conditions.md#Slowed|slowed]] by cold."
   - name: "Stench"
-    desc: " ([[aura]], [[olfactory]]);  40 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 19 Fortitude save or become [[sickened|sickened 1]] (plus [[slowed|slowed 1]] for as long as it's [[sickened|sickened]] on a critical failure). While within the aura, affected creatures take a –2 circumstance penalty to saves against disease and to recover from the [[sickened|sickened]] condition. A creature that succeeds at its save is temporarily immune for 1 minute."
+    desc: " ([[aura]], [[olfactory]]);  40 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 19 Fortitude save or become [[rules/conditions.md#Sickened|sickened 1]] (plus [[rules/conditions.md#Slowed|slowed 1]] for as long as it's [[rules/conditions.md#Sickened|sickened]] on a critical failure). While within the aura, affected creatures take a –2 circumstance penalty to saves against disease and to recover from the [[rules/conditions.md#Sickened|sickened]] condition. A creature that succeeds at its save is temporarily immune for 1 minute."
   - name: "Vulnerable to Gentle Repose"
-    desc: "  Casting a [[gentle repose]] spell on a carrion golem causes it to grow stiff. The golem attempts a DC 19 Fortitude save. It's unaffected on a critical success, [[slowed|slowed 1]] for 1d4 (1d4) rounds on a success, and on a failure is [[immobilized|immobilized]] and [[slowed|slowed]] for 1d4 (1d4) rounds."
+    desc: "  Casting a [[gentle repose]] spell on a carrion golem causes it to grow stiff. The golem attempts a DC 19 Fortitude save. It's unaffected on a critical success, [[rules/conditions.md#Slowed|slowed 1]] for 1d4 (1d4) rounds on a success, and on a failure is [[rules/conditions.md#Immobilized|immobilized]] and [[rules/conditions.md#Slowed|slowed]] for 1d4 (1d4) rounds."
 abilities_bot:
   - name: "Filth Fever"
-    desc: " ([[disease]]);  __Saving Throw__ DC 19 Fortitude. __Stage 1__ carrier with no ill effect (1d4 (1d4) hours) __Stage 2__ [[sickened|sickened 1]] (1 day) __Stage 3__ [[sickened|sickened 1]] and [[slowed|slowed 1]] as long as it remains [[sickened|sickened]] (1 day) __Stage 4__ [[unconscious|unconscious]]  (1 day)"
+    desc: " ([[disease]]);  __Saving Throw__ DC 19 Fortitude. __Stage 1__ carrier with no ill effect (1d4 (1d4) hours) __Stage 2__ [[rules/conditions.md#Sickened|sickened 1]] (1 day) __Stage 3__ [[rules/conditions.md#Sickened|sickened 1]] and [[rules/conditions.md#Slowed|slowed 1]] as long as it remains [[rules/conditions.md#Sickened|sickened]] (1 day) __Stage 4__ [[rules/conditions.md#Unconscious|unconscious]]  (1 day)"
 
 speed: 25 feet
 

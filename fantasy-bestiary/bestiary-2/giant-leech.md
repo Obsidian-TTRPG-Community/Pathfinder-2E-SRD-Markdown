@@ -32,7 +32,7 @@ abilityMods: [4, 1, 3, -5, 1, -5]
 
 abilities_bot:
   - name: "Blood Drain"
-    desc: "⬻ __Requirements__ The giant leech has a creature [[grabbed|grabbed]] or [[restrained|restrained]]  __Effect__  The giant leech drains blood from the creature it has [[grabbed|grabbed]]. This deals 2d4 (2d4) damage. A creature that has its blood [[drained|drained]] by a giant leech is [[drained|drained 1]] until it receives any kind or amount of healing."
+    desc: "⬻ __Requirements__ The giant leech has a creature [[rules/conditions.md#Grabbed|grabbed]] or [[rules/conditions.md#Restrained|restrained]]  __Effect__  The giant leech drains blood from the creature it has [[rules/conditions.md#Grabbed|grabbed]]. This deals 2d4 (2d4) damage. A creature that has its blood [[rules/conditions.md#Drained|drained]] by a giant leech is [[rules/conditions.md#Drained|drained 1]] until it receives any kind or amount of healing."
 
 speed: 5 feet, swim 20 feet
 

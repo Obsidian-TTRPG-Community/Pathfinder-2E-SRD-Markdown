@@ -47,9 +47,9 @@ abilities_bot:
   - name: "Chain of Malebolge"
     desc: "⬻ __Requirements__ The cornugon's last action was a success with a spiked chain  __Effect__  [[Strike]]; The devil pulls the creature 5 feet closer and grabs it with the spiked chain ([[Escape]] DC 42). The creature is automatically freed if the devil makes another spiked chain attack or moves away."
   - name: "Infernal Wound"
-    desc: " ([[divine]], [[necromancy]]);  A cornugon's tail [[Strike]] deals 4d6 (4d6) [[persistent damage|persistent bleed damage]]. The DC of the flat check to stop the bleeding starts at 20 and is reduced to 15 only if someone successfully assists. The DC to [[Administer First Aid]] to a creature with an infernal wound increases by 10. A spellcaster or item using healing magic on an infernally [[wounded|wounded]] creature must succeed at a DC 34 counteract check or the magic fails to heal the creature."
+    desc: " ([[divine]], [[necromancy]]);  A cornugon's tail [[Strike]] deals 4d6 (4d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed damage]]. The DC of the flat check to stop the bleeding starts at 20 and is reduced to 15 only if someone successfully assists. The DC to [[Administer First Aid]] to a creature with an infernal wound increases by 10. A spellcaster or item using healing magic on an infernally [[rules/conditions.md#Wounded|wounded]] creature must succeed at a DC 34 counteract check or the magic fails to heal the creature."
   - name: "Stunning Chain"
-    desc: " ([[incapacitation]]);  If the cornugon critically hits with its spiked chain [[Strike]], the target must succeed at a DC 34 Fortitude save or be [[stunned|stunned]] for 1 round (1d4 (1d4) rounds on a critical failure)."
+    desc: " ([[incapacitation]]);  If the cornugon critically hits with its spiked chain [[Strike]], the target must succeed at a DC 34 Fortitude save or be [[rules/conditions.md#Stunned|stunned]] for 1 round (1d4 (1d4) rounds on a critical failure)."
 
 speed: 25 feet, fly 50 feet
 

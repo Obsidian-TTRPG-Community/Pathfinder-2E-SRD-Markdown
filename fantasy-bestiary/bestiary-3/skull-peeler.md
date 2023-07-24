@@ -34,7 +34,7 @@ abilities_mid:
     desc: "⬲ __Trigger__ The skull peeler is using Perfect Camouflage and a creature moves into a space within 15 feet of it __Effect__  The skull peeler Leaps toward the triggering creature and [[Strike|Strikes]] with its tongue. If this [[Strike]] is successful, the skull peeler automatically [[Grab|Grabs]] the target with its tongue."
 abilities_bot:
   - name: "Anticoagulant"
-    desc: "  The skull peeler's razor-sharp tongue is coated in an anticoagulant substance that makes wounds it inflicts particularly hard to close. The DC of the flat check to end the [[persistent damage|persistent bleed damage]] from a skull peeler's tongue is 16, or 11 with appropriate assistance."
+    desc: "  The skull peeler's razor-sharp tongue is coated in an anticoagulant substance that makes wounds it inflicts particularly hard to close. The DC of the flat check to end the [[rules/conditions.md#Persistent%20Damage|persistent bleed damage]] from a skull peeler's tongue is 16, or 11 with appropriate assistance."
   - name: "Perfect Camouflage"
     desc: "⬻ ([[concentrate]]); __Requirements__ The skull peeler is in a treetop or standing on a tree limb  __Effect__  Until the next time it acts, the skull peeler hangs perfectly still, blending into the treetop surroundings. It has an automatic result of 36 on [[Stealth]] checks and DCs to [[Hide]] from any creature more than 10 feet away from it."
 
@@ -52,7 +52,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ tongue +17 ([[agile]], [[fatal|fatal d12]], [[reach|reach 10 feet]]); __Damage__ 2d4+8 (2d4+8) slashing plus 1d8 (1d8) [[persistent damage|persistent bleed]]"
+    desc: "⬻ tongue +17 ([[agile]], [[fatal|fatal d12]], [[reach|reach 10 feet]]); __Damage__ 2d4+8 (2d4+8) slashing plus 1d8 (1d8) [[rules/conditions.md#Persistent%20Damage|persistent bleed]]"
   - name: Melee
     desc: "⬻ claw +17 __Damage__ 2d10+8 (2d10+8) slashing"
 

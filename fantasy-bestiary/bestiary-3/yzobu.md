@@ -31,7 +31,7 @@ abilityMods: [4, 3, 4, -5, 1, 2]
 
 abilities_mid:
   - name: "Pungent Aura"
-    desc: " ([[aura]], [[olfactory]]);  10 feet. Creatures other than yzobus or hobgoblins that enter or start their turn in the yzobu's aura must succeed at a DC 14 Fortitude save or become [[sickened|sickened 1]], or [[sickened|sickened 2]] on a critical failure. A creature that succeeds at its save is temporarily immune for 1 minute."
+    desc: " ([[aura]], [[olfactory]]);  10 feet. Creatures other than yzobus or hobgoblins that enter or start their turn in the yzobu's aura must succeed at a DC 14 Fortitude save or become [[rules/conditions.md#Sickened|sickened 1]], or [[rules/conditions.md#Sickened|sickened 2]] on a critical failure. A creature that succeeds at its save is temporarily immune for 1 minute."
 
 speed: 30 feet
 

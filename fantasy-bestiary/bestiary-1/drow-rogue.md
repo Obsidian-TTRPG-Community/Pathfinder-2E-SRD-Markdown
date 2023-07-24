@@ -39,12 +39,12 @@ abilities_top:
     desc: "hand crossbow (10 bolts), lethargy poison (2 doses), [[shortsword]], studded leather armor;"
 abilities_mid:
   - name: "Nimble Dodge"
-    desc: "⬲ __Requirements__ A drow rogue can't use this reaction while [[encumbered|encumbered]]. __Trigger__ The drow rogue is hit or critically hit by an attack made by a creature the drow rogue can see. __Effect__  The drow rogue gains a +2 circumstance bonus to their Armor Class against the triggering attack."
+    desc: "⬲ __Requirements__ A drow rogue can't use this reaction while [[rules/conditions.md#Encumbered|encumbered]]. __Trigger__ The drow rogue is hit or critically hit by an attack made by a creature the drow rogue can see. __Effect__  The drow rogue gains a +2 circumstance bonus to their Armor Class against the triggering attack."
 abilities_bot:
   - name: "Quick Draw"
     desc: "⬻  The drow fighter draws a weapon using the [[Interact]] action, then [[Strike|Strikes]] with that weapon."
   - name: "Sneak Attack"
-    desc: "  The drow rogue deals 1d6 (1d6) extra precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The drow rogue deals 1d6 (1d6) extra precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
 
 speed: 30 feet
 

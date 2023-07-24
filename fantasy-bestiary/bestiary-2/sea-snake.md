@@ -37,7 +37,7 @@ abilities_mid:
     desc: "⬲ __Trigger__ A creature within the sea snake's reach uses a move action __Effect__  The sea snake makes a bite [[Strike]] against the attacker."
 abilities_bot:
   - name: "Sea Snake Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 16 Fortitude. __Maximum Duration__ 10 rounds __Stage 1__ 1d6 (1d6) poison damage (1 round) __Stage 2__ 1d6 (1d6) poison damage and [[enfeebled|enfeebled 1]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 16 Fortitude. __Maximum Duration__ 10 rounds __Stage 1__ 1d6 (1d6) poison damage (1 round) __Stage 2__ 1d6 (1d6) poison damage and [[rules/conditions.md#Enfeebled|enfeebled 1]] (1 round)"
 
 speed: 15 feet, swim 25 feet
 

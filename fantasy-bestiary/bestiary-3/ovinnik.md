@@ -35,7 +35,7 @@ abilities_top:
     desc: "  As domovoi, except the ovinnik preserves food from vermin and mold or causes devastating fires and infestations."
 abilities_mid:
   - name: "Shy"
-    desc: "  A domovoi is naturally [[invisible|invisible]] while within sight of their bound home. The domovoi can become visible, or even selectively visible—allowing some people to see them."
+    desc: "  A domovoi is naturally [[rules/conditions.md#Invisible|invisible]] while within sight of their bound home. The domovoi can become visible, or even selectively visible—allowing some people to see them."
 abilities_bot:
   - name: "Raise Grain Cloud"
     desc: "⬺  While in their bound storeroom or granary, the ovinnik slams a paw against the ground, stirring up a cloud of grain dust in an 20-foot emanation. Within this cloud, they gain a +4 status bonus to any fire damage they deal. The ovinnik doubles their fire resistance against this increased damage. The grain cloud dissipates after the first such effect or after 1 minute if no such effects occur."

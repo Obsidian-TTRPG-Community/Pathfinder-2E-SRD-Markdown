@@ -36,11 +36,11 @@ abilities_bot:
   - name: "Deceptive Reposition"
     desc: "⬻  The Coil spy [[Stride|Strides]] up to half their Speed and attempts a [[Feint]], in either order."
   - name: "Maintain Disguise"
-    desc: "  A Coil spy can maintain an ongoing illusory disguise as long as they are conscious without having to re-cast the spell; they need only [[Cast a Spell|Cast the Spell]] again to reassume their illusory disguise if they wish to change their appearance or if the active spell is dispelled. Coil spies typically seek privacy when they need to sleep, as an ongoing illusory disguise ends an hour after they fall [[unconscious|unconscious]]."
+    desc: "  A Coil spy can maintain an ongoing illusory disguise as long as they are conscious without having to re-cast the spell; they need only [[Cast a Spell|Cast the Spell]] again to reassume their illusory disguise if they wish to change their appearance or if the active spell is dispelled. Coil spies typically seek privacy when they need to sleep, as an ongoing illusory disguise ends an hour after they fall [[rules/conditions.md#Unconscious|unconscious]]."
   - name: "Serpentfolk Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 19 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d4 (1d4) poison damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 2d4 (2d4) poison damage and [[enfeebled|enfeebled 1]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 19 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d4 (1d4) poison damage and [[rules/conditions.md#Enfeebled|enfeebled 1]] (1 round) __Stage 2__ 2d4 (2d4) poison damage and [[rules/conditions.md#Enfeebled|enfeebled 1]] (1 round)"
   - name: "Sneak Attack The"
-    desc: "  Coil spy's [[Strike|Strikes]] deal an extra 2d6 (2d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  Coil spy's [[Strike|Strikes]] deal an extra 2d6 (2d6) precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
 
 speed: 25 feet
 

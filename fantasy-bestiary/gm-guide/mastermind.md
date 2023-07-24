@@ -40,9 +40,9 @@ abilities_top:
     desc: "chain shirt, disguise kit, hand crossbow (10 bolts), shortsword;"
 abilities_bot:
   - name: "Scoundrel's Feint"
-    desc: "  When the mastermind successfully [[Feint|Feints]], the target is [[flat-footed|flat-footed]] against the mastermind's melee attacks until the end of the mastermind's next turn. On a critical success, the target is [[flat-footed|flat-footed]] against all melee attacks for that time, not just the mastermind's."
+    desc: "  When the mastermind successfully [[Feint|Feints]], the target is [[rules/conditions.md#Flat-Footed|flat-footed]] against the mastermind's melee attacks until the end of the mastermind's next turn. On a critical success, the target is [[rules/conditions.md#Flat-Footed|flat-footed]] against all melee attacks for that time, not just the mastermind's."
   - name: "Sneak Attack"
-    desc: "  The mastermind deals an extra 1d6 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The mastermind deals an extra 1d6 (1d6) precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
 
 speed: 25 feet
 

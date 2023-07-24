@@ -33,7 +33,7 @@ abilities_bot:
   - name: "Malleable"
     desc: "  The giant slug can fit through tight spaces as if it were a Large creature. While [[Squeeze|Squeezing]], it can move at its full Speed. It can [[Squeeze]] through spaces that typically fit only a Medium creature, but it does so at the usual Speed for [[Squeeze|Squeezing]]."
   - name: "Mucus"
-    desc: "  Any creature hit by the giant slug or that moves into its mucus trail is coated in sticky, caustic mucus. It takes 1d4 (1d4) [[persistent damage|persistent acid damage]] and takes a –5-foot status penalty to its Speeds while the damage persists."
+    desc: "  Any creature hit by the giant slug or that moves into its mucus trail is coated in sticky, caustic mucus. It takes 1d4 (1d4) [[rules/conditions.md#Persistent%20Damage|persistent acid damage]] and takes a –5-foot status penalty to its Speeds while the damage persists."
   - name: "Mucus Trail"
     desc: "  Any square the giant slug moves into is coated in mucus. These spaces are [[terrain|difficult terrain]], and any creature that moves into one or ends its turn in one is subjected to the slug's mucus. After an hour, the mucus dries and the area is no longer [[terrain|difficult terrain]]."
   - name: "Trample"

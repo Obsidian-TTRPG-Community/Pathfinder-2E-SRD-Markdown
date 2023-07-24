@@ -38,9 +38,9 @@ abilities_bot:
   - name: "Designate Master"
     desc: "  A raktavarna can designate a creature as their master using a 10-minute invocation in which the master must participate. The raktavarna can revoke this status at any time."
   - name: "Master's Eyes"
-    desc: "  As a 3-action activity with the [[concentrate]] trait, a raktavarna's master can observe the world through the raktavarna's eyes, instead of their own. This uses the raktavarna's [[Perception]] and [[darkvision]]. Each round, the master must spend a single action, which also has the [[concentrate]] trait, to maintain the connection. This ability functions at any range, even on different planes of existence. If the raktavarna dies while their master is using this ability, the master is [[stunned|stunned 5]]."
+    desc: "  As a 3-action activity with the [[concentrate]] trait, a raktavarna's master can observe the world through the raktavarna's eyes, instead of their own. This uses the raktavarna's [[Perception]] and [[darkvision]]. Each round, the master must spend a single action, which also has the [[concentrate]] trait, to maintain the connection. This ability functions at any range, even on different planes of existence. If the raktavarna dies while their master is using this ability, the master is [[rules/conditions.md#Stunned|stunned 5]]."
   - name: "Raktavarna Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 16 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d4 (1d4) poison damage and [[stupefied|stupefied 1]] (1 round) __Stage 2__ 1d4 (1d4) poison damage and [[stupefied|stupefied 2]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 16 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d4 (1d4) poison damage and [[rules/conditions.md#Stupefied|stupefied 1]] (1 round) __Stage 2__ 1d4 (1d4) poison damage and [[rules/conditions.md#Stupefied|stupefied 2]] (1 round)"
 
 speed: 20 feet, climb 20 feet, swim 20 feet
 

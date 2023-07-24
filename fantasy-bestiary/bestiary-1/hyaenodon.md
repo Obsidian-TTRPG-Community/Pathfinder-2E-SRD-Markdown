@@ -31,9 +31,9 @@ abilityMods: [5, 3, 3, -4, 2, -2]
 
 abilities_bot:
   - name: "Bonecrunching Bite"
-    desc: "  A creature that is critically hit by a hyaenodon must succeed at a DC 20 Fortitude save or become [[wounded|wounded 1]] as the creature's bones or cartilage are crushed by the beast's jaws."
+    desc: "  A creature that is critically hit by a hyaenodon must succeed at a DC 20 Fortitude save or become [[rules/conditions.md#Wounded|wounded 1]] as the creature's bones or cartilage are crushed by the beast's jaws."
   - name: "Drag"
-    desc: "⬻  The hyena makes a jaws [[Strike]] against a [[prone|prone]] enemy. If it hits, in addition to dealing damage, the hyena [[Stride|Strides]] up to 10 feet, dragging the enemy along."
+    desc: "⬻  The hyena makes a jaws [[Strike]] against a [[rules/conditions.md#Prone|prone]] enemy. If it hits, in addition to dealing damage, the hyena [[Stride|Strides]] up to 10 feet, dragging the enemy along."
   - name: "Pack Attack"
     desc: "  The hyaenodon deals an extra 1d6 (1d6) damage to any creature within reach of at least two of the hyaenodon's allies."
 

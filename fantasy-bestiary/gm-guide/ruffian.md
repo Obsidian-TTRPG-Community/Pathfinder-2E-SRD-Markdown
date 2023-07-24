@@ -39,11 +39,11 @@ abilities_top:
     desc: "club, sling (10 bullets), studded leather armor;"
 abilities_bot:
   - name: "Brutal Beating"
-    desc: "  The ruffian's brutality shakes foes' confidence. When the ruffian deals damage on a critical hit, the target is [[frightened|frightened 1]], and the ruffian can knock the target up to 10 feet away (this is [[forced movement|forced movement]])."
+    desc: "  The ruffian's brutality shakes foes' confidence. When the ruffian deals damage on a critical hit, the target is [[rules/conditions.md#Frightened|frightened 1]], and the ruffian can knock the target up to 10 feet away (this is [[forced movement|forced movement]])."
   - name: "Snagging Strike"
-    desc: "⬻ __Trigger__ The ruffian has one hand free, and its target is within reach of that hand __Effect__  The ruffian makes a melee [[Strike]] while keeping one hand free. If this [[Strike]] hits, the target is [[flat-footed|flat-footed]] until the start of the ruffian's next turn or until it leaves the ruffian's reach, whichever comes first."
+    desc: "⬻ __Trigger__ The ruffian has one hand free, and its target is within reach of that hand __Effect__  The ruffian makes a melee [[Strike]] while keeping one hand free. If this [[Strike]] hits, the target is [[rules/conditions.md#Flat-Footed|flat-footed]] until the start of the ruffian's next turn or until it leaves the ruffian's reach, whichever comes first."
   - name: "Sneak Attack"
-    desc: "  The ruffian deals an extra 1d6 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The ruffian deals an extra 1d6 (1d6) precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
 
 speed: 25 feet
 

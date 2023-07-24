@@ -34,7 +34,7 @@ abilityMods: [3, 4, 2, 1, 3, 1]
 
 abilities_mid:
   - name: "Enraged Growth"
-    desc: "⬲ ([[polymorph]], [[primal]], [[transmutation]]); __Trigger__ The spriggan bully takes damage __Effect__  The spriggan bully grows to Large size, along with their equipment (which returns to natural size if removed). The spriggan bully's reach increases by 5 feet. They regain 5 Hit Points and gain a +2 status bonus to melee attacks and damage rolls. This effect continues until the end of the spriggan bully's next turn, but on any turn in which the spriggan bully deals damage to another creature and is not [[fatigued|fatigued]], the effect extends until the end of the following turn. When Enraged Growth ends, the spriggan bully is [[fatigued|fatigued]] for 1 hour."
+    desc: "⬲ ([[polymorph]], [[primal]], [[transmutation]]); __Trigger__ The spriggan bully takes damage __Effect__  The spriggan bully grows to Large size, along with their equipment (which returns to natural size if removed). The spriggan bully's reach increases by 5 feet. They regain 5 Hit Points and gain a +2 status bonus to melee attacks and damage rolls. This effect continues until the end of the spriggan bully's next turn, but on any turn in which the spriggan bully deals damage to another creature and is not [[rules/conditions.md#Fatigued|fatigued]], the effect extends until the end of the following turn. When Enraged Growth ends, the spriggan bully is [[rules/conditions.md#Fatigued|fatigued]] for 1 hour."
 abilities_top:
   - name: Items
     desc: "crossbow (10 bolts), morningstar;"
@@ -42,7 +42,7 @@ abilities_bot:
   - name: "Bully's Bludgeon"
     desc: "⬻  The spriggan bully makes a morningstar [[Strike]] with a +2 circumstance bonus to its attack roll. This attack is nonlethal."
   - name: "Sneak Attack"
-    desc: "  The spriggan bully's [[Strike|Strikes]] deal an additional 1d6 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The spriggan bully's [[Strike|Strikes]] deal an additional 1d6 (1d6) precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
 
 speed: 20 feet
 

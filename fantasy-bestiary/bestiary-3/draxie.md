@@ -33,7 +33,7 @@ abilityMods: [-1, 4, 1, 3, 1, 3]
 
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[emotion]], [[enchantment]], [[incapacitation]], [[mental]], [[primal]]);  The draxie breathes pixie dust in a 15-foot cone, with a random effect determined each time they use their Breath Weapon. Each creature in the area must succeed at a DC 17 Will save or be affected. Roll 1d4 (1d4) to determine the effect. The draxie can't use Breath Weapon again for 1d4 (1d4) rounds. 1 The target takes the effects of the [[charm]] spell. 2 The target loses its last 5 minutes of memory. 3 The target takes the effects of a [[sleep]] spell. 4 The target becomes [[stupefied|stupefied 2]] and [[slowed|slowed 1]] from euphoria."
+    desc: "⬺ ([[emotion]], [[enchantment]], [[incapacitation]], [[mental]], [[primal]]);  The draxie breathes pixie dust in a 15-foot cone, with a random effect determined each time they use their Breath Weapon. Each creature in the area must succeed at a DC 17 Will save or be affected. Roll 1d4 (1d4) to determine the effect. The draxie can't use Breath Weapon again for 1d4 (1d4) rounds. 1 The target takes the effects of the [[charm]] spell. 2 The target loses its last 5 minutes of memory. 3 The target takes the effects of a [[sleep]] spell. 4 The target becomes [[rules/conditions.md#Stupefied|stupefied 2]] and [[rules/conditions.md#Slowed|slowed 1]] from euphoria."
 
 speed: 15 feet, fly 40 feet
 

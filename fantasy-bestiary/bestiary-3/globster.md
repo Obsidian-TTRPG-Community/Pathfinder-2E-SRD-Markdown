@@ -32,12 +32,12 @@ abilityMods: [6, -5, 5, -5, 0, -5]
 
 abilities_mid:
   - name: "Stench"
-    desc: " ([[aura]], [[olfactory]]);  30 feet. A creature entering the aura or starting its turn in the area must succeed at a DC 19 Fortitude save or become [[sickened|sickened 1]] (plus [[slowed|slowed 1]] for as long as it's [[sickened|sickened]] on a critical failure) While within the aura, affected creatures take a –2 circumstance penalty to saves against disease and to recover from the [[sickened|sickened]] condition. A creature that succeeds at its save is temporarily immune to all globsters' stenches for 1 minute."
+    desc: " ([[aura]], [[olfactory]]);  30 feet. A creature entering the aura or starting its turn in the area must succeed at a DC 19 Fortitude save or become [[rules/conditions.md#Sickened|sickened 1]] (plus [[rules/conditions.md#Slowed|slowed 1]] for as long as it's [[rules/conditions.md#Sickened|sickened]] on a critical failure) While within the aura, affected creatures take a –2 circumstance penalty to saves against disease and to recover from the [[rules/conditions.md#Sickened|sickened]] condition. A creature that succeeds at its save is temporarily immune to all globsters' stenches for 1 minute."
 abilities_bot:
   - name: "Constrict"
     desc: "⬻  1d8+6 (1d8+6), DC 22"
   - name: "Nauseating Slap"
-    desc: " ([[poison]]);  A living creature struck by a globster's tendril must attempt a DC 19 Fortitude save. On a failure, the creature becomes [[sickened|sickened 1]]. If the creature is already [[sickened|sickened]], the condition value increases by 1, to a maximum of [[sickened|sickened 4]]. Once a creature succeeds at its saving throw, it is temporarily immune for 24 hours."
+    desc: " ([[poison]]);  A living creature struck by a globster's tendril must attempt a DC 19 Fortitude save. On a failure, the creature becomes [[rules/conditions.md#Sickened|sickened 1]]. If the creature is already [[rules/conditions.md#Sickened|sickened]], the condition value increases by 1, to a maximum of [[rules/conditions.md#Sickened|sickened 4]]. Once a creature succeeds at its saving throw, it is temporarily immune for 24 hours."
   - name: "Saturated"
     desc: "  A globster can survive for 1 hour out of the water, after which it risks drowning and suffocation."
 

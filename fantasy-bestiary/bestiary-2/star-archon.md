@@ -33,9 +33,9 @@ abilityMods: [8, 9, 6, 9, 9, 6]
 
 abilities_mid:
   - name: "Blinding Soul"
-    desc: " ([[divine]], [[evocation]], [[light]], [[visual]]);  Whenever the star archon takes slashing damage, bright light pours from their wounds. Non-archons within 10 feet must attempt a DC 38 Fortitude save. On a failure, a creature is [[dazzled|dazzled]] for 1 round. On a critical failure, the creature is [[blinded|blinded]] for 1d4 (1d4) rounds instead. The creature is then temporarily immune for 1 round."
+    desc: " ([[divine]], [[evocation]], [[light]], [[visual]]);  Whenever the star archon takes slashing damage, bright light pours from their wounds. Non-archons within 10 feet must attempt a DC 38 Fortitude save. On a failure, a creature is [[rules/conditions.md#Dazzled|dazzled]] for 1 round. On a critical failure, the creature is [[rules/conditions.md#Blinded|blinded]] for 1d4 (1d4) rounds instead. The creature is then temporarily immune for 1 round."
   - name: "Explosive Rebirth"
-    desc: " ([[death]], [[divine]], [[evocation]], [[fire]], [[good]]);  When killed, the star archon explodes in a blinding flash of holy energy that deals 12d6 (12d6) fire damage and 12d6 (12d6) good damage to anything in a 100-foot emanation, with a DC 40 basic Reflex save. A non-archon creature that sees the explosion and critically fails its save is permanently [[blinded|blinded]] as well. The slain star archon reincarnates 1d4 (1d4) rounds later as a shield archon (Bestiary 29)."
+    desc: " ([[death]], [[divine]], [[evocation]], [[fire]], [[good]]);  When killed, the star archon explodes in a blinding flash of holy energy that deals 12d6 (12d6) fire damage and 12d6 (12d6) good damage to anything in a 100-foot emanation, with a DC 40 basic Reflex save. A non-archon creature that sees the explosion and critically fails its save is permanently [[rules/conditions.md#Blinded|blinded]] as well. The slain star archon reincarnates 1d4 (1d4) rounds later as a shield archon (Bestiary 29)."
   - name: "Retributive Strike"
     desc: "⬲  A star archon can also make a [[Retributive Strike]] by throwing its starknife, and the enemy and ally can be within 60 feet instead of 15 feet."
 abilities_top:

@@ -45,7 +45,7 @@ abilities_bot:
   - name: "Extend Limb"
     desc: "⬻  The mezlan extends one of their limbs, granting themself a reach of 20 feet with their polymorphic appendages until the end of their next turn."
   - name: "Viscous Trap"
-    desc: "  A creature hit by the mezlan's ooze globule takes a –15-foot circumstance penalty to all Speeds for 1 minute. On a critical hit, a target standing on a solid surface also becomes [[immobilized|immobilized]], while a target Flying via wings falls to the ground and becomes unable to Fly. A target can end all effects by Escaping (DC 32) or spending a total of 3 [[Interact]] actions to free itself."
+    desc: "  A creature hit by the mezlan's ooze globule takes a –15-foot circumstance penalty to all Speeds for 1 minute. On a critical hit, a target standing on a solid surface also becomes [[rules/conditions.md#Immobilized|immobilized]], while a target Flying via wings falls to the ground and becomes unable to Fly. A target can end all effects by Escaping (DC 32) or spending a total of 3 [[Interact]] actions to free itself."
 
 speed: 30 feet
 

@@ -38,7 +38,7 @@ abilities_bot:
   - name: "Brazier"
     desc: "  The statue carries a wide brazier full of hot coals. To make flaming coal [[Strike|Strikes]] or use Burn Alive, the statue must have the brazier held in one hand or otherwise have it within reach. Instead of targeting the statue with an attack, a creature can target the brazier directly. The brazier has the same AC and saves as the statue. Dealing 15 cold damage to the brazier or dousing it with at least 2 gallons of water extinguishes the coals. This prevents the statue from using Burn Alive and causes its ranged attacks to no longer deal 2d8 (2d8) fire damage."
   - name: "Burn Alive"
-    desc: "⬻ ([[fire]]);  The statue grinds a creature it has [[grabbed|grabbed]] into the red-hot coals of its brazier. The target takes 3d8 (3d8) fire damage and 1d8 (1d8) [[persistent damage|persistent fire damage]]."
+    desc: "⬻ ([[fire]]);  The statue grinds a creature it has [[rules/conditions.md#Grabbed|grabbed]] into the red-hot coals of its brazier. The target takes 3d8 (3d8) fire damage and 1d8 (1d8) [[rules/conditions.md#Persistent%20Damage|persistent fire damage]]."
 
 speed: 30 feet
 

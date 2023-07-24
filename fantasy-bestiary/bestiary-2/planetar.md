@@ -40,7 +40,7 @@ abilities_top:
     desc: "+2 greater striking greatsword;"
 abilities_bot:
   - name: "Blade of Justice"
-    desc: "⬺  The planetar makes a greatsword [[Strike]] against a target it detects as evil. If the target is evil, the [[Strike]] deals three extra weapon damage dice and deals 1d6 (1d6) [[persistent damage|persistent good damage]] to the target. The planetar can convert all the physical damage from the attack into good damage."
+    desc: "⬺  The planetar makes a greatsword [[Strike]] against a target it detects as evil. If the target is evil, the [[Strike]] deals three extra weapon damage dice and deals 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent good damage]] to the target. The planetar can convert all the physical damage from the attack into good damage."
   - name: "Change Shape"
     desc: "⬻ ([[concentrate]], [[divine]], [[polymorph]], [[transmutation]]);  The planetar can take on the appearance of any Small or Medium humanoid. This doesn't change their Speed or [[Strike|Strikes]]."
   - name: "Holy Armaments"

@@ -32,12 +32,12 @@ abilityMods: [-2, 3, 0, -1, 2, 2]
 
 abilities_mid:
   - name: "Plaque Burst"
-    desc: "  When killed, a tooth fairy swarm bursts into sticky, foul-smelling white dust. Each creature with 15 feet must succeed at a DC 20 Fortitude save or become [[sickened|sickened 1]] ([[sickened|sickened 2]] on a critical failure)."
+    desc: "  When killed, a tooth fairy swarm bursts into sticky, foul-smelling white dust. Each creature with 15 feet must succeed at a DC 20 Fortitude save or become [[rules/conditions.md#Sickened|sickened 1]] ([[rules/conditions.md#Sickened|sickened 2]] on a critical failure)."
 abilities_bot:
   - name: "Pinch"
-    desc: "⬻  Tooth fairies pinch their victims' fingers, noses, ears, or similar protruding body parts. Each enemy in the swarm's space takes 2d6 (2d6) bludgeoning damage (DC 20 basic Reflex save). Creatures that critically fail this save are [[sickened|sickened 1]] from the pain."
+    desc: "⬻  Tooth fairies pinch their victims' fingers, noses, ears, or similar protruding body parts. Each enemy in the swarm's space takes 2d6 (2d6) bludgeoning damage (DC 20 basic Reflex save). Creatures that critically fail this save are [[rules/conditions.md#Sickened|sickened 1]] from the pain."
   - name: "Pry"
-    desc: "⬽  The tooth fairies try to pry out one of their target's teeth. One enemy in the swarm's space takes 4d6 (4d6) bludgeoning damage (DC 20 basic Reflex save). On a failed save, the target takes 2 [[persistent damage|persistent bleed damage]] and a –1 status penalty to Charisma-based skill checks, and they must succeed at a DC 5 flat check to [[Cast a Spell]] with a verbal component or the spell is disrupted. The penalty and spellcasting condition last for 1 day, or until the stolen tooth is returned and the target regains at least 1 Hit Point."
+    desc: "⬽  The tooth fairies try to pry out one of their target's teeth. One enemy in the swarm's space takes 4d6 (4d6) bludgeoning damage (DC 20 basic Reflex save). On a failed save, the target takes 2 [[rules/conditions.md#Persistent%20Damage|persistent bleed damage]] and a –1 status penalty to Charisma-based skill checks, and they must succeed at a DC 5 flat check to [[Cast a Spell]] with a verbal component or the spell is disrupted. The penalty and spellcasting condition last for 1 day, or until the stolen tooth is returned and the target regains at least 1 Hit Point."
 
 speed: 10 feet, fly 40 feet
 

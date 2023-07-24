@@ -45,7 +45,7 @@ abilities_bot:
   - name: "Rush of Water"
     desc: "⬺ ([[arcane]], [[evocation]], [[water]]);  The marid releases a jet of water in a 60-foot line, dealing 9d6 (9d6) bludgeoning damage (DC 28 basic Reflex save). A creature that fails its save is also pushed 10 feet (20 feet on a critical failure). The marid can't use Rush of Water again for 1d4 (1d4) rounds."
   - name: "Skewer"
-    desc: "⬻  The marid makes a trident [[Strike]], dealing an extra 2d6 (2d6) [[persistent damage|persistent bleed damage]] on a hit (4d6 (4d6) on a critical hit)."
+    desc: "⬻  The marid makes a trident [[Strike]], dealing an extra 2d6 (2d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed damage]] on a hit (4d6 (4d6) on a critical hit)."
 
 speed: 20 feet, swim 40 feet
 

@@ -34,13 +34,13 @@ abilityMods: [2, 5, 1, 1, 1, 4]
 
 abilities_mid:
   - name: "Death Umbra"
-    desc: " ([[darkness]]);  When the caller dies, an explosion of shadow devours their body. Each creature in a 10-foot emanation must attempt a DC 22 Fortitude save.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is [[enfeebled|enfeebled 1]] for 1 minute.\n__Failure__ The creature is [[enfeebled|enfeebled 2]] and [[slowed|slowed 1]] for 1 minute."
+    desc: " ([[darkness]]);  When the caller dies, an explosion of shadow devours their body. Each creature in a 10-foot emanation must attempt a DC 22 Fortitude save.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is [[rules/conditions.md#Enfeebled|enfeebled 1]] for 1 minute.\n__Failure__ The creature is [[rules/conditions.md#Enfeebled|enfeebled 2]] and [[rules/conditions.md#Slowed|slowed 1]] for 1 minute."
 abilities_top:
   - name: Items
     desc: "dagger;"
 abilities_bot:
   - name: "Sneak Attack"
-    desc: "  The caller deals an additional 2d6 (2d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The caller deals an additional 2d6 (2d6) precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
 
 speed: 25 feet
 

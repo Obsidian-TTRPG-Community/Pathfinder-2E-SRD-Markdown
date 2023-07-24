@@ -37,7 +37,7 @@ abilities_mid:
     desc: "  An animated colossus takes up a space of 6 squares by 6 squares (30 feet by 30 feet) and is 100 feet tall."
 abilities_bot:
   - name: "Colossus's Grasp"
-    desc: "  The colossus can Grab a creature using only one hand. It can move normally with a creature [[grabbed|grabbed]] or [[restrained|restrained]] in its fist, carrying the creature along. If it has two creatures [[grabbed|grabbed]] in this way, it can't use its fist [[Strike]]."
+    desc: "  The colossus can Grab a creature using only one hand. It can move normally with a creature [[rules/conditions.md#Grabbed|grabbed]] or [[rules/conditions.md#Restrained|restrained]] in its fist, carrying the creature along. If it has two creatures [[rules/conditions.md#Grabbed|grabbed]] in this way, it can't use its fist [[Strike]]."
   - name: "Constrict"
     desc: "⬻  3d12+11 (3d12+11) bludgeoning, DC 36"
   - name: "Trample"

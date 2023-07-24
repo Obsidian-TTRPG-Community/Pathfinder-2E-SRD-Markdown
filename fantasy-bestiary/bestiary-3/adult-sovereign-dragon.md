@@ -45,11 +45,11 @@ abilities_bot:
   - name: "Draconic Momentum"
     desc: "  The dragon recharges their Breath Weapon whenever they score a critical hit with a [[Strike]]."
   - name: "Gleaming Armor"
-    desc: "⬻ ([[evocation]], [[light]], [[occult]]); __Frequency__ once per hour  __Effect__  The dragon's golden armor glows with a protective golden light. The dragon gains a +2 status bonus to AC and resistance 15 to energy damage. Each enemy in a 20-foot emanation must succeed at a DC 36 Fortitude save or be [[dazzled|dazzled]]. All these effects last until the end of the dragon's next turn."
+    desc: "⬻ ([[evocation]], [[light]], [[occult]]); __Frequency__ once per hour  __Effect__  The dragon's golden armor glows with a protective golden light. The dragon gains a +2 status bonus to AC and resistance 15 to energy damage. Each enemy in a 20-foot emanation must succeed at a DC 36 Fortitude save or be [[rules/conditions.md#Dazzled|dazzled]]. All these effects last until the end of the dragon's next turn."
   - name: "Greater Constrict"
     desc: "⬻  3d10+8 (3d10+8) bludgeoning, DC 36 (page 305)"
   - name: "Inspire Envoy"
-    desc: "⬺ ([[enchantment]], [[mental]], [[occult]]); __Frequency__ once per day  __Effect__  The dragon chooses a mortal they've [[observed|observed]] performing an exceptional act and offers their august blessing in exchange for the creature carrying out a specific directive, such as defeating a tyrant or protecting a sacred site. If the creature agrees, until its next daily preparations, it gains a +1 status bonus to the dragon's choice of attack rolls, AC, or all of the following: [[Perception]], Will saves, and Charisma-based skill checks. The dragon can [[Dismiss]] this benefit by spending a single action (that has the [[concentrate]] trait), which they're swift to do if the mortal dares to defy the dragon's directive."
+    desc: "⬺ ([[enchantment]], [[mental]], [[occult]]); __Frequency__ once per day  __Effect__  The dragon chooses a mortal they've [[rules/conditions.md#Observed|observed]] performing an exceptional act and offers their august blessing in exchange for the creature carrying out a specific directive, such as defeating a tyrant or protecting a sacred site. If the creature agrees, until its next daily preparations, it gains a +1 status bonus to the dragon's choice of attack rolls, AC, or all of the following: [[Perception]], Will saves, and Charisma-based skill checks. The dragon can [[Dismiss]] this benefit by spending a single action (that has the [[concentrate]] trait), which they're swift to do if the mortal dares to defy the dragon's directive."
 
 speed: 50 feet, fly 150 feet
 

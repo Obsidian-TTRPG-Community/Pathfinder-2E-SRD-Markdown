@@ -33,14 +33,14 @@ abilityMods: [3, 4, 2, 1, 2, 3]
 
 abilities_mid:
   - name: "Stench"
-    desc: " ([[aura]], [[olfactory]]);  10 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 16 Fortitude save or become [[sickened|sickened 1]] (plus [[slowed|slowed 1]] as long as it's [[sickened|sickened]] on a critical failure). While within the aura, the creature takes a –2 circumstance penalty to saves against [[disease]] and to recover from the [[sickened|sickened]] condition. A creature that succeeds at its save is temporarily immune for 1 minute."
+    desc: " ([[aura]], [[olfactory]]);  10 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 16 Fortitude save or become [[rules/conditions.md#Sickened|sickened 1]] (plus [[rules/conditions.md#Slowed|slowed 1]] as long as it's [[rules/conditions.md#Sickened|sickened]] on a critical failure). While within the aura, the creature takes a –2 circumstance penalty to saves against [[disease]] and to recover from the [[rules/conditions.md#Sickened|sickened]] condition. A creature that succeeds at its save is temporarily immune for 1 minute."
 abilities_bot:
   - name: "Consume Flesh"
     desc: "⬻ ([[manipulate]]); __Requirements__ The ghast is adjacent to the corpse of a creature that died within the last hour.  __Effect__  The ghast regains 3d6 (3d6) Hit Points. It can regain Hit Points from any given corpse only once."
   - name: "Ghast Fever"
     desc: "  __Saving Throw__ DC 16 Fortitude. __Stage 1__ carrier with no ill effect (1 day) __Stage 2__ 3d8 (3d8) negative damage and regains half as many Hit Points from all healing (1 day) __Stage 3__ as stage 2 (1 day) __Stage 4__ 3d8 (3d8) negative damage and gains no benefit from healing (1 day) __Stage 5__ as stage 4 (1 day) __Stage 6__ dead, and rises as a [[ghast|b1]] the next midnight (undefined)"
   - name: "Paralysis"
-    desc: " ([[incapacitation]], [[occult]], [[necromancy]]);  Any living creature hit by a ghast's attack must succeed at a DC 15 Fortitude save or become [[paralyzed|paralyzed]]. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save."
+    desc: " ([[incapacitation]], [[occult]], [[necromancy]]);  Any living creature hit by a ghast's attack must succeed at a DC 15 Fortitude save or become [[rules/conditions.md#Paralyzed|paralyzed]]. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save."
   - name: "Swift Leap"
     desc: "⬻  The ghast jumps up to half its Speed. This movement doesn't trigger reactions."
 

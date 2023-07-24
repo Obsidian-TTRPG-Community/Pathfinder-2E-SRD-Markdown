@@ -32,7 +32,7 @@ abilityMods: [4, 3, 1, -4, 2, -3]
 
 abilities_mid:
   - name: "Vulnerable to Prone"
-    desc: "  If a creature critically succeeds on a check to [[Trip]] the giant crab, the crab is flipped over onto its back in addition to the usual effects. A giant crab that is flipped onto its back has a particularly hard time defending itself; instead of taking the normal –2 circumstance penalty to AC for being [[flat-footed|flat-footed]], it takes a –4 circumstance penalty to AC."
+    desc: "  If a creature critically succeeds on a check to [[Trip]] the giant crab, the crab is flipped over onto its back in addition to the usual effects. A giant crab that is flipped onto its back has a particularly hard time defending itself; instead of taking the normal –2 circumstance penalty to AC for being [[rules/conditions.md#Flat-Footed|flat-footed]], it takes a –4 circumstance penalty to AC."
   - name: "Scuttle"
     desc: "⬲ __Trigger__ A creature that the giant crab can see targets the crab with an attack __Effect__  The giant crab scuttles to the side and gains a +2 circumstance bonus to AC against the triggering attack. After the attack resolves, the crab can [[Stride]] up to its speed in a straight line as part of the reaction."
 abilities_bot:

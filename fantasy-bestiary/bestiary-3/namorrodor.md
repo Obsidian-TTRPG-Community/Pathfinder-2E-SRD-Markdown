@@ -35,7 +35,7 @@ abilities_top:
     desc: "  While the namorrodor is on the Shadow Plane, its lifesense extends to the [[Material Plane]] as a vague sense with a 100-foot range."
 abilities_mid:
   - name: "Whistling Bones"
-    desc: " ([[auditory]], [[aura]], [[emotion]], [[fear]], [[mental]]);  30 feet. Wind whistles through the namorrodor's jutting bones with an eerie tone. A creature entering or beginning its turn in the area must attempt a DC 19 Will save, becoming [[frightened|frightened 1]] on a failure ([[frightened|frightened 2]] on a critical failure). A creature can't reduce its [[frightened|frightened]] condition below 1 as long as it's in the aura."
+    desc: " ([[auditory]], [[aura]], [[emotion]], [[fear]], [[mental]]);  30 feet. Wind whistles through the namorrodor's jutting bones with an eerie tone. A creature entering or beginning its turn in the area must attempt a DC 19 Will save, becoming [[rules/conditions.md#Frightened|frightened 1]] on a failure ([[rules/conditions.md#Frightened|frightened 2]] on a critical failure). A creature can't reduce its [[rules/conditions.md#Frightened|frightened]] condition below 1 as long as it's in the aura."
   - name: "Material Leap"
     desc: "⬲ ([[conjuration]], [[teleportation]]); __Requirements__ The namorrodor is on the Shadow Plane __Trigger__ A creature the namorrodor can sense with its lifesense on the [[Material Plane]] dies. __Effect__  The namorrodor leaps between planes, appearing on the Material Plane within 100 feet of the triggering creature. It remains on the Material Plane for 24 hours, after which it is recalled to its original location on the Shadow Plane."
 abilities_bot:

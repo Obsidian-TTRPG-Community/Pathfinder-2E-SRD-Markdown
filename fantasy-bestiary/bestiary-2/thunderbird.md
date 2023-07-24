@@ -35,10 +35,10 @@ abilityMods: [8, 3, 7, 3, 5, 3]
 
 abilities_top:
   - name: "Stormsight"
-    desc: "  Wind, precipitation, and clouds don't impair a thunderbird's vision; it ignores the [[concealed|concealed]] condition from storms, mist, precipitation, and the like."
+    desc: "  Wind, precipitation, and clouds don't impair a thunderbird's vision; it ignores the [[rules/conditions.md#Concealed|concealed]] condition from storms, mist, precipitation, and the like."
 abilities_mid:
   - name: "Storm Aura"
-    desc: " ([[air]], [[aura]], [[evocation]], [[primal]], [[water]]);  100 feet. The thunderbird is surrounded by a cyclone of wind and driving rain. This area is [[terrain|greater difficult terrain]] for flying creatures, who must successfully [[Maneuver in Flight]] (DC 27) or be blown 30 feet away from the thunderbird. Creatures on the ground must succeed at a DC 27 Reflex save to perform any move action and are knocked [[prone|prone]] on a critical failure. The driving rain in the storm aura imposes a –2 circumstance penalty on [[Perception]] checks and extinguishes smaller flames. A thunderbird can deactivate or activate the storm aura as a free action with the [[concentrate]] trait."
+    desc: " ([[air]], [[aura]], [[evocation]], [[primal]], [[water]]);  100 feet. The thunderbird is surrounded by a cyclone of wind and driving rain. This area is [[terrain|greater difficult terrain]] for flying creatures, who must successfully [[Maneuver in Flight]] (DC 27) or be blown 30 feet away from the thunderbird. Creatures on the ground must succeed at a DC 27 Reflex save to perform any move action and are knocked [[rules/conditions.md#Prone|prone]] on a critical failure. The driving rain in the storm aura imposes a –2 circumstance penalty on [[Perception]] checks and extinguishes smaller flames. A thunderbird can deactivate or activate the storm aura as a free action with the [[concentrate]] trait."
   - name: "Reactive Shock"
     desc: "⬲ __Trigger__ A creature enters the thunderbird's reach or uses a move action within their reach __Effect__  A lightning bolt dancing on the thunderbird's body leaps onto the creature, dealing 8d6 (8d6) electricity damage (DC 30 basic Reflex save)."
 abilities_bot:
@@ -47,7 +47,7 @@ abilities_bot:
   - name: "Stormflight"
     desc: "  A thunderbird can move in wind with ease. They don't treat wind as [[terrain|difficult terrain]] or need to [[Maneuver in Flight]] in high winds."
   - name: "Thunderstrike"
-    desc: "  A creature that takes damage from a thunderbird's thunderbolt [[Strike]] must succeed at a DC 28 Fortitude save or be knocked [[prone|prone]] and [[deafened|deafened]] for 1 round."
+    desc: "  A creature that takes damage from a thunderbird's thunderbolt [[Strike]] must succeed at a DC 28 Fortitude save or be knocked [[rules/conditions.md#Prone|prone]] and [[rules/conditions.md#Deafened|deafened]] for 1 round."
 
 speed: 25 feet, fly 80 feet
 

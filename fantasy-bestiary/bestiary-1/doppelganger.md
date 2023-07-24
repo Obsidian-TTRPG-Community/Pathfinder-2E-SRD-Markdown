@@ -33,7 +33,7 @@ abilityMods: [3, 3, 0, 1, 2, 4]
 
 abilities_mid:
   - name: "End the Charade"
-    desc: "⬲ ([[attack]]); __Trigger__ The doppelganger is transformed with Change Shape and another creature moves adjacent to it or takes a [[hostile|hostile]] action against it. __Effect__  The doppelganger reverts to its natural form and can make a [[Strike]] against the triggering creature. If the creature was unaware the doppelganger was in disguise, that creature is [[flat-footed|flat-footed]] against this attack."
+    desc: "⬲ ([[attack]]); __Trigger__ The doppelganger is transformed with Change Shape and another creature moves adjacent to it or takes a [[rules/conditions.md#Hostile|hostile]] action against it. __Effect__  The doppelganger reverts to its natural form and can make a [[Strike]] against the triggering creature. If the creature was unaware the doppelganger was in disguise, that creature is [[rules/conditions.md#Flat-Footed|flat-footed]] against this attack."
 abilities_bot:
   - name: "Change Shape"
     desc: "⬻ ([[arcane]], [[concentrate]], [[polymorph]], [[transmutation]]);  The doppelganger takes on the specific appearance of any Small or Medium humanoid who it has seen and whose appearance it remembers. This doesn't change the doppelganger's Speed or its attack and damage bonuses with its [[Strike|Strikes]] but might change the damage type its [[Strike|Strikes]] deal (typically to bludgeoning)."

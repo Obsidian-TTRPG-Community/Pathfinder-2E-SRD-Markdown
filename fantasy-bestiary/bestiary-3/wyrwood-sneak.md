@@ -34,7 +34,7 @@ abilityMods: [0, 4, 0, 2, 1, 2]
 
 abilities_mid:
   - name: "Living Machine"
-    desc: "  Though their body is an organic construct, a wyrwood is a living creature. They're not immediately destroyed when reduced to 0 HP, but rather fall [[unconscious|unconscious]] and eventually die. They don't need to eat or drink. They can be targeted by effects that target living creatures or that target constructs."
+    desc: "  Though their body is an organic construct, a wyrwood is a living creature. They're not immediately destroyed when reduced to 0 HP, but rather fall [[rules/conditions.md#Unconscious|unconscious]] and eventually die. They don't need to eat or drink. They can be targeted by effects that target living creatures or that target constructs."
   - name: "No Breath"
     desc: "  A wyrwood doesn't breathe and is immune to effects that require breathing (such as an inhaled poison)."
 abilities_top:
@@ -42,7 +42,7 @@ abilities_top:
     desc: "buckler (Hardness 3, HP 6, BT 3), shortsword;"
 abilities_bot:
   - name: "Sneak Attack"
-    desc: "  The wyrwood deals an additional 1d6 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The wyrwood deals an additional 1d6 (1d6) precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
 
 speed: 20 feet
 

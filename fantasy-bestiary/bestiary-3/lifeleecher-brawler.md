@@ -35,9 +35,9 @@ abilityMods: [6, 4, 6, 3, 3, 4]
 
 abilities_mid:
   - name: "Consecration Vulnerability"
-    desc: "  An angheuvore in a place of worship dedicated to a non-evil deity or on sacred ground, such as an area blessed by sanctified ground, is [[slowed|slowed 1]]."
+    desc: "  An angheuvore in a place of worship dedicated to a non-evil deity or on sacred ground, such as an area blessed by sanctified ground, is [[rules/conditions.md#Slowed|slowed 1]]."
   - name: "Mortic Ferocity"
-    desc: "⬲  As Ferocity (page 305), but the lifeleecher is also surrounded by visibly flickering fragments of the souls they've consumed, becoming [[concealed|concealed]] until the end of their next turn."
+    desc: "⬲  As Ferocity (page 305), but the lifeleecher is also surrounded by visibly flickering fragments of the souls they've consumed, becoming [[rules/conditions.md#Concealed|concealed]] until the end of their next turn."
   - name: "Soul Feast"
     desc: "⬲ ([[divine]], [[necromancy]], [[negative]]); __Trigger__ A creature adjacent to the lifeleecher dies __Effect__  The lifeleecher consumes a portion of the creature's soul, regaining 2d8 (2d8) Hit Points."
 abilities_bot:
@@ -46,7 +46,7 @@ abilities_bot:
   - name: "Ghost Hunter"
     desc: "  The lifeleecher's tusks have the effects of the ghost touch property rune on attacks against incorporeal undead."
   - name: "Leech Essence"
-    desc: " ([[divine]], [[necromancy]]);  When the lifeleecher damages a living or undead creature with their jaws [[Strike]], they drain the target's life essence. The lifeleecher gains 5 temporary Hit Points that last for 1 minute, and the target must succeed at a DC 24 Fortitude save or become [[drained|drained 1]] if living, or [[stunned|stunned 1]] if undead. If the target was already [[drained|drained]] or [[stunned|stunned]], the value of this condition instead increases by 1, to a maximum of 3."
+    desc: " ([[divine]], [[necromancy]]);  When the lifeleecher damages a living or undead creature with their jaws [[Strike]], they drain the target's life essence. The lifeleecher gains 5 temporary Hit Points that last for 1 minute, and the target must succeed at a DC 24 Fortitude save or become [[rules/conditions.md#Drained|drained 1]] if living, or [[rules/conditions.md#Stunned|stunned 1]] if undead. If the target was already [[rules/conditions.md#Drained|drained]] or [[rules/conditions.md#Stunned|stunned]], the value of this condition instead increases by 1, to a maximum of 3."
 
 speed: 25 feet
 
@@ -64,7 +64,7 @@ attacks:
   - name: Melee
     desc: "⬻ tusk +20 __Damage__ 2d6+6 (2d6+6) piercing plus leech essence"
   - name: Melee
-    desc: "⬻ claw +20 ([[agile]]); __Damage__ 2d8+6 (2d8+6) slashing plus 1d6 (1d6) [[persistent damage|persistent bleed]]"
+    desc: "⬻ claw +20 ([[agile]]); __Damage__ 2d8+6 (2d8+6) slashing plus 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed]]"
   - name: Ranged
     desc: "⬻ composite shortbow +19 ([[deadly|deadly d10]], [[magical]], [[propulsive]], [[range increment|range increment 30 feet]]); __Damage__ 2d6+3 (2d6+3) piercing"
 

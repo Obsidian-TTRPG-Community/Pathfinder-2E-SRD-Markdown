@@ -41,7 +41,7 @@ abilities_bot:
   - name: "Breath Weapon"
     desc: "⬺ ([[cold]], [[evocation]], [[primal]]);  The frost worm exhales a blast of frost, dealing 13d6 (13d6) cold damage to creatures in a 50-foot cone (DC 32 basic Reflex save). It can't use Breath Weapon again for 1d4 (1d4) rounds."
   - name: "Worm Trill"
-    desc: "⬻ ([[auditory]], [[concentrate]], [[enchantment]], [[mental]], [[primal]]);  The frost worm emits a hypnotic trill. Each non–frost worm creature within 100 feet must attempt a DC 32 Will save. The effects of Worm Trill last for 1 round, but if the frost worm uses this ability again on subsequent rounds, it extends this duration by 1 round for any creature already affected.\n__Success__ The creature is unaffected and is immune to Worm Trill for 24 hours.\n__Failure__ The creature is [[fascinated|fascinated]] by the frost worm.\n__Critical Failure__ As failure, but the [[fascinated|fascinated]] condition doesn't end if the frost worm uses [[hostile|hostile]] actions against the creature."
+    desc: "⬻ ([[auditory]], [[concentrate]], [[enchantment]], [[mental]], [[primal]]);  The frost worm emits a hypnotic trill. Each non–frost worm creature within 100 feet must attempt a DC 32 Will save. The effects of Worm Trill last for 1 round, but if the frost worm uses this ability again on subsequent rounds, it extends this duration by 1 round for any creature already affected.\n__Success__ The creature is unaffected and is immune to Worm Trill for 24 hours.\n__Failure__ The creature is [[rules/conditions.md#Fascinated|fascinated]] by the frost worm.\n__Critical Failure__ As failure, but the [[rules/conditions.md#Fascinated|fascinated]] condition doesn't end if the frost worm uses [[rules/conditions.md#Hostile|hostile]] actions against the creature."
 
 speed: 25 feet, burrow 10 feet
 
@@ -57,7 +57,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +25 __Damage__ 3d8+10 (3d8+10) piercing plus 2d6 (2d6) [[persistent damage|persistent cold]]"
+    desc: "⬻ jaws +25 __Damage__ 3d8+10 (3d8+10) piercing plus 2d6 (2d6) [[rules/conditions.md#Persistent%20Damage|persistent cold]]"
 
 sourcebook: "_Bestiary 2_, page 123."
 ```

@@ -34,16 +34,16 @@ abilityMods: [-5, 6, 3, 3, 4, 6]
 
 abilities_mid:
   - name: "Draining Presence"
-    desc: " ([[aura]], [[negative]]);  10 feet. A creature entering the aura must succeed at a DC 26 Fortitude save or become [[drained|drained 1]]. It recovers after it has been out of the aura for 1 minute. This [[drained|drained]] condition value is cumulative with the [[drained|drained]] value caused by drain life, but not with multiple draining presence auras. A creature that succeeds at its save is temporarily immune to draining presence for 24 hours."
+    desc: " ([[aura]], [[negative]]);  10 feet. A creature entering the aura must succeed at a DC 26 Fortitude save or become [[rules/conditions.md#Drained|drained 1]]. It recovers after it has been out of the aura for 1 minute. This [[rules/conditions.md#Drained|drained]] condition value is cumulative with the [[rules/conditions.md#Drained|drained]] value caused by drain life, but not with multiple draining presence auras. A creature that succeeds at its save is temporarily immune to draining presence for 24 hours."
   - name: "Sunlight Powerlessness"
-    desc: "  A dread wraith caught in sunlight is [[stunned|stunned 2]] and [[clumsy|clumsy 2]]."
+    desc: "  A dread wraith caught in sunlight is [[rules/conditions.md#Stunned|stunned 2]] and [[rules/conditions.md#Clumsy|clumsy 2]]."
   - name: "Attack of Opportunity"
     desc: "⬲ "
 abilities_bot:
   - name: "Absorb Wraith"
-    desc: "⬺  The dread wraith extends its hand toward another wraith creature within 100 feet. The target wraith dissolves and streaks toward the dread wraith in a straight line, dealing 6d10 (6d10) negative damage to each creature along the line (DC 28 basic Fortitude save). The dread wraith absorbs the essence of the target wraith, becoming [[quickened|quickened]] and gaining a +10-foot status bonus to its fly Speed for a number of rounds equal to the level of the absorbed wraith. It can use its extra action only to [[Fly]] or [[Strike]]. An unwilling target can attempt a DC 28 Will save to resist being absorbed."
+    desc: "⬺  The dread wraith extends its hand toward another wraith creature within 100 feet. The target wraith dissolves and streaks toward the dread wraith in a straight line, dealing 6d10 (6d10) negative damage to each creature along the line (DC 28 basic Fortitude save). The dread wraith absorbs the essence of the target wraith, becoming [[rules/conditions.md#Quickened|quickened]] and gaining a +10-foot status bonus to its fly Speed for a number of rounds equal to the level of the absorbed wraith. It can use its extra action only to [[Fly]] or [[Strike]]. An unwilling target can attempt a DC 28 Will save to resist being absorbed."
   - name: "Drain Life"
-    desc: " ([[divine]], [[necromancy]]);  When the dread wraith damages a living creature with its spectral hand [[Strike]], the wraith gains 10 temporary Hit Points and the target must succeed at a DC 28 Fortitude save or become [[drained|drained 1]]. Further damage dealt by the wraith increases the [[drained|drained]] condition value by 1 on a failed save, to a maximum of [[drained|drained 4]]."
+    desc: " ([[divine]], [[necromancy]]);  When the dread wraith damages a living creature with its spectral hand [[Strike]], the wraith gains 10 temporary Hit Points and the target must succeed at a DC 28 Fortitude save or become [[rules/conditions.md#Drained|drained 1]]. Further damage dealt by the wraith increases the [[rules/conditions.md#Drained|drained]] condition value by 1 on a failed save, to a maximum of [[rules/conditions.md#Drained|drained 4]]."
   - name: "Wraith Spawn"
     desc: " ([[divine]], [[necromancy]]);  A living humanoid slain by a wraith's spectral hand [[Strike]] rises as a wraith spawn after 1d4 (1d4) rounds. This wraith spawn is under the command of the dread wraith that killed it. It doesn't have drain life or wraith spawn. If the creator of the wraith spawn dies, the wraith spawn becomes a full-fledged, autonomous wraith; it regains its free will and gains drain life and wraith spawn."
 

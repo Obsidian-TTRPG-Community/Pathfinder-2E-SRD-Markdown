@@ -37,7 +37,7 @@ abilities_top:
     desc: "  An ahuizotl can mimic the sounds of a person in distress by attempting a [[Deception]] check to [[Lie]]. The ahuizotl has a +4 circumstance bonus to this check."
 abilities_bot:
   - name: "Tail Drag"
-    desc: "⬻ __Requirements__ The ahuizotl has a Medium or smaller creature [[grabbed|grabbed]] with its tail claw  __Effect__  The ahuizotl attempts an [[Athletics]] check against the creature's Fortitude DC.\n__Critical Success__ If the creature is 10 feet away from the ahuizotl, it is dragged into a square adjacent to the ahuizotl. The ahuizotl can make a jaws [[Strike]] against the creature.\n__Success__ If the creature is 10 feet away from the ahuizotl, it is dragged into a square adjacent to the ahuizotl.\n__Failure__ The creature is not dragged.\n__Critical Failure__ The creature is not dragged and the ahuizotl no longer has the creature [[grabbed|grabbed]]."
+    desc: "⬻ __Requirements__ The ahuizotl has a Medium or smaller creature [[rules/conditions.md#Grabbed|grabbed]] with its tail claw  __Effect__  The ahuizotl attempts an [[Athletics]] check against the creature's Fortitude DC.\n__Critical Success__ If the creature is 10 feet away from the ahuizotl, it is dragged into a square adjacent to the ahuizotl. The ahuizotl can make a jaws [[Strike]] against the creature.\n__Success__ If the creature is 10 feet away from the ahuizotl, it is dragged into a square adjacent to the ahuizotl.\n__Failure__ The creature is not dragged.\n__Critical Failure__ The creature is not dragged and the ahuizotl no longer has the creature [[rules/conditions.md#Grabbed|grabbed]]."
 
 speed: 25 feet, swim 35 feet
 

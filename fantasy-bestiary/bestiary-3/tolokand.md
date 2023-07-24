@@ -33,12 +33,12 @@ abilityMods: [8, 6, 7, 5, 6, -3]
 
 abilities_top:
   - name: "Smoke Vision"
-    desc: "  Smoke doesn't impair a tolokand's vision; it ignores the [[concealed|concealed]] condition from smoke."
+    desc: "  Smoke doesn't impair a tolokand's vision; it ignores the [[rules/conditions.md#Concealed|concealed]] condition from smoke."
 abilities_mid:
   - name: "Heartless Furnace"
-    desc: " ([[aura]], [[conjuration]], [[occult]]);  50 feet, 2d6 (2d6) poison damage (DC 34 basic Fortitude save). The poisonous smoke that bellows from a tolokand makes all creatures inside it [[concealed|concealed]], and all creatures outside the smoke are [[concealed|concealed]] to creatures within it."
+    desc: " ([[aura]], [[conjuration]], [[occult]]);  50 feet, 2d6 (2d6) poison damage (DC 34 basic Fortitude save). The poisonous smoke that bellows from a tolokand makes all creatures inside it [[rules/conditions.md#Concealed|concealed]], and all creatures outside the smoke are [[rules/conditions.md#Concealed|concealed]] to creatures within it."
   - name: "Inexorable"
-    desc: "  The tolokand recovers from the [[paralyzed|paralyzed]], [[slowed|slowed]], and [[stunned|stunned]] conditions at the end of its turn. It's also immune to penalties to its Speeds and ignores [[terrain|difficult terrain]] and [[terrain|greater difficult terrain]]."
+    desc: "  The tolokand recovers from the [[rules/conditions.md#Paralyzed|paralyzed]], [[rules/conditions.md#Slowed|slowed]], and [[rules/conditions.md#Stunned|stunned]] conditions at the end of its turn. It's also immune to penalties to its Speeds and ignores [[terrain|difficult terrain]] and [[terrain|greater difficult terrain]]."
   - name: "Toxic Blood"
     desc: "  When a creature scores a critical hit against the tolokand with a piercing or slashing [[Strike]], the tolokand's poisonous, oily blood sprays forth. Any creature within 5 feet of the tolokand takes 3d6 (3d6) poison damage (DC 34 basic Reflex save) Any non-creature plants the blood spills on die."
 abilities_bot:
@@ -61,7 +61,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ hand +31 ([[reach|reach 10 feet]]); __Damage__ 2d12+16 (2d12+16) slashing plus 2d6 (2d6) [[persistent damage|persistent poison]]"
+    desc: "⬻ hand +31 ([[reach|reach 10 feet]]); __Damage__ 2d12+16 (2d12+16) slashing plus 2d6 (2d6) [[rules/conditions.md#Persistent%20Damage|persistent poison]]"
 
 spellcasting:
   - name: "Occult Spontaneous Spells"

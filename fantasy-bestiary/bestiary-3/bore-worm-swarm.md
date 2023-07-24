@@ -32,7 +32,7 @@ abilityMods: [-1, 3, 4, -5, 1, -4]
 
 abilities_bot:
   - name: "Swarming Bites"
-    desc: "⬻  Each enemy in the swarm's space takes 3d6 (3d6) acid damage (DC 22 basic Reflex save). Creatures that fail this save become [[sickened|sickened 1]] from the swarm's painful bites."
+    desc: "⬻  Each enemy in the swarm's space takes 3d6 (3d6) acid damage (DC 22 basic Reflex save). Creatures that fail this save become [[rules/conditions.md#Sickened|sickened 1]] from the swarm's painful bites."
 
 speed: 15 feet, burrow 30 feet
 

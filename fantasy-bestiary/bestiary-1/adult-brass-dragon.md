@@ -40,7 +40,7 @@ abilities_bot:
   - name: "Breath Weapon"
     desc: "⬺ ([[arcane]], [[evocation]], [[fire]]);  The brass dragon breathes fire in an 80-foot line that deals 12d6 (12d6) fire damage (DC 32 basic Reflex save). The dragon can't use Breath Weapon again for 1d4 (1d4) rounds."
   - name: "Desert Wind"
-    desc: "⬺ ([[air]], [[arcane]], [[concentrate]], [[evocation]]); __Frequency__ three times per day  __Effect__  The dragon calls upon the desert wind. This has the same effect as gust of wind (DC 30 Fortitude) but in a 60-foot cone. A creature that fails its save is also [[blinded|blinded]] until the end of its next turn (or for 1 minute on a critical failure)."
+    desc: "⬺ ([[air]], [[arcane]], [[concentrate]], [[evocation]]); __Frequency__ three times per day  __Effect__  The dragon calls upon the desert wind. This has the same effect as gust of wind (DC 30 Fortitude) but in a 60-foot cone. A creature that fails its save is also [[rules/conditions.md#Blinded|blinded]] until the end of its next turn (or for 1 minute on a critical failure)."
   - name: "Draconic Frenzy"
     desc: "⬺  The dragon makes two claw [[Strike|Strikes]] and one jaws [[Strike]] in any order."
   - name: "Draconic Momentum"

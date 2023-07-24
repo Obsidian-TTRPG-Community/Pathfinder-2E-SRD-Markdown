@@ -60,7 +60,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Prepared Spells"
-    desc: "DC 22, attack +14; __Cantrips (2nd)__ [[dancing lights]], [[guidance]], [[produce flame]], [[stabilize]], [[tanglefoot]]; __1st__ [[grease]], [[jump]], [[magic fang]]; __2nd__ [[animal form]], [[animal messenger]], [[speak with animals]];"
+    desc: "DC 22, attack +14; __Cantrips (2nd)__ [[dancing-lights|dancing lights]], [[guidance]], [[produce-flame|produce flame]], [[stabilize]], [[tanglefoot]]; __1st__ [[grease]], [[jump]], [[magic fang]]; __2nd__ [[animal form]], [[animal messenger]], [[speak with animals]];"
 sourcebook: "_Gamemastery Guide_, page 238."
 ```
 

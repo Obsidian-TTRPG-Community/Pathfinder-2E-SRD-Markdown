@@ -46,7 +46,7 @@ abilities_bot:
   - name: "Call to Arms"
     desc: "⬻ ([[auditory]], [[mental]]);  Each caligni within 30 feet of the vanguard gains the Attack of Opportunity reaction until the end of the vanguard's next turn. Once a caligni has used this [[Attack of Opportunity]], that caligni is temporarily immune to the same vanguard's Call to Arms for 10 minutes."
   - name: "Shadowed Blade"
-    desc: "⬺ ([[darkness]]);  The vanguard makes a melee [[Strike]], channeling shadowy essence into their weapon or unarmed attack to envelop the target. If the [[Strike]] hits, the target must succeed at a DC 19 Fortitude save or become [[blinded|blinded]] until the end of its next turn."
+    desc: "⬺ ([[darkness]]);  The vanguard makes a melee [[Strike]], channeling shadowy essence into their weapon or unarmed attack to envelop the target. If the [[Strike]] hits, the target must succeed at a DC 19 Fortitude save or become [[rules/conditions.md#Blinded|blinded]] until the end of its next turn."
 
 speed: 25 feet
 

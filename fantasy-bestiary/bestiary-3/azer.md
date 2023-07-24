@@ -35,7 +35,7 @@ abilityMods: [3, 1, 4, 2, 2, 0]
 
 abilities_mid:
   - name: "Heat of the Forge"
-    desc: " ([[aura]], [[fire]]);  10 feet. An azer's skin radiates heat like forge fire. A creature that starts their turn in the area must succeed at a DC 16 Fortitude save or become [[fatigued|fatigued]] while they remain in the area. Creatures immune to environmental heat effects or with any fire resistance are immune."
+    desc: " ([[aura]], [[fire]]);  10 feet. An azer's skin radiates heat like forge fire. A creature that starts their turn in the area must succeed at a DC 16 Fortitude save or become [[rules/conditions.md#Fatigued|fatigued]] while they remain in the area. Creatures immune to environmental heat effects or with any fire resistance are immune."
 abilities_top:
   - name: Items
     desc: "light hammer (5), scale mail, warhammer;"

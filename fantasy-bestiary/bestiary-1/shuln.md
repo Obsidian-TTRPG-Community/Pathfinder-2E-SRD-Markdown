@@ -34,7 +34,7 @@ abilities_bot:
   - name: "Armor-Rending"
     desc: "  Any time the shuln scores a critical hit with a melee [[Strike]], it also deals the same amount of damage to the target's armor, bypassing any Hardness lower than 10, like adamantine."
   - name: "Shuln Saliva"
-    desc: " ([[incapacitation]], [[poison]]);  __Saving Throw__ DC 32 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d6 (2d6) poison damage and [[slowed|slowed 1]] (1 round) __Stage 2__ 3d6 (3d6) poison damage, and [[slowed|slowed 1]] (1 round) __Stage 3__ 4d6 (4d6) poison damage and [[paralyzed|paralyzed]] for 2d6 (2d6) hours. (null)"
+    desc: " ([[incapacitation]], [[poison]]);  __Saving Throw__ DC 32 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d6 (2d6) poison damage and [[rules/conditions.md#Slowed|slowed 1]] (1 round) __Stage 2__ 3d6 (3d6) poison damage, and [[rules/conditions.md#Slowed|slowed 1]] (1 round) __Stage 3__ 4d6 (4d6) poison damage and [[rules/conditions.md#Paralyzed|paralyzed]] for 2d6 (2d6) hours. (null)"
   - name: "Unstoppable Burrow"
     desc: "  Shulns can burrow into solid rock and any metal with a hardness less than that of adamantine like it is soil or loose rubble, leaving a tunnel 10 feet in diameter."
 

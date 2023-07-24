@@ -38,7 +38,7 @@ abilities_top:
     desc: "  The assassin can move their full Speed when Sneaking."
 abilities_mid:
   - name: "Deny Advantage"
-    desc: "  The assassin isn't [[flat-footed|flat-footed]] to creatures of 8th level or lower that are [[hidden|hidden]], [[undetected|undetected]], flanking, or using surprise attack."
+    desc: "  The assassin isn't [[rules/conditions.md#Flat-Footed|flat-footed]] to creatures of 8th level or lower that are [[rules/conditions.md#Hidden|hidden]], [[rules/conditions.md#Undetected|undetected]], flanking, or using surprise attack."
   - name: "Nimble Dodge"
     desc: "⬲ __Trigger__ The assassin is targeted with a melee or ranged attack by an attacker they can see __Effect__  The assassin gains a +2 circumstance bonus to AC against the triggering attack."
 abilities_bot:
@@ -47,7 +47,7 @@ abilities_bot:
   - name: "Quick Draw"
     desc: "⬻  The assassin Interacts to draw a weapon, then [[Strike|Strikes]] with that weapon."
   - name: "Sneak Attack"
-    desc: "  The assassin deals an extra 2d6 (2d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The assassin deals an extra 2d6 (2d6) precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
   - name: "Surprise Attack"
     desc: "  On the first round of combat, creatures that haven't acted yet are flatfooted to the assassin."
 

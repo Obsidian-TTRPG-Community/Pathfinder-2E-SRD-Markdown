@@ -34,10 +34,10 @@ abilities_mid:
   - name: "Attack of Opportunity"
     desc: "⬲  Stinger only (page 304)."
   - name: "Chitinous Spines"
-    desc: "  A creature [[grabbed|grabbed]] by the spiny eurypterid takes 2d6 (2d6) piercing damage at the start of that creature's turn."
+    desc: "  A creature [[rules/conditions.md#Grabbed|grabbed]] by the spiny eurypterid takes 2d6 (2d6) piercing damage at the start of that creature's turn."
 abilities_bot:
   - name: "Spiny Eurypterid Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 22 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d8 (1d8) poison damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 1d8 (1d8) poison damage and [[enfeebled|enfeebled 2]] (1 round) __Stage 3__ 2d8 (2d8) poison damage and [[enfeebled|enfeebled 3]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 22 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d8 (1d8) poison damage and [[rules/conditions.md#Enfeebled|enfeebled 1]] (1 round) __Stage 2__ 1d8 (1d8) poison damage and [[rules/conditions.md#Enfeebled|enfeebled 2]] (1 round) __Stage 3__ 2d8 (2d8) poison damage and [[rules/conditions.md#Enfeebled|enfeebled 3]] (1 round)"
 
 speed: 40 feet, swim 40 feet
 

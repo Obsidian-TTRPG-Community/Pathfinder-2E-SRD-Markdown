@@ -37,9 +37,9 @@ abilities_top:
     desc: "spear;"
 abilities_bot:
   - name: "Drain Blood"
-    desc: "⬻ __Requirements__ The sabosan has a creature [[grabbed|grabbed]]  __Effect__  The sabosan drains blood from the creature. The creature must succeed at a DC 23 Fortitude save or become [[drained|drained 1]]. The sabosan gains a number of temporary Hit Points equal to the number of Hit Points lost by the creature."
+    desc: "⬻ __Requirements__ The sabosan has a creature [[rules/conditions.md#Grabbed|grabbed]]  __Effect__  The sabosan drains blood from the creature. The creature must succeed at a DC 23 Fortitude save or become [[rules/conditions.md#Drained|drained 1]]. The sabosan gains a number of temporary Hit Points equal to the number of Hit Points lost by the creature."
   - name: "Fell Shriek"
-    desc: "⬺ ([[auditory]]);  The sabosan emits a deafening cry in a 30-foot cone. Non-sabosan creatures in this area must each succeed at a DC 23 Fortitude save or be [[deafened|deafened]] for 1 minute."
+    desc: "⬺ ([[auditory]]);  The sabosan emits a deafening cry in a 30-foot cone. Non-sabosan creatures in this area must each succeed at a DC 23 Fortitude save or be [[rules/conditions.md#Deafened|deafened]] for 1 minute."
   - name: "Powerful Charge"
     desc: "⬺  The sabosan [[Stride|Strides]] up to double their Speed and then makes a claw [[Strike]]. If the sabosan moved at least 20 feet, they deal an additional 1d6 (1d6) damage on a hit."
 
@@ -57,7 +57,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +15 ([[finesse]]); __Damage__ 2d10+4 (2d10+4) piercing plus 1 [[persistent damage|persistent bleed]]"
+    desc: "⬻ jaws +15 ([[finesse]]); __Damage__ 2d10+4 (2d10+4) piercing plus 1 [[rules/conditions.md#Persistent%20Damage|persistent bleed]]"
   - name: Melee
     desc: "⬻ claw +15 ([[agile]], [[finesse]]); __Damage__ 2d8+4 (2d8+4) slashing plus [[Grab]]"
   - name: Melee

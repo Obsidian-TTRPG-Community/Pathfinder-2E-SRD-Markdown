@@ -34,11 +34,11 @@ abilityMods: [8, 5, 8, -2, 5, 4]
 
 abilities_bot:
   - name: "Confusing Display"
-    desc: "⬺ ([[concentrate]], [[emotion]], [[enchantment]], [[fear]], [[incapacitation]], [[mental]], [[occult]], [[visual]]);  The augnagar's writhing limbs and flesh seethe and squirm in a disorienting and unsettling manner. Creatures in a 30-foot emanation must attempt a DC 34 Will save, after which they are temporarily immune to further Confusing Displays for 1 minute.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is [[stupefied|stupefied 1]] for 1 round.\n__Failure__ The creature is [[stupefied|stupefied 1]] and [[confused|confused]] for 1 minute.\n__Critical Failure__ As failure, but the creature can't attempt a flat check to recover from confusion whenever it takes damage from an attack or spell."
+    desc: "⬺ ([[concentrate]], [[emotion]], [[enchantment]], [[fear]], [[incapacitation]], [[mental]], [[occult]], [[visual]]);  The augnagar's writhing limbs and flesh seethe and squirm in a disorienting and unsettling manner. Creatures in a 30-foot emanation must attempt a DC 34 Will save, after which they are temporarily immune to further Confusing Displays for 1 minute.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is [[rules/conditions.md#Stupefied|stupefied 1]] for 1 round.\n__Failure__ The creature is [[rules/conditions.md#Stupefied|stupefied 1]] and [[rules/conditions.md#Confused|confused]] for 1 minute.\n__Critical Failure__ As failure, but the creature can't attempt a flat check to recover from confusion whenever it takes damage from an attack or spell."
   - name: "Inhale Vitality"
-    desc: "⬺ ([[necromancy]], [[occult]]);  Frequency once per day; The augnagar inhales sharply, drawing life force out of creatures in a 50-foot cone. Creatures in the area take 14d6 (14d6) negative damage (DC 34 basic Fortitude save, and the creature is [[fatigued|fatigued]] on a failure). The augnagar becomes [[quickened|quickened]] for 1 round on its next turn, and it can use the extra action only to [[Stride]] or [[Strike]]."
+    desc: "⬺ ([[necromancy]], [[occult]]);  Frequency once per day; The augnagar inhales sharply, drawing life force out of creatures in a 50-foot cone. Creatures in the area take 14d6 (14d6) negative damage (DC 34 basic Fortitude save, and the creature is [[rules/conditions.md#Fatigued|fatigued]] on a failure). The augnagar becomes [[rules/conditions.md#Quickened|quickened]] for 1 round on its next turn, and it can use the extra action only to [[Stride]] or [[Strike]]."
   - name: "Rotting Curse"
-    desc: " ([[curse]], [[disease]], [[necromancy]], [[occult]]);  __Saving Throw__ DC 34 Fortitude. __Stage 1__ [[drained|drained 1]] (1 day) __Stage 2__ [[drained|drained 2]] and the creature displays hideous, festering wounds exuding a horrific stench. (null)"
+    desc: " ([[curse]], [[disease]], [[necromancy]], [[occult]]);  __Saving Throw__ DC 34 Fortitude. __Stage 1__ [[rules/conditions.md#Drained|drained 1]] (1 day) __Stage 2__ [[rules/conditions.md#Drained|drained 2]] and the creature displays hideous, festering wounds exuding a horrific stench. (null)"
 
 speed: 40 feet, climb 40 feet, fly 40 feet
 
@@ -54,9 +54,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ bite +28 ([[chaotic]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 3d12+14 (3d12+14) piercing plus 4d6 (4d6) [[persistent damage|persistent bleed]], 1d6 (1d6) chaotic, and rotting curse"
+    desc: "⬻ bite +28 ([[chaotic]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 3d12+14 (3d12+14) piercing plus 4d6 (4d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed]], 1d6 (1d6) chaotic, and rotting curse"
   - name: Melee
-    desc: "⬻ sting +28 ([[agile]], [[chaotic]], [[magical]], [[finesse]], [[reach|reach 15 feet]]); __Damage__ 3d8+14 (3d8+14) slashing plus 4d6 (4d6) [[persistent damage|persistent bleed]] and 1d6 (1d6) chaotic"
+    desc: "⬻ sting +28 ([[agile]], [[chaotic]], [[magical]], [[finesse]], [[reach|reach 15 feet]]); __Damage__ 3d8+14 (3d8+14) slashing plus 4d6 (4d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed]] and 1d6 (1d6) chaotic"
 
 spellcasting:
   - name: "Occult Innate Spells"

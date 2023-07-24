@@ -53,11 +53,11 @@ The GM sets the DC of a skill check, using the guidelines in Chapter 10: Game Ma
 
 | Task Difficulty | Simple DC |
 |-----------------|-----------|
-| Untrained | 10 |
-| Trained | 15 |
-| Expert | 20 |
-| Master | 30 |
-| Legendary | 40 |
+| Untrained       | 10        |
+| Trained         | 15        |
+| Expert          | 20        |
+| Master          | 30        |
+| Legendary       | 40        |
 
 When someone or something tests your skill, they attempt a check against your skill DC, which is equal to 10 plus your skill modifier. A skill DC works like any other DC to determine the effect of an opposing creature's skill action.
 

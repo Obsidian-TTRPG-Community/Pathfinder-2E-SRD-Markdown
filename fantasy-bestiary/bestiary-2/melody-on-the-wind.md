@@ -33,12 +33,12 @@ abilityMods: [4, 6, 2, 2, 5, 6]
 
 abilities_mid:
   - name: "Hostile Duet"
-    desc: "⬲ __Trigger__ A [[hostile|hostile]] creature within 30 feet creates an effect with the [[auditory]] trait that provides bonuses to itself or its allies __Effect__  The melody on the wind recreates the [[auditory]] effect, gaining the bonuses for itself and its allies as long as the original effect persists."
+    desc: "⬲ __Trigger__ A [[rules/conditions.md#Hostile|hostile]] creature within 30 feet creates an effect with the [[auditory]] trait that provides bonuses to itself or its allies __Effect__  The melody on the wind recreates the [[auditory]] effect, gaining the bonuses for itself and its allies as long as the original effect persists."
   - name: "Retune"
     desc: "⬲ __Trigger__ The melody on the wind is targeted by a spell with the [[auditory]] trait __Effect__  The melody on the wind attempts to counteract the spell. If it succeeds, the spell effect is caught in a blast of wind that sweeps it back to its origin, affecting the caster. Targets of the triggering effect other than the melody on the wind are still affected normally."
 abilities_bot:
   - name: "Mesmerizing Melody"
-    desc: "⬻ ([[auditory]], [[concentrate]], [[enchantment]], [[mental]], [[primal]]);  The melody on the wind sings in a sonorous chorus. Any creature in a 30-foot emanation must attempt a DC 30 Will save to resist becoming [[fascinated|fascinated]] by the melody on the wind. A creature that succeeds at its save is temporarily immune for 24 hours.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is [[fascinated|fascinated]] for 1 round.\n__Failure__ The creature is [[fascinated|fascinated]] for 1d4 (1d4) rounds."
+    desc: "⬻ ([[auditory]], [[concentrate]], [[enchantment]], [[mental]], [[primal]]);  The melody on the wind sings in a sonorous chorus. Any creature in a 30-foot emanation must attempt a DC 30 Will save to resist becoming [[rules/conditions.md#Fascinated|fascinated]] by the melody on the wind. A creature that succeeds at its save is temporarily immune for 24 hours.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is [[rules/conditions.md#Fascinated|fascinated]] for 1 round.\n__Failure__ The creature is [[rules/conditions.md#Fascinated|fascinated]] for 1d4 (1d4) rounds."
   - name: "Swiftness"
     desc: "  The melody on the wind's movement doesn't trigger reactions."
   - name: "Elemental, Earth"

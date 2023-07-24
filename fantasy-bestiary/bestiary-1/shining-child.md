@@ -32,10 +32,10 @@ abilityMods: [2, 5, 6, 2, 5, 7]
 
 abilities_top:
   - name: "Radiance Dependence"
-    desc: "  The shining child is [[flat-footed|flat-footed]] while in areas of darkness."
+    desc: "  The shining child is [[rules/conditions.md#Flat-Footed|flat-footed]] while in areas of darkness."
 abilities_mid:
   - name: "Blinding Aura"
-    desc: " ([[arcane]], [[aura]], [[incapacitation]], [[light]]);  60 feet. The shining child sheds bright light. Any creature that starts its turn in the aura must succeed at a Fortitude DC 29 save. If it fails, it is [[blinded|blinded]] for 1 minute, and if it critically fails, it's permanently [[blinded|blinded]]. A creature that succeeds at its save is temporarily immune to this effect for 24 hours."
+    desc: " ([[arcane]], [[aura]], [[incapacitation]], [[light]]);  60 feet. The shining child sheds bright light. Any creature that starts its turn in the aura must succeed at a Fortitude DC 29 save. If it fails, it is [[rules/conditions.md#Blinded|blinded]] for 1 minute, and if it critically fails, it's permanently [[rules/conditions.md#Blinded|blinded]]. A creature that succeeds at its save is temporarily immune to this effect for 24 hours."
   - name: "Overwhelming Light"
     desc: "⬲ ([[light]]); __Trigger__ The shining child enters an area of magical darkness or begins its turn in an area of magical darkness. __Effect__  The shining child attempts to counteract the magical darkness (as a 7th-level spell)."
 
@@ -53,7 +53,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +25 ([[agile]], [[finesse]], [[magical]]); __Damage__ 3d4+5 (3d4+5) bludgeoning plus 4d6 (4d6) fire and 2d4 (2d4) [[persistent damage|persistent fire]]"
+    desc: "⬻ fist +25 ([[agile]], [[finesse]], [[magical]]); __Damage__ 3d4+5 (3d4+5) bludgeoning plus 4d6 (4d6) fire and 2d4 (2d4) [[rules/conditions.md#Persistent%20Damage|persistent fire]]"
   - name: Melee
     desc: "⬻ fire ray +25 ([[arcane]], [[evocation]], [[magical]], [[range|range 100 feet]]); __Damage__ 3d10+3 (3d10+3) fire, plus 2d10 (2d10) positive damage if the target is undead"
 

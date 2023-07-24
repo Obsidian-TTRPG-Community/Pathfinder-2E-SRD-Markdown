@@ -33,7 +33,7 @@ abilityMods: [4, 2, 3, -1, 1, 0]
 
 abilities_mid:
   - name: "Stench"
-    desc: " ([[aura]], [[olfactory]]);  30 feet. A creature that enters the area must attempt a DC 16 Fortitude save. On a failure, the creature is [[sickened|sickened 1]], and on a critical failure, the creature also takes a –5-foot status penalty to its Speeds for 1 round. While within the aura, the creature takes a –2 circumstance penalty to saves to recover from the [[sickened|sickened]] condition. A creature that succeeds at its save is temporarily immune to all xulgaths' stenches for 1 minute."
+    desc: " ([[aura]], [[olfactory]]);  30 feet. A creature that enters the area must attempt a DC 16 Fortitude save. On a failure, the creature is [[rules/conditions.md#Sickened|sickened 1]], and on a critical failure, the creature also takes a –5-foot status penalty to its Speeds for 1 round. While within the aura, the creature takes a –2 circumstance penalty to saves to recover from the [[rules/conditions.md#Sickened|sickened]] condition. A creature that succeeds at its save is temporarily immune to all xulgaths' stenches for 1 minute."
 abilities_top:
   - name: Items
     desc: "club, javelin (3);"

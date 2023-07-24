@@ -55,7 +55,7 @@ attacks:
   - name: Melee
     desc: "⬻ root +18 ([[agile]]); __Damage__ 2d6+8 (2d6+8) bludgeoning plus [[Knockdown]]"
   - name: Ranged
-    desc: "⬻ thorns +16 __Damage__ 2d8+5 (2d8+5) piercing plus 1d4 (1d4) [[persistent damage|persistent bleed]]"
+    desc: "⬻ thorns +16 __Damage__ 2d8+5 (2d8+5) piercing plus 1d4 (1d4) [[rules/conditions.md#Persistent%20Damage|persistent bleed]]"
 
 spellcasting:
   - name: "Primal Innate Spells"

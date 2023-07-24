@@ -35,7 +35,7 @@ abilities_mid:
   - name: "High Winds"
     desc: " ([[air]], [[aura]]);  20 feet. Air within the emanation is [[terrain|difficult terrain]] for Flying creatures that do not have the [[air]] trait."
   - name: "Disperse"
-    desc: "⬲ __Trigger__ The living whirlwind takes damage from a [[hostile|hostile]] action. __Effect__  The storm lord disperses. Until the end of the current turn, it can't be attacked or targeted, doesn't take up space, and any auras or emanations it has are suppressed. At the end of the turn, the storm lord reforms in any space in which it can fit within 50 feet of where it dispersed and any auras or emanations it has are restored as long as their duration didn't run out while it was dispersed."
+    desc: "⬲ __Trigger__ The living whirlwind takes damage from a [[rules/conditions.md#Hostile|hostile]] action. __Effect__  The storm lord disperses. Until the end of the current turn, it can't be attacked or targeted, doesn't take up space, and any auras or emanations it has are suppressed. At the end of the turn, the storm lord reforms in any space in which it can fit within 50 feet of where it dispersed and any auras or emanations it has are restored as long as their duration didn't run out while it was dispersed."
 abilities_bot:
   - name: "Swiftness"
     desc: "  The storm lord's movement doesn't trigger reactions."

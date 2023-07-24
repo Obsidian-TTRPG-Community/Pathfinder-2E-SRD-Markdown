@@ -33,7 +33,7 @@ abilityMods: [5, -3, 4, -5, 0, -2]
 
 abilities_top:
   - name: "Slow"
-    desc: "  A zombie is permanently [[slowed|slowed 1]] and can't use reactions."
+    desc: "  A zombie is permanently [[rules/conditions.md#Slowed|slowed 1]] and can't use reactions."
 
 speed: 25 feet
 

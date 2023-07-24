@@ -33,7 +33,7 @@ abilityMods: [3, 5, 2, -2, 1, 0]
 
 abilities_mid:
   - name: "Disperse"
-    desc: "⬲ __Trigger__ The living whirlwind takes damage from a [[hostile|hostile]] action. __Effect__  The living whirlwind disperses. Until the end of the current turn, it can't be attacked or targeted, doesn't take up space, and any auras or emanations it has are suppressed. At the end of the turn, the living whirlwind reforms in any space in which it can fit within 25 feet of where it dispersed and any auras or emanations it has are restored as long as their duration didn't run out while it was dispersed."
+    desc: "⬲ __Trigger__ The living whirlwind takes damage from a [[rules/conditions.md#Hostile|hostile]] action. __Effect__  The living whirlwind disperses. Until the end of the current turn, it can't be attacked or targeted, doesn't take up space, and any auras or emanations it has are suppressed. At the end of the turn, the living whirlwind reforms in any space in which it can fit within 25 feet of where it dispersed and any auras or emanations it has are restored as long as their duration didn't run out while it was dispersed."
 abilities_bot:
   - name: "Swiftness"
     desc: "  The living whirlwind's movement doesn't trigger reactions."

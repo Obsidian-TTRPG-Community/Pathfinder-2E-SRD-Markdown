@@ -37,9 +37,9 @@ abilities_mid:
     desc: "⬲ ([[attack]]); __Requirements__ Initiative has not yet been rolled. __Trigger__ A creature touches the hunting spider's web while the spider is on it. __Effect__  The hunting spider automatically notices the creature and [[Stride|Strides]], Climbs, or Descends on a Web before it rolls initiative."
 abilities_bot:
   - name: "Goliath Spider Venom"
-    desc: " ([[incapacitation]], [[poison]]);  __Saving Throw__ DC 30 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d6 (2d6) poison and [[slowed|slowed 1]] (1 round) __Stage 2__ 2d6 (2d6) poison and [[slowed|slowed 2]] (1 round) __Stage 3__ [[paralyzed|paralyzed]] for 2d4 (2d4) hours. (null)"
+    desc: " ([[incapacitation]], [[poison]]);  __Saving Throw__ DC 30 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d6 (2d6) poison and [[rules/conditions.md#Slowed|slowed 1]] (1 round) __Stage 2__ 2d6 (2d6) poison and [[rules/conditions.md#Slowed|slowed 2]] (1 round) __Stage 3__ [[rules/conditions.md#Paralyzed|paralyzed]] for 2d4 (2d4) hours. (null)"
   - name: "Web Tether"
-    desc: "  A creature hit by the spider's web [[Strike]] is [[restrained|restrained]] and tethered to the spider, preventing it from moving farther away from the spider. The spider can have one creature tethered at a time. The DC to [[Escape]] or [[Force Open]] the web is 30. The tether can be severed with a [[Strike]] (AC 20, Hardness 5, HP 20), but this doesn't free the [[restrained|restrained]] creature."
+    desc: "  A creature hit by the spider's web [[Strike]] is [[rules/conditions.md#Restrained|restrained]] and tethered to the spider, preventing it from moving farther away from the spider. The spider can have one creature tethered at a time. The DC to [[Escape]] or [[Force Open]] the web is 30. The tether can be severed with a [[Strike]] (AC 20, Hardness 5, HP 20), but this doesn't free the [[rules/conditions.md#Restrained|restrained]] creature."
 
 speed: 45 feet, climb 30 feet
 

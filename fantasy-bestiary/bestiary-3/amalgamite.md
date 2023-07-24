@@ -34,7 +34,7 @@ abilityMods: [5, 6, 4, 8, 6, -1]
 
 abilities_mid:
   - name: "Destabilizing Field"
-    desc: " ([[aura]], [[conjuration]]);  40 feet. A creature that begins its turn within the area feels its body begin to stretch and must succeed at a DC 33 Fortitude save or become destabilized. A destabilized creature emits a 10-foot destabilizing field aura and becomes [[sickened|sickened 1]]. The destabilization ends when the creature is no longer [[sickened|sickened]]. A creature that succeeds at its saving throw against the aura is temporarily immune to all destabilizing fields for 1 minute."
+    desc: " ([[aura]], [[conjuration]]);  40 feet. A creature that begins its turn within the area feels its body begin to stretch and must succeed at a DC 33 Fortitude save or become destabilized. A destabilized creature emits a 10-foot destabilizing field aura and becomes [[rules/conditions.md#Sickened|sickened 1]]. The destabilization ends when the creature is no longer [[rules/conditions.md#Sickened|sickened]]. A creature that succeeds at its saving throw against the aura is temporarily immune to all destabilizing fields for 1 minute."
   - name: "Displace"
     desc: "⬲ __Trigger__ The amalgamite is hit by a [[Strike]] __Effect__  The amalgamite Repositions itself or Transposes itself with another creature. If the amalgamite successfully changes its location, it and any Transposed creature take half damage from the triggering [[Strike]]."
 abilities_bot:

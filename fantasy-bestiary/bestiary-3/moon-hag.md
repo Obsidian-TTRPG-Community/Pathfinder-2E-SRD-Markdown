@@ -41,10 +41,10 @@ abilities_mid:
   - name: "Ferocity"
     desc: "⬲ "
   - name: "Moonlight's Kiss"
-    desc: "  A moon hag in an area illuminated by moonlight gains a +2 status bonus to AC and initiative rolls. In the light of a full moon, she is [[quickened|quickened]], and can use the extra action only to [[Stride]] or [[Strike]]."
+    desc: "  A moon hag in an area illuminated by moonlight gains a +2 status bonus to AC and initiative rolls. In the light of a full moon, she is [[rules/conditions.md#Quickened|quickened]], and can use the extra action only to [[Stride]] or [[Strike]]."
 abilities_bot:
   - name: "Dreadful Prediction"
-    desc: "⬻ ([[curse]], [[enchantment]], [[occult]], [[mental]]);  Frequency once per round; The moon hag howls a series of dreadful, apocalyptic predictions at a single creature within 30 feet, shattering its perceptions of reality. The target must succeed at a DC 29 Will save or become [[stupefied|stupefied 2]] ([[stupefied|stupefied 3]] on a critical failure); regardless of the outcome, the creature is then temporarily immune for 24 hours. A creature that can see the moon takes a –2 circumstance penalty to saving throws against Dreadful Prediction. The [[stupefied|stupefied]] condition from Dreadful Prediction persists until the curse is removed."
+    desc: "⬻ ([[curse]], [[enchantment]], [[occult]], [[mental]]);  Frequency once per round; The moon hag howls a series of dreadful, apocalyptic predictions at a single creature within 30 feet, shattering its perceptions of reality. The target must succeed at a DC 29 Will save or become [[rules/conditions.md#Stupefied|stupefied 2]] ([[rules/conditions.md#Stupefied|stupefied 3]] on a critical failure); regardless of the outcome, the creature is then temporarily immune for 24 hours. A creature that can see the moon takes a –2 circumstance penalty to saving throws against Dreadful Prediction. The [[rules/conditions.md#Stupefied|stupefied]] condition from Dreadful Prediction persists until the curse is removed."
   - name: "Rend"
     desc: "⬻ ([[claw]]);  (page 306)"
 

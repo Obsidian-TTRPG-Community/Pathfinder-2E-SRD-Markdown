@@ -40,7 +40,7 @@ abilities_bot:
   - name: "Flying Strafe"
     desc: "⬺  The kongamato Flies up to their fly Speed and makes two wing [[Strike|Strikes]] at any point during that movement. Each [[Strike]] must target a different creature."
   - name: "Wailing Dive"
-    desc: "⬺  The kongamato Flies while emitting a terrifying screech. Each creature the kongamato flies over must succeed at a DC 30 Will save or become [[frightened|frightened 1]] ([[frightened|frightened 2]] on a critical failure) After attempting their saves, the creatures are temporarily immune for 1 hour. At the end of their movement, the kongamato can make a beak [[Strike]]."
+    desc: "⬺  The kongamato Flies while emitting a terrifying screech. Each creature the kongamato flies over must succeed at a DC 30 Will save or become [[rules/conditions.md#Frightened|frightened 1]] ([[rules/conditions.md#Frightened|frightened 2]] on a critical failure) After attempting their saves, the creatures are temporarily immune for 1 hour. At the end of their movement, the kongamato can make a beak [[Strike]]."
 
 speed: 30 feet, fly 130 feet, swim 30 feet
 

@@ -34,9 +34,9 @@ abilities_top:
     desc: "  The dream spider has imprecise [[tremorsense]] to detect the vibrations of creatures touching its web."
 abilities_bot:
   - name: "Dream Spider Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 16 Fortitude. __Maximum Duration__ 4 rounds __Stage 1__ [[stupefied|stupefied 1]] (1 round) __Stage 2__ 1d6 (1d6) poison damage plus [[stupefied|stupefied 1]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 16 Fortitude. __Maximum Duration__ 4 rounds __Stage 1__ [[rules/conditions.md#Stupefied|stupefied 1]] (1 round) __Stage 2__ 1d6 (1d6) poison damage plus [[rules/conditions.md#Stupefied|stupefied 1]] (1 round)"
   - name: "Web Trap"
-    desc: "  A creature hit by the dream spider's web attack is [[immobilized|immobilized]] and stuck to the nearest surface until it [[Escape|Escapes]] (DC 16)."
+    desc: "  A creature hit by the dream spider's web attack is [[rules/conditions.md#Immobilized|immobilized]] and stuck to the nearest surface until it [[Escape|Escapes]] (DC 16)."
 
 speed: 25 feet, climb 25 feet
 

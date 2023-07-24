@@ -37,7 +37,7 @@ abilities_bot:
   - name: "Swarming Bites"
     desc: "⬻  Each enemy in the spider swarm's space takes 1d4 (1d4) piercing damage with a DC 14 basic Reflex save. A creature that fails its save is exposed to spider swarm venom."
   - name: "Spider Swarm Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 14 Fortitude. __Maximum Duration__ 4 rounds __Stage 1__ 1 poison and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 1d4 (1d4) poison and [[enfeebled|enfeebled 1]]. (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 14 Fortitude. __Maximum Duration__ 4 rounds __Stage 1__ 1 poison and [[rules/conditions.md#Enfeebled|enfeebled 1]] (1 round) __Stage 2__ 1d4 (1d4) poison and [[rules/conditions.md#Enfeebled|enfeebled 1]]. (1 round)"
 
 speed: 20 feet, climb 20 feet
 

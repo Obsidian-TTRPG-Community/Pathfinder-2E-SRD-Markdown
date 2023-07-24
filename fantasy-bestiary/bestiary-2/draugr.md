@@ -39,7 +39,7 @@ abilities_top:
     desc: "greataxe, leather armor;"
 abilities_bot:
   - name: "Grotesque Gift"
-    desc: " ([[olfactory]]);  A draugr's attacks spatter their targets with rancid flesh and rotting seaweed. A creature damaged by a draugr's [[Strike]] must succeed at a DC 15 Fortitude save or become [[sickened|sickened 1]] ([[sickened|sickened 2]] on a critical failure)."
+    desc: " ([[olfactory]]);  A draugr's attacks spatter their targets with rancid flesh and rotting seaweed. A creature damaged by a draugr's [[Strike]] must succeed at a DC 15 Fortitude save or become [[rules/conditions.md#Sickened|sickened 1]] ([[rules/conditions.md#Sickened|sickened 2]] on a critical failure)."
   - name: "Swipe"
     desc: "⬺  The draugr makes a melee [[Strike]] and compares the attack roll result to the AC of up to two foes, each of whom must be within its melee reach and adjacent to each other. Roll damage only once and apply it to each creature hit. A Swipe counts as two attacks for the draugr's multiple attack penalty."
 

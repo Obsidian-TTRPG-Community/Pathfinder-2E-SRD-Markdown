@@ -34,12 +34,12 @@ abilities_mid:
   - name: "Attack of Opportunity"
     desc: "⬲ "
   - name: "Savage"
-    desc: "⬲ __Trigger__ A creature [[grabbed|grabbed]] by the wyvern critically fails a skill check to [[Escape]]. __Effect__  The wyvern makes a stinger [[Strike]] against the triggering creature."
+    desc: "⬲ __Trigger__ A creature [[rules/conditions.md#Grabbed|grabbed]] by the wyvern critically fails a skill check to [[Escape]]. __Effect__  The wyvern makes a stinger [[Strike]] against the triggering creature."
 abilities_bot:
   - name: "Powerful Dive"
-    desc: "⬺ ([[move]]);  The wyvern Flies up to its fly Speed and must both move forward at least 20 feet and descend at least 10 feet. If it ends the movement within melee reach of at least one enemy its size or smaller, it can make a claw [[Strike]] against that enemy. If the claw hits, as a free action the wyvern can either automatically Grab the target or knock it [[prone|prone]]."
+    desc: "⬺ ([[move]]);  The wyvern Flies up to its fly Speed and must both move forward at least 20 feet and descend at least 10 feet. If it ends the movement within melee reach of at least one enemy its size or smaller, it can make a claw [[Strike]] against that enemy. If the claw hits, as a free action the wyvern can either automatically Grab the target or knock it [[rules/conditions.md#Prone|prone]]."
   - name: "Punishing Momentum"
-    desc: "⬻ __Requirements__ The wyvern [[grabbed|grabbed]] a creature this turn using Powerful Dive.  __Effect__  The wyvern can [[Fly]] at half Speed while holding the creature in its claws, carrying that creature along with it and dropping it at the end of its movement. Alternatively, the wyvern can [[Strike]] the creature with its stinger with a +2 circumstance bonus."
+    desc: "⬻ __Requirements__ The wyvern [[rules/conditions.md#Grabbed|grabbed]] a creature this turn using Powerful Dive.  __Effect__  The wyvern can [[Fly]] at half Speed while holding the creature in its claws, carrying that creature along with it and dropping it at the end of its movement. Alternatively, the wyvern can [[Strike]] the creature with its stinger with a +2 circumstance bonus."
   - name: "Wyvern Venom"
     desc: " ([[poison]]);  __Saving Throw__ DC 22 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 5d6 (5d6) poison damage (1 round) __Stage 2__ 6d6 (6d6) poison damage (1 round) __Stage 3__ 8d6 (8d6) poison damage (1 round)"
 

@@ -33,10 +33,10 @@ abilityMods: [2, 5, 3, 0, 4, 1]
 
 abilities_top:
   - name: "Smoke Vision"
-    desc: "  The striding fire ignores the [[concealed|concealed]] condition from smoke."
+    desc: "  The striding fire ignores the [[rules/conditions.md#Concealed|concealed]] condition from smoke."
 abilities_bot:
   - name: "Burning Rush"
-    desc: "⬺ ([[evocation]], [[fire]], [[primal]]);  The striding fire [[Stride|Strides]] up to double its Speed in a straight line. Its movement during this [[Stride]] doesn't trigger reactions. Any creature the striding fire was adjacent to at any point during this [[Stride]] must attempt a DC 24 basic Reflex save. If it critically fails, it is knocked [[prone|prone]] by a wave of heated air. The striding fire can't use Burning Rush for 1d4 (1d4) rounds."
+    desc: "⬺ ([[evocation]], [[fire]], [[primal]]);  The striding fire [[Stride|Strides]] up to double its Speed in a straight line. Its movement during this [[Stride]] doesn't trigger reactions. Any creature the striding fire was adjacent to at any point during this [[Stride]] must attempt a DC 24 basic Reflex save. If it critically fails, it is knocked [[rules/conditions.md#Prone|prone]] by a wave of heated air. The striding fire can't use Burning Rush for 1d4 (1d4) rounds."
 
 speed: 50 feet
 
@@ -52,7 +52,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +17 ([[agile]], [[finesse]]); __Damage__ 2d8+5 (2d8+5) bludgeoning plus 1d6 (1d6) [[persistent damage|persistent fire]]"
+    desc: "⬻ fist +17 ([[agile]], [[finesse]]); __Damage__ 2d8+5 (2d8+5) bludgeoning plus 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent fire]]"
 
 sourcebook: "_Bestiary 2_, page 111."
 ```

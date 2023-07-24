@@ -44,7 +44,7 @@ abilities_bot:
   - name: "Constrict"
     desc: "⬻  2d6 (2d6) bludgeoning plus 1d6 (1d6) acid, DC 24."
   - name: "Sleep Gas"
-    desc: "⬺ ([[incapacitation]], [[mental]], [[poison]], [[sleep]]);  The verdurous ooze adjusts its aura of supernatural vapors to affect living creatures within a 20-foot emanation, forcing them to attempt a DC 24 Will save.\n__Critical Success__ The creature is unaffected and becomes temporarily immune to Sleep Gas for 24 hours.\n__Success__ The creature is [[stupefied|stupefied 1]] for 1 round.\n__Failure__ The creature falls [[unconscious|unconscious]]. If it's still [[unconscious|unconscious]] after 1 minute, it wakes up automatically.\n__Critical Failure__ The creature falls [[unconscious|unconscious]]. If it's still [[unconscious|unconscious]] after 1 hour, it wakes up automatically."
+    desc: "⬺ ([[incapacitation]], [[mental]], [[poison]], [[sleep]]);  The verdurous ooze adjusts its aura of supernatural vapors to affect living creatures within a 20-foot emanation, forcing them to attempt a DC 24 Will save.\n__Critical Success__ The creature is unaffected and becomes temporarily immune to Sleep Gas for 24 hours.\n__Success__ The creature is [[rules/conditions.md#Stupefied|stupefied 1]] for 1 round.\n__Failure__ The creature falls [[rules/conditions.md#Unconscious|unconscious]]. If it's still [[rules/conditions.md#Unconscious|unconscious]] after 1 minute, it wakes up automatically.\n__Critical Failure__ The creature falls [[rules/conditions.md#Unconscious|unconscious]]. If it's still [[rules/conditions.md#Unconscious|unconscious]] after 1 hour, it wakes up automatically."
   - name: "Verdurous Ooze Acid"
     desc: "  A verdurous ooze's acid damages only metal and flesh—not bone, stone, or other materials."
 

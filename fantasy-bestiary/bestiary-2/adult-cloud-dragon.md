@@ -36,12 +36,12 @@ abilityMods: [7, 3, 5, 4, 6, 6]
 
 abilities_top:
   - name: "Mist Vision"
-    desc: "  Fog and mist don't impair a cloud dragon's vision; they ignore the [[concealed|concealed]] condition from fog and mist."
+    desc: "  Fog and mist don't impair a cloud dragon's vision; they ignore the [[rules/conditions.md#Concealed|concealed]] condition from fog and mist."
 abilities_mid:
   - name: "Frightful Presence"
     desc: " ([[aura]], [[emotion]], [[fear]], [[mental]]);  90 feet, DC 32."
   - name: "Deflecting Cloud"
-    desc: "⬲ __Requirements__ The dragon is aware of the attack and has a free wing __Trigger__ The dragon is the target of a ranged attack __Effect__  The cloud dragon flexes a wing and creates a billowing cloud of mist. The dragon is treated as if they were [[hidden|hidden]] for the purposes of resolving the triggering attack, so normally the attacker must succeed at a DC 11 flat check to target them. The dragon also gains a +4 circumstance bonus to AC against the triggering attack."
+    desc: "⬲ __Requirements__ The dragon is aware of the attack and has a free wing __Trigger__ The dragon is the target of a ranged attack __Effect__  The cloud dragon flexes a wing and creates a billowing cloud of mist. The dragon is treated as if they were [[rules/conditions.md#Hidden|hidden]] for the purposes of resolving the triggering attack, so normally the attacker must succeed at a DC 11 flat check to target them. The dragon also gains a +4 circumstance bonus to AC against the triggering attack."
 abilities_bot:
   - name: "Breath Weapon"
     desc: "⬺ ([[electricity]], [[evocation]], [[primal]]);  The dragon breathes a thundercloud that deals 15d6 (15d6) electricity damage in a 50-foot cone (DC 35 basic Reflex save). They can't use Breath Weapon again for 1d4 (1d4) rounds."

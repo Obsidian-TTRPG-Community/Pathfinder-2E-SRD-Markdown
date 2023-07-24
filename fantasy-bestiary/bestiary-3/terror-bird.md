@@ -33,7 +33,7 @@ abilities_bot:
   - name: "Sprint"
     desc: "⬺ __Frequency__ once per minute  __Effect__  The terror bird [[Stride|Strides]] three times in a straight line."
   - name: "Tearing Clutch"
-    desc: "  The terror bird's powerful beak can tear through flesh. On a successful beak [[Strike]], the target takes 1 [[persistent damage|persistent bleed damage]]. This bleed damage increases to 1d4 (1d4) on a critical hit."
+    desc: "  The terror bird's powerful beak can tear through flesh. On a successful beak [[Strike]], the target takes 1 [[rules/conditions.md#Persistent%20Damage|persistent bleed damage]]. This bleed damage increases to 1d4 (1d4) on a critical hit."
 
 speed: 50 feet
 

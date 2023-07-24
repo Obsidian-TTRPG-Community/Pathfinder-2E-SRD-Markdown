@@ -44,9 +44,9 @@ abilities_bot:
   - name: "Liquid Leap"
     desc: "⬺ ([[concentrate]], [[conjuration]], [[teleportation]]); __Requirements__ The omox is in a space of liquid  __Effect__  The omox teleports from its current space to any unoccupied space of liquid within 120 feet."
   - name: "Slime Trap"
-    desc: "  A creature hit by an omox's slime ball must attempt a DC 32 Reflex save.\n__Success__ The creature is unaffected.\n__Failure__ The creature takes a –10-foot circumstance penalty to its Speeds for 1 minute or until it [[Escape|Escapes]] (DC 35).\n__Critical Failure__ As failure, but the target is also [[clumsy|clumsy 1]] for the same duration."
+    desc: "  A creature hit by an omox's slime ball must attempt a DC 32 Reflex save.\n__Success__ The creature is unaffected.\n__Failure__ The creature takes a –10-foot circumstance penalty to its Speeds for 1 minute or until it [[Escape|Escapes]] (DC 35).\n__Critical Failure__ As failure, but the target is also [[rules/conditions.md#Clumsy|clumsy 1]] for the same duration."
   - name: "Smother"
-    desc: "⬻ __Requirements__ The omox has a creature [[grabbed|grabbed]]  __Effect__  The demon flows over the [[grabbed|grabbed]] creature, covering it in oozing acidic slime. The creature must succeed at a DC 32 Fortitude save or else it becomes [[blinded|blinded]] and must hold its breath or begin suffocating. These effects lasts as long as the omox has the creature [[grabbed|grabbed]]. [[Deception]] and charm rather than burning hands."
+    desc: "⬻ __Requirements__ The omox has a creature [[rules/conditions.md#Grabbed|grabbed]]  __Effect__  The demon flows over the [[rules/conditions.md#Grabbed|grabbed]] creature, covering it in oozing acidic slime. The creature must succeed at a DC 32 Fortitude save or else it becomes [[rules/conditions.md#Blinded|blinded]] and must hold its breath or begin suffocating. These effects lasts as long as the omox has the creature [[rules/conditions.md#Grabbed|grabbed]]. [[Deception]] and charm rather than burning hands."
 
 speed: 40 feet, climb 20 feet, swim 80 feet
 

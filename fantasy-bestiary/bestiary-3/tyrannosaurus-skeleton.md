@@ -36,7 +36,7 @@ abilities_top:
     desc: "  Fire that laid waste to Skills [[Athletics]] +22 Str +7, Dex +0, Con +5, Int –5, Wis +2, Cha +0."
 abilities_bot:
   - name: "Rib Skewer"
-    desc: "⬻  The tyrannosaurus skeleton bends down, attempting to skewer one adjacent creature on one of its massive ribs. The creature takes 2d10+9 (2d10+9) piercing damage (DC 28 basic Reflex save). If the creature fails its save and is Medium or smaller, it's also impaled and stuck to the rib. It moves with the skeleton and takes 2d6 (2d6) [[persistent damage|persistent bleed damage]] until it either [[Escape|Escapes]] or someone uses [[Force Open]] to break the rib (either is DC 28)."
+    desc: "⬻  The tyrannosaurus skeleton bends down, attempting to skewer one adjacent creature on one of its massive ribs. The creature takes 2d10+9 (2d10+9) piercing damage (DC 28 basic Reflex save). If the creature fails its save and is Medium or smaller, it's also impaled and stuck to the rib. It moves with the skeleton and takes 2d6 (2d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed damage]] until it either [[Escape|Escapes]] or someone uses [[Force Open]] to break the rib (either is DC 28)."
   - name: "Trample"
     desc: "⬽  Huge or smaller, foot, DC 28"
 

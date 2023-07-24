@@ -40,7 +40,7 @@ abilities_bot:
   - name: "Change Shape"
     desc: "⬻ ([[concentrate]], [[occult]], [[polymorph]], [[transmutation]]);  The street skelm can take on the appearance of any Medium male humanoid (page 304). This doesn't change his Speed or his attack and damage bonuses with his [[Strike|Strikes]] but might change the damage type his [[Strike|Strikes]] deal."
   - name: "Isolating Lash"
-    desc: "⬺ ([[illusion]], [[occult]]);  The soul skelm makes a melee [[Strike]] trailing a wave of shadowy illusions. The skelm is [[flat-footed|flat-footed]] until the start of his next turn. If the [[Strike]] is successful, the skelm increases the number of damage dice by one, and the target must attempt a DC 29 Will save. On a failure, the target becomes [[invisible|invisible]], inaudible, and otherwise imperceptible to its allies for 4 rounds, and it likewise can't see, hear, or otherwise perceive those allies. Regardless of the outcome, the creature is temporarily immune to Isolating Lash for 24 hours."
+    desc: "⬺ ([[illusion]], [[occult]]);  The soul skelm makes a melee [[Strike]] trailing a wave of shadowy illusions. The skelm is [[rules/conditions.md#Flat-Footed|flat-footed]] until the start of his next turn. If the [[Strike]] is successful, the skelm increases the number of damage dice by one, and the target must attempt a DC 29 Will save. On a failure, the target becomes [[rules/conditions.md#Invisible|invisible]], inaudible, and otherwise imperceptible to its allies for 4 rounds, and it likewise can't see, hear, or otherwise perceive those allies. Regardless of the outcome, the creature is temporarily immune to Isolating Lash for 24 hours."
 abilities_top:
   - name: Items
     desc: "+1 striking ghost touch spiked chain;"

@@ -35,7 +35,7 @@ abilities_mid:
     desc: "⬲ ([[move]]); __Trigger__ A creature that starts its move outside the gogiteth's reach moves into its reach. __Effect__  The gogiteth moves 10 feet. This does not trigger reactions."
 abilities_bot:
   - name: "Carry Off Prey"
-    desc: "  The gogiteth can move at its full Speed while it has a creature [[grabbed|grabbed]] in its jaws, bringing the [[grabbed|grabbed]] creature along."
+    desc: "  The gogiteth can move at its full Speed while it has a creature [[rules/conditions.md#Grabbed|grabbed]] in its jaws, bringing the [[rules/conditions.md#Grabbed|grabbed]] creature along."
   - name: "Constrict"
     desc: "⬻  3d6+12 (3d6+12) bludgeoning, DC 32."
   - name: "Skittering Assault"

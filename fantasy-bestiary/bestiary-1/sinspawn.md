@@ -40,7 +40,7 @@ abilities_mid:
     desc: "⬲ "
 abilities_bot:
   - name: "Sinful Bite"
-    desc: " ([[arcane]], [[emotion]], [[mental]]);  A creature hit by the jaws of a sinspawn must attempt a DC 18 Will save as it is assailed by sinful thoughts.\n__Success__ [[Sickened|Sickened 1]].\n__Critical Success__ Unaffected.\n__Failure__ [[Sickened|Sickened 2]].\n__Critical Failure__ [[Sickened|Sickened 2]] plus an additional penalty, determined by the sinspawn's sin, while it remains [[sickened|sickened]]."
+    desc: " ([[arcane]], [[emotion]], [[mental]]);  A creature hit by the jaws of a sinspawn must attempt a DC 18 Will save as it is assailed by sinful thoughts.\n__Success__ [[rules/conditions.md#Sickened|Sickened 1]].\n__Critical Success__ Unaffected.\n__Failure__ [[rules/conditions.md#Sickened|Sickened 2]].\n__Critical Failure__ [[rules/conditions.md#Sickened|Sickened 2]] plus an additional penalty, determined by the sinspawn's sin, while it remains [[rules/conditions.md#Sickened|sickened]]."
   - name: "Sin"
     desc: "  A sinspawn gains an additional skill based on its sin, as well as a weapon that reflects the preferences of its kinds' ancient creators. The seven sins and the benefits they confer upon a sinspawn are noted in the Sinspawn Sins section."
 

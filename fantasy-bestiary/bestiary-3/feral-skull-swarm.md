@@ -40,9 +40,9 @@ abilities_mid:
     desc: "  When a feral skull swarm is reduced to 0 Hit Points, it erupts in an explosion of foul energy and bone fragments in a 30-foot burst, dealing 3d12 (3d12) piercing damage and 2d12 (2d12) negative damage (DC 32 basic Reflex save)."
 abilities_bot:
   - name: "Feral Gnaw"
-    desc: "⬻  Each enemy in the swarm's space takes 2d6 (2d6) bludgeoning, 2d6 (2d6) piercing, and 2d6 (2d6) slashing damage (DC 32 basic Reflex save). A creature that fails its saving throw also takes 1d10 (1d10) [[persistent damage|persistent bleed damage]]."
+    desc: "⬻  Each enemy in the swarm's space takes 2d6 (2d6) bludgeoning, 2d6 (2d6) piercing, and 2d6 (2d6) slashing damage (DC 32 basic Reflex save). A creature that fails its saving throw also takes 1d10 (1d10) [[rules/conditions.md#Persistent%20Damage|persistent bleed damage]]."
   - name: "Frightening Howl"
-    desc: "⬻ ([[auditory]], [[emotion]], [[enchantment]], [[fear]], [[mental]]);  The feral skull swarm emits a terrifying howl. Each creature within 60 feet must succeed at a DC 32 Will save or become [[frightened|frightened 2]] ([[frightened|frightened 3]] and [[fleeing|fleeing]] for 1 round on a critical failure). Whether it succeeds or fails its save, a creature is temporarily immune to."
+    desc: "⬻ ([[auditory]], [[emotion]], [[enchantment]], [[fear]], [[mental]]);  The feral skull swarm emits a terrifying howl. Each creature within 60 feet must succeed at a DC 32 Will save or become [[rules/conditions.md#Frightened|frightened 2]] ([[rules/conditions.md#Frightened|frightened 3]] and [[rules/conditions.md#Fleeing|fleeing]] for 1 round on a critical failure). Whether it succeeds or fails its save, a creature is temporarily immune to."
   - name: "Frightening"
     desc: "  Howl for 24 hours."
 

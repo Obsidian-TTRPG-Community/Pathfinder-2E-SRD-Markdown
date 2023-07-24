@@ -34,7 +34,7 @@ abilities_bot:
   - name: "Darting Attack"
     desc: "⬻  The deinonychus [[Stride|Strides]] up to 10 feet and then makes a [[Strike]], or makes a [[Strike]] and then [[Stride|Strides]] up to 10 feet."
   - name: "Predator's Advantage"
-    desc: "  Bleeding creatures are [[flat-footed|flat-footed]] to the deinonychus."
+    desc: "  Bleeding creatures are [[rules/conditions.md#Flat-Footed|flat-footed]] to the deinonychus."
 
 speed: 30 feet
 

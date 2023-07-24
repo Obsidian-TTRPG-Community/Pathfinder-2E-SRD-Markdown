@@ -53,7 +53,7 @@ attacks:
   - name: Melee
     desc: "⬻ claw +16 ([[agile]], [[magical]]); __Damage__ 1d8+7 (1d8+7) slashing plus 1d8 (1d8) cold"
   - name: Ranged
-    desc: "⬻ burning cold +17 ([[magical]], [[range|range 120 feet]]); __Damage__ 2d8 (2d8) cold plus 1d8 (1d8) [[persistent damage|persistent cold]]"
+    desc: "⬻ burning cold +17 ([[magical]], [[range|range 120 feet]]); __Damage__ 2d8 (2d8) cold plus 1d8 (1d8) [[rules/conditions.md#Persistent%20Damage|persistent cold]]"
 
 spellcasting:
   - name: "Occult Innate Spells"

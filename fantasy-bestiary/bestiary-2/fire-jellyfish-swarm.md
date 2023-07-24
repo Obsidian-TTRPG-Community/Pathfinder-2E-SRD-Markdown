@@ -38,7 +38,7 @@ abilities_bot:
   - name: "Burning Swarm"
     desc: "⬻ ([[poison]]);  Each enemy in the swarm's space takes 3d8 (3d8) poison damage (DC 24 basic Reflex save) and is exposed to fire jelly venom."
   - name: "Fire Jelly Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 24 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ [[clumsy|clumsy 1]] (1 round) __Stage 2__ [[clumsy|clumsy 2]] (1 round) __Stage 3__ [[clumsy|clumsy 3]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 24 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ [[rules/conditions.md#Clumsy|clumsy 1]] (1 round) __Stage 2__ [[rules/conditions.md#Clumsy|clumsy 2]] (1 round) __Stage 3__ [[rules/conditions.md#Clumsy|clumsy 3]] (1 round)"
 
 speed: swim 20 feet
 

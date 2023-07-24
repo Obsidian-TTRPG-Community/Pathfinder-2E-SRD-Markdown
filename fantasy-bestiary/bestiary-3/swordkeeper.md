@@ -34,7 +34,7 @@ abilityMods: [7, 5, 5, -5, 2, -5]
 
 abilities_top:
   - name: "Central Weapon"
-    desc: "  A swordkeeper's torso houses a single weapon of a level no higher than the swordkeeper. While the swordkeeper is operational, the chamber requires four successful DC 32 [[Thievery]] checks to [[Disable a Device]] to open; on a critical failure, the backlash deals 6d6 (6d6) force damage (DC 30 basic Reflex save) to the creature attempting the check. If the swordkeeper is [[immobilized|immobilized]], [[grabbed|grabbed]], [[prone|prone]], or [[stunned|stunned]], both DCs are reduced by 2. If the weapon is removed, the swordkeeper's echoblades vanish."
+    desc: "  A swordkeeper's torso houses a single weapon of a level no higher than the swordkeeper. While the swordkeeper is operational, the chamber requires four successful DC 32 [[Thievery]] checks to [[Disable a Device]] to open; on a critical failure, the backlash deals 6d6 (6d6) force damage (DC 30 basic Reflex save) to the creature attempting the check. If the swordkeeper is [[rules/conditions.md#Immobilized|immobilized]], [[rules/conditions.md#Grabbed|grabbed]], [[rules/conditions.md#Prone|prone]], or [[rules/conditions.md#Stunned|stunned]], both DCs are reduced by 2. If the weapon is removed, the swordkeeper's echoblades vanish."
   - name: Items
     desc: "+1 striking disrupting longsword;"
 abilities_mid:

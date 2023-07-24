@@ -39,9 +39,9 @@ abilities_top:
     desc: "dagger, scale mail, staff;"
 abilities_mid:
   - name: "Aura of Courage"
-    desc: "  15 feet. When the shabti becomes [[frightened|frightened]], reduce the [[frightened|frightened]] value they would gain by 1. At the end of their turn, they reduce the [[frightened|frightened]] value of all allies in the aura by 1."
+    desc: "  15 feet. When the shabti becomes [[rules/conditions.md#Frightened|frightened]], reduce the [[rules/conditions.md#Frightened|frightened]] value they would gain by 1. At the end of their turn, they reduce the [[rules/conditions.md#Frightened|frightened]] value of all allies in the aura by 1."
   - name: "Glimpse of Redemption"
-    desc: "⬲ __Trigger__ An enemy damages the shabti's ally, and both the enemy and ally are within 15 feet of the shabti __Effect__  The shabti's foe hesitates under the weight of sin as visions of redemption play in their mind's eye. The foe must choose one of the following options:<ul class='inner-bullet-list'><li>The ally is unharmed by the triggering damage.</li><li>The ally gains resistance 6 to the triggering damage. After the damaging effect is applied, the enemy becomes [[enfeebled|enfeebled 2]] until the end of its next turn.</li></ul>"
+    desc: "⬲ __Trigger__ An enemy damages the shabti's ally, and both the enemy and ally are within 15 feet of the shabti __Effect__  The shabti's foe hesitates under the weight of sin as visions of redemption play in their mind's eye. The foe must choose one of the following options:<ul class='inner-bullet-list'><li>The ally is unharmed by the triggering damage.</li><li>The ally gains resistance 6 to the triggering damage. After the damaging effect is applied, the enemy becomes [[rules/conditions.md#Enfeebled|enfeebled 2]] until the end of its next turn.</li></ul>"
   - name: "Immortal"
     desc: "  Shabti don't age naturally and can't die of old age. Spells and effects that cause aging still affect a shabti as normal. They also can't be turned into undead."
 

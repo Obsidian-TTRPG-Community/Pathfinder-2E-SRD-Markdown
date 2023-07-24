@@ -39,7 +39,7 @@ abilities_top:
     desc: "+1 ranseur;"
 abilities_bot:
   - name: "Armor of Flames"
-    desc: "⬻  The salamander stokes its internal flames. Until the start of its next turn, it gains a +2 circumstance bonus to AC, and when an adjacent creature touches it or hits it with a physical attack, that creature takes 2d6 (2d6) [[persistent damage|persistent fire damage]] unless it succeeds at a DC 25 Reflex save."
+    desc: "⬻  The salamander stokes its internal flames. Until the start of its next turn, it gains a +2 circumstance bonus to AC, and when an adjacent creature touches it or hits it with a physical attack, that creature takes 2d6 (2d6) [[rules/conditions.md#Persistent%20Damage|persistent fire damage]] unless it succeeds at a DC 25 Reflex save."
   - name: "Constrict"
     desc: "⬻  1d8+4 (1d8+4) bludgeoning plus 1d6 (1d6) fire, DC 25."
 

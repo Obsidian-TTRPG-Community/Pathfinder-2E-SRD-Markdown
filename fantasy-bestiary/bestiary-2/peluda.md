@@ -33,14 +33,14 @@ abilityMods: [7, 3, 5, -2, 5, 3]
 
 abilities_mid:
   - name: "Vulnerable Tail"
-    desc: "  If the peluda takes 30 or more slashing damage from a critical hit, the attacker severs the peluda's tail. The peluda takes 2d6 (2d6) [[persistent damage|persistent bleed damage]] and can't make tail attacks until their tail grows back (in about 1 week)."
+    desc: "  If the peluda takes 30 or more slashing damage from a critical hit, the attacker severs the peluda's tail. The peluda takes 2d6 (2d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed damage]] and can't make tail attacks until their tail grows back (in about 1 week)."
   - name: "Quill Thrust"
     desc: "⬲ __Trigger__ A creature within 10 feet attempts a melee [[Strike]] against the peluda __Effect__  The peluda shifts their position and makes a quill [[Strike]] against the attacking creature. This [[Strike]] doesn't count toward the peluda's multiple attack penalty, and the peluda's multiple attack penalty doesn't apply to this [[Strike]]."
 abilities_bot:
   - name: "Breath Weapon"
     desc: "⬺ ([[evocation]], [[fire]], [[primal]]);  The peluda breathes a torrent of flames that deals 7d10 (7d10) fire damage in a 60-foot line (DC 29 basic Reflex save). They can't use their Breath Weapon again for 1d4 (1d4) rounds."
   - name: "Peluda Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 29 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d6 (2d6) poison and [[flat-footed|flat-footed]] (1 round) __Stage 2__ 2d6 (2d6) poison, [[enfeebled|enfeebled 1]], and [[flat-footed|flat-footed]] (1 round) __Stage 3__ 2d6 (2d6) poison, [[enfeebled|enfeebled 2]], and [[flat-footed|flat-footed]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 29 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d6 (2d6) poison and [[rules/conditions.md#Flat-Footed|flat-footed]] (1 round) __Stage 2__ 2d6 (2d6) poison, [[rules/conditions.md#Enfeebled|enfeebled 1]], and [[rules/conditions.md#Flat-Footed|flat-footed]] (1 round) __Stage 3__ 2d6 (2d6) poison, [[rules/conditions.md#Enfeebled|enfeebled 2]], and [[rules/conditions.md#Flat-Footed|flat-footed]] (1 round)"
   - name: "Quill Barrage"
     desc: "⬺  The peluda bristles their quills and shakes, sending dozens of spear-like barbs in every direction. All creatures within 30 feet take 11d6 (11d6) piercing damage (DC 29 basic Reflex save) and are exposed to peluda venom if they take any damage. The peluda can't use Quill Barrage again for 1 minute."
 

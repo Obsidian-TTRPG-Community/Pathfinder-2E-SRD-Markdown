@@ -49,9 +49,9 @@ abilities_bot:
   - name: "Magma Swim"
     desc: "  A magma dragon's swim Speed functions only when the dragon is Swimming through magma or molten lava."
   - name: "Magma Tomb"
-    desc: "⬺  Once per day, the dragon can spit a molten boulder at a target within 120 feet. This deals 12d6 (12d6) fire damage and 5d12 (5d12) bludgeoning damage, with a DC 42 basic Reflex save. If the creature fails its save, it's encased in magma that instantly cools and has Hardness 10, HP 40, and BT 20. The encased creature can't breathe and is [[restrained|restrained]] ([[Escape]] DC 42)."
+    desc: "⬺  Once per day, the dragon can spit a molten boulder at a target within 120 feet. This deals 12d6 (12d6) fire damage and 5d12 (5d12) bludgeoning damage, with a DC 42 basic Reflex save. If the creature fails its save, it's encased in magma that instantly cools and has Hardness 10, HP 40, and BT 20. The encased creature can't breathe and is [[rules/conditions.md#Restrained|restrained]] ([[Escape]] DC 42)."
   - name: "Volcanic Purge"
-    desc: "⬻  If the next action the dragon uses is Breath Weapon, the magma clings to those it damages. Each creature that fails its save against the Breath Weapon takes 5d6 (5d6) [[persistent damage|persistent fire damage]], and as long as it has this [[persistent damage|persistent fire damage]], it also takes a –10-foot status penalty to its Speeds."
+    desc: "⬻  If the next action the dragon uses is Breath Weapon, the magma clings to those it damages. Each creature that fails its save against the Breath Weapon takes 5d6 (5d6) [[rules/conditions.md#Persistent%20Damage|persistent fire damage]], and as long as it has this [[rules/conditions.md#Persistent%20Damage|persistent fire damage]], it also takes a –10-foot status penalty to its Speeds."
 
 speed: 50 feet, fly 200 feet; magma swim 50 feet;
 

@@ -38,7 +38,7 @@ abilities_top:
     desc: "disguise kit, lute, sap, shortsword, thieves' tools;"
 abilities_bot:
   - name: "Sneak Attack"
-    desc: "  The charlatan deals an extra 1d6 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The charlatan deals an extra 1d6 (1d6) precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
 
 speed: 25 feet
 

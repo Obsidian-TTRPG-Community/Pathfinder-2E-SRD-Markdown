@@ -33,15 +33,15 @@ abilityMods: [4, 6, 3, 4, 6, 3]
 
 abilities_mid:
   - name: "Defensive Quills"
-    desc: "  A creature that hits a pukwudgie with an unarmed [[Strike]] or a non-reach melee [[Strike]] takes 3d8 (3d8) piercing damage (basic Reflex save). On a critical failure, the creature also takes 1d6 (1d6) [[persistent damage|persistent poison damage]] from the poisoned quills."
+    desc: "  A creature that hits a pukwudgie with an unarmed [[Strike]] or a non-reach melee [[Strike]] takes 3d8 (3d8) piercing damage (basic Reflex save). On a critical failure, the creature also takes 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent poison damage]] from the poisoned quills."
 abilities_top:
   - name: Items
     desc: "+1 hatchet, shortbow;"
 abilities_bot:
   - name: "Change Shape"
-    desc: "⬻ ([[concentrate]], [[polymorph]], [[primal]], [[transmutation]]);  The pukwudgie takes on the physical form of a giant porcupine (page 207). Their size changes to Medium, they lose their weapon [[Strike|Strikes]], and they gain a quill [[Strike]] (+18 for 2d8+6 (2d8+6) piercing plus 1d8 (1d8) [[persistent damage|persistent poison]])."
+    desc: "⬻ ([[concentrate]], [[polymorph]], [[primal]], [[transmutation]]);  The pukwudgie takes on the physical form of a giant porcupine (page 207). Their size changes to Medium, they lose their weapon [[Strike|Strikes]], and they gain a quill [[Strike]] (+18 for 2d8+6 (2d8+6) piercing plus 1d8 (1d8) [[rules/conditions.md#Persistent%20Damage|persistent poison]])."
   - name: "Pukwudgie Poison"
-    desc: " ([[poison]]);  __Saving Throw__ DC 25 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d6 (1d6) poison damage and [[stupefied|stupefied 1]] (1 round) __Stage 2__ 1d6 (1d6) poison damage and [[stupefied|stupefied 2]] (1 round) __Stage 3__ 1d6 (1d6) poison damage, [[confused|confused]], and [[stupefied|stupefied 2]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 25 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d6 (1d6) poison damage and [[rules/conditions.md#Stupefied|stupefied 1]] (1 round) __Stage 2__ 1d6 (1d6) poison damage and [[rules/conditions.md#Stupefied|stupefied 2]] (1 round) __Stage 3__ 1d6 (1d6) poison damage, [[rules/conditions.md#Confused|confused]], and [[rules/conditions.md#Stupefied|stupefied 2]] (1 round)"
 
 speed: 25 feet
 

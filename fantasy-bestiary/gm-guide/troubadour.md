@@ -33,7 +33,7 @@ abilityMods: [0, 3, 0, 2, 1, 4]
 
 abilities_top:
   - name: "Bardic Lore"
-    desc: "  The troubadour can [[Recall Knowledge]] on any subject with a +7 modifier."
+    desc: "  The troubadour can [[Recall-Knowledge|Recall Knowledge]] on any subject with a +7 modifier."
   - name: Items
     desc: "crossbow (10 bolts), leather armor, lute, poetry book, rapier;"
 
@@ -57,7 +57,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Spontaneous Spells"
-    desc: "DC 21; __Cantrips (2nd)__ [[detect magic]], [[ghost sound]], [[message]], [[prestidigitation]], [[read aura]]; __1st__ (3 slots) [[charm]], [[illusory disguise]], [[soothe]], [[ventriloquism]]; __2nd__ (2 slots) [[calm emotions]], [[charm]], [[magic mouth]];"
+    desc: "DC 21; __Cantrips (2nd)__ [[detect magic]], [[ghost sound]], [[message]], [[prestidigitation]], [[read aura]]; __1st__ (3 slots) [[charm]], [[illusory disguise]], [[soothe]], [[ventriloquism]]; __2nd__ (2 slots) [[calm emotions]], [[charm]], [[magic-mouth|magic mouth]];"
 sourcebook: "_Gamemastery Guide_, page 238."
 ```
 

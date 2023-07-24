@@ -36,7 +36,7 @@ abilities_mid:
     desc: "  When destroyed, a flaming skull explodes in a blast of fire and bone that deals 1d6 (1d6) piercing damage plus 1d6 (1d6) fire damage to each adjacent creature (DC 18 basic Reflex save)."
 abilities_bot:
   - name: "Flaming Shroud"
-    desc: "  A flaming skull is shrouded in hideous flames. It deals 1d6 (1d6) fire damage to any unattended item it touches and on a forehead [[Strike]]. On a critical hit with a [[Strike]], the target catches fire, taking 1d4 (1d4) [[persistent damage|persistent fire damage]]."
+    desc: "  A flaming skull is shrouded in hideous flames. It deals 1d6 (1d6) fire damage to any unattended item it touches and on a forehead [[Strike]]. On a critical hit with a [[Strike]], the target catches fire, taking 1d4 (1d4) [[rules/conditions.md#Persistent%20Damage|persistent fire damage]]."
 
 speed: 15 feet, fly 30 feet
 

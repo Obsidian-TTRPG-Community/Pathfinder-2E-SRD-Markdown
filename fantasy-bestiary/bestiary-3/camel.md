@@ -34,7 +34,7 @@ abilities_top:
     desc: "  A camel is well-adapted to heat and deserts. If allowed to drink and eat its fill, (roughly 40 gallons), it can [[Subsist]] for 2 weeks without needing to attempt [[Survival]] checks, and it treats environmental heat as if it was one step less severe."
 abilities_bot:
   - name: "Camel Spit"
-    desc: "  To drive away enemies, the camel spits the partially digested contents of its stomach at a creature within 10 feet. On a hit, the target is [[dazzled|dazzled]] for 1 round and must succeed at a DC 17 Fortitude save or become [[sickened|sickened 1]]. The camel can't use its camel spit [[Strike]] again for 1d4 (1d4) rounds."
+    desc: "  To drive away enemies, the camel spits the partially digested contents of its stomach at a creature within 10 feet. On a hit, the target is [[rules/conditions.md#Dazzled|dazzled]] for 1 round and must succeed at a DC 17 Fortitude save or become [[rules/conditions.md#Sickened|sickened 1]]. The camel can't use its camel spit [[Strike]] again for 1d4 (1d4) rounds."
   - name: "Sand Stride"
     desc: "⬺  The camel [[Stride|Strides]] twice. It has a +5-foot circumstance bonus to its Speed during these [[Stride|Strides]], ignoring [[terrain|difficult terrain]] caused by rubble, sand, and uneven ground made of earth and stone."
 

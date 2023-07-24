@@ -45,7 +45,7 @@ abilities_bot:
   - name: "Throw Rock"
     desc: "⬻ "
   - name: "Wind Strike"
-    desc: "⬺ ([[air]], [[evocation]], [[primal]]);  The cloud giant [[Strike|Strikes]] a creature with its ranseur, surrounded in a roar of rushing air. On a hit, the target takes an additional 4d8 (4d8) bludgeoning damage and is [[deafened|deafened]] for 1 minute. Whether or not the [[Strike]] hits, each non-cloud giant within a 20-foot emanation, including the target of the [[Strike]], is buffeted by roaring winds and must attempt a DC 30 Fortitude saving throw.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature takes 2d8 (2d8) sonic damage.\n__Failure__ The creature takes 4d8 (4d8) sonic damage and is [[deafened|deafened]] until the end of its next turn.\n__Critical Failure__ As failure, but double damage and also knocked [[prone|prone]]."
+    desc: "⬺ ([[air]], [[evocation]], [[primal]]);  The cloud giant [[Strike|Strikes]] a creature with its ranseur, surrounded in a roar of rushing air. On a hit, the target takes an additional 4d8 (4d8) bludgeoning damage and is [[rules/conditions.md#Deafened|deafened]] for 1 minute. Whether or not the [[Strike]] hits, each non-cloud giant within a 20-foot emanation, including the target of the [[Strike]], is buffeted by roaring winds and must attempt a DC 30 Fortitude saving throw.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature takes 2d8 (2d8) sonic damage.\n__Failure__ The creature takes 4d8 (4d8) sonic damage and is [[rules/conditions.md#Deafened|deafened]] until the end of its next turn.\n__Critical Failure__ As failure, but double damage and also knocked [[rules/conditions.md#Prone|prone]]."
 
 speed: 30 feet
 

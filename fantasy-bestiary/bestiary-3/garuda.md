@@ -36,7 +36,7 @@ abilities_bot:
   - name: "Swooping Dive"
     desc: "⬺  The garuda flies up to their Speed in a straight line, descending at least 10 feet, and then makes two talon [[Strike|Strikes]]."
   - name: "Wind Blast"
-    desc: "⬺ ([[air]], [[evocation]]);  The garuda flaps their wings with intense force. This has the same effect as gust of wind (DC 27) but in a 30-foot cone. In an area with loose debris (at the GM's discretion), the gusts from the garuda's wings create a cloud that obscures vision, making any creature in the area [[concealed|concealed]], and creatures outside the area are [[concealed|concealed]] to those within the area."
+    desc: "⬺ ([[air]], [[evocation]]);  The garuda flaps their wings with intense force. This has the same effect as gust of wind (DC 27) but in a 30-foot cone. In an area with loose debris (at the GM's discretion), the gusts from the garuda's wings create a cloud that obscures vision, making any creature in the area [[rules/conditions.md#Concealed|concealed]], and creatures outside the area are [[rules/conditions.md#Concealed|concealed]] to those within the area."
 abilities_top:
   - name: Items
     desc: "+1 striking composite longbow (100 arrows);"

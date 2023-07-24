@@ -34,7 +34,7 @@ abilityMods: [2, 4, 0, 0, 3, 0]
 
 abilities_bot:
   - name: "Strix Camaraderie"
-    desc: "  Strix kinmates are tightly bonded to one another, adept at teamwork and supporting each other's attacks. If an enemy is within reach of both the kinmate and one other strix, that enemy is [[flat-footed|flat-footed]] to all strix."
+    desc: "  Strix kinmates are tightly bonded to one another, adept at teamwork and supporting each other's attacks. If an enemy is within reach of both the kinmate and one other strix, that enemy is [[rules/conditions.md#Flat-Footed|flat-footed]] to all strix."
   - name: "Strix Vengeance"
     desc: "⭓ ([[emotion]], [[mental]]); __Frequency__ once per minute __Trigger__ The kinmate or a strix ally they can see is damaged by an enemy's critical hit __Effect__  Until the end of their next turn, the kinmate gains a 1d6 (1d6) status bonus to damage rolls on [[Strike|Strikes]] they make against the triggering enemy."
 abilities_top:

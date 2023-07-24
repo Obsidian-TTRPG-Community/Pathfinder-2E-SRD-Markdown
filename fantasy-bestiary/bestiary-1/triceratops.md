@@ -39,7 +39,7 @@ abilities_bot:
   - name: "Trample"
     desc: "⬽  Large or smaller, foot, DC 26."
   - name: "Vicious Gore"
-    desc: "  A triceratops deals 2d6 (2d6) extra [[persistent damage|persistent bleed damage]] to [[prone|prone]] targets it hits with its horns."
+    desc: "  A triceratops deals 2d6 (2d6) extra [[rules/conditions.md#Persistent%20Damage|persistent bleed damage]] to [[rules/conditions.md#Prone|prone]] targets it hits with its horns."
 
 speed: 30 feet
 

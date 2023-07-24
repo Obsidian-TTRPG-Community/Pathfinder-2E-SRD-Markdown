@@ -37,9 +37,9 @@ abilities_mid:
     desc: "⬲ ([[attack]]); __Requirements__ Initiative has not yet been rolled. __Trigger__ A creature touches the hunting spider's web while the spider is on it. __Effect__  The hunting spider automatically notices the creature and [[Stride|Strides]], Climbs, or Descends on a Web before it rolls initiative."
 abilities_bot:
   - name: "Hunting Spider Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 16 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d10 (1d10) poison and [[flat-footed|flat-footed]] (1 round) __Stage 2__ 1d12 (1d12) poison, [[clumsy|clumsy 1]], and [[flat-footed|flat-footed]] (1 round) __Stage 3__ 2d6 (2d6) poison, [[clumsy|clumsy 2]], and [[flat-footed|flat-footed]]. (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 16 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d10 (1d10) poison and [[rules/conditions.md#Flat-Footed|flat-footed]] (1 round) __Stage 2__ 1d12 (1d12) poison, [[rules/conditions.md#Clumsy|clumsy 1]], and [[rules/conditions.md#Flat-Footed|flat-footed]] (1 round) __Stage 3__ 2d6 (2d6) poison, [[rules/conditions.md#Clumsy|clumsy 2]], and [[rules/conditions.md#Flat-Footed|flat-footed]]. (1 round)"
   - name: "Web Trap"
-    desc: "  A creature hit by the hunting spider's web attack is [[immobilized|immobilized]] and stuck to the nearest surface until it [[Escape|Escapes]] (DC 17)."
+    desc: "  A creature hit by the hunting spider's web attack is [[rules/conditions.md#Immobilized|immobilized]] and stuck to the nearest surface until it [[Escape|Escapes]] (DC 17)."
 
 speed: 25 feet, climb 25 feet
 

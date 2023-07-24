@@ -34,7 +34,7 @@ abilityMods: [7, 4, 5, 2, 5, 3]
 
 abilities_top:
   - name: "Smoke"
-    desc: " ([[aura]]);  20 feet. The nightmare continually exhales black smoke that creates concealment in an aura around it. Nightmares and their riders can see through this smoke. A creature that begins its turn in the area becomes [[sickened|sickened 2]] (DC 28 Fortitude negates) and is then temporarily immune sickness from the smoke for 1 minute. The nightmare, its rider, any creature currently holding its breath (or that does not need to breathe), and any creature immune to poison are immune to the aura's [[sickened|sickened]] effect but not the concealment."
+    desc: " ([[aura]]);  20 feet. The nightmare continually exhales black smoke that creates concealment in an aura around it. Nightmares and their riders can see through this smoke. A creature that begins its turn in the area becomes [[rules/conditions.md#Sickened|sickened 2]] (DC 28 Fortitude negates) and is then temporarily immune sickness from the smoke for 1 minute. The nightmare, its rider, any creature currently holding its breath (or that does not need to breathe), and any creature immune to poison are immune to the aura's [[rules/conditions.md#Sickened|sickened]] effect but not the concealment."
 abilities_bot:
   - name: "Flaming Gallop"
     desc: "⬺ ([[fire]]);  The nightmare [[Stride|Strides]] or Flies up to triple its Speed. Its hooves burst with intense flame, dealing 6d6 (6d6) fire damage (DC 30 basic Reflex save) once to each creature other than the nightmare's rider that the nightmare moves adjacent to during its gallop."

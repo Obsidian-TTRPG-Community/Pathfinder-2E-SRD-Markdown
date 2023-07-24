@@ -49,7 +49,7 @@ abilities_bot:
   - name: "Death Strike"
     desc: " ([[death]]);  A creature critically hit by any of the grim reaper's attacks or that critically fails against any of its spells must succeed at a DC 47 Fortitude save or die."
   - name: "Energy Drain"
-    desc: "  When the grim reaper hits and deals damage with its scythe, it regains 20 Hit Points, and the target must succeed at a DC 43 Fortitude save or become [[doomed|doomed 1]]. If the target is already [[doomed|doomed]], the [[doomed|doomed]] value increases by 1 (to a maximum of [[doomed|doomed 3]])."
+    desc: "  When the grim reaper hits and deals damage with its scythe, it regains 20 Hit Points, and the target must succeed at a DC 43 Fortitude save or become [[rules/conditions.md#Doomed|doomed 1]]. If the target is already [[rules/conditions.md#Doomed|doomed]], the [[rules/conditions.md#Doomed|doomed]] value increases by 1 (to a maximum of [[rules/conditions.md#Doomed|doomed 3]])."
   - name: "Final Death"
     desc: "  A creature killed by the grim reaper can't be brought back to life by any means short of divine intervention."
   - name: "Infuse Weapon"

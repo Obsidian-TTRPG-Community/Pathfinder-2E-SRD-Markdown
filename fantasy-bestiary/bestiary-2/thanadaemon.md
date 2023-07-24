@@ -33,15 +33,15 @@ abilityMods: [6, 6, 4, 3, 5, 7]
 
 abilities_mid:
   - name: "Terrifying Gaze"
-    desc: " ([[aura]], [[divine]], [[emotion]], [[enchantment]], [[fear]], [[mental]], [[visual]]);  30 feet. When a creature ends its turn in the aura, it must attempt a DC 30 Will save. If the creature fails, it becomes [[frightened|frightened 2]]. The creature is then temporarily immune to terrifying gaze (but not Focus Gaze) for 24 hours."
+    desc: " ([[aura]], [[divine]], [[emotion]], [[enchantment]], [[fear]], [[mental]], [[visual]]);  30 feet. When a creature ends its turn in the aura, it must attempt a DC 30 Will save. If the creature fails, it becomes [[rules/conditions.md#Frightened|frightened 2]]. The creature is then temporarily immune to terrifying gaze (but not Focus Gaze) for 24 hours."
 abilities_top:
   - name: Items
     desc: "+1 striking bo staff, soul gem (2);"
 abilities_bot:
   - name: "Draining Strike"
-    desc: " ([[divine]], [[necromancy]]);  When a thanadaemon damages a living creature with a melee [[Strike]], the creature must succeed at a DC 33 Fortitude save or become [[drained|drained 1]]. Further damage dealt by the thanadaemon increases the [[drained|drained]] condition value by 1 on a failed save, to a maximum of [[drained|drained 4]]."
+    desc: " ([[divine]], [[necromancy]]);  When a thanadaemon damages a living creature with a melee [[Strike]], the creature must succeed at a DC 33 Fortitude save or become [[rules/conditions.md#Drained|drained 1]]. Further damage dealt by the thanadaemon increases the [[rules/conditions.md#Drained|drained]] condition value by 1 on a failed save, to a maximum of [[rules/conditions.md#Drained|drained 4]]."
   - name: "Focus Gaze"
-    desc: "⬻ ([[concentrate]], [[divine]], [[fear]], [[visual]]);  The thanadaemon glares at a single creature they can see within 30 feet. The target must immediately attempt a DC 33 Will save against the thanadaemon's terrifying gaze. If the target was already [[frightened|frightened]], a failed save causes it to become [[fleeing|fleeing]] for 1d4 (1d4) rounds. After attempting its save, the creature is temporarily immune to this ability until the start of the thanadaemon's next turn."
+    desc: "⬻ ([[concentrate]], [[divine]], [[fear]], [[visual]]);  The thanadaemon glares at a single creature they can see within 30 feet. The target must immediately attempt a DC 33 Will save against the thanadaemon's terrifying gaze. If the target was already [[rules/conditions.md#Frightened|frightened]], a failed save causes it to become [[rules/conditions.md#Fleeing|fleeing]] for 1d4 (1d4) rounds. After attempting its save, the creature is temporarily immune to this ability until the start of the thanadaemon's next turn."
   - name: "Soul Crush"
     desc: "⬺ ([[manipulate]]); __Requirements__ The thanadaemon has a soul gem  __Effect__  The thanadaemon crushes the soul gem in one hand and gains fast healing 15 for 1 minute."
 

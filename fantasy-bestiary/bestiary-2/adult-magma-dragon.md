@@ -49,7 +49,7 @@ abilities_bot:
   - name: "Magma Swim"
     desc: "  A magma dragon's swim Speed functions only when the dragon is Swimming through magma or molten lava."
   - name: "Volcanic Purge"
-    desc: "⬻  If the next action the dragon uses is Breath Weapon, the magma clings to those it damages. Each creature that fails its save against the Breath Weapon takes 4d6 (4d6) [[persistent damage|persistent fire damage]], and as long as it has this [[persistent damage|persistent fire damage]], it also takes a –10-foot status penalty to its Speeds."
+    desc: "⬻  If the next action the dragon uses is Breath Weapon, the magma clings to those it damages. Each creature that fails its save against the Breath Weapon takes 4d6 (4d6) [[rules/conditions.md#Persistent%20Damage|persistent fire damage]], and as long as it has this [[rules/conditions.md#Persistent%20Damage|persistent fire damage]], it also takes a –10-foot status penalty to its Speeds."
 
 speed: 40 feet, fly 140 feet; magma swim 40 feet;
 

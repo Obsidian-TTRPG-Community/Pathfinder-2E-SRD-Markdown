@@ -32,9 +32,9 @@ abilityMods: [4, 3, 3, 2, 3, 4]
 
 abilities_bot:
   - name: "Drider Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 23 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d8 (1d8) poison damage and [[enfeebled|enfeebled 1]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 23 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d8 (1d8) poison damage and [[rules/conditions.md#Enfeebled|enfeebled 1]] (1 round)"
   - name: "Web Trap"
-    desc: "  A creature hit by a drider's web attack is [[immobilized|immobilized]] and stuck to the nearest surface ([[Escape]] DC 21)."
+    desc: "  A creature hit by a drider's web attack is [[rules/conditions.md#Immobilized|immobilized]] and stuck to the nearest surface ([[Escape]] DC 21)."
 abilities_top:
   - name: Items
     desc: "+1 composite longbow (20 arrows), glaive;"

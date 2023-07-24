@@ -31,11 +31,11 @@ abilityMods: [4, 4, 4, -5, 1, 1]
 
 abilities_bot:
   - name: "Implant Eggs"
-    desc: "⬻  The giant wasp lays eggs in an adjacent creature that is [[paralyzed|paralyzed]] or [[unconscious|unconscious]], exposing it to the wasp larva disease."
+    desc: "⬻  The giant wasp lays eggs in an adjacent creature that is [[rules/conditions.md#Paralyzed|paralyzed]] or [[rules/conditions.md#Unconscious|unconscious]], exposing it to the wasp larva disease."
   - name: "Giant Wasp Venom"
-    desc: " ([[incapacitation]], [[poison]]);  __Saving Throw__ DC 19 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ no effect (1 round) __Stage 2__ [[clumsy|clumsy 2]] (1 round) __Stage 3__ [[paralyzed|paralyzed]] (1 round)"
+    desc: " ([[incapacitation]], [[poison]]);  __Saving Throw__ DC 19 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ no effect (1 round) __Stage 2__ [[rules/conditions.md#Clumsy|clumsy 2]] (1 round) __Stage 3__ [[rules/conditions.md#Paralyzed|paralyzed]] (1 round)"
   - name: "Wasp Larva"
-    desc: " ([[disease]]);  __Saving Throw__ DC 21 Fortitude. __Stage 1__ carrier with no ill effect (1d6 (1d6) days) __Stage 2__ [[drained|drained 1]] (1d3 (1d3) days) __Stage 3__ 5d6 (5d6) damage, larva emerges (disease ends)"
+    desc: " ([[disease]]);  __Saving Throw__ DC 21 Fortitude. __Stage 1__ carrier with no ill effect (1d6 (1d6) days) __Stage 2__ [[rules/conditions.md#Drained|drained 1]] (1d3 (1d3) days) __Stage 3__ 5d6 (5d6) damage, larva emerges (disease ends)"
 
 speed: 20 feet, fly 40 feet
 

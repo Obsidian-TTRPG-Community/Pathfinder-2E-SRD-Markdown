@@ -33,7 +33,7 @@ abilityMods: [3, 4, 3, 1, 3, 1]
 
 abilities_mid:
   - name: "Menacing Guardian"
-    desc: " ([[aura]], [[divine]], [[enchantment]]);  30 feet. Enemies that start their turn in the area or enter it must attempt a DC 19 Will save. On a failure, they take a –1 status penalty to attack rolls, spell rolls, and damage rolls against any other target while in the aura for 24 hours or until they damage the archon, whichever comes first. On a critical failure, they can't use [[hostile|hostile]] actions against any other target while in the area for 24 hours or until they damage the archon, whichever comes first. Regardless of the result, a creature is then temporarily immune to further menacing guardian auras for 24 hours."
+    desc: " ([[aura]], [[divine]], [[enchantment]]);  30 feet. Enemies that start their turn in the area or enter it must attempt a DC 19 Will save. On a failure, they take a –1 status penalty to attack rolls, spell rolls, and damage rolls against any other target while in the aura for 24 hours or until they damage the archon, whichever comes first. On a critical failure, they can't use [[rules/conditions.md#Hostile|hostile]] actions against any other target while in the area for 24 hours or until they damage the archon, whichever comes first. Regardless of the result, a creature is then temporarily immune to further menacing guardian auras for 24 hours."
   - name: "Retributive Strike"
     desc: "⬲  A horned archon can also make a [[Retributive Strike]] with its composite longbow."
 abilities_top:

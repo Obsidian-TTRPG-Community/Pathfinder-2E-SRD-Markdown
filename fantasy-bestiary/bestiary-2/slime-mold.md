@@ -37,7 +37,7 @@ abilities_top:
     desc: "  An amoeba swarm can sense nearby creatures through vibration and air or water movement."
 abilities_bot:
   - name: "Slime Rot"
-    desc: " ([[disease]]);  __Saving Throw__ DC 18 Fortitude. __Stage 1__ [[enfeebled|enfeebled 1]] and [[sickened|sickened 1]] (1 day) __Stage 2__ as stage 1 (1 day) __Stage 3__ [[drained|drained 1]], [[enfeebled|enfeebled 2]], and [[sickened|sickened 2]] (1 day) __Stage 4__ as stage 3  (1 day)"
+    desc: " ([[disease]]);  __Saving Throw__ DC 18 Fortitude. __Stage 1__ [[rules/conditions.md#Enfeebled|enfeebled 1]] and [[rules/conditions.md#Sickened|sickened 1]] (1 day) __Stage 2__ as stage 1 (1 day) __Stage 3__ [[rules/conditions.md#Drained|drained 1]], [[rules/conditions.md#Enfeebled|enfeebled 2]], and [[rules/conditions.md#Sickened|sickened 2]] (1 day) __Stage 4__ as stage 3  (1 day)"
 
 speed: 10 feet, climb 10 feet
 

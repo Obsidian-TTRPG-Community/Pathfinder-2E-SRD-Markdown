@@ -40,7 +40,7 @@ abilities_bot:
   - name: "Noble's Ruse"
     desc: "⬻ __Frequency__ once per round  __Effect__  The noble [[Feint|Feints]]. On a success, the noble [[Strike|Strikes]] the target."
   - name: "Sneak Attack"
-    desc: "  The noble deals an extra 1d6 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The noble deals an extra 1d6 (1d6) precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
 
 speed: 25 feet
 

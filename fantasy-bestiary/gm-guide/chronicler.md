@@ -33,7 +33,7 @@ abilityMods: [2, 2, 1, 4, 4, 0]
 
 abilities_mid:
   - name: "Live to Tell the Tale"
-    desc: "⬲ __Frequency__ once per day __Trigger__ The chronicler is [[dying|dying]] __Effect__  The chronicler reduces their [[dying|dying]] condition by 1. If the chronicler is no longer [[dying|dying]], they remain [[unconscious|unconscious]] for at least 1 hour or until they regain 1 Hit Point."
+    desc: "⬲ __Frequency__ once per day __Trigger__ The chronicler is [[rules/conditions.md#Dying|dying]] __Effect__  The chronicler reduces their [[rules/conditions.md#Dying|dying]] condition by 1. If the chronicler is no longer [[rules/conditions.md#Dying|dying]], they remain [[rules/conditions.md#Unconscious|unconscious]] for at least 1 hour or until they regain 1 Hit Point."
 abilities_bot:
   - name: "Scroll Mastery"
     desc: "  The chronicler can activate any scroll of a 2nd-level spell or lower as if they had the spell on their spell list, regardless of its magical tradition."

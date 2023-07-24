@@ -44,7 +44,7 @@ abilities_bot:
   - name: "Sand Glide"
     desc: "  The zaramuun can [[Burrow]] through sand and dirt (but not stone) at its full burrow Speed, leaving no tunnel or sign of its passing. Any Engulfed creatures are left behind when it Burrows. Loose sand and scree are not [[terrain|difficult terrain]] for a zaramuun."
   - name: "Sandblast"
-    desc: "⬺ ([[earth]]);  The zaramuun sprays a blast of sand that deals 11d10 (11d10) slashing damage to all creatures in a 60-foot line (Reflex DC 38). It can't Sandblast again for 1d4 (1d4) rounds.\n__Critical Success__ No effect.\n__Success__ Half damage.\n__Failure__ Full damage.\n__Critical Failure__ Full damage and [[blinded|blinded]] for 1 round."
+    desc: "⬺ ([[earth]]);  The zaramuun sprays a blast of sand that deals 11d10 (11d10) slashing damage to all creatures in a 60-foot line (Reflex DC 38). It can't Sandblast again for 1d4 (1d4) rounds.\n__Critical Success__ No effect.\n__Success__ Half damage.\n__Failure__ Full damage.\n__Critical Failure__ Full damage and [[rules/conditions.md#Blinded|blinded]] for 1 round."
 
 speed: 35 feet, burrow 35 feet; sand glide;
 

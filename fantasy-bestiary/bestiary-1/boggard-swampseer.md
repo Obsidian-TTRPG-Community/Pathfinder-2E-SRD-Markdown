@@ -39,7 +39,7 @@ abilities_top:
     desc: "staff;"
 abilities_bot:
   - name: "Destructive Croak"
-    desc: "⬺ ([[sonic]]);  The swampseer utters a powerful croak that deals 4d6 (4d6) sonic damage to any non-boggard within a 15-foot emanation (DC 19 basic Fortitude save); any creature with the [[frightened|frightened]] condition takes additional sonic damage equal to twice the value of their [[frightened|frightened]] condition. The boggard can't use."
+    desc: "⬺ ([[sonic]]);  The swampseer utters a powerful croak that deals 4d6 (4d6) sonic damage to any non-boggard within a 15-foot emanation (DC 19 basic Fortitude save); any creature with the [[rules/conditions.md#Frightened|frightened]] condition takes additional sonic damage equal to twice the value of their [[rules/conditions.md#Frightened|frightened]] condition. The boggard can't use."
   - name: "Destructive"
     desc: "  Croak again for 1d4 (1d4) rounds."
   - name: "Drowning Drone"

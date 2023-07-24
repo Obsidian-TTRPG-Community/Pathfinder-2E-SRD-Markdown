@@ -49,7 +49,7 @@ abilities_bot:
   - name: "Quick Draw"
     desc: "⬻  The drow sneak draws a weapon using the [[Interact]] action, then Strikes with that weapon."
   - name: "Sneak Attack"
-    desc: "  The drow sneak deals an extra 1d6 (1d6) damage to creatures that have the [[flat-footed|flat-footed]] condition."
+    desc: "  The drow sneak deals an extra 1d6 (1d6) damage to creatures that have the [[rules/conditions.md#Flat-Footed|flat-footed]] condition."
 
 
 ac: 19

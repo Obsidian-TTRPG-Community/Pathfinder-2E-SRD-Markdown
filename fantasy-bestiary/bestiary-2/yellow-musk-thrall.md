@@ -32,15 +32,15 @@ abilityMods: [3, -2, 2, -5, 0, -2]
 
 abilities_top:
   - name: "Slow"
-    desc: "  A yellow musk thrall is permanently [[slowed|slowed 1]] and can't use reactions."
+    desc: "  A yellow musk thrall is permanently [[rules/conditions.md#Slowed|slowed 1]] and can't use reactions."
 abilities_mid:
   - name: "Entangling Tendrils"
-    desc: " ([[aura]]);  5 feet. Grasping tendrils extend out from the thrall. When the thrall ends its movement next to a creature, or a creature ends its turn next to the thrall, that creature must succeed at a DC 14 Reflex save or be [[grabbed|grabbed]] by the tendrils."
+    desc: " ([[aura]]);  5 feet. Grasping tendrils extend out from the thrall. When the thrall ends its movement next to a creature, or a creature ends its turn next to the thrall, that creature must succeed at a DC 14 Reflex save or be [[rules/conditions.md#Grabbed|grabbed]] by the tendrils."
 abilities_bot:
   - name: "Limb Extension"
     desc: "⭓ __Trigger__ The yellow musk thrall is reduced to 4 HP or fewer __Effect__  Creeper tendrils tear through the thrall's limbs, causing its forearms to tear loose. The thrall's melee reach increases by 5 feet."
   - name: "Pollen Touch"
-    desc: "  When the thrall strikes a creature, that creature is exposed to yellow musk creeper pollen, as Spray Pollen (DC 14). The creature is [[fascinated|fascinated]] by the yellow musk creeper that spawned the thrall, not by the thrall itself."
+    desc: "  When the thrall strikes a creature, that creature is exposed to yellow musk creeper pollen, as Spray Pollen (DC 14). The creature is [[rules/conditions.md#Fascinated|fascinated]] by the yellow musk creeper that spawned the thrall, not by the thrall itself."
 
 speed: 25 feet
 

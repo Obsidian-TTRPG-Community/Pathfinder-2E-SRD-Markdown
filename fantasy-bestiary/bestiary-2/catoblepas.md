@@ -32,13 +32,13 @@ abilityMods: [7, 4, 6, -2, 4, 2]
 
 abilities_top:
   - name: "Stench"
-    desc: " ([[aura]], [[olfactory]]);  30 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 30 Fortitude save or become [[sickened|sickened 1]] (plus [[slowed|slowed 1]] for as long as itʼs [[sickened|sickened]] on a critical failure). While within the aura, affected creatures take a –2 circumstance penalty to saves against disease and to recover from the [[sickened|sickened]] condition. A creature that succeeds at its save is temporarily immune for 1 minute."
+    desc: " ([[aura]], [[olfactory]]);  30 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 30 Fortitude save or become [[rules/conditions.md#Sickened|sickened 1]] (plus [[rules/conditions.md#Slowed|slowed 1]] for as long as itʼs [[rules/conditions.md#Sickened|sickened]] on a critical failure). While within the aura, affected creatures take a –2 circumstance penalty to saves against disease and to recover from the [[rules/conditions.md#Sickened|sickened]] condition. A creature that succeeds at its save is temporarily immune for 1 minute."
 abilities_mid:
   - name: "Ferocity"
     desc: "⬲ "
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[necromancy]], [[poison]], [[primal]]);  The catoblepas breathes a 60-foot cone of horrid fumes, dealing 13d6 (13d6) poison damage (DC 32 basic Fortitude save). The area of this cone is reduced to 30 feet underwater. Targets that fail their saving throw also become [[sickened|sickened 1]] ([[sickened|sickened 2]] on a critical failure). The catoblepas can't use its Breath Weapon again for 1d4 (1d4) rounds."
+    desc: "⬺ ([[necromancy]], [[poison]], [[primal]]);  The catoblepas breathes a 60-foot cone of horrid fumes, dealing 13d6 (13d6) poison damage (DC 32 basic Fortitude save). The area of this cone is reduced to 30 feet underwater. Targets that fail their saving throw also become [[rules/conditions.md#Sickened|sickened 1]] ([[rules/conditions.md#Sickened|sickened 2]] on a critical failure). The catoblepas can't use its Breath Weapon again for 1d4 (1d4) rounds."
   - name: "Trample"
     desc: "⬽  Medium or smaller, hoof, DC 32."
 

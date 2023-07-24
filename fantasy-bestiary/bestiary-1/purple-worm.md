@@ -31,14 +31,14 @@ abilityMods: [9, -1, 7, -5, -1, -1]
 
 abilities_mid:
   - name: "Inexorable"
-    desc: "  The purple worm recovers from the [[paralyzed|paralyzed]], [[slowed|slowed]], and [[stunned|stunned]] conditions at the end of its turn. It's also immune to penalties to its Speeds and the [[immobilized|immobilized]] condition, and it ignores [[terrain|difficult terrain]] and [[terrain|greater difficult terrain]]."
+    desc: "  The purple worm recovers from the [[rules/conditions.md#Paralyzed|paralyzed]], [[rules/conditions.md#Slowed|slowed]], and [[rules/conditions.md#Stunned|stunned]] conditions at the end of its turn. It's also immune to penalties to its Speeds and the [[rules/conditions.md#Immobilized|immobilized]] condition, and it ignores [[terrain|difficult terrain]] and [[terrain|greater difficult terrain]]."
   - name: "Shake It Off"
     desc: "⬲ __Frequency__ once per day __Trigger__ The purple worm would be affected by a condition or adverse effect (such as baleful polymorph). __Effect__  The purple worm negates the triggering condition or effect. s from artifacts, deities, or a similarly powerful source can't be avoided in this way."
 abilities_bot:
   - name: "Fast Swallow"
     desc: "⬲ __Trigger__ The purple worm Grabs a creature. __Effect__  The worm uses Swallow Whole."
   - name: "Purple Worm Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 32 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 5d6 (5d6) poison damage and [[enfeebled|enfeebled 2]] , (1 round) __Stage 2__ 6d6 (6d6) poison damage, and [[enfeebled|enfeebled 2]] (1 round) __Stage 3__ 8d6 (8d6) poison damage and [[enfeebled|enfeebled 2]]. (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 32 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 5d6 (5d6) poison damage and [[rules/conditions.md#Enfeebled|enfeebled 2]] , (1 round) __Stage 2__ 6d6 (6d6) poison damage, and [[rules/conditions.md#Enfeebled|enfeebled 2]] (1 round) __Stage 3__ 8d6 (8d6) poison damage and [[rules/conditions.md#Enfeebled|enfeebled 2]]. (1 round)"
   - name: "Regurgitate"
     desc: "  The purple worm can violently regurgitate a creature or boulder it has swallowed to make a ranged [[Strike]]. The [[Strike]] deals bludgeoning damage depending on the size of the projectile: Tiny deals 2d6+13 (2d6+13), Small 3d6+13 (3d6+13), Medium 4d6+13 (4d6+13), Large 5d6+13 (5d6+13), and Huge 6d6+13 (6d6+13). A regurgitated creature takes falling damage from the height of the target or from 20 feet, whichever is greater. Boulders occupy space in the worm's stomach as a creature of equivalent size, and purple worms often have several boulders swallowed. A purple worm can use a single action to swallow a new boulder."
   - name: "Rock Tunneler"

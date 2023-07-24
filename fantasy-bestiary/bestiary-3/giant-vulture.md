@@ -31,9 +31,9 @@ abilityMods: [3, 2, 4, -4, 1, -1]
 
 abilities_bot:
   - name: "Carrion Fever"
-    desc: " ([[disease]]);  __Saving Throw__ DC 18 Fortitude. __Stage 1__ [[sickened|sickened 1]] and [[fatigued|fatigued]] (1 day) __Stage 2__ [[sickened|sickened 1]], [[slowed|slowed 1]], and [[fatigued|fatigued]] (1 day)"
+    desc: " ([[disease]]);  __Saving Throw__ DC 18 Fortitude. __Stage 1__ [[rules/conditions.md#Sickened|sickened 1]] and [[rules/conditions.md#Fatigued|fatigued]] (1 day) __Stage 2__ [[rules/conditions.md#Sickened|sickened 1]], [[rules/conditions.md#Slowed|slowed 1]], and [[rules/conditions.md#Fatigued|fatigued]] (1 day)"
   - name: "Projectile Vomit"
-    desc: "⬻ __Frequency__ once per hour  __Effect__  The giant vulture vomits up its last meal on a creature within 10 feet. The creature takes 3d6 (3d6) acid damage with a DC 20 basic Fortitude save. On a failed save, the target is also [[sickened|sickened 1]]."
+    desc: "⬻ __Frequency__ once per hour  __Effect__  The giant vulture vomits up its last meal on a creature within 10 feet. The creature takes 3d6 (3d6) acid damage with a DC 20 basic Fortitude save. On a failed save, the target is also [[rules/conditions.md#Sickened|sickened 1]]."
 
 speed: 10 feet, fly 35 feet
 

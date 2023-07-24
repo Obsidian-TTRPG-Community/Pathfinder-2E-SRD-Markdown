@@ -42,7 +42,7 @@ abilities_bot:
   - name: "Blood Frenzy"
     desc: "⭓ ([[rage]]);  As sea devil scout, 11 temporary HP."
   - name: "Bloodletting"
-    desc: "  When the sea devil deals piercing or slashing damage, it also deals 1d4 (1d4) [[persistent damage|persistent bleed damage]] if the target was [[flat-footed|flat-footed]] or if the attack was a critical hit."
+    desc: "  When the sea devil deals piercing or slashing damage, it also deals 1d4 (1d4) [[rules/conditions.md#Persistent%20Damage|persistent bleed damage]] if the target was [[rules/conditions.md#Flat-Footed|flat-footed]] or if the attack was a critical hit."
   - name: "Unimpeded Throw"
     desc: "  A sea devil brute can use thrown ranged weapons underwater with no penalty due to range increment."
 

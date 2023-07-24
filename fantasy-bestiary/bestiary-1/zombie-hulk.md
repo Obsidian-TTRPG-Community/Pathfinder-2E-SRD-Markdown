@@ -33,10 +33,10 @@ abilityMods: [7, -1, 4, -5, 0, -2]
 
 abilities_top:
   - name: "Slow"
-    desc: "  A zombie is permanently [[slowed|slowed 1]] and can't use reactions."
+    desc: "  A zombie is permanently [[rules/conditions.md#Slowed|slowed 1]] and can't use reactions."
 abilities_bot:
   - name: "Corpse Throwing"
-    desc: "  A zombie hulk can throw corpses at foes. While any Medium dead body will do, they sometimes throw [[zombie shambler|zombie shamblers]], who take just as much damage from being thrown as the target they hit. A thrown shambler lands [[prone|prone]], but if it's not destroyed, it can rise and use other actions normally."
+    desc: "  A zombie hulk can throw corpses at foes. While any Medium dead body will do, they sometimes throw [[zombie shambler|zombie shamblers]], who take just as much damage from being thrown as the target they hit. A thrown shambler lands [[rules/conditions.md#Prone|prone]], but if it's not destroyed, it can rise and use other actions normally."
   - name: "Wide Swing"
     desc: "⬻  The zombie hulk makes a hunk of meat [[Strike]] and compares the attack roll result to the AC of up to two foes, each of whom must be within the [[Strike]]'s reach. This attack counts as two attacks for the zombie hulk's multiple attack penalty."
 

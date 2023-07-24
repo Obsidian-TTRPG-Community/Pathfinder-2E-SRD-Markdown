@@ -40,9 +40,9 @@ abilities_bot:
   - name: "Quick Rummage"
     desc: "⬻  The fence always has a few items close at hand. The fence Interacts to draw a weapon or item that takes a single action to activate, and then [[Strike|Strikes]] with the weapon or [[Activate an Item|Activates the Item]]."
   - name: "Scoundrel's Feint"
-    desc: "  When the fence successfully [[Feint|Feints]], their target is [[flat-footed|flat-footed]] against the fence's attacks until the end of the fence's next turn. On a critical success, the target is [[flat-footed|flat-footed]] against all attacks until the end of the fence's next turn."
+    desc: "  When the fence successfully [[Feint|Feints]], their target is [[rules/conditions.md#Flat-Footed|flat-footed]] against the fence's attacks until the end of the fence's next turn. On a critical success, the target is [[rules/conditions.md#Flat-Footed|flat-footed]] against all attacks until the end of the fence's next turn."
   - name: "Sneak Attack"
-    desc: "  The fence deals an extra 2d6 (2d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The fence deals an extra 2d6 (2d6) precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
 
 speed: 25 feet
 

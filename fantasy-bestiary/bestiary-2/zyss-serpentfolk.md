@@ -34,7 +34,7 @@ abilityMods: [-1, 4, 2, 4, 2, 3]
 
 abilities_bot:
   - name: "Serpentfolk Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 16 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d4 (1d4) poison damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 2d4 (2d4) poison damage and [[enfeebled|enfeebled 1]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 16 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d4 (1d4) poison damage and [[rules/conditions.md#Enfeebled|enfeebled 1]] (1 round) __Stage 2__ 2d4 (2d4) poison damage and [[rules/conditions.md#Enfeebled|enfeebled 1]] (1 round)"
 abilities_top:
   - name: Items
     desc: "dagger, shortbow (30 arrows);"

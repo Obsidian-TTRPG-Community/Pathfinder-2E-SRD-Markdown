@@ -31,9 +31,9 @@ abilityMods: [5, 1, 5, -4, 1, -1]
 
 abilities_bot:
   - name: "Sneak Attack"
-    desc: "  The polar bear's [[Strike|Strikes]] deal an additional 1d6 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The polar bear's [[Strike|Strikes]] deal an additional 1d6 (1d6) precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
   - name: "Mauler"
-    desc: "  The polar bear gains a +3 circumstance bonus to damage rolls against creatures it has [[grabbed|grabbed]]."
+    desc: "  The polar bear gains a +3 circumstance bonus to damage rolls against creatures it has [[rules/conditions.md#Grabbed|grabbed]]."
 
 speed: 35 feet, swim 15 feet
 

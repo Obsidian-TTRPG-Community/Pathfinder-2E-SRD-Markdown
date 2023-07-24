@@ -39,7 +39,7 @@ abilities_bot:
   - name: "Change Shape"
     desc: "⬻ ([[concentrate]], [[polymorph]], [[primal]], [[transmutation]]);  As vine leshy, except the seaweed leshy transforms into a patch of seaweed."
   - name: "Sea Spray"
-    desc: "  A seaweed leshy's water jet has enough salt in it to temporarily impair their target's vision. On a hit, the target must succeed at a DC 20 Fortitude save or be [[dazzled|dazzled]] for 1 minute or until it spends 3 [[Interact]] actions wiping the salt out of its eyes. On a critical hit, a target that fails its Fortitude save is also [[blinded|blinded]] for 1 round."
+    desc: "  A seaweed leshy's water jet has enough salt in it to temporarily impair their target's vision. On a hit, the target must succeed at a DC 20 Fortitude save or be [[rules/conditions.md#Dazzled|dazzled]] for 1 minute or until it spends 3 [[Interact]] actions wiping the salt out of its eyes. On a critical hit, a target that fails its Fortitude save is also [[rules/conditions.md#Blinded|blinded]] for 1 round."
 
 speed: 20 feet, swim 20 feet
 

@@ -43,11 +43,11 @@ abilities_mid:
     desc: "  A levaloch gains a +2 circumstance bonus to their Fortitude DC against being Shoved and to other saving throws to resist being moved against their will."
 abilities_bot:
   - name: "Barbed Net"
-    desc: "  When a levaloch hits a creature with their barbed net, the net wraps around the target, which becomes [[clumsy|clumsy 1]] and takes a –10-foot circumstance penalty to its Speeds. If the [[Strike]] was a critical success, the target is also [[immobilized|immobilized]]. When a creature [[Escape|Escapes]] (DC 22), or if the [[Strike]] misses, the net crumbles into rust. Each time a creature attempts to [[Escape]], it takes 1d6 (1d6) slashing damage from the net's barbs, regardless of whether the attempt succeeds."
+    desc: "  When a levaloch hits a creature with their barbed net, the net wraps around the target, which becomes [[rules/conditions.md#Clumsy|clumsy 1]] and takes a –10-foot circumstance penalty to its Speeds. If the [[Strike]] was a critical success, the target is also [[rules/conditions.md#Immobilized|immobilized]]. When a creature [[Escape|Escapes]] (DC 22), or if the [[Strike]] misses, the net crumbles into rust. Each time a creature attempts to [[Escape]], it takes 1d6 (1d6) slashing damage from the net's barbs, regardless of whether the attempt succeeds."
   - name: "Forge Weapon"
     desc: "⬻ ([[manipulate]]);  A levaloch reforges part of their barbed iron substance into a new +1 striking trident or barbed net. Their previous trident crumbles to rust. When the levaloch is destroyed, any tridents or barbed nets they created crumble to rust."
   - name: "Merciless Thrust"
-    desc: "  When a levaloch hits a creature that has the [[clumsy|clumsy]], [[enfeebled|enfeebled]], [[immobilized|immobilized]], or [[restrained|restrained]] conditions with a melee trident [[Strike]], the [[Strike]] deals an additional 2d6 (2d6) damage."
+    desc: "  When a levaloch hits a creature that has the [[rules/conditions.md#Clumsy|clumsy]], [[rules/conditions.md#Enfeebled|enfeebled]], [[rules/conditions.md#Immobilized|immobilized]], or [[rules/conditions.md#Restrained|restrained]] conditions with a melee trident [[Strike]], the [[Strike]] deals an additional 2d6 (2d6) damage."
 
 speed: 30 feet, climb 30 feet
 

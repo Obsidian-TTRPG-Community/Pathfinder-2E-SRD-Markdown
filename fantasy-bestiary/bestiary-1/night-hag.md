@@ -42,13 +42,13 @@ abilities_top:
     desc: "heartstone;"
 abilities_bot:
   - name: "Abyssal Plague"
-    desc: " ([[disease]]);  __Saving Throw__ DC 28 Fortitude. __Stage 1__ [[Drained|Drained 1]] (1 day) __Stage 2__ [[Drained|Drained]] increases by 2 (1 day)"
+    desc: " ([[disease]]);  __Saving Throw__ DC 28 Fortitude. __Stage 1__ [[rules/conditions.md#Drained|Drained 1]] (1 day) __Stage 2__ [[rules/conditions.md#Drained|Drained]] increases by 2 (1 day)"
   - name: "Change Shape"
     desc: "⬻ ([[concentrate]], [[occult]], [[polymorph]], [[transmutation]]);  The night hag can take on the appearance of any Medium female humanoid. This doesn't change her Speed or her attack and damage bonuses with her [[Strike|Strikes]], but might change the damage type her [[Strike|Strikes]] deal (typically to bludgeoning)."
   - name: "Dream Haunting"
-    desc: " ([[enchantment]], [[occult]], [[mental]]);  If a night hag is ethereal and hovering over a sleeping chaotic or evil creature, she can ride the victim's back until dawn. The creature endures tormenting dreams as the hag casts nightmare on it, and is exposed to abyssal plague. Any [[drained|drained]] caused by dream haunting is cumulative. Only an ethereal being can confront the night hag and stop her dream haunting."
+    desc: " ([[enchantment]], [[occult]], [[mental]]);  If a night hag is ethereal and hovering over a sleeping chaotic or evil creature, she can ride the victim's back until dawn. The creature endures tormenting dreams as the hag casts nightmare on it, and is exposed to abyssal plague. Any [[rules/conditions.md#Drained|drained]] caused by dream haunting is cumulative. Only an ethereal being can confront the night hag and stop her dream haunting."
   - name: "Spell Ambush"
-    desc: "  A creature [[flat-footed|flat-footed]] to the night hag takes a –2 circumstance penalty to checks and DCs to defend against her spells."
+    desc: "  A creature [[rules/conditions.md#Flat-Footed|flat-footed]] to the night hag takes a –2 circumstance penalty to checks and DCs to defend against her spells."
 
 speed: 25 feet
 

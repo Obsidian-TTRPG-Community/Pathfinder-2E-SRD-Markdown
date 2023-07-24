@@ -33,11 +33,11 @@ abilities_bot:
   - name: "Sprint"
     desc: "⬺ __Frequency__ once per minute  __Effect__  The terror bird [[Stride|Strides]] three times in a straight line."
   - name: "Stunning Screech"
-    desc: "⬻ ([[auditory]], [[emotion]], [[fear]], [[mental]]);  The terror shrike unleashes a haunting screech that causes prey to freeze in fear. Each creature in a 30-foot emanation other than terror birds must attempt a DC 19 Will save. Regardless of the result, creatures are then temporarily immune for 1 minute.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is [[flat-footed|flat-footed]] until the start of its turn.\n__Failure__ The creature is [[stunned|stunned 1]].\n__Critical Failure__ The creature is [[stunned|stunned 2]]."
+    desc: "⬻ ([[auditory]], [[emotion]], [[fear]], [[mental]]);  The terror shrike unleashes a haunting screech that causes prey to freeze in fear. Each creature in a 30-foot emanation other than terror birds must attempt a DC 19 Will save. Regardless of the result, creatures are then temporarily immune for 1 minute.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is [[rules/conditions.md#Flat-Footed|flat-footed]] until the start of its turn.\n__Failure__ The creature is [[rules/conditions.md#Stunned|stunned 1]].\n__Critical Failure__ The creature is [[rules/conditions.md#Stunned|stunned 2]]."
   - name: "Sudden Charge"
     desc: "⬺  The terror shrike [[Stride|Strides]] twice. If it ends its movement within melee reach of one creature, it can make a melee [[Strike]] against that creature."
   - name: "Tearing Clutch"
-    desc: "  As terror bird, except 1d8 (1d8) [[persistent damage|persistent bleed damage]] on a critical hit."
+    desc: "  As terror bird, except 1d8 (1d8) [[rules/conditions.md#Persistent%20Damage|persistent bleed damage]] on a critical hit."
 
 speed: 60 feet
 

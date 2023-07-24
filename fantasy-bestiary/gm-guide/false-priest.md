@@ -36,11 +36,11 @@ abilities_top:
     desc: "  +6 Str +0, Dex +4, Con +3, Int +0, Wis +2, Cha +4 Items alchemical tools (used as \"blessed items\" to fool marks), backpack, cloak, hand crossbow (20 bolts), collection of fake relics, wooden religious symbol, studded leather armor, rapier."
 abilities_bot:
   - name: "Deceiver's Surprise"
-    desc: "  On the first round of combat, if the false priest rolls [[Deception]] or [[Performance]] for initiative, creatures that haven't acted yet are [[flat-footed|flat-footed]] to the false priest."
+    desc: "  On the first round of combat, if the false priest rolls [[Deception]] or [[Performance]] for initiative, creatures that haven't acted yet are [[rules/conditions.md#Flat-Footed|flat-footed]] to the false priest."
   - name: "Fickle Prophecy"
     desc: "⬻ ([[emotion]], [[mental]]);  The false priest convinces someone of their omnipotence by attempting a [[Deception]] check compared to the creature's Will DC. If successful, the target gains 1d8+4 (1d8+4) temporary Hit Points that last for 1 hour or until the false priest removes them by rebuking the target, whichever occurs first."
   - name: "Sneak Attack"
-    desc: "  The false priest deals an extra 1d6 (1d6) precision damage to [[flat-footed|flat-footed]] creatures. This increases to 2d6 (2d6) against creatures [[flat-footed|flat-footed]] due to the false priest's [[Feint]] or deceiver's surprise."
+    desc: "  The false priest deals an extra 1d6 (1d6) precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures. This increases to 2d6 (2d6) against creatures [[rules/conditions.md#Flat-Footed|flat-footed]] due to the false priest's [[Feint]] or deceiver's surprise."
   - name: "The Jig Is Up"
     desc: "⬲ __Frequency__ once per hour __Trigger__ The false priest critically fails a [[Deception]] or [[Performance]] check __Effect__  The false priest [[Stride|Strides]]."
 

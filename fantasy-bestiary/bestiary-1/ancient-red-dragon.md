@@ -34,7 +34,7 @@ abilityMods: [9, 5, 8, 5, 6, 7]
 
 abilities_top:
   - name: "Smoke Vision"
-    desc: "  Smoke doesn't impair a red dragon's vision; it ignores the [[concealed|concealed]] condition from smoke."
+    desc: "  Smoke doesn't impair a red dragon's vision; it ignores the [[rules/conditions.md#Concealed|concealed]] condition from smoke."
 abilities_mid:
   - name: "Dragon Heat"
     desc: " ([[arcane]], [[aura]], [[evocation]], [[fire]]);  10 feet, 4d6 (4d6) fire damage (DC 39 basic Reflex)"

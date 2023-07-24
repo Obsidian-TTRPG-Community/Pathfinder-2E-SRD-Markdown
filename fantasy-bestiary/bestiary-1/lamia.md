@@ -32,7 +32,7 @@ abilityMods: [5, 3, 2, 1, 3, 3]
 
 abilities_bot:
   - name: "Lamia's Caress"
-    desc: "⬺ ([[curse]], [[enchantment]], [[mental]], [[occult]]);  The lamia touches a creature, who must succeed at a DC 23 Will save or become [[stupefied|stupefied 1]]. If the target fails additional saves against this ability, the condition value increases by 1 (to a maximum of [[stupefied|stupefied 4]]). This condition value decreases by 1 every 24 hours."
+    desc: "⬺ ([[curse]], [[enchantment]], [[mental]], [[occult]]);  The lamia touches a creature, who must succeed at a DC 23 Will save or become [[rules/conditions.md#Stupefied|stupefied 1]]. If the target fails additional saves against this ability, the condition value increases by 1 (to a maximum of [[rules/conditions.md#Stupefied|stupefied 4]]). This condition value decreases by 1 every 24 hours."
 abilities_top:
   - name: Items
     desc: "javelin (2), +1 spear;"

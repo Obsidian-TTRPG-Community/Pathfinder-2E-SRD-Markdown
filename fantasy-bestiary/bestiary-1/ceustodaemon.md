@@ -33,7 +33,7 @@ abilityMods: [5, 2, 4, 0, 2, 3]
 
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[divine]], [[evocation]], [[fire]]);  The ceustodaemon breathes flames in a 30-foot cone. Creatures in the cone take 7d6 (7d6) fire damage (DC 24 basic Reflex save). The ceustodaemon and each creature that fails the save catch fire, taking 2d6 (2d6) [[persistent damage|persistent fire damage]]. The breath weapon can't be used again for 1d4 (1d4) rounds."
+    desc: "⬺ ([[divine]], [[evocation]], [[fire]]);  The ceustodaemon breathes flames in a 30-foot cone. Creatures in the cone take 7d6 (7d6) fire damage (DC 24 basic Reflex save). The ceustodaemon and each creature that fails the save catch fire, taking 2d6 (2d6) [[rules/conditions.md#Persistent%20Damage|persistent fire damage]]. The breath weapon can't be used again for 1d4 (1d4) rounds."
   - name: "Drawn to Service"
     desc: "  When bringing a ceustodaemon to another plane with effects like a planar binding or planar ally ritual, the primary and secondary skill DCs are reduced by 5, and the ceustodaemon demands only half the normal cost for its service."
   - name: "Vicious Wounds"

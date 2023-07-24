@@ -33,9 +33,9 @@ abilityMods: [2, 4, 1, 1, 0, 1]
 
 abilities_bot:
   - name: "Sneak Attack"
-    desc: "  The tengu deals 1d6 (1d6) extra precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The tengu deals 1d6 (1d6) extra precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
   - name: "Surprise Attacker"
-    desc: "  On the first round of combat, creatures that haven't acted yet are [[flat-footed|flat-footed]] to the tengu."
+    desc: "  On the first round of combat, creatures that haven't acted yet are [[rules/conditions.md#Flat-Footed|flat-footed]] to the tengu."
 abilities_top:
   - name: Items
     desc: "rapier, shortbow, studded leather armor;"

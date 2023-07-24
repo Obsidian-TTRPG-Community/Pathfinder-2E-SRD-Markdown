@@ -32,10 +32,10 @@ abilityMods: [1, 3, 1, 3, 5, 1]
 
 abilities_top:
   - name: "Master of the Home"
-    desc: "  A home with a [[friendly|friendly]] domovoi is blessed, as the domovoi cooks, cleans, fetches water, and does a hundred other small tasks. A home so blessed never suffers from random accidents such as fires, and any checks to [[Craft]], [[Earn Income]], [[Repair]], or [[Subsist]] in the home receive a +2 circumstance bonus. If the domovoi is [[unfriendly|unfriendly]], such checks take a –2 circumstance penalty instead, as the domovoi hides things, makes noise when people try to sleep, tangles weaving, and otherwise makes life a misery. A domovoi must spend a week in a place before these benefits occur."
+    desc: "  A home with a [[rules/conditions.md#Friendly|friendly]] domovoi is blessed, as the domovoi cooks, cleans, fetches water, and does a hundred other small tasks. A home so blessed never suffers from random accidents such as fires, and any checks to [[Craft]], [[Earn Income]], [[Repair]], or [[Subsist]] in the home receive a +2 circumstance bonus. If the domovoi is [[rules/conditions.md#Unfriendly|unfriendly]], such checks take a –2 circumstance penalty instead, as the domovoi hides things, makes noise when people try to sleep, tangles weaving, and otherwise makes life a misery. A domovoi must spend a week in a place before these benefits occur."
 abilities_mid:
   - name: "Shy"
-    desc: "  A domovoi is naturally [[invisible|invisible]] while within sight of their bound home. The domovoi can become visible, or even selectively visible—allowing some people to see them."
+    desc: "  A domovoi is naturally [[rules/conditions.md#Invisible|invisible]] while within sight of their bound home. The domovoi can become visible, or even selectively visible—allowing some people to see them."
 abilities_bot:
   - name: "Home Guardian"
     desc: "  By commanding their home to attack, the domovoi can [[Grapple]], [[Shove]], [[Trip]], and [[Disarm]] with their enraged home [[Strike]]. The domovoi uses their [[Lore|Household Lore]] instead of [[Athletics]] skill for these checks."

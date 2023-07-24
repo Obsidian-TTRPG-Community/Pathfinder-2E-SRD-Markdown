@@ -35,7 +35,7 @@ abilities_bot:
   - name: "Sneak Attack"
     desc: "  The bugbear tormentor deals 1d6 (1d6) extra precision damage to flatfooted creatures."
   - name: "Twin Feint"
-    desc: "⬺  The bugbear tormentor makes a dazzling series of attacks with two weapons, using the first attack to throw their foe off guard against a second attack at a different angle. They make one [[Strike]] with each of their two melee weapons, both against the same target. The target is automatically [[flat-footed|flat-footed]] against the second attack. Apply the bugbear tormentor's multiple attack penalty to the [[Strike|Strikes]] normally."
+    desc: "⬺  The bugbear tormentor makes a dazzling series of attacks with two weapons, using the first attack to throw their foe off guard against a second attack at a different angle. They make one [[Strike]] with each of their two melee weapons, both against the same target. The target is automatically [[rules/conditions.md#Flat-Footed|flat-footed]] against the second attack. Apply the bugbear tormentor's multiple attack penalty to the [[Strike|Strikes]] normally."
 abilities_top:
   - name: Items
     desc: "chain shirt, dagger, sickle (2);"

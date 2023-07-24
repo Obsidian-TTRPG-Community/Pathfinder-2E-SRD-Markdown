@@ -34,7 +34,7 @@ abilityMods: [6, 1, 3, 1, 4, 3]
 
 abilities_top:
   - name: "Mist Vision"
-    desc: "  Fog and mist don't impair a sky dragon's vision; they ignore the [[concealed|concealed]] condition from fog and mist."
+    desc: "  Fog and mist don't impair a sky dragon's vision; they ignore the [[rules/conditions.md#Concealed|concealed]] condition from fog and mist."
 abilities_mid:
   - name: "Frightful Presence"
     desc: " ([[aura]], [[emotion]], [[fear]], [[mental]]);  90 feet, DC 26 (page 305)"

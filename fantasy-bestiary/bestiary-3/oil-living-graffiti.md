@@ -38,7 +38,7 @@ abilities_mid:
     desc: "  A living graffiti can move only along flat surfaces. If the surface it's on is destroyed (such as a portrait hit by a [[fireball]] spell or a wall being smashed), the graffiti takes 2d6 (2d6) damage and is shunted to the nearest flat surface. If there is no flat surface within 5 feet, the graffiti is destroyed."
 abilities_bot:
   - name: "Splatter"
-    desc: "  A living graffiti splatters into a creature's face with its splatter [[Strike]]. On a hit, the target is [[dazzled|dazzled]] for 1 round or until it Interacts to remove the paint from its face."
+    desc: "  A living graffiti splatters into a creature's face with its splatter [[Strike]]. On a hit, the target is [[rules/conditions.md#Dazzled|dazzled]] for 1 round or until it Interacts to remove the paint from its face."
 
 speed: 25 feet
 

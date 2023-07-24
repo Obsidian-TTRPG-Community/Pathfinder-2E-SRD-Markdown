@@ -33,14 +33,14 @@ abilityMods: [7, 5, 6, 3, 4, 6]
 
 abilities_mid:
   - name: "Consumptive Aura"
-    desc: " ([[aura]], [[divine]]);  20 feet. A meladaemon emanates an aura of intense hunger. Each round a creature begins its turn in the aura, it must attempt a DC 27 Fortitude save. On a failure, the creature takes 1d6 (1d6) negative damage (2d6 (2d6) on a critical failure) and becomes [[fatigued|fatigued]]. This fatigue ends as soon as the creature eats any food."
+    desc: " ([[aura]], [[divine]]);  20 feet. A meladaemon emanates an aura of intense hunger. Each round a creature begins its turn in the aura, it must attempt a DC 27 Fortitude save. On a failure, the creature takes 1d6 (1d6) negative damage (2d6 (2d6) on a critical failure) and becomes [[rules/conditions.md#Fatigued|fatigued]]. This fatigue ends as soon as the creature eats any food."
   - name: "Withering Opportunity"
     desc: "⬲ __Trigger__ The meladaemon is attacked by an adjacent creature and the attack misses __Effect__  The meladaemon swipes at the triggering creature, which must immediately attempt a save against the meladaemon's withering touch."
 abilities_bot:
   - name: "Daemonic Famine"
-    desc: " ([[disease]]);  __Saving Throw__ DC 29 Fortitude. __Stage 1__ carrier (1 day) __Stage 2__ [[enfeebled|enfeebled 1]] (1 day) __Stage 3__ [[enfeebled|enfeebled 2]] (1 day) __Stage 4__ as stage 3 (null) __Stage 5__ [[enfeebled|enfeebled 3]]  (1 week)"
+    desc: " ([[disease]]);  __Saving Throw__ DC 29 Fortitude. __Stage 1__ carrier (1 day) __Stage 2__ [[rules/conditions.md#Enfeebled|enfeebled 1]] (1 day) __Stage 3__ [[rules/conditions.md#Enfeebled|enfeebled 2]] (1 day) __Stage 4__ as stage 3 (null) __Stage 5__ [[rules/conditions.md#Enfeebled|enfeebled 3]]  (1 week)"
   - name: "Withering Touch"
-    desc: " ([[divine]], [[evil]], [[necromancy]]);  When the meladaemon hits with a claw [[Strike]] or a creature begins its turn [[grabbed|grabbed]] by the meladaemon, the creature must attempt a DC 30 Fortitude save. On a failure, the creature takes 1d6 (1d6) negative damage and becomes [[fatigued|fatigued]]. This fatigue ends when the creature drinks."
+    desc: " ([[divine]], [[evil]], [[necromancy]]);  When the meladaemon hits with a claw [[Strike]] or a creature begins its turn [[rules/conditions.md#Grabbed|grabbed]] by the meladaemon, the creature must attempt a DC 30 Fortitude save. On a failure, the creature takes 1d6 (1d6) negative damage and becomes [[rules/conditions.md#Fatigued|fatigued]]. This fatigue ends when the creature drinks."
 
 speed: 25 feet, fly 50 feet
 

@@ -33,7 +33,7 @@ abilities_bot:
   - name: "Flying Strafe"
     desc: "⬺  The griffon Flies up to its fly Speed and makes two talon [[Strike|Strikes]] at any point during that movement. Each [[Strike]] must target a different creature. The attacks take the normal multiple attack penalty."
   - name: "Pounce"
-    desc: "⬻  The griffon [[Stride|Strides]] and makes a talon [[Strike]] at the end of that movement. If the griffon began this action [[hidden|hidden]], it remains [[hidden|hidden]] until after the attack."
+    desc: "⬻  The griffon [[Stride|Strides]] and makes a talon [[Strike]] at the end of that movement. If the griffon began this action [[rules/conditions.md#Hidden|hidden]], it remains [[rules/conditions.md#Hidden|hidden]] until after the attack."
 
 speed: 25 feet; fly 60 feet;
 

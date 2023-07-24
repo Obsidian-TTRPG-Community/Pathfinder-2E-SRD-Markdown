@@ -41,7 +41,7 @@ abilities_top:
     desc: " "
 abilities_mid:
   - name: "Nymph's Beauty"
-    desc: " ([[aura]], [[emotion]], [[enchantment]], [[incapacitation]], [[mental]], [[primal]], [[visual]]);  DC 30. On a failed save, the target is [[immobilized|immobilized]] in awe for 1 minute."
+    desc: " ([[aura]], [[emotion]], [[enchantment]], [[incapacitation]], [[mental]], [[primal]], [[visual]]);  DC 30. On a failed save, the target is [[rules/conditions.md#Immobilized|immobilized]] in awe for 1 minute."
 abilities_bot:
   - name: "Change Shape"
     desc: "⬻ ([[polymorph]], [[primal]], [[transmutation]]); "

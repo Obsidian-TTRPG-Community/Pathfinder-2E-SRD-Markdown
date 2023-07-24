@@ -34,7 +34,7 @@ abilityMods: [1, 4, 2, 1, 3, -1]
 
 abilities_mid:
   - name: "Vulnerable to Sunlight"
-    desc: "  A fuath becomes [[drained|drained 1]] (or increases its [[drained|drained]] condition by 1) after every consecutive hour they're exposed to sunlight. Being submerged in more than a foot of water prevents the sunlight from harming the fuath."
+    desc: "  A fuath becomes [[rules/conditions.md#Drained|drained 1]] (or increases its [[rules/conditions.md#Drained|drained]] condition by 1) after every consecutive hour they're exposed to sunlight. Being submerged in more than a foot of water prevents the sunlight from harming the fuath."
 abilities_top:
   - name: Items
     desc: "darts (6);"

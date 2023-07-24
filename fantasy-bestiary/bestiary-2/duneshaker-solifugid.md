@@ -31,13 +31,13 @@ abilityMods: [9, 7, 7, -5, 4, -4]
 
 abilities_bot:
   - name: "Earth Shaker"
-    desc: "  Each turn, the first time the duneshaker solifugid is adjacent to a Large or smaller creature during a move action it's using, that creature must succeed at a DC 39 Reflex save or fall [[prone|prone]]."
+    desc: "  Each turn, the first time the duneshaker solifugid is adjacent to a Large or smaller creature during a move action it's using, that creature must succeed at a DC 39 Reflex save or fall [[rules/conditions.md#Prone|prone]]."
   - name: "Pounce"
-    desc: "⬻  The duneshaker solifugid [[Stride|Strides]] and makes a [[Strike]] at the end of that movement. If the duneshaker solifugid began this action [[hidden|hidden]], it remains [[hidden|hidden]] until after this ability's [[Strike]]."
+    desc: "⬻  The duneshaker solifugid [[Stride|Strides]] and makes a [[Strike]] at the end of that movement. If the duneshaker solifugid began this action [[rules/conditions.md#Hidden|hidden]], it remains [[rules/conditions.md#Hidden|hidden]] until after this ability's [[Strike]]."
   - name: "Rend"
     desc: "⬻ ([[claw]]); "
   - name: "Venom Spray"
-    desc: "⬺ ([[poison]]);  The duneshaker solifugid spews toxic barbs at all creatures in a 30-foot cone. Each creature within the area takes 10d6 (10d6) poison damage (DC 39 basic Fortitude save). A creature that fails its saving throw is [[blinded|blinded]] for 1d6 (1d6) rounds (or permanently on a critical failure). The duneshaker solifugid can't use Venom Spray again for 1d4 (1d4) rounds."
+    desc: "⬺ ([[poison]]);  The duneshaker solifugid spews toxic barbs at all creatures in a 30-foot cone. Each creature within the area takes 10d6 (10d6) poison damage (DC 39 basic Fortitude save). A creature that fails its saving throw is [[rules/conditions.md#Blinded|blinded]] for 1d6 (1d6) rounds (or permanently on a critical failure). The duneshaker solifugid can't use Venom Spray again for 1d4 (1d4) rounds."
 
 speed: 50 feet, burrow 25 feet, climb 25 feet
 

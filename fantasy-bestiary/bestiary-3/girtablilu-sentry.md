@@ -36,7 +36,7 @@ abilities_bot:
   - name: "Desert Stride"
     desc: "  A girtablilu ignores natural [[terrain|difficult terrain]] in the desert."
   - name: "Girtablilu Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 24 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d6 (2d6) poison damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 3d6 (3d6) poison damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 3__ 3d6 (3d6) poison damage and [[enfeebled|enfeebled 2]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 24 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d6 (2d6) poison damage and [[rules/conditions.md#Enfeebled|enfeebled 1]] (1 round) __Stage 2__ 3d6 (3d6) poison damage and [[rules/conditions.md#Enfeebled|enfeebled 1]] (1 round) __Stage 3__ 3d6 (3d6) poison damage and [[rules/conditions.md#Enfeebled|enfeebled 2]] (1 round)"
 abilities_top:
   - name: Items
     desc: "hide armor, +1 striking longspear;"

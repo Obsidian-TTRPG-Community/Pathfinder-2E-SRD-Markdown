@@ -37,9 +37,9 @@ abilities_top:
     desc: "  An isqulug can precisely sense any creature infected with isqulugia within 30 feet, and knows the current stage of the disease."
 abilities_bot:
   - name: "Expel Infestation"
-    desc: "⬺  The isqulug expels larvae from the hivemind in its head in a 30-foot cone. Creatures in this area take 6d10 (6d10) piercing damage as the swarm feeds on their flesh (DC 30 basic Reflex save). Any creature that takes damage is exposed to isqulugia. The isqulug becomes [[stupefied|stupefied 1]] for 1d4 (1d4) rounds, during which it can't Expel Infestation."
+    desc: "⬺  The isqulug expels larvae from the hivemind in its head in a 30-foot cone. Creatures in this area take 6d10 (6d10) piercing damage as the swarm feeds on their flesh (DC 30 basic Reflex save). Any creature that takes damage is exposed to isqulugia. The isqulug becomes [[rules/conditions.md#Stupefied|stupefied 1]] for 1d4 (1d4) rounds, during which it can't Expel Infestation."
   - name: "Isqulugia"
-    desc: " ([[disease]], [[incapacitation]], [[primal]], [[transmutation]], [[virulent]]);  __Saving Throw__ DC 30 Fortitude. __Stage 1__ [[sickened|sickened 1]] (1 hour) __Stage 2__ [[fatigued|fatigued]] and [[sickened|sickened 2]] (1 day) __Stage 3__ [[fatigued|fatigued]] and [[slowed|slowed 1]] (1 day) __Stage 4__ [[paralyzed|paralyzed]] (1 day) __Stage 5__ the creature dies, and its body violently transforms into a new isqulug. (null)"
+    desc: " ([[disease]], [[incapacitation]], [[primal]], [[transmutation]], [[virulent]]);  __Saving Throw__ DC 30 Fortitude. __Stage 1__ [[rules/conditions.md#Sickened|sickened 1]] (1 hour) __Stage 2__ [[rules/conditions.md#Fatigued|fatigued]] and [[rules/conditions.md#Sickened|sickened 2]] (1 day) __Stage 3__ [[rules/conditions.md#Fatigued|fatigued]] and [[rules/conditions.md#Slowed|slowed 1]] (1 day) __Stage 4__ [[rules/conditions.md#Paralyzed|paralyzed]] (1 day) __Stage 5__ the creature dies, and its body violently transforms into a new isqulug. (null)"
   - name: "Malleability"
     desc: "  The isqulug can [[Squeeze]] through tight spaces as if it were a Small creature. While [[Squeeze|Squeezing]], it can move at its full Speed. The isqulug can even [[Squeeze]] through spaces that typically fit only a Tiny creature, but does so at the standard speed for [[Squeeze|Squeezing]]."
   - name: "Swamp Stride"

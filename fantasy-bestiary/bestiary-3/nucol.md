@@ -36,7 +36,7 @@ abilities_top:
     desc: "  A sahkil's level is considered 2 lower for the purpose of being conjured by the planar binding ritual (and potentially other rituals, at the GM's discretion), but it is always free to attack or leave instead of negotiate unless the primary caster's check is a critical success."
 abilities_bot:
   - name: "Nervous Consumption"
-    desc: " ([[disease]], [[divine]], [[emotion]], [[enchantment]], [[mental]]);  __Saving Throw__ DC 21 Fortitude. __Stage 1__ [[sickened|sickened 1]] and [[stupefied|stupefied 1]] (1 day) __Stage 2__ [[clumsy|clumsy 1]] and [[stupefied|stupefied 2]] (1 day) __Stage 3__ [[clumsy|clumsy 2]] and [[stupefied|stupefied 3]] (1 day)"
+    desc: " ([[disease]], [[divine]], [[emotion]], [[enchantment]], [[mental]]);  __Saving Throw__ DC 21 Fortitude. __Stage 1__ [[rules/conditions.md#Sickened|sickened 1]] and [[rules/conditions.md#Stupefied|stupefied 1]] (1 day) __Stage 2__ [[rules/conditions.md#Clumsy|clumsy 1]] and [[rules/conditions.md#Stupefied|stupefied 2]] (1 day) __Stage 3__ [[rules/conditions.md#Clumsy|clumsy 2]] and [[rules/conditions.md#Stupefied|stupefied 3]] (1 day)"
   - name: "Skip Between"
     desc: "⬻ ([[conjuration]], [[divine]], [[teleportation]]);  The sahkil moves from the Material Plane to the Ethereal Plane or vice-versa, with the effects of [[ethereal jaunt]] except that the effect has an unlimited duration and can be Dismissed. A summoned sahkil can't use Skip Between."
   - name: "Spray Pus"

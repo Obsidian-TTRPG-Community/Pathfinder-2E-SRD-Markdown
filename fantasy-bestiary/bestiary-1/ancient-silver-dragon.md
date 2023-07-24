@@ -34,7 +34,7 @@ abilityMods: [9, 4, 5, 5, 5, 7]
 
 abilities_top:
   - name: "Fog Vision"
-    desc: "  The silver dragon ignores the [[concealed|concealed]] condition from fog and clouds."
+    desc: "  The silver dragon ignores the [[rules/conditions.md#Concealed|concealed]] condition from fog and clouds."
 abilities_mid:
   - name: "Frightful Presence"
     desc: " ([[aura]], [[emotion]], [[fear]], [[mental]]);  90 feet, DC 40."
@@ -44,7 +44,7 @@ abilities_mid:
     desc: "⬲ __Trigger__ The silver dragon is targeted with an attack. __Effect__  The dragon raises its wing, gaining a +2 circumstance bonus to AC against the triggering attack. If the dragon is flying, it descends 10 feet after the attack is complete."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺  The silver dragon breathes in one of two ways. The dragon can't use Breath Weapon again for 1d4 (1d4) rounds.<ul class='inner-bullet-list'><li>__Frost__ (arcane, cold, evocation); The dragon breathes a cloud of frost in a 50-foot cone that deals 20d6 (20d6) cold damage (DC 42 basic Reflex save).</li><li>__Paralyzing Gas__ (arcane, enchantment, incapacitation); The dragon breathes a blast of paralyzing gas. Each creature within a 50-foot cone must succeed at a DC 42 Fortitude save or be [[paralyzed|paralyzed]] for 1 round (or 3 rounds on a critical failure).</li></ul>"
+    desc: "⬺  The silver dragon breathes in one of two ways. The dragon can't use Breath Weapon again for 1d4 (1d4) rounds.<ul class='inner-bullet-list'><li>__Frost__ (arcane, cold, evocation); The dragon breathes a cloud of frost in a 50-foot cone that deals 20d6 (20d6) cold damage (DC 42 basic Reflex save).</li><li>__Paralyzing Gas__ (arcane, enchantment, incapacitation); The dragon breathes a blast of paralyzing gas. Each creature within a 50-foot cone must succeed at a DC 42 Fortitude save or be [[rules/conditions.md#Paralyzed|paralyzed]] for 1 round (or 3 rounds on a critical failure).</li></ul>"
   - name: "Cloud Walk"
     desc: "  The silver dragon can tread on clouds or fog as though on solid ground."
   - name: "Draconic Frenzy"

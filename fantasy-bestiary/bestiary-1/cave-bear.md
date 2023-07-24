@@ -31,7 +31,7 @@ abilityMods: [6, 1, 6, -4, 1, -1]
 
 abilities_bot:
   - name: "Mauler"
-    desc: "  The bear gains a +4 circumstance bonus to damage rolls against creatures it has [[grabbed|grabbed]]."
+    desc: "  The bear gains a +4 circumstance bonus to damage rolls against creatures it has [[rules/conditions.md#Grabbed|grabbed]]."
   - name: "Rush"
     desc: "⬺  The cave bear [[Stride|Strides]] and makes a [[Strike]] at the end of that movement. During the [[Stride]], it gains a +10-foot circumstance bonus to its Speed."
 

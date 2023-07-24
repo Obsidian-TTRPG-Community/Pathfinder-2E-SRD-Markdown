@@ -35,14 +35,14 @@ abilities_top:
   - name: "Stealth"
     desc: "  +14, [[Thievery]] +12 Str +0, Dex +4, Con +1, Int +2, Wis +4, Cha +4 Items dagger (4), disguise kit, fine clothes, leather armor, +1 rapier, thieves' tools."
   - name: "Noble's Ally"
-    desc: "  The spy has positioned themself to seem a trusted ally, gaining a +2 circumstance bonus to [[Gather Information]] or to [[Make an Impression]] among the nobles of that court."
+    desc: "  The spy has positioned themself to seem a trusted ally, gaining a +2 circumstance bonus to [[Gather-Information|Gather Information]] or to [[Make an Impression]] among the nobles of that court."
   - name: Items
     desc: "dagger (4), disguise kit, fine clothes, leather armor, +1 rapier, thieves' tools;"
 abilities_bot:
   - name: "Hidden Blade"
-    desc: "⬻ __Frequency__ once per round  __Effect__  The spy draws a weapon and then [[Strike|Strikes]] with it. The target of the [[Strike]] is [[flat-footed|flat-footed]] against the attack."
+    desc: "⬻ __Frequency__ once per round  __Effect__  The spy draws a weapon and then [[Strike|Strikes]] with it. The target of the [[Strike]] is [[rules/conditions.md#Flat-Footed|flat-footed]] against the attack."
   - name: "Sneak Attack"
-    desc: "  The spy deals an extra 2d6 (2d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The spy deals an extra 2d6 (2d6) precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
 
 speed: 25 feet
 

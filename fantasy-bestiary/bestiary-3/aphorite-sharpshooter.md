@@ -34,7 +34,7 @@ abilityMods: [2, 4, 2, 1, 0, 2]
 
 abilities_mid:
   - name: "Crystalline Dust"
-    desc: "⬺ __Frequency__ once per day  __Effect__  The sharpshooter becomes [[concealed|concealed]] for 4 rounds, though they can't use the concealment to [[Hide]] or [[Sneak]], as normal for concealment where their position is obvious."
+    desc: "⬺ __Frequency__ once per day  __Effect__  The sharpshooter becomes [[rules/conditions.md#Concealed|concealed]] for 4 rounds, though they can't use the concealment to [[Hide]] or [[Sneak]], as normal for concealment where their position is obvious."
 abilities_top:
   - name: Items
     desc: "breastplate, crossbow (50 bolts), outrageous hat, shortsword;"

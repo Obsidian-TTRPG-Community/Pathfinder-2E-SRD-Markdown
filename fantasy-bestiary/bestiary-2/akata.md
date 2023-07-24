@@ -42,7 +42,7 @@ abilities_mid:
     desc: "  Salt water acts as an extremely strong acid to an akata. Full immersion in salt water deals 4d6 (4d6) acid damage per round."
 abilities_bot:
   - name: "Void Death"
-    desc: " ([[disease]]);  __Saving Throw__ DC 17 Fortitude. __Stage 1__ carrier with no ill effect 1 (1 day) __Stage 2__ [[drained|drained 1]] (1 day) __Stage 3__ as stage 2 (1 day) __Stage 4__ [[drained|drained 2]] and [[fatigued|fatigued]] (1 day) __Stage 5__ as stage 4 (1 day) __Stage 6__ dead and corpse rises as a void zombie (page 288)"
+    desc: " ([[disease]]);  __Saving Throw__ DC 17 Fortitude. __Stage 1__ carrier with no ill effect 1 (1 day) __Stage 2__ [[rules/conditions.md#Drained|drained 1]] (1 day) __Stage 3__ as stage 2 (1 day) __Stage 4__ [[rules/conditions.md#Drained|drained 2]] and [[rules/conditions.md#Fatigued|fatigued]] (1 day) __Stage 5__ as stage 4 (1 day) __Stage 6__ dead and corpse rises as a void zombie (page 288)"
 
 speed: 30 feet, climb 15 feet
 

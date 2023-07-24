@@ -37,7 +37,7 @@ abilities_top:
   - name: "Shadow Blend"
     desc: "  The shadow drake's form shifts and blends reflexively with surrounding shadows. A shadow drake gains an additional reaction each round, but it can use this reaction only for Shadow Evade."
   - name: "Shadow Evade"
-    desc: "⬲ __Trigger__ A creature attacks the shadow drake while it is in an area of dim light __Effect__  The shadow drake further obscures its position. The attacker must succeed at a DC 11 flat check in order to affect the shadow drake, as if the drake were [[Hidden|Hidden]] for the triggering attack."
+    desc: "⬲ __Trigger__ A creature attacks the shadow drake while it is in an area of dim light __Effect__  The shadow drake further obscures its position. The attacker must succeed at a DC 11 flat check in order to affect the shadow drake, as if the drake were [[rules/conditions.md#Hidden|Hidden]] for the triggering attack."
 abilities_bot:
   - name: "Draconic Frenzy"
     desc: "⬺  The shadow drake makes one bite [[Strike]] and two tail [[Strike|Strikes]] in any order."

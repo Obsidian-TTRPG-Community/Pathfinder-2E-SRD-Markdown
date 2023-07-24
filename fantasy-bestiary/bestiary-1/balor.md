@@ -33,7 +33,7 @@ abilityMods: [9, 7, 9, 6, 6, 8]
 
 abilities_mid:
   - name: "Aura of Flame"
-    desc: " ([[aura]], [[divine]], [[evocation]], [[fire]]);  20 feet. A foe that starts its turn in the aura takes 3d6+10 (3d6+10) fire damage, or 6d6+20 (6d6+20) fire damage if the balor has [[grabbed|grabbed]] or [[restrained|restrained]] it. A creature that hits a balor with an unarmed [[Strike]] takes 3d6+10 (3d6+10) fire damage, and weapons that hit a balor take 3d6+10 (3d6+10) fire damage."
+    desc: " ([[aura]], [[divine]], [[evocation]], [[fire]]);  20 feet. A foe that starts its turn in the aura takes 3d6+10 (3d6+10) fire damage, or 6d6+20 (6d6+20) fire damage if the balor has [[rules/conditions.md#Grabbed|grabbed]] or [[rules/conditions.md#Restrained|restrained]] it. A creature that hits a balor with an unarmed [[Strike]] takes 3d6+10 (3d6+10) fire damage, and weapons that hit a balor take 3d6+10 (3d6+10) fire damage."
   - name: "Attack of Opportunity"
     desc: "⬲  The balor can use [[Attack of Opportunity]] when a creature within their reach uses a concentrate action, in addition to its normal trigger. They can disrupt triggering concentrate actions, and they disrupt actions on any hit, not just a critical hit."
   - name: "Death Throes"

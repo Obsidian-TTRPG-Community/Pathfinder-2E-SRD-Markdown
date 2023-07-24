@@ -33,7 +33,7 @@ abilityMods: [7, 0, 4, -2, 4, 3]
 
 abilities_bot:
   - name: "Light Pulse"
-    desc: "⬺ ([[evocation]], [[light]], [[primal]], [[visual]]);  50 feet. The moonflower releases a pulse of bright light. Each non-moonflower creature in the emanation must attempt a DC 23 Fortitude save. The moonflower can't use Light Pulse again for 1d4 (1d4) rounds.\n__Success__ The creature is unaffected.\n__Failure__ The creature is [[dazzled|dazzled]] for 1d4 (1d4) rounds.\n__Critical Failure__ The creature is [[blinded|blinded]] for 1d4 (1d4) rounds."
+    desc: "⬺ ([[evocation]], [[light]], [[primal]], [[visual]]);  50 feet. The moonflower releases a pulse of bright light. Each non-moonflower creature in the emanation must attempt a DC 23 Fortitude save. The moonflower can't use Light Pulse again for 1d4 (1d4) rounds.\n__Success__ The creature is unaffected.\n__Failure__ The creature is [[rules/conditions.md#Dazzled|dazzled]] for 1d4 (1d4) rounds.\n__Critical Failure__ The creature is [[rules/conditions.md#Blinded|blinded]] for 1d4 (1d4) rounds."
   - name: "Pod Prison"
     desc: "⬲ __Trigger__ The moonflower has swallowed a creature __Effect__  The swallowed creature is wrapped in a tight cocoon and extruded from the moonflower's body into an adjacent square. The creature continues to be Swallowed Whole. It can't use [[Acrobatics]] to [[Escape]] a pod, but other creatures can attempt to Rupture the pod. The cocooned creature takes half damage from any damage dealt to the cocoon. Once the cocoon is Ruptured, it deflates and decays."
   - name: "Pod Spawn"

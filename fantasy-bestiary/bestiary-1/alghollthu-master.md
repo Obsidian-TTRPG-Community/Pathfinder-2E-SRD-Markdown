@@ -37,7 +37,7 @@ abilities_top:
     desc: " ([[aura]], [[disease]]);  5 feet. While underwater, an aboleth exudes a cloud of transparent slime. An air-breathing creature adjacent to an aboleth must succeed at a DC 25 Fortitude save each round or lose the ability to breathe air but gain the ability to breathe water for 3 hours."
 abilities_bot:
   - name: "Slime"
-    desc: " ([[curse]], [[occult]], [[virulent]]);  __Saving Throw__ DC 25 Fortitude. __Stage 1__ no ill effect (1 round) __Stage 2__ the victim's skin softens, inflicting [[drained|drained 1]] (1 round) __Stage 3__ the victim's skin transforms into a clear, slimy membrane, inflicting [[drained|drained 2]] until the curse ends; every hour this membrane remains dry, the creature's drained condition increases by 1 (permanent)"
+    desc: " ([[curse]], [[occult]], [[virulent]]);  __Saving Throw__ DC 25 Fortitude. __Stage 1__ no ill effect (1 round) __Stage 2__ the victim's skin softens, inflicting [[rules/conditions.md#Drained|drained 1]] (1 round) __Stage 3__ the victim's skin transforms into a clear, slimy membrane, inflicting [[rules/conditions.md#Drained|drained 2]] until the curse ends; every hour this membrane remains dry, the creature's drained condition increases by 1 (permanent)"
 
 speed: 10 feet, swim 60 feet
 

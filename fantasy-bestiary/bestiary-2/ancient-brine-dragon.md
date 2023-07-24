@@ -46,13 +46,13 @@ abilities_bot:
   - name: "Capsize"
     desc: "⬻ ([[attack]]);  The dragon tries to capsize an adjacent aquatic vessel of their size or smaller. They must succeed at an [[Athletics]] check with a DC of 35 (reduced by 5 for each size smaller the vessel is than the dragon) or the pilot's [[Lore|Sailing Lore]] DC, whichever is higher."
   - name: "Desiccating Bite"
-    desc: "⬺  The dragon makes a jaws [[Strike]]. On a hit, the target takes 6d6 (6d6) [[persistent damage|persistent acid damage]], and is [[sickened|sickened 3]] from the pain of salt and brine in its wounds."
+    desc: "⬺  The dragon makes a jaws [[Strike]]. On a hit, the target takes 6d6 (6d6) [[rules/conditions.md#Persistent%20Damage|persistent acid damage]], and is [[rules/conditions.md#Sickened|sickened 3]] from the pain of salt and brine in its wounds."
   - name: "Draconic Frenzy"
     desc: "⬺  The dragon makes two claw [[Strike|Strikes]] and one wing [[Strike]] in any order."
   - name: "Draconic Momentum"
     desc: "  The dragon recharges their Breath Weapon whenever they score a critical hit with a [[Strike]]."
   - name: "Painful Strikes"
-    desc: " ([[acid]]);  The brine dragon's body is encrusted with salty, acidic crystals. When a target takes damage from one of the dragon's melee [[Strike|Strikes]], it must succeed at a DC 38 Fortitude Save or be [[stunned|stunned 1]] ([[stunned|stunned 3]] on a critical failure). The target then becomes temporarily immune for 1 minute."
+    desc: " ([[acid]]);  The brine dragon's body is encrusted with salty, acidic crystals. When a target takes damage from one of the dragon's melee [[Strike|Strikes]], it must succeed at a DC 38 Fortitude Save or be [[rules/conditions.md#Stunned|stunned 1]] ([[rules/conditions.md#Stunned|stunned 3]] on a critical failure). The target then becomes temporarily immune for 1 minute."
 
 speed: 50 feet, fly 140 feet, swim 70 feet
 

@@ -36,10 +36,10 @@ abilities_mid:
   - name: "Purity Vulnerability"
     desc: "  A hezrou revels in the foulness it exudes and becomes distraught when contaminations are purified. The first time in a round when a contamination is purified (such as via purify food and drink) or a toxin is neutralized (such as via neutralize poison) within 30 feet of a hezrou, the demon takes 6d6 (6d6) mental damage."
   - name: "Stench"
-    desc: " ([[aura]], [[olfactory]]);  30 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 27 Fortitude save or become [[sickened|sickened 1]] (plus [[slowed|slowed 1]] for as long as itʼs [[sickened|sickened]] on a critical failure). While within the aura, affected creatures take a –2 circumstance penalty to saves against disease and to recover from the [[sickened|sickened]] condition. A creature that succeeds at its save is temporarily immune for 1 minute."
+    desc: " ([[aura]], [[olfactory]]);  30 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 27 Fortitude save or become [[rules/conditions.md#Sickened|sickened 1]] (plus [[rules/conditions.md#Slowed|slowed 1]] for as long as itʼs [[rules/conditions.md#Sickened|sickened]] on a critical failure). While within the aura, affected creatures take a –2 circumstance penalty to saves against disease and to recover from the [[rules/conditions.md#Sickened|sickened]] condition. A creature that succeeds at its save is temporarily immune for 1 minute."
 abilities_bot:
   - name: "Poisonous Pustules"
-    desc: "⬻ ([[poison]]); __Requirements__ The hezrou is grappling a creature  __Effect__  Toxic fluids spurt from burst boils and weeping wens on the hezrou's body. A creature [[grabbed|grabbed]] or [[restrained|restrained]] by the hezrou takes 2d12+6 (2d12+6) poison damage (DC 30 basic Fortitude save)."
+    desc: "⬻ ([[poison]]); __Requirements__ The hezrou is grappling a creature  __Effect__  Toxic fluids spurt from burst boils and weeping wens on the hezrou's body. A creature [[rules/conditions.md#Grabbed|grabbed]] or [[rules/conditions.md#Restrained|restrained]] by the hezrou takes 2d12+6 (2d12+6) poison damage (DC 30 basic Fortitude save)."
 
 speed: 30 feet, swim 30 feet
 

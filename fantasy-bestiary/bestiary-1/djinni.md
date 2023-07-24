@@ -41,7 +41,7 @@ abilities_top:
     desc: "scimitar;"
 abilities_bot:
   - name: "Hurricane Blast"
-    desc: "⬻ ([[air]], [[arcane]], [[evocation]]); __Frequency__ once per round  __Effect__  The djinni all creatures in its whirlwind pushes back 20 feet, or forces all creatures in the aura to move 20 feet clockwise or counterclockwise. Each creature must attempt a DC 21 Fortitude save. On a success, it avoids being moved, and on a critical failure it falls [[prone|prone]] in addition to being moved. Creatures with the [[air]] trait are immune."
+    desc: "⬻ ([[air]], [[arcane]], [[evocation]]); __Frequency__ once per round  __Effect__  The djinni all creatures in its whirlwind pushes back 20 feet, or forces all creatures in the aura to move 20 feet clockwise or counterclockwise. Each creature must attempt a DC 21 Fortitude save. On a success, it avoids being moved, and on a critical failure it falls [[rules/conditions.md#Prone|prone]] in addition to being moved. Creatures with the [[air]] trait are immune."
 
 speed: 25 feet, fly 40 feet
 

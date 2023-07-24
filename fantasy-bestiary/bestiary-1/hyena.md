@@ -31,7 +31,7 @@ abilityMods: [3, 3, 2, -4, 1, -2]
 
 abilities_bot:
   - name: "Drag"
-    desc: "⬻  The hyena makes a jaws [[Strike]] against a [[prone|prone]] enemy. If it hits, in addition to dealing damage, the hyena [[Stride|Strides]] up to 10 feet, dragging the enemy along."
+    desc: "⬻  The hyena makes a jaws [[Strike]] against a [[rules/conditions.md#Prone|prone]] enemy. If it hits, in addition to dealing damage, the hyena [[Stride|Strides]] up to 10 feet, dragging the enemy along."
   - name: "Pack Attack"
     desc: "  The hyena deals an extra 1d4 (1d4) damage to any creature that's within reach of at least two of the hyena's allies."
 

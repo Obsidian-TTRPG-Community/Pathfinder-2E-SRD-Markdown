@@ -34,7 +34,7 @@ abilities_bot:
   - name: "Trample"
     desc: "⬽  Large or smaller, foot, DC 28"
   - name: "Whip Tail"
-    desc: "⬺ ([[incapacitation]], [[sonic]]);  The mokele-mbembe cracks its tail, creating a sonic boom in a 5-foot burst centered on a corner within reach of its tail [[Strike]]. Each creature in the burst's area must attempt a DC 28 Fortitude save. Mokele-mbembes are immune.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is [[stunned|stunned 1]].\n__Failure__ The creature is [[stunned|stunned 2]].\n__Critical Failure__ The creature is [[stunned|stunned 3]]."
+    desc: "⬺ ([[incapacitation]], [[sonic]]);  The mokele-mbembe cracks its tail, creating a sonic boom in a 5-foot burst centered on a corner within reach of its tail [[Strike]]. Each creature in the burst's area must attempt a DC 28 Fortitude save. Mokele-mbembes are immune.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is [[rules/conditions.md#Stunned|stunned 1]].\n__Failure__ The creature is [[rules/conditions.md#Stunned|stunned 2]].\n__Critical Failure__ The creature is [[rules/conditions.md#Stunned|stunned 3]]."
 
 speed: 30 feet, swim 30 feet
 

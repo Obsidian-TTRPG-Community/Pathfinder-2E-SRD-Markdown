@@ -47,7 +47,7 @@ abilities_bot:
   - name: "Double Punch"
     desc: "⬻ __Frequency__ once per round  __Effect__  The ice yai makes two fist [[Strike|Strikes]]."
   - name: "Frozen Strike"
-    desc: "  On a critical hit with a fist [[Strike]] or a hit with an ice missile [[Strike]], the target creature must attempt a DC 33 Fortitude save.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is [[slowed|slowed 1]] for 1 round.\n__Failure__ The creature is [[slowed|slowed 2]] for 1 round.\n__Critical Failure__ The creature is [[slowed|slowed 3]] for 1 round."
+    desc: "  On a critical hit with a fist [[Strike]] or a hit with an ice missile [[Strike]], the target creature must attempt a DC 33 Fortitude save.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is [[rules/conditions.md#Slowed|slowed 1]] for 1 round.\n__Failure__ The creature is [[rules/conditions.md#Slowed|slowed 2]] for 1 round.\n__Critical Failure__ The creature is [[rules/conditions.md#Slowed|slowed 3]] for 1 round."
 
 speed: 40 feet, fly 40 feet
 

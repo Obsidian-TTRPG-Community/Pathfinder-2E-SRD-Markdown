@@ -52,7 +52,7 @@ abilities_bot:
   - name: "Draconic Momentum"
     desc: "  The dragon recharges their Breath Weapon whenever they score a critical hit with a [[Strike]]."
   - name: "Hyponatremia"
-    desc: " ([[water]]);  A living creature that takes damage from the sea dragon's jaws [[Strike]] must succeed at a DC 26 Fortitude save or become [[sickened|sickened 1]] as a surge of excess water floods its body."
+    desc: " ([[water]]);  A living creature that takes damage from the sea dragon's jaws [[Strike]] must succeed at a DC 26 Fortitude save or become [[rules/conditions.md#Sickened|sickened 1]] as a surge of excess water floods its body."
 
 speed: 30 feet, fly 100 feet, swim 50 feet; water walk;
 

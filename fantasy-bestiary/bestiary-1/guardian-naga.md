@@ -33,7 +33,7 @@ abilityMods: [5, 6, 5, 3, 5, 4]
 
 abilities_bot:
   - name: "Guardian Naga Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 29 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 3d6 (3d6) poison (1 round) __Stage 2__ 3d6 (3d6) poison and [[drained|drained 1]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 29 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 3d6 (3d6) poison (1 round) __Stage 2__ 3d6 (3d6) poison and [[rules/conditions.md#Drained|drained 1]] (1 round)"
 
 speed: 25 feet
 

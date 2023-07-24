@@ -33,10 +33,10 @@ abilityMods: [3, -2, 2, -5, 0, -2]
 
 abilities_top:
   - name: "Slow"
-    desc: "  A zombie is permanently [[slowed|slowed 1]] and can't use reactions."
+    desc: "  A zombie is permanently [[rules/conditions.md#Slowed|slowed 1]] and can't use reactions."
 abilities_bot:
   - name: "Jaws"
-    desc: "⬻ ([[attack]]); __Requirements__ The zombie has a creature [[grabbed|grabbed]] or [[restrained|restrained]].  __Effect__  The zombie makes a jaws unarmed melee [[Strike]] against the [[grabbed|grabbed]] or [[restrained|restrained]] creature with an attack modifier of +7 that deals 1d8+3 (1d8+3) piercing damage."
+    desc: "⬻ ([[attack]]); __Requirements__ The zombie has a creature [[rules/conditions.md#Grabbed|grabbed]] or [[rules/conditions.md#Restrained|restrained]].  __Effect__  The zombie makes a jaws unarmed melee [[Strike]] against the [[rules/conditions.md#Grabbed|grabbed]] or [[rules/conditions.md#Restrained|restrained]] creature with an attack modifier of +7 that deals 1d8+3 (1d8+3) piercing damage."
 
 speed: 25 feet
 

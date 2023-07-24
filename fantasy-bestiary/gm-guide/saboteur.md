@@ -36,7 +36,7 @@ abilities_top:
     desc: "  The saboteur can [[Craft]] snares and has the supplies to make up to two caltrop snares and up to two hampering snares."
 abilities_bot:
   - name: "Sneak Attack"
-    desc: "  The saboteur deals an extra 1d6 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The saboteur deals an extra 1d6 (1d6) precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
 
 speed: 25 feet
 

@@ -33,13 +33,13 @@ abilityMods: [2, 5, 3, -2, 4, 0]
 
 abilities_top:
   - name: "Smoke Vision"
-    desc: "  The belker ignores the [[concealed|concealed]] condition from smoke."
+    desc: "  The belker ignores the [[rules/conditions.md#Concealed|concealed]] condition from smoke."
 abilities_mid:
   - name: "Smoke Form"
     desc: "  The belker can occupy the same space as other creatures."
 abilities_bot:
   - name: "Noxious Fumes"
-    desc: "⬺ __Requirements__ The belker occupies the same space as a Medium or smaller creature  __Effect__  The belker attempts to flow into the creature's lungs; the creature must attempt a DC 23 Fortitude save. On a failure, the creature partially inhales the belker and is [[immobilized|immobilized]] by the pain of the smoke rasping in its throat and lungs. The creature can attempt to exhale the belker by spending an action coughing and succeeding at a DC 23 Fortitude save. Most of the belker remains outside the creature, so the belker can still act normally. If the belker moves out of the creature's space or uses Noxious Fumes again, the creature automatically exhales it."
+    desc: "⬺ __Requirements__ The belker occupies the same space as a Medium or smaller creature  __Effect__  The belker attempts to flow into the creature's lungs; the creature must attempt a DC 23 Fortitude save. On a failure, the creature partially inhales the belker and is [[rules/conditions.md#Immobilized|immobilized]] by the pain of the smoke rasping in its throat and lungs. The creature can attempt to exhale the belker by spending an action coughing and succeeding at a DC 23 Fortitude save. Most of the belker remains outside the creature, so the belker can still act normally. If the belker moves out of the creature's space or uses Noxious Fumes again, the creature automatically exhales it."
   - name: "Smoke Slash"
     desc: "⬻ __Requirements__ The belker is partially inhaled by a creature  __Effect__  The belker automatically deals its claw damage to the inhaling creature by forming a claw to slash and scrape the creature from within."
 

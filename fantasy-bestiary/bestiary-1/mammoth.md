@@ -36,7 +36,7 @@ abilities_bot:
   - name: "Dual Tusks"
     desc: "⬻  The mammoth makes two tusk [[Strike|Strikes]], each against a different creature. This counts as one attack for the mammoth's multiple attack penalty, and the penalty doesn't increase until after both attacks."
   - name: "Grabbing Trunk"
-    desc: "  A Medium or smaller creature hit by the elephant's trunk is [[grabbed|grabbed]]. If the elephant moves, it can bring the [[grabbed|grabbed]] creature along with it."
+    desc: "  A Medium or smaller creature hit by the elephant's trunk is [[rules/conditions.md#Grabbed|grabbed]]. If the elephant moves, it can bring the [[rules/conditions.md#Grabbed|grabbed]] creature along with it."
   - name: "Trample"
     desc: "⬽  Large or smaller, foot, DC 28."
 

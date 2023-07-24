@@ -34,7 +34,7 @@ abilityMods: [2, 3, 0, 4, 0, 1]
 
 abilities_mid:
   - name: "Blood of the Night"
-    desc: "  The dhampir's penalty and Hit Point reduction from the [[drained|drained]] condition are reduced as though the condition value were 1 lower."
+    desc: "  The dhampir's penalty and Hit Point reduction from the [[rules/conditions.md#Drained|drained]] condition are reduced as though the condition value were 1 lower."
 abilities_top:
   - name: Items
     desc: "dagger, spellbook containing their prepared spells, staff;"

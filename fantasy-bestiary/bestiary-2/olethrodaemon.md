@@ -33,7 +33,7 @@ abilityMods: [10, 6, 7, 2, 6, 8]
 
 abilities_mid:
   - name: "Aura of Doom"
-    desc: " ([[aura]], [[death]], [[divine]]);  60 feet. Any creature that begins its turn in the aura is [[doomed|doomed 1]] for as long as it remains in the aura and for 1 hour thereafter."
+    desc: " ([[aura]], [[death]], [[divine]]);  60 feet. Any creature that begins its turn in the aura is [[rules/conditions.md#Doomed|doomed 1]] for as long as it remains in the aura and for 1 hour thereafter."
 abilities_top:
   - name: Items
     desc: "soul gem (4);"
@@ -43,7 +43,7 @@ abilities_bot:
   - name: "Soul Crush"
     desc: "⬺ ([[manipulate]]); __Requirements__ The olethrodaemon has a soul gem  __Effect__  The olethrodaemon crushes the soul gem in one hand and regains the use of Apocalypse Breath or any one of its innate spells."
   - name: "Swallow Whole"
-    desc: "⬻ ([[attack]]);  Huge, 4d10+10 (4d10+10) bludgeoning and [[drained|drained 2]], Rupture 43. An olethrodaemon has numerous stomachs connected by labyrinthine digestive organs. Swallowed creatures cannot [[Escape]], but can attempt to cut their way out with a 1d6 (1d6) roll. On a roll of 1–3, the creature cuts into yet another stomach. On a roll of 4–6, the creature manages to cut its way out of the olethrodaemon."
+    desc: "⬻ ([[attack]]);  Huge, 4d10+10 (4d10+10) bludgeoning and [[rules/conditions.md#Drained|drained 2]], Rupture 43. An olethrodaemon has numerous stomachs connected by labyrinthine digestive organs. Swallowed creatures cannot [[Escape]], but can attempt to cut their way out with a 1d6 (1d6) roll. On a roll of 1–3, the creature cuts into yet another stomach. On a roll of 4–6, the creature manages to cut its way out of the olethrodaemon."
 
 speed: 35 feet, burrow 35 feet, fly 40 feet
 

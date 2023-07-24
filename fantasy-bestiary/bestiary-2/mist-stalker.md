@@ -34,14 +34,14 @@ abilityMods: [4, 4, 2, 1, 5, 0]
 
 abilities_top:
   - name: "Mist Cloud"
-    desc: " ([[aura]], [[conjuration]], [[primal]], [[water]]);  15 feet. The mist stalker is surrounded by mist. Creatures in the aura are [[concealed|concealed]]. If wind disperses the aura, it returns automatically at the start of the mist stalker's turn. This cloud is suppressed in water."
+    desc: " ([[aura]], [[conjuration]], [[primal]], [[water]]);  15 feet. The mist stalker is surrounded by mist. Creatures in the aura are [[rules/conditions.md#Concealed|concealed]]. If wind disperses the aura, it returns automatically at the start of the mist stalker's turn. This cloud is suppressed in water."
   - name: "Mist Vision"
-    desc: "  The mist stalker ignores the [[concealed|concealed]] condition from mist and fog."
+    desc: "  The mist stalker ignores the [[rules/conditions.md#Concealed|concealed]] condition from mist and fog."
 abilities_bot:
   - name: "Constrict"
     desc: "⬻  1d8+4 (1d8+4) bludgeoning, DC 21."
   - name: "Solidify Mist"
-    desc: "⬻ ([[primal]], [[transmutation]], [[water]]);  The mist stalker makes its mist cloud congeal, causing the aura to be [[terrain|difficult terrain]] until the start of the mist stalker's next turn. In addition, the mist stalker can make the mist even thicker around a single Medium or smaller creature within the cloud. The creature must succeed at a DC 20 Reflex save or become [[immobilized|immobilized]] until it [[Escape|Escapes]] or it is no longer in the mist cloud's emanation."
+    desc: "⬻ ([[primal]], [[transmutation]], [[water]]);  The mist stalker makes its mist cloud congeal, causing the aura to be [[terrain|difficult terrain]] until the start of the mist stalker's next turn. In addition, the mist stalker can make the mist even thicker around a single Medium or smaller creature within the cloud. The creature must succeed at a DC 20 Reflex save or become [[rules/conditions.md#Immobilized|immobilized]] until it [[Escape|Escapes]] or it is no longer in the mist cloud's emanation."
 
 speed: 20 feet, climb 20 feet, swim 30 feet
 

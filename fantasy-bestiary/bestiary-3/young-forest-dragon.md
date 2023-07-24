@@ -40,7 +40,7 @@ abilities_mid:
     desc: "⬲ ([[healing]], [[necromancy]], [[primal]]); __Frequency__ once per hour __Trigger__ The forest dragon is targeted with a water spell or effect __Effect__  The forest dragon gains 30 temporary Hit Points."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[evocation]], [[primal]]);  The dragon unleashes a swarm of insects that deals 10d6 (10d6) piercing damage in a 30-foot cone (DC 29 basic Reflex save) before dispersing. A creature that critically fails is [[stunned|stunned 2]] from the insects' venom; this is a [[poison]] effect. The dragon can't use Breath Weapon again for 1d4 (1d4) rounds."
+    desc: "⬺ ([[evocation]], [[primal]]);  The dragon unleashes a swarm of insects that deals 10d6 (10d6) piercing damage in a 30-foot cone (DC 29 basic Reflex save) before dispersing. A creature that critically fails is [[rules/conditions.md#Stunned|stunned 2]] from the insects' venom; this is a [[poison]] effect. The dragon can't use Breath Weapon again for 1d4 (1d4) rounds."
   - name: "Coiling Frenzy"
     desc: "⬺  The dragon makes one claw [[Strike]] and one tail [[Strike]] in either order, each against the same target. If either [[Strike]] hits, the dragon automatically Grabs the target."
   - name: "Constrict"

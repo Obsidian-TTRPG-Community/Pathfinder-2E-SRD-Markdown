@@ -32,7 +32,7 @@ abilityMods: [2, 4, 3, -5, 0, -4]
 
 abilities_bot:
   - name: "Centipede Swarm Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 20 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d6 (1d6) poison damage and [[flat-footed|flat-footed]] (1 round) __Stage 2__ 1d8 (1d8) poison damage, [[clumsy|clumsy 1]], and [[flat-footed|flat-footed]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 20 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d6 (1d6) poison damage and [[rules/conditions.md#Flat-Footed|flat-footed]] (1 round) __Stage 2__ 1d8 (1d8) poison damage, [[rules/conditions.md#Clumsy|clumsy 1]], and [[rules/conditions.md#Flat-Footed|flat-footed]] (1 round)"
   - name: "Swarming Bites"
     desc: "⬻  Each enemy in the swarm's space takes 1d8 (1d8) piercing damage (DC 20 basic Reflex save) plus centipede swarm venom."
 

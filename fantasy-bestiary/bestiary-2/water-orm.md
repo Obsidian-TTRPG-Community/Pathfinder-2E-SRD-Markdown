@@ -35,7 +35,7 @@ abilityMods: [8, 5, 5, -3, 5, 0]
 
 abilities_top:
   - name: "Slow Metabolism"
-    desc: "  A water orm can go for 10 years without feeding. Beyond this limit, the water orm's hunger causes it to become [[slowed|slowed 1]], but doesn't otherwise impact its lifespan. A water orm that's [[slowed|slowed]] as a result of starvation can remove this condition by using Swallow Whole to gulp down a meal."
+    desc: "  A water orm can go for 10 years without feeding. Beyond this limit, the water orm's hunger causes it to become [[rules/conditions.md#Slowed|slowed 1]], but doesn't otherwise impact its lifespan. A water orm that's [[rules/conditions.md#Slowed|slowed]] as a result of starvation can remove this condition by using Swallow Whole to gulp down a meal."
   - name: "Undetectable"
     desc: " ([[abjuration]], [[primal]]);  A water orm automatically tries to counteract any detection, revelation, or scrying divination attempted against it, using its [[Stealth]] modifier for the counteract check."
 abilities_bot:

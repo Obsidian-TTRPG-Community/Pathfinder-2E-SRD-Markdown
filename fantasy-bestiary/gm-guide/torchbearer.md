@@ -33,7 +33,7 @@ abilityMods: [2, 3, 1, 0, 1, 1]
 
 abilities_bot:
   - name: "Torch Combatant"
-    desc: "  A torchbearer is adept at attacking with [[torch|torches]] and deals 1 [[persistent damage|persistent fire damage]] when they critically hit with a torch."
+    desc: "  A torchbearer is adept at attacking with [[torch|torches]] and deals 1 [[rules/conditions.md#Persistent%20Damage|persistent fire damage]] when they critically hit with a torch."
 abilities_top:
   - name: Items
     desc: "climbing kit, dagger, hand crossbow (20 bolts), tindertwig (5), torch (4);"

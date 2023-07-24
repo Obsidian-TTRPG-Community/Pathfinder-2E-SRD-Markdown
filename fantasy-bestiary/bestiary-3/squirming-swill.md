@@ -36,10 +36,10 @@ abilities_top:
     desc: "  Squirming swill can sense nearby creatures through vibration and air or water movement."
 abilities_mid:
   - name: "Malodorous Smoke"
-    desc: " ([[aura]], [[conjuration]], [[curse]], [[magical]], [[olfactory]]);  15 feet. The squirming swill reeks of food that is simultaneously burned and spoiled. A creature that enters or starts its turn in the emanation must succeed at a DC 17 Fortitude save or become [[sickened|sickened 1]] ([[sickened|sickened 2]] on a critical failure). A creature that succeeds at its save is temporarily immune for 1 minute. When a creature succeeds at a Fortitude save to recover from this sickness, it regurgitates a chunk of food that immediately slithers away to join the swill, restoring 3 Hit Points to the swill."
+    desc: " ([[aura]], [[conjuration]], [[curse]], [[magical]], [[olfactory]]);  15 feet. The squirming swill reeks of food that is simultaneously burned and spoiled. A creature that enters or starts its turn in the emanation must succeed at a DC 17 Fortitude save or become [[rules/conditions.md#Sickened|sickened 1]] ([[rules/conditions.md#Sickened|sickened 2]] on a critical failure). A creature that succeeds at its save is temporarily immune for 1 minute. When a creature succeeds at a Fortitude save to recover from this sickness, it regurgitates a chunk of food that immediately slithers away to join the swill, restoring 3 Hit Points to the swill."
 abilities_bot:
   - name: "Slippery Grease"
-    desc: "  The first time on its turn that the squirming swill hits a creature with its offal [[Strike]], hot grease from its body splatters the ground in the target's space. The target must succeed at a DC 17 Reflex save or [[Acrobatics]] check, falling [[prone|prone]] on a failure."
+    desc: "  The first time on its turn that the squirming swill hits a creature with its offal [[Strike]], hot grease from its body splatters the ground in the target's space. The target must succeed at a DC 17 Reflex save or [[Acrobatics]] check, falling [[rules/conditions.md#Prone|prone]] on a failure."
 
 speed: 20 feet, swim 15 feet
 

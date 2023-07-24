@@ -34,7 +34,7 @@ abilities_bot:
   - name: "Baffling Bluff"
     desc: "⬺ ([[emotion]], [[enchantment]], [[mental]], [[primal]]);  The brownie's antics can confuse and disorient a creature. When the brownie uses."
   - name: "Baffling"
-    desc: "  Bluff, it targets a single creature within 30 feet; that creature must attempt a DC 17 Will save. The target is temporarily immune to Baffling Bluff for 1 minute.\n__Critical Success__ The target is unaffected.\n__Success__ The target is fooled momentarily and is [[flat-footed|flat-footed]] against the next melee [[Strike]] the brownie makes against it before the end of the brownie's next turn.\n__Failure__ The target is [[confused|confused]] for 1 round.\n__Critical Failure__ The target is [[confused|confused]] for 1 minute. It can attempt a new save at the end of each of its turns to end the [[confused|confused]] condition."
+    desc: "  Bluff, it targets a single creature within 30 feet; that creature must attempt a DC 17 Will save. The target is temporarily immune to Baffling Bluff for 1 minute.\n__Critical Success__ The target is unaffected.\n__Success__ The target is fooled momentarily and is [[rules/conditions.md#Flat-Footed|flat-footed]] against the next melee [[Strike]] the brownie makes against it before the end of the brownie's next turn.\n__Failure__ The target is [[rules/conditions.md#Confused|confused]] for 1 round.\n__Critical Failure__ The target is [[rules/conditions.md#Confused|confused]] for 1 minute. It can attempt a new save at the end of each of its turns to end the [[rules/conditions.md#Confused|confused]] condition."
 abilities_top:
   - name: Items
     desc: "shortsword;"

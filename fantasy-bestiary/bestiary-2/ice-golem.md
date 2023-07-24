@@ -35,7 +35,7 @@ abilityMods: [5, 0, 4, -5, 0, -5]
 
 abilities_mid:
   - name: "Golem Antimagic"
-    desc: "  harmed by fire (4d6 (4d6), 1d10 (1d10) from areas or [[persistent damage|persistent damage]]); healed by cold (area 1d6 (1d6) HP); [[slowed|slowed]] by water."
+    desc: "  harmed by fire (4d6 (4d6), 1d10 (1d10) from areas or [[rules/conditions.md#Persistent%20Damage|persistent damage]]); healed by cold (area 1d6 (1d6) HP); [[rules/conditions.md#Slowed|slowed]] by water."
   - name: "Icy Demise"
     desc: " ([[arcane]], [[cold]], [[evocation]]);  When an ice golem is destroyed, its body explodes in a blast of frigid air and razor-sharp ice, dealing 2d6 (2d6) slashing damage and 2d6 (2d6) cold damage to creatures in a 20-foot emanation, with a DC 19 basic Reflex save."
   - name: "Vulnerable to Endure Elements"
@@ -44,7 +44,7 @@ abilities_bot:
   - name: "Breath Weapon"
     desc: "⬺ ([[arcane]], [[cold]], [[evocation]]);  The ice golem exhales a blast of freezing mist that deals 6d6 (6d6) cold damage in a 30-foot cone (DC 22 basic Reflex save). It can't use Breath Weapon again for 1d4 (1d4) rounds."
   - name: "Creeping Cold"
-    desc: " ([[arcane]], [[cold]], [[evocation]]);  When the ice golem gets a critical hit with a fist [[Strike]], the target also takes 2d6 (2d6) [[persistent damage|persistent cold damage]] and is [[slowed|slowed 1]] for 1 round."
+    desc: " ([[arcane]], [[cold]], [[evocation]]);  When the ice golem gets a critical hit with a fist [[Strike]], the target also takes 2d6 (2d6) [[rules/conditions.md#Persistent%20Damage|persistent cold damage]] and is [[rules/conditions.md#Slowed|slowed 1]] for 1 round."
 
 speed: 25 feet
 

@@ -31,14 +31,14 @@ abilityMods: [6, 3, 5, -4, 3, 0]
 
 abilities_mid:
   - name: "Feign Death"
-    desc: "⬲ __Trigger__ The opossum is reduced below 70 HP __Effect__  The khravgodon collapses. It is [[flat-footed|flat-footed]] and can use actions that require only its mind, but any other action ends the ruse. A successful DC 18 [[Perception]] check to [[Seek]] or [[Medicine]] check to [[Recall Knowledge]] is required to determine that the animal is not, in fact, dead."
+    desc: "⬲ __Trigger__ The opossum is reduced below 70 HP __Effect__  The khravgodon collapses. It is [[rules/conditions.md#Flat-Footed|flat-footed]] and can use actions that require only its mind, but any other action ends the ruse. A successful DC 18 [[Perception]] check to [[Seek]] or [[Medicine]] check to [[Recall Knowledge]] is required to determine that the animal is not, in fact, dead."
   - name: "Revived Retaliation"
     desc: "⬲ __Trigger__ The opossum is attacked or disturbed by a creature within reach while Feigning Death __Effect__  The opossum [[Strike|Strikes]] the triggering creature."
 abilities_bot:
   - name: "Crush Chitin"
-    desc: "⬻ __Requirements__ The khravgodon has a creature [[grabbed|grabbed]] or [[restrained|restrained]]  __Effect__  The khravgodon bites the creature, dealing 2d12+9 (2d12+9) piercing damage (DC 28 basic Fortitude save) that ignores the first 5 of the target's Hardness or resistance to physical damage. On a failed save, the target also takes a –2 circumstance penalty to AC for 1 round."
+    desc: "⬻ __Requirements__ The khravgodon has a creature [[rules/conditions.md#Grabbed|grabbed]] or [[rules/conditions.md#Restrained|restrained]]  __Effect__  The khravgodon bites the creature, dealing 2d12+9 (2d12+9) piercing damage (DC 28 basic Fortitude save) that ignores the first 5 of the target's Hardness or resistance to physical damage. On a failed save, the target also takes a –2 circumstance penalty to AC for 1 round."
   - name: "Grasping Tail"
-    desc: "  A khravgodon can drag a Large or smaller creature it has [[grabbed|grabbed]] with its tail along with it when it [[Stride|Strides]]."
+    desc: "  A khravgodon can drag a Large or smaller creature it has [[rules/conditions.md#Grabbed|grabbed]] with its tail along with it when it [[Stride|Strides]]."
 
 speed: 30 feet, burrow 15 feet, climb 15 feet
 

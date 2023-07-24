@@ -31,11 +31,11 @@ abilityMods: [3, 3, 3, -4, 0, -2]
 
 abilities_bot:
   - name: "Pounce"
-    desc: "⬻  The wolverine [[Stride|Strides]] and makes a [[Strike]] at the end of that movement. If the wolverine begins this action [[hidden|hidden]], it remains [[hidden|hidden]] until after the attack."
+    desc: "⬻  The wolverine [[Stride|Strides]] and makes a [[Strike]] at the end of that movement. If the wolverine begins this action [[rules/conditions.md#Hidden|hidden]], it remains [[rules/conditions.md#Hidden|hidden]] until after the attack."
   - name: "Rend"
     desc: "⬻ ([[claw]]); "
   - name: "Wolverine Rage"
-    desc: "⬻ ([[concentrate]], [[emotion]], [[mental]]);  The wolverine enters a state of pure rage that lasts either for 1 minute, until there are no enemies it can perceive, or until it falls [[unconscious|unconscious]], whichever comes first. While raging, the wolverine has AC 17, its jaws [[Strike]] deals 1d8+7 (1d8+7) damage, and its claw [[Strike]] deals 1d6+7 (1d6+7) damage. While raging, the wolverine can't use actions that have the [[concentrate]] trait, except for [[Seek]]. After it's stopped raging, a wolverine can't use Wolverine [[Rage]] again for 1 minute."
+    desc: "⬻ ([[concentrate]], [[emotion]], [[mental]]);  The wolverine enters a state of pure rage that lasts either for 1 minute, until there are no enemies it can perceive, or until it falls [[rules/conditions.md#Unconscious|unconscious]], whichever comes first. While raging, the wolverine has AC 17, its jaws [[Strike]] deals 1d8+7 (1d8+7) damage, and its claw [[Strike]] deals 1d6+7 (1d6+7) damage. While raging, the wolverine can't use actions that have the [[concentrate]] trait, except for [[Seek]]. After it's stopped raging, a wolverine can't use Wolverine [[Rage]] again for 1 minute."
 
 speed: 25 feet, burrow 10 feet, climb 10 feet
 

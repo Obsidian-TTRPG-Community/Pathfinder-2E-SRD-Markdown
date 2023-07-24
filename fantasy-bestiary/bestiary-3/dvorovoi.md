@@ -37,7 +37,7 @@ abilities_top:
     desc: "pitchfork;"
 abilities_mid:
   - name: "Shy"
-    desc: "  A domovoi is naturally [[invisible|invisible]] while within sight of their bound home. The domovoi can become visible, or even selectively visible—allowing some people to see them."
+    desc: "  A domovoi is naturally [[rules/conditions.md#Invisible|invisible]] while within sight of their bound home. The domovoi can become visible, or even selectively visible—allowing some people to see them."
 
 speed: 30 feet
 

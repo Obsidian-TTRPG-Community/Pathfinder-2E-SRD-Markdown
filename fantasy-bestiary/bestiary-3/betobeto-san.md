@@ -35,14 +35,14 @@ abilityMods: [4, 7, 5, 4, 4, 5]
 
 abilities_top:
   - name: "Fearsense"
-    desc: " ([[divination]], [[mental]], [[occult]]);  The betobeto-san is aware of all [[frightened|frightened]] creatures within the listed range."
+    desc: " ([[divination]], [[mental]], [[occult]]);  The betobeto-san is aware of all [[rules/conditions.md#Frightened|frightened]] creatures within the listed range."
   - name: Items
     desc: "sandals;"
 abilities_mid:
   - name: "Ominous Footsteps"
-    desc: " ([[auditory]], [[aura]], [[emotion]], [[fear]], [[illusion]], [[mental]], [[occult]]);  60 feet. The betobeto-san's footsteps seem to draw ever closer, yet the source remains difficult to pinpoint. Each creature that starts its turn within 60 feet of the betobeto-san must attempt a DC 29 Will save.\n__Critical Success__ The creature is unaffected and is temporarily immune for 1 minute.\n__Success__ The creature becomes [[frightened|frightened 1]].\n__Failure__ The creature becomes [[frightened|frightened 2]].\n__Critical Failure__ The creature becomes [[frightened|frightened 4]]."
+    desc: " ([[auditory]], [[aura]], [[emotion]], [[fear]], [[illusion]], [[mental]], [[occult]]);  60 feet. The betobeto-san's footsteps seem to draw ever closer, yet the source remains difficult to pinpoint. Each creature that starts its turn within 60 feet of the betobeto-san must attempt a DC 29 Will save.\n__Critical Success__ The creature is unaffected and is temporarily immune for 1 minute.\n__Success__ The creature becomes [[rules/conditions.md#Frightened|frightened 1]].\n__Failure__ The creature becomes [[rules/conditions.md#Frightened|frightened 2]].\n__Critical Failure__ The creature becomes [[rules/conditions.md#Frightened|frightened 4]]."
   - name: "Shadow Invisibility"
-    desc: "  The betobeto-san is [[invisible|invisible]] unless within an area of bright light."
+    desc: "  The betobeto-san is [[rules/conditions.md#Invisible|invisible]] unless within an area of bright light."
   - name: "Shadow Step"
     desc: "⬲ ([[conjuration]], [[occult]], [[shadow]], [[teleportation]]); __Requirements__ The betobeto-san isn't already within an area of bright light __Trigger__ A bright light source reveals the betobeto-san __Effect__  The betobeto-san Steps briefly into the [[Shadow Plane]] and then back again, appearing up to 30 feet away from where they began."
 abilities_bot:

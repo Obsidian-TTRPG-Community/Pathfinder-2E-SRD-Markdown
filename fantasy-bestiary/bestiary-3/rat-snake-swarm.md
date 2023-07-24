@@ -32,7 +32,7 @@ abilityMods: [0, 4, 2, -4, 2, -3]
 
 abilities_mid:
   - name: "Mass Wriggle"
-    desc: "⬲ __Trigger__ The rat snake swarm takes damage from a melee [[Strike]] __Effect__  Snakes slither up and around the creature's weapon and limbs. The target must succeed at a DC 15 Will save or become [[frightened|frightened 1]]."
+    desc: "⬲ __Trigger__ The rat snake swarm takes damage from a melee [[Strike]] __Effect__  Snakes slither up and around the creature's weapon and limbs. The target must succeed at a DC 15 Will save or become [[rules/conditions.md#Frightened|frightened 1]]."
 abilities_bot:
   - name: "Swarming Strikes"
     desc: "⬻  Each enemy in the swarm's space takes 1d8 (1d8) piercing damage (DC 17 basic Reflex save)."

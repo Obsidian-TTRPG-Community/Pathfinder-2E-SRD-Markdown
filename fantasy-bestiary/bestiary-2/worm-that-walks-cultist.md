@@ -55,7 +55,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ tendril +29 ([[reach|reach 10 feet]]); __Damage__ 4d8+14 (4d8+14) [[persistent damage|persistent piercing damage]]"
+    desc: "⬻ tendril +29 ([[reach|reach 10 feet]]); __Damage__ 4d8+14 (4d8+14) [[rules/conditions.md#Persistent%20Damage|persistent piercing damage]]"
 
 spellcasting:
   - name: "Occult Spontaneous Spells"

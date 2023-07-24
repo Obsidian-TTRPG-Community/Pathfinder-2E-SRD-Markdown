@@ -33,7 +33,7 @@ abilityMods: [2, 4, 2, 1, 0, 1]
 
 abilities_top:
   - name: "Steady Balance"
-    desc: "  When the acrobat rolls a success on an [[Acrobatics]] check, they get a critical success instead. They aren't [[flat-footed|flat-footed]] when attempting to [[Balance]] and can attempt an [[Acrobatics]] check instead of a Reflex save to [[Grab an Edge]]."
+    desc: "  When the acrobat rolls a success on an [[Acrobatics]] check, they get a critical success instead. They aren't [[rules/conditions.md#Flat-Footed|flat-footed]] when attempting to [[Balance]] and can attempt an [[Acrobatics]] check instead of a Reflex save to [[Grab an Edge]]."
   - name: Items
     desc: "climbing kit, dagger (5), rope (50 feet);"
 abilities_mid:
@@ -43,7 +43,7 @@ abilities_mid:
     desc: "⬲ __Trigger__ The acrobat is targeted with a melee or ranged attack by an attacker they can see __Effect__  The acrobat gains a +2 circumstance bonus to AC against the triggering attack."
 abilities_bot:
   - name: "Sneak Attack"
-    desc: "  The acrobat deals an extra 1d6 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The acrobat deals an extra 1d6 (1d6) precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
   - name: "Swinging Strike"
     desc: "⬺  The acrobat swings on a rope or trapeze, moving up to double their Speed. At any point during the swing, they can make a melee [[Strike]]."
 

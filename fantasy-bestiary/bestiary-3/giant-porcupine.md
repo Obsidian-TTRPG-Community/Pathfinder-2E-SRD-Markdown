@@ -31,12 +31,12 @@ abilityMods: [4, 2, 4, -4, 2, 0]
 
 abilities_mid:
   - name: "Passive Points"
-    desc: "  A creature that hits a porcupine with an unarmed [[Strike]] or a non-reach melee [[Strike]] takes 1d8 (1d8) piercing damage (basic Reflex save) On a critical failure, the creature also takes 1d4 (1d4) [[persistent damage|persistent piercing damage]] as the quills hook into its flesh."
+    desc: "  A creature that hits a porcupine with an unarmed [[Strike]] or a non-reach melee [[Strike]] takes 1d8 (1d8) piercing damage (basic Reflex save) On a critical failure, the creature also takes 1d4 (1d4) [[rules/conditions.md#Persistent%20Damage|persistent piercing damage]] as the quills hook into its flesh."
 abilities_bot:
   - name: "Embed Quill"
-    desc: "  A creature damaged by the porcupine's quills [[Strike]] must succeed at a DC 18 Reflex save or some of the quills remain embedded in its body, dealing 1d4 (1d4) [[persistent damage|persistent piercing damage]]."
+    desc: "  A creature damaged by the porcupine's quills [[Strike]] must succeed at a DC 18 Reflex save or some of the quills remain embedded in its body, dealing 1d4 (1d4) [[rules/conditions.md#Persistent%20Damage|persistent piercing damage]]."
   - name: "Rearward Rush"
-    desc: "⬺  The porcupine scuttles backward, quills extended. It [[Stride|Strides]] twice, then makes a quill [[Strike]]. The target is [[flat-footed|flat-footed]] against this [[Strike]] unless it has seen a Rearward Rush before."
+    desc: "⬺  The porcupine scuttles backward, quills extended. It [[Stride|Strides]] twice, then makes a quill [[Strike]]. The target is [[rules/conditions.md#Flat-Footed|flat-footed]] against this [[Strike]] unless it has seen a Rearward Rush before."
 
 speed: 25 feet
 

@@ -40,7 +40,7 @@ abilities_bot:
   - name: "Shove into Stone"
     desc: " ([[arcane]], [[earth]], [[transmutation]]);  When the guecubu successfully Shoves a creature into a stone barrier, the target must succeed at a DC 26 Reflex save or become merged with the barrier, with the effects of meld into stone until the target [[Escape|Escapes]] (DC 26)."
   - name: "Wrathful Misfortune"
-    desc: " ([[arcane]], [[curse]], [[enchantment]]);  A creature damaged by a guecubu must succeed at a DC 26 Will save or become cursed with consummate bad luck. The creature becomes [[clumsy|clumsy 2]]. Each time that creature rolls initiative, on their next roll they must roll twice and use the worse result; this is a [[misfortune]] effect."
+    desc: " ([[arcane]], [[curse]], [[enchantment]]);  A creature damaged by a guecubu must succeed at a DC 26 Will save or become cursed with consummate bad luck. The creature becomes [[rules/conditions.md#Clumsy|clumsy 2]]. Each time that creature rolls initiative, on their next roll they must roll twice and use the worse result; this is a [[misfortune]] effect."
 
 speed: 25 feet, burrow 15 feet; earth glide;
 

@@ -35,14 +35,14 @@ abilityMods: [5, 6, 2, 2, 4, 6]
 
 abilities_mid:
   - name: "Peaceful Aura"
-    desc: " ([[abjuration]], [[aura]], [[divine]], [[emotion]], [[mental]]);  60 feet. Creatures within a kirin's peaceful aura attempting to use a [[hostile|hostile]] action must first attempt a DC 22 Will save; on a failure, the [[hostile|hostile]] action is disrupted. If a creature in the aura successfully uses a [[hostile|hostile]] action, it's temporarily immune to peaceful aura for 24 hours, and while it's temporarily immune, other creatures in the kirin's peaceful aura can perform [[hostile|hostile]] actions toward it without needing to attempt a Will save. A kirin can select creatures within their aura that can use [[hostile|hostile]] actions without needing to attempt a Will save."
+    desc: " ([[abjuration]], [[aura]], [[divine]], [[emotion]], [[mental]]);  60 feet. Creatures within a kirin's peaceful aura attempting to use a [[rules/conditions.md#Hostile|hostile]] action must first attempt a DC 22 Will save; on a failure, the [[rules/conditions.md#Hostile|hostile]] action is disrupted. If a creature in the aura successfully uses a [[rules/conditions.md#Hostile|hostile]] action, it's temporarily immune to peaceful aura for 24 hours, and while it's temporarily immune, other creatures in the kirin's peaceful aura can perform [[rules/conditions.md#Hostile|hostile]] actions toward it without needing to attempt a Will save. A kirin can select creatures within their aura that can use [[rules/conditions.md#Hostile|hostile]] actions without needing to attempt a Will save."
   - name: "Deflecting Gale"
     desc: "⬲ __Trigger__ The kirin is targeted with a ranged [[Strike]] __Effect__  The kirin intensifies the wind around themself, gaining a +4 circumstance bonus to AC against the triggering attack."
 abilities_bot:
   - name: "Breath Weapon"
     desc: "⬺ ([[divine]], [[evocation]], [[fire]]);  The kirin breathes fire in a 30-foot cone, dealing 8d6 (8d6) fire damage (DC 25 basic Reflex save). The kirin can't use Breath Weapon again for 1d4 (1d4) rounds."
   - name: "Rearing Thrust"
-    desc: "⬺  The kirin rushes forward, rears up on their hind legs, and descends upon their target with their horn. The kirin [[Stride|Strides]] and makes a horn [[Strike]]. If this [[Strike]] hits, it deals an additional 1d8 (1d8) damage, and the target is knocked [[prone|prone]]."
+    desc: "⬺  The kirin rushes forward, rears up on their hind legs, and descends upon their target with their horn. The kirin [[Stride|Strides]] and makes a horn [[Strike]]. If this [[Strike]] hits, it deals an additional 1d8 (1d8) damage, and the target is knocked [[rules/conditions.md#Prone|prone]]."
 
 speed: 40 feet
 

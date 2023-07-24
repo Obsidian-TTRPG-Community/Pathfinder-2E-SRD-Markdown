@@ -40,7 +40,7 @@ abilities_top:
     desc: "[[dagger]] (2), [[shortsword]];"
 abilities_bot:
   - name: "Sneak Attack"
-    desc: "  A skulk's [[Strike|Strikes]] deal an extra 1d6 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  A skulk's [[Strike|Strikes]] deal an extra 1d6 (1d6) precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
 
 speed: 25 feet
 

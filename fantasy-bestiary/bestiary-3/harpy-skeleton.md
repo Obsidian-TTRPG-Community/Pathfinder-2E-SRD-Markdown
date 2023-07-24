@@ -33,7 +33,7 @@ abilityMods: [4, 4, 2, -5, 0, 4]
 
 abilities_bot:
   - name: "Shriek"
-    desc: "⬺ ([[auditory]], [[concentrate]], [[emotion]], [[fear]], [[mental]]);  The harpy skeleton emits an unearthly, bone-chilling scream that deals 4d10 (4d10) mental damage to all creatures in a 30-foot cone (DC 26 basic Will save). A creature that fails its save is [[frightened|frightened 1]] (or [[frightened|frightened 2]] on a critical failure). The harpy skeleton can't Shriek again for 1d4 (1d4) rounds."
+    desc: "⬺ ([[auditory]], [[concentrate]], [[emotion]], [[fear]], [[mental]]);  The harpy skeleton emits an unearthly, bone-chilling scream that deals 4d10 (4d10) mental damage to all creatures in a 30-foot cone (DC 26 basic Will save). A creature that fails its save is [[rules/conditions.md#Frightened|frightened 1]] (or [[rules/conditions.md#Frightened|frightened 2]] on a critical failure). The harpy skeleton can't Shriek again for 1d4 (1d4) rounds."
 
 speed: 20 feet, fly 40 feet
 

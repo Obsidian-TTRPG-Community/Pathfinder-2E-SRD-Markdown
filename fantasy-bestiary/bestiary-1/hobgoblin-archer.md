@@ -41,7 +41,7 @@ abilities_bot:
   - name: "Crossbow Precision"
     desc: "  The first time the archer hits with a crossbow attack in a round, it deals 1d8 (1d8) extra precision damage."
   - name: "Perfect Aim"
-    desc: "  The hobgoblin archer ignores the [[concealed|concealed]] condition. Their targets don't benefit from lesser cover, and they reduce the AC bonus from standard cover by 2 against the hobgoblin archer's attack."
+    desc: "  The hobgoblin archer ignores the [[rules/conditions.md#Concealed|concealed]] condition. Their targets don't benefit from lesser cover, and they reduce the AC bonus from standard cover by 2 against the hobgoblin archer's attack."
   - name: "Running Reload"
     desc: "⬻  The archer [[Stride|Strides]], [[Step|Steps]], or [[Sneak|Sneaks]], then Interacts to reload."
 

@@ -40,7 +40,7 @@ abilities_bot:
   - name: "Dazzling"
     desc: "  Burst again. A creature that attempts this save is immune to all."
   - name: "Dazzling"
-    desc: "  Bursts for 1 minute.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is [[dazzled|dazzled]] for 1 round.\n__Failure__ The creature is [[dazzled|dazzled]] for 1 minute.\n__Critical Failure__ The creature is [[blinded|blinded]] for 1 round and [[dazzled|dazzled]] for 1 minute."
+    desc: "  Bursts for 1 minute.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is [[rules/conditions.md#Dazzled|dazzled]] for 1 round.\n__Failure__ The creature is [[rules/conditions.md#Dazzled|dazzled]] for 1 minute.\n__Critical Failure__ The creature is [[rules/conditions.md#Blinded|blinded]] for 1 round and [[rules/conditions.md#Dazzled|dazzled]] for 1 minute."
   - name: "Double Claw"
     desc: "⬻ __Frequency__ once per round  __Effect__  The d'ziriak makes two claw [[Strike|Strikes]]. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses. This counts as two attacks for the d'ziriak's multiple attack penalty, and the penalty doesn't increase until after both attacks."
 

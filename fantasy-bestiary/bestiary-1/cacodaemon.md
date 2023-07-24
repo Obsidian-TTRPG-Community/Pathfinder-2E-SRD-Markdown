@@ -33,7 +33,7 @@ abilityMods: [0, 3, 2, -1, 1, 2]
 
 abilities_bot:
   - name: "Cacodaemonia"
-    desc: " ([[disease]]);  __Saving Throw__ DC 17 Fortitude. __Stage 1__ carrier (1 day) __Stage 2__ [[stupefied|stupefied 1]] (1 day) __Stage 3__ [[stupefied|stupefied 2]] (1 day)"
+    desc: " ([[disease]]);  __Saving Throw__ DC 17 Fortitude. __Stage 1__ carrier (1 day) __Stage 2__ [[rules/conditions.md#Stupefied|stupefied 1]] (1 day) __Stage 3__ [[rules/conditions.md#Stupefied|stupefied 2]] (1 day)"
   - name: "Change Shape"
     desc: "⬻ ([[concentrate]], [[divine]], [[polymorph]], [[transmutation]]);  <ul class='inner-bullet-list'><li>__Lizard__ Speed 20 feet; Melee jaws +8 (agile, finesse), Damage 1d8+1 (1d8+1) piercing</li><li>__Octopus size__ Small; Speed 20 feet, swim 30 feet; Melee tentacle +8 (finesse), Damage 1d8+1 (1d8+1) bludgeoning plus Grab; Melee beak +8 (agile, finesse), Damage 1d6 (1d6) piercing plus 2 poison</li><li>__Scorpion size__ Small; Speed 30 feet; Melee pincer +8 (agile, finesse), Damage 1d6+1 (1d6+1) bludgeoning plus Grab; Melee stinger +8 (agile, finesse), Damage 1d6+1 (1d6+1) piercing plus 1d4 (1d4) poison</li></ul>"
   - name: "Soul Lock"

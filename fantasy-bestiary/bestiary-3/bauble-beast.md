@@ -55,11 +55,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +16 __Damage__ 1d8+7 (1d8+7) piercing plus 1d6 (1d6) [[persistent damage|persistent acid]] and philanthropic bile"
+    desc: "⬻ jaws +16 __Damage__ 1d8+7 (1d8+7) piercing plus 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent acid]] and philanthropic bile"
   - name: Melee
     desc: "⬻ leg +16 ([[agile]]); __Damage__ 1d10+7 (1d10+7) bludgeoning"
   - name: Ranged
-    desc: "⬻ bile +16 ([[acid]], [[range increment|range increment 30 feet]]); __Damage__ 2d8 (2d8) acid plus 1d6 (1d6) [[persistent damage|persistent acid]] and philanthropic bile"
+    desc: "⬻ bile +16 ([[acid]], [[range increment|range increment 30 feet]]); __Damage__ 2d8 (2d8) acid plus 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent acid]] and philanthropic bile"
 
 sourcebook: "_Bestiary 3_, page 28."
 ```

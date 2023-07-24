@@ -41,7 +41,7 @@ abilities_bot:
   - name: "Leap Attack"
     desc: "⬺  The morlock [[Stride|Strides]] up to twice its Speed, during which it attempts a [[High Jump]] or a [[Long Jump]]. At any point during its movement, the morlock can make a melee [[Strike]] against an enemy in its reach. The morlock then can't use [[Leap]] Attack for 1 round."
   - name: "Sneak Attack"
-    desc: "  A morlock's [[Strike|Strikes]] deal an extra 1d6 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  A morlock's [[Strike|Strikes]] deal an extra 1d6 (1d6) precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
   - name: "Swarming Stance"
     desc: "  A morlock can share the same space as another morlock, but no more than two morlocks can occupy the same space. When morlocks share the same space, they gain a +1 circumstance bonus to attack rolls."
 

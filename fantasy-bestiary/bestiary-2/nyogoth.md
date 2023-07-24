@@ -37,9 +37,9 @@ abilities_mid:
     desc: "⬲ __Trigger__ The nyogoth takes piercing or slashing damage __Effect__  The nyogoth sprays its acidic blood on adjacent creatures, dealing 6d6 (6d6) acid damage (DC 29 basic Reflex save)."
 abilities_bot:
   - name: "Feeding Frenzy"
-    desc: "⬻ __Requirements__ The nyogoth has [[grabbed|grabbed]] a creature  __Effect__  The nyogoth slavers and chews at the [[grabbed|grabbed]] creature, dealing 2d6+7 (2d6+7) slashing and 1d6 (1d6) acid damage (DC 29 basic Fortitude save)."
+    desc: "⬻ __Requirements__ The nyogoth has [[rules/conditions.md#Grabbed|grabbed]] a creature  __Effect__  The nyogoth slavers and chews at the [[rules/conditions.md#Grabbed|grabbed]] creature, dealing 2d6+7 (2d6+7) slashing and 1d6 (1d6) acid damage (DC 29 basic Fortitude save)."
   - name: "Nauseating Display"
-    desc: "⬺ ([[concentrate]], [[emotion]], [[enchantment]], [[fear]], [[incapacitation]], [[mental]], [[occult]], [[visual]]);  The nyogoth untangles its tentacles and prolapses its many mouths, turning itself inside out in a truly nauseating display. Creatures in a 30-foot emanation must attempt a DC 29 Will save, after which they are temporarily immune to further Nauseating Displays for 1 minute.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is [[sickened|sickened 1]].\n__Failure__ The creature is [[stunned|stunned 3]] and [[sickened|sickened 1]].\n__Critical Failure__ The creature is [[stunned|stunned 5]] and [[sickened|sickened 2]]."
+    desc: "⬺ ([[concentrate]], [[emotion]], [[enchantment]], [[fear]], [[incapacitation]], [[mental]], [[occult]], [[visual]]);  The nyogoth untangles its tentacles and prolapses its many mouths, turning itself inside out in a truly nauseating display. Creatures in a 30-foot emanation must attempt a DC 29 Will save, after which they are temporarily immune to further Nauseating Displays for 1 minute.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is [[rules/conditions.md#Sickened|sickened 1]].\n__Failure__ The creature is [[rules/conditions.md#Stunned|stunned 3]] and [[rules/conditions.md#Sickened|sickened 1]].\n__Critical Failure__ The creature is [[rules/conditions.md#Stunned|stunned 5]] and [[rules/conditions.md#Sickened|sickened 2]]."
 
 speed: 5 feet, fly 25 feet
 

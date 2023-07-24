@@ -44,7 +44,7 @@ abilities_bot:
   - name: "Quick Draw"
     desc: "⬻  The drow fighter draws a weapon using the [[Interact]] action, then [[Strike|Strikes]] with that weapon."
   - name: "Skewer"
-    desc: "⬺  The drow fighter [[Strike|Strikes]] with its rapier, and gains a +1 circumstance bonus to the attack roll. A creature damaged by the attack takes 1d6 (1d6) [[persistent damage|persistent bleed damage]]."
+    desc: "⬺  The drow fighter [[Strike|Strikes]] with its rapier, and gains a +1 circumstance bonus to the attack roll. A creature damaged by the attack takes 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed damage]]."
 
 speed: 30 feet
 

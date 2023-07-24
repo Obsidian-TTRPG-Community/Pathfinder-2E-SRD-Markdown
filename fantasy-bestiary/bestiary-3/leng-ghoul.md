@@ -45,9 +45,9 @@ abilities_bot:
   - name: "Leng Ghoul Fever"
     desc: " ([[disease]]);  __Saving Throw__ DC 28 Fortitude. __Stage 1__ carrier with no ill effect (1 day) __Stage 2__ 4d8 (4d8) negative damage and regains half as many Hit Points from all healing (1 day) __Stage 3__ as stage 2 (1 day) __Stage 4__ 4d8 (4d8) negative damage and gains no benefit from healing (1 day) __Stage 5__ as stage 4  (1 day)"
   - name: "Paralysis"
-    desc: " ([[incapacitation]], [[occult]], [[necromancy]]);  Any living creature hit by a Leng ghoul's attack must succeed at a DC 28 Fortitude save or become [[paralyzed|paralyzed]]. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save."
+    desc: " ([[incapacitation]], [[occult]], [[necromancy]]);  Any living creature hit by a Leng ghoul's attack must succeed at a DC 28 Fortitude save or become [[rules/conditions.md#Paralyzed|paralyzed]]. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save."
   - name: "Sneak Attack"
-    desc: "  A Leng ghoul deals an extra 2d6 (2d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  A Leng ghoul deals an extra 2d6 (2d6) precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
 
 speed: 25 feet, burrow 25 feet, climb 25 feet
 

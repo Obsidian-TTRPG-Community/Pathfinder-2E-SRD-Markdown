@@ -33,7 +33,7 @@ abilityMods: [6, 4, 4, 4, 5, 5]
 
 abilities_mid:
   - name: "Aura of Vitality"
-    desc: " ([[abjuration]], [[aura]], [[divine]]);  20 feet. Allies in the movanic deva's aura gain a +1 status bonus to all saving throws, resistance 10 to positive and negative damage, and are unharmed by the effects of a plane's [[positive]] and [[negative]] traits. Animals in the aura of 12th level or lower don't attack the movanic deva or the deva's allies unless they are [[controlled|controlled]] or otherwise forced to attack."
+    desc: " ([[abjuration]], [[aura]], [[divine]]);  20 feet. Allies in the movanic deva's aura gain a +1 status bonus to all saving throws, resistance 10 to positive and negative damage, and are unharmed by the effects of a plane's [[positive]] and [[negative]] traits. Animals in the aura of 12th level or lower don't attack the movanic deva or the deva's allies unless they are [[rules/conditions.md#Controlled|controlled]] or otherwise forced to attack."
 abilities_top:
   - name: Items
     desc: "+1 striking bastard sword;"

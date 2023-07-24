@@ -35,7 +35,7 @@ abilities_mid:
   - name: "Air of Authority"
     desc: " ([[aura]], [[emotion]], [[mental]]);  10 feet. Creatures in the aura who are the same or lower level than the watch officer take a –2 status penalty to their Will DC against the watch officer's attempts to [[Coerce]] or [[Demoralize]] them."
   - name: "Bravery"
-    desc: "  When the captain of the guard rolls a success on a Will save against a [[fear]] effect, they get a critical success instead. In addition, any time they gain the [[frightened|frightened]] condition, reduce its value by 1."
+    desc: "  When the captain of the guard rolls a success on a Will save against a [[fear]] effect, they get a critical success instead. In addition, any time they gain the [[rules/conditions.md#Frightened|frightened]] condition, reduce its value by 1."
   - name: "Attack of Opportunity"
     desc: "⬲ "
   - name: "Shield Block"
