@@ -34,9 +34,9 @@ abilityMods: [4, 4, 3, 1, 3, 4]
 
 abilities_bot:
   - name: "Philanthropic Bile"
-    desc: "  Exposure to the bauble beast's magical stomach fluids enchants the mind. A creature critically hit by the beast's jaws or bile [[Strike]] is subject to a [[charitable urge]] spell (DC 23)."
+    desc: "  Exposure to the bauble beast's magical stomach fluids enchants the mind. A creature critically hit by the beast's jaws or bile [[Strike]] is subject to a [[charitable-urge|charitable urge]] spell (DC 23)."
   - name: "Forge Jewelry"
-    desc: " ([[arcane]], [[enchantment]], [[exploration]]);  The jeweler beast creates imitation jewelry within its own digestive system. This takes about 4 hours. Determining the jewelry is fake works like detecting a forgery (Core Rulebook 251), using either [[Perception]] or [[Crafting]] instead of Perception or [[Society]], with a DC of 25. The process of creating fake jewelry also places an enchantment inside the item. Anyone who dons the imitation jewelry is targeted with a DC 24 [[suggestion]] spell with a duration of 1 hour on a failure or 24 hours on a critical failure. A creature that fails learns the location where the fake jewelry was created and is compelled to collect their valuable belongings and bring them to that location. Removing the imitation jewelry ends the spell immediately, but the wearer can't take it off voluntarily."
+    desc: " ([[arcane]], [[enchantment]], [[exploration]]);  The jeweler beast creates imitation jewelry within its own digestive system. This takes about 4 hours. Determining the jewelry is fake works like detecting a forgery (Core Rulebook 251), using either [[compendium/skills.md#Perception|Perception]] or [[compendium/skills.md#Crafting|Crafting]] instead of Perception or [[compendium/skills.md#Society|Society]], with a DC of 25. The process of creating fake jewelry also places an enchantment inside the item. Anyone who dons the imitation jewelry is targeted with a DC 24 [[suggestion]] spell with a duration of 1 hour on a failure or 24 hours on a critical failure. A creature that fails learns the location where the fake jewelry was created and is compelled to collect their valuable belongings and bring them to that location. Removing the imitation jewelry ends the spell immediately, but the wearer can't take it off voluntarily."
 abilities_top:
   - name: Items
     desc: "artisan's tools;"
@@ -55,11 +55,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +16 __Damage__ 1d8+7 (1d8+7) piercing plus 1d6 (1d6) [[persistent damage|persistent acid]] and philanthropic bile"
+    desc: "⬻ jaws +16 __Damage__ 1d8+7 (1d8+7) piercing plus 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent acid]] and philanthropic bile"
   - name: Melee
     desc: "⬻ leg +16 ([[agile]]); __Damage__ 1d10+7 (1d10+7) bludgeoning"
   - name: Ranged
-    desc: "⬻ bile +16 ([[acid]], [[range increment|range increment 30 feet]]); __Damage__ 2d8 (2d8) acid plus 1d6 (1d6) [[persistent damage|persistent acid]] and philanthropic bile"
+    desc: "⬻ bile +16 ([[acid]], [[range-increment|range increment 30 feet]]); __Damage__ 2d8 (2d8) acid plus 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent acid]] and philanthropic bile"
 
 sourcebook: "_Bestiary 3_, page 28."
 ```

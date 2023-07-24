@@ -38,10 +38,10 @@ abilities_top:
   - name: "Tied to the Land"
     desc: " "
   - name: "Wild Empathy"
-    desc: "  The naiad can use [[Diplomacy]] to [[Make an Impression]] on and make very simple Requests of animals."
+    desc: "  The naiad can use [[compendium/skills.md#Diplomacy|Diplomacy]] to [[Make-an-Impression|Make an Impression]] on and make very simple Requests of animals."
 abilities_mid:
   - name: "Nymph's Beauty"
-    desc: " ([[aura]], [[emotion]], [[enchantment]], [[mental]], [[primal]], [[visual]]);  30 feet. DC 23. On a failed save, the target is [[stunned|stunned 1]] for this turn and whenever it begins its turn within 30 feet of the naiad queen for the next 24 hours, even if it can't see her on subsequent turns."
+    desc: " ([[aura]], [[emotion]], [[enchantment]], [[mental]], [[primal]], [[visual]]);  30 feet. DC 23. On a failed save, the target is [[rules/conditions.md#Stunned|stunned 1]] for this turn and whenever it begins its turn within 30 feet of the naiad queen for the next 24 hours, even if it can't see her on subsequent turns."
 abilities_bot:
   - name: "Change Shape"
     desc: "⬻ ([[polymorph]], [[primal]], [[transmutation]]); "
@@ -70,9 +70,9 @@ attacks:
 
 spellcasting:
   - name: "Primal Prepared Spells"
-    desc: "DC 28, attack +18; __Cantrips (4th)__ [[detect magic]], [[guidance]], [[light]], [[ray of frost]], [[stabilize]]; __1st__ [[fleet step]], [[gust of wind]], [[negate aroma]]; __2nd__ [[animal messenger]], [[faerie fire]], [[tree shape]]; __3rd__ [[earth bind]], [[haste]], [[heal]]; __4th__ [[heal]], [[summon animal]];"
+    desc: "DC 28, attack +18; __Cantrips (4th)__ [[detect-magic|detect magic]], [[guidance]], [[light]], [[ray-of-frost|ray of frost]], [[stabilize]]; __1st__ [[fleet-step|fleet step]], [[gust-of-wind|gust of wind]], [[negate-aroma|negate aroma]]; __2nd__ [[animal-messenger|animal messenger]], [[faerie-fire|faerie fire]], [[tree-shape|tree shape]]; __3rd__ [[earth-bind|earth bind]], [[haste]], [[heal]]; __4th__ [[heal]], [[summon-animal|summon animal]];"
   - name: "Primal Innate Spells"
-    desc: "DC 28; __1st__ [[charm]], [[create water]]; __4th__ [[tidal surge]] at will; Core Rulebook 397;"
+    desc: "DC 28; __1st__ [[charm]], [[create-water|create water]]; __4th__ [[tidal-surge|tidal surge]] at will; Core Rulebook 397;"
 sourcebook: "_Bestiary_, page 248."
 ```
 

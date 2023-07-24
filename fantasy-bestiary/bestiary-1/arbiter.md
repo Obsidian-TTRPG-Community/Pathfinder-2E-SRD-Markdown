@@ -39,7 +39,7 @@ abilities_top:
     desc: "[[shortsword]];"
 abilities_bot:
   - name: "Electrical Burst"
-    desc: "⬺ ([[divine]], [[electricity]], [[evocation]]);  The arbiter releases an electrical burst from its body that deals 3d6 (3d6) electricity damage (DC 17 basic Reflex save). Following such a burst, the arbiter becomes [[stunned|stunned]] for 24 hours."
+    desc: "⬺ ([[divine]], [[electricity]], [[evocation]]);  The arbiter releases an electrical burst from its body that deals 3d6 (3d6) electricity damage (DC 17 basic Reflex save). Following such a burst, the arbiter becomes [[rules/conditions.md#Stunned|stunned]] for 24 hours."
 
 speed: 20 feet, fly 40 feet
 
@@ -59,7 +59,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 17; __1st__ [[command]], [[detect alignment]] (at will) chaotic only, [[mending]] (3); __4th__ [[read omens]];"
+    desc: "DC 17; __1st__ [[command]], [[detect-alignment|detect alignment]] (at will) chaotic only, [[mending]] (3); __4th__ [[read-omens|read omens]];"
 sourcebook: "_Bestiary_, page 8."
 ```
 

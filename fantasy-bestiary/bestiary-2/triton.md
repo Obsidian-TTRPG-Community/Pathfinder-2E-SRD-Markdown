@@ -35,7 +35,7 @@ abilities_bot:
   - name: "Defender of the Seas"
     desc: "⬻  The triton Interacts to raise their trident, gaining a +1 circumstance bonus to AC until the start of their next turn. During this time, any of their allies also gains the bonus while adjacent to the triton."
   - name: "Summon Aquatic Ally"
-    desc: "⬽ ([[conjuration]], [[primal]]); __Frequency__ once per day  __Effect__  The triton blows into a conch shell, casting a 2ndlevel [[summon animal]] spell. The triton can summon only an aquatic creature, such as a dolphin (page 84), octopus (page 187), ray (page 226), sea snake (page 245), or electric eel (Bestiary 142). This creature remains until it is slain, the triton Dismisses it, or the triton summons another ally."
+    desc: "⬽ ([[conjuration]], [[primal]]); __Frequency__ once per day  __Effect__  The triton blows into a conch shell, casting a 2ndlevel [[summon-animal|summon animal]] spell. The triton can summon only an aquatic creature, such as a dolphin (page 84), octopus (page 187), ray (page 226), sea snake (page 245), or electric eel (Bestiary 142). This creature remains until it is slain, the triton Dismisses it, or the triton summons another ally."
 abilities_top:
   - name: Items
     desc: "conch shell, shell armor (hide armor), trident;"

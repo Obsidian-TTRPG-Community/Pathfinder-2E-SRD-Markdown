@@ -31,7 +31,7 @@ abilityMods: [6, 0, 4, -4, 3, -1]
 
 abilities_bot:
   - name: "Rhinoceros Charge"
-    desc: "⬺  The rhinoceros [[Stride|Strides]] twice, then makes a horn [[Strike]]. As long as the rhinoceros moved at least 20 feet, the [[Strike]]'s damage increases to 3d8+6 (3d8+6). A Medium or smaller creature struck by this attack must succeed at a DC 21 Reflex save or be automatically Shoved back 5 feet and knocked [[prone|prone]] by the force of the blow."
+    desc: "⬺  The rhinoceros [[Stride|Strides]] twice, then makes a horn [[Strike]]. As long as the rhinoceros moved at least 20 feet, the [[Strike]]'s damage increases to 3d8+6 (3d8+6). A Medium or smaller creature struck by this attack must succeed at a DC 21 Reflex save or be automatically Shoved back 5 feet and knocked [[rules/conditions.md#Prone|prone]] by the force of the blow."
   - name: "Trample"
     desc: "⬽  Medium or smaller, foot, DC 18."
 

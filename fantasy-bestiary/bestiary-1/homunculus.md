@@ -35,7 +35,7 @@ abilities_top:
     desc: " ([[arcane]], [[divination]], [[mental]]);  A homunculus can't speak, but it is telepathically linked to its creator. It can share information back and forth, including its master's knowledge and everything the homunculus hears. The range of this link is 1,500 feet. The homunculus adopts the same alignment as its creator and is utterly faithful. If the homunculus is destroyed, the master takes 2d10 (2d10) mental damage. If the master is slain, the homunculus becomes mindless, claims its current location as its lair, and instinctively attacks anyone who comes near."
 abilities_bot:
   - name: "Homunculus Poison"
-    desc: " ([[poison]]);  __Saving Throw__ DC 15 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d6 (1d6) poison and [[enfeebled|enfeebled 1]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 15 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d6 (1d6) poison and [[rules/conditions.md#Enfeebled|enfeebled 1]] (1 round)"
 
 speed: 15 feet, fly 40 feet
 

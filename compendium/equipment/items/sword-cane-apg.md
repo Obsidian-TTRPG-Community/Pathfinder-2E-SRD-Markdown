@@ -10,7 +10,7 @@ tags:
 aliases: ["Sword Cane"]
 ---
 # Sword Cane *Item 0*  
-[agile](rules/traits/agile.md "Agile Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  concealable  
+[agile](rules/traits/agile.md "Agile Weapon Trait")  [concealable](rules/traits/concealable-g-g.md "Concealable Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  
 
 - **Price** 5 gp
 - **Bulk** 1

@@ -33,7 +33,7 @@ abilityMods: [3, 0, 2, 0, 1, 3]
 
 abilities_top:
   - name: "Society"
-    desc: "  +5, [[Thievery]] +3 Str +3, Dex +0, Con +2, Int +0, Wis +1, Cha +3 Items barkeep's apron (functions as padded armor), flask of whiskey, pewter mug, sap."
+    desc: "  +5, [[compendium/skills.md#Thievery|Thievery]] +3 Str +3, Dex +0, Con +2, Int +0, Wis +1, Cha +3 Items barkeep's apron (functions as padded armor), flask of whiskey, pewter mug, sap."
   - name: Items
     desc: "barkeep's apron (functions as padded armor), flask of whiskey, pewter mug, sap;"
 abilities_bot:

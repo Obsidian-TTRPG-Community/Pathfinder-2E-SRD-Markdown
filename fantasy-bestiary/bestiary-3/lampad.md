@@ -34,10 +34,10 @@ abilityMods: [0, 5, 4, 2, 3, 5]
 
 abilities_mid:
   - name: "Cavern Dependent"
-    desc: "  A lampad is mystically bonded to a single cavern or other self-contained underground area and must remain within 300 feet of it. If they move beyond that range, they become [[sickened|sickened 1]] and are unable to recover. They must attempt a DC 19 Fortitude save every hour or increase the [[sickened|sickened]] value by 1 (to a maximum of [[sickened|sickened 4]]). After 24 hours, they become [[drained|drained 1]], with this value increasing by 1 every additional 24 hours. A lampad can perform a 24-hour ritual to bond to a new cavern."
+    desc: "  A lampad is mystically bonded to a single cavern or other self-contained underground area and must remain within 300 feet of it. If they move beyond that range, they become [[rules/conditions.md#Sickened|sickened 1]] and are unable to recover. They must attempt a DC 19 Fortitude save every hour or increase the [[rules/conditions.md#Sickened|sickened]] value by 1 (to a maximum of [[rules/conditions.md#Sickened|sickened 4]]). After 24 hours, they become [[rules/conditions.md#Drained|drained 1]], with this value increasing by 1 every additional 24 hours. A lampad can perform a 24-hour ritual to bond to a new cavern."
 abilities_bot:
   - name: "Weep"
-    desc: "⬻ ([[auditory]], [[emotion]], [[enchantment]], [[mental]], [[primal]]); __Frequency__ once per round  __Effect__  The lampad begins a heart-wrenching fit of weeping, inspiring sympathetic sobbing in nearby creatures. Each non-lampad creature within 30 feet who hears the lampad's weeping must succeed at a DC 20 Will save or be unable to use reactions for 1 round and [[slowed|slowed 1]] on its next turn as it sobs uncontrollably."
+    desc: "⬻ ([[auditory]], [[emotion]], [[enchantment]], [[mental]], [[primal]]); __Frequency__ once per round  __Effect__  The lampad begins a heart-wrenching fit of weeping, inspiring sympathetic sobbing in nearby creatures. Each non-lampad creature within 30 feet who hears the lampad's weeping must succeed at a DC 20 Will save or be unable to use reactions for 1 round and [[rules/conditions.md#Slowed|slowed 1]] on its next turn as it sobs uncontrollably."
 
 speed: 25 feet, climb 25 feet
 
@@ -55,11 +55,11 @@ attacks:
   - name: Melee
     desc: "⬻ earthen fist +14 ([[agile]], [[finesse]]); __Damage__ 2d10+2 (2d10+2) bludgeoning"
   - name: Ranged
-    desc: "⬻ light wisp +14 ([[magical]], [[range increment|range increment 30 feet]]); __Damage__ 1d8+2 (1d8+2) mental plus 1d6 (1d6) fire and 1d6 (1d6) positive"
+    desc: "⬻ light wisp +14 ([[magical]], [[range-increment|range increment 30 feet]]); __Damage__ 1d8+2 (1d8+2) mental plus 1d6 (1d6) fire and 1d6 (1d6) positive"
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 22; __Cantrips (4th)__ [[dancing lights]]; __2nd__ [[faerie fire]], [[heal]]; __3rd__ [[meld into stone]] (at will), [[pummeling rubble]]; __4th__ [[shape stone]];"
+    desc: "DC 22; __Cantrips (4th)__ [[dancing-lights|dancing lights]]; __2nd__ [[faerie-fire|faerie fire]], [[heal]]; __3rd__ [[meld-into-stone|meld into stone]] (at will), [[pummeling-rubble|pummeling rubble]]; __4th__ [[shape-stone|shape stone]];"
 sourcebook: "_Bestiary 3_, page 188."
 ```
 

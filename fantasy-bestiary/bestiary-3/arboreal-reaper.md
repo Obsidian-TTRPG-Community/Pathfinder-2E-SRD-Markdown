@@ -55,11 +55,11 @@ attacks:
   - name: Melee
     desc: "⬻ root +18 ([[agile]]); __Damage__ 2d6+8 (2d6+8) bludgeoning plus [[Knockdown]]"
   - name: Ranged
-    desc: "⬻ thorns +16 __Damage__ 2d8+5 (2d8+5) piercing plus 1d4 (1d4) [[persistent damage|persistent bleed]]"
+    desc: "⬻ thorns +16 __Damage__ 2d8+5 (2d8+5) piercing plus 1d4 (1d4) [[rules/conditions.md#Persistent%20Damage|persistent bleed]]"
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 22; __3rd__ [[vampiric touch]]; __Constant__ __(4th)__ [[speak with plants]];"
+    desc: "DC 22; __3rd__ [[vampiric-touch|vampiric touch]]; __Constant__ __(4th)__ [[speak-with-plants|speak with plants]];"
 sourcebook: "_Bestiary 3_, page 20."
 ```
 

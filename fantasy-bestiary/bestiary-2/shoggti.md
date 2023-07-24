@@ -35,11 +35,11 @@ abilityMods: [6, 4, 2, 4, 2, 6]
 
 abilities_bot:
   - name: "Braincloud"
-    desc: "⬻ ([[attack]], [[enchantment]], [[mental]], [[occult]], [[open]]);  The shoggti caresses a creature with a tentacle and supernaturally erodes the creature's capability for thought as it does so. The target must succeed at a DC 25 Will save or become [[stupefied|stupefied 2]], with an unlimited duration. The target can attempt the save to remove the [[stupefied|stupefied]] condition again once per day when it makes its daily preparations."
+    desc: "⬻ ([[attack]], [[enchantment]], [[mental]], [[occult]], [[open]]);  The shoggti caresses a creature with a tentacle and supernaturally erodes the creature's capability for thought as it does so. The target must succeed at a DC 25 Will save or become [[rules/conditions.md#Stupefied|stupefied 2]], with an unlimited duration. The target can attempt the save to remove the [[rules/conditions.md#Stupefied|stupefied]] condition again once per day when it makes its daily preparations."
   - name: "Constrict"
     desc: "⬻  1d10+8 (1d10+8) bludgeoning, DC 25."
   - name: "Fascinating Display"
-    desc: "⬺ ([[concentrate]], [[emotion]], [[enchantment]], [[fear]], [[mental]], [[occult]], [[visual]]);  The shoggti writhes its tentacles and shifts its coloration to put on an unnaturally fascinating hypnotic display. Creatures in a 30-foot emanation must attempt a DC 25 Will save, after which they are temporarily immune to further Fascinating Displays for 1 minute.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is [[sickened|sickened 1]].\n__Failure__ The creature is [[fascinated|fascinated]] for 1 minute. Once the fascination effect ends, the creature is [[sickened|sickened 1]].\n__Critical Failure__ The creature is [[fascinated|fascinated]] for 1 minute, can't use reactions while [[fascinated|fascinated]], and is [[sickened|sickened 2]] once the fascination ends."
+    desc: "⬺ ([[concentrate]], [[emotion]], [[enchantment]], [[fear]], [[mental]], [[occult]], [[visual]]);  The shoggti writhes its tentacles and shifts its coloration to put on an unnaturally fascinating hypnotic display. Creatures in a 30-foot emanation must attempt a DC 25 Will save, after which they are temporarily immune to further Fascinating Displays for 1 minute.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is [[rules/conditions.md#Sickened|sickened 1]].\n__Failure__ The creature is [[rules/conditions.md#Fascinated|fascinated]] for 1 minute. Once the fascination effect ends, the creature is [[rules/conditions.md#Sickened|sickened 1]].\n__Critical Failure__ The creature is [[rules/conditions.md#Fascinated|fascinated]] for 1 minute, can't use reactions while [[rules/conditions.md#Fascinated|fascinated]], and is [[rules/conditions.md#Sickened|sickened 2]] once the fascination ends."
 
 speed: 25 feet, swim 25 feet
 
@@ -61,7 +61,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 23; __Cantrips (4th)__ [[daze]], [[detect magic]]; __1st__ [[charm]] (3); __2nd__ [[paranoia]]; __4th__ [[charm]], [[dimension door]];"
+    desc: "DC 23; __Cantrips (4th)__ [[daze]], [[detect-magic|detect magic]]; __1st__ [[charm]] (3); __2nd__ [[paranoia]]; __4th__ [[charm]], [[dimension-door|dimension door]];"
 sourcebook: "_Bestiary 2_, page 213."
 ```
 

@@ -35,7 +35,7 @@ abilities_bot:
   - name: "Regurgitate Gastrolith"
     desc: "⬺ ([[acid]], [[evocation]], [[primal]]);  The irlgaunt violently regurgitates a melonsized clot of brittle stone supernaturally infused with digestive enzymes. The stone and acid explode on impact within a range of 30 feet, dealing 7d6 (7d6) piercing damage and 7d6 (7d6) acid damage to creatures in a 20-foot burst (DC 33 basic Reflex save). The irlgaunt can't Regurgitate Gastroliths for 1d4 (1d4) rounds."
   - name: "Stone Step"
-    desc: "  The irlgaunt ignores [[terrain|difficult terrain]] composed of rocks and stone."
+    desc: "  The irlgaunt ignores [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] composed of rocks and stone."
 
 speed: 30 feet, climb 30 feet; stone step;
 
@@ -57,7 +57,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 31; __4th__ [[meld into stone]] (at will), [[shape stone]] (at will); __6th__ [[stone tell]];"
+    desc: "DC 31; __4th__ [[meld-into-stone|meld into stone]] (at will), [[shape-stone|shape stone]] (at will); __6th__ [[stone-tell|stone tell]];"
 sourcebook: "_Bestiary 2_, page 148."
 ```
 

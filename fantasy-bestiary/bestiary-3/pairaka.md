@@ -38,7 +38,7 @@ abilities_bot:
   - name: "Divine Ritual"
     desc: "  DC 25; div pact"
   - name: "Bubonic Plague"
-    desc: " ([[disease]]);  __Saving Throw__ DC 23 Fortitude. __Stage 1__ [[fatigued|fatigued]] (1 day) __Stage 2__ [[enfeebled|enfeebled 2]] and [[fatigued|fatigued]] (1 day) __Stage 3__ [[enfeebled|enfeebled 3]], [[fatigued|fatigued]], and take 1d6 (1d6) [[persistent damage|persistent bleed damage]] every 1d20 (1d20) minutes (1 day)"
+    desc: " ([[disease]]);  __Saving Throw__ DC 23 Fortitude. __Stage 1__ [[rules/conditions.md#Fatigued|fatigued]] (1 day) __Stage 2__ [[rules/conditions.md#Enfeebled|enfeebled 2]] and [[rules/conditions.md#Fatigued|fatigued]] (1 day) __Stage 3__ [[rules/conditions.md#Enfeebled|enfeebled 3]], [[rules/conditions.md#Fatigued|fatigued]], and take 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed damage]] every 1d20 (1d20) minutes (1 day)"
   - name: "Change Shape"
     desc: "⬻ ([[concentrate]], [[divine]], [[polymorph]], [[transmutation]]);  The pairaka can take the appearance of any Small or Medium humanoid or animal. This doesn't change their Speed or their attack and damage modifiers with the [[Strike|Strikes]], but it might change the damage type their strikes deal."
   - name: "Tormenting Dreams"
@@ -62,7 +62,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 25; __Cantrips (4th)__ [[detect magic]]; __4th__ [[charm]] (at will), [[dimension door]] (at will), [[misdirection]] at will; self only, [[outcast's curse]] (at will), [[suggestion]] (at will);"
+    desc: "DC 25; __Cantrips (4th)__ [[detect-magic|detect magic]]; __4th__ [[charm]] (at will), [[dimension-door|dimension door]] (at will), [[misdirection]] at will; self only, [[outcast's curse]] (at will), [[suggestion]] (at will);"
 sourcebook: "_Bestiary 3_, page 70."
 ```
 

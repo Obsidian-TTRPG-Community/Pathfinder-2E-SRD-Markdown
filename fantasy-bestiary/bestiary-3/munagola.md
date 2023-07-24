@@ -65,11 +65,11 @@ attacks:
   - name: Melee
     desc: "⬻ horn +23 ([[agile]], [[evil]], [[magical]]); __Damage__ 2d8+13 (2d8+13) piercing plus 1d6 (1d6) evil"
   - name: Ranged
-    desc: "⬻ flaming composite longbow +23 ([[deadly|deadly d10]], [[evil]], [[fire]], [[magical]], [[range increment|range increment 100 feet]], [[reload|reload 0]], [[volley|volley 30 feet]]); __Damage__ 2d8+6 (2d8+6) piercing plus 1d6 (1d6) evil and 1d6 (1d6) fire"
+    desc: "⬻ flaming composite longbow +23 ([[deadly|deadly d10]], [[evil]], [[fire]], [[magical]], [[range-increment|range increment 100 feet]], [[reload|reload 0]], [[volley|volley 30 feet]]); __Damage__ 2d8+6 (2d8+6) piercing plus 1d6 (1d6) evil and 1d6 (1d6) fire"
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 27; __4th__ [[dimension door]] (at will); __5th__ [[dimension door]];"
+    desc: "DC 27; __4th__ [[dimension-door|dimension door]] (at will); __5th__ [[dimension-door|dimension door]];"
 sourcebook: "_Bestiary 3_, page 66."
 ```
 

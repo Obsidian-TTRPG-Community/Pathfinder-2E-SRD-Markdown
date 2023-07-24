@@ -41,10 +41,10 @@ abilities_mid:
   - name: "Deflect Aggression"
     desc: "⬲ ([[emotion]], [[enchantment]], [[mental]], [[occult]]); __Trigger__ The love siktempora is targeted by an attack __Effect__  The siktempora glows with compassion, deflecting the attacker's aggression. The siktempora gains a +2 circumstance bonus to their AC and resistance 15 against the triggering attack, and the attacker must attempt a saving throw against the siktempora's heartsong (see below)."
   - name: "Uncanny Pounce"
-    desc: "⭓ __Trigger__ The misery siktempora rolls Dimension of [[Lore|Time Lore]] for initiative __Effect__  The misery siktempora [[Stride|Strides]] once and makes a claw [[Strike]], in either order."
+    desc: "⭓ __Trigger__ The misery siktempora rolls Dimension of [[compendium/skills.md#Lore|Time Lore]] for initiative __Effect__  The misery siktempora [[Stride|Strides]] once and makes a claw [[Strike]], in either order."
 abilities_bot:
   - name: "Heartsong"
-    desc: " ([[emotion]], [[enchantment]], [[mental]], [[occult]]);  A creature that takes mental damage from the love siktempora's emotional bolt must succeed at a DC 37 Will save or become [[fascinated|fascinated]] by the siktempora until the end of the target's next turn. [[Hostile|Hostile]] actions don't end this [[fascinated|fascinated]] condition."
+    desc: " ([[emotion]], [[enchantment]], [[mental]], [[occult]]);  A creature that takes mental damage from the love siktempora's emotional bolt must succeed at a DC 37 Will save or become [[rules/conditions.md#Fascinated|fascinated]] by the siktempora until the end of the target's next turn. [[rules/conditions.md#Hostile|Hostile]] actions don't end this [[rules/conditions.md#Fascinated|fascinated]] condition."
   - name: "Love's Impunity"
     desc: "  The love siktempora's emotional bolt [[Strike]] doesn't trigger reactions that normally trigger based off making a ranged attack."
   - name: "Telepathic Ballad"
@@ -64,13 +64,13 @@ health:
 
 attacks:
   - name: Ranged
-    desc: "⬻ emotional bolt +31 ([[agile]], [[range increment|range increment 80 feet]]); __Damage__ 3d10+10 (3d10+10) piercing plus 1d10 (1d10) mental and heartsong"
+    desc: "⬻ emotional bolt +31 ([[agile]], [[range-increment|range increment 80 feet]]); __Damage__ 3d10+10 (3d10+10) piercing plus 1d10 (1d10) mental and heartsong"
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 37; __4th__ [[dimension door]] (at will); __8th__ [[blink]]; __Constant__ __(8th)__ [[air walk]];"
+    desc: "DC 37; __4th__ [[dimension-door|dimension door]] (at will); __8th__ [[blink]]; __Constant__ __(8th)__ [[air-walk|air walk]];"
   - name: "Bard Composition Spells"
-    desc: "DC 37, (3 Focus Points); __Cantrips (8th)__ [[inspire courage]], [[inspire defense]]; __8th__ [[lingering composition]];"
+    desc: "DC 37, (3 Focus Points); __Cantrips (8th)__ [[inspire-courage|inspire courage]], [[inspire-defense|inspire defense]]; __8th__ [[lingering-composition|lingering composition]];"
 sourcebook: "_Bestiary 3_, page 234."
 ```
 

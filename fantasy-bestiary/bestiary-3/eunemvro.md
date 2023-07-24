@@ -36,12 +36,12 @@ abilities_mid:
   - name: "Attack of Opportunity"
     desc: "⬲ "
   - name: "Retributive Suplex"
-    desc: "⬲ __Trigger__ A Medium or smaller creature attempts a melee [[Strike]] against the eunemvro and the attack roll is a critical failure __Effect__  The eunemvro seizes the triggering creature, using the attacker's momentum to send them flailing overhead. The triggering creature must succeed at a DC 23 Reflex save or be forcibly moved to a space on the opposite side of the eunemvro, landing [[prone|prone]]."
+    desc: "⬲ __Trigger__ A Medium or smaller creature attempts a melee [[Strike]] against the eunemvro and the attack roll is a critical failure __Effect__  The eunemvro seizes the triggering creature, using the attacker's momentum to send them flailing overhead. The triggering creature must succeed at a DC 23 Reflex save or be forcibly moved to a space on the opposite side of the eunemvro, landing [[rules/conditions.md#Prone|prone]]."
 abilities_bot:
   - name: "Blessed Strikes"
     desc: "  The eunemvro's [[Strike|Strikes]] deal damage that's either bludgeoning or positive—whichever deals more damage to the target creature."
   - name: "Tide of Creation"
-    desc: "⬺ ([[evocation]], [[light]], [[occult]], [[positive]]); __Requirements__ The eunemvro isn't [[fatigued|fatigued]]  __Effect__  The eunemvro channels from their soul a blast of searing positive energy, bathing their enemies in a wave of blinding light and cosmic power. The eunemvro creates either a 10-foot cone or a 30-foot line, dealing 6d8 (6d8) positive damage (DC 22 basic Fortitude save). A creature that critically fails its save is [[blinded|blinded]] for 1d4 (1d4) rounds. After using this ability, the eunemvro becomes [[fatigued|fatigued]]."
+    desc: "⬺ ([[evocation]], [[light]], [[occult]], [[positive]]); __Requirements__ The eunemvro isn't [[rules/conditions.md#Fatigued|fatigued]]  __Effect__  The eunemvro channels from their soul a blast of searing positive energy, bathing their enemies in a wave of blinding light and cosmic power. The eunemvro creates either a 10-foot cone or a 30-foot line, dealing 6d8 (6d8) positive damage (DC 22 basic Fortitude save). A creature that critically fails its save is [[rules/conditions.md#Blinded|blinded]] for 1d4 (1d4) rounds. After using this ability, the eunemvro becomes [[rules/conditions.md#Fatigued|fatigued]]."
 
 speed: 35 feet
 
@@ -63,7 +63,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 20; __Cantrips (2nd)__ [[chill touch]] undead only, [[disrupt undead]]; __2nd__ [[gentle repose]];"
+    desc: "DC 20; __Cantrips (2nd)__ [[chill-touch|chill touch]] undead only, [[disrupt-undead|disrupt undead]]; __2nd__ [[gentle-repose|gentle repose]];"
 sourcebook: "_Bestiary 3_, page 96."
 ```
 

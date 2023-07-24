@@ -39,7 +39,7 @@ abilities_top:
     desc: "⬺  The phantom walks the thin line between the Ethereal and Material Planes in order to exist on both planes simultaneously. They can shift back to solely the Ethereal Plane by using this ability again."
 abilities_mid:
   - name: "Susceptible to Death"
-    desc: "  Though phantoms aren't alive, neither are they undead, and they are uniquely vulnerable to the effects of death. A phantom whose Hit Points are reduced to 0 as a result of a [[death]] effect (such as from a spell like [[finger of death]]) is immediately whisked away to the River of Souls, where their soul resumes the usual path to the afterlife."
+    desc: "  Though phantoms aren't alive, neither are they undead, and they are uniquely vulnerable to the effects of death. A phantom whose Hit Points are reduced to 0 as a result of a [[death]] effect (such as from a spell like [[finger-of-death|finger of death]]) is immediately whisked away to the River of Souls, where their soul resumes the usual path to the afterlife."
 
 speed: fly 25 feet
 
@@ -57,7 +57,7 @@ attacks:
   - name: Melee
     desc: "⬻ phantom sword +14 ([[finesse]], [[force]], [[magical]]); __Damage__ 1d8+7 (1d8+7) force"
   - name: Ranged
-    desc: "⬻ phantom bow +14 ([[deadly|deadly d10]], [[force]], [[magical]], [[range increment|range increment 120 feet]], [[volley|volley 30 feet]]); __Damage__ 1d8+5 (1d8+5) force"
+    desc: "⬻ phantom bow +14 ([[deadly|deadly d10]], [[force]], [[magical]], [[range-increment|range increment 120 feet]], [[volley|volley 30 feet]]); __Damage__ 1d8+5 (1d8+5) force"
 
 sourcebook: "_Bestiary 3_, page 202."
 ```

@@ -34,7 +34,7 @@ abilityMods: [7, 2, 4, 2, 5, 4]
 
 abilities_top:
   - name: "Mist Vision"
-    desc: "  Fog and mist don't impair a sky dragon's vision; they ignore the [[concealed|concealed]] condition from fog and mist."
+    desc: "  Fog and mist don't impair a sky dragon's vision; they ignore the [[rules/conditions.md#Concealed|concealed]] condition from fog and mist."
 abilities_mid:
   - name: "Frightful Presence"
     desc: " ([[aura]], [[emotion]], [[fear]], [[mental]]);  90 feet, DC 31 (page 305)"
@@ -50,7 +50,7 @@ abilities_bot:
   - name: "Greater Constrict"
     desc: "⬻  3d8+8 (3d8+8) bludgeoning, DC 33 (page 305)"
   - name: "Perfected Flight"
-    desc: "  A sky dragon can hover in place without spending an action, and they automatically succeed at all [[Acrobatics]] checks to [[Maneuver in Flight]]."
+    desc: "  A sky dragon can hover in place without spending an action, and they automatically succeed at all [[compendium/skills.md#Acrobatics|Acrobatics]] checks to [[Maneuver-in-Flight|Maneuver in Flight]]."
 
 speed: 40 feet, fly 140 feet
 
@@ -74,7 +74,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 33; __1st__ [[feather fall]], [[gust of wind]]; __2nd__ [[invisibility]]; __4th__ [[gaseous form]];"
+    desc: "DC 33; __1st__ [[feather-fall|feather fall]], [[gust-of-wind|gust of wind]]; __2nd__ [[invisibility]]; __4th__ [[gaseous-form|gaseous form]];"
 sourcebook: "_Bestiary 3_, page 80."
 ```
 

@@ -60,7 +60,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Prepared Spells"
-    desc: "DC 20, attack +10; __Cantrips (1st)__ [[guidance]], [[know direction]], [[produce flame]], [[stabilize]]; __1st__ [[charm]], [[heal]], [[magic fang]], [[shillelagh]], [[summon animal]];"
+    desc: "DC 20, attack +10; __Cantrips (1st)__ [[guidance]], [[know-direction|know direction]], [[produce-flame|produce flame]], [[stabilize]]; __1st__ [[charm]], [[heal]], [[magic-fang|magic fang]], [[shillelagh]], [[summon-animal|summon animal]];"
 sourcebook: "_Bestiary_, page 231."
 ```
 

@@ -54,9 +54,9 @@ attacks:
 
 spellcasting:
   - name: "Primal Spontaneous Spells"
-    desc: "DC 17, attack +9; __Cantrips (1st)__ [[acid splash]], [[detect magic]], [[know direction]], [[stabilize]], [[tanglefoot]]; __1st__ [[create water]], [[heal]], [[hydraulic push]];"
+    desc: "DC 17, attack +9; __Cantrips (1st)__ [[acid-splash|acid splash]], [[detect-magic|detect magic]], [[know-direction|know direction]], [[stabilize]], [[tanglefoot]]; __1st__ [[create-water|create water]], [[heal]], [[hydraulic-push|hydraulic push]];"
   - name: "Sorcerer Bloodline Spells"
-    desc: "DC 17, attack +9, (1 Focus Point); __1st__ [[elemental toss]];"
+    desc: "DC 17, attack +9, (1 Focus Point); __1st__ [[elemental-toss|elemental toss]];"
 sourcebook: "_Bestiary 2_, page 203."
 ```
 

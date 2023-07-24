@@ -33,7 +33,7 @@ abilityMods: [4, 2, 3, -4, 1, -1]
 
 abilities_bot:
   - name: "Swarming Snips"
-    desc: "⬻  Each enemy in the swarm's space takes 2d8 (2d8) piercing damage (DC 20 basic Reflex save). Creatures that fail this save also take 1d4 (1d4) [[persistent damage|persistent bleed damage]]."
+    desc: "⬻  Each enemy in the swarm's space takes 2d8 (2d8) piercing damage (DC 20 basic Reflex save). Creatures that fail this save also take 1d4 (1d4) [[rules/conditions.md#Persistent%20Damage|persistent bleed damage]]."
 
 speed: 30 feet, swim 15 feet
 

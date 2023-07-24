@@ -35,14 +35,14 @@ abilities_top:
   - name: "Lore"
     desc: "  +17 Str +0, Dex +3, Con +0, Int +4, Wis +2, Cha +4 Items chain shirt, disguise kit, hand crossbow (10 bolts), shortsword."
   - name: "Versatile Performance"
-    desc: "  The mastermind can use [[Performance]] instead of [[Diplomacy]] to [[Make an Impression]] and instead of [[Intimidation]] to [[Demoralize]]. The mastermind can also use an acting [[Performance]] instead of [[Deception]] to [[Impersonate]]."
+    desc: "  The mastermind can use [[compendium/skills.md#Performance|Performance]] instead of [[compendium/skills.md#Diplomacy|Diplomacy]] to [[Make-an-Impression|Make an Impression]] and instead of [[compendium/skills.md#Intimidation|Intimidation]] to [[Demoralize]]. The mastermind can also use an acting [[compendium/skills.md#Performance|Performance]] instead of [[compendium/skills.md#Deception|Deception]] to [[Impersonate]]."
   - name: Items
     desc: "chain shirt, disguise kit, hand crossbow (10 bolts), shortsword;"
 abilities_bot:
   - name: "Scoundrel's Feint"
-    desc: "  When the mastermind successfully [[Feint|Feints]], the target is [[flat-footed|flat-footed]] against the mastermind's melee attacks until the end of the mastermind's next turn. On a critical success, the target is [[flat-footed|flat-footed]] against all melee attacks for that time, not just the mastermind's."
+    desc: "  When the mastermind successfully [[Feint|Feints]], the target is [[rules/conditions.md#Flat-Footed|flat-footed]] against the mastermind's melee attacks until the end of the mastermind's next turn. On a critical success, the target is [[rules/conditions.md#Flat-Footed|flat-footed]] against all melee attacks for that time, not just the mastermind's."
   - name: "Sneak Attack"
-    desc: "  The mastermind deals an extra 1d6 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The mastermind deals an extra 1d6 (1d6) precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
 
 speed: 25 feet
 
@@ -60,13 +60,13 @@ attacks:
   - name: Melee
     desc: "⬻ shortsword +13 ([[agile]], [[finesse]], [[versatile|versatile s]]); __Damage__ 1d6+6 (1d6+6) slashing"
   - name: Ranged
-    desc: "⬻ hand crossbow +13 ([[range increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1d6+3 (1d6+3) piercing"
+    desc: "⬻ hand crossbow +13 ([[range-increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1d6+3 (1d6+3) piercing"
 
 spellcasting:
   - name: "Occult Spontaneous Spells"
-    desc: "DC 22, attack +14; __Cantrips (2nd)__ [[daze]], [[detect magic]], [[message]], [[prestidigitation]], [[sigil]]; __1st__ (3 slots) [[charm]], [[illusory disguise]], [[illusory object]]; __2nd__ (3 slots) [[blur]], [[charm]], [[invisibility]], [[paranoia]];"
+    desc: "DC 22, attack +14; __Cantrips (2nd)__ [[daze]], [[detect-magic|detect magic]], [[message]], [[prestidigitation]], [[sigil]]; __1st__ (3 slots) [[charm]], [[illusory-disguise|illusory disguise]], [[illusory-object|illusory object]]; __2nd__ (3 slots) [[blur]], [[charm]], [[invisibility]], [[paranoia]];"
   - name: "Bard Composition Spells"
-    desc: "DC 22; __Cantrips (2nd)__ [[inspire competence]] Core Rulebook 386, [[inspire courage]] Core Rulebook 386;"
+    desc: "DC 22; __Cantrips (2nd)__ [[inspire-competence|inspire competence]] Core Rulebook 386, [[inspire-courage|inspire courage]] Core Rulebook 386;"
 sourcebook: "_Gamemastery Guide_, page 247."
 ```
 

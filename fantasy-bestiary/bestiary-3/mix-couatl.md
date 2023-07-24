@@ -34,16 +34,16 @@ abilityMods: [6, 3, 4, 4, 5, 4]
 
 abilities_top:
   - name: "Star Child"
-    desc: "  The mix couatl is difficult to discern against starry skies. The mix couatl can [[Hide]] in the air at night without cover or being [[concealed|concealed]]."
+    desc: "  The mix couatl is difficult to discern against starry skies. The mix couatl can [[Hide]] in the air at night without cover or being [[rules/conditions.md#Concealed|concealed]]."
 abilities_bot:
   - name: "Constrict"
     desc: "⬻  2d10+4 (2d10+4) bludgeoning, DC 26"
   - name: "Gift of Knowledge"
-    desc: "  When a mix couatl casts modify memory on a willing creature, the mix couatl can [[Sustain a Spell|Sustain the Spell]] to modify memories for up to 60 continuous minutes. A mix couatl can grant knowledge of a particular skill to the target as part of the spell. The mix couatl chooses [[Lore|Engineering Lore]], [[Lore|Farming Lore]], [[Lore|Fishing Lore]], [[Lore|Hunting Lore]], or [[Lore|Mercantile Lore]]. The target becomes permanently trained in the chosen skill. A creature can benefit from Gift of Knowledge only once."
+    desc: "  When a mix couatl casts modify memory on a willing creature, the mix couatl can [[Sustain a Spell|Sustain the Spell]] to modify memories for up to 60 continuous minutes. A mix couatl can grant knowledge of a particular skill to the target as part of the spell. The mix couatl chooses [[compendium/skills.md#Lore|Engineering Lore]], [[compendium/skills.md#Lore|Farming Lore]], [[compendium/skills.md#Lore|Fishing Lore]], [[compendium/skills.md#Lore|Hunting Lore]], or [[compendium/skills.md#Lore|Mercantile Lore]]. The target becomes permanently trained in the chosen skill. A creature can benefit from Gift of Knowledge only once."
   - name: "Mix Couatl Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 26 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d6 (1d6) poison damage and [[stupefied|stupefied 1]] (1 round) __Stage 2__ 2d6 (2d6) poison damage, [[stunned|stunned 1]], and [[stupefied|stupefied 1]] (1 round) __Stage 3__ 2d8 (2d8) poison damage, [[stunned|stunned 1]], and [[stupefied|stupefied 2]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 26 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d6 (1d6) poison damage and [[rules/conditions.md#Stupefied|stupefied 1]] (1 round) __Stage 2__ 2d6 (2d6) poison damage, [[rules/conditions.md#Stunned|stunned 1]], and [[rules/conditions.md#Stupefied|stupefied 1]] (1 round) __Stage 3__ 2d8 (2d8) poison damage, [[rules/conditions.md#Stunned|stunned 1]], and [[rules/conditions.md#Stupefied|stupefied 2]] (1 round)"
   - name: "Wrap in Coils"
-    desc: "⬻ __Requirements__ The mix couatl has a Medium or smaller creature [[grabbed|grabbed]] or [[restrained|restrained]] in their jaws  __Effect__  The mix couatl moves the creature into their coils, freeing their jaws to make attacks, then uses Constrict against the creature. The mix couatl can hold as many creatures in their coils as will fit in their space."
+    desc: "⬻ __Requirements__ The mix couatl has a Medium or smaller creature [[rules/conditions.md#Grabbed|grabbed]] or [[rules/conditions.md#Restrained|restrained]] in their jaws  __Effect__  The mix couatl moves the creature into their coils, freeing their jaws to make attacks, then uses Constrict against the creature. The mix couatl can hold as many creatures in their coils as will fit in their space."
 
 speed: 15 feet, fly 50 feet
 
@@ -63,7 +63,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 26, attack +18; __Cantrips (4th)__ [[guidance]], [[light]], [[produce flame]], [[stabilize]]; __1st__ [[create water]], [[mending]]; __2nd__ [[detect alignment]] (at will), [[invisibility]] self only, [[speak with animals]]; __3rd__ [[heal]], [[mind reading]] (at will); __4th__ [[fireball]], [[speak with plants]]; __7th__ [[plane shift]] self only;"
+    desc: "DC 26, attack +18; __Cantrips (4th)__ [[guidance]], [[light]], [[produce-flame|produce flame]], [[stabilize]]; __1st__ [[create-water|create water]], [[mending]]; __2nd__ [[detect-alignment|detect alignment]] (at will), [[invisibility]] self only, [[speak-with-animals|speak with animals]]; __3rd__ [[heal]], [[mind-reading|mind reading]] (at will); __4th__ [[fireball]], [[speak-with-plants|speak with plants]]; __7th__ [[plane-shift|plane shift]] self only;"
 sourcebook: "_Bestiary 3_, page 56."
 ```
 

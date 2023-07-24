@@ -63,7 +63,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Prepared Spells"
-    desc: "DC 21, attack +11; __Cantrips (2nd)__ [[chill touch]], [[detect magic]], [[mage hand]], [[shield]], [[tanglefoot]]; __1st__ [[charm]], [[magic missile]], [[ray of enfeeblement]]; __2nd__ [[flaming sphere]], [[invisibility]];"
+    desc: "DC 21, attack +11; __Cantrips (2nd)__ [[chill-touch|chill touch]], [[detect-magic|detect magic]], [[mage-hand|mage hand]], [[shield]], [[tanglefoot]]; __1st__ [[charm]], [[magic-missile|magic missile]], [[ray-of-enfeeblement|ray of enfeeblement]]; __2nd__ [[flaming-sphere|flaming sphere]], [[invisibility]];"
   - name: "Divine Innate Spells"
     desc: "DC 17; __2nd__ [[darkness]];"
 sourcebook: "_Bestiary_, page 262."

@@ -38,11 +38,11 @@ abilities_bot:
   - name: "Constrict"
     desc: "⬻  2d4+3 (2d4+3) bludgeoning, DC 21."
   - name: "Elongate Tongue"
-    desc: "⬻  The penanggalan's tongue extends, the membrane stretching and becoming translucent. Until the end of the turn, the penanggalan's proboscis tongue [[Strike|Strikes]] have a 10-foot reach, and any target is [[flat-footed|flat-footed]] against the [[Strike]] unless it has a [[Perception]] DC of 22 or higher or the ability to precisely sense [[invisible|invisible]] things."
+    desc: "⬻  The penanggalan's tongue extends, the membrane stretching and becoming translucent. Until the end of the turn, the penanggalan's proboscis tongue [[Strike|Strikes]] have a 10-foot reach, and any target is [[rules/conditions.md#Flat-Footed|flat-footed]] against the [[Strike]] unless it has a [[compendium/skills.md#Perception|Perception]] DC of 22 or higher or the ability to precisely sense [[rules/conditions.md#Invisible|invisible]] things."
   - name: "Penanggalan Bile"
-    desc: " ([[disease]]);  __Saving Throw__ DC 19 Fortitude. __Stage 1__ [[drained|drained 1]] (1 week) __Stage 2__ [[drained|drained 2]] (1 week) __Stage 3__ [[drained|drained 3]]  (1 week)"
+    desc: " ([[disease]]);  __Saving Throw__ DC 19 Fortitude. __Stage 1__ [[rules/conditions.md#Drained|drained 1]] (1 week) __Stage 2__ [[rules/conditions.md#Drained|drained 2]] (1 week) __Stage 3__ [[rules/conditions.md#Drained|drained 3]]  (1 week)"
   - name: "Ride Corpse"
-    desc: "⬽ ([[concentrate]], [[polymorph]], [[transmutation]]);  The penanggalan inserts their entrails into their humanoid body, allowing them to appear as and move about like a normal human. The body has 10 Hit Points and the same defenses as the penanggalan. When the body is destroyed, the penanggalan is ejected unharmed. The body becomes a corpse, and if it is neither [[controlled|controlled]] by the penanggalan nor stored in an alchemical vat, it decays as normal."
+    desc: "⬽ ([[concentrate]], [[polymorph]], [[transmutation]]);  The penanggalan inserts their entrails into their humanoid body, allowing them to appear as and move about like a normal human. The body has 10 Hit Points and the same defenses as the penanggalan. When the body is destroyed, the penanggalan is ejected unharmed. The body becomes a corpse, and if it is neither [[rules/conditions.md#Controlled|controlled]] by the penanggalan nor stored in an alchemical vat, it decays as normal."
 
 speed: fly 40 feet
 

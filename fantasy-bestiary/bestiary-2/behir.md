@@ -41,7 +41,7 @@ abilities_bot:
   - name: "Swallow Whole"
     desc: "⬻ ([[attack]]);  Large, 2d12+7 (2d12+7) bludgeoning, Rupture 21."
   - name: "Wrap in Coils"
-    desc: "⬻ __Requirements__ The behir has a creature either [[restrained|restrained]] or [[grabbed|grabbed]] in its jaws  __Effect__  The behir moves the creature into its coils, freeing its jaws. The creature remains [[grabbed|grabbed]] and takes 1d6+6 (1d6+6) slashing damage. The behir's coils can hold as many creatures as will fit in its space."
+    desc: "⬻ __Requirements__ The behir has a creature either [[rules/conditions.md#Restrained|restrained]] or [[rules/conditions.md#Grabbed|grabbed]] in its jaws  __Effect__  The behir moves the creature into its coils, freeing its jaws. The creature remains [[rules/conditions.md#Grabbed|grabbed]] and takes 1d6+6 (1d6+6) slashing damage. The behir's coils can hold as many creatures as will fit in its space."
 
 speed: 30 feet, climb 15 feet
 

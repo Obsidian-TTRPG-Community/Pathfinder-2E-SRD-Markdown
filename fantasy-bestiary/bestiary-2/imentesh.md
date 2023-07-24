@@ -36,7 +36,7 @@ abilities_top:
     desc: " ([[divination]], [[divine]], [[prediction]]);  An akizendri can anticipate the most likely location of a creature through their supernatural insight into the forces of chaotic probabilities and chance. This grants the akizendri the ability to sense creatures within the listed range. A creature under the effects of nondetection or that is otherwise shielded from divinations and predictions cannot be noticed via entropy sense."
 abilities_mid:
   - name: "Protean Anatomy"
-    desc: " ([[divine]], [[transmutation]]);  An akizendri's vital organs shift and change shape and position constantly. Immediately after the akizendri takes acid, electricity, or sonic damage, it gains the listed amount of resistance to that damage type. This lasts for 1 hour or until the next time the protean takes damage of one of the other types (in which case its resistance changes to match that type), whichever comes first. The akizendri is immune to [[polymorph]] effects unless it is a willing target. If [[blinded|blinded]] or [[deafened|deafened]], the akizendri automatically recovers at the end of its next turn as new sensory organs grow to replace the compromised ones."
+    desc: " ([[divine]], [[transmutation]]);  An akizendri's vital organs shift and change shape and position constantly. Immediately after the akizendri takes acid, electricity, or sonic damage, it gains the listed amount of resistance to that damage type. This lasts for 1 hour or until the next time the protean takes damage of one of the other types (in which case its resistance changes to match that type), whichever comes first. The akizendri is immune to [[polymorph]] effects unless it is a willing target. If [[rules/conditions.md#Blinded|blinded]] or [[rules/conditions.md#Deafened|deafened]], the akizendri automatically recovers at the end of its next turn as new sensory organs grow to replace the compromised ones."
 abilities_bot:
   - name: "Change Shape"
     desc: "⬻ ([[concentrate]], [[divine]], [[polymorph]], [[transmutation]]);  The imentesh takes the appearance of any Large or smaller creature. This doesn't change its Speed or its attack and damage bonuses with its [[Strike|Strikes]], but might change the damage type its [[Strike|Strikes]] deal."
@@ -45,7 +45,7 @@ abilities_bot:
   - name: "Inflict Warpwave"
     desc: "⬻ ([[divine]], [[transmutation]]);  An imentesh inflicts a warpwave on a creature within 100 feet (page 204; (DC 29 Fortitude save to resist)."
   - name: "Sneak Attack"
-    desc: "  An imentesh's [[Strike|Strikes]] deal an additional 2d6 (2d6) precision damage to [[flat-footed|flat-footed]] targets."
+    desc: "  An imentesh's [[Strike|Strikes]] deal an additional 2d6 (2d6) precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] targets."
   - name: "Warpwave Strike"
     desc: " ([[divine]], [[transmutation]]);  Any creature struck and damaged by an imentesh's jaws [[Strike]] must succeed at a DC 29 Fortitude save or be subject to a warpwave (page 204)."
 
@@ -71,7 +71,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 29; __1st__ [[detect alignment]] at will; lawful only; __3rd__ [[haste]], [[mending]], [[shrink item]], [[slow]]; __4th__ [[creation]], [[dimension door]] (at will), [[shatter]]; __5th__ [[dimension door]], [[dispel magic]], [[divine wrath]] chaotic, [[sending]]; __Constant__ __(4th)__ [[freedom of movement]], __(5th)__ [[tongues]];"
+    desc: "DC 29; __1st__ [[detect-alignment|detect alignment]] at will; lawful only; __3rd__ [[haste]], [[mending]], [[shrink-item|shrink item]], [[slow]]; __4th__ [[creation]], [[dimension-door|dimension door]] (at will), [[shatter]]; __5th__ [[dimension-door|dimension door]], [[dispel-magic|dispel magic]], [[divine-wrath|divine wrath]] chaotic, [[sending]]; __Constant__ __(4th)__ [[freedom-of-movement|freedom of movement]], __(5th)__ [[tongues]];"
 sourcebook: "_Bestiary 2_, page 207."
 ```
 

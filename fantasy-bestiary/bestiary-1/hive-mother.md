@@ -37,9 +37,9 @@ abilities_bot:
   - name: "Armor-Rending Bite"
     desc: "⬺  The hive mother makes a mandibles [[Strike]]; if the [[Strike]] hits, the target's armor takes the damage and the acid damage bypasses the armor's Hardness."
   - name: "Frenzy Pheromone"
-    desc: "⬺  The hive mother unleashes a pheromone that causes all other ankhravs within a 100-foot emanation to become [[quickened|quickened 1]] until the start of the hive mother's next turn, and they can use the extra action only for [[Burrow]], [[Stride]], or [[Strike]] actions. The hive mother can't unleash the pheromone again for 1d4 (1d4) rounds."
+    desc: "⬺  The hive mother unleashes a pheromone that causes all other ankhravs within a 100-foot emanation to become [[rules/conditions.md#Quickened|quickened 1]] until the start of the hive mother's next turn, and they can use the extra action only for [[Burrow]], [[Stride]], or [[Strike]] actions. The hive mother can't unleash the pheromone again for 1d4 (1d4) rounds."
   - name: "Spray Acid"
-    desc: "⬺ ([[acid]]);  The hive mother spews acid in a 60-foot cone, dealing 8d6 (8d6) acid damage and 1d6 (1d6) [[persistent damage|persistent acid damage]] (DC 26 basic Reflex save). It can't spew acid again for 1d4 (1d4) rounds."
+    desc: "⬺ ([[acid]]);  The hive mother spews acid in a 60-foot cone, dealing 8d6 (8d6) acid damage and 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent acid damage]] (DC 26 basic Reflex save). It can't spew acid again for 1d4 (1d4) rounds."
 
 speed: 25 feet, burrow 20 feet
 

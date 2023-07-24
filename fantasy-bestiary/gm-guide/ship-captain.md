@@ -38,7 +38,7 @@ abilities_top:
     desc: "dagger, hand crossbow (10 bolts), leather armor, +1 rapier;"
 abilities_mid:
   - name: "Bravery"
-    desc: "  When the pirate rolls a success on a Will save against a [[fear]] effect, they get a critical success instead. In addition, anytime they gain the [[frightened|frightened]] condition, reduce its value by 1."
+    desc: "  When the pirate rolls a success on a Will save against a [[fear]] effect, they get a critical success instead. In addition, anytime they gain the [[rules/conditions.md#Frightened|frightened]] condition, reduce its value by 1."
 abilities_bot:
   - name: "Dual Disarm"
     desc: "⬺  The captain makes two [[Strike|Strikes]], one with their rapier and one with their main-gauche (in either order). If both [[Strike|Strikes]] hit, the ship captain can attempt to [[Disarm]] the target. Their multiple attack penalty increases only after all the attacks are made."
@@ -63,7 +63,7 @@ attacks:
   - name: Melee
     desc: "⬻ main-gauche +16 ([[agile]], [[disarm]], [[parry]], [[versatile|versatile s]]); __Damage__ 1d4+10 (1d4+10) piercing"
   - name: Ranged
-    desc: "⬻ hand crossbow +14 ([[range increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1d6+6 (1d6+6) piercing"
+    desc: "⬻ hand crossbow +14 ([[range-increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1d6+6 (1d6+6) piercing"
 
 sourcebook: "_Gamemastery Guide_, page 243."
 ```

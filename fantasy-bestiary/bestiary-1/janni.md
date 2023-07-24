@@ -59,11 +59,11 @@ attacks:
   - name: Melee
     desc: "⬻ fist +14 ([[agile]], [[magical]], [[nonlethal]]); __Damage__ 1d4+10 (1d4+10) bludgeoning"
   - name: Ranged
-    desc: "⬻ composite shortbow +12 ([[deadly|deadly 1d10]], [[propulsive]], [[range increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6+5 (1d6+5) piercing"
+    desc: "⬻ composite shortbow +12 ([[deadly|deadly 1d10]], [[propulsive]], [[range-increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6+5 (1d6+5) piercing"
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 21; __1st__ [[create water]]; __2nd__ [[create food]], [[invisibility]] (3), [[speak with animals]]; __7th__ [[plane shift]] to Astral Plane,Elemental Planes,or Material Plane only;"
+    desc: "DC 21; __1st__ [[create-water|create water]]; __2nd__ [[create-food|create food]], [[invisibility]] (3), [[speak-with-animals|speak with animals]]; __7th__ [[plane-shift|plane shift]] to Astral Plane,Elemental Planes,or Material Plane only;"
 sourcebook: "_Bestiary_, page 162."
 ```
 

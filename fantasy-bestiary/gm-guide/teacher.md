@@ -33,9 +33,9 @@ abilityMods: [0, 0, -1, 4, 2, 3]
 
 abilities_top:
   - name: "Font of Knowledge"
-    desc: "  The teacher can attempt to [[Recall Knowledge]] on any general subject with a +10 modifier."
+    desc: "  The teacher can attempt to [[Recall-Knowledge|Recall Knowledge]] on any general subject with a +10 modifier."
   - name: "Inspirational Presence"
-    desc: " ([[aura]], [[emotion]], [[mental]]);  50 feet. Any of the teacher's students in the aura gains a +1 circumstance bonus to [[Recall Knowledge]]."
+    desc: " ([[aura]], [[emotion]], [[mental]]);  50 feet. Any of the teacher's students in the aura gains a +1 circumstance bonus to [[Recall-Knowledge|Recall Knowledge]]."
   - name: Items
     desc: "cane (functions as staff), textbook, writing set;"
 

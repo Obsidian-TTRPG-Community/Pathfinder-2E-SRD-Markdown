@@ -33,7 +33,7 @@ abilityMods: [-2, 4, 1, 0, 2, 4]
 
 abilities_bot:
   - name: "Fiddle"
-    desc: "⬻ ([[auditory]], [[emotion]], [[enchantment]], [[mental]], [[primal]]);  A grig can rub its legs together to create a catchy fiddling tune that compels others within 30 feet to dance about, with varying effects depending on a DC 18 Will save. A listener is temporarily immune for 10 minutes on a success, but otherwise, if the grig continues to Fiddle each round, the creature receives no additional saves.\n__Success__ No effect.\n__Failure__ [[Flat-footed|Flat-footed]] and –10-foot status penalty to Speeds.\n__Critical Failure__ As failure, and also [[slowed|slowed 1]]."
+    desc: "⬻ ([[auditory]], [[emotion]], [[enchantment]], [[mental]], [[primal]]);  A grig can rub its legs together to create a catchy fiddling tune that compels others within 30 feet to dance about, with varying effects depending on a DC 18 Will save. A listener is temporarily immune for 10 minutes on a success, but otherwise, if the grig continues to Fiddle each round, the creature receives no additional saves.\n__Success__ No effect.\n__Failure__ [[rules/conditions.md#Flat-Footed|Flat-footed]] and –10-foot status penalty to Speeds.\n__Critical Failure__ As failure, and also [[rules/conditions.md#Slowed|slowed 1]]."
 
 speed: 25 feet, fly 30 feet
 
@@ -55,7 +55,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 18; __Cantrips (2nd)__ [[ghost sound]]; __1st__ [[illusory disguise]]; __2nd__ [[glitterdust]], [[invisibility]] self only;"
+    desc: "DC 18; __Cantrips (2nd)__ [[ghost-sound|ghost sound]]; __1st__ [[illusory-disguise|illusory disguise]]; __2nd__ [[glitterdust]], [[invisibility]] self only;"
 sourcebook: "_Bestiary_, page 308."
 ```
 

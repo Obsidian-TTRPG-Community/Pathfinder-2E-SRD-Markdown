@@ -65,7 +65,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 28; __1st__ [[magic weapon]] (at will); __6th__ [[chain lightning]]; __Constant__ ;"
+    desc: "DC 28; __1st__ [[magic-weapon|magic weapon]] (at will); __6th__ [[chain-lightning|chain lightning]]; __Constant__ ;"
 sourcebook: "_Bestiary 3_, page 42."
 ```
 

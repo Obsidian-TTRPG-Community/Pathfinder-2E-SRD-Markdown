@@ -34,7 +34,7 @@ abilities_bot:
   - name: "Swarming Bites"
     desc: "⬻  Each enemy in the swarm's space takes 1d6 (1d6) piercing damage and must attempt a DC 17 basic Reflex save. A creature that fails its save is exposed to filth fever."
   - name: "Filth Fever"
-    desc: " ([[disease]]);  __Saving Throw__ DC 14 Fortitude. __Stage 1__ carrier with no ill effect (1d4 (1d4) hours) __Stage 2__ [[sickened|sickened 1]] (1 day) __Stage 3__ [[sickened|sickened 1]] and [[slowed|slowed 1]] (1 day) __Stage 4__ [[unconscious|unconscious]] (1 day) __Stage 5__ dead (undefined)"
+    desc: " ([[disease]]);  __Saving Throw__ DC 14 Fortitude. __Stage 1__ carrier with no ill effect (1d4 (1d4) hours) __Stage 2__ [[rules/conditions.md#Sickened|sickened 1]] (1 day) __Stage 3__ [[rules/conditions.md#Sickened|sickened 1]] and [[rules/conditions.md#Slowed|slowed 1]] (1 day) __Stage 4__ [[rules/conditions.md#Unconscious|unconscious]] (1 day) __Stage 5__ dead (undefined)"
 
 speed: 30 feet, climb 10 feet
 

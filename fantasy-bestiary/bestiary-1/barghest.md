@@ -59,7 +59,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 21; __1st__ [[charm]]; __3rd__ [[levitate]] (at will); __4th__ [[blink]] (at will), [[confusion]], [[dimension door]] self only;"
+    desc: "DC 21; __1st__ [[charm]]; __3rd__ [[levitate]] (at will); __4th__ [[blink]] (at will), [[confusion]], [[dimension-door|dimension door]] self only;"
 sourcebook: "_Bestiary_, page 36."
 ```
 

@@ -38,7 +38,7 @@ abilities_bot:
   - name: "Efficient Capture"
     desc: "⬽ ([[attack]], [[manipulate]]); __Requirements__ The jailer has manacles in hand and is adjacent to a creature  __Effect__  The jailer attempts to bind the creature's wrists or ankles with the manacles. If the jailer succeeds at an attack roll with a +9 modifier against the target's AC, they apply the manacles."
   - name: "Intimidating Strike"
-    desc: "⬺ ([[emotion]], [[fear]], [[fighter]], [[mental]]);  The jailer makes a melee [[Strike]]. If it hits and deals damage, the target is [[frightened|frightened 1]], or [[frightened|frightened 2]] on a critical hit."
+    desc: "⬺ ([[emotion]], [[fear]], [[fighter]], [[mental]]);  The jailer makes a melee [[Strike]]. If it hits and deals damage, the target is [[rules/conditions.md#Frightened|frightened 1]], or [[rules/conditions.md#Frightened|frightened 2]] on a critical hit."
   - name: "Subdue Prisoners"
     desc: "  The jailer doesn't take the normal penalty for making a nonlethal attack when attacking with their club."
 
@@ -58,7 +58,7 @@ attacks:
   - name: Melee
     desc: "⬻ club +11 __Damage__ 1d6+8 (1d6+8) bludgeoning"
   - name: Ranged
-    desc: "⬻ crossbow +10 ([[range increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1d8+4 (1d8+4) piercing"
+    desc: "⬻ crossbow +10 ([[range-increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1d8+4 (1d8+4) piercing"
   - name: Melee
     desc: "⬻ club +10 ([[thrown|thrown 10 feet]]); __Damage__ 1d6+6 (1d6+6) bludgeoning"
 

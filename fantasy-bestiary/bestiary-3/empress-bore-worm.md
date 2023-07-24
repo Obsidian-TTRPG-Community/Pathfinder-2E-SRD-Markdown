@@ -38,7 +38,7 @@ abilities_bot:
   - name: "Corrosive Wake"
     desc: "⬻  The empress bore worm [[Stride|Strides]], leaving behind dribbles of acid in every square that it passes through. A creature that enters or begins its turn in such a square takes 3d6 (3d6) acid damage (DC 22 basic Fortitude save). The acid becomes inert after 1 minute."
   - name: "Painful Bite"
-    desc: "  The bite of an empress bore worm causes excruciating pain. The target must succeed at a DC 25 Fortitude save or become [[sickened|sickened 1]] from the pain ([[sickened|sickened 2]] on a critical failure)."
+    desc: "  The bite of an empress bore worm causes excruciating pain. The target must succeed at a DC 25 Fortitude save or become [[rules/conditions.md#Sickened|sickened 1]] from the pain ([[rules/conditions.md#Sickened|sickened 2]] on a critical failure)."
 
 speed: 25 feet, burrow 40 feet
 

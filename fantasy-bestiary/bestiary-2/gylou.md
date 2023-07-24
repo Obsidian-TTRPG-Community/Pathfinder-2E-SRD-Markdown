@@ -35,9 +35,9 @@ abilities_bot:
   - name: "Change Shape"
     desc: "⬻ ([[concentrate]], [[divine]], [[polymorph]], [[transmutation]]);  The gylou adopts the appearance of any Small or Medium humanoid. This doesn't change their Speed or the attack and damage modifiers of their [[Strike|Strikes]], but it might change the damage type their [[Strike|Strikes]] deal (typically to bludgeoning)."
   - name: "Indispensable Savvy"
-    desc: "⬲ __Frequency__ once per day __Trigger__ The gylou attempts a skill check but hasn't rolled yet __Effect__  The gylou demonstrates a preternatural ability for the task at hand. They use their [[Deception]] modifier for the triggering check and for all skill checks using the same skill thereafter until the next time the gylou uses this ability or until 24 hours have passed, whichever happens first."
+    desc: "⬲ __Frequency__ once per day __Trigger__ The gylou attempts a skill check but hasn't rolled yet __Effect__  The gylou demonstrates a preternatural ability for the task at hand. They use their [[compendium/skills.md#Deception|Deception]] modifier for the triggering check and for all skill checks using the same skill thereafter until the next time the gylou uses this ability or until 24 hours have passed, whichever happens first."
   - name: "Tentacle Encage"
-    desc: "⬻ ([[attack]]); __Requirements__ The gylou has a Medium or smaller creature [[grabbed|grabbed]]  __Effect__  The gylou transfers the [[grabbed|grabbed]] creature into their lower body's net of encaging tentacles, freeing their limbs and tentacles to make [[Strike|Strikes]]. This has the same effects as Swallow Whole (Medium, 2d12+12 (2d12+12) bludgeoning, Rupture 30), except the encaged creature is not at risk of suffocation, and the gylou can bring the encaged creature with them when they cast [[dimension door]]. A gylou can have only one creature encaged at a time."
+    desc: "⬻ ([[attack]]); __Requirements__ The gylou has a Medium or smaller creature [[rules/conditions.md#Grabbed|grabbed]]  __Effect__  The gylou transfers the [[rules/conditions.md#Grabbed|grabbed]] creature into their lower body's net of encaging tentacles, freeing their limbs and tentacles to make [[Strike|Strikes]]. This has the same effects as Swallow Whole (Medium, 2d12+12 (2d12+12) bludgeoning, Rupture 30), except the encaged creature is not at risk of suffocation, and the gylou can bring the encaged creature with them when they cast [[dimension-door|dimension door]]. A gylou can have only one creature encaged at a time."
 
 speed: 35 feet, climb 35 feet
 
@@ -59,7 +59,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 36, attack +28; __4th__ [[charm]] (3), [[dimension door]] (at will), [[enthrall]] (at will); __5th__ [[black tentacles]], [[dimension door]], [[illusory object]] (at will); __7th__ [[dispel magic]], [[dominate]]; __Constant__ __(7th)__ [[true seeing]];"
+    desc: "DC 36, attack +28; __4th__ [[charm]] (3), [[dimension-door|dimension door]] (at will), [[enthrall]] (at will); __5th__ [[black-tentacles|black tentacles]], [[dimension-door|dimension door]], [[illusory-object|illusory object]] (at will); __7th__ [[dispel-magic|dispel magic]], [[dominate]]; __Constant__ __(7th)__ [[true-seeing|true seeing]];"
 sourcebook: "_Bestiary 2_, page 76."
 ```
 

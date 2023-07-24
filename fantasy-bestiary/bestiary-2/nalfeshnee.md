@@ -40,7 +40,7 @@ abilities_bot:
   - name: "Claim Wealth"
     desc: "⬻ ([[conjuration]], [[divine]], [[extradimensional]]);  The nalfeshnee steals all unattended items glowing with its Light of Avarice into an extradimensional space. The demon can [[Interact]] to regurgitate any number of these items into their hand or onto the ground. If the demon dies, is affected by a [[teleportation]] effect, or consumes an extradimensional space (such as a bag of holding), they vomit up all the items."
   - name: "Light of Avarice"
-    desc: "⬺ ([[divine]], [[enchantment]], [[light]], [[mental]]); __Frequency__ once per hour  __Effect__  Beams of unholy light shoot from the nalfeshnee toward four items within 60 feet. If someone is holding or wearing a targeted item, they can keep it from being affected with a successful DC 34 Reflex save. For 1 minute, the affected items glow in nauseating colors. Any non-demon is [[sickened|sickened 2]] and [[slowed|slowed 1]] as long as it holds, wears, or touches a glowing item. Recovering from the sickness requires a successful DC 29 Will save instead of a Fortitude save. Ending the sickness this way ends the [[slowed|slowed]] condition and makes the creature temporarily immune to Light of Avarice for 24 hours. If the creature removes or drops the item, both conditions end immediately but the creature doesn't become immune to Light of Avarice."
+    desc: "⬺ ([[divine]], [[enchantment]], [[light]], [[mental]]); __Frequency__ once per hour  __Effect__  Beams of unholy light shoot from the nalfeshnee toward four items within 60 feet. If someone is holding or wearing a targeted item, they can keep it from being affected with a successful DC 34 Reflex save. For 1 minute, the affected items glow in nauseating colors. Any non-demon is [[rules/conditions.md#Sickened|sickened 2]] and [[rules/conditions.md#Slowed|slowed 1]] as long as it holds, wears, or touches a glowing item. Recovering from the sickness requires a successful DC 29 Will save instead of a Fortitude save. Ending the sickness this way ends the [[rules/conditions.md#Slowed|slowed]] condition and makes the creature temporarily immune to Light of Avarice for 24 hours. If the creature removes or drops the item, both conditions end immediately but the creature doesn't become immune to Light of Avarice."
 
 speed: 30 feet, fly 40 feet
 
@@ -62,7 +62,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 34; __4th__ [[dimension door]] (at will); __5th__ [[dimension door]], [[illusory object]] (at will); __6th__ [[dispel magic]] (at will), [[divine wrath]] (at will); __Constant__ ;"
+    desc: "DC 34; __4th__ [[dimension-door|dimension door]] (at will); __5th__ [[dimension-door|dimension door]], [[illusory-object|illusory object]] (at will); __6th__ [[dispel-magic|dispel magic]] (at will), [[divine-wrath|divine wrath]] (at will); __Constant__ ;"
 sourcebook: "_Bestiary 2_, page 68."
 ```
 

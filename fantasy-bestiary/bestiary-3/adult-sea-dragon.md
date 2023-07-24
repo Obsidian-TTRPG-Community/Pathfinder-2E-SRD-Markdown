@@ -37,7 +37,7 @@ abilities_mid:
   - name: "Frightful Presence"
     desc: " ([[aura]], [[emotion]], [[fear]], [[mental]]);  90 feet, DC 30 (page 305)"
   - name: "Vortex"
-    desc: " ([[aura]], [[water]]);  40 feet. Water in the aura that's also in the same body of water as the dragon is [[terrain|difficult terrain]] for Swimming creatures which don't have the [[water]] trait."
+    desc: " ([[aura]], [[water]]);  40 feet. Water in the aura that's also in the same body of water as the dragon is [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] for Swimming creatures which don't have the [[water]] trait."
   - name: "Liquefy"
     desc: "⬲ ([[abjuration]], [[arcane]], [[water]]); __Trigger__ The dragon is targeted by a [[Strike]] or spell that could deal fire or physical damage to them __Effect__  The dragon liquefies, turning entirely to water while maintaining their shape, for a split second. Against the triggering effect, they gain resistance 20 to fire and to all physical damage."
 abilities_bot:
@@ -50,7 +50,7 @@ abilities_bot:
   - name: "Greater Constrict"
     desc: "⬻  3d8+6 (3d8+6) bludgeoning, DC 30 (page 305)"
   - name: "Hyponatremia"
-    desc: " ([[water]]);  A living creature that takes damage from the sea dragon's jaws [[Strike]] must succeed at a DC 32 Fortitude save or become [[sickened|sickened 1]] as a surge of excess water floods its body."
+    desc: " ([[water]]);  A living creature that takes damage from the sea dragon's jaws [[Strike]] must succeed at a DC 32 Fortitude save or become [[rules/conditions.md#Sickened|sickened 1]] as a surge of excess water floods its body."
 
 speed: 30 feet, fly 100 feet, swim 50 feet; water walk;
 
@@ -74,7 +74,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 32; __2nd__ [[create water]] (at will), [[endure elements]] self only; __Constant__ __(2nd)__ [[water walk]];"
+    desc: "DC 32; __2nd__ [[create-water|create water]] (at will), [[endure-elements|endure elements]] self only; __Constant__ __(2nd)__ [[water-walk|water walk]];"
 sourcebook: "_Bestiary 3_, page 78."
 ```
 

@@ -40,9 +40,9 @@ abilities_bot:
   - name: "Accursed Breath"
     desc: "⬺ ([[curse]], [[evocation]], [[fire]], [[occult]]);  The Sandpoint Devil breathes a 30-foot cone of flame that deals 6d10 (6d10) fire damage. Each creature in the area must attempt a DC 26 Reflex save. The."
   - name: "Sandpoint"
-    desc: "  Devil can't use Accursed Breath for 1d4 (1d4) rounds.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature takes half damage.\n__Failure__ The creature takes full damage and is [[sickened|sickened 2]] by the agonizing pain of its burns.\n__Critical Failure__ The creature takes full damage and is cursed. The victim's flesh appears charred and burned, and the pain of being burned alive never fully vanishes. The cursed creature takes a –2 status penalty to all checks from the constant pain. Healing doesn't alter the appearance of the burns or lessen the penalty, but removing the curse does."
+    desc: "  Devil can't use Accursed Breath for 1d4 (1d4) rounds.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature takes half damage.\n__Failure__ The creature takes full damage and is [[rules/conditions.md#Sickened|sickened 2]] by the agonizing pain of its burns.\n__Critical Failure__ The creature takes full damage and is cursed. The victim's flesh appears charred and burned, and the pain of being burned alive never fully vanishes. The cursed creature takes a –2 status penalty to all checks from the constant pain. Healing doesn't alter the appearance of the burns or lessen the penalty, but removing the curse does."
   - name: "Devil's Howl"
-    desc: "⬺ ([[auditory]], [[emotion]], [[enchantment]], [[fear]], [[mental]], [[occult]]);  The Sandpoint Devil unleashes a bloodcurdling howl that can be heard for miles. Each creature within a 100-foot emanation must succeed at a DC 26 Will save or become [[frightened|frightened 2]] ([[frightened|frightened 3]] and [[fleeing|fleeing]] as long as it remains [[frightened|frightened]] on a critical failure). Creatures that attempt this Will save are then immune to Devil's Howl for 24 hours."
+    desc: "⬺ ([[auditory]], [[emotion]], [[enchantment]], [[fear]], [[mental]], [[occult]]);  The Sandpoint Devil unleashes a bloodcurdling howl that can be heard for miles. Each creature within a 100-foot emanation must succeed at a DC 26 Will save or become [[rules/conditions.md#Frightened|frightened 2]] ([[rules/conditions.md#Frightened|frightened 3]] and [[rules/conditions.md#Fleeing|fleeing]] as long as it remains [[rules/conditions.md#Frightened|frightened]] on a critical failure). Creatures that attempt this Will save are then immune to Devil's Howl for 24 hours."
   - name: "Trample"
     desc: "⬽  Medium or smaller, hoof, DC 23."
 
@@ -66,7 +66,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 23, attack +15; __Cantrips (4th)__ [[produce flame]]; __1st__ [[gust of wind]] (at will); __2nd__ [[obscuring mist]]; __3rd__ [[stinking cloud]]; __4th__ [[dimension door]], [[phantasmal killer]];"
+    desc: "DC 23, attack +15; __Cantrips (4th)__ [[produce-flame|produce flame]]; __1st__ [[gust-of-wind|gust of wind]] (at will); __2nd__ [[obscuring-mist|obscuring mist]]; __3rd__ [[stinking-cloud|stinking cloud]]; __4th__ [[dimension-door|dimension door]], [[phantasmal-killer|phantasmal killer]];"
 sourcebook: "_Bestiary 2_, page 230."
 ```
 

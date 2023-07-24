@@ -35,7 +35,7 @@ abilities_top:
   - name: "Canine Vulnerability"
     desc: "  Dogs and other canines are natural enemies of kushtaka. Canine animals, including creatures transformed into a canine using animal form or a similar effect, ignore the kushtaka's resistance to physical attacks. In addition, a canine with imprecise scent can use it as a precise sense when detecting a kushtaka."
   - name: "Null Spirit"
-    desc: "  Kushtaka exist completely separated from their mortal souls, making them immune to the effects of haunts and most effects from incorporeal spirits and undead, but also unaware of their presence; incorporeal undead are both [[invisible|invisible]] and inaudible to them. Incorporeal spirits and undead can affect a kushtaka only with effects that manifest in the physical world. For instance, a ghost mage casting a fireball or a poltergeist throwing objects could harm the kushtaka, but a ghost commoner's Frightful Moan and ghostly hand [[Strike]] would not."
+    desc: "  Kushtaka exist completely separated from their mortal souls, making them immune to the effects of haunts and most effects from incorporeal spirits and undead, but also unaware of their presence; incorporeal undead are both [[rules/conditions.md#Invisible|invisible]] and inaudible to them. Incorporeal spirits and undead can affect a kushtaka only with effects that manifest in the physical world. For instance, a ghost mage casting a fireball or a poltergeist throwing objects could harm the kushtaka, but a ghost commoner's Frightful Moan and ghostly hand [[Strike]] would not."
 abilities_mid:
   - name: "Persuasive Rebuttal"
     desc: "⬲ __Requirements__ The kushtaka has a [[charm]] spell available __Trigger__ A creature fails a check to [[Strike]] or [[Demoralize]] the kushtaka __Effect__  The kushtaka casts charm on the target."
@@ -63,7 +63,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 21, attack +13; __Cantrips (2nd)__ [[ghost sound]], [[mage hand]], [[telekinetic projectile]]; __2nd__ [[charm]] (2), [[invisibility]] (2), [[sleep]]; __Constant__ __(2nd)__ [[undetectable alignment]];"
+    desc: "DC 21, attack +13; __Cantrips (2nd)__ [[ghost-sound|ghost sound]], [[mage-hand|mage hand]], [[telekinetic-projectile|telekinetic projectile]]; __2nd__ [[charm]] (2), [[invisibility]] (2), [[sleep]]; __Constant__ __(2nd)__ [[undetectable-alignment|undetectable alignment]];"
 sourcebook: "_Bestiary 3_, page 158."
 ```
 

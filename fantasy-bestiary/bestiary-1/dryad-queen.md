@@ -36,12 +36,12 @@ abilityMods: [2, 6, 6, 4, 4, 8]
 
 abilities_top:
   - name: "Nature Empathy"
-    desc: "  The dryad can use [[Diplomacy]] to [[Make an Impression]] on and make very simple Requests of animals and plants."
+    desc: "  The dryad can use [[compendium/skills.md#Diplomacy|Diplomacy]] to [[Make-an-Impression|Make an Impression]] on and make very simple Requests of animals and plants."
   - name: "Tied to the Land"
     desc: " "
 abilities_mid:
   - name: "Nymph's Beauty"
-    desc: " ([[aura]], [[emotion]], [[enchantment]], [[incapacitation]], [[mental]], [[primal]], [[visual]]);  DC 30. On a failed save, the target is [[immobilized|immobilized]] in awe for 1 minute."
+    desc: " ([[aura]], [[emotion]], [[enchantment]], [[incapacitation]], [[mental]], [[primal]], [[visual]]);  DC 30. On a failed save, the target is [[rules/conditions.md#Immobilized|immobilized]] in awe for 1 minute."
 abilities_bot:
   - name: "Change Shape"
     desc: "⬻ ([[polymorph]], [[primal]], [[transmutation]]); "
@@ -70,13 +70,13 @@ attacks:
   - name: Melee
     desc: "⬻ branch +27 ([[finesse]], [[magical]]); __Damage__ 3d12+8 (3d12+8) bludgeoning"
   - name: Ranged
-    desc: "⬻ leaves +27 ([[conjuration]], [[plant]], [[primal]], [[range increment|range increment 60 feet]]); __Damage__ 3d8+6 (3d8+6) slashing"
+    desc: "⬻ leaves +27 ([[conjuration]], [[plant]], [[primal]], [[range-increment|range increment 60 feet]]); __Damage__ 3d8+6 (3d8+6) slashing"
 
 spellcasting:
   - name: "Primal Prepared Spells"
-    desc: "DC 35, attack +25; __Cantrips (7th)__ [[detect magic]], [[guidance]], [[light]], [[ray of frost]], [[stabilize]]; __1st__ [[fleet step]], [[gust of wind]], [[negate aroma]]; __2nd__ [[animal messenger]], [[faerie fire]], [[remove fear]]; __3rd__ [[earthbind]], [[haste]], [[wall of thorns]]; __4th__ [[fly]], [[resist energy]], [[stoneskin]]; __5th__ [[cone of cold]], [[death ward]], [[heal]]; __6th__ [[baleful polymorph]], [[chain lightning]], [[tangling creepers]]; __7th__ [[regenerate]], [[summon plant or fungus]];"
+    desc: "DC 35, attack +25; __Cantrips (7th)__ [[detect-magic|detect magic]], [[guidance]], [[light]], [[ray-of-frost|ray of frost]], [[stabilize]]; __1st__ [[fleet-step|fleet step]], [[gust-of-wind|gust of wind]], [[negate-aroma|negate aroma]]; __2nd__ [[animal-messenger|animal messenger]], [[faerie-fire|faerie fire]], [[remove-fear|remove fear]]; __3rd__ [[earthbind]], [[haste]], [[wall-of-thorns|wall of thorns]]; __4th__ [[fly]], [[resist-energy|resist energy]], [[stoneskin]]; __5th__ [[cone-of-cold|cone of cold]], [[death-ward|death ward]], [[heal]]; __6th__ [[baleful-polymorph|baleful polymorph]], [[chain-lightning|chain lightning]], [[tangling-creepers|tangling creepers]]; __7th__ [[regenerate]], [[summon-plant-or-fungus|summon plant or fungus]];"
   - name: "Primal Innate Spells"
-    desc: "DC 35, attack +25; __Cantrips (5th)__ [[tanglefoot]]; __2nd__ [[shape wood]] (at will), [[tree shape]] (at will); __3rd__ [[entangle]] (at will), [[sleep]] (at will); __4th__ [[charm]] (at will), [[suggestion]] (at will); __5th__ [[tree stride]] (3); __8th__ [[impaling briars]] Core Rulebook 400; __Constant__ __(4th)__ [[speak with plants]];"
+    desc: "DC 35, attack +25; __Cantrips (5th)__ [[tanglefoot]]; __2nd__ [[shape-wood|shape wood]] (at will), [[tree-shape|tree shape]] (at will); __3rd__ [[entangle]] (at will), [[sleep]] (at will); __4th__ [[charm]] (at will), [[suggestion]] (at will); __5th__ [[tree-stride|tree stride]] (3); __8th__ [[impaling-briars|impaling briars]] Core Rulebook 400; __Constant__ __(4th)__ [[speak-with-plants|speak with plants]];"
 sourcebook: "_Bestiary_, page 249."
 ```
 

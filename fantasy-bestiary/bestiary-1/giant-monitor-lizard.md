@@ -31,12 +31,12 @@ abilityMods: [3, 2, 3, -4, 1, -2]
 
 abilities_mid:
   - name: "Gnashing Grip"
-    desc: "⬲ __Trigger__ A creature [[grabbed|grabbed]] by the giant monitor lizard's jaws fails a check to [[Escape]]. __Effect__  The giant monitor lizard's jaws deal 1d6 (1d6) piercing damage and the triggering creature is exposed to monitor lizard venom."
+    desc: "⬲ __Trigger__ A creature [[rules/conditions.md#Grabbed|grabbed]] by the giant monitor lizard's jaws fails a check to [[Escape]]. __Effect__  The giant monitor lizard's jaws deal 1d6 (1d6) piercing damage and the triggering creature is exposed to monitor lizard venom."
 abilities_bot:
   - name: "Lurching Charge"
     desc: "⬺  The giant monitor lizard [[Stride|Strides]] twice and then makes a jaws [[Strike]]. If the lizard moved at least 20 feet away from its starting position, it gains a +2 circumstance bonus to this attack roll."
   - name: "Monitor Lizard Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 17 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 1d6 (1d6) poison damage and [[enfeebled|enfeebled 2]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 17 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ [[rules/conditions.md#Enfeebled|enfeebled 1]] (1 round) __Stage 2__ 1d6 (1d6) poison damage and [[rules/conditions.md#Enfeebled|enfeebled 2]] (1 round)"
 
 speed: 30 feet, swim 30 feet
 

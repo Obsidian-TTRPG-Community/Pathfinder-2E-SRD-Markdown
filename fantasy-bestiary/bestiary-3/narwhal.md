@@ -37,7 +37,7 @@ abilities_top:
     desc: "  A narwhal can hold its breath for 30 minutes."
 abilities_bot:
   - name: "Impaling Charge"
-    desc: "⬺  The narwhal Swims twice and makes a tusk [[Strike]]. If it moved at least 20 feet from its starting position, the narwhal deals an extra 1d10 (1d10) damage on this [[Strike]]. A target damaged by Impaling Charge is [[grabbed|grabbed]] until the start of the narwhal's next turn unless it [[Escape|Escapes]] before then (DC 20). The narwhal can't [[Grapple]] to extend the duration of this grab."
+    desc: "⬺  The narwhal Swims twice and makes a tusk [[Strike]]. If it moved at least 20 feet from its starting position, the narwhal deals an extra 1d10 (1d10) damage on this [[Strike]]. A target damaged by Impaling Charge is [[rules/conditions.md#Grabbed|grabbed]] until the start of the narwhal's next turn unless it [[Escape|Escapes]] before then (DC 20). The narwhal can't [[Grapple]] to extend the duration of this grab."
 
 speed: swim 60 feet
 

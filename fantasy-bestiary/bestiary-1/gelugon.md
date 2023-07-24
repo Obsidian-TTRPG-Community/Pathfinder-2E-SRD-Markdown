@@ -62,7 +62,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 33; __Cantrips (7th)__ [[ray of frost]]; __4th__ [[dimension door]] (at will); __5th__ [[dimension door]], [[wall of ice]] (3); __6th__ [[illusory scene]]; __7th__ [[cone of cold]] (2); __Constant__ __(4th)__ [[fly]];"
+    desc: "DC 33; __Cantrips (7th)__ [[ray-of-frost|ray of frost]]; __4th__ [[dimension-door|dimension door]] (at will); __5th__ [[dimension-door|dimension door]], [[wall-of-ice|wall of ice]] (3); __6th__ [[illusory-scene|illusory scene]]; __7th__ [[cone-of-cold|cone of cold]] (2); __Constant__ __(4th)__ [[fly]];"
 sourcebook: "_Bestiary_, page 91."
 ```
 

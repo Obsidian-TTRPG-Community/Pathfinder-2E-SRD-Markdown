@@ -24,7 +24,7 @@ trait_04: "Dragon"
 modifier: 30
 perception:
   - name: "Perception"
-    desc: "Perception +30; __imprecise scent 60__, __[[darkvision]]__, __[[true seeing]]__;"
+    desc: "Perception +30; __imprecise scent 60__, __[[darkvision]]__, __[[true-seeing|true seeing]]__;"
 languages: "Aklo, Draconic, Sylvan; "
 skills:
   - name: "Skills"
@@ -33,18 +33,18 @@ abilityMods: [9, 6, 8, -2, 6, 7]
 
 abilities_mid:
   - name: "Curse of the Crooked Cane"
-    desc: " ([[curse]], [[primal]]);  When a creature slays a cairn linnorm, it must succeed at a DC 44 Will save or become permanently [[enfeebled|enfeebled 2]]. In addition, the victim ages at an accelerated rate, aging 1 year every day, eventually causing it to die of old age if the curse is left untended."
+    desc: " ([[curse]], [[primal]]);  When a creature slays a cairn linnorm, it must succeed at a DC 44 Will save or become permanently [[rules/conditions.md#Enfeebled|enfeebled 2]]. In addition, the victim ages at an accelerated rate, aging 1 year every day, eventually causing it to die of old age if the curse is left untended."
   - name: "Attack of Opportunity"
     desc: "⬲  Tail only."
 abilities_bot:
   - name: "Improved Grab"
     desc: "⭓ "
   - name: "Breath Weapon"
-    desc: "⬺ ([[acid]], [[evocation]], [[primal]]);  The cairn linnorm expels a 60-foot cone of negative energy–infused acid, dealing 19d6 (19d6) acid damage to creatures in the area (DC 40 basic Reflex save) The acid also saps the life out of affected creatures. At the beginning of the linnorm's next turn, each creature that failed the Reflex save must succeed at a DC 40 Fortitude save or become [[drained|drained 1]] ([[drained|drained 2]] on a critical failure). The cairn linnorm can't use Breath Weapon again for 1d4 (1d4) rounds."
+    desc: "⬺ ([[acid]], [[evocation]], [[primal]]);  The cairn linnorm expels a 60-foot cone of negative energy–infused acid, dealing 19d6 (19d6) acid damage to creatures in the area (DC 40 basic Reflex save) The acid also saps the life out of affected creatures. At the beginning of the linnorm's next turn, each creature that failed the Reflex save must succeed at a DC 40 Fortitude save or become [[rules/conditions.md#Drained|drained 1]] ([[rules/conditions.md#Drained|drained 2]] on a critical failure). The cairn linnorm can't use Breath Weapon again for 1d4 (1d4) rounds."
   - name: "Cairn Linnorm Venom"
-    desc: " ([[acid]], [[poison]]);  __Saving Throw__ DC 41 Fortitude. __Maximum Duration__ 10 rounds __Stage 1__ 6d6 (6d6) acid damage and [[drained|drained 1]] (1 round) __Stage 2__ 8d6 (8d6) acid damage and [[drained|drained 2]] (1 round)"
+    desc: " ([[acid]], [[poison]]);  __Saving Throw__ DC 41 Fortitude. __Maximum Duration__ 10 rounds __Stage 1__ 6d6 (6d6) acid damage and [[rules/conditions.md#Drained|drained 1]] (1 round) __Stage 2__ 8d6 (8d6) acid damage and [[rules/conditions.md#Drained|drained 2]] (1 round)"
 
-speed: 35 feet, climb 40 feet, fly 100 feet, swim 40 feet; [[freedom of movement]];
+speed: 35 feet, climb 40 feet, fly 100 feet, swim 40 feet; [[freedom-of-movement|freedom of movement]];
 
 ac: 43
 armorclass:
@@ -66,7 +66,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 40; __Constant__ __(7th)__ [[true seeing]], __(8th)__ [[freedom of movement]];"
+    desc: "DC 40; __Constant__ __(7th)__ [[true-seeing|true seeing]], __(8th)__ [[freedom-of-movement|freedom of movement]];"
 sourcebook: "_Bestiary 2_, page 166."
 ```
 

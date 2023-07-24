@@ -39,9 +39,9 @@ abilities_mid:
     desc: "⬲ __Trigger__ A creature moves adjacent to the pakalchi __Effect__  Writhing, pitch-black vines wrap around the creature. The creature takes 1d6 (1d6) slashing damage and takes a –15-foot circumstance penalty to its Speeds until the end of its next turn."
 abilities_bot:
   - name: "Betrayal Toxin"
-    desc: " ([[divine]], [[enchantment]], [[mental]], [[poison]]);  __Saving Throw__ DC 28 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ [[stupefied|stupefied 1]] (1 round) __Stage 2__ [[stupefied|stupefied 2]] (1 round)"
+    desc: " ([[divine]], [[enchantment]], [[mental]], [[poison]]);  __Saving Throw__ DC 28 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ [[rules/conditions.md#Stupefied|stupefied 1]] (1 round) __Stage 2__ [[rules/conditions.md#Stupefied|stupefied 2]] (1 round)"
   - name: "Skip Between"
-    desc: "⬻ ([[conjuration]], [[divine]], [[teleportation]]);  The sahkil moves from the Material Plane to the Ethereal Plane or vice-versa, with the effects of [[ethereal jaunt]] except that the effect has an unlimited duration and can be Dismissed. A summoned sahkil can't use Skip Between."
+    desc: "⬻ ([[conjuration]], [[divine]], [[teleportation]]);  The sahkil moves from the Material Plane to the Ethereal Plane or vice-versa, with the effects of [[ethereal-jaunt|ethereal jaunt]] except that the effect has an unlimited duration and can be Dismissed. A summoned sahkil can't use Skip Between."
 
 speed: 30 feet
 
@@ -57,15 +57,15 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ vine +18 ([[finesse]], [[reach]], [[versatile|versatile p]]); __Damage__ 2d10+6 (2d10+6) slashing plus 1d6 (1d6) evil, 1d6 (1d6) [[persistent damage|persistent bleed]], and betrayal toxin"
+    desc: "⬻ vine +18 ([[finesse]], [[reach]], [[versatile|versatile p]]); __Damage__ 2d10+6 (2d10+6) slashing plus 1d6 (1d6) evil, 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed]], and betrayal toxin"
   - name: Melee
     desc: "⬻ claw +18 ([[agile]], [[finesse]]); __Damage__ 2d10+6 (2d10+6) slashing plus 1d6 (1d6) evil"
   - name: Ranged
-    desc: "⬻ thorn +18 ([[agile]], [[range increment|range increment 50 feet]]); __Damage__ 2d4+6 (2d4+6) piercing plus 1d6 (1d6) evil, 1d6 (1d6) [[persistent damage|persistent bleed]], and betrayal toxin"
+    desc: "⬻ thorn +18 ([[agile]], [[range-increment|range increment 50 feet]]); __Damage__ 2d4+6 (2d4+6) piercing plus 1d6 (1d6) evil, 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed]], and betrayal toxin"
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 30; __Cantrips (5th)__ [[detect magic]]; __5th__ [[charm]], [[calm emotions]], [[suggestion]] (at will); __6th__ [[dominate]]; __7th__ [[mask of terror]] self only; __Constant__ __(6th)__ [[tongues]], [[true seeing]];"
+    desc: "DC 30; __Cantrips (5th)__ [[detect-magic|detect magic]]; __5th__ [[charm]], [[calm-emotions|calm emotions]], [[suggestion]] (at will); __6th__ [[dominate]]; __7th__ [[mask-of-terror|mask of terror]] self only; __Constant__ __(6th)__ [[tongues]], [[true-seeing|true seeing]];"
 sourcebook: "_Bestiary 3_, page 220."
 ```
 

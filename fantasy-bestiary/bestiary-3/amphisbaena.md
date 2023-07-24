@@ -31,9 +31,9 @@ abilityMods: [5, 4, 2, -4, 0, -4]
 
 abilities_bot:
   - name: "Amphisbaena Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 18 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d6 (1d6) poison damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 2d6 (2d6) poison damage and [[enfeebled|enfeebled 2]] and [[slowed|slowed 1]] (1 round) __Stage 3__ 3d6 (3d6) poison damage and [[paralyzed|paralyzed]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 18 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d6 (1d6) poison damage and [[rules/conditions.md#Enfeebled|enfeebled 1]] (1 round) __Stage 2__ 2d6 (2d6) poison damage and [[rules/conditions.md#Enfeebled|enfeebled 2]] and [[rules/conditions.md#Slowed|slowed 1]] (1 round) __Stage 3__ 3d6 (3d6) poison damage and [[rules/conditions.md#Paralyzed|paralyzed]] (1 round)"
   - name: "Blinding Spittle"
-    desc: "  A creature critically hit by an amphisbaena's spit [[Strike]] is [[blinded|blinded]] for 1 round."
+    desc: "  A creature critically hit by an amphisbaena's spit [[Strike]] is [[rules/conditions.md#Blinded|blinded]] for 1 round."
   - name: "Twin Bites"
     desc: "⬻  An amphisbaena makes a fangs [[Strike]] with each of its heads, each against a different target. Both [[Strike|Strikes]] count toward its multiple attack penalty, but the penalty doesn't increase until after it has made both attacks."
 
@@ -53,7 +53,7 @@ attacks:
   - name: Melee
     desc: "⬻ fangs +13 __Damage__ 2d6+5 (2d6+5) piercing plus amphisbaena venom"
   - name: Ranged
-    desc: "⬻ spit +12 ([[range increment|range increment 15 feet]]); __Damage__ 1d6 (1d6) poison plus amphisbaena venom and blinding spittle"
+    desc: "⬻ spit +12 ([[range-increment|range increment 15 feet]]); __Damage__ 1d6 (1d6) poison plus amphisbaena venom and blinding spittle"
 
 sourcebook: "_Bestiary 3_, page 15."
 ```

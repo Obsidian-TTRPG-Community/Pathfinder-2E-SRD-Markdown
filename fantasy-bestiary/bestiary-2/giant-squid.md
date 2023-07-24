@@ -36,7 +36,7 @@ abilities_bot:
   - name: "Jet"
     desc: "⬺ ([[move]]);  The giant squid moves up to 200 feet in a straight line through the water without triggering any reactions."
   - name: "Ravenous Embrace"
-    desc: "⬺  The giant squid makes up to four arm [[Strike|Strikes]], each with a different arm and against a different target. The giant squid then makes a beak [[Strike]] against one creature that it [[grabbed|grabbed]] during Ravenous Embrace. Each arm [[Strike]] counts separately for the squid's multiple attack penalty, but the penalty doesn't increase until the squid has made all of its arm [[Strike|Strikes]]; the beak [[Strike]] uses the multiple attack penalty as normal."
+    desc: "⬺  The giant squid makes up to four arm [[Strike|Strikes]], each with a different arm and against a different target. The giant squid then makes a beak [[Strike]] against one creature that it [[rules/conditions.md#Grabbed|grabbed]] during Ravenous Embrace. Each arm [[Strike]] counts separately for the squid's multiple attack penalty, but the penalty doesn't increase until the squid has made all of its arm [[Strike|Strikes]]; the beak [[Strike]] uses the multiple attack penalty as normal."
 
 speed: swim 40 feet
 
@@ -56,7 +56,7 @@ attacks:
   - name: Melee
     desc: "⬻ barbed tentacles +21 ([[agile]], [[reach|reach 25 feet]]); __Damage__ 2d10+11 (2d10+11) slashing plus Grab"
   - name: Melee
-    desc: "⬻ arm +21 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 2d8+11 (2d8+11) bludgeoning plus [[Improved Grab]]"
+    desc: "⬻ arm +21 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 2d8+11 (2d8+11) bludgeoning plus [[Improved-Grab|Improved Grab]]"
 
 sourcebook: "_Bestiary 2_, page 254."
 ```

@@ -38,7 +38,7 @@ abilities_bot:
   - name: "Earth Glide"
     desc: "  A living boulder can [[Burrow]] through earthen matter, including rock. When it does so, it moves at its full burrow Speed, leaving no tunnels or signs of its passing."
   - name: "Blinding Sand"
-    desc: "  When the sand sentry critically hits with a fist [[Strike]], the target is [[blinded|blinded]] for 1 round."
+    desc: "  When the sand sentry critically hits with a fist [[Strike]], the target is [[rules/conditions.md#Blinded|blinded]] for 1 round."
 
 speed: 25 feet, burrow 50 feet; earth glide;
 

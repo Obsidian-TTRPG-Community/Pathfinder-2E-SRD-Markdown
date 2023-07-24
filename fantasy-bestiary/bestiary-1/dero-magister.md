@@ -40,7 +40,7 @@ abilities_top:
     desc: "[[aklys]];"
 abilities_bot:
   - name: "Cytillesh Stare"
-    desc: "⬻ ([[concentrate]], [[incapacitation]], [[mental]], [[visual]]); __Frequency__ once per round  __Effect__  The magister focuses their gaze on a creature they can see within 30 feet. The target is [[dazzled|dazzled]] for 1 round and must succeed at a DC 24 Will saving throw or be [[confused|confused]] for 1 round."
+    desc: "⬻ ([[concentrate]], [[incapacitation]], [[mental]], [[visual]]); __Frequency__ once per round  __Effect__  The magister focuses their gaze on a creature they can see within 30 feet. The target is [[rules/conditions.md#Dazzled|dazzled]] for 1 round and must succeed at a DC 24 Will saving throw or be [[rules/conditions.md#Confused|confused]] for 1 round."
 
 speed: 20 feet
 
@@ -58,13 +58,13 @@ attacks:
   - name: Melee
     desc: "⬻ aklys +10 ([[trip]]); __Damage__ 1d6+3 (1d6+3) bludgeoning"
   - name: Ranged
-    desc: "⬻ aklys +13 ([[ranged trip]], [[tethered]], [[thrown|thrown 20 feet]]); __Damage__ 1d6+3 (1d6+3) bludgeoning"
+    desc: "⬻ aklys +13 ([[ranged-trip|ranged trip]], [[tethered]], [[thrown|thrown 20 feet]]); __Damage__ 1d6+3 (1d6+3) bludgeoning"
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 24; __Cantrips (1st)__ [[daze]], [[ghost sound]]; __2nd__ [[darkness]] (at will), [[sound burst]]; __4th__ [[modify memory]];"
+    desc: "DC 24; __Cantrips (1st)__ [[daze]], [[ghost-sound|ghost sound]]; __2nd__ [[darkness]] (at will), [[sound-burst|sound burst]]; __4th__ [[modify-memory|modify memory]];"
   - name: "Occult Spontaneous Spells"
-    desc: "DC 24; __Cantrips (3rd)__ [[chill touch]], [[dancing lights]], [[detect magic]], [[forbidding ward]], [[message]]; __1st__ (4 slots) [[grim tendrils]], [[magic missile]], [[phantom pain]], [[soothe]]; __2nd__ (4 slots) [[hideous laughter]], [[paranoia]], [[spectral hand]], [[touch of idiocy]]; __3rd__ (3 slots) [[blindness]], [[vampiric touch]];"
+    desc: "DC 24; __Cantrips (3rd)__ [[chill-touch|chill touch]], [[dancing-lights|dancing lights]], [[detect-magic|detect magic]], [[forbidding-ward|forbidding ward]], [[message]]; __1st__ (4 slots) [[grim-tendrils|grim tendrils]], [[magic-missile|magic missile]], [[phantom-pain|phantom pain]], [[soothe]]; __2nd__ (4 slots) [[hideous-laughter|hideous laughter]], [[paranoia]], [[spectral-hand|spectral hand]], [[touch-of-idiocy|touch of idiocy]]; __3rd__ (3 slots) [[blindness]], [[vampiric-touch|vampiric touch]];"
 sourcebook: "_Bestiary_, page 85."
 ```
 

@@ -34,7 +34,7 @@ abilityMods: [1, 4, 2, 0, 0, 2]
 
 abilities_mid:
   - name: "Shadow Blending"
-    desc: "  When the fetchling scout is [[concealed|concealed]] as a result of dim light, the flat check to target them has a DC of 7, not 5."
+    desc: "  When the fetchling scout is [[rules/conditions.md#Concealed|concealed]] as a result of dim light, the flat check to target them has a DC of 7, not 5."
 abilities_top:
   - name: Items
     desc: "chain shirt, dagger;"
@@ -42,7 +42,7 @@ abilities_bot:
   - name: "Shadow Stride"
     desc: "⬻ ([[illusion]], [[occult]], [[shadow]]); __Requirements__ The fetchling is in dim light  __Effect__  The fetchling [[Stride|Strides]]. They have a +10-foot status bonus to their Speed during this [[Stride]]. The DC from shadow blending increases to 11 during this [[Stride]], and the fetchling remains concealed by dim light until the end of the movement, even if they leave dim light during the [[Stride]]."
   - name: "Sneak Attack"
-    desc: "  The fetchling scout's [[Strike|Strikes]] deal an additional 1d6 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The fetchling scout's [[Strike|Strikes]] deal an additional 1d6 (1d6) precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
 
 speed: 25 feet
 
@@ -64,7 +64,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 15; __1st__ [[illusory disguise]];"
+    desc: "DC 15; __1st__ [[illusory-disguise|illusory disguise]];"
 sourcebook: "_Bestiary 2_, page 117."
 ```
 

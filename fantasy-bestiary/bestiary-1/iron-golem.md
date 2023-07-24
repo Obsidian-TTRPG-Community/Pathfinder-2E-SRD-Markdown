@@ -34,7 +34,7 @@ abilityMods: [8, -1, 4, -5, 0, -5]
 
 abilities_mid:
   - name: "Golem Antimagic"
-    desc: "  harmed by acid (6d10 (6d10), 2d8 (2d8) from areas and [[persistent damage|persistent damage]]); healed by fire (area 2d8 (2d8) HP); [[slowed|slowed]] by electricity."
+    desc: "  harmed by acid (6d10 (6d10), 2d8 (2d8) from areas and [[rules/conditions.md#Persistent%20Damage|persistent damage]]); healed by fire (area 2d8 (2d8) HP); [[rules/conditions.md#Slowed|slowed]] by electricity."
   - name: "Vulnerable to Neutralize Poison"
     desc: "  Casting neutralize poison on the golem deactivates its Breath Weapon for 1 minute."
   - name: "Vulnerable to Rust"
@@ -45,7 +45,7 @@ abilities_bot:
   - name: "Inexorable March"
     desc: "⬻  The iron golem [[Stride|Strides]] up to its Speed, pushing back each creature whose space it moves into and damaging them if they try to stop its movement. A creature can attempt to bar the way by succeeding at a DC 37 Fortitude save. On a critical success, the resisting creature takes no damage; otherwise, it is damaged as if hit by the golem's fist."
   - name: "Iron Golem Poison"
-    desc: " ([[poison]]);  __Saving Throw__ DC 33 Fortitude. __Maximum Duration__ 4 rounds __Stage 1__ 2d6 (2d6) poison and [[drained|drained 1]] (1 round) __Stage 2__ 4d6 (4d6) poison and [[drained|drained 2]] (1 round) __Stage 3__ 8d6 (8d6) poison and [[drained|drained 3]]. (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 33 Fortitude. __Maximum Duration__ 4 rounds __Stage 1__ 2d6 (2d6) poison and [[rules/conditions.md#Drained|drained 1]] (1 round) __Stage 2__ 4d6 (4d6) poison and [[rules/conditions.md#Drained|drained 2]] (1 round) __Stage 3__ 8d6 (8d6) poison and [[rules/conditions.md#Drained|drained 3]]. (1 round)"
 
 speed: 20 feet
 

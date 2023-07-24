@@ -31,7 +31,7 @@ abilityMods: [7, 0, 4, -4, 2, -2]
 
 abilities_bot:
   - name: "Grabbing Trunk"
-    desc: "  A Medium or smaller creature hit by the elephant's trunk is [[grabbed|grabbed]]. If the elephant moves, it can bring the [[grabbed|grabbed]] creature along with it."
+    desc: "  A Medium or smaller creature hit by the elephant's trunk is [[rules/conditions.md#Grabbed|grabbed]]. If the elephant moves, it can bring the [[rules/conditions.md#Grabbed|grabbed]] creature along with it."
   - name: "Trample"
     desc: "⬽  Large or smaller, foot, DC 24."
 

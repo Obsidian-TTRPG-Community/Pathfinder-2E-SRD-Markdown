@@ -35,7 +35,7 @@ abilities_bot:
   - name: "Change Shape"
     desc: "⬻ ([[concentrate]], [[divine]], [[polymorph]], [[transmutation]]);  The shaukeen takes on the appearance of a Small humanoid. This doesn't change the shaukeen's Speed or their attack and damage modifiers with their [[Strike|Strikes]], but it might change the damage type their [[Strike|Strikes]] deal (typically to bludgeoning). The asura typically loses their jaws and thorn [[Strike|Strikes]] unless the humanoid form has fangs or a similar unarmed attack. This alternate form has a specific, persistent appearance, which the shaukeen can change by performing a 1-hour ritual."
   - name: "Fire Jackal Saliva"
-    desc: " ([[poison]]);  __Saving Throw__ DC 17 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d4 (1d4) poison damage and [[clumsy|clumsy 1]] (1 round) __Stage 2__ 1d6 (1d6) poison damage and [[clumsy|clumsy 2]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 17 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d4 (1d4) poison damage and [[rules/conditions.md#Clumsy|clumsy 1]] (1 round) __Stage 2__ 1d6 (1d6) poison damage and [[rules/conditions.md#Clumsy|clumsy 2]] (1 round)"
 
 speed: 25 feet
 
@@ -57,7 +57,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 17; __Cantrips (1st)__ [[read aura]]; __2nd__ [[charm]], [[spider climb]], [[touch of idiocy]]; __Constant__ __(3rd)__ [[magic aura]], [[nondetection]];"
+    desc: "DC 17; __Cantrips (1st)__ [[read-aura|read aura]]; __2nd__ [[charm]], [[spider-climb|spider climb]], [[touch-of-idiocy|touch of idiocy]]; __Constant__ __(3rd)__ [[magic-aura|magic aura]], [[nondetection]];"
 sourcebook: "_Bestiary 3_, page 22."
 ```
 

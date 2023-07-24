@@ -52,7 +52,7 @@ attacks:
   - name: Melee
     desc: "⬻ mandibles +9 ([[finesse]], [[magic]]); __Damage__ 1d4 (1d4) piercing plus 1d4 (1d4) acid"
   - name: Melee
-    desc: "⬻ bone spike +9 ([[finesse]]); __Damage__ 1d12 (1d12) piercing plus 1d4 (1d4) [[persistent damage|persistent bleed]]"
+    desc: "⬻ bone spike +9 ([[finesse]]); __Damage__ 1d12 (1d12) piercing plus 1d4 (1d4) [[rules/conditions.md#Persistent%20Damage|persistent bleed]]"
 
 sourcebook: "_Bestiary 3_, page 193."
 ```

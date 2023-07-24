@@ -53,7 +53,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 18; __4th__ [[dimension door]]; __Constant__ __(4th)__ [[blink]];"
+    desc: "DC 18; __4th__ [[dimension-door|dimension door]]; __Constant__ __(4th)__ [[blink]];"
 sourcebook: "_Bestiary 2_, page 40."
 ```
 

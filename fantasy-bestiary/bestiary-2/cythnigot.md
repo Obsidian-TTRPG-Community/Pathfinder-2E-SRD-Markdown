@@ -34,9 +34,9 @@ abilityMods: [1, 3, 4, 2, 2, 1]
 
 abilities_bot:
   - name: "Sickening Display"
-    desc: "⬻ ([[concentrate]], [[emotion]], [[enchantment]], [[fear]], [[mental]], [[occult]], [[visual]]);  The cythnigot presents its awful appearance fully, and creatures in a 10-foot emanation must attempt a DC 17 Will save. Once a creature attempts this save, it's temporarily immune to further Sickening Displays for 1 minute.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is [[flat-footed|flat-footed]] until its next turn.\n__Failure__ The creature is [[sickened|sickened 1]], and is [[flat-footed|flat-footed]] for as long as it's [[sickened|sickened]].\n__Critical Failure__ The creature is [[sickened|sickened 2]] and is [[flat-footed|flat-footed]] for as long as it's [[sickened|sickened]]."
+    desc: "⬻ ([[concentrate]], [[emotion]], [[enchantment]], [[fear]], [[mental]], [[occult]], [[visual]]);  The cythnigot presents its awful appearance fully, and creatures in a 10-foot emanation must attempt a DC 17 Will save. Once a creature attempts this save, it's temporarily immune to further Sickening Displays for 1 minute.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is [[rules/conditions.md#Flat-Footed|flat-footed]] until its next turn.\n__Failure__ The creature is [[rules/conditions.md#Sickened|sickened 1]], and is [[rules/conditions.md#Flat-Footed|flat-footed]] for as long as it's [[rules/conditions.md#Sickened|sickened]].\n__Critical Failure__ The creature is [[rules/conditions.md#Sickened|sickened 2]] and is [[rules/conditions.md#Flat-Footed|flat-footed]] for as long as it's [[rules/conditions.md#Sickened|sickened]]."
   - name: "Tangle Spores"
-    desc: " ([[disease]]);  __Saving Throw__ DC 17 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ [[clumsy|clumsy 1]] (1 round) __Stage 2__ [[clumsy|clumsy 1]] and [[flat-footed|flat-footed]] (1 round) __Stage 3__ [[clumsy|clumsy 2]], [[flat-footed|flat-footed]], and if you attempt a manipulate action, you must succeed at a DC 5 flat check or it's lost (null)"
+    desc: " ([[disease]]);  __Saving Throw__ DC 17 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ [[rules/conditions.md#Clumsy|clumsy 1]] (1 round) __Stage 2__ [[rules/conditions.md#Clumsy|clumsy 1]] and [[rules/conditions.md#Flat-Footed|flat-footed]] (1 round) __Stage 3__ [[rules/conditions.md#Clumsy|clumsy 2]], [[rules/conditions.md#Flat-Footed|flat-footed]], and if you attempt a manipulate action, you must succeed at a DC 5 flat check or it's lost (null)"
 
 speed: 30 feet, fly 40 feet
 
@@ -56,7 +56,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 17; __Cantrips (1st)__ [[daze]], [[detect magic]]; __1st__ [[phantom pain]]; __2nd__ [[detect alignment]] (at will) lawful only, [[paranoia]]; __4th__ [[read omens]];"
+    desc: "DC 17; __Cantrips (1st)__ [[daze]], [[detect-magic|detect magic]]; __1st__ [[phantom-pain|phantom pain]]; __2nd__ [[detect-alignment|detect alignment]] (at will) lawful only, [[paranoia]]; __4th__ [[read-omens|read omens]];"
 sourcebook: "_Bestiary 2_, page 212."
 ```
 

@@ -46,7 +46,7 @@ abilities_bot:
   - name: "Swift Staff Strike"
     desc: "⬺  In a rapid series of movements, the toshigami unleashes a deadly assault. The toshigami makes three staff [[Strike|Strikes]]. The toshigami's multiple attack penalty doesn't increase until after they've made all three [[Strike|Strikes]]."
   - name: "Touch of Ages"
-    desc: " ([[curse]], [[divine]]);  A toshigami's attacks bestow a curse that alters the very flow of time in those they attack. When a toshigami hits a creature with a melee [[Strike]], the creature must attempt a DC 38 Fortitude save as its perspective shifts rapidly between that of advanced age and an infantile state. Regardless of the outcome, the creature is temporarily immune for 1 minute.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature becomes [[clumsy|clumsy 1]], [[enfeebled|enfeebled 1]], and [[stupefied|stupefied 1]] for 1 round.\n__Failure__ The creature becomes [[clumsy|clumsy 2]], [[enfeebled|enfeebled 2]], and [[stupefied|stupefied 2]] for 1 minute.\n__Critical Failure__ As failure, but the conditions are permanent."
+    desc: " ([[curse]], [[divine]]);  A toshigami's attacks bestow a curse that alters the very flow of time in those they attack. When a toshigami hits a creature with a melee [[Strike]], the creature must attempt a DC 38 Fortitude save as its perspective shifts rapidly between that of advanced age and an infantile state. Regardless of the outcome, the creature is temporarily immune for 1 minute.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature becomes [[rules/conditions.md#Clumsy|clumsy 1]], [[rules/conditions.md#Enfeebled|enfeebled 1]], and [[rules/conditions.md#Stupefied|stupefied 1]] for 1 round.\n__Failure__ The creature becomes [[rules/conditions.md#Clumsy|clumsy 2]], [[rules/conditions.md#Enfeebled|enfeebled 2]], and [[rules/conditions.md#Stupefied|stupefied 2]] for 1 minute.\n__Critical Failure__ As failure, but the conditions are permanent."
 
 speed: 50 feet, fly 50 feet
 
@@ -66,7 +66,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 36; __4th__ [[status]]; __5th__ [[gentle repose]]; __6th__ [[restoration]], [[slow]], [[tree stride]] (at will) cherry trees only; __7th__ [[finger of death]], [[haste]], [[regenerate]]; __Constant__ __(9th)__ [[foresight]];"
+    desc: "DC 36; __4th__ [[status]]; __5th__ [[gentle-repose|gentle repose]]; __6th__ [[restoration]], [[slow]], [[tree-stride|tree stride]] (at will) cherry trees only; __7th__ [[finger-of-death|finger of death]], [[haste]], [[regenerate]]; __Constant__ __(9th)__ [[foresight]];"
 sourcebook: "_Bestiary 3_, page 145."
 ```
 

@@ -37,9 +37,9 @@ abilities_mid:
     desc: "⬲ "
 abilities_bot:
   - name: "Sand Spin"
-    desc: "⬻ __Requirements__ The desert giant is standing in sandy terrain  __Effect__  The desert giant spins around and stirs up loose sand in a 10-foot emanation. Until the beginning of the giant's next turn, creatures in the area are [[concealed|concealed]], and other creatures are [[concealed|concealed]] to them."
+    desc: "⬻ __Requirements__ The desert giant is standing in sandy terrain  __Effect__  The desert giant spins around and stirs up loose sand in a 10-foot emanation. Until the beginning of the giant's next turn, creatures in the area are [[rules/conditions.md#Concealed|concealed]], and other creatures are [[rules/conditions.md#Concealed|concealed]] to them."
   - name: "Sandwalking"
-    desc: "  Desert giants have adapted to the loose sands of the desert and can move across them with ease. Desert giants ignore non-magical [[terrain|difficult terrain]] and uneven ground caused by sand."
+    desc: "  Desert giants have adapted to the loose sands of the desert and can move across them with ease. Desert giants ignore non-magical [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] and uneven ground caused by sand."
   - name: "Scimitar Blitz"
     desc: "⬺  The desert giant [[Stride|Strides]] up to their Speed, Striking once with each of their scimitars at any point during the movement."
   - name: "Throw Rock"
@@ -61,7 +61,7 @@ attacks:
   - name: Melee
     desc: "⬻ scimitar +21 ([[forceful]], [[magical]], [[reach|reach 10 feet]], [[sweep]]); __Damage__ 2d6+12 (2d6+12) slashing"
   - name: Ranged
-    desc: "⬻ rock +19 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 2d8+12 (2d8+12) bludgeoning"
+    desc: "⬻ rock +19 ([[brutal]], [[range-increment|range increment 120 feet]]); __Damage__ 2d8+12 (2d8+12) bludgeoning"
 
 sourcebook: "_Bestiary 3_, page 109."
 ```

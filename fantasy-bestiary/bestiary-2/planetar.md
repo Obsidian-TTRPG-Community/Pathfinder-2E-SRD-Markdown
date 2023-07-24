@@ -34,13 +34,13 @@ abilityMods: [8, 3, 6, 5, 6, 6]
 
 abilities_mid:
   - name: "Aura of Righteousness"
-    desc: " ([[aura]], [[divine]], [[evocation]]);  20 feet. Allies in the planetar's aura gain a +2 status bonus to AC against evil creatures and a +2 status bonus to damage rolls against evil creatures. The area in the aura is [[terrain|difficult terrain]] for evil creatures."
+    desc: " ([[aura]], [[divine]], [[evocation]]);  20 feet. Allies in the planetar's aura gain a +2 status bonus to AC against evil creatures and a +2 status bonus to damage rolls against evil creatures. The area in the aura is [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] for evil creatures."
 abilities_top:
   - name: Items
     desc: "+2 greater striking greatsword;"
 abilities_bot:
   - name: "Blade of Justice"
-    desc: "⬺  The planetar makes a greatsword [[Strike]] against a target it detects as evil. If the target is evil, the [[Strike]] deals three extra weapon damage dice and deals 1d6 (1d6) [[persistent damage|persistent good damage]] to the target. The planetar can convert all the physical damage from the attack into good damage."
+    desc: "⬺  The planetar makes a greatsword [[Strike]] against a target it detects as evil. If the target is evil, the [[Strike]] deals three extra weapon damage dice and deals 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent good damage]] to the target. The planetar can convert all the physical damage from the attack into good damage."
   - name: "Change Shape"
     desc: "⬻ ([[concentrate]], [[divine]], [[polymorph]], [[transmutation]]);  The planetar can take on the appearance of any Small or Medium humanoid. This doesn't change their Speed or [[Strike|Strikes]]."
   - name: "Holy Armaments"
@@ -64,7 +64,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 37, attack +29; __2nd__ [[invisibility]] (at will) self only, [[remove paralysis]]; __5th__ [[breath of life]], [[death ward]], [[freedom of movement]], [[restoration]] (3); __6th__ [[blade barrier]], [[dispel magic]] (at will); __7th__ [[charm]], [[plane shift]], [[power word blind]], [[remove fear]] (at will); __8th__ [[dispel magic]], [[divine wrath]], [[earthquake]], [[heal]], [[power word stun]], [[sunburst]]; __Constant__ __(5th)__ [[detect alignment]], [[tongues]], [[true seeing]];"
+    desc: "DC 37, attack +29; __2nd__ [[invisibility]] (at will) self only, [[remove-paralysis|remove paralysis]]; __5th__ [[breath-of-life|breath of life]], [[death-ward|death ward]], [[freedom-of-movement|freedom of movement]], [[restoration]] (3); __6th__ [[blade-barrier|blade barrier]], [[dispel-magic|dispel magic]] (at will); __7th__ [[charm]], [[plane-shift|plane shift]], [[power-word-blind|power word blind]], [[remove-fear|remove fear]] (at will); __8th__ [[dispel-magic|dispel magic]], [[divine-wrath|divine wrath]], [[earthquake]], [[heal]], [[power-word-stun|power word stun]], [[sunburst]]; __Constant__ __(5th)__ [[detect-alignment|detect alignment]], [[tongues]], [[true-seeing|true seeing]];"
 sourcebook: "_Bestiary 2_, page 16."
 ```
 

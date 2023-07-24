@@ -34,9 +34,9 @@ abilityMods: [4, 3, 2, -2, 3, 1]
 
 abilities_bot:
   - name: "Bay"
-    desc: "⬽ ([[auditory]], [[concentrate]], [[divine]], [[enchantment]], [[fear]], [[mental]]);  The yeth hound emits an unearthly howl audible up to 300 feet away. Any nonfiend creature that hears the howl must succeed at a DC 20 Will save or become [[frightened|frightened 1]]. Any creature that critically fails and is within 60 feet of the yeth hound is instead [[frightened|frightened 3]] and [[fleeing|fleeing]] for 1d4 (1d4) rounds (or until it recovers from its [[frightened|frightened]] condition). Whether it succeeds or fails the saving throw, the creature is then temporarily immune to Bay for 24 hours."
+    desc: "⬽ ([[auditory]], [[concentrate]], [[divine]], [[enchantment]], [[fear]], [[mental]]);  The yeth hound emits an unearthly howl audible up to 300 feet away. Any nonfiend creature that hears the howl must succeed at a DC 20 Will save or become [[rules/conditions.md#Frightened|frightened 1]]. Any creature that critically fails and is within 60 feet of the yeth hound is instead [[rules/conditions.md#Frightened|frightened 3]] and [[rules/conditions.md#Fleeing|fleeing]] for 1d4 (1d4) rounds (or until it recovers from its [[rules/conditions.md#Frightened|frightened]] condition). Whether it succeeds or fails the saving throw, the creature is then temporarily immune to Bay for 24 hours."
   - name: "Sinister Bite"
-    desc: "  A good creature bitten by a yeth hound must attempt a DC 20 Will save. On a critical success, the creature is temporarily immune to sinister bite for 1 minute. A creature that fails becomes [[frightened|frightened 1]], or increases the value of its [[frightened|frightened]] condition by 1 if already [[frightened|frightened]]."
+    desc: "  A good creature bitten by a yeth hound must attempt a DC 20 Will save. On a critical success, the creature is temporarily immune to sinister bite for 1 minute. A creature that fails becomes [[rules/conditions.md#Frightened|frightened 1]], or increases the value of its [[rules/conditions.md#Frightened|frightened]] condition by 1 if already [[rules/conditions.md#Frightened|frightened]]."
 
 speed: 40 feet; air walk;
 
@@ -56,7 +56,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 20; __Constant__ __(4th)__ [[air walk]];"
+    desc: "DC 20; __Constant__ __(4th)__ [[air-walk|air walk]];"
 sourcebook: "_Bestiary 2_, page 302."
 ```
 

@@ -31,14 +31,14 @@ abilityMods: [5, 2, 3, -4, 3, -2]
 
 abilities_mid:
   - name: "Scarecrow's Leer"
-    desc: " ([[aura]], [[emotion]], [[fear]], [[mental]], [[occult]], [[visual]]);  40 feet. The scarecrow's eyes flicker with an unnerving glow. A creature can't reduce its [[frightened|frightened]] condition below 1 as long as it is in the aura's emanation. When a creature enters or starts its turn in the aura, it must attempt a DC 18 Will save. Birds and other avian creatures take a –2 circumstance penalty to this save.\n__Critical Success__ The creature is unaffected and is then temporarily immune for 24 hours.\n__Success__ The creature is [[frightened|frightened 1]].\n__Failure__ The creature is [[frightened|frightened 2]] and is [[fascinated|fascinated]] by the scarecrow until the end of its next turn.\n__Critical Failure__ As failure, but [[frightened|frightened 3]]."
+    desc: " ([[aura]], [[emotion]], [[fear]], [[mental]], [[occult]], [[visual]]);  40 feet. The scarecrow's eyes flicker with an unnerving glow. A creature can't reduce its [[rules/conditions.md#Frightened|frightened]] condition below 1 as long as it is in the aura's emanation. When a creature enters or starts its turn in the aura, it must attempt a DC 18 Will save. Birds and other avian creatures take a –2 circumstance penalty to this save.\n__Critical Success__ The creature is unaffected and is then temporarily immune for 24 hours.\n__Success__ The creature is [[rules/conditions.md#Frightened|frightened 1]].\n__Failure__ The creature is [[rules/conditions.md#Frightened|frightened 2]] and is [[rules/conditions.md#Fascinated|fascinated]] by the scarecrow until the end of its next turn.\n__Critical Failure__ As failure, but [[rules/conditions.md#Frightened|frightened 3]]."
 abilities_bot:
   - name: "Baleful Glow"
-    desc: "⭓ ([[concentrate]], [[mental]], [[occult]]);  The scarecrow's head bursts into ghostly, heatless flame that sheds bright light in a 20-foot emanation (and dim light to the next 20 feet). If the scarecrow uses this ability on the first round of combat, any creature that has not acted yet is startled and becomes [[flat-footed|flat-footed]] against the scarecrow for 1 round. It can suppress the light by using this action again."
+    desc: "⭓ ([[concentrate]], [[mental]], [[occult]]);  The scarecrow's head bursts into ghostly, heatless flame that sheds bright light in a 20-foot emanation (and dim light to the next 20 feet). If the scarecrow uses this ability on the first round of combat, any creature that has not acted yet is startled and becomes [[rules/conditions.md#Flat-Footed|flat-footed]] against the scarecrow for 1 round. It can suppress the light by using this action again."
   - name: "Clawing Fear"
-    desc: "  The scarecrow's strikes deal an additional 1d6 (1d6) mental damage to [[frightened|frightened]] creatures."
+    desc: "  The scarecrow's strikes deal an additional 1d6 (1d6) mental damage to [[rules/conditions.md#Frightened|frightened]] creatures."
   - name: "Mundane Appearance"
-    desc: "⬻ ([[concentrate]]);  Until it acts, the scarecrow resembles an ordinary scarecrow. It has an automatic result of 32 on [[Deception]] checks and DCs to pass as an ordinary scarecrow."
+    desc: "⬻ ([[concentrate]]);  Until it acts, the scarecrow resembles an ordinary scarecrow. It has an automatic result of 32 on [[compendium/skills.md#Deception|Deception]] checks and DCs to pass as an ordinary scarecrow."
 
 speed: 20 feet
 

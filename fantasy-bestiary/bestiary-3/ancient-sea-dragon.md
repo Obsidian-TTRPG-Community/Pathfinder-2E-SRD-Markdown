@@ -37,7 +37,7 @@ abilities_mid:
   - name: "Frightful Presence"
     desc: " ([[aura]], [[emotion]], [[fear]], [[mental]]);  90 feet, DC 36 (page 305)"
   - name: "Vortex"
-    desc: " ([[aura]], [[water]]);  40 feet. Water in the aura that's also in the same body of water as the dragon is [[terrain|difficult terrain]] for Swimming creatures which don't have the [[water]] trait."
+    desc: " ([[aura]], [[water]]);  40 feet. Water in the aura that's also in the same body of water as the dragon is [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] for Swimming creatures which don't have the [[water]] trait."
   - name: "Liquefy"
     desc: "⬲ ([[abjuration]], [[arcane]], [[water]]); __Trigger__ The dragon is targeted by a [[Strike]] or spell that could deal fire or physical damage to them __Effect__  The dragon liquefies, turning entirely to water while maintaining their shape, for a split second. Against the triggering effect, they gain resistance 25 to fire and to all physical damage."
 abilities_bot:
@@ -50,9 +50,9 @@ abilities_bot:
   - name: "Greater Constrict"
     desc: "⬻  3d10+8 (3d10+8) bludgeoning, DC 38 (page 305)"
   - name: "Hyponatremia"
-    desc: " ([[water]]);  A living creature that takes damage from the sea dragon's jaws [[Strike]] must succeed at a DC 38 Fortitude save or become [[sickened|sickened 2]] as a surge of excess water floods its body."
+    desc: " ([[water]]);  A living creature that takes damage from the sea dragon's jaws [[Strike]] must succeed at a DC 38 Fortitude save or become [[rules/conditions.md#Sickened|sickened 2]] as a surge of excess water floods its body."
   - name: "Tidal Wave"
-    desc: "⬽ ([[arcane]], [[evocation]], [[manipulate]], [[water]]); __Requirements__ The dragon is in a body of water at least as large as they are __Frequency__ once per minute  __Effect__  The dragon slams their body down, sending a towering wave outward. This wave deals 10d12 (10d12) bludgeoning damage in a 90-foot emanation. Each creature in the area must attempt a DC 38 Reflex save. Structures and unattended objects in the area take the full amount of damage with no saving throw.\n__Critical Success__ The creature takes no damage but is pushed 30 feet from the dragon.\n__Success__ The creature takes half damage and is pushed 60 feet from the dragon.\n__Failure__ The creature takes full damage, is pushed 120 feet from the dragon, and falls [[prone|prone]].\n__Critical Failure__ As failure, but double damage."
+    desc: "⬽ ([[arcane]], [[evocation]], [[manipulate]], [[water]]); __Requirements__ The dragon is in a body of water at least as large as they are __Frequency__ once per minute  __Effect__  The dragon slams their body down, sending a towering wave outward. This wave deals 10d12 (10d12) bludgeoning damage in a 90-foot emanation. Each creature in the area must attempt a DC 38 Reflex save. Structures and unattended objects in the area take the full amount of damage with no saving throw.\n__Critical Success__ The creature takes no damage but is pushed 30 feet from the dragon.\n__Success__ The creature takes half damage and is pushed 60 feet from the dragon.\n__Failure__ The creature takes full damage, is pushed 120 feet from the dragon, and falls [[rules/conditions.md#Prone|prone]].\n__Critical Failure__ As failure, but double damage."
 
 speed: 50 feet, fly 140 feet, swim 70 feet; water walk;
 
@@ -76,7 +76,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 38; __3rd__ [[endure elements]] self only; __5th__ [[control water]], [[create water]] (at will); __Constant__ __(2nd)__ [[water walk]];"
+    desc: "DC 38; __3rd__ [[endure-elements|endure elements]] self only; __5th__ [[control-water|control water]], [[create-water|create water]] (at will); __Constant__ __(2nd)__ [[water-walk|water walk]];"
 sourcebook: "_Bestiary 3_, page 78."
 ```
 

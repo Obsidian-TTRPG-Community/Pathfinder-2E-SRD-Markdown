@@ -33,7 +33,7 @@ abilityMods: [1, 3, 2, -4, 1, 0]
 
 abilities_bot:
   - name: "Icicle"
-    desc: "⬻ ([[concentrate]]);  Until the next time it acts, the icicle snake appears to be an unassuming icicle. It has an automatic result of 27 on [[Deception]] checks and DCs to pass as an icicle."
+    desc: "⬻ ([[concentrate]]);  Until the next time it acts, the icicle snake appears to be an unassuming icicle. It has an automatic result of 27 on [[compendium/skills.md#Deception|Deception]] checks and DCs to pass as an icicle."
 
 speed: 25 feet, climb 20 feet
 
@@ -49,7 +49,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +9 ([[finesse]]); __Damage__ 1d6+1 (1d6+1) piercing plus 1d6 (1d6) [[persistent damage|persistent cold]]"
+    desc: "⬻ jaws +9 ([[finesse]]); __Damage__ 1d6+1 (1d6+1) piercing plus 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent cold]]"
 
 sourcebook: "_Bestiary 2_, page 114."
 ```

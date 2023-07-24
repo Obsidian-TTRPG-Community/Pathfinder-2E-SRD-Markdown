@@ -39,9 +39,9 @@ abilities_top:
     desc: "staff;"
 abilities_bot:
   - name: "Illusory Retreat"
-    desc: "⬽ ([[arcane]], [[illusion]], [[manipulate]], [[move]]); __Requirements__ The kobold dragon mage is adjacent to at least one enemy. __Frequency__ once per hour  __Effect__  The dragon mage creates an illusion of itself in its square and then becomes [[invisible|invisible]] (with the effects of a 2nd-level [[invisibility]] spell) for 1d4 (1d4) rounds. The dragon mage can move up to half its Speed, but it must end its movement in a space that's not adjacent to any enemies. This is a 1st-level spell that requires a somatic component."
+    desc: "⬽ ([[arcane]], [[illusion]], [[manipulate]], [[move]]); __Requirements__ The kobold dragon mage is adjacent to at least one enemy. __Frequency__ once per hour  __Effect__  The dragon mage creates an illusion of itself in its square and then becomes [[rules/conditions.md#Invisible|invisible]] (with the effects of a 2nd-level [[invisibility]] spell) for 1d4 (1d4) rounds. The dragon mage can move up to half its Speed, but it must end its movement in a space that's not adjacent to any enemies. This is a 1st-level spell that requires a somatic component."
   - name: "Sneak Attack"
-    desc: "  The dragon mage deals an extra 1d6 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The dragon mage deals an extra 1d6 (1d6) precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
 
 speed: 25 feet
 
@@ -63,7 +63,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Spontaneous Spells"
-    desc: "DC 20; __Cantrips (1st)__ [[detect magic]], [[electric arc]], [[ghost sound]], [[mage hand]], [[tanglefoot]]; __1st__ (4 slots) [[fear]], [[illusory object]], [[magic missile]];"
+    desc: "DC 20; __Cantrips (1st)__ [[detect-magic|detect magic]], [[electric-arc|electric arc]], [[ghost-sound|ghost sound]], [[mage-hand|mage hand]], [[tanglefoot]]; __1st__ (4 slots) [[fear]], [[illusory-object|illusory object]], [[magic-missile|magic missile]];"
 sourcebook: "_Bestiary_, page 213."
 ```
 

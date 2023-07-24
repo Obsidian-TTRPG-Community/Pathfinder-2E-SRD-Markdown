@@ -34,7 +34,7 @@ abilityMods: [9, 5, 8, 5, 6, 7]
 
 abilities_top:
   - name: "Smoke Vision"
-    desc: "  Smoke doesn't impair a red dragon's vision; it ignores the [[concealed|concealed]] condition from smoke."
+    desc: "  Smoke doesn't impair a red dragon's vision; it ignores the [[rules/conditions.md#Concealed|concealed]] condition from smoke."
 abilities_mid:
   - name: "Dragon Heat"
     desc: " ([[arcane]], [[aura]], [[evocation]], [[fire]]);  10 feet, 4d6 (4d6) fire damage (DC 39 basic Reflex)"
@@ -78,7 +78,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 42; __Cantrips (9th)__ [[detect magic]], [[read aura]]; __4th__ [[suggestion]] (at will);"
+    desc: "DC 42; __Cantrips (9th)__ [[detect-magic|detect magic]], [[read-aura|read aura]]; __4th__ [[suggestion]] (at will);"
 sourcebook: "_Bestiary_, page 112."
 ```
 

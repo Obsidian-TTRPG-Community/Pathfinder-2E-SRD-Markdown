@@ -33,7 +33,7 @@ abilityMods: [4, 1, 2, 1, 3, 0]
 
 abilities_mid:
   - name: "Guide's Warning"
-    desc: "⬲ __Trigger__ The guide is about to roll a [[Perception]] or [[Survival]] check to determine their initiative __Effect__  The guide visually or audibly warns allies, granting them a +1 circumstance bonus to their initiative rolls. Depending on how the guide warns allies, this action has the [[auditory]] or [[visual]] trait."
+    desc: "⬲ __Trigger__ The guide is about to roll a [[compendium/skills.md#Perception|Perception]] or [[compendium/skills.md#Survival|Survival]] check to determine their initiative __Effect__  The guide visually or audibly warns allies, granting them a +1 circumstance bonus to their initiative rolls. Depending on how the guide warns allies, this action has the [[auditory]] or [[visual]] trait."
 abilities_top:
   - name: Items
     desc: "composite shortbow (40 arrows), greataxe, scale mail;"
@@ -57,7 +57,7 @@ attacks:
   - name: Melee
     desc: "⬻ greataxe +12 ([[sweep]]); __Damage__ 1d12+6 (1d12+6) slashing"
   - name: Ranged
-    desc: "⬻ composite shortbow +9 ([[deadly|deadly 1d10]], [[propulsive]], [[range increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6+2 (1d6+2) piercing"
+    desc: "⬻ composite shortbow +9 ([[deadly|deadly 1d10]], [[propulsive]], [[range-increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6+2 (1d6+2) piercing"
 
 sourcebook: "_Gamemastery Guide_, page 217."
 ```

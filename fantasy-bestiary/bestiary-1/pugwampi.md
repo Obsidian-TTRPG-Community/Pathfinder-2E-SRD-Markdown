@@ -54,11 +54,11 @@ attacks:
   - name: Melee
     desc: "⬻ shortsword +8 ([[agile]], [[finesse]], [[magical]], [[versatile|versatile s]]); __Damage__ 1d6-3 (1d6-3) slashing"
   - name: Ranged
-    desc: "⬻ shortbow +8 ([[deadly|deadly 1d10]], [[magical]], [[range increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6 (1d6) piercing"
+    desc: "⬻ shortbow +8 ([[deadly|deadly 1d10]], [[magical]], [[range-increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6 (1d6) piercing"
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 16; __Cantrips (1st)__ [[prestidigitation]]; __2nd__ [[speak with animals]] (at will);"
+    desc: "DC 16; __Cantrips (1st)__ [[prestidigitation]]; __2nd__ [[speak-with-animals|speak with animals]] (at will);"
 sourcebook: "_Bestiary_, page 193."
 ```
 

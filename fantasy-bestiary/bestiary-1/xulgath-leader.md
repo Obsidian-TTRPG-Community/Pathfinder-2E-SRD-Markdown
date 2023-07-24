@@ -33,13 +33,13 @@ abilityMods: [4, 1, 2, -1, 2, 1]
 
 abilities_mid:
   - name: "Stench"
-    desc: " ([[aura]], [[olfactory]]);  30 feet. A creature that enters the area must attempt a DC 19 Fortitude save. On a failure, the creature is [[sickened|sickened 1]], and on a critical failure, the creature also takes a –5-foot status penalty to its Speeds for 1 round. While within the aura, the creature takes a –2 circumstance penalty to saves to recover from the [[sickened|sickened]] condition. A creature that succeeds at its save is temporarily immune to all xulgaths' stenches for 1 minute."
+    desc: " ([[aura]], [[olfactory]]);  30 feet. A creature that enters the area must attempt a DC 19 Fortitude save. On a failure, the creature is [[rules/conditions.md#Sickened|sickened 1]], and on a critical failure, the creature also takes a –5-foot status penalty to its Speeds for 1 round. While within the aura, the creature takes a –2 circumstance penalty to saves to recover from the [[rules/conditions.md#Sickened|sickened]] condition. A creature that succeeds at its save is temporarily immune to all xulgaths' stenches for 1 minute."
 abilities_top:
   - name: Items
     desc: "breastplate, greataxe, javelin (4);"
 abilities_bot:
   - name: "Weakening Strike"
-    desc: "⬻  The target must succeed at a DC 20 Fortitude save or become [[enfeebled|enfeebled 1]] (or [[enfeebled|enfeebled 2]] on a critical hit) for 1 round. Lone exiles of yeti clans have little use for treasure and leave the gear of their slain victims behind where it is quickly covered by snowfall. Clan-based yetis, on the other hand, create beautifully carved stonework, some of which they shape into protective talismans of rare beauty."
+    desc: "⬻  The target must succeed at a DC 20 Fortitude save or become [[rules/conditions.md#Enfeebled|enfeebled 1]] (or [[rules/conditions.md#Enfeebled|enfeebled 2]] on a critical hit) for 1 round. Lone exiles of yeti clans have little use for treasure and leave the gear of their slain victims behind where it is quickly covered by snowfall. Clan-based yetis, on the other hand, create beautifully carved stonework, some of which they shape into protective talismans of rare beauty."
 
 speed: 25 feet
 

@@ -39,7 +39,7 @@ abilities_top:
     desc: "dogslicer, leather armor, shortbow (10 arrows);"
 abilities_bot:
   - name: "Goblin Song"
-    desc: "⬻  The war chanter sings annoying goblin songs, distracting foes with silly and repetitive lyrics. The chanter attempts a [[Performance]] check against the Will DCs of up to two enemies within 30 feet. This has the usual traits and restrictions for a [[Performance]] check.\n__Critical Success__ The target takes a –1 status penalty to [[Perception]] checks and Will saves for 1 minute.\n__Success__ As critical success, but the target is affected for only 1 round.\n__Critical Failure__ The target is temporarily immune to Goblin Song for 1 hour."
+    desc: "⬻  The war chanter sings annoying goblin songs, distracting foes with silly and repetitive lyrics. The chanter attempts a [[compendium/skills.md#Performance|Performance]] check against the Will DCs of up to two enemies within 30 feet. This has the usual traits and restrictions for a [[compendium/skills.md#Performance|Performance]] check.\n__Critical Success__ The target takes a –1 status penalty to [[compendium/skills.md#Perception|Perception]] checks and Will saves for 1 minute.\n__Success__ As critical success, but the target is affected for only 1 round.\n__Critical Failure__ The target is temporarily immune to Goblin Song for 1 hour."
 
 speed: 25 feet
 
@@ -57,11 +57,11 @@ attacks:
   - name: Melee
     desc: "⬻ dogslicer +8 ([[agile]], [[backstabber]], [[finesse]]); __Damage__ 1d6+2 (1d6+2) slashing"
   - name: Ranged
-    desc: "⬻ shortbow +8 ([[deadly|deadly 1d10]], [[range increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6 (1d6) piercing"
+    desc: "⬻ shortbow +8 ([[deadly|deadly 1d10]], [[range-increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6 (1d6) piercing"
 
 spellcasting:
   - name: "Occult Spontaneous Spells"
-    desc: "DC 17; __Cantrips (1st)__ [[ghost sound]], [[inspire courage]], [[mage hand]], [[message]], [[telekinetic projectile]]; __1st__ (2 slots) [[bless]], [[soothe]];"
+    desc: "DC 17; __Cantrips (1st)__ [[ghost-sound|ghost sound]], [[inspire-courage|inspire courage]], [[mage-hand|mage hand]], [[message]], [[telekinetic-projectile|telekinetic projectile]]; __1st__ (2 slots) [[bless]], [[soothe]];"
 sourcebook: "_Bestiary_, page 181."
 ```
 

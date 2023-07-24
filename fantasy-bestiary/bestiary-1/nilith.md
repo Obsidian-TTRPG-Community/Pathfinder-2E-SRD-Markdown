@@ -32,7 +32,7 @@ abilityMods: [3, 5, 4, 3, 3, 5]
 
 abilities_bot:
   - name: "Mind Crush"
-    desc: "⬻ ([[enchantment]], [[mental]], [[occult]]); __Requirements__ The nilith has a creature [[grabbed|grabbed]].  __Effect__  The nilith reaches into the mind of the [[grabbed|grabbed]] creature and implants disjointed images of the victim's worst fears and nightmares. The [[grabbed|grabbed]] creature takes 6d6 (6d6) mental damage (DC 31 basic Will save). On a critical failure, the target is also affected as though by feeblemind, and it must attempt a second Will save against that effect."
+    desc: "⬻ ([[enchantment]], [[mental]], [[occult]]); __Requirements__ The nilith has a creature [[rules/conditions.md#Grabbed|grabbed]].  __Effect__  The nilith reaches into the mind of the [[rules/conditions.md#Grabbed|grabbed]] creature and implants disjointed images of the victim's worst fears and nightmares. The [[rules/conditions.md#Grabbed|grabbed]] creature takes 6d6 (6d6) mental damage (DC 31 basic Will save). On a critical failure, the target is also affected as though by feeblemind, and it must attempt a second Will save against that effect."
 
 speed: 25 feet, climb 30 feet
 
@@ -54,7 +54,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 29; __Cantrips (5th)__ [[mage hand]], [[message]], [[read aura]], [[shield]]; __3rd__ [[mind reading]] (at will); __4th__ [[blink]], [[confusion]], [[crushing despair]], [[dream message]], [[invisibility]] (at will) self only, [[nightmare]]; __5th__ [[hallucination]], [[mind probe]];"
+    desc: "DC 29; __Cantrips (5th)__ [[mage-hand|mage hand]], [[message]], [[read-aura|read aura]], [[shield]]; __3rd__ [[mind-reading|mind reading]] (at will); __4th__ [[blink]], [[confusion]], [[crushing-despair|crushing despair]], [[dream-message|dream message]], [[invisibility]] (at will) self only, [[nightmare]]; __5th__ [[hallucination]], [[mind-probe|mind probe]];"
 sourcebook: "_Bestiary_, page 245."
 ```
 

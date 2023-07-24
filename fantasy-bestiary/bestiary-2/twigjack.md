@@ -54,7 +54,7 @@ attacks:
   - name: Melee
     desc: "⬻ claw +11 ([[agile]], [[finesse]]); __Damage__ 1d10+4 (1d10+4) slashing"
   - name: Ranged
-    desc: "⬻ splinter +11 ([[deadly|deadly 1d6]], [[range increment|range increment 30 feet]]); __Damage__ 1d6+4 (1d6+4) piercing"
+    desc: "⬻ splinter +11 ([[deadly|deadly 1d6]], [[range-increment|range increment 30 feet]]); __Damage__ 1d6+4 (1d6+4) piercing"
 
 sourcebook: "_Bestiary 2_, page 270."
 ```

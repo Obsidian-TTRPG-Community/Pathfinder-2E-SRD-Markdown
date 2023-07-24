@@ -32,12 +32,12 @@ abilityMods: [4, 1, 3, 0, 1, 0]
 
 abilities_mid:
   - name: "Adhesive"
-    desc: "  The mimic is coated in an adhesive slime. Any creature that hits the mimic, is hit by the mimic, or otherwise touches the mimic must succeed at a DC 23 Reflex save or become [[grabbed|grabbed]] ([[Escape]] DC 23). A weapon that hits the mimic is stuck to the mimic and can be removed with a successful DC 23 [[Athletics]] check (made as a single action). A mimic can have any number of objects or creatures stuck to it at a time. The mimic can release a stuck creature or object by using a single action, and the adhesive dissolves 1 minute after the mimic dies, releasing all stuck objects and creatures."
+    desc: "  The mimic is coated in an adhesive slime. Any creature that hits the mimic, is hit by the mimic, or otherwise touches the mimic must succeed at a DC 23 Reflex save or become [[rules/conditions.md#Grabbed|grabbed]] ([[Escape]] DC 23). A weapon that hits the mimic is stuck to the mimic and can be removed with a successful DC 23 [[compendium/skills.md#Athletics|Athletics]] check (made as a single action). A mimic can have any number of objects or creatures stuck to it at a time. The mimic can release a stuck creature or object by using a single action, and the adhesive dissolves 1 minute after the mimic dies, releasing all stuck objects and creatures."
   - name: "Object Lesson"
     desc: "⬲ __Trigger__ A creature touches or physically interacts with the mimic while the mimic is transformed using Mimic Object. __Effect__  The triggering creature is automatically stuck by the mimic's adhesive (it receives no save). The mimic then makes a pseudopod [[Strike]] against any creature adjacent to the mimic. Object Lesson can't be used again until the mimic escapes and takes on a new disguise."
 abilities_bot:
   - name: "Mimic Object"
-    desc: "⬻ ([[concentrate]], [[polymorph]]);  The mimic assumes the shape of any Medium object. This doesn't change the mimic's texture or overall size but can alter its coloration and visual appearance. It has an automatic result of 28 on [[Deception]] checks and DCs to pass as the object that it's mimicking."
+    desc: "⬻ ([[concentrate]], [[polymorph]]);  The mimic assumes the shape of any Medium object. This doesn't change the mimic's texture or overall size but can alter its coloration and visual appearance. It has an automatic result of 28 on [[compendium/skills.md#Deception|Deception]] checks and DCs to pass as the object that it's mimicking."
 
 speed: 10 feet
 

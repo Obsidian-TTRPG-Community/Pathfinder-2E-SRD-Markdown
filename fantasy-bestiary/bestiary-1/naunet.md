@@ -36,14 +36,14 @@ abilities_top:
     desc: " ([[divination]], [[divine]], [[prediction]]);  A voidworm can anticipate the most likely presence of a creature through a supernatural insight into chaotic probabilities and chance. This grants it the ability to sense creatures within the listed range. A creature under the effects of nondetection or that is otherwise shielded from divinations and predictions cannot be noticed via entropy sense."
 abilities_mid:
   - name: "Protean Anatomy"
-    desc: " ([[divine]], [[transmutation]]);  A voidworm's vital organs shift and change shape and position constantly. Immediately after the voidworm takes acid, electricity, or sonic damage, it gains the listed amount of resistance to that damage type. This lasts for 1 hour or until the next time the protean takes damage of one of the other types (in which case its resistance changes to match that type), whichever comes first. The voidworm is immune to [[polymorph]] effects unless it is a willing target. If [[blinded|blinded]] or [[deafened|deafened]], the voidworm automatically recovers at the end of its next turn as new sensory organs grow to replace the compromised ones."
+    desc: " ([[divine]], [[transmutation]]);  A voidworm's vital organs shift and change shape and position constantly. Immediately after the voidworm takes acid, electricity, or sonic damage, it gains the listed amount of resistance to that damage type. This lasts for 1 hour or until the next time the protean takes damage of one of the other types (in which case its resistance changes to match that type), whichever comes first. The voidworm is immune to [[polymorph]] effects unless it is a willing target. If [[rules/conditions.md#Blinded|blinded]] or [[rules/conditions.md#Deafened|deafened]], the voidworm automatically recovers at the end of its next turn as new sensory organs grow to replace the compromised ones."
 abilities_bot:
   - name: "Adaptive Strike"
     desc: "⭓ ([[divine]], [[polymorph]], [[transmutation]]);  The naunet chooses adamantine, cold iron, or silver; its melee [[Strike|Strikes]] count as that type for 1 minute or until it uses Adaptive [[Strike]] again."
   - name: "Change Shape"
     desc: "⬻ ([[concentrate]], [[divine]], [[polymorph]], [[transmutation]]);  The naunet can take the appearance of any Small, Medium, or Large animal, beast, or humanoid. This doesn't change its Speed or its attack and damage bonuses with its [[Strike|Strikes]] but might change the damage type its [[Strike|Strikes]] deal."
   - name: "Confounding Slam"
-    desc: " ([[divine]], [[emotion]], [[enchantment]], [[mental]]);  A creature hit by the naunet's tentacle [[Strike]] is [[stupefied|stupefied 2]] for 1d4 (1d4) rounds (DC 24 Will negates). If the creature was already [[stupefied|stupefied]] in this way, the duration extends by 1 round instead. A chaotic creature is only [[stupefied|stupefied 1]] instead."
+    desc: " ([[divine]], [[emotion]], [[enchantment]], [[mental]]);  A creature hit by the naunet's tentacle [[Strike]] is [[rules/conditions.md#Stupefied|stupefied 2]] for 1d4 (1d4) rounds (DC 24 Will negates). If the creature was already [[rules/conditions.md#Stupefied|stupefied]] in this way, the duration extends by 1 round instead. A chaotic creature is only [[rules/conditions.md#Stupefied|stupefied 1]] instead."
   - name: "Constrict"
     desc: "⬻  1d8+8 (1d8+8) bludgeoning, DC 26."
 
@@ -69,7 +69,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 26, attack +16; __1st__ [[detect alignment]] at will; lawful only; __2nd__ [[obscuring mist]] (at will); __3rd__ [[shatter]] (at will); __4th__ [[acid arrow]], [[solid fog]]; __5th__ [[dimension door]]; __Constant__ __(4th)__ [[freedom of movement]];"
+    desc: "DC 26, attack +16; __1st__ [[detect-alignment|detect alignment]] at will; lawful only; __2nd__ [[obscuring-mist|obscuring mist]] (at will); __3rd__ [[shatter]] (at will); __4th__ [[acid-arrow|acid arrow]], [[solid-fog|solid fog]]; __5th__ [[dimension-door|dimension door]]; __Constant__ __(4th)__ [[freedom-of-movement|freedom of movement]];"
 sourcebook: "_Bestiary_, page 267."
 ```
 

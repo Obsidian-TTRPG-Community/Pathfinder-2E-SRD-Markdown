@@ -52,7 +52,7 @@ abilities_bot:
   - name: "Draconic Momentum"
     desc: "  The dragon recharges their Breath Weapon whenever they score a critical hit with a [[Strike]]."
   - name: "Hyponatremia"
-    desc: " ([[water]]);  A living creature that takes damage from the sea dragon's jaws [[Strike]] must succeed at a DC 26 Fortitude save or become [[sickened|sickened 1]] as a surge of excess water floods its body."
+    desc: " ([[water]]);  A living creature that takes damage from the sea dragon's jaws [[Strike]] must succeed at a DC 26 Fortitude save or become [[rules/conditions.md#Sickened|sickened 1]] as a surge of excess water floods its body."
 
 speed: 30 feet, fly 100 feet, swim 50 feet; water walk;
 
@@ -76,7 +76,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 26; __1st__ [[create water]] (at will); __2nd__ [[endure elements]] self only; __Constant__ __(2nd)__ [[water walk]];"
+    desc: "DC 26; __1st__ [[create-water|create water]] (at will); __2nd__ [[endure-elements|endure elements]] self only; __Constant__ __(2nd)__ [[water-walk|water walk]];"
 sourcebook: "_Bestiary 3_, page 77."
 ```
 

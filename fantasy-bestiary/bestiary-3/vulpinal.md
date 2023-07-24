@@ -33,7 +33,7 @@ abilityMods: [2, 4, 4, 5, 3, 6]
 
 abilities_bot:
   - name: "Fox's Cunning"
-    desc: "  A vulpinal's core value is cunning. They can apply their knowledge and stories from their extensive travels to just about any situation in an instant. Before spending any other action on their turn, the vulpinal can [[Recall Knowledge]] as a free action."
+    desc: "  A vulpinal's core value is cunning. They can apply their knowledge and stories from their extensive travels to just about any situation in an instant. Before spending any other action on their turn, the vulpinal can [[Recall-Knowledge|Recall Knowledge]] as a free action."
 abilities_top:
   - name: Items
     desc: "handheld instrument;"
@@ -58,9 +58,9 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 24; __2nd__ [[detect alignment]] (at will) evil only, [[invisibility]] (at will) self only; __3rd__ [[calm emotions]], [[remove disease]]; __4th__ [[dimension door]], [[divine wrath]]; __Constant__ __(5th)__ [[speak with animals]], [[tongues]];"
+    desc: "DC 24; __2nd__ [[detect-alignment|detect alignment]] (at will) evil only, [[invisibility]] (at will) self only; __3rd__ [[calm-emotions|calm emotions]], [[remove-disease|remove disease]]; __4th__ [[dimension-door|dimension door]], [[divine-wrath|divine wrath]]; __Constant__ __(5th)__ [[speak-with-animals|speak with animals]], [[tongues]];"
   - name: "Champion Focus Spells"
-    desc: "DC 24, (1 Focus Point); __3rd__ [[lay on hands]];"
+    desc: "DC 24, (1 Focus Point); __3rd__ [[lay-on-hands|lay on hands]];"
 sourcebook: "_Bestiary 3_, page 11."
 ```
 

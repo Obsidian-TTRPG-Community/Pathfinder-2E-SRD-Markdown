@@ -31,12 +31,12 @@ abilityMods: [3, 3, 3, -4, 1, -2]
 
 abilities_mid:
   - name: "Tighten Coils"
-    desc: "⬲ __Trigger__ A creature [[grabbed|grabbed]] or [[restrained|restrained]] by the ball python attempts to [[Escape]]. __Effect__  The DC of the [[Escape]] check is increased by 2."
+    desc: "⬲ __Trigger__ A creature [[rules/conditions.md#Grabbed|grabbed]] or [[rules/conditions.md#Restrained|restrained]] by the ball python attempts to [[Escape]]. __Effect__  The DC of the [[Escape]] check is increased by 2."
 abilities_bot:
   - name: "Constrict"
     desc: "⬻  1d8 (1d8) bludgeoning, DC 17."
   - name: "Wrap in Coils"
-    desc: "⬻ __Requirements__ A Medium or smaller creature is [[grabbed|grabbed]] or [[restrained|restrained]] in the ball python's jaws.  __Effect__  The ball python moves the creature into its coils, freeing its jaws to make attacks, then uses Constrict against the creature. The ball python's coils can hold one creature."
+    desc: "⬻ __Requirements__ A Medium or smaller creature is [[rules/conditions.md#Grabbed|grabbed]] or [[rules/conditions.md#Restrained|restrained]] in the ball python's jaws.  __Effect__  The ball python moves the creature into its coils, freeing its jaws to make attacks, then uses Constrict against the creature. The ball python's coils can hold one creature."
 
 speed: 20 feet, climb 20 feet, swim 20 feet
 

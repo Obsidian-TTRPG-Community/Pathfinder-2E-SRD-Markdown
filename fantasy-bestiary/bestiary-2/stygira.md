@@ -39,12 +39,12 @@ abilities_top:
     desc: "gemstone (worth 25 gp);"
 abilities_mid:
   - name: "Light Sickness"
-    desc: "  A stygira in an area of bright light is [[sickened|sickened 1]]."
+    desc: "  A stygira in an area of bright light is [[rules/conditions.md#Sickened|sickened 1]]."
 abilities_bot:
   - name: "Gem Gaze"
-    desc: "⬻ ([[emotion]], [[fear]], [[mental]], [[primal]]);  The stygira holds aloft a gem and gazes into the mind of a creature within 30 feet, infusing the creature's thoughts with visions of the creature's own dead body slowly petrifying. The creature must succeed at a DC 25 Will save or become [[frightened|frightened 1]] ([[frightened|frightened 2]] on a critical failure)."
+    desc: "⬻ ([[emotion]], [[fear]], [[mental]], [[primal]]);  The stygira holds aloft a gem and gazes into the mind of a creature within 30 feet, infusing the creature's thoughts with visions of the creature's own dead body slowly petrifying. The creature must succeed at a DC 25 Will save or become [[rules/conditions.md#Frightened|frightened 1]] ([[rules/conditions.md#Frightened|frightened 2]] on a critical failure)."
   - name: "Stone Curse"
-    desc: " ([[curse]], [[primal]], [[transmutation]]);  Wounds dealt by the stygira's claws leave the flesh bleached of color and turn the blood that runs from them dark gray. Each time a creature is damaged by the stygira's claw [[Strike]], it must succeed at a DC 25 Fortitude save or become permanently [[slowed|slowed 1]] ([[slowed|slowed 2]] on a critical failure) as its flesh stiffens like stone. If a creature is reduced to 0 Hit Points from the stygira's claw [[Strike]] and fails the saving throw against stone curse, it is [[petrified|petrified]]. A creature that spends 8 hours in direct sunlight can attempt a new saving throw to remove the effects of stone curse, even if it has been [[petrified|petrified]]."
+    desc: " ([[curse]], [[primal]], [[transmutation]]);  Wounds dealt by the stygira's claws leave the flesh bleached of color and turn the blood that runs from them dark gray. Each time a creature is damaged by the stygira's claw [[Strike]], it must succeed at a DC 25 Fortitude save or become permanently [[rules/conditions.md#Slowed|slowed 1]] ([[rules/conditions.md#Slowed|slowed 2]] on a critical failure) as its flesh stiffens like stone. If a creature is reduced to 0 Hit Points from the stygira's claw [[Strike]] and fails the saving throw against stone curse, it is [[rules/conditions.md#Petrified|petrified]]. A creature that spends 8 hours in direct sunlight can attempt a new saving throw to remove the effects of stone curse, even if it has been [[rules/conditions.md#Petrified|petrified]]."
 
 speed: 25 feet
 
@@ -64,7 +64,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 25; __Cantrips (4th)__ [[know direction]], [[read aura]]; __2nd__ [[augury]], [[undetectable alignment]]; __3rd__ [[clairaudience]], [[earthbind]]; __4th__ [[clairvoyance]], [[read omens]], [[shape stone]];"
+    desc: "DC 25; __Cantrips (4th)__ [[know-direction|know direction]], [[read-aura|read aura]]; __2nd__ [[augury]], [[undetectable-alignment|undetectable alignment]]; __3rd__ [[clairaudience]], [[earthbind]]; __4th__ [[clairvoyance]], [[read-omens|read omens]], [[shape-stone|shape stone]];"
 sourcebook: "_Bestiary 2_, page 255."
 ```
 

@@ -40,7 +40,7 @@ abilities_mid:
   - name: "Undead Mastery"
     desc: " ([[aura]], [[divine]], [[necromancy]]);  100 feet. Commanded or allied undead in the aura that have a lower level than the mummy pharaoh gain a +1 circumstance bonus to attack rolls, damage rolls, AC, saves, and skill checks."
   - name: "Attack of Opportunity"
-    desc: "⬲  The mummy pharaoh can use [[Attack of Opportunity]] when a creature within its reach uses a concentrate action, in addition to its normal trigger. It can disrupt triggering concentrate actions, and it disrupts actions on any hit, not just a critical hit."
+    desc: "⬲  The mummy pharaoh can use [[Attack-of-Opportunity|Attack of Opportunity]] when a creature within its reach uses a concentrate action, in addition to its normal trigger. It can disrupt triggering concentrate actions, and it disrupts actions on any hit, not just a critical hit."
 abilities_top:
   - name: Items
     desc: "+1 striking longspear;"
@@ -48,7 +48,7 @@ abilities_bot:
   - name: "Channel Rot"
     desc: " ([[divine]], [[necromancy]]);  The mummy pharaoh can deliver insidious mummy rot through melee weapons it wields."
   - name: "Insidious Mummy Rot"
-    desc: " ([[curse]], [[disease]], [[divine]], [[necromancy]]);  __Saving Throw__ DC 26 Fortitude. __Stage 1__ carrier with no ill effect (1 minute) __Stage 2__ 8d6 (8d6) negative damage and [[stupefied|stupefied 2]] (1 day)"
+    desc: " ([[curse]], [[disease]], [[divine]], [[necromancy]]);  __Saving Throw__ DC 26 Fortitude. __Stage 1__ carrier with no ill effect (1 minute) __Stage 2__ 8d6 (8d6) negative damage and [[rules/conditions.md#Stupefied|stupefied 2]] (1 day)"
   - name: "Sandstorm Wrath"
     desc: "⬺ ([[concentrate]], [[divine]], [[evocation]], [[fire]]);  The mummy pharaoh exhales a 60-foot cone of superheated sand that deals 5d6 (5d6) fire and 5d6 (5d6) slashing damage (DC 28 basic Reflex save). The mummy pharaoh can't use Sandstorm Wrath again for 1d4 (1d4) rounds."
 

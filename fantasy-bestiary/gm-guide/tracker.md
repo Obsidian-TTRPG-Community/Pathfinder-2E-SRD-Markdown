@@ -58,7 +58,7 @@ attacks:
   - name: Melee
     desc: "⬻ staff +9 ([[two-hand|two-hand d8]]); __Damage__ 1d4+4 (1d4+4) bludgeoning"
   - name: Ranged
-    desc: "⬻ composite longbow +11 ([[deadly|deadly 1d10]], [[propulsive]], [[range increment|range increment 100 feet]], [[reload|reload 0]], [[volley|volley 30 feet]]); __Damage__ 1d8+3 (1d8+3) piercing"
+    desc: "⬻ composite longbow +11 ([[deadly|deadly 1d10]], [[propulsive]], [[range-increment|range increment 100 feet]], [[reload|reload 0]], [[volley|volley 30 feet]]); __Damage__ 1d8+3 (1d8+3) piercing"
 
 sourcebook: "_Gamemastery Guide_, page 220."
 ```

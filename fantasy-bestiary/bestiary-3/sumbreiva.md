@@ -35,14 +35,14 @@ abilities_mid:
   - name: "Attack of Opportunity"
     desc: "⬲ "
   - name: "Hunter's Triumph"
-    desc: "⬲ ([[auditory]], [[emotion]], [[fear]], [[mental]]); __Trigger__ The sumbreiva kills a creature __Effect__  The sumbreiva lets out a triumphant, bone-chilling howl. Every enemy in a 30-foot emanation must succeed at a DC 36 Will save or become [[frightened|frightened 3]] (and [[fleeing|fleeing]] as long as it's [[frightened|frightened]] on a critical failure)."
+    desc: "⬲ ([[auditory]], [[emotion]], [[fear]], [[mental]]); __Trigger__ The sumbreiva kills a creature __Effect__  The sumbreiva lets out a triumphant, bone-chilling howl. Every enemy in a 30-foot emanation must succeed at a DC 36 Will save or become [[rules/conditions.md#Frightened|frightened 3]] (and [[rules/conditions.md#Fleeing|fleeing]] as long as it's [[rules/conditions.md#Frightened|frightened]] on a critical failure)."
 abilities_bot:
   - name: "Claim Trophy"
     desc: "⬻  The sumbreiva claims the soul of a creature they killed within the last minute. This works like bind soul, except that no black sapphire is required and the soul is turned into a glowing blue light called a soul trophy. Anyone who kills the sumbreiva can then free the soul from any soul trophy by touching it and speaking the word for \"freedom\" in any language."
   - name: "Huntblade Brutality"
-    desc: "  The sumbreiva's huntblade deals an additional 2d8 (2d8) damage to [[drained|drained]], [[flat-footed|flat-footed]], or [[frightened|frightened]] creatures."
+    desc: "  The sumbreiva's huntblade deals an additional 2d8 (2d8) damage to [[rules/conditions.md#Drained|drained]], [[rules/conditions.md#Flat-Footed|flat-footed]], or [[rules/conditions.md#Frightened|frightened]] creatures."
   - name: "Whip Drain"
-    desc: "⬻ ([[arcane]], [[death]], [[necromancy]]); __Requirements__ The sumbreiva has a creature [[grabbed|grabbed]] with their shadow whip  __Effect__  The [[grabbed|grabbed]] creature must succeed at a DC 38 Fortitude save or become [[drained|drained 2]] ([[drained|drained 3]] on a critical failure). If the creature is already [[drained|drained]], this increases its [[drained|drained]] value instead, to a maximum of [[drained|drained 4]]."
+    desc: "⬻ ([[arcane]], [[death]], [[necromancy]]); __Requirements__ The sumbreiva has a creature [[rules/conditions.md#Grabbed|grabbed]] with their shadow whip  __Effect__  The [[rules/conditions.md#Grabbed|grabbed]] creature must succeed at a DC 38 Fortitude save or become [[rules/conditions.md#Drained|drained 2]] ([[rules/conditions.md#Drained|drained 3]] on a critical failure). If the creature is already [[rules/conditions.md#Drained|drained]], this increases its [[rules/conditions.md#Drained|drained]] value instead, to a maximum of [[rules/conditions.md#Drained|drained 4]]."
 
 speed: 50 feet
 
@@ -60,7 +60,7 @@ attacks:
   - name: Melee
     desc: "⬻ sumbreiva huntblade +33 ([[agile]], [[death]], [[finesse]], [[magical]], [[versatile|versatile s]]); __Damage__ 3d8+16 (3d8+16) piercing plus huntblade brutality"
   - name: Melee
-    desc: "⬻ shadow whip +33 ([[agile]], [[death]], [[disarm]], [[finesse]], [[magical]], [[reach|reach 10 feet]], [[trip]]); __Damage__ 3d4+16 (3d4+16) bludgeoning plus [[Improved Grab]]"
+    desc: "⬻ shadow whip +33 ([[agile]], [[death]], [[disarm]], [[finesse]], [[magical]], [[reach|reach 10 feet]], [[trip]]); __Damage__ 3d4+16 (3d4+16) bludgeoning plus [[Improved-Grab|Improved Grab]]"
   - name: Ranged
     desc: "⬻ sumbreiva huntblade +33 ([[agile]], [[death]], [[magical]], [[thrown|thrown 30 feet]], [[versatile|versatile s]]); __Damage__ 3d8+16 (3d8+16) piercing plus huntblade brutality"
 

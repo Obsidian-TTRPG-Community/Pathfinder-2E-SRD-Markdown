@@ -32,13 +32,13 @@ abilityMods: [3, 2, 3, -1, 1, 0]
 
 abilities_bot:
   - name: "Ferocity"
-    desc: "⬲  When the orc is reduced to 0 Hit Points, they can use their reaction to remain conscious with 1 Hit Point, but they gain the [[wounded|wounded 1]] condition (or increases the [[wounded|wounded]] value by 1 if they already have that condition). The orc can't use this ability at [[wounded|wounded 3]]."
+    desc: "⬲  When the orc is reduced to 0 Hit Points, they can use their reaction to remain conscious with 1 Hit Point, but they gain the [[rules/conditions.md#Wounded|wounded 1]] condition (or increases the [[rules/conditions.md#Wounded|wounded]] value by 1 if they already have that condition). The orc can't use this ability at [[rules/conditions.md#Wounded|wounded 3]]."
   - name: "Stride"
     desc: "⬻  25 feet"
   - name: "Melee Strike"
     desc: "⬻ ([[sweep]]);  Damage 1d8+3 (1d8+3) piercing Melee [[Strike]] ⬻ fist +7 (agile, nonlethal), Damage 1d4+3 (1d4+3) bludgeoning"
   - name: "Ranged Strike"
-    desc: "⬻ ([[thrown 30 feet]]);  Damage 1d6+3 (1d6+3) piercing"
+    desc: "⬻ ([[thrown|thrown 30 feet]]);  Damage 1d6+3 (1d6+3) piercing"
 abilities_top:
   - name: Items
     desc: "battle axe (2), hide armor, javelin (3);"

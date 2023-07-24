@@ -31,7 +31,7 @@ abilityMods: [0, 3, 2, -4, 1, 0]
 
 abilities_bot:
   - name: "Spray Musk"
-    desc: "⬺ ([[poison]]);  The skunk propels a stream of acrid musk in a 10-foot line. Each creature in the line must attempt a DC 16 Fortitude save.\n__Critical Success__ The target is unaffected.\n__Success__ The target is [[sickened|sickened 1]].\n__Failure__ The target is [[sickened|sickened 2]].\n__Critical Failure__ The target is [[sickened|sickened 2]] and takes a –2 penalty to [[Stealth]] checks from the horrific odor for 24 hours or until the musk is removed or neutralized, requiring 10 minutes of thorough scrubbing with soap."
+    desc: "⬺ ([[poison]]);  The skunk propels a stream of acrid musk in a 10-foot line. Each creature in the line must attempt a DC 16 Fortitude save.\n__Critical Success__ The target is unaffected.\n__Success__ The target is [[rules/conditions.md#Sickened|sickened 1]].\n__Failure__ The target is [[rules/conditions.md#Sickened|sickened 2]].\n__Critical Failure__ The target is [[rules/conditions.md#Sickened|sickened 2]] and takes a –2 penalty to [[compendium/skills.md#Stealth|Stealth]] checks from the horrific odor for 24 hours or until the musk is removed or neutralized, requiring 10 minutes of thorough scrubbing with soap."
 
 speed: 20 feet
 

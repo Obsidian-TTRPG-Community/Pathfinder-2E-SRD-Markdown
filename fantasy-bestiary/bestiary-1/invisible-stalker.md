@@ -33,12 +33,12 @@ abilityMods: [3, 6, 3, -2, 2, 0]
 
 abilities_mid:
   - name: "Naturally Invisible"
-    desc: "  The [[invisible|invisible]] stalker is [[invisible|invisible]] at all times, though when it takes a [[hostile|hostile]] action of any kind, it is [[hidden|hidden]] instead of [[undetected|undetected]] until the start of its next turn, as the vague outline of its humanoid form is faintly visible for a short period of time."
+    desc: "  The [[rules/conditions.md#Invisible|invisible]] stalker is [[rules/conditions.md#Invisible|invisible]] at all times, though when it takes a [[rules/conditions.md#Hostile|hostile]] action of any kind, it is [[rules/conditions.md#Hidden|hidden]] instead of [[rules/conditions.md#Undetected|undetected]] until the start of its next turn, as the vague outline of its humanoid form is faintly visible for a short period of time."
 abilities_bot:
   - name: "Sneak Attack"
-    desc: "  The [[invisible|invisible]] stalker deals 2d6 (2d6) extra precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The [[rules/conditions.md#Invisible|invisible]] stalker deals 2d6 (2d6) extra precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
   - name: "Swift Tracker"
-    desc: "  The [[invisible|invisible]] stalker moves at full Speed while [[Track|Tracking]]."
+    desc: "  The [[rules/conditions.md#Invisible|invisible]] stalker moves at full Speed while [[Track|Tracking]]."
 
 speed: 25 feet, fly 25 feet
 

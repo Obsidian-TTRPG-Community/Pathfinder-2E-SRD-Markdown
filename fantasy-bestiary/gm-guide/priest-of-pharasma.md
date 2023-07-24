@@ -60,7 +60,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Prepared Spells"
-    desc: "DC 24, attack +16; __Cantrips (3rd)__ [[detect magic]], [[disrupt undead]], [[light]], [[read aura]], [[shield]]; __1st__ [[disrupting weapons]], [[mindlink]], [[spirit link]]; __2nd__ [[gentle repose]], [[silence]], [[spiritual weapon]]; __3rd__ [[circle of protection]], [[heal]] (3), [[searing light]] (2);"
+    desc: "DC 24, attack +16; __Cantrips (3rd)__ [[detect-magic|detect magic]], [[disrupt-undead|disrupt undead]], [[light]], [[read-aura|read aura]], [[shield]]; __1st__ [[disrupting-weapons|disrupting weapons]], [[mindlink]], [[spirit-link|spirit link]]; __2nd__ [[gentle-repose|gentle repose]], [[silence]], [[spiritual-weapon|spiritual weapon]]; __3rd__ [[circle-of-protection|circle of protection]], [[heal]] (3), [[searing-light|searing light]] (2);"
 sourcebook: "_Gamemastery Guide_, page 213."
 ```
 

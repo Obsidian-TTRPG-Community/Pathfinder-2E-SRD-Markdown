@@ -38,7 +38,7 @@ abilities_bot:
   - name: "Slice and Dice"
     desc: "⬻ ([[magical]]);  Each enemy in the animated silverware swarm's space takes 1d6 (1d6) piercing or slashing damage (DC 17 basic Reflex save)."
   - name: "Stick a Fork in It"
-    desc: "⬻ ([[magical]]);  The animated silverware swarm attempts to pin a single creature. The target must attempt a DC 17 Reflex save.\n__Critical Success__ The target is unaffected.\n__Success__ Silverware pins portions of the target's clothing and gear. The target takes a –10-foot circumstance penalty to its Speeds as long as it remains in the swarm's space.\n__Failure__ As success, and the target also can't [[Step]] until it leaves the swarm's space.\n__Critical Failure__ The target is thoroughly pinned by the silverware, becoming [[immobilized|immobilized]] until it [[Escape|Escapes]] (DC 17) or uses 2 [[Interact]] actions to remove all of the silverware pinning them down."
+    desc: "⬻ ([[magical]]);  The animated silverware swarm attempts to pin a single creature. The target must attempt a DC 17 Reflex save.\n__Critical Success__ The target is unaffected.\n__Success__ Silverware pins portions of the target's clothing and gear. The target takes a –10-foot circumstance penalty to its Speeds as long as it remains in the swarm's space.\n__Failure__ As success, and the target also can't [[Step]] until it leaves the swarm's space.\n__Critical Failure__ The target is thoroughly pinned by the silverware, becoming [[rules/conditions.md#Immobilized|immobilized]] until it [[Escape|Escapes]] (DC 17) or uses 2 [[Interact]] actions to remove all of the silverware pinning them down."
 
 speed: 20 feet
 

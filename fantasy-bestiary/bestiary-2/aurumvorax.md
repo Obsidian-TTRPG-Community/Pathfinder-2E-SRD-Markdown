@@ -31,16 +31,16 @@ abilityMods: [6, 2, 4, -4, 3, 0]
 
 abilities_mid:
   - name: "Tenacious Stance"
-    desc: "  An aurumvorax gains a +4 circumstance bonus to its Fortitude or Reflex DC against [[Shove]] and [[Trip]] attempts, and to its [[Athletics]] DC against attempts to escape its Grab."
+    desc: "  An aurumvorax gains a +4 circumstance bonus to its Fortitude or Reflex DC against [[Shove]] and [[Trip]] attempts, and to its [[compendium/skills.md#Athletics|Athletics]] DC against attempts to escape its Grab."
   - name: "Ferocity"
     desc: "⬲ "
 abilities_bot:
   - name: "Bleeding Critical"
-    desc: "  When an aurumvorax scores a critical hit, the target takes 1d6 (1d6) [[persistent damage|persistent bleed damage]]."
+    desc: "  When an aurumvorax scores a critical hit, the target takes 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed damage]]."
   - name: "Gnaw Metal"
-    desc: "⬻  The aurumvorax makes a jaws [[Strike]] against a creature it has [[grabbed|grabbed]]. If the attack hits, the target is knocked [[prone|prone]] if it is Medium or smaller. In addition, if the target is wearing armor with Hardness 10 or lower, the armor becomes [[broken|broken]]. If this [[Strike]] breaks a creature's armor or damages a creature that is unarmored or wearing [[broken|broken]] armor, the target also takes 1d6 (1d6) [[persistent damage|persistent bleed damage]]. This [[Strike]] doesn't further damage armor that's already [[broken|broken]]."
+    desc: "⬻  The aurumvorax makes a jaws [[Strike]] against a creature it has [[rules/conditions.md#Grabbed|grabbed]]. If the attack hits, the target is knocked [[rules/conditions.md#Prone|prone]] if it is Medium or smaller. In addition, if the target is wearing armor with Hardness 10 or lower, the armor becomes [[rules/conditions.md#Broken|broken]]. If this [[Strike]] breaks a creature's armor or damages a creature that is unarmored or wearing [[rules/conditions.md#Broken|broken]] armor, the target also takes 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed damage]]. This [[Strike]] doesn't further damage armor that's already [[rules/conditions.md#Broken|broken]]."
   - name: "Rapid Rake"
-    desc: "⬺  The aurumvorax makes four claw [[Strike|Strikes]] against a creature it has [[grabbed|grabbed]]. Each attack counts toward the aurumvorax's multiple attack penalty, and the multiple attack penalty increases with each attack."
+    desc: "⬺  The aurumvorax makes four claw [[Strike|Strikes]] against a creature it has [[rules/conditions.md#Grabbed|grabbed]]. Each attack counts toward the aurumvorax's multiple attack penalty, and the multiple attack penalty increases with each attack."
 
 speed: 35 feet, burrow 10 feet
 

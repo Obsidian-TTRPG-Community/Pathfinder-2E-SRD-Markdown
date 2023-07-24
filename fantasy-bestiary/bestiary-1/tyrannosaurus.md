@@ -32,15 +32,15 @@ abilityMods: [8, 1, 5, -4, 3, 0]
 
 abilities_bot:
   - name: "Fling"
-    desc: "⬻ __Requirements__ A creature is [[Grabbed|Grabbed]] in the tyrannosaurus's jaws.  __Effect__  The tyrannosaurus flings the creature into the air up to 10 feet up from its mouth and 20 feet away. The creature falls 25 feet (assuming the tyrannosaurus flings it as high as it can) and takes falling damage accordingly. If the flung creature lands on another creature, the creature it lands on takes the same amount of bludgeoning damage. The creature being landed on can attempt a DC 23 basic Reflex save."
+    desc: "⬻ __Requirements__ A creature is [[rules/conditions.md#Grabbed|Grabbed]] in the tyrannosaurus's jaws.  __Effect__  The tyrannosaurus flings the creature into the air up to 10 feet up from its mouth and 20 feet away. The creature falls 25 feet (assuming the tyrannosaurus flings it as high as it can) and takes falling damage accordingly. If the flung creature lands on another creature, the creature it lands on takes the same amount of bludgeoning damage. The creature being landed on can attempt a DC 23 basic Reflex save."
   - name: "Pin Prey"
-    desc: "⬲ __Trigger__ The tyrannosaurus critically hits a Large or smaller foe with its foot. __Effect__  The creature struck by the foot is knocked [[prone|prone]] and the tyrannosaurus uses its foot to hold the creature in place. As long as the tyrannosaurus doesn't move from its position, the pinned creature is [[Grabbed|Grabbed]]. A tyrannosaurus gains a +2 circumstance bonus to attack a creature it has pinned in this manner, but it cannot use Swallow Whole on the target unless it uses its jaws to Grab the victim first."
+    desc: "⬲ __Trigger__ The tyrannosaurus critically hits a Large or smaller foe with its foot. __Effect__  The creature struck by the foot is knocked [[rules/conditions.md#Prone|prone]] and the tyrannosaurus uses its foot to hold the creature in place. As long as the tyrannosaurus doesn't move from its position, the pinned creature is [[rules/conditions.md#Grabbed|Grabbed]]. A tyrannosaurus gains a +2 circumstance bonus to attack a creature it has pinned in this manner, but it cannot use Swallow Whole on the target unless it uses its jaws to Grab the victim first."
   - name: "Swallow Whole"
     desc: "⬻ ([[attack]]);  Medium, 3d6+8 (3d6+8) bludgeoning, Rupture 26."
   - name: "Trample"
     desc: "⬽  Huge or smaller, foot, DC 29."
   - name: "Rabies"
-    desc: " ([[disease]]);  __Saving Throw__ DC 17 Fortitude. __Stage 1__ [[sickened|sickened 1]] (1 day) __Stage 2__ [[sickened|sickened 2]] (1 day) __Stage 3__ confusion ; (1 day)"
+    desc: " ([[disease]]);  __Saving Throw__ DC 17 Fortitude. __Stage 1__ [[rules/conditions.md#Sickened|sickened 1]] (1 day) __Stage 2__ [[rules/conditions.md#Sickened|sickened 2]] (1 day) __Stage 3__ confusion ; (1 day)"
 
 speed: 40 feet
 

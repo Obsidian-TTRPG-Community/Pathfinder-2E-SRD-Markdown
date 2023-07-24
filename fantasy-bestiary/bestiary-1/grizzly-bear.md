@@ -31,7 +31,7 @@ abilityMods: [4, 1, 5, -4, 1, -2]
 
 abilities_bot:
   - name: "Mauler"
-    desc: "  The grizzly bear gains a +2 circumstance bonus to damage rolls against creatures it has [[grabbed|grabbed]]."
+    desc: "  The grizzly bear gains a +2 circumstance bonus to damage rolls against creatures it has [[rules/conditions.md#Grabbed|grabbed]]."
   - name: "Rush"
     desc: "⬺  The grizzly bear [[Stride|Strides]] and makes a [[Strike]] at the end of that movement. During the [[Stride]], the grizzly bear gains a +10-foot circumstance bonus to its Speed."
 

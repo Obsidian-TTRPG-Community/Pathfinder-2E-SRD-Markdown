@@ -34,10 +34,10 @@ abilityMods: [5, 3, 5, -1, 3, 3]
 
 abilities_top:
   - name: "Voice Imitation"
-    desc: "  An ahuizotl can mimic the sounds of a person in distress by attempting a [[Deception]] check to [[Lie]]. The ahuizotl has a +4 circumstance bonus to this check."
+    desc: "  An ahuizotl can mimic the sounds of a person in distress by attempting a [[compendium/skills.md#Deception|Deception]] check to [[Lie]]. The ahuizotl has a +4 circumstance bonus to this check."
 abilities_bot:
   - name: "Tail Drag"
-    desc: "⬻ __Requirements__ The ahuizotl has a Medium or smaller creature [[grabbed|grabbed]] with its tail claw  __Effect__  The ahuizotl attempts an [[Athletics]] check against the creature's Fortitude DC.\n__Critical Success__ If the creature is 10 feet away from the ahuizotl, it is dragged into a square adjacent to the ahuizotl. The ahuizotl can make a jaws [[Strike]] against the creature.\n__Success__ If the creature is 10 feet away from the ahuizotl, it is dragged into a square adjacent to the ahuizotl.\n__Failure__ The creature is not dragged.\n__Critical Failure__ The creature is not dragged and the ahuizotl no longer has the creature [[grabbed|grabbed]]."
+    desc: "⬻ __Requirements__ The ahuizotl has a Medium or smaller creature [[rules/conditions.md#Grabbed|grabbed]] with its tail claw  __Effect__  The ahuizotl attempts an [[compendium/skills.md#Athletics|Athletics]] check against the creature's Fortitude DC.\n__Critical Success__ If the creature is 10 feet away from the ahuizotl, it is dragged into a square adjacent to the ahuizotl. The ahuizotl can make a jaws [[Strike]] against the creature.\n__Success__ If the creature is 10 feet away from the ahuizotl, it is dragged into a square adjacent to the ahuizotl.\n__Failure__ The creature is not dragged.\n__Critical Failure__ The creature is not dragged and the ahuizotl no longer has the creature [[rules/conditions.md#Grabbed|grabbed]]."
 
 speed: 25 feet, swim 35 feet
 
@@ -57,7 +57,7 @@ attacks:
   - name: Melee
     desc: "⬻ claw +17 ([[agile]]); __Damage__ 2d6+8 (2d6+8) slashing"
   - name: Melee
-    desc: "⬻ tail claw +17 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 2d4+8 (2d4+8) slashing plus [[Improved Grab]]"
+    desc: "⬻ tail claw +17 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 2d4+8 (2d4+8) slashing plus [[Improved-Grab|Improved Grab]]"
 
 sourcebook: "_Bestiary 2_, page 12."
 ```

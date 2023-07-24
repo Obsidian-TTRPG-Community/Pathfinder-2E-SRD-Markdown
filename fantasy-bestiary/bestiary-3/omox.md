@@ -44,9 +44,9 @@ abilities_bot:
   - name: "Liquid Leap"
     desc: "⬺ ([[concentrate]], [[conjuration]], [[teleportation]]); __Requirements__ The omox is in a space of liquid  __Effect__  The omox teleports from its current space to any unoccupied space of liquid within 120 feet."
   - name: "Slime Trap"
-    desc: "  A creature hit by an omox's slime ball must attempt a DC 32 Reflex save.\n__Success__ The creature is unaffected.\n__Failure__ The creature takes a –10-foot circumstance penalty to its Speeds for 1 minute or until it [[Escape|Escapes]] (DC 35).\n__Critical Failure__ As failure, but the target is also [[clumsy|clumsy 1]] for the same duration."
+    desc: "  A creature hit by an omox's slime ball must attempt a DC 32 Reflex save.\n__Success__ The creature is unaffected.\n__Failure__ The creature takes a –10-foot circumstance penalty to its Speeds for 1 minute or until it [[Escape|Escapes]] (DC 35).\n__Critical Failure__ As failure, but the target is also [[rules/conditions.md#Clumsy|clumsy 1]] for the same duration."
   - name: "Smother"
-    desc: "⬻ __Requirements__ The omox has a creature [[grabbed|grabbed]]  __Effect__  The demon flows over the [[grabbed|grabbed]] creature, covering it in oozing acidic slime. The creature must succeed at a DC 32 Fortitude save or else it becomes [[blinded|blinded]] and must hold its breath or begin suffocating. These effects lasts as long as the omox has the creature [[grabbed|grabbed]]. [[Deception]] and charm rather than burning hands."
+    desc: "⬻ __Requirements__ The omox has a creature [[rules/conditions.md#Grabbed|grabbed]]  __Effect__  The demon flows over the [[rules/conditions.md#Grabbed|grabbed]] creature, covering it in oozing acidic slime. The creature must succeed at a DC 32 Fortitude save or else it becomes [[rules/conditions.md#Blinded|blinded]] and must hold its breath or begin suffocating. These effects lasts as long as the omox has the creature [[rules/conditions.md#Grabbed|grabbed]]. [[compendium/skills.md#Deception|Deception]] and charm rather than burning hands."
 
 speed: 40 feet, climb 20 feet, swim 80 feet
 
@@ -64,11 +64,11 @@ attacks:
   - name: Melee
     desc: "⬻ sludge tendril +25 __Damage__ 2d6+13 (2d6+13) bludgeoning plus 2d6 (2d6) acid and 1d6 (1d6) evil and [[Grab]]"
   - name: Ranged
-    desc: "⬻ slime ball +24 ([[range increment|range increment 30 feet]]); __Damage__ 2d4+13 (2d4+13) bludgeoning plus 2d6 (2d6) acid and 1d6 (1d6) evil and slime trap"
+    desc: "⬻ slime ball +24 ([[range-increment|range increment 30 feet]]); __Damage__ 2d4+13 (2d4+13) bludgeoning plus 2d6 (2d6) acid and 1d6 (1d6) evil and slime trap"
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 32; __4th__ [[dimension door]] (at will); __5th__ [[control water]], [[create water]] (at will), [[dimension door]], [[stinking cloud]];"
+    desc: "DC 32; __4th__ [[dimension-door|dimension door]] (at will); __5th__ [[control-water|control water]], [[create-water|create water]] (at will), [[dimension-door|dimension door]], [[stinking-cloud|stinking cloud]];"
 sourcebook: "_Bestiary 3_, page 63."
 ```
 

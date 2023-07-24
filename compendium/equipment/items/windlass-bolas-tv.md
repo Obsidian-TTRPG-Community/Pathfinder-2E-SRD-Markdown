@@ -10,7 +10,7 @@ tags:
 aliases: ["Windlass Bolas"]
 ---
 # Windlass Bolas *Item 6*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  clockwork  
+[clockwork](rules/traits/clockwork-g-g.md "Clockwork  Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 200 gp
 - **Usage** held in 1 hand; **Bulk** L

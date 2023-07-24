@@ -62,7 +62,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 28, attack +20; __Cantrips (4th)__ [[daze]], [[telekinetic projectile]]; __4th__ [[phantom pain]], [[sleep]], [[spiritual weapon]];"
+    desc: "DC 28, attack +20; __Cantrips (4th)__ [[daze]], [[telekinetic-projectile|telekinetic projectile]]; __4th__ [[phantom-pain|phantom pain]], [[sleep]], [[spiritual-weapon|spiritual weapon]];"
 sourcebook: "_Bestiary 3_, page 203."
 ```
 

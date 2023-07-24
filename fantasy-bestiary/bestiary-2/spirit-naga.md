@@ -36,7 +36,7 @@ abilities_top:
     desc: "  A spirit naga adds hallucination, mind probe, and suggestion to their coven's spells."
 abilities_bot:
   - name: "Spirit Naga Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 28 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d6 (2d6) poison damage and [[stupefied|stupefied 1]] (1 round) __Stage 2__ 2d6 (2d6) poison damage and [[stupefied|stupefied 2]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 28 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d6 (2d6) poison damage and [[rules/conditions.md#Stupefied|stupefied 1]] (1 round) __Stage 2__ 2d6 (2d6) poison damage and [[rules/conditions.md#Stupefied|stupefied 2]] (1 round)"
 
 speed: 25 feet, swim 15 feet
 
@@ -56,7 +56,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Spontaneous Spells"
-    desc: "DC 28, attack +20; __Cantrips (5th)__ [[daze]], [[detect magic]], [[mage hand]], [[read aura]], [[sigil]]; __1st__ (4 slots) [[charm]], [[command]], [[grim tendrils]], [[unseen servant]]; __2nd__ (4 slots) [[blur]], [[humanoid form]], [[mirror image]], [[telekinetic maneuver]]; __3rd__ (4 slots) [[dream message]], [[mind reading]], [[paralyze]], [[vampiric touch]]; __4th__ (4 slots) [[clairvoyance]], [[confusion]], [[fly]], [[modify memory]]; __5th__ (3 slots) [[black tentacles]], [[sending]], [[subconscious suggestion]];"
+    desc: "DC 28, attack +20; __Cantrips (5th)__ [[daze]], [[detect-magic|detect magic]], [[mage-hand|mage hand]], [[read-aura|read aura]], [[sigil]]; __1st__ (4 slots) [[charm]], [[command]], [[grim-tendrils|grim tendrils]], [[unseen-servant|unseen servant]]; __2nd__ (4 slots) [[blur]], [[humanoid-form|humanoid form]], [[mirror-image|mirror image]], [[telekinetic-maneuver|telekinetic maneuver]]; __3rd__ (4 slots) [[dream-message|dream message]], [[mind-reading|mind reading]], [[paralyze]], [[vampiric-touch|vampiric touch]]; __4th__ (4 slots) [[clairvoyance]], [[confusion]], [[fly]], [[modify-memory|modify memory]]; __5th__ (3 slots) [[black-tentacles|black tentacles]], [[sending]], [[subconscious-suggestion|subconscious suggestion]];"
 sourcebook: "_Bestiary 2_, page 179."
 ```
 

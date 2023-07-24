@@ -33,13 +33,13 @@ abilityMods: [1, 3, 3, 1, 2, -2]
 
 abilities_mid:
   - name: "Gremlin Lice"
-    desc: "  Whenever a living creature touches or is touched by a grimple (including via a successful unarmed melee [[Strike]]), it must succeed at a DC 13 Reflex save or become infested by gremlin lice. While infested, the targeted creature is distracted by the itching sensation and is [[stupefied|stupefied 1]], though it can use an [[Interact]] action to scratch at the itching lice to suppress the [[stupefied|stupefied]] condition from the lice for 1d4 (1d4) rounds. The infestation ends after 24 hours or until the creature is submerged in water or exposed to a severe cold environment, whichever comes first."
+    desc: "  Whenever a living creature touches or is touched by a grimple (including via a successful unarmed melee [[Strike]]), it must succeed at a DC 13 Reflex save or become infested by gremlin lice. While infested, the targeted creature is distracted by the itching sensation and is [[rules/conditions.md#Stupefied|stupefied 1]], though it can use an [[Interact]] action to scratch at the itching lice to suppress the [[rules/conditions.md#Stupefied|stupefied]] condition from the lice for 1d4 (1d4) rounds. The infestation ends after 24 hours or until the creature is submerged in water or exposed to a severe cold environment, whichever comes first."
 abilities_top:
   - name: Items
     desc: "satchel with 5 rocks;"
 abilities_bot:
   - name: "Putrid Vomit"
-    desc: "⬻  The grimple spews a 30-foot line of vomit. Each creature in the line must succeed at a DC 16 Fortitude save or become [[sickened|sickened 1]] ([[sickened|sickened 2]] on a critical failure). The grimple can't use Putrid Vomit again for 1d4 (1d4) rounds."
+    desc: "⬻  The grimple spews a 30-foot line of vomit. Each creature in the line must succeed at a DC 16 Fortitude save or become [[rules/conditions.md#Sickened|sickened 1]] ([[rules/conditions.md#Sickened|sickened 2]] on a critical failure). The grimple can't use Putrid Vomit again for 1d4 (1d4) rounds."
 
 speed: 10 feet, climb 20 feet, fly 20 feet
 
@@ -57,11 +57,11 @@ attacks:
   - name: Melee
     desc: "⬻ bite +7 ([[agile]], [[finesse]]); __Damage__ 1d4+1 (1d4+1) piercing"
   - name: Ranged
-    desc: "⬻ rock +7 ([[agile]], [[range increment|range increment 20 feet]]); __Damage__ 1d4+1 (1d4+1) bludgeoning"
+    desc: "⬻ rock +7 ([[agile]], [[range-increment|range increment 20 feet]]); __Damage__ 1d4+1 (1d4+1) bludgeoning"
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 16; __Cantrips (1st)__ [[mage hand]], [[prestidigitation]]; __1st__ [[grease]];"
+    desc: "DC 16; __Cantrips (1st)__ [[mage-hand|mage hand]], [[prestidigitation]]; __1st__ [[grease]];"
 sourcebook: "_Bestiary 3_, page 120."
 ```
 

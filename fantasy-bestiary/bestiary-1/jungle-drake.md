@@ -38,15 +38,15 @@ abilities_bot:
   - name: "Draconic Frenzy"
     desc: "⬺  The jungle drake makes one fangs [[Strike]] and two stinger [[Strike|Strikes]] in any order."
   - name: "Jungle Drake Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 24 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d6 (1d6) poison and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 1d6 (1d6) poison and [[enfeebled|enfeebled 2]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 24 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d6 (1d6) poison and [[rules/conditions.md#Enfeebled|enfeebled 1]] (1 round) __Stage 2__ 1d6 (1d6) poison and [[rules/conditions.md#Enfeebled|enfeebled 2]] (1 round)"
   - name: "Predatory Grab"
-    desc: "  As [[Grab]], but the jungle drake's [[Grab]] does not end if it moves away. Instead, it carries the [[grabbed|grabbed]] creature with it. A jungle drake can't [[Fly]] while grabbing a creature unless that creature can also [[Fly]]."
+    desc: "  As [[Grab]], but the jungle drake's [[Grab]] does not end if it moves away. Instead, it carries the [[rules/conditions.md#Grabbed|grabbed]] creature with it. A jungle drake can't [[Fly]] while grabbing a creature unless that creature can also [[Fly]]."
   - name: "Speed Surge"
     desc: "⬻ __Frequency__ three times per day  __Effect__  The jungle drake [[Stride|Strides]] or [[Fly|Flies]] twice."
   - name: "Spit Venom"
     desc: "⬺ ([[poison]]);  A jungle drake can spit a sticky glob of its venom to a range of 50 feet that explodes in a 10-foot burst. Those in the burst must succeed at a DC 24 Reflex save or be exposed to jungle drake venom. The jungle drake can't use Spit Venom again for 1d6 (1d6) rounds."
   - name: "Woodland Stride"
-    desc: "  The jungle drake ignores [[terrain|difficult terrain]] and [[terrain|greater difficult terrain]] from non-magical foliage."
+    desc: "  The jungle drake ignores [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] and [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|greater difficult terrain]] from non-magical foliage."
 
 speed: 20 feet, fly 50 feet; woodland stride;
 

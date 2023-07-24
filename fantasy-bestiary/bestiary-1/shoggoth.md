@@ -34,7 +34,7 @@ abilityMods: [10, 6, 9, -3, 6, 1]
 
 abilities_mid:
   - name: "Maddening Cacophony"
-    desc: " ([[auditory]], [[aura]], [[incapacitation]], [[mental]]);  60 feet. A shoggoth constantly voices syllables and mutterings that mortals were not meant to hear. A creature entering the aura or starting its turn in the aura must succeed at a DC 38 Will save or become [[confused|confused]] for 1 round (2d4 (2d4) rounds on a critical failure). A creature that successfully saves is temporarily immune for 24 hours."
+    desc: " ([[auditory]], [[aura]], [[incapacitation]], [[mental]]);  60 feet. A shoggoth constantly voices syllables and mutterings that mortals were not meant to hear. A creature entering the aura or starting its turn in the aura must succeed at a DC 38 Will save or become [[rules/conditions.md#Confused|confused]] for 1 round (2d4 (2d4) rounds on a critical failure). A creature that successfully saves is temporarily immune for 24 hours."
 abilities_bot:
   - name: "Constrict"
     desc: "⬻  2d10+15 (2d10+15) bludgeoning."

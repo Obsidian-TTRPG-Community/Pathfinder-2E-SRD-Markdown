@@ -31,9 +31,9 @@ abilityMods: [-4, 3, 0, -5, 1, -2]
 
 abilities_bot:
   - name: "Attach"
-    desc: "  When a bloodseeker hits a target larger than itself, its barbed legs attach it to that creature. This is similar to grabbing the creature, but the bloodseeker moves with that creature rather than holding it in place. The bloodseeker is flatfooted while attached. If the bloodseeker is killed or pushed away while attached to a creature it has [[drained|drained]] blood from, that creature takes 1 [[persistent damage|persistent bleed damage]]. Escaping the attach or removing the bloodseeker in other ways doesn't cause bleed damage."
+    desc: "  When a bloodseeker hits a target larger than itself, its barbed legs attach it to that creature. This is similar to grabbing the creature, but the bloodseeker moves with that creature rather than holding it in place. The bloodseeker is flatfooted while attached. If the bloodseeker is killed or pushed away while attached to a creature it has [[rules/conditions.md#Drained|drained]] blood from, that creature takes 1 [[rules/conditions.md#Persistent%20Damage|persistent bleed damage]]. Escaping the attach or removing the bloodseeker in other ways doesn't cause bleed damage."
   - name: "Blood Drain"
-    desc: "⬻ __Requirements__ The bloodseeker is attached to a creature.  __Effect__  The bloodseeker uses its proboscis to drain blood from the creature it's attached to. This deals 1d4 (1d4) damage, and the bloodseeker gains temporary Hit Points equal to the damage dealt. A creature that has its blood [[drained|drained]] by a bloodseeker is [[drained|drained 1]] until it receives healing (of any kind or amount)."
+    desc: "⬻ __Requirements__ The bloodseeker is attached to a creature.  __Effect__  The bloodseeker uses its proboscis to drain blood from the creature it's attached to. This deals 1d4 (1d4) damage, and the bloodseeker gains temporary Hit Points equal to the damage dealt. A creature that has its blood [[rules/conditions.md#Drained|drained]] by a bloodseeker is [[rules/conditions.md#Drained|drained 1]] until it receives healing (of any kind or amount)."
 
 speed: 10 feet, fly 30 feet
 

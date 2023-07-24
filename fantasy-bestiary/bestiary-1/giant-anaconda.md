@@ -31,16 +31,16 @@ abilityMods: [7, 3, 6, -4, 3, -2]
 
 abilities_mid:
   - name: "Tighten Coils"
-    desc: "⬲ __Trigger__ A creature [[grabbed|grabbed]] or [[restrained|restrained]] by the ball python attempts to [[Escape]]. __Effect__  The DC of the [[Escape]] check is increased by 2."
+    desc: "⬲ __Trigger__ A creature [[rules/conditions.md#Grabbed|grabbed]] or [[rules/conditions.md#Restrained|restrained]] by the ball python attempts to [[Escape]]. __Effect__  The DC of the [[Escape]] check is increased by 2."
 abilities_bot:
   - name: "Greater Constrict"
     desc: "⬻  1d10+7 (1d10+7) bludgeoning, DC 26."
   - name: "Slither"
-    desc: "⬻  The giant anaconda [[Stride|Strides]], Climbs, or Swims up to half its Speed, pulling any creatures it has [[grabbed|grabbed]] with it."
+    desc: "⬻  The giant anaconda [[Stride|Strides]], Climbs, or Swims up to half its Speed, pulling any creatures it has [[rules/conditions.md#Grabbed|grabbed]] with it."
   - name: "Swallow Whole"
     desc: "⬻ ([[attack]]);  Large, 1d10+7 (1d10+7) bludgeoning, Rupture 21."
   - name: "Wrap in Coils"
-    desc: "⬻ ([[attack]]); __Requirements__ A Large or smaller creature is [[grabbed|grabbed]] or [[restrained|restrained]] in the giant anaconda's jaws.  __Effect__  The giant anaconda moves the creature into its coils, freeing its jaws to make attacks, then uses Greater Constrict against the creature. The giant anaconda's coils can hold as many creatures as will fit in its space."
+    desc: "⬻ ([[attack]]); __Requirements__ A Large or smaller creature is [[rules/conditions.md#Grabbed|grabbed]] or [[rules/conditions.md#Restrained|restrained]] in the giant anaconda's jaws.  __Effect__  The giant anaconda moves the creature into its coils, freeing its jaws to make attacks, then uses Greater Constrict against the creature. The giant anaconda's coils can hold as many creatures as will fit in its space."
 
 speed: 30 feet, climb 30 feet, swim 30 feet
 

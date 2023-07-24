@@ -40,13 +40,13 @@ abilities_mid:
     desc: "⬲ ([[healing]], [[necromancy]], [[primal]]); __Frequency__ once per hour __Trigger__ The forest dragon is targeted with a water spell or effect __Effect__  The forest dragon gains 40 temporary Hit Points."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[evocation]], [[primal]]);  The dragon unleashes a swarm of insects that deals 20d6 (20d6) piercing damage in a 60-foot cone (DC 41 basic Reflex save) before dispersing. A creature that critically fails is [[stunned|stunned 2]] from the insects' venom; this is a [[poison]] effect. The dragon can't use Breath Weapon again for 1d4 (1d4) rounds."
+    desc: "⬺ ([[evocation]], [[primal]]);  The dragon unleashes a swarm of insects that deals 20d6 (20d6) piercing damage in a 60-foot cone (DC 41 basic Reflex save) before dispersing. A creature that critically fails is [[rules/conditions.md#Stunned|stunned 2]] from the insects' venom; this is a [[poison]] effect. The dragon can't use Breath Weapon again for 1d4 (1d4) rounds."
   - name: "Coiling Frenzy"
     desc: "⬺  The dragon makes one claw [[Strike]] and one tail [[Strike]] in either order, each against the same target. If either [[Strike]] hits, the dragon automatically Grabs the target."
   - name: "Draconic Momentum"
     desc: "  The dragon recharges their Breath Weapon whenever they score a critical hit with a [[Strike]]."
   - name: "Draining Blight"
-    desc: "⬺ ([[healing]], [[necromancy]], [[negative]], [[primal]]); __Frequency__ once per day  __Effect__  The dragon draws moisture from the living creatures surrounding them, using the energy to heal their own wounds. Each living creature in a 30-foot emanation takes 9d10 (9d10) negative damage (DC 41 basic Fortitude save). Creatures made entirely of water and plant creatures use the outcome one degree of success worse than they rolled. The dragon regains Hit Points equal to half of the highest damage a single creature takes from this effect. In addition, all non-creature plant life in the area withers and dies, eliminating non-magical undergrowth and any resulting [[terrain|difficult terrain]], cover, and concealment. Water is also consumed in the same way, typically lowering any standing body of water fully within the area by 1 foot."
+    desc: "⬺ ([[healing]], [[necromancy]], [[negative]], [[primal]]); __Frequency__ once per day  __Effect__  The dragon draws moisture from the living creatures surrounding them, using the energy to heal their own wounds. Each living creature in a 30-foot emanation takes 9d10 (9d10) negative damage (DC 41 basic Fortitude save). Creatures made entirely of water and plant creatures use the outcome one degree of success worse than they rolled. The dragon regains Hit Points equal to half of the highest damage a single creature takes from this effect. In addition, all non-creature plant life in the area withers and dies, eliminating non-magical undergrowth and any resulting [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]], cover, and concealment. Water is also consumed in the same way, typically lowering any standing body of water fully within the area by 1 foot."
   - name: "Forest Shape"
     desc: "  When casting tree shape, a forest dragon can become a tree of the same size and age as themself."
   - name: "Greater Constrict"
@@ -54,7 +54,7 @@ abilities_bot:
   - name: "Lignifying Bite"
     desc: " ([[plant]], [[primal]], [[transmutation]]);  When a creature made of flesh is reduced to 0 Hit Points by the dragon's jaws [[Strike]], that creature must attempt a DC 41 Fortitude save. If it fails, it dies, and its flesh, made of earth in a metaphysical sense, turns to wood. The wood is living and might grow into a tree over time, but it can't be used as a body or piece of a body for raise dead or other magic that would return the creature to life."
   - name: "Woodland Stride"
-    desc: "  The forest dragon ignores [[terrain|difficult terrain]] and [[terrain|greater difficult terrain]] from non-magical foliage."
+    desc: "  The forest dragon ignores [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] and [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|greater difficult terrain]] from non-magical foliage."
 
 speed: 40 feet, fly 160 feet; woodland stride;
 
@@ -78,7 +78,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 41, attack +35; __Cantrips (6th)__ [[know direction]]; __4th__ [[entangle]], [[tree shape]] see forest shape, [[speak with plants]] (at will); __6th__ [[tangling creepers]]; __Constant__ __(1st)__ [[pass without trace]];"
+    desc: "DC 41, attack +35; __Cantrips (6th)__ [[know-direction|know direction]]; __4th__ [[entangle]], [[tree-shape|tree shape]] see forest shape, [[speak-with-plants|speak with plants]] (at will); __6th__ [[tangling-creepers|tangling creepers]]; __Constant__ __(1st)__ [[pass-without-trace|pass without trace]];"
 sourcebook: "_Bestiary 3_, page 76."
 ```
 

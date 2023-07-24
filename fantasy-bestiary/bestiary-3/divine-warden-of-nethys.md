@@ -64,7 +64,7 @@ spellcasting:
   - name: "Divine Innate Spells"
     desc: "DC 19; __Cantrips (3rd)__ [[daze]];"
   - name: "Divine Domain Spells"
-    desc: "DC 19, (1 Focus Point); __3rd__ [[cry of destruction]], [[protector's sacrifice]];"
+    desc: "DC 19, (1 Focus Point); __3rd__ [[cry-of-destruction|cry of destruction]], [[protector's sacrifice]];"
 sourcebook: "_Bestiary 3_, page 73."
 ```
 

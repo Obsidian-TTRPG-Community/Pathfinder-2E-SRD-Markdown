@@ -36,7 +36,7 @@ abilities_bot:
   - name: "Venomous Fangs"
     desc: "⬻  Each enemy in the swarm's space takes 2d8 (2d8) piercing damage (DC 21 basic Reflex save) plus viper swarm venom."
   - name: "Viper Swarm Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 21 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d4 (1d4) poison damage (1 round) __Stage 2__ 1d6 (1d6) poison damage and [[clumsy|clumsy 1]] (1 round) __Stage 3__ 2d4 (2d4) poison damage, [[clumsy|clumsy 2]], and [[enfeebled|enfeebled 1]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 21 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d4 (1d4) poison damage (1 round) __Stage 2__ 1d6 (1d6) poison damage and [[rules/conditions.md#Clumsy|clumsy 1]] (1 round) __Stage 3__ 2d4 (2d4) poison damage, [[rules/conditions.md#Clumsy|clumsy 2]], and [[rules/conditions.md#Enfeebled|enfeebled 1]] (1 round)"
 
 speed: 30 feet, climb 30 feet, swim 30 feet
 

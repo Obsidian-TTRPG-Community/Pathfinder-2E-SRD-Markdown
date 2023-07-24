@@ -40,7 +40,7 @@ abilities_top:
     desc: "chain shirt, crossbow (3 bola bolts and 10 bolts), light mace;"
 abilities_bot:
   - name: "Bola Bolt"
-    desc: "  This shot deals no damage, but on a hit, the target must succeed at a DC 16 Reflex save or be knocked [[prone|prone]] and [[immobilized|immobilized]] until it is freed with a successful DC 15 check to [[Escape]]. This check can be attempted either by the target or a creature adjacent to the target."
+    desc: "  This shot deals no damage, but on a hit, the target must succeed at a DC 16 Reflex save or be knocked [[rules/conditions.md#Prone|prone]] and [[rules/conditions.md#Immobilized|immobilized]] until it is freed with a successful DC 15 check to [[Escape]]. This check can be attempted either by the target or a creature adjacent to the target."
 
 speed: 20 feet
 
@@ -58,7 +58,7 @@ attacks:
   - name: Melee
     desc: "⬻ light mace +5 ([[agile]], [[finesse]], [[shove]]); __Damage__ 1d4+1 (1d4+1) bludgeoning"
   - name: Ranged
-    desc: "⬻ crossbow +7 ([[range increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1d8 (1d8) piercing or bola bolt"
+    desc: "⬻ crossbow +7 ([[range-increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1d8 (1d8) piercing or bola bolt"
 
 spellcasting:
   - name: "Occult Innate Spells"

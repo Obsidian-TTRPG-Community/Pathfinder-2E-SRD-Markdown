@@ -33,7 +33,7 @@ abilityMods: [6, 1, 4, 1, 2, 3]
 
 abilities_top:
   - name: "Smoke Vision"
-    desc: "  Smoke doesn't impair a red dragon's vision; it ignores the [[concealed|concealed]] condition from smoke."
+    desc: "  Smoke doesn't impair a red dragon's vision; it ignores the [[rules/conditions.md#Concealed|concealed]] condition from smoke."
 abilities_mid:
   - name: "Frightful Presence"
     desc: " ([[aura]], [[emotion]], [[fear]], [[mental]]);  90 feet, DC 27."
@@ -71,7 +71,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 27; __Cantrips (4th)__ [[detect magic]], [[read aura]];"
+    desc: "DC 27; __Cantrips (4th)__ [[detect-magic|detect magic]], [[read-aura|read aura]];"
 sourcebook: "_Bestiary_, page 112."
 ```
 

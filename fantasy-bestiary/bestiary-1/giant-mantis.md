@@ -35,7 +35,7 @@ abilities_bot:
   - name: "Lunging Strike"
     desc: "⬺  The giant mantis lunges forward, making a leg [[Strike]] with an extended reach of 20 feet."
   - name: "Sudden Strike"
-    desc: "  On the first round of combat, creatures that haven't acted are [[flat-footed|flat-footed]] to the giant mantis."
+    desc: "  On the first round of combat, creatures that haven't acted are [[rules/conditions.md#Flat-Footed|flat-footed]] to the giant mantis."
 
 speed: 25 feet, climb 25 feet, fly 20 feet
 

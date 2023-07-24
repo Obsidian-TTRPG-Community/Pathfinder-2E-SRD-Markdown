@@ -38,13 +38,13 @@ abilities_mid:
     desc: " ([[aura]], [[emotion]], [[fear]], [[mental]]);  100 feet, DC 35."
 abilities_bot:
   - name: "Absorb"
-    desc: "⭓ ([[death]], [[divine]], [[necromancy]]); __Trigger__ The warsworn moves into a [[dying|dying]] creature's space. __Effect__  The warsworn absorbs the [[dying|dying]] creature into itself, instantly killing the creature and healing the warsworn for a number of Hit Points equal to the creature's level. As long as the warsworn still exists, absorbed creatures can't be resurrected except by wish or a similarly powerful effect."
+    desc: "⭓ ([[death]], [[divine]], [[necromancy]]); __Trigger__ The warsworn moves into a [[rules/conditions.md#Dying|dying]] creature's space. __Effect__  The warsworn absorbs the [[rules/conditions.md#Dying|dying]] creature into itself, instantly killing the creature and healing the warsworn for a number of Hit Points equal to the creature's level. As long as the warsworn still exists, absorbed creatures can't be resurrected except by wish or a similarly powerful effect."
   - name: "Animated Weapons"
     desc: " ([[divine]], [[evocation]]);  The warsworn assumes control of unattended weapons within 100 feet, forcing them to levitate around it. The warsworn can telekinetically wield these weapons to make melee [[Strike|Strikes]] with a reach of 100 feet."
   - name: "Energy Drain"
-    desc: " ([[divine]], [[necromancy]]);  When a warsworn hits with a corpse wave [[Strike]] or damages a creature with Trample, the target must succeed at a DC 35 Fortitude save or become [[drained|drained 2]] and [[doomed|doomed 1]]. On a critical success, the target becomes temporarily immune to the warsworn's energy drain for 24 hours."
+    desc: " ([[divine]], [[necromancy]]);  When a warsworn hits with a corpse wave [[Strike]] or damages a creature with Trample, the target must succeed at a DC 35 Fortitude save or become [[rules/conditions.md#Drained|drained 2]] and [[rules/conditions.md#Doomed|doomed 1]]. On a critical success, the target becomes temporarily immune to the warsworn's energy drain for 24 hours."
   - name: "Plummet"
-    desc: "  A creature hit by a warsworn's scrap ball [[Strike]] must attempt a DC 37 Reflex save. On a failure, the target falls [[prone|prone]]; if the target was airborne, it falls up to 120 feet, taking damage from the fall and landing [[prone|prone]] if the descent brings it to the ground. On a critical failure, the target is also held under a pile of scrap (DC 37 to [[Escape]])."
+    desc: "  A creature hit by a warsworn's scrap ball [[Strike]] must attempt a DC 37 Reflex save. On a failure, the target falls [[rules/conditions.md#Prone|prone]]; if the target was airborne, it falls up to 120 feet, taking damage from the fall and landing [[rules/conditions.md#Prone|prone]] if the descent brings it to the ground. On a critical failure, the target is also held under a pile of scrap (DC 37 to [[Escape]])."
   - name: "Trample"
     desc: "⬽  Huge or smaller, corpse wave, DC 37."
 
@@ -66,7 +66,7 @@ attacks:
   - name: Melee
     desc: "⬻ animated weapon +30 ([[agile]], [[magical]], [[reach|reach 100 feet]], [[versatile|versatile b]], [[versatile|versatile p]]); __Damage__ four of the weapon's damage dice +9 of the weapon's damage type"
   - name: Ranged
-    desc: "⬻ scrap ball +28 ([[magical]], [[range increment|range increment 100 feet]]); __Damage__ 4d12+9 (4d12+9) bludgeoning plus plummet"
+    desc: "⬻ scrap ball +28 ([[magical]], [[range-increment|range increment 100 feet]]); __Damage__ 4d12+9 (4d12+9) bludgeoning plus plummet"
 
 sourcebook: "_Bestiary_, page 323."
 ```

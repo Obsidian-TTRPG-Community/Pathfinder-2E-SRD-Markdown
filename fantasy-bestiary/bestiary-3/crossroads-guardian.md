@@ -60,7 +60,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 25; __4th__ [[obscuring mist]] (at will), [[solid fog]]; __7th__ [[plane shift]]; __Constant__ __(5th)__ [[tongues]];"
+    desc: "DC 25; __4th__ [[obscuring-mist|obscuring mist]] (at will), [[solid-fog|solid fog]]; __7th__ [[plane-shift|plane shift]]; __Constant__ __(5th)__ [[tongues]];"
 sourcebook: "_Bestiary 3_, page 59."
 ```
 

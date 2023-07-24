@@ -34,14 +34,14 @@ abilityMods: [8, 5, 7, -3, 6, 7]
 
 abilities_mid:
   - name: "Curse of Drowning"
-    desc: " ([[curse]], [[primal]], [[water]]);  When a creature slays a shoal linnorm, it must succeed at a DC 38 Will save or become cursed. As long as the curse of drowning persists, the character must spend 3 actions when drinking any liquid. Attempting to drink liquid faster causes the victim to begin drowning, immediately running out of air and falling [[unconscious|unconscious]]."
+    desc: " ([[curse]], [[primal]], [[water]]);  When a creature slays a shoal linnorm, it must succeed at a DC 38 Will save or become cursed. As long as the curse of drowning persists, the character must spend 3 actions when drinking any liquid. Attempting to drink liquid faster causes the victim to begin drowning, immediately running out of air and falling [[rules/conditions.md#Unconscious|unconscious]]."
   - name: "Attack of Opportunity"
     desc: "⬲  Tail only."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[evocation]], [[fire]], [[primal]], [[water]]);  The shoal linnorm exhales scalding steam that deals 12d8 (12d8) fire damage in a 60-foot cone (DC 36 basic Reflex save). The steam lingers until the end of the linnorm's next turn; anyone who enters the area or begins their turn in the area takes 6d8 (6d8) fire damage (DC 36 Reflex save negates) During this time, the steam is so thick that it impedes movement as well as sight, turning the area into [[terrain|difficult terrain]]. All creatures in the steam become [[concealed|concealed]], and all creatures outside the steam become [[concealed|concealed]] to creatures within it. The shoal linnorm can't use Breath Weapon again for 1d4 (1d4) rounds."
+    desc: "⬺ ([[evocation]], [[fire]], [[primal]], [[water]]);  The shoal linnorm exhales scalding steam that deals 12d8 (12d8) fire damage in a 60-foot cone (DC 36 basic Reflex save). The steam lingers until the end of the linnorm's next turn; anyone who enters the area or begins their turn in the area takes 6d8 (6d8) fire damage (DC 36 Reflex save negates) During this time, the steam is so thick that it impedes movement as well as sight, turning the area into [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]]. All creatures in the steam become [[rules/conditions.md#Concealed|concealed]], and all creatures outside the steam become [[rules/conditions.md#Concealed|concealed]] to creatures within it. The shoal linnorm can't use Breath Weapon again for 1d4 (1d4) rounds."
   - name: "Shoal Linnorm Venom"
-    desc: " ([[fire]], [[poison]]);  __Saving Throw__ DC 36 Fortitude. __Maximum Duration__ 10 rounds __Stage 1__ 4d6 (4d6) fire damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 6d6 (6d6) fire damage and [[enfeebled|enfeebled 2]] (1 round)"
+    desc: " ([[fire]], [[poison]]);  __Saving Throw__ DC 36 Fortitude. __Maximum Duration__ 10 rounds __Stage 1__ 4d6 (4d6) fire damage and [[rules/conditions.md#Enfeebled|enfeebled 1]] (1 round) __Stage 2__ 6d6 (6d6) fire damage and [[rules/conditions.md#Enfeebled|enfeebled 2]] (1 round)"
 
 speed: 35 feet, fly 100 feet, swim 100 feet; freedom of movement;
 
@@ -61,11 +61,11 @@ attacks:
   - name: Melee
     desc: "⬻ claw +31 ([[agile]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 3d8+16 (3d8+16) slashing"
   - name: Melee
-    desc: "⬻ tail +31 ([[magical]], [[reach|reach 25 feet]]); __Damage__ 4d6+16 (4d6+16) bludgeoning plus [[Improved Grab]]"
+    desc: "⬻ tail +31 ([[magical]], [[reach|reach 25 feet]]); __Damage__ 4d6+16 (4d6+16) bludgeoning plus [[Improved-Grab|Improved Grab]]"
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 36; __Constant__ __(6th)__ [[true seeing]], __(7th)__ [[freedom of movement]];"
+    desc: "DC 36; __Constant__ __(6th)__ [[true-seeing|true seeing]], __(7th)__ [[freedom-of-movement|freedom of movement]];"
 sourcebook: "_Bestiary 2_, page 164."
 ```
 

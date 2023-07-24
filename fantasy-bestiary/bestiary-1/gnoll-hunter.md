@@ -35,7 +35,7 @@ abilities_bot:
   - name: "Pack Attack"
     desc: "  A gnoll hunter deals 1d4 (1d4) extra damage to any creature that's within reach of at least two of the gnoll hunter's allies."
   - name: "Rugged Travel"
-    desc: "  A gnoll ignores the first square of [[terrain|difficult terrain]] it moves into each time it [[Step|Steps]] or [[Stride|Strides]]."
+    desc: "  A gnoll ignores the first square of [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] it moves into each time it [[Step|Steps]] or [[Stride|Strides]]."
 abilities_top:
   - name: Items
     desc: "battle axe, leather armor, shortbow (20 arrows);"
@@ -58,7 +58,7 @@ attacks:
   - name: Melee
     desc: "⬻ jaws +10 ([[agile]]); __Damage__ 1d8+2 (1d8+2) piercing"
   - name: Ranged
-    desc: "⬻ shortbow +10 ([[deadly|deadly 1d10]], [[range increment|range increment 60 feet]]); __Damage__ 1d6 (1d6) piercing"
+    desc: "⬻ shortbow +10 ([[deadly|deadly 1d10]], [[range-increment|range increment 60 feet]]); __Damage__ 1d6 (1d6) piercing"
 
 sourcebook: "_Bestiary_, page 178."
 ```

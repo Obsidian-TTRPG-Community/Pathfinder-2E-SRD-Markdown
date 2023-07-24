@@ -33,15 +33,15 @@ abilityMods: [3, 4, 3, 1, 3, 1]
 
 abilities_mid:
   - name: "Menacing Guardian"
-    desc: " ([[aura]], [[divine]], [[enchantment]]);  30 feet. Enemies that start their turn in the area or enter it must attempt a DC 19 Will save. On a failure, they take a –1 status penalty to attack rolls, spell rolls, and damage rolls against any other target while in the aura for 24 hours or until they damage the archon, whichever comes first. On a critical failure, they can't use [[hostile|hostile]] actions against any other target while in the area for 24 hours or until they damage the archon, whichever comes first. Regardless of the result, a creature is then temporarily immune to further menacing guardian auras for 24 hours."
+    desc: " ([[aura]], [[divine]], [[enchantment]]);  30 feet. Enemies that start their turn in the area or enter it must attempt a DC 19 Will save. On a failure, they take a –1 status penalty to attack rolls, spell rolls, and damage rolls against any other target while in the aura for 24 hours or until they damage the archon, whichever comes first. On a critical failure, they can't use [[rules/conditions.md#Hostile|hostile]] actions against any other target while in the area for 24 hours or until they damage the archon, whichever comes first. Regardless of the result, a creature is then temporarily immune to further menacing guardian auras for 24 hours."
   - name: "Retributive Strike"
-    desc: "⬲  A horned archon can also make a [[Retributive Strike]] with its composite longbow."
+    desc: "⬲  A horned archon can also make a [[Retributive-Strike|Retributive Strike]] with its composite longbow."
 abilities_top:
   - name: Items
     desc: "composite longbow (20 arrows);"
 abilities_bot:
   - name: "Archon's Door"
-    desc: "  Once per day, if an archon sees another creature cast [[dimension door]], it can cast an innate dimension door (heightened to 5th level) within 1 round to attempt to follow that creature to the maximum distance of the archon's dimension door. If the archon's dimension door has enough distance, the archon appears the same distance and direction from the creature as before either used dimension door."
+    desc: "  Once per day, if an archon sees another creature cast [[dimension-door|dimension door]], it can cast an innate dimension door (heightened to 5th level) within 1 round to attempt to follow that creature to the maximum distance of the archon's dimension door. If the archon's dimension door has enough distance, the archon appears the same distance and direction from the creature as before either used dimension door."
   - name: "Touch of Charity"
     desc: "⬻ ([[healing]], [[manipulate]], [[necromancy]]);  A horned archon can touch another creature to take on that creature's wounds, transferring up to 30 of the horned archon's HP to the touched creature. The horned archon can't transfer more HP than it currently has."
 
@@ -61,11 +61,11 @@ attacks:
   - name: Melee
     desc: "⬻ horn +11 ([[magical]]); __Damage__ 2d8+3 (2d8+3) piercing plus 1d6 (1d6) good and Push"
   - name: Ranged
-    desc: "⬻ composite longbow +14 ([[deadly|deadly 1d10]], [[magical]], [[range increment|range increment 100 feet]], [[reload|reload 0]], [[volley]]); __Damage__ 1d8+4 (1d8+4) piercing plus 1d6 (1d6) good"
+    desc: "⬻ composite longbow +14 ([[deadly|deadly 1d10]], [[magical]], [[range-increment|range increment 100 feet]], [[reload|reload 0]], [[volley]]); __Damage__ 1d8+4 (1d8+4) piercing plus 1d6 (1d6) good"
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 21; __Cantrips (2nd)__ [[dancing lights]]; __1st__ [[charm]] (3), [[true strike]] (3); __2nd__ [[animal messenger]] (3); __Constant__ __(5th)__ [[tongues]];"
+    desc: "DC 21; __Cantrips (2nd)__ [[dancing-lights|dancing lights]]; __1st__ [[charm]] (3), [[true-strike|true strike]] (3); __2nd__ [[animal-messenger|animal messenger]] (3); __Constant__ __(5th)__ [[tongues]];"
 sourcebook: "_Bestiary_, page 27."
 ```
 

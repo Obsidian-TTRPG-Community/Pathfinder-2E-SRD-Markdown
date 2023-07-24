@@ -39,9 +39,9 @@ abilities_mid:
     desc: "  Swarms of animals and other unintelligent creatures instinctively leave a wihsaak alone. A wihsaak is immune to the damage from and effects of swarms with an Intelligence of –5."
 abilities_bot:
   - name: "Droning Distraction"
-    desc: "⬻ ([[auditory]], [[divine]], [[evocation]], [[incapacitation]], [[mental]]);  The wihsaak beats its wings rapidly, creating a buzzing drone that numbs creatures' minds. Each creature within 100 feet must attempt a DC 23 Will save. They are then temporarily immune for 1 minute.\n__Success__ The creature is unaffected.\n__Failure__ The creature is [[confused|confused]] and [[stupefied|stupefied 1]] for 1 round.\n__Critical Failure__ The creature is [[confused|confused]] for 1 round and [[stupefied|stupefied 2]] for 1 minute."
+    desc: "⬻ ([[auditory]], [[divine]], [[evocation]], [[incapacitation]], [[mental]]);  The wihsaak beats its wings rapidly, creating a buzzing drone that numbs creatures' minds. Each creature within 100 feet must attempt a DC 23 Will save. They are then temporarily immune for 1 minute.\n__Success__ The creature is unaffected.\n__Failure__ The creature is [[rules/conditions.md#Confused|confused]] and [[rules/conditions.md#Stupefied|stupefied 1]] for 1 round.\n__Critical Failure__ The creature is [[rules/conditions.md#Confused|confused]] for 1 round and [[rules/conditions.md#Stupefied|stupefied 2]] for 1 minute."
   - name: "Skip Between"
-    desc: "⬻ ([[conjuration]], [[divine]], [[teleportation]]);  The sahkil moves from the Material Plane to the Ethereal Plane or vice-versa, with the effects of [[ethereal jaunt]] except that the effect has an unlimited duration and can be Dismissed. A summoned sahkil can't use Skip Between."
+    desc: "⬻ ([[conjuration]], [[divine]], [[teleportation]]);  The sahkil moves from the Material Plane to the Ethereal Plane or vice-versa, with the effects of [[ethereal-jaunt|ethereal jaunt]] except that the effect has an unlimited duration and can be Dismissed. A summoned sahkil can't use Skip Between."
 
 speed: 30 feet, fly 40 feet
 
@@ -61,7 +61,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 23; __Cantrips (3rd)__ [[detect magic]]; __2nd__ [[blur]], [[see invisibility]]; __3rd__ [[fear]], [[vomit swarm APG]]; __4th__ [[suggestion]];"
+    desc: "DC 23; __Cantrips (3rd)__ [[detect-magic|detect magic]]; __2nd__ [[blur]], [[see-invisibility|see invisibility]]; __3rd__ [[fear]], [[vomit-swarm-APG|vomit swarm APG]]; __4th__ [[suggestion]];"
 sourcebook: "_Bestiary 3_, page 220."
 ```
 

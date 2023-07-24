@@ -33,7 +33,7 @@ abilityMods: [6, 6, 5, 0, 3, 0]
 
 abilities_top:
   - name: "Smoke Vision"
-    desc: "  The elemental inferno ignores the [[concealed|concealed]] condition from smoke."
+    desc: "  The elemental inferno ignores the [[rules/conditions.md#Concealed|concealed]] condition from smoke."
 abilities_mid:
   - name: "Explosion"
     desc: " ([[fire]]);  When the elemental inferno dies, it explodes, dealing 7d6 (7d6) fire damage to each creature in a 10-foot emanation (DC 30 basic Reflex save)."
@@ -61,9 +61,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ tendril +24 ([[reach|reach 15 feet]]); __Damage__ 2d10+12 (2d10+12) fire plus 3d8 (3d8) [[persistent damage|persistent fire]]"
+    desc: "⬻ tendril +24 ([[reach|reach 15 feet]]); __Damage__ 2d10+12 (2d10+12) fire plus 3d8 (3d8) [[rules/conditions.md#Persistent%20Damage|persistent fire]]"
   - name: Ranged
-    desc: "⬻ fire mote +24 ([[range increment|range increment 60 feet]]); __Damage__ 2d10+6 (2d10+6) fire"
+    desc: "⬻ fire mote +24 ([[range-increment|range increment 60 feet]]); __Damage__ 2d10+6 (2d10+6) fire"
 
 sourcebook: "_Bestiary_, page 149."
 ```

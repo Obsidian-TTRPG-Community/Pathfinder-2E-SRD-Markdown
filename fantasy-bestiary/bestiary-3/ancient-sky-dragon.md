@@ -34,7 +34,7 @@ abilityMods: [8, 4, 5, 4, 6, 6]
 
 abilities_top:
   - name: "Mist Vision"
-    desc: "  Fog and mist don't impair a sky dragon's vision; they ignore the [[concealed|concealed]] condition from fog and mist."
+    desc: "  Fog and mist don't impair a sky dragon's vision; they ignore the [[rules/conditions.md#Concealed|concealed]] condition from fog and mist."
 abilities_mid:
   - name: "Frightful Presence"
     desc: " ([[aura]], [[emotion]], [[fear]], [[mental]]);  90 feet, DC 38 (page 305)"
@@ -50,9 +50,9 @@ abilities_bot:
   - name: "Greater Constrict"
     desc: "⬻  3d10+11 (3d10+11) bludgeoning, DC 40 (page 305)"
   - name: "Perfected Flight"
-    desc: "  A sky dragon can hover in place without spending an action, and they automatically succeed at all [[Acrobatics]] checks to [[Maneuver in Flight]]."
+    desc: "  A sky dragon can hover in place without spending an action, and they automatically succeed at all [[compendium/skills.md#Acrobatics|Acrobatics]] checks to [[Maneuver-in-Flight|Maneuver in Flight]]."
   - name: "Stunning Electricity"
-    desc: "⬺ ([[divine]], [[electricity]], [[evocation]], [[incapacitation]]);  The dragon rapidly coils, then unleashes crackling lightning that deals 5d12 (5d12) electricity damage in a 60-foot emanation. Each creature in the area must attempt a DC 40 Fortitude save; regardless of the outcome, the creature then becomes temporarily immune for 10 minutes.\n__Critical Success__ The creature is unaffected.\n__Success__ Half damage, and the creature is [[stunned|stunned 1]].\n__Failure__ Full damage, and the creature is [[stunned|stunned]] for 1 round and can't fly for 4 rounds.\n__Critical Failure__ Double damage, and the creature is [[stunned|stunned]] for 2 rounds and can't fly for 1 minute."
+    desc: "⬺ ([[divine]], [[electricity]], [[evocation]], [[incapacitation]]);  The dragon rapidly coils, then unleashes crackling lightning that deals 5d12 (5d12) electricity damage in a 60-foot emanation. Each creature in the area must attempt a DC 40 Fortitude save; regardless of the outcome, the creature then becomes temporarily immune for 10 minutes.\n__Critical Success__ The creature is unaffected.\n__Success__ Half damage, and the creature is [[rules/conditions.md#Stunned|stunned 1]].\n__Failure__ Full damage, and the creature is [[rules/conditions.md#Stunned|stunned]] for 1 round and can't fly for 4 rounds.\n__Critical Failure__ Double damage, and the creature is [[rules/conditions.md#Stunned|stunned]] for 2 rounds and can't fly for 1 minute."
 
 speed: 60 feet, fly 160 feet
 
@@ -76,7 +76,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 42; __1st__ [[feather fall]], [[gust of wind]]; __4th__ [[gaseous form]], [[invisibility]];"
+    desc: "DC 42; __1st__ [[feather-fall|feather fall]], [[gust-of-wind|gust of wind]]; __4th__ [[gaseous-form|gaseous form]], [[invisibility]];"
 sourcebook: "_Bestiary 3_, page 80."
 ```
 

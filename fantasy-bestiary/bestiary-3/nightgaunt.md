@@ -43,9 +43,9 @@ abilities_mid:
     desc: "⬲  Tail only."
 abilities_bot:
   - name: "Clutches"
-    desc: "  A nightgaunt can [[Fly]] at full Speed while it has a Medium or smaller creature [[grabbed|grabbed]] or [[restrained|restrained]] in its claws, carrying that creature along with it."
+    desc: "  A nightgaunt can [[Fly]] at full Speed while it has a Medium or smaller creature [[rules/conditions.md#Grabbed|grabbed]] or [[rules/conditions.md#Restrained|restrained]] in its claws, carrying that creature along with it."
   - name: "Tickle"
-    desc: "  The nightgaunt can use its tail to tickle a foe with horrible efficiency. A creature hit by its tail [[Strike]] must attempt a DC 21 Fortitude save; if the creature is [[grabbed|grabbed]] by the nightgaunt, it uses the outcome one degree of success worse than the result it rolled.\n__Critical Success__ The creature is unaffected and is temporarily immune for 1 minute.\n__Success__ The creature is overcome with laughter and can't perform reactions for 1 round.\n__Failure__ As success, and the creature is [[sickened|sickened 1]].\n__Critical Failure__ As success, and the creature is [[sickened|sickened 2]] and can't speak for 1 round."
+    desc: "  The nightgaunt can use its tail to tickle a foe with horrible efficiency. A creature hit by its tail [[Strike]] must attempt a DC 21 Fortitude save; if the creature is [[rules/conditions.md#Grabbed|grabbed]] by the nightgaunt, it uses the outcome one degree of success worse than the result it rolled.\n__Critical Success__ The creature is unaffected and is temporarily immune for 1 minute.\n__Success__ The creature is overcome with laughter and can't perform reactions for 1 round.\n__Failure__ As success, and the creature is [[rules/conditions.md#Sickened|sickened 1]].\n__Critical Failure__ As success, and the creature is [[rules/conditions.md#Sickened|sickened 2]] and can't speak for 1 round."
 
 speed: 25 feet, fly 30 feet
 

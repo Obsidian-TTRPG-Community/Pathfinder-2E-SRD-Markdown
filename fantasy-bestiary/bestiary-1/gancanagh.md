@@ -41,7 +41,7 @@ abilities_bot:
   - name: "Change Shape"
     desc: "⬻ ([[concentrate]], [[divine]], [[polymorph]], [[transmutation]]);  The gancanagh can take on the appearance of any Small or Medium humanoid. This doesn't change their Speed or their attack and damage bonuses with their [[Strike|Strikes]], but might change the damage type their [[Strike|Strikes]] deal (typically to bludgeoning)."
   - name: "Invigorating Passion"
-    desc: "⬺ ([[divine]], [[emotion]], [[enchantment]], [[mental]]);  The gancanagh embraces or kisses a willing creature, infusing that creature with their invigorating passion. The creature gains a +1 status bonus to attack rolls and 10 temporary Hit Points for 10 minutes. After that time, the target becomes [[fatigued|fatigued]] for 10 minutes unless they succeed at a DC 21 Fortitude save."
+    desc: "⬺ ([[divine]], [[emotion]], [[enchantment]], [[mental]]);  The gancanagh embraces or kisses a willing creature, infusing that creature with their invigorating passion. The creature gains a +1 status bonus to attack rolls and 10 temporary Hit Points for 10 minutes. After that time, the target becomes [[rules/conditions.md#Fatigued|fatigued]] for 10 minutes unless they succeed at a DC 21 Fortitude save."
 
 speed: 30 feet
 
@@ -61,7 +61,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 23; __1st__ [[charm]] (at will); __2nd__ [[heal]], [[mirror image]] (at will); __3rd__ [[heroism]]; __4th__ [[suggestion]]; __Constant__ __(5th)__ [[tongues]];"
+    desc: "DC 23; __1st__ [[charm]] (at will); __2nd__ [[heal]], [[mirror-image|mirror image]] (at will); __3rd__ [[heroism]]; __4th__ [[suggestion]]; __Constant__ __(5th)__ [[tongues]];"
 sourcebook: "_Bestiary_, page 31."
 ```
 

@@ -35,10 +35,10 @@ abilityMods: [0, 3, 0, 1, 1, 4]
 
 abilities_top:
   - name: "Wild Empathy"
-    desc: "  The naiad can use [[Diplomacy]] to [[Make an Impression]] on and make very simple Requests of animals."
+    desc: "  The naiad can use [[compendium/skills.md#Diplomacy|Diplomacy]] to [[Make-an-Impression|Make an Impression]] on and make very simple Requests of animals."
 abilities_mid:
   - name: "Water Dependent"
-    desc: "  A naiad bonds to a spring, pool, pond, or similar-sized water feature. While within 300 feet of her bonded body of water, she can use her innate tidal surge at will. She doesn't recover Hit Points or reduce the [[drained|drained]] condition when resting beyond that range. Unlike most other nymphs, she doesn't suffer penalties from being apart from her bonded body of water. A naiad can perform a 24-hour ritual to bond herself to a new body of water."
+    desc: "  A naiad bonds to a spring, pool, pond, or similar-sized water feature. While within 300 feet of her bonded body of water, she can use her innate tidal surge at will. She doesn't recover Hit Points or reduce the [[rules/conditions.md#Drained|drained]] condition when resting beyond that range. Unlike most other nymphs, she doesn't suffer penalties from being apart from her bonded body of water. A naiad can perform a 24-hour ritual to bond herself to a new body of water."
 abilities_bot:
   - name: "Water Healing"
     desc: "⬺ ([[concentrate]], [[healing]], [[necromancy]], [[primal]]);  While within her bonded body of water (see water dependent above), the naiad heals 1 Hit Point every 10 minutes."
@@ -61,7 +61,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 17; __1st__ [[charm]], [[create water]], [[tidal surge]] Core Rulebook 397; __Constant__ __(2nd)__ [[speak with animals]];"
+    desc: "DC 17; __1st__ [[charm]], [[create-water|create water]], [[tidal-surge|tidal surge]] Core Rulebook 397; __Constant__ __(2nd)__ [[speak-with-animals|speak with animals]];"
 sourcebook: "_Bestiary_, page 246."
 ```
 

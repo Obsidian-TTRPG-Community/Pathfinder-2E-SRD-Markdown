@@ -43,11 +43,11 @@ abilities_top:
     desc: "Blackaxe (page 313);"
 abilities_bot:
   - name: "Defoliation"
-    desc: "⬺ ([[primal]], [[necromancy]], [[plant]]);  Treerazer exudes a pulse of sickly green light in a 30-foot-radius emanation. All plants in the area (including creatures under the effect of his aura of corruption) blacken and wither. Non-creature plants immediately wither and die. Plant creatures take 20d8 (20d8) negative damage with a DC 49 basic Fortitude save. A creature that fails its save is [[doomed|doomed 1]] for 1 minute and [[sickened|sickened 3]]. Treerazer can choose to exclude any number of plants in the area from this effect, and generally does so to preserve twisted and corrupted plants or fungi, or plant creatures that are allied to his cause. Treerazer can't use Defoliation for 1d4 (1d4) rounds."
+    desc: "⬺ ([[primal]], [[necromancy]], [[plant]]);  Treerazer exudes a pulse of sickly green light in a 30-foot-radius emanation. All plants in the area (including creatures under the effect of his aura of corruption) blacken and wither. Non-creature plants immediately wither and die. Plant creatures take 20d8 (20d8) negative damage with a DC 49 basic Fortitude save. A creature that fails its save is [[rules/conditions.md#Doomed|doomed 1]] for 1 minute and [[rules/conditions.md#Sickened|sickened 3]]. Treerazer can choose to exclude any number of plants in the area from this effect, and generally does so to preserve twisted and corrupted plants or fungi, or plant creatures that are allied to his cause. Treerazer can't use Defoliation for 1d4 (1d4) rounds."
   - name: "Dispelling Strike"
     desc: "⭓ ([[abjuration]], [[primal]]); __Frequency__ once per round __Trigger__ Treerazer hits a creature, object, or spell effect with a weapon [[Strike]] or a defoliation attack. __Effect__  Treerazer casts his innate dispel magic, targeting the creature he hit with his [[Strike]] or one spell affecting that creature."
   - name: "Staggering Strike"
-    desc: "  When Treerazer scores a critical hit with a melee attack, the target is [[stunned|stunned 2]]."
+    desc: "  When Treerazer scores a critical hit with a melee attack, the target is [[rules/conditions.md#Stunned|stunned 2]]."
 
 speed: 60 feet, fly 60 feet, swim 40 feet; freedom of movement;
 
@@ -69,7 +69,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 49, attack +43; __Cantrips (9th)__ [[telekinetic projectile]]; __2nd__ [[telekinetic maneuver]] (at will); __3rd__ [[earthbind]] (at will); __5th__ [[Abyssal plague]] (at will); __6th__ [[tangling creepers]] (at will); __9th__ [[Abyssal wrath]] (at will), [[dispel magic]] (at will); __10th__ [[horrid wilting]], [[time stop]], [[wall of thorns]]; __Constant__ __(4th)__ [[freedom of movement]], __(8th)__ [[true seeing]];"
+    desc: "DC 49, attack +43; __Cantrips (9th)__ [[telekinetic-projectile|telekinetic projectile]]; __2nd__ [[telekinetic-maneuver|telekinetic maneuver]] (at will); __3rd__ [[earthbind]] (at will); __5th__ [[Abyssal-plague|Abyssal plague]] (at will); __6th__ [[tangling-creepers|tangling creepers]] (at will); __9th__ [[Abyssal-wrath|Abyssal wrath]] (at will), [[dispel-magic|dispel magic]] (at will); __10th__ [[horrid-wilting|horrid wilting]], [[time-stop|time stop]], [[wall-of-thorns|wall of thorns]]; __Constant__ __(4th)__ [[freedom-of-movement|freedom of movement]], __(8th)__ [[true-seeing|true seeing]];"
 sourcebook: "_Bestiary_, page 312."
 ```
 

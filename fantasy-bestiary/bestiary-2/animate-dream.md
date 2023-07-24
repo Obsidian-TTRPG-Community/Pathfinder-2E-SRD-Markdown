@@ -34,7 +34,7 @@ abilityMods: [-5, 4, 3, 0, 2, 6]
 
 abilities_bot:
   - name: "Endless Nightmare"
-    desc: " ([[curse]], [[emotion]], [[enchantment]], [[fear]], [[mental]], [[occult]]);  __Saving Throw__ DC 26 Fortitude. __Stage 1__ [[fatigued|fatigued]] (1 day) __Stage 2__ [[fatigued|fatigued]] and [[stupefied|stupefied 1]] (1 day) __Stage 3__ The victim falls asleep and can't be awakened as long as they remain at this stage. (1 day)"
+    desc: " ([[curse]], [[emotion]], [[enchantment]], [[fear]], [[mental]], [[occult]]);  __Saving Throw__ DC 26 Fortitude. __Stage 1__ [[rules/conditions.md#Fatigued|fatigued]] (1 day) __Stage 2__ [[rules/conditions.md#Fatigued|fatigued]] and [[rules/conditions.md#Stupefied|stupefied 1]] (1 day) __Stage 3__ The victim falls asleep and can't be awakened as long as they remain at this stage. (1 day)"
 
 speed: fly 40 feet
 
@@ -54,7 +54,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 26; __3rd__ [[fear]]; __4th__ [[confusion]], [[dimension door]] (at will), [[nightmare]], [[phantasmal killer]], [[sleep]];"
+    desc: "DC 26; __3rd__ [[fear]]; __4th__ [[confusion]], [[dimension-door|dimension door]] (at will), [[nightmare]], [[phantasmal-killer|phantasmal killer]], [[sleep]];"
 sourcebook: "_Bestiary 2_, page 18."
 ```
 

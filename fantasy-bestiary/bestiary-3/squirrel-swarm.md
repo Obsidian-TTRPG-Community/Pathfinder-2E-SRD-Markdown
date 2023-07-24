@@ -34,7 +34,7 @@ abilities_bot:
   - name: "Nibble"
     desc: "⬻  Each enemy in the squirrel swarm's space takes 1d6 (1d6) piercing damage (DC 15 basic Reflex save)."
   - name: "Scrabbling Swarm"
-    desc: "⬻  The squirrels clamber over the creatures in their space. Each such creature must succeed at a DC 17 Reflex save or become [[clumsy|clumsy 1]] as long as it remains in the swarm's space."
+    desc: "⬻  The squirrels clamber over the creatures in their space. Each such creature must succeed at a DC 17 Reflex save or become [[rules/conditions.md#Clumsy|clumsy 1]] as long as it remains in the swarm's space."
 
 speed: 25 feet, climb 15 feet
 

@@ -36,7 +36,7 @@ abilities_mid:
   - name: "Divine Grace"
     desc: "⬲ __Trigger__ The angelkin is targeted by a spell that allows a saving throw. __Effect__  The scion gains a +2 circumstance bonus to the saving throw."
   - name: "Glimpse of Redemption"
-    desc: "⬲ __Trigger__ An enemy damages one of the angelkin's allies.  Both the enemy and ally must be within 15 feet of the angelkin. __Effect__ The angelkin causes its foe to hesitate under the weight of its sins as visions of possible redemption play out in its mind's eye. The foe chooses one of two options:<ul class='inner-bullet-list'><li>The ally is completely unharmed by the triggering damage.</li><li>The ally gains resistance 7 to all damage against the triggering damage. After the damaging effect resolves, the enemy becomes [[enfeebled|enfeebled 2]] until the end of its next turn.</li></ul>"
+    desc: "⬲ __Trigger__ An enemy damages one of the angelkin's allies.  Both the enemy and ally must be within 15 feet of the angelkin. __Effect__ The angelkin causes its foe to hesitate under the weight of its sins as visions of possible redemption play out in its mind's eye. The foe chooses one of two options:<ul class='inner-bullet-list'><li>The ally is completely unharmed by the triggering damage.</li><li>The ally gains resistance 7 to all damage against the triggering damage. After the damaging effect resolves, the enemy becomes [[rules/conditions.md#Enfeebled|enfeebled 2]] until the end of its next turn.</li></ul>"
   - name: "Shield Block"
     desc: "⬲ "
 abilities_top:
@@ -59,13 +59,13 @@ attacks:
   - name: Melee
     desc: "⬻ longsword +15 ([[versatile|versatile p]]) __Damage__ 1d8+7 (1d8+7) slashing"
   - name: Ranged
-    desc: "⬻ crossbow +12 ([[range increment|range increment 120 feet]], [[reload|reload 1]]) __Damage__ 1d8+3 (1d8+3) piercing plus Knockdown"
+    desc: "⬻ crossbow +12 ([[range-increment|range increment 120 feet]], [[reload|reload 1]]) __Damage__ 1d8+3 (1d8+3) piercing plus Knockdown"
 
 spellcasting:
   - name: "Divine Innate Spells"
     desc: "DC 20; __Cantrips (3rd)__ [[light]]"
   - name: "Champion Devotion Spells"
-    desc: "DC 20, (1 Focus Point) __3rd__ [[lay on hands]]"
+    desc: "DC 20, (1 Focus Point) __3rd__ [[lay-on-hands|lay on hands]]"
 sourcebook: "_Bestiary_, page 263."
 ```
 

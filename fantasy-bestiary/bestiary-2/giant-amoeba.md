@@ -38,7 +38,7 @@ abilities_bot:
   - name: "Constrict"
     desc: "⬻  1d4 (1d4) bludgeoning plus 1d4 (1d4) acid, DC 17."
   - name: "Envelop"
-    desc: "⬽ __Requirements__ The giant amoeba begins its turn with a target its size or smaller [[grabbed|grabbed]]  __Effect__  The giant amoeba maintains the Grab and extends pseudopods to surround the creature and pull it inside the amoeba's body. This thereafter has the same effect as if the amoeba had Engulfed the creature (DC 17, 1d6 (1d6) acid, [[Escape]] DC 17, Rupture 3)."
+    desc: "⬽ __Requirements__ The giant amoeba begins its turn with a target its size or smaller [[rules/conditions.md#Grabbed|grabbed]]  __Effect__  The giant amoeba maintains the Grab and extends pseudopods to surround the creature and pull it inside the amoeba's body. This thereafter has the same effect as if the amoeba had Engulfed the creature (DC 17, 1d6 (1d6) acid, [[Escape]] DC 17, Rupture 3)."
   - name: "Weak Acid"
     desc: "  An amoeba's acid damages only organic material—not metal, stone, or other inorganic substances."
 

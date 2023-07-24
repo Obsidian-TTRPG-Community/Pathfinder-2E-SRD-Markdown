@@ -34,7 +34,7 @@ abilityMods: [1, 4, 2, 1, 3, -1]
 
 abilities_mid:
   - name: "Vulnerable to Sunlight"
-    desc: "  A fuath becomes [[drained|drained 1]] (or increases its [[drained|drained]] condition by 1) after every consecutive hour they're exposed to sunlight. Being submerged in more than a foot of water prevents the sunlight from harming the fuath."
+    desc: "  A fuath becomes [[rules/conditions.md#Drained|drained 1]] (or increases its [[rules/conditions.md#Drained|drained]] condition by 1) after every consecutive hour they're exposed to sunlight. Being submerged in more than a foot of water prevents the sunlight from harming the fuath."
 abilities_top:
   - name: Items
     desc: "darts (6);"
@@ -58,11 +58,11 @@ attacks:
   - name: Melee
     desc: "⬻ claw +9 ([[agile]], [[finesse]]); __Damage__ 1d6+1 (1d6+1) slashing"
   - name: Ranged
-    desc: "⬻ dart +9 ([[agile]], [[range increment|range increment 20 feet]]); __Damage__ 1d4+1 (1d4+1) piercing"
+    desc: "⬻ dart +9 ([[agile]], [[range-increment|range increment 20 feet]]); __Damage__ 1d4+1 (1d4+1) piercing"
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 17; __Cantrips (1st)__ [[prestidigitation]]; __1st__ [[create water]], [[sleep]];"
+    desc: "DC 17; __Cantrips (1st)__ [[prestidigitation]]; __1st__ [[create-water|create water]], [[sleep]];"
 sourcebook: "_Bestiary 3_, page 121."
 ```
 

@@ -42,7 +42,7 @@ abilities_bot:
   - name: "Freeze Shell"
     desc: "⬻ ([[cold]], [[manipulate]]);  The ledalusca freezes their surface into a translucent, faintly colored ice sculpture matching the mirror image of a Medium creature or object they have seen before. While in this form, instead of a wave, they have the following [[Strike]]: Melee ⬻ ice shell +10, Damage 1d6+4 (1d6+4) physical plus 1d4 (1d4) cold The physical damage is a type that matches the new shape of the ledalusca's frozen shell. The ledalusca can revert to their liquid form by taking this action again."
   - name: "Hold Still"
-    desc: "⬻ ([[concentrate]]);  Until the next time they act, the ledalusca appears to be either an ice sculpture (if under the effects of Freeze Shell) or a pool of still water (if not). They have an automatic result of 28 on [[Deception]] checks and DCs to pass as what they appear to be."
+    desc: "⬻ ([[concentrate]]);  Until the next time they act, the ledalusca appears to be either an ice sculpture (if under the effects of Freeze Shell) or a pool of still water (if not). They have an automatic result of 28 on [[compendium/skills.md#Deception|Deception]] checks and DCs to pass as what they appear to be."
 
 speed: 25 feet, swim 30 feet
 

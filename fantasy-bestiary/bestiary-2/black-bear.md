@@ -31,7 +31,7 @@ abilityMods: [3, 2, 3, -4, 1, -2]
 
 abilities_bot:
   - name: "Mauler"
-    desc: "  The black bear gains +1 circumstance bonus to damage rolls against creatures it has [[grabbed|grabbed]]."
+    desc: "  The black bear gains +1 circumstance bonus to damage rolls against creatures it has [[rules/conditions.md#Grabbed|grabbed]]."
 
 speed: 35 feet
 

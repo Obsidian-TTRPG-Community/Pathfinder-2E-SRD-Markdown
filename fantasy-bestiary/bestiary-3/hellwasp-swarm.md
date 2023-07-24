@@ -39,11 +39,11 @@ abilities_bot:
   - name: "Hellwasp Stings"
     desc: "⬻  Each enemy in the swarm's space takes 4d8 (4d8) piercing damage (DC 26 basic Reflex save). Any creature that fails its saving throw is exposed to hellwasp venom."
   - name: "Hellwasp Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 26 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d8 (1d8) poison damage and [[clumsy|clumsy 2]] (1 round) __Stage 2__ 2d8 (2d8) poison damage and [[clumsy|clumsy 2]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 26 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d8 (1d8) poison damage and [[rules/conditions.md#Clumsy|clumsy 2]] (1 round) __Stage 2__ 2d8 (2d8) poison damage and [[rules/conditions.md#Clumsy|clumsy 2]] (1 round)"
   - name: "Infest Corpse"
     desc: "⬺ ([[manipulate]]);  The hellwasp swarm animates the corpse of a Small, Medium, or Large humanoid that protected by gentle repose or similar magic, crawling into its mouth and other orifices. Its size changes to that of the corpse and it loses its piercing and slashing resistances, fly Speed, and Hellwasp Stings. It gains a fist melee [[Strike]] with a +18 attack modifier that deals 2d8 (2d8) bludgeoning damage plus 2d8 (2d8) piercing damage and hellwasp venom. The hellwasp swarm gains 40 temporary Hit Points when it Infests a Corpse; when these temporary HP are depleted, the corpse falls apart and the swarm Abandons the Corpse automatically."
   - name: "Torturous Buzz"
-    desc: "⬺ ([[auditory]], [[emotion]], [[enchantment]], [[incapacitation]], [[occult]]);  The swarm emits a distracting, cacophonous buzzing. Each creature within 20 feet must attempt a DC 26 Will save.\n__Critical Success__ The creature is unaffected and temporarily immune for 1 minute.\n__Success__ The creature is unaffected.\n__Failure__ The creature is [[confused|confused]] for 1 round.\n__Critical Failure__ The creature is [[confused|confused]] for 1d4 (1d4) rounds."
+    desc: "⬺ ([[auditory]], [[emotion]], [[enchantment]], [[incapacitation]], [[occult]]);  The swarm emits a distracting, cacophonous buzzing. Each creature within 20 feet must attempt a DC 26 Will save.\n__Critical Success__ The creature is unaffected and temporarily immune for 1 minute.\n__Success__ The creature is unaffected.\n__Failure__ The creature is [[rules/conditions.md#Confused|confused]] for 1 round.\n__Critical Failure__ The creature is [[rules/conditions.md#Confused|confused]] for 1d4 (1d4) rounds."
 
 speed: 20 feet; fly 40 feet;
 

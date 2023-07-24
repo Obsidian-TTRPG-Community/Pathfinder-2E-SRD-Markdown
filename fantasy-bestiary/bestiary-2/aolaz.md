@@ -39,7 +39,7 @@ abilities_bot:
   - name: "Trample"
     desc: "⬺  Huge or smaller, foot, DC 40."
   - name: "Ultrasonic Blast"
-    desc: "⬻ ([[arcane]], [[evocation]], [[sonic]]);  The aolaz releases a tremendous blast of sonic energy from its trunk in a 150-foot line, dealing 12d10 (12d10) sonic damage. The frequency of this sound is such that it is completely imperceptible to humanoids, but the damage it wreaks is all too evident. Each creature in the area must attempt a DC 40 Fortitude save. The aolaz can't use Ultrasonic Blast again for 1d4 (1d4) rounds.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature takes half damage and is [[stunned|stunned 1]].\n__Failure__ The creature takes full damage and is [[stunned|stunned 2]].\n__Critical Failure__ The creature takes double damage and is [[stunned|stunned 3]]."
+    desc: "⬻ ([[arcane]], [[evocation]], [[sonic]]);  The aolaz releases a tremendous blast of sonic energy from its trunk in a 150-foot line, dealing 12d10 (12d10) sonic damage. The frequency of this sound is such that it is completely imperceptible to humanoids, but the damage it wreaks is all too evident. Each creature in the area must attempt a DC 40 Fortitude save. The aolaz can't use Ultrasonic Blast again for 1d4 (1d4) rounds.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature takes half damage and is [[rules/conditions.md#Stunned|stunned 1]].\n__Failure__ The creature takes full damage and is [[rules/conditions.md#Stunned|stunned 2]].\n__Critical Failure__ The creature takes double damage and is [[rules/conditions.md#Stunned|stunned 3]]."
 
 speed: 50 feet; air walk, water walk;
 
@@ -61,7 +61,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 40; __Constant__ __(9th)__ [[air walk]], [[water walk]];"
+    desc: "DC 40; __Constant__ __(9th)__ [[air-walk|air walk]], [[water-walk|water walk]];"
 sourcebook: "_Bestiary 2_, page 21."
 ```
 

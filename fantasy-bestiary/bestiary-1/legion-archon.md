@@ -33,15 +33,15 @@ abilityMods: [5, 2, 4, 1, 2, 5]
 
 abilities_mid:
   - name: "Menacing Guardian"
-    desc: " ([[aura]], [[divine]], [[enchantment]]);  30 feet. Enemies that start their turn in the area or enter it must attempt a DC 23 Will save. On a failure, they take a –1 status penalty to attack rolls, spell rolls, and damage rolls against any other target while in the aura for 24 hours or until they damage the archon, whichever comes first. On a critical failure, they can't use [[hostile|hostile]] actions against any other target while in the area for 24 hours or until they damage the archon, whichever comes first. Regardless of the result, a creature is then temporarily immune to further menacing guardian auras for 24 hours."
+    desc: " ([[aura]], [[divine]], [[enchantment]]);  30 feet. Enemies that start their turn in the area or enter it must attempt a DC 23 Will save. On a failure, they take a –1 status penalty to attack rolls, spell rolls, and damage rolls against any other target while in the aura for 24 hours or until they damage the archon, whichever comes first. On a critical failure, they can't use [[rules/conditions.md#Hostile|hostile]] actions against any other target while in the area for 24 hours or until they damage the archon, whichever comes first. Regardless of the result, a creature is then temporarily immune to further menacing guardian auras for 24 hours."
   - name: "Retributive Strike"
-    desc: "⬲  A legion archon can also make a [[Retributive Strike]] by throwing its flame of justice."
+    desc: "⬲  A legion archon can also make a [[Retributive-Strike|Retributive Strike]] by throwing its flame of justice."
 abilities_top:
   - name: Items
     desc: "full plate;"
 abilities_bot:
   - name: "Archon's Door"
-    desc: "  Once per day, if an archon sees another creature cast [[dimension door]], it can cast an innate dimension door (heightened to 5th level) within 1 round to attempt to follow that creature to the maximum distance of the archon's dimension door. If the archon's dimension door has enough distance, the archon appears the same distance and direction from the creature as before either used dimension door."
+    desc: "  Once per day, if an archon sees another creature cast [[dimension-door|dimension door]], it can cast an innate dimension door (heightened to 5th level) within 1 round to attempt to follow that creature to the maximum distance of the archon's dimension door. If the archon's dimension door has enough distance, the archon appears the same distance and direction from the creature as before either used dimension door."
   - name: "Flame of Justice"
     desc: " ([[divine]], [[evocation]]);  A legion archon's spirit of righteousness manifests in its hands as a mighty two-handed sword called the flame."
 
@@ -61,11 +61,11 @@ attacks:
   - name: Melee
     desc: "⬻ flame of justice +18 ([[magical]], [[versatile|versatile p]]); __Damage__ 2d10+5 (2d10+5) slashing plus 1d6 (1d6) fire and 1d6 (1d6) good"
   - name: Ranged
-    desc: "⬻ flame of justice +15 ([[magical]], [[range increment|range increment 30 feet]], [[versatile|versatile p]]); __Damage__ 2d10+5 (2d10+5) slashing plus 1d6 (1d6) fire and 1d6 (1d6) good"
+    desc: "⬻ flame of justice +15 ([[magical]], [[range-increment|range increment 30 feet]], [[versatile|versatile p]]); __Damage__ 2d10+5 (2d10+5) slashing plus 1d6 (1d6) fire and 1d6 (1d6) good"
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 24; __Cantrips (4th)__ [[light]], [[message]]; __1st__ [[true strike]] (3); __4th__ [[dimension door]] (at will); __Constant__ __(5th)__ [[tongues]];"
+    desc: "DC 24; __Cantrips (4th)__ [[light]], [[message]]; __1st__ [[true-strike|true strike]] (3); __4th__ [[dimension-door|dimension door]] (at will); __Constant__ __(5th)__ [[tongues]];"
 sourcebook: "_Bestiary_, page 28."
 ```
 

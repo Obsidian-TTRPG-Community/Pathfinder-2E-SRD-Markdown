@@ -33,9 +33,9 @@ abilities_bot:
   - name: "Favored Prey"
     desc: "  A bulette gains a +1 circumstance bonus to attack and damage rolls with its jaws against a specific type of creature designated as its favorite food. Unless otherwise stated, a bulette's favored prey is halflings. Elves are never a favored prey for bulettes."
   - name: "Leaping Charge"
-    desc: "⬺  The bulette attempts a [[High Jump]] or [[Long Jump]]. If it's adjacent to an enemy at the apex of its [[High Jump]] or at the end of its [[Long Jump]], it can make a claw [[Strike]] against the enemy at that moment. If the bulette jumps at least 5 feet vertically or at least 20 feet horizontally, it can attempt two claw [[Strike|Strikes]] instead of one. The bulette's multiple attack penalty doesn't increase until it has made all the claw [[Strike|Strikes]] that are part of its Leaping Charge."
+    desc: "⬺  The bulette attempts a [[High-Jump|High Jump]] or [[Long-Jump|Long Jump]]. If it's adjacent to an enemy at the apex of its [[High-Jump|High Jump]] or at the end of its [[Long-Jump|Long Jump]], it can make a claw [[Strike]] against the enemy at that moment. If the bulette jumps at least 5 feet vertically or at least 20 feet horizontally, it can attempt two claw [[Strike|Strikes]] instead of one. The bulette's multiple attack penalty doesn't increase until it has made all the claw [[Strike|Strikes]] that are part of its Leaping Charge."
   - name: "Powerful Jumper"
-    desc: "  A bulette jumps 10 feet up on a successful [[High Jump]], or 20 feet up on a critical success."
+    desc: "  A bulette jumps 10 feet up on a successful [[High-Jump|High Jump]], or 20 feet up on a critical success."
 
 speed: 40 feet, burrow 30 feet; powerful jumper;
 

@@ -32,7 +32,7 @@ abilityMods: [1, 2, 0, -5, 2, 0]
 
 abilities_bot:
   - name: "Gnash"
-    desc: "⬻ __Requirements__ The beheaded's previous action was a jaws [[Strike]] that dealt damage to its target  __Effect__  The severed head makes a second jaws [[Strike]] as it violently shakes itself, trying to rip away a mouthful of flesh. On a success, the target takes an additional 1d4 (1d4) slashing damage and 1 [[persistent damage|persistent bleed damage]]."
+    desc: "⬻ __Requirements__ The beheaded's previous action was a jaws [[Strike]] that dealt damage to its target  __Effect__  The severed head makes a second jaws [[Strike]] as it violently shakes itself, trying to rip away a mouthful of flesh. On a success, the target takes an additional 1d4 (1d4) slashing damage and 1 [[rules/conditions.md#Persistent%20Damage|persistent bleed damage]]."
 
 speed: 15 feet, fly 25 feet
 

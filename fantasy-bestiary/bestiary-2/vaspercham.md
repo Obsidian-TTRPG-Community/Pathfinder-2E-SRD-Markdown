@@ -36,7 +36,7 @@ abilities_mid:
     desc: " ([[arcane]], [[aura]], [[transmutation]]);  30 feet. A vaspercham's shell distorts nearby magic. Any creature in the aura who [[Cast a Spell|Casts a Spell]] must attempt a DC 37 Will save.\n__Critical Success__ The spell is unaffected and the caster is temporarily immune to the magic-warping aura for 1 minute.\n__Success__ The spell is unaffected, but if the spell allows a saving throw, the vaspercham gains a +1 circumstance bonus to save against it.\n__Failure__ If the spell has a target and there are one or more viable targets within its range, the spell's target changes, determined randomly by the GM. If there is no other possible target within range or the spell has no target, the spell is disrupted.\n__Critical Failure__ The caster instead Casts another Spell, choosing randomly from their spell repertoire, prepared spells, or available focus spells (as appropriate) and selecting any targets at random."
 abilities_bot:
   - name: "Hallucinatory Brine"
-    desc: " ([[arcane]], [[illusion]], [[mental]]);  A creature hit by the vaspercham's [[Strike|Strikes]] or Mindwarping Tide must attempt a DC 38 Fortitude save. On a failure, the creature is overwhelmed with phantasmal visions, becoming [[confused|confused]] for 1 round (1 minute on a critical failure)."
+    desc: " ([[arcane]], [[illusion]], [[mental]]);  A creature hit by the vaspercham's [[Strike|Strikes]] or Mindwarping Tide must attempt a DC 38 Fortitude save. On a failure, the creature is overwhelmed with phantasmal visions, becoming [[rules/conditions.md#Confused|confused]] for 1 round (1 minute on a critical failure)."
   - name: "Mindwarping Tide"
     desc: "⬻ ([[concentrate]]);  The vaspercham releases an effusion of noxious water from its shell. Creatures within a 15-foot emanation must save against the vaspercham's hallucinatory brine."
   - name: "Whipping Tentacles"
@@ -58,11 +58,11 @@ attacks:
   - name: Melee
     desc: "⬻ tentacle +33 ([[agile]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 3d10+16 (3d10+16) bludgeoning plus hallucinatory brine"
   - name: Ranged
-    desc: "⬻ water blast +33 ([[brutal]], [[magical]], [[range increment|range increment 100 feet]], [[water]]); __Damage__ 2d8+16 (2d8+16) bludgeoning plus hallucinatory brine"
+    desc: "⬻ water blast +33 ([[brutal]], [[magical]], [[range-increment|range increment 100 feet]], [[water]]); __Damage__ 2d8+16 (2d8+16) bludgeoning plus hallucinatory brine"
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 41; __5th__ [[control water]] (at will); __6th__ [[spellwrack]] (3); __7th__ [[regenerate]]; __8th__ [[lightning bolt]]; __9th__ [[cone of cold]], [[spell immunity]]; __Constant__ __(7th)__ [[see invisibility]];"
+    desc: "DC 41; __5th__ [[control-water|control water]] (at will); __6th__ [[spellwrack]] (3); __7th__ [[regenerate]]; __8th__ [[lightning-bolt|lightning bolt]]; __9th__ [[cone-of-cold|cone of cold]], [[spell-immunity|spell immunity]]; __Constant__ __(7th)__ [[see-invisibility|see invisibility]];"
 sourcebook: "_Bestiary 2_, page 279."
 ```
 

@@ -40,9 +40,9 @@ abilities_bot:
   - name: "Proficient Poisoner"
     desc: "  The vishkanya infiltrator doesn't lose the poison on a weapon due to a critically failed [[Strike]]."
   - name: "Sneak Attack"
-    desc: "  The vishkanya deals 1d6 (1d6) extra precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The vishkanya deals 1d6 (1d6) extra precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
   - name: "Vishkanyan Venom"
-    desc: " ([[injury]], [[poison]]);  __Saving Throw__ DC 20 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d4 (1d4) poison damage (1 round) __Stage 2__ 1d4 (1d4) poison damage and [[flat-footed|flat-footed]] (1 round) __Stage 3__ 1d4 (1d4) poison damage, [[flat-footed|flat-footed]], and a –5-foot penalty to Speed (1 round)"
+    desc: " ([[injury]], [[poison]]);  __Saving Throw__ DC 20 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d4 (1d4) poison damage (1 round) __Stage 2__ 1d4 (1d4) poison damage and [[rules/conditions.md#Flat-Footed|flat-footed]] (1 round) __Stage 3__ 1d4 (1d4) poison damage, [[rules/conditions.md#Flat-Footed|flat-footed]], and a –5-foot penalty to Speed (1 round)"
 abilities_top:
   - name: Items
     desc: "disguise kit, kukri, leather armor, shuriken (10), thieves' tools;"

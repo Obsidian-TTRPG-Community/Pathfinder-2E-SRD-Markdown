@@ -35,7 +35,7 @@ abilityMods: [1, 3, 0, 2, 2, 1]
 
 abilities_bot:
   - name: "Bond with Mortal"
-    desc: "⬺ __Frequency__ once per day  __Effect__  The spirit guide forms a bond with a mortal creature. While the bond exists, the spirit guide increases their current and maximum Hit Points by 10, gains a +2 status bonus to their attack and damage rolls, and can communicate telepathically with the bonded mortal as long as the two beings are on the same plane. The spirit guide can only be bonded with one mortal at a time, and they can take this action again to end the bond or to form a new bond (which also ends the old bond). The bond also ends if the spirit guide or the mortal dies. This bond strengthens the spirit guide's connection to the [[Material Plane]]. While bonded, the spirit guide loses the [[incorporeal]] and [[spirit]] traits, loses their immunities and resistances, and changes their [[Strike|Strikes]] to deal the appropriate physical damage (typically piercing or slashing) instead of force damage."
+    desc: "⬺ __Frequency__ once per day  __Effect__  The spirit guide forms a bond with a mortal creature. While the bond exists, the spirit guide increases their current and maximum Hit Points by 10, gains a +2 status bonus to their attack and damage rolls, and can communicate telepathically with the bonded mortal as long as the two beings are on the same plane. The spirit guide can only be bonded with one mortal at a time, and they can take this action again to end the bond or to form a new bond (which also ends the old bond). The bond also ends if the spirit guide or the mortal dies. This bond strengthens the spirit guide's connection to the [[Material-Plane|Material Plane]]. While bonded, the spirit guide loses the [[incorporeal]] and [[spirit]] traits, loses their immunities and resistances, and changes their [[Strike|Strikes]] to deal the appropriate physical damage (typically piercing or slashing) instead of force damage."
   - name: "Bonded Strike"
     desc: "⬺ __Requirements__ The spirit guide is currently Bonded with a Mortal  __Effect__  The spirit guide makes a jaws [[Strike]]. If this attack hits, the bonded mortal can spend their reaction to [[Strike]] the same target."
 
@@ -59,7 +59,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 17; __Cantrips (1st)__ [[guidance]], [[read aura]], [[stabilize]]; __1st__ [[detect poison]], [[purify food and drink]]; __3rd__ [[wanderer's guide]]; __Constant__ __(5th)__ [[tongues]];"
+    desc: "DC 17; __Cantrips (1st)__ [[guidance]], [[read-aura|read aura]], [[stabilize]]; __1st__ [[detect-poison|detect poison]], [[purify-food-and-drink|purify food and drink]]; __3rd__ [[wanderer's guide]]; __Constant__ __(5th)__ [[tongues]];"
 sourcebook: "_Bestiary 3_, page 252."
 ```
 

@@ -57,13 +57,13 @@ attacks:
   - name: Melee
     desc: "⬻ dagger +14 ([[agile]], [[finesse]], [[versatile|versatile s]]); __Damage__ 1d4+6 (1d4+6) piercing"
   - name: Ranged
-    desc: "⬻ shortbow +14 ([[deadly|deadly 1d10]], [[range increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6+3 (1d6+3) piercing"
+    desc: "⬻ shortbow +14 ([[deadly|deadly 1d10]], [[range-increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6+3 (1d6+3) piercing"
   - name: Ranged
     desc: "⬻ dagger +14 ([[agile]], [[thrown|thrown 10 feet]], [[versatile|versatile s]]); __Damage__ 1d4+6 (1d4+6) piercing"
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 21; __Cantrips (2nd)__ [[dancing lights]], [[ghost sound]], [[inspire competence]], [[inspire courage]], [[triple time]]; __4th__ [[charm]], [[fear]], [[sleep]], [[suggestion]];"
+    desc: "DC 21; __Cantrips (2nd)__ [[dancing-lights|dancing lights]], [[ghost-sound|ghost sound]], [[inspire-competence|inspire competence]], [[inspire-courage|inspire courage]], [[triple-time|triple time]]; __4th__ [[charm]], [[fear]], [[sleep]], [[suggestion]];"
 sourcebook: "_Bestiary_, page 284."
 ```
 

@@ -33,7 +33,7 @@ abilityMods: [5, 6, 5, 3, 5, 4]
 
 abilities_bot:
   - name: "Guardian Naga Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 29 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 3d6 (3d6) poison (1 round) __Stage 2__ 3d6 (3d6) poison and [[drained|drained 1]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 29 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 3d6 (3d6) poison (1 round) __Stage 2__ 3d6 (3d6) poison and [[rules/conditions.md#Drained|drained 1]] (1 round)"
 
 speed: 25 feet
 
@@ -51,11 +51,11 @@ attacks:
   - name: Melee
     desc: "⬻ fangs +22 ([[agile]], [[finesse]]); __Damage__ 2d8+8 (2d8+8) piercing plus guardian naga venom"
   - name: Ranged
-    desc: "⬻ spit +22 ([[agile]], [[poison]], [[range increment|range increment 30 feet]]); __Damage__ guardian naga venom"
+    desc: "⬻ spit +22 ([[agile]], [[poison]], [[range-increment|range increment 30 feet]]); __Damage__ guardian naga venom"
 
 spellcasting:
   - name: "Divine Spontaneous Spells"
-    desc: "DC 29, attack +21; __Cantrips (5th)__ [[daze]], [[detect magic]], [[light]], [[mage hand]], [[ray of frost]], [[read aura]], [[stabilize]]; __1st__ (4 slots) [[bless]], [[heal]], [[protection]], [[spirit link]]; __2nd__ (4 slots) [[calm emotions]], [[restoration]], [[see invisibility]], [[sound burst]]; __3rd__ (4 slots) [[dispel magic]], [[neutralize poison]], [[remove disease]], [[searing light]]; __4th__ (4 slots) [[air walk]], [[freedom of movement]], [[remove curse]], [[restoration]]; __5th__ (4 slots) [[breath of life]], [[death ward]], [[flame strike]], [[heal]];"
+    desc: "DC 29, attack +21; __Cantrips (5th)__ [[daze]], [[detect-magic|detect magic]], [[light]], [[mage-hand|mage hand]], [[ray-of-frost|ray of frost]], [[read-aura|read aura]], [[stabilize]]; __1st__ (4 slots) [[bless]], [[heal]], [[protection]], [[spirit-link|spirit link]]; __2nd__ (4 slots) [[calm-emotions|calm emotions]], [[restoration]], [[see-invisibility|see invisibility]], [[sound-burst|sound burst]]; __3rd__ (4 slots) [[dispel-magic|dispel magic]], [[neutralize-poison|neutralize poison]], [[remove-disease|remove disease]], [[searing-light|searing light]]; __4th__ (4 slots) [[air-walk|air walk]], [[freedom-of-movement|freedom of movement]], [[remove-curse|remove curse]], [[restoration]]; __5th__ (4 slots) [[breath-of-life|breath of life]], [[death-ward|death ward]], [[flame-strike|flame strike]], [[heal]];"
 sourcebook: "_Bestiary_, page 243."
 ```
 

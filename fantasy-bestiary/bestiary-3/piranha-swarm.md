@@ -36,7 +36,7 @@ abilities_top:
     desc: "  The piranha swarm can smell blood in the water from up to 1 mile away."
 abilities_bot:
   - name: "Feeding Frenzy"
-    desc: "⬻  Each enemy in the swarm's space takes 2d6 (2d6) piercing damage (DC 20 basic Reflex save). A creature that fails the save also takes 1d6 (1d6) [[persistent damage|persistent bleed damage]] and takes a –2 circumstance penalty to their Reflex saves against Feeding Frenzy while this damage continues, as the piranhas' frenzy increases in intensity when they smell blood."
+    desc: "⬻  Each enemy in the swarm's space takes 2d6 (2d6) piercing damage (DC 20 basic Reflex save). A creature that fails the save also takes 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed damage]] and takes a –2 circumstance penalty to their Reflex saves against Feeding Frenzy while this damage continues, as the piranhas' frenzy increases in intensity when they smell blood."
 
 speed: swim 30 feet
 

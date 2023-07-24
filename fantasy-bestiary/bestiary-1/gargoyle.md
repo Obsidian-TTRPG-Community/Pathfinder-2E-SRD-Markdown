@@ -36,7 +36,7 @@ abilities_mid:
     desc: "⬲ ([[attack]]); __Trigger__ The gargoyle is Flying, and a creature moves into an adjacent square below it. __Effect__  The gargoyle makes a claw [[Strike]] against the triggering creature."
 abilities_bot:
   - name: "Statue"
-    desc: "⬻ ([[concentrate]]);  Until the next time it acts, the gargoyle appears to be a statue. It has an automatic result of 32 on [[Deception]] checks and DCs to pass as a statue."
+    desc: "⬻ ([[concentrate]]);  Until the next time it acts, the gargoyle appears to be a statue. It has an automatic result of 32 on [[compendium/skills.md#Deception|Deception]] checks and DCs to pass as a statue."
 
 speed: 25 feet, fly 40 feet
 

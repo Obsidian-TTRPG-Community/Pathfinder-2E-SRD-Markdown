@@ -41,9 +41,9 @@ abilities_bot:
   - name: "Constrict"
     desc: "⬻  2d10+6 (2d10+6) bludgeoning, DC 30."
   - name: "Gory Rend"
-    desc: "⬺  The piscodaemon makes two claw [[Strike|Strikes]] against the same creature. If both hit, the creature takes 2d10 (2d10) [[persistent damage|persistent bleed damage]] and is exposed to piscovenom."
+    desc: "⬺  The piscodaemon makes two claw [[Strike|Strikes]] against the same creature. If both hit, the creature takes 2d10 (2d10) [[rules/conditions.md#Persistent%20Damage|persistent bleed damage]] and is exposed to piscovenom."
   - name: "Piscovenom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 30 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d8 (1d8) poison and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 2d8 (2d8) poison and [[enfeebled|enfeebled 1]] (1 round) __Stage 3__ 4d8 (4d8) poison and [[enfeebled|enfeebled 2]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 30 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d8 (1d8) poison and [[rules/conditions.md#Enfeebled|enfeebled 1]] (1 round) __Stage 2__ 2d8 (2d8) poison and [[rules/conditions.md#Enfeebled|enfeebled 1]] (1 round) __Stage 3__ 4d8 (4d8) poison and [[rules/conditions.md#Enfeebled|enfeebled 2]] (1 round)"
 
 speed: 25 feet, swim 40 feet
 
@@ -65,7 +65,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 29; __1st__ [[detect alignment]] at will; good only, [[detect poison]] (at will); __4th__ [[dimension door]] (at will), [[stinking cloud]] (3); __5th__ [[dimension door]]; __Constant__ __(2nd)__ [[see invisibility]];"
+    desc: "DC 29; __1st__ [[detect-alignment|detect alignment]] at will; good only, [[detect-poison|detect poison]] (at will); __4th__ [[dimension-door|dimension door]] (at will), [[stinking-cloud|stinking cloud]] (3); __5th__ [[dimension-door|dimension door]]; __Constant__ __(2nd)__ [[see-invisibility|see invisibility]];"
 sourcebook: "_Bestiary 2_, page 58."
 ```
 

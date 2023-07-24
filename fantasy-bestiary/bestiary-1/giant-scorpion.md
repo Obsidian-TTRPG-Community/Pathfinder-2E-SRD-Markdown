@@ -36,7 +36,7 @@ abilities_bot:
   - name: "Constrict"
     desc: "⬻  1d6+4 (1d6+4) bludgeoning, DC 20."
   - name: "Giant Scorpion Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 18 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d10 (1d10) poison damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 2d10 (2d10) poison damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 3__ 2d10 (2d10) poison damage and [[enfeebled|enfeebled 2]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 18 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d10 (1d10) poison damage and [[rules/conditions.md#Enfeebled|enfeebled 1]] (1 round) __Stage 2__ 2d10 (2d10) poison damage and [[rules/conditions.md#Enfeebled|enfeebled 1]] (1 round) __Stage 3__ 2d10 (2d10) poison damage and [[rules/conditions.md#Enfeebled|enfeebled 2]] (1 round)"
 
 speed: 40 feet
 

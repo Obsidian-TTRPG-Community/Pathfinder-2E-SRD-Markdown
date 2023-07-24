@@ -38,7 +38,7 @@ abilities_mid:
     desc: "⬲ __Trigger__ The swarm is targeted with a spell __Effect__  The swarm casts dispel magic to counteract the triggering spell. If it successfully counteracts the spell, it gains temporary Hit Points equal to twice the level of the counteracted spell that last for 1 minute."
 abilities_bot:
   - name: "Siphon Magic"
-    desc: "⬺ ([[arcane]], [[illusion]], [[mental]]);  The sorcerous skull swarm saps magic from nearby creatures. Any creature with the ability to cast spells (including innate spells) in the swarm's space takes 15d6 (15d6) mental damage (DC 34 basic Will save); on a failure, the creature is also [[stupefied|stupefied 2]] ([[stupefied|stupefied 3]] on a critical failure)."
+    desc: "⬺ ([[arcane]], [[illusion]], [[mental]]);  The sorcerous skull swarm saps magic from nearby creatures. Any creature with the ability to cast spells (including innate spells) in the swarm's space takes 15d6 (15d6) mental damage (DC 34 basic Will save); on a failure, the creature is also [[rules/conditions.md#Stupefied|stupefied 2]] ([[rules/conditions.md#Stupefied|stupefied 3]] on a critical failure)."
   - name: "Swarming Gnaw"
     desc: "⬻  Each enemy in the swarm's space takes 5d8 (5d8) piercing damage (DC 34 basic Reflex save)."
 
@@ -51,14 +51,14 @@ armorclass:
 hp: 190
 health:
   - name: HP
-    desc: "190; [[negative healing]];"
+    desc: "190; [[negative-healing-b2|negative healing]];"
 
 
 attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 36, attack +26; __Cantrips (7th)__ [[detect magic]], [[mage hand]], [[telekinetic projectile]]; __7th__ [[dispel magic]] (at will), [[spell turning]]; __Constant__ __(7th)__ [[true seeing]];"
+    desc: "DC 36, attack +26; __Cantrips (7th)__ [[detect-magic|detect magic]], [[mage-hand|mage hand]], [[telekinetic-projectile|telekinetic projectile]]; __7th__ [[dispel-magic|dispel magic]] (at will), [[spell-turning|spell turning]]; __Constant__ __(7th)__ [[true-seeing|true seeing]];"
 sourcebook: "_Bestiary 3_, page 245."
 ```
 

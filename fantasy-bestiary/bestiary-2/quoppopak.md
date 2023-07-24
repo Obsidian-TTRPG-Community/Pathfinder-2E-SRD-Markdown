@@ -36,7 +36,7 @@ abilities_mid:
     desc: "⬲  Tentacle only."
 abilities_bot:
   - name: "Flooding Thrust"
-    desc: "⬺ __Requirements__ The quoppopak's ventral tube is in water  __Effect__  The quoppopak uses Tentacle Stab against a creature within reach; if either of these [[Strike|Strikes]] hits, the creature must attempt a DC 30 Reflex save. On a failed save, the quoppopak shoots water through its tentacles into the creature, dealing 2d6+5 (2d6+5) bludgeoning damage and making the creature [[sickened|sickened 1]] as its internal organs fill with water (double damage and [[sickened|sickened 2]] on a critical failure)."
+    desc: "⬺ __Requirements__ The quoppopak's ventral tube is in water  __Effect__  The quoppopak uses Tentacle Stab against a creature within reach; if either of these [[Strike|Strikes]] hits, the creature must attempt a DC 30 Reflex save. On a failed save, the quoppopak shoots water through its tentacles into the creature, dealing 2d6+5 (2d6+5) bludgeoning damage and making the creature [[rules/conditions.md#Sickened|sickened 1]] as its internal organs fill with water (double damage and [[rules/conditions.md#Sickened|sickened 2]] on a critical failure)."
   - name: "Tentacle Stab"
     desc: "⬻ __Frequency__ once per round  __Effect__  The quoppopak makes two tentacle [[Strike|Strikes]] against the same creature. These [[Strike|Strikes]] deal piercing damage instead of bludgeoning, and the quoppopak can't Grab with them. Its multiple attack penalty doesn't increase until after both attacks."
   - name: "Water Glide"
@@ -60,7 +60,7 @@ attacks:
   - name: Melee
     desc: "⬻ tentacle +24 ([[agile]], [[reach|reach 15 feet]]); __Damage__ 2d8+13 (2d8+13) bludgeoning plus Grab"
   - name: Melee
-    desc: "⬻ ventral tube +24 ([[reach|reach 10 feet]]); __Damage__ 2d6+13 (2d6+13) slashing plus 1d6 (1d6) [[persistent damage|persistent bleed]]"
+    desc: "⬻ ventral tube +24 ([[reach|reach 10 feet]]); __Damage__ 2d6+13 (2d6+13) slashing plus 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed]]"
   - name: Ranged
     desc: "⬻ water jet +23 ([[range|range 100 feet]], [[water]]); __Damage__ 2d6+13 (2d6+13) bludgeoning plus"
 

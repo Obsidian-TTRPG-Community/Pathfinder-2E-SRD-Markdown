@@ -33,7 +33,7 @@ abilities_bot:
   - name: "Hair Barrage"
     desc: "⬺  The tarantula flicks its legs, flinging spiky hairs in a 15-foot cone. This deals 4d6 (4d6) piercing damage with a DC 25 basic Reflex save."
   - name: "Giant Tarantula Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 23 Fortitude. __Maximum Duration__ 8 rounds __Stage 1__ 1d6 (1d6) poison (1 round) __Stage 2__ 1d6 (1d6) poison, [[flat-footed|flat-footed]], and [[clumsy|clumsy 1]] (1 round) __Stage 3__ 1d6 (1d6) poison, [[flat-footed|flat-footed]], and [[clumsy|clumsy 2]] (null) __Stage 4__ 1d6 (1d6) poison and [[paralyzed|paralyzed]]. (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 23 Fortitude. __Maximum Duration__ 8 rounds __Stage 1__ 1d6 (1d6) poison (1 round) __Stage 2__ 1d6 (1d6) poison, [[rules/conditions.md#Flat-Footed|flat-footed]], and [[rules/conditions.md#Clumsy|clumsy 1]] (1 round) __Stage 3__ 1d6 (1d6) poison, [[rules/conditions.md#Flat-Footed|flat-footed]], and [[rules/conditions.md#Clumsy|clumsy 2]] (null) __Stage 4__ 1d6 (1d6) poison and [[rules/conditions.md#Paralyzed|paralyzed]]. (1 round)"
 
 speed: 30 feet, climb 30 feet
 

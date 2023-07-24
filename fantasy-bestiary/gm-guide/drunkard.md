@@ -33,7 +33,7 @@ abilityMods: [3, 2, 4, -1, 0, 2]
 
 abilities_bot:
   - name: "Drunken Rage"
-    desc: "⬻ ([[concentrate]], [[emotion]], [[mental]]); __Requirements__ The drunkard is drunk, and isn't [[fatigued|fatigued]] or raging  __Effect__  Something sets the drunkard off, causing them to fly into a drunken rage. They gain 6 temporary Hit Points that last until the drunken rage ends. While raging, they deal 4 additional damage with melee attacks and take a –1 penalty to AC. The drunkard can't use concentrate actions except [[Seek]] and [[rage]] actions. The rage lasts for 1 minute or until the drunkard falls [[unconscious|unconscious]] or sobers up. The drunkard can't voluntarily stop the Drunken Rage. Once the rage ends, the drunkard can't [[Rage]] again for 1 minute."
+    desc: "⬻ ([[concentrate]], [[emotion]], [[mental]]); __Requirements__ The drunkard is drunk, and isn't [[rules/conditions.md#Fatigued|fatigued]] or raging  __Effect__  Something sets the drunkard off, causing them to fly into a drunken rage. They gain 6 temporary Hit Points that last until the drunken rage ends. While raging, they deal 4 additional damage with melee attacks and take a –1 penalty to AC. The drunkard can't use concentrate actions except [[Seek]] and [[rage]] actions. The rage lasts for 1 minute or until the drunkard falls [[rules/conditions.md#Unconscious|unconscious]] or sobers up. The drunkard can't voluntarily stop the Drunken Rage. Once the rage ends, the drunkard can't [[Rage]] again for 1 minute."
 abilities_top:
   - name: Items
     desc: "drunkard's outfit (functions as padded armor), pewter mug;"

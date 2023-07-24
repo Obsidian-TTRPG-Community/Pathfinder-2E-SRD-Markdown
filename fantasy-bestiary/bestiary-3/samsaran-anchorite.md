@@ -39,7 +39,7 @@ abilities_top:
     desc: "spear, sling (10 bullets);"
 abilities_mid:
   - name: "All This Has Happened Before"
-    desc: "⬲ ([[divination]], [[occult]]); __Frequency__ once per day  __Effect__  Trigger The samsaran anchorite is about to roll initiative; The anchorite experiences a flash of recognition from a previous existence, gaining a +4 circumstance bonus to the triggering roll. If this causes the anchorite to be the first creature to act, they also become [[quickened|quickened]] for 1 round, but they can use the extra action only to Recall Knowledge or Step."
+    desc: "⬲ ([[divination]], [[occult]]); __Frequency__ once per day  __Effect__  Trigger The samsaran anchorite is about to roll initiative; The anchorite experiences a flash of recognition from a previous existence, gaining a +4 circumstance bonus to the triggering roll. If this causes the anchorite to be the first creature to act, they also become [[rules/conditions.md#Quickened|quickened]] for 1 round, but they can use the extra action only to Recall Knowledge or Step."
   - name: "All This Will Happen Again"
     desc: "⬲ ([[fortune]], [[emotion]], [[mental]]); __Frequency__ once per day __Trigger__ The samsaran anchorite fails or critically fails a Will save against an [[emotion]] effect __Effect__  Even in the face of overwhelming tribulation, the anchorite finds solace in the notion that all things are merely part of a never-ending cycle. They reroll the saving throw with a +1 status bonus; they must use the second result."
 
@@ -59,7 +59,7 @@ attacks:
   - name: Melee
     desc: "⬻ spear +5 __Damage__ 1d6+2 (1d6+2) piercing"
   - name: Ranged
-    desc: "⬻ sling +7 ([[range increment|range increment 50 feet]], [[reload|reload 1]]); __Damage__ 1d4+2 (1d4+2) bludgeoning"
+    desc: "⬻ sling +7 ([[range-increment|range increment 50 feet]], [[reload|reload 1]]); __Damage__ 1d4+2 (1d4+2) bludgeoning"
 
 spellcasting:
   - name: "Divine Prepared Spells"

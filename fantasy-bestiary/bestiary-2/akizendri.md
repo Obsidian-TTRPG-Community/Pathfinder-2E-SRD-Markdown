@@ -36,16 +36,16 @@ abilities_top:
     desc: " ([[divination]], [[divine]], [[prediction]]);  An akizendri can anticipate the most likely location of a creature through their supernatural insight into the forces of chaotic probabilities and chance. This grants the akizendri the ability to sense creatures within the listed range. A creature under the effects of nondetection or that is otherwise shielded from divinations and predictions cannot be noticed via entropy sense."
 abilities_mid:
   - name: "Protean Anatomy"
-    desc: " ([[divine]], [[transmutation]]);  An akizendri's vital organs shift and change shape and position constantly. Immediately after the akizendri takes acid, electricity, or sonic damage, it gains the listed amount of resistance to that damage type. This lasts for 1 hour or until the next time the protean takes damage of one of the other types (in which case its resistance changes to match that type), whichever comes first. The akizendri is immune to [[polymorph]] effects unless it is a willing target. If [[blinded|blinded]] or [[deafened|deafened]], the akizendri automatically recovers at the end of its next turn as new sensory organs grow to replace the compromised ones."
+    desc: " ([[divine]], [[transmutation]]);  An akizendri's vital organs shift and change shape and position constantly. Immediately after the akizendri takes acid, electricity, or sonic damage, it gains the listed amount of resistance to that damage type. This lasts for 1 hour or until the next time the protean takes damage of one of the other types (in which case its resistance changes to match that type), whichever comes first. The akizendri is immune to [[polymorph]] effects unless it is a willing target. If [[rules/conditions.md#Blinded|blinded]] or [[rules/conditions.md#Deafened|deafened]], the akizendri automatically recovers at the end of its next turn as new sensory organs grow to replace the compromised ones."
 abilities_bot:
   - name: "Change Shape"
     desc: "⬻ ([[concentrate]], [[divine]], [[polymorph]], [[transmutation]]);  The akizendri takes on the appearance of any Small or smaller creature. This doesn't change its Speed or its attack and damage bonuses with its [[Strike|Strikes]], but might change the damage type its [[Strike|Strikes]] deal."
   - name: "Constrict"
     desc: "⬻  1d8+3 (1d8+3) bludgeoning, DC 20."
   - name: "Garbled Thoughts"
-    desc: " ([[divine]], [[emotion]], [[enchantment]], [[mental]]);  A creature hit by the akizendri's bite [[Strike]] must attempt a DC 20 Will save.\n__Success__ The creature is unaffected.\n__Failure__ The creature is [[stupefied|stupefied 1]] for 1d4 (1d4) rounds.\n__Critical Failure__ As failure, but the creature is also [[confused|confused]] for 1 round."
+    desc: " ([[divine]], [[emotion]], [[enchantment]], [[mental]]);  A creature hit by the akizendri's bite [[Strike]] must attempt a DC 20 Will save.\n__Success__ The creature is unaffected.\n__Failure__ The creature is [[rules/conditions.md#Stupefied|stupefied 1]] for 1d4 (1d4) rounds.\n__Critical Failure__ As failure, but the creature is also [[rules/conditions.md#Confused|confused]] for 1 round."
   - name: "Text Immersion"
-    desc: " ([[divine]], [[transmutation]]);  When the akizendri casts secret page, it can physically immerse itself in the text, changing the message of the text in the process. It can exit the book at any point by Dismissing secret page, at which point it appears in a space adjacent to the text. If it does so to begin combat, it rolls a [[Deception]] check for initiative. As long as it remains immersed in the text, the akizendri has no body. It can communicate telepathically with a creature as long as the creature touches the book or scroll that contains the secret page. It can sense nearby creatures using its entropy sense, but not in any other way, nor can it use any attack, manipulate, or move actions or speak aloud. If the object it is immersed in is destroyed, the akizendri reappears in an adjacent square and is [[stunned|stunned 1]]."
+    desc: " ([[divine]], [[transmutation]]);  When the akizendri casts secret page, it can physically immerse itself in the text, changing the message of the text in the process. It can exit the book at any point by Dismissing secret page, at which point it appears in a space adjacent to the text. If it does so to begin combat, it rolls a [[compendium/skills.md#Deception|Deception]] check for initiative. As long as it remains immersed in the text, the akizendri has no body. It can communicate telepathically with a creature as long as the creature touches the book or scroll that contains the secret page. It can sense nearby creatures using its entropy sense, but not in any other way, nor can it use any attack, manipulate, or move actions or speak aloud. If the object it is immersed in is destroyed, the akizendri reappears in an adjacent square and is [[rules/conditions.md#Stunned|stunned 1]]."
 
 speed: 25 feet, fly 25 feet, swim 25 feet; freedom of movement;
 
@@ -67,7 +67,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 20, attack +12; __Cantrips (2nd)__ [[acid splash]], [[daze]], [[ghost sound]], [[mage hand]], [[sigil]]; __1st__ [[detect alignment]] (at will) lawful only; __3rd__ [[glyph of warding]], [[secret page]]; __Constant__ __(4th)__ [[freedom of movement]];"
+    desc: "DC 20, attack +12; __Cantrips (2nd)__ [[acid-splash|acid splash]], [[daze]], [[ghost-sound|ghost sound]], [[mage-hand|mage hand]], [[sigil]]; __1st__ [[detect-alignment|detect alignment]] (at will) lawful only; __3rd__ [[glyph-of-warding|glyph of warding]], [[secret-page|secret page]]; __Constant__ __(4th)__ [[freedom-of-movement|freedom of movement]];"
 sourcebook: "_Bestiary 2_, page 204."
 ```
 

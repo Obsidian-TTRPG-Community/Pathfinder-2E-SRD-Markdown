@@ -34,13 +34,13 @@ abilities_bot:
   - name: "Stride"
     desc: "⬻  25 feet"
   - name: "Melee Strike"
-    desc: "⬻ ([[versatile P]]);  Damage 1d8+4 (1d8+4) slashing Melee [[Strike]] ⬻ fist +10 (agile, nonlethal), Damage 1d4+4 (1d4+4) bludgeoning"
+    desc: "⬻ ([[versatile|versatile P]]);  Damage 1d8+4 (1d8+4) slashing Melee [[Strike]] ⬻ fist +10 (agile, nonlethal), Damage 1d4+4 (1d4+4) bludgeoning"
   - name: "Ranged Strike"
-    desc: "⬻ ([[thrown 30 feet]]);  Damage 1d6+4 (1d6+4) piercing"
+    desc: "⬻ ([[thrown|thrown 30 feet]]);  Damage 1d6+4 (1d6+4) piercing"
   - name: "Bushwhack"
     desc: "⬻  The bugbear marauder Strides up to 10 feet and attempts to [[Grapple]] a creature that can't see them and doesn't know where they are. If the bugbear succeeds, they also deal damage from their fist [[Strike]] to that creature."
   - name: "Mauler"
-    desc: "  The bugbear marauder gains a +3 circumstance bonus to damage rolls against creatures they have [[grabbed|grabbed]]."
+    desc: "  The bugbear marauder gains a +3 circumstance bonus to damage rolls against creatures they have [[rules/conditions.md#Grabbed|grabbed]]."
 abilities_top:
   - name: Items
     desc: "javelin (3), leather armor, longsword;"

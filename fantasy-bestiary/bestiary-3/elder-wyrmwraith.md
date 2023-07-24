@@ -39,24 +39,24 @@ abilities_mid:
   - name: "Frightful Presence"
     desc: " ([[aura]], [[emotion]], [[fear]], [[mental]]);  90 feet, DC 46 (page 305)"
   - name: "Sunlight Powerlessness"
-    desc: "  A wyrmwraith in sunlight is [[clumsy|clumsy 2]] and [[stunned|stunned 2]]."
+    desc: "  A wyrmwraith in sunlight is [[rules/conditions.md#Clumsy|clumsy 2]] and [[rules/conditions.md#Stunned|stunned 2]]."
   - name: "Positive Energy Transfer"
-    desc: "⬲ ([[conjuration]], [[divine]]); __Trigger__ The wyrmwraith succeeds at a saving throw to resist positive damage but still takes damage __Effect__  The wyrmwraith transfers all positive damage from the effect to a single undead creature of their choice within 120 feet that they control or that's [[friendly|friendly]] or [[helpful|helpful]] to them."
+    desc: "⬲ ([[conjuration]], [[divine]]); __Trigger__ The wyrmwraith succeeds at a saving throw to resist positive damage but still takes damage __Effect__  The wyrmwraith transfers all positive damage from the effect to a single undead creature of their choice within 120 feet that they control or that's [[rules/conditions.md#Friendly|friendly]] or [[rules/conditions.md#Helpful|helpful]] to them."
 abilities_bot:
   - name: "Breath Weapon"
     desc: "⬺ ([[divine]], [[necromancy]], [[negative]]);  The wyrmwraith unleashes a burst of negative energy that deals 24d6 (24d6) negative damage to all creatures in a 90-foot cone (DC 46 basic Reflex save). They can't use Breath Weapon again for 1d4 (1d4) rounds."
   - name: "Consume Souls"
-    desc: "⬺ ([[divine]], [[death]], [[incapacitation]], [[necromancy]]);  The elder wyrmwraith inhales sharply, sucking in the souls of nearby creatures. Each creature in a 60-foot cone must attempt a DC 46 Will save. The elder wyrmwraith can't Consume Souls again for 1d4 (1d4) rounds.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature becomes [[doomed|doomed 1]].\n__Failure__ The creature becomes [[doomed|doomed 2]] and takes 100 negative damage.\n__Critical Failure__ The creature is slain. As long as the wyrmwraith still exists, the slain creature can't be returned to life through any means."
+    desc: "⬺ ([[divine]], [[death]], [[incapacitation]], [[necromancy]]);  The elder wyrmwraith inhales sharply, sucking in the souls of nearby creatures. Each creature in a 60-foot cone must attempt a DC 46 Will save. The elder wyrmwraith can't Consume Souls again for 1d4 (1d4) rounds.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature becomes [[rules/conditions.md#Doomed|doomed 1]].\n__Failure__ The creature becomes [[rules/conditions.md#Doomed|doomed 2]] and takes 100 negative damage.\n__Critical Failure__ The creature is slain. As long as the wyrmwraith still exists, the slain creature can't be returned to life through any means."
   - name: "Divine Dispelling"
-    desc: " ([[abjuration]], [[divine]]);  A wyrmwraith's claws rend divine magic. Whenever a wyrmwraith hits a creature with a spectral claws [[Strike]], the wyrmwraith can attempt a [[Religion]] check to counteract an ongoing divine spell effect on the creature."
+    desc: " ([[abjuration]], [[divine]]);  A wyrmwraith's claws rend divine magic. Whenever a wyrmwraith hits a creature with a spectral claws [[Strike]], the wyrmwraith can attempt a [[compendium/skills.md#Religion|Religion]] check to counteract an ongoing divine spell effect on the creature."
   - name: "Drain Life"
-    desc: " ([[divine]], [[necromancy]]);  When a wyrmwraith deals damage to a living creature with a spectral jaws or spectral claw [[Strike]], the wyrmwraith gains 24 temporary Hit Points, and the creature must succeed at a DC 46 Fortitude save or become [[drained|drained 2]]. Further damage dealt by the wyrmwraith's spectral jaws or spectral claws [[Strike|Strikes]] increases the value of the [[drained|drained]] condition by 2 on a failed save, to a maximum of [[drained|drained 4]]."
+    desc: " ([[divine]], [[necromancy]]);  When a wyrmwraith deals damage to a living creature with a spectral jaws or spectral claw [[Strike]], the wyrmwraith gains 24 temporary Hit Points, and the creature must succeed at a DC 46 Fortitude save or become [[rules/conditions.md#Drained|drained 2]]. Further damage dealt by the wyrmwraith's spectral jaws or spectral claws [[Strike|Strikes]] increases the value of the [[rules/conditions.md#Drained|drained]] condition by 2 on a failed save, to a maximum of [[rules/conditions.md#Drained|drained 4]]."
   - name: "Draconic Frenzy"
     desc: "⬺  The wyrmwraith makes two claw [[Strike|Strikes]] and one jaws [[Strike]] in any order."
   - name: "Ectoplasmic Form"
     desc: "⬻  As wyrmwraith, except AC 52 and 125 temporary Hit Points."
   - name: "Phase Lurch"
-    desc: "⬻ ([[divine]], [[move]]); __Requirements__ The wyrmwraith is in their ectoplasmic form  __Effect__  As the [[Stride]] action, but the wyrmwraith can pass through walls or material obstacles as though they were incorporeal. They must begin and end their movement outside of any physical obstacles, and passing through solid material is [[terrain|difficult terrain]]."
+    desc: "⬻ ([[divine]], [[move]]); __Requirements__ The wyrmwraith is in their ectoplasmic form  __Effect__  As the [[Stride]] action, but the wyrmwraith can pass through walls or material obstacles as though they were incorporeal. They must begin and end their movement outside of any physical obstacles, and passing through solid material is [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]]."
 
 speed: 50 feet, fly 100 feet
 
@@ -67,7 +67,7 @@ armorclass:
 hp: 450
 health:
   - name: HP
-    desc: "450; [[negative healing]]; __Immunities__ as wyrmwraith; __Resistances__ all 25"
+    desc: "450; [[negative-healing-b2|negative healing]]; __Immunities__ as wyrmwraith; __Resistances__ all 25"
 
 
 attacks:

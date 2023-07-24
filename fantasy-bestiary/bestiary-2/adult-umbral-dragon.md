@@ -39,7 +39,7 @@ abilities_mid:
     desc: "⬲  Jaws only."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺  The umbral dragon breathes in one of two ways. They can't use Breath Weapon again for 1d4 (1d4) rounds.<ul class='inner-bullet-list'><li>__Negative__ (necromancy, negative, primal) The dragon breathes a blast of darkness in a 40-foot cone that deals 16d6 (16d6) negative damage (DC 36 basic Reflex save). Undead creatures take 19d6 (19d6) force damage instead of the negative damage.</li><li>__Shadows__ (necromancy, primal, shadow) The dragon breathes a blast of shadows in a 40-foot cone. Each creature within the cone must attempt a DC 36 Fortitude save.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is [[enfeebled|enfeebled 2]] for 1 round.\n__Failure__ The creature is [[enfeebled|enfeebled 2]] for 1 minute.\n__Critical Failure__ The creature is [[enfeebled|enfeebled 2]] for 1 minute and [[blinded]] for 1 round.</li></ul>"
+    desc: "⬺  The umbral dragon breathes in one of two ways. They can't use Breath Weapon again for 1d4 (1d4) rounds.<ul class='inner-bullet-list'><li>__Negative__ (necromancy, negative, primal) The dragon breathes a blast of darkness in a 40-foot cone that deals 16d6 (16d6) negative damage (DC 36 basic Reflex save). Undead creatures take 19d6 (19d6) force damage instead of the negative damage.</li><li>__Shadows__ (necromancy, primal, shadow) The dragon breathes a blast of shadows in a 40-foot cone. Each creature within the cone must attempt a DC 36 Fortitude save.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is [[rules/conditions.md#Enfeebled|enfeebled 2]] for 1 round.\n__Failure__ The creature is [[rules/conditions.md#Enfeebled|enfeebled 2]] for 1 minute.\n__Critical Failure__ The creature is [[rules/conditions.md#Enfeebled|enfeebled 2]] for 1 minute and [[blinded]] for 1 round.</li></ul>"
   - name: "Draconic Frenzy"
     desc: "⬺  The dragon makes two claw [[Strike|Strikes]] and one wing [[Strike]] in any order."
   - name: "Draconic Momentum"
@@ -71,7 +71,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 36; __Cantrips (7th)__ [[detect magic]]; __7th__ [[darkness]] (at will), [[shadow walk]], [[vampiric exsanguination]];"
+    desc: "DC 36; __Cantrips (7th)__ [[detect-magic|detect magic]]; __7th__ [[darkness]] (at will), [[shadow-walk|shadow walk]], [[vampiric-exsanguination|vampiric exsanguination]];"
 sourcebook: "_Bestiary 2_, page 96."
 ```
 

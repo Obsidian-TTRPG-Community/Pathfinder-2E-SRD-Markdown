@@ -31,13 +31,13 @@ abilityMods: [8, 3, 5, -5, 3, -2]
 
 abilities_bot:
   - name: "Fling"
-    desc: "⬻  The deadly mantis flings a [[grabbed|grabbed]] creature into the air, up to 30 feet overhead and up to 30 feet away from the mantis (the creature takes damage from the fall as normal). If the flung creature lands on another creature, the creature it lands on takes the same amount of bludgeoning damage. The creature being landed on can attempt a DC 31 basic Reflex save."
+    desc: "⬻  The deadly mantis flings a [[rules/conditions.md#Grabbed|grabbed]] creature into the air, up to 30 feet overhead and up to 30 feet away from the mantis (the creature takes damage from the fall as normal). If the flung creature lands on another creature, the creature it lands on takes the same amount of bludgeoning damage. The creature being landed on can attempt a DC 31 basic Reflex save."
   - name: "Leaping Grab"
     desc: "⬺  The mantis Leaps up to 40 feet vertically and 20 feet horizontally. At any point during the jump, it can make a leg [[Strike]]. If it hits, it automatically Grabs the target, bringing the creature along until the end of the jump."
   - name: "Rending Mandibles"
-    desc: "⬻  The mantis makes a mandibles [[Strike]] against a creature it has [[grabbed|grabbed]]. If that [[Strike]] hits and the creature is wearing armor with Hardness 12 or lower, the armor is [[broken|broken]]. This [[Strike]] doesn't further damage armor that's already [[broken|broken]]."
+    desc: "⬻  The mantis makes a mandibles [[Strike]] against a creature it has [[rules/conditions.md#Grabbed|grabbed]]. If that [[Strike]] hits and the creature is wearing armor with Hardness 12 or lower, the armor is [[rules/conditions.md#Broken|broken]]. This [[Strike]] doesn't further damage armor that's already [[rules/conditions.md#Broken|broken]]."
   - name: "Sudden Strike"
-    desc: "  On the first round of combat, creatures that haven't acted are [[flat-footed|flat-footed]] to the giant mantis."
+    desc: "  On the first round of combat, creatures that haven't acted are [[rules/conditions.md#Flat-Footed|flat-footed]] to the giant mantis."
 
 speed: 50 feet, climb 50 feet
 

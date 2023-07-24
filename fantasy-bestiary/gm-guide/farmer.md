@@ -33,7 +33,7 @@ abilityMods: [3, 1, 3, 0, 2, 0]
 
 abilities_bot:
   - name: "Pitch Bale"
-    desc: "⬻ __Requirements__ The farmer's last action was a successful pitchfork [[Strike]]  __Effect__  The farmer moves the creature they hit with their pitchfork up to 5 feet, and the target falls [[prone|prone]]. The target can attempt a DC 13 Reflex save to avoid falling [[prone|prone]], and avoids being moved altogether on a critical success."
+    desc: "⬻ __Requirements__ The farmer's last action was a successful pitchfork [[Strike]]  __Effect__  The farmer moves the creature they hit with their pitchfork up to 5 feet, and the target falls [[rules/conditions.md#Prone|prone]]. The target can attempt a DC 13 Reflex save to avoid falling [[rules/conditions.md#Prone|prone]], and avoids being moved altogether on a critical success."
 abilities_top:
   - name: Items
     desc: "apple (4), leather armor, pitchfork;"

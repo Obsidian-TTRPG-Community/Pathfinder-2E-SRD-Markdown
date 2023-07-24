@@ -33,12 +33,12 @@ abilityMods: [8, 3, 2, 1, 5, 8]
 
 abilities_mid:
   - name: "Towering Stance"
-    desc: " ([[divine]], [[illusion]]);  A nikaramsa is in fact a Medium creature, but appears as a Large creature due to the force of their personality. A creature interacting with the nikaramsa can attempt a DC 36 Will save to see the nikaramsa as they truly are. If the creature succeeds, the reach of nikaramsa's attacks against that foe decrease to 5 feet (10 feet for their tongue). If all creatures in the nikaramsa's vicinity successfully [[2|disbelieving illusions|0|disbelieve this illusion]], the nikaramsa becomes Medium and [[enfeebled|enfeebled 2]] for as long as everyone sees their true form."
+    desc: " ([[divine]], [[illusion]]);  A nikaramsa is in fact a Medium creature, but appears as a Large creature due to the force of their personality. A creature interacting with the nikaramsa can attempt a DC 36 Will save to see the nikaramsa as they truly are. If the creature succeeds, the reach of nikaramsa's attacks against that foe decrease to 5 feet (10 feet for their tongue). If all creatures in the nikaramsa's vicinity successfully [[2|disbelieving illusions|0|disbelieve this illusion]], the nikaramsa becomes Medium and [[rules/conditions.md#Enfeebled|enfeebled 2]] for as long as everyone sees their true form."
   - name: "Pervert Miracle"
     desc: "⬲ ([[curse]], [[divine]]); __Trigger__ A foe within 60 feet casts bless or a beneficial spell that the nikaramsa could cast to remove an affliction or condition (such as neutralize poison) __Effect__  The nikaramsa attempts to counteract the enemy's spell (counteract modifier +24 and counteract level 7). If the nikaramsa succeeds, the triggering creature is subjected to the effects of a [[bane]] spell or the effect it was trying to remove."
 abilities_bot:
   - name: "Sap Mind"
-    desc: "⬻ ([[divine]], [[enchantment]], [[mental]]);  The nikaramsa focuses their gaze on one creature within 60 feet. That target must attempt a DC 34 Will save. Regardless of the outcome of the saving throw, the target then becomes temporarily immune for 1 day.\n__Critical Success__ The nikaramsa is caught off guard by the strength of the target's resistance and becomes [[stupefied|stupefied 2]] until the end of their next turn.\n__Success__ The target resists the nikaramsa's influence.\n__Failure__ The target's focus and willpower drain away; it becomes [[stupefied|stupefied 2]] for 1 minute.\n__Critical Failure__ As failure, but the target becomes [[stupefied|stupefied 3]] for 1 hour."
+    desc: "⬻ ([[divine]], [[enchantment]], [[mental]]);  The nikaramsa focuses their gaze on one creature within 60 feet. That target must attempt a DC 34 Will save. Regardless of the outcome of the saving throw, the target then becomes temporarily immune for 1 day.\n__Critical Success__ The nikaramsa is caught off guard by the strength of the target's resistance and becomes [[rules/conditions.md#Stupefied|stupefied 2]] until the end of their next turn.\n__Success__ The target resists the nikaramsa's influence.\n__Failure__ The target's focus and willpower drain away; it becomes [[rules/conditions.md#Stupefied|stupefied 2]] for 1 minute.\n__Critical Failure__ As failure, but the target becomes [[rules/conditions.md#Stupefied|stupefied 3]] for 1 hour."
 
 speed: 50 feet
 
@@ -62,7 +62,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 34, attack +26; __4th__ [[dimension door]] (at will); __7th__ [[bane]], [[bless]], [[dimension door]], [[divine decree]] evil only, [[dream message]], [[heal]] (3), [[illusory disguise]] (at will), [[invisibility]] at will; self only, [[mind reading]], [[neutralize poison]], [[remove disease]], [[remove curse]], [[restore senses]], [[ventriloquism]] (at will); __Constant__ __(7th)__ [[detect alignment]], [[magic]];"
+    desc: "DC 34, attack +26; __4th__ [[dimension-door|dimension door]] (at will); __7th__ [[bane]], [[bless]], [[dimension-door|dimension door]], [[divine-decree|divine decree]] evil only, [[dream-message|dream message]], [[heal]] (3), [[illusory-disguise|illusory disguise]] (at will), [[invisibility]] at will; self only, [[mind-reading|mind reading]], [[neutralize-poison|neutralize poison]], [[remove-disease|remove disease]], [[remove-curse|remove curse]], [[restore-senses|restore senses]], [[ventriloquism]] (at will); __Constant__ __(7th)__ [[detect-alignment|detect alignment]], [[magic]];"
 sourcebook: "_Bestiary 3_, page 25."
 ```
 

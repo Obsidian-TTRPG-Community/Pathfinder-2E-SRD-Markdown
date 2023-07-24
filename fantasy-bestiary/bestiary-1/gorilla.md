@@ -31,7 +31,7 @@ abilityMods: [4, 2, 3, -4, 1, -2]
 
 abilities_bot:
   - name: "Frightening Display"
-    desc: "⬺ ([[auditory]], [[emotion]], [[fear]], [[mental]]);  The gorilla beats its chest in a terrifying display. Creatures within 30 feet must attempt a DC 20 Will save. While a creature is [[frightened|frightened]] by this ability, it is [[flat-footed|flat-footed]] to the gorilla.\n__Critical Success__ No effect and temporarily immune for 1 minute.\n__Success__ The creature is unaffected.\n__Failure__ The creature is [[frightened|frightened 1]].\n__Critical Failure__ The creature is [[frightened|frightened 2]]."
+    desc: "⬺ ([[auditory]], [[emotion]], [[fear]], [[mental]]);  The gorilla beats its chest in a terrifying display. Creatures within 30 feet must attempt a DC 20 Will save. While a creature is [[rules/conditions.md#Frightened|frightened]] by this ability, it is [[rules/conditions.md#Flat-Footed|flat-footed]] to the gorilla.\n__Critical Success__ No effect and temporarily immune for 1 minute.\n__Success__ The creature is unaffected.\n__Failure__ The creature is [[rules/conditions.md#Frightened|frightened 1]].\n__Critical Failure__ The creature is [[rules/conditions.md#Frightened|frightened 2]]."
 
 speed: 30 feet, climb 30 feet
 

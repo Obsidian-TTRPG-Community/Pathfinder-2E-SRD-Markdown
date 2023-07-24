@@ -41,7 +41,7 @@ abilities_mid:
     desc: "⬲ "
 abilities_bot:
   - name: "Healing Arrow"
-    desc: "⬺ ([[divine]], [[healing]], [[necromancy]]);  The zuishin blesses an arrow with healing magic and makes a composite longbow [[Strike]] against an ally. If it hits, rather than dealing damage, the arrow is infused with the effects of one of the following of the zuishin's innate divine spells: [[breath of life]], [[heal]], [[remove disease]], or [[remove paralysis]]. The zuishin must have the spell available to cast, and using this ability expends the spell. If the zuishin rolls a failure on the attack roll against an ally who's aware of the arrow and wants to be hit, the attack hits, but on a critical failure, it still misses."
+    desc: "⬺ ([[divine]], [[healing]], [[necromancy]]);  The zuishin blesses an arrow with healing magic and makes a composite longbow [[Strike]] against an ally. If it hits, rather than dealing damage, the arrow is infused with the effects of one of the following of the zuishin's innate divine spells: [[breath-of-life|breath of life]], [[heal]], [[remove-disease|remove disease]], or [[remove-paralysis|remove paralysis]]. The zuishin must have the spell available to cast, and using this ability expends the spell. If the zuishin rolls a failure on the attack roll against an ally who's aware of the arrow and wants to be hit, the attack hits, but on a critical failure, it still misses."
   - name: "Holy Weaponry"
     desc: " ([[divine]], [[enchantment]], [[evocation]], [[good]]);  Any weapon becomes a striking holy weapon while the zuishin wields it. A zuishin creates arrows out of nothing as part of their attacks with any bow they wield."
 
@@ -61,11 +61,11 @@ attacks:
   - name: Melee
     desc: "⬻ katana +23 ([[deadly|deadly d8]], [[magical]], [[two-hand|two-hand d10]], [[versatile|versatile p]]); __Damage__ 2d6+9 (2d6+9) slashing plus 1d6 (1d6) good"
   - name: Ranged
-    desc: "⬻ composite longbow +24 ([[deadly|deadly d10]], [[magical]], [[range increment|range increment 100 feet]], [[reload|reload 0]], [[volley|volley 30 feet]]); __Damage__ 2d8+9 (2d8+9) piercing plus 1d6 (1d6) good"
+    desc: "⬻ composite longbow +24 ([[deadly|deadly d10]], [[magical]], [[range-increment|range increment 100 feet]], [[reload|reload 0]], [[volley|volley 30 feet]]); __Damage__ 2d8+9 (2d8+9) piercing plus 1d6 (1d6) good"
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 29; __2nd__ [[detect alignment]] (at will) evil only, [[shield other]]; __3rd__ [[heal]] (2); __4th__ [[remove disease]], [[remove paralysis]]; __5th__ [[breath of life]], [[dimension door]] (3), [[dispel magic]], [[heal]];"
+    desc: "DC 29; __2nd__ [[detect-alignment|detect alignment]] (at will) evil only, [[shield-other|shield other]]; __3rd__ [[heal]] (2); __4th__ [[remove-disease|remove disease]], [[remove-paralysis|remove paralysis]]; __5th__ [[breath-of-life|breath of life]], [[dimension-door|dimension door]] (3), [[dispel-magic|dispel magic]], [[heal]];"
 sourcebook: "_Bestiary 3_, page 144."
 ```
 

@@ -36,9 +36,9 @@ abilities_bot:
   - name: "Flying Strafe"
     desc: "⬺  The roc Flies up to its Speed and makes two talon [[Strike|Strikes]] at any point during that movement. Each [[Strike]] must target a different creature. Each attack takes the normal multiple attack penalty."
   - name: "Snack"
-    desc: "  A roc gains a +2 circumstance bonus to hit with its beak [[Strike]] if the target is [[grabbed|grabbed]] or [[restrained|restrained]] in its talon."
+    desc: "  A roc gains a +2 circumstance bonus to hit with its beak [[Strike]] if the target is [[rules/conditions.md#Grabbed|grabbed]] or [[rules/conditions.md#Restrained|restrained]] in its talon."
   - name: "Snatch"
-    desc: "  A roc can [[Fly]] at half Speed while it has a creature [[grabbed|grabbed]] or [[restrained|restrained]] in either or both of its talons, carrying that creature along with it."
+    desc: "  A roc can [[Fly]] at half Speed while it has a creature [[rules/conditions.md#Grabbed|grabbed]] or [[rules/conditions.md#Restrained|restrained]] in either or both of its talons, carrying that creature along with it."
 
 speed: 20 feet, fly 60 feet
 
@@ -56,7 +56,7 @@ attacks:
   - name: Melee
     desc: "⬻ beak +21 ([[reach|reach 15 feet]]); __Damage__ 2d10+12 (2d10+12) piercing"
   - name: Melee
-    desc: "⬻ talon +21 ([[agile]], [[reach|reach 15 feet]]); __Damage__ 2d8+12 (2d8+12) slashing plus [[Improved Grab]]"
+    desc: "⬻ talon +21 ([[agile]], [[reach|reach 15 feet]]); __Damage__ 2d8+12 (2d8+12) slashing plus [[Improved-Grab|Improved Grab]]"
   - name: Melee
     desc: "⬻ wing +21 ([[agile]], [[reach|reach 30 feet]]); __Damage__ 2d6+10 (2d6+10) bludgeoning plus Improved Push 10 feet"
 

@@ -31,9 +31,9 @@ abilityMods: [4, 3, 3, -5, 1, -3]
 
 abilities_bot:
   - name: "Pull Filament"
-    desc: "⬻  The cave fisher pulls a creature [[grabbed|grabbed]] by its filament toward itself, even suspending the target vertically if necessary. The cave fisher attempts an [[Athletics]] check against the creature's Fortitude DC. On a success, the cave fisher pulls the creature 15 feet closer to it (30 feet closer on a critical success)."
+    desc: "⬻  The cave fisher pulls a creature [[rules/conditions.md#Grabbed|grabbed]] by its filament toward itself, even suspending the target vertically if necessary. The cave fisher attempts an [[compendium/skills.md#Athletics|Athletics]] check against the creature's Fortitude DC. On a success, the cave fisher pulls the creature 15 feet closer to it (30 feet closer on a critical success)."
   - name: "Sticky Filament"
-    desc: "  Any creature hit by the cave fisher's sticky filament is [[grabbed|grabbed]]. The cave fisher can move while it has a creature [[grabbed|grabbed]] with its filament, but it automatically releases the creature if the cave fisher moves beyond the filament's 60-foot length. The cave fisher can use only one filament at a time, and it can sever the filament and release any creature [[grabbed|grabbed]] by it as a free action. The filament can be severed by a [[Strike]] that deals at least 10 slashing damage to it. This doesn't deal any damage to the cave fisher itself. The filament has AC 17, and its [[Escape]] DC is 19."
+    desc: "  Any creature hit by the cave fisher's sticky filament is [[rules/conditions.md#Grabbed|grabbed]]. The cave fisher can move while it has a creature [[rules/conditions.md#Grabbed|grabbed]] with its filament, but it automatically releases the creature if the cave fisher moves beyond the filament's 60-foot length. The cave fisher can use only one filament at a time, and it can sever the filament and release any creature [[rules/conditions.md#Grabbed|grabbed]] by it as a free action. The filament can be severed by a [[Strike]] that deals at least 10 slashing damage to it. This doesn't deal any damage to the cave fisher itself. The filament has AC 17, and its [[Escape]] DC is 19."
 
 speed: 15 feet, climb 15 feet
 

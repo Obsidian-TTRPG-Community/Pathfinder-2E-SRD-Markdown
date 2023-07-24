@@ -44,7 +44,7 @@ abilities_bot:
   - name: "Draconic Momentum"
     desc: "  The dragon recharges its Breath Weapon whenever it scores a critical hit with a [[Strike]]."
   - name: "Woodland Stride"
-    desc: "  The green dragon ignores [[terrain|difficult terrain]] and [[terrain|greater difficult terrain]] from non-magical foliage."
+    desc: "  The green dragon ignores [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] and [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|greater difficult terrain]] from non-magical foliage."
 
 speed: 30 feet, fly 120 feet, swim 30 feet; woodland stride;
 

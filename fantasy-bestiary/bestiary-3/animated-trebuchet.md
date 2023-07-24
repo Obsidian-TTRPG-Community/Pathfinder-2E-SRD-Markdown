@@ -35,7 +35,7 @@ abilities_mid:
     desc: "  Like normal objects, an animated trebuchet has Hardness. This Hardness reduces any damage the trebuchet takes by an amount equal to the Hardness. Once an animated trebuchet is reduced to fewer than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks, removing the Hardness and reducing its Armor Class to 32."
 abilities_bot:
   - name: "Launch"
-    desc: "⬻ __Requirements__ The animated trebuchet has a creature [[grabbed|grabbed]] in its arm  __Effect__  The animated trebuchet attempts an [[Athletics]] check against the [[grabbed|grabbed]] creature's Fortitude DC. On a success, it fires the creature up to 40 feet in height and up to 120 feet away. The creature takes 4d12 (4d12) bludgeoning damage plus the appropriate falling damage. If the flung creature lands on another creature, the creature it lands on takes the same amount of bludgeoning damage (DC 33 basic Reflex save). On a successful Launch, the animated trebuchet must [[Interact]] to reposition its arm into the proper position before it can Launch again."
+    desc: "⬻ __Requirements__ The animated trebuchet has a creature [[rules/conditions.md#Grabbed|grabbed]] in its arm  __Effect__  The animated trebuchet attempts an [[compendium/skills.md#Athletics|Athletics]] check against the [[rules/conditions.md#Grabbed|grabbed]] creature's Fortitude DC. On a success, it fires the creature up to 40 feet in height and up to 120 feet away. The creature takes 4d12 (4d12) bludgeoning damage plus the appropriate falling damage. If the flung creature lands on another creature, the creature it lands on takes the same amount of bludgeoning damage (DC 33 basic Reflex save). On a successful Launch, the animated trebuchet must [[Interact]] to reposition its arm into the proper position before it can Launch again."
   - name: "Trample"
     desc: "⬽ ([[attack]]);  Large or smaller, arm, DC 33"
 
@@ -55,7 +55,7 @@ attacks:
   - name: Melee
     desc: "⬻ arm +28 ([[magical]], [[reach|reach 15 feet]]); __Damage__ 3d12+11 (3d12+11) bludgeoning plus [[Grab]]"
   - name: Ranged
-    desc: "⬻ rock +28 ([[brutal]], [[magical]], [[range increment|range increment 120 feet]]); __Damage__ 3d10+11 (3d10+11) bludgeoning"
+    desc: "⬻ rock +28 ([[brutal]], [[magical]], [[range-increment|range increment 120 feet]]); __Damage__ 3d10+11 (3d10+11) bludgeoning"
 
 sourcebook: "_Bestiary 3_, page 19."
 ```

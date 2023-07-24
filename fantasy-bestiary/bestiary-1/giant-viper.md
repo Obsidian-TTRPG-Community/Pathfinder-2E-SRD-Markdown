@@ -31,12 +31,12 @@ abilityMods: [3, 4, 3, -4, 1, -2]
 
 abilities_mid:
   - name: "Attack of Opportunity"
-    desc: "⬲ __Trigger__ A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using. __Effect__  As [[Attack of Opportunity]], but the snake can use this reaction only if it's Coiled."
+    desc: "⬲ __Trigger__ A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using. __Effect__  As [[Attack-of-Opportunity|Attack of Opportunity]], but the snake can use this reaction only if it's Coiled."
 abilities_bot:
   - name: "Coil"
     desc: "⬻  The giant viper uses an action to coil itself, increasing its reach with its fangs from 5 to 10 feet. After the giant viper [[Strike|Strikes]] with its fangs, it becomes uncoiled."
   - name: "Giant Viper Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 17 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d6 (1d6) poison (1 round) __Stage 2__ 1d6 (1d6) poison and [[drained|drained 1]]. (null)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 17 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d6 (1d6) poison (1 round) __Stage 2__ 1d6 (1d6) poison and [[rules/conditions.md#Drained|drained 1]]. (null)"
 
 speed: 20 feet, climb 20 feet, swim 20 feet
 

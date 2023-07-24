@@ -37,7 +37,7 @@ abilities_mid:
     desc: "⬲ "
 abilities_bot:
   - name: "Smear"
-    desc: "⬺ ([[attack]]); __Requirements__ The cave giant is within reach of a creature that is adjacent to a wall or other solid vertical surface  __Effect__  The cave giant snags the creature and smashes it against the wall. The giant attempts an [[Athletics]] check against the target's Reflex DC. On a success, the cave giant Grabs the creature and smears it along the nearby wall, dealing 2d8+8 (2d8+8) bludgeoning damage. On a critical success, the damage is doubled."
+    desc: "⬺ ([[attack]]); __Requirements__ The cave giant is within reach of a creature that is adjacent to a wall or other solid vertical surface  __Effect__  The cave giant snags the creature and smashes it against the wall. The giant attempts an [[compendium/skills.md#Athletics|Athletics]] check against the target's Reflex DC. On a success, the cave giant Grabs the creature and smears it along the nearby wall, dealing 2d8+8 (2d8+8) bludgeoning damage. On a critical success, the damage is doubled."
   - name: "Throw Rock"
     desc: "⬻ ([[page 306]]); "
 
@@ -59,7 +59,7 @@ attacks:
   - name: Melee
     desc: "⬻ fist +18 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1d8+9 (1d8+9) bludgeoning"
   - name: Ranged
-    desc: "⬻ rock +16 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 2d6+10 (2d6+10) bludgeoning"
+    desc: "⬻ rock +16 ([[brutal]], [[range-increment|range increment 120 feet]]); __Damage__ 2d6+10 (2d6+10) bludgeoning"
 
 sourcebook: "_Bestiary 3_, page 108."
 ```

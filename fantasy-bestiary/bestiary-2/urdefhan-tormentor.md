@@ -33,7 +33,7 @@ abilityMods: [3, 1, 3, 2, 4, 2]
 
 abilities_mid:
   - name: "Necrotic Decay"
-    desc: " ([[divine]], [[necromancy]], [[negative]]);  When an urdefhan dies, its [[invisible|invisible]] flesh quickly rots away and sublimates into a foul-smelling gas that fills a 5-foot emanation around the body. This gas deals 5d6 (5d6) negative damage to creatures in this area as their flesh curdles and rots as well (DC 21 basic Fortitude save)."
+    desc: " ([[divine]], [[necromancy]], [[negative]]);  When an urdefhan dies, its [[rules/conditions.md#Invisible|invisible]] flesh quickly rots away and sublimates into a foul-smelling gas that fills a 5-foot emanation around the body. This gas deals 5d6 (5d6) negative damage to creatures in this area as their flesh curdles and rots as well (DC 21 basic Fortitude save)."
 abilities_top:
   - name: Items
     desc: "warhammer;"

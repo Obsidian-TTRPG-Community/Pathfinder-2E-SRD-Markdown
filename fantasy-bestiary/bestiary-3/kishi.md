@@ -32,13 +32,13 @@ abilityMods: [6, 4, 1, 1, 2, 5]
 
 abilities_bot:
   - name: "Constrict"
-    desc: "⬻  1d10+9 (1d10+9) piercing, DC 26 ([[grabbed|grabbed]] by jaws only; page 304)"
+    desc: "⬻  1d10+9 (1d10+9) piercing, DC 26 ([[rules/conditions.md#Grabbed|grabbed]] by jaws only; page 304)"
   - name: "Head Spin"
-    desc: "⭓  The kishi switches between showing their attractive human face and their snarling hyena face. A kishi can use their innate spell and their [[Deception]] and [[Diplomacy]] skills only when their human face is showing, and they can use their jaws [[Strike]] only when their hyena face is showing."
+    desc: "⭓  The kishi switches between showing their attractive human face and their snarling hyena face. A kishi can use their innate spell and their [[compendium/skills.md#Deception|Deception]] and [[compendium/skills.md#Diplomacy|Diplomacy]] skills only when their human face is showing, and they can use their jaws [[Strike]] only when their hyena face is showing."
   - name: "Sudden Charge"
     desc: "⬺  The kishi [[Stride|Strides]] twice. If they end their movement within melee reach of at least one enemy, they can make a melee [[Strike]] against that enemy."
   - name: "Vicelike Jaws"
-    desc: "  A creature [[grabbed|grabbed]] in the kishi's jaws can barely speak; a creature must succeed at a DC 8 flat check to provide verbal components for spells, doing so in a choked whisper."
+    desc: "  A creature [[rules/conditions.md#Grabbed|grabbed]] in the kishi's jaws can barely speak; a creature must succeed at a DC 8 flat check to provide verbal components for spells, doing so in a choked whisper."
 
 speed: 25 feet
 

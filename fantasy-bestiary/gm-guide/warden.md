@@ -54,7 +54,7 @@ attacks:
   - name: Melee
     desc: "⬻ bastard sword +16 ([[two-hand|two-hand d12]]); __Damage__ 1d8+7 (1d8+7) slashing"
   - name: Ranged
-    desc: "⬻ composite longbow +17 ([[deadly|deadly 1d10]], [[magical]], [[propulsive]], [[range increment|range increment 100 feet]], [[reload|reload 0]], [[volley|volley 30 feet]]); __Damage__ 1d8+5 (1d8+5) piercing"
+    desc: "⬻ composite longbow +17 ([[deadly|deadly 1d10]], [[magical]], [[propulsive]], [[range-increment|range increment 100 feet]], [[reload|reload 0]], [[volley|volley 30 feet]]); __Damage__ 1d8+5 (1d8+5) piercing"
 
 sourcebook: "_Gamemastery Guide_, page 225."
 ```

@@ -41,13 +41,13 @@ abilities_mid:
     desc: "⬲ "
 abilities_bot:
   - name: "Archon's Door"
-    desc: "  Once per day, if an archon sees another creature cast [[dimension door]], the archon can use dimension door (heightened to 5th level) within 1 round to attempt to follow that creature to the maximum distance of the archon's dimension door. If the archon's dimension door has enough distance, the archon appears the same distance and direction from the creature as before either creature used dimension door."
+    desc: "  Once per day, if an archon sees another creature cast [[dimension-door|dimension door]], the archon can use dimension door (heightened to 5th level) within 1 round to attempt to follow that creature to the maximum distance of the archon's dimension door. If the archon's dimension door has enough distance, the archon appears the same distance and direction from the creature as before either creature used dimension door."
   - name: "Blinding Beams"
     desc: "⭓ __Trigger__ The bastion archon hits a creature with two fist [[Strike|Strikes]] this turn and can use its Holy Beam; __Effect__  The bastion archon fires its Holy Beam at only the creature it hit twice. The creature's save result is one degree of success worse than the result it rolled."
   - name: "Entrench"
-    desc: "⬻  The bastion archon locks itself in place, becoming voluntarily [[immobilized|immobilized]]. While Entrenched, the archon can't be forcibly moved or tripped, and it gains a +2 circumstance bonus to AC and Reflex saves. Entrench ends automatically as soon as the bastion archon uses another move action."
+    desc: "⬻  The bastion archon locks itself in place, becoming voluntarily [[rules/conditions.md#Immobilized|immobilized]]. While Entrenched, the archon can't be forcibly moved or tripped, and it gains a +2 circumstance bonus to AC and Reflex saves. Entrench ends automatically as soon as the bastion archon uses another move action."
   - name: "Holy Beam"
-    desc: "⬺ ([[divine]], [[good]], [[incapacitation]], [[light]]);  The bastion archon releases a blinding beam of holy light in a 500-foot line that deals 20d6 (20d6) good damage to non-archons in the area, with a DC 38 Reflex save. The bastion archon can't use Holy Beam again for 1d4 (1d4) rounds.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature takes half damage.\n__Failure__ The creature takes full damage and is [[blinded|blinded]] for 1d4 (1d4) rounds.\n__Critical Failure__ The creature takes double damage and is [[blinded|blinded]] permanently."
+    desc: "⬺ ([[divine]], [[good]], [[incapacitation]], [[light]]);  The bastion archon releases a blinding beam of holy light in a 500-foot line that deals 20d6 (20d6) good damage to non-archons in the area, with a DC 38 Reflex save. The bastion archon can't use Holy Beam again for 1d4 (1d4) rounds.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature takes half damage.\n__Failure__ The creature takes full damage and is [[rules/conditions.md#Blinded|blinded]] for 1d4 (1d4) rounds.\n__Critical Failure__ The creature takes double damage and is [[rules/conditions.md#Blinded|blinded]] permanently."
 
 speed: 70 feet; air walk;
 
@@ -67,7 +67,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 42, attack +34; __4th__ [[dimension door]] (at will); __7th__ [[prismatic spray]], [[true target]] (3), [[vibrant pattern]]; __10th__ [[meteor swarm]], [[polar ray]], [[sunburst]]; __Constant__ __(10th)__ [[air walk]], [[true seeing]], [[tongues]];"
+    desc: "DC 42, attack +34; __4th__ [[dimension-door|dimension door]] (at will); __7th__ [[prismatic-spray|prismatic spray]], [[true-target|true target]] (3), [[vibrant-pattern|vibrant pattern]]; __10th__ [[meteor-swarm|meteor swarm]], [[polar-ray|polar ray]], [[sunburst]]; __Constant__ __(10th)__ [[air-walk|air walk]], [[true-seeing|true seeing]], [[tongues]];"
 sourcebook: "_Bestiary 2_, page 25."
 ```
 

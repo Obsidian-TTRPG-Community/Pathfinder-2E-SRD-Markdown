@@ -58,13 +58,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ glaive +37 ([[deadly|deadly d8]], [[evil]], [[forceful]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 3d8+17 (3d8+17) slashing plus 2d6 (2d6) evil and 4d6 (4d6) [[persistent damage|persistent bleed]]"
+    desc: "⬻ glaive +37 ([[deadly|deadly d8]], [[evil]], [[forceful]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 3d8+17 (3d8+17) slashing plus 2d6 (2d6) evil and 4d6 (4d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed]]"
   - name: Ranged
-    desc: "⬻ hurled weapon +35 ([[deadly|deadly 1d10]], [[evil]], [[magical]], [[propulsive]], [[range|range 120 feet]]); __Damage__ 2d10+12 (2d10+12) piercing plus 1d6 (1d6) evil and 4d6 (4d6) [[persistent damage|persistent bleed]]"
+    desc: "⬻ hurled weapon +35 ([[deadly|deadly 1d10]], [[evil]], [[magical]], [[propulsive]], [[range|range 120 feet]]); __Damage__ 2d10+12 (2d10+12) piercing plus 1d6 (1d6) evil and 4d6 (4d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed]]"
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 37; __1st__ [[detect alignment]] good only; at will; __4th__ [[dimension door]] (at will); __5th__ [[dimension door]]; __7th__ [[flame strike]], [[teleport]]; __9th__ [[bind soul]], [[blade barrier]], [[chain lightning]]; __Constant__ __(6th)__ [[true seeing]];"
+    desc: "DC 37; __1st__ [[detect-alignment|detect alignment]] good only; at will; __4th__ [[dimension-door|dimension door]] (at will); __5th__ [[dimension-door|dimension door]]; __7th__ [[flame-strike|flame strike]], [[teleport]]; __9th__ [[bind-soul|bind soul]], [[blade-barrier|blade barrier]], [[chain-lightning|chain lightning]]; __Constant__ __(6th)__ [[true-seeing|true seeing]];"
 sourcebook: "_Bestiary 2_, page 62."
 ```
 

@@ -34,7 +34,7 @@ abilityMods: [0, 6, 4, 4, 4, 6]
 
 abilities_mid:
   - name: "Sunset Dependent"
-    desc: "  A hesperid is mystically bonded to a single remote location with a good view of the sunset—usually an island, coastal cliff, or valley. If they aren't at that location and able to see the sky at sunset on any given day, they become [[drained|drained 1]], increasing the value by 1 for each missed sunset and reducing by 1 only when they see the sunset. A hesperid can perform a 24-hour ritual to bond to a new location."
+    desc: "  A hesperid is mystically bonded to a single remote location with a good view of the sunset—usually an island, coastal cliff, or valley. If they aren't at that location and able to see the sky at sunset on any given day, they become [[rules/conditions.md#Drained|drained 1]], increasing the value by 1 for each missed sunset and reducing by 1 only when they see the sunset. A hesperid can perform a 24-hour ritual to bond to a new location."
 abilities_bot:
   - name: "Create Golden Apple"
     desc: "⬺ ([[primal]], [[transmutation]]);  While the hesperid is within their bonded location, they can spin golden light around an object they're holding of up to 20 cubic feet in volume and up to 80 Bulk. Doing so condenses the object into a magic apple made of golden light with light Bulk. The golden apple reverts back to its original shape after a full day away from the hesperid's bonded location, or when the hesperid spends a single action (which has the [[concentrate]] trait) to end the effect."
@@ -55,11 +55,11 @@ attacks:
   - name: Melee
     desc: "⬻ sunset ribbon +21 ([[agile]], [[finesse]]); __Damage__ 2d10+6 (2d10+6) slashing plus 1d6 (1d6) fire and 1d6 (1d6) positive"
   - name: Ranged
-    desc: "⬻ sunset ray +21 ([[magical]], [[range increment|range increment 60 feet]]); __Damage__ 2d12+6 (2d12+6) fire plus 1d6 (1d6) positive"
+    desc: "⬻ sunset ray +21 ([[magical]], [[range-increment|range increment 60 feet]]); __Damage__ 2d12+6 (2d12+6) fire plus 1d6 (1d6) positive"
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 28, attack +20; __Cantrips (5th)__ [[dancing lights]], [[light]]; __1st__ [[illusory disguise]] (3); __2nd__ [[faerie fire]]; __5th__ [[heal]], [[searing light]];"
+    desc: "DC 28, attack +20; __Cantrips (5th)__ [[dancing-lights|dancing lights]], [[light]]; __1st__ [[illusory-disguise|illusory disguise]] (3); __2nd__ [[faerie-fire|faerie fire]]; __5th__ [[heal]], [[searing-light|searing light]];"
 sourcebook: "_Bestiary 3_, page 189."
 ```
 

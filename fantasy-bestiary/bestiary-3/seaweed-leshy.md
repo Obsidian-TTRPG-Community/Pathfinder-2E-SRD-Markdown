@@ -39,7 +39,7 @@ abilities_bot:
   - name: "Change Shape"
     desc: "⬻ ([[concentrate]], [[polymorph]], [[primal]], [[transmutation]]);  As vine leshy, except the seaweed leshy transforms into a patch of seaweed."
   - name: "Sea Spray"
-    desc: "  A seaweed leshy's water jet has enough salt in it to temporarily impair their target's vision. On a hit, the target must succeed at a DC 20 Fortitude save or be [[dazzled|dazzled]] for 1 minute or until it spends 3 [[Interact]] actions wiping the salt out of its eyes. On a critical hit, a target that fails its Fortitude save is also [[blinded|blinded]] for 1 round."
+    desc: "  A seaweed leshy's water jet has enough salt in it to temporarily impair their target's vision. On a hit, the target must succeed at a DC 20 Fortitude save or be [[rules/conditions.md#Dazzled|dazzled]] for 1 minute or until it spends 3 [[Interact]] actions wiping the salt out of its eyes. On a critical hit, a target that fails its Fortitude save is also [[rules/conditions.md#Blinded|blinded]] for 1 round."
 
 speed: 20 feet, swim 20 feet
 
@@ -57,11 +57,11 @@ attacks:
   - name: Melee
     desc: "⬻ seaweed strand +11 ([[agile]], [[finesse]], [[reach|reach 10 feet]]); __Damage__ 1d8+4 (1d8+4) bludgeoning"
   - name: Ranged
-    desc: "⬻ water jet +11 ([[range increment|range increment 30 feet]]); __Damage__ 1d8+4 (1d8+4) bludgeoning plus sea spray"
+    desc: "⬻ water jet +11 ([[range-increment|range increment 30 feet]]); __Damage__ 1d8+4 (1d8+4) bludgeoning plus sea spray"
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 20; __4th__ [[speak with plants]];"
+    desc: "DC 20; __4th__ [[speak-with-plants|speak with plants]];"
 sourcebook: "_Bestiary 3_, page 161."
 ```
 

@@ -33,7 +33,7 @@ abilityMods: [0, -1, 1, 4, 4, 2]
 
 abilities_top:
   - name: "Group Impression"
-    desc: "  When the judge Makes an Impression, they can compare their [[Diplomacy]] check result to the Will DCs of up to four targets instead of one."
+    desc: "  When the judge Makes an Impression, they can compare their [[compendium/skills.md#Diplomacy|Diplomacy]] check result to the Will DCs of up to four targets instead of one."
   - name: Items
     desc: "books (law and rhetoric; worth 3 gp), gavel, judge's robes;"
 

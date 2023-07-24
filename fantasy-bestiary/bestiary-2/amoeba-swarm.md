@@ -37,7 +37,7 @@ abilities_top:
     desc: "  An amoeba swarm can sense nearby creatures through vibration and air or water movement."
 abilities_bot:
   - name: "Swarming Slither"
-    desc: "⬻  The amoeba swarm slithers over each creature in its space, dealing 1d6 (1d6) acid damage (DC 14 basic Reflex save). A creature that critically fails is [[sickened|sickened 1]]."
+    desc: "⬻  The amoeba swarm slithers over each creature in its space, dealing 1d6 (1d6) acid damage (DC 14 basic Reflex save). A creature that critically fails is [[rules/conditions.md#Sickened|sickened 1]]."
   - name: "Weak Acid"
     desc: "  An amoeba's acid damages only organic material—not metal, stone, or other inorganic substances."
 

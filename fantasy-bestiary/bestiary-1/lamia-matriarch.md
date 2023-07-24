@@ -36,7 +36,7 @@ abilities_bot:
   - name: "Dervish Strike"
     desc: "⬽  The lamia matriarch makes a scimitar attack against each enemy within reach. Each attack counts toward their multiple attack penalty, but the penalty does not increase until after all the attacks. The first enemy she damages is subject to matriarch's caress."
   - name: "Matriarch's Caress"
-    desc: "⬺ ([[curse]], [[enchantment]], [[mental]], [[occult]]);  The lamia touches a creature, who must succeed at a DC 28 Will save or become [[stupefied|stupefied 1]] (or [[stupefied|stupefied 2]] on a critical failure). If the target fails additional saves against this ability, the condition value increases by 1 (or 2 if it critically fails; to a maximum of [[stupefied|stupefied 4]]). This condition value decreases by 1 every 24 hours."
+    desc: "⬺ ([[curse]], [[enchantment]], [[mental]], [[occult]]);  The lamia touches a creature, who must succeed at a DC 28 Will save or become [[rules/conditions.md#Stupefied|stupefied 1]] (or [[rules/conditions.md#Stupefied|stupefied 2]] on a critical failure). If the target fails additional saves against this ability, the condition value increases by 1 (or 2 if it critically fails; to a maximum of [[rules/conditions.md#Stupefied|stupefied 4]]). This condition value decreases by 1 every 24 hours."
 abilities_top:
   - name: Items
     desc: "+1 striking scimitar;"
@@ -59,9 +59,9 @@ attacks:
 
 spellcasting:
   - name: "Occult Spontaneous Spells"
-    desc: "DC 28; __Cantrips (3rd)__ [[daze]], [[detect magic]], [[mage hand]], [[prestidigitation]], [[read aura]]; __1st__ (4 slots) [[bless]], [[magic missile]], [[phantom pain]], [[soothe]]; __2nd__ (4 slots) [[blur]], [[death knell]], [[illusory creature]], [[invisibility]]; __3rd__ (4 slots) [[dispel magic]], [[enthrall]], [[haste]], [[mind reading]];"
+    desc: "DC 28; __Cantrips (3rd)__ [[daze]], [[detect-magic|detect magic]], [[mage-hand|mage hand]], [[prestidigitation]], [[read-aura|read aura]]; __1st__ (4 slots) [[bless]], [[magic-missile|magic missile]], [[phantom-pain|phantom pain]], [[soothe]]; __2nd__ (4 slots) [[blur]], [[death-knell|death knell]], [[illusory-creature|illusory creature]], [[invisibility]]; __3rd__ (4 slots) [[dispel-magic|dispel magic]], [[enthrall]], [[haste]], [[mind-reading|mind reading]];"
   - name: "Occult Innate Spells"
-    desc: "DC 28; __1st__ [[ventriloquism]] (at will); __2nd__ [[illusory disguise]] (at will), [[illusory object]] (at will), [[mirror image]]; __3rd__ [[sleep]]; __4th__ [[charm]] (3), [[suggestion]] (3);"
+    desc: "DC 28; __1st__ [[ventriloquism]] (at will); __2nd__ [[illusory-disguise|illusory disguise]] (at will), [[illusory-object|illusory object]] (at will), [[mirror-image|mirror image]]; __3rd__ [[sleep]]; __4th__ [[charm]] (3), [[suggestion]] (3);"
 sourcebook: "_Bestiary_, page 217."
 ```
 

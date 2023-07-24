@@ -36,11 +36,11 @@ abilities_mid:
     desc: "  An object shedding magical light (such as from the [[light]] spell) is treated as magical when used to attack the shadow."
 abilities_bot:
   - name: "Shadow Spawn"
-    desc: "  When a creature's shadow is pulled free by Steal Shadow, it becomes a shadow spawn under the command of the shadow that created it. This shadow spawn doesn't have Steal Shadow and is perpetually and incurably [[clumsy|clumsy 2]]. If the creature the shadow spawn was pulled from dies, the shadow spawn becomes a full-fledged, autonomous shadow. If the creature recovers from its enfeeblement, its shadow returns to it and the shadow spawn is extinguished."
+    desc: "  When a creature's shadow is pulled free by Steal Shadow, it becomes a shadow spawn under the command of the shadow that created it. This shadow spawn doesn't have Steal Shadow and is perpetually and incurably [[rules/conditions.md#Clumsy|clumsy 2]]. If the creature the shadow spawn was pulled from dies, the shadow spawn becomes a full-fledged, autonomous shadow. If the creature recovers from its enfeeblement, its shadow returns to it and the shadow spawn is extinguished."
   - name: "Slink in Shadows"
     desc: "  The shadow can [[Hide]] or end its [[Sneak]] in a creature's or object's shadow."
   - name: "Steal Shadow"
-    desc: "⬻ ([[divine]], [[necromancy]]); __Requirements__ The shadow hit a living creature with a shadow hand [[Strike]] on its previous action  __Effect__  The shadow pulls at the target's shadow, making the creature [[enfeebled|enfeebled 1]]. This is cumulative with other [[enfeebled|enfeebled]] conditions from shadows, to a maximum of [[enfeebled|enfeebled 4]]. If this increases a creature's [[enfeebled|enfeebled]] value to 3 or more, the target's shadow is separated from its body (see shadow spawn). [[Enfeebled|Enfeebled]] from Steal Shadow decreases by 1 every hour."
+    desc: "⬻ ([[divine]], [[necromancy]]); __Requirements__ The shadow hit a living creature with a shadow hand [[Strike]] on its previous action  __Effect__  The shadow pulls at the target's shadow, making the creature [[rules/conditions.md#Enfeebled|enfeebled 1]]. This is cumulative with other [[rules/conditions.md#Enfeebled|enfeebled]] conditions from shadows, to a maximum of [[rules/conditions.md#Enfeebled|enfeebled 4]]. If this increases a creature's [[rules/conditions.md#Enfeebled|enfeebled]] value to 3 or more, the target's shadow is separated from its body (see shadow spawn). [[rules/conditions.md#Enfeebled|Enfeebled]] from Steal Shadow decreases by 1 every hour."
 
 speed: fly 30 feet
 

@@ -40,9 +40,9 @@ abilities_mid:
     desc: "⬲ "
 abilities_bot:
   - name: "Pall of Shadow"
-    desc: " ([[divine]], [[necromancy]], [[shadow]]);  When a shadow giant hits with a melee [[Strike]], the target must succeed at a DC 30 Fortitude save or become [[drained|drained 1]] and take a –1 status penalty to [[Perception]] checks involving sight as long as they remain [[drained|drained]]. On a critical failure, this condition doesn't heal naturally and can be removed only with magic."
+    desc: " ([[divine]], [[necromancy]], [[shadow]]);  When a shadow giant hits with a melee [[Strike]], the target must succeed at a DC 30 Fortitude save or become [[rules/conditions.md#Drained|drained 1]] and take a –1 status penalty to [[compendium/skills.md#Perception|Perception]] checks involving sight as long as they remain [[rules/conditions.md#Drained|drained]]. On a critical failure, this condition doesn't heal naturally and can be removed only with magic."
   - name: "Shadowcloak"
-    desc: "⬻ ([[divine]], [[illusion]], [[shadow]]);  The shadow giant becomes shrouded in shadows and becomes [[concealed|concealed]]. As the nature of this effect leaves the giant's location obvious, it can't use this concealment to [[Hide]] or [[Sneak]]. This effect lasts for 1 minute or until it is exposed to direct sunlight, whichever comes first."
+    desc: "⬻ ([[divine]], [[illusion]], [[shadow]]);  The shadow giant becomes shrouded in shadows and becomes [[rules/conditions.md#Concealed|concealed]]. As the nature of this effect leaves the giant's location obvious, it can't use this concealment to [[Hide]] or [[Sneak]]. This effect lasts for 1 minute or until it is exposed to direct sunlight, whichever comes first."
   - name: "Throw Rock"
     desc: "⬻ "
 
@@ -64,7 +64,7 @@ attacks:
   - name: Melee
     desc: "⬻ fist +26 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 3d8+18 (3d8+18) bludgeoning plus pall of shadow"
   - name: Ranged
-    desc: "⬻ rock +26 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 2d8+18 (2d8+18) bludgeoning"
+    desc: "⬻ rock +26 ([[brutal]], [[range-increment|range increment 120 feet]]); __Damage__ 2d8+18 (2d8+18) bludgeoning"
 
 sourcebook: "_Bestiary 2_, page 127."
 ```

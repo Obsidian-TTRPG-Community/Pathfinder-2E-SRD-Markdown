@@ -33,7 +33,7 @@ abilityMods: [0, 1, 0, 4, 2, 3]
 
 abilities_bot:
   - name: "Glittering Distraction"
-    desc: "⬻ ([[emotion]], [[mental]]);  The tax collector [[Stride|Strides]]. At any point during this movement, they can [[Interact]] to hurl coins. If there are commoners about, this typically causes a scene. Crowds are usually [[terrain|difficult terrain]] and have other effects (Core Rulebook 514)."
+    desc: "⬻ ([[emotion]], [[mental]]);  The tax collector [[Stride|Strides]]. At any point during this movement, they can [[Interact]] to hurl coins. If there are commoners about, this typically causes a scene. Crowds are usually [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] and have other effects (Core Rulebook 514)."
 abilities_top:
   - name: Items
     desc: "[[crossbow]] (10 [[bolt|bolts]]), [[dagger]], collection of expired documents with intact seals, [[merchant's scale]], padded armor, tax documents in scroll case.;"
@@ -54,7 +54,7 @@ attacks:
   - name: Melee
     desc: "⬻ dagger +5 ([[agile]], [[versatile|versatile s]]); __Damage__ 1d4 (1d4) piercing"
   - name: Ranged
-    desc: "⬻ crossbow +5 ([[range increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1d8 (1d8) piercing"
+    desc: "⬻ crossbow +5 ([[range-increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1d8 (1d8) piercing"
 
 sourcebook: "_Gamemastery Guide_, page 224."
 ```

@@ -38,7 +38,7 @@ abilities_top:
   - name: "Rat Empathy"
     desc: " ([[divination]], [[primal]]);  The wererat can communicate with rodents."
   - name: Items
-    desc: "[[hand crossbow]] (20 [[bolt|bolts]]), [[leather armor]], [[shortsword]];"
+    desc: "[[hand-crossbow|hand crossbow]] (20 [[bolt|bolts]]), [[leather-armor|leather armor]], [[shortsword]];"
 abilities_mid:
   - name: "Nimble Dodge"
     desc: "⬲ __Trigger__ The wererat is targeted with a melee or ranged attack by an attacker it can see. __Effect__  The wererat gains a +2 circumstance bonus to AC against the triggering attack."
@@ -50,7 +50,7 @@ abilities_bot:
   - name: "Moon Frenzy"
     desc: " ([[polymorph]], [[primal]], [[transmutation]]); "
   - name: "Sneak Attack"
-    desc: "  The wererat deals 1d6 (1d6) extra precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The wererat deals 1d6 (1d6) extra precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
 
 speed: 25 feet
 
@@ -72,7 +72,7 @@ attacks:
   - name: Melee
     desc: "⬻ jaws +10 ([[finesse]]); __Damage__ 1d8+2 (1d8+2) piercing plus curse of the wererat"
   - name: Ranged
-    desc: "⬻ hand crossbow +10 ([[range increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1d6 (1d6) piercing"
+    desc: "⬻ hand crossbow +10 ([[range-increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1d6 (1d6) piercing"
 
 sourcebook: "_Bestiary_, page 329."
 ```

@@ -40,9 +40,9 @@ abilities_bot:
   - name: "Create Web Weaponry"
     desc: "⬻ ([[manipulate]]);  The Leng spider creates a weapon by applying a cord of webbing to heavy objects, such as rocks or chunks of metal, either attaching two heavy objects together to create a web bola or fastening one to its leg to create a web war flail. Descend on a Web ⬻ (move) The Leng spider moves straight down up to 120 feet, suspended by a web line. It can hang from the web or drop off. The distance it Descends on a Web doesn't count when calculating falling damage. The web can be severed by a [[Strike]] that deals slashing damage (AC 30, Hardness 15, 25 HP), causing the Leng spider to fall."
   - name: "Lay Web Trap"
-    desc: "⬻ ([[manipulate]]);  Frequency three times per day; The Leng spider spins a web within 20 feet of itself to create a grasping snare, stunning snare, or warning snare. The Leng spider's web provides all the raw materials it needs. All save and [[Escape]] DCs associated with web traps use the Leng spider's [[Crafting]] DC for traps (DC 36). A web trap decays after 24 hours."
+    desc: "⬻ ([[manipulate]]);  Frequency three times per day; The Leng spider spins a web within 20 feet of itself to create a grasping snare, stunning snare, or warning snare. The Leng spider's web provides all the raw materials it needs. All save and [[Escape]] DCs associated with web traps use the Leng spider's [[compendium/skills.md#Crafting|Crafting]] DC for traps (DC 36). A web trap decays after 24 hours."
   - name: "Leng Spider Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 33 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d6 (2d6) poison damage and [[drained|drained 1]] (1 round) __Stage 2__ 2d6 (2d6) poison damage, [[confused|confused]], and [[drained|drained 2]]  (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 33 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d6 (2d6) poison damage and [[rules/conditions.md#Drained|drained 1]] (1 round) __Stage 2__ 2d6 (2d6) poison damage, [[rules/conditions.md#Confused|confused]], and [[rules/conditions.md#Drained|drained 2]]  (1 round)"
 
 speed: 40 feet, climb 40 feet; air walk;
 
@@ -64,11 +64,11 @@ attacks:
   - name: Melee
     desc: "⬻ leg +27 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 3d8+14 (3d8+14) slashing"
   - name: Ranged
-    desc: "⬻ web bola +28 ([[magical]], [[nonlethal]], [[ranged trip]], [[thrown|thrown 20 feet]]); __Damage__ 2d6+14 (2d6+14) bludgeoning"
+    desc: "⬻ web bola +28 ([[magical]], [[nonlethal]], [[ranged-trip|ranged trip]], [[thrown|thrown 20 feet]]); __Damage__ 2d6+14 (2d6+14) bludgeoning"
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 33; __Cantrips (7th)__ [[detect magic]]; __4th__ [[charm]] (3), [[freedom of movement]]; __6th__ [[illusory scene]], [[mislead]]; __7th__ [[dispel magic]], [[veil]], [[warp mind]]; __Constant__ __(7th)__ [[air walk]], [[tongues]];"
+    desc: "DC 33; __Cantrips (7th)__ [[detect-magic|detect magic]]; __4th__ [[charm]] (3), [[freedom-of-movement|freedom of movement]]; __6th__ [[illusory-scene|illusory scene]], [[mislead]]; __7th__ [[dispel-magic|dispel magic]], [[veil]], [[warp-mind|warp mind]]; __Constant__ __(7th)__ [[air-walk|air walk]], [[tongues]];"
 sourcebook: "_Bestiary 2_, page 157."
 ```
 

@@ -33,14 +33,14 @@ abilityMods: [2, 4, 1, 0, 3, 0]
 
 abilities_top:
   - name: "Forager"
-    desc: "  While using [[Survival]] to [[Subsist]], if the hunter rolls a failure or a critical failure, they get a success instead. If the hunter rolls a success, they can provide food for 4 additional creatures that eat about as much as a human, or 8 creatures on a critical success."
+    desc: "  While using [[compendium/skills.md#Survival|Survival]] to [[Subsist]], if the hunter rolls a failure or a critical failure, they get a success instead. If the hunter rolls a success, they can provide food for 4 additional creatures that eat about as much as a human, or 8 creatures on a critical success."
   - name: "Snare Crafting"
-    desc: "  The poacher can use the [[Crafting]] skill to create the following snares: alarm snare, hampering snare, marking snare, and signaling snare. The poacher can create four snares each day without paying for the materials, using 3 [[Interact]] actions to set up each snare."
+    desc: "  The poacher can use the [[compendium/skills.md#Crafting|Crafting]] skill to create the following snares: alarm snare, hampering snare, marking snare, and signaling snare. The poacher can create four snares each day without paying for the materials, using 3 [[Interact]] actions to set up each snare."
   - name: Items
     desc: "club, composite shortbow (20 arrows), padded armor, snare kit;"
 abilities_bot:
   - name: "Hunt Prey"
-    desc: "⬻ ([[concentrate]]);  The poacher designates a single creature they can see and hear, or one they're [[Track|Tracking]], as their prey. The poacher gains a +2 circumstance bonus to [[Perception]] checks to [[Seek]] the prey and to [[Survival]] checks to [[Track]] the prey. The first time the poacher hits the designated prey in a round, they deal an additional 1d8 (1d8) precision damage. The poacher also ignores the penalty for making ranged attacks within their second range increment. These effects last until the poacher uses [[Hunt Prey]] again."
+    desc: "⬻ ([[concentrate]]);  The poacher designates a single creature they can see and hear, or one they're [[Track|Tracking]], as their prey. The poacher gains a +2 circumstance bonus to [[compendium/skills.md#Perception|Perception]] checks to [[Seek]] the prey and to [[compendium/skills.md#Survival|Survival]] checks to [[Track]] the prey. The first time the poacher hits the designated prey in a round, they deal an additional 1d8 (1d8) precision damage. The poacher also ignores the penalty for making ranged attacks within their second range increment. These effects last until the poacher uses [[Hunt-Prey|Hunt Prey]] again."
 
 speed: 25 feet
 
@@ -58,7 +58,7 @@ attacks:
   - name: Melee
     desc: "⬻ club +8 __Damage__ 1d6+5 (1d6+5) bludgeoning"
   - name: Ranged
-    desc: "⬻ composite shortbow +10 ([[deadly|deadly 1d10]], [[propulsive]], [[range increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6+3 (1d6+3) piercing"
+    desc: "⬻ composite shortbow +10 ([[deadly|deadly 1d10]], [[propulsive]], [[range-increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6+3 (1d6+3) piercing"
 
 sourcebook: "_Gamemastery Guide_, page 219."
 ```

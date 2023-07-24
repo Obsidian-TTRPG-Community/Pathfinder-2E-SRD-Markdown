@@ -36,11 +36,11 @@ abilities_mid:
     desc: "  A glabrezu's lies sustain them, and the truth can destroy them. Whenever a [[revelation]] effect counteracts or reveals the glabrezu's illusions or the glabrezu fails a save against an effect that would prevent them from lying (such as zone of truth), the demon takes 3d6 (3d6) mental damage. They take this damage only once per effect, even if the effect reveals multiple illusions or prevents multiple lies."
 abilities_bot:
   - name: "Captive Rake"
-    desc: "⬻ __Requirements__ A creature is [[grabbed|grabbed]] in the glabrezu's pincer.  __Effect__  The glabrezu pulls the [[grabbed|grabbed]] creature up to 5 feet closer, then makes two claw [[Strike|Strikes]] against it. Those [[Strike|Strikes]] count as one attack when determining a treachery demon's multiple attack penalty, and the penalty doesn't increase until after both [[Strike|Strikes]]."
+    desc: "⬻ __Requirements__ A creature is [[rules/conditions.md#Grabbed|grabbed]] in the glabrezu's pincer.  __Effect__  The glabrezu pulls the [[rules/conditions.md#Grabbed|grabbed]] creature up to 5 feet closer, then makes two claw [[Strike|Strikes]] against it. Those [[Strike|Strikes]] count as one attack when determining a treachery demon's multiple attack penalty, and the penalty doesn't increase until after both [[Strike|Strikes]]."
   - name: "Steady Spellcasting"
     desc: "  When a reaction would disrupt a glabrezu's spell, the demon can attempt a DC 15 flat check, avoiding the disruption on a success."
   - name: "Sudden Betrayal"
-    desc: "  A glabrezu can always use [[Deception]] when rolling initiative as long as they're aware of at least one opponent before initiative is rolled. When using [[Deception]] for initiative, the demon gains a +2 circumstance bonus to [[Deception]]."
+    desc: "  A glabrezu can always use [[compendium/skills.md#Deception|Deception]] when rolling initiative as long as they're aware of at least one opponent before initiative is rolled. When using [[compendium/skills.md#Deception|Deception]] for initiative, the demon gains a +2 circumstance bonus to [[compendium/skills.md#Deception|Deception]]."
   - name: "Treacherous Veil"
     desc: "  A glabrezu's illusory disguise can allow it to appear as a creature of any size."
   - name: "Twisted Desires"
@@ -68,7 +68,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 34; __Cantrips (7th)__ [[telekinetic projectile]]; __2nd__ [[mirror image]] (at will); __4th__ [[confusion]] (at will), [[dimension door]] (at will); __5th__ [[dimension door]]; __6th__ [[dispel magic]] (at will); __7th__ [[illusory disguise]] (at will), [[reverse gravity]]; __Constant__ __(5th)__ [[tongues]], __(6th)__ [[true seeing]];"
+    desc: "DC 34; __Cantrips (7th)__ [[telekinetic-projectile|telekinetic projectile]]; __2nd__ [[mirror-image|mirror image]] (at will); __4th__ [[confusion]] (at will), [[dimension-door|dimension door]] (at will); __5th__ [[dimension-door|dimension door]]; __6th__ [[dispel-magic|dispel magic]] (at will); __7th__ [[illusory-disguise|illusory disguise]] (at will), [[reverse-gravity|reverse gravity]]; __Constant__ __(5th)__ [[tongues]], __(6th)__ [[true-seeing|true seeing]];"
 sourcebook: "_Bestiary_, page 79."
 ```
 

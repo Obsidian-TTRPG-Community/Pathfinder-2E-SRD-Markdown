@@ -39,14 +39,14 @@ abilities_mid:
   - name: "Frightful Presence"
     desc: " ([[aura]], [[emotion]], [[fear]], [[mental]]);  90 feet, DC 38."
   - name: "Vortex"
-    desc: " ([[aura]], [[water]]);  40 feet. Water in the aura that is also in the same body of water as the dragon is [[terrain|difficult terrain]] for Swimming creatures that don't have the [[water]] trait."
+    desc: " ([[aura]], [[water]]);  40 feet. Water in the aura that is also in the same body of water as the dragon is [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] for Swimming creatures that don't have the [[water]] trait."
   - name: "Attack of Opportunity"
     desc: "⬲  Jaws only."
   - name: "Vortex Pull"
-    desc: "⬲ ([[water]]); __Trigger__ A creature in the dragon's vortex uses a [[Swim]] action. __Effect__  The dragon creates a current of water, forcing the triggering creature to attempt a DC 40 [[Athletics]] check to [[Swim]]. If the creature fails, it's pulled 30 feet toward the dragon and the triggering action is lost. If it succeeds, it can [[Swim]] normally (using the result of that roll if it doesn't have a [[Swim]] speed)."
+    desc: "⬲ ([[water]]); __Trigger__ A creature in the dragon's vortex uses a [[Swim]] action. __Effect__  The dragon creates a current of water, forcing the triggering creature to attempt a DC 40 [[compendium/skills.md#Athletics|Athletics]] check to [[Swim]]. If the creature fails, it's pulled 30 feet toward the dragon and the triggering action is lost. If it succeeds, it can [[Swim]] normally (using the result of that roll if it doesn't have a [[Swim]] speed)."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺  The bronze dragon breathes in one of two ways. The dragon can't use Breath Weapon again for 1d4 (1d4) rounds.<ul class='inner-bullet-list'><li>__Lightning__ (arcane, electricity, evocation); The dragon breathes lightning in a 100-foot line that deals 12d12 (12d12) electricity damage (DC 40 basic Reflex save).</li><li>__Repulsion Gas__ (abjuration, arcane, incapacitation, mental); The dragon breathes a 100-foot line of repulsive gas. Each creature in the area must succeed at a DC 40 Will save or become [[fleeing|fleeing]] from the dragon for 1 round (or 2 rounds on a critical failure).</li></ul>"
+    desc: "⬺  The bronze dragon breathes in one of two ways. The dragon can't use Breath Weapon again for 1d4 (1d4) rounds.<ul class='inner-bullet-list'><li>__Lightning__ (arcane, electricity, evocation); The dragon breathes lightning in a 100-foot line that deals 12d12 (12d12) electricity damage (DC 40 basic Reflex save).</li><li>__Repulsion Gas__ (abjuration, arcane, incapacitation, mental); The dragon breathes a 100-foot line of repulsive gas. Each creature in the area must succeed at a DC 40 Will save or become [[rules/conditions.md#Fleeing|fleeing]] from the dragon for 1 round (or 2 rounds on a critical failure).</li></ul>"
   - name: "Draconic Frenzy"
     desc: "⬺  The dragon makes two claw [[Strike|Strikes]] and one tail [[Strike]] in any order."
   - name: "Draconic Momentum"
@@ -76,7 +76,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 40; __2nd__ [[obscuring mist]] (at will); __5th__ [[control water]] (at will); __Constant__ __(2nd)__ [[speak with animals]];"
+    desc: "DC 40; __2nd__ [[obscuring-mist|obscuring mist]] (at will); __5th__ [[control-water|control water]] (at will); __Constant__ __(2nd)__ [[speak-with-animals|speak with animals]];"
 sourcebook: "_Bestiary_, page 120."
 ```
 

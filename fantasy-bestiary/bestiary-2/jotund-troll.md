@@ -37,16 +37,16 @@ abilities_mid:
   - name: "Head Regrowth"
     desc: "  A jotund troll ordinarily has nine heads, and they can use regeneration to regrow a head that is severed from an effect like a vorpal weapon. After regaining Hit Points from regeneration, the jotund troll attempts a DC 8 flat check. On a success, one missing head is fully restored; on a critical success, two missing heads are fully restored. If a jotund troll loses their last remaining head, they die immediately."
   - name: "Multiple Opportunities"
-    desc: "  A jotund troll gains an extra reaction per round for each of their heads beyond the first, which they can use only to make Attacks of Opportunity with their jaws or to Fast Swallow. They can't use more than 1 reaction for the same triggering action, even if a creature leaves several squares within their reach, and the jotund troll must use a different head for each [[Attack of Opportunity]] they make. Whenever one of the jotund troll's heads is severed, the troll loses 1 of their extra reactions per round."
+    desc: "  A jotund troll gains an extra reaction per round for each of their heads beyond the first, which they can use only to make Attacks of Opportunity with their jaws or to Fast Swallow. They can't use more than 1 reaction for the same triggering action, even if a creature leaves several squares within their reach, and the jotund troll must use a different head for each [[Attack-of-Opportunity|Attack of Opportunity]] they make. Whenever one of the jotund troll's heads is severed, the troll loses 1 of their extra reactions per round."
   - name: "Attack of Opportunity"
     desc: "⬲ "
   - name: "Catch Rock"
     desc: "⬲ "
 abilities_bot:
   - name: "Cacophonous Roar"
-    desc: "⬺ ([[auditory]], [[emotion]], [[enchantment]], [[incapacitation]], [[mental]], [[primal]]);  The jotund troll emits a cacophonous roar from all their heads with a mystical power that distorts the listener's mind. Each non-troll creature within 100 feet must attempt a DC 34 Will save. The jotund troll can't use Cacophonous Roar for 1d4 (1d4) rounds.\n__Critical Success__ The creature is unaffected and is temporarily immune to Cacophonous Roar for 24 hours.\n__Success__ The creature is [[stupefied|stupefied 1]] for 1 round.\n__Failure__ The creature is [[confused|confused]] for 1 round.\n__Critical Failure__ The creature is [[confused|confused]] for 1d4 (1d4) rounds."
+    desc: "⬺ ([[auditory]], [[emotion]], [[enchantment]], [[incapacitation]], [[mental]], [[primal]]);  The jotund troll emits a cacophonous roar from all their heads with a mystical power that distorts the listener's mind. Each non-troll creature within 100 feet must attempt a DC 34 Will save. The jotund troll can't use Cacophonous Roar for 1d4 (1d4) rounds.\n__Critical Success__ The creature is unaffected and is temporarily immune to Cacophonous Roar for 24 hours.\n__Success__ The creature is [[rules/conditions.md#Stupefied|stupefied 1]] for 1 round.\n__Failure__ The creature is [[rules/conditions.md#Confused|confused]] for 1 round.\n__Critical Failure__ The creature is [[rules/conditions.md#Confused|confused]] for 1d4 (1d4) rounds."
   - name: "Fast Swallow"
-    desc: "⬲ __Trigger__ The jotund troll Grabs a creature with their jaws __Effect__  The troll uses [[Swallow Whole]]."
+    desc: "⬲ __Trigger__ The jotund troll Grabs a creature with their jaws __Effect__  The troll uses [[Swallow-Whole|Swallow Whole]]."
   - name: "Ravenous Jaws"
     desc: "⬺  The jotund troll makes a number of jaws [[Strike|Strikes]] up to their number of heads, each against a different target. These attacks count toward the troll's multiple attack penalty, but the penalty doesn't increase until after the jotund troll makes all of these attacks."
   - name: "Rend"
@@ -74,7 +74,7 @@ attacks:
   - name: Melee
     desc: "⬻ claw +29 ([[agile]], [[reach|reach 15 feet]]); __Damage__ 3d10+14 (3d10+14) slashing"
   - name: Ranged
-    desc: "⬻ rock +30 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 2d12+14 (2d12+14) bludgeoning"
+    desc: "⬻ rock +30 ([[brutal]], [[range-increment|range increment 120 feet]]); __Damage__ 2d12+14 (2d12+14) bludgeoning"
 
 sourcebook: "_Bestiary 2_, page 267."
 ```

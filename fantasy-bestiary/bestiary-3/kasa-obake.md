@@ -31,10 +31,10 @@ abilityMods: [2, 4, 1, 3, 5, 3]
 
 abilities_mid:
   - name: "Fade Away"
-    desc: "⬲ __Trigger__ A creature damages the kasa-obake, and the kasa-obake is in dim light or darkness __Effect__  The kasa-obake fades from view and becomes [[concealed|concealed]] to the triggering creature until the end of that creature's turn; if the kasaobake was already [[concealed|concealed]] to the triggering creature due to the light level, they become [[hidden|hidden]] instead."
+    desc: "⬲ __Trigger__ A creature damages the kasa-obake, and the kasa-obake is in dim light or darkness __Effect__  The kasa-obake fades from view and becomes [[rules/conditions.md#Concealed|concealed]] to the triggering creature until the end of that creature's turn; if the kasaobake was already [[rules/conditions.md#Concealed|concealed]] to the triggering creature due to the light level, they become [[rules/conditions.md#Hidden|hidden]] instead."
 abilities_bot:
   - name: "Jump Scare"
-    desc: " ([[emotion]], [[fear]], [[incapacitation]], [[mental]]);  If a kasa-obake successfully Demoralizes a creature and they were [[hidden|hidden]] to the creature before the attempt to [[Demoralize]], the creature must succeed at a DC 21 Will save or be [[stunned|stunned]] for 1 round."
+    desc: " ([[emotion]], [[fear]], [[incapacitation]], [[mental]]);  If a kasa-obake successfully Demoralizes a creature and they were [[rules/conditions.md#Hidden|hidden]] to the creature before the attempt to [[Demoralize]], the creature must succeed at a DC 21 Will save or be [[rules/conditions.md#Stunned|stunned]] for 1 round."
 
 speed: 25 feet
 

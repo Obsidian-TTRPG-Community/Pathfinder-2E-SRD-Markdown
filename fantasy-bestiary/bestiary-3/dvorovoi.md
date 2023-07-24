@@ -37,7 +37,7 @@ abilities_top:
     desc: "pitchfork;"
 abilities_mid:
   - name: "Shy"
-    desc: "  A domovoi is naturally [[invisible|invisible]] while within sight of their bound home. The domovoi can become visible, or even selectively visible—allowing some people to see them."
+    desc: "  A domovoi is naturally [[rules/conditions.md#Invisible|invisible]] while within sight of their bound home. The domovoi can become visible, or even selectively visible—allowing some people to see them."
 
 speed: 30 feet
 
@@ -57,7 +57,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 18; __Cantrips (2nd)__ [[prestidigitation]], [[mage hand]]; __1st__ [[charm]] animals only, [[command]] animals only, [[mending]]; __2nd__ [[entangle]], [[speak with animals]] (at will);"
+    desc: "DC 18; __Cantrips (2nd)__ [[prestidigitation]], [[mage-hand|mage hand]]; __1st__ [[charm]] animals only, [[command]] animals only, [[mending]]; __2nd__ [[entangle]], [[speak-with-animals|speak with animals]] (at will);"
 sourcebook: "_Bestiary 3_, page 137."
 ```
 

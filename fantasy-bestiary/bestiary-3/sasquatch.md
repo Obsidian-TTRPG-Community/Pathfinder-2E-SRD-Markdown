@@ -35,12 +35,12 @@ abilities_mid:
   - name: "Catch Rock"
     desc: "⬲ "
   - name: "Emerge From Undergrowth"
-    desc: "⭓ __Trigger__ The sasquatch is in forest terrain and rolls [[Stealth]] for Initiative __Effect__  The sasquatch [[Stride|Strides]] up to half their Speed, after which they attempt to [[Demoralize]] a single creature within 15 feet."
+    desc: "⭓ __Trigger__ The sasquatch is in forest terrain and rolls [[compendium/skills.md#Stealth|Stealth]] for Initiative __Effect__  The sasquatch [[Stride|Strides]] up to half their Speed, after which they attempt to [[Demoralize]] a single creature within 15 feet."
 abilities_bot:
   - name: "Brutal Blows"
-    desc: "  On a critical hit with a fist [[Strike]], the target is knocked [[prone|prone]] by the blow."
+    desc: "  On a critical hit with a fist [[Strike]], the target is knocked [[rules/conditions.md#Prone|prone]] by the blow."
   - name: "Forest Stride"
-    desc: "  The sasquatch ignores [[terrain|difficult terrain]] in forests."
+    desc: "  The sasquatch ignores [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] in forests."
   - name: "Pungent"
     desc: "  The sasquatch's odor is quite powerful and can be detected at twice the normal distance by scent."
   - name: "Threatening Visage"
@@ -64,7 +64,7 @@ attacks:
   - name: Melee
     desc: "⬻ fist +11 __Damage__ 1d10+5 (1d10+5) bludgeoning"
   - name: Ranged
-    desc: "⬻ rock +9 ([[brutal]], [[range increment|range increment 30 feet]]); __Damage__ 1d6+5 (1d6+5) bludgeoning"
+    desc: "⬻ rock +9 ([[brutal]], [[range-increment|range increment 30 feet]]); __Damage__ 1d6+5 (1d6+5) bludgeoning"
 
 sourcebook: "_Bestiary 3_, page 225."
 ```

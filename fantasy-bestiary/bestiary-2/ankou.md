@@ -32,9 +32,9 @@ abilityMods: [7, 8, 4, 2, 2, 5]
 
 abilities_bot:
   - name: "Shadow Doubles"
-    desc: "⬻ to ⬽ ([[illusion]], [[occult]], [[shadow]]); __Frequency__ once per day  __Effect__  For each action spent to use this ability, the ankou creates one shadowy duplicate of themself anywhere within 60 feet of themself. Shadow doubles have the same statistics as an ankou, but they have the summoned trait, have 84 Hit Points, can't use Shadow Doubles or innate spells, and have an attack bonus of +25 for their [[Strike|Strikes]]. A shadow double that attempts a saving throw against a [[light]] effect can't get a result better than failure. Each double remains for 1 round, until it's reduced to 0 Hit Points, or until it moves further than 120 feet from the ankou, whichever comes first. Each round thereafter, the ankou can spend a single action that has the [[concentrate]] trait to extend the duration of surviving duplicates by 1 round, to a maximum duration of 1 minute. The ankou can see through the eyes of all of the shadow doubles at once. A character who Seeks can identify an ankou as real or a shadow double with a successful DC 39 [[Perception]] check."
+    desc: "⬻ to ⬽ ([[illusion]], [[occult]], [[shadow]]); __Frequency__ once per day  __Effect__  For each action spent to use this ability, the ankou creates one shadowy duplicate of themself anywhere within 60 feet of themself. Shadow doubles have the same statistics as an ankou, but they have the summoned trait, have 84 Hit Points, can't use Shadow Doubles or innate spells, and have an attack bonus of +25 for their [[Strike|Strikes]]. A shadow double that attempts a saving throw against a [[light]] effect can't get a result better than failure. Each double remains for 1 round, until it's reduced to 0 Hit Points, or until it moves further than 120 feet from the ankou, whichever comes first. Each round thereafter, the ankou can spend a single action that has the [[concentrate]] trait to extend the duration of surviving duplicates by 1 round, to a maximum duration of 1 minute. The ankou can see through the eyes of all of the shadow doubles at once. A character who Seeks can identify an ankou as real or a shadow double with a successful DC 39 [[compendium/skills.md#Perception|Perception]] check."
   - name: "Sneak Attack"
-    desc: "  An ankou's [[Strike|Strikes]] deal an additional 2d6 (2d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  An ankou's [[Strike|Strikes]] deal an additional 2d6 (2d6) precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
 
 speed: fly 75 feet
 
@@ -50,13 +50,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +29 ([[agile]], [[cold iron]]); __Damage__ 3d6+15 (3d6+15) slashing"
+    desc: "⬻ claw +29 ([[agile]], [[cold-iron|cold iron]]); __Damage__ 3d6+15 (3d6+15) slashing"
   - name: Melee
-    desc: "⬻ wing +29 ([[cold iron]], [[reach|reach 10 feet]]); __Damage__ 2d6+15 (2d6+15) piercing plus 2d6 (2d6) [[persistent damage|persistent bleed]]"
+    desc: "⬻ wing +29 ([[cold-iron|cold iron]], [[reach|reach 10 feet]]); __Damage__ 2d6+15 (2d6+15) piercing plus 2d6 (2d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed]]"
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 34, attack +26; __1st__ [[ray of enfeeblement]]; __2nd__ [[silence]]; __4th__ [[darkness]] (at will), [[dimensional anchor]]; __6th__ [[true seeing]]; __7th__ [[prismatic spray]], [[teleport]]; __8th__ [[discern location]];"
+    desc: "DC 34, attack +26; __1st__ [[ray-of-enfeeblement|ray of enfeeblement]]; __2nd__ [[silence]]; __4th__ [[darkness]] (at will), [[dimensional-anchor|dimensional anchor]]; __6th__ [[true-seeing|true seeing]]; __7th__ [[prismatic-spray|prismatic spray]], [[teleport]]; __8th__ [[discern-location|discern location]];"
 sourcebook: "_Bestiary 2_, page 19."
 ```
 

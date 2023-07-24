@@ -39,13 +39,13 @@ abilities_mid:
     desc: "⬲  Jaws only."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺  The umbral dragon breathes in one of two ways. They can't use Breath Weapon again for 1d4 (1d4) rounds.<ul class='inner-bullet-list'><li>__Negative__ (necromancy, negative, primal) The dragon breathes a blast of darkness in a 50-foot cone that deals 21d6 (21d6) negative damage (DC 42 basic Reflex save). Undead creatures take 25d6 (25d6) force damage instead of the negative damage.</li><li>__Shadows__ (necromancy, primal, shadow) The dragon breathes a blast of shadows in a 50-foot cone. Each creature within the cone must attempt a DC 42 Fortitude save.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is [[enfeebled|enfeebled 3]] for 1 round.\n__Failure__ The creature is [[enfeebled|enfeebled 3]] for 1 minute.\n__Critical Failure__ The creature is [[enfeebled|enfeebled 3]] for 1 minute and [[blinded]] for 1 round.</li></ul>"
+    desc: "⬺  The umbral dragon breathes in one of two ways. They can't use Breath Weapon again for 1d4 (1d4) rounds.<ul class='inner-bullet-list'><li>__Negative__ (necromancy, negative, primal) The dragon breathes a blast of darkness in a 50-foot cone that deals 21d6 (21d6) negative damage (DC 42 basic Reflex save). Undead creatures take 25d6 (25d6) force damage instead of the negative damage.</li><li>__Shadows__ (necromancy, primal, shadow) The dragon breathes a blast of shadows in a 50-foot cone. Each creature within the cone must attempt a DC 42 Fortitude save.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is [[rules/conditions.md#Enfeebled|enfeebled 3]] for 1 round.\n__Failure__ The creature is [[rules/conditions.md#Enfeebled|enfeebled 3]] for 1 minute.\n__Critical Failure__ The creature is [[rules/conditions.md#Enfeebled|enfeebled 3]] for 1 minute and [[blinded]] for 1 round.</li></ul>"
   - name: "Draconic Frenzy"
     desc: "⬺  The dragon makes two claw [[Strike|Strikes]] and one wing [[Strike]] in any order."
   - name: "Draconic Momentum"
     desc: "  The dragon recharges their Breath Weapon whenever they score a critical hit with a [[Strike]]."
   - name: "Drain Vigor"
-    desc: " ([[primal]], [[necromancy]]);  When the dragon deals negative damage to a living creature with its jaws [[Strike]], the umbral dragon gains 20 temporary Hit Points and the creature must succeed at a DC 41 Fortitude save or become [[enfeebled|enfeebled 2]]. Further damage dealt by the dragon's jaws [[Strike]] increases the [[enfeebled|enfeebled]] condition value by 2 on a failed save, to a maximum of [[enfeebled|enfeebled 4]]."
+    desc: " ([[primal]], [[necromancy]]);  When the dragon deals negative damage to a living creature with its jaws [[Strike]], the umbral dragon gains 20 temporary Hit Points and the creature must succeed at a DC 41 Fortitude save or become [[rules/conditions.md#Enfeebled|enfeebled 2]]. Further damage dealt by the dragon's jaws [[Strike]] increases the [[rules/conditions.md#Enfeebled|enfeebled]] condition value by 2 on a failed save, to a maximum of [[rules/conditions.md#Enfeebled|enfeebled 4]]."
   - name: "Ghost Bane"
     desc: "  An umbral dragon's [[Strike|Strikes]] affect incorporeal creatures with the effects of a ghost touch property rune, and an umbral dragon's jaws deal an additional 8d6 (8d6) force damage to undead."
 
@@ -65,7 +65,7 @@ attacks:
   - name: Melee
     desc: "⬻ jaws +38 ([[negative]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 4d10+18 (4d10+18) piercing plus 4d6 (4d6) negative and drain vigor"
   - name: Melee
-    desc: "⬻ claw +38 ([[agile magical]], [[reach|reach 15 feet]]); __Damage__ 4d10+18 (4d10+18) slashing"
+    desc: "⬻ claw +38 ([[agile-magical|agile magical]], [[reach|reach 15 feet]]); __Damage__ 4d10+18 (4d10+18) slashing"
   - name: Melee
     desc: "⬻ tail +36 ([[magical]], [[reach|reach 25 feet]]); __Damage__ 4d12+18 (4d12+18) slashing"
   - name: Melee
@@ -73,7 +73,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 42; __Cantrips (10th)__ [[detect magic]]; __8th__ [[vampiric exsanguination]] (at will); __9th__ [[darkness]] (at will), [[finger of death]]; __10th__ [[massacre]];"
+    desc: "DC 42; __Cantrips (10th)__ [[detect-magic|detect magic]]; __8th__ [[vampiric-exsanguination|vampiric exsanguination]] (at will); __9th__ [[darkness]] (at will), [[finger-of-death|finger of death]]; __10th__ [[massacre]];"
 sourcebook: "_Bestiary 2_, page 97."
 ```
 

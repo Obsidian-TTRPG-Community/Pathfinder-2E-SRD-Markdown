@@ -32,9 +32,9 @@ abilityMods: [4, 3, 3, 2, 3, 4]
 
 abilities_bot:
   - name: "Drider Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 23 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d8 (1d8) poison damage and [[enfeebled|enfeebled 1]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 23 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d8 (1d8) poison damage and [[rules/conditions.md#Enfeebled|enfeebled 1]] (1 round)"
   - name: "Web Trap"
-    desc: "  A creature hit by a drider's web attack is [[immobilized|immobilized]] and stuck to the nearest surface ([[Escape]] DC 21)."
+    desc: "  A creature hit by a drider's web attack is [[rules/conditions.md#Immobilized|immobilized]] and stuck to the nearest surface ([[Escape]] DC 21)."
 abilities_top:
   - name: Items
     desc: "+1 composite longbow (20 arrows), glaive;"
@@ -57,15 +57,15 @@ attacks:
   - name: Melee
     desc: "⬻ fangs +16 __Damage__ 1d6+10 (1d6+10) piercing plus drider venom"
   - name: Ranged
-    desc: "⬻ composite longbow +16 ([[deadly|deadly d10]], [[magical]], [[propulsive]], [[range increment|range increment 100 feet]], [[reload|reload 0]], [[volley|volley 50 feet]]); __Damage__ 1d8+8 (1d8+8) piercing"
+    desc: "⬻ composite longbow +16 ([[deadly|deadly d10]], [[magical]], [[propulsive]], [[range-increment|range increment 100 feet]], [[reload|reload 0]], [[volley|volley 50 feet]]); __Damage__ 1d8+8 (1d8+8) piercing"
   - name: Ranged
-    desc: "⬻ web +15 ([[range increment|range increment 30 feet]]); __Damage__ web trap"
+    desc: "⬻ web +15 ([[range-increment|range increment 30 feet]]); __Damage__ web trap"
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 20; __Cantrips (3rd)__ [[dancing lights]], [[detect magic]]; __2nd__ [[darkness]] (at will), [[faerie fire]] (at will); __3rd__ [[clairaudience]], [[dispel magic]], [[levitate]]; __4th__ [[clairvoyance]], [[suggestion]];"
+    desc: "DC 20; __Cantrips (3rd)__ [[dancing-lights|dancing lights]], [[detect-magic|detect magic]]; __2nd__ [[darkness]] (at will), [[faerie-fire|faerie fire]] (at will); __3rd__ [[clairaudience]], [[dispel-magic|dispel magic]], [[levitate]]; __4th__ [[clairvoyance]], [[suggestion]];"
   - name: "Arcane Prepared Spells"
-    desc: "DC 24, attack +17; __Cantrips (3rd)__ [[ghost sound]], [[mage hand]], [[ray of frost]]; __1st__ [[magic missile]] (2), [[ray of enfeeblement]]; __2nd__ [[acid arrow]], [[invisibility]]; __3rd__ [[fireball]];"
+    desc: "DC 24, attack +17; __Cantrips (3rd)__ [[ghost-sound|ghost sound]], [[mage-hand|mage hand]], [[ray-of-frost|ray of frost]]; __1st__ [[magic-missile|magic missile]] (2), [[ray-of-enfeeblement|ray of enfeeblement]]; __2nd__ [[acid-arrow|acid arrow]], [[invisibility]]; __3rd__ [[fireball]];"
 sourcebook: "_Bestiary_, page 159."
 ```
 

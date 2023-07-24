@@ -33,7 +33,7 @@ abilityMods: [1, 3, 1, 0, 0, 4]
 
 abilities_bot:
   - name: "Fascinating Dance"
-    desc: "⬻ __Frequency__ once per round  __Effect__  The dancer [[Stride|Strides]] up to their Speed. Once during this movement, when the dancer is adjacent to a creature, the dancer can make that creature attempt a DC 17 Will save. On a failure, that creature is [[fascinated|fascinated]] with the dancer until the end of its next turn."
+    desc: "⬻ __Frequency__ once per round  __Effect__  The dancer [[Stride|Strides]] up to their Speed. Once during this movement, when the dancer is adjacent to a creature, the dancer can make that creature attempt a DC 17 Will save. On a failure, that creature is [[rules/conditions.md#Fascinated|fascinated]] with the dancer until the end of its next turn."
 abilities_top:
   - name: Items
     desc: "dagger (3), jewelry and clothes (worth 10 gp);"

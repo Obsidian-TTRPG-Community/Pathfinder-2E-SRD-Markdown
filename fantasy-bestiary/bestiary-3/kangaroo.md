@@ -31,7 +31,7 @@ abilityMods: [3, 2, 3, -4, 1, 1]
 
 abilities_top:
   - name: "Powerful Leaper"
-    desc: "  The kangaroo doesn't need to [[Stride]] while attempting a [[Long Jump]], nor does it automatically fail if it doesn't."
+    desc: "  The kangaroo doesn't need to [[Stride]] while attempting a [[Long-Jump|Long Jump]], nor does it automatically fail if it doesn't."
 abilities_mid:
   - name: "Defensive Shove"
     desc: "⬲ __Trigger__ The kangaroo takes damage from an adjacent creature __Effect__  The kangaroo attempts to [[Shove]] the creature that damaged it."

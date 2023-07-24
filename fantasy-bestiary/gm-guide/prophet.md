@@ -54,9 +54,9 @@ attacks:
 
 spellcasting:
   - name: "Divine Spontaneous Spells"
-    desc: "DC 18, attack +10; __Cantrips (1st)__ [[daze]], [[detect magic]], [[guidance]], [[know direction]], [[light]], [[prestidigitation]], [[read aura]]; __1st__ (4 slots) [[bless]], [[heal]], [[ray of enfeeblement]], [[sanctuary]];"
+    desc: "DC 18, attack +10; __Cantrips (1st)__ [[daze]], [[detect-magic|detect magic]], [[guidance]], [[know-direction|know direction]], [[light]], [[prestidigitation]], [[read-aura|read aura]]; __1st__ (4 slots) [[bless]], [[heal]], [[ray-of-enfeeblement|ray of enfeeblement]], [[sanctuary]];"
   - name: "Cleric Domain Spells"
-    desc: "DC 18, (1 Focus Point); __1st__ [[read fate]];"
+    desc: "DC 18, (1 Focus Point); __1st__ [[read-fate|read fate]];"
 sourcebook: "_Gamemastery Guide_, page 212."
 ```
 

@@ -37,9 +37,9 @@ abilities_bot:
   - name: "Emit Spores"
     desc: "⬻ __Frequency__ once per day  __Effect__  The myceloid expels spores in a 10-foot burst centered on a corner of its own space. This cloud lasts until the start of the myceloid's next turn. Each creature that is in the cloud or enters it is exposed to purple pox."
   - name: "Purple Pox"
-    desc: " ([[disease]]);  __Saving Throw__ DC 20 Fortitude. __Stage 1__ 2d6 (2d6) poison damage and [[stupefied|stupefied 1]] (1 day) __Stage 2__ 6d6 (6d6) poison damage, [[stupefied|stupefied 3]], and the creature is compelled to seek out the nearest myceloid colony—this compulsion is a mental [[emotion]] effect (1 day) __Stage 3__ The creature dies. (null)"
+    desc: " ([[disease]]);  __Saving Throw__ DC 20 Fortitude. __Stage 1__ 2d6 (2d6) poison damage and [[rules/conditions.md#Stupefied|stupefied 1]] (1 day) __Stage 2__ 6d6 (6d6) poison damage, [[rules/conditions.md#Stupefied|stupefied 3]], and the creature is compelled to seek out the nearest myceloid colony—this compulsion is a mental [[emotion]] effect (1 day) __Stage 3__ The creature dies. (null)"
   - name: "Spore Domination"
-    desc: "⬺ ([[emotion]], [[enchantment]], [[incapacitation]], [[mental]], [[primal]]);  The myceloid targets one creature affected by purple pox within 60 feet. That creature must attempt a DC 22 Will save. It is then temporarily immune to spore domination for 10 minutes.\n__Critical Success__ The target is unaffected.\n__Success__ Until the end of its next turn, the target is [[helpful|helpful]] to myceloids and can't take [[hostile|hostile]] actions against them.\n__Failure__ As success, but for 1 minute.\n__Critical Failure__ As success, but until the purple pox is cured."
+    desc: "⬺ ([[emotion]], [[enchantment]], [[incapacitation]], [[mental]], [[primal]]);  The myceloid targets one creature affected by purple pox within 60 feet. That creature must attempt a DC 22 Will save. It is then temporarily immune to spore domination for 10 minutes.\n__Critical Success__ The target is unaffected.\n__Success__ Until the end of its next turn, the target is [[rules/conditions.md#Helpful|helpful]] to myceloids and can't take [[rules/conditions.md#Hostile|hostile]] actions against them.\n__Failure__ As success, but for 1 minute.\n__Critical Failure__ As success, but until the purple pox is cured."
 
 speed: 20 feet
 

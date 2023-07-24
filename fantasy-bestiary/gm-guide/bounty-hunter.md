@@ -33,7 +33,7 @@ abilityMods: [3, 4, 1, 0, 4, 1]
 
 abilities_bot:
   - name: "Hunt Prey"
-    desc: "⬻ ([[concentrate]]);  The bounty hunter designates a single creature they can see and hear, or one they're [[Track|Tracking]], as their prey. The bounty hunter gains a +2 circumstance bonus to [[Perception]] checks to [[Seek]] the prey and to [[Survival]] checks to [[Track]] the prey. This effect lasts until the bounty hunter uses [[Hunt Prey]] again."
+    desc: "⬻ ([[concentrate]]);  The bounty hunter designates a single creature they can see and hear, or one they're [[Track|Tracking]], as their prey. The bounty hunter gains a +2 circumstance bonus to [[compendium/skills.md#Perception|Perception]] checks to [[Seek]] the prey and to [[compendium/skills.md#Survival|Survival]] checks to [[Track]] the prey. This effect lasts until the bounty hunter uses [[Hunt-Prey|Hunt Prey]] again."
   - name: "Running Reload"
     desc: "⬻  The bounty hunter [[Stride]], [[Step|Steps]], or [[Sneak|Sneaks]], and then Interacts to reload."
   - name: "Precision Edge"
@@ -58,7 +58,7 @@ attacks:
   - name: Melee
     desc: "⬻ falchion +13 ([[forceful]], [[sweep]]); __Damage__ 1d10+6 (1d10+6) slashing"
   - name: Ranged
-    desc: "⬻ crossbow +14 ([[range increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1d10+5 (1d10+5) piercing"
+    desc: "⬻ crossbow +14 ([[range-increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1d10+5 (1d10+5) piercing"
 
 sourcebook: "_Gamemastery Guide_, page 227."
 ```

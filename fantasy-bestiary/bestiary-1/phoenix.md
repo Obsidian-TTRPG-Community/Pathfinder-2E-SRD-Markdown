@@ -55,15 +55,15 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ beak +30 ([[finesse]], [[fire]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 1d12+9 (1d12+9) piercing plus 3d8 (3d8) fire and 2d10 (2d10) [[persistent damage|persistent fire]]"
+    desc: "⬻ beak +30 ([[finesse]], [[fire]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 1d12+9 (1d12+9) piercing plus 3d8 (3d8) fire and 2d10 (2d10) [[rules/conditions.md#Persistent%20Damage|persistent fire]]"
   - name: Melee
-    desc: "⬻ talon +30 ([[agile]], [[finesse]], [[fire]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 1d6+6 (1d6+6) piercing plus 3d8 (3d8) fire and 2d10 (2d10) [[persistent damage|persistent fire]]"
+    desc: "⬻ talon +30 ([[agile]], [[finesse]], [[fire]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 1d6+6 (1d6+6) piercing plus 3d8 (3d8) fire and 2d10 (2d10) [[rules/conditions.md#Persistent%20Damage|persistent fire]]"
   - name: Ranged
-    desc: "⬻ flame jet +30 ([[fire]], [[range increment|range increment 40 feet]]); __Damage__ 6d6 (6d6) fire plus 2d10 (2d10) [[persistent damage|persistent fire]]"
+    desc: "⬻ flame jet +30 ([[fire]], [[range-increment|range increment 40 feet]]); __Damage__ 6d6 (6d6) fire plus 2d10 (2d10) [[rules/conditions.md#Persistent%20Damage|persistent fire]]"
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 39; __Cantrips (8th)__ [[light]]; __6th__ [[restoration]] (3); __7th__ [[dispel magic]] (at will); __8th__ [[continual flame]] (at will), [[dispel magic]] (3), [[flame strike]], [[heal]] (3), [[remove curse]], [[wall of fire]] (3); __Constant__ __(6th)__ [[see invisibility]], __(8th)__ [[detect magic]];"
+    desc: "DC 39; __Cantrips (8th)__ [[light]]; __6th__ [[restoration]] (3); __7th__ [[dispel-magic|dispel magic]] (at will); __8th__ [[continual-flame|continual flame]] (at will), [[dispel-magic|dispel magic]] (3), [[flame-strike|flame strike]], [[heal]] (3), [[remove-curse|remove curse]], [[wall-of-fire|wall of fire]] (3); __Constant__ __(6th)__ [[see-invisibility|see invisibility]], __(8th)__ [[detect-magic|detect magic]];"
 sourcebook: "_Bestiary_, page 261."
 ```
 

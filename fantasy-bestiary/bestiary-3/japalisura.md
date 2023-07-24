@@ -41,9 +41,9 @@ abilities_top:
     desc: "hatchet (2), +1 striking composite shortbow (2);"
 abilities_bot:
   - name: "False Foe"
-    desc: "⬻ ([[divine]], [[enchantment]], [[incapacitation]], [[mental]]); __Frequency__ once per round  __Effect__  The japalisura whispers misleading words and falsehoods to one adjacent creature, attempting a [[Deception]] check against the target's [[Perception]] DC.\n__Critical Success__ For 1 minute, the target believes that one creature of the japalisura's choice is its mortal foe, spending all its actions to reach and attack that creature. At the end of each of its turns, the target can attempt a DC 32 Will save to end the effect early.\n__Success__ As critical success except the effect ends at the end of the creature's first turn, without the need for a Will save.\n__Failure__ The target sees through the japalisura's attempts at misdirection and is temporarily immune to False Foe for 1 day."
+    desc: "⬻ ([[divine]], [[enchantment]], [[incapacitation]], [[mental]]); __Frequency__ once per round  __Effect__  The japalisura whispers misleading words and falsehoods to one adjacent creature, attempting a [[compendium/skills.md#Deception|Deception]] check against the target's [[compendium/skills.md#Perception|Perception]] DC.\n__Critical Success__ For 1 minute, the target believes that one creature of the japalisura's choice is its mortal foe, spending all its actions to reach and attack that creature. At the end of each of its turns, the target can attempt a DC 32 Will save to end the effect early.\n__Success__ As critical success except the effect ends at the end of the creature's first turn, without the need for a Will save.\n__Failure__ The target sees through the japalisura's attempts at misdirection and is temporarily immune to False Foe for 1 day."
   - name: "Veil of Lies"
-    desc: "  Japalisuras can produce infinite arrows, as if from an [[invisible|invisible]] quiver. Each arrow carries a veil of lies that tears at the target's psyche, dealing 4d6 (4d6) mental damage while simultaneously imparting an almost addictively sweet sensation. A japalisura's hatchets are also soaked in the same veil of lies. This damage s already reflected in the [[Strike|Strikes]] above."
+    desc: "  Japalisuras can produce infinite arrows, as if from an [[rules/conditions.md#Invisible|invisible]] quiver. Each arrow carries a veil of lies that tears at the target's psyche, dealing 4d6 (4d6) mental damage while simultaneously imparting an almost addictively sweet sensation. A japalisura's hatchets are also soaked in the same veil of lies. This damage s already reflected in the [[Strike|Strikes]] above."
 
 speed: 40 feet
 
@@ -65,7 +65,7 @@ attacks:
 
 spellcasting:
   - name: "Innate Divine Spells"
-    desc: "DC 32; __6th__ [[illusory disguise]], [[read omens]] (at will), [[augury]] (at will); __Constant__ __(6th)__ [[magic aura]], [[nondetection]], [[see invisibility]];"
+    desc: "DC 32; __6th__ [[illusory-disguise|illusory disguise]], [[read-omens|read omens]] (at will), [[augury]] (at will); __Constant__ __(6th)__ [[magic-aura|magic aura]], [[nondetection]], [[see-invisibility|see invisibility]];"
 sourcebook: "_Bestiary 3_, page 23."
 ```
 

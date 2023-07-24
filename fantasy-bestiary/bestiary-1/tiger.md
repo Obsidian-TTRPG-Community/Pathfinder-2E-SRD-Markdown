@@ -31,11 +31,11 @@ abilityMods: [5, 3, 3, -4, 2, -2]
 
 abilities_bot:
   - name: "Pounce"
-    desc: "⬻  The tiger [[Stride|Strides]] and makes a [[Strike]] at the end of that movement. If the tiger began this action [[hidden|hidden]], it remains [[hidden|hidden]] until after this ability's [[Strike]]."
+    desc: "⬻  The tiger [[Stride|Strides]] and makes a [[Strike]] at the end of that movement. If the tiger began this action [[rules/conditions.md#Hidden|hidden]], it remains [[rules/conditions.md#Hidden|hidden]] until after this ability's [[Strike]]."
   - name: "Sneak Attack"
-    desc: "  The tiger deals 1d6 (1d6) extra precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The tiger deals 1d6 (1d6) extra precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
   - name: "Wrestle"
-    desc: "⬻  The tiger makes a claw [[Strike]] against a creature it is grabbing. If the attack hits, that creature is knocked [[prone|prone]]."
+    desc: "⬻  The tiger makes a claw [[Strike]] against a creature it is grabbing. If the attack hits, that creature is knocked [[rules/conditions.md#Prone|prone]]."
 
 speed: 30 feet
 

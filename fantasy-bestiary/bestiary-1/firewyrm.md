@@ -33,7 +33,7 @@ abilityMods: [5, 5, 4, -1, 3, 0]
 
 abilities_top:
   - name: "Smoke Vision"
-    desc: "  The firewyrm ignores the [[concealed|concealed]] condition from smoke."
+    desc: "  The firewyrm ignores the [[rules/conditions.md#Concealed|concealed]] condition from smoke."
 abilities_mid:
   - name: "Explosion"
     desc: " ([[fire]]);  When the firewyrm dies, it explodes, dealing 6d6 (6d6) fire damage to each creature in a 10-foot emanation (DC 28 basic Reflex save)."
@@ -41,7 +41,7 @@ abilities_mid:
     desc: " ([[aura]], [[fire]]);  10 feet, 4d6 (4d6) fire, DC 25 basic Reflex."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[evocation]], [[fire]], [[primal]]);  The firewyrm breathes a 30-foot cone of fire dealing 7d6 (7d6) fire and 2d8 (2d8) [[persistent damage|persistent fire damage]] to every creature within the cone (DC 28 basic Reflex save). The firewyrm can't use Breath Weapon again for 1d4 (1d4) rounds."
+    desc: "⬺ ([[evocation]], [[fire]], [[primal]]);  The firewyrm breathes a 30-foot cone of fire dealing 7d6 (7d6) fire and 2d8 (2d8) [[rules/conditions.md#Persistent%20Damage|persistent fire damage]] to every creature within the cone (DC 28 basic Reflex save). The firewyrm can't use Breath Weapon again for 1d4 (1d4) rounds."
 
 speed: 60 feet
 
@@ -57,9 +57,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ tail +20 ([[reach|reach 15 feet]]); __Damage__ 2d8+11 (2d8+11) fire plus 2d8 (2d8) [[persistent damage|persistent fire]]"
+    desc: "⬻ tail +20 ([[reach|reach 15 feet]]); __Damage__ 2d8+11 (2d8+11) fire plus 2d8 (2d8) [[rules/conditions.md#Persistent%20Damage|persistent fire]]"
   - name: Ranged
-    desc: "⬻ fire mote +20 ([[range increment|range increment 60 feet]]); __Damage__ 2d8+6 (2d8+6) fire"
+    desc: "⬻ fire mote +20 ([[range-increment|range increment 60 feet]]); __Damage__ 2d8+6 (2d8+6) fire"
 
 sourcebook: "_Bestiary_, page 149."
 ```

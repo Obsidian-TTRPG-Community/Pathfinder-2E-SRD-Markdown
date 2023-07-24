@@ -36,7 +36,7 @@ abilities_top:
     desc: "  An orca can hold its breath for 2 hours."
 abilities_bot:
   - name: "Aquatic Ambush"
-    desc: "⬻  30 feet. An orca can travel no further than 5 feet onto land as part of an Aquatic Ambush. After it does so, it is [[prone|prone]] until it Crawls to return to the water."
+    desc: "⬻  30 feet. An orca can travel no further than 5 feet onto land as part of an Aquatic Ambush. After it does so, it is [[rules/conditions.md#Prone|prone]] until it Crawls to return to the water."
   - name: "Breach"
     desc: "⬺  The orca Swims up to its swim Speed, then Leaps vertically out of the water up to 25 feet in the air, making a [[Strike]] against a creature at any point during the jump (this lets it attack a creature within 30 feet of the water's surface). After the [[Strike]], the orca splashes back down into the water."
 

@@ -36,10 +36,10 @@ abilities_top:
     desc: " ([[primal]]);  The leydroth detects the source and school of each source of magic within 60 feet as an imprecise sense."
 abilities_mid:
   - name: "Menace to Magic"
-    desc: "⬲ ([[abjuration]], [[primal]]); __Trigger__ A creature within 60 feet Casts a Spell __Effect__  The leydroth attempts an [[Intimidation]] check to counteract the triggering spell."
+    desc: "⬲ ([[abjuration]], [[primal]]); __Trigger__ A creature within 60 feet Casts a Spell __Effect__  The leydroth attempts an [[compendium/skills.md#Intimidation|Intimidation]] check to counteract the triggering spell."
 abilities_bot:
   - name: "Dispelling Roar"
-    desc: "⬺ ([[abjuration]], [[auditory]], [[emotion]], [[fear]], [[mental]], [[primal]]);  The leydroth unleashes a bestial roar that reverberates within a 30-foot emanation. It rolls an [[Intimidation]] check and compares the result to the Will DC of each creature in the area, with the effects of [[Demoralize]]. It also uses this result to attempt to counteract each spell or [[magical]] effect in the area, plus one item or effect on each creature in the area, with the effects of dispel magic. The leydroth can't use Dispelling Roar again for 1d4 (1d4) rounds."
+    desc: "⬺ ([[abjuration]], [[auditory]], [[emotion]], [[fear]], [[mental]], [[primal]]);  The leydroth unleashes a bestial roar that reverberates within a 30-foot emanation. It rolls an [[compendium/skills.md#Intimidation|Intimidation]] check and compares the result to the Will DC of each creature in the area, with the effects of [[Demoralize]]. It also uses this result to attempt to counteract each spell or [[magical]] effect in the area, plus one item or effect on each creature in the area, with the effects of dispel magic. The leydroth can't use Dispelling Roar again for 1d4 (1d4) rounds."
   - name: "Dispelling Strike"
     desc: "⭓ ([[abjuration]], [[primal]]); __Frequency__ once per round __Trigger__ The leydroth hits a creature, object, or spell effect with a [[Strike]] __Effect__  The leydroth casts its innate dispel magic, targeting one effect on the creature struck."
   - name: "Spell Feedback"
@@ -59,7 +59,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +33 ([[magical]], [[reach|reach 10 feet]]); __Damage__ 3d10+16 (3d10+16) piercing plus 1d10 (1d10) [[persistent damage|persistent bleed]]"
+    desc: "⬻ jaws +33 ([[magical]], [[reach|reach 10 feet]]); __Damage__ 3d10+16 (3d10+16) piercing plus 1d10 (1d10) [[rules/conditions.md#Persistent%20Damage|persistent bleed]]"
   - name: Melee
     desc: "⬻ claw +33 ([[agile]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 3d10+16 (3d10+16) slashing"
   - name: Melee
@@ -67,7 +67,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 38; __7th__ [[dispel magic]] (at will); __9th__ [[disjunction]] (2);"
+    desc: "DC 38; __7th__ [[dispel-magic|dispel magic]] (at will); __9th__ [[disjunction]] (2);"
 sourcebook: "_Bestiary 2_, page 163."
 ```
 

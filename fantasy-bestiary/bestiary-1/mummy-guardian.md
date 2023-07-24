@@ -33,10 +33,10 @@ abilityMods: [4, 0, 2, -2, 4, 2]
 
 abilities_mid:
   - name: "Despair"
-    desc: " ([[aura]], [[divine]], [[emotion]], [[enchantment]], [[fear]], [[incapacitation]], [[mental]]);  30 feet. Living creatures are [[frightened|frightened 1]] while in a mummy guardian's despair aura. They can't naturally recover from this fear while in the area but recover instantly once they leave the area. When a creature first enters the area, it must succeed at a DC 22 Will save (after taking the penalty from being [[frightened|frightened]]) or be [[paralyzed|paralyzed]] for 1 round. The creature is then temporarily immune for 24 hours."
+    desc: " ([[aura]], [[divine]], [[emotion]], [[enchantment]], [[fear]], [[incapacitation]], [[mental]]);  30 feet. Living creatures are [[rules/conditions.md#Frightened|frightened 1]] while in a mummy guardian's despair aura. They can't naturally recover from this fear while in the area but recover instantly once they leave the area. When a creature first enters the area, it must succeed at a DC 22 Will save (after taking the penalty from being [[rules/conditions.md#Frightened|frightened]]) or be [[rules/conditions.md#Paralyzed|paralyzed]] for 1 round. The creature is then temporarily immune for 24 hours."
 abilities_bot:
   - name: "Mummy Rot"
-    desc: " ([[curse]], [[disease]], [[divine]], [[necromancy]], [[negative]]);  __Saving Throw__ DC 22 Fortitude. __Stage 1__ carrier with no ill effect (1 minute) __Stage 2__ 4d6 (4d6) negative damage and [[stupefied|stupefied 1]] (1 day)"
+    desc: " ([[curse]], [[disease]], [[divine]], [[necromancy]], [[negative]]);  __Saving Throw__ DC 22 Fortitude. __Stage 1__ carrier with no ill effect (1 minute) __Stage 2__ 4d6 (4d6) negative damage and [[rules/conditions.md#Stupefied|stupefied 1]] (1 day)"
 
 speed: 20 feet
 

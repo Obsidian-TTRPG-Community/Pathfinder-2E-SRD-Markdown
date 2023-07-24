@@ -39,7 +39,7 @@ abilities_top:
     desc: "lesser cheetah's elixir, greataxe, half plate, javelin (10);"
 abilities_bot:
   - name: "Intimidating Strike"
-    desc: "⬺  The antipaladin makes a melee [[Strike]]. If they hit and deal damage, the target is [[frightened|frightened 1]], or [[frightened|frightened 2]] on a critical hit."
+    desc: "⬺  The antipaladin makes a melee [[Strike]]. If they hit and deal damage, the target is [[rules/conditions.md#Frightened|frightened 1]], or [[rules/conditions.md#Frightened|frightened 2]] on a critical hit."
 
 speed: 20 feet
 
@@ -61,7 +61,7 @@ attacks:
 
 spellcasting:
   - name: "Champion Devotion Spells"
-    desc: "DC 20, (1 Focus Point); __3rd__ [[touch of corruption]];"
+    desc: "DC 20, (1 Focus Point); __3rd__ [[touch-of-corruption|touch of corruption]];"
 sourcebook: "_Gamemastery Guide_, page 247."
 ```
 

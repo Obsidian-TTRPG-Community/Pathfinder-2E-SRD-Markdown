@@ -35,11 +35,11 @@ abilityMods: [5, 3, 4, 1, 2, 4]
 
 abilities_bot:
   - name: "Burning Grasp"
-    desc: " ([[fire]]);  When the efreeti grabs a creature, that creature takes 2d6 (2d6) fire damage, and takes 2d6 (2d6) fire damage at the end of each of its turns as long as it remains [[grabbed|grabbed]]."
+    desc: " ([[fire]]);  When the efreeti grabs a creature, that creature takes 2d6 (2d6) fire damage, and takes 2d6 (2d6) fire damage at the end of each of its turns as long as it remains [[rules/conditions.md#Grabbed|grabbed]]."
   - name: "Change Size"
     desc: "⬺ ([[arcane]], [[concentrate]], [[polymorph]], [[transmutation]]); __Frequency__ once per day  __Effect__  The efreeti changes a creature's size. This works as a 4th-level [[enlarge]] or [[shrink]] spell but can target an unwilling creature (DC 29 Fortitude save negates)."
   - name: "Combat Grab"
-    desc: "⬻ __Requirements__ The efreeti has one hand free.  __Effect__  The efreeti makes a melee [[Strike]] while keeping one hand free. If the [[Strike]] hits, the target is [[grabbed|grabbed]] in the efreeti's free hand."
+    desc: "⬻ __Requirements__ The efreeti has one hand free.  __Effect__  The efreeti makes a melee [[Strike]] while keeping one hand free. If the [[Strike]] hits, the target is [[rules/conditions.md#Grabbed|grabbed]] in the efreeti's free hand."
 abilities_top:
   - name: Items
     desc: "breastplate, +1 striking scimitar;"
@@ -64,7 +64,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 29, attack +19; __Cantrips (5th)__ [[produce flame]]; __4th__ [[gaseous form]], [[invisibility]] (2); __5th__ [[illusory object]]; __7th__ [[plane shift]] Elemental Planes, or [[Material Plane]] only; __Constant__ __(5th)__ [[detect magic]];"
+    desc: "DC 29, attack +19; __Cantrips (5th)__ [[produce-flame|produce flame]]; __4th__ [[gaseous-form|gaseous form]], [[invisibility]] (2); __5th__ [[illusory-object|illusory object]]; __7th__ [[plane-shift|plane shift]] Elemental Planes, or [[Material-Plane|Material Plane]] only; __Constant__ __(5th)__ [[detect-magic|detect magic]];"
 sourcebook: "_Bestiary_, page 164."
 ```
 

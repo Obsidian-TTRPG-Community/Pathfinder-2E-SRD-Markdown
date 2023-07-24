@@ -32,7 +32,7 @@ abilityMods: [5, 1, 5, -4, 2, -1]
 
 abilities_bot:
   - name: "Mangle"
-    desc: "⬻ __Requirements__ The zetogeki has a creature [[grabbed|grabbed]] in its jaws  __Effect__  The zetogeki mangles the [[grabbed|grabbed]] creature and slams it about, dealing 3d8 (3d8) bludgeoning damage (DC 26 basic Fortitude save)."
+    desc: "⬻ __Requirements__ The zetogeki has a creature [[rules/conditions.md#Grabbed|grabbed]] in its jaws  __Effect__  The zetogeki mangles the [[rules/conditions.md#Grabbed|grabbed]] creature and slams it about, dealing 3d8 (3d8) bludgeoning damage (DC 26 basic Fortitude save)."
   - name: "Tilt Scales"
     desc: "⬻  The zetogeki shifts the scales that cover its body to better absorb kinetic energy from physical blows. The zetogeki gains resistance 10 to physical damage, but its Speeds are reduced to 10 feet. If the zetogeki gets hit for 20 or more physical damage in a single blow while its scales are tilted (before applying resistance), it stores the kinetic energy of the blow. The zetogeki can realign its scales to their regular position by taking this action again. When it does, it channels any stored kinetic energy into the next [[Strike]] it makes before the end of its turn. If the [[Strike]] hits, it deals an additional 2d8 (2d8) damage. The energy is expended whether or not the [[Strike]] hits."
 

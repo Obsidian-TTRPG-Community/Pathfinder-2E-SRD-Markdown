@@ -33,7 +33,7 @@ abilityMods: [6, 4, 3, 4, 3, 5]
 
 abilities_mid:
   - name: "Corrupt Speech"
-    desc: "⬲ ([[auditory]], [[illusion]], [[linguistic]], [[occult]]); __Trigger__ The skelm hears a creature speak within 30 feet __Effect__  The skelm sows paranoia by putting treacherous words on another's lips. The skelm whispers up to 12 words and attempts a [[Deception]] check against the [[Perception]] DC of a creature other than the triggering creature within 30 feet.\n__Critical Success__ The target hears the skelm's words as if they were spoken by the triggering creature. This can alter [[linguistic]] effects. The skelm also casts paranoia or suggestion on the target, if he likes.\n__Success__ As critical success, except the skelm can't cast [[paranoia]] or suggestion.\n__Failure__ The target doesn't hear the skelm's words, and they have no effect.\n__Critical Failure__ The target hears the skelm speak the words."
+    desc: "⬲ ([[auditory]], [[illusion]], [[linguistic]], [[occult]]); __Trigger__ The skelm hears a creature speak within 30 feet __Effect__  The skelm sows paranoia by putting treacherous words on another's lips. The skelm whispers up to 12 words and attempts a [[compendium/skills.md#Deception|Deception]] check against the [[compendium/skills.md#Perception|Perception]] DC of a creature other than the triggering creature within 30 feet.\n__Critical Success__ The target hears the skelm's words as if they were spoken by the triggering creature. This can alter [[linguistic]] effects. The skelm also casts paranoia or suggestion on the target, if he likes.\n__Success__ As critical success, except the skelm can't cast [[paranoia]] or suggestion.\n__Failure__ The target doesn't hear the skelm's words, and they have no effect.\n__Critical Failure__ The target hears the skelm speak the words."
 abilities_top:
   - name: Items
     desc: "signet ring;"
@@ -41,7 +41,7 @@ abilities_bot:
   - name: "Change Shape"
     desc: "⬻ ([[concentrate]], [[occult]], [[polymorph]], [[transmutation]]);  The street skelm can take on the appearance of any Medium male humanoid (page 304). This doesn't change his Speed or his attack and damage bonuses with his [[Strike|Strikes]] but might change the damage type his [[Strike|Strikes]] deal."
   - name: "Incite Violence"
-    desc: "⬺ ([[emotion]], [[enchantment]], [[occult]], [[mental]]); __Frequency__ once per day  __Effect__  The skelm gives an impassioned speech calling for his followers to act upon their convictions. Each creature within 30 feet must attempt a DC 24 Will save.\n__Critical Success__ The creature can immediately [[Strike]] an adjacent creature of its choosing.\n__Success__ The creature is unaffected.\n__Failure__ The creature immediately [[Strike|Strikes]] an adjacent creature; if multiple creatures are adjacent, the skelm chooses the target. If no creatures are adjacent, the creature is [[flat-footed|flat-footed]] and [[fascinated|fascinated]] with the skelm until the start of its next turn."
+    desc: "⬺ ([[emotion]], [[enchantment]], [[occult]], [[mental]]); __Frequency__ once per day  __Effect__  The skelm gives an impassioned speech calling for his followers to act upon their convictions. Each creature within 30 feet must attempt a DC 24 Will save.\n__Critical Success__ The creature can immediately [[Strike]] an adjacent creature of its choosing.\n__Success__ The creature is unaffected.\n__Failure__ The creature immediately [[Strike|Strikes]] an adjacent creature; if multiple creatures are adjacent, the skelm chooses the target. If no creatures are adjacent, the creature is [[rules/conditions.md#Flat-Footed|flat-footed]] and [[rules/conditions.md#Fascinated|fascinated]] with the skelm until the start of its next turn."
 
 speed: 25 feet
 
@@ -63,7 +63,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 26; __Cantrips (5th)__ [[daze]], [[message]]; __2nd__ [[invisibility]] (3); __4th__ [[clairaudience]], [[enthrall]], [[outcast's curse]], [[paranoia]] (at will), [[private sanctum]], [[suggestion]]; __Constant__ __(5th)__ [[tongues]];"
+    desc: "DC 26; __Cantrips (5th)__ [[daze]], [[message]]; __2nd__ [[invisibility]] (3); __4th__ [[clairaudience]], [[enthrall]], [[outcast's curse]], [[paranoia]] (at will), [[private-sanctum|private sanctum]], [[suggestion]]; __Constant__ __(5th)__ [[tongues]];"
 sourcebook: "_Bestiary 3_, page 240."
 ```
 

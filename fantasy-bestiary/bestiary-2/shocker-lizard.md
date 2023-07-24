@@ -58,7 +58,7 @@ attacks:
   - name: Melee
     desc: "⬻ jaws +10 ([[agile]], [[finesse]]); __Damage__ 1d8+3 (1d8+3) piercing"
   - name: Ranged
-    desc: "⬻ shock +10 ([[nonlethal]], [[range increment|range increment 5 feet]]); __Damage__ 2d6 (2d6) electricity"
+    desc: "⬻ shock +10 ([[nonlethal]], [[range-increment|range increment 5 feet]]); __Damage__ 2d6 (2d6) electricity"
 
 sourcebook: "_Bestiary 2_, page 240."
 ```

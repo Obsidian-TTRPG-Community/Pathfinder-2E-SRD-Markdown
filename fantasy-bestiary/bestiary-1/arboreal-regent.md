@@ -59,7 +59,7 @@ attacks:
   - name: Melee
     desc: "⬻ root +19 ([[trip]]); __Damage__ 2d8+7 (2d8+7) bludgeoning"
   - name: Ranged
-    desc: "⬻ rock +19 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 2d10+7 (2d10+7) bludgeoning"
+    desc: "⬻ rock +19 ([[brutal]], [[range-increment|range increment 120 feet]]); __Damage__ 2d10+7 (2d10+7) bludgeoning"
 
 spellcasting:
   - name: "Primal Innate Spells"

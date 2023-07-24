@@ -49,7 +49,7 @@ abilities_bot:
   - name: "Death Strike"
     desc: " ([[death]]);  A creature critically hit by any of the grim reaper's attacks or that critically fails against any of its spells must succeed at a DC 47 Fortitude save or die."
   - name: "Energy Drain"
-    desc: "  When the grim reaper hits and deals damage with its scythe, it regains 20 Hit Points, and the target must succeed at a DC 43 Fortitude save or become [[doomed|doomed 1]]. If the target is already [[doomed|doomed]], the [[doomed|doomed]] value increases by 1 (to a maximum of [[doomed|doomed 3]])."
+    desc: "  When the grim reaper hits and deals damage with its scythe, it regains 20 Hit Points, and the target must succeed at a DC 43 Fortitude save or become [[rules/conditions.md#Doomed|doomed 1]]. If the target is already [[rules/conditions.md#Doomed|doomed]], the [[rules/conditions.md#Doomed|doomed]] value increases by 1 (to a maximum of [[rules/conditions.md#Doomed|doomed 3]])."
   - name: "Final Death"
     desc: "  A creature killed by the grim reaper can't be brought back to life by any means short of divine intervention."
   - name: "Infuse Weapon"
@@ -73,7 +73,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 47, attack +37; __7th__ [[plane shift]]; __10th__ [[finger of death]] (4); __Constant__ __(2nd)__ [[see invisibility]], __(3rd)__ [[haste]], __(6th)__ [[true seeing]];"
+    desc: "DC 47, attack +37; __7th__ [[plane-shift|plane shift]]; __10th__ [[finger-of-death|finger of death]] (4); __Constant__ __(2nd)__ [[see-invisibility|see invisibility]], __(3rd)__ [[haste]], __(6th)__ [[true-seeing|true seeing]];"
 sourcebook: "_Bestiary_, page 196."
 ```
 

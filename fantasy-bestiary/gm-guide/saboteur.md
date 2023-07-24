@@ -36,7 +36,7 @@ abilities_top:
     desc: "  The saboteur can [[Craft]] snares and has the supplies to make up to two caltrop snares and up to two hampering snares."
 abilities_bot:
   - name: "Sneak Attack"
-    desc: "  The saboteur deals an extra 1d6 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The saboteur deals an extra 1d6 (1d6) precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
 
 speed: 25 feet
 
@@ -54,7 +54,7 @@ attacks:
   - name: Melee
     desc: "⬻ sap +7 ([[agile]], [[nonlethal]]); __Damage__ 1d6+3 (1d6+3) bludgeoning"
   - name: Ranged
-    desc: "⬻ hand crossbow +9 ([[range increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1d6+2 (1d6+2) piercing"
+    desc: "⬻ hand crossbow +9 ([[range-increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1d6+2 (1d6+2) piercing"
 
 sourcebook: "_Gamemastery Guide_, page 247."
 ```

@@ -12,7 +12,7 @@ tags:
 aliases: ["Clockwork Macuahuitl"]
 ---
 # Clockwork Macuahuitl *Item 0*  
-[backswing](rules/traits/backswing.md "Backswing Weapon Trait")  [forceful](rules/traits/forceful.md "Forceful Weapon Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [versatile <b>](rules/traits/versatile-b.md "Versatile Weapon Trait")  clockwork  
+[backswing](rules/traits/backswing.md "Backswing Weapon Trait")  [clockwork](rules/traits/clockwork-g-g.md "Clockwork  Trait")  [forceful](rules/traits/forceful.md "Forceful Weapon Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [versatile <b>](rules/traits/versatile-b.md "Versatile Weapon Trait")  
 
 - **Price** 550 gp
 - **Bulk** 1

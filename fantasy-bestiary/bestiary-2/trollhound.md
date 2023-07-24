@@ -32,7 +32,7 @@ abilityMods: [4, 1, 5, -4, 1, -2]
 
 abilities_bot:
   - name: "Bloodfire Fever"
-    desc: " ([[disease]]);  __Saving Throw__ DC 18 Fortitude. __Stage 1__ carrier with no ill effect (1 day) __Stage 2__ [[enfeebled|enfeebled 1]] (1 day) __Stage 3__ [[enfeebled|enfeebled 1]] and [[clumsy|clumsy 1]] (1 day) __Stage 4__ [[enfeebled|enfeebled 2]] and [[clumsy|clumsy 2]] (1 day) __Stage 5__ [[enfeebled|enfeebled 2]], [[clumsy|clumsy 2]], and [[fatigued|fatigued]] (1 day)"
+    desc: " ([[disease]]);  __Saving Throw__ DC 18 Fortitude. __Stage 1__ carrier with no ill effect (1 day) __Stage 2__ [[rules/conditions.md#Enfeebled|enfeebled 1]] (1 day) __Stage 3__ [[rules/conditions.md#Enfeebled|enfeebled 1]] and [[rules/conditions.md#Clumsy|clumsy 1]] (1 day) __Stage 4__ [[rules/conditions.md#Enfeebled|enfeebled 2]] and [[rules/conditions.md#Clumsy|clumsy 2]] (1 day) __Stage 5__ [[rules/conditions.md#Enfeebled|enfeebled 2]], [[rules/conditions.md#Clumsy|clumsy 2]], and [[rules/conditions.md#Fatigued|fatigued]] (1 day)"
   - name: "Pack Attack"
     desc: "  The trollhound deals an extra 1d6 (1d6) damage to any creature within reach of at least two of the trollhound's allies."
 

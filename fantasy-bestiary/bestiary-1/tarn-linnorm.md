@@ -35,12 +35,12 @@ abilityMods: [10, 6, 8, -1, 7, 8]
 
 abilities_mid:
   - name: "Curse of Death"
-    desc: " ([[curse]], [[death]], [[primal]]);  When a creature slays a tarn linnorm, it must succeed at a DC 46 Will save or it can no longer recover Hit Points via any means, such as healing spells, the [[Medicine]] skill, or natural healing from rest."
+    desc: " ([[curse]], [[death]], [[primal]]);  When a creature slays a tarn linnorm, it must succeed at a DC 46 Will save or it can no longer recover Hit Points via any means, such as healing spells, the [[compendium/skills.md#Medicine|Medicine]] skill, or natural healing from rest."
   - name: "Attack of Opportunity"
     desc: "⬲  Tail only."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[acid]], [[evocation]], [[poison]], [[primal]]);  The tarn linnorm can expel either a 120-foot line or a 60-foot cone of acid dealing 20d6 (20d6) acid damage to creatures within the area (DC 44 basic Reflex save). The acid creates toxic fumes. At the beginning of the linnorm's next turn, those who failed the breath weapon's Reflex save must succeed at a DC 42 Fortitude save or gain [[sickened|sickened 4]] from the poisonous fumes. A tarn linnorm can't use Breath Weapon or Overwhelming Breath again for 1d4 (1d4) rounds."
+    desc: "⬺ ([[acid]], [[evocation]], [[poison]], [[primal]]);  The tarn linnorm can expel either a 120-foot line or a 60-foot cone of acid dealing 20d6 (20d6) acid damage to creatures within the area (DC 44 basic Reflex save). The acid creates toxic fumes. At the beginning of the linnorm's next turn, those who failed the breath weapon's Reflex save must succeed at a DC 42 Fortitude save or gain [[rules/conditions.md#Sickened|sickened 4]] from the poisonous fumes. A tarn linnorm can't use Breath Weapon or Overwhelming Breath again for 1d4 (1d4) rounds."
   - name: "Constrict"
     desc: "⬻  3d6+18 (3d6+18) bludgeoning, DC 44."
   - name: "Double Bite"
@@ -48,7 +48,7 @@ abilities_bot:
   - name: "Overwhelming Breath"
     desc: "⬽  A tarn linnorm uses its Breath Weapon twice. A creature attempts only one save and can take damage only once. The tarn linnorm can't use Breath Weapon or Overwhelming Breath again for 2d4 (2d4) rounds."
   - name: "Tarn Linnorm Venom"
-    desc: " ([[acid]], [[injury]], [[poison]]);  __Saving Throw__ DC 44 Fortitude. __Maximum Duration__ 10 rounds __Stage 1__ 7d6 (7d6) acid damage and [[drained|drained 1]] (null) __Stage 2__ 11d6 (11d6) acid damage and [[drained|drained 2]]. (null)"
+    desc: " ([[acid]], [[injury]], [[poison]]);  __Saving Throw__ DC 44 Fortitude. __Maximum Duration__ 10 rounds __Stage 1__ 7d6 (7d6) acid damage and [[rules/conditions.md#Drained|drained 1]] (null) __Stage 2__ 11d6 (11d6) acid damage and [[rules/conditions.md#Drained|drained 2]]. (null)"
 
 speed: 35 feet, fly 100 feet, swim 80 feet; freedom of movement;
 
@@ -68,11 +68,11 @@ attacks:
   - name: Melee
     desc: "⬻ claw +38 ([[reach|reach 30 feet]], [[agile]], [[magical]]); __Damage__ 4d8+18 (4d8+18) slashing"
   - name: Melee
-    desc: "⬻ tail +38 ([[reach|reach 30 feet]], [[agile]], [[magical]]); __Damage__ 4d6+18 (4d6+18) bludgeoning plus [[Improved Grab]]"
+    desc: "⬻ tail +38 ([[reach|reach 30 feet]], [[agile]], [[magical]]); __Damage__ 4d6+18 (4d6+18) bludgeoning plus [[Improved-Grab|Improved Grab]]"
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 42; __Constant__ __(8th)__ [[true seeing]], __(9th)__ [[freedom of movement]];"
+    desc: "DC 42; __Constant__ __(8th)__ [[true-seeing|true seeing]], __(9th)__ [[freedom-of-movement|freedom of movement]];"
 sourcebook: "_Bestiary_, page 226."
 ```
 

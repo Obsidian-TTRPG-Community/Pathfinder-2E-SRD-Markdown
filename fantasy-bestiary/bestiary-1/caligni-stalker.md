@@ -43,7 +43,7 @@ abilities_bot:
   - name: "Encircling Command"
     desc: "⬻ ([[auditory]]);  Each caligni creeper within 30 feet of the stalker can [[Step]]. Each creeper can benefit from Encircling Command only once per round."
   - name: "Sneak Attack"
-    desc: "  The caligni stalker deals 1d6 (1d6) extra precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The caligni stalker deals 1d6 (1d6) extra precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
   - name: "Black Smear Poison"
     desc: "  Many calignis use a debilitating poison crafted from subterranean fungi."
 
@@ -65,7 +65,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 19; __Cantrips (2nd)__ [[detect magic]]; __2nd__ [[darkness]] (at will), [[obscuring mist]] (at will);"
+    desc: "DC 19; __Cantrips (2nd)__ [[detect-magic|detect magic]]; __2nd__ [[darkness]] (at will), [[obscuring-mist|obscuring mist]] (at will);"
 sourcebook: "_Bestiary_, page 51."
 ```
 

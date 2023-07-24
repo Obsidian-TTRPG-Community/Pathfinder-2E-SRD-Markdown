@@ -38,7 +38,7 @@ abilities_top:
     desc: "net, spear;"
 abilities_bot:
   - name: "Hurl Net"
-    desc: "⬻ __Requirements__ The bog strider is holding a net in two hands  __Effect__  The bog strider hurls their net to hamper a foe. They make a ranged [[Strike]] (with a +10 modifier) against a Medium or smaller creature within 20 feet. On a hit, the target is [[flat-footed|flat-footed]] and takes a –10-foot circumstance penalty to its Speeds. On a critical hit, the creature is instead [[restrained|restrained]]. The DC to [[Escape]] the net is 16. A creature adjacent to the target can [[Interact]] with the net to remove it from the target."
+    desc: "⬻ __Requirements__ The bog strider is holding a net in two hands  __Effect__  The bog strider hurls their net to hamper a foe. They make a ranged [[Strike]] (with a +10 modifier) against a Medium or smaller creature within 20 feet. On a hit, the target is [[rules/conditions.md#Flat-Footed|flat-footed]] and takes a –10-foot circumstance penalty to its Speeds. On a critical hit, the creature is instead [[rules/conditions.md#Restrained|restrained]]. The DC to [[Escape]] the net is 16. A creature adjacent to the target can [[Interact]] with the net to remove it from the target."
   - name: "Water Sprint"
     desc: "⬽  The bog strider [[Stride|Strides]] up to three times in a straight line across smooth water. They can make a single [[Strike]] against a creature at the end of this movement."
   - name: "Water Stride"

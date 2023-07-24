@@ -56,11 +56,11 @@ attacks:
   - name: Melee
     desc: "⬻ staff +9 ([[two-hand|two-hand d8]]); __Damage__ 1d4 (1d4) bludgeoning"
   - name: Ranged
-    desc: "⬻ crossbow +10 ([[range increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1d8 (1d8) piercing"
+    desc: "⬻ crossbow +10 ([[range-increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1d8 (1d8) piercing"
 
 spellcasting:
   - name: "Divine Prepared Spells"
-    desc: "DC 23; __Cantrips (3rd)__ [[guidance]], [[light]], [[message]], [[sigil]], [[stabilize]]; __1st__ [[detect poison]], [[purify food and drink]] (2); __2nd__ [[death knell]], [[remove fear]], [[restoration]]; __3rd__ [[heal]] (3), [[neutralize poison]], [[remove disease]];"
+    desc: "DC 23; __Cantrips (3rd)__ [[guidance]], [[light]], [[message]], [[sigil]], [[stabilize]]; __1st__ [[detect-poison|detect poison]], [[purify-food-and-drink|purify food and drink]] (2); __2nd__ [[death-knell|death knell]], [[remove-fear|remove fear]], [[restoration]]; __3rd__ [[heal]] (3), [[neutralize-poison|neutralize poison]], [[remove-disease|remove disease]];"
   - name: "Cleric Domain Spells"
     desc: "DC 23, (1 Focus Point); __3rd__ [[healer's blessing]];"
 sourcebook: "_Gamemastery Guide_, page 222."

@@ -33,7 +33,7 @@ abilityMods: [2, 4, 2, 0, 1, 0]
 
 abilities_mid:
   - name: "Light Blindness"
-    desc: "  When first exposed to bright light, the drow can't see until the end of their next turn. All squares are difficult terrain for them, and they take a –4 status penalty to [[Perception]]. If they try to attack a creature, the attack fails unless they succeed at a DC 11 flat check. Light doesn't blind them again for 1 hour."
+    desc: "  When first exposed to bright light, the drow can't see until the end of their next turn. All squares are difficult terrain for them, and they take a –4 status penalty to [[compendium/skills.md#Perception|Perception]]. If they try to attack a creature, the attack fails unless they succeed at a DC 11 flat check. Light doesn't blind them again for 1 hour."
 abilities_top:
   - name: Items
     desc: "dagger, hand crossbow (10 bolts), leather armor, rapier;"
@@ -41,13 +41,13 @@ abilities_bot:
   - name: "Stride"
     desc: "⬻  30 feet"
   - name: "Melee Strike"
-    desc: "⬻ ([[deadly 1d8]], [[finesse]]);  Damage 1d6+2 (1d6+2) piercing Melee [[Strike]] ⬻ dagger +9 (agile, finesse, versatile S), Damage 1d4+2 (1d4+2) piercing"
+    desc: "⬻ ([[deadly|deadly 1d8]], [[finesse]]);  Damage 1d6+2 (1d6+2) piercing Melee [[Strike]] ⬻ dagger +9 (agile, finesse, versatile S), Damage 1d4+2 (1d4+2) piercing"
   - name: "Ranged Strike"
-    desc: "⬻ ([[range increment 60 feet]], [[reload 1]]);  Damage 1d6+1 (1d6+1) piercing"
+    desc: "⬻ ([[range-increment|range increment 60 feet]], [[reload|reload 1]]);  Damage 1d6+1 (1d6+1) piercing"
   - name: "Quick Draw"
     desc: "⬻  The drow warrior draws a weapon using the [[Interact]] action, then Strikes with that weapon."
   - name: "Skewer"
-    desc: "⬺  The drow warrior Strikes with their rapier, and they gain a +1 circumstance bonus to the attack roll. If they succeed, the target takes 1d6 (1d6) [[persistent damage|persistent bleed damage]]."
+    desc: "⬺  The drow warrior Strikes with their rapier, and they gain a +1 circumstance bonus to the attack roll. If they succeed, the target takes 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed damage]]."
 
 
 ac: 18

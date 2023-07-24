@@ -44,7 +44,7 @@ abilities_bot:
   - name: "Corrosive Touch"
     desc: "  When the pudding hits a creature with its pseudopod, any acid damage is dealt to the creature's armor or clothing as well as the creature."
   - name: "Suction"
-    desc: "  The pudding can climb on ceilings and other inverted surfaces, though such surfaces are [[terrain|difficult terrain]] for it."
+    desc: "  The pudding can climb on ceilings and other inverted surfaces, though such surfaces are [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] for it."
 
 speed: 20 feet, climb 20 feet; suction;
 

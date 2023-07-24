@@ -35,13 +35,13 @@ abilities_mid:
     desc: "⬲ "
 abilities_bot:
   - name: "Mind Lash"
-    desc: " ([[emotion]], [[enchantment]], [[mental]], [[occult]]);  A non-evil creature hit by an irnakurse's tentacle is overwhelmed with corrupted images of a ruined life and must succeed at a DC 28 Will save or be [[stunned|stunned 2]] (or [[stunned|stunned 4]] on a critical failure). After attempting this save, a creature is temporarily immune to Mind Lash for 24 hours."
+    desc: " ([[emotion]], [[enchantment]], [[mental]], [[occult]]);  A non-evil creature hit by an irnakurse's tentacle is overwhelmed with corrupted images of a ruined life and must succeed at a DC 28 Will save or be [[rules/conditions.md#Stunned|stunned 2]] (or [[rules/conditions.md#Stunned|stunned 4]] on a critical failure). After attempting this save, a creature is temporarily immune to Mind Lash for 24 hours."
   - name: "Rend"
     desc: "⬻ ([[tentacle]]); "
   - name: "Soul Scream"
     desc: "⬺ ([[auditory]], [[concentrate]], [[emotion]], [[enchantment]], [[mental]], [[occult]]); __Frequency__ once per day  __Effect__  The irnakurse unleashes an alien shriek of nightmarish horror and pain. All non-evil creatures within a 10-foot emanation must attempt a DC 28 Will save. The irnakurse can."
   - name: "Sustain Soul"
-    desc: "  Scream for up to 6 rounds; each time it does, it repeats the effect.\n__Critical Success__ The creature is unaffected, and is temporarily immune to Soul Scream for 24 hours.\n__Success__ The creature is [[stupefied|stupefied 1]] for 1 round.\n__Failure__ The creature is [[stupefied|stupefied 1]]. Further failed saves against Soul Scream increase the condition value by 1, to a maximum of [[stupefied|stupefied 4]]. Each time the character gets a full night's rest, the [[stupefied|stupefied]] condition gained from Soul Scream decreases by 1.\n__Critical Failure__ As failure, except the [[stupefied|stupefied]] value increases by 2 instead of by 1."
+    desc: "  Scream for up to 6 rounds; each time it does, it repeats the effect.\n__Critical Success__ The creature is unaffected, and is temporarily immune to Soul Scream for 24 hours.\n__Success__ The creature is [[rules/conditions.md#Stupefied|stupefied 1]] for 1 round.\n__Failure__ The creature is [[rules/conditions.md#Stupefied|stupefied 1]]. Further failed saves against Soul Scream increase the condition value by 1, to a maximum of [[rules/conditions.md#Stupefied|stupefied 4]]. Each time the character gets a full night's rest, the [[rules/conditions.md#Stupefied|stupefied]] condition gained from Soul Scream decreases by 1.\n__Critical Failure__ As failure, except the [[rules/conditions.md#Stupefied|stupefied]] value increases by 2 instead of by 1."
   - name: "Storm of Tentacles"
     desc: "⬺  The irnakurse makes up to four tentacle [[Strike|Strikes]], each against a different target. These attacks count toward the irnakurse's multiple attack penalty, but the multiple attack penalty doesn't increase until after it makes all of its attacks."
 

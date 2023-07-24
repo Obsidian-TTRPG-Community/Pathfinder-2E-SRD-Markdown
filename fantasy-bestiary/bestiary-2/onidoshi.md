@@ -63,11 +63,11 @@ attacks:
   - name: Melee
     desc: "⬻ fist +20 ([[agile]], [[evil]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 2d8+9 (2d8+9) bludgeoning"
   - name: Ranged
-    desc: "⬻ composite shortbow +17 ([[deadly|deadly 1d10]], [[range increment|range increment 100 feet]], [[reload|reload 0]]); __Damage__ 2d6+9 (2d6+9) piercing"
+    desc: "⬻ composite shortbow +17 ([[deadly|deadly 1d10]], [[range-increment|range increment 100 feet]], [[reload|reload 0]]); __Damage__ 2d6+9 (2d6+9) piercing"
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 24; __2nd__ [[darkness]], [[invisibility]] (at will) self only; __3rd__ [[fear]]; __4th__ [[charm]], [[gaseous form]], [[sleep]]; __5th__ [[cone of cold]];"
+    desc: "DC 24; __2nd__ [[darkness]], [[invisibility]] (at will) self only; __3rd__ [[fear]]; __4th__ [[charm]], [[gaseous-form|gaseous form]], [[sleep]]; __5th__ [[cone-of-cold|cone of cold]];"
 sourcebook: "_Bestiary 2_, page 188."
 ```
 

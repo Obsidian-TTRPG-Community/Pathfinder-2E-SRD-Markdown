@@ -38,11 +38,11 @@ abilities_bot:
   - name: "Push"
     desc: "⬻ "
   - name: "Concussive Blow"
-    desc: "⬺ ([[evocation]], [[primal]], [[sonic]]);  The harmona makes a beak [[Strike]], channeling disruptive sound waves into the blow. On a hit, the target must succeed at a DC 30 Fortitude save or become [[stunned|stunned 1]] ([[stunned|stunned 2]] on a critical failure). After this [[Strike]], the harmona can [[Fly]] up to half their fly Speed."
+    desc: "⬺ ([[evocation]], [[primal]], [[sonic]]);  The harmona makes a beak [[Strike]], channeling disruptive sound waves into the blow. On a hit, the target must succeed at a DC 30 Fortitude save or become [[rules/conditions.md#Stunned|stunned 1]] ([[rules/conditions.md#Stunned|stunned 2]] on a critical failure). After this [[Strike]], the harmona can [[Fly]] up to half their fly Speed."
   - name: "Subsonic Pulse"
-    desc: "⬺ ([[evocation]], [[primal]]);  The harmona beats their wings rapidly towards the ground, creating a nearly inaudible rumble and sending a wave of shaking earth to overwhelm their enemies. Each creature in a 15-foot emanation must succeed at a DC 30 basic Fortitude save or take 6d6 (6d6) sonic damage. A creature that fails its save is knocked [[prone|prone]] from the shaking ground."
+    desc: "⬺ ([[evocation]], [[primal]]);  The harmona beats their wings rapidly towards the ground, creating a nearly inaudible rumble and sending a wave of shaking earth to overwhelm their enemies. Each creature in a 15-foot emanation must succeed at a DC 30 basic Fortitude save or take 6d6 (6d6) sonic damage. A creature that fails its save is knocked [[rules/conditions.md#Prone|prone]] from the shaking ground."
   - name: "Ultrasonic Thrust"
-    desc: "⬺ ([[evocation]], [[primal]], [[sonic]]);  The harmona beats their wings skyward, creating a spiraling vibration. Each creature in a 30-foot cone must attempt a DC 30 Reflex save as the high-frequency blast flings them up and away.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is pushed 5 feet away and knocked off balance, becoming [[flat-footed|flat-footed]] until the start of their next turn.\n__Failure__ Sonic waves fling the creature 15 feet back from the harmona. The creature takes 6d6 (6d6) bludgeoning damage from the fall and lands [[prone|prone]].\n__Critical Failure__ As failure, but the creature is flung 30 feet and takes double damage."
+    desc: "⬺ ([[evocation]], [[primal]], [[sonic]]);  The harmona beats their wings skyward, creating a spiraling vibration. Each creature in a 30-foot cone must attempt a DC 30 Reflex save as the high-frequency blast flings them up and away.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is pushed 5 feet away and knocked off balance, becoming [[rules/conditions.md#Flat-Footed|flat-footed]] until the start of their next turn.\n__Failure__ Sonic waves fling the creature 15 feet back from the harmona. The creature takes 6d6 (6d6) bludgeoning damage from the fall and lands [[rules/conditions.md#Prone|prone]].\n__Critical Failure__ As failure, but the creature is flung 30 feet and takes double damage."
 
 speed: 10 feet, fly 60 feet
 
@@ -62,7 +62,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 30; __Cantrips (4th)__ [[detect magic]];"
+    desc: "DC 30; __Cantrips (4th)__ [[detect-magic|detect magic]];"
 sourcebook: "_Bestiary 3_, page 132."
 ```
 

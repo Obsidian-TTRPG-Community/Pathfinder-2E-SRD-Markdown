@@ -43,9 +43,9 @@ abilities_bot:
   - name: "Instrument of Retribution"
     desc: "⬽ ([[occult]], [[polymorph]], [[transmutation]]);  The xiuh couatl transforms into any simple or martial weapon. The weapon is always a +2 greater striking flaming shock weapon and can be of any size, chosen by the xiuh couatl when they transform. In weapon form, the xiuh couatl gains Hardness equal to that of the weapon into which they transform, and they retain their Hit Points, saving throws, senses, telepathy, and traits while in weapon form. The xiuh couatl can revert to their normal form by spending a single action, which has the [[concentrate]] trait."
   - name: "Wrap in Coils"
-    desc: "⬻ __Requirements__ The mix couatl has a Medium or smaller creature [[grabbed|grabbed]] or [[restrained|restrained]] in their jaws  __Effect__  The mix couatl moves the creature into their coils, freeing their jaws to make attacks, then uses Constrict against the creature. The mix couatl can hold as many creatures in their coils as will fit in their space."
+    desc: "⬻ __Requirements__ The mix couatl has a Medium or smaller creature [[rules/conditions.md#Grabbed|grabbed]] or [[rules/conditions.md#Restrained|restrained]] in their jaws  __Effect__  The mix couatl moves the creature into their coils, freeing their jaws to make attacks, then uses Constrict against the creature. The mix couatl can hold as many creatures in their coils as will fit in their space."
   - name: "Xiuh Couatl Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 32 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d8 (2d8) poison damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 2d10 (2d10) poison damage, [[enfeebled|enfeebled 1]], and –5-foot status penalty to all Speeds (1 round) __Stage 3__ 3d8 (3d8) poison damage, [[enfeebled|enfeebled 2]], and –10-foot status penalty to all Speeds (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 32 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d8 (2d8) poison damage and [[rules/conditions.md#Enfeebled|enfeebled 1]] (1 round) __Stage 2__ 2d10 (2d10) poison damage, [[rules/conditions.md#Enfeebled|enfeebled 1]], and –5-foot status penalty to all Speeds (1 round) __Stage 3__ 3d8 (3d8) poison damage, [[rules/conditions.md#Enfeebled|enfeebled 2]], and –10-foot status penalty to all Speeds (1 round)"
 
 speed: 20 feet, fly 60 feet
 
@@ -65,7 +65,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 32, attack +24; __Cantrips (6th)__ [[detect magic]], [[ghost sound]], [[read aura]], [[telekinetic projectile]]; __2nd__ [[invisibility]] (at will) self only; __6th__ [[charm]], [[clairaudience]], [[clairvoyance]], [[crushing despair]], [[detect alignment]] (at will), [[dispel magic]], [[dream message]], [[fear]], [[illusory scene]], [[mind reading]] (at will), [[mindlink]], [[phantom pain]], [[see invisibility]], [[sending]], [[zone of truth]]; __7th__ [[plane shift]] self only;"
+    desc: "DC 32, attack +24; __Cantrips (6th)__ [[detect-magic|detect magic]], [[ghost-sound|ghost sound]], [[read-aura|read aura]], [[telekinetic-projectile|telekinetic projectile]]; __2nd__ [[invisibility]] (at will) self only; __6th__ [[charm]], [[clairaudience]], [[clairvoyance]], [[crushing-despair|crushing despair]], [[detect-alignment|detect alignment]] (at will), [[dispel-magic|dispel magic]], [[dream-message|dream message]], [[fear]], [[illusory-scene|illusory scene]], [[mind-reading|mind reading]] (at will), [[mindlink]], [[phantom-pain|phantom pain]], [[see-invisibility|see invisibility]], [[sending]], [[zone-of-truth|zone of truth]]; __7th__ [[plane-shift|plane shift]] self only;"
 sourcebook: "_Bestiary 3_, page 57."
 ```
 

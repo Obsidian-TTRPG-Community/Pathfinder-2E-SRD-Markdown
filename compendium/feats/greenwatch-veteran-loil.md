@@ -10,7 +10,7 @@ tags:
 aliases: ["Greenwatch Veteran"]
 ---
 # Greenwatch Veteran  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 8*  
-[investigator](rules/traits/investigator-apg.md "Investigator Class Trait")  [ranger](rules/traits/ranger.md "Ranger Class Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  gunslinger  
+[gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  [investigator](rules/traits/investigator-apg.md "Investigator Class Trait")  [ranger](rules/traits/ranger.md "Ranger Class Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Trigger** Your turn starts, and you're in combat against a creature you spent at least 10 minutes Tracking.
 - **Activity** Free Action

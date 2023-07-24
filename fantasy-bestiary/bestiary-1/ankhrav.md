@@ -33,7 +33,7 @@ abilities_bot:
   - name: "Armor-Rending Bite"
     desc: "⬺  The ankhrav makes a mandibles [[Strike]]; if the [[Strike]] hits, the target's armor takes the damage and the acid damage bypasses the armor's Hardness."
   - name: "Spray Acid"
-    desc: "⬺ ([[acid]]); __Frequency__ once per hour  __Effect__  The ankhrav spews acid in a 30-foot cone, dealing 3d6 (3d6) acid damage and 1d6 (1d6) [[persistent damage|persistent acid damage]] (DC 20 basic Reflex save)."
+    desc: "⬺ ([[acid]]); __Frequency__ once per hour  __Effect__  The ankhrav spews acid in a 30-foot cone, dealing 3d6 (3d6) acid damage and 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent acid damage]] (DC 20 basic Reflex save)."
 
 speed: 25 feet, burrow 20 feet
 

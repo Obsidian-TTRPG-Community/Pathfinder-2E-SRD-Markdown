@@ -35,15 +35,15 @@ abilities_mid:
   - name: "Mercy Vulnerability"
     desc: "  Babaus revel in gore, and when wounds are healed, they recoil in pain. When a creature heals from damage that the babau dealt on their last turn with Grievous [[Strike]], sneak attack, or a critical hit, the demon takes 4d6 (4d6) mental damage. The babau can take this mental damage only once per round."
   - name: "Reactive Slime"
-    desc: "⬲ __Trigger__ A creature within the babau's reach successfully hits the babau with a [[Strike]] __Effect__  The babau excretes a gout of acidic, bloodlike slime against the attacker and its weapon. The attacker must attempt a DC 24 Reflex save.\n__Critical Success__ The attacker is unaffected.\n__Success__ The attacker takes 1d6 (1d6) acid damage.\n__Failure__ The attacker takes 2d6 (2d6) acid damage.\n__Critical Failure__ As failure, except the weapon used to [[Strike]] the babau becomes [[broken|broken]], unless the weapon is made of a material that is immune to acid."
+    desc: "⬲ __Trigger__ A creature within the babau's reach successfully hits the babau with a [[Strike]] __Effect__  The babau excretes a gout of acidic, bloodlike slime against the attacker and its weapon. The attacker must attempt a DC 24 Reflex save.\n__Critical Success__ The attacker is unaffected.\n__Success__ The attacker takes 1d6 (1d6) acid damage.\n__Failure__ The attacker takes 2d6 (2d6) acid damage.\n__Critical Failure__ As failure, except the weapon used to [[Strike]] the babau becomes [[rules/conditions.md#Broken|broken]], unless the weapon is made of a material that is immune to acid."
 abilities_top:
   - name: Items
     desc: "+1 longspear;"
 abilities_bot:
   - name: "Grievous Strike"
-    desc: "⬺  The babau attacks with the intent of creating a particularly horrific and gory wound. The babau makes a melee [[Strike]]. This counts as two attacks when calculating the daemon's multiple attack penalty. If this [[Strike]] hits, the babau deals an additional 2d6 (2d6) damage of the same damage type, and the creature struck is [[frightened|frightened 2]]."
+    desc: "⬺  The babau attacks with the intent of creating a particularly horrific and gory wound. The babau makes a melee [[Strike]]. This counts as two attacks when calculating the daemon's multiple attack penalty. If this [[Strike]] hits, the babau deals an additional 2d6 (2d6) damage of the same damage type, and the creature struck is [[rules/conditions.md#Frightened|frightened 2]]."
   - name: "Sneak Attack"
-    desc: "  The babau's [[Strike|Strikes]] deal an extra 2d6 (2d6) precision damage to [[flat-footed|flat-footed]] creatures. Rituals like planar ally or planar binding are typical for long-term ends, and summon fiend for combat applications. For planar ally, demons."
+    desc: "  The babau's [[Strike|Strikes]] deal an extra 2d6 (2d6) precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures. Rituals like planar ally or planar binding are typical for long-term ends, and summon fiend for combat applications. For planar ally, demons."
 
 speed: 25 feet
 
@@ -67,7 +67,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 24; __2nd__ [[darkness]]; __4th__ [[dimension door]] (at will); __5th__ [[dimension door]]; __Constant__ __(5th)__ [[see invisibility]];"
+    desc: "DC 24; __2nd__ [[darkness]]; __4th__ [[dimension-door|dimension door]] (at will); __5th__ [[dimension-door|dimension door]]; __Constant__ __(5th)__ [[see-invisibility|see invisibility]];"
 sourcebook: "_Bestiary 2_, page 64."
 ```
 

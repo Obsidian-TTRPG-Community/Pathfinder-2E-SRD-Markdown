@@ -34,7 +34,7 @@ abilities_top:
     desc: "  A platecarpus can hold its breath for 2 hours."
 abilities_bot:
   - name: "Aquatic Drag"
-    desc: "⬻ __Requirements__ The platecarpus has a creature [[grabbed|grabbed]]  __Effect__  The platecarpus Swims up to half its Speed, carrying the [[grabbed|grabbed]] creature with it. Strafing Chomp ⬻ The platecarpus Swims up to its Speed, making one jaws [[Strike]] at any point along the way. The [[Strike]] deals half damage."
+    desc: "⬻ __Requirements__ The platecarpus has a creature [[rules/conditions.md#Grabbed|grabbed]]  __Effect__  The platecarpus Swims up to half its Speed, carrying the [[rules/conditions.md#Grabbed|grabbed]] creature with it. Strafing Chomp ⬻ The platecarpus Swims up to its Speed, making one jaws [[Strike]] at any point along the way. The [[Strike]] deals half damage."
   - name: "Swallow Whole"
     desc: "⬻ ([[attack]]);  Medium, 1d6+2 (1d6+2) bludgeoning, Rupture 10."
 

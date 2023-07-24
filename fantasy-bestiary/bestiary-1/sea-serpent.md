@@ -32,14 +32,14 @@ abilityMods: [8, 4, 6, -4, 2, 0]
 
 abilities_top:
   - name: "Undetectable"
-    desc: " ([[abjuration]], [[primal]]);  A sea serpent automatically tries to counteract any detection, revelation, or scrying divination attempted against it, using its [[Stealth]] modifier for its counteract modifier."
+    desc: " ([[abjuration]], [[primal]]);  A sea serpent automatically tries to counteract any detection, revelation, or scrying divination attempted against it, using its [[compendium/skills.md#Stealth|Stealth]] modifier for its counteract modifier."
 abilities_bot:
   - name: "Capsize"
-    desc: "⬻ ([[attack]]);  The sea serpent attempts to capsize an aquatic vessel of its size or smaller that it's adjacent to. It must succeed at an [[Athletics]] check with a DC of 35 or the pilot's [[Lore|Sailing Lore]] DC, whichever is higher."
+    desc: "⬻ ([[attack]]);  The sea serpent attempts to capsize an aquatic vessel of its size or smaller that it's adjacent to. It must succeed at an [[compendium/skills.md#Athletics|Athletics]] check with a DC of 35 or the pilot's [[compendium/skills.md#Lore|Sailing Lore]] DC, whichever is higher."
   - name: "Constrict"
     desc: "⬻  1d10+14 (1d10+14) bludgeoning."
   - name: "Sea Serpent Algae"
-    desc: " ([[incapacitation]], [[poison]]);  __Saving Throw__ DC 34 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ [[confused|confused]] and, if flying, spends its first action each turn to descend 20 feet (1 round) __Stage 1__ [[confused|confused]] and, if flying, descends until reaching the ground or water below (1 round)"
+    desc: " ([[incapacitation]], [[poison]]);  __Saving Throw__ DC 34 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ [[rules/conditions.md#Confused|confused]] and, if flying, spends its first action each turn to descend 20 feet (1 round) __Stage 1__ [[rules/conditions.md#Confused|confused]] and, if flying, descends until reaching the ground or water below (1 round)"
   - name: "Spine Rake"
     desc: "⬺ ([[attack]], [[move]]);  The sea serpent extends the spines along its back and Swims or [[Stride|Strides]]. Each creature the serpent is adjacent to at any point during its movement takes 4d6+8 (4d6+8) slashing damage (DC 32 basic Reflex save)."
   - name: "Swallow Whole"
@@ -63,7 +63,7 @@ attacks:
   - name: Melee
     desc: "⬻ tail +27 ([[agile]], [[reach|reach 30 feet]]); __Damage__ 2d10+14 (2d10+14) bludgeoning plus Grab"
   - name: Ranged
-    desc: "⬻ water spout +25 ([[brutal]], [[range increment|range increment 100 feet]], [[water]]); __Damage__ 2d6+12 (2d6+12) bludgeoning plus sea serpent algae"
+    desc: "⬻ water spout +25 ([[brutal]], [[range-increment|range increment 100 feet]], [[water]]); __Damage__ 2d6+12 (2d6+12) bludgeoning plus sea serpent algae"
 
 sourcebook: "_Bestiary_, page 288."
 ```

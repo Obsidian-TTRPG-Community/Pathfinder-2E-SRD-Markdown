@@ -35,7 +35,7 @@ abilities_bot:
   - name: "Change Shape"
     desc: "⬻ ([[concentrate]], [[occult]], [[polymorph]], [[transmutation]]);  The raja rakshasa takes on the appearance of any Medium humanoid. This doesn't change the raja rakshasa's Speed or its attack and damage modifiers with its [[Strike|Strikes]] but might change the damage type its [[Strike|Strikes]] deal (typically to bludgeoning). It typically loses its fangs [[Strike]] unless the humanoid form has fangs or a similar unarmed attack."
   - name: "Disturbing Vision"
-    desc: "⬻ ([[concentrate]], [[enchantment]], [[mental]], [[occult]]);  The raja rakshasa's eyes flash green as it projects a telepathic wave in a 30-foot emanation. All creatures in the area are assailed by a vision of evil decadence from one of the rakshasa's past lives. Each non-evil creature in the area must succeed at a DC 29 Will save or become [[sickened|sickened 1]] (and [[stunned|stunned 1]] on a critical failure). The visions last 1d4 (1d4) rounds, and while they do, the raja rakshasa and all evil creatures in the area gain a +1 status bonus to all checks. The raja rakshasa can use this ability again only once the previous visions end."
+    desc: "⬻ ([[concentrate]], [[enchantment]], [[mental]], [[occult]]);  The raja rakshasa's eyes flash green as it projects a telepathic wave in a 30-foot emanation. All creatures in the area are assailed by a vision of evil decadence from one of the rakshasa's past lives. Each non-evil creature in the area must succeed at a DC 29 Will save or become [[rules/conditions.md#Sickened|sickened 1]] (and [[rules/conditions.md#Stunned|stunned 1]] on a critical failure). The visions last 1d4 (1d4) rounds, and while they do, the raja rakshasa and all evil creatures in the area gain a +1 status bonus to all checks. The raja rakshasa can use this ability again only once the previous visions end."
 abilities_top:
   - name: Items
     desc: "[[kukri|+1 striking kukri]];"
@@ -62,9 +62,9 @@ attacks:
 
 spellcasting:
   - name: "Occult Spontaneous Spells"
-    desc: "DC 31; __Cantrips (5th)__ [[detect magic]], [[ghost sound]], [[mage hand]], [[read aura]], [[sigil]]; __1st__ (4 slots) [[charm]], [[illusory object]], [[item facade]]; __2nd__ (4 slots) [[blur]], [[hideous laughter]], [[invisibility]]; __3rd__ (4 slots) [[clairaudience]], [[dispel magic]], [[nondetection]], [[vampiric touch]]; __4th__ (4 slots) [[clairvoyance]], [[dispel magic]], [[fly]], [[suggestion]]; __5th__ (3 slots) [[dispel magic]], [[hallucination]], [[shadow blast]];"
+    desc: "DC 31; __Cantrips (5th)__ [[detect-magic|detect magic]], [[ghost-sound|ghost sound]], [[mage-hand|mage hand]], [[read-aura|read aura]], [[sigil]]; __1st__ (4 slots) [[charm]], [[illusory-object|illusory object]], [[item-facade|item facade]]; __2nd__ (4 slots) [[blur]], [[hideous-laughter|hideous laughter]], [[invisibility]]; __3rd__ (4 slots) [[clairaudience]], [[dispel-magic|dispel magic]], [[nondetection]], [[vampiric-touch|vampiric touch]]; __4th__ (4 slots) [[clairvoyance]], [[dispel-magic|dispel magic]], [[fly]], [[suggestion]]; __5th__ (3 slots) [[dispel-magic|dispel magic]], [[hallucination]], [[shadow-blast|shadow blast]];"
   - name: "Occult Innate Spells"
-    desc: "DC 31; __3rd__ [[mind reading]] (at will);"
+    desc: "DC 31; __3rd__ [[mind-reading|mind reading]] (at will);"
 sourcebook: "_Bestiary_, page 275."
 ```
 

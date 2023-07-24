@@ -40,7 +40,7 @@ abilities_mid:
     desc: "⬲ ([[healing]], [[necromancy]], [[primal]]); __Frequency__ once per hour __Trigger__ The forest dragon is targeted with a water spell or effect __Effect__  The forest dragon gains 30 temporary Hit Points."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[evocation]], [[primal]]);  The dragon unleashes a swarm of insects that deals 10d6 (10d6) piercing damage in a 30-foot cone (DC 29 basic Reflex save) before dispersing. A creature that critically fails is [[stunned|stunned 2]] from the insects' venom; this is a [[poison]] effect. The dragon can't use Breath Weapon again for 1d4 (1d4) rounds."
+    desc: "⬺ ([[evocation]], [[primal]]);  The dragon unleashes a swarm of insects that deals 10d6 (10d6) piercing damage in a 30-foot cone (DC 29 basic Reflex save) before dispersing. A creature that critically fails is [[rules/conditions.md#Stunned|stunned 2]] from the insects' venom; this is a [[poison]] effect. The dragon can't use Breath Weapon again for 1d4 (1d4) rounds."
   - name: "Coiling Frenzy"
     desc: "⬺  The dragon makes one claw [[Strike]] and one tail [[Strike]] in either order, each against the same target. If either [[Strike]] hits, the dragon automatically Grabs the target."
   - name: "Constrict"
@@ -48,7 +48,7 @@ abilities_bot:
   - name: "Draconic Momentum"
     desc: "  The dragon recharges their Breath Weapon whenever they score a critical hit with a [[Strike]]."
   - name: "Woodland Stride"
-    desc: "  The forest dragon ignores [[terrain|difficult terrain]] and [[terrain|greater difficult terrain]] from non-magical foliage."
+    desc: "  The forest dragon ignores [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] and [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|greater difficult terrain]] from non-magical foliage."
 
 speed: 40 feet, fly 100 feet; woodland stride;
 
@@ -72,7 +72,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 29; __Cantrips (2nd)__ [[know direction]]; __2nd__ [[entangle]]; __3rd__ [[fear]] animals,fungi,and plants only; __Constant__ __(1st)__ [[pass without trace]];"
+    desc: "DC 29; __Cantrips (2nd)__ [[know-direction|know direction]]; __2nd__ [[entangle]]; __3rd__ [[fear]] animals,fungi,and plants only; __Constant__ __(1st)__ [[pass-without-trace|pass without trace]];"
 sourcebook: "_Bestiary 3_, page 74."
 ```
 

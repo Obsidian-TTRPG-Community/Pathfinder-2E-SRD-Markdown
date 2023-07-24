@@ -33,7 +33,7 @@ abilityMods: [2, 2, 3, 0, 2, 0]
 
 abilities_top:
   - name: "Mist Vision"
-    desc: "  The water wisp ignores the [[concealed|concealed]] condition from mist and fog."
+    desc: "  The water wisp ignores the [[rules/conditions.md#Concealed|concealed]] condition from mist and fog."
 abilities_mid:
   - name: "Resonance"
     desc: " ([[aura]], [[air]]);  30 feet. All wisps vibrate at a frequency attuned to their element, resonating with and empowering all creatures and effects sharing that trait. A creature in the area gains a +1 status bonus to attack and damage rolls for effects with the [[water]] trait; a creature with the [[elemental]] and [[water]] traits gains this bonus to all attack and damage rolls."

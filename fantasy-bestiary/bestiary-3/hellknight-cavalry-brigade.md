@@ -49,9 +49,9 @@ abilities_bot:
   - name: "Swing from the Saddle"
     desc: "⬻ to ⬽ __Frequency__ once per round  __Effect__  The brigade engages in a coordinated melee attack against each enemy within 10 feet (DC 23 basic Reflex save). The damage depends on the number of actions.<ul class='inner-bullet-list'><li>⬻ 2d6 (2d6) slashing damage</li><li>⬺ 2d6+10 (2d6+10) slashing damage</li><li>⬽ 3d6+13 (3d6+13) slashing damage.</li></ul>"
   - name: "Trailblazing Stride"
-    desc: "  While moving on land, the Hellknight cavalry brigade ignores the effects of non-magical [[terrain|difficult terrain]]."
+    desc: "  While moving on land, the Hellknight cavalry brigade ignores the effects of non-magical [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]]."
   - name: "Troop Movement"
-    desc: "  Whenever the cavalry brigade [[Stride|Strides]], the brigade first Forms Up as a free action to condense into a 20-foot-by-20-foot area (minus any missing squares), then moves. This works just like a Gargantuan creature moving; for instance, if any square of the brigade enters [[terrain|difficult terrain]], the extra movement cost applies to the whole brigade."
+    desc: "  Whenever the cavalry brigade [[Stride|Strides]], the brigade first Forms Up as a free action to condense into a 20-foot-by-20-foot area (minus any missing squares), then moves. This works just like a Gargantuan creature moving; for instance, if any square of the brigade enters [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]], the extra movement cost applies to the whole brigade."
 
 speed: 40 feet; troop movement;
 

@@ -33,13 +33,13 @@ abilityMods: [7, 6, 5, 1, 6, 6]
 
 abilities_bot:
   - name: "Derghodaemon's Stare"
-    desc: "⬻ ([[divine]], [[emotion]], [[enchantment]], [[incapacitation]], [[mental]], [[visual]]);  A non-evil target must succeed at a DC 32 Will save or become [[confused|confused]] for 1 round, or 1 minute on a critical failure. It is temporarily immune for 10 minutes."
+    desc: "⬻ ([[divine]], [[emotion]], [[enchantment]], [[incapacitation]], [[mental]], [[visual]]);  A non-evil target must succeed at a DC 32 Will save or become [[rules/conditions.md#Confused|confused]] for 1 round, or 1 minute on a critical failure. It is temporarily immune for 10 minutes."
   - name: "Rend"
     desc: "⬻ ([[claw]]); "
   - name: "Savage Assault"
     desc: "⬺  The derghodaemon makes up to five claw [[Strike|Strikes]], each against a different target. These attacks count toward the derghodaemon's multiple attack penalty, but the penalty doesn't increase until after all the attacks."
   - name: "Swarming Infestation"
-    desc: "⬺  The derghodaemon spews a large swarm, making a swarm spit [[Strike]] against up to two adjacent targets within range. Whether or not the targets are hit, each must attempt a DC 31 Reflex save (at a –2 circumstance penalty if it was actually hit by the swarm spit). [[persistent damage|persistent damage]] caused by the swarming infestation ends as soon as the creature takes any amount of damage from an area effect. The derghodaemon can't use this ability for 1d4 (1d4) rounds.\n__Critical Success__ The swarm disperses as soon as it deals its swarm spit [[Strike]] damage.\n__Success__ The swarm clings to the target and infests it, dealing 1d6 (1d6) [[persistent damage|persistent piercing damage]].\n__Failure__ The swarm clings to the target and infests it, dealing 2d6 (2d6) [[persistent damage|persistent piercing damage]].\n__Critical Failure__ As failure, but the hissing sounds caused by the infestation also cause the target to become [[confused|confused]] for 1 round; this additional effect has the auditory, [[emotion]], and [[mental]] traits."
+    desc: "⬺  The derghodaemon spews a large swarm, making a swarm spit [[Strike]] against up to two adjacent targets within range. Whether or not the targets are hit, each must attempt a DC 31 Reflex save (at a –2 circumstance penalty if it was actually hit by the swarm spit). [[rules/conditions.md#Persistent%20Damage|persistent damage]] caused by the swarming infestation ends as soon as the creature takes any amount of damage from an area effect. The derghodaemon can't use this ability for 1d4 (1d4) rounds.\n__Critical Success__ The swarm disperses as soon as it deals its swarm spit [[Strike]] damage.\n__Success__ The swarm clings to the target and infests it, dealing 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent piercing damage]].\n__Failure__ The swarm clings to the target and infests it, dealing 2d6 (2d6) [[rules/conditions.md#Persistent%20Damage|persistent piercing damage]].\n__Critical Failure__ As failure, but the hissing sounds caused by the infestation also cause the target to become [[rules/conditions.md#Confused|confused]] for 1 round; this additional effect has the auditory, [[emotion]], and [[mental]] traits."
 
 speed: 35 feet
 
@@ -61,7 +61,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 32; __1st__ [[detect alignment]] good only; at will; __4th__ [[dimension door]] (at will); __5th__ [[dimension door]]; __6th__ [[blade barrier]], [[feeblemind]] (3);"
+    desc: "DC 32; __1st__ [[detect-alignment|detect alignment]] good only; at will; __4th__ [[dimension-door|dimension door]] (at will); __5th__ [[dimension-door|dimension door]]; __6th__ [[blade-barrier|blade barrier]], [[feeblemind]] (3);"
 sourcebook: "_Bestiary 2_, page 60."
 ```
 

@@ -31,7 +31,7 @@ abilityMods: [9, 0, 7, -3, 3, 0]
 
 abilities_mid:
   - name: "Partitioned Anatomy"
-    desc: "⭓ __Trigger__ The mukradi would be [[confused|confused]], [[paralyzed|paralyzed]], [[slowed|slowed]], or [[stunned|stunned]]. __Effect__  The mukradi confines the debilitating effect to a certain portion of its nervous system, ignoring the effect but causing a maw of its choice to go dormant for the effect's duration. That maw can't be used for a [[Strike]] or Breath Weapon during that time. This ability can't be used if all the mukradi's heads are dormant."
+    desc: "⭓ __Trigger__ The mukradi would be [[rules/conditions.md#Confused|confused]], [[rules/conditions.md#Paralyzed|paralyzed]], [[rules/conditions.md#Slowed|slowed]], or [[rules/conditions.md#Stunned|stunned]]. __Effect__  The mukradi confines the debilitating effect to a certain portion of its nervous system, ignoring the effect but causing a maw of its choice to go dormant for the effect's duration. That maw can't be used for a [[Strike]] or Breath Weapon during that time. This ability can't be used if all the mukradi's heads are dormant."
   - name: "Spitting Rage"
     desc: "⬲ __Trigger__ A creature scores a critical hit on the mukradi. __Effect__  The mukradi's Breath Weapon recharges. It can use its Breath Weapon immediately as part of this reaction. It canʼt use this reaction again until it recharges its Breath Weapon naturally."
 abilities_bot:

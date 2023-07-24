@@ -8,7 +8,7 @@ tags:
 aliases: ["Spring the Trap"]
 ---
 # Spring the Trap [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
-gunslinger  
+[gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  
 *Source: Lost Omens: Impossible Lands p. 108*  
 
 **Class** gunslinger; **Subclass** Triggerbrand

@@ -34,7 +34,7 @@ abilities_mid:
     desc: " ([[aura]], [[light]]);  10 feet. The flash beetle's bioluminescent organs fill the area with bright light."
 abilities_bot:
   - name: "Light Flash"
-    desc: "⬻ ([[concentrate]], [[light]]);  The flash beetle creates a brilliant flash of light. All creatures in its luminescent aura must succeed at a DC 17 Fortitude save or be [[dazzled|dazzled]] for 1 minute. The flash beetle's glow then goes out, disabling its aura for 24 hours, during which time it cannot use Light Flash."
+    desc: "⬻ ([[concentrate]], [[light]]);  The flash beetle creates a brilliant flash of light. All creatures in its luminescent aura must succeed at a DC 17 Fortitude save or be [[rules/conditions.md#Dazzled|dazzled]] for 1 minute. The flash beetle's glow then goes out, disabling its aura for 24 hours, during which time it cannot use Light Flash."
 
 speed: 20 feet, fly 15 feet
 

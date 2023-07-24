@@ -33,7 +33,7 @@ abilityMods: [1, 4, 2, 1, 1, 0]
 
 abilities_top:
   - name: "Clacking Exoskeleton"
-    desc: "  A creature that can hear gains a +2 circumstance bonus to its [[Perception]] DC against a vexgit's attempts to [[Sneak]]."
+    desc: "  A creature that can hear gains a +2 circumstance bonus to its [[compendium/skills.md#Perception|Perception]] DC against a vexgit's attempts to [[Sneak]]."
   - name: Items
     desc: "maul;"
 

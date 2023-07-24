@@ -36,9 +36,9 @@ abilities_mid:
     desc: " ([[aura]], [[divine]], [[evocation]], [[sonic]]);  20 feet. Allies in the area gain a +2 status bonus to sonic damage rolls and a +1 status bonus to AC and all saves against [[sonic]] and [[auditory]] effects. Enemies in the area take a –2 status penalty to sonic damage rolls and a –1 status penalty to AC and all saves against [[sonic]] and [[auditory]] effects."
 abilities_bot:
   - name: "Deafening Aria"
-    desc: "  On a critical hit with piercing hymn, the target is [[deafened|deafened]] for 1 minute."
+    desc: "  On a critical hit with piercing hymn, the target is [[rules/conditions.md#Deafened|deafened]] for 1 minute."
   - name: "Harmonize"
-    desc: "⬻  The choral angel adds its harmony to a choral angel ally within its harmonizing aura. The ally can cast [[calm emotions]] or heroism on its next turn in place of its 3rd-level [[sound burst]] or heighten its 3rd-level [[sound burst]] by 1 level. If five different choral angels use Harmonize on the same choral angel ally, it can instead cast [[divine decree]] in place of its 3rd-level [[sound burst]]."
+    desc: "⬻  The choral angel adds its harmony to a choral angel ally within its harmonizing aura. The ally can cast [[calm-emotions|calm emotions]] or heroism on its next turn in place of its 3rd-level [[sound-burst|sound burst]] or heighten its 3rd-level [[sound-burst|sound burst]] by 1 level. If five different choral angels use Harmonize on the same choral angel ally, it can instead cast [[divine-decree|divine decree]] in place of its 3rd-level [[sound-burst|sound burst]]."
 
 speed: 30 feet, fly 40 feet
 
@@ -60,7 +60,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 23, attack +13; __Cantrips (3rd)__ [[ghost sound]], [[inspire competence]] Core Rulebook 386, [[inspire courage]] Core Rulebook 386; __1st__ [[counter performance]] at will; Core Rulebook 386; __2nd__ [[invisibility]] (at will) self only, [[sound burst]] (at will); __3rd__ [[heal]], [[remove curse]], [[remove disease]], [[remove fear]] (at will), [[sound burst]]; __Constant__ __(5th)__ [[tongues]];"
+    desc: "DC 23, attack +13; __Cantrips (3rd)__ [[ghost-sound|ghost sound]], [[inspire-competence|inspire competence]] Core Rulebook 386, [[inspire-courage|inspire courage]] Core Rulebook 386; __1st__ [[counter-performance|counter performance]] at will; Core Rulebook 386; __2nd__ [[invisibility]] (at will) self only, [[sound-burst|sound burst]] (at will); __3rd__ [[heal]], [[remove-curse|remove curse]], [[remove-disease|remove disease]], [[remove-fear|remove fear]] (at will), [[sound-burst|sound burst]]; __Constant__ __(5th)__ [[tongues]];"
 sourcebook: "_Bestiary_, page 17."
 ```
 

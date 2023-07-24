@@ -39,7 +39,7 @@ abilities_bot:
   - name: "Negate Levitation"
     desc: "⬻ ([[evocation]], [[primal]]);  The skrik nettle attempts to counteract (with a modifier of +17) a single effect currently levitating a creature it can detect with its motionsense."
   - name: "Skrik Nettle Venom"
-    desc: " ([[evocation]], [[poison]], [[primal]]);  __Saving Throw__ DC 27 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ [[clumsy|clumsy 1]] and levitate upward 5 feet (1 round) __Stage 2__ [[clumsy|clumsy 2]] and levitate upward 10 feet (1 round)"
+    desc: " ([[evocation]], [[poison]], [[primal]]);  __Saving Throw__ DC 27 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ [[rules/conditions.md#Clumsy|clumsy 1]] and levitate upward 5 feet (1 round) __Stage 2__ [[rules/conditions.md#Clumsy|clumsy 2]] and levitate upward 10 feet (1 round)"
 
 speed: 10 feet, fly 25 feet
 

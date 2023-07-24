@@ -32,11 +32,11 @@ abilityMods: [6, 5, 4, 5, 6, 8]
 
 abilities_bot:
   - name: "Emotional Focus"
-    desc: "  The quelaunt can cast the following cleric domain spells as 8th-level occult innate spells at will without spending Focus Points: [[blind ambition]], [[captivating adoration]], and [[delusional pride]]."
+    desc: "  The quelaunt can cast the following cleric domain spells as 8th-level occult innate spells at will without spending Focus Points: [[blind-ambition|blind ambition]], [[captivating-adoration|captivating adoration]], and [[delusional-pride|delusional pride]]."
   - name: "Emotional Frenzy"
     desc: "⬽  The quelaunt casts up to three spells chosen from its at-will innate spells and its emotional focus spells."
   - name: "Feed on Emotion"
-    desc: "⬻ ([[attack]], [[emotion]], [[incapacitation]], [[mental]]); __Frequency__ once per round  __Effect__  The quelaunt feeds on the emotional unrest of a single creature within 30 feet that's under a harmful [[emotion]] effect. The target must succeed at a DC 37 Will save or take 4d10 (4d10) mental damage and be [[stunned|stunned]] for 1 round. If the target fails its saving throw, the quelaunt regains the same number of Hit Points and Feed on Emotion does not cost the quelaunt an action, allowing it to use another action this turn."
+    desc: "⬻ ([[attack]], [[emotion]], [[incapacitation]], [[mental]]); __Frequency__ once per round  __Effect__  The quelaunt feeds on the emotional unrest of a single creature within 30 feet that's under a harmful [[emotion]] effect. The target must succeed at a DC 37 Will save or take 4d10 (4d10) mental damage and be [[rules/conditions.md#Stunned|stunned]] for 1 round. If the target fails its saving throw, the quelaunt regains the same number of Hit Points and Feed on Emotion does not cost the quelaunt an action, allowing it to use another action this turn."
   - name: "Rapid Strikes"
     desc: "⬺ ([[attack]]);  The quelaunt makes three melee [[Strike|Strikes]], each against a different target within reach. The multiple attack penalty applies to each attack, but increases only after all the attacks have been made."
   - name: "Spiral of Despair"
@@ -60,7 +60,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 39; __2nd__ [[hideous laughter]]; __3rd__ [[fear]] (at will); __7th__ [[crushing despair]] (3); __Constant__ __(4th)__ [[air walk]];"
+    desc: "DC 39; __2nd__ [[hideous-laughter|hideous laughter]]; __3rd__ [[fear]] (at will); __7th__ [[crushing-despair|crushing despair]] (3); __Constant__ __(4th)__ [[air-walk|air walk]];"
 sourcebook: "_Bestiary_, page 273."
 ```
 

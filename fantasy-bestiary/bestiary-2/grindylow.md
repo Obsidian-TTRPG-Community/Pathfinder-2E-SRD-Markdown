@@ -39,7 +39,7 @@ abilities_top:
     desc: "spear;"
 abilities_bot:
   - name: "Clinging Suckers"
-    desc: "  When a grindylow Grabs a creature larger than itself, it attaches to that creature. The [[grabbed|grabbed]] creature is not [[immobilized|immobilized]], but if it moves, the grindylow moves with it. If the creature is Medium or smaller, it takes a –5-foot status penalty to its Speeds while the grindylow is attached. The grindylow is [[flat-footed|flat-footed]] while it is attached to a creature."
+    desc: "  When a grindylow Grabs a creature larger than itself, it attaches to that creature. The [[rules/conditions.md#Grabbed|grabbed]] creature is not [[rules/conditions.md#Immobilized|immobilized]], but if it moves, the grindylow moves with it. If the creature is Medium or smaller, it takes a –5-foot status penalty to its Speeds while the grindylow is attached. The grindylow is [[rules/conditions.md#Flat-Footed|flat-footed]] while it is attached to a creature."
   - name: "Jet"
     desc: "⬺ ([[move]]);  The grindylow moves up to 60 feet in a straight line through the water without triggering reactions."
 

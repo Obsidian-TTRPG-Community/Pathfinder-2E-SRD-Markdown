@@ -34,12 +34,12 @@ abilityMods: [2, 6, 4, 2, 4, 0]
 
 abilities_mid:
   - name: "Void Child"
-    desc: "  Sceaduinars have neither souls nor the ability to create. A sceaduinar is immune to effects that target a soul (such as bind soul or resurrect) or that require knowledge of a creature's identity (such as scrying), and critically fails [[Crafting]] checks."
+    desc: "  Sceaduinars have neither souls nor the ability to create. A sceaduinar is immune to effects that target a soul (such as bind soul or resurrect) or that require knowledge of a creature's identity (such as scrying), and critically fails [[compendium/skills.md#Crafting|Crafting]] checks."
   - name: "Wing Flash"
-    desc: "⬲ __Trigger__ A creature attempts a melee attack against a sceaduinar or an __Effect__  [[Acrobatics]] check to [Tumble Through](../../rules/actions/tumble-through.md) the sceaduinar's space; The sceaduinar flexes its wings to emit a brief pulse of negative energy that deals 4d6 (4d6) negative damage to the triggering creature (DC 22 basic Reflex save)."
+    desc: "⬲ __Trigger__ A creature attempts a melee attack against a sceaduinar or an __Effect__  [[compendium/skills.md#Acrobatics|Acrobatics]] check to [Tumble Through](../../rules/actions/tumble-through.md) the sceaduinar's space; The sceaduinar flexes its wings to emit a brief pulse of negative energy that deals 4d6 (4d6) negative damage to the triggering creature (DC 22 basic Reflex save)."
 abilities_bot:
   - name: "Drain Life"
-    desc: " ([[necromancy]], [[occult]]);  When the sceaduinar damages a living creature with its jaws [[Strike]], the sceaduinar gains 5 temporary Hit Points and the creature must succeed at a DC 25 Fortitude save or become [[drained|drained 1]]. Further damage dealt to the creature by the sceaduinar increases the [[drained|drained]] value by 1 on a failed save, to a maximum of [[drained|drained 4]]."
+    desc: " ([[necromancy]], [[occult]]);  When the sceaduinar damages a living creature with its jaws [[Strike]], the sceaduinar gains 5 temporary Hit Points and the creature must succeed at a DC 25 Fortitude save or become [[rules/conditions.md#Drained|drained 1]]. Further damage dealt to the creature by the sceaduinar increases the [[rules/conditions.md#Drained|drained]] value by 1 on a failed save, to a maximum of [[rules/conditions.md#Drained|drained 4]]."
   - name: "Entropic Touch"
     desc: "  Negative damage dealt by a sceaduinar damages undead and creatures with negative healing as if it were positive damage. The sceaduinar's melee [[Strike|Strikes]] have the benefits of the ghost touch property rune on attacks against incorporeal undead."
 
@@ -63,7 +63,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 25; __Cantrips (4th)__ [[chill touch]]; __2nd__ [[silence]]; __3rd__ [[grim tendrils]], [[harm]] (3); __4th__ [[darkness]], [[dimension door]], [[dispel magic]], [[harm]];"
+    desc: "DC 25; __Cantrips (4th)__ [[chill-touch|chill touch]]; __2nd__ [[silence]]; __3rd__ [[grim-tendrils|grim tendrils]], [[harm]] (3); __4th__ [[darkness]], [[dimension-door|dimension door]], [[dispel-magic|dispel magic]], [[harm]];"
 sourcebook: "_Bestiary 2_, page 233."
 ```
 

@@ -38,7 +38,7 @@ abilities_mid:
     desc: "⬲  Jaws only."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺  The gold dragon breathes in one of two ways. The dragon can't use Breath Weapon again for 1d4 (1d4) rounds.<ul class='inner-bullet-list'><li>__Flame__ (arcane, evocation, fire); The dragon breathes a blast of flame in a 30-foot cone that deals 11d6 (11d6) fire damage (DC 31 basic Reflex save).</li><li>__Weakening Gas__ (arcane, necromancy); The dragon breathes a blast of weakening gas. Each creature within a 30-foot cone must succeed at a DC 31 Fortitude save or become [[enfeebled|enfeebled 1]] for 1 minute (or [[enfeebled|enfeebled 2]] on a critical failure).</li></ul>"
+    desc: "⬺  The gold dragon breathes in one of two ways. The dragon can't use Breath Weapon again for 1d4 (1d4) rounds.<ul class='inner-bullet-list'><li>__Flame__ (arcane, evocation, fire); The dragon breathes a blast of flame in a 30-foot cone that deals 11d6 (11d6) fire damage (DC 31 basic Reflex save).</li><li>__Weakening Gas__ (arcane, necromancy); The dragon breathes a blast of weakening gas. Each creature within a 30-foot cone must succeed at a DC 31 Fortitude save or become [[rules/conditions.md#Enfeebled|enfeebled 1]] for 1 minute (or [[rules/conditions.md#Enfeebled|enfeebled 2]] on a critical failure).</li></ul>"
   - name: "Draconic Frenzy"
     desc: "⬺  The gold dragon makes two claw [[Strike|Strikes]] and one horns [[Strike]] in any order."
   - name: "Draconic Momentum"
@@ -68,7 +68,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 29; __1st__ [[detect alignment]] evil only; __3rd__ [[locate]] gems only;"
+    desc: "DC 29; __1st__ [[detect-alignment|detect alignment]] evil only; __3rd__ [[locate]] gems only;"
 sourcebook: "_Bestiary_, page 124."
 ```
 

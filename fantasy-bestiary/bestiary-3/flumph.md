@@ -32,10 +32,10 @@ abilityMods: [0, 4, 0, 1, 3, 2]
 
 abilities_mid:
   - name: "Upside Down"
-    desc: "  A flumph that is knocked [[prone|prone]] must succeed at a DC 11 flat check or land on its back, rendering it [[flat-footed|flat-footed]] and [[immobilized|immobilized]]. An adjacent ally can [[Interact]] to right the flumph, removing both conditions."
+    desc: "  A flumph that is knocked [[rules/conditions.md#Prone|prone]] must succeed at a DC 11 flat check or land on its back, rendering it [[rules/conditions.md#Flat-Footed|flat-footed]] and [[rules/conditions.md#Immobilized|immobilized]]. An adjacent ally can [[Interact]] to right the flumph, removing both conditions."
 abilities_bot:
   - name: "Spray Perfume"
-    desc: "⬻ ([[olfactory]]);  The flumph sprays a 20-foot line of foul-smelling liquid. Each creature caught in the spray must succeed at a DC 16 Fortitude save or become [[sickened|sickened 1]] ([[sickened|sickened 2]] on a critical failure). The odor from the spray lingers for 1d4 (1d4) hours on all creatures that failed their saves. The sprayed creatures can be detected by smell at a range of 100 feet, and any creatures adjacent to them take a –2 circumstance penalty to saves against Spray Perfume or to recover from the [[sickened|sickened]] condition. The flumph can't use Spray Perfume again for 1d4 (1d4) rounds."
+    desc: "⬻ ([[olfactory]]);  The flumph sprays a 20-foot line of foul-smelling liquid. Each creature caught in the spray must succeed at a DC 16 Fortitude save or become [[rules/conditions.md#Sickened|sickened 1]] ([[rules/conditions.md#Sickened|sickened 2]] on a critical failure). The odor from the spray lingers for 1d4 (1d4) hours on all creatures that failed their saves. The sprayed creatures can be detected by smell at a range of 100 feet, and any creatures adjacent to them take a –2 circumstance penalty to saves against Spray Perfume or to recover from the [[rules/conditions.md#Sickened|sickened]] condition. The flumph can't use Spray Perfume again for 1d4 (1d4) rounds."
 
 speed: 5 feet, fly 25 feet
 
@@ -51,7 +51,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ spikes +7 ([[agile]], [[finesse]]); __Damage__ 1d4 (1d4) piercing plus 1d4 (1d4) [[persistent damage|persistent acid]]"
+    desc: "⬻ spikes +7 ([[agile]], [[finesse]]); __Damage__ 1d4 (1d4) piercing plus 1d4 (1d4) [[rules/conditions.md#Persistent%20Damage|persistent acid]]"
 
 sourcebook: "_Bestiary 3_, page 100."
 ```

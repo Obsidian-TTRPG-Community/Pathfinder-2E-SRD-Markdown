@@ -44,7 +44,7 @@ abilities_bot:
   - name: "Breath Weapon"
     desc: "⬺ ([[electricity]], [[evocation]], [[primal]]);  The taiga linnorm breathes a 60-foot cone of electrified vapor, dealing 20d6 (20d6) electricity damage to creatures in the area (DC 41 basic Reflex save). The electrified mist persists for 1d4 (1d4) rounds, dealing 6d6 (6d6) electricity damage (DC 41 basic Reflex save) to each creature that ends its turn in the mist. The taiga linnorm can't use Breath Weapon again for 1d4 (1d4) rounds."
   - name: "Taiga Linnorm Venom"
-    desc: " ([[electricity]], [[poison]]);  __Saving Throw__ DC 42 Fortitude. __Maximum Duration__ 10 rounds __Stage 1__ 7d6 (7d6) electricity damage and [[drained|drained 1]] (1 round) __Stage 2__ 10d6 (10d6) electricity damage and [[drained|drained 2]] (1 round)"
+    desc: " ([[electricity]], [[poison]]);  __Saving Throw__ DC 42 Fortitude. __Maximum Duration__ 10 rounds __Stage 1__ 7d6 (7d6) electricity damage and [[rules/conditions.md#Drained|drained 1]] (1 round) __Stage 2__ 10d6 (10d6) electricity damage and [[rules/conditions.md#Drained|drained 2]] (1 round)"
 
 speed: 40 feet, fly 100 feet, swim 50 feet; freedom of movement;
 
@@ -68,7 +68,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 41; __Constant__ __(8th)__ [[true seeing]], __(9th)__ [[freedom of movement]];"
+    desc: "DC 41; __Constant__ __(8th)__ [[true-seeing|true seeing]], __(9th)__ [[freedom-of-movement|freedom of movement]];"
 sourcebook: "_Bestiary 2_, page 167."
 ```
 

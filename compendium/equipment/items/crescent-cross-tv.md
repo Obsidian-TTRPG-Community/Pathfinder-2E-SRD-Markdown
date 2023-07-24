@@ -11,7 +11,7 @@ tags:
 aliases: ["Crescent Cross"]
 ---
 # Crescent Cross *Item 1*  
-combination  
+[combination](rules/traits/combination-g-g.md "Combination Weapon Trait")  
 
 - **Price** 8 gp
 - **Bulk** L

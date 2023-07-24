@@ -48,7 +48,7 @@ abilities_bot:
   - name: "Draconic Momentum"
     desc: "  The dragon recharges their Breath Weapon whenever they score a critical hit with a [[Strike]]."
   - name: "Desiccating Bite"
-    desc: "⬺  The dragon makes a jaws [[Strike]]. On a hit, the target takes 4d6 (4d6) [[persistent damage|persistent acid damage]], and is [[sickened|sickened 2]] from the pain of salt and brine in its wounds."
+    desc: "⬺  The dragon makes a jaws [[Strike]]. On a hit, the target takes 4d6 (4d6) [[rules/conditions.md#Persistent%20Damage|persistent acid damage]], and is [[rules/conditions.md#Sickened|sickened 2]] from the pain of salt and brine in its wounds."
 
 speed: 40 feet, fly 120 feet, swim 60 feet
 
@@ -74,7 +74,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 32, attack +24; __2nd__ [[obscuring mist]]; __3rd__ [[hydraulic push]] (3); __4th__ [[hydraulic torrent]];"
+    desc: "DC 32, attack +24; __2nd__ [[obscuring-mist|obscuring mist]]; __3rd__ [[hydraulic-push|hydraulic push]] (3); __4th__ [[hydraulic-torrent|hydraulic torrent]];"
 sourcebook: "_Bestiary 2_, page 87."
 ```
 

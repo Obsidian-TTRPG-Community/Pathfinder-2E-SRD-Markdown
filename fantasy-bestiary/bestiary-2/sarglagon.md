@@ -34,14 +34,14 @@ abilityMods: [6, 3, 4, 2, 4, 3]
 
 abilities_mid:
   - name: "Heavy Aura"
-    desc: " ([[aura]], [[divine]], [[incapacitation]], [[transmutation]]);  10 feet. A creature that enters the heavy aura must attempt a DC 23 Will save. It is then temporarily immune for 10 minutes.\n__Success__ The creature is unaffected.\n__Failure__ The creature is [[encumbered|encumbered]] while it remains in the area. If the creature is already [[encumbered|encumbered]], it is [[immobilized|immobilized]] while it remains within the aura.\n__Critical Failure__ As failure, but the effect persists for 3 rounds after leaving the aura."
+    desc: " ([[aura]], [[divine]], [[incapacitation]], [[transmutation]]);  10 feet. A creature that enters the heavy aura must attempt a DC 23 Will save. It is then temporarily immune for 10 minutes.\n__Success__ The creature is unaffected.\n__Failure__ The creature is [[rules/conditions.md#Encumbered|encumbered]] while it remains in the area. If the creature is already [[rules/conditions.md#Encumbered|encumbered]], it is [[rules/conditions.md#Immobilized|immobilized]] while it remains within the aura.\n__Critical Failure__ As failure, but the effect persists for 3 rounds after leaving the aura."
   - name: "Stygian Guardian"
     desc: "⬲ __Trigger__ A creature or object within the sarglagon's reach is targeted by an attack __Effect__  The sarglagon interposes themself, giving the creature or object standard cover against the attack (+2 circumstance bonus to AC), or greater cover (+4 circumstance bonus to AC) if the sarglagon was already granting it lesser cover."
 abilities_bot:
   - name: "Drown"
-    desc: "⬺ ([[conjuration]], [[divine]], [[incapacitation]]);  The sarglagon conjures murky water to fill the lungs of a creature that can't breathe water within 30 feet. The target must attempt a DC 26 Fortitude save.\n__Critical Success__ The target is unaffected.\n__Success__ The target coughs up water and is [[sickened|sickened 1]].\n__Failure__ The target is holding its breath (Core Rulebook 478). The only action it can take is to attempt a Fortitude save against Drown to expel the water, which is a single action.\n__Critical Failure__ The target falls [[unconscious|unconscious]] and begins suffocating. If the target succeeds at its Fortitude save while suffocating, it coughs up the water and can breathe again."
+    desc: "⬺ ([[conjuration]], [[divine]], [[incapacitation]]);  The sarglagon conjures murky water to fill the lungs of a creature that can't breathe water within 30 feet. The target must attempt a DC 26 Fortitude save.\n__Critical Success__ The target is unaffected.\n__Success__ The target coughs up water and is [[rules/conditions.md#Sickened|sickened 1]].\n__Failure__ The target is holding its breath (Core Rulebook 478). The only action it can take is to attempt a Fortitude save against Drown to expel the water, which is a single action.\n__Critical Failure__ The target falls [[rules/conditions.md#Unconscious|unconscious]] and begins suffocating. If the target succeeds at its Fortitude save while suffocating, it coughs up the water and can breathe again."
   - name: "Sarglagon Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 26 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d6 (2d6) poison damage and [[clumsy|clumsy 1]] (1 round) __Stage 2__ 3d6 (3d6) poison damage and [[clumsy|clumsy 2]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 26 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d6 (2d6) poison damage and [[rules/conditions.md#Clumsy|clumsy 1]] (1 round) __Stage 2__ 3d6 (3d6) poison damage and [[rules/conditions.md#Clumsy|clumsy 2]] (1 round)"
 
 speed: 25 feet, fly 25 feet, swim 30 feet
 
@@ -63,7 +63,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 23, attack +18; __4th__ [[dimension door]] (at will), [[freedom of movement]], [[hydraulic torrent]]; __5th__ [[control water]], [[dimension door]]; __Constant__ __(2nd)__ [[see invisibility]];"
+    desc: "DC 23, attack +18; __4th__ [[dimension-door|dimension door]] (at will), [[freedom-of-movement|freedom of movement]], [[hydraulic-torrent|hydraulic torrent]]; __5th__ [[control-water|control water]], [[dimension-door|dimension door]]; __Constant__ __(2nd)__ [[see-invisibility|see invisibility]];"
 sourcebook: "_Bestiary 2_, page 73."
 ```
 

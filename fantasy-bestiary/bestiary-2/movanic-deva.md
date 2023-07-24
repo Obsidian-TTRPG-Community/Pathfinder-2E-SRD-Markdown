@@ -33,7 +33,7 @@ abilityMods: [6, 4, 4, 4, 5, 5]
 
 abilities_mid:
   - name: "Aura of Vitality"
-    desc: " ([[abjuration]], [[aura]], [[divine]]);  20 feet. Allies in the movanic deva's aura gain a +1 status bonus to all saving throws, resistance 10 to positive and negative damage, and are unharmed by the effects of a plane's [[positive]] and [[negative]] traits. Animals in the aura of 12th level or lower don't attack the movanic deva or the deva's allies unless they are [[controlled|controlled]] or otherwise forced to attack."
+    desc: " ([[abjuration]], [[aura]], [[divine]]);  20 feet. Allies in the movanic deva's aura gain a +1 status bonus to all saving throws, resistance 10 to positive and negative damage, and are unharmed by the effects of a plane's [[positive]] and [[negative]] traits. Animals in the aura of 12th level or lower don't attack the movanic deva or the deva's allies unless they are [[rules/conditions.md#Controlled|controlled]] or otherwise forced to attack."
 abilities_top:
   - name: Items
     desc: "+1 striking bastard sword;"
@@ -61,7 +61,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 29; __1st__ [[detect alignment]] (at will) evil only; __2nd__ [[invisibility]] (at will) self only; __4th__ [[create food]], [[heal]] (3); __5th__ [[divine wrath]], [[remove curse]], [[remove disease]], [[remove fear]]; __Constant__ __(5th)__ [[tongues]];"
+    desc: "DC 29; __1st__ [[detect-alignment|detect alignment]] (at will) evil only; __2nd__ [[invisibility]] (at will) self only; __4th__ [[create-food|create food]], [[heal]] (3); __5th__ [[divine-wrath|divine wrath]], [[remove-curse|remove curse]], [[remove-disease|remove disease]], [[remove-fear|remove fear]]; __Constant__ __(5th)__ [[tongues]];"
 sourcebook: "_Bestiary 2_, page 14."
 ```
 

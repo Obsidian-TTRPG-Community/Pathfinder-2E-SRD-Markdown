@@ -33,7 +33,7 @@ abilityMods: [-2, 4, 0, 2, 0, 2]
 
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[arcane]], [[evocation]], [[poison]]);  The dragon breathes euphoric gas in a 10-foot cone. Each creature in the area must succeed at a DC 18 Fortitude save or become [[stupefied|stupefied 2]] and [[slowed|slowed 1]] for 1d4 (1d4) rounds; on a critical failure, the duration is 1 minute. The faerie dragon can't use Breath Weapon again for 1d4 (1d4) rounds."
+    desc: "⬺ ([[arcane]], [[evocation]], [[poison]]);  The dragon breathes euphoric gas in a 10-foot cone. Each creature in the area must succeed at a DC 18 Fortitude save or become [[rules/conditions.md#Stupefied|stupefied 2]] and [[rules/conditions.md#Slowed|slowed 1]] for 1d4 (1d4) rounds; on a critical failure, the duration is 1 minute. The faerie dragon can't use Breath Weapon again for 1d4 (1d4) rounds."
 
 speed: 15 feet, fly 40 feet, swim 20 feet
 
@@ -55,7 +55,7 @@ spellcasting:
   - name: "Arcane Innate Spells"
     desc: "DC 21; __4th__ [[invisibility]] self only;"
   - name: "Arcane Spontaneous Spells"
-    desc: "DC 18, attack +10; __Cantrips (1st)__ [[dancing lights]], [[ghost sound]], [[prestidigitation]], [[tanglefoot]], [[telekinetic projectile]]; __1st__ (4 slots) [[grease]], [[illusory object]], [[sleep]];"
+    desc: "DC 18, attack +10; __Cantrips (1st)__ [[dancing-lights|dancing lights]], [[ghost-sound|ghost sound]], [[prestidigitation]], [[tanglefoot]], [[telekinetic-projectile|telekinetic projectile]]; __1st__ (4 slots) [[grease]], [[illusory-object|illusory object]], [[sleep]];"
 sourcebook: "_Bestiary_, page 157."
 ```
 

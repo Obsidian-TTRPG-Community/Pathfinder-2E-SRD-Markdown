@@ -35,13 +35,13 @@ abilityMods: [4, 5, 2, 2, 2, 4]
 
 abilities_mid:
   - name: "Whirlwind"
-    desc: " ([[air]], [[arcane]], [[aura]], [[evocation]]);  20 feet. All squares in the djinni's aura are [[terrain|difficult terrain]] for [[Stride|Striding]] and Flying creatures. Creatures with the [[air]] trait are immune."
+    desc: " ([[air]], [[arcane]], [[aura]], [[evocation]]);  20 feet. All squares in the djinni's aura are [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] for [[Stride|Striding]] and Flying creatures. Creatures with the [[air]] trait are immune."
 abilities_top:
   - name: Items
     desc: "scimitar;"
 abilities_bot:
   - name: "Hurricane Blast"
-    desc: "⬻ ([[air]], [[arcane]], [[evocation]]); __Frequency__ once per round  __Effect__  The djinni all creatures in its whirlwind pushes back 20 feet, or forces all creatures in the aura to move 20 feet clockwise or counterclockwise. Each creature must attempt a DC 21 Fortitude save. On a success, it avoids being moved, and on a critical failure it falls [[prone|prone]] in addition to being moved. Creatures with the [[air]] trait are immune."
+    desc: "⬻ ([[air]], [[arcane]], [[evocation]]); __Frequency__ once per round  __Effect__  The djinni all creatures in its whirlwind pushes back 20 feet, or forces all creatures in the aura to move 20 feet clockwise or counterclockwise. Each creature must attempt a DC 21 Fortitude save. On a success, it avoids being moved, and on a critical failure it falls [[rules/conditions.md#Prone|prone]] in addition to being moved. Creatures with the [[air]] trait are immune."
 
 speed: 25 feet, fly 40 feet
 
@@ -61,11 +61,11 @@ attacks:
   - name: Melee
     desc: "⬻ fist +16 ([[agile]], [[finesse]], [[magical]], [[nonlethal]], [[reach|reach 10 feet]]); __Damage__ 1d4+10 (1d4+10) bludgeoning"
   - name: Ranged
-    desc: "⬻ crashing wind +15 ([[air]], [[arcane]], [[evocation]], [[range increment|range increment 20 feet]]); __Damage__ 1d8+6 (1d8+6) bludgeoning"
+    desc: "⬻ crashing wind +15 ([[air]], [[arcane]], [[evocation]], [[range-increment|range increment 20 feet]]); __Damage__ 1d8+6 (1d8+6) bludgeoning"
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 23; __2nd__ [[enhance victuals]] (at will), [[invisibility]] at will; self only; __3rd__ [[illusory creature]], [[illusory object]]; __4th__ [[creation]], [[gaseous form]]; __7th__ [[plane shift]] at will; to Astral Plane,Elemental Planes,or Material Plane only; __Constant__ __(3rd)__ [[detect magic]];"
+    desc: "DC 23; __2nd__ [[enhance-victuals|enhance victuals]] (at will), [[invisibility]] at will; self only; __3rd__ [[illusory-creature|illusory creature]], [[illusory-object|illusory object]]; __4th__ [[creation]], [[gaseous-form|gaseous form]]; __7th__ [[plane-shift|plane shift]] at will; to Astral Plane,Elemental Planes,or Material Plane only; __Constant__ __(3rd)__ [[detect-magic|detect magic]];"
 sourcebook: "_Bestiary_, page 163."
 ```
 

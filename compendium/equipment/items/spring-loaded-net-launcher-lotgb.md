@@ -11,7 +11,7 @@ tags:
 aliases: ["Spring-loaded Net Launcher"]
 ---
 # Spring-loaded Net Launcher *Item 2*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  clockwork  gadget  
+[clockwork](rules/traits/clockwork-g-g.md "Clockwork  Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [gadget](rules/traits/gadget-g-g.md "Gadget  Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 6 gp
 - **Usage** held in 1 hand; **Bulk** 1

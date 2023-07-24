@@ -72,7 +72,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 26, attack +18; __1st__ [[hydraulic push]] (2); __2nd__ [[obscuring mist]];"
+    desc: "DC 26, attack +18; __1st__ [[hydraulic-push|hydraulic push]] (2); __2nd__ [[obscuring-mist|obscuring mist]];"
 sourcebook: "_Bestiary 2_, page 87."
 ```
 

@@ -33,7 +33,7 @@ abilityMods: [2, 4, 1, 0, 3, 0]
 
 abilities_bot:
   - name: "Sentry's Aim"
-    desc: "⬺ ([[concentrate]]);  The archer sentry aims carefully and fires. They make a ranged weapon [[Strike]] with a +1 circumstance bonus. The [[Strike]] ignores the [[concealed|concealed]] condition, lesser cover, and standard cover, and reduces greater cover to standard cover."
+    desc: "⬺ ([[concentrate]]);  The archer sentry aims carefully and fires. They make a ranged weapon [[Strike]] with a +1 circumstance bonus. The [[Strike]] ignores the [[rules/conditions.md#Concealed|concealed]] condition, lesser cover, and standard cover, and reduces greater cover to standard cover."
 abilities_top:
   - name: Items
     desc: "composite longbow (100 arrows), shortsword, leather armor, signal whistle;"
@@ -54,7 +54,7 @@ attacks:
   - name: Melee
     desc: "⬻ shortsword +10 ([[agile]], [[finesse]], [[versatile|versatile p]]); __Damage__ 1d6+3 (1d6+3) slashing"
   - name: Ranged
-    desc: "⬻ composite longbow +10 ([[deadly|deadly 1d10]], [[range increment|range increment 100 feet]], [[reload|reload 0]], [[volley|volley 30 feet]]); __Damage__ 1d8+2 (1d8+2) piercing"
+    desc: "⬻ composite longbow +10 ([[deadly|deadly 1d10]], [[range-increment|range increment 100 feet]], [[reload|reload 0]], [[volley|volley 30 feet]]); __Damage__ 1d8+2 (1d8+2) piercing"
 
 sourcebook: "_Gamemastery Guide_, page 234."
 ```

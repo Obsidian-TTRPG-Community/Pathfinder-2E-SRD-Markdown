@@ -31,7 +31,7 @@ abilityMods: [3, 4, 3, -4, 1, 0]
 
 abilities_bot:
   - name: "Spray Blinding Musk"
-    desc: "⬺ ([[poison]]);  The giant skunk propels potent, acrid musk in a 15-foot cone. Each creature in the line must attempt a DC 17 Fortitude save.\n__Critical Success__ The target is unaffected.\n__Success__ The target is [[sickened|sickened 1]].\n__Failure__ The target is [[sickened|sickened 3]].\n__Critical Failure__ The target is [[blinded|blinded]] for 1 round, becomes [[sickened|sickened 3]], and takes a –2 penalty to [[Stealth]] checks from the horrific odor for 24 hours or until the musk is removed or neutralized, requiring 10 minutes of thorough scrubbing with soap. and one bag of holding too many?"
+    desc: "⬺ ([[poison]]);  The giant skunk propels potent, acrid musk in a 15-foot cone. Each creature in the line must attempt a DC 17 Fortitude save.\n__Critical Success__ The target is unaffected.\n__Success__ The target is [[rules/conditions.md#Sickened|sickened 1]].\n__Failure__ The target is [[rules/conditions.md#Sickened|sickened 3]].\n__Critical Failure__ The target is [[rules/conditions.md#Blinded|blinded]] for 1 round, becomes [[rules/conditions.md#Sickened|sickened 3]], and takes a –2 penalty to [[compendium/skills.md#Stealth|Stealth]] checks from the horrific odor for 24 hours or until the musk is removed or neutralized, requiring 10 minutes of thorough scrubbing with soap. and one bag of holding too many?"
 
 speed: 25 feet
 

@@ -32,10 +32,10 @@ abilityMods: [6, 3, 5, -4, 4, 0]
 
 abilities_top:
   - name: "Smoke Vision"
-    desc: "  The magma scorpion ignores the [[concealed|concealed]] condition from smoke."
+    desc: "  The magma scorpion ignores the [[rules/conditions.md#Concealed|concealed]] condition from smoke."
 abilities_bot:
   - name: "Magma Scorpion Venom"
-    desc: " ([[fire]], [[injury]], [[poison]]);  __Saving Throw__ DC 26 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d6 (2d6) fire damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 3d6 (3d6) fire damage and [[enfeebled|enfeebled 2]] (1 round)"
+    desc: " ([[fire]], [[injury]], [[poison]]);  __Saving Throw__ DC 26 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d6 (2d6) fire damage and [[rules/conditions.md#Enfeebled|enfeebled 1]] (1 round) __Stage 2__ 3d6 (3d6) fire damage and [[rules/conditions.md#Enfeebled|enfeebled 2]] (1 round)"
   - name: "Elemental, Mephit"
     desc: "  Mephits are small, weak creatures that serve at the whims of other elemental entities. The mephits presented here are less common than air mephits, earth mephits, and the like, as they are a blend of two different elements rather than focusing on one alone."
 
@@ -53,11 +53,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ pincer +20 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 2d6+9 (2d6+9) bludgeoning plus 1d6 (1d6) [[persistent damage|persistent fire]] and Grab"
+    desc: "⬻ pincer +20 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 2d6+9 (2d6+9) bludgeoning plus 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent fire]] and Grab"
   - name: Melee
-    desc: "⬻ tail sting +20 ([[reach|reach 10 feet]]); __Damage__ 1d10+9 (1d10+9) piercing plus 1d6 (1d6) [[persistent damage|persistent fire]] and magma scorpion venom"
+    desc: "⬻ tail sting +20 ([[reach|reach 10 feet]]); __Damage__ 1d10+9 (1d10+9) piercing plus 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent fire]] and magma scorpion venom"
   - name: Ranged
-    desc: "⬻ magma spit +17 ([[fire]], [[range increment|range increment 40 feet]]); __Damage__ 1d6+9 (1d6+9) fire plus 1d6 (1d6) [[persistent damage|persistent fire]]"
+    desc: "⬻ magma spit +17 ([[fire]], [[range-increment|range increment 40 feet]]); __Damage__ 1d6+9 (1d6+9) fire plus 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent fire]]"
 
 sourcebook: "_Bestiary 2_, page 111."
 ```

@@ -33,7 +33,7 @@ abilityMods: [2, 4, 2, 0, 2, -1]
 
 abilities_bot:
   - name: "Hidden Movement"
-    desc: "  If the deep gnome scout starts its turn [[undetected|undetected]] or [[hidden|hidden]] to a creature, that creature is [[flat-footed|flat-footed]] against the deep gnome scout's attacks until the end of the turn."
+    desc: "  If the deep gnome scout starts its turn [[rules/conditions.md#Undetected|undetected]] or [[rules/conditions.md#Hidden|hidden]] to a creature, that creature is [[rules/conditions.md#Flat-Footed|flat-footed]] against the deep gnome scout's attacks until the end of the turn."
 abilities_top:
   - name: Items
     desc: "light pick, sling (20 bullets);"
@@ -54,11 +54,11 @@ attacks:
   - name: Melee
     desc: "⬻ light pick +7 ([[agile]], [[fatal|fatal d8]]); __Damage__ 1d4+2 (1d4+2) piercing"
   - name: Ranged
-    desc: "⬻ sling +9 ([[propulsive]], [[range increment|range increment 50 feet]], [[reload|reload 1]]); __Damage__ 1d6+1 (1d6+1) bludgeoning"
+    desc: "⬻ sling +9 ([[propulsive]], [[range-increment|range increment 50 feet]], [[reload|reload 1]]); __Damage__ 1d6+1 (1d6+1) bludgeoning"
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 14; __1st__ [[illusory disguise]];"
+    desc: "DC 14; __1st__ [[illusory-disguise|illusory disguise]];"
 sourcebook: "_Bestiary_, page 74."
 ```
 

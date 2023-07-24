@@ -38,7 +38,7 @@ abilities_bot:
   - name: "Breath Weapon"
     desc: "⬺ ([[air]], [[fire]], [[primal]]);  The dragon turtle breathes a massive blast of steam that deals 10d6 (10d6) fire damage to creatures within a 50-foot cone (DC 27 basic Reflex save). This steam blast affects creatures within the water, as well as outside. The dragon turtle can't use its Breath Weapon again for 1d4 (1d4) rounds or until it takes a critical hit (whichever comes first)."
   - name: "Capsize"
-    desc: "⬻ ([[attack]], [[move]]);  The dragon turtle tries to capsize an adjacent aquatic vessel of its size or smaller. The dragon turtle must succeed at an [[Athletics]] check with a DC of 30 or the pilot's [[Lore|Sailing Lore]] DC, whichever is higher."
+    desc: "⬻ ([[attack]], [[move]]);  The dragon turtle tries to capsize an adjacent aquatic vessel of its size or smaller. The dragon turtle must succeed at an [[compendium/skills.md#Athletics|Athletics]] check with a DC of 30 or the pilot's [[compendium/skills.md#Lore|Sailing Lore]] DC, whichever is higher."
   - name: "Draconic Frenzy"
     desc: "⬺  The dragon turtle makes two claw [[Strike|Strikes]] and one jaws [[Strike]] in any order."
 

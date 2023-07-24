@@ -42,7 +42,7 @@ abilities_top:
     desc: "+1 striking kukri, Leng ruby worth 30 gp (2);"
 abilities_bot:
   - name: "Debilitating Bite"
-    desc: " ([[curse]], [[occult]]);  A creature that takes damage from a denizen's bite must succeed at a DC 27 Fortitude save or become [[clumsy|clumsy 1]]. Each time a target fails an additional save against this ability, the condition value increases by 1 (to a maximum of [[clumsy|clumsy 4]]). This condition value decreases by 1 every 24 hours."
+    desc: " ([[curse]], [[occult]]);  A creature that takes damage from a denizen's bite must succeed at a DC 27 Fortitude save or become [[rules/conditions.md#Clumsy|clumsy 1]]. Each time a target fails an additional save against this ability, the condition value increases by 1 (to a maximum of [[rules/conditions.md#Clumsy|clumsy 4]]). This condition value decreases by 1 every 24 hours."
   - name: "Leng Ruby"
     desc: " ([[enchantment]], [[occult]]);  Many denizens of Leng carry strange rubies mined from quarries in Leng. As long as a creature holds a Leng ruby that it willingly accepted as a gift or payment from a denizen of Leng, any denizen of Leng can target that creature with outcast's curse, phantom pain, or mind reading at a range of 1 mile, and the bearer uses an outcome one degree of success worse than the result of its saving throw against outcast's curse."
 
@@ -60,13 +60,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ kukri +18 ([[agile]], [[finesse]], [[magical]], [[trip]]); __Damage__ 2d6+6 (2d6+6) slashing plus 1d6 (1d6) [[persistent damage|persistent bleed]]"
+    desc: "⬻ kukri +18 ([[agile]], [[finesse]], [[magical]], [[trip]]); __Damage__ 2d6+6 (2d6+6) slashing plus 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed]]"
   - name: Melee
     desc: "⬻ jaws +17 ([[agile]], [[finesse]]); __Damage__ 2d10+6 (2d10+6) piercing plus debilitating bite"
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 27, attack +19; __Cantrips (4th)__ [[chill touch]], [[detect magic]], [[mage hand]], [[message]], [[read aura]]; __2nd__ [[mirror image]]; __3rd__ [[hypnotic pattern]], [[levitate]], [[locate]], [[mind reading]]; __4th__ [[outcast's curse]], [[phantom pain]], [[suggestion]]; __Constant__ __(4th)__ [[tongues]];"
+    desc: "DC 27, attack +19; __Cantrips (4th)__ [[chill-touch|chill touch]], [[detect-magic|detect magic]], [[mage-hand|mage hand]], [[message]], [[read-aura|read aura]]; __2nd__ [[mirror-image|mirror image]]; __3rd__ [[hypnotic-pattern|hypnotic pattern]], [[levitate]], [[locate]], [[mind-reading|mind reading]]; __4th__ [[outcast's curse]], [[phantom-pain|phantom pain]], [[suggestion]]; __Constant__ __(4th)__ [[tongues]];"
 sourcebook: "_Bestiary 2_, page 70."
 ```
 

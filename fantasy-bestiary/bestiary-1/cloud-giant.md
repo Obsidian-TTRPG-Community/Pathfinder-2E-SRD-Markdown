@@ -45,7 +45,7 @@ abilities_bot:
   - name: "Throw Rock"
     desc: "⬻ "
   - name: "Wind Strike"
-    desc: "⬺ ([[air]], [[evocation]], [[primal]]);  The cloud giant [[Strike|Strikes]] a creature with its ranseur, surrounded in a roar of rushing air. On a hit, the target takes an additional 4d8 (4d8) bludgeoning damage and is [[deafened|deafened]] for 1 minute. Whether or not the [[Strike]] hits, each non-cloud giant within a 20-foot emanation, including the target of the [[Strike]], is buffeted by roaring winds and must attempt a DC 30 Fortitude saving throw.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature takes 2d8 (2d8) sonic damage.\n__Failure__ The creature takes 4d8 (4d8) sonic damage and is [[deafened|deafened]] until the end of its next turn.\n__Critical Failure__ As failure, but double damage and also knocked [[prone|prone]]."
+    desc: "⬺ ([[air]], [[evocation]], [[primal]]);  The cloud giant [[Strike|Strikes]] a creature with its ranseur, surrounded in a roar of rushing air. On a hit, the target takes an additional 4d8 (4d8) bludgeoning damage and is [[rules/conditions.md#Deafened|deafened]] for 1 minute. Whether or not the [[Strike]] hits, each non-cloud giant within a 20-foot emanation, including the target of the [[Strike]], is buffeted by roaring winds and must attempt a DC 30 Fortitude saving throw.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature takes 2d8 (2d8) sonic damage.\n__Failure__ The creature takes 4d8 (4d8) sonic damage and is [[rules/conditions.md#Deafened|deafened]] until the end of its next turn.\n__Critical Failure__ As failure, but double damage and also knocked [[rules/conditions.md#Prone|prone]]."
 
 speed: 30 feet
 
@@ -65,11 +65,11 @@ attacks:
   - name: Melee
     desc: "⬻ fist +24 ([[agile]], [[reach|reach 15 feet]]); __Damage__ 2d8+13 (2d8+13) bludgeoning"
   - name: Ranged
-    desc: "⬻ rock +24 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 2d10+13 (2d10+13) bludgeoning"
+    desc: "⬻ rock +24 ([[brutal]], [[range-increment|range increment 120 feet]]); __Damage__ 2d10+13 (2d10+13) bludgeoning"
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 30; __2nd__ [[obscuring mist]] (at will); __3rd__ [[levitate]] (at will); __4th__ [[solid fog]];"
+    desc: "DC 30; __2nd__ [[obscuring-mist|obscuring mist]] (at will); __3rd__ [[levitate]] (at will); __4th__ [[solid-fog|solid fog]];"
 sourcebook: "_Bestiary_, page 173."
 ```
 

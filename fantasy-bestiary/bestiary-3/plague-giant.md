@@ -42,9 +42,9 @@ abilities_top:
     desc: "+1 striking flail, sack with 5 rocks;"
 abilities_bot:
   - name: "Atrophic Plague"
-    desc: " ([[disease]], [[divine]], [[necromancy]]);  __Saving Throw__ DC 34 Fortitude. __Stage 1__ [[enfeebled|enfeebled 2]] and [[fatigued|fatigued]] (1 day) __Stage 2__ [[enfeebled|enfeebled 3]] and [[fatigued|fatigued]] (1 day) __Stage 3__ [[enfeebled|enfeebled 4]] and [[fatigued|fatigued]]  (1 day)"
+    desc: " ([[disease]], [[divine]], [[necromancy]]);  __Saving Throw__ DC 34 Fortitude. __Stage 1__ [[rules/conditions.md#Enfeebled|enfeebled 2]] and [[rules/conditions.md#Fatigued|fatigued]] (1 day) __Stage 2__ [[rules/conditions.md#Enfeebled|enfeebled 3]] and [[rules/conditions.md#Fatigued|fatigued]] (1 day) __Stage 3__ [[rules/conditions.md#Enfeebled|enfeebled 4]] and [[rules/conditions.md#Fatigued|fatigued]]  (1 day)"
   - name: "Hurl Corpse"
-    desc: "⬻  The plague giant picks up a dead or [[dying|dying]] creature within reach and flings it at a foe. The giant makes a rock [[Strike]], using the body instead of a rock. If the body is a corpse, on a hit it explodes in a cloud of thick gray vapor, exposing all creatures in a 10-foot burst to atrophic plague. If the body is a [[dying|dying]] creature, on a hit its [[dying|dying]] value increases by 1 (or 2 on a critical hit)."
+    desc: "⬻  The plague giant picks up a dead or [[rules/conditions.md#Dying|dying]] creature within reach and flings it at a foe. The giant makes a rock [[Strike]], using the body instead of a rock. If the body is a corpse, on a hit it explodes in a cloud of thick gray vapor, exposing all creatures in a 10-foot burst to atrophic plague. If the body is a [[rules/conditions.md#Dying|dying]] creature, on a hit its [[rules/conditions.md#Dying|dying]] value increases by 1 (or 2 on a critical hit)."
   - name: "Pustulant Flail"
     desc: "  A plague giant's flail is covered in pus, causing it to deal 3d6 (3d6) additional poison damage."
   - name: "Throw Rock"
@@ -68,11 +68,11 @@ attacks:
   - name: Melee
     desc: "⬻ claw +30 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 3d6+14 (3d6+14) slashing plus atrophic plague"
   - name: Ranged
-    desc: "⬻ rock +28 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 3d8+14 (3d8+14) bludgeoning"
+    desc: "⬻ rock +28 ([[brutal]], [[range-increment|range increment 120 feet]]); __Damage__ 3d8+14 (3d8+14) bludgeoning"
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 34; __6th__ [[cloudkill]], [[death knell]] (3), [[take its course]] Core Rulebook 397;"
+    desc: "DC 34; __6th__ [[cloudkill]], [[death-knell|death knell]] (3), [[take-its-course|take its course]] Core Rulebook 397;"
 sourcebook: "_Bestiary 3_, page 111."
 ```
 

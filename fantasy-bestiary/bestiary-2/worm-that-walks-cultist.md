@@ -55,11 +55,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ tendril +29 ([[reach|reach 10 feet]]); __Damage__ 4d8+14 (4d8+14) [[persistent damage|persistent piercing damage]]"
+    desc: "⬻ tendril +29 ([[reach|reach 10 feet]]); __Damage__ 4d8+14 (4d8+14) [[rules/conditions.md#Persistent%20Damage|persistent piercing damage]]"
 
 spellcasting:
   - name: "Occult Spontaneous Spells"
-    desc: "DC 34, attack +26; __Cantrips (7th)__ [[daze]], [[detect magic]], [[light]], [[mage hand]], [[shield]]; __1st__ (4 slots) [[charm]], [[illusory disguise]], [[mindlink]], [[ray of enfeeblement]]; __2nd__ (4 slots) [[comprehend language]], [[illusory creature]], [[mirror image]], [[undetectable alignment]]; __3rd__ (4 slots) [[dream message]], [[haste]], [[hypercognition]], [[slow]]; __4th__ (4 slots) [[dimension door]], [[modify memory]], [[suggestion]], [[veil]]; __5th__ (4 slots) [[black tentacles]], [[mind probe]], [[phantom pain]], [[subconscious suggestion]]; __6th__ (4 slots) [[dispel magic]], [[dominate]], [[paranoia]], [[summon entity]]; __7th__ (3 slots) [[phantasmal killer]], [[visions of danger]], [[warp mind]];"
+    desc: "DC 34, attack +26; __Cantrips (7th)__ [[daze]], [[detect-magic|detect magic]], [[light]], [[mage-hand|mage hand]], [[shield]]; __1st__ (4 slots) [[charm]], [[illusory-disguise|illusory disguise]], [[mindlink]], [[ray-of-enfeeblement|ray of enfeeblement]]; __2nd__ (4 slots) [[comprehend-language|comprehend language]], [[illusory-creature|illusory creature]], [[mirror-image|mirror image]], [[undetectable-alignment|undetectable alignment]]; __3rd__ (4 slots) [[dream-message|dream message]], [[haste]], [[hypercognition]], [[slow]]; __4th__ (4 slots) [[dimension-door|dimension door]], [[modify-memory|modify memory]], [[suggestion]], [[veil]]; __5th__ (4 slots) [[black-tentacles|black tentacles]], [[mind-probe|mind probe]], [[phantom-pain|phantom pain]], [[subconscious-suggestion|subconscious suggestion]]; __6th__ (4 slots) [[dispel-magic|dispel magic]], [[dominate]], [[paranoia]], [[summon-entity|summon entity]]; __7th__ (3 slots) [[phantasmal-killer|phantasmal killer]], [[visions-of-danger|visions of danger]], [[warp-mind|warp mind]];"
 sourcebook: "_Bestiary 2_, page 297."
 ```
 

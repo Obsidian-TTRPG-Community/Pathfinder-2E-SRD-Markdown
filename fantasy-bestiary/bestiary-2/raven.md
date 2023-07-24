@@ -31,7 +31,7 @@ abilityMods: [-3, 3, 0, -4, 3, 0]
 
 abilities_top:
   - name: "Cunning"
-    desc: "  A raven can use simple items as tools, such as poking a stick at an opening to tease out a piece of food. They are also quite adept at stealing objects. A raven can't use [[Thievery]] to [[Palm an Object]], [[Disable a Device]], or [[Pick a Lock]], but it can use [[Thievery]] to [[Steal]] light objects that it can carry in its beak or talons or to accomplish other relatively simple tasks."
+    desc: "  A raven can use simple items as tools, such as poking a stick at an opening to tease out a piece of food. They are also quite adept at stealing objects. A raven can't use [[compendium/skills.md#Thievery|Thievery]] to [[Palm-an-Object|Palm an Object]], [[Disable-a-Device|Disable a Device]], or [[Pick-a-Lock|Pick a Lock]], but it can use [[compendium/skills.md#Thievery|Thievery]] to [[Steal]] light objects that it can carry in its beak or talons or to accomplish other relatively simple tasks."
 
 speed: 10 feet, fly 40 feet
 

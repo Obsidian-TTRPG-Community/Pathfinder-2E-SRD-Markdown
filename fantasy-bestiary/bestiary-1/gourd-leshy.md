@@ -41,7 +41,7 @@ abilities_bot:
   - name: "Change Shape"
     desc: "⬻ ([[concentrate]], [[polymorph]], [[primal]], [[transmutation]]);  As leaf leshy, except the gourd leshy transforms into a gourd-bearing plant."
   - name: "Ensnare"
-    desc: "  When the gourd leshy damages a creature with a fist or seed [[Strike]], vines lash out from the leshy (or seed) and wrap around the target's limbs. The target must attempt a DC 17 Reflex save. On a failure, the target takes a –10-foot status penalty to its Speed for 1 round; on a critical failure, the target is [[immobilized|immobilized]] for 1 round and the penalty to Speed lasts for 1 minute."
+    desc: "  When the gourd leshy damages a creature with a fist or seed [[Strike]], vines lash out from the leshy (or seed) and wrap around the target's limbs. The target must attempt a DC 17 Reflex save. On a failure, the target takes a –10-foot status penalty to its Speed for 1 round; on a critical failure, the target is [[rules/conditions.md#Immobilized|immobilized]] for 1 round and the penalty to Speed lasts for 1 minute."
 
 speed: 25 feet
 
@@ -59,11 +59,11 @@ attacks:
   - name: Melee
     desc: "⬻ fist +7 ([[agile]], [[finesse]]); __Damage__ 1d4+2 (1d4+2) bludgeoning plus ensnare"
   - name: Ranged
-    desc: "⬻ seed +9 ([[range increment|range increment 30 feet]]); __Damage__ 1d6+2 (1d6+2) bludgeoning plus ensnare"
+    desc: "⬻ seed +9 ([[range-increment|range increment 30 feet]]); __Damage__ 1d6+2 (1d6+2) bludgeoning plus ensnare"
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 15; __4th__ [[speak with plants]];"
+    desc: "DC 15; __4th__ [[speak-with-plants|speak with plants]];"
 sourcebook: "_Bestiary_, page 218."
 ```
 

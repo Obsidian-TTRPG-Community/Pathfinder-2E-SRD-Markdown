@@ -60,7 +60,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 28; __4th__ [[clairaudience]], [[clairvoyance]], [[dimensional anchor]], [[dispel magic]], [[paralyze]] (3); __5th__ [[locate]]; __Constant__ __(6th)__ [[true seeing]];"
+    desc: "DC 28; __4th__ [[clairaudience]], [[clairvoyance]], [[dimensional-anchor|dimensional anchor]], [[dispel-magic|dispel magic]], [[paralyze]] (3); __5th__ [[locate]]; __Constant__ __(6th)__ [[true-seeing|true seeing]];"
 sourcebook: "_Bestiary 2_, page 9."
 ```
 

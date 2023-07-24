@@ -33,14 +33,14 @@ abilityMods: [7, 6, 5, 1, 5, 4]
 
 abilities_mid:
   - name: "Attack of Opportunity"
-    desc: "⬲  Barb only. A hamatula gains an extra reaction at the start of each of its turns that it can use only to make an [[Attack of Opportunity]]. It can't use more than one [[Attack of Opportunity]] triggered by the same action. In addition to the normal trigger, a hamatula can make an [[Attack of Opportunity]] against a creature that touches it or an adjacent creature that attempts a melee [[Strike]] against it."
+    desc: "⬲  Barb only. A hamatula gains an extra reaction at the start of each of its turns that it can use only to make an [[Attack-of-Opportunity|Attack of Opportunity]]. It can't use more than one [[Attack-of-Opportunity|Attack of Opportunity]] triggered by the same action. In addition to the normal trigger, a hamatula can make an [[Attack-of-Opportunity|Attack of Opportunity]] against a creature that touches it or an adjacent creature that attempts a melee [[Strike]] against it."
 abilities_bot:
   - name: "Bloodletting"
-    desc: "  On a critical hit, the hamatula's barbs deal 3d6 (3d6) [[persistent damage|persistent bleed damage]]."
+    desc: "  On a critical hit, the hamatula's barbs deal 3d6 (3d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed damage]]."
   - name: "Frightful Strike"
-    desc: "⭓ ([[divine]], [[emotion]], [[enchantment]], [[fear]], [[mental]]); __Trigger__ The hamatula hits a creature with a barb [[Strike]] __Effect__  The creature struck must succeed at a DC 27 Will save or become [[frightened|frightened 2]] (or [[frightened|frightened 3]] on a critical failure). Regardless of the result of its saving throw, the creature is then temporarily immune to Frightful [[Strike]] for 24 hours."
+    desc: "⭓ ([[divine]], [[emotion]], [[enchantment]], [[fear]], [[mental]]); __Trigger__ The hamatula hits a creature with a barb [[Strike]] __Effect__  The creature struck must succeed at a DC 27 Will save or become [[rules/conditions.md#Frightened|frightened 2]] (or [[rules/conditions.md#Frightened|frightened 3]] on a critical failure). Regardless of the result of its saving throw, the creature is then temporarily immune to Frightful [[Strike]] for 24 hours."
   - name: "Impaling Barb"
-    desc: "⬺  The hamatula makes a barb [[Strike]], then [[Stride|Strides]] up to half its Speed without triggering reactions. If the [[Strike]] hits, the hamatula impales the target with one of its barbs and snaps the barb free as it moves away from the target. This deals an additional 2d8 (2d8) piercing damage to the target and pins it to an adjacent surface, rendering it [[immobilized|immobilized]] ([[Escape]] DC 29)."
+    desc: "⬺  The hamatula makes a barb [[Strike]], then [[Stride|Strides]] up to half its Speed without triggering reactions. If the [[Strike]] hits, the hamatula impales the target with one of its barbs and snaps the barb free as it moves away from the target. This deals an additional 2d8 (2d8) piercing damage to the target and pins it to an adjacent surface, rendering it [[rules/conditions.md#Immobilized|immobilized]] ([[Escape]] DC 29)."
   - name: "Warden of Erebus"
     desc: "  A hamatula's glyph of warding innate spell can contain any common spell from the Core Rulebook that meets the criteria in glyph of warding; the hamatula doesn't need to provide the spell."
 
@@ -60,11 +60,11 @@ attacks:
   - name: Melee
     desc: "⬻ barb +24 ([[evil]], [[magical]]); __Damage__ 3d8+13 (3d8+13) piercing plus 1d6 (1d6) evil and bloodletting"
   - name: Ranged
-    desc: "⬻ hurled barb +23 ([[evil]], [[magical]], [[range increment|range increment 60 feet]]); __Damage__ 2d8+13 (2d8+13) piercing plus 1d6 (1d6) evil and bloodletting"
+    desc: "⬻ hurled barb +23 ([[evil]], [[magical]], [[range-increment|range increment 60 feet]]); __Damage__ 2d8+13 (2d8+13) piercing plus 1d6 (1d6) evil and bloodletting"
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 27, attack +21; __Cantrips (5th)__ [[produce flame]]; __3rd__ [[harm]], [[paralyze]] (2); __4th__ [[dimension door]] (at will); __5th__ [[dimension door]], [[glyph of warding]] (at will);"
+    desc: "DC 27, attack +21; __Cantrips (5th)__ [[produce-flame|produce flame]]; __3rd__ [[harm]], [[paralyze]] (2); __4th__ [[dimension-door|dimension door]] (at will); __5th__ [[dimension-door|dimension door]], [[glyph-of-warding|glyph of warding]] (at will);"
 sourcebook: "_Bestiary 2_, page 74."
 ```
 

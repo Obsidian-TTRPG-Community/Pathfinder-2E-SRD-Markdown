@@ -32,7 +32,7 @@ abilityMods: [0, 3, 2, -4, 2, -2]
 
 abilities_bot:
   - name: "Compsognathus Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 16 Fortitude. __Maximum Duration__ 4 rounds __Stage 1__ 1d6 (1d6) poison damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 1d8 (1d8) poison damage and [[enfeebled|enfeebled 1]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 16 Fortitude. __Maximum Duration__ 4 rounds __Stage 1__ 1d6 (1d6) poison damage and [[rules/conditions.md#Enfeebled|enfeebled 1]] (1 round) __Stage 2__ 1d8 (1d8) poison damage and [[rules/conditions.md#Enfeebled|enfeebled 1]] (1 round)"
 
 speed: 30 feet, swim 15 feet
 

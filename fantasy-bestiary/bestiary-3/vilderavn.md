@@ -33,16 +33,16 @@ abilityMods: [8, 6, 5, 4, 4, 7]
 
 abilities_mid:
   - name: "Aura of Disquietude"
-    desc: " ([[aura]], [[emotion]], [[fear]], [[mental]]);  30 feet, DC 35. As frightful presence (page 305), plus a creature [[frightened|frightened]] by the aura becomes suspicious: it doesn't count any other creature as its ally and can't [[Aid]] or flank. On a critical failure, the creature also can't be a willing target for harmless or [[helpful|helpful]] magic."
+    desc: " ([[aura]], [[emotion]], [[fear]], [[mental]]);  30 feet, DC 35. As frightful presence (page 305), plus a creature [[rules/conditions.md#Frightened|frightened]] by the aura becomes suspicious: it doesn't count any other creature as its ally and can't [[Aid]] or flank. On a critical failure, the creature also can't be a willing target for harmless or [[rules/conditions.md#Helpful|helpful]] magic."
   - name: "Attack of Opportunity"
     desc: "⬲ "
 abilities_bot:
   - name: "Bloodbird"
-    desc: " ([[curse]], [[occult]]);  A creature hit by a vilderavn's melee attack becomes cursed. It takes 2d6 (2d6) [[persistent damage|persistent bleed damage]] that's difficult to stanch. The DC to stop the bleeding using [[Administer First Aid]] is 35, and healing the creature to full HP doesn't automatically end the bleeding. Removing the curse ends the bleeding."
+    desc: " ([[curse]], [[occult]]);  A creature hit by a vilderavn's melee attack becomes cursed. It takes 2d6 (2d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed damage]] that's difficult to stanch. The DC to stop the bleeding using [[Administer-First-Aid|Administer First Aid]] is 35, and healing the creature to full HP doesn't automatically end the bleeding. Removing the curse ends the bleeding."
   - name: "Change Shape"
     desc: "⬻ ([[concentrate]], [[occult]], [[polymorph]], [[transmutation; page 304]]);  The vilderavn takes on the appearance of a Small or Medium humanoid, wolf, dire wolf, or hybrid with both raven and wolf parts. The vilderavn can only use their jaws attack when in a form with a wolf's head, and their talon attack in a form with raven qualities. They can instead assume their raven knight form: a Medium humanoid in black full plate carrying a greatsword. They can use their jaws or talon [[Strike|Strikes]] only in a form that has that body part, and their greatsword only in knight form."
   - name: "Souleater"
-    desc: " ([[necromancy]], [[occult]]);  If the vilderavn kills a humanoid target with a critical hit using their jaws [[Strike]], they rip out and devour the target's heart and soul as part of the attack. While the target is dead, the vilderavn can Change Shape into the target's form, gaining a +4 status bonus to [[Deception]] checks to impersonate the target. If magic would resurrect the creature, the caster must succeed at a DC 34 counteract check to extract the target's soul from the vilderavn; otherwise, the spell fails."
+    desc: " ([[necromancy]], [[occult]]);  If the vilderavn kills a humanoid target with a critical hit using their jaws [[Strike]], they rip out and devour the target's heart and soul as part of the attack. While the target is dead, the vilderavn can Change Shape into the target's form, gaining a +4 status bonus to [[compendium/skills.md#Deception|Deception]] checks to impersonate the target. If magic would resurrect the creature, the caster must succeed at a DC 34 counteract check to extract the target's soul from the vilderavn; otherwise, the spell fails."
 
 speed: 40 feet, fly 120 feet
 
@@ -66,7 +66,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 37; __5th__ [[crushing despair]] (at will), [[modify memory]], [[outcast's curse]] (at will), [[suggestion]] (at will); __8th__ [[ethereal jaunt]], [[suggestion]]; __Constant__ __(6th)__ [[tongues]], [[true seeing]];"
+    desc: "DC 37; __5th__ [[crushing-despair|crushing despair]] (at will), [[modify-memory|modify memory]], [[outcast's curse]] (at will), [[suggestion]] (at will); __8th__ [[ethereal-jaunt|ethereal jaunt]], [[suggestion]]; __Constant__ __(6th)__ [[tongues]], [[true-seeing|true seeing]];"
 sourcebook: "_Bestiary 3_, page 287."
 ```
 

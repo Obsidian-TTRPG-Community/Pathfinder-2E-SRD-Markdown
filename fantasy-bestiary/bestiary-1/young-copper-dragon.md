@@ -38,7 +38,7 @@ abilities_mid:
     desc: "⬲ __Trigger__ A creature within reach of the copper dragon's tail uses a move action or leaves a square during a move action it's using. __Effect__  The dragon makes a tail [[Strike]] at the creature with a –2 penalty. If it hits, the dragon disrupts the triggering action."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺  The copper dragon breathes in one of two ways. The dragon can't use Breath Weapon again for 1d4 (1d4) rounds.<ul class='inner-bullet-list'><li>__Acid__ (acid, arcane, evocation); The dragon breathes acid in a 60-foot line that deals 8d6 (8d6) acid damage (DC 26 basic Fortitude save).</li><li>__Slowing Gas__ (arcane, transmutation); The dragon breathes a 60-foot line of slowing gas. Each creature in the area must succeed at a DC 26 Fortitude save or be [[slowed|slowed 1]] for 1 round (or [[slowed|slowed 2]] on a critical failure).</li></ul>"
+    desc: "⬺  The copper dragon breathes in one of two ways. The dragon can't use Breath Weapon again for 1d4 (1d4) rounds.<ul class='inner-bullet-list'><li>__Acid__ (acid, arcane, evocation); The dragon breathes acid in a 60-foot line that deals 8d6 (8d6) acid damage (DC 26 basic Fortitude save).</li><li>__Slowing Gas__ (arcane, transmutation); The dragon breathes a 60-foot line of slowing gas. Each creature in the area must succeed at a DC 26 Fortitude save or be [[rules/conditions.md#Slowed|slowed 1]] for 1 round (or [[rules/conditions.md#Slowed|slowed 2]] on a critical failure).</li></ul>"
   - name: "Climb Stone"
     desc: "  The dragon's climb speed functions only when climbing stone surfaces."
   - name: "Draconic Frenzy"

@@ -37,12 +37,12 @@ abilities_mid:
   - name: "Devour"
     desc: "  Soul ability. Incorporeal undead and living spirits traveling outside the body take 1d8 (1d8) force damage each round within the daemon's aura from the spiritual pressure as the astradaemon pulls in fragments of their soul."
   - name: "Displacement"
-    desc: " ([[divine]], [[illusion]], [[visual]]);  An astradaemon bends light, appearing shifted from its true position, though still in the same space. Creatures targeting the astradaemon must attempt a DC 11 flat check, as if the astradaemon were [[hidden|hidden]], even though it remains [[observed|observed]]. s such as the Blind-Fight feat and halfling's keen eyes that apply on the flat check against [[hidden|hidden]] creatures also apply against a displaced astradaemon."
+    desc: " ([[divine]], [[illusion]], [[visual]]);  An astradaemon bends light, appearing shifted from its true position, though still in the same space. Creatures targeting the astradaemon must attempt a DC 11 flat check, as if the astradaemon were [[rules/conditions.md#Hidden|hidden]], even though it remains [[rules/conditions.md#Observed|observed]]. s such as the Blind-Fight feat and halfling's keen eyes that apply on the flat check against [[rules/conditions.md#Hidden|hidden]] creatures also apply against a displaced astradaemon."
 abilities_bot:
   - name: "Devour Soul"
-    desc: "⬻ ([[divine]], [[incapacitation]], [[necromancy]]); __Requirements__ The astradaemon hasn't used an action with the [[attack]] trait yet this turn.  __Effect__  The astradaemon draws out and consumes the soul of a living creature it has [[grabbed|grabbed]]. The creature must succeed at a DC 35 Fortitude save or instantly die. If it dies, the astradaemon gains 10 temporary Hit Points and a +2 status bonus to attack and damage rolls for 1 minute, or for 1 day if the victim was 15th level or higher. A victim slain in this way can be returned to life normally. A creature that survives is temporarily immune for 1 minute."
+    desc: "⬻ ([[divine]], [[incapacitation]], [[necromancy]]); __Requirements__ The astradaemon hasn't used an action with the [[attack]] trait yet this turn.  __Effect__  The astradaemon draws out and consumes the soul of a living creature it has [[rules/conditions.md#Grabbed|grabbed]]. The creature must succeed at a DC 35 Fortitude save or instantly die. If it dies, the astradaemon gains 10 temporary Hit Points and a +2 status bonus to attack and damage rolls for 1 minute, or for 1 day if the victim was 15th level or higher. A victim slain in this way can be returned to life normally. A creature that survives is temporarily immune for 1 minute."
   - name: "Essence Drain"
-    desc: " ([[divine]], [[necromancy]], [[negative]]);  When an astradaemon hits with its claw, jaws, or tail, it drains the target's spiritual and vital essences. The target takes 2d10 (2d10) negative energy damage and the astradaemon regains an equal number of Hit Points. The target must succeed at a DC 37 Fortitude save or become [[doomed|doomed 1]] and [[drained|drained 1]]. If the target was already [[drained|drained]] or [[doomed|doomed]], it instead increases both conditions' value by 1, to a maximum of 4."
+    desc: " ([[divine]], [[necromancy]], [[negative]]);  When an astradaemon hits with its claw, jaws, or tail, it drains the target's spiritual and vital essences. The target takes 2d10 (2d10) negative energy damage and the astradaemon regains an equal number of Hit Points. The target must succeed at a DC 37 Fortitude save or become [[rules/conditions.md#Doomed|doomed 1]] and [[rules/conditions.md#Drained|drained 1]]. If the target was already [[rules/conditions.md#Drained|drained]] or [[rules/conditions.md#Doomed|doomed]], it instead increases both conditions' value by 1, to a maximum of 4."
 
 speed: 60 feet, fly 60 feet
 
@@ -66,7 +66,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 37; __1st__ [[detect alignment]] at will; good only; __4th__ [[dimension door]] (at will); __5th__ [[dimension door]]; __7th__ [[plane shift]] (2); __8th__ [[discern location]], [[finger of death]]; __Constant__ __(6th)__ [[true seeing]];"
+    desc: "DC 37; __1st__ [[detect-alignment|detect alignment]] at will; good only; __4th__ [[dimension-door|dimension door]] (at will); __5th__ [[dimension-door|dimension door]]; __7th__ [[plane-shift|plane shift]] (2); __8th__ [[discern-location|discern location]], [[finger-of-death|finger of death]]; __Constant__ __(6th)__ [[true-seeing|true seeing]];"
 sourcebook: "_Bestiary_, page 73."
 ```
 

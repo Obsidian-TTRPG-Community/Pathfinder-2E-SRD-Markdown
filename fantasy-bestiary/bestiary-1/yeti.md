@@ -33,15 +33,15 @@ abilityMods: [5, 2, 4, -1, 4, -1]
 
 abilities_top:
   - name: "Snowblind When"
-    desc: "  Hiding, the yeti is [[concealed|concealed]] by any snowfall, even if it's not thick enough to make other creatures [[concealed|concealed]]."
+    desc: "  Hiding, the yeti is [[rules/conditions.md#Concealed|concealed]] by any snowfall, even if it's not thick enough to make other creatures [[rules/conditions.md#Concealed|concealed]]."
 abilities_mid:
   - name: "Nightmare Guardian"
     desc: "  Yetis gain a +4 status bonus to saves against fear and against spells and abilities that affect dreams. A yeti that falls prey to a supernatural nightmare loses this ability and becomes permanently enraged, gaining a +1 status bonus to attack and damage rolls and a –1 status penalty to AC."
   - name: "Vanish"
-    desc: "⬲ __Trigger__ The yeti is [[hidden|hidden]] or [[undetected|undetected]] while not in combat, and a creature would observe it. __Effect__  The yeti [[Stride|Strides]] or Climbs up to half its Speed to a location where it can [[Hide]], then Hides. If its new [[Stealth]] check result meets or exceeds the triggering creature's [[Perception]] DC, the yeti remains [[hidden|hidden]]."
+    desc: "⬲ __Trigger__ The yeti is [[rules/conditions.md#Hidden|hidden]] or [[rules/conditions.md#Undetected|undetected]] while not in combat, and a creature would observe it. __Effect__  The yeti [[Stride|Strides]] or Climbs up to half its Speed to a location where it can [[Hide]], then Hides. If its new [[compendium/skills.md#Stealth|Stealth]] check result meets or exceeds the triggering creature's [[compendium/skills.md#Perception|Perception]] DC, the yeti remains [[rules/conditions.md#Hidden|hidden]]."
 abilities_bot:
   - name: "Grisly Arrival"
-    desc: "⭓ ([[emotion]], [[fear]], [[mental]]); __Trigger__ The yeti hits a creature in the first round of combat and the yeti was [[hidden|hidden]] from that creature at the start of combat. __Effect__  Each enemy within 30 feet that witnesses the attack (including the target of the attack) must attempt a DC 23 Will save. On a failure, the creature is [[frightened|frightened 2]]; on a critical failure, it's [[frightened|frightened 4]]."
+    desc: "⭓ ([[emotion]], [[fear]], [[mental]]); __Trigger__ The yeti hits a creature in the first round of combat and the yeti was [[rules/conditions.md#Hidden|hidden]] from that creature at the start of combat. __Effect__  Each enemy within 30 feet that witnesses the attack (including the target of the attack) must attempt a DC 23 Will save. On a failure, the creature is [[rules/conditions.md#Frightened|frightened 2]]; on a critical failure, it's [[rules/conditions.md#Frightened|frightened 4]]."
   - name: "Rend"
     desc: "⬻ ([[claw]]); "
 

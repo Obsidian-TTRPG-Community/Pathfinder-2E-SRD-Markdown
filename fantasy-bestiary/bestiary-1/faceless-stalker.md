@@ -32,15 +32,15 @@ abilityMods: [4, 3, 3, 0, 2, 3]
 
 abilities_bot:
   - name: "Assume Form"
-    desc: " ([[concentrate]], [[occult]], [[polymorph]], [[transmutation]]);  The faceless stalker spends 10 minutes reshaping its appearance to take on the shape of any Small or Medium humanoid. It gains a +4 circumstance bonus to [[Deception]] checks to pass as that creature."
+    desc: " ([[concentrate]], [[occult]], [[polymorph]], [[transmutation]]);  The faceless stalker spends 10 minutes reshaping its appearance to take on the shape of any Small or Medium humanoid. It gains a +4 circumstance bonus to [[compendium/skills.md#Deception|Deception]] checks to pass as that creature."
   - name: "Blood Nourishment"
-    desc: "⬻  The faceless stalker uses its three-pronged tongue to drink the blood of an adjacent [[restrained|restrained]] or [[unconscious|unconscious]] creature. The creature gains [[drained|drained 1]]."
+    desc: "⬻  The faceless stalker uses its three-pronged tongue to drink the blood of an adjacent [[rules/conditions.md#Restrained|restrained]] or [[rules/conditions.md#Unconscious|unconscious]] creature. The creature gains [[rules/conditions.md#Drained|drained 1]]."
   - name: "Compression"
-    desc: "  When the faceless stalker successfully Squeezes, it moves through the tight space at full speed. Narrow confines are not [[terrain|difficult terrain]] for a faceless stalker."
+    desc: "  When the faceless stalker successfully Squeezes, it moves through the tight space at full speed. Narrow confines are not [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] for a faceless stalker."
   - name: "Revert Form"
     desc: "⭓ __Requirements__ The faceless stalker is in an assumed form.  __Effect__  The faceless stalker resumes its true form. Until the start of its next turn, it gains a +2 status bonus to attack rolls, damage rolls, saving throws, and skill checks."
   - name: "Sneak Attack"
-    desc: "  The faceless stalker deals 1d6 (1d6) extra precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The faceless stalker deals 1d6 (1d6) extra precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
 abilities_top:
   - name: Items
     desc: "longsword, studded leather;"

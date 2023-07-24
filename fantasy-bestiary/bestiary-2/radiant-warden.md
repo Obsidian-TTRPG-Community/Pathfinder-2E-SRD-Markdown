@@ -32,14 +32,14 @@ abilityMods: [9, 6, 5, 6, 5, 0]
 
 abilities_mid:
   - name: "Gatekeeper Aura"
-    desc: " ([[abjuration]], [[aura]], [[occult]]);  60 feet. A creature that uses a teleportation ability within the aura's emanation or enters it via a teleportation ability must succeed a DC 38 Will save or become [[sickened|sickened 1]] and have its destination changed to a point of the radiant warden's choosing within the emanation. On a successful save, the creature arrives as intended but is still [[sickened|sickened 1]]."
+    desc: " ([[abjuration]], [[aura]], [[occult]]);  60 feet. A creature that uses a teleportation ability within the aura's emanation or enters it via a teleportation ability must succeed a DC 38 Will save or become [[rules/conditions.md#Sickened|sickened 1]] and have its destination changed to a point of the radiant warden's choosing within the emanation. On a successful save, the creature arrives as intended but is still [[rules/conditions.md#Sickened|sickened 1]]."
 abilities_bot:
   - name: "Orrery"
-    desc: "⬻ ([[concentrate]]);  Until it acts, the radiant warden appears to be an orrery (or similar large mechanical contraption, such as a telescope). It has an automatic result of 53 on [[Deception]] checks and DCs to convincingly pass as such a machine."
+    desc: "⬻ ([[concentrate]]);  Until it acts, the radiant warden appears to be an orrery (or similar large mechanical contraption, such as a telescope). It has an automatic result of 53 on [[compendium/skills.md#Deception|Deception]] checks and DCs to convincingly pass as such a machine."
   - name: "Radiant Blast"
     desc: "⬺ ([[evocation]], [[force]], [[occult]]);  The radiant warden releases a 50-foot cone of bright energy that deals 10d12 (10d12) force damage (DC 38 basic Reflex save). The radiant warden can't use Radiant Blast for 1d4 (1d4) rounds."
   - name: "Radiant Blow"
-    desc: "  When a creature is hit by the radiant warden's hammer [[Strike]], a flash of radiant energy attempts to anchor the creature in place. The creature must attempt a DC 38 Will save; on a failure, the creature can't use any [[teleportation]] effects for 1 minute. On a critical failure, the creature is also permanently [[blinded|blinded]]."
+    desc: "  When a creature is hit by the radiant warden's hammer [[Strike]], a flash of radiant energy attempts to anchor the creature in place. The creature must attempt a DC 38 Will save; on a failure, the creature can't use any [[teleportation]] effects for 1 minute. On a critical failure, the creature is also permanently [[rules/conditions.md#Blinded|blinded]]."
 
 speed: 30 feet, fly 30 feet
 
@@ -61,7 +61,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 38; __5th__ [[dimension door]] (at will); __7th__ [[dimensional lock]], [[prismatic spray]]; __8th__ [[collective transposition]] (3), [[scintillating pattern]]; __9th__ [[teleport]];"
+    desc: "DC 38; __5th__ [[dimension-door|dimension door]] (at will); __7th__ [[dimensional-lock|dimensional lock]], [[prismatic-spray|prismatic spray]]; __8th__ [[collective-transposition|collective transposition]] (3), [[scintillating-pattern|scintillating pattern]]; __9th__ [[teleport]];"
 sourcebook: "_Bestiary 2_, page 220."
 ```
 

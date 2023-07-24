@@ -33,11 +33,11 @@ abilityMods: [2, 4, 4, 5, 4, 6]
 
 abilities_bot:
   - name: "Body Thief"
-    desc: "⬽ ([[manipulate]], [[necromancy]], [[occult]], [[possession]]);  The intellect devourer reduces in size and burrows into the brain of a creature dead for no longer than 1 day. At the start of the intellect devourer's next turn, the body revives at its maximum Hit Points, [[controlled|controlled]] by the devourer. The intellect devourer is conscious and can sense everything the possessed body could. Any effect that ends the possession kills the host body with the same effects as Exit Body. The intellect devourer can't use any of the host creature's spells with Body Thief but can use its own spells. The host body slowly decays while inhabited by the intellect devourer, becoming uninhabitable after 7 days unless preserved with gentle repose or a similar effect."
+    desc: "⬽ ([[manipulate]], [[necromancy]], [[occult]], [[possession]]);  The intellect devourer reduces in size and burrows into the brain of a creature dead for no longer than 1 day. At the start of the intellect devourer's next turn, the body revives at its maximum Hit Points, [[rules/conditions.md#Controlled|controlled]] by the devourer. The intellect devourer is conscious and can sense everything the possessed body could. Any effect that ends the possession kills the host body with the same effects as Exit Body. The intellect devourer can't use any of the host creature's spells with Body Thief but can use its own spells. The host body slowly decays while inhabited by the intellect devourer, becoming uninhabitable after 7 days unless preserved with gentle repose or a similar effect."
   - name: "Exit Body"
     desc: "⬻ ([[move]]); __Requirements__ The intellect devourer is controlling a body with Body Thief  __Effect__  The intellect devourer leaves its host body, which dies instantly and is no longer a suitable host for any Body Thief ability. The intellect devourer appears at full size in an adjacent space."
   - name: "Ravage"
-    desc: "⬽  The intellect devourer makes two talon [[Strike|Strikes]] against a [[paralyzed|paralyzed]], [[restrained|restrained]], or [[unconscious|unconscious]] creature, using the same attack modifier as its highest attack modifier. These [[Strike|Strikes]] gain the [[death]] trait. If Ravage kills the target, the intellect devourer may use Body Thief against it as a free action."
+    desc: "⬽  The intellect devourer makes two talon [[Strike|Strikes]] against a [[rules/conditions.md#Paralyzed|paralyzed]], [[rules/conditions.md#Restrained|restrained]], or [[rules/conditions.md#Unconscious|unconscious]] creature, using the same attack modifier as its highest attack modifier. These [[Strike|Strikes]] gain the [[death]] trait. If Ravage kills the target, the intellect devourer may use Body Thief against it as a free action."
   - name: "Stolen Identity"
     desc: "  While an intellect devourer uses Body Thief, it gains the ability to understand and speak all languages known by the host, as well as knowledge of the host body's abilities, identity, role in society, and personality. However, it does not gain the specific memories or knowledge of the host body."
 
@@ -59,7 +59,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 27; __Cantrips (4th)__ [[daze]], [[detect magic]], [[read aura]]; __2nd__ [[gentle repose]], [[invisibility]] (at will) self only, [[paranoia]] (at will); __3rd__ [[soothe]] (3); __4th__ [[confusion]], [[globe of invulnerability]];"
+    desc: "DC 27; __Cantrips (4th)__ [[daze]], [[detect-magic|detect magic]], [[read-aura|read aura]]; __2nd__ [[gentle-repose|gentle repose]], [[invisibility]] (at will) self only, [[paranoia]] (at will); __3rd__ [[soothe]] (3); __4th__ [[confusion]], [[globe-of-invulnerability|globe of invulnerability]];"
 sourcebook: "_Bestiary 2_, page 147."
 ```
 

@@ -31,7 +31,7 @@ abilityMods: [2, 3, 1, -4, 2, -2]
 
 abilities_top:
   - name: "Uncanny Climber"
-    desc: "  A giant gecko's feet allow it to climb virtually any surface, no matter how slick or sheer. If a giant gecko attempts an [[Athletics]] check to climb and critically fails, it gets a failure instead."
+    desc: "  A giant gecko's feet allow it to climb virtually any surface, no matter how slick or sheer. If a giant gecko attempts an [[compendium/skills.md#Athletics|Athletics]] check to climb and critically fails, it gets a failure instead."
 
 speed: 30 feet, climb 30 feet
 

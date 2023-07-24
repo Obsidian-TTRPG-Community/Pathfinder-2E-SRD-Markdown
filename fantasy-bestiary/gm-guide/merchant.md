@@ -33,9 +33,9 @@ abilityMods: [2, 0, -1, 2, 2, 4]
 
 abilities_top:
   - name: "Appraising Eye"
-    desc: "  The merchant can use [[Lore|Mercantile Lore]] to [[Recall Knowledge]] about items, including determining their value. They can also attempt to [[Identify Magic]] using."
+    desc: "  The merchant can use [[compendium/skills.md#Lore|Mercantile Lore]] to [[Recall-Knowledge|Recall Knowledge]] about items, including determining their value. They can also attempt to [[Identify-Magic|Identify Magic]] using."
   - name: "Mercantile"
-    desc: "  [[Lore]] and can do so without first knowing whether the item is magical."
+    desc: "  [[compendium/skills.md#Lore]] and can do so without first knowing whether the item is magical."
   - name: Items
     desc: "crossbow (10 bolts), padded armor;"
 
@@ -55,7 +55,7 @@ attacks:
   - name: Melee
     desc: "⬻ fist +4 ([[agile]], [[nonlethal]], [[unarmed]]); __Damage__ 1d4+2 (1d4+2) bludgeoning"
   - name: Ranged
-    desc: "⬻ crossbow +4 ([[range increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1d8 (1d8) piercing"
+    desc: "⬻ crossbow +4 ([[range-increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1d8 (1d8) piercing"
 
 sourcebook: "_Gamemastery Guide_, page 244."
 ```

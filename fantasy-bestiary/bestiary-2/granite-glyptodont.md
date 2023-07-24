@@ -32,7 +32,7 @@ abilityMods: [6, 1, 6, 0, 5, 0]
 
 abilities_bot:
   - name: "Calcification"
-    desc: " ([[incapacitation]], [[primal]], [[transmutation]]);  A blow from a granite glyptodont's tail hardens the flesh of the creature struck. The target must succeed at a DC 26 Fortitude saving throw or become [[slowed|slowed 1]] (or [[slowed|slowed 2]] on a critical failure). Further failed saves against calcification increase the value of the [[slowed|slowed]] condition. Once a creature's actions are reduced to 0 by calcification, that creature becomes [[petrified|petrified]]. If the creature isn't [[petrified|petrified]], the [[slowed|slowed]] conditions end once 1 minute passes without the creature failing a save against calcification. Every 24 hours after it was [[petrified|petrified]], the creature can attempt a DC 26 Fortitude save to recover. On a success, it becomes flesh again, but is [[slowed|slowed 1]] for the next 24 hours. On a critical success, the creature recovers and isn't [[slowed|slowed]]. On a failure, the creature remains [[petrified|petrified]], but can try again in 24 hours. On a critical failure, the petrification is permanent, and the creature can't attempt any more saves."
+    desc: " ([[incapacitation]], [[primal]], [[transmutation]]);  A blow from a granite glyptodont's tail hardens the flesh of the creature struck. The target must succeed at a DC 26 Fortitude saving throw or become [[rules/conditions.md#Slowed|slowed 1]] (or [[rules/conditions.md#Slowed|slowed 2]] on a critical failure). Further failed saves against calcification increase the value of the [[rules/conditions.md#Slowed|slowed]] condition. Once a creature's actions are reduced to 0 by calcification, that creature becomes [[rules/conditions.md#Petrified|petrified]]. If the creature isn't [[rules/conditions.md#Petrified|petrified]], the [[rules/conditions.md#Slowed|slowed]] conditions end once 1 minute passes without the creature failing a save against calcification. Every 24 hours after it was [[rules/conditions.md#Petrified|petrified]], the creature can attempt a DC 26 Fortitude save to recover. On a success, it becomes flesh again, but is [[rules/conditions.md#Slowed|slowed 1]] for the next 24 hours. On a critical success, the creature recovers and isn't [[rules/conditions.md#Slowed|slowed]]. On a failure, the creature remains [[rules/conditions.md#Petrified|petrified]], but can try again in 24 hours. On a critical failure, the petrification is permanent, and the creature can't attempt any more saves."
   - name: "Earth Glide"
     desc: "  A living boulder can [[Burrow]] through earthen matter, including rock. When it does so, it moves at its full burrow Speed, leaving no tunnels or signs of its passing."
   - name: "Elemental, Fire"
@@ -52,7 +52,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ tail +20 ([[forceful]], [[reach|reach 10 feet]], [[versatile piercing]]); __Damage__ 2d12+9 (2d12+9) bludgeoning plus calcification"
+    desc: "⬻ tail +20 ([[forceful]], [[reach|reach 10 feet]], [[versatile-piercing|versatile piercing]]); __Damage__ 2d12+9 (2d12+9) bludgeoning plus calcification"
 
 sourcebook: "_Bestiary 2_, page 109."
 ```

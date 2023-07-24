@@ -38,7 +38,7 @@ abilities_bot:
   - name: "Melee Strike"
     desc: "⬻ ([[sweep]]);  Damage 1d10+6 (1d10+6) slashing Melee [[Strike]] ⬻ jaws +11, Damage 1d6+6 (1d6+6) piercing Melee [[Strike]] ⬻ claw +11 (agile), Damage 1d4+6 (1d4+6) slashing"
   - name: "Ranged Strike"
-    desc: "⬻ ([[thrown 30 feet]]);  Damage 1d6+4 (1d6+4) piercing"
+    desc: "⬻ ([[thrown|thrown 30 feet]]);  Damage 1d6+4 (1d6+4) piercing"
   - name: "Swipe"
     desc: "⬺  The xulgath boss makes two Strikes with their greataxe against two adjacent foes, both of whom are within their reach, with a +1 circumstance bonus. The second attack uses the same multiple attack penalty as the first, but attacks the xulgath boss makes after this take a –10 multiple attack penalty (or a –8 multiple attack penalty for its claw)."
 abilities_top:

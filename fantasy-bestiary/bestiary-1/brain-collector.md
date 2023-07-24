@@ -33,12 +33,12 @@ abilityMods: [6, 3, 5, 4, 4, 3]
 
 abilities_mid:
   - name: "Brain Blisters"
-    desc: "  A brain collector has seven brain blisters on its back that it uses to house stolen brains. A brain collector without all seven blisters full is [[stupefied|stupefied]] with a value equal to the number of empty blisters."
+    desc: "  A brain collector has seven brain blisters on its back that it uses to house stolen brains. A brain collector without all seven blisters full is [[rules/conditions.md#Stupefied|stupefied]] with a value equal to the number of empty blisters."
   - name: "Brain Loss"
     desc: "  If a brain collector takes 30 damage from a critical hit or takes 25 mental damage, it must succeed at a DC 26 save (Fortitude for critical damage or Will for mental damage) or one of its brain blisters is destroyed."
 abilities_bot:
   - name: "Brain Collector Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 26 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d6 (1d6) poison and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 1d6 (1d6) poison, [[enfeebled|enfeebled 1]], and [[slowed|slowed 1]] (1 round) __Stage 3__ 2d6 (2d6) poison, [[enfeebled|enfeebled 2]], and [[slowed|slowed 1]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 26 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d6 (1d6) poison and [[rules/conditions.md#Enfeebled|enfeebled 1]] (1 round) __Stage 2__ 1d6 (1d6) poison, [[rules/conditions.md#Enfeebled|enfeebled 1]], and [[rules/conditions.md#Slowed|slowed 1]] (1 round) __Stage 3__ 2d6 (2d6) poison, [[rules/conditions.md#Enfeebled|enfeebled 2]], and [[rules/conditions.md#Slowed|slowed 1]] (1 round)"
   - name: "Collect Brain"
     desc: "⬻ ([[manipulate]]);  The brain collector collects a brain of a creature that has been dead for no more than 1 minute. It can then use an [[Interact]] action to secure the brain in one of its empty brain blisters."
 
@@ -62,7 +62,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Spontaneous Spells"
-    desc: "DC 26, attack +18; __Cantrips (4th)__ [[dancing lights]], [[detect magic]], [[mage hand]], [[prestidigitation]]; __1st__ (4 slots) [[mindlink]], [[ray of enfeeblement]], [[true strike]], [[unseen servant]]; __2nd__ (4 slots) [[humanoid form]], [[invisibility]], [[mirror image]], [[paranoia]]; __3rd__ (3 slots) [[dispel magic]], [[haste]], [[paralyze]]; __4th__ (2 slots) [[confusion]], [[phantasmal killer]];"
+    desc: "DC 26, attack +18; __Cantrips (4th)__ [[dancing-lights|dancing lights]], [[detect-magic|detect magic]], [[mage-hand|mage hand]], [[prestidigitation]]; __1st__ (4 slots) [[mindlink]], [[ray-of-enfeeblement|ray of enfeeblement]], [[true-strike|true strike]], [[unseen-servant|unseen servant]]; __2nd__ (4 slots) [[humanoid-form|humanoid form]], [[invisibility]], [[mirror-image|mirror image]], [[paranoia]]; __3rd__ (3 slots) [[dispel-magic|dispel magic]], [[haste]], [[paralyze]]; __4th__ (2 slots) [[confusion]], [[phantasmal-killer|phantasmal killer]];"
 sourcebook: "_Bestiary_, page 46."
 ```
 

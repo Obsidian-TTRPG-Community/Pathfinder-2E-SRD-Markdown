@@ -44,9 +44,9 @@ abilities_mid:
     desc: "  A grioth doesn't breathe except to speak and is immune to effects that require breathing (such as an inhaled poison)."
 abilities_bot:
   - name: "Grioth Venom"
-    desc: " ([[emotion]], [[fear]], [[mental]], [[poison]]);  __Saving Throw__ DC 17 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ [[frightened|frightened 1]] (1 round) __Stage 2__ [[frightened|frightened 2]] (1 round) __Stage 3__ [[frightened|frightened 3]] (1 round)"
+    desc: " ([[emotion]], [[fear]], [[mental]], [[poison]]);  __Saving Throw__ DC 17 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ [[rules/conditions.md#Frightened|frightened 1]] (1 round) __Stage 2__ [[rules/conditions.md#Frightened|frightened 2]] (1 round) __Stage 3__ [[rules/conditions.md#Frightened|frightened 3]] (1 round)"
   - name: "Shock Mind"
-    desc: "⬺ ([[enchantment]], [[mental]], [[occult]]);  The grioth scout makes a [[Strike]] with a voidglass weapon. If the [[Strike]] hits, it deals an additional 1d6 (1d6) mental damage, and the target must succeed at a DC 17 Will save (this has the [[incapacitation]] trait) or become [[confused|confused]] for 1 round."
+    desc: "⬺ ([[enchantment]], [[mental]], [[occult]]);  The grioth scout makes a [[Strike]] with a voidglass weapon. If the [[Strike]] hits, it deals an additional 1d6 (1d6) mental damage, and the target must succeed at a DC 17 Will save (this has the [[incapacitation]] trait) or become [[rules/conditions.md#Confused|confused]] for 1 round."
 
 speed: 25 feet, fly 30 feet
 
@@ -68,7 +68,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 16, attack +8; __Cantrips (1st)__ [[daze]], [[detect magic]], [[mage hand]], [[telekinetic projectile]]; __1st__ [[phantom pain]];"
+    desc: "DC 16, attack +8; __Cantrips (1st)__ [[daze]], [[detect-magic|detect magic]], [[mage-hand|mage hand]], [[telekinetic-projectile|telekinetic projectile]]; __1st__ [[phantom-pain|phantom pain]];"
 sourcebook: "_Bestiary 3_, page 122."
 ```
 

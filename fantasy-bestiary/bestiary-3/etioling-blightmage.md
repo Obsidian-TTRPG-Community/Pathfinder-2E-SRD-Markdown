@@ -35,13 +35,13 @@ abilityMods: [3, 5, 3, 3, 5, 7]
 
 abilities_mid:
   - name: "Consecration Vulnerability"
-    desc: "  An angheuvore in a place of worship dedicated to a non-evil deity or on sacred ground, such as an area blessed by sanctified ground, is [[slowed|slowed 1]]."
+    desc: "  An angheuvore in a place of worship dedicated to a non-evil deity or on sacred ground, such as an area blessed by sanctified ground, is [[rules/conditions.md#Slowed|slowed 1]]."
   - name: "Ectoplasmic Secretions"
-    desc: " ([[necromancy]], [[occult]]);  Any creature that hits the etioling with an unarmed attack, tries to [[Grapple]] them, or otherwise touches them becomes partially coated in ectoplasm. The creature takes 1d6 (1d6) negative damage and must succeed at a DC 27 Reflex save or become [[enfeebled|enfeebled 2]] until the ectoplasm is removed. The ectoplasm can be removed with a total of 3 [[Interact]] actions by the creature or creatures adjacent to the creature. These actions don't need to be consecutive or made by the same creature."
+    desc: " ([[necromancy]], [[occult]]);  Any creature that hits the etioling with an unarmed attack, tries to [[Grapple]] them, or otherwise touches them becomes partially coated in ectoplasm. The creature takes 1d6 (1d6) negative damage and must succeed at a DC 27 Reflex save or become [[rules/conditions.md#Enfeebled|enfeebled 2]] until the ectoplasm is removed. The ectoplasm can be removed with a total of 3 [[Interact]] actions by the creature or creatures adjacent to the creature. These actions don't need to be consecutive or made by the same creature."
   - name: "Ectoplasmic Shield"
     desc: "⬲ ([[abjuration]], [[occult]]); __Trigger__ The etioling is the target of a physical ranged attack __Effect__  The etioling interposes a wave of ectoplasm between themself and the source of the ranged attack, giving them a +2 circumstance bonus to AC against the triggering attack. If the attack misses, the ectoplasm deflected it. The ectoplasm can't deflect unusually large or heavy ranged projectiles (such as boulders or ballista bolts)."
   - name: "Withering Aura"
-    desc: " ([[aura]], [[necromancy]], [[occult]]);  20 feet. The etioling drains nutrients from nearby plant and animal life. Each round a creature begins its turn in this aura, it takes 1d6 (1d6) negative damage and must succeed at a DC 27 Fortitude save or become [[drained|drained 1]]. All non-magical plant life in this aura instantly withers, removing any cover and concealment provided by trees and undergrowth."
+    desc: " ([[aura]], [[necromancy]], [[occult]]);  20 feet. The etioling drains nutrients from nearby plant and animal life. Each round a creature begins its turn in this aura, it takes 1d6 (1d6) negative damage and must succeed at a DC 27 Fortitude save or become [[rules/conditions.md#Drained|drained 1]]. All non-magical plant life in this aura instantly withers, removing any cover and concealment provided by trees and undergrowth."
 abilities_bot:
   - name: "Death Gasp"
     desc: "  As angheuvore flesh-gnawer, except up to 8 rounds, and the etioling gains the [[incorporeal]] trait, a fly Speed of 25 feet, resistance 10 to all damage (except force, ghost touch, or positive; double this resistance vs. non-magical) while they hold their breath. They can't cast spells during this time."
@@ -55,7 +55,7 @@ armorclass:
 hp: 150
 health:
   - name: HP
-    desc: "150; [[negative healing]];"
+    desc: "150; [[negative-healing-b2|negative healing]];"
 
 
 attacks:
@@ -64,7 +64,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Spontaneous Spells"
-    desc: "DC 29, attack +21; __Cantrips (5th)__ [[acid splash]], [[dancing lights]], [[electric arc]], [[ghost sound]], [[prestidigitation]]; __1st__ (4 slots) [[bane]], [[grease]], [[ray of enfeeblement]], [[ventriloquism]]; __2nd__ (4 slots) [[blur]], [[dispel magic]], [[glitterdust]], [[obscuring mist]]; __3rd__ (4 slots) [[earthbind]], [[false life]], [[haste]], [[wall of thorns]]; __4th__ (4 slots) [[dispel magic]], [[freedom of movement]], [[grim tendrils]], [[phantasmal killer]]; __5th__ (4 slots) [[cloudkill]], [[crushing despair]], [[lightning bolt]], [[synesthesia]];"
+    desc: "DC 29, attack +21; __Cantrips (5th)__ [[acid-splash|acid splash]], [[dancing-lights|dancing lights]], [[electric-arc|electric arc]], [[ghost-sound|ghost sound]], [[prestidigitation]]; __1st__ (4 slots) [[bane]], [[grease]], [[ray-of-enfeeblement|ray of enfeeblement]], [[ventriloquism]]; __2nd__ (4 slots) [[blur]], [[dispel-magic|dispel magic]], [[glitterdust]], [[obscuring-mist|obscuring mist]]; __3rd__ (4 slots) [[earthbind]], [[false-life|false life]], [[haste]], [[wall-of-thorns|wall of thorns]]; __4th__ (4 slots) [[dispel-magic|dispel magic]], [[freedom-of-movement|freedom of movement]], [[grim-tendrils|grim tendrils]], [[phantasmal-killer|phantasmal killer]]; __5th__ (4 slots) [[cloudkill]], [[crushing-despair|crushing despair]], [[lightning-bolt|lightning bolt]], [[synesthesia]];"
 sourcebook: "_Bestiary 3_, page 177."
 ```
 

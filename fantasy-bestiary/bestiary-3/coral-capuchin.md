@@ -36,7 +36,7 @@ abilities_top:
     desc: "  A coral capuchin must stay in or near water, or else it begins drying out. It can remain away from water for only 12 hours before its membranous skin starts to turn brittle and flake, taking 1d6 (1d6) damage per hour until it is doused in water."
 abilities_bot:
   - name: "Capuchin's Curse"
-    desc: " ([[curse]], [[divine]], [[transmutation]]);  If a capuchin damages a creature with its jaws [[Strike]], the creature gains both a blessing and a curse that last for 1d6 (1d6) hours. While the blessing doubles the amount of time that the affected creature can hold its breath, the curse imposes a [[quickened|quickened]] version of the capuchin's moisture dependency, taking 1d6 (1d6) damage every 10 minutes they go without water. A cursed creature can fully immerse itself in water as a 3-action activity to attempt a DC 17 Fortitude save, ending both the blessing and the curse on a success."
+    desc: " ([[curse]], [[divine]], [[transmutation]]);  If a capuchin damages a creature with its jaws [[Strike]], the creature gains both a blessing and a curse that last for 1d6 (1d6) hours. While the blessing doubles the amount of time that the affected creature can hold its breath, the curse imposes a [[rules/conditions.md#Quickened|quickened]] version of the capuchin's moisture dependency, taking 1d6 (1d6) damage every 10 minutes they go without water. A cursed creature can fully immerse itself in water as a 3-action activity to attempt a DC 17 Fortitude save, ending both the blessing and the curse on a success."
 
 speed: 25 feet, climb 15 feet, fly 15 feet, swim 15 feet
 

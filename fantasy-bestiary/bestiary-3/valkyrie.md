@@ -42,7 +42,7 @@ abilities_mid:
   - name: "Attack of Opportunity"
     desc: "⬲ "
   - name: "Recall the Fallen"
-    desc: "⬲ ([[divine]], [[healing]], [[necromancy]]); __Frequency__ once per day __Trigger__ An allied creature within 60 feet who isn't a construct or undead is reduced to 0 Hit Points and their [[dying|dying]] value is 2 or less __Effect__  The valkyrie restores 5d10 (5d10) Hit Points to the target."
+    desc: "⬲ ([[divine]], [[healing]], [[necromancy]]); __Frequency__ once per day __Trigger__ An allied creature within 60 feet who isn't a construct or undead is reduced to 0 Hit Points and their [[rules/conditions.md#Dying|dying]] value is 2 or less __Effect__  The valkyrie restores 5d10 (5d10) Hit Points to the target."
 abilities_bot:
   - name: "Storm of Battle"
     desc: "⬺ ([[divine]], [[electricity]], [[evocation]]);  The valkyrie hurls her spear into the air, creating a massive storm in a 100-foot burst. Spears of lightning rain down upon enemies in the area, dealing 4d12 (4d12) electricity damage (DC 32 basic Reflex save)."
@@ -67,7 +67,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 29; __3rd__ [[augury]], [[sanctified ground]], [[status]], [[wanderer's guide]]; __6th__ [[disrupting weapons]], [[heal]], [[heroism]]; __7th__ [[plane shift]] self and mount only; __Constant__ ;"
+    desc: "DC 29; __3rd__ [[augury]], [[sanctified-ground|sanctified ground]], [[status]], [[wanderer's guide]]; __6th__ [[disrupting-weapons|disrupting weapons]], [[heal]], [[heroism]]; __7th__ [[plane-shift|plane shift]] self and mount only; __Constant__ ;"
 sourcebook: "_Bestiary 3_, page 281."
 ```
 

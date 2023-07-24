@@ -36,9 +36,9 @@ abilities_mid:
   - name: "Evasion"
     desc: "  When the mithral golem rolls a success on a Reflex save, it gets a critical success instead."
   - name: "Golem Antimagic"
-    desc: "  harmed by cold and water (8d10 (8d10), 2d10 (2d10) from areas and [[persistent damage|persistent damage]]); healed by transmutation (area 2d10 (2d10) HP); [[slowed|slowed]] by electricity."
+    desc: "  harmed by cold and water (8d10 (8d10), 2d10 (2d10) from areas and [[rules/conditions.md#Persistent%20Damage|persistent damage]]); healed by transmutation (area 2d10 (2d10) HP); [[rules/conditions.md#Slowed|slowed]] by electricity."
   - name: "Swift Steps"
-    desc: "  A mithral golem is permanently [[quickened|quickened]], and it can use the extra action only to [[Step]] or [[Stride]]."
+    desc: "  A mithral golem is permanently [[rules/conditions.md#Quickened|quickened]], and it can use the extra action only to [[Step]] or [[Stride]]."
   - name: "Vulnerable to Slow"
     desc: "  A mithral golem is not healed by a [[slow]] spell, and such spells affect them normally. A [[haste]] spell reverses the effects of a [[slow]] spell immediately."
 abilities_bot:

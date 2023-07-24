@@ -44,7 +44,7 @@ abilities_mid:
     desc: "  A seething spirit can't attempt to possess a creature affected by calm emotions. If creature possessed by a seething spirit fails a saving throw against calm emotions, the spirit is forced out. If the spirit isn't possessing a creature and is targeted with calm emotions, the spirit takes 12 mental damage per level of the spell instead of the normal spell effects."
 abilities_bot:
   - name: "Furious Possession"
-    desc: "⬺  The seething spirit attempts to possess an adjacent corporeal creature. This has the same effect as a [[possession]] spell (DC 30), except since the spirit doesn't have a physical body, they're not [[unconscious|unconscious]] and [[paralyzed|paralyzed]] when the effect ends. The spirit can't [[Dismiss]] the possession. The creature gains 12 temporary Hit Points that are lost when the possession ends. During the possession, the creature has the pulse of rage aura. Each time the possessed creature makes a melee [[Strike]], the spirit can substitute their ephemeral claw attack modifier, damage amount, or both in place of the creature's own statistics."
+    desc: "⬺  The seething spirit attempts to possess an adjacent corporeal creature. This has the same effect as a [[possession]] spell (DC 30), except since the spirit doesn't have a physical body, they're not [[rules/conditions.md#Unconscious|unconscious]] and [[rules/conditions.md#Paralyzed|paralyzed]] when the effect ends. The spirit can't [[Dismiss]] the possession. The creature gains 12 temporary Hit Points that are lost when the possession ends. During the possession, the creature has the pulse of rage aura. Each time the possessed creature makes a melee [[Strike]], the spirit can substitute their ephemeral claw attack modifier, damage amount, or both in place of the creature's own statistics."
 
 speed: fly 40 feet
 
@@ -55,7 +55,7 @@ armorclass:
 hp: 145
 health:
   - name: HP
-    desc: "145; [[negative healing]]; __Immunities__ poison, precision, death effects, disease, paralyzed, unconscious; __Weaknesses__ emotion ; __Resistances__ all damage 10 (except emotion, force, ghost touch, mental, or positive; double resistance vs. non-magical)"
+    desc: "145; [[negative-healing-b2|negative healing]]; __Immunities__ poison, precision, death effects, disease, paralyzed, unconscious; __Weaknesses__ emotion ; __Resistances__ all damage 10 (except emotion, force, ghost touch, mental, or positive; double resistance vs. non-magical)"
 
 
 attacks:
@@ -64,7 +64,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 32; __2nd__ [[invisibility]] (at will) self-only, [[ventriloquism]] (at will); __3rd__ [[mind reading]] (at will); __6th__ [[paranoia]], [[remove fear]], [[suggestion]] (3); __Constant__ __(6th)__ [[tongues]];"
+    desc: "DC 32; __2nd__ [[invisibility]] (at will) self-only, [[ventriloquism]] (at will); __3rd__ [[mind-reading|mind reading]] (at will); __6th__ [[paranoia]], [[remove-fear|remove fear]], [[suggestion]] (3); __Constant__ __(6th)__ [[tongues]];"
 sourcebook: "_Bestiary 3_, page 228."
 ```
 

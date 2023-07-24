@@ -39,7 +39,7 @@ abilities_top:
     desc: "indecipherable book of sigils, ceremonial robes, +1 staff;"
 abilities_bot:
   - name: "Gather Converts"
-    desc: "⬽ ([[auditory]], [[concentrate]], [[emotion]], [[linguistic]], [[mental]]);  With a short emotional phrase, the cult leader tries to sway the public to do their bidding. The cult leader tries to convince up to four bystanders in a crowd to either cause a commotion, turn against a person or group, leave the area, protect the cult leader, or calm down. The cult leader attempts a single [[Deception]] check against the highest [[Perception]] DC among the targets.\n__Critical Success__ The targets believe the lie and act as directed for 1 minute. Additionally, one bystander remains by the cult leader's side, influenced enough to join their sect. All other targets become wise to the cult leader after 1 minute, at which point their attitude toward the leader worsens by one step.\n__Success__ As a critical success, but no bystander joins the sect permanently.\n__Critical Failure__ The crowd is unmoved and unamused, and their attitude toward the cult leader worsens by one step."
+    desc: "⬽ ([[auditory]], [[concentrate]], [[emotion]], [[linguistic]], [[mental]]);  With a short emotional phrase, the cult leader tries to sway the public to do their bidding. The cult leader tries to convince up to four bystanders in a crowd to either cause a commotion, turn against a person or group, leave the area, protect the cult leader, or calm down. The cult leader attempts a single [[compendium/skills.md#Deception|Deception]] check against the highest [[compendium/skills.md#Perception|Perception]] DC among the targets.\n__Critical Success__ The targets believe the lie and act as directed for 1 minute. Additionally, one bystander remains by the cult leader's side, influenced enough to join their sect. All other targets become wise to the cult leader after 1 minute, at which point their attitude toward the leader worsens by one step.\n__Success__ As a critical success, but no bystander joins the sect permanently.\n__Critical Failure__ The crowd is unmoved and unamused, and their attitude toward the cult leader worsens by one step."
 
 speed: 25 feet
 
@@ -59,7 +59,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Spontaneous Spells"
-    desc: "DC 26, attack +18; __Cantrips (4th)__ [[chill touch]], [[daze]], [[detect magic]], [[guidance]], [[shield]]; __1st__ (4 slots) [[bless]], [[illusory disguise]], [[lock]], [[unseen servant]]; __2nd__ (4 slots) [[augury]], [[calm emotions]], [[hideous laughter]], [[touch of idiocy]]; __3rd__ (4 slots) [[enthrall]], [[grim tendrils]], [[haste]], [[mind reading]]; __4th__ (3 slots) [[dimension door]], [[glibness]], [[outcast's curse]], [[suggestion]];"
+    desc: "DC 26, attack +18; __Cantrips (4th)__ [[chill-touch|chill touch]], [[daze]], [[detect-magic|detect magic]], [[guidance]], [[shield]]; __1st__ (4 slots) [[bless]], [[illusory-disguise|illusory disguise]], [[lock]], [[unseen-servant|unseen servant]]; __2nd__ (4 slots) [[augury]], [[calm-emotions|calm emotions]], [[hideous-laughter|hideous laughter]], [[touch-of-idiocy|touch of idiocy]]; __3rd__ (4 slots) [[enthrall]], [[grim-tendrils|grim tendrils]], [[haste]], [[mind-reading|mind reading]]; __4th__ (3 slots) [[dimension-door|dimension door]], [[glibness]], [[outcast's curse]], [[suggestion]];"
 sourcebook: "_Gamemastery Guide_, page 231."
 ```
 

@@ -33,9 +33,9 @@ abilityMods: [3, 1, 3, 0, 1, 1]
 
 abilities_bot:
   - name: "Heft Crate"
-    desc: "⬺ ([[manipulate]]); __Requirements__ The dockhand is adjacent to a crate  __Effect__  The dockhand picks up a crate and heaves it up to 15 feet. Upon landing, the crate breaks open in a 5-foot burst. Each creature within the area takes 2d6 (2d6) bludgeoning damage (DC 13 basic Reflex save), and the area becomes [[terrain|difficult terrain]] until cleared."
+    desc: "⬺ ([[manipulate]]); __Requirements__ The dockhand is adjacent to a crate  __Effect__  The dockhand picks up a crate and heaves it up to 15 feet. Upon landing, the crate breaks open in a 5-foot burst. Each creature within the area takes 2d6 (2d6) bludgeoning damage (DC 13 basic Reflex save), and the area becomes [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] until cleared."
   - name: "Swig"
-    desc: "⬺ ([[manipulate]]);  The dockhand Interacts to either draw a bottle of alcohol or pick up a nearby unattended bottle of alcohol and drink the whole thing. For 1 minute, the dockhand gains a +2 item bonus to melee damage rolls and saving throws against fear, but they become [[clumsy|clumsy 1]]."
+    desc: "⬺ ([[manipulate]]);  The dockhand Interacts to either draw a bottle of alcohol or pick up a nearby unattended bottle of alcohol and drink the whole thing. For 1 minute, the dockhand gains a +2 item bonus to melee damage rolls and saving throws against fear, but they become [[rules/conditions.md#Clumsy|clumsy 1]]."
 abilities_top:
   - name: Items
     desc: "empty bottle (3), leather armor, whiskey (1 bottle);"

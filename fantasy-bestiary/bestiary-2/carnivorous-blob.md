@@ -40,7 +40,7 @@ abilities_mid:
     desc: "⬲ __Trigger__ The carnivorous blob takes damage from any source __Effect__  The blob makes a pseudopod [[Strike]] against an adjacent target. If an adjacent creature dealt the triggering damage, that creature is the target of this Reactive [[Strike]]."
 abilities_bot:
   - name: "Carnivorous Blob Acid"
-    desc: "  A carnivorous blob's acid damages only flesh—not bone, stone, wood, or other materials— but is nonetheless devastating. Whenever a creature takes damage from this acid, it must succeed at a DC 33 Fortitude save or become [[drained|drained 1]] ([[drained|drained 2]] on a critical failure). On each subsequent failure, the [[drained|drained]] condition value increases by 1 (or by 2 on a critical failure), to a maximum of [[drained|drained 4]]."
+    desc: "  A carnivorous blob's acid damages only flesh—not bone, stone, wood, or other materials— but is nonetheless devastating. Whenever a creature takes damage from this acid, it must succeed at a DC 33 Fortitude save or become [[rules/conditions.md#Drained|drained 1]] ([[rules/conditions.md#Drained|drained 2]] on a critical failure). On each subsequent failure, the [[rules/conditions.md#Drained|drained]] condition value increases by 1 (or by 2 on a critical failure), to a maximum of [[rules/conditions.md#Drained|drained 4]]."
   - name: "Constrict"
     desc: "⬻  2d12 (2d12) bludgeoning plus 2d6 (2d6) acid, DC 33."
   - name: "Engulf"

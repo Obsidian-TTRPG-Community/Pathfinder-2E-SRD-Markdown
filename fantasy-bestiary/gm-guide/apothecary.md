@@ -53,7 +53,7 @@ attacks:
   - name: Melee
     desc: "⬻ fist +5 ([[agile]], [[nonlethal]]); __Damage__ 1d4 (1d4) bludgeoning"
   - name: Ranged
-    desc: "⬻ acid flask +5 ([[range increment|range increment 20 feet]], [[splash]]); __Damage__ 1 acid plus 1d6 (1d6) [[persistent damage|persistent acid]] and 1 splash acid"
+    desc: "⬻ acid flask +5 ([[range-increment|range increment 20 feet]], [[splash]]); __Damage__ 1 acid plus 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent acid]] and 1 splash acid"
 
 sourcebook: "_Gamemastery Guide_, page 221."
 ```

@@ -43,7 +43,7 @@ abilities_bot:
   - name: "Flaming Armament"
     desc: " ([[divine]], [[evocation]]);  Any weapon gains the effect of a flaming property rune while a balisse wields it."
   - name: "Guiding Angel"
-    desc: "⬻ ([[divine]], [[transmutation]]);  While [[invisible|invisible]], a balisse can spiritually attach itself to a non-evil mortal. When it does so, it merges with the mortal's body and is unable to use any of its spells and abilities other than to interact with the mortal. It must use Guiding Angel again to leave the mortal. While merged with the mortal, the balisse can take a form of its choice that only the mortal can see, such as a small angel on the mortal's shoulder. Alternatively, it can communicate with the mortal using a bodiless voice only the mortal can hear."
+    desc: "⬻ ([[divine]], [[transmutation]]);  While [[rules/conditions.md#Invisible|invisible]], a balisse can spiritually attach itself to a non-evil mortal. When it does so, it merges with the mortal's body and is unable to use any of its spells and abilities other than to interact with the mortal. It must use Guiding Angel again to leave the mortal. While merged with the mortal, the balisse can take a form of its choice that only the mortal can see, such as a small angel on the mortal's shoulder. Alternatively, it can communicate with the mortal using a bodiless voice only the mortal can hear."
 
 speed: 30 feet, fly 40 feet
 
@@ -63,7 +63,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 26; __1st__ [[detect alignment]] (at will) evil only; __2nd__ [[invisibility]] (at will) self only; __3rd__ [[remove fear]] (at will); __4th__ [[divine wrath]], [[heal]], [[paralyze]], [[remove curse]], [[remove disease]];"
+    desc: "DC 26; __1st__ [[detect-alignment|detect alignment]] (at will) evil only; __2nd__ [[invisibility]] (at will) self only; __3rd__ [[remove-fear|remove fear]] (at will); __4th__ [[divine-wrath|divine wrath]], [[heal]], [[paralyze]], [[remove-curse|remove curse]], [[remove-disease|remove disease]];"
 sourcebook: "_Bestiary_, page 18."
 ```
 

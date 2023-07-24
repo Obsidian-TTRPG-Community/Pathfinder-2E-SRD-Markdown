@@ -32,7 +32,7 @@ abilityMods: [7, 0, 4, -4, 2, -1]
 
 abilities_bot:
   - name: "Punishing Tail"
-    desc: "  A creature struck by the ankylosaurus's tail must attempt a DC 24 Fortitude save. On a failure, it's [[slowed|slowed 1]] until the end of its next turn; on a critical failure, it's [[stunned|stunned]] until the end of its next turn."
+    desc: "  A creature struck by the ankylosaurus's tail must attempt a DC 24 Fortitude save. On a failure, it's [[rules/conditions.md#Slowed|slowed 1]] until the end of its next turn; on a critical failure, it's [[rules/conditions.md#Stunned|stunned]] until the end of its next turn."
   - name: "Trample"
     desc: "⬽  Medium or smaller, foot, DC 24."
 

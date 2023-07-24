@@ -35,7 +35,7 @@ abilities_mid:
     desc: "⬲  Stinger only (page 304)."
 abilities_bot:
   - name: "Eurypterid Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 14 Fortitude. __Maximum Duration__ 4 rounds __Stage 1__ 1d4 (1d4) poison damage (1 round) __Stage 2__ 1d6 (1d6) poison damage (1 round) __Stage 3__ 1d6 (1d6) poison damage and [[enfeebled|enfeebled 1]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 14 Fortitude. __Maximum Duration__ 4 rounds __Stage 1__ 1d4 (1d4) poison damage (1 round) __Stage 2__ 1d6 (1d6) poison damage (1 round) __Stage 3__ 1d6 (1d6) poison damage and [[rules/conditions.md#Enfeebled|enfeebled 1]] (1 round)"
 
 speed: 30 feet, swim 30 feet
 

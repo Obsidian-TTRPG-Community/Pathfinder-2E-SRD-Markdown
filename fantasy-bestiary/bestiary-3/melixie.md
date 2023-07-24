@@ -33,7 +33,7 @@ abilityMods: [-1, 4, 2, 2, 0, 3]
 
 abilities_bot:
   - name: "Sugar Rush"
-    desc: "⬻ ([[manipulate]]);  The melixie consumes a large quantity of sugar, honey, nectar, or similar sweets and goes into a frenzied state. The melixie immediately [[Stride|Strides]] or Flies. For the next 1d4+1 (1d4+1) rounds, the melixie is [[quickened|quickened]], and can use the additional action only to [[Stride]] or [[Fly]]. As soon as the rush ends, the melixie is [[fatigued|fatigued]] for 1 minute."
+    desc: "⬻ ([[manipulate]]);  The melixie consumes a large quantity of sugar, honey, nectar, or similar sweets and goes into a frenzied state. The melixie immediately [[Stride|Strides]] or Flies. For the next 1d4+1 (1d4+1) rounds, the melixie is [[rules/conditions.md#Quickened|quickened]], and can use the additional action only to [[Stride]] or [[Fly]]. As soon as the rush ends, the melixie is [[rules/conditions.md#Fatigued|fatigued]] for 1 minute."
 
 speed: 10 feet, fly 40 feet
 
@@ -55,7 +55,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 17; __Cantrips (1st)__ [[dancing lights]], [[ghost sound]]; __1st__ [[ant haul]];"
+    desc: "DC 17; __Cantrips (1st)__ [[dancing-lights|dancing lights]], [[ghost-sound|ghost sound]]; __1st__ [[ant-haul|ant haul]];"
 sourcebook: "_Bestiary 3_, page 255."
 ```
 

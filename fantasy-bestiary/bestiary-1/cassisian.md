@@ -40,7 +40,7 @@ abilities_bot:
   - name: "Eye Beams"
     desc: "⬺ ([[concentrate]], [[divine]], [[evocation]]);  The cassisian releases beams of heat or cold from its eyes, dealing 2d6 (2d6) cold or fire damage (DC 17 basic Reflex save) to all creatures in a 15-foot line. It can't use Eye Beams again for 1d4 (1d4) rounds."
   - name: "Repository of Lore"
-    desc: "  While the cassisian isn't particularly intelligent, it has perfect memory and can remember everything it sees or hears. This allows it to attempt [[Lore]] checks on any topic, provided (at the GM's discretion) the cassisian has encountered the topic in question before. The cassisian's limited intellect often prevents it from acting upon its knowledge, making it a better resource than agent in matters of information use."
+    desc: "  While the cassisian isn't particularly intelligent, it has perfect memory and can remember everything it sees or hears. This allows it to attempt [[compendium/skills.md#Lore]] checks on any topic, provided (at the GM's discretion) the cassisian has encountered the topic in question before. The cassisian's limited intellect often prevents it from acting upon its knowledge, making it a better resource than agent in matters of information use."
 
 speed: fly 40 feet
 
@@ -60,7 +60,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 16; __Cantrips (1st)__ [[know direction]], [[light]]; __1st__ [[detect alignment]] (at will) evil only, [[heal]]; __4th__ [[read omens]];"
+    desc: "DC 16; __Cantrips (1st)__ [[know-direction|know direction]], [[light]]; __1st__ [[detect-alignment|detect alignment]] (at will) evil only, [[heal]]; __4th__ [[read-omens|read omens]];"
 sourcebook: "_Bestiary_, page 16."
 ```
 

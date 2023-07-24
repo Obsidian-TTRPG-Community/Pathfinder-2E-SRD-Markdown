@@ -39,7 +39,7 @@ abilities_bot:
   - name: "Favored Host"
     desc: "  Each invidiak has a particular type of creature they prefer possessing, chosen from the following list: aberration, animal, beast, or any humanoid (such as dwarf)—in most cases, the favored type of target is human. When an invidiak uses possession against a favored host, the duration of possession increases to unlimited, and the effect lasts until dispelled or until the invidiak dismisses it."
   - name: "Shadow Blend"
-    desc: "⬺ ([[divine]], [[illusion]]);  The invidiak [[Stride|Strides]] up to twice their speed. If the invidiak ends their movement in an area of dim light, they become [[hidden|hidden]] as long as they don't move and the lighting in the area they're in doesn't grow brighter than dim light."
+    desc: "⬺ ([[divine]], [[illusion]]);  The invidiak [[Stride|Strides]] up to twice their speed. If the invidiak ends their movement in an area of dim light, they become [[rules/conditions.md#Hidden|hidden]] as long as they don't move and the lighting in the area they're in doesn't grow brighter than dim light."
   - name: "Unbodied Possession"
     desc: "  An invidiak leaves no body behind when using possession."
 
@@ -61,7 +61,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 26; __3rd__ [[fear]]; __4th__ [[darkness]], [[dimension door]] (at will); __5th__ [[dimension door]], [[shadow blast]]; __7th__ [[possession]] range touch;"
+    desc: "DC 26; __3rd__ [[fear]]; __4th__ [[darkness]], [[dimension-door|dimension door]] (at will); __5th__ [[dimension-door|dimension door]], [[shadow-blast|shadow blast]]; __7th__ [[possession]] range touch;"
 sourcebook: "_Bestiary 2_, page 65."
 ```
 

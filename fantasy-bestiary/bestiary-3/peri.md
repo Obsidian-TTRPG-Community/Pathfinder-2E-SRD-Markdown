@@ -33,7 +33,7 @@ abilityMods: [7, 7, 4, 5, 4, 8]
 
 abilities_top:
   - name: "Smoke Vision"
-    desc: "  A peri can see through smoke with ease, and they ignore the [[concealed|concealed]] condition from smoke."
+    desc: "  A peri can see through smoke with ease, and they ignore the [[rules/conditions.md#Concealed|concealed]] condition from smoke."
 abilities_mid:
   - name: "Shining Blaze"
     desc: " ([[aura]], [[divine]], [[evocation]], [[fire]]);  5 feet, 6d6 (6d6) fire damage (DC 31 basic Reflex)"
@@ -69,7 +69,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 34, attack +26; __Cantrips (7th)__ [[produce flame]]; __7th__ [[humanoid form]] (at will), [[wall of fire]] (3); __Constant__ ;"
+    desc: "DC 34, attack +26; __Cantrips (7th)__ [[produce-flame|produce flame]]; __7th__ [[humanoid-form|humanoid form]] (at will), [[wall-of-fire|wall of fire]] (3); __Constant__ ;"
 sourcebook: "_Bestiary 3_, page 201."
 ```
 

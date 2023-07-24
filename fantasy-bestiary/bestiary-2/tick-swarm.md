@@ -32,7 +32,7 @@ abilityMods: [1, 6, 4, -5, 3, -5]
 
 abilities_mid:
   - name: "Cling"
-    desc: "⬲ __Trigger__ A creature leaves the swarm's space __Effect__  The swarm takes 1d6 (1d6) damage as ticks cling to the creature and continue biting, dealing 3d6 (3d6) [[persistent damage|persistent piercing damage]]. Immersion in water reduces the DC of the flat check to end this [[persistent damage|persistent damage]] to 5, and any area damage dealt to the creature destroys these clinging ticks."
+    desc: "⬲ __Trigger__ A creature leaves the swarm's space __Effect__  The swarm takes 1d6 (1d6) damage as ticks cling to the creature and continue biting, dealing 3d6 (3d6) [[rules/conditions.md#Persistent%20Damage|persistent piercing damage]]. Immersion in water reduces the DC of the flat check to end this [[rules/conditions.md#Persistent%20Damage|persistent damage]] to 5, and any area damage dealt to the creature destroys these clinging ticks."
 abilities_bot:
   - name: "Swarming Bites"
     desc: "⬻  Each enemy in the swarm's space takes 3d6 (3d6) piercing damage (DC 28 basic Reflex save) plus Cling and exposure to tick fever."

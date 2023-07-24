@@ -36,7 +36,7 @@ abilities_bot:
   - name: "Swooping Dive"
     desc: "⬺  The garuda flies up to their Speed in a straight line, descending at least 10 feet, and then makes two talon [[Strike|Strikes]]."
   - name: "Wind Blast"
-    desc: "⬺ ([[air]], [[evocation]]);  The garuda flaps their wings with intense force. This has the same effect as gust of wind (DC 27) but in a 30-foot cone. In an area with loose debris (at the GM's discretion), the gusts from the garuda's wings create a cloud that obscures vision, making any creature in the area [[concealed|concealed]], and creatures outside the area are [[concealed|concealed]] to those within the area."
+    desc: "⬺ ([[air]], [[evocation]]);  The garuda flaps their wings with intense force. This has the same effect as gust of wind (DC 27) but in a 30-foot cone. In an area with loose debris (at the GM's discretion), the gusts from the garuda's wings create a cloud that obscures vision, making any creature in the area [[rules/conditions.md#Concealed|concealed]], and creatures outside the area are [[rules/conditions.md#Concealed|concealed]] to those within the area."
 abilities_top:
   - name: Items
     desc: "+1 striking composite longbow (100 arrows);"
@@ -59,11 +59,11 @@ attacks:
   - name: Melee
     desc: "⬻ talon +21 ([[agile]], [[finesse]]); __Damage__ 2d8+7 (2d8+7) slashing plus 1d6 (1d6) good"
   - name: Ranged
-    desc: "⬻ shock composite longbow +22 ([[deadly|deadly d10]], [[magical]], [[range increment|range increment 100 feet]], [[reload|reload 0]], [[volley|volley 30 feet]]); __Damage__ 2d8+5 (2d8+5) piercing plus 1d6 (1d6) electricity and 1d6 (1d6) good"
+    desc: "⬻ shock composite longbow +22 ([[deadly|deadly d10]], [[magical]], [[range-increment|range increment 100 feet]], [[reload|reload 0]], [[volley|volley 30 feet]]); __Damage__ 2d8+5 (2d8+5) piercing plus 1d6 (1d6) electricity and 1d6 (1d6) good"
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 27; __1st__ [[true strike]] (at will); __2nd__ [[see invisibility]] (3); __3rd__ [[haste]]; __4th__ [[freedom of movement]];"
+    desc: "DC 27; __1st__ [[true-strike|true strike]] (at will); __2nd__ [[see-invisibility|see invisibility]] (3); __3rd__ [[haste]]; __4th__ [[freedom-of-movement|freedom of movement]];"
 sourcebook: "_Bestiary 3_, page 104."
 ```
 

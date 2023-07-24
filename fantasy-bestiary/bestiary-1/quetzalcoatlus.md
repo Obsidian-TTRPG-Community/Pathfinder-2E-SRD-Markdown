@@ -47,7 +47,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ beak +17 ([[deadly|deadly 1d10]], [[reach|reach 10 feet]]); __Damage__ 2d10+10 (2d10+10) piercing plus 1d8 (1d8) [[persistent damage|persistent bleed]]"
+    desc: "⬻ beak +17 ([[deadly|deadly 1d10]], [[reach|reach 10 feet]]); __Damage__ 2d10+10 (2d10+10) piercing plus 1d8 (1d8) [[rules/conditions.md#Persistent%20Damage|persistent bleed]]"
   - name: Melee
     desc: "⬻ talon +17 __Damage__ 2d8+10 (2d8+10) piercing plus Grab"
 

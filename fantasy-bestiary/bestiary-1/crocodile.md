@@ -33,7 +33,7 @@ abilities_bot:
   - name: "Aquatic Ambush"
     desc: "⬻  35 feet."
   - name: "Death Roll"
-    desc: "⬻ ([[attack]]); __Requirements__ The crocodile must have a creature [[grabbed|grabbed]].  __Effect__  The crocodile tucks its legs and rolls rapidly, twisting its victim. It makes a jaws [[Strike]] with a +2 circumstance bonus to the attack roll against the [[grabbed|grabbed]] creature. If it hits, it also knocks the creature [[prone|prone]]. If it fails, it releases the creature."
+    desc: "⬻ ([[attack]]); __Requirements__ The crocodile must have a creature [[rules/conditions.md#Grabbed|grabbed]].  __Effect__  The crocodile tucks its legs and rolls rapidly, twisting its victim. It makes a jaws [[Strike]] with a +2 circumstance bonus to the attack roll against the [[rules/conditions.md#Grabbed|grabbed]] creature. If it hits, it also knocks the creature [[rules/conditions.md#Prone|prone]]. If it fails, it releases the creature."
   - name: "Deep Breath"
     desc: "  The crocodile can hold its breath for about 2 hours."
 

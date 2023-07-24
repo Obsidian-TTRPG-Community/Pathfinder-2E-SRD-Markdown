@@ -33,14 +33,14 @@ abilityMods: [0, 3, 2, 1, 2, 1]
 
 abilities_top:
   - name: "Camouflaged Step"
-    desc: "  The skulk gains the benefit of the [[Cover Tracks]] action in forests and subterranean settings without moving at half Speed."
+    desc: "  The skulk gains the benefit of the [[Cover-Tracks|Cover Tracks]] action in forests and subterranean settings without moving at half Speed."
   - name: "Chameleon Skin"
-    desc: "  The skulk's skin shifts and changes to match the surroundings. As long as most of their body is not covered by clothing or armor, the skulk gains a +2 circumstance bonus to [[Stealth]] checks to [[Hide]]."
+    desc: "  The skulk's skin shifts and changes to match the surroundings. As long as most of their body is not covered by clothing or armor, the skulk gains a +2 circumstance bonus to [[compendium/skills.md#Stealth|Stealth]] checks to [[Hide]]."
   - name: Items
     desc: "[[dagger]] (2), [[shortsword]];"
 abilities_bot:
   - name: "Sneak Attack"
-    desc: "  A skulk's [[Strike|Strikes]] deal an extra 1d6 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  A skulk's [[Strike|Strikes]] deal an extra 1d6 (1d6) precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
 
 speed: 25 feet
 

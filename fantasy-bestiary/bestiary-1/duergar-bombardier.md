@@ -42,7 +42,7 @@ abilities_mid:
     desc: " "
 abilities_bot:
   - name: "Alchemical Formulas (1st)"
-    desc: "  [[lesser acid flask]], [[lesser alchemist's fire]], [[lesser tanglefoot bag]]."
+    desc: "  [[lesser-acid-flask|lesser acid flask]], [[lesser alchemist's fire]], [[lesser-tanglefoot-bag|lesser tanglefoot bag]]."
   - name: "Far Lobber"
     desc: "  The duergar bombardier has a range increment of 30 feet with their bombs instead of 20 feet."
   - name: "Quick Alchemy"
@@ -66,7 +66,7 @@ attacks:
   - name: Melee
     desc: "⬻ warhammer +4 ([[shove]]); __Damage__ 1d8+1 (1d8+1) bludgeoning"
   - name: Ranged
-    desc: "⬻ bomb +8 ([[range increment|range increment 30 feet]], [[splash]]); __Damage__ varies by bomb"
+    desc: "⬻ bomb +8 ([[range-increment|range increment 30 feet]], [[splash]]); __Damage__ varies by bomb"
 
 spellcasting:
   - name: "Occult Innate Spells"

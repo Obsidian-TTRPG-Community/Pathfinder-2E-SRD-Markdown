@@ -40,7 +40,7 @@ abilities_bot:
   - name: "Slink in Shadows"
     desc: "  The shadow can [[Hide]] or end its [[Sneak]] in a creature's or object's shadow."
   - name: "Steal Shadow"
-    desc: "⬻ ([[divine]], [[necromancy]]); __Requirements__ The shadow hit a living creature with a shadow hand [[Strike]] on its previous action  __Effect__  The shadow pulls at the target's shadow, making the creature [[enfeebled|enfeebled 2]] (or [[enfeebled|enfeebled 3]] on a critical hit). This is cumulative with other [[enfeebled|enfeebled]] conditions from shadows, to a maximum of [[enfeebled|enfeebled 4]]. If this increases a creature's [[enfeebled|enfeebled]] value to 3 or more, the target's shadow is separated from its body (see shadow spawn). [[Enfeebled|Enfeebled]] from Steal Shadow decreases by 1 every hour."
+    desc: "⬻ ([[divine]], [[necromancy]]); __Requirements__ The shadow hit a living creature with a shadow hand [[Strike]] on its previous action  __Effect__  The shadow pulls at the target's shadow, making the creature [[rules/conditions.md#Enfeebled|enfeebled 2]] (or [[rules/conditions.md#Enfeebled|enfeebled 3]] on a critical hit). This is cumulative with other [[rules/conditions.md#Enfeebled|enfeebled]] conditions from shadows, to a maximum of [[rules/conditions.md#Enfeebled|enfeebled 4]]. If this increases a creature's [[rules/conditions.md#Enfeebled|enfeebled]] value to 3 or more, the target's shadow is separated from its body (see shadow spawn). [[rules/conditions.md#Enfeebled|Enfeebled]] from Steal Shadow decreases by 1 every hour."
 
 speed: fly 30 feet
 

@@ -33,9 +33,9 @@ abilityMods: [4, 2, 3, -1, 1, 0]
 
 abilities_bot:
   - name: "Bushwhack"
-    desc: "⬻  The bugbear thug [[Stride|Strides]] up to 10 feet and attempts to [[Grapple]] a creature they're [[undetected|undetected]] by. If they succeed, they also deal fist damage to that creature."
+    desc: "⬻  The bugbear thug [[Stride|Strides]] up to 10 feet and attempts to [[Grapple]] a creature they're [[rules/conditions.md#Undetected|undetected]] by. If they succeed, they also deal fist damage to that creature."
   - name: "Mauler"
-    desc: "  The bugbear thug gains a +3 circumstance bonus to damage rolls against creatures they have [[grabbed|grabbed]]."
+    desc: "  The bugbear thug gains a +3 circumstance bonus to damage rolls against creatures they have [[rules/conditions.md#Grabbed|grabbed]]."
 abilities_top:
   - name: Items
     desc: "bastard sword, javelin (3), leather armor;"

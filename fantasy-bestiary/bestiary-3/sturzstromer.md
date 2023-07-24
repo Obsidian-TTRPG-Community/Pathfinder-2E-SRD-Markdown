@@ -35,12 +35,12 @@ abilityMods: [8, 10, 8, -1, 6, 2]
 
 abilities_top:
   - name: "Clutching Stones"
-    desc: "  The sturzstromer's space is [[terrain|greater difficult terrain]]."
+    desc: "  The sturzstromer's space is [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|greater difficult terrain]]."
   - name: "Tremorsense"
     desc: "  A sturzstromer's [[tremorsense]] is a precise sense out to 120 feet and an imprecise sense out to 240 feet. A sturzstromer can't sense anything beyond the range of its [[tremorsense]]."
 abilities_bot:
   - name: "Grasping Bites"
-    desc: "⬺ ([[attack]]);  The sturzstromer attempts an [[Athletics]] check and compares the result to the Fortitude DC of each creature in its space. This counts as two attacks for the sturzstromer's multiple attack penalty.\n__Critical Success__ The creature falls [[prone|prone]], takes 1d6 (1d6) bludgeoning damage, and is [[restrained|restrained]] by the sturzstromer until the end of the sturzstromer's next turn.\n__Success__ The creature falls [[prone|prone]], and is [[grabbed|grabbed]] by the sturzstromer until the end of the sturzstromer's next turn."
+    desc: "⬺ ([[attack]]);  The sturzstromer attempts an [[compendium/skills.md#Athletics|Athletics]] check and compares the result to the Fortitude DC of each creature in its space. This counts as two attacks for the sturzstromer's multiple attack penalty.\n__Critical Success__ The creature falls [[rules/conditions.md#Prone|prone]], takes 1d6 (1d6) bludgeoning damage, and is [[rules/conditions.md#Restrained|restrained]] by the sturzstromer until the end of the sturzstromer's next turn.\n__Success__ The creature falls [[rules/conditions.md#Prone|prone]], and is [[rules/conditions.md#Grabbed|grabbed]] by the sturzstromer until the end of the sturzstromer's next turn."
   - name: "Landslide"
     desc: "⭓ __Requirements__ The sturzstromer's most recent action was to cast [[earthquake]]  __Effect__  The sturzstromer closes a fissure it made, choosing one creature that fell in. That creature must succeed at a DC 41 Reflex save or be buried as in an avalanche (Core Rulebook 518)."
   - name: "Pummeling Assault"
@@ -62,7 +62,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 41; __8th__ [[earthbind]] (at will), [[earthquake]] (3), [[stone tell]]; __10th__ [[earthquake]];"
+    desc: "DC 41; __8th__ [[earthbind]] (at will), [[earthquake]] (3), [[stone-tell|stone tell]]; __10th__ [[earthquake]];"
 sourcebook: "_Bestiary 3_, page 52."
 ```
 

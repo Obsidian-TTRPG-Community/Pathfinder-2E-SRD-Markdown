@@ -31,14 +31,14 @@ abilityMods: [5, 7, 3, -4, 2, -1]
 
 abilities_mid:
   - name: "Stench"
-    desc: " ([[aura]], [[olfactory]]);  30 feet. A creature entering the emanation must attempt a DC 27 Fortitude save. On a failure, the creature is [[sickened|sickened 1]], and on a critical failure is also [[slowed|slowed 1]]. While within the aura, the creature takes a –2 circumstance penalty to saves to recover from the [[sickened|sickened]] condition. A creature that succeeds at the save is temporarily immune to this effect for 1 minute."
+    desc: " ([[aura]], [[olfactory]]);  30 feet. A creature entering the emanation must attempt a DC 27 Fortitude save. On a failure, the creature is [[rules/conditions.md#Sickened|sickened 1]], and on a critical failure is also [[rules/conditions.md#Slowed|slowed 1]]. While within the aura, the creature takes a –2 circumstance penalty to saves to recover from the [[rules/conditions.md#Sickened|sickened]] condition. A creature that succeeds at the save is temporarily immune to this effect for 1 minute."
 abilities_bot:
   - name: "Amnesia Venom"
-    desc: " ([[mental]], [[poison]]);  __Saving Throw__ DC 29 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ [[flat-footed|flat-footed]] (1 round) __Stage 2__ [[flat-footed|flat-footed]] and [[clumsy|clumsy 1]] (1 round) __Stage 3__ [[confused|confused]], [[flat-footed|flat-footed]], and [[clumsy|clumsy 2]]. (1 round)"
+    desc: " ([[mental]], [[poison]]);  __Saving Throw__ DC 29 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ [[rules/conditions.md#Flat-Footed|flat-footed]] (1 round) __Stage 2__ [[rules/conditions.md#Flat-Footed|flat-footed]] and [[rules/conditions.md#Clumsy|clumsy 1]] (1 round) __Stage 3__ [[rules/conditions.md#Confused|confused]], [[rules/conditions.md#Flat-Footed|flat-footed]], and [[rules/conditions.md#Clumsy|clumsy 2]]. (1 round)"
   - name: "Constrict"
     desc: "⬻  2d6+2 (2d6+2) bludgeoning."
   - name: "Root"
-    desc: "⬻ ([[concentrate]]);  Until the next time it acts, the dezullon appears to be a normal pitcher plant. It has an automatic result of 41 (44 in forests or swamps) on [[Deception]] checks and DCs to pass as a non-creature plant."
+    desc: "⬻ ([[concentrate]]);  Until the next time it acts, the dezullon appears to be a normal pitcher plant. It has an automatic result of 41 (44 in forests or swamps) on [[compendium/skills.md#Deception|Deception]] checks and DCs to pass as a non-creature plant."
 
 speed: 25 feet; climb 30 feet;
 

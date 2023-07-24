@@ -32,7 +32,7 @@ abilityMods: [1, 2, 2, -5, 1, -1]
 
 abilities_bot:
   - name: "Stunning Shock"
-    desc: " ([[incapacitation]]);  A creature critically hit by the electric eel's tail must attempt a DC 17 Fortitude save.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is [[stunned|stunned 1]].\n__Failure__ The creature is [[stunned|stunned 2]].\n__Critical Failure__ The creature is [[stunned|stunned 3]]."
+    desc: " ([[incapacitation]]);  A creature critically hit by the electric eel's tail must attempt a DC 17 Fortitude save.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is [[rules/conditions.md#Stunned|stunned 1]].\n__Failure__ The creature is [[rules/conditions.md#Stunned|stunned 2]].\n__Critical Failure__ The creature is [[rules/conditions.md#Stunned|stunned 3]]."
 
 speed: 5 feet, swim 30 feet
 

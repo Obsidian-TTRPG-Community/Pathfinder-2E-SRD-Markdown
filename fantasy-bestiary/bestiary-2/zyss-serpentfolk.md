@@ -34,7 +34,7 @@ abilityMods: [-1, 4, 2, 4, 2, 3]
 
 abilities_bot:
   - name: "Serpentfolk Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 16 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d4 (1d4) poison damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 2d4 (2d4) poison damage and [[enfeebled|enfeebled 1]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 16 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d4 (1d4) poison damage and [[rules/conditions.md#Enfeebled|enfeebled 1]] (1 round) __Stage 2__ 2d4 (2d4) poison damage and [[rules/conditions.md#Enfeebled|enfeebled 1]] (1 round)"
 abilities_top:
   - name: Items
     desc: "dagger, shortbow (30 arrows);"
@@ -57,11 +57,11 @@ attacks:
   - name: Melee
     desc: "⬻ dagger +10 ([[agile]], [[finesse]], [[versatile|versatile s]]); __Damage__ 1d4+1 (1d4+1) piercing plus serpentfolk venom"
   - name: Ranged
-    desc: "⬻ shortbow +10 ([[deadly|deadly 1d10]], [[range increment|range increment 60 feet]]); __Damage__ 1d6+2 (1d6+2) piercing plus serpentfolk venom"
+    desc: "⬻ shortbow +10 ([[deadly|deadly 1d10]], [[range-increment|range increment 60 feet]]); __Damage__ 1d6+2 (1d6+2) piercing plus serpentfolk venom"
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 18; __1st__ [[illusory disguise]] (at will), [[ventriloquism]] (at will); __2nd__ [[mirror image]] (at will); __4th__ [[suggestion]];"
+    desc: "DC 18; __1st__ [[illusory-disguise|illusory disguise]] (at will), [[ventriloquism]] (at will); __2nd__ [[mirror-image|mirror image]] (at will); __4th__ [[suggestion]];"
 sourcebook: "_Bestiary 2_, page 237."
 ```
 

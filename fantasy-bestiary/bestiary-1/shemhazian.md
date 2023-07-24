@@ -33,16 +33,16 @@ abilityMods: [9, 5, 7, 0, 6, 3]
 
 abilities_mid:
   - name: "Paralyzing Gaze"
-    desc: " ([[aura]], [[divine]], [[enchantment]], [[visual]]);  30 feet. A non-evil creature that ends its turn in the aura must attempt a DC 35 Fortitude save. If it fails, it's [[slowed|slowed 1]] for 1 round, and if it critically fails, it is instead [[paralyzed|paralyzed]] for 1 round."
+    desc: " ([[aura]], [[divine]], [[enchantment]], [[visual]]);  30 feet. A non-evil creature that ends its turn in the aura must attempt a DC 35 Fortitude save. If it fails, it's [[rules/conditions.md#Slowed|slowed 1]] for 1 round, and if it critically fails, it is instead [[rules/conditions.md#Paralyzed|paralyzed]] for 1 round."
   - name: "Succor Vulnerability"
     desc: "  A shemhazian's mutilation is a part of them, and they can't bear to see it reversed. The first time each round that a creature heals from damage the shemhazian dealt on their last turn, the demon takes 3d6 (3d6) mental damage."
   - name: "Tail Whip"
     desc: "⬲ __Trigger__ A creature within reach of the shemhazian's tail leaves a square during a move action it's using. __Effect__  The shemhazian attempts to [[Trip]] the triggering creature. On a success, the creature also takes damage as if the shemhazian had hit with a tail [[Strike]], and if the creature was flying, it falls 30 feet."
 abilities_bot:
   - name: "Enfeebling Bite"
-    desc: " ([[divine]], [[necromancy]]);  If the shemhazian's jaws [[Strike]] damages a creature, the target is [[enfeebled|enfeebled 3]]. The target can attempt a DC 37 Fortitude save to reduce this to [[enfeebled|enfeebled 1]] (or be unaffected on a critical success)."
+    desc: " ([[divine]], [[necromancy]]);  If the shemhazian's jaws [[Strike]] damages a creature, the target is [[rules/conditions.md#Enfeebled|enfeebled 3]]. The target can attempt a DC 37 Fortitude save to reduce this to [[rules/conditions.md#Enfeebled|enfeebled 1]] (or be unaffected on a critical success)."
   - name: "Focused Gaze"
-    desc: "⬻ ([[concentrate]], [[divine]], [[enchantment]], [[incapacitation]], [[visual]]);  The shemhazian focuses their gaze on a non-evil creature they can see within 30 feet. If that creature isn't already [[slowed|slowed]] by the shemhazian's paralyzing gaze, it must attempt a save against the shemhazian's paralyzing gaze. If that creature is [[slowed|slowed]], it must succeed at a DC 35 Fortitude save or be [[paralyzed|paralyzed]] for 1 round. A shemhazian can't use this ability against the same creature more than once per round."
+    desc: "⬻ ([[concentrate]], [[divine]], [[enchantment]], [[incapacitation]], [[visual]]);  The shemhazian focuses their gaze on a non-evil creature they can see within 30 feet. If that creature isn't already [[rules/conditions.md#Slowed|slowed]] by the shemhazian's paralyzing gaze, it must attempt a save against the shemhazian's paralyzing gaze. If that creature is [[rules/conditions.md#Slowed|slowed]], it must succeed at a DC 35 Fortitude save or be [[rules/conditions.md#Paralyzed|paralyzed]] for 1 round. A shemhazian can't use this ability against the same creature more than once per round."
   - name: "Rend"
     desc: "⬻ ([[claw]]); "
 
@@ -64,13 +64,13 @@ attacks:
   - name: Melee
     desc: "⬻ claw (agile, evil, magical, reach <20 feet>) +33 __Damage__ 3d8+17 (3d8+17) slashing plus 1d6 (1d6) evil"
   - name: Melee
-    desc: "⬻ pincer (evil, magical, reach <20 feet>) +33 __Damage__ 3d8+17 (3d8+17) bludgeoning plus 1d6 (1d6) evil and [[Improved Grab]]"
+    desc: "⬻ pincer (evil, magical, reach <20 feet>) +33 __Damage__ 3d8+17 (3d8+17) bludgeoning plus 1d6 (1d6) evil and [[Improved-Grab|Improved Grab]]"
   - name: Melee
     desc: "⬻ tail (evil, magical, reach <30 feet>) +33 __Damage__ 3d6+17 (3d6+17) slashing plus 1d6 (1d6) evil"
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 37; __2nd__ [[invisibility]] (at will); __4th__ [[clairvoyance]] (3), [[dimension door]] (at will); __5th__ [[dimension door]], [[prying eye]] (3); __8th__ [[divine decree]] evil only; __Constant__ __(7th)__ [[fly]], [[true seeing]];"
+    desc: "DC 37; __2nd__ [[invisibility]] (at will); __4th__ [[clairvoyance]] (3), [[dimension-door|dimension door]] (at will); __5th__ [[dimension-door|dimension door]], [[prying-eye|prying eye]] (3); __8th__ [[divine-decree|divine decree]] evil only; __Constant__ __(7th)__ [[fly]], [[true-seeing|true seeing]];"
 sourcebook: "_Bestiary_, page 80."
 ```
 

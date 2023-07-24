@@ -31,10 +31,10 @@ abilityMods: [2, -1, 3, -5, 1, -5]
 
 abilities_mid:
   - name: "Regurgitation"
-    desc: "⬲ __Trigger__ The giant maggot takes damage __Effect__  The giant maggot regurgitates its rancid, foul meal. All creatures in a 5-foot emanation must succeed at a DC 16 Fortitude save or become [[sickened|sickened 1]] (or [[sickened|sickened 2]] on a critical failure). The giant maggot can't use Regurgitation again until it spends at least an hour feeding on a corpse."
+    desc: "⬲ __Trigger__ The giant maggot takes damage __Effect__  The giant maggot regurgitates its rancid, foul meal. All creatures in a 5-foot emanation must succeed at a DC 16 Fortitude save or become [[rules/conditions.md#Sickened|sickened 1]] (or [[rules/conditions.md#Sickened|sickened 2]] on a critical failure). The giant maggot can't use Regurgitation again until it spends at least an hour feeding on a corpse."
 abilities_bot:
   - name: "Gnaw Flesh"
-    desc: "⬻ __Requirements__ The giant maggot has [[Grabbed|Grabbed]] a creature  __Effect__  The giant maggot deals 1d8+2 (1d8+2) slashing damage to the [[grabbed|grabbed]] creature as it chews the creature's flesh (DC 19 basic Reflex save)."
+    desc: "⬻ __Requirements__ The giant maggot has [[rules/conditions.md#Grabbed|Grabbed]] a creature  __Effect__  The giant maggot deals 1d8+2 (1d8+2) slashing damage to the [[rules/conditions.md#Grabbed|grabbed]] creature as it chews the creature's flesh (DC 19 basic Reflex save)."
 
 speed: 10 feet
 

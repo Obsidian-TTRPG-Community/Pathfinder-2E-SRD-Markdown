@@ -39,15 +39,15 @@ abilities_bot:
   - name: "Change Shape"
     desc: "⭓ ([[concentrate]], [[occult]], [[polymorph]], [[transmutation]]);  Once per round, a veiled master can take on the appearance of a humanoid of Large, Medium, or Small size or resume its true form. While in humanoid form, the veiled master's Speed is 30 feet, and it loses its mucus cloud aura and swim Speed. If the humanoid form assumed lacks the [[aquatic]] trait, the veiled master loses its own [[aquatic]] trait as well. In humanoid form, the veiled master can use weapons, or it can make [[Strike|Strikes]] that work like its tentacle attack but use the reach of its current form. If the assumed form has fangs or claws, the veiled master can also make such [[Strike|Strikes]], but these attacks lack the veiled master's slime."
   - name: "Consume Memories"
-    desc: " ([[mental]], [[occult]]);  When a veiled master makes a fangs [[Strike]] against a creature, it can consume some of that creature's memories. The target must succeed at a DC 37 Fortitude saving throw or become [[stupefied|stupefied 1]]. A veiled master regains 5 Hit Points each time it successfully consumes memories. When a veiled master consumes memories, it learns some of the creature's memories (subject to the GM's discretion)."
+    desc: " ([[mental]], [[occult]]);  When a veiled master makes a fangs [[Strike]] against a creature, it can consume some of that creature's memories. The target must succeed at a DC 37 Fortitude saving throw or become [[rules/conditions.md#Stupefied|stupefied 1]]. A veiled master regains 5 Hit Points each time it successfully consumes memories. When a veiled master consumes memories, it learns some of the creature's memories (subject to the GM's discretion)."
   - name: "Delayed Suggestion"
     desc: " ([[enchantment]], [[occult]]);  When a veiled master successfully casts dominate on a creature, a [[suggestion]] spell triggers when the [[dominate]] spell ends. This suggestion usually causes the target to return to the veiled master, so the creature can cast [[dominate]] again, but a veiled master can set the suggestion to different orders if it wishes."
   - name: "Slime"
-    desc: " ([[curse]], [[occult]], [[virulent]]);  __Saving Throw__ DC 36 Fortitude. __Stage 1__ no ill effect (1 round) __Stage 2__ the victim's skin softens, inflicting [[drained|drained 1]] (1 round) __Stage 3__ the victim's skin transforms into a clear, slimy membrane, inflicting [[drained|drained 2]] until the curse ends; every hour this membrane remains dry, the creature's drained condition increases by 1 (permanent)"
+    desc: " ([[curse]], [[occult]], [[virulent]]);  __Saving Throw__ DC 36 Fortitude. __Stage 1__ no ill effect (1 round) __Stage 2__ the victim's skin softens, inflicting [[rules/conditions.md#Drained|drained 1]] (1 round) __Stage 3__ the victim's skin transforms into a clear, slimy membrane, inflicting [[rules/conditions.md#Drained|drained 2]] until the curse ends; every hour this membrane remains dry, the creature's drained condition increases by 1 (permanent)"
   - name: "Tentacle Flurry"
     desc: "⬺  The veiled master thrashes about with its tentacles. Make a tentacle [[Strike]] against each creature within its reach. Roll only one attack roll, and roll the damage only once for all targets."
   - name: "Thoughtlance"
-    desc: " ([[curse]], [[enchantment]], [[occult]]);  A creature touched by the veiled master's tentacles, whether those tentacles deal damage or not, must attempt a DC 34 Will save, becoming [[slowed|slowed 1]] on a failure or [[slowed|slowed 2]] on a critical failure. Each time the affected creature ends its turn, its [[slowed|slowed]] value decreases by 1."
+    desc: " ([[curse]], [[enchantment]], [[occult]]);  A creature touched by the veiled master's tentacles, whether those tentacles deal damage or not, must attempt a DC 34 Will save, becoming [[rules/conditions.md#Slowed|slowed 1]] on a failure or [[rules/conditions.md#Slowed|slowed 2]] on a critical failure. Each time the affected creature ends its turn, its [[rules/conditions.md#Slowed|slowed]] value decreases by 1."
 
 speed: 10 feet, swim 80 feet
 
@@ -71,7 +71,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 37; __3rd__ [[hypnotic pattern]] (at will), [[levitate]] (at will), [[mind reading]] (at will), [[secret page]] (at will); __5th__ [[dimension door]] (3), [[hallucinatory terrain]] (at will), [[illusory object]] (at will); __6th__ [[dominate]] (3); __7th__ [[veil]] (at will); __8th__ [[illusory scene]] (at will), [[suggestion]] (3); __9th__ [[project image]] (at will); __Constant__ __(5th)__ [[tongues]];"
+    desc: "DC 37; __3rd__ [[hypnotic-pattern|hypnotic pattern]] (at will), [[levitate]] (at will), [[mind-reading|mind reading]] (at will), [[secret-page|secret page]] (at will); __5th__ [[dimension-door|dimension door]] (3), [[hallucinatory-terrain|hallucinatory terrain]] (at will), [[illusory-object|illusory object]] (at will); __6th__ [[dominate]] (3); __7th__ [[veil]] (at will); __8th__ [[illusory-scene|illusory scene]] (at will), [[suggestion]] (3); __9th__ [[project-image|project image]] (at will); __Constant__ __(5th)__ [[tongues]];"
 sourcebook: "_Bestiary_, page 15."
 ```
 

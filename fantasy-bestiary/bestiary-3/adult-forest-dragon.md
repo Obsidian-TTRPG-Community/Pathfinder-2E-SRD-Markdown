@@ -40,19 +40,19 @@ abilities_mid:
     desc: "⬲ ([[healing]], [[necromancy]], [[primal]]); __Frequency__ once per hour __Trigger__ The forest dragon is targeted with a water spell or effect __Effect__  The forest dragon gains 35 temporary Hit Points."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[evocation]], [[primal]]);  The dragon unleashes a swarm of insects that deals 14d6 (14d6) piercing damage in a 40-foot cone (DC 34 basic Reflex save) before dispersing. A creature that critically fails is [[stunned|stunned 2]] from the insects' venom; this is a [[poison]] effect. The dragon can't use Breath Weapon again for 1d4 (1d4) rounds."
+    desc: "⬺ ([[evocation]], [[primal]]);  The dragon unleashes a swarm of insects that deals 14d6 (14d6) piercing damage in a 40-foot cone (DC 34 basic Reflex save) before dispersing. A creature that critically fails is [[rules/conditions.md#Stunned|stunned 2]] from the insects' venom; this is a [[poison]] effect. The dragon can't use Breath Weapon again for 1d4 (1d4) rounds."
   - name: "Coiling Frenzy"
     desc: "⬺  The dragon makes one claw [[Strike]] and one tail [[Strike]] in either order, each against the same target. If either [[Strike]] hits, the dragon automatically Grabs the target."
   - name: "Draconic Momentum"
     desc: "  The dragon recharges their Breath Weapon whenever they score a critical hit with a [[Strike]]."
   - name: "Draining Blight"
-    desc: "⬺ ([[healing]], [[necromancy]], [[negative]], [[primal]]); __Frequency__ once per day  __Effect__  The dragon draws moisture from the living creatures surrounding them, using the energy to heal their own wounds. Each living creature in a 30-foot emanation takes 7d10 (7d10) negative damage (DC 34 basic Fortitude save). Creatures made entirely of water and plant creatures use the outcome one degree of success worse than they rolled. The dragon regains Hit Points equal to half of the highest damage a single creature takes from this effect. In addition, all non-creature plant life in the area withers and dies, eliminating non-magical undergrowth and any resulting [[terrain|difficult terrain]], cover, and concealment. Water is also consumed in the same way, typically lowering any standing body of water fully within the area by 1 foot."
+    desc: "⬺ ([[healing]], [[necromancy]], [[negative]], [[primal]]); __Frequency__ once per day  __Effect__  The dragon draws moisture from the living creatures surrounding them, using the energy to heal their own wounds. Each living creature in a 30-foot emanation takes 7d10 (7d10) negative damage (DC 34 basic Fortitude save). Creatures made entirely of water and plant creatures use the outcome one degree of success worse than they rolled. The dragon regains Hit Points equal to half of the highest damage a single creature takes from this effect. In addition, all non-creature plant life in the area withers and dies, eliminating non-magical undergrowth and any resulting [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]], cover, and concealment. Water is also consumed in the same way, typically lowering any standing body of water fully within the area by 1 foot."
   - name: "Forest Shape"
     desc: "  When casting tree shape, a forest dragon can become a tree of the same size and age as themself."
   - name: "Greater Constrict"
     desc: "⬻  3d8+10 (3d8+10) bludgeoning, DC 34 (page 305)"
   - name: "Woodland Stride"
-    desc: "  The forest dragon ignores [[terrain|difficult terrain]] and [[terrain|greater difficult terrain]] from non-magical foliage."
+    desc: "  The forest dragon ignores [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] and [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|greater difficult terrain]] from non-magical foliage."
 
 speed: 40 feet, fly 120 feet; woodland stride;
 
@@ -76,7 +76,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 34; __Cantrips (4th)__ [[know direction]]; __4th__ [[entangle]], [[tree shape]]; __Constant__ __(1st)__ [[pass without trace]];"
+    desc: "DC 34; __Cantrips (4th)__ [[know-direction|know direction]]; __4th__ [[entangle]], [[tree-shape|tree shape]]; __Constant__ __(1st)__ [[pass-without-trace|pass without trace]];"
 sourcebook: "_Bestiary 3_, page 75."
 ```
 

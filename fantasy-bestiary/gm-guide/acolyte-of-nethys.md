@@ -48,11 +48,11 @@ attacks:
   - name: Melee
     desc: "⬻ staff +4 ([[two-hand|two-hand d8]]); __Damage__ 1d4+1 (1d4+1) bludgeoning"
   - name: Ranged
-    desc: "⬻ crossbow +5 ([[range increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1d8 (1d8) piercing"
+    desc: "⬻ crossbow +5 ([[range-increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1d8 (1d8) piercing"
 
 spellcasting:
   - name: "Cleric Domain Spells"
-    desc: "DC 17, (1 Focus Point); __1st__ [[cry of destruction]];"
+    desc: "DC 17, (1 Focus Point); __1st__ [[cry-of-destruction|cry of destruction]];"
 sourcebook: "_Gamemastery Guide_, page 212."
 ```
 

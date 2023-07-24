@@ -7,7 +7,7 @@ tags:
 aliases: ["Triggerbrand Blitz"]
 ---
 # Triggerbrand Blitz  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 14*  
-gunslinger  
+[gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  
 
 - **Prerequisites**: way of the triggerbrand
 - **Frequency**: once per minute

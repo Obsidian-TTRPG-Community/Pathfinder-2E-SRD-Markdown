@@ -34,7 +34,7 @@ abilityMods: [2, 6, 4, -5, 2, -5]
 
 abilities_mid:
   - name: "Clockwork Wand"
-    desc: "  The clockwork mage uses a mechanical wand as a focus to channel magical energy. This wand is built into the clockwork mage's chest, with only the crystal at the end exposed. The mage can [[Interact]] to the remove the wand, or someone else can remove it with a DC 31 [[Thievery]] check to [[Disable a Device]]. The clockwork mage becomes unable to cast any spells except cantrips while the wand is removed. When removed, the clockwork wand is a magic wand containing the last 2nd-level innate spell the clockwork mage cast (the GM determines the spell randomly if it has not cast any eligible spells). The spells are placed within the wand while the mage is created, and the creator can substitute other arcane spells of the appropriate level."
+    desc: "  The clockwork mage uses a mechanical wand as a focus to channel magical energy. This wand is built into the clockwork mage's chest, with only the crystal at the end exposed. The mage can [[Interact]] to the remove the wand, or someone else can remove it with a DC 31 [[compendium/skills.md#Thievery|Thievery]] check to [[Disable-a-Device|Disable a Device]]. The clockwork mage becomes unable to cast any spells except cantrips while the wand is removed. When removed, the clockwork wand is a magic wand containing the last 2nd-level innate spell the clockwork mage cast (the GM determines the spell randomly if it has not cast any eligible spells). The spells are placed within the wand while the mage is created, and the creator can substitute other arcane spells of the appropriate level."
 abilities_top:
   - name: Items
     desc: "clockwork wand;"
@@ -60,7 +60,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 28, attack +20; __Cantrips (5th)__ [[daze]], [[detect magic]], [[ray of frost]], [[shield]], [[tanglefoot]]; __1st__ [[feather fall]], [[floating disk]], [[grease]]; __2nd__ [[glitterdust]], [[obscuring mist]], [[web]]; __3rd__ [[haste]], [[invisibility]], [[stinking cloud]]; __4th__ [[blink]], [[fly]], [[wall of fire]]; __5th__ [[black tentacles]], [[cone of cold]];"
+    desc: "DC 28, attack +20; __Cantrips (5th)__ [[daze]], [[detect-magic|detect magic]], [[ray-of-frost|ray of frost]], [[shield]], [[tanglefoot]]; __1st__ [[feather-fall|feather fall]], [[floating-disk|floating disk]], [[grease]]; __2nd__ [[glitterdust]], [[obscuring-mist|obscuring mist]], [[web]]; __3rd__ [[haste]], [[invisibility]], [[stinking-cloud|stinking cloud]]; __4th__ [[blink]], [[fly]], [[wall-of-fire|wall of fire]]; __5th__ [[black-tentacles|black tentacles]], [[cone-of-cold|cone of cold]];"
 sourcebook: "_Bestiary 3_, page 50."
 ```
 

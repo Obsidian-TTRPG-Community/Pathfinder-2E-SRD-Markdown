@@ -34,11 +34,11 @@ abilities_mid:
     desc: "  Any creature that hits the giant toad with an unarmed [[Strike]] or otherwise touches the toad is exposed to giant toad poison."
 abilities_bot:
   - name: "Giant Toad Poison"
-    desc: " ([[poison]]);  __Saving Throw__ DC 19 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ [[stupefied|stupefied 1]] (1 round) __Stage 2__ [[stupefied|stupefied 1]] and [[confused|confused]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 19 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ [[rules/conditions.md#Stupefied|stupefied 1]] (1 round) __Stage 2__ [[rules/conditions.md#Stupefied|stupefied 1]] and [[rules/conditions.md#Confused|confused]] (1 round)"
   - name: "Swallow Whole"
     desc: "⬻ ([[attack]]);  Medium, 1d8+2 (1d8+2) bludgeoning, Rupture 8."
   - name: "Tongue Grab"
-    desc: "  A creature hit by the giant toad's tongue becomes [[grabbed|grabbed]] by the giant toad. The creature isn't [[immobilized|immobilized]], but it can't move beyond the reach of the toad's tongue. A creature can sever the tongue with a successful [[Strike]] against AC 15 that deals at least 6 slashing damage. This deals no damage to the toad but prevents it from using its tongue [[Strike]] until it regrows its tongue, which takes a week."
+    desc: "  A creature hit by the giant toad's tongue becomes [[rules/conditions.md#Grabbed|grabbed]] by the giant toad. The creature isn't [[rules/conditions.md#Immobilized|immobilized]], but it can't move beyond the reach of the toad's tongue. A creature can sever the tongue with a successful [[Strike]] against AC 15 that deals at least 6 slashing damage. This deals no damage to the toad but prevents it from using its tongue [[Strike]] until it regrows its tongue, which takes a week."
 
 speed: 25 feet
 

@@ -42,7 +42,7 @@ abilities_mid:
     desc: "⬲ __Trigger__ A creature makes a melee __Effect__  [[Strike]] against or touches the witchfire; The witchfire makes a witchflame caress [[Strike]] against the triggering creature."
 abilities_bot:
   - name: "Witchflame"
-    desc: " ([[curse]], [[fire]], [[necromancy]], [[occult]]);  Any creature that takes negative damage from a witchfire's [[Strike]] must attempt a DC 26 Will save.\n__Critical Success__ The creature is unaffected and is temporarily immune to witchflame for 1 hour.\n__Success__ The creature appears to catch fire with sickly green flames. These flames deal no damage on their own, but as long as the flames burn, the creature can't be [[concealed|concealed]] ([[invisible|invisible]] creatures are [[concealed|concealed]] rather than being [[undetected|undetected]]) and gains weakness 5 to fire for 1 round.\n__Failure__ As success, but the effect is permanent until removed.\n__Critical Failure__ As failure, but the creature gains weakness 10 to fire."
+    desc: " ([[curse]], [[fire]], [[necromancy]], [[occult]]);  Any creature that takes negative damage from a witchfire's [[Strike]] must attempt a DC 26 Will save.\n__Critical Success__ The creature is unaffected and is temporarily immune to witchflame for 1 hour.\n__Success__ The creature appears to catch fire with sickly green flames. These flames deal no damage on their own, but as long as the flames burn, the creature can't be [[rules/conditions.md#Concealed|concealed]] ([[rules/conditions.md#Invisible|invisible]] creatures are [[rules/conditions.md#Concealed|concealed]] rather than being [[rules/conditions.md#Undetected|undetected]]) and gains weakness 5 to fire for 1 round.\n__Failure__ As success, but the effect is permanent until removed.\n__Critical Failure__ As failure, but the creature gains weakness 10 to fire."
   - name: "Witchflame Kindling"
     desc: "⬺ ([[fire]], [[necromancy]], [[occult]]); __Requirements__ A creature within 30 feet of the witchfire burns with witchflame  __Effect__  The witchfire's eyes and mouth glow brightly, and the witchflame on the target creature momentarily burns much hotter, dealing 5d6 (5d6) fire damage and 5d6 (5d6) negative damage to that creature (DC 28 basic Fortitude save). The witchfire can't use Witchflame Kindling for 1d4 (1d4) rounds."
 
@@ -66,7 +66,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 28; __Cantrips (5th)__ [[dancing lights]], [[ghost sound]]; __2nd__ [[illusory disguise]] (at will); __3rd__ [[phantom pain]]; __4th__ [[invisibility]], [[phantasmal killer]]; __5th__ [[crushing despair]]; __6th__ [[summon entity]] will-o'-wisp only;"
+    desc: "DC 28; __Cantrips (5th)__ [[dancing-lights|dancing lights]], [[ghost-sound|ghost sound]]; __2nd__ [[illusory-disguise|illusory disguise]] (at will); __3rd__ [[phantom-pain|phantom pain]]; __4th__ [[invisibility]], [[phantasmal-killer|phantasmal killer]]; __5th__ [[crushing-despair|crushing despair]]; __6th__ [[summon-entity|summon entity]] will-o'-wisp only;"
 sourcebook: "_Bestiary 2_, page 293."
 ```
 

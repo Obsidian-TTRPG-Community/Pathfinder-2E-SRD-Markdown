@@ -56,11 +56,11 @@ attacks:
   - name: Melee
     desc: "⬻ spear +10 __Damage__ 1d6+4 (1d6+4) piercing"
   - name: Ranged
-    desc: "⬻ heavy crossbow +8 ([[range increment|range increment 120 feet]], [[reload|reload 2]]); __Damage__ 1d10 (1d10) piercing"
+    desc: "⬻ heavy crossbow +8 ([[range-increment|range increment 120 feet]], [[reload|reload 2]]); __Damage__ 1d10 (1d10) piercing"
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 15; __1st__ [[illusory disguise]];"
+    desc: "DC 15; __1st__ [[illusory-disguise|illusory disguise]];"
 sourcebook: "_Bestiary_, page 75."
 ```
 

@@ -31,7 +31,7 @@ abilityMods: [5, 1, 4, -4, 2, 0]
 
 abilities_bot:
   - name: "Intimidating Display"
-    desc: "⬺ ([[auditory]], [[emotion]], [[fear]], [[mental]], [[visual]]);  The giant frilled lizard [[Stride|Strides]]. If it ends that [[Stride]] adjacent to at least one other creature, it suddenly displays its colorful neck frills and issues a frightening hiss. Each adjacent creature must succeed at a DC 21 Will save or become [[frightened|frightened 2]] (or [[frightened|frightened 3]] on a critical failure). The creature is then temporarily immune to Intimidating Display for 1 minute."
+    desc: "⬺ ([[auditory]], [[emotion]], [[fear]], [[mental]], [[visual]]);  The giant frilled lizard [[Stride|Strides]]. If it ends that [[Stride]] adjacent to at least one other creature, it suddenly displays its colorful neck frills and issues a frightening hiss. Each adjacent creature must succeed at a DC 21 Will save or become [[rules/conditions.md#Frightened|frightened 2]] (or [[rules/conditions.md#Frightened|frightened 3]] on a critical failure). The creature is then temporarily immune to Intimidating Display for 1 minute."
 
 speed: 30 feet, climb 30 feet
 

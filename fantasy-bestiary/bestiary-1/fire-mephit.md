@@ -33,10 +33,10 @@ abilityMods: [0, 4, 0, -2, 0, 2]
 
 abilities_top:
   - name: "Smoke Vision"
-    desc: "  The fire mephit ignores the [[concealed|concealed]] condition from smoke."
+    desc: "  The fire mephit ignores the [[rules/conditions.md#Concealed|concealed]] condition from smoke."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[arcane]], [[fire]]);  The fire mephit breathes flames in a 15-foot cone that deals 2d4 (2d4) fire and 1d4 (1d4) [[persistent damage|persistent fire damage]] to each creature within the area (DC 17 basic Reflex save). The fire mephit can't use Breath Weapon again for 1d4 (1d4) rounds."
+    desc: "⬺ ([[arcane]], [[fire]]);  The fire mephit breathes flames in a 15-foot cone that deals 2d4 (2d4) fire and 1d4 (1d4) [[rules/conditions.md#Persistent%20Damage|persistent fire damage]] to each creature within the area (DC 17 basic Reflex save). The fire mephit can't use Breath Weapon again for 1d4 (1d4) rounds."
 
 speed: 20 feet, fly 25 feet
 

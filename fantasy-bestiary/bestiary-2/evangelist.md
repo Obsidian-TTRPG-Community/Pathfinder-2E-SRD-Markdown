@@ -33,19 +33,19 @@ abilityMods: [4, 3, 2, 0, 1, 1]
 
 abilities_top:
   - name: "Painsight"
-    desc: " ([[divination]], [[divine]]);  A velstrac automatically knows whether a creature it sees has any of the [[doomed|doomed]], [[dying|dying]], and [[wounded|wounded]] conditions, as well as the value of those conditions."
+    desc: " ([[divination]], [[divine]]);  A velstrac automatically knows whether a creature it sees has any of the [[rules/conditions.md#Doomed|doomed]], [[rules/conditions.md#Dying|dying]], and [[rules/conditions.md#Wounded|wounded]] conditions, as well as the value of those conditions."
 abilities_mid:
   - name: "Unnerving Gaze"
-    desc: " ([[aura]], [[divine]], [[enchantment]], [[fear]], [[mental]], [[visual]]);  30 feet. When a creature ends its turn in the aura, it sees the face of a departed loved one in place of the evangelist's face. The creature must succeed at a DC 21 Will save or become [[frightened|frightened 2]] ([[frightened|frightened 3]] on a critical failure)."
+    desc: " ([[aura]], [[divine]], [[enchantment]], [[fear]], [[mental]], [[visual]]);  30 feet. When a creature ends its turn in the aura, it sees the face of a departed loved one in place of the evangelist's face. The creature must succeed at a DC 21 Will save or become [[rules/conditions.md#Frightened|frightened 2]] ([[rules/conditions.md#Frightened|frightened 3]] on a critical failure)."
   - name: "Attack of Opportunity"
     desc: "⬲ "
 abilities_bot:
   - name: "Animate Chains"
     desc: " ([[divine]], [[transmutation]]);  Chains in the evangelist's vicinity sprout barbs and writhe menacingly. The evangelist can make chain [[Strike|Strikes]] against any creature that is adjacent to an unattended chain within 20 feet, in addition to those within the reach of the evangelist's chain [[Strike]]."
   - name: "Focus Gaze"
-    desc: "⬻ ([[concentrate]], [[divine]], [[enchantment]], [[fear]], [[mental]], [[visual]]);  The evangelist stares at a creature they can see within 30 feet. The target must immediately attempt a Will save against unnerving gaze. In addition, if the creature was already [[frightened|frightened]], on a failed save, the evangelist is [[concealed|concealed]] from the creature for as long as the creature remains [[frightened|frightened]]. After attempting this save, the creature is then temporarily immune until the start of the evangelist's next turn."
+    desc: "⬻ ([[concentrate]], [[divine]], [[enchantment]], [[fear]], [[mental]], [[visual]]);  The evangelist stares at a creature they can see within 30 feet. The target must immediately attempt a Will save against unnerving gaze. In addition, if the creature was already [[rules/conditions.md#Frightened|frightened]], on a failed save, the evangelist is [[rules/conditions.md#Concealed|concealed]] from the creature for as long as the creature remains [[rules/conditions.md#Frightened|frightened]]. After attempting this save, the creature is then temporarily immune until the start of the evangelist's next turn."
   - name: "Impaling Chain"
-    desc: "  When the evangelist critically hits with a chain [[Strike]], the target is impaled and anchored in place, becoming [[grabbed|grabbed]] by the chain. The creature is unable to recover from [[persistent damage|persistent bleed damage]] until it gets free (DC 25 [[Escape]])."
+    desc: "  When the evangelist critically hits with a chain [[Strike]], the target is impaled and anchored in place, becoming [[rules/conditions.md#Grabbed|grabbed]] by the chain. The creature is unable to recover from [[rules/conditions.md#Persistent%20Damage|persistent bleed damage]] until it gets free (DC 25 [[Escape]])."
 
 speed: 25 feet
 
@@ -61,7 +61,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ chain +17 ([[disarm]], [[evil]], [[magical]], [[reach|reach 10 feet]], [[trip]]); __Damage__ 2d8+7 (2d8+7) piercing plus 1d6 (1d6) [[persistent damage|persistent bleed]] and impaling chain"
+    desc: "⬻ chain +17 ([[disarm]], [[evil]], [[magical]], [[reach|reach 10 feet]], [[trip]]); __Damage__ 2d8+7 (2d8+7) piercing plus 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed]] and impaling chain"
 
 sourcebook: "_Bestiary 2_, page 282."
 ```

@@ -34,10 +34,10 @@ abilityMods: [0, 7, 5, 3, 5, 7]
 
 abilities_mid:
   - name: "Watery Transparency"
-    desc: " ([[primal]], [[transmutation]], [[water]]);  When underwater, the nereid's body is [[invisible|invisible]]. The nereid can dismiss or resume this transparency as an action that has the [[concentrate]] trait."
+    desc: " ([[primal]], [[transmutation]], [[water]]);  When underwater, the nereid's body is [[rules/conditions.md#Invisible|invisible]]. The nereid can dismiss or resume this transparency as an action that has the [[concentrate]] trait."
 abilities_bot:
   - name: "Drowning Touch"
-    desc: "⬺ ([[conjuration]], [[incapacitation]], [[primal]], [[water]]);  The nereid touches a creature and causes water from its own body to flow into the creature's lungs. If the creature cannot breathe water, it must attempt a DC 29 Fortitude save.\n__Success__ The creature is unaffected and is temporarily immune to Drowning Touch for 24 hours.\n__Failure__ The creature becomes [[sickened|sickened 3]] as it chokes on the water.\n__Critical Failure__ The creature chokes on the water and runs out of air. It falls [[unconscious|unconscious]] and starts drowning (Pathfinder Core Rulebook 478). If the creature is above water, it recovers from drowning as soon as it succeeds at a saving throw against suffocation."
+    desc: "⬺ ([[conjuration]], [[incapacitation]], [[primal]], [[water]]);  The nereid touches a creature and causes water from its own body to flow into the creature's lungs. If the creature cannot breathe water, it must attempt a DC 29 Fortitude save.\n__Success__ The creature is unaffected and is temporarily immune to Drowning Touch for 24 hours.\n__Failure__ The creature becomes [[rules/conditions.md#Sickened|sickened 3]] as it chokes on the water.\n__Critical Failure__ The creature chokes on the water and runs out of air. It falls [[rules/conditions.md#Unconscious|unconscious]] and starts drowning (Pathfinder Core Rulebook 478). If the creature is above water, it recovers from drowning as soon as it succeeds at a saving throw against suffocation."
   - name: "Manifest Shawl"
     desc: "⬽ ([[conjuration]], [[primal]]);  The nereid divests themself of part of their connection to the First World and imbues this essence into a flowing shawl that enables them to function on land. The nereid can [[Dismiss]] this effect as long as they are touching the shawl. As long as the shawl exists, the nereid gains the [[amphibious]] trait. A nonnereid who carries the shawl also gains the [[amphibious]] trait. If a nereid's shawl is destroyed rather than Dismissed, the nereid can't Manifest a Shawl for 24 hours."
 
@@ -59,7 +59,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 29; __4th__ [[suggestion]]; __5th__ [[control water]], [[elemental form]] (3) water only; __6th__ [[summon elemental]] water elementals only;"
+    desc: "DC 29; __4th__ [[suggestion]]; __5th__ [[control-water|control water]], [[elemental-form|elemental form]] (3) water only; __6th__ [[summon-elemental|summon elemental]] water elementals only;"
 sourcebook: "_Bestiary 2_, page 182."
 ```
 

@@ -33,9 +33,9 @@ abilityMods: [-1, 1, 1, 4, 2, 2]
 
 abilities_top:
   - name: "Bedside Manner"
-    desc: "  A physician has a +2 circumstance bonus to [[Diplomacy]] checks to [[Make an Impression]] on or make a [[Request]] of a diseased, poisoned, or [[wounded|wounded]] creature."
+    desc: "  A physician has a +2 circumstance bonus to [[compendium/skills.md#Diplomacy|Diplomacy]] checks to [[Make-an-Impression|Make an Impression]] on or make a [[Request]] of a diseased, poisoned, or [[rules/conditions.md#Wounded|wounded]] creature."
   - name: "Doctor's Hand"
-    desc: "  When the physician rolls a critical failure on a check to [[Treat Disease]], Treat."
+    desc: "  When the physician rolls a critical failure on a check to [[Treat-Disease|Treat Disease]], Treat."
   - name: "Poison, or Treat"
     desc: "  Wounds, they get a failure instead."
   - name: Items

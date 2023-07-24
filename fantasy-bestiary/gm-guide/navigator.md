@@ -33,7 +33,7 @@ abilityMods: [0, 2, 1, 4, 3, 0]
 
 abilities_top:
   - name: "Sailing"
-    desc: "  [[Lore]] check, the navigator plots an optimal course. The severity of environmental conditions other than temperature are reduced by one step for 24 hours (two steps on a critical success). This changes moderate damage to minor damage, winds that create [[terrain|greater difficult terrain]] cause only [[terrain|difficult terrain]], and so on."
+    desc: "  [[compendium/skills.md#Lore]] check, the navigator plots an optimal course. The severity of environmental conditions other than temperature are reduced by one step for 24 hours (two steps on a critical success). This changes moderate damage to minor damage, winds that create [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|greater difficult terrain]] cause only [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]], and so on."
   - name: Items
     desc: "dagger, scroll case with ship's charts, writing set;"
 abilities_bot:

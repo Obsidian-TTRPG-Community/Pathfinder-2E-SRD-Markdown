@@ -33,9 +33,9 @@ abilityMods: [2, 4, 4, 1, 4, 3]
 
 abilities_bot:
   - name: "Hypnosis"
-    desc: "⬺ ([[concentrate]], [[enchantment]], [[incapacitation]], [[mental]], [[primal]], [[visual]]); __Frequency__ once per day  __Effect__  The lunar naga twists the coils of their serpentine body, causing the starlike motes on their scales to shift and move as they glow brighter, creating a mesmerizing swirl of light and darkness. All creatures within a 30-foot emanation must succeed at a DC 21 Will save or become [[fascinated|fascinated]] until the end of the naga's next turn (on a critical failure, [[fascinated|fascinated]] creatures drop whatever items they are carrying as well). The lunar naga can [[Sustain a Spell]] on Hypnosis. If the naga moves, affected creatures are compelled to remain within 30 feet of the naga and must spend each of its actions moving closer to the naga as expediently as possible on its next turn. If a creature is unable to end its turn within 30 feet of the naga, the effect ends for that creature."
+    desc: "⬺ ([[concentrate]], [[enchantment]], [[incapacitation]], [[mental]], [[primal]], [[visual]]); __Frequency__ once per day  __Effect__  The lunar naga twists the coils of their serpentine body, causing the starlike motes on their scales to shift and move as they glow brighter, creating a mesmerizing swirl of light and darkness. All creatures within a 30-foot emanation must succeed at a DC 21 Will save or become [[rules/conditions.md#Fascinated|fascinated]] until the end of the naga's next turn (on a critical failure, [[rules/conditions.md#Fascinated|fascinated]] creatures drop whatever items they are carrying as well). The lunar naga can [[Sustain-a-Spell|Sustain a Spell]] on Hypnosis. If the naga moves, affected creatures are compelled to remain within 30 feet of the naga and must spend each of its actions moving closer to the naga as expediently as possible on its next turn. If a creature is unable to end its turn within 30 feet of the naga, the effect ends for that creature."
   - name: "Lunar Naga Venom"
-    desc: " ([[poison]], [[sleep]]);  __Saving Throw__ DC 24 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ [[stupefied|stupefied 1]] (1 round) __Stage 2__ as stage 1 (1 round) __Stage 3__ [[stupefied|stupefied 2]] (1 round) __Stage 4__ [[unconscious|unconscious]] (1 round)"
+    desc: " ([[poison]], [[sleep]]);  __Saving Throw__ DC 24 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ [[rules/conditions.md#Stupefied|stupefied 1]] (1 round) __Stage 2__ as stage 1 (1 round) __Stage 3__ [[rules/conditions.md#Stupefied|stupefied 2]] (1 round) __Stage 4__ [[rules/conditions.md#Unconscious|unconscious]] (1 round)"
 
 speed: 25 feet
 
@@ -55,7 +55,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Spontaneous Spells"
-    desc: "DC 24, attack +16; __Cantrips (3rd)__ [[dancing lights]], [[daze]], [[detect magic]], [[mage hand]], [[read aura]]; __1st__ (4 slots) [[charm]], [[fleet step]], [[heal]], [[spider sting]]; __2nd__ (4 slots) [[humanoid form]], [[glitterdust]], [[invisibility]], [[web]]; __3rd__ (4 slots) [[heal]], [[lightning bolt]], [[slow]];"
+    desc: "DC 24, attack +16; __Cantrips (3rd)__ [[dancing-lights|dancing lights]], [[daze]], [[detect-magic|detect magic]], [[mage-hand|mage hand]], [[read-aura|read aura]]; __1st__ (4 slots) [[charm]], [[fleet-step|fleet step]], [[heal]], [[spider-sting|spider sting]]; __2nd__ (4 slots) [[humanoid-form|humanoid form]], [[glitterdust]], [[invisibility]], [[web]]; __3rd__ (4 slots) [[heal]], [[lightning-bolt|lightning bolt]], [[slow]];"
 sourcebook: "_Bestiary 2_, page 178."
 ```
 

@@ -36,13 +36,13 @@ abilities_mid:
     desc: "⬲ "
 abilities_bot:
   - name: "Constrict"
-    desc: "⬻  1d8+9 (1d8+9) bludgeoning, DC 25 ([[grabbed|grabbed]] by claws only)"
+    desc: "⬻  1d8+9 (1d8+9) bludgeoning, DC 25 ([[rules/conditions.md#Grabbed|grabbed]] by claws only)"
   - name: "Mandibles"
-    desc: "⬻ __Requirements__ A creature is [[grabbed|grabbed]] and [[paralyzed|paralyzed]] by the chuul's tentacles.  __Effect__  The creature takes 3d6 (3d6) piercing damage."
+    desc: "⬻ __Requirements__ A creature is [[rules/conditions.md#Grabbed|grabbed]] and [[rules/conditions.md#Paralyzed|paralyzed]] by the chuul's tentacles.  __Effect__  The creature takes 3d6 (3d6) piercing damage."
   - name: "Paralytic Venom"
-    desc: " ([[incapacitation]], [[poison]]);  __Saving Throw__ DC 25 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ [[paralyzed|paralyzed]]. (1 round)"
+    desc: " ([[incapacitation]], [[poison]]);  __Saving Throw__ DC 25 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ [[rules/conditions.md#Paralyzed|paralyzed]]. (1 round)"
   - name: "Tentacle Transfer"
-    desc: "⬻ __Requirements__ The chuul has a creature [[grabbed|grabbed]].  __Effect__  The chuul transfers the [[grabbed|grabbed]] creature from its claws to its tentacles, or vice versa. A creature is exposed to the chuul's paralytic venom when transferred into the tentacles and at the start of each of the chuul's turns if it remains [[grabbed|grabbed]] by the tentacles."
+    desc: "⬻ __Requirements__ The chuul has a creature [[rules/conditions.md#Grabbed|grabbed]].  __Effect__  The chuul transfers the [[rules/conditions.md#Grabbed|grabbed]] creature from its claws to its tentacles, or vice versa. A creature is exposed to the chuul's paralytic venom when transferred into the tentacles and at the start of each of the chuul's turns if it remains [[rules/conditions.md#Grabbed|grabbed]] by the tentacles."
 
 speed: 30 feet; swim 25 feet;
 

@@ -31,10 +31,10 @@ abilityMods: [4, 3, 4, -4, 1, 3]
 
 abilities_top:
   - name: "Camouflage"
-    desc: "  The giant seahorse can change its coloration to match its surroundings. It doesn't need cover to attempt to [[Hide]] with a [[Stealth]] check."
+    desc: "  The giant seahorse can change its coloration to match its surroundings. It doesn't need cover to attempt to [[Hide]] with a [[compendium/skills.md#Stealth|Stealth]] check."
 abilities_bot:
   - name: "Anchor"
-    desc: "⬻  The seahorse wraps its tail around either a stationary object or its rider. A seahorse anchored to an object gains a +2 circumstance bonus to any defense against effects that would forcibly move it. An anchored rider gains the same benefit against effects that would forcibly knock it off the seahorse. The seahorse remains anchored until it Releases its grip, is knocked [[unconscious|unconscious]], or either it's forcibly moved away from the object or its rider is forcibly moved off it."
+    desc: "⬻  The seahorse wraps its tail around either a stationary object or its rider. A seahorse anchored to an object gains a +2 circumstance bonus to any defense against effects that would forcibly move it. An anchored rider gains the same benefit against effects that would forcibly knock it off the seahorse. The seahorse remains anchored until it Releases its grip, is knocked [[rules/conditions.md#Unconscious|unconscious]], or either it's forcibly moved away from the object or its rider is forcibly moved off it."
 
 speed: swim 30 feet
 

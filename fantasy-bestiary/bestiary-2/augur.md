@@ -33,10 +33,10 @@ abilityMods: [-1, 3, 1, 2, 1, -1]
 
 abilities_top:
   - name: "Painsight"
-    desc: " ([[divination]], [[divine]]);  A velstrac automatically knows whether a creature it sees has any of the [[doomed|doomed]], [[dying|dying]], and [[wounded|wounded]] conditions, as well as the value of those conditions."
+    desc: " ([[divination]], [[divine]]);  A velstrac automatically knows whether a creature it sees has any of the [[rules/conditions.md#Doomed|doomed]], [[rules/conditions.md#Dying|dying]], and [[rules/conditions.md#Wounded|wounded]] conditions, as well as the value of those conditions."
 abilities_mid:
   - name: "Feel the Blades"
-    desc: " ([[aura]], [[divine]], [[enchantment]], [[fear]], [[mental]], [[visual]]);  30 feet. When a creature ends its turn in the aura, it feels the sharp barbs of the augur's blades on its skin. The creature must succeed at a DC 17 Will save or become [[frightened|frightened 1]] ([[frightened|frightened 2]] on a critical failure)."
+    desc: " ([[aura]], [[divine]], [[enchantment]], [[fear]], [[mental]], [[visual]]);  30 feet. When a creature ends its turn in the aura, it feels the sharp barbs of the augur's blades on its skin. The creature must succeed at a DC 17 Will save or become [[rules/conditions.md#Frightened|frightened 1]] ([[rules/conditions.md#Frightened|frightened 2]] on a critical failure)."
 abilities_bot:
   - name: "Focus Gaze"
     desc: "⬻ ([[concentrate]], [[divine]], [[enchantment]], [[fear]], [[mental]], [[visual]]);  The augur stares at a creature they can see within 30 feet. The target must immediately attempt a Will save against feel the blades. After attempting this save, the creature is then temporarily immune until the start of the augur's next turn."
@@ -57,11 +57,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ blade +8 ([[agile]], [[evil]], [[finesse]], [[magical]], [[versatile|versatile p]]); __Damage__ 1d4-1 (1d4-1) slashing plus 1d4 (1d4) [[persistent damage|persistent bleed]]"
+    desc: "⬻ blade +8 ([[agile]], [[evil]], [[finesse]], [[magical]], [[versatile|versatile p]]); __Damage__ 1d4-1 (1d4-1) slashing plus 1d4 (1d4) [[rules/conditions.md#Persistent%20Damage|persistent bleed]]"
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 17; __Cantrips (1st)__ [[mage hand]]; __1st__ [[harm]] (3); __2nd__ [[augury]] (2); __4th__ [[read omens]] once per week;"
+    desc: "DC 17; __Cantrips (1st)__ [[mage-hand|mage hand]]; __1st__ [[harm]] (3); __2nd__ [[augury]] (2); __4th__ [[read-omens|read omens]] once per week;"
 sourcebook: "_Bestiary 2_, page 280."
 ```
 

@@ -32,7 +32,7 @@ abilityMods: [5, 3, 2, 1, 3, 3]
 
 abilities_bot:
   - name: "Lamia's Caress"
-    desc: "⬺ ([[curse]], [[enchantment]], [[mental]], [[occult]]);  The lamia touches a creature, who must succeed at a DC 23 Will save or become [[stupefied|stupefied 1]]. If the target fails additional saves against this ability, the condition value increases by 1 (to a maximum of [[stupefied|stupefied 4]]). This condition value decreases by 1 every 24 hours."
+    desc: "⬺ ([[curse]], [[enchantment]], [[mental]], [[occult]]);  The lamia touches a creature, who must succeed at a DC 23 Will save or become [[rules/conditions.md#Stupefied|stupefied 1]]. If the target fails additional saves against this ability, the condition value increases by 1 (to a maximum of [[rules/conditions.md#Stupefied|stupefied 4]]). This condition value decreases by 1 every 24 hours."
 abilities_top:
   - name: Items
     desc: "javelin (2), +1 spear;"
@@ -61,7 +61,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 25; __1st__ [[illusory disguise]] (at will), [[illusory object]] (at will), [[ventriloquism]] (at will); __2nd__ [[humanoid form]] (at will), [[mirror image]]; __3rd__ [[sleep]]; __4th__ [[charm]] (3), [[suggestion]];"
+    desc: "DC 25; __1st__ [[illusory-disguise|illusory disguise]] (at will), [[illusory-object|illusory object]] (at will), [[ventriloquism]] (at will); __2nd__ [[humanoid-form|humanoid form]] (at will), [[mirror-image|mirror image]]; __3rd__ [[sleep]]; __4th__ [[charm]] (3), [[suggestion]];"
 sourcebook: "_Bestiary_, page 216."
 ```
 

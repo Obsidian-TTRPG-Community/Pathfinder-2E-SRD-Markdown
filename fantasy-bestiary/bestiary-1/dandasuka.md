@@ -38,7 +38,7 @@ abilities_bot:
   - name: "Change Shape"
     desc: "⬻ ([[concentrate]], [[occult]], [[polymorph]], [[transmutation]]);  The dandasuka takes on the appearance of any Small humanoid. This doesn't change the dandasuka's Speed or its attack and damage modifiers with its [[Strike|Strikes]], but it might change the damage type its [[Strike|Strikes]] deal (typically to bludgeoning). It typically loses its fangs [[Strike]] unless the humanoid form has fangs or a similar unarmed attack."
   - name: "Sneak Attack"
-    desc: "  The dandasuka deals an extra 1d6 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The dandasuka deals an extra 1d6 (1d6) precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
 
 speed: 25 feet, climb 20 feet
 
@@ -54,15 +54,15 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fangs +15 ([[finesse]], [[magical]]); __Damage__ 2d6+4 (2d6+4) piercing plus 1d6 (1d6) [[persistent damage|persistent bleed]]"
+    desc: "⬻ fangs +15 ([[finesse]], [[magical]]); __Damage__ 2d6+4 (2d6+4) piercing plus 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed]]"
   - name: Melee
     desc: "⬻ claw +15 ([[agile]], [[finesse]], [[magical]]); __Damage__ 2d4+4 (2d4+4) slashing"
 
 spellcasting:
   - name: "Occult Spontaneous Spells"
-    desc: "DC 22, attack +15; __Cantrips (1st)__ [[daze]], [[detect magic]], [[ghost sound]], [[mage hand]], [[sigil]]; __1st__ (4 slots) [[charm]], [[ventriloquism]];"
+    desc: "DC 22, attack +15; __Cantrips (1st)__ [[daze]], [[detect-magic|detect magic]], [[ghost-sound|ghost sound]], [[mage-hand|mage hand]], [[sigil]]; __1st__ (4 slots) [[charm]], [[ventriloquism]];"
   - name: "Occult Innate Spells"
-    desc: "DC 19; __3rd__ [[clairaudience]], [[mind reading]] (at will); __4th__ [[clairvoyance]];"
+    desc: "DC 19; __3rd__ [[clairaudience]], [[mind-reading|mind reading]] (at will); __4th__ [[clairvoyance]];"
 sourcebook: "_Bestiary_, page 274."
 ```
 

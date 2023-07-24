@@ -38,7 +38,7 @@ abilities_mid:
   - name: "Self-Absorbed"
     desc: "  The adachros denies any version of reality but their own. If they begin their turn under an [[enchantment]] or [[illusion]] effect, they immediately attempt to counteract one such effect with a counteract modifier of +23, even if the effect prevents the adachros from acting."
   - name: "Splinter Sycophant"
-    desc: "⬲ __Trigger__ The adachros takes 25 or more bludgeoning, piercing, or slashing damage __Effect__  The attack breaks off part of the adachros's body. This fragment reshapes and animates into an [[ioton]] with the [[minion]] trait under the adachros's control. The ioton sycophant can't move more than 120 feet from the adachros and crumbles after 1 minute. If the adachros gives it no other commands, the ioton sycophant spends its turn praising the adachros and affirming the adachros's infallibility; this grants the adachros 4d6 (4d6) temporary Hit Points that last for as long as the ioton sycophant exists, and a +1 status bonus to attack rolls, [[Perception]] checks, saving throws, and skill checks for 1 round."
+    desc: "⬲ __Trigger__ The adachros takes 25 or more bludgeoning, piercing, or slashing damage __Effect__  The attack breaks off part of the adachros's body. This fragment reshapes and animates into an [[ioton]] with the [[minion]] trait under the adachros's control. The ioton sycophant can't move more than 120 feet from the adachros and crumbles after 1 minute. If the adachros gives it no other commands, the ioton sycophant spends its turn praising the adachros and affirming the adachros's infallibility; this grants the adachros 4d6 (4d6) temporary Hit Points that last for as long as the ioton sycophant exists, and a +1 status bonus to attack rolls, [[compendium/skills.md#Perception|Perception]] checks, saving throws, and skill checks for 1 round."
 abilities_bot:
   - name: "Fatal Fantasia"
     desc: " ([[illusion]], [[mental]]);  An adachros's melee and ranged [[Strike|Strikes]] gain the fatal d12 trait against any creature affected by the adachros's enchantment or illusion spells, including creatures in the area of a hallucinatory terrain that haven't disbelieved the effect."
@@ -59,11 +59,11 @@ attacks:
   - name: Melee
     desc: "⬻ fist +27 ([[agile]], [[magical]], [[versatile|versatile p]]); __Damage__ 3d10+14 (3d10+14) bludgeoning"
   - name: Ranged
-    desc: "⬻ psychic shard +27 ([[magical]], [[range increment|range increment 60 feet]]); __Damage__ 3d8+14 (3d8+14) piercing"
+    desc: "⬻ psychic shard +27 ([[magical]], [[range-increment|range increment 60 feet]]); __Damage__ 3d8+14 (3d8+14) piercing"
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 33; __Cantrips (7th)__ [[daze]], [[detect magic]]; __5th__ [[hallucinatory terrain]] (3); __6th__ [[hallucination]] (2), [[illusory scene]], [[modify memory]], [[zealous conviction]]; __7th__ [[reverse gravity]];"
+    desc: "DC 33; __Cantrips (7th)__ [[daze]], [[detect-magic|detect magic]]; __5th__ [[hallucinatory-terrain|hallucinatory terrain]] (3); __6th__ [[hallucination]] (2), [[illusory-scene|illusory scene]], [[modify-memory|modify memory]], [[zealous-conviction|zealous conviction]]; __7th__ [[reverse-gravity|reverse gravity]];"
 sourcebook: "_Bestiary 3_, page 95."
 ```
 

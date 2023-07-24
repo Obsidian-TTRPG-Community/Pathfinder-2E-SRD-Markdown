@@ -25,7 +25,7 @@ modifier: 33
 perception:
   - name: "Perception"
     desc: "Perception +33; __darkvision__, __true seeing__;"
-languages: "Necril;  [[Lore|Skeletal Lore]] languages;"
+languages: "Necril;  [[compendium/skills.md#Lore|Skeletal Lore]] languages;"
 skills:
   - name: "Skills"
     desc: "__Acrobatics__: +34 (1d20+34); __Intimidation__: +35 (1d20+35); __Religion__: +30 (1d20+30); __Stealth__: +32 (1d20+32); __Skeletal lore__: +30 (1d20+30); "
@@ -33,15 +33,15 @@ abilityMods: [8, 6, 6, 2, 8, 7]
 
 abilities_top:
   - name: "Skeletal Lore"
-    desc: " ([[divination]], [[divine]]);  A skulltaker taps into the memories of the creatures whose bones make up its body. This gives it the [[Lore|Skeletal Lore]] skill, which it can use to [[Recall Knowledge]] of any kind. In addition, it can speak and understand all the languages known by the creatures whose bones make up its body (typically including Common and the regional language of the skulltakerʼs home region). The skulltaker can use [[Lore|Skeletal Lore]] as the primary skill check for the legend lore ritual (Core Rulebook 413), and it can cast legend lore without secondary casters."
+    desc: " ([[divination]], [[divine]]);  A skulltaker taps into the memories of the creatures whose bones make up its body. This gives it the [[compendium/skills.md#Lore|Skeletal Lore]] skill, which it can use to [[Recall-Knowledge|Recall Knowledge]] of any kind. In addition, it can speak and understand all the languages known by the creatures whose bones make up its body (typically including Common and the regional language of the skulltakerʼs home region). The skulltaker can use [[compendium/skills.md#Lore|Skeletal Lore]] as the primary skill check for the legend lore ritual (Core Rulebook 413), and it can cast legend lore without secondary casters."
 abilities_mid:
   - name: "Shard Storm"
     desc: " ([[air]], [[aura]], [[divine]], [[necromancy]]);  10 feet. A cloud of bone shards surrounds the skulltaker. When a creature moves into the emanation or begins its turn there, shard storm attempts to counteract any death ward effect on the creature (+30 counteract modifier) and then deals 4d6 (4d6) slashing damage and 4d6 (4d6) negative damage to the creature, with a DC 40 basic Reflex save."
 abilities_bot:
   - name: "Bonetaker"
-    desc: " ([[divine]], [[necromancy]]);  Whenever a creature dies within 60 feet of a skulltaker, the skulltaker draws a portion of the creature's bones into its shard storm. The creature must succeed at a DC 40 Will save or rise as a [[skeletal champion]] in 1d4 (1d4) rounds. These skeletal champions are [[controlled|controlled]] by the skulltaker."
+    desc: " ([[divine]], [[necromancy]]);  Whenever a creature dies within 60 feet of a skulltaker, the skulltaker draws a portion of the creature's bones into its shard storm. The creature must succeed at a DC 40 Will save or rise as a [[skeletal-champion|skeletal champion]] in 1d4 (1d4) rounds. These skeletal champions are [[rules/conditions.md#Controlled|controlled]] by the skulltaker."
   - name: "Energy Drain"
-    desc: " ([[divine]], [[necromancy]]);  When a skulltaker hits with a melee [[Strike]], the target must succeed at a DC 40 Fortitude save or become [[drained|drained 2]] and [[doomed|doomed 1]]."
+    desc: " ([[divine]], [[necromancy]]);  When a skulltaker hits with a melee [[Strike]], the target must succeed at a DC 40 Fortitude save or become [[rules/conditions.md#Drained|drained 2]] and [[rules/conditions.md#Doomed|doomed 1]]."
   - name: "Splintered Ground"
     desc: "⬻  The skulltaker causes splintered bones to erupt from all solid surfaces in a 100-foot emanation, except for surfaces of worked stone. A creature moving through the bones takes 10 piercing damage and 10 negative damage for every 5 feet of movement. The first time each round a creature takes piercing damage from these splintered bones, it must succeed at a Reflex save or take a –10-foot circumstance penalty to all Speeds for 10 minutes, or a –15-foot circumstance penalty for 24 hours on a critical failure. The bones remain in place until the skulltaker uses this action again or the bones are manually removed, which takes 10 minutes for each 5-foot square."
 
@@ -67,7 +67,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 40; __8th__ [[finger of death]] (2), [[horrid wilting]] (2), [[punishing winds]] (2); __Constant__ __(6th)__ [[true seeing]];"
+    desc: "DC 40; __8th__ [[finger-of-death|finger of death]] (2), [[horrid-wilting|horrid wilting]] (2), [[punishing-winds|punishing winds]] (2); __Constant__ __(6th)__ [[true-seeing|true seeing]];"
 sourcebook: "_Bestiary_, page 300."
 ```
 

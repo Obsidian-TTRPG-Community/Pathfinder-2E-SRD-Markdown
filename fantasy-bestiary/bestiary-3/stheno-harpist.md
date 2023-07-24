@@ -34,9 +34,9 @@ abilityMods: [0, 2, 3, 1, -1, 4]
 
 abilities_top:
   - name: "Snake Search"
-    desc: "  When the stheno harpist Searches or Seeks, their snakes try to help too, rolling a separate [[Perception]] check with a modifier of –1 instead of +4. If the snakes notice something, they try to notify the stheno, though they are no more intelligent than normal snakes and might find different things interesting than the stheno does."
+    desc: "  When the stheno harpist Searches or Seeks, their snakes try to help too, rolling a separate [[compendium/skills.md#Perception|Perception]] check with a modifier of –1 instead of +4. If the snakes notice something, they try to notify the stheno, though they are no more intelligent than normal snakes and might find different things interesting than the stheno does."
   - name: "Speak With Snakes"
-    desc: "  The stheno harpist can communicate with snakes, including the ones in their hair, and can use [[Diplomacy]] to [[Make an Impression]] on snakes and [[Request]] things from snakes. Items harp, leather armor, rapier, shortbow."
+    desc: "  The stheno harpist can communicate with snakes, including the ones in their hair, and can use [[compendium/skills.md#Diplomacy|Diplomacy]] to [[Make-an-Impression|Make an Impression]] on snakes and [[Request]] things from snakes. Items harp, leather armor, rapier, shortbow."
   - name: Items
     desc: "harp, leather armor, rapier, shortbow;"
 
@@ -58,11 +58,11 @@ attacks:
   - name: Melee
     desc: "⬻ snake fangs +7 ([[agile]], [[finesse]]); __Damage__ 1d4 (1d4) piercing"
   - name: Ranged
-    desc: "⬻ shortbow +7 ([[deadly|deadly d10]], [[range increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6 (1d6) piercing"
+    desc: "⬻ shortbow +7 ([[deadly|deadly d10]], [[range-increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6 (1d6) piercing"
 
 spellcasting:
   - name: "Occult Spontaneous Spells"
-    desc: "DC 17; __Cantrips (1st)__ [[dancing lights]], [[detect magic]], [[ghost sound]], [[inspire courage]], [[prestidigitation]], [[shield]]; __1st__ (2 slots) [[phantom pain]], [[soothe]];"
+    desc: "DC 17; __Cantrips (1st)__ [[dancing-lights|dancing lights]], [[detect-magic|detect magic]], [[ghost-sound|ghost sound]], [[inspire-courage|inspire courage]], [[prestidigitation]], [[shield]]; __1st__ (2 slots) [[phantom-pain|phantom pain]], [[soothe]];"
 sourcebook: "_Bestiary 3_, page 258."
 ```
 

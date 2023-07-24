@@ -36,11 +36,11 @@ abilities_bot:
   - name: "Greater Constrict"
     desc: "⬻  2d10+7 (2d10+7) bludgeoning, DC 29."
   - name: "Quetz Couatl Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 29 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d6 (2d6) poison damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 2d8 (2d8) poison damage, [[enfeebled|enfeebled 1]], and [[flat-footed|flat-footed]] (1 round) __Stage 3__ 2d10 (2d10) poison damage, [[enfeebled|enfeebled 2]], and [[flat-footed|flat-footed]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 29 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d6 (2d6) poison damage and [[rules/conditions.md#Enfeebled|enfeebled 1]] (1 round) __Stage 2__ 2d8 (2d8) poison damage, [[rules/conditions.md#Enfeebled|enfeebled 1]], and [[rules/conditions.md#Flat-Footed|flat-footed]] (1 round) __Stage 3__ 2d10 (2d10) poison damage, [[rules/conditions.md#Enfeebled|enfeebled 2]], and [[rules/conditions.md#Flat-Footed|flat-footed]] (1 round)"
   - name: "Radiant Wings"
-    desc: "⬺ ([[divine]], [[enchantment]], [[incapacitation]], [[mental]], [[visual]]);  The quetz couatl spreads its multicolored wings and radiant plumage. Each enemy within 30 feet must attempt a DC 29 Will save.\n__Critical Success__ The creature is unaffected and is temporarily immune to Radiant Wings for 24 hours.\n__Success__ The creature is [[dazzled|dazzled]] for 1 round.\n__Failure__ The creature is [[dazzled|dazzled]] for 1 minute.\n__Critical Failure__ As failure, but if the creature is evil, it is also [[stunned|stunned 3]]."
+    desc: "⬺ ([[divine]], [[enchantment]], [[incapacitation]], [[mental]], [[visual]]);  The quetz couatl spreads its multicolored wings and radiant plumage. Each enemy within 30 feet must attempt a DC 29 Will save.\n__Critical Success__ The creature is unaffected and is temporarily immune to Radiant Wings for 24 hours.\n__Success__ The creature is [[rules/conditions.md#Dazzled|dazzled]] for 1 round.\n__Failure__ The creature is [[rules/conditions.md#Dazzled|dazzled]] for 1 minute.\n__Critical Failure__ As failure, but if the creature is evil, it is also [[rules/conditions.md#Stunned|stunned 3]]."
   - name: "Wrap in Coils"
-    desc: "⬻ __Requirements__ The quetz couatl has a  __Effect__  Medium or smaller creature [[grabbed|grabbed]] or [[restrained|restrained]] in its jaws; The quetz couatl moves the creature into its coils, freeing its fangs to make attacks, then uses."
+    desc: "⬻ __Requirements__ The quetz couatl has a  __Effect__  Medium or smaller creature [[rules/conditions.md#Grabbed|grabbed]] or [[rules/conditions.md#Restrained|restrained]] in its jaws; The quetz couatl moves the creature into its coils, freeing its fangs to make attacks, then uses."
   - name: "Greater"
     desc: "  Constrict against the creature. The quetz couatl can hold as many creatures in its coils as will fit in its space."
 
@@ -62,7 +62,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 29; __2nd__ [[invisibility]] (at will) self only; __3rd__ [[mind reading]] (at will); __4th__ [[charm]], [[gaseous form]]; __5th__ [[breath of life]], [[divine wrath]]; __7th__ [[ethereal jaunt]] (at will), [[plane shift]] self only; __Constant__ ;"
+    desc: "DC 29; __2nd__ [[invisibility]] (at will) self only; __3rd__ [[mind-reading|mind reading]] (at will); __4th__ [[charm]], [[gaseous-form|gaseous form]]; __5th__ [[breath-of-life|breath of life]], [[divine-wrath|divine wrath]]; __7th__ [[ethereal-jaunt|ethereal jaunt]] (at will), [[plane-shift|plane shift]] self only; __Constant__ ;"
 sourcebook: "_Bestiary 2_, page 54."
 ```
 

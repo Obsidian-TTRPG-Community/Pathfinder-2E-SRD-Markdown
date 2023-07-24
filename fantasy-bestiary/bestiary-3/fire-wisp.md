@@ -33,7 +33,7 @@ abilityMods: [2, 3, 2, 0, 2, 0]
 
 abilities_top:
   - name: "Smoke Vision"
-    desc: "  The fire wisp ignores the [[concealed|concealed]] condition from smoke."
+    desc: "  The fire wisp ignores the [[rules/conditions.md#Concealed|concealed]] condition from smoke."
 abilities_mid:
   - name: "Resonance"
     desc: " ([[aura]], [[air]]);  30 feet. All wisps vibrate at a frequency attuned to their element, resonating with and empowering all creatures and effects sharing that trait. A creature in the area gains a +1 status bonus to attack and damage rolls for effects with the [[fire]] trait; a creature with the [[elemental]] and [[fire]] traits gains this bonus to all attack and damage rolls."
@@ -57,7 +57,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ tendril +6 ([[reach|reach 10 feet]]); __Damage__ 1d4 (1d4) fire plus 1 [[persistent damage|persistent fire]]"
+    desc: "⬻ tendril +6 ([[reach|reach 10 feet]]); __Damage__ 1d4 (1d4) fire plus 1 [[rules/conditions.md#Persistent%20Damage|persistent fire]]"
 
 sourcebook: "_Bestiary 3_, page 91."
 ```

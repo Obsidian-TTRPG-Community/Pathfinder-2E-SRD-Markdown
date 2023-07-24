@@ -57,13 +57,13 @@ attacks:
   - name: Melee
     desc: "⬻ rapier +9 ([[deadly|deadly 1d8]], [[disarm]], [[finesse]]); __Damage__ 1d6+2 (1d6+2) piercing"
   - name: Ranged
-    desc: "⬻ hand crossbow +9 ([[range increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1d6 (1d6) piercing plus lethargy poison"
+    desc: "⬻ hand crossbow +9 ([[range-increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1d6 (1d6) piercing plus lethargy poison"
 
 spellcasting:
   - name: "Divine Prepared Spells"
-    desc: "DC 21; __Cantrips (2nd)__ [[detect magic]], [[guidance]], [[know direction]], [[read aura]], [[stabilize]]; __1st__ [[bless]], [[command]], [[fear]]; __2nd__ [[harm]] (3), [[silence]], [[spiritual weapon]];"
+    desc: "DC 21; __Cantrips (2nd)__ [[detect-magic|detect magic]], [[guidance]], [[know-direction|know direction]], [[read-aura|read aura]], [[stabilize]]; __1st__ [[bless]], [[command]], [[fear]]; __2nd__ [[harm]] (3), [[silence]], [[spiritual-weapon|spiritual weapon]];"
   - name: "Divine Innate Spells"
-    desc: "DC 17; __Cantrips (4th)__ [[dancing lights]]; __1st__ [[command]] (at will); __2nd__ [[darkness]] (at will), [[faerie fire]] (at will); __3rd__ [[dispel magic]], [[levitate]] (3); __4th__ [[darkness]];"
+    desc: "DC 17; __Cantrips (4th)__ [[dancing-lights|dancing lights]]; __1st__ [[command]] (at will); __2nd__ [[darkness]] (at will), [[faerie-fire|faerie fire]] (at will); __3rd__ [[dispel-magic|dispel magic]], [[levitate]] (3); __4th__ [[darkness]];"
 sourcebook: "_Bestiary_, page 137."
 ```
 

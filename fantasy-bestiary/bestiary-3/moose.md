@@ -36,7 +36,7 @@ abilities_bot:
   - name: "Kick Back"
     desc: "⬻  The moose bucks and kicks back with both hind hooves, making a [[Strike]] with a –2 circumstance penalty to the attack roll. If it hits, it deals an extra 1d8 (1d8) bludgeoning damage. This counts as two attacks when calculating the moose's multiple attack penalty."
   - name: "Thundering Charge"
-    desc: "⬺  The moose [[Stride|Strides]] twice and then makes an antler [[Strike]]. A Medium or smaller creature damaged by this attack must succeed at a DC 18 Fortitude save or be [[stunned|stunned 1]]."
+    desc: "⬺  The moose [[Stride|Strides]] twice and then makes an antler [[Strike]]. A Medium or smaller creature damaged by this attack must succeed at a DC 18 Fortitude save or be [[rules/conditions.md#Stunned|stunned 1]]."
   - name: "Trample"
     desc: "⬽  Medium or smaller, hoof, DC 20"
 

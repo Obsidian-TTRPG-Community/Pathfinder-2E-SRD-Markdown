@@ -40,7 +40,7 @@ abilities_top:
     desc: "+1 striking scythe, black onyx gems worth 300 gp;"
 abilities_bot:
   - name: "Dooming Touch"
-    desc: " ([[divine]], [[necromancy]]);  The tomb giant's claws carry the accursed power of their foul gods. A creature hit by the tomb giant's claw [[Strike]] becomes [[doomed|doomed 1]]."
+    desc: " ([[divine]], [[necromancy]]);  The tomb giant's claws carry the accursed power of their foul gods. A creature hit by the tomb giant's claw [[Strike]] becomes [[rules/conditions.md#Doomed|doomed 1]]."
   - name: "Font of Death"
     desc: "⬽ ([[divine]], [[necromancy]], [[negative]]);  The tomb giant turns the spiritual tide on a creature that has just died, temporarily transforming it into a volatile vessel of negative energy. The tomb giant touches a creature that died in the past 24 hours, infusing its flesh and bone with negative energy. Once during the next hour, the tomb giant can spend a single action (from any distance) to release this negative energy from the corpse in an explosion that deals 10d8 (10d8) negative energy in a 15-foot burst (DC 32 basic Fortitude save); if not released before the end of the hour, the energy dissipates harmlessly. The tomb giant can't use Font of Death while a previous corpse remains infused."
   - name: "Throw Rock"
@@ -55,7 +55,7 @@ armorclass:
 hp: 255
 health:
   - name: HP
-    desc: "255; [[negative healing]]; __Immunities__ death effects;"
+    desc: "255; [[negative-healing-b2|negative healing]]; __Immunities__ death effects;"
 
 
 attacks:
@@ -64,11 +64,11 @@ attacks:
   - name: Melee
     desc: "⬻ claw +26 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 3d6+13 (3d6+13) slashing plus dooming touch"
   - name: Ranged
-    desc: "⬻ rock +24 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 3d8+13 (3d8+13) bludgeoning"
+    desc: "⬻ rock +24 ([[brutal]], [[range-increment|range increment 120 feet]]); __Damage__ 3d8+13 (3d8+13) bludgeoning"
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 32; __5th__ [[bind undead]] (3), [[harm]] (3);"
+    desc: "DC 32; __5th__ [[bind-undead|bind undead]] (3), [[harm]] (3);"
 sourcebook: "_Bestiary 3_, page 110."
 ```
 

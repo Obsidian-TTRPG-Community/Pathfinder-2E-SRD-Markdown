@@ -33,7 +33,7 @@ abilityMods: [2, 2, 1, 4, 4, 0]
 
 abilities_mid:
   - name: "Live to Tell the Tale"
-    desc: "⬲ __Frequency__ once per day __Trigger__ The chronicler is [[dying|dying]] __Effect__  The chronicler reduces their [[dying|dying]] condition by 1. If the chronicler is no longer [[dying|dying]], they remain [[unconscious|unconscious]] for at least 1 hour or until they regain 1 Hit Point."
+    desc: "⬲ __Frequency__ once per day __Trigger__ The chronicler is [[rules/conditions.md#Dying|dying]] __Effect__  The chronicler reduces their [[rules/conditions.md#Dying|dying]] condition by 1. If the chronicler is no longer [[rules/conditions.md#Dying|dying]], they remain [[rules/conditions.md#Unconscious|unconscious]] for at least 1 hour or until they regain 1 Hit Point."
 abilities_bot:
   - name: "Scroll Mastery"
     desc: "  The chronicler can activate any scroll of a 2nd-level spell or lower as if they had the spell on their spell list, regardless of its magical tradition."
@@ -56,11 +56,11 @@ attacks:
   - name: Melee
     desc: "⬻ staff +7 ([[two-hand|two-hand d8]]); __Damage__ 1d4+2 (1d4+2) bludgeoning"
   - name: Ranged
-    desc: "⬻ crossbow +7 ([[range increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1d8 (1d8) piercing"
+    desc: "⬻ crossbow +7 ([[range-increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1d8 (1d8) piercing"
 
 spellcasting:
   - name: "Primal Prepared Spells"
-    desc: "DC 20, attack +12; __Cantrips (2nd)__ [[know direction]], [[light]], [[ray of frost]], [[sigil]], [[tanglefoot]]; __1st__ [[fleet step]], [[longstrider]], [[pass without trace]]; __2nd__ [[entangle]], [[flaming sphere]];"
+    desc: "DC 20, attack +12; __Cantrips (2nd)__ [[know-direction|know direction]], [[light]], [[ray-of-frost|ray of frost]], [[sigil]], [[tanglefoot]]; __1st__ [[fleet-step|fleet step]], [[longstrider]], [[pass-without-trace|pass without trace]]; __2nd__ [[entangle]], [[flaming-sphere|flaming sphere]];"
 sourcebook: "_Gamemastery Guide_, page 216."
 ```
 

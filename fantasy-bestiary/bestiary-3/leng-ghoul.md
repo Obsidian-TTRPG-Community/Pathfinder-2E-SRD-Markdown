@@ -41,13 +41,13 @@ abilities_top:
     desc: "scroll of confusion, scroll of fly;"
 abilities_bot:
   - name: "Absorb Memories"
-    desc: "⬻ ([[manipulate]]); __Requirements__ The Leng ghoul is adjacent to the corpse of a creature that retains flesh on its bones  __Effect__  The Leng ghoul devours a chunk of the corpse and regains 6d6 (6d6) Hit Points. At the same time, they also absorb some of the memories stored in the flesh from when the corpse was alive, gaining a +1 status bonus to all skill checks for 10 minutes. The Leng ghoul can immediately attempt an [[Occultism]] check to learn one non-secret memory the corpse had when it was alive (use the standard DC for the creature's level). The exact memory learned is determined by the GM but is typically something of use to the Leng ghoul. The memory can't be one the creature was trying to keep secret unless the check was a critical success. A Leng ghoul can Absorb Memories from any given corpse only once."
+    desc: "⬻ ([[manipulate]]); __Requirements__ The Leng ghoul is adjacent to the corpse of a creature that retains flesh on its bones  __Effect__  The Leng ghoul devours a chunk of the corpse and regains 6d6 (6d6) Hit Points. At the same time, they also absorb some of the memories stored in the flesh from when the corpse was alive, gaining a +1 status bonus to all skill checks for 10 minutes. The Leng ghoul can immediately attempt an [[compendium/skills.md#Occultism|Occultism]] check to learn one non-secret memory the corpse had when it was alive (use the standard DC for the creature's level). The exact memory learned is determined by the GM but is typically something of use to the Leng ghoul. The memory can't be one the creature was trying to keep secret unless the check was a critical success. A Leng ghoul can Absorb Memories from any given corpse only once."
   - name: "Leng Ghoul Fever"
     desc: " ([[disease]]);  __Saving Throw__ DC 28 Fortitude. __Stage 1__ carrier with no ill effect (1 day) __Stage 2__ 4d8 (4d8) negative damage and regains half as many Hit Points from all healing (1 day) __Stage 3__ as stage 2 (1 day) __Stage 4__ 4d8 (4d8) negative damage and gains no benefit from healing (1 day) __Stage 5__ as stage 4  (1 day)"
   - name: "Paralysis"
-    desc: " ([[incapacitation]], [[occult]], [[necromancy]]);  Any living creature hit by a Leng ghoul's attack must succeed at a DC 28 Fortitude save or become [[paralyzed|paralyzed]]. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save."
+    desc: " ([[incapacitation]], [[occult]], [[necromancy]]);  Any living creature hit by a Leng ghoul's attack must succeed at a DC 28 Fortitude save or become [[rules/conditions.md#Paralyzed|paralyzed]]. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save."
   - name: "Sneak Attack"
-    desc: "  A Leng ghoul deals an extra 2d6 (2d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  A Leng ghoul deals an extra 2d6 (2d6) precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
 
 speed: 25 feet, burrow 25 feet, climb 25 feet
 
@@ -58,7 +58,7 @@ armorclass:
 hp: 180
 health:
   - name: HP
-    desc: "180; [[negative healing]]; __Immunities__ cold, death;"
+    desc: "180; [[negative-healing-b2|negative healing]]; __Immunities__ cold, death;"
 
 
 attacks:

@@ -45,7 +45,7 @@ abilities_bot:
   - name: "Reap"
     desc: "⬺  The dullahan removes the head of a dead creature within reach. Each creature within the area of the dullahan's frightful presence must attempt a new save, even if they are temporarily immune."
   - name: "Summon Steed"
-    desc: "⬺ ([[conjuration]], [[occult]]);  The dullahan summons a [[war horse]] with elite adjustments (page 6) and the [[fiend]] trait. This steed remains until it is slain, the dullahan Dismisses it, or the dullahan summons another steed."
+    desc: "⬺ ([[conjuration]], [[occult]]);  The dullahan summons a [[war-horse|war horse]] with elite adjustments (page 6) and the [[fiend]] trait. This steed remains until it is slain, the dullahan Dismisses it, or the dullahan summons another steed."
 
 speed: 20 feet
 

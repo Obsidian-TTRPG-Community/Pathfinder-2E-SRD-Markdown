@@ -38,7 +38,7 @@ abilities_top:
     desc: " ([[divination]], [[mental]], [[occult]]);  The caulborn senses all non-mindless creatures at the listed range."
 abilities_bot:
   - name: "Consume Thoughts"
-    desc: "⬻ ([[mental]]); __Requirements__ The caulborn's last action was a successful hand [[Strike]]  __Effect__  The caulborn steals some of the psychic energy from the creature it hit. The target must attempt a DC 25 Will save; regardless of the outcome, the creature is temporarily immune to Consume Thoughts for 1 minute.\n__Success__ The target is unaffected.\n__Failure__ The target becomes [[stupefied|stupefied 2]] for 1 minute, and the caulborn regains 1d12 (1d12) Hit Points.\n__Critical Failure__ As failure, but the target is [[stupefied|stupefied 3]] for 1 minute and the caulborn regains 2d12 (2d12) Hit Points. If the target was already [[stupefied|stupefied]] when the caulborn used this ability, the target is also [[confused|confused]] for 1 round."
+    desc: "⬻ ([[mental]]); __Requirements__ The caulborn's last action was a successful hand [[Strike]]  __Effect__  The caulborn steals some of the psychic energy from the creature it hit. The target must attempt a DC 25 Will save; regardless of the outcome, the creature is temporarily immune to Consume Thoughts for 1 minute.\n__Success__ The target is unaffected.\n__Failure__ The target becomes [[rules/conditions.md#Stupefied|stupefied 2]] for 1 minute, and the caulborn regains 1d12 (1d12) Hit Points.\n__Critical Failure__ As failure, but the target is [[rules/conditions.md#Stupefied|stupefied 3]] for 1 minute and the caulborn regains 2d12 (2d12) Hit Points. If the target was already [[rules/conditions.md#Stupefied|stupefied]] when the caulborn used this ability, the target is also [[rules/conditions.md#Confused|confused]] for 1 round."
   - name: "Cooperative Scrying"
     desc: " ([[divination]], [[occult]], [[scrying]]);  Three or more caulborn adjacent to each other can collectively cast [[scrying]] once per day (DC 25), with no limit to the duration so long as at least three caulborn remain adjacent and use no actions other than to [[Sustain a Spell|Sustain the Spell]]. The daily limit applies to all caulborn who participated, meaning none of them can participate in another scrying that day."
 
@@ -62,7 +62,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 25, attack +17; __Cantrips (4th)__ [[daze]], [[detect magic]], [[read aura]], [[shield]]; __3rd__ [[hypnotic pattern]], [[mind reading]] (3), [[paralyze]]; __4th__ [[charm]], [[vampiric touch]] (2); __7th__ [[plane shift]] self only;"
+    desc: "DC 25, attack +17; __Cantrips (4th)__ [[daze]], [[detect-magic|detect magic]], [[read-aura|read aura]], [[shield]]; __3rd__ [[hypnotic-pattern|hypnotic pattern]], [[mind-reading|mind reading]] (3), [[paralyze]]; __4th__ [[charm]], [[vampiric-touch|vampiric touch]] (2); __7th__ [[plane-shift|plane shift]] self only;"
 sourcebook: "_Bestiary 3_, page 94."
 ```
 

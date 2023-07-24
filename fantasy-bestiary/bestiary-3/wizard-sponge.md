@@ -36,7 +36,7 @@ abilities_mid:
     desc: "  Anytime a wizard sponge would take fire damage, it instead regains 1d8 (1d8) Hit Points (regardless of the amount of damage the [[fire]] effect would have caused)."
 abilities_bot:
   - name: "Swarming Slither"
-    desc: "⬻  The wizard sponge slithers over each creature in its space, dealing 2d10 (2d10) acid damage (DC 20 basic Reflex save). A creature that critically fails is [[sickened|sickened 1]]."
+    desc: "⬻  The wizard sponge slithers over each creature in its space, dealing 2d10 (2d10) acid damage (DC 20 basic Reflex save). A creature that critically fails is [[rules/conditions.md#Sickened|sickened 1]]."
   - name: "Suction"
     desc: "  Wizard sponges can climb on ceilings and other inverted surfaces."
   - name: "Weak Acid"

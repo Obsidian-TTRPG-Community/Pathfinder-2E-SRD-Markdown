@@ -33,12 +33,12 @@ abilityMods: [-5, 2, 3, 0, -1, -3]
 
 abilities_top:
   - name: "Absorbed Language"
-    desc: "  While a creature is taking [[persistent damage|persistent damage]] from the ioton, the ioton gains the ability to speak and understand one of that creature's languages, selected at random."
+    desc: "  While a creature is taking [[rules/conditions.md#Persistent%20Damage|persistent damage]] from the ioton, the ioton gains the ability to speak and understand one of that creature's languages, selected at random."
   - name: "Thoughtsense"
     desc: " ([[divination]], [[mental]], [[occult]]);  The ioton senses all non-mindless creatures at the listed range."
 abilities_bot:
   - name: "Leech Thought"
-    desc: " ([[healing]], [[occult]], [[polymorph]], [[transmutation]]);  While a creature is taking [[persistent damage|persistent mental damage]] from the ioton, the ioton takes the shape of a creature familiar to the target, such as an acquaintance, pet, or common animal, though the appearance is imperfect and grants no benefit to [[Impersonate]] an individual. While transformed, the ioton loses its [[incorporeal]] trait, immunities, and resistances, but it gains an unarmed melee [[Strike]] with a +6 attack modifier that deals 1d8+2 (1d8+2) bludgeoning damage. The ioton immediately returns to its original form once no creature is taking [[persistent damage|persistent mental damage]] from it."
+    desc: " ([[healing]], [[occult]], [[polymorph]], [[transmutation]]);  While a creature is taking [[rules/conditions.md#Persistent%20Damage|persistent mental damage]] from the ioton, the ioton takes the shape of a creature familiar to the target, such as an acquaintance, pet, or common animal, though the appearance is imperfect and grants no benefit to [[Impersonate]] an individual. While transformed, the ioton loses its [[incorporeal]] trait, immunities, and resistances, but it gains an unarmed melee [[Strike]] with a +6 attack modifier that deals 1d8+2 (1d8+2) bludgeoning damage. The ioton immediately returns to its original form once no creature is taking [[rules/conditions.md#Persistent%20Damage|persistent mental damage]] from it."
 
 speed: fly 30 feet
 
@@ -49,16 +49,16 @@ armorclass:
 hp: 14
 health:
   - name: HP
-    desc: "14;  __Immunities__ poison, precision, disease; __Resistances__ all damage 2 except force, [[ghost touch]], or mental; double resistance vs. non-magical"
+    desc: "14;  __Immunities__ poison, precision, disease; __Resistances__ all damage 2 except force, [[ghost-touch|ghost touch]], or mental; double resistance vs. non-magical"
 
 
 attacks:
   - name: Melee
-    desc: "⬻ touch +6 ([[agile]], [[magical]], [[mental]]); __Damage__ 1d4 (1d4) [[persistent damage|persistent mental damage]] and leech thought"
+    desc: "⬻ touch +6 ([[agile]], [[magical]], [[mental]]); __Damage__ 1d4 (1d4) [[rules/conditions.md#Persistent%20Damage|persistent mental damage]] and leech thought"
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 14; __Cantrips (1st)__ [[daze]], [[detect magic]];"
+    desc: "DC 14; __Cantrips (1st)__ [[daze]], [[detect-magic|detect magic]];"
 sourcebook: "_Bestiary 3_, page 92."
 ```
 

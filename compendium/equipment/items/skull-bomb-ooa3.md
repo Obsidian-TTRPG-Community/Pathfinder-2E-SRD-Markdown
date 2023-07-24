@@ -13,7 +13,7 @@ tags:
 aliases: ["Skull Bomb"]
 ---
 # Skull Bomb *Item 8*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  clockwork  
+[clockwork](rules/traits/clockwork-g-g.md "Clockwork  Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 80 gp
 - **Usage** held in 1 hand (see text); **Bulk** L

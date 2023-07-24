@@ -38,7 +38,7 @@ abilities_bot:
   - name: "Champion Focus Spell"
     desc: "  DC 16, 1 Focus Point; 1st lay on hands (Core Rulebook 387)"
   - name: "Cat's Grace"
-    desc: "  When a silvanshee uses their [[gaseous form]] spell, the mist form remains roughly the size and shape of a cat, and the silvanshee retains their fly speed in this form."
+    desc: "  When a silvanshee uses their [[gaseous-form|gaseous form]] spell, the mist form remains roughly the size and shape of a cat, and the silvanshee retains their fly speed in this form."
 
 speed: 25 feet, fly 40 feet
 
@@ -60,7 +60,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 16; __Cantrips (1st)__ [[dancing lights]], [[know direction]], [[prestidigitation]], [[stabilize]]; __4th__ [[gaseous form]] (3), [[read omens]]; __Constant__ __(2nd)__ [[speak with animals]];"
+    desc: "DC 16; __Cantrips (1st)__ [[dancing-lights|dancing lights]], [[know-direction|know direction]], [[prestidigitation]], [[stabilize]]; __4th__ [[gaseous-form|gaseous form]] (3), [[read-omens|read omens]]; __Constant__ __(2nd)__ [[speak-with-animals|speak with animals]];"
 sourcebook: "_Bestiary 3_, page 10."
 ```
 

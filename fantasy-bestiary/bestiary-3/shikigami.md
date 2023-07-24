@@ -57,7 +57,7 @@ attacks:
 
 spellcasting:
   - name: "Innate Divine Spells"
-    desc: "DC 17; __Cantrips (1st)__ [[forbidding ward]]; __1st__ [[purify food and drink]]; __2nd__ [[animal messenger]], [[invisibility]] self only;"
+    desc: "DC 17; __Cantrips (1st)__ [[forbidding-ward|forbidding ward]]; __1st__ [[purify-food-and-drink|purify food and drink]]; __2nd__ [[animal-messenger|animal messenger]], [[invisibility]] self only;"
 sourcebook: "_Bestiary 3_, page 142."
 ```
 

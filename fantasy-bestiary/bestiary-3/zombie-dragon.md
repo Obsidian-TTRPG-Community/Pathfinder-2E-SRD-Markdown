@@ -35,10 +35,10 @@ abilityMods: [6, 3, 4, -5, 3, -2]
 
 abilities_top:
   - name: "Slow"
-    desc: "  A zombie dragon is permanently [[slowed|slowed 1]] and can't use reactions."
+    desc: "  A zombie dragon is permanently [[rules/conditions.md#Slowed|slowed 1]] and can't use reactions."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺  The zombie dragon breathes a wave of fetid viscera that deals 5d6 (5d6) bludgeoning and 5d6 (5d6) poison damage (DC 28 basic Reflex save). A creature that critically fails is also [[sickened|sickened 2]]. The zombie dragon can't use Breath Weapon again for 1d4 (1d4) rounds."
+    desc: "⬺  The zombie dragon breathes a wave of fetid viscera that deals 5d6 (5d6) bludgeoning and 5d6 (5d6) poison damage (DC 28 basic Reflex save). A creature that critically fails is also [[rules/conditions.md#Sickened|sickened 2]]. The zombie dragon can't use Breath Weapon again for 1d4 (1d4) rounds."
 
 speed: 30 feet, fly 50 feet
 
@@ -49,7 +49,7 @@ armorclass:
 hp: 210
 health:
   - name: HP
-    desc: "210; [[negative healing]]; __Immunities__ mental, poison, death effects, disease, paralyzed, unconscious;"
+    desc: "210; [[negative-healing-b2|negative healing]]; __Immunities__ mental, poison, death effects, disease, paralyzed, unconscious;"
 
 
 attacks:

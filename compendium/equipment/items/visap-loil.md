@@ -13,7 +13,7 @@ tags:
 aliases: ["Visap"]
 ---
 # Visap *Item 0*  
-[agile](rules/traits/agile.md "Agile Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [versatile <P>](rules/traits/versatile-p.md "Versatile Weapon Trait")  [vishkanya](rules/traits/vishkanya-loil.md "Vishkanya Ancestry & Heritage Trait")  injection  
+[agile](rules/traits/agile.md "Agile Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [injection](rules/traits/injection-g-g.md "Injection Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [versatile <P>](rules/traits/versatile-p.md "Versatile Weapon Trait")  [vishkanya](rules/traits/vishkanya-loil.md "Vishkanya Ancestry & Heritage Trait")  
 
 - **Price** 2 gp
 - **Bulk** L

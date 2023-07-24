@@ -31,9 +31,9 @@ abilityMods: [4, 1, 4, -5, 1, -4]
 
 abilities_bot:
   - name: "Giant Ant Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 18 Fortitude. __Maximum Duration__ 4 rounds __Stage 1__ 1d8 (1d8) poison and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 1d10 (1d10) poison and [[enfeebled|enfeebled 2]] (1 round) __Stage 3__ 1d12 (1d12) poison and [[enfeebled|enfeebled 3]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 18 Fortitude. __Maximum Duration__ 4 rounds __Stage 1__ 1d8 (1d8) poison and [[rules/conditions.md#Enfeebled|enfeebled 1]] (1 round) __Stage 2__ 1d10 (1d10) poison and [[rules/conditions.md#Enfeebled|enfeebled 2]] (1 round) __Stage 3__ 1d12 (1d12) poison and [[rules/conditions.md#Enfeebled|enfeebled 3]] (1 round)"
   - name: "Haul Away"
-    desc: "⬻ __Requirements__ The giant ant has a Large or smaller creature [[grabbed|grabbed]]  __Effect__  The giant ant [[Stride|Strides]] up to its full Speed, carrying the [[grabbed|grabbed]] creature with it. It is [[encumbered|encumbered]] if the [[grabbed|grabbed]] creature is Medium or larger."
+    desc: "⬻ __Requirements__ The giant ant has a Large or smaller creature [[rules/conditions.md#Grabbed|grabbed]]  __Effect__  The giant ant [[Stride|Strides]] up to its full Speed, carrying the [[rules/conditions.md#Grabbed|grabbed]] creature with it. It is [[rules/conditions.md#Encumbered|encumbered]] if the [[rules/conditions.md#Grabbed|grabbed]] creature is Medium or larger."
 
 speed: 40 feet, climb 20 feet
 

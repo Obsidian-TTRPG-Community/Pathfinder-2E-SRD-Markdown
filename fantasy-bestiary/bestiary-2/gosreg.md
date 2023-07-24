@@ -41,7 +41,7 @@ abilities_bot:
   - name: "Change Shape"
     desc: "⬻ ([[concentrate]], [[occult]], [[polymorph]], [[transmutation]]);  The gosreg takes on the appearance of any Small or Medium humanoid. This doesn't change its Speed or its attack and damage modifiers with its [[Strike|Strikes]], but it might change the damage type its [[Strike|Strikes]] deal (typically to bludgeoning)."
   - name: "Mind Bolt"
-    desc: "⬺ ([[illusion]], [[mental]], [[occult]]);  A gosreg concentrates its field of discordant mental energy and projects it into the mind of an enemy within 60 feet. The target takes 6d6 (6d6) mental damage (DC 30 basic Will save). On a critical failure, the creature is also [[confused|confused]] for 1d4 (1d4) rounds."
+    desc: "⬺ ([[illusion]], [[mental]], [[occult]]);  A gosreg concentrates its field of discordant mental energy and projects it into the mind of an enemy within 60 feet. The target takes 6d6 (6d6) mental damage (DC 30 basic Will save). On a critical failure, the creature is also [[rules/conditions.md#Confused|confused]] for 1d4 (1d4) rounds."
 
 speed: 25 feet
 
@@ -63,7 +63,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 30, attack +22; __Cantrips (6th)__ [[mage hand]], [[telekinetic projectile]]; __2nd__ [[undetectable alignment]]; __4th__ [[nightmare]], [[suggestion]] (3); __5th__ [[mind probe]], [[sending]], [[subconscious suggestion]], [[synaptic pulse]]; __6th__ [[phantasmal calamity]], [[phantom pain]];"
+    desc: "DC 30, attack +22; __Cantrips (6th)__ [[mage-hand|mage hand]], [[telekinetic-projectile|telekinetic projectile]]; __2nd__ [[undetectable-alignment|undetectable alignment]]; __4th__ [[nightmare]], [[suggestion]] (3); __5th__ [[mind-probe|mind probe]], [[sending]], [[subconscious-suggestion|subconscious suggestion]], [[synaptic-pulse|synaptic pulse]]; __6th__ [[phantasmal-calamity|phantasmal calamity]], [[phantom-pain|phantom pain]];"
 sourcebook: "_Bestiary 2_, page 133."
 ```
 

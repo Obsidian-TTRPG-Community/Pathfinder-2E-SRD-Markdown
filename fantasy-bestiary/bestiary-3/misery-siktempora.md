@@ -34,17 +34,17 @@ abilityMods: [7, 5, 4, 4, 7, 5]
 
 abilities_top:
   - name: "Temporal Sense"
-    desc: "  A siktempora can always roll [[Lore|Dimension of Time Lore]] for initiative. When it does, it gains a +2 circumstance bonus to the roll."
+    desc: "  A siktempora can always roll [[compendium/skills.md#Lore|Dimension of Time Lore]] for initiative. When it does, it gains a +2 circumstance bonus to the roll."
 abilities_mid:
   - name: "Slash the Suffering"
-    desc: "  Creatures with the [[confused|confused]] or [[stupefied|stupefied]] condition are [[flat-footed|flat-footed]] to the misery siktempora."
+    desc: "  Creatures with the [[rules/conditions.md#Confused|confused]] or [[rules/conditions.md#Stupefied|stupefied]] condition are [[rules/conditions.md#Flat-Footed|flat-footed]] to the misery siktempora."
   - name: "Uncanny Pounce"
-    desc: "⭓ __Trigger__ The misery siktempora rolls Dimension of [[Lore|Time Lore]] for initiative __Effect__  The misery siktempora [[Stride|Strides]] once and makes a claw [[Strike]], in either order."
+    desc: "⭓ __Trigger__ The misery siktempora rolls Dimension of [[compendium/skills.md#Lore|Time Lore]] for initiative __Effect__  The misery siktempora [[Stride|Strides]] once and makes a claw [[Strike]], in either order."
 abilities_bot:
   - name: "Inflict Misery"
-    desc: "⬻ ([[emotion]], [[enchantment]], [[mental]], [[occult]]); __Requirements__ The misery siktempora's last action was a claw [[Strike]] that damaged the target  __Effect__  The misery siktempora fills the target's thoughts with abject despair. The target must attempt a DC 32 Will save. Regardless of outcome, the target is then immune to Inflict Misery for 1 minute.\n__Success__ The target is unaffected.\n__Failure__ The target is [[clumsy|clumsy 2]], [[enfeebled|enfeebled 2]], and [[stupefied|stupefied 2]] for 1 round.\n__Critical Failure__ As failure, but for 1 minute."
+    desc: "⬻ ([[emotion]], [[enchantment]], [[mental]], [[occult]]); __Requirements__ The misery siktempora's last action was a claw [[Strike]] that damaged the target  __Effect__  The misery siktempora fills the target's thoughts with abject despair. The target must attempt a DC 32 Will save. Regardless of outcome, the target is then immune to Inflict Misery for 1 minute.\n__Success__ The target is unaffected.\n__Failure__ The target is [[rules/conditions.md#Clumsy|clumsy 2]], [[rules/conditions.md#Enfeebled|enfeebled 2]], and [[rules/conditions.md#Stupefied|stupefied 2]] for 1 round.\n__Critical Failure__ As failure, but for 1 minute."
   - name: "Telepathic Wail"
-    desc: "⬺ ([[emotion]], [[enchantment]], [[mental]], [[occult]]);  The misery siktempora assails the mind of one creature within 100 feet with a wail of anguish and torment that deals 8d6 (8d6) mental damage (DC 32 basic Will save). On a failed save, the target is also [[confused|confused]] for the first action of its next turn (or for 1 round on a critical failure)."
+    desc: "⬺ ([[emotion]], [[enchantment]], [[mental]], [[occult]]);  The misery siktempora assails the mind of one creature within 100 feet with a wail of anguish and torment that deals 8d6 (8d6) mental damage (DC 32 basic Will save). On a failed save, the target is also [[rules/conditions.md#Confused|confused]] for the first action of its next turn (or for 1 round on a critical failure)."
 
 speed: 35 feet; air walk;
 
@@ -64,7 +64,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 29; __2nd__ [[invisibility]] (3); __4th__ [[dimension door]] (at will); __6th__ [[blink]]; __Constant__ __(6th)__ [[air walk]];"
+    desc: "DC 29; __2nd__ [[invisibility]] (3); __4th__ [[dimension-door|dimension door]] (at will); __6th__ [[blink]]; __Constant__ __(6th)__ [[air-walk|air walk]];"
 sourcebook: "_Bestiary 3_, page 232."
 ```
 

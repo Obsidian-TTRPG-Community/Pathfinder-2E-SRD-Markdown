@@ -34,7 +34,7 @@ abilityMods: [2, 4, 2, 1, 0, 2]
 
 abilities_mid:
   - name: "Crystalline Dust"
-    desc: "⬺ __Frequency__ once per day  __Effect__  The sharpshooter becomes [[concealed|concealed]] for 4 rounds, though they can't use the concealment to [[Hide]] or [[Sneak]], as normal for concealment where their position is obvious."
+    desc: "⬺ __Frequency__ once per day  __Effect__  The sharpshooter becomes [[rules/conditions.md#Concealed|concealed]] for 4 rounds, though they can't use the concealment to [[Hide]] or [[Sneak]], as normal for concealment where their position is obvious."
 abilities_top:
   - name: Items
     desc: "breastplate, crossbow (50 bolts), outrageous hat, shortsword;"
@@ -60,11 +60,11 @@ attacks:
   - name: Melee
     desc: "⬻ shortsword +14 ([[agile]], [[finesse]], [[versatile|versatile s]]); __Damage__ 1d6+8 (1d6+8) piercing"
   - name: Ranged
-    desc: "⬻ crossbow +14 ([[range increment 60]], [[reload|reload 1]]); __Damage__ 1d8+8 (1d8+8) piercing"
+    desc: "⬻ crossbow +14 ([[range-increment|range increment 60]], [[reload|reload 1]]); __Damage__ 1d8+8 (1d8+8) piercing"
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 18; __1st__ [[true strike]];"
+    desc: "DC 18; __1st__ [[true-strike|true strike]];"
 sourcebook: "_Bestiary 3_, page 204."
 ```
 

@@ -39,7 +39,7 @@ abilities_mid:
   - name: "Frightful Presence"
     desc: " ([[aura]], [[emotion]], [[fear]], [[mental]]);  90 feet, DC 37."
   - name: "Miasma"
-    desc: " ([[aura]], [[poison]]);  20 feet. After the dragon uses its Breath Weapon, a cloud of poison gas continues to emanate from its body for 1 round. Any creature that ends its turn in the miasma takes 4d6 (4d6) poison damage (DC 37 basic Fortitude save). Any creature in the miasma is [[concealed|concealed]] and treats other creatures as [[concealed|concealed]]. The dragon can see through this concealment."
+    desc: " ([[aura]], [[poison]]);  20 feet. After the dragon uses its Breath Weapon, a cloud of poison gas continues to emanate from its body for 1 round. Any creature that ends its turn in the miasma takes 4d6 (4d6) poison damage (DC 37 basic Fortitude save). Any creature in the miasma is [[rules/conditions.md#Concealed|concealed]] and treats other creatures as [[rules/conditions.md#Concealed|concealed]]. The dragon can see through this concealment."
   - name: "Twisting Tail"
     desc: "⬲ __Trigger__ A creature within reach of the dragon's tail uses a move action or leaves a square during a move action it's using. __Effect__  The dragon makes a tail [[Strike]] at the creature with a –2 penalty. If it hits, the dragon disrupts the creature's action."
 abilities_bot:
@@ -50,9 +50,9 @@ abilities_bot:
   - name: "Draconic Momentum"
     desc: "  The dragon recharges its Breath Weapon whenever it scores a critical hit with a [[Strike]]."
   - name: "Trackless Step"
-    desc: "  The green dragon always gains the benefits of [[Cover Tracks]] in natural surroundings, even while moving at full speed."
+    desc: "  The green dragon always gains the benefits of [[Cover-Tracks|Cover Tracks]] in natural surroundings, even while moving at full speed."
   - name: "Woodland Stride"
-    desc: "  The green dragon ignores [[terrain|difficult terrain]] and [[terrain|greater difficult terrain]] from non-magical foliage."
+    desc: "  The green dragon ignores [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] and [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|greater difficult terrain]] from non-magical foliage."
 
 speed: 50 feet, fly 200 feet, swim 50 feet; trackless step, woodland stride;
 

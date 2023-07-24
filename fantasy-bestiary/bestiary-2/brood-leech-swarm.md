@@ -35,7 +35,7 @@ abilities_bot:
   - name: "Blood Draining Bites"
     desc: "⬻  Each enemy in the swarm's space takes 2d6 (2d6) bleed damage and is exposed to brood leech swarm venom."
   - name: "Brood Leech Swarm Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 21 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ [[clumsy|clumsy 1]], [[sickened|sickened 1]], and –5-foot status penalty to Speed (1 round) __Stage 2__ [[clumsy|clumsy 1]], [[sickened|sickened 1]], and –10-foot status penalty to Speed (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 21 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ [[rules/conditions.md#Clumsy|clumsy 1]], [[rules/conditions.md#Sickened|sickened 1]], and –5-foot status penalty to Speed (1 round) __Stage 2__ [[rules/conditions.md#Clumsy|clumsy 1]], [[rules/conditions.md#Sickened|sickened 1]], and –10-foot status penalty to Speed (1 round)"
 
 speed: 5 feet, swim 20 feet
 

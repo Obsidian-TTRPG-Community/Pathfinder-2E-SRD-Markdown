@@ -44,11 +44,11 @@ abilities_mid:
     desc: "  A grioth doesn't breathe except to speak and is immune to effects that require breathing (such as an inhaled poison)."
 abilities_bot:
   - name: "Grioth Venom"
-    desc: " ([[emotion]], [[fear]], [[mental]], [[poison]]);  __Saving Throw__ DC 20 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ [[frightened|frightened 1]] (1 round) __Stage 2__ [[frightened|frightened 2]] (1 round) __Stage 3__ [[frightened|frightened 3]] (1 round)"
+    desc: " ([[emotion]], [[fear]], [[mental]], [[poison]]);  __Saving Throw__ DC 20 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ [[rules/conditions.md#Frightened|frightened 1]] (1 round) __Stage 2__ [[rules/conditions.md#Frightened|frightened 2]] (1 round) __Stage 3__ [[rules/conditions.md#Frightened|frightened 3]] (1 round)"
   - name: "Shock Mind"
-    desc: "⬺ ([[enchantment]], [[mental]], [[occult]]);  The grioth scout makes a [[Strike]] with a voidglass weapon. If the [[Strike]] hits, it deals an additional 2d6 (2d6) mental damage, and the target must succeed at a DC 20 Will save (this has the [[incapacitation]] trait) or become [[confused|confused]] for 1 round."
+    desc: "⬺ ([[enchantment]], [[mental]], [[occult]]);  The grioth scout makes a [[Strike]] with a voidglass weapon. If the [[Strike]] hits, it deals an additional 2d6 (2d6) mental damage, and the target must succeed at a DC 20 Will save (this has the [[incapacitation]] trait) or become [[rules/conditions.md#Confused|confused]] for 1 round."
   - name: "Invoke Haunter of the Dark"
-    desc: "⬺ ([[divine]], [[enchantment]], [[mental]], [[visual]]); __Frequency__ once per day  __Effect__  The grioth cultist waves a hand in a complex pattern to invoke dark powers, dealing 3d8 (3d8) mental damage. Each nongrioth creature within 20 feet must attempt a DC 20 Will save.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature takes half damage.\n__Failure__ The creature takes full damage and becomes [[stupefied|stupefied 1]] for 1 round.\n__Critical Failure__ The creature takes double damage and becomes [[stupefied|stupefied 1]] for 1 minute."
+    desc: "⬺ ([[divine]], [[enchantment]], [[mental]], [[visual]]); __Frequency__ once per day  __Effect__  The grioth cultist waves a hand in a complex pattern to invoke dark powers, dealing 3d8 (3d8) mental damage. Each nongrioth creature within 20 feet must attempt a DC 20 Will save.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature takes half damage.\n__Failure__ The creature takes full damage and becomes [[rules/conditions.md#Stupefied|stupefied 1]] for 1 round.\n__Critical Failure__ The creature takes double damage and becomes [[rules/conditions.md#Stupefied|stupefied 1]] for 1 minute."
 
 speed: 25 feet, fly 30 feet
 
@@ -70,9 +70,9 @@ attacks:
 
 spellcasting:
   - name: "Divine Prepared Spells"
-    desc: "DC 20, attack +12; __Cantrips (3rd)__ [[divine lance]], [[forbidding ward]], [[message]], [[prestidigitation]], [[stabilize.]]; __1st__ [[fear]], [[harm]], [[heal]], [[ventriloquism]]; __2nd__ [[dispel magic]], [[heal]], [[sound burst]];"
+    desc: "DC 20, attack +12; __Cantrips (3rd)__ [[divine-lance|divine lance]], [[forbidding-ward|forbidding ward]], [[message]], [[prestidigitation]], [[stabilize.]]; __1st__ [[fear]], [[harm]], [[heal]], [[ventriloquism]]; __2nd__ [[dispel-magic|dispel magic]], [[heal]], [[sound-burst|sound burst]];"
   - name: "Occult Innate Spells"
-    desc: "DC 19, attack +11; __Cantrips (2nd)__ [[daze]], [[detect magic]], [[mage hand]], [[telekinetic projectile]]; __2nd__ [[phantom pain]];"
+    desc: "DC 19, attack +11; __Cantrips (2nd)__ [[daze]], [[detect-magic|detect magic]], [[mage-hand|mage hand]], [[telekinetic-projectile|telekinetic projectile]]; __2nd__ [[phantom-pain|phantom pain]];"
 sourcebook: "_Bestiary 3_, page 123."
 ```
 

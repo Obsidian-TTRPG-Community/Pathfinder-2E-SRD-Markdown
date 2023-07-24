@@ -33,14 +33,14 @@ abilityMods: [2, 2, 0, 4, 2, 4]
 
 abilities_top:
   - name: "Society"
-    desc: "  +12, [[Lore|Warfare Lore]] +10 Str +2, Dex +2, Con +0, Int +4, Wis +2, Cha +4 Items lesser darkvision elixir, minor healing potion (2), spiked gauntlet."
+    desc: "  +12, [[compendium/skills.md#Lore|Warfare Lore]] +10 Str +2, Dex +2, Con +0, Int +4, Wis +2, Cha +4 Items lesser darkvision elixir, minor healing potion (2), spiked gauntlet."
   - name: "Persistent Lies"
-    desc: "  Any creature deceived by the despot's [[Deception]] skill believes the deception more readily on the next day. Any attempts to later attempt a [[Perception]] check against the despot's [[Deception]] DC take a –2 circumstance penalty, as do other creatures' attempts to convince the creature otherwise, such as through [[Diplomacy]] or further [[Deception]]."
+    desc: "  Any creature deceived by the despot's [[compendium/skills.md#Deception|Deception]] skill believes the deception more readily on the next day. Any attempts to later attempt a [[compendium/skills.md#Perception|Perception]] check against the despot's [[compendium/skills.md#Deception|Deception]] DC take a –2 circumstance penalty, as do other creatures' attempts to convince the creature otherwise, such as through [[compendium/skills.md#Diplomacy|Diplomacy]] or further [[compendium/skills.md#Deception|Deception]]."
   - name: Items
     desc: "lesser darkvision elixir, minor healing potion (2), spiked gauntlet;"
 abilities_bot:
   - name: "Bloodline Magic"
-    desc: "  When the despot casts a bloodline spell, enthrall, flaming sphere, or charm, either a target takes 1 fire damage per spell level, or the despot gains a +1 status bonus to [[Deception]] checks for 1 round."
+    desc: "  When the despot casts a bloodline spell, enthrall, flaming sphere, or charm, either a target takes 1 fire damage per spell level, or the despot gains a +1 status bonus to [[compendium/skills.md#Deception|Deception]] checks for 1 round."
   - name: "Dangerous Sorcery"
     desc: "  When the despot [[Cast a Spell|Casts a Spell]] from a spell slot, if the spell deals damage and doesn't have a duration, the despot gains a status bonus equal to the spell's level to that spell's damage."
 
@@ -62,7 +62,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Spontaneous Spells"
-    desc: "DC 23, attack +13; __Cantrips (3rd)__ [[chill touch]], [[daze]], [[message]], [[produce flame]], [[shield]]; __1st__ (4 slots) [[charm]], [[command]], [[fear]], [[sanctuary]]; __2nd__ [[calm emotions]], [[flaming sphere]], [[see invisibility]], [[undetectable alignment]]; __3rd__ (4 slots) [[chilling darkness]], [[enthrall]], [[harm]];"
+    desc: "DC 23, attack +13; __Cantrips (3rd)__ [[chill-touch|chill touch]], [[daze]], [[message]], [[produce-flame|produce flame]], [[shield]]; __1st__ (4 slots) [[charm]], [[command]], [[fear]], [[sanctuary]]; __2nd__ [[calm-emotions|calm emotions]], [[flaming-sphere|flaming sphere]], [[see-invisibility|see invisibility]], [[undetectable-alignment|undetectable alignment]]; __3rd__ (4 slots) [[chilling-darkness|chilling darkness]], [[enthrall]], [[harm]];"
 sourcebook: "_Gamemastery Guide_, page 249."
 ```
 

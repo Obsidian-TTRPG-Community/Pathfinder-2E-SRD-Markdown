@@ -33,9 +33,9 @@ abilityMods: [1, 4, 2, 0, 3, -1]
 
 abilities_bot:
   - name: "Hurl Net"
-    desc: "⬻ __Requirements__ The grippli is wielding a net in two hands  __Effect__  The grippli makes a ranged [[Strike]] (with a +9 modifier) against a Medium or smaller creature within 20 feet. On a hit, the target is [[flat-footed|flat-footed]] and takes a –10-foot circumstance penalty to its Speeds. On a critical hit, the creature is [[restrained|restrained]] instead. The DC to [[Escape]] the net is 16. A creature adjacent to the target can [[Interact]] with the net to remove it."
+    desc: "⬻ __Requirements__ The grippli is wielding a net in two hands  __Effect__  The grippli makes a ranged [[Strike]] (with a +9 modifier) against a Medium or smaller creature within 20 feet. On a hit, the target is [[rules/conditions.md#Flat-Footed|flat-footed]] and takes a –10-foot circumstance penalty to its Speeds. On a critical hit, the creature is [[rules/conditions.md#Restrained|restrained]] instead. The DC to [[Escape]] the net is 16. A creature adjacent to the target can [[Interact]] with the net to remove it."
   - name: "Jungle Stride"
-    desc: "  Gripplis ignore [[terrain|difficult terrain]] in forests and jungles."
+    desc: "  Gripplis ignore [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] in forests and jungles."
 abilities_top:
   - name: Items
     desc: "dart (5), leather armor, net, sickle;"

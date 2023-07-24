@@ -36,12 +36,12 @@ abilityMods: [9, 5, 7, 5, 7, 7]
 
 abilities_top:
   - name: "Mist Vision"
-    desc: "  Fog and mist don't impair a cloud dragon's vision; they ignore the [[concealed|concealed]] condition from fog and mist."
+    desc: "  Fog and mist don't impair a cloud dragon's vision; they ignore the [[rules/conditions.md#Concealed|concealed]] condition from fog and mist."
 abilities_mid:
   - name: "Frightful Presence"
     desc: " ([[aura]], [[emotion]], [[fear]], [[mental]]);  90 feet, DC 40."
   - name: "Deflecting Cloud"
-    desc: "⬲ __Requirements__ The dragon is aware of the attack and has a free wing __Trigger__ The dragon is the target of a ranged attack __Effect__  The cloud dragon flexes a wing and creates a billowing cloud of mist. The dragon is treated as if they were [[hidden|hidden]] for the purposes of resolving the triggering attack, so normally the attacker must succeed at a DC 11 flat check to target them. The dragon also gains a +4 circumstance bonus to AC against the triggering attack."
+    desc: "⬲ __Requirements__ The dragon is aware of the attack and has a free wing __Trigger__ The dragon is the target of a ranged attack __Effect__  The cloud dragon flexes a wing and creates a billowing cloud of mist. The dragon is treated as if they were [[rules/conditions.md#Hidden|hidden]] for the purposes of resolving the triggering attack, so normally the attacker must succeed at a DC 11 flat check to target them. The dragon also gains a +4 circumstance bonus to AC against the triggering attack."
 abilities_bot:
   - name: "Breath Weapon"
     desc: "⬺ ([[electricity]], [[evocation]], [[primal]]);  The dragon breathes a thundercloud that deals 20d6 (20d6) electricity damage in a 60-foot cone (DC 41 basic Reflex save). This cloud remains in the area for 1d4 (1d4) rounds, with the effects of obscuring mist. A creature that ends its turn inside of the cloud takes 10d6 (10d6) electricity damage (DC 41 basic Reflex save). The cloud dragon can't use Breath Weapon again for 1d4 (1d4) rounds."
@@ -54,7 +54,7 @@ abilities_bot:
   - name: "Draconic Momentum"
     desc: "  The dragon recharges their Breath Weapon whenever they score a critical hit with a [[Strike]]."
   - name: "Thundering Bite"
-    desc: "  An ancient cloud dragon's jaws [[Strike]] creates a deafening clap of thunder when it damages a foe. A creature that takes damage from the dragon's jaws [[Strike]] must succeed at a DC 41 Fortitude save or be [[deafened|deafened]] for 1 minute (or permanently on a critical failure)."
+    desc: "  An ancient cloud dragon's jaws [[Strike]] creates a deafening clap of thunder when it damages a foe. A creature that takes damage from the dragon's jaws [[Strike]] must succeed at a DC 41 Fortitude save or be [[rules/conditions.md#Deafened|deafened]] for 1 minute (or permanently on a critical failure)."
 
 speed: 60 feet, fly 160 feet; cloud walk;
 
@@ -80,7 +80,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 42; __4th__ [[gust of wind]] (at will), [[solid fog]], [[wall of wind]] (at will); __5th__ [[cloudkill]]; __8th__ [[wind walk]];"
+    desc: "DC 42; __4th__ [[gust-of-wind|gust of wind]] (at will), [[solid-fog|solid fog]], [[wall-of-wind|wall of wind]] (at will); __5th__ [[cloudkill]]; __8th__ [[wind-walk|wind walk]];"
 sourcebook: "_Bestiary 2_, page 90."
 ```
 

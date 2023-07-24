@@ -41,7 +41,7 @@ abilities_bot:
   - name: "Holy Armaments"
     desc: " ([[divine]], [[evocation]]);  Any weapon gains the effect of a holy property rune while a monadic deva wields it."
   - name: "Rebuke Soul"
-    desc: "⬻ ([[auditory]], [[divine]], [[enchantment]], [[good]], [[incapacitation]]);  The monadic deva speaks a word to cause a creature's soul to recoil at its sins or an undead creature to recoil at its lack of a soul. One non-good living or undead target within 40 feet takes 5d10 (5d10) good damage and must attempt a DC 32 Fortitude save. Regardless of the outcome, the target is then temporarily immune for 10 minutes.\n__Critical Success__ The target is unaffected.\n__Success__ The target takes half damage and is [[stunned|stunned 1]].\n__Failure__ The target takes full damage and is [[stunned|stunned 2]].\n__Critical Failure__ The target takes double damage and is [[stunned|stunned 4]]."
+    desc: "⬻ ([[auditory]], [[divine]], [[enchantment]], [[good]], [[incapacitation]]);  The monadic deva speaks a word to cause a creature's soul to recoil at its sins or an undead creature to recoil at its lack of a soul. One non-good living or undead target within 40 feet takes 5d10 (5d10) good damage and must attempt a DC 32 Fortitude save. Regardless of the outcome, the target is then temporarily immune for 10 minutes.\n__Critical Success__ The target is unaffected.\n__Success__ The target takes half damage and is [[rules/conditions.md#Stunned|stunned 1]].\n__Failure__ The target takes full damage and is [[rules/conditions.md#Stunned|stunned 2]].\n__Critical Failure__ The target takes double damage and is [[rules/conditions.md#Stunned|stunned 4]]."
   - name: "Solid Blow"
     desc: " ([[divine]], [[evocation]], [[force]]);  When a monadic deva hits a target for the second time during its turn with its mace, it deals an additional 2d12 (2d12) force damage as its weapon shimmers with ripples of power."
 
@@ -63,7 +63,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 31; __1st__ [[detect alignment]] (at will) evil only; __2nd__ [[invisibility]] (at will) self only; __4th__ [[charm]]; __5th__ [[creation]], [[remove fear]]; __6th__ [[divine wrath]], [[heal]], [[paralyze]], [[remove curse]], [[remove disease]]; __Constant__ __(5th)__ [[tongues]];"
+    desc: "DC 31; __1st__ [[detect-alignment|detect alignment]] (at will) evil only; __2nd__ [[invisibility]] (at will) self only; __4th__ [[charm]]; __5th__ [[creation]], [[remove-fear|remove fear]]; __6th__ [[divine-wrath|divine wrath]], [[heal]], [[paralyze]], [[remove-curse|remove curse]], [[remove-disease|remove disease]]; __Constant__ __(5th)__ [[tongues]];"
 sourcebook: "_Bestiary 2_, page 15."
 ```
 

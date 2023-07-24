@@ -34,7 +34,7 @@ abilityMods: [3, 2, 1, 0, 4, 2]
 
 abilities_bot:
   - name: "Hydraulic Asphyxiation"
-    desc: "⬻ ([[divine]], [[evocation]], [[water]]); __Requirements__ The target is fully submerged in water, within 30 feet of the merfolk wavecaller, and holding its breath.  __Effect__  The merfolk wavecaller commands the tides to crush their foe's throat, rooting the target in place and forcing it to choke up precious air. The target must succeed at a DC 18 Fortitude save or become [[immobilized|immobilized]] for 1 round and immediately lose 1d4 (1d4) actions' worth of air (or twice that on a critical failure)."
+    desc: "⬻ ([[divine]], [[evocation]], [[water]]); __Requirements__ The target is fully submerged in water, within 30 feet of the merfolk wavecaller, and holding its breath.  __Effect__  The merfolk wavecaller commands the tides to crush their foe's throat, rooting the target in place and forcing it to choke up precious air. The target must succeed at a DC 18 Fortitude save or become [[rules/conditions.md#Immobilized|immobilized]] for 1 round and immediately lose 1d4 (1d4) actions' worth of air (or twice that on a critical failure)."
 abilities_top:
   - name: Items
     desc: "dagger;"
@@ -59,7 +59,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Prepared Spells"
-    desc: "DC 18, attack +10; __Cantrips (1st)__ [[dancing lights]], [[detect magic]], [[electric arc]], [[ray of frost]], [[stabilize]]; __1st__ [[charm]], [[heal]], [[hydraulic push]];"
+    desc: "DC 18, attack +10; __Cantrips (1st)__ [[dancing-lights|dancing lights]], [[detect-magic|detect magic]], [[electric-arc|electric arc]], [[ray-of-frost|ray of frost]], [[stabilize]]; __1st__ [[charm]], [[heal]], [[hydraulic-push|hydraulic push]];"
 sourcebook: "_Bestiary_, page 235."
 ```
 

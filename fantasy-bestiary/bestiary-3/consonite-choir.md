@@ -41,7 +41,7 @@ abilities_mid:
     desc: " ([[aura]], [[evocation]], [[sonic]]);  30 feet. The consonite choir's tones resonate within physical objects. A creature that begins its turn in the aura deals an additional 2d6 (2d6) sonic damage on any [[Strike]] using a weapon."
 abilities_bot:
   - name: "Swarming Chimes"
-    desc: "⬻  The swarm deals 4d6 (4d6) slashing damage plus 2d6 (2d6) sonic damage to each enemy in the swarm's space (DC 33 basic Reflex save). On a critical failure, the enemy is also [[deafened|deafened]] for 1 minute."
+    desc: "⬻  The swarm deals 4d6 (4d6) slashing damage plus 2d6 (2d6) sonic damage to each enemy in the swarm's space (DC 33 basic Reflex save). On a critical failure, the enemy is also [[rules/conditions.md#Deafened|deafened]] for 1 minute."
 
 speed: 10 feet, fly 40 feet
 

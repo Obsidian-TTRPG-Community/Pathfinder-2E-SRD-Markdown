@@ -33,7 +33,7 @@ abilityMods: [3, 4, 2, -1, 1, 0]
 
 abilities_mid:
   - name: "Stench"
-    desc: " ([[aura]], [[olfactory]]);  30 feet. A creature that enters the area must attempt a DC 16 Fortitude save. On a failure, the creature is [[sickened|sickened 1]], and on a critical failure, the creature also takes a –5-foot status penalty to its Speeds for 1 round. While within the aura, the creature takes a –2 circumstance penalty to saves to recover from the [[sickened|sickened]] condition. A creature that succeeds at its save is temporarily immune to all xulgaths' stenches for 1 minute."
+    desc: " ([[aura]], [[olfactory]]);  30 feet. A creature that enters the area must attempt a DC 16 Fortitude save. On a failure, the creature is [[rules/conditions.md#Sickened|sickened 1]], and on a critical failure, the creature also takes a –5-foot status penalty to its Speeds for 1 round. While within the aura, the creature takes a –2 circumstance penalty to saves to recover from the [[rules/conditions.md#Sickened|sickened]] condition. A creature that succeeds at its save is temporarily immune to all xulgaths' stenches for 1 minute."
   - name: "Stench Suppression"
     desc: "⭓  A xulgath skulker can suppress its stench aura as a free action to better hide its presence. The skulker can resume its stench aura as a free action."
 abilities_top:
@@ -41,9 +41,9 @@ abilities_top:
     desc: "dagger (4);"
 abilities_bot:
   - name: "Hidden Movement"
-    desc: "  If a xulgath skulker starts its turn [[undetected|undetected]] by a creature or merely [[hidden|hidden]] from it, that creature is [[flat-footed|flat-footed]] against the skulker's attacks until the end of the skulker's turn."
+    desc: "  If a xulgath skulker starts its turn [[rules/conditions.md#Undetected|undetected]] by a creature or merely [[rules/conditions.md#Hidden|hidden]] from it, that creature is [[rules/conditions.md#Flat-Footed|flat-footed]] against the skulker's attacks until the end of the skulker's turn."
   - name: "Sneak Attack"
-    desc: "  A xulgath skulker deals an additional 1d6 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  A xulgath skulker deals an additional 1d6 (1d6) precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
 
 speed: 25 feet
 

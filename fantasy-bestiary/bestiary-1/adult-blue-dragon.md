@@ -33,7 +33,7 @@ abilityMods: [6, 3, 4, 4, 3, 5]
 
 abilities_top:
   - name: "Sound Imitation"
-    desc: "  The dragon can mimic any sound it has heard. It must succeed at a [[Deception]] check with a +4 circumstance bonus to do so."
+    desc: "  The dragon can mimic any sound it has heard. It must succeed at a [[compendium/skills.md#Deception|Deception]] check with a +4 circumstance bonus to do so."
 abilities_mid:
   - name: "Frightful Presence"
     desc: " ([[aura]], [[emotion]], [[fear]], [[mental]]);  90 feet, DC 32."
@@ -73,7 +73,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 33; __Cantrips (6th)__ [[ghost sound]]; __1st__ [[create water]] at will; see desert thirst; __6th__ [[illusory creature]], [[illusory object]], [[ventriloquism]] (at will);"
+    desc: "DC 33; __Cantrips (6th)__ [[ghost-sound|ghost sound]]; __1st__ [[create-water|create water]] at will; see desert thirst; __6th__ [[illusory-creature|illusory creature]], [[illusory-object|illusory object]], [[ventriloquism]] (at will);"
 sourcebook: "_Bestiary_, page 108."
 ```
 

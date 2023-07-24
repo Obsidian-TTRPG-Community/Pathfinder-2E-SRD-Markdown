@@ -37,13 +37,13 @@ abilities_top:
     desc: "  Snow doesn't impair a white dragon's vision; it ignores concealment from snowfall."
 abilities_mid:
   - name: "Blizzard"
-    desc: " ([[arcane]], [[aura]], [[cold]]);  50 feet. After the dragon uses its Breath Weapon, a fierce blizzard of blinding snow surrounds its body for 1 round. Everything in the aura is [[terrain|difficult terrain]] for other creatures that are on the ground, climbing, or flying. The blowing snow also makes all creatures in the area [[concealed|concealed]]. While the blizzard rages, the dragon's dragon chill extends to the full area of the blizzard."
+    desc: " ([[arcane]], [[aura]], [[cold]]);  50 feet. After the dragon uses its Breath Weapon, a fierce blizzard of blinding snow surrounds its body for 1 round. Everything in the aura is [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] for other creatures that are on the ground, climbing, or flying. The blowing snow also makes all creatures in the area [[rules/conditions.md#Concealed|concealed]]. While the blizzard rages, the dragon's dragon chill extends to the full area of the blizzard."
   - name: "Dragon Chill"
     desc: " ([[arcane]], [[aura]], [[cold]], [[evocation]]);  10 feet, 3d6 (3d6) cold damage (DC 34 basic Reflex)"
   - name: "Frightful Presence"
     desc: " ([[aura]], [[emotion]], [[fear]], [[mental]]);  90 feet, DC 34."
   - name: "Freezing Blood"
-    desc: "⬲ ([[arcane]], [[cold]]); __Trigger__ An adjacent creature deals piercing or slashing damage to the dragon. __Effect__  The dragon's blood sprays on the creature, dealing 3d6 (3d6) cold damage. A creature that takes cold damage in this way is [[slowed|slowed 1]] for 1 round."
+    desc: "⬲ ([[arcane]], [[cold]]); __Trigger__ An adjacent creature deals piercing or slashing damage to the dragon. __Effect__  The dragon's blood sprays on the creature, dealing 3d6 (3d6) cold damage. A creature that takes cold damage in this way is [[rules/conditions.md#Slowed|slowed 1]] for 1 round."
 abilities_bot:
   - name: "Breath Weapon"
     desc: "⬺ ([[arcane]], [[cold]], [[evocation]]);  The dragon breathes a cloud of frost that deals 16d6 (16d6) cold damage in a 50-foot cone (DC 36 basic Reflex save). It can't use Breath Weapon again for 1d4 (1d4) rounds."
@@ -52,11 +52,11 @@ abilities_bot:
   - name: "Draconic Momentum"
     desc: "  When the dragon scores a critical hit with a [[Strike]], it recharges its Breath Weapon."
   - name: "Ground Slam"
-    desc: "⬻  The dragon slams into the ground. It can do this if it's on the ground or Flying within 10 feet of the ground. Each creature on the ground within 10 feet must succeed at a DC 37 Reflex save or fall [[prone|prone]] and take 5d6 (5d6) bludgeoning damage. The dragon can then [[Step]]."
+    desc: "⬻  The dragon slams into the ground. It can do this if it's on the ground or Flying within 10 feet of the ground. Each creature on the ground within 10 feet must succeed at a DC 37 Reflex save or fall [[rules/conditions.md#Prone|prone]] and take 5d6 (5d6) bludgeoning damage. The dragon can then [[Step]]."
   - name: "Ice Climb"
-    desc: "  A white dragon can climb on ice as though it had the listed climb Speed. It ignores [[terrain|difficult terrain]] and [[terrain|greater difficult terrain]] from ice and snow and doesn't risk falling when crossing ice."
+    desc: "  A white dragon can climb on ice as though it had the listed climb Speed. It ignores [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] and [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|greater difficult terrain]] from ice and snow and doesn't risk falling when crossing ice."
   - name: "Shape Ice"
-    desc: "⬺ ([[arcane]], [[transmutation]], [[water]]);  The dragon reshapes a cube of ice or snow it touches, up to 10 feet across. Any creature standing atop the ice must succeed at a DC 15 Reflex save or [[Acrobatics]] check. On a failure, the creature falls [[prone|prone]] atop the ice; on a critical failure, it falls off the ice entirely and is also [[prone|prone]]."
+    desc: "⬺ ([[arcane]], [[transmutation]], [[water]]);  The dragon reshapes a cube of ice or snow it touches, up to 10 feet across. Any creature standing atop the ice must succeed at a DC 15 Reflex save or [[compendium/skills.md#Acrobatics|Acrobatics]] check. On a failure, the creature falls [[rules/conditions.md#Prone|prone]] atop the ice; on a critical failure, it falls off the ice entirely and is also [[rules/conditions.md#Prone|prone]]."
 
 speed: 40 feet, fly 160 feet; ice climb 40 feet;
 
@@ -80,7 +80,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 36; __1st__ [[gust of wind]] (at will); __2nd__ [[obscuring mist]] (at will); __6th__ [[wall of ice]] (at will);"
+    desc: "DC 36; __1st__ [[gust-of-wind|gust of wind]] (at will); __2nd__ [[obscuring-mist|obscuring mist]] (at will); __6th__ [[wall-of-ice|wall of ice]] (at will);"
 sourcebook: "_Bestiary_, page 115."
 ```
 

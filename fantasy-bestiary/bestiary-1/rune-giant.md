@@ -36,7 +36,7 @@ abilityMods: [9, 2, 7, 2, 6, 4]
 
 abilities_mid:
   - name: "Attack of Opportunity"
-    desc: "⬲  The rune giant gains an additional reaction at the beginning of each of its turns that it can only use for an [[Attack of Opportunity]]."
+    desc: "⬲  The rune giant gains an additional reaction at the beginning of each of its turns that it can only use for an [[Attack-of-Opportunity|Attack of Opportunity]]."
   - name: "Catch Rock"
     desc: "⬲ "
 abilities_top:
@@ -48,9 +48,9 @@ abilities_bot:
   - name: "Demand"
     desc: "⭓ ([[arcane]], [[enchantment]], [[mental]]);  When a rune giant casts its innate [[sending]] spell, it can also cast [[suggestion]] on the target."
   - name: "Flashing Runes"
-    desc: "⭓ ([[arcane]], [[evocation]], [[light]]); __Trigger__ The rune giant uses an arcane ability or casts an arcane spell. __Effect__  The runes on the giant's body flash as they produce magical energy. Each creature within a 10-foot emanation must attempt a DC 35 Fortitude save.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is [[dazzled|dazzled]] for 1 round.\n__Failure__ The creature is [[blinded|blinded]] for 1 round."
+    desc: "⭓ ([[arcane]], [[evocation]], [[light]]); __Trigger__ The rune giant uses an arcane ability or casts an arcane spell. __Effect__  The runes on the giant's body flash as they produce magical energy. Each creature within a 10-foot emanation must attempt a DC 35 Fortitude save.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is [[rules/conditions.md#Dazzled|dazzled]] for 1 round.\n__Failure__ The creature is [[rules/conditions.md#Blinded|blinded]] for 1 round."
   - name: "Invoke Rune"
-    desc: "⬻ ([[arcane]], [[concentrate]], [[electricity]], [[evocation]]);  The rune giant invokes one of the runes on its body, causing the rune to spray forth a 30-foot cone of sparks that deals 6d12 (6d12) electricity damage to all creatures in the cone (DC 37 basic Reflex save) A glowing copy of the invoked rune appears on a single weapon the giant holds, granting the weapon one effect listed below of the giant's choice. The giant can't use Invoke Rune again for 1d4 (1d4) rounds. The effect on the weapon lasts for 1 minute. If the giant places a new rune on a weapon, any previously placed rune immediately vanishes, ending its effect.<ul class='inner-bullet-list'><li>__Rune of Destruction__ The weapon gains the [[deadly]] trait with three weapon damage dice of the same die size as for the base weapon, and a creature hit with the weapon is [[drained|drained 1]] unless it succeeds at a DC 35 Fortitude save.</li><li>__Rune of Flames__ The weapon deals an additional 3d6 (3d6) fire damage on all attacks.</li><li>__Rune of Smiting__ When the weapon hits, the giant can Push the target back 10 feet, or 20 feet on a critical hit.</li></ul>"
+    desc: "⬻ ([[arcane]], [[concentrate]], [[electricity]], [[evocation]]);  The rune giant invokes one of the runes on its body, causing the rune to spray forth a 30-foot cone of sparks that deals 6d12 (6d12) electricity damage to all creatures in the cone (DC 37 basic Reflex save) A glowing copy of the invoked rune appears on a single weapon the giant holds, granting the weapon one effect listed below of the giant's choice. The giant can't use Invoke Rune again for 1d4 (1d4) rounds. The effect on the weapon lasts for 1 minute. If the giant places a new rune on a weapon, any previously placed rune immediately vanishes, ending its effect.<ul class='inner-bullet-list'><li>__Rune of Destruction__ The weapon gains the [[deadly]] trait with three weapon damage dice of the same die size as for the base weapon, and a creature hit with the weapon is [[rules/conditions.md#Drained|drained 1]] unless it succeeds at a DC 35 Fortitude save.</li><li>__Rune of Flames__ The weapon deals an additional 3d6 (3d6) fire damage on all attacks.</li><li>__Rune of Smiting__ When the weapon hits, the giant can Push the target back 10 feet, or 20 feet on a critical hit.</li></ul>"
   - name: "Throw Rock"
     desc: "⬻ "
   - name: "Wide Swing"
@@ -76,11 +76,11 @@ attacks:
   - name: Melee
     desc: "⬻ fist +31 ([[agile]], [[reach|reach 20 feet]]); __Damage__ 3d8+17 (3d8+17) bludgeoning"
   - name: Ranged
-    desc: "⬻ rock +31 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 2d12+17 (2d12+17) bludgeoning"
+    desc: "⬻ rock +31 ([[brutal]], [[range-increment|range increment 120 feet]]); __Damage__ 2d12+17 (2d12+17) bludgeoning"
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 35; __4th__ [[charm]] (at will), [[suggestion]] (at will); __5th__ [[sending]]; __6th__ [[dominate]] (3), [[true seeing]]; __8th__ [[charm]], [[suggestion]]; __Constant__ __(4th)__ [[air walk]];"
+    desc: "DC 35; __4th__ [[charm]] (at will), [[suggestion]] (at will); __5th__ [[sending]]; __6th__ [[dominate]] (3), [[true-seeing|true seeing]]; __8th__ [[charm]], [[suggestion]]; __Constant__ __(4th)__ [[air-walk|air walk]];"
 sourcebook: "_Bestiary_, page 175."
 ```
 

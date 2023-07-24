@@ -41,11 +41,11 @@ abilities_mid:
     desc: "⬲ ([[page 306]]); "
 abilities_bot:
   - name: "Astral Recoil"
-    desc: "⬻ ([[occult]]); __Frequency__ once per minute __Trigger__ The shulsaga's last action was a successful melee [[Strike]] against an astral form created by the astral projection ritual or a similar effect __Effect__  The shulsaga attempts to counteract the effect projecting the creature onto the Astral Plane, with the effects of a 5th-level [[dispel magic]] spell (counteract modifier +18)."
+    desc: "⬻ ([[occult]]); __Frequency__ once per minute __Trigger__ The shulsaga's last action was a successful melee [[Strike]] against an astral form created by the astral projection ritual or a similar effect __Effect__  The shulsaga attempts to counteract the effect projecting the creature onto the Astral Plane, with the effects of a 5th-level [[dispel-magic|dispel magic]] spell (counteract modifier +18)."
   - name: "Astral Shock"
     desc: "  An astrally projected creature whose astral form is slain by a shulsaga takes a –2 circumstance penalty to the subsequent Fortitude saving throw to resist the strain."
   - name: "Disk Rider"
-    desc: "  A shulsaga can ride atop any floating disk they create. While mounted on a floating disk, a shulsaga gains a +10-foot enhancement bonus to their fly Speed, and the shulsaga can use their feet to wield the disk as a heavy shield (Hardness 5, HP 20, BT 10) A [[broken|broken]] disk grants no bonus to Speed, and the spell ends if the disk is destroyed."
+    desc: "  A shulsaga can ride atop any floating disk they create. While mounted on a floating disk, a shulsaga gains a +10-foot enhancement bonus to their fly Speed, and the shulsaga can use their feet to wield the disk as a heavy shield (Hardness 5, HP 20, BT 10) A [[rules/conditions.md#Broken|broken]] disk grants no bonus to Speed, and the spell ends if the disk is destroyed."
   - name: "Hop On"
     desc: "⭓ __Requirements__ The shulsaga is adjacent to a floating disk they created __Frequency__ once per round  __Effect__  The shulsaga [[Step|Steps]] into the disk's space and rides atop the disk. They can also use this action to dismount from their disk."
 
@@ -65,11 +65,11 @@ attacks:
   - name: Melee
     desc: "⬻ halberd +9 ([[reach|reach 10 feet]], [[versatile|versatile s]]); __Damage__ 1d10+4 (1d10+4) piercing"
   - name: Ranged
-    desc: "⬻ composite longbow +11 ([[deadly|deadly d10]], [[propulsive]], [[range increment|range increment 100 feet]], [[volley|volley 30 feet]]); __Damage__ 1d8+3 (1d8+3) piercing"
+    desc: "⬻ composite longbow +11 ([[deadly|deadly d10]], [[propulsive]], [[range-increment|range increment 100 feet]], [[volley|volley 30 feet]]); __Damage__ 1d8+3 (1d8+3) piercing"
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 18, attack +10; __Cantrips (2nd)__ [[dancing lights]], [[detect magic]], [[telekinetic projectile]]; __1st__ [[floating disk]] (at will);"
+    desc: "DC 18, attack +10; __Cantrips (2nd)__ [[dancing-lights|dancing lights]], [[detect-magic|detect magic]], [[telekinetic-projectile|telekinetic projectile]]; __1st__ [[floating-disk|floating disk]] (at will);"
 sourcebook: "_Bestiary 3_, page 93."
 ```
 

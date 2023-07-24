@@ -30,7 +30,7 @@ armorclass:
 hp: 22
 health:
   - name: HP
-    desc: "22; [[fast healing]] 5;"
+    desc: "22; [[fast-healing|fast healing]] 5;"
 
 
 attacks:

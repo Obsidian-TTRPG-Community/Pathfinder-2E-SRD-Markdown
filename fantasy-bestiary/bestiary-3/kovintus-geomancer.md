@@ -39,7 +39,7 @@ abilities_top:
     desc: "mace, sling (10 bullets);"
 abilities_bot:
   - name: "Nature's Chosen"
-    desc: "  Once per day, the kovintus can cast a 3rd-level primal innate spell. They can do so only if a spell with a corresponding trait was cast within 10 feet of the kovintus since the start of their last turn (including if the kovintus [[Cast a Spell|Cast the Spell]]). The traits and the spells they grant are as follows: [[wall of wind]] for [[air]], [[meld into stone]] for [[earth]], [[wall of thorns]] for [[plant]], and [[crashing wave|apg]] for [[water]]."
+    desc: "  Once per day, the kovintus can cast a 3rd-level primal innate spell. They can do so only if a spell with a corresponding trait was cast within 10 feet of the kovintus since the start of their last turn (including if the kovintus [[Cast a Spell|Cast the Spell]]). The traits and the spells they grant are as follows: [[wall-of-wind|wall of wind]] for [[air]], [[meld-into-stone|meld into stone]] for [[earth]], [[wall-of-thorns|wall of thorns]] for [[plant]], and [[crashing wave|apg]] for [[water]]."
 
 speed: 25 feet
 
@@ -57,11 +57,11 @@ attacks:
   - name: Melee
     desc: "⬻ mace +12 ([[shove]]); __Damage__ 1d6+6 (1d6+6) bludgeoning"
   - name: Ranged
-    desc: "⬻ sling +12 ([[propulsive]], [[range increment|range increment 50 feet]], [[reload|reload 1]]); __Damage__ 1d6+4 (1d6+4) bludgeoning"
+    desc: "⬻ sling +12 ([[propulsive]], [[range-increment|range increment 50 feet]], [[reload|reload 1]]); __Damage__ 1d6+4 (1d6+4) bludgeoning"
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 21; __2nd__ [[entangle]], [[gust of wind]], [[obscuring mist]], [[pummeling rubble]]; __3rd__ [[see nature's chosen]]; __Constant__ __(3rd)__ [[endure elements]], [[pass without trace]], [[water breathing]];"
+    desc: "DC 21; __2nd__ [[entangle]], [[gust-of-wind|gust of wind]], [[obscuring-mist|obscuring mist]], [[pummeling-rubble|pummeling rubble]]; __3rd__ [[see nature's chosen]]; __Constant__ __(3rd)__ [[endure-elements|endure elements]], [[pass-without-trace|pass without trace]], [[water-breathing|water breathing]];"
 sourcebook: "_Bestiary 3_, page 153."
 ```
 

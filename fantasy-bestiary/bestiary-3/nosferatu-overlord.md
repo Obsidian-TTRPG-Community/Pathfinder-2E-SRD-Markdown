@@ -60,7 +60,7 @@ armorclass:
 hp: 216
 health:
   - name: HP
-    desc: "216; fast healing 15 (page 305), [[negative healing]], plagued coffin restoration; __Immunities__ poison, death effects, disease, paralyzed, sleep; __Resistances__ physical 15 (except magical wood)"
+    desc: "216; fast healing 15 (page 305), [[negative-healing-b2|negative healing]], plagued coffin restoration; __Immunities__ poison, death effects, disease, paralyzed, sleep; __Resistances__ physical 15 (except magical wood)"
 
 
 attacks:

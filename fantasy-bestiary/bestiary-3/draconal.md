@@ -24,7 +24,7 @@ trait_04: "Celestial"
 modifier: 36
 perception:
   - name: "Perception"
-    desc: "Perception +36; __[[darkvision]]__, __[[true seeing]]__;"
+    desc: "Perception +36; __[[darkvision]]__, __[[true-seeing|true seeing]]__;"
 languages: "Celestial, Draconic, Infernal;  speak with animals, tongues;"
 skills:
   - name: "Skills"
@@ -62,7 +62,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 46, attack +38; __9th__ [[breath of life]], [[dispel magic]], [[divine decree]], [[earthquake]], [[heal]] (3), [[implosion]], [[storm of vengeance]]; __10th__ [[miracle]]; __Constant__ __(7th)__ [[circle of protection]], [[speak with animals]], [[tongues]], [[true seeing]];"
+    desc: "DC 46, attack +38; __9th__ [[breath-of-life|breath of life]], [[dispel-magic|dispel magic]], [[divine-decree|divine decree]], [[earthquake]], [[heal]] (3), [[implosion]], [[storm-of-vengeance|storm of vengeance]]; __10th__ [[miracle]]; __Constant__ __(7th)__ [[circle-of-protection|circle of protection]], [[speak-with-animals|speak with animals]], [[tongues]], [[true-seeing|true seeing]];"
 sourcebook: "_Bestiary 3_, page 13."
 ```
 

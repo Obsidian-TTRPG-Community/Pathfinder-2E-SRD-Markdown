@@ -64,13 +64,13 @@ attacks:
   - name: Melee
     desc: "⬻ fist +17 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1d6+11 (1d6+11) bludgeoning"
   - name: Ranged
-    desc: "⬻ composite longbow +18 ([[deadly|deadly d10]], [[range increment|range increment 100 feet]], [[reload|reload 0]], [[volley|volley 30 feet]]); __Damage__ 1d8+8 (1d8+8) piercing"
+    desc: "⬻ composite longbow +18 ([[deadly|deadly d10]], [[range-increment|range increment 100 feet]], [[reload|reload 0]], [[volley|volley 30 feet]]); __Damage__ 1d8+8 (1d8+8) piercing"
   - name: Ranged
-    desc: "⬻ rock +17 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 2d6+11 (2d6+11) bludgeoning"
+    desc: "⬻ rock +17 ([[brutal]], [[range-increment|range increment 120 feet]]); __Damage__ 2d6+11 (2d6+11) bludgeoning"
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 23; __2nd__ [[entangle]], [[tree shape]]; __3rd__ [[earthbind]]; __4th__ [[speak with plants]]; __Constant__ __(2nd)__ [[pass without trace]], [[speak]];"
+    desc: "DC 23; __2nd__ [[entangle]], [[tree-shape|tree shape]]; __3rd__ [[earthbind]]; __4th__ [[speak-with-plants|speak with plants]]; __Constant__ __(2nd)__ [[pass-without-trace|pass without trace]], [[speak]];"
 sourcebook: "_Bestiary 2_, page 124."
 ```
 

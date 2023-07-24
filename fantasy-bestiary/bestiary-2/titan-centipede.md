@@ -31,9 +31,9 @@ abilityMods: [8, 1, 5, -5, 5, -4]
 
 abilities_bot:
   - name: "Impaling Critical"
-    desc: "  When a titan centipede scores a critical hit with its mandibles, the target is painfully pierced with barbed spines and bristles, taking 1d6 (1d6) [[persistent damage|persistent bleed damage]] and becoming [[flat-footed|flat-footed]] as long as the bleed damage continues."
+    desc: "  When a titan centipede scores a critical hit with its mandibles, the target is painfully pierced with barbed spines and bristles, taking 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent bleed damage]] and becoming [[rules/conditions.md#Flat-Footed|flat-footed]] as long as the bleed damage continues."
   - name: "Titan Centipede Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 28 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d6 (2d6) poison damage and [[clumsy|clumsy 2]] (1 round) __Stage 2__ 2d8 (2d8) poison damage, [[clumsy|clumsy 2]], and [[slowed|slowed 1]] (1 round) __Stage 3__ 2d10 (2d10) poison damage, [[clumsy|clumsy 2]], and [[slowed|slowed 2]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 28 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d6 (2d6) poison damage and [[rules/conditions.md#Clumsy|clumsy 2]] (1 round) __Stage 2__ 2d8 (2d8) poison damage, [[rules/conditions.md#Clumsy|clumsy 2]], and [[rules/conditions.md#Slowed|slowed 1]] (1 round) __Stage 3__ 2d10 (2d10) poison damage, [[rules/conditions.md#Clumsy|clumsy 2]], and [[rules/conditions.md#Slowed|slowed 2]] (1 round)"
   - name: "Trample"
     desc: "⬽  Huge or smaller, foot, DC 28."
   - name: "Undulate"

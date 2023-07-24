@@ -54,13 +54,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +29 __Damage__ 3d6+14 (3d6+14) slashing plus 3d6 (3d6) fire and 1d6 (1d6) [[persistent damage|persistent fire]]"
+    desc: "⬻ claw +29 __Damage__ 3d6+14 (3d6+14) slashing plus 3d6 (3d6) fire and 1d6 (1d6) [[rules/conditions.md#Persistent%20Damage|persistent fire]]"
   - name: Ranged
-    desc: "⬻ flame jet +29 ([[fire]], [[range increment|range increment 40 feet]]); __Damage__ 6d6 (6d6) fire plus 2d6 (2d6) [[persistent damage|persistent fire]]"
+    desc: "⬻ flame jet +29 ([[fire]], [[range-increment|range increment 40 feet]]); __Damage__ 6d6 (6d6) fire plus 2d6 (2d6) [[rules/conditions.md#Persistent%20Damage|persistent fire]]"
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 36, attack +28; __Cantrips (8th)__ [[produce flame]]; __6th__ [[fire shield]] (3), [[fireball]] (3), [[tree shape]] at will; appears as a burnt,dead tree; __7th__ [[elemental form]] fire elemental only, [[volcanic eruption]], [[wall of fire]]; __8th__ [[fire shield]], [[fireball]];"
+    desc: "DC 36, attack +28; __Cantrips (8th)__ [[produce-flame|produce flame]]; __6th__ [[fire-shield|fire shield]] (3), [[fireball]] (3), [[tree-shape|tree shape]] at will; appears as a burnt,dead tree; __7th__ [[elemental-form|elemental form]] fire elemental only, [[volcanic-eruption|volcanic eruption]], [[wall-of-fire|wall of fire]]; __8th__ [[fire-shield|fire shield]], [[fireball]];"
 sourcebook: "_Bestiary 2_, page 171."
 ```
 

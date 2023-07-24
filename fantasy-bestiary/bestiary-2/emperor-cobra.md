@@ -31,9 +31,9 @@ abilityMods: [6, 4, 4, -4, 2, -2]
 
 abilities_bot:
   - name: "Emperor Cobra Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 22 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d6 (1d6) poison damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 1d8 (1d8) poison damage and [[drained|drained 1]] (1 round) __Stage 3__ 2d6 (2d6) poison damage and [[drained|drained 2]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 22 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d6 (1d6) poison damage and [[rules/conditions.md#Enfeebled|enfeebled 1]] (1 round) __Stage 2__ 1d8 (1d8) poison damage and [[rules/conditions.md#Drained|drained 1]] (1 round) __Stage 3__ 2d6 (2d6) poison damage and [[rules/conditions.md#Drained|drained 2]] (1 round)"
   - name: "Flare Hood"
-    desc: "⬻ ([[emotion]], [[fear]], [[mental]], [[visual]]);  The emperor cobra flares its hood. Each non–emperor cobra creature within a 20-foot emanation must attempt a DC 22 Will save. The creature is then temporarily immune for 1 minute.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is [[frightened|frightened 1]].\n__Failure__ The creature is [[frightened|frightened 2]].\n__Critical Failure__ The creature is [[frightened|frightened 3]]."
+    desc: "⬻ ([[emotion]], [[fear]], [[mental]], [[visual]]);  The emperor cobra flares its hood. Each non–emperor cobra creature within a 20-foot emanation must attempt a DC 22 Will save. The creature is then temporarily immune for 1 minute.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is [[rules/conditions.md#Frightened|frightened 1]].\n__Failure__ The creature is [[rules/conditions.md#Frightened|frightened 2]].\n__Critical Failure__ The creature is [[rules/conditions.md#Frightened|frightened 3]]."
 
 speed: 25 feet, climb 25 feet, swim 25 feet
 

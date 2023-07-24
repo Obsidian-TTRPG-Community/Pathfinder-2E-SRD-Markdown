@@ -33,11 +33,11 @@ abilityMods: [3, 4, 1, 0, 1, 0]
 
 abilities_bot:
   - name: "Sneak Attack"
-    desc: "  The prisoner deals an extra 1d6 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The prisoner deals an extra 1d6 (1d6) precision damage to [[rules/conditions.md#Flat-Footed|flat-footed]] creatures."
   - name: "Surprise Attack"
-    desc: "  On the first round of combat, creatures that haven't acted yet are [[flat-footed|flat-footed]] to the prisoner."
+    desc: "  On the first round of combat, creatures that haven't acted yet are [[rules/conditions.md#Flat-Footed|flat-footed]] to the prisoner."
   - name: "You're Next"
-    desc: "⬲ ([[emotion]], [[fear]], [[mental]]); __Trigger__ The prisoner reduces a creature to 0 Hit Points __Effect__  The prisoner attempts an [[Intimidation]] check with a +2 circumstance bonus to [[Demoralize]] a single creature it can see and that can see them."
+    desc: "⬲ ([[emotion]], [[fear]], [[mental]]); __Trigger__ The prisoner reduces a creature to 0 Hit Points __Effect__  The prisoner attempts an [[compendium/skills.md#Intimidation|Intimidation]] check with a +2 circumstance bonus to [[Demoralize]] a single creature it can see and that can see them."
 abilities_top:
   - name: Items
     desc: "shiv;"

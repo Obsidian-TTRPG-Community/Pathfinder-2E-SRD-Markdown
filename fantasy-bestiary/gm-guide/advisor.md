@@ -33,7 +33,7 @@ abilityMods: [0, 2, 2, 0, 4, 4]
 
 abilities_top:
   - name: "Placate"
-    desc: "  An advisor is well versed in soothing agitated nobles. Their calming voice gives them a +2 circumstance bonus to [[Deception]] and [[Diplomacy]] checks when dealing with members of the nobility."
+    desc: "  An advisor is well versed in soothing agitated nobles. Their calming voice gives them a +2 circumstance bonus to [[compendium/skills.md#Deception|Deception]] and [[compendium/skills.md#Diplomacy|Diplomacy]] checks when dealing with members of the nobility."
   - name: Items
     desc: "dagger (2), fine clothes, small harp, minor healing potion, whip;"
 
@@ -57,7 +57,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Spontaneous Spells"
-    desc: "DC 22, attack +13; __Cantrips (3rd)__ [[chill touch]], [[daze]], [[light]], [[prestidigitation]], [[shield]]; __1st__ (3 slots) [[charm]], [[mage armor]], [[magic missile]], [[soothe]]; __2nd__ (3 slots) [[augury]], [[restoration]], [[soothe]], [[touch of idiocy]]; __3rd__ (2 slots) [[mind reading]], [[soothe]], [[zone of truth]];"
+    desc: "DC 22, attack +13; __Cantrips (3rd)__ [[chill-touch|chill touch]], [[daze]], [[light]], [[prestidigitation]], [[shield]]; __1st__ (3 slots) [[charm]], [[mage-armor|mage armor]], [[magic-missile|magic missile]], [[soothe]]; __2nd__ (3 slots) [[augury]], [[restoration]], [[soothe]], [[touch-of-idiocy|touch of idiocy]]; __3rd__ (2 slots) [[mind-reading|mind reading]], [[soothe]], [[zone-of-truth|zone of truth]];"
 sourcebook: "_Gamemastery Guide_, page 208."
 ```
 
