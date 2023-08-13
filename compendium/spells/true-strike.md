@@ -11,9 +11,10 @@ aliases: ["True Strike"]
 # True Strike *Spell 1*   
 [divination](rules/traits/divination.md "Divination School Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Duration**until the end of your turn
+- 
+- **Duration**: until the end of your turn
 
 A glimpse into the future ensures your next blow strikes true.
 

@@ -18,10 +18,10 @@ aliases: ["Sepulchral Mask"]
 
 - **Bloodline** Sorcerer
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Area**5-foot emanation
-- **Targets**enemies in the area
-- **Saving Throw** Will
-- **Duration**1 minute
+- **Area**: 5-foot emanation
+- **Targets**: enemies in the area
+- **Saving Throw**: Will
+- **Duration**: 1 minute
 
 You manifest a supernatural funerary mask, granting you a +1 status bonus to Will saving throws against [emotion](rules/traits/emotion.md "Emotion Effect Trait") effects for 1 minute. Its somber countenance forces your foes to confront their regrets and sins. Each enemy in the area when you [Cast the Spell](rules/actions/cast-a-spell.md) or that starts its turn in the area takes `1d4` mental damage and must attempt a Will save.
 

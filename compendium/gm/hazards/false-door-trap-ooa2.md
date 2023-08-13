@@ -17,14 +17,12 @@ A black-powder charge detonates as soon as the doorknob is turned, shattering th
 
 - **Disable** DC 27 [Thievery](compendium/skills.md#Thievery) (expert) to disable the doorknob trigger  
 
-- **AC** 24 , **Fort** +17, **Ref** +11
+- **AC** 24, **Fort** +17, **Ref** +11
 - **Hardness** 8, **HP** 50 (BT 25)
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Explosive Charge [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Explosive Charge** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: The doorknob is turned
 

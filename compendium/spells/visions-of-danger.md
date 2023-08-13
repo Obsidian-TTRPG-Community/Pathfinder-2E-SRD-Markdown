@@ -13,12 +13,12 @@ aliases: ["Visions Of Danger"]
 # Visions Of Danger *Spell 7*   
 [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
-- **Traditions**: [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**500 foot
-- **Area**30-foot burst
-- **Saving Throw** Will
-- **Duration**1 minute
+- **Range**: 500 foot
+- **Area**: 30-foot burst
+- **Saving Throw**: Will
+- **Duration**: 1 minute
 
 An illusion of horrific creatures fills the spell's area. The creatures look like Tiny swarming monsters with a specific appearance of your choice, such as Hellish flies or animated saw blades. The burst deals `8d8` mental damage (basic Will save) to each creature that's inside the burst when it's created, enters the burst, or starts its turn inside the burst. A creature that critically succeeds at its Will save can immediately attempt to 0. A creature that tries to [Interact](rules/actions/interact.md) with the monsters or observes one with a [Seek](rules/actions/seek.md) action can attempt to 0. Creatures that 0 take no damage from the illusion thereafter.
 

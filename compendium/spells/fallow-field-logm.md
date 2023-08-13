@@ -12,12 +12,12 @@ aliases: ["Fallow Field"]
 # Fallow Field *Focus 4*   
 [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  
 
-- **Domains**: [decay](compendium/setting/domains.md#Decay)
+- **Domains** [decay](compendium/setting/domains.md#Decay)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**60 foot
-- **Area**15-foot emanation
-- **Saving Throw** Will
-- **Duration**sustained up to 1 minute
+- **Range**: 60 foot
+- **Area**: 15-foot emanation
+- **Saving Throw**: Will
+- **Duration**: sustained up to 1 minute
 
 A sickly yellow light fills the area as entropic forces prevent healing. When a creature within the area would regain Hit Points, such as from a [healing](rules/traits/healing.md "Healing Effect Trait") effect or an ability like fast healing or regeneration, it must attempt a Will save.
 

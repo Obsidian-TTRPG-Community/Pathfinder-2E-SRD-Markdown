@@ -15,7 +15,7 @@ aliases: ["Chamidu", "The Roar of the Storm"]
 
 - **Category**: Vudrani Gods
 - **Anathema**: harm a child, pollute the wilds, refuse to treat an illness
-- **Areas of Concern**: children, , fertility, , wild beasts
+- **Areas of Concern**: children, fertility, wild beasts
 - **Follower Alignments**: [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait")
 
 ## Devotee benefits

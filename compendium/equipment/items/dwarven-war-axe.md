@@ -15,10 +15,12 @@ aliases: ["Dwarven War Axe"]
 
 - **Price** 3 gp
 - **Bulk** 2
-- **Damage** `1d8` S
+  - **Damage**: `1d8` S
 - **Hands** 1
 - **Category** Advanced; **Group** Axe 
 
 This favored weapon of the dwarves has a large, ornate head mounted on a thick handle. This powerful axe can be wielded with one hand or two.
 
+
+---
 *Source: Core Rulebook p. 281*

@@ -14,7 +14,6 @@ You have replaced a portion of your body with artifice of the kind used to creat
 ```ad-embed-feat
 title: Golem Grafter Dedication, Feat 8
 collapse: closed
-# Golem Grafter Dedication  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: expert in [Arcana](compendium/skills.md#Arcana) and [Crafting](compendium/skills.md#Crafting), or an ally with expert proficiency in those skills willing to augment you
@@ -30,7 +29,6 @@ Your flesh has been specially treated with the same arcane and alchemical proces
 ```ad-embed-feat
 title: Accursed Clay Fist, Feat 10
 collapse: closed
-# Accursed Clay Fist  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [curse](rules/traits/curse.md "Curse Effect Trait")  
 
 - **Prerequisites**: [Golem Grafter Dedication](compendium/feats/golem-grafter-dedication-ec3.md), expert in unarmed attacks
@@ -46,7 +44,6 @@ You have replaced one of your forearms with one made of clay and infused with cu
 ```ad-embed-feat
 title: Quicken Heartbeat, Feat 10
 collapse: closed
-# Quicken Heartbeat  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Golem Grafter Dedication](compendium/feats/golem-grafter-dedication-ec3.md)
@@ -62,7 +59,6 @@ You've replaced your heart with one made of animated quicksilver and living adam
 ```ad-embed-feat
 title: Legs Of Stone, Feat 12*
 collapse: closed
-# Legs Of Stone  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Legs Of Stone](compendium/feats/legs-of-stone-ec3.md) is intended for use with the Golem Grafter Archetype. Its level has been changed accordingly.
@@ -78,7 +74,6 @@ You gain a +2 status bonus to your Fortitude and Reflex DCs against attempts to 
 ````ad-embed-feat
 title: Iron Lung, Feat 14*
 collapse: closed
-# Iron Lung  *Feat 14*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Iron Lung](compendium/feats/iron-lung-ec3.md) is intended for use with the Golem Grafter Archetype. Its level has been changed accordingly.
@@ -88,13 +83,15 @@ collapse: closed
 Your lungs are infused with the resilience of iron. Treat the result of your save against an inhaled poison as one degree of success better than you rolled. Additionally, you gain the following ability.
 
 ```ad-embed-ability
-title: Exhale Poison [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
-[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
+title: **Exhale Poison** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") ([arcane](rules/traits/arcane.md), [necromancy](rules/traits/necromancy.md), [poison](rules/traits/poison.md))
 
+- **Frequency**: once per hour
 - **Requirements**: You were within the area of an inhaled poison within the last minute
 
 **Effect** You sharply exhale the poison that previously surrounded you in a 15-foot cone. Creatures in the area are affected by the poison; the poison's DC and effects are unchanged.  
-%% #trait/arcane #trait/necromancy #trait/poison %%
+%%
+ #trait/arcane  #trait/necromancy  #trait/poison 
+%%
 ```
 
 *Source: Extinction Curse #3: Life's Long Shadows p. 74*  

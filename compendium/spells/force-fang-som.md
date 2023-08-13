@@ -14,8 +14,8 @@ aliases: ["Force Fang"]
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  [magus](rules/traits/magus-som.md "Magus Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**varies
-- **Targets**1 creature
+- **Range**: varies
+- **Targets**: 1 creature
 
 You briefly turn your attack into pure force to bypass your opponent's defenses. Choose a target within your reach, or within the reach of a melee weapon you're wielding.
 

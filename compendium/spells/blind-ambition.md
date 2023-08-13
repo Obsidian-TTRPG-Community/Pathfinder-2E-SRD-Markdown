@@ -14,12 +14,12 @@ aliases: ["Blind Ambition"]
 # Blind Ambition *Focus 1*   
 [cleric](rules/traits/cleric.md "Cleric Class Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains**: [ambition](compendium/setting/domains.md#Ambition)
+- **Domains** [ambition](compendium/setting/domains.md#Ambition)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**60 foot
-- **Targets**1 creature
-- **Saving Throw** Will
-- **Duration**10 minutes
+- **Range**: 60 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Will
+- **Duration**: 10 minutes
 
 You strengthen a target's ambition, increase its resentment of allies, and make its allegiances more susceptible to change.
 

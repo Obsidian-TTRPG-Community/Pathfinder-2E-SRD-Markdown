@@ -14,10 +14,12 @@ aliases: ["Sickle"]
 
 - **Price** 2 sp
 - **Bulk** L
-- **Damage** `1d4` S
+  - **Damage**: `1d4` S
 - **Hands** 1
 - **Category** Simple; **Group** Knife 
 
 Originally a farming tool used for reaping grain, this one-handed weapon has a short wooden handle ending in a curved blade, sometimes sharpened on both sides.
 
+
+---
 *Source: Core Rulebook p. 280*

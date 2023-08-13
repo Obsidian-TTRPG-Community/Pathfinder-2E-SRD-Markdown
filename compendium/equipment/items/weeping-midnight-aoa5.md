@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/aoa5
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/injury
@@ -15,9 +15,8 @@ aliases: ["Weeping Midnight"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [injury](rules/traits/injury.md "Injury Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1400 gp
-- **Usage** held in 2 hands; **Bulk** L
+- **Bulk** L; **Usage** held in 2 hands
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 Alchemists have refined the devastatingly allergenic pollen of the widow orchid to create this venom, which swiftly causes the victim's eyes to leak mucus and swell shut.
 
@@ -35,4 +34,6 @@ title: Saving Throw: DC 36 Fortitude
 **Stage 3** `8d6` poison damage and [blinded](rules/conditions.md#Blinded) (1 round)
 ```
 
+
+---
 *Source: Age of Ashes #5: Against the Scarlet Triad p. 79*

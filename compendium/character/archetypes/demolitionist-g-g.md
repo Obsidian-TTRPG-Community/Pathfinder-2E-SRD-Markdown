@@ -14,20 +14,20 @@ As rippling explosions bring a castle's walls tumbling down, you grin and wipe t
 ````ad-embed-feat
 title: Demolitionist Dedication, Feat 2
 collapse: closed
-# Demolitionist Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 
 You know how to set explosives to cause the maximum possible damage to buildings and other structures. You become trained in [Engineering Lore](compendium/skills.md#Lore) or become an expert in it if you were already trained. You gain the Set Explosives action.
 
 ```ad-embed-ability
-title: Set Explosives [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
-[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
+title: **Set Explosives** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") ([concentrate](rules/traits/concentrate.md))
 
 - **Requirements**: You have 1 or 2 bombs in hand
 
 **Effect** You attach the bombs to an inanimate object within your reach, such as a door, wall, or column, and rig them to detonate at a set time. The bombs explode at a specific time you determine (such as after your next action or at the start of your next turn, to a maximum of 1 minute), dealing their damage and splash damage to the inanimate object. Combine this damage for the purpose of resistances and weaknesses, and this damage ignores an amount of the object's Hardness equal to your level. Any creatures adjacent to the hazard take the bombs' splash damage, also combined for the purpose of resistances and weaknesses. As a reminder, since you didn't throw the bombs, Calculated Splash and similar effects don't apply. Making sure your timing is correct requires concentration, so you can't Set Explosives again while you're waiting for a previously set bomb to detonate.  
-%% #trait/concentrate %%
+%%
+ #trait/concentrate 
+%%
 ```
 
 **Special.** You can't select another dedication feat until you've gained two other feats from the demolitionist archetype.
@@ -39,7 +39,6 @@ title: Set Explosives [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Act
 ````ad-embed-feat
 title: Demolition Charge, Feat 4*
 collapse: closed
-# Demolition Charge  *Feat 4*  
 [alchemist](rules/traits/alchemist.md "Alchemist Class Trait")  
 
 > [!pf2-note] This version of [Demolition Charge](compendium/feats/demolition-charge-apg.md) is intended for use with the Demolitionist Archetype. Its level has been changed accordingly.
@@ -50,7 +49,7 @@ You can rig your bombs to inanimate objects in order to cause destruction to the
 The hazard has the following reaction, which you can also trigger as a single action so long as you are within 30 feet of the hazard. The hazard retains its potency until it's triggered, until the inanimate object moves from its space, or until you make your next daily preparations, whichever comes first.
 
 ```ad-embed-ability
-title: Fire in the Hole [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Fire in the Hole** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature moves into the hazard's space
 
@@ -66,7 +65,6 @@ As a reminder, since you didn't throw the bombs, Calculated Splash and similar e
 ```ad-embed-feat
 title: Safety Measures, Feat 4
 collapse: closed
-# Safety Measures  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Demolitionist Dedication](compendium/feats/demolitionist-dedication-g-g.md)
@@ -80,7 +78,6 @@ You're often careful to be sure you're not hoisted on your own petard, or anyone
 ```ad-embed-feat
 title: Calculated Splash, Feat 6*
 collapse: closed
-# Calculated Splash  *Feat 6*  
 [alchemist](rules/traits/alchemist.md "Alchemist Class Trait")  
 
 > [!pf2-note] This version of [Calculated Splash](compendium/feats/calculated-splash.md) is intended for use with the Demolitionist Archetype. Its level has been changed accordingly.
@@ -95,7 +92,6 @@ You have calculated all the angles to maximize a bomb's splash. When you throw a
 ```ad-embed-feat
 title: Explosive Entry, Feat 7
 collapse: closed
-# Explosive Entry  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 7*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Demolitionist Dedication](compendium/feats/demolitionist-dedication-g-g.md), master in [Engineering Lore](compendium/skills.md#Lore)
@@ -110,7 +106,6 @@ You know exactly how to make a memorable entrance... by detonating a bomb to pro
 ```ad-embed-feat
 title: Controlled Blast, Feat 8
 collapse: closed
-# Controlled Blast  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Demolitionist Dedication](compendium/feats/demolitionist-dedication-g-g.md); [Calculated Splash](compendium/feats/calculated-splash.md), [Directional Bombs](compendium/feats/directional-bombs.md), or [Expanded Splash](compendium/feats/expanded-splash.md)
@@ -124,7 +119,6 @@ You maximize the effectiveness of your explosives by controlling every possible 
 ```ad-embed-feat
 title: Directional Bombs, Feat 8*
 collapse: closed
-# Directional Bombs  *Feat 8*  
 [alchemist](rules/traits/alchemist.md "Alchemist Class Trait")  
 
 > [!pf2-note] This version of [Directional Bombs](compendium/feats/directional-bombs.md) is intended for use with the Demolitionist Archetype. Its level has been changed accordingly.
@@ -139,7 +133,6 @@ You can lob bombs with great force and a precise trajectory to angle the splash 
 ```ad-embed-feat
 title: Collapse Wall, Feat 12*
 collapse: closed
-# Collapse Wall  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Collapse Wall](compendium/feats/collapse-wall-g-g.md) is intended for use with the Demolitionist Archetype. Its level has been changed accordingly.
@@ -158,7 +151,6 @@ You detonate the required bombs in order to bring a wall down on a creature. If 
 ```ad-embed-feat
 title: Expanded Splash, Feat 12*
 collapse: closed
-# Expanded Splash  *Feat 12*  
 [alchemist](rules/traits/alchemist.md "Alchemist Class Trait")  
 
 > [!pf2-note] This version of [Expanded Splash](compendium/feats/expanded-splash.md) is intended for use with the Demolitionist Archetype. Its level has been changed accordingly.

@@ -12,10 +12,10 @@ aliases: ["Ephemeral Hazards"]
 # Ephemeral Hazards *Focus 4*   
 [illusion](rules/traits/illusion.md "Illusion School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
-- **Domains**: [delirium](compendium/setting/domains.md#Delirium)
+- **Domains** [delirium](compendium/setting/domains.md#Delirium)
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**60 foot
-- **Duration**1 minute
+- **Range**: 60 foot
+- **Duration**: 1 minute
 
 You create illusory hazards, such as spinning blades or a puddle of acid, in four 10-foot-by-10-foot spaces within range.
 

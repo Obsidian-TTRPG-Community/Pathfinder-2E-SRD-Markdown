@@ -18,7 +18,7 @@ aliases: ["Ragdya", "The Sage on the Mountain"]
 
 - **Category**: Vudrani Gods
 - **Anathema**: make a joke out of someone's suffering, own a slave, discriminate based on social status
-- **Areas of Concern**: humor, , lessons, , monkeys
+- **Areas of Concern**: humor, lessons, monkeys
 - **Follower Alignments**: [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")
 
 ## Devotee benefits
@@ -35,6 +35,7 @@ aliases: ["Ragdya", "The Sage on the Mountain"]
 title: [Avatar](compendium/spells/avatar.md) of Ragdya
 
 - **Speed**: Speed 70 feet, climb 50 feet, immune to [immobilized](rules/conditions.md#Immobilized)
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") gada ([reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait")), **Damage** `6d10+6` bludgeoning
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") mountain gust ([air](rules/traits/air.md "Air Energy & Element Trait")), **Damage** `6d4+3` bludgeoning plus pushed 5 feet in any direction
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") gada (, [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait")), **Damage** `6d10+6` bludgeoning 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") mountain gust (, [air](rules/traits/air.md "Air Energy & Element Trait")), **Damage** `6d4+3` bludgeoning plus pushed 5 feet in any direction
 ```

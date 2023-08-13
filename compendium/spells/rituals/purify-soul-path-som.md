@@ -14,6 +14,7 @@ aliases: ["Purify Soul Path"]
 - **Cast** 1 day
 - **Cost** rare incense and offering worth a total value of 10 gp × your level
 - **Primary Checks** [Religion](compendium/skills.md#Religion) (trained)
+- 
 
 You delve inward, spending extensive time contemplating the purity of your own soul and the actions of your past. If you aren't truly penitent, the outcome is always a critical failure.
 

@@ -10,11 +10,11 @@ aliases: ["Tortoise And The Hare"]
 # Tortoise And The Hare *Spell 4*   
 [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 foe, and either yourself or 1 ally
-- **Saving Throw** Fortitude
+- **Range**: 30 foot
+- **Targets**: 1 foe, and either yourself or 1 ally
+- **Saving Throw**: Fortitude
 
 You prove that slow and steady doesn't always win the race by turning a foe into a proverbial tortoise and yourself or an ally into a hare, siphoning some of the foe's speed and granting it to the other target. The effects depend on the foe's Fortitude save.
 

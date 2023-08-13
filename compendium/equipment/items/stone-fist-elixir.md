@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/crb
-- item/category/elixir
+- item/category/elixir/
 - trait/alchemical
 - trait/consumable
 - trait/elixir
@@ -14,10 +14,11 @@ aliases: ["Stone Fist Elixir"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [elixir](rules/traits/elixir.md "Elixir Item Trait")  [morph](rules/traits/morph.md "Morph Effect Trait")  
 
 - **Price** 13 gp
-- **Usage** held in 1 hand; **Bulk** L
+- **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Elixir
 
 Your fists become hard as stone. For 1 hour, your fists deal `1d6` bludgeoning damage and lose the [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait") trait.
 
+
+---
 *Source: Core Rulebook p. 550*

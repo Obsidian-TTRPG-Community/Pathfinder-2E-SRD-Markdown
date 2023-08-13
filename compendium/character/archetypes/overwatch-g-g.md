@@ -18,7 +18,6 @@ But more likely your role allows you to feel a deeper connection to your allies,
 ```ad-embed-feat
 title: Overwatch Dedication, Feat 2
 collapse: closed
-# Overwatch Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: expert in [Perception](compendium/skills.md#Perception)
@@ -36,7 +35,6 @@ You're surrounded by an overwatch field aura in a 30-foot emanation. Your overwa
 ```ad-embed-feat
 title: Spyglass Modification, Feat 4
 collapse: closed
-# Spyglass Modification  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Overwatch Dedication](compendium/feats/overwatch-dedication-g-g.md)
@@ -50,7 +48,6 @@ Your enhanced visual gear includes a regulating scope and reflectors, combined i
 ```ad-embed-feat
 title: Swift Intervention, Feat 6
 collapse: closed
-# Swift Intervention  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Overwatch Dedication](compendium/feats/overwatch-dedication-g-g.md)
@@ -71,7 +68,6 @@ Make a single ranged attack roll against the DC of the triggering check; your al
 ```ad-embed-feat
 title: Topple Giants, Feat 8
 collapse: closed
-# Topple Giants  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Overwatch Dedication](compendium/feats/overwatch-dedication-g-g.md)
@@ -87,7 +83,6 @@ When an ally within your overwatch field attempts to [Disarm](rules/actions/disa
 ```ad-embed-feat
 title: Wide Overwatch, Feat 10
 collapse: closed
-# Wide Overwatch  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Overwatch Dedication](compendium/feats/overwatch-dedication-g-g.md), master in [Perception](compendium/skills.md#Perception)
@@ -101,7 +96,6 @@ Through a variety of perceptive techniques, careful routines, and upgrades to yo
 ```ad-embed-feat
 title: Forewarn, Feat 12*
 collapse: closed
-# Forewarn  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Forewarn](compendium/feats/forewarn-g-g.md) is intended for use with the Overwatch Archetype. Its level has been changed accordingly.
@@ -120,7 +114,6 @@ Your foresight and planning are more valuable than armor as you direct your ally
 ```ad-embed-feat
 title: Master Spotter, Feat 12*
 collapse: closed
-# Master Spotter  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Master Spotter](compendium/feats/master-spotter-g-g.md) is intended for use with the Overwatch Archetype. Its level has been changed accordingly.
@@ -136,7 +129,6 @@ Your incredible perception and trusty enhanced visual gear allow you to see thin
 ```ad-embed-feat
 title: Control Tower, Feat 14*
 collapse: closed
-# Control Tower  *Feat 14*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Control Tower](compendium/feats/control-tower-g-g.md) is intended for use with the Overwatch Archetype. Its level has been changed accordingly.
@@ -152,7 +144,6 @@ Your keen senses and ability to process battlefield information have dramaticall
 ```ad-embed-feat
 title: Converge, Feat 16*
 collapse: closed
-# Converge  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 16*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Converge](compendium/feats/converge-g-g.md) is intended for use with the Overwatch Archetype. Its level has been changed accordingly.

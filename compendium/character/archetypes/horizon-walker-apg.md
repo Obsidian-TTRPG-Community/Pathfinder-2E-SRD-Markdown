@@ -14,7 +14,6 @@ Many long for the open road, but you prefer the trackless wild. You can find saf
 ```ad-embed-feat
 title: Horizon Walker Dedication, Feat 2
 collapse: closed
-# Horizon Walker Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: trained in [Survival](compendium/skills.md#Survival)
@@ -30,7 +29,6 @@ You've mastered travel within a specific type of terrain. You gain the Favored T
 ```ad-embed-feat
 title: Acclimatization, Feat 4
 collapse: closed
-# Acclimatization  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Horizon Walker Dedication](compendium/feats/horizon-walker-dedication-apg.md)
@@ -44,7 +42,6 @@ Your time spent in the hostile parts of the world has inured you to extreme clim
 ```ad-embed-feat
 title: Sure Foot, Feat 4
 collapse: closed
-# Sure Foot  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Horizon Walker Dedication](compendium/feats/horizon-walker-dedication-apg.md), expert in [Acrobatics](compendium/skills.md#Acrobatics) and [Athletics](compendium/skills.md#Athletics)
@@ -58,7 +55,6 @@ You know the secrets of moving in your favored terrain. You gain a +2 circumstan
 ```ad-embed-feat
 title: Perpetual Scout, Feat 6
 collapse: closed
-# Perpetual Scout  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Horizon Walker Dedication](compendium/feats/horizon-walker-dedication-apg.md)
@@ -72,7 +68,6 @@ You spot anything out of place in the areas you know best. While in your favored
 ```ad-embed-feat
 title: Blind-fight (Ranger), Feat 10*
 collapse: closed
-# Blind-fight (Ranger)  *Feat 10*  
 [ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 > [!pf2-note] This version of [Blind-fight (Ranger)](compendium/feats/blind-fight-ranger.md) is intended for use with the Horizon Walker Archetype. Its level has been changed accordingly.
@@ -90,7 +85,6 @@ While you're adjacent to an [undetected](rules/conditions.md#Undetected) creatur
 ```ad-embed-feat
 title: Magical Adaptation, Feat 10
 collapse: closed
-# Magical Adaptation  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Horizon Walker Dedication](compendium/feats/horizon-walker-dedication-apg.md)
@@ -104,7 +98,6 @@ When an obstacle bars your path, you pull a trick from your sleeve to overcome i
 ```ad-embed-feat
 title: Terrain Master, Feat 10*
 collapse: closed
-# Terrain Master  *Feat 10*  
 [ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 > [!pf2-note] This version of [Terrain Master](compendium/feats/terrain-master.md) is intended for use with the Horizon Walker Archetype. Its level has been changed accordingly.
@@ -120,7 +113,6 @@ You adapt to your surroundings in any natural terrain. You can spend 1 hour prac
 ```ad-embed-feat
 title: Warden's Step, Feat 12*
 collapse: closed
-# Warden's Step  *Feat 12*  
 [ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 > [!pf2-note] This version of [Warden's Step](compendium/feats/wardens-step.md) is intended for use with the Horizon Walker Archetype. Its level has been changed accordingly.
@@ -136,7 +128,6 @@ You can guide your allies to move quietly through the wilderness. When you [Snea
 ```ad-embed-feat
 title: Wild Strider, Feat 12*
 collapse: closed
-# Wild Strider  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Wild Strider](compendium/feats/wild-strider-apg.md) is intended for use with the Horizon Walker Archetype. Its level has been changed accordingly.

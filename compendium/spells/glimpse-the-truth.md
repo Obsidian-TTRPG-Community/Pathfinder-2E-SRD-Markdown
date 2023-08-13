@@ -14,10 +14,10 @@ aliases: ["Glimpse The Truth"]
 # Glimpse The Truth *Focus 4*   
 [cleric](rules/traits/cleric.md "Cleric Class Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [revelation](rules/traits/revelation.md "Revelation Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains**: [truth](compendium/setting/domains.md#Truth)
+- **Domains** [truth](compendium/setting/domains.md#Truth)
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Area**30-foot emanation
-- **Duration**1 round
+- **Area**: 30-foot emanation
+- **Duration**: 1 round
 
 Divine insight lets you see things as they truly are. The GM attempts a secret counteract check against each illusion that is at least partially within the area. Instead of counteracting the illusion, you see through it (for instance, if the check succeeds against an [illusory disguise](compendium/spells/illusory-disguise.md) spell, you see the creature's true form but illusory disguise doesn't end)
 

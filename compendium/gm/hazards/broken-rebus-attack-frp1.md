@@ -18,9 +18,9 @@ aliases: ["Broken Rebus Attack"]
 Ghostly attackers knock the tables about, send dishes flying, and pull [fleeing](rules/conditions.md#Fleeing) creatures into the room.
 
 - **Disable** DC 34 [Religion](compendium/skills.md#Religion) (expert) to say an Iroran prayer and put the haunt temporarily to rest, DC 38 [Occultism](compendium/skills.md#Occultism) (master) to create a ward against future hauntings.  
-     
+
 ```ad-embed-ability
-title: Ghostly Pull [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Ghostly Pull** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: One round passes since a creature entered the refectory
 
@@ -35,12 +35,12 @@ title: Ghostly Pull [R](rules/core-rulebook/chapter-9-playing-the-game.md#Action
 
 ```ad-pf2-summary
 title: Routine
+
 (1 action) The haunt sends a flurry of objects hurtling across the room. All creatures in the room are battered by the ghostly objects, taking `3d10+14` force damage (DC 32 basic Reflex save).
 ```
 ^routine
 
 **Reset** The haunt deactivates after 1 minute. It re-forms at the same times every day, 7 a.m. and 7 p.m., which is when the monks had their morning and evening meals.
-
 If at least two people cook a meal in the kitchen, share a meal in the refectory, and utter a prayer to [Irori](compendium/setting/deities/irori.md) before the meal, the haunt becomes permanently disabled and doesn't re-form.  
 
 *Source: Fists of the Ruby Phoenix #1: Despair on Danger Island p. 15*

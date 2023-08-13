@@ -11,12 +11,12 @@ aliases: ["Stasis"]
 # Stasis *Focus 4*   
 [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Domains**: [time](compendium/setting/domains.md#Time)
+- **Domains** [time](compendium/setting/domains.md#Time)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 creature or up to 1 Bulk of objects
-- **Saving Throw** Will
-- **Duration**varies
+- **Range**: 30 foot
+- **Targets**: 1 creature or up to 1 Bulk of objects
+- **Saving Throw**: Will
+- **Duration**: varies
 
 The flow of time congeals around an object or creature, holding it in place. The target must attempt a Will save (an unattended object automatically critically fails its save).
 

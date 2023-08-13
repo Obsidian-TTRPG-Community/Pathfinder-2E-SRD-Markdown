@@ -17,32 +17,28 @@ An elven woman wearing a robe stands in the water. She beckons anyone who enters
 
 - **Disable** [Deception](compendium/skills.md#Deception) 45 (legendary) to pretend to be Erveniss and ask for forgiveness, [Diplomacy](compendium/skills.md#Diplomacy) 45 (legendary) to convince Damurdiel to stand down (elves who are masters in [Diplomacy](compendium/skills.md#Diplomacy) can attempt the check as if they were legendary instead), or [Religion](compendium/skills.md#Religion) 40 (legendary) to call upon [Calistria](compendium/setting/deities/calistria.md) to calm Damurdiel's spirit.  
 
-- **AC** 43 , **Fort** +26, **Ref** +26, **Will** +35
+- **AC** 43, **Fort** +26, **Ref** +26, **Will** +35
 - **HP** 128 (BT 64) dagger
-- **Immunities** 
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Surprise Strike [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[attack](rules/traits/attack.md "Attack Combat Trait")  
+title: **Surprise Strike** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([attack](rules/traits/attack.md))
 
 - **Trigger**: A creature approaches within 5 feet of the pool's edge
 
 **Effect** The ghostly elf causes a dagger to rise out of the waters and then fling toward the triggering creature. If the attack is a hit, it is a critical hit instead. The haunt then rolls initiative.  
-%% #trait/attack %%
+%%
+ #trait/attack 
+%%
 ```
 
 ````ad-pf2-summary
 title: Routine
-(3 actions) The haunt attempts to [Strike](rules/actions/strike.md) with the dagger.
 
+(3 actions) The haunt attempts to [Strike](rules/actions/strike.md) with the dagger.
 ```ad-inline-attack
 title: Ranged [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Dagger (40) ([agile](rules/traits/agile.md "Agile Weapon Trait"), [thrown <10 feet>](rules/traits/thrown-10-feet.md "Thrown Weapon Trait"), [versatile <S>](rules/traits/versatile-s.md "Versatile Weapon Trait"))
 **Damage** `4d4+10` piercing plus 20 negative 
- 
 **Effects** 
-
 %% #trait/agile #trait/thrown-10-feet #trait/versatile-s %%
 ```
 ````

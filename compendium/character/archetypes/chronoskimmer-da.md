@@ -18,7 +18,6 @@ You have the means to see the timelines of all creatures, including your own. Yo
 ```ad-embed-feat
 title: Chronoskimmer Dedication, Feat 2
 collapse: closed
-# Chronoskimmer Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 
@@ -37,7 +36,6 @@ Additionally, if your initiative roll result is tied with an opponent's initiati
 ```ad-embed-feat
 title: Turn Back the Clock, Feat 4
 collapse: closed
-# Turn Back the Clock  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  
 
 - **Prerequisites**: [Chronoskimmer Dedication](compendium/feats/chronoskimmer-dedication-da.md)
@@ -54,7 +52,6 @@ After failing a test of skill, you hop back in your personal timeline so you can
 ```ad-embed-feat
 title: Guide the Timeline, Feat 6
 collapse: closed
-# Guide the Timeline  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
 
 - **Prerequisites**: [Chronoskimmer Dedication](compendium/feats/chronoskimmer-dedication-da.md)
@@ -70,7 +67,6 @@ You know the result you want and subtly nudge the timeline to your intended dest
 ```ad-embed-feat
 title: Reversing Charge, Feat 8
 collapse: closed
-# Reversing Charge  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Chronoskimmer Dedication](compendium/feats/chronoskimmer-dedication-da.md)
@@ -85,7 +81,6 @@ You dive into the fray before rewinding yourself to safety. [Stride](rules/actio
 ```ad-embed-feat
 title: Superimpose Time Duplicates, Feat 8
 collapse: closed
-# Superimpose Time Duplicates  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Chronoskimmer Dedication](compendium/feats/chronoskimmer-dedication-da.md)
@@ -101,7 +96,6 @@ You call alternate versions of yourself, either from a different timeline or per
 ```ad-embed-feat
 title: Borrow Time, Feat 10
 collapse: closed
-# Borrow Time  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Chronoskimmer Dedication](compendium/feats/chronoskimmer-dedication-da.md)
@@ -118,7 +112,6 @@ You reach ahead and make use of time that's yet to be. You become [quickened](ru
 ```ad-embed-feat
 title: Steal Time, Feat 10
 collapse: closed
-# Steal Time  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Chronoskimmer Dedication](compendium/feats/chronoskimmer-dedication-da.md)
@@ -134,7 +127,6 @@ You reach into another creature's timeline and attempt to alter their flow of ti
 ```ad-embed-feat
 title: Combat Premonition, Feat 12*
 collapse: closed
-# Combat Premonition  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Combat Premonition](compendium/feats/combat-premonition-da.md) is intended for use with the Chronoskimmer Archetype. Its level has been changed accordingly.
@@ -150,7 +142,6 @@ By narrowing your sense of the future, you can improve that of your allies. When
 ```ad-embed-feat
 title: Escape Timeline, Feat 12*
 collapse: closed
-# Escape Timeline  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Escape Timeline](compendium/feats/escape-timeline-da.md) is intended for use with the Chronoskimmer Archetype. Its level has been changed accordingly.
@@ -169,7 +160,6 @@ You step outside of the flow of time momentarily, allowing you to avoid dangers.
 ```ad-embed-feat
 title: Space-Time Shift, Feat 12*
 collapse: closed
-# Space-Time Shift  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Space-Time Shift](compendium/feats/space-time-shift-da.md) is intended for use with the Chronoskimmer Archetype. Its level has been changed accordingly.
@@ -188,7 +178,6 @@ You travel just a few moments into the future to immediately arrive at your dest
 ```ad-embed-feat
 title: Reset the Past, Feat 14*
 collapse: closed
-# Reset the Past  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 14*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Reset the Past](compendium/feats/reset-the-past-da.md) is intended for use with the Chronoskimmer Archetype. Its level has been changed accordingly.

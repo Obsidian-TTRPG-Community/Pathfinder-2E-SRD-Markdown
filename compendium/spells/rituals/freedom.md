@@ -16,8 +16,8 @@ aliases: ["Freedom"]
 - **Secondary Casters** 2
 - **Primary Checks** [Arcana](compendium/skills.md#Arcana) (legendary) or [Occultism](compendium/skills.md#Occultism) (legendary)
 - **Secondary Checks** [Society](compendium/skills.md#Society)
-- **Range**see text
-- **Targets**1 creature
+- **Range**: see text
+- **Targets**: 1 creature
 
 You perform a ritual to free a creature imprisoned, [petrified](rules/conditions.md#Petrified), or otherwise put into stasis by any [magical](rules/traits/magical.md "Magical Item Trait") effects from all such effects, even effects like imprisonment that don't have a duration, as long as freedom's spell level is equal to or higher than the effect's spell level. To perform the ritual, you must be within 10 feet of the target, or within 10 feet of the place where the target was imprisoned (in the case of effects that trap the creature in an unreachable prison, like the oubliette form of imprisonment). You must know the name of the creature and details of its background; if the creature is not a close associate, a failure or critical failure on a secondary [Society](compendium/skills.md#Society) check reduces even a critical success on the primary check to a failure.
 

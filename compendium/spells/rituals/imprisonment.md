@@ -16,8 +16,8 @@ aliases: ["Imprisonment"]
 - **Secondary Casters** 6
 - **Primary Checks** [Arcana](compendium/skills.md#Arcana) (legendary) or [Occultism](compendium/skills.md#Occultism) (legendary)
 - **Secondary Checks** [Crafting](compendium/skills.md#Crafting), [Society](compendium/skills.md#Society)
-- **Range**10 feet
-- **Targets**1 creature of up to 16th level
+- **Range**: 10 feet
+- **Targets**: 1 creature of up to 16th level
 
 You perform a ritual to imprison a creature in one of several forms. While some versions of this ritual offer all of the forms, others include only a single form or only a few of them. Whichever form you use, the effect can't be counteracted, though it can be ended by freedom. Some forms of imprisonment can be ended by other means. Because the ritual requires the target to remain within 10 feet at all times, it typically requires you to subdue the target first.
 
@@ -34,8 +34,8 @@ You perform a ritual to imprison a creature in one of several forms. While some 
 > - **Failure** You fail to imprison the target.
 > - **Critical Failure** You imprison yourself and the secondary casters in the same way you intended to imprison the target.
 
-**Heightened (9th)** You can use the object form of imprisonment in addition to the other options, and you can target a creature of up to 18th level. The base cost increases to 2,000 gp.
-
 **Heightened (10th)** You can use the object and oubliette forms of imprisonment in addition to the other options, and you can target a creature of up to 20th level. The base cost increases to 6,000 gp.
+
+**Heightened (9th)** You can use the object form of imprisonment in addition to the other options, and you can target a creature of up to 18th level. The base cost increases to 2,000 gp.
 
 *Source: Core Rulebook p. 412*

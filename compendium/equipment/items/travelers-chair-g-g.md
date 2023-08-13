@@ -16,4 +16,6 @@ This wheelchair is tailored for adventures and travels. The design is sleek and 
 
 Magical Wheelchairs The following wheelchairs use technology and magic for incredible effects, in addition to the basic benefits granted from the base wheelchair (typically a traveler's chair).
 
+
+---
 *Source: Guns & Gears p. 91*

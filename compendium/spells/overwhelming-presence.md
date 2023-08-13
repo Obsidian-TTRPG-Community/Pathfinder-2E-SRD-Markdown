@@ -15,12 +15,12 @@ aliases: ["Overwhelming Presence"]
 # Overwhelming Presence *Spell 9*   
 [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Area**40-foot burst
-- **Targets**any number of creatures
-- **Saving Throw** Will
-- **Duration**until full tribute is paid
+- **Area**: 40-foot burst
+- **Targets**: any number of creatures
+- **Saving Throw**: Will
+- **Duration**: until full tribute is paid
 
 You surround yourself with supernatural splendor, appearing to be a god or similarly majestic being. You choose the aspects of your new majestic appearance. This causes the targets to pay tribute to you by bowing or using some other action in keeping with your appearance. The number of times a target must do this depends on the result of their Will save.
 

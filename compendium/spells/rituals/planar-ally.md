@@ -16,6 +16,7 @@ aliases: ["Planar Ally"]
 - **Secondary Casters** 2 must share your religion
 - **Primary Checks** [Religion](compendium/skills.md#Religion) (expert)
 - **Secondary Checks** [Diplomacy](compendium/skills.md#Diplomacy)
+- 
 
 You call upon your deity to grant you aid in the form of a divine servitor of your deity's choice of a level no greater than double planar ally's spell level. While performing this ritual, the secondary casters entreat your deity, explaining what sort of assistance you need and why you need it; if the task is incredibly fitting to your deity, the GM can grant a circumstance bonus to the secondary [Diplomacy](compendium/skills.md#Diplomacy) check or rule that the check is automatically a critical success. If the ritual succeeds, you must offer the servitor payment depending on factors such as the duration and danger of the task. Payment always costs at least as much as a consumable item of the creature's level, even for a short and simple task, and it often costs as much as a permanent magic item of the creature's level to persuade a creature to fight alongside you. If you use the ritual without good reason, the result is automatically a critical failure.
 

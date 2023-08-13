@@ -17,14 +17,12 @@ A spring-loaded glass jar containing purple dye and a thunderstone pops from the
 
 - **Disable** DC 17 [Thievery](compendium/skills.md#Thievery) (trained) to remove the jar and thunderstone carefully or DC 20 [Athletics](compendium/skills.md#Athletics) to reinforce the flagstone pressure sensor with an improvised wedge  
 
-- **AC** 15 , **Fort** +10, **Ref** +4
-- **Flagstone  Hardness** 7, **Flagstone  HP** 44 (BT 22)
+- **AC** 15, **Fort** +10, **Ref** +4
+- **Flagstone Hardness** 7, **Flagstone HP** 44 (BT 22)
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Exploding Jar [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Exploding Jar** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature or object weighing at least 50 pounds is placed on one of the flagstones running north to south on the west side of the yard (marked "T" on the map on page 32)
 

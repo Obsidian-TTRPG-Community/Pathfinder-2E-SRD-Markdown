@@ -13,8 +13,8 @@ aliases: ["Vigilant Eye"]
 [divination](rules/traits/divination.md "Divination School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**500 foot
-- **Duration**1 hour
+- **Range**: 500 foot
+- **Duration**: 1 hour
 
 You create an [invisible](rules/conditions.md#Invisible) eye sensor, as [clairvoyance](compendium/spells/clairvoyance.md).
 

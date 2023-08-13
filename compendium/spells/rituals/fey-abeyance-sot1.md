@@ -17,7 +17,7 @@ aliases: ["Fey Abeyance"]
 - **Secondary Casters** 1
 - **Primary Checks** [Nature](compendium/skills.md#Nature) (trained)
 - **Secondary Checks** [Crafting](compendium/skills.md#Crafting), [Intimidation](compendium/skills.md#Intimidation), [Occultism](compendium/skills.md#Occultism), [Performance](compendium/skills.md#Performance)
-- **Area**An enclosed area up to 60 feet × 60 feet, up to 20 feet high
+- **Area**: An enclosed area up to 60 feet × 60 feet, up to 20 feet high
 
 You ward an area with cold iron bells, protecting it from the influence of the first world. Fey creatures feel uncomfortable within the area and all physical attacks against them are considered cold iron for the purposes of their Weaknesses and Resistances. Furthermore, you set up bells within 3 squares within the area (usually at entrances). When a fey creature begins its turn in a square containing bells, it takes mental damage equal to its Weakness to cold iron, if any. This damage is [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait").
 

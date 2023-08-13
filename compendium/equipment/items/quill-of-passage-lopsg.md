@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/lopsg
-- item/category/held
+- item/category/held/
 - trait/conjuration
 - trait/magical
 - trait/uncommon
@@ -14,14 +14,17 @@ aliases: ["Quill Of Passage"]
 
 - **Price** 1200 gp
 - **Usage** held in one hand
-- **Category** Held
 
 This black-feathered quill has a glowing nib with a small amount of glowing ink inside it.
 
 ```ad-embed-ability
-title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
+title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") command, [Interact](rules/actions/interact.md)
 
-Placing the tip of the quill against a wall of wood, plaster, or stone and speaking a command word causes the ink to flow from the nib onto the wall in the shape of a glowing doorway, casting passwall on the touched surface.
+- **Frequency**: once per day
+
+**Effect** Placing the tip of the quill against a wall of wood, plaster, or stone and speaking a command word causes the ink to flow from the nib onto the wall in the shape of a glowing doorway, casting passwall on the touched surface.
 ```
 
+
+---
 *Source: Lost Omens: Pathfinder Society Guide p. 118*

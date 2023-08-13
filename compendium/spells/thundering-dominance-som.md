@@ -11,11 +11,11 @@ aliases: ["Thundering Dominance"]
 # Thundering Dominance *Spell 2*   
 [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions**: [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**your companion or eidolon
-- **Duration**1 minute
+- **Range**: 30 foot
+- **Targets**: your companion or eidolon
+- **Duration**: 1 minute
 
 You shroud the target in a powerful predatory aura and amplify its vocalizations. It gains a +1 status bonus to [Intimidation](compendium/skills.md#Intimidation) checks. Once during this spell's duration, it can take the Thundering Roar action.
 

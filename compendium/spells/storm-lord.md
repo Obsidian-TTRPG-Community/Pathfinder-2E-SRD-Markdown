@@ -16,9 +16,9 @@ aliases: ["Storm Lord"]
 [air](rules/traits/air.md "Air Energy & Element Trait")  [druid](rules/traits/druid.md "Druid Class Trait")  [electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Requirements**You are outdoors and aboveground.
-- **Area**100-foot emanation which affects you
-- **Duration**sustained up to 1 minute
+- **Requirements**: You are outdoors and aboveground.
+- **Area**: 100-foot emanation which affects you
+- **Duration**: sustained up to 1 minute
 
 The sky above you darkens in a matter of moments, swirling with ominous clouds punctuated by flashes of lighting. The first time you [Sustain this Spell](rules/actions/sustain-a-spell.md) each round, you can select one of the following effects to occur in the area.
 

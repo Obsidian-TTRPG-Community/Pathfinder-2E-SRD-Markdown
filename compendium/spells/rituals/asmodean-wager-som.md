@@ -17,6 +17,7 @@ aliases: ["Asmodean Wager"]
 - **Secondary Casters** 1 to 9
 - **Primary Checks** [Occultism](compendium/skills.md#Occultism) (expert)
 - **Secondary Checks** [Society](compendium/skills.md#Society)
+- 
 
 You facilitate a magically binding agreement between yourself and one or more additional secondary casters, wherein each participant (hereafter referred to as the bettors) stakes something of value on the outcome of an event that has yet to be determined. The nature of the event is up to the bettors: a test of skill, a game of chance, or even something occurring in the distant future. While named for [Asmodeus](compendium/setting/deities/asmodeus.md) and invented by those with a diabolical bent, the ritual has no particular connection to Hell and instead relies on the occult connections between the bettors. The stakes can be either of the following:
 

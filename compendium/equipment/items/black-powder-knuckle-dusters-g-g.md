@@ -18,14 +18,16 @@ aliases: ["Black Powder Knuckle Dusters"]
 - **Access** The following regions have access to firearms: Alkenstar, Dongun Hold, Tian Xia, Vudra, Arcadia, Ustalav, the Shackles
 - **Price** 8 gp
 - **Bulk** L
-- **Ranged**  
-  - **Damage** `1d4` P
+- **Ranged**:  
+  - **Damage**: `1d4` P
   - **Ammunution** round; **Range** 30 ft.; **Reload** 1
-- **Melee**  
-  - **Damage** `1d4` B
+- **Melee**:  
+  - **Damage**: `1d4` B
 - **Hands** 1
 - **Category** Martial
 
 This pair of knuckle dusters is fitted with an explosive charge of black powder within the hollowed spikes of the weapon and a firing mechanism you hold in your hand while in use.
 
+
+---
 *Source: Guns & Gears p. 158*

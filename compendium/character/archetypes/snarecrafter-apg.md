@@ -14,7 +14,6 @@ You're able to take ordinary materials and use them to create deadly snares, spe
 ```ad-embed-feat
 title: Snarecrafter Dedication, Feat 2
 collapse: closed
-# Snarecrafter Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: trained in [Crafting](compendium/skills.md#Crafting), [Snare Crafting](compendium/feats/snare-crafting.md)
@@ -30,7 +29,6 @@ You've learned to create a limited number of snares at no cost. Each day during 
 ```ad-embed-feat
 title: Surprise Snare, Feat 4
 collapse: closed
-# Surprise Snare  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 
 - **Prerequisites**: [Snarecrafter Dedication](compendium/feats/snarecrafter-dedication-apg.md)
@@ -45,7 +43,6 @@ You install one of your snares prepared for quick deployment in a space that's o
 ```ad-embed-feat
 title: Remote Trigger, Feat 6
 collapse: closed
-# Remote Trigger  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Snarecrafter Dedication](compendium/feats/snarecrafter-dedication-apg.md)
@@ -59,7 +56,6 @@ You've learned how to trigger snares from afar, creating ranged hazards to assai
 ```ad-embed-feat
 title: Quick Snares, Feat 8*
 collapse: closed
-# Quick Snares  *Feat 8*  
 [ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 > [!pf2-note] This version of [Quick Snares](compendium/feats/quick-snares.md) is intended for use with the Snarecrafter Archetype. Its level has been changed accordingly.
@@ -75,7 +71,6 @@ You can rig a snare in only moments. You can [Craft](rules/actions/craft.md) sna
 ```ad-embed-feat
 title: Giant Snare, Feat 10
 collapse: closed
-# Giant Snare  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Snarecrafter Dedication](compendium/feats/snarecrafter-dedication-apg.md)
@@ -91,7 +86,6 @@ When you prepare snares for quick deployment, you can prepare some of them as gi
 ```ad-embed-feat
 title: Powerful Snares, Feat 10*
 collapse: closed
-# Powerful Snares  *Feat 10*  
 [ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 > [!pf2-note] This version of [Powerful Snares](compendium/feats/powerful-snares.md) is intended for use with the Snarecrafter Archetype. Its level has been changed accordingly.
@@ -107,7 +101,6 @@ Your snares are particularly difficult for enemies to avoid. When you set a snar
 ```ad-embed-feat
 title: Plentiful Snares, Feat 12*
 collapse: closed
-# Plentiful Snares  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Plentiful Snares](compendium/feats/plentiful-snares-apg.md) is intended for use with the Snarecrafter Archetype. Its level has been changed accordingly.
@@ -123,7 +116,6 @@ You can prepare incredible numbers of snares each day out of simple ingredients.
 ```ad-embed-feat
 title: Lightning Snares, Feat 14*
 collapse: closed
-# Lightning Snares  *Feat 14*  
 [ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 > [!pf2-note] This version of [Lightning Snares](compendium/feats/lightning-snares.md) is intended for use with the Snarecrafter Archetype. Its level has been changed accordingly.

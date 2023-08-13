@@ -11,10 +11,10 @@ aliases: ["Bandit's Doom"]
 # Bandit's Doom *Spell 5*   
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [curse](rules/traits/curse.md "Curse Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 30 minutes 
-- **Targets**1 item of 2 Bulk or less
-- **Duration**1 month
+- **Targets**: 1 item of 2 Bulk or less
+- **Duration**: 1 month
 
 You ward the target item against those who would steal it. When a creature attempts to take the target into its possession, it takes `8d8` mental damage and is [doomed](rules/conditions.md#Doomed), depending on the result of its Will save. The spell then ends. You can choose up to 10 creatures when you cast this spell; if you do, those creatures can take the target item without triggering the ward. You can only have one bandit's doom active at a time. If you cast the spell again, the newer casting supersedes the older.
 

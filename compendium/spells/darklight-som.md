@@ -15,9 +15,9 @@ aliases: ["Darklight"]
 [darkness](rules/traits/darkness.md "Darkness Effect Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [shadow](rules/traits/shadow.md "Shadow General Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**120 foot
-- **Area**20-foot burst
-- **Duration**1 minute
+- **Range**: 120 foot
+- **Area**: 20-foot burst
+- **Duration**: 1 minute
 
 Shadows pour forth from your eyes, creating a field of darkness that prevents light from emanating within the area. Light doesn't enter the area; any non-magical light sources, such as a [torches](compendium/equipment/items/torch.md) or lanterns, don't emanate any light while inside the area, even if their light radius would extend beyond the darkness. The spell similarly suppresses magical light of the spell's level or lower.
 

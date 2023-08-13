@@ -14,8 +14,8 @@ aliases: ["Touch Of Corruption"]
 [champion](rules/traits/champion.md "Champion Class Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**touch
-- **Targets**1 willing undead creature or 1 living creature
+- **Range**: touch
+- **Targets**: 1 willing undead creature or 1 living creature
 
 You infuse the target with negative energy. If the target is living, this deals `1d6` negative damage (basic Fortitude save); on a failed save, the target also takes a –2 status penalty to AC for 1 round.
 

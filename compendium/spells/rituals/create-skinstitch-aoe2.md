@@ -16,8 +16,8 @@ aliases: ["Create Skinstitch"]
 - **Secondary Casters** 1
 - **Primary Checks** [Religion](compendium/skills.md#Religion) (expert)
 - **Secondary Checks** [Crafting](compendium/skills.md#Crafting)
-- **Range**touch
-- **Targets**1 frame covered in the skin of sentient humanoids
+- **Range**: touch
+- **Targets**: 1 frame covered in the skin of sentient humanoids
 
 You transform the target into a skinstitch, a hideous construct covered in the flesh of sentient humanoids.
 

@@ -11,12 +11,12 @@ aliases: ["Awaken Entropy"]
 # Awaken Entropy *Spell 6*   
 [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**120 foot
-- **Area**10-foot burst
-- **Saving Throw**  basic Fortitude
-- **Duration**sustained up to 1 minute
+- **Range**: 120 foot
+- **Area**: 10-foot burst
+- **Saving Throw**:  basic Fortitude
+- **Duration**: sustained up to 1 minute
 
 All things age, all things die, and at the end of days even the universe will grow quiet and still. You awaken the cosmic principle of entropy, accelerating time in an area—flesh falters, plants shrivel, and even stone begins to crumble.
 

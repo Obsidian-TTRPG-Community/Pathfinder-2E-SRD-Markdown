@@ -11,11 +11,11 @@ aliases: ["Befitting Attire"]
 # Befitting Attire *Spell 2*   
 [illusion](rules/traits/illusion.md "Illusion School Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**5 willing creatures
-- **Duration**1 hour
+- **Range**: 30 foot
+- **Targets**: 5 willing creatures
+- **Duration**: 1 hour
 
 You cloak the targets in an illusion, shaping their clothing and worn items into ones suitable for a particular occasion. You visualize the occasion, and the spell creates illusory attire customized to each target. For instance, if you visualized a noble ball, armor would appear to be fine clothing. This doesn't change identifying details of the targets' appearances other than their clothes.
 

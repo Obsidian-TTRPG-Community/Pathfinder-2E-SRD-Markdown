@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/apg
-- item/category/poison
+- item/category/poison/
 - trait/consumable
 - trait/mechanical
 - trait/poison
@@ -15,7 +15,6 @@ aliases: ["Nauseating Snare"]
 [consumable](rules/traits/consumable.md "Consumable Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [snare](rules/traits/snare.md "Snare Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Price** 40 gp
-- **Category** Poison
 
 You position particularly foul substances to splash over a creature. The first creature to enter the square must attempt a DC 20 Fortitude saving throw.
 
@@ -25,4 +24,6 @@ You position particularly foul substances to splash over a creature. The first c
 > - **Failure** The creature becomes [sickened](rules/conditions.md#Sickened).
 > - **Critical Failure** The creature becomes [sickened](rules/conditions.md#Sickened).
 
+
+---
 *Source: Advanced Player's Guide p. 256*

@@ -17,15 +17,14 @@ A bloody image of Belcorra arises, emits a soul-draining light, then inhales blo
 
 - **Disable** DC 22 [Thievery](compendium/skills.md#Thievery) (trained) to wipe away enough of the bloodstain to disrupt the haunt's necromantic energies, or DC 20 [Religion](compendium/skills.md#Religion) (trained) to exorcise the haunt.  
 
-- **AC** 19 , **Fort** +6, **Ref** +9
+- **AC** 19, **Fort** +6, **Ref** +9
 - **HP** 50
 - **Immunities** critical hits; object immunities; precision damage
 - **Resistances** physical 5except [ghost touch](compendium/equipment/items/ghost-touch.md)
 - **Weaknesses** positive 5
-     
+
 ```ad-embed-ability
-title: Gauntlight Beam [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[light](rules/traits/light.md "Light Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
+title: **Gauntlight Beam** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([light](rules/traits/light.md), [necromancy](rules/traits/necromancy.md))
 
 - **Trigger**: A living creature ends its turn in area A11 at night
 
@@ -36,13 +35,15 @@ title: Gauntlight Beam [R](rules/core-rulebook/chapter-9-playing-the-game.md#Act
 > - **Success** The creature takes `1d8` negative damage.
 > - **Failure** The creature takes `1d8+6` negative damage and is [dazzled](rules/conditions.md#Dazzled) for 1 round.
 > - **Critical Failure** The creature takes `2d8+6` negative damage and is [blinded](rules/conditions.md#Blinded) for 1 round then [dazzled](rules/conditions.md#Dazzled) for 1 round.  
-%% #trait/light #trait/necromancy %%
+%%
+ #trait/light  #trait/necromancy 
+%%
 ```
 
 ```ad-pf2-summary
 title: Routine
-(1 action) The bloody image opens its mouth and appears to inhale, drawing blood from the body of one creature in its line of sight within 90 feet from the center of area A11. The creature targeted must attempt a DC 20 Fortitude save.
 
+(1 action) The bloody image opens its mouth and appears to inhale, drawing blood from the body of one creature in its line of sight within 90 feet from the center of area A11. The creature targeted must attempt a DC 20 Fortitude save.
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
 > - **Success** The creature takes `1d10` bleed damage.

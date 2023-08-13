@@ -15,10 +15,12 @@ aliases: ["Tri-bladed Katar"]
 
 - **Price** 8 sp
 - **Bulk** L
-- **Damage** `1d4` P
+  - **Damage**: `1d4` P
 - **Hands** 1
 - **Category** Simple; **Group** Knife 
 
 This punching dagger resembles the standard katar, save that a pair of blades can be folded out from the center blade, transforming the weapon into a starburst shape well suited to catching foes' weapons.
 
+
+---
 *Source: Lost Omens: The Grand Bazaar p. 107*

@@ -17,14 +17,12 @@ Four pressure plates along this mirrored hall rotate vertically when stepped on,
 
 - **Disable** DC 12 [Thievery](compendium/skills.md#Thievery) to deactivate one pressure plate  
 
-- **AC** 18 , **Fort** +2, **Ref** +5
+- **AC** 18, **Fort** +2, **Ref** +5
 - **Hardness** 4, **HP** 12 (BT 6)
 - **Immunities** object immunities
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Flip [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Flip** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature steps on a pressure plate
 

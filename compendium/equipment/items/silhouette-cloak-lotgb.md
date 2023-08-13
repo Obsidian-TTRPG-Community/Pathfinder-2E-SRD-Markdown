@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/lotgb
-- item/category/worn
+- item/category/worn/
 - trait/invested
 - trait/magical
 - trait/transmutation
@@ -16,12 +16,12 @@ aliases: ["Silhouette Cloak"]
 
 - **Price** 70000 gp
 - **Usage** worn cloak
-- **Category** Worn
 
 In bright light, this dark cloak shimmers with patches of color that shift and move even when the cloth is still. In dim light or darkness, the cloak seems to blend into your surroundings and grants you a +3 item bonus to [Stealth](compendium/skills.md#Stealth) checks.
 
 ```ad-embed-ability
-title: Activate [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies")
+title: **Activate** [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies") Varies ([Interact](rules/actions/interact.md)) (1 minute)
+
 
 You and objects you wear or carry fall into your shadow, becoming a twodimensional silhouette. In this form you aren't incorporeal, but you also don't have a solid form and don't occupy your space, allowing other creatures to pass through or end their turn there. You gain resistance 20 to all damage except force damage, damage from effects with the [light](rules/traits/light.md "Light Effect Trait") trait, and damage from [Strikes](rules/actions/strike.md) with the [ghost touch](compendium/equipment/items/ghost-touch.md) property rune. This increases to resistance 40 against nonmagical damage. Other creatures can't attempt Strength-based skill checks against you.
 
@@ -29,11 +29,14 @@ Your land and climb Speeds both become 40 feet. You can't use actions except [Cl
 ```
 
 ```ad-embed-ability
-title: Activate [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Activate** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") [Interact](rules/actions/interact.md)
 
+- **Frequency**: once per day
 - **Trigger**: You take damage
 
 **Effect** You fold the cloak over yourself and vanish into your shadow for a moment, gaining the benefits of the first activation until the end of the current creature's turn. The damage resistance applies to the triggering damage.
 ```
 
+
+---
 *Source: Lost Omens: The Grand Bazaar p. 43*

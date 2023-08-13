@@ -14,7 +14,6 @@ You have trained your body to perform incredible, seemingly superhuman feats of 
 ```ad-embed-feat
 title: Acrobat Dedication, Feat 2
 collapse: closed
-# Acrobat Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: trained in [Acrobatics](compendium/skills.md#Acrobatics)
@@ -30,7 +29,6 @@ You become an expert in [Acrobatics](compendium/skills.md#Acrobatics). At 7th le
 ```ad-embed-feat
 title: Contortionist, Feat 4
 collapse: closed
-# Contortionist  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Acrobat Dedication](compendium/feats/acrobat-dedication-apg.md)
@@ -46,7 +44,6 @@ You gain the [Quick Squeeze](compendium/feats/quick-squeeze.md) skill feat, and 
 ```ad-embed-feat
 title: Dodge Away, Feat 6
 collapse: closed
-# Dodge Away  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Acrobat Dedication](compendium/feats/acrobat-dedication-apg.md)
@@ -65,7 +62,6 @@ If the attack misses you, you can [Step](rules/actions/step.md) after the [Strik
 ```ad-embed-feat
 title: Graceful Leaper, Feat 7
 collapse: closed
-# Graceful Leaper  *Feat 7*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Acrobat Dedication](compendium/feats/acrobat-dedication-apg.md), master in [Acrobatics](compendium/skills.md#Acrobatics)
@@ -79,7 +75,6 @@ Mass and muscle are meaningless when you leap; only grace and balance matter. Yo
 ```ad-embed-feat
 title: Tumbling Strike, Feat 8
 collapse: closed
-# Tumbling Strike  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  [move](rules/traits/move.md "Move Combat Trait")  
 
 - **Prerequisites**: [Acrobat Dedication](compendium/feats/acrobat-dedication-apg.md)
@@ -101,7 +96,6 @@ Attempt an [Acrobatics](compendium/skills.md#Acrobatics) check against the Refle
 ```ad-embed-feat
 title: Tumbling Opportunist, Feat 10
 collapse: closed
-# Tumbling Opportunist  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [attack](rules/traits/attack.md "Attack Combat Trait")  
 
 - **Prerequisites**: [Acrobat Dedication](compendium/feats/acrobat-dedication-apg.md)

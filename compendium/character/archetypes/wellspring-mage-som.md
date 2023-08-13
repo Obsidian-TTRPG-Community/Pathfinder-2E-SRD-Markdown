@@ -69,7 +69,6 @@ A wellspring surge always has the trait of your magical tradition, plus any trai
 ```ad-embed-feat
 title: Wellspring Mage Dedication, Feat 2
 collapse: closed
-# Wellspring Mage Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [class](rules/traits/class-som.md "Class Class Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Prerequisites**: wellspring magic
@@ -85,7 +84,6 @@ There's no longer a limit on how many temporary spell slots you can gain per day
 ```ad-embed-feat
 title: Wellspring Control, Feat 4
 collapse: closed
-# Wellspring Control  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  
 
 - **Prerequisites**: [Wellspring Mage Dedication](compendium/feats/wellspring-mage-dedication-som.md)
@@ -99,7 +97,6 @@ When you generate a wellspring surge, roll twice on [Table 5–2](rules/tables/w
 ```ad-embed-feat
 title: Urgent Upwelling, Feat 6
 collapse: closed
-# Urgent Upwelling  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Wellspring Mage Dedication](compendium/feats/wellspring-mage-dedication-som.md)
@@ -116,7 +113,6 @@ Defeat lets you to tap into your wellspring. Attempt the flat check for wellspri
 ```ad-embed-feat
 title: Energetic Resonance, Feat 8*
 collapse: closed
-# Energetic Resonance  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 > [!pf2-note] This version of [Energetic Resonance](compendium/feats/energetic-resonance-apg.md) is intended for use with the Wellspring Mage Archetype. Its level has been changed accordingly.
@@ -134,7 +130,6 @@ Your blood resonates with magical energy, mitigating the effects of harmful spel
 ```ad-embed-feat
 title: Spell Relay, Feat 8*
 collapse: closed
-# Spell Relay  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 > [!pf2-note] This version of [Spell Relay](compendium/feats/spell-relay-apg.md) is intended for use with the Wellspring Mage Archetype. Its level has been changed accordingly.
@@ -151,7 +146,6 @@ You open the power in your blood to your ally's spellcasting, using your magic t
 ```ad-embed-feat
 title: Surging Might, Feat 10*
 collapse: closed
-# Surging Might  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
 [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  [oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  
 
 > [!pf2-note] This version of [Surging Might](compendium/feats/surging-might-apg.md) is intended for use with the Wellspring Mage Archetype. Its level has been changed accordingly.
@@ -167,7 +161,6 @@ With a complex gesture, you focus the divine power of your spell to overcome ene
 ```ad-embed-feat
 title: Interfering Surge, Feat 12*
 collapse: closed
-# Interfering Surge  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 12*  
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Interfering Surge](compendium/feats/interfering-surge-som.md) is intended for use with the Wellspring Mage Archetype. Its level has been changed accordingly.
@@ -190,7 +183,6 @@ If the triggering spell is successfully counteracted, it creates a wellspring su
 ```ad-embed-feat
 title: Scintillating Spell, Feat 16*
 collapse: closed
-# Scintillating Spell  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 16*  
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [light](rules/traits/light.md "Light Effect Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 > [!pf2-note] This version of [Scintillating Spell](compendium/feats/scintillating-spell-apg.md) is intended for use with the Wellspring Mage Archetype. Its level has been changed accordingly.
@@ -206,7 +198,6 @@ Your spells become a radiant display of light and color. If your next action is 
 ```ad-embed-feat
 title: Echoing Spell, Feat 18*
 collapse: closed
-# Echoing Spell  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 18*  
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 > [!pf2-note] This version of [Echoing Spell](compendium/feats/echoing-spell-apg.md) is intended for use with the Wellspring Mage Archetype. Its level has been changed accordingly.

@@ -13,10 +13,10 @@ aliases: ["Read Fate"]
 # Read Fate *Focus 1*   
 [cleric](rules/traits/cleric.md "Cleric Class Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [prediction](rules/traits/prediction.md "Prediction Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains**: [fate](compendium/setting/domains.md#Fate)
+- **Domains** [fate](compendium/setting/domains.md#Fate)
 - **Cast** 1 minute 
-- **Range**10 foot
-- **Targets**1 creature other than you
+- **Range**: 10 foot
+- **Targets**: 1 creature other than you
 
 You attempt to learn more about the target's fate in the short term, usually within the next day for most prosaic creatures, or the next hour or less for someone likely to have multiple rapid experiences, such as someone actively adventuring.
 

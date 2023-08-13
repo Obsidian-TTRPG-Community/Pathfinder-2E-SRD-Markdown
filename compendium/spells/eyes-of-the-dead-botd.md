@@ -13,9 +13,9 @@ aliases: ["Eyes of the Dead"]
 [divination](rules/traits/divination.md "Divination School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**mile
-- **Targets**one undead creature under your control
-- **Duration**sustained up to 1 minute
+- **Range**: mile
+- **Targets**: one undead creature under your control
+- **Duration**: sustained up to 1 minute
 
 You enter a magical trance that allows you to perceive through the senses of the target creature. You attempt [Perception](compendium/skills.md#Perception) checks using your own [Perception](compendium/skills.md#Perception), but you have any special senses the target has, such as low-light vision or darkvision.
 

@@ -14,7 +14,8 @@ aliases: ["Spirit Veil"]
 
 - **Bloodline** Sorcerer
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Duration**1 minute
+- 
+- **Duration**: 1 minute
 
 You draw an occluding veil of spirits around yourself, blocking yourself especially well from undead eyes. You become [concealed](rules/conditions.md#Concealed) to all creatures, and you are [hidden](rules/conditions.md#Hidden) from undead creatures regardless of what precise senses they have; this grants the effects of invisibility, but against all the undead creature's precise senses. If you physically interact with an undead creature or use a [hostile](rules/conditions.md#Hostile) action, the spell ends.
 

@@ -12,12 +12,12 @@ aliases: ["Draw Ire"]
 # Draw Ire *Spell 1*   
 [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**120 foot
-- **Targets**1 creature
-- **Saving Throw** Will
-- **Duration**1 minute
+- **Range**: 120 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Will
+- **Duration**: 1 minute
 
 You cause mental distress to a creature, goading it to strike back at you. You deal `1d10` mental damage to the creature and cause it to take a –1 status penalty to attack rolls against creatures other than you. The creature must attempt a Will saving throw.
 

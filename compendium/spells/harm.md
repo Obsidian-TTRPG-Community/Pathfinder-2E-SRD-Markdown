@@ -11,10 +11,10 @@ aliases: ["Harm"]
 # Harm *Spell 1*   
 [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait")
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") to [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**varies
-- **Targets**1 living creature or 1 willing undead creature
+- **Range**: varies
+- **Targets**: 1 living creature or 1 willing undead creature
 
 You channel negative energy to harm the living or heal the undead. If the target is a living creature, you deal `1d8` negative damage to it, and it gets a basic Fortitude save.
 

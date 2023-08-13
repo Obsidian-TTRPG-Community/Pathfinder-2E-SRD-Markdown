@@ -14,11 +14,11 @@ aliases: ["Overflowing Sorrow"]
 # Overflowing Sorrow *Focus 4*   
 [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-- **Domains**: [sorrow](compendium/setting/domains.md#Sorrow)
+- **Domains** [sorrow](compendium/setting/domains.md#Sorrow)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Area**15-foot emanation, centered on you
-- **Saving Throw** Will
-- **Duration**sustained up to 1 minute
+- **Area**: 15-foot emanation, centered on you
+- **Saving Throw**: Will
+- **Duration**: sustained up to 1 minute
 
 Sadness flows out of you into nearby creatures, blotting out any other thoughts they had. The first time a creature begins its turn in the area or enters the area, it must attempt a Will save. If it later leaves and reenters the area, it uses the same effect as before.
 

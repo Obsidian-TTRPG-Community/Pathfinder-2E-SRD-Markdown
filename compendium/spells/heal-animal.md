@@ -15,8 +15,8 @@ aliases: ["Heal Animal"]
 [druid](rules/traits/druid.md "Druid Class Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") to [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 willing living animal creature
+- **Range**: 30 foot
+- **Targets**: 1 willing living animal creature
 
 You heal an animal's wounds, restoring `1d8` Hit Points to the target. The number of actions spent [Casting this Spell](rules/actions/cast-a-spell.md) determines its effect.
 

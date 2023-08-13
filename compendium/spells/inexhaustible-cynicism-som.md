@@ -12,11 +12,11 @@ aliases: ["Inexhaustible Cynicism"]
 # Inexhaustible Cynicism *Spell 7*   
 [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**up to 5 creatures
-- **Saving Throw** Will
+- **Range**: 30 foot
+- **Targets**: up to 5 creatures
+- **Saving Throw**: Will
 
 You inflict your targets with a crushing doubt about everyone and everything around them. For the duration, each target is unwilling to receive any effects that require a willing target (in case the effect was secretly an attack), refuse to ingest anything (in case the substances have been replaced with poisons and cursed duplicates), doesn't treat anyone as an ally (in case its friends were replaced by an impostor), and doesn't believe anything it's told (in case of lies, though this doesn't mean the creature automatically believes the opposite either). It doesn't even fully trust its own ability to [Recall Knowledge](rules/actions/recall-knowledge.md), as it becomes convinced it most likely remembered false information, as from a critical failure on a check to [Recall Knowledge](rules/actions/recall-knowledge.md).
 

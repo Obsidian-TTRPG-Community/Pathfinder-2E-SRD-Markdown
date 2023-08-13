@@ -11,10 +11,11 @@ aliases: ["Righteous Might"]
 # Righteous Might *Spell 6*   
 [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Requirements**You have a deity.
-- **Duration**1 minute
+- **Requirements**: You have a deity.
+- 
+- **Duration**: 1 minute
 
 You focus all your divine energy and transform yourself into a Medium battle form, similar to your normal form but armed with powerful divine armaments granted by your deity. While in this form, you gain the statistics and abilities listed below. You have hands in this battle form and can use manipulate actions. You can [Dismiss](rules/actions/dismiss.md) the spell.
 

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/contact
@@ -15,9 +15,8 @@ aliases: ["Violet Venom"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [contact](rules/traits/contact.md "Contact Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 12 gp
-- **Usage** held in 2 hands; **Bulk** L
+- **Bulk** L; **Usage** held in 2 hands
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 The delicate process of extracting violet venom from a violet fungus leaves it diluted at the best of times. Alchemists are still on the hunt for a truly pure, unadulterated version of this highly toxic poison.
 
@@ -36,4 +35,6 @@ title: Saving Throw: DC 17 Fortitude
 **Stage 3** `2d6` poison plus [enfeebled](rules/conditions.md#Enfeebled) (1 round)
 ```
 
+
+---
 *Source: Treasure Vault p. 71*

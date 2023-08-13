@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/lotgb
-- item/category/armor
+- item/category/armor/
 - trait/abjuration
 - trait/invested
 - trait/magical
@@ -14,8 +14,7 @@ aliases: ["Psychic Brigandine"]
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 3000 gp
-- **Usage** worn armor; **Bulk** 2
-- **Category** Armor
+- **Bulk** 2; **Usage** worn armor
 
 Transparent crystals as hard as steel take the place of metal plates on this suit of +2 greater invisibility splint mail.
 
@@ -23,4 +22,6 @@ Also known as a coat of a thousand thoughts in Vudra and Jalmeray, where it was 
 
 Whenever you use the armor to become [invisible](rules/conditions.md#Invisible), you also become psychically [invisible](rules/conditions.md#Invisible). Each time you would be affected by an effect with the [mental](rules/traits/mental.md "Mental Effect Trait") trait while you are Lost & Found Wares.
 
+
+---
 *Source: Lost Omens: The Grand Bazaar p. 42*

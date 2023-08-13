@@ -11,12 +11,12 @@ aliases: ["Coral Eruption"]
 # Coral Eruption *Spell 4*   
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**120 foot
-- **Area**two 10-foot bursts that don't overlap
-- **Saving Throw**  basic Reflex
-- **Duration**1 minute
+- **Range**: 120 foot
+- **Area**: two 10-foot bursts that don't overlap
+- **Saving Throw**:  basic Reflex
+- **Duration**: 1 minute
 
 Razor sharp coral growths erupt from the ground, transforming the landscape into a dangerous coral reef.
 

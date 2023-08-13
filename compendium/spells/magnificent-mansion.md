@@ -12,10 +12,10 @@ aliases: ["Magnificent Mansion"]
 # Magnificent Mansion *Spell 7*   
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [extradimensional](rules/traits/extradimensional.md "Extradimensional Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 1 minute 
-- **Range**30 foot
-- **Duration**until the next time you make your daily preparations
+- **Range**: 30 foot
+- **Duration**: until the next time you make your daily preparations
 
 You conjure an extradimensional demiplane consisting of a spacious dwelling with a single entrance. The entrance connects to the plane where you [Cast the Spell](rules/actions/cast-a-spell.md), appearing anywhere within the spell's range as a faint, shimmering, vertical rectangle 5 feet wide and 10 feet high. You designate who can enter when you cast the spell. Once inside, you can shut the entrance, making it [invisible](rules/conditions.md#Invisible). You and the creatures you designated can reopen the door at will, just like opening a physical door.
 

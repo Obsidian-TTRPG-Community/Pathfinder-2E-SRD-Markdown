@@ -18,51 +18,47 @@ A haunted mural fascinates characters and swiftly drains their vitality.
 
 - **Disable** [Occultism](compendium/skills.md#Occultism) DC 38 (master) or [Religion](compendium/skills.md#Religion) DC 38 (master) to calm the restless energies and suppress the haunt for 1 hour; a critical success deactivates the haunt permanently.  
 
-- **AC** 20 , **Fort** +13, **Ref** +5
-- **Painting  Hardness** 15, **Painting  HP** 30 per square (6 squares must be destroyed to disable the haunt)
+- **AC** 20, **Fort** +13, **Ref** +5
+- **Painting Hardness** 15, **Painting HP** 30 per square (6 squares must be destroyed to disable the haunt)
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Lifelike Scintillation [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[divination](rules/traits/divination.md "Divination School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
+title: **Lifelike Scintillation** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([divination](rules/traits/divination.md), [occult](rules/traits/occult.md))
 
 - **Trigger**: A living creature examines the mural or enters the room
 
 **Effect** The haunt activates and rolls initiative.  
-%% #trait/divination #trait/occult %%
+%%
+ #trait/divination  #trait/occult 
+%%
 ```
 
 ````ad-pf2-summary
 title: Routine
+
 (2 actions) The haunt lures creatures into area **A2** using Captivate. Any actions it hasn't used to Captivate are used to drain a living creature in the room with Live a Thousand Lives.
-
 ```ad-embed-ability
-title: Captivate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[charm](rules/traits/charm-b1.md "Charm  Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
-
+title: **Captivate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") ([charm](rules/traits/charm-b1.md), [enchantment](rules/traits/enchantment.md), [incapacitation](rules/traits/incapacitation.md), [mental](rules/traits/mental.md), [occult](rules/traits/occult.md))
 The faintly moving images compel one creature within 30 feet of the room to move into the room. The creature attempts a DC 38 Will save.
-
 > [!success-degree] 
 > - **Success** The target is unaffected.
 > - **Failure** The target must spend all its actions on its next turn moving into the room, and is then [paralyzed](rules/conditions.md#Paralyzed) until the end of its next turn.
 > - **Critical Failure** As failure, and the target is also [stupefied](rules/conditions.md#Stupefied) for 1 minute.  
-%% #trait/charm #trait/enchantment #trait/incapacitation #trait/mental #trait/occult %%
+%%
+ #trait/charm  #trait/enchantment  #trait/incapacitation  #trait/mental  #trait/occult 
+%%
 ```
-
 ```ad-embed-ability
-title: Live a Thousand Lives [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[mental](rules/traits/mental.md "Mental Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
-
+title: **Live a Thousand Lives** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") ([mental](rules/traits/mental.md), [occult](rules/traits/occult.md))
 The haunt causes a living creature in the room to experience a full elven life, weathering every wound, misfortune, loss, and consequence of aging centuries in a matter of seconds. The target must attempt a DC 38 Fortitude save.
-
 > [!success-degree] 
 > - **Critical Success** The target is unaffected.
 > - **Success** The target becomes [fatigued](rules/conditions.md#Fatigued).
 > - **Failure** The target becomes [drained](rules/conditions.md#Drained) (or its [drained](rules/conditions.md#Drained) value increases by 1, to a maximum of [drained](rules/conditions.md#Drained)), and it is [paralyzed](rules/conditions.md#Paralyzed) until the end of its next turn.
 > - **Critical Failure** As failure, but the target also becomes [doomed](rules/conditions.md#Doomed) (or its [doomed](rules/conditions.md#Doomed) value increases by 1).  
-%% #trait/mental #trait/occult %%
+%%
+ #trait/mental  #trait/occult 
+%%
 ```
 ````
 ^routine

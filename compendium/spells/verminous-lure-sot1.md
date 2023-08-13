@@ -12,11 +12,11 @@ aliases: ["Verminous Lure"]
 # Verminous Lure *Spell 1*   
 [olfactory](rules/traits/olfactory-b1.md "Olfactory Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 creature or object
-- **Duration**10 minutes
+- **Range**: 30 foot
+- **Targets**: 1 creature or object
+- **Duration**: 10 minutes
 
 Upon casting, the target emits a musk that's captivating to certain animals. Tiny animals and animal swarms of any size within range must attempt a Will save. On a failure, non-[hostile](rules/conditions.md#Hostile) animals or animal swarms try to touch the target. If [hostile](rules/conditions.md#Hostile), such creatures choose to attack the target instead of other foes, if able to do so without spending additional actions or exposing themselves to additional danger.
 

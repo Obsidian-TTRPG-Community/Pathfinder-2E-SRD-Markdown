@@ -20,10 +20,10 @@ aliases: ["Evil Eye"]
 
 - **Patron** Witch
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**30 foot
-- **Targets**1 creature
-- **Saving Throw** Will
-- **Duration**sustained up to 1 minute
+- **Range**: 30 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Will
+- **Duration**: sustained up to 1 minute
 
 Your fix your eye on the target, imposing a malevolent hex.
 

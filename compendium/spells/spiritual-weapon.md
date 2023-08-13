@@ -11,10 +11,10 @@ aliases: ["Spiritual Weapon"]
 # Spiritual Weapon *Spell 2*   
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**120 foot
-- **Duration**sustained up to 1 minute
+- **Range**: 120 foot
+- **Duration**: sustained up to 1 minute
 
 A weapon made of pure magical force materializes and attacks foes you designate within range. This weapon has a ghostly appearance and manifests as a club, a dagger, or your deity's favored weapon.
 

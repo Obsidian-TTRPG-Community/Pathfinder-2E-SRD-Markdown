@@ -17,14 +17,11 @@ Hands of the buried dead rise from the ground, grabbing and tearing at creatures
 
 - **Disable** DC 22 [Religion](compendium/skills.md#Religion) (trained) to ritually pray for the dead or DC 24 [Occultism](compendium/skills.md#Occultism) (trained) to exorcise the spirits' anger; two total successes are required to disable the haunt  
 
-- null, null
-- **Hardness** 10, ; **per instrument HP** 22 (BT 11)
+- **Hardness** 10; **per instrument HP** 22 (BT 11)
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Shifting Earth [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Shifting Earth** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: At least two creatures enter the area
 
@@ -33,6 +30,7 @@ title: Shifting Earth [R](rules/core-rulebook/chapter-9-playing-the-game.md#Acti
 
 ```ad-pf2-summary
 title: Routine
+
 (1 action) The grasping hands batter all creatures in the area, dealing `2d6+7` bludgeoning damage (DC 26 basic Reflex save). On a critical failure, a creature is dragged partially into the earth, becoming [immobilized](rules/conditions.md#Immobilized) until it [Escapes](rules/actions/escape.md) (DC 26). If already [immobilized](rules/conditions.md#Immobilized), it's fully submerged and must hold its breath to avoid suffocation.
 ```
 ^routine

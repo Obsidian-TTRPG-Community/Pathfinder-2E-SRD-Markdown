@@ -10,10 +10,11 @@ aliases: ["Blanket Of Stars"]
 # Blanket Of Stars *Spell 6*   
 [illusion](rules/traits/illusion.md "Illusion School Trait")  
 
-- **Traditions**: [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Saving Throw** Will
-- **Duration**10 minutes
+- 
+- **Saving Throw**: Will
+- **Duration**: 10 minutes
 
 A flowing cloak of utter darkness drapes over you, filled with pinpricks of light like distant stars. It imparts the stillness of the cosmos to you, granting you a +2 status bonus to [Stealth](compendium/skills.md#Stealth) checks to [Hide](rules/actions/hide.md) and [Sneak](rules/actions/sneak.md). While outside under a starry night sky, you're also [invisible](rules/conditions.md#Invisible) as long as you remain still. When moving under a starry night sky, you are [concealed](rules/conditions.md#Concealed) instead.
 

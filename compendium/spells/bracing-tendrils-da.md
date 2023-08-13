@@ -11,9 +11,10 @@ aliases: ["Bracing Tendrils"]
 # Bracing Tendrils *Spell 3*   
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Duration**1 minute
+- 
+- **Duration**: 1 minute
 
 Visible tendrils of force anchor your body to the ground, preventing unwanted movement. Whenever you're on the ground and a creature or effect attempts to forcibly move you from your space, you can use your spell DC in place of your Fortitude DC as the DC of the check to move you. If a creature wouldn't normally need a check to move you, it must succeed at an appropriate check (usually an [Athletics](compendium/skills.md#Athletics) check for physical movement) against your spell DC or you are unmoved; if an effect wouldn't normally need a check to move you, it must counteract bracing tendrils or you are unmoved. When a creature fails to move you in this way, you can choose to have the tendrils lash back and push them 5 feet away from you.
 

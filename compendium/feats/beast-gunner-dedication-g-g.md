@@ -23,7 +23,7 @@ If you already cast arcane or primal spells from spell slots, you learn one addi
 You also gain Spellsling.
 
 ```ad-embed-ability
-title: Spellsling [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")
+title: **Spellsling** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")
 
 - **Requirements**: You're wielding your bonded beast gun
 

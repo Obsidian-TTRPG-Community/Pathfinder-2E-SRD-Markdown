@@ -13,12 +13,12 @@ aliases: ["Trickster's Twin"]
 # Trickster's Twin *Focus 4*   
 [cleric](rules/traits/cleric.md "Cleric Class Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
-- **Domains**: [trickery](compendium/setting/domains.md#Trickery)
+- **Domains** [trickery](compendium/setting/domains.md#Trickery)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 creature
-- **Saving Throw** Will
-- **Duration**1 minute
+- **Range**: 30 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Will
+- **Duration**: 1 minute
 
 You rarely settle for being in just one place. Choose a location within 100 feet of the target that the target can see. You create an illusion of yourself there that only it can see and that mimics all your actions. The target must attempt a Will save.
 

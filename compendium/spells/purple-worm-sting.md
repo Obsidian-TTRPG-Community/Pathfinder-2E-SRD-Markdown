@@ -11,11 +11,11 @@ aliases: ["Purple Worm Sting"]
 # Purple Worm Sting *Spell 6*   
 [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Targets**1 creature
-- **Saving Throw** Fortitude
+- **Range**: touch
+- **Targets**: 1 creature
+- **Saving Throw**: Fortitude
 
 You replicate the attack of a deadly purple worm. You deal `3d6` piercing damage to the touched creature and afflict it with purple worm venom. The target must attempt a Fortitude save.
 

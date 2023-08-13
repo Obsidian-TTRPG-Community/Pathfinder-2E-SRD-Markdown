@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/crb
-- item/category/elixir
+- item/category/elixir/
 - trait/alchemical
 - trait/consumable
 - trait/elixir
@@ -14,9 +14,8 @@ aliases: ["Infiltrator's Elixir"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [elixir](rules/traits/elixir.md "Elixir Item Trait")  [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  
 
 - **Price** 6 gp
-- **Usage** held in 1 hand; **Bulk** L
+- **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Elixir
 
 Favored by spies and tricksters, an infiltrator's elixir is used to alter your appearance. When imbibed, you take the shape of a humanoid creature of your size, but different enough so you might be unrecognizable. If you aren't a humanoid, you might take on a form more similar to your own, at the GM's discretion.
 
@@ -24,4 +23,6 @@ The creator of the elixir decides the basics of the appearance you transform int
 
 Drinking this elixir counts as setting up a disguise to [Impersonate](rules/actions/impersonate.md). You gain a +4 status bonus to your [Deception](compendium/skills.md#Deception) DC to avoid others seeing through your disguise, and you add your level to this DC even if untrained.
 
+
+---
 *Source: Core Rulebook p. 548*

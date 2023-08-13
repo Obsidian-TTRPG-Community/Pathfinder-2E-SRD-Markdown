@@ -18,14 +18,12 @@ A pressure plate in the hallway floor releases a latch, causing a ceiling panel 
 
 - **Disable** DC 20 [Thievery](compendium/skills.md#Thievery) (Expert) or [Crafting](compendium/skills.md#Crafting) (Trained) to disengage the reloading mechanism; the trap can also be disabled by the switch in area F2  
 
-- **AC** 22 , **Fort** +15, **Ref** +9
+- **AC** 22, **Fort** +15, **Ref** +9
 - **Hardness** 12, **HP** 50 (BT 25)
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Auto-Bolter [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Auto-Bolter** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: An object or creature weighing at least 25 pounds steps on the pressure plate at the south end of the hallway
 
@@ -36,6 +34,7 @@ The repeater crossbow trap Strikes a random creature in the hallway. The trap th
 
 ```ad-pf2-summary
 title: Routine
+
 (3 actions) The repeater crossbow trap reloads (2 actions) then Strikes a random creature in the hallway.
 ```
 ^routine

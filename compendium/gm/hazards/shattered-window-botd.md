@@ -15,9 +15,9 @@ aliases: ["Shattered Window"]
 The anger trapped within a structure shatters a window, showering glass in adjacent spaces.
 
 - **Disable** DC 19 [Occultism](compendium/skills.md#Occultism) or [Religion](compendium/skills.md#Religion) (trained) to suppress the spiritual energy or DC 20 [Diplomacy](compendium/skills.md#Diplomacy) (trained) to soothe the latent anger  
-     
+
 ```ad-embed-ability
-title: Shatter [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Shatter** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature moves adjacent to the window
 

@@ -13,10 +13,10 @@ aliases: ["Ray Of Frost"]
 # Ray Of Frost *Cantrip 1*   
 [attack](rules/traits/attack.md "Attack Combat Trait")  [cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [cold](rules/traits/cold.md "Cold Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**120 foot
-- **Targets**1 creature
+- **Range**: 120 foot
+- **Targets**: 1 creature
 
 You blast an icy ray. Make a spell attack roll. The ray deals cold damage equal to `1d4` + your spellcasting ability modifier.
 

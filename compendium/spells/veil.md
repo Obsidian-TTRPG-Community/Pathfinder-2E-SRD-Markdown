@@ -11,11 +11,11 @@ aliases: ["Veil"]
 # Veil *Spell 4*   
 [illusion](rules/traits/illusion.md "Illusion School Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**up to 10 creatures
-- **Duration**1 hour
+- **Range**: 30 foot
+- **Targets**: up to 10 creatures
+- **Duration**: 1 hour
 
 You disguise the targets as other creatures of the same body shape and roughly similar height (within 6 inches) and weight (within 50 pounds). The disguise can hide the targets' identities or let them appear to be of another ancestry, but it's not precise enough to impersonate specific individuals. The spell doesn't change voice, scent, or mannerisms. You choose the disguise for each target; for example, you could make one target appear to be a dwarf and another an elf.
 

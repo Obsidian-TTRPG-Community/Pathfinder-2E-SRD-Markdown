@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/g&g
-- item/category/held
+- item/category/held/
 - trait/cursed
 - trait/magical
 - trait/rare
@@ -13,8 +13,7 @@ aliases: ["Arboreal's Revenge"]
 # Arboreal's Revenge *Item 6*  
 [cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Usage** held in 2 hands; **Bulk** 2
-- **Category** Held
+- **Bulk** 2; **Usage** held in 2 hands
 
 This walnut and brass +1 striking blunderbuss has a natural look, with wood worn smooth by time, but left knotted and gnarled. The handgrip beneath the flared muzzle is a wellpositioned bulging tree knot, and the long stock looks as if it was grown to fit you. On closer examination, the whorls and rings in the wood resemble eyes.
 
@@ -31,15 +30,21 @@ The arboreal haunting the firearm can use the following two effects whenever it 
 You can coax it into performing them each intentionally once per day, with the following activations.
 
 ```ad-embed-ability
-title: Activate [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
+title: **Activate** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") command
 
-The arboreal haunting the blunderbuss attempts to regrow itself into a new physical body by sprouting from the bodies of all the creatures that the firearm recently harmed. You and all creatures within 60 feet damaged by arboreal's revenge within the last minute must attempt a DC 20 Fortitude saving throw. On a failure, they take a –10-foot circumstance penalty to their Speeds as roots rapidly sprout from their wounds, which lasts until they [Escape](rules/actions/escape.md) (DC 20).
+- **Frequency**: once per day
+
+**Effect** The arboreal haunting the blunderbuss attempts to regrow itself into a new physical body by sprouting from the bodies of all the creatures that the firearm recently harmed. You and all creatures within 60 feet damaged by arboreal's revenge within the last minute must attempt a DC 20 Fortitude saving throw. On a failure, they take a –10-foot circumstance penalty to their Speeds as roots rapidly sprout from their wounds, which lasts until they [Escape](rules/actions/escape.md) (DC 20).
 ```
 
 ```ad-embed-ability
-title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
+title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") command, [Interact](rules/actions/interact.md)
 
-You cast [barkskin](compendium/spells/barkskin.md) from the blunderbuss as a 2ndlevel primal spell. However, the weakness to fire imposed by barkskin is cumulative with the weakness to fire imposed by this weapon's curse, for a total of weakness 8 to fire.
+- **Frequency**: once per day
+
+**Effect** You cast [barkskin](compendium/spells/barkskin.md) from the blunderbuss as a 2ndlevel primal spell. However, the weakness to fire imposed by barkskin is cumulative with the weakness to fire imposed by this weapon's curse, for a total of weakness 8 to fire.
 ```
 
+
+---
 *Source: Guns & Gears p. 160*

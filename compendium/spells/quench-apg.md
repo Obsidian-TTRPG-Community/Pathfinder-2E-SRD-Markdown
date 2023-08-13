@@ -12,11 +12,11 @@ aliases: ["Quench"]
 # Quench *Spell 2*   
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**120 foot
-- **Area**20-foot burst
-- **Duration**sustained
+- **Range**: 120 foot
+- **Area**: 20-foot burst
+- **Duration**: sustained
 
 You cause the air in the area to become supersaturated with water vapor. Non-magical fires within the area are automatically extinguished. Fire creatures within the area take `4d8` damage (basic Fortitude save). Choose one magical fire, fire spell, or fire item in the area and attempt to counteract it. If you succeed against an item, the item loses its fire properties for 10 minutes (for instance, a +1 flaming longsword would become a +1 longsword). If the target is an artifact or similarly powerful item, you automatically fail to counteract it.
 

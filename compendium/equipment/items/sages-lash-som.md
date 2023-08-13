@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/som
-- item/category/apex
+- item/category/apex/
 - trait/apex
 - trait/invested
 - trait/magical
@@ -15,7 +15,6 @@ aliases: ["Sage's Lash"]
 
 - **Price** 24000 gp
 - **Usage** worn belt
-- **Category** Apex
 
 The thin, glittering strands of rope that comprise this thick belt appear to be spun gold. Strung along the front of the belt are a collection of four multicolored, perfectly spherical beads: jade, turquoise, quartz, and amethyst.
 
@@ -24,7 +23,8 @@ While wearing the lash, you gain a +3 item bonus to [Religion](compendium/skills
 When you invest the belt, you either increase your Wisdom score by 2 or to 18, whichever would give you a higher score.
 
 ```ad-embed-ability
-title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
+title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") command, [Interact](rules/actions/interact.md)
+
 
 You touch one of the jewels affixed to the sage's lash and speak a command word. Depending on the jewel, a different effect is produced that affects you and all living creatures in a 30-foot emanation. After the effect occurs, all four jewels disappear from the lash, reappearing at the next dawn.
 
@@ -34,4 +34,6 @@ You touch one of the jewels affixed to the sage's lash and speak a command word.
 - **Amethyst** (divination, light, revelation) Speak "verity" to emit a magical trail of light from the lash that reveals the location of each creature in the emanation. For 1 round, if they would be [invisible](rules/conditions.md#Invisible), they become [concealed](rules/conditions.md#Concealed) instead, and if they would be [undetected](rules/conditions.md#Undetected) or [unnoticed](rules/conditions.md#Unnoticed) by a creature, they're [hidden](rules/conditions.md#Hidden) instead. A creature can attempt a DC 43 [Stealth](compendium/skills.md#Stealth) check to avoid the lash's detection.
 ```
 
+
+---
 *Source: Secrets of Magic p. 189*

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
-- item/category/grimoire
+- item/category/grimoire/
 - trait/darkness
 - trait/evocation
 - trait/grimoire
@@ -16,14 +16,17 @@ aliases: ["Undertaker's Manifest"]
 
 - **Price** 220 gp
 - **Bulk** L
-- **Category** Grimoire
 
 This grim collection of spreadsheets is used both by undertakers who occasionally need to avoid the notice of their more restless clients, and by industrious necromancers looking to avoid catching the notice of cemetery guards and vigilant undertakers.
 
 ```ad-embed-ability
-title: Activate [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
+title: **Activate** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") envision
 
-If your next action is to cast a necromancy spell, the spell's casting is accompanied by a roiling cloud of shadow that spills out around you, creating dim light in a 30-foot emanation centered on you for the next 3 rounds. This has no effect on areas where the lighting level is already darker than dim light.
+- **Frequency**: once per day
+
+**Effect** If your next action is to cast a necromancy spell, the spell's casting is accompanied by a roiling cloud of shadow that spills out around you, creating dim light in a 30-foot emanation centered on you for the next 3 rounds. This has no effect on areas where the lighting level is already darker than dim light.
 ```
 
+
+---
 *Source: Treasure Vault p. 113*

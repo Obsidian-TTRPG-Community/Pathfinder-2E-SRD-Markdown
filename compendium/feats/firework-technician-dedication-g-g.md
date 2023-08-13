@@ -20,9 +20,7 @@ You become trained in [Fireworks Lore](compendium/skills.md#Lore) or become an e
 You can also create special fireworks displays using your infused reagents, designed to create distinctive effects you can use to make onlookers marvel and even to gain an advantage in combat. You gain the Launch Fireworks Display action and learn some basic displays, and you can learn additional, more complex displays through other firework technician feats. The DC for any display is equal to your class DC or spell DC, whichever is higher.
 
 ```ad-embed-ability
-title: Launch Fireworks Display [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies")
-[manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
-
+title: **Launch Fireworks Display** [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies") Varies ([>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") to [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") (see below)) ([manipulate](rules/traits/manipulate.md))
 - **Cost**: 1 or more batches of infused reagents
 - **Requirements**: You have a free hand
 
@@ -31,7 +29,9 @@ title: Launch Fireworks Display [V](rules/core-rulebook/chapter-9-playing-the-ga
 - **Comet** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") ([visual](rules/traits/visual.md "Visual Effect Trait")) You shoot a streak of shining light in a 60-foot line. All spaces in that line are lit with bright light until the start of your next turn. As part of this action, you can also [Point Out](rules/actions/point-out.md) a single creature in the line, and your allies do not need to hear or understand you.
 - **Flower** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") ([visual](rules/traits/visual.md "Visual Effect Trait")) You ignite a ring of sparks, creating a shape that might be reminiscent of a flower blooming in the sky. Each enemy with 20 feet of you must attempt a Fortitude save. On a failure, the enemy is [dazzled](rules/conditions.md#Dazzled) for 1 round, and on a critical failure they are [dazzled](rules/conditions.md#Dazzled) for 2 rounds.
 - **Salute** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") ([auditory](rules/traits/auditory.md "Auditory Effect Trait")) You create a startling bang or whistle, adding an [auditory](rules/traits/auditory.md "Auditory Effect Trait") component to your fireworks display. When you launch a salute display, you can choose a [confused](rules/conditions.md#Confused) or [fascinated](rules/conditions.md#Fascinated) ally within 60 feet. If the ally you chose is [fascinated](rules/conditions.md#Fascinated), the noise is so violent that it acts as a [hostile](rules/conditions.md#Hostile) effect for the purpose of their [fascinated](rules/conditions.md#Fascinated) condition (though it has no negative repercussions) automatically ending most applications of the [fascinated](rules/conditions.md#Fascinated) condition. If they're [confused](rules/conditions.md#Confused), the sound is so loud and violent that it might snap the ally out of confusion. They can immediately attempt the flat check to remove the [confused](rules/conditions.md#Confused) condition which normally occurs when a creature is damaged. If the [confused](rules/conditions.md#Confused) condition has special rules that remove the flat check when taking damage or make the flat check harder, those rules also apply to the salute.  
-%% #trait/manipulate %%
+%%
+ #trait/manipulate 
+%%
 ```
 
 **Special.** You can't select another dedication feat until you've gained two other feats from the fireworks technician archetype.

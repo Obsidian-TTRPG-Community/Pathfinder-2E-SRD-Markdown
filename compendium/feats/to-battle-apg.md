@@ -8,7 +8,7 @@ tags:
 - trait/flourish
 aliases: ["To Battle!"]
 ---
-# To Battle!  [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies") *Feat 8*  
+# To Battle!  [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies") Varies ([>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") OR [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")) *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 - **Prerequisites**: [Marshal Dedication](compendium/feats/marshal-dedication-apg.md)

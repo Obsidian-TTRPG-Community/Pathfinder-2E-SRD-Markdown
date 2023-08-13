@@ -27,7 +27,6 @@ The free alchemical items from the alchemist archetype are extremely useful to c
 ```ad-embed-feat
 title: Alchemist Dedication, Feat 2
 collapse: closed
-# Alchemist Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [multiclass](rules/traits/multiclass.md "Multiclass Feat Trait")  
 
 - **Prerequisites**: Intelligence 14
@@ -47,7 +46,6 @@ You also gain the [Alchemical Crafting](compendium/feats/alchemical-crafting.md)
 ```ad-embed-feat
 title: Basic Concoction, Feat 4
 collapse: closed
-# Basic Concoction  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Alchemist Dedication](compendium/feats/alchemist-dedication.md)
@@ -61,7 +59,6 @@ You gain a 1st- or 2nd-level alchemist feat.
 ```ad-embed-feat
 title: Quick Alchemy, Feat 4
 collapse: closed
-# Quick Alchemy  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Alchemist Dedication](compendium/feats/alchemist-dedication.md)
@@ -75,7 +72,6 @@ You gain the [Quick Alchemy](rules/actions/quick-alchemy.md) action.
 ```ad-embed-feat
 title: Advanced Concoction, Feat 6
 collapse: closed
-# Advanced Concoction  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Concoction](compendium/feats/basic-concoction.md)
@@ -91,7 +87,6 @@ You gain one alchemist feat. For the purpose of meeting its prerequisites, your 
 ```ad-embed-feat
 title: Expert Alchemy, Feat 6
 collapse: closed
-# Expert Alchemy  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Alchemist Dedication](compendium/feats/alchemist-dedication.md), expert in [Crafting](compendium/skills.md#Crafting)
@@ -105,7 +100,6 @@ Your advanced alchemy level increases to 3. At 10th level, it increases to 5.
 ```ad-embed-feat
 title: Master Alchemy, Feat 12*
 collapse: closed
-# Master Alchemy  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Master Alchemy](compendium/feats/master-alchemy.md) is intended for use with the Alchemist Archetype. Its level has been changed accordingly.

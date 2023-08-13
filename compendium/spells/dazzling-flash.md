@@ -15,10 +15,10 @@ aliases: ["Dazzling Flash"]
 # Dazzling Flash *Focus 1*   
 [cleric](rules/traits/cleric.md "Cleric Class Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [light](rules/traits/light.md "Light Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
-- **Domains**: [sun](compendium/setting/domains.md#Sun)
+- **Domains** [sun](compendium/setting/domains.md#Sun)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Area**15-foot cone
-- **Saving Throw** Fortitude
+- **Area**: 15-foot cone
+- **Saving Throw**: Fortitude
 
 You raise your religious symbol and create a blinding flash of light. Each creature in the area must attempt a Fortitude save.
 

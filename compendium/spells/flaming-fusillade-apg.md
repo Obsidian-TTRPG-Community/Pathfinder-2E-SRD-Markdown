@@ -16,7 +16,8 @@ aliases: ["Flaming Fusillade"]
 
 - **Mystery** Oracle
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Duration**1 minute
+- 
+- **Duration**: 1 minute
 
 You call upon an endless barrage of flames, producing miniature fireballs in your hands to hurl at foes. You cast [produce flame](compendium/spells/produce-flame.md) as part of casting flaming fusillade. For the duration of flaming fusillade, produce flame's casting time is reduced from 2 actions to 1.
 

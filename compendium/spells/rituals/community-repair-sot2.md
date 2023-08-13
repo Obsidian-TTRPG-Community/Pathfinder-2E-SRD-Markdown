@@ -17,8 +17,8 @@ aliases: ["Community Repair"]
 - **Secondary Casters** 4 or more
 - **Primary Checks** [Performance](compendium/skills.md#Performance) (expert)
 - **Secondary Checks** [Crafting](compendium/skills.md#Crafting), [Performance](compendium/skills.md#Performance), [Society](compendium/skills.md#Society)
-- **Range**10 feet
-- **Targets**1 damaged or [broken](rules/conditions.md#Broken) public work no larger than 3,000 cubic feet (the size of a [Huge](rules/traits/huge-b1.md "Huge Size Trait") creature)
+- **Range**: 10 feet
+- **Targets**: 1 damaged or [broken](rules/conditions.md#Broken) public work no larger than 3,000 cubic feet (the size of a [Huge](rules/traits/huge-b1.md "Huge Size Trait") creature)
 
 You lead your community in repairing a public work, such as a bridge, well, or mural, through the power of memory and art. The primary caster serves as an emcee or leader, while each secondary caster provides a heartfelt anecdote that somehow involves the public work; for instance, recounting a story of playing at a fountain each summer. The anecdotes don't need to be firsthand accounts—a community member might sing of how their grandparents fell in love crossing a bridge every day—but they must be directly connected in some way. The GM can offer a +1 circumstance bonus to the secondary caster whose anecdote seems most moving.
 

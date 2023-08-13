@@ -12,10 +12,10 @@ aliases: ["Summon Kaiju"]
 # Summon Kaiju *Spell 10*   
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [incarnate](rules/traits/incarnate-som.md "Incarnate Spell Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**500 foot
-- **Duration**until the end of your next turn
+- **Range**: 500 foot
+- **Duration**: until the end of your next turn
 
 You briefly conjure a kaiju, a massive, rampaging monster with a unique name and legendary reputation.
 

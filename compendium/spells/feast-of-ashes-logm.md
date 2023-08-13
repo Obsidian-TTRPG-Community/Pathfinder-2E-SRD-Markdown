@@ -11,12 +11,12 @@ aliases: ["Feast Of Ashes"]
 # Feast Of Ashes *Spell 2*   
 [curse](rules/traits/curse.md "Curse Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**30 foot
-- **Targets**1 living creature
-- **Saving Throw** Fortitude
-- **Duration**1 week
+- **Range**: 30 foot
+- **Targets**: 1 living creature
+- **Saving Throw**: Fortitude
+- **Duration**: 1 week
 
 You curse the target with a hunger no food can sate. You can [Dismiss](rules/actions/dismiss.md) the spell. The target must attempt a Fortitude save.
 

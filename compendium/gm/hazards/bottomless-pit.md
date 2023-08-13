@@ -18,14 +18,11 @@ An iron trapdoor covers an infinitely deep 10-foot-square pit.
 
 - **Disable** [Thievery](compendium/skills.md#Thievery) DC 28 (trained) to remove the trapdoor.  
 
-- **AC** 28 , **Fort** +12, **Ref** +12
+- **AC** 28, **Fort** +12, **Ref** +12
 - **Trapdoor Hardness** 9, **Trapdoor HP** 36 (BT 18)
-- **Immunities** 
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Infinite Pitfall [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Infinite Pitfall** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature walks onto the trapdoor.
 

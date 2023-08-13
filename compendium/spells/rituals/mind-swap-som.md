@@ -18,8 +18,8 @@ aliases: ["Mind Swap"]
 - **Secondary Casters** 1
 - **Primary Checks** [Occultism](compendium/skills.md#Occultism) (expert)
 - **Secondary Checks** [Medicine](compendium/skills.md#Medicine) or [Occultism](compendium/skills.md#Occultism)
-- **Range**10 feet
-- **Targets**2 creatures of the same ancestry, of up to twice the level of mind swap
+- **Range**: 10 feet
+- **Targets**: 2 creatures of the same ancestry, of up to twice the level of mind swap
 
 This ritual allows two subjects to exchange minds, fully inhabiting one another's bodies. The two targets can be chosen from you, the secondary caster, or unrelated third parties present throughout the ritual. Normally, both targets must be of the same ancestry for the minds to be fully compatible, but at the GM's discretion, for a much higher cost, the targets can be from different ancestries; this requires much more adjudication of ancestry feats and abilities. When both targets are of the same ancestry, muscle memory and the influence of their soul allow them to carry over all their mechanical abilities into each new body, except they use the other body's heritage (and lineage, if any). The GM might rule that similar physiological changes can't be overridden with a mind swap.
 

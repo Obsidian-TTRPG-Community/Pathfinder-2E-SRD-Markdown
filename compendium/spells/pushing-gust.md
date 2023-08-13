@@ -13,11 +13,11 @@ aliases: ["Pushing Gust"]
 # Pushing Gust *Focus 1*   
 [air](rules/traits/air.md "Air Energy & Element Trait")  [cleric](rules/traits/cleric.md "Cleric Class Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains**: [air](compendium/setting/domains.md#Air)
+- **Domains** [air](compendium/setting/domains.md#Air)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**500 foot
-- **Targets**1 creature
-- **Saving Throw** Fortitude
+- **Range**: 500 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Fortitude
 
 Giving the air a push, you buffet the target with a powerful gust of wind; it must attempt a Fortitude save.
 

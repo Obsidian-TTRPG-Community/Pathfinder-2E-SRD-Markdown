@@ -14,9 +14,9 @@ aliases: ["Elemental Betrayal"]
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [hex](rules/traits/hex-apg.md "Hex Combat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [witch](rules/traits/witch-apg.md "Witch Class Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**30 foot
-- **Targets**1 creature
-- **Duration**sustained up to 1 minute
+- **Range**: 30 foot
+- **Targets**: 1 creature
+- **Duration**: sustained up to 1 minute
 
 You call upon the elements to undermine your foe. When you [Cast this Spell](rules/actions/cast-a-spell.md), choose air, earth, fire, or water. Each time the target takes damage from a spell or effect with the chosen trait, it takes an additional 2 damage of one damage type dealt by the spell or effect. If you chose fire or water, the target also takes this additional damage when taking fire or cold damage, respectively, from effects or spells without the chosen trait.
 

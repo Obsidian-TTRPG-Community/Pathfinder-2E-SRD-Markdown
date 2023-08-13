@@ -16,9 +16,9 @@ aliases: ["Astral Rain"]
 [cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**60 foot
-- **Area**one 5-foot cube
-- **Saving Throw** Reflex
+- **Range**: 60 foot
+- **Area**: one 5-foot cube
+- **Saving Throw**: Reflex
 
 You fling a mass of furious thoughts into the air, where they expand into numerous blades or other shapes that rain down. Any creature that's in the area or enters the area before the start of your next turn takes your choice of bludgeoning or piercing damage equal to `2d4` plus your spellcasting ability modifier, with a basic Reflex saving throw.
 

@@ -20,7 +20,6 @@ One day you might be nothing more than a walking corpse, but for now, you retain
 ```ad-embed-feat
 title: Zombie Dedication, Feat 2
 collapse: closed
-# Zombie Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Prerequisites**: You died and were animated as a husk zombie.
@@ -42,7 +41,6 @@ You crave the flesh of the living. You gain a jaws unarmed attack that deals `1d
 ```ad-embed-feat
 title: Ankle Biter, Feat 4
 collapse: closed
-# Ankle Biter  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Zombie Dedication](compendium/feats/zombie-dedication-botd.md)
@@ -56,7 +54,6 @@ You fight just as well on the ground as you do standing up. While you are [prone
 ```ad-embed-feat
 title: Bashing Charge, Feat 4*
 collapse: closed
-# Bashing Charge  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 4*  
 [barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 > [!pf2-note] This version of [Bashing Charge](compendium/feats/bashing-charge-apg.md) is intended for use with the Zombie Archetype. Its level has been changed accordingly.
@@ -73,7 +70,6 @@ You smash, bust, and charge through solid obstacles without hesitation. [Stride]
 ```ad-embed-feat
 title: Combat Grab, Feat 4*
 collapse: closed
-# Combat Grab  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
 [fighter](rules/traits/fighter.md "Fighter Class Trait")  [press](rules/traits/press.md "Press Combat Trait")  
 
 > [!pf2-note] This version of [Combat Grab](compendium/feats/combat-grab.md) is intended for use with the Zombie Archetype. Its level has been changed accordingly.
@@ -90,7 +86,6 @@ You swipe at your opponent and grab at them. Make a melee [Strike](rules/actions
 ```ad-embed-feat
 title: Crushing Grab, Feat 4*
 collapse: closed
-# Crushing Grab  *Feat 4*  
 [monk](rules/traits/monk.md "Monk Class Trait")  
 
 > [!pf2-note] This version of [Crushing Grab](compendium/feats/crushing-grab.md) is intended for use with the Zombie Archetype. Its level has been changed accordingly.
@@ -105,7 +100,6 @@ Like a powerful constrictor, you crush targets in your unyielding grasp. When yo
 ```ad-embed-feat
 title: Feast, Feat 4
 collapse: closed
-# Feast  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 
 - **Prerequisites**: [Zombie Dedication](compendium/feats/zombie-dedication-botd.md)
@@ -123,7 +117,6 @@ You can instead choose to gain temporary Hit Points equal to double your level, 
 ```ad-embed-feat
 title: Ravenous Charge, Feat 4
 collapse: closed
-# Ravenous Charge  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [open](rules/traits/open.md "Open Combat Trait")  
 
 - **Prerequisites**: [Zombie Dedication](compendium/feats/zombie-dedication-botd.md)
@@ -138,7 +131,6 @@ Hungry for the flesh of the living, you hurl yourself into the fray, teeth gnash
 ```ad-embed-feat
 title: Brains!, Feat 6
 collapse: closed
-# Brains!  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Feast](compendium/feats/feast-botd.md)
@@ -154,7 +146,6 @@ You consume the brains of your foe, causing synapses long rotten to fire and ena
 ```ad-embed-feat
 title: Numb, Feat 6
 collapse: closed
-# Numb  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Zombie Dedication](compendium/feats/zombie-dedication-botd.md)
@@ -168,7 +159,6 @@ As your body continues to rot and putrefy, your senses deaden and your undead po
 ````ad-embed-feat
 title: Out of Hand, Feat 8
 collapse: closed
-# Out of Hand  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Zombie Dedication](compendium/feats/zombie-dedication-botd.md)
@@ -176,7 +166,8 @@ collapse: closed
 Even when your limbs are severed, they remain a part of you. When an arm is severed from your body, it gains the [minion](rules/traits/minion.md "Minion Creature Trait") trait. While severed, your limb has the statistics of a familiar (Core Rulebook 217–218) without any familiar or master abilities, except its Speed is 5 feet, it can't move further than 100 feet from you, it can [Interact](rules/actions/interact.md) with things, and it can still make any unarmed [Strikes](rules/actions/strike.md) it could have made while attached to you (usually a fist [Strike](rules/actions/strike.md)). Any [Strikes](rules/actions/strike.md) it makes share your multiple attack penalty and use your attack bonus and damage. If your arm is reduced to 0 HP or is ever more than 100 feet from you, it becomes inert until reattached. The GM might allow you to detach other limbs that have unarmed attacks using the below action (for example, if you're a tiefling with [Form of the Fiend](compendium/feats/form-of-the-fiend-apg.md), giving you a tail unarmed attack). You gain the Lay Down Arms action.
 
 ```ad-embed-ability
-title: Lay Down Arms [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
+title: **Lay Down Arms** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
+
 
 You pull your arm off, harmlessly severing it from your body and dropping it in an adjacent square. You can also use this action to reattach your severed arm if it's adjacent to you; it immediately functions normally. If the detached limb was at 0 Hit Points, it takes 10 minutes to reattach it instead of a single action.
 ```
@@ -188,7 +179,6 @@ You pull your arm off, harmlessly severing it from your body and dropping it in 
 ```ad-embed-feat
 title: Shamble, Feat 8
 collapse: closed
-# Shamble  [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies") *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Zombie Dedication](compendium/feats/zombie-dedication-botd.md)
@@ -205,7 +195,6 @@ You can choose to ignore all circumstance and status penalties to your Speed whe
 ```ad-embed-feat
 title: Unkillable, Feat 8
 collapse: closed
-# Unkillable  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Zombie Dedication](compendium/feats/zombie-dedication-botd.md)
@@ -222,7 +211,6 @@ You're relentless and nigh unkillable, shrugging off blows that should destroy y
 ```ad-embed-feat
 title: Festering Wounds, Feat 12*
 collapse: closed
-# Festering Wounds  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [disease](rules/traits/disease.md "Disease Effect Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 > [!pf2-note] This version of [Festering Wounds](compendium/feats/festering-wounds-botd.md) is intended for use with the Zombie Archetype. Its level has been changed accordingly.
@@ -238,7 +226,6 @@ Wounds you inflict with your unarmed attacks fester and rot, becoming infected a
 ```ad-embed-feat
 title: Corpse Stench, Feat 14*
 collapse: closed
-# Corpse Stench  *Feat 14*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [aura](rules/traits/aura.md "Aura Combat Trait")  [olfactory](rules/traits/olfactory-b1.md "Olfactory Effect Trait")  
 
 > [!pf2-note] This version of [Corpse Stench](compendium/feats/corpse-stench-botd.md) is intended for use with the Zombie Archetype. Its level has been changed accordingly.
@@ -254,7 +241,6 @@ Your body exudes an overwhelming scent of decay in a 10-foot emanation, so putri
 ```ad-embed-feat
 title: Seize, Feat 14*
 collapse: closed
-# Seize  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 14*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 > [!pf2-note] This version of [Seize](compendium/feats/seize-botd.md) is intended for use with the Zombie Archetype. Its level has been changed accordingly.

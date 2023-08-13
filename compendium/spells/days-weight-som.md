@@ -10,12 +10,12 @@ aliases: ["Day's Weight"]
 # Day's Weight *Spell 3*   
 [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**120 foot
-- **Targets**1 living creature
-- **Saving Throw** Fortitude
-- **Duration**1 minute
+- **Range**: 120 foot
+- **Targets**: 1 living creature
+- **Saving Throw**: Fortitude
+- **Duration**: 1 minute
 
 You fast-forward time for a single creature, burdening it with the aches and pain of an entire day and making it temporarily tired and weak. The creature must attempt a Fortitude save.
 

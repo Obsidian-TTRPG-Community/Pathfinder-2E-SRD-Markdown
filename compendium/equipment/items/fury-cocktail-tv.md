@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
-- item/category/elixir
+- item/category/elixir/
 - trait/alchemical
 - trait/consumable
 - trait/elixir
@@ -14,9 +14,8 @@ aliases: ["Fury Cocktail"]
 # Fury Cocktail *Item 4+*  
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [elixir](rules/traits/elixir.md "Elixir Item Trait")  [mutagen](rules/traits/mutagen.md "Mutagen Item Trait")  [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  
 
-- **Usage** held in 1 hand; **Bulk** L
+- **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Elixir
 
 A fury cocktail is a fortifying ginger beer spiked with rum and a mixer. It's rumored to have originated from a barbarian-themed festival in a popular mead hall specializing in alchemical beverages.
 
@@ -31,4 +30,26 @@ Benefit You gain an item bonus to melee attack rolls and an additional effect de
 
 Reflex saves.
 
+---
+### Variants
+
+#### lesser *Item 4*
+
+- **Price**: 15 gp
+
+You gain a +2 item bonus to melee attack rolls, and the duration is 10 minutes.
+
+#### moderate *Item 12*
+
+- **Price**: 360 gp
+
+You gain a +3 item bonus to melee attack rolls, and the duration is 1 hour.
+
+#### greater *Item 18*
+
+- **Price**: 4000 gp
+
+You gain a +4 item bonus to melee attack rolls, and the duration is 1 hour.
+
+---
 *Source: Treasure Vault p. 48*

@@ -8,7 +8,7 @@ tags:
 - trait/manipulate
 aliases: ["Repair"]
 ---
-# Repair (basic) [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Duration or Frequency")
+# Repair (basic) [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Duration or Frequency") 10 minute (10 minutes)
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 *Source: Core Rulebook p. 243*  
 

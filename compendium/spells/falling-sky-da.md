@@ -12,10 +12,10 @@ aliases: ["Falling Sky"]
 # Falling Sky *Spell 8*   
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**120 foot
-- **Area**60-foot tall, 30-foot radius cylinder
+- **Range**: 120 foot
+- **Area**: 60-foot tall, 30-foot radius cylinder
 
 Extraordinary telekinetic pressure smashes down through the area, battering creatures within it to the ground. All flying creatures in the area descend to the bottom of the spell's area, taking twice as much bludgeoning damage as if they had fallen the distance moved, to a maximum of 60 falling damage if they fall 60 feet. They take this falling damage even if the spell's area is entirely in the air and they don't hit the ground, as they concuss against the bottom of the spell's area at great speed. Creatures on the ground and within the spell's area, including flying creatures forced to the ground, must attempt Fortitude saves.
 

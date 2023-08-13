@@ -12,10 +12,10 @@ aliases: ["Acidic Burst"]
 # Acidic Burst *Spell 1*   
 [acid](rules/traits/acid.md "Acid Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Area**5-foot emanation
-- **Saving Throw**  basic Reflex
+- **Area**: 5-foot emanation
+- **Saving Throw**:  basic Reflex
 
 You create a shell of acid around yourself that immediately bursts outward, dealing `2d6` acid damage to each creature in the area.
 

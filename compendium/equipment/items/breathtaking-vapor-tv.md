@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/inhaled
@@ -15,9 +15,8 @@ aliases: ["Breathtaking Vapor"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [inhaled](rules/traits/inhaled.md "Inhaled Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 3000 gp
-- **Usage** held in 1 hand; **Bulk** L
+- **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 This colorless mist has a mild, waxy scent that precedes acute shortness of breath. Creatures that don't need to breathe can still take the poison's damage but are immune to its other effects.
 
@@ -36,4 +35,6 @@ title: Saving Throw: DC 38 Fortitude
 **Stage 3** `10d6` poison damage, [drained](rules/conditions.md#Drained), and reduce remaining air by 2 additional rounds
 ```
 
+
+---
 *Source: Treasure Vault p. 67*

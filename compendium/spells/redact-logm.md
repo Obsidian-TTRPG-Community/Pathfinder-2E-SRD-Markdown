@@ -10,11 +10,11 @@ aliases: ["Redact"]
 # Redact *Focus 1*   
 [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Domains**: [glyph](compendium/setting/domains.md#Glyph)
+- **Domains** [glyph](compendium/setting/domains.md#Glyph)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**unattended written materials of up to 1 Bulk or less
-- **Duration**1 day
+- **Range**: 30 foot
+- **Targets**: unattended written materials of up to 1 Bulk or less
+- **Duration**: 1 day
 
 You strike mention of a specific name from one or more documents. When you cast the spell, give one proper name, be it a creature, location, or object. Any mention of that name within the document becomes blurred, smudged, or otherwise completely illegible. Epithets and unambiguous references to the name are redacted as well; for instance, redacting the name of the goddess Sarenrae from a book would also remove references to her title "the Dawnflower."
 

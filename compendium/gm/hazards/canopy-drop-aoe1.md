@@ -17,14 +17,11 @@ A trapdoor, connected to floor sensors, opens in the section of floor marked on 
 
 - **Disable** DC 23 [Thievery](compendium/skills.md#Thievery) (expert) to jam the mechanisms and keep the trapdoor from opening, or to locate the bypass switch [hidden](rules/conditions.md#Hidden) under a stair riser just outside the room.  
 
-- **AC** 20 , **Fort** +13, **Ref** +8
+- **AC** 20, **Fort** +13, **Ref** +8
 - **Trapdoor Hardness** 10, **Trapdoor HP** 40 (BT 20)
-- **Immunities** 
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Flush [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Flush** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: Two or more creatures stand on the trapped spaces
 

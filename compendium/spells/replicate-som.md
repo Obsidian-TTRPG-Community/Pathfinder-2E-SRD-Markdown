@@ -11,11 +11,11 @@ aliases: ["Replicate"]
 # Replicate *Spell 4*   
 [illusion](rules/traits/illusion.md "Illusion School Trait")  [shadow](rules/traits/shadow.md "Shadow General Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**60 foot
-- **Targets**1 willing or [unconscious](rules/conditions.md#Unconscious) creature of 8th level or lower
-- **Duration**sustained
+- **Range**: 60 foot
+- **Targets**: 1 willing or [unconscious](rules/conditions.md#Unconscious) creature of 8th level or lower
+- **Duration**: sustained
 
 You create an illusory magical double that physically looks and behaves very similarly to the target. This double is limited to moving, [Interacting](rules/actions/interact.md), speaking short sentences, and other similar basic tasks. It is unable to cast spells, attack, or use any complex skills.
 

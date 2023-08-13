@@ -14,9 +14,9 @@ aliases: ["Blood Ward"]
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [hex](rules/traits/hex-apg.md "Hex Combat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [witch](rules/traits/witch-apg.md "Witch Class Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**30 foot
-- **Targets**1 creature
-- **Duration**sustained up to 1 minute
+- **Range**: 30 foot
+- **Targets**: 1 creature
+- **Duration**: sustained up to 1 minute
 
 You consolidate warding energies with a gesture, guarding a creature against attacks from a certain type of foe. Designate one of the following creature traits: aberration, animal, beast, celestial, construct, dragon, elemental, fey, fiend, fungus, monitor, ooze, plant, or undead. The target gains a +1 status bonus to its saving throws and AC against creatures with that trait. The target is temporarily immune for 10 minutes.
 

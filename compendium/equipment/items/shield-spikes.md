@@ -12,10 +12,12 @@ aliases: ["Shield Spikes"]
 
 - **Price** 5 sp
 - **Bulk** —
-- **Damage** `1d6` P
+  - **Damage**: `1d6` P
 - **Hands** 1
 - **Category** Martial; **Group** Shield 
 
 These metal spikes are strategically placed on the defensive side of the shield to deal piercing damage with a shield bash.
 
+
+---
 *Source: Core Rulebook p. 281*

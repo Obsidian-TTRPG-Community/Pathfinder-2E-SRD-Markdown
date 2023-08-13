@@ -14,11 +14,11 @@ aliases: ["Voracious Gestalt"]
 # Voracious Gestalt *Spell 9*   
 [aura](rules/traits/aura.md "Aura Combat Trait")  [death](rules/traits/death.md "Death Effect Trait")  [evil](rules/traits/evil.md "Evil Alignment Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Area**30-foot emanation
-- **Saving Throw**  basic Fortitude
-- **Duration**sustained up to 1 minute
+- **Area**: 30-foot emanation
+- **Saving Throw**:  basic Fortitude
+- **Duration**: sustained up to 1 minute
 
 You create a powerful spirit entity that grows and builds strength by consuming the spirits of foes you both slay.
 

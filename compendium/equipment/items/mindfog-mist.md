@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/crb
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/inhaled
@@ -14,9 +14,8 @@ aliases: ["Mindfog Mist"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [inhaled](rules/traits/inhaled.md "Inhaled Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Price** 1000 gp
-- **Usage** held in 1 hand; **Bulk** L
+- **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 Mindfog mist can be used to undermine spellcasters, as its effect on a victim's mental faculties are swift and powerful.
 
@@ -35,4 +34,6 @@ title: Saving Throw: DC 35 Fortitude
 **Stage 3** [confused](rules/conditions.md#Confused) and [stupefied](rules/conditions.md#Stupefied) (1 round)
 ```
 
+
+---
 *Source: Core Rulebook p. 553*

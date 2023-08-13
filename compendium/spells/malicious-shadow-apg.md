@@ -15,9 +15,9 @@ aliases: ["Malicious Shadow"]
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [hex](rules/traits/hex-apg.md "Hex Combat Trait")  [shadow](rules/traits/shadow.md "Shadow General Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [witch](rules/traits/witch-apg.md "Witch Class Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 creature
-- **Duration**sustained up to 1 minute
+- **Range**: 30 foot
+- **Targets**: 1 creature
+- **Duration**: sustained up to 1 minute
 
 You reshape the target's shadow into a deadly form, such as strangling hands, a dangerous weapon, harrying runes, or the like, and command it to attack the target. When you [Cast the Spell](rules/actions/cast-a-spell.md), and each time you [Sustain the Spell](rules/actions/sustain-a-spell.md), the shadow makes a [Strike](rules/actions/strike.md) against the target. The shadow moves along with the foe, always remaining within reach. If you [Sustain the Spell](rules/actions/sustain-a-spell.md) multiple times in a round, you gain this effect each time. The shadow uses and contributes to your multiple attack penalty.
 

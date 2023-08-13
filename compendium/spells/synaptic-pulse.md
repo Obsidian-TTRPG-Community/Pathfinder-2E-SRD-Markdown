@@ -13,11 +13,11 @@ aliases: ["Synaptic Pulse"]
 # Synaptic Pulse *Spell 5*   
 [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions**: [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Area**30-foot emanation
-- **Saving Throw** Will
-- **Duration**1 round
+- **Area**: 30-foot emanation
+- **Saving Throw**: Will
+- **Duration**: 1 round
 
 You emit a pulsating mental blast that penetrates the minds of all enemies in the area. Each enemy in the area must attempt a Will save.
 

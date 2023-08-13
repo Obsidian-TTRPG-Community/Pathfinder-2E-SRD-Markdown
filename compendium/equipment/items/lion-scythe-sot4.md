@@ -15,10 +15,12 @@ aliases: ["Lion Scythe"]
 
 - **Price** 1 gp
 - **Bulk** L
-- **Damage** `1d6` S
+  - **Damage**: `1d6` S
 - **Hands** 1
 - **Category** Martial; **Group** Knife 
 
 A lion scythe resembles a common sickle but is specially weighted to allow for greater power when attacking. This is a martial melee weapon.
 
+
+---
 *Source: Strength of Thousands #4: Secrets of the Temple-City p. 78*

@@ -19,14 +19,12 @@ Large pressurized pipes connected to a trip wire are rigged to release a blast o
 
 - **Disable** [Thievery](compendium/skills.md#Thievery) DC 22 (trained) to disconnect the trip wire or [Crafting](compendium/skills.md#Crafting) DC 24 (expert) to carefully reduce the pressure and prevent the blast  
 
-- **AC** 20 , **Fort** +12, **Ref** +12
+- **AC** 20, **Fort** +12, **Ref** +12
 - **Hardness** 12, **HP** 48 (BT 24)
 - **Immunities** object immunities
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Steam Blast [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Steam Blast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: The trip wire is pulled or severed, typically because a creature walked through the square with the trip wire
 

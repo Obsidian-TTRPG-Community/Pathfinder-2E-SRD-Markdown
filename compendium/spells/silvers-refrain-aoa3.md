@@ -16,8 +16,8 @@ aliases: ["Silver's Refrain"]
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [bard](rules/traits/bard.md "Bard Class Trait")  [cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [composition](rules/traits/composition.md "Composition Spell Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Area**60-foot emanation
-- **Duration**1 round
+- **Area**: 60-foot emanation
+- **Duration**: 1 round
 
 The "Song of Silver" was an enchanted song used by the Silver Ravens to battle diabolic forces. You pull from select verses to temporarily replicate some of the legendary song's benefits, albeit on a much smaller scale.
 

@@ -17,9 +17,9 @@ aliases: ["Redistribute Potential"]
 [cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [cold](rules/traits/cold.md "Cold Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**60 foot
-- **Area**2 adjacent 5-foot squares
-- **Saving Throw**  basic Fortitude
+- **Range**: 60 foot
+- **Area**: 2 adjacent 5-foot squares
+- **Saving Throw**:  basic Fortitude
 
 Energy attempts to balance out, but with your magic, you can shunt all the energy in one area to another. Creatures in either area take `4d4` damage with a basic Fortitude save. Choose one of the squares to steal heat, dealing cold damage, and the other to concentrate the stolen heat, dealing fire damage. A creature that fails its save also becomes [clumsy](rules/conditions.md#Clumsy) from numbness if it's in the area of stolen heat or [enfeebled](rules/conditions.md#Enfeebled) from heat stroke if it's in the area of concentrated heat; these conditions last until the start of your next turn. If a creature is large enough to be in both squares, you choose only one of the areas for it to attempt its save against; it's unaffected by the other area.
 

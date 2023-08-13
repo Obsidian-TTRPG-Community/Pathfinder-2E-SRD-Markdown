@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
-- item/category/staff
+- item/category/staff/
 - trait/divination
 - trait/magical
 - trait/rare
@@ -14,13 +14,14 @@ aliases: ["Chronomancer Staff"]
 [divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  
 
 - **Price** 15000 gp
-- **Usage** held in 1 hand; **Bulk** 1
-- **Category** Staff
+- **Craft Requirements** Supply one casting of all listed levels of all listed spells.
+- **Bulk** 1; **Usage** held in 1 hand
 
 Clock faces and gears adorn the twisted iron shaft of a chronomancer staff, the hands of the clocks continually ticking or winding backward. Used as a weapon, the staff is a +2 greater striking speed staff. While wielding this staff, you also gain a +1 circumstance bonus to initiative rolls.
 
 ```ad-embed-ability
-title: Activate
+title: **Activate**  [Cast a Spell](rules/actions/cast-a-spell.md)
+
 
 You expend a number of charges from the staff to cast a spell from its list.
 
@@ -34,4 +35,6 @@ You expend a number of charges from the staff to cast a spell from its list.
 - 7th time beacon
 ```
 
+
+---
 *Source: Treasure Vault p. 131*

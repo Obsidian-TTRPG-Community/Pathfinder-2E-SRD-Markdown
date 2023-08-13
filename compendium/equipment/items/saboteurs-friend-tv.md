@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/ingested
@@ -16,7 +16,6 @@ aliases: ["Saboteur's Friend"]
 - **Price** 14 gp
 - **Usage** held in 1 hand
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 The euphemistically named saboteur's friend looks, smells, and tastes like an appetizing chocolate square. You lace the chocolate with reagents that induce a strong laxative effect.
 
@@ -37,4 +36,6 @@ title: Saving Throw: DC 20 Fortitude
 **Stage 3** [enfeebled](rules/conditions.md#Enfeebled), [fatigued](rules/conditions.md#Fatigued), and [sickened](rules/conditions.md#Sickened) (10 minutes)
 ```
 
+
+---
 *Source: Treasure Vault p. 50*

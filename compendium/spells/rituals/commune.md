@@ -17,6 +17,7 @@ aliases: ["Commune"]
 - **Secondary Casters** 1
 - **Primary Checks** [Occultism](compendium/skills.md#Occultism) (master) or [Religion](compendium/skills.md#Religion) (master)
 - **Secondary Checks** [Occultism](compendium/skills.md#Occultism) or [Religion](compendium/skills.md#Religion) (whichever is used for the primary check)
+- 
 
 You call upon an unknown planar entity to answer questions; this is a servitor of your deity if you have one and use [Religion](compendium/skills.md#Religion). You can ask up to seven questions that could be answered with "Yes" or "No." The entity is likely to know answers related to its purview; a servitor of Gozreh would likely know about unnatural weather patterns and a servitor of Desna would likely know someone's travel route. The entity answers with one word answers such as "Yes," "No," "Likely," and "Unknown," though its answers always reflect its own agenda and could be deceptive.
 

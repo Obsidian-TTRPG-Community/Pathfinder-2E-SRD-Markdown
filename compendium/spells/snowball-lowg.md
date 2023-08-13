@@ -13,10 +13,10 @@ aliases: ["Snowball"]
 # Snowball *Spell 1*   
 [attack](rules/traits/attack.md "Attack Combat Trait")  [cold](rules/traits/cold.md "Cold Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 creature
+- **Range**: 30 foot
+- **Targets**: 1 creature
 
 You throw a magically propelled and chilled ball of dense snow. The target takes `2d4` cold damage and potentially other effects, depending on the result of your spell attack roll.
 

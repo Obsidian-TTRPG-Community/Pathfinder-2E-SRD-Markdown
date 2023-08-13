@@ -13,10 +13,12 @@ aliases: ["Nine-Ring Sword"]
 
 - **Price** 9 sp
 - **Bulk** 1
-- **Damage** `1d8` S
+  - **Damage**: `1d8` S
 - **Hands** 1
 - **Category** Martial; **Group** Sword 
 
 This sword has a broad blade, along which are threaded nine heavy metal rings. The rings add weight to the weapon for downward swings, as well as clashing together to make noise.
 
+
+---
 *Source: Lost Omens: Gods & Magic p. 120*

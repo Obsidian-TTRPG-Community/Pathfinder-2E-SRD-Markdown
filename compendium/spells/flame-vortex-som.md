@@ -13,12 +13,12 @@ aliases: ["Flame Vortex"]
 # Flame Vortex *Spell 6*   
 [air](rules/traits/air.md "Air Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**120 foot
-- **Area**5-foot radius, 40-foot tall cylinder
-- **Saving Throw**  basic Reflex
-- **Duration**sustained up to 1 minute
+- **Range**: 120 foot
+- **Area**: 5-foot radius, 40-foot tall cylinder
+- **Saving Throw**:  basic Reflex
+- **Duration**: sustained up to 1 minute
 
 You combine a blazing inferno and air currents into a fiery vortex. You can [Cast this Spell](rules/actions/cast-a-spell.md) only if you are outside or the ceiling is 40 feet or higher. All squares in the vortex are difficult terrain for flying creatures.
 

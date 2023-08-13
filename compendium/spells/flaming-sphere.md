@@ -12,12 +12,12 @@ aliases: ["Flaming Sphere"]
 # Flaming Sphere *Spell 2*   
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Area**1 5-foot square
-- **Saving Throw** Reflex
-- **Duration**sustained up to 1 minute
+- **Range**: 30 foot
+- **Area**: 1 5-foot square
+- **Saving Throw**: Reflex
+- **Duration**: sustained up to 1 minute
 
 You create a sphere of flame in a square within range. The sphere must be supported by a solid surface, such as a stone floor. The sphere deals `3d6` fire damage to each creature in the square where it first appears; each creature must attempt a basic Reflex save. On subsequent rounds, the first time you [Sustain this Spell](rules/actions/sustain-a-spell.md) each round, you can leave the sphere in its square or roll it to another square within range. It deals `3d6` fire damage (basic Reflex save) to each creature in that square.
 

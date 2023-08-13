@@ -13,10 +13,10 @@ aliases: ["Acid Splash"]
 # Acid Splash *Cantrip 1*   
 [acid](rules/traits/acid.md "Acid Energy & Element Trait")  [attack](rules/traits/attack.md "Attack Combat Trait")  [cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 creature
+- **Range**: 30 foot
+- **Targets**: 1 creature
 
 You splash a glob of acid that splatters your target and nearby creatures. Make a spell attack. If you hit, you deal `1d6` acid damage plus 1 splash acid damage. On a critical success, the target also takes 1 [persistent acid damage](rules/conditions.md#Persistent%20Damage).
 

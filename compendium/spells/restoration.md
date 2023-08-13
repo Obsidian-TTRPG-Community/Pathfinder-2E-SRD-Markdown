@@ -11,10 +11,10 @@ aliases: ["Restoration"]
 # Restoration *Spell 2*   
 [healing](rules/traits/healing.md "Healing Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** 1 minute 
-- **Range**touch
-- **Targets**1 creature
+- **Range**: touch
+- **Targets**: 1 creature
 
 Restorative magic counters the effects of toxins or conditions that prevent a creature from functioning at its best. When you cast [restoration](compendium/spells/restoration.md), choose to either reduce a condition or lessen the effect of a toxin. A creature can benefit from only one [restoration](compendium/spells/restoration.md) spell each day, and it can't benefit from restoration more than once to reduce the stage of the same exposure to a given toxin.
 

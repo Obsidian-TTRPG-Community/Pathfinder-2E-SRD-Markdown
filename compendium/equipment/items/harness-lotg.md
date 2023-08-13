@@ -13,4 +13,6 @@ aliases: ["Harness"]
 
 
 
+
+---
 *Source: Lost Omens: Travel Guide p. 103*

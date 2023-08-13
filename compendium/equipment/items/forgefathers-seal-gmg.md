@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/gmg
-- item/category/
+- item/category//
 - trait/abjuration
 - trait/artifact
 - trait/divine
@@ -22,21 +22,24 @@ A seal constantly rings with the quiet sound of a hammer striking an anvil when 
 In addition, any shield you wield automatically recovers 10 Hit Points at the start of your turn each round.
 
 ```ad-embed-ability
-title: Activate [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Activate** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") [Interact](rules/actions/interact.md)
 
+- **Frequency**: once per hour
 - **Trigger**: You are hit by an attack
 
 **Effect** The Forgefather's seal glows and your armor shakes as it absorbs the blow. The attack's damage is reduced by 100 and you cast [earthquake](compendium/spells/earthquake.md) (DC 40), centered directly on the triggering creature. You decide the area of the earthquake when you [Cast the Spell](rules/actions/cast-a-spell.md), from as small as the size of the creature and up to a 60-foot burst.
 ```
 
 ```ad-embed-ability
-title: Activate [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")
+title: **Activate** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") [Interact](rules/actions/interact.md)
 
-You call upon on the restorative powers of the seal to repair an item within reach. The rune instantly restores the item to full Hit Points, even if the item was destroyed, using the effects of the [remake](compendium/spells/remake.md) spell, so long as the majority of the item is available for the repair. The seal can restore even magic items and artifacts of its level or lower. Once you have used this ability, the seal's ability to automatically repair shields becomes inactive until the next time you make your daily preparations.
+- **Frequency**: once per day
+
+**Effect** You call upon on the restorative powers of the seal to repair an item within reach. The rune instantly restores the item to full Hit Points, even if the item was destroyed, using the effects of the [remake](compendium/spells/remake.md) spell, so long as the majority of the item is available for the repair. The seal can restore even magic items and artifacts of its level or lower. Once you have used this ability, the seal's ability to automatically repair shields becomes inactive until the next time you make your daily preparations.
 ```
 
 ```ad-embed-ability
-title: Activate [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
+title: **Activate** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") envision
 
 - **Trigger**: You have not acted yet on your turn
 
@@ -45,4 +48,6 @@ title: Activate [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "F
 Once you use this activation, you are turned into a perfect statue made from stone or metal that depicts you in a glorious pose honoring your sacrifice, and you can never be restored. The Forgefather's seal remains on this statue and can be transferred to another suit of armor or a runestone as normal.
 ```
 
+
+---
 *Source: Gamemastery Guide p. 109*

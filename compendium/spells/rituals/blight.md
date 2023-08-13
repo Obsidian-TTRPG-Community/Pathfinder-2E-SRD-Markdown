@@ -18,7 +18,7 @@ aliases: ["Blight"]
 - **Secondary Casters** 1
 - **Primary Checks** [Nature](compendium/skills.md#Nature) (expert)
 - **Secondary Checks** [Survival](compendium/skills.md#Survival)
-- **Area**1/2-mile-radius circle centered on you
+- **Area**: 1/2-mile-radius circle centered on you
 
 You twist and stunt plants in the area, causing them to wither. In addition to other dangers from failing plant life, this decreases the crop yield for farms. If you cast this ritual in an area affected by plant growth, blight attempts to counteract plant growth instead of producing its usual effect.
 

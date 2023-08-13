@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/botd
-- item/category/consumable
+- item/category/consumable/
 - trait/consumable
 - trait/divine
 - trait/positive
@@ -13,9 +13,8 @@ aliases: ["Life Salt"]
 [consumable](rules/traits/consumable.md "Consumable Item Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  
 
 - **Price** 25 gp
-- **Usage** held in 1 hand; **Bulk** L
+- **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Strike](rules/actions/strike.md)
-- **Category** Consumable
 
 This crystal vial contains salts blessed by channeling life-giving energies into waters purified by holy fire.
 
@@ -23,4 +22,6 @@ You can activate this vial by throwing it as a [Strike](rules/actions/strike.md)
 
 If you use a [hostile](rules/conditions.md#Hostile) action against any undead, this second effect ends, and the undead can attack you normally.
 
+
+---
 *Source: Book of the Dead p. 20*

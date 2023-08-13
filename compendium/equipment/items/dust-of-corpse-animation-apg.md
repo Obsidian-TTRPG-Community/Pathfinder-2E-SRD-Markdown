@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/apg
-- item/category/consumable
+- item/category/consumable/
 - trait/consumable
 - trait/magical
 - trait/necromancy
@@ -15,7 +15,6 @@ aliases: ["Dust Of Corpse Animation"]
 
 - **Usage** held in 2 hands
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Consumable
 
 This black pouch contains what appears to be fine bone dust.
 
@@ -25,4 +24,18 @@ The animated undead has the [minion](rules/traits/minion.md "Minion Creature Tra
 
 The undead creature remains animated for 1 minute before collapsing back into its corpse form. As usual, you can have a maximum of four minions under your control.
 
+---
+### Variants
+
+#### dust of corpse animation *Item 8*
+
+- **Price**: 100 gp
+
+#### greater dust of corpse animation *Item 16*
+
+- **Price**: 1500 gp
+
+You can animate an undead with a level of 11 or lower.
+
+---
 *Source: Advanced Player's Guide p. 257*

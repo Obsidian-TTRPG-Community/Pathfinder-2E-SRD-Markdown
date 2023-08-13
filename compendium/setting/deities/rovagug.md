@@ -20,7 +20,7 @@ aliases: ["Rovagug", "Rough Beast"]
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: create something new, let material ties restrain you, torture a victim or otherwise delay its destruction
-- **Areas of Concern**: destruction, , disaster, , and wrath
+- **Areas of Concern**: destruction, disaster, and wrath
 - **Follower Alignments**: [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
@@ -37,8 +37,9 @@ aliases: ["Rovagug", "Rough Beast"]
 title: [Avatar](compendium/spells/avatar.md) of Rovagug
 
 - **Speed**: Speed 50 feet, burrow 30 feet, immune to [immobilized](rules/conditions.md#Immobilized)
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") jaws ([reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait")), **Damage** `6d12+6` piercing
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") leg ([agile](rules/traits/agile.md "Agile Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [versatile <p>](rules/traits/versatile-p.md "Versatile Weapon Trait")), **Damage** `6d8+6` bludgeoning
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") jaws (, [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait")), **Damage** `6d12+6` piercing 
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") leg (, [agile](rules/traits/agile.md "Agile Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [versatile <p>](rules/traits/versatile-p.md "Versatile Weapon Trait")), **Damage** `6d8+6` bludgeoning 
 ```
 
 ## Divine intercession

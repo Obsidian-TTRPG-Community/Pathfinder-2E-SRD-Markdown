@@ -14,8 +14,8 @@ aliases: ["Efficient Apport"]
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**60 foot
-- **Targets**1 unattended object of light Bulk or less
+- **Range**: 60 foot
+- **Targets**: 1 unattended object of light Bulk or less
 
 Walking over to an item to pick it up is so much effort.
 

@@ -11,9 +11,10 @@ aliases: ["Nudge The Odds"]
 # Nudge The Odds *Spell 1*   
 [divination](rules/traits/divination.md "Divination School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Duration**1 hour
+- 
+- **Duration**: 1 hour
 
 You bestow yourself supernaturally good luck at cards, dice, and other games of chance. You gain a +1 status bonus to [Games Lore](compendium/skills.md#Lore) checks to gamble, and if you roll a critical failure on such a check, you get a failure instead; however, the spell is too short-lived to use for [Earn Income](rules/actions/earn-income.md) checks from gambling.
 

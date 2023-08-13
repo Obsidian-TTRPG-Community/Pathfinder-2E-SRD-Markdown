@@ -15,10 +15,12 @@ aliases: ["Orc Knuckle Dagger"]
 
 - **Price** 7 sp
 - **Bulk** L
-- **Damage** `1d6` P
+  - **Damage**: `1d6` P
 - **Hands** 1
 - **Category** Martial; **Group** Knife 
 
 This stout, metal blade of orc design has a horizontal basket hilt with blades jutting from each end, or sometimes one blade like that of a katar.
 
+
+---
 *Source: Core Rulebook p. 281*

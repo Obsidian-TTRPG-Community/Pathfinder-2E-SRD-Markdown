@@ -13,10 +13,10 @@ aliases: ["Blazing Fissure"]
 # Blazing Fissure *Spell 5*   
 [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Area**120-foot line
-- **Saving Throw** Reflex
+- **Area**: 120-foot line
+- **Saving Throw**: Reflex
 
 A thin crack rips through the earth, erupting with magma, then swiftly seals up. Each creature along the line and on solid ground takes `4d6` bludgeoning damage and `6d6` fire damage with a Reflex save.
 

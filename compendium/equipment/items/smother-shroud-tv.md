@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/injury
@@ -14,9 +14,8 @@ aliases: ["Smother Shroud"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [injury](rules/traits/injury.md "Injury Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Price** 60 gp
-- **Usage** held in 2 hands; **Bulk** L
+- **Bulk** L; **Usage** held in 2 hands
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 Smother shroud robs a victim of distinguishing features, making it difficult for anyone to identify the corpse.
 
@@ -36,4 +35,6 @@ title: Saving Throw: DC 22 Fortitude
 **Stage 3** `4d4` poison damage, [blinded](rules/conditions.md#Blinded), [deafened](rules/conditions.md#Deafened), unable to smell, unable to take actions with the [auditory](rules/traits/auditory.md "Auditory Effect Trait") trait, and unable to breathe
 ```
 
+
+---
 *Source: Treasure Vault p. 70*

@@ -15,10 +15,12 @@ aliases: ["Breaching Pike"]
 
 - **Price** 8 gp
 - **Bulk** 1
-- **Damage** `1d6` P
+  - **Damage**: `1d6` P
 - **Hands** 1
 - **Category** Martial; **Group** Spear 
 
 Forged with a heavy metal wedge as a spearhead, breaching pikes are often used by hobgoblin infantry alongside a tower shield. Breaching pikes are particularly effective at damaging enemy shields, leaving large, triangular puncture holes behind.
 
+
+---
 *Source: Treasure Vault p. 25*

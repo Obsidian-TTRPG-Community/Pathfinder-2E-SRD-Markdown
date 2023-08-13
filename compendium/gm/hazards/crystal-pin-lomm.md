@@ -19,9 +19,9 @@ aliases: ["Crystal Pin"]
 Ebeshra fires a crystal at a creature to pin them onto the Material Plane.
 
 - **Disable** DC 48 [Occultism](compendium/skills.md#Occultism) (legendary) or [Religion](compendium/skills.md#Religion) (legendary) to earn Ebeshra's favor and allow safe travel or DC 51 [Deception](compendium/skills.md#Deception) (master) to momentarily divert Ebeshra's attention  
-     
+
 ```ad-embed-ability
-title: Fire Pin [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Fire Pin** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature Ebeshra can see begins to use a [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait") effect or an effect that would move any number of targets to a different plane;
 

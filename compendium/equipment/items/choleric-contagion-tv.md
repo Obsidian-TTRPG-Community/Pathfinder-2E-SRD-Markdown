@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/injury
@@ -14,9 +14,8 @@ aliases: ["Choleric Contagion"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [injury](rules/traits/injury.md "Injury Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Price** 4200 gp
-- **Usage** held in 2 hands; **Bulk** L
+- **Bulk** L; **Usage** held in 2 hands
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 This vile poison is contagious, causing the victim's skin to secrete the toxin, allowing it to spread to others. While under the effects of choleric contagion, the first time during per round the victim succeeds at an attack roll with an unarmed attack against another creature, the target of the attack is exposed to the poison.
 
@@ -34,4 +33,6 @@ title: Saving Throw: DC 40 Fortitude
 **Stage 3** `10d10` poison damage (1 round)
 ```
 
+
+---
 *Source: Treasure Vault p. 67*

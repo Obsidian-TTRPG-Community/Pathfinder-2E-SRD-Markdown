@@ -15,11 +15,13 @@ aliases: ["Taw Launcher"]
 
 - **Price** 10 gp
 - **Bulk** 1
-- **Damage** `1d6` modular
-- **Ammunution** [Wooden Taws](compendium/equipment/items/wooden-taws-tv.md); **Range** 100 ft.; **Reload** 1
+  - **Damage**: `1d6` modular
+  - **Ammunution** [Wooden Taws](compendium/equipment/items/wooden-taws-tv.md); **Range** 100 ft.; **Reload** 1
 - **Hands** 2
 - **Category** Advanced; **Group** Bow 
 
 This complex device is a crossbow and fires small wooden bullets known as taws. A system of blades within the launcher can rapidly reshape a taw as it's loaded, allowing the launcher to fire taws of different shapes, such as fléchettes.
 
+
+---
 *Source: Treasure Vault p. 30*

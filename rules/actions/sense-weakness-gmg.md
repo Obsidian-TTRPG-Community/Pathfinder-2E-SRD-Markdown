@@ -9,7 +9,7 @@ aliases: ["Sense Weakness"]
 *Source: Gamemastery Guide p. 167*  
 
 **Variant Rule** Duels
-- **Trigger** You attempt a melee Strike against your opponent, but haven't rolled yet.
+- **Trigger**: You attempt a melee Strike against your opponent, but haven't rolled yet.
 - **Requirements**: You're in a duel, you're trained in [Perception](compendium/skills.md#Perception), and you rolled a [Perception](compendium/skills.md#Perception) check for initiative this round.
 - **Activity**: Reaction
 

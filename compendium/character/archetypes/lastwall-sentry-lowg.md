@@ -14,7 +14,6 @@ While the nation of Lastwall is gone, leaving only the horror of the Gravelands 
 ```ad-embed-feat
 title: Lastwall Sentry Dedication, Feat 2
 collapse: closed
-# Lastwall Sentry Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: You are from the Eye of Dread region.
@@ -31,7 +30,6 @@ You've sworn yourself as a sentry for the Knights of Lastwall, the first line of
 ```ad-embed-feat
 title: Eye Of Ozem, Feat 4
 collapse: closed
-# Eye Of Ozem  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Lastwall Sentry Dedication](compendium/feats/lastwall-sentry-dedication-lowg.md), expert in [Perception](compendium/skills.md#Perception)
@@ -45,7 +43,6 @@ You've learned how to spot danger at a distance, allowing you to serve as a sent
 ```ad-embed-feat
 title: Necromantic Resistance, Feat 4
 collapse: closed
-# Necromantic Resistance  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Lastwall Sentry Dedication](compendium/feats/lastwall-sentry-dedication-lowg.md)
@@ -59,7 +56,6 @@ As part of your training, you've inured yourself against necromancy through repe
 ```ad-embed-feat
 title: Grave Sense, Feat 6
 collapse: closed
-# Grave Sense  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Lastwall Sentry Dedication](compendium/feats/lastwall-sentry-dedication-lowg.md)
@@ -75,7 +71,6 @@ You sense undead as a vague sense (Core Rulebook 465) similar to a human's sense
 ```ad-embed-feat
 title: Necromantic Tenacity, Feat 8
 collapse: closed
-# Necromantic Tenacity  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Necromantic Resistance](compendium/feats/necromantic-resistance-lowg.md)
@@ -89,7 +84,6 @@ Your training against necromantic effects allows you to escape the worst of thei
 ```ad-embed-feat
 title: Lastwall Warden, Feat 10
 collapse: closed
-# Lastwall Warden  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Lastwall Sentry Dedication](compendium/feats/lastwall-sentry-dedication-lowg.md)

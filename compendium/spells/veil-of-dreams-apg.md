@@ -15,10 +15,10 @@ aliases: ["Veil Of Dreams"]
 [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [hex](rules/traits/hex-apg.md "Hex Combat Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [witch](rules/traits/witch-apg.md "Witch Class Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**30 foot
-- **Targets**1 creature
-- **Saving Throw** Will
-- **Duration**sustained up to 1 minute
+- **Range**: 30 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Will
+- **Duration**: sustained up to 1 minute
 
 You draw the target into a drowsy state, causing daydreams and sluggishness. The target must attempt a Will save.
 

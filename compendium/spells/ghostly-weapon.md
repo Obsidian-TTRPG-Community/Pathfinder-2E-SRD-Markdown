@@ -10,11 +10,11 @@ aliases: ["Ghostly Weapon"]
 # Ghostly Weapon *Spell 3*   
 [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Targets**1 weapon that is either unattended or wielded by you or a willing ally
-- **Duration**5 minutes
+- **Range**: touch
+- **Targets**: 1 weapon that is either unattended or wielded by you or a willing ally
+- **Duration**: 5 minutes
 
 The target weapon becomes translucent and ghostly, and it can affect material and incorporeal creatures and objects. It can be wielded by a corporeal or incorporeal creature and gains the effects of the [ghost touch](compendium/equipment/items/ghost-touch.md) property rune.
 

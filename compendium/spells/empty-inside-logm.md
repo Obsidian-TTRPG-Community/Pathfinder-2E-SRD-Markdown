@@ -11,8 +11,9 @@ aliases: ["Empty Inside"]
 # Empty Inside *Focus 1*   
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-- **Domains**: [void](compendium/setting/domains.md#Void)
+- **Domains** [void](compendium/setting/domains.md#Void)
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
+- 
 
 You inject a sliver of the void into your mind, momentarily remaking it into a bleak and empty place. Attempt a counteract check against one [emotion](rules/traits/emotion.md "Emotion Effect Trait") effect affecting you.
 

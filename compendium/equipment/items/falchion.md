@@ -13,10 +13,12 @@ aliases: ["Falchion"]
 
 - **Price** 3 gp
 - **Bulk** 2
-- **Damage** `1d10` S
+  - **Damage**: `1d10` S
 - **Hands** 2
 - **Category** Martial; **Group** Sword 
 
 This weapon is a heavier, two-handed version of the curved-bladed scimitar. It is weighted toward the blade's end, making it a powerful slashing weapon.
 
+
+---
 *Source: Core Rulebook p. 280*

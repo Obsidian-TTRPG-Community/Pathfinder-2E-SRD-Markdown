@@ -12,9 +12,10 @@ aliases: ["Shield"]
 # Shield *Cantrip 1*   
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Duration**until the start of your next turn
+- 
+- **Duration**: until the start of your next turn
 
 You raise a magical shield of force. This counts as using the [Raise a Shield](rules/actions/raise-a-shield.md) action, giving you a +1 circumstance bonus to AC until the start of your next turn, but it doesn't require a hand to use.
 

@@ -11,11 +11,11 @@ aliases: ["Forbidding Ward"]
 # Forbidding Ward *Cantrip 1*   
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 ally and 1 enemy
-- **Duration**sustained up to 1 minute
+- **Range**: 30 foot
+- **Targets**: 1 ally and 1 enemy
+- **Duration**: sustained up to 1 minute
 
 You ward an ally against the attacks and [hostile](rules/conditions.md#Hostile) spells from the target enemy. The target ally gains a +1 status bonus to Armor Class and saving throws against the target enemy's attacks, spells, and other effects.
 

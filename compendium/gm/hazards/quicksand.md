@@ -16,9 +16,9 @@ aliases: ["Quicksand"]
 A 15-foot-wide patch of water and sand attempts to submerge creatures that step onto it.
 
 - **Disable** [Survival](compendium/skills.md#Survival) DC 18 (trained) to disturb the surface.  
-     
+
 ```ad-embed-ability
-title: Submerge [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
+title: **Submerge** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
 
 - **Trigger**: A Huge or smaller creature walks onto the quicksand.
 
@@ -27,8 +27,8 @@ title: Submerge [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "F
 
 ```ad-pf2-summary
 title: Routine
-(1 action) On its initiative, the quicksand pulls down each creature within it. A creature that was submerged up to its waist becomes submerged up to its neck, and a creature. that was submerged up to its neck is pulled under and has to hold its breath to avoid suffocation.
 
+(1 action) On its initiative, the quicksand pulls down each creature within it. A creature that was submerged up to its waist becomes submerged up to its neck, and a creature. that was submerged up to its neck is pulled under and has to hold its breath to avoid suffocation.
 A creature in the quicksand can attempt a DC 20 [Athletics](compendium/skills.md#Athletics) check to [Swim](rules/actions/swim.md) to either raise itself by one step if it's submerged to its neck or worse, or to move 5 feet if it's submerged only up to its waist. On a critical failure, the creature is pulled down one step. A creature that Swims out of the quicksand escapes the hazard and is [prone](rules/conditions.md#Prone) in a space adjacent to the quicksand patch. Other creatures can [Aid](rules/actions/aid.md) the creature, typically by using a rope or similar aid, or attempt to pull the creature out with their own DC 20 [Athletics](compendium/skills.md#Athletics) check, with the same results as if the creature attempted the check.
 ```
 ^routine

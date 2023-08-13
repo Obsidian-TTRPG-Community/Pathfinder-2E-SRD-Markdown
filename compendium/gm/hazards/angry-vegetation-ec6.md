@@ -18,14 +18,13 @@ Five large flowers in the weed-choked field unfurl, each dusting pollen onto vin
 
 - **Disable** DC 48 [Nature](compendium/skills.md#Nature) (master) or DC 48 [Performance](compendium/skills.md#Performance) (legendary) to calm a flower, closing it.  
 
-- **AC** 37 , **Fort** +33, **Ref** +30
+- **AC** 37, **Fort** +33, **Ref** +30
 - **HP** 120 per flower
 - **Immunities** [mental](rules/traits/mental.md "Mental Effect Trait")
-- **Resistances** 
 - **Weaknesses** fire 20
-     
+
 ```ad-embed-ability
-title: Bloom [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Bloom** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A non-plant creature enters the garden
 
@@ -34,8 +33,8 @@ title: Bloom [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reac
 
 ```ad-pf2-summary
 title: Routine
-[>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") If there are fewer wemmuths than open flowers, the flowers create more wemmuths (so there as many wemmuths as open flowers) as their first action.
 
+[>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") If there are fewer wemmuths than open flowers, the flowers create more wemmuths (so there as many wemmuths as open flowers) as their first action.
 For their second action, the flowers produce a mindaddling pollen. Each non-plant creature within 30 feet of a flower must succeed at a DC 41 Fortitude save or become [slowed](rules/conditions.md#Slowed) for 1 round (or [confused](rules/conditions.md#Confused) for 1 round, on a critical failure). The pollen is an emotion, mental, and olfactory effect.
 ```
 ^routine

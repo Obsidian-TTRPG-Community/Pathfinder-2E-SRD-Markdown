@@ -16,7 +16,8 @@ aliases: ["Battlefield Persistence"]
 
 - **Mystery** Oracle
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
-- **Trigger**You are about to attempt a saving throw, but you haven't rolled yet.
+- **Trigger**: You are about to attempt a saving throw, but you haven't rolled yet.
+- 
 
 You're difficult to remove from battle. You gain a +2 status bonus to the triggering save, and if the triggering save is against an [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait") effect, it treats you as if you were 2 levels higher.
 

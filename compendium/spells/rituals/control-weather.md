@@ -16,7 +16,7 @@ aliases: ["Control Weather"]
 - **Secondary Casters** 1
 - **Primary Checks** [Nature](compendium/skills.md#Nature) (master)
 - **Secondary Checks** [Survival](compendium/skills.md#Survival)
-- **Area**2-mile-radius circle centered on you
+- **Area**: 2-mile-radius circle centered on you
 
 You alter the weather, making it calm and normal for the season or choosing up to two effects based on the season:
 

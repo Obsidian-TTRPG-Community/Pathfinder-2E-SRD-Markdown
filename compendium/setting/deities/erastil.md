@@ -17,7 +17,7 @@ aliases: ["Erastil", "Old Deadeye"]
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: abandon your home in its time of need, yourself over your community, tarnish your reputation, tell lies
-- **Areas of Concern**: family, , farming, , hunting, , and trade
+- **Areas of Concern**: family, farming, hunting, and trade
 - **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait")
 
 ## Devotee benefits
@@ -34,7 +34,8 @@ aliases: ["Erastil", "Old Deadeye"]
 title: [Avatar](compendium/spells/avatar.md) of Erastil
 
 - **Speed**: Speed 70 feet, [air walk](compendium/spells/air-walk.md), ignore difficult terrain and greater difficult terrain
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") longbow ([deadly <d8>](rules/traits/deadly-d8.md "Deadly Weapon Trait")), **Damage** `6d8+3` piercing
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") longbow (, [deadly <d8>](rules/traits/deadly-d8.md "Deadly Weapon Trait")), **Damage** `6d8+3` piercing 
 ```
 
 ## Divine intercession

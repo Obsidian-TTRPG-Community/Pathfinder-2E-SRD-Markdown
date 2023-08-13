@@ -12,12 +12,12 @@ aliases: ["Scrying"]
 # Scrying *Spell 6*   
 [divination](rules/traits/divination.md "Divination School Trait")  [scrying](rules/traits/scrying.md "Scrying Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 10 minutes 
-- **Range**planetary
-- **Targets**1 creature
-- **Saving Throw** Will
-- **Duration**sustained up to 10 minutes
+- **Range**: planetary
+- **Targets**: 1 creature
+- **Saving Throw**: Will
+- **Duration**: sustained up to 10 minutes
 
 You magically spy on a creature of your choice. Scrying works like clairvoyance (page 324), except that the image you receive is less precise, insufficient for teleport and similar spells.
 

@@ -21,16 +21,16 @@ You can also learn abilities that let you purify a spirit in your spirit dwellin
 Any actions you gain from the exorcist archetype gain either the [divine](rules/traits/divine.md "Divine Tradition Trait") or [occult](rules/traits/occult.md "Occult Tradition Trait") trait, depending on whether you used [Occultism](compendium/skills.md#Occultism) or [Religion](compendium/skills.md#Religion) to qualify for Exorcist Dedication. Spirit's Mercy is the simplest of the purifications.
 
 ```ad-embed-ability
-title: Spirit's Mercy [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
-
+title: **Spirit's Mercy** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([necromancy](rules/traits/necromancy.md))
 - **Cost**: 1 spirit wisp or remnant
 - **Trigger**: You take positive or negative damage, or you take any type of damage caused by a haunt, ghost, or other incorporeal undead
 
 **Effect** You purify a spirit by having it perform a final act of mercy to lessen the damage caused by another spirit. This grants you resistance to positive and negative damage (or resistance to all damage if caused by a haunt or incorporeal undead) against the triggering effect.
 
 If you expend a spirit wisp, the resistance is equal to twice your level. If you expend a spirit remnant, the resistance is equal to three times the level of the incorporeal undead or haunt from which you gained the remnant.  
-%% #trait/necromancy %%
+%%
+ #trait/necromancy 
+%%
 ```
 
 **Special.** You can't select another dedication feat until you have gained two other feats from the exorcist archetype.

@@ -15,12 +15,12 @@ aliases: ["Charming Touch"]
 # Charming Touch *Focus 1*   
 [cleric](rules/traits/cleric.md "Cleric Class Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains**: [passion](compendium/setting/domains.md#Passion)
+- **Domains** [passion](compendium/setting/domains.md#Passion)
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**touch
-- **Targets**1 creature that could find you attractive
-- **Saving Throw** Will
-- **Duration**10 minutes
+- **Range**: touch
+- **Targets**: 1 creature that could find you attractive
+- **Saving Throw**: Will
+- **Duration**: 10 minutes
 
 You infuse your target with attraction, causing it to act friendlier toward you. The target attempts a Will save. It gains a +4 circumstance bonus to this save if you or your allies recently threatened or were [hostile](rules/conditions.md#Hostile) to it.
 

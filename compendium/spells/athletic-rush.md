@@ -12,9 +12,10 @@ aliases: ["Athletic Rush"]
 # Athletic Rush *Focus 1*   
 [cleric](rules/traits/cleric.md "Cleric Class Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains**: [might](compendium/setting/domains.md#Might)
+- **Domains** [might](compendium/setting/domains.md#Might)
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Duration**1 round
+- 
+- **Duration**: 1 round
 
 Your body fills with physical power and skill. You gain a +10-foot status bonus to Speed and a +2 status bonus to [Athletics](compendium/skills.md#Athletics) checks. As a part of [Casting this Spell](rules/actions/cast-a-spell.md), you can use a [Stride](rules/actions/stride.md), [Leap](rules/actions/leap.md), [Climb](rules/actions/climb.md), or [Swim](rules/actions/swim.md) action. The spell's bonuses apply during that action.
 

@@ -17,7 +17,7 @@ aliases: ["Portrait Of Spite"]
 - **Secondary Casters** 3
 - **Primary Checks** [Occultism](compendium/skills.md#Occultism) or [Religion](compendium/skills.md#Religion) (master)
 - **Secondary Checks** [Crafting](compendium/skills.md#Crafting), [Occultism](compendium/skills.md#Occultism) or [Religion](compendium/skills.md#Religion) (whichever isn't used for the primary check)
-- **Targets**1 living creature
+- **Targets**: 1 living creature
 
 Using the blood, you compose a portrait of the target in perfect health. Once the portrait is complete, you recite your grievances against the target and enact on the portrait the punishments you wish to see them face, choosing from the [clumsy](rules/conditions.md#Clumsy), [enfeebled](rules/conditions.md#Enfeebled), [drained](rules/conditions.md#Drained), or [stupefied](rules/conditions.md#Stupefied) condition. The target must attempt a Will saving throw. You're only able to perform this ritual if you know the target's name and are able to see their face clearly in your mind's eye, and the secondary caster who performs the [Crafting](compendium/skills.md#Crafting) check must be able to paint or draw the target from memory.
 

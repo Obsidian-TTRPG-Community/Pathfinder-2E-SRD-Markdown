@@ -18,14 +18,12 @@ A half-dozen iron darts fire from spring-loaded launchers [concealed](rules/cond
 
 - **Disable** DC 22 [Thievery](compendium/skills.md#Thievery) (trained) to disable the trigger, or DC 18 [Acrobatics](compendium/skills.md#Acrobatics) to squeeze through the partially opened door (this doesn't disable the trap but prevents it from triggering)  
 
-- **AC** 22 , **Fort** +14, **Ref** +8
+- **AC** 22, **Fort** +14, **Ref** +8
 - **Hardness** 10, **HP** 50 (BT 25)
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Dart [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Dart** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: The front door is fully opened, Forced Open, or [broken](rules/conditions.md#Broken)
 

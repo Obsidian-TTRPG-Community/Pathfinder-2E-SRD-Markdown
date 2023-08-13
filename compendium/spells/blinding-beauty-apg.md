@@ -18,8 +18,8 @@ aliases: ["Blinding Beauty"]
 
 - **Bloodline** Sorcerer
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Area**30-foot cone
-- **Saving Throw** Will
+- **Area**: 30-foot cone
+- **Saving Throw**: Will
 
 You channel the allure of your nymph bloodline into a terribly beautiful glance. Each enemy in the area must attempt a Will saving throw.
 

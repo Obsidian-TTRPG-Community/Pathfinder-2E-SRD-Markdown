@@ -34,7 +34,8 @@ aliases: ["Nethys", "The All-Seeing Eye"]
 title: [Avatar](compendium/spells/avatar.md) of Nethys
 
 - **Speed**: Speed 70 feet, [air walk](compendium/spells/air-walk.md)
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") raw magic ([versatile <cold, electricity, or fire>](rules/traits/versatile-cold-electricity-or-fire.md "Versatile Weapon Trait")), **Damage** `6d6` force
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") raw magic (, [versatile <cold, electricity, or fire>](rules/traits/versatile-cold-electricity-or-fire.md "Versatile Weapon Trait")), **Damage** `6d6` force 
 ```
 
 ## Divine intercession

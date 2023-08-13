@@ -14,7 +14,6 @@ Armor offers solid, reassuring protection in combat, and as someone who faces da
 ```ad-embed-feat
 title: Sentinel Dedication, Feat 2
 collapse: closed
-# Sentinel Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 
@@ -31,7 +30,6 @@ Whenever you gain a class feature that grants you expert or greater proficiency 
 ```ad-embed-feat
 title: Steel Skin, Feat 4
 collapse: closed
-# Steel Skin  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: trained in [Survival](compendium/skills.md#Survival), [Sentinel Dedication](compendium/feats/sentinel-dedication-apg.md)
@@ -45,7 +43,6 @@ You wear your armor like a second skin. You can rest normally while wearing medi
 ```ad-embed-feat
 title: Armor Specialist, Feat 6
 collapse: closed
-# Armor Specialist  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Sentinel Dedication](compendium/feats/sentinel-dedication-apg.md)
@@ -59,7 +56,6 @@ You have trained hard to optimize your armor's protective qualities. You gain th
 ```ad-embed-feat
 title: Armored Rebuff, Feat 8
 collapse: closed
-# Armored Rebuff  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Sentinel Dedication](compendium/feats/sentinel-dedication-apg.md)
@@ -76,7 +72,6 @@ You rebuff puny attacks with your armor, knocking back your foe. Attempt an [Ath
 ```ad-embed-feat
 title: Mighty Bulwark, Feat 10
 collapse: closed
-# Mighty Bulwark  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Sentinel Dedication](compendium/feats/sentinel-dedication-apg.md)
@@ -90,7 +85,6 @@ Thanks to your incredible connection to your armor, you can use it to shrug off 
 ```ad-embed-feat
 title: Sacrifice Armor, Feat 10*
 collapse: closed
-# Sacrifice Armor  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
 [champion](rules/traits/champion.md "Champion Class Trait")  
 
 > [!pf2-note] This version of [Sacrifice Armor](compendium/feats/sacrifice-armor-apg.md) is intended for use with the Sentinel Archetype. Its level has been changed accordingly.
@@ -107,7 +101,6 @@ With divine awareness, you twist your body to lessen the impact of an attack. Re
 ```ad-embed-feat
 title: Greater Interpose, Feat 16*
 collapse: closed
-# Greater Interpose  *Feat 16*  
 [champion](rules/traits/champion.md "Champion Class Trait")  
 
 > [!pf2-note] This version of [Greater Interpose](compendium/feats/greater-interpose-apg.md) is intended for use with the Sentinel Archetype. Its level has been changed accordingly.

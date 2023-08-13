@@ -11,11 +11,11 @@ aliases: ["Envenom Companion"]
 # Envenom Companion *Spell 3*   
 [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**your companion or eidolon
-- **Duration**1 minute
+- **Range**: 30 foot
+- **Targets**: your companion or eidolon
+- **Duration**: 1 minute
 
 You envenom your companion or eidolon's attacks, which drip with highly toxic venom for the spell's duration. The first time each round the target hits a creature with an unarmed [Strike](rules/actions/strike.md) that deals piercing or slashing damage, that [Strike](rules/actions/strike.md) deals an additional `1d8` poison damage. A creature that is damaged by this poison must attempt a Fortitude save. On a failure, it's also [clumsy](rules/conditions.md#Clumsy) for 1 round.
 

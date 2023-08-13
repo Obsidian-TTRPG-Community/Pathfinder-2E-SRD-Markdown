@@ -15,10 +15,12 @@ aliases: ["Elven Curve Blade"]
 
 - **Price** 4 gp
 - **Bulk** 2
-- **Damage** `1d8` S
+  - **Damage**: `1d8` S
 - **Hands** 2
 - **Category** Martial; **Group** Sword 
 
 Essentially a longer version of the scimitar, this traditional elven weapon has a thinner blade than its cousin.
 
+
+---
 *Source: Core Rulebook p. 281*

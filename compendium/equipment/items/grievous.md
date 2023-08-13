@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/crb
-- item/category/rune
+- item/category/rune/
 - trait/enchantment
 - trait/magical
 aliases: ["Grievous"]
@@ -13,7 +13,6 @@ aliases: ["Grievous"]
 
 - **Price** 700 gp
 - **Usage** etched onto a weapon
-- **Category** Rune
 
 When your attack roll with this weapon is a critical hit and gains the critical specialization effect, you gain an additional benefit depending on the weapon group.
 
@@ -32,4 +31,6 @@ When your attack roll with this weapon is a critical hit and gains the critical 
 - **Spear** The [clumsy](rules/conditions.md#Clumsy) condition lasts for 2 rounds.
 - **Sword** The target is [flat-footed](rules/conditions.md#Flat-footed) until the end of your next turn.
 
+
+---
 *Source: Core Rulebook p. 584*

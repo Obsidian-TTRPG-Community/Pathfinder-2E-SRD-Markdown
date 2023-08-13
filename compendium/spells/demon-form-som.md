@@ -13,9 +13,10 @@ aliases: ["Demon Form"]
 # Demon Form *Spell 6*   
 [chaotic](rules/traits/chaotic.md "Chaotic Alignment Trait")  [evil](rules/traits/evil.md "Evil Alignment Trait")  [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Duration**1 minute
+- 
+- **Duration**: 1 minute
 
 You corrupt yourself with the sin of the Abyss, transforming into a Medium demon battle form. When you cast this spell, choose babau, hezrou, nabasu, or vrock. If you choose hezrou, the battle form is Large and you must have enough space to expand into or the spell is lost. While in this form, you gain the [demon](rules/traits/demon.md "Demon Creature Trait") and [fiend](rules/traits/fiend.md "Fiend Creature Type Trait") traits. You have hands in this battle form and can use manipulate actions.
 

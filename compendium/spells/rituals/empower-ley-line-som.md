@@ -16,8 +16,8 @@ aliases: ["Empower Ley Line"]
 - **Secondary Casters** 6
 - **Primary Checks** [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), or [Religion](compendium/skills.md#Religion), matching the ley line's tradition (legendary)
 - **Secondary Checks** [Ley Line Lore](compendium/skills.md#Lore) or [Occultism](compendium/skills.md#Occultism)
-- **Range**10 feet
-- **Targets**1 ley line or ley line node up to double this ritual's level
+- **Range**: 10 feet
+- **Targets**: 1 ley line or ley line node up to double this ritual's level
 
 You draw upon surrounding magical energy to empower a ley line, enhancing both its [positive](rules/traits/positive.md "Positive Energy & Element Trait") and [negative](rules/traits/negative.md "Negative Energy & Element Trait") effects.
 

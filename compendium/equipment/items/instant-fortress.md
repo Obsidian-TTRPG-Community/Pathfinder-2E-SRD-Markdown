@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/crb
-- item/category/structure
+- item/category/structure/
 - trait/conjuration
 - trait/magical
 - trait/structure
@@ -15,12 +15,12 @@ aliases: ["Instant Fortress"]
 
 - **Price** 9300 gp
 - **Bulk** L (when not activated)
-- **Category** Structure
 
 This metal cube is small enough to fit in your palm. Close inspection reveals fine lines in the dark gray metal, as though the cube were folded thousands of times.
 
 ```ad-embed-ability
-title: Activate [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")
+title: **Activate** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") command, [Interact](rules/actions/interact.md)
+
 
 You toss the cube on the ground, and it immediately unfolds into an adamantine fortress.
 
@@ -37,4 +37,6 @@ You can instantly return the instant fortress to its cube form by spending a sin
 If the fortress becomes damaged, it can be repaired only with a [remake](compendium/spells/remake.md) spell or by someone who is legendary at [Crafting](compendium/skills.md#Crafting).
 ```
 
+
+---
 *Source: Core Rulebook p. 596*

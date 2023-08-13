@@ -12,11 +12,11 @@ aliases: ["Rope Trick"]
 # Rope Trick *Spell 4*   
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [extradimensional](rules/traits/extradimensional.md "Extradimensional Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 10 minutes 
-- **Range**touch
-- **Targets**1 touched piece of rope from 5 to 30 feet long
-- **Duration**8 hours
+- **Range**: touch
+- **Targets**: 1 touched piece of rope from 5 to 30 feet long
+- **Duration**: 8 hours
 
 You cause the target rope to rise vertically into the air. Where it ends, an extradimensional space opens, connected to the top of the rope. This space can be reached only by climbing the rope.
 

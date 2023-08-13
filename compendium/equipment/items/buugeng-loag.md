@@ -16,10 +16,12 @@ aliases: ["Buugeng"]
 
 - **Price** 4 gp
 - **Bulk** 1
-- **Damage** `1d4` S
+  - **Damage**: `1d4` S
 - **Hands** 1
 - **Category** Martial; **Group** Sword 
 
 A blade of conrasu design, a buugeng has a unique, curved shape that allows it to rotate smoothly in the hand of a trained warrior. This spinning motion makes it easier to attack multiple foes at once with the weapon.
 
+
+---
 *Source: Lost Omens: Ancestry Guide p. 139*

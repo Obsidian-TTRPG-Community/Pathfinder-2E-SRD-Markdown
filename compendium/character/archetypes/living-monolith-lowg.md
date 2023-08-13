@@ -14,7 +14,6 @@ You have delved into ancient sphinx magic to imbue your body and soul with the p
 ```ad-embed-feat
 title: Living Monolith Dedication, Feat 2
 collapse: closed
-# Living Monolith Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: You are from the Golden Road region.
@@ -31,7 +30,6 @@ You've begun to inscribe a magical stone called a ka stone that you will some da
 ````ad-embed-feat
 title: Ka Stone Ritual, Feat 4
 collapse: closed
-# Ka Stone Ritual  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Prerequisites**: [Living Monolith Dedication](compendium/feats/living-monolith-dedication-lowg.md), a sphinx or living monolith with this feat performs a ritual with you
@@ -41,9 +39,11 @@ You inscribe your true name on your ka stone, as well as oaths to gods and phara
 The ka stone grants you a +1 item bonus to saves against [death](rules/traits/death.md "Death Effect Trait") effects and [negative](rules/traits/negative.md "Negative Energy & Element Trait") effects, which increases to +2 at 8th level, +3 at 14th level, and +4 at 20th level.
 
 ```ad-embed-ability
-title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
+title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") envision, or a different activation if otherwise specified
 
-You cast [enlarge](compendium/spells/enlarge.md) on yourself or use one of the other activated abilities granted by a later [Living Monolith](compendium/character/archetypes/living-monolith-lowg.md) feat.
+- **Frequency**: a number of times each day equal to the number of class feats you have from the [Living Monolith](compendium/character/archetypes/living-monolith-lowg.md) archetype
+
+**Effect** You cast [enlarge](compendium/spells/enlarge.md) on yourself or use one of the other activated abilities granted by a later [Living Monolith](compendium/character/archetypes/living-monolith-lowg.md) feat.
 ```
 
 *Source: Lost Omens: World Guide p. 59*  
@@ -53,7 +53,6 @@ You cast [enlarge](compendium/spells/enlarge.md) on yourself or use one of the o
 ```ad-embed-feat
 title: Stone Blood, Feat 6
 collapse: closed
-# Stone Blood  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Ka Stone Ritual](compendium/feats/ka-stone-ritual-lowg.md)
@@ -69,7 +68,6 @@ You recover naturally from the [drained](rules/conditions.md#Drained) condition 
 ```ad-embed-feat
 title: Fortified Flesh, Feat 8
 collapse: closed
-# Fortified Flesh  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Ka Stone Ritual](compendium/feats/ka-stone-ritual-lowg.md)
@@ -83,7 +81,6 @@ Your flesh takes on the hardness of stone. You gain resistance to physical damag
 ```ad-embed-feat
 title: Attunement To Stone, Feat 10
 collapse: closed
-# Attunement To Stone  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Ka Stone Ritual](compendium/feats/ka-stone-ritual-lowg.md)
@@ -97,7 +94,6 @@ You become attuned to the stone around you. When in contact with a stone surface
 ```ad-embed-feat
 title: Judgment Of The Monolith, Feat 12*
 collapse: closed
-# Judgment Of The Monolith  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Judgment Of The Monolith](compendium/feats/judgment-of-the-monolith-lowg.md) is intended for use with the Living Monolith Archetype. Its level has been changed accordingly.
@@ -113,7 +109,6 @@ You can use the oaths bound in your ka stone to compel the truth from the living
 ```ad-embed-feat
 title: Stone Communion, Feat 14*
 collapse: closed
-# Stone Communion  *Feat 14*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Stone Communion](compendium/feats/stone-communion-lowg.md) is intended for use with the Living Monolith Archetype. Its level has been changed accordingly.

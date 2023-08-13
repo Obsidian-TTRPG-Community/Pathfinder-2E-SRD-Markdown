@@ -28,12 +28,11 @@ Ghouls who won't restrain themselves with rules of the living may join or establ
 ````ad-embed-feat
 title: Ghoul Dedication, Feat 2
 collapse: closed
-# Ghoul Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Prerequisites**: You were killed by b1.
+- **Prerequisites**: You were killed by [ghoul fever](compendium/gm/afflictions/ghoul-fever-b1.md).
 
-You have succumbed to b1, dying and returning as a ghoul, an undead cursed with a never-ending hunger for dead flesh that slowly overrides your reason and willpower until you would do anything for the meal you crave. In addition to the personality changes, your body changes as well. Your ears become pointed, and your skin grows blueish and pale.
+You have succumbed to [ghoul fever](compendium/gm/afflictions/ghoul-fever-b1.md), dying and returning as a ghoul, an undead cursed with a never-ending hunger for dead flesh that slowly overrides your reason and willpower until you would do anything for the meal you crave. In addition to the personality changes, your body changes as well. Your ears become pointed, and your skin grows blueish and pale.
 
 Your fingernails sharpen into claws; your teeth become razor sharp, ready to tear flesh off the bone; and your tongue grows long and pointed.
 
@@ -42,13 +41,14 @@ You gain the [ghoul](rules/traits/ghoul-b1.md "Ghoul Creature Trait") and [undea
 You gain the Consume Flesh action (see below). Satisfying your craving is difficult. Consuming Flesh temporarily satiates you. Many ghoul feats have extra abilities or functions that can be used when you are satiated, though using those abilities also causes you to lose your satiated status. You can always Consume Flesh, but eating more than a normal amount has no further effect; a ghoul's hunger is satiated, or it is not.
 
 ```ad-embed-ability
-title: Consume Flesh [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
+title: **Consume Flesh** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") ([manipulate](rules/traits/manipulate.md))
 
 - **Requirements**: You are adjacent to the corpse of a Small or larger creature that died in the last hour
 
 **Effect** You devour a chunk of the corpse. You become satiated for 1 hour.  
-%% #trait/manipulate %%
+%%
+ #trait/manipulate 
+%%
 ```
 
 **Special.** You can't select another dedication feat until you have gained two other feats from the ghoul archetype.
@@ -60,7 +60,6 @@ title: Consume Flesh [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actio
 ```ad-embed-feat
 title: Replenishing Consumption, Feat 4
 collapse: closed
-# Replenishing Consumption  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Ghoul Dedication](compendium/feats/ghoul-dedication-botd.md)
@@ -74,7 +73,6 @@ When you devour corpses and satiate your hunger, you also recover from some of y
 ```ad-embed-feat
 title: Swift Leap, Feat 4
 collapse: closed
-# Swift Leap  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Ghoul Dedication](compendium/feats/ghoul-dedication-botd.md)
@@ -91,7 +89,6 @@ If you are satiated, you can choose to end your satiation to instead [High Jump]
 ```ad-embed-feat
 title: Feverish Enzymes, Feat 6
 collapse: closed
-# Feverish Enzymes  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Ghoul Dedication](compendium/feats/ghoul-dedication-botd.md)
@@ -108,7 +105,6 @@ If you are satiated, when you hit you can choose to end your satiation and boost
 ```ad-embed-feat
 title: Grave Strength, Feat 6
 collapse: closed
-# Grave Strength  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Ghoul Dedication](compendium/feats/ghoul-dedication-botd.md)
@@ -122,7 +118,6 @@ The flesh you've consumed over the course of your existence as a ghoul has made 
 ```ad-embed-feat
 title: Guarded Movement, Feat 6*
 collapse: closed
-# Guarded Movement  *Feat 6*  
 [monk](rules/traits/monk.md "Monk Class Trait")  
 
 > [!pf2-note] This version of [Guarded Movement](compendium/feats/guarded-movement.md) is intended for use with the Ghoul Archetype. Its level has been changed accordingly.
@@ -137,7 +132,6 @@ Your guard is up, even while moving. You gain a +4 circumstance bonus to AC agai
 ```ad-embed-feat
 title: Reactive Pursuit, Feat 6*
 collapse: closed
-# Reactive Pursuit  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
 [rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 > [!pf2-note] This version of [Reactive Pursuit](compendium/feats/reactive-pursuit.md) is intended for use with the Ghoul Archetype. Its level has been changed accordingly.
@@ -154,7 +148,6 @@ You keep pace with a retreating foe. You [Stride](rules/actions/stride.md), but 
 ```ad-embed-feat
 title: Paralyzing Slash, Feat 8
 collapse: closed
-# Paralyzing Slash  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
 
 - **Prerequisites**: [Feverish Enzymes](compendium/feats/feverish-enzymes-botd.md)
@@ -169,7 +162,6 @@ Your enzymes can paralyze your foes rather than merely making it harder for them
 ```ad-embed-feat
 title: Sickening Bite, Feat 8
 collapse: closed
-# Sickening Bite  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Ghoul Dedication](compendium/feats/ghoul-dedication-botd.md)
@@ -183,7 +175,6 @@ Your saliva causes severe nausea and mild fever in the living, weakening them so
 ```ad-embed-feat
 title: Glutton for Flesh, Feat 10
 collapse: closed
-# Glutton for Flesh  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Ghoul Dedication](compendium/feats/ghoul-dedication-botd.md)
@@ -197,7 +188,6 @@ You have developed a capacity to store more flesh within your gaunt body to leav
 ```ad-embed-feat
 title: Wall Run, Feat 10*
 collapse: closed
-# Wall Run  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
 [monk](rules/traits/monk.md "Monk Class Trait")  
 
 > [!pf2-note] This version of [Wall Run](compendium/feats/wall-run.md) is intended for use with the Ghoul Archetype. Its level has been changed accordingly.
@@ -213,7 +203,6 @@ You defy gravity, traversing vertical planes as easily as the ground. [Stride](r
 ```ad-embed-feat
 title: Corpse Stench, Feat 12*
 collapse: closed
-# Corpse Stench  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [aura](rules/traits/aura.md "Aura Combat Trait")  [olfactory](rules/traits/olfactory-b1.md "Olfactory Effect Trait")  
 
 > [!pf2-note] This version of [Corpse Stench](compendium/feats/corpse-stench-botd.md) is intended for use with the Ghoul Archetype. Its level has been changed accordingly.

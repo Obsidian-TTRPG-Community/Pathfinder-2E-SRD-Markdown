@@ -10,11 +10,11 @@ aliases: ["Glyph Of Warding"]
 # Glyph Of Warding *Spell 3*   
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** 10 minutes 
-- **Range**touch
-- **Targets**1 container or a 10-foot-by-10-foot area
-- **Duration**
+- **Range**: touch
+- **Targets**: 1 container or a 10-foot-by-10-foot area
+- 
 
 You craft a trap by binding a [hostile](rules/conditions.md#Hostile) spell into a symbol. While [Casting this Spell](rules/actions/cast-a-spell.md), you also [Cast a Spell](rules/actions/cast-a-spell.md) of a lower spell level to store in the glyph. The stored spell must take 3 actions or fewer to cast, have a [hostile](rules/conditions.md#Hostile) effect, and target one creature or have an area. You can set a password, a trigger, or both for the glyph. Any creature that moves, opens, or touches the target container or enters the target area that doesn't speak the password or that matches the trigger activates the glyph, releasing the harmful spell within.
 

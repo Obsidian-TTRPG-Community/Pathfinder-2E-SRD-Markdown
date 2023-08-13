@@ -11,9 +11,10 @@ aliases: ["Rebounding Barrier"]
 # Rebounding Barrier *Spell 4*   
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
-- **Trigger**You are hit by a physical [Strike](rules/actions/strike.md).
+- **Trigger**: You are hit by a physical [Strike](rules/actions/strike.md).
+- 
 
 You swiftly raise a reflective barrier, reducing physical damage and rebounding it onto your attacker.
 

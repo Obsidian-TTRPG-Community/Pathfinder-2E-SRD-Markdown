@@ -15,10 +15,12 @@ aliases: ["Spiked Chain"]
 
 - **Price** 3 gp
 - **Bulk** 1
-- **Damage** `1d8` S
+  - **Damage**: `1d8` S
 - **Hands** 2
 - **Category** Martial; **Group** Flail 
 
 This 4-foot-long length of chain is covered with barbs and has spikes on one or both ends. Some feature metal hoops used as handgrips.
 
+
+---
 *Source: Core Rulebook p. 281*

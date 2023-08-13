@@ -21,7 +21,7 @@ aliases: ["Urgathoa", "Pallid Princess"]
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: deny your appetites, destroy undead, sacrifice your life
-- **Areas of Concern**: disease, , gluttony, , and undeath
+- **Areas of Concern**: disease, gluttony, and undeath
 - **Follower Alignments**: [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"), [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
@@ -38,8 +38,9 @@ aliases: ["Urgathoa", "Pallid Princess"]
 title: [Avatar](compendium/spells/avatar.md) of Urgathoa
 
 - **Speed**: Speed 70 feet, [air walk](compendium/spells/air-walk.md)
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") scythe ([deadly <d10>](rules/traits/deadly-d10.md "Deadly Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [trip](rules/traits/trip.md "Trip Weapon Trait")), **Damage** `6d10+6` slashing
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") pallid plague **Damage** `6d6+3` negative
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") scythe (, [deadly <d10>](rules/traits/deadly-d10.md "Deadly Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [trip](rules/traits/trip.md "Trip Weapon Trait")), **Damage** `6d10+6` slashing 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") pallid plague (), **Damage** `6d6+3` negative 
 ```
 
 ## Divine intercession

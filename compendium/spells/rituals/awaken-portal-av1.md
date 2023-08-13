@@ -15,8 +15,8 @@ aliases: ["Awaken Portal"]
 - **Secondary Casters** up to 5
 - **Primary Checks** [Arcana](compendium/skills.md#Arcana) or [Occultism](compendium/skills.md#Occultism) (trained)
 - **Secondary Checks** [Arcana](compendium/skills.md#Arcana), [Occultism](compendium/skills.md#Occultism) (whichever is used for the primary check)
-- **Range**10 feet
-- **Targets**1 portal
+- **Range**: 10 feet
+- **Targets**: 1 portal
 
 You attempt to reactivate a dormant gate, portal, or [teleportation circle](compendium/spells/rituals/teleportation-circle-apg.md) by infusing it with magical energies. This ritual must be successfully performed twice, once at each location the portal connects. While the teleportation circles and portals found in the Abomination Vaults require no additional cost to awaken, other portals might require rare items or specific materials as a cost for this ritual at the GM's discretion—some portals might even be so powerful that this ritual cannot awaken them at all.
 

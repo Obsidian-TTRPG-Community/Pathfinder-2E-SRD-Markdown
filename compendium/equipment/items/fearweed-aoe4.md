@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/aoe4
-- item/category/poison
+- item/category/poison/
 - trait/consumable
 - trait/contact
 - trait/divine
@@ -15,9 +15,9 @@ aliases: ["Fearweed"]
 [consumable](rules/traits/consumable.md "Consumable Item Trait")  [contact](rules/traits/contact.md "Contact Item Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 160 gp
-- **Usage** held in 2 hands; **Bulk** L
+- **Craft Requirements** Supply one casting of 4th-level [fear](compendium/spells/fear.md).
+- **Bulk** L; **Usage** held in 2 hands
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 Cultivated by mashing and fermenting toxic weeds found in lonely graveyards, fearweed is a greenish paste magically infused with psychic horror. The [frightened](rules/conditions.md#Frightened) condition from fearweed can't be removed while the poison lasts.
 
@@ -36,4 +36,6 @@ title: Saving Throw: DC 30 Fortitude
 **Stage 3** `9d6` poison damage and [frightened](rules/conditions.md#Frightened) (1 minute)
 ```
 
+
+---
 *Source: Agents of Edgewatch #4: Assault on Hunting Lodge Seven p. 77*

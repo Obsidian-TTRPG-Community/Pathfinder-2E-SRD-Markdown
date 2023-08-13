@@ -12,11 +12,11 @@ aliases: ["Inevitable Destination"]
 # Inevitable Destination *Focus 4*   
 [cleric](rules/traits/cleric.md "Cleric Class Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Domains**: [travel (apocryphal)](compendium/setting/domains.md#Travel)
+- **Domains** [travel (apocryphal)](compendium/setting/domains.md#Travel)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**you and 1 enemy
-- **Duration**2 rounds
+- **Range**: 30 foot
+- **Targets**: you and 1 enemy
+- **Duration**: 2 rounds
 
 You twist the paths of the target, ensuring that each one leads to you. The target attempts a Will saving throw.
 

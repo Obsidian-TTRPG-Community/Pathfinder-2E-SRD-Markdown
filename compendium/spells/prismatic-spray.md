@@ -12,9 +12,9 @@ aliases: ["Prismatic Spray"]
 # Prismatic Spray *Spell 7*   
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [light](rules/traits/light.md "Light Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Area**30-foot cone
+- **Area**: 30-foot cone
 
 A spray of rainbow light beams cascades from your open hand. Each creature in the area must roll `1d8` on the table below to see which beam affects it, then attempt a saving throw of the indicated type. The table notes any additional traits that apply to each type of ray. If a creature is struck by multiple beams, it uses the same d20 result for all its saving throws. For all rays, a successful saving throw negates the effect for that creature.
 

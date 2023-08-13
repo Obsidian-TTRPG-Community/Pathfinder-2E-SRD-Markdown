@@ -12,7 +12,7 @@ aliases: ["Clockwork Disguise"]
 [clockwork](rules/traits/clockwork-g-g.md "Clockwork  Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 200 gp
-- **Usage** worn armor; **Bulk** 2
+- **Bulk** 2; **Usage** worn armor
 - **AC Bonus** +2; **Dex Cap** +3
 - **Strength** 12; **Check Penalty** -1; **Speed Penalty** —
 - **Category** Light; **Group** Plate 
@@ -26,9 +26,12 @@ Giving a clockwork disguise a new preset configuration requires 20 minutes of wo
 The clockwork disguise is light armor and has the stats listed above, regardless of which type of armor it mimics.
 
 ```ad-embed-ability
-title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
+title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") [Interact](rules/actions/interact.md)
+
 
 Transform the clockwork disguise into any one current preset configuration of the user's choice.
 ```
 
+
+---
 *Source: Guns & Gears p. 85*

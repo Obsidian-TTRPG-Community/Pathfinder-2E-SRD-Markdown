@@ -20,7 +20,7 @@ aliases: ["Chaldira", "The Calamitous Turn"]
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: suffer a bully's insults to you or another without retort, abandon a friend in need, attribute a lucky turn of events to your own skill
-- **Areas of Concern**: battle, , fortune, , mischief
+- **Areas of Concern**: battle, fortune, mischief
 - **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")
 
 ## Devotee benefits
@@ -38,8 +38,9 @@ When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Ch
 title: [Avatar](compendium/spells/avatar.md) of Chaldira
 
 - **Speed**: Speed 70 feet, [air walk](compendium/spells/air-walk.md), immune to [immobilized](rules/conditions.md#Immobilized)
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") shortsword ([agile](rules/traits/agile.md "Agile Weapon Trait"), [finesse](rules/traits/finesse.md "Finesse Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [versatile <s>](rules/traits/versatile-s.md "Versatile Weapon Trait")), **Damage** `6d6+6` piercing
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") fistful of buttons ([nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait")), **Damage** `6d6+3` bludgeoning
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") shortsword (, [agile](rules/traits/agile.md "Agile Weapon Trait"), [finesse](rules/traits/finesse.md "Finesse Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [versatile <s>](rules/traits/versatile-s.md "Versatile Weapon Trait")), **Damage** `6d6+6` piercing 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") fistful of buttons (, [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait")), **Damage** `6d6+3` bludgeoning 
 ```
 
 ## Divine intercession

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/crb
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/ingested
@@ -15,9 +15,8 @@ aliases: ["Slumber Wine"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [ingested](rules/traits/ingested.md "Ingested Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [sleep](rules/traits/sleep.md "Sleep Effect Trait")  
 
 - **Price** 325 gp
-- **Usage** held in 1 hand; **Bulk** L
+- **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 Slumber wine sees its greatest use in games of intrigue, where an absence can be more devastating than injury.
 
@@ -38,4 +37,6 @@ title: Saving Throw: DC 32 Fortitude
 **Stage 3** [unconscious](rules/conditions.md#Unconscious). (3 days)
 ```
 
+
+---
 *Source: Core Rulebook p. 553*

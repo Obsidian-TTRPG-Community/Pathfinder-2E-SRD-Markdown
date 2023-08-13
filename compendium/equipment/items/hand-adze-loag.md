@@ -16,10 +16,12 @@ aliases: ["Hand Adze"]
 
 - **Price** 5 sp
 - **Bulk** L
-- **Damage** `1d4` S
+  - **Damage**: `1d4` S
 - **Hands** 1
 - **Category** Martial; **Group** Axe 
 
 This is a smaller version of an [adze](compendium/equipment/items/adze-loag.md), useful for more delicate woodworking or projects in cramped spaces. Gripplis use the hand adze for crafting and as close quarters weapons.
 
+
+---
 *Source: Lost Omens: Ancestry Guide p. 139*

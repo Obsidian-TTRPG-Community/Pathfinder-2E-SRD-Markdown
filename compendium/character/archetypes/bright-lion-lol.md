@@ -14,7 +14,6 @@ You are one of the Bright Lions, part revolutionary warrior, part undercover spy
 ```ad-embed-feat
 title: Bright Lion Dedication, Feat 2
 collapse: closed
-# Bright Lion Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: [Bright Lion](compendium/character/backgrounds/bright-lion-lowg.md) background
@@ -31,7 +30,6 @@ You become trained in your choice of [Deception](compendium/skills.md#Deception)
 ```ad-embed-feat
 title: Warding Light, Feat 4
 collapse: closed
-# Warding Light  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Bright Lion Dedication](compendium/feats/bright-lion-dedication-lol.md)
@@ -47,7 +45,6 @@ The tattoo allows you to cast the [light](compendium/spells/light.md) cantrip as
 ```ad-embed-feat
 title: Sun's Fury, Feat 6
 collapse: closed
-# Sun's Fury  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Bright Lion Dedication](compendium/feats/bright-lion-dedication-lol.md)
@@ -61,7 +58,6 @@ The Old Sun Gods have granted you a gift in your fight against Walkena. You gain
 ```ad-embed-feat
 title: Elude The Divine, Feat 8
 collapse: closed
-# Elude The Divine  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Bright Lion Dedication](compendium/feats/bright-lion-dedication-lol.md)

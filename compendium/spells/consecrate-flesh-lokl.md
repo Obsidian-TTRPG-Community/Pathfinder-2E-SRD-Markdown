@@ -12,9 +12,10 @@ aliases: ["Consecrate Flesh"]
 # Consecrate Flesh *Spell 3*   
 [good](rules/traits/good.md "Good Alignment Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Duration**1 minute
+- 
+- **Duration**: 1 minute
 
 Through the strength of your faith, your body becomes infused with holy energy. You have weakness 5 to evil. Any creature that touches or damages you with an unarmed attack or non-reach melee weapon takes `1d6` good damage.
 

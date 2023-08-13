@@ -16,10 +16,12 @@ aliases: ["Horsechopper"]
 
 - **Price** 9 sp
 - **Bulk** 2
-- **Damage** `1d8` S
+  - **Damage**: `1d8` S
 - **Hands** 2
 - **Category** Martial; **Group** Polearm 
 
 Created by goblins to battle horses, this weapon is essentially a long shaft ending in a blade with a large hook.
 
+
+---
 *Source: Core Rulebook p. 281*

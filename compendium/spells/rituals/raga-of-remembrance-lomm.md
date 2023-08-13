@@ -16,7 +16,7 @@ aliases: ["Raga of Remembrance"]
 - **Secondary Casters** 3
 - **Primary Checks** [Occultism](compendium/skills.md#Occultism) or [Religion](compendium/skills.md#Religion) (legendary)
 - **Secondary Checks** [Diplomacy](compendium/skills.md#Diplomacy) or [Performance](compendium/skills.md#Performance); [Nature](compendium/skills.md#Nature); [Religion](compendium/skills.md#Religion) or [Society](compendium/skills.md#Society)
-- **Targets**the primary caster
+- **Targets**: the primary caster
 
 You scribe occult symbols on unblighted Vudran ground, laying the ceramics within them to create a ritual space. To perform the ritual, light incense in the ceramics and sit at the center of the ritual space. You then play the [disharmonic instrument](rules/actions/craft-disharmonic-instrument-lomm.md), drawing on musical skill, occult harmonics, or religious tradition. This establishes an underlying drone atop which the secondary casters layer their own performances. The song calls to the millions who died defending Vudra from Kothogaz, investing their power in Vanitapati, the legendary psychic.
 

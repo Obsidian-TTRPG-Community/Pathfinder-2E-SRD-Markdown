@@ -12,12 +12,12 @@ aliases: ["Mirecloak"]
 # Mirecloak *Spell 5*   
 [divination](rules/traits/divination.md "Divination School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**up to 4 creatures
-- **Saving Throw** Fortitude
-- **Duration**up to 1 minute
+- **Range**: 30 foot
+- **Targets**: up to 4 creatures
+- **Saving Throw**: Fortitude
+- **Duration**: up to 1 minute
 
 You wrap the targeted creatures in thin, sickly green shrouds that sap information from attackers. The shroud settles about each target's shoulders, granting a +1 status bonus to AC and a +2 status bonus to [Stealth](compendium/skills.md#Stealth) checks, both only while the target is in dim light or darkness.
 

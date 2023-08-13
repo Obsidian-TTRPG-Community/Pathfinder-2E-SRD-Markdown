@@ -13,11 +13,11 @@ aliases: ["Undermine Reality"]
 # Undermine Reality *Spell 8*   
 [illusion](rules/traits/illusion.md "Illusion School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [shadow](rules/traits/shadow.md "Shadow General Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**500 foot
-- **Targets**one creature
-- **Duration**varies
+- **Range**: 500 foot
+- **Targets**: one creature
+- **Duration**: varies
 
 You lash a target with tendrils of shadow that steal some of its substance, making it quasi-real. As long as it is quasireal, its [Strikes](rules/actions/strike.md) deal half damage, it can't critically succeed at any skill check, and creatures attempting saving throws against its spells and effects get a result one degree of success better than they rolled. The target must attempt a Will saving throw.
 

@@ -18,14 +18,11 @@ Six giant tentacles reach up from the ink lake, grabbing any foes in reach and d
 
 - **Disable** DC 48 [Athletics](compendium/skills.md#Athletics) (legendary) or DC 45 [Acrobatics](compendium/skills.md#Acrobatics) (master) to tie one tentacle into a knot, rendering it useless, or dispel magic (8th level; counteract DC 44) to counteract one tentacle. The death of the Daemonic Rumormonger permanently dispels all the inky tendrils.  
 
-- **AC** 42 , **Fort** +36, **Ref** +39
+- **AC** 42, **Fort** +36, **Ref** +39
 - **Tentacle Hardness** 5, **Tentacle HP** 80 (BT 40)
-- **Immunities** 
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Tendrils Come Alive [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Tendrils Come Alive** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A non-daemonic creature moves within 15 feet of the shoreline
 
@@ -34,26 +31,19 @@ title: Tendrils Come Alive [R](rules/core-rulebook/chapter-9-playing-the-game.md
 
 ````ad-pf2-summary
 title: Routine
+
 (6 actions) The hazard loses 1 action for every tentacle that is disabled or destroyed. The tentacles can combine their actions to use the hazard's Inky Imitator ability. A [broken](rules/conditions.md#Broken) tentacle can still [Strike](rules/actions/strike.md), but it can't.
-
 ```ad-embed-ability
-title: Grab.
-
-This hazard takes no multiple attack penalty.
+title: **Grab.** This hazard takes no multiple attack penalty.
 ```
-
 ```ad-inline-attack
 title: Melee [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Tentacle (37) ([reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"))
 **Damage** `4d8+15` bludgeoning plus Grab 
- 
 **Effects** Grab
-
 %% #trait/reach-15-feet %%
 ```
-
 ```ad-embed-ability
-title: Constrict [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-
+title: **Constrict** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 `2d8+10` bludgeoning plus black ink delirium,
 ```
 ````

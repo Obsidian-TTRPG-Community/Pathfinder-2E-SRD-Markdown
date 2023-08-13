@@ -11,10 +11,10 @@ aliases: ["All Is One, One Is All"]
 # All Is One, One Is All *Spell 8*   
 [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**60 foot
-- **Targets**you and up to 10 willing living allies
+- **Range**: 60 foot
+- **Targets**: you and up to 10 willing living allies
 
 You meld the targets' matter and life force into one and then, in an instant, sift them back out into their component selves. When you separate the targets back into themselves, you can choose to switch the positions of any number of targets with the positions of other targets. Additionally, you can modulate the share of vital essence to share the burden of pain. Distribute the Hit Points of all targets however you choose, except that no target can receive fewer than 1 Hit Point or more than their maximum Hit Points.
 

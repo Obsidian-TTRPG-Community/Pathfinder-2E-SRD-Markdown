@@ -12,11 +12,11 @@ aliases: ["Life Pact"]
 # Life Pact *Spell 3*   
 [healing](rules/traits/healing.md "Healing Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** 1 minute 
-- **Range**touch
-- **Targets**up to 6 willing creatures
-- **Duration**10 minutes
+- **Range**: touch
+- **Targets**: up to 6 willing creatures
+- **Duration**: 10 minutes
 
 Using your life force or spirit as a conduit, you bind the targets in a mystical pact. If one of the targets is about to take damage that would reduce it to 0 Hit Points, all other targets immediately lose 3 Hit Points and the triggering target regains a number of Hit Points equal to the Hit Points lost this way, just before taking the damage. If this healing is enough that the triggering target is no longer reduced to 0 Hit Points, they remain conscious. Once the triggering target has regained Hit Points from the other targets, the spell ends.
 

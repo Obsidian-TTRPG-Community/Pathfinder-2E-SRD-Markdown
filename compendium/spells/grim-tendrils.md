@@ -12,10 +12,10 @@ aliases: ["Grim Tendrils"]
 # Grim Tendrils *Spell 1*   
 [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Area**30-foot line
-- **Saving Throw** Fortitude
+- **Area**: 30-foot line
+- **Saving Throw**: Fortitude
 
 Tendrils of darkness curl out from your fingertips and race through the air. You deal `2d4` negative damage and 1 [persistent bleed damage](rules/conditions.md#Persistent%20Damage) to living creatures in the line. Each living creature in the line must attempt a Fortitude save.
 

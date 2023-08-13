@@ -16,8 +16,8 @@ aliases: ["Spoon Gun"]
 
 - **Price** 10 gp
 - **Bulk** 1
-- **Damage** `1d6` modular
-- **Range** 30 ft.; **Reload** 1
+  - **Damage**: `1d6` modular
+  - **Range** 30 ft.; **Reload** 1
 - **Hands** 1
 - **Category** Martial; **Group** Firearm 
 
@@ -25,4 +25,6 @@ No one's entirely certain who developed the spoon gun, but all authorities agree
 
 This [hand cannon](compendium/equipment/items/hand-cannon-g-g.md) is a martial weapon, instead of a simple weapon. It has the scatter (5 feet) trait and uses cutlery or similar-sized objects as ammunition instead of bullets (enough cheap cutlery to fire ten shots costs 1 sp).
 
+
+---
 *Source: Guns & Gears p. 157*

@@ -11,11 +11,11 @@ aliases: ["Safe Passage"]
 # Safe Passage *Spell 3*   
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**touch
-- **Area**10-foot-wide, 10-foot-tall, 60-foot-long section of terrain
-- **Duration**sustained up to 1 minute
+- **Range**: touch
+- **Area**: 10-foot-wide, 10-foot-tall, 60-foot-long section of terrain
+- **Duration**: sustained up to 1 minute
 
 You repel dangers from all around you, making passage through the chosen area safe for a brief amount of time.
 

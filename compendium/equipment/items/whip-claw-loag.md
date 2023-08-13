@@ -16,10 +16,12 @@ aliases: ["Whip Claw"]
 
 - **Price** 5 gp
 - **Bulk** 1
-- **Damage** `1d6` S
+  - **Damage**: `1d6` S
 - **Hands** 2
 - **Category** Advanced; **Group** Flail 
 
 The whip claw is a long tether affixed to clawlike daggers, allowing the wielder to fling and retract them with deadly precision. Catfolk developed this weapon to provide extended reach when hunting dangerous animals and wield them with unmatched expertise.
 
+
+---
 *Source: Lost Omens: Ancestry Guide p. 139*

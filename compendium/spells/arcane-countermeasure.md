@@ -14,9 +14,9 @@ aliases: ["Arcane Countermeasure"]
 
 - **Bloodline** Sorcerer
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
-- **Trigger**A creature within range that you can see Casts a Spell.
-- **Range**120 foot
-- **Targets**the spell cast by the triggering creature
+- **Trigger**: A creature within range that you can see Casts a Spell.
+- **Range**: 120 foot
+- **Targets**: the spell cast by the triggering creature
 
 You undermine the target spell, making it easier to defend against. You reduce the spell's level by 1, and targets of the spell gain a +2 status bonus to any saving throws, skill checks, AC, or DC against it.
 

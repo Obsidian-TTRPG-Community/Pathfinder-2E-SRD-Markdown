@@ -17,20 +17,19 @@ Two blades, each [hidden](rules/conditions.md#Hidden) in a 15-foot-long ceiling 
 
 - **Disable** [Thievery](compendium/skills.md#Thievery) DC 21 (trained) to disable each blade.  
 
-- **AC** 21 , **Fort** +12, **Ref** +8
+- **AC** 21, **Fort** +12, **Ref** +8
 - **Hardness** 11, **HP** 44 (BT 22)
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Falling Scythes [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[attack](rules/traits/attack.md "Attack Combat Trait")  
+title: **Falling Scythes** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([attack](rules/traits/attack.md))
 
 - **Trigger**: The trip wire is pulled or severed.
 
 **Effect** Both blades swing down, each one attacking all creatures under the ceiling grooves.  
-%% #trait/attack %%
+%%
+ #trait/attack 
+%%
 ```
 
 **Reset** The trap resets after 15 minutes.  

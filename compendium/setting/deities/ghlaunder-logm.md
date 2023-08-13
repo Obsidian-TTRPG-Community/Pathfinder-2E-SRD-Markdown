@@ -17,7 +17,7 @@ aliases: ["Ghlaunder", "The Gossamer King"]
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: aid in ending a plague or infection, destroy something out of hand when you could have instead corrupted it or leeched off it first
-- **Areas of Concern**: infection, , insects, , parasites, , and stagnation
+- **Areas of Concern**: infection, insects, parasites, and stagnation
 - **Follower Alignments**: [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
@@ -35,7 +35,8 @@ When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Gh
 title: [Avatar](compendium/spells/avatar.md) of Ghlaunder
 
 - **Speed**: Speed 30 feet, fly 70 feet
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") proboscis ([agile](rules/traits/agile.md "Agile Weapon Trait"), [reach <20 feet>](rules/traits/reach-20-feet.md "Reach Weapon Trait")), **Damage** `6d6+6` piercing and `3d6` persistent bleed
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") proboscis (, [agile](rules/traits/agile.md "Agile Weapon Trait"), [reach <20 feet>](rules/traits/reach-20-feet.md "Reach Weapon Trait")), **Damage** `6d6+6` piercing and `3d6` persistent bleed 
 ```
 
 ## Divine intercession

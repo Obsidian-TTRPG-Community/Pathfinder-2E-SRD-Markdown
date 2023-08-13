@@ -12,12 +12,12 @@ aliases: ["Lightning Storm"]
 # Lightning Storm *Spell 5*   
 [electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**120 foot
-- **Area**20-foot burst
-- **Saving Throw**  basic Reflex
-- **Duration**sustained up to 1 minute
+- **Range**: 120 foot
+- **Area**: 20-foot burst
+- **Saving Throw**:  basic Reflex
+- **Duration**: sustained up to 1 minute
 
 You create a black, rumbling storm cloud and call down one lightning bolt within the spell's area. The bolt is a vertical line from the top of the storm cloud to the ground below, dealing `4d12` electricity damage to creatures in the line (basic Reflex save). On subsequent rounds, the first time you [Sustain the Spell](rules/actions/sustain-a-spell.md) each round, you can call another lightning bolt within the area. If you Cast this Spell outdoors, you can create two non-overlapping clouds instead of one, though you can still call down only one bolt per turn.
 

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/aoe1
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/contact
@@ -15,9 +15,8 @@ aliases: ["Looter's Lethargy"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [contact](rules/traits/contact.md "Contact Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 6 gp
-- **Usage** held in 1 hand; **Bulk** L
+- **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 Traps may keep many a thief at bay, but the poison known as looter's lethargy ensures that no thieves are strong enough to walk off with pilfered treasures.
 
@@ -40,4 +39,6 @@ title: Saving Throw: DC 19 Fortitude
 **Stage 3** [flat-footed](rules/conditions.md#Flat-footed), reduce Bulk limit by 5 (10 minutes)
 ```
 
+
+---
 *Source: Agents of Edgewatch #1: Devil at the Dreaming Palace p. 81*

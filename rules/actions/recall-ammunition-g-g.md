@@ -17,7 +17,7 @@ aliases: ["Recall Ammunition"]
 
 **Class** gunslinger
 **Archetype** [Spellshot](compendium/character/archetypes/spellshot-g-g.md)
-- **Trigger** You miss with a firearm or crossbow [Strike](rules/actions/strike.md) while using an ordinary level-0 bolt or bullet
+- **Trigger**: You miss with a firearm or crossbow [Strike](rules/actions/strike.md) while using an ordinary level-0 bolt or bullet
 - **Activity**: Reaction
 
 You amplify the connection between bullet and firearm, calling your missed shot back into your gun. The ammunition you just fired is reloaded back into your gun and immediately ready to fire again.

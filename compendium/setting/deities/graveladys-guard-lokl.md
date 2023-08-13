@@ -15,7 +15,7 @@ aliases: ["Gravelady's Guard"]
 
 - **Category**: Pantheon
 - **Anathema**: create undead, practice necromancy, desecrate a corpse, cower from battle
-- **Areas of Concern**: destroying undead, , healing, , fate, , battle, , death
+- **Areas of Concern**: destroying undead, healing, fate, battle, death
 - **Follower Alignments**: [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")
 
 ## Devotee benefits

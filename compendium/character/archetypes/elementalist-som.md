@@ -29,7 +29,6 @@ If you're a sorcerer with the elemental bloodline, you can replace your [initial
 ```ad-embed-feat
 title: Elementalist Dedication, Feat 2
 collapse: closed
-# Elementalist Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [class](rules/traits/class-som.md "Class Class Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: elemental magic
@@ -45,7 +44,6 @@ Each day when you make your daily preparations, you can attune yourself to one e
 ```ad-embed-feat
 title: Dousing Spell, Feat 4
 collapse: closed
-# Dousing Spell  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
 - **Prerequisites**: [Elementalist Dedication](compendium/feats/elementalist-dedication-som.md)
@@ -62,7 +60,6 @@ If the target has [persistent acid](rules/conditions.md#Persistent%20Damage) or 
 ```ad-embed-feat
 title: Elemental Familiar, Feat 4
 collapse: closed
-# Elemental Familiar  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Elementalist Dedication](compendium/feats/elementalist-dedication-som.md), Familiar
@@ -85,7 +82,6 @@ Your familiar gains one additional familiar ability each day, which must be one 
 ```ad-embed-feat
 title: Familiar (Sorcerer), Feat 4*
 collapse: closed
-# Familiar (Sorcerer)  *Feat 4*  
 [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 > [!pf2-note] This version of [Familiar (Sorcerer)](compendium/feats/familiar-sorcerer.md) is intended for use with the Elementalist Archetype. Its level has been changed accordingly.
@@ -100,7 +96,6 @@ An animal serves you and assists your spellcasting. You gain a familiar.
 ```ad-embed-feat
 title: Burning Spell, Feat 6
 collapse: closed
-# Burning Spell  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 - **Prerequisites**: [Elementalist Dedication](compendium/feats/elementalist-dedication-som.md)
@@ -115,7 +110,6 @@ You enhance your spell with elemental fire, causing it to set the target on fire
 ```ad-embed-feat
 title: Enhanced Familiar (Sorcerer), Feat 6*
 collapse: closed
-# Enhanced Familiar (Sorcerer)  *Feat 6*  
 [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 > [!pf2-note] This version of [Enhanced Familiar (Sorcerer)](compendium/feats/enhanced-familiar-sorcerer.md) is intended for use with the Elementalist Archetype. Its level has been changed accordingly.
@@ -131,7 +125,6 @@ You infuse your familiar with additional primal energy, increasing its abilities
 ```ad-embed-feat
 title: Current Spell, Feat 8*
 collapse: closed
-# Current Spell  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [druid](rules/traits/druid.md "Druid Class Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 > [!pf2-note] This version of [Current Spell](compendium/feats/current-spell-apg.md) is intended for use with the Elementalist Archetype. Its level has been changed accordingly.
@@ -147,7 +140,6 @@ As you use your magic to manipulate air or water, you divert some of its current
 ```ad-embed-feat
 title: Metabolize Element, Feat 8
 collapse: closed
-# Metabolize Element  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Elementalist Dedication](compendium/feats/elementalist-dedication-som.md)
@@ -165,7 +157,6 @@ You can use the extra action only to [Step](rules/actions/step.md) or [Stride](r
 ```ad-embed-feat
 title: Water Step, Feat 8*
 collapse: closed
-# Water Step  *Feat 8*  
 [monk](rules/traits/monk.md "Monk Class Trait")  
 
 > [!pf2-note] This version of [Water Step](compendium/feats/water-step.md) is intended for use with the Elementalist Archetype. Its level has been changed accordingly.
@@ -180,7 +171,6 @@ You can [Stride](rules/actions/stride.md) across liquid and surfaces that don't 
 ```ad-embed-feat
 title: Rockslide Spell, Feat 10
 collapse: closed
-# Rockslide Spell  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 - **Prerequisites**: [Elementalist Dedication](compendium/feats/elementalist-dedication-som.md)
@@ -195,7 +185,6 @@ You enhance your spell with elemental earth, causing chunks of stone to litter t
 ```ad-embed-feat
 title: Redirect Elements, Feat 12*
 collapse: closed
-# Redirect Elements  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Redirect Elements](compendium/feats/redirect-elements-som.md) is intended for use with the Elementalist Archetype. Its level has been changed accordingly.
@@ -213,7 +202,6 @@ You seize the elemental essence of an incoming spell and redirect the spell to a
 ```ad-embed-feat
 title: Wind-tossed Spell, Feat 14*
 collapse: closed
-# Wind-tossed Spell  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 14*  
 [air](rules/traits/air.md "Air Energy & Element Trait")  [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 > [!pf2-note] This version of [Wind-tossed Spell](compendium/feats/wind-tossed-spell-som.md) is intended for use with the Elementalist Archetype. Its level has been changed accordingly.

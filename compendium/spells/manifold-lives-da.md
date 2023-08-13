@@ -17,10 +17,10 @@ aliases: ["Manifold Lives"]
 
 - **Mystery** Oracle
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 creature
-- **Saving Throw** Will
-- **Duration**varies
+- **Range**: 30 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Will
+- **Duration**: varies
 
 You cast a creature's mind back through time, forcing them to take other paths and make other choices, experiencing countless alternate lives in an instant. The creature becomes overwhelmed with regret over paths untraveled, lives unlived, and times unrealized. The creature takes `6d6` mental damage and must attempt a Will save. After the effect is resolved, the target is then temporarily immune for 1 day.
 

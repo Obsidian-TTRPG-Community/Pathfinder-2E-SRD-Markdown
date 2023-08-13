@@ -14,11 +14,13 @@ You attract the loyalty of animals, and as your powers increase you can command 
 > If you're playing a beastmaster, you determine the statistics and abilities of your animal companions according to the rules on pages 214 –217 of the Core Rulebook. As a beastmaster, it's possible for you to have more than one animal companion at one time—up to four companions—but only one of those companions, your "active companion," follows you during exploration and in encounters; the rest are nearby, usually foraging or hunting for food. As soon as you gain a second animal companion from the Beastmaster archetype, you also gain Call Companion to switch your active companion. These rules apply to all your companions, regardless of whether you got the animal companion from the beastmaster archetype or from another source.
 > 
 > ```ad-embed-ability
-> title: Call Companion
-> [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  
+> title: **Call Companion**  ([exploration](rules/traits/exploration.md))
+> 
 > 
 > You spend 1 minute calling for a different animal companion, switching your active companion for another of your animal companions.  
-> %% #trait/exploration %%
+> %%
+>  #trait/exploration 
+> %%
 > ```
 
 *Source: Advanced Player's Guide p. 160*
@@ -26,7 +28,6 @@ You attract the loyalty of animals, and as your powers increase you can command 
 ```ad-embed-feat
 title: Beastmaster Dedication, Feat 2
 collapse: closed
-# Beastmaster Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: trained in [Nature](compendium/skills.md#Nature)
@@ -46,7 +47,6 @@ When you gain your first beastmaster focus spell, you become trained in primal s
 ```ad-embed-feat
 title: Additional Companion, Feat 4
 collapse: closed
-# Additional Companion  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Beastmaster Dedication](compendium/feats/beastmaster-dedication-apg.md)
@@ -62,7 +62,6 @@ Another animal joins you in your travels. It is a young animal companion that ha
 ```ad-embed-feat
 title: Heal Animal, Feat 4
 collapse: closed
-# Heal Animal  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Beastmaster Dedication](compendium/feats/beastmaster-dedication-apg.md)
@@ -76,7 +75,6 @@ You can heal your animal companion's wounds. You can cast [heal animal](compendi
 ```ad-embed-feat
 title: Magic Hide, Feat 4*
 collapse: closed
-# Magic Hide  *Feat 4*  
 [ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 > [!pf2-note] This version of [Magic Hide](compendium/feats/magic-hide-apg.md) is intended for use with the Beastmaster Archetype. Its level has been changed accordingly.
@@ -92,7 +90,6 @@ You can defend your companion in battle. You gain the [magic hide](compendium/sp
 ```ad-embed-feat
 title: Mature Beastmaster Companion, Feat 4
 collapse: closed
-# Mature Beastmaster Companion  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Beastmaster Dedication](compendium/feats/beastmaster-dedication-apg.md)
@@ -106,7 +103,6 @@ All of your animal companions grow up, becoming mature animal companions and gai
 ```ad-embed-feat
 title: Wild Empathy, Feat 4*
 collapse: closed
-# Wild Empathy  *Feat 4*  
 [ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 > [!pf2-note] This version of [Wild Empathy](compendium/feats/wild-empathy.md) is intended for use with the Beastmaster Archetype. Its level has been changed accordingly.
@@ -121,7 +117,6 @@ You have a connection to the creatures of the natural world that allows you to c
 ```ad-embed-feat
 title: Beastmaster's Trance, Feat 6
 collapse: closed
-# Beastmaster's Trance  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Beastmaster Dedication](compendium/feats/beastmaster-dedication-apg.md)
@@ -137,7 +132,6 @@ You gain the focus spell [beastmaster trance](compendium/spells/beastmaster-tran
 ```ad-embed-feat
 title: Companion's Cry, Feat 6*
 collapse: closed
-# Companion's Cry  *Feat 6*  
 [ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 > [!pf2-note] This version of [Companion's Cry](compendium/feats/companions-cry.md) is intended for use with the Beastmaster Archetype. Its level has been changed accordingly.
@@ -153,7 +147,6 @@ You can urge your companion to do its utmost. You can spend 2 actions to [Comman
 ```ad-embed-feat
 title: Incredible Beastmaster Companion, Feat 8
 collapse: closed
-# Incredible Beastmaster Companion  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Mature Beastmaster Companion](compendium/feats/mature-beastmaster-companion-apg.md)
@@ -169,7 +162,6 @@ They each become nimble or savage animal companions (your choice, choose for eac
 ```ad-embed-feat
 title: Beastmaster Bond, Feat 10
 collapse: closed
-# Beastmaster Bond  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  
 
 - **Prerequisites**: [Beastmaster Dedication](compendium/feats/beastmaster-dedication-apg.md)
@@ -183,7 +175,6 @@ You can communicate telepathically with your animal companions within 100 feet. 
 ```ad-embed-feat
 title: Enlarge Companion, Feat 10*
 collapse: closed
-# Enlarge Companion  *Feat 10*  
 [ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 > [!pf2-note] This version of [Enlarge Companion](compendium/feats/enlarge-companion-apg.md) is intended for use with the Beastmaster Archetype. Its level has been changed accordingly.
@@ -199,7 +190,6 @@ You make your companion enormous. You gain the [enlarge companion](compendium/sp
 ```ad-embed-feat
 title: Beastmaster's Call, Feat 12*
 collapse: closed
-# Beastmaster's Call  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  
 
 > [!pf2-note] This version of [Beastmaster's Call](compendium/feats/beastmasters-call-apg.md) is intended for use with the Beastmaster Archetype. Its level has been changed accordingly.
@@ -217,7 +207,6 @@ You quickly call in a primal projection of a non-active companion to provide the
 ```ad-embed-feat
 title: Side By Side (Ranger), Feat 14*
 collapse: closed
-# Side By Side (Ranger)  *Feat 14*  
 [ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 > [!pf2-note] This version of [Side By Side (Ranger)](compendium/feats/side-by-side-ranger.md) is intended for use with the Beastmaster Archetype. Its level has been changed accordingly.
@@ -233,7 +222,6 @@ You and your animal companion fight in tandem, distracting your foes and keeping
 ```ad-embed-feat
 title: Specialized Beastmaster Companion, Feat 14*
 collapse: closed
-# Specialized Beastmaster Companion  *Feat 14*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Specialized Beastmaster Companion](compendium/feats/specialized-beastmaster-companion-apg.md) is intended for use with the Beastmaster Archetype. Its level has been changed accordingly.
@@ -251,7 +239,6 @@ Your nimble and savage animal companions become cunning enough to become special
 ```ad-embed-feat
 title: Lead The Pack, Feat 16*
 collapse: closed
-# Lead The Pack  *Feat 16*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 > [!pf2-note] This version of [Lead The Pack](compendium/feats/lead-the-pack-apg.md) is intended for use with the Beastmaster Archetype. Its level has been changed accordingly.

@@ -11,11 +11,11 @@ aliases: ["Web Of Eyes"]
 # Web Of Eyes *Spell 3*   
 [divination](rules/traits/divination.md "Divination School Trait")  [scrying](rules/traits/scrying.md "Scrying Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**up to 5 willing creatures
-- **Duration**10 minutes
+- **Range**: 30 foot
+- **Targets**: up to 5 willing creatures
+- **Duration**: 10 minutes
 
 You place an [invisible](rules/conditions.md#Invisible) scrying sensor on each target just above their eyes. Each sensor looks where that target looks, and all the targets can link their vision briefly to help notice things one target sees but the others might not.
 

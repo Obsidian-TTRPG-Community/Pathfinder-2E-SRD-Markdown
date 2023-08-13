@@ -16,7 +16,8 @@ aliases: ["Embrace The Pit"]
 
 - **Bloodline** Sorcerer
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Duration**1 minute
+- 
+- **Duration**: 1 minute
 
 Devil horns grow from your skull, and your skin takes on features of the devil responsible for your diabolic bloodline.
 

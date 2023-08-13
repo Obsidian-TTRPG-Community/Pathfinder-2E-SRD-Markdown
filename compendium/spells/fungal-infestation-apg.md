@@ -11,11 +11,11 @@ aliases: ["Fungal Infestation"]
 # Fungal Infestation *Spell 2*   
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Area**15-foot cone
-- **Saving Throw** Fortitude
+- **Range**: touch
+- **Area**: 15-foot cone
+- **Saving Throw**: Fortitude
 
 Toxic spores swarm over creatures in the area, causing them to erupt in grotesque fungal growths. These noxious growths deal `2d6` [persistent poison damage](rules/conditions.md#Persistent%20Damage), and each creature must attempt a Fortitude save.
 

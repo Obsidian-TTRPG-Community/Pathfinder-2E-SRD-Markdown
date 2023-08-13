@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/ec2
-- item/category/structure
+- item/category/structure/
 - trait/conjuration
 - trait/magical
 - trait/structure
@@ -15,12 +15,12 @@ aliases: ["Marvelous Calliope"]
 
 - **Price** 100 gp
 - **Bulk** L (when not activated)
-- **Category** Structure
 
 This large slide whistle appears to be made of fine brass, the sides of which are engraved with musical notes and dancing clowns.
 
 ```ad-embed-ability
-title: Activate [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Duration or Frequency")
+title: **Activate** [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Duration or Frequency") 1 minute command, envision, [Interact](rules/actions/interact.md)
+
 
 You blow a tune upon the slide whistle, causing the whistle to expand. The whistle sprouts from one into several, and then creates a large wooden frame and keyboard.
 
@@ -32,9 +32,13 @@ If you use an [Interact](rules/actions/interact.md) action to pull the small met
 ```
 
 ```ad-embed-ability
-title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
+title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") [Interact](rules/actions/interact.md)
 
-You play the calliope, causing it to cast [charm](compendium/spells/charm.md) on one of the listeners.
+- **Frequency**: once per hour
+
+**Effect** You play the calliope, causing it to cast [charm](compendium/spells/charm.md) on one of the listeners.
 ```
 
+
+---
 *Source: Extinction Curse #2: Legacy of the Lost God p. 74*

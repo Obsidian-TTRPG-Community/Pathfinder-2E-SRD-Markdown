@@ -16,9 +16,9 @@ aliases: ["Swatting Tail"]
 Mogaru's tail sweeps forth, causing an arc of devastation in a 60-foot cone.
 
 - **Disable** DC 45 [Performance](compendium/skills.md#Performance) (legendary) or DC 48 [Deception](compendium/skills.md#Deception) (legendary) to momentarily divert Mogaru's attention.  
-     
+
 ```ad-embed-ability
-title: Tail Swat [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Tail Swat** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature takes a [hostile](rules/conditions.md#Hostile) action against Mogaru, produces a visible area effect, or flies within 120 feet of Mogaru
 

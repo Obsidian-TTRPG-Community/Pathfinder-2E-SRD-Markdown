@@ -12,7 +12,7 @@ aliases: ["Blessed Medicine"]
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Undead Slayer Dedication](compendium/feats/undead-slayer-dedication-botd.md)
-- **Trigger** You fail a check to [Treat a Disease](rules/actions/treat-disease.md) that was inflicted by an undead (such as b1 or mummy rot).
+- **Trigger** You fail a check to [Treat a Disease](rules/actions/treat-disease.md) that was inflicted by an undead (such as [ghoul fever](compendium/gm/afflictions/ghoul-fever-b1.md) or mummy rot).
 
 Your experience battling undead has uniquely prepared you to fight the diseases they inflict on the survivors, and you know that leaving these maladies untreated for long will eventually lead to more undead. Reroll the failed check and use the new result.
 

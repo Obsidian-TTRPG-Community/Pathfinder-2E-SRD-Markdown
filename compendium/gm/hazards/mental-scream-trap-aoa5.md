@@ -16,10 +16,9 @@ aliases: ["Mental Scream Trap"]
 A psychic scream disorients creatures in the area.
 
 - **Disable** [Arcana](compendium/skills.md#Arcana) (DC 41) to suppress the magic or [Thievery](compendium/skills.md#Thievery) (DC 41) to scratch out the ward  
-     
+
 ```ad-embed-ability
-title: Psychic Screech [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
+title: **Psychic Screech** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([arcane](rules/traits/arcane.md), [enchantment](rules/traits/enchantment.md), [incapacitation](rules/traits/incapacitation.md), [mental](rules/traits/mental.md))
 
 - **Trigger**: A creature enters the marked area
 
@@ -30,7 +29,9 @@ title: Psychic Screech [R](rules/core-rulebook/chapter-9-playing-the-game.md#Act
 > - **Success** The target is [stunned](rules/conditions.md#Stunned).
 > - **Failure** The target is [paralyzed](rules/conditions.md#Paralyzed) for 1 round, then [stunned](rules/conditions.md#Stunned) when the paralysis ends.
 > - **Critical Failure** The target is [paralyzed](rules/conditions.md#Paralyzed) for 4 rounds. At the end of each of its turns, it can attempt a new Will save to reduce the remaining duration by 1 round, or end it entirely on a critical success.  
-%% #trait/arcane #trait/enchantment #trait/incapacitation #trait/mental %%
+%%
+ #trait/arcane  #trait/enchantment  #trait/incapacitation  #trait/mental 
+%%
 ```
 
 *Source: Age of Ashes #5: Against the Scarlet Triad p. 56*

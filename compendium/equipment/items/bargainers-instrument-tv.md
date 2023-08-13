@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
-- item/category/consumable
+- item/category/consumable/
 - trait/conjuration
 - trait/consumable
 - trait/magical
@@ -14,9 +14,8 @@ aliases: ["Bargainer's Instrument"]
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 1000 gp
-- **Usage** held in 2 hands; **Bulk** L
-- **Activate** envision, , [Interact](rules/actions/interact.md)
-- **Category** Consumable
+- **Bulk** L; **Usage** held in 2 hands
+- **Activate** envision, [Interact](rules/actions/interact.md)
 
 A bargainer's instrument is a musical implement. The most typical version is a violin made from maple and spruce, its body stained so deep a purple it appears almost black. When activated, the instrument casts a planar binding ritual to conjure a willing extraplanar talent to compete with you in performance.
 
@@ -24,4 +23,6 @@ The contest could be a musical battle, a dance-off, an oratorical debate—the t
 
 After the contest, the conjured creature can choose to return to where it came from or remain where you conjured it. The loser must endeavor to complete the task by all reasonable means within 1 week. Failing to complete it is shameful but has no further consequences. The instrument loses its magic and remains a non-magical virtuoso instrument.
 
+
+---
 *Source: Treasure Vault p. 96*

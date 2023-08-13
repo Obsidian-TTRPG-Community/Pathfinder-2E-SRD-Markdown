@@ -6,7 +6,7 @@ tags:
 - trait/archetype
 aliases: ["Saving Slash"]
 ---
-# Saving Slash  [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies") *Feat 10*  
+# Saving Slash  [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies") Varies ([R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")]) *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Aldori Duelist Dedication](compendium/feats/aldori-duelist-dedication-lowg.md)

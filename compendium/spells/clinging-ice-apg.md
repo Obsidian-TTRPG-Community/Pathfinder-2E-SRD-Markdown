@@ -17,10 +17,10 @@ aliases: ["Clinging Ice"]
 
 - **Patron** Witch
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**30 foot
-- **Targets**1 creature
-- **Saving Throw** Reflex
-- **Duration**sustained, up to 1 minute
+- **Range**: 30 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Reflex
+- **Duration**: sustained, up to 1 minute
 
 Freezing sleet and heavy snowfall collect on the target's feet and legs, dealing `1d4` cold damage and other effects depending on its Reflex save. Once this spell ends, the target becomes temporarily immune for 1 minute.
 

@@ -10,10 +10,10 @@ aliases: ["Chromatic Wall"]
 # Chromatic Wall *Spell 5*   
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**120 foot
-- **Duration**10 minutes
+- **Range**: 120 foot
+- **Duration**: 10 minutes
 
 You create an opaque wall of light in a single vibrant color.
 

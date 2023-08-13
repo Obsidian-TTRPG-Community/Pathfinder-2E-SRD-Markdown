@@ -13,12 +13,12 @@ aliases: ["Suspended Retribution"]
 # Suspended Retribution *Spell 6*   
 [curse](rules/traits/curse.md "Curse Effect Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [prediction](rules/traits/prediction.md "Prediction Effect Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**60 foot
-- **Targets**1 creature
-- **Saving Throw**  basic Reflex
-- **Duration**1 minute
+- **Range**: 60 foot
+- **Targets**: 1 creature
+- **Saving Throw**:  basic Reflex
+- **Duration**: 1 minute
 
 All life dances one step from the precipice, one heartbeat from disaster. You open your eyes wide and see doom waiting in the wings, then invite it to step forward. A spectral omen of disaster appears above the target's head— traditionally, this is a downward-pointing sword, but some spellcasters report seeing a hangman's noose or a grinning skull instead. When you Cast this Spell, pick one of the following triggers.
 

@@ -20,7 +20,7 @@ aliases: ["Alseta", "The Welcomer"]
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: destroy a door or block a path for personal gain, stop a transition without good reason
-- **Areas of Concern**: doors, , portals, , thresholds, , traditions
+- **Areas of Concern**: doors, portals, thresholds, traditions
 - **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait")
 
 ## Devotee benefits
@@ -38,8 +38,9 @@ When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Al
 title: [Avatar](compendium/spells/avatar.md) of Alseta
 
 - **Speed**: Speed 40 feet
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") dagger ([agile](rules/traits/agile.md "Agile Weapon Trait"), [finesse](rules/traits/finesse.md "Finesse Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [thrown <40 feet>](rules/traits/thrown-40-feet.md "Thrown Weapon Trait"), [versatile <p>](rules/traits/versatile-p.md "Versatile Weapon Trait")), **Damage** `6d6+6` piercing
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") portal toss **Damage** `6d6+3` bludgeoning
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") dagger (, [agile](rules/traits/agile.md "Agile Weapon Trait"), [finesse](rules/traits/finesse.md "Finesse Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [thrown <40 feet>](rules/traits/thrown-40-feet.md "Thrown Weapon Trait"), [versatile <p>](rules/traits/versatile-p.md "Versatile Weapon Trait")), **Damage** `6d6+6` piercing 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") portal toss (), **Damage** `6d6+3` bludgeoning 
 ```
 
 ## Divine intercession

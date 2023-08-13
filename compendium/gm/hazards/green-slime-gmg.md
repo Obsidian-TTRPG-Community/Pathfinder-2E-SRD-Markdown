@@ -16,14 +16,13 @@ A caustic green film clings to the ceiling above, watching for prey to pass bene
 
 - **Disable** DC 33 [Survival](compendium/skills.md#Survival) (expert) to carefully peel the slime off the ceiling without touching it  
 
-- **AC** 20 , **Fort** +25, 
+- **AC** 20, **Fort** +25, **Abilities** +0
 - **HP** 200 (BT 100)
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
 - **Weaknesses** cold 20; fire 20
-     
+
 ```ad-embed-ability
-title: Dissolving Ambush [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Dissolving Ambush** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature walks beneath the slime
 

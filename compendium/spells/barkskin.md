@@ -11,11 +11,11 @@ aliases: ["Barkskin"]
 # Barkskin *Spell 2*   
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Targets**1 willing creature
-- **Duration**10 minutes
+- **Range**: touch
+- **Targets**: 1 willing creature
+- **Duration**: 10 minutes
 
 The target's skin becomes covered in bark. The target gains resistance 2 to bludgeoning and piercing damage and weakness 3 to fire. After the target takes fire damage, it can [Dismiss](rules/actions/dismiss.md) the spell as a free action triggered by taking the damage; doing so doesn't reduce the fire damage the target was dealt.
 

@@ -18,15 +18,16 @@ aliases: ["Electric Latch Rune"]
 An [invisible](rules/conditions.md#Invisible) rune imprinted on a door latch releases a powerful electric discharge.
 
 - **Disable** [Thievery](compendium/skills.md#Thievery) DC 20 (expert) to scratch out the rune without allowing electricity to flow, or dispel magic (2nd level; counteract DC 18) to counteract the rune.  
-     
+
 ```ad-embed-ability
-title: Electrocution [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
+title: **Electrocution** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([arcane](rules/traits/arcane.md), [electricity](rules/traits/electricity.md), [evocation](rules/traits/evocation.md))
 
 - **Trigger**: A creature grasps the door latch directly or with a tool.
 
 **Effect** The trap deals `3d12` electricity damage to the triggering creature (DC 22 basic Reflex save).  
-%% #trait/arcane #trait/electricity #trait/evocation %%
+%%
+ #trait/arcane  #trait/electricity  #trait/evocation 
+%%
 ```
 
 *Source: Core Rulebook p. 523*

@@ -12,10 +12,10 @@ aliases: ["Shocking Grasp"]
 # Shocking Grasp *Spell 1*   
 [attack](rules/traits/attack.md "Attack Combat Trait")  [electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Targets**1 creature
+- **Range**: touch
+- **Targets**: 1 creature
 
 You shroud your hands in a crackling field of lightning. Make a melee spell attack roll. On a hit, the target takes `2d12` electricity damage. If the target is wearing metal armor or is made of metal, you gain a +1 circumstance bonus to your attack roll with shocking grasp, and the target also takes `1d4` [persistent electricity damage](rules/conditions.md#Persistent%20Damage) on a hit. On a critical hit, double the initial damage, but not the [persistent damage](rules/conditions.md#Persistent%20Damage).
 

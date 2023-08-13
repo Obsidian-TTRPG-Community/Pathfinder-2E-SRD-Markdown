@@ -17,8 +17,8 @@ aliases: ["Word of Recall"]
 - **Secondary Casters** 2
 - **Primary Checks** [Arcana](compendium/skills.md#Arcana) or [Occultism](compendium/skills.md#Occultism) (expert, the check has the [secret](rules/traits/secret.md "Secret General Trait") trait)
 - **Secondary Checks** [Arcana](compendium/skills.md#Arcana) or [Occultism](compendium/skills.md#Occultism) (whichever isn't used for the primary check), [Society](compendium/skills.md#Society)
-- **Range**20 feet
-- **Targets**Up to seven willing creatures of 14th level or lower
+- **Range**: 20 feet
+- **Targets**: Up to seven willing creatures of 14th level or lower
 
 You bind yourself and your allies to the specific safe location where you perform the ritual. This allows the participants to return later by simply speaking a word.
 

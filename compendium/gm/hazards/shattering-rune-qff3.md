@@ -18,15 +18,16 @@ aliases: ["Shattering Rune"]
 A magical rune is inscribed on the tarry earth at the entrance to the hut, buried beneath snow, with an [invisible](rules/conditions.md#Invisible) sensor that detects creatures within a 10-foot-radius sphere.
 
 - **Disable** [Thievery](compendium/skills.md#Thievery) DC 30 (master) to erase the rune without triggering the sensor or dispel magic (5th level; counteract DC 28) to dispel the rune  
-     
+
 ```ad-embed-ability
-title: Shattering Shockwave [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  
+title: **Shattering Shockwave** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([arcane](rules/traits/arcane.md), [evocation](rules/traits/evocation.md), [sonic](rules/traits/sonic.md))
 
 - **Trigger**: A Small or larger creature comes within 10 feet of the rune
 
 **Effect** The rune unleashes a deafening peal of thunder that deals `10d8` sonic damage in a 20-foot burst (DC 30 basic Reflex save).  
-%% #trait/arcane #trait/evocation #trait/sonic %%
+%%
+ #trait/arcane  #trait/evocation  #trait/sonic 
+%%
 ```
 
 *Source: Quest for the Frozen Flame #3: Burning Tundra p. 37*

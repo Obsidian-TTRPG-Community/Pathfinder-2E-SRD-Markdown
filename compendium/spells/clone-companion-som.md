@@ -10,11 +10,11 @@ aliases: ["Clone Companion"]
 # Clone Companion *Spell 8*   
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**30 foot
-- **Targets**your companion
-- **Duration**sustained up to 1 minute
+- **Range**: 30 foot
+- **Targets**: your companion
+- **Duration**: sustained up to 1 minute
 
 You create a duplicate of your companion, and the duplicate fights alongside its twin, mirroring the original's actions.
 

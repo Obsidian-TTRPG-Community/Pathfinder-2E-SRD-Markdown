@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
-- item/category/shield
+- item/category/shield/
 - trait/integrated-1d6-s-versatile-p
 aliases: ["Klar"]
 ---
@@ -12,9 +12,11 @@ aliases: ["Klar"]
 
 - **Price** 3 gp
 - **Bulk** 1
-- **AC Bonus** +1/+1; **null Hardness** 3, **null HP** 10 (BT 5)
-- **Category** Shield; **Group** Shield 
+- **AC Bonus** +1/+1; **Hardness** 3, **HP** 10 (BT 5); **Speed Penalty** —
+- **Group** Shield 
 
 This traditional Shoanti armament combines a short metal blade with the skull of a large horned lizard, fashioned as a shield. The lightweight shield allows for quick attacks with its integrated blade.
 
+
+---
 *Source: Treasure Vault p. 21*

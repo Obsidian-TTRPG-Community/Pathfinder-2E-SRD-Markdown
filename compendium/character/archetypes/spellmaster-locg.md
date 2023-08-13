@@ -14,7 +14,6 @@ Those who train under the Master of Spells concern themselves with all matters r
 ```ad-embed-feat
 title: Spellmaster Dedication, Feat 6
 collapse: closed
-# Spellmaster Dedication  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: Intelligence, Wisdom, or Charisma 14; ability to cast focus spells; member of the Pathfinder Society affiliated with the School of Spells
@@ -30,7 +29,6 @@ As a Spellmaster, you are adept at identifying magic. You gain a +2 circumstance
 ```ad-embed-feat
 title: Surreptitious Spellcaster, Feat 8
 collapse: closed
-# Surreptitious Spellcaster  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spellmaster Dedication](compendium/feats/spellmaster-dedication-locg.md)
@@ -44,7 +42,6 @@ You've learned that it pays for a Pathfinder to be able to cast spells without b
 ```ad-embed-feat
 title: Ward Casting, Feat 10
 collapse: closed
-# Ward Casting  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spellmaster Dedication](compendium/feats/spellmaster-dedication-locg.md), Steady Spellcasting
@@ -60,7 +57,6 @@ You carefully ward your spell by drawing from a mantle of magical energy you pre
 ```ad-embed-feat
 title: Spellmaster's Resilience, Feat 12*
 collapse: closed
-# Spellmaster's Resilience  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Spellmaster's Resilience](compendium/feats/spellmasters-resilience-locg.md) is intended for use with the Spellmaster Archetype. Its level has been changed accordingly.
@@ -76,7 +72,6 @@ Your experience with a specific type of harmful magic makes you more resistant t
 ```ad-embed-feat
 title: Absorb Spell, Feat 14*
 collapse: closed
-# Absorb Spell  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 14*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Absorb Spell](compendium/feats/absorb-spell-locg.md) is intended for use with the Spellmaster Archetype. Its level has been changed accordingly.

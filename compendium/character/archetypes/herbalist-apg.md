@@ -15,7 +15,6 @@ The plants around you can provide more remedies than the finest hospital or temp
 ```ad-embed-feat
 title: Herbalist Dedication, Feat 2
 collapse: closed
-# Herbalist Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: trained in [Nature](compendium/skills.md#Nature), [Natural Medicine](compendium/feats/natural-medicine.md)
@@ -33,7 +32,6 @@ You become an expert in [Nature](compendium/skills.md#Nature) and can use [Natur
 ```ad-embed-feat
 title: Fresh Ingredients, Feat 2
 collapse: closed
-# Fresh Ingredients  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Herbalist Dedication](compendium/feats/herbalist-dedication-apg.md), expert in [Nature](compendium/skills.md#Nature)
@@ -47,7 +45,6 @@ When using [Natural Medicine](compendium/feats/natural-medicine.md) to [Treat Wo
 ```ad-embed-feat
 title: Poultice Preparation, Feat 4
 collapse: closed
-# Poultice Preparation  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Herbalist Dedication](compendium/feats/herbalist-dedication-apg.md)
@@ -63,7 +60,6 @@ When you apply a poultice, in addition to the item's normal effects, the recipie
 ```ad-embed-feat
 title: Endemic Herbs, Feat 6
 collapse: closed
-# Endemic Herbs  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Herbalist Dedication](compendium/feats/herbalist-dedication-apg.md), trained in [Survival](compendium/skills.md#Survival)
@@ -86,7 +82,6 @@ During your daily preparations, you find medicinal plants endemic to your locati
 ```ad-embed-feat
 title: Expert Herbalism, Feat 6
 collapse: closed
-# Expert Herbalism  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Herbalist Dedication](compendium/feats/herbalist-dedication-apg.md), expert in [Nature](compendium/skills.md#Nature)

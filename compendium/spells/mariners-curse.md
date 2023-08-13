@@ -11,11 +11,11 @@ aliases: ["Mariner's Curse"]
 # Mariner's Curse *Spell 5*   
 [curse](rules/traits/curse.md "Curse Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Targets**1 creature
-- **Saving Throw** Will
+- **Range**: touch
+- **Targets**: 1 creature
+- **Saving Throw**: Will
 
 You afflict the target with the curse of the roiling, unforgiving sea. The target must attempt a Will save.
 

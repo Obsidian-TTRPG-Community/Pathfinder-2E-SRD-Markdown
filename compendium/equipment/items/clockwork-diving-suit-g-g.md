@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/g&g
-- item/category/adventuring-gear
+- item/category/adventuring-gear/
 - trait/air
 - trait/clockwork
 - trait/uncommon
@@ -14,8 +14,7 @@ aliases: ["Clockwork Diving Suit"]
 [air](rules/traits/air.md "Air Energy & Element Trait")  [clockwork](rules/traits/clockwork-g-g.md "Clockwork  Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
 - **Price** 200 gp
-- **Usage** Worn; **Bulk** 4
-- **Category** Adventuring Gear
+- **Bulk** 4; **Usage** Worn
 
 The clockwork diving suit is a marvel of technology that allows its user to breathe underwater for hours at a time without the aid of magic. Compared to a more traditional magically-assisted diving suit using a bottle of air, a clockwork diving suit is both less expensive and better protected, making clockwork diving suits a good choice for characters who prefer more protection. However, they also come with a built-in time limit, which magical diving suits circumvent. A clockwork diving suit is a bulky, fully sealed suit of armor lined with a complex series of filter-equipped bladders that store and circulate air for the user to breathe.
 
@@ -34,11 +33,14 @@ This air supply can be refilled by spending one hour in an area with air, and yo
 The diving suit is a suit of medium armor, and it has the following stats: AC Bonus +4; Dex Cap +1; Check Penalty –4; Speed Penalty –15 ft; Strength 18.
 
 ```ad-embed-ability
-title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
+title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") [Interact](rules/actions/interact.md)
+
 
 The diving suit shoots out a water jet that causes you to [Swim](rules/actions/swim.md) 25 feet in a straight line. The distance of this movement is unaffected by your swim Speed, if you have one, or the armor's Speed penalty.
 
 However, difficult terrain, such as the difficult terrain for moving up or down or moving against a current, still slows this movement.
 ```
 
+
+---
 *Source: Guns & Gears p. 86*

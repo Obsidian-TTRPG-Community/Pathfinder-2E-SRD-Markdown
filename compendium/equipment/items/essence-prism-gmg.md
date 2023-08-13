@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/gmg
-- item/category/artifact
+- item/category/artifact/
 - trait/artifact
 - trait/transmutation
 - trait/unique
@@ -13,12 +13,11 @@ aliases: ["Essence Prism"]
 [artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Bulk** 5
-- **Category** Artifact
 
 This enormous, multifaceted prism normally rests on a pedestal, eerily refracting many-colored lights even when no light source is present. In reality, the prism refracts the four magical essences into the visible spectrum (see page 300 in the Core Rulebook for more on the four essences). A creature adjacent to the prism can adjust its facets with an [Interact](rules/actions/interact.md) action to change between two polarities. Two essences flow from two input streams into the prism, where the prism combines them into a single output stream; alternatively, a single essence flows from one input stream into the prism and is split into two output streams. A creature that enters and stays within an input essence stream for 1 minute is slowly encased in solid magic, at which point it is [paralyzed](rules/conditions.md#Paralyzed) until anyone reverses the prism's flow or finishes activating the prism. A creature stepping into an output essence stream is gently pushed back and out of the stream.
 
 ```ad-embed-ability
-title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
+title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") [Interact](rules/actions/interact.md)
 
 - **Requirements**: The prism has only one input stream
 
@@ -26,7 +25,7 @@ title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "
 ```
 
 ```ad-embed-ability
-title: Activate [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Duration or Frequency")
+title: **Activate** [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Duration or Frequency") 1 minute [Interact](rules/actions/interact.md)
 
 - **Requirements**: The prism has only one input stream, and a creature is encased in magic in the input stream
 
@@ -34,11 +33,13 @@ title: Activate [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Actions 
 ```
 
 ```ad-embed-ability
-title: Activate [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Duration or Frequency")
+title: **Activate** [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Duration or Frequency") 1 minute ([Interact](rules/actions/interact.md))
 
 - **Requirements**: The prism has two input streams, and a creature is encased in magic in each of the input streams
 
 **Effect** Over the course of the next hour, the essences of both creatures in the input streams are refracted through the prism, creating a cocoon of magic in the output stream that contains a new creature. At the end of the process, the original creatures are gone, and the new creature breaks free of its cocoon. The new creature is an amalgam of the originals, with a new personality blended from both, and is usually 1 or 2 levels higher than the higher level of the original creatures unless the lower-level creature was much weaker. This activation also reverses the effect of the second activation.
 ```
 
+
+---
 *Source: Gamemastery Guide p. 108*

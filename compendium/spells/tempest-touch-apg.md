@@ -17,9 +17,9 @@ aliases: ["Tempest Touch"]
 
 - **Mystery** Oracle
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**touch
-- **Targets**1 creature
-- **Saving Throw** Fortitude
+- **Range**: touch
+- **Targets**: 1 creature
+- **Saving Throw**: Fortitude
 
 Your touch calls forth a churning mass of icy water that clings to your target, dealing `1d4` bludgeoning damage and `1d4` cold damage. The target must attempt a Fortitude save.
 

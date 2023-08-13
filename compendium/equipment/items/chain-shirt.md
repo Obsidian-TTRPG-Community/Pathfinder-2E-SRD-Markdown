@@ -19,4 +19,6 @@ aliases: ["Chain Shirt"]
 
 Sometimes called a hauberk, this is a long shirt constructed of the same metal rings as chainmail. However, it is much lighter than chainmail and protects only the torso, upper arms, and upper legs of its wearer.
 
+
+---
 *Source: Core Rulebook p. 275*

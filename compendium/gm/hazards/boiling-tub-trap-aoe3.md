@@ -16,9 +16,9 @@ aliases: ["Boiling Tub Trap"]
 A snapped trip wire causes an alchemical bomb to detonate and blow up part of the tin tub, spilling boiling water all over the trap's victim.
 
 - **Disable** DC 32 [Thievery](compendium/skills.md#Thievery) (master) to safely remove the trip wire from the bomb.  
-     
+
 ```ad-embed-ability
-title: Overflowing Boiling Water [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Overflowing Boiling Water** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: The trip wire is pulled or severed
 

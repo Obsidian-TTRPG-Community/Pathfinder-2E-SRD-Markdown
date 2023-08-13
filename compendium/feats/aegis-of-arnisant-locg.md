@@ -16,13 +16,14 @@ aliases: ["Aegis Of Arnisant"]
 Inspired by the tale of Arnisant, you transform your shield into a magic ward. Until the beginning of your next turn, you gain the following reaction:
 
 ```ad-embed-ability
-title: Absorb into the Aegis [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
+title: **Absorb into the Aegis** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") Reaction ([R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")) ([manipulate](rules/traits/manipulate.md))
 
 - **Trigger**: An enemy casts a spell that targets you or an ally within 15 feet of you.
 
 **Effect** You interpose your shield's ward against the spell. Attempt a counteract check, using your [Religion](compendium/skills.md#Religion) modifier as your counteract modifier. On a success, the spell is counteracted and your shield takes damage equal to four times the spell level as it absorbs and disperses the magical energy. On a failure, the shield takes damage equal to twice the spell's level.  
-%% #trait/manipulate %%
+%%
+ #trait/manipulate 
+%%
 ```
 
 *Source: Lost Omens: Character Guide p. 94*  

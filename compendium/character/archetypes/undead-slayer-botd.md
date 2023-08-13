@@ -28,7 +28,6 @@ Some undead slayers work at the behest of an organization to exterminate the und
 ````ad-embed-feat
 title: Undead Slayer Dedication, Feat 2
 collapse: closed
-# Undead Slayer Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: trained in [Religion](compendium/skills.md#Religion)
@@ -36,7 +35,7 @@ collapse: closed
 Your training has prepared you to recognize most undead on sight. You become trained in two [Lore](compendium/skills.md#Lore) skills, each about a specific type of undead, or become an expert if you were already trained. You gain the Slayer's Identification free action.
 
 ```ad-embed-ability
-title: Slayer's Identification [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
+title: **Slayer's Identification** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
 
 - **Trigger**: You roll initiative and can observe a creature you know is undead
 
@@ -50,11 +49,10 @@ title: Slayer's Identification [F](rules/core-rulebook/chapter-9-playing-the-gam
 ```ad-embed-feat
 title: Blessed Medicine, Feat 4
 collapse: closed
-# Blessed Medicine  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Undead Slayer Dedication](compendium/feats/undead-slayer-dedication-botd.md)
-- **Trigger** You fail a check to [Treat a Disease](rules/actions/treat-disease.md) that was inflicted by an undead (such as b1 or mummy rot).
+- **Trigger** You fail a check to [Treat a Disease](rules/actions/treat-disease.md) that was inflicted by an undead (such as [ghoul fever](compendium/gm/afflictions/ghoul-fever-b1.md) or mummy rot).
 
 Your experience battling undead has uniquely prepared you to fight the diseases they inflict on the survivors, and you know that leaving these maladies untreated for long will eventually lead to more undead. Reroll the failed check and use the new result.
 
@@ -65,7 +63,6 @@ Your experience battling undead has uniquely prepared you to fight the diseases 
 ```ad-embed-feat
 title: Hunter's Sanctum, Feat 4
 collapse: closed
-# Hunter's Sanctum  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Undead Slayer Dedication](compendium/feats/undead-slayer-dedication-botd.md)
@@ -79,7 +76,6 @@ You establish a safe house where you can prepare for your hunt. The sanctum is r
 ```ad-embed-feat
 title: Necromantic Resistance, Feat 4
 collapse: closed
-# Necromantic Resistance  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Undead Slayer Dedication](compendium/feats/undead-slayer-dedication-botd.md)
@@ -93,7 +89,6 @@ As part of your training, you've inured yourself against necromancy through grue
 ```ad-embed-feat
 title: Slayer's Strike, Feat 4
 collapse: closed
-# Slayer's Strike  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  
 
 - **Prerequisites**: [Undead Slayer Dedication](compendium/feats/undead-slayer-dedication-botd.md)
@@ -110,7 +105,6 @@ If you're at least 10th level, increase this to two extra dice, and if you're at
 ```ad-embed-feat
 title: Frighten Undead, Feat 6
 collapse: closed
-# Frighten Undead  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Undead Slayer Dedication](compendium/feats/undead-slayer-dedication-botd.md), trained in [Intimidation](compendium/skills.md#Intimidation)
@@ -125,7 +119,6 @@ Your very presence chills creatures of the night down to their core and you can 
 ```ad-embed-feat
 title: Gear Up, Feat 6
 collapse: closed
-# Gear Up  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Undead Slayer Dedication](compendium/feats/undead-slayer-dedication-botd.md)
@@ -139,7 +132,6 @@ Whether it's wooden stakes, [holy water](compendium/equipment/items/holy-water.m
 ```ad-embed-feat
 title: Slayer's Blessing, Feat 8
 collapse: closed
-# Slayer's Blessing  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 
 - **Prerequisites**: [Slayer's Strike](compendium/feats/slayers-strike-botd.md)
@@ -155,7 +147,6 @@ At 14th level, add adamantine and mithral to the list of materials you can choos
 ```ad-embed-feat
 title: Slayer's Presence, Feat 10
 collapse: closed
-# Slayer's Presence  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Frighten Undead](compendium/feats/frighten-undead-botd.md)

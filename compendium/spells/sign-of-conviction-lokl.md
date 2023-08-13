@@ -11,9 +11,10 @@ aliases: ["Sign of Conviction"]
 # Sign of Conviction *Spell 3*   
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Duration**sustained up to 1 minute
+- 
+- **Duration**: sustained up to 1 minute
 
 You conjure the religious symbol of your deity into the air above you in the same space you stand in, wielding the power of your faith to smite your foes. This religious symbol is immobile, made of pure magical force, and can't be damaged. As long as you Sustain sign of conviction, you gain a +1 status bonus to AC and saving throws and are [immobilized](rules/conditions.md#Immobilized). The DC for [any](rules/traits/any-b1.md "Any Alignment Trait") effect to force you to move out of your space (such as the [Shove](rules/actions/shove.md) action) is equal to your spell DC or the normal DC, whichever is higher. If you stop being [immobilized](rules/conditions.md#Immobilized) or are moved out of your space, sign of conviction immediately ends.
 

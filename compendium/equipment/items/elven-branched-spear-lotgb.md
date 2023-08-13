@@ -16,10 +16,12 @@ aliases: ["Elven Branched Spear"]
 
 - **Price** 3 gp
 - **Bulk** 1
-- **Damage** `1d6` P
+  - **Damage**: `1d6` P
 - **Hands** 2
 - **Category** Martial; **Group** Spear 
 
 Several short branches project from this delicate spear's shaft, each angled forward and tipped with a leaflike blade.
 
+
+---
 *Source: Lost Omens: The Grand Bazaar p. 107*

@@ -17,13 +17,15 @@ aliases: ["Mikazuki"]
 
 - **Price** 8 gp
 - **Bulk** 2
-- **Ranged**  
-  - **Damage** `1d6` P
+- **Ranged**:  
+  - **Damage**: `1d6` P
   - **Ammunution** bolt (10); **Range** 70 ft.; **Reload** 1
-- **Melee**  
-  - **Damage** `1d6` B
+- **Melee**:  
+  - **Damage**: `1d6` B
 - **Category** Martial
 
 The mikazuki combines a sansetsukon with a thin length of metal string and several locking mechanisms built into the joints, allowing it to be quickly locked into configuration as a bow.
 
+
+---
 *Source: Treasure Vault p. 31*

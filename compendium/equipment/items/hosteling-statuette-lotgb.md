@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/lotgb
-- item/category/companion
+- item/category/companion/
 - trait/companion
 - trait/invested
 - trait/primal
@@ -15,23 +15,26 @@ aliases: ["Hosteling Statuette"]
 [companion](rules/traits/companion.md "Companion Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 80 gp
-- **Usage** worn; **Bulk** L
-- **Category** Companion
+- **Bulk** L; **Usage** worn
 
 This soapstone statuette resembles an unidentified lump with a vaguely animal shape, worn on a band or cord around the companion's neck. When your companion invests the item, the statuette changes to appear as a miniature carved soapstone version of the companion.
 
 ```ad-embed-ability
-title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
+title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") envision, [Interact](rules/actions/interact.md)
 
-You touch your companion, merging it into the statuette and ending the activation with the statuette in your hand (or on the ground in your space if you don't have a hand free). While in statuette form, your companion has the [petrified](rules/conditions.md#Petrified) condition, and its size is Tiny.
+- **Frequency**: once per day
+
+**Effect** You touch your companion, merging it into the statuette and ending the activation with the statuette in your hand (or on the ground in your space if you don't have a hand free). While in statuette form, your companion has the [petrified](rules/conditions.md#Petrified) condition, and its size is Tiny.
 ```
 
 ```ad-embed-ability
-title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
+title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") envision, [Interact](rules/actions/interact.md)
 
 - **Requirements**: Your companion is in statuette form
 
 **Effect** You call forth your companion from the statuette, causing it to unmerge and appear in an unoccupied space adjacent to you.
 ```
 
+
+---
 *Source: Lost Omens: The Grand Bazaar p. 55*

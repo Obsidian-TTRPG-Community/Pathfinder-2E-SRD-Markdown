@@ -19,8 +19,8 @@ aliases: ["Tattoo Whispers"]
 - **Secondary Casters** 2 up to a maximum of 6
 - **Primary Checks** [Crafting](compendium/skills.md#Crafting) (expert)
 - **Secondary Checks** [Arcana](compendium/skills.md#Arcana), [Occultism](compendium/skills.md#Occultism)
-- **Range**touch
-- **Targets**the secondary casters
+- **Range**: touch
+- **Targets**: the secondary casters
 
 You carefully tattoo the same design upon each secondary caster. The tattoo can be of any shape or symbol, but it must include a mouth. The tattoo fades naturally over the course of 1 month.
 

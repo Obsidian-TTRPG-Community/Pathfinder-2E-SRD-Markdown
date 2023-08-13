@@ -11,9 +11,10 @@ aliases: ["Speak With Plants"]
 # Speak With Plants *Spell 4*   
 [divination](rules/traits/divination.md "Divination School Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Duration**10 minutes
+- 
+- **Duration**: 10 minutes
 
 You can ask questions of and receive answers from plants and fungi, but the spell doesn't make them more [friendly](rules/conditions.md#Friendly) or intelligent than normal. Most normal plants have a distinctive view of the world around them, so they don't recognize details about creatures or know anything about the world beyond their immediate vicinity.
 

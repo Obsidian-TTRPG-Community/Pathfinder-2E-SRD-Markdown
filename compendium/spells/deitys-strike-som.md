@@ -11,11 +11,11 @@ aliases: ["Deity's Strike"]
 # Deity's Strike *Spell 7*   
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Requirements**You have a deity.
-- **Range**500 foot
-- **Targets**1 creature (see text)
+- **Requirements**: You have a deity.
+- **Range**: 500 foot
+- **Targets**: 1 creature (see text)
 
 A manifested version of your deity's favored weapon appears in the air above and attacks the target, using your spell attack roll. On a hit, the weapon deals `7d12` force damage, or double damage on a critical hit.
 

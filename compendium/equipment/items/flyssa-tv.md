@@ -14,10 +14,12 @@ aliases: ["Flyssa"]
 
 - **Price** 1 gp
 - **Bulk** L
-- **Damage** `1d6` S
+  - **Damage**: `1d6` S
 - **Hands** 1
 - **Category** Martial; **Group** Knife 
 
 This single-edged blade has a guardless hilt. Often decorated with elaborate etchings, a flyssa is longer than most daggers but shorter than average for most swords, making it useful in close and pitched combat.
 
+
+---
 *Source: Treasure Vault p. 25*

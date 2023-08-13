@@ -17,7 +17,7 @@ aliases: ["Teleportation Circle"]
 - **Secondary Casters** 2
 - **Primary Checks** [Arcana](compendium/skills.md#Arcana) or [Occultism](compendium/skills.md#Occultism) (master)
 - **Secondary Checks** [Crafting](compendium/skills.md#Crafting), [Survival](compendium/skills.md#Survival)
-- **Range**20 feet
+- **Range**: 20 feet
 
 You create a 10-foot-diameter circle on the ground, which acts as a portal to a destination determined at the time of the ritual. You designate the destination of the teleportation as part of the ritual. This destination can't be changed. The destination must be a location within 1,000 miles and be on the same plane as the teleportation circle. You must be able to identify the location precisely both by its position relative to the location where you create the teleportation circle and by the destination's appearance (or other identifying features). The destination must also be a 10-foot-diameter circle that doesn't overlap with any solid structures, but it can be a place that is harmful or dangerous.
 
@@ -33,8 +33,8 @@ The teleportation circle normally goes only in one direction, though you can dou
 > - **Failure** The teleportation circle doesn't function.
 > - **Critical Failure** The teleportation circle is wildly inaccurate. It leads to a random destination roughly the same distance from the origin point, and the chances of some other unusual mishap are much greater.
 
-**Heightened (9th)** The cost increases to 2,000 gp, the duration increases to 1 month, and the destination can be anywhere on the same planet.
-
 **Heightened (10th)** The cost increases to 10,000 gp, the duration is unlimited, and the destination can be anywhere on the same planet.
+
+**Heightened (9th)** The cost increases to 2,000 gp, the duration increases to 1 month, and the destination can be anywhere on the same planet.
 
 *Source: Advanced Player's Guide p. 244*

@@ -16,10 +16,12 @@ aliases: ["Wakizashi"]
 
 - **Price** 1 gp
 - **Bulk** L
-- **Damage** `1d4` S
+  - **Damage**: `1d4` S
 - **Hands** 1
 - **Category** Martial; **Group** Sword 
 
 This short-bladed, single-edged sword is typically carried as part of a pair alongside a katana.
 
+
+---
 *Source: Advanced Player's Guide p. 248*

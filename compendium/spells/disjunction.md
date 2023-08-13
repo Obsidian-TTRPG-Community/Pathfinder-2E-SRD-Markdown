@@ -11,10 +11,10 @@ aliases: ["Disjunction"]
 # Disjunction *Spell 9*   
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**120 foot
-- **Targets**1 magic item
+- **Range**: 120 foot
+- **Targets**: 1 magic item
 
 Crackling energy disjoins the target. You attempt to counteract it (page 458). If you succeed, it's deactivated for 1 week. On a critical success, it's destroyed. If it's an artifact or similar item, you automatically fail.
 

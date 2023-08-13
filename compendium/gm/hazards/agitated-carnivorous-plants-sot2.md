@@ -17,14 +17,13 @@ Many carnivorous plants that were once kept satiated now hunger for any meat the
 
 - **Disable** DC 25 [Survival](compendium/skills.md#Survival) (trained) to distract or trick the plants or DC 22 [Nature](compendium/skills.md#Nature) (expert) to calm the plants.  
 
-- **AC** 20 , **Fort** +17, **Ref** +9
+- **AC** 20, **Fort** +17, **Ref** +9
 - **HP** 60 (BT 30)
 - **Immunities** [mental](rules/traits/mental.md "Mental Effect Trait")
-- **Resistances** 
 - **Weaknesses** acid 10; fire 10; slashing 10
-     
+
 ```ad-embed-ability
-title: Trapping Vines [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Trapping Vines** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature moves within reach of the carnivorous plants' vines
 

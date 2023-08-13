@@ -12,10 +12,10 @@ aliases: ["Practice Makes Perfect"]
 # Practice Makes Perfect *Focus 1*   
 [cleric](rules/traits/cleric.md "Cleric Class Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains**: [toil](compendium/setting/domains.md#Toil)
+- **Domains** [toil](compendium/setting/domains.md#Toil)
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
-- **Trigger**You or an ally within range fails a skill check for a skill in which you or they are trained.
-- **Range**30 foot
+- **Trigger**: You or an ally within range fails a skill check for a skill in which you or they are trained.
+- **Range**: 30 foot
 
 The target gains a +2 status bonus to the triggering check, or a +3 bonus if the target has master or better proficiency in the skill. This bonus can change the outcome of the target's check.
 

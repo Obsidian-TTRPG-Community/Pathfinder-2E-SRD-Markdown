@@ -10,10 +10,11 @@ aliases: ["Mimic Undead"]
 # Mimic Undead *Spell 2*   
 [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Requirements**You're a living creature.
-- **Duration**10 minutes
+- **Requirements**: You're a living creature.
+- 
+- **Duration**: 10 minutes
 
 You take death and wrap it about you like a cloak—your colors wash out and your skin grows cold to the touch.
 

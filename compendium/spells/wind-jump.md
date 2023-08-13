@@ -14,7 +14,8 @@ aliases: ["Wind Jump"]
 [air](rules/traits/air.md "Air Energy & Element Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Duration**1 minute
+- 
+- **Duration**: 1 minute
 
 You gain a fly Speed equal to your Speed. You must end your turn on solid ground, or you fall.
 

@@ -15,12 +15,12 @@ aliases: ["Waking Nightmare"]
 # Waking Nightmare *Focus 1*   
 [cleric](rules/traits/cleric.md "Cleric Class Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains**: [nightmares](compendium/setting/domains.md#Nightmares)
+- **Domains** [nightmares](compendium/setting/domains.md#Nightmares)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 creature
-- **Saving Throw** Will
-- **Duration**varies
+- **Range**: 30 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Will
+- **Duration**: varies
 
 You fill the creature's mind with a terrifying vision out of its nightmares. The target must attempt a Will save.
 

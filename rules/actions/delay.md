@@ -10,7 +10,7 @@ aliases: ["Delay"]
 *Source: Core Rulebook p. 470*  
 
 
-- **Trigger** Your turn begins.
+- **Trigger**: Your turn begins.
 - **Activity**: Free Action
 
 You wait for the right moment to act. The rest of your turn doesn't happen yet. Instead, you're removed from the initiative order. You can return to the initiative order as a free action triggered by the end of any other creature's turn. This permanently changes your initiative to the new position. You can't use reactions until you return to the initiative order. If you Delay an entire round without returning to the initiative order, the actions from the Delayed turn are lost, your initiative doesn't change, and your next turn occurs at your original position in the initiative order.

@@ -19,14 +19,12 @@ An ornate wheel set into a wall—divided into six segments with colored runes o
 
 - **Disable** [Thievery](compendium/skills.md#Thievery) DC 26 (expert) on the wheel to stop it from spinning, [Thievery](compendium/skills.md#Thievery) DC 22 (master) to erase each rune, or dispel magic (4th level; counteract DC 22) to counteract each rune.  
 
-- **AC** 24 , **Fort** +15, **Ref** +13
+- **AC** 24, **Fort** +15, **Ref** +13
 - **Hardness** 14, **HP** 56 (BT 28)
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Wheel Spin [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Wheel Spin** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature enters the sensor's detection area.
 
@@ -35,8 +33,8 @@ title: Wheel Spin [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions 
 
 ```ad-pf2-summary
 title: Routine
-(2 actions) On its initiative, the trap uses its first action to spin, then stops. Roll `1d6` to determine which segment is topmost when the wheel stops spinning. The wheel uses its second action to replicate the spell listed for that segment (3rd level, DC 24, spell attack roll +14). This spell's target is centered on or otherwise includes the nearest creature in the area. This increases the spell's range to 100 feet if necessary.
 
+(2 actions) On its initiative, the trap uses its first action to spin, then stops. Roll `1d6` to determine which segment is topmost when the wheel stops spinning. The wheel uses its second action to replicate the spell listed for that segment (3rd level, DC 24, spell attack roll +14). This spell's target is centered on or otherwise includes the nearest creature in the area. This increases the spell's range to 100 feet if necessary.
 Any spell cast by this trap is arcane.
 ```
 ^routine

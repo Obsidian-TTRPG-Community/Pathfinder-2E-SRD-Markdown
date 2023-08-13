@@ -17,9 +17,9 @@ aliases: ["Stoke The Heart"]
 
 - **Patron** Witch
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**30 foot
-- **Targets**1 creature
-- **Duration**sustained up to 1 minute
+- **Range**: 30 foot
+- **Targets**: 1 creature
+- **Duration**: sustained up to 1 minute
 
 Intense fervor fills the target creature, empowering their blows.
 

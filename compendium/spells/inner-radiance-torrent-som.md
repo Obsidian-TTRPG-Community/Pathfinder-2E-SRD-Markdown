@@ -13,10 +13,10 @@ aliases: ["Inner Radiance Torrent"]
 # Inner Radiance Torrent *Spell 2*   
 [force](rules/traits/force.md "Force Energy & Element Trait")  [light](rules/traits/light.md "Light Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") to 2 rounds 
-- **Area**line 60 feet or longer
-- **Saving Throw**  basic Reflex
+- **Area**: line 60 feet or longer
+- **Saving Throw**:  basic Reflex
 
 You gradually manifest your spiritual energy into your cupped hands before firing off a storm of bolts and beams that deal `4d4` force damage to all creatures in a 60-foot line. Creatures in the area must attempt a basic Reflex save. On a critical failure, they're also [blinded](rules/conditions.md#Blinded) for 1 round.
 

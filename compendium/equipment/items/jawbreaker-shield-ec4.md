@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/ec4
-- item/category/held
+- item/category/held/
 - trait/abjuration
 - trait/magical
 - trait/uncommon
@@ -13,15 +13,14 @@ aliases: ["Jawbreaker Shield"]
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1650 gp
-- **Usage** held in 1 hand; **Bulk** 1
-- **Category** Held
+- **Bulk** 1; **Usage** held in 1 hand
 
 This heavy bone shield is composed of a massive plate of dinosaur bone with jagged, tooth-like ridges ringing its edge. It has Hardness 12, HP 48, and BT 24. The ridges are unremovable +1 striking shield spikes that deal slashing damage instead of piercing damage.
 
 While holding the jawbreaker shield, you gain a +3 item bonus to your Reflex DC to resist Swallow Whole attacks.
 
 ```ad-embed-ability
-title: Activate [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Activate** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") [Interact](rules/actions/interact.md)
 
 - **Trigger**: A creature attacks you with a jaws or fangs
 
@@ -33,4 +32,6 @@ title: Activate [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "R
 > - **Critical Failure** You break the target's jaw. As failure, and the creature can't make [Strikes](rules/actions/strike.md) using its mouth for 1 minute. At the end of its turn, it can attempt a Fortitude save to regain the ability to make [Strikes](rules/actions/strike.md) using its mouth.
 ```
 
+
+---
 *Source: Extinction Curse #4: Siege of the Dinosaurs p. 75*

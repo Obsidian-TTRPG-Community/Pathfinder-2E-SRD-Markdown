@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/lotgb
-- item/category/held
+- item/category/held/
 - trait/evil
 - trait/magical
 - trait/necromancy
@@ -15,13 +15,12 @@ aliases: ["Vampiric Scythe"]
 [evil](rules/traits/evil.md "Evil Alignment Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 3000 gp
-- **Usage** held in 2 hands; **Bulk** 2
-- **Category** Held
+- **Bulk** 2; **Usage** held in 2 hands
 
 The blade of this +2 greater striking wounding scythe is sharp enough to produce a whistling sound when swung through the air. The shaft is made of ebony wood with a sickly shine to it, much like the shine of infected wounds and contaminated water.
 
 ```ad-embed-ability
-title: Activate [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Activate** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") command
 
 - **Trigger**: An enemy critically succeeds at an attempt to [Disarm](rules/actions/disarm.md) you
 
@@ -29,9 +28,13 @@ title: Activate [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "R
 ```
 
 ```ad-embed-ability
-title: Activate [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Activate** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") command
 
-The scythe drains life essence from your opponent into you. You gain a number of temporary Hit Points equal to half the slashing damage the scythe dealt to the foe. You lose any remaining temporary Hit Points after 1 minute.
+- **Frequency**: once per hour
+
+**Effect** The scythe drains life essence from your opponent into you. You gain a number of temporary Hit Points equal to half the slashing damage the scythe dealt to the foe. You lose any remaining temporary Hit Points after 1 minute.
 ```
 
+
+---
 *Source: Lost Omens: The Grand Bazaar p. 31*

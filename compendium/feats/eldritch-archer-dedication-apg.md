@@ -20,7 +20,7 @@ If you don't already cast spells from spell slots, you learn to cast spontaneous
 You also gain Eldritch Shot.
 
 ```ad-embed-ability
-title: Eldritch Shot [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")
+title: **Eldritch Shot** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")
 
 - **Requirements**: You are wielding a bow
 

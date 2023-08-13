@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/som
-- item/category/held
+- item/category/held/
 - trait/conjuration
 - trait/magical
 aliases: ["Keymaking Tools"]
@@ -12,8 +12,7 @@ aliases: ["Keymaking Tools"]
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 55 gp
-- **Usage** held in 2 hands; **Bulk** L
-- **Category** Held
+- **Bulk** L; **Usage** held in 2 hands
 
 These thieves' tools provide their owner the ability to have continued control over a lock while leaving it in place.
 
@@ -21,4 +20,6 @@ They grant a +1 item bonus to [Thievery](compendium/skills.md#Thievery) checks t
 
 Creating a new key replaces the previous one.
 
+
+---
 *Source: Secrets of Magic p. 186*

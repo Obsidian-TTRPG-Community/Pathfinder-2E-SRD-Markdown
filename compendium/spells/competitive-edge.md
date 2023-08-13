@@ -14,9 +14,10 @@ aliases: ["Competitive Edge"]
 # Competitive Edge *Focus 4*   
 [cleric](rules/traits/cleric.md "Cleric Class Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains**: [ambition](compendium/setting/domains.md#Ambition)
+- **Domains** [ambition](compendium/setting/domains.md#Ambition)
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Duration**sustained up to 1 minute
+- 
+- **Duration**: sustained up to 1 minute
 
 Your competitiveness drives you to prove yourself against the opposition. You gain a +1 status bonus to attack rolls and skill checks. If an enemy within 20 feet critically succeeds at an attack roll or skill check, your status bonus increases to +3 attack rolls or that specific skill check (whichever the foe critically succeeded at) for 1 round.
 

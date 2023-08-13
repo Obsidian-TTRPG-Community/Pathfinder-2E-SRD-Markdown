@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
-- item/category/worn
+- item/category/worn/
 - trait/conjuration
 - trait/extradimensional
 - trait/invested
@@ -14,8 +14,8 @@ aliases: ["Alchemist's Haversack"]
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [extradimensional](rules/traits/extradimensional.md "Extradimensional Effect Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 1400 gp
-- **Usage** worn backpack; **Bulk** 1
-- **Category** Worn
+- **Craft Requirements** You are an alchemist.
+- **Bulk** 1; **Usage** worn backpack
 
 An alchemist's haversack is a sturdy leather backpack with two compartments. The main section contains an extradimensional space equivalent to a bag of holding type II, perfect for carrying bulkier alchemist equipment. A secondary partition can hold 2 Bulk of items, 1 of which doesn't count against your Bulk limit.
 
@@ -26,11 +26,14 @@ Water and undesirable material can't seep into the haversack, which cleans itsel
 Also, the haversack preserves mundane ingredients, food, and drink inside, so they stay fresh indefinitely. This feature doesn't prolong the duration of magic or alchemical items.
 
 ```ad-embed-ability
-title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
+title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") command
 
+- **Frequency**: once per day
 - **Requirements**: You gain batches of infused reagents during your daily preparations
 
 **Effect** You pull one additional batch of infused reagents from the satchel's secondary compartment. If you fail to use these reagents by the end of your next turn, they're lost.
 ```
 
+
+---
 *Source: Treasure Vault p. 145*

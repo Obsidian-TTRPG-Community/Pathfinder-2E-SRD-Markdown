@@ -25,7 +25,7 @@ aliases: ["Suyuddha", "The Warrior Queen"]
 
 - **Category**: Other Gods
 - **Anathema**: let your emotions dictate your tactics, hunt felines for sport, permit others of your rank or lower to calculate tactics on your behalf
-- **Areas of Concern**: battle, , strategy, , geometry
+- **Areas of Concern**: battle, strategy, geometry
 - **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait")
 
 ## Devotee benefits
@@ -42,6 +42,7 @@ aliases: ["Suyuddha", "The Warrior Queen"]
 title: [Avatar](compendium/spells/avatar.md) of Suyuddha
 
 - **Speed**: Speed 70 feet, [air walk](compendium/spells/air-walk.md)
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") tekko-kagi ([agile](rules/traits/agile.md "Agile Weapon Trait"), [disarm](rules/traits/disarm.md "Disarm Weapon Trait"), [finesse](rules/traits/finesse.md "Finesse Weapon Trait"), [parry](rules/traits/parry.md "Parry Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [trip](rules/traits/trip.md "Trip Weapon Trait")), **Damage** `6d4+6` slashing
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") calculated countermeasures ([versatile <bludgeoning>](rules/traits/versatile-bludgeoning.md "Versatile Weapon Trait"), [versatile <slashing>](rules/traits/versatile-slashing.md "Versatile Weapon Trait")), **Damage** `6d4+3` piercing
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") tekko-kagi (, [agile](rules/traits/agile.md "Agile Weapon Trait"), [disarm](rules/traits/disarm.md "Disarm Weapon Trait"), [finesse](rules/traits/finesse.md "Finesse Weapon Trait"), [parry](rules/traits/parry.md "Parry Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [trip](rules/traits/trip.md "Trip Weapon Trait")), **Damage** `6d4+6` slashing 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") calculated countermeasures (, [versatile <bludgeoning>](rules/traits/versatile-bludgeoning.md "Versatile Weapon Trait"), [versatile <slashing>](rules/traits/versatile-slashing.md "Versatile Weapon Trait")), **Damage** `6d4+3` piercing 
 ```

@@ -15,7 +15,7 @@ aliases: ["The Endless Road"]
 
 - **Category**: Pantheon
 - **Anathema**: close your ears and heart to others, do not seek to better yourself, resist the call to explore new places
-- **Areas of Concern**: travel, , preaching, , self-improvement, , recruiting
+- **Areas of Concern**: travel, preaching, self-improvement, recruiting
 - **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")
 
 ## Devotee benefits

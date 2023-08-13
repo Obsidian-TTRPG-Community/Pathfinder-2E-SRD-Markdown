@@ -17,7 +17,6 @@ _Gelid shards_ are arcane focuses of refined magical cold in physical form. Unfo
 ```ad-embed-feat
 title: First Frost, Feat 2
 collapse: closed
-# First Frost  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 
@@ -32,7 +31,6 @@ Your key spellcasting ability is Charisma.
 ```ad-embed-feat
 title: Snowcaster, Feat 4
 collapse: closed
-# Snowcaster  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 
@@ -45,7 +43,6 @@ Your magical power grows as the shard's icy influence spreads ever deeper into y
 ```ad-embed-feat
 title: Snow Step, Feat 6
 collapse: closed
-# Snow Step  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 
@@ -58,7 +55,6 @@ Snow and ice are no hindrance to you. You ignore difficult terrain caused by sno
 ```ad-embed-feat
 title: Frozen Breadth, Feat 8
 collapse: closed
-# Frozen Breadth  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 
@@ -71,7 +67,6 @@ Your attunement to arcane cold enhances the depths of your growing power. Increa
 ```ad-embed-feat
 title: Winter's Embrace, Feat 10
 collapse: closed
-# Winter's Embrace  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 
@@ -86,7 +81,6 @@ Snow doesn't impair your vision; you ignore concealment from snowfall. Your skin
 ```ad-embed-feat
 title: Expert Snowcasting, Feat 12*
 collapse: closed
-# Expert Snowcasting  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Expert Snowcasting](compendium/feats/expert-snowcasting-tv.md) is intended for use with the Gelid Shard Archetype. Its level has been changed accordingly.
@@ -101,7 +95,6 @@ You draw ever more magical cold into your being, learning how to manipulate it t
 ```ad-embed-feat
 title: Winter's Kiss, Feat 14*
 collapse: closed
-# Winter's Kiss  *Feat 14*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Winter's Kiss](compendium/feats/winters-kiss-tv.md) is intended for use with the Gelid Shard Archetype. Its level has been changed accordingly.
@@ -116,7 +109,6 @@ Whether in the heart of a volcanic passageway or the glacial tundras of the Crow
 ```ad-embed-feat
 title: Greater Snow Step, Feat 16*
 collapse: closed
-# Greater Snow Step  *Feat 16*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Greater Snow Step](compendium/feats/greater-snow-step-tv.md) is intended for use with the Gelid Shard Archetype. Its level has been changed accordingly.
@@ -131,7 +123,6 @@ You can't be impeded by [environmental](rules/traits/environmental.md "Environme
 ```ad-embed-feat
 title: Master Snowcasting, Feat 18*
 collapse: closed
-# Master Snowcasting  *Feat 18*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Master Snowcasting](compendium/feats/master-snowcasting-tv.md) is intended for use with the Gelid Shard Archetype. Its level has been changed accordingly.
@@ -146,7 +137,6 @@ You have unlocked the deeper magic of your gelid shard, gaining access to new le
 ```ad-embed-feat
 title: Icy Apotheosis, Feat 20*
 collapse: closed
-# Icy Apotheosis  *Feat 20*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Icy Apotheosis](compendium/feats/icy-apotheosis-tv.md) is intended for use with the Gelid Shard Archetype. Its level has been changed accordingly.

@@ -12,10 +12,10 @@ aliases: ["Hydraulic Push"]
 # Hydraulic Push *Spell 1*   
 [attack](rules/traits/attack.md "Attack Combat Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**60 foot
-- **Targets**1 creature or object
+- **Range**: 60 foot
+- **Targets**: 1 creature or object
 
 You call forth a powerful blast of pressurized water that bludgeons the target and knocks it back. Make a ranged spell attack roll.
 

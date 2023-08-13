@@ -17,20 +17,18 @@ An old heavy crossbow is [hidden](rules/conditions.md#Hidden) in a pile of trash
 
 - **Disable** [Thievery](compendium/skills.md#Thievery) DC 18 (trained) on the rope allows a PC to tie the rope off and open the door without setting off the trap.  
 
-- **AC** 18 , **Fort** +11, **Ref** +3
+- **AC** 18, **Fort** +11, **Ref** +3
 - **Hardness** 8, **HP** 32 (BT 16)
-- **Immunities** 
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Spear [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[attack](rules/traits/attack.md "Attack Combat Trait")  
+title: **Spear** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([attack](rules/traits/attack.md))
 
 - **Trigger**: The rope is cut or otherwise untied from the door.
 
 **Effect** The trap makes an attack against the creature that manipulated the rope.  
-%% #trait/attack %%
+%%
+ #trait/attack 
+%%
 ```
 
 *Source: The Fall of Plaguestone p. 17*

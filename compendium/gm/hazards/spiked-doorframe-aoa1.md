@@ -17,20 +17,19 @@ Spikes lance out of the doorframe to skewer anyone who attempts to open the door
 
 - **Disable** [Thievery](compendium/skills.md#Thievery) DC 20 (trained) to deactivate a trigger built into the door's handle  
 
-- **AC** 21 , **Fort** +12, **Ref** +8
+- **AC** 21, **Fort** +12, **Ref** +8
 - **Hardness** 11, **HP** 44 (BT 22)
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Spikes [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[attack](rules/traits/attack.md "Attack Combat Trait")  
+title: **Spikes** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") ([attack](rules/traits/attack.md))
 
 - **Trigger**: The door is opened.
 
 **Effect** The trap makes an attack against the creature that opened the door.  
-%% #trait/attack %%
+%%
+ #trait/attack 
+%%
 ```
 
 *Source: Age of Ashes #1: Hellknight Hill p. 46*

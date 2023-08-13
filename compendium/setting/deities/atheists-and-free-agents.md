@@ -14,6 +14,3 @@ aliases: ["Atheists and Free Agents", "Atheism"]
 - **Follower Alignments**: all
 
 ## Devotee benefits
-
-- **Divine Font**: 
-- **Cleric Spells**:

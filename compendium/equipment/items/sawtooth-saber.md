@@ -15,10 +15,12 @@ aliases: ["Sawtooth Saber"]
 
 - **Price** 5 gp
 - **Bulk** L
-- **Damage** `1d6` S
+  - **Damage**: `1d6` S
 - **Hands** 1
 - **Category** Advanced; **Group** Sword 
 
 The signature weapon of the Red Mantis assassins, this curved blade is serrated like a saw, hence the name.
 
+
+---
 *Source: Core Rulebook p. 281*

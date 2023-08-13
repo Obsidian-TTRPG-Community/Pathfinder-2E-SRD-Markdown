@@ -15,7 +15,8 @@ aliases: ["Lifelink Surge"]
 [healing](rules/traits/healing.md "Healing Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  [summoner](rules/traits/summoner-som.md "Summoner Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Duration**4 rounds
+- 
+- **Duration**: 4 rounds
 
 You make a quick gesture, tracing the link between yourself and your eidolon and drawing on your connection to slowly strengthen your shared life force. Your eidolon gains fast healing 4 for 4 rounds.
 

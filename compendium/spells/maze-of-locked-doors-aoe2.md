@@ -14,12 +14,12 @@ aliases: ["Maze Of Locked Doors"]
 # Maze Of Locked Doors *Spell 7*   
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [extradimensional](rules/traits/extradimensional.md "Extradimensional Effect Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**120 foot
-- **Targets**1 creature
-- **Saving Throw** Will
-- **Duration**sustained
+- **Range**: 120 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Will
+- **Duration**: sustained
 
 The target of your spell is drawn into a long, twisting, extradimensional hallway blocked at 30-foot intervals with high-grade darkwood doors (Hardness 20, HP 80, BT 40, [Athletics](compendium/skills.md#Athletics) DC 30 to [Force Open](rules/actions/force-open.md)) secured with average locks (DC 25 [Thievery](compendium/skills.md#Thievery), 4 successful checks required). A creature trapped within this hallway can escape only when the spell expires, or when they successfully pass through the number of doors determined by their save, either by breaking through the doors or picking the locks (or any combination of these, if the target must pass through multiple doors to escape). [Teleportation](rules/traits/teleportation.md "Teleportation Effect Trait") effects of 6th level or lower are automatically suppressed within the extradimensional hallway; higher-level [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait") effects require the caster to succeed at a counteract check against your spell DC or they fail.
 

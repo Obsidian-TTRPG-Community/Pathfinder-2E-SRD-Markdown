@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/ec6
-- item/category/artifact
+- item/category/artifact/
 - trait/arcane
 - trait/artifact
 - trait/invested
@@ -14,8 +14,7 @@ aliases: ["Tears Of The Last Azlanti"]
 # Tears Of The Last Azlanti *Item 25*  
 [arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
-- **Usage** worn necklace; **Bulk** L
-- **Category** Artifact
+- **Bulk** L; **Usage** worn necklace
 
 This gold necklace sports six bails, each with a different aeon stone. The backside of each bail is engraved with a single ancient Azlanti rune: Patience, Remembrance, Resilience, Tenacity, Wisdom, Invention.
 
@@ -62,4 +61,6 @@ Once per day, you can attempt to exchange the aeon stone in a given bail for ano
 </table>
 
 
+
+---
 *Source: Extinction Curse #6: The Apocalypse Prophet p. 69*

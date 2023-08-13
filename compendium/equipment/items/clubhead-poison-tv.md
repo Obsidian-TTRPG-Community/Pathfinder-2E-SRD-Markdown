@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/injury
@@ -14,9 +14,8 @@ aliases: ["Clubhead Poison"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [injury](rules/traits/injury.md "Injury Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Price** 340 gp
-- **Usage** held in 2 hands; **Bulk** L
+- **Bulk** L; **Usage** held in 2 hands
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 This poison is named for the strain of fungi from which it's distilled. Hallucinations assail the victim's mind, causing them to see imaginary foes.
 
@@ -34,4 +33,6 @@ title: Saving Throw: DC 32 Fortitude
 **Stage 3** `5d8` poison damage, [flat-footed](rules/conditions.md#Flat-footed), can't take reactions, and [stunned](rules/conditions.md#Stunned) (1 round)
 ```
 
+
+---
 *Source: Treasure Vault p. 68*

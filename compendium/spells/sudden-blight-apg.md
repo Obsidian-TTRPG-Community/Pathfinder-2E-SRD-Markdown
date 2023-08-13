@@ -12,11 +12,11 @@ aliases: ["Sudden Blight"]
 # Sudden Blight *Spell 2*   
 [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**120 foot
-- **Area**20-foot burst
-- **Saving Throw**  basic Fortitude
+- **Range**: 120 foot
+- **Area**: 20-foot burst
+- **Saving Throw**:  basic Fortitude
 
 You accelerate the processes of decay in the area. Each living creature in the area takes `2d10` negative damage (basic Fortitude save). A creature afflicted by a disease takes a –2 circumstance penalty to this save.
 

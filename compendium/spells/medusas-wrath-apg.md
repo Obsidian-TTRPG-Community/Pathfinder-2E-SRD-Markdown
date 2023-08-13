@@ -13,6 +13,7 @@ aliases: ["Medusa's Wrath"]
 [monk](rules/traits/monk.md "Monk Class Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- 
 
 You make an attack filled with a medusa's petrifying power.
 

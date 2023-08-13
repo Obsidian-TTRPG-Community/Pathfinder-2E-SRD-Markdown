@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/crb
-- item/category/worn
+- item/category/worn/
 - trait/abjuration
 - trait/invested
 - trait/magical
@@ -14,15 +14,14 @@ aliases: ["Ring of Counterspells"]
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 925 gp
-- **Usage** worn; **Bulk** —
-- **Category** Worn
+- **Bulk** —; **Usage** worn
 
 This ornate silver ring bears two competing geometric designs of brightly colored and wildly clashing inlaid gemstones. A spellcaster can cast a single spell into this ring as long as no spell is currently stored within, expending the normal time, costs, and so forth to [Cast the Spell](rules/actions/cast-a-spell.md). The spell's effect doesn't occur; the spell's power is instead stored within the ring.
 
 When you invest a ring of counterspells, you immediately know the name and level of the spell stored inside, if any. A ring of counterspells found as treasure has a 50% chance of having a spell stored in it. The GM determines that spell.
 
 ```ad-embed-ability
-title: Activate [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Activate** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") envision
 
 - **Trigger**: You are targeted by or within the area of the spell stored within the ring
 
@@ -32,9 +31,12 @@ Once you do, the stored spell's energy is spent, and the ring is empty.
 ```
 
 ```ad-embed-ability
-title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
+title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") command
+
 
 You harmlessly expend the stored spell, having no effect but emptying the ring so that another spell can be cast into it.
 ```
 
+
+---
 *Source: Core Rulebook p. 614*

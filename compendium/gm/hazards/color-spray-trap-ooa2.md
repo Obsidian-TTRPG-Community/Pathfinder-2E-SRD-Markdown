@@ -21,14 +21,12 @@ A loud pop sounds when this door is opened, followed immediately by a blast of c
 
 - **Disable** DC 25 [Thievery](compendium/skills.md#Thievery) (trained) to disable the glyph, or dispel magic (1st level; counteract DC 22) to counteract the glyph  
 
-- **AC** 22 , **Fort** +12, **Ref** +10
-- **Door  Hardness** 8, **Door  HP** 50 (BT 25)
+- **AC** 22, **Fort** +12, **Ref** +10
+- **Door Hardness** 8, **Door HP** 50 (BT 25)
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Color Spray [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Color Spray** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: The door is opened
 

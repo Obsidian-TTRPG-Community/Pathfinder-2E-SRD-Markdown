@@ -11,11 +11,11 @@ aliases: ["Proliferating Eyes"]
 # Proliferating Eyes *Spell 9*   
 [divination](rules/traits/divination.md "Divination School Trait")  [scrying](rules/traits/scrying.md "Scrying Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Targets**1 creature (see text)
-- **Duration**8 hours
+- **Range**: touch
+- **Targets**: 1 creature (see text)
+- **Duration**: 8 hours
 
 You implant an [invisible](rules/conditions.md#Invisible), magical eye sensor on the target's body. The eye has sight and vision, but no other special senses. The eye is highly contagious—the first two times the target touches another creature during the duration, the spell buds off an additional eye that implants itself on that creature, which can then bud off two eyes of its own. This process can propagate up to four times from the original target, for a potential maximum of 31 eyes if each affected creature touches two new creatures.
 

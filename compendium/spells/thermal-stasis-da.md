@@ -14,9 +14,9 @@ aliases: ["Thermal Stasis"]
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**60 foot
-- **Targets**1 creature
-- **Duration**until the start of your next turn
+- **Range**: 60 foot
+- **Targets**: 1 creature
+- **Duration**: until the start of your next turn
 
 The same abilities that let you raise or lower thermal energy also let you keep it at a safe medium. The target gains resistance 2 against fire damage and resistance 2 against cold damage.
 

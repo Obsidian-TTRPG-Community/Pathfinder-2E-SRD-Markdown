@@ -19,11 +19,13 @@ Choose two ability boosts. One must be to Charisma, and one is a free ability bo
 You're trained in the [Diplomacy](compendium/skills.md#Diplomacy) skill and the [Genie Lore](compendium/skills.md#Lore) skill. You gain the Wish for Luck free action.
 
 ```ad-embed-ability
-title: Wish for Luck [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
-[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  
+title: **Wish for Luck** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") ([arcane](rules/traits/arcane.md), [auditory](rules/traits/auditory.md), [divination](rules/traits/divination.md), [fortune](rules/traits/fortune.md))
 
+- **Frequency**: once per day
 - **Trigger**: You are about to roll an attack roll, saving throw, or skill check
 
 **Effect** You wish aloud for success. Roll the check twice and take the higher result.  
-%% #trait/arcane #trait/auditory #trait/divination #trait/fortune %%
+%%
+ #trait/arcane  #trait/auditory  #trait/divination  #trait/fortune 
+%%
 ```

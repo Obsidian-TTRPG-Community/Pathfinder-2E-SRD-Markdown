@@ -13,11 +13,11 @@ aliases: ["Stormburst"]
 # Stormburst *Spell 5*   
 [electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**60 foot
-- **Area**15-foot burst
-- **Saving Throw** Reflex
+- **Range**: 60 foot
+- **Area**: 15-foot burst
+- **Saving Throw**: Reflex
 
 Your voice projects like cracking thunder as you summon a localized storm, creating a fearsome surge of lightning and wind that deals `6d6` electricity damage. Each creature must attempt a Reflex saving throw.
 

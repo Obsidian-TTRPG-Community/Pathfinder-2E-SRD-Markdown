@@ -17,10 +17,9 @@ aliases: ["Paralyzing Light Trap"]
 When any creature other than a devil enters the light, the magic interwoven in the light holds the creature in place and rings an alarm.
 
 - **Disable** DC 26 [Thievery](compendium/skills.md#Thievery) (master) to distort or diffuse the light, keeping the light cone intact but preventing the trap from triggering, or dispel magic (4th level; counteract DC 26) to dispel the light, leaving the room in darkness.  
-     
+
 ```ad-embed-ability
-title: Stasis Field [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
+title: **Stasis Field** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([enchantment](rules/traits/enchantment.md), [incapacitation](rules/traits/incapacitation.md), [mental](rules/traits/mental.md), [occult](rules/traits/occult.md))
 
 - **Trigger**: A non-devil creature moves into the light
 
@@ -31,11 +30,14 @@ title: Stasis Field [R](rules/core-rulebook/chapter-9-playing-the-game.md#Action
 > - **Success** The target is [stunned](rules/conditions.md#Stunned).
 > - **Failure** The target is [paralyzed](rules/conditions.md#Paralyzed) for 1 round.
 > - **Critical Failure** The target is [stupefied](rules/conditions.md#Stupefied) for `1d4` rounds and [paralyzed](rules/conditions.md#Paralyzed) for 1 round.  
-%% #trait/enchantment #trait/incapacitation #trait/mental #trait/occult %%
+%%
+ #trait/enchantment  #trait/incapacitation  #trait/mental  #trait/occult 
+%%
 ```
 
 ```ad-pf2-summary
 title: Routine
+
 (1 action) All [stunned](rules/conditions.md#Stunned) and [paralyzed](rules/conditions.md#Paralyzed) creatures in the room take `1d10` mental damage (DC 26 basic Will save). Creatures who fail also become [paralyzed](rules/conditions.md#Paralyzed) for 1 round but can use a reaction to mentally fight off this stasis; creatures who do so take `5d10` mental damage but are no longer [paralyzed](rules/conditions.md#Paralyzed).
 ```
 ^routine

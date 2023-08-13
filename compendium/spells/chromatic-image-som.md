@@ -11,9 +11,10 @@ aliases: ["Chromatic Image"]
 # Chromatic Image *Spell 6*   
 [illusion](rules/traits/illusion.md "Illusion School Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Duration**1 minute
+- 
+- **Duration**: 1 minute
 
 You call forth three illusory images of yourself, and each of the four of you takes on a different color, your colors all shifting each time someone attacks you. This has the effects of mirror image, except that whenever a foe destroys one of the images, roll `1d4` to see which color the image was when it was destroyed. The attacker takes the corresponding effect.
 

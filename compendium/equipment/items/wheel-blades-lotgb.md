@@ -15,4 +15,6 @@ A set of large blades have been attached to your chair's wheels. While in the ch
 
 Your wheel blade deals `1d4` slashing damage and has the agile, [attached](rules/traits/attached.md "Attached Weapon Trait"), and [free-hand](rules/traits/free-hand.md "Free-Hand Weapon Trait") traits. A wheel blade is a simple melee weapon in the sword weapon group. You can etch weapon runes onto wheel blades. A wheelchair can only have one attached weapon.
 
+
+---
 *Source: Lost Omens: The Grand Bazaar p. 72*

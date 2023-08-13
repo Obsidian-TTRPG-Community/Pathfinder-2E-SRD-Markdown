@@ -21,7 +21,7 @@ aliases: ["Chohar", "The Golden Lion"]
 
 - **Category**: Mwangi Gods
 - **Anathema**: break your word, be cruel to the innocent, rebuke someone due to their homeland
-- **Areas of Concern**: justice, , loyalty, , work
+- **Areas of Concern**: justice, loyalty, work
 - **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait")
 
 ## Devotee benefits
@@ -40,6 +40,7 @@ When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Ch
 title: [Avatar](compendium/spells/avatar.md) of Chohar
 
 - **Speed**: Speed 70 feet, [air walk](compendium/spells/air-walk.md)
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") slam ([agile](rules/traits/agile.md "Agile Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait")), **Damage** `5d6+6` piercing and `1d6` fire
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") sunbeam **Damage** `6d6+6` fire
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") slam (, [agile](rules/traits/agile.md "Agile Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait")), **Damage** `5d6+6` piercing and `1d6` fire 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") sunbeam (), **Damage** `6d6+6` fire 
 ```

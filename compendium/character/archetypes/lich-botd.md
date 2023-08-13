@@ -26,7 +26,6 @@ Regardless of what paths they pursue, nearly all liches are obsessed with their 
 ```ad-embed-feat
 title: Lich Dedication, Feat 12*
 collapse: closed
-# Lich Dedication  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 > [!pf2-note] This version of [Lich Dedication](compendium/feats/lich-dedication-botd.md) is intended for use with the Lich Archetype. Its level has been changed accordingly.
@@ -46,7 +45,6 @@ You gain a unique [soul cage](compendium/equipment/items/soul-cage-botd.md)—a 
 ```ad-embed-feat
 title: Drain Soul Cage, Feat 14*
 collapse: closed
-# Drain Soul Cage  *Feat 14*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Drain Soul Cage](compendium/feats/drain-soul-cage-botd.md) is intended for use with the Lich Archetype. Its level has been changed accordingly.
@@ -64,7 +62,6 @@ Even if you can [Drain Bonded Item](rules/actions/drain-bonded-item.md) more tha
 ```ad-embed-feat
 title: Enshroud Soul Cage, Feat 14*
 collapse: closed
-# Enshroud Soul Cage  *Feat 14*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Enshroud Soul Cage](compendium/feats/enshroud-soul-cage-botd.md) is intended for use with the Lich Archetype. Its level has been changed accordingly.
@@ -80,7 +77,6 @@ You wreathe your [soul cage](compendium/equipment/items/soul-cage-botd.md) in an
 ```ad-embed-feat
 title: Hand of the Lich, Feat 14*
 collapse: closed
-# Hand of the Lich  *Feat 14*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Hand of the Lich](compendium/feats/hand-of-the-lich-botd.md) is intended for use with the Lich Archetype. Its level has been changed accordingly.
@@ -100,7 +96,6 @@ This is a critical specialization effect.
 ```ad-embed-feat
 title: Magic Sense (Wizard), Feat 14*
 collapse: closed
-# Magic Sense (Wizard)  *Feat 14*  
 [arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [detection](rules/traits/detection.md "Detection Effect Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 > [!pf2-note] This version of [Magic Sense (Wizard)](compendium/feats/magic-sense-wizard.md) is intended for use with the Lich Archetype. Its level has been changed accordingly.
@@ -115,7 +110,6 @@ You have a literal sixth sense for ambient magic in your vicinity. You can sense
 ```ad-embed-feat
 title: Bolster Soul Cage, Feat 16*
 collapse: closed
-# Bolster Soul Cage  *Feat 16*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Bolster Soul Cage](compendium/feats/bolster-soul-cage-botd.md) is intended for use with the Lich Archetype. Its level has been changed accordingly.
@@ -133,7 +127,6 @@ At 20th level, the time it takes your soul cage to rebuild your body is reduced 
 ```ad-embed-feat
 title: Spell Gem, Feat 16*
 collapse: closed
-# Spell Gem  *Feat 16*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 > [!pf2-note] This version of [Spell Gem](compendium/feats/spell-gem-botd.md) is intended for use with the Lich Archetype. Its level has been changed accordingly.
@@ -151,7 +144,6 @@ At 18th level, you can heighten whichever spell you chose to 7th level. At 20th 
 ```ad-embed-feat
 title: Frightful Aura, Feat 18*
 collapse: closed
-# Frightful Aura  *Feat 18*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [aura](rules/traits/aura.md "Aura Combat Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 > [!pf2-note] This version of [Frightful Aura](compendium/feats/frightful-aura-botd.md) is intended for use with the Lich Archetype. Its level has been changed accordingly.

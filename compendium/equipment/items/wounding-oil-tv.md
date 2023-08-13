@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
-- item/category/oil
+- item/category/oil/
 - trait/consumable
 - trait/magical
 - trait/necromancy
@@ -15,10 +15,11 @@ aliases: ["Wounding Oil"]
 [consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [oil](rules/traits/oil.md "Oil Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 45 gp
-- **Usage** held in 2 hands; **Bulk** L
+- **Bulk** L; **Usage** held in 2 hands
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Oil
 
 Smearing wounding oil, a crimson fluid, on a weapon causes it to smell strongly of blood and gives it the benefits of the wounding rune for 1 minute.
 
+
+---
 *Source: Treasure Vault p. 87*

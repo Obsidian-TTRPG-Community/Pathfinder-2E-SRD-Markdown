@@ -14,11 +14,11 @@ aliases: ["Cloak Of Shadow"]
 # Cloak Of Shadow *Focus 1*   
 [cleric](rules/traits/cleric.md "Cleric Class Trait")  [darkness](rules/traits/darkness.md "Darkness Effect Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [shadow](rules/traits/shadow.md "Shadow General Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains**: [darkness](compendium/setting/domains.md#Darkness)
+- **Domains** [darkness](compendium/setting/domains.md#Darkness)
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**touch
-- **Targets**1 willing creature
-- **Duration**1 minute
+- **Range**: touch
+- **Targets**: 1 willing creature
+- **Duration**: 1 minute
 
 You drape the target in a mantle of swirling shadows that make it harder to see. The cloak reduces bright light within a 20-foot emanation to dim light. This is a form of magical darkness and can therefore overcome non-magical light or attempt to counteract magical light as described on page 458.
 

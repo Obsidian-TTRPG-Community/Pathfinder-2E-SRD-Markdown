@@ -18,9 +18,9 @@ aliases: ["Ancestral Touch"]
 
 - **Mystery** Oracle
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**touch
-- **Targets**1 living creature
-- **Saving Throw** Will
+- **Range**: touch
+- **Targets**: 1 living creature
+- **Saving Throw**: Will
 
 You touch a creature and force them to see and feel the ancestors surrounding you. The target takes `1d4` mental damage, with results depending on a Will save.
 

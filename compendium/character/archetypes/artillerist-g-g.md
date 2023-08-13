@@ -22,7 +22,6 @@ You're not just some daredevil demolitionist, though. You're part of a team, acc
 ```ad-embed-feat
 title: Artillerist Dedication, Feat 2
 collapse: closed
-# Artillerist Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: trained in martial weapons
@@ -38,7 +37,6 @@ Artillery is a team sport, where every member of the crew has to rely on the oth
 ```ad-embed-feat
 title: Named Artillery, Feat 4
 collapse: closed
-# Named Artillery  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: trained in [Crafting](compendium/skills.md#Crafting)
@@ -56,7 +54,6 @@ If you fail to do so, or if you spend a full day designating a new piece of name
 ```ad-embed-feat
 title: Shorthanded, Feat 4
 collapse: closed
-# Shorthanded  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 
@@ -71,7 +68,6 @@ In a pinch, however, you can operate it with fewer people, provided you know wha
 ```ad-embed-feat
 title: Cannon Corner Shot, Feat 6
 collapse: closed
-# Cannon Corner Shot  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 
@@ -84,7 +80,6 @@ By loading special ammunition in a particular way, you can make your siege weapo
 ```ad-embed-feat
 title: Field Artillery, Feat 6
 collapse: closed
-# Field Artillery  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: expert in [Crafting](compendium/skills.md#Crafting)
@@ -99,7 +94,6 @@ While castles are generally obliging enough to stay in one place, out in the fie
 ```ad-embed-feat
 title: Live Ammunition, Feat 8
 collapse: closed
-# Live Ammunition  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 
@@ -112,7 +106,6 @@ There are generally few things as ill-advised as being shot out of a cannon or l
 ```ad-embed-feat
 title: Master Siege Engineer, Feat 16*
 collapse: closed
-# Master Siege Engineer  *Feat 16*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Master Siege Engineer](compendium/feats/master-siege-engineer-g-g.md) is intended for use with the Artillerist Archetype. Its level has been changed accordingly.

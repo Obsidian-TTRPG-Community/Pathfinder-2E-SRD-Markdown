@@ -18,8 +18,8 @@ aliases: ["Song Of Strength"]
 [bard](rules/traits/bard.md "Bard Class Trait")  [cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [composition](rules/traits/composition.md "Composition Spell Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Area**60-foot emanation
-- **Duration**1 round
+- **Area**: 60-foot emanation
+- **Duration**: 1 round
 
 You bolster your allies' physical strength with a hearty exhortation. You and your allies gain a +1 status bonus to [Athletics](compendium/skills.md#Athletics) checks and to their DCs against [Athletics](compendium/skills.md#Athletics) skill actions such as [Disarm](rules/actions/disarm.md), [Shove](rules/actions/shove.md), and [Trip](rules/actions/trip.md).
 

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/lotgb
-- item/category/snare
+- item/category/snare/
 - trait/consumable
 - trait/mechanical
 - trait/snare
@@ -15,7 +15,6 @@ aliases: ["Tar Rocket Snare"]
 [consumable](rules/traits/consumable.md "Consumable Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [snare](rules/traits/snare.md "Snare Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 15 gp
-- **Category** Snare
 
 You coat a small firework with a thick layer of resin and tar, so it sticks firmly onto a target. When a creature enters the square, the rocket launches at the creature and potentially sticks to it. You determine the direction the rocket faces when crafting the snare. The triggering creature must attempt a DC 20 Reflex save.
 
@@ -25,4 +24,6 @@ You coat a small firework with a thick layer of resin and tar, so it sticks firm
 > - **Failure** The rocket's coating of tar and resin sticks to the creature, and it can't be shaken loose. The creature becomes [flat-footed](rules/conditions.md#Flat-footed) for 1 round, and [clumsy](rules/conditions.md#Clumsy) for 1 minute or until it [Escapes](rules/actions/escape.md) (DC 20).
 > - **Critical Failure** As failure, but the creature takes a direct hit. It takes `2d6` bludgeoning damage and is pushed 10 feet in the direction the rocket faces.
 
+
+---
 *Source: Lost Omens: The Grand Bazaar p. 27*

@@ -14,10 +14,12 @@ aliases: ["Hatchet"]
 
 - **Price** 4 sp
 - **Bulk** L
-- **Damage** `1d6` S
+  - **Damage**: `1d6` S
 - **Hands** 1
 - **Category** Martial; **Group** Axe 
 
 This small axe can be used in close combat or thrown.
 
+
+---
 *Source: Core Rulebook p. 280*

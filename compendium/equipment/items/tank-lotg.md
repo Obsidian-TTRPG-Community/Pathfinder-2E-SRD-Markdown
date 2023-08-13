@@ -12,4 +12,16 @@ aliases: ["Tank"]
 
 
 
+---
+### Variants
+
+#### stationary *Item 0*
+
+- **Price**: 1 gp
+
+#### traveling *Item 0*
+
+- **Price**: 10 gp
+
+---
 *Source: Lost Omens: Travel Guide p. 103*

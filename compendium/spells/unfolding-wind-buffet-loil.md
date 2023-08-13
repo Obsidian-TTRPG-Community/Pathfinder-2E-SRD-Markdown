@@ -13,6 +13,7 @@ aliases: ["Unfolding Wind Buffet"]
 [air](rules/traits/air.md "Air Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- 
 
 You surround your unarmed attacks with the speed and force of air. Make three unarmed Strikes against the same target. If at least one was a successful hit, the target must attempt a Fortitude save or be pushed back 5 feet for each normal hit from the buffet, plus 10 feet for each critical hit.
 

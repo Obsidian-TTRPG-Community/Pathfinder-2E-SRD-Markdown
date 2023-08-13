@@ -18,7 +18,7 @@ Even if vitrumancy is a mystery to you, your blood and flesh know the secrets of
 During this innate stoneskin, you gain the Shatter Glass reaction. At 18th level, the [stoneskin](compendium/spells/stoneskin.md) is heightened to 6th level instead of 4th.
 
 ```ad-embed-ability
-title: Shatter Glass [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Shatter Glass** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: An adjacent creature [Strikes](rules/actions/strike.md) you with a melee weapon or unarmed attack and deals damage
 - **Requirements**: Your innate stoneskin from Glass Skin is active

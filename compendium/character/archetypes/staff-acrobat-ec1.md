@@ -14,7 +14,6 @@ You can perform amazing acts in and out of combat when you have a spear, staff, 
 ```ad-embed-feat
 title: Staff Acrobat Dedication, Feat 2
 collapse: closed
-# Staff Acrobat Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: Dexterity 16; trained in [Acrobatics](compendium/skills.md#Acrobatics); trained in [Athletics](compendium/skills.md#Athletics); trained with at least one of the following weapons: staff, bo staff, halfling sling staff, or any weapon in the spear or polearm (referred to in this archetype as "your staff")
@@ -30,7 +29,6 @@ When you [High Jump](rules/actions/high-jump.md), [Leap](rules/actions/leap.md),
 ```ad-embed-feat
 title: Bullying Staff, Feat 4
 collapse: closed
-# Bullying Staff  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Staff Acrobat Dedication](compendium/feats/staff-acrobat-dedication-ec1.md)
@@ -45,7 +43,6 @@ You can attempt to [Shove](rules/actions/shove.md) or [Trip](rules/actions/trip.
 ```ad-embed-feat
 title: Staff Sweep, Feat 6
 collapse: closed
-# Staff Sweep  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Staff Acrobat Dedication](compendium/feats/staff-acrobat-dedication-ec1.md)
@@ -61,7 +58,6 @@ You sweep your foes away with your staff. Roll an [Athletics](compendium/skills.
 ```ad-embed-feat
 title: Levering Strike, Feat 8
 collapse: closed
-# Levering Strike  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [press](rules/traits/press.md "Press Combat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Staff Acrobat Dedication](compendium/feats/staff-acrobat-dedication-ec1.md)
@@ -77,7 +73,6 @@ Make a [Strike](rules/actions/strike.md) with your staff. As long as you don't c
 ```ad-embed-feat
 title: Whirlwind Stance, Feat 10
 collapse: closed
-# Whirlwind Stance  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Staff Acrobat Dedication](compendium/feats/staff-acrobat-dedication-ec1.md), expert proficiency in your staff
@@ -93,7 +88,6 @@ You use your staff as a defensive implement as well as an offensive one. You gai
 ```ad-embed-feat
 title: Pivot Strike, Feat 14*
 collapse: closed
-# Pivot Strike  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 14*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [attack](rules/traits/attack.md "Attack Combat Trait")  [open](rules/traits/open.md "Open Combat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 > [!pf2-note] This version of [Pivot Strike](compendium/feats/pivot-strike-ec1.md) is intended for use with the Staff Acrobat Archetype. Its level has been changed accordingly.

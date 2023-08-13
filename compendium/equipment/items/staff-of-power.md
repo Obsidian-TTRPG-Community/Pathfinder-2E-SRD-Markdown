@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/crb
-- item/category/staff
+- item/category/staff/
 - trait/evocation
 - trait/magical
 - trait/rare
@@ -14,8 +14,8 @@ aliases: ["Staff of Power"]
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  
 
 - **Price** 10000 gp
-- **Usage** held in 1 hand; **Bulk** 1
-- **Category** Staff
+- **Craft Requirements** Supply one casting of all listed levels of all listed spells.
+- **Bulk** 1; **Usage** held in 1 hand
 
 This staff of magically hardened wood is topped with a silver sculpture depicting magical runic symbols. When used as a weapon, a staff of power is a +2 greater striking staff.
 
@@ -24,7 +24,8 @@ Voluntarily destroying a staff of power unleashes an incredible blast of energy.
 You automatically critically fail your save. A creature reduced to 0 Hit Points by this damage dies instantly; this is a [death](rules/traits/death.md "Death Effect Trait") effect.
 
 ```ad-embed-ability
-title: Activate
+title: **Activate**  [Cast a Spell](rules/actions/cast-a-spell.md)
+
 
 You expend a number of charges from the staff to cast a spell from its list.
 
@@ -37,4 +38,6 @@ You expend a number of charges from the staff to cast a spell from its list.
 - **7th** [cone of cold](compendium/spells/cone-of-cold.md), [fireball](compendium/spells/fireball.md), [lightning bolt](compendium/spells/lightning-bolt.md)
 ```
 
+
+---
 *Source: Core Rulebook p. 595*

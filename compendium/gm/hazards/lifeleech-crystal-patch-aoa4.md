@@ -17,14 +17,13 @@ Sharp, bloodthirsty crystals make walking through this chamber treacherous.
 
 - **Disable** [Religion](compendium/skills.md#Religion) DC 30 (expert) to utter prayers that quell the crystals' necromantic compulsion to drink blood  
 
-- **AC** 31 , **Fort** +24, **Ref** +12
+- **AC** 31, **Fort** +24, **Ref** +12
 - **Hardness** 20, **HP** 80 (BT 40)
 - **Immunities** critical hits (except bludgeoning or sonic); object immunities; precision damage
-- **Resistances** 
 - **Weaknesses** sonic 10
-     
+
 ```ad-embed-ability
-title: Slice Legs [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Slice Legs** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature with blood moves through a patch of lifeleech crystals.
 

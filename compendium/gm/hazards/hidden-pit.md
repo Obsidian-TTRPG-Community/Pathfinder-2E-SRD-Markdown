@@ -17,14 +17,12 @@ A wooden trapdoor covers a pit that's 10 feet square and 20 feet deep.
 
 - **Disable** [Thievery](compendium/skills.md#Thievery) DC 12 to remove the trapdoor.  
 
-- **AC** 10 , **Fort** +1, **Ref** +1
+- **AC** 10, **Fort** +1, **Ref** +1
 - **Trapdoor Hardness** 3, **Trapdoor HP** 12 (BT 6)
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Pitfall [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Pitfall** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature walks onto the trapdoor.
 

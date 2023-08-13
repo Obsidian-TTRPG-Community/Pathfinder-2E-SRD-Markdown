@@ -10,9 +10,10 @@ aliases: ["Temporary Tool"]
 # Temporary Tool *Spell 1*   
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait")
 - **Cast** 1 minute 
-- **Duration**until used or 1 minute; see text
+- 
+- **Duration**: until used or 1 minute; see text
 
 You conjure a temporary simple tool, such as a shovel or rope into your hands. It lasts until it is used for a single activity or for 1 minute, whichever comes first, after which it disappears. The tool is obviously temporarily conjured, and thus can't be sold or passed off as a genuine item.
 

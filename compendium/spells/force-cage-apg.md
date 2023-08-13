@@ -12,12 +12,12 @@ aliases: ["Force Cage"]
 # Force Cage *Spell 7*   
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**30 foot
-- **Area**1 cube 20 feet on each side
-- **Saving Throw** Reflex
-- **Duration**sustained up to 1 minute
+- **Range**: 30 foot
+- **Area**: 1 cube 20 feet on each side
+- **Saving Throw**: Reflex
+- **Duration**: sustained up to 1 minute
 
 You create an immobile, [invisible](rules/conditions.md#Invisible) prison of sheer force. The cage is a 20-foot cube made of bands of force, each a half inch thick and a half inch apart, that extend to the Ethereal Plane. Each creature in the area where you create the cage must attempt a Reflex save. If such a creature fails, it becomes trapped inside the cage. If it succeeds, it's pushed outside the cage into a space of its choice. If a creature in the area is too big to fit inside the prison, the spell automatically fails.
 

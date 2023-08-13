@@ -22,7 +22,7 @@ aliases: ["Gruhastha", "The Keeper"]
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: deny a sincere student education, destroy knowledge, disrespect the traditions of those around you, willfully spread ignorance or wrong information
-- **Areas of Concern**: enlightenment, , the Vudrani holy book
+- **Areas of Concern**: enlightenment, the Vudrani holy book
 - **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait")
 
 ## Devotee benefits
@@ -41,8 +41,9 @@ When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Gr
 title: [Avatar](compendium/spells/avatar.md) of Gruhastha
 
 - **Speed**: Speed 50 feet, fly 70 feet
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") fist ([agile](rules/traits/agile.md "Agile Weapon Trait"), [finesse](rules/traits/finesse.md "Finesse Weapon Trait"), [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait")), **Damage** `6d6+6` bludgeoning
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") arrow of enlightenment ([deadly <3d10>](rules/traits/deadly-3d10.md "Deadly Weapon Trait")), **Damage** `6d6+3` piercing
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") fist (, [agile](rules/traits/agile.md "Agile Weapon Trait"), [finesse](rules/traits/finesse.md "Finesse Weapon Trait"), [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait")), **Damage** `6d6+6` bludgeoning 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") arrow of enlightenment (, [deadly <3d10>](rules/traits/deadly-3d10.md "Deadly Weapon Trait")), **Damage** `6d6+3` piercing 
 ```
 
 ## Divine intercession

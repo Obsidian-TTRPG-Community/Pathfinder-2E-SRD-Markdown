@@ -13,9 +13,11 @@ aliases: ["Coral Armor"]
 - **Price** 5 gp
 - **Bulk** 2
 - **AC Bonus** +3; **Dex Cap** +2
-- **Strength** 14; **Check Penalty** --2; **Speed Penalty** -5 ft.
+- **Strength** 14; **Check Penalty** -2; **Speed Penalty** -5 ft.
 - **Category** Medium; **Group** Skeletal 
 
 A good option for undersea explorers and aquatic peoples alike, coral armor consists of panels of carved coral. If worn underwater, some of this coral can even be alive.
 
+
+---
 *Source: Treasure Vault p. 9*

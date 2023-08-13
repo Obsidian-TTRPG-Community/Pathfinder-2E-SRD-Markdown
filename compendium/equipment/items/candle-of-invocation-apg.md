@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/apg
-- item/category/consumable
+- item/category/consumable/
 - trait/conjuration
 - trait/consumable
 - trait/divine
@@ -16,7 +16,6 @@ aliases: ["Candle Of Invocation"]
 - **Price** 2000 gp
 - **Usage** held in 1 hand
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Consumable
 
 This golden candle bears the symbol of a specific deity emblazoned on its surface, surrounded by the iconography of that deity's faith. Once lit, this candle burns for 1 hour, and it can't be extinguished.
 
@@ -26,4 +25,6 @@ A caster's additional spell slots from the candle are lost the next time that ca
 
 No one can benefit from more than one candle of invocation in a day, but multiple characters can benefit from a single candle's effects.
 
+
+---
 *Source: Advanced Player's Guide p. 256*

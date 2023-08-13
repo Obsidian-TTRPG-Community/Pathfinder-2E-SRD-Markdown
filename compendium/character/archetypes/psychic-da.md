@@ -19,7 +19,6 @@ Psychic is a good fit for characters who want a touch of occult power. Intellige
 ```ad-embed-feat
 title: Psychic Dedication, Feat 2
 collapse: closed
-# Psychic Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [multiclass](rules/traits/multiclass.md "Multiclass Feat Trait")  
 
 - **Prerequisites**: Intelligence 14 or Charisma 14
@@ -35,7 +34,6 @@ You feel something awaken within your mind. You become trained in [Occultism](co
 ```ad-embed-feat
 title: Basic Psychic Spellcasting, Feat 4
 collapse: closed
-# Basic Psychic Spellcasting  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Psychic Dedication](compendium/feats/psychic-dedication-da.md)
@@ -49,7 +47,6 @@ You gain the basic spellcasting benefits. When you gain a spell slot of a new le
 ```ad-embed-feat
 title: Basic Thoughtform, Feat 4
 collapse: closed
-# Basic Thoughtform  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Psychic Dedication](compendium/feats/psychic-dedication-da.md)
@@ -63,7 +60,6 @@ You gain a 1st- or 2nd-level psychic feat of your choice.
 ```ad-embed-feat
 title: Advanced Thoughtform, Feat 6
 collapse: closed
-# Advanced Thoughtform  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Thoughtform](compendium/feats/basic-thoughtform-da.md)
@@ -79,7 +75,6 @@ You gain one psychic feat. For the purpose of meeting its prerequisites, your ps
 ```ad-embed-feat
 title: Psi Development, Feat 6
 collapse: closed
-# Psi Development  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Psychic Dedication](compendium/feats/psychic-dedication-da.md)
@@ -95,7 +90,6 @@ You gain the benefits and the amp for this second psi cantrip. Increase the numb
 ```ad-embed-feat
 title: Expert Psychic Spellcasting, Feat 12*
 collapse: closed
-# Expert Psychic Spellcasting  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Expert Psychic Spellcasting](compendium/feats/expert-psychic-spellcasting-da.md) is intended for use with the Psychic Archetype. Its level has been changed accordingly.
@@ -111,7 +105,6 @@ You gain the expert spellcasting benefits.
 ```ad-embed-feat
 title: Master Psychic Spellcasting, Feat 18*
 collapse: closed
-# Master Psychic Spellcasting  *Feat 18*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Master Psychic Spellcasting](compendium/feats/master-psychic-spellcasting-da.md) is intended for use with the Psychic Archetype. Its level has been changed accordingly.

@@ -13,9 +13,10 @@ aliases: ["Know The Enemy"]
 # Know The Enemy *Focus 4*   
 [cleric](rules/traits/cleric.md "Cleric Class Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains**: [knowledge](compendium/setting/domains.md#Knowledge)
+- **Domains** [knowledge](compendium/setting/domains.md#Knowledge)
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
-- **Trigger**You roll initiative and can see a creature, you succeed at an attack roll against a creature, or a creature fails a saving throw against one of your spells.
+- **Trigger**: You roll initiative and can see a creature, you succeed at an attack roll against a creature, or a creature fails a saving throw against one of your spells.
+- 
 
 Use a [Recall Knowledge](rules/actions/recall-knowledge.md) action, rolling the appropriate skill check to identify the triggering creature's abilities. You can roll your check twice and use the better result.
 

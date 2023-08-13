@@ -17,14 +17,12 @@ A chair on [concealed](rules/conditions.md#Concealed) tracks surges forward, kno
 
 - **Disable** DC 23 [Thievery](compendium/skills.md#Thievery) (expert) to disrupt the tracks  
 
-- **AC** 22 , **Fort** +15, **Ref** +9
+- **AC** 22, **Fort** +15, **Ref** +9
 - **Hardness** 14, **HP** 54 (BT 27)
 - **Immunities** object immunities
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Take a Seat! [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Take a Seat!** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature steps on the track
 

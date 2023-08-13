@@ -14,7 +14,6 @@ One of Old-Mage Jatembe's central lessons was that magic was magic, no matter wh
 ```ad-embed-feat
 title: Halcyon Speaker Dedication, Feat 6
 collapse: closed
-# Halcyon Speaker Dedication  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Magaambyan Attendant Dedication](compendium/feats/magaambyan-attendant-dedication-locg.md), member of the Magaambya of conversant rank
@@ -30,7 +29,6 @@ You devote much of your study to halcyon magic. You gain two common Halcyon cant
 ```ad-embed-feat
 title: Dualistic Synergy, Feat 8
 collapse: closed
-# Dualistic Synergy  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 - **Prerequisites**: [Halcyon Speaker Dedication](compendium/feats/halcyon-speaker-dedication-locg.md)
@@ -45,7 +43,6 @@ If your next action is to [Cast a Spell](rules/actions/cast-a-spell.md) from you
 ```ad-embed-feat
 title: Persistent Creation, Feat 8
 collapse: closed
-# Persistent Creation  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Halcyon Speaker Dedication](compendium/feats/halcyon-speaker-dedication-locg.md)
@@ -59,7 +56,6 @@ You can cast [creation](compendium/spells/creation.md) as an innate spell at wil
 ```ad-embed-feat
 title: Halcyon Spellcasting Initiate, Feat 10
 collapse: closed
-# Halcyon Spellcasting Initiate  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Halcyon Speaker Dedication](compendium/feats/halcyon-speaker-dedication-locg.md)
@@ -73,7 +69,6 @@ Your knowledge of halcyon magic increases. You gain two common 2nd-level halcyon
 ```ad-embed-feat
 title: Shared Synergy, Feat 10
 collapse: closed
-# Shared Synergy  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Dualistic Synergy](compendium/feats/dualistic-synergy-locg.md)
@@ -87,7 +82,6 @@ You can grant the benefit from Dualistic Synergy to an ally within 30 feet inste
 ```ad-embed-feat
 title: Flexible Halcyon Spellcasting, Feat 12*
 collapse: closed
-# Flexible Halcyon Spellcasting  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Flexible Halcyon Spellcasting](compendium/feats/flexible-halcyon-spellcasting-locg.md) is intended for use with the Halcyon Speaker Archetype. Its level has been changed accordingly.
@@ -103,7 +97,6 @@ You broaden your ability to channel your power into halcyon magic. You gain one 
 ```ad-embed-feat
 title: Halcyon Spellcasting Adept, Feat 14*
 collapse: closed
-# Halcyon Spellcasting Adept  *Feat 14*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Halcyon Spellcasting Adept](compendium/feats/halcyon-spellcasting-adept-locg.md) is intended for use with the Halcyon Speaker Archetype. Its level has been changed accordingly.
@@ -119,7 +112,6 @@ You refine your halcyon magic. You gain two common 4th-level halcyon spells and 
 ```ad-embed-feat
 title: Fulminating Synergy, Feat 16*
 collapse: closed
-# Fulminating Synergy  *Feat 16*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Fulminating Synergy](compendium/feats/fulminating-synergy-locg.md) is intended for use with the Halcyon Speaker Archetype. Its level has been changed accordingly.
@@ -135,7 +127,6 @@ When you draw upon your spells' synergy, you create a physical manifestation of 
 ```ad-embed-feat
 title: Halcyon Spellcasting Sage, Feat 18*
 collapse: closed
-# Halcyon Spellcasting Sage  *Feat 18*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Halcyon Spellcasting Sage](compendium/feats/halcyon-spellcasting-sage-locg.md) is intended for use with the Halcyon Speaker Archetype. Its level has been changed accordingly.
@@ -151,7 +142,6 @@ Your command over halcyon magic is nearly unmatched. You gain two common 6th-lev
 ```ad-embed-feat
 title: Synergistic Spell, Feat 20*
 collapse: closed
-# Synergistic Spell  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 20*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 > [!pf2-note] This version of [Synergistic Spell](compendium/feats/synergistic-spell-locg.md) is intended for use with the Halcyon Speaker Archetype. Its level has been changed accordingly.

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/som
-- item/category/talisman
+- item/category/talisman/
 - trait/consumable
 - trait/magical
 - trait/talisman
@@ -16,7 +16,6 @@ aliases: ["Stormfeather"]
 - **Price** 100 gp
 - **Usage** affixed to armor
 - **Activate** [Interact](rules/actions/interact.md); **Requirements** You're an expert in [Acrobatics](compendium/skills.md#Acrobatics).
-- **Category** Talisman
 
 Even while affixed, this electric blue feather sways lightly in the air, as if always accompanied by a breeze.
 
@@ -24,4 +23,6 @@ When activated, the talisman casts fly on you, though the duration is 1 minute. 
 
 If you do, you're affected by feather fall.
 
+
+---
 *Source: Secrets of Magic p. 176*

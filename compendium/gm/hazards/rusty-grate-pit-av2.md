@@ -17,14 +17,12 @@ The rusty grate covers a pit that's 10 feet in diameter and 40 feet deep.
 
 - **Disable** DC 18 [Thievery](compendium/skills.md#Thievery) to harmlessly trigger the trap by nudging the gate or the dangling winch, or DC 24 [Thievery](compendium/skills.md#Thievery) to stabilize the grate so it doesn't collapse.  
 
-- **AC** 21 , **Fort** +17, **Ref** +11
+- **AC** 21, **Fort** +17, **Ref** +11
 - **Hardness** 14, **HP** 56 (BT 28)
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Pitfall [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Pitfall** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature walks onto the grate
 

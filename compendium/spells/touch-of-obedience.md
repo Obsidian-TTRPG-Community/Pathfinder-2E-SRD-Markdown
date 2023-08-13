@@ -13,12 +13,12 @@ aliases: ["Touch Of Obedience"]
 # Touch Of Obedience *Focus 1*   
 [cleric](rules/traits/cleric.md "Cleric Class Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains**: [tyranny](compendium/setting/domains.md#Tyranny)
+- **Domains** [tyranny](compendium/setting/domains.md#Tyranny)
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**touch
-- **Targets**1 living creature
-- **Saving Throw** Will
-- **Duration**varies
+- **Range**: touch
+- **Targets**: 1 living creature
+- **Saving Throw**: Will
+- **Duration**: varies
 
 Your imperious touch erodes the target's willpower, making it easier to control. The target attempts a Will save.
 

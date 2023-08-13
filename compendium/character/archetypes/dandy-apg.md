@@ -14,7 +14,6 @@ You are a genteel master of style, culture, and decorum, aware of even the subtl
 ```ad-embed-feat
 title: Dandy Dedication, Feat 2
 collapse: closed
-# Dandy Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: trained in [Diplomacy](compendium/skills.md#Diplomacy)
@@ -32,7 +31,6 @@ You become trained in [Deception](compendium/skills.md#Deception) and [Society](
 ```ad-embed-feat
 title: Distracting Flattery, Feat 4
 collapse: closed
-# Distracting Flattery  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Dandy Dedication](compendium/feats/dandy-dedication-apg.md), expert in [Deception](compendium/skills.md#Deception)
@@ -55,7 +53,6 @@ Make a [Deception](compendium/skills.md#Deception) check against the target's Wi
 ```ad-embed-feat
 title: Gossip Lore, Feat 4
 collapse: closed
-# Gossip Lore  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Dandy Dedication](compendium/feats/dandy-dedication-apg.md)
@@ -71,7 +68,6 @@ If you have legendary proficiency in [Society](compendium/skills.md#Society), yo
 ```ad-embed-feat
 title: Fabricated Connections, Feat 7
 collapse: closed
-# Fabricated Connections  *Feat 7*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Dandy Dedication](compendium/feats/dandy-dedication-apg.md); master in [Deception](compendium/skills.md#Deception)
@@ -85,7 +81,6 @@ You can lie about having taken an action so convincingly that you acquire all th
 ```ad-embed-feat
 title: Party Crasher, Feat 7
 collapse: closed
-# Party Crasher  *Feat 7*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Dandy Dedication](compendium/feats/dandy-dedication-apg.md), master in [Society](compendium/skills.md#Society)

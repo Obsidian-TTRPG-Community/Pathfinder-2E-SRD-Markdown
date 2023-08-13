@@ -16,4 +16,6 @@ aliases: ["Breastplate"]
 
 Though referred to as a breastplate, this type of armor consists of several pieces of [plate](compendium/equipment/items/full-plate.md) or [half plate](compendium/equipment/items/half-plate.md) armor that protect the torso, chest, neck, and sometimes the hips and lower legs. It strategically grants some of the protection of [plate](compendium/equipment/items/full-plate.md) while allowing greater flexibility and speed.
 
+
+---
 *Source: Core Rulebook p. 275*

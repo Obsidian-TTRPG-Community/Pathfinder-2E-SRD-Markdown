@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/crb
-- item/category/tool
+- item/category/tool/
 - trait/alchemical
 - trait/consumable
 - trait/uncommon
@@ -12,10 +12,8 @@ aliases: ["Philosopher's Stone"]
 # Philosopher's Stone *Item 20*  
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Price** null null
-- **Usage** held in 2 hands; **Bulk** 2
+- **Bulk** 2; **Usage** held in 2 hands
 - **Activate** [Interact](rules/actions/interact.md) or 1 or more days
-- **Category** Tool
 
 An alchemist with the [Craft Philosopher's Stone](compendium/feats/craft-philosophers-stone.md) feat can create a philosopher's stone once per month by spending 1 batch of infused reagents during their daily preparations using the advanced alchemy class feature. This is the only way to create a philosopher's stone.
 
@@ -26,4 +24,6 @@ To use the quicksilver, you must be legendary in [Crafting](compendium/skills.md
 - You can apply the stone's quicksilver to an [infused](rules/traits/infused.md "Infused Item Trait") true elixir of life using an [Interact](rules/actions/interact.md) action. This turns the elixir into an [infused](rules/traits/infused.md "Infused Item Trait") [elixir of rejuvenation](compendium/equipment/items/elixir-of-rejuvenation.md) instantaneously. This doesn't require any crafting time or additional materials.
 - You can spend up to a month of downtime applying the quicksilver either to iron to create silver or to lead to create gold. Treat this as a 20th-level task to [Earn Income](rules/actions/earn-income.md) using [Crafting](compendium/skills.md#Crafting), except that you create 500 gp worth of your chosen metal per day on a success or 750 gp worth per day on a critical success.
 
+
+---
 *Source: Core Rulebook p. 554*

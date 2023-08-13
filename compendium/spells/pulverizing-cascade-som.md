@@ -14,9 +14,9 @@ aliases: ["Pulverizing Cascade"]
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**120 foot
-- **Area**10-foot radius, 20-foot-tall cylinder
-- **Saving Throw**  basic Reflex
+- **Range**: 120 foot
+- **Area**: 10-foot radius, 20-foot-tall cylinder
+- **Saving Throw**:  basic Reflex
 
 You raise a pair of towering waves and slam them into each other, crushing creatures caught between them. Creatures in the area take `5d6` bludgeoning damage with a basic Reflex save.
 

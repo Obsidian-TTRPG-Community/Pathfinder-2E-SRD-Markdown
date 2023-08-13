@@ -10,11 +10,11 @@ aliases: ["Fated Confrontation"]
 # Fated Confrontation *Spell 10*   
 [divination](rules/traits/divination.md "Divination School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**120 foot
-- **Targets**1 willing ally and 1 enemy
-- **Duration**1 minute
+- **Range**: 120 foot
+- **Targets**: 1 willing ally and 1 enemy
+- **Duration**: 1 minute
 
 You weave the threads of fate to lead two foes into a climactic battle. The targets of this spell are the fated opponents: one of the targets of this spell must be you or a willing ally, and the other must be an enemy.
 

@@ -24,21 +24,24 @@ If you can already cast spells from spell slots, you learn one additional cantri
 You gain the Catharsis reaction and the Settle Emotions activity.
 
 ```ad-embed-ability
-title: Catharsis [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
+title: **Catharsis** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([concentrate](rules/traits/concentrate.md), [emotion](rules/traits/emotion.md), [mental](rules/traits/mental.md))
 
 - **Trigger**: determined by your catharsis emotion
 
 **Effect** You gain the catharsis activation effects listed for your catharsis emotion. You gain that emotion's emotional fervor benefits for 3 rounds. When your emotional fervor ends, you suffer the listed emotional fallout. After using Catharsis, you can't use it again until you use the Settle Emotions activity.  
-%% #trait/concentrate #trait/emotion #trait/mental %%
+%%
+ #trait/concentrate  #trait/emotion  #trait/mental 
+%%
 ```
 
 ```ad-embed-ability
-title: Settle Emotions
-[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
+title: **Settle Emotions**  ([concentrate](rules/traits/concentrate.md), [emotion](rules/traits/emotion.md), [mental](rules/traits/mental.md))
+
 
 You spend 10 minutes using techniques you've developed to calm your emotions and bring them back under control. This allows you to access your Catharsis again.  
-%% #trait/concentrate #trait/emotion #trait/mental %%
+%%
+ #trait/concentrate  #trait/emotion  #trait/mental 
+%%
 ```
 
 **Special.** You can't select another dedication feat until you've gained two other feats from the cathartic mage archetype.

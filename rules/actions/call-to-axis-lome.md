@@ -13,7 +13,7 @@ aliases: ["Call to Axis"]
 
 **Ancestry** Conrasu; **Heritage** Conrasu|LOME|Rite of Knowing|Rite of Knowing|LOME|
 - **Frequency**: once per day
-- **Trigger** You are about to attempt a check to [Recall Knowledge](rules/actions/recall-knowledge.md).
+- **Trigger**: You are about to attempt a check to [Recall Knowledge](rules/actions/recall-knowledge.md).
 - **Activity**: Free Action
 
 You call upon the knowledge of Axis to ensure the accuracy of your information. You roll a second time and use the higher result. If you roll a critical failure, you get a failure instead. If you roll a success, you get a critical success instead.

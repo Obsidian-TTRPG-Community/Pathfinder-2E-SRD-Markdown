@@ -19,14 +19,12 @@ aliases: ["Mogaru's Breath"]
 Mogaru exhales a blast of intense flames to eradicate any meddlesome pests in the area.
 
 - **Disable** DC 50 [Performance](compendium/skills.md#Performance) (legendary)  
-     
-```ad-embed-ability
-title: or DC
 
-53 [Deception](compendium/skills.md#Deception) (legendary) to momentarily divert Mogaru's attention.
+```ad-embed-ability
+title: **or DC** 53 [Deception](compendium/skills.md#Deception) (legendary) to momentarily divert Mogaru's attention.
 ```
 ```ad-embed-ability
-title: Volcanic Breath [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Volcanic Breath** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature takes a [hostile](rules/conditions.md#Hostile) action against Mogaru, produces a visible area effect, or flies within 120 feet of Mogaru
 

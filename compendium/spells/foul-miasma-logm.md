@@ -11,12 +11,12 @@ aliases: ["Foul Miasma"]
 # Foul Miasma *Focus 4*   
 [disease](rules/traits/disease.md "Disease Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
-- **Domains**: [plague](compendium/setting/domains.md#Plague)
+- **Domains** [plague](compendium/setting/domains.md#Plague)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 creature affected by a disease
-- **Saving Throw** Will
-- **Duration**1 minute
+- **Range**: 30 foot
+- **Targets**: 1 creature affected by a disease
+- **Saving Throw**: Will
+- **Duration**: 1 minute
 
 You multiply the disease within a creature, drawing it into an infectious mist outside their body where it can spread to other creatures. The target must attempt a Will save. If the target is willing, it can choose to take the effects of critical failure.
 

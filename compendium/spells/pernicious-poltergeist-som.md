@@ -11,11 +11,11 @@ aliases: ["Pernicious Poltergeist"]
 # Pernicious Poltergeist *Spell 4*   
 [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**60 foot
-- **Area**10-foot burst
-- **Duration**sustained up to 1 minute
+- **Range**: 60 foot
+- **Area**: 10-foot burst
+- **Duration**: sustained up to 1 minute
 
 You create an echo of a powerful poltergeist, temporarily anchoring it to the area to terrorize and harm any opponents foolish enough to remain in the area. Because the poltergeist is a manifestation and is not truly present, it can't be attacked or hurt; it remains [invisible](rules/conditions.md#Invisible) unless otherwise stated. When you [Cast the Spell](rules/actions/cast-a-spell.md), and the first time you Sustain it on subsequent rounds, the poltergeist creates your choice of one of the following effects.
 

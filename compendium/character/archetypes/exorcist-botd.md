@@ -14,13 +14,14 @@ aliases: ["Exorcist"]
 > Your _spirit dwelling_ can house not just wisps but greater remnants of spiritual energy left behind by defeated ghosts and haunts. You can use the Collect Spirit Remnant activity.
 > 
 > ```ad-embed-ability
-> title: Collect Spirit Remnant [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")
-> [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
+> title: **Collect Spirit Remnant** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") ([concentrate](rules/traits/concentrate.md), [manipulate](rules/traits/manipulate.md))
 > 
 > - **Requirements**: You're holding your _spirit dwelling_
 > 
 > **Effect** You brandish your spirit dwelling at the location where a haunt, ghost, or other incorporeal undead was destroyed within the last minute and pray or recite ritual incantations. You coax the spirit remnant into your spirit dwelling.  
-> %% #trait/concentrate #trait/manipulate %%
+> %%
+>  #trait/concentrate  #trait/manipulate 
+> %%
 > ```
 > 
 > **Rejuvenating Spirits:** Though all spirit wisps and most remnants can pass on immediately when purified, if a spirit remnant came from a creature with the rejuvenation special ability (such as most ghosts), a recurring haunt, or another entity who ordinarily doesn't pass on when destroyed, its ties to this world are too strong for it to easily pass on. When a spirit remnant from such an entity is released as part of your daily preparations, instead of joining the River of Souls, it begins re-forming itself in the time and location noted in its rejuvenation ability. However, you learn a clue about the spirit's unfinished business, which may help you put it to rest permanently.
@@ -41,7 +42,6 @@ Exorcists are most commonly found among the faithful of Ashava the True Spark (t
 ````ad-embed-feat
 title: Exorcist Dedication, Feat 4
 collapse: closed
-# Exorcist Dedication  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: trained in [Occultism](compendium/skills.md#Occultism) or [Religion](compendium/skills.md#Religion)
@@ -55,16 +55,16 @@ You can also learn abilities that let you purify a spirit in your spirit dwellin
 Any actions you gain from the exorcist archetype gain either the [divine](rules/traits/divine.md "Divine Tradition Trait") or [occult](rules/traits/occult.md "Occult Tradition Trait") trait, depending on whether you used [Occultism](compendium/skills.md#Occultism) or [Religion](compendium/skills.md#Religion) to qualify for Exorcist Dedication. Spirit's Mercy is the simplest of the purifications.
 
 ```ad-embed-ability
-title: Spirit's Mercy [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
-
+title: **Spirit's Mercy** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([necromancy](rules/traits/necromancy.md))
 - **Cost**: 1 spirit wisp or remnant
 - **Trigger**: You take positive or negative damage, or you take any type of damage caused by a haunt, ghost, or other incorporeal undead
 
 **Effect** You purify a spirit by having it perform a final act of mercy to lessen the damage caused by another spirit. This grants you resistance to positive and negative damage (or resistance to all damage if caused by a haunt or incorporeal undead) against the triggering effect.
 
 If you expend a spirit wisp, the resistance is equal to twice your level. If you expend a spirit remnant, the resistance is equal to three times the level of the incorporeal undead or haunt from which you gained the remnant.  
-%% #trait/necromancy %%
+%%
+ #trait/necromancy 
+%%
 ```
 
 **Special.** You can't select another dedication feat until you have gained two other feats from the exorcist archetype.
@@ -76,7 +76,6 @@ If you expend a spirit wisp, the resistance is equal to twice your level. If you
 ```ad-embed-feat
 title: Cast Out, Feat 6
 collapse: closed
-# Cast Out  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 6*  
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 
 - **Prerequisites**: [Exorcist Dedication](compendium/feats/exorcist-dedication-botd.md)
@@ -91,7 +90,6 @@ You attempt to cast a malevolent entity out of the creature or object it's posse
 ```ad-embed-feat
 title: Spirit's Absolution, Feat 6
 collapse: closed
-# Spirit's Absolution  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  
 
 - **Prerequisites**: [Exorcist Dedication](compendium/feats/exorcist-dedication-botd.md)
@@ -108,7 +106,6 @@ You purify a spirit by absolving it of its sins and regrets. This cathartic expe
 ```ad-embed-feat
 title: Spirit's Anguish, Feat 8
 collapse: closed
-# Spirit's Anguish  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  
 
 - **Prerequisites**: [Exorcist Dedication](compendium/feats/exorcist-dedication-botd.md)
@@ -125,7 +122,6 @@ You purify a spirit by coaxing it to release its anguish in a final cathartic ho
 ```ad-embed-feat
 title: Spiritual Sense, Feat 8*
 collapse: closed
-# Spiritual Sense  *Feat 8*  
 [divination](rules/traits/divination.md "Divination School Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  
 
 > [!pf2-note] This version of [Spiritual Sense](compendium/feats/spiritual-sense-apg.md) is intended for use with the Exorcist Archetype. Its level has been changed accordingly.
@@ -144,7 +140,6 @@ When you notice a creature with your Spiritual Sense, you also learn its locatio
 ```ad-embed-feat
 title: Blind-fight (Ranger), Feat 10*
 collapse: closed
-# Blind-fight (Ranger)  *Feat 10*  
 [ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 > [!pf2-note] This version of [Blind-fight (Ranger)](compendium/feats/blind-fight-ranger.md) is intended for use with the Exorcist Archetype. Its level has been changed accordingly.
@@ -162,7 +157,6 @@ While you're adjacent to an [undetected](rules/conditions.md#Undetected) creatur
 ```ad-embed-feat
 title: Enticing Dwelling, Feat 12*
 collapse: closed
-# Enticing Dwelling  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Enticing Dwelling](compendium/feats/enticing-dwelling-botd.md) is intended for use with the Exorcist Archetype. Its level has been changed accordingly.
@@ -178,7 +172,6 @@ Your spirit dwelling is particularly inviting to spirit wisps. During your daily
 ```ad-embed-feat
 title: Sense Evil, Feat 14*
 collapse: closed
-# Sense Evil  *Feat 14*  
 [champion](rules/traits/champion.md "Champion Class Trait")  
 
 > [!pf2-note] This version of [Sense Evil](compendium/feats/sense-evil.md) is intended for use with the Exorcist Archetype. Its level has been changed accordingly.
@@ -194,7 +187,6 @@ You sense evil as a queasy or foreboding feeling. When in the presence of an aur
 ```ad-embed-feat
 title: Sense The Unseen (Ranger), Feat 16*
 collapse: closed
-# Sense The Unseen (Ranger)  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 16*  
 [ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 > [!pf2-note] This version of [Sense The Unseen (Ranger)](compendium/feats/sense-the-unseen-ranger.md) is intended for use with the Exorcist Archetype. Its level has been changed accordingly.

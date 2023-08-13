@@ -18,4 +18,6 @@ Air cartridge firing mechanisms use a container of compressed air affixed to a s
 
 Attaching an air cartridge firing system takes one hour, though this time can overlap with the standard time required to maintain and clean your firearm to prevent misfires.
 
+
+---
 *Source: Guns & Gears p. 183*

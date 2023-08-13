@@ -33,7 +33,6 @@ The summoner archetype grants you an eidolon to join you in battle. It's a parti
 ```ad-embed-feat
 title: Summoner Dedication, Feat 2
 collapse: closed
-# Summoner Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [multiclass](rules/traits/multiclass.md "Multiclass Feat Trait")  
 
 - **Prerequisites**: Charisma 14
@@ -57,7 +56,6 @@ At 5th level, the eidolon's ability score that was reduced to 16 increases to 18
 ```ad-embed-feat
 title: Basic Synergy, Feat 4
 collapse: closed
-# Basic Synergy  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Summoner Dedication](compendium/feats/summoner-dedication-som.md)
@@ -71,7 +69,6 @@ You gain a 1st- or 2nd-level summoner feat of your choice.
 ```ad-embed-feat
 title: Initial Eidolon Ability, Feat 4
 collapse: closed
-# Initial Eidolon Ability  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Summoner Dedication](compendium/feats/summoner-dedication-som.md)
@@ -85,7 +82,6 @@ Your link to your eidolon becomes stronger, granting it a new ability. Your eido
 ```ad-embed-feat
 title: Advanced Synergy, Feat 6
 collapse: closed
-# Advanced Synergy  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Synergy](compendium/feats/basic-synergy-som.md)
@@ -101,7 +97,6 @@ You gain one summoner feat. For the purpose of meeting its prerequisites, your s
 ```ad-embed-feat
 title: Basic Summoner Spellcasting, Feat 6
 collapse: closed
-# Basic Summoner Spellcasting  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Summoner Dedication](compendium/feats/summoner-dedication-som.md)
@@ -119,7 +114,6 @@ You become trained in spell attack rolls and spell DCs of that tradition. You ga
 ```ad-embed-feat
 title: Expert Combat Eidolon, Feat 12*
 collapse: closed
-# Expert Combat Eidolon  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Expert Combat Eidolon](compendium/feats/expert-combat-eidolon-som.md) is intended for use with the Summoner Archetype. Its level has been changed accordingly.
@@ -135,7 +129,6 @@ Your eidolon advances its capabilities in combat. Your eidolon becomes an expert
 ```ad-embed-feat
 title: Expert Summoner Spellcasting, Feat 12*
 collapse: closed
-# Expert Summoner Spellcasting  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Expert Summoner Spellcasting](compendium/feats/expert-summoner-spellcasting-som.md) is intended for use with the Summoner Archetype. Its level has been changed accordingly.
@@ -151,7 +144,6 @@ You gain the expert bounded spellcasting benefits.
 ```ad-embed-feat
 title: Signature Synergy, Feat 14*
 collapse: closed
-# Signature Synergy  *Feat 14*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Signature Synergy](compendium/feats/signature-synergy-som.md) is intended for use with the Summoner Archetype. Its level has been changed accordingly.
@@ -167,7 +159,6 @@ Your eidolon gains an evolution integral to its form, and it comes more easily t
 ```ad-embed-feat
 title: Master Summoner Spellcasting, Feat 18*
 collapse: closed
-# Master Summoner Spellcasting  *Feat 18*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Master Summoner Spellcasting](compendium/feats/master-summoner-spellcasting-som.md) is intended for use with the Summoner Archetype. Its level has been changed accordingly.

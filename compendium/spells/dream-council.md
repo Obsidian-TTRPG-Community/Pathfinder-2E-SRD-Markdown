@@ -12,11 +12,11 @@ aliases: ["Dream Council"]
 # Dream Council *Spell 8*   
 [illusion](rules/traits/illusion.md "Illusion School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [sleep](rules/traits/sleep.md "Sleep Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 10 minutes 
-- **Range**planetary
-- **Targets**up to 12 creatures you know by name and have met in person
-- **Duration**1 hour
+- **Range**: planetary
+- **Targets**: up to 12 creatures you know by name and have met in person
+- **Duration**: 1 hour
 
 When you [Cast this Spell](rules/actions/cast-a-spell.md), any targets—including you—can choose to immediately fall asleep. The spell ends for any creatures that don't choose to fall asleep. Sleepers join a shared dream, where they can communicate with one another as though they were in the same room. Individual targets leave this shared dream upon awakening, and if all the targets awaken, the spell ends.
 

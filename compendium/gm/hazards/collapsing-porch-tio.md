@@ -17,14 +17,13 @@ A section of splintery and rotten floorboards drop a creature 6 feet onto uneven
 
 - **Disable** DC 15 [Crafting](compendium/skills.md#Crafting) (trained) to replace or cover the weak sections of flooring, or DC 15 [Survival](compendium/skills.md#Survival) (trained) to crumble the rotten floorboards from a safe distance  
 
-- **AC** 10 , **Fort** +1, **Ref** +1
+- **AC** 10, **Fort** +1, **Ref** +1
 - **Floorboard Hardness** 3, **Floorboard HP** 12 (BT 6)
 - **Immunities** critical hits; sneak attack
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Collapse [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Collapse** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+
 
 If a creature walks on the area marked on the map, it falls through the weakened floorboards onto uneven rocks and sharp shards of wood, taking `1d4` piercing damage and `1d6` bludgeoning damage. The creature can use the [Grab an Edge](rules/actions/grab-an-edge.md) reaction to avoid the fall and the damage.
 ```

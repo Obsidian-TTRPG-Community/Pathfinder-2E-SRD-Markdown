@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
-- item/category/held
+- item/category/held/
 - trait/magical
 - trait/transmutation
 aliases: ["Vine Whip"]
@@ -12,13 +12,13 @@ aliases: ["Vine Whip"]
 [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 500 gp
-- **Usage** held in 1 hand; **Bulk** 1
-- **Category** Held
+- **Craft Requirements** The initial raw materials must include the vine from a plant creature with a vine attack.
+- **Bulk** 1; **Usage** held in 1 hand
 
 This +1 striking whip is crafted from the vine of a dangerous plant creature. It deals bludgeoning or slashing damage, according to the vine attack of the creature it was harvested from. For example, collecting a vine from an assassin vine would result in a vine whip that deals bludgeoning damage, while one from a mandragora or viper vine would deal piercing damage.
 
 ```ad-embed-ability
-title: Activate [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")
+title: **Activate** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") command, [Interact](rules/actions/interact.md)
 
 - **Requirements**: You have soil or sand within your reach
 
@@ -33,4 +33,6 @@ Each round, when the vine whip is finished using its actions, attempt a DC 6 fla
 
 You can't Activate the item again for 10 minutes. Removing the vine whip from the ground takes an [Interact](rules/actions/interact.md) action. While rooted, the vine whip gains fast healing 1.
 
+
+---
 *Source: Treasure Vault p. 38*

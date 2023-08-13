@@ -10,10 +10,11 @@ aliases: ["Oathkeeper's Insignia"]
 # Oathkeeper's Insignia *Focus 1*   
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  
 
-- **Domains**: [duty](compendium/setting/domains.md#Duty)
+- **Domains** [duty](compendium/setting/domains.md#Duty)
 - **Cast** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") 
-- **Trigger**You make a promise or deal.
-- **Duration**1 hour
+- **Trigger**: You make a promise or deal.
+- 
+- **Duration**: 1 hour
 
 A magical indicator assures a creature that you've upheld your end of a bargain. When you [Cast the Spell](rules/actions/cast-a-spell.md), you create a bracelet, flower, or other such trinket. If, while the spell persists, you complete the terms of the promise or deal you made, the trinket fades away with a pleasant chime; if you violate the terms instead, the trinket breaks with a dissonant crash.
 

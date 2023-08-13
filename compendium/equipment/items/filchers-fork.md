@@ -18,10 +18,12 @@ aliases: ["Filcher's Fork"]
 
 - **Price** 1 gp
 - **Bulk** L
-- **Damage** `1d4` P
+  - **Damage**: `1d4` P
 - **Hands** 1
 - **Category** Martial; **Group** Spear 
 
 This halfling weapon looks like a long, two-pronged fork and is used as both a weapon and a cooking implement.
 
+
+---
 *Source: Core Rulebook p. 281*

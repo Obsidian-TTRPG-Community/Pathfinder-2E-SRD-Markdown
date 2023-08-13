@@ -15,7 +15,8 @@ aliases: ["Ancestral Form"]
 
 - **Mystery** Oracle
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Duration**sustained up to 1 minute
+- 
+- **Duration**: sustained up to 1 minute
 
 You take the form of your ancestral spirits, becoming [invisible](rules/conditions.md#Invisible) and quasi-corporeal. You gain resistance 10 to all damage (except force and damage from [Strikes](rules/actions/strike.md) with the [ghost touch](compendium/equipment/items/ghost-touch.md) property rune), and this resistance is doubled against non-magical and precision damage. You gain a fly Speed equal to your land Speed; when Flying, moving upward isn't difficult terrain for you. You can't move through solid objects, but you can float through tiny gaps. You can't [Cast Spells](rules/actions/cast-a-spell.md) (but you can Sustain a Spell), activate items, or use actions that have the [attack](rules/traits/attack.md "Attack Combat Trait") or [manipulate](rules/traits/manipulate.md "Manipulate General Trait") trait.
 

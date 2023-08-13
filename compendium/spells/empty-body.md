@@ -14,7 +14,8 @@ aliases: ["Empty Body"]
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Duration**1 minute
+- 
+- **Duration**: 1 minute
 
 You turn ethereal, with the effects of ethereal jaunt, but you don't need to concentrate.
 

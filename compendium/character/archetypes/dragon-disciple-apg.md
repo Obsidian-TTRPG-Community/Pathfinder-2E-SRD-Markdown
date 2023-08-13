@@ -24,7 +24,6 @@ As a dragon disciple, you study and learn from the example of dragons, but that 
 ```ad-embed-feat
 title: Dragon Disciple Dedication, Feat 2
 collapse: closed
-# Dragon Disciple Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: You are a kobold with the dragonscaled or spellscaled heritage, a dragon instinct barbarian, or a draconic bloodline sorcerer.
@@ -55,7 +54,6 @@ You also gain a +1 circumstance bonus to saving throws against [sleep](rules/tra
 ```ad-embed-feat
 title: Claws Of The Dragon, Feat 4
 collapse: closed
-# Claws Of The Dragon  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Dragon Disciple Dedication](compendium/feats/dragon-disciple-dedication-apg.md)
@@ -71,7 +69,6 @@ If you're a draconic sorcerer, when you cast [dragon claws](compendium/spells/dr
 ```ad-embed-feat
 title: Draconic Scent, Feat 4
 collapse: closed
-# Draconic Scent  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Dragon Disciple Dedication](compendium/feats/dragon-disciple-dedication-apg.md)
@@ -85,7 +82,6 @@ Your sense of smell is uncanny, much like a dragon's. You gain imprecise [scent]
 ```ad-embed-feat
 title: Dragon Arcana, Feat 4
 collapse: closed
-# Dragon Arcana  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: ability to cast spells from spell slots, [Dragon Disciple Dedication](compendium/feats/dragon-disciple-dedication-apg.md)
@@ -99,7 +95,6 @@ You've discovered how to add the magic of dragons to your tradition. Add the dra
 ```ad-embed-feat
 title: Scales Of The Dragon, Feat 4
 collapse: closed
-# Scales Of The Dragon  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Dragon Disciple Dedication](compendium/feats/dragon-disciple-dedication-apg.md)
@@ -113,7 +108,6 @@ Scales grow across your body, protecting you against physical and magical threat
 ```ad-embed-feat
 title: Breath Of The Dragon, Feat 8
 collapse: closed
-# Breath Of The Dragon  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Dragon Disciple Dedication](compendium/feats/dragon-disciple-dedication-apg.md)
@@ -127,7 +121,6 @@ You can use a powerful breath weapon, much like the dragon you emulate. You gain
 ```ad-embed-feat
 title: Wings Of The Dragon, Feat 12*
 collapse: closed
-# Wings Of The Dragon  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Wings Of The Dragon](compendium/feats/wings-of-the-dragon-apg.md) is intended for use with the Dragon Disciple Archetype. Its level has been changed accordingly.
@@ -143,7 +136,6 @@ You can manifest draconic wings to soar through the air at great speed. You gain
 ```ad-embed-feat
 title: Shape Of The Dragon, Feat 14*
 collapse: closed
-# Shape Of The Dragon  *Feat 14*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Shape Of The Dragon](compendium/feats/shape-of-the-dragon-apg.md) is intended for use with the Dragon Disciple Archetype. Its level has been changed accordingly.
@@ -161,7 +153,6 @@ Any time you score a critical hit with an unarmed [Strike](rules/actions/strike.
 ```ad-embed-feat
 title: Disciple's Breath, Feat 16*
 collapse: closed
-# Disciple's Breath  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 16*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Disciple's Breath](compendium/feats/disciples-breath-apg.md) is intended for use with the Dragon Disciple Archetype. Its level has been changed accordingly.
@@ -178,7 +169,6 @@ You unleash your breath weapon without spending focus. This has the effects of y
 ```ad-embed-feat
 title: Mighty Dragon Shape, Feat 18*
 collapse: closed
-# Mighty Dragon Shape  *Feat 18*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Mighty Dragon Shape](compendium/feats/mighty-dragon-shape-apg.md) is intended for use with the Dragon Disciple Archetype. Its level has been changed accordingly.

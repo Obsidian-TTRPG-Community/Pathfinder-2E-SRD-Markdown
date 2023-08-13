@@ -11,12 +11,12 @@ aliases: ["Rouse Skeletons"]
 # Rouse Skeletons *Spell 3*   
 [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**60 foot
-- **Area**10-foot burst
-- **Saving Throw** Reflex
-- **Duration**sustained up to 1 minute
+- **Range**: 60 foot
+- **Area**: 10-foot burst
+- **Saving Throw**: Reflex
+- **Duration**: sustained up to 1 minute
 
 Misshapen skeletal forms erupt from a solid surface, such as a stone floor, and fill the burst. The area they fill is difficult terrain. Their grasping claws deal `2d6` slashing damage to creatures on the ground in the area when the skeletons first appear (basic Reflex save)
 

@@ -16,6 +16,7 @@ aliases: ["Legend Lore"]
 - **Secondary Casters** 2
 - **Primary Checks** [Occultism](compendium/skills.md#Occultism) (master)
 - **Secondary Checks** [Performance](compendium/skills.md#Performance), [Society](compendium/skills.md#Society)
+- 
 
 You attempt to learn useful legends about a particular subject, which must be an important person, place, or thing.
 

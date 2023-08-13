@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/gmg
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/drug
@@ -16,9 +16,8 @@ aliases: ["Flayleaf"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [drug](rules/traits/drug-gmg.md "Drug Item Trait")  [ingested](rules/traits/ingested.md "Ingested Item Trait")  [inhaled](rules/traits/inhaled.md "Inhaled Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Price** 1 gp
-- **Usage** held in 1 hand; **Bulk** L
+- **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 The flayleaf plant is relatively common, though the mildly euphoric effects of smoking its dried leaves increase when it's sourced from plants specifically grown to produce such effects.
 
@@ -39,4 +38,6 @@ title: Saving Throw: DC 12 Fortitude
 **Stage 4** [fatigued](rules/conditions.md#Fatigued), [frightened](rules/conditions.md#Frightened), [stupefied](rules/conditions.md#Stupefied) (1 hour)
 ```
 
+
+---
 *Source: Gamemastery Guide p. 120*

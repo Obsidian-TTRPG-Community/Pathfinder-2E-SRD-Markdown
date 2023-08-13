@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
-- item/category/worn
+- item/category/worn/
 - trait/abjuration
 - trait/divine
 - trait/focused
@@ -14,8 +14,8 @@ aliases: ["Bracers of Devotion"]
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [focused](rules/traits/focused.md "Focused Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  
 
 - **Price** 1400 gp
-- **Usage** worn bracers; **Bulk** L
-- **Category** Worn
+- **Craft Requirements** You are a champion.
+- **Bulk** L; **Usage** worn bracers
 
 Champions adorn these bracers with the symbol of their deity or the text of the tenets they follow. While they're clasped around your forearms, reassuring focus and devotion flow into you through them. Each time you spend a Focus Point to cast a devotion spell, your divine ally gains a benefit until the start of your next turn, depending on its type.
 
@@ -24,9 +24,13 @@ Champions adorn these bracers with the symbol of their deity or the text of the 
 - Steed Ally The mount gains a +10-foot status bonus to all its Speeds.
 
 ```ad-embed-ability
-title: Activate [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
+title: **Activate** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") envision
 
-You gain 1 Focus Point, which you can use only to cast a champion devotion spell. If not used by the end of your turn, this Focus Point is lost.
+- **Frequency**: once per day
+
+**Effect** You gain 1 Focus Point, which you can use only to cast a champion devotion spell. If not used by the end of your turn, this Focus Point is lost.
 ```
 
+
+---
 *Source: Treasure Vault p. 148*

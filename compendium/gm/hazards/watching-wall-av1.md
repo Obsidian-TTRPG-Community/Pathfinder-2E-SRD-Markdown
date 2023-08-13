@@ -19,12 +19,12 @@ An overwhelming feeling of being watched wells up in the minds of those in the r
 
 ```ad-pf2-summary
 title: Routine
+
 (1 action) The eye glances about, and those it can see (whether in area C4 or outside of it) take `4d6` mental damage (DC 21 basic Will save) as fears of being watched impart ripples of pain. A creature that takes mental damage from this effect doesn't reduce their [frightened](rules/conditions.md#Frightened) value at the end of their next turn.
 ```
 ^routine
 
 **Reset** The haunt becomes inert at the end of any round in which there are no [frightened](rules/conditions.md#Frightened) creatures it can see.
-
 It stays dormant for 1 hour, after which point it resets.  
 
 *Source: Abomination Vaults #1: Ruins of Gauntlight p. 37*

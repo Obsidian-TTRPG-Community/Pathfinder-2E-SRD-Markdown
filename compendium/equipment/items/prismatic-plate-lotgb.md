@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/lotgb
-- item/category/armor
+- item/category/armor/
 - trait/abjuration
 - trait/invested
 - trait/magical
@@ -14,15 +14,17 @@ aliases: ["Prismatic Plate"]
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 14000 gp
-- **Usage** worn armor; **Bulk** 1
-- **Category** Armor
+- **Craft Requirements** The initial raw materials must include 1,600 gp of mithral.
+- **Bulk** 1; **Usage** worn armor
 
 With its standard-grade mithral polished to a mirrorlike sheen, this +2 resilient glamered mithral breastplate features the religious symbols of the goddesses of the Prismatic Ray pantheon—[Desna](compendium/setting/deities/desna.md), [Sarenrae](compendium/setting/deities/sarenrae.md), and [Shelyn](compendium/setting/deities/shelyn.md)—surrounded by a rainbow-colored set of gems.
 
 ```ad-embed-ability
-title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
+title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") command, [Interact](rules/actions/interact.md)
 
-You surround yourself in a coruscating field of red, orange, yellow, green, blue, indigo, and violet light for 1 minute. Each color has a different effect, based on the effects of a 7th-level [chromatic wall](compendium/spells/chromatic-wall.md) spell, and you apply the effects of each color once before it disappears from your field of light, which can happen in the following two ways.
+- **Frequency**: once per day
+
+**Effect** You surround yourself in a coruscating field of red, orange, yellow, green, blue, indigo, and violet light for 1 minute. Each color has a different effect, based on the effects of a 7th-level [chromatic wall](compendium/spells/chromatic-wall.md) spell, and you apply the effects of each color once before it disappears from your field of light, which can happen in the following two ways.
 
 First, the field attempts a counteract check (counteract level 7, counteract modifier +27) against [any](rules/traits/any-b1.md "Any Alignment Trait") effect that would be blocked by a chromatic wall of any of the colors still surrounding you in your field of light. Succeed or fail, that color then disappears from your field of light.
 
@@ -31,4 +33,6 @@ Second, any creature that touches you or damages you with an unarmed attack or n
 A creature can also remove a color from your field of light by using a specific spell, as described in chromatic wall. The effect ends early if each color disappears from your field of light, or if you choose to [Dismiss](rules/actions/dismiss.md) it.
 ```
 
+
+---
 *Source: Lost Omens: The Grand Bazaar p. 85*

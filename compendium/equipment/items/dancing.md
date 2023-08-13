@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/crb
-- item/category/rune
+- item/category/rune/
 - trait/evocation
 - trait/magical
 - trait/uncommon
@@ -14,12 +14,12 @@ aliases: ["Dancing"]
 
 - **Price** 2700 gp
 - **Usage** etched onto a melee weapon
-- **Category** Rune
 
 A dancing weapon flies autonomously and strikes your foes.
 
 ```ad-embed-ability
-title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
+title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") command, [Interact](rules/actions/interact.md)
+
 
 You [Release](rules/actions/release.md) the weapon and it dances through the air, fighting on its own against the last enemy you attacked, or the nearest enemy to it if your target has been defeated. At the end of your turn each round, the weapon can [Fly](rules/actions/fly.md) up to its fly Speed of 40 feet, and then can either [Fly](rules/actions/fly.md) again or [Strike](rules/actions/strike.md) one creature within its reach.
 
@@ -32,4 +32,6 @@ The weapon's abilities that automatically trigger on a hit or critical hit still
 Each round, when the weapon is finished using its actions, attempt a DC 6 flat check. On a failure, the activation ends and the weapon falls to the ground. You can't activate the item again for 10 minutes.
 ```
 
+
+---
 *Source: Core Rulebook p. 583*

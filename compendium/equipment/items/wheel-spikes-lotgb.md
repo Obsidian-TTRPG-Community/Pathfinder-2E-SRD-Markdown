@@ -15,4 +15,6 @@ A set of thick, sharp spikes have been added to the chair's wheels, granting you
 
 A wheelchair can only have one attached weapon.
 
+
+---
 *Source: Lost Omens: The Grand Bazaar p. 72*

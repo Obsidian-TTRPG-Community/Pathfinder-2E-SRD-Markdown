@@ -14,7 +14,6 @@ Members who align themselves with the Scrolls branch of the Pathfinder Society a
 ```ad-embed-feat
 title: Scrollmaster Dedication, Feat 6
 collapse: closed
-# Scrollmaster Dedication  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: expert in any [Lore](compendium/skills.md#Lore) skill, member of the Pathfinder Society affiliated with the School of Scrolls
@@ -32,7 +31,6 @@ If you have the [Thorough Reports](compendium/feats/thorough-reports-lowg.md) fe
 ```ad-embed-feat
 title: Lore Seeker, Feat 8
 collapse: closed
-# Lore Seeker  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Scrollmaster Dedication](compendium/feats/scrollmaster-dedication-locg.md)
@@ -48,7 +46,6 @@ You can cast [comprehend language](compendium/spells/comprehend-language.md), re
 ```ad-embed-feat
 title: Unravel Mysteries, Feat 8
 collapse: closed
-# Unravel Mysteries  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: master in a [Decipher Writing](rules/actions/decipher-writing.md) skill, [Scrollmaster Dedication](compendium/feats/scrollmaster-dedication-locg.md)
@@ -62,7 +59,6 @@ You can understand the true meaning of texts quickly, and even when you get lost
 ```ad-embed-feat
 title: Font Of Knowledge, Feat 10
 collapse: closed
-# Font Of Knowledge  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Scrollmaster Dedication](compendium/feats/scrollmaster-dedication-locg.md)

@@ -13,11 +13,11 @@ aliases: ["Crushing Despair"]
 # Crushing Despair *Spell 5*   
 [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Area**30-foot cone
-- **Saving Throw** Will
-- **Duration**1 or more rounds
+- **Area**: 30-foot cone
+- **Saving Throw**: Will
+- **Duration**: 1 or more rounds
 
 You inflict despair on creatures in the area. The effects for each creature are determined by its Will save.
 

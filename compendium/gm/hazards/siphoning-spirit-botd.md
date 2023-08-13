@@ -16,21 +16,22 @@ aliases: ["Siphoning Spirit"]
 A formless spirit drains life from the living, becoming progressively visible as its victims weaken.
 
 - **Disable** DC 48 [Occultism](compendium/skills.md#Occultism) or [Religion](compendium/skills.md#Religion) (expert) to weaken the spirit; four total successes are required to disable the haunt  
-     
+
 ```ad-embed-ability
-title: Sudden Siphon [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[divine](rules/traits/divine.md "Divine Tradition Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  
+title: **Sudden Siphon** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([divine](rules/traits/divine.md), [necromancy](rules/traits/necromancy.md), [negative](rules/traits/negative.md))
 
 - **Trigger**: A living creature passes within 15 feet of the spirit
 
 **Effect** The [invisible](rules/conditions.md#Invisible) spirit latches onto the life essence of the living, dealing `4d10+20` negative damage to all living creatures within 60 feet (DC 41 basic Fortitude save). The haunt then rolls initiative  
-%% #trait/divine #trait/necromancy #trait/negative %%
+%%
+ #trait/divine  #trait/necromancy  #trait/negative 
+%%
 ```
 
 ```ad-pf2-summary
 title: Routine
-(1 action; [death](rules/traits/death.md "Death Effect Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [necromancy](rules/traits/necromancy.md "Necromancy School Trait"), [negative](rules/traits/negative.md "Negative Energy & Element Trait")) The spirit inhales, siphoning the souls of the living and becoming more visible. Each creature within 60 feet takes `4d10+20` negative damage, with a DC 41 Fortitude save. If no creatures are within the area, the haunt moves up to 120 feet into the largest concentration of living creatures and then inhales.
 
+(1 action; [death](rules/traits/death.md "Death Effect Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [necromancy](rules/traits/necromancy.md "Necromancy School Trait"), [negative](rules/traits/negative.md "Negative Energy & Element Trait")) The spirit inhales, siphoning the souls of the living and becoming more visible. Each creature within 60 feet takes `4d10+20` negative damage, with a DC 41 Fortitude save. If no creatures are within the area, the haunt moves up to 120 feet into the largest concentration of living creatures and then inhales.
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
 > - **Success** The creature takes half damage.

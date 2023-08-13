@@ -15,9 +15,9 @@ aliases: ["Time Skip"]
 
 - **Mystery** Oracle
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**30 foot
-- **Targets**1 willing creature other than yourself
-- **Duration**1 round
+- **Range**: 30 foot
+- **Targets**: 1 willing creature other than yourself
+- **Duration**: 1 round
 
 You manipulate time around your ally, pushing them forward a few moments in time. The target is [quickened](rules/conditions.md#Quickened) on its next turn and can use the action only to [Step](rules/actions/step.md), [Stride](rules/actions/stride.md), or [Strike](rules/actions/strike.md).
 

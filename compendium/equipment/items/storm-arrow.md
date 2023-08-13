@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/crb
-- item/category/ammunition
+- item/category/ammunition/
 - trait/air
 - trait/consumable
 - trait/electricity
@@ -17,7 +17,6 @@ aliases: ["Storm Arrow"]
 - **Price** 130 gp
 - **Ammunition** [arrow](compendium/equipment/items/arrow.md)
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Ammunition
 
 The head of this arrow is made from gleaming copper.
 
@@ -29,4 +28,6 @@ When an activated storm arrow hits a target, it is buffeted by raging winds and 
 > - **Failure** The foe takes full damage and is buffeted by winds for 1 round, taking a –2 circumstance penalty to ranged attack rolls and a –10-foot circumstance penalty to its fly Speed.
 > - **Critical Failure** As failure, but the foe takes double damage.
 
+
+---
 *Source: Core Rulebook p. 560*

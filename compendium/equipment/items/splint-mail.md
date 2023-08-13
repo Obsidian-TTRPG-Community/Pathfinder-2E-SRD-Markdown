@@ -16,4 +16,6 @@ aliases: ["Splint Mail"]
 
 This type of armor is [chain mail](compendium/equipment/items/chain-mail.md) reinforced with flexible, interlocking metal plates, typically located on the wearer's torso, upper arms, and legs. A suit of this armor comes with an undercoat of [padded armor](compendium/equipment/items/padded-armor.md) and a pair of [gauntlets](compendium/equipment/items/gauntlet.md).
 
+
+---
 *Source: Core Rulebook p. 275*

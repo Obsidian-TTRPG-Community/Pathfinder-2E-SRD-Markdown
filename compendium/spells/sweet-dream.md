@@ -16,11 +16,11 @@ aliases: ["Sweet Dream"]
 # Sweet Dream *Focus 1*   
 [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [cleric](rules/traits/cleric.md "Cleric Class Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [sleep](rules/traits/sleep.md "Sleep Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains**: [dreams](compendium/setting/domains.md#Dreams)
+- **Domains** [dreams](compendium/setting/domains.md#Dreams)
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**30 foot
-- **Targets**1 willing creature
-- **Duration**10 minutes
+- **Range**: 30 foot
+- **Targets**: 1 willing creature
+- **Duration**: 10 minutes
 
 With soothing song or tales, you lull the target into an enchanting dream. When you cast the spell, the target falls [unconscious](rules/conditions.md#Unconscious) if it wasn't already. While [unconscious](rules/conditions.md#Unconscious), it experiences a dream of your choice. If it sleeps for at least 1 minute, it gains the benefit of the dream for the remainder of the spell's duration.
 

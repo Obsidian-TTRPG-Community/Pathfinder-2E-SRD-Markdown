@@ -24,8 +24,7 @@ No matter the source, you can only enter a curse maelstrom state during an encou
 While in a curse maelstrom state, you can't benefit from [fortune](rules/traits/fortune.md "Fortune Effect Trait") effects, and they also don't cancel [misfortune](rules/traits/misfortune.md "Misfortune Effect Trait") effects on you; they simply have no effect. While in this state, all creatures other than you within a 10-foot emanation take a –1 status penalty to all saving throws and skill checks due to the storm of bad luck swirling out of your body. You gain the Expel Maelstrom action, which you can use to focus the brunt of your curses onto an unlucky target.
 
 ```ad-embed-ability
-title: Expel Maelstrom [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[curse](rules/traits/curse.md "Curse Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
+title: **Expel Maelstrom** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") ([curse](rules/traits/curse.md), [necromancy](rules/traits/necromancy.md), [occult](rules/traits/occult.md))
 
 - **Requirements**: You are in a curse maelstrom state
 
@@ -36,7 +35,9 @@ title: Expel Maelstrom [>](rules/core-rulebook/chapter-9-playing-the-game.md#Act
 > - **Success** The creature comes to house the maelstrom's wrath within it. It takes a –1 status penalty to all saving throws and skill checks for 1 minute.
 > - **Failure** The maelstrom strikes deep into the creature's soul. It takes a –2 status penalty to all saving throws and skill checks for 10 minutes.
 > - **Critical Failure** The maelstrom pitches the creature into a single fit of utter misfortune before burrowing into its soul. As failure, but the creature also must roll twice and take the lower result on its next saving throw or skill check; this is a [misfortune](rules/traits/misfortune.md "Misfortune Effect Trait") effect.  
-%% #trait/curse #trait/necromancy #trait/occult %%
+%%
+ #trait/curse  #trait/necromancy  #trait/occult 
+%%
 ```
 
 ## Curse Maelstrom Dedication leads to...

@@ -15,6 +15,3 @@ aliases: ["Shoanti Animism"]
 - **Category**: Philosophy
 
 ## Devotee benefits
-
-- **Divine Font**: 
-- **Cleric Spells**:

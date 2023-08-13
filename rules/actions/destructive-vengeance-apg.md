@@ -13,7 +13,7 @@ aliases: ["Destructive Vengeance"]
 *Source: Advanced Player's Guide p. 116*  
 
 **Class** champion; **Subclass** Antipaladin
-- **Trigger** An enemy within 15 feet damages you.
+- **Trigger**: An enemy within 15 feet damages you.
 - **Activity**: Reaction
 
 Bloodshed begets bloodshed as you drag your enemy toward oblivion. You increase the amount of damage you take by 1d6, and you deal 1d6 damage to the triggering enemy, choosing evil or negative damage to deal to the enemy each time you use this reaction. In addition, until the end of your next turn, your [Strikes](rules/actions/strike.md) against the triggering creature deal 2 extra damage of the type you chose.

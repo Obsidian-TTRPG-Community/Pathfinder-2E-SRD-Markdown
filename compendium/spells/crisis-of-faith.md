@@ -11,11 +11,11 @@ aliases: ["Crisis Of Faith"]
 # Crisis Of Faith *Spell 3*   
 [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 creature
-- **Saving Throw** Will
+- **Range**: 30 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Will
 
 You assault the target's faith, riddling the creature with doubt and mental turmoil that deal `6d6` mental damage, or `6d8` mental damage if it can cast divine spells. The effects are determined by its Will save.
 

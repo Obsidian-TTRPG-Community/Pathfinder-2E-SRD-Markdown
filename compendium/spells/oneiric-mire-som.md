@@ -13,11 +13,11 @@ aliases: ["Oneiric Mire"]
 # Oneiric Mire *Spell 3*   
 [illusion](rules/traits/illusion.md "Illusion School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**120 foot
-- **Area**20-foot burst
-- **Duration**1 minute
+- **Range**: 120 foot
+- **Area**: 20-foot burst
+- **Duration**: 1 minute
 
 You shroud an area in illusory dreamstuff, making the ground look and feel like a deep mire or quicksand. Ground in the area is difficult terrain.
 

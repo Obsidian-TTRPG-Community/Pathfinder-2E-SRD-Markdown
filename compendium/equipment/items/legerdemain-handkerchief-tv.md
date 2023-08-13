@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
-- item/category/held
+- item/category/held/
 - trait/conjuration
 - trait/extradimensional
 - trait/magical
@@ -13,13 +13,12 @@ aliases: ["Legerdemain Handkerchief"]
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [extradimensional](rules/traits/extradimensional.md "Extradimensional Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 25 gp
-- **Usage** held in 1 hand; **Bulk** —
-- **Category** Held
+- **Bulk** —; **Usage** held in 1 hand
 
 This frilled, silvery-gray handkerchief is a stylish tool for personal hygiene by all appearances, but it can be used to covertly make very small items vanish.
 
 ```ad-embed-ability
-title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
+title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") [Interact](rules/actions/interact.md)
 
 - **Requirements**: The handkerchief is entirely covering an item of negligible Bulk
 
@@ -28,4 +27,6 @@ title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "S
 This activation can't be used on an attended item unless the creature with that item allows it. Placing the handkerchief over an item typically takes an [Interact](rules/actions/interact.md) action.
 ```
 
+
+---
 *Source: Treasure Vault p. 115*

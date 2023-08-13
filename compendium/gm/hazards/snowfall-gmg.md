@@ -16,14 +16,12 @@ Loose snow and ice have built up on a high surface, such as a tree branch or a r
 
 - **Disable** DC 19 [Survival](compendium/skills.md#Survival) (trained) to safely dislodge the snow, or deal any amount of fire damage to destroy the hazard without triggering it  
 
-- **AC** 16 , **Fort** +10, **Ref** +8
+- **AC** 16, **Fort** +10, **Ref** +8
 - **HP** 8
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Snowdrop [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Snowdrop** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature moves beneath where the snowfall is resting
 

@@ -15,8 +15,8 @@ aliases: ["Call Of The Grave"]
 [arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [attack](rules/traits/attack.md "Attack Combat Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 living creature
+- **Range**: 30 foot
+- **Targets**: 1 living creature
 
 You fire a ray of sickening energy. Make a spell attack roll.
 

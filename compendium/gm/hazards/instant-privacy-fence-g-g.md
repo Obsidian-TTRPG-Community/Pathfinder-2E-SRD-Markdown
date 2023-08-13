@@ -19,14 +19,12 @@ stretch of fence is electrified by a hidden Stasian coil.
 
 - **Disable** [Thievery](compendium/skills.md#Thievery) DC 28 (expert) to carefully disconnect the coil from the fence or [Crafting](compendium/skills.md#Crafting) DC 30 (master) to jury-rig a grounding device to nullify the shock  
 
-- **AC** 25 , **Fort** +20, **Ref** +14
+- **AC** 25, **Fort** +20, **Ref** +14
 - **Hardness** 15, **HP** 60 (BT 30)
 - **Immunities** object immunities
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Shock [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Shock** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature touches the fence directly or with a tool or weapon
 

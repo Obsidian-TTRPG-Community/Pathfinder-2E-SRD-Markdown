@@ -10,11 +10,11 @@ aliases: ["Elemental Gift"]
 # Elemental Gift *Spell 4*   
 [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 willing creature
-- **Duration**1 minute
+- **Range**: 30 foot
+- **Targets**: 1 willing creature
+- **Duration**: 1 minute
 
 An elemental force fills your target, granting the target the swiftness of air, the ruggedness of earth, the sting of fire, or the flexibility of water, depending on which element you choose. Choose an element when you [Cast the Spell](rules/actions/cast-a-spell.md).
 

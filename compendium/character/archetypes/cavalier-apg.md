@@ -20,7 +20,6 @@ You are a skilled and dedicated warrior of the battlefield who specializes in fi
 ```ad-embed-feat
 title: Cavalier Dedication, Feat 2
 collapse: closed
-# Cavalier Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: trained in [Nature](compendium/skills.md#Nature) or [Society](compendium/skills.md#Society)
@@ -36,7 +35,6 @@ You gain a young animal companion that serves as your mount. You can choose from
 ```ad-embed-feat
 title: Cavalier's Banner, Feat 4
 collapse: closed
-# Cavalier's Banner  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Prerequisites**: [Cavalier Dedication](compendium/feats/cavalier-dedication-apg.md)
@@ -53,7 +51,6 @@ If your banner is destroyed or removed, allies within 30 feet become [frightened
 ```ad-embed-feat
 title: Cavalier's Charge, Feat 4
 collapse: closed
-# Cavalier's Charge  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 - **Prerequisites**: [Cavalier Dedication](compendium/feats/cavalier-dedication-apg.md)
@@ -69,7 +66,6 @@ You [Command an Animal](rules/actions/command-an-animal.md) to order your mount 
 ```ad-embed-feat
 title: Impressive Mount, Feat 4
 collapse: closed
-# Impressive Mount  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Cavalier Dedication](compendium/feats/cavalier-dedication-apg.md)
@@ -83,7 +79,6 @@ You've trained your mount to become a powerful force on the battlefield. The mou
 ```ad-embed-feat
 title: Quick Mount, Feat 4
 collapse: closed
-# Quick Mount  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Cavalier Dedication](compendium/feats/cavalier-dedication-apg.md), expert in [Nature](compendium/skills.md#Nature)
@@ -99,7 +94,6 @@ You and your mount can spring into action at a moment's notice. You [Mount](rule
 ```ad-embed-feat
 title: Defend Mount, Feat 6
 collapse: closed
-# Defend Mount  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Cavalier Dedication](compendium/feats/cavalier-dedication-apg.md)
@@ -115,7 +109,6 @@ You interpose yourself between an attacker and your mount, defending your mount 
 ```ad-embed-feat
 title: Mounted Shield, Feat 6
 collapse: closed
-# Mounted Shield  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Cavalier Dedication](compendium/feats/cavalier-dedication-apg.md)
@@ -129,7 +122,6 @@ You've trained with your shield to defend both yourself and your mount. When you
 ```ad-embed-feat
 title: Incredible Mount, Feat 8
 collapse: closed
-# Incredible Mount  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Impressive Mount](compendium/feats/impressive-mount-apg.md)
@@ -143,7 +135,6 @@ Under your care and training, your mount has realized its innate potential. The 
 ```ad-embed-feat
 title: Trampling Charge, Feat 10
 collapse: closed
-# Trampling Charge  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 - **Prerequisites**: [Cavalier Dedication](compendium/feats/cavalier-dedication-apg.md)
@@ -159,7 +150,6 @@ You urge your mount forward, trampling enemies in your path. You command your mo
 ```ad-embed-feat
 title: Unseat, Feat 10
 collapse: closed
-# Unseat  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Cavalier Dedication](compendium/feats/cavalier-dedication-apg.md)
@@ -175,7 +165,6 @@ You attempt to knock an opponent off their mount. Make a melee [Strike](rules/ac
 ```ad-embed-feat
 title: Specialized Mount, Feat 14*
 collapse: closed
-# Specialized Mount  *Feat 14*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Specialized Mount](compendium/feats/specialized-mount-apg.md) is intended for use with the Cavalier Archetype. Its level has been changed accordingly.
@@ -193,7 +182,6 @@ You've trained your mount to perform in unusual or even extreme circumstances, g
 ```ad-embed-feat
 title: Legendary Rider, Feat 20*
 collapse: closed
-# Legendary Rider  *Feat 20*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Legendary Rider](compendium/feats/legendary-rider-apg.md) is intended for use with the Cavalier Archetype. Its level has been changed accordingly.

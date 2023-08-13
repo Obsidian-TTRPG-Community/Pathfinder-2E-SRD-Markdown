@@ -13,7 +13,8 @@ aliases: ["Magic Warrior Aspect"]
 [morph](rules/traits/morph.md "Morph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Duration**5 minutes
+- 
+- **Duration**: 5 minutes
 
 You call upon the aspect of the animal from your mask, gaining physical features reminiscent of that animal. You morph slightly into that creature, gaining the Speeds and senses you would gain from using [animal form](compendium/spells/animal-form.md) to turn into the type of animal your mask represents; these special Speeds can't be increased by status bonuses or item bonuses.
 

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/crb
-- item/category/talisman
+- item/category/talisman/
 - trait/abjuration
 - trait/consumable
 - trait/magical
@@ -15,10 +15,11 @@ aliases: ["Mending Lattice"]
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 525 gp
-- **Usage** affixed to a shield or weapon; **Bulk** —
+- **Bulk** —; **Usage** affixed to a shield or weapon
 - **Activate** command; **Trigger** The affixed item would take damage; **Requirements** You are a master in [Crafting](compendium/skills.md#Crafting).
-- **Category** Talisman
 
 This lattice of reinforced iron is shaped into a perfect octagon. When you activate it, it negates the damage and instantly and completely repairs the affixed item.
 
+
+---
 *Source: Core Rulebook p. 568*

@@ -11,12 +11,12 @@ aliases: ["Desperate Repair"]
 # Desperate Repair *Spell 5*   
 [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
-- **Trigger**A shield within range would be reduced to 0 Hit Points by a damaging effect
-- **Requirements**The triggering shield had more than 1 Hit Point before taking damage.
-- **Range**60 foot
-- **Targets**1 shield
+- **Trigger**: A shield within range would be reduced to 0 Hit Points by a damaging effect
+- **Requirements**: The triggering shield had more than 1 Hit Point before taking damage.
+- **Range**: 60 foot
+- **Targets**: 1 shield
 
 You hold a shield together with the power of your magic, forcing wood and steel to fuse back together. The shield remains at 1 Hit Point and isn't destroyed. Its construction is weakened until someone takes the time to repair it, preventing desperate repair or a similar ability from saving the same shield until your next daily preparations.
 

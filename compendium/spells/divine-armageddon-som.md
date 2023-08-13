@@ -13,11 +13,11 @@ aliases: ["Divine Armageddon"]
 # Divine Armageddon *Spell 8*   
 [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**120 foot
-- **Area**60-foot burst
-- **Saving Throw**  basic Fortitude
+- **Range**: 120 foot
+- **Area**: 60-foot burst
+- **Saving Throw**:  basic Fortitude
 
 You call forth a divine cataclysm from your deity, destroying living and undead creatures in the area alike. Creatures in the area take `10d6` negative damage and `10d6` alignment damage (good, evil, lawful, or chaotic), chosen from among the alignments your deity has. If your deity is true neutral, increase the negative damage by `4d6` instead of dealing alignment damage. A creature harmed by positive damage, such as one with negative healing, takes positive damage instead of negative damage from this spell.
 

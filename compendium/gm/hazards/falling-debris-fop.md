@@ -17,14 +17,12 @@ A pressure-sensitive floorboard connects to a beam holding up debris in the craw
 
 - **Disable** [Thievery](compendium/skills.md#Thievery) DC 15 (trained) on the floorboard before the debris falls.  
 
-- **AC** 16 , **Fort** +8, **Ref** +2
+- **AC** 16, **Fort** +8, **Ref** +2
 - **Hardness** 5, **HP** 20 (BT 10)
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Falling Debris [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Falling Debris** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: Pressure is placed on the floorboard.
 

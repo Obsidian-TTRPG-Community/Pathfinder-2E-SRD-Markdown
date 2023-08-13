@@ -13,12 +13,12 @@ aliases: ["Infectious Melody"]
 # Infectious Melody *Spell 4*   
 [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions**: [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Area**15-foot emanation
-- **Targets**enemies in the area
-- **Saving Throw** Will
-- **Duration**varies
+- **Area**: 15-foot emanation
+- **Targets**: enemies in the area
+- **Saving Throw**: Will
+- **Duration**: varies
 
 You call forth the chords of a tune so catchy that foes hearing it can't help but sing along, making it harder for them to communicate. Each target must attempt a Will save.
 

@@ -12,11 +12,11 @@ aliases: ["Leng Sting"]
 # Leng Sting *Spell 7*   
 [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Targets**1 creature
-- **Saving Throw** Fortitude
+- **Range**: touch
+- **Targets**: 1 creature
+- **Saving Throw**: Fortitude
 
 You use the power of nightmares to magically replicate the venomous attack of the aberrant and cunning Leng spiders. You deal `2d6` piercing damage to the touched creature and afflict it with Leng spider venom. If the target takes piercing damage, they must attempt a Fortitude save.
 

@@ -15,8 +15,8 @@ aliases: ["Anima Invocation (Modified)"]
 - **Secondary Casters** 4
 - **Primary Checks** [Occultism](compendium/skills.md#Occultism) (legendary)
 - **Secondary Checks** [Arcana](compendium/skills.md#Arcana), [Religion](compendium/skills.md#Religion)
-- **Range**10 miles
-- **Targets**primary and secondary casters
+- **Range**: 10 miles
+- **Targets**: primary and secondary casters
 
 The exact effects of the unmodified _Anima Invocation_ are not necessary for this Adventure Path—what's presented here is the modified version of the ritual.
 

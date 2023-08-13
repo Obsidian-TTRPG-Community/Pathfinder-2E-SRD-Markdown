@@ -14,10 +14,10 @@ aliases: ["Radiant Beam"]
 # Radiant Beam *Spell 4*   
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [good](rules/traits/good.md "Good Alignment Trait")  [light](rules/traits/light.md "Light Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Area**120-foot line
-- **Saving Throw**  basic Reflex
+- **Area**: 120-foot line
+- **Saving Throw**:  basic Reflex
 
 You fire a beam of blinding light from your outstretched hands. The beam deals `5d10` good damage. On a failed saving throw, a creature becomes [dazzled](rules/conditions.md#Dazzled) for 1 round, or [dazzled](rules/conditions.md#Dazzled) for 4 rounds on a critical failure.
 

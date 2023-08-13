@@ -18,15 +18,16 @@ aliases: ["Acid Strongbox Trap"]
 An [invisible](rules/conditions.md#Invisible) magic field around the strongbox releases a spray of acid when disturbed.
 
 - **Disable** DC 22 [Thievery](compendium/skills.md#Thievery) (expert) to harmlessly bleed away the magical field or dispel magic (2nd level; counteract DC 20) to dispel it.  
-     
+
 ```ad-embed-ability
-title: Acidic Spray [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[acid](rules/traits/acid.md "Acid Energy & Element Trait")  [arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
+title: **Acidic Spray** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([acid](rules/traits/acid.md), [arcane](rules/traits/arcane.md), [evocation](rules/traits/evocation.md))
 
 - **Trigger**: A creature touches the strongbox directly or with a held tool
 
 **Effect** The trap deals `4d8+10` acid damage in a 15-foot cone in the direction of the triggering creature (DC 21 basic Reflex save).  
-%% #trait/acid #trait/arcane #trait/evocation %%
+%%
+ #trait/acid  #trait/arcane  #trait/evocation 
+%%
 ```
 
 *Source: Quest for the Frozen Flame #1: Broken Tusk Moon p. 60*

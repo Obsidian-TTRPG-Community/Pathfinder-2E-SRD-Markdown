@@ -17,15 +17,16 @@ aliases: ["Blast Tumbler"]
 A hard-to-reach rune is placed on the lock's tumbler. It emits a blast of force when the door is jostled.
 
 - **Disable** DC 32 [Thievery](compendium/skills.md#Thievery) (master) to disarm the rune, or dispel magic (5th level; counteract DC 28) to counteract the rune's magic.  
-     
+
 ```ad-embed-ability
-title: Force Blast [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
+title: **Force Blast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([evocation](rules/traits/evocation.md), [force](rules/traits/force.md), [occult](rules/traits/occult.md))
 
 - **Trigger**: A non-undead creature opens the door or critically fails an attempt to disarm or dispel the rune
 
 **Effect** A 30-foot cone of force issues forth from the lock. Creatures within the cone must succeed a DC 29 basic Fortitude saving throw or take `8d12` force damage. Those who fail the save are pushed 10 feet, and those who critically fail are pushed 20 feet and are [stunned](rules/conditions.md#Stunned).  
-%% #trait/evocation #trait/force #trait/occult %%
+%%
+ #trait/evocation  #trait/force  #trait/occult 
+%%
 ```
 
 **Reset** The rune resets 1 minute after it triggers.  

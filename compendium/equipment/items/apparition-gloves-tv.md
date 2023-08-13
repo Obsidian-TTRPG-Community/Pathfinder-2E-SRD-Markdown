@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
-- item/category/worn
+- item/category/worn/
 - trait/illusion
 - trait/magical
 aliases: ["Apparition Gloves"]
@@ -12,9 +12,10 @@ aliases: ["Apparition Gloves"]
 [illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 25 gp
-- **Usage** worn gloves; **Bulk** L
-- **Category** Worn
+- **Bulk** L; **Usage** worn gloves
 
 This set of gloves translates whatever the wearer says into the signed version of that language by projecting a ghostly, translucent version of the wearer's hands in front of them. The apparition is a purely visual illusion used for communication, so it can't move on its own, nor can it hold or manipulate objects, or attack.
 
+
+---
 *Source: Treasure Vault p. 109*

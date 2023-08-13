@@ -17,9 +17,9 @@ aliases: ["Hellfire Plume"]
 
 - **Bloodline** Sorcerer
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**60 foot
-- **Area**10-foot radius, 60-foot-tall cylinder
-- **Saving Throw**  basic Reflex
+- **Range**: 60 foot
+- **Area**: 10-foot radius, 60-foot-tall cylinder
+- **Saving Throw**:  basic Reflex
 
 You call forth a plume of hellfire that erupts from below, dealing `4d6` fire damage and `4d6` evil damage.
 

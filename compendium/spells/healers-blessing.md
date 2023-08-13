@@ -12,11 +12,11 @@ aliases: ["Healer's Blessing"]
 # Healer's Blessing *Focus 1*   
 [cleric](rules/traits/cleric.md "Cleric Class Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains**: [healing](compendium/setting/domains.md#Healing)
+- **Domains** [healing](compendium/setting/domains.md#Healing)
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**30 foot
-- **Targets**1 willing living creature
-- **Duration**1 minute
+- **Range**: 30 foot
+- **Targets**: 1 willing living creature
+- **Duration**: 1 minute
 
 Your words bless a creature with an enhanced connection to positive energy. When the target regains Hit Points from a healing spell, it regains 2 additional Hit Point.
 

@@ -11,12 +11,12 @@ aliases: ["Strange Geometry"]
 # Strange Geometry *Spell 5*   
 [illusion](rules/traits/illusion.md "Illusion School Trait")  
 
-- **Traditions**: [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**60 foot
-- **Area**4 cubes, each 10 feet on a side
-- **Saving Throw** Will
-- **Duration**1 minute
+- **Range**: 60 foot
+- **Area**: 4 cubes, each 10 feet on a side
+- **Saving Throw**: Will
+- **Duration**: 1 minute
 
 You cause the areas to appear to swell, bend, and break, twisting together in a bizarre spatial geometry. The cubes of the spell's area can't be adjacent to one another. A creature must attempt a Will save if it's in one of the cubes when you [Cast the Spell](rules/actions/cast-a-spell.md), or if it later enters one of the areas, with the following effects. A creature interacting with the illusion can also attempt a Will save to 0, as normal.
 

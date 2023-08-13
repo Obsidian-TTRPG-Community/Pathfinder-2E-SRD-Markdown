@@ -13,8 +13,8 @@ aliases: ["Alchemical Crossbow"]
 
 - **Price** 25 gp
 - **Bulk** 1
-- **Damage** `1d8` P
-- **Ammunution** [Bolt](compendium/equipment/items/bolt.md); **Range** 30 ft.; **Reload** 1
+  - **Damage**: `1d8` P
+  - **Ammunution** [Bolt](compendium/equipment/items/bolt.md); **Range** 30 ft.; **Reload** 1
 - **Hands** 2
 - **Category** Simple; **Group** Bow 
 
@@ -22,4 +22,6 @@ This crossbow can deliver alchemically infused bolts. The strange weapon has a m
 
 It otherwise functions as a [crossbow](compendium/equipment/items/crossbow.md) (when determining damage, reload, and so on). Creatures use their crossbow proficiency when using the alchemical crossbow. The alchemical crossbow costs 25 gp.
 
+
+---
 *Source: The Fall of Plaguestone p. 56*

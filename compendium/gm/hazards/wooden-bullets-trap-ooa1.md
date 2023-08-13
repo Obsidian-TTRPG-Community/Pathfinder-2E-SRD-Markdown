@@ -18,19 +18,16 @@ A hopper full of wooden sling bullets is attached to several launching devices, 
 
 - **Disable** DC 17 [Thievery](compendium/skills.md#Thievery) (trained) to reinforce the porch pressure sensor or DC 15 [Crafting](compendium/skills.md#Crafting) (trained) to cover the holes launching the bullets  
 
-- null, **Fort** +15, **Ref** +5
-- **Wall  Hardness** 10, **Wall  HP** 50 (BT 25)
+- **Fort** +15, **Ref** +5
+- **Wall Hardness** 10, **Wall HP** 50 (BT 25)
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
 - **Weaknesses** fire 5
-     
-```ad-embed-ability
-title: Wall AC
 
-10
+```ad-embed-ability
+title: **Wall AC** 10
 ```
 ```ad-embed-ability
-title: Auto-Sling [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Auto-Sling** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature or object weighing at least 50 pounds is placed on the porch (marked "T" on the map on page 32)
 
@@ -39,6 +36,7 @@ title: Auto-Sling [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions 
 
 ```ad-pf2-summary
 title: Routine
+
 (2 actions) The wooden bullets trap Strikes the two nearest creatures. It ignores [prone](rules/conditions.md#Prone) creatures as the bullets fly overhead.
 ```
 ^routine

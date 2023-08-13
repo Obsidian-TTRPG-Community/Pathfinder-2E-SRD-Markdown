@@ -14,7 +14,6 @@ You're able to effortlessly fight with multiple weapons simultaneously, weaving 
 ```ad-embed-feat
 title: Dual-Weapon Warrior Dedication, Feat 2
 collapse: closed
-# Dual-Weapon Warrior Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 
@@ -29,7 +28,6 @@ You're exceptional in your use of two weapons. You gain the [Double Slice](compe
 ```ad-embed-feat
 title: Dual Thrower, Feat 4
 collapse: closed
-# Dual Thrower  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Dual-Weapon Warrior Dedication](compendium/feats/dual-weapon-warrior-dedication-apg.md)
@@ -43,7 +41,6 @@ You know how to throw two weapons as easily as strike with them. Whenever a dual
 ```ad-embed-feat
 title: Dual-Weapon Reload, Feat 4
 collapse: closed
-# Dual-Weapon Reload  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Dual-Weapon Warrior Dedication](compendium/feats/dual-weapon-warrior-dedication-apg.md)
@@ -59,7 +56,6 @@ You carry your ammunition in a way that allows you to reload while holding two w
 ```ad-embed-feat
 title: Twin Parry (Fighter), Feat 6*
 collapse: closed
-# Twin Parry (Fighter)  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
 [fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 > [!pf2-note] This version of [Twin Parry (Fighter)](compendium/feats/twin-parry-fighter.md) is intended for use with the Dual-Weapon Warrior Archetype. Its level has been changed accordingly.
@@ -76,7 +72,6 @@ You use your two weapons to parry attacks. You gain a +1 circumstance bonus to A
 ```ad-embed-feat
 title: Flensing Slice, Feat 8
 collapse: closed
-# Flensing Slice  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Dual-Weapon Warrior Dedication](compendium/feats/dual-weapon-warrior-dedication-apg.md)
@@ -92,7 +87,6 @@ When you hit with both attacks with Double Slice, you flense the target, making 
 ```ad-embed-feat
 title: Dual-Weapon Blitz, Feat 10
 collapse: closed
-# Dual-Weapon Blitz  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Dual-Weapon Warrior Dedication](compendium/feats/dual-weapon-warrior-dedication-apg.md)
@@ -108,7 +102,6 @@ You attack as you dash among foes. [Stride](rules/actions/stride.md) up to your 
 ```ad-embed-feat
 title: Twin Riposte (Fighter), Feat 12*
 collapse: closed
-# Twin Riposte (Fighter)  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 12*  
 [fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 > [!pf2-note] This version of [Twin Riposte (Fighter)](compendium/feats/twin-riposte-fighter.md) is intended for use with the Dual-Weapon Warrior Archetype. Its level has been changed accordingly.
@@ -126,7 +119,6 @@ A clever parry with one weapon leaves your opponent open to an attack with the o
 ```ad-embed-feat
 title: Dual Onslaught, Feat 14*
 collapse: closed
-# Dual Onslaught  *Feat 14*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Dual Onslaught](compendium/feats/dual-onslaught-apg.md) is intended for use with the Dual-Weapon Warrior Archetype. Its level has been changed accordingly.
@@ -142,7 +134,6 @@ When you lash out with both weapons, you leave no room for the target to escape 
 ```ad-embed-feat
 title: Improved Twin Riposte (Fighter), Feat 16*
 collapse: closed
-# Improved Twin Riposte (Fighter)  *Feat 16*  
 [fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 > [!pf2-note] This version of [Improved Twin Riposte (Fighter)](compendium/feats/improved-twin-riposte-fighter.md) is intended for use with the Dual-Weapon Warrior Archetype. Its level has been changed accordingly.
@@ -158,7 +149,6 @@ Your weapons are a blur, blocking and biting at your foes. At the start of each 
 ```ad-embed-feat
 title: Twinned Defense (Fighter), Feat 18*
 collapse: closed
-# Twinned Defense (Fighter)  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 18*  
 [fighter](rules/traits/fighter.md "Fighter Class Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
 
 > [!pf2-note] This version of [Twinned Defense (Fighter)](compendium/feats/twinned-defense-fighter.md) is intended for use with the Dual-Weapon Warrior Archetype. Its level has been changed accordingly.

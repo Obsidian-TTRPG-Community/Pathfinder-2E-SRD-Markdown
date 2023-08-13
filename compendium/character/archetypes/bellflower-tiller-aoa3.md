@@ -14,7 +14,6 @@ Bellflower tillers handle most of the ground-level efforts of freeing slaves and
 ```ad-embed-feat
 title: Bellflower Dedication, Feat 6
 collapse: closed
-# Bellflower Dedication  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: Charisma 14, expert in [Stealth](compendium/skills.md#Stealth) and [Survival](compendium/skills.md#Survival), member of the Bellflower Network
@@ -30,7 +29,6 @@ You dedicate yourself to freeing slaves and escorting them to freedom. You gain 
 ```ad-embed-feat
 title: Garden Path, Feat 8
 collapse: closed
-# Garden Path  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Bellflower Dedication](compendium/feats/bellflower-dedication-aoa3.md)
@@ -44,7 +42,6 @@ You can guide your crop to move without notice. When you and any of your crop ar
 ```ad-embed-feat
 title: Practiced Guidance, Feat 8
 collapse: closed
-# Practiced Guidance  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Bellflower Dedication](compendium/feats/bellflower-dedication-aoa3.md)
@@ -58,7 +55,6 @@ Making one's way to safety can be harrowing, but you have extensive practice at 
 ```ad-embed-feat
 title: Scarecrow, Feat 8
 collapse: closed
-# Scarecrow  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Bellflower Dedication](compendium/feats/bellflower-dedication-aoa3.md)
@@ -72,7 +68,6 @@ You fight fiercely to protect your crop. When you hit a creature that is adjacen
 ```ad-embed-feat
 title: Tiller's Aid, Feat 10
 collapse: closed
-# Tiller's Aid  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Bellflower Dedication](compendium/feats/bellflower-dedication-aoa3.md)
@@ -86,7 +81,6 @@ You can use the [Aid](rules/actions/aid.md) reaction to help a member of your cr
 ```ad-embed-feat
 title: Tiller's Drive, Feat 10
 collapse: closed
-# Tiller's Drive  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Bellflower Dedication](compendium/feats/bellflower-dedication-aoa3.md)
@@ -100,7 +94,6 @@ Your Speed bonus from Bellflower Dedication increases to +10 feet. Members of yo
 ```ad-embed-feat
 title: Cut The Bonds, Feat 12*
 collapse: closed
-# Cut The Bonds  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [attack](rules/traits/attack.md "Attack Combat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 > [!pf2-note] This version of [Cut The Bonds](compendium/feats/cut-the-bonds-aoa3.md) is intended for use with the Bellflower Tiller Archetype. Its level has been changed accordingly.

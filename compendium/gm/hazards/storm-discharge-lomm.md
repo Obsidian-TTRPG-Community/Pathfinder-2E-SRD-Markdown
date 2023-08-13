@@ -20,9 +20,9 @@ aliases: ["Storm Discharge"]
 Ebeshra aligns its crystalline form to produce a blast of lightning that charges the surrounding area with electrical energy.
 
 - **Disable** DC 45 [Nature](compendium/skills.md#Nature) (master) to balance the electrical charges in the area or DC 48 [Deception](compendium/skills.md#Deception) (expert) to momentarily divert Ebeshra's attention  
-     
+
 ```ad-embed-ability
-title: Lightning Blast [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Lightning Blast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature takes a hostile action against Ebeshra, produces a visible area effect, or flies within 120 feet of Ebeshra;
 

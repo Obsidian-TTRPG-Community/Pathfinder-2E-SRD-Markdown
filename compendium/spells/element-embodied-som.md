@@ -11,9 +11,10 @@ aliases: ["Element Embodied"]
 # Element Embodied *Spell 10*   
 [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Duration**1 minute
+- 
+- **Duration**: 1 minute
 
 Drawing upon the deepest wells of magic in an elemental plane, you transform into a spectacular elemental. You can choose between an air elemental, earth elemental, fire elemental, or water elemental. Your battle form is [Gargantuan](rules/traits/gargantuan-b1.md "Gargantuan Size Trait"), and you must have enough space to expand into or the spell is lost. While in this form, you gain the [elemental](rules/traits/elemental.md "Elemental Creature Type Trait") trait and the trait for the element you choose.
 

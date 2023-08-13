@@ -12,10 +12,10 @@ aliases: ["Horizon Thunder Sphere"]
 # Horizon Thunder Sphere *Spell 1*   
 [attack](rules/traits/attack.md "Attack Combat Trait")  [electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") to 2 rounds 
-- **Range**varies
-- **Targets**1 creature
+- **Range**: varies
+- **Targets**: 1 creature
 
 You gather magical energy into your palm, forming a concentrated ball of electricity that crackles and rumbles like impossibly distant thunder. Make a ranged spell attack roll against your target's AC. On a success, you deal `3d6` electricity damage. On a critical success, the target takes double damage and is [dazzled](rules/conditions.md#Dazzled) for 1 round. The number of actions you spend when Casting this Spell determines the range and other parameters.
 

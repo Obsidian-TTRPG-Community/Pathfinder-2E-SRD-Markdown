@@ -18,14 +18,12 @@ A vat of thick glass stands 10 feet high and is filled with green slime and fist
 
 - **Disable** DC 38 [Thievery](compendium/skills.md#Thievery) (master) or DC 34 [Crafting](compendium/skills.md#Crafting) (expert) to acidify the slime inside the tank, destroying the eyeballs.  
 
-- **AC** 33 , **Fort** +29, **Ref** +26
+- **AC** 33, **Fort** +29, **Ref** +26
 - **Tank Hardness** 2, **Tank HP** 180 (BT 90)
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Eye-Opener [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Eye-Opener** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: Three or more living creatures remain within 20 feet of the trap for 1 round
 
@@ -34,40 +32,29 @@ title: Eye-Opener [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions 
 
 ````ad-pf2-summary
 title: Routine
-(3 actions) Each round, the vat uses all three of its actions to shoot random eye rays at any living creatures (except Ixusoth) in range.
 
+(3 actions) Each round, the vat uses all three of its actions to shoot random eye rays at any living creatures (except Ixusoth) in range.
 ```ad-inline-attack
 title: Ranged [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Despair Ray (28) ([emotion](rules/traits/emotion.md "Emotion Effect Trait"), [enchantment](rules/traits/enchantment.md "Enchantment School Trait"), [mental](rules/traits/mental.md "Mental Effect Trait"), range <100 feet>)
 **Damage** target is subjected to a [crushing despair](compendium/spells/crushing-despair.md) spell (DC 33) 
- 
 **Effects** target is subjected to a [crushing despair](compendium/spells/crushing-despair.md) spell (DC 33)
-
 %% #trait/emotion #trait/enchantment #trait/mental #trait/range-100-feet %%
 ```
-
 ```ad-inline-attack
 title: Ranged [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Feeblemind Ray (28) ([curse](rules/traits/curse.md "Curse Effect Trait"), [enchantment](rules/traits/enchantment.md "Enchantment School Trait"), [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait"), [mental](rules/traits/mental.md "Mental Effect Trait"), range <100 feet>)
 **Damage** target is subjected to a [feeblemind](compendium/spells/feeblemind.md) spell (DC 36) 
- 
 **Effects** target is subjected to a [feeblemind](compendium/spells/feeblemind.md) spell (DC 36)
-
 %% #trait/curse #trait/enchantment #trait/incapacitation #trait/mental #trait/range-100-feet %%
 ```
-
 ```ad-inline-attack
 title: Ranged [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Spirit Blast Ray (28) ([force](rules/traits/force.md "Force Energy & Element Trait"), [necromancy](rules/traits/necromancy.md "Necromancy School Trait"), range <100 feet>)
 **Damage** target is subjected to a [spirit blast](compendium/spells/spirit-blast.md) spell (DC 36) 
- 
 **Effects** target is subjected to a [spirit blast](compendium/spells/spirit-blast.md) spell (DC 36)
-
 %% #trait/force #trait/necromancy #trait/range-100-feet %%
 ```
-
 ```ad-embed-ability
-title: Spill Eyeballs [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-
+title: **Spill Eyeballs** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 - **Trigger**: The tank reaches its [Broken](rules/conditions.md#Broken) Threshold
-
 **Effect** The glass shatters, spilling eyeballs onto the floor in a 15-foot radius and casting grease (DC 33) on the affected area. The eyeball tank is permanently destroyed and can't be reset.
 ```
 ````

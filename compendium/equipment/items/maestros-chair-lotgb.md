@@ -18,9 +18,13 @@ aliases: ["Maestro's Chair"]
 A maestro's chair is a traveler's chair with the impulse control upgrade (see below) and a small pipe organ installed into the frame. You can use the maestro's chair to make [Performance](compendium/skills.md#Performance) checks in the same manner that you could use any mundane instrument, using both of your hands. When you make a [Performance](compendium/skills.md#Performance) check using your chair, you gain a +1 item bonus to the check.
 
 ```ad-embed-ability
-title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
+title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") [Interact](rules/actions/interact.md)
 
-You use your chair to [Stride](rules/actions/stride.md) up to your chair's speed. If you have a composition cantrip that is currently active, you Sustain it as a free action.
+- **Frequency**: once per 10 minutes
+
+**Effect** You use your chair to [Stride](rules/actions/stride.md) up to your chair's speed. If you have a composition cantrip that is currently active, you Sustain it as a free action.
 ```
 
+
+---
 *Source: Lost Omens: The Grand Bazaar p. 70*

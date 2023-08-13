@@ -17,8 +17,8 @@ aliases: ["Rejuvenating Flames"]
 
 - **Bloodline** Sorcerer
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Area**15-foot cone
-- **Saving Throw**  basic Reflex
+- **Area**: 15-foot cone
+- **Saving Throw**:  basic Reflex
 
 You create a gout of flame that both heals and burns. You restore `1d4` HP to all allies in the area, and those allies gain a +1 status bonus to Fortitude saves for 1 minute. Enemies in the area take `1d4` fire damage with a basic Reflex save.
 

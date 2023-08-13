@@ -10,10 +10,10 @@ aliases: ["Rusting Grasp"]
 # Rusting Grasp *Spell 4*   
 [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Targets**1 metal creature, 1 non-magical metal hazard, or 1 non-magical metal item of up to 1 Bulk
+- **Range**: touch
+- **Targets**: 1 metal creature, 1 non-magical metal hazard, or 1 non-magical metal item of up to 1 Bulk
 
 You cause the target to rapidly rust. This magical rust can affect nonferrous materials, but the target must be all or mostly metal. Skymetals such as adamantine and orichalcum are immune to this rust, and the GM might determine other precious materials are similarly resilient. Ultimately, the GM decides if an object or creature can be targeted with this spell.
 

@@ -15,9 +15,9 @@ aliases: ["Return the Favor"]
 
 - **Patron** Witch
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
-- **Trigger**An ally uses a reaction to grant you a beneficial effect during a combat encounter.
-- **Range**30 foot
-- **Targets**1 ally
+- **Trigger**: An ally uses a reaction to grant you a beneficial effect during a combat encounter.
+- **Range**: 30 foot
+- **Targets**: 1 ally
 
 You're unable to leave any debts unpaid. When an ally supports you in a fight, you offer assistance in turn for the favor. The triggering ally gains 12 temporary Hit Points for 1 minute.
 

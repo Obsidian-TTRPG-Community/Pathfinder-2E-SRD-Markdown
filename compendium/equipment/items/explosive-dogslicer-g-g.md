@@ -19,14 +19,16 @@ aliases: ["Explosive Dogslicer"]
 - **Access** The following regions have access to firearms: Alkenstar, Dongun Hold, Tian Xia, Vudra, Arcadia, Ustalav, the Shackles
 - **Price** 10 gp
 - **Bulk** 2
-- **Ranged**  
-  - **Damage** `1d6` S
+- **Ranged**:  
+  - **Damage**: `1d6` S
   - **Ammunution** round; **Range** 20 ft.; **Reload** 1
-- **Melee**  
-  - **Damage** `1d6` S
+- **Melee**:  
+  - **Damage**: `1d6` S
 - **Hands** 2
 - **Category** Advanced
 
 An explosive dogslicer is a sneaky, explosive weapon that often brings perverse joy to the goblins who use them. At first glance, it appears to be a triple-bladed [dogslicer](compendium/equipment/items/dogslicer.md) with an oversized guard.
 
+
+---
 *Source: Guns & Gears p. 158*

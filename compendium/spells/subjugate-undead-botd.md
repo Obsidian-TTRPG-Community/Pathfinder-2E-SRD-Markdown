@@ -13,10 +13,10 @@ aliases: ["Subjugate Undead"]
 [mental](rules/traits/mental.md "Mental Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**30 foot
-- **Targets**one undead creature with a level of no more than your level – 4
-- **Saving Throw** Will
-- **Duration**varies
+- **Range**: 30 foot
+- **Targets**: one undead creature with a level of no more than your level – 4
+- **Saving Throw**: Will
+- **Duration**: varies
 
 You attempt to seize control of the target. It can attempt a Will save to resist the effect. If the target is already being [controlled](rules/conditions.md#Controlled) by another creature, the controlling creature also rolls a saving throw and the undead uses the better result. Casting subjugate undead again ends any previous subjugate undead you cast.
 

@@ -15,9 +15,9 @@ aliases: ["Toppling Furniture"]
 A mischievous spirit pushes a bookshelf over onto a creature.
 
 - **Disable** DC 16 [Athletics](compendium/skills.md#Athletics) to hold the furniture upright or DC 18 [Occultism](compendium/skills.md#Occultism) (trained) to foil the spirit's efforts to influence matter  
-     
+
 ```ad-embed-ability
-title: Topple Furniture [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Topple Furniture** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature moves adjacent to the furniture
 

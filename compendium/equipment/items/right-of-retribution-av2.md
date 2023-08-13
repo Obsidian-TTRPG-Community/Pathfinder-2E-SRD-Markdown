@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/av2
-- item/category/contract
+- item/category/contract/
 - trait/contract
 - trait/enchantment
 - trait/invested
@@ -14,8 +14,7 @@ aliases: ["Right Of Retribution"]
 # Right Of Retribution *Item 8*  
 [contract](rules/traits/contract-lol.md "Contract Item Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Devil** erinys; **Decipher Writing** [Nature](compendium/skills.md#Nature), [Religion](compendium/skills.md#Religion)
-- **Category** Contract
+- **Decipher Writing** [Nature](compendium/skills.md#Nature), [Religion](compendium/skills.md#Religion); **Devil** erinys
 
 Profane powers of vengeance are yours to inflict.
 
@@ -27,4 +26,6 @@ Profane powers of vengeance are yours to inflict.
 
 **Termination Clause** The contract demands that you enact bloody vengeance against anyone who has ever wronged you, but the nature of the vengeance is vague. You can end the contract by creating effigies of everyone you believe has ever wronged you, bleeding upon them all at once (at least 1 Hit Point per effigy), and destroying them.
 
+
+---
 *Source: Abomination Vaults #2: Hands of the Devil p. 75*

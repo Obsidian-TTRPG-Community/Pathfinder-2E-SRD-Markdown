@@ -3,14 +3,15 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
-- item/category/ammunition
+- item/category/ammunition/
 aliases: ["Wooden Taws"]
 ---
 # Wooden Taws *Item 0*  
 
 - **Price** 1 sp
-- **Category** Ammunition
 
 
 
+
+---
 *Source: Treasure Vault p. 30*

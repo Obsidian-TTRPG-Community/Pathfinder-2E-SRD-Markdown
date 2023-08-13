@@ -7,7 +7,7 @@ tags:
 - trait/flourish
 aliases: ["Drive-by Attack"]
 ---
-# Drive-by Attack  [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies") *Feat 12*  
+# Drive-by Attack  [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies") Varies ([>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") TO [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")) *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 - **Prerequisites**: [Trick Driver Dedication](compendium/feats/trick-driver-dedication-g-g.md)

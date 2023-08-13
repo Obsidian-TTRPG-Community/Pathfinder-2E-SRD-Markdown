@@ -13,12 +13,12 @@ aliases: ["Appearance Of Wealth"]
 # Appearance Of Wealth *Focus 1*   
 [cleric](rules/traits/cleric.md "Cleric Class Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains**: [wealth](compendium/setting/domains.md#Wealth)
+- **Domains** [wealth](compendium/setting/domains.md#Wealth)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Area**5-foot burst
-- **Saving Throw** Will
-- **Duration**sustained up to 1 minute
+- **Range**: 30 foot
+- **Area**: 5-foot burst
+- **Saving Throw**: Will
+- **Duration**: sustained up to 1 minute
 
 You create a brief vision of immense wealth filling the spell's area. Each creature within 20 feet of the area that could be enticed by material wealth must attempt a Will saving throw. A creature that enters the area automatically 0, and disbelieving the illusion ends any [fascinated](rules/conditions.md#Fascinated) condition imposed by the spell. As long as you [Sustain the Spell](rules/actions/sustain-a-spell.md), other creatures react to the treasure like they would any other illusion, but they are not at risk of becoming [fascinated](rules/conditions.md#Fascinated).
 

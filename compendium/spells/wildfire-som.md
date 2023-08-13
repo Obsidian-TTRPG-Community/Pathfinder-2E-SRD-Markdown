@@ -14,10 +14,10 @@ aliases: ["Wildfire"]
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Area**10-foot burst
-- **Saving Throw** Reflex
-- **Duration**sustained up to 1 minute
+- **Range**: 30 foot
+- **Area**: 10-foot burst
+- **Saving Throw**: Reflex
+- **Duration**: sustained up to 1 minute
 
 A thin layer of ash and flame covers the ground in the area. The area becomes hazardous terrain. A creature that moves on the ground through the area takes 1 fire damage for every square of that area it moves into. A creature that ends its turn in the area must succeed at a Reflex save or take 1 [persistent fire damage](rules/conditions.md#Persistent%20Damage).
 

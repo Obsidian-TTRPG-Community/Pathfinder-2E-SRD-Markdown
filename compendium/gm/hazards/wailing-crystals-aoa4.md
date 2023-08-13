@@ -18,32 +18,31 @@ Three clusters of gleaming, colorful crystals are corrupted with necromantic ene
 
 - **Disable** [Thievery](compendium/skills.md#Thievery) DC 29 (master) to carefully fracture the crystals or [Crafting](compendium/skills.md#Crafting) DC 27 (expert) to place objects to stop the resonance, both disabling one 5-foot patch of crystals.  
 
-- **AC** 34 , **Fort** +26, **Ref** +18
+- **AC** 34, **Fort** +26, **Ref** +18
 - **Hardness** 18, **HP** 72 (BT 36) per 5-foot patch
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Echoing Cry [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[occult](rules/traits/occult.md "Occult Tradition Trait")  
+title: **Echoing Cry** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([occult](rules/traits/occult.md))
 
 - **Trigger**: A living creature approaches within 20 feet of a wailing crystal.
 
 **Effect** A despairing chorus of cries echoes off the crystals, working its way into the minds of all living creatures in Jewelgate Way Station, affecting them with [crushing despair](compendium/spells/crushing-despair.md) (7th level, DC 33). The hazard rolls initiative.  
-%% #trait/occult %%
+%%
+ #trait/occult 
+%%
 ```
 
 ````ad-pf2-summary
 title: Routine
+
 (3 actions) The hazard uses each action for an Anguished Shriek. The wailing crystals lose 1 action for each 5-foot patch of crystals that is [broken](rules/conditions.md#Broken) or destroyed.
-
 ```ad-embed-ability
-title: Anguished Shriek
-[emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  
-
+title: **Anguished Shriek**  ([emotion](rules/traits/emotion.md), [enchantment](rules/traits/enchantment.md), [mental](rules/traits/mental.md), [occult](rules/traits/occult.md), [sonic](rules/traits/sonic.md))
 A shrieking, distorted face composed of writhing necromantic energy lances out of the crystals to target a random living creature within 20 feet. The target takes `4d6` mental damage and `4d6` sonic damage (DC 33 basic Will save).  
-%% #trait/emotion #trait/enchantment #trait/mental #trait/occult #trait/sonic %%
+%%
+ #trait/emotion  #trait/enchantment  #trait/mental  #trait/occult  #trait/sonic 
+%%
 ```
 ````
 ^routine

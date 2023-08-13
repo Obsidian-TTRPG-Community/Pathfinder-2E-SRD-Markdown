@@ -17,6 +17,4 @@ aliases: ["Green Faith"]
 ## Devotee benefits
 
 - **Divine Ability**: Intelligence or Constitution
-- **Divine Font**: 
 - **Divine Skill**: Nature
-- **Cleric Spells**:

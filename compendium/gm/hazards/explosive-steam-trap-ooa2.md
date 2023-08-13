@@ -18,19 +18,15 @@ A black-powder charge fastened to a trapdoor (marked with a "T" on the map) blow
 
 - **Disable** DC 18 [Thievery](compendium/skills.md#Thievery) (trained) to disarm the desk switch;  
 
-- **AC** 25 , **Fort** +18, **Ref** +15
-- **Trapdoor  Hardness** 8, **Trapdoor  HP** 50 (BT 25)
+- **AC** 25, **Fort** +18, **Ref** +15
+- **Trapdoor Hardness** 8, **Trapdoor HP** 50 (BT 25)
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
-```ad-embed-ability
-title: DC
 
-28 (expert) to disarm the trapdoor charge
+```ad-embed-ability
+title: **DC** 28 (expert) to disarm the trapdoor charge
 ```
 ```ad-embed-ability
-title: Explosive Charge [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Explosive Charge** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: The desk switch is pressed or the trapdoor is opened
 
@@ -39,8 +35,8 @@ title: Explosive Charge [R](rules/core-rulebook/chapter-9-playing-the-game.md#Ac
 
 ```ad-pf2-summary
 title: Routine
-(1 action) The trapdoor emits a jet of superheated steam. Each creature in the room must attempt a DC 28 Fortitude save.
 
+(1 action) The trapdoor emits a jet of superheated steam. Each creature in the room must attempt a DC 28 Fortitude save.
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
 > - **Success** The creature takes `1d10+3` fire damage.

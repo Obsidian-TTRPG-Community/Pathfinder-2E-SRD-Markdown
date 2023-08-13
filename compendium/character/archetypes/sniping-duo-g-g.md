@@ -20,7 +20,6 @@ Skilled shooters who don't let their egos get in the way of their efficacy are l
 ```ad-embed-feat
 title: Sniping Duo Dedication, Feat 2
 collapse: closed
-# Sniping Duo Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: trained in at least one type of weapon in the bow or firearm groups, trained in [Stealth](compendium/skills.md#Stealth)
@@ -40,7 +39,6 @@ You can change your designated spotter by spending 3 days of downtime training w
 ```ad-embed-feat
 title: Assisting Shot, Feat 4*
 collapse: closed
-# Assisting Shot  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
 [fighter](rules/traits/fighter.md "Fighter Class Trait")  [press](rules/traits/press.md "Press Combat Trait")  
 
 > [!pf2-note] This version of [Assisting Shot](compendium/feats/assisting-shot.md) is intended for use with the Sniping Duo Archetype. Its level has been changed accordingly.
@@ -57,7 +55,6 @@ With a quick shot, you interfere with a foe in combat. Make a [Strike](rules/act
 ```ad-embed-feat
 title: Cover Fire, Feat 4*
 collapse: closed
-# Cover Fire  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
 [gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  
 
 > [!pf2-note] This version of [Cover Fire](compendium/feats/cover-fire-g-g.md) is intended for use with the Sniping Duo Archetype. Its level has been changed accordingly.
@@ -75,7 +72,6 @@ You lay down suppressive fire to protect allies by forcing foes to take cover fr
 ```ad-embed-feat
 title: Triangulate, Feat 4
 collapse: closed
-# Triangulate  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Prerequisites**: [Sniping Duo Dedication](compendium/feats/sniping-duo-dedication-g-g.md)
@@ -91,7 +87,6 @@ The penalty you take for firing into further range increments is –3 for the th
 ```ad-embed-feat
 title: Exploit Opening, Feat 6
 collapse: closed
-# Exploit Opening  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Sniping Duo Dedication](compendium/feats/sniping-duo-dedication-g-g.md)
@@ -109,7 +104,6 @@ This [Strike](rules/actions/strike.md) doesn't count toward your multiple attack
 ```ad-embed-feat
 title: Targeted Redirection, Feat 6
 collapse: closed
-# Targeted Redirection  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Sniping Duo Dedication](compendium/feats/sniping-duo-dedication-g-g.md)
@@ -126,7 +120,6 @@ If your next action is to make a ranged [Strike](rules/actions/strike.md), you t
 ```ad-embed-feat
 title: Duo's Aim, Feat 8
 collapse: closed
-# Duo's Aim  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
 
 - **Prerequisites**: [Sniping Duo Dedication](compendium/feats/sniping-duo-dedication-g-g.md)
@@ -141,7 +134,6 @@ With assistance from your spotter, you aim for an especially accurate attack. Ma
 ```ad-embed-feat
 title: Vantage Shot, Feat 8
 collapse: closed
-# Vantage Shot  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Sniping Duo Dedication](compendium/feats/sniping-duo-dedication-g-g.md)
@@ -157,7 +149,6 @@ On a success, the foe is [flat-footed](rules/conditions.md#Flat-footed) against 
 ```ad-embed-feat
 title: Tag Team, Feat 10
 collapse: closed
-# Tag Team  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Sniping Duo Dedication](compendium/feats/sniping-duo-dedication-g-g.md)
@@ -173,7 +164,6 @@ Your skilled teamwork with your spotter enables you both to assist one another w
 ```ad-embed-feat
 title: Deflecting Shot, Feat 12*
 collapse: closed
-# Deflecting Shot  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 12*  
 [gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  
 
 > [!pf2-note] This version of [Deflecting Shot](compendium/feats/deflecting-shot-g-g.md) is intended for use with the Sniping Duo Archetype. Its level has been changed accordingly.
@@ -191,7 +181,6 @@ You're always ready to take a quick shot to deflect a weapon or distract a foe e
 ```ad-embed-feat
 title: Eagle Eyes, Feat 12*
 collapse: closed
-# Eagle Eyes  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 > [!pf2-note] This version of [Eagle Eyes](compendium/feats/eagle-eyes-g-g.md) is intended for use with the Sniping Duo Archetype. Its level has been changed accordingly.
@@ -207,7 +196,6 @@ You and your spotter are adept at watching out for one another. As long as you c
 ```ad-embed-feat
 title: Redirecting Shot, Feat 12*
 collapse: closed
-# Redirecting Shot  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 12*  
 [fortune](rules/traits/fortune.md "Fortune Effect Trait")  [gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  
 
 > [!pf2-note] This version of [Redirecting Shot](compendium/feats/redirecting-shot-g-g.md) is intended for use with the Sniping Duo Archetype. Its level has been changed accordingly.
@@ -227,7 +215,6 @@ Discharge your firearm and roll a d20. Your ally uses this roll instead of their
 ```ad-embed-feat
 title: Concentrated Assault, Feat 14*
 collapse: closed
-# Concentrated Assault  *Feat 14*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Concentrated Assault](compendium/feats/concentrated-assault-g-g.md) is intended for use with the Sniping Duo Archetype. Its level has been changed accordingly.

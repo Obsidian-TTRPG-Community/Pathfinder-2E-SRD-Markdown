@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/crb
-- item/category/potion
+- item/category/potion/
 - trait/consumable
 - trait/magical
 - trait/potion
@@ -14,10 +14,11 @@ aliases: ["Potion of Quickness"]
 [consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [potion](rules/traits/potion.md "Potion Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 90 gp
-- **Usage** held in 1 hand; **Bulk** L
+- **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Potion
 
 Drinking this silver potion grants you the effects of haste for 1 minute.
 
+
+---
 *Source: Core Rulebook p. 563*

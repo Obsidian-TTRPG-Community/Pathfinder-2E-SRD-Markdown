@@ -14,10 +14,10 @@ aliases: ["Chilling Darkness"]
 # Chilling Darkness *Spell 3*   
 [attack](rules/traits/attack.md "Attack Combat Trait")  [cold](rules/traits/cold.md "Cold Energy & Element Trait")  [darkness](rules/traits/darkness.md "Darkness Effect Trait")  [evil](rules/traits/evil.md "Evil Alignment Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**120 foot
-- **Targets**1 creature
+- **Range**: 120 foot
+- **Targets**: 1 creature
 
 You shoot an utterly cold ray of darkness tinged with unholy energy. Make a ranged spell attack against the target. You deal `5d6` cold damage, plus `5d6` evil damage if the target is a celestial.
 

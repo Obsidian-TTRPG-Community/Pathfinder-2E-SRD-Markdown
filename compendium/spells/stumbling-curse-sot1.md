@@ -15,10 +15,10 @@ aliases: ["Stumbling Curse"]
 [curse](rules/traits/curse.md "Curse Effect Trait")  [hex](rules/traits/hex-apg.md "Hex Combat Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [witch](rules/traits/witch-apg.md "Witch Class Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**60 foot
-- **Targets**1 creature
-- **Saving Throw** Reflex
-- **Duration**sustained up to 1 minute
+- **Range**: 60 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Reflex
+- **Duration**: sustained up to 1 minute
 
 With a twist of a finger, you send a creature careening on a haphazard trajectory. The target must attempt a Reflex save.
 

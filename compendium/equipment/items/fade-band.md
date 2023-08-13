@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/crb
-- item/category/talisman
+- item/category/talisman/
 - trait/consumable
 - trait/illusion
 - trait/magical
@@ -14,10 +14,11 @@ aliases: ["Fade Band"]
 [consumable](rules/traits/consumable.md "Consumable Item Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  
 
 - **Price** 320 gp
-- **Usage** affixed to armor; **Bulk** —
+- **Bulk** —; **Usage** affixed to armor
 - **Activate** envision; **Trigger** An attack misses you; **Requirements** You are a master in [Stealth](compendium/skills.md#Stealth).
-- **Category** Talisman
 
 This thin, silvery wire wraps around your armor. When you activate the band, it casts a 2nd-level [invisibility](compendium/spells/invisibility.md) spell on you.
 
+
+---
 *Source: Core Rulebook p. 566*

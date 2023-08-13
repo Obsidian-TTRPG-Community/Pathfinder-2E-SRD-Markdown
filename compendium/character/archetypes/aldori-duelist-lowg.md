@@ -14,7 +14,6 @@ You have sworn the Aldori swordpact and study the art of Aldori dueling, a famed
 ```ad-embed-feat
 title: Aldori Duelist Dedication, Feat 2
 collapse: closed
-# Aldori Duelist Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: You are from the [Broken](rules/conditions.md#Broken) Lands region.
@@ -33,7 +32,6 @@ Whenever your proficiency rank in any weapon increases to expert or beyond, you 
 ```ad-embed-feat
 title: Aldori Parry, Feat 4
 collapse: closed
-# Aldori Parry  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Aldori Duelist Dedication](compendium/feats/aldori-duelist-dedication-lowg.md)
@@ -49,7 +47,6 @@ You can parry attacks against you with your Aldori dueling sword. You gain a +2 
 ```ad-embed-feat
 title: Duelist's Edge, Feat 4
 collapse: closed
-# Duelist's Edge  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Aldori Duelist Dedication](compendium/feats/aldori-duelist-dedication-lowg.md)
@@ -65,7 +62,6 @@ You hone your reaction time through duels and learn to draw your weapon seamless
 ```ad-embed-feat
 title: Aldori Riposte, Feat 6
 collapse: closed
-# Aldori Riposte  [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies") *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Aldori Parry](compendium/feats/aldori-parry-lowg.md)
@@ -82,7 +78,6 @@ You riposte with your Aldori dueling sword when your enemy leaves an opening. Ma
 ```ad-embed-feat
 title: Unnerving Prowess, Feat 6
 collapse: closed
-# Unnerving Prowess  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Aldori Duelist Dedication](compendium/feats/aldori-duelist-dedication-lowg.md)
@@ -98,7 +93,6 @@ Your incredible skill with your blade unnerves your foes. You attempt to [Demora
 ```ad-embed-feat
 title: Saving Slash, Feat 10
 collapse: closed
-# Saving Slash  [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies") *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Aldori Duelist Dedication](compendium/feats/aldori-duelist-dedication-lowg.md)

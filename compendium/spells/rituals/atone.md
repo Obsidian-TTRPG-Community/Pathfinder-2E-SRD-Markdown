@@ -16,8 +16,8 @@ aliases: ["Atone"]
 - **Secondary Casters** 1 must be the ritual's target
 - **Primary Checks** [Nature](compendium/skills.md#Nature) or [Religion](compendium/skills.md#Religion) (expert)
 - **Secondary Checks** [Nature](compendium/skills.md#Nature) or [Religion](compendium/skills.md#Religion) (whichever is used for the primary check)
-- **Range**10 feet
-- **Targets**another creature of up to 8th level who is a worshipper of the same deity or philosophy as you
+- **Range**: 10 feet
+- **Targets**: another creature of up to 8th level who is a worshipper of the same deity or philosophy as you
 
 You attempt to help a truly penitent creature atone for its misdeeds, typically actions contrary to your deity's alignment or anathema to your deity. If the creature isn't truly penitent, the outcome is always a critical failure. This ritual uses [Nature](compendium/skills.md#Nature) if the target is a druid, and [Religion](compendium/skills.md#Religion) in all other cases.
 

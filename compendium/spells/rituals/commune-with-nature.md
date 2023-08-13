@@ -17,6 +17,7 @@ aliases: ["Commune With Nature"]
 - **Secondary Casters** 1
 - **Primary Checks** [Nature](compendium/skills.md#Nature) (master)
 - **Secondary Checks** [Nature](compendium/skills.md#Nature)
+- 
 
 As [commune](compendium/spells/rituals/commune.md), except you contact the primal spirits of nature, which know about animals, beasts, fey, plants, fungi, topography, and natural resources within a 3-mile radius of the ritual's location.
 

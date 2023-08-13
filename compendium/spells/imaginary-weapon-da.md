@@ -16,8 +16,8 @@ aliases: ["Imaginary Weapon"]
 [attack](rules/traits/attack.md "Attack Combat Trait")  [cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Targets**1 creature
+- **Range**: touch
+- **Targets**: 1 creature
 
 You create a simple weapon of force. Make a melee spell attack roll against your target's AC. If you hit, you deal your choice of bludgeoning or slashing damage equal to `1d8` plus your spellcasting ability modifier. On a critical success, you deal double damage and can choose to detonate your weapon to push the target 10 feet away from you.
 

@@ -13,11 +13,11 @@ aliases: ["Word Of Freedom"]
 # Word Of Freedom *Focus 4*   
 [cleric](rules/traits/cleric.md "Cleric Class Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains**: [freedom](compendium/setting/domains.md#Freedom)
+- **Domains** [freedom](compendium/setting/domains.md#Freedom)
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**30 foot
-- **Targets**1 creature
-- **Duration**1 round
+- **Range**: 30 foot
+- **Targets**: 1 creature
+- **Duration**: 1 round
 
 You utter a liberating word of power that frees a creature.
 

@@ -45,7 +45,6 @@ Your soulforged armament has an essence power you choose when you first bind it.
 ````ad-embed-feat
 title: Soulforger Dedication, Feat 2
 collapse: closed
-# Soulforger Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: Wis 14 or ability to cast divine spells
@@ -55,8 +54,7 @@ You can manifest the power of your spirit in combat to realize your motivations.
 You can Manifest Soulforged Armament to summon your armaments in combat.
 
 ```ad-embed-ability
-title: Manifest Soulforged Armament [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [extradimensional](rules/traits/extradimensional.md "Extradimensional Effect Trait")  
+title: **Manifest Soulforged Armament** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") ([concentrate](rules/traits/concentrate.md), [conjuration](rules/traits/conjuration.md), [divine](rules/traits/divine.md), [extradimensional](rules/traits/extradimensional.md))
 
 - **Requirements**: If summoning a weapon or shield, you have the hands free to wield it; if summoning armor, you aren't wearing any armor
 
@@ -65,7 +63,9 @@ title: Manifest Soulforged Armament [>](rules/core-rulebook/chapter-9-playing-th
 Once per day when you use this ability, you can manifest the armament's essence form. You gain the armament's essence power until it's Dismissed.
 
 After 1 minute, the essence form armament is automatically Dismissed.  
-%% #trait/concentrate #trait/conjuration #trait/divine #trait/extradimensional %%
+%%
+ #trait/concentrate  #trait/conjuration  #trait/divine  #trait/extradimensional 
+%%
 ```
 
 **Special.** You can't select another dedication feat before gaining two other feats from this archetype.
@@ -77,7 +77,6 @@ After 1 minute, the essence form armament is automatically Dismissed.
 ```ad-embed-feat
 title: Soul Flare, Feat 4
 collapse: closed
-# Soul Flare  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
 
 - **Prerequisites**: [Soulforger Dedication](compendium/feats/soulforger-dedication-som.md)
@@ -94,7 +93,6 @@ You strive to change the outcome with sheer zeal. You gain a +1 status bonus to 
 ```ad-embed-feat
 title: Rapid Manifestation, Feat 6
 collapse: closed
-# Rapid Manifestation  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Soulforger Dedication](compendium/feats/soulforger-dedication-som.md)
@@ -110,7 +108,6 @@ Your unwavering soul brings up your defenses as soon as you're in danger. You Ma
 ```ad-embed-feat
 title: Soul Arsenal, Feat 6
 collapse: closed
-# Soul Arsenal  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Soulforger Dedication](compendium/feats/soulforger-dedication-som.md)

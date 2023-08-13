@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/injury
@@ -15,9 +15,8 @@ aliases: ["Brightshade"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [injury](rules/traits/injury.md "Injury Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  
 
 - **Price** 18 gp
-- **Usage** held in 2 hands; **Bulk** L
+- **Bulk** L; **Usage** held in 2 hands
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 Brewed from a plant native to the First World, brightshade destroys tissue, living or dead. Victims of this poison take poison damage if they're alive and positive damage if they're undead.
 
@@ -33,4 +32,6 @@ title: Saving Throw: DC 21 Fortitude
 **Stage 2** `2d6` poison or positive damage (1 round)
 ```
 
+
+---
 *Source: Treasure Vault p. 67*

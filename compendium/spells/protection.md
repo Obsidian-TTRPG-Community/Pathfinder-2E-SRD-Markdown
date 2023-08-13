@@ -11,11 +11,11 @@ aliases: ["Protection"]
 # Protection *Spell 1*   
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Targets**1 creature
-- **Duration**1 minute
+- **Range**: touch
+- **Targets**: 1 creature
+- **Duration**: 1 minute
 
 You ward a creature against a specified alignment. Choose chaotic, evil, good, or lawful when you cast this spell.
 

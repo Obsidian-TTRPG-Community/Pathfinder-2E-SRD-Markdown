@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/ec5
-- item/category/companion
+- item/category/companion/
 - trait/companion
 - trait/invested
 - trait/magical
@@ -14,19 +14,19 @@ aliases: ["Bomber's Saddle"]
 [companion](rules/traits/companion.md "Companion Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 2800 gp
-- **Usage** worn saddle; **Bulk** 2
-- **Category** Companion
+- **Bulk** 2; **Usage** worn saddle
 
 Developed by urdefhans for their skaveling mounts but quickly copied by other races' cavalry, this leather saddle is made from cave worm hide and is designed to fit a variety of flying steeds. In addition to a seat for the rider, the bomber's saddle has a bomb compartment situated underneath the mount. The compartment can hold up to six alchemical bombs of light or negligible Bulk.
 
 ```ad-embed-ability
-title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
+title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") [Interact](rules/actions/interact.md)
+
 
 You drop a single item from the saddle's compartment, which falls to the ground below. If the item is a bomb, make a ranged [Strike](rules/actions/strike.md) with it.
 ```
 
 ```ad-embed-ability
-title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
+title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") [Interact](rules/actions/interact.md)
 
 - **Requirements**: The saddle's compartment is loaded with two to six bombs
 
@@ -35,4 +35,6 @@ title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "
 Apply [any](rules/traits/any-b1.md "Any Alignment Trait") effects normally applied to splash damage when throwing a bomb (such as the effects of the Calculated Splash feat).
 ```
 
+
+---
 *Source: Extinction Curse #5: Lord of the Black Sands p. 76*

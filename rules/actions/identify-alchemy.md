@@ -9,7 +9,7 @@ tags:
 - trait/secret
 aliases: ["Identify Alchemy"]
 ---
-# Identify Alchemy (basic) [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Duration or Frequency")
+# Identify Alchemy (basic) [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Duration or Frequency") 10 minute
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [secret](rules/traits/secret.md "Secret General Trait")  
 *Source: Core Rulebook p. 245*  
 

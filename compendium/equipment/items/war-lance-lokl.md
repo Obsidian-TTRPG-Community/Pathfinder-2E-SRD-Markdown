@@ -16,10 +16,12 @@ aliases: ["War Lance"]
 
 - **Price** 4 gp
 - **Bulk** 2
-- **Damage** `1d8` P
+  - **Damage**: `1d8` P
 - **Hands** 2
 - **Category** Martial; **Group** Spear 
 
 This lance appears shorter and stockier in comparison to other weapons of its type. The war lance most notably features shielding integrated into its vamplate, exchanging its reach for a sturdier base when defending against attacks or attempting to overpower an opponent.
 
+
+---
 *Source: Lost Omens: Knights of Lastwall p. 86*

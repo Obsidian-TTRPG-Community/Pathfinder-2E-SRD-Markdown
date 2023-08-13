@@ -408,7 +408,7 @@ Sometimes, especially when you have a particularly small play group or want to p
 
 When building a dual-class character, the primary changes to the character creation process are fairly straightforward. Choose and implement your character's ancestry and background as normal. Then, when you get to the step of choosing a class, select two classes and add everything from each class except Hit Points and starting skills: initial proficiencies, class features, class feats, extra skill feats and skill increases for rogues, and so on. As always, use the highest proficiency granted for a given statistic. For instance, if one class gave you expert proficiency in Will saves and the other gave you master proficiency in Will saves, you would be a master in Will saves.
 
-Use only the higher Hit Points per level from the two classes. For starting skills, apply the skills automatically granted by each class, and then apply the larger number of additional skills. For instance, a cleric of [Shelyn](compendium/setting/deities/shelyn.md)/ranger would gain Hit Points equal to 10 + their Constitution modifier per level, start with the trained proficiency rank in [Nature](compendium/skills.md#Nature) and [Survival](compendium/skills.md#Survival) from ranger and [Religion](compendium/skills.md#Religion) and either [Crafting](compendium/skills.md#Crafting) or [Performance](compendium/skills.md#Performance) from [cleric](compendium/skills.md#Cleric), and then gain a number of additional skills of their choice equal to 4 + their Intelligence modifier, since the ranger provides the trained proficiency rank in more additional skills than the cleric does (this example doesn't include any skills they gained from their background or other sources). This character would also have the deity|Cleric||1, divine spellcasting|Cleric||1, divine font|Cleric||1, and doctrine|Cleric||1 class features from cleric plus the Hunt Prey|Ranger||1, hunter's edge|Ranger||1, and ranger feats|Ranger||1||ranger feat class features from ranger.
+Use only the higher Hit Points per level from the two classes. For starting skills, apply the skills automatically granted by each class, and then apply the larger number of additional skills. For instance, a cleric of [Shelyn](compendium/setting/deities/shelyn.md)/ranger would gain Hit Points equal to 10 + their Constitution modifier per level, start with the trained proficiency rank in [Nature](compendium/skills.md#Nature) and [Survival](compendium/skills.md#Survival) from ranger and [Religion](compendium/skills.md#Religion) and either [Crafting](compendium/skills.md#Crafting) or [Performance](compendium/skills.md#Performance) from cleric, and then gain a number of additional skills of their choice equal to 4 + their Intelligence modifier, since the ranger provides the trained proficiency rank in more additional skills than the cleric does (this example doesn't include any skills they gained from their background or other sources). This character would also have the deity|Cleric||1, divine spellcasting|Cleric||1, divine font|Cleric||1, and doctrine|Cleric||1 class features from cleric plus the Hunt Prey|Ranger||1, hunter's edge|Ranger||1, and ranger feats|Ranger||1||ranger feat class features from ranger.
 
 ##### Spells
 <sup>GMG p. 192</sup>
@@ -846,9 +846,8 @@ Attempt a DC 15 skill check. The GM might adjust this DC based on the circumstan
 <sup>GMG p. 200</sup>
 
 ```ad-embed-feat
-title: Encouraging Words [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action"), *Feat 2*
+title: Encouraging Words [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Single Action ([>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")), *Feat 2*
 collapse: closed
-# Encouraging Words  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 2*  
 [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [general](rules/traits/general.md "General Feat Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: trained in [Diplomacy](compendium/skills.md#Diplomacy)
@@ -867,9 +866,8 @@ You give an ally within 30 feet a quick pep talk, helping them recover. Attempt 
 ```
 
 ```ad-embed-feat
-title: Steel Your Resolve [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action"), *Feat 3*
+title: Steel Your Resolve [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Single Action ([>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")), *Feat 3*
 collapse: closed
-# Steel Your Resolve  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 3*  
 [general](rules/traits/general.md "General Feat Trait")  
 
 - **Cost**: 1 Resolve Point

@@ -13,6 +13,7 @@ aliases: ["Angelic Messenger"]
 
 - **Cast** 1 day
 - **Primary Checks** [Religion](compendium/skills.md#Religion) (expert; you must be a angel)
+- 
 
 You transport yourself to either a celestial plane or a world on the Material Plane where worshippers of your patron can be found. You must be of no higher level than double _angelic messenger's_ spell level.
 

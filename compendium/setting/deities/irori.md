@@ -21,7 +21,7 @@ aliases: ["Irori", "Master of Masters"]
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: become addicted to a substance, destroy an important historical text, repeatedly fail to maintain self-control
-- **Areas of Concern**: history, , knowledge, , and self-perfection
+- **Areas of Concern**: history, knowledge, and self-perfection
 - **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait")
 
 ## Devotee benefits
@@ -38,8 +38,9 @@ aliases: ["Irori", "Master of Masters"]
 title: [Avatar](compendium/spells/avatar.md) of Irori
 
 - **Speed**: Speed 80 feet, [air walk](compendium/spells/air-walk.md)
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") unfettered strike ([agile](rules/traits/agile.md "Agile Weapon Trait"), [finesse](rules/traits/finesse.md "Finesse Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [versatile <p or s>](rules/traits/versatile-p-or-s.md "Versatile Weapon Trait")), **Damage** `6d8+6` bludgeoning
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") wind strike **Damage** `6d4+6` bludgeoning
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") unfettered strike (, [agile](rules/traits/agile.md "Agile Weapon Trait"), [finesse](rules/traits/finesse.md "Finesse Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [versatile <p or s>](rules/traits/versatile-p-or-s.md "Versatile Weapon Trait")), **Damage** `6d8+6` bludgeoning 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") wind strike (), **Damage** `6d4+6` bludgeoning 
 ```
 
 ## Divine intercession

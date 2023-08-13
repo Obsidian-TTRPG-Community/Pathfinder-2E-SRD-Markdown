@@ -14,11 +14,13 @@ aliases: ["Bola"]
 
 - **Price** 5 sp
 - **Bulk** L
-- **Damage** `1d6` B
-- **Range** 20 ft.
+  - **Damage**: `1d6` B
+  - **Range** 20 ft.
 - **Hands** 1
 - **Category** Martial; **Group** Sling 
 
 This throwing weapon consists of weights tied to the end of long cords, which can be used to entangle foes.
 
+
+---
 *Source: Treasure Vault p. 30*

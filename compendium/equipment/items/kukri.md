@@ -15,10 +15,12 @@ aliases: ["Kukri"]
 
 - **Price** 6 sp
 - **Bulk** L
-- **Damage** `1d6` S
+  - **Damage**: `1d6` S
 - **Hands** 1
 - **Category** Martial; **Group** Knife 
 
 The blade of this foot-long knife curves inward and lacks a cross guard at the hilt.
 
+
+---
 *Source: Core Rulebook p. 281*

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/frp2
-- item/category/elixir
+- item/category/elixir/
 - trait/alchemical
 - trait/consumable
 - trait/elixir
@@ -16,9 +16,8 @@ aliases: ["Apricot Of Bestial Might"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [elixir](rules/traits/elixir.md "Elixir Item Trait")  [mutagen](rules/traits/mutagen.md "Mutagen Item Trait")  [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 2000 gp
-- **Usage** held in 1 hand; **Bulk** L
+- **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Elixir
 
 This yellow fruit's soft flesh is covered by waxy, fibrous leaves reminiscent of a pineapple. When you eat an apricot of bestial might, you transform into a boar-faced battle form with scaly skin. You can use feats with this item as if it were a bestial mutagen, improving your tusk unarmed attack as if it were a claw or jaws attack.
 
@@ -26,4 +25,6 @@ Benefit You gain 8 resistance to all physical damage and gain a tusk unarmed att
 
 Drawback You become [clumsy](rules/conditions.md#Clumsy). If you perform an action with the [auditory](rules/traits/auditory.md "Auditory Effect Trait") or [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait") traits, you must succeed at a DC 5 flat check or the action is lost.
 
+
+---
 *Source: Fists of the Ruby Phoenix #2: Ready? Fight! p. 74*

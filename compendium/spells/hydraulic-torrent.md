@@ -12,10 +12,10 @@ aliases: ["Hydraulic Torrent"]
 # Hydraulic Torrent *Spell 4*   
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Area**60-foot line
-- **Saving Throw** Fortitude
+- **Area**: 60-foot line
+- **Saving Throw**: Fortitude
 
 A swirling torrent of water manifests along a straight line, battering those that are its path and possibly pushing them away from you. The torrent deals `8d6` bludgeoning damage.
 

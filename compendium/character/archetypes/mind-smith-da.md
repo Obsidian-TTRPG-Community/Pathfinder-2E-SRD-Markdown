@@ -14,7 +14,6 @@ aliases: ["Mind Smith"]
 ```ad-embed-feat
 title: Mind Smith Dedication, Feat 2
 collapse: closed
-# Mind Smith Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 
@@ -36,7 +35,6 @@ Each day during your daily preparations, you can decide if you want your weapon 
 ```ad-embed-feat
 title: Malleable Movement, Feat 2
 collapse: closed
-# Malleable Movement  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Mind Smith Dedication](compendium/feats/mind-smith-dedication-da.md), expert in [Athletics](compendium/skills.md#Athletics)
@@ -52,7 +50,6 @@ You shift the shape of your weapon to help you [Leap](rules/actions/leap.md) far
 ```ad-embed-feat
 title: Ghost Blade, Feat 4
 collapse: closed
-# Ghost Blade  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
 
 - **Prerequisites**: [Mind Smith Dedication](compendium/feats/mind-smith-dedication-da.md)
@@ -68,7 +65,6 @@ You alter your weapon's phase so it can more easily strike incorporeal creatures
 ```ad-embed-feat
 title: Just the Tool, Feat 4
 collapse: closed
-# Just the Tool  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
 
 - **Prerequisites**: [Mind Smith Dedication](compendium/feats/mind-smith-dedication-da.md)
@@ -83,7 +79,6 @@ You temporarily change your weapon's shape to assist you in the field. You morph
 ```ad-embed-feat
 title: Mental Forge, Feat 4
 collapse: closed
-# Mental Forge  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Mind Smith Dedication](compendium/feats/mind-smith-dedication-da.md)
@@ -97,7 +92,6 @@ Your experiences in combat shape your mind's capability to strengthen and shape 
 ```ad-embed-feat
 title: Mind Shards, Feat 6
 collapse: closed
-# Mind Shards  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 - **Prerequisites**: [Mind Smith Dedication](compendium/feats/mind-smith-dedication-da.md)
@@ -114,7 +108,6 @@ You concentrate and unleash a 15-foot cone that deals `3d6` mental damage to all
 ```ad-embed-feat
 title: Malleable Mental Forge, Feat 8
 collapse: closed
-# Malleable Mental Forge  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Mental Forge](compendium/feats/mental-forge-da.md)
@@ -128,7 +121,6 @@ You open your mind to further weapon customization. During your daily preparatio
 ```ad-embed-feat
 title: Mind Projectiles, Feat 8
 collapse: closed
-# Mind Projectiles  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Mind Smith Dedication](compendium/feats/mind-smith-dedication-da.md)
@@ -144,7 +136,6 @@ For example, if your weapon had +1, striking, and spell storing runes, you would
 ```ad-embed-feat
 title: Runic Mind Smithing, Feat 10
 collapse: closed
-# Runic Mind Smithing  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Mind Smith Dedication](compendium/feats/mind-smith-dedication-da.md)
@@ -158,7 +149,6 @@ You focus your mind on thoughtforms of fundamental magical forces, shaping them 
 ```ad-embed-feat
 title: Metallic Envisionment, Feat 12*
 collapse: closed
-# Metallic Envisionment  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Metallic Envisionment](compendium/feats/metallic-envisionment-da.md) is intended for use with the Mind Smith Archetype. Its level has been changed accordingly.
@@ -174,7 +164,6 @@ You always account for every weakness, allowing your mind to imagine just the ri
 ```ad-embed-feat
 title: Advanced Runic Mind-Smithing, Feat 16*
 collapse: closed
-# Advanced Runic Mind-Smithing  *Feat 16*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Advanced Runic Mind-Smithing](compendium/feats/advanced-runic-mind-smithing-da.md) is intended for use with the Mind Smith Archetype. Its level has been changed accordingly.

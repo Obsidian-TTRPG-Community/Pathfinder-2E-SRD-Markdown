@@ -15,9 +15,9 @@ aliases: ["Hallowed Ground"]
 [good](rules/traits/good.md "Good Alignment Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**60 foot
-- **Area**10-foot burst
-- **Duration**1 minute
+- **Range**: 60 foot
+- **Area**: 10-foot burst
+- **Duration**: 1 minute
 
 One small space becomes inhospitable to undead as you fill it with life-infused benevolent magic. Each undead creature in the area takes `1d6` positive damage and `1d4` good damage when you [Cast the Spell](rules/actions/cast-a-spell.md), with a basic Fortitude save. After that, undead creatures have weakness 1 to positive damage and your necromancy spells while in the area.
 

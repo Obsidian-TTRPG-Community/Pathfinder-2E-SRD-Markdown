@@ -12,11 +12,11 @@ aliases: ["Blackfingers's Blades"]
 # Blackfingers's Blades *Spell 5*   
 [poison](rules/traits/poison.md "Poison Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Targets**up to 4 weapons, each wielded by a separate willing creature within range
-- **Duration**up to 1 minute
+- **Range**: touch
+- **Targets**: up to 4 weapons, each wielded by a separate willing creature within range
+- **Duration**: up to 1 minute
 
 You pray for swift and painful death to your enemies and find your and your allies' weapons blessed to deliver just that. The target weapons are coated with giant scorpion venom (Core Rulebook 551) with a DC equal to your spell DC. The effects remain on a weapon for 1 minute or until the weapon deals damage, whichever comes first.
 

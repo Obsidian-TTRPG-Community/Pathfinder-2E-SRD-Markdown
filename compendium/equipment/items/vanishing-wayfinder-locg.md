@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/locg
-- item/category/worn
+- item/category/worn/
 - trait/evocation
 - trait/illusion
 - trait/invested
@@ -16,14 +16,17 @@ aliases: ["Vanishing Wayfinder"]
 
 - **Price** 150 gp
 - **Usage** worn
-- **Category** Worn
 
 A vanishing wayfinder is crafted of ivory chased with gold and silver. It has the usual functions of a wayfinder and the following additional activation.
 
 ```ad-embed-ability
-title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
+title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") command, [Interact](rules/actions/interact.md)
 
-You turn the wayfinder in a circle while invoking its command word, gaining the effects of a 2nd-level [invisibility](compendium/spells/invisibility.md) spell for 5 minutes.
+- **Frequency**: once per day
+
+**Effect** You turn the wayfinder in a circle while invoking its command word, gaining the effects of a 2nd-level [invisibility](compendium/spells/invisibility.md) spell for 5 minutes.
 ```
 
+
+---
 *Source: Lost Omens: Character Guide p. 112*

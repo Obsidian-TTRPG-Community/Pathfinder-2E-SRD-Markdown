@@ -15,9 +15,9 @@ aliases: ["Treacherous Scree"]
 The footing on this sloped ground appears to be stable at first glance, but the tiny rocks that cover it are loosely packed and [prone](rules/conditions.md#Prone) to slipping.
 
 - **Disable** DC 20 [Survival](compendium/skills.md#Survival) (trained) to navigate a safe path  
-     
+
 ```ad-embed-ability
-title: Rockslide [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Rockslide** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature steps on the unstable ground
 

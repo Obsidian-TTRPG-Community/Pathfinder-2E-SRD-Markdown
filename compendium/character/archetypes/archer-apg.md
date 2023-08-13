@@ -14,7 +14,6 @@ Bows of all types are powerful weapons. Generals and hunters alike recognize the
 ```ad-embed-feat
 title: Archer Dedication, Feat 2
 collapse: closed
-# Archer Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 
@@ -29,7 +28,6 @@ You become trained in all simple and martial weapons in the bow weapon group. Wh
 ```ad-embed-feat
 title: Assisting Shot, Feat 4*
 collapse: closed
-# Assisting Shot  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
 [fighter](rules/traits/fighter.md "Fighter Class Trait")  [press](rules/traits/press.md "Press Combat Trait")  
 
 > [!pf2-note] This version of [Assisting Shot](compendium/feats/assisting-shot.md) is intended for use with the Archer Archetype. Its level has been changed accordingly.
@@ -46,7 +44,6 @@ With a quick shot, you interfere with a foe in combat. Make a [Strike](rules/act
 ```ad-embed-feat
 title: Point-blank Shot, Feat 4*
 collapse: closed
-# Point-blank Shot  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
 [fighter](rules/traits/fighter.md "Fighter Class Trait")  [open](rules/traits/open.md "Open Combat Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
 
 > [!pf2-note] This version of [Point-blank Shot](compendium/feats/point-blank-shot.md) is intended for use with the Archer Archetype. Its level has been changed accordingly.
@@ -63,7 +60,6 @@ You take aim to pick off nearby enemies quickly. When using a ranged volley weap
 ```ad-embed-feat
 title: Quick Shot, Feat 4
 collapse: closed
-# Quick Shot  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [open](rules/traits/open.md "Open Combat Trait")  
 
 - **Prerequisites**: [Archer Dedication](compendium/feats/archer-dedication-apg.md)
@@ -78,7 +74,6 @@ You draw your bow and attack with the same action. You [Interact](rules/actions/
 ```ad-embed-feat
 title: Advanced Bow Training, Feat 6
 collapse: closed
-# Advanced Bow Training  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Archer Dedication](compendium/feats/archer-dedication-apg.md)
@@ -92,7 +87,6 @@ Through constant practice and the crucible of experience, you increase your skil
 ```ad-embed-feat
 title: Crossbow Terror, Feat 6
 collapse: closed
-# Crossbow Terror  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Archer Dedication](compendium/feats/archer-dedication-apg.md)
@@ -106,7 +100,6 @@ You are a dynamo with the crossbow. You gain a +2 circumstance bonus to damage w
 ```ad-embed-feat
 title: Double Shot, Feat 6*
 collapse: closed
-# Double Shot  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 6*  
 [fighter](rules/traits/fighter.md "Fighter Class Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 > [!pf2-note] This version of [Double Shot](compendium/feats/double-shot.md) is intended for use with the Archer Archetype. Its level has been changed accordingly.
@@ -123,7 +116,6 @@ You shoot twice in blindingly fast succession. Make two [Strikes](rules/actions/
 ```ad-embed-feat
 title: Parting Shot, Feat 6*
 collapse: closed
-# Parting Shot  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 6*  
 [fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 > [!pf2-note] This version of [Parting Shot](compendium/feats/parting-shot-apg.md) is intended for use with the Archer Archetype. Its level has been changed accordingly.
@@ -140,7 +132,6 @@ You jump back and fire a quick shot that catches your opponent off guard. You [S
 ```ad-embed-feat
 title: Running Reload, Feat 6*
 collapse: closed
-# Running Reload  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
 [ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 > [!pf2-note] This version of [Running Reload](compendium/feats/running-reload.md) is intended for use with the Archer Archetype. Its level has been changed accordingly.
@@ -156,7 +147,6 @@ You can reload your weapon on the move. You [Stride](rules/actions/stride.md), [
 ```ad-embed-feat
 title: Archer's Aim, Feat 8
 collapse: closed
-# Archer's Aim  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
 
 - **Prerequisites**: [Archer Dedication](compendium/feats/archer-dedication-apg.md)
@@ -173,7 +163,6 @@ You gain a +2 circumstance bonus to the attack roll and ignore the target's [con
 ```ad-embed-feat
 title: Triple Shot, Feat 8*
 collapse: closed
-# Triple Shot  *Feat 8*  
 [fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 > [!pf2-note] This version of [Triple Shot](compendium/feats/triple-shot.md) is intended for use with the Archer Archetype. Its level has been changed accordingly.
@@ -189,7 +178,6 @@ You can quickly fire multiple shots with greater control. When you use Double Sh
 ```ad-embed-feat
 title: Mobile Shot Stance, Feat 10*
 collapse: closed
-# Mobile Shot Stance  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
 [fighter](rules/traits/fighter.md "Fighter Class Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
 
 > [!pf2-note] This version of [Mobile Shot Stance](compendium/feats/mobile-shot-stance.md) is intended for use with the Archer Archetype. Its level has been changed accordingly.
@@ -205,7 +193,6 @@ Your shots become nimble and deadly. While you're in this stance, your ranged [S
 ```ad-embed-feat
 title: Multishot Stance, Feat 18*
 collapse: closed
-# Multishot Stance  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 18*  
 [fighter](rules/traits/fighter.md "Fighter Class Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
 
 > [!pf2-note] This version of [Multishot Stance](compendium/feats/multishot-stance.md) is intended for use with the Archer Archetype. Its level has been changed accordingly.

@@ -17,23 +17,23 @@ aliases: ["Death's Slumber Ward"]
 A whirlwind of four ephemeral, magical threads dispels the undead and shrouds the living in an endless slumber.
 
 - **Disable** DC 23 [Religion](compendium/skills.md#Religion) (expert) or DC 21 [Performance](compendium/skills.md#Performance) (trained) to dissipate one of the four threads. Characters who failed or critically failed a [Performance](compendium/skills.md#Performance) check to participate in Grandfather Eiwa's funeral in Chapter 1 have been able to reflect on the experience; these characters gain a +2 circumstance bonus to their [Performance](compendium/skills.md#Performance) checks to disable this trap. The trap is destroyed when all four threads are dissipated.  
-     
+
 ```ad-embed-ability
-title: Breath of Pharasma [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[divine](rules/traits/divine.md "Divine Tradition Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
+title: **Breath of Pharasma** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([divine](rules/traits/divine.md), [necromancy](rules/traits/necromancy.md))
 
 - **Trigger**: A living or undead creature opens the trunk
 
 **Effect** The ephemeral winds rise, sapping energy. All living and undead creatures within 60 feet must succeed at a DC 22 Will save or become [slowed](rules/conditions.md#Slowed) ([slowed](rules/conditions.md#Slowed) on a critical failure). The trap then rolls initiative.  
-%% #trait/divine #trait/necromancy %%
+%%
+ #trait/divine  #trait/necromancy 
+%%
 ```
 
 ```ad-pf2-summary
 title: Routine
+
 (4 actions) Each thread of energy passes through a random living or undead creature within 60 feet, dealing `4d6` damage (DC 22 basic Will save) to the creature.
-
 A thread deals negative damage to living creatures and positive damage to undead creatures. Each thread passes through a different random creature, if possible.
-
 Each dissipated thread reduces the trap's number of actions by 1.
 ```
 ^routine

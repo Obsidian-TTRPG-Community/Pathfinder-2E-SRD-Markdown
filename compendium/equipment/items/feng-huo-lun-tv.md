@@ -19,10 +19,12 @@ aliases: ["Feng Huo Lun"]
 
 - **Price** 2 gp
 - **Bulk** L
-- **Damage** `1d4` S
+  - **Damage**: `1d4` S
 - **Hands** 1
 - **Category** Advanced; **Group** Knife 
 
 Also known as wind and fire wheels, these large, flat steel rings feature several protruding blades typically stylized to resemble flames.
 
+
+---
 *Source: Treasure Vault p. 25*

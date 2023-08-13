@@ -15,9 +15,9 @@ aliases: ["Cracked Earth"]
 This 20-foot-by-20-foot patch of ground is cobwebbed with cracks and fissures that crumble when a creature steps on it.
 
 - **Disable** DC 16 [Survival](compendium/skills.md#Survival) (untrained) to collapse safely; DC 20 [Crafting](compendium/skills.md#Crafting) (trained) to shore it up enough to pass over without collapsing it  
-     
+
 ```ad-embed-ability
-title: Long Fall [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Long Fall** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature steps onto the cracked earth
 

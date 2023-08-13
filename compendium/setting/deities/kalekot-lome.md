@@ -19,7 +19,7 @@ aliases: ["Kalekot", "The Winnower"]
 
 - **Category**: Mwangi Gods
 - **Anathema**: abuse someone you have accepted power over, allow a victim to escape due to gloating, snivel before authority, shout
-- **Areas of Concern**: fear, , silence, , safekeeping, , the reviled
+- **Areas of Concern**: fear, silence, safekeeping, the reviled
 - **Follower Alignments**: [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
@@ -38,6 +38,7 @@ When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Ka
 title: [Avatar](compendium/spells/avatar.md) of Kalekot
 
 - **Speed**: Speed 70 feet, ignore difficult terrain and greater difficult terrain
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") ivory fangs ([fatal <d10>](rules/traits/fatal-d10.md "Fatal Weapon Trait"), [reach <10 feet>](rules/traits/reach-10-feet.md "Reach Weapon Trait")), **Damage** `6d6+6` piercing
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") whisper of unmaking **Damage** `6d6+3` slashing
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") ivory fangs (, [fatal <d10>](rules/traits/fatal-d10.md "Fatal Weapon Trait"), [reach <10 feet>](rules/traits/reach-10-feet.md "Reach Weapon Trait")), **Damage** `6d6+6` piercing 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") whisper of unmaking (), **Damage** `6d6+3` slashing 
 ```

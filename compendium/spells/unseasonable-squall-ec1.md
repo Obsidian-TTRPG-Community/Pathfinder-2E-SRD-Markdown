@@ -13,11 +13,11 @@ aliases: ["Unseasonable Squall"]
 # Unseasonable Squall *Spell 3*   
 [air](rules/traits/air.md "Air Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**60 foot
-- **Area**20-foot burst
-- **Duration**until the start of your next turn
+- **Range**: 60 foot
+- **Area**: 20-foot burst
+- **Duration**: until the start of your next turn
 
 You issue a blast of sudden wind that ripples outward from the center of the burst. The wind extinguishes small non-magical fires, disperses fog and mist, scatters objects of light Bulk or less, and pushes unsecured objects of 1 Bulk or less 5 feet away from the spell's origin point. Each Medium or smaller creature in the area when you [Cast the Spell](rules/actions/cast-a-spell.md) or that moves into spell's area must attempt a Fortitude saving throw.
 

@@ -16,8 +16,8 @@ aliases: ["Wronged Monk's Wrath"]
 [electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") to [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Area**5-foot emanation or more
-- **Saving Throw** Reflex
+- **Area**: 5-foot emanation or more
+- **Saving Throw**: Reflex
 
 You unleash your ki as a powerful storm of force and lightning, dealing `2d6` force damage and `2d12` electricity damage to creatures in the area. If you use 2 actions to cast the spell, increase the size of the emanation to 10 feet and the damage to `3d6` force damage and `3d12` electricity damage. If you use 3 actions to cast the spell, increase the size of the emanation to 20 feet and the damage to `4d6` force and `4d12` electricity damage. Each creature attempts one basic Reflex save that applies to both types of damage On a failed save, the creature is [deafened](rules/conditions.md#Deafened) for 1 round; on a critical failure, the creature also takes `2d12` [persistent electricity damage](rules/conditions.md#Persistent%20Damage) and is [deafened](rules/conditions.md#Deafened) for 1 minute.
 

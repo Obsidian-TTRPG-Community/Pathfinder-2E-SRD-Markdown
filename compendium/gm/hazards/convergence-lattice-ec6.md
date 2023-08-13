@@ -19,14 +19,12 @@ A complex clockwork of bright metal and delicately carved gemstones, the lattice
 
 - **Disable** DC 40 [Thievery](compendium/skills.md#Thievery) (master) or DC 35 [Religion](compendium/skills.md#Religion) (master) four times to obliterate each of the four key runes. A DC 45 [Thievery](compendium/skills.md#Thievery) (legendary) check (or breaking the lattice) stops the clockwork's movement and prevents it from resetting, but doesn't stop its current activation.  
 
-- **AC** 45 , **Fort** +33, **Ref** +28
+- **AC** 45, **Fort** +33, **Ref** +28
 - **Hardness** 30, **HP** 460 (BT 230)
 - **Immunities** object immunities (except mental effects)
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Begin Convergence [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Begin Convergence** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature that is not [controlled](rules/conditions.md#Controlled) by the convergence lattice sees it
 
@@ -35,8 +33,8 @@ title: Begin Convergence [R](rules/core-rulebook/chapter-9-playing-the-game.md#A
 
 ```ad-pf2-summary
 title: Routine
-(3 actions) The convergence lattice uses its first action to call for aid. Each convergent creature within 100 feet of the lattice [Strides](rules/actions/stride.md) toward the lattice as a reaction.
 
+(3 actions) The convergence lattice uses its first action to call for aid. Each convergent creature within 100 feet of the lattice [Strides](rules/actions/stride.md) toward the lattice as a reaction.
 Creatures thus called continue to move toward the lattice on their turn each round until they are adjacent to it, at which point they defend it with their lives. The lattice uses its second action to deal `16d6` mental damage (DC 42 basic Will save) to a non-convergent creature within 100 feet. This damage is nonlethal; a creature knocked out by this damage doesn't gain the [dying](rules/conditions.md#Dying) condition and is automatically [controlled](rules/conditions.md#Controlled) by the convergence lattice when they awaken. The lattice uses its third action to make the same attack against a second non-convergent creature within 100 feet; if there isn't such a second creature, it doesn't take its third action.
 ```
 ^routine

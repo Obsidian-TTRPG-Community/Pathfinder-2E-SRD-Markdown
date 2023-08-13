@@ -12,12 +12,12 @@ aliases: ["Positive Attunement"]
 # Positive Attunement *Spell 3*   
 [healing](rules/traits/healing.md "Healing Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Targets**1 living or undead creature
-- **Saving Throw** Will
-- **Duration**sustained up to 1 minute
+- **Range**: touch
+- **Targets**: 1 living or undead creature
+- **Saving Throw**: Will
+- **Duration**: sustained up to 1 minute
 
 You attune a creature to the Positive Energy Plane, connecting its life force without fully transporting it. The creature's appearance becomes more brightly colored. If the creature is living, it heals `1d8` Hit Points immediately and at the end of each of your turns. Effects that increase healing only increase the initial healing.
 

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
-- item/category/consumable
+- item/category/consumable/
 - trait/alchemical
 - trait/auditory
 - trait/consumable
@@ -16,9 +16,8 @@ aliases: ["Owlbear Egg"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 - **Price** 60 gp
-- **Usage** held in 1 hand; **Bulk** L
+- **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Consumable
 
 Not only are owlbear eggs delicious when boiled, but when infused with a mix of alchemical reagents, they also make you emit a long screech much like an owlbear's. All creatures in a 30-foot emanation must attempt a DC 23 Will save. Regardless of the result, creatures in the area are temporarily immune to this screech for 1 minute.
 
@@ -28,4 +27,6 @@ Not only are owlbear eggs delicious when boiled, but when infused with a mix of 
 > - **Failure** The creature is [frightened](rules/conditions.md#Frightened).
 > - **Critical Failure** The creature is [frightened](rules/conditions.md#Frightened) and [fleeing](rules/conditions.md#Fleeing) for 1 round.
 
+
+---
 *Source: Treasure Vault p. 50*

@@ -12,10 +12,10 @@ aliases: ["Summon Irii"]
 # Summon Irii *Spell 8*   
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [incarnate](rules/traits/incarnate-som.md "Incarnate Spell Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**100 foot
-- **Duration**until the start of your next turn
+- **Range**: 100 foot
+- **Duration**: until the start of your next turn
 
 You cast your spell, whisper your words of power, and find that an irii is already here—indeed, they have always been here, and always were, and always will be. The temporal being occupies the space of a Medium creature and has a Speed of 60 feet and a fly Speed of 60 feet. When you Cast this Spell, choose whether it summons a fate irii or a fortune irii.
 

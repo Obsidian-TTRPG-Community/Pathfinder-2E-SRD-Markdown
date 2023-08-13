@@ -31,7 +31,6 @@ Whether you're smashing someone over the head with a bar stool, tossing a mug of
 ```ad-embed-feat
 title: Weapon Improviser Dedication, Feat 2
 collapse: closed
-# Weapon Improviser Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: trained in all martial weapons
@@ -47,7 +46,6 @@ You don't take the normal –2 penalty to attack rolls with improvised weapons. 
 ```ad-embed-feat
 title: Improvised Pummel, Feat 4
 collapse: closed
-# Improvised Pummel  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Weapon Improviser Dedication](compendium/feats/weapon-improviser-dedication-apg.md)
@@ -65,7 +63,6 @@ At 12th level, your item bonus to the attack roll increases to +2 instead of +1,
 ```ad-embed-feat
 title: Surprise Strike, Feat 6
 collapse: closed
-# Surprise Strike  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Weapon Improviser Dedication](compendium/feats/weapon-improviser-dedication-apg.md)
@@ -79,7 +76,6 @@ Whenever you make a [Strike](rules/actions/strike.md) with an improvised weapon 
 ```ad-embed-feat
 title: Improvised Critical, Feat 8
 collapse: closed
-# Improvised Critical  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Weapon Improviser Dedication](compendium/feats/weapon-improviser-dedication-apg.md)
@@ -93,7 +89,6 @@ You can apply critical specialization effects to improvised weapons you wield. F
 ```ad-embed-feat
 title: Makeshift Strike, Feat 8
 collapse: closed
-# Makeshift Strike  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Weapon Improviser Dedication](compendium/feats/weapon-improviser-dedication-apg.md)
@@ -108,7 +103,6 @@ You quickly snatch up whatever's nearby and then attack with it as an improvised
 ```ad-embed-feat
 title: Shattering Strike, Feat 10
 collapse: closed
-# Shattering Strike  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Improvised Pummel](compendium/feats/improvised-pummel-apg.md)

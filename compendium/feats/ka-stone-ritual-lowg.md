@@ -17,9 +17,11 @@ You inscribe your true name on your ka stone, as well as oaths to gods and phara
 The ka stone grants you a +1 item bonus to saves against [death](rules/traits/death.md "Death Effect Trait") effects and [negative](rules/traits/negative.md "Negative Energy & Element Trait") effects, which increases to +2 at 8th level, +3 at 14th level, and +4 at 20th level.
 
 ```ad-embed-ability
-title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
+title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") envision, or a different activation if otherwise specified
 
-You cast [enlarge](compendium/spells/enlarge.md) on yourself or use one of the other activated abilities granted by a later [Living Monolith](compendium/character/archetypes/living-monolith-lowg.md) feat.
+- **Frequency**: a number of times each day equal to the number of class feats you have from the [Living Monolith](compendium/character/archetypes/living-monolith-lowg.md) archetype
+
+**Effect** You cast [enlarge](compendium/spells/enlarge.md) on yourself or use one of the other activated abilities granted by a later [Living Monolith](compendium/character/archetypes/living-monolith-lowg.md) feat.
 ```
 
 ## Ka Stone Ritual leads to...

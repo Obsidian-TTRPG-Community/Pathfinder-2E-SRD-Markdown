@@ -12,11 +12,13 @@ aliases: ["Atlatl"]
 
 - **Price** 2 sp
 - **Bulk** 1
-- **Damage** `1d6` P
-- **Range** 60 ft.; **Reload** 1
+  - **Damage**: `1d6` P
+  - **Range** 60 ft.; **Reload** 1
 - **Hands** 1
 - **Category** Simple; **Group** Dart 
 
 Atlatls are long, narrow pieces of shaped wood or antler used as levers to hurl darts faster and farther than would otherwise be possible. An atlatl uses darts as ammunition.
 
+
+---
 *Source: Treasure Vault p. 30*

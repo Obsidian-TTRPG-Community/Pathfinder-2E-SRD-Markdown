@@ -10,12 +10,12 @@ aliases: ["Implosion"]
 # Implosion *Spell 9*   
 [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 corporeal creature
-- **Saving Throw**  basic Fortitude
-- **Duration**sustained up to 1 minute
+- **Range**: 30 foot
+- **Targets**: 1 corporeal creature
+- **Saving Throw**:  basic Fortitude
+- **Duration**: sustained up to 1 minute
 
 You crush the target by causing it to collapse in on itself, dealing 75 damage. The first time you [Sustain this Spell](rules/actions/sustain-a-spell.md) each round, you must choose a new target to be subject to the same effect; the same creature can never be targeted more than once with a single casting of this spell. You also can't affect more than one creature per turn with implosion. You can't target a creature that's incorporeal, gaseous, or liquid, or one that otherwise lacks a solid form.
 

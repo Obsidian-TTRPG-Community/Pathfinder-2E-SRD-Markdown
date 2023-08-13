@@ -15,10 +15,10 @@ aliases: ["Localized Quake"]
 # Localized Quake *Focus 4*   
 [cleric](rules/traits/cleric.md "Cleric Class Trait")  [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains**: [earth](compendium/setting/domains.md#Earth)
+- **Domains** [earth](compendium/setting/domains.md#Earth)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Area**15-foot emanation or 15-foot cone
-- **Saving Throw** Reflex
+- **Area**: 15-foot emanation or 15-foot cone
+- **Saving Throw**: Reflex
 
 You shake the earth, toppling nearby creatures. Choose whether the spell's area is a 15-foot emanation or a 15-foot cone when you cast it. Each creature in the area standing on solid ground may take `4d6` bludgeoning damage and must attempt a Reflex saving throw.
 

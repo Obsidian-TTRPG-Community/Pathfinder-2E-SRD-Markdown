@@ -10,9 +10,10 @@ aliases: ["Retrocognition"]
 # Retrocognition *Spell 7*   
 [divination](rules/traits/divination.md "Divination School Trait")  
 
-- **Traditions**: [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 1 minute 
-- **Duration**sustained
+- 
+- **Duration**: sustained
 
 Opening your mind to occult echoes, you gain impressions from past events that occurred in your current location.
 

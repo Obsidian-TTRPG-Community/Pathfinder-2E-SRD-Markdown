@@ -17,8 +17,8 @@ aliases: ["Establish Nexus"]
 - **Secondary Casters** 2
 - **Primary Checks** [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), or [Religion](compendium/skills.md#Religion) based on the ley line (master)
 - **Secondary Checks** [Ley Line Lore](compendium/skills.md#Lore) or [Occultism](compendium/skills.md#Occultism)
-- **Range**10 feet
-- **Targets**1 ley line node up to double establish nexus's level
+- **Range**: 10 feet
+- **Targets**: 1 ley line node up to double establish nexus's level
 
 You focus the power of the node's intersecting ley lines into a powerful confluent point known as a ley line nexus.
 

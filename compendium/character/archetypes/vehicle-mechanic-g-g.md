@@ -16,7 +16,6 @@ You might be part of a vehicle mechanic union, working with other mechanics and 
 ```ad-embed-feat
 title: Vehicle Mechanic Dedication, Feat 2
 collapse: closed
-# Vehicle Mechanic Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: Intelligence 14, trained in [Crafting](compendium/skills.md#Crafting)
@@ -34,7 +33,6 @@ You can spend 1 week of downtime with a new vehicle to designate it as your sign
 ```ad-embed-feat
 title: Engine Bay, Feat 4
 collapse: closed
-# Engine Bay  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Vehicle Mechanic Dedication](compendium/feats/vehicle-mechanic-dedication-g-g.md), expert in [Crafting](compendium/skills.md#Crafting)
@@ -50,7 +48,6 @@ This feat has no effect when using [Quick Repair](compendium/feats/quick-repair.
 ```ad-embed-feat
 title: Patch Job, Feat 4
 collapse: closed
-# Patch Job  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Vehicle Mechanic Dedication](compendium/feats/vehicle-mechanic-dedication-g-g.md)
@@ -64,7 +61,6 @@ You can patch up damage to an object with a quick fix. You gain the Improvised R
 ```ad-embed-feat
 title: Superior Propulsion, Feat 6
 collapse: closed
-# Superior Propulsion  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Vehicle Mechanic Dedication](compendium/feats/vehicle-mechanic-dedication-g-g.md)
@@ -92,7 +88,6 @@ Wind The draft of the wind helps the vehicle turn. During this movement, your si
 ```ad-embed-feat
 title: Efficient Controls, Feat 7
 collapse: closed
-# Efficient Controls  *Feat 7*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Vehicle Mechanic Dedication](compendium/feats/vehicle-mechanic-dedication-g-g.md), master in [Crafting](compendium/skills.md#Crafting)
@@ -106,7 +101,6 @@ By reducing redundant systems and streamlining essential functions, you have mad
 ```ad-embed-feat
 title: Impervious Vehicle, Feat 8
 collapse: closed
-# Impervious Vehicle  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Vehicle Mechanic Dedication](compendium/feats/vehicle-mechanic-dedication-g-g.md)
@@ -122,7 +116,6 @@ Your signature vehicle gains a +1 circumstance bonus to AC and Fortitude saves, 
 ```ad-embed-feat
 title: Miraculous Flight, Feat 18*
 collapse: closed
-# Miraculous Flight  *Feat 18*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 > [!pf2-note] This version of [Miraculous Flight](compendium/feats/miraculous-flight-g-g.md) is intended for use with the Vehicle Mechanic Archetype. Its level has been changed accordingly.

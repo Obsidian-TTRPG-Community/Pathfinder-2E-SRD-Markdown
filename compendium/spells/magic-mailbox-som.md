@@ -12,11 +12,11 @@ aliases: ["Magic Mailbox"]
 # Magic Mailbox *Spell 4*   
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 1 hour 
-- **Range**touch
-- **Targets**2 containers, each no larger than 5 feet in any dimension
-- **Duration**until your next daily preparations
+- **Range**: touch
+- **Targets**: 2 containers, each no larger than 5 feet in any dimension
+- **Duration**: until your next daily preparations
 
 You create an interdimensional link between two containers, both of which must be capable of being closed in such a way that their contents aren't visible. If both containers are left closed for 10 consecutive minutes, the contents of each one, totaling no more than 3 Bulk of nonliving, non-magical material per container, transport to the other's location. If a container's contents total more than 3 Bulk, the transport fails.
 

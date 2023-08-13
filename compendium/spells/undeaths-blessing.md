@@ -15,10 +15,10 @@ aliases: ["Undeath's Blessing"]
 
 - **Bloodline** Sorcerer
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**touch
-- **Targets**1 living creature touched
-- **Saving Throw** Will
-- **Duration**1 minute
+- **Range**: touch
+- **Targets**: 1 living creature touched
+- **Saving Throw**: Will
+- **Duration**: 1 minute
 
 You instill within a creature the touch of the grave. For the duration, [harm](compendium/spells/harm.md) and [heal](compendium/spells/heal.md) spells treat the creature as undead. In addition, [harm](compendium/spells/harm.md) spells gain a +2 status bonus to the Hit Points restored to the target.
 

@@ -18,24 +18,24 @@ A ceiling-mounted launcher rains resinous needles onto intruders, after which th
 
 - **Disable** [Thievery](compendium/skills.md#Thievery) (DC 36) to disable some firing mechanisms, making three adjacent squares in the trapped area safe to enter.  
 
-- **AC** 39 , **Fort** +30, **Ref** +22
+- **AC** 39, **Fort** +30, **Ref** +22
 - **Hardness** 26, **HP** 104 (BT 52)
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Needle Rain [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[attack](rules/traits/attack.md "Attack Combat Trait")  
+title: **Needle Rain** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([attack](rules/traits/attack.md))
 
 - **Trigger**: A creature moves into the area indicated on the map
 
 **Effect** The trap shoots an acidic needle at a random target in the area indicated on the map, then rolls initiative.  
-%% #trait/attack %%
+%%
+ #trait/attack 
+%%
 ```
 
 ```ad-pf2-summary
 title: Routine
+
 (3 actions) The acidic needle launcher fires a needle at a random target in the area indicated on the map.
 ```
 ^routine

@@ -15,9 +15,9 @@ aliases: ["Methane Flue"]
 [Invisible](rules/conditions.md#Invisible) but highly flammable natural gas has built up beneath the ground, where geological pressure can ignite it.
 
 - **Disable** [Survival](compendium/skills.md#Survival) DC 28 to dig around the vent in a way that diffuses the fumes  
-     
+
 ```ad-embed-ability
-title: Flame Spurt [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Flame Spurt** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature moves within 5 feet of the flue
 

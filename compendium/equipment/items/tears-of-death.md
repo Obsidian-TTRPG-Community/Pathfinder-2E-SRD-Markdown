@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/crb
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/contact
@@ -15,9 +15,8 @@ aliases: ["Tears of Death"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [contact](rules/traits/contact.md "Contact Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [virulent](rules/traits/virulent.md "Virulent Item Trait")  
 
 - **Price** 12000 gp
-- **Usage** held in 2 hands; **Bulk** L
+- **Bulk** L; **Usage** held in 2 hands
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 Tears of death are among the most powerful of alchemical poisons, distilled from extracts of five other deadly poisons in just the right ratios.
 
@@ -36,4 +35,6 @@ title: Saving Throw: DC 46 Fortitude
 **Stage 3** `30d6` poison damage and [paralyzed](rules/conditions.md#Paralyzed) (1 minute)
 ```
 
+
+---
 *Source: Core Rulebook p. 553*

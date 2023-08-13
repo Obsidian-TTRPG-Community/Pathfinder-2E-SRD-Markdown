@@ -17,10 +17,12 @@ aliases: ["Fighting Fan"]
 
 - **Price** 11 sp
 - **Bulk** L
-- **Damage** `1d4` S
+  - **Damage**: `1d4` S
 - **Hands** 1
 - **Category** Martial; **Group** Knife 
 
 This fan is useful for elegant dances as well as for slicing unsuspecting foes with the blades along its outer edge. If used in performances, it might be disguised as a frilly accessory, or it might be an obvious, though elegant, weapon.
 
+
+---
 *Source: Treasure Vault p. 25*

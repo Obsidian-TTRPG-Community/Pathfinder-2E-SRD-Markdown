@@ -13,11 +13,11 @@ aliases: ["Tidal Surge"]
 # Tidal Surge *Focus 1*   
 [cleric](rules/traits/cleric.md "Cleric Class Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
-- **Domains**: [water](compendium/setting/domains.md#Water)
+- **Domains** [water](compendium/setting/domains.md#Water)
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**60 foot
-- **Targets**1 creature
-- **Saving Throw** Fortitude
+- **Range**: 60 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Fortitude
 
 You call forth a tremendous wave to move the target either in a body of water or on the ground. The target must attempt a Fortitude save.
 

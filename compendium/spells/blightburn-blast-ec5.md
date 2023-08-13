@@ -13,10 +13,10 @@ aliases: ["Blightburn Blast"]
 # Blightburn Blast *Spell 7*   
 [disease](rules/traits/disease.md "Disease Effect Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Area**15-foot cone
-- **Saving Throw**  basic Fortitude
+- **Area**: 15-foot cone
+- **Saving Throw**:  basic Fortitude
 
 You channel a blast of powerful blightburn radiation from your hands. You deal `4d6` poison damage to creatures in the area. Creatures who fail their save are afflicted with stage 1 of blightburn sickness (see above; on a critical failure, the creature moves immediately to stage 2). The level of blightburn sickness caused by this spell is equal to twice the spell's level, and the disease's save DC uses the caster's DC.
 

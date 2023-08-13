@@ -14,7 +14,6 @@ The warriors of Minata frequently contend with lost spirits of the Taumatan peop
 ```ad-embed-feat
 title: Ghost Eater Dedication, Feat 2
 collapse: closed
-# Ghost Eater Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: trained in [Occultism](compendium/skills.md#Occultism) or [Religion](compendium/skills.md#Religion)
@@ -30,7 +29,6 @@ You have trained as a ghost eater, a hunter specialized in the destruction of sp
 ```ad-embed-feat
 title: Reach Beyond, Feat 4
 collapse: closed
-# Reach Beyond  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Ghost Eater Dedication](compendium/feats/ghost-eater-dedication-frp1.md)
@@ -44,7 +42,6 @@ You've learned to move your spiritual energy past yourself to attack spirits whe
 ```ad-embed-feat
 title: Disrupting Strikes, Feat 6
 collapse: closed
-# Disrupting Strikes  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Ghost Eater Dedication](compendium/feats/ghost-eater-dedication-frp1.md)
@@ -61,7 +58,6 @@ If you're 14th level or higher, your [Strikes](rules/actions/strike.md) instead 
 ```ad-embed-feat
 title: Cross The Threshold, Feat 16*
 collapse: closed
-# Cross The Threshold  *Feat 16*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Cross The Threshold](compendium/feats/cross-the-threshold-frp1.md) is intended for use with the Ghost Eater Archetype. Its level has been changed accordingly.

@@ -12,10 +12,10 @@ aliases: ["Transmute Rock And Mud"]
 # Transmute Rock And Mud *Spell 5*   
 [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**60 foot
-- **Area**2 adjacent 10-foot cubes
+- **Range**: 60 foot
+- **Area**: 2 adjacent 10-foot cubes
 
 You warp the structure of earthen material, turning rock into mud or mud into rock. Choose one of these two options when you [Cast the Spell](rules/actions/cast-a-spell.md).
 

@@ -73,7 +73,7 @@ One of the reasons cathartic magic is uncommon has to do with the adjustments th
 
 In the right circumstances, a GM might introduce cathartic magic into the game without a player pursuing it first. For example, if a mind-controlled bodyguard is ordered to slay someone they vowed to protect, the GM might decide they can take the Catharsis reaction from the Cathartic Mage Dedication. Like any reaction, it still poses a choice—the player could choose not to take it. If the player enjoys this mechanical reveal, they might even want to invest feats into the [Cathartic Mage](compendium/character/archetypes/cathartic-mage-som.md) archetype.
 
-### [Cathartic Mage](compendium/character/archetypes/cathartic-mage-som.md) (Archetype)
+### Cathartic Mage (Archetype)
 <sup>SoM p. 194</sup>
 
 Emotions are powerful, and you can tap into that power to enhance your magic for a time. You learn to harness a particular emotional state under the right conditions, but be warned: emotions are volatile and destructive if left unchecked. The experience often leaves you reeling from the unhindered emotion, requiring a rest or distraction before tapping into it again.
@@ -343,7 +343,7 @@ Monks manipulate the elements within themselves to manifest magic. [Mountain Sta
 > [!pf2-sidebar] Elementalism On Golarion
 > See page 205 of Secrets of Magic
 
-### [Elementalist](compendium/character/archetypes/elementalist-som.md) (Class Archetype)
+### Elementalist (Class Archetype)
 <sup>SoM p. 206</sup>
 
 You revere the four elements—air, earth, fire, and water—as the building blocks of creation and the source of all life. You believe that by balancing, mixing, and rearranging these four elements, magic is made. This belief has led you to eschew traditional magical theories and divisions, and you instead focus on harnessing, manipulating, and shaping the four elements. You cast spells drawn from multiple traditions and can use the four elements to alter and empower your spells, making them manifest and mixing them in unique ways. Most elementalists embrace the four elements equally as a mystical quaternity, and they strengthen their connection to one of these elements each day to protect themselves from harm. Others, notably sorcerer and wizard elementalists, feel a stronger connection to a singular element that they hone to great heights, utilizing the other three elements to support and augment their favored element.
@@ -382,7 +382,7 @@ Flexible spellcasting wizards—who sometimes prefer to use the more generic ter
 
 ![Flexible Spellcaster Spells per Day](rules/tables/flexible-spellcaster-spells-per-day-som.md)
 
-### [Flexible Spellcaster](compendium/character/archetypes/flexible-spellcaster-som.md) (Class Archetype)
+### Flexible Spellcaster (Class Archetype)
 <sup>SoM p. 209</sup>
 
 You've learned how to cast spells flexibly, blending the best elements of spontaneous and prepared spellcasting at the cost of casting fewer spells each day.
@@ -486,7 +486,7 @@ Wetlands cultivate teeming life, though many of the organisms that thrive in swa
 
 Places beneath the surface of the world are home to countless secrets, from the caves just under the surface to deep, dark caverns of progressively increasing mystery and alien splendor. Twisting tunnels block sight but provide ghostly echoes, revealing distant truths to those who can interpret them. Geomancers feel the pull of the mysterious knowledge held deep in the earth, tracing through the ground as surely as mineral veins. Geomancers tap into this force to learn the answers to enigmas long forgotten to those on the surface.
 
-### [Geomancer](compendium/character/archetypes/geomancer-som.md) (Archetype)
+### Geomancer (Archetype)
 <sup>SoM p. 212</sup>
 
 You know how to draw power from the land around you, no matter the terrain, by attuning your magic to match its mystical properties.
@@ -612,8 +612,8 @@ collapse: closed
 - **Secondary Casters** 6
 - **Primary Checks** [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), or [Religion](compendium/skills.md#Religion), matching the ley line's tradition (legendary)
 - **Secondary Checks** [Ley Line Lore](compendium/skills.md#Lore) or [Occultism](compendium/skills.md#Occultism)
-- **Range**10 feet
-- **Targets**1 ley line or ley line node up to double this ritual's level
+- **Range**: 10 feet
+- **Targets**: 1 ley line or ley line node up to double this ritual's level
 
 You draw upon surrounding magical energy to empower a ley line, enhancing both its [positive](rules/traits/positive.md "Positive Energy & Element Trait") and [negative](rules/traits/negative.md "Negative Energy & Element Trait") effects.
 
@@ -641,8 +641,8 @@ collapse: closed
 - **Secondary Casters** 2
 - **Primary Checks** [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), or [Religion](compendium/skills.md#Religion) based on the ley line (master)
 - **Secondary Checks** [Ley Line Lore](compendium/skills.md#Lore) or [Occultism](compendium/skills.md#Occultism)
-- **Range**10 feet
-- **Targets**1 ley line node up to double establish nexus's level
+- **Range**: 10 feet
+- **Targets**: 1 ley line node up to double establish nexus's level
 
 You focus the power of the node's intersecting ley lines into a powerful confluent point known as a ley line nexus.
 
@@ -1004,13 +1004,14 @@ Shadow familiars use these additional familiar abilities. A shadowcaster, howeve
 **Shadow Step:** Your familiar gains the Shadow Step action. You must be at least 7th level to select this familiar ability for your familiar.
 
 ```ad-embed-ability
-title: Shadow Step [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [shadow](rules/traits/shadow.md "Shadow General Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  
+title: **Shadow Step** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Single Action ([>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")) ([conjuration](rules/traits/conjuration.md), [shadow](rules/traits/shadow.md), [teleportation](rules/traits/teleportation.md))
 
 - **Requirements**: The familiar is in dim light or darkness.
 
 **Effect** The familiar teleports itself up to 30 feet. The destination must be in dim light or darkness and must be within your familiar's line of sight and line of effect. This action has the trait matching your tradition of magic, or [occult](rules/traits/occult.md "Occult Tradition Trait") if you aren't a spellcaster.  
-%% #trait/conjuration #trait/shadow #trait/teleportation %%
+%%
+ #trait/conjuration  #trait/shadow  #trait/teleportation 
+%%
 ```
 
 ## Soul Seeds

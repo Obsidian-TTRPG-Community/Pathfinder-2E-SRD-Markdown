@@ -17,8 +17,8 @@ aliases: ["Awaken Animal"]
 - **Secondary Casters** 3
 - **Primary Checks** [Nature](compendium/skills.md#Nature) (master)
 - **Secondary Checks** [Lore](compendium/skills.md#Lore) (any), [Society](compendium/skills.md#Society), [Survival](compendium/skills.md#Survival)
-- **Range**10 feet
-- **Targets**1 animal of up to the level on [Table 7–1](rules/tables/creature-creation-rituals.md)
+- **Range**: 10 feet
+- **Targets**: 1 animal of up to the level on [Table 7–1](rules/tables/creature-creation-rituals.md)
 
 You grant intelligence to the target, transforming it into a beast. If it was previously an animal companion or minion, it can no longer serve as one.
 

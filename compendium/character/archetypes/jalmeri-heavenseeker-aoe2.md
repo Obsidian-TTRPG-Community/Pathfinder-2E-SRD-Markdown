@@ -14,7 +14,6 @@ Certain martial artists dedicate themselves to fighting in Jalmeray's Challenge 
 ```ad-embed-feat
 title: Jalmeri Heavenseeker Dedication, Feat 4
 collapse: closed
-# Jalmeri Heavenseeker Dedication  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: trained by a current or former member of a House of Perfection
@@ -31,7 +30,6 @@ Your skill and dedication have set you on a path to master the techniques of Jal
 ```ad-embed-feat
 title: Heaven's Thunder, Feat 6
 collapse: closed
-# Heaven's Thunder  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  verbal  
 
 - **Prerequisites**: [Jalmeri Heavenseeker Dedication](compendium/feats/jalmeri-heavenseeker-dedication-aoe2.md)
@@ -50,7 +48,6 @@ If you also know the [ki blast](compendium/spells/ki-blast.md) ki spell, you can
 ```ad-embed-feat
 title: Sky And Heaven Stance, Feat 6
 collapse: closed
-# Sky And Heaven Stance  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
 
 - **Prerequisites**: [Jalmeri Heavenseeker Dedication](compendium/feats/jalmeri-heavenseeker-dedication-aoe2.md)
@@ -68,7 +65,6 @@ While in Sky and Heaven Stance, you gain resistance 2 to electricity and resista
 ```ad-embed-feat
 title: Skyseeker, Feat 8
 collapse: closed
-# Skyseeker  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [open](rules/traits/open.md "Open Combat Trait")  
 
 - **Prerequisites**: [Sky and Heaven Stance](compendium/feats/sky-and-heaven-stance-aoe2.md)
@@ -86,7 +82,6 @@ All Leaps made during this activity gain a +10-foot status bonus to the total he
 ```ad-embed-feat
 title: Steal The Sky, Feat 10
 collapse: closed
-# Steal The Sky  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Jalmeri Heavenseeker Dedication](compendium/feats/jalmeri-heavenseeker-dedication-aoe2.md)
@@ -100,7 +95,6 @@ You can take away the air that keeps a flying foe aloft. You gain the [steal the
 ```ad-embed-feat
 title: Speaking Sky, Feat 12*
 collapse: closed
-# Speaking Sky  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Speaking Sky](compendium/feats/speaking-sky-aoe2.md) is intended for use with the Jalmeri Heavenseeker Archetype. Its level has been changed accordingly.
@@ -116,7 +110,6 @@ You can hear air movement like soft whispers. You gain the [speaking sky](compen
 ```ad-embed-feat
 title: Cross The Final Horizon, Feat 20*
 collapse: closed
-# Cross The Final Horizon  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 20*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  
 
 > [!pf2-note] This version of [Cross The Final Horizon](compendium/feats/cross-the-final-horizon-aoe2.md) is intended for use with the Jalmeri Heavenseeker Archetype. Its level has been changed accordingly.

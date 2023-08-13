@@ -16,8 +16,8 @@ aliases: ["Terminate Bloodline"]
 - **Secondary Casters** 3
 - **Primary Checks** [Occultism](compendium/skills.md#Occultism) (master)
 - **Secondary Checks** [Society](compendium/skills.md#Society)
-- **Range**10 miles
-- **Targets**1 creature of a level no greater than double the _terminate bloodline_ ritual's level
+- **Range**: 10 miles
+- **Targets**: 1 creature of a level no greater than double the _terminate bloodline_ ritual's level
 
 Mighty drow noble houses, including House Shraen, use this ritual to stamp out fledgling noble houses before they rise to power. At the ritual's completion, you place a contagious wasting disease upon the target creature with the intention of ending their familial bloodline.
 
@@ -28,8 +28,6 @@ Every member of an infected creature's immediate family (blood relationship or p
 ````ad-embed-affliction
 title: Dying Bloodline, _Disease 1_
 collapse: closed
-# Dying Bloodline
-*Disease 1*  
 [curse](rules/traits/curse.md "Curse Effect Trait")  [disease](rules/traits/disease.md "Disease Effect Trait")  
 
 Failing or critically failing this disease's Fortitude save causes the disease to progress to the next stage as normal; however, succeeding or critically succeeding at the save has no effect. The disease can be removed only by first successfully counteracting the curse and then counteracting the disease.

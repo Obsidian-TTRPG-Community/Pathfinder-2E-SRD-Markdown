@@ -16,10 +16,10 @@ aliases: ["Consuming Darkness"]
 
 - **Bloodline** Sorcerer
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Area**10-foot emanation
-- **Targets**enemies in the area
-- **Saving Throw** Reflex
-- **Duration**sustained up to 1 minute
+- **Area**: 10-foot emanation
+- **Targets**: enemies in the area
+- **Saving Throw**: Reflex
+- **Duration**: sustained up to 1 minute
 
 Your shadow wriggles before spreading out from you, forming a gateway of clinging, consuming shadow through which the horrors of another plane can barely be seen. The first time each turn you [Sustain the Spell](rules/actions/sustain-a-spell.md), the radius increases by 5 feet.
 

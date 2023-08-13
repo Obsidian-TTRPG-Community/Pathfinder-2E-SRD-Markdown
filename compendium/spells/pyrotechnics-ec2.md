@@ -12,12 +12,12 @@ aliases: ["Pyrotechnics"]
 # Pyrotechnics *Spell 3*   
 [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**120 foot
-- **Targets**1 fire
-- **Saving Throw** Fortitude
-- **Duration**sustained up to 1 minute
+- **Range**: 120 foot
+- **Targets**: 1 fire
+- **Saving Throw**: Fortitude
+- **Duration**: sustained up to 1 minute
 
 You turn a fire into either a burst of blinding fireworks or a thick cloud of choking smoke, chosen when you [Cast the Spell](rules/actions/cast-a-spell.md). The spell targets one fire source, which is immediately extinguished if it is a non-magical fire the size of a campfire or smaller. If the fire source is a creature, the creature takes `1d6` points of cold damage and is not extinguished.
 

@@ -13,12 +13,12 @@ aliases: ["Tame"]
 # Tame *Cantrip 1*   
 [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions**: [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**10 foot
-- **Targets**1 non-[hostile](rules/conditions.md#Hostile) domesticated animal
-- **Saving Throw** Will
-- **Duration**1 minute
+- **Range**: 10 foot
+- **Targets**: 1 non-[hostile](rules/conditions.md#Hostile) domesticated animal
+- **Saving Throw**: Will
+- **Duration**: 1 minute
 
 As you make comforting sounds and gestures, you approach the target in a [friendly](rules/conditions.md#Friendly) manner combining caution and confidence. You improve the target's attitude to you by one step ([unfriendly](rules/conditions.md#Unfriendly) to neutral, neutral to [friendly](rules/conditions.md#Friendly), [friendly](rules/conditions.md#Friendly) to [helpful](rules/conditions.md#Helpful)) for the duration of the spell unless it succeeds at a Will save. Afterward, the target is temporarily immune for 1 day.
 

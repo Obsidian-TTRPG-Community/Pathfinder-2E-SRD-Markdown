@@ -14,10 +14,12 @@ aliases: ["Rapier"]
 
 - **Price** 2 gp
 - **Bulk** 1
-- **Damage** `1d6` P
+  - **Damage**: `1d6` P
 - **Hands** 1
 - **Category** Martial; **Group** Sword 
 
 The rapier is a long and thin piercing blade with a basket hilt. It is prized among many as a dueling weapon.
 
+
+---
 *Source: Core Rulebook p. 281*

@@ -17,8 +17,9 @@ Choose two ability boosts. One must be to Dexterity or Constitution, and one is 
 You're trained in the [Undead Lore](compendium/skills.md#Lore) skill. You gain the Final Spite reaction.
 
 ```ad-embed-ability
-title: Final Spite [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Final Spite** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
+- **Frequency**: once per day
 - **Trigger**: You're reduced to 0 Hit Points
 
 **Effect** You make a [Strike](rules/actions/strike.md) before falling [unconscious](rules/conditions.md#Unconscious).

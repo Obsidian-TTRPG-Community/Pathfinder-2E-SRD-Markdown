@@ -17,24 +17,24 @@ The wall bulges out in the shape of a howling humanoid face as it twists and for
 
 - **Disable** DC 17 [Occultism](compendium/skills.md#Occultism) (trained) to weaken the spirit, DC 18 [Athletics](compendium/skills.md#Athletics) (trained) to force the spirit's face back inside the wall, or DC 19 [Diplomacy](compendium/skills.md#Diplomacy) (trained) to talk down the spirit; two total successes across all skills are required to disable the haunt  
 
-- **AC** 15 , **Fort** +11, **Ref** +5
+- **AC** 15, **Fort** +11, **Ref** +5
 - **Hardness** 9 (wall); **HP** 30 (BT 15)
 - **Immunities** object immunities
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Gasp [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
+title: **Gasp** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([enchantment](rules/traits/enchantment.md), [fear](rules/traits/fear.md), [mental](rules/traits/mental.md), [occult](rules/traits/occult.md))
 
 - **Trigger**: A creature moves adjacent to the wall where the corpse is entombed
 
 **Effect** The spirit gasps and wails for aid while the wall takes on the shape of its face and roils, growing tendrils. All creatures within 10 feet must succeed at a DC 18 Will save or be [frightened](rules/conditions.md#Frightened) for as long as the haunt remains active. The haunt then rolls initiative  
-%% #trait/enchantment #trait/fear #trait/mental #trait/occult %%
+%%
+ #trait/enchantment  #trait/fear  #trait/mental  #trait/occult 
+%%
 ```
 
 ```ad-pf2-summary
 title: Routine
+
 (3 actions) The spirit attempts to [Grapple](rules/actions/grapple.md) up to two creatures within 10 feet with a +14 [Athletics](compendium/skills.md#Athletics) modifier, then squeezes each creature it has [grabbed](rules/conditions.md#Grabbed), dealing `1d10+4` damage. The haunt doesn't apply a multiple attack penalty to the second attempt to [Grapple](rules/actions/grapple.md).
 ```
 ^routine

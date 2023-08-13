@@ -17,15 +17,13 @@ Four massive skulls of aurochs, enormous wild cattle, rise into the air, each tr
 
 - **Disable** DC 36 [Nature](compendium/skills.md#Nature) (master) to calm one of the four aurochs or DC 40 [Religion](compendium/skills.md#Religion) (trained) to exorcise them  
 
-- **AC** 40 , **Fort** +23, **Ref** +29
-- **Hardness** 25, ; **per aurochs skull HP** 20
+- **AC** 40, **Fort** +23, **Ref** +29
+- **Hardness** 25; **per aurochs skull HP** 20
 - **Immunities** death effects; [disease](rules/traits/disease.md "Disease Effect Trait"); paralyzed; [poison](rules/traits/poison.md "Poison Effect Trait")
-- **Resistances** 
 - **Weaknesses** positive 5
-     
+
 ```ad-embed-ability
-title: Defend Territory [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[emotion](rules/traits/emotion.md "Emotion Effect Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
+title: **Defend Territory** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([emotion](rules/traits/emotion.md), [fear](rules/traits/fear.md), [mental](rules/traits/mental.md), [occult](rules/traits/occult.md))
 
 - **Trigger**: A creature approaches within 10 feet of an aurochs skull
 
@@ -36,17 +34,18 @@ title: Defend Territory [R](rules/core-rulebook/chapter-9-playing-the-game.md#Ac
 > - **Success** The creature is [frightened](rules/conditions.md#Frightened).
 > - **Failure** The creature takes `1d12+6` mental damage and is [frightened](rules/conditions.md#Frightened).
 > - **Critical Failure** The creature takes `2d12+12` mental damage and is [frightened](rules/conditions.md#Frightened).  
-%% #trait/emotion #trait/fear #trait/mental #trait/occult %%
+%%
+ #trait/emotion  #trait/fear  #trait/mental  #trait/occult 
+%%
 ```
 
 ````ad-pf2-summary
 title: Routine
-(4 actions) For each aurochs skull disabled or destroyed, the haunt has 1 fewer action. On each action, a different aurochs moves up to 60 feet and attempts a horn [Strike](rules/actions/strike.md) against a different living creature. A creature critically hit by a horn [Strike](rules/actions/strike.md) also takes `2d6` [persistent bleed damage](rules/conditions.md#Persistent%20Damage) and is knocked [prone](rules/conditions.md#Prone).
 
+(4 actions) For each aurochs skull disabled or destroyed, the haunt has 1 fewer action. On each action, a different aurochs moves up to 60 feet and attempts a horn [Strike](rules/actions/strike.md) against a different living creature. A creature critically hit by a horn [Strike](rules/actions/strike.md) also takes `2d6` [persistent bleed damage](rules/conditions.md#Persistent%20Damage) and is knocked [prone](rules/conditions.md#Prone).
 ```ad-inline-attack
 title: Melee [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Horn
 **Damage** `3d12+17` piercing 
- 
 **Effects**
 ```
 ````

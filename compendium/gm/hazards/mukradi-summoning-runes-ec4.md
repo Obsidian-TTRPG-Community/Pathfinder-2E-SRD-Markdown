@@ -18,15 +18,16 @@ aliases: ["Mukradi Summoning Runes"]
 Barely visible runes are etched into the stone floor in a 20-foot diameter circle.
 
 - **Disable** DC 36 [Acrobatics](compendium/skills.md#Acrobatics) to approach without triggering the trap followed by DC 34 [Occultism](compendium/skills.md#Occultism) (expert) or DC 38 Thievery(master) to erase the rune, or dispel magic (8th level; counteract DC 34) to counteract the rune..  
-     
+
 ```ad-embed-ability
-title: Summon Monster [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  summon  
+title: **Summon Monster** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([conjuration](rules/traits/conjuration.md), [occult](rules/traits/occult.md), summon)
 
 - **Trigger**: A creature enters the circle without uttering the passphrase, "Praise to the Water Lizard"
 
 **Effect** The trap summons a mukradi (Bestiary 239). The mukradi rolls initiative and remains for 1 minute, after which the spell ends and the mukradi disappears. The mukradi also disappears if someone disables the trap before the duration expires. The mukradi can use 3 actions each round and can use reactions, unlike most summoned creatures.  
-%% #trait/conjuration #trait/occult #trait/summon %%
+%%
+ #trait/conjuration  #trait/occult  #trait/summon 
+%%
 ```
 
 **Reset** The trap resets at the first high tide of each day.  

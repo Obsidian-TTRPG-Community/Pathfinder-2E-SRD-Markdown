@@ -17,10 +17,12 @@ aliases: ["Bladed Scarf"]
 
 - **Price** 3 gp
 - **Bulk** 1
-- **Damage** `1d6` S
+  - **Damage**: `1d6` S
 - **Hands** 2
 - **Category** Martial; **Group** Flail 
 
 The thin metal plates interwoven throughout this long scarf turn a fashion accessory into a deadly weapon.
 
+
+---
 *Source: Treasure Vault p. 25*

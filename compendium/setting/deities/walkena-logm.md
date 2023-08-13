@@ -37,6 +37,7 @@ When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Wa
 title: [Avatar](compendium/spells/avatar.md) of Walkena
 
 - **Speed**: Speed 60 feet, [air walk](compendium/spells/air-walk.md)
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") holy spear ([reach <20 feet>](rules/traits/reach-20-feet.md "Reach Weapon Trait"), [versatile <fire>](rules/traits/versatile-fire.md "Versatile Weapon Trait")), **Damage** `6d12+6` piercing
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") sunfire **Damage** `6d6+6` fire
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") holy spear (, [reach <20 feet>](rules/traits/reach-20-feet.md "Reach Weapon Trait"), [versatile <fire>](rules/traits/versatile-fire.md "Versatile Weapon Trait")), **Damage** `6d12+6` piercing 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") sunfire (), **Damage** `6d6+6` fire 
 ```

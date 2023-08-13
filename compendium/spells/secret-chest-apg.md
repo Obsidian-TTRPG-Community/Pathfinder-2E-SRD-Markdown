@@ -10,10 +10,10 @@ aliases: ["Secret Chest"]
 # Secret Chest *Spell 5*   
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 1 minute 
-- **Range**touch
-- **Targets**1 container and its contents, totaling 10
+- **Range**: touch
+- **Targets**: 1 container and its contents, totaling 10
 
 Bulk or less Duration until the next time you make your daily preparations You banish a container and its contents to the Ethereal Plane, where you can retrieve it from later. The container's physical properties—the material from which it is made, any locks, or other features—are irrelevant to the casting of this spell, but the container can't contain any creatures. When you [Cast this Spell](rules/actions/cast-a-spell.md), the container and all its contents are transported to a random location deep in the Ethereal Plane. Time passes normally for the container and its contents, and the environmental effects of the Ethereal Plane apply to it. Though very unlikely, it's possible for a creature on the Ethereal Plane to stumble upon the chest.
 

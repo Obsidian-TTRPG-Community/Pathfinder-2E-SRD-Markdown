@@ -15,6 +15,7 @@ aliases: ["Ravenous Reanimation"]
 - **Cast** 1 day
 - **Cost** valuable treasures from the target dragon's hoard worth a total value of 50,000 gp
 - **Primary Checks** [Arcana](compendium/skills.md#Arcana) (master), [Occultism](compendium/skills.md#Occultism) (master), or [Religion](compendium/skills.md#Religion) (master)
+- 
 - **Requirements**: You must be an evil dragon.
 
 You destroy the gathered treasures with your breath weapon or other powerful magic, then invoke necromantic energies before you feed upon the charred and melted remains. As you do so, negative energy courses through your flesh, automatically killing you. Each individual ravener's _ravenous reanimation_ requires three to five unique additional components. Whether or not you return as a ravener depends on the success of the ritual.

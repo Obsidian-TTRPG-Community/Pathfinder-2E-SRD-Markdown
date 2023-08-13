@@ -17,14 +17,12 @@ A [hidden](rules/conditions.md#Hidden) string connected to precariously stacked 
 
 - **Disable** [Thievery](compendium/skills.md#Thievery) DC 20 to cut the string without setting off the trap.  
 
-- **AC** 25 , **Fort** +0, **Ref** +0
-- **HP** 1; **default Hardness** 0, 
+- **AC** 25, **Fort** +0, **Ref** +0
+- **HP** 1; **default Hardness** 0
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Collapse [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Collapse** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature touches the sickle in the cubby
 

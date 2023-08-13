@@ -16,14 +16,12 @@ The tunnel collapses, filling the passage with stone.
 
 - **Disable** DC 25 [Survival](compendium/skills.md#Survival) (trained) to prop up the tunnel ceiling without triggering a collapse  
 
-- **AC** 21 , **Fort** +14, **Ref** +14
+- **AC** 21, **Fort** +14, **Ref** +14
 - **Hardness** 13, **HP** 46 (BT 23)
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Collapse [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Collapse** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature moves into the unstable tunnel
 

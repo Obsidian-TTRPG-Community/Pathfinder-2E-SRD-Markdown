@@ -16,20 +16,19 @@ aliases: ["Dance of Death"]
 An eerie orchestra compels all who hear it to dance until they collapse from exhaustion.
 
 - **Disable** DC 42 [Intimidation](compendium/skills.md#Intimidation) (expert) three times to frighten dancers and spectral musicians alike away from participating in the deadly performance, DC 40 [Performance](compendium/skills.md#Performance) (master) twice to produce a tune discordant enough to disrupt the compulsion, or DC 42 [Religion](compendium/skills.md#Religion) (master) three times to banish the spirits with prayers  
-     
+
 ```ad-embed-ability
-title: Prelude [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
+title: **Prelude** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([auditory](rules/traits/auditory.md), [enchantment](rules/traits/enchantment.md), [incapacitation](rules/traits/incapacitation.md), [occult](rules/traits/occult.md))
 
 - **Trigger**: A creature approaches within 30 feet of the orchestra
 
 **Effect** The orchestra compels all creatures that can hear it to begin dancing. Each creature must attempt a  
-%% #trait/auditory #trait/enchantment #trait/incapacitation #trait/occult %%
+%%
+ #trait/auditory  #trait/enchantment  #trait/incapacitation  #trait/occult 
+%%
 ```
 ```ad-embed-ability
-title: DC 41
-
-Will save, with the following effects.
+title: **DC 41** Will save, with the following effects.
 
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
@@ -40,10 +39,9 @@ Will save, with the following effects.
 
 ```ad-pf2-summary
 title: Routine
+
 (1 action; auditory, enchantment, incapacitation, occult) The orchestra performs a raucous tune, compelling all creatures that can hear it to spend actions dancing.
-
 Each round, creature must attempt a DC 37 Will save; the results of this save modify the number of actions that the creature must spend dancing each round. If this would cause the creature to spend more actions dancing than it can use on its turn, the creature takes `10d6` damage (or double that on a critical failure) from moving faster than its body can manage.
-
 > [!success-degree] 
 > - **Critical Success** The creature decreases the number of actions it must spend dancing by 1.
 > - **Success** No effect.

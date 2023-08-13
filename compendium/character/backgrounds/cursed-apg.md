@@ -18,8 +18,9 @@ Choose two ability boosts. One must be to Intelligence or Charisma, and one is a
 You are trained in [Occultism](compendium/skills.md#Occultism) and [Curse Lore](compendium/skills.md#Lore). You gain the Warding Sign reaction. You and the GM should determine the full effects of the curse, though you've staved most of them off for now. The GM determines the curse's lingering manifestations on you, which usually include at least a constant or very frequent thematic effect and occasional more dangerous effects.
 
 ```ad-embed-ability
-title: Warding Sign [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Warding Sign** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") concentrate
 
+- **Frequency**: once per minute
 - **Trigger**: You attempt a saving throw against a [magical](rules/traits/magical.md "Magical Item Trait") effect, but you haven't rolled yet
 
 **Effect** You call on the power of a personal, eldritch sign of protection, which flares brightly before slowly fading. You gain a +2 circumstance bonus to the triggering saving throw, or a +3 circumstance bonus if the effect is a curse.

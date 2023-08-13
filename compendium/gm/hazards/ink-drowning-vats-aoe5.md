@@ -18,14 +18,11 @@ Steel hatch doors automatically lock shut in each of the four vats labeled J2. F
 
 - **Disable** DC 40 [Thievery](compendium/skills.md#Thievery) (master) to seal an ink spout, DC 48 [Thievery](compendium/skills.md#Thievery) (master) to unlock a steel hatch door, or DC 45 [Athletics](compendium/skills.md#Athletics) (master) to [Force Open](rules/actions/force-open.md) a steel hatch door.  
 
-- **AC** 39 , **Fort** +30, **Ref** +27
+- **AC** 39, **Fort** +30, **Ref** +27
 - **Door Hardness** 22, **Door HP** 112 (BT 56)
-- **Immunities** 
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Fill Tank [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Fill Tank** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: The switch outside the vats is pulled
 
@@ -34,22 +31,16 @@ title: Fill Tank [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "
 
 ````ad-pf2-summary
 title: Routine
-(4 actions) The trap loses 1 action for each disabled ink spout. On each of the trap's actions, a spout pours ink, increasing the depth of the ink in that vat by 2 feet. Creatures standing in the ink are exposed to a dose of poison ink. Once the vat is full of ink, the trap stops using actions, but creatures in the vat might start drowning.
 
+(4 actions) The trap loses 1 action for each disabled ink spout. On each of the trap's actions, a spout pours ink, increasing the depth of the ink in that vat by 2 feet. Creatures standing in the ink are exposed to a dose of poison ink. Once the vat is full of ink, the trap stops using actions, but creatures in the vat might start drowning.
 ```ad-inline-affliction
 title: Poison Ink
-
 [poison](rules/traits/poison.md "Poison Effect Trait")  
 - **Saving Throws**: DC 38 Fortitude
 - **Maximum Duration**: 10 rounds
-
 ## Stages
-
 **Stage 1** `3d6` poison damage and [sickened](rules/conditions.md#Sickened) (1 round)
-
 **Stage 2** `4d6` poison damage and [sickened](rules/conditions.md#Sickened) (1 round)
-
-
 %% #trait/poison %%
 ```
 ````

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/gmg
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/drug
@@ -14,9 +14,8 @@ aliases: ["Alcohol"]
 # Alcohol *Item 0*  
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [drug](rules/traits/drug-gmg.md "Drug Item Trait")  [ingested](rules/traits/ingested.md "Ingested Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
-- **Usage** held in 1 hand; **Bulk** L
+- **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 Alcohol is a common substance available in stunning variety. The Price of a dose of alcohol depends on the specific beverage. You can't recover from the [sickened](rules/conditions.md#Sickened) condition from alcohol while affected.
 
@@ -44,4 +43,6 @@ title: Saving Throw: DC 12 Fortitude
 **Stage 7** death
 ```
 
+
+---
 *Source: Gamemastery Guide p. 120*

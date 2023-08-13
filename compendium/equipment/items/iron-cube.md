@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/crb
-- item/category/talisman
+- item/category/talisman/
 - trait/consumable
 - trait/evocation
 - trait/magical
@@ -14,12 +14,13 @@ aliases: ["Iron Cube"]
 [consumable](rules/traits/consumable.md "Consumable Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  
 
 - **Price** 50 gp
-- **Usage** affixed to a weapon; **Bulk** —
+- **Bulk** —; **Usage** affixed to a weapon
 - **Activate** [Knockdown](compendium/feats/knockdown.md); **Requirements** You are an expert with the affixed weapon.
-- **Category** Talisman
 
 This cube of blackened iron is affixed to a weapon with an iron chain. When you activate the cube, you use [Knockdown](compendium/feats/knockdown.md), as the fighter feat.
 
 If you have the [Knockdown](compendium/feats/knockdown.md) feat, ignore its normal size restrictions.
 
+
+---
 *Source: Core Rulebook p. 567*

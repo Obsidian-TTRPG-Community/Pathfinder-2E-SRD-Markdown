@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/gmg
-- item/category/artifact
+- item/category/artifact/
 - trait/artifact
 - trait/evocation
 - trait/magical
@@ -15,22 +15,24 @@ aliases: ["Philosopher's Extractor"]
 [artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Bulk** 8
-- **Category** Artifact
 
 This bizarre machine is a complex arrangement of flasks, tubes, and other alchemical equipment. The philosopher's extractor is designed to create the ultimate alchemical concoctions.
 
 The extractor functions as an exceptional set of [alchemist's tools](compendium/equipment/items/alchemists-tools.md), granting a +4 item bonus to [Crafting](compendium/skills.md#Crafting) checks related to alchemy. When using the extractor to [Craft](rules/actions/craft.md) an alchemical item or with infused reagents as part of your daily preparations, you can create impeccable alchemical items. An impeccable alchemical item always uses the maximum numerical value possible for any rolls it requires, such as dealing maximum damage with alchemist's fire or restoring the maximum number of Hit Points with an elixir of life. If the impeccable item has a duration, it lasts twice as long as normal. Finally, an impeccable alchemical item never has a drawback.
 
 ```ad-embed-ability
-title: Activate [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")
+title: **Activate** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") [Interact](rules/actions/interact.md)
 
-You use the extractor to produce an alchemical item of your level or lower whose formula you know. The extractor can create 56 levels' worth of items per day in this way.
+- **Frequency**: once per minute
+
+**Effect** You use the extractor to produce an alchemical item of your level or lower whose formula you know. The extractor can create 56 levels' worth of items per day in this way.
 
 For example, the extractor could create two true elixirs of life (19th level) and two moderate elixirs of life (9th level), or eight comprehension elixirs (7th level), and so on.
 ```
 
 ```ad-embed-ability
-title: Activate [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Duration or Frequency")
+title: **Activate** [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Duration or Frequency") 1 hour ([Interact](rules/actions/interact.md))
+
 
 You take a sizable portion of a creature (at least two-thirds of its original mass) and filter it through the mechanisms of the extractor. After the end of the process, the philosopher's extractor creates a transmogrifying mutagen that imparts the essence of the creature to the drinker. The extractor can make several transmogrifying mutagens simultaneously using the same activation if enough mass is provided at once, up to a maximum of 10 concurrent mutagens. Drinking a transmogrifying mutagen imparts you with one of the creature's unique abilities for 1 hour. This could grant one of several abilities such as a dragon's Breath Weapon, [darkvision](rules/abilities/darkvision.md), flight, [frightful presence](rules/abilities/frightful-presence.md), or immunity to sleep. The ability functions as it did for the original creature, except it uses your class DC or your spell DC (whichever is higher) instead of the creature's DC.
 
@@ -41,4 +43,6 @@ Unlike normal for mutagens and [polymorph](rules/traits/polymorph.md "Polymorph 
 However, these additional benefits come with a risk; if you drink a transmogrifying mutagen while at least one other is active, after drinking it, you must succeed at a flat check with a DC equal to the total number of active transmogrifying mutagens you've consumed. On a failure, you fully transform into a member of the species of the latest transmogrifying mutagen you drank, and you almost always go berserk from your change. The transformation may leave some amount of your personality and memories intact, at the GM's discretion.
 ```
 
+
+---
 *Source: Gamemastery Guide p. 111*

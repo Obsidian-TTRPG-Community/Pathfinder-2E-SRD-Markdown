@@ -15,7 +15,7 @@ aliases: ["Assassin Dedication"]
 You've trained to assassinate your foes, and you do so with tenacity and precision. You gain the Mark for Death activity.
 
 ```ad-embed-ability
-title: Mark for Death [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")
+title: **Mark for Death** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")
 
 - **Requirements**: You can see and hear the creature you intend to mark
 

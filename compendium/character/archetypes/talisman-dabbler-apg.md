@@ -14,7 +14,6 @@ The classic idea of magic is that of a hoary wizard, poring over a crumbling boo
 ```ad-embed-feat
 title: Talisman Dabbler Dedication, Feat 2
 collapse: closed
-# Talisman Dabbler Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 
@@ -35,7 +34,6 @@ Finally, when you [Affix a Talisman](rules/actions/affix-a-talisman.md), you can
 ```ad-embed-feat
 title: Quick Fix, Feat 4
 collapse: closed
-# Quick Fix  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Talisman Dabbler Dedication](compendium/feats/talisman-dabbler-dedication-apg.md)
@@ -53,7 +51,6 @@ You gain the ability to [Affix a Talisman](rules/actions/affix-a-talisman.md) as
 ```ad-embed-feat
 title: Deeper Dabbler, Feat 8
 collapse: closed
-# Deeper Dabbler  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Talisman Dabbler Dedication](compendium/feats/talisman-dabbler-dedication-apg.md)
@@ -69,7 +66,6 @@ With some streamlining to your process and a deeper collection of talisman mater
 ```ad-embed-feat
 title: Talismanic Sage, Feat 14*
 collapse: closed
-# Talismanic Sage  *Feat 14*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Talismanic Sage](compendium/feats/talismanic-sage-apg.md) is intended for use with the Talisman Dabbler Archetype. Its level has been changed accordingly.

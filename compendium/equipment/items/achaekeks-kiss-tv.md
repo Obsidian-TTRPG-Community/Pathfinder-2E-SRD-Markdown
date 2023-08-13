@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/injury
@@ -16,9 +16,8 @@ aliases: ["Achaekek's Kiss"]
 
 - **Access** member of the Red Mantis assassins
 - **Price** 13000 gp
-- **Usage** held in 2 hands; **Bulk** L
+- **Bulk** L; **Usage** held in 2 hands
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 Kept as a closely guarded secret by the deadly members of the Red Mantis assassins, this poison is treated with reverence for its ability to end lives. If the victim dies while affected by this poison, its body decomposes to nothing in 1 minute, leaving only its gear behind. Non-magical preservation can't protect the tainted corpse. Gentle repose works on the poisoned body only if cast as a 5th-level spell and the caster succeeds at a counteract check against the poison's saving throw DC when casting the spell. Even if cast successfully, gentle repose only works as if it had been cast at 2nd level.
 
@@ -36,4 +35,6 @@ title: Saving Throw: DC 42 Fortitude
 **Stage 3** `11d12` poison damage and [doomed](rules/conditions.md#Doomed) (1 round)
 ```
 
+
+---
 *Source: Treasure Vault p. 66*

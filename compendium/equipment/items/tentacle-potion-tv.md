@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
-- item/category/potion
+- item/category/potion/
 - trait/consumable
 - trait/magical
 - trait/potion
@@ -13,9 +13,8 @@ aliases: ["Tentacle Potion"]
 # Tentacle Potion *Item 6+*  
 [consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [potion](rules/traits/potion.md "Potion Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Usage** held in 1 hand; **Bulk** L
+- **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Potion
 
 Upon consuming this mottled, foul-tasting liquid, the tentacle potion causes you to extrude a long, flexible limb of ectoplasm.
 
@@ -23,4 +22,24 @@ Your clothing doesn't need to accommodate this limb of ghostly matter, which can
 
 If you have the Flexible Tail or Skillful Tail feats, the Tailed Goblin heritage, or a similar feature the GM believes would benefit, this potion can instead fortify your tail. A fortified tail benefits from any tentacle potion as if the potion were the next better type.
 
+---
+### Variants
+
+#### lesser *Item 6*
+
+- **Price**: 33 gp
+
+#### moderate *Item 10*
+
+- **Price**: 155 gp
+
+As lesser, but you can use the limb to hold an item of up to light Bulk. You can also use the whole limb to hold onto a suitable anchor point, such as a tree branch, balcony, or rocky outcropping, subject to the GM's discretion. While using your limb this way, you have free use of all your other limbs, so you can perform tasks that require both hands. This potion lasts 8 hours.
+
+#### greater *Item 14*
+
+- **Price**: 660 gp
+
+As moderate, but the tail can hold an item of up to 1 Bulk or be used as a second hand to help hold an item of up to 2 Bulk. You can also use the limb to make an unarmed attack that deals `1d6` bludgeoning damage and has the [sweep](rules/traits/sweep.md "Sweep Weapon Trait") trait. This potion lasts 24 hours.
+
+---
 *Source: Treasure Vault p. 91*

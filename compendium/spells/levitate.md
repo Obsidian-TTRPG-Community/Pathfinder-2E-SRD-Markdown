@@ -10,11 +10,11 @@ aliases: ["Levitate"]
 # Levitate *Spell 3*   
 [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Targets**1 unattended object or willing creature
-- **Duration**5 minutes
+- **Range**: touch
+- **Targets**: 1 unattended object or willing creature
+- **Duration**: 5 minutes
 
 You defy gravity and levitate the target 5 feet off the ground.
 

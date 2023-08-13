@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/lomm
-- item/category/artifact
+- item/category/artifact/
 - trait/artifact
 - trait/evocation
 - trait/magical
@@ -13,8 +13,7 @@ aliases: ["Spear of the Destroyer's Flame"]
 # Spear of the Destroyer's Flame *Item 20*  
 [artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
-- **Usage** held in 2 hands; **Bulk** 3
-- **Category** Artifact
+- **Bulk** 3; **Usage** held in 2 hands
 
 The tip of this longspear is edged with several razor-sharp obsidian blades. The spear has the thrown 30 feet weapon trait, in addition to the normal weapon traits for a longspear.
 
@@ -27,15 +26,21 @@ The Army of Fire has unwavering loyalty to the Commander of Flame, an individual
 If the Commander of Flame doesn't hold the Spear of the Destroyer's Flame for 1 week, it returns to Cuetzmonquali's gut, instantly teleporting to the creature's location. If Cuetzmonquali is dead at this time, the spear also resurrects the creature, using the effects of a critical success on a 10th-level [resurrect](compendium/spells/rituals/resurrect.md) ritual.
 
 ```ad-embed-ability
-title: Activate [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Duration or Frequency")
+title: **Activate** [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Duration or Frequency") 1 minute envision, [Interact](rules/actions/interact.md)
 
-You attempt to tie your soul to the spear. If the current Commander of Flame still lives, you must attempt either a Will save, [Diplomacy](compendium/skills.md#Diplomacy) check, [Intimidation](compendium/skills.md#Intimidation) check, or [Warfare Lore](compendium/skills.md#Lore) check. The DC of this check is equal to the current Commander's Will DC, Diplomacy DC, Intimidation DC, or Warfare Lore DC, whichever is highest. On a success, you become the Commander of Flame. On a failure, the current Commander knows your name and appearance and is aware of your exact location for 24 hours.
+- **Frequency**: once per day
+
+**Effect** You attempt to tie your soul to the spear. If the current Commander of Flame still lives, you must attempt either a Will save, [Diplomacy](compendium/skills.md#Diplomacy) check, [Intimidation](compendium/skills.md#Intimidation) check, or [Warfare Lore](compendium/skills.md#Lore) check. The DC of this check is equal to the current Commander's Will DC, Diplomacy DC, Intimidation DC, or Warfare Lore DC, whichever is highest. On a success, you become the Commander of Flame. On a failure, the current Commander knows your name and appearance and is aware of your exact location for 24 hours.
 ```
 
 ```ad-embed-ability
-title: Activate [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Duration or Frequency")
+title: **Activate** [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Duration or Frequency") 1 hour envision, [Interact](rules/actions/interact.md)
 
-You use the spear's power to muster the Army of Fire. You can choose to either call the Army of Fire to your location or move yourself to the army's location. When calling the army, you select an area you can see within 500 feet. The army is instantly teleported to the location you select, spreading out as necessary to arrive safely. When moving yourself, you instantly teleport yourself to a location within 500 feet of the army. The army is composed of souls given form as burning humanoids, elementals, spirits, and undead.
+- **Frequency**: once per week
+
+**Effect** You use the spear's power to muster the Army of Fire. You can choose to either call the Army of Fire to your location or move yourself to the army's location. When calling the army, you select an area you can see within 500 feet. The army is instantly teleported to the location you select, spreading out as necessary to arrive safely. When moving yourself, you instantly teleport yourself to a location within 500 feet of the army. The army is composed of souls given form as burning humanoids, elementals, spirits, and undead.
 ```
 
+
+---
 *Source: Lost Omens: Monsters of Myth p. 16*

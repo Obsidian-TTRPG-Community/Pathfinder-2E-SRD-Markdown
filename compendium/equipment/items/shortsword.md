@@ -14,10 +14,12 @@ aliases: ["Shortsword"]
 
 - **Price** 9 sp
 - **Bulk** L
-- **Damage** `1d6` P
+  - **Damage**: `1d6` P
 - **Hands** 1
 - **Category** Martial; **Group** Sword 
 
 These blades come in a variety of shapes and styles, but they are typically 2 feet long.
 
+
+---
 *Source: Core Rulebook p. 281*

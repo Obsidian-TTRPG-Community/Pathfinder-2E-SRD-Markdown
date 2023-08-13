@@ -13,12 +13,12 @@ aliases: ["Weaponize Secret"]
 # Weaponize Secret *Focus 4*   
 [cleric](rules/traits/cleric.md "Cleric Class Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Domains**: [secrecy (apocryphal)](compendium/setting/domains.md#Secrecy)
+- **Domains** [secrecy (apocryphal)](compendium/setting/domains.md#Secrecy)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**60 foot
-- **Targets**up to 3 creatures
-- **Saving Throw** Will
-- **Duration**1 minute
+- **Range**: 60 foot
+- **Targets**: up to 3 creatures
+- **Saving Throw**: Will
+- **Duration**: 1 minute
 
 You understand that holding a secret is in itself a kind of power. Each target must attempt a Will save.
 

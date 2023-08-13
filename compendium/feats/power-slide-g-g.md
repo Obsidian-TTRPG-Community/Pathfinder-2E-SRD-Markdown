@@ -9,7 +9,7 @@ tags:
 - trait/skill
 aliases: ["Power Slide"]
 ---
-# Power Slide  [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies") *Feat 4*  
+# Power Slide  [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies") Varies ([>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") TO [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")) *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [move](rules/traits/move.md "Move Combat Trait")  [reckless](rules/traits/reckless-gmg.md "Reckless Action & Ability Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Trick Driver Dedication](compendium/feats/trick-driver-dedication-g-g.md)

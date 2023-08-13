@@ -16,15 +16,16 @@ aliases: ["The Laughing Fiend's Greeting"]
 Subtle but deadly magical runes link this mural to Kharnas's master. Good- or neutral-aligned creatures who examine the mural witness the castle's drawbridge silently descend, revealing an endless darkness.
 
 - **Disable** DC 44 [Thievery](compendium/skills.md#Thievery) (legendary) to obscure or mar the magical runes set into the mural, or dispel magic (9th level; counteract DC 42) to counteract the mural.  
-     
+
 ```ad-embed-ability
-title: Tegresin's Greeting [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[illusion](rules/traits/illusion.md "Illusion School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
+title: **Tegresin's Greeting** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([illusion](rules/traits/illusion.md), [occult](rules/traits/occult.md))
 
 - **Trigger**: A creature capable of casting divine magic examines the mural
 
 **Effect** The mural casts weird (DC 43 Will save) on all creatures in the gallery. A snarl fills the creatures' minds.  
-%% #trait/illusion #trait/occult %%
+%%
+ #trait/illusion  #trait/occult 
+%%
 ```
 
 **Reset** 1 week.  

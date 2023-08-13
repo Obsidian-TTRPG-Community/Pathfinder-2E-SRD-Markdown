@@ -16,9 +16,9 @@ aliases: ["Shrinking Hall"]
 This hallway is designed to shrink as creatures traverse it, making access to the door at the hall's end impossible.
 
 - **Disable** DC 21 [Thievery](compendium/skills.md#Thievery) (trained) to jam the scales built into the floor  
-     
+
 ```ad-embed-ability
-title: Shrink [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Shrink** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: 100 pounds of weight or more is placed on the hallway's floor
 

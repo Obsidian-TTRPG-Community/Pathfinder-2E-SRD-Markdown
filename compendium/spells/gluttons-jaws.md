@@ -15,7 +15,8 @@ aliases: ["Glutton's Jaws"]
 
 - **Bloodline** Sorcerer
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Duration**1 minute
+- 
+- **Duration**: 1 minute
 
 Your mouth transforms into a shadowy maw bristling with pointed teeth. These jaws are an unarmed attack with the [forceful](rules/traits/forceful.md "Forceful Weapon Trait") trait dealing `1d8` piercing damage. If you hit with your jaws and deal damage, you gain `1d6` temporary Hit Points.
 

@@ -14,7 +14,6 @@ The rune magic of Thassilon and its descendant nations has left its mark on your
 ```ad-embed-feat
 title: Runescarred Dedication, Feat 2
 collapse: closed
-# Runescarred Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: You are from the Saga Lands.
@@ -33,7 +32,6 @@ Choose one cantrip from the arcane list. One of the runes on your body correspon
 ```ad-embed-feat
 title: Spell Runes, Feat 4
 collapse: closed
-# Spell Runes  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Runescarred Dedication](compendium/feats/runescarred-dedication-lowg.md)
@@ -47,7 +45,6 @@ The magical runes on your body grant you several magical abilities. Choose a 1st
 ```ad-embed-feat
 title: Living Rune, Feat 6
 collapse: closed
-# Living Rune  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Runescarred Dedication](compendium/feats/runescarred-dedication-lowg.md)
@@ -61,7 +58,6 @@ You've bridged a connection between the runes on your body and the magic of rune
 ```ad-embed-feat
 title: Warding Rune, Feat 6
 collapse: closed
-# Warding Rune  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Runescarred Dedication](compendium/feats/runescarred-dedication-lowg.md)
@@ -75,7 +71,6 @@ Your runes provide a warding effect that protects you against a specific school 
 ```ad-embed-feat
 title: Greater Spell Runes, Feat 10
 collapse: closed
-# Greater Spell Runes  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Runes](compendium/feats/spell-runes-lowg.md)

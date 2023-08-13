@@ -18,10 +18,12 @@ aliases: ["Wish Knife"]
 
 - **Price** 2 gp
 - **Bulk** L
-- **Damage** `1d4` P
+  - **Damage**: `1d4` P
 - **Hands** 1
 - **Category** Martial; **Group** Knife 
 
 Much like a [wish blade](compendium/equipment/items/wish-blade-loag.md), the length of this knife is scored with intricate grooves capable of retaining energy. Wish knives are lighter than their counterparts, making them the weapon of choice for agile combatants.
 
+
+---
 *Source: Lost Omens: Ancestry Guide p. 139*

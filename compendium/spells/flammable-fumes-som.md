@@ -12,11 +12,11 @@ aliases: ["Flammable Fumes"]
 # Flammable Fumes *Spell 5*   
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**120 foot
-- **Area**20-foot burst
-- **Duration**1 minute
+- **Range**: 120 foot
+- **Area**: 20-foot burst
+- **Duration**: 1 minute
 
 Sending magic deep underground, you conjure a cloud of toxic gases that swiftly degenerate into volatile fumes.
 

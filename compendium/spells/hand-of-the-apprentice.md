@@ -14,8 +14,8 @@ aliases: ["Hand Of The Apprentice"]
 [attack](rules/traits/attack.md "Attack Combat Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**500 foot
-- **Targets**1 creature
+- **Range**: 500 foot
+- **Targets**: 1 creature
 
 You hurl a held melee weapon with which you are trained at the target, making a spell attack roll. On a success, you deal the weapon's damage as if you had hit with a melee [Strike](rules/actions/strike.md), but adding your spellcasting ability modifier to damage, rather than your Strength modifier. On a critical success, you deal double damage, and you add the weapon's critical specialization effect. Regardless of the outcome, the weapon flies back to you and returns to your hand.
 

@@ -16,10 +16,12 @@ aliases: ["Clan Dagger"]
 
 - **Price** 2 gp
 - **Bulk** L
-- **Damage** `1d4` P
+  - **Damage**: `1d4` P
 - **Hands** 1
 - **Category** Simple; **Group** Knife 
 
 This broad dagger is carried by dwarves as a weapon, tool, and designation of clan. Losing or having to surrender a clan dagger is considered a mark of embarrassment to most dwarves.
 
+
+---
 *Source: Core Rulebook p. 280*

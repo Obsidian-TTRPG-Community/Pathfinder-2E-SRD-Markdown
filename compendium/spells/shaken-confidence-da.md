@@ -15,11 +15,12 @@ aliases: ["Shaken Confidence"]
 # Shaken Confidence *Focus 4*   
 [cleric](rules/traits/cleric.md "Cleric Class Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [misfortune](rules/traits/misfortune.md "Misfortune Effect Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Domains**: [confidence (apocryphal)](compendium/setting/domains.md#Confidence)
+- **Domains** [confidence (apocryphal)](compendium/setting/domains.md#Confidence)
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
-- **Trigger**An enemy within 30 feet of you critically fails an attack roll, [Perception](compendium/skills.md#Perception) check, or skill check.
-- **Saving Throw** Will
-- **Duration**varies
+- **Trigger**: An enemy within 30 feet of you critically fails an attack roll, [Perception](compendium/skills.md#Perception) check, or skill check.
+- 
+- **Saving Throw**: Will
+- **Duration**: varies
 
 You mock the target for all its failings, twisting its selfconfidence into doubt. The enemy attempts a Will saving throw.
 

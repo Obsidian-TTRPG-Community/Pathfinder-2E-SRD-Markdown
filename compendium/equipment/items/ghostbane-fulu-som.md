@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/som
-- item/category/consumable
+- item/category/consumable/
 - trait/consumable
 - trait/fulu
 - trait/magical
@@ -18,8 +18,9 @@ aliases: ["Ghostbane Fulu"]
 - **Price** 40 gp
 - **Usage** affixed to a weapon
 - **Activate** envision; **Trigger** You successfully [Strike](rules/actions/strike.md) an incorporeal creature with the weapon to which the fulu is affixed, but you haven't rolled damage.
-- **Category** Consumable
 
 This white paper fulu bears red ink and attunes a weapon to the spiritual essence of an incorporeal creature. Upon activation, the weapon gains the benefit of the [ghost touch](compendium/equipment/items/ghost-touch.md) property rune against the triggering incorporeal creature for 1 minute.
 
+
+---
 *Source: Secrets of Magic p. 160*

@@ -14,7 +14,6 @@ You're a specially trained detective for the Edgewatch guard precinct in Absalom
 ```ad-embed-feat
 title: Edgewatch Detective Dedication, Feat 2
 collapse: closed
-# Edgewatch Detective Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: Intelligence 14 or Wisdom 14
@@ -30,7 +29,6 @@ You become trained in [Society](compendium/skills.md#Society) or [Thievery](comp
 ```ad-embed-feat
 title: Sense Alignment, Feat 4
 collapse: closed
-# Sense Alignment  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [secret](rules/traits/secret.md "Secret General Trait")  
 
 - **Prerequisites**: [Edgewatch Detective Dedication](compendium/feats/edgewatch-detective-dedication-aoe1.md)
@@ -51,7 +49,6 @@ You read the body language of an intelligent creature within 30 feet and pick up
 ```ad-embed-feat
 title: Arcane Sensitivity, Feat 6
 collapse: closed
-# Arcane Sensitivity  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Edgewatch Detective Dedication](compendium/feats/edgewatch-detective-dedication-aoe1.md)
@@ -67,7 +64,6 @@ This has the effects of a 1st-level [detect magic](compendium/spells/detect-magi
 ```ad-embed-feat
 title: Bolera's Interrogation, Feat 6
 collapse: closed
-# Bolera's Interrogation  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Edgewatch Detective Dedication](compendium/feats/edgewatch-detective-dedication-aoe1.md)

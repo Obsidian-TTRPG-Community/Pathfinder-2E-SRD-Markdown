@@ -15,10 +15,12 @@ aliases: ["Kama"]
 
 - **Price** 1 gp
 - **Bulk** L
-- **Damage** `1d6` S
+  - **Damage**: `1d6` S
 - **Hands** 1
 - **Category** Martial; **Group** Knife 
 
 Similar to a sickle and used in some regions to reap grain, a kama has a short, slightly curved blade and a wooden handle.
 
+
+---
 *Source: Core Rulebook p. 281*

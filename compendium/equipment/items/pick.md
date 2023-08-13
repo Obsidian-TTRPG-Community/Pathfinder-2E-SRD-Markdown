@@ -12,10 +12,12 @@ aliases: ["Pick"]
 
 - **Price** 7 sp
 - **Bulk** 1
-- **Damage** `1d6` P
+  - **Damage**: `1d6` P
 - **Hands** 1
 - **Category** Martial; **Group** Pick 
 
 A pick designed solely for combat has a sturdy wooden shaft and a heavy, pointed head to deliver devastating blows.
 
+
+---
 *Source: Core Rulebook p. 281*

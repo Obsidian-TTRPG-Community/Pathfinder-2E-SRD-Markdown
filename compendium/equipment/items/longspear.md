@@ -12,10 +12,12 @@ aliases: ["Longspear"]
 
 - **Price** 5 sp
 - **Bulk** 2
-- **Damage** `1d8` P
+  - **Damage**: `1d8` P
 - **Hands** 2
 - **Category** Simple; **Group** Spear 
 
 This very long spear, sometimes called a pike, is purely for thrusting rather than throwing. Used by many soldiers and city watch for crowd control and defense against charging enemies, it must be wielded with two hands.
 
+
+---
 *Source: Core Rulebook p. 280*

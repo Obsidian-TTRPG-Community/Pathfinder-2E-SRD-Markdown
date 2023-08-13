@@ -16,4 +16,6 @@ aliases: ["Studded Leather"]
 
 This [leather armor](compendium/equipment/items/leather.md) is reinforced with metal studs and sometimes small metal plates, providing most of the flexibility of leather armor with more robust protection.
 
+
+---
 *Source: Core Rulebook p. 275*

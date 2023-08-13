@@ -12,10 +12,10 @@ aliases: ["Spirit Song"]
 # Spirit Song *Spell 8*   
 [force](rules/traits/force.md "Force Energy & Element Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
-- **Traditions**: [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Area**60-foot cone
-- **Saving Throw**  basic Fortitude
+- **Area**: 60-foot cone
+- **Saving Throw**:  basic Fortitude
 
 Your eldritch song sends pulsing waves of ethereal energy to attack creatures' spirits in the area, dealing `18d6` force damage. Because spirit song affects creatures' spirits, it can damage a target projecting its consciousness (such as via project image) or possessing another creature even if the target's body is elsewhere. The vibrating waves of spiritual song penetrate into, but not through, solid barriers, damaging incorporeal creatures hiding in solid objects in the area but not passing onward to damage creatures in other rooms.
 

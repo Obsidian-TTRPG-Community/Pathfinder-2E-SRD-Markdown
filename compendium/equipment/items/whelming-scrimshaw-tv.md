@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
-- item/category/curse
+- item/category/curse/
 - trait/consumable
 - trait/curse
 - trait/magical
@@ -14,9 +14,8 @@ aliases: ["Whelming Scrimshaw"]
 [consumable](rules/traits/consumable.md "Consumable Item Trait")  [curse](rules/traits/curse.md "Curse Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 - **Price** 500 gp
-- **Usage** held in 1 hand; **Bulk** L
+- **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Curse
 
 An etching of some aquatic beast dragging a figure beneath the waves adorns the ivory of a whelming scrimshaw. When you Activate this item, you break it and choose one creature within 30 feet. The target must attempt a DC 30 Fortitude save; amphibious and aquatic creatures are immune.
 
@@ -26,4 +25,6 @@ An etching of some aquatic beast dragging a figure beneath the waves adorns the 
 > - **Failure** As success, but [sickened](rules/conditions.md#Sickened).
 > - **Critical Failure** As success, but [sickened](rules/conditions.md#Sickened).
 
+
+---
 *Source: Treasure Vault p. 99*

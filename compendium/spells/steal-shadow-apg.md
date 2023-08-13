@@ -15,10 +15,10 @@ aliases: ["Steal Shadow"]
 
 - **Bloodline** Sorcerer
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**60 foot
-- **Targets**1 creature
-- **Saving Throw** Fortitude
-- **Duration**sustained up to 1 minute
+- **Range**: 60 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Fortitude
+- **Duration**: sustained up to 1 minute
 
 You steal a creature's shadow, leaving it weakened and vulnerable. The target must attempt a Fortitude save.
 

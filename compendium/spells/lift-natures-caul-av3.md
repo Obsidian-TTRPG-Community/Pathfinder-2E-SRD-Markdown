@@ -14,12 +14,12 @@ aliases: ["Lift Nature's Caul"]
 # Lift Nature's Caul *Focus 1*   
 [fear](rules/traits/fear.md "Fear Effect Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
-- **Domains**: [abomination](compendium/setting/domains.md#Abomination)
+- **Domains** [abomination](compendium/setting/domains.md#Abomination)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Area**5-foot emanation
-- **Targets**creatures in the area
-- **Saving Throw** Will
-- **Duration**varies
+- **Area**: 5-foot emanation
+- **Targets**: creatures in the area
+- **Saving Throw**: Will
+- **Duration**: varies
 
 With a wave of the hand, you cause the targets to see the world around them as if a gauzy film had been lifted away to expose the truth that lies below their perceived reality. Natural features they can see grow twisted and horrendous, structures appear distorted and ruined, and objects seem warped and alien. This alternate vision fades quickly, but the glimpse beyond the natural world lingers for the spell's duration.
 

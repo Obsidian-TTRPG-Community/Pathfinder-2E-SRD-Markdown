@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/som
-- item/category/held
+- item/category/held/
 - trait/divine
 - trait/evocation
 - trait/good
@@ -14,19 +14,19 @@ aliases: ["Anointed Waterskin"]
 [divine](rules/traits/divine.md "Divine Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [good](rules/traits/good.md "Good Alignment Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
 - **Price** 600 gp
-- **Usage** held in 1 hand; **Bulk** L
-- **Category** Held
+- **Bulk** L; **Usage** held in 1 hand
 
 This waterskin coruscates with holy energy, causing it to slowly fill itself with special blessed water unique to the item. After using any of the activations, the waterskin is empty, but slowly refills itself. It becomes full enough to use again at the next dawn.
 
 ```ad-embed-ability
-title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
+title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") command, [Interact](rules/actions/interact.md)
+
 
 You throw the anointed waterskin up to 60 feet. The water explodes out of it, with the effects of holy cascade.
 ```
 
 ```ad-embed-ability
-title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
+title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") [Interact](rules/actions/interact.md)
 
 - **Requirements**: The anointed waterskin is full
 
@@ -34,11 +34,13 @@ title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "S
 ```
 
 ```ad-embed-ability
-title: Activate [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Duration or Frequency")
+title: **Activate** [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Duration or Frequency") 1 minute command, [Interact](rules/actions/interact.md)
 
 - **Requirements**: The anointed waterskin is full
 
 **Effect** You decant the water, creating up to 10 vials of holy water. You must provide the vials.
 ```
 
+
+---
 *Source: Secrets of Magic p. 179*

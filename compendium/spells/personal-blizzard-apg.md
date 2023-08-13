@@ -14,10 +14,10 @@ aliases: ["Personal Blizzard"]
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [hex](rules/traits/hex-apg.md "Hex Combat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [witch](rules/traits/witch-apg.md "Witch Class Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**30 foot
-- **Targets**1 creature
-- **Saving Throw** Fortitude
-- **Duration**sustained up to 1 minute
+- **Range**: 30 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Fortitude
+- **Duration**: sustained up to 1 minute
 
 You summon an isolated blizzard of obscuring, scouring ice to follow your target. The target attempts a Fortitude save.
 

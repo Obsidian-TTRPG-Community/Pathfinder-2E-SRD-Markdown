@@ -16,7 +16,6 @@ If there are sapient creatures observing a combat encounter, and these onlookers
 ```ad-embed-feat
 title: Gladiator Dedication, Feat 2
 collapse: closed
-# Gladiator Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: [Impressive Performance](compendium/feats/impressive-performance.md)
@@ -34,7 +33,6 @@ At the start of a combat encounter, if you have spectators, you gain a number of
 ```ad-embed-feat
 title: Fancy Moves, Feat 4
 collapse: closed
-# Fancy Moves  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Gladiator Dedication](compendium/feats/gladiator-dedication-apg.md), expert in [Performance](compendium/skills.md#Performance)
@@ -50,7 +48,6 @@ You can use [Performance](compendium/skills.md#Performance) to [Demoralize](rule
 ```ad-embed-feat
 title: Play To The Crowd, Feat 4
 collapse: closed
-# Play To The Crowd  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
 
 - **Prerequisites**: [Gladiator Dedication](compendium/feats/gladiator-dedication-apg.md)
@@ -70,7 +67,6 @@ You show off for the crowd. Attempt a [Performance](compendium/skills.md#Perform
 ```ad-embed-feat
 title: Stage Fighting, Feat 4
 collapse: closed
-# Stage Fighting  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Gladiator Dedication](compendium/feats/gladiator-dedication-apg.md)
@@ -84,7 +80,6 @@ You pull punches to give a better show. You don't take the usual –2 circumstan
 ```ad-embed-feat
 title: Performative Weapons Training, Feat 6
 collapse: closed
-# Performative Weapons Training  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Gladiator Dedication](compendium/feats/gladiator-dedication-apg.md)
@@ -98,7 +93,6 @@ You're skilled with flashy weapons. You are trained with the [bo staff](compendi
 ```ad-embed-feat
 title: Call Your Shot, Feat 8
 collapse: closed
-# Call Your Shot  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Play to the Crowd](compendium/feats/play-to-the-crowd-apg.md)

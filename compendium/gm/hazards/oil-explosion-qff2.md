@@ -17,14 +17,12 @@ The flammable oil catches flame and explodes, burning up in a ball of fire.
 
 - **Disable** DC 25 [Survival](compendium/skills.md#Survival) (trained) or DC 23 [Crafting](compendium/skills.md#Crafting) to neutralize the oil without setting it alight  
 
-- **AC** 21 , **Fort** +14, **Ref** +14
+- **AC** 21, **Fort** +14, **Ref** +14
 - 
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Explode [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Explode** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: An open flame is brought into area A4
 

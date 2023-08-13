@@ -17,13 +17,15 @@ aliases: ["Bow Staff"]
 
 - **Price** 4 gp
 - **Bulk** 1
-- **Ranged**  
-  - **Damage** `1d6` P
+- **Ranged**:  
+  - **Damage**: `1d6` P
   - **Ammunution** arrow (10); **Range** 80 ft.; **Reload** 0
-- **Melee**  
-  - **Damage** `1d6` B
+- **Melee**:  
+  - **Damage**: `1d6` B
 - **Category** Martial
 
 The bow staff is a whipstaff with a retracting spool of wire inside a metal cap on one end and a hooked protrusion on the other. A wielder trained in the weapon's use can quickly spool and attach or detach the wire to transition the weapon between bow and staff functionality.
 
+
+---
 *Source: Treasure Vault p. 31*

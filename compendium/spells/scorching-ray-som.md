@@ -12,10 +12,10 @@ aliases: ["Scorching Ray"]
 # Scorching Ray *Spell 2*   
 [attack](rules/traits/attack.md "Attack Combat Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") to [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**60 foot
-- **Targets**1 or more creatures
+- **Range**: 60 foot
+- **Targets**: 1 or more creatures
 
 You fire a ray of heat and flame. Make a spell attack roll against a single creature. On a hit, the target takes `2d6` fire damage, and on a critical hit, the target takes double damage.
 

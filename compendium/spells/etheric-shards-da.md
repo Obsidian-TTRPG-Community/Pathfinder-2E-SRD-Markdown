@@ -12,12 +12,12 @@ aliases: ["Etheric Shards"]
 # Etheric Shards *Spell 5*   
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**60 foot
-- **Area**20-foot burst
-- **Saving Throw**  basic Reflex
-- **Duration**1 minute
+- **Range**: 60 foot
+- **Area**: 20-foot burst
+- **Saving Throw**:  basic Reflex
+- **Duration**: 1 minute
 
 You reach out and sow glittering splinters of force throughout the area, otherworldly caltrops of will and ectoplasm. The area is difficult terrain, even to flying or incorporeal creatures.
 

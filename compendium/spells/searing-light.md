@@ -14,10 +14,10 @@ aliases: ["Searing Light"]
 # Searing Light *Spell 3*   
 [attack](rules/traits/attack.md "Attack Combat Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [good](rules/traits/good.md "Good Alignment Trait")  [light](rules/traits/light.md "Light Effect Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**120 foot
-- **Targets**1 creature
+- **Range**: 120 foot
+- **Targets**: 1 creature
 
 You shoot a blazing ray of light tinged with holy energy. Make a ranged spell attack. The ray deals `5d6` fire damage. If the target is a fiend or undead, you deal an extra `5d6` good damage.
 

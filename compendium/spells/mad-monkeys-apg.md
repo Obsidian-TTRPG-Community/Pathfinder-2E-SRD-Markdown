@@ -11,11 +11,11 @@ aliases: ["Mad Monkeys"]
 # Mad Monkeys *Spell 3*   
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Area**5-foot burst
-- **Duration**sustained up to 1 minute
+- **Range**: 30 foot
+- **Area**: 5-foot burst
+- **Duration**: sustained up to 1 minute
 
 Magical monkey spirits fill the area as they pile and climb on top of one another. Because the monkeys are magical spirits, they can't be attacked or hurt. Casting calm emotions or a similar effect over the monkeys makes them docile, causing them to cease making mischief for the duration of mad monkeys.
 

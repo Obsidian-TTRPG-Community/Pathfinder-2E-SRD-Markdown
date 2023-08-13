@@ -13,7 +13,8 @@ aliases: ["Inscrutable Mask"]
 [illusion](rules/traits/illusion.md "Illusion School Trait")  [shadow](rules/traits/shadow.md "Shadow General Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Duration**10 minutes
+- 
+- **Duration**: 10 minutes
 
 You shroud your form and features in an impenetrable mask of shadow. The mask grants you a +1 status bonus to [Deception](compendium/skills.md#Deception) checks to [Lie](rules/actions/lie.md) or [Feint](rules/actions/feint.md), [Intimidation](compendium/skills.md#Intimidation) checks to [Demoralize](rules/actions/demoralize.md), and [Stealth](compendium/skills.md#Stealth) checks to [Hide](rules/actions/hide.md) in areas of dim light or darkness.
 

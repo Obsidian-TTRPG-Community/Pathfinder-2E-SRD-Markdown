@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/inhaled
@@ -15,9 +15,8 @@ aliases: ["Gorgon's Breath"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [inhaled](rules/traits/inhaled.md "Inhaled Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 475 gp
-- **Usage** held in 1 hand; **Bulk** L
+- **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 Gorgon's breath is a fine powder that can easily enter living creatures' bloodstreams through their lungs before binding to mucous membranes and causing any nearby soft tissues to harden.
 
@@ -38,4 +37,6 @@ title: Saving Throw: DC 32 Fortitude
 **Stage 4** [petrified](rules/conditions.md#Petrified) permanently
 ```
 
+
+---
 *Source: Treasure Vault p. 69*

@@ -11,10 +11,10 @@ aliases: ["Liberating Command"]
 # Liberating Command *Spell 1*   
 [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions**: [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**60 foot
-- **Targets**1 creature
+- **Range**: 60 foot
+- **Targets**: 1 creature
 
 You call out a liberating cry, urging an ally to break free of an effect that holds them in place. If the target is [grabbed](rules/conditions.md#Grabbed), [immobilized](rules/conditions.md#Immobilized), or [restrained](rules/conditions.md#Restrained), it can immediately use a reaction to attempt to [Escape](rules/actions/escape.md).
 

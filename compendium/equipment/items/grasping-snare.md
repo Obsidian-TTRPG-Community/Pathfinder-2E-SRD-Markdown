@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/crb
-- item/category/snare
+- item/category/snare/
 - trait/consumable
 - trait/mechanical
 - trait/snare
@@ -15,7 +15,6 @@ aliases: ["Grasping Snare"]
 [consumable](rules/traits/consumable.md "Consumable Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [snare](rules/traits/snare.md "Snare Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 75 gp
-- **Category** Snare
 
 You rig vines and ropes to hold a creature in place. The first creature to enter the square must attempt a DC 26 Reflex save, with the following effects.
 
@@ -25,4 +24,6 @@ You rig vines and ropes to hold a creature in place. The first creature to enter
 > - **Failure** The creature is [immobilized](rules/conditions.md#Immobilized) for 1 round, then takes a –5-foot status penalty to its Speed for 1 minute. Both effects end early if it [Escapes](rules/actions/escape.md) (DC 26)
 > - **Critical Failure** The creature is [immobilized](rules/conditions.md#Immobilized) for 1 minute or until it [Escapes](rules/actions/escape.md) (DC 26).
 
+
+---
 *Source: Core Rulebook p. 590*

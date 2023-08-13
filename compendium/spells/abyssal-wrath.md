@@ -15,8 +15,8 @@ aliases: ["Abyssal Wrath"]
 
 - **Bloodline** Sorcerer
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Area**60-foot cone
-- **Saving Throw**  basic Reflex
+- **Area**: 60-foot cone
+- **Saving Throw**:  basic Reflex
 
 You evoke the energy of an Abyssal realm. The damage types of the spell (one energy and one physical) are based on the result of rolling on the table below.
 

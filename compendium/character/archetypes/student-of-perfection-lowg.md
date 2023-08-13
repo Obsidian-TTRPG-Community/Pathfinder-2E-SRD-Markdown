@@ -14,7 +14,6 @@ You studied martial arts at Jalmeray's Houses of Perfection.
 ```ad-embed-feat
 title: Student of Perfection Dedication, Feat 2
 collapse: closed
-# Student of Perfection Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: You are from Jalmeray.
@@ -31,7 +30,6 @@ You have learned the martial arts techniques of your House of Perfection. You be
 ```ad-embed-feat
 title: Perfect Strike, Feat 4
 collapse: closed
-# Perfect Strike  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Student of Perfection Dedication](compendium/feats/student-of-perfection-dedication-lowg.md)
@@ -45,7 +43,6 @@ You gain the [perfect strike](compendium/spells/perfect-strike-lowg.md) ki spell
 ```ad-embed-feat
 title: Perfect Ki Adept, Feat 6
 collapse: closed
-# Perfect Ki Adept  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Student of Perfection Dedication](compendium/feats/student-of-perfection-dedication-lowg.md)

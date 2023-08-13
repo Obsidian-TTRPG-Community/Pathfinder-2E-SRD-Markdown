@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/aoe5
-- item/category/consumable
+- item/category/consumable/
 - trait/consumable
 - trait/magical
 - trait/transmutation
@@ -16,10 +16,11 @@ aliases: ["Garrote Bolt"]
 - **Price** 1200 gp
 - **Ammunition** [bolt](compendium/equipment/items/bolt.md)
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Consumable
 
 The shaft of this silver bolt is engraved with wiry designs.
 
 When a garrote bolt hits a target, it transforms into a silver garrote and wraps around one of the target's appendages, dealing an additional `2d12` [persistent slashing damage](rules/conditions.md#Persistent%20Damage). On a critical hit, it wraps around the target's throat, and the target can't breathe until the [persistent damage](rules/conditions.md#Persistent%20Damage) ends.
 
+
+---
 *Source: Agents of Edgewatch #5: Belly of the Black Whale p. 77*

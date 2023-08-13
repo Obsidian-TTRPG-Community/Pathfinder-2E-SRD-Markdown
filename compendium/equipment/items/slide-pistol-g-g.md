@@ -16,11 +16,13 @@ aliases: ["Slide Pistol"]
 - **Access** The following regions have access to firearms: Alkenstar, Dongun Hold, Tian Xia, Vudra, Arcadia, Ustalav, the Shackles
 - **Price** 16 gp
 - **Bulk** 2
-- **Damage** `1d6` P
-- **Ammunution** rounds; **Range** 60 ft.; **Reload** 1
+  - **Damage**: `1d6` P
+  - **Ammunution** rounds; **Range** 60 ft.; **Reload** 1
 - **Hands** 1
 - **Category** Martial; **Group** Firearm 
 
 Also known as a harmonica gun, this weapon is essentially a stock, trigger, and firing mechanism attached to a sliding brace of barrels that can each hold a round of ammunition.
 
+
+---
 *Source: Guns & Gears p. 151*

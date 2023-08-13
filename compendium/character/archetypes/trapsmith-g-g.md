@@ -16,7 +16,6 @@ You can select the dedication feat for the trapsmith archetype even if you haven
 ```ad-embed-feat
 title: Trapsmith Dedication, Feat 4
 collapse: closed
-# Trapsmith Dedication  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Snarecrafter Dedication](compendium/feats/snarecrafter-dedication-apg.md) or [Snare Specialist](compendium/feats/snare-specialist.md) ranger class feat
@@ -32,7 +31,6 @@ You use glimmering gears and gnashing mechanisms to manufacture snares using spe
 ```ad-embed-feat
 title: Gear Gnash, Feat 4
 collapse: closed
-# Gear Gnash  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Trapsmith Dedication](compendium/feats/trapsmith-dedication-g-g.md), expert in [Crafting](compendium/skills.md#Crafting)
@@ -46,7 +44,6 @@ Snares you create have complicated inner workings that are quite difficult to di
 ```ad-embed-feat
 title: Propeller Attachment, Feat 7
 collapse: closed
-# Propeller Attachment  *Feat 7*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Trapsmith Dedication](compendium/feats/trapsmith-dedication-g-g.md), master in [Crafting](compendium/skills.md#Crafting)
@@ -60,7 +57,6 @@ You've mastered attaching clockwork propellers to your daily quick-deploy snares
 ```ad-embed-feat
 title: Recycled Cogwheels, Feat 8
 collapse: closed
-# Recycled Cogwheels  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Trapsmith Dedication](compendium/feats/trapsmith-dedication-g-g.md)
@@ -74,7 +70,6 @@ You're able to scavenge the cogwheels from your daily quick-deploy snares that u
 ```ad-embed-feat
 title: Repurposed Parts, Feat 10
 collapse: closed
-# Repurposed Parts  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Trapsmith Dedication](compendium/feats/trapsmith-dedication-g-g.md)
@@ -88,7 +83,6 @@ You are familiar with the fittings and cogwheels of your snares and can repurpos
 ```ad-embed-feat
 title: Finessed Features, Feat 12*
 collapse: closed
-# Finessed Features  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Finessed Features](compendium/feats/finessed-features-g-g.md) is intended for use with the Trapsmith Archetype. Its level has been changed accordingly.

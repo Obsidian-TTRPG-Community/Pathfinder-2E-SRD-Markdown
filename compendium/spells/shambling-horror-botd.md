@@ -13,9 +13,9 @@ aliases: ["Shambling Horror"]
 [evil](rules/traits/evil.md "Evil Alignment Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**touch
-- **Targets**1 corpse of a Gargantuan or smaller creature that has a level no greater than your level – 4 and has died since the last sunrise
-- **Duration**10 minutes
+- **Range**: touch
+- **Targets**: 1 corpse of a Gargantuan or smaller creature that has a level no greater than your level – 4 and has died since the last sunrise
+- **Duration**: 10 minutes
 
 You reanimate the corpse of a fallen creature as an undead minion under your control. The reanimated creature is an undead skeleton (Bestiary 298, Bestiary 3 236, page 146) or zombie (Bestiary 340, Bestiary 3 302, page 170). Choose a skeleton or zombie stat block of the same size as the original creature and of a level no higher than the creature's original level. The shambling horror keeps Speeds it had in life, as well as melee [Strikes](rules/actions/strike.md) that deal only physical damage. These attacks use the highest attack modifier from the skeleton or zombie you choose. Some of the skeleton's or zombie's abilities might not make sense for the shambling horror, and some abilities the creature had in life might not persist in undeath; the GM makes the final choice of what abilities the horror has.
 

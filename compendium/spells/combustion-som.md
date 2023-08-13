@@ -13,9 +13,9 @@ aliases: ["Combustion"]
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**120 foot
-- **Targets**1 creature
-- **Saving Throw** Fortitude
+- **Range**: 120 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Fortitude
 
 You ignite a creature in lasting flames. The fire deals `4d8` fire damage and `2d6` [persistent fire damage](rules/conditions.md#Persistent%20Damage) to the creature, which must attempt a Fortitude save.
 

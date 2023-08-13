@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
-- item/category/adjustment
+- item/category/adjustment/
 - trait/adjustment
 - trait/uncommon
 aliases: ["Weapon Harness"]
@@ -12,8 +12,7 @@ aliases: ["Weapon Harness"]
 [adjustment](rules/traits/adjustment-lotgb.md "Adjustment  Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 6 gp
-- **Usage** applied to armor; **Bulk** L
-- **Category** Adjustment
+- **Bulk** L; **Usage** applied to armor
 
 A suit of armor with this adjustment incorporates short, flexible harnesses meant to connect weapons to each of its vambraces.
 
@@ -21,4 +20,6 @@ These harnesses can each be connected to a melee weapon of light Bulk or less. A
 
 You gain a +1 circumstance bonus to your Reflex DC against attempts to [Disarm](rules/actions/disarm.md) you of a weapon connected to the armor. If the weapon would be knocked from your grasp or you would drop it, the weapon dangles from the bracer by its harness rather than falling to the ground. You can regain control of the weapon in the normal time it takes you to draw it. Attaching a weapon to a weapon harness prevents you from throwing it or using other abilities that would require it to leave your person.
 
+
+---
 *Source: Treasure Vault p. 11*

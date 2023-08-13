@@ -12,11 +12,11 @@ aliases: ["Sanctified Ground"]
 # Sanctified Ground *Spell 3*   
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [consecration](rules/traits/consecration.md "Consecration Effect Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait")
 - **Cast** 1 minute 
-- **Cost**1 vial of holy water
-- **Area**30-foot burst centered on you
-- **Duration**until the next time you make your daily preparations
+- **Cost**: 1 vial of holy water
+- **Area**: 30-foot burst centered on you
+- **Duration**: until the next time you make your daily preparations
 
 You sanctify the area, sprinkling it with holy water and warding it against your foes. Choose aberrations, celestials, dragons, fiends, monitors, or undead. All creatures in the area gain a +1 status bonus to AC, attack rolls, damage rolls, and saving throws against the chosen creatures.
 

@@ -11,7 +11,7 @@ aliases: ["Deceptive Sidestep"]
 *Source: Gamemastery Guide p. 167*  
 
 **Variant Rule** Duels
-- **Trigger** An opponent hits, but does not critically hit you, with a melee Strike.
+- **Trigger**: An opponent hits, but does not critically hit you, with a melee Strike.
 - **Requirements**: You're in a duel, you're trained in [Deception](compendium/skills.md#Deception), and you rolled a [Deception](compendium/skills.md#Deception) check for initiative this round.
 - **Activity**: Reaction
 

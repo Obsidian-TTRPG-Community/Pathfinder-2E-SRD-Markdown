@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/apg
-- item/category/consumable
+- item/category/consumable/
 - trait/consumable
 - trait/emotion
 - trait/enchantment
@@ -18,7 +18,6 @@ aliases: ["Terrifying Ammunition"]
 - **Price** 50 gp
 - **Ammunition** any
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Consumable
 
 This black-and-gray ammunition is etched with occult symbols and tiny, grinning skulls. When activated terrifying ammunition damages a creature, it fills the creature's mind with visions of their own failures, tragedies, and eventually, their own death. The creature must attempt a DC 20 Will save.
 
@@ -28,4 +27,6 @@ This black-and-gray ammunition is etched with occult symbols and tiny, grinning 
 > - **Failure** The creature is [frightened](rules/conditions.md#Frightened) and can't reduce its [frightened](rules/conditions.md#Frightened) value below 1 until it spends an action, which has the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") trait, to calm itself down.
 > - **Critical Failure** As failure, but the creature is [frightened](rules/conditions.md#Frightened).
 
+
+---
 *Source: Advanced Player's Guide p. 259*

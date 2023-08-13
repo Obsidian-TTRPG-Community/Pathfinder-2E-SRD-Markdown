@@ -13,11 +13,11 @@ aliases: ["Rally Point"]
 # Rally Point *Spell 3*   
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Area**one 5-foot square
-- **Duration**1 minute
+- **Range**: touch
+- **Area**: one 5-foot square
+- **Duration**: 1 minute
 
 You mark the area touched as a rally point. During the spell's duration, you can take a single action, which has the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") trait, to teleport to the rally point along with items you are wearing or holding. This teleportation fails if the area is occupied, if the rally point is more than 120 feet away, or if you try to bring along any other creature, even if it's in an extradimensional container. Once you teleport to the rally point, the spell's duration ends.
 

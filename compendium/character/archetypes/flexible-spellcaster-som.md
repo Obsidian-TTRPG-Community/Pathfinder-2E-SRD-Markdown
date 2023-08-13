@@ -52,7 +52,6 @@ The following feats from the Core Rulebook aren't available for a flexible spell
 ```ad-embed-feat
 title: Flexible Spellcaster Dedication, Feat 2
 collapse: closed
-# Flexible Spellcaster Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [class](rules/traits/class-som.md "Class Class Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: flexible spell preparation

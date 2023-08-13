@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/injury
@@ -14,9 +14,8 @@ aliases: ["Clown Monarch"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [injury](rules/traits/injury.md "Injury Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Price** 21 gp
-- **Usage** held in 2 hands; **Bulk** L
+- **Bulk** L; **Usage** held in 2 hands
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 A victim of clown monarch is amusing to behold as they repeatedly suffer slapstick pratfalls. This poison disrupts the victim's sense of balance.
 
@@ -34,4 +33,6 @@ title: Saving Throw: DC 22 Fortitude
 **Stage 3** as stage 1 but the DC is 15 (1 round)
 ```
 
+
+---
 *Source: Treasure Vault p. 68*

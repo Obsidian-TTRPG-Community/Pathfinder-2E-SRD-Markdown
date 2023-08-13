@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/crb
-- item/category/snare
+- item/category/snare/
 - trait/consumable
 - trait/mechanical
 - trait/snare
@@ -14,7 +14,6 @@ aliases: ["Trip Snare"]
 [consumable](rules/traits/consumable.md "Consumable Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [snare](rules/traits/snare.md "Snare Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Price** 15 gp
-- **Category** Snare
 
 You set a cunning wire to trip a creature. A Medium or smaller creature that enters this snare's square must attempt a DC 20 Reflex save.
 
@@ -28,4 +27,6 @@ For example, three trip snares in a 15-foot-line can trip a Huge creature coming
 > - **Failure** The creature falls [prone](rules/conditions.md#Prone).
 > - **Critical Failure** The creature falls [prone](rules/conditions.md#Prone) and takes `1d6` bludgeoning damage.
 
+
+---
 *Source: Core Rulebook p. 591*

@@ -12,10 +12,12 @@ aliases: ["Subterfuge Suit"]
 
 - **Bulk** 1
 - **AC Bonus** +1; **Dex Cap** +4
-- **Strength** 10; **Check Penalty** -1; **Speed Penalty** -null ft.
+- **Strength** 10; **Check Penalty** -1; **Speed Penalty** —
 - **Category** Medium; **Group** Composite 
 
 > [!pf2-note]
 > This armor is exclusive to the Inventor class with the Armor innovation. While you may be able to wear this armor as a different class, everyone but the creator of the armor is untrained in it, even if they would normally be trained (or better) in medium armor.
 
+
+---
 *Source: Guns & Gears p. 16*

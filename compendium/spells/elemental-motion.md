@@ -14,7 +14,8 @@ aliases: ["Elemental Motion"]
 
 - **Bloodline** Sorcerer
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Duration**1 minute
+- 
+- **Duration**: 1 minute
 
 You call upon your element to propel you, improving your Speed depending on your element. This spell has your element's trait.
 

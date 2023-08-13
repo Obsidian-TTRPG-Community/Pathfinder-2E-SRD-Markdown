@@ -22,7 +22,6 @@ Nearly all soul wardens worship [Pharasma](compendium/setting/deities/pharasma.m
 ```ad-embed-feat
 title: Soul Warden Dedication, Feat 2
 collapse: closed
-# Soul Warden Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: trained in [Occultism](compendium/skills.md#Occultism) or [Religion](compendium/skills.md#Religion), worships [Pharasma](compendium/setting/deities/pharasma.md) or a psychopomp usher
@@ -44,7 +43,6 @@ When you have at least two other feats from this archetype, the spiral glows wit
 ```ad-embed-feat
 title: Cycle Spell, Feat 4
 collapse: closed
-# Cycle Spell  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Soul Warden Dedication](compendium/feats/soul-warden-dedication-botd.md)
@@ -58,7 +56,6 @@ Your devotion to the cycle of souls grants you an additional divine spell. Choos
 ```ad-embed-feat
 title: Domain Initiate, Feat 4*
 collapse: closed
-# Domain Initiate  *Feat 4*  
 [cleric](rules/traits/cleric.md "Cleric Class Trait")  
 
 > [!pf2-note] This version of [Domain Initiate](compendium/feats/domain-initiate.md) is intended for use with the Soul Warden Archetype. Its level has been changed accordingly.
@@ -79,7 +76,6 @@ Focus spells are automatically heightened to half your level rounded up. Focus s
 ```ad-embed-feat
 title: Psychopomp Familiar, Feat 4
 collapse: closed
-# Psychopomp Familiar  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Soul Warden Dedication](compendium/feats/soul-warden-dedication-botd.md), familiar
@@ -98,7 +94,6 @@ You can select three familiar or master abilities each day, instead of two, but 
 ```ad-embed-feat
 title: Liberate Soul, Feat 6
 collapse: closed
-# Liberate Soul  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 - **Prerequisites**: [Soul Warden Dedication](compendium/feats/soul-warden-dedication-botd.md)
@@ -115,7 +110,6 @@ The light flows from your sigil of [Pharasma](compendium/setting/deities/pharasm
 ```ad-embed-feat
 title: Spiral Sworn, Feat 6
 collapse: closed
-# Spiral Sworn  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
 - **Prerequisites**: [Soul Warden Dedication](compendium/feats/soul-warden-dedication-botd.md)
@@ -133,7 +127,6 @@ If your spiral is glowing, you can target a willing creature in its light. If yo
 ```ad-embed-feat
 title: Enhanced Psychopomp Familiar, Feat 8
 collapse: closed
-# Enhanced Psychopomp Familiar  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Psychopomp Familiar](compendium/feats/psychopomp-familiar-botd.md)
@@ -149,7 +142,6 @@ Your psychopomp's continued service in [Pharasma](compendium/setting/deities/pha
 ```ad-embed-feat
 title: Expanded Domain Initiate, Feat 8*
 collapse: closed
-# Expanded Domain Initiate  *Feat 8*  
 [cleric](rules/traits/cleric.md "Cleric Class Trait")  
 
 > [!pf2-note] This version of [Expanded Domain Initiate](compendium/feats/expanded-domain-initiate-logm.md) is intended for use with the Soul Warden Archetype. Its level has been changed accordingly.
@@ -165,7 +157,6 @@ You have long venerated one of your deity's lesser-known aspects. Select one dom
 ```ad-embed-feat
 title: Safeguard Soul, Feat 8
 collapse: closed
-# Safeguard Soul  *Feat 8*  
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  
 
 - **Prerequisites**: [Soul Warden Dedication](compendium/feats/soul-warden-dedication-botd.md)
@@ -179,7 +170,6 @@ You've girded your soul against outside interference. You gain a +2 status bonus
 ```ad-embed-feat
 title: Expand Spiral, Feat 10
 collapse: closed
-# Expand Spiral  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spiral Sworn](compendium/feats/spiral-sworn-botd.md)
@@ -193,7 +183,6 @@ Your prayers encompass your companions, granting you the ability to share [Phara
 ```ad-embed-feat
 title: Advanced Domain, Feat 16*
 collapse: closed
-# Advanced Domain  *Feat 16*  
 [cleric](rules/traits/cleric.md "Cleric Class Trait")  
 
 > [!pf2-note] This version of [Advanced Domain](compendium/feats/advanced-domain.md) is intended for use with the Soul Warden Archetype. Its level has been changed accordingly.

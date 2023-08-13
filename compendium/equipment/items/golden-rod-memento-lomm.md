@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/lomm
-- item/category/worn
+- item/category/worn/
 - trait/abjuration
 - trait/cursed
 - trait/magical
@@ -13,8 +13,7 @@ aliases: ["Golden Rod Memento"]
 # Golden Rod Memento *Item 20*  
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Usage** worn; **Bulk** —
-- **Category** Worn
+- **Bulk** —; **Usage** worn
 
 This coin-sized golden pin depicts a bundle of five trimmed tree branches. Once you've stolen the pin, accepted it from Krampus willingly, or carried it for at least 1 minute, its curse activates. After that happens, the pin fastens itself to your clothing, providing you an insistent empathic admonition not to be naughty and constantly informing Krampus of your location, as [status](compendium/spells/status.md). The pin reappears and reattaches itself within moments if discarded or destroyed. The pin constantly monitors your actions, judging you against a good-aligned champion's code of conduct, plus the following third tenet:
 
@@ -27,4 +26,6 @@ Whenever you violate this code of conduct, one of the golden branches tarnishes 
 - **1-2 Branches** The pin transforms into a leering Krampus face. As long as you wear it, it grants you weakness 5 to bludgeoning damage, and you still can't remove it.
 - **0 Branches** The pin transforms into Krampus, who appears in an adjacent space and knows of your misdeeds while wearing the pin.
 
+
+---
 *Source: Lost Omens: Monsters of Myth p. 59*

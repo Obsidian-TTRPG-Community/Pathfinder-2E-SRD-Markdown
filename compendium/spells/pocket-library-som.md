@@ -11,9 +11,10 @@ aliases: ["Pocket Library"]
 # Pocket Library *Spell 1*   
 [divination](rules/traits/divination.md "Divination School Trait")  [extradimensional](rules/traits/extradimensional.md "Extradimensional Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Duration**24 hours
+- 
+- **Duration**: 24 hours
 
 You collect information from the world's libraries about a particular subject and store it in an extradimensional library.
 

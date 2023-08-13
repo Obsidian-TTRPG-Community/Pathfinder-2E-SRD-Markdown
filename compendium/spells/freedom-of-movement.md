@@ -10,11 +10,11 @@ aliases: ["Freedom Of Movement"]
 # Freedom Of Movement *Spell 4*   
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Targets**1 creature touched
-- **Duration**10 minutes
+- **Range**: touch
+- **Targets**: 1 creature touched
+- **Duration**: 10 minutes
 
 You repel effects that would hinder a creature or slow its movement. While under this spell's effect, the target ignores effects that would give them a circumstance penalty to Speed. When they attempt to [Escape](rules/actions/escape.md) an effect that has them [immobilized](rules/conditions.md#Immobilized), [grabbed](rules/conditions.md#Grabbed), or [restrained](rules/conditions.md#Restrained), they automatically succeed unless the effect is magical and of a higher level than the [freedom of movement](compendium/spells/freedom-of-movement.md) spell.
 

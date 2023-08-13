@@ -18,10 +18,12 @@ aliases: ["Hook Sword"]
 - **Access** If the player character come from a region in Tian Xia, this weapon is common
 - **Price** 3 gp
 - **Bulk** 1
-- **Damage** `1d6` S
+  - **Damage**: `1d6` S
 - **Hands** 1
 - **Category** Advanced; **Group** Sword 
 
 This long sword has a hook near the tip which makes it easy to snag an opponent or their weapons.
 
+
+---
 *Source: Treasure Vault p. 25*

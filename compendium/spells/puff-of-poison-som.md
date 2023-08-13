@@ -13,11 +13,11 @@ aliases: ["Puff Of Poison"]
 # Puff Of Poison *Cantrip 1*   
 [cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [inhaled](rules/traits/inhaled.md "Inhaled Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**5 foot
-- **Targets**1 creature
-- **Saving Throw** Fortitude
+- **Range**: 5 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Fortitude
 
 You exhale a shimmering cloud of toxic breath at an enemy's face. The target takes poison damage equal to your spellcasting modifier and 2 [persistent poison damage](rules/conditions.md#Persistent%20Damage), depending on its Fortitude save.
 

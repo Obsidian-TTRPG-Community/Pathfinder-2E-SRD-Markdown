@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/sot6
-- item/category/artifact
+- item/category/artifact/
 - trait/artifact
 - trait/divination
 - trait/magical
@@ -13,8 +13,7 @@ aliases: ["Halcyon Heart"]
 # Halcyon Heart *Item 21*  
 [artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Usage** held in 2 hands; **Bulk** 1
-- **Category** Artifact
+- **Bulk** 1; **Usage** held in 2 hands
 
 This shekere features carved prayers barely visible under a fine silk net of colorful beads. The handheld percussion instrument grants a +3 item bonus to [Performance](compendium/skills.md#Performance) checks while playing music with it. In addition, when you [Perform](rules/actions/perform.md) with it, you can make it heard by any number of creatures within 100 miles. You can specify one or more specific creatures, or otherwise describe those who will hear it, such as all humans, or all inhabitants of a village. You can send a message through the music that the targets understand. Demons and creatures connected to demons (such as a creature whose deity is a demon lord or a sorcerer with the demonic bloodline) can't easily understand any messages conveyed in this way, even if you wish to send the message to them. They must attempt a [Society](compendium/skills.md#Society) check against your [Performance](compendium/skills.md#Performance) DC or against DC 40, whichever is higher. If your [Performance](compendium/skills.md#Performance) DC is higher than DC 40 and you want demons to be able to understand the message, you can choose to use DC 40 instead.
 
@@ -24,7 +23,7 @@ This shekere features carved prayers barely visible under a fine silk net of col
 > - **Critical Failure** They don't realize the sound of the halcyon heart contains a message.
 
 ```ad-embed-ability
-title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
+title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") command, [Interact](rules/actions/interact.md)
 
 - **Requirements**: The halcyon heart has its net of beads
 
@@ -33,4 +32,6 @@ title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "
 Destruction If the Gorilla King plays a halcyon heart in front of [Angazhan](compendium/setting/deities/angazhan-logm.md)'s totem, the gourd decomposes, the net frays, and the beads shatter.
 ```
 
+
+---
 *Source: Strength of Thousands #6: Shadows of the Ancients p. 77*

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/ec6
-- item/category/held
+- item/category/held/
 - trait/divine
 - trait/evocation
 - trait/intelligent
@@ -13,8 +13,7 @@ aliases: ["Piereta"]
 # Piereta *Item 20*  
 [divine](rules/traits/divine.md "Divine Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [intelligent](rules/traits/intelligent-gmg.md "Intelligent Item Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
-- **Usage** held in 1 hand; **Bulk** 1
-- **Category** Held
+- **Bulk** 1; **Usage** held in 1 hand
 
 Piereta was a Knight of Ozem during the Shining Crusade, sworn to the service of Aroden's herald, [Arazni](compendium/setting/deities/arazni-logm.md). After [Arazni](compendium/setting/deities/arazni-logm.md) perished at the hands of the Whispering Tyrant, Piereta became the first paladin to swear her service to the newly ascended goddess, [Iomedae](compendium/setting/deities/iomedae.md). When she fell in battle, a fragment of her spirit clung to the sword through which she had wielded her faith in countless battles, granting the weapon a sentience of its own. The sword named herself after her fallen bearer and has been a faithful companion to many Iomedaean warriors since.
 
@@ -25,15 +24,21 @@ Piereta is very particular about who she permits to wield her. She agrees to wor
 Piereta can use the following activations.
 
 ```ad-embed-ability
-title: Activate [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Activate** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") command, [Interact](rules/actions/interact.md)
 
-Piereta makes a [Retributive Strike](rules/actions/retributive-strike.md), resolved as though you had used the ability, including any benefits from champion feats you have.
+- **Frequency**: once per minute
+
+**Effect** Piereta makes a [Retributive Strike](rules/actions/retributive-strike.md), resolved as though you had used the ability, including any benefits from champion feats you have.
 ```
 
 ```ad-embed-ability
-title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
+title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") command, [Interact](rules/actions/interact.md)
 
-Piereta casts a 9th-level [field of life](compendium/spells/field-of-life.md).
+- **Frequency**: once per day
+
+**Effect** Piereta casts a 9th-level [field of life](compendium/spells/field-of-life.md).
 ```
 
+
+---
 *Source: Extinction Curse #6: The Apocalypse Prophet p. 74*

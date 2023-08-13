@@ -18,7 +18,7 @@ aliases: ["Asmodeus", "The Prince of Darkness"]
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: break a contract, free a slave, insult Asmodeus by showing mercy to your enemies
-- **Areas of Concern**: contracts, , pride, , slavery and tyranny
+- **Areas of Concern**: contracts, pride, slavery and tyranny
 - **Follower Alignments**: [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait")
 
 ## Devotee benefits
@@ -35,8 +35,9 @@ aliases: ["Asmodeus", "The Prince of Darkness"]
 title: [Avatar](compendium/spells/avatar.md) of Asmodeus
 
 - **Speed**: Speed 70 feet, [air walk](compendium/spells/air-walk.md)
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") mace ([reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait")), **Damage** `6d10+6` bludgeoning
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") hellfire **Damage** `6d6+3` fire
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") mace (, [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait")), **Damage** `6d10+6` bludgeoning 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") hellfire (), **Damage** `6d6+3` fire 
 ```
 
 ## Divine intercession

@@ -15,9 +15,9 @@ aliases: ["Diviner's Sight"]
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**30 foot
-- **Targets**1 willing living creature
-- **Duration**until the end of your next turn
+- **Range**: 30 foot
+- **Targets**: 1 willing living creature
+- **Duration**: until the end of your next turn
 
 You glimpse into the target's future. Roll a d20; when the target attempts a non-secret saving throw or skill check, it can use the number you rolled instead of rolling, and the spell ends.
 

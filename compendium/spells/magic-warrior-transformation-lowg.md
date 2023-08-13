@@ -13,7 +13,8 @@ aliases: ["Magic Warrior Transformation"]
 [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Duration**1 minute
+- 
+- **Duration**: 1 minute
 
 You transform into the animal from your mask. You gain the effects of [animal form](compendium/spells/animal-form.md), heightened to magic warrior transformation's level, and you can transform into only the type of animal your mask represents.
 

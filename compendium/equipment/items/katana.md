@@ -15,10 +15,12 @@ aliases: ["Katana"]
 
 - **Price** 2 gp
 - **Bulk** 1
-- **Damage** `1d6` S
+  - **Damage**: `1d6` S
 - **Hands** 1
 - **Category** Martial; **Group** Sword 
 
 A katana is a curved, single-edged sword known for its wickedly sharped blade.
 
+
+---
 *Source: Core Rulebook p. 281*

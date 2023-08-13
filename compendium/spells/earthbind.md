@@ -10,12 +10,12 @@ aliases: ["Earthbind"]
 # Earthbind *Spell 3*   
 [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**120 foot
-- **Targets**1 flying creature
-- **Saving Throw** Fortitude
-- **Duration**varies
+- **Range**: 120 foot
+- **Targets**: 1 flying creature
+- **Saving Throw**: Fortitude
+- **Duration**: varies
 
 Using the weight of earth, you hamper a target's flight, with effects based on its Fortitude save. If the creature reaches the ground safely, it doesn't take falling damage.
 

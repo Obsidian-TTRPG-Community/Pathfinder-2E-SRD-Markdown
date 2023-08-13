@@ -13,12 +13,12 @@ aliases: ["Darkened Eyes"]
 # Darkened Eyes *Focus 4*   
 [cleric](rules/traits/cleric.md "Cleric Class Trait")  [darkness](rules/traits/darkness.md "Darkness Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains**: [darkness](compendium/setting/domains.md#Darkness)
+- **Domains** [darkness](compendium/setting/domains.md#Darkness)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**60 foot
-- **Targets**1 creature
-- **Saving Throw** Fortitude
-- **Duration**varies
+- **Range**: 60 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Fortitude
+- **Duration**: varies
 
 You infuse a creature's vision with darkness. After attempting its save, the target becomes temporarily immune for 24 hours.
 

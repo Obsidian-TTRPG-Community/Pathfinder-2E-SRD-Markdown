@@ -21,7 +21,7 @@ aliases: ["Zon-Kuthon", "Midnight Lord"]
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: create permanent or long-lasting sources of light, provide comfort to those who suffer
-- **Areas of Concern**: darkness, , envy, , loss, , and pain
+- **Areas of Concern**: darkness, envy, loss, and pain
 - **Follower Alignments**: [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"), [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait")
 
 ## Devotee benefits
@@ -38,8 +38,9 @@ aliases: ["Zon-Kuthon", "Midnight Lord"]
 title: [Avatar](compendium/spells/avatar.md) of Zon-Kuthon
 
 - **Speed**: Speed 70 feet, [air walk](compendium/spells/air-walk.md), ignore difficult terrain and greater difficult terrain
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") spiked chain ([disarm](rules/traits/disarm.md "Disarm Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [trip](rules/traits/trip.md "Trip Weapon Trait")), **Damage** `6d8+6` slashing
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") midnight pain ([mental](rules/traits/mental.md "Mental Effect Trait"), [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait")), **Damage** `6d6+3` mental
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") spiked chain (, [disarm](rules/traits/disarm.md "Disarm Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [trip](rules/traits/trip.md "Trip Weapon Trait")), **Damage** `6d8+6` slashing 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") midnight pain (, [mental](rules/traits/mental.md "Mental Effect Trait"), [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait")), **Damage** `6d6+3` mental 
 ```
 
 ## Divine intercession

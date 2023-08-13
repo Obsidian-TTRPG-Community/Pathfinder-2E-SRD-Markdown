@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
-- item/category/elixir
+- item/category/elixir/
 - trait/alchemical
 - trait/consumable
 - trait/elixir
@@ -12,9 +12,8 @@ aliases: ["Insight Coffee"]
 # Insight Coffee *Item 6+*  
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [elixir](rules/traits/elixir.md "Elixir Item Trait")  
 
-- **Usage** held in 1 hand; **Bulk** L
+- **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Elixir
 
 A popular choice for investigators studying alchemy, insight coffee is infused with alchemical flavoring during percolation.
 
@@ -27,4 +26,26 @@ For 1 hour after you drink an insight coffee, you use d8s instead of d6s for you
 - Pumpkin Spice [Occultism](compendium/skills.md#Occultism)
 - Toffee [Medicine](compendium/skills.md#Medicine)
 
+---
+### Variants
+
+#### lesser *Item 6*
+
+- **Price**: 40 gp
+
+The item bonus is +2.
+
+#### moderate *Item 12*
+
+- **Price**: 375 gp
+
+The item bonus is +3.
+
+#### greater *Item 19*
+
+- **Price**: 7500 gp
+
+The item bonus is +4.
+
+---
 *Source: Treasure Vault p. 49*

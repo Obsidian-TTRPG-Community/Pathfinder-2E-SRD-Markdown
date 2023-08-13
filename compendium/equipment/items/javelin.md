@@ -12,11 +12,13 @@ aliases: ["Javelin"]
 
 - **Price** 1 sp
 - **Bulk** L
-- **Damage** `1d6` P
-- **Range** 30 ft.
+  - **Damage**: `1d6` P
+  - **Range** 30 ft.
 - **Hands** 1
 - **Category** Simple; **Group** Dart 
 
 This thin spear is well balanced for throwing but is not designed for melee use.
 
+
+---
 *Source: Core Rulebook p. 281*

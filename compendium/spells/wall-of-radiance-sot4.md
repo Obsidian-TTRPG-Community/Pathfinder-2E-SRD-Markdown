@@ -12,10 +12,10 @@ aliases: ["Wall of Radiance"]
 # Wall of Radiance *Spell 3*   
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [light](rules/traits/light.md "Light Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**30 foot
-- **Duration**1 minute
+- **Range**: 30 foot
+- **Duration**: 1 minute
 
 You form a wall of brilliant light that obscures creatures. You create a thin wall of light in a straight line up to 60 feet long and 10 feet high. You must create the wall in an unbroken open space so its edges don't pass through any creatures or objects, or the spell is lost. The wall stands vertically. If you wish, the wall can be of a shorter length or height. Creatures adjacent to the wall are [dazzled](rules/conditions.md#Dazzled). Creatures that move through the wall take `2d6` fire damage (basic Fortitude save) as the concentrated light burns them.
 

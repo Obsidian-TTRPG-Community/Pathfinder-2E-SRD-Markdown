@@ -13,11 +13,13 @@ aliases: ["Longbow"]
 
 - **Price** 6 gp
 - **Bulk** 2
-- **Damage** `1d8` P
-- **Ammunution** [Arrow](compendium/equipment/items/arrow.md); **Range** 100 ft.; **Reload** 0
+  - **Damage**: `1d8` P
+  - **Ammunution** [Arrow](compendium/equipment/items/arrow.md); **Range** 100 ft.; **Reload** 0
 - **Hands** 1+
 - **Category** Martial; **Group** Bow 
 
 This 5-foot-tall bow, usually made of a single piece of elm, hickory, or yew, has a powerful draw and is excellent at propelling arrows with great force and at an extreme distance. You must use two hands to fire a longbow, and it can't be used while mounted.
 
+
+---
 *Source: Core Rulebook p. 282*

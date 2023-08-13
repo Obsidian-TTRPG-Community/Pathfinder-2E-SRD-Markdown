@@ -17,13 +17,15 @@ Your experience in the finer points of bargaining with a devil has awakened a si
 You gain the Objection reaction. You also become an expert in [Legal Lore](compendium/skills.md#Lore) and gain a +1 circumstance bonus to any check you make to read or negotiate a treatise, contract, or similar text. At 7th level you become a master of [Legal Lore](compendium/skills.md#Lore), and at 15th level you become legendary in [Legal Lore](compendium/skills.md#Lore). You can use [Legal Lore](compendium/skills.md#Lore) in place of [Perception](compendium/skills.md#Perception) to detect verbal loopholes, double entendres, [hidden](rules/conditions.md#Hidden) meanings, code, or contradictions in a conversation you can hear. This doesn't let you fully understand coded speech but alerts you to its presence.
 
 ```ad-embed-ability
-title: Objection [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[fortune](rules/traits/fortune.md "Fortune Effect Trait")  
+title: **Objection** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([fortune](rules/traits/fortune.md))
 
+- **Frequency**: once per minute
 - **Trigger**: You're about to attempt a saving throw against a [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait") effect
 
 **Effect** Your devil's eye crackles with infernal glee as you discover a loophole in the wording of the triggering effect. You roll your saving throw twice, taking the higher result.  
-%% #trait/fortune %%
+%%
+ #trait/fortune 
+%%
 ```
 
 *Source: Dark Archive p. 55*  

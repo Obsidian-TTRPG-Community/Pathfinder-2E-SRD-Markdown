@@ -11,12 +11,12 @@ aliases: ["Zenith Star"]
 # Zenith Star *Focus 1*   
 [divination](rules/traits/divination.md "Divination School Trait")  [light](rules/traits/light.md "Light Effect Trait")  
 
-- **Domains**: [star](compendium/setting/domains.md#Star)
+- **Domains** [star](compendium/setting/domains.md#Star)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**60 foot
-- **Targets**1 creature
-- **Saving Throw** Fortitude
-- **Duration**1 day
+- **Range**: 60 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Fortitude
+- **Duration**: 1 day
 
 You call a tiny star to orbit a creature in a sparkling halo before shooting up into the heavens, where it marks the creature's rough location. The target must attempt a Fortitude save.
 

@@ -16,9 +16,11 @@ aliases: ["Drow Shootist Dedication"]
 Every chance you get, you practice with the hand crossbow to increase your draw speed and accuracy. Whenever you gain a class feature that grants you expert or greater proficiency in a given weapon or weapons, you also gain that proficiency in the hand crossbow. If you're at least an expert in a hand crossbow you're using, you gain access to its critical specialization effect. You also gain the Shootist's Draw action.
 
 ```ad-embed-ability
-title: Shootist's Draw [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
+title: **Shootist's Draw** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 
-You [Interact](rules/actions/interact.md) to draw a hand crossbow and [Strike](rules/actions/strike.md) with it, or you [Strike](rules/actions/strike.md) with a loaded hand crossbow you're already holding and then [Interact](rules/actions/interact.md) to stow it.
+- **Frequency**: once per round
+
+**Effect** You [Interact](rules/actions/interact.md) to draw a hand crossbow and [Strike](rules/actions/strike.md) with it, or you [Strike](rules/actions/strike.md) with a loaded hand crossbow you're already holding and then [Interact](rules/actions/interact.md) to stow it.
 ```
 
 **Special.** You can't select another dedication feat until you've gained two other feats from the drow shootist archetype.

@@ -16,9 +16,9 @@ aliases: ["Thief's Trap"]
 Nearly imperceptible runes set off an explosion at the point a thief is most unable to receive aid.
 
 - **Disable** DC 45 [Thievery](compendium/skills.md#Thievery) (master) or dispel magic (10th level, counteract DC 50) to counteract the runes.  
-     
+
 ```ad-embed-ability
-title: Explosion [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Explosion** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature crosses a rune
 

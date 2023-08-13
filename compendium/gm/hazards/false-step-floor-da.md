@@ -18,15 +18,16 @@ aliases: ["False Step Floor"]
 Each time a creature enters the room, it slips through the floor, tumbles through an interdimensional void, and falls back into the room through the ceiling, landing on the floor.
 
 - **Disable** DC 28 [Thievery](compendium/skills.md#Thievery) (trained) to disrupt the magical energy, or DC 27 [Arcana](compendium/skills.md#Arcana) or [Occultism](compendium/skills.md#Occultism) (trained) to realign the magical energy  
-     
+
 ```ad-embed-ability
-title: False Step [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  
+title: **False Step** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([arcane](rules/traits/arcane.md), [conjuration](rules/traits/conjuration.md), [teleportation](rules/traits/teleportation.md))
 
 - **Trigger**: A creature enters the room and steps onto the floor
 
 **Effect** The creature slips through the floor; it tumbles through an interdimensional void before falling back into the room through the ceiling and landing on the floor. The triggering creature takes 40 bludgeoning damage from the fall. That creature can try to [Grab an Edge](rules/actions/grab-an-edge.md) (DC 24) to avoid falling.  
-%% #trait/arcane #trait/conjuration #trait/teleportation %%
+%%
+ #trait/arcane  #trait/conjuration  #trait/teleportation 
+%%
 ```
 
 **Reset** automatic  

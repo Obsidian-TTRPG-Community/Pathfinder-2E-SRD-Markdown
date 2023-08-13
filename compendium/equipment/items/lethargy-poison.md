@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/crb
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/incapacitation
@@ -17,9 +17,8 @@ aliases: ["Lethargy Poison"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [injury](rules/traits/injury.md "Injury Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [sleep](rules/traits/sleep.md "Sleep Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 7 gp
-- **Usage** held in 2 hands; **Bulk** L
+- **Bulk** L; **Usage** held in 2 hands
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 Lethargy poison is commonly used in hit-and-run tactics by drow and others who want their victims alive; the ambusher retreats until the poison sets in and the victim falls [unconscious](rules/conditions.md#Unconscious). Further exposure to lethargy poison does not require the target to attempt additional saving throws; only failing an saving throw against an ongoing exposure can progress its stage.
 
@@ -39,4 +38,6 @@ title: Saving Throw: DC 18 Fortitude
 **Stage 4** [unconscious](rules/conditions.md#Unconscious) with no [Perception](compendium/skills.md#Perception) check to wake up. (`1d4` hours)
 ```
 
+
+---
 *Source: Core Rulebook p. 552*

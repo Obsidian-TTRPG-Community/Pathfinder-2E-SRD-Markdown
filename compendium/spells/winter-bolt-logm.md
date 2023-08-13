@@ -12,10 +12,10 @@ aliases: ["Winter Bolt"]
 # Winter Bolt *Focus 1*   
 [attack](rules/traits/attack.md "Attack Combat Trait")  [cold](rules/traits/cold.md "Cold Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
-- **Domains**: [cold](compendium/setting/domains.md#Cold)
+- **Domains** [cold](compendium/setting/domains.md#Cold)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**60 foot
-- **Targets**1 creature
+- **Range**: 60 foot
+- **Targets**: 1 creature
 
 You fling a hollow icicle filled with winter's wrath. Make a spell attack against a target within range. The bolt deals `1d8` piercing damage and lodges in the target. At the end of the target's next turn, the bolt shatters, releasing a whirl of snow and ice that deals `1d12` cold damage to the target and all adjacent creatures. The bolt can be removed with an [Interact](rules/actions/interact.md) action, which causes it to melt harmlessly without detonating.
 

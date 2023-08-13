@@ -16,7 +16,8 @@ aliases: ["Access Lore"]
 
 - **Mystery** Oracle
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Duration**1 minute
+- 
+- **Duration**: 1 minute
 
 You sift through the multiverse's divine knowledge, seeking out tidbits related to a particular subject. Choose one [Lore](compendium/skills.md#Lore) skill. You temporarily gain the same proficiency rank in that [Lore](compendium/skills.md#Lore) skill as your proficiency rank for your oracle spellcasting.
 

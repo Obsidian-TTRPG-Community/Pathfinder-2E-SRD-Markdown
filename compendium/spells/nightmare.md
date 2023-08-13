@@ -11,12 +11,12 @@ aliases: ["Nightmare"]
 # Nightmare *Spell 4*   
 [illusion](rules/traits/illusion.md "Illusion School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 10 minutes 
-- **Range**planetary
-- **Targets**1 creature you know by name
-- **Saving Throw** Will
-- **Duration**1 day
+- **Range**: planetary
+- **Targets**: 1 creature you know by name
+- **Saving Throw**: Will
+- **Duration**: 1 day
 
 You send disturbing nightmares to your target. The next time the target falls asleep, it must attempt a Will save. If you know the target only by name and have never met them, the target gets a +4 circumstance bonus to the Will save.
 

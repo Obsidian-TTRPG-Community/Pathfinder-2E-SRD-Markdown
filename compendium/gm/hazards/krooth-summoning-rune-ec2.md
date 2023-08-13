@@ -18,15 +18,16 @@ aliases: ["Krooth Summoning Rune"]
 The haze conceals a rune that summons a krooth in front of the door to area B10.
 
 - **Disable** DC 24 [Acrobatics](compendium/skills.md#Acrobatics) to approach without triggering the trap followed by DC 26 [Thievery](compendium/skills.md#Thievery) (expert) to erase the rune, or dispel magic (4th level; counteract DC 24) to counteract the rune.  
-     
+
 ```ad-embed-ability
-title: Summon Monster [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  summon  
+title: **Summon Monster** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([arcane](rules/traits/arcane.md), [conjuration](rules/traits/conjuration.md), summon)
 
 - **Trigger**: A non-xulgath, non-demon creature that isn't carrying a religious symbol of Zevgavizeb crosses from the north part of the hall to the south part of the hall
 
 **Effect** The trap summons a krooth (Bestiary 215). The krooth rolls initiative and remains for `2d6` rounds, after which the spell ends and the krooth disappears. The krooth also disappears if someone disables the trap before the duration expires. Unlike most summoned creatures, the krooth can use 3 actions each round and can use reactions.  
-%% #trait/arcane #trait/conjuration #trait/summon %%
+%%
+ #trait/arcane  #trait/conjuration  #trait/summon 
+%%
 ```
 
 **Reset** The trap resets after 24 hours.  

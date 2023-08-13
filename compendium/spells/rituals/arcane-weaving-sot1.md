@@ -16,6 +16,7 @@ aliases: ["Arcane Weaving"]
 - **Secondary Casters** 1
 - **Primary Checks** [Arcana](compendium/skills.md#Arcana) or [Occultism](compendium/skills.md#Occultism) (expert)
 - **Secondary Checks** [Arcana](compendium/skills.md#Arcana), [Crafting](compendium/skills.md#Crafting), or [Occultism](compendium/skills.md#Occultism)
+- 
 
 You and the secondary casters weave together spells (and, if anadis, silk) in a complex ritual that combines magical learning with art, allowing all the participants to share spells they know with one another.
 

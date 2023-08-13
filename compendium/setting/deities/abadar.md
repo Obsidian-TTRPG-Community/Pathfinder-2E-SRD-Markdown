@@ -16,7 +16,7 @@ aliases: ["Abadar", "The Master of the First Vault"]
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: engage in banditry or piracy, steal, undermine a law-abiding court
-- **Areas of Concern**: cities, , law, , merchants, , and wealth
+- **Areas of Concern**: cities, law, merchants, and wealth
 - **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait")
 
 ## Devotee benefits
@@ -33,7 +33,8 @@ aliases: ["Abadar", "The Master of the First Vault"]
 title: [Avatar](compendium/spells/avatar.md) of Abadar
 
 - **Speed**: Speed 50 feet, burrow 30 feet, immune to [immobilized](rules/conditions.md#Immobilized)
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") crossbow **Damage** `6d10+3` piercing
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") crossbow (), **Damage** `6d10+3` piercing 
 ```
 
 ## Divine intercession

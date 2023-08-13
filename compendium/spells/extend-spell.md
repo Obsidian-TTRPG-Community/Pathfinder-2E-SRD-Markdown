@@ -15,6 +15,7 @@ aliases: ["Extend Spell"]
 
 - **Bloodline** Sorcerer
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
+- 
 
 You call upon your blood's knowledge of the ancients to extend your magic. If your next action is to [Cast a Spell](rules/actions/cast-a-spell.md) with a duration of 1 minute on a single target, and the spell isn't of the highest spell level you can cast, the spell instead lasts 10 minutes. You can have only one active spell at a time extended in this way.
 

@@ -17,14 +17,12 @@ An iron portcullis drops from the ceiling when a pressure plate is triggered.
 
 - **Disable** DC 27 [Thievery](compendium/skills.md#Thievery) (expert) to disable the floor trigger, or DC 27 [Athletics](compendium/skills.md#Athletics) or [Engineering Lore](compendium/skills.md#Lore) to jam the portcullis in the ceiling  
 
-- **AC** 25 , **Fort** +15, **Ref** +18
+- **AC** 25, **Fort** +15, **Ref** +18
 - **Hardness** 18, **HP** 72 (BT 36)
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Slam Shut [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Slam Shut** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: The pressure plate is depressed
 

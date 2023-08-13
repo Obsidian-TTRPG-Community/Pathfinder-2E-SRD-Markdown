@@ -14,14 +14,13 @@ You're a special personality... and you know it. You're not merely comfortable i
 ````ad-embed-feat
 title: Celebrity Dedication, Feat 2
 collapse: closed
-# Celebrity Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 
 The more people you have looking at you, the more content you are, and you take every opportunity to show up others when their performances are less than perfect. You gain the Upstage reaction. In addition, when you [Earn Income](rules/actions/earn-income.md), if the level of the task is higher than your level, you gain a +1 circumstance bonus to your check to [Earn Income](rules/actions/earn-income.md).
 
 ```ad-embed-ability
-title: Upstage [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Upstage** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A foe attempts a skill check and doesn't get a critical success
 
@@ -41,7 +40,6 @@ title: Upstage [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Re
 ```ad-embed-feat
 title: Never Tire, Feat 4
 collapse: closed
-# Never Tire  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Celebrity Dedication](compendium/feats/celebrity-dedication-apg.md)
@@ -58,7 +56,6 @@ As long as you have an audience, you can continue to perform. Indeed, you mustâ€
 ```ad-embed-feat
 title: Mesmerizing Gaze, Feat 6
 collapse: closed
-# Mesmerizing Gaze  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Prerequisites**: [Celebrity Dedication](compendium/feats/celebrity-dedication-apg.md)
@@ -75,7 +72,6 @@ When you select this feat, it gains either the [arcane](rules/traits/arcane.md "
 ```ad-embed-feat
 title: Command Attention, Feat 10
 collapse: closed
-# Command Attention  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Prerequisites**: [Celebrity Dedication](compendium/feats/celebrity-dedication-apg.md)

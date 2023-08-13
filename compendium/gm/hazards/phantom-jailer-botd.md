@@ -15,9 +15,9 @@ aliases: ["Phantom Jailer"]
 A spirit appears and arrests the creature by clamping manacles around their wrists.
 
 - **Disable** DC 18 [Athletics](compendium/skills.md#Athletics) to seize the manacles from the spirit, DC 19 [Intimidation](compendium/skills.md#Intimidation) (trained) to order the spirit to stand down, or DC 20 [Occultism](compendium/skills.md#Occultism) to exorcise the spirit  
-     
+
 ```ad-embed-ability
-title: Capture [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Capture** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature touches the manacles
 

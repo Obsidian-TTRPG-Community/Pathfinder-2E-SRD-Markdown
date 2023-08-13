@@ -20,14 +20,11 @@ An ornate wheel, divided into eight segments with a rune painted on each, is mou
 
 - **Disable** DC 31 [Thievery](compendium/skills.md#Thievery) (master) on the wheel to flip the switch returning it to a harmless carnival game, DC 26 [Thievery](compendium/skills.md#Thievery) (expert) to erase each rune, or dispel magic (5th level; counteract DC 28) to counteract each rune.  
 
-- **AC** 30 , **Fort** +21, **Ref** +15
+- **AC** 30, **Fort** +21, **Ref** +15
 - **Hardness** 16, **HP** 80 (BT 40)
-- **Immunities** 
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Wheel Spin [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Wheel Spin** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature pulls the lever or enters the sensor's detection area
 
@@ -36,8 +33,8 @@ title: Wheel Spin [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions 
 
 ```ad-pf2-summary
 title: Routine
-[>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") On its initiative, the trap uses its first action to spin, then stops. Roll `1d8` to determine which segment is topmost when the wheel stops spinning. The wheel uses its second action to replicate the spell listed for that segment (5th level, DC 27, spell attack roll +17). This spell's target is centered on or otherwise includes the nearest creature in the spell's area. This increases the spell's range to 30 feet if necessary. Any spell cast by this trap is occult.
 
+[>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") On its initiative, the trap uses its first action to spin, then stops. Roll `1d8` to determine which segment is topmost when the wheel stops spinning. The wheel uses its second action to replicate the spell listed for that segment (5th level, DC 27, spell attack roll +17). This spell's target is centered on or otherwise includes the nearest creature in the spell's area. This increases the spell's range to 30 feet if necessary. Any spell cast by this trap is occult.
 1 black tentacles 2 blindness 3 confusion 4 death ward 5 outcast's curse 6 shadow blast (force damage in a 30-foot line) 7 sound burst 8 spider climb.
 ```
 ^routine

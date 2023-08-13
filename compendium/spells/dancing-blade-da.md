@@ -14,9 +14,9 @@ aliases: ["Dancing Blade"]
 [cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 creature
-- **Duration**sustained up to 1 minute
+- **Range**: 30 foot
+- **Targets**: 1 creature
+- **Duration**: sustained up to 1 minute
 
 You telekinetically animate a weapon that's unattended or on your person. It brandishes itself at a foe of your choice as if wielded by an [invisible](rules/conditions.md#Invisible) duelist. When you first [Cast the Spell](rules/actions/cast-a-spell.md), the weapon automatically flies to the target and [Strikes](rules/actions/strike.md). It moves along with its target, always remaining within reach.
 

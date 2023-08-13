@@ -16,14 +16,16 @@ aliases: ["Wrecker"]
 
 - **Price** 8 gp
 - **Bulk** 2
-- **Ranged**  
-  - **Damage** `1d6` B
+- **Ranged**:  
+  - **Damage**: `1d6` B
   - **Range** 20 ft.; **Reload** 1
-- **Melee**  
-  - **Damage** `1d8` B
+- **Melee**:  
+  - **Damage**: `1d8` B
 - **Hands** 2
 - **Category** Advanced
 
 The wrecker combines a dwarven dorndergar with a heavy, gear-reinforced arm cover that allows it to be fired like an oversized sling, then retrieved and reloaded by manually activating a clockwork spool. A wrecker must be loaded to be switched from its ranged configuration to its melee configuration.
 
+
+---
 *Source: Treasure Vault p. 31*

@@ -13,7 +13,8 @@ aliases: ["Perfect Strike"]
 [divination](rules/traits/divination.md "Divination School Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
-- **Trigger**You miss a [Strike](rules/actions/strike.md) with an unarmed attack.
+- **Trigger**: You miss a [Strike](rules/actions/strike.md) with an unarmed attack.
+- 
 
 You call upon insight from your training to recover accuracy. Reroll the missed attack roll and keep the new result.
 

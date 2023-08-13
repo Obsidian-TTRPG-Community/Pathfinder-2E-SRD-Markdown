@@ -13,11 +13,11 @@ aliases: ["Nature's Reprisal"]
 # Nature's Reprisal *Spell 6*   
 [plant](rules/traits/plant.md "Plant Creature Type Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**120 foot
-- **Area**all squares on the ground that contain plants in an 80-foot burst
-- **Duration**1 minute
+- **Range**: 120 foot
+- **Area**: all squares on the ground that contain plants in an 80-foot burst
+- **Duration**: 1 minute
 
 The plant life within the area begins to writhe and lash out against your enemies as you call upon nature to impede your foes. To your enemies, the area becomes difficult terrain, and areas that were naturally difficult terrain due to plants become greater difficult terrain as well as hazardous terrain, dealing 6 poison damage to an enemy each time it enters an affected square.
 

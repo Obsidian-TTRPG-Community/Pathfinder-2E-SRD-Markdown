@@ -14,8 +14,8 @@ aliases: ["Symphony Of The Unfettered Heart"]
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [bard](rules/traits/bard.md "Bard Class Trait")  [composition](rules/traits/composition.md "Composition Spell Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**you or 1 ally
+- **Range**: 30 foot
+- **Targets**: you or 1 ally
 
 Your symphony lifts listeners from their worldly concerns.
 

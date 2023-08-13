@@ -11,11 +11,11 @@ aliases: ["Organsight"]
 # Organsight *Spell 3*   
 [divination](rules/traits/divination.md "Divination School Trait")  [revelation](rules/traits/revelation.md "Revelation Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 living or undead creature that has organs
-- **Duration**1 minute
+- **Range**: 30 foot
+- **Targets**: 1 living or undead creature that has organs
+- **Duration**: 1 minute
 
 You see the target as though it's dissected and arrayed before you. For the duration, you gain a +2 circumstance bonus on [Medicine](compendium/skills.md#Medicine) checks against the target that depend on its organs, but a –2 circumstance penalty on [Medicine](compendium/skills.md#Medicine) checks depending on seeing its skin.
 

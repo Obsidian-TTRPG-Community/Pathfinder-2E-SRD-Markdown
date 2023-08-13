@@ -16,7 +16,8 @@ aliases: ["Tempest Form"]
 
 - **Mystery** Oracle
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Duration**sustained up to 1 minute
+- 
+- **Duration**: sustained up to 1 minute
 
 Your body becomes fluid to better suit your surroundings.
 

@@ -10,10 +10,10 @@ aliases: ["Mending"]
 # Mending *Spell 1*   
 [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** 10 minutes 
-- **Range**touch
-- **Targets**non-magical object of light Bulk or less
+- **Range**: touch
+- **Targets**: non-magical object of light Bulk or less
 
 You repair the target item. You restore 5 Hit Points per spell level to the target, potentially removing the [broken](rules/conditions.md#Broken) condition if this repairs it past the item's [Broken](rules/conditions.md#Broken) Threshold. You can't replace lost pieces or repair an object that's been completely destroyed.
 

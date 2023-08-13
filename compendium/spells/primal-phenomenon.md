@@ -10,8 +10,9 @@ aliases: ["Primal Phenomenon"]
 # Primal Phenomenon *Spell 10*   
 [divination](rules/traits/divination.md "Divination School Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
+- 
 
 You request a direct intercession from the natural world.
 

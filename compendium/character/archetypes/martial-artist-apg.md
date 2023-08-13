@@ -14,7 +14,6 @@ You have trained in the martial arts, making your unarmed strikes lethal. You se
 ```ad-embed-feat
 title: Martial Artist Dedication, Feat 2
 collapse: closed
-# Martial Artist Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 
@@ -31,7 +30,6 @@ Whenever you gain a class feature that grants you expert or greater proficiency 
 ```ad-embed-feat
 title: Brawling Focus, Feat 4*
 collapse: closed
-# Brawling Focus  *Feat 4*  
 [monk](rules/traits/monk.md "Monk Class Trait")  
 
 > [!pf2-note] This version of [Brawling Focus](compendium/feats/brawling-focus.md) is intended for use with the Martial Artist Archetype. Its level has been changed accordingly.
@@ -46,7 +44,6 @@ You know how to make the most of your attacks when fighting hand-to-hand. You ga
 ```ad-embed-feat
 title: Crane Stance, Feat 4*
 collapse: closed
-# Crane Stance  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
 [monk](rules/traits/monk.md "Monk Class Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
 
 > [!pf2-note] This version of [Crane Stance](compendium/feats/crane-stance.md) is intended for use with the Martial Artist Archetype. Its level has been changed accordingly.
@@ -65,7 +62,6 @@ While in Crane Stance, reduce the DC for [High Jump](rules/actions/high-jump.md)
 ```ad-embed-feat
 title: Dragon Stance, Feat 4*
 collapse: closed
-# Dragon Stance  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
 [monk](rules/traits/monk.md "Monk Class Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
 
 > [!pf2-note] This version of [Dragon Stance](compendium/feats/dragon-stance.md) is intended for use with the Martial Artist Archetype. Its level has been changed accordingly.
@@ -84,7 +80,6 @@ While in Dragon Stance, you can ignore the first square of difficult terrain whi
 ```ad-embed-feat
 title: Gorilla Stance, Feat 4*
 collapse: closed
-# Gorilla Stance  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
 [monk](rules/traits/monk.md "Monk Class Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
 
 > [!pf2-note] This version of [Gorilla Stance](compendium/feats/gorilla-stance-apg.md) is intended for use with the Martial Artist Archetype. Its level has been changed accordingly.
@@ -102,7 +97,6 @@ These deal `1d8` bludgeoning damage; are in the brawling group; and have the [ba
 ```ad-embed-feat
 title: Mountain Stance, Feat 4*
 collapse: closed
-# Mountain Stance  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
 [monk](rules/traits/monk.md "Monk Class Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
 
 > [!pf2-note] This version of [Mountain Stance](compendium/feats/mountain-stance.md) is intended for use with the Martial Artist Archetype. Its level has been changed accordingly.
@@ -121,7 +115,6 @@ While in Mountain Stance, you gain a +4 item bonus to AC and a +2 circumstance b
 ```ad-embed-feat
 title: Stumbling Stance, Feat 4*
 collapse: closed
-# Stumbling Stance  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
 [monk](rules/traits/monk.md "Monk Class Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
 
 > [!pf2-note] This version of [Stumbling Stance](compendium/feats/stumbling-stance-apg.md) is intended for use with the Martial Artist Archetype. Its level has been changed accordingly.
@@ -138,7 +131,6 @@ You enter a seemingly unfocused stance that mimics the movements of the inebriat
 ```ad-embed-feat
 title: Tiger Stance, Feat 4*
 collapse: closed
-# Tiger Stance  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
 [monk](rules/traits/monk.md "Monk Class Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
 
 > [!pf2-note] This version of [Tiger Stance](compendium/feats/tiger-stance.md) is intended for use with the Martial Artist Archetype. Its level has been changed accordingly.
@@ -157,7 +149,6 @@ As long as your Speed is at least 20 feet while in Tiger Stance, you can [Step](
 ```ad-embed-feat
 title: Wolf Stance, Feat 4*
 collapse: closed
-# Wolf Stance  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
 [monk](rules/traits/monk.md "Monk Class Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
 
 > [!pf2-note] This version of [Wolf Stance](compendium/feats/wolf-stance.md) is intended for use with the Martial Artist Archetype. Its level has been changed accordingly.
@@ -176,7 +167,6 @@ If you're flanking a target while in Wolf Stance, your wolf jaw unarmed attacks 
 ```ad-embed-feat
 title: Follow-up Strike, Feat 6
 collapse: closed
-# Follow-up Strike  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 - **Prerequisites**: [Martial Artist Dedication](compendium/feats/martial-artist-dedication-apg.md)
@@ -194,7 +184,6 @@ Make another [Strike](rules/actions/strike.md) with a melee unarmed attack, usin
 ```ad-embed-feat
 title: Crane Flutter, Feat 8*
 collapse: closed
-# Crane Flutter  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
 [monk](rules/traits/monk.md "Monk Class Trait")  
 
 > [!pf2-note] This version of [Crane Flutter](compendium/feats/crane-flutter.md) is intended for use with the Martial Artist Archetype. Its level has been changed accordingly.
@@ -213,7 +202,6 @@ You interpose your arm between yourself and your opponent. Your circumstance bon
 ```ad-embed-feat
 title: Dragon Roar, Feat 8*
 collapse: closed
-# Dragon Roar  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
 [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  
 
 > [!pf2-note] This version of [Dragon Roar](compendium/feats/dragon-roar.md) is intended for use with the Martial Artist Archetype. Its level has been changed accordingly.
@@ -233,7 +221,6 @@ After you use Dragon Roar, you can't use it again for `1d4` rounds. Its effects 
 ```ad-embed-feat
 title: Gorilla Pound, Feat 8*
 collapse: closed
-# Gorilla Pound  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
 [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  
 
 > [!pf2-note] This version of [Gorilla Pound](compendium/feats/gorilla-pound-apg.md) is intended for use with the Martial Artist Archetype. Its level has been changed accordingly.
@@ -257,7 +244,6 @@ If your [Strike](rules/actions/strike.md) hits, you gain a circumstance bonus to
 ```ad-embed-feat
 title: Grievous Blow, Feat 8
 collapse: closed
-# Grievous Blow  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 - **Prerequisites**: [Martial Artist Dedication](compendium/feats/martial-artist-dedication-apg.md)
@@ -276,7 +262,6 @@ This attack also ignores an amount of resistance to physical damage, or to a spe
 ```ad-embed-feat
 title: Mountain Stronghold, Feat 8*
 collapse: closed
-# Mountain Stronghold  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
 [monk](rules/traits/monk.md "Monk Class Trait")  
 
 > [!pf2-note] This version of [Mountain Stronghold](compendium/feats/mountain-stronghold.md) is intended for use with the Martial Artist Archetype. Its level has been changed accordingly.
@@ -296,7 +281,6 @@ You focus on your connection to the earth and call upon the mountain to block at
 ```ad-embed-feat
 title: Stumbling Feint, Feat 8*
 collapse: closed
-# Stumbling Feint  *Feat 8*  
 [monk](rules/traits/monk.md "Monk Class Trait")  
 
 > [!pf2-note] This version of [Stumbling Feint](compendium/feats/stumbling-feint-apg.md) is intended for use with the Martial Artist Archetype. Its level has been changed accordingly.
@@ -313,7 +297,6 @@ You lash out confusingly with what seems to be a weak move but instead allows yo
 ```ad-embed-feat
 title: Tiger Slash, Feat 8*
 collapse: closed
-# Tiger Slash  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
 [monk](rules/traits/monk.md "Monk Class Trait")  
 
 > [!pf2-note] This version of [Tiger Slash](compendium/feats/tiger-slash.md) is intended for use with the Martial Artist Archetype. Its level has been changed accordingly.
@@ -331,7 +314,6 @@ You make a fierce swipe with both hands. Make a tiger claw [Strike](rules/action
 ```ad-embed-feat
 title: Wolf Drag, Feat 8*
 collapse: closed
-# Wolf Drag  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
 [monk](rules/traits/monk.md "Monk Class Trait")  
 
 > [!pf2-note] This version of [Wolf Drag](compendium/feats/wolf-drag.md) is intended for use with the Martial Artist Archetype. Its level has been changed accordingly.
@@ -349,7 +331,6 @@ You rip your enemy off their feet. Make a wolf jaw [Strike](rules/actions/strike
 ```ad-embed-feat
 title: Path Of Iron, Feat 14*
 collapse: closed
-# Path Of Iron  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 14*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 > [!pf2-note] This version of [Path Of Iron](compendium/feats/path-of-iron-apg.md) is intended for use with the Martial Artist Archetype. Its level has been changed accordingly.
@@ -367,7 +348,6 @@ With a burst of effort, you weave a path through your enemies, striking each in 
 ```ad-embed-feat
 title: Mountain Quake, Feat 16*
 collapse: closed
-# Mountain Quake  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 16*  
 [monk](rules/traits/monk.md "Monk Class Trait")  
 
 > [!pf2-note] This version of [Mountain Quake](compendium/feats/mountain-quake.md) is intended for use with the Martial Artist Archetype. Its level has been changed accordingly.

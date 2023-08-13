@@ -14,7 +14,6 @@ Whether for coin, glory, or justice, you know how to track, defeat, and capture 
 ```ad-embed-feat
 title: Bounty Hunter Dedication, Feat 2
 collapse: closed
-# Bounty Hunter Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: trained in [Survival](compendium/skills.md#Survival)
@@ -32,7 +31,6 @@ If you already have [Hunt Prey](rules/actions/hunt-prey.md), you become an exper
 ```ad-embed-feat
 title: Posse, Feat 4
 collapse: closed
-# Posse  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  
 
 - **Prerequisites**: [Bounty Hunter Dedication](compendium/feats/bounty-hunter-dedication-apg.md)
@@ -49,7 +47,6 @@ This benefit lasts until you designate a new prey or your prey dies, whichever c
 ```ad-embed-feat
 title: Tools Of The Trade, Feat 4
 collapse: closed
-# Tools Of The Trade  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Bounty Hunter Dedication](compendium/feats/bounty-hunter-dedication-apg.md)
@@ -65,7 +62,6 @@ In addition, you take no penalty when making a nonlethal attack with a weapon wi
 ```ad-embed-feat
 title: Keep Pace, Feat 6
 collapse: closed
-# Keep Pace  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Bounty Hunter Dedication](compendium/feats/bounty-hunter-dedication-apg.md)
@@ -81,7 +77,6 @@ Your prey can't escape. [Stride](rules/actions/stride.md) up to your Speed, foll
 ```ad-embed-feat
 title: Opportunistic Grapple, Feat 8
 collapse: closed
-# Opportunistic Grapple  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Bounty Hunter Dedication](compendium/feats/bounty-hunter-dedication-apg.md)
@@ -98,7 +93,6 @@ You attempt an [Athletics](compendium/skills.md#Athletics) check to [Grapple](ru
 ```ad-embed-feat
 title: Double Prey, Feat 14*
 collapse: closed
-# Double Prey  *Feat 14*  
 [ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 > [!pf2-note] This version of [Double Prey](compendium/feats/double-prey.md) is intended for use with the Bounty Hunter Archetype. Its level has been changed accordingly.

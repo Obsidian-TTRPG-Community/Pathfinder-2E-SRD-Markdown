@@ -15,7 +15,7 @@ aliases: ["Keepers of the Hearth"]
 
 - **Category**: Pantheon
 - **Anathema**: prey on the weak, abuse power; sow discord in a community
-- **Areas of Concern**: protecting and defending the innocent, , maintaining the spirit and traditions of a community
+- **Areas of Concern**: protecting and defending the innocent, maintaining the spirit and traditions of a community
 - **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait")
 
 ## Devotee benefits

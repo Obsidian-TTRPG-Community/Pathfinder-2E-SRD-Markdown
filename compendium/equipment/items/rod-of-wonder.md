@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/crb
-- item/category/held
+- item/category/held/
 - trait/chaotic
 - trait/evocation
 - trait/magical
@@ -14,13 +14,13 @@ aliases: ["Rod of Wonder"]
 [chaotic](rules/traits/chaotic.md "Chaotic Alignment Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 465 gp
-- **Usage** held in 1 hand; **Bulk** L
-- **Category** Held
+- **Bulk** L; **Usage** held in 1 hand
 
 This peculiar rod is strange and unpredictable. Each time it is activated, it produces one of a variety of effects at random.
 
 ```ad-embed-ability
-title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
+title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") command, [Interact](rules/actions/interact.md)
+
 
 Choose a creature within 60 feet and roll d% on the table below to determine the rod's effect. If an entry lists only a spell name, the rod casts that spell at its lowest level. You make any decisions for a spell cast by the rod unless otherwise indicated, except that it must target the creature you chose, or the creature you chose must be the center of the spell's area, if it has an area but no targets. If the spell's range is less than 60 feet, increase the range to 60 feet.
 
@@ -61,4 +61,6 @@ Once activated, the rod can't be activated again for `1d4` hours.
 | 98–100 | The rod casts [shrink](compendium/spells/shrink.md) on you, lasting 1 day |
 
 
+
+---
 *Source: Core Rulebook p. 575*

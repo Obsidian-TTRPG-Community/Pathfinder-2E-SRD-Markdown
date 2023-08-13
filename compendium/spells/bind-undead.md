@@ -10,11 +10,11 @@ aliases: ["Bind Undead"]
 # Bind Undead *Spell 3*   
 [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 mindless undead creature with a level no greater than bind undead's spell level
-- **Duration**1 day
+- **Range**: 30 foot
+- **Targets**: 1 mindless undead creature with a level no greater than bind undead's spell level
+- **Duration**: 1 day
 
 With a word of necromantic power, you seize control of the target. It gains the minion trait. If you or an ally uses any [hostile](rules/conditions.md#Hostile) actions against the target, the spell ends.
 

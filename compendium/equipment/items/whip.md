@@ -16,10 +16,12 @@ aliases: ["Whip"]
 
 - **Price** 1 sp
 - **Bulk** 1
-- **Damage** `1d4` S
+  - **Damage**: `1d4` S
 - **Hands** 1
 - **Category** Martial; **Group** Flail 
 
 This long strand of thick leather, often braided, delivers a painful but nonlethal slash at a distance, usually accompanied by a distinctive cracking sound.
 
+
+---
 *Source: Core Rulebook p. 281*

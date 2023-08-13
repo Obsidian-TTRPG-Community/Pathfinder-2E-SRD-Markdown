@@ -17,8 +17,8 @@ aliases: ["Angelic Halo"]
 
 - **Bloodline** Sorcerer
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Area**15-foot emanation
-- **Duration**1 minute
+- **Area**: 15-foot emanation
+- **Duration**: 1 minute
 
 You gain an angelic halo with an aura that increases allies' healing from the [heal](compendium/spells/heal.md) spell. Allies in your halo's emanation who are healed by a [heal](compendium/spells/heal.md) spell gain a status bonus to Hit Points regained equal to double the [heal](compendium/spells/heal.md) spell's level.
 

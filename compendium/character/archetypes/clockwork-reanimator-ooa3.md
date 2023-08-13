@@ -20,7 +20,6 @@ While some think your creations are vile, you see beauty in utility and believe 
 ```ad-embed-feat
 title: Clockwork Reanimator Dedication, Feat 2
 collapse: closed
-# Clockwork Reanimator Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Prerequisites**: trained in [Crafting](compendium/skills.md#Crafting)
@@ -36,7 +35,6 @@ You can animate corpses through cunning engineering. You gain a prototype constr
 ```ad-embed-feat
 title: Advanced Reanimated Companion, Feat 4
 collapse: closed
-# Advanced Reanimated Companion  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Clockwork Reanimator Dedication](compendium/feats/clockwork-reanimator-dedication-ooa3.md)
@@ -50,7 +48,6 @@ Your corpselike construct companion becomes much more powerful and can act with 
 ```ad-embed-feat
 title: Hijack Undead, Feat 4
 collapse: closed
-# Hijack Undead  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Clockwork Reanimator Dedication](compendium/feats/clockwork-reanimator-dedication-ooa3.md)
@@ -72,7 +69,6 @@ Your clockwork devices can commandeer the bodies of undead, bending them to your
 ```ad-embed-feat
 title: It's Alive!, Feat 6
 collapse: closed
-# It's Alive!  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Clockwork Reanimator Dedication](compendium/feats/clockwork-reanimator-dedication-ooa3.md)
@@ -86,7 +82,6 @@ You've mastered the use of electrical energy to power your clockwork creations. 
 ```ad-embed-feat
 title: Self-Destruct, Feat 12*
 collapse: closed
-# Self-Destruct  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Self-Destruct](compendium/feats/self-destruct-ooa3.md) is intended for use with the Clockwork Reanimator Archetype. Its level has been changed accordingly.
@@ -105,7 +100,6 @@ You've installed a self-destruct device within your construct companion, which y
 ```ad-embed-feat
 title: Improved Hijack Undead, Feat 14*
 collapse: closed
-# Improved Hijack Undead  *Feat 14*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Improved Hijack Undead](compendium/feats/improved-hijack-undead-ooa3.md) is intended for use with the Clockwork Reanimator Archetype. Its level has been changed accordingly.
@@ -121,7 +115,6 @@ Undead creatures find it all but impossible to resist your commands. When you us
 ```ad-embed-feat
 title: Unwind Death, Feat 16*
 collapse: closed
-# Unwind Death  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 16*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Unwind Death](compendium/feats/unwind-death-ooa3.md) is intended for use with the Clockwork Reanimator Archetype. Its level has been changed accordingly.
@@ -139,7 +132,6 @@ Combining necromancy with the mysterious temporal powers of clockwork, you wind 
 ```ad-embed-feat
 title: Zombie Horde, Feat 20*
 collapse: closed
-# Zombie Horde  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 20*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Zombie Horde](compendium/feats/zombie-horde-ooa3.md) is intended for use with the Clockwork Reanimator Archetype. Its level has been changed accordingly.

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/g&g
-- item/category/adventuring-gear
+- item/category/adventuring-gear/
 - trait/rare
 - trait/steam
 aliases: ["Steam Winch"]
@@ -12,8 +12,7 @@ aliases: ["Steam Winch"]
 [rare](rules/traits/rare.md "Rare Rarity Trait")  [steam](rules/traits/steam-g-g.md "Steam  Trait")  
 
 - **Price** 425 gp
-- **Usage** operated with two hands; **Bulk** 2
-- **Category** Adventuring Gear
+- **Bulk** 2; **Usage** operated with two hands
 
 This hefty winch is powered by a small steam engine and includes a 100 ft. length of steel cable, which enables you to haul a heavier load than you could with a hand cranked winch or [comealong](compendium/equipment/items/comealong-lopsg.md). A steam winch allows you to slowly pull a heavy load (usually up to 50 Bulk) along a flat surface or up and down a vertical expanse.
 
@@ -21,4 +20,6 @@ Attaching a steam winch to a device takes three [Interact](rules/actions/interac
 
 Every twenty minutes, the boiler must be refilled and heat levels maintained.
 
+
+---
 *Source: Guns & Gears p. 89*

@@ -11,12 +11,12 @@ aliases: ["Shift Blame"]
 # Shift Blame *Spell 3*   
 [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
-- **Trigger**You or another creature attacks a creature or fails at a [Deception](compendium/skills.md#Deception), [Diplomacy](compendium/skills.md#Diplomacy), or [Intimidation](compendium/skills.md#Intimidation) check.
-- **Range**30 foot
-- **Targets**the target of the triggering attack or skill check
-- **Saving Throw** Will
+- **Trigger**: You or another creature attacks a creature or fails at a [Deception](compendium/skills.md#Deception), [Diplomacy](compendium/skills.md#Diplomacy), or [Intimidation](compendium/skills.md#Intimidation) check.
+- **Range**: 30 foot
+- **Targets**: the target of the triggering attack or skill check
+- **Saving Throw**: Will
 
 You alter the target's memories of the triggering event as they form. You choose another creature (which can be you) with the capacity to make the triggering attack or skill check, and you alter the target's memories to recall the creature you chose as responsible for the triggering attack or skill check. The target must attempt a Will save and is then temporarily immune for 24 hours.
 

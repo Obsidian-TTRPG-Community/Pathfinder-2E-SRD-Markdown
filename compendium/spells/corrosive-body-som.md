@@ -12,9 +12,10 @@ aliases: ["Corrosive Body"]
 # Corrosive Body *Spell 7*   
 [acid](rules/traits/acid.md "Acid Energy & Element Trait")  [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Duration**1 minute
+- 
+- **Duration**: 1 minute
 
 You exhale corrosive gas, and acidic secretions coat your skin as you transform into a being of living acid. You gain acid immunity. Any creature that touches you or damages you with an unarmed melee attack or non-reach melee weapon takes `3d6` acid damage, and your unarmed attacks deal `1d4` additional acid damage. The first time each round that you deal acid damage to a creature in this way, you gain `3d6` temporary HP as your body digests the eroded material and transforms it into a protective acid. When the spell ends, any remaining temporary HP expires as well. Your acid.
 

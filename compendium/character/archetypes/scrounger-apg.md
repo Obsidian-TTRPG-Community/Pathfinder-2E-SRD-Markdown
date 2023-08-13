@@ -14,7 +14,6 @@ You have spent countless hours disassembling and rebuilding complex items to lea
 ```ad-embed-feat
 title: Scrounger Dedication, Feat 2
 collapse: closed
-# Scrounger Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: trained in [Crafting](compendium/skills.md#Crafting)
@@ -36,7 +35,6 @@ You can incorporate any materials or items that you have on hand, even if they'r
 ```ad-embed-feat
 title: Reverse Engineering, Feat 4
 collapse: closed
-# Reverse Engineering  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: expert in [Crafting](compendium/skills.md#Crafting), [Scrounger Dedication](compendium/feats/scrounger-dedication-apg.md)
@@ -50,7 +48,6 @@ You are able to reverse engineer items into formulas more effectively than most.
 ```ad-embed-feat
 title: High-quality Scrounger, Feat 6
 collapse: closed
-# High-quality Scrounger  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Scrounger Dedication](compendium/feats/scrounger-dedication-apg.md)
@@ -64,7 +61,6 @@ When you [Craft](rules/actions/craft.md) a temporary item using Scrounger Dedica
 ```ad-embed-feat
 title: Expert Disassembly, Feat 7
 collapse: closed
-# Expert Disassembly  *Feat 7*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: master in [Crafting](compendium/skills.md#Crafting), [Scrounger Dedication](compendium/feats/scrounger-dedication-apg.md)

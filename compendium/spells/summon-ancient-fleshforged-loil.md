@@ -12,10 +12,10 @@ aliases: ["Summon Ancient Fleshforged"]
 # Summon Ancient Fleshforged *Spell 9*   
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [incarnate](rules/traits/incarnate-som.md "Incarnate Spell Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**250 foot
-- **Duration**
+- **Range**: 250 foot
+- 
 
 You summon an ancient Fleshforged, one of Nex's personal weaponized monstrosities unleashed in the first wars against Geb. It squeezes itself into its war form from time long forgotten, unleashing its wrath upon your foes.
 

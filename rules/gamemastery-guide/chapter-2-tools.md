@@ -2151,8 +2151,6 @@ Certain drugs alter how addiction works for that drug, adding the [virulent](rul
 ````ad-embed-disease
 title: Addiction, _Disease , level varies_
 collapse: closed
-# Addiction
-*Disease , level varies*  
 
 Track the maximum stage you reach with each drug's addiction. This maximum stage is separate from your current addiction stage for the drug. The maximum stage can't be reduced, even if you fully remove the disease. When you take the drug, two things happen: you attempt a saving throw against addiction, and you suppress the effects of addiction for 1 day. Failing a save against addiction caused by taking the drug causes you to go to 1 stage higher than the maximum stage you had previously reached (2 stages higher on a critical failure). If you're currently suffering from addiction when you attempt a save from taking the drug, you can't improve your stage; if you succeed at the save, the stage remains the same as it was.
 

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/apg
-- item/category/held
+- item/category/held/
 - trait/abjuration
 - trait/magical
 - trait/rare
@@ -13,13 +13,13 @@ aliases: ["Rod Of Cancellation"]
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 75000 gp
-- **Usage** held in 1 hand; **Bulk** 1
-- **Category** Held
+- **Bulk** 1; **Usage** held in 1 hand
 
 This powerful magic rod is inimical to all magic.
 
 ```ad-embed-ability
-title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
+title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") [Interact](rules/actions/interact.md)
+
 
 You touch the rod to a [magical](rules/traits/magical.md "Magical Item Trait") effect or magic item and attempt to counteract the effect or item.
 
@@ -30,4 +30,6 @@ On a success, the effect or item is deactivated for the same amount of time, and
 The rod of cancellation automatically fails to counteract most artifacts and similarly powerful items, but it reacts explosively when activated against a sphere of annihilation without a counteract check (Gamemastery Guide 113).
 ```
 
+
+---
 *Source: Advanced Player's Guide p. 262*

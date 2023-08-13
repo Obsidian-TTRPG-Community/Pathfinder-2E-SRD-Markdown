@@ -11,12 +11,12 @@ aliases: ["Animated Assault"]
 # Animated Assault *Spell 2*   
 [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**120 foot
-- **Area**10-foot burst
-- **Saving Throw**  basic Reflex
-- **Duration**sustained up to 1 minute
+- **Range**: 120 foot
+- **Area**: 10-foot burst
+- **Saving Throw**:  basic Reflex
+- **Duration**: sustained up to 1 minute
 
 You use your mind to manipulate unattended objects in the area, temporarily animating them to attack. The objects hover in the air, then hurl themselves at nearby creatures in a chaotic flurry of debris. This assault deals `2d10` bludgeoning damage (basic Reflex save) to each creature in the area. On subsequent rounds, the first time each round you [Sustain this Spell](rules/actions/sustain-a-spell.md), dealing `1d10` bludgeoning damage (basic Reflex save) to each creature in the area.
 

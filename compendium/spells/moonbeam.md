@@ -15,10 +15,10 @@ aliases: ["Moonbeam"]
 # Moonbeam *Focus 1*   
 [attack](rules/traits/attack.md "Attack Combat Trait")  [cleric](rules/traits/cleric.md "Cleric Class Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [light](rules/traits/light.md "Light Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains**: [moon](compendium/setting/domains.md#Moon)
+- **Domains** [moon](compendium/setting/domains.md#Moon)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**120 foot
-- **Targets**1 creature or object
+- **Range**: 120 foot
+- **Targets**: 1 creature or object
 
 You shine a ray of moonlight. Make a spell attack roll. The beam of light deals `1d6` fire damage. Moonbeam deals silver damage for the purposes of weaknesses, resistances, and the like.
 

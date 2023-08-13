@@ -16,4 +16,6 @@ aliases: ["Hide"]
 
 A mix of furs, sturdy hide, and sometimes molded boiled leather, this armor provides protection due to its layers of leather, though its bulkiness slows the wearer down and decreases mobility.
 
+
+---
 *Source: Core Rulebook p. 275*

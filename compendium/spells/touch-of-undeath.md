@@ -13,11 +13,11 @@ aliases: ["Touch Of Undeath"]
 # Touch Of Undeath *Focus 1*   
 [cleric](rules/traits/cleric.md "Cleric Class Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains**: [undeath](compendium/setting/domains.md#Undeath)
+- **Domains** [undeath](compendium/setting/domains.md#Undeath)
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**touch
-- **Targets**1 living creature
-- **Saving Throw** Fortitude
+- **Range**: touch
+- **Targets**: 1 living creature
+- **Saving Throw**: Fortitude
 
 You attack the target's life force with undeath, dealing `1d6` negative damage. The target must attempt a Fortitude save.
 

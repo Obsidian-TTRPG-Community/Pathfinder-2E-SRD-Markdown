@@ -18,14 +18,12 @@ Four claw-tipped clockwork arms suspended from the ceiling pick up and deposit c
 
 - **Disable** DC 43 [Thievery](compendium/skills.md#Thievery) (master) to jam and deactivate one of the arms or DC 46 [Athletics](compendium/skills.md#Athletics) (legendary) to tear an arm off the machine.  
 
-- **AC** 37 , **Fort** +23, **Ref** +26
+- **AC** 37, **Fort** +23, **Ref** +26
 - **Arm Hardness** 15, **Arm HP** 50 (BT 25) to destroy one arm
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Arm Activation [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Arm Activation** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: The Rumormonger or the
 
@@ -34,26 +32,19 @@ title: Arm Activation [R](rules/core-rulebook/chapter-9-playing-the-game.md#Acti
 
 ````ad-pf2-summary
 title: Routine
+
 (4 actions) The trap loses 1 action per arm destroyed or disabled. On its turn, the trap makes claw [Strikes](rules/actions/strike.md) against creatures other than the Rumormonger or the.
-
 ```ad-embed-ability
-title: Inkmaster.
-
-If an arm already has a creature [grabbed](rules/conditions.md#Grabbed), the trap spends 2 actions to use its Open Hatch ability.
+title: **Inkmaster.** If an arm already has a creature [grabbed](rules/conditions.md#Grabbed), the trap spends 2 actions to use its Open Hatch ability.
 ```
-
 ```ad-inline-attack
 title: Melee [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Claw (28) ([reach <20 feet>](rules/traits/reach-20-feet.md "Reach Weapon Trait"))
 **Damage** `3d10+15` slashing plus Grab 
- 
 **Effects** Grab
-
 %% #trait/reach-20-feet %%
 ```
-
 ```ad-embed-ability
-title: Open Hatch [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
-
+title: **Open Hatch** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
 The metal hatch opens and the arms deposit a [grabbed](rules/conditions.md#Grabbed) Medium or smaller creature into the hole. The creature becomes caught in the gears (see Caught in Gears on page 54) for 1 round before emerging in area K5.
 ```
 ````

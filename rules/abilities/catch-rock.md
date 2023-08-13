@@ -5,6 +5,7 @@ aliases: ["Catch Rock"]
 ---
 # Catch Rock [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
+- **Activate**: Reaction
 - **Trigger**: The monster is targeted with a thrown rock Strike or a rock would fall on the monster.
 - **Requirements**: The monster must have a free hand but can Release anything it's holding as part of this reaction.
 

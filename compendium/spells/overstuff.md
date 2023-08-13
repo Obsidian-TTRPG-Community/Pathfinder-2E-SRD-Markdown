@@ -12,11 +12,11 @@ aliases: ["Overstuff"]
 # Overstuff *Focus 1*   
 [cleric](rules/traits/cleric.md "Cleric Class Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains**: [indulgence](compendium/setting/domains.md#Indulgence)
+- **Domains** [indulgence](compendium/setting/domains.md#Indulgence)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 living creature
-- **Saving Throw** Fortitude
+- **Range**: 30 foot
+- **Targets**: 1 living creature
+- **Saving Throw**: Fortitude
 
 Huge amounts of food and drink fill the target. It receives a full meal's worth of nourishment and must attempt a Fortitude save.
 

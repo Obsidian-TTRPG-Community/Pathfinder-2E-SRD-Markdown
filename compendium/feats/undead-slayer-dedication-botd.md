@@ -15,7 +15,7 @@ aliases: ["Undead Slayer Dedication"]
 Your training has prepared you to recognize most undead on sight. You become trained in two [Lore](compendium/skills.md#Lore) skills, each about a specific type of undead, or become an expert if you were already trained. You gain the Slayer's Identification free action.
 
 ```ad-embed-ability
-title: Slayer's Identification [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
+title: **Slayer's Identification** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
 
 - **Trigger**: You roll initiative and can observe a creature you know is undead
 

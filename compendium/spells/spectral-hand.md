@@ -10,10 +10,10 @@ aliases: ["Spectral Hand"]
 # Spectral Hand *Spell 2*   
 [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**120 foot
-- **Duration**1 minute
+- **Range**: 120 foot
+- **Duration**: 1 minute
 
 You create a semicorporeal hand out of your essence that delivers touch spells for you. Whenever you [Cast a Spell](rules/actions/cast-a-spell.md) with a range of touch, you can have the hand crawl to a target within range along the ground, touch it, and then crawl back to you.
 

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/botd
-- item/category/held
+- item/category/held/
 - trait/arcane
 - trait/necromancy
 - trait/negative
@@ -14,8 +14,8 @@ aliases: ["Soul Cage"]
 [arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 1600 gp
-- **Usage** held in 1 hand; **Bulk** —
-- **Category** Held
+- **Craft Requirements** You have Lich Dedication.
+- **Bulk** —; **Usage** held in 1 hand
 
 As you [Craft](rules/actions/craft.md) your soul cage, you trap your soul within it, an integral part of the complicated process of becoming a lich.
 
@@ -25,4 +25,6 @@ You choose the form of your soul cage when you [Craft](rules/actions/craft.md) i
 
 If your soul cage is destroyed but you aren't, you can attempt to find your soul and trap it again, building a new soul cage. This is no trivial feat and often takes an entire adventure to accomplish. If you don't cage your soul again, you suffer a long decline as described on page 119.
 
+
+---
 *Source: Book of the Dead p. 50*

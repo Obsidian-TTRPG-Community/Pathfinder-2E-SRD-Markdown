@@ -13,9 +13,11 @@ aliases: ["Leather Lamellar"]
 - **Price** 3 gp
 - **Bulk** 1
 - **AC Bonus** +1; **Dex Cap** +4
-- **Strength** 10; **Check Penalty** --1; **Speed Penalty** —
+- **Strength** 10; **Check Penalty** -1; **Speed Penalty** —
 - **Category** Light; **Group** Composite 
 
 Leather lamellar is a composite armor made of small rectangular pieces of lacquered leather laced together with high‑quality cord. It's typically worn with an undershirt.
 
+
+---
 *Source: Treasure Vault p. 9*

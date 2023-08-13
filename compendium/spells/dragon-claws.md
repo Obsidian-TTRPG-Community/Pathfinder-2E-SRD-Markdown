@@ -15,7 +15,8 @@ aliases: ["Dragon Claws"]
 
 - **Bloodline** Sorcerer
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Duration**1 minute
+- 
+- **Duration**: 1 minute
 
 Vicious claws grow from your fingers. They are finesse unarmed attacks that deal `1d4` slashing damage and `1d6` extra damage of a type determined by the dragon in your bloodline (see the table in dragon breath). Your scales from blood magic glow with faint energy, giving you resistance 5 to the same damage type.
 

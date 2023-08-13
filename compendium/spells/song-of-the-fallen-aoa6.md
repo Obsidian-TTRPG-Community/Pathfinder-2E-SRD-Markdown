@@ -14,9 +14,9 @@ aliases: ["Song Of The Fallen"]
 [bard](rules/traits/bard.md "Bard Class Trait")  [composition](rules/traits/composition.md "Composition Spell Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**up to 4 dead creatures or up to 4 undead creatures
-- **Duration**sustained up to 1 minute
+- **Range**: 30 foot
+- **Targets**: up to 4 dead creatures or up to 4 undead creatures
+- **Duration**: sustained up to 1 minute
 
 You chant a dirge or an elegy that either rouses the dead to action or reminds undead that they should lay to rest.
 

@@ -11,12 +11,12 @@ aliases: ["Necrotize"]
 # Necrotize *Spell 6*   
 [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**60 foot
-- **Targets**1 living creature
-- **Saving Throw** Fortitude
-- **Duration**varies
+- **Range**: 60 foot
+- **Targets**: 1 living creature
+- **Saving Throw**: Fortitude
+- **Duration**: varies
 
 You necrotize part of a creature's body, harming it and debilitating it as its body putrefies, mimicking the natural process of decay. The target takes `12d6` negative damage and one of the following debilitations; roll `1d4` to randomly determine which. The effects depend on its Fortitude save.
 

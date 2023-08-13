@@ -20,30 +20,28 @@ A floating skull of fire swoops around the arena, rotating as it weaves through 
 
 - **Disable** three DC 40 [Thievery](compendium/skills.md#Thievery) (legendary) checks or castings of [dispel magic](compendium/spells/dispel-magic.md) (7th level; counteract DC 40), one each to pull out or disable the elemental cores [hidden](rules/conditions.md#Hidden) in the floating skull's right eye, left eye, and mouth  
 
-- **AC** 42 , **Fort** +30, **Ref** +33
+- **AC** 42, **Fort** +30, **Ref** +33
 - **Hardness** 25, **HP** 100 (BT 50)
 - **Immunities** [fire](rules/traits/fire.md "Fire Energy & Element Trait")
-- **Resistances** 
 - **Weaknesses** cold 15
-     
+
 ```ad-embed-ability
-title: Blaze [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  
+title: **Blaze** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([evocation](rules/traits/evocation.md), [fire](rules/traits/fire.md))
 
 - **Trigger**: Hao Jin signals the start of the bout
 
 **Effect** The trap roars with fire and rolls initiative.  
-%% #trait/evocation #trait/fire %%
+%%
+ #trait/evocation  #trait/fire 
+%%
 ```
 
 ````ad-pf2-summary
 title: Routine
+
 (3 actions) The trap loses 1 action per turn per successful check to disable. The floating flamethrower uses its first action to release a gout of flame in a 15-foot cone that deals `4d6+4` fire damage (DC 40 basic Reflex save), its second action to fly in a U-shape in a random direction, and its third action to release another gout of flame.
-
 ```ad-embed-ability
-title: Speed
-
-fly 50 feet
+title: **Speed** fly 50 feet
 ```
 ````
 ^routine

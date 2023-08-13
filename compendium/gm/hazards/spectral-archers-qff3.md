@@ -16,16 +16,16 @@ aliases: ["Spectral Archers"]
 Ghostly soldiers wielding crossbows manifest within the towers that flank the gatehouse and rain bolts down upon intruders.
 
 - **Disable** DC 31 [Intimidation](compendium/skills.md#Intimidation) (expert) to cow the archers into [fleeing](rules/conditions.md#Fleeing) or DC 28 [Religion](compendium/skills.md#Religion) (expert) to temporarily banish the spirits  
-     
+
 ```ad-embed-ability
-title: Rain of Bolts [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Rain of Bolts** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature attacks the graveknights in area G1 or enters the castle
 
 **Effect** The haunt makes a spectral bolt [Strike](rules/actions/strike.md) against the triggering creature, then rolls initiative.
 ```
 ```ad-embed-ability
-title: Continuous Barrage [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
+title: **Continuous Barrage** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
 
 - **Trigger**: A creature in front of the gate finishes an action
 
@@ -34,6 +34,7 @@ title: Continuous Barrage [F](rules/core-rulebook/chapter-9-playing-the-game.md#
 
 ```ad-pf2-summary
 title: Routine
+
 (1 action) The hazard fires one bolt at every creature in a 30-foot-by-30-foot area in front of the gate as 1 action. Because the spectral archers fire bolts continuously, the haunt can also use the Continuous Barrage free action (below) to fire bolts at each creature during that creature's turn.
 ```
 ^routine

@@ -13,7 +13,7 @@ aliases: ["Scrollstaff"]
 [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 12 gp
-- **Usage** held, 1 hand; **Bulk** 1
+- **Bulk** 1; **Usage** held, 1 hand
 - **Category** Simple
 
 A band of pliant wood encircles the head of this slender mahogany staff.
@@ -30,4 +30,6 @@ Once you cast the inscribed spell, any material focus remains embedded in the st
 
 The staff can hold only a single scroll (generic) at a time. If you inscribe a new scroll (generic) before casting the previous spell, you replace the existing spell and remove any previous material focus as part of the [Craft](rules/actions/craft.md) activity to write the new scroll (generic).
 
+
+---
 *Source: Lost Omens: Character Guide p. 100*

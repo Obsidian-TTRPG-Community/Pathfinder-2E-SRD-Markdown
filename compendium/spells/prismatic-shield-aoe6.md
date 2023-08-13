@@ -12,9 +12,10 @@ aliases: ["Prismatic Shield"]
 # Prismatic Shield *Spell 9*   
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [light](rules/traits/light.md "Light Effect Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Duration**until the start of your next turn
+- 
+- **Duration**: until the start of your next turn
 
 Shield-sized shards of multicolored light manifest in the air around you, each rotating quickly to intercept attacks. Melee attacks against you impact a randomly colored shard, subjecting the attacker to a random effect from prismatic spray, with a saving throw of the type indicated in that spell. The shards automatically block physical ranged attacks the size of a spear or smaller, such as arrows, bolts, and javelins. You gain a +2 circumstance bonus to your AC against attacks with larger ranged weapons. Any spell that targets you requires the caster to succeed at a counteract check against your spell DC, or it fails to affect you.
 

@@ -14,7 +14,6 @@ Targeted killing through stealth and subterfuge is the expertise of an assassin.
 ````ad-embed-feat
 title: Assassin Dedication, Feat 2
 collapse: closed
-# Assassin Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: [Alchemical Crafting](compendium/feats/alchemical-crafting.md); trained in [Crafting](compendium/skills.md#Crafting), [Deception](compendium/skills.md#Deception), and [Stealth](compendium/skills.md#Stealth)
@@ -22,7 +21,7 @@ collapse: closed
 You've trained to assassinate your foes, and you do so with tenacity and precision. You gain the Mark for Death activity.
 
 ```ad-embed-ability
-title: Mark for Death [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")
+title: **Mark for Death** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")
 
 - **Requirements**: You can see and hear the creature you intend to mark
 
@@ -40,7 +39,6 @@ If the weapon or unarmed attack already has the [deadly](rules/traits/deadly.md 
 ```ad-embed-feat
 title: Expert Backstabber, Feat 4
 collapse: closed
-# Expert Backstabber  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Assassin Dedication](compendium/feats/assassin-dedication-apg.md)
@@ -54,7 +52,6 @@ When you [Strike](rules/actions/strike.md) a [flat-footed](rules/conditions.md#F
 ```ad-embed-feat
 title: Poison Resistance (Alchemist), Feat 4*
 collapse: closed
-# Poison Resistance (Alchemist)  *Feat 4*  
 [alchemist](rules/traits/alchemist.md "Alchemist Class Trait")  
 
 > [!pf2-note] This version of [Poison Resistance (Alchemist)](compendium/feats/poison-resistance-alchemist.md) is intended for use with the Assassin Archetype. Its level has been changed accordingly.
@@ -69,7 +66,6 @@ Repeated exposure to toxic reagents has fortified your body against poisons of a
 ```ad-embed-feat
 title: Surprise Attack, Feat 4
 collapse: closed
-# Surprise Attack  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Assassin Dedication](compendium/feats/assassin-dedication-apg.md)
@@ -83,7 +79,6 @@ You act before foes can react. On the first round of combat, if you roll [Decept
 ```ad-embed-feat
 title: Poison Weapon, Feat 6*
 collapse: closed
-# Poison Weapon  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
 [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 > [!pf2-note] This version of [Poison Weapon](compendium/feats/poison-weapon.md) is intended for use with the Assassin Archetype. Its level has been changed accordingly.
@@ -102,7 +97,6 @@ You apply a [poison](rules/traits/poison.md "Poison Effect Trait") to the requir
 ```ad-embed-feat
 title: Sneak Attacker, Feat 6*
 collapse: closed
-# Sneak Attacker  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Sneak Attacker](compendium/feats/sneak-attacker.md) is intended for use with the Assassin Archetype. Its level has been changed accordingly.
@@ -118,7 +112,6 @@ You gain the sneak attack class feature (page 181), except it deals `1d4` damage
 ```ad-embed-feat
 title: Angel Of Death, Feat 10
 collapse: closed
-# Angel Of Death  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Assassin Dedication](compendium/feats/assassin-dedication-apg.md)
@@ -132,7 +125,6 @@ All your [Strikes](rules/actions/strike.md) against a creature you have [Marked 
 ```ad-embed-feat
 title: Improved Poison Weapon, Feat 10*
 collapse: closed
-# Improved Poison Weapon  *Feat 10*  
 [rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 > [!pf2-note] This version of [Improved Poison Weapon](compendium/feats/improved-poison-weapon.md) is intended for use with the Assassin Archetype. Its level has been changed accordingly.
@@ -148,7 +140,6 @@ You deliver poisons in ways that maximize their harmful effects. When you apply 
 ```ad-embed-feat
 title: Assassinate, Feat 12*
 collapse: closed
-# Assassinate  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Assassinate](compendium/feats/assassinate-apg.md) is intended for use with the Assassin Archetype. Its level has been changed accordingly.

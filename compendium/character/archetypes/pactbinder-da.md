@@ -18,7 +18,6 @@ All these things, you can and must consider in every pact. In addition to pacts,
 ````ad-embed-feat
 title: Pactbinder Dedication, Feat 2
 collapse: closed
-# Pactbinder Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: trained in [Diplomacy](compendium/skills.md#Diplomacy) as well as either [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), or [Religion](compendium/skills.md#Religion)
@@ -26,13 +25,16 @@ collapse: closed
 The first step toward forming a successful pact is an understanding of the magic behind it, along with skill at negotiation. It doesn't hurt that you also learned how to magically bind yourself to keep your word, enabling you to bargain more easily. You increase your proficiency from trained to expert in [Diplomacy](compendium/skills.md#Diplomacy) and in one of the following: [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), or [Religion](compendium/skills.md#Religion).
 
 ```ad-embed-ability
-title: Binding Vow [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
+title: **Binding Vow** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") ([auditory](rules/traits/auditory.md), [concentrate](rules/traits/concentrate.md), [enchantment](rules/traits/enchantment.md), [occult](rules/traits/occult.md))
 
-You bind yourself by formally speaking a binding vow. Supernatural power flows through and around you as you speak it, and all those present to hear it intrinsically know that it binds you. Breaking this vow is anathema to you, and if you break it willingly, you lose all pactbinder benefits until you fulfill your vow or, if that's impossible, participate in an atone ritual. The vow doesn't prevent unwilling violations and can't be used to try to circumvent mind-control magic, confusion, or similar situations where you perform an action not entirely of your own volition. A Binding Vow doesn't end until you've fulfilled it. Even if you die, the vow still binds you if you return to life. The vow doesn't force you to go to ridiculous extremes, such as [dying](rules/conditions.md#Dying), to fulfill your vow unless you specifically swear to go to such extremes. Trying to subvert your binding vow by making selfish promises (such as swearing to an ally that you'll kill someone you already wanted to kill) is in itself a violation of your vow, as is attempting to subvert other vows you've made (such as those from other pactbinder feats or a champion's code).
+- **Frequency**: once per day
+
+**Effect** You bind yourself by formally speaking a binding vow. Supernatural power flows through and around you as you speak it, and all those present to hear it intrinsically know that it binds you. Breaking this vow is anathema to you, and if you break it willingly, you lose all pactbinder benefits until you fulfill your vow or, if that's impossible, participate in an atone ritual. The vow doesn't prevent unwilling violations and can't be used to try to circumvent mind-control magic, confusion, or similar situations where you perform an action not entirely of your own volition. A Binding Vow doesn't end until you've fulfilled it. Even if you die, the vow still binds you if you return to life. The vow doesn't force you to go to ridiculous extremes, such as [dying](rules/conditions.md#Dying), to fulfill your vow unless you specifically swear to go to such extremes. Trying to subvert your binding vow by making selfish promises (such as swearing to an ally that you'll kill someone you already wanted to kill) is in itself a violation of your vow, as is attempting to subvert other vows you've made (such as those from other pactbinder feats or a champion's code).
 
 When you make a [Request](rules/actions/request.md) or [Coerce](rules/actions/coerce.md) directly in service of fulfilling your vow, you gain a +1 circumstance bonus to your check against any creatures aware of your vow.  
-%% #trait/auditory #trait/concentrate #trait/enchantment #trait/occult %%
+%%
+ #trait/auditory  #trait/concentrate  #trait/enchantment  #trait/occult 
+%%
 ```
 
 **Special.** You can't select another dedication feat until you've gained two other feats from the pactbinder archetype.
@@ -44,7 +46,6 @@ When you make a [Request](rules/actions/request.md) or [Coerce](rules/actions/co
 ```ad-embed-feat
 title: Pact of Fey Glamour, Feat 4
 collapse: closed
-# Pact of Fey Glamour  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Pactbinder Dedication](compendium/feats/pactbinder-dedication-da.md)
@@ -60,7 +61,6 @@ In exchange, you promise to accept any fey's request for hospitality, granting t
 ```ad-embed-feat
 title: Sociable Vow, Feat 4
 collapse: closed
-# Sociable Vow  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Pactbinder Dedication](compendium/feats/pactbinder-dedication-da.md), expert in [Diplomacy](compendium/skills.md#Diplomacy)
@@ -74,7 +74,6 @@ You can leverage your vow in more social interactions. The circumstance bonus fr
 ````ad-embed-feat
 title: Pact of Draconic Fury, Feat 6
 collapse: closed
-# Pact of Draconic Fury  *Feat 6*  
 [arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Pactbinder Dedication](compendium/feats/pactbinder-dedication-da.md)
@@ -82,9 +81,11 @@ collapse: closed
 You've sworn a pact with a dragon, giving you the ability to tap into the dragon's immeasurable power in exchange for adding to their hoard. You gain the Dragon Breath activity. In exchange, you promise to search for objects the dragon wants for its hoard upon request. These requests might be extremely specific unique objects, or they might be a broad category of objects. While the dragon agrees to pay you a fair price for the item you retrieve, the pact requires you to give your time and service.
 
 ```ad-embed-ability
-title: Dragon Breath [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
+title: **Dragon Breath** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 
-You breathe deeply and exhale a line or cone of powerful breath, much like the dragon with which you made the pact. If the dragon had a cone-shaped breath weapon, your breath weapon is a 30-foot cone. If they had a line-shaped breath weapon, your breath weapon is a 60-foot line. If they had a burst-shaped breath weapon, your breath weapon is a 10-foot burst within 60 feet. No matter the shape, it deals `1d6` damage per level, of the same damage type as the dragon's Breath Weapon, with a basic Reflex save, using the higher of your class DC or spell DC. This action has the same traits as the breath weapon of the dragon you made the pact with.
+- **Frequency**: once per hour
+
+**Effect** You breathe deeply and exhale a line or cone of powerful breath, much like the dragon with which you made the pact. If the dragon had a cone-shaped breath weapon, your breath weapon is a 30-foot cone. If they had a line-shaped breath weapon, your breath weapon is a 60-foot line. If they had a burst-shaped breath weapon, your breath weapon is a 10-foot burst within 60 feet. No matter the shape, it deals `1d6` damage per level, of the same damage type as the dragon's Breath Weapon, with a basic Reflex save, using the higher of your class DC or spell DC. This action has the same traits as the breath weapon of the dragon you made the pact with.
 ```
 
 *Source: Dark Archive p. 166*  
@@ -94,7 +95,6 @@ You breathe deeply and exhale a line or cone of powerful breath, much like the d
 ```ad-embed-feat
 title: Pact of Infernal Prowess, Feat 8
 collapse: closed
-# Pact of Infernal Prowess  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Pactbinder Dedication](compendium/feats/pactbinder-dedication-da.md)
@@ -110,7 +110,6 @@ You've sworn a pact with devils, granting you success in life in exchange for yo
 ```ad-embed-feat
 title: Pact of the Final Breath, Feat 12*
 collapse: closed
-# Pact of the Final Breath  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 > [!pf2-note] This version of [Pact of the Final Breath](compendium/feats/pact-of-the-final-breath-da.md) is intended for use with the Pactbinder Archetype. Its level has been changed accordingly.
@@ -130,7 +129,6 @@ In exchange, you swear to treat the dead you come across with respect, performin
 ```ad-embed-feat
 title: Pact of Eldritch Eyes, Feat 14*
 collapse: closed
-# Pact of Eldritch Eyes  *Feat 14*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 > [!pf2-note] This version of [Pact of Eldritch Eyes](compendium/feats/pact-of-eldritch-eyes-da.md) is intended for use with the Pactbinder Archetype. Its level has been changed accordingly.

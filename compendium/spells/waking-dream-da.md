@@ -12,10 +12,10 @@ aliases: ["Waking Dream"]
 [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**60 foot
-- **Targets**1 creature
-- **Saving Throw** Will
-- **Duration**sustained up to 1 minute
+- **Range**: 60 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Will
+- **Duration**: sustained up to 1 minute
 
 You cloud the target's mind with vivid, dreamlike imagery, so they have difficulty distinguishing real threats from imagined ones.
 

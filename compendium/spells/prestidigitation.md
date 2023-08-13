@@ -11,11 +11,11 @@ aliases: ["Prestidigitation"]
 # Prestidigitation *Cantrip 1*   
 [cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**10 foot
-- **Targets**1 object (cook, lift, or tidy only)
-- **Duration**sustained
+- **Range**: 10 foot
+- **Targets**: 1 object (cook, lift, or tidy only)
+- **Duration**: sustained
 
 The simplest magic does your bidding. You can perform simple [magical](rules/traits/magical.md "Magical Item Trait") effects for as long as you [Sustain the Spell](rules/actions/sustain-a-spell.md). Each time you [Sustain the Spell](rules/actions/sustain-a-spell.md), you can choose one of four options.
 

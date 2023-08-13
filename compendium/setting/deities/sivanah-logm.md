@@ -20,7 +20,7 @@ aliases: ["Sivanah", "The Seventh Veil"]
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: use illusions and shadows to harm another creature, reveal a secret you have sworn to keep
-- **Areas of Concern**: illusions, , mysteries, , reflections, , secrets
+- **Areas of Concern**: illusions, mysteries, reflections, secrets
 - **Follower Alignments**: [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
@@ -39,8 +39,9 @@ When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Si
 title: [Avatar](compendium/spells/avatar.md) of Sivanah
 
 - **Speed**: Speed 70 feet, [air walk](compendium/spells/air-walk.md), ignore difficult terrain and greater difficult terrain
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") bladed scarf ([disarm](rules/traits/disarm.md "Disarm Weapon Trait"), [finesse](rules/traits/finesse.md "Finesse Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [trip](rules/traits/trip.md "Trip Weapon Trait")), **Damage** `6d8+6` slashing
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") illusory assault **Damage** `6d6+3` mental
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") bladed scarf (, [disarm](rules/traits/disarm.md "Disarm Weapon Trait"), [finesse](rules/traits/finesse.md "Finesse Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [trip](rules/traits/trip.md "Trip Weapon Trait")), **Damage** `6d8+6` slashing 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") illusory assault (), **Damage** `6d6+3` mental 
 ```
 
 ## Divine intercession

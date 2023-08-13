@@ -25,7 +25,6 @@ The cleric archetype is a great way to create a character of another class who's
 ```ad-embed-feat
 title: Cleric Dedication, Feat 2
 collapse: closed
-# Cleric Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [multiclass](rules/traits/multiclass.md "Multiclass Feat Trait")  
 
 - **Prerequisites**: Wisdom 14
@@ -41,7 +40,6 @@ You cast spells like a cleric. You gain access to the [Cast a Spell](rules/actio
 ```ad-embed-feat
 title: Basic Cleric Spellcasting, Feat 4
 collapse: closed
-# Basic Cleric Spellcasting  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Cleric Dedication](compendium/feats/cleric-dedication.md)
@@ -55,7 +53,6 @@ You gain the basic spellcasting benefits. You can prepare your deity's spells in
 ```ad-embed-feat
 title: Basic Dogma, Feat 4
 collapse: closed
-# Basic Dogma  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Cleric Dedication](compendium/feats/cleric-dedication.md)
@@ -69,7 +66,6 @@ You gain a 1st- or 2nd-level cleric feat.
 ```ad-embed-feat
 title: Advanced Dogma, Feat 6
 collapse: closed
-# Advanced Dogma  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Dogma](compendium/feats/basic-dogma.md)
@@ -85,7 +81,6 @@ You gain one cleric feat. For the purpose of meeting its prerequisites, your cle
 ```ad-embed-feat
 title: Divine Breadth, Feat 8
 collapse: closed
-# Divine Breadth  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Cleric Spellcasting](compendium/feats/basic-cleric-spellcasting.md)
@@ -99,7 +94,6 @@ You can cast more divine spells each day. Increase the spell slots you gain from
 ```ad-embed-feat
 title: Expert Cleric Spellcasting, Feat 12*
 collapse: closed
-# Expert Cleric Spellcasting  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Expert Cleric Spellcasting](compendium/feats/expert-cleric-spellcasting.md) is intended for use with the Cleric Archetype. Its level has been changed accordingly.
@@ -115,7 +109,6 @@ You gain the expert spellcasting benefits.
 ```ad-embed-feat
 title: Master Cleric Spellcasting, Feat 18*
 collapse: closed
-# Master Cleric Spellcasting  *Feat 18*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Master Cleric Spellcasting](compendium/feats/master-cleric-spellcasting.md) is intended for use with the Cleric Archetype. Its level has been changed accordingly.

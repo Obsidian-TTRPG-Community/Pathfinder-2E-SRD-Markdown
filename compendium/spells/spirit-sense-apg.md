@@ -13,10 +13,10 @@ aliases: ["Spirit Sense"]
 # Spirit Sense *Spell 2*   
 [detection](rules/traits/detection.md "Detection Effect Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Area**30-foot emanation
-- **Duration**10 minutes
+- **Area**: 30-foot emanation
+- **Duration**: 10 minutes
 
 You open your mind to the metaphysical, enabling you to sense nearby spirits. Even if you aren't [Searching](rules/actions/search.md), you get a check to find haunts and spirits in the area. You gain a +1 status bonus to the following checks regarding haunts or spirits: [Perception](compendium/skills.md#Perception) checks to [Seek](rules/actions/seek.md), attempts to [Recall Knowledge](rules/actions/recall-knowledge.md), skill checks to determine the reason for their existence, and skill checks to disable a haunt. You also gain a +1 status bonus to AC and saving throws against haunts and spirits.
 

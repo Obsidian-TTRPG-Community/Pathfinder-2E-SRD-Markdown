@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/crb
-- item/category/talisman
+- item/category/talisman/
 - trait/consumable
 - trait/evocation
 - trait/magical
@@ -14,9 +14,8 @@ aliases: ["Iron Cudgel"]
 [consumable](rules/traits/consumable.md "Consumable Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  
 
 - **Price** 900 gp
-- **Usage** affixed to a weapon; **Bulk** —
-- **Activate** Brutal Finish
-- **Category** Talisman
+- **Bulk** —; **Usage** affixed to a weapon
+- **Activate** [Brutal Finish](compendium/feats/brutal-finish.md)
 
 You are a master with the affixed weapon.
 
@@ -24,4 +23,6 @@ This miniature iron cudgel is typically affixed to a weapon by an iron chain. Wh
 
 If you have the Brutal Finish feat, add two additional weapon damage dice on a success or a failure.
 
+
+---
 *Source: Core Rulebook p. 567*

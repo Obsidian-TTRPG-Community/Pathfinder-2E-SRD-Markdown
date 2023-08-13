@@ -13,11 +13,11 @@ aliases: ["Purifying Icicle"]
 # Purifying Icicle *Spell 1*   
 [cold](rules/traits/cold.md "Cold Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**60 foot
-- **Targets**1 creature
-- **Saving Throw** Fortitude
+- **Range**: 60 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Fortitude
 
 You evoke life essence into the form of water and freeze it, then launch the icicle at a foe. Make a spell attack roll. On a success, the icicle deals `2d6` piercing damage and `1d6` cold damage, and if the target is undead, the icicle deals an additional `1d4` positive damage. On a critical success, the target takes double damage and takes a –10-foot circumstance penalty to its Speeds for 1 round as the icicle lodges inside them before melting away.
 

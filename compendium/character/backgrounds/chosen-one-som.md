@@ -17,8 +17,7 @@ Choose two ability boosts. One must be to Strength or Charisma, and one is a fre
 Decide with your GM the basics of the prophecy in which you're meant to play a major part. You're trained in one skill related to the prophecy, and the [Fortune-Telling Lore](compendium/skills.md#Lore) skill. You gain the Prophecy's Pawn free action.
 
 ```ad-embed-ability
-title: Prophecy's Pawn [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  
+title: **Prophecy's Pawn** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") ([abjuration](rules/traits/abjuration.md), [divine](rules/traits/divine.md), [fortune](rules/traits/fortune.md))
 
 - **Trigger**: You fail a saving throw, attack roll, or skill check
 
@@ -27,5 +26,7 @@ title: Prophecy's Pawn [F](rules/core-rulebook/chapter-9-playing-the-game.md#Act
 For 24 hours afterward, the GM can force you to reroll a successful saving throw, attack roll, or skill check as fate balances the scale.
 
 This is a [misfortune](rules/traits/misfortune.md "Misfortune Effect Trait") effect. You can't use prophecy's pawn again until the GM uses this option or 24 hours pass, whichever comes first.  
-%% #trait/abjuration #trait/divine #trait/fortune %%
+%%
+ #trait/abjuration  #trait/divine  #trait/fortune 
+%%
 ```

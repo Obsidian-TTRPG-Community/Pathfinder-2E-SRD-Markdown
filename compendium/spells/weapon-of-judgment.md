@@ -11,12 +11,12 @@ aliases: ["Weapon Of Judgment"]
 # Weapon Of Judgment *Spell 9*   
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Requirements**You have a deity.
-- **Range**100 foot
-- **Targets**1 creature
-- **Duration**1 minute
+- **Requirements**: You have a deity.
+- **Range**: 100 foot
+- **Targets**: 1 creature
+- **Duration**: 1 minute
 
 An immense weapon of force appears, hovering in the air above the target. The weapon has the ghostly visual appearance of your deity's favored weapon. Name war or peace when you cast this spell.
 

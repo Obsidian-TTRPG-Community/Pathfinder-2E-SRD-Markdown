@@ -11,11 +11,11 @@ aliases: ["Grave Impressions"]
 # Grave Impressions *Spell 2*   
 [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 1 minute 
-- **Range**touch
-- **Targets**1 corpse
-- **Duration**10 minutes
+- **Range**: touch
+- **Targets**: 1 corpse
+- **Duration**: 10 minutes
 
 You project a fragment of your senses into the corpse.
 

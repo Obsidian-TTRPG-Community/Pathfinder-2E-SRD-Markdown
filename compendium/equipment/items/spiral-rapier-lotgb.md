@@ -15,10 +15,12 @@ aliases: ["Spiral Rapier"]
 
 - **Price** 5 gp
 - **Bulk** 1
-- **Damage** `1d6` P
+  - **Damage**: `1d6` P
 - **Hands** 1
 - **Category** Advanced; **Group** Sword 
 
 An old Taldan dueling weapon from the empire's height, this rapier has a thicker blade than normal, which is shaped into a corkscrew-like spiral well suited to catching enemy weapons. Characters from Taldor have access to the spiral rapier.
 
+
+---
 *Source: Lost Omens: The Grand Bazaar p. 107*

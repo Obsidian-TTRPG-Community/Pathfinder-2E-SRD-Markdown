@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/g&g
-- item/category/held
+- item/category/held/
 - trait/cursed
 - trait/enchantment
 - trait/evil
@@ -15,8 +15,7 @@ aliases: ["Pact-bound Pistol"]
 # Pact-bound Pistol *Item 10*  
 [cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [evil](rules/traits/evil.md "Evil Alignment Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Usage** held in 1 hand; **Bulk** L
-- **Category** Held
+- **Bulk** L; **Usage** held in 1 hand
 
 Wielded in over a hundred duels by the famed Ustalavic noblewoman Countess Tasya Iserav, this +1 striking fearsome dueling pistol (Advanced Player's Guide 260) is a work of master craftsmanship, almost eerie in the axiomatic perfection present in each dimension and detail.
 
@@ -36,4 +35,6 @@ After you have consigned 9 souls to [Mephistopheles](compendium/setting/deities/
 
 Failing to wield a pact-bound pistol is a breach of contract. Each day you go without firing the pact-bound pistol at a living creature, you must attempt a Will saving throw. On a failure, you become [stupefied](rules/conditions.md#Stupefied). If you are already [stupefied](rules/conditions.md#Stupefied), the value of your [stupefied](rules/conditions.md#Stupefied) condition increases by 1, to a maximum of [stupefied](rules/conditions.md#Stupefied). While you're fused with the pact-bound pistol, you can't reduce the value of your [stupefied](rules/conditions.md#Stupefied) condition except by damaging a living creature with it. Whenever you damage a living creature with it, if you are suffering from the [stupefied](rules/conditions.md#Stupefied) condition due to the pact-bound pistol, your [stupefied](rules/conditions.md#Stupefied) condition is removed.
 
+
+---
 *Source: Guns & Gears p. 161*
