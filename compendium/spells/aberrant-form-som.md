@@ -11,9 +11,10 @@ aliases: ["Aberrant Form"]
 # Aberrant Form *Spell 5*   
 [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Duration**1 minute
+- 
+- **Duration**: 1 minute
 
 Harnessing the power of vile entities, you transform yourself into a Large aberration. You must have enough space to expand into or the spell is lost. When you cast this spell, choose chuul, gogiteth, gug, or otyugh. While in this form, you gain the [aberration](rules/traits/aberration.md "Aberration Creature Type Trait") trait. You can [Dismiss](rules/actions/dismiss.md) the spell.
 

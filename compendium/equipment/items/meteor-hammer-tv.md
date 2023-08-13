@@ -15,10 +15,12 @@ aliases: ["Meteor Hammer"]
 
 - **Price** 3 gp
 - **Bulk** 2
-- **Damage** `1d8` B
+  - **Damage**: `1d8` B
 - **Hands** 2
 - **Category** Martial; **Group** Flail 
 
 This weapon consists of a long chain connected to a heavy weight at each end. When a wielder swings the weights by the chain, they build momentum and can serve as deadly bludgeons with incredible reach.
 
+
+---
 *Source: Treasure Vault p. 25*

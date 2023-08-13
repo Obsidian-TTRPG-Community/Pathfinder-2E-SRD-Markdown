@@ -12,10 +12,10 @@ aliases: ["Heal"]
 # Heal *Spell 1*   
 [healing](rules/traits/healing.md "Healing Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") to [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**varies
-- **Targets**1 willing living creature or 1 undead creature
+- **Range**: varies
+- **Targets**: 1 willing living creature or 1 undead creature
 
 You channel positive energy to heal the living or damage the undead. If the target is a willing living creature, you restore `1d8` Hit Points. If the target is undead, you deal that amount of positive damage to it, and it gets a basic Fortitude save. The number of actions you spend when [Casting this Spell](rules/actions/cast-a-spell.md) determines its targets, range, area, and other parameters.
 

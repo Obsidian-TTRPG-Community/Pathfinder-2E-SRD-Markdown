@@ -18,7 +18,7 @@ aliases: ["Mazludeh", "Mother of Hearth and Wall"]
 
 - **Category**: Mwangi Gods
 - **Anathema**: betray another's trust, place conflict between ideological differences over people's lives
-- **Areas of Concern**: balance, , community, , negotiation, , and twilight
+- **Areas of Concern**: balance, community, negotiation, and twilight
 - **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")
 
 ## Devotee benefits
@@ -38,6 +38,6 @@ title: [Avatar](compendium/spells/avatar.md) of Mazludeh
 
 - **Speed**: Speed 70 feet, climb 50 feet
 - **Shield**: shield (15 Hardness, can't be damaged)
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") viper strike ([reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait")), **Damage** `6d10+6` piercing
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") stone rain **Damage** `6d6+3` bludgeoning
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") viper strike (, [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait")), **Damage** `6d10+6` piercing 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") stone rain (), **Damage** `6d6+3` bludgeoning 
 ```

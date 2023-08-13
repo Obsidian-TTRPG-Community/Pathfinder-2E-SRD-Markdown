@@ -11,8 +11,9 @@ aliases: ["Flowing Strike"]
 # Flowing Strike *Spell 5*   
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
+- 
 
 A wave of flowing water rushes behind you like an elegant river, pushing you across the battlefield with fluid grace.
 

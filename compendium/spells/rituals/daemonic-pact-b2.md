@@ -13,6 +13,7 @@ aliases: ["Daemonic Pact"]
 
 - **Cast** 1 day
 - **Primary Checks** [Religion](compendium/skills.md#Religion) (expert; you must be a demon or urdefhan)
+- 
 
 You call upon the powers of Abaddon to grant you the assistance of a daemon. You call upon a daemon whose level can be no more than double _daemonic pact's_ spell level, two daemons whose levels are each at least 2 less than double the spell level, or three daemons whose levels are each at least 3 less than double the spell level.
 

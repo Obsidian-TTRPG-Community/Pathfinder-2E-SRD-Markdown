@@ -12,11 +12,11 @@ aliases: ["Rip The Spirit"]
 # Rip The Spirit *Spell 5*   
 [death](rules/traits/death.md "Death Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") to [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**30 foot
-- **Targets**1 living creature
-- **Saving Throw**  basic Fortitude
+- **Range**: 30 foot
+- **Targets**: 1 living creature
+- **Saving Throw**:  basic Fortitude
 
 You supernaturally rip the spirit from a living creature's body, dooming the target to pain and death. The target takes `5d6` negative damage, depending on its basic Fortitude save, and is [drained](rules/conditions.md#Drained) if it fails its save. The spell's effect is based on how many actions you spend when [Casting the Spell](rules/actions/cast-a-spell.md).
 

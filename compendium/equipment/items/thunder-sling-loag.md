@@ -15,11 +15,13 @@ aliases: ["Thunder Sling"]
 
 - **Price** 5 gp
 - **Bulk** L
-- **Damage** `1d6` P
-- **Range** 50 ft.; **Reload** 1
+  - **Damage**: `1d6` P
+  - **Range** 50 ft.; **Reload** 1
 - **Hands** 1
 - **Category** Martial; **Group** Sling 
 
 Tengu use these specialized slings to fire darts further and with greater force than when thrown by hand, which is particularly effective when attacking from great heights. A thunder sling uses [darts](compendium/equipment/items/dart.md) as ammunition. It can also hurl [blowgun darts](compendium/equipment/items/blowgun-dart.md) as ammunition but deals `1d4` piercing damage instead of `1d6` when used this way.
 
+
+---
 *Source: Lost Omens: Ancestry Guide p. 139*

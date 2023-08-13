@@ -12,12 +12,12 @@ aliases: ["Baleful Polymorph"]
 # Baleful Polymorph *Spell 6*   
 [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 creature
-- **Saving Throw** Fortitude
-- **Duration**varies
+- **Range**: 30 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Fortitude
+- **Duration**: varies
 
 You transform the target creature into a harmless animal appropriate to the area, with effects based on its Fortitude save.
 

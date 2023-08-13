@@ -11,11 +11,11 @@ aliases: ["Synchronize Steps"]
 # Synchronize Steps *Spell 1*   
 [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**2 willing creatures
-- **Duration**sustained up to 1 minute
+- **Range**: 30 foot
+- **Targets**: 2 willing creatures
+- **Duration**: sustained up to 1 minute
 
 You link the minds of two targets, enabling them to move in tandem. When one of the targets Steps, the other target can use a reaction to [Step](rules/actions/step.md). When one of the targets Strides, the other target can use a reaction to [Stride](rules/actions/stride.md).
 

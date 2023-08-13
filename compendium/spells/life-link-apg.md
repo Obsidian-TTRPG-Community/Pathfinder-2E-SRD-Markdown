@@ -17,9 +17,9 @@ aliases: ["Life Link"]
 
 - **Mystery** Oracle
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**30 foot
-- **Targets**1 creature other than you
-- **Duration**1 minute
+- **Range**: 30 foot
+- **Targets**: 1 creature other than you
+- **Duration**: 1 minute
 
 You forge a connection of life energy between you and your target, distributing harm between both of you. When you first [Cast the Spell](rules/actions/cast-a-spell.md), the target recovers `1d4` Hit Points. The first time each round that the target takes damage, reduce the damage it takes by 3 (to a minimum of 0 damage). You lose 3 Hit Points each time, or the total damage dealt, if less than 3; this damage ignores any immunities or resistances you have and can't otherwise be mitigated in any way.
 

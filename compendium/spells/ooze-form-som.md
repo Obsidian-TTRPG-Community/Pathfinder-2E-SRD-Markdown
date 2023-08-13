@@ -11,9 +11,10 @@ aliases: ["Ooze Form"]
 # Ooze Form *Spell 3*   
 [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Duration**1 minute
+- 
+- **Duration**: 1 minute
 
 You invoke all things that seep and ooze, your body dissolving into a thick slurry and then reconstituting itself into a Medium ooze battle form. When you first cast this spell, choose black pudding, gelatinous cube, gray ooze, or ochre jelly. While in this form, you gain the [ooze](rules/traits/ooze.md "Ooze Creature Type Trait") trait. You can [Dismiss](rules/actions/dismiss.md) the spell.
 

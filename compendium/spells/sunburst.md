@@ -14,11 +14,11 @@ aliases: ["Sunburst"]
 # Sunburst *Spell 7*   
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [light](rules/traits/light.md "Light Effect Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**500 foot
-- **Area**60-foot burst
-- **Saving Throw** Reflex
+- **Range**: 500 foot
+- **Area**: 60-foot burst
+- **Saving Throw**: Reflex
 
 A powerful globe of searing sunlight explodes in the area, dealing `8d10` fire damage to creatures in the area, plus `8d10` additional positive damage to undead creatures. Each creature in the area must attempt a Reflex save.
 

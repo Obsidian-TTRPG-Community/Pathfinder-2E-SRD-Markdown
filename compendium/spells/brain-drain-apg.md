@@ -16,9 +16,9 @@ aliases: ["Brain Drain"]
 
 - **Mystery** Oracle
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 creature
-- **Saving Throw** Will
+- **Range**: 30 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Will
 
 You probe the target's mind to glean knowledge. This deals `1d8` mental damage with a basic Will save. If the target fails the save, you sort through the stolen memories to attempt a single check to [Recall Knowledge](rules/actions/recall-knowledge.md). Choose a skill that has the [Recall Knowledge](rules/actions/recall-knowledge.md) action, and use the target's skill modifier for the check.
 

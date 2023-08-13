@@ -12,10 +12,11 @@ aliases: ["Fire Seeds"]
 # Fire Seeds *Spell 6*   
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Saving Throw**  basic Reflex
-- **Duration**1 minute
+- 
+- **Saving Throw**:  basic Reflex
+- **Duration**: 1 minute
 
 Four acorns grow in your hand, their shells streaked with pulsing red and orange patterns. You or anyone else who has one of the acorns can toss it up to 30 feet with an [Interact](rules/actions/interact.md) action. It explodes in a 5-foot burst, dealing `4d6` fire damage.
 

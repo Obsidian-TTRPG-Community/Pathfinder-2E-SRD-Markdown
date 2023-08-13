@@ -12,11 +12,11 @@ aliases: ["Darkness"]
 # Darkness *Spell 2*   
 [darkness](rules/traits/darkness.md "Darkness Effect Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**120 foot
-- **Area**20-foot burst
-- **Duration**1 minute
+- **Range**: 120 foot
+- **Area**: 20-foot burst
+- **Duration**: 1 minute
 
 You create a shroud of darkness that prevents light from penetrating or emanating within the area. Light does not enter the area and any non-magical light sources, such as a torch or lantern, do not emanate any light while inside the area, even if their light radius would extend beyond the darkness.
 

@@ -16,7 +16,6 @@ The ghost hunter knows that ghosts and haunts share many features. By focusing o
 ```ad-embed-feat
 title: Ghost Hunter Dedication, Feat 2
 collapse: closed
-# Ghost Hunter Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: Trained in [Occultism](compendium/skills.md#Occultism) or [Religion](compendium/skills.md#Religion)
@@ -36,7 +35,6 @@ You're trained in occult spell attack rolls and spell DCs. You can usually repla
 ```ad-embed-feat
 title: Grave's Voice, Feat 4
 collapse: closed
-# Grave's Voice  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Ghost Hunter Dedication](compendium/feats/ghost-hunter-dedication-av1.md)
@@ -50,7 +48,6 @@ You can use your choice of [Spirit Lore](compendium/skills.md#Lore) or [Haunt Lo
 ```ad-embed-feat
 title: Investigate Haunting, Feat 4
 collapse: closed
-# Investigate Haunting  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Ghost Hunter Dedication](compendium/feats/ghost-hunter-dedication-av1.md)
@@ -64,7 +61,6 @@ You are skilled at noticing the telltale signs of ghosts and hauntings. Even whe
 ```ad-embed-feat
 title: Spirit Spells, Feat 4
 collapse: closed
-# Spirit Spells  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Ghost Hunter Dedication](compendium/feats/ghost-hunter-dedication-av1.md)
@@ -78,7 +74,6 @@ Your ability to confront incorporeal menaces develops into full-fledged spellcas
 ```ad-embed-feat
 title: Ghost Strike, Feat 6
 collapse: closed
-# Ghost Strike  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Ghost Hunter Dedication](compendium/feats/ghost-hunter-dedication-av1.md)
@@ -95,7 +90,6 @@ At 10th level, you can apply this effect to two weapons instead of one.
 ```ad-embed-feat
 title: Peer Beyond, Feat 8
 collapse: closed
-# Peer Beyond  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Ghost Hunter Dedication](compendium/feats/ghost-hunter-dedication-av1.md)

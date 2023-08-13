@@ -12,12 +12,12 @@ aliases: ["Behold the Weave"]
 # Behold the Weave *Spell 3*   
 [divination](rules/traits/divination.md "Divination School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [prediction](rules/traits/prediction.md "Prediction Effect Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 creature
-- **Saving Throw** Will
-- **Duration**1 round
+- **Range**: 30 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Will
+- **Duration**: 1 round
 
 You behold the many timelines that weave around a creature, and in so doing, you make one more likely to occur. The target must attempt a Will save.
 

@@ -15,12 +15,12 @@ aliases: ["Canticle Of Everlasting Grief"]
 # Canticle Of Everlasting Grief *Spell 8*   
 [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [curse](rules/traits/curse.md "Curse Effect Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**120 foot
-- **Targets**1 creature
-- **Saving Throw** Will
-- **Duration**varies
+- **Range**: 120 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Will
+- **Duration**: varies
 
 You create a melody distilled from pure grief, conveying the inevitable loss of everything your target cherishes, audible only to them. The target must attempt a Will save.
 

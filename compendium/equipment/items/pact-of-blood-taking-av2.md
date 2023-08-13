@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/av2
-- item/category/contract
+- item/category/contract/
 - trait/contract
 - trait/invested
 - trait/magical
@@ -14,8 +14,7 @@ aliases: ["Pact Of Blood-taking"]
 # Pact Of Blood-taking *Item 5*  
 [contract](rules/traits/contract-lol.md "Contract Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Devil** barbazu; **Decipher Writing** [Society](compendium/skills.md#Society), [Warfare Lore](compendium/skills.md#Lore)
-- **Category** Contract
+- **Decipher Writing** [Society](compendium/skills.md#Society), [Warfare Lore](compendium/skills.md#Lore); **Devil** barbazu
 
 You negotiate for might and viciousness.
 
@@ -27,4 +26,6 @@ You negotiate for might and viciousness.
 
 **Termination Clause** The contract guarantees that you will not "be slain by the barbazu or by barbazu action." This wording is vague; if any barbazu kills you, or if you die from [persistent bleed damage](rules/conditions.md#Persistent%20Damage) from any source, the contract is voided.
 
+
+---
 *Source: Abomination Vaults #2: Hands of the Devil p. 75*

@@ -13,10 +13,10 @@ aliases: ["Aura Of The Unremarkable"]
 # Aura Of The Unremarkable *Spell 6*   
 [illusion](rules/traits/illusion.md "Illusion School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Area**30-foot emanation
-- **Duration**sustained up to 1 minute
+- **Area**: 30-foot emanation
+- **Duration**: sustained up to 1 minute
 
 You and allies in the area appear to be completely innocuous to other creatures within the spell's area, regardless of the actions you're committing. For example, if you and your allies are loudly interrogating a local for information or aiming a crossbow at a noble from a balcony, creatures who can see you might not think this is unusual. Non-allied creatures in the emanation must attempt a Will save.
 

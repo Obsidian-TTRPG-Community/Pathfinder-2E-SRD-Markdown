@@ -11,9 +11,10 @@ aliases: ["Meld Into Stone"]
 # Meld Into Stone *Spell 3*   
 [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Duration**10 minutes
+- 
+- **Duration**: 10 minutes
 
 You merge with an adjacent block of stone with enough volume to fit you and your worn and held possessions. You must touch the stone when you [Cast the Spell](rules/actions/cast-a-spell.md). You can hear, but not see, what's going on outside the stone, and you can cast spells while in the stone as long as they don't require line of effect beyond the stone.
 

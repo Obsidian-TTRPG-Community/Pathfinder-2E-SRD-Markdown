@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/av2
-- item/category/elixir
+- item/category/elixir/
 - trait/alchemical
 - trait/consumable
 - trait/elixir
@@ -16,9 +16,8 @@ aliases: ["Ichthyosis Mutagen"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [elixir](rules/traits/elixir.md "Elixir Item Trait")  [mutagen](rules/traits/mutagen.md "Mutagen Item Trait")  [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 24 gp
-- **Usage** held in 1 hand; **Bulk** L
+- **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Elixir
 
 After you drink this mutagen, your skin continually renews itself, thickening into large, scaly patches.
 
@@ -28,4 +27,6 @@ Drawback Your thickened skin makes quick movement difficult, and your excess ski
 
 You take a –2 penalty to Reflex saves for 1 minute. Any creature attempting to [Track](rules/actions/track.md) you in the next 24 hours gains a +4 circumstance bonus to their check.
 
+
+---
 *Source: Abomination Vaults #2: Hands of the Devil p. 72*

@@ -12,10 +12,10 @@ aliases: ["Plane Shift"]
 # Plane Shift *Spell 7*   
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** 10 minutes 
-- **Range**touch
-- **Targets**1 willing creature, or up to 8 willing creatures joining hands
+- **Range**: touch
+- **Targets**: 1 willing creature, or up to 8 willing creatures joining hands
 
 You and your allies traverse the barriers between planes of existence. The targets move to another plane, such as the Plane of Fire, the Shadow Plane, or the Abyss. You must have specific knowledge of the destination plane and use a magic tuning fork created from material from that plane as a focus for the spell. While the tuning forks for most prominent planes are uncommon, just like the spell plane shift, more obscure planes and demiplanes often have rare tuning forks.
 

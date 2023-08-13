@@ -15,11 +15,13 @@ aliases: ["Shuriken"]
 
 - **Price** 1 cp
 - **Bulk** —
-- **Damage** `1d4` P
-- **Range** 20 ft.; **Reload** 0
+  - **Damage**: `1d4` P
+  - **Range** 20 ft.; **Reload** 0
 - **Hands** 1
 - **Category** Martial; **Group** Dart 
 
 This "throwing star" is a small piece of flat metal with sharp edges, designed to be flung with a flick of the wrist.
 
+
+---
 *Source: Core Rulebook p. 281*

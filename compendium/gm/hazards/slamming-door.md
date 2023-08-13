@@ -17,14 +17,12 @@ Pressure-sensitive panels in the floor connect to a stone slab [hidden](rules/co
 
 - **Disable** [Thievery](compendium/skills.md#Thievery) DC 15 (trained) on the floor panels before the slab falls.  
 
-- **AC** 16 , **Fort** +10, **Ref** +2
+- **AC** 16, **Fort** +10, **Ref** +2
 - **Hardness** 5, **HP** 20 (BT 10)
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Slam Shut [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Slam Shut** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: Pressure is placed on any floor tile.
 

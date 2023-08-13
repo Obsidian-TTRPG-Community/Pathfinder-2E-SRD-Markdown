@@ -14,7 +14,6 @@ You've become a xun, a powerful gang enforcer.
 ```ad-embed-feat
 title: Golden League Xun Dedication, Feat 8
 collapse: closed
-# Golden League Xun Dedication  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: master in [Underworld Lore](compendium/skills.md#Lore)
@@ -32,7 +31,6 @@ You gain expert proficiency in two of the following skills (or in two other skil
 ```ad-embed-feat
 title: Beneath Notice, Feat 10
 collapse: closed
-# Beneath Notice  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Golden League Xun Dedication](compendium/feats/golden-league-xun-dedication-frp2.md), expert in [Deception](compendium/skills.md#Deception)
@@ -46,7 +44,6 @@ You are skilled at hiding from your foes and targets among the common populace. 
 ```ad-embed-feat
 title: Menacing Prowess, Feat 10
 collapse: closed
-# Menacing Prowess  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Golden League Xun Dedication](compendium/feats/golden-league-xun-dedication-frp2.md), expert in [Intimidation](compendium/skills.md#Intimidation)
@@ -60,7 +57,6 @@ Scaring off multiple people at once is your specialty. When you [Demoralize](rul
 ```ad-embed-feat
 title: Rope Mastery, Feat 10
 collapse: closed
-# Rope Mastery  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Golden League Xun Dedication](compendium/feats/golden-league-xun-dedication-frp2.md), expert in [Athletics](compendium/skills.md#Athletics)
@@ -76,7 +72,6 @@ In addition, you can use a rope to hamper your foes. When holding a rope, you ca
 ```ad-embed-feat
 title: Silent Sting, Feat 10
 collapse: closed
-# Silent Sting  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Golden League Xun Dedication](compendium/feats/golden-league-xun-dedication-frp2.md), expert in [Stealth](compendium/skills.md#Stealth)

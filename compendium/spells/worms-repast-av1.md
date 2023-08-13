@@ -11,12 +11,12 @@ aliases: ["Worm's Repast"]
 # Worm's Repast *Spell 2*   
 [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Traditions**: [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 corporeal creature
-- **Saving Throw** Fortitude
-- **Duration**see below
+- **Range**: 30 foot
+- **Targets**: 1 corporeal creature
+- **Saving Throw**: Fortitude
+- **Duration**: see below
 
 Gnawing worms materialize within the flesh of the target creature, dealing `4d6` piercing damage and `1d6` [persistent piercing damage](rules/conditions.md#Persistent%20Damage). If the target is a non-skeletal corporeal undead creature, you deal an extra `2d6` [persistent piercing damage](rules/conditions.md#Persistent%20Damage). The target must attempt a Fortitude save.
 

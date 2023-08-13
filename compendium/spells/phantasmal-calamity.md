@@ -12,11 +12,11 @@ aliases: ["Phantasmal Calamity"]
 # Phantasmal Calamity *Spell 6*   
 [illusion](rules/traits/illusion.md "Illusion School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**500 foot
-- **Area**30-foot burst
-- **Saving Throw** Will
+- **Range**: 500 foot
+- **Area**: 30-foot burst
+- **Saving Throw**: Will
 
 A vision of apocalyptic destruction fills the mind of each creature in the area. The vision deals `11d6` mental damage (basic Will save). On a critical failure, the creature must also succeed at a Reflex save or believe it's trapped (stuck in a fissure, adrift at sea, or some other fate in keeping with its vision). If it fails the second save, it's also [stunned](rules/conditions.md#Stunned) for 1 minute. It can attempt a new Will save at the end of each of its turns, and on a success, it 0 and recovers from the [stunned](rules/conditions.md#Stunned) condition.
 

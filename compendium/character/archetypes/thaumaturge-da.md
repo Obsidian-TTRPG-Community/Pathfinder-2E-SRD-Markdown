@@ -19,7 +19,6 @@ Thaumaturge suits characters who want to glean strange knowledge. It's especiall
 ````ad-embed-feat
 title: Thaumaturge Dedication, Feat 2
 collapse: closed
-# Thaumaturge Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [multiclass](rules/traits/multiclass.md "Multiclass Feat Trait")  
 
 - **Prerequisites**: Charisma 14
@@ -27,13 +26,15 @@ collapse: closed
 You've uncovered basic thaumaturgy. You become trained in thaumaturge class DC. Choose an first implement and esoterica|thaumaturge|DA|1||implement; you can use it to Glimpse Vulnerability, but don't gain its benefits. You also gain a few esoterica, allowing you to use [esoterica](rules/traits/esoterica-da.md "Esoterica Action & Ability Trait") actions. You become trained in your choice of [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), or [Religion](compendium/skills.md#Religion); if you were already trained in these, you become trained in a skill of your choice. You gain the Glimpse Vulnerability action.
 
 ```ad-embed-ability
-title: Glimpse Vulnerability [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[esoterica](rules/traits/esoterica-da.md "Esoterica Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
+title: **Glimpse Vulnerability** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") ([esoterica](rules/traits/esoterica-da.md), [manipulate](rules/traits/manipulate.md))
 
+- **Frequency**: once per round
 - **Requirements**: You are holding your implement
 
 **Effect** You glimpse a hidden vulnerability and then strengthen it to aid you. Select a creature you can see. Until you Glimpse Vulnerability again, that target gains weakness 2 against your unarmed and weapon [Strikes](rules/actions/strike.md).  
-%% #trait/esoterica #trait/manipulate %%
+%%
+ #trait/esoterica  #trait/manipulate 
+%%
 ```
 
 **Special.** You can't select another dedication feat until you have gained two other feats from the thaumaturge archetype.
@@ -45,7 +46,6 @@ title: Glimpse Vulnerability [>](rules/core-rulebook/chapter-9-playing-the-game.
 ```ad-embed-feat
 title: Basic Thaumaturgy, Feat 4
 collapse: closed
-# Basic Thaumaturgy  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Thaumaturge Dedication](compendium/feats/thaumaturge-dedication-da.md)
@@ -59,7 +59,6 @@ You gain a 1st- or 2nd-level thaumaturge feat of your choice.
 ```ad-embed-feat
 title: Advanced Thaumaturgy, Feat 6
 collapse: closed
-# Advanced Thaumaturgy  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Thaumaturgy](compendium/feats/basic-thaumaturgy-da.md)
@@ -75,7 +74,6 @@ You gain one thaumaturge feat. For the purpose of meeting its prerequisites, you
 ```ad-embed-feat
 title: Implement Initiate, Feat 6
 collapse: closed
-# Implement Initiate  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Thaumaturge Dedication](compendium/feats/thaumaturge-dedication-da.md)
@@ -89,7 +87,6 @@ You gain your first implement and esoterica|thaumaturge|DA|1||implement's initia
 ```ad-embed-feat
 title: Magical Knowledge, Feat 8
 collapse: closed
-# Magical Knowledge  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Thaumaturge Dedication](compendium/feats/thaumaturge-dedication-da.md), trained in one of [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), or [Religion](compendium/skills.md#Religion) and expert in another
@@ -103,7 +100,6 @@ Increase your proficiency rank in one of [Arcana](compendium/skills.md#Arcana), 
 ```ad-embed-feat
 title: Resolute, Feat 12*
 collapse: closed
-# Resolute  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Resolute](compendium/feats/resolute-da.md) is intended for use with the Thaumaturge Archetype. Its level has been changed accordingly.

@@ -11,9 +11,10 @@ aliases: ["Elemental Form"]
 # Elemental Form *Spell 5*   
 [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Duration**1 minute
+- 
+- **Duration**: 1 minute
 
 You call upon the power of the planes to transform into a Medium elemental battle form. When you cast this spell, choose air, earth, fire, or water. While in this form, you gain the corresponding trait and the [elemental](rules/traits/elemental.md "Elemental Creature Type Trait") trait. You have hands in this battle form and can take manipulate actions.
 

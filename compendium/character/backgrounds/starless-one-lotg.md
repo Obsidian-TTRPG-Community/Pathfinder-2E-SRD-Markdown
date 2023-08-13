@@ -18,11 +18,13 @@ Choose two ability boosts. One must be to Wisdom or Charisma, and one is a free 
 You're trained in [Occultism](compendium/skills.md#Occultism) and [Astrology Lore](compendium/skills.md#Lore). You also gain the Reclaim Destiny action.
 
 ```ad-embed-ability
-title: Reclaim Destiny [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
-[divination](rules/traits/divination.md "Divination School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
+title: **Reclaim Destiny** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") ([divination](rules/traits/divination.md), [occult](rules/traits/occult.md))
 
+- **Frequency**: once per day
 - **Trigger**: You are about to attempt a check and are affected by a [fortune](rules/traits/fortune.md "Fortune Effect Trait") or [misfortune](rules/traits/misfortune.md "Misfortune Effect Trait") effect that modifies the triggering effect
 
 **Effect** You break the influence over your fortunes and claim a stable hold over your fate. You ignore the [fortune](rules/traits/fortune.md "Fortune Effect Trait") or [misfortune](rules/traits/misfortune.md "Misfortune Effect Trait") effect and can roll the triggering roll normally.  
-%% #trait/divination #trait/occult %%
+%%
+ #trait/divination  #trait/occult 
+%%
 ```

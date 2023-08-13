@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
-- item/category/elixir
+- item/category/elixir/
 - trait/alchemical
 - trait/consumable
 - trait/elixir
@@ -13,9 +13,8 @@ aliases: ["Warding Punch"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [elixir](rules/traits/elixir.md "Elixir Item Trait")  
 
 - **Price** 60 gp
-- **Usage** held in 1 hand; **Bulk** L
+- **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Elixir
 
 Based on a Thassilonian recipe, warding punch is made from red or white wine combined with fruits, other alcohols, and alchemical reagents. Its alchemical properties provide protection against a specific school of magic depending on the ingredients chosen when it's created, granting a +1 item bonus to saving throws against spells from that school for 10 minutes.
 
@@ -27,4 +26,6 @@ Based on a Thassilonian recipe, warding punch is made from red or white wine com
 - Nut Liqueurs Conjuration
 - Spiced Spirits Enchantment
 
+
+---
 *Source: Treasure Vault p. 51*

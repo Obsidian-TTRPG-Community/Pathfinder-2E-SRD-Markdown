@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
-- item/category/consumable
+- item/category/consumable/
 - trait/consumable
 - trait/divination
 - trait/magical
@@ -14,9 +14,8 @@ aliases: ["Watchful Portrait"]
 [consumable](rules/traits/consumable.md "Consumable Item Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [scrying](rules/traits/scrying.md "Scrying Effect Trait")  
 
 - **Price** 125 gp
-- **Usage** held in 2 hands; **Bulk** 1
+- **Bulk** 1; **Usage** held in 2 hands
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Consumable
 
 A watchful portrait appears to be an innocuous depiction of a bored noble, unassuming relative, or unknown local celebrity.
 
@@ -24,4 +23,6 @@ You Activate the portrait by hanging it. While it's activated, you can use a sin
 
 The painting loses its magic when the scrying ends, if 4 hours pass after you Activate it without you looking through it, or if you Activate a different watchful portrait. The portrait then remains a normal, non-magical work of art, but due to its rather bland subject matter, it is worth no more than 5 gp.
 
+
+---
 *Source: Treasure Vault p. 98*

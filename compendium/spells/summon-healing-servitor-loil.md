@@ -14,10 +14,10 @@ aliases: ["Summon Healing Servitor"]
 # Summon Healing Servitor *Spell 5*   
 [healing](rules/traits/healing.md "Healing Effect Trait")  [incarnate](rules/traits/incarnate-som.md "Incarnate Spell Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**100 foot
-- **Duration**
+- **Range**: 100 foot
+- 
 
 You call forth a servitor forged from raw positive energy to heal and bolster your allies. The servitor occupies the space of a Huge creature and has a speed of 60 feet.
 

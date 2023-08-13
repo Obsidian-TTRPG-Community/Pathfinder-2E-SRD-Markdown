@@ -13,8 +13,9 @@ aliases: ["Unblinking Flame Emblem"]
 [divination](rules/traits/divination.md "Divination School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Trigger**Your last action was a successful [Strike](rules/actions/strike.md) against an enemy.
-- **Duration**3 rounds
+- **Trigger**: Your last action was a successful [Strike](rules/actions/strike.md) against an enemy.
+- 
+- **Duration**: 3 rounds
 
 You emblazon the target with a fiery sigil that projects your sight and your flame onto them, allowing you and your allies to track their movements and making it easier to hit them.
 

@@ -4,15 +4,22 @@ cssclass: pf2e,pf2e-index
 ---
 # Index of Traits
 
+[Action & Ability](#Action%20&%20Ability), [Alignment](#Alignment), [Ancestry & Heritage](#Ancestry%20&%20Heritage), [Armor](#Armor), [Class](#Class), [Combat](#Combat), [Creature](#Creature), [Creature Type](#Creature%20Type), [Effect](#Effect), [Energy & Element](#Energy%20&%20Element), [Equipment](#Equipment), [Feat](#Feat), [General](#General), [Gravity](#Gravity), [Hazard](#Hazard), [Item](#Item), [Morphic](#Morphic), [Planar](#Planar), [Rarity](#Rarity), [School](#School), [Scope](#Scope), [Settlement](#Settlement), [Size](#Size), [Spell](#Spell), [Time](#Time), [Tradition](#Tradition), [Weapon](#Weapon)
+
+
 ## Action & Ability
 
+- [Composite](rules/traits/composite-roe.md "Composite Action & Ability Trait")
 - [Concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")
 - [Deviant](rules/traits/deviant-da.md "Deviant Action & Ability Trait")
 - [Downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")
 - [Esoterica](rules/traits/esoterica-da.md "Esoterica Action & Ability Trait")
 - [Exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")
+- [Impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")
+- [Infusion](rules/traits/infusion-roe.md "Infusion Action & Ability Trait")
 - [Instinct](rules/traits/instinct.md "Instinct Action & Ability Trait")
 - [Mindshift](rules/traits/mindshift-da.md "Mindshift Action & Ability Trait")
+- [Overflow](rules/traits/overflow-roe.md "Overflow Action & Ability Trait")
 - [Psyche](rules/traits/psyche-da.md "Psyche Action & Ability Trait")
 - [Reckless](rules/traits/reckless-gmg.md "Reckless Action & Ability Trait")
 - [Tandem](rules/traits/tandem-som.md "Tandem Action & Ability Trait")
@@ -114,15 +121,20 @@ cssclass: pf2e,pf2e-index
 - [Champion](rules/traits/champion.md "Champion Class Trait")
 - [Class](rules/traits/class-som.md "Class Class Trait")
 - [Cleric](rules/traits/cleric.md "Cleric Class Trait")
+- [Composite](rules/traits/composite-roe.md "Composite Action & Ability Trait")
 - [Deviant](rules/traits/deviant-da.md "Deviant Action & Ability Trait")
 - [Druid](rules/traits/druid.md "Druid Class Trait")
 - [Fighter](rules/traits/fighter.md "Fighter Class Trait")
 - [Gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")
+- [Impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")
+- [Infusion](rules/traits/infusion-roe.md "Infusion Action & Ability Trait")
 - [Inventor](rules/traits/inventor-g-g.md "Inventor Class Trait")
 - [Investigator](rules/traits/investigator-apg.md "Investigator Class Trait")
+- [Kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")
 - [Magus](rules/traits/magus-som.md "Magus Class Trait")
 - [Monk](rules/traits/monk.md "Monk Class Trait")
 - [Oracle](rules/traits/oracle-apg.md "Oracle Class Trait")
+- [Overflow](rules/traits/overflow-roe.md "Overflow Action & Ability Trait")
 - [Psychic](rules/traits/psychic-da.md "Psychic Class Trait")
 - [Ranger](rules/traits/ranger.md "Ranger Class Trait")
 - [Rogue](rules/traits/rogue.md "Rogue Class Trait")
@@ -357,6 +369,7 @@ cssclass: pf2e,pf2e-index
 - [Revolutionary](rules/traits/revolutionary-locg.md "Revolutionary General Trait")
 - [Secret](rules/traits/secret.md "Secret General Trait")
 - [Shadow](rules/traits/shadow.md "Shadow General Trait")
+- [Spellshape](rules/traits/spellshape-roe.md "Spellshape General Trait")
 - [Structure](rules/traits/structure.md "Structure General Trait")
 - [True Name](rules/traits/true-name-som.md "True Name General Trait")
 - [Wayfaring](rules/traits/wayfaring-locg.md "Wayfaring General Trait")

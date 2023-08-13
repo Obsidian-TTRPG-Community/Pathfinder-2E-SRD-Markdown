@@ -13,11 +13,11 @@ aliases: ["Font Of Serenity"]
 # Font Of Serenity *Focus 4*   
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-- **Domains**: [repose](compendium/setting/domains.md#Repose)
+- **Domains** [repose](compendium/setting/domains.md#Repose)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Area**15-foot emanation
-- **Duration**1 minute
+- **Range**: 30 foot
+- **Area**: 15-foot emanation
+- **Duration**: 1 minute
 
 A divine beacon radiates serenity, soothing nearby allies.
 

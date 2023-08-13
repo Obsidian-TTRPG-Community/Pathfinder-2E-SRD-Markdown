@@ -18,7 +18,7 @@ aliases: ["Arazni", "The Unyielding"]
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: create unwilling undead, insult Arazni
-- **Areas of Concern**: the abused, , dignity, , unwilling undeath
+- **Areas of Concern**: the abused, dignity, unwilling undeath
 - **Follower Alignments**: [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")
 
 ## Devotee benefits
@@ -37,8 +37,9 @@ When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Ar
 title: [Avatar](compendium/spells/avatar.md) of Arazni
 
 - **Speed**: Speed 70 feet, [air walk](compendium/spells/air-walk.md), immune to [immobilized](rules/conditions.md#Immobilized)
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") rapier ([deadly <3d8>](rules/traits/deadly-3d8.md "Deadly Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait")), **Damage** `6d8+6` piercing
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") call blood **Damage** `6d6` persistent bleed damage
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") rapier (, [deadly <3d8>](rules/traits/deadly-3d8.md "Deadly Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait")), **Damage** `6d8+6` piercing 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") call blood (), **Damage** `6d6` persistent bleed damage 
 ```
 
 ## Divine intercession

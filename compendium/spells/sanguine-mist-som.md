@@ -13,12 +13,12 @@ aliases: ["Sanguine Mist"]
 # Sanguine Mist *Spell 4*   
 [death](rules/traits/death.md "Death Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**60 foot
-- **Area**10-foot burst
-- **Saving Throw**  basic Fortitude
-- **Duration**sustained up to 1 minute
+- **Range**: 60 foot
+- **Area**: 10-foot burst
+- **Saving Throw**:  basic Fortitude
+- **Duration**: sustained up to 1 minute
 
 You unleash a cloud of foul, blood-sucking fog that drains the vitality from the living to bolster your own. Each living creature in the area when you [Cast the Spell](rules/actions/cast-a-spell.md), aside from you, takes `6d6` negative damage with a basic Fortitude save. Creatures in the area are [concealed](rules/conditions.md#Concealed), and all creatures outside the cloud become [concealed](rules/conditions.md#Concealed) to creatures within it.
 

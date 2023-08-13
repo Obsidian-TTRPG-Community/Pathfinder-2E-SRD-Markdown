@@ -16,15 +16,16 @@ aliases: ["Sigil of Deepest Fears"]
 An arcane sigil forces creatures to confront their greatest fear.
 
 - **Disable** DC 43 [Thievery](compendium/skills.md#Thievery) (master) to drain the sigil's power harmlessly, or dispel magic (9th level; counteract DC 42) to counteract the sigil  
-     
+
 ```ad-embed-ability
-title: Face Your Fear [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [death](rules/traits/death.md "Death Effect Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
+title: **Face Your Fear** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([arcane](rules/traits/arcane.md), [death](rules/traits/death.md), [emotion](rules/traits/emotion.md), [fear](rules/traits/fear.md), [illusion](rules/traits/illusion.md), [mental](rules/traits/mental.md))
 
 - **Trigger**: A creature moves within 10 feet of the sigil
 
 **Effect** All creatures within 120 feet of the sigil are affected by a [weird](compendium/spells/weird.md) spell (DC 40 Will save).  
-%% #trait/arcane #trait/death #trait/emotion #trait/fear #trait/illusion #trait/mental %%
+%%
+ #trait/arcane  #trait/death  #trait/emotion  #trait/fear  #trait/illusion  #trait/mental 
+%%
 ```
 
 **Reset** 1 day  

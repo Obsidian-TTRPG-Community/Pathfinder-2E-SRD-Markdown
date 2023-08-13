@@ -16,8 +16,9 @@ You become a hybrid of your ancestry and a saumen kar. Your size increases to La
 You also gain the Blizzard Evasion reaction.
 
 ```ad-embed-ability
-title: Blizzard Evasion [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Blizzard Evasion** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
+- **Frequency**: once per day
 - **Trigger**: You take 40 or more physical damage from a single attack
 
 **Effect** You designate a single creature as your mark. This lasts until the mark dies or you use Mark for Death again. You gain a +2 circumstance bonus to [Perception](compendium/skills.md#Perception) checks to [Seek](rules/actions/seek.md) your mark and on [Deception](compendium/skills.md#Deception) checks to [Feint](rules/actions/feint.md) against your mark. Your [agile](rules/traits/agile.md "Agile Weapon Trait") and [finesse](rules/traits/finesse.md "Finesse Weapon Trait") weapons and unarmed attacks gain the backstabber and [deadly <d6>](rules/traits/deadly-d6.md "Deadly Weapon Trait") weapon traits when you're attacking your mark.

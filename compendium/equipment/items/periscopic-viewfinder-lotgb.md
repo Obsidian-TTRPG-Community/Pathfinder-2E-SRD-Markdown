@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/lotgb
-- item/category/consumable
+- item/category/consumable/
 - trait/clockwork
 - trait/consumable
 - trait/gadget
@@ -14,12 +14,13 @@ aliases: ["Periscopic Viewfinder"]
 [clockwork](rules/traits/clockwork-g-g.md "Clockwork  Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [gadget](rules/traits/gadget-g-g.md "Gadget  Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 12 gp
-- **Usage** held in 1 hand; **Bulk** L
+- **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Consumable
 
 This bronze, spherical device slowly rotates around a cluster of angled mirrors and a light-filled orb.
 
 Clockwork Items.
 
+
+---
 *Source: Lost Omens: The Grand Bazaar p. 22*

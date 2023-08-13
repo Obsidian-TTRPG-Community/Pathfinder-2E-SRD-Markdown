@@ -13,10 +13,10 @@ aliases: ["Ordained Purpose"]
 # Ordained Purpose *Focus 4*   
 [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains**: [naga](compendium/setting/domains.md#Naga)
+- **Domains** [naga](compendium/setting/domains.md#Naga)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Area**30-foot-radius emanation centered on you
-- **Saving Throw**  basic Will
+- **Area**: 30-foot-radius emanation centered on you
+- **Saving Throw**:  basic Will
 
 You call upon the authority of cosmic forces of order, overwhelming creatures with remorse and agony for acting outside of their station and purpose. Enemies in the area take `4d6` mental damage and must attempt a Will save. A creature that has lost abilities as a result of performing acts anathema to its deity or beliefs (such as a champion who violated their tenets and hasn't atoned) uses the outcome one degree of success worse than the result of its saving throw. At the GM's discretion, a creature currently filling its appointed station and purpose (such as a farmer working in a field or a criminal in the act of committing a crime) uses the outcome one degree of success better than the result of its saving throw.
 

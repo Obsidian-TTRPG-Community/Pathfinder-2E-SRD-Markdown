@@ -13,11 +13,13 @@ aliases: ["Dart"]
 
 - **Price** 1 cp
 - **Bulk** L
-- **Damage** `1d4` P
-- **Range** 20 ft.
+  - **Damage**: `1d4` P
+  - **Range** 20 ft.
 - **Hands** 1
 - **Category** Simple; **Group** Dart 
 
 This thrown weapon is larger than an arrow but shorter than a javelin. It typically has a short shaft of wood ending in a metal tip and is sometimes stabilized by feathers or fur.
 
+
+---
 *Source: Core Rulebook p. 281*

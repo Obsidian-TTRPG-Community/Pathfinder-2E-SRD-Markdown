@@ -12,11 +12,11 @@ aliases: ["Flame Barrier"]
 # Flame Barrier *Focus 4*   
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [cleric](rules/traits/cleric.md "Cleric Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains**: [fire](compendium/setting/domains.md#Fire)
+- **Domains** [fire](compendium/setting/domains.md#Fire)
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
-- **Trigger**An effect would deal fire damage to either you or an ally within range.
-- **Range**60 foot
-- **Targets**the creature that would take fire damage
+- **Trigger**: An effect would deal fire damage to either you or an ally within range.
+- **Range**: 60 foot
+- **Targets**: the creature that would take fire damage
 
 You swiftly deflect incoming flames. The target gains fire resistance 15 against the triggering effect.
 

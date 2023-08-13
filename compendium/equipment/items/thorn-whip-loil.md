@@ -17,10 +17,12 @@ aliases: ["Thorn whip"]
 
 - **Price** 6 sp
 - **Bulk** 1
-- **Damage** `1d4` P
+  - **Damage**: `1d4` P
 - **Hands** 1
 - **Category** Martial; **Group** Brawling 
 
 Carefully woven from plant fibers, the thorn whip sports small spikes that protrude from various locations.
 
+
+---
 *Source: Lost Omens: Impossible Lands p. 221*

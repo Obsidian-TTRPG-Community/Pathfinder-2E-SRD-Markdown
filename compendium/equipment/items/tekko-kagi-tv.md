@@ -17,10 +17,12 @@ aliases: ["Tekko-Kagi"]
 
 - **Price** 2 sp
 - **Bulk** L
-- **Damage** `1d4` S
+  - **Damage**: `1d4` S
 - **Hands** 1
 - **Category** Martial; **Group** Brawling 
 
 Four curved blades attached to a sturdy handlebar give the wielder of this close-combat weapon the illusion of having claws that extend from their fist. Adherents of Bastet favor the tekko-kagi for catching their foes off guard.
 
+
+---
 *Source: Treasure Vault p. 25*

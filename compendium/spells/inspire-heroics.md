@@ -14,6 +14,7 @@ aliases: ["Inspire Heroics"]
 [bard](rules/traits/bard.md "Bard Class Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") 
+- 
 
 You call upon your muse to greatly increase the benefits you provide to your allies with your inspire courage or inspire defense composition. If your next action is to cast [inspire courage](compendium/spells/inspire-courage.md) or inspire defense, attempt a [Performance](compendium/skills.md#Performance) check.
 

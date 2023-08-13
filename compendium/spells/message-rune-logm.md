@@ -12,11 +12,11 @@ aliases: ["Message Rune"]
 # Message Rune *Spell 1*   
 [divination](rules/traits/divination.md "Divination School Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 5 minutes 
-- **Range**touch
-- **Targets**1 flat unattended surface
-- **Duration**1 day
+- **Range**: touch
+- **Targets**: 1 flat unattended surface
+- **Duration**: 1 day
 
 You record a message up to 5 minutes long and inscribe a special rune on any flat unattended surface within reach. The nature of the rune's appearance is up to you, but it is visible to everyone and it must be no smaller than 2 inches in diameter.
 

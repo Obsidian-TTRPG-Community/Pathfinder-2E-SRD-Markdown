@@ -12,12 +12,11 @@ aliases: ["Modify Memory"]
 # Modify Memory *Spell 4*   
 [divination](rules/traits/divination.md "Divination School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 creature
-- **Saving Throw** Will
-- **Duration**
+- **Range**: 30 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Will
 
 You alter the target's memories, either erasing a memory, enhancing a memory's clarity, altering a memory, or adding a false memory. The target can attempt a Will save to resist the spell.
 

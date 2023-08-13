@@ -20,14 +20,16 @@ aliases: ["Gnome Amalgam Musket"]
 - **Access** The following regions have access to firearms: Alkenstar, Dongun Hold, Tian Xia, Vudra, Arcadia, Ustalav, the Shackles
 - **Price** 10 gp
 - **Bulk** 2
-- **Ranged**  
-  - **Damage** `1d6` P
+- **Ranged**:  
+  - **Damage**: `1d6` P
   - **Ammunution** round; **Range** 40 ft.; **Reload** 2
-- **Melee**  
-  - **Damage** `1d8` B
+- **Melee**:  
+  - **Damage**: `1d8` B
 - **Hands** 2
 - **Category** Martial
 
 Rumored to be the result of a gnomish dare to make a variant of a hooked hammer that's even more intricate and complex, this weapon adds a musket to the mix of an already overcomplicated device.
 
+
+---
 *Source: Guns & Gears p. 158*

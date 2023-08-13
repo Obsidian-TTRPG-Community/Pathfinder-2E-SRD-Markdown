@@ -17,7 +17,7 @@ aliases: ["The Laborer's Bastion"]
 
 - **Category**: Pantheon
 - **Anathema**: cheat, give into or spread despair, keep silent when faced with oppression, work without respite or enjoyment
-- **Areas of Concern**: laborers, , the oppressed, , daily work, , achievement
+- **Areas of Concern**: laborers, the oppressed, daily work, achievement
 - **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")
 
 ## Devotee benefits

@@ -13,10 +13,12 @@ aliases: ["Gauntlet"]
 
 - **Price** 2 sp
 - **Bulk** L
-- **Damage** `1d4` B
+  - **Damage**: `1d4` B
 - **Hands** 1
 - **Category** Simple; **Group** Brawling 
 
 A pair of these metal gloves comes with [full plate](compendium/equipment/items/full-plate.md), [half plate](compendium/equipment/items/half-plate.md), and splint armor; they can also be purchased separately and worn with other types of armor. They not only protect your hands but also transform your hands into lethal weapons.
 
+
+---
 *Source: Core Rulebook p. 280*

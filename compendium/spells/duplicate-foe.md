@@ -10,12 +10,12 @@ aliases: ["Duplicate Foe"]
 # Duplicate Foe *Spell 7*   
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**30 foot
-- **Targets**1 enemy of level 15 or lower
-- **Saving Throw** Fortitude
-- **Duration**sustained up to 1 minute
+- **Range**: 30 foot
+- **Targets**: 1 enemy of level 15 or lower
+- **Saving Throw**: Fortitude
+- **Duration**: sustained up to 1 minute
 
 You try to create a temporary duplicate of an enemy to fight on your behalf. The target can attempt a Fortitude save to disrupt the spell. The duplicate appears in an unoccupied space adjacent to the target and has the target's attack modifier, AC, saving throw modifiers, [Perception](compendium/skills.md#Perception), and skill modifiers, but it has only 70 Hit Points and lacks the target's special abilities, including immunities, resistances, and weaknesses. It has no magic items except weapon potency runes.
 

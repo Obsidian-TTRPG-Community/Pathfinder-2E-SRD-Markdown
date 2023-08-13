@@ -11,11 +11,11 @@ aliases: ["Glitterdust"]
 # Glitterdust *Spell 2*   
 [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**120 foot
-- **Area**10-foot burst
-- **Saving Throw** Reflex
+- **Range**: 120 foot
+- **Area**: 10-foot burst
+- **Saving Throw**: Reflex
 
 Creatures in the area are outlined by glittering dust. Each creature must attempt a Reflex save. If a creature has its invisibility negated by this spell, it is [concealed](rules/conditions.md#Concealed) instead of [invisible](rules/conditions.md#Invisible). This applies both if the creature was already [invisible](rules/conditions.md#Invisible) and if it benefits from new invisibility effects before the end of the invisibility negation effect from this spell.
 

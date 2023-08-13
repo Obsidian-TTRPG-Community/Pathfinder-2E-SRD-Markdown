@@ -15,8 +15,8 @@ aliases: ["Frost's Touch"]
 [arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [cold](rules/traits/cold.md "Cold Energy & Element Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**30 foot
-- **Targets**1 object
+- **Range**: 30 foot
+- **Targets**: 1 object
 
 Your gelid shard drinks down nearby heat in a futile attempt to sate itself and achieve a level of frigid cold unheard of on the Material Plane. This allows you to cool a drink, make a hot pot safe to handle, or other, similar minor effects. Once cooled, the object's temperature is subject to its environment as usual. You can also solidify ambient moisture into a solid object; this temporary object is of negligible Bulk, made of non-magical ice. The object looks crude and artificial and is extremely fragile—it can't be used as a tool, weapon, or spell component. Once created, it melts as normal for ice for the ambient conditions.
 

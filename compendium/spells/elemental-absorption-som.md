@@ -10,9 +10,10 @@ aliases: ["Elemental Absorption"]
 # Elemental Absorption *Spell 3*   
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Duration**1 minute
+- 
+- **Duration**: 1 minute
 
 You absorb elemental energy, which you can release as a powerful counterattack. Choose air, earth, fire, or water. You gain resistance 5 to damage dealt by effects with the chosen [elemental](rules/traits/elemental.md "Elemental Creature Type Trait") trait; if you choose water, you also gain resistance to cold damage. As usual, if a spell has a multiple effects, such as a spell that deals both fire damage and bludgeoning damage with superheated rocks, you gain resistance to only the effects associated with the element you chose. Keep track of how much damage you have prevented with this spell.
 

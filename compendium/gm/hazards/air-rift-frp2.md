@@ -20,19 +20,15 @@ A portal to the Plane of Air rips open onstage, causing roaring winds to tear th
 
 - **Disable** DC 38 [Arcana](compendium/skills.md#Arcana) (master) to sew the magical threads of the rift shut, DC 40 [Nature](compendium/skills.md#Nature) or [Survival](compendium/skills.md#Survival) (legendary) to open enough windows and doors to reduce its intensity, or dispel magic (7th level; counteract DC 34) to counteract the air rift.  
 
-- **AC** 35; **vs. reactions and ranged weapon attacks AC** 40 , **Fort** +30
+- **AC** 35; **vs. reactions and ranged weapon attacks AC** 40, **Fort** +30
 - **HP** 220
-- **Immunities** 
-- **Resistances** 
 - **Weaknesses** earth vulnerability
-     
-```ad-embed-ability
-title: Earth Vulnerability
 
-The Elemental Plane of Air is opposed by the Plane of Earth. Any spell or [magical](rules/traits/magical.md "Magical Item Trait") effect with the [earth](rules/traits/earth.md "Earth Energy & Element Trait") trait that targets a creature or area within 50 feet of the rift deals 10 damage to the rift per spell levels (or per 2 levels for magic items, feats, and so forth). For example, a 3rd-level [earthbind](compendium/spells/earthbind.md) spell cast on a creature near the air rift deals 30 points of damage to the rift.
+```ad-embed-ability
+title: **Earth Vulnerability** The Elemental Plane of Air is opposed by the Plane of Earth. Any spell or [magical](rules/traits/magical.md "Magical Item Trait") effect with the [earth](rules/traits/earth.md "Earth Energy & Element Trait") trait that targets a creature or area within 50 feet of the rift deals 10 damage to the rift per spell levels (or per 2 levels for magic items, feats, and so forth). For example, a 3rd-level [earthbind](compendium/spells/earthbind.md) spell cast on a creature near the air rift deals 30 points of damage to the rift.
 ```
 ```ad-embed-ability
-title: Weightlessness [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Weightlessness** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature comes within 50 feet of the rift
 
@@ -41,8 +37,8 @@ title: Weightlessness [R](rules/core-rulebook/chapter-9-playing-the-game.md#Acti
 
 ```ad-pf2-summary
 title: Routine
-(1 action) Winds blow through the area in a random direction, causing creatures and objects within 50 feet of the air rift to float up, down, north, south, east, or west (roll a d6 to determine which direction). Creatures and objects in the area must attempt a DC 37 Fortitude save. If a creature is pushed into a solid object or another creature by this effect, both take `3d8+15` bludgeoning damage on impact.
 
+(1 action) Winds blow through the area in a random direction, causing creatures and objects within 50 feet of the air rift to float up, down, north, south, east, or west (roll a d6 to determine which direction). Creatures and objects in the area must attempt a DC 37 Fortitude save. If a creature is pushed into a solid object or another creature by this effect, both take `3d8+15` bludgeoning damage on impact.
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
 > - **Success** The creature is pushed 10 feet, but takes only half damage from impact.

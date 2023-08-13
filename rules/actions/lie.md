@@ -11,7 +11,7 @@ tags:
 - trait/secret
 aliases: ["Lie"]
 ---
-# Lie (basic) [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Duration or Frequency")
+# Lie (basic) [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Duration or Frequency") 1 round (at least 1 Round)
 [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [secret](rules/traits/secret.md "Secret General Trait")  
 *Source: Core Rulebook p. 246*  
 

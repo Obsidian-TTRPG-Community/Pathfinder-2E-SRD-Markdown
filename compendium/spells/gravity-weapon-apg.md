@@ -13,7 +13,8 @@ aliases: ["Gravity Weapon"]
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [ranger](rules/traits/ranger.md "Ranger Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Duration**1 minute
+- 
+- **Duration**: 1 minute
 
 You build up gravitational force and funnel it into your blows, leading to more powerful attacks with blade and bow alike.
 

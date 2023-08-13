@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/gmg
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/drug
@@ -15,9 +15,8 @@ aliases: ["Shiver"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [drug](rules/traits/drug-gmg.md "Drug Item Trait")  [ingested](rules/traits/ingested.md "Ingested Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Price** 10 gp
-- **Usage** held in 1 hand; **Bulk** L
+- **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 A compound produced from the hallucinogenic venom of certain spiders, shiver is common in black markets.
 
@@ -37,4 +36,6 @@ title: Saving Throw: DC 19 Fortitude
 **Stage 3** asleep (1 hour)
 ```
 
+
+---
 *Source: Gamemastery Guide p. 121*

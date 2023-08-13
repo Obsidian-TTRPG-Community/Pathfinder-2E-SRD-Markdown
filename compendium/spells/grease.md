@@ -11,12 +11,12 @@ aliases: ["Grease"]
 # Grease *Spell 1*   
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Area**4 contiguous 5-foot squares or
-- **Targets**1 object of 1 Bulk or less
-- **Duration**1 minute
+- **Range**: 30 foot
+- **Area**: 4 contiguous 5-foot squares or
+- **Targets**: 1 object of 1 Bulk or less
+- **Duration**: 1 minute
 
 You conjure grease, with effects based on choosing area or target.
 

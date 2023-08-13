@@ -15,7 +15,8 @@ aliases: ["Dragon Wings"]
 
 - **Bloodline** Sorcerer
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Duration**1 minute
+- 
+- **Duration**: 1 minute
 
 Leathery wings sprout from your back, giving you a fly Speed of 60 feet or your Speed, whichever is faster. When this spell's duration would end, if you're still flying, you float to the ground, as feather fall. You can increase the Focus Point cost by 1 to gain the effects of dragon claws as long as the wings last.
 

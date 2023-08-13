@@ -13,11 +13,13 @@ aliases: ["Harpoon"]
 
 - **Price** 1 gp
 - **Bulk** 1
-- **Damage** `1d8` P
-- **Range** 30 ft.
+  - **Damage**: `1d8` P
+  - **Range** 30 ft.
 - **Hands** 2
 - **Category** Martial; **Group** Dart 
 
 Often used for hunting exceptionally large aquatic creatures, the harpoon is similar to a javelin but features a barbed head and rope tether so it (or the corpse it's attached to) can be easily retrieved.
 
+
+---
 *Source: Treasure Vault p. 30*

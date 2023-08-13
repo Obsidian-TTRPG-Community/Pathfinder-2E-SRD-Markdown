@@ -12,7 +12,8 @@ aliases: ["Spellmaster's Ward"]
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") to [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Duration**sustained up to 1 minute
+- 
+- **Duration**: sustained up to 1 minute
 
 You create one or more glowing protective runes that revolve around you. For each additional action you use when [Casting the Spell](rules/actions/cast-a-spell.md), increase the number of runes you create by one, to a maximum of three runes for 3 actions.
 

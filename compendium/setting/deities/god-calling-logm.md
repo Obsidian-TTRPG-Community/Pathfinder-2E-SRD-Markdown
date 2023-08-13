@@ -15,6 +15,3 @@ aliases: ["God Calling"]
 - **Follower Alignments**: all
 
 ## Devotee benefits
-
-- **Divine Font**: 
-- **Cleric Spells**:

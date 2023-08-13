@@ -6,7 +6,7 @@ tags:
 - trait/gunslinger
 aliases: ["Black Powder Boost"]
 ---
-# Black Powder Boost  [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies") *Feat 4*  
+# Black Powder Boost  [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies") Varies ([>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") OR [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")) *Feat 4*  
 [gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  
 
 - **Requirements**: You're wielding a loaded firearm.

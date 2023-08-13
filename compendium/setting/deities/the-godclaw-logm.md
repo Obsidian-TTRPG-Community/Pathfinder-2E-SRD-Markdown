@@ -16,7 +16,7 @@ aliases: ["The Godclaw"]
 
 - **Category**: Pantheon
 - **Anathema**: rest when there is lawlessness to fight, believe you know or understand more than the pantheon
-- **Areas of Concern**: discipline, , laws, , order, , strategy
+- **Areas of Concern**: discipline, laws, order, strategy
 - **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait")
 
 ## Devotee benefits

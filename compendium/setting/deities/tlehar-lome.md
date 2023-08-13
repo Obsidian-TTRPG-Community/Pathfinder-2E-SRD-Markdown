@@ -21,7 +21,7 @@ aliases: ["Tlehar", "The Rising Sun"]
 
 - **Category**: Mwangi Gods
 - **Anathema**: lose your motivation to your regrets, spread despair, treat a loved one poorly
-- **Areas of Concern**: iron, , love, , rebirth
+- **Areas of Concern**: iron, love, rebirth
 - **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")
 
 ## Devotee benefits
@@ -40,6 +40,7 @@ When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Tl
 title: [Avatar](compendium/spells/avatar.md) of Tlehar
 
 - **Speed**: Speed 50 feet, fly 70 feet, immune to [immobilized](rules/conditions.md#Immobilized)
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") morningstar ([reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [versatile <p>](rules/traits/versatile-p.md "Versatile Weapon Trait")), **Damage** `6d6+6` bludgeoning
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") morning light **Damage** `3d6+3` fire and `3d6+3` positive
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") morningstar (, [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [versatile <p>](rules/traits/versatile-p.md "Versatile Weapon Trait")), **Damage** `6d6+6` bludgeoning 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") morning light (), **Damage** `3d6+3` fire and `3d6+3` positive 
 ```

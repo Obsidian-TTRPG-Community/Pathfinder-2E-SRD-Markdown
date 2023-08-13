@@ -14,7 +14,7 @@ aliases: ["Dimensional Steps"]
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**20 foot
+- **Range**: 20 foot
 
 You teleport to a location up to 20 feet away within your line of sight.
 

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/locg
-- item/category/held
+- item/category/held/
 - trait/divine
 - trait/evocation
 - trait/fire
@@ -16,8 +16,7 @@ aliases: ["Radiant Lance"]
 [divine](rules/traits/divine.md "Divine Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [good](rules/traits/good.md "Good Alignment Trait")  [light](rules/traits/light.md "Light Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 5750 gp
-- **Usage** held in 2 hands; **Bulk** 2
-- **Category** Held
+- **Bulk** 2; **Usage** held in 2 hands
 
 When wielded in battle, these silver lances blaze with light.
 
@@ -30,4 +29,6 @@ When wielded in battle, the radiant lance sheds bright light in a 60-foot radius
 > - **Failure** The undead is [slowed](rules/conditions.md#Slowed) for 1 round.
 > - **Critical Failure** The undead is [slowed](rules/conditions.md#Slowed) for 1 minute. Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") command, [Interact](rules/actions/interact.md); Frequency once per day; Effect You point the lance at a foe and call out, firing a beam with the effects of a 7th-level [searing light](compendium/spells/searing-light.md).
 
+
+---
 *Source: Lost Omens: Character Guide p. 92*

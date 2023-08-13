@@ -14,7 +14,8 @@ aliases: ["Wild Morph"]
 [druid](rules/traits/druid.md "Druid Class Trait")  [morph](rules/traits/morph.md "Morph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") to [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Duration**1 minute
+- 
+- **Duration**: 1 minute
 
 You morph your body based on your training, choosing one of the following effects based on your wild order feats.
 
@@ -23,8 +24,8 @@ You morph your body based on your training, choosing one of the following effect
 - If you have [Plant Shape](compendium/feats/plant-shape.md), you can morph your arms into long vines, increasing your reach to 10 feet (or 15 feet with a [reach](rules/traits/reach.md "Reach Weapon Trait") weapon).
 - If you have [Soaring Shape](compendium/feats/soaring-shape.md), you can cast the spell as a two-action activity ([>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") somatic, verbal) to grow wings from your back. These wings allow you to [fly](rules/actions/fly.md) with a fly Speed of 30 feet.
 
-**Heightened (6th)** You can choose up to two of the effects from the list. Wild claws leave terrible, ragged wounds that also deal `2d6` [persistent bleed damage](rules/conditions.md#Persistent%20Damage) on a hit, and wild jaws are envenomed, also dealing `2d6` [persistent poison damage](rules/conditions.md#Persistent%20Damage) on a hit.
-
 **Heightened (10th)** You can choose up to three of the effects from the list. Wild claws deal `4d6` [persistent bleed damage](rules/conditions.md#Persistent%20Damage) on a hit, and wild jaws deal `4d6` [persistent poison damage](rules/conditions.md#Persistent%20Damage) on a hit.
+
+**Heightened (6th)** You can choose up to two of the effects from the list. Wild claws leave terrible, ragged wounds that also deal `2d6` [persistent bleed damage](rules/conditions.md#Persistent%20Damage) on a hit, and wild jaws are envenomed, also dealing `2d6` [persistent poison damage](rules/conditions.md#Persistent%20Damage) on a hit.
 
 *Source: Core Rulebook p. 400*

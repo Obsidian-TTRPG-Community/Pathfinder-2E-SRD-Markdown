@@ -10,12 +10,12 @@ aliases: ["Slow"]
 # Slow *Spell 3*   
 [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 creature
-- **Saving Throw** Fortitude
-- **Duration**1 minute
+- **Range**: 30 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Fortitude
+- **Duration**: 1 minute
 
 You dilate the flow of time around the target, slowing its actions.
 

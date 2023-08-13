@@ -10,10 +10,10 @@ aliases: ["Summon Lesser Servitor"]
 # Summon Lesser Servitor *Spell 1*   
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**30 foot
-- **Duration**sustained up to 1 minute
+- **Range**: 30 foot
+- **Duration**: sustained up to 1 minute
 
 While deities jealously guard their most powerful servants from the summoning spells of those who aren't steeped in the faith, this spell allows you to conjure an inhabitant of the Outer Sphere with or without the deity's permission.
 

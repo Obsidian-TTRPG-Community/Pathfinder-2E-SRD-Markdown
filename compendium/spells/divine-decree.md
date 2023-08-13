@@ -11,12 +11,12 @@ aliases: ["Divine Decree"]
 # Divine Decree *Spell 7*   
 [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**40 foot
-- **Area**40-foot emanation
-- **Saving Throw** Fortitude
-- **Duration**varies
+- **Range**: 40 foot
+- **Area**: 40-foot emanation
+- **Saving Throw**: Fortitude
+- **Duration**: varies
 
 You utter a potent litany from your faith, a mandate that harms those who oppose your ideals. Choose an alignment your deity has (chaotic, evil, good, or lawful). You can't cast this spell if you don't have a deity or your deity is true neutral. This spell gains the trait of the alignment you chose.
 

@@ -16,10 +16,10 @@ aliases: ["Faerie Dust"]
 
 - **Bloodline** Sorcerer
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") or more 
-- **Range**30 foot
-- **Area**5-foot burst or more
-- **Saving Throw** Will
-- **Duration**1 round
+- **Range**: 30 foot
+- **Area**: 5-foot burst or more
+- **Saving Throw**: Will
+- **Duration**: 1 round
 
 You sprinkle magical dust in the spell's area, making those within easier to trick. Each creature in the area must attempt a Will save. For each additional action you use [Casting the Spell](rules/actions/cast-a-spell.md), the burst's radius increases by 5 feet.
 

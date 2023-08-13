@@ -32,6 +32,7 @@ aliases: ["Falayna", "Warrior's Ring"]
 title: [Avatar](compendium/spells/avatar.md) of Falayna
 
 - **Speed**: Speed 70 feet, [air walk](compendium/spells/air-walk.md)
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") longsword ([reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [versatile <piercing>](rules/traits/versatile-piercing.md "Versatile Weapon Trait")), **Damage** `6d8+6` slashing
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") ring salvo **Damage** `6d6+3` bludgeoning
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") longsword (, [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [versatile <piercing>](rules/traits/versatile-piercing.md "Versatile Weapon Trait")), **Damage** `6d8+6` slashing 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") ring salvo (), **Damage** `6d6+3` bludgeoning 
 ```

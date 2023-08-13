@@ -16,8 +16,7 @@ aliases: ["Alter Ego Dedication"]
 You make yourself into a living mirror, becoming a double of someone unremarkable, and you slip into exactly the role that can get you past security or into a sensitive facility. You become an expert in [Deception](compendium/skills.md#Deception). You gain the Assume a Role activity.
 
 ```ad-embed-ability
-title: Assume a Role
-[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
+title: **Assume a Role**  ([concentrate](rules/traits/concentrate.md))
 
 - **Requirements**: You've spent at least 1 hour studying a creature whose role you intend to copy and have done so within the last 3 days. This could include meeting and learning from someone in that role, tailing and spying on someone, using magic to observe them at work, or some other method, as long as you have a visual source of information
 
@@ -26,7 +25,9 @@ title: Assume a Role
 You perform the [Impersonate](rules/actions/impersonate.md) activity to pass as a member of the role you [observed](rules/conditions.md#Observed) and gain a +1 circumstance bonus to any [Deception](compendium/skills.md#Deception) checks you attempt in your impersonation. This takes the normal amount of time it takes you to [Impersonate](rules/actions/impersonate.md). You also choose one [Lore](compendium/skills.md#Lore) skill relevant to that role (such as [Farming Lore](compendium/skills.md#Lore) for a farmer). While in your role, you gain a +1 circumstance bonus to checks for that [Lore](compendium/skills.md#Lore) skill, and if you're untrained in it, you can use your level as your proficiency bonus.
 
 You stop assuming the role after 24 hours, if you start studying for a new role, or if you choose to.  
-%% #trait/concentrate %%
+%%
+ #trait/concentrate 
+%%
 ```
 
 **Special.** You can't select another dedication feat until you've gained two other feats from the alter ego archetype.

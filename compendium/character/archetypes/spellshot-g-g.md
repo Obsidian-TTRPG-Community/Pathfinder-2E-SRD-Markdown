@@ -29,61 +29,68 @@ You've learned the intricacies of magic and technology, blending the two togethe
 <sup>G&G p. 140</sup>
 
 ```ad-embed-ability
-title: Thoughtful Reload [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  
+title: **Thoughtful Reload** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") ([gunslinger](rules/traits/gunslinger-g-g.md))
+
 
 As you sink deep into a state of analytical calm and focus on the foe before you, your hands reload a bullet instinctively. Attempt a [Recall Knowledge](rules/actions/recall-knowledge.md) check against an opponent you can see and then [Interact](rules/actions/interact.md) to reload.  
-%% #trait/gunslinger %%
+%%
+ #trait/gunslinger 
+%%
 ```
 
 ### Initial Deed
 <sup>G&G p. 140</sup>
 
 ```ad-embed-ability
-title: Energy Shot [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [spellshot](rules/traits/spellshot-g-g.md "Spellshot Class Trait")  
+title: **Energy Shot** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") ([evocation](rules/traits/evocation.md), [magical](rules/traits/magical.md), [spellshot](rules/traits/spellshot-g-g.md))
 
 - **Trigger**: You roll initiative.
 
 **Effect** You unleash a small surge of magical energy into your weapon, shrouding the bullet with potential energy and granting it the ability to deal energy damage to your foes to exploit their weaknesses. You can Interact to draw a ranged weapon. On your first three [Strikes](rules/actions/strike.md) of this encounter with a firearm or crossbow, you deal an additional 1 acid, cold, fire or electricity damage. You choose which damage type to deal as part of making each [Strike](rules/actions/strike.md).  
-%% #trait/evocation #trait/magical #trait/spellshot %%
+%%
+ #trait/evocation  #trait/magical  #trait/spellshot 
+%%
 ```
 
 ### Initial Deed
 <sup>G&G p. 140</sup>
 
 ```ad-embed-ability
-title: Energy Shot [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [spellshot](rules/traits/spellshot-g-g.md "Spellshot Class Trait")  
+title: **Energy Shot** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") ([evocation](rules/traits/evocation.md), [magical](rules/traits/magical.md), [spellshot](rules/traits/spellshot-g-g.md))
 
 - **Trigger**: You roll initiative.
 
 **Effect** You unleash a small surge of magical energy into your weapon, shrouding the bullet with potential energy and granting it the ability to deal energy damage to your foes to exploit their weaknesses. You can Interact to draw a ranged weapon. On your first three [Strikes](rules/actions/strike.md) of this encounter with a firearm or crossbow, you deal an additional 1 acid, cold, fire or electricity damage. You choose which damage type to deal as part of making each [Strike](rules/actions/strike.md).  
-%% #trait/evocation #trait/magical #trait/spellshot %%
+%%
+ #trait/evocation  #trait/magical  #trait/spellshot 
+%%
 ```
 
 ### Advanced Deed
 <sup>G&G p. 140</sup>
 
 ```ad-embed-ability
-title: Recall Ammunition [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [spellshot](rules/traits/spellshot-g-g.md "Spellshot Class Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  
+title: **Recall Ammunition** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([conjuration](rules/traits/conjuration.md), [magical](rules/traits/magical.md), [spellshot](rules/traits/spellshot-g-g.md), [teleportation](rules/traits/teleportation.md))
 
 - **Trigger**: You miss with a firearm or crossbow [Strike](rules/actions/strike.md) while using an ordinary level-0 bolt or bullet
 
 **Effect** You amplify the connection between bullet and firearm, calling your missed shot back into your gun. The ammunition you just fired is reloaded back into your gun and immediately ready to fire again.  
-%% #trait/conjuration #trait/magical #trait/spellshot #trait/teleportation %%
+%%
+ #trait/conjuration  #trait/magical  #trait/spellshot  #trait/teleportation 
+%%
 ```
 
 ### Greater Deed
 <sup>G&G p. 140</sup>
 
 ```ad-embed-ability
-title: Dispelling Bullet [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [spellshot](rules/traits/spellshot-g-g.md "Spellshot Class Trait")  
+title: **Dispelling Bullet** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") ([abjuration](rules/traits/abjuration.md), [magical](rules/traits/magical.md), [spellshot](rules/traits/spellshot-g-g.md))
+
 
 You imprint a bullet with a field of abjuration built upon your magical signature, disrupting the magic of whatever it hits. Make a firearm or crossbow [Strike](rules/actions/strike.md) against a foe you can see. If you hit, you attempt to counteract a spell effect active on the target (your choice, or the highest-level effect if you don't choose). Your counteract level is equal to half your level (rounded up), and your counteract check modifier is equal to your class DC – 10.  
-%% #trait/abjuration #trait/magical #trait/spellshot %%
+%%
+ #trait/abjuration  #trait/magical  #trait/spellshot 
+%%
 ```
 
 *Source: Guns & Gears p. 140*
@@ -91,7 +98,6 @@ You imprint a bullet with a field of abjuration built upon your magical signatur
 ````ad-embed-feat
 title: Spellshot Dedication, Feat 2
 collapse: closed
-# Spellshot Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [class](rules/traits/class-som.md "Class Class Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: way of the spellshot
@@ -99,11 +105,14 @@ collapse: closed
 You've steeped yourself in magic and gunplay to the extent that you can conjure bullets from thin air, using a rudimentary knowledge of arcane theory to create a temporary piece of ammunition. You gain the Conjure Bullet action.
 
 ```ad-embed-ability
-title: Conjure Bullet [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+title: **Conjure Bullet** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") ([conjuration](rules/traits/conjuration.md), [magical](rules/traits/magical.md))
 
-You conjure an ordinary level-0 bolt or bullet out of thin air and then immediately Interact to load it into your weapon. If the bolt or bullet isn't fired before the end of your turn, the effect is wasted.  
-%% #trait/conjuration #trait/magical %%
+- **Frequency**: once per round
+
+**Effect** You conjure an ordinary level-0 bolt or bullet out of thin air and then immediately Interact to load it into your weapon. If the bolt or bullet isn't fired before the end of your turn, the effect is wasted.  
+%%
+ #trait/conjuration  #trait/magical 
+%%
 ```
 
 **Special.** You can't select another dedication feat other than Beast Gunner Dedication until you've gained two other feats from the [spellshot](compendium/character/archetypes/spellshot-g-g.md) or [beast gunner](compendium/character/archetypes/beast-gunner-g-g.md) archetypes.
@@ -115,7 +124,6 @@ You conjure an ordinary level-0 bolt or bullet out of thin air and then immediat
 ```ad-embed-feat
 title: Fulminating Shot, Feat 6
 collapse: closed
-# Fulminating Shot  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Prerequisites**: [Spellshot Dedication](compendium/feats/spellshot-dedication-g-g.md)
@@ -131,7 +139,6 @@ You channel potent magic into your next shot, empowering it with a blast of crac
 ```ad-embed-feat
 title: Call Gun, Feat 8
 collapse: closed
-# Call Gun  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  
 
 - **Prerequisites**: [Spellshot Dedication](compendium/feats/spellshot-dedication-g-g.md)
@@ -147,7 +154,6 @@ Call Gun [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single A
 ```ad-embed-feat
 title: Phase Bullet, Feat 14*
 collapse: closed
-# Phase Bullet  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 14*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 > [!pf2-note] This version of [Phase Bullet](compendium/feats/phase-bullet-g-g.md) is intended for use with the Spellshot Archetype. Its level has been changed accordingly.
@@ -165,7 +171,6 @@ You can aim your bullets not just in three normal dimensions, but in additional 
 ```ad-embed-feat
 title: Black Powder Embodiment, Feat 18*
 collapse: closed
-# Black Powder Embodiment  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 18*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  
 
 > [!pf2-note] This version of [Black Powder Embodiment](compendium/feats/black-powder-embodiment-g-g.md) is intended for use with the Spellshot Archetype. Its level has been changed accordingly.

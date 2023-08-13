@@ -16,7 +16,7 @@ aliases: ["Heroes' Feast"]
 - **Secondary Casters** 1
 - **Primary Checks** [Nature](compendium/skills.md#Nature), [Religion](compendium/skills.md#Religion), or [Occultism](compendium/skills.md#Occultism) (expert)
 - **Secondary Checks** [Diplomacy](compendium/skills.md#Diplomacy) or [Society](compendium/skills.md#Society)
-- **Range**40 feet
+- **Range**: 40 feet
 
 You conjure otherworldly beings to serve you and your companions a feast with restorative properties. These mysterious beings may be fey, divine, or other supernatural servitors, as appropriate for the primary check. After the first hour of the ritual, these servants appear and serve a massive feast, complete with an exquisite table and up to 10 place settings. The bounteous spread consists of all manner of dishes, including the guests' childhood comfort foods, modern delicacies, and preferred drinks. The summoned servants spend the next 3 hours waiting on you and the other guests, fetching additional food, pouring drinks, and so forth. During this time, you and the other guests must strive to be as polite and gracious as possible to avoid offending your mysterious hosts. At the feast's end, the ritual is completed and you and the secondary caster attempt your checks as normal. If the feast is interrupted at any point, the servants immediately vanish with their provisions and the ritual is disrupted.
 

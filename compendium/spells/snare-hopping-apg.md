@@ -14,8 +14,8 @@ aliases: ["Snare Hopping"]
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [ranger](rules/traits/ranger.md "Ranger Class Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**10 foot
-- **Targets**one snare you built
+- **Range**: 10 foot
+- **Targets**: one snare you built
 
 You may not have placed your snare in the right place, but you can magically move it there. You teleport the target snare to another unoccupied location in range.
 

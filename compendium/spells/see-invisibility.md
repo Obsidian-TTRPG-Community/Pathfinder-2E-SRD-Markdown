@@ -11,9 +11,10 @@ aliases: ["See Invisibility"]
 # See Invisibility *Spell 2*   
 [divination](rules/traits/divination.md "Divination School Trait")  [revelation](rules/traits/revelation.md "Revelation Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Duration**10 minutes
+- 
+- **Duration**: 10 minutes
 
 You can see [invisible](rules/conditions.md#Invisible) creatures and objects. They appear to you as translucent shapes, and they are [concealed](rules/conditions.md#Concealed) to you.
 

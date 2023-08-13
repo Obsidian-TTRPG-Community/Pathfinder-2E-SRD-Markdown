@@ -10,10 +10,10 @@ aliases: ["Putrefy Food And Drink"]
 # Putrefy Food And Drink *Spell 1*   
 [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Targets**1 cubic foot of clean food or water
+- **Range**: touch
+- **Targets**: 1 cubic foot of clean food or water
 
 You cause otherwise edible food to rot and spoil instantly, and water and other liquids to become brackish and undrinkable. Holy water, unholy water, and similar food and drink of significance are spoiled by this spell, unless they are associated with a deity of decay or putrefaction, but it has no effect on creatures of any type, potions, or alchemical elixirs. One cubic foot of liquid is roughly 8 gallons.
 

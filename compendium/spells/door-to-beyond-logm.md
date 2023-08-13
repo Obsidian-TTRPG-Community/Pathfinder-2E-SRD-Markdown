@@ -11,12 +11,12 @@ aliases: ["Door To Beyond"]
 # Door To Beyond *Focus 4*   
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  
 
-- **Domains**: [void](compendium/setting/domains.md#Void)
+- **Domains** [void](compendium/setting/domains.md#Void)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**5 foot
-- **Area**20-foot emanation
-- **Saving Throw** Fortitude
-- **Duration**1 minute
+- **Range**: 5 foot
+- **Area**: 20-foot emanation
+- **Saving Throw**: Fortitude
+- **Duration**: 1 minute
 
 Striking at thin air, you create hairline cracks in an unoccupied adjacent space that lead somewhere outside reality. Air rushes through the cracks, drawing Large or smaller creatures and objects of light Bulk or less toward the center. Large or smaller creatures in the area must attempt a Fortitude save at the start of their turn; creatures that move into the area must attempt the save on entering.
 

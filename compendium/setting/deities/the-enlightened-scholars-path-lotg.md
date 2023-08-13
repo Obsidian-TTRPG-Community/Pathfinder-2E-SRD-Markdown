@@ -17,7 +17,7 @@ aliases: ["The Enlightened Scholar's Path"]
 
 - **Category**: Pantheon
 - **Anathema**: destroy books or monuments, keep silent when faced with false information, refuse to share knowledge
-- **Areas of Concern**: academies, , professors, , scholars, , transmission and accuracy of learned knowledge
+- **Areas of Concern**: academies, professors, scholars, transmission and accuracy of learned knowledge
 - **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait")
 
 ## Devotee benefits

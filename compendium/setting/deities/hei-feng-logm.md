@@ -21,7 +21,7 @@ aliases: ["Hei Feng", "Duke of Thunder"]
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: fake friendship with those you despise, disrespect Hei Feng or Hei Feng's estranged wife Lady Jingxi, ignore an affront to you or Hei Feng
-- **Areas of Concern**: sea, , storms, , tengu, , sailors
+- **Areas of Concern**: sea, storms, tengu, sailors
 - **Follower Alignments**: [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
@@ -40,8 +40,9 @@ When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of He
 title: [Avatar](compendium/spells/avatar.md) of Hei Feng
 
 - **Speed**: Speed 70 feet, [air walk](compendium/spells/air-walk.md), ignore difficult terrain and greater difficult terrain
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") drunken sword ([forceful](rules/traits/forceful.md "Forceful Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait")), **Damage** `4d6+6` slashing and `1d6` electricity splash
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") storm surge ([air](rules/traits/air.md "Air Energy & Element Trait"), [water](rules/traits/water.md "Water Energy & Element Trait")), **Damage** `4d6+3` bludgeoning and `1d6` electricity splash The caster is immune to this splash damage
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") drunken sword (, [forceful](rules/traits/forceful.md "Forceful Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait")), **Damage** `4d6+6` slashing and `1d6` electricity splash 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") storm surge (, [air](rules/traits/air.md "Air Energy & Element Trait"), [water](rules/traits/water.md "Water Energy & Element Trait")), **Damage** `4d6+3` bludgeoning and `1d6` electricity splash The caster is immune to this splash damage
 ```
 
 ## Divine intercession

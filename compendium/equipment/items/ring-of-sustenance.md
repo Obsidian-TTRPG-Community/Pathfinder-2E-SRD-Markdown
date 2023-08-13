@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/crb
-- item/category/worn
+- item/category/worn/
 - trait/conjuration
 - trait/invested
 - trait/magical
@@ -14,9 +14,10 @@ aliases: ["Ring of Sustenance"]
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 325 gp
-- **Usage** worn; **Bulk** —
-- **Category** Worn
+- **Bulk** —; **Usage** worn
 
 This polished wooden ring constantly refreshes your body and mind. You don't need to eat or drink while wearing it, and you need only 2 hours of sleep per day to gain the benefits of 8 hours of sleep. A ring of sustenance doesn't function until it's been worn and invested continuously for a week. Removing it resets this interval.
 
+
+---
 *Source: Core Rulebook p. 615*

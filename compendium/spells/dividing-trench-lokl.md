@@ -12,10 +12,10 @@ aliases: ["Dividing Trench"]
 # Dividing Trench *Spell 3*   
 [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**120 foot
-- **Duration**1 minute
+- **Range**: 120 foot
+- **Duration**: 1 minute
 
 You dig an earthen trench across the surrounding terrain, which must be soil, clay, sand, or other soft earth, but not flooring or stone. The trench is 5 feet wide, 5 feet deep, and up to 15 feet long. You can shape the trench's path, but it must be one continuous line. You must conjure the trench in an open space so it doesn't pass through any creatures or objects.
 

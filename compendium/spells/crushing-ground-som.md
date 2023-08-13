@@ -13,10 +13,10 @@ aliases: ["Crushing Ground"]
 [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**60 foot
-- **Targets**1 creature
-- **Saving Throw** Reflex
-- **Duration**1 round
+- **Range**: 60 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Reflex
+- **Duration**: 1 round
 
 You tear open the ground then slam it shut. The target creature takes `2d6` bludgeoning damage with a Reflex save.
 

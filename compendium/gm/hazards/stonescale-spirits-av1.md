@@ -16,10 +16,9 @@ aliases: ["Stonescale Spirits"]
 A half-dozen ghostly kobolds rise from the rubble in a howling vortex.
 
 - **Disable** DC 18 [Intimidation](compendium/skills.md#Intimidation) (trained) to frighten the spirits with a threatening display, or DC 21 [Religion](compendium/skills.md#Religion) (trained) to exorcise the spirits.  
-     
+
 ```ad-embed-ability
-title: Confusing Confrontation [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
+title: **Confusing Confrontation** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([emotion](rules/traits/emotion.md), [enchantment](rules/traits/enchantment.md), [fear](rules/traits/fear.md), [mental](rules/traits/mental.md))
 
 - **Trigger**: A creature enters a square either fully or partially filled with rubble in the middle of the room
 
@@ -30,11 +29,14 @@ title: Confusing Confrontation [R](rules/core-rulebook/chapter-9-playing-the-gam
 > - **Success** The creature is [frightened](rules/conditions.md#Frightened).
 > - **Failure** The creature is [confused](rules/conditions.md#Confused) for 1 round and is [frightened](rules/conditions.md#Frightened).
 > - **Critical Failure** The creature is [confused](rules/conditions.md#Confused) for 2 rounds and is [frightened](rules/conditions.md#Frightened)  
-%% #trait/emotion #trait/enchantment #trait/fear #trait/mental %%
+%%
+ #trait/emotion  #trait/enchantment  #trait/fear  #trait/mental 
+%%
 ```
 
 ```ad-pf2-summary
 title: Routine
+
 (1 action) The spirits swoop together toward one creature in area A7 who's [frightened](rules/conditions.md#Frightened), instilling feelings of betrayal and confusion. The target takes `1d10+4` mental damage (DC 18 basic Will save).
 ```
 ^routine

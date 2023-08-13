@@ -15,9 +15,9 @@ aliases: ["Ectoplasmic Grasp"]
 A massive ectoplasmic hand forms around a creature and squeezes it.
 
 - **Disable** DC 24 [Occultism](compendium/skills.md#Occultism) (trained) to send the ectoplasm back to the Ethereal Plane or DC 26 [Acrobatics](compendium/skills.md#Acrobatics) to move through and disrupt the coalescing ectoplasm before it takes hold  
-     
+
 ```ad-embed-ability
-title: Squeeze [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Squeeze** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature moves over the haunt's area
 

@@ -23,7 +23,6 @@ While having some spellcasting ability increases your potential flexibility and 
 ````ad-embed-feat
 title: Eldritch Archer Dedication, Feat 6
 collapse: closed
-# Eldritch Archer Dedication  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Prerequisites**: expert in at least one type of bow
@@ -35,7 +34,7 @@ If you don't already cast spells from spell slots, you learn to cast spontaneous
 You also gain Eldritch Shot.
 
 ```ad-embed-ability
-title: Eldritch Shot [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")
+title: **Eldritch Shot** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")
 
 - **Requirements**: You are wielding a bow
 
@@ -51,7 +50,6 @@ title: Eldritch Shot [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Act
 ```ad-embed-feat
 title: Basic Eldritch Archer Spellcasting, Feat 8
 collapse: closed
-# Basic Eldritch Archer Spellcasting  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Eldritch Archer Dedication](compendium/feats/eldritch-archer-dedication-apg.md)
@@ -65,7 +63,6 @@ You gain the basic spellcasting benefits. Each time you gain a spell slot of a n
 ```ad-embed-feat
 title: Enchanting Arrow, Feat 8
 collapse: closed
-# Enchanting Arrow  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 - **Prerequisites**: [Eldritch Archer Dedication](compendium/feats/eldritch-archer-dedication-apg.md)
@@ -82,7 +79,6 @@ Make a bow [Strike](rules/actions/strike.md). On a hit, the target takes an addi
 ```ad-embed-feat
 title: Magic Arrow, Feat 8
 collapse: closed
-# Magic Arrow  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Prerequisites**: [Eldritch Archer Dedication](compendium/feats/eldritch-archer-dedication-apg.md)
@@ -102,7 +98,6 @@ When using Magic Arrow, you transform a non-magical arrow or bolt into a piece o
 ```ad-embed-feat
 title: Precious Arrow, Feat 8
 collapse: closed
-# Precious Arrow  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Prerequisites**: [Eldritch Archer Dedication](compendium/feats/eldritch-archer-dedication-apg.md)
@@ -117,7 +112,6 @@ You enchant a piece of ammunition with the magical essence of a precious materia
 ```ad-embed-feat
 title: Expert Eldritch Archer Spellcasting, Feat 12*
 collapse: closed
-# Expert Eldritch Archer Spellcasting  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Expert Eldritch Archer Spellcasting](compendium/feats/expert-eldritch-archer-spellcasting-apg.md) is intended for use with the Eldritch Archer Archetype. Its level has been changed accordingly.
@@ -133,7 +127,6 @@ You gain the expert spellcasting benefits.
 ```ad-embed-feat
 title: Seeker Arrow, Feat 14*
 collapse: closed
-# Seeker Arrow  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 14*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 > [!pf2-note] This version of [Seeker Arrow](compendium/feats/seeker-arrow-apg.md) is intended for use with the Eldritch Archer Archetype. Its level has been changed accordingly.
@@ -150,7 +143,6 @@ Your shots zip around corners and fly at impossible angles to reach your target.
 ```ad-embed-feat
 title: Phase Arrow, Feat 16*
 collapse: closed
-# Phase Arrow  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 16*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 > [!pf2-note] This version of [Phase Arrow](compendium/feats/phase-arrow-apg.md) is intended for use with the Eldritch Archer Archetype. Its level has been changed accordingly.
@@ -168,7 +160,6 @@ You can concentrate an immense amount of magic to create a piece of ammunition t
 ```ad-embed-feat
 title: Arrow Of Death, Feat 18*
 collapse: closed
-# Arrow Of Death  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 18*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 > [!pf2-note] This version of [Arrow Of Death](compendium/feats/arrow-of-death-apg.md) is intended for use with the Eldritch Archer Archetype. Its level has been changed accordingly.
@@ -186,7 +177,6 @@ You modify an arrow or bolt to bring death to your target in a single potent hit
 ```ad-embed-feat
 title: Master Eldritch Archer Spellcasting, Feat 18*
 collapse: closed
-# Master Eldritch Archer Spellcasting  *Feat 18*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Master Eldritch Archer Spellcasting](compendium/feats/master-eldritch-archer-spellcasting-apg.md) is intended for use with the Eldritch Archer Archetype. Its level has been changed accordingly.
@@ -202,7 +192,6 @@ You gain the master spellcasting benefits.
 ```ad-embed-feat
 title: Impossible Volley (Fighter), Feat 20*
 collapse: closed
-# Impossible Volley (Fighter)  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 20*  
 [fighter](rules/traits/fighter.md "Fighter Class Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  [open](rules/traits/open.md "Open Combat Trait")  
 
 > [!pf2-note] This version of [Impossible Volley (Fighter)](compendium/feats/impossible-volley-fighter.md) is intended for use with the Eldritch Archer Archetype. Its level has been changed accordingly.

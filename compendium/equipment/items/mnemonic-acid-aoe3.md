@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/aoe3
-- item/category/elixir
+- item/category/elixir/
 - trait/alchemical
 - trait/consumable
 - trait/elixir
@@ -14,9 +14,8 @@ aliases: ["Mnemonic Acid"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [elixir](rules/traits/elixir.md "Elixir Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 75 gp
-- **Usage** held in 1 hand; **Bulk** L
+- **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Elixir
 
 This translucent yellow-green liquid has a sharp, tangy odor and an oily sheen. It's mildly acidic and can cause a minor rash after prolonged contact with skin. To unlock its true potential, you must submerge a piece of an intelligent creature's brain matter in the acid and allow the material to completely dissolve. This takes `2d10` minutes, during which time the mnemonic acid bubbles and steams eagerly.
 
@@ -24,4 +23,6 @@ Once the brain matter fully dissolves, you can consume the acid as an [Interact]
 
 Each dose of mnemonic acid requires roughly 10% of the brain matter of the creature whose visions are to be experienced, meaning that up to 10 different memories from the same creature can be experienced, each with a different dose of mnemonic acid, before the brain matter is exhausted.
 
+
+---
 *Source: Agents of Edgewatch #3: All or Nothing p. 78*

@@ -14,10 +14,10 @@ aliases: ["Protector's Sphere"]
 # Protector's Sphere *Focus 4*   
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [aura](rules/traits/aura.md "Aura Combat Trait")  [cleric](rules/traits/cleric.md "Cleric Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains**: [protection](compendium/setting/domains.md#Protection)
+- **Domains** [protection](compendium/setting/domains.md#Protection)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Area**15-foot emanation
-- **Duration**sustained up to 1 minute
+- **Area**: 15-foot emanation
+- **Duration**: sustained up to 1 minute
 
 A protective aura emanates out from you, safeguarding you and your allies. You gain resistance 3 to all damage. Your allies also gain this resistance while they are within the area.
 

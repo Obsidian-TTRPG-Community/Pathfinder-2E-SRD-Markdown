@@ -11,11 +11,11 @@ aliases: ["Mind Blank"]
 # Mind Blank *Spell 8*   
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 creature
-- **Duration**until the next time you make your daily preparations
+- **Range**: 30 foot
+- **Targets**: 1 creature
+- **Duration**: until the next time you make your daily preparations
 
 Powerful wards hide a creature from divination magic. The target gains a +4 status bonus to saves against [mental](rules/traits/mental.md "Mental Effect Trait") effects.
 

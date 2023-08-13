@@ -11,9 +11,10 @@ aliases: ["Nature Incarnate"]
 # Nature Incarnate *Spell 10*   
 [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Duration**1 minute
+- 
+- **Duration**: 1 minute
 
 The primal power of the world flows through you. You transform into an incarnation of nature, either a green man or a kaiju. Your battle form is Medium for a green man or Gargantuan (30-foot-by-30-foot space) for a kaiju. You must have enough space to expand into or the spell is lost. While in this form, you gain the [plant](rules/traits/plant.md "Plant Creature Type Trait") trait (for a green man) or the [beast](rules/traits/beast.md "Beast Creature Type Trait") trait (for a kaiju). You can [Dismiss](rules/actions/dismiss.md) the spell.
 

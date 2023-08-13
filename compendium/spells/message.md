@@ -14,11 +14,11 @@ aliases: ["Message"]
 # Message *Cantrip 1*   
 [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**120 foot
-- **Targets**1 creature
-- **Duration**see below
+- **Range**: 120 foot
+- **Targets**: 1 creature
+- **Duration**: see below
 
 You mouth words quietly, but instead of coming out of your mouth, they're transferred directly to the ears of the target.
 

@@ -17,8 +17,8 @@ aliases: ["Primal Call"]
 - **Secondary Casters** 4
 - **Primary Checks** [Nature](compendium/skills.md#Nature) (master)
 - **Secondary Checks** [Crafting](compendium/skills.md#Crafting), [Diplomacy](compendium/skills.md#Diplomacy), [Survival](compendium/skills.md#Survival)
-- **Range**100 miles
-- **Targets**1 animal, beast, fey, fungus, or plant
+- **Range**: 100 miles
+- **Targets**: 1 animal, beast, fey, fungus, or plant
 
 This functions as [planar ally](compendium/spells/rituals/planar-ally.md) except you craft a faerie circle and call an animal, beast, fey, fungus, or plant from within 100 miles.
 

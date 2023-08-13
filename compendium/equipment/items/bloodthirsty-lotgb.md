@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/lotgb
-- item/category/rune
+- item/category/rune/
 - trait/magical
 - trait/necromancy
 - trait/uncommon
@@ -14,12 +14,11 @@ aliases: ["Bloodthirsty"]
 
 - **Price** 8500 gp
 - **Usage** etched onto a slashing or piercing
-- **Category** Rune
 
 The magic in this rune sings in time with your attacks and coaxes you into finishing your opponent. When you critically hit a target that's taking [persistent bleed damage](rules/conditions.md#Persistent%20Damage), your target becomes [drained](rules/conditions.md#Drained).
 
 ```ad-embed-ability
-title: Activate [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Activate** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") envision
 
 - **Trigger**: You reduce a creature to 0
 
@@ -28,4 +27,6 @@ title: Activate [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "R
 These Hit Points remain for 1 minute.
 ```
 
+
+---
 *Source: Lost Omens: The Grand Bazaar p. 42*

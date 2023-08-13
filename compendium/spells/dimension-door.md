@@ -11,9 +11,9 @@ aliases: ["Dimension Door"]
 # Dimension Door *Spell 4*   
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**120 foot
+- **Range**: 120 foot
 
 Opening a door that bypasses normal space, you instantly transport yourself and any items you're wearing and holding from your current space to a clear space within range you can see. If this would bring another creature with you—even if you're carrying it in an extradimensional container—the spell is lost.
 

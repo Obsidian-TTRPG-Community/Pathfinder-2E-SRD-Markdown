@@ -14,9 +14,9 @@ aliases: ["Achaekek's Clutch"]
 [curse](rules/traits/curse.md "Curse Effect Trait")  [death](rules/traits/death.md "Death Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 creature
-- **Saving Throw** Will
+- **Range**: 30 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Will
 
 You mark the holy symbol of [Achaekek](compendium/setting/deities/achaekek-logm.md) in a visible location on the target's body.
 

@@ -32,6 +32,7 @@ aliases: ["Likha", "The Teller"]
 title: [Avatar](compendium/spells/avatar.md) of Likha
 
 - **Speed**: Speed 70 feet, immune to [immobilized](rules/conditions.md#Immobilized)
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") trunk ([disarm](rules/traits/disarm.md "Disarm Weapon Trait"), [reach <20 feet>](rules/traits/reach-20-feet.md "Reach Weapon Trait")), **Damage** `6d6+6` bludgeoning plus grasping trunk
-- **Grasping Trunk**: A Large or smaller creature hit by the avatar's trunk is [grabbed](rules/conditions.md#Grabbed). If the avatar moves, it can bring the [grabbed](rules/conditions.md#Grabbed) creature along with it.
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") trunk (, [disarm](rules/traits/disarm.md "Disarm Weapon Trait"), [reach <20 feet>](rules/traits/reach-20-feet.md "Reach Weapon Trait")), **Damage** `6d6+6` bludgeoning plus grasping trunk
+- **Grasping Trunk** A Large or smaller creature hit by the avatar's trunk is [grabbed](rules/conditions.md#Grabbed). If the avatar moves, it can bring the [grabbed](rules/conditions.md#Grabbed) creature along with it.
 ```

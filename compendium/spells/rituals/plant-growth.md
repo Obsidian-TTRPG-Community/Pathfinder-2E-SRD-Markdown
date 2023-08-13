@@ -18,7 +18,7 @@ aliases: ["Plant Growth"]
 - **Secondary Casters** 1
 - **Primary Checks** [Nature](compendium/skills.md#Nature) (expert)
 - **Secondary Checks** [Farming Lore](compendium/skills.md#Lore) or [Survival](compendium/skills.md#Survival)
-- **Area**1/2-mile-radius circle centered on you
+- **Area**: 1/2-mile-radius circle centered on you
 
 You cause the plants within the area to be healthier and more fruitful. In addition to other benefits of healthy plants, this increases the crop yield for farms, depending on your success.
 

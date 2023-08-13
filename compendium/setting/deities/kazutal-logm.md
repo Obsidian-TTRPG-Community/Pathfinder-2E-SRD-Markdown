@@ -18,7 +18,7 @@ aliases: ["Kazutal", "Mother Jaguar"]
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: own a slave, force a creature to act against its will, refuse to give aid to an ally, enforce an unjust law
-- **Areas of Concern**: safety, , liberty, , and community
+- **Areas of Concern**: safety, liberty, and community
 - **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")
 
 ## Devotee benefits
@@ -37,8 +37,9 @@ When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Ka
 title: [Avatar](compendium/spells/avatar.md) of Kazutal
 
 - **Speed**: Speed 60 feet, ignore difficult terrain and greater difficult terrain
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") machete ([agile](rules/traits/agile.md "Agile Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait")), **Damage** `6d6+6` slashing
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") jaguar pounce **Damage** `5d6+3` piercing and `1d6` persistent bleed
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") machete (, [agile](rules/traits/agile.md "Agile Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait")), **Damage** `6d6+6` slashing 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") jaguar pounce (), **Damage** `5d6+3` piercing and `1d6` persistent bleed 
 ```
 
 ## Divine intercession

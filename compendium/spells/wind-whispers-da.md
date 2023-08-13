@@ -14,9 +14,9 @@ aliases: ["Wind Whispers"]
 # Wind Whispers *Focus 4*   
 [cleric](rules/traits/cleric.md "Cleric Class Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Domains**: [air (apocryphal)](compendium/setting/domains.md#Air)
+- **Domains** [air (apocryphal)](compendium/setting/domains.md#Air)
 - **Cast** 1 hour 
-- **Range**mile
+- **Range**: mile
 
 You call forth numerous breezes in which you weave gossip, whispering subtly into the ears of those around. Choose a rumor or information you wish to spread, which may or may not be true, about a single subject. Those within range of the spell overhear the rumor at some point over the next hour, though they'll be unable to pin it down to a source. Attempt a check with a modifier equal to your spell DC – 10 against a hard DC for your level. The GM might modify the DC depending on how plausible the rumor is. Repeated castings to spread the same rumor or information have no effect unless circumstances have substantially changed, as determined by the GM.
 

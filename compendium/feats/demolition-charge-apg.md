@@ -15,7 +15,7 @@ You can rig your bombs to inanimate objects in order to cause destruction to the
 The hazard has the following reaction, which you can also trigger as a single action so long as you are within 30 feet of the hazard. The hazard retains its potency until it's triggered, until the inanimate object moves from its space, or until you make your next daily preparations, whichever comes first.
 
 ```ad-embed-ability
-title: Fire in the Hole [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Fire in the Hole** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature moves into the hazard's space
 

@@ -20,7 +20,6 @@ The druid archetype can provide a bit of healing or elemental damage and can inc
 ```ad-embed-feat
 title: Druid Dedication, Feat 2
 collapse: closed
-# Druid Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [multiclass](rules/traits/multiclass.md "Multiclass Feat Trait")  
 
 - **Prerequisites**: Wisdom 14
@@ -40,7 +39,6 @@ Choose an order as you would if you were a druid. You become a member of that or
 ```ad-embed-feat
 title: Basic Druid Spellcasting, Feat 4
 collapse: closed
-# Basic Druid Spellcasting  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Druid Dedication](compendium/feats/druid-dedication.md)
@@ -54,7 +52,6 @@ You gain the basic spellcasting benefits.
 ```ad-embed-feat
 title: Basic Wilding, Feat 4
 collapse: closed
-# Basic Wilding  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Druid Dedication](compendium/feats/druid-dedication.md)
@@ -68,7 +65,6 @@ You gain a 1st- or 2nd-level druid feat.
 ```ad-embed-feat
 title: Order Spell, Feat 4
 collapse: closed
-# Order Spell  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Druid Dedication](compendium/feats/druid-dedication.md)
@@ -82,7 +78,6 @@ You gain the initial order spell from your order. If you don't already have one,
 ```ad-embed-feat
 title: Advanced Wilding, Feat 6
 collapse: closed
-# Advanced Wilding  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Wilding](compendium/feats/basic-wilding.md)
@@ -98,7 +93,6 @@ You gain one druid feat. For the purpose of meeting its prerequisites, your drui
 ```ad-embed-feat
 title: Primal Breadth, Feat 8
 collapse: closed
-# Primal Breadth  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Druid Spellcasting](compendium/feats/basic-druid-spellcasting.md)
@@ -112,7 +106,6 @@ Increase the spell slots you gain from druid archetype feats by 1 for each spell
 ```ad-embed-feat
 title: Expert Druid Spellcasting, Feat 12*
 collapse: closed
-# Expert Druid Spellcasting  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Expert Druid Spellcasting](compendium/feats/expert-druid-spellcasting.md) is intended for use with the Druid Archetype. Its level has been changed accordingly.
@@ -128,7 +121,6 @@ You gain the expert spellcasting benefits.
 ```ad-embed-feat
 title: Master Druid Spellcasting, Feat 18*
 collapse: closed
-# Master Druid Spellcasting  *Feat 18*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Master Druid Spellcasting](compendium/feats/master-druid-spellcasting.md) is intended for use with the Druid Archetype. Its level has been changed accordingly.

@@ -13,11 +13,11 @@ aliases: ["Swarming Wasp Stings"]
 # Swarming Wasp Stings *Spell 4*   
 [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Area**10-foot burst
-- **Saving Throw** Fortitude
+- **Range**: 30 foot
+- **Area**: 10-foot burst
+- **Saving Throw**: Fortitude
 
 You manifest a swarm of disembodied wasp stingers that stab creatures in the area, possibly poisoning them.
 

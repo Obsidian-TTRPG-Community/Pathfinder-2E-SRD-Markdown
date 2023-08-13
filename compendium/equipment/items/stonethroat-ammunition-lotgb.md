@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/lotgb
-- item/category/consumable
+- item/category/consumable/
 - trait/consumable
 - trait/magical
 - trait/transmutation
@@ -16,7 +16,6 @@ aliases: ["Stonethroat Ammunition"]
 - **Price** 325 gp
 - **Ammunition** arrow, bolt
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Consumable
 
 Each piece of stonethroat ammunition is tipped with an unusual yellow stone. When an activated piece of stonethroat ammunition hits a target, the target must attempt a DC 30 Fortitude save.
 
@@ -26,4 +25,6 @@ Each piece of stonethroat ammunition is tipped with an unusual yellow stone. Whe
 > - **Failure** The ammunition embeds itself deep in the target's throat. The target can't use its jaws or fangs [Strike](rules/actions/strike.md) (if it has one) or the Swallow Whole ability until the end of its next turn.
 > - **Critical Failure** As failure, and the target is [enfeebled](rules/conditions.md#Enfeebled) for 1 round.
 
+
+---
 *Source: Lost Omens: The Grand Bazaar p. 11*

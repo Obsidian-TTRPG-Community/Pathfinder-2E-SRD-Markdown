@@ -30,7 +30,6 @@ Somehow, despite your apparent clumsiness, professed confusion, and known propen
 ````ad-embed-feat
 title: Unexpected Sharpshooter Dedication, Feat 2
 collapse: closed
-# Unexpected Sharpshooter Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Frequency**: once per day
@@ -38,11 +37,14 @@ collapse: closed
 Who needs skill when you've got dumb luck? Sometimes your shots hit miraculously, regardless of the fact that you seemed to slip when you pulled the trigger or that you weren't aiming at your foe when you fired. You gain the Accidental Shot activity.
 
 ```ad-embed-ability
-title: Accidental Shot [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
-[fortune](rules/traits/fortune.md "Fortune Effect Trait")  
+title: **Accidental Shot** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") ([fortune](rules/traits/fortune.md))
 
-You make a [Strike](rules/actions/strike.md) with a ranged weapon, rolling the attack and damage twice and using the better results for each. The attack ignores circumstance penalties to the attack roll and any flat check required due to the target being [concealed](rules/conditions.md#Concealed) or [hidden](rules/conditions.md#Hidden).  
-%% #trait/fortune %%
+- **Frequency**: once per day
+
+**Effect** You make a [Strike](rules/actions/strike.md) with a ranged weapon, rolling the attack and damage twice and using the better results for each. The attack ignores circumstance penalties to the attack roll and any flat check required due to the target being [concealed](rules/conditions.md#Concealed) or [hidden](rules/conditions.md#Hidden).  
+%%
+ #trait/fortune 
+%%
 ```
 
 **Special.** You can't select another dedication feat until you've gained two other feats from the unexpected sharpshooter archetype.
@@ -54,7 +56,6 @@ You make a [Strike](rules/actions/strike.md) with a ranged weapon, rolling the a
 ```ad-embed-feat
 title: Hit The Dirt!, Feat 4*
 collapse: closed
-# Hit The Dirt!  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 4*  
 [gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  
 
 > [!pf2-note] This version of [Hit The Dirt!](compendium/feats/hit-the-dirt-g-g.md) is intended for use with the Unexpected Sharpshooter Archetype. Its level has been changed accordingly.
@@ -71,7 +72,6 @@ You fling yourself out of harm's way. You [Leap](rules/actions/leap.md). Your mo
 ```ad-embed-feat
 title: Lucky Escape, Feat 4
 collapse: closed
-# Lucky Escape  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [misfortune](rules/traits/misfortune.md "Misfortune Effect Trait")  
 
 - **Prerequisites**: [Unexpected Sharpshooter Dedication](compendium/feats/unexpected-sharpshooter-dedication-g-g.md)
@@ -88,7 +88,6 @@ Your enemy lies in wait, lines up the perfect shot, and pulls the trigger... the
 ```ad-embed-feat
 title: Risky Reload, Feat 4*
 collapse: closed
-# Risky Reload  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
 [flourish](rules/traits/flourish.md "Flourish Combat Trait")  [gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  
 
 > [!pf2-note] This version of [Risky Reload](compendium/feats/risky-reload-g-g.md) is intended for use with the Unexpected Sharpshooter Archetype. Its level has been changed accordingly.
@@ -105,7 +104,6 @@ You've practiced a technique for rapidly reloading your firearm, but attempting 
 ```ad-embed-feat
 title: No Hard Feelings, Feat 6
 collapse: closed
-# No Hard Feelings  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Unexpected Sharpshooter Dedication](compendium/feats/unexpected-sharpshooter-dedication-g-g.md)
@@ -119,7 +117,6 @@ Despite the devastation your weapons tend to inflict upon their targets or the d
 ```ad-embed-feat
 title: That Was A Close One, Huh?, Feat 7
 collapse: closed
-# That Was A Close One, Huh?  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 7*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: master in [Deception](compendium/skills.md#Deception), [Unexpected Sharpshooter Dedication](compendium/feats/unexpected-sharpshooter-dedication-g-g.md)
@@ -138,7 +135,6 @@ Attempt to [Demoralize](rules/actions/demoralize.md) either the foe you hit with
 ```ad-embed-feat
 title: Unbelievable Luck, Feat 8
 collapse: closed
-# Unbelievable Luck  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Unexpected Sharpshooter Dedication](compendium/feats/unexpected-sharpshooter-dedication-g-g.md)
@@ -152,7 +148,6 @@ While no one, not even you, might appear to understand why, you demonstrate a gr
 ```ad-embed-feat
 title: I Meant To Do That, Feat 10
 collapse: closed
-# I Meant To Do That  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: trained in [Deception](compendium/skills.md#Deception), [Unexpected Sharpshooter Dedication](compendium/feats/unexpected-sharpshooter-dedication-g-g.md)
@@ -169,7 +164,6 @@ Somehow your stray bullet causes an unintended reaction that creates a problem f
 ```ad-embed-feat
 title: Trick Shot, Feat 10*
 collapse: closed
-# Trick Shot  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 10*  
 [gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  
 
 > [!pf2-note] This version of [Trick Shot](compendium/feats/trick-shot-g-g.md) is intended for use with the Unexpected Sharpshooter Archetype. Its level has been changed accordingly.
@@ -189,7 +183,6 @@ You shoot not at your foe but at an object nearby. Make a [Strike](rules/actions
 ```ad-embed-feat
 title: Unbelievable Escape, Feat 10
 collapse: closed
-# Unbelievable Escape  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Unexpected Sharpshooter Dedication](compendium/feats/unexpected-sharpshooter-dedication-g-g.md)
@@ -203,7 +196,6 @@ Your ability to narrowly evade danger defies all logic. You can use [Lucky Escap
 ```ad-embed-feat
 title: Chain Reaction, Feat 12*
 collapse: closed
-# Chain Reaction  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Chain Reaction](compendium/feats/chain-reaction-g-g.md) is intended for use with the Unexpected Sharpshooter Archetype. Its level has been changed accordingly.

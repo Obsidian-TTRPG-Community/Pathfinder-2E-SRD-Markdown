@@ -11,10 +11,10 @@ aliases: ["Forceful Hand"]
 # Forceful Hand *Spell 5*   
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**60 foot
-- **Duration**sustained up to 1 minute
+- **Range**: 60 foot
+- **Duration**: sustained up to 1 minute
 
 A Medium floating, disembodied hand made of magical force appears in an unoccupied space adjacent to you, following you across the battlefield to shield you against your foes' attacks. Each time you [Sustain the Spell](rules/actions/sustain-a-spell.md), the hand moves to an unoccupied space of your choice adjacent to you. When you [Sustain the Spell](rules/actions/sustain-a-spell.md), you can have the hand [Fly](rules/actions/fly.md) to an unoccupied space of your choice adjacent to an ally to protect that ally instead. The hand's movement does not trigger reactions based on creature movement.
 

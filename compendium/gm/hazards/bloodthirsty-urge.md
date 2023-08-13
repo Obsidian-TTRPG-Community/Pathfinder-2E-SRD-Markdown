@@ -15,10 +15,9 @@ aliases: ["Bloodthirsty Urge"]
 An object haunted by the echoes of a vicious mind attempts to kill someone who comes near.
 
 - **Disable** [Religion](compendium/skills.md#Religion) DC 29 (master) to exorcise the spirit or [Diplomacy](compendium/skills.md#Diplomacy) DC 31 (expert) to talk it down.  
-     
+
 ```ad-embed-ability
-title: Quietus [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[death](rules/traits/death.md "Death Effect Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
+title: **Quietus** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([death](rules/traits/death.md), [emotion](rules/traits/emotion.md), [fear](rules/traits/fear.md), [illusion](rules/traits/illusion.md), [mental](rules/traits/mental.md), [occult](rules/traits/occult.md))
 
 - **Trigger**: A creature moves within 10 feet of the haunted object.
 
@@ -29,7 +28,9 @@ title: Quietus [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Re
 > - **Success** The target makes a [Strike](rules/actions/strike.md) against itself and automatically hits; the target also becomes [frightened](rules/conditions.md#Frightened).
 > - **Failure** The target makes a [Strike](rules/actions/strike.md) against itself and automatically scores a critical hit; the target also becomes [frightened](rules/conditions.md#Frightened).
 > - **Critical Failure** The target attempts a Fortitude save. If the target succeeds, it is subject to the effects of a failure instead. If the target fails, it is reduced to 0 Hit Points and dies.  
-%% #trait/death #trait/emotion #trait/fear #trait/illusion #trait/mental #trait/occult %%
+%%
+ #trait/death  #trait/emotion  #trait/fear  #trait/illusion  #trait/mental  #trait/occult 
+%%
 ```
 
 *Source: Core Rulebook p. 524*

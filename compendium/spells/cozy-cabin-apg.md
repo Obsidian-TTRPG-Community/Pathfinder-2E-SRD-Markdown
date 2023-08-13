@@ -10,10 +10,10 @@ aliases: ["Cozy Cabin"]
 # Cozy Cabin *Spell 3*   
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 1 minute 
-- **Range**30 foot
-- **Duration**12 hours
+- **Range**: 30 foot
+- **Duration**: 12 hours
 
 You shape a cabin 20 feet on each side and 10 feet high. This cabin has the [structure](rules/traits/structure.md "Structure General Trait") trait and the same restrictions as magic items that create structures. The walls of the hut are simple and wooden, with small, square glass windows, and it has one wooden door. It doesn't include its own lock, but it has a fastener to which a lock can be applied.
 

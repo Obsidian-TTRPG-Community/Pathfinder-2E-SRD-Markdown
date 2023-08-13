@@ -11,7 +11,7 @@ aliases: ["Bullying Press"]
 *Source: Gamemastery Guide p. 167*  
 
 **Variant Rule** Duels
-- **Trigger** You attempt a melee [Strike](rules/actions/strike.md) against your opponent, but haven't rolled yet.
+- **Trigger**: You attempt a melee [Strike](rules/actions/strike.md) against your opponent, but haven't rolled yet.
 - **Requirements**: You're in a duel, you're trained in [Intimidation](compendium/skills.md#Intimidation), and you rolled an [Intimidation](compendium/skills.md#Intimidation) check for initiative this round.
 - **Activity**: Reaction
 

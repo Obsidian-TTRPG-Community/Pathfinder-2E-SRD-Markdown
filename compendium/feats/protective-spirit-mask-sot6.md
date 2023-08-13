@@ -17,7 +17,7 @@ aliases: ["Protective Spirit Mask"]
 Your mask carries the protective instincts of White Bull, the Horn Forger, and no one will hurt your allies while you have anything to say about it. Immediately after you Cast a non-cantrip Spell that targets only one ally, you can choose to have the spell also give that creature a +1 circumstance bonus to AC until the start of your next turn. You also gain the Protector's Interdiction reaction.
 
 ```ad-embed-ability
-title: Protector's Interdiction [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Protector's Interdiction** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: An adjacent ally is hit or critically hit by an attack
 

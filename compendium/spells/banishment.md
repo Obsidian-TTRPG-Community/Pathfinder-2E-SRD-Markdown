@@ -11,11 +11,11 @@ aliases: ["Banishment"]
 # Banishment *Spell 5*   
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 creature that isn't on its home plane
-- **Saving Throw** Will
+- **Range**: 30 foot
+- **Targets**: 1 creature that isn't on its home plane
+- **Saving Throw**: Will
 
 You send the target back to its home plane. The target must attempt a Will save. You can spend an extra action while [Casting this Spell](rules/actions/cast-a-spell.md) and add a material component to give the creature a –2 circumstance penalty to its save. The component must be a specially gathered object that is anathema to the creature, and not from a spell component pouch. This spell fails if you aren't on your home plane when you cast it.
 

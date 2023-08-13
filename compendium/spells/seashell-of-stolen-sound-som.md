@@ -11,11 +11,11 @@ aliases: ["Seashell Of Stolen Sound"]
 # Seashell Of Stolen Sound *Spell 1*   
 [divination](rules/traits/divination.md "Divination School Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
-- **Trigger**A creature within range begins to make a sound.
-- **Range**30 foot
-- **Duration**until your next daily preparations
+- **Trigger**: A creature within range begins to make a sound.
+- **Range**: 30 foot
+- **Duration**: until your next daily preparations
 
 You store a sound in a seashell to use as you will: the last words of a loved one, a dragon's mighty roar, the compromising conversation between two powerful diplomats, or even more strange and secret. As part of Casting this Spell, you must present an unbroken seashell. When you [Cast the Spell](rules/actions/cast-a-spell.md), magic swirls around the triggering creature, copying the sounds they make, as well as any background noise, for the next minute and storing them in the seashell.
 

@@ -17,7 +17,7 @@ aliases: ["Unseen Custodians"]
 - **Secondary Casters** 2
 - **Primary Checks** [Arcana](compendium/skills.md#Arcana) or [Occultism](compendium/skills.md#Occultism) (expert)
 - **Secondary Checks** [Arcana](compendium/skills.md#Arcana), [Occultism](compendium/skills.md#Occultism) (whichever isn't used for the primary check), [Diplomacy](compendium/skills.md#Diplomacy)
-- **Area**100 feet × 100 feet, up to 20 feet high
+- **Area**: 100 feet × 100 feet, up to 20 feet high
 
 You create a site-bound, long-lasting [unseen servant](compendium/spells/unseen-servant.md) spell effect, forming entities of pure force to carry out basic tasks at a fixed location.
 

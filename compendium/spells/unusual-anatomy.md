@@ -15,7 +15,8 @@ aliases: ["Unusual Anatomy"]
 
 - **Bloodline** Sorcerer
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Duration**1 minute
+- 
+- **Duration**: 1 minute
 
 You transform your flesh and organs into a bizarre amalgam of glistening skin, rough scales, tufts of hair, and tumorous protuberances. This has three effects:
 

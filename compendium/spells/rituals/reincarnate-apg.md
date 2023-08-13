@@ -16,8 +16,8 @@ aliases: ["Reincarnate"]
 - **Secondary Casters** 2
 - **Primary Checks** [Nature](compendium/skills.md#Nature) (expert)
 - **Secondary Checks** [Occultism](compendium/skills.md#Occultism), [Religion](compendium/skills.md#Religion)
-- **Range**10 feet
-- **Targets**1 dead creature of up to 8th level
+- **Range**: 10 feet
+- **Targets**: 1 dead creature of up to 8th level
 
 You call forth the target's soul and attempt to incarnate it into a brand-new body. As the soul won't be returning to the original body, only a small portion of the creature's remains are required. These remains must have been part of the original body at the time of death, and the target must have died within the past week. If [Pharasma](compendium/setting/deities/pharasma.md) has decided that the target's time has come or the target's soul is trapped or doesn't wish to return, this ritual automatically fails, but you discover this after you succeed at the [Religion](compendium/skills.md#Religion) check and can end the ritual without paying the cost.
 

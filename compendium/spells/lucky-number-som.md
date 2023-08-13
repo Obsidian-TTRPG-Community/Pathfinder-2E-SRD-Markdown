@@ -11,9 +11,10 @@ aliases: ["Lucky Number"]
 # Lucky Number *Spell 2*   
 [contingency](rules/traits/contingency-som.md "Contingency Spell Trait")  [divination](rules/traits/divination.md "Divination School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 10 minutes 
-- **Duration**until the next time you make your daily preparations
+- 
+- **Duration**: until the next time you make your daily preparations
 
 When you [Cast this Spell](rules/actions/cast-a-spell.md), roll `1d20` and make a note of the result. You gain the following reaction; once you use the reaction, the spell ends, and you become temporarily immune to lucky number until the next time you make your daily preparations.
 

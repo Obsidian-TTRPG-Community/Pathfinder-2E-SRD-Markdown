@@ -14,7 +14,6 @@ You have befriended an animal to serve as an able assistant and loyal guardian.
 ```ad-embed-feat
 title: Animal Trainer Dedication, Feat 2
 collapse: closed
-# Animal Trainer Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: Trained in [Nature](compendium/skills.md#Nature)
@@ -30,7 +29,6 @@ You gain the services of a young animal companion that travels with you and obey
 ```ad-embed-feat
 title: Beast Speaker, Feat 4
 collapse: closed
-# Beast Speaker  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Animal Trainer Dedication](compendium/feats/animal-trainer-dedication-ec2.md)
@@ -44,7 +42,6 @@ You constantly have the effects of [speak with animals](compendium/spells/speak-
 ````ad-embed-feat
 title: Mature Trained Companion, Feat 6
 collapse: closed
-# Mature Trained Companion  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Animal Trainer Dedication](compendium/feats/animal-trainer-dedication-ec2.md)
@@ -76,7 +73,6 @@ The companion maintains its performance to captivate a single target within 30 f
 ```ad-embed-feat
 title: Insistent Command, Feat 8
 collapse: closed
-# Insistent Command  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: Master in [Nature](compendium/skills.md#Nature), Animal Trainer Dedication
@@ -90,7 +86,6 @@ When you roll a success to [Command an Animal](rules/actions/command-an-animal.m
 ```ad-embed-feat
 title: Splendid Companion, Feat 12*
 collapse: closed
-# Splendid Companion  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 > [!pf2-note] This version of [Splendid Companion](compendium/feats/splendid-companion-ec2.md) is intended for use with the Animal Trainer Archetype. Its level has been changed accordingly.
@@ -106,7 +101,6 @@ Your animal companion continues to develop. It becomes a nimble or savage animal
 ```ad-embed-feat
 title: Specialized Companion, Feat 18*
 collapse: closed
-# Specialized Companion  *Feat 18*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 > [!pf2-note] This version of [Specialized Companion](compendium/feats/specialized-companion-ec2.md) is intended for use with the Animal Trainer Archetype. Its level has been changed accordingly.

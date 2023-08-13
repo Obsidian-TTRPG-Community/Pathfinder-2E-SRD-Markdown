@@ -16,10 +16,12 @@ aliases: ["Sansetsukon"]
 
 - **Price** 2 gp
 - **Bulk** 2
-- **Damage** `1d8` B
+  - **Damage**: `1d8` B
 - **Hands** 2
 - **Category** Martial; **Group** Flail 
 
 The sansetsukon, also known as a sanjiegun or three-section staff, is made up of three wooden staff segments, each about 14 inches in length. The staff sections are connected by short lengths of cord or chain, similar to nunchaku.
 
+
+---
 *Source: Treasure Vault p. 25*

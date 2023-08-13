@@ -14,11 +14,11 @@ aliases: ["Power Word Kill"]
 # Power Word Kill *Spell 9*   
 [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [death](rules/traits/death.md "Death Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait")
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**30 foot
-- **Targets**1 creature
-- **Duration**varies
+- **Range**: 30 foot
+- **Targets**: 1 creature
+- **Duration**: varies
 
 You utter the most powerful arcane word of power. Once targeted, the target is then temporarily immune for 10 minutes. The effect of the spell depends on the target's level.
 

@@ -12,11 +12,11 @@ aliases: ["Phantom Crowd"]
 # Phantom Crowd *Spell 2*   
 [illusion](rules/traits/illusion.md "Illusion School Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**60 foot
-- **Area**a 10-foot square
-- **Duration**sustained up to 10 minutes
+- **Range**: 60 foot
+- **Area**: a 10-foot square
+- **Duration**: sustained up to 10 minutes
 
 A tightly packed crowd of humanoids appropriate to the area appear, facing you and agreeing loudly with anything you say. A creature that touches a member of the crowd or makes a [Seek](rules/actions/seek.md) action to examine the crowd can attempt to 0. The crowd is difficult terrain for anyone who hasn't 0.
 

@@ -20,7 +20,6 @@ Your ties to the living world cling to you in death, your unfinished business re
 ```ad-embed-feat
 title: Ghost Dedication, Feat 2
 collapse: closed
-# Ghost Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Prerequisites**: You died and returned as a ghost.
@@ -40,7 +39,6 @@ You have risen as a shell of your former self, a spirit of mist and anguish. You
 ```ad-embed-feat
 title: Frightful Moan, Feat 4
 collapse: closed
-# Frightful Moan  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 - **Prerequisites**: [Ghost Dedication](compendium/feats/ghost-dedication-botd.md)
@@ -61,7 +59,6 @@ You lament your fate, forcing each living creature in a 30-foot emanation to att
 ```ad-embed-feat
 title: Ghostly Resistance, Feat 4
 collapse: closed
-# Ghostly Resistance  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Ghost Dedication](compendium/feats/ghost-dedication-botd.md)
@@ -77,7 +74,6 @@ At 10th level, the resistance increases to 2, or 4 if the source is non-magical.
 ```ad-embed-feat
 title: Ghostly Grasp, Feat 6
 collapse: closed
-# Ghostly Grasp  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Ghost Dedication](compendium/feats/ghost-dedication-botd.md)
@@ -91,7 +87,6 @@ Your control over your ghostly form grows. You gain the advanced undead benefits
 ```ad-embed-feat
 title: Ghost Flight, Feat 8
 collapse: closed
-# Ghost Flight  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Ghost Dedication](compendium/feats/ghost-dedication-botd.md)
@@ -107,7 +102,6 @@ You can suppress your tether to the ground, overcoming your resistance to fly fr
 ```ad-embed-feat
 title: Pass Through, Feat 10
 collapse: closed
-# Pass Through  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: master in [Acrobatics](compendium/skills.md#Acrobatics), [Ghost Dedication](compendium/feats/ghost-dedication-botd.md)
@@ -127,7 +121,6 @@ Filtering your form through the substance of an object, you can pass through wal
 ```ad-embed-feat
 title: Rejuvenation, Feat 12*
 collapse: closed
-# Rejuvenation  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 > [!pf2-note] This version of [Rejuvenation](compendium/feats/rejuvenation-botd.md) is intended for use with the Ghost Archetype. Its level has been changed accordingly.
@@ -143,7 +136,6 @@ The call of your unfinished business recreates you after destruction. When you'r
 ```ad-embed-feat
 title: Unlimited Ghost Flight, Feat 14*
 collapse: closed
-# Unlimited Ghost Flight  *Feat 14*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Unlimited Ghost Flight](compendium/feats/unlimited-ghost-flight-botd.md) is intended for use with the Ghost Archetype. Its level has been changed accordingly.

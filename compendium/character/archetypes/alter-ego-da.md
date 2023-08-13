@@ -19,7 +19,6 @@ Performing an alter ego means going unregarded. Passing as just a face in the cr
 ````ad-embed-feat
 title: Alter Ego Dedication, Feat 2
 collapse: closed
-# Alter Ego Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: trained in [Deception](compendium/skills.md#Deception) and [Stealth](compendium/skills.md#Stealth)
@@ -27,8 +26,7 @@ collapse: closed
 You make yourself into a living mirror, becoming a double of someone unremarkable, and you slip into exactly the role that can get you past security or into a sensitive facility. You become an expert in [Deception](compendium/skills.md#Deception). You gain the Assume a Role activity.
 
 ```ad-embed-ability
-title: Assume a Role
-[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
+title: **Assume a Role**  ([concentrate](rules/traits/concentrate.md))
 
 - **Requirements**: You've spent at least 1 hour studying a creature whose role you intend to copy and have done so within the last 3 days. This could include meeting and learning from someone in that role, tailing and spying on someone, using magic to observe them at work, or some other method, as long as you have a visual source of information
 
@@ -37,7 +35,9 @@ title: Assume a Role
 You perform the [Impersonate](rules/actions/impersonate.md) activity to pass as a member of the role you [observed](rules/conditions.md#Observed) and gain a +1 circumstance bonus to any [Deception](compendium/skills.md#Deception) checks you attempt in your impersonation. This takes the normal amount of time it takes you to [Impersonate](rules/actions/impersonate.md). You also choose one [Lore](compendium/skills.md#Lore) skill relevant to that role (such as [Farming Lore](compendium/skills.md#Lore) for a farmer). While in your role, you gain a +1 circumstance bonus to checks for that [Lore](compendium/skills.md#Lore) skill, and if you're untrained in it, you can use your level as your proficiency bonus.
 
 You stop assuming the role after 24 hours, if you start studying for a new role, or if you choose to.  
-%% #trait/concentrate %%
+%%
+ #trait/concentrate 
+%%
 ```
 
 **Special.** You can't select another dedication feat until you've gained two other feats from the alter ego archetype.
@@ -49,7 +49,6 @@ You stop assuming the role after 24 hours, if you start studying for a new role,
 ```ad-embed-feat
 title: Change of Face, Feat 4
 collapse: closed
-# Change of Face  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Alter Ego Dedication](compendium/feats/alter-ego-dedication-da.md)
@@ -63,7 +62,6 @@ You know that for the best disguise to work, one requires not only the right ski
 ```ad-embed-feat
 title: Fake It Till You Make It, Feat 4
 collapse: closed
-# Fake It Till You Make It  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Alter Ego Dedication](compendium/feats/alter-ego-dedication-da.md)
@@ -77,7 +75,6 @@ When you take on a role, you become more capable with all sorts of tasks involvi
 ```ad-embed-feat
 title: In Plain Sight, Feat 4
 collapse: closed
-# In Plain Sight  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Alter Ego Dedication](compendium/feats/alter-ego-dedication-da.md)
@@ -91,7 +88,6 @@ People often only see what they want to see, a weakness you know how to take ful
 ```ad-embed-feat
 title: Sound Mirror, Feat 6
 collapse: closed
-# Sound Mirror  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Alter Ego Dedication](compendium/feats/alter-ego-dedication-da.md)
@@ -105,7 +101,6 @@ You twist not just the visual, but the auditory as well, allowing you to pass wi
 ```ad-embed-feat
 title: Muscle Mimicry, Feat 7
 collapse: closed
-# Muscle Mimicry  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 7*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Alter Ego Dedication](compendium/feats/alter-ego-dedication-da.md); trained in [Athletics](compendium/skills.md#Athletics), master in [Deception](compendium/skills.md#Deception)
@@ -123,7 +118,6 @@ Your study of another allows you to mirror their movements subtly, even in the h
 ```ad-embed-feat
 title: Swap Reflections, Feat 8
 collapse: closed
-# Swap Reflections  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [extradimensional](rules/traits/extradimensional.md "Extradimensional Effect Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  
 
 - **Prerequisites**: [Alter Ego Dedication](compendium/feats/alter-ego-dedication-da.md)
@@ -145,7 +139,6 @@ You've learned how to use even your reflection to your advantage. You send your 
 ```ad-embed-feat
 title: Borrow Memories, Feat 14*
 collapse: closed
-# Borrow Memories  *Feat 14*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 > [!pf2-note] This version of [Borrow Memories](compendium/feats/borrow-memories-da.md) is intended for use with the Alter Ego Archetype. Its level has been changed accordingly.

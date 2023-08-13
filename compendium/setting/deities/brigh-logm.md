@@ -18,7 +18,7 @@ aliases: ["Brigh", "The Whisper In Bronze"]
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: carelessly destroy others' creations or research, enslave intelligent constructs, abuse constructs, refuse to acknowledge or learn from mistakes
-- **Areas of Concern**: clockwork, , invention, , and time
+- **Areas of Concern**: clockwork, invention, and time
 - **Follower Alignments**: [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")
 
 ## Devotee benefits
@@ -36,8 +36,9 @@ When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Br
 title: [Avatar](compendium/spells/avatar.md) of Brigh
 
 - **Speed**: Speed 60 feet, [air walk](compendium/spells/air-walk.md), immune to [immobilized](rules/conditions.md#Immobilized)
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") light hammer ([agile](rules/traits/agile.md "Agile Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [thrown <40 feet>](rules/traits/thrown-40-feet.md "Thrown Weapon Trait")), **Damage** `6d6+6` bludgeoning
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") bolt of molten bronze **Damage** `6d8+3` fire
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") light hammer (, [agile](rules/traits/agile.md "Agile Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [thrown <40 feet>](rules/traits/thrown-40-feet.md "Thrown Weapon Trait")), **Damage** `6d6+6` bludgeoning 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") bolt of molten bronze (), **Damage** `6d8+3` fire 
 ```
 
 ## Divine intercession

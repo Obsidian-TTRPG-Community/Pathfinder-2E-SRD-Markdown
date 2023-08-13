@@ -9,7 +9,7 @@ tags:
 - trait/manipulate
 aliases: ["Treat Wounds"]
 ---
-# Treat Wounds (basic) [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Duration or Frequency")
+# Treat Wounds (basic) [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Duration or Frequency") 10 minute
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 *Source: Core Rulebook p. 248*  
 

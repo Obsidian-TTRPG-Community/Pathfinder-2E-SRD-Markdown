@@ -18,4 +18,6 @@ aliases: ["Full Plate"]
 
 Plate mail consists of interlocking plates that encase nearly the entire body in a carapace of steel. It is costly and heavy, and the wearer often requires help to don it correctly, but it provides some of the best defense armor can supply. A suit of this armor comes with an undercoat of [padded armor](compendium/equipment/items/padded-armor.md) and a pair of [gauntlets](compendium/equipment/items/gauntlet.md).
 
+
+---
 *Source: Core Rulebook p. 275*

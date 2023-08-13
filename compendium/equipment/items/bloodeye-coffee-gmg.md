@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/gmg
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/drug
@@ -15,9 +15,8 @@ aliases: ["Bloodeye Coffee"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [drug](rules/traits/drug-gmg.md "Drug Item Trait")  [ingested](rules/traits/ingested.md "Ingested Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Price** 5 sp
-- **Usage** held in 1 hand; **Bulk** L
+- **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 A strong blend including several spices common in the Padishah Empire of Kelesh, bloodeye coffee is a favorite morning drink across the Inner Sea region. The maximum addiction stage of bloodeye coffee never progresses beyond stage 1.
 
@@ -36,4 +35,6 @@ title: Saving Throw: DC 14 Fortitude
 **Stage 3** can't recover from [fatigued](rules/conditions.md#Fatigued) (1 day, after which the drug ends)
 ```
 
+
+---
 *Source: Gamemastery Guide p. 120*

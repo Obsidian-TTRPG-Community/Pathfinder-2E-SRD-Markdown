@@ -14,6 +14,7 @@ aliases: ["Extend Boost"]
 [divination](rules/traits/divination.md "Divination School Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  [summoner](rules/traits/summoner-som.md "Summoner Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") 
+- 
 
 You focus on the intricacies of the magic binding you to your eidolon to extend the duration of your [boost eidolon](compendium/spells/boost-eidolon-som.md) or [reinforce eidolon](compendium/spells/reinforce-eidolon-som.md) spell. If your next action is to cast [boost eidolon](compendium/spells/boost-eidolon-som.md) or reinforce eidolon, attempt a skill check with the skill associated with the tradition of magic you gain from your eidolon (such as [Nature](compendium/skills.md#Nature) for a primal eidolon). The DC is usually a standard-difficulty DC of your level, but the GM can assign a different DC based on the circumstances. The effect depends on the result of your check.
 

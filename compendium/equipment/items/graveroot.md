@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/crb
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/injury
@@ -14,9 +14,8 @@ aliases: ["Graveroot"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [injury](rules/traits/injury.md "Injury Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Price** 10 gp
-- **Usage** held in 2 hands; **Bulk** L
+- **Bulk** L; **Usage** held in 2 hands
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 The opaque white sap from the graveroot shrub clouds the mind.
 
@@ -34,4 +33,6 @@ title: Saving Throw: DC 19 Fortitude
 **Stage 3** `2d6` poison damage and [stupefied](rules/conditions.md#Stupefied) (1 round)
 ```
 
+
+---
 *Source: Core Rulebook p. 552*

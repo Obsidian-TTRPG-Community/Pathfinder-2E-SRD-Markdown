@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/g&g
-- item/category/held
+- item/category/held/
 - trait/conjuration
 - trait/magical
 - trait/unique
@@ -12,13 +12,12 @@ aliases: ["Mountebank's Passage"]
 # Mountebank's Passage *Item 15*  
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
-- **Usage** held in 1 hand; **Bulk** 1
-- **Category** Held
+- **Bulk** 1; **Usage** held in 1 hand
 
 This +2 greater striking flintlock pistol has the odd construction of possessing two triggers, one of soapstone and one of onyx, clearly separated with individual trigger guards. Originally created by a student at Blythir College in Alkenstar, the mountebank's passage has the ability to create temporary linked portals on existing surfaces. The weapon disappeared shortly after its invention, but rumors have circulated that it now belongs to a group of thieves who use it to commit impossible robberies.
 
 ```ad-embed-ability
-title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
+title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") [Interact](rules/actions/interact.md)
 
 - **Requirements**: the mountebank's passage isn't loaded
 
@@ -26,7 +25,7 @@ title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "S
 ```
 
 ```ad-embed-ability
-title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
+title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") [Interact](rules/actions/interact.md)
 
 - **Requirements**: the mountebank's passage isn't loaded
 
@@ -37,4 +36,6 @@ Choose a vertical surface within 120 feet. A beam of black energy crackles to th
 Using this activation causes any previous black portal to disappear; even if you don't create a new portal; otherwise, the portal lasts until your next daily preparations.
 ```
 
+
+---
 *Source: Guns & Gears p. 165*

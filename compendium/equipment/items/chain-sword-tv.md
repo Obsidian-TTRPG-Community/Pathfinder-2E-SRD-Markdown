@@ -15,10 +15,12 @@ aliases: ["Chain Sword"]
 
 - **Price** 6 gp
 - **Bulk** 1
-- **Damage** `1d6` S
+  - **Damage**: `1d6` S
 - **Hands** 1
 - **Category** Advanced; **Group** Sword 
 
 This weapon has a hilt like a longsword attached to several bladed segments connected by chain links. A highly technical weapon, the chain sword is valued by duelists and experienced soldiers alike in the nations of Nirmathas and Molthune.
 
+
+---
 *Source: Treasure Vault p. 25*

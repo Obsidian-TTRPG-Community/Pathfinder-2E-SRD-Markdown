@@ -15,10 +15,12 @@ aliases: ["Naginata"]
 
 - **Price** 3 gp
 - **Bulk** 2
-- **Damage** `1d8` S
+  - **Damage**: `1d8` S
 - **Hands** 2
 - **Category** Martial; **Group** Polearm 
 
 This 6-foot staff has a 2-foot-long, slightly curved, swordlike blade attached at one end. The long pole helps keep the wielder out of reach of swords and shorter weapons.
 
+
+---
 *Source: Treasure Vault p. 25*

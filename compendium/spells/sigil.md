@@ -11,11 +11,11 @@ aliases: ["Sigil"]
 # Sigil *Cantrip 1*   
 [cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Targets**1 creature or object
-- **Duration**unlimited (see below)
+- **Range**: touch
+- **Targets**: 1 creature or object
+- **Duration**: unlimited (see below)
 
 You harmlessly place your unique magical sigil, which is about 1 square inch in size, on the targeted creature or object. The mark can be visible or [invisible](rules/conditions.md#Invisible), and you can change it from one state to another by using an [Interact](rules/actions/interact.md) action to touch the target. The mark can be scrubbed or scraped off with 5 minutes of work. If it's on a creature, it fades naturally over the course of a week. The time before the mark fades increases depending on your heightened level.
 

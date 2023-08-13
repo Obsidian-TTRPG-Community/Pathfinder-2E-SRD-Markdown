@@ -11,11 +11,11 @@ aliases: ["Goblin Pox"]
 # Goblin Pox *Spell 1*   
 [disease](rules/traits/disease.md "Disease Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Targets**1 creature
-- **Saving Throw** Fortitude
+- **Range**: touch
+- **Targets**: 1 creature
+- **Saving Throw**: Fortitude
 
 Your touch afflicts the target with goblin pox, an irritating allergenic rash. The target must attempt a Fortitude save.
 

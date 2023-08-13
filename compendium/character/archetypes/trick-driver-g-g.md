@@ -14,7 +14,6 @@ While cavaliers follow an old and tired tradition of mounted combat, you take a 
 ```ad-embed-feat
 title: Trick Driver Dedication, Feat 2
 collapse: closed
-# Trick Driver Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 
@@ -33,7 +32,6 @@ You can use Dexterity in place of Intelligence when attempting piloting checks w
 ```ad-embed-feat
 title: Express Driver, Feat 2
 collapse: closed
-# Express Driver  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Trick Driver Dedication](compendium/feats/trick-driver-dedication-g-g.md)
@@ -49,7 +47,6 @@ When calculating your travel speed for the day while piloting a vehicle, you can
 ```ad-embed-feat
 title: Power Slide, Feat 4
 collapse: closed
-# Power Slide  [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies") *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [move](rules/traits/move.md "Move Combat Trait")  [reckless](rules/traits/reckless-gmg.md "Reckless Action & Ability Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Trick Driver Dedication](compendium/feats/trick-driver-dedication-g-g.md)
@@ -65,7 +62,6 @@ You throw the vehicle into a barely controlled skid, turning sharply to evade pu
 ```ad-embed-feat
 title: Take The Wheel, Feat 4
 collapse: closed
-# Take The Wheel  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 - **Prerequisites**: [Trick Driver Dedication](compendium/feats/trick-driver-dedication-g-g.md), expert in [Driving Lore](compendium/skills.md#Lore)
@@ -81,7 +77,6 @@ Diving into a moving vehicle and seizing the controls is nothing new for you. Yo
 ```ad-embed-feat
 title: Push It, Feat 7
 collapse: closed
-# Push It  *Feat 7*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Trick Driver Dedication](compendium/feats/trick-driver-dedication-g-g.md), master in [Driving Lore](compendium/skills.md#Lore)
@@ -95,7 +90,6 @@ You can push your vehicle's performance beyond the limits envisioned by its make
 ```ad-embed-feat
 title: Roadkill, Feat 10
 collapse: closed
-# Roadkill  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Trick Driver Dedication](compendium/feats/trick-driver-dedication-g-g.md)
@@ -112,7 +106,6 @@ When you use [Run Over](rules/actions/run-over-gmg.md), you can use your class D
 ```ad-embed-feat
 title: Drive-by Attack, Feat 12*
 collapse: closed
-# Drive-by Attack  [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies") *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 > [!pf2-note] This version of [Drive-by Attack](compendium/feats/drive-by-attack-g-g.md) is intended for use with the Trick Driver Archetype. Its level has been changed accordingly.

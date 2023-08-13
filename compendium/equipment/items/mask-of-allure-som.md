@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/som
-- item/category/apex
+- item/category/apex/
 - trait/apex
 - trait/enchantment
 - trait/invested
@@ -14,8 +14,7 @@ aliases: ["Mask Of Allure"]
 [apex](rules/traits/apex.md "Apex Item Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 24000 gp
-- **Usage** worn mask; **Bulk** L
-- **Category** Apex
+- **Bulk** L; **Usage** worn mask
 
 This mask appears to be a pool of mirrored, shifting silver adhered to a thin metal plate.
 
@@ -24,8 +23,7 @@ When you place it against your face, it melds to the shape of your head. The mat
 When you invest the mask, you either increase your Charisma score by 2 or increase it to 18, whichever would give you a higher score.
 
 ```ad-embed-ability
-title: Activate [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
-[visual](rules/traits/visual.md "Visual Effect Trait")  
+title: **Activate** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") envision ([visual](rules/traits/visual.md))
 
 - **Trigger**: You attempt a [Deception](compendium/skills.md#Deception), [Diplomacy](compendium/skills.md#Diplomacy), [Intimidation](compendium/skills.md#Intimidation), or [Performance](compendium/skills.md#Performance) check
 
@@ -35,7 +33,11 @@ title: Activate [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "F
 - **Diplomacy** A kind, gentle and inviting expression.
 - **Intimidation** A monstrous visage that shocks viewers into paying attention.
 - **Performance** A jovial humanoid face, the mouth cracked wide with a comedic smile or a tragic frown, depending on the nature of the performance.  
-%% #trait/visual %%
+%%
+ #trait/visual 
+%%
 ```
 
+
+---
 *Source: Secrets of Magic p. 186*

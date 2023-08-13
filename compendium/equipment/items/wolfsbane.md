@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/crb
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/ingested
@@ -14,9 +14,8 @@ aliases: ["Wolfsbane"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [ingested](rules/traits/ingested.md "Ingested Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Price** 155 gp
-- **Usage** held in 1 hand; **Bulk** L
+- **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 Wolfsbane appears in folklore for its link to werecreatures.
 
@@ -37,4 +36,6 @@ title: Saving Throw: DC 30 Fortitude
 **Stage 3** `20d6` poison damage (1 minute)
 ```
 
+
+---
 *Source: Core Rulebook p. 553*

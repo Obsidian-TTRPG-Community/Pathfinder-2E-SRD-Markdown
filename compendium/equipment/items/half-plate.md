@@ -16,4 +16,6 @@ aliases: ["Half Plate"]
 
 Half plate consists of most of the upper body plates used in full plate, with lighter or sparser steel plate protection for the arms and legs. This provides some of the protection of [full plate](compendium/equipment/items/full-plate.md) with greater flexibility and speed. A suit of this armor comes with an undercoat of [padded armor](compendium/equipment/items/padded-armor.md) and a pair of [gauntlets](compendium/equipment/items/gauntlet.md).
 
+
+---
 *Source: Core Rulebook p. 275*

@@ -16,8 +16,8 @@ aliases: ["Cleansing Flames"]
 
 - **Bloodline** Sorcerer
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Targets**1 creature
+- **Range**: touch
+- **Targets**: 1 creature
 
 You wrap the target in purifying flames. You can attempt to counteract a single poison or non-curse effect imparting the [clumsy](rules/conditions.md#Clumsy), [dazzled](rules/conditions.md#Dazzled), [enfeebled](rules/conditions.md#Enfeebled), [fatigued](rules/conditions.md#Fatigued), [frightened](rules/conditions.md#Frightened), [paralyzed](rules/conditions.md#Paralyzed), [sickened](rules/conditions.md#Sickened), or [stupefied](rules/conditions.md#Stupefied) condition.
 

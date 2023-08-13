@@ -12,9 +12,10 @@ aliases: ["Mantle Of The Frozen Heart"]
 # Mantle Of The Frozen Heart *Spell 5*   
 [cold](rules/traits/cold.md "Cold Energy & Element Trait")  [morph](rules/traits/morph.md "Morph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Duration**1 minute
+- 
+- **Duration**: 1 minute
 
 You surround yourself in a mantle of frigid ice magic, and your skin and armor morph into cold blue ice. Freezing air emanates from your body, sending a chill down anyone's spine who draws too close and leaving a fine dusting of frost in your wake. Upon Casting this Spell, pick two of the options below. As a single action, which has the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") trait, you can change one of your chosen abilities to a different option from the list.
 

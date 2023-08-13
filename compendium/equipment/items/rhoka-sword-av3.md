@@ -13,10 +13,12 @@ aliases: ["Rhoka Sword"]
 
 - **Price** 4 gp
 - **Bulk** 2
-- **Damage** `1d8` S
+  - **Damage**: `1d8` S
 - **Hands** 1
 - **Category** Advanced; **Group** Sword 
 
 These dual-bladed swords are commonly used by urdefhan warriors.
 
+
+---
 *Source: Abomination Vaults #3: Eyes of Empty Death p. 73*

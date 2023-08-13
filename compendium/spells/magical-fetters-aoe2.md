@@ -12,12 +12,12 @@ aliases: ["Magical Fetters"]
 # Magical Fetters *Spell 3*   
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**60 foot
-- **Targets**1 creature
-- **Saving Throw** Reflex
-- **Duration**see below
+- **Range**: 60 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Reflex
+- **Duration**: see below
 
 Ghostly manacles launch from your outstretched hand and clasp around the target's limbs, impeding its movements.
 

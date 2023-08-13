@@ -21,7 +21,7 @@ aliases: ["Dread Ambience"]
 - **Secondary Casters** 1
 - **Primary Checks** [Arcana](compendium/skills.md#Arcana) or [Occultism](compendium/skills.md#Occultism) (expert)
 - **Secondary Checks** [Deception](compendium/skills.md#Deception)
-- **Area**1 square mile
+- **Area**: 1 square mile
 
 In some places, it always feels like something is observing you, as if the very land doesn't want you there. [Hostile](rules/conditions.md#Hostile) creatures skitter about in the underbrush. Tendrils of mist try to lead you stray. Even the scent of the place is unwelcoming. Sometimes, this eerie atmosphere is a natural occurrence. Other times, it's the result of the dread ambience ritual.
 

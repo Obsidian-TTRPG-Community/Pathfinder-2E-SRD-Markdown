@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/ec6
-- item/category/worn
+- item/category/worn/
 - trait/illusion
 - trait/invested
 - trait/magical
@@ -15,7 +15,6 @@ aliases: ["Locket Of Sealed Nightmares"]
 
 - **Price** 36000 gp
 - **Usage** worn necklace
-- **Category** Worn
 
 As long as this locket of horn and silver is closed, you don't need to sleep. However, you can still overexert your body with too much activity, so you still need to rest to avoid becoming [fatigued](rules/conditions.md#Fatigued) or to remove the [fatigued](rules/conditions.md#Fatigued) condition.
 
@@ -26,11 +25,13 @@ Each time dawn occurs, you regain the ability to make your daily preparations as
 Daily preparations still take about an hour, as normal.
 
 ```ad-embed-ability
-title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
+title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") envision, [Interact](rules/actions/interact.md)
 
 - **Requirements**: You aren't [fatigued](rules/conditions.md#Fatigued)
 
 **Effect** You open the locket to unleash the dreams it has kept at bay. You become [fatigued](rules/conditions.md#Fatigued) and cast one of the following spells at 9th level (DC 41): [hallucination](compendium/spells/hallucination.md), [sleep](compendium/spells/sleep.md), or [weird](compendium/spells/weird.md).
 ```
 
+
+---
 *Source: Extinction Curse #6: The Apocalypse Prophet p. 74*

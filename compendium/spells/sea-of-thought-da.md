@@ -11,12 +11,12 @@ aliases: ["Sea of Thought"]
 # Sea of Thought *Spell 3*   
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**60 foot
-- **Area**15-foot burst
-- **Saving Throw** Fortitude
-- **Duration**1 minute
+- **Range**: 60 foot
+- **Area**: 15-foot burst
+- **Saving Throw**: Fortitude
+- **Duration**: 1 minute
 
 You cover the area in a sloshing torrent of semi-solidified thought, roughly ankle high. The area becomes difficult terrain, similarly to a shallow bog. Each round that a creature starts its turn in the area, it must attempt a Fortitude save against the shifting waves of thought. On a failure, it takes a –10-foot circumstance penalty to its Speeds until it leaves the area, and on a critical failure, it is also knocked [prone](rules/conditions.md#Prone).
 

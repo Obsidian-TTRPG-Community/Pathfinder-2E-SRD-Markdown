@@ -18,8 +18,8 @@ aliases: ["Spray Of Stars"]
 
 - **Mystery** Oracle
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Area**15-foot cone
-- **Saving Throw** Reflex
+- **Area**: 15-foot cone
+- **Saving Throw**: Reflex
 
 You fling a spray of tiny shooting stars, dealing `1d4` fire damage. Each creature in the area must attempt a Reflex save.
 

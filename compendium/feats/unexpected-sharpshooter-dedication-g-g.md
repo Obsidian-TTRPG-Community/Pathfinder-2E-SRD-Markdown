@@ -16,11 +16,14 @@ aliases: ["Unexpected Sharpshooter Dedication"]
 Who needs skill when you've got dumb luck? Sometimes your shots hit miraculously, regardless of the fact that you seemed to slip when you pulled the trigger or that you weren't aiming at your foe when you fired. You gain the Accidental Shot activity.
 
 ```ad-embed-ability
-title: Accidental Shot [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
-[fortune](rules/traits/fortune.md "Fortune Effect Trait")  
+title: **Accidental Shot** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") ([fortune](rules/traits/fortune.md))
 
-You make a [Strike](rules/actions/strike.md) with a ranged weapon, rolling the attack and damage twice and using the better results for each. The attack ignores circumstance penalties to the attack roll and any flat check required due to the target being [concealed](rules/conditions.md#Concealed) or [hidden](rules/conditions.md#Hidden).  
-%% #trait/fortune %%
+- **Frequency**: once per day
+
+**Effect** You make a [Strike](rules/actions/strike.md) with a ranged weapon, rolling the attack and damage twice and using the better results for each. The attack ignores circumstance penalties to the attack roll and any flat check required due to the target being [concealed](rules/conditions.md#Concealed) or [hidden](rules/conditions.md#Hidden).  
+%%
+ #trait/fortune 
+%%
 ```
 
 **Special.** You can't select another dedication feat until you've gained two other feats from the unexpected sharpshooter archetype.

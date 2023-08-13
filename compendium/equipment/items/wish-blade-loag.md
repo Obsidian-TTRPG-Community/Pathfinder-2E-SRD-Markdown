@@ -16,10 +16,12 @@ aliases: ["Wish Blade"]
 
 - **Price** 5 gp
 - **Bulk** 1
-- **Damage** `1d6` S
+  - **Damage**: `1d6` S
 - **Hands** 1
 - **Category** Martial; **Group** Sword 
 
 Specialized grooves lined with unique, alchemically treated metals capable of retaining energy score the length of this sword. The first wish blades originated from genie smiths, and the knowledge of these weapons has been passed on to generations of geniekin, earning them the name wish blades.
 
+
+---
 *Source: Lost Omens: Ancestry Guide p. 139*

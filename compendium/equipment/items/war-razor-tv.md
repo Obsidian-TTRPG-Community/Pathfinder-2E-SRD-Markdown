@@ -15,10 +15,12 @@ aliases: ["War Razor"]
 
 - **Price** 3 sp
 - **Bulk** L
-- **Damage** `1d4` S
+  - **Damage**: `1d4` S
 - **Hands** 1
 - **Category** Martial; **Group** Knife 
 
 A war razor is an exaggerated version of the barbers' tool. It's a brittle but extremely sharp weapon that is very easy to slip into a pocket or sleeve.
 
+
+---
 *Source: Treasure Vault p. 25*

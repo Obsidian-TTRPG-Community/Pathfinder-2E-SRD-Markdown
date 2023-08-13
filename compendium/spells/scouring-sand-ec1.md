@@ -13,11 +13,11 @@ aliases: ["Scouring Sand"]
 # Scouring Sand *Spell 1*   
 [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**60 foot
-- **Area**10-foot burst
-- **Duration**sustained up to 1 minute
+- **Range**: 60 foot
+- **Area**: 10-foot burst
+- **Duration**: sustained up to 1 minute
 
 You blast the area with grit that scours away soil and gets into creatures' eyes. For the duration of the spell, any plant-based difficult terrain smaller than a tree becomes loose, allowing each 5-foot square of it to be cleared with a single [Interact](rules/actions/interact.md) action. In addition, scouring sand attempts to counteract entangle and other effects that create or manipulate plant-based terrain in its area.
 

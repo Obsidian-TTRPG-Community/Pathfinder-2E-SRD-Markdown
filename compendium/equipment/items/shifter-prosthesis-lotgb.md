@@ -13,13 +13,13 @@ aliases: ["Shifter Prosthesis"]
 [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 210 gp
-- **Usage** worn; **Bulk** 1
+- **Bulk** 1; **Usage** worn
 - **Category** Prosthesis
 
 This prosthetic arm is imbued with transmutation magic that can transform it into a weapon.
 
 ```ad-embed-ability
-title: Activate [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")
+title: **Activate** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") command, [Interact](rules/actions/interact.md)
 
 - **Requirements**: You are holding a one-handed weapon
 
@@ -27,9 +27,13 @@ title: Activate [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions 
 ```
 
 ```ad-embed-ability
-title: Activate [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
+title: **Activate** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") envision
 
-The prosthesis reshapes into the form of a weapon it has absorbed. The prosthesis has all of the statistics of the weapon, including the effects of any etched runes. The prosthesis remains in this weapon's form until you use this Activation again to revert it back to a prosthesis.
+- **Frequency**: once per minute
+
+**Effect** The prosthesis reshapes into the form of a weapon it has absorbed. The prosthesis has all of the statistics of the weapon, including the effects of any etched runes. The prosthesis remains in this weapon's form until you use this Activation again to revert it back to a prosthesis.
 ```
 
+
+---
 *Source: Lost Omens: The Grand Bazaar p. 73*

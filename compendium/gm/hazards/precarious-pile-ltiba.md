@@ -16,14 +16,12 @@ This dangerously unsteady pile of miscellaneous goods stands 7 feet high and 10 
 
 - **Disable** DC 15 [Thievery](compendium/skills.md#Thievery) to carefully excavate a path through the wall without upsetting its balance, or DC 17 [Athletics](compendium/skills.md#Athletics) to hold up any unstable portions  
 
-- **AC** 16 , **Fort** +10, **Ref** +2
+- **AC** 16, **Fort** +10, **Ref** +2
 - **Hardness** 5, **HP** 25 (BT 12)
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Collapse [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Collapse** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature attempts to climb or remove an object from the wall or the wall suffers a forceful impact
 

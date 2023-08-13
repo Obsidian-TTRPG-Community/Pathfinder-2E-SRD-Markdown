@@ -12,10 +12,10 @@ aliases: ["Ectoplasmic Expulsion"]
 # Ectoplasmic Expulsion *Spell 5*   
 [mental](rules/traits/mental.md "Mental Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**30 foot
-- **Targets**1 creature
+- **Range**: 30 foot
+- **Targets**: 1 creature
 
 You call upon tendrils of ephemeral ectoplasm to pass through the target and carry away a harmful psychic affliction.
 

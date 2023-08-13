@@ -14,9 +14,11 @@ aliases: ["Lamellar Breastplate"]
 - **Price** 7 gp
 - **Bulk** 2
 - **AC Bonus** +4; **Dex Cap** +1
-- **Strength** 16; **Check Penalty** --2; **Speed Penalty** -5 ft.
+- **Strength** 16; **Check Penalty** -2; **Speed Penalty** -5 ft.
 - **Category** Medium; **Group** Composite 
 
 Slats of lacquered steel or other metal held together with cord, whether leather or silk, make up most lamellar breastplates. The lacquering prevents the metal from corroding.
 
+
+---
 *Source: Treasure Vault p. 9*

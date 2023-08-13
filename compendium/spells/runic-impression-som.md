@@ -13,9 +13,9 @@ aliases: ["Runic Impression"]
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [magus](rules/traits/magus-som.md "Magus Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**touch
-- **Targets**you or one weapon you're wielding
-- **Duration**1 minute
+- **Range**: touch
+- **Targets**: you or one weapon you're wielding
+- **Duration**: 1 minute
 
 Your unarmed attacks or weapon gain the benefits of a weapon rune you choose when you cast this spell: [corrosive](compendium/equipment/items/corrosive.md), [flaming](compendium/equipment/items/flaming.md), [frost](compendium/equipment/items/frost.md), [ghost touch](compendium/equipment/items/ghost-touch.md), [returning](compendium/equipment/items/returning.md), [shock](compendium/equipment/items/shock.md), or [thundering](compendium/equipment/items/thundering.md). If you cast runic impression on a weapon, this spell ends if you cease holding the weapon.
 

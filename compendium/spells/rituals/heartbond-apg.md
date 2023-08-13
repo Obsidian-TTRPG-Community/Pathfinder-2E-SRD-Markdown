@@ -16,7 +16,7 @@ aliases: ["Heartbond"]
 - **Secondary Casters** 2
 - **Primary Checks** [Nature](compendium/skills.md#Nature) or [Religion](compendium/skills.md#Religion) (expert)
 - **Secondary Checks** [Diplomacy](compendium/skills.md#Diplomacy), [Society](compendium/skills.md#Society)
-- **Range**20 feet
+- **Range**: 20 feet
 
 You create a magical bond between two willing creatures, who are secondary casters of the ritual and must share genuine affection for one another. As part of the ritual, both members of the bond receive a ring, amulet, or similar token to symbolize their shared connection. They lose the effects of the ritual when not wearing the token, and the bond is broken if either token is destroyed.
 

@@ -18,9 +18,9 @@ aliases: ["Thunderburst"]
 
 - **Mystery** Oracle
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**100 foot
-- **Area**20-foot burst
-- **Saving Throw** Fortitude
+- **Range**: 100 foot
+- **Area**: 20-foot burst
+- **Saving Throw**: Fortitude
 
 You create a powerful blast of air and a loud peal of thunder, dealing `2d6` bludgeoning damage and `2d6` sonic damage.
 

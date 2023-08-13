@@ -11,10 +11,10 @@ aliases: ["Forgotten Lines"]
 # Forgotten Lines *Spell 4*   
 [divination](rules/traits/divination.md "Divination School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Targets**1 text or remnants thereof
+- **Range**: touch
+- **Targets**: 1 text or remnants thereof
 
 Members of the Lacunafex and other allies use this spell to restore material that Thrune agents have redacted from historical or otherwise valuable texts. You learn one piece of information that was removed from the target text after its creation. You can instead learn one piece of information from a text that had been destroyed, but you must have a fragment of the text, such as a piece of the cover, a page, or even a clasp or metal fittings.
 

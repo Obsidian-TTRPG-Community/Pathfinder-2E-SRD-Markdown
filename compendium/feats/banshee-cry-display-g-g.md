@@ -14,7 +14,7 @@ aliases: ["Banshee Cry Display"]
 You've learned how to pull off a sudden noisemaker at just the right moment in your display, a technique that can disrupt precise wording. You gain the Banshee Cry fireworks display.
 
 ```ad-embed-ability
-title: Banshee Cry [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Banshee Cry** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature within 30 feet [Casts a Spell](rules/actions/cast-a-spell.md) that has a verbal component or [Activates an Item](rules/actions/activate-an-item.md) using a command Activation
 

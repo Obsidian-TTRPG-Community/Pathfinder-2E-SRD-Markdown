@@ -15,9 +15,9 @@ aliases: ["Temporal Distortion"]
 
 - **Mystery** Oracle
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**30 foot
-- **Targets**1 creature
-- **Saving Throw** Will
+- **Range**: 30 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Will
 
 You share some of your own temporal distortions with a foe, altering their mind and body unpredictably as they're thrown backward or forward in time. Roll `1d4`. On a 1, the foe becomes [clumsy](rules/conditions.md#Clumsy); on a 2, it becomes [enfeebled](rules/conditions.md#Enfeebled); on a 3, it becomes [stupefied](rules/conditions.md#Stupefied); and on a 4, you choose which condition applies.
 

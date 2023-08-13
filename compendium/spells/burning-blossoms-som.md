@@ -13,12 +13,12 @@ aliases: ["Burning Blossoms"]
 # Burning Blossoms *Spell 8*   
 [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**120 foot
-- **Area**30-foot radius, 100-foot tall cylinder
-- **Saving Throw** Will
-- **Duration**1 minute
+- **Range**: 120 foot
+- **Area**: 30-foot radius, 100-foot tall cylinder
+- **Saving Throw**: Will
+- **Duration**: 1 minute
 
 An intangible hollow tree sprouts from the ground and grows to towering height, radiating a fiery passion and fascinating viewers. The base of the tree takes up a single square and grows 100 feet upwards, while its branches extend outwards 30 feet, forming the spell's cylindrical area.
 

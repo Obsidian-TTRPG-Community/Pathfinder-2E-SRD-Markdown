@@ -11,10 +11,10 @@ aliases: ["Eject Soul"]
 # Eject Soul *Focus 1*   
 [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
-- **Domains**: [soul](compendium/setting/domains.md#Soul)
+- **Domains** [soul](compendium/setting/domains.md#Soul)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Targets**1 living creature that has a soul
+- **Range**: touch
+- **Targets**: 1 living creature that has a soul
 
 Your touch disrupts the connection between body and soul, possibly forcing the soul out of the body altogether. The target must attempt a Fortitude save. You can allow allies to choose the degree of success instead of rolling a saving throw.
 

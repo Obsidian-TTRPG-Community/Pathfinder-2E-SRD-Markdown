@@ -16,10 +16,12 @@ aliases: ["Dogslicer"]
 
 - **Price** 1 sp
 - **Bulk** L
-- **Damage** `1d6` S
+  - **Damage**: `1d6` S
 - **Hands** 1
 - **Category** Martial; **Group** Sword 
 
 This short, curved, and crude makeshift blade often has holes drilled into it to reduce its weight. It's a favored weapon of goblins.
 
+
+---
 *Source: Core Rulebook p. 281*

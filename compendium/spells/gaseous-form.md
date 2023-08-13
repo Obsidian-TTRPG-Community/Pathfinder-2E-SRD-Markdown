@@ -11,11 +11,11 @@ aliases: ["Gaseous Form"]
 # Gaseous Form *Spell 4*   
 [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Targets**1 willing creature
-- **Duration**5 minutes
+- **Range**: touch
+- **Targets**: 1 willing creature
+- **Duration**: 5 minutes
 
 The target transforms into a vaporous state. In this state, the target is amorphous and loses any item bonus to AC.
 

@@ -21,4 +21,6 @@ If your Strength score is at least 16, you remove the Speed penalty entirely ins
 > [!pf2-note]
 > This armor is exclusive to the Inventor class with the Armor innovation and the Heavy Construction breakthrough armor modification. While you may be able to wear this armor as a different class, everyone but the creator of the armor is untrained in it, even if they would normally be trained (or better) in heavy armor.
 
+
+---
 *Source: Guns & Gears p. 16*

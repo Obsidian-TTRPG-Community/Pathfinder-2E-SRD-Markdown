@@ -18,14 +18,16 @@ aliases: ["Hammer Gun"]
 - **Access** The following regions have access to firearms: Alkenstar, Dongun Hold, Tian Xia, Vudra, Arcadia, Ustalav, the Shackles
 - **Price** 13 gp
 - **Bulk** 2
-- **Ranged**  
-  - **Damage** `1d6` P
+- **Ranged**:  
+  - **Damage**: `1d6` P
   - **Ammunution** round; **Range** 60 ft.; **Reload** 1
-- **Melee**  
-  - **Damage** `1d8` B
+- **Melee**:  
+  - **Damage**: `1d8` B
 - **Hands** 2
 - **Category** Martial
 
 This weapon, favored by dwarves and those who like smashing and shooting, takes the form of a stoutly built gun designed similarly to an arquebus with a hammer head built into the muzzle, decreasing kickback but limiting range.
 
+
+---
 *Source: Guns & Gears p. 158*

@@ -16,14 +16,12 @@ aliases: ["Spike Launcher"]
 A jagged spike of metal shoots from a [hidden](rules/conditions.md#Hidden) launcher.
 
 - **Disable** DC 16 [Thievery](compendium/skills.md#Thievery) to disable one of the four launchers.  
-     
-```ad-embed-ability
-title: or DC
 
-12 [Acrobatics](compendium/skills.md#Acrobatics) to step over a trip line (this doesn't disarm the trap, but avoids triggering it) AC 16; Fort +9, Ref +3 Hardness 3; HP 16 (BT 8); Immunities critical hits, object immunities, precision damage.
+```ad-embed-ability
+title: **or DC** 12 [Acrobatics](compendium/skills.md#Acrobatics) to step over a trip line (this doesn't disarm the trap, but avoids triggering it) AC 16; Fort +9, Ref +3 Hardness 3; HP 16 (BT 8); Immunities critical hits, object immunities, precision damage.
 ```
 ```ad-embed-ability
-title: Spike [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Spike** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature crosses one of the trip lines
 

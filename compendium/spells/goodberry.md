@@ -14,9 +14,9 @@ aliases: ["Goodberry"]
 [druid](rules/traits/druid.md "Druid Class Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Targets**1 ripe berry
-- **Duration**10 minutes
+- **Range**: touch
+- **Targets**: 1 ripe berry
+- **Duration**: 10 minutes
 
 You imbue the target berry with the bounty of nature, turning it into a goodberry that can heal and sustain far beyond its normal capacity. A creature can eat the goodberry with an [Interact](rules/actions/interact.md) action to regain `1d6+4` Hit Points. A berry not consumed during the duration withers away. Every six goodberries consumed gives as much nourishment as one square meal for a typical human.
 

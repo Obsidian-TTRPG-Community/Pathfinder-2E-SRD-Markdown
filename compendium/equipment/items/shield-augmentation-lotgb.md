@@ -19,4 +19,6 @@ There are numerous methods to modify shields—snarling rods to catch weapons, b
 
 A shield augmentation grants your shield one or more weapon traits, chosen when the augmentation is created. You can either choose to add the [backswing](rules/traits/backswing.md "Backswing Weapon Trait") or [forceful](rules/traits/forceful.md "Forceful Weapon Trait") trait, or you can choose two of the following weapon traits: [disarm](rules/traits/disarm.md "Disarm Weapon Trait"), [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait"), [shove](rules/traits/shove.md "Shove Weapon Trait"), [thrown <10 feet>](rules/traits/thrown-10-feet.md "Thrown Weapon Trait"), [trip](rules/traits/trip.md "Trip Weapon Trait"), or versatile S.
 
+
+---
 *Source: Lost Omens: The Grand Bazaar p. 104*

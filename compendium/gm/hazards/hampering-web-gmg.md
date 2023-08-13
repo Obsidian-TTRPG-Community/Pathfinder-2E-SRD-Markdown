@@ -16,14 +16,12 @@ Semitransparent sheets of webbing span the entryway, ready to capture small inse
 
 - **Disable** DC 17 [Survival](compendium/skills.md#Survival) (trained) to dislodge it  
 
-- **AC** 19 , **Fort** +10, **Ref** +11
+- **AC** 19, **Fort** +10, **Ref** +11
 - **HP** 26 (BT 13)
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Ensnare [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Ensnare** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature that isn't a spider walks into the web
 

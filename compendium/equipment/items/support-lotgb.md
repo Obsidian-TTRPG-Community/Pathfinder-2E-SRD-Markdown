@@ -16,4 +16,6 @@ Supports, also commonly known as braces, can be applied to any of the following 
 
 You can still use your limb or joint even if you're not wearing your support, but you might feel aches and pains that are worse than usual and may manifest into physical symptoms.
 
+
+---
 *Source: Lost Omens: The Grand Bazaar p. 69*

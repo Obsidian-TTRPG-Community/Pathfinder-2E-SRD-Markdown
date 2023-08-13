@@ -15,6 +15,4 @@ Exposure to the corrupting influence of the Mana Wastes' strange energies has wa
 
 Choose two ability boosts. One must be to Constitution or Intelligence, and one is a free ability boost.
 
-You're trained in the [Arcana](compendium/skills.md#Arcana) skill and the [Wilderness Lore](compendium/skills.md#Lore) skill.
-
-You gain the [Trick Magic Item](compendium/feats/trick-magic-item.md) skill feat.
+You're trained in the [Arcana](compendium/skills.md#Arcana) skill and the [Wilderness Lore](compendium/skills.md#Lore) skill. You gain the [Trick Magic Item](compendium/feats/trick-magic-item.md) skill feat.

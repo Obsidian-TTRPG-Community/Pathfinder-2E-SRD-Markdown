@@ -14,7 +14,6 @@ In the era before Earthfall, the elven people of Golarion exhibited a wide range
 ```ad-embed-feat
 title: Crystal Keeper Dedication, Feat 4
 collapse: closed
-# Crystal Keeper Dedication  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Prerequisites**: trained in [Elven Lore](compendium/skills.md#Lore) or [Society](compendium/skills.md#Society)
@@ -32,7 +31,6 @@ Additionally, you gain resistance 10 to damage from hazards associated with crys
 ```ad-embed-feat
 title: Crystal Ward Spells, Feat 4
 collapse: closed
-# Crystal Ward Spells  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Crystal Keeper Dedication](compendium/feats/crystal-keeper-dedication-aoa4.md)
@@ -48,7 +46,6 @@ Focus spells are automatically heightened to half your level rounded up. Certain
 ```ad-embed-feat
 title: Simple Crystal Magic, Feat 6
 collapse: closed
-# Simple Crystal Magic  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Crystal Keeper Dedication](compendium/feats/crystal-keeper-dedication-aoa4.md)
@@ -62,7 +59,6 @@ As long as you meditate before a gemstone worth at least 10 gp as part of your d
 ```ad-embed-feat
 title: Armor Rune Shifter, Feat 10
 collapse: closed
-# Armor Rune Shifter  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Crystal Keeper Dedication](compendium/feats/crystal-keeper-dedication-aoa4.md)
@@ -76,7 +72,6 @@ You learn the secrets of armor runes by viewing them through gems and can alter 
 ```ad-embed-feat
 title: Weapon-rune Shifter, Feat 10
 collapse: closed
-# Weapon-rune Shifter  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Crystal Keeper Dedication](compendium/feats/crystal-keeper-dedication-aoa4.md)

@@ -11,11 +11,11 @@ aliases: ["Vampiric Maiden"]
 # Vampiric Maiden *Spell 4*   
 [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 creature
-- **Saving Throw** Fortitude
+- **Range**: 30 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Fortitude
 
 A ghostly iron maiden snaps shut on the target and drains its vitality for your gain. This deals `4d4` piercing damage and `4d4` negative damage, and the target must attempt a Fortitude save. You gain temporary HP equal to the negative damage the target takes (after applying resistances, weaknesses, and the like). You lose any remaining temporary HP after 1 minute.
 

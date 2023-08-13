@@ -11,12 +11,12 @@ aliases: ["Continual Flame"]
 # Continual Flame *Spell 2*   
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [light](rules/traits/light.md "Light Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Cost**6 gp of ruby dust
-- **Range**touch
-- **Targets**1 object
-- **Duration**
+- **Cost**: 6 gp of ruby dust
+- **Range**: touch
+- **Targets**: 1 object
+- 
 
 A magical flame springs up from the object, as bright as a torch.
 

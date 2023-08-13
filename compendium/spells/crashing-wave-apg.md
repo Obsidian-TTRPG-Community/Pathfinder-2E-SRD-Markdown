@@ -12,10 +12,10 @@ aliases: ["Crashing Wave"]
 # Crashing Wave *Spell 3*   
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Area**30-foot cone
-- **Saving Throw**  basic Reflex
+- **Area**: 30-foot cone
+- **Saving Throw**:  basic Reflex
 
 You summon a crashing wave that sweeps away from you. You deal `6d6` bludgeoning damage to creatures in the area. The water also extinguishes non-magical fires in the area.
 

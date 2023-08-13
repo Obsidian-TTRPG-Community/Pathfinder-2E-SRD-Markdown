@@ -17,9 +17,9 @@ aliases: ["Inspire Competence"]
 [bard](rules/traits/bard.md "Bard Class Trait")  [cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [composition](rules/traits/composition.md "Composition Spell Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**60 foot
-- **Targets**1 ally
-- **Duration**1 round
+- **Range**: 60 foot
+- **Targets**: 1 ally
+- **Duration**: 1 round
 
 Your encouragement inspires your ally to succeed at a task.
 

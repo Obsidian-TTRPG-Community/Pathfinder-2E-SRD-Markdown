@@ -19,15 +19,21 @@ aliases: ["Spider Chair"]
 This clockwork traveler's chair has spinnerets and spider legs that allow it to roll up walls, fire web lines to pull you to a location, and obstruct foes with webs. While using the chair, you gain a climb Speed equal to your Speed.
 
 ```ad-embed-ability
-title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
+title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") [Interact](rules/actions/interact.md)
 
-The chair shoots a web line at a solid wall, floor, or ceiling up to 60 feet away and then pulls itself and you to that location.
+- **Frequency**: once per minute
+
+**Effect** The chair shoots a web line at a solid wall, floor, or ceiling up to 60 feet away and then pulls itself and you to that location.
 ```
 
 ```ad-embed-ability
-title: Activate [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")
+title: **Activate** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") [Interact](rules/actions/interact.md)
 
-You cause the chair to launch an enormous web to hinder your foes, with the effects of a 4th-level [web](compendium/spells/web.md) spell.
+- **Frequency**: once per hour
+
+**Effect** You cause the chair to launch an enormous web to hinder your foes, with the effects of a 4th-level [web](compendium/spells/web.md) spell.
 ```
 
+
+---
 *Source: Guns & Gears p. 91*

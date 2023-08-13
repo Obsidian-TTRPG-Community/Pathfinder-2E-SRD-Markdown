@@ -18,10 +18,12 @@ aliases: ["Kusarigama"]
 - **Access** If the player character come from a region in Tian Xia, this weapon is common
 - **Price** 2 gp
 - **Bulk** 1
-- **Damage** `1d8` S
+  - **Damage**: `1d8` S
 - **Hands** 2
 - **Category** Martial; **Group** Knife 
 
 This impressive weapon consists of a weight attached to a kama via a length of chain, which aids with disarming an opponent or attacking from a distance.
 
+
+---
 *Source: Treasure Vault p. 25*

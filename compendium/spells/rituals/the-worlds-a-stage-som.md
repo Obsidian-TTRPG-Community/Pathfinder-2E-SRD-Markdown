@@ -17,6 +17,7 @@ aliases: ["The World's A Stage"]
 - **Secondary Casters** 2 to 12
 - **Primary Checks** [Occultism](compendium/skills.md#Occultism) (expert)
 - **Secondary Checks** [Crafting](compendium/skills.md#Crafting), [Performance](compendium/skills.md#Performance)
+- 
 
 This famous ritual is a sophisticated example of symbolic magic, binding fate and fortune to follow a prepared script. To conduct the ritual, you and the secondary casters must put on a long-form, multi-person, plot-based performance that's usually a play or opera, though more unusual performances have been known. You take the role of the director, while the secondary casters are either actors ([Performance](compendium/skills.md#Performance)) or significant backstage figures, such as set or costume designers ([Crafting](compendium/skills.md#Crafting)). The casting time of the ritual includes both preparations and rehearsals of various sorts and the actual performance, which must be at least an hour long.
 

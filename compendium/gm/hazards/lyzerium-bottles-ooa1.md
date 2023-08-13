@@ -19,14 +19,12 @@ Each bottle explodes when its glass is [broken](rules/conditions.md#Broken).
 
 - **Disable** [Interact](rules/actions/interact.md) action to pick up one of the five bottles (see Lyzerium sidebar on page 63)  
 
-- **AC** 13 , **Fort** +4, **Ref** +6
-- **Bottle  Hardness** 1, **Bottle  HP** 4 (BT 2)
+- **AC** 13, **Fort** +4, **Ref** +6
+- **Bottle Hardness** 1, **Bottle HP** 4 (BT 2)
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Explode [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Explode** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature steps on the bottle or the bottle becomes [broken](rules/conditions.md#Broken)
 

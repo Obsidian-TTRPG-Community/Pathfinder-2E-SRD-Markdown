@@ -10,11 +10,11 @@ aliases: ["Rapid Adaptation"]
 # Rapid Adaptation *Spell 2*   
 [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Targets**your companion or eidolon
-- **Duration**1 hour
+- **Range**: touch
+- **Targets**: your companion or eidolon
+- **Duration**: 1 hour
 
 You flood the target with energy from the terrain around it, compressing centuries of evolution into a single moment.
 

@@ -18,8 +18,8 @@ aliases: ["Consecrate"]
 - **Secondary Casters** 2 must be worshippers of your religion
 - **Primary Checks** [Religion](compendium/skills.md#Religion)
 - **Secondary Checks** [Crafting](compendium/skills.md#Crafting), [Performance](compendium/skills.md#Performance)
-- **Range**40 feet
-- **Area**40-foot-radius burst around an immobile altar, shrine, or fixture of your deity
+- **Range**: 40 feet
+- **Area**: 40-foot-radius burst around an immobile altar, shrine, or fixture of your deity
 
 You consecrate a site to your deity, chanting praises and creating a sacred space. While within the area, worshippers of your deity gain a +1 status bonus to attack rolls, skill checks, saving throws, and [Perception](compendium/skills.md#Perception) checks, and creatures anathema to your deity (such as undead for [Pharasma](compendium/setting/deities/pharasma.md) or [Sarenrae](compendium/setting/deities/sarenrae.md)) take a –1 status penalty to those checks. Attacks made by worshippers of your deity within the area deal 1 damage of one of your deity's alignment types (your choice); if your deity is true neutral, you don't gain this benefit.
 

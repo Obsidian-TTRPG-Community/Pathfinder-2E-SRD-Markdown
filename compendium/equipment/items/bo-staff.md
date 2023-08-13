@@ -15,10 +15,12 @@ aliases: ["Bo Staff"]
 
 - **Price** 2 sp
 - **Bulk** 2
-- **Damage** `1d8` B
+  - **Damage**: `1d8` B
 - **Hands** 2
 - **Category** Martial; **Group** Club 
 
 This strong but slender staff is tapered at the ends and well balanced. It's designed to be an offensive and defensive weapon.
 
+
+---
 *Source: Core Rulebook p. 280*

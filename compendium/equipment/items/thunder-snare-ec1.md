@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/ec1
-- item/category/snare
+- item/category/snare/
 - trait/auditory
 - trait/consumable
 - trait/mechanical
@@ -15,7 +15,7 @@ aliases: ["Thunder Snare"]
 [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [snare](rules/traits/snare.md "Snare Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Price** 6 gp
-- **Category** Snare
+- **Craft Requirements** 1 lesser thunderstone.
 
 The snare makes a thunderous noise when a creature enters the snare's square, which can be heard up to 1,000 feet away. The creature must attempt a DC 18 Fortitude saving throw.
 
@@ -25,4 +25,6 @@ The snare makes a thunderous noise when a creature enters the snare's square, wh
 > - **Failure** As success, and the target also takes 1 sonic damage.
 > - **Critical Failure** As success, and the target also takes `1d4` sonic damage.
 
+
+---
 *Source: Extinction Curse #1: The Show Must Go On p. 76*

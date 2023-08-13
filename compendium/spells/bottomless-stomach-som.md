@@ -11,11 +11,11 @@ aliases: ["Bottomless Stomach"]
 # Bottomless Stomach *Spell 3*   
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [extradimensional](rules/traits/extradimensional.md "Extradimensional Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**touch
-- **Targets**1 willing creature
-- **Duration**1 hour
+- **Range**: touch
+- **Targets**: 1 willing creature
+- **Duration**: 1 hour
 
 You create a shimmering extradimensional space accessible from the target's mouth. The space can hold objects and equipment, up to a total of 10 Bulk. This extradimensional storage doesn't hamper the target's ability to eat, drink, speak (if applicable), or otherwise act, as it only opens and closes when the target chooses.
 

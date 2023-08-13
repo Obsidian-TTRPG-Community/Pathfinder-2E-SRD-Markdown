@@ -12,11 +12,11 @@ aliases: ["Locate"]
 # Locate *Spell 3*   
 [detection](rules/traits/detection.md "Detection Effect Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 10 minutes 
-- **Range**500 foot
-- **Targets**1 specific object or type of object
-- **Duration**sustained
+- **Range**: 500 foot
+- **Targets**: 1 specific object or type of object
+- **Duration**: sustained
 
 You learn the direction to the target (if you picked a specific object, such as "my mother's sword") or the nearest target (if you picked a type of object, such as "swords"). If the target is a specific object, you must have [observed](rules/conditions.md#Observed) it directly with your own senses. If it's a type of object, you still need to have an accurate mental image of the type of object. If there's lead or running water between you and the target, this spell can't locate the object. This means you might find a type of object farther away if the nearest one is behind lead or running water.
 

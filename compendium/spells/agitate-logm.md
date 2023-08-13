@@ -12,12 +12,12 @@ aliases: ["Agitate"]
 # Agitate *Spell 1*   
 [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 creature
-- **Saving Throw** Will
-- **Duration**varies
+- **Range**: 30 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Will
+- **Duration**: varies
 
 You send the target's mind and body into overdrive, forcing it to become restless and hyperactive.
 

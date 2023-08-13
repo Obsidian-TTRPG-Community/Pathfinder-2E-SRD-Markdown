@@ -16,9 +16,9 @@ aliases: ["Sand Whirlwind"]
 Buffeting winds swirl sharp grains of sand about the room.
 
 - **Disable** DC 38 [Religion](compendium/skills.md#Religion) (expert) to state an Iroran koan about being complete only upon recognizing one's incompleteness, or DC 41 [Occultism](compendium/skills.md#Occultism) (master) to create a ward against future hauntings.  
-     
+
 ```ad-embed-ability
-title: Sand Vacuum [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Sand Vacuum** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature attempts to leave the chamber
 
@@ -33,6 +33,7 @@ title: Sand Vacuum [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions
 
 ```ad-pf2-summary
 title: Routine
+
 (1 action) The haunt's violent winds savagely buffet everyone in the room, dealing `6d10+30` bludgeoning damage to living creatures (DC 34 basic Reflex save). On a critically failed save, a creature is also [blinded](rules/conditions.md#Blinded) for 1 minute.
 ```
 ^routine

@@ -16,10 +16,12 @@ aliases: ["Poi"]
 
 - **Price** 2 sp
 - **Bulk** L
-- **Damage** `1d4` B
+  - **Damage**: `1d4` B
 - **Hands** 1
 - **Category** Simple; **Group** Flail 
 
 Poi are light weights tethered to ropes or chains. Performers swing the weights, usually one in each hand, in rhythmic patterns.
 
+
+---
 *Source: Extinction Curse #1: The Show Must Go On p. 77*

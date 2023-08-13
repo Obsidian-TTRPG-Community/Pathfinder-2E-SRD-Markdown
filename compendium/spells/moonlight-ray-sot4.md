@@ -15,10 +15,10 @@ aliases: ["Moonlight Ray"]
 # Moonlight Ray *Spell 3*   
 [attack](rules/traits/attack.md "Attack Combat Trait")  [cold](rules/traits/cold.md "Cold Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [good](rules/traits/good.md "Good Alignment Trait")  [light](rules/traits/light.md "Light Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**120 foot
-- **Targets**1 creature
+- **Range**: 120 foot
+- **Targets**: 1 creature
 
 You unleash a holy beam of freezing moonlight. Make a ranged spell attack. The ray deals `5d6` cold damage; if the target is a fiend or undead, you deal an extra `5d6` good damage. Moonlight ray's cold damage is silver damage for the purposes of weaknesses, resistances, and the like.
 

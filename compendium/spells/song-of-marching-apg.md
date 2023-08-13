@@ -17,8 +17,8 @@ aliases: ["Song Of Marching"]
 [bard](rules/traits/bard.md "Bard Class Trait")  [cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [composition](rules/traits/composition.md "Composition Spell Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Area**60-foot emanation
-- **Duration**sustained up to 1 hour
+- **Area**: 60-foot emanation
+- **Duration**: sustained up to 1 hour
 
 You maintain a brisk performance that keeps allies on the move. You and your allies in the area can [Hustle](rules/actions/hustle.md) for the spell's duration, even though you are also [Sustaining the Spell](rules/actions/sustain-a-spell.md). You and your allies then become temporarily immune for 1 day.
 

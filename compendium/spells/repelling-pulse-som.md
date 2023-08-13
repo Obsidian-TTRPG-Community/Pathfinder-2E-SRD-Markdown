@@ -12,10 +12,10 @@ aliases: ["Repelling Pulse"]
 # Repelling Pulse *Spell 5*   
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Area**30-foot emanation
-- **Saving Throw** Reflex
+- **Area**: 30-foot emanation
+- **Saving Throw**: Reflex
 
 You unleash a powerful pulse of telekinetic power, and the pulse violently hurls creatures away from you. Each creature in the area takes `7d10` force damage depending on its Reflex save.
 

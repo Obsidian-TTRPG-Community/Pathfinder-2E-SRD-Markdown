@@ -14,7 +14,6 @@ Magaambyans attendants have become full members of the Magaambya and begun to le
 ```ad-embed-feat
 title: Magaambyan Attendant Dedication, Feat 2
 collapse: closed
-# Magaambyan Attendant Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: trained in [Arcana](compendium/skills.md#Arcana) or [Nature](compendium/skills.md#Nature), member of the Magaambya of attendant rank
@@ -34,7 +33,6 @@ When you gain this feat, choose to affiliate with the Cascade Bearers, Emerald B
 ```ad-embed-feat
 title: Mask Familiar, Feat 4
 collapse: closed
-# Mask Familiar  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Magaambyan Attendant Dedication](compendium/feats/magaambyan-attendant-dedication-locg.md)
@@ -48,7 +46,6 @@ Your mask takes on a personality of its own, allowing it to serve as your famili
 ```ad-embed-feat
 title: Halcyon Speaker Dedication, Feat 6
 collapse: closed
-# Halcyon Speaker Dedication  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Magaambyan Attendant Dedication](compendium/feats/magaambyan-attendant-dedication-locg.md), member of the Magaambya of conversant rank
@@ -64,7 +61,6 @@ You devote much of your study to halcyon magic. You gain two common Halcyon cant
 ```ad-embed-feat
 title: Adaptive Mask Familiar, Feat 6
 collapse: closed
-# Adaptive Mask Familiar  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Mask Familiar](compendium/feats/mask-familiar-locg.md)
@@ -78,7 +74,6 @@ Your mask familiar adapts quickly to material form, allowing it to gain more fam
 ```ad-embed-feat
 title: Cascade Bearers Flexibility, Feat 6
 collapse: closed
-# Cascade Bearers Flexibility  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 - **Prerequisites**: [Magaambyan Attendant Dedication](compendium/feats/magaambyan-attendant-dedication-locg.md), Cascade Bearers affiliation
@@ -95,7 +90,6 @@ You call upon your Cascade Bearer training to help you adjust a spell for the cu
 ```ad-embed-feat
 title: Emerald Boughs Accustomation, Feat 6
 collapse: closed
-# Emerald Boughs Accustomation  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Magaambyan Attendant Dedication](compendium/feats/magaambyan-attendant-dedication-locg.md), Emerald Boughs affiliation, expert in [Society](compendium/skills.md#Society)
@@ -109,7 +103,6 @@ You are comfortable and socially capable in almost any cultural context. When yo
 ```ad-embed-feat
 title: Rain-scribe Sustenance, Feat 6
 collapse: closed
-# Rain-scribe Sustenance  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Magaambyan Attendant Dedication](compendium/feats/magaambyan-attendant-dedication-locg.md), Rain-Scribes affiliation
@@ -125,7 +118,6 @@ You can draw on primal power to stay awake and alert while otherwise resting you
 ```ad-embed-feat
 title: Tempest-sun Redirection, Feat 6
 collapse: closed
-# Tempest-sun Redirection  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 - **Prerequisites**: [Magaambyan Attendant Dedication](compendium/feats/magaambyan-attendant-dedication-locg.md), Tempest-Sun Mages affiliation
@@ -140,7 +132,6 @@ If the next action you use is to [Cast a Spell](rules/actions/cast-a-spell.md) f
 ```ad-embed-feat
 title: Uzunjati Storytelling, Feat 6
 collapse: closed
-# Uzunjati Storytelling  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Magaambyan Attendant Dedication](compendium/feats/magaambyan-attendant-dedication-locg.md), Uzunjati affiliation, master in a [Recall Knowledge](rules/actions/recall-knowledge.md) skill
@@ -155,7 +146,6 @@ You tell a quick story or begin telling a longer tale. This is most useful when 
 ```ad-embed-feat
 title: Cascade Bearers Spellcasting, Feat 10
 collapse: closed
-# Cascade Bearers Spellcasting  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Magaambyan Attendant Dedication](compendium/feats/magaambyan-attendant-dedication-locg.md), Cascade Bearers affiliation
@@ -169,7 +159,6 @@ Your Cascade Bearer training allows you to broaden the horizons of your halcyon 
 ```ad-embed-feat
 title: Emerald Boughs Hideaway, Feat 10
 collapse: closed
-# Emerald Boughs Hideaway  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Magaambyan Attendant Dedication](compendium/feats/magaambyan-attendant-dedication-locg.md), Emerald Boughs affiliation
@@ -183,7 +172,6 @@ You use Emerald Bough techniques to create a small extradimensional space called
 ```ad-embed-feat
 title: Rain-scribe Mobility, Feat 10
 collapse: closed
-# Rain-scribe Mobility  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Magaambyan Attendant Dedication](compendium/feats/magaambyan-attendant-dedication-locg.md), Rain-Scribes affiliation
@@ -198,7 +186,6 @@ You surround yourself in a mantle of Rain-Scribe magic and [Stride](rules/action
 ```ad-embed-feat
 title: Tempest-sun Shielding, Feat 10
 collapse: closed
-# Tempest-sun Shielding  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Tempest-Sun Redirection](compendium/feats/tempest-sun-redirection-locg.md)
@@ -214,7 +201,6 @@ You transform unrealized spell energy into a protective shield. If you're a spon
 ```ad-embed-feat
 title: Uzunjati Recollection, Feat 10
 collapse: closed
-# Uzunjati Recollection  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Uzunjati Storytelling](compendium/feats/uzunjati-storytelling-locg.md), master in a [Recall Knowledge](rules/actions/recall-knowledge.md) skill
@@ -231,7 +217,6 @@ Halcyon Speaker One of Old-Mage Jatembe's central lessons was that magic was mag
 ```ad-embed-feat
 title: Charged Creation, Feat 12*
 collapse: closed
-# Charged Creation  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Charged Creation](compendium/feats/charged-creation-locg.md) is intended for use with the Magaambyan Attendant Archetype. Its level has been changed accordingly.

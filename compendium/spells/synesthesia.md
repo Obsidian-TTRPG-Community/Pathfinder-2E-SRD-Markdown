@@ -11,12 +11,12 @@ aliases: ["Synesthesia"]
 # Synesthesia *Spell 5*   
 [divination](rules/traits/divination.md "Divination School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions**: [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 creature
-- **Saving Throw** Will
-- **Duration**1 minute
+- **Range**: 30 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Will
+- **Duration**: 1 minute
 
 The target's senses are suddenly rewired in unexpected ways, causing them to process noises as bursts of color, smells as sounds, and so on. This has three effects, and the target must attempt a Will save.
 

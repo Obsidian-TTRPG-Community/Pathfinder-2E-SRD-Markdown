@@ -10,9 +10,10 @@ aliases: ["Iron Gut"]
 # Iron Gut *Spell 2*   
 [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Duration**1 hour
+- 
+- **Duration**: 1 hour
 
 Your mouth, esophagus, and stomach become incredibly elastic and tougher than metal. For the duration of the spell, you can reach down your throat to store or retrieve a single object of light or negligible Bulk in your stomach, as though your stomach were a backpack or other container. Storing and retrieving an item in this way requires an [Interact](rules/actions/interact.md) action.
 

@@ -14,7 +14,8 @@ aliases: ["Shifting Form"]
 [morph](rules/traits/morph.md "Morph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Duration**1 minute
+- 
+- **Duration**: 1 minute
 
 You gain one of the following abilities of your choice. You can [Dismiss](rules/actions/dismiss.md) this spell.
 

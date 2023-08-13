@@ -24,7 +24,6 @@ Misery loves company, so your curse can even be a beacon for more misfortune. Yo
 ````ad-embed-feat
 title: Curse Maelstrom Dedication, Feat 2
 collapse: closed
-# Curse Maelstrom Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Prerequisites**: You are cursed or have previously been cursed.
@@ -40,8 +39,7 @@ No matter the source, you can only enter a curse maelstrom state during an encou
 While in a curse maelstrom state, you can't benefit from [fortune](rules/traits/fortune.md "Fortune Effect Trait") effects, and they also don't cancel [misfortune](rules/traits/misfortune.md "Misfortune Effect Trait") effects on you; they simply have no effect. While in this state, all creatures other than you within a 10-foot emanation take a –1 status penalty to all saving throws and skill checks due to the storm of bad luck swirling out of your body. You gain the Expel Maelstrom action, which you can use to focus the brunt of your curses onto an unlucky target.
 
 ```ad-embed-ability
-title: Expel Maelstrom [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[curse](rules/traits/curse.md "Curse Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
+title: **Expel Maelstrom** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") ([curse](rules/traits/curse.md), [necromancy](rules/traits/necromancy.md), [occult](rules/traits/occult.md))
 
 - **Requirements**: You are in a curse maelstrom state
 
@@ -52,7 +50,9 @@ title: Expel Maelstrom [>](rules/core-rulebook/chapter-9-playing-the-game.md#Act
 > - **Success** The creature comes to house the maelstrom's wrath within it. It takes a –1 status penalty to all saving throws and skill checks for 1 minute.
 > - **Failure** The maelstrom strikes deep into the creature's soul. It takes a –2 status penalty to all saving throws and skill checks for 10 minutes.
 > - **Critical Failure** The maelstrom pitches the creature into a single fit of utter misfortune before burrowing into its soul. As failure, but the creature also must roll twice and take the lower result on its next saving throw or skill check; this is a [misfortune](rules/traits/misfortune.md "Misfortune Effect Trait") effect.  
-%% #trait/curse #trait/necromancy #trait/occult %%
+%%
+ #trait/curse  #trait/necromancy  #trait/occult 
+%%
 ```
 
 *Source: Dark Archive p. 168*  
@@ -62,7 +62,6 @@ title: Expel Maelstrom [>](rules/core-rulebook/chapter-9-playing-the-game.md#Act
 ```ad-embed-feat
 title: Familiar Oddities, Feat 2
 collapse: closed
-# Familiar Oddities  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Curse Maelstrom Dedication](compendium/feats/curse-maelstrom-dedication-da.md), trained in [Occultism](compendium/skills.md#Occultism) or [Curse Lore](compendium/skills.md#Lore)
@@ -76,7 +75,6 @@ Perhaps due to the curse within you, curses occasionally perceive you as an exte
 ```ad-embed-feat
 title: Unnerving Expansion, Feat 4
 collapse: closed
-# Unnerving Expansion  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Curse Maelstrom Dedication](compendium/feats/curse-maelstrom-dedication-da.md)
@@ -91,7 +89,6 @@ You gather your curse around you and impel it to pour outward, expanding your ma
 ```ad-embed-feat
 title: Share Burden, Feat 6
 collapse: closed
-# Share Burden  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Curse Maelstrom Dedication](compendium/feats/curse-maelstrom-dedication-da.md)
@@ -107,7 +104,6 @@ You draw the misfortune or curse into yourself, potentially enabling you to ente
 ```ad-embed-feat
 title: Accursed Magic, Feat 8
 collapse: closed
-# Accursed Magic  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Curse Maelstrom Dedication](compendium/feats/curse-maelstrom-dedication-da.md)
@@ -123,7 +119,6 @@ If you couldn't already cast occult spells, these spells use Wisdom as your spel
 ```ad-embed-feat
 title: Counter Curse, Feat 8
 collapse: closed
-# Counter Curse  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Curse Maelstrom Dedication](compendium/feats/curse-maelstrom-dedication-da.md)
@@ -140,7 +135,6 @@ You gather the energy of your maelstrom and fling its unleashed power into the e
 ```ad-embed-feat
 title: Torrential Backlash, Feat 10
 collapse: closed
-# Torrential Backlash  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Curse Maelstrom Dedication](compendium/feats/curse-maelstrom-dedication-da.md)
@@ -156,7 +150,6 @@ Calling upon forbidden practices, you release the curse from within yourself, al
 ```ad-embed-feat
 title: Reverse Curse, Feat 12*
 collapse: closed
-# Reverse Curse  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Reverse Curse](compendium/feats/reverse-curse-da.md) is intended for use with the Curse Maelstrom Archetype. Its level has been changed accordingly.

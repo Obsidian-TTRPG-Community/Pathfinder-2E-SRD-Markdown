@@ -13,13 +13,13 @@ aliases: ["Fearful Feast"]
 # Fearful Feast *Focus 4*   
 [fear](rules/traits/fear.md "Fear Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains**: [abomination](compendium/setting/domains.md#Abomination)
+- **Domains** [abomination](compendium/setting/domains.md#Abomination)
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
-- **Trigger**A creature within range becomes [frightened](rules/conditions.md#Frightened).
-- **Range**30 foot
-- **Targets**the triggering creature
-- **Saving Throw** Will
-- **Duration**varies
+- **Trigger**: A creature within range becomes [frightened](rules/conditions.md#Frightened).
+- **Range**: 30 foot
+- **Targets**: the triggering creature
+- **Saving Throw**: Will
+- **Duration**: varies
 
 You open your mouth wide and inhale sharply; you draw in the bravery, self-confidence, and hope to which the [frightened](rules/conditions.md#Frightened) target clings and then strip away the target's false assumption that these fragile emotions can save them from the oblivion of terror.
 

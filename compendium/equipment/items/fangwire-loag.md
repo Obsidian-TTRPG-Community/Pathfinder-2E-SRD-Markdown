@@ -18,10 +18,12 @@ aliases: ["Fangwire"]
 
 - **Price** 4 gp
 - **Bulk** L
-- **Damage** `1d4` S
+  - **Damage**: `1d4` S
 - **Hands** 1
 - **Category** Martial; **Group** Brawling 
 
 This kobold wire is thin and hard to see, making it perfect for an ambush. The wielder wraps the wire around a vulnerable spot, such as the neck, and twists it to inflict potentially fatal lacerations. The name derives from the use of a similar wire in traps, or slow fangs, with the word "slow" removed, as a fangwire gets quick results.
 
+
+---
 *Source: Lost Omens: Ancestry Guide p. 139*

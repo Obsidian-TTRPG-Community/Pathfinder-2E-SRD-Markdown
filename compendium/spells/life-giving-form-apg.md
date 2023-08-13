@@ -18,7 +18,8 @@ aliases: ["Life-giving Form"]
 
 - **Mystery** Oracle
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Duration**1 minute
+- 
+- **Duration**: 1 minute
 
 You transcend your physical form, becoming a beacon of healing energy. Your body exudes bright light like a torch.
 

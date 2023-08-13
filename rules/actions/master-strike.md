@@ -14,7 +14,7 @@ aliases: ["Master Strike"]
 
 **Class** rogue
 - **Frequency**: once per round
-- **Trigger** Your [Strike](rules/actions/strike.md) hits a [flat-footed](rules/conditions.md#Flat-footed) creature and deals damage.
+- **Trigger**: Your [Strike](rules/actions/strike.md) hits a [flat-footed](rules/conditions.md#Flat-footed) creature and deals damage.
 - **Activity**: Free Action
 
 The target attempts a Fortitude save at your class DC. It then becomes temporarily immune to your Master Strike for 1 day.

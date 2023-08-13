@@ -12,10 +12,12 @@ aliases: ["Shield Boss"]
 
 - **Price** 5 sp
 - **Bulk** —
-- **Damage** `1d6` B
+  - **Damage**: `1d6` B
 - **Hands** 1
 - **Category** Martial; **Group** Shield 
 
 Typically a round, convex, or conical piece of thick metal attached to the center of a shield, a shield boss increases the bludgeoning damage of a shield bash.
 
+
+---
 *Source: Core Rulebook p. 281*

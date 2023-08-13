@@ -18,4 +18,6 @@ The magical impulse control upgrade attaches the wheelchair to your fingers or n
 
 You still can't move the wheelchair if you're physically or magically prevented from doing so, such as by being [grabbed](rules/conditions.md#Grabbed) or magically [paralyzed](rules/conditions.md#Paralyzed).
 
+
+---
 *Source: Lost Omens: The Grand Bazaar p. 71*

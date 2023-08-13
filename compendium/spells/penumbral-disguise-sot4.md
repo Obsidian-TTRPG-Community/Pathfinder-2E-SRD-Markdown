@@ -12,11 +12,11 @@ aliases: ["Penumbral Disguise"]
 # Penumbral Disguise *Spell 2*   
 [illusion](rules/traits/illusion.md "Illusion School Trait")  [shadow](rules/traits/shadow.md "Shadow General Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Targets**1 willing creature
-- **Duration**10 minutes
+- **Range**: touch
+- **Targets**: 1 willing creature
+- **Duration**: 10 minutes
 
 You wrap the target in shadows, granting them a +1 status bonus to [Stealth](compendium/skills.md#Stealth) checks to [Hide](rules/actions/hide.md) while in dim light or darkness. In addition, the shadows mask the creature's features. While the creature is in dim light or darkness, other creatures must succeed at a [Seek](rules/actions/seek.md) action against the spell's DC to discern details about the target's appearance.
 

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/ec4
-- item/category/held
+- item/category/held/
 - trait/conjuration
 - trait/earth
 - trait/magical
@@ -14,15 +14,16 @@ aliases: ["Stoneraiser Javelin"]
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1200 gp
-- **Usage** held in 1 hand; **Bulk** L
-- **Category** Held
+- **Bulk** L; **Usage** held in 1 hand
 
 This stone-headed +2 striking returning javelin draws forth the power of the earth itself to strike at enemies.
 
 ```ad-embed-ability
-title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
+title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") [Interact](rules/actions/interact.md)
 
-You hurl the stoneraiser javelin at an unoccupied space within 30 feet. The javelin's power flows into the ground, which erupts in a 5-foot-radius burst of razor-sharp stalagmites.
+- **Frequency**: once per day
+
+**Effect** You hurl the stoneraiser javelin at an unoccupied space within 30 feet. The javelin's power flows into the ground, which erupts in a 5-foot-radius burst of razor-sharp stalagmites.
 
 The stalagmites are 10 feet tall. Everything on each side of the stalagmites has cover from creatures on the opposite side, and the stalagmites' spaces are difficult terrain.
 
@@ -39,4 +40,6 @@ Any creature in the area when the stalagmites appear is pushed to the nearest un
 > - **Critical Failure** The creature takes double damage and is knocked [prone](rules/conditions.md#Prone).
 ```
 
+
+---
 *Source: Extinction Curse #4: Siege of the Dinosaurs p. 76*

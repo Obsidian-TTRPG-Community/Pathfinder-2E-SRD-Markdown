@@ -11,10 +11,10 @@ aliases: ["Prismatic Wall"]
 # Prismatic Wall *Spell 8*   
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [light](rules/traits/light.md "Light Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**120 foot
-- **Duration**1 hour
+- **Range**: 120 foot
+- **Duration**: 1 hour
 
 You create an opaque wall of shimmering, multicolored light.
 

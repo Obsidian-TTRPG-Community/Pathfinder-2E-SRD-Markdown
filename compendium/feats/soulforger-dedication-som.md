@@ -18,8 +18,7 @@ You can manifest the power of your spirit in combat to realize your motivations.
 You can Manifest Soulforged Armament to summon your armaments in combat.
 
 ```ad-embed-ability
-title: Manifest Soulforged Armament [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [extradimensional](rules/traits/extradimensional.md "Extradimensional Effect Trait")  
+title: **Manifest Soulforged Armament** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") ([concentrate](rules/traits/concentrate.md), [conjuration](rules/traits/conjuration.md), [divine](rules/traits/divine.md), [extradimensional](rules/traits/extradimensional.md))
 
 - **Requirements**: If summoning a weapon or shield, you have the hands free to wield it; if summoning armor, you aren't wearing any armor
 
@@ -28,7 +27,9 @@ title: Manifest Soulforged Armament [>](rules/core-rulebook/chapter-9-playing-th
 Once per day when you use this ability, you can manifest the armament's essence form. You gain the armament's essence power until it's Dismissed.
 
 After 1 minute, the essence form armament is automatically Dismissed.  
-%% #trait/concentrate #trait/conjuration #trait/divine #trait/extradimensional %%
+%%
+ #trait/concentrate  #trait/conjuration  #trait/divine  #trait/extradimensional 
+%%
 ```
 
 **Special.** You can't select another dedication feat before gaining two other feats from this archetype.

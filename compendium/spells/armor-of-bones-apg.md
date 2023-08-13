@@ -15,7 +15,8 @@ aliases: ["Armor Of Bones"]
 
 - **Mystery** Oracle
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Duration**1 minute
+- 
+- **Duration**: 1 minute
 
 You ossify your physical form, mimicking the durability of bone. You gain resistance 3 to cold, electricity, fire, piercing, and slashing damage.
 

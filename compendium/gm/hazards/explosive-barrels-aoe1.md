@@ -17,14 +17,12 @@ Wooden barrels marked with an oil-drop symbol catch fire and explode.
 
 - **Disable** [Survival](compendium/skills.md#Survival) DC 20 to smother the flames without rupturing the barrels.  
 
-- **AC** 15 , **Fort** +11, **Ref** +3
+- **AC** 15, **Fort** +11, **Ref** +3
 - **Hardness** 1, **HP** 5
 - **Immunities** object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Explode [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Explode** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: 4 rounds pass after the agents' arrival without anyone smothering them
 

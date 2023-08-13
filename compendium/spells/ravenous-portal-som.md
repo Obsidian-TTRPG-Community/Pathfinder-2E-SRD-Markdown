@@ -10,11 +10,11 @@ aliases: ["Ravenous Portal"]
 # Ravenous Portal *Spell 4*   
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**30 foot
-- **Targets**1 door no more than 10 feet tall and 5 feet wide
-- **Duration**1 hour
+- **Range**: 30 foot
+- **Targets**: 1 door no more than 10 feet tall and 5 feet wide
+- **Duration**: 1 hour
 
 You place a ward upon the door that triggers when a creature attempts to open, unlock, or destroy the door.
 

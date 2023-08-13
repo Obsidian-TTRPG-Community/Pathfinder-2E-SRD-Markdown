@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/gmg
-- item/category/held
+- item/category/held/
 - trait/conjuration
 - trait/cursed
 - trait/extradimensional
@@ -14,8 +14,7 @@ aliases: ["Bag Of Weasels"]
 # Bag Of Weasels *Item 4*  
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [extradimensional](rules/traits/extradimensional.md "Extradimensional Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Usage** held in 2 hands; **Bulk** 1
-- **Category** Held
+- **Bulk** 1; **Usage** held in 2 hands
 
 This item appears to be and functions as a type I bag of holding, until you try to retrieve an item from the bag.
 
@@ -25,4 +24,6 @@ This weasel has the statistics of a giant rat, except that it is Tiny and exudes
 
 Because the weasel is a transformed item, you don't gain any benefit you would receive from attacking a creature, defeating one, damaging one, or the like, but you do gain any benefit you would gain from destroying an item.
 
+
+---
 *Source: Gamemastery Guide p. 90*

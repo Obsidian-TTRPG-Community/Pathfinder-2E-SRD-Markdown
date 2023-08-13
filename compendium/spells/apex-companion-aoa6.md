@@ -14,9 +14,9 @@ aliases: ["Apex Companion"]
 [druid](rules/traits/druid.md "Druid Class Trait")  [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 animal companion in your service
-- **Duration**1 minute
+- **Range**: 30 foot
+- **Targets**: 1 animal companion in your service
+- **Duration**: 1 minute
 
 You focus on the energies of all members of your animal companion's species, transforming your animal companion into its apex battle form. Your animal companion gains the following statistics and abilities while in its apex form.
 

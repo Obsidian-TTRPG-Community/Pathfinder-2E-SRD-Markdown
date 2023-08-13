@@ -14,7 +14,6 @@ You are a feller of trees and a skilled axe wielder, trained in the art of fores
 ```ad-embed-feat
 title: Turpin Rowe Lumberjack Dedication, Feat 2
 collapse: closed
-# Turpin Rowe Lumberjack Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: You must befriend at least one Turpin Rowe logger.
@@ -31,7 +30,6 @@ Your logging training has made you intimately familiar with all aspects of fores
 ```ad-embed-feat
 title: Axe Climber, Feat 4
 collapse: closed
-# Axe Climber  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Turpin Rowe Lumberjack Dedication](compendium/feats/turpin-rowe-lumberjack-dedication-ec3.md)
@@ -45,7 +43,6 @@ When you are climbing a wooden surface and have a hatchet or battle axe in each 
 ```ad-embed-feat
 title: Log Roll, Feat 4
 collapse: closed
-# Log Roll  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Turpin Rowe Lumberjack Dedication](compendium/feats/turpin-rowe-lumberjack-dedication-ec3.md)
@@ -63,7 +60,6 @@ Attempt an [Acrobatics](compendium/skills.md#Acrobatics) check against the adjac
 ```ad-embed-feat
 title: Axe Thrower, Feat 6
 collapse: closed
-# Axe Thrower  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Turpin Rowe Lumberjack Dedication](compendium/feats/turpin-rowe-lumberjack-dedication-ec3.md)
@@ -77,7 +73,6 @@ You have mastered the weight and balance of a variety of axes and can lob them w
 ```ad-embed-feat
 title: Widen The Gap, Feat 10
 collapse: closed
-# Widen The Gap  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Turpin Rowe Lumberjack Dedication](compendium/feats/turpin-rowe-lumberjack-dedication-ec3.md)

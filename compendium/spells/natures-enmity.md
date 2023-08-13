@@ -11,12 +11,12 @@ aliases: ["Nature's Enmity"]
 # Nature's Enmity *Spell 9*   
 [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**120 foot
-- **Area**500-foot burst
-- **Targets**up to 5 creatures
-- **Duration**10 minutes
+- **Range**: 120 foot
+- **Area**: 500-foot burst
+- **Targets**: up to 5 creatures
+- **Duration**: 10 minutes
 
 Animals and plants and fungi in the area turn against the targets. Each target suffers from the following effects as long as it remains in the area.
 

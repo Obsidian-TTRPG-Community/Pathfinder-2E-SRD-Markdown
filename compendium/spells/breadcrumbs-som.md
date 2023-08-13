@@ -10,11 +10,11 @@ aliases: ["Breadcrumbs"]
 # Breadcrumbs *Spell 1*   
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** 1 minute 
-- **Range**touch
-- **Targets**1 willing creature
-- **Duration**1 hour
+- **Range**: touch
+- **Targets**: 1 willing creature
+- **Duration**: 1 hour
 
 You protect your target from going astray in [hostile](rules/conditions.md#Hostile) territory by tracking where it's already been, helping it deduce where it still needs to go. The target leaves a glittering trail behind it that lasts for the spell's duration.
 

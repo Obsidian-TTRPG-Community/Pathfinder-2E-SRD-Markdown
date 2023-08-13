@@ -15,8 +15,8 @@ aliases: ["Inveigle"]
 - **Cast** 1 day
 - **Cost** rare oils worth a total value of 10 gp × the target's level
 - **Primary Checks** [Arcana](compendium/skills.md#Arcana) (expert), [Occultism](compendium/skills.md#Occultism) (expert), or [Religion](compendium/skills.md#Religion) (expert)
-- **Range**10 feet
-- **Targets**1 creature of a level no greater than double the inveigle ritual's level
+- **Range**: 10 feet
+- **Targets**: 1 creature of a level no greater than double the inveigle ritual's level
 
 You win over the target's mind, causing it to see you as a close and trusted friend and look upon your every suggestion as reasonable. The target is [helpful](rules/conditions.md#Helpful) toward you, so it will go out of its way to help you. As with any other [helpful](rules/conditions.md#Helpful) creature, there are limits to what you can ask of it. If you ever ask the target to do something completely against its nature or needlessly harmful to the target or its interests, not only does it refuse, but it also can attempt a Will save to end the effect early. Because of the casting time and range, it's generally difficult to cast this ritual unless the target is willing (perhaps convinced the ritual will have some other effect) or [restrained](rules/conditions.md#Restrained).
 

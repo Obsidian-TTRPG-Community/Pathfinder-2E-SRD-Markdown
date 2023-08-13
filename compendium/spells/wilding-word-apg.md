@@ -16,10 +16,10 @@ aliases: ["Wilding Word"]
 
 - **Patron** Witch
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**30 foot
-- **Targets**1 animal, fungus, or plant
-- **Saving Throw** Will
-- **Duration**sustained up to 1 minute
+- **Range**: 30 foot
+- **Targets**: 1 animal, fungus, or plant
+- **Saving Throw**: Will
+- **Duration**: sustained up to 1 minute
 
 With a few words, you convince a wild creature you are a kindred spirit, making it reluctant to harm you. The target must attempt a Will save. Regardless of the outcome, the target is then temporarily immune for 1 minute.
 

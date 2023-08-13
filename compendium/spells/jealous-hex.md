@@ -15,10 +15,10 @@ aliases: ["Jealous Hex"]
 
 - **Bloodline** Sorcerer
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**30 foot
-- **Targets**1 creature
-- **Saving Throw** Will
-- **Duration**up to 1 minute
+- **Range**: 30 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Will
+- **Duration**: up to 1 minute
 
 You draw forth a hag's innate jealousy to deny a target its greatest attribute. The target gains an adverse condition depending on its highest ability modifier: Strength ([enfeebled](rules/conditions.md#Enfeebled)); Dexterity ([clumsy](rules/conditions.md#Clumsy)); Constitution ([drained](rules/conditions.md#Drained)); or Intelligence, Wisdom, or Charisma ([stupefied](rules/conditions.md#Stupefied)). On a tie, the creature decides which of the conditions associated with the tied ability modifiers to take. The target must attempt a Will save.
 

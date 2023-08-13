@@ -12,12 +12,12 @@ aliases: ["Befuddle"]
 # Befuddle *Spell 1*   
 [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 creature
-- **Saving Throw**  basic Will
-- **Duration**1 round
+- **Range**: 30 foot
+- **Targets**: 1 creature
+- **Saving Throw**:  basic Will
+- **Duration**: 1 round
 
 You sow seeds of confusion in your target's mind, causing their actions and thoughts to become [clumsy](rules/conditions.md#Clumsy).
 

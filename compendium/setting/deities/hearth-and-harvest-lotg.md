@@ -17,7 +17,7 @@ aliases: ["Hearth and Harvest"]
 
 - **Category**: Pantheon
 - **Anathema**: allow harm to come to children, destroy shelter, refuse to provide for the family or community
-- **Areas of Concern**: community, , harvest, , home, , protection of family and children
+- **Areas of Concern**: community, harvest, home, protection of family and children
 - **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")
 
 ## Devotee benefits

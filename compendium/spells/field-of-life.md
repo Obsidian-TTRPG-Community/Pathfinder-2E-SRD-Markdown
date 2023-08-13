@@ -13,11 +13,11 @@ aliases: ["Field Of Life"]
 # Field Of Life *Spell 6*   
 [healing](rules/traits/healing.md "Healing Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Area**20-foot burst
-- **Duration**sustained up to 1 minute
+- **Range**: 30 foot
+- **Area**: 20-foot burst
+- **Duration**: sustained up to 1 minute
 
 A field of positive energy fills the area, exuding warmth and rejuvenating those within. Each living creature that starts its turn in the area regains `1d8` Hit Points, and any undead creature that starts its turn in the area takes `1d8` positive damage.
 

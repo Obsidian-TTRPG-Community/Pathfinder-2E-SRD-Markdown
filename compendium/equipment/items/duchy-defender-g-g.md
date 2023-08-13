@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/g&g
-- item/category/held
+- item/category/held/
 - trait/conjuration
 - trait/intelligent
 - trait/lg
@@ -14,8 +14,7 @@ aliases: ["Duchy Defender"]
 # Duchy Defender *Item 13*  
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [intelligent](rules/traits/intelligent-gmg.md "Intelligent Item Trait")  [lg](rules/traits/lg-b1.md "Lawful Good Alignment Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Usage** held in 2 hands; **Bulk** 1
-- **Category** Held
+- **Bulk** 1; **Usage** held in 2 hands
 
 Patriotic to the extreme, this flintlock musket was among the first firearms forged in the Gunworks and was wielded by Ancil Alkenstar, founder of the Grand Duchy of Alkenstar. In Alkenstar's hands, the musket was used to defend the burgeoning Grand Duchy from outside threats, including mutants of the Mana Wastes, Nexian constructs, and undead from Geb. After Ancil's death, the weapon was passed down, per his own decree, not to his heirs but to the greatest defender of Alkenstar, as determined by the weapon's previous owner. Over time, the devotion and heroism of each successive wielder left a psychic imprint on the weapon, until it developed an intellect and drive of its own.
 
@@ -26,17 +25,23 @@ If you break the laws of Alkenstar, a duchy defender goes out of its way to call
 If the weapon is removed from the Grand Duchy of Alkenstar without a reason that directly benefits the duchy, the duchy defender transports itself away, reappearing in the hands of a previous worthy owner, or elsewhere in Alkenstar if no such previous owner lives. In the hands of a worthy owner, a duchy defender is nearly impossible to steal, since it transports itself back to you at the first opportunity after someone takes it, and it grants you a +2 circumstance bonus to their Reflex DC to resist being disarmed of it.
 
 ```ad-embed-ability
-title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
+title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") command
 
-The duchy defender focuses its will on a single target it can see and who it knows is guilty of committing a crime within Alkenstar's borders. The next time the duchy defender damages this target, it deals an additional `2d8` precision damage.
+- **Frequency**: once per round
+
+**Effect** The duchy defender focuses its will on a single target it can see and who it knows is guilty of committing a crime within Alkenstar's borders. The next time the duchy defender damages this target, it deals an additional `2d8` precision damage.
 ```
 
 ```ad-embed-ability
-title: Activate [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  
+title: **Activate** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") command ([conjuration](rules/traits/conjuration.md), [magical](rules/traits/magical.md), [teleportation](rules/traits/teleportation.md))
+
 
 The duchy defender travels through the air at a speed faster than light, returning to the hands of a previous owner who has been deemed worthy. If the owner's hands are full, the duchy defender instead appears on the ground in their space. If there is no previous owner the duchy defender deems worthy that lives, it instead travels to a random public location within Alkenstar. Traveling to an unknown location is draining; after doing so, the duchy defender can't transport itself anywhere for `1d4` days.  
-%% #trait/conjuration #trait/magical #trait/teleportation %%
+%%
+ #trait/conjuration  #trait/magical  #trait/teleportation 
+%%
 ```
 
+
+---
 *Source: Guns & Gears p. 162*

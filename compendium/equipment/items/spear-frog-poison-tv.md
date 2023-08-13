@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/injury
@@ -14,9 +14,8 @@ aliases: ["Spear Frog Poison"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [injury](rules/traits/injury.md "Injury Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Price** 3 gp
-- **Usage** held in 2 hands; **Bulk** L
+- **Bulk** L; **Usage** held in 2 hands
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 Harvested from the skin of the poisonous spear frog, this toxin causes a burning rash and weakness in the limbs. Each frog yields enough toxin to [Craft](rules/actions/craft.md) one dose of spear frog poison.
 
@@ -32,4 +31,6 @@ title: Saving Throw: DC 15 Fortitude
 **Stage 2** `1d6` poison damage and [enfeebled](rules/conditions.md#Enfeebled) (1 round)
 ```
 
+
+---
 *Source: Treasure Vault p. 71*

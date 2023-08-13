@@ -14,10 +14,12 @@ aliases: ["Urumi"]
 
 - **Price** 2 gp
 - **Bulk** 2
-- **Damage** `1d6` S
+  - **Damage**: `1d6` S
 - **Hands** 1
 - **Category** Martial; **Group** Flail 
 
 A bouquet of whiplike blades extends from the hilt of this sword, enabling deadly, sweeping attacks.
 
+
+---
 *Source: Treasure Vault p. 25*

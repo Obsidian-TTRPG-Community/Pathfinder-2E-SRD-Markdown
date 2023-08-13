@@ -11,12 +11,12 @@ aliases: ["Draw The Lightning"]
 # Draw The Lightning *Spell 4*   
 [electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**120 foot
-- **Targets**1 creature that is either taller than you or higher in the air than you
-- **Saving Throw** Reflex
-- **Duration**1 minute
+- **Range**: 120 foot
+- **Targets**: 1 creature that is either taller than you or higher in the air than you
+- **Saving Throw**: Reflex
+- **Duration**: 1 minute
 
 Calling out to the skies, you summon a bolt of lightning to strike through a foe above you and down into your weapon or your body, charging it with electrical power.
 

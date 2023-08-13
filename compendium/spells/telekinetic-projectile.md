@@ -12,10 +12,10 @@ aliases: ["Telekinetic Projectile"]
 # Telekinetic Projectile *Cantrip 1*   
 [attack](rules/traits/attack.md "Attack Combat Trait")  [cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 creature
+- **Range**: 30 foot
+- **Targets**: 1 creature
 
 You hurl a loose, unattended object that is within range and that has 1 Bulk or less at the target. Make a spell attack roll against the target. If you hit, you deal bludgeoning, piercing, or slashing damage—as appropriate for the object you hurled—equal to `1d6` plus your spellcasting ability modifier.
 

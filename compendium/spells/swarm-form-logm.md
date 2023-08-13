@@ -11,9 +11,10 @@ aliases: ["Swarm Form"]
 # Swarm Form *Focus 4*   
 [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Domains**: [swarm](compendium/setting/domains.md#Swarm)
+- **Domains** [swarm](compendium/setting/domains.md#Swarm)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Duration**5 minutes
+- 
+- **Duration**: 5 minutes
 
 You discorporate into a swarm of Tiny creatures. While in swarm form, you have the [swarm](rules/traits/swarm-b1.md "Swarm Creature Trait") trait and you gain resistance 5 to slashing and piercing damage and weakness 5 to area and splash damage. You can fit into spaces only a few inches wide, moving your constituent creatures through the gap.
 

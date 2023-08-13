@@ -6,7 +6,7 @@ tags:
 - trait/monk
 aliases: ["One-inch Punch"]
 ---
-# One-inch Punch  [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies") *Feat 6*  
+# One-inch Punch  [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies") Varies ([>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") OR [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")) *Feat 6*  
 [monk](rules/traits/monk.md "Monk Class Trait")  
 
 - **Prerequisites**: expert strikes

@@ -12,9 +12,10 @@ aliases: ["Daemon Form"]
 # Daemon Form *Spell 6*   
 [evil](rules/traits/evil.md "Evil Alignment Trait")  [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Duration**1 minute
+- 
+- **Duration**: 1 minute
 
 You infuse yourself with the corrupting death and pure malevolence of Abaddon, transforming into a Large daemon battle form. You must have enough space to expand into or the spell is lost. When you cast this spell you choose either ceustodaemon, leukodaemon, meladaemon, or piscodaemon. The battle form is Medium if you choose ceustodaemon. While in this form, you gain the [daemon](rules/traits/daemon-b1.md "Daemon Creature Trait") and [fiend](rules/traits/fiend.md "Fiend Creature Type Trait") traits. You have hands in this battle form and can use manipulate actions. You can [Dismiss](rules/actions/dismiss.md) the spell.
 

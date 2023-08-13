@@ -13,10 +13,10 @@ aliases: ["Tanglefoot"]
 # Tanglefoot *Cantrip 1*   
 [attack](rules/traits/attack.md "Attack Combat Trait")  [cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 creature
+- **Range**: 30 foot
+- **Targets**: 1 creature
 
 A vine covered in sticky sap appears from thin air, flicking from your hand and lashing itself to the target. Attempt a spell attack against the target.
 

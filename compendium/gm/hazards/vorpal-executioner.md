@@ -17,25 +17,22 @@ A wickedly sharp saw blade descends and travels along grooves in a complex path 
 
 - **Disable** [Thievery](compendium/skills.md#Thievery) DC 41 (expert) at four different junctions to jam all the saw blade's possible paths, preventing it from traveling through the room.  
 
-- **AC** 43 , **Fort** +32, **Ref** +32
+- **AC** 43, **Fort** +32, **Ref** +32
 - **Hardness** 30, **HP** 120 (BT 60) per junction
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Total Decapitation [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[attack](rules/traits/attack.md "Attack Combat Trait")  [death](rules/traits/death.md "Death Effect Trait")  
+title: **Total Decapitation** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([attack](rules/traits/attack.md), [death](rules/traits/death.md))
 
 - **Trigger**: A creature attempts to exit the room.
 
 **Effect** The saw blade travels along its path, making one [Strike](rules/actions/strike.md) against each creature in the room, twisting and varying its height for a maximum chance of beheading its targets.  
-%% #trait/attack #trait/death %%
+%%
+ #trait/attack  #trait/death 
+%%
 ```
 ```ad-embed-ability
-title: Decapitation
-
-On a critical hit, a target must succeed at a DC 39 Fortitude save or be decapitated, [dying](rules/conditions.md#Dying) instantly unless it can survive without a head.
+title: **Decapitation** On a critical hit, a target must succeed at a DC 39 Fortitude save or be decapitated, [dying](rules/conditions.md#Dying) instantly unless it can survive without a head.
 ```
 
 **Reset** The trap resets over the course of the round and can be triggered again 1 round later.  

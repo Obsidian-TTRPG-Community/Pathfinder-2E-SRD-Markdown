@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/g&g
-- item/category/consumable
+- item/category/consumable/
 - trait/clockwork
 - trait/consumable
 - trait/gadget
@@ -14,9 +14,8 @@ aliases: ["Instant Spy"]
 [clockwork](rules/traits/clockwork-g-g.md "Clockwork  Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [gadget](rules/traits/gadget-g-g.md "Gadget  Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 5 gp
-- **Usage** held in 1 hand; **Bulk** L
+- **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Consumable
 
 An instant spy is a tiny clockwork device that is small enough to be easily [hidden](rules/conditions.md#Hidden). It contains the same audio-recording mechanisms as a clockwork spy, as well as a short-lived gemstone that can store up to 1 hour of sound to play back later.
 
@@ -26,4 +25,6 @@ When the recording is complete, once within the next 24 hours, you or another cr
 
 This prevents the information from falling into the wrong hands later. It's typical to use the [Conceal an Object](rules/actions/conceal-an-object.md) action to hide an instant spy in a location once you've activated it, since if you don't hide it, it's relatively easy to discover in a thorough search, despite the fact that it's small and relatively unobtrusive.
 
+
+---
 *Source: Guns & Gears p. 70*

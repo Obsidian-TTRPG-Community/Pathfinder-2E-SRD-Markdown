@@ -13,11 +13,11 @@ aliases: ["Swampcall"]
 # Swampcall *Spell 1*   
 [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Area**10-foot burst
-- **Duration**1 minute
+- **Range**: 30 foot
+- **Area**: 10-foot burst
+- **Duration**: 1 minute
 
 You call upon the spirits of the soil to twist and churn, transforming the terrain in the targeted area into a sodden mess. The area becomes difficult terrain. Creatures in the area when you Cast this Spell must attempt a Reflex saving throw.
 

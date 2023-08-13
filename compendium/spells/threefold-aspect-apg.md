@@ -11,9 +11,10 @@ aliases: ["Threefold Aspect"]
 # Threefold Aspect *Spell 3*   
 [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** 1 minute 
-- **Duration**until the next time you make your daily preparations
+- 
+- **Duration**: until the next time you make your daily preparations
 
 This spell allows you to change between three versions of yourself of different ages: a maiden (young adult), a mother (adult), or a matriarch (elderly). Choose one when you [Cast the Spell](rules/actions/cast-a-spell.md). While the spell lasts, you can change the age to any of the three or to your natural age with a single action, which has the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") trait. Your form always looks like you regardless of the age, and creatures who know you still recognize you and can tell your age is different.
 

@@ -17,6 +17,7 @@ aliases: ["Guardian's Aegis"]
 - **Secondary Casters** 1
 - **Primary Checks** [Occultism](compendium/skills.md#Occultism) or [Religion](compendium/skills.md#Religion)
 - **Secondary Checks** [Athletics](compendium/skills.md#Athletics), [Diplomacy](compendium/skills.md#Diplomacy), or [Society](compendium/skills.md#Society)
+- 
 
 The guardian's aegis is a ritual used across numerous cultures to bind a chosen guardian and ward together so that they can complete a quest of great import. When the ritual is completed, designate one of the casters as the guardian, while the other is the ward. As long as you're on the same plane of existence, both of you are always aware of each other's relative directions and state of being, including any conditions the other is affected by. As long as you're within 30 feet of each other, whenever the ward takes damage, the damage is reduced by the amount equal to half the guardian's level, and the guardian loses an equal number of Hit Points; the target still takes additional effects like poison even if guardian's aegis reduces the damage to 0.
 

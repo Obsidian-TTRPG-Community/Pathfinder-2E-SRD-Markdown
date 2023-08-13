@@ -552,6 +552,7 @@ cssclass: pf2e,pf2e-index
 - [Know Direction](know-direction.md)
 - [Know The Enemy](know-the-enemy.md)
 - [Lament](lament-logm.md)
+- [Lashunta's Life Bubble](lashuntas-life-bubble-gw1.md)
 - [Lay On Hands](lay-on-hands.md)
 - [Leng Sting](leng-sting-aoe4.md)
 - [Levitate](levitate.md)

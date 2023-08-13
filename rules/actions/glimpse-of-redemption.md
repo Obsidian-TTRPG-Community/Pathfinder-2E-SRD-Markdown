@@ -12,7 +12,7 @@ aliases: ["Glimpse of Redemption"]
 *Source: Core Rulebook p. 107*  
 
 **Class** champion; **Subclass** Redeemer
-- **Trigger** An enemy damages your ally, and both are within 15 feet of you.
+- **Trigger**: An enemy damages your ally, and both are within 15 feet of you.
 - **Activity**: Reaction
 
 Your foe hesitates under the weight of sin as visions of redemption play in their mind's eye. The foe must choose one of the following options

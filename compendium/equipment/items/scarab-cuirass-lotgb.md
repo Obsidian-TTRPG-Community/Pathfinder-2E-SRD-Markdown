@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/lotgb
-- item/category/armor
+- item/category/armor/
 - trait/abjuration
 - trait/invested
 - trait/magical
@@ -14,15 +14,18 @@ aliases: ["Scarab Cuirass"]
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1000 gp
-- **Usage** worn armor; **Bulk** 1
-- **Category** Armor
+- **Craft Requirements** Supply one casting of pest form.
+- **Bulk** 1; **Usage** worn armor
 
 The cuirass of this +1 deathless (see above) resilient leather armor, stitched to resemble an Osiriani scarab beetle, feels strangely chitinous. You gain resistance 5 to negative damage.
 
 ```ad-embed-ability
-title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
+title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") command, [Interact](rules/actions/interact.md)
+
 
 You cast a 1st-level [pest form](compendium/spells/pest-form.md). You can only become a scarab beetle.
 ```
 
+
+---
 *Source: Lost Omens: The Grand Bazaar p. 10*

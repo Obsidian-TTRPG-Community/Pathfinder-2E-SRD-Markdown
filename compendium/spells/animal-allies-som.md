@@ -11,10 +11,10 @@ aliases: ["Animal Allies"]
 # Animal Allies *Spell 1*   
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Area**5-foot emanation
-- **Saving Throw**  basic Reflex
+- **Area**: 5-foot emanation
+- **Saving Throw**:  basic Reflex
 
 You summon tiny, ordinary animals from the environment, such as insects, birds, or fish, to quickly lash out at nearby foes. The animals swarm around the creatures in the area, dealing each of them `3d4` piercing damage with a basic Reflex save.
 

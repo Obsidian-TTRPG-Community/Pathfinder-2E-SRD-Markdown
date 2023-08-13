@@ -13,7 +13,8 @@ aliases: ["Familiar Form"]
 [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Duration**1 minute
+- 
+- **Duration**: 1 minute
 
 You transform into a Tiny animal that commonly serves as a spellcaster's familiar. You gain the effects of the spell [pest form](compendium/spells/pest-form.md), heightened to the level of familiar form you cast. However, you can transform into only a bat, cat, raven, snake, or other Tiny animal of a type that you have seen serve as a spellcaster's familiar.
 

@@ -11,10 +11,10 @@ aliases: ["Thoughtful Gift"]
 # Thoughtful Gift *Spell 1*   
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**120 foot
-- **Targets**1 willing creature
+- **Range**: 120 foot
+- **Targets**: 1 willing creature
 
 You teleport one object of light or negligible Bulk held in your hand to the target. The object appears instantly in the target's hand, if they have a free hand, or at their feet if they don't. The target knows what object you are attempting to send them.
 

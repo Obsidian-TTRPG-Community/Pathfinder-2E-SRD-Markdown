@@ -12,10 +12,10 @@ aliases: ["Pillars Of Sand"]
 # Pillars Of Sand *Spell 5*   
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**120 foot
-- **Duration**sustained up to 1 minute
+- **Range**: 120 foot
+- **Duration**: sustained up to 1 minute
 
 You raise one or more pillars of solid sand from the earth. The total height of the pillars is 30 feet, which must be used in 10-foot increments (for example, you could create three 10-foot-tall pillars, one 20-foot-tall pillar and one 10-foot-tall pillar, or one 30-foot-tall pillar). Each pillar is 5 feet by 5 feet in length and width. The pillars must be conjured on a relatively flat area of natural earthen terrain such as sand, dirt, stone, or clay. Regardless of the terrain, the pillars are always made of tightly compacted sand particles that together become as hard and solid as stone (DC 15 [Athletics](compendium/skills.md#Athletics) to [Climb](rules/actions/climb.md))
 

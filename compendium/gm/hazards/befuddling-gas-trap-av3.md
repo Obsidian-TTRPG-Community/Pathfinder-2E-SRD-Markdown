@@ -18,26 +18,24 @@ Seven nozzles [hidden](rules/conditions.md#Hidden) within holes in the 15-foot-h
 
 - **Disable** DC 33 [Thievery](compendium/skills.md#Thievery) (master) to disable the [hidden](rules/conditions.md#Hidden) mechanism on the north wall, immediately sucking the gas from the room, or DC 29 [Thievery](compendium/skills.md#Thievery) (expert) to adequately plug one of the seven nozzles. When all seven nozzles are plugged or destroyed, the trap is deactivated.  
 
-- **AC** 31 , **Fort** +24, **Ref** +18
+- **AC** 31, **Fort** +24, **Ref** +18
 - **Nozzle Hardness** 20, **Nozzle HP** 32 (BT 16)
-- **Immunities** 
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Gas Release [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[inhaled](rules/traits/inhaled.md "Inhaled Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
+title: **Gas Release** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([inhaled](rules/traits/inhaled.md), [mental](rules/traits/mental.md), [poison](rules/traits/poison.md))
 
 - **Trigger**: Both secret doors are closed and at least one creature is in the room
 
 **Effect** Gas fills the chamber. Creatures within the chamber must succeed on a DC 30 Fortitude save or become [stupefied](rules/conditions.md#Stupefied) ([stupefied](rules/conditions.md#Stupefied) on a critical failure). The trap then rolls initiative.  
-%% #trait/inhaled #trait/mental #trait/poison %%
+%%
+ #trait/inhaled  #trait/mental  #trait/poison 
+%%
 ```
 
 ```ad-pf2-summary
 title: Routine
-(1 action) The gas intensifies. Each creature in the room must make a DC 30 Fortitude save.
 
+(1 action) The gas intensifies. Each creature in the room must make a DC 30 Fortitude save.
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected and becomes temporarily immune to the gas for 1 hour, though if the creature has already been [stupefied](rules/conditions.md#Stupefied) by the trap, that condition remains for its normal duration.
 > - **Success** The creature is unaffected.

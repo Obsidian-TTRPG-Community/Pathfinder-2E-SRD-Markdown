@@ -16,4 +16,6 @@ aliases: ["Leather"]
 
 A mix of flexible and molded boiled leather, a suit of this type of armor provides some protection with maximum flexibility.
 
+
+---
 *Source: Core Rulebook p. 275*

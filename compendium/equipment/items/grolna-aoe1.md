@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/aoe1
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/drug
@@ -16,9 +16,8 @@ aliases: ["Grolna"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [drug](rules/traits/drug-gmg.md "Drug Item Trait")  [ingested](rules/traits/ingested.md "Ingested Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 3 gp
-- **Usage** held in 1 hand; **Bulk** L
+- **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 This caligni-made, murky-green drug supercharges a creature's olfactory senses at the expense of dulling their mind. Popular throughout the Darklands for its ability to transform normally dull scents and flavors into intense, euphoric experiences, grolna can also be a great aid to trackers who want to follow scent trails, turning ordinary humanoids into effective bloodhounds.
 
@@ -37,4 +36,6 @@ title: Saving Throw: DC 13 Fortitude
 **Stage 2** [stupefied](rules/conditions.md#Stupefied) (6 hours)
 ```
 
+
+---
 *Source: Agents of Edgewatch #1: Devil at the Dreaming Palace p. 81*

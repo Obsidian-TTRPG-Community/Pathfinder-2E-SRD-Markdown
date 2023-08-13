@@ -17,7 +17,7 @@ aliases: ["Ward Domain"]
 - **Secondary Casters** 3
 - **Primary Checks** [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), or [Occultism](compendium/skills.md#Occultism) (master)
 - **Secondary Checks** [Lore](compendium/skills.md#Lore) (any), [Survival](compendium/skills.md#Survival), [Thievery](compendium/skills.md#Thievery)
-- **Area**100 feet × 100 feet, up to 50 feet high
+- **Area**: 100 feet × 100 feet, up to 50 feet high
 
 This ritual has long been used to guard the private sanctums of powerful rulers, spellcasters, and other figures of import. You and the other casters spend the casting time burning incense, anointing doorframes, and drawing lines of powered silver across entryways. The ritual creates the following magical effects within the area; these effects are heightened to the level of _ward domain_ and remain throughout the duration.
 

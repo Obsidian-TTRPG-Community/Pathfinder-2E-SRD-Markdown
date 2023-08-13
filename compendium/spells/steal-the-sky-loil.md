@@ -13,9 +13,9 @@ aliases: ["Steal the Sky"]
 [air](rules/traits/air.md "Air Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
-- **Trigger**You make a successful unarmed [Strike](rules/actions/strike.md) against a flying creature.
-- **Targets**the creature you hit
-- **Saving Throw** Fortitude or Fortitude
+- **Trigger**: You make a successful unarmed [Strike](rules/actions/strike.md) against a flying creature.
+- **Targets**: the creature you hit
+- **Saving Throw**: Fortitude or Fortitude
 
 You deny a flying creature the support of the air.
 

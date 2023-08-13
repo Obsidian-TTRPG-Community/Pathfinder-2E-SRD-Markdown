@@ -13,8 +13,9 @@ aliases: ["Cinder Gaze"]
 # Cinder Gaze *Focus 1*   
 [cleric](rules/traits/cleric.md "Cleric Class Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [prediction](rules/traits/prediction.md "Prediction Effect Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Domains**: [fire (apocryphal)](compendium/setting/domains.md#Fire)
+- **Domains** [fire (apocryphal)](compendium/setting/domains.md#Fire)
 - **Cast** 1 minute 
+- 
 
 You've learned to read the future in the patterns of flames and smoke. Though inexact and often symbolic, these readings help prepare you for upcoming events. When Casting this Spell, you must be near a fire (of any size) for the duration.
 

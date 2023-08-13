@@ -19,7 +19,6 @@ The swashbuckler archetype is a great fit for martial characters who want to be 
 ```ad-embed-feat
 title: Swashbuckler Dedication, Feat 2
 collapse: closed
-# Swashbuckler Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [multiclass](rules/traits/multiclass.md "Multiclass Feat Trait")  
 
 - **Prerequisites**: Charisma 14, Dexterity 14
@@ -37,7 +36,6 @@ You also become trained in swashbuckler class DC. You don't gain any other effec
 ```ad-embed-feat
 title: Basic Flair, Feat 4
 collapse: closed
-# Basic Flair  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Swashbuckler Dedication](compendium/feats/swashbuckler-dedication-apg.md)
@@ -51,7 +49,6 @@ You gain a 1st- or 2nd-level swashbuckler of your choice.
 ```ad-embed-feat
 title: Finishing Precision, Feat 4
 collapse: closed
-# Finishing Precision  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Swashbuckler Dedication](compendium/feats/swashbuckler-dedication-apg.md)
@@ -67,7 +64,6 @@ Basic Finisher [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Si
 ```ad-embed-feat
 title: Advanced Flair, Feat 6
 collapse: closed
-# Advanced Flair  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Flair](compendium/feats/basic-flair-apg.md)
@@ -83,7 +79,6 @@ You gain one swashbuckler feat. For the purpose of meeting its prerequisites, yo
 ```ad-embed-feat
 title: Swashbuckler's Riposte, Feat 6
 collapse: closed
-# Swashbuckler's Riposte  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Swashbuckler Dedication](compendium/feats/swashbuckler-dedication-apg.md)
@@ -97,7 +92,6 @@ You've learned to riposte against ill-conceived attacks. You gain the Opportune 
 ```ad-embed-feat
 title: Swashbuckler's Speed, Feat 8
 collapse: closed
-# Swashbuckler's Speed  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Swashbuckler Dedication](compendium/feats/swashbuckler-dedication-apg.md)
@@ -111,7 +105,6 @@ You move faster, with or without panache. Increase the status bonus to your Spee
 ```ad-embed-feat
 title: Evasiveness, Feat 12*
 collapse: closed
-# Evasiveness  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Evasiveness](compendium/feats/evasiveness-apg.md) is intended for use with the Swashbuckler Archetype. Its level has been changed accordingly.

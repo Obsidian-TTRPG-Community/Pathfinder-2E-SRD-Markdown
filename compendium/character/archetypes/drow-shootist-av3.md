@@ -14,7 +14,6 @@ Some drow take skill with the hand crossbow to new heights. You've learned the s
 ````ad-embed-feat
 title: Drow Shootist Dedication, Feat 2
 collapse: closed
-# Drow Shootist Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: trained in the [hand crossbow](compendium/equipment/items/hand-crossbow.md)
@@ -22,9 +21,11 @@ collapse: closed
 Every chance you get, you practice with the hand crossbow to increase your draw speed and accuracy. Whenever you gain a class feature that grants you expert or greater proficiency in a given weapon or weapons, you also gain that proficiency in the hand crossbow. If you're at least an expert in a hand crossbow you're using, you gain access to its critical specialization effect. You also gain the Shootist's Draw action.
 
 ```ad-embed-ability
-title: Shootist's Draw [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
+title: **Shootist's Draw** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 
-You [Interact](rules/actions/interact.md) to draw a hand crossbow and [Strike](rules/actions/strike.md) with it, or you [Strike](rules/actions/strike.md) with a loaded hand crossbow you're already holding and then [Interact](rules/actions/interact.md) to stow it.
+- **Frequency**: once per round
+
+**Effect** You [Interact](rules/actions/interact.md) to draw a hand crossbow and [Strike](rules/actions/strike.md) with it, or you [Strike](rules/actions/strike.md) with a loaded hand crossbow you're already holding and then [Interact](rules/actions/interact.md) to stow it.
 ```
 
 **Special.** You can't select another dedication feat until you've gained two other feats from the drow shootist archetype.
@@ -36,7 +37,6 @@ You [Interact](rules/actions/interact.md) to draw a hand crossbow and [Strike](r
 ```ad-embed-feat
 title: Repeating Hand Crossbow Training, Feat 4
 collapse: closed
-# Repeating Hand Crossbow Training  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Drow Shootist Dedication](compendium/feats/drow-shootist-dedication-av3.md)
@@ -52,7 +52,6 @@ You become trained in the [repeating hand crossbow](compendium/equipment/items/r
 ```ad-embed-feat
 title: Reloading Trick, Feat 6
 collapse: closed
-# Reloading Trick  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 
 - **Prerequisites**: [Drow Shootist Dedication](compendium/feats/drow-shootist-dedication-av3.md)
@@ -71,7 +70,6 @@ You can fire off a single shot even when unprepared. You [Interact](rules/action
 ```ad-embed-feat
 title: Lethargy Poisoner, Feat 8
 collapse: closed
-# Lethargy Poisoner  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Drow Shootist Dedication](compendium/feats/drow-shootist-dedication-av3.md), trained in [Crafting](compendium/skills.md#Crafting)

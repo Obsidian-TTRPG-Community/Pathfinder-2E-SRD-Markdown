@@ -12,11 +12,11 @@ aliases: ["Breath Of Life"]
 # Breath Of Life *Spell 5*   
 [healing](rules/traits/healing.md "Healing Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait")
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
-- **Trigger**A living creature within range would die.
-- **Range**60 foot
-- **Targets**the triggering creature
+- **Trigger**: A living creature within range would die.
+- **Range**: 60 foot
+- **Targets**: the triggering creature
 
 Your blessing revives a creature at the moment of its death.
 

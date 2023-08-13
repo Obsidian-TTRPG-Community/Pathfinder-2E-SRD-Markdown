@@ -14,12 +14,12 @@ aliases: ["Aromatic Lure"]
 # Aromatic Lure *Spell 4*   
 [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**60 foot
-- **Targets**1 creature
-- **Saving Throw** Will
-- **Duration**varies
+- **Range**: 60 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Will
+- **Duration**: varies
 
 You override a target's olfactory senses, luring them to a specific location through tantalizing false scents. Select a single square within range that is not hazardous or occupied by a creature. The target is drawn to the selected location, becoming euphoric upon arrival. The target must attempt a Will save.
 

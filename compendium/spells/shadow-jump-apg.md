@@ -14,8 +14,8 @@ aliases: ["Shadow Jump"]
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [shadow](rules/traits/shadow.md "Shadow General Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Requirements**You are in dim light or darkness.
-- **Range**120 foot
+- **Requirements**: You are in dim light or darkness.
+- **Range**: 120 foot
 
 You instantly transport yourself from one shadow to another.
 

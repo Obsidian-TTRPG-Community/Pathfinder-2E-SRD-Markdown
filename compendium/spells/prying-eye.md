@@ -11,10 +11,10 @@ aliases: ["Prying Eye"]
 # Prying Eye *Spell 5*   
 [divination](rules/traits/divination.md "Divination School Trait")  [scrying](rules/traits/scrying.md "Scrying Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 1 minute 
-- **Range**see text
-- **Duration**sustained
+- **Range**: see text
+- **Duration**: sustained
 
 You create an [invisible](rules/conditions.md#Invisible), floating eye, 1 inch in diameter, at a location you can see within 500 feet. It sees in all directions with your normal visual senses and continuously transmits what it sees to you.
 

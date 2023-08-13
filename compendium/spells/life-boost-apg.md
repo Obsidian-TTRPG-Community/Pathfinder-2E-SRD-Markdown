@@ -15,9 +15,9 @@ aliases: ["Life Boost"]
 [healing](rules/traits/healing.md "Healing Effect Trait")  [hex](rules/traits/hex-apg.md "Hex Combat Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [witch](rules/traits/witch-apg.md "Witch Class Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**30 foot
-- **Targets**1 creature
-- **Duration**4 rounds
+- **Range**: 30 foot
+- **Targets**: 1 creature
+- **Duration**: 4 rounds
 
 You temporarily bolster the target's vitality. The target gains fast healing equal to double the spell's level.
 

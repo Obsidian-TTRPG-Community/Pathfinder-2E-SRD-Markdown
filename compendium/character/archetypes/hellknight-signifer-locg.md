@@ -14,7 +14,6 @@ Signifers are the powerful and enigmatic Hellknight spellcasters who support and
 ```ad-embed-feat
 title: Hellknight Signifer Dedication, Feat 6
 collapse: closed
-# Hellknight Signifer Dedication  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: spellcasting class feature, [Hellknight Armiger Dedication](compendium/feats/hellknight-armiger-dedication-lowg.md), lawful alignment, member of a Hellknight order, passed the Hellknight Test
@@ -30,7 +29,6 @@ You have bolstered your force of will with the power of the Measure and the Chai
 ```ad-embed-feat
 title: Masked Casting, Feat 8
 collapse: closed
-# Masked Casting  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Hellknight Signifer Dedication](compendium/feats/hellknight-signifer-dedication-locg.md)
@@ -47,7 +45,6 @@ You harness the magical energy flowing through your eyeless mask to effortlessly
 ```ad-embed-feat
 title: Gaze Of Veracity, Feat 10
 collapse: closed
-# Gaze Of Veracity  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Hellknight Signifer Dedication](compendium/feats/hellknight-signifer-dedication-locg.md), ability to cast focus spells
@@ -61,7 +58,6 @@ You can channel your mask's power to pierce through lies and see the truth in an
 ```ad-embed-feat
 title: Signifer's Sight, Feat 10
 collapse: closed
-# Signifer's Sight  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Hellknight Signifer Dedication](compendium/feats/hellknight-signifer-dedication-locg.md)
@@ -75,7 +71,6 @@ The magic flowing through your signifer's mask allows you to see in the dark, an
 ```ad-embed-feat
 title: Advanced Order Training, Feat 12*
 collapse: closed
-# Advanced Order Training  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 > [!pf2-note] This version of [Advanced Order Training](compendium/feats/advanced-order-training-locg.md) is intended for use with the Hellknight Signifer Archetype. Its level has been changed accordingly.
@@ -91,7 +86,6 @@ You gain the greater order benefit for the Hellknight order to which you belong.
 ```ad-embed-feat
 title: Hellknight Order Cross-training, Feat 12*
 collapse: closed
-# Hellknight Order Cross-training  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [hellknight](rules/traits/hellknight-locg.md "Hellknight  Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 > [!pf2-note] This version of [Hellknight Order Cross-training](compendium/feats/hellknight-order-cross-training-locg.md) is intended for use with the Hellknight Signifer Archetype. Its level has been changed accordingly.
@@ -109,7 +103,6 @@ You gain the lesser order benefit of a Hellknight order other than the one to wh
 ```ad-embed-feat
 title: Signifer Armor Expertise, Feat 12*
 collapse: closed
-# Signifer Armor Expertise  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Signifer Armor Expertise](compendium/feats/signifer-armor-expertise-locg.md) is intended for use with the Hellknight Signifer Archetype. Its level has been changed accordingly.

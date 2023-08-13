@@ -11,11 +11,11 @@ aliases: ["Shattering Gem"]
 # Shattering Gem *Spell 1*   
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [earth](rules/traits/earth.md "Earth Energy & Element Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Targets**1 creature
-- **Duration**1 minute
+- **Range**: touch
+- **Targets**: 1 creature
+- **Duration**: 1 minute
 
 A large gem floats around the target in an erratic pattern. The gem has 5 Hit Points. Each time a creature [Strikes](rules/actions/strike.md) the target, the target attempts a DC 11 flat check. On a success, the gem blocks the attack, so the attack first damages the gem and then applies any remaining damage to the target. If the gem is reduced to 0 Hit Points, it shatters, immediately dealing the creature that destroyed it `1d8` slashing damage (basic Reflex save), as long as that creature is within 10 feet of the target.
 

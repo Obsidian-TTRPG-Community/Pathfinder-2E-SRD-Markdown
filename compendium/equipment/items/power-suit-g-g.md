@@ -17,4 +17,6 @@ aliases: ["Power Suit"]
 > [!pf2-note]
 > This armor is exclusive to the Inventor class with the Armor innovation. While you may be able to wear this armor as a different class, everyone but the creator of the armor is untrained in it, even if they would normally be trained (or better) in medium armor.
 
+
+---
 *Source: Guns & Gears p. 16*

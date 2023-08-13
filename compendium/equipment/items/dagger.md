@@ -15,10 +15,12 @@ aliases: ["Dagger"]
 
 - **Price** 2 sp
 - **Bulk** L
-- **Damage** `1d4` P
+  - **Damage**: `1d4` P
 - **Hands** 1
 - **Category** Simple; **Group** Knife 
 
 This small, bladed weapon is held in one hand and used to stab a creature in close combat. It can also be thrown.
 
+
+---
 *Source: Core Rulebook p. 280*

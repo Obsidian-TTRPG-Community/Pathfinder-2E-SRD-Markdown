@@ -12,10 +12,10 @@ aliases: ["Pummeling Rubble"]
 # Pummeling Rubble *Spell 1*   
 [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Area**15-foot cone
-- **Saving Throw** Reflex
+- **Area**: 15-foot cone
+- **Saving Throw**: Reflex
 
 A spray of heavy rocks flies through the air in front of you. The rubble deals `2d4` bludgeoning damage to each creature in the area. Each creature must attempt a Reflex save.
 

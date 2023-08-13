@@ -15,7 +15,6 @@ You've mixed physical combat with spellcasting.
 ```ad-embed-feat
 title: Magus Dedication, Feat 2
 collapse: closed
-# Magus Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [multiclass](rules/traits/multiclass.md "Multiclass Feat Trait")  
 
 - **Prerequisites**: Strength or Dexterity 14, Intelligence 14
@@ -33,7 +32,6 @@ You become trained in simple weapons.
 ```ad-embed-feat
 title: Basic Martial Magic, Feat 4
 collapse: closed
-# Basic Martial Magic  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Magus Dedication](compendium/feats/magus-dedication-som.md)
@@ -47,7 +45,6 @@ You gain a 1st- or 2nd-level magus feat of your choice.
 ```ad-embed-feat
 title: Hybrid Study Spell, Feat 4
 collapse: closed
-# Hybrid Study Spell  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Magus Dedication](compendium/feats/magus-dedication-som.md)
@@ -61,7 +58,6 @@ Gain the conflux spell from a hybrid study of your choice. If you don't already 
 ```ad-embed-feat
 title: Spellstriker, Feat 4
 collapse: closed
-# Spellstriker  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Magus Dedication](compendium/feats/magus-dedication-som.md)
@@ -75,7 +71,6 @@ You gain the magus's [Spellstrike](rules/actions/spellstrike-som.md) activity. Y
 ```ad-embed-feat
 title: Advanced Martial Magic, Feat 6
 collapse: closed
-# Advanced Martial Magic  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Martial Magic](compendium/feats/basic-martial-magic-som.md)
@@ -91,7 +86,6 @@ You gain one magus feat. For the purpose of meeting its prerequisites, your magu
 ```ad-embed-feat
 title: Basic Magus Spellcasting, Feat 6
 collapse: closed
-# Basic Magus Spellcasting  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Magus Dedication](compendium/feats/magus-dedication-som.md)
@@ -105,7 +99,6 @@ You gain the basic bounded spellcasting benefits.
 ```ad-embed-feat
 title: Expert Magus Spellcasting, Feat 12*
 collapse: closed
-# Expert Magus Spellcasting  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Expert Magus Spellcasting](compendium/feats/expert-magus-spellcasting-som.md) is intended for use with the Magus Archetype. Its level has been changed accordingly.
@@ -121,7 +114,6 @@ You gain the expert bounded spellcasting benefits.
 ```ad-embed-feat
 title: Master Magus Spellcasting, Feat 18*
 collapse: closed
-# Master Magus Spellcasting  *Feat 18*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Master Magus Spellcasting](compendium/feats/master-magus-spellcasting-som.md) is intended for use with the Magus Archetype. Its level has been changed accordingly.

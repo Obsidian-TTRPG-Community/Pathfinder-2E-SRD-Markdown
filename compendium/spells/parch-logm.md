@@ -11,11 +11,11 @@ aliases: ["Parch"]
 # Parch *Focus 1*   
 [air](rules/traits/air.md "Air Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
-- **Domains**: [dust](compendium/setting/domains.md#Dust)
+- **Domains** [dust](compendium/setting/domains.md#Dust)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**60 foot
-- **Targets**1 creature
-- **Saving Throw** Fortitude
+- **Range**: 60 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Fortitude
 
 Dry winds dehydrate a creature. The target must attempt a Fortitude save; if used on a creature with the [water](rules/traits/water.md "Water Energy & Element Trait") trait or a creature made primarily of liquid (such as many oozes), the creature uses the outcome for one degree of success worse than the result. Creatures whose bodies contain no significant moisture (such as earth elementals) are immune to parch.
 

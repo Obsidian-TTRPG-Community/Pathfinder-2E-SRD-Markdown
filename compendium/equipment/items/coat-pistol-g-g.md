@@ -16,11 +16,13 @@ aliases: ["Coat Pistol"]
 - **Access** The following regions have access to firearms: Alkenstar, Dongun Hold, Tian Xia, Vudra, Arcadia, Ustalav, the Shackles
 - **Price** 6 gp
 - **Bulk** L
-- **Damage** `1d4` P
-- **Range** 30 ft.; **Reload** 1
+  - **Damage**: `1d4` P
+  - **Range** 30 ft.; **Reload** 1
 - **Hands** 1
 - **Category** Simple; **Group** Firearm 
 
 This small pistol is easily concealed inside a jacket or some other article of clothing. Rarely kept as a primary weapon, coat pistols are equally favored by clever assassins and traveling Alkenstar aristocrats.
 
+
+---
 *Source: Guns & Gears p. 151*

@@ -20,14 +20,12 @@ The bowl releases a wave of negative energy when a living creature approaches wi
 
 - **Disable** DC 22 [Thievery](compendium/skills.md#Thievery) (expert) to remove the bowl without triggering the magic, or dispel magic (2nd level, counteract DC 20) to counteract the runes  
 
-- **AC** 21 , **Fort** +14, **Ref** +14
+- **AC** 21, **Fort** +14, **Ref** +14
 - **Hardness** 12, **HP** 46 (BT 23)
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Necromantic Wave [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Necromantic Wave** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A living creature approaches within 10 feet of the bowl without displaying a religious symbol of Venexus
 

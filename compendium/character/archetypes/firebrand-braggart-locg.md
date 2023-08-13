@@ -14,7 +14,6 @@ Many Firebrands travel the Inner Sea region drawing attention to themselves, mak
 ```ad-embed-feat
 title: Firebrand Braggart Dedication, Feat 4
 collapse: closed
-# Firebrand Braggart Dedication  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [misfortune](rules/traits/misfortune.md "Misfortune Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: Charisma 14, second mark member of the Firebrands
@@ -37,7 +36,6 @@ Typically a challenging task is one with at least a standard DC for your level, 
 ```ad-embed-feat
 title: Boaster's Challenge, Feat 6
 collapse: closed
-# Boaster's Challenge  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 - **Prerequisites**: expert in [Deception](compendium/skills.md#Deception), [Diplomacy](compendium/skills.md#Diplomacy), or [Intimidation](compendium/skills.md#Intimidation); [Firebrand Braggart Dedication](compendium/feats/firebrand-braggart-dedication-locg.md)
@@ -52,7 +50,6 @@ You call out a foe, causing them to become flustered and easier to defeat. Selec
 ```ad-embed-feat
 title: Daring Act, Feat 6
 collapse: closed
-# Daring Act  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: trained in [Acrobatics](compendium/skills.md#Acrobatics) or [Athletics](compendium/skills.md#Athletics), [Firebrand Braggart Dedication](compendium/feats/firebrand-braggart-dedication-locg.md)
@@ -67,7 +64,6 @@ You attempt a death-defying maneuver to distract your enemies. Select one foe wi
 ```ad-embed-feat
 title: Bravo's Determination, Feat 8
 collapse: closed
-# Bravo's Determination  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: expert in [Deception](compendium/skills.md#Deception), [Firebrand Braggart Dedication](compendium/feats/firebrand-braggart-dedication-locg.md)
@@ -87,7 +83,6 @@ Your confidence borders on self-delusion, but it keeps you going against overwhe
 ```ad-embed-feat
 title: Great Boaster, Feat 8
 collapse: closed
-# Great Boaster  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: Charisma 16, [Firebrand Braggart Dedication](compendium/feats/firebrand-braggart-dedication-locg.md)
@@ -101,7 +96,6 @@ Your bragging is particularly effective. If you succeed at a boast, you can atte
 ```ad-embed-feat
 title: Daring Flourish, Feat 10
 collapse: closed
-# Daring Flourish  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Daring Act](compendium/feats/daring-act-locg.md)
@@ -115,7 +109,6 @@ You make quick use of an opening from your daring stunts. At the end of a succes
 ```ad-embed-feat
 title: Demanding Challenge, Feat 10
 collapse: closed
-# Demanding Challenge  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Boaster's Challenge](compendium/feats/boasters-challenge-locg.md)
@@ -129,7 +122,6 @@ If your skill check to challenge a foe is a success, the target of your challeng
 ```ad-embed-feat
 title: Daredevil's Gambit, Feat 12*
 collapse: closed
-# Daredevil's Gambit  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Daredevil's Gambit](compendium/feats/daredevils-gambit-locg.md) is intended for use with the Firebrand Braggart Archetype. Its level has been changed accordingly.

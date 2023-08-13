@@ -12,11 +12,11 @@ aliases: ["Bless"]
 # Bless *Spell 1*   
 [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Area**5-foot emanation
-- **Targets**you and allies in the area
-- **Duration**1 minute
+- **Area**: 5-foot emanation
+- **Targets**: you and allies in the area
+- **Duration**: 1 minute
 
 Blessings from beyond help your companions strike true.
 

@@ -14,7 +14,6 @@ The Chime-Ringers serve as Nantambu's elite town guard, keeping the peace while 
 ```ad-embed-feat
 title: Nantambu Chime-Ringer Dedication, Feat 2
 collapse: closed
-# Nantambu Chime-Ringer Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: trained in [Performance](compendium/skills.md#Performance) and [Society](compendium/skills.md#Society)
@@ -30,7 +29,6 @@ You've studied the basics of harmony and resonance in magic, exemplified by the 
 ```ad-embed-feat
 title: Fleet Tempo, Feat 4
 collapse: closed
-# Fleet Tempo  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Prerequisites**: [Nantambu Chime-Ringer Dedication](compendium/feats/nantambu-chime-ringer-dedication-sot2.md)
@@ -46,7 +44,6 @@ To rush after a criminal or reach someone in need, you ring a sprightly tone. Yo
 ```ad-embed-feat
 title: Deny The Songs Of War, Feat 10
 collapse: closed
-# Deny The Songs Of War  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Nantambu Chime-Ringer Dedication](compendium/feats/nantambu-chime-ringer-dedication-sot2.md)
@@ -62,7 +59,6 @@ You can cast [deafness](compendium/spells/deafness.md) and 4th-level [silence](c
 ```ad-embed-feat
 title: Sing To The Steel, Feat 12*
 collapse: closed
-# Sing To The Steel  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
 > [!pf2-note] This version of [Sing To The Steel](compendium/feats/sing-to-the-steel-sot2.md) is intended for use with the Nantambu Chime-Ringer Archetype. Its level has been changed accordingly.
@@ -86,7 +82,6 @@ You can use an action, which has the [concentrate](rules/traits/concentrate.md "
 ```ad-embed-feat
 title: Song Of Grace And Speed, Feat 16*
 collapse: closed
-# Song Of Grace And Speed  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 16*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 > [!pf2-note] This version of [Song Of Grace And Speed](compendium/feats/song-of-grace-and-speed-sot2.md) is intended for use with the Nantambu Chime-Ringer Archetype. Its level has been changed accordingly.

@@ -10,11 +10,11 @@ aliases: ["Enhance Victuals"]
 # Enhance Victuals *Spell 2*   
 [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** 1 minute 
-- **Range**touch
-- **Targets**up to 1 gallon of non-magical water or up to 5 pounds of food
-- **Duration**1 hour
+- **Range**: touch
+- **Targets**: up to 1 gallon of non-magical water or up to 5 pounds of food
+- **Duration**: 1 hour
 
 You transform the target into delicious fare, changing water into wine or another fine beverage or enhancing the food's taste and ingredients to make it a gourmet treat.
 

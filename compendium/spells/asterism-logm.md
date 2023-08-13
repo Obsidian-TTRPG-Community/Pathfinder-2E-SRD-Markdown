@@ -11,11 +11,11 @@ aliases: ["Asterism"]
 # Asterism *Focus 4*   
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [light](rules/traits/light.md "Light Effect Trait")  
 
-- **Domains**: [star](compendium/setting/domains.md#Star)
+- **Domains** [star](compendium/setting/domains.md#Star)
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**150 foot
-- **Saving Throw**  basic Reflex
-- **Duration**1 minute
+- **Range**: 150 foot
+- **Saving Throw**:  basic Reflex
+- **Duration**: 1 minute
 
 Lines of burning starlight form a constellation around you.
 

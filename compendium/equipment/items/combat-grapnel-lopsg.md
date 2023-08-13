@@ -16,10 +16,12 @@ aliases: ["Combat Grapnel"]
 
 - **Price** 9 sp
 - **Bulk** 1
-- **Damage** `1d6` P
+  - **Damage**: `1d6` P
 - **Hands** 2
 - **Category** Martial; **Group** Flail 
 
 Although grappling hooks typically serve as a climbing tool, this specially reinforced grapnel attached to a rope up to 10 feet long can be swung as a weapon. This is a martial melee weapon.
 
+
+---
 *Source: Lost Omens: Pathfinder Society Guide p. 81*

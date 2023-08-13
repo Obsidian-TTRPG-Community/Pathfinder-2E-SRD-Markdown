@@ -19,7 +19,7 @@ aliases: ["Norgorber", "Blackfingers", "Father Skinsaw", "Gray Master", "Reaper 
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: allow your true identity to be connected to your dark dealings, share a secret freely, show mercy
-- **Areas of Concern**: greed, , murder, , poison, , and secrets
+- **Areas of Concern**: greed, murder, poison, and secrets
 - **Follower Alignments**: [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"), [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait")
 
 ## Devotee benefits
@@ -35,8 +35,9 @@ aliases: ["Norgorber", "Blackfingers", "Father Skinsaw", "Gray Master", "Reaper 
 title: [Avatar](compendium/spells/avatar.md) of Norgorber
 
 - **Speed**: Speed 70 feet, [air walk](compendium/spells/air-walk.md), ignore difficult terrain and greater difficult terrain
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") shortsword ([agile](rules/traits/agile.md "Agile Weapon Trait"), [finesse](rules/traits/finesse.md "Finesse Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [versatile <s>](rules/traits/versatile-s.md "Versatile Weapon Trait")), **Damage** `6d6+6` piercing
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") blackfinger toss **Damage** `6d6+3` poison
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") shortsword (, [agile](rules/traits/agile.md "Agile Weapon Trait"), [finesse](rules/traits/finesse.md "Finesse Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [versatile <s>](rules/traits/versatile-s.md "Versatile Weapon Trait")), **Damage** `6d6+6` piercing 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") blackfinger toss (), **Damage** `6d6+3` poison 
 ```
 
 ## Divine intercession

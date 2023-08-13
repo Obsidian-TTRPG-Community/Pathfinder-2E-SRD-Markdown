@@ -14,7 +14,6 @@ You're a field agent of the globe-trotting Pathfinder Society, sworn to report, 
 ```ad-embed-feat
 title: Pathfinder Agent Dedication, Feat 2
 collapse: closed
-# Pathfinder Agent Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: You are from Absalom.
@@ -31,7 +30,6 @@ Your Pathfinder training has broadened your horizons and made you more flexible 
 ```ad-embed-feat
 title: Careful Explorer, Feat 4
 collapse: closed
-# Careful Explorer  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Pathfinder Agent Dedication](compendium/feats/pathfinder-agent-dedication-lowg.md)
@@ -47,7 +45,6 @@ Even if you aren't [Searching](rules/actions/search.md) in exploration mode, you
 ```ad-embed-feat
 title: Deft Cooperation, Feat 4
 collapse: closed
-# Deft Cooperation  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Pathfinder Agent Dedication](compendium/feats/pathfinder-agent-dedication-lowg.md)
@@ -61,7 +58,6 @@ When you set things up to help your allies, you also gain some of the fruits of 
 ```ad-embed-feat
 title: Thorough Reports, Feat 4
 collapse: closed
-# Thorough Reports  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Pathfinder Agent Dedication](compendium/feats/pathfinder-agent-dedication-lowg.md)
@@ -75,7 +71,6 @@ Your reports are thorough and informative, and putting your thoughts to paper he
 ```ad-embed-feat
 title: Wayfinder Resonance Tinkerer, Feat 4
 collapse: closed
-# Wayfinder Resonance Tinkerer  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Pathfinder Agent Dedication](compendium/feats/pathfinder-agent-dedication-lowg.md)

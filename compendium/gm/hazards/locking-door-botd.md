@@ -15,9 +15,9 @@ aliases: ["Locking Door"]
 A door (or other portal) slams shut and locks.
 
 - **Disable** DC 14 [Athletics](compendium/skills.md#Athletics) to push back against the door, DC 14 [Crafting](compendium/skills.md#Crafting) to wedge the door open, or DC 20 [Thievery](compendium/skills.md#Thievery) (trained) to jam the lock or open the lock afterward  
-     
+
 ```ad-embed-ability
-title: Shut In [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Shut In** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature ends their move after passing through the doorway
 

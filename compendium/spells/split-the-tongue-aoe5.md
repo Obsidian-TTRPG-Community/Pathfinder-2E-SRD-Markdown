@@ -11,10 +11,11 @@ aliases: ["Split The Tongue"]
 # Split The Tongue *Focus 1*   
 [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains**: [naga](compendium/setting/domains.md#Naga)
+- **Domains** [naga](compendium/setting/domains.md#Naga)
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
-- **Trigger**A creature within 30 feet fails a [Deception](compendium/skills.md#Deception) or [Diplomacy](compendium/skills.md#Diplomacy) check.
-- **Saving Throw**  basic Fortitude
+- **Trigger**: A creature within 30 feet fails a [Deception](compendium/skills.md#Deception) or [Diplomacy](compendium/skills.md#Diplomacy) check.
+- 
+- **Saving Throw**:  basic Fortitude
 
 The deceiving creature's tongue splits like a serpent's tongue. The creature takes `1d8` slashing damage and must attempt a Fortitude save.
 

@@ -16,7 +16,6 @@ You might be a druid with an elemental focus (such as the flame, stone, or wave 
 ```ad-embed-feat
 title: Geomancer Dedication, Feat 2
 collapse: closed
-# Geomancer Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: trained in [Nature](compendium/skills.md#Nature); ability to cast spells from spell slots; at least one spell with the [air](rules/traits/air.md "Air Energy & Element Trait"), [cold](rules/traits/cold.md "Cold Energy & Element Trait"), [earth](rules/traits/earth.md "Earth Energy & Element Trait"), [fire](rules/traits/fire.md "Fire Energy & Element Trait"), [plant](rules/traits/plant.md "Plant Creature Type Trait"), or [water](rules/traits/water.md "Water Energy & Element Trait") trait
@@ -44,7 +43,6 @@ Certain terrain attunements affect your enemies instead of you. If they do, when
 ```ad-embed-feat
 title: Attunement Shift, Feat 4
 collapse: closed
-# Attunement Shift  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Geomancer Dedication](compendium/feats/geomancer-dedication-som.md)
@@ -63,7 +61,6 @@ Your terrain attunement reverts to that of the terrain you're in 1 minute after 
 ```ad-embed-feat
 title: Shared Attunement, Feat 4
 collapse: closed
-# Shared Attunement  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Geomancer Dedication](compendium/feats/geomancer-dedication-som.md)
@@ -79,7 +76,6 @@ This has no effect if the terrain attunement affects your foes instead of granti
 ```ad-embed-feat
 title: Rough Terrain Stance, Feat 6
 collapse: closed
-# Rough Terrain Stance  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
 
 - **Prerequisites**: [Geomancer Dedication](compendium/feats/geomancer-dedication-som.md), expert in [Nature](compendium/skills.md#Nature)
@@ -97,7 +93,6 @@ This stance ends if you move into a different type of terrain.
 ```ad-embed-feat
 title: Attuned Stride, Feat 8
 collapse: closed
-# Attuned Stride  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Geomancer Dedication](compendium/feats/geomancer-dedication-som.md), expert in [Nature](compendium/skills.md#Nature)
@@ -113,7 +108,6 @@ When you gain a terrain attunement benefit, you ignore difficult terrain in the 
 ```ad-embed-feat
 title: Draw From The Land, Feat 10
 collapse: closed
-# Draw From The Land  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Geomancer Dedication](compendium/feats/geomancer-dedication-som.md), expert in [Nature](compendium/skills.md#Nature)
@@ -129,7 +123,6 @@ You pull strength from the surrounding terrain. You gain temporary Hit Points eq
 ```ad-embed-feat
 title: Read The Land, Feat 12*
 collapse: closed
-# Read The Land  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 > [!pf2-note] This version of [Read The Land](compendium/feats/read-the-land-som.md) is intended for use with the Geomancer Archetype. Its level has been changed accordingly.
@@ -147,7 +140,6 @@ You can perform this ritual with a casting time of 1 hour instead of 1 day and w
 ```ad-embed-feat
 title: Shifting Terrain, Feat 14*
 collapse: closed
-# Shifting Terrain  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 14*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Shifting Terrain](compendium/feats/shifting-terrain-som.md) is intended for use with the Geomancer Archetype. Its level has been changed accordingly.
@@ -171,7 +163,6 @@ You slam your fist into the ground or twirl your arms about to cause the terrain
 ```ad-embed-feat
 title: Terrain Shield, Feat 14*
 collapse: closed
-# Terrain Shield  *Feat 14*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Terrain Shield](compendium/feats/terrain-shield-som.md) is intended for use with the Geomancer Archetype. Its level has been changed accordingly.
@@ -190,7 +181,6 @@ You're so attuned to the land that it rises up to protect you from a potentially
 ```ad-embed-feat
 title: Quickened Attunement, Feat 16*
 collapse: closed
-# Quickened Attunement  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 16*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 > [!pf2-note] This version of [Quickened Attunement](compendium/feats/quickened-attunement-som.md) is intended for use with the Geomancer Archetype. Its level has been changed accordingly.

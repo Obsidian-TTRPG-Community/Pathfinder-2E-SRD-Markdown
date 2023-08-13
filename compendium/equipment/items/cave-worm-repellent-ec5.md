@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/ec5
-- item/category/consumable
+- item/category/consumable/
 - trait/alchemical
 - trait/consumable
 - trait/uncommon
@@ -12,8 +12,7 @@ aliases: ["Cave Worm Repellent"]
 # Cave Worm Repellent *Item 13+*  
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Usage** held in 1 hand; **Bulk** L
-- **Category** Consumable
+- **Bulk** L; **Usage** held in 1 hand
 
 Cave worm repellent is a highly noxious oil that can be applied to a creature or sprinkled in a circle around a 10-footradius area. In either case, after it is applied, it lasts for 24 hours or until it is scrubbed clean with 1 minute of work.
 
@@ -25,4 +24,22 @@ When sprinkled around an area, cave worm repellent negates any chance of a rando
 
 Other types of repellent that function similarly to this one might exist at the GM's discretion. Uncommon or rare creatures are typically much harder to repel, and repellent against them might necessitate harvesting ingredients from the creatures themselves (such as the creature's liver or a certain gland).
 
+---
+### Variants
+
+#### purple worm repellent *Item 13*
+
+- **Price**: 550 gp
+
+#### azure worm repellent *Item 15*
+
+- **Price**: 1100 gp
+- **Craft Requirements**: The initial raw ingredients must include an azure worm's scale.
+
+#### crimson worm repellent *Item 18*
+
+- **Price**: 4500 gp
+- **Craft Requirements**: The initial raw ingredients must include a crimson worm's liver.
+
+---
 *Source: Extinction Curse #5: Lord of the Black Sands p. 75*

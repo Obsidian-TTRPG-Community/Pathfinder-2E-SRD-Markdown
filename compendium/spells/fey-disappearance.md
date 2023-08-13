@@ -14,7 +14,8 @@ aliases: ["Fey Disappearance"]
 
 - **Bloodline** Sorcerer
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Duration**until the end of your next turn
+- 
+- **Duration**: until the end of your next turn
 
 You become [invisible](rules/conditions.md#Invisible) and ignore natural difficult terrain (such as underbrush). Any [hostile](rules/conditions.md#Hostile) action you use ends this invisibility, but you still ignore natural difficult terrain.
 

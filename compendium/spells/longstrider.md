@@ -10,9 +10,10 @@ aliases: ["Longstrider"]
 # Longstrider *Spell 1*   
 [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Duration**1 hour
+- 
+- **Duration**: 1 hour
 
 You lengthen your stride beyond what should be possible. You gain a +10-foot status bonus to your Speed.
 

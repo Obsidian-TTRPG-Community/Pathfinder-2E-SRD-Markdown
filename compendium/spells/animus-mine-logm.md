@@ -11,10 +11,11 @@ aliases: ["Animus Mine"]
 # Animus Mine *Spell 2*   
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions**: [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Saving Throw** Will
-- **Duration**1 hour
+- 
+- **Saving Throw**: Will
+- **Duration**: 1 hour
 
 You implant a mental mine within your psyche that detonates against anyone attempting to manipulate your thoughts[^1]. You can use a single action, which has the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") trait, to suppress the effects of the mine for 1 round to allow someone to safely use a [mental](rules/traits/mental.md "Mental Effect Trait") effect on you. You can [Dismiss](rules/actions/dismiss.md) the spell.
 

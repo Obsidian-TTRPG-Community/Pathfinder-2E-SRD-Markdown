@@ -16,7 +16,7 @@ aliases: ["Clockwork Macuahuitl"]
 
 - **Price** 550 gp
 - **Bulk** 1
-- **Damage** `1d10` S
+  - **Damage**: `1d10` S
 - **Hands** 2
 - **Category** Advanced; **Group** Club 
 
@@ -24,4 +24,6 @@ This finely-made wooden club has a beautiful, lacquered finish that gleams in th
 
 The clockwork macuahuitl deals `1d10` slashing damage and has the [backswing](rules/traits/backswing.md "Backswing Weapon Trait"), [forceful](rules/traits/forceful.md "Forceful Weapon Trait"), and versatile B traits. The clockwork macuahuitl is a two-handed advanced weapon in the club weapon group.
 
+
+---
 *Source: Lost Omens: The Grand Bazaar p. 22*

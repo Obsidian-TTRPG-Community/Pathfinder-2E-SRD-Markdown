@@ -13,12 +13,12 @@ aliases: ["Rime Slick"]
 # Rime Slick *Spell 2*   
 [cold](rules/traits/cold.md "Cold Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**60 foot
-- **Area**15-foot burst
-- **Saving Throw**  basic Reflex
-- **Duration**1 minute
+- **Range**: 60 foot
+- **Area**: 15-foot burst
+- **Saving Throw**:  basic Reflex
+- **Duration**: 1 minute
 
 You call down a chill wind. When you Cast this Spell, you deal `2d4` cold damage to each creature in the area (basic Reflex save). If a creature in the area critically fails its Reflex save and was standing, it also falls [prone](rules/conditions.md#Prone).
 

@@ -12,7 +12,7 @@ aliases: ["Pistolero's Retort"]
 *Source: Guns & Gears p. 108*  
 
 **Class** gunslinger; **Subclass** Pistolero
-- **Trigger** A foe within the first range increment of the onehanded firearm or one-handed crossbow you're wielding critically fails an attack roll against you.
+- **Trigger**: A foe within the first range increment of the onehanded firearm or one-handed crossbow you're wielding critically fails an attack roll against you.
 - **Requirements**: You're wielding a one-handed firearm or one-handed crossbow.
 - **Activity**: Reaction
 

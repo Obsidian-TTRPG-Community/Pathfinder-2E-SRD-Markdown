@@ -16,7 +16,7 @@ aliases: ["Nightstick"]
 
 - **Price** 1 gp
 - **Bulk** L
-- **Damage** `1d4` B
+  - **Damage**: `1d4` B
 - **Hands** 1
 - **Category** Simple; **Group** Club 
 
@@ -24,4 +24,6 @@ This collapsible baton consists of several nested, telescoping metal shafts that
 
 Lighter and more maneuverable than an ordinary [club](compendium/equipment/items/club.md) or truncheon, nightsticks are designed to subdue foes without causing permanent injury. A nightstick is an uncommon simple melee weapon.
 
+
+---
 *Source: Agents of Edgewatch #1: Devil at the Dreaming Palace p. 78*

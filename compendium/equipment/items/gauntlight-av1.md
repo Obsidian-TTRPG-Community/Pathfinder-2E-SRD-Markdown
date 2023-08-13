@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/av1
-- item/category/artifact
+- item/category/artifact/
 - trait/artifact
 - trait/magical
 - trait/necromancy
@@ -13,7 +13,6 @@ aliases: ["Gauntlight"]
 # Gauntlight *Item 20*  
 [artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
-- **Category** Artifact
 
 Gauntlight is much more than a 115-foot-tall lighthouse rising from the heart of an old ruin in Fogfen—its pale stone walls extend far below the ruins, passing through eight different dungeon levels and finally terminating at the ninth level below the surface, where its deep foundation centers on an ominous chamber where, long ago, [Nhimbaloth](compendium/setting/deities/nhimbaloth-logm.md) herself once physically brushed against this world. Once she finished its physical construction, the sorcerer Belcorra Haruvex used this spot as a source of power to infuse the walls, floors, and ceilings of each of Gauntlight's levels with eldritch power. The lens at the apex of the lighthouse would have, in time, been able to focus this lingering eldritch energy into a powerful beam, but Belcorra's plans were cut short before she could replace the mundane lenses with dangerous magical ones.
 
@@ -26,15 +25,21 @@ To activate Gauntlight, a creature must be in the deepest portion of the artifac
 From this point, a creature can observe the world outside remotely through Gauntlight's lens, including any area Gauntlight's beam can reach.
 
 ```ad-embed-ability
-title: Activate [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")
+title: **Activate** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") [Interact](rules/actions/interact.md)
 
-A pale blue beam shines from Gauntlight's lens and illuminates a 30-foot-radius burst centered on any point within 1 mile. The light saturates the region, causing any corpses in the area or within 10 feet of the surface of the illuminated area to animate as level –1 undead (typically as skeleton guards or zombie shamblers). Once animated, the undead remain active until slain. Until then, they remain uncontrolled and are driven only by the desire to slaughter the living. If Gauntlight is fully restored, the undead instead animate as any Common undead of 15th level or less, as the user wishes.
+- **Frequency**: once per month
+
+**Effect** A pale blue beam shines from Gauntlight's lens and illuminates a 30-foot-radius burst centered on any point within 1 mile. The light saturates the region, causing any corpses in the area or within 10 feet of the surface of the illuminated area to animate as level –1 undead (typically as skeleton guards or zombie shamblers). Once animated, the undead remain active until slain. Until then, they remain uncontrolled and are driven only by the desire to slaughter the living. If Gauntlight is fully restored, the undead instead animate as any Common undead of 15th level or less, as the user wishes.
 ```
 
 ```ad-embed-ability
-title: Activate [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")
+title: **Activate** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") [Interact](rules/actions/interact.md)
 
-A pale blue beam shines from Gauntlight's lens and illuminates a 30-foot-radius burst centered on any point within 1 mile. The user chooses one creature of 4th level or less that is physically located within Gauntlight; this creature is then is teleported to any point within this illumination radius. If Gauntlight is fully restored, any number of creatures within Gauntlight of 15th level or lower can be transported. This is a [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait") effect.
+- **Frequency**: once per month
+
+**Effect** A pale blue beam shines from Gauntlight's lens and illuminates a 30-foot-radius burst centered on any point within 1 mile. The user chooses one creature of 4th level or less that is physically located within Gauntlight; this creature is then is teleported to any point within this illumination radius. If Gauntlight is fully restored, any number of creatures within Gauntlight of 15th level or lower can be transported. This is a [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait") effect.
 ```
 
+
+---
 *Source: Abomination Vaults #1: Ruins of Gauntlight p. 77*

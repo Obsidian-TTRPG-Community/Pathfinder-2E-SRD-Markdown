@@ -21,32 +21,29 @@ A pair of magical gems inside the dragon skull's eye sockets act as magical sens
 - **Disable** [Thievery](compendium/skills.md#Thievery) DC 27 (expert) two times to pry the gems embedded deep in the skull's eye sockets without triggering the sensor, or [dispel magic](compendium/spells/dispel-magic.md) (4th level, counteract DC 22) twice to dispel both eyes.  
 - **Perception** +16 [darkvision](rules/abilities/darkvision.md), [see invisibility](compendium/spells/see-invisibility.md)  
 
-- **AC** 24 , **Fort** +17, **Ref** +8
+- **AC** 24, **Fort** +17, **Ref** +8
 - **Hardness** 14, **HP** 56 (BT 28)
 - **Immunities** critical hits; [fire](rules/traits/fire.md "Fire Energy & Element Trait"); object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Dahak's Glance [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[divine](rules/traits/divine.md "Divine Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  
+title: **Dahak's Glance** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([divine](rules/traits/divine.md), [evocation](rules/traits/evocation.md), [fire](rules/traits/fire.md))
 
 - **Trigger**: A living creature that is not a member of the Cinderclaws enters area **C9**
 
 **Effect** One of the dragon skull's eye sockets shoots an eye beam at the triggering creature, then the hazard rolls initiative.  
-%% #trait/divine #trait/evocation #trait/fire %%
+%%
+ #trait/divine  #trait/evocation  #trait/fire 
+%%
 ```
 
 ````ad-pf2-summary
 title: Routine
-(2 actions) On its initiative, [Dahak](compendium/setting/deities/dahak-logm.md)'s skull fires up to two eye beams; it must target a different creature with each attack. The eye beams can't target creatures directly below the skull.
 
+(2 actions) On its initiative, [Dahak](compendium/setting/deities/dahak-logm.md)'s skull fires up to two eye beams; it must target a different creature with each attack. The eye beams can't target creatures directly below the skull.
 ```ad-inline-attack
 title: Ranged [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Eye Beam (20) ([divine](rules/traits/divine.md "Divine Tradition Trait"), [evocation](rules/traits/evocation.md "Evocation School Trait"), [fire](rules/traits/fire.md "Fire Energy & Element Trait"), range <150 feet>)
 **Damage** `8d6` fire 
- 
 **Effects** 
-
 %% #trait/divine #trait/evocation #trait/fire #trait/range-150-feet %%
 ```
 ````

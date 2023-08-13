@@ -13,10 +13,10 @@ aliases: ["Sonata Span"]
 # Sonata Span *Spell 2*   
 [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  
 
-- **Traditions**: [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Area**30-foot line
-- **Duration**sustained
+- **Area**: 30-foot line
+- **Duration**: sustained
 
 By playing a brief tune on an instrument or in song, you cause the notes of the melody to physically manifest into a shimmering, translucent path. This path doesn't need to be over solid ground and can tilt up or down diagonally up to 45 degrees, but it must be a straight, 5-foot-wide line.
 

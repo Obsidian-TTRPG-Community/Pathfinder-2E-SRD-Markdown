@@ -10,8 +10,9 @@ aliases: ["Alter Reality"]
 # Alter Reality *Spell 10*   
 [divination](rules/traits/divination.md "Divination School Trait")  
 
-- **Traditions**: [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
+- 
 
 You use your occult lore and the power of your mind to manipulate the spiritual multiverse, resulting in any of the following effects:
 

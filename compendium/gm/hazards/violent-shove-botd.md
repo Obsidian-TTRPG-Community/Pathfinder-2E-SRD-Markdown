@@ -15,9 +15,9 @@ aliases: ["Violent Shove"]
 An invisible force bats creatures aside, hurling them into a nearby wall.
 
 - **Disable** DC 19 [Occultism](compendium/skills.md#Occultism) (trained) to disperse the force or DC 20 [Religion](compendium/skills.md#Religion) (trained) to ward yourself from harm  
-     
+
 ```ad-embed-ability
-title: Shove [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Shove** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature moves adjacent to the haunted wall
 

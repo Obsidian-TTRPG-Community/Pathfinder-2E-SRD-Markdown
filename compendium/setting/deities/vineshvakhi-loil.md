@@ -20,7 +20,7 @@ aliases: ["Vineshvakhi", "The Pain of Purity"]
 
 - **Category**: Other Gods
 - **Anathema**: abandon your post, fail to protect your charge, willingly suffer corruption over death or grievous harm
-- **Areas of Concern**: guardians, , locks, , sacrifice, , vaults
+- **Areas of Concern**: guardians, locks, sacrifice, vaults
 - **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait")
 
 ## Devotee benefits
@@ -38,5 +38,5 @@ title: [Avatar](compendium/spells/avatar.md) of Vineshvakhi
 
 - **Speed**: Speed 70 feet, [air walk](compendium/spells/air-walk.md), immune to [immobilized](rules/conditions.md#Immobilized)
 - **Shield**: shield (15 Hardness, can't be damaged)
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") longsword ([reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [versatile <P>](rules/traits/versatile-p.md "Versatile Weapon Trait")), **Damage** `6d8+6` slashing
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") longsword (, [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [versatile <P>](rules/traits/versatile-p.md "Versatile Weapon Trait")), **Damage** `6d8+6` slashing 
 ```

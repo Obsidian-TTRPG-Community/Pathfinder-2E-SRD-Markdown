@@ -12,12 +12,12 @@ aliases: ["Isolation"]
 # Isolation *Focus 4*   
 [cleric](rules/traits/cleric.md "Cleric Class Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Domains**: [darkness (apocryphal)](compendium/setting/domains.md#Darkness)
+- **Domains** [darkness (apocryphal)](compendium/setting/domains.md#Darkness)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 creature
-- **Saving Throw** Will
-- **Duration**3 rounds
+- **Range**: 30 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Will
+- **Duration**: 3 rounds
 
 You summon a tangible manifestation of loneliness to cloak the target from view as surely as if it were wreathed in darkness. The target attempts a Will saving throw.
 

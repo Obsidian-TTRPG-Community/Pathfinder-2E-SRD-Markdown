@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/lotgb
-- item/category/material
+- item/category/material/
 - trait/precious
 - trait/rare
 aliases: ["Djezet"]
@@ -11,7 +11,6 @@ aliases: ["Djezet"]
 # Djezet *Item 0+*  
 [precious](rules/traits/precious.md "Precious Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Category** Material
 
 This rust red metal is liquid at room temperature, making it challenging for all but the most skilled metallurgists to craft with and earning it the name "quickiron" in some places.
 
@@ -30,4 +29,24 @@ Djezet is also extremely reactive to magic, even in its solid, workable alloyed 
 | multiRow |  |
 
 
+---
+### Variants
+
+#### djezet mass *Item 0*
+
+- **Price**: 600 gp
+
+#### djezet alloy ingot *Item 0*
+
+- **Price**: 6000 gp
+
+#### standard-grade djezet alloy object *Item 8*
+
+- **Price**: 400 gp
+
+#### high-grade djezet alloy object *Item 16*
+
+- **Price**: 7000 gp
+
+---
 *Source: Lost Omens: The Grand Bazaar p. 97*

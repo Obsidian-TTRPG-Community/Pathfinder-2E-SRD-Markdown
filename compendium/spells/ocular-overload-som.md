@@ -13,20 +13,22 @@ aliases: ["Ocular Overload"]
 # Ocular Overload *Spell 4*   
 [contingency](rules/traits/contingency-som.md "Contingency Spell Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** 10 minutes 
-- **Duration**24 hours
+- 
+- **Duration**: 24 hours
 
 Just as a creature is about to attack you, you assault them with jarring illusions, completely surrounding their eyes with blinding flashes of motion and color. When the spell is complete, you gain the Overload Vision reaction; once you use the reaction, the spell ends.
 
 ```ad-embed-ability
-title: Overload Vision [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
+title: **Overload Vision** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([concentrate](rules/traits/concentrate.md))
 
 - **Trigger**: A creature within 60 feet would make an attack roll against you
 
 **Effect** The triggering creature must attempt a Fortitude save.  
-%% #trait/concentrate %%
+%%
+ #trait/concentrate 
+%%
 ```
 
 > [!success-degree] 

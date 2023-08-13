@@ -14,10 +14,12 @@ aliases: ["Gada"]
 
 - **Price** 1 gp
 - **Bulk** 2
-- **Damage** `1d8` B
+  - **Damage**: `1d8` B
 - **Hands** 2
 - **Category** Advanced; **Group** Club 
 
 A large spherical head with a spike on top sits mounted to a long shaft.
 
+
+---
 *Source: Lost Omens: Impossible Lands p. 221*

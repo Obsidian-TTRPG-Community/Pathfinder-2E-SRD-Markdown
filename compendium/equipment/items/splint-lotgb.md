@@ -16,4 +16,6 @@ Splints can be applied to the following joints: finger, hand, wrist, elbow, knee
 
 They are a little less flexible, but you still have full use of your limbs and fingers when using one. You still have full mobility of the limb when not wearing it, but the limb becomes painful and feels less secure without the extra support it normally has, which might present physical symptoms.
 
+
+---
 *Source: Lost Omens: The Grand Bazaar p. 69*

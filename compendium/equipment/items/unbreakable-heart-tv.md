@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
-- item/category/tattoo
+- item/category/tattoo/
 - trait/enchantment
 - trait/invested
 - trait/magical
@@ -14,8 +14,7 @@ aliases: ["Unbreakable Heart"]
 [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [tattoo](rules/traits/tattoo-lowg.md "Tattoo Item Trait")  
 
 - **Price** 60 gp
-- **Usage** tattooed on the body; **Bulk** —
-- **Category** Tattoo
+- **Bulk** —; **Usage** tattooed on the body
 
 The name of your beloved adorns this stylized image of a heart.
 
@@ -28,4 +27,6 @@ The love exuding from you grants you a +1 item bonus to [Diplomacy](compendium/s
 - The tattoo casts stabilize on your beloved.
 - The tattoo casts light on your beloved's token from heartbond.
 
+
+---
 *Source: Treasure Vault p. 122*

@@ -19,7 +19,7 @@ aliases: ["Besmara", "The Pirate Queen"]
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: betray shipmates, forsake piracy, settle on land
-- **Areas of Concern**: piracy, , sea monsters, , and strife
+- **Areas of Concern**: piracy, sea monsters, and strife
 - **Follower Alignments**: [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
@@ -37,8 +37,9 @@ When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Be
 title: [Avatar](compendium/spells/avatar.md) of Besmara
 
 - **Speed**: Speed 40 feet, swim 70 feet, immune to [immobilized](rules/conditions.md#Immobilized)
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") rapier ([deadly <3d8>](rules/traits/deadly-3d8.md "Deadly Weapon Trait"), [disarm](rules/traits/disarm.md "Disarm Weapon Trait"), [finesse](rules/traits/finesse.md "Finesse Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait")), **Damage** `6d6+6` piercing
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") ship's cannon **Damage** `6d6+3` bludgeoning
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") rapier (, [deadly <3d8>](rules/traits/deadly-3d8.md "Deadly Weapon Trait"), [disarm](rules/traits/disarm.md "Disarm Weapon Trait"), [finesse](rules/traits/finesse.md "Finesse Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait")), **Damage** `6d6+6` piercing 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") ship's cannon (), **Damage** `6d6+3` bludgeoning 
 ```
 
 ## Divine intercession

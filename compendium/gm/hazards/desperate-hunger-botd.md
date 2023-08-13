@@ -15,10 +15,9 @@ aliases: ["Desperate Hunger"]
 A skeletally thin spirit appears, weeping as it shoves earth and stones down its throat in an effort to stave off hunger.
 
 - **Disable** DC 36 [Deception](compendium/skills.md#Deception) (master) to convince the spirit it's no longer hungry or DC 38 [Occultism](compendium/skills.md#Occultism) (trained) to ritually feed the spirit  
-     
+
 ```ad-embed-ability
-title: Desperate Meal [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[occult](rules/traits/occult.md "Occult Tradition Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+title: **Desperate Meal** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([occult](rules/traits/occult.md), [transmutation](rules/traits/transmutation.md))
 
 - **Trigger**: A creature approaches within 10 feet
 
@@ -29,7 +28,9 @@ title: Desperate Meal [R](rules/core-rulebook/chapter-9-playing-the-game.md#Acti
 > - **Success** The creature takes half damage and is [sickened](rules/conditions.md#Sickened).
 > - **Failure** The creature takes full damage and is [sickened](rules/conditions.md#Sickened).
 > - **Critical Failure** The creature takes double damage, is [sickened](rules/conditions.md#Sickened), and takes a –10-foot status penalty to its Speeds for as long as it's [sickened](rules/conditions.md#Sickened).  
-%% #trait/occult #trait/transmutation %%
+%%
+ #trait/occult  #trait/transmutation 
+%%
 ```
 
 **Reset** 1 day  

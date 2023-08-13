@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/crb
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/injury
@@ -14,9 +14,8 @@ aliases: ["Purple Worm Venom"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [injury](rules/traits/injury.md "Injury Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Price** 500 gp
-- **Usage** held in 2 hands; **Bulk** L
+- **Bulk** L; **Usage** held in 2 hands
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 Venom from enormous purple worms leaves a victim weakened.
 
@@ -34,4 +33,6 @@ title: Saving Throw: DC 32 Fortitude
 **Stage 3** `8d6` poison and [enfeebled](rules/conditions.md#Enfeebled) (1 round)
 ```
 
+
+---
 *Source: Core Rulebook p. 553*

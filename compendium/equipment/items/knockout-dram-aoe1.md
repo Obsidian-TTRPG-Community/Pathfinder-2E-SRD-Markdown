@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/aoe1
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/ingested
@@ -15,9 +15,8 @@ aliases: ["Knockout Dram"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [ingested](rules/traits/ingested.md "Ingested Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 70 gp
-- **Usage** held in 1 hand; **Bulk** L
+- **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 This soporific chemical comes in liquid form and is virtually undetectable by taste or scent. It's most commonly slipped into a victim's drink to quickly induce a deep unconsciousness.
 
@@ -34,4 +33,6 @@ title: Saving Throw: DC 23 Fortitude
 **Stage 2** sleep normally (`1d4` hours)
 ```
 
+
+---
 *Source: Agents of Edgewatch #1: Devil at the Dreaming Palace p. 81*

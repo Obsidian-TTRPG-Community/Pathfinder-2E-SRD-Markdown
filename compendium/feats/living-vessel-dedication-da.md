@@ -21,7 +21,7 @@ You need to spend at least an hour each day assuaging the entity within you or y
 You also gain the Entity's Resurgence reaction, allowing you to unleash your entity in lieu of falling [unconscious](rules/conditions.md#Unconscious), though at the risk of letting it enact its will.
 
 ```ad-embed-ability
-title: Entity's Resurgence [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Entity's Resurgence** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: You would be reduced to 0 Hit Points but not immediately killed
 

@@ -15,10 +15,9 @@ aliases: ["Phantom Footsteps"]
 Audible footsteps approach from behind, but their source is not apparent.
 
 - **Disable** DC 17 [Religion](compendium/skills.md#Religion) (trained) to ritually ward off lesser spirits or DC 18 [Occultism](compendium/skills.md#Occultism) to exorcise the spirit  
-     
+
 ```ad-embed-ability
-title: Stalk [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
+title: **Stalk** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([auditory](rules/traits/auditory.md), [emotion](rules/traits/emotion.md), [enchantment](rules/traits/enchantment.md), [fear](rules/traits/fear.md), [mental](rules/traits/mental.md), [occult](rules/traits/occult.md))
 
 - **Trigger**: A creature passes by the footsteps' path
 
@@ -29,7 +28,9 @@ title: Stalk [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reac
 > - **Success** The creature is [frightened](rules/conditions.md#Frightened).
 > - **Failure** The creature is [frightened](rules/conditions.md#Frightened).
 > - **Critical Failure** The creature is [frightened](rules/conditions.md#Frightened).  
-%% #trait/auditory #trait/emotion #trait/enchantment #trait/fear #trait/mental #trait/occult %%
+%%
+ #trait/auditory  #trait/emotion  #trait/enchantment  #trait/fear  #trait/mental  #trait/occult 
+%%
 ```
 
 **Reset** 1 hour  

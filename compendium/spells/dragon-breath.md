@@ -17,8 +17,8 @@ aliases: ["Dragon Breath"]
 
 - **Bloodline** Sorcerer
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Area**30-foot cone or 60-foot line originating from you or 10-foot burst within 30 feet of you
-- **Saving Throw**  basic Reflex or Fortitude
+- **Area**: 30-foot cone or 60-foot line originating from you or 10-foot burst within 30 feet of you
+- **Saving Throw**:  basic Reflex or Fortitude
 
 You spew energy from your mouth, dealing `5d6` damage. The area, damage type, and save depend on the dragon type in your bloodline.
 

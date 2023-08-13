@@ -13,11 +13,11 @@ aliases: ["Illusory Scene"]
 # Illusory Scene *Spell 5*   
 [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 10 minutes 
-- **Range**500 foot
-- **Area**30-foot burst
-- **Duration**1 hour
+- **Range**: 500 foot
+- **Area**: 30-foot burst
+- **Duration**: 1 hour
 
 You form an imaginary scene that includes up to 10 discrete creatures or objects of various sizes, all of which must be within the spell's area. These elements generate appropriate sounds and smells, and they feel right to the touch. Elements of an illusory scene are incapable of speech. Unlike with the [illusory creature](compendium/spells/illusory-creature.md) spell, creatures in your scene lack combat abilities and statistics. Your scene doesn't include changes to the environment around it, though you can place your scene within the illusory environment of a [hallucinatory terrain](compendium/spells/hallucinatory-terrain.md) spell.
 

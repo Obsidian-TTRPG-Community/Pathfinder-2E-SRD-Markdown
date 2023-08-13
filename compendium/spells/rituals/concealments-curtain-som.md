@@ -18,8 +18,8 @@ aliases: ["Concealment's Curtain"]
 - **Secondary Casters** 3
 - **Primary Checks** [Occultism](compendium/skills.md#Occultism)
 - **Secondary Checks** [Arcana](compendium/skills.md#Arcana), [Deception](compendium/skills.md#Deception), [Stealth](compendium/skills.md#Stealth)
-- **Range**planetary
-- **Targets**1 living creature
+- **Range**: planetary
+- **Targets**: 1 living creature
 
 At twilight for 5 days, you line the fruit in front of the mirror, chanting the name of the target, and envisioning its eyes in your mind. At exactly midnight on the last day, you drive the pins through the fruits, miming the action of methodically blinding the target to you and your companions. The target is immediately affected and can't visually detect any of the casters involved in the ritual—provided that the ritual was successful, the target is unaware of the effects. Since the ritual affects the target's ability to see the casters, rather than make the casters [invisible](rules/conditions.md#Invisible), effects like true seeing are ineffective against concealment's curtain; instead, the target would need to remove the curse with effects like remove curse.
 

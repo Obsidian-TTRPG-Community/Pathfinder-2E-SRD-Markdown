@@ -17,7 +17,7 @@ aliases: ["Cayden Cailean", "The Drunken Hero", "The Accidental God"]
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: waste alcohol, be mean or standoffish when drunk, own a slave
-- **Areas of Concern**: ale, , bravery, , freedom, , and wine
+- **Areas of Concern**: ale, bravery, freedom, and wine
 - **Follower Alignments**: [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")
 
 ## Devotee benefits
@@ -33,8 +33,9 @@ aliases: ["Cayden Cailean", "The Drunken Hero", "The Accidental God"]
 title: [Avatar](compendium/spells/avatar.md) of Cayden Cailean
 
 - **Speed**: Speed 70 feet, [air walk](compendium/spells/air-walk.md), ignore difficult terrain and greater difficult terrain
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") rapier ([deadly](rules/traits/deadly.md "Deadly Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait")), **Damage** `6d6+6` piercing
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") ale splash **Damage** `6d6+3` poison
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") rapier (, [deadly](rules/traits/deadly.md "Deadly Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait")), **Damage** `6d6+6` piercing 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") ale splash (), **Damage** `6d6+3` poison 
 ```
 
 ## Divine intercession

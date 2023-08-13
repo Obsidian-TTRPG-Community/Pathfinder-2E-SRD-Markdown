@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/lotgb
-- item/category/structure
+- item/category/structure/
 - trait/conjuration
 - trait/magical
 - trait/structure
@@ -15,12 +15,12 @@ aliases: ["Pocket Gala"]
 
 - **Price** 10000 gp
 - **Bulk** L (when not activated)
-- **Category** Structure
 
 This item appears to be a miniature stone replica of an aristocratic home or a simple castle.
 
 ```ad-embed-ability
-title: Activate [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Duration or Frequency")
+title: **Activate** [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Duration or Frequency") 10 minute ((10 minutes)) command, envision, [Interact](rules/actions/interact.md)
+
 
 You place the figurine on the ground, and a harmonious note rings out as it grows into a spacious, elegant ballroom. The ballroom is 60 feet long, 45 feet wide, and features a ceiling that rises to a height of 20 feet. Elegant double doors on either end of the ballroom allow entry.
 
@@ -31,4 +31,6 @@ While inside, you can utter a command word to call forth music, which echoes thr
 You can utter a third command word declaring the gala over to revert the ballroom to its original form. As it reverts, the illusory dancers clap and cheer for your hospitality. If you don't revert the ballroom on your own, it automatically returns to its original state at the next sunrise.
 ```
 
+
+---
 *Source: Lost Omens: The Grand Bazaar p. 84*

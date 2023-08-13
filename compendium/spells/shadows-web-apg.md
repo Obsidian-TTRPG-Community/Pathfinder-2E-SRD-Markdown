@@ -14,8 +14,8 @@ aliases: ["Shadow's Web"]
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Area**30-foot burst
-- **Saving Throw** Fortitude
+- **Area**: 30-foot burst
+- **Saving Throw**: Fortitude
 
 Grasping darkness surges from you, dealing `14d4` negative damage. Each creature in the area must attempt a Fortitude save.
 

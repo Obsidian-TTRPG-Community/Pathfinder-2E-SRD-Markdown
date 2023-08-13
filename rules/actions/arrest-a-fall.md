@@ -10,7 +10,7 @@ aliases: ["Arrest a Fall"]
 *Source: Core Rulebook p. 472*  
 
 
-- **Trigger** You fall.
+- **Trigger**: You fall.
 - **Requirements**: You have a fly Speed.
 - **Activity**: Reaction
 

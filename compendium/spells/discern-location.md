@@ -12,10 +12,10 @@ aliases: ["Discern Location"]
 # Discern Location *Spell 8*   
 [detection](rules/traits/detection.md "Detection Effect Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 10 minutes 
-- **Range**unlimited
-- **Targets**1 creature or object
+- **Range**: unlimited
+- **Targets**: 1 creature or object
 
 You learn the name of the target's exact location (including the building, community, and country) and plane of existence.
 

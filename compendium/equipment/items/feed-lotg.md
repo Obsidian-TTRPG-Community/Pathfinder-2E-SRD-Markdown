@@ -12,4 +12,16 @@ aliases: ["Feed"]
 
 
 
+---
+### Variants
+
+#### standard *Item 0*
+
+- **Price**: 1 cp
+
+#### unique *Item 0*
+
+- **Price**: 1 sp
+
+---
 *Source: Lost Omens: Travel Guide p. 103*

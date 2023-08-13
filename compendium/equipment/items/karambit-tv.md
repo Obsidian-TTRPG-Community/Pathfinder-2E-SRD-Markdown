@@ -17,10 +17,12 @@ aliases: ["Karambit"]
 - **Access** If the player character come from a region in Tian Xia, this weapon is common
 - **Price** 2 gp
 - **Bulk** L
-- **Damage** `1d4` P
+  - **Damage**: `1d4` P
 - **Hands** 1
 - **Category** Advanced; **Group** Knife 
 
 This small curved blade resembles a tiger's claw and is capable of delivering deep wounds.
 
+
+---
 *Source: Treasure Vault p. 25*

@@ -10,11 +10,11 @@ aliases: ["Lock"]
 # Lock *Spell 1*   
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Targets**1 lock, or a door or container with a latch
-- **Duration**until the next time you make your daily preparations
+- **Range**: touch
+- **Targets**: 1 lock, or a door or container with a latch
+- **Duration**: until the next time you make your daily preparations
 
 The target's latch mechanism clinks shut, held fast by unseen magical restraints. When you magically lock a target, you set an [Athletics](compendium/skills.md#Athletics) and [Thievery](compendium/skills.md#Thievery) DC to open it equal to your spell DC or the base lock DC with a +4 status bonus, whichever is higher.
 

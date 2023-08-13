@@ -20,7 +20,7 @@ aliases: ["Garden Of Death"]
 - **Secondary Casters** 2
 - **Primary Checks** [Nature](compendium/skills.md#Nature) (expert)
 - **Secondary Checks** [Crafting](compendium/skills.md#Crafting), [Medicine](compendium/skills.md#Medicine)
-- **Area**40-foot-radius burst
+- **Area**: 40-foot-radius burst
 
 Typically associated with the less friendly fey or druids, this ritual calls all the poisonous, toxic, and venomous plants and animals of an area to congregate in a certain place, creating a beautiful but extravagantly deadly garden.
 

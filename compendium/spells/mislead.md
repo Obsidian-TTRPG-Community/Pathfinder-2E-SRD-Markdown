@@ -10,9 +10,10 @@ aliases: ["Mislead"]
 # Mislead *Spell 6*   
 [illusion](rules/traits/illusion.md "Illusion School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Duration**sustained up to 1 minute
+- 
+- **Duration**: sustained up to 1 minute
 
 You turn yourself [invisible](rules/conditions.md#Invisible) and create an illusory duplicate of yourself. When you [Sustain the Spell](rules/actions/sustain-a-spell.md), you can mentally dictate a course of action for your duplicate to follow that round. Your duplicate acts as though it had your full number of actions, though it can't actually affect anything in the environment.
 

@@ -16,8 +16,8 @@ aliases: ["Bathe In Blood"]
 - **Secondary Casters** 2
 - **Primary Checks** [Occultism](compendium/skills.md#Occultism) (expert)
 - **Secondary Checks** [Religion](compendium/skills.md#Religion), [Society](compendium/skills.md#Society)
-- **Range**20 feet
-- **Targets**1 living creature of a level no greater than double the bathe in blood ritual's level
+- **Range**: 20 feet
+- **Targets**: 1 living creature of a level no greater than double the bathe in blood ritual's level
 
 This is an old ritual, illegal in nearly every corner of Golarion, but never quite exterminated. You bathe in the freshly spilled blood of your people, whose lives and years you steal in the process.
 

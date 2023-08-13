@@ -12,9 +12,10 @@ aliases: ["Enduring Might"]
 # Enduring Might *Focus 4*   
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [cleric](rules/traits/cleric.md "Cleric Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains**: [might](compendium/setting/domains.md#Might)
+- **Domains** [might](compendium/setting/domains.md#Might)
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
-- **Trigger**An attack or effect would deal damage to you.
+- **Trigger**: An attack or effect would deal damage to you.
+- 
 
 Your own might mingles with divine power to protect you. You gain resistance equal to 8 plus your Strength modifier against all damage from the triggering attack or effect.
 

@@ -19,8 +19,8 @@ aliases: ["Horrific Visage"]
 
 - **Bloodline** Sorcerer
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Area**30-foot-radius emanation centered on you
-- **Saving Throw** Will
+- **Area**: 30-foot-radius emanation centered on you
+- **Saving Throw**: Will
 
 You briefly transform your features into the horrific visage of a hag, striking fear into your enemies. Foes in the area must attempt a Will save.
 

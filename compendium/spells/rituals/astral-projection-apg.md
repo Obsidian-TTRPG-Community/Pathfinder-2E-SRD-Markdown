@@ -16,8 +16,8 @@ aliases: ["Astral Projection"]
 - **Secondary Casters** 2
 - **Primary Checks** [Arcana](compendium/skills.md#Arcana) or [Occultism](compendium/skills.md#Occultism) (master)
 - **Secondary Checks** [Arcana](compendium/skills.md#Arcana) or [Occultism](compendium/skills.md#Occultism) (whichever isn't used for the primary check), [Survival](compendium/skills.md#Survival)
-- **Range**touch
-- **Targets**yourself and up to 5 willing creatures
+- **Range**: touch
+- **Targets**: yourself and up to 5 willing creatures
 
 You project the targets' spiritual essences into the Astral Plane, leaving their inanimate physical forms behind. These astral forms can be used to explore the Astral Plane indefinitely, while the targets' bodies remain safely in stasis on the plane where the ritual was cast (where they remain unconscious and can't be awoken normally). The casters must be in physical contact with one another in a circle for the duration of the casting, and all targets must be selected from these casters.
 

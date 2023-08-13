@@ -14,7 +14,6 @@ You mix magic and martial prowess, following in the tradition of the Ten Magic W
 ```ad-embed-feat
 title: Magic Warrior Dedication, Feat 2
 collapse: closed
-# Magic Warrior Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: You are from the Mwangi Expanse.
@@ -37,7 +36,6 @@ Close allies who knew of your decision to take the mask before your dedication d
 ```ad-embed-feat
 title: Magic Warrior Aspect, Feat 4
 collapse: closed
-# Magic Warrior Aspect  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Magic Warrior Dedication](compendium/feats/magic-warrior-dedication-lowg.md)
@@ -51,7 +49,6 @@ You can alter your form to gain an aspect of the animal your mask represents. Yo
 ```ad-embed-feat
 title: Magic Warrior Transformation, Feat 4
 collapse: closed
-# Magic Warrior Transformation  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Magic Warrior Dedication](compendium/feats/magic-warrior-dedication-lowg.md)
@@ -67,7 +64,6 @@ You gain the [magic warrior transformation](compendium/spells/magic-warrior-tran
 ```ad-embed-feat
 title: Nameless Anonymity, Feat 6
 collapse: closed
-# Nameless Anonymity  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Magic Warrior Dedication](compendium/feats/magic-warrior-dedication-lowg.md)

@@ -14,18 +14,18 @@ A spring-loaded, poisoned spine is hidden near the keyhole of a lock. Disabling 
 
 - **Disable** DC 17 [Thievery](compendium/skills.md#Thievery) on the spring mechanism  
 
-- **AC** 15 , **Fort** +8, **Ref** +4
+- **AC** 15, **Fort** +8, **Ref** +4
 - **Hardness** 6, **HP** 24 (BT 12)
 - **Immunities** critical hits; sneak attack
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Spring [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[attack](rules/traits/attack.md "Attack Combat Trait")  
+title: **Spring** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([attack](rules/traits/attack.md))
+
 
 When a creature tries to unlock or [Pick the Lock](rules/actions/pick-a-lock.md), a spine extends to attack that creature. The trap makes a melee attack with +13 to its attack roll. On a hit, it deals 1 piercing damage and `1d6` [persistent poison damage](rules/conditions.md#Persistent%20Damage) (on a critical hit, 2 piercing damage and `2d6` [persistent poison damage](rules/conditions.md#Persistent%20Damage)).  
-%% #trait/attack %%
+%%
+ #trait/attack 
+%%
 ```
 
 *Source: Beginner Box p. 49*

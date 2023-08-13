@@ -15,10 +15,12 @@ aliases: ["Corset knife"]
 
 - **Price** 3 sp
 - **Bulk** L
-- **Damage** `1d4` P
+  - **Damage**: `1d4` P
 - **Hands** 1
 - **Category** Simple; **Group** Knife 
 
 A favored self-defense weapon among bar and tavern workers, the corset knife has a weighted hilt and a cylindrical, needlelike blade designed to be easily hidden in clothing, but quickly retrieved in a pinch.
 
+
+---
 *Source: Treasure Vault p. 25*

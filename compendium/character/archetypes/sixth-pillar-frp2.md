@@ -14,7 +14,6 @@ The Sixth Pillar follows a tradition that blends martial arts with magic. Tradit
 ```ad-embed-feat
 title: Sixth Pillar Dedication, Feat 8
 collapse: closed
-# Sixth Pillar Dedication  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: Dexterity 14, expert in [Acrobatics](compendium/skills.md#Acrobatics), able to cast spells
@@ -32,7 +31,6 @@ If your proficiency rank in unarmed attacks is at least expert, your proficiency
 ```ad-embed-feat
 title: Six Pillars Stance, Feat 10
 collapse: closed
-# Six Pillars Stance  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
 
 - **Prerequisites**: [Sixth Pillar Dedication](compendium/feats/sixth-pillar-dedication-frp2.md)
@@ -48,7 +46,6 @@ You stand firm, steeling your mind and body, allowing you to use your magic unpe
 ```ad-embed-feat
 title: Maneuvering Spell, Feat 12*
 collapse: closed
-# Maneuvering Spell  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Maneuvering Spell](compendium/feats/maneuvering-spell-frp2.md) is intended for use with the Sixth Pillar Archetype. Its level has been changed accordingly.
@@ -66,7 +63,6 @@ You instantly tap into the magical power of a spell you're casting to quickly po
 ```ad-embed-feat
 title: Touch Focus, Feat 14*
 collapse: closed
-# Touch Focus  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 14*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 > [!pf2-note] This version of [Touch Focus](compendium/feats/touch-focus-frp2.md) is intended for use with the Sixth Pillar Archetype. Its level has been changed accordingly.
@@ -83,7 +79,6 @@ You can redirect a spell's power through you to deliver it within striking dista
 ```ad-embed-feat
 title: Sixth Pillar Mastery, Feat 16*
 collapse: closed
-# Sixth Pillar Mastery  *Feat 16*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Sixth Pillar Mastery](compendium/feats/sixth-pillar-mastery-frp2.md) is intended for use with the Sixth Pillar Archetype. Its level has been changed accordingly.

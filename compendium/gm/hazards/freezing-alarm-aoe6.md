@@ -16,10 +16,9 @@ aliases: ["Freezing Alarm"]
 Miniature snowflake-shaped glyphs on the ground cause a layer of ice to ripple over the floor of the room and sound a silent alarm.
 
 - **Disable** DC 51 [Arcana](compendium/skills.md#Arcana) (legendary) to draw a fiery counteracting glyph over each snowflake, or dispel magic (9th level, counteract DC 48)  
-     
+
 ```ad-embed-ability
-title: Freeze Floor [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [cold](rules/traits/cold.md "Cold Energy & Element Trait")  
+title: **Freeze Floor** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([abjuration](rules/traits/abjuration.md), [arcane](rules/traits/arcane.md), [cold](rules/traits/cold.md))
 
 - **Trigger**: A creature enters one of the three squares marked with a T on the map
 
@@ -30,7 +29,9 @@ title: Freeze Floor [R](rules/core-rulebook/chapter-9-playing-the-game.md#Action
 > - **Success** The creature takes `3d10+5` cold damage.
 > - **Failure** The creature takes `6d10+10` cold damage and is [slowed](rules/conditions.md#Slowed) for `1d4` rounds.
 > - **Critical Failure** The creature takes `12d10+20` cold damage and is [slowed](rules/conditions.md#Slowed) for 1 minute. Additionally, the golems in area B10 become aware of the intruders. The golems activate and come to this room to attack, if they haven't been destroyed already.  
-%% #trait/abjuration #trait/arcane #trait/cold %%
+%%
+ #trait/abjuration  #trait/arcane  #trait/cold 
+%%
 ```
 
 **Reset** 1 day  

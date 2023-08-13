@@ -18,7 +18,7 @@ aliases: ["Lamashtu", "Mother of Monsters"]
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: attempt to treat a mental illness or deformity, provide succor to Lamashtu's enemies
-- **Areas of Concern**: aberrance, , monsters, , and nigthmares
+- **Areas of Concern**: aberrance, monsters, and nigthmares
 - **Follower Alignments**: [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
@@ -35,8 +35,9 @@ aliases: ["Lamashtu", "Mother of Monsters"]
 title: [Avatar](compendium/spells/avatar.md) of Lamashtu
 
 - **Speed**: Speed 30 feet, fly 70 feet
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") falchion ([forceful](rules/traits/forceful.md "Forceful Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait")), **Damage** `6d10+6` slashing
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") waters of Lamashtu **Damage** `6d6+3` poison
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") falchion (, [forceful](rules/traits/forceful.md "Forceful Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait")), **Damage** `6d10+6` slashing 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") waters of Lamashtu (), **Damage** `6d6+3` poison 
 ```
 
 ## Divine intercession

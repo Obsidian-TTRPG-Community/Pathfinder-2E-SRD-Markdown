@@ -17,7 +17,7 @@ aliases: ["Urban Prosperity"]
 
 - **Category**: Pantheon
 - **Anathema**: betray the safety of your city, disparage urban life, foment animosity or contention, refuse hospitality or aid, move to the country
-- **Areas of Concern**: peace, , prosperity of cities, , protection
+- **Areas of Concern**: peace, prosperity of cities, protection
 - **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait")
 
 ## Devotee benefits

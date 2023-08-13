@@ -14,7 +14,6 @@ While some learn the art of ritual casting through rigorous study, other gifted 
 ```ad-embed-feat
 title: Ritualist Dedication, Feat 4
 collapse: closed
-# Ritualist Dedication  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: expert in [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), or [Religion](compendium/skills.md#Religion)
@@ -32,7 +31,6 @@ You gain a +2 circumstance bonus to all primary checks to perform a ritual. You 
 ```ad-embed-feat
 title: Flexible Ritualist, Feat 6
 collapse: closed
-# Flexible Ritualist  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Ritualist Dedication](compendium/feats/ritualist-dedication-apg.md)
@@ -48,7 +46,6 @@ When you do, you must fulfill any requirements for the secondary caster, and you
 ```ad-embed-feat
 title: Resourceful Ritualist, Feat 6
 collapse: closed
-# Resourceful Ritualist  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Ritualist Dedication](compendium/feats/ritualist-dedication-apg.md)
@@ -62,7 +59,6 @@ You can cast difficult rituals that might otherwise be just beyond your skill. Y
 ```ad-embed-feat
 title: Efficient Rituals, Feat 8
 collapse: closed
-# Efficient Rituals  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Ritualist Dedication](compendium/feats/ritualist-dedication-apg.md)
@@ -76,7 +72,6 @@ You can perform some rituals in less time. If the ritual normally requires 1 day
 ```ad-embed-feat
 title: Assured Ritualist, Feat 10
 collapse: closed
-# Assured Ritualist  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Flexible Ritualist](compendium/feats/flexible-ritualist-apg.md)
@@ -90,7 +85,6 @@ You can cover for a secondary caster's error. If you are the primary caster, aft
 ```ad-embed-feat
 title: Speedy Rituals, Feat 14*
 collapse: closed
-# Speedy Rituals  *Feat 14*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Speedy Rituals](compendium/feats/speedy-rituals-apg.md) is intended for use with the Ritualist Archetype. Its level has been changed accordingly.

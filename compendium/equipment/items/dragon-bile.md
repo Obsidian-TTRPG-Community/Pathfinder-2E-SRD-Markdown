@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/crb
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/contact
@@ -14,9 +14,8 @@ aliases: ["Dragon Bile"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [contact](rules/traits/contact.md "Contact Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Price** 925 gp
-- **Usage** held in 2 hands; **Bulk** L
+- **Bulk** L; **Usage** held in 2 hands
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 A mix of digestive juices and green dragon poison glands nauseates the victim as its flesh is digested from within.
 
@@ -35,4 +34,6 @@ title: Saving Throw: DC 37 Fortitude
 **Stage 3** `9d6` poison damage and [sickened](rules/conditions.md#Sickened) (1 round)
 ```
 
+
+---
 *Source: Core Rulebook p. 551*

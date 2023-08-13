@@ -16,11 +16,13 @@ aliases: ["Pepperbox"]
 - **Access** The following regions have access to firearms: Alkenstar, Dongun Hold, Tian Xia, Vudra, Arcadia, Ustalav, the Shackles
 - **Price** 12 gp
 - **Bulk** 1
-- **Damage** `1d4` P
-- **Ammunution** rounds; **Range** 60 ft.; **Reload** 1
+  - **Damage**: `1d4` P
+  - **Ammunution** rounds; **Range** 60 ft.; **Reload** 1
 - **Hands** 1
 - **Category** Martial; **Group** Firearm 
 
 This weapon is a specialty of the smiths of Alkenstar. The pepperbox has three barrels that each hold a single shot, and the shooter can manually rotate the whole barrel assembly to align a loaded barrel with the firing mechanism.
 
+
+---
 *Source: Guns & Gears p. 151*

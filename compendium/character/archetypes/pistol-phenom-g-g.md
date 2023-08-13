@@ -28,7 +28,6 @@ To you, everything is a show, and you use your gun as a prop and instrument, not
 ```ad-embed-feat
 title: Pistol Phenom Dedication, Feat 2
 collapse: closed
-# Pistol Phenom Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: trained in at least one type of one-handed firearm, trained in [Deception](compendium/skills.md#Deception), trained in [Performance](compendium/skills.md#Performance)
@@ -48,7 +47,6 @@ This otherwise serves as Pistol Twirl for the purpose of meeting prerequisites, 
 ```ad-embed-feat
 title: Gunpowder Gauntlet, Feat 4
 collapse: closed
-# Gunpowder Gauntlet  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Pistol Phenom Dedication](compendium/feats/pistol-phenom-dedication-g-g.md)
@@ -68,7 +66,6 @@ Your flair keeps foes' attention, as your motions with your gun draw your foes i
 ```ad-embed-feat
 title: Sword And Pistol, Feat 4*
 collapse: closed
-# Sword And Pistol  *Feat 4*  
 [gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  
 
 > [!pf2-note] This version of [Sword And Pistol](compendium/feats/sword-and-pistol-g-g.md) is intended for use with the Pistol Phenom Archetype. Its level has been changed accordingly.
@@ -85,7 +82,6 @@ When you make a successful melee [Strike](rules/actions/strike.md) against an en
 ```ad-embed-feat
 title: Dazzling Bullet, Feat 6
 collapse: closed
-# Dazzling Bullet  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 - **Prerequisites**: [Pistol Phenom Dedication](compendium/feats/pistol-phenom-dedication-g-g.md)
@@ -100,7 +96,6 @@ Your tricks discombobulate your opponent, leaving spots in their vision from the
 ```ad-embed-feat
 title: Hot Foot, Feat 8
 collapse: closed
-# Hot Foot  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Pistol Phenom Dedication](compendium/feats/pistol-phenom-dedication-g-g.md)
@@ -120,7 +115,6 @@ Using a carefully aimed shot, you make a creature "dance." You shoot at the grou
 ```ad-embed-feat
 title: Phenom's Verve, Feat 10
 collapse: closed
-# Phenom's Verve  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Pistol Phenom Dedication](compendium/feats/pistol-phenom-dedication-g-g.md)
@@ -134,7 +128,6 @@ You're possessed with an incredibly vivacious spark that separates you not only 
 ```ad-embed-feat
 title: Reach For The Sky, Feat 12*
 collapse: closed
-# Reach For The Sky  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 > [!pf2-note] This version of [Reach For The Sky](compendium/feats/reach-for-the-sky-g-g.md) is intended for use with the Pistol Phenom Archetype. Its level has been changed accordingly.
@@ -152,7 +145,6 @@ You command the room, firing a gun into the air and ordering everyone to surrend
 ```ad-embed-feat
 title: Trick Shot, Feat 12*
 collapse: closed
-# Trick Shot  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 12*  
 [gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  
 
 > [!pf2-note] This version of [Trick Shot](compendium/feats/trick-shot-g-g.md) is intended for use with the Pistol Phenom Archetype. Its level has been changed accordingly.
@@ -172,7 +164,6 @@ You shoot not at your foe but at an object nearby. Make a [Strike](rules/actions
 ```ad-embed-feat
 title: Whirling Knockdown, Feat 14*
 collapse: closed
-# Whirling Knockdown  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 14*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Whirling Knockdown](compendium/feats/whirling-knockdown-g-g.md) is intended for use with the Pistol Phenom Archetype. Its level has been changed accordingly.
@@ -197,7 +188,6 @@ Make a ranged firearm [Strike](rules/actions/strike.md) against a creature withi
 ```ad-embed-feat
 title: Showstopper, Feat 16*
 collapse: closed
-# Showstopper  *Feat 16*  
 [gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  
 
 > [!pf2-note] This version of [Showstopper](compendium/feats/showstopper-g-g.md) is intended for use with the Pistol Phenom Archetype. Its level has been changed accordingly.

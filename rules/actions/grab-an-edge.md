@@ -10,7 +10,7 @@ aliases: ["Grab an Edge"]
 *Source: Core Rulebook p. 472*  
 
 
-- **Trigger** You fall from or past an edge or handhold.
+- **Trigger**: You fall from or past an edge or handhold.
 - **Requirements**: Your hands are not tied behind your back or otherwise restrained.
 - **Activity**: Reaction
 

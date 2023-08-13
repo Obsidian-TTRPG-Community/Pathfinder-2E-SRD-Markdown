@@ -12,12 +12,12 @@ aliases: ["Paralyze"]
 # Paralyze *Spell 3*   
 [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 creature
-- **Saving Throw** Will
-- **Duration**varies
+- **Range**: 30 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Will
+- **Duration**: varies
 
 You block the target's motor impulses before they can leave its mind, threatening to freeze the target in place. The target must attempt a Will save.
 

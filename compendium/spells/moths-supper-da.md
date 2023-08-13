@@ -10,9 +10,10 @@ aliases: ["Moth's Supper"]
 # Moth's Supper *Spell 3*   
 [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
-- **Traditions**: [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Duration**1 hour
+- 
+- **Duration**: 1 hour
 
 You sigh, and your breath transforms into delicate, black-winged butterflies and huge death's-head hawkmoths. They flutter about you briefly, and then range forth in search of sustenance— fresh-spilled blood, by preference, but rotting corpses, flowering plants, or even left-behind food will do in a pinch. They then return, perching on your hair or shoulders and whispering their secrets into your ears. This has three effects.
 

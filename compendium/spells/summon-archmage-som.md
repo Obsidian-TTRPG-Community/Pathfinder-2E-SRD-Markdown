@@ -11,10 +11,10 @@ aliases: ["Summon Archmage"]
 # Summon Archmage *Spell 8*   
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [incarnate](rules/traits/incarnate-som.md "Incarnate Spell Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**100 foot
-- **Duration**until the end of your next turn
+- **Range**: 100 foot
+- **Duration**: until the end of your next turn
 
 You briefly call forth the spirit of a legendary wizard from ages long past, which manifests as an immense humanoid figure (typically an elf or a human). The archmage occupies the space of a Large creature and has a Speed of 60 feet.
 

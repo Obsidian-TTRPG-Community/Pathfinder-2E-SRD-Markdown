@@ -14,7 +14,7 @@ aliases: ["Amulet's Abeyance"]
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [thaumaturge](rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
 *Source: Dark Archive p. 36*  
 
-- **Trigger** The target of your [Exploit Vulnerability](rules/actions/exploit-vulnerability-da.md) would damage you or an ally within 15 feet of you.
+- **Trigger**: The target of your [Exploit Vulnerability](rules/actions/exploit-vulnerability-da.md) would damage you or an ally within 15 feet of you.
 - **Requirements**: You're holding your First Implement and Esoterica|Thaumaturge|DA|amulet|DA|1||amulet implement and are benefiting from [Exploit Vulnerability](rules/actions/exploit-vulnerability-da.md).
 - **Activity**: Reaction
 

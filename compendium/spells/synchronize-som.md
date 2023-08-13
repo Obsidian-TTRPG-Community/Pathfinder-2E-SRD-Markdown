@@ -10,11 +10,11 @@ aliases: ["Synchronize"]
 # Synchronize *Spell 1*   
 [divination](rules/traits/divination.md "Divination School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Targets**up to 5 willing creatures
-- **Duration**up to 24 hours
+- **Range**: touch
+- **Targets**: up to 5 willing creatures
+- **Duration**: up to 24 hours
 
 You harmlessly place your unique magic sigil, which is about 1 square inch in size, on your targets. When you [Cast the Spell](rules/actions/cast-a-spell.md), you set the duration by choosing a time at which point the sigil flashes dimly three times. After that point, the spell ends. Even though spell durations aren't normally exact, the effects of synchronize are precise to the second. The timer is based on the place where the spell was cast, so entering a plane or area where time flows differently changes how the time elapses.
 

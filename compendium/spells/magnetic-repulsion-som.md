@@ -10,9 +10,10 @@ aliases: ["Magnetic Repulsion"]
 # Magnetic Repulsion *Spell 2*   
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Duration**1 minute
+- 
+- **Duration**: 1 minute
 
 You adjust your magnetic polarity, causing metal objects to jump and shudder away from you. Attacks made with metal objects against you take a –1 status penalty, and the squares adjacent to you are difficult terrain for creatures wearing metal armor. For creatures made entirely of metal, the penalty to their attack rolls is –2 and the squares adjacent to you are greater difficult terrain.
 

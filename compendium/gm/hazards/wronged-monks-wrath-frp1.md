@@ -15,9 +15,9 @@ aliases: ["Wronged Monk's Wrath"]
 A monk's tormented spirit attacks intruders.
 
 - **Disable** DC 32 [Irori Lore](compendium/skills.md#Lore) (trained) to clean the room and return the prayer items to their proper arrangement, DC 37 [Religion](compendium/skills.md#Religion) (expert) to state an Iroran prayer of peace and put the haunt to rest, or DC 40 [Occultism](compendium/skills.md#Occultism) (master) to create a ward against future hauntings.  
-     
+
 ```ad-embed-ability
-title: Ki Storm [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Ki Storm** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature enters the prayer room
 

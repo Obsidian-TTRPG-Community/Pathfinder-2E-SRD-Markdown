@@ -15,9 +15,11 @@ aliases: ["Fortress Plate"]
 - **Price** 32 gp
 - **Bulk** 5
 - **AC Bonus** +6; **Dex Cap** +0
-- **Strength** 18; **Check Penalty** --3; **Speed Penalty** -10 ft.
+- **Strength** 18; **Check Penalty** -3; **Speed Penalty** -10 ft.
 - **Category** Heavy; **Group** Plate 
 
 Dwarves of Dongun Hold developed fortress plate, which is still popular in Alkenstar and Dongun Hold. A trained wearer can adjust the articulated armor's overlapping layers of plates and panels to provide protection from missiles.
 
+
+---
 *Source: Treasure Vault p. 9*

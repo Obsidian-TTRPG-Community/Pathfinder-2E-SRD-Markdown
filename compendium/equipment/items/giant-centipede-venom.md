@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/crb
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/injury
@@ -14,9 +14,8 @@ aliases: ["Giant Centipede Venom"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [injury](rules/traits/injury.md "Injury Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Price** 4 gp
-- **Usage** held in 2 hands; **Bulk** L
+- **Bulk** L; **Usage** held in 2 hands
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 Giant centipede venom causes severe muscle stiffness.
 
@@ -34,4 +33,6 @@ title: Saving Throw: DC 17 Fortitude
 **Stage 3** `1d12` poison damage, [clumsy](rules/conditions.md#Clumsy), and [flat-footed](rules/conditions.md#Flat-footed) (1 round)
 ```
 
+
+---
 *Source: Core Rulebook p. 551*

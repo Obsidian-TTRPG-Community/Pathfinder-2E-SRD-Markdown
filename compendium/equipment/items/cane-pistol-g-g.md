@@ -18,14 +18,16 @@ aliases: ["Cane Pistol"]
 - **Access** The following regions have access to firearms: Alkenstar, Dongun Hold, Tian Xia, Vudra, Arcadia, Ustalav, the Shackles
 - **Price** 8 gp
 - **Bulk** 1
-- **Ranged**  
-  - **Damage** `1d4` P
+- **Ranged**:  
+  - **Damage**: `1d4` P
   - **Ammunution** round; **Range** 30 ft.; **Reload** 1
-- **Melee**  
-  - **Damage** `1d6` B
+- **Melee**:  
+  - **Damage**: `1d6` B
 - **Hands** 1
 - **Category** Martial
 
 This fashionable cane's handle hides a dueling pistol fired through the thin, painted cap at the bottom of the cane.
 
+
+---
 *Source: Guns & Gears p. 158*

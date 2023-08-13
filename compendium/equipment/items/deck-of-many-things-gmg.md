@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/gmg
-- item/category/artifact
+- item/category/artifact/
 - trait/artifact
 - trait/magical
 - trait/rare
@@ -14,12 +14,12 @@ aliases: ["Deck Of Many Things"]
 [artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Usage** held in 1 hand
-- **Category** Artifact
 
 These 22 cards of heavy vellum, usually stored in a box or a pouch, bear images or glyphs depicting symbols of magical power. Looking at a card without activating it shows the card face but has no [magical](rules/traits/magical.md "Magical Item Trait") effect. Once the deck is face down, the cards randomize themselves—if you look at the top card multiple times, you may find it changes. Any card removed from the deck goes missing after a few seconds, reappearing in the deck. Advice on randomly selecting cards appears on page 108.
 
 ```ad-embed-ability
-title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
+title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") envision, [Interact](rules/actions/interact.md)
+
 
 You declare how many cards you will draw facedown from the deck, then draw your first card. The card takes effect immediately. Any further cards must be drawn within the next hour, and any card you don't voluntarily draw flits off the deck and affects you anyway. You can never activate the same deck of many things again.
 
@@ -49,4 +49,6 @@ Once a card is drawn, it produces its effect immediately and then disappears bac
 - **The Void** Your mind becomes trapped forever. This card is fickle, but it often throws the psyche into a prison in an object on a distant plane or planet. Wish or similarly powerful magic can reveal your psyche's location, but it doesn't bring you back. Your comatose body continues to function. Cease drawing cards.
 ```
 
+
+---
 *Source: Gamemastery Guide p. 107*

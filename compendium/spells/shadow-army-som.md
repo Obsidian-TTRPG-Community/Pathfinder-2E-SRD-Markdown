@@ -15,12 +15,12 @@ aliases: ["Shadow Army"]
 # Shadow Army *Spell 10*   
 [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [shadow](rules/traits/shadow.md "Shadow General Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**500 foot
-- **Area**50-foot burst
-- **Saving Throw** Will
-- **Duration**1 minute
+- **Range**: 500 foot
+- **Area**: 50-foot burst
+- **Saving Throw**: Will
+- **Duration**: 1 minute
 
 You create dozens of semi-real copies of yourself that swarm across the battlefield and fight your enemies. You are virtually indistinguishable from your clones, allowing you to [Hide](rules/actions/hide.md) and [Sneak](rules/actions/sneak.md) among them. An enemy that's in the area when the spell is cast or that ends its turn in the area takes `3d10` mental damage and `3d10` bludgeoning damage, and is possibly inflicted with a condition, depending on the result of its Will save. When you [Cast the Spell](rules/actions/cast-a-spell.md), you choose a condition your shadows impose on a failed save: [clumsy](rules/conditions.md#Clumsy), [enfeebled](rules/conditions.md#Enfeebled), [flat-footed](rules/conditions.md#Flat-footed), or [slowed](rules/conditions.md#Slowed).
 

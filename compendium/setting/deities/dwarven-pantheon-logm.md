@@ -17,7 +17,7 @@ aliases: ["Dwarven Pantheon"]
 
 - **Category**: Pantheon
 - **Anathema**: dishonor your family, willingly break a contract or oath, irreparably damage an ancestral relic
-- **Areas of Concern**: ancestry, , crafting, , dwarves, , relationships
+- **Areas of Concern**: ancestry, crafting, dwarves, relationships
 - **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait")
 
 ## Devotee benefits

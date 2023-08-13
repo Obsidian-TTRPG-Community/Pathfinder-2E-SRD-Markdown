@@ -12,10 +12,12 @@ aliases: ["Morningstar"]
 
 - **Price** 1 gp
 - **Bulk** 1
-- **Damage** `1d6` B
+  - **Damage**: `1d6` B
 - **Hands** 1
 - **Category** Simple; **Group** Club 
 
 This weapon has a short shaft ending in a metal ball studded with spikes.
 
+
+---
 *Source: Core Rulebook p. 280*

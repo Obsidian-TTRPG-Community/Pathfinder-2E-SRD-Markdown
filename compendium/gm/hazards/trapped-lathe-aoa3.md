@@ -18,14 +18,12 @@ The powered lathe's springs have been critically overwound so that when jostled 
 
 - **Disable** [Thievery](compendium/skills.md#Thievery) DC 31 (expert) on the lathe releases the tension on its springs without unleashing its blades and gears.  
 
-- **AC** 30 , **Fort** +22, **Ref** +14
+- **AC** 30, **Fort** +22, **Ref** +14
 - **Hardness** 18, **HP** 72 (BT 36)
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Unleash Fragments [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Unleash Fragments** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: The lathe is jostled or damaged, or its trigger is remotely pulled.
 
@@ -34,12 +32,11 @@ title: Unleash Fragments [R](rules/core-rulebook/chapter-9-playing-the-game.md#A
 
 ````ad-pf2-summary
 title: Routine
-(4 actions) The lathe attempts four sharpened fragment attacks against creatures in the room, selecting a target randomly from all available targets in area **A1**. The trap does not take multiple attack penalties for any of its attacks. The trap loses 1 action each turn as its springs wind down, and becomes disabled when it has 0 actions.
 
+(4 actions) The lathe attempts four sharpened fragment attacks against creatures in the room, selecting a target randomly from all available targets in area **A1**. The trap does not take multiple attack penalties for any of its attacks. The trap loses 1 action each turn as its springs wind down, and becomes disabled when it has 0 actions.
 ```ad-inline-attack
 title: Ranged [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Sharpened Fragment (26)
 **Damage** `2d8+12` slashing plus `1d8` [persistent bleed damage](rules/conditions.md#Persistent%20Damage) on a critical hit 
- 
 **Effects**
 ```
 ````

@@ -15,8 +15,8 @@ aliases: ["Shadow Illusion"]
 [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [shadow](rules/traits/shadow.md "Shadow General Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**500 foot
-- **Duration**sustained
+- **Range**: 500 foot
+- **Duration**: sustained
 
 You create a shadowy illusion of a creature or a stationary object, but the illusion can exist only in an area of dim light or darkness. The spell ends if the illusion is ever out of an area of dim light or darkness. If the illusion is an object, it must fit within a 20-foot burst, and the creature can be of any size up to Gargantuan, filling a 20-foot-by-20-foot space.
 

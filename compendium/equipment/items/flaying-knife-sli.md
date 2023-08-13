@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/sli
-- item/category/held
+- item/category/held/
 - trait/magical
 - trait/necromancy
 - trait/uncommon
@@ -13,9 +13,10 @@ aliases: ["Flaying Knife"]
 [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 480 gp
-- **Usage** held in 1 hand; **Bulk** 1
-- **Category** Held
+- **Bulk** 1; **Usage** held in 1 hand
 
 This long, thin +1 striking wounding dagger has a smooth edge on one side and a serrated edge on the other. Its [persistent bleed damage](rules/conditions.md#Persistent%20Damage) comes from slicing away long strips of the target's flesh, and it deals `1d8` [persistent bleed damage](rules/conditions.md#Persistent%20Damage) on a hit instead of `1d6`. A creature takes a –2 status penalty to saving throws against diseases for as long as it has [persistent bleed damage](rules/conditions.md#Persistent%20Damage) from this knife.
 
+
+---
 *Source: The Slithering p. 60*

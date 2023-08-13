@@ -14,7 +14,6 @@ Knights reclaimant spend much of their time amid the horrors of the Gravelands, 
 ```ad-embed-feat
 title: Knight Reclaimant Dedication, Feat 6
 collapse: closed
-# Knight Reclaimant Dedication  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: trained in [Survival](compendium/skills.md#Survival) and [Stealth](compendium/skills.md#Stealth), any non-evil alignment, member of the Knights of Lastwall of knight rank
@@ -30,7 +29,6 @@ You have sworn the Crimson Oath and become a full member of the Crimson Reclaime
 ```ad-embed-feat
 title: Invoke The Crimson Oath, Feat 8
 collapse: closed
-# Invoke The Crimson Oath  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Knight Reclaimant Dedication](compendium/feats/knight-reclaimant-dedication-locg.md)
@@ -44,7 +42,6 @@ You can invoke the Crimson Oath to unleash blasts of ruby energy from your weapo
 ```ad-embed-feat
 title: Reactive Pursuit, Feat 8*
 collapse: closed
-# Reactive Pursuit  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
 [rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 > [!pf2-note] This version of [Reactive Pursuit](compendium/feats/reactive-pursuit.md) is intended for use with the Knight Reclaimant Archetype. Its level has been changed accordingly.
@@ -61,7 +58,6 @@ You keep pace with a retreating foe. You [Stride](rules/actions/stride.md), but 
 ```ad-embed-feat
 title: Scout's Warning (Ranger), Feat 8*
 collapse: closed
-# Scout's Warning (Ranger)  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 8*  
 [ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 > [!pf2-note] This version of [Scout's Warning (Ranger)](compendium/feats/scouts-warning-ranger.md) is intended for use with the Knight Reclaimant Archetype. Its level has been changed accordingly.
@@ -78,7 +74,6 @@ You visually or audibly warn your allies of danger, granting them each a +1 circ
 ```ad-embed-feat
 title: Survivor Of Desolation, Feat 8
 collapse: closed
-# Survivor Of Desolation  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Knight Reclaimant Dedication](compendium/feats/knight-reclaimant-dedication-locg.md)
@@ -92,7 +87,6 @@ You gain a +2 circumstance bonus to saving throws against unnatural weather even
 ```ad-embed-feat
 title: Blade Of The Crimson Oath, Feat 12*
 collapse: closed
-# Blade Of The Crimson Oath  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Blade Of The Crimson Oath](compendium/feats/blade-of-the-crimson-oath-locg.md) is intended for use with the Knight Reclaimant Archetype. Its level has been changed accordingly.
@@ -109,7 +103,6 @@ You call upon the Crimson Oath to smite undead and then make a weapon or unarmed
 ```ad-embed-feat
 title: Camouflage, Feat 12*
 collapse: closed
-# Camouflage  *Feat 12*  
 [ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 > [!pf2-note] This version of [Camouflage](compendium/feats/camouflage.md) is intended for use with the Knight Reclaimant Archetype. Its level has been changed accordingly.
@@ -125,7 +118,6 @@ You alter your appearance to blend in to the wilderness. In natural terrain, you
 ```ad-embed-feat
 title: Reaper Of Repose, Feat 12*
 collapse: closed
-# Reaper Of Repose  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Reaper Of Repose](compendium/feats/reaper-of-repose-locg.md) is intended for use with the Knight Reclaimant Archetype. Its level has been changed accordingly.
@@ -141,7 +133,6 @@ Your skill and fervor allow you to pierce undead defenses and exploit their weak
 ```ad-embed-feat
 title: Sneak Savant, Feat 12*
 collapse: closed
-# Sneak Savant  *Feat 12*  
 [rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 > [!pf2-note] This version of [Sneak Savant](compendium/feats/sneak-savant.md) is intended for use with the Knight Reclaimant Archetype. Its level has been changed accordingly.

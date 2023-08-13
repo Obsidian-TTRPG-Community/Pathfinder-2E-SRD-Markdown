@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/crb
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/contact
@@ -14,9 +14,8 @@ aliases: ["Malyass Root Paste"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [contact](rules/traits/contact.md "Contact Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Price** 55 gp
-- **Usage** held in 2 hands; **Bulk** L
+- **Bulk** L; **Usage** held in 2 hands
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 Malyass root paste sees use to impede opponents in athletic competitions, in addition to espionage and tracking.
 
@@ -33,4 +32,6 @@ title: Saving Throw: DC 26 Fortitude
 **Stage 2** [clumsy](rules/conditions.md#Clumsy) and –20-foot status penalty to all Speeds ; (1 minute)
 ```
 
+
+---
 *Source: Core Rulebook p. 552*

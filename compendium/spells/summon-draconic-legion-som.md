@@ -11,10 +11,10 @@ aliases: ["Summon Draconic Legion"]
 # Summon Draconic Legion *Spell 9*   
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [incarnate](rules/traits/incarnate-som.md "Incarnate Spell Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**100 foot
-- **Duration**until the end of your next turn
+- **Range**: 100 foot
+- **Duration**: until the end of your next turn
 
 You momentarily summon an army of powerful dragons that unleash annihilating blasts as they descend upon your location. These dragons act as one and collectively occupy the space of a [Gargantuan](rules/traits/gargantuan-b1.md "Gargantuan Size Trait") creature. They have a fly Speed of 100 feet. When you [Cast this Spell](rules/actions/cast-a-spell.md), choose whether it summons chromatic or metallic dragons.
 

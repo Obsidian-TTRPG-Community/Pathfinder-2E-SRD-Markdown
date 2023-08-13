@@ -18,14 +18,12 @@ A trip wire halfway up the stairs releases half a dozen spherical thunderstones 
 
 - **Disable** DC 27 [Thievery](compendium/skills.md#Thievery) (expert) to safely cut the trip wire.  
 
-- **AC** 26 , **Fort** +15, **Ref** +13
-- **HP** 54; **default Hardness** 0, 
+- **AC** 26, **Fort** +15, **Ref** +13
+- **HP** 54; **default Hardness** 0
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Thunderstone Explosion [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Thunderstone Explosion** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: The trip wire is disturbed
 

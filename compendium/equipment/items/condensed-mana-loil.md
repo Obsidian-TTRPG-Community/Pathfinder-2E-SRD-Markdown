@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/loil
-- item/category/consumable
+- item/category/consumable/
 - trait/alchemical
 - trait/consumable
 - trait/rare
@@ -13,9 +13,9 @@ aliases: ["Condensed Mana"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 69 gp
-- **Usage** held in 1 hand; **Bulk** L
+- **Craft Requirements** You must be in or adjacent to an area of Mana Wastes miasma.
+- **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Strike](rules/actions/strike.md)
-- **Category** Consumable
 
 Condensed mana is a crystal vial filled with concentrated miasma from the Mana Wastes. The colors shift abruptly and unpredictably within and the opening of the bottle is sealed tighter than any other potion or alchemical item, emphasizing its dangers.
 
@@ -25,4 +25,6 @@ If the effect normally doesn't have a DC, creatures affected by the surge or wit
 
 Sometimes a wellspring surge's effects make it difficult to determine exactly who is affected. The GM makes the determination, basing it on creatures directly affected; for example, while many creatures can hear the music from the surge "strike up the band," only the creature emanating the music is directly affected by it.
 
+
+---
 *Source: Lost Omens: Impossible Lands p. 234*

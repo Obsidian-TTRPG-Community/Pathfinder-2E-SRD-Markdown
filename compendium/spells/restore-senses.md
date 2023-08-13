@@ -11,10 +11,10 @@ aliases: ["Restore Senses"]
 # Restore Senses *Spell 2*   
 [healing](rules/traits/healing.md "Healing Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Targets**1 creature
+- **Range**: touch
+- **Targets**: 1 creature
 
 You attempt to counteract a single effect imposing the [blinded](rules/conditions.md#Blinded) or [deafened](rules/conditions.md#Deafened) conditions on the target, restoring its vision or hearing. This can counteract both temporary magic and permanent consequences of magic, but it doesn't cure someone who does not have the sense due to some natural state or effect, such as from birth or from a non-magical wound or toxin.
 

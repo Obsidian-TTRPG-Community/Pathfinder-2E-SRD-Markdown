@@ -15,12 +15,12 @@ aliases: ["Shared Nightmare"]
 # Shared Nightmare *Focus 4*   
 [cleric](rules/traits/cleric.md "Cleric Class Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains**: [nightmares](compendium/setting/domains.md#Nightmares)
+- **Domains** [nightmares](compendium/setting/domains.md#Nightmares)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 creature
-- **Saving Throw** Will
-- **Duration**varies
+- **Range**: 30 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Will
+- **Duration**: varies
 
 Merging minds with the target, you swap disorienting visions from one another's nightmares. One of you will become [confused](rules/conditions.md#Confused), but which it'll be depends on the target's Will save.
 

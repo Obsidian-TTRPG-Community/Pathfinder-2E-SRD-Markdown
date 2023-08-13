@@ -14,7 +14,8 @@ aliases: ["Nymph's Token"]
 
 - **Bloodline** Sorcerer
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Duration**1 minute
+- 
+- **Duration**: 1 minute
 
 You grant an ally a token of favor. You create a token, such as a lock of your hair or a flower, that persists for the spell's duration; as part of [Casting the Spell](rules/actions/cast-a-spell.md), you can [Interact](rules/actions/interact.md) to pass the token to an ally within your reach. As long as the ally has the token on their person, they gain a +1 status bonus to [Performance](compendium/skills.md#Performance) checks and Will saves. You can [Dismiss](rules/actions/dismiss.md) the spell as a free action.
 

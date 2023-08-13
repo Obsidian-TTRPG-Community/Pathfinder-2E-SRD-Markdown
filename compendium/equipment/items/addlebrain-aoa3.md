@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/aoa3
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/inhaled
@@ -15,9 +15,8 @@ aliases: ["Addlebrain"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [inhaled](rules/traits/inhaled.md "Inhaled Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 58 gp
-- **Usage** held in 2 hands; **Bulk** L
+- **Bulk** L; **Usage** held in 2 hands
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 Certain Scarlet Triad poisoners use toxins like addlebrain to keep captured prisoners docile and compliant for short periods of time until they can be properly shackled and imprisoned. Addlebrain is distilled from a hallucinogenic lichen that can often be found growing in the sewers below particularly large cities like Katapesh.
 
@@ -38,4 +37,6 @@ title: Saving Throw: DC 25 Fortitude
 **Stage 3** [fatigued](rules/conditions.md#Fatigued), [enfeebled](rules/conditions.md#Enfeebled), and [stupefied](rules/conditions.md#Stupefied) (1 day)
 ```
 
+
+---
 *Source: Age of Ashes #3: Tomorrow Must Burn p. 71*

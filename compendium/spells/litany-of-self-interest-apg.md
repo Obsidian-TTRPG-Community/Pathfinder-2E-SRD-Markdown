@@ -16,10 +16,10 @@ aliases: ["Litany Of Self-interest"]
 [champion](rules/traits/champion.md "Champion Class Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [evil](rules/traits/evil.md "Evil Alignment Trait")  [litany](rules/traits/litany.md "Litany Spell Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**30 foot
-- **Targets**1 creature
-- **Saving Throw** Will
-- **Duration**1 round
+- **Range**: 30 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Will
+- **Duration**: 1 round
 
 You give a speech that fills your target with a drive to improve themself to the exclusion of assisting others. A creature that wants to gain the benefit of this spell and doesn't care about its limitations can voluntarily fail the save. The target then becomes temporarily immune to all your litanies for 1 minute.
 

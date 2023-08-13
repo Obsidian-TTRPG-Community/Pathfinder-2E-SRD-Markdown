@@ -91,9 +91,7 @@ Change the [human](rules/traits/human.md "Human Ancestry & Heritage Trait") trai
 - Add the keen eyes ability below.
 
 ```ad-embed-ability
-title: Keen Eyes
-
-Your eyes are sharp, allowing you to make out small details about concealed or even invisible creatures that others might miss. You gain a +2 circumstance bonus when using the Seek action to find hidden or undetected creatures within 30 feet of you. When you target an opponent that is concealed from you or hidden from you, reduce the DC of the flat check to 3 for a concealed target or 9 for a hidden one.
+title: **Keen Eyes** Your eyes are sharp, allowing you to make out small details about concealed or even invisible creatures that others might miss. You gain a +2 circumstance bonus when using the Seek action to find hidden or undetected creatures within 30 feet of you. When you target an opponent that is concealed from you or hidden from you, reduce the DC of the flat check to 3 for a concealed target or 9 for a hidden one.
 ```
 
 ### Making a Specialist
@@ -102,49 +100,43 @@ Your eyes are sharp, allowing you to make out small details about concealed or e
 These NPCs contain several specialists, such as barristers and navigators, who are a higher-level challenge at their specialty than in combat, and often have a special ability related to it. To make your own specialists, you can easily switch out skills, but you might want to use the following special abilities to make those NPCs more evocative!
 
 ```ad-embed-ability
-title: Butter Up
-[emotion](rules/traits/emotion.md "Emotion Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
+title: **Butter Up**  ([emotion](rules/traits/emotion.md), [mental](rules/traits/mental.md))
+
 
 When someone eats a dish or treat made by this NPC, the NPC can attempt a Baking Lore, Cooking Lore, or similar check against that creature's Will DC, with the same results as the Make an Impression action of [Diplomacy](compendium/skills.md#Diplomacy). If more than one creature partakes, the NPC uses the same check result against each creature's Will DC.  
-%% #trait/emotion #trait/mental %%
+%%
+ #trait/emotion  #trait/mental 
+%%
 ```
 
 ```ad-embed-ability
-title: Call Your Bluff
-
-When gambling, the NPC may use Games Lore to Sense Motive instead of Perception.
+title: **Call Your Bluff** When gambling, the NPC may use Games Lore to Sense Motive instead of Perception.
 ```
 
 ```ad-embed-ability
-title: Child Care
-
-When treating infants, the NPC can use their Midwifery Lore skill in place of [Medicine](compendium/skills.md#Medicine), and can use [Medicine](compendium/skills.md#Medicine)'s trained actions on infants.
+title: **Child Care** When treating infants, the NPC can use their Midwifery Lore skill in place of [Medicine](compendium/skills.md#Medicine), and can use [Medicine](compendium/skills.md#Medicine)'s trained actions on infants.
 ```
 
 ```ad-embed-ability
-title: Find Footing [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
+title: **Find Footing** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") ([concentrate](rules/traits/concentrate.md))
+
 
 The NPC attempts an Architecture Lore, Engineering Lore, or similar skill check to find a stable path across uneven ground. This grants them and anyone they share this information with a +2 circumstance bonus on [Acrobatics](compendium/skills.md#Acrobatics) checks to Balance across that ground.  
-%% #trait/concentrate %%
+%%
+ #trait/concentrate 
+%%
 ```
 
 ```ad-embed-ability
-title: Gone Fishing
-
-The NPC can use Fishing Lore to Track aquatic creatures or to Aid checks to Track them.
+title: **Gone Fishing** The NPC can use Fishing Lore to Track aquatic creatures or to Aid checks to Track them.
 ```
 
 ```ad-embed-ability
-title: Local Lore
-
-When they first meet a given person from their home settlement, the NPC can automatically attempt one check to Recall Knowledge about that person. This uses the Lore skill for that settlement.
+title: **Local Lore** When they first meet a given person from their home settlement, the NPC can automatically attempt one check to Recall Knowledge about that person. This uses the Lore skill for that settlement.
 ```
 
 ```ad-embed-ability
-title: Quick Transcription
-
-The NPC can attempt to copy a document faster than normal, provided they don't alter the content. They attempt a Scribing Lore check, completing the task in half the time on a success (onequarter on a critical success).
+title: **Quick Transcription** The NPC can attempt to copy a document faster than normal, provided they don't alter the content. They attempt a Scribing Lore check, completing the task in half the time on a success (onequarter on a critical success).
 ```
 
 | NPC | Level | Page |

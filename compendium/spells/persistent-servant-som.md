@@ -11,11 +11,11 @@ aliases: ["Persistent Servant"]
 # Persistent Servant *Spell 2*   
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 1 minute 
-- **Range**120 foot
-- **Area**60-foot burst
-- **Duration**until your next daily preparations
+- **Range**: 120 foot
+- **Area**: 60-foot burst
+- **Duration**: until your next daily preparations
 
 You call forth an unseen servant (Core Rulebook 380) and task it to perform a specific chore repeatedly. Choose a basic instruction, such as sweeping the floor, or picking up all objects from the floor and putting them in a designated bin. The servant performs the task over and over again throughout the duration, though it can't ever leave the spell's area.
 

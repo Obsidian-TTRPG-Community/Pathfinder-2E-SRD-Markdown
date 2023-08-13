@@ -13,7 +13,7 @@ aliases: ["Probing Cane"]
 
 - **Price** 5 sp
 - **Bulk** L
-- **Damage** `1d6` B
+  - **Damage**: `1d6` B
 - **Hands** 1
 - **Category** Martial; **Group** Club 
 
@@ -23,4 +23,6 @@ The cane is typically several feet long, generally reaching the user's chin, but
 
 Probing canes are made from reinforced wood with the same strengthening process and treatment as a [longbow](compendium/equipment/items/longbow.md), creating a cane that is both high quality and durable enough for an adventuring owner to use as a weapon. A probing cane deals `1d6` bludgeoning damage, has the [finesse](rules/traits/finesse.md "Finesse Weapon Trait") and [sweep](rules/traits/sweep.md "Sweep Weapon Trait") traits, and is a martial melee weapon in the club weapon group.
 
+
+---
 *Source: Lost Omens: The Grand Bazaar p. 67*

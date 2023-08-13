@@ -13,11 +13,11 @@ aliases: ["Power Word Blind"]
 # Power Word Blind *Spell 7*   
 [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait")
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**30 foot
-- **Targets**1 creature
-- **Duration**varies
+- **Range**: 30 foot
+- **Targets**: 1 creature
+- **Duration**: varies
 
 You utter an arcane word of power that can make the target [blinded](rules/conditions.md#Blinded) upon hearing it. Once targeted, the target is then temporarily immune for 10 minutes. The effect of the spell depends on the target's level.
 

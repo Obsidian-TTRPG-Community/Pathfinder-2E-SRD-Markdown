@@ -12,11 +12,11 @@ aliases: ["Morass of Ages"]
 # Morass of Ages *Spell 4*   
 [aura](rules/traits/aura.md "Aura Combat Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Area**5-foot emanation
-- **Saving Throw** Fortitude
-- **Duration**sustained up to 1 minute
+- **Area**: 5-foot emanation
+- **Saving Throw**: Fortitude
+- **Duration**: sustained up to 1 minute
 
 You surround yourself in temporal eddies that draw out time for those around you, making every step feel like an eternity endured. A creature in the emanation, or that later enters the emanation, must attempt a Fortitude save. The creature makes this save only once and uses the same effect for the duration of the spell. Each time you [Sustain the Spell](rules/actions/sustain-a-spell.md), you can choose to increase the emanation's radius by 5 feet, to a maximum of 60 feet.
 

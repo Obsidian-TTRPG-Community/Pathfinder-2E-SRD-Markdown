@@ -17,10 +17,9 @@ These desperate spirits are the echoes of people who committed great atrocities 
 Now, they are left with only the knowledge that their souls have been damned, and the unwavering belief that they can better their fate by providing powerful sacrifices for their fiendish masters.
 
 - **Disable** DC 46 [Religion](compendium/skills.md#Religion) (master) to inspire a deity to intervene and counteract the ritual  
-     
+
 ```ad-embed-ability
-title: Mark for Damnation [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[death](rules/traits/death.md "Death Effect Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
+title: **Mark for Damnation** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([death](rules/traits/death.md), [divine](rules/traits/divine.md), [necromancy](rules/traits/necromancy.md))
 
 - **Trigger**: Three or more sentient living creatures of 13th level or higher enter the haunt's area
 
@@ -33,7 +32,9 @@ title: Mark for Damnation [R](rules/core-rulebook/chapter-9-playing-the-game.md#
 > - **Critical Failure** The creature takes double damage, becomes [doomed](rules/conditions.md#Doomed), and is marked for damnation.
 >
 >    If a creature that is marked for damnation dies within the next 24 hours, including from the haunt's damage, its soul is immediately dragged away to the plane of the evil deity that the damned spirits served, where the creature's soul is held captive by one of that deity's powerful servitors. Only wish and similarly potent effects are able to recover the lost soul directly; however, it is also possible to recover the soul by journeying to the evil plane and defeating the soul's captor.  
-%% #trait/death #trait/divine #trait/necromancy %%
+%%
+ #trait/death  #trait/divine  #trait/necromancy 
+%%
 ```
 
 **Reset** 1 day  

@@ -11,10 +11,11 @@ aliases: ["Summoner's Precaution"]
 # Summoner's Precaution *Spell 2*   
 [contingency](rules/traits/contingency-som.md "Contingency Spell Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** 10 minutes 
-- **Requirements**You have an eidolon.
-- **Duration**until your next daily preparations
+- **Requirements**: You have an eidolon.
+- 
+- **Duration**: until your next daily preparations
 
 You create a buffer in the link between yourself and your eidolon in order to prevent you from falling alongside your bonded ally. You gain the following reaction; after using it, the spell ends.
 

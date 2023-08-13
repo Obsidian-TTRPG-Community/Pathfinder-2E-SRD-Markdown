@@ -11,11 +11,11 @@ aliases: ["Status"]
 # Status *Spell 2*   
 [detection](rules/traits/detection.md "Detection Effect Trait")  [divination](rules/traits/divination.md "Divination School Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Targets**1 willing living creature
-- **Duration**until the next time you make your daily preparations
+- **Range**: touch
+- **Targets**: 1 willing living creature
+- **Duration**: until the next time you make your daily preparations
 
 As long as you and the target are on the same plane of existence and both alive, you remain aware of its present state. You know the target's direction from you, distance from you, and any conditions affecting it.
 

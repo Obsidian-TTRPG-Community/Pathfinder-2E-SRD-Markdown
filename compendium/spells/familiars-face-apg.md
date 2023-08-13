@@ -11,11 +11,11 @@ aliases: ["Familiar's Face"]
 # Familiar's Face *Spell 3*   
 [divination](rules/traits/divination.md "Divination School Trait")  [scrying](rules/traits/scrying.md "Scrying Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**mile
-- **Targets**1 willing creature that is your animal companion or familiar
-- **Duration**sustained
+- **Range**: mile
+- **Targets**: 1 willing creature that is your animal companion or familiar
+- **Duration**: sustained
 
 The target becomes a scrying sensor, allowing you to see through its eyes, smell what it smells, and similarly use its other senses.
 

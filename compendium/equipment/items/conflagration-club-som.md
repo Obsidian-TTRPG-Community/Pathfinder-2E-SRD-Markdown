@@ -12,13 +12,13 @@ aliases: ["Conflagration Club"]
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 250 gp
-- **Usage** held in 2 hands; **Bulk** 2
+- **Bulk** 2; **Usage** held in 2 hands
 - **Category** Martial
 
 A ring of magical crystals encircles the base of this greatclub, allowing it to absorb and store magical energy.
 
 ```ad-embed-ability
-title: Activate [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Activate** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") envision
 
 - **Trigger**: You [Cast a Spell](rules/actions/cast-a-spell.md) from a spell slot, and the spell has the acid, cold, electricity, [fire](rules/traits/fire.md "Fire Energy & Element Trait"), or [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait") trait
 - **Requirements**: The club has no charges
@@ -27,13 +27,16 @@ title: Activate [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "R
 ```
 
 ```ad-embed-ability
-title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") command, envision ([evocation](rules/traits/evocation.md), [magical](rules/traits/magical.md))
 
 - **Requirements**: The club has at least 1 charge
 
 **Effect** You flip the club around to blast a cone of energy from its base. Each creature in a 15-foot cone takes `1d6` damage per charge stored in the club, with a basic Reflex save against your spell DC or DC 19, whichever is greater. The damage type is the same type the charges were attuned to. The club loses all of its charges.  
-%% #trait/evocation #trait/magical %%
+%%
+ #trait/evocation  #trait/magical 
+%%
 ```
 
+
+---
 *Source: Secrets of Magic p. 182*

@@ -13,9 +13,9 @@ aliases: ["Detect Magic"]
 # Detect Magic *Cantrip 1*   
 [cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [detection](rules/traits/detection.md "Detection Effect Trait")  [divination](rules/traits/divination.md "Divination School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Area**30-foot emanation
+- **Area**: 30-foot emanation
 
 You send out a pulse that registers the presence of magic. You receive no information beyond the presence or absence of magic.
 

@@ -11,11 +11,11 @@ aliases: ["Chromatic Armor"]
 # Chromatic Armor *Spell 4*   
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [light](rules/traits/light.md "Light Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") or [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**touch
-- **Targets**1 willing creature
-- **Duration**1 minute
+- **Range**: touch
+- **Targets**: 1 willing creature
+- **Duration**: 1 minute
 
 You wrap the target in armor made of sheets of colored light.
 

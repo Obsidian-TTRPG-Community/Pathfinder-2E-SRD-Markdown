@@ -10,11 +10,11 @@ aliases: ["Quick Sort"]
 # Quick Sort *Spell 1*   
 [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**10 foot
-- **Targets**up to 200 unattended objects in range, each of light Bulk or less
-- **Duration**up to 1 minute
+- **Range**: 10 foot
+- **Targets**: up to 200 unattended objects in range, each of light Bulk or less
+- **Duration**: up to 1 minute
 
 You magically sort a group of objects into neat stacks or piles. You can sort the objects in two different ways.
 

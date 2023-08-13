@@ -14,10 +14,12 @@ aliases: ["Sword Cane"]
 
 - **Price** 5 gp
 - **Bulk** 1
-- **Damage** `1d6` P
+  - **Damage**: `1d6` P
 - **Hands** 1
 - **Category** Martial; **Group** Sword 
 
 This slender, rapier-like sword is concealed within a wooden or metal cane that serves as a sheath, making it an inconspicuous weapon easy to slip past inspections or into high-society events. A sword cane is typically 4 feet long when sheathed, and its hilt is usually capped with a wooden or metal decoration.
 
+
+---
 *Source: Advanced Player's Guide p. 248*

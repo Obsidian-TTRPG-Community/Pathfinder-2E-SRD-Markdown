@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/g&g
-- item/category/held
+- item/category/held/
 - trait/chaotic
 - trait/evocation
 - trait/magical
@@ -14,13 +14,13 @@ aliases: ["Pistol Of Wonder"]
 [chaotic](rules/traits/chaotic.md "Chaotic Alignment Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 3000 gp
-- **Usage** held in 1 hand; **Bulk** L
-- **Category** Held
+- **Bulk** L; **Usage** held in 1 hand
 
 This +2 greater striking flintlock pistol bears strange, jagged markings of erratic design and has an oddly squishy grip. It can be activated to produce a variety of unusual effects.
 
 ```ad-embed-ability
-title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
+title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") command, [Interact](rules/actions/interact.md)
+
 
 Choose a creature within 60 feet and roll a percentile die on the table below to determine the pistol's effect. If an entry lists a spell, the pistol Casts that Spell at the indicated level (or at its lowest level, if no level is listed). You make any decisions for a spell cast by the pistol unless otherwise indicated, except that it must only target the creature you chose, or the creature you chose must be the center of the spell's area, if it has an area but no targets. The only exception to the limitation on targeting is if the effect specifically states it targets you. If the spell's range is less than 60 feet, increase the range to 60 feet.
 
@@ -93,4 +93,6 @@ d% Wondrous Effect 1–2 The pistol casts phantom steed (4th level) to produce a
 No gunslinger's or arbalist's repertoire is complete without a selection of magical ammunition to amplify the effectiveness and impact of their shots. While many of the following options are limited to firearm rounds, others work for a variety of ammunition.
 ```
 
+
+---
 *Source: Guns & Gears p. 167*

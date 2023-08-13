@@ -19,7 +19,7 @@ aliases: ["Kurgess", "The Strong Man"]
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: cheat at honorable contests, dishonor those who have lost or failed (including defeated or slain enemies), engage in reckless or needless destruction or bloodshed
-- **Areas of Concern**: healthy competition, , sport, , and physical development
+- **Areas of Concern**: healthy competition, sport, and physical development
 - **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")
 
 ## Devotee benefits
@@ -37,8 +37,9 @@ When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Ku
 title: [Avatar](compendium/spells/avatar.md) of Kurgess
 
 - **Speed**: Speed 70 feet, climb 50 feet, swim 50 feet, immune to [immobilized](rules/conditions.md#Immobilized)
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") lashing chain ([disarm](rules/traits/disarm.md "Disarm Weapon Trait"), [reach <20 feet>](rules/traits/reach-20-feet.md "Reach Weapon Trait"), [trip](rules/traits/trip.md "Trip Weapon Trait")), **Damage** `6d6+6` bludgeoning
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") javelin ([thrown](rules/traits/thrown.md "Thrown Weapon Trait")), **Damage** `6d6+3` piercing
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") lashing chain (, [disarm](rules/traits/disarm.md "Disarm Weapon Trait"), [reach <20 feet>](rules/traits/reach-20-feet.md "Reach Weapon Trait"), [trip](rules/traits/trip.md "Trip Weapon Trait")), **Damage** `6d6+6` bludgeoning 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") javelin (, [thrown](rules/traits/thrown.md "Thrown Weapon Trait")), **Damage** `6d6+3` piercing 
 ```
 
 ## Divine intercession

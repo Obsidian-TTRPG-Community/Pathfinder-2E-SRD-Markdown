@@ -17,11 +17,13 @@ aliases: ["Flingflenser"]
 - **Access** The following regions have access to firearms: Alkenstar, Dongun Hold, Tian Xia, Vudra, Arcadia, Ustalav, the Shackles
 - **Price** 6 gp
 - **Bulk** 1
-- **Damage** `1d6` S
-- **Ammunution** rounds; **Range** 30 ft.; **Reload** 1
+  - **Damage**: `1d6` S
+  - **Ammunution** rounds; **Range** 30 ft.; **Reload** 1
 - **Hands** 2
 - **Category** Advanced; **Group** Firearm 
 
 A flingflenser is a goblin-designed weapon ending in an ovoid tube with a hatch and handle on the narrow end. A cluster of circular blades held together and attached to a black powder packet with a thin leather strap serves as ammunition and is loaded through the hatch before being fired with a flintlock or other external ignition mechanism. The flingflenser's sturdy design also places it among the more reliable goblin weapons.
 
+
+---
 *Source: Guns & Gears p. 151*

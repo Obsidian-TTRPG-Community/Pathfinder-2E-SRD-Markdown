@@ -13,11 +13,11 @@ aliases: ["Malignant Sustenance"]
 # Malignant Sustenance *Focus 4*   
 [cleric](rules/traits/cleric.md "Cleric Class Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains**: [undeath](compendium/setting/domains.md#Undeath)
+- **Domains** [undeath](compendium/setting/domains.md#Undeath)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Targets**1 willing undead creature
-- **Duration**1 minute
+- **Range**: touch
+- **Targets**: 1 willing undead creature
+- **Duration**: 1 minute
 
 You embed a seed of negative energy in an undead creature, restoring its unnatural vigor. The target gains fast healing 7.
 

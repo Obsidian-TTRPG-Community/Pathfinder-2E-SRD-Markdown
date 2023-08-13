@@ -10,11 +10,11 @@ aliases: ["Animate Rope"]
 # Animate Rope *Spell 1*   
 [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**100 foot
-- **Targets**up to 50 feet of rope or a nonliving rope-like object
-- **Duration**sustained up to 1 minute
+- **Range**: 100 foot
+- **Targets**: up to 50 feet of rope or a nonliving rope-like object
+- **Duration**: sustained up to 1 minute
 
 You cause a length or section of rope or a rope-like object to animate and follow simple commands. You can give it two commands when you [Cast the Spell](rules/actions/cast-a-spell.md), and one command each time you [Sustain the Spell](rules/actions/sustain-a-spell.md).
 

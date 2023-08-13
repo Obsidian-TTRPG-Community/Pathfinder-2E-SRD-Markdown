@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/ec4
-- item/category/worn
+- item/category/worn/
 - trait/evocation
 - trait/magical
 - trait/rare
@@ -13,13 +13,12 @@ aliases: ["Noxious Jerkin"]
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 2800 gp
-- **Usage** worn; **Bulk** L
-- **Category** Worn
+- **Bulk** L; **Usage** worn
 
 This +2 resilient padded armor is woven from many strands of gut cord strung with dried organs and preserved xulgath scent glands. When worn, it infuses your body with a ghastly and nauseating flavor.
 
 ```ad-embed-ability
-title: Activate [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
+title: **Activate** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") envision
 
 - **Trigger**: You are [grabbed](rules/conditions.md#Grabbed) or are hit by an unarmed attack
 
@@ -31,4 +30,6 @@ title: Activate [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "F
 > - **Critical Failure** The creature is [sickened](rules/conditions.md#Sickened) and is [slowed](rules/conditions.md#Slowed) for 1 round.
 ```
 
+
+---
 *Source: Extinction Curse #4: Siege of the Dinosaurs p. 76*

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
-- item/category/staff
+- item/category/staff/
 - trait/good
 - trait/magical
 - trait/staff
@@ -15,13 +15,14 @@ aliases: ["Celestial Staff"]
 [good](rules/traits/good.md "Good Alignment Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 14000 gp
-- **Usage** held in 1 hand; **Bulk** 1
-- **Category** Staff
+- **Craft Requirements** You're good. Supply one casting of all listed levels of all listed spells.
+- **Bulk** 1; **Usage** held in 1 hand
 
 Heavenly radiance shines from an active celestial staff, a golden staff capped with a pair of sculpted angel's wings. Used as a weapon, the staff is a +2 greater striking holy staff. While wielding a celestial staff, you gain a +1 circumstance bonus to saving throws against effects that have the [evil](rules/traits/evil.md "Evil Alignment Trait") trait and effects created by evil creatures. When you prepare this staff, if you're evil, you become [drained](rules/conditions.md#Drained) until your next daily preparations.
 
 ```ad-embed-ability
-title: Activate
+title: **Activate**  [Cast a Spell](rules/actions/cast-a-spell.md)
+
 
 You expend a number of charges from the staff to cast a spell from its list.
 
@@ -35,4 +36,6 @@ You expend a number of charges from the staff to cast a spell from its list.
 - 7th angel form , inner radiance torrent, summon celestial
 ```
 
+
+---
 *Source: Treasure Vault p. 131*

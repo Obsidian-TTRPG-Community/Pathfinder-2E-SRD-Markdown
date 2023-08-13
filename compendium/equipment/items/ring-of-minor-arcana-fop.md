@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/fop
-- item/category/worn
+- item/category/worn/
 - trait/arcane
 - trait/evocation
 - trait/invested
@@ -15,7 +15,6 @@ aliases: ["Ring Of Minor Arcana"]
 
 - **Price** 160 gp
 - **Usage** worn
-- **Category** Worn
 
 This rose-gold ring is adorned in the center by a somewhat ominous-looking horned skull.
 
@@ -23,4 +22,6 @@ This ring gives you the power to cast the following innate arcane cantrips any n
 
 If you are an arcane spellcaster, these can instead be heightened to the level of your cantrips.
 
+
+---
 *Source: The Fall of Plaguestone p. 58*

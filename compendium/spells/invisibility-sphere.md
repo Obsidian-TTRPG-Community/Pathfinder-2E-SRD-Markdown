@@ -11,11 +11,11 @@ aliases: ["Invisibility Sphere"]
 # Invisibility Sphere *Spell 3*   
 [illusion](rules/traits/illusion.md "Illusion School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Area**10-foot emanation
-- **Targets**you and any number of creatures in range
-- **Duration**10 minutes
+- **Area**: 10-foot emanation
+- **Targets**: you and any number of creatures in range
+- **Duration**: 10 minutes
 
 You and all targets are [invisible](rules/conditions.md#Invisible) except to each other as long as you remain within the spell's area. If a creature made [invisible](rules/conditions.md#Invisible) by this spell leaves the spell's area, it becomes visible and remains so even if it returns to the spell's area. If any creature made [invisible](rules/conditions.md#Invisible) by this spell uses a [hostile](rules/conditions.md#Hostile) action, the spell ends after the [hostile](rules/conditions.md#Hostile) action is completed.
 

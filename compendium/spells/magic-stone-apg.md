@@ -11,11 +11,11 @@ aliases: ["Magic Stone"]
 # Magic Stone *Spell 1*   
 [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") to [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**touch
-- **Targets**1 to 3 non-magical stones or sling bullets
-- **Duration**1 minute
+- **Range**: touch
+- **Targets**: 1 to 3 non-magical stones or sling bullets
+- **Duration**: 1 minute
 
 You pour positive energy into ordinary stones, granting them temporary magical properties. You can target 1 non-magical stone or sling bullet for every action you use [Casting this Spell](rules/actions/cast-a-spell.md).
 

@@ -10,11 +10,11 @@ aliases: ["Loose Time's Arrow"]
 # Loose Time's Arrow *Spell 2*   
 [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**up to 6 creatures
-- **Duration**until the start of your next turn
+- **Range**: 30 foot
+- **Targets**: up to 6 creatures
+- **Duration**: until the start of your next turn
 
 You pluck the time stream like a bow—pull one string back, release, and watch a creature fly. All affected targets are [quickened](rules/conditions.md#Quickened). They can use the extra action only to [Step](rules/actions/step.md) or [Stride](rules/actions/stride.md).
 

@@ -10,12 +10,12 @@ aliases: ["Impaling Spike"]
 # Impaling Spike *Spell 5*   
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 creature
-- **Saving Throw** Reflex
-- **Duration**1 minute
+- **Range**: 30 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Reflex
+- **Duration**: 1 minute
 
 You conjure a spike that thrusts up from the earth beneath a target creature, potentially impaling it. The spike is made of cold iron and deals `8d6` piercing damage. The target must attempt a Reflex save.
 

@@ -11,11 +11,11 @@ aliases: ["Echoing Weapon"]
 # Echoing Weapon *Spell 1*   
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Targets**1 weapon
-- **Duration**1 minute
+- **Range**: touch
+- **Targets**: 1 weapon
+- **Duration**: 1 minute
 
 You channel magical energy into the target weapon, and the air around it faintly hums each time you strike a blow, as the impact is absorbed into the weapon. If a creature is wielding the weapon at the end of its turn, the weapon discharges a burst of sound targeting one creature adjacent to the wielder (if any). The sonic damage this deals is equal to the number of successful [Strikes](rules/actions/strike.md) with the target weapon that the wielder made that turn (to a maximum of 4 sonic damage if the wielder hits with four [Strikes](rules/actions/strike.md)).
 

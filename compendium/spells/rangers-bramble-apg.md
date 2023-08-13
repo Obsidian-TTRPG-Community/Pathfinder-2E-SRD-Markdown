@@ -15,9 +15,9 @@ aliases: ["Ranger's Bramble"]
 [plant](rules/traits/plant.md "Plant Creature Type Trait")  [ranger](rules/traits/ranger.md "Ranger Class Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**100 foot
-- **Area**all squares that contain plants in a 5-foot burst
-- **Duration**1 minute
+- **Range**: 100 foot
+- **Area**: all squares that contain plants in a 5-foot burst
+- **Duration**: 1 minute
 
 You cause plants in the area to entangle your foes, with the effects of [entangle](compendium/spells/entangle.md). A creature that critically fails the save takes `2d4` [persistent bleed damage](rules/conditions.md#Persistent%20Damage) in addition to being [immobilized](rules/conditions.md#Immobilized).
 

@@ -15,10 +15,9 @@ aliases: ["Blood Tears"]
 A wailing spirit appears and gouges their own eyes. As they do, blood seeps from the eyes of those who witness the act, obscuring their vision.
 
 - **Disable** DC 30 [Diplomacy](compendium/skills.md#Diplomacy) (master) to talk the spirit out of gouging its eyes or DC 32 [Religion](compendium/skills.md#Religion) (trained) to ease the spirit's sorrows  
-     
+
 ```ad-embed-ability
-title: Weep Blood [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[divine](rules/traits/divine.md "Divine Tradition Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
+title: **Weep Blood** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([divine](rules/traits/divine.md), [necromancy](rules/traits/necromancy.md))
 
 - **Trigger**: A creature approaches within 15 feet
 
@@ -29,7 +28,9 @@ title: Weep Blood [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions 
 > - **Success** The creature takes `2d8+3` [persistent bleed damage](rules/conditions.md#Persistent%20Damage) and is [dazzled](rules/conditions.md#Dazzled) for 1 round.
 > - **Failure** The creature takes `4d8+6` [persistent bleed damage](rules/conditions.md#Persistent%20Damage) and is [dazzled](rules/conditions.md#Dazzled) for as long as the [persistent damage](rules/conditions.md#Persistent%20Damage) lasts.
 > - **Critical Failure** The creature takes `8d8+12` [persistent bleed damage](rules/conditions.md#Persistent%20Damage) and is [blinded](rules/conditions.md#Blinded) for as long as the [persistent damage](rules/conditions.md#Persistent%20Damage) lasts.  
-%% #trait/divine #trait/necromancy %%
+%%
+ #trait/divine  #trait/necromancy 
+%%
 ```
 
 **Reset** 1 day  

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/crb
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/ingested
@@ -15,9 +15,8 @@ aliases: ["King's Sleep"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [ingested](rules/traits/ingested.md "Ingested Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [virulent](rules/traits/virulent.md "Virulent Item Trait")  
 
 - **Price** 4000 gp
-- **Usage** held in 1 hand; **Bulk** L
+- **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 King's sleep is an insidious long-term poison that can seem like a disease or even death from natural causes on a venerable target. The [drained](rules/conditions.md#Drained) condition from king's sleep is cumulative with each failed save and can't be removed while the poison lasts.
 
@@ -35,4 +34,6 @@ title: Saving Throw: DC 41 Fortitude
 **Stage 3** [drained](rules/conditions.md#Drained) (1 day)
 ```
 
+
+---
 *Source: Core Rulebook p. 552*

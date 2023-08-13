@@ -17,10 +17,12 @@ aliases: ["Sai"]
 
 - **Price** 6 sp
 - **Bulk** L
-- **Damage** `1d4` P
+  - **Damage**: `1d4` P
 - **Hands** 1
 - **Category** Martial; **Group** Knife 
 
 This piercing dagger is a metal spike flanked by a pair of prongs that can be used to trap an enemy's weapon.
 
+
+---
 *Source: Core Rulebook p. 281*

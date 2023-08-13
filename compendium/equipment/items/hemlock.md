@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/crb
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/ingested
@@ -14,9 +14,8 @@ aliases: ["Hemlock"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [ingested](rules/traits/ingested.md "Ingested Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Price** 2250 gp
-- **Usage** held in 1 hand; **Bulk** L
+- **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 Concentrated hemlock is a particularly deadly toxin that halts muscle action—including that of the victim's heart.
 
@@ -35,4 +34,6 @@ title: Saving Throw: DC 40 Fortitude
 **Stage 3** `26d6` poison damage and [enfeebled](rules/conditions.md#Enfeebled) (10 minutes)
 ```
 
+
+---
 *Source: Core Rulebook p. 552*

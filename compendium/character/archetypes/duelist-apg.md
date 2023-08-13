@@ -14,7 +14,6 @@ Across the world, students in martial academies practice with their blades to ma
 ```ad-embed-feat
 title: Duelist Dedication, Feat 2
 collapse: closed
-# Duelist Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: trained in light armor and simple weapons
@@ -30,7 +29,6 @@ You are always ready to draw your weapon and begin a duel, no matter the circums
 ```ad-embed-feat
 title: Dueling Parry, Feat 4*
 collapse: closed
-# Dueling Parry  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
 [fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 > [!pf2-note] This version of [Dueling Parry](compendium/feats/dueling-parry.md) is intended for use with the Duelist Archetype. Its level has been changed accordingly.
@@ -47,7 +45,6 @@ You can parry attacks against you with your one-handed weapon. You gain a +2 cir
 ```ad-embed-feat
 title: Duelist's Challenge, Feat 4
 collapse: closed
-# Duelist's Challenge  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [open](rules/traits/open.md "Open Combat Trait")  
 
 - **Prerequisites**: [Duelist Dedication](compendium/feats/duelist-dedication-apg.md)
@@ -64,7 +61,6 @@ If you attack a creature other than your dueling opponent, you take a circumstan
 ```ad-embed-feat
 title: Disarming Stance, Feat 8*
 collapse: closed
-# Disarming Stance  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
 [fighter](rules/traits/fighter.md "Fighter Class Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
 
 > [!pf2-note] This version of [Disarming Stance](compendium/feats/disarming-stance.md) is intended for use with the Duelist Archetype. Its level has been changed accordingly.
@@ -82,7 +78,6 @@ You adopt a fencing stance that improves your control over your weapon. While yo
 ```ad-embed-feat
 title: Selfless Parry, Feat 8
 collapse: closed
-# Selfless Parry  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Dueling Parry](compendium/feats/dueling-parry-apg.md), [Duelist Dedication](compendium/feats/duelist-dedication-apg.md)
@@ -96,7 +91,6 @@ You protect those near you with a flash of steel. When you're benefiting from Du
 ```ad-embed-feat
 title: Dueling Riposte, Feat 10*
 collapse: closed
-# Dueling Riposte  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
 [fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 > [!pf2-note] This version of [Dueling Riposte](compendium/feats/dueling-riposte.md) is intended for use with the Duelist Archetype. Its level has been changed accordingly.
@@ -115,7 +109,6 @@ You riposte against your flailing enemy. Make a melee [Strike](rules/actions/str
 ```ad-embed-feat
 title: Disarming Twist, Feat 12*
 collapse: closed
-# Disarming Twist  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 12*  
 [fighter](rules/traits/fighter.md "Fighter Class Trait")  [press](rules/traits/press.md "Press Combat Trait")  
 
 > [!pf2-note] This version of [Disarming Twist](compendium/feats/disarming-twist.md) is intended for use with the Duelist Archetype. Its level has been changed accordingly.
@@ -136,7 +129,6 @@ After your initial attack redirects your foe's defenses, your follow-up wrests t
 ```ad-embed-feat
 title: Student Of The Dueling Arts, Feat 12*
 collapse: closed
-# Student Of The Dueling Arts  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Student Of The Dueling Arts](compendium/feats/student-of-the-dueling-arts-apg.md) is intended for use with the Duelist Archetype. Its level has been changed accordingly.
@@ -154,7 +146,6 @@ In addition, you can enter a stance from a duelist archetype feat you don't have
 ```ad-embed-feat
 title: Dueling Dance, Feat 14*
 collapse: closed
-# Dueling Dance  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 14*  
 [fighter](rules/traits/fighter.md "Fighter Class Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
 
 > [!pf2-note] This version of [Dueling Dance](compendium/feats/dueling-dance.md) is intended for use with the Duelist Archetype. Its level has been changed accordingly.
@@ -172,7 +163,6 @@ Using your free hand as pivot and balance, you both attack and defend with your 
 ```ad-embed-feat
 title: Improved Dueling Riposte, Feat 14*
 collapse: closed
-# Improved Dueling Riposte  *Feat 14*  
 [fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 > [!pf2-note] This version of [Improved Dueling Riposte](compendium/feats/improved-dueling-riposte.md) is intended for use with the Duelist Archetype. Its level has been changed accordingly.
@@ -188,7 +178,6 @@ Your weapon whirls and darts, striking foes whenever the opportunity presents it
 ```ad-embed-feat
 title: Guiding Riposte, Feat 16*
 collapse: closed
-# Guiding Riposte  *Feat 16*  
 [fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 > [!pf2-note] This version of [Guiding Riposte](compendium/feats/guiding-riposte.md) is intended for use with the Duelist Archetype. Its level has been changed accordingly.

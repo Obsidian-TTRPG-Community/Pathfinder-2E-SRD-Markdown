@@ -17,7 +17,7 @@ aliases: ["Sorrow's Sword"]
 
 - **Category**: Pantheon
 - **Anathema**: cower from combat, forgive those who have committed grave offenses, abandon or deceive allies
-- **Areas of Concern**: vengeance, , reclaiming lost homelands, , drawing strength from sorrow
+- **Areas of Concern**: vengeance, reclaiming lost homelands, drawing strength from sorrow
 - **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")
 
 ## Devotee benefits

@@ -11,11 +11,11 @@ aliases: ["Spiritual Guardian"]
 # Spiritual Guardian *Spell 5*   
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Requirements**You have a deity.
-- **Range**120 foot
-- **Duration**sustained up to 1 minute
+- **Requirements**: You have a deity.
+- **Range**: 120 foot
+- **Duration**: sustained up to 1 minute
 
 A Medium guardian made of magical force appears and attacks foes you designate within range. The spiritual guardian is translucent and appears to be holding your deity's favored weapon.
 

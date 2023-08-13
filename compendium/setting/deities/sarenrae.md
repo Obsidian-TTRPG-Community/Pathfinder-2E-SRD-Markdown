@@ -19,7 +19,7 @@ aliases: ["Sarenrae", "Dawnflower"]
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: create undead, lie, deny a repentant creature an opportunity for redemption, fail to strike down evil
-- **Areas of Concern**: healing, , honesty, , redemption, , and the sun
+- **Areas of Concern**: healing, honesty, redemption, and the sun
 - **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")
 
 ## Devotee benefits
@@ -36,8 +36,9 @@ aliases: ["Sarenrae", "Dawnflower"]
 title: [Avatar](compendium/spells/avatar.md) of Sarenrae
 
 - **Speed**: Speed 30 feet, fly 70 feet
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") scimitar ([forceful](rules/traits/forceful.md "Forceful Weapon Trait"), [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait")), **Damage** `6d6+6` slashing
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") everflame ([nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait")), **Damage** `6d6+3` fire
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") scimitar (, [forceful](rules/traits/forceful.md "Forceful Weapon Trait"), [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait")), **Damage** `6d6+6` slashing 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") everflame (, [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait")), **Damage** `6d6+3` fire 
 ```
 
 ## Divine intercession

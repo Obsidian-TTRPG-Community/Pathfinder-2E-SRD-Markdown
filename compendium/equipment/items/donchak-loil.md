@@ -16,10 +16,12 @@ aliases: ["Donchak"]
 
 - **Price** 4 gp
 - **Bulk** 2
-- **Damage** `1d8` S
+  - **Damage**: `1d8` S
 - **Hands** 2
 - **Category** Advanced; **Group** Polearm 
 
 This long metal pole has a large [chakram](compendium/equipment/items/chakram-lotgb.md) attached at the end. A mechanism within the handle allows the wielder to launch and retract the [chakram](compendium/equipment/items/chakram-lotgb.md), which is connected with wire to the inside of the weapon. The donchak is seldom seen used outside training scenarios.
 
+
+---
 *Source: Lost Omens: Impossible Lands p. 221*

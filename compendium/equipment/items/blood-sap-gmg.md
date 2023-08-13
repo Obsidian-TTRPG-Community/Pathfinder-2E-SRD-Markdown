@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/gmg
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/drug
@@ -15,9 +15,8 @@ aliases: ["Blood Sap"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [drug](rules/traits/drug-gmg.md "Drug Item Trait")  [ingested](rules/traits/ingested.md "Ingested Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Price** 4 gp
-- **Usage** held in 1 hand; **Bulk** L
+- **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 This potent drug is distilled from a certain tropical vine into a deep-red syrup that, over time, stains the user's lips and teeth a vivid shade of red.
 
@@ -34,4 +33,6 @@ title: Saving Throw: DC 16 Fortitude
 **Stage 2** [slowed](rules/conditions.md#Slowed) (1 hour)
 ```
 
+
+---
 *Source: Gamemastery Guide p. 120*

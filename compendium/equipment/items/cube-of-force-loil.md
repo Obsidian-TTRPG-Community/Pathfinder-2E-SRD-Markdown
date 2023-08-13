@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/loil
-- item/category/held
+- item/category/held/
 - trait/evocation
 - trait/magical
 - trait/rare
@@ -13,15 +13,16 @@ aliases: ["Cube of Force"]
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 3000 gp
-- **Usage** held in 1 hand; **Bulk** —
-- **Category** Held
+- **Bulk** —; **Usage** held in 1 hand
 
 A cube of force is an enchanted cube that measures an inch across. While made from any hard material, the sides of a cube of force are decorated so that they can be distinguished by touch.
 
 ```ad-embed-ability
-title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
+title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") [Interact](rules/actions/interact.md)
 
-You hold the cube aloft and depress one of its six faces for several seconds. The cube creates six walls around you, creating a cube 10 feet on each side centered on you (typically centered on the top of your space if you're a Medium creature). If a creature or object overlaps any of these walls, that face of the cube doesn't appear; this also means if you're Huge or larger, the activation has no effect, as your space is larger than the cube would be. The duration and effect of the six walls depends on which face of the cube you press when you Activate the cube, as seen on Table 5: Cube Effects (below). Pressing the sixth cube face with a simple [Interact](rules/actions/interact.md) action Dismisses the effect; doing so isn't an activation and thus doesn't count against the cube's frequency. The walls have the AC, Hit Points, and Hardness of a wall of force.
+- **Frequency**: once per day
+
+**Effect** You hold the cube aloft and depress one of its six faces for several seconds. The cube creates six walls around you, creating a cube 10 feet on each side centered on you (typically centered on the top of your space if you're a Medium creature). If a creature or object overlaps any of these walls, that face of the cube doesn't appear; this also means if you're Huge or larger, the activation has no effect, as your space is larger than the cube would be. The duration and effect of the six walls depends on which face of the cube you press when you Activate the cube, as seen on Table 5: Cube Effects (below). Pressing the sixth cube face with a simple [Interact](rules/actions/interact.md) action Dismisses the effect; doing so isn't an activation and thus doesn't count against the cube's frequency. The walls have the AC, Hit Points, and Hardness of a wall of force.
 ```
 
 | Cube Face | Duration | Effect |
@@ -34,4 +35,6 @@ You hold the cube aloft and depress one of its six faces for several seconds. Th
 | 6 | — | The cube is Dismissed (this takes only an Interact action and isn't an activation). |
 
 
+
+---
 *Source: Lost Omens: Impossible Lands p. 304*

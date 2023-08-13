@@ -16,7 +16,7 @@ aliases: ["Clone"]
 - **Secondary Casters** 3
 - **Primary Checks** [Crafting](compendium/skills.md#Crafting) (legendary)
 - **Secondary Checks** [Arcana](compendium/skills.md#Arcana), [Occultism](compendium/skills.md#Occultism), [Medicine](compendium/skills.md#Medicine)
-- **Targets**1 living creature up to 20th level
+- **Targets**: 1 living creature up to 20th level
 
 You remove 1 cubic inch of flesh from the target, who must be present throughout the ritual and can be one of the casters. You then use that flesh to grow a duplicate of the target's physical form that will house the target's soul upon death. This duplicate is physically identical to the original creature.
 

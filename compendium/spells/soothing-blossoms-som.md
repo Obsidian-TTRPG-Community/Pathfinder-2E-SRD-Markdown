@@ -12,11 +12,11 @@ aliases: ["Soothing Blossoms"]
 # Soothing Blossoms *Spell 3*   
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Area**10-foot burst
-- **Duration**10 minutes
+- **Range**: 30 foot
+- **Area**: 10-foot burst
+- **Duration**: 10 minutes
 
 Blossoms grow from the ground in a small area, soothing away afflictions and persistent pains and harm. When any creature in that area rolls a successful save against a [poison](rules/traits/poison.md "Poison Effect Trait") or [disease](rules/traits/disease.md "Disease Effect Trait") effect, it gets a critical success instead.
 

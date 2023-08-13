@@ -13,10 +13,12 @@ aliases: ["Ranseur"]
 
 - **Price** 2 gp
 - **Bulk** 2
-- **Damage** `1d10` P
+  - **Damage**: `1d10` P
 - **Hands** 2
 - **Category** Martial; **Group** Polearm 
 
 This polearm is a long trident with a central prong that's longer than the other two.
 
+
+---
 *Source: Core Rulebook p. 281*

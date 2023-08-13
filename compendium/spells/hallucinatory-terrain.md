@@ -12,11 +12,11 @@ aliases: ["Hallucinatory Terrain"]
 # Hallucinatory Terrain *Spell 4*   
 [illusion](rules/traits/illusion.md "Illusion School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** 10 minutes 
-- **Range**500 foot
-- **Area**50-foot burst
-- **Duration**until the next time you make your daily preparations
+- **Range**: 500 foot
+- **Area**: 50-foot burst
+- **Duration**: until the next time you make your daily preparations
 
 You create an illusion that causes natural terrain to look, sound, feel, and smell like a different kind of terrain. This doesn't disguise any structures or creatures in the area.
 

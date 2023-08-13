@@ -18,10 +18,10 @@ aliases: ["Dread Secret"]
 
 - **Mystery** Oracle
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**60 foot
-- **Targets**up to 6 creatures
-- **Saving Throw** Will
-- **Duration**until the start of your next turn
+- **Range**: 60 foot
+- **Targets**: up to 6 creatures
+- **Saving Throw**: Will
+- **Duration**: until the start of your next turn
 
 You utter a powerful secret at odds with the fundamental nature of the target creatures. Choose a specific resistance or weakness that you believe one or more of the targets have due to [Recall Knowledge](rules/actions/recall-knowledge.md) or previous experience with the targets, such as resistance to fire or weakness to silver. If the information is incorrect for a given target, the spell has no effect on that target. Affected targets must attempt a Will saving throw.
 

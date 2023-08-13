@@ -21,4 +21,6 @@ You can use an [Interact](rules/actions/interact.md) action to wedge an alchemic
 
 When you successfully [Strike](rules/actions/strike.md) a creature with the shield, the vessel shatters, exposing the creature you hit—and yourself— to the substance within. This counts as a successful hit with the bomb against the creature if it's adjacent to you or a successful hit against the appropriate adjacent square if it's not. The bomb deals splash damage as normal to surrounding creatures, including you. In addition, the bomb deals full damage to the attached shield.
 
+
+---
 *Source: Lost Omens: The Grand Bazaar p. 104*

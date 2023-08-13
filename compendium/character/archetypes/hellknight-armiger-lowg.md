@@ -14,7 +14,6 @@ You have presented yourself to a Hellknight citadel as a candidate to become a f
 ```ad-embed-feat
 title: Hellknight Armiger Dedication, Feat 2
 collapse: closed
-# Hellknight Armiger Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: You are from Old Cheliax.
@@ -33,7 +32,6 @@ You gain resistance to mental damage equal to 1 + your number of class feats fro
 ```ad-embed-feat
 title: Ardent Armiger, Feat 4
 collapse: closed
-# Ardent Armiger  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Hellknight Armiger Dedication](compendium/feats/hellknight-armiger-dedication-lowg.md)
@@ -49,7 +47,6 @@ If a [mental](rules/traits/mental.md "Mental Effect Trait") effect would compel 
 ```ad-embed-feat
 title: Diabolic Certitude, Feat 4
 collapse: closed
-# Diabolic Certitude  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Hellknight Armiger Dedication](compendium/feats/hellknight-armiger-dedication-lowg.md)
@@ -65,7 +62,6 @@ Your Hellknight training drilled details of Hell's denizens deep into your mind.
 ```ad-embed-feat
 title: Mortification, Feat 4
 collapse: closed
-# Mortification  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Hellknight Armiger Dedication](compendium/feats/hellknight-armiger-dedication-lowg.md)
@@ -79,7 +75,6 @@ Your reckonings have prepared your body for physical punishment. Choose bludgeon
 ```ad-embed-feat
 title: Armiger's Mobility, Feat 8
 collapse: closed
-# Armiger's Mobility  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: expert in heavy armor, [Hellknight Armiger Dedication](compendium/feats/hellknight-armiger-dedication-lowg.md)

@@ -14,9 +14,9 @@ aliases: ["Stone Lance"]
 [attack](rules/traits/attack.md "Attack Combat Trait")  [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**120 foot
-- **Targets**1 creature
-- **Duration**1 minute
+- **Range**: 120 foot
+- **Targets**: 1 creature
+- **Duration**: 1 minute
 
 You conjure a jagged lance of stone and then launch it at a foe. Make a spell attack roll against the target.
 

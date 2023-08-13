@@ -10,11 +10,11 @@ aliases: ["Water Walk"]
 # Water Walk *Spell 2*   
 [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Targets**1 creature
-- **Duration**10 minutes
+- **Range**: touch
+- **Targets**: 1 creature
+- **Duration**: 10 minutes
 
 The target can walk on the surface of water and other liquids without falling through. It can go underwater if it wishes, but in that case it must [Swim](rules/actions/swim.md) normally. This spell doesn't grant the ability to breathe underwater.
 

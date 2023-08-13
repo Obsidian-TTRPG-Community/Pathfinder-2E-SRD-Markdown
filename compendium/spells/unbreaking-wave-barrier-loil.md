@@ -14,9 +14,9 @@ aliases: ["Unbreaking Wave Barrier"]
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Area**5-foot emanation
-- **Saving Throw** Fortitude or Fortitude
-- **Duration**sustained up to 1 minute
+- **Area**: 5-foot emanation
+- **Saving Throw**: Fortitude or Fortitude
+- **Duration**: sustained up to 1 minute
 
 You create a protective circle around yourself that repels your foes. You gain a +1 status bonus to AC. Any creature other than you within the area, or attempting to move into the area, must attempt a Fortitude saving throw; a creature needs to attempt the Fortitude saving throw only once each round.
 

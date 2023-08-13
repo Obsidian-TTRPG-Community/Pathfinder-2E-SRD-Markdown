@@ -16,12 +16,12 @@ aliases: ["Unspeakable Shadow"]
 # Unspeakable Shadow *Spell 9*   
 [death](rules/traits/death.md "Death Effect Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [shadow](rules/traits/shadow.md "Shadow General Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**120 foot
-- **Targets**1 creature
-- **Saving Throw** Will
-- **Duration**varies
+- **Range**: 120 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Will
+- **Duration**: varies
 
 You alter a creature's shadow, transforming it into a terrifying monster out to devour the creature. The creature must attempt a Will save. A creature that has the [frightened](rules/conditions.md#Frightened) condition from unspeakable shadow must spend at least one of its actions each turn to either attack its shadow (making a [Strike](rules/actions/strike.md) ineffectually) or flee from its shadow (using one action to move away as though it had the [fleeing](rules/conditions.md#Fleeing) condition).
 

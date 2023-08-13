@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/da
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/ingested
@@ -16,9 +16,8 @@ aliases: ["Forgetful Drops"]
 
 - **Access** Member of a secret society
 - **Price** 10 gp
-- **Usage** held in 1 hand; **Bulk** 1
+- **Bulk** 1; **Usage** held in 1 hand
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 These innocuous, colorless drops can be poured directly into a victim's mouth, or slipped into their food or drink. They initially haze a victim's mind slightly, making them easier to fool; in later stages, they can lead to the victim entering a murderous [confused](rules/conditions.md#Confused) state. Secret societies use these drops to befuddle a target or to frame them for violence.
 
@@ -37,4 +36,6 @@ title: Saving Throw: DC 18 Fortitude
 **Stage 3** [stupefied](rules/conditions.md#Stupefied), [clumsy](rules/conditions.md#Clumsy), and [confused](rules/conditions.md#Confused) (30 minutes)
 ```
 
+
+---
 *Source: Dark Archive p. 78*

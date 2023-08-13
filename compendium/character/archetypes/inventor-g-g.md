@@ -19,7 +19,6 @@ Inventor is a great fit for intelligent characters looking to branch out and lea
 ```ad-embed-feat
 title: Inventor Dedication, Feat 2
 collapse: closed
-# Inventor Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [multiclass](rules/traits/multiclass.md "Multiclass Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: Intelligence 14
@@ -35,7 +34,6 @@ You become trained in [Crafting](compendium/skills.md#Crafting) and inventor cla
 ```ad-embed-feat
 title: Basic Breakthrough, Feat 4
 collapse: closed
-# Basic Breakthrough  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Inventor Dedication](compendium/feats/inventor-dedication-g-g.md)
@@ -49,7 +47,6 @@ You gain a 1st- or 2nd-level inventor feat of your choice.
 ```ad-embed-feat
 title: Brilliant Crafter, Feat 4
 collapse: closed
-# Brilliant Crafter  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Inventor Dedication](compendium/feats/inventor-dedication-g-g.md)
@@ -63,7 +60,6 @@ Your skill at crafting is unparalleled. You become an expert in [Crafting](compe
 ```ad-embed-feat
 title: Advanced Breakthrough, Feat 6
 collapse: closed
-# Advanced Breakthrough  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Breakthrough](compendium/feats/basic-breakthrough-g-g.md)
@@ -79,7 +75,6 @@ You gain one inventor feat. For the purpose of meeting its prerequisites, your i
 ```ad-embed-feat
 title: Explosion, Feat 6
 collapse: closed
-# Explosion  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Inventor Dedication](compendium/feats/inventor-dedication-g-g.md)
@@ -93,7 +88,6 @@ Your innovation can explode on command. You gain the [Explode](rules/actions/exp
 ```ad-embed-feat
 title: Basic Modification, Feat 8
 collapse: closed
-# Basic Modification  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Inventor Dedication](compendium/feats/inventor-dedication-g-g.md)

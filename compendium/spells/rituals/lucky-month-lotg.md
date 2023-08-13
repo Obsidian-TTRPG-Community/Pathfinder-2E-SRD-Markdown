@@ -16,8 +16,8 @@ aliases: ["Lucky Month"]
 - **Secondary Casters** 3
 - **Primary Checks** [Religion](compendium/skills.md#Religion) (trained)
 - **Secondary Checks** [Crafting](compendium/skills.md#Crafting), [Performance](compendium/skills.md#Performance), [Society](compendium/skills.md#Society)
-- **Range**30 feet
-- **Targets**1 creature and 1 object
+- **Range**: 30 feet
+- **Targets**: 1 creature and 1 object
 
 You imbue the provided token with luck. You choose a single creature within range during the ritual's performance to become the recipient of the token's luck. That creature has access to the token's luck as long as they're wearing the token. If the token is stolen or lost, they lose access to its luck until the token is recovered. The token loses its luck if it's destroyed or after the duration noted in the ritual's effects has elapsed.
 

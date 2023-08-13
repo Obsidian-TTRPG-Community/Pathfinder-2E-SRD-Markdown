@@ -13,7 +13,8 @@ aliases: ["Energy Absorption"]
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
-- **Trigger**An effect would deal acid, cold, electricity, or fire damage to you.
+- **Trigger**: An effect would deal acid, cold, electricity, or fire damage to you.
+- 
 
 You gain resistance 15 to acid, cold, electricity, or fire damage from the triggering effect (one type of your choice). The resistance applies only to the triggering effect's initial damage.
 

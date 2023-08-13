@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
-- item/category/held
+- item/category/held/
 - trait/magical
 - trait/transmutation
 - trait/uncommon
@@ -13,15 +13,17 @@ aliases: ["Alghollthu Lash"]
 [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 350 gp
-- **Usage** held in 1 hand; **Bulk** 1
-- **Category** Held
+- **Craft Requirements** The initial raw materials must include a tentacle from an alghollthu (Bestiary 14).
+- **Bulk** 1; **Usage** held in 1 hand
 
 This fleshy +1 striking whip is obviously crafted from the tentacle of some fearsome beast, likely an alghollthu, and constantly drips slime.
 
 ````ad-embed-ability
-title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
+title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") command
 
-The next creature you successfully [Strike](rules/actions/strike.md) with this weapon is exposed to alghollthu slime.
+- **Frequency**: once per day
+
+**Effect** The next creature you successfully [Strike](rules/actions/strike.md) with this weapon is exposed to alghollthu slime.
 
 ```ad-inline-affliction
 title: Alghollthu Slime
@@ -44,4 +46,6 @@ A [remove disease](compendium/spells/remove-disease.md) spell can counteract thi
 ```
 ````
 
+
+---
 *Source: Treasure Vault p. 35*

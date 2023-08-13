@@ -16,9 +16,9 @@ aliases: ["Omnidirectional Scan"]
 [cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  [scrying](rules/traits/scrying.md "Scrying Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Area**30-foot emanation
-- **Targets**1 ally and 1 enemy
-- **Duration**until the start of your next turn
+- **Area**: 30-foot emanation
+- **Targets**: 1 ally and 1 enemy
+- **Duration**: until the start of your next turn
 
 You quickly view your surroundings from a variety of angles, your senses constructing an overall mental picture. You can choose to [Seek](rules/actions/seek.md) the entire emanation of the spell.
 

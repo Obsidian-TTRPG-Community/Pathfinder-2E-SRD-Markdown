@@ -13,12 +13,12 @@ aliases: ["Scintillating Pattern"]
 # Scintillating Pattern *Spell 8*   
 [illusion](rules/traits/illusion.md "Illusion School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**120 foot
-- **Area**20-foot burst
-- **Saving Throw** Will
-- **Duration**sustained up to 1 minute
+- **Range**: 120 foot
+- **Area**: 20-foot burst
+- **Saving Throw**: Will
+- **Duration**: sustained up to 1 minute
 
 A field of cascading, ever-changing colors manifests in the air.
 

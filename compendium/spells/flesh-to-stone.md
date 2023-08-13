@@ -10,12 +10,12 @@ aliases: ["Flesh To Stone"]
 # Flesh To Stone *Spell 6*   
 [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**120 foot
-- **Targets**1 creature made of flesh
-- **Saving Throw** Fortitude
-- **Duration**varies
+- **Range**: 120 foot
+- **Targets**: 1 creature made of flesh
+- **Saving Throw**: Fortitude
+- **Duration**: varies
 
 You try to turn the target's flesh into stone. The target must attempt a Fortitude save.
 

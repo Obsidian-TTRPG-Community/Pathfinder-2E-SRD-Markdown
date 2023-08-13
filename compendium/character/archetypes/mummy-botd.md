@@ -22,7 +22,6 @@ Mummies are most commonly found in Geb and Osirion, as well as the surrounding n
 ```ad-embed-feat
 title: Mummy Dedication, Feat 2
 collapse: closed
-# Mummy Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Prerequisites**: you are dead and were mummified (by natural or ritualistic means)
@@ -42,7 +41,6 @@ Finally, you become supernaturally bound to the dominant terrain in which you we
 ```ad-embed-feat
 title: One with the Land, Feat 4
 collapse: closed
-# One with the Land  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Mummy Dedication](compendium/feats/mummy-dedication-botd.md)
@@ -61,7 +59,6 @@ Your connection to your bound terrain strengthens, making you unhindered by loca
 ```ad-embed-feat
 title: Semblance of Life, Feat 4
 collapse: closed
-# Semblance of Life  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Prerequisites**: [Mummy Dedication](compendium/feats/mummy-dedication-botd.md)
@@ -77,7 +74,6 @@ You draw the moisture you've drained from others into your own flesh, temporaril
 ```ad-embed-feat
 title: Grave Mummification, Feat 6
 collapse: closed
-# Grave Mummification  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Mummy Dedication](compendium/feats/mummy-dedication-botd.md)
@@ -91,7 +87,6 @@ Exposure to the elements, magic, alchemy, and other phenomena intensified the ch
 ```ad-embed-feat
 title: Mummy's Despair, Feat 6
 collapse: closed
-# Mummy's Despair  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [aura](rules/traits/aura.md "Aura Combat Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
 - **Prerequisites**: [Mummy Dedication](compendium/feats/mummy-dedication-botd.md)
@@ -107,7 +102,6 @@ You force your mental anguish outward, projecting it upon those around you. You 
 ```ad-embed-feat
 title: Accursed Touch, Feat 8
 collapse: closed
-# Accursed Touch  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Mummy Dedication](compendium/feats/mummy-dedication-botd.md)
@@ -121,7 +115,6 @@ You've learned to harness the supernatural curse that animates you, imbuing your
 ```ad-embed-feat
 title: Storm Shroud, Feat 8
 collapse: closed
-# Storm Shroud  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  
 
 - **Prerequisites**: [Mummy Dedication](compendium/feats/mummy-dedication-botd.md)
@@ -137,7 +130,6 @@ You become surrounded by a swirling storm of rain, sand, snow, or clouds, whiche
 ```ad-embed-feat
 title: Channel Rot, Feat 10
 collapse: closed
-# Channel Rot  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Accursed Touch](compendium/feats/accursed-touch-botd.md)
@@ -151,7 +143,6 @@ You've learned to channel your curse through weapons you wield instead of solely
 ```ad-embed-feat
 title: Ensnaring Wrappings, Feat 10
 collapse: closed
-# Ensnaring Wrappings  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: Mummy Dedication, expert in [Athletics](compendium/skills.md#Athletics)
@@ -167,7 +158,6 @@ Some of your wrappings come loose to ensnare a creature you recently damaged. Yo
 ```ad-embed-feat
 title: Terrain Form, Feat 10
 collapse: closed
-# Terrain Form  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Prerequisites**: [Mummy Dedication](compendium/feats/mummy-dedication-botd.md)
@@ -188,7 +178,6 @@ You crumble to pieces, becoming composed of the very terrain to which you're bou
 ```ad-embed-feat
 title: Desiccating Inhalation, Feat 12*
 collapse: closed
-# Desiccating Inhalation  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
 > [!pf2-note] This version of [Desiccating Inhalation](compendium/feats/desiccating-inhalation-botd.md) is intended for use with the Mummy Archetype. Its level has been changed accordingly.
@@ -208,7 +197,6 @@ At 14th level and every 2 levels thereafter, the damage increases by `1d8`.
 ```ad-embed-feat
 title: Greater Despair, Feat 12*
 collapse: closed
-# Greater Despair  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Greater Despair](compendium/feats/greater-despair-botd.md) is intended for use with the Mummy Archetype. Its level has been changed accordingly.

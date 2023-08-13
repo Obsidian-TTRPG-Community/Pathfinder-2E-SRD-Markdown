@@ -13,11 +13,11 @@ aliases: ["Linnorm Sting"]
 # Linnorm Sting *Spell 9*   
 [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Targets**1 creature
-- **Saving Throw** Fortitude
+- **Range**: touch
+- **Targets**: 1 creature
+- **Saving Throw**: Fortitude
 
 You replicate the fiery venom of the tor linnorm and inflict an enemy with the dread dragon's debilitating bite.
 

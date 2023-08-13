@@ -11,7 +11,7 @@ aliases: ["Diviner on Duty"]
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  
 *Source: Age of Ashes #5: Against the Scarlet Triad p. 28*  
 
-- **Trigger** A PC uses magic to aid in overcoming an Obstacle during infiltration.
+- **Trigger**: A PC uses magic to aid in overcoming an Obstacle during infiltration.
 
 Among the Scarlet Triad's security is a highly competent diviner! With spells such as [discern lies](compendium/spells/discern-lies.md), [mind reading](compendium/spells/mind-reading.md), [see invisibility](compendium/spells/see-invisibility.md), and [true seeing](compendium/spells/true-seeing.md), this diviner can see through most magical schemes the PCs might use.
 

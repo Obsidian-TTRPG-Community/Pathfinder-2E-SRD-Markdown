@@ -19,7 +19,7 @@ aliases: ["Shelyn", "The Eternal Rose"]
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: destroy art or allow it to be destroyed, unless saving a life or pursuing greater art; refuse to accept surrender
-- **Areas of Concern**: art, , beauty, , love, , and music
+- **Areas of Concern**: art, beauty, love, and music
 - **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait")
 
 ## Devotee benefits
@@ -36,8 +36,9 @@ aliases: ["Shelyn", "The Eternal Rose"]
 title: [Avatar](compendium/spells/avatar.md) of Shelyn
 
 - **Speed**: Speed 70 feet, [air walk](compendium/spells/air-walk.md), ignore difficult terrain and greater difficult terrain
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") glaive ([deadly <d8>](rules/traits/deadly-d8.md "Deadly Weapon Trait"), [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait"), [reach <20 feet>](rules/traits/reach-20-feet.md "Reach Weapon Trait")), **Damage** `6d8+6` slashing
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") melody of inner beauty ([nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait")), **Damage** `6d6+3` sonic
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") glaive (, [deadly <d8>](rules/traits/deadly-d8.md "Deadly Weapon Trait"), [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait"), [reach <20 feet>](rules/traits/reach-20-feet.md "Reach Weapon Trait")), **Damage** `6d8+6` slashing 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") melody of inner beauty (, [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait")), **Damage** `6d6+3` sonic 
 ```
 
 ## Divine intercession

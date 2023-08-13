@@ -14,8 +14,8 @@ aliases: ["Unbreaking Wave Advance"]
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Area**15-foot cone
-- **Saving Throw** Fortitude
+- **Area**: 15-foot cone
+- **Saving Throw**: Fortitude
 
 You unleash a mighty wave from your hand that buffets back your foes. Each creature in the area must attempt a Fortitude saving throw. If a creature pushed by unbreaking wave advance would be pushed into a solid barrier or another creature, it stops at that point and takes `3d6` damage.
 

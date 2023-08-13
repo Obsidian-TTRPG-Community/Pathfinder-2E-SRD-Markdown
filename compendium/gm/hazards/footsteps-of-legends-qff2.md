@@ -16,9 +16,9 @@ aliases: ["Footsteps of Legends"]
 The characters witness Burning Mammoths walking this mountain pass in ages long past.
 
 - **Disable** DC 26 [Diplomacy](compendium/skills.md#Diplomacy) (trained) to convince the spirits to remain dormant, or DC 26 [Religion](compendium/skills.md#Religion) (trained) to ritually silence the spirits  
-     
+
 ```ad-embed-ability
-title: Ancestral Journey [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Ancestral Journey** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A good-aligned spiritual descendant of the Burning Mammoth following enters the mountain pass
 

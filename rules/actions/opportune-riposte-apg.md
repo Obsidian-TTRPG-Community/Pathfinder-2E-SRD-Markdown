@@ -12,7 +12,7 @@ aliases: ["Opportune Riposte"]
 *Source: Advanced Player's Guide p. 86*  
 
 **Class** swashbuckler
-- **Trigger** A foe within your reach critically fails a [Strike](rules/actions/strike.md) against you.
+- **Trigger**: A foe within your reach critically fails a [Strike](rules/actions/strike.md) against you.
 - **Activity**: Reaction
 
 You take advantage of an opening from your enemy's fumbled attack. You either make a melee [Strike](rules/actions/strike.md) against the triggering foe or attempt to [Disarm](rules/actions/disarm.md) it of the weapon it used for the Strike.

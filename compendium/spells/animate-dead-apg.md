@@ -10,12 +10,14 @@ aliases: ["Animate Dead"]
 # Animate Dead *Spell 1*   
 [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**30 foot
-- **Duration**sustained up to 1 minute
+- **Range**: 30 foot
+- **Duration**: sustained up to 1 minute
 
 Your magic dredges up a corpse or skeleton and fills it with necromantic life, and you force the dead to fight at your command. You summon a common creature that has the [undead](rules/traits/undead.md "Undead Creature Type Trait") trait and whose level is –1; this creature gains the [summoned](rules/traits/summoned.md "Summoned Creature Trait") trait. Heightening the spell increases the maximum level of creature you can summon.
+
+**Heightened (10th)** Level 15.
 
 **Heightened (2nd)** Level 1.
 
@@ -32,7 +34,5 @@ Your magic dredges up a corpse or skeleton and fills it with necromantic life, a
 **Heightened (8th)** Level 11.
 
 **Heightened (9th)** Level 13.
-
-**Heightened (10th)** Level 15.
 
 *Source: Advanced Player's Guide p. 214*

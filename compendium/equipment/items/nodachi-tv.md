@@ -14,10 +14,12 @@ aliases: ["Nodachi"]
 
 - **Price** 6 gp
 - **Bulk** 2
-- **Damage** `1d8` S
+  - **Damage**: `1d8` S
 - **Hands** 2
 - **Category** Advanced; **Group** Sword 
 
 Also known as a zhanmadao, the exceptionally long blade of the nodachi is designed to neutralize enemy mounts and counter the advantages of cavalry units. Its shape and size make it somewhat impractical for close combat but highly effective against charging opponents.
 
+
+---
 *Source: Treasure Vault p. 25*

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/inhaled
@@ -14,9 +14,8 @@ aliases: ["Mustard Powder"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [inhaled](rules/traits/inhaled.md "Inhaled Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Price** 25 gp
-- **Usage** held in 1 hand; **Bulk** L
+- **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 Concocted from the formulas provided by otherworldly refugees to Irrisen, mustard powder is rumored to be devastating to entire armies with proper dispersal. Recipes have quickly spread across Golarion. Mustard powder's [sickened](rules/conditions.md#Sickened) condition ends when the poison's other effects do.
 
@@ -34,4 +33,6 @@ title: Saving Throw: DC 22 Fortitude
 **Stage 3** `2d6` poison damage, [dazzled](rules/conditions.md#Dazzled), [sickened](rules/conditions.md#Sickened), and unable to smell (1 round)
 ```
 
+
+---
 *Source: Treasure Vault p. 70*

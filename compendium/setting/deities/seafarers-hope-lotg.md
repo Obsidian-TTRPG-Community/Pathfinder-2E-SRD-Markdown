@@ -15,7 +15,7 @@ aliases: ["Seafarers' Hope"]
 
 - **Category**: Pantheon
 - **Anathema**: put off travel until there are calm waters, refuse aid to those stranded at sea, stay too long on land
-- **Areas of Concern**: coastlines, , the sea, , seafarers, , storms
+- **Areas of Concern**: coastlines, the sea, seafarers, storms
 - **Follower Alignments**: [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")
 
 ## Devotee benefits

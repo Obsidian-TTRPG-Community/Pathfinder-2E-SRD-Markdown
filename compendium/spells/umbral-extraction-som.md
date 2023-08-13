@@ -12,9 +12,10 @@ aliases: ["Umbral Extraction"]
 # Umbral Extraction *Spell 2*   
 [illusion](rules/traits/illusion.md "Illusion School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [shadow](rules/traits/shadow.md "Shadow General Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Duration**3 rounds
+- 
+- **Duration**: 3 rounds
 
 You prepare to steal spells from your foes, ripping them from the foe's shadow to stow them in an ephemeral pocket in the Shadow Plane. You gain a temporary spell slot, which you can fill only by stealing a spell from an enemy spellcaster. During umbral extraction's duration, you can use the [Steal](rules/actions/steal.md) action to attempt to take one of the foe's prepared spells or unused spontaneous spell slots instead of an item. You can also make one attempt to [Steal](rules/actions/steal.md) as part of Casting umbral extraction. If you succeed at your check to [Steal](rules/actions/steal.md) a spell, you deal `1d4` mental damage to the target per level of the spell stolen due to the psychological toll of the spiritual emptiness created by wrenching the spell away, and you place the stolen spell in your temporary spell slot. It gains the [shadow](rules/traits/shadow.md "Shadow General Trait") trait if cast from this temporary slot.
 

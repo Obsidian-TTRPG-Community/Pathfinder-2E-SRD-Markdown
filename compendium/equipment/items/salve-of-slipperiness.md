@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/crb
-- item/category/oil
+- item/category/oil/
 - trait/consumable
 - trait/magical
 - trait/oil
@@ -16,8 +16,9 @@ aliases: ["Salve of Slipperiness"]
 - **Price** 25 gp
 - **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Oil
 
 This greenish, persistent grease can be applied to armor to make it extremely slippery for 8 hours, granting the wearer a +2 item bonus to [Acrobatics](compendium/skills.md#Acrobatics) checks to [Escape](rules/actions/escape.md) or to [Squeeze](rules/actions/squeeze.md).
 
+
+---
 *Source: Core Rulebook p. 562*

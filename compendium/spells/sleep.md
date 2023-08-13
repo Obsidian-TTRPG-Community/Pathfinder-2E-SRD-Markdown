@@ -14,11 +14,11 @@ aliases: ["Sleep"]
 # Sleep *Spell 1*   
 [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [sleep](rules/traits/sleep.md "Sleep Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Area**5-foot burst
-- **Saving Throw** Will
+- **Range**: 30 foot
+- **Area**: 5-foot burst
+- **Saving Throw**: Will
 
 Each creature in the area becomes drowsy and might fall asleep. A creature that falls [unconscious](rules/conditions.md#Unconscious) from this spell doesn't fall [prone](rules/conditions.md#Prone) or release what it's holding. This spell doesn't prevent creatures from waking up due to a successful [Perception](compendium/skills.md#Perception) check, limiting its utility in combat.
 

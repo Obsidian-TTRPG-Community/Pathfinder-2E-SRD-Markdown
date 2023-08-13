@@ -15,10 +15,12 @@ aliases: ["Throwing Knife"]
 
 - **Price** 3 sp
 - **Bulk** L
-- **Damage** `1d4` P
+  - **Damage**: `1d4` P
 - **Hands** 1
 - **Category** Simple; **Group** Knife 
 
 This light knife is optimally balanced to be thrown accurately at a greater distance than a common dagger. While this comes at the cost of a significant cutting edge, the difference is worth it for characters focused on thrown weapons.
 
+
+---
 *Source: Extinction Curse #1: The Show Must Go On p. 77*

@@ -10,9 +10,10 @@ aliases: ["Swarmsense"]
 # Swarmsense *Focus 1*   
 [divination](rules/traits/divination.md "Divination School Trait")  
 
-- **Domains**: [swarm](compendium/setting/domains.md#Swarm)
+- **Domains** [swarm](compendium/setting/domains.md#Swarm)
 - **Cast** 1 minute 
-- **Duration**sustained
+- 
+- **Duration**: sustained
 
 You extend your senses through a multitude of crawling and flying creatures. You create a crawling swarm in your square.
 

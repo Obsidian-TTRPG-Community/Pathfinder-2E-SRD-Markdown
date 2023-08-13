@@ -16,8 +16,8 @@ aliases: ["Contagious Idea"]
 [cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 or 2 creatures other than yourself (see text)
+- **Range**: 30 foot
+- **Targets**: 1 or 2 creatures other than yourself (see text)
 
 Nothing is so contagious as a thought. You place either a pleasant thought or a terrifying one in a creature's mind. You can then plant the same thought in a second creature's mind. You can't choose a creature that's already been a target of this casting of contagious idea, nor can you choose yourself. The second target can be beyond the range of the spell, but it must be within 30 feet of the first target.
 

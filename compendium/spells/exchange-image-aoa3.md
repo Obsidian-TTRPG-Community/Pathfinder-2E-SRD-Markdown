@@ -12,13 +12,13 @@ aliases: ["Exchange Image"]
 # Exchange Image *Spell 1*   
 [illusion](rules/traits/illusion.md "Illusion School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Requirements**You have the [humanoid](rules/traits/humanoid.md "Humanoid Creature Type Trait") trait.
-- **Range**touch
-- **Targets**you and 1 other humanoid
-- **Saving Throw** Will
-- **Duration**varies
+- **Requirements**: You have the [humanoid](rules/traits/humanoid.md "Humanoid Creature Type Trait") trait.
+- **Range**: touch
+- **Targets**: you and 1 other humanoid
+- **Saving Throw**: Will
+- **Duration**: varies
 
 To mislead pursuers, the Lacunafex developed the means to swap visages. You trade appearances with the target, with the effects depending on the result of the target's Will saving throw. Willing and [unconscious](rules/conditions.md#Unconscious) targets automatically critically fail this saving throw.
 

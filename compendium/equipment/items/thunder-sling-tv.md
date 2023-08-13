@@ -15,11 +15,13 @@ aliases: ["Thunder Sling"]
 
 - **Price** 5 gp
 - **Bulk** L
-- **Damage** `1d6` P
-- **Range** 50 ft.; **Reload** 1
+  - **Damage**: `1d6` P
+  - **Range** 50 ft.; **Reload** 1
 - **Hands** 1
 - **Category** Martial; **Group** Sling 
 
 
 
+
+---
 *Source: Treasure Vault p. 30*

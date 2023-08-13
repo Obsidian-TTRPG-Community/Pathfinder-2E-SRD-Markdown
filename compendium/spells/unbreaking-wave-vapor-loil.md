@@ -13,7 +13,8 @@ aliases: ["Unbreaking Wave Vapor"]
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
-- **Trigger**You're targeted by an attack made by an attacker you can see.
+- **Trigger**: You're targeted by an attack made by an attacker you can see.
+- 
 
 You're [concealed](rules/conditions.md#Concealed) against the triggering attack and gain a +2 circumstance bonus to AC against it. After the triggering attack is complete, you can [Step](rules/actions/step.md) if the triggering attack hit or [Step](rules/actions/step.md) twice if the triggering attack missed.
 

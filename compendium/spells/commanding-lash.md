@@ -14,13 +14,13 @@ aliases: ["Commanding Lash"]
 # Commanding Lash *Focus 4*   
 [cleric](rules/traits/cleric.md "Cleric Class Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains**: [tyranny](compendium/setting/domains.md#Tyranny)
+- **Domains** [tyranny](compendium/setting/domains.md#Tyranny)
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Requirements**Your most recent action dealt damage to a target.
-- **Range**100 foot
-- **Targets**A creature you dealt damage to on your most recent action.
-- **Saving Throw** Will
-- **Duration**until the end of the target's next turn
+- **Requirements**: Your most recent action dealt damage to a target.
+- **Range**: 100 foot
+- **Targets**: A creature you dealt damage to on your most recent action.
+- **Saving Throw**: Will
+- **Duration**: until the end of the target's next turn
 
 With the threat of more pain, you compel a creature you've recently harmed. You issue a command to the target, with the effects of the spell command.
 

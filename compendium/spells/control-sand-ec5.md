@@ -13,10 +13,10 @@ aliases: ["Control Sand"]
 # Control Sand *Spell 7*   
 [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Area**5-foot emanation
-- **Duration**sustained up to 1 minute
+- **Area**: 5-foot emanation
+- **Duration**: sustained up to 1 minute
 
 You whip up a small sandstorm around your body. When a creature starts its turn in the area or moves into the area, it must succeed at a Fortitude save or become [dazzled](rules/conditions.md#Dazzled) for as long as it remains in the area; it is then temporarily immune to this dazzling effect for 10 minutes.
 

@@ -16,8 +16,8 @@ aliases: ["Big Boom Gun"]
 
 - **Price** 10 gp
 - **Bulk** 2
-- **Damage** `1d6` modular
-- **Range** 20 ft.; **Reload** 1
+  - **Damage**: `1d6` modular
+  - **Range** 20 ft.; **Reload** 1
 - **Hands** 1
 - **Category** Martial; **Group** Firearm 
 
@@ -28,4 +28,6 @@ This [hand cannon](compendium/equipment/items/hand-cannon-g-g.md) is a martial w
 > [!success-degree] 
 > - **Critical Failure** The attack misses, the weapon misfires, and you take `1d12` fire damage as it explodes in your face.
 
+
+---
 *Source: Guns & Gears p. 157*

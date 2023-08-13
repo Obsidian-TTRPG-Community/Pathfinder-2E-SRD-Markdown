@@ -14,6 +14,3 @@ aliases: ["Whispering Way"]
 - **Follower Alignments**: [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"), [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
-
-- **Divine Font**: 
-- **Cleric Spells**:

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
-- item/category/potion
+- item/category/potion/
 - trait/consumable
 - trait/magical
 - trait/potion
@@ -14,10 +14,11 @@ aliases: ["Sure-Step Potion"]
 [consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [potion](rules/traits/potion.md "Potion Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 - **Price** 17 gp
-- **Usage** held in 1 hand; **Bulk** L
+- **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Potion
 
 The light-brown liquid of a sure-step potion helps you find your footing. After drinking it, you gain a +1 item bonus to [Acrobatics](compendium/skills.md#Acrobatics) checks to [Balance](rules/actions/balance.md) for 1 hour. In addition, you can [Step](rules/actions/step.md) into difficult terrain, and you aren't [flat-footed](rules/conditions.md#Flat-footed) on uneven ground.
 
+
+---
 *Source: Treasure Vault p. 91*

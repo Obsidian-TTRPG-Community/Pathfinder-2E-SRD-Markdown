@@ -17,8 +17,8 @@ aliases: ["Incendiary Aura"]
 
 - **Mystery** Oracle
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Area**10-foot emanation
-- **Duration**1 minute
+- **Area**: 10-foot emanation
+- **Duration**: 1 minute
 
 You surround yourself with a combustible aura. Each time a creature within the emanation takes fire damage, it catches on fire, taking `2d4` [persistent fire damage](rules/conditions.md#Persistent%20Damage).
 

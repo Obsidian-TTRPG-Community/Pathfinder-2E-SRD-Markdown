@@ -11,11 +11,11 @@ aliases: ["Magic Aura"]
 # Magic Aura *Spell 1*   
 [illusion](rules/traits/illusion.md "Illusion School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 1 minute 
-- **Range**touch
-- **Targets**1 object of 3 bulk or less
-- **Duration**until the next time you make your daily preparations
+- **Range**: touch
+- **Targets**: 1 object of 3 bulk or less
+- **Duration**: until the next time you make your daily preparations
 
 You alter the appearance of an item's magic aura. You can choose to have the target's aura appear as that of common magic item of twice magic aura's level or lower, or to have it register as being under the effects of a spell of your choice of magic aura's level or lower. If the target is magical, you can instead choose to have it appear as entirely non-magical.
 

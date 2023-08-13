@@ -16,8 +16,8 @@ aliases: ["Simulacrum"]
 - **Secondary Casters** 3
 - **Primary Checks** [Arcana](compendium/skills.md#Arcana) or [Occultism](compendium/skills.md#Occultism) (master, the check has the [secret](rules/traits/secret.md "Secret General Trait") trait)
 - **Secondary Checks** [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), [Religion](compendium/skills.md#Religion), or [Society](compendium/skills.md#Society) (whichever is required to [Recall Knowledge](rules/actions/recall-knowledge.md) about the creature being duplicated); [Crafting](compendium/skills.md#Crafting), [Deception](compendium/skills.md#Deception)
-- **Range**20 feet
-- **Targets**1 living creature
+- **Range**: 20 feet
+- **Targets**: 1 living creature
 
 You create an illusory duplicate of the target creature by animating ice or snow sculpted in its shape. The simulacrum is a 4th-level creature with no special abilities. If it needs to attempt a roll or use a DC, use the moderate number for a monster, except as noted below. It doesn't have any specific memories from the target, but it can use information about the creature gained from any of the casters to [Impersonate](rules/actions/impersonate.md) the target. It looks exactly like the target and has a [Deception](compendium/skills.md#Deception) modifier to [Impersonate](rules/actions/impersonate.md) that creature equal to the modifier of the secondary spellcaster who rolled the [Deception](compendium/skills.md#Deception) check, with a +4 status bonus.
 

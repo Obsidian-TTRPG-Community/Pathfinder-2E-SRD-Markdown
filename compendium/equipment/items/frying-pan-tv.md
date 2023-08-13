@@ -13,10 +13,12 @@ aliases: ["Frying Pan"]
 
 - **Price** 1 sp
 - **Bulk** L
-- **Damage** `1d4` B
+  - **Damage**: `1d4` B
 - **Hands** 1
 - **Category** Simple; **Group** Club 
 
 The cast-iron frying pan is an essential tool for adventuring halflings, gold panners, and remote tavern owners. Characters with the [Halfling Weapon Familiarity](compendium/feats/halfling-weapon-familiarity.md) ancestry feat are trained in the frying pan.
 
+
+---
 *Source: Treasure Vault p. 25*

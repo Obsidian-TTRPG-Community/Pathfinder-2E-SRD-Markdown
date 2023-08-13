@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/da
-- item/category/held
+- item/category/held/
 - trait/cursed
 - trait/enchantment
 - trait/magical
@@ -13,13 +13,12 @@ aliases: ["Book of Lost Days"]
 # Book of Lost Days *Item 15*  
 [cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
-- **Usage** held in 2 hands; **Bulk** 1
-- **Category** Held
+- **Bulk** 1; **Usage** held in 2 hands
 
 This massive tome's yellowed pages curl at the edges, and the letters on its face and spine are too worn to be read. When you open the book, it always opens to a page that seems to perfectly answer the question you had in mind, but reading more than a few lines causes your head to swim alarmingly.
 
 ```ad-embed-ability
-title: Activate [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Duration or Frequency")
+title: **Activate** [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Duration or Frequency") 1 hour envision, [Interact](rules/actions/interact.md)
 
 - **Requirements**: You aren't [drained](rules/conditions.md#Drained)
 
@@ -34,4 +33,6 @@ Your natural lifespan is also shortened by 1 day. The loss of this life energy c
 Creatures have occasionally managed to use the Book of Lost Days not to gain others' knowledge but to wipe their minds clean of painful memories or deadly secrets. Their memories aren't destroyed but merely stored in the book, where someone else might later retrieve them.
 ```
 
+
+---
 *Source: Dark Archive p. 160*

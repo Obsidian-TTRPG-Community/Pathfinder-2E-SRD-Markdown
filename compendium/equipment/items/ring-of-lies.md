@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/crb
-- item/category/worn
+- item/category/worn/
 - trait/enchantment
 - trait/invested
 - trait/magical
@@ -14,15 +14,18 @@ aliases: ["Ring of Lies"]
 [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 850 gp
-- **Usage** worn; **Bulk** —
-- **Category** Worn
+- **Bulk** —; **Usage** worn
 
 This plain silver ring has an almost oily sheen. While wearing the ring, you gain a +2 item bonus to [Deception](compendium/skills.md#Deception) checks.
 
 ```ad-embed-ability
-title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
+title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") [Interact](rules/actions/interact.md)
 
-Snapping your fingers on the hand that wears the ring causes the ring to cast [glibness](compendium/spells/glibness.md) on you with no visual manifestations of a spell being cast.
+- **Frequency**: once per day
+
+**Effect** Snapping your fingers on the hand that wears the ring causes the ring to cast [glibness](compendium/spells/glibness.md) on you with no visual manifestations of a spell being cast.
 ```
 
+
+---
 *Source: Core Rulebook p. 614*

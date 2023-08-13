@@ -13,10 +13,12 @@ aliases: ["Khopesh"]
 
 - **Price** 2 gp
 - **Bulk** 1
-- **Damage** `1d8` S
+  - **Damage**: `1d8` S
 - **Hands** 1
 - **Category** Martial; **Group** Sword 
 
 This curved sickle sword has a pointed tip, allowing it to be swung like a handaxe or thrust like a short sword. The tip of a khopesh is usually hooked so that it can be used to disarm an opponent's shield or weapon.
 
+
+---
 *Source: Treasure Vault p. 25*

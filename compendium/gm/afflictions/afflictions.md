@@ -5,6 +5,7 @@ cssclass: pf2e,pf2e-index
 # Index of Afflictions
 
 - [Blackfrost, _Curse 1_](blackfrost-gw3.md)
+- [Blightburn Sickness, _Disease Level Varies_](blightburn-sickness-tv.md)
 - [Blinding Sickness, _Disease 7_](blinding-sickness.md)
 - [Boastful Prince's Scourge, _Curse 7_](boastful-princes-scourge-da.md)
 - [Boatman's Toll Curse, _Curse 20_](boatmans-toll-curse-loil.md)
@@ -35,6 +36,7 @@ cssclass: pf2e,pf2e-index
 - [Malaria, _Disease 2_](malaria.md)
 - [Nightmare Fever, _Disease 8_](nightmare-fever.md)
 - [Oath of the Flesh, _Curse 7_](oath-of-the-flesh.md)
+- [Obnubilate Curse, _Curse 10_](obnubilate-curse-gw1.md)
 - [Poison Sedum, _Disease 1_](poison-sedum-ooa1.md)
 - [Rage of The Excommunicant, _Curse 10_](rage-of-the-excommunicant-da.md)
 - [Reviled of Nature, _Curse 18_](reviled-of-nature.md)

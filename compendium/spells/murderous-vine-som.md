@@ -12,11 +12,11 @@ aliases: ["Murderous Vine"]
 # Murderous Vine *Spell 4*   
 [attack](rules/traits/attack.md "Attack Combat Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**60 foot
-- **Targets**1 creature adjacent to a flat surface
-- **Duration**1 minute
+- **Range**: 60 foot
+- **Targets**: 1 creature adjacent to a flat surface
+- **Duration**: 1 minute
 
 You summon a slithering, thorny vine that attempts to constrict and crush a foe against a wall or other surface.
 

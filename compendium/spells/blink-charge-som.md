@@ -12,10 +12,10 @@ aliases: ["Blink Charge"]
 # Blink Charge *Spell 5*   
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**60 foot
-- **Targets**1 creature
+- **Range**: 60 foot
+- **Targets**: 1 creature
 
 You propel yourself through the fabric of space to deal a blow carrying the momentum of your teleportation. You teleport to an empty space adjacent to a creature you can see within range, then make a [Strike](rules/actions/strike.md) against the creature with a weapon you're wielding. The [Strike](rules/actions/strike.md) deals damage, plus an extra `2d8` force damage, depending on the result of your [Strike](rules/actions/strike.md).
 

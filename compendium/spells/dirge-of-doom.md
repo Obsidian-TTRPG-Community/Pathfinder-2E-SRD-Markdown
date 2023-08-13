@@ -19,8 +19,8 @@ aliases: ["Dirge Of Doom"]
 [bard](rules/traits/bard.md "Bard Class Trait")  [cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [composition](rules/traits/composition.md "Composition Spell Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Area**30-foot emanation
-- **Duration**1 round
+- **Area**: 30-foot emanation
+- **Duration**: 1 round
 
 Foes within the area are [frightened](rules/conditions.md#Frightened). They can't reduce their [frightened](rules/conditions.md#Frightened) value below 1 while they remain in the area.
 

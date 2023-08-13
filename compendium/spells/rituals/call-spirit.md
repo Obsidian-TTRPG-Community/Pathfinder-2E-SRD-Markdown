@@ -16,6 +16,7 @@ aliases: ["Call Spirit"]
 - **Secondary Casters** 1
 - **Primary Checks** [Occultism](compendium/skills.md#Occultism) (expert) or [Religion](compendium/skills.md#Religion) (expert)
 - **Secondary Checks** [Occultism](compendium/skills.md#Occultism) or [Religion](compendium/skills.md#Religion) (whichever isn't used for the primary check)
+- 
 
 You tear the veil to the afterlife and call a spirit from its final resting place. You must call the spirit by name, and you must provide a connection to the spirit, such as a possession, a garment, or a piece of its corpse. A spirit unwilling to heed your call can attempt a Will save to avoid it; on a critical success, a trickster spirit [Impersonates](rules/actions/impersonate.md) the spirit you meant to call. The DC of the Will save is 2 lower if you haven't met the spirit in life.
 

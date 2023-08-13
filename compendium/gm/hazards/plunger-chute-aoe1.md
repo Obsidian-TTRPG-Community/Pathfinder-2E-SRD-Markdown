@@ -17,14 +17,11 @@ A trapdoor in the floor conceals a [hidden](rules/conditions.md#Hidden) chute, a
 
 - **Disable** DC 23 [Thievery](compendium/skills.md#Thievery) (expert) to jam the trapdoor shut or activate a [hidden](rules/conditions.md#Hidden) bypass switch by twisting a fitting on the gas lamp.  
 
-- **AC** 22 , **Fort** +14, **Ref** +8
+- **AC** 22, **Fort** +14, **Ref** +8
 - **Trapdoor Hardness** 10, **Trapdoor HP** 40 (BT 20)
-- **Immunities** 
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Pitfall and Plunger [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Pitfall and Plunger** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature walks onto the trapdoor
 

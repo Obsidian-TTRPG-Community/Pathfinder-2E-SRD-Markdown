@@ -11,11 +11,11 @@ aliases: ["Item Facade"]
 # Item Facade *Spell 1*   
 [illusion](rules/traits/illusion.md "Illusion School Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Targets**1 object no more than 10 feet by 10 feet by 10 feet
-- **Duration**1 hour
+- **Range**: touch
+- **Targets**: 1 object no more than 10 feet by 10 feet by 10 feet
+- **Duration**: 1 hour
 
 You make the target object look and feel as though it were in much better or worse physical condition. When you cast this spell, decide whether you want to make the object look decrepit or perfect. An item made to look decrepit appears [broken](rules/conditions.md#Broken) and shoddy. An intact item made to look better appears as though it's brand new and highly polished or well maintained. A [broken](rules/conditions.md#Broken) item appears to be intact and functional.
 

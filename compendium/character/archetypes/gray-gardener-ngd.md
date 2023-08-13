@@ -18,7 +18,6 @@ Your vigilante identity is that of a Gray Gardener, and you must be wearing a ma
 ```ad-embed-feat
 title: Executioner Weapon Training, Feat 4
 collapse: closed
-# Executioner Weapon Training  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Vigilante Dedication](compendium/feats/vigilante-dedication-apg.md), member of the Gray Gardeners
@@ -34,7 +33,6 @@ Whenever you gain a class feature that grants you expert or greater proficiency 
 ```ad-embed-feat
 title: Harsh Judgment, Feat 4
 collapse: closed
-# Harsh Judgment  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [vigilante](rules/traits/vigilante-apg.md "Vigilante Feat Trait")  
 
 - **Prerequisites**: [Vigilante Dedication](compendium/feats/vigilante-dedication-apg.md), member of the Gray Gardeners
@@ -51,7 +49,6 @@ You typically can use Harsh Judgment only during an encounter, and if you try to
 ```ad-embed-feat
 title: Voice of Authority, Feat 4
 collapse: closed
-# Voice of Authority  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [vigilante](rules/traits/vigilante-apg.md "Vigilante Feat Trait")  
 
 - **Prerequisites**: expert in [Intimidation](compendium/skills.md#Intimidation), [Vigilante Dedication](compendium/feats/vigilante-dedication-apg.md), member of the Gray Gardeners
@@ -67,7 +64,6 @@ Your voice be heard easily by any creatures within 300 feet if you wish, regardl
 ```ad-embed-feat
 title: Discerning Gaze, Feat 6
 collapse: closed
-# Discerning Gaze  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Vigilante Dedication](compendium/feats/vigilante-dedication-apg.md), member of the Gray Gardeners
@@ -83,7 +79,6 @@ If you use [Sense Motive](rules/actions/sense-motive.md) on a creature you have 
 ```ad-embed-feat
 title: Frightful Condemnation, Feat 6
 collapse: closed
-# Frightful Condemnation  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [vigilante](rules/traits/vigilante-apg.md "Vigilante Feat Trait")  
 
 - **Prerequisites**: [Harsh Judgment](compendium/feats/harsh-judgment-ngd.md), [Vigilante Dedication](compendium/feats/vigilante-dedication-apg.md), member of the Gray Gardeners
@@ -102,7 +97,6 @@ Your condemned foe is [frightened](rules/conditions.md#Frightened), or [frighten
 ```ad-embed-feat
 title: Accurate Swing, Feat 8
 collapse: closed
-# Accurate Swing  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [vigilante](rules/traits/vigilante-apg.md "Vigilante Feat Trait")  
 
 - **Prerequisites**: [Harsh Judgment](compendium/feats/harsh-judgment-ngd.md), [Vigilante Dedication](compendium/feats/vigilante-dedication-apg.md), member of the Gray Gardeners
@@ -116,7 +110,6 @@ You strike cleanly with wide, sweeping attacks to inflict maximum damage, taking
 ```ad-embed-feat
 title: Gardener's Resolve, Feat 8
 collapse: closed
-# Gardener's Resolve  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [vigilante](rules/traits/vigilante-apg.md "Vigilante Feat Trait")  
 
 - **Prerequisites**: [Vigilante Dedication](compendium/feats/vigilante-dedication-apg.md), member of the Gray Gardeners
@@ -133,7 +126,6 @@ The Gray Gardeners are known for having nerves of steel and an unbreakable resol
 ```ad-embed-feat
 title: Reminder of the Greater Fear, Feat 8
 collapse: closed
-# Reminder of the Greater Fear  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [vigilante](rules/traits/vigilante-apg.md "Vigilante Feat Trait")  
 
 - **Prerequisites**: master in [Intimidation](compendium/skills.md#Intimidation), [Vigilante Dedication](compendium/feats/vigilante-dedication-apg.md)
@@ -150,7 +142,6 @@ You give a target a stern glower to remind them that it is you, and no one else,
 ```ad-embed-feat
 title: Strident Command, Feat 10
 collapse: closed
-# Strident Command  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: master in [Intimidation](compendium/skills.md#Intimidation), [Vigilante Dedication](compendium/feats/vigilante-dedication-apg.md), [Voice of Authority](compendium/feats/voice-of-authority-ngd.md), member of the Gray Gardeners
@@ -166,7 +157,6 @@ If you're in your vigilante identity, you can command the target only to approac
 ```ad-embed-feat
 title: Execution, Feat 14*
 collapse: closed
-# Execution  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 14*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [vigilante](rules/traits/vigilante-apg.md "Vigilante Feat Trait")  
 
 > [!pf2-note] This version of [Execution](compendium/feats/execution-ngd.md) is intended for use with the Gray Gardener Archetype. Its level has been changed accordingly.
@@ -184,7 +174,6 @@ You swing wide, attempting to behead your condemned foe. Make a melee [Strike](r
 ```ad-embed-feat
 title: Terrifying Countenance, Feat 18*
 collapse: closed
-# Terrifying Countenance  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 18*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [vigilante](rules/traits/vigilante-apg.md "Vigilante Feat Trait")  
 
 > [!pf2-note] This version of [Terrifying Countenance](compendium/feats/terrifying-countenance-ngd.md) is intended for use with the Gray Gardener Archetype. Its level has been changed accordingly.

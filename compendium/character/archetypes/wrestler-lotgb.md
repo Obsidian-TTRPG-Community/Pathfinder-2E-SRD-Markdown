@@ -20,7 +20,6 @@ Outside of the Inner Sea, wrestlers are common in Iblydos and Arcadia. Iblydan w
 ```ad-embed-feat
 title: Wrestler Dedication, Feat 2
 collapse: closed
-# Wrestler Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: trained in [Athletics](compendium/skills.md#Athletics), unarmed attacks, and unarmored defense
@@ -38,7 +37,6 @@ You become an expert in [Athletics](compendium/skills.md#Athletics) and gain the
 ```ad-embed-feat
 title: Combat Grab, Feat 4*
 collapse: closed
-# Combat Grab  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
 [fighter](rules/traits/fighter.md "Fighter Class Trait")  [press](rules/traits/press.md "Press Combat Trait")  
 
 > [!pf2-note] This version of [Combat Grab](compendium/feats/combat-grab.md) is intended for use with the Wrestler Archetype. Its level has been changed accordingly.
@@ -55,7 +53,6 @@ You swipe at your opponent and grab at them. Make a melee [Strike](rules/actions
 ```ad-embed-feat
 title: Crushing Grab, Feat 4*
 collapse: closed
-# Crushing Grab  *Feat 4*  
 [monk](rules/traits/monk.md "Monk Class Trait")  
 
 > [!pf2-note] This version of [Crushing Grab](compendium/feats/crushing-grab.md) is intended for use with the Wrestler Archetype. Its level has been changed accordingly.
@@ -70,7 +67,6 @@ Like a powerful constrictor, you crush targets in your unyielding grasp. When yo
 ```ad-embed-feat
 title: Disengaging Twist, Feat 4
 collapse: closed
-# Disengaging Twist  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Wrestler Dedication](compendium/feats/wrestler-dedication-lotgb.md)
@@ -86,7 +82,6 @@ Your ability to twist your opponents' bodies into painful locks and holds makes 
 ```ad-embed-feat
 title: Elbow Breaker, Feat 4
 collapse: closed
-# Elbow Breaker  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Wrestler Dedication](compendium/feats/wrestler-dedication-lotgb.md)
@@ -108,7 +103,6 @@ Make an unarmed melee [Strike](rules/actions/strike.md) against the creature you
 ```ad-embed-feat
 title: Snagging Strike, Feat 4*
 collapse: closed
-# Snagging Strike  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
 [fighter](rules/traits/fighter.md "Fighter Class Trait")  
 
 > [!pf2-note] This version of [Snagging Strike](compendium/feats/snagging-strike.md) is intended for use with the Wrestler Archetype. Its level has been changed accordingly.
@@ -125,7 +119,6 @@ You combine an attack with quick grappling moves to throw an enemy off balance a
 ```ad-embed-feat
 title: Suplex, Feat 4
 collapse: closed
-# Suplex  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Wrestler Dedication](compendium/feats/wrestler-dedication-lotgb.md)
@@ -141,7 +134,6 @@ Flexing your entire body, you heave your opponent over your head and slam them i
 ```ad-embed-feat
 title: Clinch Strike, Feat 6
 collapse: closed
-# Clinch Strike  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Wrestler Dedication](compendium/feats/wrestler-dedication-lotgb.md)
@@ -157,7 +149,6 @@ Your opponents can't slip your grasp without receiving further punishment. Make 
 ```ad-embed-feat
 title: Running Tackle, Feat 8
 collapse: closed
-# Running Tackle  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [open](rules/traits/open.md "Open Combat Trait")  
 
 - **Prerequisites**: [Wrestler Dedication](compendium/feats/wrestler-dedication-lotgb.md)
@@ -172,7 +163,6 @@ You charge toward your opponent, throwing your body at them in a vicious tackle.
 ```ad-embed-feat
 title: Strangle, Feat 8
 collapse: closed
-# Strangle  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Wrestler Dedication](compendium/feats/wrestler-dedication-lotgb.md)
@@ -188,7 +178,6 @@ You twist and squeeze the breath out of your foe. Make an unarmed melee [Strike]
 ```ad-embed-feat
 title: Submission Hold, Feat 8
 collapse: closed
-# Submission Hold  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Wrestler Dedication](compendium/feats/wrestler-dedication-lotgb.md)
@@ -208,7 +197,6 @@ Your iron grip slowly saps your opponent's strength. Attempt an [Athletics](comp
 ```ad-embed-feat
 title: Whirling Throw, Feat 8*
 collapse: closed
-# Whirling Throw  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
 [monk](rules/traits/monk.md "Monk Class Trait")  
 
 > [!pf2-note] This version of [Whirling Throw](compendium/feats/whirling-throw.md) is intended for use with the Wrestler Archetype. Its level has been changed accordingly.
@@ -233,7 +221,6 @@ Attempt an [Athletics](compendium/skills.md#Athletics) check against the foe's F
 ```ad-embed-feat
 title: Aerial Piledriver, Feat 10
 collapse: closed
-# Aerial Piledriver  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [attack](rules/traits/attack.md "Attack Combat Trait")  
 
 - **Prerequisites**: [Wrestler Dedication](compendium/feats/wrestler-dedication-lotgb.md)
@@ -256,7 +243,6 @@ This [Strike](rules/actions/strike.md) deals `1d6` additional damage per weapon 
 ```ad-embed-feat
 title: Spinebreaker, Feat 10
 collapse: closed
-# Spinebreaker  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Wrestler Dedication](compendium/feats/wrestler-dedication-lotgb.md)
@@ -278,7 +264,6 @@ Attempt an [Athletics](compendium/skills.md#Athletics) check to [Grapple](rules/
 ```ad-embed-feat
 title: Inescapable Grasp, Feat 12*
 collapse: closed
-# Inescapable Grasp  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Inescapable Grasp](compendium/feats/inescapable-grasp-lotgb.md) is intended for use with the Wrestler Archetype. Its level has been changed accordingly.
@@ -296,7 +281,6 @@ If a creature you have [grabbed](rules/conditions.md#Grabbed) attempts to use a 
 ```ad-embed-feat
 title: Form Lock, Feat 14*
 collapse: closed
-# Form Lock  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 14*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [attack](rules/traits/attack.md "Attack Combat Trait")  
 
 > [!pf2-note] This version of [Form Lock](compendium/feats/form-lock-lotgb.md) is intended for use with the Wrestler Archetype. Its level has been changed accordingly.

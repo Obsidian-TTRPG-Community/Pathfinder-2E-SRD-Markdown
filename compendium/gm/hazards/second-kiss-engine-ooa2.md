@@ -17,14 +17,12 @@ Exposed clockwork gears spin at high speeds.
 
 - **Disable** DC 28 [Thievery](compendium/skills.md#Thievery) (expert) to disable the engine, or DC 26 [Engineering Lore](compendium/skills.md#Lore) to disengage the drive shaft. Either method disables the trap but also shuts down the engine, disabling the Second Kiss's propulsion.  
 
-- **AC** 27 , **Fort** +15, **Ref** +18
+- **AC** 27, **Fort** +15, **Ref** +18
 - **Hardness** 10, **HP** 50 (BT 25)
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Spinning Gears [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Spinning Gears** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature [Strides](rules/actions/stride.md) in the engine nacelle
 

@@ -16,8 +16,8 @@ aliases: ["Rest Eternal"]
 - **Secondary Casters** 2
 - **Primary Checks** [Religion](compendium/skills.md#Religion) (expert)
 - **Secondary Checks** [Occultism](compendium/skills.md#Occultism), [Religion](compendium/skills.md#Religion)
-- **Range**20 feet
-- **Targets**1 dead creature
+- **Range**: 20 feet
+- **Targets**: 1 dead creature
 
 You call upon gods, spirits, and stranger beings to bar a creature's spirit from ever returning. A spirit that doesn't wish to be so constrained can attempt a Will save to resist this ritual; on a critical success, it fools you into believing the ritual succeeded. This ritual has no effect on a target who is undead or whose soul is otherwise not in the afterlife.
 

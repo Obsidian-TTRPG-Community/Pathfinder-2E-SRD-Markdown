@@ -16,8 +16,8 @@ aliases: ["Shroud Of Flame"]
 
 - **Bloodline** Sorcerer
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Area**10-foot emanation
-- **Duration**sustained up to 1 minute
+- **Area**: 10-foot emanation
+- **Duration**: sustained up to 1 minute
 
 You encircle yourself in an aura of protective flames.
 

@@ -11,9 +11,10 @@ aliases: ["Avatar"]
 # Avatar *Spell 10*   
 [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Duration**1 minute
+- 
+- **Duration**: 1 minute
 
 You transform into an avatar of your deity, assuming a [Huge](rules/traits/huge-b1.md "Huge Size Trait") battle form. You must have space to expand or the spell is lost.
 

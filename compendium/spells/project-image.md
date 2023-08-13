@@ -11,10 +11,10 @@ aliases: ["Project Image"]
 # Project Image *Spell 7*   
 [illusion](rules/traits/illusion.md "Illusion School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Duration**sustained up to 1 minute
+- **Range**: 30 foot
+- **Duration**: sustained up to 1 minute
 
 You project an illusory image of yourself. You must stay within range of the image, and if at any point you can't see the image, the spell ends. Whenever you [Cast a Spell](rules/actions/cast-a-spell.md) other than one whose area is an emanation, you can cause the spell effect to originate from either yourself or the image. Because the image is an illusion, it can't benefit from spells, though visual manifestations of the spell appear. The image has the same AC and saves as you. If it is hit by an attack or fails a save, the spell ends.
 

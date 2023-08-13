@@ -14,10 +14,12 @@ aliases: ["Panabas"]
 
 - **Price** 1 gp
 - **Bulk** 1
-- **Damage** `1d6` S
+  - **Damage**: `1d6` S
 - **Hands** 1
 - **Category** Martial; **Group** Sword 
 
 This weapon has practical uses in both farming and butchering, thanks to the efficiency and brutality of its forward-curving blade. It can be wielded in one or two hands.
 
+
+---
 *Source: Treasure Vault p. 25*

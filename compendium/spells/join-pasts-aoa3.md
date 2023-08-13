@@ -13,11 +13,11 @@ aliases: ["Join Pasts"]
 # Join Pasts *Cantrip 1*   
 [cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**touch
-- **Targets**2 willing creatures
-- **Duration**1 round
+- **Range**: touch
+- **Targets**: 2 willing creatures
+- **Duration**: 1 round
 
 With touches to the targets' foreheads, you bring them into mental communion. The targets can share thoughts and experiences, but not words. When one target attempts to [Recall Knowledge](rules/actions/recall-knowledge.md), the other can [Aid](rules/actions/aid.md) the first target's skill check, using any [Lore](compendium/skills.md#Lore) skill (even if that [Lore](compendium/skills.md#Lore) wouldn't normally apply) without having made any preparations to [Aid](rules/actions/aid.md).
 

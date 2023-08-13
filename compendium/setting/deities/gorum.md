@@ -17,7 +17,7 @@ aliases: ["Gorum", "Our Lord in Iron"]
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: kill prisoners or surrendering foes, prevent conflict through negotiation, win a battle through underhanded tactics or indirect magic
-- **Areas of Concern**: battle, , strength, , and weapons
+- **Areas of Concern**: battle, strength, and weapons
 - **Follower Alignments**: [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
@@ -33,7 +33,8 @@ aliases: ["Gorum", "Our Lord in Iron"]
 title: [Avatar](compendium/spells/avatar.md) of Gorum
 
 - **Speed**: Speed 70 feet, immune to [immobilized](rules/conditions.md#Immobilized)
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") greatsword ([reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [versatile <p>](rules/traits/versatile-p.md "Versatile Weapon Trait")), **Damage** `6d12+6` slashing
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") greatsword (, [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [versatile <p>](rules/traits/versatile-p.md "Versatile Weapon Trait")), **Damage** `6d12+6` slashing 
 ```
 
 ## Divine intercession

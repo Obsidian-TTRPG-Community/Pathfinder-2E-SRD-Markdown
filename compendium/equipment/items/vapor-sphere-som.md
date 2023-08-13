@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/som
-- item/category/talisman
+- item/category/talisman/
 - trait/consumable
 - trait/magical
 - trait/talisman
@@ -16,7 +16,6 @@ aliases: ["Vapor Sphere"]
 - **Price** 900 gp
 - **Usage** affixed to armor
 - **Activate** envision; **Trigger** You trigger a trap's reaction or an enemy that was [undetected](rules/conditions.md#Undetected) by you makes an attack against you
-- **Category** Talisman
 
 You're an expert in the affixed armor and an expert in Reflex saves.
 
@@ -24,4 +23,6 @@ Within this strange glass sphere swirls a cloud of smoke that occasionally appea
 
 This effect also prevents the reaction or attack from physically moving you (such as falling down a pit or being knocked [prone](rules/conditions.md#Prone)), and after the reaction or attack, you can [Fly](rules/actions/fly.md) 5 feet. When you end this flight, you leave your vaporous state and are exposed to any danger still at your location.
 
+
+---
 *Source: Secrets of Magic p. 176*

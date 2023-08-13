@@ -85,7 +85,6 @@ Runelords of transmutation not only transform objects to create value, but also 
 ```ad-embed-feat
 title: Runelord Dedication, Feat 2
 collapse: closed
-# Runelord Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [class](rules/traits/class-som.md "Class Class Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Prerequisites**: runelord specialization
@@ -101,7 +100,6 @@ Your rune magic increases, and you practice with your school's associated weapon
 ```ad-embed-feat
 title: Embed Aeon Stone, Feat 2
 collapse: closed
-# Embed Aeon Stone  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Runelord Dedication](compendium/feats/runelord-dedication-som.md), trained in [Crafting](compendium/skills.md#Crafting)
@@ -117,7 +115,6 @@ You can also use this activity to safely remove an embedded aeon stone in 1 day.
 ```ad-embed-feat
 title: Tattoo Artist, Feat 2*
 collapse: closed
-# Tattoo Artist  *Feat 2*  
 [general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 > [!pf2-note] This version of [Tattoo Artist](compendium/feats/tattoo-artist-tv.md) is intended for use with the Runelord Archetype. Its level has been changed accordingly.
@@ -133,7 +130,6 @@ You can craft tattoos, including magical tattoos. When you select this feat, you
 ```ad-embed-feat
 title: Aeon Resonance, Feat 4
 collapse: closed
-# Aeon Resonance  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Embed Aeon Stone](compendium/feats/embed-aeon-stone-som.md)
@@ -149,7 +145,6 @@ You gain the resonant power of one embedded aeon stone as if it were placed in a
 ```ad-embed-feat
 title: Polearm Tricks, Feat 6
 collapse: closed
-# Polearm Tricks  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Runelord Dedication](compendium/feats/runelord-dedication-som.md)
@@ -163,7 +158,6 @@ Your connection to rune magic has revealed tricks to make polearms deadlier in y
 ```ad-embed-feat
 title: Sin Reservoir, Feat 8
 collapse: closed
-# Sin Reservoir  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Runelord Dedication](compendium/feats/runelord-dedication-som.md)
@@ -177,7 +171,6 @@ During daily preparations, you can indulge in your associated sin. When you do, 
 ```ad-embed-feat
 title: Fused Polearm, Feat 10
 collapse: closed
-# Fused Polearm  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Runelord Dedication](compendium/feats/runelord-dedication-som.md)
@@ -194,7 +187,6 @@ While the two are fused, the weapon's haft takes on aesthetic aspects of the sta
 ```ad-embed-feat
 title: School Counterspell, Feat 12*
 collapse: closed
-# School Counterspell  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [School Counterspell](compendium/feats/school-counterspell-som.md) is intended for use with the Runelord Archetype. Its level has been changed accordingly.
@@ -210,7 +202,6 @@ Your intricate knowledge of your school lets you easily negate spells from that 
 ```ad-embed-feat
 title: School Spell Redirection, Feat 18*
 collapse: closed
-# School Spell Redirection  *Feat 18*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [School Spell Redirection](compendium/feats/school-spell-redirection-som.md) is intended for use with the Runelord Archetype. Its level has been changed accordingly.

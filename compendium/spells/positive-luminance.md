@@ -14,9 +14,10 @@ aliases: ["Positive Luminance"]
 # Positive Luminance *Focus 4*   
 [cleric](rules/traits/cleric.md "Cleric Class Trait")  [light](rules/traits/light.md "Light Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains**: [sun](compendium/setting/domains.md#Sun)
+- **Domains** [sun](compendium/setting/domains.md#Sun)
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Duration**1 minute
+- 
+- **Duration**: 1 minute
 
 Drawing life force into yourself, you become a beacon of positive energy. You glow with bright light in a 10-foot emanation, and you gain an internal pool of light called a luminance reservoir, which begins with a value of 4. At the start of each of your turns, you can use a free action to increase the luminance reservoir by 4. If you do, the radius of your light increases by 10 feet.
 

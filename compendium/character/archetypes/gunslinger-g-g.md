@@ -19,7 +19,6 @@ Gunslinger is a great fit for dexterous characters who want a weapon that hits h
 ```ad-embed-feat
 title: Gunslinger Dedication, Feat 2
 collapse: closed
-# Gunslinger Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [multiclass](rules/traits/multiclass.md "Multiclass Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: Dexterity 14
@@ -37,7 +36,6 @@ Choose a gunslinger way. You become trained in your way's associated skill; if y
 ```ad-embed-feat
 title: Basic Shooting, Feat 4
 collapse: closed
-# Basic Shooting  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Gunslinger Dedication](compendium/feats/gunslinger-dedication-g-g.md)
@@ -51,7 +49,6 @@ You gain a 1st- or 2nd-level gunslinger feat of your choice.
 ```ad-embed-feat
 title: Advanced Shooting, Feat 6
 collapse: closed
-# Advanced Shooting  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Shooting](compendium/feats/basic-shooting-g-g.md)
@@ -67,7 +64,6 @@ You gain one gunslinger feat. For the purpose of meeting its prerequisites, your
 ```ad-embed-feat
 title: Slinger's Readiness, Feat 6
 collapse: closed
-# Slinger's Readiness  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Gunslinger Dedication](compendium/feats/gunslinger-dedication-g-g.md)
@@ -81,7 +77,6 @@ You've learned a gunslinger's tricks for staking out your territory in a fight. 
 ```ad-embed-feat
 title: Practiced Reloads, Feat 10
 collapse: closed
-# Practiced Reloads  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Gunslinger Dedication](compendium/feats/gunslinger-dedication-g-g.md)
@@ -95,7 +90,6 @@ You've mastered the reloading techniques and methods usually practiced by only t
 ```ad-embed-feat
 title: Eagle Eye, Feat 12*
 collapse: closed
-# Eagle Eye  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Eagle Eye](compendium/feats/eagle-eye-g-g.md) is intended for use with the Gunslinger Archetype. Its level has been changed accordingly.
@@ -111,7 +105,6 @@ Your practice with crossbows and firearms has sharpened your attention to detail
 ```ad-embed-feat
 title: Firearm Expert, Feat 12*
 collapse: closed
-# Firearm Expert  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Firearm Expert](compendium/feats/firearm-expert-g-g.md) is intended for use with the Gunslinger Archetype. Its level has been changed accordingly.

@@ -13,11 +13,11 @@ aliases: ["Passwall"]
 # Passwall *Spell 5*   
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Area**5-foot-wide, 10-foot-tall, 10-foot-deep section of wooden, plaster, or stone wall
-- **Duration**1 hour
+- **Range**: touch
+- **Area**: 5-foot-wide, 10-foot-tall, 10-foot-deep section of wooden, plaster, or stone wall
+- **Duration**: 1 hour
 
 You create a visible tunnel through the wall in the chosen area, replacing the area with empty space. If the wall is thicker than 10 feet, the tunnel ends 10 feet in. Even a small layer of metal in the wall prevents this spell from functioning. This spell doesn't reduce the integrity of the structure. When the spell ends, anyone inside the tunnel is shunted to the nearest exit.
 

@@ -16,7 +16,6 @@ You've undergone specialized training to help you keep the peace in Alkenstar's 
 ```ad-embed-feat
 title: Shieldmarshal Dedication, Feat 2
 collapse: closed
-# Shieldmarshal Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 
@@ -31,7 +30,6 @@ In urban environments, you can attempt [Society](compendium/skills.md#Society) c
 ```ad-embed-feat
 title: Consolidated Overlay Panopticon, Feat 4
 collapse: closed
-# Consolidated Overlay Panopticon  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Shieldmarshal Dedication](compendium/feats/shieldmarshal-dedication-loil.md)
@@ -47,7 +45,6 @@ You volunteered for a controversial experimental procedure to install clockwork 
 ```ad-embed-feat
 title: Equitable Defense, Feat 8
 collapse: closed
-# Equitable Defense  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Shieldmarshal Dedication](compendium/feats/shieldmarshal-dedication-loil.md)
@@ -64,7 +61,6 @@ Gritting your teeth through the pain, you position yourself to counterattack. Yo
 ```ad-embed-feat
 title: Counterclockwork Focus, Feat 10
 collapse: closed
-# Counterclockwork Focus  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Shieldmarshal Dedication](compendium/feats/shieldmarshal-dedication-loil.md)

@@ -16,10 +16,10 @@ aliases: ["Claim Undead"]
 
 - **Mystery** Oracle
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 undead creature
-- **Saving Throw** Will
-- **Duration**10 minutes
+- **Range**: 30 foot
+- **Targets**: 1 undead creature
+- **Saving Throw**: Will
+- **Duration**: 10 minutes
 
 You attempt to wrest control of a target undead or force it to recognize you as its master. If the target is [controlled](rules/conditions.md#Controlled) by another creature, that controller attempts a Will saving throw to retain control; otherwise, the target must attempt a Will save.
 

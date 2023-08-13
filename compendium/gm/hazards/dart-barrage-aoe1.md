@@ -18,14 +18,12 @@ Four dart-loaded pipes [hidden](rules/conditions.md#Hidden) in the diagonal wall
 
 - **Disable** [Thievery](compendium/skills.md#Thievery) DC 22 (trained) to disable the pressure plate, or four [Thievery](compendium/skills.md#Thievery) DC 18 (trained) checks to plug the dart launchers.  
 
-- **AC** 22 , **Fort** +13, **Ref** +7
+- **AC** 22, **Fort** +13, **Ref** +7
 - **Hardness** 10, **HP** 60 (BT 30) to destroy the seal and disable the trap
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Dart Volley [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Dart Volley** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: More than two Small or larger creatures step on the brass seal.
 
@@ -34,12 +32,11 @@ title: Dart Volley [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions
 
 ````ad-pf2-summary
 title: Routine
-(4 actions) The trap loses 1 action for each disabled launcher. On each of the trap's actions, it fires one dart at a creature in the center of the room.
 
+(4 actions) The trap loses 1 action for each disabled launcher. On each of the trap's actions, it fires one dart at a creature in the center of the room.
 ```ad-inline-attack
 title: Ranged [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Dart (12)
 **Damage** `3d6` piercing, no multiple attack penalty 
- 
 **Effects** no multiple attack penalty
 ```
 ````

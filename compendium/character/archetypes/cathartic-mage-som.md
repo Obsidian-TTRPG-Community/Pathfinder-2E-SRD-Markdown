@@ -184,7 +184,6 @@ You attempt to overcome your failings, but your guilt stays with you.
 ````ad-embed-feat
 title: Cathartic Mage Dedication, Feat 2
 collapse: closed
-# Cathartic Mage Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: Cha 14 or ability to cast spells from spell slots
@@ -200,21 +199,24 @@ If you can already cast spells from spell slots, you learn one additional cantri
 You gain the Catharsis reaction and the Settle Emotions activity.
 
 ```ad-embed-ability
-title: Catharsis [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
+title: **Catharsis** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([concentrate](rules/traits/concentrate.md), [emotion](rules/traits/emotion.md), [mental](rules/traits/mental.md))
 
 - **Trigger**: determined by your catharsis emotion
 
 **Effect** You gain the catharsis activation effects listed for your catharsis emotion. You gain that emotion's emotional fervor benefits for 3 rounds. When your emotional fervor ends, you suffer the listed emotional fallout. After using Catharsis, you can't use it again until you use the Settle Emotions activity.  
-%% #trait/concentrate #trait/emotion #trait/mental %%
+%%
+ #trait/concentrate  #trait/emotion  #trait/mental 
+%%
 ```
 
 ```ad-embed-ability
-title: Settle Emotions
-[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
+title: **Settle Emotions**  ([concentrate](rules/traits/concentrate.md), [emotion](rules/traits/emotion.md), [mental](rules/traits/mental.md))
+
 
 You spend 10 minutes using techniques you've developed to calm your emotions and bring them back under control. This allows you to access your Catharsis again.  
-%% #trait/concentrate #trait/emotion #trait/mental %%
+%%
+ #trait/concentrate  #trait/emotion  #trait/mental 
+%%
 ```
 
 **Special.** You can't select another dedication feat until you've gained two other feats from the cathartic mage archetype.
@@ -226,7 +228,6 @@ You spend 10 minutes using techniques you've developed to calm your emotions and
 ```ad-embed-feat
 title: Basic Cathartic Spellcasting, Feat 4
 collapse: closed
-# Basic Cathartic Spellcasting  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Cathartic Mage Dedication](compendium/feats/cathartic-mage-dedication-som.md)
@@ -240,7 +241,6 @@ You gain the basic spellcasting benefits. Each time you gain a spell slot of a n
 ```ad-embed-feat
 title: Cathartic Focus Spell, Feat 4
 collapse: closed
-# Cathartic Focus Spell  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Cathartic Mage Dedication](compendium/feats/cathartic-mage-dedication-som.md)
@@ -256,7 +256,6 @@ You can cast it only while in emotional fervor. If you don't already have one, y
 ```ad-embed-feat
 title: Work Yourself Up, Feat 8
 collapse: closed
-# Work Yourself Up  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
 
 - **Prerequisites**: [Cathartic Mage Dedication](compendium/feats/cathartic-mage-dedication-som.md)
@@ -274,7 +273,6 @@ At the end of your emotional fervor, you experience the effects of your emotiona
 ```ad-embed-feat
 title: Expert Cathartic Spellcasting, Feat 12*
 collapse: closed
-# Expert Cathartic Spellcasting  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Expert Cathartic Spellcasting](compendium/feats/expert-cathartic-spellcasting-som.md) is intended for use with the Cathartic Mage Archetype. Its level has been changed accordingly.
@@ -290,7 +288,6 @@ You gain the expert spellcasting benefits.
 ```ad-embed-feat
 title: Infectious Emotions, Feat 12*
 collapse: closed
-# Infectious Emotions  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Infectious Emotions](compendium/feats/infectious-emotions-som.md) is intended for use with the Cathartic Mage Archetype. Its level has been changed accordingly.
@@ -306,7 +303,6 @@ When you use Catharsis, one ally within 30 feet gains the catharsis activation b
 ```ad-embed-feat
 title: Master Cathartic Spellcasting, Feat 18*
 collapse: closed
-# Master Cathartic Spellcasting  *Feat 18*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Master Cathartic Spellcasting](compendium/feats/master-cathartic-spellcasting-som.md) is intended for use with the Cathartic Mage Archetype. Its level has been changed accordingly.

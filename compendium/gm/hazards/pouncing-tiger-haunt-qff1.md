@@ -16,14 +16,13 @@ A cave painting of a great cat roars to life and leaps off the wall to attack.
 
 - **Disable** DC 18 [Nature](compendium/skills.md#Nature) (trained) or [Religion](compendium/skills.md#Religion) (trained) to quell the spirit  
 
-- **AC** 18 , **Fort** +11, **Ref** +5
+- **AC** 18, **Fort** +11, **Ref** +5
 - **Hardness** 8, **HP** 30 (BT 15)
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
 - **Weaknesses** acid 5
-     
+
 ```ad-embed-ability
-title: Tiger Slash [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Tiger Slash** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A living creature approaches within 5 feet of the cave painting
 

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/som
-- item/category/apex
+- item/category/apex/
 - trait/apex
 - trait/evocation
 - trait/invested
@@ -14,17 +14,16 @@ aliases: ["Titan's Grasp"]
 [apex](rules/traits/apex.md "Apex Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 24000 gp
-- **Usage** worn gloves; **Bulk** L
-- **Category** Apex
+- **Bulk** L; **Usage** worn gloves
 
 These bronze gauntlets each have a small red gem embedded in the wrist. You gain a +3 item bonus to [Athletics](compendium/skills.md#Athletics) checks and a +1 circumstance bonus to [Athletics](compendium/skills.md#Athletics) checks to [Grapple](rules/actions/grapple.md). If you successfully [Grapple](rules/actions/grapple.md) an enemy that's at least one size category larger than you, the gauntlets dig into it, dealing bludgeoning damage equal to your Strength modifier, plus an additional `2d6` on a critical success.
 
 When you invest the gloves, you either increase your Strength score by 2 or increase it to 18, whichever would give you a higher score.
 
 ```ad-embed-ability
-title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  
+title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") [Interact](rules/actions/interact.md) ([sonic](rules/traits/sonic.md))
 
+- **Frequency**: once per day
 - **Requirements**: You have two hands free
 
 **Effect** You clap the gauntlets together with a thunderous crack that deals `6d10` sonic damage in a 30-foot emanation. Each creature in the area must attempt a DC 35 Fortitude save.
@@ -34,7 +33,11 @@ title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "S
 > - **Success** The creature takes half damage.
 > - **Failure** The creature takes full damage and is [deafened](rules/conditions.md#Deafened) for 1 round.
 > - **Critical Failure** The creature takes double damage, is [deafened](rules/conditions.md#Deafened) for 1 minute, and is [stunned](rules/conditions.md#Stunned).  
-%% #trait/sonic %%
+%%
+ #trait/sonic 
+%%
 ```
 
+
+---
 *Source: Secrets of Magic p. 191*

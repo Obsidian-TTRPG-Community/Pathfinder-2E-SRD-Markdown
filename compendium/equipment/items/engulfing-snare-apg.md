@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/apg
-- item/category/snare
+- item/category/snare/
 - trait/consumable
 - trait/mechanical
 - trait/snare
@@ -14,7 +14,6 @@ aliases: ["Engulfing Snare"]
 [consumable](rules/traits/consumable.md "Consumable Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [snare](rules/traits/snare.md "Snare Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Price** 900 gp
-- **Category** Snare
 
 You arrange a spiky cage of bones, particularly tough vegetation, or other material to spring up when disturbed.
 
@@ -26,4 +25,6 @@ The snare deals `9d8` piercing damage to the first creature to enter this square
 > - **Failure** The creature is captured by the cage, taking full damage and falling [prone](rules/conditions.md#Prone). It is [immobilized](rules/conditions.md#Immobilized) while it remains within the cage. It can get free by Escaping (DC 31) or by destroying the cage (Hardness 5, HP 30, object immunities).
 > - **Critical Failure** As failure, but the creature takes double damage.
 
+
+---
 *Source: Advanced Player's Guide p. 256*

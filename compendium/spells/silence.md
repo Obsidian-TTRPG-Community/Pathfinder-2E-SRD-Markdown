@@ -10,11 +10,11 @@ aliases: ["Silence"]
 # Silence *Spell 2*   
 [illusion](rules/traits/illusion.md "Illusion School Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Targets**1 willing creature
-- **Duration**1 minute
+- **Range**: touch
+- **Targets**: 1 willing creature
+- **Duration**: 1 minute
 
 The target makes no sound, preventing creatures from noticing it using hearing alone. The target can't use sonic attacks, nor can it use actions with the [auditory](rules/traits/auditory.md "Auditory Effect Trait") trait. This prevents it from casting spells that include verbal components.
 

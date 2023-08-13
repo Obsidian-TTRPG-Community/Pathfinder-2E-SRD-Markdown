@@ -22,7 +22,6 @@ Just as Golarion's merchants scour busy marketplaces for newfound goods, scholar
 ```ad-embed-feat
 title: Spell Trickster Dedication, Feat 2
 collapse: closed
-# Spell Trickster Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: Able to cast spells; trained in [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), or [Religion](compendium/skills.md#Religion)
@@ -40,7 +39,6 @@ Choose up to two 4th-level spell trickster archetype feats for which you meet th
 ```ad-embed-feat
 title: Agile Hand, Feat 4
 collapse: closed
-# Agile Hand  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [mage hand](compendium/spells/mage-hand.md)
@@ -54,7 +52,6 @@ When you cast [mage hand](compendium/spells/mage-hand.md), you can modify its ta
 ```ad-embed-feat
 title: Barrier Shield, Feat 4
 collapse: closed
-# Barrier Shield  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [shield](compendium/spells/shield.md)
@@ -70,7 +67,6 @@ You can't use the [Shield Block](compendium/feats/shield-block.md) reaction when
 ```ad-embed-feat
 title: Forceful Push, Feat 4
 collapse: closed
-# Forceful Push  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [attack](rules/traits/attack.md "Attack Combat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [mage hand](compendium/spells/mage-hand.md)
@@ -84,7 +80,6 @@ When you cast [mage hand](compendium/spells/mage-hand.md), you can modify its ta
 ```ad-embed-feat
 title: Shining Arms, Feat 4
 collapse: closed
-# Shining Arms  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [light](compendium/spells/light.md)
@@ -98,7 +93,6 @@ When you cast [light](compendium/spells/light.md), you can modify its target to 
 ```ad-embed-feat
 title: Summon Ensemble, Feat 4
 collapse: closed
-# Summon Ensemble  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [summon instrument](compendium/spells/summon-instrument-apg.md)
@@ -114,7 +108,6 @@ The target must attempt a Will save against the spell's DC; on a failure, it bec
 ```ad-embed-feat
 title: Tracing Sigil, Feat 4
 collapse: closed
-# Tracing Sigil  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [sigil](compendium/spells/sigil.md)
@@ -128,7 +121,6 @@ When you cast [sigil](compendium/spells/sigil.md), you can modify the spell to a
 ```ad-embed-feat
 title: Wild Lights, Feat 4
 collapse: closed
-# Wild Lights  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [dancing lights](compendium/spells/dancing-lights.md)
@@ -142,7 +134,6 @@ When you cast [dancing lights](compendium/spells/dancing-lights.md), you can mod
 ```ad-embed-feat
 title: Animate Net, Feat 6
 collapse: closed
-# Animate Net  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [animate rope](compendium/spells/animate-rope-apg.md) APG
@@ -156,7 +147,6 @@ When you cast [animate rope](compendium/spells/animate-rope-apg.md), you can mod
 ```ad-embed-feat
 title: Confounding Image, Feat 6
 collapse: closed
-# Confounding Image  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [mirror image](compendium/spells/mirror-image.md)
@@ -170,7 +160,6 @@ When you cast [mirror image](compendium/spells/mirror-image.md), you can modify 
 ```ad-embed-feat
 title: Disk Rider, Feat 6
 collapse: closed
-# Disk Rider  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [floating disk](compendium/spells/floating-disk.md)
@@ -186,7 +175,6 @@ When you cast [floating disk](compendium/spells/floating-disk.md), you can modif
 ```ad-embed-feat
 title: Drenching Mist, Feat 6
 collapse: closed
-# Drenching Mist  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [obscuring mist](compendium/spells/obscuring-mist.md)
@@ -202,7 +190,6 @@ When you cast [obscuring mist](compendium/spells/obscuring-mist.md), you can mod
 ```ad-embed-feat
 title: Obscured Terrain, Feat 6
 collapse: closed
-# Obscured Terrain  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [obscuring mist](compendium/spells/obscuring-mist.md)
@@ -216,7 +203,6 @@ When you cast [obscuring mist](compendium/spells/obscuring-mist.md), you can mod
 ```ad-embed-feat
 title: Uneasy Rest, Feat 6
 collapse: closed
-# Uneasy Rest  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [sleep](compendium/spells/sleep.md)
@@ -230,7 +216,6 @@ When you cast [sleep](compendium/spells/sleep.md), you can modify the spell to a
 ```ad-embed-feat
 title: Volatile Grease, Feat 6
 collapse: closed
-# Volatile Grease  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [grease](compendium/spells/grease.md)
@@ -251,7 +236,6 @@ When you cast [grease](compendium/spells/grease.md), you can modify its target t
 ```ad-embed-feat
 title: Beacon Mark, Feat 8
 collapse: closed
-# Beacon Mark  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Tracing Sigil](compendium/feats/tracing-sigil-lotgb.md)
@@ -269,7 +253,6 @@ While the spell lasts, you can spend a single action, which has the concentrate,
 ```ad-embed-feat
 title: Larcenous Hand, Feat 8
 collapse: closed
-# Larcenous Hand  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Agile Hand](compendium/feats/agile-hand-lotgb.md), [Pickpocket](compendium/feats/pickpocket.md) skill feat
@@ -287,7 +270,6 @@ If you're a master in [Thievery](compendium/skills.md#Thievery), you can attempt
 ```ad-embed-feat
 title: Lingering Flames, Feat 8
 collapse: closed
-# Lingering Flames  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [fireball](compendium/spells/fireball.md)
@@ -303,7 +285,6 @@ When you cast [fireball](compendium/spells/fireball.md), you can modify its effe
 ```ad-embed-feat
 title: Scattered Fire, Feat 8
 collapse: closed
-# Scattered Fire  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [fireball](compendium/spells/fireball.md)
@@ -317,7 +298,6 @@ When you cast [fireball](compendium/spells/fireball.md), you can modify its area
 ```ad-embed-feat
 title: Siphoning Touch, Feat 8
 collapse: closed
-# Siphoning Touch  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [vampiric touch](compendium/spells/vampiric-touch.md)
@@ -331,7 +311,6 @@ When you cast [vampiric touch](compendium/spells/vampiric-touch.md), you can mod
 ```ad-embed-feat
 title: Smoldering Explosion, Feat 8
 collapse: closed
-# Smoldering Explosion  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [fireball](compendium/spells/fireball.md)
@@ -345,7 +324,6 @@ When you cast [fireball](compendium/spells/fireball.md) heightened to at least 4
 ```ad-embed-feat
 title: Steal Vitality, Feat 8
 collapse: closed
-# Steal Vitality  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [vampiric touch](compendium/spells/vampiric-touch.md)
@@ -359,7 +337,6 @@ When you cast [vampiric touch](compendium/spells/vampiric-touch.md), you can mod
 ```ad-embed-feat
 title: Surrounding Flames, Feat 10
 collapse: closed
-# Surrounding Flames  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [wall of fire](compendium/spells/wall-of-fire.md)
@@ -373,7 +350,6 @@ When you cast [wall of fire](compendium/spells/wall-of-fire.md), you can modify 
 ```ad-embed-feat
 title: Toppling Tentacles, Feat 10
 collapse: closed
-# Toppling Tentacles  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [black tentacles](compendium/spells/black-tentacles.md)
@@ -387,7 +363,6 @@ When you cast [black tentacles](compendium/spells/black-tentacles.md), replace t
 ```ad-embed-feat
 title: Choking Smoke, Feat 12*
 collapse: closed
-# Choking Smoke  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Choking Smoke](compendium/feats/choking-smoke-lotgb.md) is intended for use with the Spell Trickster Archetype. Its level has been changed accordingly.
@@ -403,7 +378,6 @@ When you cast [fireball](compendium/spells/fireball.md) heightened to at least 6
 ```ad-embed-feat
 title: Directed Poison, Feat 12*
 collapse: closed
-# Directed Poison  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Directed Poison](compendium/feats/directed-poison-lotgb.md) is intended for use with the Spell Trickster Archetype. Its level has been changed accordingly.

@@ -18,9 +18,9 @@ aliases: ["Quaking Slither"]
 Ebeshra slithers across the ground, causing the earth to tremble as though from a powerful earthquake.
 
 - **Disable** three DC 38 [Athletics](compendium/skills.md#Athletics) (trained), [Crafting](compendium/skills.md#Crafting) (trained), or [Engineering Lore](compendium/skills.md#Lore) (trained) checks to brace a small structure or surface to cancel the effects of the quake in that area, or a single DC 41 [Diplomacy](compendium/skills.md#Diplomacy) (master) check to entreat Ebeshra to stand down  
-     
+
 ```ad-embed-ability
-title: Quake [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Quake** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: Ebeshra moves at least 60 feet on land
 

@@ -15,6 +15,4 @@ Even in a city renowned for its alchemy, you were able to rise above the competi
 
 Choose two ability boosts. One must be to Dexterity or Intelligence, and one is a free ability boost.
 
-You're trained in the [Crafting](compendium/skills.md#Crafting) skill and the [Alchemical Lore](compendium/skills.md#Lore) skill.
-
-You gain the [Specialty Crafting](compendium/feats/specialty-crafting.md) skill feat with alchemy.
+You're trained in the [Crafting](compendium/skills.md#Crafting) skill and the [Alchemical Lore](compendium/skills.md#Lore) skill. You gain the [Specialty Crafting](compendium/feats/specialty-crafting.md) skill feat with alchemy.

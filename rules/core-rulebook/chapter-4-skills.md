@@ -53,11 +53,11 @@ The GM sets the DC of a skill check, using the guidelines in Chapter 10: Game Ma
 
 | Task Difficulty | Simple DC |
 |-----------------|-----------|
-| Untrained       | 10        |
-| Trained         | 15        |
-| Expert          | 20        |
-| Master          | 30        |
-| Legendary       | 40        |
+| Untrained | 10 |
+| Trained | 15 |
+| Expert | 20 |
+| Master | 30 |
+| Legendary | 40 |
 
 When someone or something tests your skill, they attempt a check against your skill DC, which is equal to 10 plus your skill modifier. A skill DC works like any other DC to determine the effect of an opposing creature's skill action.
 
@@ -147,7 +147,7 @@ In some cases, the GM might let you use a different skill to Earn Income through
 
 ![Income Earned](rules/tables/income-earned.md)
 
-#### Crafting Goods for the Market ([Crafting](compendium/skills.md#Crafting))
+#### Crafting Goods for the Market (Crafting)
 <sup>CRB p. 237</sup>
 
 Using [Crafting](compendium/skills.md#Crafting), you can work at producing common items for the market. It's usually easy to find work making basic items whose level is 1 or 2 below your settlement's level (see Earn Income on page 504). Higher-level tasks represent special commissions, which might require you to Craft a specific item using the Craft downtime activity and sell it to a buyer at full price. These opportunities don't occur as often and might have special requirements—or serious consequences if you disappoint a prominent client.
@@ -187,7 +187,7 @@ You apply the practical benefits of one of your Lore specialties during downtime
 > 
 > With 23 days of downtime left, Lem accepts a 14thlevel task performing at a prestigious bardic college for members of a royal court. The GM secretly sets the DC at 32, and Lem critically succeeds, earning 28 gp per day for a total of 644 gp. Between the two performances, Lem has earned just over 2,000 gold pieces during his downtime—though he's not sure he'll ever sell that rose.
 
-#### Staging a Performance ([Performance](compendium/skills.md#Performance))
+#### Staging a Performance (Performance)
 <sup>CRB p. 238</sup>
 
 You perform for an audience to make money. The available audiences determine the level of your task, since more discerning audiences are harder to impress but provide a bigger payout. The GM determines the task level based on the audiences available. Performing for a typical audience of commoners on the street is a level 0 task, but a performance for a group of artisans with more refined tastes might be a 2nd- or 3rd-level task, and ones for merchants, nobility, and royalty are increasingly higher level. Your degree of success determines whether you moved your audience and whether you were rewarded with applause or rotten fruit.

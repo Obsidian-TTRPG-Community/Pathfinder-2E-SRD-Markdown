@@ -16,10 +16,10 @@ aliases: ["Heart's Desire"]
 
 - **Bloodline** Sorcerer
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**60 foot
-- **Targets**1 creature
-- **Saving Throw** Will
-- **Duration**varies
+- **Range**: 60 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Will
+- **Duration**: varies
 
 You surround your target with wondrous illusions of their greatest desires, which distract them from reality. The target must attempt a Will save.
 

@@ -13,10 +13,12 @@ aliases: ["Light Hammer"]
 
 - **Price** 3 sp
 - **Bulk** L
-- **Damage** `1d6` B
+  - **Damage**: `1d6` B
 - **Hands** 1
 - **Category** Martial; **Group** Hammer 
 
 This smaller version of the warhammer has a wooden or metal shaft ending in a metal head. Unlike its heavier cousin, it is light enough to throw.
 
+
+---
 *Source: Core Rulebook p. 280*

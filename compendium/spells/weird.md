@@ -14,11 +14,11 @@ aliases: ["Weird"]
 # Weird *Spell 9*   
 [death](rules/traits/death.md "Death Effect Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**120 foot
-- **Targets**any number of creatures
-- **Saving Throw** Will
+- **Range**: 120 foot
+- **Targets**: any number of creatures
+- **Saving Throw**: Will
 
 You fill the targets' minds with terrifying images of fearsome creatures, each drawn from the targets' worst fears. Only the targets can see their assailants. Each target takes `16d6` mental damage and must attempt a Will save.
 

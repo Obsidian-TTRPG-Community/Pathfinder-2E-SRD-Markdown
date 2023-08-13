@@ -20,7 +20,6 @@ As you train to use your dynamo in all sorts of adventures, you may become capab
 ```ad-embed-feat
 title: Sterling Dynamo Dedication, Feat 2
 collapse: closed
-# Sterling Dynamo Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 
@@ -49,7 +48,6 @@ However, enemies can attempt to Disable the dynamo, which has a level equal to y
 ```ad-embed-feat
 title: Modular Dynamo, Feat 4
 collapse: closed
-# Modular Dynamo  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Sterling Dynamo Dedication](compendium/feats/sterling-dynamo-dedication-g-g.md)
@@ -67,7 +65,6 @@ When you use an [Interact](rules/actions/interact.md) action to switch configura
 ```ad-embed-feat
 title: Piston Punch, Feat 6
 collapse: closed
-# Piston Punch  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Sterling Dynamo Dedication](compendium/feats/sterling-dynamo-dedication-g-g.md)
@@ -84,7 +81,6 @@ Make a single bludgeoning or piercing dynamo [Strike](rules/actions/strike.md) a
 ```ad-embed-feat
 title: Stasian Smash, Feat 8
 collapse: closed
-# Stasian Smash  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: You are from Ustalav.
@@ -104,7 +100,6 @@ At 18th level, the additional electricity damage to the target increases to `2d1
 ```ad-embed-feat
 title: Beast Dynamo Howl, Feat 10
 collapse: closed
-# Beast Dynamo Howl  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: You are from Arcadia.
@@ -119,7 +114,6 @@ You've incorporated beast tech from Arcadia into your dynamo, adding in componen
 ```ad-embed-feat
 title: Golem Dynamo, Feat 12*
 collapse: closed
-# Golem Dynamo  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 > [!pf2-note] This version of [Golem Dynamo](compendium/feats/golem-dynamo-g-g.md) is intended for use with the Sterling Dynamo Archetype. Its level has been changed accordingly.
@@ -136,7 +130,6 @@ You've learned the secrets of Jistkan golem prostheses, allowing you to incorpor
 ```ad-embed-feat
 title: Soaring Dynamo, Feat 18*
 collapse: closed
-# Soaring Dynamo  *Feat 18*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Soaring Dynamo](compendium/feats/soaring-dynamo-g-g.md) is intended for use with the Sterling Dynamo Archetype. Its level has been changed accordingly.

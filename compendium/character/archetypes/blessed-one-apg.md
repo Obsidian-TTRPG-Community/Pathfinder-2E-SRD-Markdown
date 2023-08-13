@@ -14,7 +14,6 @@ Through luck or deed, heritage or heroics, you carry the blessing of a deity. Th
 ```ad-embed-feat
 title: Blessed One Dedication, Feat 2
 collapse: closed
-# Blessed One Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 
@@ -31,7 +30,6 @@ This feat grants a focus pool of 1 Focus Point that you can recover using the [R
 ```ad-embed-feat
 title: Blessed Sacrifice, Feat 4
 collapse: closed
-# Blessed Sacrifice  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Blessed One Dedication](compendium/feats/blessed-one-dedication-apg.md)
@@ -45,7 +43,6 @@ You gain the [protector's sacrifice](compendium/spells/protectors-sacrifice.md) 
 ```ad-embed-feat
 title: Accelerating Touch, Feat 6*
 collapse: closed
-# Accelerating Touch  *Feat 6*  
 [champion](rules/traits/champion.md "Champion Class Trait")  
 
 > [!pf2-note] This version of [Accelerating Touch](compendium/feats/accelerating-touch-apg.md) is intended for use with the Blessed One Archetype. Its level has been changed accordingly.
@@ -61,7 +58,6 @@ Your healing energies are infused with bounding energy. A creature that recovers
 ```ad-embed-feat
 title: Mercy, Feat 6*
 collapse: closed
-# Mercy  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
 [champion](rules/traits/champion.md "Champion Class Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 > [!pf2-note] This version of [Mercy](compendium/feats/mercy.md) is intended for use with the Blessed One Archetype. Its level has been changed accordingly.
@@ -78,7 +74,6 @@ Your touch relieves fear and restores movement. If the next action you use is to
 ```ad-embed-feat
 title: Blessed Spell, Feat 8
 collapse: closed
-# Blessed Spell  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
 
 - **Prerequisites**: [Blessed One Dedication](compendium/feats/blessed-one-dedication-apg.md), ability to cast spells from spell slots, [Mercy](compendium/feats/mercy.md)
@@ -94,7 +89,6 @@ When you focus your magic on an ally, you can remove harmful conditions. If your
 ```ad-embed-feat
 title: Invigorating Mercy, Feat 8*
 collapse: closed
-# Invigorating Mercy  *Feat 8*  
 [champion](rules/traits/champion.md "Champion Class Trait")  
 
 > [!pf2-note] This version of [Invigorating Mercy](compendium/feats/invigorating-mercy-apg.md) is intended for use with the Blessed One Archetype. Its level has been changed accordingly.
@@ -110,7 +104,6 @@ Your divine touch rejuvenates the weak and tired. When you use Mercy, you can in
 ```ad-embed-feat
 title: Greater Mercy, Feat 10*
 collapse: closed
-# Greater Mercy  *Feat 10*  
 [champion](rules/traits/champion.md "Champion Class Trait")  
 
 > [!pf2-note] This version of [Greater Mercy](compendium/feats/greater-mercy.md) is intended for use with the Blessed One Archetype. Its level has been changed accordingly.
@@ -126,7 +119,6 @@ Your faith enhances your ability to remove conditions. When you use [Mercy](comp
 ```ad-embed-feat
 title: Blessed Denial, Feat 12*
 collapse: closed
-# Blessed Denial  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Blessed Denial](compendium/feats/blessed-denial-apg.md) is intended for use with the Blessed One Archetype. Its level has been changed accordingly.
@@ -144,7 +136,6 @@ You exude peace and protection, lessening a harmful condition as it falls upon a
 ```ad-embed-feat
 title: Elucidating Mercy, Feat 12*
 collapse: closed
-# Elucidating Mercy  *Feat 12*  
 [champion](rules/traits/champion.md "Champion Class Trait")  
 
 > [!pf2-note] This version of [Elucidating Mercy](compendium/feats/elucidating-mercy-apg.md) is intended for use with the Blessed One Archetype. Its level has been changed accordingly.
@@ -160,7 +151,6 @@ Your mercy grants clarity to those around you just when they need it most. When 
 ```ad-embed-feat
 title: Resilient Touch, Feat 12*
 collapse: closed
-# Resilient Touch  *Feat 12*  
 [champion](rules/traits/champion.md "Champion Class Trait")  
 
 > [!pf2-note] This version of [Resilient Touch](compendium/feats/resilient-touch-apg.md) is intended for use with the Blessed One Archetype. Its level has been changed accordingly.
@@ -178,7 +168,6 @@ An ally that recovers Hit Points from your lay on hands gains a +1 status bonus 
 ```ad-embed-feat
 title: Affliction Mercy, Feat 14*
 collapse: closed
-# Affliction Mercy  *Feat 14*  
 [champion](rules/traits/champion.md "Champion Class Trait")  
 
 > [!pf2-note] This version of [Affliction Mercy](compendium/feats/affliction-mercy.md) is intended for use with the Blessed One Archetype. Its level has been changed accordingly.
@@ -194,7 +183,6 @@ The divine grace that flows through you grants reprieve from an affliction. When
 ```ad-embed-feat
 title: Amplifying Touch, Feat 14*
 collapse: closed
-# Amplifying Touch  *Feat 14*  
 [champion](rules/traits/champion.md "Champion Class Trait")  
 
 > [!pf2-note] This version of [Amplifying Touch](compendium/feats/amplifying-touch-apg.md) is intended for use with the Blessed One Archetype. Its level has been changed accordingly.
@@ -210,7 +198,6 @@ Your healing energies empower attacks. An ally that recovers Hit Points from you
 ```ad-embed-feat
 title: Rejuvenating Touch, Feat 20*
 collapse: closed
-# Rejuvenating Touch  *Feat 20*  
 [champion](rules/traits/champion.md "Champion Class Trait")  
 
 > [!pf2-note] This version of [Rejuvenating Touch](compendium/feats/rejuvenating-touch-apg.md) is intended for use with the Blessed One Archetype. Its level has been changed accordingly.

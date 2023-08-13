@@ -11,12 +11,12 @@ aliases: ["Anathematic Reprisal"]
 # Anathematic Reprisal *Spell 4*   
 [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait")
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
-- **Trigger**A creature performs an act anathema to your deity.
-- **Range**30 foot
-- **Targets**the triggering creature
-- **Saving Throw** Will
+- **Trigger**: A creature performs an act anathema to your deity.
+- **Range**: 30 foot
+- **Targets**: the triggering creature
+- **Saving Throw**: Will
 
 You punish a creature that transgresses against your deity, drawing upon the anguish you feel upon seeing one of your deity's anathema committed.
 

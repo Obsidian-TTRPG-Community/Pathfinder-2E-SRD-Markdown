@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/crb
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/ingested
@@ -14,9 +14,8 @@ aliases: ["Lich Dust"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [ingested](rules/traits/ingested.md "Ingested Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Price** 110 gp
-- **Usage** held in 1 hand; **Bulk** L
+- **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 Dust salvaged from the remains of a destroyed lich has paralytic properties that make it a valuable poison.
 
@@ -35,4 +34,6 @@ title: Saving Throw: DC 28 Fortitude
 **Stage 3** `5d6` poison damage, [fatigued](rules/conditions.md#Fatigued), and [paralyzed](rules/conditions.md#Paralyzed) (1 minute)
 ```
 
+
+---
 *Source: Core Rulebook p. 552*

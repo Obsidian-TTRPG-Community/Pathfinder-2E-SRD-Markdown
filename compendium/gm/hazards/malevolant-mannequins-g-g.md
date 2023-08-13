@@ -20,14 +20,13 @@ A host of violent spirits possess three clockwork mannequins, and each lashes ou
 
 - **Disable** DC 37 [Thievery](compendium/skills.md#Thievery) (master) to jam a mannequin's clockwork mechanisms or [Religion](compendium/skills.md#Religion) DC 35 (expert) twice to exorcise a spirit from a mannequin.  
 
-- **AC** 35 , **Fort** +26, **Ref** +28
+- **AC** 35, **Fort** +26, **Ref** +28
 - **Hardness** 10, **HP** 70 (BT 35) per mannequin
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
 - **Weaknesses** electricity 20
-     
+
 ```ad-embed-ability
-title: Awaken [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Awaken** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature comes within 30 feet of a mannequin
 
@@ -36,12 +35,11 @@ title: Awaken [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Rea
 
 ````ad-pf2-summary
 title: Routine
-(9 actions) Each of the mannequins uses three of the haunt's actions on each turn, and the haunt loses three actions each turn for every disabled or destroyed mannequin. Each mannequin uses its first action to [Stride](rules/actions/stride.md) up to 50 feet and its remaining two actions to make clockwork fist [Strikes](rules/actions/strike.md). Each has its own separate multiple attack penalty.
 
+(9 actions) Each of the mannequins uses three of the haunt's actions on each turn, and the haunt loses three actions each turn for every disabled or destroyed mannequin. Each mannequin uses its first action to [Stride](rules/actions/stride.md) up to 50 feet and its remaining two actions to make clockwork fist [Strikes](rules/actions/strike.md). Each has its own separate multiple attack penalty.
 ```ad-inline-attack
 title: Melee [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Clockwork First (29)
 **Damage** `2d10+18` bludgeoning 
- 
 **Effects**
 ```
 ````

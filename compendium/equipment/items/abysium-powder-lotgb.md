@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/lotgb
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/contact
@@ -15,9 +15,9 @@ aliases: ["Abysium Powder"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [contact](rules/traits/contact.md "Contact Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 150 gp
-- **Usage** held in 2 hands; **Bulk** L
+- **Craft Requirements** abysium worth at least 75 gp.
+- **Bulk** L; **Usage** held in 2 hands
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 This faintly glowing powder rapidly induces the symptoms of abysium poisoning.
 
@@ -36,4 +36,6 @@ title: Saving Throw: DC 27 Fortitude
 **Stage 3** `10d6` poison damage and [sickened](rules/conditions.md#Sickened) (1 minute)
 ```
 
+
+---
 *Source: Lost Omens: The Grand Bazaar p. 96*

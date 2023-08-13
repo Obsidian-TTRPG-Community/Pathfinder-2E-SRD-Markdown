@@ -16,10 +16,10 @@ aliases: ["Curse Of Death"]
 [curse](rules/traits/curse.md "Curse Effect Trait")  [death](rules/traits/death.md "Death Effect Trait")  [hex](rules/traits/hex-apg.md "Hex Combat Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [witch](rules/traits/witch-apg.md "Witch Class Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 creature
-- **Saving Throw** Fortitude
-- **Duration**sustained up to 1 minute
+- **Range**: 30 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Fortitude
+- **Duration**: sustained up to 1 minute
 
 You focus your malevolent gaze on a target, causing their heart to seize in dread. The target must attempt a Fortitude saving throw. Regardless of the result, the target is temporarily immune to further castings of curse of death for 1 day.
 

@@ -15,14 +15,16 @@ aliases: ["Crescent Cross"]
 
 - **Price** 8 gp
 - **Bulk** L
-- **Ranged**  
-  - **Damage** `1d6` P
+- **Ranged**:  
+  - **Damage**: `1d6` P
   - **Ammunution** rounds; **Range** 30 ft.; **Reload** 1
-- **Melee**  
-  - **Damage** `1d4` S
+- **Melee**:  
+  - **Damage**: `1d4` S
 - **Hands** 1
 - **Category** Martial
 
 A crescent cross combines a small scizore with an arm-mounted crossbow apparatus that can hold up to three bolts at a time.
 
+
+---
 *Source: Treasure Vault p. 31*

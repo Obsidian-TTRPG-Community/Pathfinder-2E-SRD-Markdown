@@ -17,14 +17,11 @@ A web tripwire lets loose a bundle of boulders that fall on all targets within a
 
 - **Disable** [Survival](compendium/skills.md#Survival) (trained) or [Thievery](compendium/skills.md#Thievery) (expert) DC 20 to rearrange the webbing  
 
-- **AC** 19 , **Fort** +9, **Ref** +9
+- **AC** 19, **Fort** +9, **Ref** +9
 - 
-- **Immunities** 
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Deadfall [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Deadfall** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature steps into the square with the web tripwire.
 

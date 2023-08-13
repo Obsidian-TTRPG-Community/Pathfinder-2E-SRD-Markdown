@@ -13,10 +13,12 @@ aliases: ["Spiked Gauntlet"]
 
 - **Price** 3 sp
 - **Bulk** L
-- **Damage** `1d4` P
+  - **Damage**: `1d4` P
 - **Hands** 1
 - **Category** Simple; **Group** Brawling 
 
 Providing the same defensive function as a standard gauntlet, this version has a group of spikes protruding from the knuckles to deliver piercing damage with a punch.
 
+
+---
 *Source: Core Rulebook p. 280*

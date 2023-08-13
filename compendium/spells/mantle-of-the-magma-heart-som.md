@@ -12,9 +12,10 @@ aliases: ["Mantle Of The Magma Heart"]
 # Mantle Of The Magma Heart *Spell 5*   
 [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [morph](rules/traits/morph.md "Morph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Duration**1 minute
+- 
+- **Duration**: 1 minute
 
 You surround yourself in a mantle of blazing fire magic, and your skin and anything you're wearing morphs into burning hot lava. The air around you swelters with heat, and tiny sparks of flame dance behind you as you pass.
 

@@ -20,10 +20,12 @@ aliases: ["Wind and Fire Wheel"]
 - **Access** If the player character come from a region in Tian Xia, this weapon is common
 - **Price** 2 gp
 - **Bulk** L
-- **Damage** `1d6` S
+  - **Damage**: `1d6` S
 - **Hands** 1
 - **Category** Advanced; **Group** Knife 
 
 This large, flat steel ring features several protruding blades typically stylized to resemble flames.
 
+
+---
 *Source: Fists of the Ruby Phoenix #2: Ready? Fight! p. 76*

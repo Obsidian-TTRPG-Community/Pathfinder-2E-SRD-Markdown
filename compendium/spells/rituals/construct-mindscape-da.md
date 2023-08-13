@@ -16,6 +16,7 @@ aliases: ["Construct Mindscape"]
 - **Secondary Casters** 4
 - **Primary Checks** [Arcana](compendium/skills.md#Arcana) or [Occultism](compendium/skills.md#Occultism) (master)
 - **Secondary Checks** [Arcana](compendium/skills.md#Arcana) or [Occultism](compendium/skills.md#Occultism), [Crafting](compendium/skills.md#Crafting)
+- 
 
 You create an entirely mental environment called an immersive mindscape. It can have any appearance you and the secondary casters imagine and hold in your minds as you execute the ritual. A mindscape is typically veiled, disguising its nature as a mental construct, but you can choose to make it overt. Even a veiled mindscape has some signs it's not a real place that can be revealed through close inspection or by spending a long time there. Most mindscapes are incapable of physically harming those inside. Even though the mindscape you create is limited in dimension, it appears to have a convincing environment around it, such as a sky and clouds.
 
@@ -25,10 +26,10 @@ You create an entirely mental environment called an immersive mindscape. It can 
 > - **Failure** You can't hold the image together and it falls apart.
 > - **Critical Failure** Your secret desires horribly warp the mindscape into a distorted mirror of what you intended.
 
+**Heightened (10th)** The duration is unlimited, and the area on a critical success is 1 mile in length and width. The cost increases to 2,000 gp.
+
 **Heightened (6th)** The duration is 1 week.
 
 **Heightened (9th)** The duration is 1 year, and the area on a critical success is 1 mile in length and width.
-
-**Heightened (10th)** The duration is unlimited, and the area on a critical success is 1 mile in length and width. The cost increases to 2,000 gp.
 
 *Source: Dark Archive p. 199*

@@ -17,15 +17,16 @@ aliases: ["Mirror Door"]
 The reflection of a wall shows a phantom door where none exists. This door can only be manipulated while viewed through the mirror's reflection.
 
 - **Disable** DC 18 [Thievery](compendium/skills.md#Thievery) to open the door while viewing the reflection  
-     
+
 ```ad-embed-ability
-title: Appear [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  
+title: **Appear** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([arcane](rules/traits/arcane.md), [illusion](rules/traits/illusion.md))
 
 - **Trigger**: A creature views the wall through a mirror's reflection
 
 **Effect** A door appears in the mirror's reflection of the wall. The triggering creature can open and manipulate this door only as long as they view it through the mirror and only by succeeding at a DC 18 [Thievery](compendium/skills.md#Thievery) check to disable the trap.  
-%% #trait/arcane #trait/illusion %%
+%%
+ #trait/arcane  #trait/illusion 
+%%
 ```
 
 **Reset** automatic  

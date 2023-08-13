@@ -15,7 +15,8 @@ aliases: ["Clinging Shadows Stance"]
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  [shadow](rules/traits/shadow.md "Shadow General Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Duration**until you leave the stance
+- 
+- **Duration**: until you leave the stance
 
 You adopt the stance of clinging shadows. You can make shadow grasp [Strikes](rules/actions/strike.md). These deal `1d4` negative damage; are in the brawling group; and have the agile, grapple, [reach](rules/traits/reach.md "Reach Weapon Trait"), and [unarmed](rules/traits/unarmed.md "Unarmed Weapon Trait") traits.
 

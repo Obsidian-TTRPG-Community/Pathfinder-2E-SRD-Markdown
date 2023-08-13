@@ -12,9 +12,10 @@ aliases: ["One With The Land"]
 # One With The Land *Spell 9*   
 [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Duration**1 minute
+- 
+- **Duration**: 1 minute
 
 You merge with an adjacent natural feature with enough volume to fit you and your worn and held possessions, such as the ground or a large tree. Your merged form is visible within the feature, and creatures can target and attack you normally, though you have cover and can use it to [Hide](rules/actions/hide.md) or [Take Cover](rules/actions/take-cover.md) within the feature. You can cast spells while in the feature as long as they don't require line of effect beyond the feature. You can [Dismiss](rules/actions/dismiss.md) the spell.
 

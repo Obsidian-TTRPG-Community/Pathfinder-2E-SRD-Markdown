@@ -20,7 +20,7 @@ aliases: ["Shizuru", "The Empress of Heaven"]
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: abandon a companion in need, dishonor yourself, parlay with truce breakers, separate lovers
-- **Areas of Concern**: ancestors, , honor, , the sun, , and swordplay
+- **Areas of Concern**: ancestors, honor, the sun, and swordplay
 - **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait")
 
 ## Devotee benefits
@@ -39,8 +39,9 @@ When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Sh
 title: [Avatar](compendium/spells/avatar.md) of Shizuru
 
 - **Speed**: Speed 70 feet, [air walk](compendium/spells/air-walk.md), ignore difficult terrain and greater difficult terrain
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") katana ([deadly <3d8>](rules/traits/deadly-3d8.md "Deadly Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [two-hand <d10>](rules/traits/two-hand-d10.md "Two-Hand Weapon Trait"), [versatile <p>](rules/traits/versatile-p.md "Versatile Weapon Trait")), **Damage** `6d6+6` slashing
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") sunbolt arrow **Damage** `6d6+3` fire
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") katana (, [deadly <3d8>](rules/traits/deadly-3d8.md "Deadly Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [two-hand <d10>](rules/traits/two-hand-d10.md "Two-Hand Weapon Trait"), [versatile <p>](rules/traits/versatile-p.md "Versatile Weapon Trait")), **Damage** `6d6+6` slashing 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") sunbolt arrow (), **Damage** `6d6+3` fire 
 ```
 
 ## Divine intercession

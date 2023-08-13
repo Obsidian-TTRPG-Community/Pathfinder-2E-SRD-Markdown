@@ -18,27 +18,26 @@ aliases: ["Echoes Of Betrayal"]
 Malevolent spirits led by a ghostly image of Ludika rise and begin a deadly brawl. These spirits attempt to overwhelm living creatures, forcing them to join the battle.
 
 - **Disable** [Religion](compendium/skills.md#Religion) DC 35 (master) three times to exorcise the spirits or [Diplomacy](compendium/skills.md#Diplomacy) DC 39 (expert) three times to talk them down.  
-     
+
 ```ad-embed-ability
-title: Confuse [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[emotion](rules/traits/emotion.md "Emotion Effect Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
+title: **Confuse** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([emotion](rules/traits/emotion.md), [fear](rules/traits/fear.md), [illusion](rules/traits/illusion.md), [mental](rules/traits/mental.md), [occult](rules/traits/occult.md))
 
 - **Trigger**: At least three creatures enter area **H10**.
 
 **Effect** The haunt takes control of all creatures in the prison, affecting them with [confusion](compendium/spells/confusion.md) (8th level, DC 37).  
-%% #trait/emotion #trait/fear #trait/illusion #trait/mental #trait/occult %%
+%%
+ #trait/emotion  #trait/fear  #trait/illusion  #trait/mental  #trait/occult 
+%%
 ```
 
 ````ad-pf2-summary
 title: Routine
-(1 action) As 1 action, the haunt causes a barrage of ghostly fists to lash from the walls, floors, and ceiling. The haunt attempts a spectral fist [Strike](rules/actions/strike.md) against each creature in area **H10**.
 
+(1 action) As 1 action, the haunt causes a barrage of ghostly fists to lash from the walls, floors, and ceiling. The haunt attempts a spectral fist [Strike](rules/actions/strike.md) against each creature in area **H10**.
 ```ad-inline-attack
 title: Melee [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Spectral Fist (35) ([magical](rules/traits/magical.md "Magical Item Trait"), [reach <10 feet>](rules/traits/reach-10-feet.md "Reach Weapon Trait"))
 **Damage** `5d10` bludgeoning, and the creature must attempt a new DC 37 Will save against [confusion](compendium/spells/confusion.md) if it's not already [confused](rules/conditions.md#Confused). 
- 
 **Effects** and the creature must attempt a new DC 37 Will save against confusion if it's not already [confused](rules/conditions.md#Confused).
-
 %% #trait/magical #trait/reach-10-feet %%
 ```
 ````

@@ -15,10 +15,10 @@ aliases: ["Litany Against Wrath"]
 [champion](rules/traits/champion.md "Champion Class Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [good](rules/traits/good.md "Good Alignment Trait")  [litany](rules/traits/litany.md "Litany Spell Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**30 foot
-- **Targets**1 evil creature
-- **Saving Throw** Will
-- **Duration**1 round
+- **Range**: 30 foot
+- **Targets**: 1 evil creature
+- **Saving Throw**: Will
+- **Duration**: 1 round
 
 Your litany rails against the sin of wrath, punishing the target for attacking good creatures. The target must attempt a Will save. A particularly wrathful creature, such as a wrath demon, uses the outcome one degree of success worse than the result of its saving throw. The target then becomes temporarily immune to all of your litanies for 1 minute.
 

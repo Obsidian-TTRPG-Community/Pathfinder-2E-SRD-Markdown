@@ -15,9 +15,9 @@ aliases: ["Cannibalistic Echoes"]
 A pack of cannibalistic spirits swarm through the area, devouring living creatures
 
 - **Disable** DC 40 [Intimidation](compendium/skills.md#Intimidation) (master) to drive the spirits off with a ferocious display or DC 42 [Occultism](compendium/skills.md#Occultism) (expert) to exorcise the spirits  
-     
+
 ```ad-embed-ability
-title: Feast [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Feast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A living creature approaches within 10 feet
 

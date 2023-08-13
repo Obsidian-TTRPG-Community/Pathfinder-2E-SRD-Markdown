@@ -13,11 +13,11 @@ aliases: ["Ignite Fireworks"]
 # Ignite Fireworks *Spell 2*   
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**60 foot
-- **Area**10-foot burst
-- **Saving Throw** Reflex
+- **Range**: 60 foot
+- **Area**: 10-foot burst
+- **Saving Throw**: Reflex
 
 A brilliant and clamorous display of sparks and colorful fireworks explode around your enemies, dealing `1d8` fire damage and `1d8` sonic damage to creatures within a 10-foot burst. All creatures in the area must attempt a Reflex save.
 

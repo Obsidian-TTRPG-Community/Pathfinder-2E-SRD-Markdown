@@ -15,8 +15,8 @@ aliases: ["Soothing Mist"]
 [healing](rules/traits/healing.md "Healing Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  [ranger](rules/traits/ranger.md "Ranger Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 willing living creature or 1 undead creature
+- **Range**: 30 foot
+- **Targets**: 1 willing living creature or 1 undead creature
 
 You call forth a magical mist of positive energy that envelops a creature. The mist restores `2d8` Hit Points to a target living creature and ends one source of [persistent acid](rules/conditions.md#Persistent%20Damage), bleed, fire, negative, or poison damage affecting it. If the creature is taking [persistent damage](rules/conditions.md#Persistent%20Damage) from multiple sources, you select which one is removed. Against an undead target, you deal `2d8` positive damage (basic Fortitude save); if it fails the save, it also takes 2 [persistent positive damage](rules/conditions.md#Persistent%20Damage).
 

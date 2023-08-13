@@ -12,7 +12,7 @@ aliases: ["Unleash Psyche"]
 *Source: Dark Archive p. 12*  
 
 **Class** psychic
-- **Trigger** Your turn begins.
+- **Trigger**: Your turn begins.
 - **Requirements**: You're in an encounter, you Cast a Spell on your previous turn, and you aren't [stupefied](rules/conditions.md#Stupefied).
 - **Activity**: Free Action
 

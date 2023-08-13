@@ -15,10 +15,10 @@ aliases: ["Rebuke Death"]
 # Rebuke Death *Focus 4*   
 [cleric](rules/traits/cleric.md "Cleric Class Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains**: [healing](compendium/setting/domains.md#Healing)
+- **Domains** [healing](compendium/setting/domains.md#Healing)
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") to [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Area**20-foot emanation
-- **Targets**1 living creature per action spent to cast this spell
+- **Area**: 20-foot emanation
+- **Targets**: 1 living creature per action spent to cast this spell
 
 You snatch creatures from the jaws of death. You can spend 1 to 3 actions [Casting this Spell](rules/actions/cast-a-spell.md), and you can target a number of creatures equal to the actions spent. Each target regains `3d6` Hit Points. If the target had the [dying](rules/conditions.md#Dying) condition, coming back from [dying](rules/conditions.md#Dying) due to this healing doesn't increase its [wounded](rules/conditions.md#Wounded) condition.
 

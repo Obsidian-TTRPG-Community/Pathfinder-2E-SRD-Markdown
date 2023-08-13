@@ -14,10 +14,10 @@ aliases: ["Glacial Heart"]
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [hex](rules/traits/hex-apg.md "Hex Combat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [witch](rules/traits/witch-apg.md "Witch Class Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 creature
-- **Saving Throw** Fortitude
-- **Duration**1 minute
+- **Range**: 30 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Fortitude
+- **Duration**: 1 minute
 
 Ice and bone-deep cold assail the target, freezing it from the inside out. The frosty assault deals `10d6` cold damage, subject to the target's Fortitude save. After the effects are resolved, the target is temporarily immune for 1 day.
 

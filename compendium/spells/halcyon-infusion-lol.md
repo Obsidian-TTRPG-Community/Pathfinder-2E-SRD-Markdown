@@ -12,11 +12,11 @@ aliases: ["Halcyon Infusion"]
 # Halcyon Infusion *Spell 6*   
 [divination](rules/traits/divination.md "Divination School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** 10 minutes 
-- **Range**touch
-- **Targets**one willing creature of lower level than you
-- **Duration**until your next daily preparations
+- **Range**: touch
+- **Targets**: one willing creature of lower level than you
+- **Duration**: until your next daily preparations
 
 You infuse magical energy into your target, opening up their mind to the pathways of magic and granting them the ability to use magic to affect the world around them.
 
@@ -24,8 +24,8 @@ Choose a 1st-level spell you prepared today or that's in your repertoire, of the
 
 Unlike most abilities that can only be used once per day, the target refreshes their use of the granted innate spell each day only after you make your daily preparations and choose to extend halcyon infusion's duration by either refraining from preparing a spell in the slot (if you're a prepared spellcaster) or expending another spell slot (if you're a spontaneous spellcaster).
 
-**Heightened (8th)** If the target is at least 7th level, you can choose a 4th-level spell.
-
 **Heightened (10th)** As 8th, and if the target is at least 9th level, you can choose a 5th-level spell.
+
+**Heightened (8th)** If the target is at least 7th level, you can choose a 4th-level spell.
 
 *Source: Lost Omens: Legends p. 66*

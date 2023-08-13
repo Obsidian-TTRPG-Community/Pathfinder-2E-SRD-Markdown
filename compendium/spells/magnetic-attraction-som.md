@@ -10,10 +10,10 @@ aliases: ["Magnetic Attraction"]
 # Magnetic Attraction *Spell 2*   
 [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**60 foot
-- **Targets**up to 10 metal objects with a total Bulk of 1 or less
+- **Range**: 60 foot
+- **Targets**: up to 10 metal objects with a total Bulk of 1 or less
 
 You adjust your magnetic polarity, plucking daggers from hands and coins from belts. The targeted objects fly to your location, letting you catch them easily in your hands, or dropping to the ground at your position, at your discretion.
 

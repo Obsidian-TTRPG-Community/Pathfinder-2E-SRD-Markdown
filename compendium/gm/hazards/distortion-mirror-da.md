@@ -18,15 +18,12 @@ Fun-house mirrors distort a viewer's reflection, painfully reshaping their body 
 
 - **Disable** DC 38 [Thievery](compendium/skills.md#Thievery) (master) to deface the mirror's pane, or dispel magic (7th level; counteract DC 36) to dispel the mirror or counteract the transformation  
 
-- **AC** 33 , **Fort** +28, **Ref** +22
+- **AC** 33, **Fort** +28, **Ref** +22
 - **Hardness** 24, **HP** 90 (BT 45)
 - **Immunities** object immunities
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Painful Transformation [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[attack](rules/traits/attack.md "Attack Combat Trait")  
+title: **Painful Transformation** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([attack](rules/traits/attack.md))
 
 - **Trigger**: A creature is reflected in the mirror
 
@@ -39,7 +36,9 @@ title: Painful Transformation [R](rules/core-rulebook/chapter-9-playing-the-game
 > - **Critical Failure** The target takes double damage and is [clumsy](rules/conditions.md#Clumsy) and [enfeebled](rules/conditions.md#Enfeebled) for 1 minute. As long as the creature is [clumsy](rules/conditions.md#Clumsy) or [enfeebled](rules/conditions.md#Enfeebled), it additionally takes a –10-foot status penalty to its Speeds.
 >
 >    When the effects of this trap end, the triggering creature's transformation ends, and its body reverts to its natural form.  
-%% #trait/attack %%
+%%
+ #trait/attack 
+%%
 ```
 
 **Reset** 1 day  

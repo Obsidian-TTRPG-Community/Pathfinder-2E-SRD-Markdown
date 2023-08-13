@@ -13,7 +13,8 @@ aliases: ["Speaking Sky"]
 [air](rules/traits/air.md "Air Energy & Element Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Duration**1 round
+- 
+- **Duration**: 1 round
 
 The air speaks to you. You can precisely sense any motion within 60 feet through vibration and air movement.
 

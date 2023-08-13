@@ -16,10 +16,12 @@ aliases: ["Combat Lure"]
 
 - **Price** 2 gp
 - **Bulk** 1
-- **Damage** `1d6` B
+  - **Damage**: `1d6` B
 - **Hands** 2
 - **Category** Martial; **Group** Flail 
 
 A combat lure is a weighted leather sack at the end of a length of toughened cord and can be used both to bludgeon opponents and signal directions to a trained avian or other animal.
 
+
+---
 *Source: Treasure Vault p. 25*

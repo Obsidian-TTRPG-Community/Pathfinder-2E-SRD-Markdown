@@ -13,10 +13,10 @@ aliases: ["Vampiric Exsanguination"]
 # Vampiric Exsanguination *Spell 6*   
 [death](rules/traits/death.md "Death Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Area**30-foot cone
-- **Saving Throw**  basic Fortitude
+- **Area**: 30-foot cone
+- **Saving Throw**:  basic Fortitude
 
 You draw in the blood and life force of other creatures through your outstretched arms. You deal `12d6` negative damage to living creatures in the area.
 

@@ -16,14 +16,13 @@ A large pitcher plant occupying a 5-foot space sits seemingly dormant with its d
 
 - **Disable** DC 15 [Arcana](compendium/skills.md#Arcana) (trained) to safely trigger the plant's reflexes, causing it to close and become dormant for one day, or DC 17 [Nature](compendium/skills.md#Nature) (trained) to carefully coax the pitcher into quiescence  
 
-- **AC** 16 , **Fort** +11, **Ref** +5
+- **AC** 16, **Fort** +11, **Ref** +5
 - **HP** 40 (BT 20)
 - **Immunities** [mental](rules/traits/mental.md "Mental Effect Trait")
-- **Resistances** 
 - **Weaknesses** slashing 10
-     
+
 ```ad-embed-ability
-title: Devour Magic [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Devour Magic** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A spell's direct line of effect passes within a 5-foot-radius of the plant
 

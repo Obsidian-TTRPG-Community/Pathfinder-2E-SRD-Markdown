@@ -13,11 +13,11 @@ aliases: ["Petal Storm"]
 # Petal Storm *Spell 4*   
 [air](rules/traits/air.md "Air Energy & Element Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**120 foot
-- **Area**15-foot radius burst
-- **Duration**1 minute
+- **Range**: 120 foot
+- **Area**: 15-foot radius burst
+- **Duration**: 1 minute
 
 You bring forth a cloud of razor-sharp flower petals that thrash violently in the wind. A creature that enters the storm or starts its turn in the storm is sliced by the razor-sharp edges of the petals. It takes `2d10` slashing damage with a basic Reflex save. A creature can take damage from the petals only once per round. At the end of the duration, the storm calms and the petals fall harmlessly to the ground.
 

@@ -18,14 +18,12 @@ These heavy doors, carved with an image of [Dahak](compendium/setting/deities/da
 
 - **Disable** [Thievery](compendium/skills.md#Thievery) DC 29 (expert) to disrupt the divine magic, [Religion](compendium/skills.md#Religion) DC 29 (expert) to placate the wrathful energies, or [dispel magic](compendium/spells/dispel-magic.md) (5th level; counteract DC 26).  
 
-- **AC** 30 , **Fort** +22, **Ref** +14
-- **Door  Hardness** 18, **Door  HP** 72 (BT 36)
+- **AC** 30, **Fort** +22, **Ref** +14
+- **Door Hardness** 18, **Door HP** 72 (BT 36)
 - **Immunities** critical hits; [fire](rules/traits/fire.md "Fire Energy & Element Trait"); object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Expunge [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Expunge** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A non-worshipper of [Dahak](compendium/setting/deities/dahak-logm.md) touches either door leading to **C7**
 
@@ -34,14 +32,14 @@ title: Expunge [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Re
 
 ````ad-pf2-summary
 title: Routine
+
 (1 action) On its initiative, the wrath of the destroyer targets the closest target in area **C6** with Face of the Fatal Divine.
-
 ```ad-embed-ability
-title: Face of the Fatal Divine [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[death](rules/traits/death.md "Death Effect Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
-
+title: **Face of the Fatal Divine** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") ([death](rules/traits/death.md), [divine](rules/traits/divine.md), [emotion](rules/traits/emotion.md), [fear](rules/traits/fear.md), [illusion](rules/traits/illusion.md), [mental](rules/traits/mental.md))
 The creature beholds the face of [Dahak](compendium/setting/deities/dahak-logm.md) as it emerges to bite with its burning jaws, targeting the creature with [phantasmal killer](compendium/spells/phantasmal-killer.md) (5th level, Will DC 29).  
-%% #trait/death #trait/divine #trait/emotion #trait/fear #trait/illusion #trait/mental %%
+%%
+ #trait/death  #trait/divine  #trait/emotion  #trait/fear  #trait/illusion  #trait/mental 
+%%
 ```
 ````
 ^routine

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/pfum
-- item/category/snare
+- item/category/snare/
 - trait/acid
 - trait/consumable
 - trait/mechanical
@@ -16,7 +16,6 @@ aliases: ["Clinging Ooze Snare"]
 [acid](rules/traits/acid.md "Acid Energy & Element Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [snare](rules/traits/snare.md "Snare Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Price** 25 gp
-- **Category** Snare
 
 Complex traps that incorporate ooze monsters into their ingenious construction have long been a favorite of those who seek devious ways to protect their [hidden](rules/conditions.md#Hidden) laboratories, and it is from this tradition that the clinging ooze snare takes its inspiration. With its ingenious mixture of rare reagents, dried protoplasm harvested from ooze creatures, and a little pinch of alchemy, this snare triggers into an ooze-like hazard that temporarily mimics the dangers presented by a creature like a sewer ooze or other carnivorous protoplasmic monster. When a creature triggers a clinging ooze snare, the snare creates a short lived protoplasmic mass that lashes out in all directions, dealing `2d6` bludgeoning damage and `2d6` acid damage. The triggering creature must attempt a DC 21 Relfex save.
 
@@ -26,4 +25,6 @@ Complex traps that incorporate ooze monsters into their ingenious construction h
 > - **Failure** The target takes full damage and is [flat-footed](rules/conditions.md#Flat-footed) until the start of their next turn as the ooze impedes their movement.
 > - **Critical Failure** The target takes double damage and is both [flat-footed](rules/conditions.md#Flat-footed) and [immobilized](rules/conditions.md#Immobilized) for 1 round. The target can [Escape](rules/actions/escape.md) (DC 21) to end this effect early.
 
+
+---
 *Source: PATHFINDER: FUMBUS! p. 0*

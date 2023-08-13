@@ -10,12 +10,12 @@ aliases: ["Blister"]
 # Blister *Spell 5*   
 [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**60 foot
-- **Targets**1 creature
-- **Saving Throw** Fortitude
-- **Duration**1 minute
+- **Range**: 60 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Fortitude
+- **Duration**: 1 minute
 
 You point at a target in range, and its skin grows searing blisters filled with caustic fluid. The target must attempt a Fortitude save.
 

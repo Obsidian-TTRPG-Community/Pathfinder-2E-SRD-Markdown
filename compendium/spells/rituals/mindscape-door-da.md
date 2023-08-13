@@ -16,6 +16,7 @@ aliases: ["Mindscape Door"]
 - **Secondary Casters** 3
 - **Primary Checks** [Arcana](compendium/skills.md#Arcana) or [Occultism](compendium/skills.md#Occultism) (expert)
 - **Secondary Checks** [Arcana](compendium/skills.md#Arcana) or [Occultism](compendium/skills.md#Occultism), [Deception](compendium/skills.md#Deception) or [Diplomacy](compendium/skills.md#Diplomacy), [Perception](compendium/skills.md#Perception)
+- 
 
 You project the targets into an immersive mindscape or cause them to exit one. You must be aware the mindscape exists, though you don't need to know specifics. The casters must be in physical contact with one another in a circle for the duration of the casting and all targets must be selected from these casters. Your bodies typically remain behind in stasis when you enter a mindscape, though some mindscapes pull you entirely into them upon entrance. If you enter a mindscape, you can leave only by using another mindscape door ritual, finding an exit within the nature of the mindscape, or when the mindscape ceases to exist. When exiting a mindscape, you typically return to your bodies or to the location where you entered the mindscape.
 

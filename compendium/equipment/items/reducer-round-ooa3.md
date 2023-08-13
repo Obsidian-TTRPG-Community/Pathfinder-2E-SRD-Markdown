@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/ooa3
-- item/category/consumable
+- item/category/consumable/
 - trait/consumable
 - trait/magical
 - trait/transmutation
@@ -16,7 +16,6 @@ aliases: ["Reducer Round"]
 - **Price** 25 gp
 - **Ammunition** round
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Consumable
 
 This bullet is fashioned from a rubbery substance and stamped with the image of a diminutive ant twitching in surprise. The bullet deals no damage on a successful hit. Instead, the target must attempt a DC 19 Fortitude save.
 
@@ -29,4 +28,6 @@ This bullet is fashioned from a rubbery substance and stamped with the image of 
 >
 >    Its reach becomes 0 feet, and it's [enfeebled](rules/conditions.md#Enfeebled) for this duration.
 
+
+---
 *Source: Outlaws of Alkenstar #3: The Smoking Gun p. 75*

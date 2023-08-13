@@ -14,7 +14,7 @@ aliases: ["Celebrity Dedication"]
 The more people you have looking at you, the more content you are, and you take every opportunity to show up others when their performances are less than perfect. You gain the Upstage reaction. In addition, when you [Earn Income](rules/actions/earn-income.md), if the level of the task is higher than your level, you gain a +1 circumstance bonus to your check to [Earn Income](rules/actions/earn-income.md).
 
 ```ad-embed-ability
-title: Upstage [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Upstage** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A foe attempts a skill check and doesn't get a critical success
 

@@ -11,11 +11,11 @@ aliases: ["Death Knell"]
 # Death Knell *Spell 2*   
 [death](rules/traits/death.md "Death Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Targets**1 living creature that has 0 HP
-- **Saving Throw** Will
+- **Range**: touch
+- **Targets**: 1 living creature that has 0 HP
+- **Saving Throw**: Will
 
 You snuff the life out of a creature on the brink of death. The target must attempt a Will save. If this kills it, you gain 10 temporary HP and a +1 status bonus to attack and damage rolls for 10 minutes.
 

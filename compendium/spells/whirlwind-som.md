@@ -12,12 +12,12 @@ aliases: ["Whirlwind"]
 # Whirlwind *Spell 8*   
 [air](rules/traits/air.md "Air Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**500 foot
-- **Area**15-foot radius, 80-foot tall cylinder
-- **Saving Throw** Reflex
-- **Duration**sustained up to 1 minute
+- **Range**: 500 foot
+- **Area**: 15-foot radius, 80-foot tall cylinder
+- **Saving Throw**: Reflex
+- **Duration**: sustained up to 1 minute
 
 Powerful winds coalesce into a devastating tornado. You can [Cast this Spell](rules/actions/cast-a-spell.md) only if you are outside or the ceiling is 80 feet or higher. All squares in the whirlwind are difficult terrain.
 

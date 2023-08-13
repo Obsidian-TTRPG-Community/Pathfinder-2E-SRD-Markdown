@@ -17,14 +17,12 @@ When a [concealed](rules/conditions.md#Concealed) cord is tripped, several sharp
 
 - **Disable** DC 18 [Thievery](compendium/skills.md#Thievery) (trained) to safely cut the trip cord  
 
-- **AC** 16 , **Fort** +9, **Ref** +5
+- **AC** 16, **Fort** +9, **Ref** +5
 - **Hardness** 8, **HP** 32 (BT 16)
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Deadfall [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Deadfall** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature walks into the square containing the trip cord
 

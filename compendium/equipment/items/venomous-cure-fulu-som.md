@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/som
-- item/category/consumable
+- item/category/consumable/
 - trait/consumable
 - trait/fulu
 - trait/magical
@@ -17,10 +17,11 @@ aliases: ["Venomous Cure Fulu"]
 - **Price** 10 gp
 - **Usage** affixed to armor
 - **Activate** envision; **Trigger** You attempt a saving throw against an injected poison.
-- **Category** Consumable
 
 This green fulu depicts venomous creatures and vermin.
 
 When activated, the venom from the fulu fights against the venom in your system, granting you a +2 status bonus to the triggering saving throw.
 
+
+---
 *Source: Secrets of Magic p. 161*

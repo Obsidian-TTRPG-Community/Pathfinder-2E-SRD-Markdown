@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/crb
-- item/category/oil
+- item/category/oil/
 - trait/consumable
 - trait/magical
 - trait/oil
@@ -15,10 +15,11 @@ aliases: ["Oil of Animation"]
 [consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [oil](rules/traits/oil.md "Oil Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 330 gp
-- **Usage** held in 2 hands; **Bulk** L
+- **Bulk** L; **Usage** held in 2 hands
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Oil
 
 You can rub this bronze-colored oil onto a melee weapon to grant it the benefits of the dancing rune (page 583). Once you fail a flat check for the weapon, causing it to fall, this effect ends.
 
+
+---
 *Source: Core Rulebook p. 561*

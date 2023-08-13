@@ -13,7 +13,7 @@ aliases: ["Hellknight Plate"]
 
 - **Access** A character who is a member of the Hellknights has access to this option.
 - **Price** 35 gp
-- **Usage** worn armor; **Bulk** 4
+- **Bulk** 4; **Usage** worn armor
 - **AC Bonus** +6; **Dex Cap** +0
 - **Strength** 18; **Check Penalty** -3; **Speed Penalty** -10 ft.
 - **Category** Heavy; **Group** Plate 
@@ -26,4 +26,6 @@ Few armors in the Inner Sea region are as memorable as the iconic Hellknight pla
 
 Hellknights go to extreme measures to punish non-Hellknights who get their hands on Hellknight plate, and the reward is not usually worth the risk, since for non-Hellknights, the armor is functionally similar to [full plate](compendium/equipment/items/full-plate.md).
 
+
+---
 *Source: Treasure Vault p. 9*

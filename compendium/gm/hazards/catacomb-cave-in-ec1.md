@@ -17,14 +17,13 @@ The ceiling is unstable, and any Medium or larger creature that approaches withi
 
 - **Disable** [Thievery](compendium/skills.md#Thievery) DC 21 (trained) to prop up the ceiling in key locations prior to the cave-in.  
 
-- **AC** 21 , **Fort** +12, **Ref** +8
+- **AC** 21, **Fort** +12, **Ref** +8
 - **Hardness** 11, **HP** 44 (BT 22)
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
 - **Weaknesses** sonic 10
-     
+
 ```ad-embed-ability
-title: Falling Stones [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Falling Stones** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A Medium or larger creature approaches within 5 feet of the collapsed tunnel
 

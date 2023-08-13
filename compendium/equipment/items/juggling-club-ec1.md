@@ -15,10 +15,12 @@ aliases: ["Juggling Club"]
 
 - **Price** 1 sp
 - **Bulk** L
-- **Damage** `1d4` B
+  - **Damage**: `1d4` B
 - **Hands** 1
 - **Category** Simple; **Group** Club 
 
 A juggling club is lighter than a typical club and balanced to be easily caught and thrown again by a juggler. While a juggling club deals less damage, the extra throwing distance its light weight allows is important for Juggling.
 
+
+---
 *Source: Extinction Curse #1: The Show Must Go On p. 77*

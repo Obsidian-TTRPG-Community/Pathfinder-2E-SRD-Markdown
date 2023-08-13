@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/crb
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/injury
@@ -15,9 +15,8 @@ aliases: ["Shadow Essence"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [injury](rules/traits/injury.md "Injury Item Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Price** 160 gp
-- **Usage** held in 2 hands; **Bulk** L
+- **Bulk** L; **Usage** held in 2 hands
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 Distilled from the Plane of Shadow, this oily substance imposes tenebrous effects. The [enfeebled](rules/conditions.md#Enfeebled) condition from shadow essence lasts for 24 hours.
 
@@ -35,4 +34,6 @@ title: Saving Throw: DC 29 Fortitude
 **Stage 3** `3d6` negative damage, `2d6` poison damage, and [enfeebled](rules/conditions.md#Enfeebled) (1 round)
 ```
 
+
+---
 *Source: Core Rulebook p. 553*

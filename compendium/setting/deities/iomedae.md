@@ -18,7 +18,7 @@ aliases: ["Iomedae", "The Inheritor"]
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: abandon a companion in need, dishonor yourself, refuse a challenge from an equal
-- **Areas of Concern**: honor, , justice, , rulership, , and valor
+- **Areas of Concern**: honor, justice, rulership, and valor
 - **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait")
 
 ## Devotee benefits
@@ -36,7 +36,7 @@ title: [Avatar](compendium/spells/avatar.md) of Iomedae
 
 - **Speed**: Speed 70 feet, [air walk](compendium/spells/air-walk.md)
 - **Shield**: shield (15 Hardness, can't be damaged)
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") longsword ([reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [versatile <p>](rules/traits/versatile-p.md "Versatile Weapon Trait")), **Damage** `6d8+6` slashing
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") longsword (, [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [versatile <p>](rules/traits/versatile-p.md "Versatile Weapon Trait")), **Damage** `6d8+6` slashing 
 ```
 
 ## Divine intercession

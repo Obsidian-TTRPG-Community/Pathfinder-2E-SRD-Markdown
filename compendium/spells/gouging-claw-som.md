@@ -13,10 +13,10 @@ aliases: ["Gouging Claw"]
 # Gouging Claw *Cantrip 1*   
 [attack](rules/traits/attack.md "Attack Combat Trait")  [cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [morph](rules/traits/morph.md "Morph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Targets**1 creature
+- **Range**: touch
+- **Targets**: 1 creature
 
 You temporarily morph your limb into a clawed appendage.
 

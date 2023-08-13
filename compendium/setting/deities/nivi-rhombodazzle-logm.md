@@ -19,7 +19,7 @@ aliases: ["Nivi Rhombodazzle", "The Grey Polychrome"]
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: break the established rules or terms of a wager, use violence to avoid the consequences of a wager
-- **Areas of Concern**: gambling, , gems, , gnomes, , stealth
+- **Areas of Concern**: gambling, gems, gnomes, stealth
 - **Follower Alignments**: [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")
 
 ## Devotee benefits
@@ -38,7 +38,8 @@ When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Ni
 title: [Avatar](compendium/spells/avatar.md) of Nivi Rhombodazzle
 
 - **Speed**: Speed 50 feet, burrow 30 feet, immune to [immobilized](rules/conditions.md#Immobilized)
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") returning light hammer ([agile](rules/traits/agile.md "Agile Weapon Trait"), [thrown <40 feet>](rules/traits/thrown-40-feet.md "Thrown Weapon Trait")), **Damage** `6d6+6` bludgeoning
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") returning light hammer (, [agile](rules/traits/agile.md "Agile Weapon Trait"), [thrown <40 feet>](rules/traits/thrown-40-feet.md "Thrown Weapon Trait")), **Damage** `6d6+6` bludgeoning 
 ```
 
 ## Divine intercession

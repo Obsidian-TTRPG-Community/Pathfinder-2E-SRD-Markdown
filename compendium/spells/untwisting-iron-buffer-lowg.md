@@ -12,6 +12,7 @@ aliases: ["Untwisting Iron Buffer"]
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
+- 
 
 You send currents of protective ki to the surface of your body that protect you from harm, at least until your enemies dissipate them.
 

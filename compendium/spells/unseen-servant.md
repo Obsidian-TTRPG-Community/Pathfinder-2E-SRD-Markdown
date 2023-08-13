@@ -10,10 +10,10 @@ aliases: ["Unseen Servant"]
 # Unseen Servant *Spell 1*   
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**60 foot
-- **Duration**sustained
+- **Range**: 60 foot
+- **Duration**: sustained
 
 You summon an unseen servant, which you can command as part of [Sustaining the Spell](rules/actions/sustain-a-spell.md). It serves you until its Hit Points are reduced to 0, at which point the spell ends, or until you stop [Sustaining the Spell](rules/actions/sustain-a-spell.md). The unseen servant gains the [summoned](rules/traits/summoned.md "Summoned Creature Trait") trait.
 

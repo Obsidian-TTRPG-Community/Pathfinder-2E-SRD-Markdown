@@ -17,14 +17,12 @@ A load of rocks, held up by a rope pulley, is dropped on the cavern's lower leve
 
 - **Disable** DC 25 [Thievery](compendium/skills.md#Thievery) (trained) to pin the pulley in place  
 
-- **AC** 22 , **Fort** +15, **Ref** +15
+- **AC** 22, **Fort** +15, **Ref** +15
 - **Hardness** 12, **HP** 50 (BT 25)
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Drop Rocks [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Drop Rocks** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature holding the rope pulley pulls it
 

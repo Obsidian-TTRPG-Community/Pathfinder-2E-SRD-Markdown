@@ -22,7 +22,6 @@ On the other hand, you might be part of an established fireworks house from Tian
 ````ad-embed-feat
 title: Firework Technician Dedication, Feat 2
 collapse: closed
-# Firework Technician Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: trained in [Crafting](compendium/skills.md#Crafting)
@@ -34,9 +33,7 @@ You become trained in [Fireworks Lore](compendium/skills.md#Lore) or become an e
 You can also create special fireworks displays using your infused reagents, designed to create distinctive effects you can use to make onlookers marvel and even to gain an advantage in combat. You gain the Launch Fireworks Display action and learn some basic displays, and you can learn additional, more complex displays through other firework technician feats. The DC for any display is equal to your class DC or spell DC, whichever is higher.
 
 ```ad-embed-ability
-title: Launch Fireworks Display [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies")
-[manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
-
+title: **Launch Fireworks Display** [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies") Varies ([>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") to [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") (see below)) ([manipulate](rules/traits/manipulate.md))
 - **Cost**: 1 or more batches of infused reagents
 - **Requirements**: You have a free hand
 
@@ -45,7 +42,9 @@ title: Launch Fireworks Display [V](rules/core-rulebook/chapter-9-playing-the-ga
 - **Comet** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") ([visual](rules/traits/visual.md "Visual Effect Trait")) You shoot a streak of shining light in a 60-foot line. All spaces in that line are lit with bright light until the start of your next turn. As part of this action, you can also [Point Out](rules/actions/point-out.md) a single creature in the line, and your allies do not need to hear or understand you.
 - **Flower** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") ([visual](rules/traits/visual.md "Visual Effect Trait")) You ignite a ring of sparks, creating a shape that might be reminiscent of a flower blooming in the sky. Each enemy with 20 feet of you must attempt a Fortitude save. On a failure, the enemy is [dazzled](rules/conditions.md#Dazzled) for 1 round, and on a critical failure they are [dazzled](rules/conditions.md#Dazzled) for 2 rounds.
 - **Salute** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") ([auditory](rules/traits/auditory.md "Auditory Effect Trait")) You create a startling bang or whistle, adding an [auditory](rules/traits/auditory.md "Auditory Effect Trait") component to your fireworks display. When you launch a salute display, you can choose a [confused](rules/conditions.md#Confused) or [fascinated](rules/conditions.md#Fascinated) ally within 60 feet. If the ally you chose is [fascinated](rules/conditions.md#Fascinated), the noise is so violent that it acts as a [hostile](rules/conditions.md#Hostile) effect for the purpose of their [fascinated](rules/conditions.md#Fascinated) condition (though it has no negative repercussions) automatically ending most applications of the [fascinated](rules/conditions.md#Fascinated) condition. If they're [confused](rules/conditions.md#Confused), the sound is so loud and violent that it might snap the ally out of confusion. They can immediately attempt the flat check to remove the [confused](rules/conditions.md#Confused) condition which normally occurs when a creature is damaged. If the [confused](rules/conditions.md#Confused) condition has special rules that remove the flat check when taking damage or make the flat check harder, those rules also apply to the salute.  
-%% #trait/manipulate %%
+%%
+ #trait/manipulate 
+%%
 ```
 
 **Special.** You can't select another dedication feat until you've gained two other feats from the fireworks technician archetype.
@@ -57,7 +56,6 @@ title: Launch Fireworks Display [V](rules/core-rulebook/chapter-9-playing-the-ga
 ````ad-embed-feat
 title: Coughing Dragon Display, Feat 4
 collapse: closed
-# Coughing Dragon Display  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Firework Technician Dedication](compendium/feats/firework-technician-dedication-g-g.md)
@@ -65,8 +63,7 @@ collapse: closed
 This display emits a cascade of loud bangs or glittering trails. While you initially designed the display to captivate your audience's attention, it turns out to have a surprisingly effective use in combat, suppressing [auditory](rules/traits/auditory.md "Auditory Effect Trait") or [visual](rules/traits/visual.md "Visual Effect Trait") effects behind your magnificent display. You gain the Coughing Dragon fireworks display.
 
 ```ad-embed-ability
-title: Coughing Dragon [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
-
+title: **Coughing Dragon** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
 - **Cost**: 2 batches of infused reagents
 
 Choose either [auditory](rules/traits/auditory.md "Auditory Effect Trait") or [visual](rules/traits/visual.md "Visual Effect Trait") effects. The display gains that trait, and you attempt to counteract one or more effects within 60 feet that have this trait. On a success, the effect is suppressed until the start of your next turn, rather than ending entirely. Use your [Fireworks Lore](compendium/skills.md#Lore) modifier as your counteract modifier, and your counteract level is equal to half your advanced alchemy level (rounded up). A coughing dragon costs 2 batches of infused reagents rather than 1, but you can increase the cost to 3 batches and spend an additional action to create an even bigger coughing dragon display that attempts to counteract both [auditory](rules/traits/auditory.md "Auditory Effect Trait") and [visual](rules/traits/visual.md "Visual Effect Trait") effects at the same time.
@@ -79,7 +76,6 @@ Choose either [auditory](rules/traits/auditory.md "Auditory Effect Trait") or [v
 ```ad-embed-feat
 title: Expert Fireworks Crafter, Feat 6
 collapse: closed
-# Expert Fireworks Crafter  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Firework Technician Dedication](compendium/feats/firework-technician-dedication-g-g.md), expert in [Crafting](compendium/skills.md#Crafting)
@@ -93,7 +89,6 @@ You're particularly adept at crafting fireworks, allowing you to create much mor
 ````ad-embed-feat
 title: Jumping Jenny Display, Feat 8
 collapse: closed
-# Jumping Jenny Display  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Firework Technician Dedication](compendium/feats/firework-technician-dedication-g-g.md)
@@ -101,8 +96,7 @@ collapse: closed
 This multi-sequence rocket blasts confetti at a series of altitudes. While the design is intended to delight children of all ages, you've found it has an unexpected side effect of confounding enemy fliers. You gain the Jumping Jenny fireworks display.
 
 ```ad-embed-ability
-title: Jumping Jenny [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-
+title: **Jumping Jenny** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 - **Cost**: 2 batches of infused reagents
 
 Target a flying creature within 60 feet. Until the start of your next turn, each time that creature attempts to [Fly](rules/actions/fly.md), they must succeed at an [Acrobatics](compendium/skills.md#Acrobatics) check to [Maneuver in Flight](rules/actions/maneuver-in-flight.md) against the DC of your fireworks display, or the [Fly](rules/actions/fly.md) action is disrupted. If all the creature's attempts to [Fly](rules/actions/fly.md) are disrupted, at the end of its turn, it falls harmlessly to the ground below. A jumping jenny costs 2 batches of infused reagents, rather than 1.
@@ -115,7 +109,6 @@ Target a flying creature within 60 feet. Until the start of your next turn, each
 ````ad-embed-feat
 title: Goblin Jubilee Display, Feat 10
 collapse: closed
-# Goblin Jubilee Display  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Firework Technician Dedication](compendium/feats/firework-technician-dedication-g-g.md)
@@ -123,9 +116,7 @@ collapse: closed
 Flames and explosions sear the air in a riot of color and devastation that rivals that wrought by even the wildest goblin party. The display is both so beautiful and chaotic that, while mesmerizing, it poses a significant risk to the physical health, sight, and hearing of anyone who gets too close. You gain the Goblin Jubilee fireworks display.
 
 ```ad-embed-ability
-title: Goblin Jubilee [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")
-[fire](rules/traits/fire.md "Fire Energy & Element Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
-
+title: **Goblin Jubilee** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") ([fire](rules/traits/fire.md), [sonic](rules/traits/sonic.md), [visual](rules/traits/visual.md))
 - **Cost**: 3 batches of infused reagents
 
 Chaos fills a 20-foot burst within 120 feet. All creatures in the area takes `3d6` fire damage and `3d6` sonic damage and must attempt a Fortitude save.
@@ -137,7 +128,9 @@ A goblin jubilee display costs 3 batches of infused reagents, rather than 1.
 > - **Success** The creature is [dazzled](rules/conditions.md#Dazzled) and [deafened](rules/conditions.md#Deafened) until the end of its next turn and takes half damage.
 > - **Failure** The creature is [dazzled](rules/conditions.md#Dazzled) and [deafened](rules/conditions.md#Deafened) for 1 minute and takes full damage.
 > - **Critical Failure** The creature is [blinded](rules/conditions.md#Blinded) for 1 round, [dazzled](rules/conditions.md#Dazzled) and [deafened](rules/conditions.md#Deafened) for 1 minute, and takes double damage.  
-%% #trait/fire #trait/sonic #trait/visual %%
+%%
+ #trait/fire  #trait/sonic  #trait/visual 
+%%
 ```
 
 *Source: Guns & Gears p. 135*  
@@ -147,7 +140,6 @@ A goblin jubilee display costs 3 batches of infused reagents, rather than 1.
 ````ad-embed-feat
 title: Banshee Cry Display, Feat 12*
 collapse: closed
-# Banshee Cry Display  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Banshee Cry Display](compendium/feats/banshee-cry-display-g-g.md) is intended for use with the Firework Technician Archetype. Its level has been changed accordingly.
@@ -157,7 +149,7 @@ collapse: closed
 You've learned how to pull off a sudden noisemaker at just the right moment in your display, a technique that can disrupt precise wording. You gain the Banshee Cry fireworks display.
 
 ```ad-embed-ability
-title: Banshee Cry [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Banshee Cry** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature within 30 feet [Casts a Spell](rules/actions/cast-a-spell.md) that has a verbal component or [Activates an Item](rules/actions/activate-an-item.md) using a command Activation
 

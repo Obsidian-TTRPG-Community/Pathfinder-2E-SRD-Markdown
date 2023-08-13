@@ -19,9 +19,9 @@ aliases: ["Call To Arms"]
 
 - **Mystery** Oracle
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
-- **Trigger**You are about to roll for initiative.
-- **Area**20-foot emanation
-- **Duration**1 minute
+- **Trigger**: You are about to roll for initiative.
+- **Area**: 20-foot emanation
+- **Duration**: 1 minute
 
 You cry out a call to arms, inspiring your allies to enter the fray.
 

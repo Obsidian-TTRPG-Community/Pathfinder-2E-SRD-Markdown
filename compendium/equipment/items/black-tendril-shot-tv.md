@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
-- item/category/consumable
+- item/category/consumable/
 - trait/conjuration
 - trait/consumable
 - trait/magical
@@ -14,7 +14,6 @@ aliases: ["Black Tendril Shot"]
 
 - **Ammunition** any
 - **Activate** command
-- **Category** Consumable
 
 A glistening, tar‑like substance that's displeasing to the touch coats a black tendril shot. When the activated ammunition hits a target, it exudes tendrils that encase the target, which must attempt a Fortitude saving throw. The ammunition's effects last until the target Escapes. DCs for the saving throw and [Escape](rules/actions/escape.md) vary by type.
 
@@ -24,4 +23,26 @@ A glistening, tar‑like substance that's displeasing to the touch coats a black
 > - **Failure** The target is [slowed](rules/conditions.md#Slowed) and [deafened](rules/conditions.md#Deafened).
 > - **Critical Failure** The target is [slowed](rules/conditions.md#Slowed), [blinded](rules/conditions.md#Blinded), and [deafened](rules/conditions.md#Deafened).
 
+---
+### Variants
+
+#### lesser *Item 7*
+
+- **Price**: 60 gp
+
+Both DCs are 25.
+
+#### moderate *Item 12*
+
+- **Price**: 360 gp
+
+Both DCs are 31.
+
+#### greater *Item 17*
+
+- **Price**: 2160 gp
+
+Both DCs are 39.
+
+---
 *Source: Treasure Vault p. 80*

@@ -12,9 +12,9 @@ aliases: ["Verdant Sprout"]
 # Verdant Sprout *Spell 1*   
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**30 foot
+- **Range**: 30 foot
 
 You imbue a single ordinary, inexpensive plant seed with primal energy and throw it onto a surface, where it gradually sprouts into a Medium plant. After 10 minutes, the plant is sturdy enough to provide standard cover, and its space is difficult terrain. The plant is laden with nutritious nuts or fruit sufficient to feed one Medium creature for a day. The plant has AC 10, Hardness 5, and 20 Hit Points.
 

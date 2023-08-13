@@ -13,7 +13,8 @@ aliases: ["Dance Of Darkness"]
 [darkness](rules/traits/darkness.md "Darkness Effect Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Duration**varies
+- 
+- **Duration**: varies
 
 You dance, [Striding](rules/actions/stride.md) up to half your Speed. At either the start or end of your [Stride](rules/actions/stride.md), you create an area of magical darkness in a 10-foot burst centered on your location. This area is filled with magical darkness that works the same way as that created by a [darkness](compendium/spells/darkness.md) spell of the same level. When you create the darkness, attempt a [Performance](compendium/skills.md#Performance) check to dance, with a standard DC for your level, to determine the duration of the darkness.
 

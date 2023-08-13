@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/g&g
-- item/category/held
+- item/category/held/
 - trait/divine
 - trait/enchantment
 - trait/good
@@ -15,8 +15,7 @@ aliases: ["Holy Steam Ball"]
 [divine](rules/traits/divine.md "Divine Tradition Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [good](rules/traits/good.md "Good Alignment Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 30 gp
-- **Usage** held in 1 hand; **Bulk** L
-- **Category** Held
+- **Bulk** L; **Usage** held in 1 hand
 
 The holy steam ball is an odd-looking device that's nevertheless effective at reinforcing its user's mind against fiendish control. It's a hollow black-rubber ball with small, flexible twin tubes sticking out from its center. Sealed within the rubber ball is vapor made from a mixture of evaporated holy water and a special type of incense smoke. The tube's twin prongs are placed into the user's nostrils, after which the user squeezes the rubber ball to activate the device, forcing the vapor into the user's body through their nose.
 
@@ -27,11 +26,13 @@ When the holy steam ball was first introduced in Mendev fifty years ago, few tru
 After using a holy steam ball, you must refill it before the next use in a process that takes five minutes to complete.
 
 ```ad-embed-ability
-title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
+title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") [Interact](rules/actions/interact.md)
 
 - **Requirements**: The holy steam ball is filled with evaporated holy water and incense smoke
 
 **Effect** You release the stored steam and smoke to grant yourself its protections. Each use of the holy steam ball lasts for 1 hour and gives you a +2 item bonus to Will saving throws against [possession](rules/traits/possession.md "Possession Effect Trait") effects from fiends and undead and effects from fiends and undead that cause the [controlled](rules/conditions.md#Controlled) condition.
 ```
 
+
+---
 *Source: Guns & Gears p. 87*

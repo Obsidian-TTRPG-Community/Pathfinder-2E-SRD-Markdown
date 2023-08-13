@@ -11,11 +11,11 @@ aliases: ["Disintegrate"]
 # Disintegrate *Spell 6*   
 [attack](rules/traits/attack.md "Attack Combat Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**120 foot
-- **Targets**1 creature or unattended object
-- **Saving Throw** Fortitude
+- **Range**: 120 foot
+- **Targets**: 1 creature or unattended object
+- **Saving Throw**: Fortitude
 
 You fire a green ray at your target. Make a spell attack. On a hit you deal `12d10` damage, and the target must attempt a basic Fortitude save. On a critical hit, treat the save result as one degree worse. A creature reduced to 0 HP is reduced to fine powder; its gear remains.
 

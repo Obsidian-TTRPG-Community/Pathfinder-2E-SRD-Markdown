@@ -16,8 +16,8 @@ aliases: ["Animate Object"]
 - **Secondary Casters** 1
 - **Primary Checks** [Arcana](compendium/skills.md#Arcana) (expert)
 - **Secondary Checks** [Crafting](compendium/skills.md#Crafting)
-- **Range**10 feet
-- **Targets**1 object
+- **Range**: 10 feet
+- **Targets**: 1 object
 
 You transform the target into an animated object with a level up to that allowed by [Table 7–1](rules/tables/creature-creation-rituals.md) and of a type corresponding to the object (so a broom would become an animated broom).
 

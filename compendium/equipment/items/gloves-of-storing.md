@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/crb
-- item/category/worn
+- item/category/worn/
 - trait/extradimensional
 - trait/invested
 - trait/magical
@@ -15,15 +15,14 @@ aliases: ["Gloves of Storing"]
 [extradimensional](rules/traits/extradimensional.md "Extradimensional Effect Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 340 gp
-- **Usage** worn gloves; **Bulk** —
-- **Category** Worn
+- **Bulk** —; **Usage** worn gloves
 
 An item can be stored inside these supple leather gloves, held in an extradimensional space. When an item is inside the glove, an image of the item appears as a simple, stitched pattern on the back of each glove.
 
 Many gloves of storing are found with an item already inside.
 
 ```ad-embed-ability
-title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
+title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") [Interact](rules/actions/interact.md)
 
 - **Requirements**: No item is stored in the gloves
 
@@ -31,11 +30,13 @@ title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "S
 ```
 
 ```ad-embed-ability
-title: Activate [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
+title: **Activate** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") [Interact](rules/actions/interact.md)
 
 - **Requirements**: An item is stored in the gloves, and you have a free hand
 
 **Effect** The item stored in the gloves appears in your hand. The gloves can't be activated again for 1 minute.
 ```
 
+
+---
 *Source: Core Rulebook p. 610*

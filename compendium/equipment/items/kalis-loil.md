@@ -14,10 +14,12 @@ aliases: ["Kalis"]
 
 - **Price** 3 gp
 - **Bulk** 1
-- **Damage** `1d8` S
+  - **Damage**: `1d8` S
 - **Hands** 1
 - **Category** Advanced; **Group** Sword 
 
 A larger version of the asymmetrical, wavy-bladed kris, this double-edged sword is effective at creating grievous injuries.
 
+
+---
 *Source: Lost Omens: Impossible Lands p. 221*

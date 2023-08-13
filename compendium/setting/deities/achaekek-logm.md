@@ -20,7 +20,7 @@ aliases: ["Achaekek", "He Who Walks In Blood"]
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: kill a rightful ruler, become fixated on petty matters such as others' gender or ancestry, abandon an assassination contract you agreed to pursue
-- **Areas of Concern**: assassins, , divine punishments, , and the Red Mantis
+- **Areas of Concern**: assassins, divine punishments, and the Red Mantis
 - **Follower Alignments**: [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"), [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait")
 
 ## Devotee benefits
@@ -38,8 +38,9 @@ When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Ac
 title: [Avatar](compendium/spells/avatar.md) of Achaekek
 
 - **Speed**: Speed 70 feet, climb 50 feet, ignore difficult terrain and greater difficult terrain
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") mantis claw ([agile](rules/traits/agile.md "Agile Weapon Trait"), [backswing](rules/traits/backswing.md "Backswing Weapon Trait"), [finesse](rules/traits/finesse.md "Finesse Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [versatile <p>](rules/traits/versatile-p.md "Versatile Weapon Trait")), **Damage** `6d8+6` slashing
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") spine volley **Damage** `6d6+3` piercing
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") mantis claw (, [agile](rules/traits/agile.md "Agile Weapon Trait"), [backswing](rules/traits/backswing.md "Backswing Weapon Trait"), [finesse](rules/traits/finesse.md "Finesse Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [versatile <p>](rules/traits/versatile-p.md "Versatile Weapon Trait")), **Damage** `6d8+6` slashing 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") spine volley (), **Damage** `6d6+3` piercing 
 ```
 
 ## Divine intercession

@@ -10,11 +10,11 @@ aliases: ["Anticipate Peril"]
 # Anticipate Peril *Spell 1*   
 [divination](rules/traits/divination.md "Divination School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 creature
-- **Duration**10 minutes
+- **Range**: 30 foot
+- **Targets**: 1 creature
+- **Duration**: 10 minutes
 
 You grant the target brief foresight. The target gains a +1 status bonus to its next initiative roll, after which the spell ends.
 

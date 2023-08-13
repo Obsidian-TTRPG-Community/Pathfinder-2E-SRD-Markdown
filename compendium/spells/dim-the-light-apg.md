@@ -15,7 +15,8 @@ aliases: ["Dim The Light"]
 
 - **Bloodline** Sorcerer
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
-- **Trigger**You cast a darkness or shadow spell.
+- **Trigger**: You cast a darkness or shadow spell.
+- 
 
 You magnify the darkness from the triggering effect, causing the ambient light level to flicker briefly so you can slip from sight. You can immediately attempt a [Stealth](compendium/skills.md#Stealth) check to [Hide](rules/actions/hide.md), and you can become [hidden](rules/conditions.md#Hidden) to a creature even if you don't have cover and aren't otherwise [concealed](rules/conditions.md#Concealed) from that creature.
 

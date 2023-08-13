@@ -10,11 +10,11 @@ aliases: ["Death Ward"]
 # Death Ward *Spell 5*   
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Targets**1 living creature touched
-- **Duration**10 minutes
+- **Range**: touch
+- **Targets**: 1 living creature touched
+- **Duration**: 10 minutes
 
 You shield a creature from the ravages of negative energy.
 

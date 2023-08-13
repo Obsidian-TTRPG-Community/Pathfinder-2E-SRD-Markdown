@@ -12,11 +12,11 @@ aliases: ["Gray Shadow"]
 # Gray Shadow *Spell 6*   
 [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [shadow](rules/traits/shadow.md "Shadow General Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**30 foot
-- **Targets**1 [dying](rules/conditions.md#Dying) creature
-- **Duration**sustained
+- **Range**: 30 foot
+- **Targets**: 1 [dying](rules/conditions.md#Dying) creature
+- **Duration**: sustained
 
 You pray over a [dying](rules/conditions.md#Dying) creature, drawing its shadow into your service as long as its owner is stooped at death's door. You summon a greater shadow in a space adjacent to the [dying](rules/conditions.md#Dying) creature. The greater shadow has its usual stats (Pathfinder Bestiary 289), with the following modifications:
 

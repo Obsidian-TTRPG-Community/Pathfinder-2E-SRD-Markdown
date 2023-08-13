@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/lotgb
-- item/category/companion
+- item/category/companion/
 - trait/companion
 - trait/evocation
 - trait/invested
@@ -13,15 +13,16 @@ aliases: ["Horned Hand Rests"]
 # Horned Hand Rests *Item 6+*  
 [companion](rules/traits/companion.md "Companion Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
-- **Usage** worn; **Bulk** 1
-- **Category** Companion
+- **Bulk** 1; **Usage** worn
 
 These thick bull or ram horns fuse into the armrests of your legchair companion, giving it more aggressive options. Your animal companion can only invest this item if it is a legchair.
 
 ```ad-embed-ability
-title: Activate [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies")
+title: **Activate** [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies") envision
 
-You trace your finger along the base of the ram horns, with an effect depending on how many actions you spent.
+- **Frequency**: once per minute
+
+**Effect** You trace your finger along the base of the ram horns, with an effect depending on how many actions you spent.
 
 - **[>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")** Your legchair draws force from its momentum. Until the end of this turn, if your legchair Strides, it deals `2d6` additional force damage on its next [Strike](rules/actions/strike.md) and, on a critical success, pushes the target away by 5 feet.
 - **[>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")** Your legchair fires a beam of force from its ram horns. The target takes `4d6` force damage and must attempt a DC 22 Fortitude save.  
@@ -33,4 +34,6 @@ You trace your finger along the base of the ram horns, with an effect depending 
     > - **Critical Failure** The target takes double damage and is pushed 20 feet.
 ```
 
+
+---
 *Source: Lost Omens: The Grand Bazaar p. 72*

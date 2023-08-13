@@ -10,7 +10,7 @@ aliases: ["Aid", "Help"]
 *Source: Core Rulebook p. 470*  
 
 
-- **Trigger** An ally is about to use an action that requires a skill check or attack roll.
+- **Trigger**: An ally is about to use an action that requires a skill check or attack roll.
 - **Requirements**: The ally is willing to accept your aid, and you have prepared to help (see below).
 - **Activity**: Reaction
 

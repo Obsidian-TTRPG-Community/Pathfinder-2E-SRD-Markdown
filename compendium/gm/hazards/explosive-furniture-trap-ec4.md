@@ -17,14 +17,12 @@ Wiring keeping the furniture together unravels, causing the spring-loaded pieces
 
 - **Disable** DC 34 [Thievery](compendium/skills.md#Thievery) (expert) to identify and harmlessly cut the taut wiring.  
 
-- **AC** 33 , **Fort** +25, **Ref** +19
+- **AC** 33, **Fort** +25, **Ref** +19
 - **Hardness** 21, **HP** 84 (BT 42)
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Unsprung Wires [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Unsprung Wires** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature moves within 5 feet of the pile of [broken](rules/conditions.md#Broken) furniture
 

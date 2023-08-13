@@ -16,10 +16,12 @@ aliases: ["Scorpion Whip"]
 
 - **Price** 5 sp
 - **Bulk** L
-- **Damage** `1d4` S
+  - **Damage**: `1d4` S
 - **Hands** 1
 - **Category** Martial; **Group** Flail 
 
 A scorpion whip has a series of razor-sharp blades set along its tip. Unlike ordinary whips, a scorpion whip doesn't have the nonlethal trait, making it deadlier in combat but less effective when the wielder seeks to bring in foes alive.
 
+
+---
 *Source: Extinction Curse #1: The Show Must Go On p. 77*

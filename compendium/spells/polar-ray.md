@@ -12,10 +12,10 @@ aliases: ["Polar Ray"]
 # Polar Ray *Spell 8*   
 [attack](rules/traits/attack.md "Attack Combat Trait")  [cold](rules/traits/cold.md "Cold Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**120 foot
-- **Targets**1 creature
+- **Range**: 120 foot
+- **Targets**: 1 creature
 
 You fire a blue-white ray of freezing air and sleet that deals `10d8` cold damage. Make a spell attack roll against the target.
 

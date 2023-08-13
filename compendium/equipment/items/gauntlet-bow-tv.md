@@ -14,11 +14,13 @@ aliases: ["Gauntlet Bow"]
 
 - **Price** 9 gp
 - **Bulk** 1
-- **Damage** `1d4` P
-- **Ammunution** Bolt (10); **Range** 60 ft.; **Reload** 1
+  - **Damage**: `1d4` P
+  - **Ammunution** Bolt (10); **Range** 60 ft.; **Reload** 1
 - **Hands** 1
 - **Category** Martial; **Group** Bow 
 
 The gauntlet bow is a heavy metal glove with a built-in crossbow and rotating chamber mechanism for easy reloading. A gauntlet bow can be used to make melee attacks like a standard gauntlet. You can't reload a gauntlet bow with the hand wielding it.
 
+
+---
 *Source: Treasure Vault p. 30*

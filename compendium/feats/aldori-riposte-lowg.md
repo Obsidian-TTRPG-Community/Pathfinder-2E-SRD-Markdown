@@ -6,7 +6,7 @@ tags:
 - trait/archetype
 aliases: ["Aldori Riposte"]
 ---
-# Aldori Riposte  [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies") *Feat 6*  
+# Aldori Riposte  [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies") Varies ([R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")]) *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Aldori Parry](compendium/feats/aldori-parry-lowg.md)

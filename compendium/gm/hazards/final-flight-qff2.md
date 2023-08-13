@@ -16,10 +16,9 @@ aliases: ["Final Flight"]
 A creature experiences the death of a priest carried off by griffons and fed to their chicks.
 
 - **Disable** DC 22 [Diplomacy](compendium/skills.md#Diplomacy) (trained) to soothe the restless spirits, or DC 24 [Religion](compendium/skills.md#Religion) (trained) to recite a prayer honoring the deceased; two successful checks are required to disable the haunt  
-     
+
 ```ad-embed-ability
-title: Final Flight [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[illusion](rules/traits/illusion.md "Illusion School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
+title: **Final Flight** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([illusion](rules/traits/illusion.md), [mental](rules/traits/mental.md), [occult](rules/traits/occult.md))
 
 - **Trigger**: A creature enters the gathering circle
 
@@ -30,7 +29,9 @@ title: Final Flight [R](rules/core-rulebook/chapter-9-playing-the-game.md#Action
 > - **Success** The creature takes half damage from all damage dealt by the haunt.
 > - **Failure** The creature takes full damage.
 > - **Critical Failure** The creature takes full damage and can't shake off the vision; they take `1d8` [persistent bleed damage](rules/conditions.md#Persistent%20Damage) and are [frightened](rules/conditions.md#Frightened)—believing they're being eaten alive—as long as the bleed damage persists.  
-%% #trait/illusion #trait/mental #trait/occult %%
+%%
+ #trait/illusion  #trait/mental  #trait/occult 
+%%
 ```
 
 **Reset** The haunt deactivates 1 minute after all living creatures leave the Lea of Honored Souls. Ten minutes after deactivating, the haunt resets.  

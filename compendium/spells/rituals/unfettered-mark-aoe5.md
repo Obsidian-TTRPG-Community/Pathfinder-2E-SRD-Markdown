@@ -16,8 +16,8 @@ aliases: ["Unfettered Mark"]
 - **Secondary Casters** 0 to 10
 - **Primary Checks** [Crafting](compendium/skills.md#Crafting) (master) or any (legendary)
 - **Secondary Checks** any (see text)
-- **Range**touch
-- **Targets**1 creature or self
+- **Range**: touch
+- **Targets**: 1 creature or self
 
 You tattoo the target with rare inks and create a magical tattoo called an unfettered mark. This particular version of the unfettered mark grants the target special powers to escape from the Black Whale and Stormholt (the demiplane that overlaps with the Black Whale). While [Crafting](compendium/skills.md#Crafting) is the easiest method for creating this tattoo, the artistry is less important than maintaining a feeling of freedom in your mind while performing the ritual. Because of this, you can use any skill as long as it holds a special significance to you.
 

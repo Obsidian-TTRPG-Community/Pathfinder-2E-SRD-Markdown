@@ -13,11 +13,11 @@ aliases: ["Call The Blood"]
 # Call The Blood *Spell 4*   
 [death](rules/traits/death.md "Death Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**60 foot
-- **Targets**1 living creature
-- **Saving Throw**  basic Fortitude
+- **Range**: 60 foot
+- **Targets**: 1 living creature
+- **Saving Throw**:  basic Fortitude
 
 With a word and gesture, you cause streams of blood to erupt from the target's mouth, nostrils, ears, or other facial openings and come rushing into your mouth. You deal `8d4` negative damage to the target.
 

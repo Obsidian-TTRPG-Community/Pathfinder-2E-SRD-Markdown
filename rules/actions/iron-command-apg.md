@@ -17,7 +17,7 @@ aliases: ["Iron Command"]
 *Source: Advanced Player's Guide p. 116*  
 
 **Class** champion; **Subclass** Tyrant
-- **Trigger** An enemy within 15 feet damages you.
+- **Trigger**: An enemy within 15 feet damages you.
 - **Activity**: Reaction
 
 You put an impertinent foe who dared harm you in their proper place. You command your enemy to kneel before you in obedience. If they dare to refuse, they must pay the price in pain and anguish. The foe must choose one of the following options.

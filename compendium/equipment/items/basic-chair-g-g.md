@@ -14,4 +14,6 @@ aliases: ["Basic Chair"]
 
 This common wheelchair is ideal for everyday use, but isn't designed for adventuring. Basic chairs are most common among non-adventurers.
 
+
+---
 *Source: Guns & Gears p. 91*

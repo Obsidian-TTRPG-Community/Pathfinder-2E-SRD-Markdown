@@ -20,7 +20,6 @@ Beings of any alignment can inhabit a living vessel. Evil-aligned beings, especi
 ````ad-embed-feat
 title: Living Vessel Dedication, Feat 2
 collapse: closed
-# Living Vessel Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 
@@ -33,7 +32,7 @@ You need to spend at least an hour each day assuaging the entity within you or y
 You also gain the Entity's Resurgence reaction, allowing you to unleash your entity in lieu of falling [unconscious](rules/conditions.md#Unconscious), though at the risk of letting it enact its will.
 
 ```ad-embed-ability
-title: Entity's Resurgence [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Entity's Resurgence** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: You would be reduced to 0 Hit Points but not immediately killed
 
@@ -53,7 +52,6 @@ No matter the entity's nature, the entity is sure to wreak vengeance upon the fo
 ```ad-embed-feat
 title: Entity's Strike, Feat 4
 collapse: closed
-# Entity's Strike  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Living Vessel Dedication](compendium/feats/living-vessel-dedication-da.md)
@@ -69,7 +67,6 @@ Whether you grow horns to match the wild hunt fey within you, develop a claw lik
 ```ad-embed-feat
 title: Tap Vitality, Feat 6
 collapse: closed
-# Tap Vitality  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  
 
 - **Prerequisites**: [Living Vessel Dedication](compendium/feats/living-vessel-dedication-da.md)
@@ -87,7 +84,6 @@ You tap into the entity's life force to heal your wounds, though at the cost of 
 ```ad-embed-feat
 title: Exude Abyssal Corruption, Feat 8
 collapse: closed
-# Exude Abyssal Corruption  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Prerequisites**: [Living Vessel Dedication](compendium/feats/living-vessel-dedication-da.md), your entity is a demon
@@ -104,7 +100,6 @@ At 14th level, the poison damage increases to `2d6`, and at 20th level, the pois
 ```ad-embed-feat
 title: Fey's Trickery, Feat 8
 collapse: closed
-# Fey's Trickery  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
 - **Prerequisites**: [Living Vessel Dedication](compendium/feats/living-vessel-dedication-da.md), your entity is a fey
@@ -120,7 +115,6 @@ You connect with the fey trickster within yourself to create whimsical illusory 
 ```ad-embed-feat
 title: Warped Constriction, Feat 8
 collapse: closed
-# Warped Constriction  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Living Vessel Dedication](compendium/feats/living-vessel-dedication-da.md), your entity is an aberration or outer entity
@@ -136,7 +130,6 @@ The entity inhabiting your body is an aberrant being with unfathomable motivatio
 ```ad-embed-feat
 title: Vessel's Form, Feat 16*
 collapse: closed
-# Vessel's Form  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 16*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
 > [!pf2-note] This version of [Vessel's Form](compendium/feats/vessels-form-da.md) is intended for use with the Living Vessel Archetype. Its level has been changed accordingly.

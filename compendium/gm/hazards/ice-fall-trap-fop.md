@@ -17,14 +17,12 @@ Compartments in the ceiling are rigged to drop a freezing alchemical liquid into
 
 - **Disable** [Thievery](compendium/skills.md#Thievery) DC 20 (trained) on the door allows it to be opened without springing the trap.  
 
-- **AC** 20 , **Fort** +11, **Ref** +7
+- **AC** 20, **Fort** +11, **Ref** +7
 - **Hardness** 8, **HP** 44 (BT 22)
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Ice Fall [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Ice Fall** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: The door is attacked or opened without using the key.
 

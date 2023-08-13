@@ -16,10 +16,12 @@ aliases: ["Main-gauche"]
 
 - **Price** 5 sp
 - **Bulk** L
-- **Damage** `1d4` P
+  - **Damage**: `1d4` P
 - **Hands** 1
 - **Category** Martial; **Group** Knife 
 
 This parrying dagger features a robust guard to protect the wielder's hand.
 
+
+---
 *Source: Core Rulebook p. 281*

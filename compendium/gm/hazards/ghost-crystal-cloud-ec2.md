@@ -17,25 +17,27 @@ The xulgath corpse splits open to release a cloud of tiny ectoplasmic crystals w
 
 - **Disable** DC 26 [Arcana](compendium/skills.md#Arcana) or Occult (expert) to render the crystal cloud inert.  
 
-- **AC** 27 , **Fort** +17, **Ref** +13
+- **AC** 27, **Fort** +17, **Ref** +13
 - **HP** 70
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Ectoplasmic Explosion [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Ectoplasmic Explosion** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature touches or disturbs the corpse containing the growth of crystals
 
 **Effect** All creatures within 10 feet of the corpse are exposed to the ghost crystal cloud.
 ```
 ```ad-embed-ability
-title: Ghost Crystal Cloud
-[inhaled](rules/traits/inhaled.md "Inhaled Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
+title: **Ghost Crystal Cloud**  ([inhaled](rules/traits/inhaled.md), [poison](rules/traits/poison.md))
+> [!pf2-note] 
+> Creatures with the [ethereal](rules/traits/ethereal.md "Ethereal Creature Trait") trait are immune
+
 
   
-%% #trait/inhaled #trait/poison %%
+%%
+ #trait/inhaled  #trait/poison 
+%%
 ```
 
 **Reset** The crystals regrow into a number sufficient to form another dangerous cloud after 1 week.  

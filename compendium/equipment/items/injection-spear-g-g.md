@@ -14,10 +14,12 @@ aliases: ["Injection Spear"]
 
 - **Price** 3 gp
 - **Bulk** 1
-- **Damage** `1d8` P
+  - **Damage**: `1d8` P
 - **Hands** 2
 - **Category** Martial; **Group** Spear 
 
 A hollow receptacle inside this spear's head can store a single dose of poison. A sliding trigger along the spear's shaft can inject the loaded poison into a damaged target.
 
+
+---
 *Source: Guns & Gears p. 63*

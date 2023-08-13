@@ -17,7 +17,7 @@ aliases: ["Create Demiplane"]
 - **Secondary Casters** 3
 - **Primary Checks** [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), [Religion](compendium/skills.md#Religion) (legendary)
 - **Secondary Checks** [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), [Religion](compendium/skills.md#Religion) (whichever three aren't used for the primary check)
-- **Targets**Up to seven willing creatures of 14th level or lower
+- **Targets**: Up to seven willing creatures of 14th level or lower
 
 Few incantations are as renowned as the power to create worlds. To cast this ritual, you must be on the Astral Plane, the Ethereal Plane, or a plane that connects to one of the two.
 

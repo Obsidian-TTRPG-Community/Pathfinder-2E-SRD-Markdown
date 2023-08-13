@@ -15,9 +15,9 @@ aliases: ["Litany Of Righteousness"]
 [champion](rules/traits/champion.md "Champion Class Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [good](rules/traits/good.md "Good Alignment Trait")  [litany](rules/traits/litany.md "Litany Spell Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**30 foot
-- **Targets**1 evil creature
-- **Duration**1 round
+- **Range**: 30 foot
+- **Targets**: 1 evil creature
+- **Duration**: 1 round
 
 Your litany denounces an evildoer, rendering it susceptible to the powers of good. The target gains weakness 7 to good.
 

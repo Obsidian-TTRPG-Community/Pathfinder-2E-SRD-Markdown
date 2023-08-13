@@ -17,14 +17,12 @@ A hollow statue filled with explosives is connected to a trip wire running along
 
 - **Disable** DC 21 [Thievery](compendium/skills.md#Thievery) (trained) to safely cut the wire.  
 
-- **AC** 21 , **Fort** +6, **Ref** +12
+- **AC** 21, **Fort** +6, **Ref** +12
 - **Hardness** 5, **HP** 30 (BT 15)
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Explosion [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Explosion** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature opens the northern door without first disabling the trip wire
 

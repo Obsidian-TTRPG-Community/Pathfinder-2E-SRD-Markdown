@@ -14,9 +14,10 @@ aliases: ["Nature's Bounty"]
 # Nature's Bounty *Focus 4*   
 [cleric](rules/traits/cleric.md "Cleric Class Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains**: [nature](compendium/setting/domains.md#Nature)
+- **Domains** [nature](compendium/setting/domains.md#Nature)
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Requirements**You have a free hand.
+- **Requirements**: You have a free hand.
+- 
 
 A palm-sized raw fruit or vegetable appears in your open hand.
 

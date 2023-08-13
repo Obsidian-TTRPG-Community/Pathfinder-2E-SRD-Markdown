@@ -15,10 +15,12 @@ aliases: ["Bec De Corbin"]
 
 - **Price** 4 gp
 - **Bulk** 2
-- **Damage** `1d8` P
+  - **Damage**: `1d8` P
 - **Hands** 2
 - **Category** Martial; **Group** Polearm 
 
 A bec de corbin is a spiked polearm that uses a hammer head to help balance the spike. The hammer portion can be used as a secondary striking surface, while the spike or fluke is specially designed to punch through armor and shields.
 
+
+---
 *Source: Treasure Vault p. 25*

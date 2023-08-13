@@ -13,7 +13,8 @@ aliases: ["Hasted Assault"]
 [magus](rules/traits/magus-som.md "Magus Class Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Duration**1 minute
+- 
+- **Duration**: 1 minute
 
 You call upon your magic to speed up your attacks. You gain the [quickened](rules/conditions.md#Quickened) condition and can use the extra action each round for only [Strike](rules/actions/strike.md) actions.
 

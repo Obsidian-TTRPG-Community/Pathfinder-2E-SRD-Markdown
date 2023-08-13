@@ -20,7 +20,7 @@ aliases: ["Groetus", "God of the End Times"]
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: artificially extend something's existence or lifespan, spread hope
-- **Areas of Concern**: apocalypse, , empty places, , oblivion, , ruins
+- **Areas of Concern**: apocalypse, empty places, oblivion, ruins
 - **Follower Alignments**: [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"), [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
@@ -39,8 +39,9 @@ When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Gr
 title: [Avatar](compendium/spells/avatar.md) of Groetus
 
 - **Speed**: Speed 70 feet, [air walk](compendium/spells/air-walk.md), ignore difficult terrain and greater difficult terrain
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") war flail ([disarm](rules/traits/disarm.md "Disarm Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [sweep](rules/traits/sweep.md "Sweep Weapon Trait"), [trip](rules/traits/trip.md "Trip Weapon Trait")), **Damage** `6d10+6` bludgeoning
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") dreadful thought **Damage** `6d6+3` mental
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") war flail (, [disarm](rules/traits/disarm.md "Disarm Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [sweep](rules/traits/sweep.md "Sweep Weapon Trait"), [trip](rules/traits/trip.md "Trip Weapon Trait")), **Damage** `6d10+6` bludgeoning 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") dreadful thought (), **Damage** `6d6+3` mental 
 ```
 
 ## Divine intercession

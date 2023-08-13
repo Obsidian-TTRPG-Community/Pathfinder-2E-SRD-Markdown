@@ -17,10 +17,10 @@ aliases: ["You're Mine"]
 
 - **Bloodline** Sorcerer
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 creature
-- **Saving Throw** Will
-- **Duration**1 round
+- **Range**: 30 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Will
+- **Duration**: 1 round
 
 You manipulate the target's emotions, potentially allowing you to control it for a brief instant. The target must attempt a Will save.
 

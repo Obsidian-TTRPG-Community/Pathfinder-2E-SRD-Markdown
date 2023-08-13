@@ -25,7 +25,6 @@ The monk archetype is a strong choice for any character that fights unarmored or
 ```ad-embed-feat
 title: Monk Dedication, Feat 2
 collapse: closed
-# Monk Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [multiclass](rules/traits/multiclass.md "Multiclass Feat Trait")  
 
 - **Prerequisites**: Strength 14, Dexterity 14
@@ -41,7 +40,6 @@ You become trained in unarmed attacks and gain the powerful fist class feature (
 ```ad-embed-feat
 title: Basic Kata, Feat 4
 collapse: closed
-# Basic Kata  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Monk Dedication](compendium/feats/monk-dedication.md)
@@ -55,7 +53,6 @@ You gain a 1st- or 2nd-level monk feat.
 ```ad-embed-feat
 title: Monk Resiliency, Feat 4
 collapse: closed
-# Monk Resiliency  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Monk Dedication](compendium/feats/monk-dedication.md), class granting no more Hit Points per level than 8 + your Constitution modifier
@@ -69,7 +66,6 @@ You gain 3 additional Hit Points for each monk archetype class feat you have. As
 ```ad-embed-feat
 title: Advanced Kata, Feat 6
 collapse: closed
-# Advanced Kata  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Basic Kata](compendium/feats/basic-kata.md)
@@ -85,7 +81,6 @@ You gain one monk feat. For the purpose of meeting its prerequisites, your monk 
 ```ad-embed-feat
 title: Monk Moves, Feat 8
 collapse: closed
-# Monk Moves  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Monk Dedication](compendium/feats/monk-dedication.md)
@@ -99,7 +94,6 @@ You gain a +10-foot status bonus to your Speed when you're not wearing armor.
 ```ad-embed-feat
 title: Monk's Flurry, Feat 10
 collapse: closed
-# Monk's Flurry  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Monk Dedication](compendium/feats/monk-dedication.md)
@@ -113,7 +107,6 @@ You gain the [Flurry of Blows](rules/actions/flurry-of-blows.md) action.
 ```ad-embed-feat
 title: Perfection's Path, Feat 12*
 collapse: closed
-# Perfection's Path  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Perfection's Path](compendium/feats/perfections-path.md) is intended for use with the Monk Archetype. Its level has been changed accordingly.

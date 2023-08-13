@@ -17,10 +17,12 @@ aliases: ["Whipstaff"]
 
 - **Price** 3 gp
 - **Bulk** L
-- **Damage** `1d6` B
+  - **Damage**: `1d6` B
 - **Hands** 2
 - **Category** Martial; **Group** Club 
 
 The whipstaff is a 5-foot-long staff carved from alchemically treated wood. Exceptionally light and well-balanced, whipstaffs are favored by travelers and martial artists who prioritize speed over power.
 
+
+---
 *Source: Treasure Vault p. 25*

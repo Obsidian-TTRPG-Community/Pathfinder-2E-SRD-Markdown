@@ -17,19 +17,21 @@ aliases: ["Nightmare Terrain"]
 What seems like an innocent stretch of land assaults trespassers with terrible illusions.
 
 - **Disable** [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), or [Religion](compendium/skills.md#Religion) DC 22 (by a hero with expert proficiency in that skill) three times to temporarily disrupt the magic, or [dispel magic](compendium/spells/dispel-magic.md) (3rd-level spell, DC 25)  
-     
+
 ```ad-embed-ability
-title: Step into Nightmares [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[illusion](rules/traits/illusion.md "Illusion School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
+title: **Step into Nightmares** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([illusion](rules/traits/illusion.md), [mental](rules/traits/mental.md), [occult](rules/traits/occult.md))
+
 
 If a creature that can see moves 10 feet into the affected area, the hazard rolls [Stealth](compendium/skills.md#Stealth) (+16) for its initiative.  
-%% #trait/illusion #trait/mental #trait/occult %%
+%%
+ #trait/illusion  #trait/mental  #trait/occult 
+%%
 ```
 
 ```ad-pf2-summary
 title: Routine
-(1 action) Terrible visions assail the minds of all creatures who can see within the affected area. Each creature must attempt a DC 24 Will saving throw.
 
+(1 action) Terrible visions assail the minds of all creatures who can see within the affected area. Each creature must attempt a DC 24 Will saving throw.
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
 > - **Success** The creature is [frightened](rules/conditions.md#Frightened).

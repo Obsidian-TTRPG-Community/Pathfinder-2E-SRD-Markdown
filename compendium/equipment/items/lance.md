@@ -14,10 +14,12 @@ aliases: ["Lance"]
 
 - **Price** 1 gp
 - **Bulk** 2
-- **Damage** `1d8` P
+  - **Damage**: `1d8` P
 - **Hands** 2
 - **Category** Martial; **Group** Spear 
 
 This spear-like weapon is used by a mounted creature to deal a great deal of damage.
 
+
+---
 *Source: Core Rulebook p. 280*

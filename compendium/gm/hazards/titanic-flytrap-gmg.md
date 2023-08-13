@@ -16,23 +16,20 @@ On the surface, a titanic flytrap appears to be a patch of the more common flytr
 
 - **Disable** DC 22 [Survival](compendium/skills.md#Survival) (trained) to mislead the flytrap's sense of weight and pressure  
 
-- **AC** 21 , **Fort** +15, **Ref** +8
+- **AC** 21, **Fort** +15, **Ref** +8
 - **HP** 56 (BT 28)
 - **Immunities** [mental](rules/traits/mental.md "Mental Effect Trait")
 - **Resistances** acid 20; fire 10
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Snap Shut [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Snap Shut** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A Small or Medium creature moves into a square that is within reach of the flytrap's [hidden](rules/conditions.md#Hidden) jaws
 
 **Effect** The flytrap's jaws snap shut, making a jaws [Strike](rules/actions/strike.md) against the triggering creature.
 ```
 ````ad-embed-ability
-title: Devour
-
-The target is trapped by the flytrap's jaws, gaining the [grabbed](rules/conditions.md#Grabbed) condition until it Escapes (DC 21). Additionally, it is exposed to the titanic flytrap toxin from the hundreds of tiny hairs that line the inside of its leaves. If the flytrap's jaws [Strike](rules/actions/strike.md) was a critical success, the target takes a –2 circumstance penalty to its saving throws against this poison. At the end of each of target's turns that it remains [grabbed](rules/conditions.md#Grabbed), the target takes `3d6` acid damage.
+title: **Devour** The target is trapped by the flytrap's jaws, gaining the [grabbed](rules/conditions.md#Grabbed) condition until it Escapes (DC 21). Additionally, it is exposed to the titanic flytrap toxin from the hundreds of tiny hairs that line the inside of its leaves. If the flytrap's jaws [Strike](rules/actions/strike.md) was a critical success, the target takes a –2 circumstance penalty to its saving throws against this poison. At the end of each of target's turns that it remains [grabbed](rules/conditions.md#Grabbed), the target takes `3d6` acid damage.
 
 ```ad-inline-affliction
 title: Titanic Flytrap Toxin

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/aoe5
-- item/category/consumable
+- item/category/consumable/
 - trait/clockwork
 - trait/consumable
 - trait/magical
@@ -15,9 +15,8 @@ aliases: ["Clockwork Rejuvenator"]
 [clockwork](rules/traits/clockwork-g-g.md "Clockwork  Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 4500 gp
-- **Usage** held in 1 hand; **Bulk** L
+- **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Interact](rules/actions/interact.md); **Requirements** The round you activate the rejuvenator, you must first spend either 1
-- **Category** Consumable
 
 This device has four finger-like latches centered around a whirring mass of gears.
 
@@ -25,4 +24,6 @@ After winding the clockwork rejuvenator, you can latch it to the chest of an adj
 
 If you wound the rejuvenator using 1 [Interact](rules/actions/interact.md) action, you can return to life a creature that died in the last 2 rounds, restoring it to 1 HP. If you wound the rejuvenator using 2 [Interact](rules/actions/interact.md) actions, you can return to life a creature that died within the last 3 rounds. After attaching, the device continues to whirl for 1 minute, restoring 10 HP per round to the target. Thereafter, the clockwork rejuvenator loses its magic and becomes inert.
 
+
+---
 *Source: Agents of Edgewatch #5: Belly of the Black Whale p. 79*

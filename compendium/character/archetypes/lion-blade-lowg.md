@@ -14,7 +14,6 @@ You've trained as a spy in service of Taldor, learning secrets of disguise, mani
 ```ad-embed-feat
 title: Lion Blade Dedication, Feat 2
 collapse: closed
-# Lion Blade Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: You are from Taldor.
@@ -31,7 +30,6 @@ Your lion blade spy training helps you conceal yourself and your identity. You b
 ```ad-embed-feat
 title: Lost In The Crowd, Feat 4
 collapse: closed
-# Lost In The Crowd  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Lion Blade Dedication](compendium/feats/lion-blade-dedication-lowg.md)
@@ -45,7 +43,6 @@ You've learned how to move as one with crowds and hide among them, vanishing int
 ```ad-embed-feat
 title: Crowd Mastery, Feat 6
 collapse: closed
-# Crowd Mastery  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Lost in the Crowd](compendium/feats/lost-in-the-crowd-lowg.md)
@@ -59,7 +56,6 @@ You use the crowd to your advantage, diverting your foes' attention to potential
 ```ad-embed-feat
 title: Expeditious Advance, Feat 6
 collapse: closed
-# Expeditious Advance  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Lion Blade Dedication](compendium/feats/lion-blade-dedication-lowg.md)
@@ -74,7 +70,6 @@ You advance and retreat quickly. You gain a +10-foot status bonus to your speed.
 ```ad-embed-feat
 title: Spy's Countermeasures, Feat 10
 collapse: closed
-# Spy's Countermeasures  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Lion Blade Dedication](compendium/feats/lion-blade-dedication-lowg.md)
@@ -90,7 +85,6 @@ If you successfully identify a [divination](rules/traits/divination.md "Divinati
 ```ad-embed-feat
 title: Flicker, Feat 12*
 collapse: closed
-# Flicker  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Flicker](compendium/feats/flicker-lowg.md) is intended for use with the Lion Blade Archetype. Its level has been changed accordingly.

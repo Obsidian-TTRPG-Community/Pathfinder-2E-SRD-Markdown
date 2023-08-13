@@ -13,11 +13,11 @@ aliases: ["Color Spray"]
 # Color Spray *Spell 1*   
 [illusion](rules/traits/illusion.md "Illusion School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Area**15-foot cone
-- **Saving Throw** Will
-- **Duration**1 or more rounds (see below)
+- **Area**: 15-foot cone
+- **Saving Throw**: Will
+- **Duration**: 1 or more rounds (see below)
 
 Swirling colors affect viewers based on their Will saves.
 

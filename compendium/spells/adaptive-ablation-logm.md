@@ -10,10 +10,11 @@ aliases: ["Adaptive Ablation"]
 # Adaptive Ablation *Focus 4*   
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  
 
-- **Domains**: [change](compendium/setting/domains.md#Change)
+- **Domains** [change](compendium/setting/domains.md#Change)
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
-- **Trigger**You take acid, cold, electricity, fire, or sonic damage.
-- **Duration**1 minute
+- **Trigger**: You take acid, cold, electricity, fire, or sonic damage.
+- 
+- **Duration**: 1 minute
 
 You shift yourself to adapt to the mystical wavelengths of the energy damage, protecting yourself from further harm. You gain resistance 5 to the triggering energy type; you gain this resistance after you take the triggering damage, so it applies only to future damage you take during the duration.
 

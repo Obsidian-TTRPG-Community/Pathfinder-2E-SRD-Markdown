@@ -12,11 +12,11 @@ aliases: ["Magic's Vessel"]
 # Magic's Vessel *Focus 1*   
 [cleric](rules/traits/cleric.md "Cleric Class Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains**: [magic](compendium/setting/domains.md#Magic)
+- **Domains** [magic](compendium/setting/domains.md#Magic)
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**touch
-- **Targets**1 creature
-- **Duration**sustained up to 1 minute
+- **Range**: touch
+- **Targets**: 1 creature
+- **Duration**: sustained up to 1 minute
 
 A creature becomes a receptacle for pure magical energy sent by your deity. The target gains a +1 status bonus to saving throws. Each time you [Cast a Spell](rules/actions/cast-a-spell.md) from your spell slots, you automatically Sustain this Spell and grant its target resistance to damage from spells until the start of your next turn. This resistance is equal to the level of the spell you cast.
 

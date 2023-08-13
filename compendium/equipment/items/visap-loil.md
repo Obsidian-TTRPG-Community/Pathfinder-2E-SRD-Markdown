@@ -17,10 +17,12 @@ aliases: ["Visap"]
 
 - **Price** 2 gp
 - **Bulk** L
-- **Damage** `1d4` S
+  - **Damage**: `1d4` S
 - **Hands** 1
 - **Category** Advanced; **Group** Knife 
 
 Two small, curved blades extend from a single hilt. There's a hollow area inside that vishkanyas can use to store an unused dose of their blood, or other poison, for the future.
 
+
+---
 *Source: Lost Omens: Impossible Lands p. 221*

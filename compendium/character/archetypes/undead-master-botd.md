@@ -18,7 +18,6 @@ The additional feats below are found in the [beastmaster](compendium/character/a
 ```ad-embed-feat
 title: Undead Master Dedication, Feat 2
 collapse: closed
-# Undead Master Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: evil alignment
@@ -36,7 +35,6 @@ Contrary to the usual rules for companions, as an undead master it's possible fo
 ```ad-embed-feat
 title: Additional Companion, Feat 4*
 collapse: closed
-# Additional Companion  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Additional Companion](compendium/feats/additional-companion-apg.md) is intended for use with the Undead Master Archetype. Its level has been changed accordingly.
@@ -54,7 +52,6 @@ Another animal joins you in your travels. It is a young animal companion that ha
 ```ad-embed-feat
 title: Mature Beastmaster Companion, Feat 4*
 collapse: closed
-# Mature Beastmaster Companion  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Mature Beastmaster Companion](compendium/feats/mature-beastmaster-companion-apg.md) is intended for use with the Undead Master Archetype. Its level has been changed accordingly.
@@ -70,7 +67,6 @@ All of your animal companions grow up, becoming mature animal companions and gai
 ```ad-embed-feat
 title: Companion's Cry, Feat 6*
 collapse: closed
-# Companion's Cry  *Feat 6*  
 [ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 > [!pf2-note] This version of [Companion's Cry](compendium/feats/companions-cry.md) is intended for use with the Undead Master Archetype. Its level has been changed accordingly.
@@ -86,7 +82,6 @@ You can urge your companion to do its utmost. You can spend 2 actions to [Comman
 ```ad-embed-feat
 title: Guardian Ghosts, Feat 8
 collapse: closed
-# Guardian Ghosts  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 - **Prerequisites**: [Undead Master Dedication](compendium/feats/undead-master-dedication-botd.md)
@@ -103,7 +98,6 @@ You magically divert some of the harm from an incoming attack away from yourself
 ```ad-embed-feat
 title: Incredible Beastmaster Companion, Feat 8*
 collapse: closed
-# Incredible Beastmaster Companion  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Incredible Beastmaster Companion](compendium/feats/incredible-beastmaster-companion-apg.md) is intended for use with the Undead Master Archetype. Its level has been changed accordingly.
@@ -121,7 +115,6 @@ They each become nimble or savage animal companions (your choice, choose for eac
 ```ad-embed-feat
 title: Their Master's Call, Feat 12*
 collapse: closed
-# Their Master's Call  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 > [!pf2-note] This version of [Their Master's Call](compendium/feats/their-masters-call-botd.md) is intended for use with the Undead Master Archetype. Its level has been changed accordingly.
@@ -138,7 +131,6 @@ In a pinch, you pull one of your inactive companions from their rest to provide 
 ```ad-embed-feat
 title: Specialized Beastmaster Companion, Feat 14*
 collapse: closed
-# Specialized Beastmaster Companion  *Feat 14*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Specialized Beastmaster Companion](compendium/feats/specialized-beastmaster-companion-apg.md) is intended for use with the Undead Master Archetype. Its level has been changed accordingly.
@@ -156,7 +148,6 @@ Your nimble and savage animal companions become cunning enough to become special
 ```ad-embed-feat
 title: Lead The Pack, Feat 16*
 collapse: closed
-# Lead The Pack  *Feat 16*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 > [!pf2-note] This version of [Lead The Pack](compendium/feats/lead-the-pack-apg.md) is intended for use with the Undead Master Archetype. Its level has been changed accordingly.

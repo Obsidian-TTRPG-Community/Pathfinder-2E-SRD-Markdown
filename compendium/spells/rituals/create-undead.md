@@ -17,8 +17,8 @@ aliases: ["Create Undead"]
 - **Secondary Casters** 1
 - **Primary Checks** [Arcana](compendium/skills.md#Arcana) (expert), [Occultism](compendium/skills.md#Occultism) (expert), or [Religion](compendium/skills.md#Religion) (expert)
 - **Secondary Checks** [Religion](compendium/skills.md#Religion)
-- **Range**10 feet
-- **Targets**1 dead creature
+- **Range**: 10 feet
+- **Targets**: 1 dead creature
 
 You transform the target into an undead creature with a level up to that allowed in [Table 7–1](rules/tables/creature-creation-rituals.md). There are many versions of this ritual, each specific to a particular type of undead (one ritual for all zombies, one for skeletons, one for ghouls, and so on), and the rituals that create rare undead are also rare. Some forms of undead, such as liches, form using their own unique methods and can't be created with a version of create undead.
 

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
-- item/category/worn
+- item/category/worn/
 - trait/divination
 - trait/magical
 aliases: ["Spyglass Eye"]
@@ -12,15 +12,18 @@ aliases: ["Spyglass Eye"]
 [divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 160 gp
-- **Usage** worn; **Bulk** L
-- **Category** Worn
+- **Bulk** L; **Usage** worn
 
 Polished to a perfect surface and incredibly clear, this special magical prosthetic eye allows you to clearly see small details as well as things a great distance away.
 
 ```ad-embed-ability
-title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
+title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") envision
 
-A magical lens of hardened air comes into being in front of the eye, allowing you to see as though you were looking through a fine spyglass for 1 minute.
+- **Frequency**: once per hour
+
+**Effect** A magical lens of hardened air comes into being in front of the eye, allowing you to see as though you were looking through a fine spyglass for 1 minute.
 ```
 
+
+---
 *Source: Treasure Vault p. 108*

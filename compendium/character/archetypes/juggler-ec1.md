@@ -14,7 +14,6 @@ You're a skilled performer, with impressive balance and coordination that help y
 ```ad-embed-feat
 title: Juggler Dedication, Feat 2
 collapse: closed
-# Juggler Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: Dexterity 14
@@ -30,7 +29,6 @@ You become trained in [Performance](compendium/skills.md#Performance); if you we
 ```ad-embed-feat
 title: Focused Juggler, Feat 4
 collapse: closed
-# Focused Juggler  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Juggler Dedication](compendium/feats/juggler-dedication-ec1.md)
@@ -48,7 +46,6 @@ Increase the maximum number of items you can Juggle by one.
 ```ad-embed-feat
 title: Quick Juggler, Feat 4
 collapse: closed
-# Quick Juggler  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: expert in [Performance](compendium/skills.md#Performance), [Juggler Dedication](compendium/feats/juggler-dedication-ec1.md)
@@ -62,7 +59,6 @@ When you start to Juggle or add another item to those you are Juggling, you add 
 ```ad-embed-feat
 title: Reflexive Catch, Feat 4
 collapse: closed
-# Reflexive Catch  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: expert in [Acrobatics](compendium/skills.md#Acrobatics), [Juggler Dedication](compendium/feats/juggler-dedication-ec1.md)
@@ -79,7 +75,6 @@ You grab the triggering item. If you are Juggling, you can immediately add the i
 ```ad-embed-feat
 title: Lobbed Attack, Feat 8
 collapse: closed
-# Lobbed Attack  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: master in [Performance](compendium/skills.md#Performance), [Juggler Dedication](compendium/feats/juggler-dedication-ec1.md)
@@ -95,7 +90,6 @@ You make a thrown ranged [Strike](rules/actions/strike.md) with the required wea
 ```ad-embed-feat
 title: Opportune Throw, Feat 16*
 collapse: closed
-# Opportune Throw  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 16*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 > [!pf2-note] This version of [Opportune Throw](compendium/feats/opportune-throw-ec1.md) is intended for use with the Juggler Archetype. Its level has been changed accordingly.

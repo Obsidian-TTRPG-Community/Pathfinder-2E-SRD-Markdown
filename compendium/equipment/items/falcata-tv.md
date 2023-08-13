@@ -12,10 +12,12 @@ aliases: ["Falcata"]
 
 - **Price** 3 gp
 - **Bulk** 1
-- **Damage** `1d8` S
+  - **Damage**: `1d8` S
 - **Hands** 1
 - **Category** Advanced; **Group** Sword 
 
 The falcata is a heavy, one-handed sword with a single cutting edge, usually flaring to be wider towards the point of the weapon and narrower towards the hilt.
 
+
+---
 *Source: Treasure Vault p. 25*

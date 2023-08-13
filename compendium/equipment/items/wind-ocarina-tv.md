@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
-- item/category/consumable
+- item/category/consumable/
 - trait/air
 - trait/aura
 - trait/consumable
@@ -15,9 +15,8 @@ aliases: ["Wind Ocarina"]
 [air](rules/traits/air.md "Air Energy & Element Trait")  [aura](rules/traits/aura.md "Aura Combat Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 50 gp
-- **Usage** held in 2 hands; **Bulk** L
+- **Bulk** L; **Usage** held in 2 hands
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Consumable
 
 A blue finish decorates the ceramic body of a wind ocarina. When you play a note on this ocarina, for 1 minute, winds sweep into strong gusts in a 5-foot emanation around you. The winds have the following effects.
 
@@ -26,4 +25,6 @@ A blue finish decorates the ceramic body of a wind ocarina. When you play a note
 - Gases, including creatures in gaseous form, can't pass through the emanation. When the emanation arises, such gases are removed from the area, including your space.
 - The area, including your space, has breathable air. Once the magic is used, the ocarina remains a non-magical virtuoso musical instrument.
 
+
+---
 *Source: Treasure Vault p. 99*

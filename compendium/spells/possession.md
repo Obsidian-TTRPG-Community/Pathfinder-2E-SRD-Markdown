@@ -14,12 +14,12 @@ aliases: ["Possession"]
 # Possession *Spell 7*   
 [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [possession](rules/traits/possession.md "Possession Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 living creature
-- **Saving Throw** Will
-- **Duration**1 minute
+- **Range**: 30 foot
+- **Targets**: 1 living creature
+- **Saving Throw**: Will
+- **Duration**: 1 minute
 
 You send your mind and soul into the target's body, attempting to take control. The target must attempt a Will save. You can choose to use the effects of a degree of success more favorable to the target if you prefer.
 

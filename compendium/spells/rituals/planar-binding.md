@@ -17,8 +17,8 @@ aliases: ["Planar Binding"]
 - **Secondary Casters** 4
 - **Primary Checks** [Arcana](compendium/skills.md#Arcana) (master) or [Occultism](compendium/skills.md#Occultism) (master)
 - **Secondary Checks** [Crafting](compendium/skills.md#Crafting); [Diplomacy](compendium/skills.md#Diplomacy) or [Intimidation](compendium/skills.md#Intimidation); [Arcana](compendium/skills.md#Arcana) or [Occultism](compendium/skills.md#Occultism) (whichever isn't used for the primary check)
-- **Range**interplanar
-- **Targets**1 extraplanar creature
+- **Range**: interplanar
+- **Targets**: 1 extraplanar creature
 
 You call forth an extraplanar creature of a level no greater than double that of the planar binding ritual's level and attempt to bargain with it. The secondary caster attempting the [Crafting](compendium/skills.md#Crafting) check creates a warding diagram to prevent the extraplanar creature from attacking or leaving during the bargain; if that caster fails or critically fails, then instead of the usual effects of a failure or critical failure of the secondary skill check, the extraplanar creature can attack or leave instead of negotiate.
 

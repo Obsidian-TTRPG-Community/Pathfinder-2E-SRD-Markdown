@@ -16,20 +16,19 @@ aliases: ["Seismic Spears Trap"]
 Lines of searing lava lance through the area, causing targets to shake as if caught in an earthquake and potentially become [petrified](rules/conditions.md#Petrified).
 
 - **Disable** [Thievery](compendium/skills.md#Thievery) DC 43 (master) to disable the wards or [dispel magic](compendium/spells/dispel-magic.md) (9th level; counteract DC 38) to counteract the ward.  
-     
+
 ```ad-embed-ability
-title: Cataclysmic Rain [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  
+title: **Cataclysmic Rain** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([arcane](rules/traits/arcane.md), [earth](rules/traits/earth.md), [fire](rules/traits/fire.md))
 
 - **Trigger**: A creature enters the marked area
 
 **Effect** Fiery spears make one [Strike](rules/actions/strike.md) against each living creature within 5 feet of the marked area.  
-%% #trait/arcane #trait/earth #trait/fire %%
+%%
+ #trait/arcane  #trait/earth  #trait/fire 
+%%
 ```
 ```ad-embed-ability
-title: Personal Quake
-
-A creature struck by a seismic spear is [clumsy](rules/conditions.md#Clumsy) for 1 round as their body shakes uncontrollably.
+title: **Personal Quake** A creature struck by a seismic spear is [clumsy](rules/conditions.md#Clumsy) for 1 round as their body shakes uncontrollably.
 
 On a critical hit, a target must succeed at a DC 39 Fortitude save or be [petrified](rules/conditions.md#Petrified) for 1 minute, or permanently on a critical failure.
 ```

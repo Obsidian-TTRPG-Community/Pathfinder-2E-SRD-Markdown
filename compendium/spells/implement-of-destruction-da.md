@@ -13,12 +13,12 @@ aliases: ["Implement of Destruction"]
 # Implement of Destruction *Spell 4*   
 [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 enemy, and 1 weapon that is either unattended or wielded by you or a willing ally
-- **Saving Throw** Will
-- **Duration**1 minute
+- **Range**: 30 foot
+- **Targets**: 1 enemy, and 1 weapon that is either unattended or wielded by you or a willing ally
+- **Saving Throw**: Will
+- **Duration**: 1 minute
 
 You solemnly declare that the target weapon will bring death to a foe, implanting an irrational fear of the weapon into the target enemy. This link echoes at the forefront of the enemy's mind, forming a looming sense of omnipresent dread. The effect is based on the target enemy's Will save.
 

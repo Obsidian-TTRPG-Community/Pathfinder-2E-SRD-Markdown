@@ -16,9 +16,9 @@ aliases: ["Soul Siphon"]
 
 - **Mystery** Oracle
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**30 foot
-- **Targets**1 living creature
-- **Saving Throw** Fortitude
+- **Range**: 30 foot
+- **Targets**: 1 living creature
+- **Saving Throw**: Fortitude
 
 You siphon off a portion of the target's soul to bolster your own vitality. The target must attempt a Fortitude save or take `1d4` negative damage. You gain temporary Hit Points equal to the total amount of HP the target loses, including the HP lost from becoming [drained](rules/conditions.md#Drained).
 

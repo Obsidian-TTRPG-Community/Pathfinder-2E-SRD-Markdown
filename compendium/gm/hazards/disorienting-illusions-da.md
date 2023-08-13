@@ -18,10 +18,9 @@ aliases: ["Disorienting Illusions"]
 Illusions cloaking this chamber cause it to appear distorted and constantly shifting, with the room and all its contents appearing tilted, irregular, and in motion.
 
 - **Disable** DC 17 [Crafting](compendium/skills.md#Crafting) (trained) to calculate the room's dimensions despite the illusions, or dispel magic (1st level; counteract DC 17) to counteract the illusions  
-     
+
 ```ad-embed-ability
-title: Disorient [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
+title: **Disorient** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([arcane](rules/traits/arcane.md), [illusion](rules/traits/illusion.md), [mental](rules/traits/mental.md), [visual](rules/traits/visual.md))
 
 - **Trigger**: A creature enters the room
 
@@ -32,7 +31,9 @@ title: Disorient [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "
 > - **Success** The creature disbelieves the illusions but still sees them. It treats the room as difficult terrain.
 > - **Failure** The creature is fooled by the illusions. It treats the room as difficult terrain and becomes [sickened](rules/conditions.md#Sickened). As long as it remains in the room, it can't reduce its [sickened](rules/conditions.md#Sickened) value below 1.
 > - **Critical Failure** As failure, but each time the creature attempts a move action, it must succeed at a DC 5 flat check or they lose the action, and on a critical failure, it also falls [prone](rules/conditions.md#Prone).  
-%% #trait/arcane #trait/illusion #trait/mental #trait/visual %%
+%%
+ #trait/arcane  #trait/illusion  #trait/mental  #trait/visual 
+%%
 ```
 
 **Reset** 1 minute  

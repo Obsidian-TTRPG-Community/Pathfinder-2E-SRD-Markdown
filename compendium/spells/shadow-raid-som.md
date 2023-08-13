@@ -12,12 +12,12 @@ aliases: ["Shadow Raid"]
 # Shadow Raid *Spell 7*   
 [illusion](rules/traits/illusion.md "Illusion School Trait")  [shadow](rules/traits/shadow.md "Shadow General Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**120 foot
-- **Area**30-foot burst
-- **Saving Throw**  basic Reflex or Will
-- **Duration**1 minute
+- **Range**: 120 foot
+- **Area**: 30-foot burst
+- **Saving Throw**:  basic Reflex or Will
+- **Duration**: 1 minute
 
 You spin illusions of flying shadows throughout the area.
 

@@ -15,11 +15,11 @@ aliases: ["Elemental Confluence"]
 # Elemental Confluence *Spell 6*   
 [air](rules/traits/air.md "Air Energy & Element Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**60 foot
-- **Area**10-foot burst
-- **Duration**sustained up to 1 minute
+- **Range**: 60 foot
+- **Area**: 10-foot burst
+- **Duration**: sustained up to 1 minute
 
 You conjure four types of elementals who combine forces to form into a chaotic storm. The confluence has AC 28 and 120 Hit Points, weakness 10 to area effects, and immunity to bleed and poison. Creatures can move through the confluence; creatures within the confluence are [concealed](rules/conditions.md#Concealed), and all creatures outside the confluence are [concealed](rules/conditions.md#Concealed) to creatures within it. When you Cast or Sustain this Spell, you choose up to two different types of elementals to act.
 

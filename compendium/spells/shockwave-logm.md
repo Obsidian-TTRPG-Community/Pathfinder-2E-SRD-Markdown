@@ -12,10 +12,10 @@ aliases: ["Shockwave"]
 # Shockwave *Spell 1*   
 [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Area**15-foot cone
-- **Saving Throw** Reflex
+- **Area**: 15-foot cone
+- **Saving Throw**: Reflex
 
 You create a wave of energy that ripples through the earth.
 

@@ -24,7 +24,6 @@ You're one of those who successfully completed the hunt and bonded with your pri
 ````ad-embed-feat
 title: Beast Gunner Dedication, Feat 6
 collapse: closed
-# Beast Gunner Dedication  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: expert with at least one type of firearm, trained in [Arcana](compendium/skills.md#Arcana) or [Crafting](compendium/skills.md#Crafting), you own a beast gun and have slain the type of creature associated with your beast gun in a fair hunt (see above)
@@ -38,7 +37,7 @@ If you already cast arcane or primal spells from spell slots, you learn one addi
 You also gain Spellsling.
 
 ```ad-embed-ability
-title: Spellsling [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")
+title: **Spellsling** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")
 
 - **Requirements**: You're wielding your bonded beast gun
 
@@ -54,7 +53,6 @@ title: Spellsling [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Action
 ```ad-embed-feat
 title: Basic Beast Gunner Spellcasting, Feat 8
 collapse: closed
-# Basic Beast Gunner Spellcasting  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Beast Gunner Dedication](compendium/feats/beast-gunner-dedication-g-g.md)
@@ -68,7 +66,6 @@ You've unlocked the first secrets of beast guns, granting you the power of their
 ```ad-embed-feat
 title: Call Gun, Feat 8*
 collapse: closed
-# Call Gun  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  
 
 > [!pf2-note] This version of [Call Gun](compendium/feats/call-gun-g-g.md) is intended for use with the Beast Gunner Archetype. Its level has been changed accordingly.
@@ -86,7 +83,6 @@ Call Gun [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single A
 ```ad-embed-feat
 title: Drain Vitality, Feat 10
 collapse: closed
-# Drain Vitality  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 - **Prerequisites**: [Beast Gunner Dedication](compendium/feats/beast-gunner-dedication-g-g.md)
@@ -103,7 +99,6 @@ You draw out the bestial magic energy within your bonded beast gun to fortify yo
 ```ad-embed-feat
 title: Expert Beast Gunner Spellcasting, Feat 12*
 collapse: closed
-# Expert Beast Gunner Spellcasting  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Expert Beast Gunner Spellcasting](compendium/feats/expert-beast-gunner-spellcasting-g-g.md) is intended for use with the Beast Gunner Archetype. Its level has been changed accordingly.
@@ -119,7 +114,6 @@ You've learned the deeper secrets of beast guns, making you an expert in the mag
 ```ad-embed-feat
 title: Controlled Bullet, Feat 16*
 collapse: closed
-# Controlled Bullet  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 16*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 > [!pf2-note] This version of [Controlled Bullet](compendium/feats/controlled-bullet-g-g.md) is intended for use with the Beast Gunner Archetype. Its level has been changed accordingly.
@@ -139,7 +133,6 @@ You can continue to make [Strikes](rules/actions/strike.md) against new targets 
 ```ad-embed-feat
 title: Master Beast Gunner Spellcasting, Feat 18*
 collapse: closed
-# Master Beast Gunner Spellcasting  *Feat 18*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Master Beast Gunner Spellcasting](compendium/feats/master-beast-gunner-spellcasting-g-g.md) is intended for use with the Beast Gunner Archetype. Its level has been changed accordingly.

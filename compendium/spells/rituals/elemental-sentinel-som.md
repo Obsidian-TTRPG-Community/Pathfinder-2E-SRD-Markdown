@@ -14,7 +14,7 @@ aliases: ["Elemental Sentinel"]
 - **Cast** 1 day
 - **Cost** precious metals, rare incense, and herbs worth a total value of 15 gp per spell level
 - **Primary Checks** [Arcana](compendium/skills.md#Arcana) (expert) or [Occultism](compendium/skills.md#Occultism) (expert)
-- **Targets**1 object
+- **Targets**: 1 object
 
 You place a tiny elemental wisp within a single object, usually a mirror, statue, or other mundane-looking item, to serve as an alarm. Shattering or otherwise destroying the object frees the wisp and ends the ritual's effect even if the object is magically restored.
 

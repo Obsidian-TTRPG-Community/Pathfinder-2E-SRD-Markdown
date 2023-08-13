@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/injury
@@ -14,9 +14,8 @@ aliases: ["Dancing Lamentation"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [injury](rules/traits/injury.md "Injury Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Price** 240 gp
-- **Usage** held in 2 hands; **Bulk** L
+- **Bulk** L; **Usage** held in 2 hands
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 This toxin erratically stimulates the limbs, forcing unexpected shifts in momentum. The result resembles a gangly, lurching dance. At the start of each turn, the victim takes one or more Steps in a random direction if able. This movement is forced and doesn't count against the victim's actions for the round.
 
@@ -34,4 +33,6 @@ title: Saving Throw: DC 30 Fortitude
 **Stage 3** `8d6` poison damage, [clumsy](rules/conditions.md#Clumsy), 2 Steps of forced movement (1 round)
 ```
 
+
+---
 *Source: Treasure Vault p. 68*

@@ -12,10 +12,10 @@ aliases: ["Protector's Sacrifice"]
 # Protector's Sacrifice *Focus 1*   
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [cleric](rules/traits/cleric.md "Cleric Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains**: [protection](compendium/setting/domains.md#Protection)
+- **Domains** [protection](compendium/setting/domains.md#Protection)
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
-- **Trigger**An ally within 30 feet takes damage.
-- **Range**30 foot
+- **Trigger**: An ally within 30 feet takes damage.
+- **Range**: 30 foot
 
 You protect your ally by suffering in their stead. Reduce the damage the triggering ally would take by 3. You redirect this damage to yourself, but your immunities, weaknesses, resistances and so on do not apply.
 

@@ -10,11 +10,11 @@ aliases: ["Chroma Leach"]
 # Chroma Leach *Spell 4*   
 [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
-- **Traditions**: [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Targets**1 living creature
-- **Saving Throw** Fortitude
+- **Range**: touch
+- **Targets**: 1 living creature
+- **Saving Throw**: Fortitude
 
 Your hand glows with impossible colors from beyond the stars, and your touch saps both color and vitality from the living.
 

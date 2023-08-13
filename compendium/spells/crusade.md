@@ -13,11 +13,11 @@ aliases: ["Crusade"]
 # Crusade *Spell 9*   
 [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**60 foot
-- **Targets**up to 4 creatures
-- **Duration**10 minutes
+- **Range**: 60 foot
+- **Targets**: up to 4 creatures
+- **Duration**: 10 minutes
 
 You issue a divine mandate to the targets. you pronounce a cause. It can be to attain an item, claim a patch of land, slay a creature, war with a group, or be entirely peaceful.
 

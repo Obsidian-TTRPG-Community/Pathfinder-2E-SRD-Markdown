@@ -18,7 +18,7 @@ aliases: ["Torag", "Father of Creation"]
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: tell lies or cheat someone, intentionally create inferior works, show mercy to the enemies of your people
-- **Areas of Concern**: the forge, , protection, , and strategy
+- **Areas of Concern**: the forge, protection, and strategy
 - **Follower Alignments**: [LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait")
 
 ## Devotee benefits
@@ -36,7 +36,7 @@ title: [Avatar](compendium/spells/avatar.md) of Torag
 
 - **Speed**: Speed 50 feet, burrow 30 feet, immune to [immobilized](rules/conditions.md#Immobilized)
 - **Shield**: shield (15 Hardness, can't be damaged)
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") warhammer ([reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [shove](rules/traits/shove.md "Shove Weapon Trait")), **Damage** `6d8+6` bludgeoning
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") warhammer (, [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [shove](rules/traits/shove.md "Shove Weapon Trait")), **Damage** `6d8+6` bludgeoning 
 ```
 
 ## Divine intercession

@@ -11,11 +11,11 @@ aliases: ["Black Tentacles"]
 # Black Tentacles *Spell 5*   
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**120 foot
-- **Area**20-foot burst adjacent to a flat surface
-- **Duration**1 minute
+- **Range**: 120 foot
+- **Area**: 20-foot burst adjacent to a flat surface
+- **Duration**: 1 minute
 
 Oily black tentacles rise up and attempt to [Grapple](rules/actions/grapple.md) each creature in the area. Make spell attack rolls against the Fortitude DC of each creature. Any creature you succeed against is [grabbed](rules/conditions.md#Grabbed) and takes `3d6` bludgeoning damage. Whenever a creature ends its turn in the area, the tentacles attempt to grab that creature if they haven't already, and they deal `1d6` bludgeoning damage to any creature already [grabbed](rules/conditions.md#Grabbed).
 

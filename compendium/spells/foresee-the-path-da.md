@@ -14,9 +14,9 @@ aliases: ["Foresee the Path"]
 [cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Range**60 foot
-- **Targets**1 ally and 1 enemy
-- **Duration**sustained up to 1 minute
+- **Range**: 60 foot
+- **Targets**: 1 ally and 1 enemy
+- **Duration**: sustained up to 1 minute
 
 You see just a split second into the future and glean how an enemy will move, making it easier for your allies to strike it mid-action. Make a [Perception](compendium/skills.md#Perception) check against the target enemy's Will DC or [Deception](compendium/skills.md#Deception) DC, whichever is higher. The GM may judge a different DC is more appropriate if it's higher; for instance, using the [Warfare Lore](compendium/skills.md#Lore) DC of a military captain. The target is then temporarily immune for 1 minute.
 

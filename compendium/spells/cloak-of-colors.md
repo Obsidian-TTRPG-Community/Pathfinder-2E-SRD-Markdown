@@ -11,11 +11,11 @@ aliases: ["Cloak Of Colors"]
 # Cloak Of Colors *Spell 5*   
 [illusion](rules/traits/illusion.md "Illusion School Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 creature
-- **Duration**1 minute
+- **Range**: 30 foot
+- **Targets**: 1 creature
+- **Duration**: 1 minute
 
 A cloak of swirling colors shrouds the target. Creatures are [dazzled](rules/conditions.md#Dazzled) while adjacent to it, and attacking the target causes a brilliant flash of light. A creature that hits the target with a melee attack must attempt a Will save.
 

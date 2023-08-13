@@ -15,8 +15,8 @@ aliases: ["Ki Blast"]
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") to [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Area**15-foot cone or more
-- **Saving Throw** Fortitude
+- **Area**: 15-foot cone or more
+- **Saving Throw**: Fortitude
 
 You unleash your ki as a powerful blast of force that deals `2d6` force damage. If you use 2 actions to cast [ki blast](compendium/spells/ki-blast.md), increase the size of the cone to 30 feet and the damage to `3d6`. If you use 3 actions to cast [ki blast](compendium/spells/ki-blast.md), increase the size of the cone to 60 feet and the damage to `4d6`. Each creature in the area must attempt a Fortitude saving throw.
 

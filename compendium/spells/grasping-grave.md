@@ -15,9 +15,9 @@ aliases: ["Grasping Grave"]
 
 - **Bloodline** Sorcerer
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**60 foot
-- **Area**20-foot radius on the ground
-- **Saving Throw** Reflex
+- **Range**: 60 foot
+- **Area**: 20-foot radius on the ground
+- **Saving Throw**: Reflex
 
 Hundreds of skeletal arms erupt from the ground in the area, clawing at creatures within and attempting to hold them in place. The skeletal arms deal `6d6` slashing damage. Each creature in the area must attempt a Reflex save.
 

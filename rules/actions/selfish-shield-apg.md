@@ -13,7 +13,7 @@ aliases: ["Selfish Shield"]
 *Source: Advanced Player's Guide p. 116*  
 
 **Class** champion; **Subclass** Desecrator
-- **Trigger** An enemy within 15 feet damages you.
+- **Trigger**: An enemy within 15 feet damages you.
 - **Activity**: Reaction
 
 Your self-interest keeps you safe. You gain resistance against the triggering damage equal to 2 + half your level, regardless of damage type.

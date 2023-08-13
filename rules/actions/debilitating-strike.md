@@ -12,7 +12,7 @@ aliases: ["Debilitating Strike"]
 *Source: Core Rulebook p. 182*  
 
 **Class** rogue
-- **Trigger** Your [Strike](rules/actions/strike.md) hits a [flat-footed](rules/conditions.md#Flat-footed) creature and deals damage.
+- **Trigger**: Your [Strike](rules/actions/strike.md) hits a [flat-footed](rules/conditions.md#Flat-footed) creature and deals damage.
 - **Activity**: Free Action
 
 You apply one of the following debilitations, which lasts until the end of your next turn.

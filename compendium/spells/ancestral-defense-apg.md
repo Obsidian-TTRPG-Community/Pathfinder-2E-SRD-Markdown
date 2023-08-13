@@ -17,7 +17,8 @@ aliases: ["Ancestral Defense"]
 
 - **Mystery** Oracle
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
-- **Trigger**You are about to attempt a Will save.
+- **Trigger**: You are about to attempt a Will save.
+- 
 
 Your ancestor protects you against those who would bend your will. You roll the triggering save twice and use the better result. If you're in an encounter when you cast this spell, you immediately roll to change your predominant ancestor.
 

@@ -14,7 +14,6 @@ Knowledge is power, and you labor in pursuit of that power. No matter the situat
 ```ad-embed-feat
 title: Loremaster Dedication, Feat 2
 collapse: closed
-# Loremaster Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: trained in at least one skill to [Decipher Writing](rules/actions/decipher-writing.md)
@@ -32,7 +31,6 @@ If you have the [Bardic Lore](compendium/feats/bardic-lore.md) class feat, you g
 ```ad-embed-feat
 title: Loremaster's Etude, Feat 4*
 collapse: closed
-# Loremaster's Etude  *Feat 4*  
 [bard](rules/traits/bard.md "Bard Class Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  
 
 > [!pf2-note] This version of [Loremaster's Etude](compendium/feats/loremasters-etude.md) is intended for use with the Loremaster Archetype. Its level has been changed accordingly.
@@ -48,7 +46,6 @@ You magically unlock memories, making them easier to recall. You learn the [lore
 ```ad-embed-feat
 title: Magical Edification, Feat 4
 collapse: closed
-# Magical Edification  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Loremaster Dedication](compendium/feats/loremaster-dedication-apg.md)
@@ -62,7 +59,6 @@ You've learned those tidbits of magic that are most conducive to furthering your
 ```ad-embed-feat
 title: Orthographic Mastery, Feat 4
 collapse: closed
-# Orthographic Mastery  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: [Loremaster Dedication](compendium/feats/loremaster-dedication-apg.md)
@@ -76,7 +72,6 @@ You understand the principles that underlie all written words, allowing you to r
 ```ad-embed-feat
 title: Quick Study, Feat 4
 collapse: closed
-# Quick Study  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Loremaster Dedication](compendium/feats/loremaster-dedication-apg.md)
@@ -90,7 +85,6 @@ During your daily preparations, you can study a particular subject to gain the t
 ```ad-embed-feat
 title: Assured Knowledge, Feat 8*
 collapse: closed
-# Assured Knowledge  *Feat 8*  
 [bard](rules/traits/bard.md "Bard Class Trait")  
 
 > [!pf2-note] This version of [Assured Knowledge](compendium/feats/assured-knowledge-apg.md) is intended for use with the Loremaster Archetype. Its level has been changed accordingly.
@@ -106,7 +100,6 @@ You can procure information with confidence. Whenever you [Recall Knowledge](rul
 ```ad-embed-feat
 title: Greater Magical Edification, Feat 10
 collapse: closed
-# Greater Magical Edification  *Feat 10*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Magical Edification](compendium/feats/magical-edification-apg.md)
@@ -120,7 +113,6 @@ You've continued to expand your compendium of tools to compile knowledge. You ca
 ```ad-embed-feat
 title: Enigma's Knowledge, Feat 14*
 collapse: closed
-# Enigma's Knowledge  *Feat 14*  
 [bard](rules/traits/bard.md "Bard Class Trait")  
 
 > [!pf2-note] This version of [Enigma's Knowledge](compendium/feats/enigmas-knowledge-apg.md) is intended for use with the Loremaster Archetype. Its level has been changed accordingly.
@@ -138,7 +130,6 @@ You gain the benefits of the [Automatic Knowledge](compendium/feats/automatic-kn
 ```ad-embed-feat
 title: True Hypercognition, Feat 16*
 collapse: closed
-# True Hypercognition  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 16*  
 [bard](rules/traits/bard.md "Bard Class Trait")  
 
 > [!pf2-note] This version of [True Hypercognition](compendium/feats/true-hypercognition.md) is intended for use with the Loremaster Archetype. Its level has been changed accordingly.

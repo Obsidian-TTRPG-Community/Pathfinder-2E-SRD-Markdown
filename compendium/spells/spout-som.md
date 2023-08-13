@@ -13,11 +13,11 @@ aliases: ["Spout"]
 # Spout *Cantrip 1*   
 [cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Area**a 5-foot cube
-- **Saving Throw** Reflex
+- **Range**: 30 foot
+- **Area**: a 5-foot cube
+- **Saving Throw**: Reflex
 
 Water blasts upward, coming out of the ground, rising from a pool, or even manifesting from thin air. Any creatures in the area take bludgeoning damage equal to `1d4` plus your spellcasting ability modifier, with a basic Reflex saving throw.
 

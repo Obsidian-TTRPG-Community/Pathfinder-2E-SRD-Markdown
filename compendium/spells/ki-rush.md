@@ -13,6 +13,7 @@ aliases: ["Ki Rush"]
 [monk](rules/traits/monk.md "Monk Class Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
+- 
 
 Accelerated by your ki, you move with such speed you become a blur. Move two times: two [Strides](rules/actions/stride.md), two [Steps](rules/actions/step.md), or one [Stride](rules/actions/stride.md) and one [Step](rules/actions/step.md) (in either order). You gain the [concealed](rules/conditions.md#Concealed) condition during this movement and until the start of your next turn.
 

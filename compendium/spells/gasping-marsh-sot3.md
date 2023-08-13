@@ -13,12 +13,12 @@ aliases: ["Gasping Marsh"]
 # Gasping Marsh *Spell 3*   
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Area**10-foot burst
-- **Saving Throw**  basic Fortitude
-- **Duration**sustained up to 1 minute
+- **Range**: 30 foot
+- **Area**: 10-foot burst
+- **Saving Throw**:  basic Fortitude
+- **Duration**: sustained up to 1 minute
 
 With a rattling hiss, you create a quickly evaporating mist of [invisible](rules/conditions.md#Invisible) poisonous marsh gas to smother creatures in the area. When you [Sustain the Spell](rules/actions/sustain-a-spell.md), the mist dissipates completely from the previous area, and you can select a new area within range to fill with the mist. If you don't [Sustain the Spell](rules/actions/sustain-a-spell.md), the mist dissipates and the spell ends. You deal `4d6` poison damage to each breathing creature that starts its turn in the area. Each affected creature must attempt a Fortitude save. The creature is then temporarily immune to gasping marsh for 1 minute.
 

@@ -14,10 +14,12 @@ aliases: ["Talwar"]
 
 - **Price** 2 gp
 - **Bulk** 1
-- **Damage** `1d6` S
+  - **Damage**: `1d6` S
 - **Hands** 1
 - **Category** Martial; **Group** Sword 
 
 Longer, and with less curve than a scimitar, this blade is ubiquitous in guard and mercenary groups throughout Casmaron.
 
+
+---
 *Source: Lost Omens: Impossible Lands p. 221*

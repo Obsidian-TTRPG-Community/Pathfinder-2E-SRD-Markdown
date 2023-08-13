@@ -17,7 +17,7 @@ aliases: ["The Deliberate Journey"]
 
 - **Category**: Pantheon
 - **Anathema**: fail to prepare for a journey, let chance decide which way to go, put travelers under you care in danger
-- **Areas of Concern**: caravans, , crossroads, , knowing the way, , travel by road
+- **Areas of Concern**: caravans, crossroads, knowing the way, travel by road
 - **Follower Alignments**: [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait")
 
 ## Devotee benefits

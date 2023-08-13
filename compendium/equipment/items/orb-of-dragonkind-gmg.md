@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/gmg
-- item/category/artifact
+- item/category/artifact/
 - trait/arcane
 - trait/artifact
 - trait/enchantment
@@ -13,8 +13,7 @@ aliases: ["Orb Of Dragonkind"]
 # Orb Of Dragonkind *Item 25*  
 [arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
 
-- **Usage** held in 1 hand; **Bulk** 1
-- **Category** Artifact
+- **Bulk** 1; **Usage** held in 1 hand
 
 Each of the legendary orbs of dragonkind contains the essence and personality of a powerful dragon, with each of the 10 most famous orbs preserving a different type of metallic or chromatic dragon's spirit. It is believed that orbs for other types of true dragons exist, though that theory is yet to be confirmed.
 
@@ -27,15 +26,20 @@ Bearing an orb of dragonkind earns you the enmity of all dragonkind forever beca
 Spell Granted (DC 40) black dragon (darkness), blue dragon (hallucinatory terrain), brass dragon (speak with animals), bronze dragon (control water), copper dragon (hideous laughter), green dragon (entangle), red dragon (wall of fire), silver dragon (detect alignment [evil only]), white dragon (wall of ice)
 
 ```ad-embed-ability
-title: Activate [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")
+title: **Activate** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") command
+
 
 You cast a 10th-level [dominate](compendium/spells/dominate.md) spell (DC 40) on a dragon of the type associated with the orb within 500 feet, except the effect lasts for 1 month rather than unlimited. The dragon does not receive its status bonus to saving throws against magic. The dragon is then temporarily immune to further domination via the orb for 24 hours.
 ```
 
 ```ad-embed-ability
-title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
+title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") envision, [Interact](rules/actions/interact.md)
 
-You breathe an elemental blast that deals `25d6` damage (DC 40 basic Reflex save) in either a 60-foot cone or a 100-foot line (your choice). The breath's damage type matches the Breath Weapon of the dragon type associated with the orb of dragonkind (acid for the black orb, electricity for the blue orb, and so on)
+- **Frequency**: three per day
+
+**Effect** You breathe an elemental blast that deals `25d6` damage (DC 40 basic Reflex save) in either a 60-foot cone or a 100-foot line (your choice). The breath's damage type matches the Breath Weapon of the dragon type associated with the orb of dragonkind (acid for the black orb, electricity for the blue orb, and so on)
 ```
 
+
+---
 *Source: Gamemastery Guide p. 110*

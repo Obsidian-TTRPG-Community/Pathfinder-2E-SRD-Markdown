@@ -14,13 +14,15 @@ aliases: ["Mirror-Risen"]
 You were created from magic involving mirrors and still retain some ability to seek refuge in reflected illusions. You gain the Mirror's Trickery reaction.
 
 ```ad-embed-ability
-title: Mirror's Trickery [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
+title: **Mirror's Trickery** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([concentrate](rules/traits/concentrate.md), [illusion](rules/traits/illusion.md), [occult](rules/traits/occult.md), [visual](rules/traits/visual.md))
 
+- **Frequency**: once per day
 - **Trigger**: You would be hit by a [Strike](rules/actions/strike.md)
 
 **Effect** You create an illusory duplicate at the last instant and attempt to trick your foe into striking it instead of you. The attacker attempts a DC 11 flat check; on a failure, the attack hits the duplicate, changing the result from a critical success to a success or a success to a failure.  
-%% #trait/concentrate #trait/illusion #trait/occult #trait/visual %%
+%%
+ #trait/concentrate  #trait/illusion  #trait/occult  #trait/visual 
+%%
 ```
 
 ## Mirror-Risen leads to...

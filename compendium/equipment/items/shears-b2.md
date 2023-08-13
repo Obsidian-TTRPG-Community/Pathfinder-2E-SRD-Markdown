@@ -15,10 +15,12 @@ aliases: ["Shears"]
 
 - **Price** 5 sp
 - **Bulk** L
-- **Damage** `1d4` S
+  - **Damage**: `1d4` S
 - **Hands** 1
 - **Category** Simple; **Group** Knife 
 
 
 
+
+---
 *Source: Bestiary 2 p. 184*

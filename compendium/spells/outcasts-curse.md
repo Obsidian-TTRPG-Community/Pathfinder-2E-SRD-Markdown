@@ -13,11 +13,11 @@ aliases: ["Outcast's Curse"]
 # Outcast's Curse *Spell 4*   
 [curse](rules/traits/curse.md "Curse Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [misfortune](rules/traits/misfortune.md "Misfortune Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Targets**1 creature
-- **Saving Throw** Will
+- **Range**: touch
+- **Targets**: 1 creature
+- **Saving Throw**: Will
 
 You afflict the target with a curse that makes its presence abrasive and off-putting. The target must attempt a Will save.
 

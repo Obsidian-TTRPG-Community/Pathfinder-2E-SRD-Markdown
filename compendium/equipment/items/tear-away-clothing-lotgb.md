@@ -16,4 +16,6 @@ Performers and criminals are both known to use disposable clothing designed to b
 
 This garment is loose enough to be worn over another outfit, including light armor. You can remove tear-away clothing with an [Interact](rules/actions/interact.md) action. The price for tear-away clothing is to modify an existing outfit. If purchasing a new outfit, add the tear-away clothing's price to the outfit to modify it as part of the purchase.
 
+
+---
 *Source: Lost Omens: The Grand Bazaar p. 93*

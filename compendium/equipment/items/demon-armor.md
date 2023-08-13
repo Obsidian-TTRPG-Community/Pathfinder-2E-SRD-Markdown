@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/crb
-- item/category/armor
+- item/category/armor/
 - trait/divine
 - trait/evil
 - trait/invested
@@ -14,8 +14,8 @@ aliases: ["Demon Armor"]
 [divine](rules/traits/divine.md "Divine Tradition Trait")  [evil](rules/traits/evil.md "Evil Alignment Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
 - **Price** 2500 gp
-- **Usage** worn armor; **Bulk** 4
-- **Category** Armor
+- **Craft Requirements** You are evil; supply one casting of dimension door.
+- **Bulk** 4; **Usage** worn armor
 
 Crafted from black iron, this crude suit of +2 resilient full plate is designed to make you look like a horned demon, with your face peering out of the screaming maw of the beast.
 
@@ -24,9 +24,13 @@ While wearing the armor, you can attack with the helmet's horns. They are a mart
 If you aren't evil, you're [drained](rules/conditions.md#Drained) and can't recover from this condition while wearing demon armor.
 
 ```ad-embed-ability
-title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
+title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") command
 
-You cast [dimension door](compendium/spells/dimension-door.md).
+- **Frequency**: once per day
+
+**Effect** You cast [dimension door](compendium/spells/dimension-door.md).
 ```
 
+
+---
 *Source: Core Rulebook p. 557*

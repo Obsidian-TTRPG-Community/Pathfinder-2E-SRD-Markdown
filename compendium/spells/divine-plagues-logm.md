@@ -11,10 +11,10 @@ aliases: ["Divine Plagues"]
 # Divine Plagues *Focus 1*   
 [disease](rules/traits/disease.md "Disease Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
 
-- **Domains**: [plague](compendium/setting/domains.md#Plague)
+- **Domains** [plague](compendium/setting/domains.md#Plague)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**15 foot
-- **Saving Throw** Fortitude
+- **Range**: 15 foot
+- **Saving Throw**: Fortitude
 
 Your deity sends wracking plagues. The target must attempt a Fortitude save. When you [Cast the Spell](rules/actions/cast-a-spell.md), decide whether the disease inflicts the [clumsy](rules/conditions.md#Clumsy), [enfeebled](rules/conditions.md#Enfeebled), or [stupefied](rules/conditions.md#Stupefied) condition.
 

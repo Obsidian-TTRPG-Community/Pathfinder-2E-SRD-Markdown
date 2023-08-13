@@ -11,11 +11,11 @@ aliases: ["Concordant Choir"]
 # Concordant Choir *Spell 1*   
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") to [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**30 foot
-- **Targets**varies
-- **Saving Throw**  basic Fortitude
+- **Range**: 30 foot
+- **Targets**: varies
+- **Saving Throw**:  basic Fortitude
 
 You unleash a dangerous consonance of reverberating sound, focusing on a single target or spreading out to damage many foes. The number of actions you spend Casting this Spell determines its targets, range, area, and other parameters.
 

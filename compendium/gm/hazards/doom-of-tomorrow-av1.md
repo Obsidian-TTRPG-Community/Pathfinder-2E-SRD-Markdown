@@ -17,14 +17,12 @@ The sounds of devastation rise from the diorama, and a beam of shimmering energy
 
 - **Disable** DC 20 [Thievery](compendium/skills.md#Thievery) (trained) to quickly deactivate the model of Gauntlight before it triggers, or DC 23 [Stealth](compendium/skills.md#Stealth) (trained) to creep by a trap without triggering it.  
 
-- **AC** 21 , **Fort** +15, **Ref** +8
+- **AC** 21, **Fort** +15, **Ref** +8
 - **Hardness** 8, **HP** 56 (BT 28)
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Apocalypse Beam [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Apocalypse Beam** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature steps within 10 feet of the back of a diorama alcove
 

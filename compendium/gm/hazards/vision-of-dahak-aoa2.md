@@ -20,14 +20,13 @@ Blasts of fire and smoke pour out of the tunnel walls to coalesce into the burni
 
 - **Disable** [Religion](compendium/skills.md#Religion) DC 26 (expert) to utter prayers to a nonevil deity to counteract [Dahak](compendium/setting/deities/dahak-logm.md)'s presence (prayers to [Apsu](compendium/setting/deities/apsu-logm.md) allow this check to be made if the character is merely trained in [Religion](compendium/skills.md#Religion)), [Thievery](compendium/skills.md#Thievery) DC 30 (expert) to divert the hazard's energies back upon themselves, or a successful dispel magic (4th level; counteract DC 26).  
 
-- **AC** 27 , **Fort** +17, **Ref** +13
+- **AC** 27, **Fort** +17, **Ref** +13
 - **HP** 130
 - **Immunities** critical hits; [fire](rules/traits/fire.md "Fire Energy & Element Trait"); object immunities; precision damage
-- **Resistances** 
 - **Weaknesses** cold 10
-     
+
 ```ad-embed-ability
-title: Manifest [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Manifest** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature is within the way station.
 
@@ -36,14 +35,14 @@ title: Manifest [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "R
 
 ````ad-pf2-summary
 title: Routine
+
 (2 actions) The vision of [Dahak](compendium/setting/deities/dahak-logm.md) manifests next to the creature that is closest to the center of the way station, then uses its Breath Weapon in a direction that catches the most possible targets in its area.
-
 ```ad-embed-ability
-title: Breath Weapon [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
-[divine](rules/traits/divine.md "Divine Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  
-
+title: **Breath Weapon** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") ([divine](rules/traits/divine.md), [evocation](rules/traits/evocation.md), [fire](rules/traits/fire.md))
 The vision of [Dahak](compendium/setting/deities/dahak-logm.md) unleashes a blast of fire from its burning maw, creating a 60-foot cone that deals `6d6` fire damage to all creatures within (DC 26 basic Reflex save).  
-%% #trait/divine #trait/evocation #trait/fire %%
+%%
+ #trait/divine  #trait/evocation  #trait/fire 
+%%
 ```
 ````
 ^routine

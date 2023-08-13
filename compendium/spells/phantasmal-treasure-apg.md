@@ -12,12 +12,12 @@ aliases: ["Phantasmal Treasure"]
 # Phantasmal Treasure *Spell 2*   
 [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**60 foot
-- **Targets**1 living creature
-- **Saving Throw** Will
-- **Duration**varies
+- **Range**: 60 foot
+- **Targets**: 1 living creature
+- **Saving Throw**: Will
+- **Duration**: varies
 
 A phantasmal image of the most precious thing imaginable to the target appears in a location of your choice within the spell's range. Only the spell's target can see the treasure, though you can see the vague shape of the treasure—be it a pile of items, a deific avatar, or a cherished loved one or hero.
 

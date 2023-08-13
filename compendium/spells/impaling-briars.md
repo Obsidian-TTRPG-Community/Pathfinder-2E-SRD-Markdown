@@ -15,8 +15,8 @@ aliases: ["Impaling Briars"]
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [druid](rules/traits/druid.md "Druid Class Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Area**ground within a 100-foot emanation
-- **Duration**sustained up to 1 minute
+- **Area**: ground within a 100-foot emanation
+- **Duration**: sustained up to 1 minute
 
 The ground within the area transforms into a mass of dangerous briars that assault and impede your foes. The first time you [Sustain this Spell](rules/actions/sustain-a-spell.md) each round, you can select one of the following effects to occur in the area.
 

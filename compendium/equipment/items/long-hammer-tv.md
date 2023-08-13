@@ -16,10 +16,12 @@ aliases: ["Long Hammer"]
 
 - **Price** 5 gp
 - **Bulk** 2
-- **Damage** `1d8` B
+  - **Damage**: `1d8` B
 - **Hands** 2
 - **Category** Martial; **Group** Hammer 
 
 The long hammer features a pronged hammer head designed for damaging knees and ankles, counterbalanced by a stout spike and affixed to a reinforced shaft between 5 and 7 feet long.
 
+
+---
 *Source: Treasure Vault p. 25*

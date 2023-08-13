@@ -15,9 +15,11 @@ You've learned to bind some of your feathers together into a fan to focus your a
 The DC for spells you cast with your tengu feather fan is your class DC or spell DC, whichever is higher. You can cast the 1st-level [gust of wind](compendium/spells/gust-of-wind.md) spell by activating your tengu feather fan.
 
 ```ad-embed-ability
-title: Activate
+title: **Activate**  [Interact](rules/actions/interact.md)
 
-You cast one of the spells contained in your tengu feather fan. [Activating](rules/actions/activate-an-item.md) the fan takes the spell's normal number of actions. You can also Activate the fan to cast a cantrip you've gained from a heritage or ancestry feat; this activation doesn't count against the fan's uses per day.
+- **Frequency**: once per day
+
+**Effect** You cast one of the spells contained in your tengu feather fan. [Activating](rules/actions/activate-an-item.md) the fan takes the spell's normal number of actions. You can also Activate the fan to cast a cantrip you've gained from a heritage or ancestry feat; this activation doesn't count against the fan's uses per day.
 ```
 
 ## Tengu Feather Fan leads to...

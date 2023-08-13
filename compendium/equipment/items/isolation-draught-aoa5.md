@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/aoa5
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/ingested
@@ -15,9 +15,8 @@ aliases: ["Isolation Draught"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [ingested](rules/traits/ingested.md "Ingested Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 55 gp
-- **Usage** held in 1 hand; **Bulk** L
+- **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 Derived from steeping toxic highland plum pits in refined grain alcohols, this clear tonic slowly shuts down the imbiber's senses.
 
@@ -36,4 +35,6 @@ title: Saving Throw: DC 25 Fortitude
 **Stage 3** [blinded](rules/conditions.md#Blinded), [deafened](rules/conditions.md#Deafened), –5 to all [Perception](compendium/skills.md#Perception) checks (5 minutes)
 ```
 
+
+---
 *Source: Age of Ashes #5: Against the Scarlet Triad p. 79*

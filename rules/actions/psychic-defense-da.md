@@ -12,7 +12,7 @@ aliases: ["Psychic Defense"]
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 *Source: Dark Archive p. 201*  
 
-- **Trigger** Your opponent uses a psychic manifestation against you.
+- **Trigger**: Your opponent uses a psychic manifestation against you.
 - **Requirements**: You're in a psychic duel and are psychically centered.
 - **Activity**: Reaction
 

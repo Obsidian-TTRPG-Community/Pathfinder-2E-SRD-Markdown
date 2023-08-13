@@ -14,12 +14,12 @@ aliases: ["Splash Of Art"]
 # Splash Of Art *Focus 1*   
 [cleric](rules/traits/cleric.md "Cleric Class Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
-- **Domains**: [creation](compendium/setting/domains.md#Creation)
+- **Domains** [creation](compendium/setting/domains.md#Creation)
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Area**5-foot burst
-- **Saving Throw** Will
-- **Duration**varies
+- **Range**: 30 foot
+- **Area**: 5-foot burst
+- **Saving Throw**: Will
+- **Duration**: varies
 
 A deluge of colorful illusory paint, tools, or other symbols of art and artisanship drift down in the area. Roll `1d4` to determine the color of the illusion. Each creature in the area must attempt a Will save. A creature is unaffected on a success. On a failure or critical failure, the creature takes the results listed on the table relevant to the color.
 

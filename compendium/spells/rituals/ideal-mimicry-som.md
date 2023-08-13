@@ -17,8 +17,8 @@ aliases: ["Ideal Mimicry"]
 - **Secondary Casters** 1
 - **Primary Checks** [Occultism](compendium/skills.md#Occultism) (expert)
 - **Secondary Checks** [Crafting](compendium/skills.md#Crafting)
-- **Range**see text
-- **Targets**1 sentient living creature
+- **Range**: see text
+- **Targets**: 1 sentient living creature
 
 You craft a doll with care and quiet meditation on the target, inserting the fingernails into the body, tying the lock of hair around the neck of the doll, or emptying the vial of blood into the stuffing and allowing it to be absorbed. You then stuff the doll and form it to mimic the shape of the target, creating clothing and accessories for the doll that are similar to commonly worn items. You must have been within 5 feet of the target at least once and gotten a good look at them to perform this ritual. You can cast the ritual and create the doll at any range from the target.
 

@@ -10,11 +10,11 @@ aliases: ["Dismantle"]
 # Dismantle *Spell 2*   
 [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Targets**1 non-magical object in your possession of 1 Bulk or less
-- **Duration**1 minute
+- **Range**: touch
+- **Targets**: 1 non-magical object in your possession of 1 Bulk or less
+- **Duration**: 1 minute
 
 You touch an object, and it immediately disassembles itself into its component pieces. The spell fails if the target lacks component pieces (such as a statue carved from one block of stone), and using it on a dangerous object like a snare or trap typically triggers it. The object gains the [broken](rules/conditions.md#Broken) condition, and the component pieces become small enough to be [hidden](rules/conditions.md#Hidden) under normal clothing and armor. You can [Dismiss](rules/actions/dismiss.md) the spell.
 

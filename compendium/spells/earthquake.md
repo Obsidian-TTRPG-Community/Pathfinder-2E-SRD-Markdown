@@ -12,11 +12,11 @@ aliases: ["Earthquake"]
 # Earthquake *Spell 8*   
 [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**500 foot
-- **Area**60-foot burst
-- **Duration**1 round
+- **Range**: 500 foot
+- **Area**: 60-foot burst
+- **Duration**: 1 round
 
 You shake the ground, topple creatures into fissures, and collapse structures.
 

@@ -14,4 +14,6 @@ aliases: ["Basic Corrective Lenses"]
 
 A set of corrective lenses might take the form of eyeglasses or specialized goggles. You can don or remove your corrective lenses as an [Interact](rules/actions/interact.md) action.
 
+
+---
 *Source: Lost Omens: The Grand Bazaar p. 70*

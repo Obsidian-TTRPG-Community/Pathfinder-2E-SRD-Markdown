@@ -21,7 +21,7 @@ aliases: ["Nocticula", "The Redeemer Queen"]
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: deny shelter to the desperate, destroy harmless art you dislike, finish a work of art during daylight hours
-- **Areas of Concern**: artists, , exiles, , midnight
+- **Areas of Concern**: artists, exiles, midnight
 - **Follower Alignments**: [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")
 
 ## Devotee benefits
@@ -39,8 +39,9 @@ When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of No
 title: [Avatar](compendium/spells/avatar.md) of Nocticula
 
 - **Speed**: Speed 70 feet, fly 70 feet
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") tail stinger ([agile](rules/traits/agile.md "Agile Weapon Trait"), [finesse](rules/traits/finesse.md "Finesse Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [trip](rules/traits/trip.md "Trip Weapon Trait")), **Damage** `6d6+6` slashing
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") magnanimous smile ([nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait"), [visual](rules/traits/visual.md "Visual Effect Trait")), **Damage** `6d6+3` mental
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") tail stinger (, [agile](rules/traits/agile.md "Agile Weapon Trait"), [finesse](rules/traits/finesse.md "Finesse Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [trip](rules/traits/trip.md "Trip Weapon Trait")), **Damage** `6d6+6` slashing 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") magnanimous smile (, [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait"), [visual](rules/traits/visual.md "Visual Effect Trait")), **Damage** `6d6+3` mental 
 ```
 
 ## Divine intercession

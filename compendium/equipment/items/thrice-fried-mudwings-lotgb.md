@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/lotgb
-- item/category/consumable
+- item/category/consumable/
 - trait/abjuration
 - trait/consumable
 - trait/magical
@@ -14,14 +14,13 @@ aliases: ["Thrice-fried Mudwings"]
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 350 gp
-- **Usage** held in 1 hand; **Bulk** L
+- **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Consumable
 
 Frying mudwings—the remains of magical winged creatures found in blighted swamps—is a delicate balance. Cooked for too long and they lose their potency; cooked too briefly and the toxins in their system could end up harming whoever eats them. When you consume a perfectly cooked tapas, you grow two sets of mudwings that grant you a fly Speed of 30 feet or your Speed, whichever is lower, for 10 minutes. You can also use the following Activation.
 
 ```ad-embed-ability
-title: Activate [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Activate** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") [Interact](rules/actions/interact.md)
 
 - **Trigger**: You would take damage from a physical attack
 
@@ -32,4 +31,6 @@ title: Activate [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "R
 The shop's interior, which smells brightly of fresh fir tips and petrichor, is a marriage between opulence and austerity. Marble floors the color of freshly fallen snow and plaster bas-reliefs depicting birch trees frame arched entryways and extend upwards, supporting the vaulted ceilings.
 ```
 
+
+---
 *Source: Lost Omens: The Grand Bazaar p. 47*

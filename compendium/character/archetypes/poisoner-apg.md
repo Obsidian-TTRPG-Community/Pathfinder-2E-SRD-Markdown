@@ -15,7 +15,6 @@ People are so delightfully fragile when exposed to the glories of nature. The bi
 ```ad-embed-feat
 title: Poisoner Dedication, Feat 2
 collapse: closed
-# Poisoner Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: trained in [Crafting](compendium/skills.md#Crafting)
@@ -31,7 +30,6 @@ You make a point of always having a few toxins near at hand—you never know whe
 ```ad-embed-feat
 title: Poison Resistance (Alchemist), Feat 4*
 collapse: closed
-# Poison Resistance (Alchemist)  *Feat 4*  
 [alchemist](rules/traits/alchemist.md "Alchemist Class Trait")  
 
 > [!pf2-note] This version of [Poison Resistance (Alchemist)](compendium/feats/poison-resistance-alchemist.md) is intended for use with the Poisoner Archetype. Its level has been changed accordingly.
@@ -46,7 +44,6 @@ Repeated exposure to toxic reagents has fortified your body against poisons of a
 ```ad-embed-feat
 title: Poisoner's Twist, Feat 4
 collapse: closed
-# Poisoner's Twist  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Poisoner Dedication](compendium/feats/poisoner-dedication-apg.md), trained in [Medicine](compendium/skills.md#Medicine)
@@ -62,7 +59,6 @@ Poisons attack specific parts of the body—one venom might target the lungs, an
 ```ad-embed-feat
 title: Subtle Delivery, Feat 4*
 collapse: closed
-# Subtle Delivery  *Feat 4*  
 [alchemist](rules/traits/alchemist.md "Alchemist Class Trait")  
 
 > [!pf2-note] This version of [Subtle Delivery](compendium/feats/subtle-delivery-apg.md) is intended for use with the Poisoner Archetype. Its level has been changed accordingly.
@@ -77,7 +73,6 @@ You can capably deliver toxins with a blowgun. Your blowgun [Strikes](rules/acti
 ```ad-embed-feat
 title: Expert Poisoner, Feat 6
 collapse: closed
-# Expert Poisoner  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Poisoner Dedication](compendium/feats/poisoner-dedication-apg.md), expert in [Crafting](compendium/skills.md#Crafting)
@@ -91,7 +86,6 @@ Your advanced alchemy level for poison increases to your level – 3.
 ```ad-embed-feat
 title: Poison Coat, Feat 6
 collapse: closed
-# Poison Coat  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Poisoner Dedication](compendium/feats/poisoner-dedication-apg.md)
@@ -110,7 +104,6 @@ When you use this reaction, the triggering creature is exposed to the suffused p
 ```ad-embed-feat
 title: Poison Weapon, Feat 6*
 collapse: closed
-# Poison Weapon  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
 [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 > [!pf2-note] This version of [Poison Weapon](compendium/feats/poison-weapon.md) is intended for use with the Poisoner Archetype. Its level has been changed accordingly.
@@ -129,7 +122,6 @@ You apply a [poison](rules/traits/poison.md "Poison Effect Trait") to the requir
 ```ad-embed-feat
 title: Tenacious Toxins, Feat 6*
 collapse: closed
-# Tenacious Toxins  *Feat 6*  
 [alchemist](rules/traits/alchemist.md "Alchemist Class Trait")  
 
 > [!pf2-note] This version of [Tenacious Toxins](compendium/feats/tenacious-toxins-apg.md) is intended for use with the Poisoner Archetype. Its level has been changed accordingly.
@@ -144,7 +136,6 @@ Your victims tend to expire long before your poisons, since the latter have been
 ```ad-embed-feat
 title: Acquired Tolerance, Feat 8
 collapse: closed
-# Acquired Tolerance  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  
 
 - **Prerequisites**: [Poisoner Dedication](compendium/feats/poisoner-dedication-apg.md)
@@ -160,7 +151,6 @@ A small amount of poison, taken at nonlethal doses, can help the body build up a
 ```ad-embed-feat
 title: Sticky Poison, Feat 8*
 collapse: closed
-# Sticky Poison  *Feat 8*  
 [alchemist](rules/traits/alchemist.md "Alchemist Class Trait")  
 
 > [!pf2-note] This version of [Sticky Poison](compendium/feats/sticky-poison-apg.md) is intended for use with the Poisoner Archetype. Its level has been changed accordingly.
@@ -175,7 +165,6 @@ A combination of additional viscosity and careful application keeps your weapons
 ```ad-embed-feat
 title: Improved Poison Weapon, Feat 10*
 collapse: closed
-# Improved Poison Weapon  *Feat 10*  
 [rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 > [!pf2-note] This version of [Improved Poison Weapon](compendium/feats/improved-poison-weapon.md) is intended for use with the Poisoner Archetype. Its level has been changed accordingly.
@@ -191,7 +180,6 @@ You deliver poisons in ways that maximize their harmful effects. When you apply 
 ```ad-embed-feat
 title: Pinpoint Poisoner, Feat 10*
 collapse: closed
-# Pinpoint Poisoner  *Feat 10*  
 [alchemist](rules/traits/alchemist.md "Alchemist Class Trait")  
 
 > [!pf2-note] This version of [Pinpoint Poisoner](compendium/feats/pinpoint-poisoner-apg.md) is intended for use with the Poisoner Archetype. Its level has been changed accordingly.
@@ -206,7 +194,6 @@ Unsuspecting targets are especially vulnerable to your poisons. When you success
 ```ad-embed-feat
 title: Improved Poison Weapon, Feat 12*
 collapse: closed
-# Improved Poison Weapon  *Feat 12*  
 [rogue](rules/traits/rogue.md "Rogue Class Trait")  
 
 > [!pf2-note] This version of [Improved Poison Weapon](compendium/feats/improved-poison-weapon.md) is intended for use with the Poisoner Archetype. Its level has been changed accordingly.
@@ -222,7 +209,6 @@ You deliver poisons in ways that maximize their harmful effects. When you apply 
 ```ad-embed-feat
 title: Chemical Contagion, Feat 18*
 collapse: closed
-# Chemical Contagion  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 18*  
 [alchemist](rules/traits/alchemist.md "Alchemist Class Trait")  
 
 > [!pf2-note] This version of [Chemical Contagion](compendium/feats/chemical-contagion-apg.md) is intended for use with the Poisoner Archetype. Its level has been changed accordingly.

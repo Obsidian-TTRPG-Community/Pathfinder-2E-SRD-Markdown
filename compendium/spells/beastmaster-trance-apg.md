@@ -15,9 +15,9 @@ aliases: ["Beastmaster Trance"]
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**mile
-- **Targets**one of your animal companions you can perceive
-- **Duration**sustained up to 1 minute
+- **Range**: mile
+- **Targets**: one of your animal companions you can perceive
+- **Duration**: sustained up to 1 minute
 
 You enter a magical trance that allows you to perceive through the senses of the target companion. You attempt [Perception](compendium/skills.md#Perception) checks using your own [Perception](compendium/skills.md#Perception), but you have any special senses the target has, such as [low-light vision](rules/abilities/low-light-vision.md) or [darkvision](rules/abilities/darkvision.md). This spell grants no special method of communication with the chosen animal, so it follows any instructions you gave it before you entered the trance and, failing that, it does as it wishes.
 

@@ -13,10 +13,10 @@ aliases: ["Prying Survey"]
 # Prying Survey *Spell 8*   
 [divination](rules/traits/divination.md "Divination School Trait")  [scrying](rules/traits/scrying.md "Scrying Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 1 minute 
-- **Area**120-foot emanation
-- **Duration**1 hour
+- **Area**: 120-foot emanation
+- **Duration**: 1 hour
 
 You create eight [invisible](rules/conditions.md#Invisible), floating eyes, each about 3 inches in diameter, that scan the area around you, transmitting rough impressions of the environment. The eyes constantly examine and send you summaries of their findings. They are solid and can't move through barriers, and they don't follow routes that they fail to find while Searching. Any damage to an eye destroys it. When all eyes are destroyed, the spell ends.
 

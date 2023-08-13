@@ -13,12 +13,12 @@ aliases: ["Ash Cloud"]
 # Ash Cloud *Spell 2*   
 [air](rules/traits/air.md "Air Energy & Element Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**120 foot
-- **Area**20-foot burst
-- **Saving Throw** Fortitude
-- **Duration**1 minute
+- **Range**: 120 foot
+- **Area**: 20-foot burst
+- **Saving Throw**: Fortitude
+- **Duration**: 1 minute
 
 You summon a tumultuous cloud of ash and smoke. The cloud is difficult terrain for flying creatures, and creatures in the cloud can't detect anything using their sense of smell. Creatures that start their turn within the cloud take `2d4` fire damage as their lungs fill with the hot, acrid smoke, with a Fortitude save.
 

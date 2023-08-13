@@ -17,14 +17,11 @@ A trapdoor in the floor conceals a stone chute.
 
 - **Disable** DC 20 [Thievery](compendium/skills.md#Thievery) (trained) to remove the trapdoor or lock it in position using a catch [hidden](rules/conditions.md#Hidden) inside the room's doorframe.  
 
-- **AC** 12 , **Fort** +10, **Ref** +6
+- **AC** 12, **Fort** +10, **Ref** +6
 - **Trapdoor Hardness** 5, **Trapdoor HP** 30 (BT 15)
-- **Immunities** 
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Pitfall [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Pitfall** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature walks onto the trapdoor
 

@@ -15,7 +15,8 @@ aliases: ["Tesseract Tunnel"]
 [cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Duration**sustained up to 1 minute
+- 
+- **Duration**: sustained up to 1 minute
 
 You race from point to point, tearing open a tunnel in space. You create a portal in your current space and then [Stride](rules/actions/stride.md), creating another portal in the space you end your [Stride](rules/actions/stride.md). Until the beginning of your next turn, any creature that enters the first portal can immediately transport itself to the exit portal as part of its move action, which adds the [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait") trait to its movement.
 

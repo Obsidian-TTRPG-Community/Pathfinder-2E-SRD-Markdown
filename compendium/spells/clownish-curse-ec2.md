@@ -15,12 +15,12 @@ aliases: ["Clownish Curse"]
 # Clownish Curse *Spell 4*   
 [attack](rules/traits/attack.md "Attack Combat Trait")  [curse](rules/traits/curse.md "Curse Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [misfortune](rules/traits/misfortune.md "Misfortune Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Targets**1 creature
-- **Saving Throw** Will
-- **Duration**varies
+- **Range**: touch
+- **Targets**: 1 creature
+- **Saving Throw**: Will
+- **Duration**: varies
 
 You afflict the target with a curse that causes it to emit ridiculous noises as it moves. Furthermore, the target's hands and feet become awkward and uncoordinated, as though it were wearing oversized gloves and shoes.
 

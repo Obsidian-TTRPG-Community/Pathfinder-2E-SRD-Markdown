@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/gmg
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/drug
@@ -15,9 +15,8 @@ aliases: ["Zerk"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [drug](rules/traits/drug-gmg.md "Drug Item Trait")  [injury](rules/traits/injury.md "Injury Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Price** 20 gp
-- **Usage** held in 1 hand; **Bulk** L
+- **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 This bitter paste is used among some gladiatorial rings for its short-term benefits in a fight.
 
@@ -33,4 +32,6 @@ title: Saving Throw: DC 20 Fortitude
 **Stage 2** [drained](rules/conditions.md#Drained) (1 hour)
 ```
 
+
+---
 *Source: Gamemastery Guide p. 121*

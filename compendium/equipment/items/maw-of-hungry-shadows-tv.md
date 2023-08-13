@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
-- item/category/grimoire
+- item/category/grimoire/
 - trait/conjuration
 - trait/grimoire
 - trait/incapacitation
@@ -17,13 +17,13 @@ aliases: ["Maw of Hungry Shadows"]
 
 - **Price** 21000 gp
 - **Bulk** L
-- **Category** Grimoire
 
 Shadows swirl around this soot-black tome, swallowing up any light that touches them. A faint whispering emanates from the grimoire's pages when opened.
 
 ```ad-embed-ability
-title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
+title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") envision
 
+- **Frequency**: once per day
 - **Trigger**: Your last action was to cast a spell prepared from this grimoire that has the [shadow](rules/traits/shadow.md "Shadow General Trait") trait
 
 **Effect** Your shadow, and that of the tome, elongates and reaches hungrily for one foe within 30 feet, who must attempt a Fortitude save.
@@ -35,4 +35,6 @@ title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "S
 > - **Critical Failure** As failure, but the shadows also pull the creature into the tome, teleporting it to the Shadow Plane.
 ```
 
+
+---
 *Source: Treasure Vault p. 112*

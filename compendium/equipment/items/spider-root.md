@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/crb
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/contact
@@ -14,9 +14,8 @@ aliases: ["Spider Root"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [contact](rules/traits/contact.md "Contact Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Price** 110 gp
-- **Usage** held in 2 hands; **Bulk** L
+- **Bulk** L; **Usage** held in 2 hands
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 A paste made by mashing the fine, threadlike roots of a certain creeper vine, spider root renders a victim [clumsy](rules/conditions.md#Clumsy) and maladroit.
 
@@ -35,4 +34,6 @@ title: Saving Throw: DC 28 Fortitude
 **Stage 3** `10d6` poison damage and [clumsy](rules/conditions.md#Clumsy) (1 minute)
 ```
 
+
+---
 *Source: Core Rulebook p. 553*

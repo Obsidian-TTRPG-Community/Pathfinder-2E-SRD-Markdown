@@ -14,7 +14,6 @@ While most monastic orders and traditional fighting schools shun firearms as lou
 ````ad-embed-feat
 title: Bullet Dancer Dedication, Feat 2
 collapse: closed
-# Bullet Dancer Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: expert in unarmored defense and trained in simple weapons
@@ -22,13 +21,14 @@ collapse: closed
 You've learned how to synchronize traditional martial arts and guns. You gain the Bullet Dancer Stance action. Whenever your proficiency in any weapon increases to expert or beyond, you gain that new proficiency with bayonets, reinforced stocks, simple firearms and unarmed attacks.
 
 ```ad-embed-ability
-title: Bullet Dancer Stance [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[stance](rules/traits/stance.md "Stance Combat Trait")  
+title: **Bullet Dancer Stance** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") ([stance](rules/traits/stance.md))
 
 - **Requirements**: You're unarmored and wielding a simple firearm, [bayonet](compendium/equipment/items/bayonet-g-g.md), or [reinforced stock](compendium/equipment/items/reinforced-stock-g-g.md)
 
 **Effect** You enter a specialized stance for a unique martial art centered around the use of simple firearms. While in this stance, the only [Strikes](rules/actions/strike.md) you can make are those using bayonets, reinforced stocks, and simple firearms. You can use Flurry of Blows with these weapons. You can use your other monk feats or monk abilities that normally require unarmed attacks with bayonets and reinforced stocks, so long as the feat or ability doesn't require a single, specific Strike. You can also use them with simple firearms when attacking within half the first range increment.  
-%% #trait/stance %%
+%%
+ #trait/stance 
+%%
 ```
 
 **Special.** You can't select another dedication feat until you've gained two other feats from the bullet dancer dedication archetype.
@@ -40,7 +40,6 @@ title: Bullet Dancer Stance [>](rules/core-rulebook/chapter-9-playing-the-game.m
 ```ad-embed-feat
 title: Brawling Focus, Feat 4*
 collapse: closed
-# Brawling Focus  *Feat 4*  
 [monk](rules/traits/monk.md "Monk Class Trait")  
 
 > [!pf2-note] This version of [Brawling Focus](compendium/feats/brawling-focus.md) is intended for use with the Bullet Dancer Archetype. Its level has been changed accordingly.
@@ -55,7 +54,6 @@ You know how to make the most of your attacks when fighting hand-to-hand. You ga
 ```ad-embed-feat
 title: Black Powder Boost, Feat 6*
 collapse: closed
-# Black Powder Boost  [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies") *Feat 6*  
 [gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  
 
 > [!pf2-note] This version of [Black Powder Boost](compendium/feats/black-powder-boost-g-g.md) is intended for use with the Bullet Dancer Archetype. Its level has been changed accordingly.
@@ -74,7 +72,6 @@ You fire your weapon as you jump, using the kickback to go farther. You [Leap](r
 ```ad-embed-feat
 title: Bullet Dancer Burn, Feat 6
 collapse: closed
-# Bullet Dancer Burn  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: Bullet Dancer Stance
@@ -91,7 +88,6 @@ The benefit on your next [Strike](rules/actions/strike.md) from either use of Bu
 ```ad-embed-feat
 title: Black Powder Blaze, Feat 8
 collapse: closed
-# Black Powder Blaze  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Black Powder Boost](compendium/feats/black-powder-boost-g-g.md)
@@ -107,7 +103,6 @@ You learn to take advantage of every shot, flying across the battlefield with th
 ```ad-embed-feat
 title: Snap Shot, Feat 8*
 collapse: closed
-# Snap Shot  *Feat 8*  
 [ranger](rules/traits/ranger.md "Ranger Class Trait")  
 
 > [!pf2-note] This version of [Snap Shot](compendium/feats/snap-shot.md) is intended for use with the Bullet Dancer Archetype. Its level has been changed accordingly.
@@ -122,7 +117,6 @@ You've learned to react with ranged weapons when a creature is in close quarters
 ```ad-embed-feat
 title: Bullet Dancer Reload, Feat 12*
 collapse: closed
-# Bullet Dancer Reload  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
 
 > [!pf2-note] This version of [Bullet Dancer Reload](compendium/feats/bullet-dancer-reload-g-g.md) is intended for use with the Bullet Dancer Archetype. Its level has been changed accordingly.
@@ -140,7 +134,6 @@ You've learned to reload your simple firearms with uncanny grace, the ammunition
 ```ad-embed-feat
 title: Trick Shot, Feat 12*
 collapse: closed
-# Trick Shot  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 12*  
 [gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  
 
 > [!pf2-note] This version of [Trick Shot](compendium/feats/trick-shot-g-g.md) is intended for use with the Bullet Dancer Archetype. Its level has been changed accordingly.
@@ -160,7 +153,6 @@ You shoot not at your foe but at an object nearby. Make a [Strike](rules/actions
 ```ad-embed-feat
 title: Ranged Disarm, Feat 14*
 collapse: closed
-# Ranged Disarm  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 14*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Ranged Disarm](compendium/feats/ranged-disarm-g-g.md) is intended for use with the Bullet Dancer Archetype. Its level has been changed accordingly.
@@ -178,7 +170,6 @@ When using a simple firearm, you can shoot objects right out of your enemy's han
 ```ad-embed-feat
 title: Ricochet Shot, Feat 14*
 collapse: closed
-# Ricochet Shot  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 14*  
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  
 
 > [!pf2-note] This version of [Ricochet Shot](compendium/feats/ricochet-shot-g-g.md) is intended for use with the Bullet Dancer Archetype. Its level has been changed accordingly.
@@ -194,7 +185,6 @@ You bounce your shot off a nearby surface to strike your opponent from an unexpe
 ```ad-embed-feat
 title: Showstopper, Feat 16*
 collapse: closed
-# Showstopper  *Feat 16*  
 [gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  
 
 > [!pf2-note] This version of [Showstopper](compendium/feats/showstopper-g-g.md) is intended for use with the Bullet Dancer Archetype. Its level has been changed accordingly.
@@ -212,7 +202,6 @@ When using Pistol Twirl to [Feint](rules/actions/feint.md), you can target all e
 ```ad-embed-feat
 title: Two-weapon Fusillade, Feat 16*
 collapse: closed
-# Two-weapon Fusillade  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 16*  
 [flourish](rules/traits/flourish.md "Flourish Combat Trait")  [gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  
 
 > [!pf2-note] This version of [Two-weapon Fusillade](compendium/feats/two-weapon-fusillade-g-g.md) is intended for use with the Bullet Dancer Archetype. Its level has been changed accordingly.

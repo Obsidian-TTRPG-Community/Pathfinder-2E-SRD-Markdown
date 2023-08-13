@@ -441,12 +441,14 @@ collapse: closed
 [consumable](rules/traits/consumable.md "Consumable Item Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [scroll](rules/traits/scroll.md "Scroll Item Trait")  
 
 - **Price** 3 gp
-- **Usage** held in 1 hand; **Bulk** L
+- **Craft Requirements** Supply one casting of illusory disguise.
+- **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Cast a Spell](rules/actions/cast-a-spell.md)
-- **Category** Scroll
 
 This scroll can cast [illusory disguise](compendium/spells/illusory-disguise.md) as a 1st-level spell.
 
+
+---
 *Source: Core Rulebook p. 565*
 ```
 
@@ -457,12 +459,14 @@ collapse: closed
 [consumable](rules/traits/consumable.md "Consumable Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [scroll](rules/traits/scroll.md "Scroll Item Trait")  
 
 - **Price** 12 gp
-- **Usage** held in 1 hand; **Bulk** L
+- **Craft Requirements** Supply one casting of glitterdust.
+- **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Cast a Spell](rules/actions/cast-a-spell.md)
-- **Category** Scroll
 
 This scroll can be used to cast [glitterdust](compendium/spells/glitterdust.md) as a 2nd-level spell.
 
+
+---
 *Source: Core Rulebook p. 565*
 ```
 
@@ -758,17 +762,59 @@ Each type of wand has a Level and Price determined by the spell's level. The wan
 > # Wand of Heal *Item 3+*  
 > [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
 > 
-> - **Usage** held in 1 hand; **Bulk** L
-> - **Category** Wand
+> - **Craft Requirements** Supply a listed-level casting of heal.
+> - **Bulk** L; **Usage** held in 1 hand
 > 
 > The golden end caps on this white wooden wand are adorned with ruby cabochons.
 > 
 > ```ad-embed-ability
-> title: Activate
+> title: **Activate**  [Cast a Spell](rules/actions/cast-a-spell.md)
 > 
-> You cast a [heal](compendium/spells/heal.md) spell at the indicated level.
+> - **Frequency**: once  per day, plus overcharge
+> 
+> **Effect** You cast a [heal](compendium/spells/heal.md) spell at the indicated level.
 > ```
 > 
+> ---
+> ### Variants
+> 
+> ####  *Item 3*
+> 
+> - **Price**: 60 gp
+> 
+> ####  *Item 5*
+> 
+> - **Price**: 160 gp
+> 
+> ####  *Item 7*
+> 
+> - **Price**: 360 gp
+> 
+> ####  *Item 9*
+> 
+> - **Price**: 700 gp
+> 
+> ####  *Item 11*
+> 
+> - **Price**: 1500 gp
+> 
+> ####  *Item 13*
+> 
+> - **Price**: 3000 gp
+> 
+> ####  *Item 15*
+> 
+> - **Price**: 6500 gp
+> 
+> ####  *Item 17*
+> 
+> - **Price**: 15000 gp
+> 
+> ####  *Item 19*
+> 
+> - **Price**: 40000 gp
+> 
+> ---
 > *Source: Core Rulebook p. 597*
 > ````
 

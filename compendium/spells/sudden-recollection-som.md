@@ -12,12 +12,11 @@ aliases: ["Sudden Recollection"]
 # Sudden Recollection *Spell 3*   
 [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 creature
-- **Saving Throw** Will
-- **Duration**
+- **Range**: 30 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Will
 
 You place a bit of knowledge deep in a creature's subconscious or make a willing creature forget some information until a specific trigger occurs. The target gets a Will saving throw to resist the effect. A willing creature can choose to fail its save.
 

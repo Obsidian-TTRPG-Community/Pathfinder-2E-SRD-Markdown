@@ -14,11 +14,13 @@ aliases: ["Gakgung"]
 
 - **Price** 6 gp
 - **Bulk** L
-- **Damage** `1d6` P
-- **Ammunution** Arrow (10); **Range** 100 ft.; **Reload** 0
+  - **Damage**: `1d6` P
+  - **Ammunution** Arrow (10); **Range** 100 ft.; **Reload** 0
 - **Hands** 1+
 - **Category** Martial; **Group** Bow 
 
 A gakgung is a type of composite reflex bow that combines speed and power in equal amounts for effective precision shooting.
 
+
+---
 *Source: Treasure Vault p. 30*

@@ -11,10 +11,10 @@ aliases: ["Heat Metal"]
 # Heat Metal *Spell 2*   
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 metal item or metal creature
+- **Range**: 30 foot
+- **Targets**: 1 metal item or metal creature
 
 This spell heats the targeted metal to become red-hot for a moment. This is usually harmless to an unattended metal item, which doesn't get a saving throw, though the GM might rule that flammable materials connected to the object catch fire or melt. If you target an item worn or carried by a creature, or you target a creature made primarily of metal, the heat deals `4d6` fire damage and `2d4` [persistent fire damage](rules/conditions.md#Persistent%20Damage) to the creature, which must attempt a Reflex saving throw.
 

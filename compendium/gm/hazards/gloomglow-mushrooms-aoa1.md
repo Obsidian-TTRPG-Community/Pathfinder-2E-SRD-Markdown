@@ -17,14 +17,13 @@ A field of grass-like fungal filaments amid clusters of softly glowing, long-sta
 
 - **Disable** [Survival](compendium/skills.md#Survival) DC 22 (expert) to remove a 5-foot-patch without triggering the mushrooms.  
 
-- **AC** 21 , **Fort** +13, **Ref** +9
+- **AC** 21, **Fort** +13, **Ref** +9
 - **HP** 52
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
 - **Weaknesses** cold 10
-     
+
 ```ad-embed-ability
-title: Glowing Spores [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Glowing Spores** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature moves into the mushrooms' space or damages the mushrooms. The mushrooms can't use this reaction if the damage was cold damage.
 

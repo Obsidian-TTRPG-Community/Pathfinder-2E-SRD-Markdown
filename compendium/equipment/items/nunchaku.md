@@ -16,10 +16,12 @@ aliases: ["Nunchaku"]
 
 - **Price** 2 sp
 - **Bulk** L
-- **Damage** `1d6` B
+  - **Damage**: `1d6` B
 - **Hands** 1
 - **Category** Martial; **Group** Club 
 
 The nunchaku is constructed of two wooden or metal bars connected by a short length of rope or chain.
 
+
+---
 *Source: Core Rulebook p. 281*

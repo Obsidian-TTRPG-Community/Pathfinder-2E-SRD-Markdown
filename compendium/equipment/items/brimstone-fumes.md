@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/crb
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/evil
@@ -15,9 +15,8 @@ aliases: ["Brimstone Fumes"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [evil](rules/traits/evil.md "Evil Alignment Trait")  [inhaled](rules/traits/inhaled.md "Inhaled Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Price** 1500 gp
-- **Usage** held in 1 hand; **Bulk** L
+- **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 Fumes from the forges of Hell drain health and strength alike.
 
@@ -36,4 +35,6 @@ title: Saving Throw: DC 36 Fortitude
 **Stage 3** `10d6` poison damage and [enfeebled](rules/conditions.md#Enfeebled) (1 round)
 ```
 
+
+---
 *Source: Core Rulebook p. 551*

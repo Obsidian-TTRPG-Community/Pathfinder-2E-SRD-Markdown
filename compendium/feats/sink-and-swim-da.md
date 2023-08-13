@@ -16,13 +16,15 @@ aliases: ["Sink and Swim"]
 Your body looks like it's made of flowing water, clear and pristine, providing a natural grace to all your movements. You gain a swim Speed equal to your land Speed. If you already had a swim Speed, it's increased by 10 feet. You gain the Water Transfer activity, which enables you to teleport through a body of water.
 
 ```ad-embed-ability
-title: Water Transfer[two-actions]
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
+title: **Water Transfer[two-actions]**  ([conjuration](rules/traits/conjuration.md), [primal](rules/traits/primal.md), [teleportation](rules/traits/teleportation.md), [water](rules/traits/water.md))
 
+- **Frequency**: once per minute
 - **Requirements**: You're on land and adjacent to a body of water
 
 **Effect** You sink into the water and emerge back onto land in another space within 120 feet that's adjacent to the same body of water. You can transport yourself, any items you're wearing and holding, and up to one other willing creature.  
-%% #trait/conjuration #trait/primal #trait/teleportation #trait/water %%
+%%
+ #trait/conjuration  #trait/primal  #trait/teleportation  #trait/water 
+%%
 ```
 
 *Source: Dark Archive p. 57*  

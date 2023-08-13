@@ -12,12 +12,12 @@ aliases: ["Phantom Pain"]
 # Phantom Pain *Spell 1*   
 [illusion](rules/traits/illusion.md "Illusion School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait")  
 
-- **Traditions**: [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 creature
-- **Saving Throw** Will
-- **Duration**1 minute
+- **Range**: 30 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Will
+- **Duration**: 1 minute
 
 Illusory pain wracks the target, dealing `2d4` mental damage and `1d4` [persistent mental damage](rules/conditions.md#Persistent%20Damage). The target must attempt a Will save.
 

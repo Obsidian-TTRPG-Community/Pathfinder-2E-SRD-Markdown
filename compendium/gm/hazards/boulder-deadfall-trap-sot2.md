@@ -17,9 +17,9 @@ aliases: ["Boulder Deadfall Trap"]
 A weight-sensitive plate buried underneath sand pulls a boulder over a cliff ledge, causing it to fall on targets within the entrance.
 
 - **Disable** DC 27 [Crafting](compendium/skills.md#Crafting) (expert) or DC 25 [Thievery](compendium/skills.md#Thievery) (expert) to find and disconnect the plate from the tipping mechanism.  
-     
+
 ```ad-embed-ability
-title: Deadfall [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Deadfall** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature enters the area without taking care to avoid the [hidden](rules/conditions.md#Hidden) trigger plate
 

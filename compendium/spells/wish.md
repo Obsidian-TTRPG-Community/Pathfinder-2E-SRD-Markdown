@@ -10,8 +10,9 @@ aliases: ["Wish"]
 # Wish *Spell 10*   
 [divination](rules/traits/divination.md "Divination School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
+- 
 
 You state a wish, making your greatest desire come true. A [wish](compendium/spells/wish.md) spell can produce any one of the following effects.
 

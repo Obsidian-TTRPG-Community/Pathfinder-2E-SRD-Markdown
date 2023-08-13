@@ -17,21 +17,22 @@ This unassuming fungus leeches heat out of the air.
 
 - **Disable** DC 18 [Survival](compendium/skills.md#Survival) (trained) to safely remove the mold  
 
-- **AC** 18 , **Fort** +11, 
+- **AC** 18, **Fort** +11, **Abilities** +0
 - **HP** 30 (BT 15)
 - **Immunities** critical hits; [fire](rules/traits/fire.md "Fire Energy & Element Trait"); object immunities; precision damage
-- **Resistances** 
 - **Weaknesses** cold 10
-     
+
 ```ad-embed-ability
-title: Emit Cold
-[aura](rules/traits/aura.md "Aura Combat Trait")  [cold](rules/traits/cold.md "Cold Energy & Element Trait")  
+title: **Emit Cold**  ([aura](rules/traits/aura.md), [cold](rules/traits/cold.md))
+
 
 5 feet. Brown mold deals `2d6` cold damage to nearby creatures.  
-%% #trait/aura #trait/cold %%
+%%
+ #trait/aura  #trait/cold 
+%%
 ```
 ```ad-embed-ability
-title: Leech Warmth [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Leech Warmth** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: Fire comes within 5 feet of the brown mold
 

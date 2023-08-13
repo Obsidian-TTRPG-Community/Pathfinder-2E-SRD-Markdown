@@ -15,6 +15,4 @@ At least one of your parents is a member of the notorious Red Mantis assassins, 
 
 Choose two ability boosts. One must be to Dexterity or Wisdom, and one is a free ability boost.
 
-You're trained in the [Stealth](compendium/skills.md#Stealth) skill and the [Assassin Lore](compendium/skills.md#Lore) skill.
-
-You gain the [Assurance](compendium/feats/assurance.md) skill feat with [Stealth](compendium/skills.md#Stealth).
+You're trained in the [Stealth](compendium/skills.md#Stealth) skill and the [Assassin Lore](compendium/skills.md#Lore) skill. You gain the [Assurance](compendium/feats/assurance.md) skill feat with [Stealth](compendium/skills.md#Stealth).

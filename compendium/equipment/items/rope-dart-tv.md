@@ -18,10 +18,12 @@ aliases: ["Rope Dart"]
 
 - **Price** 1 gp
 - **Bulk** 1
-- **Damage** `1d4` P
+  - **Damage**: `1d4` P
 - **Hands** 2
 - **Category** Martial; **Group** Dart 
 
 A deceptively simple weapon made from a length of cord attached to a weighted, conical metal spike. A rope dart can be whirled and manipulated at great speeds to attack in unexpected ways and from unexpected angles.
 
+
+---
 *Source: Treasure Vault p. 25*

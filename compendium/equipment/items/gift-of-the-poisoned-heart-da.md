@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/da
-- item/category/consumable
+- item/category/consumable/
 - trait/consumable
 - trait/cursed
 - trait/evil
@@ -15,9 +15,8 @@ aliases: ["Gift of the Poisoned Heart"]
 # Gift of the Poisoned Heart *Item 16*  
 [consumable](rules/traits/consumable.md "Consumable Item Trait")  [cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [evil](rules/traits/evil.md "Evil Alignment Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Usage** held in 1 hand; **Bulk** –
-- **Activate** command, , [Interact](rules/actions/interact.md)
-- **Category** Consumable
+- **Bulk** –; **Usage** held in 1 hand
+- **Activate** command, [Interact](rules/actions/interact.md)
 
 Those who fail to see the curse view this object as a priceless gift, capable of restoring life to the deceased, but deep in the heart of this diamond lies a single flaw: a fissured occlusion of sickly, tainted red. To activate the diamond, place it on the relatively intact body of a creature that died within the past year. The stone shatters, restoring the recipient to life with the effects of a successful resurrect ritual, except there is no limit to the level of the creature that may be revived.
 
@@ -25,4 +24,6 @@ This gift of life comes with a terrible cost: the recipient believes you—and a
 
 No amount of information or persuasion can alleviate this mistrust, as the cursed creature twists the facts endlessly to fit their delusion. Only magic such as remove curse can neutralize this effect, and the subject resists any attempt to alter their beliefs by magic.
 
+
+---
 *Source: Dark Archive p. 160*

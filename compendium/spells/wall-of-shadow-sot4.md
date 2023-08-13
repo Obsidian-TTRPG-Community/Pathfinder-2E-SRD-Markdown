@@ -12,10 +12,10 @@ aliases: ["Wall of Shadow"]
 # Wall of Shadow *Spell 3*   
 [darkness](rules/traits/darkness.md "Darkness Effect Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**30 foot
-- **Duration**1 minute
+- **Range**: 30 foot
+- **Duration**: 1 minute
 
 You form a wall of pure darkness in a straight line up to 60 feet long and 10 feet high. You must create the wall in an unbroken open space so its edges don't pass through any creatures or objects, or the spell is lost. The wall stands vertically and, if you wish, can be of a shorter length or height. The wall prevents light from passing through and appears as a sheet of pure darkness to creatures observing it.
 

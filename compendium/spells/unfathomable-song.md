@@ -15,12 +15,12 @@ aliases: ["Unfathomable Song"]
 # Unfathomable Song *Spell 9*   
 [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions**: [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**120 foot
-- **Targets**up to 5 creatures
-- **Saving Throw** Will
-- **Duration**sustained up to 1 minute
+- **Range**: 120 foot
+- **Targets**: up to 5 creatures
+- **Saving Throw**: Will
+- **Duration**: sustained up to 1 minute
 
 Fleeting notes of a strange and unnatural song fill the air, overtaking the mind. Each target must attempt a Will save when you cast the spell, and again the first time you [Sustain this Spell](rules/actions/sustain-a-spell.md) each round. A creature needs to attempt only one save against the song each round, and you have to keep the same targets when you [Sustain the Spell](rules/actions/sustain-a-spell.md).
 

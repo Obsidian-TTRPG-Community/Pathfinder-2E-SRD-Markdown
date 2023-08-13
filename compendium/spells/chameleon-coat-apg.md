@@ -10,11 +10,11 @@ aliases: ["Chameleon Coat"]
 # Chameleon Coat *Spell 5*   
 [illusion](rules/traits/illusion.md "Illusion School Trait")  
 
-- **Traditions**: [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**15 foot
-- **Targets**up to 8 creatures
-- **Duration**10 minutes
+- **Range**: 15 foot
+- **Targets**: up to 8 creatures
+- **Duration**: 10 minutes
 
 You shift the colors of the targets' outermost layer of clothing and gear to be closer to their environment when they remain still. Creatures affected by the spell gain a +3 status bonus to [Stealth](compendium/skills.md#Stealth) checks to [Hide](rules/actions/hide.md). The changed color granted by the spell always shifts to match the environment, even if there are drastic changes. If any piece of gear or clothing affected by the spell is removed from a creature, the spell ends for that creature.
 

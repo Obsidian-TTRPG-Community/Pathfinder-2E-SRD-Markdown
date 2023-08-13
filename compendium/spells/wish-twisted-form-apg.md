@@ -14,10 +14,10 @@ aliases: ["Wish-twisted Form"]
 
 - **Bloodline** Sorcerer
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**60 foot
-- **Targets**1 creature
-- **Saving Throw** Will
-- **Duration**varies
+- **Range**: 60 foot
+- **Targets**: 1 creature
+- **Saving Throw**: Will
+- **Duration**: varies
 
 You focus your magic upon an enemy, wishing for their defenses to fail and turning their strengths into weaknesses.
 

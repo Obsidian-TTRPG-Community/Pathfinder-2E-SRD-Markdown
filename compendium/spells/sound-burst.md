@@ -12,11 +12,11 @@ aliases: ["Sound Burst"]
 # Sound Burst *Spell 2*   
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Area**10-foot burst
-- **Saving Throw** Fortitude
+- **Range**: 30 foot
+- **Area**: 10-foot burst
+- **Saving Throw**: Fortitude
 
 A cacophonous noise blasts out, dealing `2d10` sonic damage.
 

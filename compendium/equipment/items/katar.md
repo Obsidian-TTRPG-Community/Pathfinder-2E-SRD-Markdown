@@ -15,10 +15,12 @@ aliases: ["Katar"]
 
 - **Price** 3 sp
 - **Bulk** L
-- **Damage** `1d4` P
+  - **Damage**: `1d4` P
 - **Hands** 1
 - **Category** Simple; **Group** Knife 
 
 Also known as punching daggers, katars are characterized by their H-shaped hand grip that allows the blade to jut out from the knuckles.
 
+
+---
 *Source: Core Rulebook p. 280*

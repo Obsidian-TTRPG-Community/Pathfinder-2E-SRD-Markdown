@@ -17,11 +17,13 @@ Choose two ability boosts. One must be to Dexterity or Intelligence, and one is 
 You are trained in three [Lore](compendium/skills.md#Lore) skills of your choice that represent your knowledge from your old time. You gain the Bend Time reaction.
 
 ```ad-embed-ability
-title: Bend Time [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
-[occult](rules/traits/occult.md "Occult Tradition Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+title: **Bend Time** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") ([occult](rules/traits/occult.md), [transmutation](rules/traits/transmutation.md))
 
+- **Frequency**: once per day
 - **Trigger**: Your turn begins
 
 **Effect** You are [quickened](rules/conditions.md#Quickened) this turn. You can use your extra action to [Stride](rules/actions/stride.md).  
-%% #trait/occult #trait/transmutation %%
+%%
+ #trait/occult  #trait/transmutation 
+%%
 ```

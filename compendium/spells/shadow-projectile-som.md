@@ -12,10 +12,11 @@ aliases: ["Shadow Projectile"]
 # Shadow Projectile *Spell 3*   
 [illusion](rules/traits/illusion.md "Illusion School Trait")  [shadow](rules/traits/shadow.md "Shadow General Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
-- **Trigger**An ally within 20 feet of you makes a ranged attack roll.
-- **Saving Throw** Will
+- **Trigger**: An ally within 20 feet of you makes a ranged attack roll.
+- 
+- **Saving Throw**: Will
 
 You create an illusory duplicate of your ally's ranged attack to confuse your opponents. You launch an illusory double of your ally's projectile or spell at the same target, leaving the enemy unsure which attack to avoid. The target takes `3d8` mental damage, depending on its Will save. Regardless of the result of its save, it's temporarily immune to [shadow projectile](compendium/spells/shadow-projectile-som.md) spells for 1 hour.
 

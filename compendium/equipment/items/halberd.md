@@ -13,10 +13,12 @@ aliases: ["Halberd"]
 
 - **Price** 2 gp
 - **Bulk** 2
-- **Damage** `1d10` P
+  - **Damage**: `1d10` P
 - **Hands** 2
 - **Category** Martial; **Group** Polearm 
 
 This polearm has a relatively short, 5-foot shaft. The business end is a long spike with an axe blade attached.
 
+
+---
 *Source: Core Rulebook p. 280*

@@ -11,10 +11,10 @@ aliases: ["Aqueous Orb"]
 # Aqueous Orb *Spell 3*   
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**60 foot
-- **Duration**sustained up to 1 minute
+- **Range**: 60 foot
+- **Duration**: sustained up to 1 minute
 
 A sphere of water 10 feet in diameter forms in an unoccupied space in range, either on the ground or on the surface of a liquid. When you [Cast the Spell](rules/actions/cast-a-spell.md) and each time you [Sustain the Spell](rules/actions/sustain-a-spell.md), you can roll the orb, moving it up to 10 feet along the ground or the surface of a liquid. You can gain this effect multiple times in the same round by [Sustaining the Spell](rules/actions/sustain-a-spell.md) multiple times. The orb can move through the spaces of any creatures or obstacles that wouldn't stop the flow of water. It extinguishes non-magical fires it moves through of its size or smaller, and it attempts to counteract any magical fires it moves through. If it fails to counteract a given fire, it can't counteract that fire for the duration of the spell.
 

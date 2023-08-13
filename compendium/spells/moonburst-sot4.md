@@ -15,11 +15,11 @@ aliases: ["Moonburst"]
 # Moonburst *Spell 7*   
 [cold](rules/traits/cold.md "Cold Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [light](rules/traits/light.md "Light Effect Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**500 foot
-- **Area**60-foot burst
-- **Saving Throw** Reflex
+- **Range**: 500 foot
+- **Area**: 60-foot burst
+- **Saving Throw**: Reflex
 
 A powerful globe of chilling moonlight explodes in the area, dealing `8d10` cold damage to creatures and objects in the area, plus `8d10` additional positive damage to undead creatures. Moonburst's cold damage is silver damage for the purposes of weaknesses, resistances, and the like. Each creature and object in the area must attempt a Reflex save.
 

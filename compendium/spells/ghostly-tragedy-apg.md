@@ -12,10 +12,10 @@ aliases: ["Ghostly Tragedy"]
 # Ghostly Tragedy *Spell 4*   
 [divination](rules/traits/divination.md "Divination School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** (1 minute) 
-- **Area**60-foot emanation
-- **Duration**10 minutes
+- **Area**: 60-foot emanation
+- **Duration**: 10 minutes
 
 This spell compels local spirits to reenact a violent event of the recent past that you're aware of and name as you [Cast the Spell](rules/actions/cast-a-spell.md). You take the role of the primary victim. The reenactment plays out the final 9 minutes leading up to the death or injury of the victim and the minute after their death or injury. The spirits don't change form, so this doesn't help determine perpetrators by their look. Spiritual forms of missing creatures necessary for the event manifest as needed, and missing items appear as shadowy outlines.
 

@@ -12,10 +12,10 @@ aliases: ["Healing Well"]
 # Healing Well *Spell 5*   
 [healing](rules/traits/healing.md "Healing Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**30 foot
-- **Duration**1 minute
+- **Range**: 30 foot
+- **Duration**: 1 minute
 
 You call forth a well of healing that you and your allies can draw from later. The well appears as a disc of shimmering light on the ground in a square you touch. At any time during the duration, if you or an ally are adjacent to the well, that character can [Interact](rules/actions/interact.md) to tap into the well's power, recovering `4d8` Hit Points. When the well has been tapped five times, the spell ends. The well is made of insubstantial energy, allowing creatures to move through it and even end their turn in its space.
 

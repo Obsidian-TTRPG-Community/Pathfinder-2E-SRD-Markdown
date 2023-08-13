@@ -10,11 +10,11 @@ aliases: ["Blessing Of Defiance"]
 # Blessing Of Defiance *Spell 5*   
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") to [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**30 foot
-- **Targets**varies
-- **Duration**1 round
+- **Range**: 30 foot
+- **Targets**: varies
+- **Duration**: 1 round
 
 Channeling forth the power to persevere in the face of adversity, you grant the target the means to deny danger and avoid dire harm. Choose one saving throw: Fortitude, Reflex, or Will. The target gets a +4 status bonus to that saving throw for 1 round. The potency and number of targets of this blessing depend on how many actions you spend when [Casting the Spell](rules/actions/cast-a-spell.md).
 

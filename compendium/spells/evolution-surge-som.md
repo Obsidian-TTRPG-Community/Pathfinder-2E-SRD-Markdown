@@ -14,9 +14,9 @@ aliases: ["Evolution Surge"]
 [morph](rules/traits/morph.md "Morph Effect Trait")  [summoner](rules/traits/summoner-som.md "Summoner Class Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**100 foot
-- **Targets**your eidolon
-- **Duration**1 minute
+- **Range**: 100 foot
+- **Targets**: your eidolon
+- **Duration**: 1 minute
 
 You flood your eidolon with power, creating a temporary evolution in your eidolon's capabilities. Choose one of the following effects:
 

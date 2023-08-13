@@ -10,7 +10,7 @@ tags:
 - trait/thaumaturge
 aliases: ["Root to Life"]
 ---
-# Root to Life  [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies") *Feat 1*  
+# Root to Life  [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies") Varies ([>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") or [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")) *Feat 1*  
 [esoterica](rules/traits/esoterica-da.md "Esoterica Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [thaumaturge](rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
 
 - **Activity** Varies ([>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") or [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action"))

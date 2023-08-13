@@ -17,27 +17,28 @@ A spring-loaded, poisoned spine is [hidden](rules/conditions.md#Hidden) near the
 
 - **Disable** [Thievery](compendium/skills.md#Thievery) DC 17 (trained) on the spring mechanism.  
 
-- **AC** 15 , **Fort** +8, **Ref** +4
+- **AC** 15, **Fort** +8, **Ref** +4
 - **Hardness** 6, **HP** 24 (BT 12)
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Spring [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[attack](rules/traits/attack.md "Attack Combat Trait")  
+title: **Spring** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([attack](rules/traits/attack.md))
 
 - **Trigger**: A creature tries to unlock or [Pick the Lock](rules/actions/pick-a-lock.md)
 
 **Effect** A spine extends to attack the triggering creature.  
-%% #trait/attack %%
+%%
+ #trait/attack 
+%%
 ```
 ```ad-embed-ability
-title: Cladis Poison
-[poison](rules/traits/poison.md "Poison Effect Trait")  
+title: **Cladis Poison**  ([poison](rules/traits/poison.md))
+
 
   
-%% #trait/poison %%
+%%
+ #trait/poison 
+%%
 ```
 
 *Source: Core Rulebook p. 523*

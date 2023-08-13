@@ -15,10 +15,12 @@ aliases: ["Orc Necksplitter"]
 
 - **Price** 2 gp
 - **Bulk** 1
-- **Damage** `1d8` S
+  - **Damage**: `1d8` S
 - **Hands** 1
 - **Category** Advanced; **Group** Axe 
 
 This single-bladed bearded axe has a jagged blade that's perfect for separating bone from tendon and cartilage.
 
+
+---
 *Source: Core Rulebook p. 281*

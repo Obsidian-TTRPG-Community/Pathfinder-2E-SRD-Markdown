@@ -14,7 +14,7 @@ aliases: ["Bayonet"]
 
 - **Price** 2 sp
 - **Bulk** L
-- **Damage** `1d4` P
+  - **Damage**: `1d4` P
 - **Hands** 1 or 2*
 - **Category** Martial; **Group** Knife 
 
@@ -23,4 +23,6 @@ This blade or spike can be attached to a crossbow or firearm but, unlike other a
 > [!pf2-note]
 > An attached bayonet or reinforced stock requires the same number of hands as the weapon it's attached to. A detached bayonet requires one hand.
 
+
+---
 *Source: Guns & Gears p. 150*

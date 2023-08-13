@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/aoa5
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/ingested
@@ -15,9 +15,8 @@ aliases: ["False Death"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [ingested](rules/traits/ingested.md "Ingested Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 25 gp
-- **Usage** held in 1 hand; **Bulk** L
+- **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 Typically used to fake one's death, this poison swiftly causes the imbiber to lose consciousness and suppresses vital signs. A creature examining the [unconscious](rules/conditions.md#Unconscious) target must succeed at a [Medicine](compendium/skills.md#Medicine) check against the imbiber's [Deception](compendium/skills.md#Deception) DC + 4 to determine that the target is alive, and a critical success allows the examiner to determine that a toxin is causing the effect. The false death toxin has an extremely bitter taste ([Perception](compendium/skills.md#Perception) DC 10 to detect), making it difficult to trick a creature into consuming the poison against its wishes.
 
@@ -36,4 +35,6 @@ title: Saving Throw: DC 18 Fortitude
 **Stage 3** [unconscious](rules/conditions.md#Unconscious) (1 day)
 ```
 
+
+---
 *Source: Age of Ashes #5: Against the Scarlet Triad p. 78*

@@ -13,7 +13,8 @@ aliases: ["Untwisting Iron Pillar"]
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Duration**5 rounds
+- 
+- **Duration**: 5 rounds
 
 You call upon the earth and your ki to shield you from your enemies. You gain 50 temporary Hit Points that last for the duration or until you lose them, as well as resistance 5 to all physical damage (except adamantine).
 

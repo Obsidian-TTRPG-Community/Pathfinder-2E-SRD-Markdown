@@ -11,11 +11,11 @@ aliases: ["Summon Deific Herald"]
 # Summon Deific Herald *Spell 8*   
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [incarnate](rules/traits/incarnate-som.md "Incarnate Spell Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Requirements**You have a deity.
-- **Range**100 foot
-- **Duration**until the end of your next turn
+- **Requirements**: You have a deity.
+- **Range**: 100 foot
+- **Duration**: until the end of your next turn
 
 Your faith is strong enough to briefly summon a direct representative of your deity, such as the deity's herald. The herald occupies the space of a Huge creature and has a Speed of 60 feet. The effects of this spell depend on your deity's alignment.
 

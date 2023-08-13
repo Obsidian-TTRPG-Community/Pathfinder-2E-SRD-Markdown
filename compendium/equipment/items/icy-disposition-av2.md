@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/av2
-- item/category/contract
+- item/category/contract/
 - trait/abjuration
 - trait/contract
 - trait/invested
@@ -14,8 +14,7 @@ aliases: ["Icy Disposition"]
 # Icy Disposition *Item 11*  
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [contract](rules/traits/contract-lol.md "Contract Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Devil** gelugon; **Decipher Writing** [Nature](compendium/skills.md#Nature), [Games Lore](compendium/skills.md#Lore)
-- **Category** Contract
+- **Decipher Writing** [Nature](compendium/skills.md#Nature), [Games Lore](compendium/skills.md#Lore); **Devil** gelugon
 
 Your flesh looks no different, but is cold to the touch.
 
@@ -27,4 +26,6 @@ Your flesh looks no different, but is cold to the touch.
 
 **Termination Clause** The contract provides you the benefits of "the eternal ice of Cocytus." If you travel to Cocytus, Hell's seventh layer, and stand within an area at least 100 feet across that contains no ice and has a temperature above freezing, the contract is void. Such locations are exceptionally rare in Cocytus, and the efforts to create such an area are likely to attract unpleasant attention.
 
+
+---
 *Source: Abomination Vaults #2: Hands of the Devil p. 75*

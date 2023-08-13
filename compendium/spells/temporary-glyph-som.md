@@ -11,11 +11,11 @@ aliases: ["Temporary Glyph"]
 # Temporary Glyph *Spell 5*   
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
-- **Range**30 foot
-- **Area**a 5-foot square
-- **Duration**1 minute
+- **Range**: 30 foot
+- **Area**: a 5-foot square
+- **Duration**: 1 minute
 
 You temporarily bind a [hostile](rules/conditions.md#Hostile) spell into a symbol. While Casting this Spell, you also [Cast a Spell](rules/actions/cast-a-spell.md) of a lower spell level to store in the glyph. The stored spell must take 2 actions or fewer to Cast, have a [hostile](rules/conditions.md#Hostile) effect, and target one creature or have an area. Any creature that enters temporary glyph's area activates the glyph, releasing the harmful spell within.
 

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/aoa5
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/injury
@@ -15,9 +15,8 @@ aliases: ["Mage Bane"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [injury](rules/traits/injury.md "Injury Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 325 gp
-- **Usage** held in 2 hands; **Bulk** L
+- **Bulk** L; **Usage** held in 2 hands
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 Upon being mixed and injected into the bloodstream, this powder of the crimson orchid quickly assaults the brain and nerves, disrupting the victim's ability to piece together coherent thoughts and spells.
 
@@ -35,4 +34,6 @@ title: Saving Throw: DC 32 Fortitude
 **Stage 3** `4d6` mental damage and [stupefied](rules/conditions.md#Stupefied) (1 round)
 ```
 
+
+---
 *Source: Age of Ashes #5: Against the Scarlet Triad p. 79*

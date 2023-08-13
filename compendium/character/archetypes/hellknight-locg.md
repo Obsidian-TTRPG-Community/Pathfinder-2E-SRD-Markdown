@@ -14,7 +14,6 @@ Hellknights are among the fiercest warriors in the Inner Sea region, as they hav
 ```ad-embed-feat
 title: Hellknight Dedication, Feat 6
 collapse: closed
-# Hellknight Dedication  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: [Hellknight Armiger Dedication](compendium/feats/hellknight-armiger-dedication-lowg.md), lawful alignment, member of a Hellknight order, passed the Hellknight Test
@@ -30,7 +29,6 @@ You have forged your body to comply with the commands of your mind—orders stee
 ```ad-embed-feat
 title: Sense Chaos, Feat 8
 collapse: closed
-# Sense Chaos  *Feat 8*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Hellknight Dedication](compendium/feats/hellknight-dedication-locg.md)
@@ -44,7 +42,6 @@ You sense chaos as an unsettling feeling of nervous energy. When in the presence
 ```ad-embed-feat
 title: Advanced Order Training, Feat 12*
 collapse: closed
-# Advanced Order Training  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 > [!pf2-note] This version of [Advanced Order Training](compendium/feats/advanced-order-training-locg.md) is intended for use with the Hellknight Archetype. Its level has been changed accordingly.
@@ -60,7 +57,6 @@ You gain the greater order benefit for the Hellknight order to which you belong.
 ```ad-embed-feat
 title: Blade Of Law, Feat 12*
 collapse: closed
-# Blade Of Law  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Blade Of Law](compendium/feats/blade-of-law-locg.md) is intended for use with the Hellknight Archetype. Its level has been changed accordingly.
@@ -77,7 +73,6 @@ You call upon the power of law and make a weapon or unarmed [Strike](rules/actio
 ```ad-embed-feat
 title: Hell's Armaments, Feat 12*
 collapse: closed
-# Hell's Armaments  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Hell's Armaments](compendium/feats/hells-armaments-locg.md) is intended for use with the Hellknight Archetype. Its level has been changed accordingly.
@@ -95,7 +90,6 @@ Hellknight Signifer Signifers are the powerful and enigmatic Hellknight spellcas
 ```ad-embed-feat
 title: Hellknight Order Cross-training, Feat 12*
 collapse: closed
-# Hellknight Order Cross-training  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [hellknight](rules/traits/hellknight-locg.md "Hellknight  Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 > [!pf2-note] This version of [Hellknight Order Cross-training](compendium/feats/hellknight-order-cross-training-locg.md) is intended for use with the Hellknight Archetype. Its level has been changed accordingly.

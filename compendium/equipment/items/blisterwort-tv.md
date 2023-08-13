@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
-- item/category/poison
+- item/category/poison/
 - trait/alchemical
 - trait/consumable
 - trait/injury
@@ -14,9 +14,8 @@ aliases: ["Blisterwort"]
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [injury](rules/traits/injury.md "Injury Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
 
 - **Price** 280 gp
-- **Usage** held in 2 hands; **Bulk** L
+- **Bulk** L; **Usage** held in 2 hands
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 This clear, viscous liquid causes lesions and blisters that spread quickly. The victim's pain response increases and flesh breaks easily under physical stress.
 
@@ -34,4 +33,6 @@ title: Saving Throw: DC 30 Fortitude
 **Stage 3** `7d6` poison damage and weakness 6 to physical and force damage
 ```
 
+
+---
 *Source: Treasure Vault p. 67*

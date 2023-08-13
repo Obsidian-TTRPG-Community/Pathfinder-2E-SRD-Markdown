@@ -18,14 +18,11 @@ Three giant centipede carcasses have wire springs that pull out and fling their 
 
 - **Disable** DC 23 [Nature](compendium/skills.md#Nature) (trained) to bend the centipede carapace so the wire can't pull out any more legs, or DC 21 [Thievery](compendium/skills.md#Thievery) (expert) to cut the springy wires. After all three carcasses are disabled (regardless of the check used), the trap is deactivated. The trap automatically deactivates after 10 rounds.  
 
-- **AC** 22 , **Fort** +15, **Ref** +9
+- **AC** 22, **Fort** +15, **Ref** +9
 - **Carcass Hardness** 12, **Carcass HP** 20 (BT 10)
-- **Immunities** 
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Volley of Legs [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Volley of Legs** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A carcass is touched or jostled
 
@@ -34,6 +31,7 @@ title: Volley of Legs [R](rules/core-rulebook/chapter-9-playing-the-game.md#Acti
 
 ```ad-pf2-summary
 title: Routine
+
 (1 action) Each creature within 30 feet of a centipede carcass that hasn't been disabled takes `6d4` piercing damage (DC 22 basic Reflex save).
 ```
 ^routine

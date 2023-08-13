@@ -17,11 +17,13 @@ aliases: ["Barricade Buster"]
 
 - **Price** 9 gp
 - **Bulk** 3
-- **Damage** `1d10` B
-- **Ammunution** [8-Round Magazine](compendium/equipment/items/8-round-magazine-tv.md); **Range** 40 ft.; **Reload** 0
+  - **Damage**: `1d10` B
+  - **Ammunution** [8-Round Magazine](compendium/equipment/items/8-round-magazine-tv.md); **Range** 40 ft.; **Reload** 0
 - **Hands** 2
 - **Category** Advanced; **Group** Firearm 
 
 Developed by a half-orc inventor from Alkenstar who brought the technology north to battle the Whispering Tyrant alongside the orc hordes of Belkzen, the barricade buster features eight barrels fixed around a central pivot attached to a handle and firing mechanism. A barricade buster fires spheres of metal with extreme velocity and very little accuracy.
 
+
+---
 *Source: Treasure Vault p. 30*

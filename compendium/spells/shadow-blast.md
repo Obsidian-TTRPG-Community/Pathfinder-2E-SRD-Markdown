@@ -12,11 +12,11 @@ aliases: ["Shadow Blast"]
 # Shadow Blast *Spell 5*   
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [shadow](rules/traits/shadow.md "Shadow General Trait")  
 
-- **Traditions**: [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**varies
-- **Area**varies
-- **Saving Throw**  basic Reflex or Will
+- **Range**: varies
+- **Area**: varies
+- **Saving Throw**:  basic Reflex or Will
 
 You shape the quasi-real substance of the Shadow Plane into a blast. Choose acid, bludgeoning, cold, electricity, fire, force, piercing, slashing, or sonic damage, and choose a 30-foot cone, a 15-foot burst within 120 feet, or a 50-foot line. The blast deals `5d8` damage of the type you chose to each creature in the area.
 

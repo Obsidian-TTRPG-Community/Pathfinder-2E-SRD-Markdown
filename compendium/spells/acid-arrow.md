@@ -12,10 +12,10 @@ aliases: ["Acid Arrow"]
 # Acid Arrow *Spell 2*   
 [acid](rules/traits/acid.md "Acid Energy & Element Trait")  [attack](rules/traits/attack.md "Attack Combat Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**120 foot
-- **Targets**1 creature
+- **Range**: 120 foot
+- **Targets**: 1 creature
 
 You conjure an arrow of acid that continues corroding the target after it hits. Make a spell attack against the target.
 

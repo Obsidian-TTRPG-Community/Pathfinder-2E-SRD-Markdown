@@ -21,7 +21,7 @@ aliases: ["Gozreh", "The Wind and the Waves"]
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: bring civilization to intrude on the wild, create undead, despoil areas of natural beauty
-- **Areas of Concern**: nature, , the sea, , the weather
+- **Areas of Concern**: nature, the sea, the weather
 - **Follower Alignments**: [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [N](rules/traits/n-b1.md "Neutral Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"), [NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait")
 
 ## Devotee benefits
@@ -38,8 +38,9 @@ aliases: ["Gozreh", "The Wind and the Waves"]
 title: [Avatar](compendium/spells/avatar.md) of Gozreh
 
 - **Speed**: no land Speedfly 70 feet, swim 70 feet, ignore difficult terrain and greater difficult terrain
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") waves ([reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [shove](rules/traits/shove.md "Shove Weapon Trait"), [thrown <20 feet>](rules/traits/thrown-20-feet.md "Thrown Weapon Trait")), **Damage** `6d8+6` bludgeoning
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") wind ([versatile <electricity>](rules/traits/versatile-electricity.md "Versatile Weapon Trait")), **Damage** `6d6+3` bludgeoning
+- **Shield**: shield ( Hardness, can't be damaged)
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") waves (, [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [shove](rules/traits/shove.md "Shove Weapon Trait"), [thrown <20 feet>](rules/traits/thrown-20-feet.md "Thrown Weapon Trait")), **Damage** `6d8+6` bludgeoning 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") wind (, [versatile <electricity>](rules/traits/versatile-electricity.md "Versatile Weapon Trait")), **Damage** `6d6+3` bludgeoning 
 ```
 
 ## Divine intercession

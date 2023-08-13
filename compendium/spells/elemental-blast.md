@@ -17,9 +17,9 @@ aliases: ["Elemental Blast"]
 
 - **Bloodline** Sorcerer
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Area**10-foot-radius burst, 30-foot cone, or 60-foot line
-- **Saving Throw**  basic Reflex
+- **Range**: 30 foot
+- **Area**: 10-foot-radius burst, 30-foot cone, or 60-foot line
+- **Saving Throw**:  basic Reflex
 
 You gather elemental energy and blast your foes in one of the various listed shapes of your choosing, dealing `8d6` bludgeoning damage (or fire damage if your element is fire)
 

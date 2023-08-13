@@ -19,10 +19,12 @@ aliases: ["Butterfly Sword"]
 - **Access** If the player character come from a region in Tian Xia, this weapon is common
 - **Price** 2 gp
 - **Bulk** L
-- **Damage** `1d4` S
+  - **Damage**: `1d4` S
 - **Hands** 1
 - **Category** Advanced; **Group** Sword 
 
 This short, single-edged sword typically features a cross guard that helps catch oncoming attacks. It's the preferred weapon of Butterfly Blades—highly skilled Gokan assassins. These swords are typically crafted and sold in pairs.
 
+
+---
 *Source: Treasure Vault p. 25*

@@ -15,7 +15,8 @@ aliases: ["Hero's Defiance"]
 [champion](rules/traits/champion.md "Champion Class Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") 
-- **Trigger**An attack would bring you to 0 Hit Points.
+- **Trigger**: An attack would bring you to 0 Hit Points.
+- 
 
 You shout in defiance, filling you with a sudden burst of healing.
 

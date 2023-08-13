@@ -11,11 +11,11 @@ aliases: ["Resilient Sphere"]
 # Resilient Sphere *Spell 4*   
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  
 
-- **Traditions**: [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**30 foot
-- **Targets**1 Large or smaller creature
-- **Duration**1 minute
+- **Range**: 30 foot
+- **Targets**: 1 Large or smaller creature
+- **Duration**: 1 minute
 
 You create an immobile sphere of force to either trap or protect the target, blocking anything that would pass through the sphere. The sphere has AC 5, Hardness 10, and 40 Hit Points.
 

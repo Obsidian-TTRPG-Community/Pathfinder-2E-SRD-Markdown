@@ -17,7 +17,7 @@ aliases: ["Milani", "The Everbloom"]
 
 - **Category**: Gods of the Inner Sea
 - **Anathema**: abandon those in need, enslave or oppress others, harm the innocent through direct or inadvertent action
-- **Areas of Concern**: devotion, , hope, , and uprisings
+- **Areas of Concern**: devotion, hope, and uprisings
 - **Follower Alignments**: [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")
 
 ## Devotee benefits
@@ -36,7 +36,7 @@ title: [Avatar](compendium/spells/avatar.md) of Milani
 
 - **Speed**: Speed 50 feet, fly 70 feet
 - **Shield**: shield (15 Hardness, can't be damaged)
-- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") morningstar ([reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [versatile <p>](rules/traits/versatile-p.md "Versatile Weapon Trait")), **Damage** `6d8+6` bludgeoning
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") morningstar (, [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait"), [versatile <p>](rules/traits/versatile-p.md "Versatile Weapon Trait")), **Damage** `6d8+6` bludgeoning 
 ```
 
 ## Divine intercession

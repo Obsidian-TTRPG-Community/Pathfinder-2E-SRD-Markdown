@@ -14,13 +14,15 @@ aliases: ["Iron Lung"]
 Your lungs are infused with the resilience of iron. Treat the result of your save against an inhaled poison as one degree of success better than you rolled. Additionally, you gain the following ability.
 
 ```ad-embed-ability
-title: Exhale Poison [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
-[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
+title: **Exhale Poison** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") ([arcane](rules/traits/arcane.md), [necromancy](rules/traits/necromancy.md), [poison](rules/traits/poison.md))
 
+- **Frequency**: once per hour
 - **Requirements**: You were within the area of an inhaled poison within the last minute
 
 **Effect** You sharply exhale the poison that previously surrounded you in a 15-foot cone. Creatures in the area are affected by the poison; the poison's DC and effects are unchanged.  
-%% #trait/arcane #trait/necromancy #trait/poison %%
+%%
+ #trait/arcane  #trait/necromancy  #trait/poison 
+%%
 ```
 
 *Source: Extinction Curse #3: Life's Long Shadows p. 74*  

@@ -18,14 +18,12 @@ Four magical plants inside the wagon release hallucinogenic pollen when disturbe
 
 - **Disable** [Thievery](compendium/skills.md#Thievery) DC 18 (trained) to carefully remove a pollen pod or [Nature](compendium/skills.md#Nature) DC 18 (trained) to prevent a pod from bursting.  
 
-- **AC** 18 , **Fort** +9, **Ref** +3
+- **AC** 18, **Fort** +9, **Ref** +3
 - **Hardness** 1, **HP** 32 (BT 16)
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Pollen Burst [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Pollen Burst** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: The wagon door is opened or the pods are disturbed
 
@@ -34,22 +32,16 @@ title: Pollen Burst [R](rules/core-rulebook/chapter-9-playing-the-game.md#Action
 
 ````ad-pf2-summary
 title: Routine
-(4 actions) The trap loses 1 action each turn for each removed or disabled pollen pod. The trap doesn't take a multiple attack penalty.
 
+(4 actions) The trap loses 1 action each turn for each removed or disabled pollen pod. The trap doesn't take a multiple attack penalty.
 ```ad-inline-attack
 title: Ranged [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Pollen Spray (12) (range <20 feet>)
 **Damage** `1d8` poison and hallucinogenic pollen 
- 
 **Effects** hallucinogenic pollen
-
 %% #trait/range-20-feet %%
 ```
-
 ```ad-embed-ability
-title: Hallucinogenic Pollen
-
-A creature hit by the trap's pollen spray must succeed at a DC 20 Will save or it is [confused](rules/conditions.md#Confused) for 1 round and takes a –2 status penalty to [Perception](compendium/skills.md#Perception) checks and saves against [mental](rules/traits/mental.md "Mental Effect Trait") effects for `1d4` hours.
-
+title: **Hallucinogenic Pollen** A creature hit by the trap's pollen spray must succeed at a DC 20 Will save or it is [confused](rules/conditions.md#Confused) for 1 round and takes a –2 status penalty to [Perception](compendium/skills.md#Perception) checks and saves against [mental](rules/traits/mental.md "Mental Effect Trait") effects for `1d4` hours.
 On a critical failure, the penalty is instead –4.
 ```
 ````

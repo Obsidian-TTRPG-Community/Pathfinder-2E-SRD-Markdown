@@ -14,6 +14,7 @@ aliases: ["Lingering Composition"]
 [bard](rules/traits/bard.md "Bard Class Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") 
+- 
 
 You add a flourish to your composition to extend its benefits.
 

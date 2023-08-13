@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/aoe4
-- item/category/poison
+- item/category/poison/
 - trait/consumable
 - trait/divine
 - trait/ingested
@@ -15,9 +15,9 @@ aliases: ["Repulsion Resin"]
 [consumable](rules/traits/consumable.md "Consumable Item Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [ingested](rules/traits/ingested.md "Ingested Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1650 gp
-- **Usage** held in 1 hand; **Bulk** L
+- **Craft Requirements** Supply one casting of repulsion.
+- **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Interact](rules/actions/interact.md)
-- **Category** Poison
 
 This clear, tasteless tar causes the victim to emit waves of harmful mental energy that repel other creatures.
 
@@ -38,4 +38,6 @@ title: Saving Throw: DC 38 Fortitude
 **Stage 3** `20d6` poison damage and [stupefied](rules/conditions.md#Stupefied) (1 minute)
 ```
 
+
+---
 *Source: Agents of Edgewatch #4: Assault on Hunting Lodge Seven p. 78*

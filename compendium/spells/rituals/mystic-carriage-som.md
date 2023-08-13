@@ -16,6 +16,7 @@ aliases: ["Mystic Carriage"]
 - **Secondary Casters** 1
 - **Primary Checks** [Arcana](compendium/skills.md#Arcana) (Expert) or [Occultism](compendium/skills.md#Occultism) (Expert)
 - **Secondary Checks** [Crafting](compendium/skills.md#Crafting) or [Driving Lore](compendium/skills.md#Lore)
+- 
 
 This ritual allows you and the other casters to conjure a magical carriage that transports you to a destination of your choice. To summon the mystic carriage, you must be within 250 miles of your destination and spend 1 hour burning incense and feathers while chanting the name of the location you wish the carriage to take you to. When it arrives, the carriage is a Large vehicle that can fit 4 Medium or smaller passengers, as well as 100 Bulk. It has a Speed of 60 feet, AC of 14, Fortitude saving throw modifier of +8, Hardness 5, 100 Hit Points (BT 50), object immunities, and immunities to critical hits and precision damage.
 

@@ -17,14 +17,12 @@ This human-sized purple mushroom emits a piercing shriek when disturbed.
 
 - **Disable** DC 18 [Survival](compendium/skills.md#Survival) to carefully approach and cut the mushroom's air sac without triggering the shrieker  
 
-- **AC** 12 , **Fort** +8, **Ref** +2
+- **AC** 12, **Fort** +8, **Ref** +2
 - **HP** 9
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** 
-- **Weaknesses** 
-     
+
 ```ad-embed-ability
-title: Shriek [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Shriek** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature or light source approaches within 10 feet of the shrieker or the shrieker takes damage
 

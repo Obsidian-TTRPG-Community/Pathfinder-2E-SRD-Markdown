@@ -13,8 +13,8 @@ aliases: ["Electrified Crystal Ward"]
 [electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Range**touch
-- **Targets**1 hinge or latch
+- **Range**: touch
+- **Targets**: 1 hinge or latch
 
 You create an [electric latch rune](compendium/gm/hazards/electric-latch-rune.md) hazard on the target, creating a special crystalline lock on the object. You can also substitute your spell DC for any of the hazard's listed DCs. You can have only one such hazard active at a time, and if you cast this spell while a previous [electric latch rune](compendium/gm/hazards/electric-latch-rune.md) is active, the older hazard discharges harmlessly.
 

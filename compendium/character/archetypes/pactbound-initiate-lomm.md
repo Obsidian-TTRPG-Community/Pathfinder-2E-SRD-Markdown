@@ -16,7 +16,6 @@ An unwilling creature can never be forced to become a pactbound initiate, and on
 ```ad-embed-feat
 title: Pactbound Dedication, Feat 2
 collapse: closed
-# Pactbound Dedication  *Feat 2*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Prerequisites**: Erutaki or Giant language, trained in [Nature](compendium/skills.md#Nature), must have earned the trust of a saumen kar who initiates you into the archetype
@@ -32,7 +31,6 @@ You befriended one of the last saumen kar and were infused with a fraction of th
 ```ad-embed-feat
 title: Ice Crafter, Feat 4
 collapse: closed
-# Ice Crafter  *Feat 4*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Pactbound Dedication](compendium/feats/pactbound-dedication-lomm.md)
@@ -46,7 +44,6 @@ The ancient ice-crafting techniques of the saumen kar awaken within you. You bec
 ```ad-embed-feat
 title: Crown of the Saumen Kar, Feat 6
 collapse: closed
-# Crown of the Saumen Kar  *Feat 6*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: [Pactbound Dedication](compendium/feats/pactbound-dedication-lomm.md)
@@ -60,7 +57,6 @@ Your body begins to evolve and adapt, taking the first steps  towards blending y
 ```ad-embed-feat
 title: Frostbite Runes, Feat 12*
 collapse: closed
-# Frostbite Runes  *Feat 12*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  
 
 > [!pf2-note] This version of [Frostbite Runes](compendium/feats/frostbite-runes-lomm.md) is intended for use with the Pactbound Initiate Archetype. Its level has been changed accordingly.
@@ -76,7 +72,6 @@ Thick tattoos, each one a rune fragment from the saumen kar's long-lost language
 ```ad-embed-feat
 title: Curse of the Saumen Kar, Feat 14*
 collapse: closed
-# Curse of the Saumen Kar  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 14*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  
 
 > [!pf2-note] This version of [Curse of the Saumen Kar](compendium/feats/curse-of-the-saumen-kar-lomm.md) is intended for use with the Pactbound Initiate Archetype. Its level has been changed accordingly.
@@ -96,7 +91,6 @@ The dome has AC 10, Hardness 20, and 40 Hit Points; it's immune to cold, critica
 ````ad-embed-feat
 title: Bound in Ice, Feat 16*
 collapse: closed
-# Bound in Ice  *Feat 16*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
 
 > [!pf2-note] This version of [Bound in Ice](compendium/feats/bound-in-ice-lomm.md) is intended for use with the Pactbound Initiate Archetype. Its level has been changed accordingly.
@@ -108,8 +102,9 @@ You become a hybrid of your ancestry and a saumen kar. Your size increases to La
 You also gain the Blizzard Evasion reaction.
 
 ```ad-embed-ability
-title: Blizzard Evasion [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Blizzard Evasion** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
+- **Frequency**: once per day
 - **Trigger**: You take 40 or more physical damage from a single attack
 
 **Effect** You designate a single creature as your mark. This lasts until the mark dies or you use Mark for Death again. You gain a +2 circumstance bonus to [Perception](compendium/skills.md#Perception) checks to [Seek](rules/actions/seek.md) your mark and on [Deception](compendium/skills.md#Deception) checks to [Feint](rules/actions/feint.md) against your mark. Your [agile](rules/traits/agile.md "Agile Weapon Trait") and [finesse](rules/traits/finesse.md "Finesse Weapon Trait") weapons and unarmed attacks gain the backstabber and [deadly <d6>](rules/traits/deadly-d6.md "Deadly Weapon Trait") weapon traits when you're attacking your mark.

@@ -14,6 +14,7 @@ aliases: ["Owb Pact"]
 - **Cast** 1 day
 - **Secondary Casters** 2
 - **Primary Checks** [Occultism](compendium/skills.md#Occultism) (expert)
+- 
 
 You call upon an owb to assist you in a goal. Only caligni callers can use this ritual with relative safety. If a different type of caligni attempts this ritual, they use an outcome one degree of success worse than the result of their check. If a non-caligni attempts this ritual, the result is an automatic critical failure.
 
