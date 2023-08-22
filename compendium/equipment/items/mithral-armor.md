@@ -15,6 +15,7 @@ aliases: ["Mithral Armor"]
 Mithral armor is 1 Bulk lighter than normal (or light Bulk if its normal Bulk is 1, with no effect on armor that normally has light Bulk). It's easier to wear than normal metal armor, reducing the Strength score necessary to ignore its check penalty by 2 and reducing its Speed penalty by 5 feet.
 
 ---
+
 ### Variants
 
 #### standard-grade mithral armor *Item 12*

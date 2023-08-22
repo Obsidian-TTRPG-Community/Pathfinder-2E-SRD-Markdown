@@ -19,6 +19,7 @@ Ablative armor plating is additional plating, combined with springs, clever cloc
 The process of attaching the plating takes 10 minutes and grants the wearer of the armor the listed temporary Hit Points for the stated duration or until lost. Removing the plating early destroys it.
 
 ---
+
 ### Variants
 
 #### lesser *Item 1*

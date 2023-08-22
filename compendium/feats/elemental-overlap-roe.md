@@ -15,5 +15,5 @@ Though you've dedicated yourself to one element, you learn to mix that element w
 
 **Special.** You can select this feat more than once, choosing a different impulse feat each time.
 
-*Source: RoE p. 22*  
+*Source: Rage of Elements p. 22*  
 %% #compendium/src/pf2e/roe #trait/kineticist %%

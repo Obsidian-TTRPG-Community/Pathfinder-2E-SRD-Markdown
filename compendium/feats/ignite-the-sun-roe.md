@@ -21,5 +21,5 @@ The sun lasts until the end of your next turn, but you can Sustain it up to 1 mi
 
 The sun continually channels fire into you and your allies. You and each of your allies within the sun's light deal an additional `1d6` fire damage with all Strikes, spells that deal fire damage, and impulses that deal fire damage (except for Ignite the Sun itself). These aren't cumulative with multiple suns.
 
-*Source: RoE p. 29*  
+*Source: Rage of Elements p. 29*  
 %% #compendium/src/pf2e/roe #trait/fire #trait/impulse #trait/kineticist #trait/light #trait/primal %%

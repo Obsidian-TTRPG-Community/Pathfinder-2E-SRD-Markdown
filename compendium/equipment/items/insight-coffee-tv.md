@@ -27,6 +27,7 @@ For 1 hour after you drink an insight coffee, you use d8s instead of d6s for you
 - Toffee [Medicine](compendium/skills.md#Medicine)
 
 ---
+
 ### Variants
 
 #### lesser *Item 6*

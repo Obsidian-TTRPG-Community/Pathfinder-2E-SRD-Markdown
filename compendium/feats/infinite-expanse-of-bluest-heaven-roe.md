@@ -27,5 +27,5 @@ Each creature in the area or that later enters it must attempt a Will save again
 > - **Success** The creature is off-guard.
 > - **Failure** The creature is off-guard. It is [fleeing](rules/conditions.md#Fleeing) from the illusory sky but is also disoriented; any time it uses an action to attempt to flee, it must succeed at a DC 11 flat check or flee to a space that's still within the illusion. The GM determines where the creatures ends up, but the creature can't stay stationary if it's able to move.
 
-*Source: RoE p. 25*  
+*Source: Rage of Elements p. 25*  
 %% #compendium/src/pf2e/roe #trait/air #trait/illusion #trait/impulse #trait/kineticist #trait/mental #trait/overflow #trait/primal #trait/visual %%

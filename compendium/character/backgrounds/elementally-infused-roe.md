@@ -9,7 +9,7 @@ tags:
 aliases: ["Elementally Infused"]
 ---
 # Elementally Infused
-*Source: RoE p. 44*  
+*Source: Rage of Elements p. 44*  
 
 You were exposed to a strong burst of elemental essence originating directly from an elemental plane, most likely caused by a planar breach. Your body absorbed the elemental essence with no ill effects, and now it coalesces within you. With time, you've learned to project elemental power in a manner safe to you but still deadly to others.
 

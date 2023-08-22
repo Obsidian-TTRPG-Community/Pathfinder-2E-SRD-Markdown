@@ -10,7 +10,7 @@ tags:
 aliases: ["Tumbling Lumber"]
 ---
 # Tumbling Lumber  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 4*  
-[impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  wood  
+[impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [wood](rules/traits/wood-roe.md "Wood Energy & Element Trait")  
 
 - **Activity** Two-Action
 
@@ -20,7 +20,7 @@ A slew of logs eject from the Plane of Wood and slam into your enemies. They rol
 > - **Critical Success** The creature is unaffected.
 > - **Success** The creature takes half damage.
 > - **Failure** The creature takes full damage and is pushed out of the line in the most direct path available.
-> - **Critical Failure** The creature takes double damage and is knocked [prone](rules/conditions.md#Prone). Level (+3) The damage increases by `1d8`.
+> - **Critical Failure** The creature takes double damage and is knocked [prone](rules/conditions.md#Prone).
 
-*Source: RoE p. 34*  
+*Source: Rage of Elements p. 34*  
 %% #compendium/src/pf2e/roe #trait/impulse #trait/kineticist #trait/primal #trait/wood %%

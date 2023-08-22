@@ -19,6 +19,7 @@ This lavish meal with meats, fresh and dried fruits, grains, and wine smells abs
 If you eat or drink a morsel of the leftover meal after the undead has eaten its fill, you can communicate with the undead as if you shared a language. Though you can feed a meal to a mindless undead, it does not give the mindless undead or you the ability to communicate with one another.
 
 ---
+
 ### Variants
 
 #### feast of hungry ghosts *Item 9*

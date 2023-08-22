@@ -26,6 +26,7 @@ title: **Activate** [V](rules/core-rulebook/chapter-9-playing-the-game.md#Action
 ```
 
 ---
+
 ### Variants
 
 #### lesser *Item 6*

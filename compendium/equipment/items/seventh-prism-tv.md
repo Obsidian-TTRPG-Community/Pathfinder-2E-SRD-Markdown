@@ -20,6 +20,7 @@ Beloved by the church of the Seventh Veil, a seventh prism is a crystal that dis
 On a critical failure, the target is [dazzled](rules/conditions.md#Dazzled) for 1 minute after its [blinded](rules/conditions.md#Blinded) condition ends. Motes of shifting rainbow hues cloud the eyes, making it difficult to see details.
 
 ---
+
 ### Variants
 
 #### triangular seventh prism *Item 3*

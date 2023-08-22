@@ -24,6 +24,7 @@ Your mind becomes clear and cognition flows freely, but physical matters seem ep
 **Drawback** You take a –2 penalty to weapon and unarmed attack rolls, [Athletics](compendium/skills.md#Athletics) checks, and [Acrobatics](compendium/skills.md#Acrobatics) checks. You can carry 2 less Bulk than normal before becoming [encumbered](rules/conditions.md#Encumbered), and the maximum Bulk you can carry is reduced by 4.
 
 ---
+
 ### Variants
 
 #### lesser *Item 1*

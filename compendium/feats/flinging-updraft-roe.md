@@ -19,7 +19,7 @@ A speeding wind heeds your call, picking someone up and depositing them nearby. 
 > [!success-degree] 
 > - **Success** The creature is unaffected.
 > - **Failure** You make the creature jump up to half the maximum distance.
-> - **Critical Failure** You make the creature jump up to the maximum distance. Level (+2) The maximum distance increases by 15 feet.
+> - **Critical Failure** You make the creature jump up to the maximum distance.
 
-*Source: RoE p. 24*  
+*Source: Rage of Elements p. 24*  
 %% #compendium/src/pf2e/roe #trait/air #trait/impulse #trait/kineticist #trait/primal %%

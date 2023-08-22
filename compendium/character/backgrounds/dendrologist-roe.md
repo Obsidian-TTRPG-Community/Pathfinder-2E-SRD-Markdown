@@ -9,7 +9,7 @@ tags:
 aliases: ["Dendrologist"]
 ---
 # Dendrologist
-*Source: RoE p. 44*  
+*Source: Rage of Elements p. 44*  
 
 Trees grow in every biome, and your awe at their ability to conquer terrain has inspired deeper study into their workings.
 

@@ -20,5 +20,5 @@ Bone-chilling, swirling sleet surrounds you, cruel as deepest winter. Surfaces i
 
 If a creature on the ice is critically hit by one of your water impulses or critically fails at a save against one, that creature is [slowed](rules/conditions.md#Slowed) until the end of its next turn.
 
-*Source: RoE p. 32*  
+*Source: Rage of Elements p. 32*  
 %% #compendium/src/pf2e/roe #trait/cold #trait/impulse #trait/kineticist #trait/primal #trait/stance #trait/water %%

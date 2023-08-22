@@ -16,5 +16,5 @@ aliases: ["Flowering Path"]
 
 Vitality and elemental wood flows out from your body and into the earth, infusing it with a stream of new life. When you walk, you leave blooming flowers and sprouting vines in your wake. For the next minute, each time you [Step](rules/actions/step.md) or [Stride](rules/actions/stride.md), you create difficult terrain in each square you leave during your movement.
 
-*Source: RoE p. 49*  
+*Source: Rage of Elements p. 49*  
 %% #compendium/src/pf2e/roe #trait/ardande #trait/plant #trait/primal %%

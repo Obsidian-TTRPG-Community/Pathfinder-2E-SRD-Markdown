@@ -28,6 +28,7 @@ You cast [produce flame](compendium/spells/produce-flame.md).
 ```
 
 ---
+
 ### Variants
 
 #### flaming star *Item 3*

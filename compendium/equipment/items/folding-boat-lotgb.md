@@ -30,6 +30,7 @@ A folding boat with the [broken](rules/conditions.md#Broken) condition must be r
 ```
 
 ---
+
 ### Variants
 
 #### folding boat *Item 8*

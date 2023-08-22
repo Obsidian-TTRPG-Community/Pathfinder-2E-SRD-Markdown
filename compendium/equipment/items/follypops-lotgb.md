@@ -21,6 +21,7 @@ These savory breaded snacks stuffed with cheese, peppers, and "secret ingredient
 During this time, you can unleash magic in the area up to three times as a single action, which has the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") trait, with an area and damage determined by the type of pop; the third time you use this magic, the effects of your follypops end. All creatures within the area must attempt a DC 27 basic saving throw each time you unleash magic, as noted by the type of pop.
 
 ---
+
 ### Variants
 
 #### hotpops *Item 0*

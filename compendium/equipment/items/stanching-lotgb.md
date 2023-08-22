@@ -17,6 +17,7 @@ aliases: ["Stanching"]
 These symbols close bloody wounds. Armor with this rune reduces the DC of the flat check to end [persistent bleed damage](rules/conditions.md#Persistent%20Damage) from 15 to 12 (7 with particularly effective assistance).
 
 ---
+
 ### Variants
 
 #### stanching *Item 5*

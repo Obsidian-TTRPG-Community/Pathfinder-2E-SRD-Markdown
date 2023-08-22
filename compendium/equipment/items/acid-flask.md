@@ -20,6 +20,7 @@ aliases: ["Acid Flask"]
 This flask filled with corrosive acid deals 1 acid damage, the listed [persistent acid damage](rules/conditions.md#Persistent%20Damage), and the listed acid splash damage. Many types grant an item bonus to attack rolls.
 
 ---
+
 ### Variants
 
 #### lesser *Item 1*

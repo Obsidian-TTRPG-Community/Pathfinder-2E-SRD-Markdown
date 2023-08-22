@@ -14,5 +14,5 @@ Choose cold iron or silver. Your melee unarmed attacks have the special properti
 
 **Special.** You can take this ancestry feat multiple times, choosing a different metal each time.
 
-*Source: RoE p. 53*  
+*Source: Rage of Elements p. 53*  
 %% #compendium/src/pf2e/roe #trait/talos %%

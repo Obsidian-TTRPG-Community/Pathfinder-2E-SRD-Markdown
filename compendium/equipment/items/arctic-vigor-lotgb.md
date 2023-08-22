@@ -28,6 +28,7 @@ title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actio
 ```
 
 ---
+
 ### Variants
 
 #### arctic vigor *Item 10*

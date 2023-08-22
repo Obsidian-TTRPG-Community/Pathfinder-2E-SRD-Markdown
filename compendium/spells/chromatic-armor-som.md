@@ -25,14 +25,14 @@ When you cast the spell, roll `1d8` twice on the table below to see the armor's 
 
 Each color grants resistance 5 to the indicated damage type. If you spend three actions to [Cast the Spell](rules/actions/cast-a-spell.md), roll three times instead.
 
-- **1. Red** fire
-- **2. Orange** acid
-- **3. Yellow** electricity
-- **4. Green** poison
-- **5. Blue** sonic
-- **6. Indigo** mental
-- **7. Violet** force
-- **8. Matching Color** The armor becomes the color matching the type of damage the target took most recently in the past minute. If it didn't take any of those seven types of damage or the armor is already that color, roll again, rerolling any results of 8.
+- **1. Red.** fire
+- **2. Orange.** acid
+- **3. Yellow.** electricity
+- **4. Green.** poison
+- **5. Blue.** sonic
+- **6. Indigo.** mental
+- **7. Violet.** force
+- **8. Matching Color.** The armor becomes the color matching the type of damage the target took most recently in the past minute. If it didn't take any of those seven types of damage or the armor is already that color, roll again, rerolling any results of 8.
 
 **Heightened (+ 3)** The resistance is increased by 5.
 

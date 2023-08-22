@@ -24,8 +24,8 @@ title: **Activate** [V](rules/core-rulebook/chapter-9-playing-the-game.md#Action
 
 **Effect** You trace your finger along the base of the ram horns, with an effect depending on how many actions you spent.
 
-- **[>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")** Your legchair draws force from its momentum. Until the end of this turn, if your legchair Strides, it deals `2d6` additional force damage on its next [Strike](rules/actions/strike.md) and, on a critical success, pushes the target away by 5 feet.
-- **[>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")** Your legchair fires a beam of force from its ram horns. The target takes `4d6` force damage and must attempt a DC 22 Fortitude save.  
+- **[>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action").** Your legchair draws force from its momentum. Until the end of this turn, if your legchair Strides, it deals `2d6` additional force damage on its next [Strike](rules/actions/strike.md) and, on a critical success, pushes the target away by 5 feet.
+- **[>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action").** Your legchair fires a beam of force from its ram horns. The target takes `4d6` force damage and must attempt a DC 22 Fortitude save.  
   
     > [!success-degree]   
     > - **Critical Success** The target is unaffected.  

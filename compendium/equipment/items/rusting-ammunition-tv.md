@@ -19,6 +19,7 @@ aliases: ["Rusting Ammunition"]
 Rusting ammunition is made using a rust monster's saliva and, when activated, deals damage to objects or creatures primarily made of metal. The target takes [persistent damage](rules/conditions.md#Persistent%20Damage) for a duration determined by the type of ammunition used. A creature that drops to 0 Hit Points while taking this [persistent damage](rules/conditions.md#Persistent%20Damage) crumbles into fine powder; its gear remains. The ammunition's type determines the maximum amount of an object that's destroyed.
 
 ---
+
 ### Variants
 
 #### moderate *Item 13*

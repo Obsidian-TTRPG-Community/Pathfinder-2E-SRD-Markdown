@@ -27,6 +27,7 @@ title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actio
 ```
 
 ---
+
 ### Variants
 
 #### mask of the banshee *Item 9*

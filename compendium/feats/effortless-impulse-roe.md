@@ -14,5 +14,5 @@ aliases: ["Effortless Impulse"]
 
 A steady ripple from your kinetic gate maintains one of your impulses. You immediately Sustain one of your active impulses that can be sustained.
 
-*Source: RoE p. 23*  
+*Source: Rage of Elements p. 23*  
 %% #compendium/src/pf2e/roe #trait/kineticist %%

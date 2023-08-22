@@ -23,5 +23,5 @@ The effect lasts until the end of your next turn, but you can Sustain the form u
 
 You can use Body of Air as a reaction only when the trigger is met, but you can use it as a 2-action activity without the trigger being met.
 
-*Source: RoE p. 25*  
+*Source: Rage of Elements p. 25*  
 %% #compendium/src/pf2e/roe #trait/air #trait/impulse #trait/kineticist #trait/overflow #trait/polymorph #trait/primal %%

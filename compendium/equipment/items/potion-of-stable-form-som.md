@@ -19,6 +19,7 @@ aliases: ["Potion Of Stable Form"]
 This aromatic potion is brewed from the white flowers and black roots of the magical herb moly. When you drink this potion, it immediately attempts to counteract all [hostile](rules/conditions.md#Hostile) [transmutation](rules/traits/transmutation.md "Transmutation School Trait") effects affecting you. For the next hour, you gain an item bonus against [transmutation](rules/traits/transmutation.md "Transmutation School Trait") effects, which is greater against [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait") effects. If you roll a success against a [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait") effect during that time, you get a critical success instead.
 
 ---
+
 ### Variants
 
 #### potion of stable form *Item 10*

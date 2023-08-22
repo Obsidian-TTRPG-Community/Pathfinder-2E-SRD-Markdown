@@ -16,6 +16,7 @@ aliases: ["Dragonhide Shield"]
 Dragonhide shields are each immune to one damage type based on the type of dragon (see Dragonhide on page 579).
 
 ---
+
 ### Variants
 
 #### standard-grade dragonhide buckler *Item 8*

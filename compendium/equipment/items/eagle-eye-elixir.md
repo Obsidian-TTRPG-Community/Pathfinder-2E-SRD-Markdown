@@ -18,6 +18,7 @@ aliases: ["Eagle-eye Elixir"]
 After you drink this elixir, you notice subtle visual details. For the next hour, you gain an item bonus to [Perception](compendium/skills.md#Perception) checks that is greater when attempting to find secret doors and traps.
 
 ---
+
 ### Variants
 
 #### lesser *Item 1*

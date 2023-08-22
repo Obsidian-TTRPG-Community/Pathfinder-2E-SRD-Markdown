@@ -25,5 +25,5 @@ Intense cold swirls around your foe, covering it in frost that slows it down and
 > - **Failure** The target is frozen solid. It can't act, its AC is 9, it has Hardness 5, and it's immune to other [cold](rules/traits/cold.md "Cold Energy & Element Trait") effects, critical hits, and precision damage. This lasts until the end of your next turn, but if the target is affected by a [hostile](rules/conditions.md#Hostile) action, this effect ends immediately after that action.
 > - **Critical Failure** As failure, but after becoming unfrozen, the creature is [slowed](rules/conditions.md#Slowed) until the end of its next turn.
 
-*Source: RoE p. 33*  
+*Source: Rage of Elements p. 33*  
 %% #compendium/src/pf2e/roe #trait/cold #trait/impulse #trait/incapacitation #trait/kineticist #trait/overflow #trait/primal #trait/water %%

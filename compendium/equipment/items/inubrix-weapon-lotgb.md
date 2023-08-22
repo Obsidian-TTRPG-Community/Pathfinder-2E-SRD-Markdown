@@ -19,6 +19,7 @@ A weapon crafted from inubrix reduces the weapon's damage die by 1 size. However
 [Strikes](rules/actions/strike.md) with inubrix weapons don't trigger the Shield Block reaction from a metal shield. Weapons that normally deal `1d4` damage can't be crafted from inubrix.
 
 ---
+
 ### Variants
 
 #### standard-grade inubrix weapon *Item 11*

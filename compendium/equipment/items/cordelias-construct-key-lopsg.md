@@ -39,6 +39,7 @@ title: **Activate** [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Acti
 ```
 
 ---
+
 ### Variants
 
 #### Cordelia's construct key *Item 8*

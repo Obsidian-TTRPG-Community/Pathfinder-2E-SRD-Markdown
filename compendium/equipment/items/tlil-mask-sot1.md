@@ -30,6 +30,7 @@ The effect lasts for 1 minute.
 ```
 
 ---
+
 ### Variants
 
 #### tlil mask *Item 5*

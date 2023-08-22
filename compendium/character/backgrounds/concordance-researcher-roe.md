@@ -8,7 +8,7 @@ tags:
 aliases: ["Concordance Researcher"]
 ---
 # Concordance Researcher
-*Source: RoE p. 44*  
+*Source: Rage of Elements p. 44*  
 
 Tasked by the Concordance of Elements (page 7) to research a variety of enigmatic planar phenomena, you've acquired very specific knowledge about the planes and the interactions between them. While being a researcher is usually a peaceful profession, the Concordance might require you to go out into the field and research unstable planar situations. Choose two attribute boosts. One must be to Intelligence or Wisdom, and one is a free attribute boost.
 

@@ -19,6 +19,7 @@ This item consists of two magically linked rings: an intricate, gleaming golden 
 The replication functions only if you wear both rings, and it ends as soon as you cease wielding a melee weapon in one of your hands. Consequently, the benefit doesn't apply to thrown attacks or if you're holding a weapon but not wielding it (such as holding in one hand a weapon that requires two hands to wield).
 
 ---
+
 ### Variants
 
 #### doubling rings *Item 3*

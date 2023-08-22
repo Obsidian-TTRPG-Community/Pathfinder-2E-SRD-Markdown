@@ -23,6 +23,7 @@ You can activate the tools when you use them to [Treat Poison](rules/actions/tre
 ```
 
 ---
+
 ### Variants
 
 #### standard *Item 12*

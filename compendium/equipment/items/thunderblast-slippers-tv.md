@@ -26,6 +26,7 @@ title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actio
 ```
 
 ---
+
 ### Variants
 
 #### thunderblast slippers *Item 9*

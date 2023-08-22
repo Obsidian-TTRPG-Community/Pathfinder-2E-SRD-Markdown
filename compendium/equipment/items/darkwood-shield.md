@@ -15,6 +15,7 @@ aliases: ["Darkwood Shield"]
 Darkwood shields are 1 Bulk lighter than normal (or light Bulk if their normal Bulk is 1, with no effect on a shield that normally has light Bulk).
 
 ---
+
 ### Variants
 
 #### standard-grade darkwood buckler *Item 8*

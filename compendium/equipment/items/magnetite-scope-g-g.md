@@ -24,6 +24,7 @@ The next [Strike](rules/actions/strike.md) you make this round with the gun to w
 ```
 
 ---
+
 ### Variants
 
 #### magnetite Scope *Item 9*

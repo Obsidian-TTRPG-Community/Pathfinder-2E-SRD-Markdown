@@ -14,20 +14,54 @@ aliases: ["Adamantine"]
 
 Mined from rocks that fell from the heavens, adamantine is one of the hardest metals known. It has a shiny, black appearance, and it is prized for its amazing resiliency and ability to hold an incredibly sharp edge.
 
-| Adamantine Items | Hardness | HP | BT |
-|------------------|----------|----|----|
-| **Thin Items** |  |  |  |
-| multiRow |  |
-| multiRow |  |
-| **Items** |  |  |  |
-| multiRow |  |
-| multiRow |  |
-| **Structures** |  |  |  |
-| multiRow |  |
-| multiRow |  |
+<table>
+<tr>
+  <th>Adamantine Items</th>
+  <th>Hardness</th>
+  <th>HP</th>
+  <th>BT</th>
+</tr>
+<tr>
+  <td>**Thin Items**</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Standard-grade<br />High-grade</td>
+  <td>10<br />13</td>
+  <td>40<br />52</td>
+  <td>20<br />26</td>
+</tr>
+<tr>
+  <td>**Items**</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Standard-grade<br />High-grade</td>
+  <td>14<br />17</td>
+  <td>56<br />68</td>
+  <td>28<br />34</td>
+</tr>
+<tr>
+  <td>**Structures**</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Standard-grade<br />High-grade</td>
+  <td>28<br />34</td>
+  <td>112<br />136</td>
+  <td>56<br />68</td>
+</tr>
+</table>
 
 
 ---
+
 ### Variants
 
 #### adamantine chunk *Item 0*

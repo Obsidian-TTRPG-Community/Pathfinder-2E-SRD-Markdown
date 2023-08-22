@@ -21,6 +21,7 @@ This elixir sharpens your mind and allows you to see through lies, falsehoods, a
 You gain an item bonus to [Perception](compendium/skills.md#Perception) checks and [Perception](compendium/skills.md#Perception) DCs to notice falsehoods, whether they're spoken lies or written deceit. You gain this same item bonus to Will saves.
 
 ---
+
 ### Variants
 
 #### lesser *Item 1*

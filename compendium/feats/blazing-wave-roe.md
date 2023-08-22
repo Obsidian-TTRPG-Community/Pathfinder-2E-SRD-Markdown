@@ -15,7 +15,7 @@ aliases: ["Blazing Wave"]
 
 - **Activity** Two-Action
 
-Flames flow out of you in a cascade, engulfing everyone in a 30-foot cone. Each creature in the area takes `4d6` fire damage with a basic Reflex save against your class DC. A creature that critically fails its save is knocked [prone](rules/conditions.md#Prone). Level (+2) The damage increases by `1d6`.
+Flames flow out of you in a cascade, engulfing everyone in a 30-foot cone. Each creature in the area takes `4d6` fire damage with a basic Reflex save against your class DC. A creature that critically fails its save is knocked [prone](rules/conditions.md#Prone).
 
-*Source: RoE p. 28*  
+*Source: Rage of Elements p. 28*  
 %% #compendium/src/pf2e/roe #trait/fire #trait/impulse #trait/kineticist #trait/overflow #trait/primal %%

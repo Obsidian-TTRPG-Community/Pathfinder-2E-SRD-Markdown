@@ -25,6 +25,7 @@ title: **Ram** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "
 ```
 
 ---
+
 ### Variants
 
 #### battering ram *Item 5*

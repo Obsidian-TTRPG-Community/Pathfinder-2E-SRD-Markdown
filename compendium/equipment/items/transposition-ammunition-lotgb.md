@@ -20,6 +20,7 @@ aliases: ["Transposition Ammunition"]
 Transposition ammunition has a milky-white cast and will sometimes shift position subtly of its own accord. When you activate the ammunition, instead of making your [Strike](rules/actions/strike.md) against a foe, you fire transposition ammunition at any unoccupied square you can see within your weapon's first range increment and succeed without making an attack roll. You pull yourself through the Astral Plane, teleporting along with any items you are holding into the square where you shot the ammunition. If this would carry along any other creature (even one in an extradimensional space), the activation fails.
 
 ---
+
 ### Variants
 
 #### transposition ammunition *Item 9*

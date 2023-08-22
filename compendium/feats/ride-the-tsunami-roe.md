@@ -19,5 +19,5 @@ Booming, crashing walls of water, enough to fill a harbor, smash out ahead of yo
 
 As the wave crashes down, you can catch it to your destination. After the impulse deals damage, you can [Swim](rules/actions/swim.md) in a straight line to any point in its area before the water disappears.
 
-*Source: RoE p. 33*  
+*Source: Rage of Elements p. 33*  
 %% #compendium/src/pf2e/roe #trait/impulse #trait/kineticist #trait/overflow #trait/primal #trait/water %%

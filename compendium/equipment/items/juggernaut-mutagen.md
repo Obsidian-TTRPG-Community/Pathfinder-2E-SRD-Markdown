@@ -24,6 +24,7 @@ After you drink this mutagen, your body becomes thick and sturdy. You exhibit a 
 **Drawback** You take a –2 penalty to Will saves, [Perception](compendium/skills.md#Perception) checks, and initiative rolls.
 
 ---
+
 ### Variants
 
 #### lesser *Item 1*

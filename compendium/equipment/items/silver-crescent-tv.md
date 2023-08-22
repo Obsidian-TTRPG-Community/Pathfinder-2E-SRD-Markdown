@@ -27,6 +27,7 @@ This is treated as silver for the purposes of weaknesses, resistances, and the l
 ```
 
 ---
+
 ### Variants
 
 #### lesser *Item 6*

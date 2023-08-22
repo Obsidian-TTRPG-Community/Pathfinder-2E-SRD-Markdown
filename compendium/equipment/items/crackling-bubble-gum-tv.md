@@ -27,6 +27,7 @@ You blow a bubble with the gum until it pops, after which it becomes inert. The 
 ```
 
 ---
+
 ### Variants
 
 #### lesser *Item 5*

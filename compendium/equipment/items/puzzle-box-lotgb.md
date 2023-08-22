@@ -13,6 +13,7 @@ aliases: ["Puzzle Box"]
 A puzzle box features moving parts, locking mechanisms, and other components designed to confound the user. Solving a puzzle box typically requires three successful [Games Lore](compendium/skills.md#Lore) or [Thievery](compendium/skills.md#Thievery) checks to Open a Lock, though puzzle boxes come in countless configurations and themes, and the GM can determine which skills are appropriate.
 
 ---
+
 ### Variants
 
 #### simple puzzle box *Item 0*

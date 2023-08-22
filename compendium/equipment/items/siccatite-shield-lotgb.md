@@ -18,6 +18,7 @@ Siccatite shields radiate extreme temperatures that protect them from energy dam
 For a high-grade siccatite shield, the resistances increase from 10 to 20 for damage of the corresponding type, and from 5 to 10 for damage of the opposing type.
 
 ---
+
 ### Variants
 
 #### standard-grade siccatite buckler *Item 8*

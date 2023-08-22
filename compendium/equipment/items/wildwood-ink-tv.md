@@ -30,6 +30,7 @@ If you've already Activated the tattoo, you can supply a separate casting of tre
 ```
 
 ---
+
 ### Variants
 
 #### wildwood ink *Item 4*

@@ -19,6 +19,7 @@ This platinum choker bears characters from a language's alphabet, and it gives k
 Your excellent elocution reduces the DC of the flat check to perform an auditory action while [deafened](rules/conditions.md#Deafened) from 5 to 3.
 
 ---
+
 ### Variants
 
 #### choker of elocution *Item 6*

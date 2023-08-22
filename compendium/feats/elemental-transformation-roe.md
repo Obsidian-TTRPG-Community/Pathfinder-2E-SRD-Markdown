@@ -18,5 +18,5 @@ aliases: ["Elemental Transformation"]
 
 You open your kinetic gate, but rather than activating your kinetic aura, you instead become overwhelmed with transformative elemental energy. You're affected by an [elemental form](compendium/spells/elemental-form.md) spell with the same trait as your kinetic element. You can heighten it to any spell rank up to half your level rounded up.
 
-*Source: RoE p. 23*  
+*Source: Rage of Elements p. 23*  
 %% #compendium/src/pf2e/roe #trait/kineticist #trait/polymorph #trait/primal %%

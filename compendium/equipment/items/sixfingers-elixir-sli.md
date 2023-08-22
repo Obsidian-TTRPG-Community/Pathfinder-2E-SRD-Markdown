@@ -22,6 +22,7 @@ This gritty, spicy fluid causes you to grow a sixth finger on each hand and give
 You gain a +2 item bonus to your Reflex DC to keep from being Disarmed and a climb Speed of 20 feet for the listed duration.
 
 ---
+
 ### Variants
 
 #### lesser *Item 5*

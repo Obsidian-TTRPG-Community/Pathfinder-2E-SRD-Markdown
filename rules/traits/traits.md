@@ -121,20 +121,16 @@ cssclass: pf2e,pf2e-index
 - [Champion](rules/traits/champion.md "Champion Class Trait")
 - [Class](rules/traits/class-som.md "Class Class Trait")
 - [Cleric](rules/traits/cleric.md "Cleric Class Trait")
-- [Composite](rules/traits/composite-roe.md "Composite Action & Ability Trait")
 - [Deviant](rules/traits/deviant-da.md "Deviant Action & Ability Trait")
 - [Druid](rules/traits/druid.md "Druid Class Trait")
 - [Fighter](rules/traits/fighter.md "Fighter Class Trait")
 - [Gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")
-- [Impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")
-- [Infusion](rules/traits/infusion-roe.md "Infusion Action & Ability Trait")
 - [Inventor](rules/traits/inventor-g-g.md "Inventor Class Trait")
 - [Investigator](rules/traits/investigator-apg.md "Investigator Class Trait")
 - [Kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")
 - [Magus](rules/traits/magus-som.md "Magus Class Trait")
 - [Monk](rules/traits/monk.md "Monk Class Trait")
 - [Oracle](rules/traits/oracle-apg.md "Oracle Class Trait")
-- [Overflow](rules/traits/overflow-roe.md "Overflow Action & Ability Trait")
 - [Psychic](rules/traits/psychic-da.md "Psychic Class Trait")
 - [Ranger](rules/traits/ranger.md "Ranger Class Trait")
 - [Rogue](rules/traits/rogue.md "Rogue Class Trait")
@@ -332,10 +328,12 @@ cssclass: pf2e,pf2e-index
 - [Energy](rules/traits/energy-loag.md "Energy Energy & Element Trait")
 - [Fire](rules/traits/fire.md "Fire Energy & Element Trait")
 - [Force](rules/traits/force.md "Force Energy & Element Trait")
+- [Metal](rules/traits/metal-roe.md "Metal Energy & Element Trait")
 - [Negative](rules/traits/negative.md "Negative Energy & Element Trait")
 - [Positive](rules/traits/positive.md "Positive Energy & Element Trait")
 - [Sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")
 - [Water](rules/traits/water.md "Water Energy & Element Trait")
+- [Wood](rules/traits/wood-roe.md "Wood Energy & Element Trait")
 
 ## Equipment
 
@@ -464,6 +462,7 @@ cssclass: pf2e,pf2e-index
 - [Immeasurable](rules/traits/immeasurable-gmg.md "Immeasurable Planar Trait")
 - [Lawful](rules/traits/lawful.md "Lawful Alignment Trait")
 - [Low Gravity](rules/traits/low-gravity-gmg.md "Low Gravity Gravity Trait")
+- [Metal](rules/traits/metal-roe.md "Metal Energy & Element Trait")
 - [Microgravity](rules/traits/microgravity-gmg.md "Microgravity Gravity Trait")
 - [Sentient](rules/traits/sentient-gmg.md "Sentient Morphic Trait")
 - [Static](rules/traits/static-gmg.md "Static Planar Trait")
@@ -472,6 +471,7 @@ cssclass: pf2e,pf2e-index
 - [Timeless](rules/traits/timeless-gmg.md "Timeless Planar Trait")
 - [Unbounded](rules/traits/unbounded-gmg.md "Unbounded Planar Trait")
 - [Water](rules/traits/water.md "Water Energy & Element Trait")
+- [Wood](rules/traits/wood-roe.md "Wood Energy & Element Trait")
 
 ## Rarity
 

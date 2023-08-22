@@ -25,6 +25,7 @@ You change the mask's appearance into an artistic rendition of a dramatic charac
 ```
 
 ---
+
 ### Variants
 
 #### persona mask *Item 3*

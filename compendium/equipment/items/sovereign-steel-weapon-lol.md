@@ -15,6 +15,7 @@ aliases: ["Sovereign Steel Weapon"]
 Sovereign steel weapons are treated as cold iron against creatures with a weakness to cold iron, like demons and fey. In addition, the noqual in sovereign steel weapons disrupts spellcasters' concentration, causing them to become [stupefied](rules/conditions.md#Stupefied) for 1 round on a critical hit.
 
 ---
+
 ### Variants
 
 #### standard-grade sovereign steel weapon *Item 12*

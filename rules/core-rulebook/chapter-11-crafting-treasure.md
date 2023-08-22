@@ -776,6 +776,7 @@ Each type of wand has a Level and Price determined by the spell's level. The wan
 > ```
 > 
 > ---
+> 
 > ### Variants
 > 
 > ####  *Item 3*

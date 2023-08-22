@@ -9,7 +9,7 @@ tags:
 aliases: ["Deep-Sea Diver"]
 ---
 # Deep-Sea Diver
-*Source: RoE p. 44*  
+*Source: Rage of Elements p. 44*  
 
 The sapphire depths of the seas and the mysteries they hold beneath their surface have always piqued your interest. Your obsession with the ocean depths cannot be contained to one world alone, and you've read tomes and journals about the source of all water, everywhere, hoping to one day understand the watery secrets of the great unknown.
 

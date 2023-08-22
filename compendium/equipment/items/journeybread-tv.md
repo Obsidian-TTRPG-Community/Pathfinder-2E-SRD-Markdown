@@ -18,6 +18,7 @@ aliases: ["Journeybread"]
 Journeybread contains a mix of fruits, nuts, and grains with an alchemical boost. Eating one journeybread provides all the food and water you need for a day. If you subsist on nothing else for a week, you become temporarily immune to journeybread until you eat real food and drink water normally for 24 hours.
 
 ---
+
 ### Variants
 
 #### journeybread *Item 1*

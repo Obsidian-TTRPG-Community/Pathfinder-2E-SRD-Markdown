@@ -29,6 +29,7 @@ title: **Activate** [V](rules/core-rulebook/chapter-9-playing-the-game.md#Action
 ```
 
 ---
+
 ### Variants
 
 #### avaria *Item 3*

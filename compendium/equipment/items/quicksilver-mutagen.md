@@ -24,6 +24,7 @@ Your features become thin and angular. You become swifter and nimbler, but your 
 **Drawback** You take damage equal to twice your level; you can't recover Hit Points lost in this way by any means while the mutagen lasts. You take a –2 penalty to Fortitude saves.
 
 ---
+
 ### Variants
 
 #### lesser *Item 1*

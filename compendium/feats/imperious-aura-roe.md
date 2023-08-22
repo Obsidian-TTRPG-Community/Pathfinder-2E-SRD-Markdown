@@ -17,5 +17,5 @@ aliases: ["Imperious Aura"]
 
 Your glowing and majestic kinetic aura marks you as a true child of the elements. Use a stance impulse that affects your kinetic aura.
 
-*Source: RoE p. 23*  
+*Source: Rage of Elements p. 23*  
 %% #compendium/src/pf2e/roe #trait/impulse #trait/kineticist #trait/primal %%

@@ -14,6 +14,7 @@ aliases: ["Religious Symbol"]
 This piece of wood or silver is emblazoned with an image representing a deity. Some divine spellcasters, such as clerics, can use a religious symbol of their deity as a divine focus to use certain abilities and cast some spells. A religious symbol must be held in one hand to use it.
 
 ---
+
 ### Variants
 
 #### Wooden *Item 0*

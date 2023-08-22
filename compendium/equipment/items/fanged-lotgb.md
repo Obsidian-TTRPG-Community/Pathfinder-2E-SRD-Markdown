@@ -27,6 +27,7 @@ You transform into a [Small](rules/traits/small-b1.md "Small Size Trait") or [Me
 ```
 
 ---
+
 ### Variants
 
 #### fanged *Item 2*

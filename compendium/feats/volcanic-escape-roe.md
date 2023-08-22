@@ -18,7 +18,5 @@ aliases: ["Volcanic Escape"]
 
 Lava reflexively explodes underneath you and the creature that hurt you. The triggering enemy takes `1d6` fire damage with a basic Reflex save against your class DC. You [Leap](rules/actions/leap.md) up to half your Speed in any direction; this movement doesn't trigger reactions.
 
-Level (+4) The damage increases by `1d6`.
-
-*Source: RoE p. 28*  
+*Source: Rage of Elements p. 28*  
 %% #compendium/src/pf2e/roe #trait/fire #trait/impulse #trait/kineticist #trait/overflow #trait/primal %%

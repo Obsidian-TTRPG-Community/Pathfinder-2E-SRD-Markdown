@@ -13,7 +13,7 @@ tags:
 aliases: ["Dash of Herbs"]
 ---
 # Dash of Herbs  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 6*  
-[healing](rules/traits/healing.md "Healing Effect Trait")  [impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  vitality  wood  
+[healing](rules/traits/healing.md "Healing Effect Trait")  [impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [wood](rules/traits/wood-roe.md "Wood Energy & Element Trait")  vitality  
 
 - **Activity** Two-Action
 
@@ -21,7 +21,5 @@ A small cloud of medicinal herbs heal a creature. The type of herbs depends on w
 
 Alternatively, you can add the herbs to a dish of food being prepared for up to six people. Creatures who partake in the meal gain the benefits. The herbs' [healing](rules/traits/healing.md "Healing Effect Trait") effects wear off if not eaten within an hour, though their flavor remains.
 
-Level (+2) The healing increases by `1d8`.
-
-*Source: RoE p. 34*  
+*Source: Rage of Elements p. 34*  
 %% #compendium/src/pf2e/roe #trait/healing #trait/impulse #trait/kineticist #trait/plant #trait/primal #trait/vitality #trait/wood %%

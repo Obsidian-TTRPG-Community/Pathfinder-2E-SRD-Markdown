@@ -25,6 +25,7 @@ When sprinkled around an area, cave worm repellent negates any chance of a rando
 Other types of repellent that function similarly to this one might exist at the GM's discretion. Uncommon or rare creatures are typically much harder to repel, and repellent against them might necessitate harvesting ingredients from the creatures themselves (such as the creature's liver or a certain gland).
 
 ---
+
 ### Variants
 
 #### purple worm repellent *Item 13*

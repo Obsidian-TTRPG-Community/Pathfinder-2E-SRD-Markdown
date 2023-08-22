@@ -20,6 +20,7 @@ aliases: ["Liquid Gold"]
 This glass vial containing liquid gold is fastened to a weapon by a fine gold chain.
 
 ---
+
 ### Variants
 
 #### liquid gold *Item 6*

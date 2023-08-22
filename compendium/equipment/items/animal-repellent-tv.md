@@ -22,6 +22,7 @@ You Activate animal repellent by sprinkling it on yourself or a creature within 
 The designated kind of creature typically avoids the coated creature or area, which smells foul and feels unnerving to it. If in combat or otherwise distressed, the creature can approach within 20 feet of the affected creature or area only if it succeeds at a Will save with a DC determined by the type of animal repellent. Once it succeeds at this save, the animal is temporarily immune for 1 minute. If the animal attacks in a way that causes it to taste or ingest the repellent, it must succeed at a Fortitude save at the listed DC or become [sickened](rules/conditions.md#Sickened) (or [sickened](rules/conditions.md#Sickened) on a critical failure).
 
 ---
+
 ### Variants
 
 #### minor *Item 1*

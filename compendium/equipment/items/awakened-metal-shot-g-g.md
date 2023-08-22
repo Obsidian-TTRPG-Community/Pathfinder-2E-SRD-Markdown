@@ -19,6 +19,7 @@ aliases: ["Awakened Metal Shot"]
 These bullets are formed from a liquefied high-grade precious metal and enchanted to unlock that metal's true potential. Each version has a different special effect.
 
 ---
+
 ### Variants
 
 #### awakened adamantine shot *Item 18*

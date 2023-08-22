@@ -19,6 +19,7 @@ aliases: ["Oil of Ownership"]
 You can coat objects of 6 Bulk or less with oil of ownership, or "red‑handed oil" as some call it. Once applied, this clear oil remains active for 24 hours. Anyone who touches an object coated with this oil comes away with a red stain that won't wash off for a length of time that depends on the oil's type.
 
 ---
+
 ### Variants
 
 #### lesser *Item 3*

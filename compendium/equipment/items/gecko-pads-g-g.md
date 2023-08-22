@@ -19,6 +19,7 @@ aliases: ["Gecko Pads"]
 Gecko pads are thin, clockwork devices shaped like palms, which can be strapped onto existing handwear or a creature's hands. When activated, they whir to life and improve your grip on surfaces, while slowly releasing a sticky substance stored within the device's surface to help you climb. The pads give you a climb Speed equal to your Speed as long as your hands are free.
 
 ---
+
 ### Variants
 
 #### gecko pads *Item 5*

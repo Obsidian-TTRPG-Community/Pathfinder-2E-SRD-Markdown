@@ -27,6 +27,7 @@ title: **Activate** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Action
 ```
 
 ---
+
 ### Variants
 
 #### bracers of missile deflection *Item 3*

@@ -15,6 +15,7 @@ aliases: ["Peachwood"]
 Peachwood, often cultivated by Pharasmin priests, can ward against undead—even incorporeal ones. However, the wood loses its magical properties when it comes in contact with metal, requiring advanced carpentry to make full use of it.
 
 ---
+
 ### Variants
 
 #### peachwood branch *Item 0*

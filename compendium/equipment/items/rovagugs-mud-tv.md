@@ -21,6 +21,7 @@ aliases: ["Rovagug's Mud"]
 Creatures and objects in the area take `5d6` damage (DC 30 basic Fortitude save), decreasing Hardness by 5. An object's Hardness remains lowered for `1d4` rounds, and you can't use this breath again for the same amount of time.
 
 ---
+
 ### Variants
 
 #### [Rovagug](compendium/setting/deities/rovagug.md)'s mud *Item 13*

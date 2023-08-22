@@ -14,5 +14,5 @@ aliases: ["Omnikinesis"]
 
 You can realign your kinetic gate with a thought. Replace one of your impulse feats using the same process as reflow elements. You can replace only one, even if you have double reflow.
 
-*Source: RoE p. 23*  
+*Source: Rage of Elements p. 23*  
 %% #compendium/src/pf2e/roe #trait/kineticist %%

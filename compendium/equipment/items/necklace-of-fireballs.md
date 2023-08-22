@@ -26,6 +26,7 @@ You detach a sphere from the necklace, causing it to glow with orange light. Aft
 ```
 
 ---
+
 ### Variants
 
 #### I *Item 5*

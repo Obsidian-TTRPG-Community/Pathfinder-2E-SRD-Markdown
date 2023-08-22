@@ -22,6 +22,7 @@ Aether marbles create violent, lingering eddies of force that extend partially i
 Surfaces in the splash area are filled with twisting eddies of force, which are difficult terrain for incorporeal creatures but not for corporeal ones. The force eddies in a square disperse after an incorporeal creature enters the square.
 
 ---
+
 ### Variants
 
 #### lesser *Item 4*

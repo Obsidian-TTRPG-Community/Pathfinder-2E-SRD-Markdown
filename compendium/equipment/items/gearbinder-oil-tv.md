@@ -26,6 +26,7 @@ The oil is effective against articulated constructs and machinery, including man
 > - **Critical Failure** The target increases its [slowed](rules/conditions.md#Slowed) condition by 2, to a maximum of [slowed](rules/conditions.md#Slowed).
 
 ---
+
 ### Variants
 
 #### lesser *Item 6*

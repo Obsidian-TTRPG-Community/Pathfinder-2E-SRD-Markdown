@@ -8,12 +8,12 @@ aliases: ["chapter-8-mwangi-expanse"]
 # Chapter 8: Mwangi Expanse
 <sup>LOWG p. 84</sup>
 
-- **Nations** Bloodcove, Kibwe, Mzali, Nantambu, Senghor, Usaro, Vidrian
-- **Peoples** Elven, Garundi, Hafling, Mwangi, Taldan
-- **Languages** Common, Elven, Garundi, Halfling, Mwangi
-- **Factions** Aspis Consortium, [Green Faith](compendium/setting/deities/green-faith.md), Magaambya
-- **Religions** [Abadar](compendium/setting/deities/abadar.md), [Calistria](compendium/setting/deities/calistria.md), [Gozreh](compendium/setting/deities/gozreh.md), [Norgorber](compendium/setting/deities/norgorber.md), [Sarenrae](compendium/setting/deities/sarenrae.md), [Shelyn](compendium/setting/deities/shelyn.md)
-- **Resources** Books/Lore, Grain/Vegetables, Livestock/Hides, Lumber, Luxury Goods, Magic Items, Ores, Seafood, Ships, Textiles
+- **Nations.** Bloodcove, Kibwe, Mzali, Nantambu, Senghor, Usaro, Vidrian
+- **Peoples.** Elven, Garundi, Hafling, Mwangi, Taldan
+- **Languages.** Common, Elven, Garundi, Halfling, Mwangi
+- **Factions.** Aspis Consortium, [Green Faith](compendium/setting/deities/green-faith.md), Magaambya
+- **Religions.** [Abadar](compendium/setting/deities/abadar.md), [Calistria](compendium/setting/deities/calistria.md), [Gozreh](compendium/setting/deities/gozreh.md), [Norgorber](compendium/setting/deities/norgorber.md), [Sarenrae](compendium/setting/deities/sarenrae.md), [Shelyn](compendium/setting/deities/shelyn.md)
+- **Resources.** Books/Lore, Grain/Vegetables, Livestock/Hides, Lumber, Luxury Goods, Magic Items, Ores, Seafood, Ships, Textiles
 
 > [!pf2-sidebar] TIMELINE
 > See page 86 of Lost Omens: World Guide

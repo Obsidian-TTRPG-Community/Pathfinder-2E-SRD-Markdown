@@ -20,5 +20,5 @@ You unleash the energy roiling within you, exploding elemental matter in a 15-fo
 
 Each creature in the area must attempt a basic Reflex save against your class DC. Elemental Explosion gains the trait of your element.
 
-*Source: RoE p. 54*  
+*Source: Rage of Elements p. 54*  
 %% #compendium/src/pf2e/roe #trait/barbarian #trait/concentrate #trait/primal #trait/rage %%

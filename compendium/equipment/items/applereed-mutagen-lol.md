@@ -25,6 +25,7 @@ This gummy liquid disproportionately lengthens your legs, causing you to grow bu
 **Drawback** You take a –1 penalty to AC and a –2 penalty to Reflex saves.
 
 ---
+
 ### Variants
 
 #### lesser *Item 4*

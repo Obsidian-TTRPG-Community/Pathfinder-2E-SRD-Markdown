@@ -24,7 +24,7 @@ You try a difficult maneuver while [Flying](rules/actions/fly.md). Attempt an [A
 
 > [!pf2-example] Sample Maneuver in Flight Tasks
 > 
-> - **Trained** steep ascent or descent
-> - **Expert** fly against the wind, hover midair
-> - **Master** reverse direction
-> - **Legendary** fly through gale force winds
+> - **Trained.** steep ascent or descent
+> - **Expert.** fly against the wind, hover midair
+> - **Master.** reverse direction
+> - **Legendary.** fly through gale force winds

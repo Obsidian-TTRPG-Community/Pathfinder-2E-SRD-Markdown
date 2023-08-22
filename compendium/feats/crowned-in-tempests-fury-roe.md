@@ -23,5 +23,5 @@ You become one with a devastating thunderstorm from the Plane of Air, placing a 
 - You gain a +10-foot status bonus to all your Speeds.
 - Your air Elemental Blasts deal an additional `1d12` electricity damage.
 
-*Source: RoE p. 25*  
+*Source: Rage of Elements p. 25*  
 %% #compendium/src/pf2e/roe #trait/air #trait/electricity #trait/impulse #trait/kineticist #trait/primal #trait/stance %%

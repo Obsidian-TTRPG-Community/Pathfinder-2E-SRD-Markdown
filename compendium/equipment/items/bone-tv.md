@@ -19,6 +19,7 @@ A durable material when properly treated, bone can replace wood and metal when c
 
 
 ---
+
 ### Variants
 
 #### bone specimen *Item 0*

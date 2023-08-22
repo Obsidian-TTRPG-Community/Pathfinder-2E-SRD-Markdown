@@ -13,6 +13,7 @@ aliases: ["Cold Iron Weapon"]
 Cold iron weapons deal additional damage to creatures with weakness to cold iron, like demons and fey.
 
 ---
+
 ### Variants
 
 #### low-grade cold iron weapon *Item 2*

@@ -27,8 +27,8 @@ The following skills can be used to Recall Knowledge, getting information about 
 > 
 > These examples use [Society](compendium/skills.md#Society) or [Religion](compendium/skills.md#Religion).
 > 
-> - **Untrained** lush forest with calm weather or large city with plentiful resources
-> - **Trained** typical hillside or village
-> - **Expert** typical mountains or insular hamlet
-> - **Master** typical desert or city under siege
-> - **Legendary** barren wasteland or city of undead
+> - **Untrained.** lush forest with calm weather or large city with plentiful resources
+> - **Trained.** typical hillside or village
+> - **Expert.** typical mountains or insular hamlet
+> - **Master.** typical desert or city under siege
+> - **Legendary.** barren wasteland or city of undead

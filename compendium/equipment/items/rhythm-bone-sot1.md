@@ -33,6 +33,7 @@ The bone replays its recorded sounds.
 ```
 
 ---
+
 ### Variants
 
 #### rhythm bone *Item 1*

@@ -17,6 +17,7 @@ aliases: ["Healer's Gel"]
 An astringent aroma from rare succulent plants wafts off these soothing cloth patches. Adding this material component to a [heal](compendium/spells/heal.md) spell bestows additional temporary Hit Points to one target healed by the spell. These temporary Hit Points last for 1 minute.
 
 ---
+
 ### Variants
 
 #### lesser *Item 5*

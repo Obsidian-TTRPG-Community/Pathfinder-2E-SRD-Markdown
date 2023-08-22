@@ -24,7 +24,5 @@ If you create a flame on a weapon, you still need to use it as an improvised wea
 
 The flame has an unlimited duration. You can have a maximum number of Eternal Torches equal to your Constitution modifier, and you can [Dismiss](rules/actions/dismiss.md) each torch individually.
 
-Level (8th) All your torches—even ones you already created— shed bright light in a 60-foot radius (and dim light for the next 60 feet).
-
-*Source: RoE p. 28*  
+*Source: Rage of Elements p. 28*  
 %% #compendium/src/pf2e/roe #trait/fire #trait/impulse #trait/kineticist #trait/light #trait/manipulate #trait/primal %%

@@ -26,6 +26,7 @@ The repellent also binds with a number of common insect venoms, dulling the pote
 > - **Critical Failure** The creature is [frightened](rules/conditions.md#Frightened) and [fleeing](rules/conditions.md#Fleeing).
 
 ---
+
 ### Variants
 
 #### lesser *Item 3*

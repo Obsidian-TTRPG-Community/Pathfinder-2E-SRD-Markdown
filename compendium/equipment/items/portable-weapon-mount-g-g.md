@@ -18,6 +18,7 @@ Powerful firearms like the arquebus were originally used to defend fortification
 The standard tripod takes an [Interact](rules/actions/interact.md) action to deploy using one hand.
 
 ---
+
 ### Variants
 
 #### monopod *Item 1*

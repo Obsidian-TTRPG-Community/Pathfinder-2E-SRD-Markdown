@@ -23,5 +23,5 @@ You contort yourself to squeeze through a space so small you can barely fit thro
 
 > [!pf2-example] Sample Squeeze Tasks
 > 
-> - **Trained** space barely fitting your shoulders
-> - **Master** space barely fitting your head
+> - **Trained.** space barely fitting your shoulders
+> - **Master.** space barely fitting your head

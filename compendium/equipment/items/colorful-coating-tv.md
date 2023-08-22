@@ -19,6 +19,7 @@ These coatings come in different colors, each with a different special effect. A
 It's possible to use the coating on any surface that can be painted (subject to the GM's discretion). Colorful coating dries instantly, and its effect in the square you coated lasts for 1 minute. After that time, the coating turns to fine, inert powder, returning the square to its original condition unless otherwise noted.
 
 ---
+
 ### Variants
 
 #### blue colorful coating *Item 3*

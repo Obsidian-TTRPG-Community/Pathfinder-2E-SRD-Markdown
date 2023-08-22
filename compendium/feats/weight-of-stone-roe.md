@@ -22,8 +22,6 @@ A packed cloud of thundering boulders descends from the sky, beating down everyo
 > - **Success** The creature takes half damage.
 > - **Failure** The creature takes full damage and is pushed downward 40 feet without taking falling damage. If it reaches the bottom of the cylinder or the ground, the push ends. If the creature is pushed to the ground, it can't [Fly](rules/actions/fly.md), levitate, or otherwise leave the ground for 1 round.
 > - **Critical Failure** As failure, but double damage and the distance the creature is pushed is 80 feet.
->
->    Level (+2) The damage increases by `1d8`.
 
-*Source: RoE p. 26*  
+*Source: Rage of Elements p. 26*  
 %% #compendium/src/pf2e/roe #trait/earth #trait/impulse #trait/kineticist #trait/overflow #trait/primal %%

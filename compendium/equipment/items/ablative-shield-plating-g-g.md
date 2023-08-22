@@ -19,6 +19,7 @@ Ablative shield plating is an amalgam device that provides a layer of additional
 When the shield is damaged, this additional material crumples, breaks, and falls apart, absorbing some of the energy of the blow. Otherwise, the additional material slowly crumbles over time. Applying the plating grants the shield temporary Hit Points that last for the stated duration or until lost. Removing the plating early destroys it.
 
 ---
+
 ### Variants
 
 #### lesser *Item 1*

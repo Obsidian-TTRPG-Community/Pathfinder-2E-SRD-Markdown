@@ -17,6 +17,7 @@ Noqual weapons are inimical to summoned creatures and spell effects that can be 
 Against such targets, a [Strike](rules/actions/strike.md) with a noqual weapon gains a circumstance bonus to damage equal to twice the number of weapon damage dice. In addition, noqual weapons disrupt spellcasters' concentration, causing them to become [stupefied](rules/conditions.md#Stupefied) for 1 round on a critical hit.
 
 ---
+
 ### Variants
 
 #### standard-grade noqual weapon *Item 12*

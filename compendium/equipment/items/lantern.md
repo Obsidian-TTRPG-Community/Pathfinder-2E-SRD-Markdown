@@ -12,6 +12,7 @@ aliases: ["Lantern"]
 A lantern sheds bright light and requires 1 pint of [oil](compendium/equipment/items/oil-1-pint.md) to function for 6 hours.
 
 ---
+
 ### Variants
 
 #### Bull's Eye *Item 0*

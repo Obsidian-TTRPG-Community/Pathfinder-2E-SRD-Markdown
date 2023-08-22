@@ -20,6 +20,7 @@ aliases: ["Bottled Lightning"]
 Bottled lightning is packed with volatile reagents that create a blast of electricity when they are exposed to air. Bottled lightning deals the listed electricity damage and electricity splash damage. On a hit, the target becomes [flat-footed](rules/conditions.md#Flat-footed) until the start of your next turn. Many types grant an item bonus to attack rolls.
 
 ---
+
 ### Variants
 
 #### lesser *Item 1*

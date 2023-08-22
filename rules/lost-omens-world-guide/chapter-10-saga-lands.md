@@ -8,12 +8,12 @@ aliases: ["chapter-10-saga-lands"]
 # Chapter 10: Saga Lands
 <sup>LOWG p. 108</sup>
 
-- **Nations** Irrisen, Lands of the Linnorm Kings, New Thassilon, Realm of the Mammoth Lords, Varisia
-- **Peoples** Azlanti, Dwarven, Elven, Goblin, Gnome, Kellid, Shoanti, Taldan, Tien, Ulfen, Varisian
-- **Languages** Common, Dwarven, Elven, Goblin, Gnomish, Hallit, Jotun, Shoanti, Skald, Thassilonian, Tien, Varisian
-- **Factions** Firebrands, Pathfinder Society, Sczarni
-- **Religions** [Abadar](compendium/setting/deities/abadar.md), [Cayden Cailean](compendium/setting/deities/cayden-cailean.md), [Desna](compendium/setting/deities/desna.md), [Gorum](compendium/setting/deities/gorum.md), [Lamashtu](compendium/setting/deities/lamashtu.md), [Nocticula](compendium/setting/deities/nocticula-logm.md)
-- **Resources** Alcohol/Drugs, Armor/Weapons, Books/Lore, Cheese, Grain/Fruit, Jewelry/Gems, Livestock/Hides, Lumber, Magic Items, Ores, Ships
+- **Nations.** Irrisen, Lands of the Linnorm Kings, New Thassilon, Realm of the Mammoth Lords, Varisia
+- **Peoples.** Azlanti, Dwarven, Elven, Goblin, Gnome, Kellid, Shoanti, Taldan, Tien, Ulfen, Varisian
+- **Languages.** Common, Dwarven, Elven, Goblin, Gnomish, Hallit, Jotun, Shoanti, Skald, Thassilonian, Tien, Varisian
+- **Factions.** Firebrands, Pathfinder Society, Sczarni
+- **Religions.** [Abadar](compendium/setting/deities/abadar.md), [Cayden Cailean](compendium/setting/deities/cayden-cailean.md), [Desna](compendium/setting/deities/desna.md), [Gorum](compendium/setting/deities/gorum.md), [Lamashtu](compendium/setting/deities/lamashtu.md), [Nocticula](compendium/setting/deities/nocticula-logm.md)
+- **Resources.** Alcohol/Drugs, Armor/Weapons, Books/Lore, Cheese, Grain/Fruit, Jewelry/Gems, Livestock/Hides, Lumber, Magic Items, Ores, Ships
 
 > [!pf2-sidebar] TIMELINE
 > See page 110 of Lost Omens: World Guide

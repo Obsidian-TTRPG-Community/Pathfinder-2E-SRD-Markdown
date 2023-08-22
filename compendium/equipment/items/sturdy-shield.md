@@ -17,6 +17,7 @@ aliases: ["Sturdy Shield"]
 With a superior design and excellent craftsmanship, this steel shield has higher Hardness than its non-magical counterparts, making it harder to break and destroy.
 
 ---
+
 ### Variants
 
 #### minor *Item 4*

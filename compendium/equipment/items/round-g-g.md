@@ -18,6 +18,7 @@ Firearms require ammunition consisting of a projectile and black powder. A round
 > Different weapons have different prices for ammunition. The prices listed are thus, only for reference in the weapon statblocks themselves.
 
 ---
+
 ### Variants
 
 #### 5-pack *Item 0*

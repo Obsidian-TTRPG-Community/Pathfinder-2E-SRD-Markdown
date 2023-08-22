@@ -23,8 +23,8 @@ Using your body, a lever, or some other tool, you attempt to forcefully open a d
 
 > [!pf2-example] Sample Force Open Tasks
 > 
-> - **Untrained** fabric, flimsy glass
-> - **Trained** ice, sturdy glass
-> - **Expert** flimsy wooden door, wooden portcullis
-> - **Master** sturdy wooden door, iron portcullis, metal bar
-> - **Legendary** stone or iron door
+> - **Untrained.** fabric, flimsy glass
+> - **Trained.** ice, sturdy glass
+> - **Expert.** flimsy wooden door, wooden portcullis
+> - **Master.** sturdy wooden door, iron portcullis, metal bar
+> - **Legendary.** stone or iron door

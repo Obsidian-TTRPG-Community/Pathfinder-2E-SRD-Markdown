@@ -19,6 +19,7 @@ Camouflage dye uses a variety of alchemically treated paints and crushed crystal
 The target can [Hide](rules/actions/hide.md) or [Sneak](rules/actions/sneak.md) without cover or concealment for 10 minutes. If the target uses a [hostile](rules/conditions.md#Hostile) action or moves at more than half its Speed, after that action is completed, the effects of camouflage powder end and the creature ceases to be [hidden](rules/conditions.md#Hidden) or [undetected](rules/conditions.md#Undetected).
 
 ---
+
 ### Variants
 
 #### lesser *Item 3*

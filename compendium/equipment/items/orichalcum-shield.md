@@ -16,6 +16,7 @@ aliases: ["Orichalcum Shield"]
 Orichalcum shields' time-bending properties are particularly useful for keeping them intact. The first time each day an orichalcum shield would be destroyed, it is instead left with 1 Hit Point and the [broken](rules/conditions.md#Broken) condition.
 
 ---
+
 ### Variants
 
 #### high-grade orichalcum buckler *Item 17*

@@ -14,17 +14,54 @@ aliases: ["Orichalcum"]
 
 The most rare and valuable skymetal, orichalcum is coveted for its incredible time-related magical properties. This dull, coppery metal isn't as physically sturdy as adamantine, but orichalcum's time-bending properties protect it, granting it greater Hardness and Hit Points. If an orichalcum item takes damage but isn't destroyed, it repairs itself completely 24 hours later.
 
-| Orichalcum Items | Hardness | HP | BT |
-|------------------|----------|----|----|
-| **Thin Items** |  |  |  |
-| multiRow |  |
-| **Items** |  |  |  |
-| multiRow |  |
-| **Structures** |  |  |  |
-| multiRow |  |
+<table>
+<tr>
+  <th>Orichalcum Items</th>
+  <th>Hardness</th>
+  <th>HP</th>
+  <th>BT</th>
+</tr>
+<tr>
+  <td>**Thin Items**</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>High-grade</td>
+  <td>16</td>
+  <td>64</td>
+  <td>32</td>
+</tr>
+<tr>
+  <td>**Items**</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>High-grade</td>
+  <td>18</td>
+  <td>72</td>
+  <td>36</td>
+</tr>
+<tr>
+  <td>**Structures**</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>High-grade</td>
+  <td>35</td>
+  <td>140</td>
+  <td>70</td>
+</tr>
+</table>
 
 
 ---
+
 ### Variants
 
 #### orichalcum chunk *Item 0*

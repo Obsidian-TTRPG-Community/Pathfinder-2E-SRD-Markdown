@@ -24,6 +24,7 @@ Benefit You gain resistance to the attuned energy type. Whenever you score a hit
 Drawback You gain weakness 5 to the other three energy types.
 
 ---
+
 ### Variants
 
 #### lesser *Item 1*

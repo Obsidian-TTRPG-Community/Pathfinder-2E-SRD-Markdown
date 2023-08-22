@@ -13,6 +13,7 @@ aliases: ["Tent"]
 
 
 ---
+
 ### Variants
 
 #### Pup *Item 0*

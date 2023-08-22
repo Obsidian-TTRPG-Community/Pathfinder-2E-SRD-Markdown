@@ -17,6 +17,7 @@ aliases: ["Crushing"]
 Weapons with this rune empower your strength, and attacks with these weapons leave your foe staggered. When you critically hit a target with this weapon, your target becomes [clumsy](rules/conditions.md#Clumsy) and [enfeebled](rules/conditions.md#Enfeebled) until the end of your next turn.
 
 ---
+
 ### Variants
 
 #### crushing *Item 3*

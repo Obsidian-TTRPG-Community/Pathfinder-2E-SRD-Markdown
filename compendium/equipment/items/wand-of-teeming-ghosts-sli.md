@@ -35,6 +35,7 @@ title: **Activate** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Action
 ```
 
 ---
+
 ### Variants
 
 #### 2nd-level spell *Item 6*

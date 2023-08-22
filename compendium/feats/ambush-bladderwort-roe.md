@@ -13,7 +13,7 @@ tags:
 aliases: ["Ambush Bladderwort"]
 ---
 # Ambush Bladderwort  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 4*  
-[composite](rules/traits/composite-roe.md "Composite Action & Ability Trait")  [impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  wood  
+[composite](rules/traits/composite-roe.md "Composite Action & Ability Trait")  [impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  [wood](rules/traits/wood-roe.md "Wood Energy & Element Trait")  
 
 - **Activity** Three-Action
 
@@ -23,7 +23,5 @@ Using this impulse again ends any previous one. If a creature enters its square,
 
 If a creature dies inside it, the plant shrinks down, converting itself and the remains into a watery fruit. A creature can eat this consumable to regain `1d8+4` HP, after which that creature is temporarily immune for 10 minutes. This fruit rots after 1 hour.
 
-Level (+4) The bladderwort's HP increase by 25 and the fruit's healing increases by `1d8+4`.
-
-*Source: RoE p. 36*  
+*Source: Rage of Elements p. 36*  
 %% #compendium/src/pf2e/roe #trait/composite #trait/impulse #trait/kineticist #trait/plant #trait/primal #trait/water #trait/wood %%

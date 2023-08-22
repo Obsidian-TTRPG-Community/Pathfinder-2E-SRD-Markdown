@@ -21,6 +21,7 @@ If you can read the language in which the name is written, that creature always 
 Legendary amulets bearing the true names of creatures of level 21+ may exist.
 
 ---
+
 ### Variants
 
 #### lesser true name amulet *Item 5*

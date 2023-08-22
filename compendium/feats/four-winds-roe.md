@@ -18,5 +18,5 @@ Mimicking the anemoi—monarchs of the four winds—you propel four creatures. T
 
 If it has a fly Speed, it can instead [Fly](rules/actions/fly.md) up to half its fly Speed.
 
-*Source: RoE p. 24*  
+*Source: Rage of Elements p. 24*  
 %% #compendium/src/pf2e/roe #trait/air #trait/impulse #trait/kineticist #trait/primal %%

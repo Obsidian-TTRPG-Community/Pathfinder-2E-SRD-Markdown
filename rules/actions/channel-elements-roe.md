@@ -11,7 +11,7 @@ aliases: ["Channel Elements"]
 ---
 # Channel Elements [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [aura](rules/traits/aura.md "Aura Combat Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  
-*Source: RoE p. 15*  
+*Source: Rage of Elements p. 15*  
 
 - **Requirements**: Your kinetic gate isn't active.
 - **Activity**: Single Action

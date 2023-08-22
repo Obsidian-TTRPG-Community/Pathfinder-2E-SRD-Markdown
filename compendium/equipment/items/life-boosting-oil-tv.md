@@ -21,6 +21,7 @@ aliases: ["Life-Boosting Oil"]
 When you apply sticky, stinging life-boosting oil, you gain fast healing according to the oil's type that starts the first time you take damage while the oil lasts. Once the fast healing starts, the oil remains effective for 4 rounds. However, the oil lasts only 8 hours, whether it provides fast healing or not.
 
 ---
+
 ### Variants
 
 #### lesser *Item 3*

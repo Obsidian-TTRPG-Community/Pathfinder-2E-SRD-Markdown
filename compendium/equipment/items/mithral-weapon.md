@@ -15,6 +15,7 @@ aliases: ["Mithral Weapon"]
 Mithral weapons are slightly lighter than silver. A mithral weapon is 1 Bulk lighter than normal (or light Bulk if its normal Bulk is 1, with no effect on a weapon that normally has light Bulk).
 
 ---
+
 ### Variants
 
 #### standard-grade mithral weapon *Item 11*

@@ -22,6 +22,7 @@ Concentrated wolfsbane and other anti-shapechanger reagents fill trueshape bombs
 The [persistent damage](rules/conditions.md#Persistent%20Damage) can last up to 1 minute.
 
 ---
+
 ### Variants
 
 #### trueshape bomb *Item 12*

@@ -22,6 +22,7 @@ The ancient inhabitants of Bloodsalt crafted these magic rocks to construct defe
 When you activate the barricade stone, you drop it on the ground, throw it up to 20 feet away, or sling it using a sling weapon. Upon landing, the stone instantly and permanently expands. The stone grows to its maximum size. While normally items with the [structure](rules/traits/structure.md "Structure General Trait") trait put creatures in their area inside the structure, this effect creates solid stone, so it can't be placed in an area where there are creatures. While it's likely to take some time even with the right tools, an activated barricade stone can be destroyed the same as any normal stone structure (Hardness 14, HP 56).
 
 ---
+
 ### Variants
 
 #### sphere *Item 6*

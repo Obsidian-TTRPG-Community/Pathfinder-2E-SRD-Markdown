@@ -18,6 +18,7 @@ aliases: ["Leaper's Elixir"]
 This tingly solution increases the elasticity and contraction of your leg muscles. For 1 minute after drinking this elixir, you can [High Jump](rules/actions/high-jump.md) or [Long Jump](rules/actions/long-jump.md) as a single action instead of 2 actions. If you do, you don't perform the initial [Stride](rules/actions/stride.md) (nor do you fail if you don't [Stride](rules/actions/stride.md) 10 feet).
 
 ---
+
 ### Variants
 
 #### lesser *Item 1*

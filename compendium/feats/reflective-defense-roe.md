@@ -17,5 +17,5 @@ aliases: ["Reflective Defense"]
 
 Your body's natural luster has been polished to a gleaming shine. You use this to reflect light back into your enemy's eyes, disrupting its aim and focus; it must succeed at a Reflex save against your class DC or be [dazzled](rules/conditions.md#Dazzled) until the end of your next turn.
 
-*Source: RoE p. 52*  
+*Source: Rage of Elements p. 52*  
 %% #compendium/src/pf2e/roe #trait/light #trait/talos %%

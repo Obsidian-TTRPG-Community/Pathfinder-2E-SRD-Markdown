@@ -18,5 +18,5 @@ With a signature flair, you shape blasts of elemental power into the form of a w
 
 **Ranged** Choose one of three options: range increment 100 feet and the [volley <30 feet>](rules/traits/volley-30-feet.md "Volley Weapon Trait") trait, range increment 50 feet and the [propulsive](rules/traits/propulsive.md "Propulsive Weapon Trait") trait, or range increment 20 feet and the [thrown](rules/traits/thrown.md "Thrown Weapon Trait") trait.
 
-*Source: RoE p. 21*  
+*Source: Rage of Elements p. 21*  
 %% #compendium/src/pf2e/roe #trait/infusion #trait/kineticist %%

@@ -20,6 +20,7 @@ aliases: ["Mistform Elixir"]
 A faint mist emanates from your skin, making you [concealed](rules/conditions.md#Concealed) for the listed duration. As usual being [concealed](rules/conditions.md#Concealed) when your position is still obvious, you can't use this concealment to [Hide](rules/actions/hide.md) or [Sneak](rules/actions/sneak.md).
 
 ---
+
 ### Variants
 
 #### lesser *Item 4*

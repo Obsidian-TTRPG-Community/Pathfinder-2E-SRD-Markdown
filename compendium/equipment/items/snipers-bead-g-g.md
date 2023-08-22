@@ -19,6 +19,7 @@ aliases: ["Sniper's Bead"]
 This plain wooden bead dangles from a string attached to the stock of the affixed weapon. When you activate the bead, its magic greatly lessens the effect of distance on your triggering attack.
 
 ---
+
 ### Variants
 
 #### sniper's bead *Item 4*

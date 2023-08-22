@@ -33,6 +33,7 @@ A ghostly weapon made of force appears, wielded by you and loaded with the weapo
 ```
 
 ---
+
 ### Variants
 
 #### lesser *Item 5*

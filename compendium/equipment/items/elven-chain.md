@@ -17,6 +17,7 @@ Elven chain is a chain shirt made of [mithral](compendium/equipment/items/mithra
 Created by elven artisans employing ancient crafting techniques, elven chain is exceptionally quiet. Unlike other chain shirts—even other mithral chain shirts—elven chain does not have the [noisy](rules/traits/noisy.md "Noisy Armor Trait") trait. This suit of armor can be etched with runes like any other mithral chain shirt.
 
 ---
+
 ### Variants
 
 #### standard-grade elven chain *Item 13*

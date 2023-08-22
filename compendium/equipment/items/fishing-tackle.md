@@ -15,6 +15,7 @@ aliases: ["Fishing Tackle"]
 This kit include a collapsible fishing pole, fishhooks, line, lures, and a fishing net.
 
 ---
+
 ### Variants
 
 #### Base *Item 0*

@@ -28,6 +28,7 @@ This is forced movement.
 ```
 
 ---
+
 ### Variants
 
 #### hauling *Item 6*

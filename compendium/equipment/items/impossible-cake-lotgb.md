@@ -18,6 +18,7 @@ aliases: ["Impossible Cake"]
 This sleight-of-hand for the taste buds is flavored with absinthe and honey and always resembles something completely unlike a cake, from a pile of armor to a bowl of soup. Eating the cake gives you the confidence to make the impossible seem possible: for 10 minutes after the meal, you gain a +2 item bonus to your [Deception](compendium/skills.md#Deception) checks to [Impersonate](rules/actions/impersonate.md), as well as to [Lie](rules/actions/lie.md) to convince others that you possess knowledge about the type of item that the cake resembles.
 
 ---
+
 ### Variants
 
 #### impossible cake *Item 3*

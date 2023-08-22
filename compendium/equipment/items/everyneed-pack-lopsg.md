@@ -26,6 +26,7 @@ title: **Activate** [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Acti
 ```
 
 ---
+
 ### Variants
 
 #### everyneed pack *Item 3*

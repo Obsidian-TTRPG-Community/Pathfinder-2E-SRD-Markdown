@@ -25,6 +25,7 @@ title: **Activate** [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Acti
 ```
 
 ---
+
 ### Variants
 
 #### ring of maniacal devices *Item 11*

@@ -21,5 +21,5 @@ You grasp the animating force within an elemental creature and bend it to your w
 > - **Failure** The elemental creature is [controlled](rules/conditions.md#Controlled) or [slowed](rules/conditions.md#Slowed) as long as you Sustain the impulse, up to 1 minute. This effect ends if you or an ally attacks the elemental.
 > - **Critical Failure** As failure, but you can Sustain the impulse up to 1 hour.
 
-*Source: RoE p. 21*  
+*Source: Rage of Elements p. 21*  
 %% #compendium/src/pf2e/roe #trait/impulse #trait/kineticist #trait/primal %%

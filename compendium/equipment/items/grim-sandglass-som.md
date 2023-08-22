@@ -27,6 +27,7 @@ You cast [chill touch](compendium/spells/chill-touch.md).
 ```
 
 ---
+
 ### Variants
 
 #### grim sandglass *Item 3*

@@ -24,8 +24,8 @@ When making a brief performance—one song, a quick dance, or a few jokes—you 
 
 > [!pf2-example] Sample Perform Tasks
 > 
-> - **Untrained** audience of commoners
-> - **Trained** audience of artisans
-> - **Expert** audience of merchants or minor nobles
-> - **Master** audience of high nobility or minor royalty
-> - **Legendary** audience of major royalty or otherworldly beings
+> - **Untrained.** audience of commoners
+> - **Trained.** audience of artisans
+> - **Expert.** audience of merchants or minor nobles
+> - **Master.** audience of high nobility or minor royalty
+> - **Legendary.** audience of major royalty or otherworldly beings

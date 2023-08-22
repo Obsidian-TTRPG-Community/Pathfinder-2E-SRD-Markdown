@@ -8,12 +8,12 @@ aliases: ["chapter-7-impossible-lands"]
 # Chapter 7: Impossible Lands
 <sup>LOWG p. 72</sup>
 
-- **Nations** Alkenstar, Geb, Jalmeray, Mana Wastes, Nex
-- **Peoples** Dwarf, Garundi, Gnome, Keleshite, Mwangi, Vudrani
-- **Languages** Common, Dwarven, Gnomish, Kelish, Mwangi, Necril, Osiriani, Vudrani
-- **Factions** Arclords of Nex, Pathfinder Society, [Whispering Way](compendium/setting/deities/whispering-way.md)
-- **Religions** [Abadar](compendium/setting/deities/abadar.md), [Irori](compendium/setting/deities/irori.md), [Nethys](compendium/setting/deities/nethys.md), [Torag](compendium/setting/deities/torag.md), [Urgathoa](compendium/setting/deities/urgathoa.md), [Zon-Kuthon](compendium/setting/deities/zon-kuthon.md)
-- **Resources** Alcohol/Drugs, Books/Lore, Luxury Goods, Magic Items, Ores, Seafood, Spices/Salt, Technology
+- **Nations.** Alkenstar, Geb, Jalmeray, Mana Wastes, Nex
+- **Peoples.** Dwarf, Garundi, Gnome, Keleshite, Mwangi, Vudrani
+- **Languages.** Common, Dwarven, Gnomish, Kelish, Mwangi, Necril, Osiriani, Vudrani
+- **Factions.** Arclords of Nex, Pathfinder Society, [Whispering Way](compendium/setting/deities/whispering-way.md)
+- **Religions.** [Abadar](compendium/setting/deities/abadar.md), [Irori](compendium/setting/deities/irori.md), [Nethys](compendium/setting/deities/nethys.md), [Torag](compendium/setting/deities/torag.md), [Urgathoa](compendium/setting/deities/urgathoa.md), [Zon-Kuthon](compendium/setting/deities/zon-kuthon.md)
+- **Resources.** Alcohol/Drugs, Books/Lore, Luxury Goods, Magic Items, Ores, Seafood, Spices/Salt, Technology
 
 > [!pf2-sidebar] TIMELINE
 > See page 74 of Lost Omens: World Guide

@@ -18,6 +18,7 @@ aliases: ["Horseshoes of Speed"]
 When you affix these simple iron horseshoes to the hooves of an ordinary horse or a quadrupedal animal companion and the animal companion invests them, that creature gains a +5-foot item bonus to its land Speed and a +2 item bonus to [Athletics](compendium/skills.md#Athletics) checks to [High Jump](rules/actions/high-jump.md) and [Long Jump](rules/actions/long-jump.md). In addition, when it Leaps, it can move 5 feet farther if jumping horizontally or 3 feet higher if jumping vertically.
 
 ---
+
 ### Variants
 
 #### horseshoes of speed *Item 7*

@@ -8,12 +8,12 @@ aliases: ["chapter-2-absalom-and-starstone-isle"]
 # Chapter 2: Absalom and Starstone Isle
 <sup>LOWG p. 12</sup>
 
-- **Nations** Absalom
-- **Peoples** All
-- **Languages** All
-- **Factions** Firebrands, Knights of Lastwall, Pathfinder Society
-- **Religions** [Abadar](compendium/setting/deities/abadar.md), [Cayden Cailean](compendium/setting/deities/cayden-cailean.md), [Iomedae](compendium/setting/deities/iomedae.md), [Irori](compendium/setting/deities/irori.md), [Norgorber](compendium/setting/deities/norgorber.md), [Shelyn](compendium/setting/deities/shelyn.md)
-- **Resources** Alcohol/Drugs, Armor/Weapons, Books/Lore, Jewelry/Gems, Lumber, Luxury Goods and Art, Magic Items, Ores, Seafood, Ships, Skymetal, Textiles
+- **Nations.** Absalom
+- **Peoples.** All
+- **Languages.** All
+- **Factions.** Firebrands, Knights of Lastwall, Pathfinder Society
+- **Religions.** [Abadar](compendium/setting/deities/abadar.md), [Cayden Cailean](compendium/setting/deities/cayden-cailean.md), [Iomedae](compendium/setting/deities/iomedae.md), [Irori](compendium/setting/deities/irori.md), [Norgorber](compendium/setting/deities/norgorber.md), [Shelyn](compendium/setting/deities/shelyn.md)
+- **Resources.** Alcohol/Drugs, Armor/Weapons, Books/Lore, Jewelry/Gems, Lumber, Luxury Goods and Art, Magic Items, Ores, Seafood, Ships, Skymetal, Textiles
 
 > [!pf2-sidebar] TIMELINE
 > See page 14 of Lost Omens: World Guide

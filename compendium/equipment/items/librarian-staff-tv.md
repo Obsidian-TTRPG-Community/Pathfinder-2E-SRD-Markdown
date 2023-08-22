@@ -33,6 +33,7 @@ You expend a number of charges from the staff to cast a spell from its list.
 ```
 
 ---
+
 ### Variants
 
 #### librarian staff *Item 6*

@@ -13,23 +13,54 @@ aliases: ["Silver"]
 
 Silver weapons are a bane to creatures ranging from devils to werewolves. Silver items are less durable than steel items, and low-grade silver items are usually merely silver-plated.
 
-| Silver Items | Hardness | HP | BT |
-|--------------|----------|----|----|
-| **Thin Items** |  |  |  |
-| multiRow |  |
-| multiRow |  |
-| multiRow |  |
-| **Items** |  |  |  |
-| multiRow |  |
-| multiRow |  |
-| multiRow |  |
-| **Structures** |  |  |  |
-| multiRow |  |
-| multiRow |  |
-| multiRow |  |
+<table>
+<tr>
+  <th>Silver Items</th>
+  <th>Hardness</th>
+  <th>HP</th>
+  <th>BT</th>
+</tr>
+<tr>
+  <td>**Thin Items**</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Low-grade<br />Standard-grade<br />High-grade</td>
+  <td>3<br />5<br />8</td>
+  <td>12<br />20<br />32</td>
+  <td>6<br />10<br />16</td>
+</tr>
+<tr>
+  <td>**Items**</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Low-grade<br />Standard-grade<br />High-grade</td>
+  <td>5<br />7<br />10</td>
+  <td>20<br />28<br />40</td>
+  <td>10<br />14<br />20</td>
+</tr>
+<tr>
+  <td>**Structures**</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Low-grade<br />Standard-grade<br />High-grade</td>
+  <td>10<br />14<br />20</td>
+  <td>40<br />56<br />80</td>
+  <td>20<br />28<br />40</td>
+</tr>
+</table>
 
 
 ---
+
 ### Variants
 
 #### silver chunk *Item 0*

@@ -19,6 +19,7 @@ aliases: ["Malleable Mixture"]
 Your bones, muscles, and organs become vastly softer and more pliable. You can fit into and through small or narrow spaces as though you were smaller than your normal size, and you gain an item bonus to your Fortitude and Reflex DCs against attempts to [Grapple](rules/actions/grapple.md), [Shove](rules/actions/shove.md), or [Trip](rules/actions/trip.md) you.
 
 ---
+
 ### Variants
 
 #### lesser *Item 8*

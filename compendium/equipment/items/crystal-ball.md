@@ -35,6 +35,7 @@ title: **Activate** [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Acti
 ```
 
 ---
+
 ### Variants
 
 #### clear quartz *Item 14*

@@ -20,6 +20,7 @@ This glass sphere is divided into four quarters, each of which contains a differ
 If a creature has multiple eligible weaknesses, randomly determine the damage type. An alignment ampoule has no effect against creatures that don't have a weakness to the ampoule's associated alignment types.
 
 ---
+
 ### Variants
 
 #### lesser *Item 1*

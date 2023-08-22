@@ -18,6 +18,7 @@ aliases: ["Soothing Powder"]
 Soothing powders are remedies made to stop a particular type of [persistent damage](rules/conditions.md#Persistent%20Damage). Each damage type requires a different formula, with the most popular being bleed soothing powder, poison soothing powder, fire soothing powder, and acid soothing powder. You Activate soothing powder by sprinkling it on yourself or another creature within reach. The target can immediately attempt a new flat check to remove [persistent damage](rules/conditions.md#Persistent%20Damage) the powder works against. This powder lowers the DC to 10, as normal for a particularly appropriate type of help.
 
 ---
+
 ### Variants
 
 #### lesser *Item 5*

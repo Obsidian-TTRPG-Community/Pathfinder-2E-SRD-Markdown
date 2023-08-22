@@ -16,5 +16,5 @@ aliases: ["Burning Spell"]
 
 You enhance your spell with elemental fire, causing it to set the target on fire. If the next action you use is to Cast a non- cantrip Spell that deals damage at a single target, the spell deals additional [persistent fire damage](rules/conditions.md#Persistent%20Damage) equal to the spell rank, in addition to its other effects. This has no effect if the spell already deals [persistent fire damage](rules/conditions.md#Persistent%20Damage). The spell gains the [fire](rules/traits/fire.md "Fire Energy & Element Trait") trait.
 
-*Source: RoE p. 59*  
+*Source: Rage of Elements p. 59*  
 %% #compendium/src/pf2e/roe #trait/archetype #trait/fire #trait/spellshape %%

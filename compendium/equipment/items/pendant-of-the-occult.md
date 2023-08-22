@@ -17,6 +17,7 @@ aliases: ["Pendant of the Occult"]
 This amulet is hollow and shaped in the form of an unblinking eye. Its cavity typically holds some fragment of occult text. While wearing the pendant, you gain a +1 item bonus to [Occultism](compendium/skills.md#Occultism) checks, and you can cast the [guidance](compendium/spells/guidance.md) cantrip as an occult innate spell.
 
 ---
+
 ### Variants
 
 #### pendant of the occult *Item 3*

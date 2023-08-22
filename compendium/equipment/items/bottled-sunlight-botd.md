@@ -22,6 +22,7 @@ aliases: ["Bottled Sunlight"]
 This mirrored bottle contains various chemicals dissolved in two immiscible solvents. Shaking the bottle induces chemical reactions that cause it to glow. For 1 hour, the bottle sheds bright light in a 20-foot radius (and dim light to the next 40 feet). During this hour, it can be thrown like a bomb. This requires a single action to Activate with a [Strike](rules/actions/strike.md), like other bombs, and deals the damage below. If it's not thrown within an hour of the first activation, it defuses harmlessly and is consumed.
 
 ---
+
 ### Variants
 
 #### lesser *Item 2*

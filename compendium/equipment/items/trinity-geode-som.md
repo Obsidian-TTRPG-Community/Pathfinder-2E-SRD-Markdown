@@ -28,6 +28,7 @@ You cast [scatter scree](compendium/spells/scatter-scree-som.md).
 ```
 
 ---
+
 ### Variants
 
 #### trinity geode *Item 3*

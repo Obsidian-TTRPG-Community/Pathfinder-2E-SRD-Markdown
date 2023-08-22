@@ -15,6 +15,7 @@ aliases: ["Alchemist's Lab"]
 You need an alchemist's lab to [Craft](rules/actions/craft.md) alchemical items during downtime.
 
 ---
+
 ### Variants
 
 #### Base *Item 0*

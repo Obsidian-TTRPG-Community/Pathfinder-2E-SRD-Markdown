@@ -23,7 +23,5 @@ You shape your kinetic aura into swirling armor of steam that scalds your enemie
 - When you [Leap](rules/actions/leap.md), you can jump up to your Speed. You don't immediately fall at the end of a jump, provided you [Leap](rules/actions/leap.md) again with your next action. If you [Leap](rules/actions/leap.md) over a creature and come within 10 feet, that creature takes `2d6` fire damage with a basic Reflex save against your class DC.
 - At the start of each of your turns, you can emit steam as a free action. It deals `2d6` fire damage to each creature in your kinetic aura with a basic Reflex save against your class DC. A creature that fails is also pushed 5 feet.
 
-Level (+5) The fire damage from a jump or blast of steam increases by `1d6`.
-
-*Source: RoE p. 37*  
+*Source: Rage of Elements p. 37*  
 %% #compendium/src/pf2e/roe #trait/composite #trait/fire #trait/impulse #trait/kineticist #trait/primal #trait/stance #trait/water %%

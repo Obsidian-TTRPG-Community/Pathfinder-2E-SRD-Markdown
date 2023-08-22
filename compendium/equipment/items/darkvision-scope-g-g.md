@@ -24,6 +24,7 @@ You gain [darkvision](rules/abilities/darkvision.md) until the beginning of your
 ```
 
 ---
+
 ### Variants
 
 #### darkvision scope *Item 5*

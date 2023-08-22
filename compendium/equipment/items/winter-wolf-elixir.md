@@ -18,6 +18,7 @@ aliases: ["Winter Wolf Elixir"]
 This elixir warms your core and improves your circulation. For 24 hours, you are protected from the effects of severe cold.
 
 ---
+
 ### Variants
 
 #### lesser *Item 4*

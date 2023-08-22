@@ -15,6 +15,7 @@ aliases: ["Replacement Filter"]
 > See [Water Purifier](compendium/equipment/items/water-purifier-lopsg.md) for information.
 
 ---
+
 ### Variants
 
 #### Level 1 *Item 1*

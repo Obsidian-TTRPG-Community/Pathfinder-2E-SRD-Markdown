@@ -26,6 +26,7 @@ Cayden's brew is like rich beer or ale, with a golden-brown color and foamy head
 > - **Critical Failure** The creature becomes [clumsy](rules/conditions.md#Clumsy), [stupefied](rules/conditions.md#Stupefied), and [sickened](rules/conditions.md#Sickened). The [clumsy](rules/conditions.md#Clumsy) and [stupefied](rules/conditions.md#Stupefied) conditions last until `1d4` rounds after the [sickened](rules/conditions.md#Sickened) condition ends.
 
 ---
+
 ### Variants
 
 #### Cayden's brew *Item 8*

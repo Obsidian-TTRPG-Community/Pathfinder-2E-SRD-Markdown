@@ -17,6 +17,7 @@ Clockwork timepieces come in a variety of sizes and aesthetic styles, but they'r
 Clockwork timepieces have a 24-hour activation cycle, after which they must wound in a process that takes 1 minute to complete.
 
 ---
+
 ### Variants
 
 #### desktop clock *Item 1*

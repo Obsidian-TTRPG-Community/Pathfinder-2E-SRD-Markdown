@@ -10,7 +10,7 @@ tags:
 aliases: ["Metal Carapace"]
 ---
 # Metal Carapace  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
-[impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  metal  
+[impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  [metal](rules/traits/metal-roe.md "Metal Energy & Element Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  
 
 - **Activity** Single Action
 
@@ -20,7 +20,7 @@ When you use this impulse, you can also create a rusty steel shield in a free ha
 
 The impulse lasts for 10 minutes, and you can [Dismiss](rules/actions/dismiss.md) this impulse. If you use this impulse again, any existing one ends.
 
-The metal is rusted and fragile. If you take damage from a critical hit, the metal shatters and the impulse ends. Level (+3) The shield's Hardness increases by 1, its HP by 4, and its BT by 2.
+The metal is rusted and fragile. If you take damage from a critical hit, the metal shatters and the impulse ends.
 
-*Source: RoE p. 30*  
+*Source: Rage of Elements p. 30*  
 %% #compendium/src/pf2e/roe #trait/impulse #trait/kineticist #trait/metal #trait/primal %%

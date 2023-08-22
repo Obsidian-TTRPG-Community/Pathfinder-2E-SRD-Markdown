@@ -20,6 +20,7 @@ aliases: ["Goo Grenade"]
 A goo grenade is a flask filled with a fast-growing, short-lived alchemical ooze. When you hit a creature with a goo grenade, that creature takes [persistent acid damage](rules/conditions.md#Persistent%20Damage) and a circumstance penalty to its Speeds from the clinging goo. The target can end any penalties, conditions, and [persistent damage](rules/conditions.md#Persistent%20Damage) caused by the bomb by Escaping or spending a total of 3 [Interact](rules/actions/interact.md) actions to pry themselves free of the ooze. These [Interact](rules/actions/interact.md) actions don't have to be consecutive, and other creatures can provide the actions as well.
 
 ---
+
 ### Variants
 
 #### lesser *Item 1*

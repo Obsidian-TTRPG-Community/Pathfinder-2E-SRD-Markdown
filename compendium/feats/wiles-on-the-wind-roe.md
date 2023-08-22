@@ -25,5 +25,5 @@ You can have any creature within 40 feet of the illusion, or that comes within 4
 > - **Failure** The creature is [fascinated](rules/conditions.md#Fascinated) with the source of the sound until the end of its next turn. When the fascination ends, the creature is temporarily immune for 1 hour.
 > - **Critical Failure** As failure, but the creature is [fascinated](rules/conditions.md#Fascinated) for 1 minute or until it disbelieves.
 
-*Source: RoE p. 25*  
+*Source: Rage of Elements p. 25*  
 %% #compendium/src/pf2e/roe #trait/air #trait/auditory #trait/illusion #trait/impulse #trait/kineticist #trait/primal %%

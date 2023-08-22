@@ -26,6 +26,7 @@ In addition, the [Strike](rules/actions/strike.md) gains the following critical 
 > - **Critical Failure** The weapon misfires.
 
 ---
+
 ### Variants
 
 #### meteor shot *Item 7*

@@ -23,6 +23,7 @@ The buckler expands, with the sapling image growing into a mighty oak tree. The 
 ```
 
 ---
+
 ### Variants
 
 #### minor *Item 3*

@@ -24,5 +24,5 @@ title: **Decompose** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Acti
 %%
 ```
 
-*Source: RoE p. 48*  
+*Source: Rage of Elements p. 48*  
 %% #compendium/src/pf2e/roe #trait/ardande #trait/lineage %%

@@ -26,8 +26,8 @@ You attempt your [Survival](compendium/skills.md#Survival) check when you start 
 
 > [!pf2-example] Sense Track Tasks
 > 
-> - **Untrained** the path of a large army following a road
-> - **Trained** relatively fresh tracks of a rampaging bear through the plains
-> - **Expert** a nimble panther's tracks through a jungle, tracks after the rain
-> - **Master** tracks after a winter snow, tracks of a mouse or smaller creature, tracks left on surfaces that can't hold prints like bare rock
-> - **Legendary** old tracks through a windy desert's sands, tracks after a major blizzard or hurricane
+> - **Untrained.** the path of a large army following a road
+> - **Trained.** relatively fresh tracks of a rampaging bear through the plains
+> - **Expert.** a nimble panther's tracks through a jungle, tracks after the rain
+> - **Master.** tracks after a winter snow, tracks of a mouse or smaller creature, tracks left on surfaces that can't hold prints like bare rock
+> - **Legendary.** old tracks through a windy desert's sands, tracks after a major blizzard or hurricane

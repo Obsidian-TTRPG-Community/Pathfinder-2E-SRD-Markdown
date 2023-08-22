@@ -15,6 +15,7 @@ aliases: ["Inubrix Armor"]
 Inubrix's malleable nature means armor crafted from it is less rigid than usual, though this slightly increased mobility comes at the cost of protection. Metal armor crafted from inubrix gains the flexible armor trait; its item bonus to AC decreases by 1 but its maximum Dexterity bonus increases by 1.
 
 ---
+
 ### Variants
 
 #### standard-grade inubrix armor *Item 11*

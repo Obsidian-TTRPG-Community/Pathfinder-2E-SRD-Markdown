@@ -38,6 +38,7 @@ The tattoo casts 3rd-level [animal form](compendium/spells/animal-form.md) to tr
 ```
 
 ---
+
 ### Variants
 
 #### tooth and claw tattoo *Item 6*

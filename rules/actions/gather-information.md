@@ -22,8 +22,8 @@ You canvass local markets, taverns, and gathering places in an attempt to learn 
 
 > [!pf2-example] Sample Gather Information Tasks
 > 
-> - **Untrained** talk of the town
-> - **Trained** common rumor
-> - **Expert** obscure rumor, poorly guarded secret
-> - **Master** well-guarded or esoteric information
-> - **Legendary** information known only to an incredibly select few, or only to extraordinary beings
+> - **Untrained.** talk of the town
+> - **Trained.** common rumor
+> - **Expert.** obscure rumor, poorly guarded secret
+> - **Master.** well-guarded or esoteric information
+> - **Legendary.** information known only to an incredibly select few, or only to extraordinary beings

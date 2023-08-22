@@ -27,6 +27,7 @@ title: **Activate**  [Interact](rules/actions/interact.md)
 ```
 
 ---
+
 ### Variants
 
 #### Conundrum Spectacles *Item 5*

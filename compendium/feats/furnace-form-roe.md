@@ -18,7 +18,5 @@ aliases: ["Furnace Form"]
 
 Opening your kinetic gate, you allow flames to consume your form and leave you a living flame. You gain the benefits of the [fiery body](compendium/spells/fiery-body.md) spell (except the ability to cast ignition) until the end of your next turn. You can Sustain the impulse up to 1 minute, and when you do, you can [Fly](rules/actions/fly.md) up to half your fly Speed. Your fire Elemental Blasts deal an additional die of damage.
 
-Level (16th) This duration is 1 minute, you can't Sustain the impulse, and you can [Dismiss](rules/actions/dismiss.md) the impulse.
-
-*Source: RoE p. 29*  
+*Source: Rage of Elements p. 29*  
 %% #compendium/src/pf2e/roe #trait/fire #trait/impulse #trait/kineticist #trait/manipulate #trait/polymorph #trait/primal %%

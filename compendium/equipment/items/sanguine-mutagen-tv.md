@@ -24,6 +24,7 @@ Benefit You gain an item bonus to Fortitude and Reflex saves. This bonus improve
 Drawback Whenever you take piercing or slashing damage, you take `1d6` [persistent bleed damage](rules/conditions.md#Persistent%20Damage).
 
 ---
+
 ### Variants
 
 #### lesser *Item 1*

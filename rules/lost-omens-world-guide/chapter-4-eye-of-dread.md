@@ -8,12 +8,12 @@ aliases: ["chapter-4-eye-of-dread"]
 # Chapter 4: Eye of Dread
 <sup>LOWG p. 36</sup>
 
-- **Nations** Belkzen, Gravelands, Molthune, Nirmathas, Oprak, Ustalav
-- **Peoples** Dwarven, Goblin, Half-orc, Kellid, Taldan, Varisian
-- **Languages** Common, Goblin, Hallit, Necril, Orcish, Varisian
-- **Factions** [Esoteric Order of the Palatine Eye](compendium/setting/deities/esoteric-order-of-the-palatine-eye-logm.md), Magaambya, [Whispering Way](compendium/setting/deities/whispering-way.md)
-- **Religions** [Desna](compendium/setting/deities/desna.md), [Erastil](compendium/setting/deities/erastil.md), [Iomedae](compendium/setting/deities/iomedae.md), [Pharasma](compendium/setting/deities/pharasma.md), [Rovagug](compendium/setting/deities/rovagug.md), [Urgathoa](compendium/setting/deities/urgathoa.md)
-- **Resources** Armor/Weapons, Books/Lore, Grain/Fruit/Vegetables, Jewelry/Gems, Livestock/Hides, Lumber, Mercenaries, Ores
+- **Nations.** Belkzen, Gravelands, Molthune, Nirmathas, Oprak, Ustalav
+- **Peoples.** Dwarven, Goblin, Half-orc, Kellid, Taldan, Varisian
+- **Languages.** Common, Goblin, Hallit, Necril, Orcish, Varisian
+- **Factions.** [Esoteric Order of the Palatine Eye](compendium/setting/deities/esoteric-order-of-the-palatine-eye-logm.md), Magaambya, [Whispering Way](compendium/setting/deities/whispering-way.md)
+- **Religions.** [Desna](compendium/setting/deities/desna.md), [Erastil](compendium/setting/deities/erastil.md), [Iomedae](compendium/setting/deities/iomedae.md), [Pharasma](compendium/setting/deities/pharasma.md), [Rovagug](compendium/setting/deities/rovagug.md), [Urgathoa](compendium/setting/deities/urgathoa.md)
+- **Resources.** Armor/Weapons, Books/Lore, Grain/Fruit/Vegetables, Jewelry/Gems, Livestock/Hides, Lumber, Mercenaries, Ores
 
 > [!pf2-sidebar] TIMELINE
 > See page 38 of Lost Omens: World Guide

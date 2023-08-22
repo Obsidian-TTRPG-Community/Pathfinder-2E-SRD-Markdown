@@ -23,6 +23,7 @@ You extend your weapon for an instant, giving you an impossible reach. You [Stri
 ```
 
 ---
+
 ### Variants
 
 #### extending *Item 9*

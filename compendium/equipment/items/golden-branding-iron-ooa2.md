@@ -20,6 +20,7 @@ aliases: ["Golden Branding Iron"]
 This talisman is a gold-plated brand that can be affixed to a ranged weapon's stock. When you activate a golden branding iron, you mark the target with your magical sigil.
 
 ---
+
 ### Variants
 
 #### golden branding iron *Item 5*

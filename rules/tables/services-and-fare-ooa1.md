@@ -8,36 +8,89 @@ aliases: ["Services and Fare"]
 # Services and Fare  
 *Source: Outlaws of Alkenstar #1: Punks in a Powder Keg p. 69*  
 
-| Service | Price |
-|---------|-------|
-| Bulletworks use (per hour) | 1 sp |
-| Bulletworks use (per day) | 1 gp |
-| multiRow |  |
-| multiRow |  |
-| multiRow |  |
-| Firing range (per day) | 2 sp |
-| multiRow |  |
-| multiRow |  |
-| multiRow |  |
-| multiRow |  |
-^services-and-fare-6
-
-| Food | Price |
-|------|-------|
-| Bread of the day | 1 cp |
-| Brown bullet curry | 2 cp |
-| Full-course meal | 4 sp |
-| Spice cake | 5 cp |
-| Stew (broth only) | 5 cp |
-| Stew (with meat) | 1 sp |
-| Ustradi oysters | 2 sp |
-^services-and-fare-14
-
-| Drink | Price |
-|-------|-------|
-| Dunsmith's dram | 5 cp |
-| Flaming whiskey | 7 cp |
-| Gear greaser | 6 cp |
-| Ghostly wainright | 2 sp |
-| Grenadier's revenge | 1 sp |
-| Smokeside sour | 2 cp |
+<table>
+<tr>
+  <th>Service</th>
+  <th>Price</th>
+</tr>
+<tr>
+  <td>Bulletworks use (per hour)</td>
+  <td>1 sp</td>
+</tr>
+<tr>
+  <td>Bulletworks use (per day)</td>
+  <td>1 gp</td>
+</tr>
+<tr>
+  <td>Firearm services<br />Cleaning (per gun)<br />Repair (per day)</td>
+  <td><br />1 sp<br />1 gp</td>
+</tr>
+<tr>
+  <td>Firing range (per day)</td>
+  <td>2 sp</td>
+</tr>
+<tr>
+  <td>Sleeping accommodations (per night)<br />Taproom floor space<br />Bed (for 1)<br />Private room (for 2)</td>
+  <td><br />5 cp<br />3 sp<br />1 gp</td>
+</tr>
+<tr>
+  <th>Food</th>
+  <th>Price</th>
+</tr>
+<tr>
+  <td>Bread of the day</td>
+  <td>1 cp</td>
+</tr>
+<tr>
+  <td>Brown bullet curry</td>
+  <td>2 cp</td>
+</tr>
+<tr>
+  <td>Full-course meal</td>
+  <td>4 sp</td>
+</tr>
+<tr>
+  <td>Spice cake</td>
+  <td>5 cp</td>
+</tr>
+<tr>
+  <td>Stew (broth only)</td>
+  <td>5 cp</td>
+</tr>
+<tr>
+  <td>Stew (with meat)</td>
+  <td>1 sp</td>
+</tr>
+<tr>
+  <td>Ustradi oysters</td>
+  <td>2 sp</td>
+</tr>
+<tr>
+  <th>Drink</th>
+  <th>Price</th>
+</tr>
+<tr>
+  <td>Dunsmith's dram</td>
+  <td>5 cp</td>
+</tr>
+<tr>
+  <td>Flaming whiskey</td>
+  <td>7 cp</td>
+</tr>
+<tr>
+  <td>Gear greaser</td>
+  <td>6 cp</td>
+</tr>
+<tr>
+  <td>Ghostly wainright</td>
+  <td>2 sp</td>
+</tr>
+<tr>
+  <td>Grenadier's revenge</td>
+  <td>1 sp</td>
+</tr>
+<tr>
+  <td>Smokeside sour</td>
+  <td>2 cp</td>
+</tr>
+</table>

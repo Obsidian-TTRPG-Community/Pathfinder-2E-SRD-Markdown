@@ -19,6 +19,7 @@ A skittering mask is a hand-carved, wooden, full-head mask that sports several h
 If more than one enemy is equidistant, the mask Steps away from one of them at random. The mask possesses no special senses and does not react to [hidden](rules/conditions.md#Hidden) or [undetected](rules/conditions.md#Undetected) enemies, nor can it distinguish that a creature not acting openly [hostile](rules/conditions.md#Hostile) is an enemy.
 
 ---
+
 ### Variants
 
 #### skittering mask *Item 2*

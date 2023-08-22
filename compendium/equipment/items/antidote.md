@@ -19,6 +19,7 @@ aliases: ["Antidote"]
 An antidote protects you against toxins. Upon drinking an antidote, you gain an item bonus to Fortitude saving throws against poisons for 6 hours.
 
 ---
+
 ### Variants
 
 #### lesser *Item 1*

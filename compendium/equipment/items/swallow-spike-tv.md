@@ -40,6 +40,7 @@ The armor makes a melee attack against the creature, as described in the rune's 
 ```
 
 ---
+
 ### Variants
 
 #### swallow-spike *Item 6*

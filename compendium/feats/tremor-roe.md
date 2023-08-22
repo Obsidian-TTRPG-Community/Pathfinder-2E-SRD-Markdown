@@ -17,5 +17,5 @@ aliases: ["Tremor"]
 
 You unleash a small, localized tremor in a 10-foot burst within 30 feet. Each creature in the area takes `1d8` bludgeoning damage with a basic Fortitude save against your class DC. A creature that critically fails is knocked [prone](rules/conditions.md#Prone). Earth and stone in the area is difficult terrain until the start of your next turn.
 
-*Source: RoE p. 26*  
+*Source: Rage of Elements p. 26*  
 %% #compendium/src/pf2e/roe #trait/earth #trait/impulse #trait/kineticist #trait/overflow #trait/primal %%

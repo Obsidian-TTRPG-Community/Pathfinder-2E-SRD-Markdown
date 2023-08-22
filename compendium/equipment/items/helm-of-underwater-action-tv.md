@@ -27,6 +27,7 @@ During this time, you have a swim Speed equal to your land Speed.
 ```
 
 ---
+
 ### Variants
 
 #### helm of underwater action *Item 9*

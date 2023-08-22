@@ -22,6 +22,7 @@ The ammunition affects only the target hit, even if the spell would normally aff
 The maximum level of spell the ammunition can hold determines its item level and Price.
 
 ---
+
 ### Variants
 
 #### I *Item 3*

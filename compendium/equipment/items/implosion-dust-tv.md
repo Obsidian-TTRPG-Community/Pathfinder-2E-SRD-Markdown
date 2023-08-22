@@ -25,6 +25,7 @@ Sealed in a packet so it can be released in a pressurized puff, implosion dust c
 > - **Critical Failure** As failure, but the target decreases in size by two steps.
 
 ---
+
 ### Variants
 
 #### lesser *Item 6*

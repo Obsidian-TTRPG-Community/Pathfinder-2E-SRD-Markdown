@@ -16,6 +16,7 @@ aliases: ["Quenching"]
 This rune counters burning and corrosive agents. Armor with this rune reduces the DC of the flat check to end [persistent acid](rules/conditions.md#Persistent%20Damage) or fire damage affecting you from 15 to 12 (7 with particularly effective assistance).
 
 ---
+
 ### Variants
 
 #### quenching *Item 6*

@@ -26,6 +26,7 @@ On a critical hit, a creature in contact with a solid surface becomes stuck to t
 The target can end any effects by [Escaping](rules/actions/escape.md) or spending a total of 3 [Interact](rules/actions/interact.md) actions to carefully remove the sticky substances. These [Interact](rules/actions/interact.md) actions don't have to be consecutive, and other creatures can provide the actions as well.
 
 ---
+
 ### Variants
 
 #### lesser *Item 1*

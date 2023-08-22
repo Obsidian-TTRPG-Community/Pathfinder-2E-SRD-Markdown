@@ -27,6 +27,7 @@ While setting up the disguise, you can magically alter the hat to appear as a co
 ```
 
 ---
+
 ### Variants
 
 #### hat of disguise *Item 2*

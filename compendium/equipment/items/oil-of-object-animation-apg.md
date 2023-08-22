@@ -22,6 +22,7 @@ This fine golden oil comes in a small blue canister. Carefully spreading the oil
 This animated object has the [minion](rules/traits/minion.md "Minion Creature Trait") trait, meaning it can use 2 actions when you Command it. You can issue a Command for the current turn as part of the activation. The object remains animated for 1 minute before falling inert. As usual, you can have a maximum of four minions under your control.
 
 ---
+
 ### Variants
 
 #### oil of object animation *Item 8*

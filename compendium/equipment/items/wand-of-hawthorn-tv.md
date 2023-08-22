@@ -29,6 +29,7 @@ While barkskin lasts, any creature that hits the target with an unarmed [Strike]
 ```
 
 ---
+
 ### Variants
 
 #### 2nd-level spell *Item 6*

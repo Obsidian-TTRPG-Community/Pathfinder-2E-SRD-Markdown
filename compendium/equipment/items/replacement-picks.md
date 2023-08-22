@@ -13,6 +13,7 @@ aliases: ["Replacement Picks"]
 If your thieves' tools are broken, you can repair them by replacing the lock picks with replacement picks appropriate to your tools; this doesn't require using the [Repair](rules/actions/repair.md) action.
 
 ---
+
 ### Variants
 
 #### Base *Item 0*

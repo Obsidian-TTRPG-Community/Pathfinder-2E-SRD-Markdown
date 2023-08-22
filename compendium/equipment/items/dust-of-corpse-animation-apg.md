@@ -25,6 +25,7 @@ The animated undead has the [minion](rules/traits/minion.md "Minion Creature Tra
 The undead creature remains animated for 1 minute before collapsing back into its corpse form. As usual, you can have a maximum of four minions under your control.
 
 ---
+
 ### Variants
 
 #### dust of corpse animation *Item 8*

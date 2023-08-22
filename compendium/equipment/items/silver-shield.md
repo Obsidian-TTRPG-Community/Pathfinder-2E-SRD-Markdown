@@ -13,6 +13,7 @@ aliases: ["Silver Shield"]
 Silver shields don't typically have an additional effect, though when used for a shield bash, they are silver weapons.
 
 ---
+
 ### Variants
 
 #### low-grade silver buckler *Item 2*

@@ -18,6 +18,7 @@ aliases: ["Vaccine"]
 A vaccine grants a creature immunity to a specific strain of disease of a level equal to or less than the vaccine's level, and a +2 item bonus on all saving throws against other strains of the same disease. For example, a vaccine could grant immunity to filth fever inflicted by otyughs, but would only grant a +2 saving throw bonus against filth fever inflicted by a giant rat.
 
 ---
+
 ### Variants
 
 #### minor *Item 1*

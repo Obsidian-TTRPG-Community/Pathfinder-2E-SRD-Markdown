@@ -28,6 +28,7 @@ You cast [electric arc](compendium/spells/electric-arc.md).
 ```
 
 ---
+
 ### Variants
 
 #### jolt coil *Item 3*

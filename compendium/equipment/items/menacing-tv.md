@@ -16,6 +16,7 @@ aliases: ["Menacing"]
 Common among brutes who use the magic to scare others into compliance, menacing runes lend you a formidable appearance, granting you a +1 item bonus to [Intimidation](compendium/skills.md#Intimidation) checks to [Coerce](rules/actions/coerce.md) others.
 
 ---
+
 ### Variants
 
 #### menacing *Item 3*

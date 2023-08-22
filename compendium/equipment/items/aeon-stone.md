@@ -24,6 +24,7 @@ You can stow an aeon stone with an [Interact](rules/actions/interact.md) action,
 There are various types of aeon stones, each with a different shape, color, and [magical](rules/traits/magical.md "Magical Item Trait") effect. Each aeon stone also gains a resonant power when slotted into a special magical item called a [wayfinder](compendium/equipment/items/wayfinder.md).
 
 ---
+
 ### Variants
 
 #### clear spindle *Item 7*

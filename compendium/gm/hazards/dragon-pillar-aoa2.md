@@ -43,29 +43,29 @@ title: Routine
 ```ad-inline-attack
 title: Ranged [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Eye Beam (20) ([divine](rules/traits/divine.md "Divine Tradition Trait"), [evocation](rules/traits/evocation.md "Evocation School Trait"), range <120 feet>)
 **Effects** The target is subjected to an effect determined by the pillar's color and summarized below. On a critical hit, the target's save result is one degree worse.
-- **Black Eye Beam (area A5)** ([incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")) DC 24 Fortitude save.  
+- **Black Eye Beam (area A5).** ([incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")) DC 24 Fortitude save.  
     > [!success-degree]   
     > - **Critical Success** The target is unaffected.  
     > - **Success** The target is [blinded](rules/conditions.md#Blinded) for 1 round.  
     > - **Failure** The target is [blinded](rules/conditions.md#Blinded) for 1 hour.  
     > - **Critical Failure** The target is [blinded](rules/conditions.md#Blinded) for 24 hours.
-- **Blue Eye Beam (area A7)** ([incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")) DC 24 Fortitude save.  
+- **Blue Eye Beam (area A7).** ([incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")) DC 24 Fortitude save.  
     > [!success-degree]   
     > - **Critical Success** The target is unaffected.  
     > - **Success** The target is [petrified](rules/conditions.md#Petrified) for 1 round.  
     > - **Failure** The target is [petrified](rules/conditions.md#Petrified) for 1 hour.  
     > - **Critical Failure** The target is [petrified](rules/conditions.md#Petrified) permanently.
-- **Green Eye Beam (area A8)** ([poison](rules/traits/poison.md "Poison Effect Trait")) `6d6` poison damage (DC 24 basic Reflex save).
-- **Indigo Eye Beam (area A9)** ([incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")) DC 24 Will save.  
+- **Green Eye Beam (area A8).** ([poison](rules/traits/poison.md "Poison Effect Trait")) `6d6` poison damage (DC 24 basic Reflex save).
+- **Indigo Eye Beam (area A9).** ([incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")) DC 24 Will save.  
     > [!success-degree]   
     > - **Critical Success** The target is unaffected.  
     > - **Success** The target is [slowed](rules/conditions.md#Slowed) for 1 round.  
     > - **Failure** The target is [confused](rules/conditions.md#Confused) for 1 hour.  
     > - **Critical Failure** The target is controlled by the dragon pillar and remains within 60 feet of it at all times, defending the dragon pillar from all non-Cinderclaws. While a target is controlled, it is treated as a Cinderclaw ally by the dragon pillar. The dragon pillar can control up to 3 targets at a time; any targets in excess who critically fail this saving throw are instead confused for `1d4+1` rounds. A controlled creature can attempt a new Will save once every 24 hours to escape control, but doing so automatically causes the dragon pillar to attack it with a new eye beam to attempt to re-establish control. The control ends if the pillar is destroyed.
-- **Yellow Eye Beam (area A12)** ([electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")) `6d6` electricity damage (DC 24 basic Reflex save).
-- **Orange Eye Beam (area A15)** ([acid](rules/traits/acid.md "Acid Energy & Element Trait")) `6d6` acid damage (DC 24 basic Reflex save).
-- **Red Eye Beam (area A16)** ([fire](rules/traits/fire.md "Fire Energy & Element Trait")) `6d6` fire damage (DC 24 basic Reflex save).
-- **Violet Eye Beam (area A9)** ([incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")) DC 24 Will save.  
+- **Yellow Eye Beam (area A12).** ([electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")) `6d6` electricity damage (DC 24 basic Reflex save).
+- **Orange Eye Beam (area A15).** ([acid](rules/traits/acid.md "Acid Energy & Element Trait")) `6d6` acid damage (DC 24 basic Reflex save).
+- **Red Eye Beam (area A16).** ([fire](rules/traits/fire.md "Fire Energy & Element Trait")) `6d6` fire damage (DC 24 basic Reflex save).
+- **Violet Eye Beam (area A9).** ([incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")) DC 24 Will save.  
     > [!success-degree]   
     > - **Critical Success** The target is unaffected.  
     > - **Success** The target is [stunned](rules/conditions.md#Stunned).  

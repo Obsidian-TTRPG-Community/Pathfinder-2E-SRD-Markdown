@@ -12,7 +12,7 @@ tags:
 aliases: ["Rouse the Forest's Fury"]
 ---
 # Rouse the Forest's Fury  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 18*  
-[impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  [overflow](rules/traits/overflow-roe.md "Overflow Action & Ability Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  wood  
+[impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  [overflow](rules/traits/overflow-roe.md "Overflow Action & Ability Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [wood](rules/traits/wood-roe.md "Wood Energy & Element Trait")  
 
 - **Activity** Three-Action
 
@@ -22,7 +22,5 @@ When the trees appear, each makes a [Strike](rules/actions/strike.md); they shar
 
 The trees last until the end of your next turn, and you can Sustain the impulse. Each time you Sustain the impulse, you can have one tree make a [Strike](rules/actions/strike.md).
 
-Level (20th) The attack modifier is +32 and the [Strike](rules/actions/strike.md) damage is `5d10+9`.
-
-*Source: RoE p. 35*  
+*Source: Rage of Elements p. 35*  
 %% #compendium/src/pf2e/roe #trait/impulse #trait/kineticist #trait/overflow #trait/plant #trait/primal #trait/wood %%

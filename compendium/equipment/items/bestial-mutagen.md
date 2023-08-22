@@ -24,6 +24,7 @@ Your features transform into something bestial and you take on muscle mass, but 
 **Drawback** You take a –1 penalty to AC and a –2 penalty to Reflex saves.
 
 ---
+
 ### Variants
 
 #### lesser *Item 1*

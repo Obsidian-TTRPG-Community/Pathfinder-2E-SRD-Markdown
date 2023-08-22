@@ -18,6 +18,7 @@ aliases: ["Fleshgem"]
 Originally developed as a body modification by oreads, fleshgems are crystals that can be implanted in the skin of a creature of any ancestry. While a fleshgem can be applied anywhere on the body for cosmetic purposes, the most common usage among adventurers is to implant them at the base of the fingers, to be used like brass knuckles.
 
 ---
+
 ### Variants
 
 #### combat fleshgem *Item 5*

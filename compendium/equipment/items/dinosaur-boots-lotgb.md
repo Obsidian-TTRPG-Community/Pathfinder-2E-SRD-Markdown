@@ -31,6 +31,7 @@ You gain a foot unarmed attack that has the same statistics as your fist unarmed
 ```
 
 ---
+
 ### Variants
 
 #### dinosaur boots *Item 10*

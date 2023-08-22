@@ -23,5 +23,5 @@ Your options include impulse feats for your kinetic element, as normal for a kin
 
 ## Summary
 
-*Source: RoE p. 57*  
+*Source: Rage of Elements p. 57*  
 %% #compendium/src/pf2e/roe #trait/archetype %%

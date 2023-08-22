@@ -27,6 +27,7 @@ Each draft of faerie dragon liqueur has a different flavor. For 1 hour after you
 > - **Critical Failure** The creature is [stupefied](rules/conditions.md#Stupefied) and [slowed](rules/conditions.md#Slowed) for 1 minute.
 
 ---
+
 ### Variants
 
 #### young faerie dragon liqueur *Item 7*

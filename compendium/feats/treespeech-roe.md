@@ -13,5 +13,5 @@ ardande
 
 Your connection to elemental wood allows you to communicate with trees in the Universe in Muan, the language of wood elementals. You can ask questions of, receive answers from, and use the [Diplomacy](compendium/skills.md#Diplomacy) skill with woody plants like trees and shrubs.
 
-*Source: RoE p. 49*  
+*Source: Rage of Elements p. 49*  
 %% #compendium/src/pf2e/roe #trait/ardande %%

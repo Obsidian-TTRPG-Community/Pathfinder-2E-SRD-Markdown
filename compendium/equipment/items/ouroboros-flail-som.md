@@ -35,6 +35,7 @@ This severs a usable 60-foot loop of chain from the flail, which instantly retur
 ```
 
 ---
+
 ### Variants
 
 #### ouroboros flail *Item 14*

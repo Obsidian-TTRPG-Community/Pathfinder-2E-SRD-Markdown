@@ -18,6 +18,7 @@ You need thieves' tools to [Pick Locks](rules/actions/pick-a-lock.md) or [Disabl
 > You can use the set of tools with one hand if you are wearing it.
 
 ---
+
 ### Variants
 
 #### Base *Item 0*

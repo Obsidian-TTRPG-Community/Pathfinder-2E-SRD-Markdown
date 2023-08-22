@@ -21,6 +21,7 @@ A tattletale orb is a polished crystal sphere that appears to function as a crys
 Tattletale orbs come in the same types as crystal balls, with the same activations and powers. However, your target must roll a critical failure on the saving throw for the orb to function as normal for that type of crystal ball.
 
 ---
+
 ### Variants
 
 #### clear quartz *Item 14*

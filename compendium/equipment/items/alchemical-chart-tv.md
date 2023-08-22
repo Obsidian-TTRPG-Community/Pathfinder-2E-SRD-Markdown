@@ -15,6 +15,7 @@ aliases: ["Alchemical Chart"]
 This sturdy, rigid alchemical chart contains shorthand references on quickly mixing reagents for maximum effect. If you hold this chart while using [Quick Alchemy](rules/actions/quick-alchemy.md), the items you create of the listed level remain potent for 1 additional round.
 
 ---
+
 ### Variants
 
 #### lesser alchemical chart *Item 4*

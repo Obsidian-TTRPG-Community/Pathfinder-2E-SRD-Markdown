@@ -24,6 +24,7 @@ While gazing through the scope, you zoom in on your targets to make it easier to
 ```
 
 ---
+
 ### Variants
 
 #### magnifying Scope *Item 3*

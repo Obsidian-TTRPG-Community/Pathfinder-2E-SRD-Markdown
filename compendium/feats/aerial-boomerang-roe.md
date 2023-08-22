@@ -18,5 +18,5 @@ A blade of shearing wind races away from you in a 60-foot line. Each creature in
 
 On your next turn, you can use a single action, which has the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") trait, to return the boomerang to you. It returns in a line from its square to your current location, with the same effect as the initial line, then the impulse ends. You must have line of effect to the boomerang and be within 60 feet of it.
 
-*Source: RoE p. 24*  
+*Source: Rage of Elements p. 24*  
 %% #compendium/src/pf2e/roe #trait/air #trait/impulse #trait/kineticist #trait/primal %%

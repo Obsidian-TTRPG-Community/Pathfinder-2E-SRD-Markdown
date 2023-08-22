@@ -17,6 +17,7 @@ Siccatite armor must be fitted with protective undercoats for it to be safely do
 When wearing cold siccatite armor, you're protected from severe and extreme environmental heat, and when wearing hot siccatite armor, you're protected from severe and extreme environmental cold. An opponent that has you [grabbed](rules/conditions.md#Grabbed) or [restrained](rules/conditions.md#Restrained) with its body while you're wearing standard-grade siccatite armor takes 4 energy damage at the end of its turn (either fire or cold, for hot and cold siccatite armor respectively), or 6 damage for a high-grade siccatite armor.
 
 ---
+
 ### Variants
 
 #### standard-grade siccatite armor *Item 12*

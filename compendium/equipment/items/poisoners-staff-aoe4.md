@@ -29,6 +29,7 @@ You expend a number of charges from the staff to cast a spell from its list.
 ```
 
 ---
+
 ### Variants
 
 #### poisoner's staff *Item 4*

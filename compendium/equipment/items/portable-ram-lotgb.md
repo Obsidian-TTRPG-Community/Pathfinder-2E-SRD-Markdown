@@ -13,6 +13,7 @@ aliases: ["Portable Ram"]
 A portable ram is a handheld, ironshod wooden beam designed to knock open doors, gates, and other similar obstacles. You gain a +1 item bonus to checks to [Force Open](rules/actions/force-open.md) these obstacles.
 
 ---
+
 ### Variants
 
 #### portable ram *Item 3*

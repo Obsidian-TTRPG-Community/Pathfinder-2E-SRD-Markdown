@@ -18,6 +18,7 @@ aliases: ["Sprite Apple"]
 A sparkling candy coating covers a sprite apple. For 10 minutes after consuming a sprite apple, you shed bright light in a 20-foot emanation (and dim light for the next 20 feet). While shedding this light, you can't be [concealed](rules/conditions.md#Concealed) if you're visible, and if you're [invisible](rules/conditions.md#Invisible), you're [concealed](rules/conditions.md#Concealed) instead rather than being [undetected](rules/conditions.md#Undetected). The light matches the vibrant color of the apple's candy coating. Creatures in the bright light are subject to another effect, depending on the type of apple.
 
 ---
+
 ### Variants
 
 #### chartreuse sprite apple *Item 5*

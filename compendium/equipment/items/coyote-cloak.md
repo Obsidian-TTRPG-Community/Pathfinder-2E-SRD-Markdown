@@ -19,6 +19,7 @@ This dusty coat is made of mangy brown-and-gray coyote fur.
 You gain a +1 item bonus to [Survival](compendium/skills.md#Survival) checks. If you critically succeed at your [Survival](compendium/skills.md#Survival) check to [Subsist](rules/actions/subsist.md), you can feed twice as many additional creatures.
 
 ---
+
 ### Variants
 
 #### coyote cloak *Item 3*

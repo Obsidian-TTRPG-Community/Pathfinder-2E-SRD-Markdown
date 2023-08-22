@@ -29,6 +29,7 @@ title: **Activate** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Action
 ```
 
 ---
+
 ### Variants
 
 #### lesser tome of restorative cleansing *Item 5*

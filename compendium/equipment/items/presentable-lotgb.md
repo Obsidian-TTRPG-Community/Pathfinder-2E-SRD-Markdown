@@ -17,6 +17,7 @@ aliases: ["Presentable"]
 A garment with this rune is always clean, as though it had just been affected by [prestidigitation](compendium/spells/prestidigitation.md). You gain a +1 item bonus to [Make an Impression](rules/actions/make-an-impression.md) on those who would be impressed by a particular presentable outfit while wearing this garment.
 
 ---
+
 ### Variants
 
 #### presentable *Item 3*

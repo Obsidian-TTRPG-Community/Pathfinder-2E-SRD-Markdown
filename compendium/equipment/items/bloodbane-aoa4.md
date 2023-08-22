@@ -20,6 +20,7 @@ A _bloodbane_ clan dagger is especially vicious against the ancestral enemies of
 In addition, whenever you inflict [persistent bleed damage](rules/conditions.md#Persistent%20Damage) with a _bloodbane_ weapon (whether from its innate ability or in some other way), the weapon leaves ragged wounds. The bleeding creature must succeed at a DC 25 Fortitude save or become [sickened](rules/conditions.md#Sickened). The creature is then temporarily immune for 1 hour.
 
 ---
+
 ### Variants
 
 #### bloodbane *Item 8*

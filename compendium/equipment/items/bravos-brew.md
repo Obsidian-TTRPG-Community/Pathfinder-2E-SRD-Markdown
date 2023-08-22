@@ -19,6 +19,7 @@ aliases: ["Bravo's Brew"]
 This flask of foaming beer grants courage. For the next hour after drinking this elixir, you gain an item bonus to Will saves, which is greater when attempting Will saves against [fear](rules/traits/fear.md "Fear Effect Trait").
 
 ---
+
 ### Variants
 
 #### lesser *Item 2*

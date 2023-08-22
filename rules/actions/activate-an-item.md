@@ -38,24 +38,24 @@ Activations are not necessarily magical—for instance, drinking an alchemical e
 > 
 > Some abilities and effects can disrupt the process of [Activating an Item](rules/actions/activate-an-item.md). If something disrupts your item activation, you fail to Activate the Item and lose the actions you committed. If the item can be activated only a certain number of times per day, the failed activation still counts against that limit. If an item requires you to spend actions to Sustain an Activation and one of those actions is disrupted, the item's effect ends.
 
-**Activation Components** An item's activate entry lists the components required to activate its abilities. Each component adds certain traits to the Activate an Item activity, and some components have special requirements. The components that appear in this book are listed below.
+**Activation Components.** An item's activate entry lists the components required to activate its abilities. Each component adds certain traits to the Activate an Item activity, and some components have special requirements. The components that appear in this book are listed below.
 
-**Command** This component is a specific utterance you must make in a loud and strong voice. Activate an Item gains the auditory and [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")s. You must be able to speak to provide this component.
+**Command.** This component is a specific utterance you must make in a loud and strong voice. Activate an Item gains the auditory and [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")s. You must be able to speak to provide this component.
 
-**Envision** This component is a specific image or phenomenon you need to imagine. Activate an Item gains the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait").
+**Envision.** This component is a specific image or phenomenon you need to imagine. Activate an Item gains the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait").
 
-**Interact** This component works like the Interact basic action.
+**Interact.** This component works like the Interact basic action.
 
 Activate an Item gains the manipulate trait and requires you to use your hands, just like with any Interact action.
 
-**Cast a Spell** If an item lists "[Cast a Spell](rules/actions/cast-a-spell.md)" after "Activate," the activation requires you to use the [Cast a Spell](rules/actions/cast-a-spell.md) activity (described on page 302) to Activate the Item. This happens when the item replicates a spell. You must have a spellcasting class feature to Activate an Item with this activation component.
+**Cast a Spell.** If an item lists "[Cast a Spell](rules/actions/cast-a-spell.md)" after "Activate," the activation requires you to use the [Cast a Spell](rules/actions/cast-a-spell.md) activity (described on page 302) to Activate the Item. This happens when the item replicates a spell. You must have a spellcasting class feature to Activate an Item with this activation component.
 
 If the item can be used for a specific spell, the action icon for that spell is provided. If it's an item like a staff, which can be used for many spells, the icon is omitted, and you must refer to each spell to determine which actions you must spend to Activate the Item to cast it.
 
 In this case, Activate an Item gains all the traits from the relevant components of the [Cast a Spell](rules/actions/cast-a-spell.md) activity.
 
-**Limited Activations** Some items can be activated only a limited number of times per day, as described in the items. This limit is independent of any costs for activating the item. The limit resets during your daily preparations. The limit is inherent to the item, so if an ability that can be used only once per day is used, it doesn't refresh if another creature later invests or tries to activate the item.
+**Limited Activations.** Some items can be activated only a limited number of times per day, as described in the items. This limit is independent of any costs for activating the item. The limit resets during your daily preparations. The limit is inherent to the item, so if an ability that can be used only once per day is used, it doesn't refresh if another creature later invests or tries to activate the item.
 
-**Sustaining Activations** Some items, once activated, have effects that can be sustained if you concentrate on them. This works much
+**Sustaining Activations.** Some items, once activated, have effects that can be sustained if you concentrate on them. This works much
 
-**Dismissing Activations** Some item effects can be dismissed, ending the duration early due to you or the target taking action. Dismissing an activation requires using the Dismiss action.
+**Dismissing Activations.** Some item effects can be dismissed, ending the duration early due to you or the target taking action. Dismissing an activation requires using the Dismiss action.
