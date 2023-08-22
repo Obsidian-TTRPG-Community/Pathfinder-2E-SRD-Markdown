@@ -36,6 +36,7 @@ Creatures in the area must attempt a DC 24 basic Reflex save (or Fortitude save 
 ```
 
 ---
+
 ### Variants
 
 #### breath blaster *Item 8*

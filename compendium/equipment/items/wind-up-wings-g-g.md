@@ -21,6 +21,7 @@ Wind-up wings must be attached to a thrown weapon and wound to function. A throw
 Attaching or detaching a pair of wind-up wings to a thrown weapon requires a [repair kit](compendium/equipment/items/repair-kit.md), and the process takes 10 minutes. Winding an attached pair of wind-up wings takes three [Interact](rules/actions/interact.md) actions. There are a variety of wind-up wings, with different effects.
 
 ---
+
 ### Variants
 
 #### flutterback wind-up wings *Item 3*

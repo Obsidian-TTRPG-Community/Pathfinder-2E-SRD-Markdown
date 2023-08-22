@@ -19,6 +19,7 @@ aliases: ["Oil of Weightlessness"]
 You can spread this shimmering oil on an item of 1 Bulk or less to make it feel weightless. It has negligible Bulk for 1 hour.
 
 ---
+
 ### Variants
 
 #### oil of weightlessness *Item 2*

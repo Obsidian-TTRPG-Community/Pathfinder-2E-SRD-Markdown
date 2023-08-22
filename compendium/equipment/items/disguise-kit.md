@@ -15,6 +15,7 @@ aliases: ["Disguise Kit"]
 This small wooden box contains cosmetics, false facial hair, spirit gum, and a few simple wigs. You usually need a disguise kit to set up a disguise in order to [Impersonate](rules/actions/impersonate.md) someone using the [Deception](compendium/skills.md#Deception) skill. If you've crafted a large number of disguises, you can replenish your cosmetics supply with [replacement cosmetics](compendium/equipment/items/replacement-cosmetics.md) suitable for the type of your disguise kit. You can draw and replace a worn disguise kit as part of the action that uses it.
 
 ---
+
 ### Variants
 
 #### Base *Item 0*

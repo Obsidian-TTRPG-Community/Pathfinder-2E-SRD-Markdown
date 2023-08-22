@@ -8,12 +8,12 @@ aliases: ["chapter-11-shining-kingdoms"]
 # Chapter 11: Shining Kingdoms
 <sup>LOWG p. 120</sup>
 
-- **Nations** Andoran, Druma, Five Kings Mountains, Galt, Kyonin, Taldor
-- **Peoples** Dwarven, Elven, Half-Elven, Gnome, Keleshite, Kellid, Taldan
-- **Languages** Common, Dwarven, Elven, Gnomish, Hallit, Kelish
-- **Factions** Eagle Knights, Lion Blades, [Prophecies of Kalistrade](compendium/setting/deities/prophecies-of-kalistrade.md)
-- **Religions** [Abadar](compendium/setting/deities/abadar.md), [Calistria](compendium/setting/deities/calistria.md), [Erastil](compendium/setting/deities/erastil.md), [Iomedae](compendium/setting/deities/iomedae.md), [Sarenrae](compendium/setting/deities/sarenrae.md), [Torag](compendium/setting/deities/torag.md)
-- **Resources** Alcohol/Drugs, Armor/Weapons, Cheese, Grain/Fruit/Vegetables, Jewelry/Gems, Livestock/Hides, Lumber, Luxury Goods, Ores, Ships, Textiles
+- **Nations.** Andoran, Druma, Five Kings Mountains, Galt, Kyonin, Taldor
+- **Peoples.** Dwarven, Elven, Half-Elven, Gnome, Keleshite, Kellid, Taldan
+- **Languages.** Common, Dwarven, Elven, Gnomish, Hallit, Kelish
+- **Factions.** Eagle Knights, Lion Blades, [Prophecies of Kalistrade](compendium/setting/deities/prophecies-of-kalistrade.md)
+- **Religions.** [Abadar](compendium/setting/deities/abadar.md), [Calistria](compendium/setting/deities/calistria.md), [Erastil](compendium/setting/deities/erastil.md), [Iomedae](compendium/setting/deities/iomedae.md), [Sarenrae](compendium/setting/deities/sarenrae.md), [Torag](compendium/setting/deities/torag.md)
+- **Resources.** Alcohol/Drugs, Armor/Weapons, Cheese, Grain/Fruit/Vegetables, Jewelry/Gems, Livestock/Hides, Lumber, Luxury Goods, Ores, Ships, Textiles
 
 > [!pf2-sidebar] TIMELINE
 > See page 122 of Lost Omens: World Guide

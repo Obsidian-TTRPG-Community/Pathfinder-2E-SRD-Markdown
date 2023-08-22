@@ -17,6 +17,7 @@ aliases: ["Anchoring"]
 This rune prevents enemies from escaping your grasp by [fleeing](rules/conditions.md#Fleeing) to other planes. If you critically hit a target with an anchoring weapon, the weapon casts [dimensional anchor](compendium/spells/dimensional-anchor.md) on the target (DC 27, counteract modifier +17).
 
 ---
+
 ### Variants
 
 #### anchoring *Item 10*

@@ -19,6 +19,7 @@ This wide, single-use mask is designed to be slipped over your mouth and nose an
 When you use [Survival](compendium/skills.md#Survival) to [Track](rules/actions/track.md) a creature by its scent, your proficiency bonus is equal to your level even if you're untrained, and the mask grants you the listed item bonus to your [Survival](compendium/skills.md#Survival) check. The GM sets the [Survival](compendium/skills.md#Survival) DC based on the area's ability to hold scent rather than on visual clues, as normal for using scent.
 
 ---
+
 ### Variants
 
 #### lesser *Item 2*

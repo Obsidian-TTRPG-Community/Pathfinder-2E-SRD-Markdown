@@ -9,7 +9,7 @@ tags:
 aliases: ["Planar Migrant"]
 ---
 # Planar Migrant
-*Source: RoE p. 44*  
+*Source: Rage of Elements p. 44*  
 
 Your birthplace was on one of the elemental planes, but you traveled to the Universe for some reason. Maybe you left on good terms, or maybe you were driven out and hope to one day return. Maybe you were even exiled, and any mention of it brings pain and resentment. In any case, nowhere has quite felt like home since, and you've roamed the land, carrying your life's possessions on your back wherever you go. You adventure possibly in search of a place to belong or a way to return to your plane of origin and settle unfinished business.
 

@@ -12,7 +12,7 @@ tags:
 aliases: ["Sanguivolent Roots"]
 ---
 # Sanguivolent Roots  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 8*  
-[impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  [overflow](rules/traits/overflow-roe.md "Overflow Action & Ability Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  wood  
+[impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  [overflow](rules/traits/overflow-roe.md "Overflow Action & Ability Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [wood](rules/traits/wood-roe.md "Wood Energy & Element Trait")  
 
 - **Activity** Three-Action
 
@@ -20,7 +20,5 @@ Blood-drinking vines grow from the ground in a 15-foot burst within 120 feet. Ea
 
 The vines last until the end of your next turn, and you can Sustain the impulse. The first time you Sustain the impulse on subsequent turns, you can repeat the effect.
 
-Level (+2) The damage increases by `1d6`.
-
-*Source: RoE p. 35*  
+*Source: Rage of Elements p. 35*  
 %% #compendium/src/pf2e/roe #trait/impulse #trait/kineticist #trait/overflow #trait/plant #trait/primal #trait/wood %%

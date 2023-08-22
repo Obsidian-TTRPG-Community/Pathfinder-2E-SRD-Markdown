@@ -20,6 +20,7 @@ aliases: ["Blight Bomb"]
 Blight bombs contain volatile toxic chemicals that rot flesh. A blight bomb deals the listed poison damage, [persistent poison damage](rules/conditions.md#Persistent%20Damage), and splash damage. Many types grant an item bonus to attack rolls.
 
 ---
+
 ### Variants
 
 #### lesser *Item 1*

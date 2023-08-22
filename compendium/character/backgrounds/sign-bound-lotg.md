@@ -20,16 +20,16 @@ Choose two ability boosts. One must be to the ability tied to your sign, and one
 
 You're trained in [Astrology Lore](compendium/skills.md#Lore). You also gain the ability to cast an occult innate spell, as determined by your sign. The frequency with which you can cast this spell is listed below; cantrips can be used as often as you wish. As normal, you cast non-cantrip innate spells at the lowest level available to that spell, such as 2nd level for [speak with animals](compendium/spells/speak-with-animals.md), and cantrips are heightened to half your level. Additionally, once during the prominent time for your sign (such as 12 Pharast–18 Gozran for the Bridge), you can cast your sign's spell without expending its normal use.
 
-- **The Thrush (Dexterity)** [ghost sound](compendium/spells/ghost-sound.md); at will
-- **The Lantern Bearer (Wisdom)** [light](compendium/spells/light.md); at will
-- **The Newlyweds (Charisma)** [charm](compendium/spells/charm.md); once per day
-- **The Bridge (Constitution)** [endure elements](compendium/spells/endure-elements.md); once per week
-- **The Daughter (Charisma)** [guidance](compendium/spells/guidance.md); at will
-- **The Rider (Strength)** [phantom steed](compendium/spells/phantom-steed.md); once per week
-- **The Patriarch (Strength)** [know direction](compendium/spells/know-direction.md); at will
-- **The Wagon (Constitution)** [longstrider](compendium/spells/longstrider.md); once per week
-- **The Pack (Dexterity)** [speak with animals](compendium/spells/speak-with-animals.md); once per week
-- **The Mother (Wisdom)** [remove fear](compendium/spells/remove-fear.md); once per week
-- **The Star Gazer (Intelligence)** [true strike](compendium/spells/true-strike.md); once per week
-- **The Stranger (Charisma)** [message](compendium/spells/message.md); at will
-- **The Follower (Intelligence)** [stabilize](compendium/spells/stabilize.md); at will
+- **The Thrush (Dexterity).** [ghost sound](compendium/spells/ghost-sound.md); at will
+- **The Lantern Bearer (Wisdom).** [light](compendium/spells/light.md); at will
+- **The Newlyweds (Charisma).** [charm](compendium/spells/charm.md); once per day
+- **The Bridge (Constitution).** [endure elements](compendium/spells/endure-elements.md); once per week
+- **The Daughter (Charisma).** [guidance](compendium/spells/guidance.md); at will
+- **The Rider (Strength).** [phantom steed](compendium/spells/phantom-steed.md); once per week
+- **The Patriarch (Strength).** [know direction](compendium/spells/know-direction.md); at will
+- **The Wagon (Constitution).** [longstrider](compendium/spells/longstrider.md); once per week
+- **The Pack (Dexterity).** [speak with animals](compendium/spells/speak-with-animals.md); once per week
+- **The Mother (Wisdom).** [remove fear](compendium/spells/remove-fear.md); once per week
+- **The Star Gazer (Intelligence).** [true strike](compendium/spells/true-strike.md); once per week
+- **The Stranger (Charisma).** [message](compendium/spells/message.md); at will
+- **The Follower (Intelligence).** [stabilize](compendium/spells/stabilize.md); at will

@@ -18,6 +18,7 @@ aliases: ["Nevercold"]
 Nevercold, sometimes mistakenly referred to as nevercoal, is the charcoal left after wildfires in the First World. True to its name, nevercold remains warm to the touch. If you use nevercold to cast [fire shield](compendium/spells/fire-shield.md), the spell's duration increases by 1 minute, the cold resistance you gain from it lasts 1 hour, and you're protected from the effects of severe cold for 8 hours.
 
 ---
+
 ### Variants
 
 #### nevercold *Item 10*

@@ -16,6 +16,7 @@ aliases: ["Scholarly Journal"]
 Scholarly journals are uncommon. Each scholarly journal is a folio on a very specific topic, such as vampires or the history of a single town or neighborhood of a city. If you spend 1 minute referencing an academic journal before attempting a skill check to [Recall Knowledge](rules/actions/recall-knowledge.md) about the subject, you gain a +1 item bonus to the check. The GM determines what scholarly journals are available in any location.
 
 ---
+
 ### Variants
 
 #### Scholarly Journal *Item 0*

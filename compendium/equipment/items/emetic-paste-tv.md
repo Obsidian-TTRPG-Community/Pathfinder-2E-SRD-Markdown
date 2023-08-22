@@ -19,6 +19,7 @@ aliases: ["Emetic Paste"]
 [Sickened](rules/conditions.md#Sickened) creatures have difficulty swallowing, so you can Activate emetic paste by applying it to your skin or that of a [sickened](rules/conditions.md#Sickened) creature within reach, typically on the throat. The paste makes it easy for the [sickened](rules/conditions.md#Sickened) creature to purge, granting it an immediate Fortitude save to reduce its [sickened](rules/conditions.md#Sickened) condition. The paste grants the target an item bonus to that save and to all saving throws to reduce the [sickened](rules/conditions.md#Sickened) condition for 1 hour.
 
 ---
+
 ### Variants
 
 #### lesser *Item 2*

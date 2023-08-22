@@ -18,6 +18,7 @@ A striking rune stores destructive magic in the weapon, increasing the weapon da
 You can upgrade the striking rune already etched on a weapon to a stronger version, increasing the values of the existing rune to those of the new rune. You must have the formula of the stronger rune to do so, and the Price of the upgrade is the difference between the two runes' Prices.
 
 ---
+
 ### Variants
 
 #### striking *Item 4*

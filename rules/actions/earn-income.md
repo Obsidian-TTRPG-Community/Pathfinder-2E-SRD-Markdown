@@ -29,9 +29,9 @@ You can continue working at the task on subsequent days without needing to roll 
 > 
 > These examples use Alcohol Lore to work in a bar or Legal Lore to perform legal work.
 > 
-> - **Trained** bartend, do legal research
-> - **Expert** curate drink selection, present minor court cases
-> - **Master** run a large brewery, present important court cases
-> - **Legendary** run an international brewing franchise, present a case in Hell's courts
+> - **Trained.** bartend, do legal research
+> - **Expert.** curate drink selection, present minor court cases
+> - **Master.** run a large brewery, present important court cases
+> - **Legendary.** run an international brewing franchise, present a case in Hell's courts
 
 ![EARN INCOME TASKS](rules/tables/earn-income-tasks-gmg.md)

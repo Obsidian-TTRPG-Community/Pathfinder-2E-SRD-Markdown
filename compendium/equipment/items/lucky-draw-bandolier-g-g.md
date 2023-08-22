@@ -31,6 +31,7 @@ The result determines the type of magical ammunition the card becomes, as per th
 ```
 
 ---
+
 ### Variants
 
 #### lucky draw bandolier *Item 9*

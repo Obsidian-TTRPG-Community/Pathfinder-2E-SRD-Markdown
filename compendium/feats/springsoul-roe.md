@@ -13,5 +13,5 @@ aliases: ["Springsoul"]
 
 Your connection to elemental wood manifests as fresh blossoms, spring fruits, and the seeds of new life, and you harness this power to spread vitality and abundance. You can cast the tangle vine cantrip as an innate primal or arcane spell at will. A cantrip is heightened to a spell rank equal to half your level rounded up.
 
-*Source: RoE p. 48*  
+*Source: Rage of Elements p. 48*  
 %% #compendium/src/pf2e/roe #trait/ardande #trait/lineage %%

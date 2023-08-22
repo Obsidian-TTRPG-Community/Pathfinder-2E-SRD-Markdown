@@ -22,6 +22,7 @@ Knights make use of this magically treated powder to help hide their camps while
 A creature outside the area that uses the [Seek](rules/actions/seek.md) action or [Search](rules/actions/search.md) activity to examine the area or look for smoke and light coming from that direction can attempt a DC 18 [Perception](compendium/skills.md#Perception) check to disbelieve the illusion.
 
 ---
+
 ### Variants
 
 #### minor *Item 4*

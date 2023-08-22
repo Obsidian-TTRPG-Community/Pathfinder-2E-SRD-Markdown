@@ -8,12 +8,12 @@ aliases: ["chapter-3-broken-lands"]
 # Chapter 3: Broken Lands
 <sup>LOWG p. 24</sup>
 
-- **Nations** Brevoy, Mendev, Numeria, Razmiran, River Kingdoms, Sarkoris Scar
-- **Peoples** Dwarven, Kellid, Taldan
-- **Languages** Abyssal, Common, Draconic, Hallit, Skald, Varisian
-- **Factions** Firebrands, Pathfinder Society, Razmir
-- **Religions** [Abadar](compendium/setting/deities/abadar.md), [Cayden Cailean](compendium/setting/deities/cayden-cailean.md), [Desna](compendium/setting/deities/desna.md), [Gorum](compendium/setting/deities/gorum.md), [Iomedae](compendium/setting/deities/iomedae.md), [Lamashtu](compendium/setting/deities/lamashtu.md)
-- **Resources** Alcohol/Drugs, Armor/Weapons, Cheese, Grain/Fruit/Vegetables, Jewelry/Gems, Livestock/Hides, Mercenaries, Skymetal, Technology, Textiles
+- **Nations.** Brevoy, Mendev, Numeria, Razmiran, River Kingdoms, Sarkoris Scar
+- **Peoples.** Dwarven, Kellid, Taldan
+- **Languages.** Abyssal, Common, Draconic, Hallit, Skald, Varisian
+- **Factions.** Firebrands, Pathfinder Society, Razmir
+- **Religions.** [Abadar](compendium/setting/deities/abadar.md), [Cayden Cailean](compendium/setting/deities/cayden-cailean.md), [Desna](compendium/setting/deities/desna.md), [Gorum](compendium/setting/deities/gorum.md), [Iomedae](compendium/setting/deities/iomedae.md), [Lamashtu](compendium/setting/deities/lamashtu.md)
+- **Resources.** Alcohol/Drugs, Armor/Weapons, Cheese, Grain/Fruit/Vegetables, Jewelry/Gems, Livestock/Hides, Mercenaries, Skymetal, Technology, Textiles
 
 > [!pf2-sidebar] TIMELINE
 > See page 26 of Lost Omens: World Guide

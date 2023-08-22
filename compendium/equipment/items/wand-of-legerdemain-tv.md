@@ -39,6 +39,7 @@ You can Sustain this Activation for up to 1 minute. Since you need to keep perfo
 ```
 
 ---
+
 ### Variants
 
 #### 1st-level spell *Item 4*

@@ -14,5 +14,5 @@ Your connection with elemental iron grants you a natural field of weak magnetic 
 
 **Special.** If you chose the gildedsoul lineage, you can replace one of the above spells with enthrall.
 
-*Source: RoE p. 53*  
+*Source: Rage of Elements p. 53*  
 %% #compendium/src/pf2e/roe #trait/talos %%

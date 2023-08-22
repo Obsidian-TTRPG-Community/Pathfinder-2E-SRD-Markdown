@@ -22,6 +22,7 @@ In addition, your [doomed](rules/conditions.md#Doomed) value decreases by 1 (min
 You can reduce the [doomed](rules/conditions.md#Doomed) condition with brewer's regret only once per day, and after you do, you can't reduce the [doomed](rules/conditions.md#Doomed) condition from the [restoration](compendium/spells/restoration.md) spell that same day (or vice versa).
 
 ---
+
 ### Variants
 
 #### brewer's regret *Item 9*

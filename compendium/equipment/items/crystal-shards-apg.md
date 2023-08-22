@@ -22,6 +22,7 @@ This flask holds a pressurized red-brown gas flecked with bits of sublimated cry
 Surfaces in the splash area grow brittle, gleaming red crystals that crumble to dust after 1 minute. The crystals on level surfaces are caltrops (Core Rulebook 287). The crystals on vertical surfaces can be used briefly as handholds, granting the listed item bonus to the next [Athletics](compendium/skills.md#Athletics) check to [Climb](rules/actions/climb.md) each space. The crystals in each space crumble after the creature leaves, whether Climbing or moving through the caltrops.
 
 ---
+
 ### Variants
 
 #### moderate *Item 4*

@@ -21,6 +21,7 @@ aliases: ["Dread"]
 Eerie symbols cover your armor, inspiring terror in your foes. [Frightened](rules/conditions.md#Frightened) enemies within 30 feet that can see you must attempt a DC 20 Will save at the end of their turn; on a failure, the value of their [frightened](rules/conditions.md#Frightened) condition doesn't decrease below 1 that turn.
 
 ---
+
 ### Variants
 
 #### lesser dread *Item 6*

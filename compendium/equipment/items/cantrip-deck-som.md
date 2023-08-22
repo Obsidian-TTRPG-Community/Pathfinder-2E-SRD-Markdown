@@ -25,6 +25,7 @@ You envision your desired cantrip, causing its card to rise to the top of the de
 ```
 
 ---
+
 ### Variants
 
 #### 5-pack *Item 1*

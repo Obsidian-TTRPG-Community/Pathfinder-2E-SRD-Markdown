@@ -22,6 +22,7 @@ Your limbs become extremely limber, letting you stretch and twist to extreme deg
 Drawback You take a –1 penalty to [Athletics](compendium/skills.md#Athletics) checks, [Stealth](compendium/skills.md#Stealth) checks, [Thievery](compendium/skills.md#Thievery) checks, and attack rolls, and a –1 penalty per damage die to all weapon and unarmed attack damage.
 
 ---
+
 ### Variants
 
 #### lesser *Item 1*

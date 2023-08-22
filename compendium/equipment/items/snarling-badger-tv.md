@@ -20,6 +20,7 @@ aliases: ["Snarling Badger"]
 This tarnished steel pendant is inlaid with the face of an enraged badger. When you Activate the talisman, it casts heroism on you. If you lose the [wounded](rules/conditions.md#Wounded) condition, the heroism ends immediately.
 
 ---
+
 ### Variants
 
 #### lesser snarling badger *Item 6*

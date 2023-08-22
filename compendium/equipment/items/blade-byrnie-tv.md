@@ -26,6 +26,7 @@ Upgrading the runes on the blade byrnie makes the daggers pulled from it more po
 ```
 
 ---
+
 ### Variants
 
 #### blade byrnie *Item 7*

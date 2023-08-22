@@ -20,6 +20,7 @@ This grants the wearer a +1 item bonus to saving throws.
 You can upgrade the resilient rune already etched on a suit of armor to a stronger version, increasing the values of the existing rune to those of the new rune. You must have the formula of the stronger rune to do so, and the Price of the upgrade is the difference between the two runes' Prices.
 
 ---
+
 ### Variants
 
 #### resilient *Item 8*

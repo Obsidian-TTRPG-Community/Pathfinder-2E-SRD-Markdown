@@ -28,6 +28,7 @@ You plunge your weapon into darkness to return the light. Attempt a counteract c
 ```
 
 ---
+
 ### Variants
 
 #### brilliant *Item 12*

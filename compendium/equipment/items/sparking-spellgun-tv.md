@@ -25,6 +25,7 @@ A broad wooden tube with a handle, a sparking spellgun radiates warmth. You Acti
 > - **Success** The target takes full damage, full [persistent damage](rules/conditions.md#Persistent%20Damage), and is [dazzled](rules/conditions.md#Dazzled) while the [persistent damage](rules/conditions.md#Persistent%20Damage) lasts.
 
 ---
+
 ### Variants
 
 #### lesser *Item 5*

@@ -27,6 +27,7 @@ Regardless of the dragon type, the breath weapon deals `4d6` damage, and each cr
 After you use the breath weapon, you can't do so again for `1d4` rounds.
 
 ---
+
 ### Variants
 
 #### young *Item 7*

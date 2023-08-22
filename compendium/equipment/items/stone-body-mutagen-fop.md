@@ -25,6 +25,7 @@ Benefit You gain resistance to physical damage (except bludgeoning) equal to the
 Drawback Your Speeds are reduced by 10 feet (minimum 5 feet) and you take a –2 penalty to Reflex saves.
 
 ---
+
 ### Variants
 
 #### lesser *Item 5*

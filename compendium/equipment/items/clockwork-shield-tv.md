@@ -24,6 +24,7 @@ title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Action
 ```
 
 ---
+
 ### Variants
 
 #### clockwork shield *Item 11*

@@ -25,6 +25,7 @@ Benefit Choose one melee weapon you're holding in one or both hands. You gain th
 Drawback You can't voluntarily remove the weapon unless you succeed at an [Athletics](compendium/skills.md#Athletics) check at the listed DC, which ends the war blood mutagen's effects; this check takes a single action. If you perform an action with the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") trait, you must succeed at a DC 5 flat check or the action is lost.
 
 ---
+
 ### Variants
 
 #### lesser *Item 1*

@@ -26,6 +26,7 @@ title: **Activate**  [Cast a Spell](rules/actions/cast-a-spell.md)
 ```
 
 ---
+
 ### Variants
 
 #### 7th level spell *Item 16*

@@ -18,6 +18,7 @@ aliases: ["Dragon's Blood Pudding"]
 While some unscrupulous chefs claim that this savory pudding is made with real dragon's blood, its crimson color and acrid smell actually come from bloody mandrake paste, ginger root, and distilled terrap sap. This potent combination singes the nostrils and throat, removing effects that make you sluggish. When you consume the pudding, it attempts a counteract check with the listed counteract modifier to remove the [slowed](rules/conditions.md#Slowed) condition from a single source, using the source of that condition to determine the counteract level and DC.
 
 ---
+
 ### Variants
 
 #### lesser *Item 2*

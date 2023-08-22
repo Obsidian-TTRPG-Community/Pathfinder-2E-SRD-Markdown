@@ -13,5 +13,5 @@ aliases: ["Through the Gate"]
 
 You gain a 1st- or 2nd-level kineticist feat of your choice. Your options include impulse feats for your kinetic element, as normal for a kineticist.
 
-*Source: RoE p. 57*  
+*Source: Rage of Elements p. 57*  
 %% #compendium/src/pf2e/roe #trait/archetype %%

@@ -14,5 +14,5 @@ You control the size of your kinetic aura. You can make your kinetic aura's eman
 
 Increase the maximum size you can choose by 5 feet at 15th and 20th levels.
 
-*Source: RoE p. 23*  
+*Source: Rage of Elements p. 23*  
 %% #compendium/src/pf2e/roe #trait/kineticist %%

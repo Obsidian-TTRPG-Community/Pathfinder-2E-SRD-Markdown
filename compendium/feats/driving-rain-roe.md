@@ -17,7 +17,5 @@ aliases: ["Driving Rain"]
 
 Heavy drops of rain batter down, hitting like sling stones and impeding vision. Each creature in a 15-foot burst within 120 feet takes `3d8` bludgeoning damage with a basic Reflex save against your class DC. Until the start of your next turn, all creatures are [concealed](rules/conditions.md#Concealed) while in the area, and all creatures outside the area are [concealed](rules/conditions.md#Concealed) to creatures within it.
 
-Level (+2) The damage increases by `1d8`.
-
-*Source: RoE p. 32*  
+*Source: Rage of Elements p. 32*  
 %% #compendium/src/pf2e/roe #trait/impulse #trait/kineticist #trait/overflow #trait/primal #trait/water %%

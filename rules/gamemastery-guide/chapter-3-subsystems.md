@@ -247,10 +247,10 @@ For instance, for a 3rd-level challenge, you might give an NPC a +12 Will modifi
 > 
 > Mr. Mollwether used to visit the theater often as a small child, and performing one of his favorite old songs or plays brings tears to his eyes and reduces the [Performance](compendium/skills.md#Performance) DC by 2.
 > 
-> - **Background** Mollwether was raised by wealthy parents who loved the arts and took him to the theater often. A scandal left the family broke, and Danphy clawed his way back up to a decent living. Becoming something of a slumlord, he owns several properties now and still feels he must exploit others to survive.
-> - **Appearance** An elderly man in cheap dress clothes, Mr. Mollwether looks like he's never felt a moment of love for anyone in his whole life.
-> - **Personality** Impatient, crotchety, skeptical
-> - **Penalty** Antagonizing Mr. Mollwether by "sermonizing" or "wasting his time" causes him to cut the meeting short, reducing it to 2 rounds instead of 3.
+> - **Background.** Mollwether was raised by wealthy parents who loved the arts and took him to the theater often. A scandal left the family broke, and Danphy clawed his way back up to a decent living. Becoming something of a slumlord, he owns several properties now and still feels he must exploit others to survive.
+> - **Appearance.** An elderly man in cheap dress clothes, Mr. Mollwether looks like he's never felt a moment of love for anyone in his whole life.
+> - **Personality.** Impatient, crotchety, skeptical
+> - **Penalty.** Antagonizing Mr. Mollwether by "sermonizing" or "wasting his time" causes him to cut the meeting short, reducing it to 2 rounds instead of 3.
 > ```
 
 ### Running an Influence Encounter

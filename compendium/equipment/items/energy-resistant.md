@@ -20,6 +20,7 @@ The crafter chooses the damage type when creating the rune.
 Multiple energy-resistant runes can be etched onto a suit of armor; rather than using only the highest-level effect, each must provide resistance to a different damage type. For instance, a +2 acid-resistant greater fire-resistant breastplate would give you acid resistance 5 and fire resistance 10.
 
 ---
+
 ### Variants
 
 #### energy-resistant *Item 8*

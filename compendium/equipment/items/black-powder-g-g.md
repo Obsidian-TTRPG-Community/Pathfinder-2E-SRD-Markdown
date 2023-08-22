@@ -20,6 +20,7 @@ Black powder is a volatile and explosive alchemical substance commonly used in t
 Black powder becomes inert and useless when wet and must be kept in a sealed, water-tight container.
 
 ---
+
 ### Variants
 
 #### dose or round *Item 0*

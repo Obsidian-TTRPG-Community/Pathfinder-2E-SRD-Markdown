@@ -25,6 +25,7 @@ The wayfinder casts its associated spell.
 ```
 
 ---
+
 ### Variants
 
 #### air *Item 9*

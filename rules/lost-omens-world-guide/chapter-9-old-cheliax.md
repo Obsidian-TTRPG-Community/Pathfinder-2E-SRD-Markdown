@@ -8,12 +8,12 @@ aliases: ["chapter-9-old-cheliax"]
 # Chapter 9: Old Cheliax
 <sup>LOWG p. 96</sup>
 
-- **Nations** Cheliax, Isger, Nidal, Ravounel
-- **Peoples** Gnome, Goblin, Hafling, Nidalese, Taldan, Varisian
-- **Languages** Common, Gnomish, Goblin, Halfling, Infernal, Shadowtongue, Varisian
-- **Factions** Bellflower Network, Firebrands, Hellknights
-- **Religions** [Asmodeus](compendium/setting/deities/asmodeus.md), [Desna](compendium/setting/deities/desna.md), [Erastil](compendium/setting/deities/erastil.md), [Norgorber](compendium/setting/deities/norgorber.md), [Shelyn](compendium/setting/deities/shelyn.md), [Zon-Kuthon](compendium/setting/deities/zon-kuthon.md)
-- **Resources** Alcohol/Drugs, Armor/Weapons, Jewelry/Gems, Livestock/Hides, Lumber, Luxury Goods, Mercenaries, Ores, Seafood, Ships, Spices/Salt, Textiles
+- **Nations.** Cheliax, Isger, Nidal, Ravounel
+- **Peoples.** Gnome, Goblin, Hafling, Nidalese, Taldan, Varisian
+- **Languages.** Common, Gnomish, Goblin, Halfling, Infernal, Shadowtongue, Varisian
+- **Factions.** Bellflower Network, Firebrands, Hellknights
+- **Religions.** [Asmodeus](compendium/setting/deities/asmodeus.md), [Desna](compendium/setting/deities/desna.md), [Erastil](compendium/setting/deities/erastil.md), [Norgorber](compendium/setting/deities/norgorber.md), [Shelyn](compendium/setting/deities/shelyn.md), [Zon-Kuthon](compendium/setting/deities/zon-kuthon.md)
+- **Resources.** Alcohol/Drugs, Armor/Weapons, Jewelry/Gems, Livestock/Hides, Lumber, Luxury Goods, Mercenaries, Ores, Seafood, Ships, Spices/Salt, Textiles
 
 > [!pf2-sidebar] TIMELINE
 > See page 98 of Lost Omens: World Guide

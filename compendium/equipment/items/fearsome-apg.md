@@ -19,6 +19,7 @@ aliases: ["Fearsome"]
 When you critically hit with this weapon, the target becomes [frightened](rules/conditions.md#Frightened).
 
 ---
+
 ### Variants
 
 #### fearsome *Item 5*

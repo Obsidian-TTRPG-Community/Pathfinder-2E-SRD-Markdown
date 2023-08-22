@@ -18,6 +18,7 @@ aliases: ["Rhinoceros Mask"]
 Covered with thick armor and bearing a thicker horn, this face mask grants you increased momentum. If you [Stride](rules/actions/stride.md) at least 10 feet, your next melee [Strike](rules/actions/strike.md) before the end of your turn ignores the Hardness of objects with a Hardness of 5 or less. If the object has more than Hardness 5, the mask grants no benefit.
 
 ---
+
 ### Variants
 
 #### rhinoceros mask *Item 4*

@@ -19,7 +19,5 @@ Eerily beautiful elemental water beings race around you, eager to protect and he
 
 If any creature affected is critically hit or critically fails at a saving throw against an attack, effect from an enemy, or hazard and remains above 0 HP, the guardians reach out to heal that creature. The creature regains `4d8+8` Hit Points, and the impulse ends. If the creature is in water, the healing dice are d10s instead of d8s.
 
-Level (+3) The healing increases by `1d8+4`.
-
-*Source: RoE p. 33*  
+*Source: Rage of Elements p. 33*  
 %% #compendium/src/pf2e/roe #trait/impulse #trait/kineticist #trait/primal #trait/stance #trait/water %%

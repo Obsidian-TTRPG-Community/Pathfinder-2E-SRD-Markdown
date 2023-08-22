@@ -19,6 +19,7 @@ aliases: ["Oozepick"]
 You can pour this silver ooze into a lock or similar mechanism to create a set of malleable lockpicks and tools that conform to internal mechanisms. The ooze is treated as a set of thieves' tools that last for 1 hour and provide a +2 item bonus to [Thievery](compendium/skills.md#Thievery) checks to Pick Lock or Disable Device against the mechanism into which they were first poured.
 
 ---
+
 ### Variants
 
 #### oozepick *Item 4*

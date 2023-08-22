@@ -31,6 +31,7 @@ Benefit You gain an item bonus to melee attack rolls and an additional effect de
 Reflex saves.
 
 ---
+
 ### Variants
 
 #### lesser *Item 4*

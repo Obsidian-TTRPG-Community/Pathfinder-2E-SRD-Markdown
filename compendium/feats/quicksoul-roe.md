@@ -27,5 +27,5 @@ title: **Toxic Touch** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Act
 %%
 ```
 
-*Source: RoE p. 52*  
+*Source: Rage of Elements p. 52*  
 %% #compendium/src/pf2e/roe #trait/lineage #trait/talos %%

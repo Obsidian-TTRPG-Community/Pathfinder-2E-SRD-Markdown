@@ -21,7 +21,5 @@ A vortex of sand and dust surrounds you. Each creature inside your kinetic aura 
 
 Your air impulses carry sands that cut at great speed. When you use a damaging air impulse that affects at least one creature in your kinetic aura, that impulse deals 1 additional slashing damage, or 2 if the impulse has a single target.
 
-Level (+2) The extra damage increases by 1, or 2 if the impulse has a single target.
-
-*Source: RoE p. 36*  
+*Source: Rage of Elements p. 36*  
 %% #compendium/src/pf2e/roe #trait/air #trait/composite #trait/earth #trait/impulse #trait/kineticist #trait/primal #trait/stance %%

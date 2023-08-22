@@ -22,5 +22,5 @@ The moon has always been connected to the tides, and now you can grasp that conn
 - Modulate With a wave of your hand, you create or smooth ripples, making all bodies of water in the area either calm or turbulent. Making it calm turns difficult terrain or greater difficult terrain to calm water, and making it turbulent turns calm water into difficult terrain.
 - Slow By exercising your rightful control over all water, each creature with the [water](rules/traits/water.md "Water Energy & Element Trait") trait in the area must succeed at a Fortitude save against your class DC or be [slowed](rules/conditions.md#Slowed) (or [slowed](rules/conditions.md#Slowed) on a critical failure). Flood and control are permanent and non-magical. Modulate and slow last until the end of your next turn, but you can Sustain the impulse to continue them.
 
-*Source: RoE p. 33*  
+*Source: Rage of Elements p. 33*  
 %% #compendium/src/pf2e/roe #trait/impulse #trait/kineticist #trait/overflow #trait/primal #trait/water %%

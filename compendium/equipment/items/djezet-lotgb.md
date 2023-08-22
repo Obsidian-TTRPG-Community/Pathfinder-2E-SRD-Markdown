@@ -16,20 +16,54 @@ This rust red metal is liquid at room temperature, making it challenging for all
 
 Djezet is also extremely reactive to magic, even in its solid, workable alloyed form. It glows when targeted by magic, and objects crafted with djezet alloys glow with scarlet striations, which lead some smiths to nickname it "tiger iron." When targeted by spells, objects crafted from djezet alloys exhibit these glowing red markings that last for 1 round or the duration of the spell, whichever is longer. A djezet mass contains enough djezet to refine into up to two djezet doses (page 98).
 
-| Djezet Alloy Items | Hardness | HP | BT |
-|--------------------|----------|----|----|
-| **Thin Items** |  |  |  |
-| multiRow |  |
-| multiRow |  |
-| **Items** |  |  |  |
-| multiRow |  |
-| multiRow |  |
-| **Structures** |  |  |  |
-| multiRow |  |
-| multiRow |  |
+<table>
+<tr>
+  <th>Djezet Alloy Items</th>
+  <th>Hardness</th>
+  <th>HP</th>
+  <th>BT</th>
+</tr>
+<tr>
+  <td>**Thin Items**</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Standard-grade<br />High-grade</td>
+  <td>5<br />8</td>
+  <td>20<br />32</td>
+  <td>10<br />16</td>
+</tr>
+<tr>
+  <td>**Items**</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Standard-grade<br />High-grade</td>
+  <td>9<br />12</td>
+  <td>36<br />48</td>
+  <td>18<br />24</td>
+</tr>
+<tr>
+  <td>**Structures**</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Standard-grade<br />High-grade</td>
+  <td>18<br />24</td>
+  <td>72<br />96</td>
+  <td>36<br />48</td>
+</tr>
+</table>
 
 
 ---
+
 ### Variants
 
 #### djezet mass *Item 0*

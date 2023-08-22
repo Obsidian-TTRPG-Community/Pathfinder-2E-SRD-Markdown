@@ -14,20 +14,54 @@ aliases: ["Sovereign Steel"]
 
 Created by Black Sovereign Kevoth-Kul, this unique alloy of cold iron and the skymetal noqual can provide protection from magical assault. The process of cold-forging the two materials together is quite complicated and precise. Characters in search of sovereign steel weapons and armor will almost assuredly have to travel to Starfall to procure gear made from this rare alloy. While some believe it possible to craft shields of sovereign steel as well, in one of his fits, Kevoth-Kul yelled that he had no use for them and banned anyone from making such a thing. So far, his smiths have been too afraid to confirm whether or not it was a joke. All sovereign steel items (including weapon and armor below) have a +4 circumstance bonus on saves against magic that the item makes, and grant their bonus to saves the owner makes specifically to protect the item from magic (such as against the [rusting grasp](compendium/spells/rusting-grasp-apg.md) spell).
 
-| Sovereign Steel Items | Hardness | HP | BT |
-|-----------------------|----------|----|----|
-| **Thin Items** |  |  |  |
-| multiRow |  |
-| multiRow |  |
-| **Items** |  |  |  |
-| multiRow |  |
-| multiRow |  |
-| **Structures** |  |  |  |
-| multiRow |  |
-| multiRow |  |
+<table>
+<tr>
+  <th>Sovereign Steel Items</th>
+  <th>Hardness</th>
+  <th>HP</th>
+  <th>BT</th>
+</tr>
+<tr>
+  <td>**Thin Items**</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Standard-grade<br />High-grade</td>
+  <td>7<br />10</td>
+  <td>28<br />40</td>
+  <td>14<br />20</td>
+</tr>
+<tr>
+  <td>**Items**</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Standard-grade<br />High-grade</td>
+  <td>11<br />14</td>
+  <td>44<br />56</td>
+  <td>22<br />28</td>
+</tr>
+<tr>
+  <td>**Structures**</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Standard-grade<br />High-grade</td>
+  <td>22<br />28</td>
+  <td>88<br />112</td>
+  <td>44<br />56</td>
+</tr>
+</table>
 
 
 ---
+
 ### Variants
 
 #### sovereign steel chunk *Item 0*

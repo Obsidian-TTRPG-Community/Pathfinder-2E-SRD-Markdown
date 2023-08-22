@@ -18,12 +18,12 @@ Most spellshots continue to come from Arcadia, as the stories describing the rel
 
 You've learned the intricacies of magic and technology, blending the two together with deadly results. You combine a knowledge of arcane theories with a strong connection to your chosen weapon that allows you to manifest unique effects, though your knowledge doesn't extend as far as actual spellcasting. You can imbue energy into your weapon and conjure bullets from thin air. As you progress, you eventually learn to phase bullets through walls or even to teleport yourself along the path of your bullets. You must select [Spellshot Dedication](compendium/feats/spellshot-dedication-g-g.md) as your 2nd-level class feat.
 
-- **Prerequisites** You must be a gunslinger.
-- **Spellshot Adjustments** Instead of choosing a way from the options listed in the gunslinger class, you have the way of the spellshot. It has the following way skill, slinger's reload, and deeds. You gain these abilities at the same levels as normal for the class. You use Intelligence for your class DC.
+- **Prerequisites.** You must be a gunslinger.
+- **Spellshot Adjustments.** Instead of choosing a way from the options listed in the gunslinger class, you have the way of the spellshot. It has the following way skill, slinger's reload, and deeds. You gain these abilities at the same levels as normal for the class. You use Intelligence for your class DC.
 
-- **Way Skill** [Arcana](compendium/skills.md#Arcana)
-- **Slinger's Reload** [Thoughtful Reload](rules/actions/thoughtful-reload-g-g.md)
-- **Deeds** _Initial_ [Energy Shot](rules/actions/energy-shot-g-g.md); _Advanced_ [Recall Ammunition](rules/actions/recall-ammunition-g-g.md); _Greater_ [Dispelling Bullet](rules/actions/dispelling-bullet-g-g.md)
+- **Way Skill.** [Arcana](compendium/skills.md#Arcana)
+- **Slinger's Reload.** [Thoughtful Reload](rules/actions/thoughtful-reload-g-g.md)
+- **Deeds.** _Initial_ [Energy Shot](rules/actions/energy-shot-g-g.md); _Advanced_ [Recall Ammunition](rules/actions/recall-ammunition-g-g.md); _Greater_ [Dispelling Bullet](rules/actions/dispelling-bullet-g-g.md)
 
 ### Slinger's Reload
 <sup>G&G p. 140</sup>

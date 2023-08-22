@@ -18,5 +18,5 @@ aliases: ["Deflecting Wave"]
 
 A cascade of water blunts or disperses the incoming attack. You gain resistance to damage from the triggering effect equal to your level if it's bludgeoning or slashing, or double your level if it's acid or fire damage. If the effect deals more than one applicable type of damage, apply the highest resistance, but apply it only once.
 
-*Source: RoE p. 32*  
+*Source: Rage of Elements p. 32*  
 %% #compendium/src/pf2e/roe #trait/impulse #trait/kineticist #trait/primal #trait/water %%

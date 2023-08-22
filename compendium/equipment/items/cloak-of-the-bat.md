@@ -25,6 +25,7 @@ title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actio
 ```
 
 ---
+
 ### Variants
 
 #### cloak of the bat *Item 10*

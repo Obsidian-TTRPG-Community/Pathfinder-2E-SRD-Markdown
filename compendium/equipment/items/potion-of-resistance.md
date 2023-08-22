@@ -19,6 +19,7 @@ aliases: ["Potion of Resistance"]
 Drinking this thick, fortifying potion grants resistance against a single damage type for 1 hour. Each potion of resistance is created to defend against acid, cold, electricity, fire, or sonic damage (and is called a lesser potion of fire resistance or the like).
 
 ---
+
 ### Variants
 
 #### lesser *Item 6*

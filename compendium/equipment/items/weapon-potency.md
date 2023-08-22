@@ -18,6 +18,7 @@ Magical enhancements make this weapon strike true. Attack rolls with this weapon
 You can upgrade the weapon potency rune already etched on a weapon to a stronger version, increasing the values of the existing rune to those of the new rune. You must have the formula of the stronger rune to do so, and the Price of the upgrade is the difference between the two runes' Prices.
 
 ---
+
 ### Variants
 
 #### +1 weapon potency *Item 2*

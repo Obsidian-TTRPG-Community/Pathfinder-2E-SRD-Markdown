@@ -25,6 +25,7 @@ The disguise doesn't change your traits or statistics, nor does it give you any 
 The effects of this potion use the same rules as the [Impersonate](rules/actions/impersonate.md) activity of [Deception](compendium/skills.md#Deception). Onlookers always assume you're the chosen type of creature unless they're actively Seeking. You gain a +4 status bonus to your [Deception](compendium/skills.md#Deception) DC against such [Perception](compendium/skills.md#Perception) checks and add your level even if untrained.
 
 ---
+
 ### Variants
 
 #### lesser *Item 5*

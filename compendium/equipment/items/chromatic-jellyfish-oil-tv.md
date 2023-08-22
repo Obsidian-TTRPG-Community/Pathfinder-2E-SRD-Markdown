@@ -18,6 +18,7 @@ aliases: ["Chromatic Jellyfish Oil"]
 Made from several oils of differing hues extracted from jellyfish and rare plants, the layers of chromatic jellyfish oil stack to form a rainbow within their vial. For 10 minutes after consuming chromatic jellyfish oil, you gain resistance to precision damage and extra damage from critical hits according to the jellyfish oil's type. While the effect lasts, you ignore difficult terrain caused by moving through tight spaces that aren't tight enough to force you to [Squeeze](rules/actions/squeeze.md), and you can move 5 feet per round when you successfully [Squeeze](rules/actions/squeeze.md) (or 10 feet per round on a critical success). You can also [Crawl](rules/actions/crawl.md) at half your Speed.
 
 ---
+
 ### Variants
 
 #### lesser *Item 9*

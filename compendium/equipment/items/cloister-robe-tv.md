@@ -20,6 +20,7 @@ The most devoted, cloistered clerics wear a cloister robe. Decorations symbolic 
 The robe is +1 resilient explorer's clothing and grants a +1 item bonus to [Religion](compendium/skills.md#Religion) checks. The robe doesn't grant any benefits to a wearer who doesn't worship the deity tied to the robe. In addition, when you cast a domain spell from one of the deity's domains, you gain resistance to damage from divine spells until the end of your next turn. This resistance is equal to half the robe's level.
 
 ---
+
 ### Variants
 
 #### lesser cloister robe *Item 9*

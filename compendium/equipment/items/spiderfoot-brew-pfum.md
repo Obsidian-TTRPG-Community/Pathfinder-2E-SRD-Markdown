@@ -20,6 +20,7 @@ aliases: ["Spiderfoot Brew"]
 This gelatinous, sticky fluid is made from the silk glands of giant spiders. When you drink a spiderfoot brew, tiny clinging hairs grow on your hands and feet, granting you a climb Speed and an item bonus to [Athletics](compendium/skills.md#Athletics) checks made to climb for the listed duration.
 
 ---
+
 ### Variants
 
 #### lesser *Item 3*

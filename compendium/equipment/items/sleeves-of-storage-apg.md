@@ -20,6 +20,7 @@ This loose robe has wide, voluminous sleeves that each contain an extradimension
 If a sleeve is completely empty, you can place your own familiar into that extradimensional space. It can survive comfortably in your sleeve for up to 1 hour, after which it begins to suffocate. While in your sleeve, it can't be affected or targeted by [any](rules/traits/any-b1.md "Any Alignment Trait") effects, but you don't benefit from any master abilities. A familiar can exit the sleeve of its own volition with a single action that has the [manipulate](rules/traits/manipulate.md "Manipulate General Trait") and [move](rules/traits/move.md "Move Combat Trait") traits. You can't place any other creature into your sleeves, nor can you place your familiar in a sleeve if it's larger than Tiny. If your familiar is in your sleeve, you can't place any items in the sleeve.
 
 ---
+
 ### Variants
 
 #### sleeves of storage *Item 4*

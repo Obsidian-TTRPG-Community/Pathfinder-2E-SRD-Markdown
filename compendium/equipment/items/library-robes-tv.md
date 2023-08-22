@@ -21,6 +21,7 @@ During your daily preparations, choose one spell you know of 5th level or lower.
 You must provide the minimum amount of materials to [Craft](rules/actions/craft.md) one scroll of that spell (typically half the Price of a scroll of that level plus any extra cost required for the spell). You don't need to be trained in [Crafting](compendium/skills.md#Crafting), nor do you need the Magical [Crafting](compendium/skills.md#Crafting) feat. Using this ability erases any scroll already inscribed on the robe.
 
 ---
+
 ### Variants
 
 #### library robes *Item 9*

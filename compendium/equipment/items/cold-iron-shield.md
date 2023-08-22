@@ -13,6 +13,7 @@ aliases: ["Cold Iron Shield"]
 Cold iron shields don't typically have an additional effect, though when used for a shield bash, they are cold iron weapons.
 
 ---
+
 ### Variants
 
 #### low-grade cold iron buckler *Item 2*

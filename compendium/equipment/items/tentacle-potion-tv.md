@@ -23,6 +23,7 @@ Your clothing doesn't need to accommodate this limb of ghostly matter, which can
 If you have the Flexible Tail or Skillful Tail feats, the Tailed Goblin heritage, or a similar feature the GM believes would benefit, this potion can instead fortify your tail. A fortified tail benefits from any tentacle potion as if the potion were the next better type.
 
 ---
+
 ### Variants
 
 #### lesser *Item 6*

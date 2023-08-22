@@ -16,6 +16,7 @@ These projectiles are the ammunition for bows. The shaft of an arrow is made of 
 > Different weapons have different prices for ammunition. The prices listed are thus, only for reference in the weapon statblocks themselves.
 
 ---
+
 ### Variants
 
 #### 5-pack *Item 0*

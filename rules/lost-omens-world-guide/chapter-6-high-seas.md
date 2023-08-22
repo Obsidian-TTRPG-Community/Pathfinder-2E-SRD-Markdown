@@ -8,12 +8,12 @@ aliases: ["chapter-6-high-seas"]
 # Chapter 6: High Seas
 <sup>LOWG p. 60</sup>
 
-- **Nations** Hermea, Mediogalti Island, The Shackles, Mordant Spire
-- **Peoples** All
-- **Languages** Azlanti, Common, Elven, Hallit, Infernal, Mwangi, Skald
-- **Factions** Firebrands, Free Captains, Red Mantis
-- **Religions** [Achaekek](compendium/setting/deities/achaekek-logm.md), [Besmara](compendium/setting/deities/besmara-logm.md), [Calistria](compendium/setting/deities/calistria.md), [Cayden Cailean](compendium/setting/deities/cayden-cailean.md), [Gozreh](compendium/setting/deities/gozreh.md), [Norgorber](compendium/setting/deities/norgorber.md)
-- **Resources** Alcohol/Drugs, Luxury Goods, Magic Items, Mercenaries, Seafood, Ships, Spices/Salt
+- **Nations.** Hermea, Mediogalti Island, The Shackles, Mordant Spire
+- **Peoples.** All
+- **Languages.** Azlanti, Common, Elven, Hallit, Infernal, Mwangi, Skald
+- **Factions.** Firebrands, Free Captains, Red Mantis
+- **Religions.** [Achaekek](compendium/setting/deities/achaekek-logm.md), [Besmara](compendium/setting/deities/besmara-logm.md), [Calistria](compendium/setting/deities/calistria.md), [Cayden Cailean](compendium/setting/deities/cayden-cailean.md), [Gozreh](compendium/setting/deities/gozreh.md), [Norgorber](compendium/setting/deities/norgorber.md)
+- **Resources.** Alcohol/Drugs, Luxury Goods, Magic Items, Mercenaries, Seafood, Ships, Spices/Salt
 
 > [!pf2-sidebar] TIMELINE
 > See page 62 of Lost Omens: World Guide

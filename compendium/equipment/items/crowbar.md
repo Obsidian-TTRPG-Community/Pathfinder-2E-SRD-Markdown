@@ -15,6 +15,7 @@ aliases: ["Crowbar"]
 When [Forcing Open](rules/actions/force-open.md) an object that doesn't have an easy grip, a crowbar makes it easier to gain the necessary leverage. Without a crowbar, prying something open takes a –2 item penalty to the [Athletics](compendium/skills.md#Athletics) check to [Force Open](rules/actions/force-open.md).
 
 ---
+
 ### Variants
 
 #### Base *Item 0*

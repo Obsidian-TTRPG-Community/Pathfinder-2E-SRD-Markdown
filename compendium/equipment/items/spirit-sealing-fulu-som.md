@@ -20,6 +20,7 @@ aliases: ["Spirit-sealing Fulu"]
 This classic fulu seals the negative energy within an undead, freezing it in its tracks. Upon affixing, the target undead must attempt a Will save or be [paralyzed](rules/conditions.md#Paralyzed) for 1 round.
 
 ---
+
 ### Variants
 
 #### spirit-sealing fulu *Item 3*

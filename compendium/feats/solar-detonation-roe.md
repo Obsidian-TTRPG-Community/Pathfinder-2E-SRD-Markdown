@@ -25,7 +25,7 @@ Each creature that attempts a save becomes temporarily immune to being [dazzled]
 > - **Critical Success** The creature is unaffected.
 > - **Success** The creature takes half damage and is [dazzled](rules/conditions.md#Dazzled) until the start of your next turn.
 > - **Failure** The creature takes full damage and is [blinded](rules/conditions.md#Blinded) until the start of your next turn.
-> - **Critical Failure** The creature takes double damage and is [blinded](rules/conditions.md#Blinded) for 1 minute. Level (+2) Increase the fire damage by `1d6` and the vitality damage by `1d6`.
+> - **Critical Failure** The creature takes double damage and is [blinded](rules/conditions.md#Blinded) for 1 minute.
 
-*Source: RoE p. 29*  
+*Source: Rage of Elements p. 29*  
 %% #compendium/src/pf2e/roe #trait/fire #trait/impulse #trait/incapacitation #trait/kineticist #trait/overflow #trait/primal #trait/vitality %%

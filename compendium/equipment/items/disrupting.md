@@ -16,6 +16,7 @@ aliases: ["Disrupting"]
 A disrupting weapon pulses with positive energy, dealing an extra `1d6` positive damage to undead. On a critical hit, the undead is also [enfeebled](rules/conditions.md#Enfeebled) until the end of your next turn.
 
 ---
+
 ### Variants
 
 #### disrupting *Item 5*

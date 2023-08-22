@@ -26,6 +26,7 @@ The rope animates for 1 minute, moving 10 feet per round until it reaches the de
 ```
 
 ---
+
 ### Variants
 
 #### lesser rope of climbing *Item 3*

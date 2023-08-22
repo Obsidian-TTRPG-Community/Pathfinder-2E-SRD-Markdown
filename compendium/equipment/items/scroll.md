@@ -33,6 +33,7 @@ Any physical material components and costs are provided when a scroll is created
 > See the following for more details on the rules for Scrolls.
 
 ---
+
 ### Variants
 
 #### 1st-level spell *Item 1*

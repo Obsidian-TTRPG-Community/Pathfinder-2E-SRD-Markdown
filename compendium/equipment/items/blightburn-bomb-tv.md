@@ -24,6 +24,7 @@ Blightburn bombs have radioactive materials sealed inside flasks treated with le
 Blightburn bombs also expose the primary target to [blightburn sickness](compendium/gm/afflictions/blightburn-sickness-tv.md) at the listed Fortitude DC.
 
 ---
+
 ### Variants
 
 #### blightburn bomb *Item 15*

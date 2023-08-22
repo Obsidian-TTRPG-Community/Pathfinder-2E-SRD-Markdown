@@ -17,6 +17,7 @@ aliases: ["Frost"]
 This weapon is empowered with freezing ice. It deals an additional `1d6` cold damage on a successful [Strike](rules/actions/strike.md). On a critical hit, the target is also [slowed](rules/conditions.md#Slowed) until the end of your next turn unless it succeeds at a DC 24 Fortitude save.
 
 ---
+
 ### Variants
 
 #### frost *Item 8*

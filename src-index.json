@@ -9887,6 +9887,7 @@
     "trait|medium|b1",
     "trait|mental|crb",
     "trait|merfolk|b1",
+    "trait|metal|roe",
     "trait|metamagic|crb",
     "trait|metamorphic|gmg",
     "trait|metropolis|gmg",
@@ -10066,6 +10067,7 @@
     "trait|wight|b1",
     "trait|witch|apg",
     "trait|wizard|crb",
+    "trait|wood|roe",
     "trait|wraith|b1",
     "trait|xulgath|b1",
     "trait|zombie|b1"

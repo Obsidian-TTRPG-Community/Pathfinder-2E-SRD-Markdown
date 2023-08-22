@@ -19,6 +19,7 @@ aliases: ["Searing Suture"]
 Activating this black powder–infused alchemical bandage cauterizes wounds. You can apply a searing suture to yourself or an adjacent willing creature as you activate it. The target creature takes `1d6` fire damage and can immediately attempt a flat check to remove the [persistent bleed damage](rules/conditions.md#Persistent%20Damage)—the DC of this flat check depends on the type of searing suture applied. When applied against a bleed effect that is lower level than the searing suture, the flat check is automatically successful.
 
 ---
+
 ### Variants
 
 #### lesser *Item 1*

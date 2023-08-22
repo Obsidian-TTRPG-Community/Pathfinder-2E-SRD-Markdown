@@ -18,6 +18,7 @@ aliases: ["Addiction Suppressant"]
 When you use a dose of addiction suppressant, it suppresses the effects of that addiction for 1 day, as if you had taken an actual dose of the drug, but without any of the drug's effects, and it doesn't increase the addiction DC. You also gain an item bonus against the ongoing save against the drug's addiction depending on the type of addiction suppressant.
 
 ---
+
 ### Variants
 
 #### lesser *Item 1*

@@ -28,6 +28,7 @@ title: **Activate** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Action
 ```
 
 ---
+
 ### Variants
 
 #### 1st-level spell *Item 4*

@@ -24,6 +24,7 @@ You can instead hurl the stone at a creature in an attempt to bring that creatur
 Make a ranged [Strike](rules/actions/strike.md) against a creature using your highest proficiency with a ranged weapon. The swapping stone has a range increment of 15 feet. On a hit, the stone shatters against the creature, casting dimension door on the creature and causing it to instantly teleport to a space adjacent to you. An unwilling creature can resist this teleportation with a successful DC 28 Will save.
 
 ---
+
 ### Variants
 
 #### lesser swapping stone *Item 11*

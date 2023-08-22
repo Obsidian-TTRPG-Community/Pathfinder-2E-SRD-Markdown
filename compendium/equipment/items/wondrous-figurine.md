@@ -25,6 +25,7 @@ If the figurine is slain while in animal form, it reverts to its statue shape an
 ```
 
 ---
+
 ### Variants
 
 #### golden lions *Item 10*

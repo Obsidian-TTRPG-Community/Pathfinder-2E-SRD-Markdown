@@ -15,6 +15,7 @@ aliases: ["Orichalcum Armor"]
 Orichalcum armor can be etched with four magic property runes instead of three due to the magical empowerment of orichalcum. If you are wearing armor made of orichalcum, the armor grants you insights into the future, granting you a +1 circumstance bonus to initiative rolls.
 
 ---
+
 ### Variants
 
 #### high-grade orichalcum armor *Item 20*

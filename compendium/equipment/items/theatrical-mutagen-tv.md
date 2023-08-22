@@ -24,6 +24,7 @@ Benefit You gain the listed item bonus to [Acrobatics](compendium/skills.md#Acro
 Drawback You take a –1 penalty to [Perception](compendium/skills.md#Perception) checks and Will saves. After any round where you don't spend at least 1 action to [Interact](rules/actions/interact.md) with an object, [Perform](rules/actions/perform.md), [Step](rules/actions/step.md), or [Stride](rules/actions/stride.md), you're [flat-footed](rules/conditions.md#Flat-footed) until the start of your next turn.
 
 ---
+
 ### Variants
 
 #### lesser *Item 1*

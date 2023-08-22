@@ -18,6 +18,7 @@ aliases: ["Smoke Fan"]
 When you [Activate](rules/actions/activate-an-item.md) a smoke fan, it creates a cloud of colored smoke. The smoke fills a 5-foot radius. The creator chooses the smoke's color when creating the smoke fan. Creatures within the smoke's area are [concealed](rules/conditions.md#Concealed), and all other creatures are [concealed](rules/conditions.md#Concealed) to them. The smoke lasts for 1 minute or until dissipated by a strong wind.
 
 ---
+
 ### Variants
 
 #### smoke fan *Item 2*

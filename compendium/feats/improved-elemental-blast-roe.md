@@ -15,5 +15,5 @@ The power of your elemental blast improves. The damage of your elemental blast i
 
 **Special.** You can take Improved [Elemental Blast](rules/actions/elemental-blast-roe.md) a second time at 14th level to increase your [Elemental Blast](rules/actions/elemental-blast-roe.md) to three damage die, and a third time at 18th level to increase your [Elemental Blast](rules/actions/elemental-blast-roe.md) to four damage die.
 
-*Source: RoE p. 57*  
+*Source: Rage of Elements p. 57*  
 %% #compendium/src/pf2e/roe #trait/archetype %%

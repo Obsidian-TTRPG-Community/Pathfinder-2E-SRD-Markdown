@@ -20,5 +20,5 @@ Compact layers of air diffract and bend light around your body, making you appea
 
 This impulse weakens if you use it too frequently. Using it again within 10 minutes makes you [concealed](rules/conditions.md#Concealed) instead of [invisible](rules/conditions.md#Invisible).
 
-*Source: RoE p. 24*  
+*Source: Rage of Elements p. 24*  
 %% #compendium/src/pf2e/roe #trait/air #trait/illusion #trait/impulse #trait/kineticist #trait/overflow #trait/primal %%

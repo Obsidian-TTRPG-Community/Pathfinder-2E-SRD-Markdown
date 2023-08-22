@@ -25,6 +25,7 @@ title: **Activate**  [Cast a Spell](rules/actions/cast-a-spell.md)
 ```
 
 ---
+
 ### Variants
 
 #### 1st-level spell *Item 3*

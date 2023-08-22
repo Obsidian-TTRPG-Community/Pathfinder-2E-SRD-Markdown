@@ -25,6 +25,7 @@ You expend a number of charges from the staff to cast a spell from the staff's l
 ```
 
 ---
+
 ### Variants
 
 #### staff of the desert winds *Item 6*

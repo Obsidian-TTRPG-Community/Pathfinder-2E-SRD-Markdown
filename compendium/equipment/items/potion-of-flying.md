@@ -19,6 +19,7 @@ aliases: ["Potion of Flying"]
 Upon drinking this effervescent concoction, you gain a fly Speed of 40 feet for 1 minute.
 
 ---
+
 ### Variants
 
 #### standard *Item 8*

@@ -27,6 +27,7 @@ title: **Activate** [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Acti
 ```
 
 ---
+
 ### Variants
 
 #### hat of disagreeable disguise *Item 2*

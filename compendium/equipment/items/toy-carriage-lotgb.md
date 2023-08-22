@@ -12,6 +12,7 @@ aliases: ["Toy Carriage"]
 A miniature toy carriage is carved from wood and has fully functioning wheels. It can vary in size from 2 to 8 inches long, too small for even Tiny creatures to ride. If pushed or propelled, obstacles and terrain might slow, stop, tip, or divert the carriage's course.
 
 ---
+
 ### Variants
 
 #### toy carriage *Item 0*

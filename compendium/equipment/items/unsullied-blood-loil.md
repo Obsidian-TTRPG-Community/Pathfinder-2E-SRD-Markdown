@@ -19,6 +19,7 @@ aliases: ["Unsullied Blood"]
 Blood offered from a willing donor was taken directly from the vein and stored in an ornate vial that keeps it as pure and red as the day it was extracted. When this catalyst is added to a [vampiric touch](compendium/spells/vampiric-touch.md) spell of up to 4th level, instead of gaining temporary Hit Points based on the damage dealt, you recover half of the damage dealt as Hit Points.
 
 ---
+
 ### Variants
 
 #### lesser *Item 5*

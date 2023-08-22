@@ -18,6 +18,7 @@ aliases: ["Life Shot"]
 Life shot is a special cartridge that carries a small dose of elixir of life. A creature hit by activated life shot takes no damage from the successful attack, instead receiving healing and gaining an item bonus to saving throws against diseases and poisons for 1 minute. On a critical hit, roll the healing received twice and take the better result (this is a [fortune](rules/traits/fortune.md "Fortune Effect Trait") effect). A target willing to be hit by this attack is [flat-footed](rules/conditions.md#Flat-footed) against it.
 
 ---
+
 ### Variants
 
 #### minor *Item 2*

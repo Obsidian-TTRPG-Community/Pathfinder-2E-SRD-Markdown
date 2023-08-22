@@ -22,17 +22,42 @@ The hide and scales of a dragon can be used to [Craft](rules/actions/craft.md) a
 | Green | Poison |
 | Silver or white | Cold |
 
-| Dragonhide Items | Hardness | HP | BT |
-|------------------|----------|----|----|
-| **Thin Items** |  |  |  |
-| multiRow |  |
-| multiRow |  |
-| **Items** |  |  |  |
-| multiRow |  |
-| multiRow |  |
+<table>
+<tr>
+  <th>Dragonhide Items</th>
+  <th>Hardness</th>
+  <th>HP</th>
+  <th>BT</th>
+</tr>
+<tr>
+  <td>**Thin Items**</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Standard-grade<br />High-grade</td>
+  <td>4<br />8</td>
+  <td>16<br />32</td>
+  <td>8<br />16</td>
+</tr>
+<tr>
+  <td>**Items**</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Standard-grade<br />High-grade</td>
+  <td>7<br />11</td>
+  <td>28<br />44</td>
+  <td>14<br />22</td>
+</tr>
+</table>
 
 
 ---
+
 ### Variants
 
 #### standard-grade dragonhide object *Item 8*

@@ -20,7 +20,5 @@ You fall through your own kinetic gate, leaving behind an effigy of flame and re
 
 You instantly transport yourself, and any items you're wearing and holding, from your current space to a clear space within 120 feet you can observe that's adjacent to an open flame or a creature taking [persistent fire damage](rules/conditions.md#Persistent%20Damage). If this would bring another creature with you—even if you're carrying it in an extradimensional container—the action fails. A whorl of fire surrounds you in a 5-foot emanation either before you depart or after you arrive. Each creature in the area takes `4d6` fire damage with a basic Reflex save against your class DC.
 
-Level (+3) The fire damage increases by `1d6`.
-
-*Source: RoE p. 29*  
+*Source: Rage of Elements p. 29*  
 %% #compendium/src/pf2e/roe #trait/fire #trait/impulse #trait/kineticist #trait/overflow #trait/primal #trait/teleportation %%

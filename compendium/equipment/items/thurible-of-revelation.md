@@ -25,6 +25,7 @@ You light the incense inside the censer, and it burns for 1 hour. During that ti
 ```
 
 ---
+
 ### Variants
 
 #### lesser *Item 3*

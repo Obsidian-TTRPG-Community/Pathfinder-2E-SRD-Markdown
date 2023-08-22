@@ -18,6 +18,7 @@ aliases: ["Salamander Elixir"]
 This elixir is made from salamander scales to withstand fire. For 24 hours, you are protected from the effects of severe heat.
 
 ---
+
 ### Variants
 
 #### lesser *Item 4*

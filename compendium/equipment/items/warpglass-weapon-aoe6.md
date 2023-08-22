@@ -15,6 +15,7 @@ aliases: ["Warpglass Weapon"]
 If you critically hit a creature with a [Strike](rules/actions/strike.md) with a warpglass weapon, the target is affected by a warpwave and automatically fails its saving throw.
 
 ---
+
 ### Variants
 
 #### high-grade warpglass weapon *Item 17*

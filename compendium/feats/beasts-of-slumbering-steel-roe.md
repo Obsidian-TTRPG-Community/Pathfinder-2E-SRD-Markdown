@@ -10,7 +10,7 @@ tags:
 aliases: ["Beasts of Slumbering Steel"]
 ---
 # Beasts of Slumbering Steel  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 18*  
-[impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  metal  
+[impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  [metal](rules/traits/metal-roe.md "Metal Energy & Element Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  
 
 - **Activity** Three-Action
 
@@ -18,5 +18,5 @@ You conjure metal elemental mounts made of interlocking metal pieces. Target up 
 
 They remain for 1 minute or until you use this impulse again. You can use this impulse as a 1-minute exploration activity to make the duration 1 hour, but this halves the mounts' defenses and HP.
 
-*Source: RoE p. 31*  
+*Source: Rage of Elements p. 31*  
 %% #compendium/src/pf2e/roe #trait/impulse #trait/kineticist #trait/metal #trait/primal %%

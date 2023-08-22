@@ -46,6 +46,7 @@ title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actio
 ```
 
 ---
+
 ### Variants
 
 #### tentacle cannon *Item 7*

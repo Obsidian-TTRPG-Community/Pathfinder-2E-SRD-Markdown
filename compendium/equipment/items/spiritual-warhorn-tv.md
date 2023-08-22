@@ -21,6 +21,7 @@ A spiritual warhorn is a trumpet made of horn, leather, and metal. When you play
 Once the magic is used, the warhorn remains as a non-magical musical instrument.
 
 ---
+
 ### Variants
 
 #### lesser *Item 5*

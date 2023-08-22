@@ -20,6 +20,7 @@ aliases: ["Alchemist's Fire"]
 Alchemist's fire is a combination of volatile liquids that ignite when exposed to air. Alchemist's fire deals the listed fire damage, [persistent fire damage](rules/conditions.md#Persistent%20Damage), and splash damage. Many types grant an item bonus to attack rolls.
 
 ---
+
 ### Variants
 
 #### lesser *Item 1*

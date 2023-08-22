@@ -15,6 +15,7 @@ aliases: ["Snare Kit"]
 This kit contains tools and materials for creating snares. A snare kit allows you to [Craft](rules/actions/craft.md) snares using the [Crafting](compendium/skills.md#Crafting) skill. You can draw and replace a worn snare kit as part of the action to use it.
 
 ---
+
 ### Variants
 
 #### Base *Item 0*

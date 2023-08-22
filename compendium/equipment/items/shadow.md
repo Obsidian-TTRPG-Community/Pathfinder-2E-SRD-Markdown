@@ -16,6 +16,7 @@ aliases: ["Shadow"]
 Armor with this rune becomes hazy black. You gain a +1 item bonus to [Stealth](compendium/skills.md#Stealth) checks while wearing the armor.
 
 ---
+
 ### Variants
 
 #### shadow *Item 5*

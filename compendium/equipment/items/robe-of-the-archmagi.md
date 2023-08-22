@@ -28,6 +28,7 @@ title: **Activate** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Action
 ```
 
 ---
+
 ### Variants
 
 #### robe of the archmagi *Item 15*

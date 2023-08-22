@@ -33,11 +33,11 @@ Some conditions override others. This is always specified in the entry for the o
 > 
 > Some conditions exist relative to one another or share a similar theme. It can be useful to look at these conditions together, rather than viewing them in isolation, to understand how they interact.
 > 
-> - **Degrees of Detection** [Observed](rules/conditions.md#Observed), [hidden](rules/conditions.md#Hidden), [undetected](rules/conditions.md#Undetected), [unnoticed](rules/conditions.md#Unnoticed)
-> - **Senses** [Blinded](rules/conditions.md#Blinded), [concealed](rules/conditions.md#Concealed), [dazzled](rules/conditions.md#Dazzled), [deafened](rules/conditions.md#Deafened), [invisible](rules/conditions.md#Invisible)
-> - **Death and Dying** [Doomed](rules/conditions.md#Doomed), [dying](rules/conditions.md#Dying), [unconscious](rules/conditions.md#Unconscious), [wounded](rules/conditions.md#Wounded)
-> - **Attitudes** [Hostile](rules/conditions.md#Hostile), [unfriendly](rules/conditions.md#Unfriendly), [indifferent](rules/conditions.md#Indifferent), [friendly](rules/conditions.md#Friendly), [helpful](rules/conditions.md#Helpful)
-> - **Lowered Abilities** [Clumsy](rules/conditions.md#Clumsy), [drained](rules/conditions.md#Drained), [enfeebled](rules/conditions.md#Enfeebled), [stupefied](rules/conditions.md#Stupefied)
+> - **Degrees of Detection.** [Observed](rules/conditions.md#Observed), [hidden](rules/conditions.md#Hidden), [undetected](rules/conditions.md#Undetected), [unnoticed](rules/conditions.md#Unnoticed)
+> - **Senses.** [Blinded](rules/conditions.md#Blinded), [concealed](rules/conditions.md#Concealed), [dazzled](rules/conditions.md#Dazzled), [deafened](rules/conditions.md#Deafened), [invisible](rules/conditions.md#Invisible)
+> - **Death and Dying.** [Doomed](rules/conditions.md#Doomed), [dying](rules/conditions.md#Dying), [unconscious](rules/conditions.md#Unconscious), [wounded](rules/conditions.md#Wounded)
+> - **Attitudes.** [Hostile](rules/conditions.md#Hostile), [unfriendly](rules/conditions.md#Unfriendly), [indifferent](rules/conditions.md#Indifferent), [friendly](rules/conditions.md#Friendly), [helpful](rules/conditions.md#Helpful)
+> - **Lowered Abilities.** [Clumsy](rules/conditions.md#Clumsy), [drained](rules/conditions.md#Drained), [enfeebled](rules/conditions.md#Enfeebled), [stupefied](rules/conditions.md#Stupefied)
 > 
 > ### DEATH AND DYING RULES
 > <sup>CRB p. 618</sup>

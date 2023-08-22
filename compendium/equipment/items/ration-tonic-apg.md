@@ -21,6 +21,7 @@ This slender vial appears to hold clean, clear water with a faintly fruity scent
 The tonic has a subtle, pleasant taste, its particulars chosen when the potion is crafted.
 
 ---
+
 ### Variants
 
 #### ration tonic *Item 1*

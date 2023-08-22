@@ -13,6 +13,7 @@ aliases: ["Silver Weapon"]
 Silver weapons deal additional damage to creatures with weakness to silver, like werewolves, and ignore the resistances of some other creatures, like devils.
 
 ---
+
 ### Variants
 
 #### low-grade silver weapon *Item 2*

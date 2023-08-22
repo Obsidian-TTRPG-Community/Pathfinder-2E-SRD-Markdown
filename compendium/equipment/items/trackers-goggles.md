@@ -17,6 +17,7 @@ aliases: ["Tracker's Goggles"]
 These lenses of forest-green glass are bound in rough leather stitched with crude twine. While wearing these goggles, you gain a +1 bonus to [Survival](compendium/skills.md#Survival) checks to [Sense Direction](rules/actions/sense-direction.md) and [Track](rules/actions/track.md). If you fail a check to [Track](rules/actions/track.md), you can try again after 30 minutes rather than an hour.
 
 ---
+
 ### Variants
 
 #### tracker's goggles *Item 3*

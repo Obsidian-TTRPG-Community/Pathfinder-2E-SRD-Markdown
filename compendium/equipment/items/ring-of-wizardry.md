@@ -22,6 +22,7 @@ If you take off the ring for any reason, you lose the additional spell slots. Yo
 If you can cast arcane spells in a variety of different ways (such as if you are a draconic bloodline sorcerer with the wizard multiclass archetype), you can divide the spell slots as you wish among your various sources of arcane spells.
 
 ---
+
 ### Variants
 
 #### I *Item 7*

@@ -22,6 +22,7 @@ aliases: ["Golden Silencer"]
 The Golden Gunners are dreaded for their use of their golden silencers, which they put to good use in clandestine raids. They silence both the loud gunshot and the screams of creatures [wounded](rules/conditions.md#Wounded) by its shot. A weapon with a golden silencer attached emits no light and makes no noise when fired. A target hit by a ranged [Strike](rules/actions/strike.md) from the affixed weapon must succeed at a DC 20 Fortitude save or be silenced as well until the start of its next turn. A silenced creature can't call for help or use sonic abilities, nor can it use abilities with the [auditory](rules/traits/auditory.md "Auditory Effect Trait") trait. This prevents it from casting spells that include verbal components.
 
 ---
+
 ### Variants
 
 #### standard *Item 6*

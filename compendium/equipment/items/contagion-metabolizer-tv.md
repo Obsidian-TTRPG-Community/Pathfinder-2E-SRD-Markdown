@@ -21,6 +21,7 @@ Contagion metabolizers seek out toxins in the bloodstream and attempt to purify 
 If you're a chirurgeon alchemist and have powerful alchemy, you can substitute your statistics when you create a contagion metabolizer using [Quick Alchemy](rules/actions/quick-alchemy.md), if your stats are higher. This replaces the counteract level with half your level rounded up and the counteract modifier with your class DC – 10.
 
 ---
+
 ### Variants
 
 #### lesser *Item 5*

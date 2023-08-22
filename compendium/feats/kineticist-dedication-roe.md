@@ -21,5 +21,5 @@ You become trained in kineticist class DC and impulse attack rolls. Choose one e
 
 ## Summary
 
-*Source: RoE p. 57*  
+*Source: Rage of Elements p. 57*  
 %% #compendium/src/pf2e/roe #trait/archetype #trait/dedication #trait/multiclass %%

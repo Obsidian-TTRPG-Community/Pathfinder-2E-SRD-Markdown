@@ -18,6 +18,7 @@ aliases: ["Darkvision Elixir"]
 After you drink this elixir, your sight becomes sharper in darkness. You gain [darkvision](rules/abilities/darkvision.md) for the listed duration.
 
 ---
+
 ### Variants
 
 #### lesser *Item 2*

@@ -19,6 +19,7 @@ Stone was one of the earliest materials used to create tools, and crafters can s
 
 
 ---
+
 ### Variants
 
 #### low-grade stone object *Item 0*

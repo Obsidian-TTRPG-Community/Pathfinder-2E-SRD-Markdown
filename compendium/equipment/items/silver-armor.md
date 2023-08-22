@@ -13,6 +13,7 @@ aliases: ["Silver Armor"]
 Silver armor sickens certain creatures that touch it. A creature with weakness to silver that critically fails an unarmed attack against a creature in silver armor becomes [sickened](rules/conditions.md#Sickened). A creature with weakness to silver is [sickened](rules/conditions.md#Sickened) as long as it wears silver armor.
 
 ---
+
 ### Variants
 
 #### low-grade silver armor *Item 5*

@@ -19,6 +19,7 @@ The magical statuettes known as wondrous figurines are described on page 576 of 
 The following additional figurines are uncommon versions sometimes found among the magical creations of the Magaambya or for sale in the streets of Nantambu.
 
 ---
+
 ### Variants
 
 #### bismuth leopards *Item 8*

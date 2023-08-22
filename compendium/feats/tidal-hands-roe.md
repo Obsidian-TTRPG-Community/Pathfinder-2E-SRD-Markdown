@@ -17,7 +17,5 @@ aliases: ["Tidal Hands"]
 
 With an emphatic gesture, you create waves that rush out from you in the shape of your hands. You either form two 15-foot cones that don't overlap or you combine the hands into one 30-foot cone. Each creature in a wave takes `1d8` bludgeoning damage with a basic Reflex save against your class DC. If a creature critically fails, you also push that creature 5 feet.
 
-Level (+2) The damage increases by `1d8`.
-
-*Source: RoE p. 32*  
+*Source: Rage of Elements p. 32*  
 %% #compendium/src/pf2e/roe #trait/impulse #trait/kineticist #trait/overflow #trait/primal #trait/water %%

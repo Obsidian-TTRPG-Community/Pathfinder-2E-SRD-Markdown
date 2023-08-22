@@ -24,5 +24,5 @@ Your flesh gives way as you're struck, becoming coarse sand that can magically t
 > - **Failure** The creature is [slowed](rules/conditions.md#Slowed) until the end of its next turn.
 > - **Critical Failure** The creature is [petrified](rules/conditions.md#Petrified) until the end of its next turn.
 
-*Source: RoE p. 26*  
+*Source: Rage of Elements p. 26*  
 %% #compendium/src/pf2e/roe #trait/earth #trait/impulse #trait/incapacitation #trait/kineticist #trait/overflow #trait/primal %%

@@ -22,6 +22,7 @@ This tiny crystal vial of oily liquid is typically attached to a pin or worn on 
 When you Activate the vial, you avoid being knocked out and remain at 1 Hit Point, your [wounded](rules/conditions.md#Wounded) condition increases by 1, and the talisman casts drop dead on you. You and any items you're wearing and holding are instantly transported from your current space to a clear space of your choice within range. You take no damage from the triggering effect. If you are carrying another creature (even one contained inside an extradimensional container), it's left behind in your original space.
 
 ---
+
 ### Variants
 
 #### false death vial *Item 13*

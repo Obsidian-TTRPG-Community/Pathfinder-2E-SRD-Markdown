@@ -18,6 +18,7 @@ aliases: ["Cheetah's Elixir"]
 Enzymatic compounds in this elixir strengthen and excite the muscles in your legs. You gain a status bonus to your Speed for the listed duration.
 
 ---
+
 ### Variants
 
 #### lesser *Item 1*

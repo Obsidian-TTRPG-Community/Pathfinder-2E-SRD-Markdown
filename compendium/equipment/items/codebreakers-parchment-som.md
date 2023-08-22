@@ -30,6 +30,7 @@ You light the parchment on fire, burning the words off while leaving the parchme
 ```
 
 ---
+
 ### Variants
 
 #### codebreaker's parchment *Item 3*

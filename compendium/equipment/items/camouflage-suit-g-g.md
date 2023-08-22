@@ -21,6 +21,7 @@ A suit prepared in this manner grants you a +1 item bonus to [Stealth](compendiu
 The suit remains usable in this manner until you rest for the night, though it doesn't grant the benefit whenever you aren't in the appropriate environment. The GM might rule that some environments are unusual enough that you can't create a camouflage suit appropriate for the environment.
 
 ---
+
 ### Variants
 
 #### Base *Item 0*

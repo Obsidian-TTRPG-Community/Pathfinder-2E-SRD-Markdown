@@ -21,6 +21,7 @@ You can upgrade, add, and transfer runes to and from the handwraps just as you w
 The entries below list the most typical combinations of fundamental runes.
 
 ---
+
 ### Variants
 
 #### +1 handwraps of mighty blows *Item 2*

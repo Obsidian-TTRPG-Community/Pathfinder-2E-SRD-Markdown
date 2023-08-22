@@ -27,7 +27,7 @@ The DC is determined by the GM based on the state or complexity of the document.
 
 > [!pf2-example] Sample Decipher Tasks
 > 
-> - **Trained** entry-level philosophy treatise
-> - **Expert** complex code, such as a cipher
-> - **Master** spymaster's code or advanced research notes
-> - **Legendary** esoteric planar text written in metaphor by an ancient celestial
+> - **Trained.** entry-level philosophy treatise
+> - **Expert.** complex code, such as a cipher
+> - **Master.** spymaster's code or advanced research notes
+> - **Legendary.** esoteric planar text written in metaphor by an ancient celestial

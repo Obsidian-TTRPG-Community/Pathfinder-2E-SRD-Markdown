@@ -19,7 +19,7 @@ You channel a spell into a punch or sword thrust to deliver a combined attack. Y
 
 After you use Spellstrike, you can't do so again until you recharge your Spellstrike as a single action, which has the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") trait. You also recharge your Spellstrike when you cast a conflux spell that takes at least 1 action to cast; casting a focus spell of another type doesn't recharge your Spellstrike.
 
-**Spellstrike Specifics** Though the base [Spellstrike](rules/actions/spellstrike-som.md) rules cover most spells, various modifications apply to more complicated spells when loaded into your fist, blade, or other attack.
+**Spellstrike Specifics.** Though the base [Spellstrike](rules/actions/spellstrike-som.md) rules cover most spells, various modifications apply to more complicated spells when loaded into your fist, blade, or other attack.
 
 **One Target:** The spell targets only the target of your [Strike](rules/actions/strike.md), even if it normally allows more targets. Some feats let you affect more creatures.
 

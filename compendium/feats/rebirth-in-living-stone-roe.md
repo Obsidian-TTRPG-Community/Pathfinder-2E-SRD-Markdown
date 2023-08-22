@@ -22,7 +22,5 @@ You gain 40 temporary Hit Points. You're immune to critical hits and precision d
 
 These benefits last until the end of your next turn, but you can Sustain them up to 1 minute. After you gain temporary Hit Points from this impulse, you can't do so again for 10 minutes.
 
-Level (20th) You gain 50 temporary Hit Points.
-
-*Source: RoE p. 27*  
+*Source: Rage of Elements p. 27*  
 %% #compendium/src/pf2e/roe #trait/earth #trait/impulse #trait/kineticist #trait/polymorph #trait/primal #trait/stance %%

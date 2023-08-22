@@ -25,8 +25,8 @@ If you end your turn in water and haven't succeeded at a Swim action that turn, 
 
 > [!pf2-example] Sample Swim Tasks
 > 
-> - **Untrained** lake or other still water
-> - **Trained** flowing water, like a river
-> - **Expert** swiftly flowing river
-> - **Master** stormy sea
-> - **Legendary** maelstrom, waterfall
+> - **Untrained.** lake or other still water
+> - **Trained.** flowing water, like a river
+> - **Expert.** swiftly flowing river
+> - **Master.** stormy sea
+> - **Legendary.** maelstrom, waterfall

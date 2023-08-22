@@ -18,6 +18,7 @@ This kit of bandages, herbs, and suturing tools is necessary for [Medicine](comp
 > You can use the set of tools with one hand if you are wearing it.
 
 ---
+
 ### Variants
 
 #### Base *Item 0*

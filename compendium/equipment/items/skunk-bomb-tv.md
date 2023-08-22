@@ -29,6 +29,7 @@ Skunk bombs are made from the concentrated odors of xulgaths, hezrous, and other
 >    Creatures [sickened](rules/conditions.md#Sickened) by the bomb emit an odor that lasts 10 minutes after the [sickened](rules/conditions.md#Sickened) condition ends (or 1 hour if they were also [blinded](rules/conditions.md#Blinded)). The odor can be removed or neutralized by using prestidigitation or similar magic or by spending 10 minutes scrubbing with ample soap and water. While the odor lasts, creatures within 30 feet can smell the target, enabling even those with a weak sense of smell to detect its presence, and all creatures gain a +1 item bonus to [Track](rules/actions/track.md) the affected creature for as long as it has the odor. A creature that has imprecise or precise scent doubles the range at which it can detect the target using this scent.
 
 ---
+
 ### Variants
 
 #### lesser *Item 1*

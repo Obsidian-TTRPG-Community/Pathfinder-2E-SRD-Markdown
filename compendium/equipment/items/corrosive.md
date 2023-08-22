@@ -19,6 +19,7 @@ Acid sizzles across the surface of the weapon. When you hit with the weapon, add
 In addition, on a critical hit, the target's armor (if any) takes `3d6` acid damage (before applying Hardness); if the target has a shield raised, the shield takes this damage instead.
 
 ---
+
 ### Variants
 
 #### corrosive *Item 8*

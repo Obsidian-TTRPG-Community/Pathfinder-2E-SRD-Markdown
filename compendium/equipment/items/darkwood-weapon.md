@@ -15,6 +15,7 @@ aliases: ["Darkwood Weapon"]
 Darkwood weapons are as dark as ebony, with a slight purple tint. A darkwood weapon's Bulk is reduced by 1 (or to light Bulk if its normal Bulk is 1, with no effect on a weapon that normally has light Bulk).
 
 ---
+
 ### Variants
 
 #### standard grade darkwood weapon *Item 11*

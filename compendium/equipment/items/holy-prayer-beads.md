@@ -28,6 +28,7 @@ Cast [bless](compendium/spells/bless.md) or heal, each once per day.
 ```
 
 ---
+
 ### Variants
 
 #### standard *Item 5*

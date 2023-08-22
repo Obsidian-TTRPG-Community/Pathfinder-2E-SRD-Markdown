@@ -14,5 +14,5 @@ A small creature made of elemental matter springs forth from your kinetic gate. 
 
 You gain an elemental familiar (page 42) with the trait of one of your kinetic elements. If you have more than one kinetic element, you can change the element you've selected for your familiar to a different one of your kinetic elements each time you make your daily preparations. The familiar uses your Constitution modifier to determine its [Perception](compendium/skills.md#Perception), [Acrobatics](compendium/skills.md#Acrobatics), and [Stealth](compendium/skills.md#Stealth) modifiers.
 
-*Source: RoE p. 20*  
+*Source: Rage of Elements p. 20*  
 %% #compendium/src/pf2e/roe #trait/kineticist %%

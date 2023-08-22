@@ -15,6 +15,7 @@ aliases: ["Adamantine Armor"]
 Adamantine armor has a shiny, black appearance and is amazingly durable.
 
 ---
+
 ### Variants
 
 #### standard-grade adamantine armor *Item 12*

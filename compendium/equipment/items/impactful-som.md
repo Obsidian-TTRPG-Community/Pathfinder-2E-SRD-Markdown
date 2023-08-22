@@ -17,6 +17,7 @@ aliases: ["Impactful"]
 This rune thrums with pure magical energy. Weapons with the rune deal an additional `1d6` force damage on a successful [Strike](rules/actions/strike.md). On a critical hit, you can choose to force the target to succeed at a DC 27 Fortitude save or be pushed 5 feet away from you.
 
 ---
+
 ### Variants
 
 #### impactful *Item 10*

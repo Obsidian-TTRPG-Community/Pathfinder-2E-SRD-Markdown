@@ -27,6 +27,7 @@ title: **Activate**  [Cast a Spell](rules/actions/cast-a-spell.md)
 ```
 
 ---
+
 ### Variants
 
 #### 4th-level spell *Item 11*

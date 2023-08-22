@@ -18,6 +18,7 @@ aliases: ["Bomber's Eye Elixir"]
 This tincture lets you pinpoint your foes. For the next 5 minutes, your alchemical bomb [Strikes](rules/actions/strike.md) reduce the circumstance bonus to AC your targets gain from cover.
 
 ---
+
 ### Variants
 
 #### lesser *Item 4*

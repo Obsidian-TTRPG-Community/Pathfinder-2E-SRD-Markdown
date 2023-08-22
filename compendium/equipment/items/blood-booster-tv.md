@@ -21,6 +21,7 @@ This elixir bolsters your body's natural defenses and ability to resist maladies
 At the GM's discretion, blood booster elixirs can also automatically counteract non-magical effects that specifically rely on thinning the drinker's blood, such as a skull peeler's (Bestiary 3 243) anticoagulant.
 
 ---
+
 ### Variants
 
 #### lesser *Item 3*

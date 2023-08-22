@@ -18,6 +18,7 @@ aliases: ["Elemental Ammunition"]
 When activated, the reservoir of alchemical reagents in elemental ammunition atomizes on impact, dealing [persistent acid](rules/conditions.md#Persistent%20Damage), cold, electricity, fire, or poison damage to the target and splash damage in addition to the damage the attack normally deals. Each damage type requires a different formula, and the ammunition gains a trait matching the damage type.
 
 ---
+
 ### Variants
 
 #### lesser *Item 1*

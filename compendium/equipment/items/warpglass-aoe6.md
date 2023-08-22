@@ -15,6 +15,7 @@ aliases: ["Warpglass"]
 Raw warpglass is an opalescent glassy material with surprising strength. When worked, it changes its appearance—though not its properties—to appear as random striations of other metals and types of stone.
 
 ---
+
 ### Variants
 
 #### warpglass chunk *Item 0*

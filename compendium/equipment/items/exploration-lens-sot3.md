@@ -23,6 +23,7 @@ There are several different types of exploration lens, each granting benefits wi
 Each type of lens is distinguishable from all the other types by holding it up to a bright light.
 
 ---
+
 ### Variants
 
 #### detecting *Item 10*

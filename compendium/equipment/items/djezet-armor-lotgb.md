@@ -15,6 +15,7 @@ aliases: ["Djezet Armor"]
 Armor made of djezet alloy is easy to enchant. Transferring runes onto djezet armor from other armor waives the usual 1/10 cost to etch the rune. This benefit has no effect on the cost of the rune itself or on the cost to transfer a rune off djezet armor onto a non-djezet armor. High-grade djezet armor can be etched with an additional property rune (to a maximum of four instead of three for +3 armor).
 
 ---
+
 ### Variants
 
 #### standard-grade djezet armor *Item 12*

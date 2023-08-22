@@ -9,7 +9,7 @@ tags:
 aliases: ["Crystal Healer"]
 ---
 # Crystal Healer
-*Source: RoE p. 44*  
+*Source: Rage of Elements p. 44*  
 
 Mineral formations can be beautiful things, sparkling and arrayed in geometric configurations. To you, they are also potent natural healing aids. You may have taken up adventuring to prove yourself by healing the ailing or to find new crystals with unique properties to add to your growing collection.
 

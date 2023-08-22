@@ -33,6 +33,7 @@ title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Action
 ```
 
 ---
+
 ### Variants
 
 #### nosoi charm *Item 12*

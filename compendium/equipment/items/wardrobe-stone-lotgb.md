@@ -29,6 +29,7 @@ You can actively [Dismiss](rules/actions/dismiss.md) the Spell, but the effects 
 ```
 
 ---
+
 ### Variants
 
 #### lesser *Item 3*

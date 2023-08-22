@@ -19,6 +19,7 @@ The magical statuettes known as wondrous figurines are described on page 576 of 
 The following additional figurines are less common versions sometimes found in the pockets of menagerie owners who often find themselves in need of a quick act or diversion.
 
 ---
+
 ### Variants
 
 #### candy constrictor *Item 5*

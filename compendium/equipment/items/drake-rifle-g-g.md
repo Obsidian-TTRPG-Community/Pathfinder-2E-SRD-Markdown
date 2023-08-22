@@ -28,11 +28,11 @@ title: **Activate** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Acti
 
 On a hit, the drake rifle provides one of the following additional effects based on its damage type:
 
-- **Acid** Clinging acid makes it painful and sickening to move. The target becomes [sickened](rules/conditions.md#Sickened).
-- **Cold** Frozen spittle clings to the target. The target takes a –10-foot status penalty to their Speeds for 1 minute.
-- **Electricity** Small bursts of electricity continue to spark and jolt the target. The target becomes [dazzled](rules/conditions.md#Dazzled) and [flat-footed](rules/conditions.md#Flat-footed) for `1d4` rounds.
-- **Fire** A massive explosion knocks the target back. The target is pushed 10 feet away from you, and if it's on the ground, it falls [prone](rules/conditions.md#Prone).
-- **Poison** Noxious vapors fill the target's lungs. The target becomes [enfeebled](rules/conditions.md#Enfeebled) and [clumsy](rules/conditions.md#Clumsy) for 1 minute.  
+- **Acid.** Clinging acid makes it painful and sickening to move. The target becomes [sickened](rules/conditions.md#Sickened).
+- **Cold.** Frozen spittle clings to the target. The target takes a –10-foot status penalty to their Speeds for 1 minute.
+- **Electricity.** Small bursts of electricity continue to spark and jolt the target. The target becomes [dazzled](rules/conditions.md#Dazzled) and [flat-footed](rules/conditions.md#Flat-footed) for `1d4` rounds.
+- **Fire.** A massive explosion knocks the target back. The target is pushed 10 feet away from you, and if it's on the ground, it falls [prone](rules/conditions.md#Prone).
+- **Poison.** Noxious vapors fill the target's lungs. The target becomes [enfeebled](rules/conditions.md#Enfeebled) and [clumsy](rules/conditions.md#Clumsy) for 1 minute.  
 %%
  #trait/evocation  #trait/magical 
 %%

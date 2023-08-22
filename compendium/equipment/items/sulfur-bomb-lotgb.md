@@ -24,6 +24,7 @@ A thick, sulfurous, irritating gas fills this golden-yellow flask.
 A sulfur bomb deals the listed damage. On a hit, the target takes a –1 status penalty to [Perception](compendium/skills.md#Perception) checks and attack rolls until the end of its next turn, or becomes [sickened](rules/conditions.md#Sickened) on a critical hit. Creatures hit with this bomb are temporarily immune to the effects of the bomb for 1 minute.
 
 ---
+
 ### Variants
 
 #### lesser *Item 1*

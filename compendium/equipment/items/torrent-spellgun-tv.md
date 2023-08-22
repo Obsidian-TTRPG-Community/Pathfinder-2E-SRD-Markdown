@@ -25,6 +25,7 @@ Carved of seashell, a torrent spellgun is damp to the touch, and seaweed wraps a
 > - **Success** The target takes full damage and is knocked back 5 feet.
 
 ---
+
 ### Variants
 
 #### lesser *Item 3*

@@ -15,5 +15,5 @@ aliases: ["Metabolize Element"]
 
 Your rapidly metabolize the elemental particles in your opponent's spell to gain a boost of energy. You gain the [quickened](rules/conditions.md#Quickened) condition until the end of your next turn. You can use the extra action only to [Step](rules/actions/step.md) or [Stride](rules/actions/stride.md).
 
-*Source: RoE p. 60*  
+*Source: Rage of Elements p. 60*  
 %% #compendium/src/pf2e/roe #trait/archetype %%

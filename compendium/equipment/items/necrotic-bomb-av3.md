@@ -22,6 +22,7 @@ Necrotic bombs combine reagents most people consider disgusting at best and unho
 Many types grant an item bonus to attack rolls.
 
 ---
+
 ### Variants
 
 #### lesser *Item 1*

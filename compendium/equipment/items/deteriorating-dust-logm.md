@@ -28,6 +28,7 @@ For the listed time, the object takes constant damage; if the object has a Hardn
 ```
 
 ---
+
 ### Variants
 
 #### deteriorating dust *Item 4*

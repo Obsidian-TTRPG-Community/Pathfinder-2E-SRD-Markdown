@@ -20,6 +20,7 @@ aliases: ["Healing Potion"]
 A healing potion is a vial of a ruby-red liquid that imparts a tingling sensation as the drinker's wounds heal rapidly. When you drink a healing potion, you regain the listed number of Hit Points.
 
 ---
+
 ### Variants
 
 #### minor *Item 1*

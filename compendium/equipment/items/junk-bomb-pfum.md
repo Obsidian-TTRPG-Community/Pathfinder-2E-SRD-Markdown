@@ -20,6 +20,7 @@ aliases: ["Junk Bomb"]
 This volatile-looking bomb is cobbled together from jagged metal scrap, broken glass, and other bits of razor-sharp fragments, lashed around a core of explosive alchemical slag. A junk bomb deals the listed slashing damage, [persistent bleed damage](rules/conditions.md#Persistent%20Damage), and piercing splash damage. Many types grant an item bonus to attack rolls.
 
 ---
+
 ### Variants
 
 #### lesser *Item 1*

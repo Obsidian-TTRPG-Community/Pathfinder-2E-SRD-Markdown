@@ -22,6 +22,7 @@ This mutagen calcifies your body, making it as hard as stone. Benefit You gain r
 Drawback Your Speeds are reduced by 10 feet (to a minimum of 5 feet) and you take a –2 penalty to Reflex saves.
 
 ---
+
 ### Variants
 
 #### lesser *Item 5*

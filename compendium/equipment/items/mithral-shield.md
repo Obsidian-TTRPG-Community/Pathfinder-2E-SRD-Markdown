@@ -16,6 +16,7 @@ aliases: ["Mithral Shield"]
 Mithral shields are 1 Bulk lighter than normal (or light Bulk if their normal Bulk is 1, with no effect on a shield that normally has light Bulk). When used for a shield bash, they are treated as silver weapons.
 
 ---
+
 ### Variants
 
 #### standard-grade mithral buckler *Item 8*

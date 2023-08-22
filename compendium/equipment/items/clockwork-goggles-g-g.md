@@ -21,6 +21,7 @@ This heavy set of mechanical goggles contains a variety of different lenses for 
 However, many of these lenses can only capture a single stimulus once and then are forever etched with it, making them unsuitable for long-term use. When activated, the clockwork mechanism on the goggles rapidly switches between the different lenses, granting you the benefits of all of them for a brief period of time.
 
 ---
+
 ### Variants
 
 #### clockwork goggles *Item 1*

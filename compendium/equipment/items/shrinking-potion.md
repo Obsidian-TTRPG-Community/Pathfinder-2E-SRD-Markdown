@@ -20,6 +20,7 @@ aliases: ["Shrinking Potion"]
 This fungus-flavored potion conveys the effects of the [shrink](compendium/spells/shrink.md) spell to make you and all your gear smaller. After the onset, you remain small for 10 minutes.
 
 ---
+
 ### Variants
 
 #### standard *Item 4*

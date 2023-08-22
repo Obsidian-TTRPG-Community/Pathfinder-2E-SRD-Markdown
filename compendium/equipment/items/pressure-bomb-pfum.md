@@ -21,6 +21,7 @@ aliases: ["Pressure Bomb"]
 This tightly sealed metal container is filled with highly pressurized gas that can explode to release a powerful shockwave. A pressure bomb deals the listed bludgeoning damage and splash damage. On a critical hit, the target is knocked [prone](rules/conditions.md#Prone). Many types grant an item bonus to attack rolls, and more powerful pressure bombs can knock creatures back.
 
 ---
+
 ### Variants
 
 #### lesser *Item 1*

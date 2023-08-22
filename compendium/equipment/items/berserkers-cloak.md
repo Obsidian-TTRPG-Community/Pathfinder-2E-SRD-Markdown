@@ -22,6 +22,7 @@ This transformation is a [morph](rules/traits/morph.md "Morph Effect Trait") eff
 If you have an animal instinct and the bestial rage instinct ability, instead of gaining these unarmed attacks, your unarmed attacks from the bestial rage instinct ability gain the benefits of a +2 weapon potency rune and a greater striking rune (granting a +2 item bonus to attack rolls and increasing the weapon damage dice by two).
 
 ---
+
 ### Variants
 
 #### berserker's cloak *Item 12*

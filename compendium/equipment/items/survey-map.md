@@ -16,6 +16,7 @@ aliases: ["Survey Map"]
 Maps are uncommon. Most maps you can find are simple and functional. A survey map details a single location in excellent detail. One of these maps gives you a +1 item bonus to [Survival](compendium/skills.md#Survival) checks and any skill checks to [Recall Knowledge](rules/actions/recall-knowledge.md), provided the checks are related to the location detailed on the map. The GM determines what maps are available in any location.
 
 ---
+
 ### Variants
 
 #### Survey Map *Item 0*

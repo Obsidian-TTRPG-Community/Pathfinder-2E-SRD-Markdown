@@ -15,5 +15,5 @@ aliases: ["Redirect Elements"]
 
 You seize the elemental essence of an incoming spell and redirect the spell to a creature of your choice within the spell's area. The attacker rerolls the spell's attack roll against the new target.
 
-*Source: RoE p. 60*  
+*Source: Rage of Elements p. 60*  
 %% #compendium/src/pf2e/roe #trait/archetype %%

@@ -21,6 +21,7 @@ You can [Interact](rules/actions/interact.md) with the bag of holding to put ite
 If the bag is overloaded or [broken](rules/conditions.md#Broken), it ruptures and is ruined, causing the items inside to be lost forever. If it's turned inside out, the items inside spill out unharmed, but the bag must be put right before it can be used again. A living creature placed inside the bag has enough air for 10 minutes before it begins to suffocate, and it can attempt to [Escape](rules/actions/escape.md) against a DC of 13. An item inside the bag provides no benefits unless it's retrieved first. An item in the bag can't be detected by magic that detects only things on the same plane.
 
 ---
+
 ### Variants
 
 #### I *Item 4*

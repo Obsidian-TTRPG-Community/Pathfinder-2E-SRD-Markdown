@@ -17,6 +17,7 @@ Peachwood weapons have a particularly auburn tinge to them when under direct sun
 Peachwood is treated as darkwood for any undead creatures' resistances or weaknesses related to darkwood (allowing a peachwood weapon to bypass a jiang-shi's resistance, for example). In addition, peachwood weapons bypass a small portion of the resistances of any undead creature. [Strikes](rules/actions/strike.md) with a peachwood weapon treat an undead's resistances against physical damage as 2 lower for standardgrade peachwood, and 4 lower for high-grade.
 
 ---
+
 ### Variants
 
 #### standard-grade *Item 12*

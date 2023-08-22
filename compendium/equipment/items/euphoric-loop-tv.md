@@ -27,6 +27,7 @@ When the spell ends, even if you [Dismiss](rules/actions/dismiss.md) it, the sud
 > - **Critical Failure** The target is [stunned](rules/conditions.md#Stunned) or, if the spell ended because of a [hostile](rules/conditions.md#Hostile) action, [confused](rules/conditions.md#Confused) for 2 rounds.
 
 ---
+
 ### Variants
 
 #### euphoric loop *Item 5*

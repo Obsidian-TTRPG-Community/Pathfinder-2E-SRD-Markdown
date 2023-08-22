@@ -25,6 +25,7 @@ You ignore concealment caused by fog, smoke, and other obscuring vapors for 1 mi
 ```
 
 ---
+
 ### Variants
 
 #### goz mask *Item 2*

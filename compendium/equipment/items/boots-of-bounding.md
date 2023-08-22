@@ -17,6 +17,7 @@ aliases: ["Boots of Bounding"]
 The springy soles of these sturdy leather boots cushion your feet and make each step lighter. These boots give you a +5-foot item bonus to your Speed and a +2 item bonus to [Athletics](compendium/skills.md#Athletics) checks to [High Jump](rules/actions/high-jump.md) and [Long Jump](rules/actions/long-jump.md). In addition, when you use the [Leap](rules/actions/leap.md) action, you can move 5 feet further if jumping horizontally or 3 feet higher if jumping vertically.
 
 ---
+
 ### Variants
 
 #### boots of bounding *Item 7*

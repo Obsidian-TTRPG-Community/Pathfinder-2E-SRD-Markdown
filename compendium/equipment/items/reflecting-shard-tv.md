@@ -22,6 +22,7 @@ aliases: ["Reflecting Shard"]
 This mirrored metal fragment is bolted or welded to the face of the affixed shield. When you Activate it, you attempt to reflect the triggering spell back at its caster with spell turning, using your [Athletics](compendium/skills.md#Athletics) modifier for the counteract check. The talisman's counteract level is 7th.
 
 ---
+
 ### Variants
 
 #### reflecting shard *Item 13*

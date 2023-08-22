@@ -31,6 +31,7 @@ On this check, you roll twice and take the higher result.
 ```
 
 ---
+
 ### Variants
 
 #### brooch of inspiration *Item 8*

@@ -16,5 +16,5 @@ aliases: ["Counter Element"]
 
 Your absolute dedication to a single element lets you attempt to gain control over it, even when the element is in service to another entity. You attempt to counteract the effect, using your kineticist class DC – 10 as your counteract check modifier and half this impulse's level rounded up as the counteract rank. If you counteract the effect, you protect only yourself unless you got a critical success on your counteract check.
 
-*Source: RoE p. 22*  
+*Source: Rage of Elements p. 22*  
 %% #compendium/src/pf2e/roe #trait/impulse #trait/kineticist %%

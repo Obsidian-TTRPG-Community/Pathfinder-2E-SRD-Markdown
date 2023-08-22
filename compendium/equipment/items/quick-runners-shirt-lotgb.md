@@ -28,6 +28,7 @@ You [Stride](rules/actions/stride.md) twice and gain a +10-foot item bonus to yo
 ```
 
 ---
+
 ### Variants
 
 #### quick runner's shirt *Item 5*

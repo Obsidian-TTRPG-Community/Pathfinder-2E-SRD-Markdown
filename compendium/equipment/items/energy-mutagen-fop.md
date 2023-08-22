@@ -27,6 +27,7 @@ When consumed, the mutagen suffuses your body with energy that spills out of you
 **Drawback** You gain weakness 5 to the other three energy types.
 
 ---
+
 ### Variants
 
 #### lesser *Item 1*

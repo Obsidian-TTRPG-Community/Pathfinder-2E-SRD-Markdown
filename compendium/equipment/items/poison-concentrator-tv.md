@@ -16,6 +16,7 @@ aliases: ["Poison Concentrator"]
 This compression apparatus can reduce two poisons into a more concentrated dose. As a 10-minute activity that has the [manipulate](rules/traits/manipulate.md "Manipulate General Trait") trait, you can use a poison concentrator to combine two doses of the same alchemical poison, creating a single concentrated poison with a +1 item bonus to its DC.
 
 ---
+
 ### Variants
 
 #### lesser poison concentrator *Item 5*

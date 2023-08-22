@@ -20,6 +20,7 @@ aliases: ["Lodestone Bomb"]
 Lodestone bombs hold reactive ionized minerals preserved in a dormant state until [broken](rules/conditions.md#Broken). The bomb grants an item bonus to attack rolls and deals force damage and force splash damage, according to the bomb's type. In addition, a target made of metal, wearing metal armor, or using metal weapons takes [persistent force damage](rules/conditions.md#Persistent%20Damage) and is [clumsy](rules/conditions.md#Clumsy) and [enfeebled](rules/conditions.md#Enfeebled) while taking the [persistent damage](rules/conditions.md#Persistent%20Damage). The [persistent damage](rules/conditions.md#Persistent%20Damage) can last up to 1 minute.
 
 ---
+
 ### Variants
 
 #### lodestone bomb *Item 12*

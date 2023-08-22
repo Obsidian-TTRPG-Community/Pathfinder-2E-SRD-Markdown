@@ -19,6 +19,7 @@ This magnetized suit is strapped to your body over your armor or clothes. When y
 While set to attract, you take a –1 item penalty to your AC against attacks made by metal weapons, while creatures within a 5-foot emanation other than you gain a +1 item bonus to their AC. If set to repel, you gain a +1 item bonus to AC against attacks made with metal weapons. While attracting metal, you gain a +1 item bonus to [Athletics](compendium/skills.md#Athletics) checks to [Climb](rules/actions/climb.md) metal objects and [Grapple](rules/actions/grapple.md) metal creatures and a –1 item penalty to [Athletics](compendium/skills.md#Athletics) checks to [Shove](rules/actions/shove.md) metal creatures. While repelling metal, you gain a +1 item bonus to [Athletics](compendium/skills.md#Athletics) checks to [Shove](rules/actions/shove.md) metal creatures, but you take a –1 item penalty to [Climb](rules/actions/climb.md) metal objects and [Grapple](rules/actions/grapple.md) metal creatures.
 
 ---
+
 ### Variants
 
 #### magnetic suit *Item 4*

@@ -16,6 +16,7 @@ aliases: ["Repeating Magazine"]
 > For use with repeating crossbows.
 
 ---
+
 ### Variants
 
 #### Crossbow *Item 0*

@@ -17,6 +17,7 @@ aliases: ["Smokestick"]
 With a sharp twist of this item, you instantly create a screen of thick, opaque smoke in a burst centered on one corner of your space. All creatures within that area are [concealed](rules/conditions.md#Concealed), and all other creatures are [concealed](rules/conditions.md#Concealed) to them. The smoke lasts for 1 minute or until dispersed by a strong wind.
 
 ---
+
 ### Variants
 
 #### lesser *Item 1*

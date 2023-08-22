@@ -25,8 +25,8 @@ You move across a narrow surface or uneven ground, attempting an [Acrobatics](co
 
 > [!pf2-example] Sample Balance Tasks
 > 
-> - **Untrained** tangled roots, uneven cobblestones
-> - **Trained** wooden beam
-> - **Expert** deep, loose gravel
-> - **Master** tightrope, smooth sheet of ice
-> - **Legendary** razor's edge, chunks of floor falling in midair
+> - **Untrained.** tangled roots, uneven cobblestones
+> - **Trained.** wooden beam
+> - **Expert.** deep, loose gravel
+> - **Master.** tightrope, smooth sheet of ice
+> - **Legendary.** razor's edge, chunks of floor falling in midair

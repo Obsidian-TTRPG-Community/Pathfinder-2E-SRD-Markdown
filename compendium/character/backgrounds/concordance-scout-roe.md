@@ -9,7 +9,7 @@ tags:
 aliases: ["Concordance Scout"]
 ---
 # Concordance Scout
-*Source: RoE p. 44*  
+*Source: Rage of Elements p. 44*  
 
 You were hired by the Concordance of Elements to seek out rumors of planar breaches or other evidence of planar imbalances. After reporting back to the Concordance, they'd send agents more well equipped to deal with the situation. Still, this job has led you into more trouble than your employers suspect, and you've learned how to get your information quickly and get out relatively unscathed.
 

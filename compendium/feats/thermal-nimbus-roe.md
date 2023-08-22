@@ -19,5 +19,5 @@ You direct waves of warmth into or out of your kinetic gate to drastically shift
 
 Elemental resistance from a gate junction is cumulative with resistance from Thermal Nimbus.
 
-*Source: RoE p. 28*  
+*Source: Rage of Elements p. 28*  
 %% #compendium/src/pf2e/roe #trait/fire #trait/impulse #trait/kineticist #trait/primal #trait/stance %%

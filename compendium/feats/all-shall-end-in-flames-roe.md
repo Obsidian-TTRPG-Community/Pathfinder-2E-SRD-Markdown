@@ -20,7 +20,5 @@ White-hot fire consumes everything in a cataclysmic sphere of death. The fire fi
 
 If you die to this impulse, you return to life at the start of your next turn in the same space. When you return, you have Hit Points equal to double your level.
 
-Level (20th) The damage is `15d6`.
-
-*Source: RoE p. 29*  
+*Source: Rage of Elements p. 29*  
 %% #compendium/src/pf2e/roe #trait/death #trait/fire #trait/impulse #trait/kineticist #trait/overflow #trait/primal %%

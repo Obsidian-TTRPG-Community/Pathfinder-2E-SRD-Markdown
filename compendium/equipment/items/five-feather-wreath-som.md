@@ -28,6 +28,7 @@ You cast [gale blast](compendium/spells/gale-blast-som.md).
 ```
 
 ---
+
 ### Variants
 
 #### five-feather wreath *Item 4*

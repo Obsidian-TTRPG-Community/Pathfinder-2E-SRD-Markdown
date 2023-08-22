@@ -19,7 +19,5 @@ Gleaming flakes of chilling snow fall in a 10-foot burst within 60 feet. Each cr
 
 Each square of the drift lasts until it melts, either naturally or until fire damage is dealt in that square.
 
-Level (+2) The damage increases by `1d4`.
-
-*Source: RoE p. 32*  
+*Source: Rage of Elements p. 32*  
 %% #compendium/src/pf2e/roe #trait/cold #trait/impulse #trait/kineticist #trait/primal #trait/water %%

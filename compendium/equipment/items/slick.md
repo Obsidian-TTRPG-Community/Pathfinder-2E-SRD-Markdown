@@ -16,6 +16,7 @@ aliases: ["Slick"]
 This property makes armor slippery, as though it were coated with a thin film of oil. You gain a +1 item bonus to [Acrobatics](compendium/skills.md#Acrobatics) checks to [Escape](rules/actions/escape.md) and [Squeeze](rules/actions/squeeze.md).
 
 ---
+
 ### Variants
 
 #### slick *Item 5*

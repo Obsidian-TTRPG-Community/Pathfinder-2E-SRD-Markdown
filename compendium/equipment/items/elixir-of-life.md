@@ -19,6 +19,7 @@ aliases: ["Elixir of Life"]
 Elixirs of life accelerate the body's natural healing processes and immune system. Upon drinking this elixir, you regain the listed number of Hit Points and gain an item bonus to saving throws against diseases and poisons for 10 minutes.
 
 ---
+
 ### Variants
 
 #### minor *Item 1*

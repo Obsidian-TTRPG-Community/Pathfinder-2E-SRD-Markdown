@@ -20,6 +20,7 @@ aliases: ["Salve of Antiparalysis"]
 Applying this filmy salve to a creature helps it overcome magical paralysis. The creature recovers as if it were the target of a 3rd-level [remove paralysis](compendium/spells/remove-paralysis.md) spell.
 
 ---
+
 ### Variants
 
 #### salve of antiparalysis *Item 6*

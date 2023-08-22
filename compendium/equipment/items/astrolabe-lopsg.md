@@ -15,6 +15,7 @@ aliases: ["Astrolabe"]
 Astrolabes can be used for navigation in unfamiliar or featureless locations. To use an astrolabe, the holder must be trained in [Survival](compendium/skills.md#Survival). By spending 1 minute to measure the height of the stars and planets, a holder who knows the time and date can determine the latitude, and a holder who knows their latitude can determine the date and time. An astrolabe also grants a +1 item bonus on checks to identify celestial bodies. A standard astrolabe only functions on steady ground.
 
 ---
+
 ### Variants
 
 #### standard astrolabe *Item 2*

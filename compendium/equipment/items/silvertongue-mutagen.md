@@ -24,6 +24,7 @@ Your features become striking and your voice becomes musical and commanding, tho
 **Drawback** You take a –2 item penalty to [Arcana](compendium/skills.md#Arcana), [Crafting](compendium/skills.md#Crafting), [Lore](compendium/skills.md#Lore), [Occultism](compendium/skills.md#Occultism), and [Society](compendium/skills.md#Society) checks. Choose one skill in which you are trained; for the duration, you become untrained in that skill. All your failures on checks to [Recall Knowledge](rules/actions/recall-knowledge.md) become critical failures.
 
 ---
+
 ### Variants
 
 #### lesser *Item 1*

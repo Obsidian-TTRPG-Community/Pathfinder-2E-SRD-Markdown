@@ -19,6 +19,7 @@ These brightly colored, soft-soled boots motivate you to perform risky stunts an
 The boots can grip solid surfaces and help you avoid a fall, allowing you to use the [Grab an Edge](rules/actions/grab-an-edge.md) reaction even if your hands aren't free. You treat falls as 10 feet shorter or, if you have the Cat Fall feat, treat your proficiency rank in [Acrobatics](compendium/skills.md#Acrobatics) as one degree better to determine the benefits of that feat. If you have Cat Fall and are already legendary in [Acrobatics](compendium/skills.md#Acrobatics), you can choose the speed of your fall, from 60 feet per round up to normal falling speed.
 
 ---
+
 ### Variants
 
 #### daredevil boots *Item 10*

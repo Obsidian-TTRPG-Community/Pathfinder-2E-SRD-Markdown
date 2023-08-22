@@ -17,6 +17,7 @@ The burnished red faces of djezet-alloy shields attract effects made of pure mag
 When taking energy damage from a spell, the shield's listed Hardness doubles.
 
 ---
+
 ### Variants
 
 #### standard-grade djezet buckler *Item 9*

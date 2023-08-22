@@ -29,6 +29,7 @@ You gain this benefit only once, even if you cast multiple [heal](compendium/spe
 ```
 
 ---
+
 ### Variants
 
 #### 3rd-level spell *Item 9*

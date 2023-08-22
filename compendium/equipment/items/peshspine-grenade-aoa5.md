@@ -22,6 +22,7 @@ Peshspine grenades are explosive bombs packed with alchemically treated needles 
 Many types of peshpine grenade grant an item bonus to attack rolls.
 
 ---
+
 ### Variants
 
 #### lesser *Item 1*

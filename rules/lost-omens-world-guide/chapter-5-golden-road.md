@@ -8,12 +8,12 @@ aliases: ["chapter-5-golden-road"]
 # Chapter 5: Golden Road
 <sup>LOWG p. 48</sup>
 
-- **Nations** Katapesh, Osirion, Qadira, Rahaddum, Thuvia
-- **Peoples** Dwarf, Garundi, Gnome, Hafling, Keleshite, Mwangi, Taldan, Tien, Vudrani
-- **Languages** Common, Kelish, Mwangi, Osiriani, Vudrani, Tien
-- **Factions** [Esoteric Order of the Palatine Eye](compendium/setting/deities/esoteric-order-of-the-palatine-eye-logm.md), Night Heralds, Pathfinder Society
-- **Religions** [Abadar](compendium/setting/deities/abadar.md), [Gozreh](compendium/setting/deities/gozreh.md), [Nethys](compendium/setting/deities/nethys.md), [Pharasma](compendium/setting/deities/pharasma.md), [Rovagug](compendium/setting/deities/rovagug.md), [Sarenrae](compendium/setting/deities/sarenrae.md)
-- **Resources** Alcohol/Drugs, Books/Lore, Grain/Fruit/Vegetables, Luxury Goods, Magic Items, Ores, Ships, Spices/Salt
+- **Nations.** Katapesh, Osirion, Qadira, Rahaddum, Thuvia
+- **Peoples.** Dwarf, Garundi, Gnome, Hafling, Keleshite, Mwangi, Taldan, Tien, Vudrani
+- **Languages.** Common, Kelish, Mwangi, Osiriani, Vudrani, Tien
+- **Factions.** [Esoteric Order of the Palatine Eye](compendium/setting/deities/esoteric-order-of-the-palatine-eye-logm.md), Night Heralds, Pathfinder Society
+- **Religions.** [Abadar](compendium/setting/deities/abadar.md), [Gozreh](compendium/setting/deities/gozreh.md), [Nethys](compendium/setting/deities/nethys.md), [Pharasma](compendium/setting/deities/pharasma.md), [Rovagug](compendium/setting/deities/rovagug.md), [Sarenrae](compendium/setting/deities/sarenrae.md)
+- **Resources.** Alcohol/Drugs, Books/Lore, Grain/Fruit/Vegetables, Luxury Goods, Magic Items, Ores, Ships, Spices/Salt
 
 > [!pf2-sidebar] TIMELINE
 > See page 50 of Lost Omens: World Guide

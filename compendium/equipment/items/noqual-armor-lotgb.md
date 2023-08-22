@@ -17,6 +17,7 @@ The mere sight of a suit of noqual armor is enough to make some opposing spellca
 While wearing noqual armor, you gain a +1 circumstance bonus to AC against spell attack rolls. If you [Cast a Spell](rules/actions/cast-a-spell.md) while wearing noqual armor, you must succeed at a DC 5 flat check or the spell fails.
 
 ---
+
 ### Variants
 
 #### standard-grade noqual armor *Item 12*

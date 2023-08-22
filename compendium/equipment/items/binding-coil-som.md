@@ -21,6 +21,7 @@ This talisman, a bright red coil that's warm to the touch and faintly resembles 
 Your opponent must succeed at a DC 20 [Escape](rules/actions/escape.md) check to break free. The coil breaks if you move any further away from the bound opponent, but not if you move any closer.
 
 ---
+
 ### Variants
 
 #### binding coil *Item 6*

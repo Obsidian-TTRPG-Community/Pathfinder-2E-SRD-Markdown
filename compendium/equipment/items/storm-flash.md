@@ -34,6 +34,7 @@ title: **Activate** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Action
 ```
 
 ---
+
 ### Variants
 
 #### storm flash *Item 14*

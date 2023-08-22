@@ -14,6 +14,7 @@ aliases: ["Replacement Cosmetics"]
 If you've crafted a large number of disguises, you can replenish your cosmetics supply with replacement cosmetics suitable for the type of your [disguise kit](compendium/equipment/items/disguise-kit.md).
 
 ---
+
 ### Variants
 
 #### Base *Item 0*

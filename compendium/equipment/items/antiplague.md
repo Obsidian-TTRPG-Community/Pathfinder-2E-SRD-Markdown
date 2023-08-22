@@ -21,6 +21,7 @@ Antiplague can fortify the body's defenses against diseases.
 Upon drinking an antiplague, you gain an item bonus to Fortitude saving throws against diseases for 24 hours; this applies to your daily save against a disease's progression.
 
 ---
+
 ### Variants
 
 #### lesser *Item 1*

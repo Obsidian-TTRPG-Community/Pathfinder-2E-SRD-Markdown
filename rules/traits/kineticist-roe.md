@@ -7,7 +7,7 @@ tags:
 aliases: ["Kineticist"]
 ---
 # Kineticist  
-*Source: RoE p. 237*  
+*Source: Rage of Elements p. 237*  
 
 This indicates abilities from the kineticist class.
 

@@ -32,6 +32,7 @@ You fire a mass of webbing at a square within 30 feet. That square becomes cover
 ```
 
 ---
+
 ### Variants
 
 #### spider gun *Item 6*

@@ -17,6 +17,7 @@ aliases: ["Alchemist Goggles"]
 These brass goggles are engraved with flame patterns and have thick, heavy lenses. While worn, they give you a +1 item bonus to [Crafting](compendium/skills.md#Crafting) checks to [Craft](rules/actions/craft.md) alchemical items and a +1 item bonus to attack rolls with alchemical bombs. You can also ignore lesser cover when making [Strikes](rules/actions/strike.md) with alchemical bombs.
 
 ---
+
 ### Variants
 
 #### alchemist goggles *Item 4*

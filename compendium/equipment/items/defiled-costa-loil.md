@@ -20,6 +20,7 @@ aliases: ["Defiled Costa"]
 This still-bloody rib was taken from a priest of [Urgathoa](compendium/setting/deities/urgathoa.md) at the moment they passed into undeath and has a constant stench of decay. The first time any creature critically fails its saving throw against a [mask of terror](compendium/spells/mask-of-terror.md) spell cast using this catalyst, it also takes `6d10` mental damage, with a basic Fortitude save against the spell's DC, as it lives through the memory of having its rib torn from its body. Once any creature takes this damage, the defiled costa's effect ends, and no other creatures take the damage, even if they critically fail.
 
 ---
+
 ### Variants
 
 #### greater *Item 17*

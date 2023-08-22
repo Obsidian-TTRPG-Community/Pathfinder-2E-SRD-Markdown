@@ -18,6 +18,7 @@ aliases: ["Etheric Essence Disruptor"]
 An etheric essence disruptor emits bursts of discordant ethereal energy through a process based upon Stasian etheric-spirit singers, though without the need for a Stasian coil. Etheric essence disruptors attempt to break down the workings of a spell that manipulates spiritual essence. Upon activation, attempt to counteract an active [divine](rules/traits/divine.md "Divine Tradition Trait") or [occult](rules/traits/occult.md "Occult Tradition Trait") spell within the listed range, with the listed counteract modifier and counteract level.
 
 ---
+
 ### Variants
 
 #### lesser *Item 3*

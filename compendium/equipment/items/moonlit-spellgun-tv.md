@@ -30,6 +30,7 @@ The spellgun emits a silvery ray of pure moonlight that deals fire damage depend
 > - **Success** The target takes full damage and is [dazzled](rules/conditions.md#Dazzled) until the start of your next turn.
 
 ---
+
 ### Variants
 
 #### minor *Item 2*

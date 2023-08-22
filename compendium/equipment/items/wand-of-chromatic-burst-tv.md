@@ -38,6 +38,7 @@ title: **Chromatic Armor Burst** [>](rules/core-rulebook/chapter-9-playing-the-g
 ```
 
 ---
+
 ### Variants
 
 #### 4th-level spell *Item 10*

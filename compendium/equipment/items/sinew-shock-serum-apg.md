@@ -21,6 +21,7 @@ This serum jolts the body to help shake off physical debilitations.
 When you drink this elixir, it attempts a counteract check with the listed counteract modifier to remove the [clumsy](rules/conditions.md#Clumsy) or [enfeebled](rules/conditions.md#Enfeebled) condition from a single source, using the source of that condition to determine the counteract level and DC.
 
 ---
+
 ### Variants
 
 #### lesser *Item 2*

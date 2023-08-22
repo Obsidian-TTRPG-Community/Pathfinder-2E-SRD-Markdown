@@ -25,6 +25,7 @@ This flask is filled with a murky purple gas that briefly interferes with normal
 On a hit, the target becomes [frightened](rules/conditions.md#Frightened), or [frightened](rules/conditions.md#Frightened) on a critical hit. Many types also grant an item bonus to attack rolls.
 
 ---
+
 ### Variants
 
 #### lesser *Item 1*

@@ -15,6 +15,7 @@ aliases: ["Adamantine Shield"]
 Adamantine shields are particularly sturdy, and when used for a shield bash, they are adamantine weapons.
 
 ---
+
 ### Variants
 
 #### standard-grade adamantine buckler *Item 8*

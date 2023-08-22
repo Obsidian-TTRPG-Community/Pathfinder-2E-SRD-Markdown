@@ -13,7 +13,7 @@ tags:
 aliases: ["Whirling Grindstone"]
 ---
 # Whirling Grindstone  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 4*  
-[attack](rules/traits/attack.md "Attack Combat Trait")  [composite](rules/traits/composite-roe.md "Composite Action & Ability Trait")  [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  metal  
+[attack](rules/traits/attack.md "Attack Combat Trait")  [composite](rules/traits/composite-roe.md "Composite Action & Ability Trait")  [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  [metal](rules/traits/metal-roe.md "Metal Energy & Element Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  
 
 - **Activity** Two-Action
 
@@ -21,7 +21,5 @@ A whirling grindstone made of flint appears in an unoccupied square within 30 fe
 
 A creature within reach of the grindstone can [Interact](rules/actions/interact.md) with it to sharpen a metal weapon. This grants a +2 circumstance bonus to the next damage roll made with that weapon within 1 minute.
 
-Level (+5) The grindstone's damage increases by `1d6` slashing and `1d6` fire, and the bonus to weapons increases by 1.
-
-*Source: RoE p. 36*  
+*Source: Rage of Elements p. 36*  
 %% #compendium/src/pf2e/roe #trait/attack #trait/composite #trait/earth #trait/impulse #trait/kineticist #trait/metal #trait/primal %%

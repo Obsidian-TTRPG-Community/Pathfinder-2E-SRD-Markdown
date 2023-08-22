@@ -19,6 +19,7 @@ aliases: ["Golden-Cased Bullet"]
 The magic-infused metal of this bullet's golden casing allows it to curve just a bit in flight once the bullet has been fired, allowing you to ignore the bonus to AC granted to a target in lesser cover.
 
 ---
+
 ### Variants
 
 #### standard *Item 4*

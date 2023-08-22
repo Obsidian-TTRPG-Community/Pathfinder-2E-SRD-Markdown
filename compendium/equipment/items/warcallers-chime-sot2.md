@@ -24,6 +24,7 @@ You ring the chime, unleashing its magic. The specifics of each chime, as well a
 ```
 
 ---
+
 ### Variants
 
 #### warcaller's chime of blasting *Item 6*

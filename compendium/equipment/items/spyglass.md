@@ -15,6 +15,7 @@ aliases: ["Spyglass"]
 A typical spyglass lets you see eight times farther than normal.
 
 ---
+
 ### Variants
 
 #### Base *Item 0*

@@ -19,6 +19,7 @@ To apply handcuffs, you must first grab or restrain your opponent, then attempt 
 If you bind a creature to itself, it takes the same penalties as those imposed by manacles (Core Rulebook 290). If you bind a creature to another creature (including yourself), the two creatures are locked together and must remain in adjacent spaces, and both creatures gain the [clumsy](rules/conditions.md#Clumsy) condition as long as they are handcuffed. If you lock a creature to an immobile object, such as a bar or tree, the creature is [immobilized](rules/conditions.md#Immobilized). (For creatures with an unusual physiology such as more or fewer limbs, the GM determines what effects handcuffs have, if any.) Handcuffs are unlocked via a key and are easier to slip out of than ordinary manacles. The chain between handcuffs can be [Broken](rules/conditions.md#Broken) Open with a single [Athletics](compendium/skills.md#Athletics) check.
 
 ---
+
 ### Variants
 
 #### average handcuffs *Item 3*

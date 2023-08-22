@@ -18,5 +18,5 @@ Stone encases you like armor. The stone armor is medium armor but uses your high
 
 The stone armor lasts for 10 minutes, and you can [Dismiss](rules/actions/dismiss.md) this impulse. If you use this impulse again, any existing one ends.
 
-*Source: RoE p. 26*  
+*Source: Rage of Elements p. 26*  
 %% #compendium/src/pf2e/roe #trait/earth #trait/impulse #trait/kineticist #trait/primal %%

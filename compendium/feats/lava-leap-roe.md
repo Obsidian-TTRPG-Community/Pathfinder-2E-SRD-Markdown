@@ -21,7 +21,5 @@ You wreath yourself in molten stone and hurtle toward your enemy. [Leap](rules/a
 
 The cooling remains of the lava form a temporary protective shell around you, granting you a +2 circumstance bonus to AC until the start of your next turn.
 
-Level (+3) Each type of damage increases by `1d6`.
-
-*Source: RoE p. 36*  
+*Source: Rage of Elements p. 36*  
 %% #compendium/src/pf2e/roe #trait/composite #trait/earth #trait/fire #trait/impulse #trait/kineticist #trait/overflow #trait/primal %%

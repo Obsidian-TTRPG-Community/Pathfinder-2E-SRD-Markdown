@@ -20,6 +20,7 @@ This mask is made from the gills of the red-rib salamander, an amphibious creatu
 After Activating the mask, you also gain the listed item bonus to Fortitude saves against [inhaled](rules/traits/inhaled.md "Inhaled Item Trait") effects; this bonus is increased against the deadly volcanic gas known around Terwa Lake as Dead Man's Breath, and possibly against other similar volcanic gases at the GM's discretion.
 
 ---
+
 ### Variants
 
 #### lesser *Item 2*

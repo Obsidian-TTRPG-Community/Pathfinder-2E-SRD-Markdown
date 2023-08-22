@@ -11,7 +11,7 @@ tags:
 aliases: ["Magnetic Field"]
 ---
 # Magnetic Field  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  metal  
+[impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  [metal](rules/traits/metal-roe.md "Metal Energy & Element Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
 
 - **Activity** Single Action
 
@@ -21,5 +21,5 @@ Attract A creature that is wearing metal armor, has the metal trait, or is made 
 
 Repel A creature that is wearing metal armor, has the metal trait, or is made of metal treats squares in your kinetic aura as difficult terrain when moving closer to you. You push unattended metal objects of light Bulk or less in your kinetic aura away. They stop moving once they're outside your aura.
 
-*Source: RoE p. 30*  
+*Source: Rage of Elements p. 30*  
 %% #compendium/src/pf2e/roe #trait/impulse #trait/kineticist #trait/metal #trait/primal #trait/stance %%

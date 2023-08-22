@@ -24,6 +24,7 @@ The second compartment has no lining. You can pull forth cookware and cooking ut
 The third compartment is lined with plush purple velvet and contains berry tarts wrapped in parchment paper. A creature can unwrap and eat one tart with an [Interact](rules/actions/interact.md) action to regain `2d8+4` Hit Points. The knapsack produces four tarts per day, which appear at breakfast time. Any tarts not eaten by the end of the day evaporate.
 
 ---
+
 ### Variants
 
 #### knapsack of halflingkind *Item 9*

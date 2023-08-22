@@ -15,5 +15,5 @@ Your elemental heritage is reflected in the oils and fragrances of plants, in tr
 
 The creature takes a –1 circumstance penalty on attack rolls with that weapon or unarmed attack until the end of its turn.
 
-*Source: RoE p. 47*  
+*Source: Rage of Elements p. 47*  
 %% #compendium/src/pf2e/roe #trait/ardande #trait/lineage %%

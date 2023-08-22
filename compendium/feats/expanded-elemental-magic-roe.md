@@ -13,5 +13,5 @@ aliases: ["Expanded Elemental Magic"]
 
 You reach new understandings of the elements, taking an expansive view. Add to your elemental philosophy any of the following elements it doesn't already include: air, earth, fire, metal, water, and wood.
 
-*Source: RoE p. 60*  
+*Source: Rage of Elements p. 60*  
 %% #compendium/src/pf2e/roe #trait/archetype %%

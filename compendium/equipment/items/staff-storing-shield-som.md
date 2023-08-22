@@ -25,6 +25,7 @@ You change the staff-storing shield from its shield form into the stored staff, 
 ```
 
 ---
+
 ### Variants
 
 #### staff-storing shield *Item 7*

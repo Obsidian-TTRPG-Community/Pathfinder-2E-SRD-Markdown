@@ -15,6 +15,7 @@ aliases: ["Grisantian Pelt Armor"]
 Grisantian pelt armor is immune to fire damage, and its Hardness is doubled against piercing or slashing damage. Wearing armor made from grisantian pelt also grants you a +1 circumstance bonus to your AC and saving throws against attacks and spells that deal fire damage.
 
 ---
+
 ### Variants
 
 #### standard-grade grisantian pelt armor *Item 12*

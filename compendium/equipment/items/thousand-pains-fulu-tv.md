@@ -22,6 +22,7 @@ Created by a chirurgeon who threw away morality in search of endless life, a tho
 > - **Failure** or critical failure primes the target for [persistent damage](rules/conditions.md#Persistent%20Damage) triggered by a specific condition that must be met within the fulu's duration.
 
 ---
+
 ### Variants
 
 #### burl thousand-pains fulu *Item 17*

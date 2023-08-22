@@ -21,5 +21,5 @@ Each day when you make your daily preparations, you can attune yourself to one e
 
 ## Summary
 
-*Source: RoE p. 59*  
+*Source: Rage of Elements p. 59*  
 %% #compendium/src/pf2e/roe #trait/archetype #trait/class #trait/dedication %%

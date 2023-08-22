@@ -27,6 +27,7 @@ You expend a number of charges from this instrument to cast a spell from its lis
 ```
 
 ---
+
 ### Variants
 
 #### pipes of compulsion *Item 4*

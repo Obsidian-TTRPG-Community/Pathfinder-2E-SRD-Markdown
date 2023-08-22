@@ -21,6 +21,7 @@ Soothing tonic is a pleasantly savory concoction that speeds your natural healin
 You gain fast healing for 1 minute in an amount depending on the tonic's type.
 
 ---
+
 ### Variants
 
 #### lesser *Item 2*

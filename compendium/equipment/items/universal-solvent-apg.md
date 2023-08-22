@@ -19,6 +19,7 @@ Originally formulated as a means of dissolving sovereign glue, this powerful sol
 As universal solvent is particularly effective against sovereign glue, it automatically dissolves sovereign glue. It attempts to counteract any other adhesives, such as tanglefoot bags, with a counteract modifier depending on the type.
 
 ---
+
 ### Variants
 
 #### moderate *Item 5*

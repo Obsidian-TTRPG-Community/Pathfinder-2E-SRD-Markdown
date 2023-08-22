@@ -18,6 +18,7 @@ You need these tools to create items from raw materials with the [Craft](rules/a
 > You can use the set of tools with one hand if you are wearing it.
 
 ---
+
 ### Variants
 
 #### Base *Item 0*

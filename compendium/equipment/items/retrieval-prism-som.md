@@ -22,6 +22,7 @@ This triangular prism showing swirling black patterns inside constantly moves ar
 The retrieval prism can't retrieve an item that's not on your plane, including one that's in an extradimensional space like a bag of holding. If you haven't expended the talisman, you can attune it to a different item by [Affixing the Talisman](rules/actions/affix-a-talisman.md) again.
 
 ---
+
 ### Variants
 
 #### retrieval prism *Item 3*

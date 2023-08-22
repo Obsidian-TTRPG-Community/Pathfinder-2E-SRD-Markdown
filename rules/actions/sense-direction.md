@@ -22,8 +22,8 @@ Using the stars, the position of the sun, traits of the geography or flora, or t
 
 > [!pf2-example] Sense Direction Tasks
 > 
-> - **Untrained** determine a cardinal direction using the sun
-> - **Trained** find an overgrown path in a forest
-> - **Expert** navigate a hedge maze
-> - **Master** navigate a byzantine labyrinth or relatively featureless desert
-> - **Legendary** navigate an ever-changing dream realm
+> - **Untrained.** determine a cardinal direction using the sun
+> - **Trained.** find an overgrown path in a forest
+> - **Expert.** navigate a hedge maze
+> - **Master.** navigate a byzantine labyrinth or relatively featureless desert
+> - **Legendary.** navigate an ever-changing dream realm

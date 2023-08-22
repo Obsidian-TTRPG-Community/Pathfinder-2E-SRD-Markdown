@@ -28,6 +28,7 @@ You cast [spout](compendium/spells/spout-som.md).
 ```
 
 ---
+
 ### Variants
 
 #### perfect droplet *Item 3*

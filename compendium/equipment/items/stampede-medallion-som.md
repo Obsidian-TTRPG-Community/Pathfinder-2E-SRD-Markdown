@@ -28,6 +28,7 @@ Each of these foes takes `8d6` bludgeoning damage, with a DC 29 basic Reflex sav
 ```
 
 ---
+
 ### Variants
 
 #### stampede medallion *Item 12*

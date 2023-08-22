@@ -24,6 +24,7 @@ You cast the [produce flame](compendium/spells/produce-flame.md) cantrip from th
 ```
 
 ---
+
 ### Variants
 
 #### flame tongue *Item 13*

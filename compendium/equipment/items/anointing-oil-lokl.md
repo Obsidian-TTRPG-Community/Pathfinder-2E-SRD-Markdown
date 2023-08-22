@@ -23,6 +23,7 @@ Carried by many Knights of Lastwall, this amber-colored, fragrant-smelling oil i
 The oil is repugnant to the undead. An undead creature that touches a corpse treated with this oil is [enfeebled](rules/conditions.md#Enfeebled) until the contact is [broken](rules/conditions.md#Broken) or the oil's effect wears off.
 
 ---
+
 ### Variants
 
 #### anointing oil *Item 4*

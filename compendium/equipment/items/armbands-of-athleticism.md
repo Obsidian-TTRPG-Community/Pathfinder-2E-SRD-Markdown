@@ -17,6 +17,7 @@ aliases: ["Armbands of Athleticism"]
 Skilled awl work has imprinted images of a muscled weightlifter into these tiered leather bands, which grant you enhanced stamina and skill when performing athletic exercises. While fastened to your upper arms, the armbands give you a +2 item bonus to [Athletics](compendium/skills.md#Athletics) checks. In addition, whenever you use an action to [Climb](rules/actions/climb.md) or [Swim](rules/actions/swim.md) and you succeed at the [Athletics](compendium/skills.md#Athletics) check, add a +5-foot item bonus to the distance you move.
 
 ---
+
 ### Variants
 
 #### armbands of athleticism *Item 9*

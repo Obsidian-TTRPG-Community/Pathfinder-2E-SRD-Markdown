@@ -13,6 +13,7 @@ aliases: ["Mask"]
 A mask helps you use the [Impersonate](rules/actions/impersonate.md) action to pass yourself off as someone you aren't.
 
 ---
+
 ### Variants
 
 #### ordinary mask *Item 0*

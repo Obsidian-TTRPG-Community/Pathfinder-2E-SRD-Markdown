@@ -17,6 +17,7 @@ aliases: ["Firestarter Pellets"]
 These compacted pellets of bat guano, sulfur, and magical accelerants have long been a staple for spellcasters on the battlefield. Adding a firestarter pellet to a [fireball](compendium/spells/fireball.md) spell produces clinging flames that deal [persistent fire damage](rules/conditions.md#Persistent%20Damage) to all who fail the saving throw against the effect (doubling on a critical failure).
 
 ---
+
 ### Variants
 
 #### firestarter pellets *Item 5*

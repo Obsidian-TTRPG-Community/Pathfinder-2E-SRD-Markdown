@@ -21,6 +21,7 @@ Focus briefly calms your neurons, helping ease [mental](rules/traits/mental.md "
 When you drink this elixir, the elixir attempts a counteract check with the listed counteract modifier to remove the [confused](rules/conditions.md#Confused) or [stupefied](rules/conditions.md#Stupefied) condition from a single source, using the source of that condition to determine the counteract level and DC.
 
 ---
+
 ### Variants
 
 #### lesser *Item 2*

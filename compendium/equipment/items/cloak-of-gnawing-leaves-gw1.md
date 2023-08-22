@@ -32,6 +32,7 @@ title: **Activate** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Action
 ```
 
 ---
+
 ### Variants
 
 #### cloak of gnawing leaves *Item 3*

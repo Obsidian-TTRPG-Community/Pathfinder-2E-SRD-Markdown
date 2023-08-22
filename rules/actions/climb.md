@@ -24,11 +24,11 @@ You move up, down, or across an incline. Unless it's particularly easy, you must
 
 > [!pf2-example] Sample Climb Tasks
 > 
-> - **Untrained** ladder, steep slope, low-branched tree
-> - **Trained** rigging, rope, typical tree
-> - **Expert** wall with small handholds and footholds
-> - **Master** ceiling with handholds and footholds, rock wall
-> - **Legendary** smooth surface
+> - **Untrained.** ladder, steep slope, low-branched tree
+> - **Trained.** rigging, rope, typical tree
+> - **Expert.** wall with small handholds and footholds
+> - **Master.** ceiling with handholds and footholds, rock wall
+> - **Legendary.** smooth surface
 
 > [!pf2-example] Table 4–4: Climb and Swim Distance
 > 

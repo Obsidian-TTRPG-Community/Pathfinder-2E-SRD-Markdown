@@ -22,6 +22,7 @@ Once activated, the mine is primed to explode when enough pressure is placed on 
 Typically, this occurs when a Small or larger creature moves onto the square, though it could happen if a creature intentionally places pressure on the square from a distance to safely trigger the mine. Once triggered, the mine explodes, dealing the listed fire damage to any creatures in a 5-foot emanation with a basic Reflex save.
 
 ---
+
 ### Variants
 
 #### lesser *Item 1*

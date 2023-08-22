@@ -28,6 +28,7 @@ You cast [ray of frost](compendium/spells/ray-of-frost.md).
 ```
 
 ---
+
 ### Variants
 
 #### rime crystal *Item 3*

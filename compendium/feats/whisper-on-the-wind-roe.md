@@ -21,5 +21,5 @@ You speak in a whisper, a soft wind carrying your words far away.
 
 This has the effect of the [message](compendium/spells/message.md) spell with a range of 500 feet, and it can target only a creature surrounded by air. If you start your message with the target's name, you and the target don't need to be able to see each other, nor do you need line of effect.
 
-*Source: RoE p. 24*  
+*Source: Rage of Elements p. 24*  
 %% #compendium/src/pf2e/roe #trait/air #trait/auditory #trait/illusion #trait/impulse #trait/kineticist #trait/linguistic #trait/primal %%

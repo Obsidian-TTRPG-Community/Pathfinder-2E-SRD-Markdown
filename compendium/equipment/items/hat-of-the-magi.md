@@ -17,6 +17,7 @@ aliases: ["Hat of the Magi"]
 This hat comes in many forms, such as a colorful turban or a pointy hat with a brim, and can bear symbols or runes. It grants you a +1 item bonus to [Arcana](compendium/skills.md#Arcana) checks and allows you to cast the [prestidigitation](compendium/spells/prestidigitation.md) cantrip as an arcane innate spell.
 
 ---
+
 ### Variants
 
 #### hat of the magi *Item 3*

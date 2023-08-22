@@ -17,5 +17,5 @@ You've refined the control you can exert over your elements. Add the following o
 - Regulate (air, fire, metal, or water only) You change the temperature of an existing element, making it colder or warmer. This can snuff out a flame or turn water to ice or steam. After this change, the element cools or warms naturally unless you Sustain the impulse. An item that gets cold or hot enough (as determined by the GM) can be used as an improvised weapon that deals 1 cold damage or 1 fire damage in addition to the damage the GM determines for the improvised weapon.
 - Sculpt (earth, metal, or wood only) Reshape an existing element into a small object of a design you choose. It looks crude and artificial on close examination. The sculpted element can be shaped into a functional short tool (or a long tool if your [Base Kinesis](rules/actions/base-kinesis-roe.md) can affect 1 Bulk or greater). It's too fragile and artificial to be used as a weapon or have any monetary value.
 
-*Source: RoE p. 20*  
+*Source: Rage of Elements p. 20*  
 %% #compendium/src/pf2e/roe #trait/kineticist %%

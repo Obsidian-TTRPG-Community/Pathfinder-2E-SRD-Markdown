@@ -22,6 +22,7 @@ Your joints loosen and bones thicken, making your body incredibly weighty and di
 Benefit You gain an item bonus to [Athletics](compendium/skills.md#Athletics) checks to [Shove](rules/actions/shove.md) and [Trip](rules/actions/trip.md), to your Fortitude and Reflex DCs against attempts to [Shove](rules/actions/shove.md) or [Trip](rules/actions/trip.md) you, and to saving throws against effects that attempt to force you to move or knock you [prone](rules/conditions.md#Prone). Drawback You gain the [encumbered](rules/conditions.md#Encumbered) condition and can't remove it while under the effects of the mutagen.
 
 ---
+
 ### Variants
 
 #### lesser *Item 1*

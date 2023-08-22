@@ -24,6 +24,7 @@ You gain inner serenity, focused on fine details and steeled against mental assa
 **Drawback** You take a –1 penalty to attack rolls and save DCs of offensive spells, and a –1 penalty per damage die to all weapon, unarmed attack, and spell damage.
 
 ---
+
 ### Variants
 
 #### lesser *Item 1*

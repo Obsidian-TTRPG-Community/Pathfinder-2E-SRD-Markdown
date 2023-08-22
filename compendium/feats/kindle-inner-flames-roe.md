@@ -17,7 +17,5 @@ aliases: ["Kindle Inner Flames"]
 
 As a candle can light another, you awaken the latent potential to channel fire in other creatures. You shed faint, glowing embers, as do your allies while they're in your kinetic aura. Anyone shedding these embers gains a +1 status bonus to Reflex saves and [Acrobatics](compendium/skills.md#Acrobatics) checks and can [Step](rules/actions/step.md) as a free action once per round. When an affected creature takes a move action, its Strikes deal an extra 2 fire damage until the end of its turn.
 
-Level (12th) The status bonus to Reflex saves and [Acrobatics](compendium/skills.md#Acrobatics) checks is +2, and the Strikes gain the flaming rune instead of the extra 2 fire damage.
-
-*Source: RoE p. 29*  
+*Source: Rage of Elements p. 29*  
 %% #compendium/src/pf2e/roe #trait/fire #trait/impulse #trait/kineticist #trait/primal #trait/stance %%

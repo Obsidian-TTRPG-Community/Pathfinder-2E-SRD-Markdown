@@ -17,6 +17,7 @@ aliases: ["Bracers of Armor"]
 These stiff leather armguards grant you a +1 item bonus to AC and saving throws, and a maximum Dexterity modifier of +5. You can affix talismans to bracers of armor as though they were light armor.
 
 ---
+
 ### Variants
 
 #### I *Item 8*

@@ -24,6 +24,7 @@ A glistening, tar‑like substance that's displeasing to the touch coats a black
 > - **Critical Failure** The target is [slowed](rules/conditions.md#Slowed), [blinded](rules/conditions.md#Blinded), and [deafened](rules/conditions.md#Deafened).
 
 ---
+
 ### Variants
 
 #### lesser *Item 7*

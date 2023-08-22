@@ -28,6 +28,7 @@ You bite the poison fizz to release its poisonous liquid center and spray green 
 ```
 
 ---
+
 ### Variants
 
 #### lesser *Item 8*

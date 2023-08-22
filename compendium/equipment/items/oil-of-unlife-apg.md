@@ -22,6 +22,7 @@ This thin, black liquid imparts a bone-deep chill while rapidly repairing an und
 You can pour oil of unlife on an incorporeal undead; in this case, the creature absorbs the oil into itself.
 
 ---
+
 ### Variants
 
 #### minor *Item 1*

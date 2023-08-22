@@ -28,6 +28,7 @@ When you cast a ritual of 5th level or lower within the stone circle, the first 
 ```
 
 ---
+
 ### Variants
 
 #### stone circle *Item 10*

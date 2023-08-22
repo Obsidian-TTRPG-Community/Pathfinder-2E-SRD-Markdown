@@ -16,5 +16,5 @@ For [any](rules/traits/any-b1.md "Any Alignment Trait") effects of these items t
 
 You can also prepare a staff that has at least one spell with an appropriate trait, using half your level rounded up to determine the number of charges you add. This doesn't allow you to cast spells without the trait of one of your kinetic elements, and you don't get the extra benefits prepared and spontaneous spellcasters do.
 
-*Source: RoE p. 21*  
+*Source: Rage of Elements p. 21*  
 %% #compendium/src/pf2e/roe #trait/kineticist %%
