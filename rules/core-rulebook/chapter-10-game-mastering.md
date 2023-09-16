@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-book
+cssclasses: pf2e,pf2e-book
 tags:
 - compendium/src/pf2e/crb
 aliases: ["chapter-10-game-mastering"]
@@ -1614,7 +1614,7 @@ Wildfires travel mainly along a front moving in a single direction. In a forest,
 ##### Flames
 <sup>CRB p. 519</sup>
 
-Flames are hazardous terrain, usually dealing moderate damage and potentially setting a character on fire, dealing moderate persistent fire damage. The flames from a small fire are often less dangerous than the advancing heat from the front of a large fire.
+Flames are hazardous terrain, usually dealing moderate damage and potentially setting a character on fire, dealing moderate [persistent fire damage](rules/conditions.md#Persistent%20Damage). The flames from a small fire are often less dangerous than the advancing heat from the front of a large fire.
 
 ##### Heat
 <sup>CRB p. 519</sup>

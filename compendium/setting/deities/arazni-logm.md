@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-deity
+cssclasses: pf2e,pf2e-deity
 tags:
 - compendium/src/pf2e/logm
 - deity/gods-of-the-inner-sea
@@ -39,7 +39,7 @@ title: [Avatar](compendium/spells/avatar.md) of Arazni
 - **Speed**: Speed 70 feet, [air walk](compendium/spells/air-walk.md), immune to [immobilized](rules/conditions.md#Immobilized)
 - **Shield**: shield ( Hardness, can't be damaged)
 - **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") rapier (, [deadly <3d8>](rules/traits/deadly-3d8.md "Deadly Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait")), **Damage** `6d8+6` piercing 
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") call blood (), **Damage** `6d6` persistent bleed damage 
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") call blood (), **Damage** `6d6` [persistent bleed damage](rules/conditions.md#Persistent%20Damage) 
 ```
 
 ## Divine intercession

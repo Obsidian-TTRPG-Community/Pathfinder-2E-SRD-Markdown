@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-archetype
+cssclasses: pf2e,pf2e-archetype
 tags:
 - archetype/benefit/spellcasting
 - compendium/src/pf2e/lotgb

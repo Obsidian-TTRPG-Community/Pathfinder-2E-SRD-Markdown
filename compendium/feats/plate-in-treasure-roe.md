@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-feat
+cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/roe
 - trait/impulse
@@ -14,7 +14,7 @@ aliases: ["Plate in Treasure"]
 
 - **Activity** Single Action
 
-Precious metal flows from your fingers to plate an object. This has the effects of a clad in metal spell (page 142) with a rank equal to half your level rounded up. While you're wearing or holding an item of light Bulk or greater that's Plated in Treasure, any metal created by one of your impulses is plated with the metal. If you use Plate in Treasure again, any previous one ends.
+Precious metal flows from your fingers to plate an object. This has the effects of a clad in metal spell with a rank equal to half your level rounded up. While you're wearing or holding an item of light Bulk or greater that's Plated in Treasure, any metal created by one of your impulses is plated with the metal. If you use Plate in Treasure again, any previous one ends.
 
 *Source: Rage of Elements p. 30*  
 %% #compendium/src/pf2e/roe #trait/impulse #trait/kineticist #trait/metal #trait/primal %%

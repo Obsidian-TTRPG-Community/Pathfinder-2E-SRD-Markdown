@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-trait
+cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/crb
 - trait/category/creature

@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-book
+cssclasses: pf2e,pf2e-book
 tags:
 - book-core-secrets-of-magic
 - compendium/src/pf2e/som

@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-feat
+cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/apg
 - trait/alchemist
@@ -19,7 +19,7 @@ title: **Fire in the Hole** [R](rules/core-rulebook/chapter-9-playing-the-game.m
 
 - **Trigger**: A creature moves into the hazard's space
 
-**Effect** The hazard explodes, dealing the bombs' damage and splash damage to the inanimate object. Combine this damage for the purpose of resistances and weaknesses, and this damage ignores an amount of the object's Hardness equal to your level. Any creatures adjacent to the hazard take the bombs' splash damage, similarly combined for the purpose of resistances and weaknesses.
+**Effect** The hazard explodes, dealing the bombs' damage and [splash](rules/traits/splash.md "Splash Weapon Trait") damage to the inanimate object. Combine this damage for the purpose of resistances and weaknesses, and this damage ignores an amount of the object's Hardness equal to your level. Any creatures adjacent to the hazard take the bombs' [splash](rules/traits/splash.md "Splash Weapon Trait") damage, similarly combined for the purpose of resistances and weaknesses.
 
 As a reminder, since you didn't throw the bombs, Calculated Splash and similar effects don't apply.
 ```

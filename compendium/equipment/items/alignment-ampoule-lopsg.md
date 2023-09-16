@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-item
+cssclasses: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/lopsg
 - item/category/bomb/
@@ -27,25 +27,25 @@ If a creature has multiple eligible weaknesses, randomly determine the damage ty
 
 - **Price**: 4 gp
 
-The ampoule deals 1 damage and 1 splash damage.
+The ampoule deals 1 damage and 1 [splash](rules/traits/splash.md "Splash Weapon Trait") damage.
 
 #### moderate *Item 3*
 
 - **Price**: 12 gp
 
-You gain a +1 item bonus to attack rolls. The bomb deals `1d4` damage and 2 splash damage.
+You gain a +1 item bonus to attack rolls. The bomb deals `1d4` damage and 2 [splash](rules/traits/splash.md "Splash Weapon Trait") damage.
 
 #### greater *Item 11*
 
 - **Price**: 300 gp
 
-You gain a +2 item bonus to attack rolls. The bomb deals `2d4` damage and 3 splash damage.
+You gain a +2 item bonus to attack rolls. The bomb deals `2d4` damage and 3 [splash](rules/traits/splash.md "Splash Weapon Trait") damage.
 
 #### major *Item 17*
 
 - **Price**: 3000 gp
 
-You gain a +3 item bonus to attack rolls. The bomb deals `3d4` damage and 4 splash damage.
+You gain a +3 item bonus to attack rolls. The bomb deals `3d4` damage and 4 [splash](rules/traits/splash.md "Splash Weapon Trait") damage.
 
 ---
 *Source: Lost Omens: Pathfinder Society Guide p. 39*

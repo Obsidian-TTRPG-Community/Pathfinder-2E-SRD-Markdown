@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-feat
+cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/ec6
 - trait/additive-2
@@ -12,7 +12,7 @@ aliases: ["Astonishing Explosion"]
 [additive <2>](rules/traits/additive-2.md "Additive Feat Trait")  [alchemist](rules/traits/alchemist.md "Alchemist Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Frequency**: once per minute
-- **Trigger** You use [Quick Alchemy](rules/actions/quick-alchemy.md) to craft an alchemical bomb that deals splash damage and is at least 2 levels lower than your advanced alchemy level.
+- **Trigger** You use [Quick Alchemy](rules/actions/quick-alchemy.md) to craft an alchemical bomb that deals [splash](rules/traits/splash.md "Splash Weapon Trait") damage and is at least 2 levels lower than your advanced alchemy level.
 - **Activity** Free Action
 
 Your bomb incorporates an explosive spark of wonder that leaves witnesses dumbfounded. Any target hit by your [Strike](rules/actions/strike.md) with the bomb is [fascinated](rules/conditions.md#Fascinated) by you for 1 round. On a critical success, the target is also [stunned](rules/conditions.md#Stunned).

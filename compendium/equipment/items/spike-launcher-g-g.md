@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-item
+cssclasses: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/g&g
 - item/category/weapon/beast-gun
@@ -17,7 +17,7 @@ aliases: ["Spike Launcher"]
 - **Bulk** 2; **Usage** held in 1 or 2 hands
 - **Category** Beast Gun
 
-Built from the spiked tail of a manticore, a spike launcher is designed to launch large, spear-like projectiles. A spike launcher is a +1 striking weapon. It's a distinct type of martial firearm that deals `1d8` piercing damage. It has the backstabber, fatal aim d12, and kickback traits with a range increment of 120 feet and reload <2>. It uses the critical specialization of the bow weapon group, rather than the firearm critical specialization.
+Built from the spiked tail of a manticore, a spike launcher is designed to launch large, spear-like projectiles. A spike launcher is a +1 striking weapon. It's a distinct type of martial firearm that deals `1d8` piercing damage. It has the backstabber, fatal aim d12, and kickback traits with a range increment of 120 feet and reload 2. It uses the critical specialization of the bow weapon group, rather than the firearm critical specialization.
 
 ```ad-embed-ability
 title: **Activate** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") [Interact](rules/actions/interact.md) ([evocation](rules/traits/evocation.md), [magical](rules/traits/magical.md))

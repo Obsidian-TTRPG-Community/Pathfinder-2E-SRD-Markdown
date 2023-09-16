@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-item
+cssclasses: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
 - item/category/artifact/
@@ -15,7 +15,7 @@ aliases: ["Whisperer of Souls"]
 
 - **Bulk** 2; **Usage** held in 2 hands
 
-This +4 major striking greater brilliant SoM keen glaive binds the souls of powerful creatures it slays. The soul can't be returned to life by any means while imprisoned within the glaive and can be freed only by a deed of great benevolence or selflessness. While using the glaive as a weapon, whenever you reduce a sapient creature of 18th level or higher to 0 Hit Points or roll a critical success with a [Strike](rules/actions/strike.md) against such a target, the creature must attempt a DC 50 Fortitude save.
+This +4 major striking greater brilliant [keen](compendium/equipment/items/keen.md) [glaive](compendium/equipment/items/glaive.md) binds the souls of powerful creatures it slays. The soul can't be returned to life by any means while imprisoned within the glaive and can be freed only by a deed of great benevolence or selflessness. While using the glaive as a weapon, whenever you reduce a sapient creature of 18th level or higher to 0 Hit Points or roll a critical success with a [Strike](rules/actions/strike.md) against such a target, the creature must attempt a DC 50 Fortitude save.
 
 > [!success-degree] 
 > - **Critical Success** No additional effect.

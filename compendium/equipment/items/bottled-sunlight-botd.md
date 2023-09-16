@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-item
+cssclasses: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/botd
 - item/category/bomb/
@@ -29,25 +29,25 @@ This mirrored bottle contains various chemicals dissolved in two immiscible solv
 
 - **Price**: 7 gp
 
-The bomb deals `1d4` positive damage and 1 positive splash damage, as well as `1d4` additional fire damage. As normal, positive damage harms only undead and other creatures with negative healing. Undead with a particular vulnerability to sunlight (such as vampires or wraiths) take the maximum amount of positive damage from bottled sunlight (4 instead of `1d4`). For any ability that depends on the number of weapon dice bottled sunlight has, count only the positive damage dice.
+The bomb deals `1d4` positive damage and 1 positive [splash](rules/traits/splash.md "Splash Weapon Trait") damage, as well as `1d4` additional fire damage. As normal, positive damage harms only undead and other creatures with negative healing. Undead with a particular vulnerability to sunlight (such as vampires or wraiths) take the maximum amount of positive damage from bottled sunlight (4 instead of `1d4`). For any ability that depends on the number of weapon dice bottled sunlight has, count only the positive damage dice.
 
 #### moderate *Item 4*
 
 - **Price**: 20 gp
 
-The bomb deals `2d4` positive damage, 2 positive splash damage, and `2d4` additional fire damage.
+The bomb deals `2d4` positive damage, 2 positive [splash](rules/traits/splash.md "Splash Weapon Trait") damage, and `2d4` additional fire damage.
 
 #### greater *Item 12*
 
 - **Price**: 360 gp
 
-The bomb deals `3d4` positive damage, 3 positive splash damage, and `3d4` additional fire damage.
+The bomb deals `3d4` positive damage, 3 positive [splash](rules/traits/splash.md "Splash Weapon Trait") damage, and `3d4` additional fire damage.
 
 #### major *Item 18*
 
 - **Price**: 4500 gp
 
-The bomb deals `4d4` positive damage, 4 positive splash damage, and `4d4` additional fire damage.
+The bomb deals `4d4` positive damage, 4 positive [splash](rules/traits/splash.md "Splash Weapon Trait") damage, and `4d4` additional fire damage.
 
 ---
 *Source: Book of the Dead p. 18*

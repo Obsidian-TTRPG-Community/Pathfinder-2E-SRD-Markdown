@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-item
+cssclasses: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/apg
 - item/category/held/
@@ -20,7 +20,7 @@ This seemingly unremarkable, weathered silver coin bears the bust of an unnamed 
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") [Interact](rules/actions/interact.md)
 
 
-You rub your thumb on one side of the coin with the intent of slightly tweaking the strands of fate, then flip the coin into the air in a coin toss. No matter how the toss is resolved— letting the coin fall to the ground, slapping it down on the back of your hand, or catching it on your open palm—it always lands with the side you rubbed face up.
+You rub your thumb on one side of the coin with the intent of slightly tweaking the strands of fate, then flip the coin into the air in a coin toss. No matter how the toss is resolved—letting the coin fall to the ground, slapping it down on the back of your hand, or catching it on your open palm—it always lands with the side you rubbed face up.
 ```
 
 

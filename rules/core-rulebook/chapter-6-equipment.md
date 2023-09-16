@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-book
+cssclasses: pf2e,pf2e-book
 tags:
 - compendium/src/pf2e/crb
 aliases: ["chapter-6-equipment"]
@@ -114,7 +114,7 @@ An item's Hardness, Hit Points, and [Broken](rules/conditions.md#Broken) Thresho
 
 > [!pf2-beige] Broken
 > 
-> Broken is a condition that affects objects. An object is broken when damage has reduced its Hit Points to equal or less than its Broken Threshold. A broken object can't be used for its normal function, nor does it grant bonuses— with the exception of armor. Broken armor still grants its item bonus to AC, but it also imparts a status penalty to AC depending on its category: –1 for broken light armor, –2 for broken medium armor, or –3 for broken heavy armor.
+> Broken is a condition that affects objects. An object is broken when damage has reduced its Hit Points to equal or less than its Broken Threshold. A broken object can't be used for its normal function, nor does it grant bonuses—with the exception of armor. Broken armor still grants its item bonus to AC, but it also imparts a status penalty to AC depending on its category: –1 for broken light armor, –2 for broken medium armor, or –3 for broken heavy armor.
 > 
 > A broken item still imposes penalties and limitations normally incurred by carrying, holding, or wearing it. For example, broken armor would still impose its Dexterity modifier cap, check penalty, and so forth.
 > 
@@ -471,7 +471,7 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 **Axe:** Choose one creature adjacent to the initial target and within reach. If its AC is lower than your attack roll result for the critical hit, you deal damage to that creature equal to the result of the weapon damage die you rolled (including extra dice for its potency rune, if any). This amount isn't doubled, and no bonuses or other additional dice apply to this damage.
 
-**Bomb:** Increase the radius of the bomb's splash damage (if any) to 10 feet.
+**Bomb:** Increase the radius of the bomb's [splash](rules/traits/splash.md "Splash Weapon Trait") damage (if any) to 10 feet.
 
 **Bow:** If the target of the critical hit is adjacent to a surface, it gets stuck to that surface by the missile. The target is immobilized and must spend an Interact action to attempt a DC 10 [Athletics](compendium/skills.md#Athletics) check to pull the missile free; it can't move from its space until it succeeds. The creature doesn't become stuck if it is incorporeal, is liquid (like a water elemental or some oozes), or could otherwise escape without effort.
 
@@ -544,7 +544,7 @@ The pack contains the following items: backpack (containing the other goods), be
 
 **Basic Crafter's Book:** This book contains the 0 for [Crafting](compendium/skills.md#Crafting) the common items in this chapter.
 
-**Caltrops:** These four-pronged metal spikes can cause damage to a creature's feet. You can scatter caltrops in an empty square adjacent to you with an Interact action. The first creature that moves into that square must succeed at a DC 14 [Acrobatics](compendium/skills.md#Acrobatics) check or take 1d4 piercing damage and 1 persistent bleed damage. A creature taking persistent bleed damage from caltrops takes a –5-foot penalty to its Speed. Spending an Interact action to pluck the caltrops free reduces the DC to stop the bleeding. Once a creature takes damage from caltrops, enough caltrops are ruined that other creatures moving into the square are safe.
+**Caltrops:** These four-pronged metal spikes can cause damage to a creature's feet. You can scatter caltrops in an empty square adjacent to you with an Interact action. The first creature that moves into that square must succeed at a DC 14 [Acrobatics](compendium/skills.md#Acrobatics) check or take 1d4 piercing damage and 1 [persistent bleed damage](rules/conditions.md#Persistent%20Damage). A creature taking [persistent bleed damage](rules/conditions.md#Persistent%20Damage) from caltrops takes a –5-foot penalty to its Speed. Spending an Interact action to pluck the caltrops free reduces the DC to stop the bleeding. Once a creature takes damage from caltrops, enough caltrops are ruined that other creatures moving into the square are safe.
 
 Deployed caltrops can be salvaged and reused if no creatures took damage from them. Otherwise, enough caltrops are ruined that they can't be salvaged.
 
@@ -751,19 +751,19 @@ The items listed on Table 6–11 are the most widely available alchemical items 
 #### Alchemical Bombs
 <sup>CRB p. 292</sup>
 
-Alchemical bombs are consumable weapons that deal damage or produce special effects, and they sometimes deal splash damage. For more on alchemical bombs, see page 544.
+Alchemical bombs are consumable weapons that deal damage or produce special effects, and they sometimes deal [splash](rules/traits/splash.md "Splash Weapon Trait") damage. For more on alchemical bombs, see page 544.
 
-**Lesser Acid Flask:** This alchemical bomb deals 1 acid damage, 1d6 persistent acid damage, and 1 acid splash damage.
+**Lesser Acid Flask:** This alchemical bomb deals 1 acid damage, `1d6` [persistent acid damage](rules/conditions.md#Persistent%20Damage), and 1 acid [splash](rules/traits/splash.md "Splash Weapon Trait") damage.
 
-**Lesser Alchemist's Fire:** This alchemical bomb deals 1d8 fire damage, 1 persistent fire damage, and 1 fire splash damage.
+**Lesser Alchemist's Fire:** This alchemical bomb deals 1d8 fire damage, 1 [persistent fire damage](rules/conditions.md#Persistent%20Damage), and 1 fire [splash](rules/traits/splash.md "Splash Weapon Trait") damage.
 
-**Lesser Bottled Lightning:** This alchemical bomb deals 1d6 electricity damage and 1 electricity splash damage, and it makes the target [flat-footed](rules/conditions.md#Flat-footed).
+**Lesser Bottled Lightning:** This alchemical bomb deals `1d6` electricity damage and 1 electricity [splash](rules/traits/splash.md "Splash Weapon Trait") damage, and it makes the target [flat-footed](rules/conditions.md#Flat-footed).
 
-**Lesser Frost Vial:** This alchemical bomb deals 1d6 cold damage and 1 cold splash damage, and it gives the target a –5-foot status penalty to its Speeds until the end of its next turn.
+**Lesser Frost Vial:** This alchemical bomb deals `1d6` cold damage and 1 cold [splash](rules/traits/splash.md "Splash Weapon Trait") damage, and it gives the target a –5-foot status penalty to its Speeds until the end of its next turn.
 
 **Lesser Tanglefoot Bag:** This alchemical bomb gives the target a –10-foot status penalty to its Speeds for 1 minute, and the target is immobilized on a critical hit unless it [Escapes](rules/actions/escape.md).
 
-**Lesser Thunderstone:** This alchemical bomb deals `1d4` sonic damage and 1 sonic splash damage, and any creature within 10 feet that fails a DC 17 Fortitude save is deafened until the end of its turn.
+**Lesser Thunderstone:** This alchemical bomb deals `1d4` sonic damage and 1 sonic [splash](rules/traits/splash.md "Splash Weapon Trait") damage, and any creature within 10 feet that fails a DC 17 Fortitude save is deafened until the end of its turn.
 
 #### Elixirs
 <sup>CRB p. 292</sup>
@@ -799,9 +799,9 @@ The items on Table 6–12 are the magic items from Chapter 11 that a 1st-level c
 
 You can typically purchase [holy](compendium/equipment/items/holy-water.md) and [unholy water](compendium/equipment/items/unholy-water.md) in a settlement. Particularly good settlements tend to ban [unholy water](compendium/equipment/items/unholy-water.md) and evil settlements tend to ban [holy water](compendium/equipment/items/holy-water.md).
 
-**Holy Water:** You can throw [holy water](compendium/equipment/items/holy-water.md) like a bomb, dealing `1d6` good damage and 1 good splash damage to fiends, undead, and other creatures weak to good damage.
+**Holy Water:** You can throw [holy water](compendium/equipment/items/holy-water.md) like a bomb, dealing `1d6` good damage and 1 good [splash](rules/traits/splash.md "Splash Weapon Trait") damage to fiends, undead, and other creatures weak to good damage.
 
-**Unholy Water:** You can throw [unholy water](compendium/equipment/items/unholy-water.md) like a bomb, dealing `1d6` evil damage and 1 evil splash damage to celestials and other creatures weak to evil damage.
+**Unholy Water:** You can throw [unholy water](compendium/equipment/items/unholy-water.md) like a bomb, dealing `1d6` evil damage and 1 evil [splash](rules/traits/splash.md "Splash Weapon Trait") damage to celestials and other creatures weak to evil damage.
 
 #### Potions
 <sup>CRB p. 293</sup>

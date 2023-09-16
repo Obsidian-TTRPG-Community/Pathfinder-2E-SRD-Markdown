@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-action
 tags:
 - action/class/investigator-apg
 - compendium/src/pf2e/apg

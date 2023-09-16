@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-item
+cssclasses: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
 - item/category/bomb/
@@ -18,7 +18,7 @@ aliases: ["Skunk Bomb"]
 - **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Strike](rules/actions/strike.md)
 
-Skunk bombs are made from the concentrated odors of xulgaths, hezrous, and other creatures with natural or supernatural stench. The bomb grants an item bonus to attack rolls and deals poison damage and poison splash damage. Any creature hit by the bomb or in its splash area must attempt a Fortitude saving throw with a DC based on the bomb's type. Creatures in the splash area treat the results of their saving throw as one step better.
+Skunk bombs are made from the concentrated odors of xulgaths, hezrous, and other creatures with natural or supernatural stench. The bomb grants an item bonus to attack rolls and deals poison damage and poison [splash](rules/traits/splash.md "Splash Weapon Trait") damage. Any creature hit by the bomb or in its splash area must attempt a Fortitude saving throw with a DC based on the bomb's type. Creatures in the splash area treat the results of their saving throw as one step better.
 
 > [!success-degree] 
 > - **Critical Success** The target is unaffected.
@@ -36,25 +36,25 @@ Skunk bombs are made from the concentrated odors of xulgaths, hezrous, and other
 
 - **Price**: 4 gp
 
-The bomb deals `1d4` poison damage and 1 poison splash damage. The Fortitude DC is 15.
+The bomb deals `1d4` poison damage and 1 poison [splash](rules/traits/splash.md "Splash Weapon Trait") damage. The Fortitude DC is 15.
 
 #### moderate *Item 3*
 
 - **Price**: 12 gp
 
-You gain a +1 item bonus to attack rolls. The bomb deals `2d4` poison damage and 2 poison splash damage. The Fortitude DC is 17.
+You gain a +1 item bonus to attack rolls. The bomb deals `2d4` poison damage and 2 poison [splash](rules/traits/splash.md "Splash Weapon Trait") damage. The Fortitude DC is 17.
 
 #### greater *Item 11*
 
 - **Price**: 240 gp
 
-You gain a +2 item bonus to attack rolls. The bomb deals `3d4` poison damage and 3 poison splash damage. The Fortitude DC is 28.
+You gain a +2 item bonus to attack rolls. The bomb deals `3d4` poison damage and 3 poison [splash](rules/traits/splash.md "Splash Weapon Trait") damage. The Fortitude DC is 28.
 
 #### major *Item 17*
 
 - **Price**: 2400 gp
 
-You gain a +3 item bonus to attack rolls. The bomb deals `4d4` poison damage and 4 poison splash damage. The Fortitude DC is 37.
+You gain a +3 item bonus to attack rolls. The bomb deals `4d4` poison damage and 4 poison [splash](rules/traits/splash.md "Splash Weapon Trait") damage. The Fortitude DC is 37.
 
 ---
 *Source: Treasure Vault p. 45*

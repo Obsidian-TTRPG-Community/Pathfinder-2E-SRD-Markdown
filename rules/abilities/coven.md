@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-ability
+cssclasses: pf2e,pf2e-ability
 tags:
 - trait/divination
 - trait/mental

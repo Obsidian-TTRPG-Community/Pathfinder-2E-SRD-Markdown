@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-spell
+cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/crb
 - spell/focus/4
@@ -18,7 +18,7 @@ aliases: ["Wild Winds Stance"]
 - 
 - **Duration**: until you leave the stance
 
-You take on the stance of the flowing winds, sending out waves of energy at a distance. You can make wind crash unarmed [Strikes](rules/actions/strike.md) as ranged [Strikes](rules/actions/strike.md) against targets within 30 feet. These deal `1d6` bludgeoning damage, use the brawling group, and have the agile, nonlethal, [propulsive](rules/traits/propulsive.md "Propulsive Weapon Trait"), and [unarmed](rules/traits/unarmed.md "Unarmed Weapon Trait") traits. Wind crash [Strikes](rules/actions/strike.md) ignore concealment and all cover.
+You take on the stance of the flowing winds, sending out waves of energy at a distance. You can make wind crash unarmed [Strikes](rules/actions/strike.md) as ranged [Strikes](rules/actions/strike.md) against targets within 30 feet. These deal `1d6` bludgeoning damage, use the brawling group, and have the [agile](rules/traits/agile.md "Agile Weapon Trait"), [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait"), [propulsive](rules/traits/propulsive.md "Propulsive Weapon Trait"), and [unarmed](rules/traits/unarmed.md "Unarmed Weapon Trait") traits. Wind crash [Strikes](rules/actions/strike.md) ignore concealment and all cover.
 
 While in wild winds stance, you gain a +2 circumstance bonus to AC against ranged attacks.
 

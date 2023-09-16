@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-item
+cssclasses: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/crb
 - item/category/snare/
@@ -16,7 +16,7 @@ aliases: ["Bomb Snare"]
 - **Price** 75 gp
 - **Craft Requirements** Supply six of the same damaging 3rd-level moderate alchemical bomb.
 
-You create a snare that catalyzes three 3rd-level moderate alchemical bombs of the same type to explode when a creature enters the snare's square. The target and all creatures in adjacent squares must attempt a DC 26 Reflex save, as the snare deals damage equal to three times the direct hit damage from one of the component bombs (for example, `6d6` electricity damage from bottled lightning) with no splash damage or other effects.
+You create a snare that catalyzes three 3rd-level moderate alchemical bombs of the same type to explode when a creature enters the snare's square. The target and all creatures in adjacent squares must attempt a DC 26 Reflex save, as the snare deals damage equal to three times the direct hit damage from one of the component bombs (for example, `6d6` electricity damage from bottled lightning) with no [splash](rules/traits/splash.md "Splash Weapon Trait") damage or other effects.
 
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.

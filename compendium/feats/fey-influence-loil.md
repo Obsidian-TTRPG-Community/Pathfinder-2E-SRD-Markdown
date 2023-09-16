@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-feat
+cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/loil
 - trait/rare
@@ -21,7 +21,7 @@ You have been exposed to powerful fey magic. You become trained in primal DCs an
 - **Monarch** You have vestigial, insectile features and gain [spider sting](compendium/spells/spider-sting.md).
 - **Unicorn** You have a magical horn or a prominent symbol of one on your forehead, which you can use to cast [heal](compendium/spells/heal.md).
 
-**Special.** This feat gains the trait appropriate for your ancestry (human for human, goblin for goblin, etc.).
+**Special.** This feat gains the trait appropriate for your ancestry ([human](rules/traits/human.md "Human Ancestry & Heritage Trait") for human, [goblin](rules/traits/goblin.md "Goblin Ancestry & Heritage Trait") for goblin, etc.).
 
 ## Fey Influence leads to...
 

@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-hazard
+cssclasses: pf2e,pf2e-hazard
 tags:
 - compendium/src/pf2e/aoe3
 - trait/mechanical
@@ -22,7 +22,7 @@ title: **Overflowing Boiling Water** [R](rules/core-rulebook/chapter-9-playing-t
 
 - **Trigger**: The trip wire is pulled or severed
 
-**Effect** An acid flask detonates, spraying acid at nearby creatures and causing the tub of boiling water to burst in the same direction. All creatures in a 5-foot cone east of the triggered boiling tub trap take `3d6` [persistent acid damage](rules/conditions.md#Persistent%20Damage), 3 acid splash damage, and `8d6+20` fire damage (DC 31 basic Reflex save).
+**Effect** An acid flask detonates, spraying acid at nearby creatures and causing the tub of boiling water to burst in the same direction. All creatures in a 5-foot cone east of the triggered boiling tub trap take `3d6` [persistent acid damage](rules/conditions.md#Persistent%20Damage), 3 acid [splash](rules/traits/splash.md "Splash Weapon Trait") damage, and `8d6+20` fire damage (DC 31 basic Reflex save).
 ```
 
 *Source: Agents of Edgewatch #3: All or Nothing p. 56*

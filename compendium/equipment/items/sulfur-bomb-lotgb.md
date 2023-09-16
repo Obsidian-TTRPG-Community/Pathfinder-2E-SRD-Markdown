@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-item
+cssclasses: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/lotgb
 - item/category/bomb/
@@ -31,25 +31,25 @@ A sulfur bomb deals the listed damage. On a hit, the target takes a –1 status 
 
 - **Price**: 4 gp
 
-The bomb deals `1d4` acid damage and 1 acid splash damage.
+The bomb deals `1d4` acid damage and 1 acid [splash](rules/traits/splash.md "Splash Weapon Trait") damage.
 
 #### moderate *Item 3*
 
 - **Price**: 12 gp
 
-You gain a +1 item bonus to attack rolls. The bomb deals `2d4` acid damage and 2 acid splash damage.
+You gain a +1 item bonus to attack rolls. The bomb deals `2d4` acid damage and 2 acid [splash](rules/traits/splash.md "Splash Weapon Trait") damage.
 
 #### greater *Item 11*
 
 - **Price**: 275 gp
 
-You gain a +2 item bonus to attack rolls. The bomb deals `3d4` acid damage and 3 acid splash damage.
+You gain a +2 item bonus to attack rolls. The bomb deals `3d4` acid damage and 3 acid [splash](rules/traits/splash.md "Splash Weapon Trait") damage.
 
 #### major *Item 17*
 
 - **Price**: 2750 gp
 
-You gain a +3 item bonus to attack rolls. The bomb deals `4d4` acid damage and 4 acid splash damage.
+You gain a +3 item bonus to attack rolls. The bomb deals `4d4` acid damage and 4 acid [splash](rules/traits/splash.md "Splash Weapon Trait") damage.
 
 ---
 *Source: Lost Omens: The Grand Bazaar p. 15*

@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-book
+cssclasses: pf2e,pf2e-book
 tags:
 - compendium/src/pf2e/lowg
 aliases: ["chapter-10-saga-lands"]

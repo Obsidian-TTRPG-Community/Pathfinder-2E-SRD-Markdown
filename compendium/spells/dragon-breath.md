@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-spell
+cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/crb
 - spell/area/burst
@@ -39,7 +39,7 @@ You spew energy from your mouth, dealing `5d6` damage. The area, damage type, an
 | Underworld[^1] | 10-foot burst within 30 feet of fire | Reflex |
 
 > [!pf2-note]
-> [^1] The saving throws for these dragon types are assumed and taken from Archives of Nethys (https://2e.aonprd.com/Spells.aspx?ID=499), as the books these dragons originate from do not say what type of Saving Throw they use.
+> [1]:  The saving throws for these dragon types are assumed and taken from Archives of Nethys (https://2e.aonprd.com/Spells.aspx?ID=499), as the books these dragons originate from do not say what type of Saving Throw they use.
 
 **Heightened (+ 1)** The damage increases by `2d6`.
 

@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-item
+cssclasses: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/ooa2
 - item/category/consumable/
@@ -30,7 +30,7 @@ title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Action
 
 You light the alchemical fuse with an adjacent fire source or a fire source that you hold in a hand. If you have a tindertwig in your other hand, you can activate the tindertwig and use it to light a fuse with the same [Interact](rules/actions/interact.md) action. A lit fuse takes 1 round per attached fuse to burn down. During the round that the fuse runs out, the device to which the fuse has been attached explodes or otherwise activates at the end of your turn.
 
-For a bomb, this deals splash damage, and for pyronite, it deals pyronite's normal damage. An alchemical fuse burns underwater or in up to moderate wind.
+For a bomb, this deals [splash](rules/traits/splash.md "Splash Weapon Trait") damage, and for pyronite, it deals pyronite's normal damage. An alchemical fuse burns underwater or in up to moderate wind.
 ```
 
 ```ad-embed-ability

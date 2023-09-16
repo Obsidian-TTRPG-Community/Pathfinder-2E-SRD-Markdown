@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-feat
+cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/lokl
 - trait/alchemist
@@ -15,7 +15,7 @@ aliases: ["Retaliatory Cleansing"]
 - **Requirements**: You're holding holy water or a bomb that deals positive damage in one of your hands.
 - **Activity** Reaction
 
-You twist your hand in front of the blow, ensuring the enemy's attack shatters the required holy water or bomb. The creature takes the on-hit and splash damage from the holy water or required bomb, not counting any additional effects you would add or apply when you throw the bomb, such as weapon specialization or Calculated Splash. You're splashed by the holy water or required bomb, although since positive damage harms only undead and creatures with negative healing, it's unlikely you will take damage.
+You twist your hand in front of the blow, ensuring the enemy's attack shatters the required holy water or bomb. The creature takes the on-hit and [splash](rules/traits/splash.md "Splash Weapon Trait") damage from the holy water or required bomb, not counting any additional effects you would add or apply when you throw the bomb, such as weapon specialization or Calculated Splash. You're splashed by the holy water or required bomb, although since positive damage harms only undead and creatures with negative healing, it's unlikely you will take damage.
 
 *Source: Lost Omens: Knights of Lastwall p. 84*  
 %% #compendium/src/pf2e/lokl #trait/alchemist #trait/uncommon %%

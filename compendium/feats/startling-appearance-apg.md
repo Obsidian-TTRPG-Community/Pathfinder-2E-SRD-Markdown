@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-feat
+cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/apg
 - trait/archetype
@@ -20,6 +20,12 @@ aliases: ["Startling Appearance"]
 You can startle foes who are unaware of your presence.
 
 Make a [Strike](rules/actions/strike.md) against your target. That creature is [flat-footed](rules/conditions.md#Flat-footed) against this [Strike](rules/actions/strike.md), as normal. If your [Strike](rules/actions/strike.md) hits, the target remains [flat-footed](rules/conditions.md#Flat-footed) for the rest of your turn and is [frightened](rules/conditions.md#Frightened) ([frightened](rules/conditions.md#Frightened) on a critical hit).
+
+## Startling Appearance leads to...
+
+[Frightening Appearance](compendium/feats/frightening-appearance-apg.md), [Stunning Appearance](compendium/feats/stunning-appearance-apg.md)
+
+## Summary
 
 *Source: Advanced Player's Guide p. 197*  
 %% #compendium/src/pf2e/apg #trait/archetype #trait/emotion #trait/fear #trait/mental #trait/vigilante %%

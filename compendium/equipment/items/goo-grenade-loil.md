@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-item
+cssclasses: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/loil
 - item/category/bomb/
@@ -27,25 +27,25 @@ A goo grenade is a flask filled with a fast-growing, short-lived alchemical ooze
 
 - **Price**: 3 gp
 
-The target takes `1d4` acid damage, 1 [persistent acid damage](rules/conditions.md#Persistent%20Damage), and 1 acid splash damage. They take a –5-foot circumstance penalty to their Speeds. The [Escape](rules/actions/escape.md) DC is 15.
+The target takes `1d4` acid damage, 1 [persistent acid damage](rules/conditions.md#Persistent%20Damage), and 1 acid [splash](rules/traits/splash.md "Splash Weapon Trait") damage. They take a –5-foot circumstance penalty to their Speeds. The [Escape](rules/actions/escape.md) DC is 15.
 
 #### moderate *Item 3*
 
 - **Price**: 10 gp
 
-You gain a +1 item bonus to attack rolls. The target takes `2d4` acid damage, 2 [persistent acid damage](rules/conditions.md#Persistent%20Damage), and 2 acid splash damage. They take a –5-foot circumstance penalty to their Speeds. The [Escape](rules/actions/escape.md) DC is 17.
+You gain a +1 item bonus to attack rolls. The target takes `2d4` acid damage, 2 [persistent acid damage](rules/conditions.md#Persistent%20Damage), and 2 acid [splash](rules/traits/splash.md "Splash Weapon Trait") damage. They take a –5-foot circumstance penalty to their Speeds. The [Escape](rules/actions/escape.md) DC is 17.
 
 #### greater *Item 11*
 
 - **Price**: 250 gp
 
-You gain a +2 item bonus to attack rolls. The target takes `3d4` acid damage, 3 [persistent acid damage](rules/conditions.md#Persistent%20Damage), and 3 acid splash damage. They take a –10-foot circumstance penalty to their Speeds. The [Escape](rules/actions/escape.md) DC is 26.
+You gain a +2 item bonus to attack rolls. The target takes `3d4` acid damage, 3 [persistent acid damage](rules/conditions.md#Persistent%20Damage), and 3 acid [splash](rules/traits/splash.md "Splash Weapon Trait") damage. They take a –10-foot circumstance penalty to their Speeds. The [Escape](rules/actions/escape.md) DC is 26.
 
 #### major *Item 17*
 
 - **Price**: 2500 gp
 
-You gain a +3 item bonus to attack rolls. The target takes `4d4` acid damage, 4 [persistent acid damage](rules/conditions.md#Persistent%20Damage), and 4 acid splash damage. They take a –10-foot circumstance penalty to their Speeds. The [Escape](rules/actions/escape.md) DC is 35.
+You gain a +3 item bonus to attack rolls. The target takes `4d4` acid damage, 4 [persistent acid damage](rules/conditions.md#Persistent%20Damage), and 4 acid [splash](rules/traits/splash.md "Splash Weapon Trait") damage. They take a –10-foot circumstance penalty to their Speeds. The [Escape](rules/actions/escape.md) DC is 35.
 
 ---
 *Source: Lost Omens: Impossible Lands p. 306*

@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-item
+cssclasses: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/g&g
 - item/category/consumable/
@@ -26,25 +26,25 @@ When you [Activate](rules/actions/activate-an-item.md) a cryomister, you can eit
 
 - **Price**: 3 gp
 
-The area is a 5-foot burst, the [Acrobatics](compendium/skills.md#Acrobatics) DC is 17, and the cold splash damage is 1. The floating ice can support one creature up to Medium size.
+The area is a 5-foot burst, the [Acrobatics](compendium/skills.md#Acrobatics) DC is 17, and the cold [splash](rules/traits/splash.md "Splash Weapon Trait") damage is 1. The floating ice can support one creature up to Medium size.
 
 #### moderate *Item 5*
 
 - **Price**: 25 gp
 
-The area is a 10-foot burst, the [Acrobatics](compendium/skills.md#Acrobatics) DC is 21, and the cold splash damage is 3. The floating ice can support one Large creature or two Medium or smaller creatures.
+The area is a 10-foot burst, the [Acrobatics](compendium/skills.md#Acrobatics) DC is 21, and the cold [splash](rules/traits/splash.md "Splash Weapon Trait") damage is 3. The floating ice can support one Large creature or two Medium or smaller creatures.
 
 #### greater *Item 11*
 
 - **Price**: 250 gp
 
-The area is a 15-foot burst, the [Acrobatics](compendium/skills.md#Acrobatics) DC is 30, and the cold splash damage is 5. The floating ice can support one Huge creature, two Large creatures, or four Medium or smaller creatures.
+The area is a 15-foot burst, the [Acrobatics](compendium/skills.md#Acrobatics) DC is 30, and the cold [splash](rules/traits/splash.md "Splash Weapon Trait") damage is 5. The floating ice can support one Huge creature, two Large creatures, or four Medium or smaller creatures.
 
 #### major *Item 17*
 
 - **Price**: 2500 gp
 
-The area is a 20-foot burst, the [Acrobatics](compendium/skills.md#Acrobatics) DC is 39, and the cold splash damage is 8. The floating ice can support one Gargantuan creature, two Huge creatures, four Large creatures, or eight Medium or smaller creatures. The ice can't support Gargantuan creatures larger than a 20-by-20-foot space, such as a mu spore.
+The area is a 20-foot burst, the [Acrobatics](compendium/skills.md#Acrobatics) DC is 39, and the cold [splash](rules/traits/splash.md "Splash Weapon Trait") damage is 8. The floating ice can support one Gargantuan creature, two Huge creatures, four Large creatures, or eight Medium or smaller creatures. The ice can't support Gargantuan creatures larger than a 20-by-20-foot space, such as a mu spore.
 
 ---
 *Source: Guns & Gears p. 68*

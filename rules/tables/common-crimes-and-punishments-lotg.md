@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-note
+cssclasses: pf2e,pf2e-note
 tags:
 - compendium/src/pf2e/lotg
 aliases: ["Common Crimes and Punishments"]
@@ -44,4 +44,4 @@ aliases: ["Common Crimes and Punishments"]
 | Multiple offenses | at once As most serious offense plus 50% of other sentences |
 | Repeated offenses | Increase the sentence by a quarter for each prior offense—excessive offenses result in execution |
 
-[^1]Punishments can vary from region to region. Countries in the Inner Sea that use fines typically link them to the character's ability to pay
+[1]: Punishments can vary from region to region. Countries in the Inner Sea that use fines typically link them to the character's ability to pay

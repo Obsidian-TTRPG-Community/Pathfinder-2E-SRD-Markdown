@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-ability
+cssclasses: pf2e,pf2e-ability
 aliases: ["Grab"]
 ---
 # Grab [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")

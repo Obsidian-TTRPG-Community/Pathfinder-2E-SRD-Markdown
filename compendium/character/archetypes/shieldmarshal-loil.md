@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-archetype
+cssclasses: pf2e,pf2e-archetype
 tags:
 - compendium/src/pf2e/loil
 aliases: ["Shieldmarshal"]
@@ -36,7 +36,7 @@ collapse: closed
 - **Frequency**: once per hour
 - **Activity** Single Action
 
-You volunteered for a controversial experimental procedure to install clockwork prosthetic eyes. These eyes relay what you see to shieldmarshal headquarters, which consolidates and analyzes environmental data—Bronzetime/Surgetime probabilities, pressure, temperature, wind, and so on—and feeds them back to you. The Ironmaster periodically reviews the information archives in their ongoing efforts to root out police corruption. When you use your Consolidated Overlay Panopticon, you supercharge the prosthetic eyes; for the next minute, you gain darkvision and low-light vision, and you gain a +1 status bonus to visual [Perception](compendium/skills.md#Perception) checks. Even when the prosthetic eyes aren't supercharged, you retain your normal vision.
+You volunteered for a controversial experimental procedure to install clockwork prosthetic eyes. These eyes relay what you see to shieldmarshal headquarters, which consolidates and analyzes environmental data—Bronzetime/Surgetime probabilities, pressure, temperature, wind, and so on—and feeds them back to you. The Ironmaster periodically reviews the information archives in their ongoing efforts to root out police corruption. When you use your Consolidated Overlay Panopticon, you supercharge the prosthetic eyes; for the next minute, you gain [darkvision](rules/abilities/darkvision.md) and [low-light vision](rules/abilities/low-light-vision.md), and you gain a +1 status bonus to visual [Perception](compendium/skills.md#Perception) checks. Even when the prosthetic eyes aren't supercharged, you retain your normal vision.
 
 *Source: Lost Omens: Impossible Lands p. 109*  
 %% #trait/archetype %%
@@ -67,7 +67,7 @@ collapse: closed
 - **Frequency**: once per round
 - **Activity** Single Action
 
-You understand the need for law enforcement doctrine to adapt to the ever-changing innovations in technology and arcana. Your training in special weapons and tactics give you access to unusual techniques to respond to clockwork- and magic-related crimes. You apply special additives to a loaded firearm. On your next [Strike](rules/actions/strike.md) with that firearm before the end of your turn, you deal an additional `2d6` damage if the target is a construct, and you can treat the ammunition as your choice of cold iron or adamantine. At 18th level, this additional damage increases to `3d6`, and you can choose to instead treat the ammunition as orichalcum.
+You understand the need for law enforcement doctrine to adapt to the ever-changing innovations in technology and arcana. Your training in special weapons and tactics give you access to unusual techniques to respond to clockwork- and magic-related crimes. You apply special additives to a loaded firearm. On your next [Strike](rules/actions/strike.md) with that firearm before the end of your turn, you deal an additional `2d6` damage if the target is a [construct](rules/traits/construct.md "Construct Creature Type Trait"), and you can treat the ammunition as your choice of [cold iron](compendium/equipment/items/cold-iron.md) or [adamantine](compendium/equipment/items/adamantine.md). At 18th level, this additional damage increases to `3d6`, and you can choose to instead treat the ammunition as [orichalcum](compendium/equipment/items/orichalcum.md).
 
 *Source: Lost Omens: Impossible Lands p. 109*  
 %% #trait/archetype %%

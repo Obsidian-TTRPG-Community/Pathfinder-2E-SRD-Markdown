@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-book
+cssclasses: pf2e,pf2e-book
 tags:
 - compendium/src/pf2e/gmg
 aliases: ["chapter-3-subsystems"]
@@ -391,7 +391,7 @@ If the means of bypassing the obstacle helps automatically without requiring a c
 
 Chase Points represent the ability of the whole group to bypass the obstacle. A character who critically succeeds is able to help the other characters continue onward, while one who critically fails needs extra assistance. Players often have ideas for ways to overcome the obstacle beyond the choices you created for the obstacle. If their idea is applicable, you'll need to determine the DC and skill or other statistic being used for that approach. This is great as long as it's creative, but be wary of a situation where a character who is legendary at a skill tries to justify how they can bypass every obstacle with that skill, such as using [Acrobatics](compendium/skills.md#Acrobatics) to tumble around them all, or the like. You can determine that some tactics just won't work against certain obstacles, or would help only one character without benefiting the rest and therefore aren't all that useful.
 
-Once the PCs accumulate enough Chase Points to overcome the obstacle, they immediately move to the next. Extra Chase Points don't carry over to the next obstacle— each requires its own number of Chase Points to overcome. However, anyone who hasn't already taken their turn that round can still take it against the new obstacle. Consequently, the characters best suited to overcoming the current obstacle might act first, since the remaining characters might be better suited against the next one. The number of Chase Points the PCs have can never fall below 0.
+Once the PCs accumulate enough Chase Points to overcome the obstacle, they immediately move to the next. Extra Chase Points don't carry over to the next obstacle—each requires its own number of Chase Points to overcome. However, anyone who hasn't already taken their turn that round can still take it against the new obstacle. Consequently, the characters best suited to overcoming the current obstacle might act first, since the remaining characters might be better suited against the next one. The number of Chase Points the PCs have can never fall below 0.
 
 It might help to put your obstacles in a stat block for easy reference. Inside published adventures, chase obstacles are likely to be presented in stat block form, as follows.
 
@@ -1019,7 +1019,7 @@ Beyond the very smallest organizations, PCs need some kind of base of operations
 
 Followers and lieutenants are noncombatant NPCs of the levels indicated on Table 3–3: Organization Statistics by Level. When an organization has followers or lieutenants of several levels, most of them are at the lowest possible level. As a rule of thumb, an organization has twice as many NPCs of a given level than of the next-higher level. This allows you to quickly estimate the level composition of the organization's members, but you can of course change the levels of various followers as much as you like. When the minimum level for lieutenants increases, either the lower-level lieutenants level up to the new minimum, or they become followers of more powerful lieutenants the PCs recruit, whichever fits best with the story.
 
-Followers and lieutenants are loyal to the PCs and their organization, working to maintain the organization, its base of operations, and their own way of life. Because of this work, PCs don't need to pay for basic upkeep of their base of operations or for expansions to house the burgeoning activity as their organization grows in level— the followers and lieutenants take care of all of that. But similarly, these followers and lieutenants never get involved in the PCs' adventuring, nor do they provide a source of free magic or labor.
+Followers and lieutenants are loyal to the PCs and their organization, working to maintain the organization, its base of operations, and their own way of life. Because of this work, PCs don't need to pay for basic upkeep of their base of operations or for expansions to house the burgeoning activity as their organization grows in level—the followers and lieutenants take care of all of that. But similarly, these followers and lieutenants never get involved in the PCs' adventuring, nor do they provide a source of free magic or labor.
 
 #### Cohorts and New Pcs
 <sup>GMG p. 168</sup>

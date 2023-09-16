@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-affliction
+cssclasses: pf2e,pf2e-affliction
 tags:
 - affliction/disease
 - affliction/level/3
@@ -25,7 +25,7 @@ title: Saving Throw: DC 17 Fortitude
 
 **Stage 2** [enfeebled](rules/conditions.md#Enfeebled) and [fatigued](rules/conditions.md#Fatigued) (1 day)
 
-**Stage 3** [enfeebled](rules/conditions.md#Enfeebled), [fatigued](rules/conditions.md#Fatigued), and take `1d6` persistent bleed damage every `1d20` minutes (1 day)
+**Stage 3** [enfeebled](rules/conditions.md#Enfeebled), [fatigued](rules/conditions.md#Fatigued), and take `1d6` [persistent bleed damage](rules/conditions.md#Persistent%20Damage) every `1d20` minutes (1 day)
 ```
 
 *Source: Gamemastery Guide p. 118*

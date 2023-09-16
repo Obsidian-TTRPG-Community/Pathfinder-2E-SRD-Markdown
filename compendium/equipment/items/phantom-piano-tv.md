@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-item
+cssclasses: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
 - item/category/held/
@@ -22,7 +22,12 @@ The piano sets no strict timeline, but at the GM's discretion, if you go too lon
 
 While you keep up your end of the bargain, the piano grants you a +2 item bonus to [Performance](compendium/skills.md#Performance) checks made with it. The piano also provides access to composition spells based on your [Performance](compendium/skills.md#Performance) proficiency rank, as if you had the corresponding feat. The spells you can use comprise a cumulative list, but you can cast them only when using the piano. You must spend the actions and Focus Points required to cast these spells.
 
-Trained: inspire competence, inspire courage Expert: hymn of healing APG, inspire defense Master: symphony of the unfettered heart Legendary: soothing ballad A phantom piano has the following activations.
+- **Trained.** [inspire competence](compendium/spells/inspire-competence.md), [inspire courage](compendium/spells/inspire-courage.md)
+- **Expert.** [hymn of healing](compendium/spells/hymn-of-healing-apg.md), [inspire defense](compendium/spells/inspire-defense.md)
+- **Master.** [symphony of the unfettered heart](compendium/spells/symphony-of-the-unfettered-heart-apg.md)
+- **Legendary.** [soothing ballad](compendium/spells/soothing-ballad.md)
+
+A phantom piano has the following activations.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") command

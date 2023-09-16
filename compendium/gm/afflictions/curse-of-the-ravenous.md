@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-affliction
+cssclasses: pf2e,pf2e-affliction
 tags:
 - affliction/curse
 - affliction/level/5
@@ -19,7 +19,7 @@ This hideous curse kills through constant hunger. You become gaunt and repeatedl
 ```ad-inline-affliction
 title: Saving Throw: DC 20 Fortitude
 
-**Effect** No matter how much you eat, you aren't satiated. After 1 day, you begin starving ("_Core Rulebook" 500|CRB|10|Starvation and Thirst_). Each week, you receive a new saving throw against the curse.
+**Effect** No matter how much you eat, you aren't satiated. After 1 day, you begin starving (10). Each week, you receive a new saving throw against the curse.
 ```
 
 *Source: Gamemastery Guide p. 116*

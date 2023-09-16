@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-item
+cssclasses: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/crb
 - item/category/consumable/
@@ -20,7 +20,7 @@ aliases: ["Holy Water"]
 
 This vial contains water blessed by a good deity. You activate a vial of holy water by throwing it as a [Strike](rules/actions/strike.md). It's a simple thrown weapon with a range increment of 20 feet. Unlike an alchemical bomb, it doesn't add the [manipulate](rules/traits/manipulate.md "Manipulate General Trait") trait to the attack made with it.
 
-Holy water deals `1d6` good damage and 1 good splash damage. It damages only fiends, undead, and creatures that have a weakness to good damage.
+Holy water deals `1d6` good damage and 1 good [splash](rules/traits/splash.md "Splash Weapon Trait") damage. It damages only fiends, undead, and creatures that have a weakness to good damage.
 
 
 ---

@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-spell
+cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/logm
 - spell/focus/1
@@ -34,7 +34,7 @@ title: Divine Plague _Level 1_
 
 **Stage 2** [slowed](rules/conditions.md#Slowed) and [clumsy](rules/conditions.md#Clumsy), [enfeebled](rules/conditions.md#Enfeebled), or [stupefied](rules/conditions.md#Stupefied) (1 round)
 
-**Stage 3** [clumsy](rules/conditions.md#Clumsy), [enfeebled](rules/conditions.md#Enfeebled), or [stupefied](rules/conditions.md#Stupefied) and the target can't recover from the condition until they are cured} (1 day)
+**Stage 3** [clumsy](rules/conditions.md#Clumsy), [enfeebled](rules/conditions.md#Enfeebled), or [stupefied](rules/conditions.md#Stupefied) and the target can't recover from the condition until they are cured. (1 day)
 
 
 %% #affliction/level/level-1 #trait/disease %%

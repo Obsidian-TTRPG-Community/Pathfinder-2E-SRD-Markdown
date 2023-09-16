@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-feat
+cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/loil
 - trait/bard
@@ -12,8 +12,8 @@ aliases: ["Grand Dance"]
 # Grand Dance  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
 [bard](rules/traits/bard.md "Bard Class Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [rogue](rules/traits/rogue.md "Rogue Class Trait")  [swashbuckler](rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  
 
-- **Prerequisites**: Masquerade of Seasons Stance
-- **Requirements**: You're in Masquerade of Seasons Stance.
+- **Prerequisites**: [Masquerade of Seasons Stance](compendium/feats/masquerade-of-seasons-stance-loil.md)
+- **Requirements**: You're in [Masquerade of Seasons Stance](compendium/feats/masquerade-of-seasons-stance-loil.md).
 - **Activity** Two-Action
 
 You can summon the full magic of Bhopan's grand dance. [Stride](rules/actions/stride.md) up to your Speed; during this [Stride](rules/actions/stride.md), you can walk on air as if it were solid ground. You can ascend and descend in this way at a maximum of a 45-degree angle. You must end your [Stride](rules/actions/stride.md) on a surface that can support you or you fall.

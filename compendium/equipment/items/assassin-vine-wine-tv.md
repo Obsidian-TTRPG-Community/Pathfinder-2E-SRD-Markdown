@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-item
+cssclasses: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
 - item/category/elixir/
@@ -30,7 +30,7 @@ aliases: ["Assassin Vine Wine"]
 
 - **Price**: 350 gp
 
-Assassin vine wine that has been aged for several years— or artificially aged with alchemy—develops both a greater complexity of flavor and a stronger connection to an assassin vine's bond with nature. When you drink the wine, vegetation in a 20-foot emanation around you begins to writhe, becoming difficult terrain until the start of your next turn.
+Assassin vine wine that has been aged for several years—or artificially aged with alchemy—develops both a greater complexity of flavor and a stronger connection to an assassin vine's bond with nature. When you drink the wine, vegetation in a 20-foot emanation around you begins to writhe, becoming difficult terrain until the start of your next turn.
 
 ---
 *Source: Treasure Vault p. 47*

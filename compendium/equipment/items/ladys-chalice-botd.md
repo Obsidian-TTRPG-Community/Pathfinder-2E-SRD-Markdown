@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-item
+cssclasses: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/botd
 - item/category/held/
@@ -32,7 +32,7 @@ title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Action
 - **Frequency**: once per day
 - **Requirements**: The Lady's chalice is full of a vial's worth of holy water
 
-**Effect** The chalice splashes a spiral of holy water into an adjacent space. This is a simple thrown weapon with a range of 5 feet. Unlike an alchemical bomb, it doesn't add the [manipulate](rules/traits/manipulate.md "Manipulate General Trait") trait to the attack made with it. If it hits, it deals `2d6` good damage and 2 good splash damage (including to you, if you're evil).
+**Effect** The chalice splashes a spiral of holy water into an adjacent space. This is a simple thrown weapon with a range of 5 feet. Unlike an alchemical bomb, it doesn't add the [manipulate](rules/traits/manipulate.md "Manipulate General Trait") trait to the attack made with it. If it hits, it deals `2d6` good damage and 2 good [splash](rules/traits/splash.md "Splash Weapon Trait") damage (including to you, if you're evil).
 ```
 
 

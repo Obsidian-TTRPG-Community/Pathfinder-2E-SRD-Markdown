@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-affliction
+cssclasses: pf2e,pf2e-affliction
 tags:
 - affliction/disease
 - affliction/level/11

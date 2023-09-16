@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-book
+cssclasses: pf2e,pf2e-book
 tags:
 - compendium/src/pf2e/gmg
 aliases: ["chapter-5-npc-gallery"]
@@ -25,7 +25,7 @@ The next few sections provide guidelines and ancestry adjustments you can use to
 ### Adjusting Level
 <sup>GMG p. 203</sup>
 
-Sometimes you'll need an NPC that fills a particular role—say an angry drunk— but the level in the stat block presented isn't the right fit for your group. You can start by applying the elite or weak adjustments on page 6 of the _Bestiary_ to adjust the NPC's level by 1 in either direction.
+Sometimes you'll need an NPC that fills a particular role—say an angry drunk—but the level in the stat block presented isn't the right fit for your group. You can start by applying the elite or weak adjustments on page 6 of the _Bestiary_ to adjust the NPC's level by 1 in either direction.
 
 If you need to change the NPC's level beyond that, use the values from the tables in Building Creatures in Chapter 2, and add or remove special abilities as necessary to suit the NPC's new level.
 
@@ -379,7 +379,7 @@ From the managed and cultivated forests that support villages to the tree-covere
 ### Poacher
 <sup>GMG p. 219</sup>
 
-Some forests are protected by kings, others only by wild things. Laws against hunting may protect the private reserves of nobles or guard the viability of animal populations of shared forests during specific seasons. Poachers violate those laws— sometimes out of greed, sometimes out of desperation, and sometimes for sport.
+Some forests are protected by kings, others only by wild things. Laws against hunting may protect the private reserves of nobles or guard the viability of animal populations of shared forests during specific seasons. Poachers violate those laws—sometimes out of greed, sometimes out of desperation, and sometimes for sport.
 
 Although penalties against poaching often include public shaming (see Penalties for Poaching), in lean times a successful poacher is a local hero.
 

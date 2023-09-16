@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-archetype
+cssclasses: pf2e,pf2e-archetype
 tags:
 - compendium/src/pf2e/apg
 aliases: ["Vigilante"]
@@ -170,7 +170,7 @@ collapse: closed
 
 > [!pf2-note] This version of [Frightening Appearance](compendium/feats/frightening-appearance-apg.md) is intended for use with the Vigilante Archetype. Its level has been changed accordingly.
 
-- **Prerequisites**: expert in [Intimidation](compendium/skills.md#Intimidation), [Startling Appearance](compendium/feats/startling-appearance-loag.md)
+- **Prerequisites**: expert in [Intimidation](compendium/skills.md#Intimidation), [Startling Appearance](compendium/feats/startling-appearance-apg.md)
 
 Your dramatic appearances can frighten bystanders. When you make a Startling Appearance, you can also attempt to [Demoralize](rules/actions/demoralize.md) each opponent within 10 feet to whom you were [unnoticed](rules/conditions.md#Unnoticed) before your [Strike](rules/actions/strike.md).
 
@@ -185,7 +185,7 @@ collapse: closed
 
 > [!pf2-note] This version of [Stunning Appearance](compendium/feats/stunning-appearance-apg.md) is intended for use with the Vigilante Archetype. Its level has been changed accordingly.
 
-- **Prerequisites**: [Startling Appearance](compendium/feats/startling-appearance-loag.md)
+- **Prerequisites**: [Startling Appearance](compendium/feats/startling-appearance-apg.md)
 
 Your sudden appearance leaves your foe unable to respond.
 

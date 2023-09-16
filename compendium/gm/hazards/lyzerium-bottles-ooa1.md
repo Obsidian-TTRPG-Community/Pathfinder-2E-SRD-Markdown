@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-hazard
+cssclasses: pf2e,pf2e-hazard
 tags:
 - compendium/src/pf2e/ooa1
 - trait/mechanical
@@ -28,7 +28,7 @@ title: **Explode** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions
 
 - **Trigger**: A creature steps on the bottle or the bottle becomes [broken](rules/conditions.md#Broken)
 
-**Effect** The bottle explodes, dealing `2d8` fire damage plus 2 [persistent fire damage](rules/conditions.md#Persistent%20Damage) and 2 fire splash damage to each creature sharing its square (DC 18 basic Reflex save).
+**Effect** The bottle explodes, dealing `2d8` fire damage plus 2 [persistent fire damage](rules/conditions.md#Persistent%20Damage) and 2 fire [splash](rules/traits/splash.md "Splash Weapon Trait") damage to each creature sharing its square (DC 18 basic Reflex save).
 ```
 
 *Source: Outlaws of Alkenstar #1: Punks in a Powder Keg p. 64*

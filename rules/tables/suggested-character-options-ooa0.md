@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-note
+cssclasses: pf2e,pf2e-note
 tags:
 - compendium/src/pf2e/ooa0
 aliases: ["Suggested Character Options"]
@@ -24,7 +24,7 @@ aliases: ["Suggested Character Options"]
   <td>Dwarf (Dongun)<br />Human (Garundi, Keleshite, Mwangi, Vudrani)<br /><br /><br /></td>
   <td>Alchemist<br />Gunslinger<br />Inventor<br /><br /></td>
   <td>Common<br />Dwarven<br /><br /><br /></td>
-  <td>[Crafting](compendium/skills.md#Crafting)<br />[Lore (Alkenstar, Brigh, Engineering)](compendium/skills.md#Lore)<br />[Thievery](compendium/skills.md#Thievery)<br /><br /></td>
+  <td>[Crafting](compendium/skills.md#Crafting)<br />[Lore](compendium/skills.md#Lore) (Alkenstar, Brigh, Engineering)<br />[Thievery](compendium/skills.md#Thievery)<br /><br /></td>
   <td>[Alchemical Crafting](compendium/feats/alchemical-crafting.md)<br />[Crafter's Appraisal](compendium/feats/crafters-appraisal-apg.md)<br />[Feather Step](compendium/feats/feather-step.md)<br />[Quick Squeeze](compendium/feats/quick-squeeze.md)<br />[Steady Balance](compendium/feats/steady-balance.md)</td>
 </tr>
 <tr>

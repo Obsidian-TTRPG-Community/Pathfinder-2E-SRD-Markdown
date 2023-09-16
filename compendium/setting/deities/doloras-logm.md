@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-deity
+cssclasses: pf2e,pf2e-deity
 tags:
 - compendium/src/pf2e/logm
 - deity/queens-of-the-night

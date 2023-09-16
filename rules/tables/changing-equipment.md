@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-note
+cssclasses: pf2e,pf2e-note
 tags:
 - compendium/src/pf2e/crb
 aliases: ["Changing Equipment"]
@@ -18,8 +18,8 @@ aliases: ["Changing Equipment"]
 | Change your grip by adding a hand to an item | 2 | [Interact](rules/actions/interact.md) |
 | Retrieve an item from a backpack[^3], sack, or similar container | 2 | [Interact](rules/actions/interact.md) |
 
-[^1] If you retrieve a two-handed item with only one hand, you still need to change your grip before you can wield or use it.
+[1]:  If you retrieve a two-handed item with only one hand, you still need to change your grip before you can wield or use it.
 
-[^2] A creature must have a hand free for someone to pass an item to them, and they might then need to change their grip if they receive an item requiring two hands to wield or use.
+[2]:  A creature must have a hand free for someone to pass an item to them, and they might then need to change their grip if they receive an item requiring two hands to wield or use.
 
-[^3] Retrieving an item stowed in your own backpack requires first taking off the backpack with a separate [Interact](rules/actions/interact.md) action.
+[3]:  Retrieving an item stowed in your own backpack requires first taking off the backpack with a separate [Interact](rules/actions/interact.md) action.
