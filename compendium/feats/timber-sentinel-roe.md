@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-feat
+cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/roe
 - trait/impulse
@@ -15,7 +15,7 @@ aliases: ["Timber Sentinel"]
 
 - **Activity** Two-Action
 
-A slim, symmetrical tree travels from the Plane of Wood. You conjure a tree within 30 feet, as a protector tree SoM spell of a rank equal to half your level rounded up. If you use this impulse again, any previous one ends, and an ordinary tree remains.
+A slim, symmetrical tree travels from the Plane of Wood. You conjure a tree within 30 feet, as a [protector tree](compendium/spells/protector-tree-som.md) spell of a rank equal to half your level rounded up. If you use this impulse again, any previous one ends, and an ordinary tree remains.
 
 *Source: Rage of Elements p. 34*  
 %% #compendium/src/pf2e/roe #trait/impulse #trait/kineticist #trait/plant #trait/primal #trait/wood %%

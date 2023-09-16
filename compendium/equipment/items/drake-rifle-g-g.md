@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-item
+cssclasses: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/g&g
 - item/category/weapon/beast-gun
@@ -17,14 +17,14 @@ aliases: ["Drake Rifle"]
 - **Bulk** 2; **Usage** held in 2 hands
 - **Category** Beast Gun
 
-A drake rifle is a firearm made from the saliva glands of a drake. The firearm launches small bursts of empowered spittle instead of typical rounds of ammunition. A drake rifle is a +1 weapon. It's a distinct type of martial firearm that deals `1d10` damage with a range increment of 150 feet and reload <1>. It deals acid, cold, electricity, fire, or poison damage, depending on the drake from which it was made. On a critical hit, the spittle clings to the target and they take persistent damage of the same type as the weapon equal to `1d4` + the number of weapon damage dice. A drake rifle does not add critical specialization effects.
+A drake rifle is a firearm made from the saliva glands of a drake. The firearm launches small bursts of empowered spittle instead of typical rounds of ammunition. A drake rifle is a +1 weapon. It's a distinct type of martial firearm that deals `1d10` damage with a range increment of 150 feet and reload 1. It deals acid, cold, electricity, fire, or poison damage, depending on the drake from which it was made. On a critical hit, the spittle clings to the target and they take [persistent damage](rules/conditions.md#Persistent%20Damage) of the same type as the weapon equal to `1d4` + the number of weapon damage dice. A drake rifle does not add critical specialization effects.
 
 ```ad-embed-ability
 title: **Activate** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") [Interact](rules/actions/interact.md) ([evocation](rules/traits/evocation.md), [magical](rules/traits/magical.md))
 
 - **Frequency**: once per day
 
-**Effect** You fire a large, specialized burst designed to hamper your foes. Make a ranged [Strike](rules/actions/strike.md) with the drake rifle. As long as the [Strike](rules/actions/strike.md) isn't a critical failure, the drake rifle deals 1 splash damage per weapon damage die to the target and creatures within 5 feet of the target. This splash damage is of the same type as its normal damage.
+**Effect** You fire a large, specialized burst designed to hamper your foes. Make a ranged [Strike](rules/actions/strike.md) with the drake rifle. As long as the [Strike](rules/actions/strike.md) isn't a critical failure, the drake rifle deals 1 [splash](rules/traits/splash.md "Splash Weapon Trait") damage per weapon damage die to the target and creatures within 5 feet of the target. This [splash](rules/traits/splash.md "Splash Weapon Trait") damage is of the same type as its normal damage.
 
 On a hit, the drake rifle provides one of the following additional effects based on its damage type:
 

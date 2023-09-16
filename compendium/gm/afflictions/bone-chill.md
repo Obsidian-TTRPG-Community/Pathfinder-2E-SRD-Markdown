@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-affliction
+cssclasses: pf2e,pf2e-affliction
 tags:
 - affliction/disease
 - affliction/level/5
@@ -27,7 +27,7 @@ title: Saving Throw: DC 20 Fortitude
 
 **Stage 2** [ clumsy](rules/conditions.md#Clumsy) and can't heal cold damage until this disease is cured (1 day)
 
-**Stage 3** [ clumsy](rules/conditions.md#Clumsy) and all cold temperature effects are one step more severe for the victim ("_Core Rulebook" 517|CRB|10|Temperature_) (1 day)
+**Stage 3** [ clumsy](rules/conditions.md#Clumsy) and all cold temperature effects are one step more severe for the victim (10) (1 day)
 
 **Stage 4** [paralyzed](rules/conditions.md#Paralyzed) and all cold temperature effects are one step more severe for the victim (1 day)
 ```

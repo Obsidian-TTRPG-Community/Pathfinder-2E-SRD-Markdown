@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-book
+cssclasses: pf2e,pf2e-book
 tags:
 - book-lost-omens-lost-omens-gods-magic
 - compendium/src/pf2e/logm

@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-affliction
+cssclasses: pf2e,pf2e-affliction
 tags:
 - affliction/curse/tempted
 - affliction/level/5
@@ -25,7 +25,7 @@ title: Saving Throw: DC 20 Fortitude
 
 ## Tempting Curse
 
-Your skin falls from your body and exposes your raw flesh beneath, but the curse holds your flesh together as its magic increases. You gain resistance to persistent bleed damage equal to half your level and are [doomed](rules/conditions.md#Doomed).
+Your skin falls from your body and exposes your raw flesh beneath, but the curse holds your flesh together as its magic increases. You gain resistance to [persistent bleed damage](rules/conditions.md#Persistent%20Damage) equal to half your level and are [doomed](rules/conditions.md#Doomed).
 
 ## Summary
 

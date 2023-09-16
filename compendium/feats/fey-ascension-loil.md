@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-feat
+cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/loil
 - trait/rare
@@ -24,7 +24,7 @@ You gain one of the following features and abilities; this must be the same anim
 - **Monarch** Once per day, you gain the ability to manifest a pair of exquisite butterfly wings. These wings remain for 10 minutes. You gain a fly Speed equal to your Speed while you've manifested your wings.
 - **Unicorn** You become trained in [Medicine](compendium/skills.md#Medicine), or an expert if you were already trained. You gain a +2 status bonus to saves against [poison](rules/traits/poison.md "Poison Effect Trait") and [charm](rules/traits/charm-b1.md "Charm  Trait") effects.
 
-**Special.** This feat gains the trait appropriate for your ancestry (human for human, goblin for goblin, etc.).
+**Special.** This feat gains the trait appropriate for your ancestry ([human](rules/traits/human.md "Human Ancestry & Heritage Trait") for human, [goblin](rules/traits/goblin.md "Goblin Ancestry & Heritage Trait") for goblin, etc.).
 
 *Source: Lost Omens: Impossible Lands p. 126*  
 %% #compendium/src/pf2e/loil #trait/rare %%

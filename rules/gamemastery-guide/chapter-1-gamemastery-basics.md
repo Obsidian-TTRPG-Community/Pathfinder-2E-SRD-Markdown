@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-book
+cssclasses: pf2e,pf2e-book
 tags:
 - compendium/src/pf2e/gmg
 aliases: ["chapter-1-gamemastery-basics"]
@@ -828,7 +828,7 @@ You and your players will inevitably come across a rule you disagree with, or th
 
 When dealing with problems at the table, keep in mind the primary reason to play Pathfinder is to have fun. And that's true for everyone—player or GM. Don't "solve" a problem by reducing everyone's enjoyment of the game or their ability to forge a path for their characters. Of course, sometimes your solution might not make everyone deliriously happy. Play style is a highly personal, individual thing, rarely does a group agree on all things all the time.
 
-Solving problems can be as collaborative as the rest of the game. Only a foolish GM ignores the players' opinions— but that said, the final decision in resolving a problem rests with you.
+Solving problems can be as collaborative as the rest of the game. Only a foolish GM ignores the players' opinions—but that said, the final decision in resolving a problem rests with you.
 
 Issues at the table arise occasionally. Broadly, such problems can be separated into four main categories: distractions, total party kills, problematic players, and power imbalances. The first of these is covered in detail on page 491 of the _Core Rulebook_, and guidance for the others appears here.
 
@@ -850,7 +850,7 @@ Note that the game should continue only if the players want it to. The premature
 ### Problematic Players
 <sup>GMG p. 31</sup>
 
-Most players who cause problems do so unintentionally— perhaps bringing out-of-game issues and stresses to the table. You shouldn't immediately jump on every instance of problematic play—everyone has a bad night on occasion. However, if someone disrupts the game on an ongoing basis, you owe it to all the players to deal with the problem. If you don't, bad feelings, grudges, and even ruined friendships could result. Handling a problematic player requires tact: making demands in front of the rest of the group is rarely the best way to resolve the problem. Attempt to handle the problem privately away from the game, or call a break to have a private conversation if the situation is really urgent. As with all emotionally charged conversations, email, text messages and the like can lose the subtlety of speech—it's better to meet the player face to face, if possible. Here are some problematic behaviors that often come up and might require you to intervene.
+Most players who cause problems do so unintentionally—perhaps bringing out-of-game issues and stresses to the table. You shouldn't immediately jump on every instance of problematic play—everyone has a bad night on occasion. However, if someone disrupts the game on an ongoing basis, you owe it to all the players to deal with the problem. If you don't, bad feelings, grudges, and even ruined friendships could result. Handling a problematic player requires tact: making demands in front of the rest of the group is rarely the best way to resolve the problem. Attempt to handle the problem privately away from the game, or call a break to have a private conversation if the situation is really urgent. As with all emotionally charged conversations, email, text messages and the like can lose the subtlety of speech—it's better to meet the player face to face, if possible. Here are some problematic behaviors that often come up and might require you to intervene.
 
 - Obsessing over the letter of the rules.
 - Constantly "helping" other players make the optimal choice on their turn.
@@ -861,7 +861,7 @@ Other behaviors are unacceptable and must be dealt with firmly and decisively. T
 - Repeatedly arguing with decisions made by other players or the GM.
 - Ignoring other players' opinions.
 - Deliberately derailing the adventure's plot.
-- Being deliberately rude or cruel to other players— especially if it's on the basis of their ethnicity, gender, sexual orientation, political or religious affiliation, the color of their skin, or the like.
+- Being deliberately rude or cruel to other players—especially if it's on the basis of their ethnicity, gender, sexual orientation, political or religious affiliation, the color of their skin, or the like.
 
 #### Safety Tools
 <sup>GMG p. 31</sup>
@@ -1191,7 +1191,7 @@ An epilogue can make the end of a campaign more fulfilling. First, let the group
 #### Dealing with Failure
 <sup>GMG p. 39</sup>
 
-If a campaign ends prematurely, get a sense from the players of whether they want to continue. The advice on Total Party Kills on page 30 should be [helpful](rules/conditions.md#Helpful). If the campaign ended in a stranger way than a total party kill— say, a PC handing over the powerful relic the villain needed to complete a master plan—you can still look for ways the campaign might continue. Maybe the PCs struggle to survive in the world after the calamity, or maybe they have just enough time they might still be able to stop the plan.
+If a campaign ends prematurely, get a sense from the players of whether they want to continue. The advice on Total Party Kills on page 30 should be [helpful](rules/conditions.md#Helpful). If the campaign ended in a stranger way than a total party kill—say, a PC handing over the powerful relic the villain needed to complete a master plan—you can still look for ways the campaign might continue. Maybe the PCs struggle to survive in the world after the calamity, or maybe they have just enough time they might still be able to stop the plan.
 
 #### The Next Campaign
 <sup>GMG p. 39</sup>
@@ -1309,7 +1309,7 @@ These frameworks for building your adventure include some basic elements to get 
 - 3–4 long voyages through different planes, often by [gate](compendium/spells/gate.md), spells, or planar vessel, punctuated by combat; 1–2 scouting a demiplane, planar city or fortress, or other planar stronghold
 - 12 moderate, 12 severe. Avoid trivial- and low-threat encounters, except as set dressing to introduce a new plane.
 - 6 conversations with bizarre creatures, including some with alien ways of thinking; 2 opportunities to gather information and rumors
-- Fights showcasing otherworldly environs— on the sides of glaciers, in limitless oceans, on chunks of rock floating along rivers of lava, atop bottomless pits, or on the chains of 100-foot-tall gates.
+- Fights showcasing otherworldly environs—on the sides of glaciers, in limitless oceans, on chunks of rock floating along rivers of lava, atop bottomless pits, or on the chains of 100-foot-tall gates.
 
 ##### Romantic Adventure
 <sup>GMG p. 42</sup>
@@ -1367,7 +1367,7 @@ The opposition seeks a massive change—one they think is for the better. Their 
 
 - Demonstrate the ruthlessness of the enemy, especially the discrepancy between their care for their cause and their ambivalence or hatred toward everything else.
 - Have enemies focus purely on their goal. Have them fall back on their rhetoric or dogma to justify themselves.
-- If something about the extremists' cause is just—such as preserving the natural world or protecting their people— reveal the foes' sympathetic side. Demonstrate the horror of what they're fighting against in addition to the horror of the way they fight it.
+- If something about the extremists' cause is just—such as preserving the natural world or protecting their people—reveal the foes' sympathetic side. Demonstrate the horror of what they're fighting against in addition to the horror of the way they fight it.
 - When the PCs make progress, show uncertainty or demoralization in their foes, possibly even desertion.
 
 **Foes** cultists, revolutionaries.

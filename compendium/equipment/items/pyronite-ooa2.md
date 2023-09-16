@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-item
+cssclasses: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/ooa2
 - item/category/consumable/
@@ -16,7 +16,7 @@ aliases: ["Pyronite"]
 - **Price** 250 gp
 - **Bulk** L; **Usage** held in one hand
 
-A stick of pyronite is a devastating explosive that fills an area with fire and concussive force when it detonates— as long as its fuse has been lit!
+A stick of pyronite is a devastating explosive that fills an area with fire and concussive force when it detonates—as long as its fuse has been lit!
 
 Pyronite is an unstable material with a limited shelf life. Sticks of pyronite must be kept dry and cool; otherwise, the raw pyronite will leak out of the rods and collect as a semi-transparent goo that explodes on any impact or loud noise, with an explosive effect equal to half the number of rods.
 

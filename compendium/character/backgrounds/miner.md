@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-background
+cssclasses: pf2e,pf2e-background
 tags:
 - background/boost/strength
 - background/boost/wisdom
@@ -11,7 +11,7 @@ aliases: ["Miner"]
 # Miner
 *Source: Core Rulebook p. 63*  
 
-You earned a living wrenching precious minerals from the lightless depths of the earth. Adventuring might have seemed lucrative or glamorous compared to this backbreaking labor— and if you have to head back underground, this time you plan to do so armed with a real weapon instead of a miner's pick.
+You earned a living wrenching precious minerals from the lightless depths of the earth. Adventuring might have seemed lucrative or glamorous compared to this backbreaking labor—and if you have to head back underground, this time you plan to do so armed with a real weapon instead of a miner's pick.
 
 Choose two ability boosts. One must be to Strength or Wisdom, and one is a free ability boost.
 

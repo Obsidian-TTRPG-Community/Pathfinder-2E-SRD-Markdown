@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-feat
+cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/roe
 - trait/impulse
@@ -16,7 +16,7 @@ aliases: ["Alloy Flesh and Steel"]
 
 - **Activity** Two-Action
 
-Elemental energy replaces every cell of your body with raw metal. You gain the benefits of the ferrous form spell (except you can't cast needle darts; see page 142) until the end of your next turn. You can Sustain the impulse up to 1 minute, and when you do, you can Raise a metal Shield if you're wielding one. Your metal Elemental Blasts deal an additional die of damage. If you suspend any conditions with Alloy Flesh and Steel, when it ends, you're temporarily immune to Alloy Flesh and Steel for 1 hour.
+Elemental energy replaces every cell of your body with raw metal. You gain the benefits of the ferrous form spell (except you can't cast needle darts) until the end of your next turn. You can Sustain the impulse up to 1 minute, and when you do, you can Raise a metal Shield if you're wielding one. Your metal Elemental Blasts deal an additional die of damage. If you suspend any conditions with Alloy Flesh and Steel, when it ends, you're temporarily immune to Alloy Flesh and Steel for 1 hour.
 
 *Source: Rage of Elements p. 31*  
 %% #compendium/src/pf2e/roe #trait/impulse #trait/kineticist #trait/manipulate #trait/metal #trait/polymorph #trait/primal %%

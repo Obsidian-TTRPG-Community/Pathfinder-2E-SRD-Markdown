@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-spell
+cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/aoa4
 - spell/focus/3

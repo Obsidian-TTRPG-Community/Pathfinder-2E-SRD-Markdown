@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-item
+cssclasses: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/g&g
 - item/category/consumable/
@@ -20,9 +20,9 @@ This rare gadget uses Stasian technology to grant someone a burst of activity, t
 
 > [!success-degree] 
 > - **Critical Success** You gain the [quickened](rules/conditions.md#Quickened) condition for 1 minute and can use the extra action each round only to [Stride](rules/actions/stride.md) or [Strike](rules/actions/strike.md).
-> - **Success** As critical success, but you also take 3 persistent electrical damage.
-> - **Failure** You gain the [quickened](rules/conditions.md#Quickened) condition for 2 rounds and can use the extra action each round only to [Stride](rules/actions/stride.md) or [Strike](rules/actions/strike.md). You take 3 persistent electrical damage.
-> - **Critical Failure** You take `2d6` electrical damage and 3 persistent electrical damage.
+> - **Success** As critical success, but you also take 3 [persistent electrical damage](rules/conditions.md#Persistent%20Damage).
+> - **Failure** You gain the [quickened](rules/conditions.md#Quickened) condition for 2 rounds and can use the extra action each round only to [Stride](rules/actions/stride.md) or [Strike](rules/actions/strike.md). You take 3 [persistent electrical damage](rules/conditions.md#Persistent%20Damage).
+> - **Critical Failure** You take `2d6` electrical damage and 3 [persistent electrical damage](rules/conditions.md#Persistent%20Damage).
 
 
 ---

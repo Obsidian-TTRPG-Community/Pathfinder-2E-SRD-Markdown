@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-feat
+cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/apg
 - trait/archetype
@@ -29,7 +29,7 @@ Your class feats and vigilante feats are associated with your vigilante identity
 
 ## Vigilante Dedication leads to...
 
-[Hidden Magic](compendium/feats/hidden-magic-apg.md), [Many Guises](compendium/feats/many-guises-apg.md), [Minion Guise](compendium/feats/minion-guise-apg.md), [Quick Change](compendium/feats/quick-change-apg.md), [Safe House](compendium/feats/safe-house-apg.md), [Social Purview](compendium/feats/social-purview-apg.md), [Startling Appearance](compendium/feats/startling-appearance-apg.md), [Subjective Truth](compendium/feats/subjective-truth-apg.md), [Executioner Weapon Training](compendium/feats/executioner-weapon-training-ngd.md), [Harsh Judgment](compendium/feats/harsh-judgment-ngd.md), [Frightful Condemnation](compendium/feats/frightful-condemnation-ngd.md), [Accurate Swing](compendium/feats/accurate-swing-ngd.md), [Execution](compendium/feats/execution-ngd.md), [Voice of Authority](compendium/feats/voice-of-authority-ngd.md), [Strident Command](compendium/feats/strident-command-ngd.md), [Discerning Gaze](compendium/feats/discerning-gaze-ngd.md), [Gardener's Resolve](compendium/feats/gardeners-resolve-ngd.md), [Reminder of the Greater Fear](compendium/feats/reminder-of-the-greater-fear-ngd.md), [Terrifying Countenance](compendium/feats/terrifying-countenance-ngd.md)
+[Hidden Magic](compendium/feats/hidden-magic-apg.md), [Many Guises](compendium/feats/many-guises-apg.md), [Minion Guise](compendium/feats/minion-guise-apg.md), [Quick Change](compendium/feats/quick-change-apg.md), [Safe House](compendium/feats/safe-house-apg.md), [Social Purview](compendium/feats/social-purview-apg.md), [Startling Appearance](compendium/feats/startling-appearance-apg.md), [Frightening Appearance](compendium/feats/frightening-appearance-apg.md), [Stunning Appearance](compendium/feats/stunning-appearance-apg.md), [Subjective Truth](compendium/feats/subjective-truth-apg.md), [Executioner Weapon Training](compendium/feats/executioner-weapon-training-ngd.md), [Harsh Judgment](compendium/feats/harsh-judgment-ngd.md), [Frightful Condemnation](compendium/feats/frightful-condemnation-ngd.md), [Accurate Swing](compendium/feats/accurate-swing-ngd.md), [Execution](compendium/feats/execution-ngd.md), [Voice of Authority](compendium/feats/voice-of-authority-ngd.md), [Strident Command](compendium/feats/strident-command-ngd.md), [Discerning Gaze](compendium/feats/discerning-gaze-ngd.md), [Gardener's Resolve](compendium/feats/gardeners-resolve-ngd.md), [Reminder of the Greater Fear](compendium/feats/reminder-of-the-greater-fear-ngd.md), [Terrifying Countenance](compendium/feats/terrifying-countenance-ngd.md)
 
 ## Summary
 

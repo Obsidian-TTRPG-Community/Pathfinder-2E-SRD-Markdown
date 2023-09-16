@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-item
+cssclasses: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/sot2
 - item/category/held/
@@ -15,7 +15,7 @@ aliases: ["Habu's Cudgel"]
 - **Price** 415 gp
 - **Bulk** 1; **Usage** held in 1 hand
 
-Long associated with a notorious crime boss in Nantambu, this stout +1 striking fearsomeAPG club is studded with vicious-looking knobs of obsidian and wrapped in cloth for a better grip.
+Long associated with a notorious crime boss in Nantambu, this stout +1 striking [fearsome](compendium/equipment/items/fearsome-apg.md) club is studded with vicious-looking knobs of obsidian and wrapped in cloth for a better grip.
 
 It emits a ghastly groan when swung.
 

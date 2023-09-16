@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-book
+cssclasses: pf2e,pf2e-book
 tags:
 - compendium/src/pf2e/gmg
 aliases: ["chapter-4-variant-rules"]
@@ -159,14 +159,14 @@ If you want to keep parts of the existing alignment system, you can use either o
 #### Extreme Good and Evil
 <sup>GMG p. 184</sup>
 
-In this variant, some creatures exemplify the concepts of extreme good and evil by their very nature. Only fiends, celestials, and other residents of aligned Outer Sphere planes have an alignment. Remove most alignment restrictions— such as the cleric and champion restrictions—but not ones related to those extraplanar creatures. Replace the removed restrictions with appropriate anathema if necessary.
+In this variant, some creatures exemplify the concepts of extreme good and evil by their very nature. Only fiends, celestials, and other residents of aligned Outer Sphere planes have an alignment. Remove most alignment restrictions—such as the cleric and champion restrictions—but not ones related to those extraplanar creatures. Replace the removed restrictions with appropriate anathema if necessary.
 
 #### Incremental Alignment
 <sup>GMG p. 184</sup>
 
 Changing character alignment can be extremely dramatic under the Core Rulebook rules. Sometimes, this comes as a surprise to the player, as they find out they and the GM had differing ideas on how their acts impact alignment. The incremental alignment variant breaks each axis of alignment into seven steps that reflect how close a character is to shifting alignments.
 
-This lets you and the player better understand where the character falls, and it allows a player who wants to play a character living on the edge between alignments to see that represented in the rules. This is not meant to be a highly granular system or one a player can exploit by repeatedly making trivial gestures toward a given alignment. It's meant to indicate the trends of a character's behavior and foreshadow any alignment change that might occur over time. It's typically harder to reach the ends of the scale through minor acts, especially for the evil versus good axis. A character who commits multiple minor acts toward an alignment might shift one step, but it would take a truly reprehensible act to shift them fully to evil all at once— and to recover it could take a long-term atonement and commitment to good.
+This lets you and the player better understand where the character falls, and it allows a player who wants to play a character living on the edge between alignments to see that represented in the rules. This is not meant to be a highly granular system or one a player can exploit by repeatedly making trivial gestures toward a given alignment. It's meant to indicate the trends of a character's behavior and foreshadow any alignment change that might occur over time. It's typically harder to reach the ends of the scale through minor acts, especially for the evil versus good axis. A character who commits multiple minor acts toward an alignment might shift one step, but it would take a truly reprehensible act to shift them fully to evil all at once—and to recover it could take a long-term atonement and commitment to good.
 
 If a rule depends on a character's alignment, disregard the "fully" and "somewhat" distinctions. A protection spell keyed against evil works against both somewhat and fully evil characters. However, some spells, like detect alignment, might give more precise information.
 

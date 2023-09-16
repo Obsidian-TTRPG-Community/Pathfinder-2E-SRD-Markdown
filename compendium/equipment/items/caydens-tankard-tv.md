@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-item
+cssclasses: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
 - item/category/artifact/
@@ -38,7 +38,7 @@ title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actio
 
 - **Frequency**: once per day
 
-**Effect** You enhance yourself with a shard of Cayden's divine fortune and cast [indestructibility](compendium/spells/indestructibility-apg.md) APG.
+**Effect** You enhance yourself with a shard of Cayden's divine fortune and cast [indestructibility](compendium/spells/indestructibility-apg.md).
 
 Destruction If a lawful evil creature carries Cayden's Tankard into the Starstone Cathedral, drinks from it, and returns outside with it, the tankard shatters.
 ```

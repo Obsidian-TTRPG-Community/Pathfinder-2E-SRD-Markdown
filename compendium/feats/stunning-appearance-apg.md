@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-feat
+cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/apg
 - trait/archetype
@@ -10,7 +10,7 @@ aliases: ["Stunning Appearance"]
 # Stunning Appearance  *Feat 16*  
 [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [vigilante](rules/traits/vigilante-apg.md "Vigilante Feat Trait")  
 
-- **Prerequisites**: [Startling Appearance](compendium/feats/startling-appearance-loag.md)
+- **Prerequisites**: [Startling Appearance](compendium/feats/startling-appearance-apg.md)
 
 Your sudden appearance leaves your foe unable to respond.
 

@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-item
+cssclasses: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
 - item/category/artifact/
@@ -15,7 +15,7 @@ aliases: ["Ghosthand's Comet"]
 
 - **Bulk** 2; **Usage** held in 2 hands
 
-The barrel of this long rifle is translucent in places, forming a swirled pattern along the metal, and its stock is formed of crimson wood. Ghosthand's Comet is a +4 major striking beast‑bane SoM greater impactful SoM advanced firearm with a range increment of 300 feet. It deals `5d8` force damage and has the backstabber, concussive, kickback, and fatal d12 traits. As a star gun, Ghosthand's Comet runs on magic and doesn't use ammunition or black powder. The weapon is silent when fired.
+The barrel of this long rifle is translucent in places, forming a swirled pattern along the metal, and its stock is formed of crimson wood. Ghosthand's Comet is a +4 major striking [beast‑bane](compendium/equipment/items/bane-som.md) greater impactful advanced firearm with a range increment of 300 feet. It deals `5d8` force damage and has the backstabber, concussive, kickback, and fatal d12 traits. As a star gun, Ghosthand's Comet runs on magic and doesn't use ammunition or black powder. The weapon is silent when fired.
 
 ```ad-embed-ability
 title: **Activate** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") envision

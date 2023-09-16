@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-spell
+cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/apg
 - spell/area/burst
@@ -21,7 +21,7 @@ Magical monkey spirits fill the area as they pile and climb on top of one anothe
 
 Choose the kind of mischief your monkeys make when you [Cast the Spell](rules/actions/cast-a-spell.md). They produce the effect listed for that mischief when you [Cast the Spell](rules/actions/cast-a-spell.md) and the first time each round you [Sustain the Spell](rules/actions/sustain-a-spell.md). When you [Sustain the Spell](rules/actions/sustain-a-spell.md), you can move the area of the monkeys by 5 feet.
 
-- **Flagrant Burglary** The monkeys try to [Steal](rules/actions/steal.md) any one item from one creature in the area. Use your spell DC – 10 as the monkeys' [Thievery](compendium/skills.md#Thievery) modifier. Their attempt relies more on distraction than subtlety, so the victim knows what item the monkeys were trying to take and whether it was taken. Getting a stolen item from the monkeys— even for the caster—requires Stealing it from them or Disarming them, using your spell DC. When the spell ends, any stolen items fall to the ground in any square of the spell's area you choose.
+- **Flagrant Burglary** The monkeys try to [Steal](rules/actions/steal.md) any one item from one creature in the area. Use your spell DC – 10 as the monkeys' [Thievery](compendium/skills.md#Thievery) modifier. Their attempt relies more on distraction than subtlety, so the victim knows what item the monkeys were trying to take and whether it was taken. Getting a stolen item from the monkeys—even for the caster—requires Stealing it from them or Disarming them, using your spell DC. When the spell ends, any stolen items fall to the ground in any square of the spell's area you choose.
 - **Raucous Din** The monkeys screech loudly, potentially deafening creatures in the spell's area. Each creature in the spell's area must attempt a Fortitude save.
 
 > [!success-degree] 

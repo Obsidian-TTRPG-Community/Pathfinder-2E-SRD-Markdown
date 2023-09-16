@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-deity
+cssclasses: pf2e,pf2e-deity
 tags:
 - compendium/src/pf2e/logm
 - deity/gods-of-the-inner-sea
@@ -42,7 +42,7 @@ title: [Avatar](compendium/spells/avatar.md) of Hei Feng
 - **Speed**: Speed 70 feet, [air walk](compendium/spells/air-walk.md), ignore difficult terrain and greater difficult terrain
 - **Shield**: shield ( Hardness, can't be damaged)
 - **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") drunken sword (, [forceful](rules/traits/forceful.md "Forceful Weapon Trait"), [reach <15 feet>](rules/traits/reach-15-feet.md "Reach Weapon Trait")), **Damage** `4d6+6` slashing and `1d6` electricity splash 
-- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") storm surge (, [air](rules/traits/air.md "Air Energy & Element Trait"), [water](rules/traits/water.md "Water Energy & Element Trait")), **Damage** `4d6+3` bludgeoning and `1d6` electricity splash The caster is immune to this splash damage
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") storm surge (, [air](rules/traits/air.md "Air Energy & Element Trait"), [water](rules/traits/water.md "Water Energy & Element Trait")), **Damage** `4d6+3` bludgeoning and `1d6` electricity splash The caster is immune to this [splash](rules/traits/splash.md "Splash Weapon Trait") damage
 ```
 
 ## Divine intercession

@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-book
+cssclasses: pf2e,pf2e-book
 tags:
 - compendium/src/pf2e/gmg
 aliases: ["chapter-2-tools"]
@@ -56,7 +56,7 @@ Now that you understand your creature's concept, it's time to get to the statist
 > This section details the creature-building process using the following steps.
 > 
 > - **Develop the Concept (page 56)** Think about your creature, and make notes you can use in future steps.
-> - **Build the Stat Block** Pick all the statistics for the creatures, going through the list below.  
+> - **.** **Build the Stat Block** Pick all the statistics for the creatures, going through the list below.  
   
     - Level (page 58)  
     - Alignment, Size, and Traits (page 58)  
@@ -789,7 +789,7 @@ To decide whether your creature should have a reaction, first consider if the cr
 
 Second, look at the complexity of the encounter your creature is likely to appear in. If you'll have a large number of creatures, skipping reactions can make the fight flow faster. A creature that's more likely to fight solo, on the other hand, might have a reaction to give it a way to continue to be dangerous amid an onslaught of attacks by the party.
 
-When creating reactions, be careful with "gotcha" abilities—ones that punish players for making perfectly reasonable choices, for rolling poorly, and so on. If you include abilities like this, they need to reinforce the creature's core theme and the play style you want it to use in combat. For example, a creature that [Strikes](rules/actions/strike.md) as a reaction when someone fails an attack roll will encourage PCs to use their actions on other tactics, rather than attacking multiple times each turn. Is that what you want? Is this dynamic essential for making the creature feel like it's supposed to? This isn't the type of ability you'd give to any old creature— only an incredible duelist or something similar.
+When creating reactions, be careful with "gotcha" abilities—ones that punish players for making perfectly reasonable choices, for rolling poorly, and so on. If you include abilities like this, they need to reinforce the creature's core theme and the play style you want it to use in combat. For example, a creature that [Strikes](rules/actions/strike.md) as a reaction when someone fails an attack roll will encourage PCs to use their actions on other tactics, rather than attacking multiple times each turn. Is that what you want? Is this dynamic essential for making the creature feel like it's supposed to? This isn't the type of ability you'd give to any old creature—only an incredible duelist or something similar.
 
 Reactions should require something out of the ordinary to happen, or should be relatively weak if triggered by something ordinary. A reaction that triggers anytime someone tries to [Strike](rules/actions/strike.md) a creature is likely to be perceived by the players as uninteresting because it's so predictable.
 
@@ -1196,7 +1196,7 @@ typically low
 
 precision, swarm mind
 
-area damage, splash damage
+area damage, [splash](rules/traits/splash.md "Splash Weapon Trait") damage
 
 physical, usually with one physical type having lower or no resistance
 ```
@@ -1278,7 +1278,7 @@ If you do choose to build an NPC fully using the PC rules, your NPC should gener
 
 > [!pf2-brown] CLASS ABILITIES
 > 
-> You don't need to give an NPC all the abilities from its class— especially those that just alter numbers. The following abilities are good quick choices that make for more interesting encounters.
+> You don't need to give an NPC all the abilities from its class—especially those that just alter numbers. The following abilities are good quick choices that make for more interesting encounters.
 > 
 > - **Alchemist** Feats 1st: [Quick Bomber](compendium/feats/quick-bomber.md); 6th: [Debilitating Bomb](compendium/feats/debilitating-bomb.md); 8th: [Sticky Bomb](compendium/feats/sticky-bomb.md); 10th: [Expanded Splash](compendium/feats/expanded-splash.md), [Greater Debilitating Bomb](compendium/feats/greater-debilitating-bomb.md); 14th: [True Debilitating Bomb](compendium/feats/true-debilitating-bomb.md); 18th: [Miracle Worker](compendium/feats/miracle-worker.md)
 > - **Barbarian** instinct ability and related feats, raging resistance; Feats 1st: [Raging Intimidation](compendium/feats/raging-intimidation.md); 2nd: [No Escape](compendium/feats/no-escape.md), [Shake it Off](compendium/feats/shake-it-off.md); 4th: [Fast Movement](compendium/feats/fast-movement.md), [Swipe (Barbarian)](compendium/feats/swipe-barbarian.md); 6th: [Attack of Opportunity (Barbarian)](compendium/feats/attack-of-opportunity-barbarian.md), [Cleave](compendium/feats/cleave.md); 8th: [Sudden Leap (Barbarian)](compendium/feats/sudden-leap-barbarian.md); 10th: [Come and Get Me](compendium/feats/come-and-get-me.md), [Knockback](compendium/feats/knockback.md), [Terrifying Howl](compendium/feats/terrifying-howl.md); 14th: [Awesome Blow](compendium/feats/awesome-blow.md), [Whirlwind Strike (Barbarian)](compendium/feats/whirlwind-strike-barbarian.md); 18th: [Vicious Evisceration](compendium/feats/vicious-evisceration.md)
@@ -1712,25 +1712,25 @@ Especially strange ones might fall into the gap between two levels.
 | Level | Price | Core Item |
 |-------|-------|-----------|
 | 1 | 10–20 gp |  |
-| 2 | 25–35 gp |  +1 weapon |
-| 3 | 45–60 gp |  +1 skill item |
-| 4 | 75–100 gp |  +1 striking weapon |
-| 5 | 125–160 gp |  +1 armor |
+| 2 | 25–35 gp | +1 weapon |
+| 3 | 45–60 gp | +1 skill item |
+| 4 | 75–100 gp | +1 striking weapon |
+| 5 | 125–160 gp | +1 armor |
 | 6 | 200–250 gp |  |
 | 7 | 300–360 gp |  |
-| 8 | 415–500 gp |  +1 resilient armor |
-| 9 | 575–700 gp |  +2 skill item |
-| 10 | 820–1,000 gp |  +2 striking weapon |
-| 11 | 1,160–1,400 gp |  +2 resilient armor |
-| 12 | 1,640–2,000 gp |  +2 greater striking weapon |
+| 8 | 415–500 gp | +1 resilient armor |
+| 9 | 575–700 gp | +2 skill item |
+| 10 | 820–1,000 gp | +2 striking weapon |
+| 11 | 1,160–1,400 gp | +2 resilient armor |
+| 12 | 1,640–2,000 gp | +2 greater striking weapon |
 | 13 | 2,400–3,000 gp |  |
-| 14 | 3,600–4,500 gp |  +2 greater resilient armor |
+| 14 | 3,600–4,500 gp | +2 greater resilient armor |
 | 15 | 5,300–6,500 gp |  |
-| 16 | 7,900–10,000 gp |  +3 greater striking weapon |
-| 17 | 12,000–15,000 gp |  +3 skill item, apex item |
-| 18 | 18,600–24,000 gp |  +3 greater resilient armor |
-| 19 | 30,400–40,000 gp |  +3 superior striking weapon |
-| 20 | 52,000–70,000 gp |  +3 superior resilient armor |
+| 16 | 7,900–10,000 gp | +3 greater striking weapon |
+| 17 | 12,000–15,000 gp | +3 skill item, apex item |
+| 18 | 18,600–24,000 gp | +3 greater resilient armor |
+| 19 | 30,400–40,000 gp | +3 superior striking weapon |
+| 20 | 52,000–70,000 gp | +3 superior resilient armor |
 
 #### Consumables
 <sup>GMG p. 85</sup>
@@ -2189,7 +2189,7 @@ Building your own campaign world can be a deeply fulfilling creative process, as
 ### Design Approach
 <sup>GMG p. 122</sup>
 
-World building can be approached in many ways, but it fundamentally comes down to a simple preference. Do you start at a high level and zoom in, or do you start small and build up? This section outlines a largely top-down approach, but you can design from the bottom up simply by starting at the end of this section and working backwards. Either way, you may find yourself skipping between sections as inspiration strikes—and that's OK! When building a world, there's a risk of becoming overwhelmed by the sheer number of decisions to be made. Remember that you don't need to make every decision for every aspect of your world all at once. Focus first on the elements you need for your story and the game, then add as much of the rest as you'd like. You'll also want to allow room for input from your players— gaming sessions are more memorable and engaging when the storytelling experience is shared between everyone at the table (page 32 has more information on players contributing to the narrative)
+World building can be approached in many ways, but it fundamentally comes down to a simple preference. Do you start at a high level and zoom in, or do you start small and build up? This section outlines a largely top-down approach, but you can design from the bottom up simply by starting at the end of this section and working backwards. Either way, you may find yourself skipping between sections as inspiration strikes—and that's OK! When building a world, there's a risk of becoming overwhelmed by the sheer number of decisions to be made. Remember that you don't need to make every decision for every aspect of your world all at once. Focus first on the elements you need for your story and the game, then add as much of the rest as you'd like. You'll also want to allow room for input from your players—gaming sessions are more memorable and engaging when the storytelling experience is shared between everyone at the table (page 32 has more information on players contributing to the narrative)
 
 Before you decide anything else, however, you should establish your concept and your goals. Do you envision a high-magic steampunk setting where humans are a tiny minority? A world where the only magic derives from squabbling pantheons of gods whose followers are caught up in their wars for power? A quaint town isolated from an otherwise-unknown world beyond a vast, impenetrable forest of mist-choked, skeletal trees? Are you designing a world for a multi-year campaign, or for a fast-paced one-shot adventure? Having an idea in mind will help steer your choices as you build your world, and knowing your goals will help you focus on building what you need.
 
@@ -2734,7 +2734,7 @@ Some planes enhance certain magic and impede opposing effects. A plane that enha
 #### Alignment Trait
 <sup>GMG p. 136</sup>
 
-Certain planes, particularly in the Outer Sphere, are attuned to an alignment. Most inhabitants share that alignment— even powerful creatures such as deities. Planes with the neutral alignment trait are more often a mix of alignments than strongly neutral, and planes with no alignment affinity simply don't have an alignment trait, rather than being neutral. Alignments are given as an abbreviation (_Pathfinder Bestiary_ 345), which appears first in the plane's list of traits.
+Certain planes, particularly in the Outer Sphere, are attuned to an alignment. Most inhabitants share that alignment—even powerful creatures such as deities. Planes with the neutral alignment trait are more often a mix of alignments than strongly neutral, and planes with no alignment affinity simply don't have an alignment trait, rather than being neutral. Alignments are given as an abbreviation (_Pathfinder Bestiary_ 345), which appears first in the plane's list of traits.
 
 Spells that share any of the plane's alignment traits are enhanced, and those with opposing traits are impeded. For instance, in the chaotic evil Abyss, chaotic and evil spells are enhanced, and lawful and good spells are impeded.
 
@@ -2823,7 +2823,7 @@ Unprotected wood, paper, cloth, and other flammable materials catch fire almost 
 ### Planar Stat Blocks
 <sup>GMG p. 138</sup>
 
-Each of the planes listed in the following pages includes a short stat block of key information. The plane's type— whether it is a plane, dimension, or demiplane—appears in the stat block's heading, followed by the traits that define that plane. The following entries also provide important information about each plane.
+Each of the planes listed in the following pages includes a short stat block of key information. The plane's type—whether it is a plane, dimension, or demiplane—appears in the stat block's heading, followed by the traits that define that plane. The following entries also provide important information about each plane.
 
 **Category:** This indicates whether the plane is an Inner Plane, Outer Plane, Transitive Plane, or dimension.
 

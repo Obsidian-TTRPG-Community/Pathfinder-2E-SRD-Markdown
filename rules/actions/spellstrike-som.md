@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-action
 tags:
 - action/class/magus-som
 - compendium/src/pf2e/som
@@ -25,7 +25,7 @@ After you use Spellstrike, you can't do so again until you recharge your Spellst
 
 **Reach:** The coupled spell affects the target using the reach of the weapon or unarmed attack you make your [Spellstrike](rules/actions/spellstrike-som.md) with. For instance, [shocking grasp](compendium/spells/shocking-grasp.md) would affect a creature beyond the reach of your hand if you used a weapon with reach, and [ray of frost](compendium/spells/ray-of-frost.md) would affect only a creature in your weapon's reach, even though the spell's range is longer.
 
-**Ancillary Effects:** Your spell still has any non-targeted effects that might affect creatures other than the target, as well as any ongoing effects starting from the moment you hit with the [Strike](rules/actions/strike.md). For example, [acid splash](compendium/spells/acid-splash.md) would still deal its splash damage to creatures other than the target and tanglefoot's circumstance penalty would last for its normal duration. The spell takes effect after the [Strike](rules/actions/strike.md) deals damage; if the [Strike](rules/actions/strike.md) has other special effects, the GM determines whether they happen before or after the spell.
+**Ancillary Effects:** Your spell still has any non-targeted effects that might affect creatures other than the target, as well as any ongoing effects starting from the moment you hit with the [Strike](rules/actions/strike.md). For example, [acid splash](compendium/spells/acid-splash.md) would still deal its [splash](rules/traits/splash.md "Splash Weapon Trait") damage to creatures other than the target and tanglefoot's circumstance penalty would last for its normal duration. The spell takes effect after the [Strike](rules/actions/strike.md) deals damage; if the [Strike](rules/actions/strike.md) has other special effects, the GM determines whether they happen before or after the spell.
 
 **Multiple Defenses:** Any additional rolls after the initial spell attack still happen normally, such as the Fortitude save attempted by the target of a disintegrate spell. Similarly, a spell that allows you to attack with it again on subsequent rounds would only combine a [Strike](rules/actions/strike.md) with its initial attack roll, not with any later ones.
 

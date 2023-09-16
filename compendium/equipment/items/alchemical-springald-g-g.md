@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-item
+cssclasses: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/g&g
 - item/category/siege-weapon/
@@ -37,7 +37,7 @@ title: **Load** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "
 title: **Launch** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") ([manipulate](rules/traits/manipulate.md), range increment <100 feet>)
 
 
-`10d6` damage and 3 splash damage, three different targets within a 15-foot burst, DC 30 Reflex. The damage type depends on the alchemical ammunition used: acid, cold, electricity, or fire. Creatures take the splash damage only once from the launch, even if they're in the area of more than one of the three splashes.  
+`10d6` damage and 3 [splash](rules/traits/splash.md "Splash Weapon Trait") damage, three different targets within a 15-foot burst, DC 30 Reflex. The damage type depends on the alchemical ammunition used: acid, cold, electricity, or fire. Creatures take the [splash](rules/traits/splash.md "Splash Weapon Trait") damage only once from the launch, even if they're in the area of more than one of the three splashes.  
 %%
  #trait/manipulate  #trait/range-increment-100-feet 
 %%

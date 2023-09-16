@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-item
+cssclasses: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
 - item/category/held/
@@ -23,7 +23,7 @@ title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actio
 - **Frequency**: once per day
 - **Requirements**: You hit a creature using the rime foil as your last action
 
-**Effect** You cast 5th-level [phantom prison](compendium/spells/phantom-prison-som.md)SoM on the target (DC 22 Will to disbelieve). If the target has been damaged by a shattered plan in the last round, the DC is instead 24. Special The rime foil pairs with the shattered plan.
+**Effect** You cast 5th-level [phantom prison](compendium/spells/phantom-prison-som.md) on the target (DC 22 Will to disbelieve). If the target has been damaged by a shattered plan in the last round, the DC is instead 24. Special The rime foil pairs with the shattered plan.
 ```
 
 

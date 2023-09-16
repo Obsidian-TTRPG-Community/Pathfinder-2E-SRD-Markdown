@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-item
+cssclasses: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/lomm
 - item/category/artifact/
@@ -17,7 +17,7 @@ aliases: ["Spear of the Destroyer's Flame"]
 
 The tip of this longspear is edged with several razor-sharp obsidian blades. The spear has the thrown 30 feet weapon trait, in addition to the normal weapon traits for a longspear.
 
-While the Spear of the Destroyer's Flame is in your possession, you gain fire resistance 20. When you critically hit a creature with the spear, the creature's blood begins to boil, unleashing blasts of heat from the wound. The creature takes `2d8` [persistent fire damage](rules/conditions.md#Persistent%20Damage), in addition to the persistent fire damage from the greater flaming rune; all creatures adjacent to the creature when it takes the persistent fire damage take an equal amount of fire damage. Like the fire damage from the greater flaming rune, this fire damage ignores a creature's fire resistance, though it doesn't ignore fire immunity.
+While the Spear of the Destroyer's Flame is in your possession, you gain fire resistance 20. When you critically hit a creature with the spear, the creature's blood begins to boil, unleashing blasts of heat from the wound. The creature takes `2d8` [persistent fire damage](rules/conditions.md#Persistent%20Damage), in addition to the [persistent fire damage](rules/conditions.md#Persistent%20Damage) from the greater flaming rune; all creatures adjacent to the creature when it takes the [persistent fire damage](rules/conditions.md#Persistent%20Damage) take an equal amount of fire damage. Like the fire damage from the greater flaming rune, this fire damage ignores a creature's fire resistance, though it doesn't ignore fire immunity.
 
 In addition to its deadliness as a weapon, the Spear of the Destroyer's Flame gives its wielder full control over the Army of Fire, though the orders of the Commander of Flame supersede the orders of anyone wielding the spear, as noted below. While the spear is in your possession, you're aware of the location of the Army of Fire and the army's distance from you. In addition, you can give orders to the Army of Fire, and the army's members will understand and obey you, regardless of what language you speak. If you're within 1 mile of the Army of Fire, the army and its members gain a +10 circumstance bonus to their Speeds. Any members of the Army of Fire within 100 feet of you become [quickened](rules/conditions.md#Quickened) and can use the additional action to [Step](rules/actions/step.md), [Stride](rules/actions/stride.md), or [Strike](rules/actions/strike.md). The army remains quickened for 1 minute after moving further than 100 feet from you.
 

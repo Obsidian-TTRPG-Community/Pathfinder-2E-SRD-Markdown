@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-item
+cssclasses: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/crb
 - item/category/bomb/
@@ -17,7 +17,7 @@ aliases: ["Thunderstone"]
 - **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Strike](rules/actions/strike.md)
 
-When this stone hits a creature or a hard surface, it explodes with a deafening bang. A thunderstone deals the listed sonic damage and sonic splash damage, and each creature within 10 feet of the space in which the stone exploded must succeed at a Fortitude saving throw with the listed DC or be [deafened](rules/conditions.md#Deafened) until the end of its next turn. Many types of thunderstone grant an item bonus to attack rolls.
+When this stone hits a creature or a hard surface, it explodes with a deafening bang. A thunderstone deals the listed sonic damage and sonic [splash](rules/traits/splash.md "Splash Weapon Trait") damage, and each creature within 10 feet of the space in which the stone exploded must succeed at a Fortitude saving throw with the listed DC or be [deafened](rules/conditions.md#Deafened) until the end of its next turn. Many types of thunderstone grant an item bonus to attack rolls.
 
 ---
 
@@ -27,25 +27,25 @@ When this stone hits a creature or a hard surface, it explodes with a deafening 
 
 - **Price**: 3 gp
 
-The bomb deals `1d4` sonic damage and 1 sonic splash damage, and the DC is 17.
+The bomb deals `1d4` sonic damage and 1 sonic [splash](rules/traits/splash.md "Splash Weapon Trait") damage, and the DC is 17.
 
 #### moderate *Item 3*
 
 - **Price**: 10 gp
 
-You gain a +1 item bonus to attack rolls. The bomb deals `2d4` sonic damage and 2 sonic splash damage, and the DC is 20.
+You gain a +1 item bonus to attack rolls. The bomb deals `2d4` sonic damage and 2 sonic [splash](rules/traits/splash.md "Splash Weapon Trait") damage, and the DC is 20.
 
 #### greater *Item 11*
 
 - **Price**: 250 gp
 
-You gain a +2 item bonus to attack rolls. The bomb deals `3d4` sonic damage and 3 sonic splash damage, and the DC is 28.
+You gain a +2 item bonus to attack rolls. The bomb deals `3d4` sonic damage and 3 sonic [splash](rules/traits/splash.md "Splash Weapon Trait") damage, and the DC is 28.
 
 #### major *Item 17*
 
 - **Price**: 2500 gp
 
-You gain a +3 item bonus to attack rolls. The bomb deals `4d4` sonic damage and 4 sonic splash damage, and the DC is 36.
+You gain a +3 item bonus to attack rolls. The bomb deals `4d4` sonic damage and 4 sonic [splash](rules/traits/splash.md "Splash Weapon Trait") damage, and the DC is 36.
 
 ---
 *Source: Core Rulebook p. 546*

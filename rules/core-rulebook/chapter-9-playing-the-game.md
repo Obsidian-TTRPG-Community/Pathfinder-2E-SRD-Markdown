@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-book
+cssclasses: pf2e,pf2e-book
 tags:
 - compendium/src/pf2e/crb
 aliases: ["chapter-9-playing-the-game"]
@@ -117,7 +117,7 @@ There are three other types of bonus that frequently appear: circumstance bonuse
 
 **Status bonuses** typically come from spells, other magical effects, or something applying a helpful, often temporary, condition to you. For instance, the 3rd-level [heroism](compendium/spells/heroism.md) spell grants a +1 status bonus to attack rolls, [Perception](compendium/skills.md#Perception) checks, saving throws, and skill checks. If you were under the effect of [heroism](compendium/spells/heroism.md) and someone cast the [bless](compendium/spells/bless.md) spell, which also grants a +1 status bonus on attacks, your attack rolls would gain only a +1 status bonus, since both spells grant a +1 status bonus to those rolls, and you only take the highest status bonus.
 
-Penalties work very much like bonuses. You can have {**circumstance penalties**, **status penalties**, and sometimes even **item penalties.** Like bonuses of the same type, you take only the worst all of various penalties of a given type. However, you can apply both a bonus and a penalty of the same type on a single roll. For example, if you had a +1 status bonus from a [heroism](compendium/spells/heroism.md) spell but a –2 status penalty from the sickened condition, you'd apply them both to your roll—so [heroism](compendium/spells/heroism.md) still helps even though you're feeling unwell.
+{**circumstance penalties**, **status penalties**, and sometimes even **item penalties.** Like bonuses of the same type, you take only the worst all of various penalties of a given type. However, you can apply both a bonus and a penalty of the same type on a single roll. For example, if you had a +1 status bonus from a [heroism](compendium/spells/heroism.md) spell but a –2 status penalty from the sickened condition, you'd apply them both to your roll—so [heroism](compendium/spells/heroism.md) still helps even though you're feeling unwell.
 
 Unlike bonuses, penalties can also be **untyped**, in which case they won't be classified as "circumstance," "item," or "status." Unlike other penalties, you always add all your untyped penalties together rather than simply taking the worst one. For instance, when you use attack actions, you incur a multiple attack penalty on each attack you make on your turn after the first attack, and when you attack a target that's beyond your weapon's normal range increment, you incur a range penalty on the attack.
 
@@ -430,7 +430,7 @@ See the Conditions Appendix on pages 618–623 for the complete rules regarding 
 #### Doubling and Halving Damage
 <sup>CRB p. 451</sup>
 
-Sometimes you'll need to halve or double an amount of damage, such as when the outcome of your Strike is a critical hit, or when you succeed at a basic Reflex save against a spell. When this happens, you roll the damage normally, adding all the normal modifiers, bonuses, and penalties. Then you double or halve the amount as appropriate (rounding down if you halved it). The GM might allow you to roll the dice twice and double the modifiers, bonuses, and penalties instead of doubling the entire result, but this usually works best for singletarget attacks or spells at low levels when you have a small number of damage dice to roll. Benefits you gain specifically from a critical hit, like the [flaming](compendium/equipment/items/flaming.md) weapon rune's persistent fire damage or the extra damage die from the fatal weapon trait, aren't doubled.
+Sometimes you'll need to halve or double an amount of damage, such as when the outcome of your Strike is a critical hit, or when you succeed at a basic Reflex save against a spell. When this happens, you roll the damage normally, adding all the normal modifiers, bonuses, and penalties. Then you double or halve the amount as appropriate (rounding down if you halved it). The GM might allow you to roll the dice twice and double the modifiers, bonuses, and penalties instead of doubling the entire result, but this usually works best for singletarget attacks or spells at low levels when you have a small number of damage dice to roll. Benefits you gain specifically from a critical hit, like the [flaming](compendium/equipment/items/flaming.md) weapon rune's [persistent fire damage](rules/conditions.md#Persistent%20Damage) or the extra damage die from the fatal weapon trait, aren't doubled.
 
 ### Step 2: Determine The Damage Type
 <sup>CRB p. 451</sup>

@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-index
+cssclasses: pf2e,pf2e-index
 ---
 # Index of Spells
 
@@ -98,7 +98,6 @@ cssclass: pf2e,pf2e-index
 - [Blindness](blindness.md)
 - [Blink Charge](blink-charge-som.md)
 - [Blink](blink.md)
-- [Blinking Flame Aura](blinking-flame-aura-loil.md)
 - [Blister](blister-apg.md)
 - [Blistering Invective](blistering-invective-apg.md)
 - [Blood Feast](blood-feast-ec4.md)
@@ -1074,6 +1073,7 @@ cssclass: pf2e,pf2e-index
 - [True Target](true-target.md)
 - [Umbral Extraction](umbral-extraction-som.md)
 - [Umbral Graft](umbral-graft-som.md)
+- [Unblinking Flame Aura](unblinking-flame-aura-loil.md)
 - [Unblinking Flame Emblem](unblinking-flame-emblem-loil.md)
 - [Unblinking Flame Ignition](unblinking-flame-ignition-loil.md)
 - [Unblinking Flame Revelation](unblinking-flame-revelation-lowg.md)

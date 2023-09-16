@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-note
+cssclasses: pf2e,pf2e-note
 tags:
 - compendium/src/pf2e/crb
 aliases: ["Skills, Key Abilities, and Actions"]
@@ -119,8 +119,8 @@ aliases: ["Skills, Key Abilities, and Actions"]
 </tr>
 </table>
 
-[^D] This skill action can be used only during downtime.
+[D]:  This skill action can be used only during downtime.
 
-[^E] This skill action is used during exploration.
+[E]:  This skill action is used during exploration.
 
-[^G] This is a general skill action, with a description appearing on pages 234 –240 instead of under the entries for the various skills it's used for. Decipher Writing appears on page 234, Earn Income on page 236, Identify Magic and Learn a Spell on page 238, and Subsist on page 240.
+[G]:  This is a general skill action, with a description appearing on pages 234 –240 instead of under the entries for the various skills it's used for. Decipher Writing appears on page 234, Earn Income on page 236, Identify Magic and Learn a Spell on page 238, and Subsist on page 240.

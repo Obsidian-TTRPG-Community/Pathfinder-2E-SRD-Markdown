@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-ritual
+cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/som
 - ritual/7

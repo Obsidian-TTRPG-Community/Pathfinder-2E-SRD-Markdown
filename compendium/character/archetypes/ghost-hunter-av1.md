@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-archetype
+cssclasses: pf2e,pf2e-archetype
 tags:
 - compendium/src/pf2e/av1
 aliases: ["Ghost Hunter"]
 ---
 # Ghost Hunter *Dedication Level 2*  
 
-Ghosts have a wide range of capabilities and features— no two ghosts are exactly alike, as the nature of their abilities depends as much upon who they were in life as on how they died. Haunts, the spectral phenomena remaining in a site of death or powerful emotions, are related to but distinct from ghosts.
+Ghosts have a wide range of capabilities and features—no two ghosts are exactly alike, as the nature of their abilities depends as much upon who they were in life as on how they died. Haunts, the spectral phenomena remaining in a site of death or powerful emotions, are related to but distinct from ghosts.
 
 The ghost hunter knows that ghosts and haunts share many features. By focusing on these similarities, they can track down, confront, and defeat all manner of unquiet souls, helping them to find peace and move on to the afterlife.
 

@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-item
+cssclasses: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/apg
 - item/category/bomb/
@@ -17,7 +17,7 @@ aliases: ["Blight Bomb"]
 - **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Strike](rules/actions/strike.md)
 
-Blight bombs contain volatile toxic chemicals that rot flesh. A blight bomb deals the listed poison damage, [persistent poison damage](rules/conditions.md#Persistent%20Damage), and splash damage. Many types grant an item bonus to attack rolls.
+Blight bombs contain volatile toxic chemicals that rot flesh. A blight bomb deals the listed poison damage, [persistent poison damage](rules/conditions.md#Persistent%20Damage), and [splash](rules/traits/splash.md "Splash Weapon Trait") damage. Many types grant an item bonus to attack rolls.
 
 ---
 
@@ -27,25 +27,25 @@ Blight bombs contain volatile toxic chemicals that rot flesh. A blight bomb deal
 
 - **Price**: 3 gp
 
-The bomb deals `1d6` poison damage, `1d4` [persistent poison damage](rules/conditions.md#Persistent%20Damage), and 1 poison splash damage.
+The bomb deals `1d6` poison damage, `1d4` [persistent poison damage](rules/conditions.md#Persistent%20Damage), and 1 poison [splash](rules/traits/splash.md "Splash Weapon Trait") damage.
 
 #### moderate *Item 3*
 
 - **Price**: 10 gp
 
-You gain a +1 item bonus to attack rolls. The bomb deals `2d6` poison damage, `2d4` [persistent poison damage](rules/conditions.md#Persistent%20Damage), and 2 poison splash damage.
+You gain a +1 item bonus to attack rolls. The bomb deals `2d6` poison damage, `2d4` [persistent poison damage](rules/conditions.md#Persistent%20Damage), and 2 poison [splash](rules/traits/splash.md "Splash Weapon Trait") damage.
 
 #### greater *Item 11*
 
 - **Price**: 250 gp
 
-You gain a +2 item bonus to attack rolls. The bomb deals `3d6` poison damage, `3d4` [persistent poison damage](rules/conditions.md#Persistent%20Damage), and 3 poison splash damage.
+You gain a +2 item bonus to attack rolls. The bomb deals `3d6` poison damage, `3d4` [persistent poison damage](rules/conditions.md#Persistent%20Damage), and 3 poison [splash](rules/traits/splash.md "Splash Weapon Trait") damage.
 
 #### major *Item 17*
 
 - **Price**: 2500 gp
 
-You gain a +3 item bonus to attack rolls. The bomb deals `4d6` poison damage, `4d4` [persistent poison damage](rules/conditions.md#Persistent%20Damage), and 4 poison splash damage.
+You gain a +3 item bonus to attack rolls. The bomb deals `4d6` poison damage, `4d4` [persistent poison damage](rules/conditions.md#Persistent%20Damage), and 4 poison [splash](rules/traits/splash.md "Splash Weapon Trait") damage.
 
 ---
 *Source: Advanced Player's Guide p. 252*

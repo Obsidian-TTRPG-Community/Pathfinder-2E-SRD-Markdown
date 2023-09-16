@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-book
+cssclasses: pf2e,pf2e-book
 tags:
 - compendium/src/pf2e/crb
 aliases: ["appendix-a-conditions-appendix"]
@@ -63,7 +63,7 @@ Some conditions override others. This is always specified in the entry for the o
 > 
 > - The action to help might require a skill check or another roll to determine its effectiveness.
 > - Reduce the DC of the flat check to 10 for a particularly appropriate type of help, such as dousing you in water to put out flames.
-> - Automatically end the condition due to the type of help, such as healing that restores you to your maximum HP to end persistent bleed damage, or submerging yourself in a lake to end persistent fire damage.
+> - Automatically end the condition due to the type of help, such as healing that restores you to your maximum HP to end [persistent bleed damage](rules/conditions.md#Persistent%20Damage), or submerging yourself in a lake to end [persistent fire damage](rules/conditions.md#Persistent%20Damage).
 > - Alter the number of actions required to help you if the means the helper uses are especially efficient or remarkably inefficient.
 > 
 > ### Immunities, Resistances, and Weaknesses

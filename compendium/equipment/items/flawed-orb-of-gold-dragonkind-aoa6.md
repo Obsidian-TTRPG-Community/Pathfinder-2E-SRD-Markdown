@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-item
+cssclasses: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/aoa6
 - item/category/artifact/
@@ -24,7 +24,7 @@ title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actio
 
 - **Frequency**: three per day
 
-**Effect** You attempt to overwhelm a dragon's mind— while you cannot control the dragon, you can render it immobile for a short time. Choose a dragon within 60 feet; the dragon can attempt to resist the orb with a DC 30 Will saving throw (or higher with [orb shards](compendium/equipment/items/orb-shard-aoa6.md)). Gold dragons take a –4 circumstance penalty to this saving throw. Any stun from this activation ends if the dragon is attacked or otherwise subject to a [hostile](rules/conditions.md#Hostile) act other than that of the orb.
+**Effect** You attempt to overwhelm a dragon's mind—while you cannot control the dragon, you can render it immobile for a short time. Choose a dragon within 60 feet; the dragon can attempt to resist the orb with a DC 30 Will saving throw (or higher with [orb shards](compendium/equipment/items/orb-shard-aoa6.md)). Gold dragons take a –4 circumstance penalty to this saving throw. Any stun from this activation ends if the dragon is attacked or otherwise subject to a [hostile](rules/conditions.md#Hostile) act other than that of the orb.
 
 > [!success-degree] 
 > - **Critical Success** The dragon is unaffected.

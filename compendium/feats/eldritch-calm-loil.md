@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-feat
+cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/loil
 - trait/rare
@@ -15,7 +15,7 @@ Your fey heritage has altered your mindset to more resemble the uncanny perspect
 
 However, your extraordinary emotional detachment makes it difficult to encourage you. You reduce any bonus you gain from an [emotion](rules/traits/emotion.md "Emotion Effect Trait") effect by 1.
 
-**Special.** This feat gains the trait appropriate for your ancestry (human for human, goblin for goblin, etc.).
+**Special.** This feat gains the trait appropriate for your ancestry ([human](rules/traits/human.md "Human Ancestry & Heritage Trait") for human, [goblin](rules/traits/goblin.md "Goblin Ancestry & Heritage Trait") for goblin, etc.).
 
 *Source: Lost Omens: Impossible Lands p. 128*  
 %% #compendium/src/pf2e/loil #trait/rare %%

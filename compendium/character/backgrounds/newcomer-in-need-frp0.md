@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-background
+cssclasses: pf2e,pf2e-background
 tags:
 - background/boost/constitution
 - background/boost/dexterity

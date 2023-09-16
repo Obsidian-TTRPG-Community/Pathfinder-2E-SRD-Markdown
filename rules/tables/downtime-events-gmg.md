@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-note
+cssclasses: pf2e,pf2e-note
 tags:
 - compendium/src/pf2e/gmg
 aliases: ["Downtime Events"]
@@ -26,7 +26,7 @@ aliases: ["Downtime Events"]
 |-------------------------------------------------------|
 | A fussy client demands multiple rounds of changes throughout the process. |
 | An accident at a work site puts someone in danger. |
-| Something the PC is working on becomes a fad or hit— demand skyrockets! A visitor is impressed with the PC's work and offers them a more lucrative task in a distant location. |
+| Something the PC is working on becomes a fad or hit—demand skyrockets! A visitor is impressed with the PC's work and offers them a more lucrative task in a distant location. |
 | Conditions on the job site are abysmal, and other workers ask the PC to join them in confronting the bosses. |
 | The bosses or guildmasters are doing something illegal and attempt to bribe the PC to look the other way. |
 | The PC returns to their work one day to find someone has tampered with what they've done. |

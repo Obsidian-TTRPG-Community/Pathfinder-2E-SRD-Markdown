@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-spell
+cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/apg
 - spell/level/2
@@ -20,7 +20,7 @@ aliases: ["Blistering Invective"]
 - **Targets**: 1 creature
 - **Saving Throw**: Will
 
-A heap of insults and invectives spew from your mouth— words so devastating your foes burn from the intensity of your diatribe. Your words deal `2d6` [persistent fire damage](rules/conditions.md#Persistent%20Damage), and the target must attempt a Will save. If the target doesn't understand the language or you're not speaking a language, it gains a +4 circumstance bonus to its save.
+A heap of insults and invectives spew from your mouth—words so devastating your foes burn from the intensity of your diatribe. Your words deal `2d6` [persistent fire damage](rules/conditions.md#Persistent%20Damage), and the target must attempt a Will save. If the target doesn't understand the language or you're not speaking a language, it gains a +4 circumstance bonus to its save.
 
 > [!success-degree] 
 > - **Critical Success** The target is unaffected.

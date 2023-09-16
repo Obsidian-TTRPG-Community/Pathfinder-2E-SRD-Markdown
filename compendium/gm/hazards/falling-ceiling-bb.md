@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-hazard
+cssclasses: pf2e,pf2e-hazard
 tags:
 - compendium/src/pf2e/bb
 aliases: ["Falling Ceiling"]

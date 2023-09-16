@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-feat
+cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/loil
 - trait/rare
@@ -19,7 +19,7 @@ In addition, you can attempt a counteract check with a total bonus equal to 10 +
 
 An item [drained](rules/conditions.md#Drained) by this action becomes non-magical until the next time you make your daily preparations.
 
-**Special.** This feat gains the trait appropriate for your ancestry (human for human, goblin for goblin, etc.).
+**Special.** This feat gains the trait appropriate for your ancestry ([human](rules/traits/human.md "Human Ancestry & Heritage Trait") for human, [goblin](rules/traits/goblin.md "Goblin Ancestry & Heritage Trait") for goblin, etc.).
 
 *Source: Lost Omens: Impossible Lands p. 126*  
 %% #compendium/src/pf2e/loil #trait/rare %%

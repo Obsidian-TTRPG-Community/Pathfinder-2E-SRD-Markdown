@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-hazard
+cssclasses: pf2e,pf2e-hazard
 tags:
 - compendium/src/pf2e/ooa1
 - trait/mechanical
@@ -26,7 +26,7 @@ title: **Thunderstone** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Ac
 
 - **Trigger**: The front gate is opened
 
-**Effect** A moderate thunderstone falls on the flagstones and activates, dealing 2 sonic splash damage to each creature within 10 feet of the gate. Creatures in the area must succeed at a DC 17 Fortitude saving throw or be [deafened](rules/conditions.md#Deafened) for 1 round. Adjacent creatures can attempt to catch the falling thunderstone (see Disable, above).  
+**Effect** A moderate thunderstone falls on the flagstones and activates, dealing 2 sonic [splash](rules/traits/splash.md "Splash Weapon Trait") damage to each creature within 10 feet of the gate. Creatures in the area must succeed at a DC 17 Fortitude saving throw or be [deafened](rules/conditions.md#Deafened) for 1 round. Adjacent creatures can attempt to catch the falling thunderstone (see Disable, above).  
 %%
  #trait/sonic 
 %%

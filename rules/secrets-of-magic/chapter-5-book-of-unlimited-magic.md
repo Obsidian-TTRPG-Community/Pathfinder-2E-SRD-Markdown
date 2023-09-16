@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-book
+cssclasses: pf2e,pf2e-book
 tags:
 - compendium/src/pf2e/som
 aliases: ["chapter-5-book-of-unlimited-magic"]
@@ -564,7 +564,7 @@ Most ley lines are simply naturally occurring conduits of pure magical energy. T
 title: Energy Ley Line * 4*
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 
-Energy ley lines are attuned to a specific type of energy and enhance that energy's power. They might form where the power from an Inner Plane with immense energy (such as an Elemental Plane, the Positive Energy Plane, or the Negative Energy Plane) seeps across a planar boundary. An energy ley line can be attuned to acid, cold, electricity, fire, force, positive, negative, or sonic energy and gains the respective trait for that energy. Higher-level energy ley lines can deal greater persistent damage on the benefit and greater damage on the backlash, usually `1d8` per 4 levels.
+Energy ley lines are attuned to a specific type of energy and enhance that energy's power. They might form where the power from an Inner Plane with immense energy (such as an Elemental Plane, the Positive Energy Plane, or the Negative Energy Plane) seeps across a planar boundary. An energy ley line can be attuned to acid, cold, electricity, fire, force, positive, negative, or sonic energy and gains the respective trait for that energy. Higher-level energy ley lines can deal greater [persistent damage](rules/conditions.md#Persistent%20Damage) on the benefit and greater damage on the backlash, usually `1d8` per 4 levels.
 
 > [!success-degree] 
 ```
@@ -1091,7 +1091,7 @@ When you take Soulforger Dedication, you must choose a soul path—a motivation,
 #### Corruption
 <sup>SoM p. 234</sup>
 
-Though the supernatural link with a specific armament created by a soulbond is powerful, the sensitive nature of will—with its potential for dramatic ebb and flow— poses a threat to those who harness this power. Once you're bound to a soulforged armament, you begin to test your true devotion to your soul path.
+Though the supernatural link with a specific armament created by a soulbond is powerful, the sensitive nature of will—with its potential for dramatic ebb and flow—poses a threat to those who harness this power. Once you're bound to a soulforged armament, you begin to test your true devotion to your soul path.
 
 If you behave or act in a way that directly opposes or hinders the motivation, goal, or cause declared in your soul path (regardless of whether the act involves your soulforged armaments), your spirit begins to tarnish. It's anathema for you to commit acts opposed to your soul path or to even go a long time without taking action to pursue the path. You and your GM determine when you've performed an anathematic act. In the example of protecting the poor by undermining the rich, working for a wealthy noble or directly in their interest could be anathema, as could spending a month on a distant plane far from the struggles of the oppressed. In both examples, you could find an approach to remain true and avoid the anathema. In the first case, you might use your leverage to force the noble to anonymously divest a substantial amount of their funds to feed and house the poor—or do so yourself. In the second, you might seek a similar dynamic of wealth and want among the cultures of the distant plane and work against it.
 

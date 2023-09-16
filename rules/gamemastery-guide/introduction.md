@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-book
+cssclasses: pf2e,pf2e-book
 tags:
 - compendium/src/pf2e/gmg
 aliases: ["introduction"]
@@ -39,7 +39,7 @@ If you're a newer Game Master, you'll find a wealth of information to help you f
 
 You'll also find the NPC Gallery in Chapter 5 useful as a source of stock NPCs to play a role in your game and also for examples to compare against when using the rules in Chapter 2 to build your own monsters and NPCs.
 
-If you're a Game Master running a published Pathfinder adventure, you'll find guidance in Chapter 1 specifically for running published adventures, and much of the advice in that chapter about running a game applies to published adventures. A number of adventures— especially scenarios in the Pathfinder Society Organized Play campaign and Pathfinder Adventure Path volumes— use the subsystems in Chapter 3. The Victory Points subsystem is the most fundamental of these, but many adventures also use the other subsystems found here, such as vehicles, chases, and influence.
+If you're a Game Master running a published Pathfinder adventure, you'll find guidance in Chapter 1 specifically for running published adventures, and much of the advice in that chapter about running a game applies to published adventures. A number of adventures—especially scenarios in the Pathfinder Society Organized Play campaign and Pathfinder Adventure Path volumes—use the subsystems in Chapter 3. The Victory Points subsystem is the most fundamental of these, but many adventures also use the other subsystems found here, such as vehicles, chases, and influence.
 
 If you are looking to create your own Pathfinder adventures, Chapter 1 provides you design guidance ranging from the broad strokes of an entire campaign, to individual adventures, and then to the particular considerations of any given encounter. Chapter 2 is a veritable toolbox you can use to build the creatures, hazards, items, and other elements you want to use in your adventures. If you plan to set your adventures in a world of your own design, the world-building section of Chapter 2 can guide that process and help you establish the details you'll need to ensure your setting is a vibrant backdrop for fantastic adventure. The NPC Gallery in Chapter 5 can help populate your story and world so that you don't have to create every element from scratch.
 

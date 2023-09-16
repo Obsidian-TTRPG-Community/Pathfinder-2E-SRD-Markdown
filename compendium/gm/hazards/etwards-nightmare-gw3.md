@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-hazard
+cssclasses: pf2e,pf2e-hazard
 tags:
 - compendium/src/pf2e/gw3
 - trait/complex
@@ -39,7 +39,7 @@ title: **DC 28** Fortitude saving throw. If at the end of the round there are no
 
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected and wakes up.
-> - **Success** The creature remains [unconscious](rules/conditions.md#Unconscious) and takes `1d10` cold damage and `1d10` mental damage. This damage does not wake the creature, and those who are awake can see the [unconscious](rules/conditions.md#Unconscious) creature thrash as if in the throes of a nightmare while their body rimes over with layers of frost. The creature can fight against the bitter cold and monstrous shapes by attempting a DC 28 Will save as a three-action activity on its turn— on a success, the creature wakes up.
+> - **Success** The creature remains [unconscious](rules/conditions.md#Unconscious) and takes `1d10` cold damage and `1d10` mental damage. This damage does not wake the creature, and those who are awake can see the [unconscious](rules/conditions.md#Unconscious) creature thrash as if in the throes of a nightmare while their body rimes over with layers of frost. The creature can fight against the bitter cold and monstrous shapes by attempting a DC 28 Will save as a three-action activity on its turn—on a success, the creature wakes up.
 > - **Failure** As success, but `1d10+6` cold and `1d10+6` mental damage, and with a DC 32 Will save to wake up.
 > - **Critical Failure** The creature remains [unconscious](rules/conditions.md#Unconscious) and takes `2d10+12` cold damage and `2d10+12` mental damage.
 ```
@@ -47,7 +47,7 @@ title: **DC 28** Fortitude saving throw. If at the end of the round there are no
 ```ad-pf2-summary
 title: Routine
 
-(2 actions; cold, enchantment, mental, occult) The haunt uses its first action to light incense burners again, forcing any creature that isn't already [unconscious](rules/conditions.md#Unconscious) to save against that effect once more. Its second action is to cause any [unconscious](rules/conditions.md#Unconscious) creatures in the room to experience horrific, vivid dreams about being lost in the arctic during a blizzard, while enormous furred figures— saumen kar—lunge at them through the snow to attack repeatedly. Each [unconscious](rules/conditions.md#Unconscious) creature must attempt a
+(2 actions; cold, enchantment, mental, occult) The haunt uses its first action to light incense burners again, forcing any creature that isn't already [unconscious](rules/conditions.md#Unconscious) to save against that effect once more. Its second action is to cause any [unconscious](rules/conditions.md#Unconscious) creatures in the room to experience horrific, vivid dreams about being lost in the arctic during a blizzard, while enormous furred figures—saumen kar—lunge at them through the snow to attack repeatedly. Each [unconscious](rules/conditions.md#Unconscious) creature must attempt a
 ```
 ^routine
 

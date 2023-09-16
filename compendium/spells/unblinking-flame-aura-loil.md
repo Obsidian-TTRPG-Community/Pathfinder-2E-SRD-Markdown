@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-spell
+cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/loil
 - spell/focus/5
@@ -8,9 +8,9 @@ tags:
 - trait/fire
 - trait/healing
 - trait/uncommon
-aliases: ["Blinking Flame Aura"]
+aliases: ["Unblinking Flame Aura"]
 ---
-# Blinking Flame Aura *Focus 5*   
+# Unblinking Flame Aura *Focus 5*   
 [divination](rules/traits/divination.md "Divination School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 

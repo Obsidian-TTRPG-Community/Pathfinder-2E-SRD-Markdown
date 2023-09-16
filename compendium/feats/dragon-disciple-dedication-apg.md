@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-feat
+cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/apg
 - trait/archetype
@@ -25,8 +25,7 @@ You choose to study or worship one type of dragon, and your focus grants you a m
 - **Sovereign[^1]** Mental
 - **Umbral[^1]** Negative
 
-> [!pf2-note]
-> [^1]Mwangi Expanse, p.76
+[1]: Mwangi Expanse, p.76
 
 You also gain a +1 circumstance bonus to saving throws against [sleep](rules/traits/sleep.md "Sleep Effect Trait") effects and effects that would make you [paralyzed](rules/conditions.md#Paralyzed).
 

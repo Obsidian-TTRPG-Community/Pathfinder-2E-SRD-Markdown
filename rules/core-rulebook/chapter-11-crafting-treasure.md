@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-book
+cssclasses: pf2e,pf2e-book
 tags:
 - compendium/src/pf2e/crb
 aliases: ["chapter-11-crafting-treasure"]
@@ -270,9 +270,9 @@ Bombs are martial thrown weapons with a range increment of 20 feet. When you thr
 #### Splash Trait
 <sup>CRB p. 543</sup>
 
-Most bombs also have the splash trait. When you use a thrown weapon with the splash trait, you don't add your Strength modifier to the damage roll. If an attack with a splash weapon fails, succeeds, or critically succeeds, all creatures within 5 feet of the target (including the target) take the listed splash damage. On a critical failure, the bomb misses entirely, dealing no damage. Add splash damage together with the initial damage against the target before applying the target's resistance or weakness. You don't multiply splash damage on a critical hit.
+Most bombs also have the splash trait. When you use a thrown weapon with the splash trait, you don't add your Strength modifier to the damage roll. If an attack with a splash weapon fails, succeeds, or critically succeeds, all creatures within 5 feet of the target (including the target) take the listed [splash](rules/traits/splash.md "Splash Weapon Trait") damage. On a critical failure, the bomb misses entirely, dealing no damage. Add [splash](rules/traits/splash.md "Splash Weapon Trait") damage together with the initial damage against the target before applying the target's resistance or weakness. You don't multiply [splash](rules/traits/splash.md "Splash Weapon Trait") damage on a critical hit.
 
-For example, if you throw a lesser acid flask and hit your target, that creature takes 1 acid damage, 1d6 persistent acid damage, and 1 acid splash damage. All other creatures within 5 feet of it take 1 acid splash damage. On a critical hit, the target takes 2 acid damage and 2d6 persistent acid damage, but the splash damage is still 1. If you miss, the target and all creatures within 5 feet take only 1 splash damage. If you critically fail, no one takes any damage.
+For example, if you throw a lesser acid flask and hit your target, that creature takes 1 acid damage, 1d6 [persistent acid damage](rules/conditions.md#Persistent%20Damage), and 1 acid [splash](rules/traits/splash.md "Splash Weapon Trait") damage. All other creatures within 5 feet of it take 1 acid [splash](rules/traits/splash.md "Splash Weapon Trait") damage. On a critical hit, the target takes 2 acid damage and 2d6 [persistent acid damage](rules/conditions.md#Persistent%20Damage), but the [splash](rules/traits/splash.md "Splash Weapon Trait") damage is still 1. If you miss, the target and all creatures within 5 feet take only 1 [splash](rules/traits/splash.md "Splash Weapon Trait") damage. If you critically fail, no one takes any damage.
 
 ### Alchemical Elixirs
 <sup>CRB p. 546</sup>
@@ -692,7 +692,7 @@ During your daily preparations, you can prepare a staff to add charges to it for
 #### Prepared Spellcasters
 <sup>CRB p. 592</sup>
 
-A prepared spellcaster—such as a cleric, druid, or wizard— can place some of their own magic in a staff to increase its number of charges. When a prepared spellcaster prepares a staff, they can expend a spell slot to add a number of charges to the staff equal to the level of the spell. They can't expend more than one spell in this way each day. For example, if Ezren can cast 3rd-level spells and prepared a staff, the staff would gain 3 charges, but Ezren could increase this to 6 by expending one of his 3rd-level spells, 5 by expending a 2nd-level spell, or 4 by expending a 1st-level spell.
+A prepared spellcaster—such as a cleric, druid, or wizard—can place some of their own magic in a staff to increase its number of charges. When a prepared spellcaster prepares a staff, they can expend a spell slot to add a number of charges to the staff equal to the level of the spell. They can't expend more than one spell in this way each day. For example, if Ezren can cast 3rd-level spells and prepared a staff, the staff would gain 3 charges, but Ezren could increase this to 6 by expending one of his 3rd-level spells, 5 by expending a 2nd-level spell, or 4 by expending a 1st-level spell.
 
 #### Spontaneous Spellcasters
 <sup>CRB p. 592</sup>

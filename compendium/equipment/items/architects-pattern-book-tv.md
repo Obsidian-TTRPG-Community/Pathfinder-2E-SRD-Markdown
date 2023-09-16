@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-item
+cssclasses: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/tv
 - item/category/grimoire/
@@ -23,7 +23,7 @@ title: **Activate** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Action
 
 - **Frequency**: once per week
 
-**Effect** If your next action is to cast a cozy cabin APG, [magnificent mansion](compendium/spells/magnificent-mansion.md) or [resplendent mansion](compendium/spells/resplendent-mansion.md) spell, you add a room to the structure that is up to 10 feet per side per level of the spell. This room is outfitted with all the accoutrements for a particular type of recreation, determined by you when you cast the spell. Any character who spends at least 1 hour using this recreational facility and then sleeps a full 8 hours inside the location created by the spell is exceptionally well-rested. They regain double the amount of Hit Points they would normally receive for an 8-hour rest, and when they make the next day's preparations, they gain a +1 circumstance bonus to [Athletics](compendium/skills.md#Athletics) checks and Will saves for the next 12 hours.  
+**Effect** If your next action is to cast a [cozy cabin](compendium/spells/cozy-cabin-apg.md), [magnificent mansion](compendium/spells/magnificent-mansion.md) or [resplendent mansion](compendium/spells/resplendent-mansion.md) spell, you add a room to the structure that is up to 10 feet per side per level of the spell. This room is outfitted with all the accoutrements for a particular type of recreation, determined by you when you cast the spell. Any character who spends at least 1 hour using this recreational facility and then sleeps a full 8 hours inside the location created by the spell is exceptionally well-rested. They regain double the amount of Hit Points they would normally receive for an 8-hour rest, and when they make the next day's preparations, they gain a +1 circumstance bonus to [Athletics](compendium/skills.md#Athletics) checks and Will saves for the next 12 hours.  
 %%
  #trait/metamagic 
 %%

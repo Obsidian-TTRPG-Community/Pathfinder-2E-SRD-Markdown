@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclass: pf2e,pf2e-archetype
+cssclasses: pf2e,pf2e-archetype
 tags:
 - compendium/src/pf2e/g&g
 aliases: ["Demolitionist"]
@@ -24,7 +24,7 @@ title: **Set Explosives** [>>](rules/core-rulebook/chapter-9-playing-the-game.md
 
 - **Requirements**: You have 1 or 2 bombs in hand
 
-**Effect** You attach the bombs to an inanimate object within your reach, such as a door, wall, or column, and rig them to detonate at a set time. The bombs explode at a specific time you determine (such as after your next action or at the start of your next turn, to a maximum of 1 minute), dealing their damage and splash damage to the inanimate object. Combine this damage for the purpose of resistances and weaknesses, and this damage ignores an amount of the object's Hardness equal to your level. Any creatures adjacent to the hazard take the bombs' splash damage, also combined for the purpose of resistances and weaknesses. As a reminder, since you didn't throw the bombs, Calculated Splash and similar effects don't apply. Making sure your timing is correct requires concentration, so you can't Set Explosives again while you're waiting for a previously set bomb to detonate.  
+**Effect** You attach the bombs to an inanimate object within your reach, such as a door, wall, or column, and rig them to detonate at a set time. The bombs explode at a specific time you determine (such as after your next action or at the start of your next turn, to a maximum of 1 minute), dealing their damage and [splash](rules/traits/splash.md "Splash Weapon Trait") damage to the inanimate object. Combine this damage for the purpose of resistances and weaknesses, and this damage ignores an amount of the object's Hardness equal to your level. Any creatures adjacent to the hazard take the bombs' [splash](rules/traits/splash.md "Splash Weapon Trait") damage, also combined for the purpose of resistances and weaknesses. As a reminder, since you didn't throw the bombs, Calculated Splash and similar effects don't apply. Making sure your timing is correct requires concentration, so you can't Set Explosives again while you're waiting for a previously set bomb to detonate.  
 %%
  #trait/concentrate 
 %%
@@ -53,7 +53,7 @@ title: **Fire in the Hole** [R](rules/core-rulebook/chapter-9-playing-the-game.m
 
 - **Trigger**: A creature moves into the hazard's space
 
-**Effect** The hazard explodes, dealing the bombs' damage and splash damage to the inanimate object. Combine this damage for the purpose of resistances and weaknesses, and this damage ignores an amount of the object's Hardness equal to your level. Any creatures adjacent to the hazard take the bombs' splash damage, similarly combined for the purpose of resistances and weaknesses.
+**Effect** The hazard explodes, dealing the bombs' damage and [splash](rules/traits/splash.md "Splash Weapon Trait") damage to the inanimate object. Combine this damage for the purpose of resistances and weaknesses, and this damage ignores an amount of the object's Hardness equal to your level. Any creatures adjacent to the hazard take the bombs' [splash](rules/traits/splash.md "Splash Weapon Trait") damage, similarly combined for the purpose of resistances and weaknesses.
 
 As a reminder, since you didn't throw the bombs, Calculated Splash and similar effects don't apply.
 ```
@@ -83,7 +83,7 @@ collapse: closed
 > [!pf2-note] This version of [Calculated Splash](compendium/feats/calculated-splash.md) is intended for use with the Demolitionist Archetype. Its level has been changed accordingly.
 
 
-You have calculated all the angles to maximize a bomb's splash. When you throw an alchemical bomb with the [splash](rules/traits/splash.md "Splash Weapon Trait") trait, you can cause the bomb to deal splash damage equal to your Intelligence modifier (minimum 0) instead of the normal amount.
+You have calculated all the angles to maximize a bomb's splash. When you throw an alchemical bomb with the [splash](rules/traits/splash.md "Splash Weapon Trait") trait, you can cause the bomb to deal [splash](rules/traits/splash.md "Splash Weapon Trait") damage equal to your Intelligence modifier (minimum 0) instead of the normal amount.
 
 *Source: Core Rulebook p. 77*  
 %% #trait/alchemist %%
@@ -110,7 +110,7 @@ collapse: closed
 
 - **Prerequisites**: [Demolitionist Dedication](compendium/feats/demolitionist-dedication-g-g.md); [Calculated Splash](compendium/feats/calculated-splash.md), [Directional Bombs](compendium/feats/directional-bombs.md), or [Expanded Splash](compendium/feats/expanded-splash.md)
 
-You maximize the effectiveness of your explosives by controlling every possible parameter of the blast meticulously. If you have the [Directional Bombs](compendium/feats/directional-bombs.md) feats, you can use it with Set Explosives or Demolition Charge, even though you didn't throw the bombs. If you have the [Calculated Splash](compendium/feats/calculated-splash.md) or [Expanded Splash](compendium/feats/expanded-splash.md) feats, you can apply the additional splash damage to one of the bombs when you Set Explosives or use Demolition Charge, and you can apply the increased splash area from [Expanded Splash](compendium/feats/expanded-splash.md) to all the bombs.
+You maximize the effectiveness of your explosives by controlling every possible parameter of the blast meticulously. If you have the [Directional Bombs](compendium/feats/directional-bombs.md) feats, you can use it with Set Explosives or Demolition Charge, even though you didn't throw the bombs. If you have the [Calculated Splash](compendium/feats/calculated-splash.md) or [Expanded Splash](compendium/feats/expanded-splash.md) feats, you can apply the additional [splash](rules/traits/splash.md "Splash Weapon Trait") damage to one of the bombs when you Set Explosives or use Demolition Charge, and you can apply the increased splash area from [Expanded Splash](compendium/feats/expanded-splash.md) to all the bombs.
 
 *Source: Guns & Gears p. 133*  
 %% #trait/archetype %%
@@ -157,7 +157,7 @@ collapse: closed
 
 - **Prerequisites**: [Calculated Splash](compendium/feats/calculated-splash.md)
 
-The particularly volatile compounds that you brew into your bombs result in them creating especially large and powerful explosions. When you throw an [alchemical](rules/traits/alchemical.md "Alchemical Item Trait") [bomb](rules/traits/bomb.md "Bomb Item Trait") and that bomb has the [splash](rules/traits/splash.md "Splash Weapon Trait") trait, you can add your Intelligence modifier to the bomb's usual splash damage, and it deals splash damage to every creature within 10 feet of the target.
+The particularly volatile compounds that you brew into your bombs result in them creating especially large and powerful explosions. When you throw an [alchemical](rules/traits/alchemical.md "Alchemical Item Trait") [bomb](rules/traits/bomb.md "Bomb Item Trait") and that bomb has the [splash](rules/traits/splash.md "Splash Weapon Trait") trait, you can add your Intelligence modifier to the bomb's usual [splash](rules/traits/splash.md "Splash Weapon Trait") damage, and it deals [splash](rules/traits/splash.md "Splash Weapon Trait") damage to every creature within 10 feet of the target.
 
 *Source: Core Rulebook p. 79*  
 %% #trait/alchemist %%
