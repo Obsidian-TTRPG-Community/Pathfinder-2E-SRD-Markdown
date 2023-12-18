@@ -133,6 +133,27 @@ penalty: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris facili
 sourcebook: "Lorem ipsum dolor sit amet"
 ```
 
+## Item Statblock
+
+```statblock
+layout: Pathfinder 2e Item Layout
+sourcebook: "Lorem ipsum dolor sit amet"
+name: "Item Name"
+level: "Item ?"
+
+rare_03: "Rare"
+trait_01: "Trait 1"
+trait_02: "Trait 2"
+
+usage: "Lorem ipsum dolor sit amet"
+activate: __Lorem ipsum dolor__ ⬻ __Effect__ Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris facilisis neque metus, ac maximus elit tempor non. Ut egestas enim id odio aliquam aliquet. Ut mollis dui vitae volutpat hendrerit."
+
+type_01: "*item*; __Level__ 9; __Price__ 750gp"
+type_02: "*greater item*; __Level__ 14; __Price__ 1650gp; Lorem ipsum dolor sit amet"
+craft-requirements: "Lorem ipsum dolor sit amet"
+```
+
 ## Misc Statblock
 
 ```statblock
@@ -150,6 +171,21 @@ trait_04: "trait 4 ..."
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris facilisis neque metus, ac maximus elit tempor non. Ut egestas enim id odio aliquam aliquet. Ut mollis dui vitae volutpat hendrerit. Fusce tincidunt in mauris id fermentum. Nulla sit amet quam mi. Sed laoreet fringilla ante, eu aliquet turpis finibus a."
 
 sourcebook: "Lorem ipsum dolor sit amet"
+```
+
+## Plane Statblock
+
+```statblock
+layout: Pathfinder 2e Plane Layout
+sourcebook: "Lorem ipsum dolor sit amet"
+name: "Plane Name"
+level: "Plane"
+trait_01: "Trait 1"
+trait_02: "Trait 2"
+category: "Lorem ipsum dolor sit amet"
+divinities: "Lorem ipsum dolor sit amet"
+native-inhabitants: "Lorem ipsum dolor sit amet"
+description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris facilisis neque metus, ac maximus elit tempor non. Ut egestas enim id odio aliquam aliquet. Ut mollis dui vitae volutpat hendrerit. Fusce tincidunt in mauris id fermentum. Nulla sit amet quam mi. Sed laoreet fringilla ante, eu aliquet turpis finibus a."
 ```
 
 ## Quest Statblock
